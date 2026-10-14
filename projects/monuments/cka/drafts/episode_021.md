@@ -6,11 +6,16 @@
 - **YouTube id**: Qt0VHV-POCg
 - **Candace Ep**: 254
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:57:35
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10b): N-770, N-11100, N-11101
+  - Hole-minted Nodes (reintro-ep021): N-213, N-336, N-10319, N-10323, N-10353
+  - Tip-minted Nodes (reintro-ep021): N-674
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10b): C-6512–C-6551
   - (see registers)
 
 ## 6. Meme Register
@@ -41,6 +46,41 @@ Confidence: high
 
 ---
 
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:51:23
+Speaker: N-3
+Quote: I wore my Candace CIA sweater in public today.
+Context: Host reads a viewer comment about wearing Candace CIA merch.
+Tags: cia merch, viewer comment
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:55:42
+Speaker: N-3
+Quote: buy yourself some gear some CIA gear
+Context: Host plugs merch at the end of the episode.
+Tags: cia merch, merch plug
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:55:42
+Speaker: N-3
+Quote: You can go to make him a sandwichand. com to buy your copy of the book.
+Context: Host plugs her book while describing the feminist movement.
+Tags: book plug, merch
+Confidence: high
+
+---
+
 # I. Meta-Data
 
 - Episode title: "Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254"
@@ -55,8 +95,8 @@ Confidence: high
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
   - Claim Range: C-1514–C-1526
-  - New Nodes Introduced: N-203, N-10200, N-10201, N-10202
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-203, N-10200, N-10202
+  - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-182, N-194, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-132
 
 ---
@@ -169,6 +209,73 @@ Confidence Level: Medium (referenced but not displayed)
 
 ---
 
+**A-2818** Trump Truth Social AI Photo Bundle
+
+**A-2818.1** Host verbal reference to Trump's Truth Social post of an AI photo of himself and Charlie Kirk with a Star of David in the background (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:11:02
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-6518, N-5, N-1, N-3*
+
+---
+
+**A-2819** Trump Memorial Speech Bundle
+
+**A-2819.1** Host verbal reference to Trump's memorial speech story about Charlie interviewing fourth grader Breland Holland (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:18:15
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-6523, N-5, N-1, N-770*
+
+---
+
+**A-2820** Charlie Kirk Close-Up Video Bundle
+
+**A-2820.1** Host verbal reference to close-up videos of Charlie Kirk being carried after the shooting without first aid (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:27:36
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-6529, N-1, N-3*
+
+---
+
+**A-2821** Alex Clark Interview With Kolvet and Erika Kirk Bundle
+
+**A-2821.1** Host verbal reference to an Alex Clark interview with Andrew Kolvet and Erika Kirk about whether Charlie was Catholic (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:29:08
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-6530, N-99, N-14, N-2*
+
+---
+
+**A-2822** Viewer Comment on Maxwell Textbooks Bundle
+
+**A-2822.1** Host reads a viewer comment about Maxwell textbooks
+
+Quoted text: "The fact that they tried to pass that off as a wound from a 306 just tells us how soup they think that we really are."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:53:20
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-6548, N-47, N-48*
+
+---
+
 # IV. Node Register
 
 **N-17** Rob McCoy
@@ -245,6 +352,256 @@ Node Type: Person
 White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings.
 
 *Related: C-1520, C-1526*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host recounts his childhood, instructions, donors and burial.
+
+*Related: C-6512, C-6513, C-6514, C-6515, C-6516, C-6518, C-6519, C-6520, C-6523, C-6524, C-6525, C-6528, C-6529, C-6530, C-6531, C-6532, C-6534, C-6535, C-6545, C-6546, C-6547*
+
+---
+
+**N-10025** Israel Lobby Pressure on Conservative Figures
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6519, C-6534, C-6540*
+
+---
+
+**N-10047** Donor Intimidation of Charlie Kirk
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6533, C-6534, C-6547*
+
+---
+
+**N-10081** Israel Influence on US Politics
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6550*
+
+---
+
+**N-10139** Operation Mocking Pastor
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6531*
+
+---
+
+**N-10166** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6517*
+
+---
+
+**N-10319** .30-06 Forensic Narrative Validity
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6520*
+
+---
+
+**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6532*
+
+---
+
+**N-10350** Charlie Kirk Catholicism Journey
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6530*
+
+---
+
+**N-10353** Rob McCoy Wikipedia TPUSA Faith Entry
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6514*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson; the host relays his account of Charlie's instructions and the Alex Clark interview.
+
+*Related: C-6527, C-6528, C-6530, C-6533*
+
+---
+
+**N-182** Jared Kushner
+
+Named by the host regarding Israel investments.
+
+*Related: C-6540*
+
+---
+
+**N-194** Mikey McCoy
+
+Host says he is missing from the Charlie Kirk Show.
+
+*Related: C-6527, C-6528*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; named in the Don Jr. clip and in the Wikipedia timing.
+
+*Related: C-6516, C-6530, C-6536*
+
+---
+
+**N-213** Joe Kent
+
+Official whose inquiry the host urges to continue.
+
+*Related: C-6526*
+
+---
+
+**N-22** Tucker Carlson
+
+Named in a viewer comment about the Wikipedia creator.
+
+*Related: C-6549*
+
+---
+
+**N-3** Candace Owens
+
+Host.
+
+*Related: C-6512, C-6513, C-6515, C-6518, C-6521, C-6522, C-6523, C-6526, C-6529, C-6531, C-6532, C-6534, C-6535, C-6539, C-6541, C-6542, C-6543, C-6544, C-6545, C-6546, C-6547, C-6549, C-6550, C-6551*
+
+---
+
+**N-33** Donald Trump Jr.
+
+Subject of the Megyn Kelly clip and the host's open address.
+
+*Related: C-6535, C-6536, C-6537, C-6538, C-6539, C-6540*
+
+---
+
+**N-336** Tulsi Gabbard
+
+DNI named alongside Joe Kent.
+
+*Related: C-6526*
+
+---
+
+**N-40** Tyler Robinson
+
+Charged suspect; the host disputes that he acted alone.
+
+*Related: C-6519, C-6520*
+
+---
+
+**N-47** Ghislaine Maxwell
+
+Named in the viewer comment on Maxwell textbooks.
+
+*Related: C-6548*
+
+---
+
+**N-48** Robert Maxwell
+
+Ghislaine Maxwell's father, discussed regarding textbook publishing.
+
+*Related: C-6548*
+
+---
+
+**N-5** Donald Trump
+
+President; subject of the AI photo, memorial speech story and Epstein remark.
+
+*Related: C-6518, C-6523, C-6538*
+
+---
+
+**N-674** Ivanka Trump
+
+Named by the host regarding Israel investments.
+
+*Related: C-6540*
+
+---
+
+**N-69** Kash Patel
+
+FBI director; host says he limits the Kirk case team and attended the memorial.
+
+*Related: C-6524, C-6525*
+
+---
+
+**N-9** Jeffrey Epstein
+
+Named in the host's remarks about Don Jr., Trump and the Maxwell textbook comment.
+
+*Related: C-6538, C-6548*
+
+---
+
+**N-98** Bob Shulman
+
+Donor the host says withdrew 2 million dollars from TPUSA (transcript: Bob Showman).
+
+*Related: C-6533*
+
+---
+
+**N-99** Alex Clark
+
+Interviewer of Kolvet and Erika Kirk, per the host.
+
+*Related: C-6530*
+
+---
+
+**N-11100** Charlie Kirk Post-Shooting First Aid Question
+
+Node Type: Topic
+The host's claims that Kirk received no first aid after being shot and her account of Kolvet's explanation that Kirk had told them not to help him if shot in the neck.
+
+*Related: C-6528, C-6529*
+
+---
+
+**N-11101** TPUSA Wikipedia Cleanup Operative Claim
+
+Node Type: Topic
+The host's recollection that Charlie Kirk told her TPUSA had found a person to clean up Wikipedia pages, and her question who made the McCoy edit.
+
+*Related: C-6515*
+
+---
+
+**N-770** Breland Holland
+
+First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.
+
+*Related: C-6523*
 
 ---
 
@@ -439,6 +796,630 @@ Mentions: N-203, N-3
 
 
 Investigative Direction: Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode.
+
+---
+
+**C-6512** Host Says Charlie Was a Gifted Child Whose Parents Refused ADHD Medication
+
+Claim Timestamp: 00:01:24
+
+Claim: The host says that as a child Charlie Kirk was so hyperactive that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times.
+
+Transcript Snippet: of course doctors immediately wanted to put him on ADHD medicine because well why is he so hyperactive?
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:context
+Investigative Direction: Ask the Kirk family or early associates to confirm the childhood schooling and the ADHD medication decision; look for school records or biographies that mention it.
+
+---
+
+**C-6513** Host Believes Charlie Was Assigned Life Handlers After Gifted Schooling
+
+Claim Timestamp: 00:01:24
+
+Claim: The host says she truly believes Charlie Kirk was probably assigned 'life handlers' from the time he entered a school for gifted children, and speculates that standardized tests exist so the government can track high performers.
+
+Transcript Snippet: I truly believe that he was probably assigned like life handlers from that moment on.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:tangential
+Investigative Direction: No document is cited; the claim is speculation and would need records of any monitoring programme tied to Kirk's schooling.
+
+---
+
+**C-6514** Wikipedia Entry Text Says McCoy Co-Chaired TPUSA Faith and Inspired Kirk
+
+Claim Timestamp: 00:03:03
+
+Claim: The host reads the new Wikipedia entry as saying McCoy is co-chairman of TPUSA Faith, is a Pentecostal pastor in the Calvary Chapel Association, and inspired Kirk to amalgamate Christianity and social conservatism.
+
+Transcript Snippet: McCoy is the co-chairman of TPUs faith, aligned with the Christian right, McCoy inspired Kirk to amalgamate Christianity and social conservatism.
+
+Anchored Artifacts: A-1283.2
+Mentions: N-17, N-1
+Related Nodes: N-10353
+Supports: C-1514
+Tags: relevance:core
+Investigative Direction: Pull the revision of the TPUSA Wikipedia article saved on 11 September 2025 and compare the exact wording and cited sources with what the host read.
+
+---
+
+**C-6515** Host Says Charlie Told Her TPUSA Had Found Someone to Clean Up Wikipedia Pages
+
+Claim Timestamp: 00:06:48
+
+Claim: The host says Charlie Kirk told her that Turning Point USA had found a person who could clean up Wikipedia pages, that organizations pay people to do this full time, and that she cannot yet recall who the person was.
+
+Transcript Snippet: I know he told me that they Turning Point USA's organization had found a guy that could help clean up the Wikipedia pages.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11101, N-10200
+Tags: relevance:core
+Investigative Direction: Search the host's saved messages with Charlie Kirk for the Wikipedia-cleanup contact, and compare Wikipedia edit histories of TPUSA pages for paid-editor disclosures.
+
+---
+
+**C-6516** Host Says Erika Kirk Had Not Yet Been Announced as Chair and CEO When the Edit Was Made
+
+Claim Timestamp: 00:08:58
+
+Claim: The host says that less than 36 hours after the shooting she does not think TPUSA had yet announced Erika Kirk as chairman and CEO, and does not think Charlie's body had returned to Arizona, yet someone had already added McCoy to Wikipedia.
+
+Transcript Snippet: I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later.
+
+Anchored Artifacts: A-1283.2
+Mentions: N-2, N-17, N-1
+Related Nodes: N-10200
+Tags: relevance:core
+Investigative Direction: Compare the Wikipedia edit timestamp of 10:34 PM ET on 11 September 2025 with the TPUSA announcement of Erika Kirk as CEO and with the date Kirk's body returned to Arizona.
+
+---
+
+**C-6517** Host Says McCoy Is Paid by TPUSA Faith for Upcoming Pastor Summits
+
+Claim Timestamp: 00:08:58
+
+Claim: The host says Rob McCoy was one of the advisers on the TPUSA Faith advisory board, that he gets paid by TPUSA Faith for its upcoming pastor summits, and that he would benefit financially from the direction the division was taking.
+
+Transcript Snippet: I know that he gets paid um by TP US faith upcoming uh pastor summits
+
+Anchored Artifacts: 
+Mentions: N-17
+Related Nodes: N-10166
+Tags: relevance:context
+Investigative Direction: Request TPUSA Faith contracts, speaker agreements or IRS Form 990 compensation disclosures showing payments to McCoy.
+
+---
+
+**C-6518** Host Says Trump Posted an AI Photo of Himself and Charlie With a Star of David
+
+Claim Timestamp: 00:11:02
+
+Claim: The host says that when Charlie Kirk died, Trump rushed to post on Truth Social an AI image of himself and Charlie with a Star of David in the background, and that she knew then the investigation was over.
+
+Transcript Snippet: when Trump rushed to tweet out that or social truth social out that photo, that AI photo of him and Charlie with the star of David in the background.
+
+Anchored Artifacts: A-2818.1
+Mentions: N-5, N-1, N-3
+Tags: relevance:context
+Investigative Direction: Locate the original Truth Social post, its date and the image, and verify whether the image is AI generated and contains a Star of David.
+
+---
+
+**C-6519** Host Says Pro-Israel Figures Were the Most Insistent That Questions About Charlie's Death Stop
+
+Claim Timestamp: 00:11:02
+
+Claim: The host says the people most insistent from the early hours that others stop asking about Charlie Kirk's death were those dedicated to the Israel lobby, and challenges viewers to find one pro-Israel person with a platform who says Tyler Robinson did not kill Kirk.
+
+Transcript Snippet: Find me one, just one real life pro-Israel individual who is expressing that they don't believe that Charlie Kirk was killed by Tyler Robinson.
+
+Anchored Artifacts: 
+Mentions: N-1, N-40
+Related Nodes: N-10025
+Tags: relevance:context
+Investigative Direction: Survey public statements by prominent pro-Israel commentators on the Robinson case to test the host's challenge.
+
+---
+
+**C-6520** Host Says the Evidence Is Overwhelming That Robinson Did Not Act Alone, Fire the Shot or Use a .30-06
+
+Claim Timestamp: 00:11:02
+
+Claim: The host says the evidence is overwhelming that Tyler Robinson did not act alone, did not fire the shot and did not use a .30-06 rifle.
+
+Transcript Snippet: The evidence is overwhelming that Tyler Robinson didn't act alone, that Tyler Robinson didn't fire the shot, that Tyler Robinson didn't use a 30 odd six.
+
+Anchored Artifacts: 
+Mentions: N-40, N-1
+Related Nodes: N-10319
+Tags: relevance:core
+Investigative Direction: Compare the host's cited evidence with the charging documents, the ballistics report and the recovered rifle record.
+
+---
+
+**C-6521** Host Says TPUSA Clears About a Hundred Million Dollars a Year
+
+Claim Timestamp: 00:13:10
+
+Claim: The host says Turning Point USA is clearing about a hundred million dollars a year and still asks the public to give more.
+
+Transcript Snippet: Clearing like a hundred million a year. They don't have enough.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:context
+Investigative Direction: Check TPUSA's Form 990 filings for total annual revenue and compare with the host's later figure of 70 million in the last year.
+
+---
+
+**C-6522** Host Says the Feds Probably Killed Martin Luther King Jr.
+
+Claim Timestamp: 00:13:10
+
+Claim: The host says that when the feds line up to give someone a holiday it is never good, and that she thinks the feds definitely killed Martin Luther King Jr.
+
+Transcript Snippet: I think maybe the feds definitely killed Martin Luther King Jr.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Off-topic historical assertion recorded as said; no document is cited.
+
+---
+
+**C-6523** Host Says Trump Told a Memorial Story About Charlie and Breland Holland Although Trump Was Not There
+
+Claim Timestamp: 00:18:15
+
+Claim: The host says Trump, in his speech at Charlie Kirk's memorial, told a story about Charlie interviewing a fourth grader named Breland Holland, that Trump was not present and that she herself was next to Charlie at that interview.
+
+Transcript Snippet: Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Breland Holland?
+
+Anchored Artifacts: A-2819.1
+Mentions: N-5, N-1, N-3, N-770
+Tags: relevance:context
+Investigative Direction: Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Breland Holland to see who attended.
+
+---
+
+**C-6524** Host Says Kash Patel Attended Charlie's Memorial
+
+Claim Timestamp: 00:19:09
+
+Claim: The host says Kash Patel showed his face at Charlie Kirk's memorial, and says she would have died of shame before attending as Patel.
+
+Transcript Snippet: I would pass away right immediately from shame before I would show up to that event if I was Kash Patel.
+
+Anchored Artifacts: 
+Mentions: N-69, N-1
+Tags: relevance:context
+Investigative Direction: Check the memorial attendee list and event footage for Patel.
+
+---
+
+**C-6525** Host Says Patel Limits the Kirk Case to a Very Small Team at the FBI
+
+Claim Timestamp: 00:19:58
+
+Claim: The host says Kash Patel has a very small team of people at the FBI who are allowed to touch anything pertaining to the Charlie Kirk case.
+
+Transcript Snippet: he's got a very small team of people at the FBI that are allowed to touch anything pertaining to the Charlie Kirk case
+
+Anchored Artifacts: 
+Mentions: N-69, N-1
+Related Nodes: N-10202
+Tags: relevance:core
+Investigative Direction: Request FBI organizational records or congressional testimony describing who has access to the Kirk case file.
+
+---
+
+**C-6526** Host Says She Suspects Foreign Entities Were Involved and Is Getting Close
+
+Claim Timestamp: 00:22:45
+
+Claim: The host says she and her team are getting very close to what happened on the day, that she is getting the suspicion that foreign entities were involved, and asks Joe Kent and Tulsi Gabbard to keep going.
+
+Transcript Snippet: I'm getting the suspicion that there were some foreign entities involved.
+
+Anchored Artifacts: 
+Mentions: N-213, N-336, N-3
+Related Nodes: N-10202
+Tags: relevance:core
+Investigative Direction: Ask the host to identify the evidence behind the suspicion of foreign involvement, and compare with the Kent inquiry reported by the New York Times.
+
+---
+
+**C-6527** Host Says Mikey McCoy and Kolvet Were Absent From the Charlie Kirk Show
+
+Claim Timestamp: 00:26:49
+
+Claim: The host says Mikey McCoy, who took the seat after Charlie, is missing from the Charlie Kirk Show and that Andrew Kolvet was missing from the episode of that day.
+
+Transcript Snippet: Mikey McCoy is missing um from the Charlie Kirk show.
+
+Anchored Artifacts: 
+Mentions: N-194, N-14
+Tags: relevance:context
+Investigative Direction: Check the Charlie Kirk Show episode listing and host roster for the date of this episode.
+
+---
+
+**C-6528** Host Relays Kolvet's Account That Charlie Said Not to Help Him If Shot in the Neck
+
+Claim Timestamp: 00:26:49
+
+Claim: The host says Andrew Kolvet told people Charlie was explicit that if he was ever shot at an event in the left side of the neck, the first thing he wanted was for people not to help him.
+
+Transcript Snippet: Charlie said, "If I ever get shot at an event, the left side of my neck, the first thing I want you to do is not help me."
+
+Anchored Artifacts: 
+Mentions: N-14, N-1, N-194
+Related Nodes: N-11100
+Tags: relevance:core
+Investigative Direction: Find Kolvet's original statement and who heard Charlie say it; ask security and staff whether any such instruction existed.
+
+---
+
+**C-6529** Host Says Charlie Was Given No First Aid and the Wound Was Not Secured
+
+Claim Timestamp: 00:27:36
+
+Claim: The host says Charlie Kirk was not administered any first aid, that she has close-up videos of this, and that no gauze was applied and the wound was not secured as they carried him to the hospital.
+
+Transcript Snippet: He was not administered any first aid. I have the close-up videos of that.
+
+Anchored Artifacts: A-2820.1
+Mentions: N-1, N-3
+Related Nodes: N-11100
+Tags: relevance:core
+Investigative Direction: Review the close-up videos and medical records and interview the security team on first aid steps taken before transport.
+
+---
+
+**C-6530** Host Says Alex Clark Released an Interview in Which Kolvet Said Charlie and Erika Were Committed Evangelicals
+
+Claim Timestamp: 00:29:08
+
+Claim: The host says Alex Clark released an interview with Andrew Kolvet and Erika Kirk days after the memorial in which they said Charlie and Erika were committed evangelicals who liked the smells and bells but not the substance of Catholicism.
+
+Transcript Snippet: Alex Clark released that interview with her and Andrew Kovette and they struggle sessioned through that.
+
+Anchored Artifacts: A-2821.1
+Mentions: N-99, N-14, N-2, N-1
+Related Nodes: N-10350
+Supports: C-1255
+Tags: relevance:context
+Investigative Direction: Locate the Alex Clark interview and check what Kolvet and Erika Kirk said about Catholicism.
+
+---
+
+**C-6531** Host Says Operation Mocking Pastor Figures Denied the Catholic Point
+
+Claim Timestamp: 00:29:08
+
+Claim: The host says that after she mildly said Charlie was close to converting, accounts she calls Operation Mocking Pastor or mocking evangelical influencers went out saying it was not true.
+
+Transcript Snippet: operation mocking pastor or mocking evangelical influencer went out and they all were like, "That's not true.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10139
+Supports: C-1255
+Tags: relevance:context
+Investigative Direction: Collect the public denials from evangelical influencers and compare dates with the host's earlier statements.
+
+---
+
+**C-6532** Host Says Charlie Had a Catholic Funeral Mass and Is Buried in a Catholic Cemetery
+
+Claim Timestamp: 00:29:08
+
+Claim: The host says the reason there has been no burial coverage is that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery.
+
+Transcript Snippet: Charlie had a Catholic funeral mass and he is buried in a Catholic cemetery.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10323, N-10201
+Tags: relevance:core
+Investigative Direction: Check parish and cemetery records, the funeral program and public notices for the rite and burial location.
+
+---
+
+**C-6533** Host Says Bob Showman Took $2 Million Away and TPUSA Brought In 70 Million Last Year
+
+Claim Timestamp: 00:30:22
+
+Claim: The host says donor Bob Showman took 2 million dollars away from Turning Point USA and that, by her account, the organization brought in 70 million dollars last year, questioning whether the donors Kolvet called a small portion cut the bigger checks.
+
+Transcript Snippet: Like Bob Showman took $2 million away. That's got to mean something.
+
+Anchored Artifacts: 
+Mentions: N-98, N-14
+Related Nodes: N-10047
+Tags: relevance:context
+Investigative Direction: Obtain TPUSA's Form 990 and donor records for the year and verify the 70 million total and the 2 million withdrawal.
+
+---
+
+**C-6534** Host Says Donors Are Pressuring TPUSA Staff to Maintain That Charlie Died Pro-Israel
+
+Claim Timestamp: 00:30:22
+
+Claim: The host says she thinks donors have insisted and are pressuring TPUSA people, as she is hearing, to maintain the idea that Charlie died pro-Israel.
+
+Transcript Snippet: I think they insisted and are pressuring them as we are hearing to maintain the idea that Charlie died pro-Israel.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10047, N-10025
+Tags: relevance:context
+Investigative Direction: Identify the sources the host says she is hearing from and any messages from donors asking TPUSA to maintain a pro-Israel framing.
+
+---
+
+**C-6535** Host Says Don Jr. Helped Build Turning Point USA and Did Campus Events With Her and Charlie
+
+Claim Timestamp: 00:32:12
+
+Claim: The host says Donald Trump Jr. helped build Turning Point USA, did many college campus events with her and Charlie, and was the most committed Trump family member to TPUSA's early story.
+
+Transcript Snippet: Don Jr., by the way, I would say was one of the people who very much helped to build Turning Point USA.
+
+Anchored Artifacts: 
+Mentions: N-33, N-1, N-3
+Tags: relevance:context
+Investigative Direction: Check TPUSA campus event schedules and photos from 2016 to 2018 for Don Jr. appearances.
+
+---
+
+**C-6536** Don Jr. Says He Has Spoken to Erika and Others and Does Have Confidence
+
+Claim Timestamp: 00:33:50
+
+Claim: In the Megyn Kelly clip Don Jr. says he has spoken to everyone around, including Erika, and that he does have confidence in the FBI investigation.
+
+Transcript Snippet: but I've spoken to everyone, you know, around and, you know, Erika and like like I I I do have confidence
+
+Anchored Artifacts: A-1287.1
+Mentions: N-33, N-46, N-2
+Related Nodes: N-10202
+Tags: relevance:core
+Investigative Direction: Obtain the unedited Kelly interview and ask Don Jr. which people and what information he based his confidence on.
+
+---
+
+**C-6537** Don Jr. Says a Cottage Industry Profiteers Off Conspiracy Theories
+
+Claim Timestamp: 00:34:48
+
+Claim: In the same clip Don Jr. says there is a cottage industry of clicks and people happy to profiteer off conspiracy theories, that some of it goes off the rails, and that it has been used by the other side as a distraction.
+
+Transcript Snippet: there there is a cottage industry of just clicks and people that are more than happy to you know to profiteer you know off of that.
+
+Anchored Artifacts: A-1287.1
+Mentions: N-33, N-46
+Tags: relevance:context
+Investigative Direction: Obtain the full clip and ask which accounts or claims Don Jr. meant by the cottage industry.
+
+---
+
+**C-6538** Host Says Don Jr. Was Vocal About the Epstein Files Until His Father Asked If They Were Still Talking About Epstein
+
+Claim Timestamp: 00:35:31
+
+Claim: The host says Don Jr. was one of the most vocal people about the Jeffrey Epstein files until his father said, 'Are we still talking about Jeffrey Epstein?'
+
+Transcript Snippet: He was actually one of the people that was the most vocal about the Jeffrey Epste files until dad said, "Are we still talking about Jeffrey Epstein?"
+
+Anchored Artifacts: 
+Mentions: N-33, N-5, N-9
+Tags: relevance:context
+Investigative Direction: Compare Don Jr.'s public posts on the Epstein files over time with Trump's remarks.
+
+---
+
+**C-6539** Host Recounts Fishing With Don Jr. in British Columbia
+
+Claim Timestamp: 00:36:46
+
+Claim: The host says her favorite fishing experience was with Don Jr., fighting back sea lions or seals in British Columbia, and that he taught her about hunting and the wild.
+
+Transcript Snippet: my favorite fishing experience is actually with you, right? fighting back uh the sea lions or the seals in British Columbia.
+
+Anchored Artifacts: 
+Mentions: N-33, N-3
+Tags: relevance:tangential
+Investigative Direction: Personal anecdote recorded as said; trip dates would be needed to verify.
+
+---
+
+**C-6540** Host Says Jared and Ivanka's Israel Investments Explain Trump Family Silence
+
+Claim Timestamp: 00:38:46
+
+Claim: The host says the Trump family understands Jared, Ivanka and their investments in Israel and the pressure from Zionists to be quiet, and says Don Jr. does not truly believe the official account.
+
+Transcript Snippet: They understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet
+
+Anchored Artifacts: 
+Mentions: N-182, N-674, N-33
+Related Nodes: N-10025
+Tags: relevance:context
+Investigative Direction: Review disclosures of Kushner and Ivanka Trump investments in Israel and any contact with Don Jr. on the Kirk case.
+
+---
+
+**C-6541** Host Says Finkelstein Interview Will Be Released on Friday
+
+Claim Timestamp: 00:39:19
+
+Claim: The host says she sat down with Norman Finkelstein for an interview, just over two hours long, to be released on Friday.
+
+Transcript Snippet: have a conversation which we will be releasing on Friday uh with Norman Finkelestein.
+
+Anchored Artifacts: A-1288.1
+Mentions: N-203, N-3
+Tags: relevance:tangential
+Investigative Direction: Compare the release date of the Finkelstein interview with the host's stated Friday.
+
+---
+
+**C-6542** Host Says She Had Finkelstein on Her Show After October 7 While at the Daily Wire
+
+Claim Timestamp: 00:40:13
+
+Claim: The host says Norman Finkelstein was the reason she had him on her show shortly after October 7, when she worked at the Daily Wire, and what he told her pushed her to learn more about Gaza.
+
+Transcript Snippet: was the reason I had him on my show right after October 7th, sometime shortly thereafter when I was at the Daily Wire.
+
+Anchored Artifacts: 
+Mentions: N-203, N-3
+Tags: relevance:tangential
+Investigative Direction: Locate the Daily Wire episode with Finkelstein and check its date.
+
+---
+
+**C-6543** Host Says She and Her Husband Travel With Priests
+
+Claim Timestamp: 00:46:07
+
+Claim: The host says that when they were in Wyoming her family traveled with priests, something she and her husband began doing a year or two ago, and explains the new relic behind her.
+
+Transcript Snippet: when we were in Wyoming, we traveled with priests.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Personal statement recorded as said; no document is cited.
+
+---
+
+**C-6544** Host Says a TPUSA Employee Dreamed of Six Snakes Around a Colleague Before the Shooting
+
+Claim Timestamp: 00:48:45
+
+Claim: The host says a young woman at Turning Point emailed her that the week before the assassination she had a vivid dream of six snakes around a colleague, and that many people dreamed of the number six.
+
+Transcript Snippet: I had a very vivid dream about so and so at the company and six snakes that were around him.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Anecdote from unnamed email recorded as said; unverifiable without the email.
+
+---
+
+**C-6545** Host Says Dreams Suggest Six People Betrayed Charlie
+
+Claim Timestamp: 00:49:42
+
+Claim: The host says she is going by a vibe that six people may have betrayed Charlie because there were so many dreams involving the number six.
+
+Transcript Snippet: I'm kind of going by a vibe that there may be six people who betrayed him by the end of this
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:tangential
+Investigative Direction: Speculation from dreams recorded as said; no evidentiary basis offered.
+
+---
+
+**C-6546** Host Says Charlie Knew His Life Would Be Short and That She Would Defend Him
+
+Claim Timestamp: 00:50:36
+
+Claim: The host says Charlie knew his life was going to be short and knew that she would be the only one to defend him publicly and go to war with everyone.
+
+Transcript Snippet: he knew his life was going to be short.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:context
+Investigative Direction: Look for Charlie's messages or recorded remarks indicating he expected a short life and expected the host's defense.
+
+---
+
+**C-6547** Host Says the Big Jewish Donors at TPUSA Pressured Charlie
+
+Claim Timestamp: 00:51:23
+
+Claim: The host says she is not supported by the big donors, including the Jewish donors at Turning Point USA who were pressuring Charlie.
+
+Transcript Snippet: the big donors, the Jewish donors at Turning Point USA who are pressuring Charlie
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10047
+Supports: C-1258
+Tags: relevance:context
+Investigative Direction: Compare with Charlie's own messages about donor pressure referenced in earlier episodes, and TPUSA donor records.
+
+---
+
+**C-6548** Host Says Ghislaine Maxwell's Father Began Maxwell Macmillan, Which Published Textbooks
+
+Claim Timestamp: 00:53:20
+
+Claim: Reading a viewer comment about Maxwell-published textbooks, the host says Ghislaine Maxwell's father began alongside Macmillan, publishing school textbooks, which she calls coming from the Jeffrey Epstein empire.
+
+Transcript Snippet: Gileian Maxwell's father did indeed uh begin alongside I think it was McMillan, don't quote me, uh it was like Maxwell McMillan publishing our textbooks
+
+Anchored Artifacts: A-2822.1
+Mentions: N-47, N-48, N-9
+Tags: relevance:tangential
+Investigative Direction: Verify Robert Maxwell's ownership of Macmillan Publishers and the textbook imprints published under it; the host says 'don't quote me'.
+
+---
+
+**C-6549** Host Says a Clip Showed an Israeli Leader Training People to Edit Wikipedia
+
+Claim Timestamp: 00:53:20
+
+Claim: Responding to a viewer comment that Tucker Carlson interviewed Wikipedia's creator, the host says a clip she has shown before has someone, before he became prime minister of Israel, showing how people were trained to edit Wikipedia to favor the Zionist cause.
+
+Transcript Snippet: he showed how they were training people to edit articles in Wikipedia so that it favored Zionist and the Zionist cause
+
+Anchored Artifacts: 
+Mentions: N-22, N-3
+Related Nodes: N-10200
+Tags: relevance:context
+Investigative Direction: Identify the clip the host refers to and the speaker, then verify what the clip actually shows.
+
+---
+
+**C-6550** Host Says Israel Is Buying Bots and Wants TikTok to Isolate Opinion
+
+Claim Timestamp: 00:54:40
+
+Claim: The host says Israel is buying many bots on the internet, that this is why it wants TikTok, and that the aim is to isolate people so they feel everyone disagrees.
+
+Transcript Snippet: Uh they're buying so many bots on the internet. It's a stake that Israel is taking.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10081
+Tags: relevance:context
+Investigative Direction: Identify the reporting the host refers to when she says 'as we learned' about bot buying.
+
+---
+
+**C-6551** Host Says Feminism Was a Government Initiative Sponsored by Children of Bolsheviks
+
+Claim Timestamp: 00:55:42
+
+Claim: While promoting her book, the host says the feminist movement had nothing to do with supporting women and was a government initiative sponsored by the children of Bolsheviks.
+
+Transcript Snippet: it was a government initiative uh sponsored by the children of Bolsheviks obviously
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Historical assertion recorded as said; see the sources in the host's book.
 
 ---
 

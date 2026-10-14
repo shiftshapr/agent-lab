@@ -6,13 +6,18 @@
 - **YouTube id**: X92MllIHDzw
 - **Candace Ep**: 291
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:02:41
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-470, N-471, N-472, N-473, N-474, N-475, N-476, N-477, N-478, N-479, N-480, N-10417, N-10418, N-10419, N-10420, N-10421, N-10422, N-10423, N-10424
-  - Reused Nodes Appearing: N-15
+  - Tip-minted Nodes (supplement_2026-10d): N-868, N-869, N-870, N-11237, N-11238, N-11239, N-11240, N-11241, N-11242
+  - Hole-minted Nodes (reintro-ep058): N-541, N-10428, N-10472
+  - Tip-minted Nodes (reintro-ep058): N-738, N-786, N-11126
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10d): C-9830–C-9912
+  - New Nodes Introduced: N-470, N-471, N-472, N-473, N-474, N-475, N-476, N-477, N-478, N-479, N-480, N-10418, N-10419, N-10420, N-10421, N-10423
+  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-242, N-284, N-332, N-369, N-461, N-462, N-467, N-767, N-815, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167
   - (see registers)
 
 ## 2. Executive Summary
@@ -37,6 +42,110 @@ Tags: reuse, pass2
 Confidence: high
 
 ---
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:02:00
+Speaker: N-3
+Quote: more tips at Candace Owens. com
+Context: Host asks for Fort Huachuca tips by email.
+Tags: dia, tips, tip line
+Confidence: high
+
+---
+
+**M-16** (meme) Mommy Sleuth
+
+### Occurrence 1
+
+Video Timestamp: 00:19:30
+Speaker: N-3
+Quote: these mommy sleuth hit different
+Context: Host praises the sleuth who traced the planes and the donors.
+Tags: mommy sleuth, praise
+Confidence: high
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 00:59:54
+Speaker: N-3
+Quote: Jess writes Christ is king go max
+Context: Host reads a viewer comment.
+Tags: christ is king, viewer comment
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:59:54
+Speaker: N-3
+Quote: Jess writes Christ is king go max
+Context: Host reads a viewer comment using the refrain.
+Tags: go max, viewer comment
+Confidence: high
+
+---
+
+**M-38** (meme) MK Ultra
+
+### Occurrence 1
+
+Video Timestamp: 00:30:25
+Speaker: N-3
+Quote: the precursor to MK Ultra
+Context: Host ties childhood abuse research to MK Ultra.
+Tags: mk ultra, paperclip
+Confidence: high
+
+---
+
+**M-6** (meme) conspiracy theorist
+
+### Occurrence 1
+
+Video Timestamp: 00:10:12
+Speaker: N-3
+Quote: in the world of us conspiracy theorists
+Context: Host groups herself among conspiracy theorists after the director clip.
+Tags: conspiracy theorist, self-label
+Confidence: high
+
+---
+
+**M-45** (meme) Spiritual Warfare
+
+### Occurrence 1
+
+Video Timestamp: 00:48:19
+Speaker: N-3
+Quote: a spiritual war
+Context: Host frames the fight as a spiritual war.
+Tags: spiritual warfare
+Confidence: high
+
+---
+
+**M-140** (meme) White Walkers Among Us
+
+### Occurrence 1
+
+Video Timestamp: 00:31:10
+Speaker: N-3
+Quote: White Walkers among us
+Context: Host's analogy for adults harmed as children and treated as programs.
+Tags: white walkers, trauma
+Confidence: high
 
 ---
 
@@ -211,6 +320,88 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
 *Related: N-478, N-10422*
+
+---
+
+**A-3035** Kolvet Photo of Erika With Her Children Bundle
+
+**A-3035.1** Host verbal reference to a picture Andrew Kolvet posted of Erika with her children, which the host says carried the wrong date (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:03:23
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9835, N-14, N-2, N-3*
+
+---
+
+**A-3036** Erika Fort Huachuca Alibi Video Bundle
+
+**A-3036.1** Host verbal reference to a video Erika sent through a TPUSA executive about the Fort Huachuca alibi, and to the example video the host plans to send back (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:13:20
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9853, C-9910, N-2, N-3*
+
+---
+
+**A-3037** Recurring Themes Chart Bundle
+
+**A-3037.1** Host-built chart of recurring themes in the investigation (Liberty University, Eastern Europe, trafficking, George Zinn, decoy boy, Turning Point Faith, Rob McCoy, Tim Ballard, Paul Vallely), described on air
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:14:14
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9854, C-9855, C-9856, C-9857, C-9858, N-17, N-242, N-3, N-332, N-42, N-461, N-462, N-61*
+
+---
+
+**A-3038** Nick Fuentes Shouting Clip Bundle
+
+**A-3038.1** Clip of Nick Fuentes shouting at the host, played after she describes his reaction to a question about marriage
+
+Quoted text: "Sit down and shut THE UP THAT'S WHAT A MAN HAS TO SAY."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:47:00
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9897, N-205, N-3*
+
+---
+
+**A-3039** Charlie Kirk Missile Prediction Text Bundle
+
+**A-3039.1** Host verbal reference to an earlier-shown text message in which Charlie Kirk predicted devastation involving missiles (not shown in this episode)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:58:20
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9906, N-1, N-3*
+
+---
+
+**A-3040** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3040.1** Host verbal request for tips about Fort Huachuca at the candaceowens.com tips address
+
+Quoted text: "if you have more information about Fort Huachuca again I will pursue that alibi in earnest"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:01:50
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-9911, N-3*
 
 ---
 
@@ -485,6 +676,451 @@ Investigative Pressure: Medium
 
 ---
 
+**N-2** Erika Kirk
+
+Widow and TPUSA chairman and CEO; subject of the Fort Huachuca sighting, the alibi video and the China statement.
+
+*Related: C-9830, C-9831, C-9834, C-9835, C-9836, C-9837, C-9838, C-9845, C-9848, C-9849, C-9851, C-9852, C-9853, C-9862, C-9863, C-9864, C-9910*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-9830, C-9831, C-9832, C-9833, C-9834, C-9835, C-9836, C-9837, C-9838, C-9843, C-9844, C-9845, C-9846, C-9847, C-9848, C-9849, C-9850, C-9851, C-9852, C-9853, C-9854, C-9855, C-9856, C-9857, C-9859, C-9860, C-9861, C-9863, C-9864, C-9865, C-9866, C-9867, C-9868, C-9869, C-9870, C-9871, C-9872, C-9873, C-9874, C-9875, C-9876, C-9877, C-9878, C-9879, C-9880, C-9881, C-9882, C-9883, C-9884, C-9885, C-9886, C-9887, C-9888, C-9890, C-9891, C-9895, C-9896, C-9897, C-9898, C-9901, C-9902, C-9903, C-9904, C-9905, C-9906, C-9908, C-9909, C-9910, C-9911, C-9912*
+
+---
+
+**N-10472** Fort Huachuca Alibi Investigation
+
+Persistent investigation into Erika's claimed Fort Huachuca alibi.
+
+*Related: C-9830, C-9832, C-9834, C-9835, C-9845, C-9848, C-9853, C-9910*
+
+---
+
+**N-369** Mitch Snow
+
+Eyewitness who says he saw people at Fort Huachuca; the host defends his credibility.
+
+*Related: C-9832, C-9848, C-9850*
+
+---
+
+**N-10000** Turning Point USA
+
+Turning Point USA; focus of the host's chart and the Montgomery and Vallely claims.
+
+*Related: C-9832, C-9853, C-9859, C-9908, C-9909*
+
+---
+
+**N-10368** Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)
+
+Allegations about Fort Huachuca covert-operations classes.
+
+*Related: C-9833*
+
+---
+
+**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+
+Question about Christian Zionist infiltration of TPUSA Faith.
+
+*Related: C-9833*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson; the host recounts his Fort Huachuca response and his call about Ben Shapiro and AmFest.
+
+*Related: C-9834, C-9835, C-9845, C-9868, C-9869*
+
+---
+
+**N-10380** Erica Kirk September 8 Alibi
+
+Erika's September 8 alibi topic.
+
+*Related: C-9835*
+
+---
+
+**N-10365** Sept 9 Fort Huachuca Meeting Question
+
+Question of what happened at Fort Huachuca on September 9.
+
+*Related: C-9849, C-9851*
+
+---
+
+**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+
+Mitch Snow's Fort Huachuca eyewitness encounter.
+
+*Related: C-9850*
+
+---
+
+**N-10375** Fort Huachuca Sighting Verification
+
+Fort Huachuca sighting verification topic.
+
+*Related: C-9852*
+
+---
+
+**N-42** George Zinn
+
+Man arrested after the shooting; appears as a strand on the host's chart.
+
+*Related: C-9854*
+
+---
+
+**N-11104** Liberty University
+
+Liberty University; a strand on the host's chart.
+
+*Related: C-9854*
+
+---
+
+**N-10401** Romania / Eastern Europe Trafficking Cluster
+
+Romania and Eastern Europe trafficking cluster.
+
+*Related: C-9854, C-9855*
+
+---
+
+**N-10032** Decoy Boy Operation Analysis
+
+Decoy boy operation analysis.
+
+*Related: C-9854*
+
+---
+
+**N-461** Greg Laurie
+
+Pastor of Harvest Christian Fellowship; the host links TPUSA Faith to him.
+
+*Related: C-9855*
+
+---
+
+**N-462** Paul Havsgaard
+
+Former megachurch pastor accused in a Romanian children case, named by the host.
+
+*Related: C-9855*
+
+---
+
+**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
+
+Harvest Christian Fellowship Romanian abuse lawsuit cluster.
+
+*Related: C-9855*
+
+---
+
+**N-17** Rob McCoy
+
+Pastor; the host recaps his reported attempt to rehabilitate an abuser.
+
+*Related: C-9856*
+
+---
+
+**N-332** Tim Ballard
+
+Operation Underground founder; central to the host's recap and her past donations.
+
+*Related: C-9857, C-9858, C-9880*
+
+---
+
+**N-61** Phil Lyman
+
+Utah politician; the host recaps his visit to Ballard.
+
+*Related: C-9857*
+
+---
+
+**N-11167** Operation Underground Railroad
+Operation Underground; discussed in the host's recap.
+
+*Related: C-9857, C-9858, C-9880*
+
+---
+
+**N-10144** Phil Lyman Proximity and Behavior Investigation
+
+Phil Lyman proximity investigation.
+
+*Related: C-9857*
+
+---
+
+**N-242** Glenn Beck
+
+Media figure; the host says he funded Operation Underground.
+
+*Related: C-9858*
+
+---
+
+**N-815** Paul Vallely
+
+Retired Army general on the TPUSA advisory board.
+
+*Related: C-9859, C-9860*
+
+---
+
+**N-11166** Everyday Heroes Foundation
+
+Everyday Heroes Foundation, which Erika says she founded.
+
+*Related: C-9862*
+
+---
+
+**N-10428** Erica Kirk China Timeline Discrepancy
+
+Erika's China timeline discrepancy topic.
+
+*Related: C-9862*
+
+---
+
+**N-10900** Daily Wire
+
+Daily Wire; source of the Buckman interview.
+
+*Related: C-9864*
+
+---
+
+**N-97** Ben Shapiro
+
+Daily Wire co-founder; the host alleges he pressured Kirk's donors over her AmFest slot.
+
+*Related: C-9865, C-9866, C-9868, C-9869*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host relays what he told her about donor pressure, his schooling and his predictions.
+
+*Related: C-9865, C-9866, C-9869, C-9885, C-9901, C-9906, C-9908*
+
+---
+
+**N-10268** AmFest Speaker Removal Pattern
+
+AmFest speaker removal pattern.
+
+*Related: C-9865, C-9866, C-9867, C-9868*
+
+---
+
+**N-10386** Ben Shapiro Hostile Takeover Pattern
+
+Ben Shapiro hostile takeover pattern.
+
+*Related: C-9865*
+
+---
+
+**N-284** Bari Weiss
+
+Journalist; the host says donors fed her information.
+
+*Related: C-9867*
+
+---
+
+**N-9** Jeffrey Epstein
+
+Convicted sex offender; subject of the Fuentes clips and the host's discussion of his charity donations.
+
+*Related: C-9881, C-9888, C-9889*
+
+---
+
+**N-10001** MK Ultra
+
+MK Ultra, cited by the host.
+
+*Related: C-9882*
+
+---
+
+**N-11126** Operation Paperclip
+
+Operation Paperclip, cited by the host.
+
+*Related: C-9882*
+
+---
+
+**N-767** Astrid Tuminez
+
+UVU president; the host says she stepped down and was absent on September 10.
+
+*Related: C-9884, C-9885, C-9886*
+
+---
+
+**N-10012** Utah Valley University
+
+Utah Valley University.
+
+*Related: C-9884, C-9885, C-9886*
+
+---
+
+**N-10028** Utah Valley University Campus
+
+Utah Valley University campus.
+
+*Related: C-9885*
+
+---
+
+**N-541** Jean-Luc Brunel
+
+Modeling agent linked to Epstein; the host says he flew 12-year-old triplets to him.
+
+*Related: C-9888*
+
+---
+
+**N-10023** Epstein Israeli Intelligence Asset Allegation
+
+Epstein as Israeli intelligence asset allegation.
+
+*Related: C-9889, C-9892*
+
+---
+
+**N-738** Jack Parsons
+
+Rocket scientist and occultist the host cites as a Crowley student.
+
+*Related: C-9896*
+
+---
+
+**N-786** Aleister Crowley
+
+Occultist cited by the host.
+
+*Related: C-9896*
+
+---
+
+**N-10413** Project Looking Glass Allegation
+
+Project Looking Glass allegation.
+
+*Related: C-9898*
+
+---
+
+**N-467** Bill Montgomery
+
+Air Force reservist the host says co-founded TPUSA.
+
+*Related: C-9909*
+
+---
+
+**N-868** Pete McCormick
+
+First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Payton McCormick.
+
+*Related: C-9841*
+
+---
+
+**N-869** Allan McCormick
+
+First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Payton McCormick.
+
+*Related: C-9841*
+
+---
+
+**N-870** Myron Gaines
+
+First named by the host at 01:02:10 in episode 58 as the interviewer in an interview with her dropping the next day.
+
+*Related: C-9912*
+
+---
+
+**N-11237** Dillon Aerospace
+
+Node Type: Organization
+Defense contracting firm the host says employs Clayton Haugen in marketing.
+
+*Related: C-9839*
+
+---
+
+**N-11238** Temple of Set
+
+Node Type: Organization
+Occult organization the host says was founded by the avowed Satanist who co-wrote a book with Paul Vallely.
+
+*Related: C-9860, C-9861*
+
+---
+
+**N-11239** National Angels
+
+Node Type: Organization
+Foster-care nonprofit with regional chapters, including Austin Angels and New Jersey Angels, that the host says Nelda Buckman works with.
+
+*Related: C-9871*
+
+---
+
+**N-11240** Courage Worldwide
+
+Node Type: Organization
+Nonprofit behind Courage House Nevada, whose founder the host quotes about the site being hard to leave.
+
+*Related: C-9873, C-9877*
+
+---
+
+**N-11241** King Low Heywood Thomas School
+
+Node Type: Organization
+Private school the host says offered her an all-expenses place after a gifted program test.
+
+*Related: C-9903*
+
+---
+
+**N-11242** Greenland Underground Military Base
+
+Node Type: Place
+Cold War underground base in Greenland the host says was built to launch missiles.
+
+*Related: C-9905*
+
+---
+
 ## 5. Claim Register
 
 **C-2108** November Renaissance Cast/Crew Had Multiple Fort Huachuca or Military Connections
@@ -749,6 +1385,1340 @@ Mentions: N-3, N-269
 Related Nodes: 
 Confidence: high
 Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.
+
+---
+
+**C-9830** Host Says Erika Disputes the Stationed Witness Account
+
+Claim Timestamp: 00:00:30
+
+Claim: The host says she followed the lead of the Fort Huachuca-stationed person who claimed to have seen Erika and then deleted the post, and that Erika disputes that narrative.
+
+Transcript Snippet: I can tell you Erika disputes that narrative.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10472, N-10417
+Tags: relevance:core
+Investigative Direction: Obtain Erika's or TPUSA's on-record denial of the sighting and the specific content of what is disputed.
+
+---
+
+**C-9831** Host Says Erika Shot a Teaser for a Short Film at or Near Fort Huachuca
+
+Claim Timestamp: 00:00:45
+
+Claim: The host asserts that Erika is definitively aware of and familiar with the Fort Huachuca intelligence base because she once shot a teaser for a short film there or around there.
+
+Transcript Snippet: Erika is definitively aware and familiar with the Fort Huachuca base, intel base, because once upon a time she shot a teaser for a short film there or around there
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10417, N-10418
+Tags: relevance:core
+Investigative Direction: Locate the teaser footage and verify filming locations against production records for November Renaissance.
+
+---
+
+**C-9832** Host Says TPUSA Deployed Mitch Snow's Family Drama to Deny the Sighting
+
+Claim Timestamp: 00:01:55
+
+Claim: The host says Turning Point USA's public response included bringing out Mitch's baby-mama drama and his sons to say the Fort Huachuca sighting never happened, which she reads as panic.
+
+Transcript Snippet: They were bringing out Mitch's baby mama drama, sons, everything to say this never happened
+
+Anchored Artifacts: 
+Mentions: N-369, N-3
+Related Nodes: N-10472, N-10000
+Tags: relevance:core
+Investigative Direction: Collect the TPUSA-side posts and statements about Mitch Snow's personal life and compare their dates with the first Fort Huachuca coverage.
+
+---
+
+**C-9833** Host Says Agents Were Taught to Pose as Christians and Infiltrate Christian Organizations
+
+Claim Timestamp: 00:02:10
+
+Claim: The host says that the public learned Fort Huachuca teaches courses in which agents are taught to pretend to be Christians and be inserted into Christian organizations.
+
+Transcript Snippet: how they were uh teaching courses to their agents on how to pretend that they're Christians and to be inserted within Christian organizations
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10368, N-10209
+Supports: C-1976
+Tags: relevance:context
+Investigative Direction: Obtain the course syllabus or first-hand accounts of the Fort Huachuca class on infiltrating Christian organizations.
+
+---
+
+**C-9834** Host Characterizes Kolvet's Fort Response as Feigned Confusion
+
+Claim Timestamp: 00:02:45
+
+Claim: The host says Andrew Kolvet reacted to the Fort Huachuca question by pretending not to understand the word fort and saying Erika was not at some fort.
+
+Transcript Snippet: Erika wasn't at some fort. Okay. Okay, Andrew Kolvet, little too much.
+
+Anchored Artifacts: 
+Mentions: N-14, N-2, N-3
+Related Nodes: N-10472
+Tags: relevance:core
+Investigative Direction: Retrieve Kolvet's actual on-air or posted statement and quote it in full to test the host's characterization.
+
+---
+
+**C-9835** Host Says Kolvet Answered With a Photo of Erika and Her Children on the Wrong Date
+
+Claim Timestamp: 00:03:30
+
+Claim: The host says Andrew Kolvet responded to the Fort Huachuca question with a picture of Erika with her children that carried the wrong date and a remark about eating burgers rather than building a pillow fort.
+
+Transcript Snippet: Andrew's all like, "Here's a picture of her with her babies on the wrong date.
+
+Anchored Artifacts: A-3035
+Mentions: N-14, N-2, N-3
+Related Nodes: N-10472, N-10380
+Tags: relevance:core
+Investigative Direction: Identify the post, its date and the date metadata on the photo, and compare with the Sept 8 to Sept 10 alibi window.
+
+---
+
+**C-9836** Host Says Sources Knew Erika and Worked With Her on a Film From 2010 to 2013
+
+Claim Timestamp: 00:03:45
+
+Claim: The host says people based at Fort Huachuca around 2010 or 2011 contacted her to say they knew Erika and had worked with her from about 2010 until around 2013 on a mini film that was never released.
+
+Transcript Snippet: reached out to me to inform me that they knew Erika uh and that Erika definitely knows the base because a bunch of people from the base were uh were affiliated and had worked with her from about 2010 until around 2013
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10417, N-10418
+Tags: relevance:core
+Investigative Direction: Obtain the sources' names or documents showing the 2010 to 2013 production timeline; compare with the Kickstarter dates.
+
+---
+
+**C-9837** Host Says Erika Pursued the Stage and Pageants
+
+Claim Timestamp: 00:04:40
+
+Claim: The host says Erika is known to have done some acting or reality television, to have pursued the stage and to have been involved in pageants.
+
+Transcript Snippet: Uh we know that she was pursuing the stage, obviously. Uh she was involved in pageants.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10418
+Tags: relevance:context
+Investigative Direction: Check Erika's pageant and acting credits in public biographies and archived pageant results.
+
+---
+
+**C-9838** Host Says Haugen Was the Person Erika Was Closest To
+
+Claim Timestamp: 00:05:00
+
+Claim: The host says her sources told her that the person Erika was really close to on the film was Clayton Haugen, unsure of the spelling of the surname.
+
+Transcript Snippet: The person they said she was really close to was Clayton Haugen.
+
+Anchored Artifacts: 
+Mentions: N-470, N-2, N-3
+Related Nodes: N-10418
+Tags: relevance:core
+Investigative Direction: Ask the sources for the basis of the closeness claim; look for Haugen and Erika in joint photos, posts or cast lists.
+
+---
+
+**C-9839** Host Says Haugen Does Marketing for Dillon Aerospace
+
+Claim Timestamp: 00:05:30
+
+Claim: The host says Clayton Haugen does marketing for the defense contracting firm Dillon Aero Space.
+
+Transcript Snippet: And he does marketing for the defense contracting firm Dillon Aero Space.
+
+Anchored Artifacts: 
+Mentions: N-470
+Related Nodes: N-11237, N-10418
+Tags: relevance:context
+Investigative Direction: Verify Haugen's employment through LinkedIn or company records; note the firm's spelling (Dillon Aerospace).
+
+---
+
+**C-9840** Host Says Don Frye Graduated Sierra Vista High and Trained in Judo at Fort Huachuca
+
+Claim Timestamp: 00:05:50
+
+Claim: The host says cast member Don Frye graduated from high school in Sierra Vista and trained in judo at Fort Huachuca.
+
+Transcript Snippet: he actually graduated from high school in Sierra Vista and then trained in judo at Fort Huachuca
+
+Anchored Artifacts: 
+Mentions: N-473
+Related Nodes: N-10417, N-10418
+Tags: relevance:context
+Investigative Direction: Check Frye's published biography for the Sierra Vista school and Fort Huachuca judo program.
+
+---
+
+**C-9841** Host Says Payton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick
+
+Claim Timestamp: 00:06:05
+
+Claim: The host says cast member Payton McCormick's grandfather is Colonel Pete McCormick and her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
+
+Transcript Snippet: Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
+
+Anchored Artifacts: 
+Mentions: N-474, N-868, N-869
+Related Nodes: N-10417, N-10418
+Tags: relevance:context
+Investigative Direction: Confirm the family relationships and Allan McCormick's Fort Huachuca assignment through Army records or public obituaries.
+
+---
+
+**C-9842** Host Says Payton McCormick Was Miss Teen USA in 2006
+
+Claim Timestamp: 00:06:20
+
+Claim: The host says Payton McCormick was also Miss Teen USA in 2006; the sentence runs into a name the transcript renders as Priscilla Ann Nu'ul.
+
+Transcript Snippet: Payton was also, by the way, Miss Teen USA in 2006, Priscilla Ann Nu'ul
+
+Anchored Artifacts: 
+Mentions: N-474, N-477
+Related Nodes: N-10418
+Tags: relevance:context
+Investigative Direction: Check Miss Teen USA 2006 titleholder records; the transcript's title and name attribution look garbled and may be wrong.
+
+---
+
+**C-9843** Host Says Chantel Thuy's Father Worked on AI at IBM
+
+Claim Timestamp: 00:06:35
+
+Claim: The host says she could not find much on cast member Chantel Thuy but that her dad worked in artificial intelligence for IBM, which she speculates might connect to Fort Huachuca.
+
+Transcript Snippet: we can tell you that her dad worked for an artificial intelligence for IBM
+
+Anchored Artifacts: 
+Mentions: N-475, N-3
+Related Nodes: N-10418, N-10417
+Tags: relevance:context
+Investigative Direction: Identify Thuy's father and verify the IBM employment claim; no Fort Huachuca link was shown.
+
+---
+
+**C-9844** Host Says Price Mitchum Was Placed on a Psychiatric 5150 Hold
+
+Claim Timestamp: 00:06:50
+
+Claim: The host says cast member Price Mitchum was put in a psych 5150 hold.
+
+Transcript Snippet: that Price Mitchum, that just gets dark. I mean, that young man or older man got put in a psych 5150 hold
+
+Anchored Artifacts: 
+Mentions: N-476, N-3
+Related Nodes: N-10418
+Tags: relevance:context
+Investigative Direction: Public 5150 holds are confidential medical events; look for any news report before treating this as established.
+
+---
+
+**C-9845** Host Says the Poster Proves Erika Knew Fort Huachuca and Faults Kolvet's Contrary Claim
+
+Claim Timestamp: 00:07:20
+
+Claim: The host says her sources told her there is no way Erika is not familiar with Fort Huachuca, that the poster proves it, and that she does not know why Andrew Kolvet said otherwise.
+
+Transcript Snippet: The point is is that they told me there's absolutely no way that she's not familiar with Fort Huachuca.
+
+Anchored Artifacts: 
+Mentions: N-14, N-2, N-3
+Related Nodes: N-10417, N-10472
+Tags: relevance:core
+Investigative Direction: Find Kolvet's original statement about Erika's familiarity with the base and test it against the poster and Kickstarter evidence.
+
+---
+
+**C-9846** Host Says Kickstarter Comments Show the Film Was Promised for 2013 but Not Delivered
+
+Claim Timestamp: 00:08:30
+
+Claim: The host says that, going by the comments on the Kickstarter campaign, the filmmakers promised to deliver in 2013 and did not.
+
+Transcript Snippet: They promised to deliver it in 2013. That didn't happen.
+
+Anchored Artifacts: A-1635.2
+Mentions: N-470, N-3
+Related Nodes: N-10418
+Tags: relevance:context
+Investigative Direction: Archive the Kickstarter comment thread and delivery estimate from the Wayback Machine.
+
+---
+
+**C-9847** Host Says the Project Posted Updates Until 2017 but Was Never Released
+
+Claim Timestamp: 00:10:40
+
+Claim: The host says the film was never released despite posting updates up to 2017.
+
+Transcript Snippet: this project was never released despite posting updates up to 2017
+
+Anchored Artifacts: A-1635.2
+Mentions: N-470, N-3
+Related Nodes: N-10418
+Tags: relevance:context
+Investigative Direction: Capture the dated Kickstarter update log to confirm the last update year.
+
+---
+
+**C-9848** Host Says Her Sources Are Friends of Erika and Say She Knows the Space
+
+Claim Timestamp: 00:10:55
+
+Claim: The host says the people who gave her the poster material were friends with Erika, know her, and say she knows about the Fort Huachuca space, and that this makes it unreasonable to call Mitch's testimony deranged.
+
+Transcript Snippet: these people who gave this to us were our friends with Erika, they know her, they say she knows about this space
+
+Anchored Artifacts: 
+Mentions: N-2, N-369, N-3
+Related Nodes: N-10417, N-10472
+Tags: relevance:core
+Investigative Direction: Seek on-record confirmation from the sources; their friendship with Erika is asserted only through the host.
+
+---
+
+**C-9849** Host Says the Deleted Post Said Erika Was Seen the Day Before, September 9
+
+Claim Timestamp: 00:11:35
+
+Claim: The host says the woman who posted shortly after the assassination said she saw Erika the day before, which would be September 9 and not September 8, and then deleted the message.
+
+Transcript Snippet: she had seen Erika the day before, which would have been September 9th, by the way, not the 8th.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10417, N-10365
+Tags: relevance:core
+Investigative Direction: Recover the deleted post from archives or screenshots and confirm the date of the sighting it described.
+
+---
+
+**C-9850** Host Says the Original Poster Has Nothing to Do With Mitch Snow
+
+Claim Timestamp: 00:12:00
+
+Claim: The host says the original poster has absolutely nothing to do with Mitch Snow, so the two accounts are independent.
+
+Transcript Snippet: This person has absolutely nothing to do with Mitch Snow.
+
+Anchored Artifacts: 
+Mentions: N-369, N-3
+Related Nodes: N-10417, N-10367
+Tags: relevance:core
+Investigative Direction: Ask the host to disclose how independence from Mitch Snow was established; compare the two accounts' details.
+
+---
+
+**C-9851** Host Says a Chat Participant Said There Was an Order to Lower Drones That Day
+
+Claim Timestamp: 00:12:25
+
+Claim: The host says one person in a chat among military personnel stationed at Fort Huachuca asserted they also saw Erika at the base and that there was an order to lower drones on that day.
+
+Transcript Snippet: and that there was an order to lower drones on that day.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10417, N-10365
+Tags: relevance:core
+Investigative Direction: Identify the chat and the order; check Fort Huachuca airspace or UAS notices for September 9, 2025.
+
+---
+
+**C-9852** Host Says She Confirmed the Witnesses Are Real and Stationed at Fort Huachuca
+
+Claim Timestamp: 00:12:55
+
+Claim: The host says her due diligence confirmed that the people are real and are in fact stationed at Fort Huachuca, and that they spoke because they believed they saw Erika and not because the public fed them the idea.
+
+Transcript Snippet: I did my due diligence to confirm that those people are real and that those people are in fact stationed at Fort Huachuca
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10417, N-10375
+Tags: relevance:core
+Investigative Direction: Request documentation of the verification method, such as duty verification, which the host has not shown.
+
+---
+
+**C-9853** Host Says Erika Sent a Video About the Alibi That Missed What She Asked For
+
+Claim Timestamp: 00:13:20
+
+Claim: The host says Erika sent, through one of the Turning Point executives, the video the host had been asking for regarding the Fort Huachuca alibi, but it was not what she asked for and she will follow up with an example video.
+
+Transcript Snippet: through um one of the Turning Point executives, Erika did send a video that I have been asking for regarding the Fort Huachuca alibi
+
+Anchored Artifacts: A-3036
+Mentions: N-2, N-3
+Related Nodes: N-10472, N-10000
+Tags: relevance:core
+Investigative Direction: Obtain the video Erika sent and the host's example request; check metadata to date the footage.
+
+---
+
+**C-9854** Host Presents a Chart of Recurring Themes From Liberty University to Eastern Europe
+
+Claim Timestamp: 00:14:30
+
+Claim: The host says a chart she assembled shows recurring themes in the investigation, including a Liberty University strand, an Eastern Europe strand and a trafficking and sex abuse strand, while stressing no one on the chart is thereby guilty.
+
+Transcript Snippet: We are finding this Liberty University strand, the Eastern uh Europe strand, the trafficking and sex abuse strand
+
+Anchored Artifacts: A-3037
+Mentions: N-3, N-42
+Related Nodes: N-11104, N-10401, N-10032
+Tags: relevance:context
+Investigative Direction: Publish the chart nodes with sources so each strand can be checked individually.
+
+---
+
+**C-9855** Host Says Greg Laurie's Church Is Accused of Trafficking Children From Romania
+
+Claim Timestamp: 00:14:50
+
+Claim: The host says Turning Point Faith works with Pastor Greg Laurie, whose church is accused of trafficking children from Romania, and that pastor Paul Habsgard is accused of having helped facilitate it in a case still moving through court.
+
+Transcript Snippet: Turning Point Faith working with this Pastor Greg Laurie, whose church is being accused of trafficking children from Romania.
+
+Anchored Artifacts: A-3037
+Mentions: N-461, N-462, N-3
+Related Nodes: N-10411, N-10401
+Supports: C-8151
+Supports: C-7944
+Tags: relevance:context
+Investigative Direction: Pull the court docket of the Harvest Christian Fellowship Romania litigation for the allegations and status.
+
+---
+
+**C-9856** Host Recaps Rob McCoy Trying to Rehabilitate a Past Child Abuser
+
+Claim Timestamp: 00:15:10
+
+Claim: The host recaps that Rob McCoy tried to rehabilitate a person who had abused children in the past.
+
+Transcript Snippet: We had Rob McCoy trying to rehabilitate um a person who had abused children in the past.
+
+Anchored Artifacts: A-3037
+Mentions: N-17, N-3
+Supports: C-8162
+Tags: relevance:context
+Investigative Direction: Locate the McCoy interview and the offender's court record referenced earlier in the series.
+
+---
+
+**C-9857** Host Recaps Phil Lyman Seeing Tim Ballard the Day After
+
+Claim Timestamp: 00:15:20
+
+Claim: The host recaps that Tim Ballard and Operation Underground were discussed and that Phil Lyman went to see Ballard the next day.
+
+Transcript Snippet: We talked about Tim Ballard, Operation Underground, how Phil Lyman went to see him the next day.
+
+Anchored Artifacts: A-3037
+Mentions: N-332, N-61, N-3
+Related Nodes: N-11167, N-10144
+Supports: C-8166
+Tags: relevance:core
+Investigative Direction: Corroborate Lyman's meeting with Ballard on September 11, 2025 through schedules, photos or statements.
+
+---
+
+**C-9858** Host Says Glenn Beck Funded Operation Underground and It Ended in Scandal
+
+Claim Timestamp: 00:15:25
+
+Claim: The host says Glenn Beck funded Operation Underground, that Ballard's tenure ended in scandal, and that people allege the charity was not doing what he set out to do.
+
+Transcript Snippet: Glenn Beck had funded that Operation Under Underground, which for Tim Ballard ended in scandal
+
+Anchored Artifacts: A-3037
+Mentions: N-242, N-332
+Related Nodes: N-11167
+Supports: C-8164
+Tags: relevance:context
+Investigative Direction: Review the public filings and lawsuits against Operation Underground and Beck's reported funding.
+
+---
+
+**C-9859** Host Corrects That Paul Vallely Is on the Advisory Board, Not the Board
+
+Claim Timestamp: 00:15:40
+
+Claim: The host says that on an earlier episode she said Retired Army General Paul Vallely was on the board and meant to say the advisory board, which she calls an important difference.
+
+Transcript Snippet: I think on that episode I said he was on the board, I meant to say he's on the advisory board.
+
+Anchored Artifacts: 
+Mentions: N-815, N-3
+Related Nodes: N-10000
+Supports: C-8245
+Tags: relevance:core
+Investigative Direction: Check the TPUSA advisory board listing for Vallely and archived versions of the site.
+
+---
+
+**C-9860** Host Says Vallely Ran Psychological Operations and Co-Wrote a Book With the Founder of the Temple of Set
+
+Claim Timestamp: 00:15:55
+
+Claim: The host says Vallely, a retired Army general who ran psychological operations, co-wrote a book with an avowed Satanist who started his own kind of Church of Satan called the Temple of Set.
+
+Transcript Snippet: We got this retired Army general who actually ran psychological operations and happened to co-write a book with this guy who was an avowed Satanist and started his own kind of Church of Satan called the Temple of Set
+
+Anchored Artifacts: 
+Mentions: N-815, N-3
+Related Nodes: N-11238
+Supports: C-8246
+Tags: relevance:context
+Investigative Direction: Verify Vallely's psychological operations command history and the book's co-author credit.
+
+---
+
+**C-9861** Host Says the Co-Author Was Credibly Accused by Police of Harming a Child and Not Charged
+
+Claim Timestamp: 00:16:08
+
+Claim: The host says the same Satanist co-author was accused, credibly according to police, of harming a child at an Army Child Development Center but was not charged because police felt they lacked enough evidence.
+
+Transcript Snippet: they didn't bring charges against him because they felt they didn't have enough evidence uh of harming a child.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11238
+Tags: relevance:context
+Investigative Direction: Obtain the police report and the declination decision for the Army child development center case.
+
+---
+
+**C-9862** Host Says Erika Created Everyday Heroes Like You to Fund Grassroots Groups
+
+Claim Timestamp: 00:17:00
+
+Claim: The host plays Erika saying she created something called Everyday Heroes Like You, to bring funds and awareness to grassroots organizations that are transparent about their funds rather than sending 70 percent to admin.
+
+Transcript Snippet: I decided to create something called Everyday Heroes Like You
+
+Anchored Artifacts: A-1636.1
+Mentions: N-2
+Related Nodes: N-11166, N-10428
+Tags: relevance:context
+Investigative Direction: Check Everyday Heroes Foundation incorporation, filings and fund allocation against Erika's description.
+
+---
+
+**C-9863** Host Says a Visit to the Biggest Donor Would Not Itself Be a Scandal
+
+Claim Timestamp: 00:20:15
+
+Claim: The host says that because Erika is chairman and CEO of Turning Point, going to see her biggest donor would not itself be a scandal, softening the significance of the plane visits.
+
+Transcript Snippet: going to see your biggest donor wouldn't exactly be a scandal
+
+Anchored Artifacts: A-1638.3
+Mentions: N-2, N-3
+Related Nodes: N-10421
+Qualifies: C-2117
+Tags: relevance:context
+Investigative Direction: Treat the plane movements as unproven wrongdoing; the open question is the donors' other ties.
+
+---
+
+**C-9864** Nelda Buckman Is Quoted Saying She and Erika Talked About Womanhood
+
+Claim Timestamp: 00:22:20
+
+Claim: The host reads from Daily Wire Plus that Nelda Buckman said she and Erika talked about womanhood and what our culture has been teaching young women and what they want to teach them.
+
+Transcript Snippet: Erika and I talked about womanhood and what our culture has been teaching our young women
+
+Anchored Artifacts: A-1638.2
+Mentions: N-471, N-2, N-3
+Related Nodes: N-10421, N-10900
+Tags: relevance:context
+Investigative Direction: Retrieve the Daily Wire Plus interview text to confirm the quotation and date.
+
+---
+
+**C-9865** Host Says Shapiro Was Upset She Called Him Out and That Charlie Had Her Back
+
+Claim Timestamp: 00:22:45
+
+Claim: The host says Ben Shapiro was really upset that she called him out on stage and that Charlie Kirk publicly said he had her back on the day she was fired.
+
+Transcript Snippet: he was really upset uh that I had called him out on stage and that Charlie had my back when I got fired
+
+Anchored Artifacts: 
+Mentions: N-97, N-1, N-3
+Related Nodes: N-10268, N-10386
+Tags: relevance:core
+Investigative Direction: Find Charlie Kirk's public post of support on the day of the firing and Shapiro's reaction.
+
+---
+
+**C-9866** Host Says Charlie Told Her Ben Pressured His Donors Over Her AmFest Slot
+
+Claim Timestamp: 00:23:05
+
+Claim: The host says Charlie told her that Ben Shapiro started putting pressure on Charlie's donors to try to get him not to let her speak at AmFest.
+
+Transcript Snippet: that Ben started putting pressure on Charlie's donors uh and trying to get him not to let me speak at AmFest.
+
+Anchored Artifacts: 
+Mentions: N-97, N-1, N-3
+Related Nodes: N-10268
+Supports: C-6656
+Tags: relevance:core
+Investigative Direction: Obtain the text messages or the donor's identity the host says Charlie referred to; only Charlie's account via the host is offered.
+
+---
+
+**C-9867** Host Says Donors Were Also Feeding Information to Bari Weiss
+
+Claim Timestamp: 00:23:20
+
+Claim: The host says she did not know who the donor was but knew they were also feeding information to Bari Weiss.
+
+Transcript Snippet: I knew that they were um feeding information also to Barry Weiss
+
+Anchored Artifacts: 
+Mentions: N-284, N-3
+Related Nodes: N-10268
+Tags: relevance:context
+Investigative Direction: Ask the host for the source of the Weiss information flow; look for corroborating donor communications.
+
+---
+
+**C-9868** Host Says Kolvet Called to Say Ben Would Be Allowed to Buy a Place at AmFest
+
+Claim Timestamp: 00:23:30
+
+Claim: The host says Andrew Kolvet phoned her to say they would allow Ben Shapiro to effectively buy a place at AmFest and to buy up the documentary they were doing, and asked if she was okay with it.
+
+Transcript Snippet: hey, letting you know that we're going to allow Ben to effectively buy a place at AmFest.
+
+Anchored Artifacts: 
+Mentions: N-14, N-97, N-3
+Related Nodes: N-10268, N-10423
+Tags: relevance:core
+Investigative Direction: Locate AmFest 2024 speaker lists and any sponsorship terms; Kolvet's call is documented only by the host.
+
+---
+
+**C-9869** Host Says Kolvet Told Her Charlie Had to Do an Interview With Ben About the Documentary
+
+Claim Timestamp: 00:23:50
+
+Claim: The host says the call was particularly about the documentary, and that Kolvet told her Charlie had to do an interview with Ben and that it was no big deal.
+
+Transcript Snippet: he said, Charlie has to do this interview now with um with uh Ben and that's what's happening.
+
+Anchored Artifacts: 
+Mentions: N-14, N-1, N-97, N-3
+Related Nodes: N-10423
+Tags: relevance:context
+Investigative Direction: Find the Kirk and Shapiro interview tied to Identity Crisis and its date relative to the AmFest speaker decision.
+
+---
+
+**C-9870** Host Says She Is Not Claiming Nelda Buckman Applied the Pressure
+
+Claim Timestamp: 00:23:58
+
+Claim: The host says she is not saying Nelda Buckman was necessarily the person who put pressure on Charlie, only that it is interesting to connect that dot.
+
+Transcript Snippet: I'm not saying that she necessarily was the person who put the pressure on it
+
+Anchored Artifacts: 
+Mentions: N-471, N-3
+Related Nodes: N-10421, N-10423
+Qualifies: C-2116
+Tags: relevance:context
+Investigative Direction: No evidence offered linking Buckman to the donor pressure; identify the donor before drawing a link.
+
+---
+
+**C-9871** Host Says Nelda Buckman Works With National Angels Chapters
+
+Claim Timestamp: 00:24:25
+
+Claim: The host says Nelda Buckman works with National Angels and all its regional chapters, such as Austin Angels and New Jersey Angels, to help foster children.
+
+Transcript Snippet: Nelda works with National Angels, so it's like there's all these different regions, Austin Angels, New Jersey Angels.
+
+Anchored Artifacts: 
+Mentions: N-471, N-3
+Related Nodes: N-11239, N-10420
+Tags: relevance:context
+Investigative Direction: Check National Angels board and donor listings for Buckman.
+
+---
+
+**C-9872** Host Says Nelda Buckman May Be the Largest Donor to Courage House Nevada
+
+Claim Timestamp: 00:25:05
+
+Claim: The host says Nelda Buckman is one of the largest donors, and might be the largest donor, to Courage House Nevada.
+
+Transcript Snippet: Nelda is one of the largest donors, she might even be the largest donor to Courage House Nevada
+
+Anchored Artifacts: A-1640.1
+Mentions: N-471, N-3
+Related Nodes: N-10420
+Tags: relevance:context
+Investigative Direction: Verify Courage House donor listings and filings for Buckman gifts; the host hedges that she might be the largest.
+
+---
+
+**C-9873** Host Says Courage House Bought a 40-Acre Washoe County Property in April 2025
+
+Claim Timestamp: 00:25:20
+
+Claim: The host says, per the nonprofit's website, Courage House purchased a 40-acre property in Washoe County, Nevada in April 2025 and planned to house six female resident children.
+
+Transcript Snippet: per its website in April 2025, it purchased a 40-acre property in Washoe County, Nevada
+
+Anchored Artifacts: A-1640.1
+Mentions: N-3
+Related Nodes: N-10420, N-11240
+Tags: relevance:context
+Investigative Direction: Obtain the Washoe County deed and sale date for the 40-acre parcel and the buyer entity.
+
+---
+
+**C-9874** Host Says Courage House Is a Psychiatric Residential Treatment Facility
+
+Claim Timestamp: 00:25:48
+
+Claim: The host says Courage House is a psychiatric residential treatment facility, which she says gives the state different powers to keep residents.
+
+Transcript Snippet: this is a psychiatric residential treatment facility
+
+Anchored Artifacts: A-1640.1
+Mentions: N-3
+Related Nodes: N-10420
+Tags: relevance:context
+Investigative Direction: Check Nevada licensing records for the facility's PRTF license and conditions.
+
+---
+
+**C-9875** Host Says the Campus Has Capacity for 18 Children Across Three Cottages
+
+Claim Timestamp: 00:26:15
+
+Claim: The host says the campus will house six girls at first and has capacity for 18 children across three buildings (rendered colleges in the transcript) as the long-term goal.
+
+Transcript Snippet: it has the capacity for 18 as colleges are are being built.
+
+Anchored Artifacts: A-1640.1
+Mentions: N-3
+Related Nodes: N-10420
+Tags: relevance:context
+Investigative Direction: Check the permit documents for the number and type of buildings and licensed bed capacity.
+
+---
+
+**C-9876** Host Says Courage House Is in a Confidential Secure Location
+
+Claim Timestamp: 00:26:55
+
+Claim: The host says the Courage House is reportedly in a confidential secure location, so the public cannot tell where the girls will be kept.
+
+Transcript Snippet: the Courage House is report reportedly located in a confidential secure location
+
+Anchored Artifacts: A-1640.1
+Mentions: N-3, N-269
+Related Nodes: N-10420
+Tags: relevance:context
+Investigative Direction: Confirm through the Washoe County deed that the address is public record regardless of the facility's claim.
+
+---
+
+**C-9877** Host Says the Founder Said the Site Is Chosen Because It Is Hard for Girls to Leave or Be Found
+
+Claim Timestamp: 00:27:10
+
+Claim: The host says the founder of Courage Worldwide told local news there are people who want to hurt the girls and that the site is rural, quote, where it's hard for them to leave or for someone to find them.
+
+Transcript Snippet: it quote, where it's hard for them to leave or for someone to find them.
+
+Anchored Artifacts: A-1640.1
+Mentions: N-3, N-269
+Related Nodes: N-10420, N-11240
+Tags: relevance:context
+Investigative Direction: Retrieve the local news report to read the founder's full quotation in context.
+
+---
+
+**C-9878** Host Says the Website Implies Residents Could Be as Young as Four to Six
+
+Claim Timestamp: 00:27:50
+
+Claim: The host says the website implies the girls can be as young as 4 to 6 years old and promises tuition support for college and long-term housing.
+
+Transcript Snippet: they're implying throughout the website that these girls can be as young as 4 to 6 years old
+
+Anchored Artifacts: A-1640.1
+Mentions: N-3
+Related Nodes: N-10420
+Tags: relevance:context
+Investigative Direction: Capture the website text and compare with the facility's licensed age range.
+
+---
+
+**C-9879** Host Says Courage House Welcomes Nevada's Law Letting Girls Stay Until 21
+
+Claim Timestamp: 00:28:05
+
+Claim: The host says the website outlines excitement that Nevada changed its laws so residents do not have to leave on their 18th birthday and can stay until 21.
+
+Transcript Snippet: Nevada has changed its laws uh which means that they don't have to leave on their 18th birthday.
+
+Anchored Artifacts: A-1640.1
+Mentions: N-3
+Related Nodes: N-10420
+Tags: relevance:context
+Investigative Direction: Verify the Nevada statute on extended foster-care age and its effective date.
+
+---
+
+**C-9880** Host Says She Used to Donate Annually to Operation Underground
+
+Claim Timestamp: 00:28:40
+
+Claim: The host says she used to give annually to Operation Underground, which was run by Tim Ballard, before its scandal.
+
+Transcript Snippet: I used to give, just annually, just so you guys know, to Operation Underground, which was run by Tim Ballard.
+
+Anchored Artifacts: 
+Mentions: N-332, N-3
+Related Nodes: N-11167
+Tags: relevance:context
+Investigative Direction: Host's own giving record; no outside verification needed beyond her statement.
+
+---
+
+**C-9881** Host Says Epstein Donated to Schools and Charities, Some Probably Trafficking Charities
+
+Claim Timestamp: 00:29:50
+
+Claim: The host says Jeffrey Epstein donated a lot of money to schools, that his charities should be revisited, and that she is certain some were sex trafficking charities.
+
+Transcript Snippet: we know how Jeffrey Epstein also gave to schools, he donated to schools, he donated a lot of money, actually
+
+Anchored Artifacts: 
+Mentions: N-9, N-3
+Tags: relevance:context
+Investigative Direction: Pull Epstein's foundation filings and recipients list and screen them for child-welfare charities.
+
+---
+
+**C-9882** Host Says the Precursor to MK Ultra Took Place With Nazi Scientists Brought Over in Operation Paperclip
+
+Claim Timestamp: 00:30:25
+
+Claim: The host says the finding that abusing and raising a child can produce a psychopath or dissociation was the precursor to MK Ultra, which took place with Nazi scientists brought over in Operation Paperclip.
+
+Transcript Snippet: the precursor to MK Ultra, uh which actually took place with Nazi scientists that were then brought over here with Operation Paperclip
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10001, N-11126
+Tags: relevance:tangential
+Investigative Direction: Historians' accounts of MK Ultra and Paperclip place the program in 1953; test the claimed lineage against declassified CIA records.
+
+---
+
+**C-9883** Host Says She Believes White Walkers Are Among Us
+
+Claim Timestamp: 00:31:10
+
+Claim: The host says she believes there are, as an analogy, White Walkers among us: people harmed as children and turned into a kind of program, a pattern like gang pledging and hazing.
+
+Transcript Snippet: I think there are, to use obviously an analogy here, White Walkers among us. I really do believe that.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Opinion presented as belief; no checkable record offered.
+
+---
+
+**C-9884** Host Says Astrid Tuminez Has Just Stepped Down as UVU President
+
+Claim Timestamp: 00:31:40
+
+Claim: The host says Astrid Tuminez has just stepped down from Utah Valley University as its president, as just announced.
+
+Transcript Snippet: who by the way has just stepped down from Utah Valley University. It was just announced
+
+Anchored Artifacts: 
+Mentions: N-767, N-3
+Related Nodes: N-10012
+Tags: relevance:core
+Investigative Direction: Check the UVU announcement and its date.
+
+---
+
+**C-9885** Host Says Tuminez Was Not at UVU on the Day of the Assassination
+
+Claim Timestamp: 00:31:50
+
+Claim: The host says Tuminez was not at UVU on the day of Charlie's assassination despite it being the first week of school.
+
+Transcript Snippet: she was not there on the day of Charlie's assassination.
+
+Anchored Artifacts: 
+Mentions: N-767, N-1, N-3
+Related Nodes: N-10012, N-10028
+Tags: relevance:core
+Investigative Direction: Obtain Tuminez's September 10, 2025 whereabouts and travel; previously claimed absences can be compared.
+
+---
+
+**C-9886** Host Says Tuminez Was Involved in CIA Color Revolution Work and Was a Fostered Philippine Child
+
+Claim Timestamp: 00:32:00
+
+Claim: The host says Tuminez looks to have been involved in color revolution work for the CIA and was a fostered child rescued from the Philippines, and asks whether childhood trauma lies behind her.
+
+Transcript Snippet: Looks like she was involved in some color revolution stuff for the CIA. She was a fostered child, was rescued from the Philippines.
+
+Anchored Artifacts: 
+Mentions: N-767, N-3
+Related Nodes: N-10012
+Tags: relevance:context
+Investigative Direction: Check Tuminez's published biography and memoir for her childhood and career; the CIA work claim has no cited source.
+
+---
+
+**C-9887** Host Says Hollywood Was Founded by Viennese Directors Who Engaged in Pedophilia
+
+Claim Timestamp: 00:35:40
+
+Claim: The host says Hollywood's founding story is that it imported Viennese directors who had been engaging in pedophilia in Vienna, where it was rampant.
+
+Transcript Snippet: they largely imported a bunch of Viennese directors who had been engaging in pedophilia over in Vienna
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Film historians' accounts of Vienna emigre directors; the pedophilia claim has no cited source.
+
+---
+
+**C-9888** Host Says Epstein Was Accused of Flying In 12-Year-Old Triplets Via Jean-Luc Brunel
+
+Claim Timestamp: 00:36:40
+
+Claim: The host says Epstein, for his own birthday, found 12-year-old triplets who were dirt poor, and that his friend Jean-Luc Brunel flew them from Paris to Epstein.
+
+Transcript Snippet: his friend uh Jean-Luc Brunel in Paris flew these 12-year-old triplets to Jeffrey Epstein
+
+Anchored Artifacts: 
+Mentions: N-9, N-541, N-3
+Tags: relevance:core
+Investigative Direction: Search the unsealed Giuffre and Maxwell filings and the Brunel investigation for the triplets allegation.
+
+---
+
+**C-9889** Fuentes Clip Calls Epstein a Jewish Spy Probably Working With Israel
+
+Claim Timestamp: 00:37:30
+
+Claim: In the clip, Nick Fuentes says the issue is not the girls being barely legal but that Epstein is a Jewish spy, probably working with Israel and with Israeli intelligence.
+
+Transcript Snippet: the issue is that Epstein is a Jewish spy, probably working with Israel
+
+Anchored Artifacts: A-1641.1
+Mentions: N-205, N-9
+Related Nodes: N-10023, N-10424
+Tags: relevance:core
+Investigative Direction: Obtain the unedited source stream for Fuentes's wording and date.
+
+---
+
+**C-9890** Host Says Fuentes Said He Received a Quarter Million in Bitcoin From a Frenchman Who Killed Himself
+
+Claim Timestamp: 00:40:25
+
+Claim: The host says Fuentes claimed he got a quarter million in Bitcoin from France from a man who killed himself and published a letter 24 hours after his death on a timer, in perfect English.
+
+Transcript Snippet: I just got a quarter million in in Bitcoin from France from a guy who's wrote killed himself and published a letter 24 hours after he was dead
+
+Anchored Artifacts: 
+Mentions: N-205, N-3
+Related Nodes: N-10424
+Tags: relevance:context
+Investigative Direction: Trace the Bitcoin donation and the suicide letter through reporting on the donor.
+
+---
+
+**C-9891** Host Says Fuentes's Lawyer Goes Off Record When Asked If He Is an Informant
+
+Claim Timestamp: 00:40:45
+
+Claim: The host says Fuentes's lawyer wants to go off the record when asked directly whether Fuentes is a federal informant.
+
+Transcript Snippet: his lawyer wants to go off record when he's asked directly about whether or not he is a a federal informant
+
+Anchored Artifacts: 
+Mentions: N-205, N-3
+Related Nodes: N-10424
+Tags: relevance:core
+Investigative Direction: Find the interview in which the lawyer was asked and the exact response.
+
+---
+
+**C-9892** Fuentes Clip Says Girls Were Trafficked to Acquire Blackmail to Sell to Israel
+
+Claim Timestamp: 00:41:45
+
+Claim: In his follow-up clip, Nick Fuentes says the story is that someone was trafficking girls to acquire blackmail to sell to Israel.
+
+Transcript Snippet: The story is someone was trafficking girls to acquire blackmail to sell to Israel.
+
+Anchored Artifacts: A-1641.2
+Mentions: N-205
+Related Nodes: N-10023, N-10424
+Tags: relevance:core
+Investigative Direction: Source the original Fuentes stream, then compare with open-source reporting on Epstein and Israeli intelligence.
+
+---
+
+**C-9893** Fuentes Clip Says Marjorie Green Framed Epstein as About Female Victims
+
+Claim Timestamp: 00:42:50
+
+Claim: In the follow-up clip, Fuentes says he saw Marjorie Green say the Epstein story is about female victims and that it is actually about the integrity of the government.
+
+Transcript Snippet: I saw Marjorie Green say this is about female victims.
+
+Anchored Artifacts: A-1641.2
+Mentions: N-205, N-148
+Related Nodes: N-10424
+Tags: relevance:context
+Investigative Direction: Find Greene's statement Fuentes refers to and its date.
+
+---
+
+**C-9894** Fuentes Clip Says He Is Done With Gen X Obsessed With Satanic Pedophile Elite
+
+Claim Timestamp: 00:43:50
+
+Claim: In the follow-up clip, Fuentes says the movement of Gen X people obsessed with a satanic pedophile elite and conspiracy cookery does not make sense, and that he is out.
+
+Transcript Snippet: This whole movement of Gen X idiots that are obsessed with satanic pedophile elite and psycho conspiracy cookery that doesn't even make sense
+
+Anchored Artifacts: A-1641.2
+Mentions: N-205
+Related Nodes: N-10424
+Tags: relevance:context
+Investigative Direction: Confirm the clip's exact text and date from the source broadcast.
+
+---
+
+**C-9895** Host Says Fuentes Told Her People From Sub-Saharan Africa Do Not Have High IQs
+
+Claim Timestamp: 00:44:20
+
+Claim: The host says Fuentes is the person who sat across from her and said that people who are sub-Saharan just do not have a high IQ.
+
+Transcript Snippet: the kid who sat across from me and said that people that are sub-Saharan just don't have a high IQ
+
+Anchored Artifacts: 
+Mentions: N-205, N-3
+Related Nodes: N-10424
+Tags: relevance:context
+Investigative Direction: Check the host's interview with Fuentes for the exchange.
+
+---
+
+**C-9896** Host Says Jack Parsons Established the Apollo Program and Did Occult Sexual Rituals
+
+Claim Timestamp: 00:45:10
+
+Claim: The host asks whether Jack Parsons, whom she says established the Apollo program at NASA, was conducting occult sexual rituals to establish a moon child, as a student of Aleister Crowley.
+
+Transcript Snippet: Did Jackson did Jack Parsons exist the who established the Apollo program at NASA? Was he similarly conducting occult sexual rituals to establish a moon child?
+
+Anchored Artifacts: 
+Mentions: N-738, N-786, N-3
+Tags: relevance:tangential
+Investigative Direction: Parsons is documented as a JPL co-founder and Thelema follower; historians do not credit him with founding the Apollo program.
+
+---
+
+**C-9897** Host Plays Fuentes Screaming After She Asked About Marriage
+
+Claim Timestamp: 00:47:20
+
+Claim: The host says a clip of Nick Fuentes shouting was his reply to her asking whether he wanted to get married one day, and plays him yelling that a real man tells you to sit down and shut up.
+
+Transcript Snippet: This is this is actually was was his reply to me for asking him about whether he wanted to get married one day.
+
+Anchored Artifacts: A-3038
+Mentions: N-205, N-3
+Related Nodes: N-10424
+Tags: relevance:context
+Investigative Direction: Check the source of the shouting clip and date to see whether it responds to the host's question.
+
+---
+
+**C-9898** Host Says Project Looking Glass Was Real and the CIA Hides Technology
+
+Claim Timestamp: 00:52:25
+
+Claim: The host says Project Looking Glass was real, that if she has lost it then the CIA lost it long ago, and that the CIA is of course hiding technology.
+
+Transcript Snippet: how dare she talk about Project Looking Glass, which was real.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10413
+Supports: C-5429
+Tags: relevance:tangential
+Investigative Direction: No documentation offered; look for declassified or primary records on any Project Looking Glass.
+
+---
+
+**C-9899** Nika Comment Says Her Father Was a Doctor Next to a Bio Lab at the Army Hospital
+
+Claim Timestamp: 00:53:15
+
+Claim: The host reads Nika's comment saying she was a military brat at Fort Hood, and that her dad was a doctor doing residency adjacent to a bio lab at the army hospital.
+
+Transcript Snippet: Dad was a doctor doing residency adjacent to a bio lab at the army hospital.
+
+Anchored Artifacts: A-1642.1
+Mentions: N-480
+Related Nodes: N-10422
+Tags: relevance:context
+Investigative Direction: Commenter claim; Fort Hood hospital records would be needed.
+
+---
+
+**C-9900** Nika Comment Reports Lights Breaking and Cabinets Slamming When She Is Upset
+
+Claim Timestamp: 00:54:10
+
+Claim: The host reads Nika's comment that lights break above her head when she flips a switch, cabinets slam when she gets angry, and that she can connect with stars that respond to her requests.
+
+Transcript Snippet: Lights break above my head when I flipped a switch, cabinets slam when I get mad enough
+
+Anchored Artifacts: A-1642.1
+Mentions: N-480
+Related Nodes: N-10422
+Tags: relevance:tangential
+Investigative Direction: Commenter anecdote; not verifiable.
+
+---
+
+**C-9901** Host Says Charlie Said He Thought He Was a Time Traveler and Went to a Special School
+
+Claim Timestamp: 00:54:50
+
+Claim: The host says Charlie said he thought he was a time traveler and went to a special school, and that the lights-going-out phenomena in comments echo something he told her.
+
+Transcript Snippet: He said he thought he was a time traveler. He went to a special school.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10422
+Supports: C-2104
+Tags: relevance:core
+Investigative Direction: Re-read the text messages the host has cited and any record of Charlie's schooling.
+
+---
+
+**C-9902** Host Says She Was Placed in the Extraordinary Learners Program in Third Grade
+
+Claim Timestamp: 00:55:35
+
+Claim: The host says that after a high test score in third grade her school told her mom they would put her in the Extraordinary Learners Program.
+
+Transcript Snippet: we'd like to put her in what was called the Extraordinary Learners Program
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10422
+Tags: relevance:context
+Investigative Direction: Host's own schooling record; the program name could be checked with her district.
+
+---
+
+**C-9903** Host Says She Was Offered an All-Expenses Paid Place at King Low Heywood School
+
+Claim Timestamp: 00:55:50
+
+Claim: The host says the school then offered to pay all expenses for her to attend King Low Heywood Private School, and that she cried and begged her mom not to make her go.
+
+Transcript Snippet: they then said to my mom that we would like to pay for her to go all expenses to this academy, King Low Heywood Private School.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10422, N-11241
+Tags: relevance:context
+Investigative Direction: Host's anecdote; check King Low Heywood Thomas School's gifted-program outreach in the 1990s.
+
+---
+
+**C-9904** Host Says Gifted Programs Are Probably Meant to Identify and Track Kids for Government Work
+
+Claim Timestamp: 00:56:40
+
+Claim: The host says gifted programs probably exist to identify brilliant kids so that they can be tracked and made to work for the government.
+
+Transcript Snippet: They probably want you to work for the government. They probably want to make sure that they can track you
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10422
+Tags: relevance:tangential
+Investigative Direction: Speculative; FOIA GATE program records could test it.
+
+---
+
+**C-9905** Host Says Greenland Has a Cold War Underground Military Base Built to Launch Missiles
+
+Claim Timestamp: 00:57:55
+
+Claim: The host says she learned there is an underground military base in Greenland established particularly to launch missiles during the Cold War, so America is invested there.
+
+Transcript Snippet: I had no idea that we had this military base, underground military base that was established there, particularly to launch missiles during the Cold War.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11242
+Tags: relevance:context
+Investigative Direction: Check Camp Century history; the 1959 Project Iceworm scheme was cancelled and the base was not a launch base.
+
+---
+
+**C-9906** Host Says Charlie Predicted Devastation From a War Involving Missiles
+
+Claim Timestamp: 00:58:25
+
+Claim: The host says she showed earlier that Charlie's predictions included not only his own death but devastation coming from a war involving missiles, though she cannot recall the exact text.
+
+Transcript Snippet: it was a part of Charlie's predictions. Not only was he going to die, but he felt that there was some devastation coming pertaining to a missile a war involving missiles.
+
+Anchored Artifacts: A-3039
+Mentions: N-1, N-3
+Tags: relevance:core
+Investigative Direction: Retrieve the text message(s) from the earlier episode and read the missile reference verbatim.
+
+---
+
+**C-9907** Sisbear Comment Says Sabrina Wallace Claims DARPA Tested Biosonar on Children
+
+Claim Timestamp: 01:00:45
+
+Claim: The host reads Sisbear's comment that whistleblower Sabrina Wallace, as a child, claims DARPA tested biosonar on her and other children in the 80s and 90s.
+
+Transcript Snippet: she was a child who claims DARPA tested biosonar on her and other children in the 80s and 90s
+
+Anchored Artifacts: A-1642.2
+Mentions: N-478
+Related Nodes: N-10422
+Tags: relevance:context
+Investigative Direction: Find Wallace's public statements and any DARPA documentation of the biosonar tests.
+
+---
+
+**C-9908** Host Says Charlie Was DARPA Tested and Tracked by the Military
+
+Claim Timestamp: 01:01:00
+
+Claim: The host says she thinks Charlie was DARPA tested and that it can be proven he was tracked by the military.
+
+Transcript Snippet: I do think that Charlie was DARPA tested I think he was obviously we can prove that he was tracked by the military
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Ask the host to produce the proof of military tracking she says exists; no DARPA testing record has been shown.
+
+---
+
+**C-9909** Host Says Turning Point Was Established in Part by Bill Montgomery From the Air Force
+
+Claim Timestamp: 01:01:15
+
+Claim: The host says Turning Point was established in part by Bill Montgomery, who was Air Force involved and on the reserves, which she says was read the day before.
+
+Transcript Snippet: turning point was established in part by Bill Montgomery who was Air Force involved with the Air Force I think we read that yesterday was on the reserves
+
+Anchored Artifacts: 
+Mentions: N-467, N-3
+Related Nodes: N-10000
+Supports: C-5424
+Tags: relevance:core
+Investigative Direction: Check Montgomery's military service record and TPUSA founding documents.
+
+---
+
+**C-9910** Host Says She Will Pursue the Fort Huachuca Alibi and Update by Monday
+
+Claim Timestamp: 01:01:45
+
+Claim: The host says she will pursue the alibi in earnest, send Erika's side a video saying she knows what she is talking about, and hopes to update viewers by Monday.
+
+Transcript Snippet: again I will pursue that alibi in earnest I'm going to send them a video saying I know what I'm talking about
+
+Anchored Artifacts: A-3036
+Mentions: N-2, N-3
+Related Nodes: N-10472
+Tags: relevance:core
+Investigative Direction: Watch the Monday live episode for the promised update and any video from Erika.
+
+---
+
+**C-9911** Host Asks for Fort Huachuca Tips at the Candace Owens Tips Address
+
+Claim Timestamp: 01:02:00
+
+Claim: The host asks viewers who have more information about Fort Huachuca to send it to more tips at Candace Owens dot com.
+
+Transcript Snippet: if you have more information about Fort Huachuca more tips at Candace Owens. com
+
+Anchored Artifacts: A-3040
+Mentions: N-3
+Related Nodes: N-10417
+Tags: relevance:core
+Investigative Direction: Check that incoming tips are logged and followed up on subsequent episodes.
+
+---
+
+**C-9912** Host Says Myron Gaines Interview Drops the Next Day
+
+Claim Timestamp: 01:02:10
+
+Claim: The host says an interview between her and Myron Gaines drops the next day, covering feminism and her book Make Me a Sandwich, and that advertisers asked for it to go on her platform.
+
+Transcript Snippet: we have an interview dropping tomorrow between me and Myron Gaines
+
+Anchored Artifacts: 
+Mentions: N-870, N-3
+Tags: relevance:tangential
+Investigative Direction: Check the release of the interview on the following day.
 
 ---
 

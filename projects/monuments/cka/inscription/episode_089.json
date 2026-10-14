@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–00:49:26",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "f014080d358c9ccfe42ed712aeffc49e3166ec2829366ab1f4e0556561329eb5",
@@ -254,6 +254,100 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2953",
+      "family_ref": "A-2953",
+      "bundle_name": "MAGA Voter Reaction Clips Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2953.1",
+          "ref": "A-2953.1",
+          "description": "Clip of an unnamed voter, played by the host, saying Trump is surrounded by bad advisers and rejecting the Shapiro/Levin wing",
+          "related_claims": [
+            "C-8651",
+            "C-8652"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:17:14",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2953.2",
+          "ref": "A-2953.2",
+          "description": "Second played clip in which a speaker says Trump became a creature of Netanyahu and cites JFK",
+          "related_claims": [
+            "C-8653"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:18",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2954",
+      "family_ref": "A-2954",
+      "bundle_name": "Pre-Born Sponsor Read Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2954.1",
+          "ref": "A-2954.1",
+          "description": "Host verbal sponsor read for Pre-Born (80,000 babies, $28 per ultrasound)",
+          "related_claims": [
+            "C-8657"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:21:03",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2955",
+      "family_ref": "A-2955",
+      "bundle_name": "New Merch Display Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2955.1",
+          "ref": "A-2955.1",
+          "description": "Host shows new merch on screen including a MACA hat and four horsemen design",
+          "related_claims": [
+            "C-8681",
+            "C-8682"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:09",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -386,7 +480,43 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8636",
+        "C-8637",
+        "C-8639",
+        "C-8640",
+        "C-8642",
+        "C-8643",
+        "C-8644",
+        "C-8645",
+        "C-8646",
+        "C-8648",
+        "C-8649",
+        "C-8650",
+        "C-8652",
+        "C-8653",
+        "C-8655",
+        "C-8658",
+        "C-8659",
+        "C-8660",
+        "C-8661",
+        "C-8663",
+        "C-8664",
+        "C-8665",
+        "C-8666",
+        "C-8667",
+        "C-8668",
+        "C-8669",
+        "C-8670",
+        "C-8671",
+        "C-8673",
+        "C-8676",
+        "C-8679",
+        "C-8683",
+        "C-8684",
+        "C-8686",
+        "C-8688"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -402,7 +532,57 @@
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8635",
+        "C-8636",
+        "C-8637",
+        "C-8638",
+        "C-8640",
+        "C-8641",
+        "C-8643",
+        "C-8645",
+        "C-8646",
+        "C-8647",
+        "C-8648",
+        "C-8649",
+        "C-8650",
+        "C-8651",
+        "C-8653",
+        "C-8654",
+        "C-8655",
+        "C-8656",
+        "C-8657",
+        "C-8658",
+        "C-8659",
+        "C-8660",
+        "C-8661",
+        "C-8662",
+        "C-8663",
+        "C-8664",
+        "C-8665",
+        "C-8666",
+        "C-8667",
+        "C-8668",
+        "C-8669",
+        "C-8670",
+        "C-8671",
+        "C-8672",
+        "C-8673",
+        "C-8674",
+        "C-8676",
+        "C-8677",
+        "C-8678",
+        "C-8679",
+        "C-8680",
+        "C-8681",
+        "C-8682",
+        "C-8683",
+        "C-8684",
+        "C-8685",
+        "C-8686",
+        "C-8687",
+        "C-8688"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -418,7 +598,39 @@
       "type": "person",
       "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8635",
+        "C-8637",
+        "C-8638",
+        "C-8639",
+        "C-8641",
+        "C-8642",
+        "C-8643",
+        "C-8644",
+        "C-8647",
+        "C-8648",
+        "C-8649",
+        "C-8650",
+        "C-8652",
+        "C-8653",
+        "C-8654",
+        "C-8655",
+        "C-8656",
+        "C-8658",
+        "C-8661",
+        "C-8662",
+        "C-8664",
+        "C-8666",
+        "C-8667",
+        "C-8668",
+        "C-8669",
+        "C-8670",
+        "C-8675",
+        "C-8676",
+        "C-8683",
+        "C-8685",
+        "C-8688"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -434,7 +646,12 @@
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8644",
+        "C-8663",
+        "C-8665",
+        "C-8666"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -450,7 +667,18 @@
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8637",
+        "C-8638",
+        "C-8639",
+        "C-8640",
+        "C-8659",
+        "C-8660",
+        "C-8661",
+        "C-8674",
+        "C-8675",
+        "C-8682"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -482,7 +710,11 @@
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8649",
+        "C-8650",
+        "C-8653"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -498,7 +730,13 @@
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8637",
+        "C-8638",
+        "C-8641",
+        "C-8662",
+        "C-8682"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -514,7 +752,13 @@
       "type": "person",
       "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8671",
+        "C-8672",
+        "C-8673",
+        "C-8674",
+        "C-8675"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -530,7 +774,9 @@
       "type": "person",
       "description": "Comments return to France/Brigitte as origin-of-ties theme.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8641"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -546,7 +792,14 @@
       "type": "person",
       "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8637",
+        "C-8638",
+        "C-8642",
+        "C-8654",
+        "C-8662",
+        "C-8682"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -603,6 +856,440 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein, named in a played clip's phrase about an Epstein class table.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8637",
+        "C-8638",
+        "C-8642",
+        "C-8651",
+        "C-8652",
+        "C-8654",
+        "C-8662",
+        "C-8682"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Ben Shapiro, named in a played voter clip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8651"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-148",
+      "ref": "N-148",
+      "name": "Marjorie Taylor Greene",
+      "type": "person",
+      "description": "Marjorie Taylor Greene, named in the post as Marjorie Traitor Brown.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8644"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-168",
+      "ref": "N-168",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "Howard Lutnick, named in a played voter clip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8652"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-182",
+      "ref": "N-182",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Jared Kushner, named by the host in connection with boardroom deals.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8648"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-249",
+      "ref": "N-249",
+      "name": "Mark Levin",
+      "type": "person",
+      "description": "Mark Levin, named in a played voter clip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8651"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-305",
+      "ref": "N-305",
+      "name": "Miriam Adelson",
+      "type": "person",
+      "description": "Miriam Adelson, the donor in the host's account of the alleged meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8650",
+        "C-8664",
+        "C-8669"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-693",
+      "ref": "N-693",
+      "name": "Joe Biden",
+      "type": "person",
+      "description": "Joe Biden, discussed in the host's comment on dementia.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8685"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-719",
+      "ref": "N-719",
+      "name": "Sheldon Adelson",
+      "type": "person",
+      "description": "Sheldon Adelson, whose gambling fortune the host references.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8669"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10006",
+      "ref": "N-10006",
+      "name": "Fox News",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8639",
+        "C-8688"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8653",
+        "C-8659",
+        "C-8660",
+        "C-8661",
+        "C-8676",
+        "C-8684"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10063",
+      "ref": "N-10063",
+      "name": "Gaza",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8648"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10282",
+      "ref": "N-10282",
+      "name": "CBS News",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8646"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8643",
+        "C-8655",
+        "C-8683"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10541",
+      "ref": "N-10541",
+      "name": "Strait of Hormuz / US-Iran War Context",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8637",
+        "C-8645",
+        "C-8646",
+        "C-8649",
+        "C-8655",
+        "C-8658",
+        "C-8660",
+        "C-8679"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10628",
+      "ref": "N-10628",
+      "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8671"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10630",
+      "ref": "N-10630",
+      "name": "Laura Loomer Identity Claims (Jewish Heritage)",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8673"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10741",
+      "ref": "N-10741",
+      "name": "Sandy Hook Comparison Rhetoric",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8642"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10962",
+      "ref": "N-10962",
+      "name": "Venezuela",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8658"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11128",
+      "ref": "N-11128",
+      "name": "US and Israel Iran War Betrayal Thesis",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8650",
+        "C-8679"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11133",
+      "ref": "N-11133",
+      "name": "Glyphosate and White Phosphorus Defense Production Act Order",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8676"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11145",
+      "ref": "N-11145",
+      "name": "Minab Iran School Strike",
+      "type": "investigation_target",
+      "description": "Topic or entity referenced by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8645"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11191",
+      "ref": "N-11191",
+      "name": "Pre-Born",
+      "type": "organization",
+      "description": "Anti-abortion ultrasound network promoted by the host in a sponsor read at 00:21:03 in episode 89.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8657"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11192",
+      "ref": "N-11192",
+      "name": "Sabbatian-Frankist Cult Allegation",
+      "type": "topic",
+      "description": "The host's repeated assertion at 00:36:11-00:37:09 that a cult claiming to be Jewish, tied to Sabbatianism and Frankism, is emerging; recorded as said.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8677",
+        "C-8678"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -858,7 +1545,1201 @@
         "N-3",
         "N-82"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8635",
+      "ref": "C-8635",
+      "label": "Host Says She Was on Break and Returned to Respond to Trump",
+      "claim": "The host says she was supposed to be off this week but came back to address President Trump directly.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Compare the show schedule and break announcement with the episode's upload date.",
+      "transcript_snippet": "I'm obviously supposed to be off this week, but obviously I needed to come back",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8636",
+      "ref": "C-8636",
+      "label": "Host Says Whoever Killed Charlie Was Right That He Could Command a Crowd",
+      "claim": "The host says whoever decided to kill Charlie Kirk was correct that he was a threat because he could command a crowd, and that seven months after his death the crowd still moves on his behalf.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:36",
+      "investigative_direction": "Ask the host which evidence supports a decision-maker acting on Kirk's influence; this is an inference, not a documented motive.",
+      "transcript_snippet": "whoever it was that made the decision to kill him was correct in their assessment that he was indeed a threat because Charlie Kirk could command a crowd",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8637",
+      "ref": "C-8637",
+      "label": "Trump Post Said the Four Critics Think a Nuclear Iran Is Wonderful",
+      "claim": "The Truth Social post, as read by the host, says Tucker Carlson, Megyn Kelly, Candace Owens and Alex Jones fight him because they think it is wonderful for Iran to have a nuclear weapon.",
+      "anchored_artifacts": [
+        "A-1939.1"
+      ],
+      "related_nodes": [
+        "N-10541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:12",
+      "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading.",
+      "transcript_snippet": "they think it is wonderful for Iran, the number one state sponsor of terror, to have a nuclear weapon",
+      "mentions_person_refs": [
+        "N-22",
+        "N-46",
+        "N-3",
+        "N-93",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8638",
+      "ref": "C-8638",
+      "label": "Trump Post Said the Critics Were Thrown Off TV and Lost Their Shows",
+      "claim": "The post, as read by the host, says the four critics have been thrown off television, lost their shows and are not invited on TV because nobody cares about them.",
+      "anchored_artifacts": [
+        "A-1939.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:04:12",
+      "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading. Check which of the four lost TV shows and when.",
+      "transcript_snippet": "They've all been thrown off television, lost their shows, and aren't even invited on TV because nobody cares about them.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-46",
+        "N-3",
+        "N-93",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8639",
+      "ref": "C-8639",
+      "label": "Trump Post Said Tucker Carlson Was Broken After Fox and Needs a Psychiatrist",
+      "claim": "The post, as read by the host, says Tucker Carlson could not finish college, was a broken man when fired from Fox, and should see a psychiatrist.",
+      "anchored_artifacts": [
+        "A-1939.1"
+      ],
+      "related_nodes": [
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:19",
+      "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading.",
+      "transcript_snippet": "He was a broken man when he got fired from Fox and he's never been the same. Perhaps he should see a good psychiatrist.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8640",
+      "ref": "C-8640",
+      "label": "Host Says Charlie Kirk Did Not Go to College",
+      "claim": "The host says Charlie Kirk did not go to college, as part of her answer to the post's jab that Tucker Carlson did not finish college.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:08:10",
+      "investigative_direction": "Check Kirk's published biography for his education history.",
+      "transcript_snippet": "Do you know who else didn't go to college? Um Charlie Kirk didn't go to college.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8641",
+      "ref": "C-8641",
+      "label": "Trump Post Said Candace Accused the First Lady of France of Being a Man and May Win Money",
+      "claim": "The post, as read by the host, says Candace Owens accuses the first lady of France of being a man when she is not, and will hopefully win lots of money in the ongoing lawsuit, and that Megyn Kelly asked the now famous only Rosie O'Donnell question.",
+      "anchored_artifacts": [
+        "A-1939.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:09:01",
+      "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading.",
+      "transcript_snippet": "crazy Candace Owens who accuses the highly respected first lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.",
+      "supports_claim_refs": [
+        "C-2681"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-46",
+        "N-82",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8642",
+      "ref": "C-8642",
+      "label": "Trump Post Said Alex Jones Went Bankrupt and Lost His Fortune as He Should Have",
+      "claim": "The post, as read by the host, says Alex Jones said some of the dumbest things and lost his entire fortune as he should have, citing his attack on the families of the Sandy Hook victims.",
+      "anchored_artifacts": [
+        "A-1939.1"
+      ],
+      "related_nodes": [
+        "N-10741"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:25",
+      "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading.",
+      "transcript_snippet": "Or bankrupt Alex Jones, who says some of the dumbest things and lost his entire fortune as he should have.",
+      "mentions_person_refs": [
+        "N-93",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8643",
+      "ref": "C-8643",
+      "label": "Host Says the Base Revolted Over the Epstein Files",
+      "claim": "The host says the MAGA base revolted against Trump over the Epstein files, and accuses him of a pattern of protecting people who harm children.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:25",
+      "investigative_direction": "Compare dated polling and social-media sentiment on the Epstein files release with the host's description of a base revolt.",
+      "transcript_snippet": "Did you connect that dot when we revolted against you saying, \"What about the Epstein files?\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8644",
+      "ref": "C-8644",
+      "label": "Trump Post Said He Does Not Return Their Calls",
+      "claim": "The post, as read by the host, says that when the critics call Trump does not return the calls because he is busy, and that after a few times they go nasty like Marjorie Traitor Brown.",
+      "anchored_artifacts": [
+        "A-1939.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:20",
+      "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading. Ask the four named critics whether and when they called.",
+      "transcript_snippet": "As president President, I could get them on my side anytime I want, but when they call, I don't return their calls because I'm too busy on world and country affairs.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-148"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8645",
+      "ref": "C-8645",
+      "label": "Host Says the US Just Killed 150 Schoolgirls",
+      "claim": "The host says the United States just killed 150 schoolgirls for no reason, as one of her answers to the post's claim that the country is the hottest in the world.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11145",
+        "N-10541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:28",
+      "investigative_direction": "Compare the host's figure with official and independent casualty counts for the Minab school strike.",
+      "transcript_snippet": "Because we just killed 150 schoolgirls for no reason?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8646",
+      "ref": "C-8646",
+      "label": "Host Says the Administration Lied About Six Servicemen and Had to Be Leaked To",
+      "claim": "The host says the administration lied about six servicemen who died and that the truth had to be leaked to CBS News.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10282",
+        "N-10541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:28",
+      "investigative_direction": "Find the CBS News report and the official statements on the deaths to test the host's account of a lie and a leak.",
+      "transcript_snippet": "Because you guys just lied about six of our servicemen who died? And they had to leak that to CBS News that you were lying about what was happening.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8647",
+      "ref": "C-8647",
+      "label": "Host Tells Trump He Belongs to the Epstein Class",
+      "claim": "The host says Trump belongs to the Epstein class and that this is now his legacy.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:22",
+      "investigative_direction": "This is characterization; ask the host what Trump-Epstein documents she relies on.",
+      "transcript_snippet": "You belong to the Epstein class. That is your legacy now.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8648",
+      "ref": "C-8648",
+      "label": "Host Refers to Boardroom Deals With Jared Kushner and a Trump Gaza Hotel",
+      "claim": "The host refers to what was agreed in boardrooms with Jared Kushner and a Trump Gaza hotel as something people will see on his buildings.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:22",
+      "investigative_direction": "Identify any public reporting on a Kushner-linked Gaza development plan and compare it with the host's allusion.",
+      "transcript_snippet": "whatever was agreed upon in those boardrooms with Jared Kushner, uh Trump Gaza hotel, whatever you tweeted so crass.",
+      "mentions_person_refs": [
+        "N-182",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8649",
+      "ref": "C-8649",
+      "label": "Host Says Trump Sat on the Side While Netanyahu Convinced Him Iran Was an Imminent Threat",
+      "claim": "The host says Trump was reduced to sitting on the side in the White House situation room while Benjamin Netanyahu, standing above him, convinced him that Iran was an imminent threat that could be crippled within weeks.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10592",
+        "N-10541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:05",
+      "investigative_direction": "Find the official situation-room photographs and attendee records for the Iran briefing.",
+      "transcript_snippet": "suddenly reduced to sitting on the side in the situation room at the White House while the leader of a foreign country, Benjamin Netanyahu, stands above him",
+      "supports_claim_refs": [
+        "C-2672"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8650",
+      "ref": "C-8650",
+      "label": "Host Says Netanyahu Is Trump's Master and Adelson Lights the Fire",
+      "claim": "The host says Netanyahu is Trump's master and that Miriam Adelson may be the one who lights the fire, with Netanyahu making the shadows on the wall.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:57",
+      "investigative_direction": "This is the host's characterization; look for documented policy requests by either figure to Trump.",
+      "transcript_snippet": "Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall",
+      "mentions_person_refs": [
+        "N-36",
+        "N-305",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8651",
+      "ref": "C-8651",
+      "label": "Played MAGA Voter Clip Says Half the Movement Is Not on Shapiro and Levin's Team",
+      "claim": "In a clip played by the host, an unnamed MAGA voter says half the people he grew up with in the movement are not on Ben Shapiro and Mark Levin's team and are not neocons or war hawks.",
+      "anchored_artifacts": [
+        "A-2953.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:17:14",
+      "investigative_direction": "Identify the clip's speaker and source video.",
+      "transcript_snippet": "Half of the people that I grew up with in this movement are not on Ben Shapiro and Mark Levin's team, okay?",
+      "mentions_person_refs": [
+        "N-97",
+        "N-249",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8652",
+      "ref": "C-8652",
+      "label": "Played Clip Calls Trump Corrupt and Rejects Lutnick and the Epstein Class Table",
+      "claim": "In the same clip, the voter says Trump has become corrupt, cites insider trading, and says he does not want to sit at the Howard Lutnick, Jeffrey Epstein class table.",
+      "anchored_artifacts": [
+        "A-2953.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:17:14",
+      "investigative_direction": "Identify the speaker; check the insider-trading reporting the clip alludes to.",
+      "transcript_snippet": "I don't want to be at your cool, corrupt kid, Howard Lutnick, Jeffrey Epstein class table.",
+      "mentions_person_refs": [
+        "N-168",
+        "N-9",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8653",
+      "ref": "C-8653",
+      "label": "Played Clip Says the Last President to Tell Israel No Was JFK",
+      "claim": "In a second played clip, a speaker says Trump became a creature of Israel and Netanyahu, and that the last president to tell Israel no was JFK, adding that everyone knows what happened to him.",
+      "anchored_artifacts": [
+        "A-2953.2"
+      ],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:18",
+      "investigative_direction": "Identify the speaker; treat the JFK remark as the speaker's opinion.",
+      "transcript_snippet": "the last president to tell that little country no was JFK. And we all know what happened to him.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8654",
+      "ref": "C-8654",
+      "label": "Host Says Alex Jones Had Trump on When No Media Company Would",
+      "claim": "The host says that when no media company would have Trump on, Alex Jones had him on his show.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:06",
+      "investigative_direction": "Find Trump's early appearances on Alex Jones's show and dates.",
+      "transcript_snippet": "when no media company would have you on, Alex Jones had you on on show.",
+      "mentions_person_refs": [
+        "N-93",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8655",
+      "ref": "C-8655",
+      "label": "Read Responses Blame the Epstein Files and the Iran War for the Split",
+      "claim": "A Truth Social reply read by the host says Trump is going against everyone who fought for him because of the Epstein files and being at war with Iran for Israel.",
+      "anchored_artifacts": [
+        "A-1946.1"
+      ],
+      "related_nodes": [
+        "N-10324",
+        "N-10541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:06",
+      "investigative_direction": "Locate the original replies on Truth Social.",
+      "transcript_snippet": "you are just going against everyone that fought for him to win just because of the Epstein files and being at war with Iran for Israel",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8656",
+      "ref": "C-8656",
+      "label": "Read Responses Call for Trump to Resign or Face the 25th",
+      "claim": "A Truth Social reply read by the host says it is time for Trump to resign or face the 25th Amendment and calls him mentally and emotionally unfit.",
+      "anchored_artifacts": [
+        "A-1946.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:06",
+      "investigative_direction": "Locate the original replies on Truth Social.",
+      "transcript_snippet": "Time to resign, Donald, or face the 25th. You are mentally and emotionally unfit to be POTUS.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8657",
+      "ref": "C-8657",
+      "label": "Sponsor Read Says Pre-Born Rescued Over 80,000 Babies Last Year",
+      "claim": "In a sponsor read, the host says Pre-Born helped rescue over 80,000 babies last year and that $28 provides an ultrasound.",
+      "anchored_artifacts": [
+        "A-2954.1"
+      ],
+      "related_nodes": [
+        "N-11191"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:03",
+      "investigative_direction": "Check Pre-Born's published annual figures against the sponsor-read number.",
+      "transcript_snippet": "last year Pre-Born helped to rescue over 80,000 babies",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8658",
+      "ref": "C-8658",
+      "label": "Host Says Trump Promised No New Wars and Lower Gas Prices",
+      "claim": "The host says Trump explicitly promised no new wars in the Middle East and lower gas prices, and that he is now fighting in Iran despite nobody wanting it, with insider trading also seen recently.",
+      "anchored_artifacts": [
+        "A-1940.1"
+      ],
+      "related_nodes": [
+        "N-10541",
+        "N-10962"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:40",
+      "investigative_direction": "Compile Trump's 2024 campaign statements on new wars and gas prices for comparison.",
+      "transcript_snippet": "promising no new wars, right? No new wars in the Middle East, we're going to lower gas prices",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8659",
+      "ref": "C-8659",
+      "label": "Carlson Letter Lists Dark Money, Extortion, Physical Threats and Assassination",
+      "claim": "The Tucker Carlson letter read by the host says Israel uses dark money, campaign contributions, extortion, physical threats and even assassination.",
+      "anchored_artifacts": [
+        "A-1942.1"
+      ],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:31",
+      "investigative_direction": "Retrieve the original letter and test each listed tactic against documented cases; the letter gives none.",
+      "transcript_snippet": "Dark money, campaign contributions, extortion, physical threats, and even assassination.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8660",
+      "ref": "C-8660",
+      "label": "Carlson Letter Says Israel's Priority Is That Operation Epic Fury Not Stop",
+      "claim": "The letter says Israel's top priority is making sure Operation Epic Fury does not stop and that a peace deal would foil its plot to expand its borders.",
+      "anchored_artifacts": [
+        "A-1942.1"
+      ],
+      "related_nodes": [
+        "N-10026",
+        "N-10541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:13",
+      "investigative_direction": "Retrieve the original letter; identify what Operation Epic Fury names.",
+      "transcript_snippet": "Israel's current top priority is making sure Operation Epic Fury does not stop.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8661",
+      "ref": "C-8661",
+      "label": "Carlson Letter Raises Clinton-Style Blackmail of Trump but Admits No Knowledge",
+      "claim": "The letter says Israel's pressure could mean Clinton-style blackmail against Trump or something more morbid, but states we do not know for sure that this is happening.",
+      "anchored_artifacts": [
+        "A-1942.1"
+      ],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:13",
+      "investigative_direction": "Retrieve the original letter; the letter itself marks this as unestablished.",
+      "transcript_snippet": "That could mean Clinton-style blackmail against Trump or something far more morbid. We do not know for sure whether that is happening",
+      "qualifies_claim_refs": [
+        "C-2673"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8662",
+      "ref": "C-8662",
+      "label": "Carlson Letter Says It Was Written After Trump Attacked the Four",
+      "claim": "The letter says it was written after Trump published a Truth Social post attacking Tucker Carlson's company, Megyn Kelly, Candace Owens and Alex Jones, and that it wants to give the president grace.",
+      "anchored_artifacts": [
+        "A-1942.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:28:09",
+      "investigative_direction": "Confirm the letter's publication time against the post's time.",
+      "transcript_snippet": "We decided to write this after Trump published a Truth Social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones",
+      "supports_claim_refs": [
+        "C-2669"
+      ],
+      "mentions_person_refs": [
+        "N-5",
+        "N-46",
+        "N-3",
+        "N-93"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8663",
+      "ref": "C-8663",
+      "label": "Host Says Things Are No Longer the Same Between Her and Andrew Kolvet and She Does Not Believe Him",
+      "claim": "The host says that things are not the same between her and Andrew Kolvet (transcribed Kolb) and that she does not believe him, while still relaying that he confirmed Charlie's account.",
+      "anchored_artifacts": [
+        "A-1944.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:16",
+      "investigative_direction": "Ask Kolvet to confirm or deny that he told the host this account.",
+      "transcript_snippet": "obviously things are not the same between me and Andrew Kolb at because I I don't believe him.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8664",
+      "ref": "C-8664",
+      "label": "Host Says Adelson's $100 Million to Trump Was Announced Around July 2024",
+      "claim": "The host says it was announced in or just before July 2024 that Miriam Adelson gave Trump $100 million.",
+      "anchored_artifacts": [
+        "A-1944.1"
+      ],
+      "related_nodes": [
+        "N-10589"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:16",
+      "investigative_direction": "Check FEC filings and press reports for the date and amount of Adelson-linked contributions in 2024.",
+      "transcript_snippet": "before where was announced that Miriam Adelson gave Trump $100 million. This was I think it was announced in July or just before July of 2024.",
+      "supports_claim_refs": [
+        "C-7107"
+      ],
+      "mentions_person_refs": [
+        "N-305",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8665",
+      "ref": "C-8665",
+      "label": "Host Places Charlie's Telling of the Story Around May",
+      "claim": "The host says she thinks Charlie told her the story around May, before the money went through, and she would have to check the exact date of the discussion.",
+      "anchored_artifacts": [
+        "A-1944.1"
+      ],
+      "related_nodes": [
+        "N-10589"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:06",
+      "investigative_direction": "Check the host's own messages or notes from spring 2024 for the date of the discussion.",
+      "transcript_snippet": "And the reason that Charlie told me the story and again I could go back and try to figure out when exactly the discussion happened. I want to say it was May.",
+      "supports_claim_refs": [
+        "C-2675"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8666",
+      "ref": "C-8666",
+      "label": "Host Says Only Charlie and Andrew Were Present When Trump Made the Remark",
+      "claim": "The host says nobody else but Andrew Kolvet and Charlie Kirk was there when Trump made the remark, that she heard it first-person from Charlie and that Andrew confirmed it.",
+      "anchored_artifacts": [
+        "A-1944.1"
+      ],
+      "related_nodes": [
+        "N-10589"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:06",
+      "investigative_direction": "Only the two named witnesses are asserted present; ask Kolvet directly.",
+      "transcript_snippet": "That nobody else was there but Andrew and Charlie when Trump when Trump said this.",
+      "supports_claim_refs": [
+        "C-2676"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-14",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8667",
+      "ref": "C-8667",
+      "label": "Host Says Butler Happened a Few Weeks After the Meeting",
+      "claim": "The host says the Butler attempted assassination happened a few weeks after the meeting she describes.",
+      "anchored_artifacts": [
+        "A-1944.1"
+      ],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:16",
+      "investigative_direction": "Reconcile the host's date of May with the public July 13, 2024 rally date.",
+      "transcript_snippet": "A few weeks later um there was the Butler attempted assassination.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8668",
+      "ref": "C-8668",
+      "label": "Host Says Trump Seems Disinterested in Who Fired the Butler Shot",
+      "claim": "The host says it is very strange that Trump has appeared completely disinterested in determining who fired the Butler shot, and that there were a lot of holes in that story.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:16",
+      "investigative_direction": "Collect Trump's public statements and executive actions on the Butler investigation.",
+      "transcript_snippet": "I find it very strange that Donald Trump is not interested or has appeared to be completely disinterested in determining who fired that shot.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8669",
+      "ref": "C-8669",
+      "label": "Host Wonders Whether Trump's Remark Reached the Adelsons and Calls Them Gangsters",
+      "claim": "The host wonders whether it got back to the Adelsons that Trump said he would screw them over, and characterizes the family as gangsters because their money came from gambling through Sheldon.",
+      "anchored_artifacts": [
+        "A-1944.1"
+      ],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:11",
+      "investigative_direction": "This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.",
+      "transcript_snippet": "If it maybe got back to the Adelsons that Trump said that. You don't take $100 million from a uh a family of I would say gangsters, right?",
+      "mentions_person_refs": [
+        "N-719",
+        "N-305",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8670",
+      "ref": "C-8670",
+      "label": "Host Says Everyone Noted a Shift in Trump Since Butler",
+      "claim": "The host says that all of us have noted a shift in Trump since Butler, Pennsylvania.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:11",
+      "investigative_direction": "Define the shift and compare Trump's positions before and after July 2024.",
+      "transcript_snippet": "I do think that we have all noted this shift in him since Butler, Pennsylvania.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8671",
+      "ref": "C-8671",
+      "label": "Host Says Loomer Was Committed Multiple Times by Her Own Family",
+      "claim": "The host says Laura Loomer has been committed multiple times by her own family.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10628"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:08",
+      "investigative_direction": "Look for court or medical records; none was shown.",
+      "transcript_snippet": "she has been committed multiple times uh by her own family.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8672",
+      "ref": "C-8672",
+      "label": "Host Says Loomer Chained Herself to Twitter Headquarters in a Yellow Star",
+      "claim": "The host says Laura Loomer once chained herself to Twitter headquarters and wore a yellow star.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:08",
+      "investigative_direction": "Find contemporaneous news coverage of the protest.",
+      "transcript_snippet": "she once chained herself to X to to Twitter headquarters. It was actually Twitter when she did this um and wore a yellow star.",
+      "supports_claim_refs": [
+        "C-5120"
+      ],
+      "mentions_person_refs": [
+        "N-60",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8673",
+      "ref": "C-8673",
+      "label": "Host Says Loomer Is Not Jewish and Was Not Bat Mitzvahed",
+      "claim": "The host says Laura Loomer is not Jewish and was not bat mitzvahed, and that she is playing the part.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10630"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:08",
+      "investigative_direction": "Ask Loomer about her religion; the host offers no record.",
+      "transcript_snippet": "If you ask her to produce a photo of her bat mitzvah she cannot because she was not bat mitzvahed and she's not Jewish.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8674",
+      "ref": "C-8674",
+      "label": "Loomer Clip Says Carlson's Content Will Cost Republicans the House and Senate",
+      "claim": "In the played Loomer clip, she says Tucker Carlson is creating chaos that will cause the Democrats to take the House and the Senate and is whitewashing what she calls a death cult ideology known as Islam.",
+      "anchored_artifacts": [
+        "A-1943.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:58",
+      "investigative_direction": "Retrieve the original Loomer video to confirm her wording.",
+      "transcript_snippet": "you're going to cause the Democrats to take the House and the Senate and you are endangering our national security by whitewashing this barbaric death cult ideology known as Islam",
+      "mentions_person_refs": [
+        "N-60",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8675",
+      "ref": "C-8675",
+      "label": "Loomer Clip Says Trump Called Carlson a Third Rate Podcaster Today",
+      "claim": "In the played clip, Loomer says President Trump today called Carlson out and said he is like a third rate podcaster.",
+      "anchored_artifacts": [
+        "A-1943.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:23",
+      "investigative_direction": "Compare to the post text read earlier, which says the four have third-rate podcasts.",
+      "transcript_snippet": "Even President Trump today called him out and said he's like a third rate podcaster.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-22",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8676",
+      "ref": "C-8676",
+      "label": "Speaker Says Trump Reversed on Phosphorus and Monsanto Because Israel Needed It for Lebanon",
+      "claim": "A speaker in this segment, apparently the host, says Trump went back on phosphorus and Monsanto because Israel needed it to poison people in Lebanon.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11133",
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:11",
+      "investigative_direction": "Check the executive order on glyphosate and white phosphorus and any reporting linking it to Israel or Lebanon.",
+      "transcript_snippet": "Oh, Trump went back on phosphorus and Monsanto. Well, that was because Israel needed it uh to poison people in Lebanon.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8677",
+      "ref": "C-8677",
+      "label": "Host Says Rabbis Write That She Is Right About Sabbatianism and Frankism",
+      "claim": "The host says her inbox is filled with Jewish Americans, even rabbis, who write that she is right about Sabbatianism and Frankism.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11192"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:11",
+      "investigative_direction": "Ask the host for the messages or senders; none was shown.",
+      "transcript_snippet": "rabbis even who write me and say you are right about Sabbatianism and Frankism",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8678",
+      "ref": "C-8678",
+      "label": "Host Says a Cult Claiming to Be Jewish Is Emerging",
+      "claim": "The host says there is a cult claiming to be Jewish that is not, and that it is emerging.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11192"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:09",
+      "investigative_direction": "This is a sweeping group assertion; ask the host who is meant and what she relies on.",
+      "transcript_snippet": "there is a cult that is claiming to be Jewish and they are not and that they are emerging.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8679",
+      "ref": "C-8679",
+      "label": "Host Says the First Casualty of the Iranian War Was Charlie Kirk, Sacrificed by a Death Cult",
+      "claim": "The host says she will forever maintain that the first casualty of the Iranian war was Charlie Kirk and says she believes he was sacrificed by what she calls this death cult, and describes it as her opinion.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10541",
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:09",
+      "investigative_direction": "The host labels this her opinion; ask what record ties the killing to the Iran conflict, which began after his death.",
+      "transcript_snippet": "I will forever maintain that the first casualty of the Iranian war was Charlie Kirk. I believe he was sacrificed by this death death cult.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8680",
+      "ref": "C-8680",
+      "label": "Host Says She Faces Many Threats to Sue Over Her Opinion",
+      "claim": "The host says she is going to stick to her opinion despite many threats to sue.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:55",
+      "investigative_direction": "Identify the threatened suits; none was named.",
+      "transcript_snippet": "It's my opinion and I am going to stick to that and despite the many threats to sue.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8681",
+      "ref": "C-8681",
+      "label": "Host Says New Hat Reads MACA for Make America Christian Again",
+      "claim": "The host says a newly dropped hat reads MACA because she feels that is the direction, and that we need to make America Christian again.",
+      "anchored_artifacts": [
+        "A-2955.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:09",
+      "investigative_direction": "Check the merch listing for the product name.",
+      "transcript_snippet": "it actually says m a c a because I feel like that's the direction.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8682",
+      "ref": "C-8682",
+      "label": "Host Calls the Four Critics the Four Horsemen of MAGA and Corrects a Merch Typo",
+      "claim": "The host calls herself and the other three named critics the four horsemen of MAGA and says the merch app should read horsemen, not horseman.",
+      "anchored_artifacts": [
+        "A-2955.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:58",
+      "investigative_direction": "Check the merch listing for the corrected spelling.",
+      "transcript_snippet": "We are the the four horsemen of MAGA. That should be the app.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8683",
+      "ref": "C-8683",
+      "label": "Host Says She Does Not Know What in the Epstein Files Has Trump So Scared",
+      "claim": "The host says she does not know what is in the Epstein files that has Trump so scared but that it has to be something.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:36",
+      "investigative_direction": "The host marks this as speculation; the release status of the files is the relevant record.",
+      "transcript_snippet": "I don't know what is in those files that has him so scared. But it's got to be something.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8684",
+      "ref": "C-8684",
+      "label": "Host Says Politicians Send Money Overseas and Are Beholden to Israel",
+      "claim": "The host says politicians in DC send money overseas, wash it and give it back to themselves, and that the majority of them are beholden to foreign countries, mainly Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:43",
+      "investigative_direction": "Sweeping assertion; no data given. Compare to lobbying and campaign-finance disclosures.",
+      "transcript_snippet": "they so they can send money overseas, wash it, and give it back to themselves. They are beholden to foreign countries, the majority of them to Israel.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8685",
+      "ref": "C-8685",
+      "label": "Host Says Biden Had Dementia but Trump Betrayed Us in His Right Mind",
+      "claim": "The host says she genuinely believes Joe Biden had dementia, that Trump did not, and that Trump betrayed his supporters in his right mind for money and deals.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:19",
+      "investigative_direction": "Opinion about two public figures; no medical record is cited.",
+      "transcript_snippet": "I genuinely believe that Joe Biden had dementia, and at least he can say that.",
+      "mentions_person_refs": [
+        "N-693",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8686",
+      "ref": "C-8686",
+      "label": "Host Says Charlie Was Betrayed by the People Closest to Him",
+      "claim": "The host says Charlie Kirk was betrayed, she believes by the people closest to him, people he helped put into power, and that she sees more and more of that.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:09",
+      "investigative_direction": "Ask the host which specific people are meant; none was named here.",
+      "transcript_snippet": "This This man was betrayed, and I believe by the people clo- closest to him, people that he helped to put into power.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8687",
+      "ref": "C-8687",
+      "label": "Host Says This Week's Research Is Converting Inklings Into Fact",
+      "claim": "The host says her team did incredible research this week and that what they are discovering adds weight to every observation, with inklings now being converted into fact, which she will save for next week.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:09",
+      "investigative_direction": "Check the following episode for the findings she says she is holding back.",
+      "transcript_snippet": "We've done incredible research this week, and the things that we are discovering um I think just add weight to every ob- observation that we've had, every inkling and feeling that we have is is now being converted into fact.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8688",
+      "ref": "C-8688",
+      "label": "Host Says Trump's Advisers Will Feed Him Fake Polls and Fox News",
+      "claim": "The host says Trump's advisers will instead produce more fake polls and show him Fox News telling him he is great.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:29",
+      "investigative_direction": "Opinion about advisers' conduct; no examples are given.",
+      "transcript_snippet": "They will instead produce more fake polls, and show him Fox News",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 89,
+          "video_timestamp": "00:46:09",
+          "speaker_node_ref": "N-3",
+          "quote": "Go Max",
+          "context": "Host reads a viewer comment signing off with Charlie's catchphrase.",
+          "confidence": "high",
+          "tags": [
+            "go max",
+            "charlie"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-100",
+      "ref": "M-100",
+      "canonical_term": "Epstein Class",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 89,
+          "video_timestamp": "00:13:22",
+          "speaker_node_ref": "N-3",
+          "quote": "You belong to the Epstein class.",
+          "context": "Host tells Trump he belongs to the Epstein class.",
+          "confidence": "high",
+          "tags": [
+            "epstein class"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-228",
+      "ref": "M-228",
+      "canonical_term": "Make America Christian Again (MACA)",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 89,
+          "video_timestamp": "00:38:09",
+          "speaker_node_ref": "N-3",
+          "quote": "it actually says m a c a because I feel like that's the direction.",
+          "context": "Host shows a new MACA hat and says the direction is making America Christian again.",
+          "confidence": "high",
+          "tags": [
+            "maca",
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-229",
+      "ref": "M-229",
+      "canonical_term": "Four Horsemen of MAGA",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 89,
+          "video_timestamp": "00:38:58",
+          "speaker_node_ref": "N-3",
+          "quote": "We are the the four horsemen of MAGA.",
+          "context": "Host brands herself, Carlson, Kelly and Jones as the four horsemen and asks for the merch typo to be fixed.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "four horsemen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-230",
+      "ref": "M-230",
+      "canonical_term": "Third Rate Podcaster",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 89,
+          "video_timestamp": "00:38:09",
+          "speaker_node_ref": "N-3",
+          "quote": "we are third rate podcaster podcasters.",
+          "context": "Host adopts the post's insult as a merch joke.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "insult"
+          ]
+        }
+      ]
+    }
+  ]
 }

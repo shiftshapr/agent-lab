@@ -6,13 +6,18 @@
 - **YouTube id**: iHav0PPzUz8
 - **Candace Ep**: 255
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:02:51
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 509201122ed79de97e030313c375fbcb13502e612ab382589b777bb8300a1cb2
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-204, N-205, N-207, N-208, N-10203, N-10204, N-10205, N-10206
-  - Reused Nodes Appearing: 
+  - Tip-minted Nodes (supplement_2026-10d): N-852, N-11220, N-11221, N-11222
+  - Hole-minted Nodes (reintro-ep022): N-10207, N-10209, N-10268, N-10274, N-10277, N-10299, N-10355, N-10452, N-10454, N-10467, N-10549, N-10673, N-10849, N-10853
+  - Tip-minted Nodes (reintro-ep022): N-11020
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10d): C-9399–C-9446
+  - New Nodes Introduced: N-204, N-207, N-10203, N-10204, N-10205
+  - Reused Nodes Appearing: N-205, N-208, N-2, N-36, N-40, N-50, N-68, N-82, N-203, N-10000, N-10012, N-10027, N-10028, N-10047, N-10048, N-10056, N-10070, N-10074, N-10106, N-10134, N-10148, N-10185, N-10187, N-10190, N-10202, N-10345, N-10206
   - (see registers)
 
 ## I. Meta-Data
@@ -215,6 +220,86 @@ Confidence Level: Medium
 
 ---
 
+**A-3006** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3006.1** Host verbal reference to the tip email address moretips@candaceowens.com, asking viewers for information on the Egyptian flight (verbal call for tips, nothing shown)
+
+Quoted text: "please email us at moretips@candaceowens. com pertaining to this this Egyptian flight"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:27:23
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-9419, N-3, N-10204*
+
+---
+
+**A-3007** Foreign Tipster Email Bundle
+
+**A-3007.1** Host verbal reference to an email from an unnamed person in a foreign country who claims intimate knowledge of the Egyptian plane flight (email not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:14:07
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9413, C-9414, C-9415, C-9417, N-3, N-10204*
+
+---
+
+**A-3008** Mark FlightRadar N1098L Position Screenshot Bundle
+
+**A-3008.1** Screenshot on screen from FlightRadar of where plane N1098L was at the moment Charlie Kirk was shot, described by Mark as over Idaho about 20 minutes out of Provo
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:56:45
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9442, N-67, N-10185*
+
+---
+
+**A-3009** Charlie Moral Blackmail Clip Bundle
+
+**A-3009.1** Audio clip played on air, introduced as an episode of the host's micro-series, in which a speaker says Charlie did not appreciate being morally blackmailed and would dig in his heels, with a line about Tucker getting two speeches at AmFest
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:41:06
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9431, N-1, N-22*
+
+---
+
+**A-3010** Norman Finkelstein Interview Trailer Bundle
+
+**A-3010.1** Trailer for the host's upcoming interview with Norman Finkelstein played on air (audio not transcribed in the corrected transcript)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:45:49
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9446, N-203*
+
+---
+
+**A-3011** Viewer Comment Bundle (Caitlyn Drip-Feed Question)
+
+**A-3011.1** Viewer comment from Caitlyn read on air asking whether the host is drip-feeding information about Charlie's death and the betrayals around him
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:53:47
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9437, C-9438, N-3*
+
+---
+
 ## IV. Node Register
 
 **N-69** Kash Patel
@@ -381,6 +466,377 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: C-1542, A-1296.1*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-9399, C-9400, C-9401, C-9402, C-9403, C-9404, C-9405, C-9407, C-9408, C-9409, C-9410, C-9411, C-9412, C-9413, C-9414, C-9415, C-9416, C-9417, C-9418, C-9419, C-9420, C-9421, C-9423, C-9424, C-9425, C-9426, C-9427, C-9428, C-9429, C-9430, C-9432, C-9433, C-9434, C-9435, C-9436, C-9437, C-9438, C-9439, C-9440, C-9441, C-9443, C-9444, C-9445, C-9446*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; his texts, views and pressure from donors are discussed.
+
+*Related: C-9399, C-9400, C-9401, C-9402, C-9403, C-9404, C-9405, C-9406, C-9407, C-9408, C-9410, C-9411, C-9412, C-9413, C-9414, C-9415, C-9416, C-9417, C-9418, C-9419, C-9420, C-9421, C-9422, C-9423, C-9424, C-9425, C-9426, C-9427, C-9428, C-9429, C-9430, C-9431, C-9432, C-9434, C-9437, C-9438, C-9440, C-9441, C-9442, C-9443, C-9445*
+
+---
+
+**N-55** Josh Hammer
+
+Author of the Daily Mail op-ed about Tucker Carlson; discussed as a Hamptons and text-chain participant.
+
+*Related: C-9421, C-9422, C-9423, C-9434, C-9436, C-9445*
+
+---
+
+**N-40** Tyler Robinson
+
+Accused shooter; the host says he was not on the Woodbury building or campus.
+
+*Related: C-9403*
+
+---
+
+**N-82** Brigitte Macron
+
+Referenced in the host's pattern comparison about defamation suits and debunks.
+
+*Related: C-9409*
+
+---
+
+**N-50** Sigmund Freud
+
+Subject of the host's claim about the book Assault on Truth.
+
+*Related: C-9444*
+
+---
+
+**N-2** Erika Kirk
+
+TPUSA CEO; the host expects donor pressure on her over Tucker Carlson.
+
+*Related: C-9401, C-9404, C-9405, C-9406, C-9407, C-9420, C-9421, C-9422, C-9426, C-9427, C-9430, C-9431, C-9435, C-9443, C-9446*
+
+---
+
+**N-203** Norman Finkelstein
+
+Guest of the host's interview aired the day after this episode.
+
+*Related: C-9446*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Named in the host's account of what Seth Dillon pressed Charlie about.
+
+*Related: C-9429*
+
+---
+
+**N-68** Skyler
+
+Producer addressed by the host about where the Seth Dillon clip came from.
+
+*Related: C-9435*
+
+---
+
+**N-10074** Provo, Utah
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9399, C-9400, C-9408, C-9416, C-9419*
+
+---
+
+**N-10849** Woodbury Building / Baugh Family / N88 Plane Connection Question
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9401, C-9402, C-9403*
+
+---
+
+**N-10012** Utah Valley University
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9402*
+
+---
+
+**N-10028** Utah Valley University Campus
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9403*
+
+---
+
+**N-10549** Egyptian Plane Transponding Correlation
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9404*
+
+---
+
+**N-10190** Signature FBO / Millionaire FBO (entity cluster)
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9408*
+
+---
+
+**N-10853** Dairy Queen Timestamp UTC vs MST Reconciliation
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9411*
+
+---
+
+**N-10207** SUBTT (Egyptian military aircraft) Flight Tracking Question
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9410, C-9411*
+
+---
+
+**N-11020** Military Bot Activity Claim
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9412*
+
+---
+
+**N-10299** TPUSA Egyptian Plane Story Suppression Attempt
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9412, C-9414*
+
+---
+
+**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9415, C-9418*
+
+---
+
+**N-10274** BTT Minot AFB Stopover Question
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9416*
+
+---
+
+**N-10277** Minot Air Force Base
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9416*
+
+---
+
+**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9418*
+
+---
+
+**N-10000** Turning Point USA
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9420, C-9430, C-9443, C-9445*
+
+---
+
+**N-10268** AmFest Speaker Removal Pattern
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9420, C-9430, C-9431*
+
+---
+
+**N-10070** Daily Mail
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9421, C-9422*
+
+---
+
+**N-10187** Josh Hammer Text Messages Context
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9423*
+
+---
+
+**N-10452** Candace Owens Anti-Semite of Year 2024 Nomination
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9424*
+
+---
+
+**N-10345** Hampton Retreat Seth Dillon Confrontation
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9425, C-9434*
+
+---
+
+**N-10027** The Hamptons
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9425*
+
+---
+
+**N-10454** Gaza Death Toll and Documentation Claims
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9426*
+
+---
+
+**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9427*
+
+---
+
+**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9428*
+
+---
+
+**N-10056** Kirk-Israel Narrative Dispute
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9428*
+
+---
+
+**N-10134** Hamptons Weekend Retreat
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9429*
+
+---
+
+**N-10673** Hamptons August 5–7 Intervention Event
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9429*
+
+---
+
+**N-10106** Moral Blackmail by Donors
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9431*
+
+---
+
+**N-10047** Donor Intimidation of Charlie Kirk
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9434, C-9443*
+
+---
+
+**N-10467** TPUSA Donor Targeting Pattern Question
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9443*
+
+---
+
+**N-10048** Charlie Kirk Assassination Investigation
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9440*
+
+---
+
+**N-10185** Plane N1098L Investigation
+
+Existing item reused for new claims in this episode.
+
+*Related: C-9441, C-9442*
+
+---
+
+**N-852** Casey Baugh
+
+First named by the host at 00:03:53 in episode 22 as a co-owner of the Maxfield plane and as having his name on the Baugh Entrepreneurship Institute at UVU.
+
+*Related: C-9401, C-9402, C-9403*
+
+---
+
+**N-11220** Stop Antisemitism
+
+Node Type: Organization
+X account the host calls the Stop Anti-Semitism account; its post tying CNN and TPUSA decisions to the start of the Holocaust is discussed, and the host says it named her top anti-Semite of the year.
+
+*Related: C-9424*
+
+---
+
+**N-11221** Newsweek
+
+Node Type: Organization
+Publication where the host says Josh Hammer is editor-at-large.
+
+*Related: C-9436*
+
+---
+
+**N-11222** LSA LLC
+
+Node Type: Organization
+Owner the host names for plane N1098L (transcribed once as "Lasai"); the military-contracted plane that flew from Biggs Army Airfield to Montana.
+
+*Related: C-9441*
 
 ---
 
@@ -556,6 +1012,796 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
+**C-9399** Host says Egyptian military men were on the ground in Utah on 9/10
+
+Claim Timestamp: 00:00:00
+
+Claim: The host says she now knows that Egyptian military men were on the ground in Utah on September 10, the day of Charlie Kirk's assassination, and demands that the government release who they were and why they were there.
+
+Transcript Snippet: there were some Egyptian military men that were on the ground on September 10th in Utah on the day of Charlie Kirk's assassination
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10074, N-10204
+Tags: relevance:core
+Investigative Direction: Government or airport records of any Egyptian military personnel in Utah on September 10, 2025, and the basis for the host's claim.
+
+---
+
+**C-9400** Military plane landed in Kalispell for under an hour before returning to Texas
+
+Claim Timestamp: 00:03:01
+
+Claim: The host says the military-contracted plane from Biggs Army Airfield continued to Kalispell, Montana, landed for just under an hour, then departed back to Texas, dipping again to just over 300 feet over the Provo runway on the return.
+
+Transcript Snippet: it continued on to Kalispell, Montana, and then it lands for just under an hour before it again departs back for Texas.
+
+Anchored Artifacts: A-1290.1
+Mentions: N-3
+Related Nodes: N-10203, N-10074
+Supports: C-1528
+Tags: relevance:core
+Investigative Direction: FlightRadar history of the plane showing the Kalispell stop duration and return track.
+
+---
+
+**C-9401** Maxfield plane co-owned by Casey Baugh
+
+Claim Timestamp: 00:03:53
+
+Claim: The host says the plane owned by Derek and Shirlene Maxfield is also co-owned by a person named Casey Baugh, who she says did not register on internet radar.
+
+Transcript Snippet: Someone who didn't hit internet radar who also co-owns that plane with them is a person named Casey Baugh, B A U G H.
+
+Anchored Artifacts: 
+Mentions: N-94, N-204, N-852, N-3
+Related Nodes: N-10849
+Tags: relevance:context
+Investigative Direction: FAA aircraft registration and ownership records for the Maxfield plane.
+
+---
+
+**C-9402** Casey Baugh's name is on an institute at UVU's Woodbury Building
+
+Claim Timestamp: 00:03:53
+
+Claim: The host says Casey Baugh has his name on the Baugh Entrepreneurship Institute at Utah Valley University, which operates out of the Woodbury Business Building.
+
+Transcript Snippet: the Baugh Entrepreneurship Institute, which operates out of the Woodbury Business Building, okay?
+
+Anchored Artifacts: 
+Mentions: N-852, N-3
+Related Nodes: N-10849, N-10012
+Tags: relevance:context
+Investigative Direction: UVU website and records for the Baugh Entrepreneurship Institute and its location.
+
+---
+
+**C-9403** Host says Tyler Robinson was not on the Woodbury building or campus
+
+Claim Timestamp: 00:03:53
+
+Claim: The host says that, as is now known, Tyler Robinson was not on the Woodbury building or on campus at all, so she does not treat Casey Baugh as a suspect for providing access.
+
+Transcript Snippet: of course, now we know that Tyler Robinson was not on the Woodbury building or on campus at all, for that matter.
+
+Anchored Artifacts: 
+Mentions: N-40, N-852, N-3
+Related Nodes: N-10028, N-10849
+Tags: relevance:core
+Investigative Direction: Charging documents and campus video establishing where Robinson was relative to the Woodbury Business Building.
+
+---
+
+**C-9404** Maxfield plane seemingly turned its transponder off
+
+Claim Timestamp: 00:05:46
+
+Claim: The host says the Baugh-Maxfield plane drew attention because it seemingly turned its transponder off after departing Provo, which alarmed the public.
+
+Transcript Snippet: they seemingly turned their transponder off. That alarmed the public.
+
+Anchored Artifacts: 
+Mentions: N-94, N-204, N-3
+Related Nodes: N-10205, N-10549
+Supports: C-1529
+Tags: relevance:core
+Investigative Direction: ADS-B and FlightRadar coverage records for N888KG after the 1:20 p.m. departure.
+
+---
+
+**C-9405** Maxfield statement on return flight times and purpose
+
+Claim Timestamp: 00:08:12
+
+Claim: Reading the Maxfield statement, the host says it states that Derek Maxfield boarded at Page with seven passengers, departed about 1:40 p.m., arrived at Provo about 3:15 p.m. Mountain time, and that the round trip was at his request and solely for his purposes.
+
+Transcript Snippet: We departed that PGA Airport in Arizona at approximately 1:40 and arrived at PVU at approximately 3:15 p. m. Mountain time.
+
+Anchored Artifacts: A-1291.1
+Mentions: N-94, N-204, N-3
+Related Nodes: N-10205
+Supports: C-1530
+Tags: relevance:core
+Investigative Direction: Flight logs and FAA records for N888KG's Provo-Page-Provo legs on September 10.
+
+---
+
+**C-9406** Maxfield statement says no one on the flight was contacted by law enforcement
+
+Claim Timestamp: 00:08:12
+
+Claim: The Maxfield statement read on air says that, to their knowledge, no one associated with the N888KG flight had been contacted by law enforcement for any reason.
+
+Transcript Snippet: To our knowledge, no one associated with yesterday's flight by N888KG has been contacted by law enforcement for any reason.
+
+Anchored Artifacts: A-1291.1
+Mentions: N-94, N-204
+Related Nodes: N-10205
+Tags: relevance:core
+Investigative Direction: Utah or federal law-enforcement confirmation of whether the N888KG crew or passengers were interviewed.
+
+---
+
+**C-9407** Host says pilots found the feds guarding the Maxfield flight details
+
+Claim Timestamp: 00:09:22
+
+Claim: The host says pilots she consulted on the Maxfield flight manifest found that routine information was being guarded by the feds, and says airport personnel had been instructed to lie.
+
+Transcript Snippet: Even airport personnel had been instructed to lie actually.
+
+Anchored Artifacts: 
+Mentions: N-3, N-94, N-204
+Related Nodes: N-10205, N-10203
+Tags: relevance:core
+Investigative Direction: Identification of the pilots and airport staff, and any instruction given to airport personnel about the flight.
+
+---
+
+**C-9408** Host cites a source saying a plane shifted from Millionaire FBO to another FBO
+
+Claim Timestamp: 00:10:26
+
+Claim: The host says one person told her a plane was supposed to land at Millionaire FBO but suddenly shifted to another FBO.
+
+Transcript Snippet: there was one person who said they were supposed to land at Millionaire FBO, but then suddenly they shifted to another FBO
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10190, N-10074
+Tags: relevance:core
+Investigative Direction: FBO arrival records and ramp logs for Provo for September 10, 2025.
+
+---
+
+**C-9409** Host says the Brigitte Macron pattern is suing over side issues so the media says debunked
+
+Claim Timestamp: 00:11:14
+
+Claim: The host says that in the Brigitte Macron case she went after people for defamation over a side claim, such as stealing her sister's ID, and the media then said the main claim had been debunked.
+
+Transcript Snippet: She started going after people for defamation, not people that wasn't attacking them for the substance of the claim
+
+Anchored Artifacts: 
+Mentions: N-3, N-82
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: The court filings in the Macron defamation actions.
+
+---
+
+**C-9410** Host says the Egyptian plane had visited the US only twice in the prior year
+
+Claim Timestamp: 00:12:09
+
+Claim: The host says the Egyptian military plane had previously been to the United States only twice in the past year, both times in the weeks leading up to Charlie Kirk's assassination.
+
+Transcript Snippet: that Egyptian military plane had previously only ever been to the United States twice in that past year and both times it was in the lead up in the weeks leading up to Charlie Kirk's assassination
+
+Anchored Artifacts: A-1292.1
+Mentions: N-3, N-1
+Related Nodes: N-10204, N-10207
+Supports: C-1532
+Tags: relevance:core
+Investigative Direction: FlightRadar or FAA records of SU-BTT's US arrivals from September 2024 to September 2025.
+
+---
+
+**C-9411** Host admits she misread FlightRadar times as Mountain time
+
+Claim Timestamp: 00:12:53
+
+Claim: The host acknowledges that she read FlightRadar times as Mountain time when they are in Universal Time, which she says is why critics claimed the Egyptian flight left a couple of hours earlier than she reported.
+
+Transcript Snippet: I thought that I was looking at Mountain Time like a local time on Flight Radar. As Mark just explained, no, they do it according to Universal Time.
+
+Anchored Artifacts: A-1292.1
+Mentions: N-3, N-67
+Related Nodes: N-10853, N-10207
+Supports: C-1532
+Tags: relevance:core
+Investigative Direction: Original FlightRadar record of SU-BTT's Provo departure time in UTC and local time.
+
+---
+
+**C-9412** Host says the user who caught her time-zone error was boosted by the military on X
+
+Claim Timestamp: 00:12:53
+
+Claim: The host says the one Twitter user who caught her time-zone mistake was suddenly boosted in the algorithm and made a trending story, and says military bots run X.
+
+Transcript Snippet: Then I saw that the one random Twitter user that caught that mistake suddenly got boosted in the algorithm and they made it a trending story.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11020, N-10299
+Tags: relevance:context
+Investigative Direction: Engagement and amplification data for the account and post that claimed the debunk.
+
+---
+
+**C-9413** Tipster is a person from a foreign country with proximity to someone aboard
+
+Claim Timestamp: 00:14:07
+
+Claim: The host says the email to her tip box came from someone in a foreign country claiming intimate knowledge of the flight, whom she describes as being in proximity to one of the individuals aboard.
+
+Transcript Snippet: it was someone from a foreign country. They wrote us claiming to have intimate knowledge regarding the flight.
+
+Anchored Artifacts: A-3007.1
+Mentions: N-3
+Related Nodes: N-10204
+Supports: C-1534
+Tags: relevance:core
+Investigative Direction: Verification of the tipster's identity and relationship to the flight, without exposing the source.
+
+---
+
+**C-9414** Host states as fact that the 9/4 stop was not routine servicing
+
+Claim Timestamp: 00:15:53
+
+Claim: The host says she can report as a fact that the Egyptian plane's September 4 stop in Utah was not for routine servicing, as officials implied, and that it carried military subcontractors who were dropped off in Provo.
+
+Transcript Snippet: Well, I'm telling you that for a fact that plane was carrying military subcontractors and for a fact they were dropped off in Provo, okay?
+
+Anchored Artifacts: A-3007.1
+Mentions: N-3, N-69
+Related Nodes: N-10204, N-10299
+Supports: C-1534
+Tags: relevance:core
+Investigative Direction: Passenger and crew manifests and customs records for SU-BTT on September 4 and 10-11, 2025.
+
+---
+
+**C-9415** Host says she challenged Kash Patel to dispute her account of the flight
+
+Claim Timestamp: 00:16:59
+
+Claim: The host says she demands that Kash Patel dispute her account, and that the aircraft was not in Utah for any routine servicing.
+
+Transcript Snippet: That aircraft was not in Utah for any routine servicing, okay?
+
+Anchored Artifacts: A-3007.1
+Mentions: N-3, N-69
+Related Nodes: N-10202, N-10204
+Tags: relevance:core
+Investigative Direction: Any FBI or DOJ public statement about the purpose of SU-BTT's Provo visit.
+
+---
+
+**C-9416** SU-BTT 2025 routing: Cairo, Paris, Minot, then Provo
+
+Claim Timestamp: 00:18:38
+
+Claim: From the three-year FlightRadar history, the host says that in September 2025 the Egyptian plane went from Cairo to Paris to Minot, North Dakota, and then, on September 10, departed Provo, Utah at 7:14 a.m. local time.
+
+Transcript Snippet: it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo.
+
+Anchored Artifacts: A-1292.2
+Mentions: N-3
+Related Nodes: N-10274, N-10277, N-10074
+Supports: C-1533
+Tags: relevance:core
+Investigative Direction: FlightRadar business-account history for SU-BTT, September 2025.
+
+---
+
+**C-9417** Tipster did not say the secret mission was tied to Charlie Kirk
+
+Claim Timestamp: 00:19:31
+
+Claim: The host says the tipster never said the secret mission was related to Charlie Kirk and was explicit that she was not sure what the specific mission was, only that it was top secret.
+
+Transcript Snippet: this individual never ever said that the mission, the secret mission, was related to Charlie Kirk.
+
+Anchored Artifacts: A-3007.1
+Mentions: N-3, N-1
+Related Nodes: N-10204
+Qualifies: C-1535
+Tags: relevance:core
+Investigative Direction: Follow-up with the tipster on the mission's nature, and any official explanation.
+
+---
+
+**C-9418** Host says Kash Patel says only he should be looking into the case
+
+Claim Timestamp: 00:21:18
+
+Claim: The host says that Kash Patel is saying he alone is the person supposed to be looking into the Kirk investigation and that everything people hear is a conspiracy.
+
+Transcript Snippet: There's absolutely no reason for Kash Patel to say, "Only I'm the person that's supposed to be looking into this."
+
+Anchored Artifacts: A-1297.1
+Mentions: N-3, N-69
+Related Nodes: N-10202, N-10355
+Supports: C-1536
+Tags: relevance:context
+Investigative Direction: Patel's public statements about who is authorized to investigate and the reported feud with the counterterrorism chief.
+
+---
+
+**C-9419** Host asks viewers for tips on the Egyptian flight to moretips@candaceowens.com
+
+Claim Timestamp: 00:27:23
+
+Claim: The host asks viewers who know anyone on the Egyptian flight manifest, or who saw people near Provo between September 4 and 10, to email moretips@candaceowens.com.
+
+Transcript Snippet: If you have information, please email us at moretips@candaceowens. com pertaining to this this Egyptian flight, this military flight.
+
+Anchored Artifacts: A-3006.1
+Mentions: N-3
+Related Nodes: N-10204, N-10074
+Tags: relevance:core
+Investigative Direction: Tips received at the address on the Egyptian flight and its passengers.
+
+---
+
+**C-9420** Tucker hosted Nick Fuentes, prompting calls to cancel him from TPUSA events
+
+Claim Timestamp: 00:29:01
+
+Claim: The host says Tucker Carlson hosted Nick Fuentes on his show, and that this led people to insist Tucker be cancelled from all future Turning Point USA events.
+
+Transcript Snippet: Tucker Carlson, in case you missed it, hosted Nick Fuentes on his show.
+
+Anchored Artifacts: 
+Mentions: N-3, N-22, N-205
+Related Nodes: N-10000, N-10268
+Tags: relevance:context
+Investigative Direction: The Tucker Carlson-Nick Fuentes interview and statements from TPUSA about Tucker's future events.
+
+---
+
+**C-9421** Hammer op-ed called Tucker's act a heinous betrayal of Charlie
+
+Claim Timestamp: 00:30:52
+
+Claim: The host says Josh Hammer's Daily Mail op-ed states that Tucker Carlson hit a new low with a heinous betrayal of his friend Charlie Kirk, who is surely rolling in his grave.
+
+Transcript Snippet: Tucker Carlson just hit a new low with this heinous betrayal of my friend Charlie Kirk who is surely now rolling in his grave.
+
+Anchored Artifacts: A-1293.1
+Mentions: N-3, N-55, N-22, N-1
+Related Nodes: N-10070
+Supports: C-1537
+Tags: relevance:context
+Investigative Direction: The published Daily Mail op-ed text.
+
+---
+
+**C-9422** Hammer op-ed accused Carlson of waging a jihad on the MAGA right
+
+Claim Timestamp: 00:31:36
+
+Claim: Quoting the op-ed, the host reads that Carlson and his clan declared their jihad on the forces of civilizational sanity on the MAGA right and hope to build a neo-pagan, anti-Western, anti-biblical movement in its stead.
+
+Transcript Snippet: They hope to burn down MAGA and build a neo-pagan, anti-Western, anti-biblical movement in its stead.
+
+Anchored Artifacts: A-1293.1
+Mentions: N-55, N-22
+Related Nodes: N-10070
+Supports: C-1537
+Tags: relevance:context
+Investigative Direction: The published Daily Mail op-ed text.
+
+---
+
+**C-9423** Host says Hammer lied about Charlie's views on Israel despite being on the text chain
+
+Claim Timestamp: 00:31:36
+
+Claim: The host says Josh Hammer lied over and over about Charlie's views on Israel changing even though Hammer was on the text message chain.
+
+Transcript Snippet: who lied about Charlie's views on Israel changing even though he was on the text message chain.
+
+Anchored Artifacts: 
+Mentions: N-3, N-55, N-1
+Related Nodes: N-10187
+Supports: C-1377
+Tags: relevance:core
+Investigative Direction: Hammer's public statements about Charlie's Israel views compared with the text-chain messages.
+
+---
+
+**C-9424** Host says Stop Antisemitism named her top antisemite of the year without an award
+
+Claim Timestamp: 00:33:30
+
+Claim: The host says the Stop Anti-Semitism account named her the top anti-Semite of the year last year but did not actually give her an award.
+
+Transcript Snippet: That account awarded me last year the top anti-Semite of the year.
+
+Anchored Artifacts: A-1294.1
+Mentions: N-3
+Related Nodes: N-11220, N-10452
+Tags: relevance:context
+Investigative Direction: The Stop Antisemitism account's 2024 list and any award announcement.
+
+---
+
+**C-9425** Host says Seth Dillon pressed Charlie at the Hamptons summit over his changing views
+
+Claim Timestamp: 00:34:20
+
+Claim: The host says Seth Dillon at the Hamptons summit a couple of weeks before Charlie died pressed him, led the pack questioning Charlie's changing views, and made Charlie feel his viewpoints had become unacceptable.
+
+Transcript Snippet: this is the same Seth Dillon at that notorious Hampton's summit who I told you pressed Charlie and a couple weeks before he died was horrific to Charlie
+
+Anchored Artifacts: A-1295.1
+Mentions: N-3, N-38, N-1
+Related Nodes: N-10345, N-10027
+Supports: C-1173
+Tags: relevance:core
+Investigative Direction: Attendee accounts of the Hamptons summit and Seth Dillon's statements about it.
+
+---
+
+**C-9426** Dave Smith says Candace and Fuentes grew because of opposition to Gaza
+
+Claim Timestamp: 00:35:53
+
+Claim: In the clip, Dave Smith says that those upset about Candace and Nick Fuentes growing have only themselves to blame because their support came from opposing the destruction of Gaza, and that he is not part of cancel culture.
+
+Transcript Snippet: And the reason why they got so much support behind them is cuz they were against this destruction of Gaza
+
+Anchored Artifacts: A-1295.1
+Mentions: N-39, N-3, N-205
+Related Nodes: N-10454
+Tags: relevance:context
+Investigative Direction: The full Piers Morgan or related interview with Dave Smith.
+
+---
+
+**C-9427** Dave Smith says he disagreed with Charlie on Christian Zionism
+
+Claim Timestamp: 00:38:02
+
+Claim: In the clip, Dave Smith says Tucker's criticism concerned evangelical Christians in general and that he too disagreed with Charlie Kirk on that point.
+
+Transcript Snippet: Yeah, I disagreed with Charlie on that, too.
+
+Anchored Artifacts: A-1295.2
+Mentions: N-39, N-22, N-1
+Related Nodes: N-10209
+Supports: C-1540
+Tags: relevance:context
+Investigative Direction: The full clip and context of Smith's remarks.
+
+---
+
+**C-9428** Host says Charlie said two days before his death he had to leave the pro-Israel cause
+
+Claim Timestamp: 00:38:47
+
+Claim: The host says Charlie Kirk, two days before he was killed, was explicit that he was left with no choice but to leave the pro-Israel cause, which she says means he did not die a Christian Zionist.
+
+Transcript Snippet: 2 days before Charlie Kirk was killed, he was explicit in saying he was left with no choice but to leave the pro-Israel cause
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-38
+Related Nodes: N-10148, N-10056
+Tags: relevance:core
+Investigative Direction: The source of Charlie's reported statement two days before his death (messages or recorded remarks).
+
+---
+
+**C-9429** Host says the Hamptons session was August 5 and 6 and pressed Charlie on Netanyahu
+
+Claim Timestamp: 00:39:32
+
+Claim: The host says Seth Dillon pressed Charlie on what he had said about Netanyahu at the Hamptons session, which she places on August 5th and 6th (she asks if it was those dates).
+
+Transcript Snippet: was it August 5th and 6th, pressing him on the things that he said about Bibi Netanyahu.
+
+Anchored Artifacts: 
+Mentions: N-3, N-38, N-1, N-36
+Related Nodes: N-10134, N-10673
+Tags: relevance:core
+Investigative Direction: Calendar, travel and attendee records for the Hamptons gathering in early August 2025.
+
+---
+
+**C-9430** Host says Charlie fought to keep Tucker on the TPUSA speaking list in his last texts
+
+Claim Timestamp: 00:41:06
+
+Claim: The host says Charlie fought tooth and nail to keep Tucker Carlson on the TPUSA speaking list and that this was virtually his last public words from private text exchanges.
+
+Transcript Snippet: He fought tooth and nail to make sure that Tucker Carlson stayed on the Turning Point USA speaking list.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-22
+Related Nodes: N-10268, N-10000
+Supports: C-3736
+Tags: relevance:core
+Investigative Direction: The text-chain messages showing Charlie's instruction to keep Tucker on the roster.
+
+---
+
+**C-9431** Clip: Charlie did not appreciate being morally blackmailed and would dig in
+
+Claim Timestamp: 00:41:06
+
+Claim: A clip played on air says Charlie said he did not appreciate being morally blackmailed, dug in his heels each time, and suggested that Tucker might get two speeches at AmFest.
+
+Transcript Snippet: I don't appreciate being morally blackmailed." And, you know, and every time people would say that to him, he would dig his heels in.
+
+Anchored Artifacts: A-3009.1
+Mentions: N-1, N-22
+Related Nodes: N-10106, N-10268
+Supports: C-1258
+Tags: relevance:core
+Investigative Direction: The original episode or message from which the clip is drawn and its source text.
+
+---
+
+**C-9432** Host says she took Charlie's David remark to mean slaying Goliath
+
+Claim Timestamp: 00:42:49
+
+Claim: The host says that, asked in the Q&A what Charlie meant by wanting her to be his David, she gave the obvious answer of slaying a Goliath.
+
+Transcript Snippet: What do you think Charlie meant when he said he wanted you to be his David?" And I took the obvious answer, which was to slay a Goliath
+
+Anchored Artifacts: A-1298.1
+Mentions: N-3, N-1
+Related Nodes: 
+Supports: C-1469
+Tags: relevance:context
+Investigative Direction: The original message in which Charlie used the David reference.
+
+---
+
+**C-9433** Viewer email reads David-Jonathan robe and armor as a transfer of succession
+
+Claim Timestamp: 00:43:34
+
+Claim: The host reads a viewer email saying Jonathan gave David his robe, armor and symbols of rank, which has been interpreted as a transfer of succession.
+
+Transcript Snippet: an act that has been interpreted as a transfer of succession.
+
+Anchored Artifacts: A-1298.1
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: The biblical text (1 Samuel) and scholarship on the Jonathan-David covenant.
+
+---
+
+**C-9434** Host says Dillon and Hammer harassed Charlie and now claim his legacy
+
+Claim Timestamp: 00:44:21
+
+Claim: The host says the people now claiming charge of Charlie's legacy, naming Seth Dillon and Josh Hammer, are the same people who pressed him at the Hamptons and on the text chain and were making him ill with threats and money.
+
+Transcript Snippet: the very same people that were making Charlie ill with the threats, with the money, uh who were pressing him at the Hampton, Seth Dillon, Josh Hammer on the text
+
+Anchored Artifacts: 
+Mentions: N-3, N-38, N-55, N-1
+Related Nodes: N-10345, N-10047
+Supports: C-1173
+Tags: relevance:core
+Investigative Direction: Text-chain messages and Hamptons attendee accounts documenting the pressure.
+
+---
+
+**C-9435** Host says the Fuentes clip was not from Piers Morgan
+
+Claim Timestamp: 00:48:05
+
+Claim: Asking her producer, the host says the clip of Seth Dillon on Nick Fuentes was not on Piers Morgan but on a separate show of his.
+
+Transcript Snippet: Okay, it wasn't on Piers Morgan, right, Skyler?
+
+Anchored Artifacts: A-1295.3
+Mentions: N-3, N-38, N-68, N-208
+Related Nodes: 
+Qualifies: C-1541
+Tags: relevance:context
+Investigative Direction: The original broadcast and date of the Seth Dillon clip about Nick Fuentes.
+
+---
+
+**C-9436** Host says Josh Hammer is editor-at-large at Newsweek
+
+Claim Timestamp: 00:49:00
+
+Claim: The host says Josh Hammer is the editor-at-large at Newsweek.
+
+Transcript Snippet: Josh Hammer is actually the editor-at-large at Newsweek.
+
+Anchored Artifacts: 
+Mentions: N-3, N-55
+Related Nodes: N-11221
+Tags: relevance:context
+Investigative Direction: Newsweek's masthead for Josh Hammer.
+
+---
+
+**C-9437** Host says she is drip-feeding to identify the rats on the ship
+
+Claim Timestamp: 00:53:47
+
+Claim: Responding to a viewer comment, the host says she is deliberately drip-feeding information and setting bait, letting people lie, to work out who betrayed Charlie.
+
+Transcript Snippet: I am trying to figure out who the rats are on the ship and that is why I've been intentionally setting bait
+
+Anchored Artifacts: A-3011.1
+Mentions: N-3, N-1
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: The statements by those she names later, compared against the evidence she holds.
+
+---
+
+**C-9438** Host says she knows some of the rats for certain but not everyone
+
+Claim Timestamp: 00:53:47
+
+Claim: The host says she knows for certain that there are rats on the ship and knows some of them, but does not know everybody who has betrayed Charlie, and will not out them yet so the others cannot protect themselves.
+
+Transcript Snippet: I know that there's rats on the ship. Some I know for certain
+
+Anchored Artifacts: A-3011.1
+Mentions: N-3, N-1
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Identification of the individuals the host has in mind and her evidence.
+
+---
+
+**C-9439** Host says her book Make Him a Sandwich is out
+
+Claim Timestamp: 00:53:47
+
+Claim: The host says her book Make Him a Sandwich is out and available at makehimasandwich.com to support her independent work.
+
+Transcript Snippet: Also, the book I am so happy. Make Him a Sandwich is finally out.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: The book's publication record.
+
+---
+
+**C-9440** Host says she does not know who pulled the trigger, with two investigations running
+
+Claim Timestamp: 00:55:17
+
+Claim: The host says she does not actually know who pulled the trigger and killed Charlie Kirk, and that there are two running investigations, who betrayed Charlie and who actually killed him.
+
+Transcript Snippet: I don't know actually who pulled the trigger and killed Charlie Kirk, right?
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10048
+Tags: relevance:core
+Investigative Direction: Later statements by the host on a shooter and on the betrayal question.
+
+---
+
+**C-9441** Host identifies N1098L as the LSA LLC plane that flew to Montana and turned around
+
+Claim Timestamp: 00:55:55
+
+Claim: The host says the second plane in the viewer's comment is the LSA LLC plane N1098L, which flew up to Montana and turned around, and says she has not back-checked the commenter's claim that Israeli defense companies use it.
+
+Transcript Snippet: So, that second plane is the LSA LLC one.
+
+Anchored Artifacts: A-1299.1
+Mentions: N-3
+Related Nodes: N-10185, N-11222
+Supports: C-1544
+Tags: relevance:context
+Investigative Direction: FAA registration of N1098L and its owner LSA LLC, and any link to defense contractors.
+
+---
+
+**C-9442** Mark says N1098L was in Idaho when Charlie was shot, about 20 minutes out
+
+Claim Timestamp: 00:56:45
+
+Claim: Mark says a screenshot shows N1098L was over Idaho at the moment Charlie was shot, about 20 minutes out, and did not reach Provo until about 20 minutes after the shooting.
+
+Transcript Snippet: here's a screenshot of where that plane was at the moment Charlie was shot.
+
+Anchored Artifacts: A-3008.1
+Mentions: N-67, N-1
+Related Nodes: N-10185, N-10203
+Qualifies: C-1528
+Tags: relevance:core
+Investigative Direction: FlightRadar track for N1098L around 9:35 to 10:05 a.m. Mountain time.
+
+---
+
+**C-9443** Host says Erika Kirk will face the same donor pressure Charlie did over Tucker
+
+Claim Timestamp: 00:59:13
+
+Claim: The host says it will be tough for Erika Kirk because she will feel the same pressure from top Jewish donors that Charlie did, and that there are likely financial consequences behind the scenes.
+
+Transcript Snippet: it's going to be tough for Erika. It's got to be tough for Erika in this moment because she's going to be feeling that pressure
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-1
+Related Nodes: N-10000, N-10047, N-10467
+Supports: C-6547
+Tags: relevance:core
+Investigative Direction: Erika Kirk and TPUSA's donor communications about Tucker Carlson's future appearances.
+
+---
+
+**C-9444** Host says Sigmund Freud was factually defending his pedophile friends
+
+Claim Timestamp: 01:00:34
+
+Claim: Discussing the book Assault on Truth, the host says Sigmund Freud was factually defending his pedophile friends and that modern psychology was brought to America and Hollywood.
+
+Transcript Snippet: Sigmund Freud was factually defending his pedophile friends.
+
+Anchored Artifacts: 
+Mentions: N-3, N-50
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: The book Assault on Truth and its sourcing.
+
+---
+
+**C-9445** Host says Hammer started the struggle session because Dave Smith beat him on the TPUSA stage
+
+Claim Timestamp: 01:01:23
+
+Claim: The host says Josh Hammer was angry after being destroyed by Dave Smith on the Turning Point USA stage and privately started the struggle session because the students were impacted and wanted to follow Dave Smith.
+
+Transcript Snippet: Josh Hammer was angry after he got destroyed by Dave Smith on Turning Point USA stage, so he privately started the struggle section uh session
+
+Anchored Artifacts: 
+Mentions: N-3, N-55, N-39
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Footage of the Hammer-Dave Smith TPUSA exchange and the later struggle-session clips.
+
+---
+
+**C-9446** Host announces a Norman Finkelstein interview airing the next day
+
+Claim Timestamp: 01:02:15
+
+Claim: The host says that tomorrow is a Norm Finkelstein interview, and earlier shows a trailer for it.
+
+Transcript Snippet: tomorrow is a Norm Finkelstein interview.
+
+Anchored Artifacts: A-3010.1
+Mentions: N-3, N-203
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: The interview's release date and video.
+
+---
 
 ## 6. Meme Register
 
@@ -570,6 +1816,15 @@ Context: Later reuse of Nothing to See Here in CKA seq 22.
 Tags: dismissal, official_line, sarcasm, reuse
 Confidence: high
 
+### Occurrence 2
+
+Video Timestamp: 00:15:53
+Speaker: N-3
+Quote: Nothing to see here.
+Context: Host mocks the routine-servicing explanation for the Egyptian plane.
+Tags: dismissal, reuse
+Confidence: high
+
 ---
 
 **M-12** (meme) Decentralized Intelligence Agency
@@ -581,6 +1836,111 @@ Speaker: N-3
 Quote: ething. Anyways, I was going through the DCIA tips box, you know, our decentralized intelligence agency tips box. And I found a very interesting em...
 Context: DIA tip-network refrain. (CKA seq 22)
 Tags: reuse, pass2
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:27:23
+Speaker: N-3
+Quote: please email us at moretips@candaceowens. com
+Context: Host asks for tips on the Egyptian flight via the tip address.
+Tags: dia, tips
+Confidence: high
+
+---
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:38:02
+Speaker: N-3
+Quote: This is a psychological operation.
+Context: Host frames the Seth Dillon clip as a psyop.
+Tags: psyop, reuse
+Confidence: high
+
+---
+
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 01:00:34
+Speaker: N-3
+Quote: gaslighting us when we all see Charlie get shot
+Context: Host describes Zionist psychological operations as gaslighting.
+Tags: gaslight, reuse
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:53:47
+Speaker: N-3
+Quote: Make Him a Sandwich is finally out.
+Context: Host plugs her book and website.
+Tags: plug, reuse
+Confidence: high
+
+---
+
+**M-15** (meme) We Don't Know But We Know
+
+### Occurrence 1
+
+Video Timestamp: 00:53:47
+Speaker: N-3
+Quote: We don't know know, but we know.
+Context: Host jokes about the restocked stand cups.
+Tags: merch, reuse
+Confidence: high
+
+---
+
+**M-246** (meme) Mansplaining
+
+### Occurrence 1
+
+Video Timestamp: 00:02:17
+Speaker: N-3
+Quote: Happy to provide some mansplaining.
+Context: Mark offers to explain the FlightRadar chart; the host later thanks him for mansplaining.
+Tags: mark, running bit
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:56:45
+Speaker: N-3
+Quote: Thank you for mansplaining.
+Context: Host thanks Mark after his N1098L explanation.
+Tags: mark, running bit
+Confidence: high
+
+---
+
+**M-247** (meme) Seth Dillon Level Struggle Session
+
+### Occurrence 1
+
+Video Timestamp: 00:23:13
+Speaker: N-3
+Quote: Seth Dillon level struggle session
+Context: Host teases the segment on Tucker Carlson and Seth Dillon.
+Tags: struggle session, running bit
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:34:20
+Speaker: N-3
+Quote: put Dave Smith through a struggle session
+Context: Host describes Seth Dillon's interview of Dave Smith.
+Tags: struggle session, running bit
 Confidence: high
 
 ---

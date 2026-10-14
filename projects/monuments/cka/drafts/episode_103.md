@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq103
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton): N-629, N-630, N-631, N-632, N-633, N-634, N-10920, N-10921, N-10922
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-194, N-215, N-242, N-272, N-276, N-348, N-369, N-434, N-500, N-10000, N-10012, N-10026, N-10074, N-10340, N-10367, N-10388, N-10396, N-10450, N-10470, N-10472, N-10518, N-10547, N-10604, N-10605, N-10613, N-10618, N-10664, N-10899, N-10903, N-628
+  - Tip-minted Nodes (skeleton): N-629, N-630, N-631, N-632, N-633, N-10920, N-10921
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-194, N-215, N-242, N-272, N-276, N-348, N-369, N-434, N-500, N-10000, N-10012, N-10026, N-10074, N-10340, N-10367, N-10388, N-10396, N-10450, N-10470, N-10472, N-10518, N-10547, N-10604, N-10605, N-10613, N-10618, N-10664, N-10899, N-10903, N-628, N-489, N-10922
   - Claim Range: C-4005–C-4061
   - (see registers)
 
@@ -402,7 +402,7 @@ First named by the host at 00:37:32 in episode 103. Deceased baseball commentato
 
 *Related: C-4050, A-2571.1*
 
-**N-634** Jessica Ghawi
+**N-489** Jessica Ghawi
 
 First named by the host at 00:53:58 in episode 103. The host's name for an Aurora theater shooting victim who, she says, had survived an earlier shooting at a food court in Canada; the host is unsure of the name.
 
@@ -1387,7 +1387,7 @@ Claim: The host says a woman shot in the Aurora theater, whom she believes was n
 Transcript Snippet: The fact that she had just survived another shooting. Um missed it in a food court up in Canada.
 
 Anchored Artifacts:
-Mentions: N-634
+Mentions: N-489
 Investigative Direction: Check the Aurora victim list and Canadian news coverage of 2012 food-court shootings to confirm the victim's identity.
 
 ---
@@ -1527,7 +1527,7 @@ Confidence: high
 - **Possible duplicate node**: N-10903 (N582MM TPUSA-Associated Plane Flight Pattern) matches N-10903 in staged episode 084, which also tracked N582MM's Pierre–Chicago–Provo route on September 10. That node has no global id in nodes.tsv yet, so the integrator should merge the two. Ep 084's placeholder claims on the same route (Baron Coleman's tracking) cannot be linked as Supports until they have global ids.
 - **Inconsistency in the host's account**: she says Charlie Kirk used N582MM for "basically all of 2023" and then "all through 2025" (09:26–10:19). The tail number is first read as "9582 MM" and later as "N582 MM". Both are preserved as spoken.
 - **Name matching**: "Andrew Colbet", "Andrew Cole" and "Andrew Kolb" are mapped to N-14 Andrew Kolvet. "Justin Streif" maps to N-15 (alias). "Jesse Waters" maps to N-215. Gary Melton is also transcribed "Gary Moulton" and "Gary Mountain" and is minted as N-628; Paramount Tactical is matched to the org N-10899 Paramount Tactical Valhalla. "Colby Hall" (22:06) is taken as Corby Hall but is not cited. "Victor Marks" (22:50) is Victor Marx. "Larry Loomer" (00:01) is presumably Laura Loomer, but she is not cited. "Dick Shirley" (45:48) is presumably Nick Shirley, also not cited. "Ericka" is Erika Kirk.
-- **Uncertain person**: "Jessica Ghawi" (N-634) is the host's own hedged name ("I believe her name was"). The Aurora victim who survived the 2012 Toronto Eaton Centre food-court shooting is publicly reported as Jessica Ghawi (Redfield). The transcript spelling is kept, and the name should be verified before integration.
+- **Name correction**: the host says "Jessica Garza" ("I believe her name was"); the Aurora victim who survived the 2012 Toronto Eaton Centre food-court shooting is Jessica Ghawi (Redfield), already node N-489 from episode 60. Transcript spelling kept in snippets; "Jessica Garza" is an alias.
 - **Transcription ambiguities**: "Fort Wat Chuca" is Fort Huachuca. "Smith & Wesson.38" is kept as written. "Deshaun Holly" and "Holly Desmond Holly" refer to Desmond Holly. "Matthew Stone" (18:49) is taken as Matthew Silverstone. "Delmer Martinez" is Delmer Martinez. The email address is transcribed "more tips@canasown. com". "Pride of Charlie" (50:23) is probably the Bride of Charlie series. "they act Superfeed" is garbled.
 - **DIA scan**: one real hit, "more tips@canasown. com" at 53:58 (C-4059, A-2573.1, M-12). The 04:29 remark "I received a few tips into our inbox" relays tips already received rather than asking for or paying off a tip, and matches none of the scan phrases, so it is recorded only as C-4012, not as a DIA beat. The Candace Intelligence Agency merch phrase does not air (no M-14).
 - **Not inscribed as claims (admission test)**: The following were left out as opinion, framing or rhetoric:

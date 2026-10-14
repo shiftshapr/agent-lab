@@ -6,14 +6,14 @@
 - **YouTube id**: 5autG89PW6w
 - **Candace Ep**: 249
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:05:08
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: a67d2c57c7c81de9731b935fd270a362febe1186dc3ae158635d449cb863c772
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-156, N-157, N-158, N-159, N-160, N-162, N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-157, N-158, N-159, N-160, N-162, N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
+  - Reused Nodes Appearing: N-156
 - **Episode Number:** Monument Episode 16 (Batch 6, Candace Ep 249)
 - **Channel / Creator:** @RealCandaceO (Candace Owens)
 - **Episode Date:** 2025-10-07

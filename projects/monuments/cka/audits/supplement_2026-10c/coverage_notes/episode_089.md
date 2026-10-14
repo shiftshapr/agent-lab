@@ -1,0 +1,6 @@
+# Coverage notes, episode 89
+
+- Existing draft claims: 13 (C-2669 to C-2681). Beats judged covered: about 14 (the post reading, the CNN montage, the Kelly clip, the Carlson Lewinsky/Pollard passage, the Loomer credit clip, the Adelson West Bank meeting and the Trump quote, the Trump Jr. Butler remark, the viewer-reaction bundle, the Charlie-on-the-list tweet, the CNN poll contradiction and the Brigitte line).
+- New claims added: 54. New artifacts: 3 families, 4 sub-items. New nodes: 2 topic/org nodes. Memes: 2 reused occurrences (M-19, M-100) and 3 new.
+- Most important things the earlier pass missed: (1) the host's statement that whoever killed Charlie was right that he could command a crowd (00:02:36); (2) the host's statement that the first casualty of the Iranian war was Charlie, sacrificed by a death cult (00:37:09); (3) the host's statement that Charlie was betrayed by the people closest to him and that this week's research is turning inklings into fact (00:46:09); (4) the Adelson timing, the room-only-two-witnesses detail, and the host's break with Andrew Kolvet (00:29:16 to 00:30:06); (5) the host's claims about Trump's disinterest in the Butler shooter, the shift since Butler, and speculation about the Adelsons (00:31:16 to 00:32:11).
+- No DIA tip-line or bounty phrases occur in this episode.

@@ -1,0 +1,6 @@
+# Coverage notes, episode 46
+
+- Existing draft holds 13 claims (C-1912 to C-1923 and C-3757) and 6 artifact families; this supplement adds 65 claims, 4 artifact families (7 sub-items), 2 new topic nodes and 11 meme occurrences on reused memes.
+- Beats judged covered by existing claims: the Stop exchange, the Beck truth-is-clear framing, the denial, mental illness, legacy, jury-pool, Tyler Robinson court appearance, Stuckey Kafka post, Stuckey comment, Stuckey defense clip, pre-recorded town hall, maroon color.
+- Most important beats the earlier pass missed: (1) the host's lists of alleged TPUSA and federal lies from 00:10:19 to 00:14:44 (Mikey McCoy, the neck explanation, Shapiro, Dairy Queen, maroon arrest shirt, suicidal versus fear, missing surrender footage); (2) the host's position at 00:33:07 that Robinson was involved but she does not believe he was on campus; (3) the neck-wound and ricochet account at 00:03:55 to 00:05:39; (4) the host's offer at 00:50:39 to stop once Erika names a specific lie, and the dress-rehearsal allegation at 00:51:28; (5) the town hall production claims at 00:14:44 to 00:15:32 (Anti-Semitism question, Kozak, CBS-selected audience).
+- The existing C-1923 quotes a timestamp range and has an empty Mentions line; it is not restated. The existing C-1922 label timestamp 00:00:00 was not changed.

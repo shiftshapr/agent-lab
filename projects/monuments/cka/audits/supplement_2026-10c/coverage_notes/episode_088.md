@@ -1,0 +1,13 @@
+# Coverage notes, episode 88
+
+- Existing draft claims: 15 (C-2654 to C-2668). Beats judged already covered: about 17 (Karashi LinkedIn training and Built app, AmFest audio-only use, Erika's Megyn Kelly account, Blake Neff ASU remarks, Neff's refusal and psychopathic predator reply, the 3-of-4 attendee finding, NYT hospital room passage, Watters doctor's appointment and jump cut, NYT Book Summit answer, Sept 8 Instagram post, witness accounts, Bondi firing and Blanche, the decades-of-content promise).
+- New claims added: 72, plus 8 new artifacts (A-2945 to A-2952, six of them verbal references), 2 new nodes (N-825 Eric Swalwell, N-826 Christine Fang), 4 new memes (M-224 to M-227) and occurrences of M-195, M-13, M-28, M-12 (four) and M-14.
+- Most important beats missed by the earlier pass:
+  1. 00:57:45: attendees' alternative recollection of the Aspen exchange (a North Carolina donor asking how he would do it all; Charlie answering with Steve Jobs and lieutenants) and the host's statement that she never heard a succession question at donor events (00:21:33).
+  2. 00:11:54 and 00:12:38: the content of the played audio line and the host's statement that it is clearly edited.
+  3. 00:38:22 to 00:43:53: the facility described as an IV therapy and holistic clinic, the nurse-text tip chain falling apart, the lead-doctor-office version, the Dassel woman, and the host's belief that Erika was not with her mother.
+  4. 00:17:45: the host's claims of five other DNA sets on the rifle and no evidence the rifle was fired, plus Neff's own cited evidence (00:16:55).
+  5. 00:46:02 to 00:46:55: the claimed deepfake Epstein cell video in the December 23 release and the account that Trump fired Bondi over a Swalwell tip-off (the earlier node recorded the latter without any claim).
+- Other: 00:01:20 detention of Zachariah Karashi and the Kash Patel pause; 00:50:52 the shifting account of the fragment and the defense ATF request; 00:51:27 Mikey McCoy calling his wife first.
+- DIA beats: 00:39:53, 00:43:53 (repeated at 00:44:53) and 00:59:25 each have a claim, a verbal artifact and an M-12 occurrence; the CIA merch phrase at 01:00:49 is an M-14 occurrence only.
+- Flags and doubts: the Sept 8 records claim (host confirms the mother was at the facility on Sept 8) may conflict with episode 84 C-3804 (mother not in the hospital Sept 8 through 10); no typed link added. Transcript spells Kirk as Kirc and the judge as Leeman (probably Judge Liman). The Andrew Kolb mention at 00:57:05 is not a claim. Rejected as non-claims: the Tom and Jerry and mythomania bits, Elizabeth Lane psychopath opinion, Baldoni cousin joke, ad reads, viewer praise comments.

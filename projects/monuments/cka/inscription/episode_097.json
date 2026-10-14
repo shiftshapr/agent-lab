@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–01:16:16",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d",
@@ -437,7 +437,8 @@
             "C-2829"
           ],
           "related_nodes": [
-            "N-3"
+            "N-3",
+            "N-800"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -595,6 +596,60 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3076",
+      "family_ref": "A-3076",
+      "bundle_name": "Mitch Snow Interview Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3076.1",
+          "ref": "A-3076.1",
+          "description": "Audio clip of the host's interview with Mitch Snow, in which she says she can confirm the route and meeting with metadata but cannot confirm who he saw",
+          "related_claims": [
+            "C-10382",
+            "C-10383"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-369"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:29:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3077",
+      "family_ref": "A-3077",
+      "bundle_name": "Harpole Flight Records Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3077.1",
+          "ref": "A-3077.1",
+          "description": "Host verbal reference to Brian Harpole's flight records showing afternoon departures from Dallas (not shown)",
+          "related_claims": [
+            "C-10419",
+            "C-10420"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-272"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:11:50",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -736,9 +791,9 @@
       "type": "investigation_target",
       "description": "Whether the Lawler-Gottheimer resolution accurately characterizes Candace's prior statements about Israel, satanic pedophiles, Josef Mengele, and Christian children.",
       "related_artifacts": [
+        "A-2022.1",
         "A-2023.1",
-        "A-2024.1",
-        "A-2022.1"
+        "A-2024.1"
       ],
       "related_claims": [
         "C-2828",
@@ -806,7 +861,71 @@
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10354",
+        "C-10355",
+        "C-10356",
+        "C-10357",
+        "C-10358",
+        "C-10359",
+        "C-10360",
+        "C-10363",
+        "C-10365",
+        "C-10366",
+        "C-10367",
+        "C-10368",
+        "C-10369",
+        "C-10370",
+        "C-10371",
+        "C-10372",
+        "C-10373",
+        "C-10374",
+        "C-10375",
+        "C-10376",
+        "C-10377",
+        "C-10378",
+        "C-10379",
+        "C-10380",
+        "C-10381",
+        "C-10382",
+        "C-10383",
+        "C-10384",
+        "C-10385",
+        "C-10386",
+        "C-10387",
+        "C-10388",
+        "C-10389",
+        "C-10390",
+        "C-10391",
+        "C-10392",
+        "C-10393",
+        "C-10394",
+        "C-10395",
+        "C-10396",
+        "C-10397",
+        "C-10398",
+        "C-10399",
+        "C-10400",
+        "C-10401",
+        "C-10402",
+        "C-10403",
+        "C-10404",
+        "C-10405",
+        "C-10406",
+        "C-10407",
+        "C-10408",
+        "C-10411",
+        "C-10412",
+        "C-10413",
+        "C-10414",
+        "C-10415",
+        "C-10416",
+        "C-10418",
+        "C-10419",
+        "C-10420",
+        "C-10421",
+        "C-10422"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -822,7 +941,10 @@
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10364",
+        "C-10371"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -838,7 +960,16 @@
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10369",
+        "C-10393",
+        "C-10396",
+        "C-10397",
+        "C-10398",
+        "C-10399",
+        "C-10400",
+        "C-10401"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -854,7 +985,33 @@
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10355",
+        "C-10356",
+        "C-10357",
+        "C-10358",
+        "C-10359",
+        "C-10360",
+        "C-10363",
+        "C-10366",
+        "C-10368",
+        "C-10370",
+        "C-10371",
+        "C-10372",
+        "C-10373",
+        "C-10375",
+        "C-10376",
+        "C-10377",
+        "C-10378",
+        "C-10379",
+        "C-10380",
+        "C-10381",
+        "C-10389",
+        "C-10417",
+        "C-10418",
+        "C-10419",
+        "C-10421"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -870,7 +1027,12 @@
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10370",
+        "C-10371",
+        "C-10377",
+        "C-10380"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -886,7 +1048,9 @@
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10390"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -902,7 +1066,19 @@
       "type": "person",
       "description": "Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10373",
+        "C-10374",
+        "C-10375",
+        "C-10376",
+        "C-10377",
+        "C-10379",
+        "C-10381",
+        "C-10382",
+        "C-10383",
+        "C-10384",
+        "C-10420"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -919,6 +1095,16 @@
       "description": "Erika Kirk (wave3 orphan mint).",
       "related_artifacts": [],
       "related_claims": [
+        "C-10354",
+        "C-10390",
+        "C-10391",
+        "C-10392",
+        "C-10393",
+        "C-10394",
+        "C-10395",
+        "C-10398",
+        "C-10399",
+        "C-10415",
         "C-2825",
         "C-2826",
         "C-2827"
@@ -991,6 +1177,807 @@
       "claim_count": 5,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-800",
+      "ref": "N-800",
+      "name": "Hasan Piker",
+      "type": "person",
+      "description": "Streamer; first named in A-2023.1.",
+      "related_artifacts": [
+        "A-2023.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Donald Trump; the host cites his Epstein remark and says he signaled lawsuits to Erika.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10406",
+        "C-10412",
+        "C-10415"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein; the host says the resolution's 'satanic pedophile' line refers to him and his protectors.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10404",
+        "C-10405",
+        "C-10406"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "The host's husband, whom she says she must consult about the response to the lawsuit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10388",
+        "C-10416"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Netanyahu; the host says his picture appears in the lawsuit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10366"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-60",
+      "ref": "N-60",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Laura Loomer; the host says Harpole's lawyer retweeted her and that she made a trust claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10413",
+        "C-10414"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Brigitte Macron; the host cites a filing asserting UK dual citizenship.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10385",
+        "C-10413"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-87",
+      "ref": "N-87",
+      "name": "Jimmy Kimmel",
+      "type": "person",
+      "description": "Jimmy Kimmel; target of Melania Trump's post.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10410"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Mikey McCoy; the host says he sent her a message about Kolvet and announced the death by video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10362",
+        "C-10400"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-199",
+      "ref": "N-199",
+      "name": "Lee Trotter",
+      "type": "person",
+      "description": "Dr. Lee Trotter; the host says Erika lied about his words.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10392"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-213",
+      "ref": "N-213",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "Joe Kent; the host says Erika's team attacked him for asking about foreign influence.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10391"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-229",
+      "ref": "N-229",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Shawn Ryan, host of the podcast on which Harpole appeared on November 17.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10368",
+        "C-10372",
+        "C-10380"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-267",
+      "ref": "N-267",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "Terrell Farnsworth, head of the AV team; the host says he announced the death by selfie video and holds unseen footage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10360",
+        "C-10361",
+        "C-10362",
+        "C-10389"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-277",
+      "ref": "N-277",
+      "name": "Jeff Long",
+      "type": "person",
+      "description": "UVU police chief; correspondent in the Flood text chain the host discusses.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10380"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-284",
+      "ref": "N-284",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Bari Weiss; the host says a private chat mocked her insinuations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10396"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-286",
+      "ref": "N-286",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "White House press secretary; speaker in the briefing clip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10409"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Captain Adam Nef",
+      "type": "person",
+      "description": "Captain Neff; named in the host's December 23 post as questioning Mitch.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10384"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-442",
+      "ref": "N-442",
+      "name": "Kimberly Klacik",
+      "type": "person",
+      "description": "Kim Klacik; the host recounts her earlier lawsuit against the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10386"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-563",
+      "ref": "N-563",
+      "name": "Aubrey Lech",
+      "type": "person",
+      "description": "Aubrey Lech; the host says Kolvet cannot show what Lech gave her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10400",
+        "C-10401"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-613",
+      "ref": "N-613",
+      "name": "Melania Trump",
+      "type": "person",
+      "description": "Melania Trump; author of the post criticizing Kimmel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10410"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "UVU; its drone authorization form is cited by a viewer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10417"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10023",
+      "ref": "N-10023",
+      "name": "Epstein Israeli Intelligence Asset Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10405"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10083",
+      "ref": "N-10083",
+      "name": "AIPAC",
+      "type": "investigation_target",
+      "description": "AIPAC; the host says Lawler and Gottheimer take over a million dollars from it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10402"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10272",
+      "ref": "N-10272",
+      "name": "Harpole–Flood Text Attribution Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10380"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10341",
+      "ref": "N-10341",
+      "name": "Andrew Kolvet Surgeon Bullet Description",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10393"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10358",
+      "ref": "N-10358",
+      "name": "Surgeon Quotation Authenticity Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10392",
+        "C-10393"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10373",
+      "ref": "N-10373",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10373",
+        "C-10374",
+        "C-10381",
+        "C-10382",
+        "C-10383",
+        "C-10384",
+        "C-10418",
+        "C-10419",
+        "C-10420",
+        "C-10421"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10437",
+      "ref": "N-10437",
+      "name": "Aspen Donor Recall Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10394"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10546",
+      "ref": "N-10546",
+      "name": "Joe Kent Resignation Aftermath Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10391"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10552",
+      "ref": "N-10552",
+      "name": "Aubrey Termination Circumstances",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10401"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10641",
+      "ref": "N-10641",
+      "name": "Andrew Kolvet Text Message Full Context Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10390",
+        "C-10396",
+        "C-10397"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10651",
+      "ref": "N-10651",
+      "name": "Brian Harpole Lawsuit Coordination Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10355",
+        "C-10356",
+        "C-10375",
+        "C-10376",
+        "C-10387",
+        "C-10414",
+        "C-10415"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10664",
+      "ref": "N-10664",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10394",
+        "C-10395"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10681",
+      "ref": "N-10681",
+      "name": "Sean Ryan Show Interview Clip Bundle",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10372"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10695",
+      "ref": "N-10695",
+      "name": "Brian Harpole Medical Dressing Amount Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10363"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10812",
+      "ref": "N-10812",
+      "name": "Terrell Farnsworth Evidence-Handling Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10361",
+        "C-10389"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10840",
+      "ref": "N-10840",
+      "name": "UVU Ambulance Denial Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10357"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10862",
+      "ref": "N-10862",
+      "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10372"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical",
+      "type": "investigation_target",
+      "description": "Paramount Tactical, Gary Melton's channel; the host says it relayed the warning about Harpole suing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10375"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Daily Wire; the host says Harpole's lawyer is the one it used against her in arbitration.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10356"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11001",
+      "ref": "N-11001",
+      "name": "Valhalla VFT",
+      "type": "investigation_target",
+      "description": "Valhalla VFT, a separate YouTuber the host calls the Valhalla guy; named as a relay of the lawsuit warning.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10375"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11013",
+      "ref": "N-11013",
+      "name": "Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10358"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11137",
+      "ref": "N-11137",
+      "name": "Harpole Team Medical Response Competence Dispute",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10357"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-877",
+      "ref": "N-877",
+      "name": "Matt Slauson",
+      "type": "person",
+      "description": "First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10414"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11258",
+      "ref": "N-11258",
+      "name": "Harpole Lawsuit Subpoena and Discovery Opportunity",
+      "type": "topic",
+      "description": "The host's repeated argument that the Harpole lawsuit may give her the power of subpoena and depositions, including for Terrell Farnsworth's footage, text messages and testimony from Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10388",
+        "C-10389",
+        "C-10416"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -1462,7 +2449,1628 @@
         "N-1",
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10354",
+      "ref": "C-10354",
+      "label": "Host Says Erika Wrongly Said She Accused Erika of Murder",
+      "claim": "The host says Erika Kirk 'put a target on my back' by wrongly asserting that the host accused her of murdering her husband.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10647"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Locate Erika Kirk's April 29 statement and compare its exact wording to the host's prior published statements.",
+      "transcript_snippet": "She essentially put a target on my back by wrongly asserting that I accused her of murdering her husband.",
+      "supports_claim_refs": [
+        "C-2826"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10355",
+      "ref": "C-10355",
+      "label": "Host Says Harpole Never Sent a Retraction Demand or Spoke to Her Before",
+      "claim": "The host says Brian Harpole never communicated with her, never issued a retraction demand and never answered her outreach before the lawsuit email arrived.",
+      "anchored_artifacts": [
+        "A-2015.1"
+      ],
+      "related_nodes": [
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:23",
+      "investigative_direction": "Obtain the pre-filing email and the host's lawyers' correspondence log to confirm that no earlier retraction request exists.",
+      "transcript_snippet": "You never communicated with me, you never spoke, you never issued any sort of retraction demand, you never answered me when I reached out.",
+      "supports_claim_refs": [
+        "C-2811"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10356",
+      "ref": "C-10356",
+      "label": "Host Says Harpole's Lawyer Is the Lawyer the Daily Wire Used Against Her",
+      "claim": "The host says Harpole is using the same lawyer the Daily Wire used to sue her in arbitration for two years, and that the lawyer is publicly tweeting and has a YouTube channel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900",
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:22",
+      "investigative_direction": "Compare counsel of record in the Harpole complaint with counsel in the Daily Wire arbitration.",
+      "transcript_snippet": "Brian Harpold is using the same lawyer the Daily Wire used to sue me in arbitration for 2 years straight.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10357",
+      "ref": "C-10357",
+      "label": "Host Says Ambulances Were Standard at Her TPUSA Events With Harpole's Team",
+      "claim": "The host says that at each of her many Turning Point USA events during the time Harpole was on the security team, an ambulance was on standby.",
+      "anchored_artifacts": [
+        "A-2015.2"
+      ],
+      "related_nodes": [
+        "N-10840",
+        "N-11137"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:44",
+      "investigative_direction": "Collect event run-of-show or medical-staffing documents from prior TPUSA events and the UVU event to compare ambulance provisions.",
+      "transcript_snippet": "at each and every one of my many events that I have done with Turning Point USA during a time period when Brian Harpold was always a member of the security team, we had an ambulance on standby.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10358",
+      "ref": "C-10358",
+      "label": "Host Says Kirk Texted His Security the Night Before That He Expected to Be Killed",
+      "claim": "The host says Charlie Kirk texted his security team the night before the event and said he thought he was going to be killed.",
+      "anchored_artifacts": [
+        "A-2015.2"
+      ],
+      "related_nodes": [
+        "N-10650",
+        "N-11013"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:44",
+      "investigative_direction": "Obtain the night-before text thread and its recipients; ask security leadership to confirm or deny receipt.",
+      "transcript_snippet": "texts you guys the night before and says, \"I think I'm going to be killed.\"",
+      "supports_claim_refs": [
+        "C-5114"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10359",
+      "ref": "C-10359",
+      "label": "Host Says the Term Criminal Negligence Did Not Come From Her Podcast",
+      "claim": "The host says she did not accuse Harpole of criminal negligence and that the term did not come from her podcast but from the lawsuit.",
+      "anchored_artifacts": [
+        "A-2015.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:52",
+      "investigative_direction": "Search the episode transcripts cited in the complaint for the phrase 'criminal negligence' or equivalent wording.",
+      "transcript_snippet": "Um I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10360",
+      "ref": "C-10360",
+      "label": "Host Says the Charlie's Angels or Demons Episode Never Named Harpole",
+      "claim": "The host says that in the 'Charlie's Angels or Demons' episode she never mentioned Harpole even once, and that it concerned Charlie's chief of staff and Terrell Farnsworth, the head of the AV team.",
+      "anchored_artifacts": [
+        "A-2015.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:04",
+      "investigative_direction": "Review the full episode transcript for any reference to Harpole or the security detail.",
+      "transcript_snippet": "In that particular episode, we never mentioned Brian Harpold or referred to him even once.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10361",
+      "ref": "C-10361",
+      "label": "Host Says Farnsworth Announced Kirk Dead by Selfie Video Two Minutes After the Shot",
+      "claim": "The host says Terrell Farnsworth notoriously announced in a selfie video that Charlie Kirk was dead about two minutes after Kirk went down, when no one could have known.",
+      "anchored_artifacts": [
+        "A-2015.3"
+      ],
+      "related_nodes": [
+        "N-10812"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:04",
+      "investigative_direction": "Obtain Farnsworth's selfie video with its original upload time and compare it to the shot time and first official confirmation.",
+      "transcript_snippet": "it was Terrell Farmsworth who notoriously announced in a selfie video that Charlie Kirk was dead like 2 minutes after Charlie went down",
+      "mentions_person_refs": [
+        "N-267",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10362",
+      "ref": "C-10362",
+      "label": "Host Says Mikey McCoy and Farnsworth Filmed Themselves Announcing the Death",
+      "claim": "The host reads her own earlier quotation saying Mikey McCoy and others were picking up phone calls and filming themselves prematurely announcing that Charlie was dead.",
+      "anchored_artifacts": [
+        "A-2015.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:04",
+      "investigative_direction": "Identify any video in which Mikey McCoy announces the death and compare timing to first confirmation.",
+      "transcript_snippet": "They were already filming themselves prematurely announcing Charlie is dead, when not a single person could have known that Charlie Kirk was dead.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-267",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10363",
+      "ref": "C-10363",
+      "label": "Host Says Her Medical Bag Line Was Only a Description",
+      "claim": "The host says her full quotation about Harpole's medical bag was a description of him running to Charlie with a small bag that was supposed to be a medical bag.",
+      "anchored_artifacts": [
+        "A-2015.4"
+      ],
+      "related_nodes": [
+        "N-10695"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:16",
+      "investigative_direction": "Compare the quoted line with the full 'The Great Exodus from Utah' transcript.",
+      "transcript_snippet": "Brian is the one who then runs over to Charlie and again you recognize him because he kind of has that uh small supposed to be medical bag over him.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10364",
+      "ref": "C-10364",
+      "label": "Turek Audio Says Kirk's Team Had Drones Up and Texted Crowd Video",
+      "claim": "In the Frank Turek clip played on air, Turek says that on the drive in Kirk's team had drones up looking at the crowd and texted video of thousands of people an hour before the start.",
+      "anchored_artifacts": [
+        "A-2028.1"
+      ],
+      "related_nodes": [
+        "N-10645"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:55",
+      "investigative_direction": "Obtain the original Turek interview audio and the drone footage or text messages he describes.",
+      "transcript_snippet": "we're driving in, Megan, and his team has drones up um looking at the crowd from above and they they text him some video.",
+      "supports_claim_refs": [
+        "C-1753"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10365",
+      "ref": "C-10365",
+      "label": "Host Says a Drone-Training Pilot Told Her Drones Can Be Flown in Provo",
+      "claim": "The host says a pilot who runs drone training told her that the Provo airspace restriction applies around airports and hangars, but that drones can be flown in Provo with clearance as needed.",
+      "anchored_artifacts": [
+        "A-2028.1"
+      ],
+      "related_nodes": [
+        "N-10645"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:55",
+      "investigative_direction": "Check FAA Part 107 airspace authorization records for the UVU campus and any waiver requests filed for the event.",
+      "transcript_snippet": "Yeah, you can't fly in Provo airspace meaning around airports. You would have to get clearance. You can't fly uh near hangars. But you can fly drones in Provo.",
+      "contradicts_claim_refs": [
+        "C-4947"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10366",
+      "ref": "C-10366",
+      "label": "Host Says the Lawsuit Opens With Strong Support for Israel and a Netanyahu Picture",
+      "claim": "The host says the first pages of the 69-page lawsuit express strong support for Israel and embed a picture of Benjamin Netanyahu.",
+      "anchored_artifacts": [
+        "A-2015.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:40",
+      "investigative_direction": "Read the opening paragraphs and exhibits of the complaint to confirm the Israel references and the image.",
+      "transcript_snippet": "he begins the lawsuit and I'm talking like the first few pages with strong support for Israel.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10367",
+      "ref": "C-10367",
+      "label": "Host Says the Lawsuit Mentions the Moon Landing and She Believes It Was Fake",
+      "claim": "The host says point 19 of the lawsuit mentions that she does not believe in the moon landing, and she states she thinks the moon landing was fake.",
+      "anchored_artifacts": [
+        "A-2015.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:40",
+      "investigative_direction": "Read paragraph 19 of the complaint to confirm the moon-landing reference.",
+      "transcript_snippet": "I don't believe the moon landing. Guilty as charged. Guilty as charged. I I think the moon landing was fake.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10368",
+      "ref": "C-10368",
+      "label": "Host States the Limited-Purpose Public Figure Rule and Says Harpole Fits It",
+      "claim": "The host says private citizens can become limited-purpose public figures by voluntarily thrusting themselves into a public controversy, and that Harpole did so by appearing on the Shawn Ryan podcast.",
+      "anchored_artifacts": [
+        "A-2015.5"
+      ],
+      "related_nodes": [
+        "N-10644"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:36",
+      "investigative_direction": "Have a defamation lawyer assess Harpole's status under Tennessee or Utah limited-purpose public figure case law.",
+      "transcript_snippet": "private citizens can indeed become limited purpose public figures when they voluntarily thrust themselves into the forefront of a particular public controversy to influence its outcome.",
+      "contradicts_claim_refs": [
+        "C-2815"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-229"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10369",
+      "ref": "C-10369",
+      "label": "Host Says Kolvet Asked Her to Defend the Security Team Publicly",
+      "claim": "The host says that after a phone call in which she told Andrew Kolvet she did not believe the hand-signal conspiracies, Kolvet asked whether she would say something publicly because the team was getting hammered, and she agreed.",
+      "anchored_artifacts": [
+        "A-2016.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:17:25",
+      "investigative_direction": "Obtain the host's phone log and the text exchange with Kolvet from that day.",
+      "transcript_snippet": "And Andrew asked me if I would be willing to say something publicly on my podcast to that effect because they were getting hammered and I said, \"Of course I will.\"",
+      "supports_claim_refs": [
+        "C-2820"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10370",
+      "ref": "C-10370",
+      "label": "Host Says She Defended Harpole and Flood Without Naming Them",
+      "claim": "The host says she went to great lengths to defend Harpole and Dan Flood without mentioning their names so the public would not find them during the early conspiracy theories.",
+      "anchored_artifacts": [
+        "A-2018.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:17:25",
+      "investigative_direction": "Audit September 2025 episodes for any naming of Harpole or Flood.",
+      "transcript_snippet": "I went through great lengths to defend both Brian Harpole and Dan Flood without mentioning their names cuz I didn't want the public to find them",
+      "supports_claim_refs": [
+        "C-2817"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10371",
+      "ref": "C-10371",
+      "label": "Host Recounts Early Hand-Signal Theories About Turek, Flood and Harpole",
+      "claim": "The host says the early conspiracy theories claimed Frank Turek, Dan Flood and Brian Harpole were making hand signals behind Charlie's back, and that she did not believe them.",
+      "anchored_artifacts": [
+        "A-2018.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:17:25",
+      "investigative_direction": "Identify the original posts that circulated the hand-signal theories and their dates.",
+      "transcript_snippet": "Frank Turek's doing hand signals. It looks like Dan Flood's doing hand signals. It looks like Brian Harpole is doing hand signals behind his back and they're all looped in.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-7",
+        "N-276",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10372",
+      "ref": "C-10372",
+      "label": "Host Says Harpole's Sean Ryan Interview Made Her Look Again",
+      "claim": "The host says it was Harpole's behavior and what he said on the Shawn Ryan show, which she found unconvincing, that made her take a second look, and that she did not come in guns blazing against TPUSA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10862",
+        "N-10681"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:10",
+      "investigative_direction": "Compare the Shawn Ryan interview statements with the independent review findings and the host's first on-air reaction.",
+      "transcript_snippet": "it was because of his behavior and what he said on Sean Ryan's show, which I found to be unconvincing",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-229"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10373",
+      "ref": "C-10373",
+      "label": "Host Says She First Raised the Fort Huachuca Sighting on November 8",
+      "claim": "The host says that on November 8 she first mentioned that someone thought they saw Brian Harpole at Fort Huachuca, that she examined the person's documents and found him credible about where he said he was.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:00",
+      "investigative_direction": "Locate the episode that first mentioned the Fort Huachuca sighting and reconcile its date with the host's statement that she first named Harpole on November 19.",
+      "transcript_snippet": "on November 8th, I had first mentioned that there was someone who thought that they saw Brian Harpole at Fort Huachuca that I, you know, examined the person's documents, whatever.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10374",
+      "ref": "C-10374",
+      "label": "Host Says the Solo Episode Naming the Sighting Caused Mass Panic",
+      "claim": "The host says the solo episode on the Fort Huachuca sighting aired on December 9 and caused mass panic, before she could interview Mitch Snow.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:00",
+      "investigative_direction": "Confirm the air date of the solo episode and the sequence relative to the Mitch Snow interview.",
+      "transcript_snippet": "It was a solo episode on December 9th and if you recall, it caused mass panic.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10375",
+      "ref": "C-10375",
+      "label": "Host Says Paramount Tactical and the Valhalla Guy Warned That Harpole Would Sue",
+      "claim": "The host says she was effectively threatened behind the scenes through Paramount Tactical and the Valhalla guy, who said Mitch was a fraud never in the military and that Harpole would sue if she interviewed him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899",
+        "N-11001",
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:46",
+      "investigative_direction": "Obtain the messages the host received from the intermediaries and ask Paramount Tactical and Valhalla VFT whether they relayed a Harpole warning.",
+      "transcript_snippet": "this was coming through Paramount Tactical and the Valhalla guy and they were saying, \"If you do this if if you interview Mitch, Mitch wasn't even in the military.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-369",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10376",
+      "ref": "C-10376",
+      "label": "Host Says Harpole Told Others to Say He Would Sue if She Interviewed Mitch",
+      "claim": "The host says that before she did the interview, Brian Harpole was telling people to say he would sue her if she interviewed Mitch Snow.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:29",
+      "investigative_direction": "Identify the intermediaries and any written message conveying the lawsuit threat, with dates.",
+      "transcript_snippet": "So, before I even got to do the interview, Brian Harpole was telling people to say that if I interview this guy, I'm going to sue you.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10377",
+      "ref": "C-10377",
+      "label": "Host Says She Sent Harpole Four Messages and Flood One",
+      "claim": "The host says she sent Brian Harpole about four messages in total and one message to Dan Flood, from two days before the Mitch Snow interview through January, and that the lawsuit embeds them.",
+      "anchored_artifacts": [
+        "A-2015.8"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:21:29",
+      "investigative_direction": "Obtain the full message log to Harpole and Flood and compare the count with the three messages quoted on air.",
+      "transcript_snippet": "I sent Brian Harpole I think a total of four messages and I also sent Dan Flood a message.",
+      "supports_claim_refs": [
+        "C-6799"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-276",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10378",
+      "ref": "C-10378",
+      "label": "Host Says the Lawsuit Admits Harpole Received Her Messages and Chose Not to Reply",
+      "claim": "The host says the lawsuit acknowledges that Harpole received her messages and chose not to respond.",
+      "anchored_artifacts": [
+        "A-2017.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:23:03",
+      "investigative_direction": "Read points 54 to 59 of the complaint to confirm the acknowledgment of receipt.",
+      "transcript_snippet": "He's acknowledging he received these messages and he chose not to respond.",
+      "supports_claim_refs": [
+        "C-2818"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10379",
+      "ref": "C-10379",
+      "label": "Host Says a Yes or No From Harpole Would Not Have Stopped Her Hosting Mitch",
+      "claim": "The host says she did not ask for an exclusive, that a reply would have ended her coverage of the story, and that his silence did not stop her from hosting Mitch Snow.",
+      "anchored_artifacts": [
+        "A-2015.7"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:05",
+      "investigative_direction": "Compare the host's outreach messages with the complaint's exclusive-content rationale.",
+      "transcript_snippet": "It would have put an end to me covering the story beyond. So, actually by not responding before I hosted Mitch, it didn't allow me didn't stop me from hosting Mitch.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10380",
+      "ref": "C-10380",
+      "label": "Host Says Harpole Presented the Flood-Long Chain Using 'I'",
+      "claim": "The host says Harpole presented the text chain on Shawn Ryan as if it were his own and explicitly said 'I', implying it was why the rooftops were not secured, though it was between Dan Flood and Chief Long.",
+      "anchored_artifacts": [
+        "A-2019.1"
+      ],
+      "related_nodes": [
+        "N-10272"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:54",
+      "investigative_direction": "Compare the Shawn Ryan audio with the Flood and Long messages to find the exact wording used.",
+      "transcript_snippet": "You presented this text chain as if it was yours. In fact, you explicitly say I.",
+      "supports_claim_refs": [
+        "C-1762"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-229",
+        "N-277",
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10381",
+      "ref": "C-10381",
+      "label": "Host Says the Lawsuit Misstates That She Confirmed Mitch's Identification of Harpole",
+      "claim": "The host says the lawsuit's lawyer claims she asserted over and over that Mitch Snow was telling the truth about Harpole, when she repeatedly said publicly that she could not confirm Mitch saw Harpole.",
+      "anchored_artifacts": [
+        "A-2015.9"
+      ],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:39",
+      "investigative_direction": "Compile every on-air statement by the host on whether Harpole was identified and compare them to the complaint's characterization.",
+      "transcript_snippet": "I went through a great many pains to repeatedly assert publicly that I could not confirm that he saw Harpole",
+      "supports_claim_refs": [
+        "C-2823"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10382",
+      "ref": "C-10382",
+      "label": "Host Plays Her Interview Line That She Cannot Confirm Who Mitch Saw",
+      "claim": "In an audio clip of her interview with Mitch Snow, the host says she cannot confirm that he saw who he says he saw.",
+      "anchored_artifacts": [
+        "A-3076.1"
+      ],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:07",
+      "investigative_direction": "Obtain the full Mitch Snow interview and verify the clip is in context and its date.",
+      "transcript_snippet": "I obviously can't confirm that you saw who you say you saw. I obviously can't confirm that you saw who you say you saw.",
+      "supports_claim_refs": [
+        "C-2822"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10383",
+      "ref": "C-10383",
+      "label": "Host Says in the Interview That She Confirmed Mitch's Route and Meeting With Metadata",
+      "claim": "In the same clip, the host says she can confirm every step of Mitch's story, including where he went and what time, that there was a big meeting, confirmed with other people at Fort Huachuca and with metadata.",
+      "anchored_artifacts": [
+        "A-3076.1"
+      ],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:07",
+      "investigative_direction": "Obtain the metadata files and the identities of the Fort Huachuca sources used to confirm the location.",
+      "transcript_snippet": "I confirmed the location with other people that are that are on uh Fort Huachuca currently. I can confirm everything with metadata.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10384",
+      "ref": "C-10384",
+      "label": "Host's X Post Says Mitch Was Taken Outside and Questioned by Captain Neff",
+      "claim": "The host reads her December 23 X post, which says Mitch said he was first taken outside by Captain Neff and questioned for a long time.",
+      "anchored_artifacts": [
+        "A-2020.1"
+      ],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:59",
+      "investigative_direction": "Obtain the incident report and any base logs naming Captain Neff on the morning described.",
+      "transcript_snippet": "Remember, Mitch said he was at first taken outside by Captain Neff and questioned for a long time.",
+      "supports_claim_refs": [
+        "C-5390"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-369",
+        "N-326"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10385",
+      "ref": "C-10385",
+      "label": "Host Says Brigitte Macron Claimed She Was a UK Dual Citizen",
+      "claim": "The host says a lawsuit filing by Brigitte Macron's side asserted that she is a dual citizen of the UK, and that she is not.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:04",
+      "investigative_direction": "Locate the Macron filing language on citizenship and the host's citizenship records.",
+      "transcript_snippet": "case in point, Brigitte said I was a dual citizen of the UK.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10386",
+      "ref": "C-10386",
+      "label": "Host Says the Klacik Suit Was Dropped in Discovery",
+      "claim": "The host says Kim Klacik sued after the host called her a former stripper, took it to discovery, then folded and wanted to walk away when the host began presenting evidence from strippers who knew her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:32:15",
+      "investigative_direction": "Pull the docket and any settlement or dismissal record from the Klacik case.",
+      "transcript_snippet": "she took it to discovery and then she folded. Right? She folded and wanted to sign an agreement and say, let's let's walk away and not talk about it",
+      "mentions_person_refs": [
+        "N-3",
+        "N-442"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10387",
+      "ref": "C-10387",
+      "label": "Host Says Harpole's Lawyer Had Been in Contact With Her Lawyers for Two Years",
+      "claim": "The host says the lawyer has full access to her lawyers in Tennessee, has been in communication with them for two years, and never raised a single issue until the end of April.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:47",
+      "investigative_direction": "Ask the host's counsel for correspondence with Harpole's lawyer over the past two years.",
+      "transcript_snippet": "You're dealing with a lawyer that has full access to my lawyers in the state of Tennessee, has been in communication with them for 2 years. He never raises a single issue until the end of April?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10388",
+      "ref": "C-10388",
+      "label": "Host Says She Received the Lawsuit a Couple of Hours Before Recording",
+      "claim": "The host says she received the lawsuit only a couple of hours before the broadcast and has not yet decided how to respond because she must speak with her husband.",
+      "anchored_artifacts": [
+        "A-2015.1"
+      ],
+      "related_nodes": [
+        "N-11258"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:47",
+      "investigative_direction": "Check the docket filing time and the service record against the host's account.",
+      "transcript_snippet": "I obviously just received this lawsuit a couple of hours ago and I am not therefore at liberty to assert what we will or will not do",
+      "mentions_person_refs": [
+        "N-3",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10389",
+      "ref": "C-10389",
+      "label": "Host Says Farnsworth Has Never-Seen Footage She Would Subpoena",
+      "claim": "The host says Terrell Farnsworth has footage from every angle that the public has never seen, and that if Harpole claims he rendered first aid she would seek to subpoena that footage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11258",
+        "N-10812"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:51",
+      "investigative_direction": "Seek the footage through discovery or a subpoena in the Harpole action and identify its custodians.",
+      "transcript_snippet": "Terrell Farnsworth actually has footage the public has never seen from every angle.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-267",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10390",
+      "ref": "C-10390",
+      "label": "Coleman Audio Says Erika's Side Cited a Laughing-Face Text Joke",
+      "claim": "In the Baron Coleman clip, Coleman says Erika's side pointed to a text message in which the host joked with a friend and put a laughing face on it, and that no one assumed that was what Erika was referring to.",
+      "anchored_artifacts": [
+        "A-2021.1"
+      ],
+      "related_nodes": [
+        "N-10641",
+        "N-10647"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:04",
+      "investigative_direction": "Obtain the full text exchange and its recipient, and Erika Kirk's statement referencing it.",
+      "transcript_snippet": "I saw a text message where she was joking around with a friend and she even put a laughing face on it.",
+      "mentions_person_refs": [
+        "N-337",
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10391",
+      "ref": "C-10391",
+      "label": "Host Says Erika's Team Attacked Joe Kent for Asking About Foreign Influence",
+      "claim": "The host says Erika Kirk showed no interest in exploring other options or foreign influence, and that her team is attacking Joe Kent for asking that question.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10546"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:39",
+      "investigative_direction": "Collect posts by Erika Kirk's team attacking Joe Kent and compare to his public remarks on foreign influence.",
+      "transcript_snippet": "her team is attacking Joe Kent for asking that question.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10392",
+      "ref": "C-10392",
+      "label": "Host Says Erika Lied About Dr. Lee Trotter's Words",
+      "claim": "The host says Erika Kirk lied about Dr. Lee Trotter's words, which she calls significant.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10358"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:35",
+      "investigative_direction": "Compare Erika Kirk's attributions to Dr. Trotter with his own statements.",
+      "transcript_snippet": "Her lying about Dr. Lee Trotter's words. That is significant.",
+      "supports_claim_refs": [
+        "C-5187"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10393",
+      "ref": "C-10393",
+      "label": "Host Says Erika Colluded With Kolvet on the Man of Steel Statement and Denied It",
+      "claim": "The host says Erika Kirk colluded with Andrew Kolvet on the 'man of steel' statement and then flatly denied to the host's face that she did.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10341",
+        "N-10358"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:35",
+      "investigative_direction": "Obtain the host's December 15 meeting notes or recording and Kolvet's drafting records for the statement.",
+      "transcript_snippet": "Colluding with Andrew Kolbatz on an absurd man of steel statement and then flatly denying to my face that she did that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10394",
+      "ref": "C-10394",
+      "label": "Host Says Donors Tell Her the AmFest Audio Claim Is a Lie",
+      "claim": "The host says donors told her that Erika Kirk is lying about the audio clip presented at AmFest, in which Charlie names her, and that it never went down.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664",
+        "N-10437"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:35",
+      "investigative_direction": "Identify the donors present at the Aspen event and obtain on-record statements about whether Kirk named Erika.",
+      "transcript_snippet": "Donors literally telling me that she is lying about the audio clip that she presented at AmFest.",
+      "supports_claim_refs": [
+        "C-2694"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10395",
+      "ref": "C-10395",
+      "label": "Host Says TPUSA Has Not Released the Video of Charlie Naming Erika CEO",
+      "claim": "The host says TPUSA has not released the video that would answer the donors' claims, and calls on them to release the video of Charlie naming Erika CEO.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:23",
+      "investigative_direction": "Request the original recording with metadata and the venue and date of capture from TPUSA.",
+      "transcript_snippet": "They have not yet released the video to answer the claims being made by the donors that were in attendance.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10396",
+      "ref": "C-10396",
+      "label": "Host Says Kolvet Treats a Private Chat Mocking Weiss as a Statement by Her",
+      "claim": "The host says Kolvet is pretending that a private correspondence in which they mocked Bari Weiss's insinuations counted as the host making a statement.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10641"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:23",
+      "investigative_direction": "Obtain the full private chat between the host and Kolvet and its date.",
+      "transcript_snippet": "pretending that that little private correspondence where we we mocked Barry Weiss's insinuations that that that somehow counted to me making a statement.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-284"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10397",
+      "ref": "C-10397",
+      "label": "Host Gives Permission to Release the Entire Chat With Kolvet",
+      "claim": "The host says she gives full permission for Kolvet to release the entire chat.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10641"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:14",
+      "investigative_direction": "Request that Kolvet or TPUSA publish the full chat and verify its completeness.",
+      "transcript_snippet": "Like I said, release the entire chat. I you have my full permission.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10398",
+      "ref": "C-10398",
+      "label": "Host Says Kolvet Insinuated She Went Into the December 15 Meeting Convinced of Erika's Guilt",
+      "claim": "The host says Kolvet is insinuating she entered her December 15 conversation with Erika already convinced of her guilt, which she calls untrue.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10649"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:14",
+      "investigative_direction": "Obtain the December 15 meeting notes and any recording, plus Kolvet's statement making the insinuation.",
+      "transcript_snippet": "since what you are attempting to falsely insinuate is that I went into that conversation with Erika on December 15th already convinced of her guilt, which is patently untrue.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10399",
+      "ref": "C-10399",
+      "label": "Host Says She Told Erika Someone at TPUSA Pointed Her Toward Kolvet",
+      "claim": "The host says she told Erika Kirk that someone at Turning Point USA got a message to her saying she should look further into Andrew Kolvet.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10649"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:00",
+      "investigative_direction": "Ask Erika Kirk whether the host made this disclosure on December 15 and identify the third party.",
+      "transcript_snippet": "someone at Turning Point USA got a message out to me. And that message was that I need to look further into Andrew Kolbatz.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10400",
+      "ref": "C-10400",
+      "label": "Host Says Mikey McCoy Sent the Message About Kolvet Through a Third Party",
+      "claim": "The host says the message urging her to look more into Andrew Kolvet came from Mikey McCoy via a third-party person, and not from Aubrey as Kolvet insinuates.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10649"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:52",
+      "investigative_direction": "Identify the third-party intermediary and obtain the message; ask McCoy to confirm or deny.",
+      "transcript_snippet": "It was Mikey McCoy. Mikey McCoy got a message out to me uh via a third-party person that I should look more into Andrew Kolbatz.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-14",
+        "N-563"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10401",
+      "ref": "C-10401",
+      "label": "Host Says Kolvet Was Her Number One Early Source and Cannot Show What Aubrey Gave Her",
+      "claim": "The host says Kolvet cannot produce the information he claims Aubrey Lech gave her, and that Kolvet was her number one source in the beginning.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10552"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:52",
+      "investigative_direction": "Ask Kolvet to specify the information attributed to Aubrey Lech and compare it against the host's published material.",
+      "transcript_snippet": "you can still cannot produce the information that you are claiming that Aubrey Lich gave to me that I share on this platform. You were my number one source, Andrew, in the beginning.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-563"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10402",
+      "ref": "C-10402",
+      "label": "Host Says Lawler and Gottheimer Take More Than a Million Dollars From AIPAC",
+      "claim": "The host says Mike Lawler and Josh Gottheimer, who brought the resolution forward, each take more than a million dollars from AIPAC.",
+      "anchored_artifacts": [
+        "A-2024.1"
+      ],
+      "related_nodes": [
+        "N-10083",
+        "N-10648"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:10",
+      "investigative_direction": "Check FEC and OpenSecrets records for AIPAC-linked contributions to Lawler and Gottheimer.",
+      "transcript_snippet": "these two people I I both of them brought this forward take more than a million dollars from AIPAC.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-437",
+        "N-438"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10403",
+      "ref": "C-10403",
+      "label": "Resolution Text Alleges Candace Cast Doubt on Holocaust Survivors",
+      "claim": "The host reads resolution text alleging she promoted false claims that Jews are taught by ancient religious texts to hate non-Jews and cast doubt on the truth of Holocaust survivors.",
+      "anchored_artifacts": [
+        "A-2024.1"
+      ],
+      "related_nodes": [
+        "N-10648"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:10",
+      "investigative_direction": "Obtain the full resolution text and its cited sources for each recital.",
+      "transcript_snippet": "Government promoting false claims that that Jews are taught by ancient religious texts to hate non-Jews and casting doubt on the truth of Holocaust survivors.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-437",
+        "N-438"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10404",
+      "ref": "C-10404",
+      "label": "Host Says Satanic Pedophiles Working for Israel Refers to the Epstein Class",
+      "claim": "The host says her statement about satanic pedophiles working for Israel refers to Epstein and those who defended the Epstein class, and is not about Jews generally.",
+      "anchored_artifacts": [
+        "A-2024.1"
+      ],
+      "related_nodes": [
+        "N-10648"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:50",
+      "investigative_direction": "Locate the host's original statement and compare it with the resolution's paraphrase.",
+      "transcript_snippet": "Satanic pedophiles working for Israel, we're talking about Epstein and everyone who has defended the Epstein class, okay?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10405",
+      "ref": "C-10405",
+      "label": "Host Says Epstein Was a Satanic Pedophile Who Worked for Israel",
+      "claim": "The host asserts that Jeffrey Epstein was a satanic pedophile who worked for Israel, which she says is abundantly true and not a conspiracy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10023"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:50",
+      "investigative_direction": "Identify public records on Epstein's alleged intelligence ties; the host offers no document on air.",
+      "transcript_snippet": "That a satanic pedophile like Jeffrey Epstein worked for Israel. These are This is abundantly true.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10406",
+      "ref": "C-10406",
+      "label": "Host Says Trump Asked 'What Are We Still Talking About' on Epstein",
+      "claim": "The host says Donald Trump asked 'What are we still talking about Jeffrey Epstein?' and that this is when he lost her entirely.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:50",
+      "investigative_direction": "Locate the Trump remark and its date and context.",
+      "transcript_snippet": "When Donald Trump said, \"What are we still talking about Jeffrey Epstein?\" That is when he lost me entirely.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10407",
+      "ref": "C-10407",
+      "label": "Host Says the Resolution Accuses Her of Claiming Jews Kill Christian Children",
+      "claim": "The host says the resolution alleges she repeated false claims that Jews are killing Christian children, and that she never said that.",
+      "anchored_artifacts": [
+        "A-2024.1"
+      ],
+      "related_nodes": [
+        "N-10648"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:42",
+      "investigative_direction": "Search the host's transcripts for the alleged statement and for the source the resolution cites.",
+      "transcript_snippet": "It then goes on and says um that I repeated false claims that Jews are chil- killing Christian children.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-437",
+        "N-438"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10408",
+      "ref": "C-10408",
+      "label": "Host Says Florida Police Visit People Over Tweets",
+      "claim": "The host says police in Florida are showing up at people's doors asking if they sent a tweet.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:57:59",
+      "investigative_direction": "Identify specific Florida cases of police visits over social media posts.",
+      "transcript_snippet": "They want Europe. They want what's already happening in Florida. Police showing up on your door asking you if you sent a tweet.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10409",
+      "ref": "C-10409",
+      "label": "Leavitt Audio Says Commentators' Rhetoric Inspires Political Violence",
+      "claim": "In the clip, Karoline Leavitt says political violence stems from systemic demonization by commentators, Democrats and some media, and that deranged smears have led crazy people to believe crazy things.",
+      "anchored_artifacts": [
+        "A-2025.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:58:44",
+      "investigative_direction": "Obtain the White House briefing transcript with date.",
+      "transcript_snippet": "This political violence stems from a systemic demonization of him and his supporters by commentators, yes, by elected members of the Democrat Party, and even some in the media.",
+      "mentions_person_refs": [
+        "N-286"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10410",
+      "ref": "C-10410",
+      "label": "Host Reads Melania Trump's Post Calling Kimmel's Joke Hateful",
+      "claim": "The host says Melania Trump tweeted that Jimmy Kimmel's joke, made before the shooting, was hateful and violent rhetoric intended to divide the country.",
+      "anchored_artifacts": [
+        "A-2026.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:59:40",
+      "investigative_direction": "Retrieve the original Melania Trump post and its date.",
+      "transcript_snippet": "Melania Trump she tweeted and said this about Jimmy Kimmel. Jimmy Kimmel's vote of joke that happened before the shooting. That it was hateful and violent rhetoric intended to divide our country.",
+      "mentions_person_refs": [
+        "N-613",
+        "N-87"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10411",
+      "ref": "C-10411",
+      "label": "Host Says Charlie Laughed Off South Park's Master Debater Episode",
+      "claim": "The host says Charlie Kirk notoriously laughed when South Park dedicated an entire episode referring to him as the master debater.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:01:07",
+      "investigative_direction": "Locate the South Park episode and Kirk's public reaction.",
+      "transcript_snippet": "Charlie laughed at people when they made jokes of him, notoriously laughed when South Park dedicated an entire episode referring to him as the master debater.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10412",
+      "ref": "C-10412",
+      "label": "Host Says the US Bombed 150 Schoolgirls in Iran and Lied About It",
+      "claim": "The host says the US randomly dropped a bomb on 150 schoolgirls in Iran and then lied about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:06:42",
+      "investigative_direction": "Check official US and Iranian accounts of the strike and the later statements about it.",
+      "transcript_snippet": "when you guys just like randomly dropped a bomb on 150 schoolgirls in Iran and then lied to us about it.",
+      "supports_claim_refs": [
+        "C-7121"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10413",
+      "ref": "C-10413",
+      "label": "Host Says Loomer Claimed She Was Hiding Money in a Trust",
+      "claim": "The host says Laura Loomer said the host was hiding money in a trust, including from Brigitte Macron, which the host calls completely untrue.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:08:34",
+      "investigative_direction": "Locate Loomer's posts on the trust claim and the host's financial structure records.",
+      "transcript_snippet": "This was like Laura Loomer hiding money in a trust. She She She said I was hiding money in a trust. Completely untrue.",
+      "supports_claim_refs": [
+        "C-8759"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-60",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10414",
+      "ref": "C-10414",
+      "label": "Host Says Harpole's Lawyer Matt Slauson Was Retweeting Laura Loomer",
+      "claim": "The host says Harpole's attorney, Matt Slauson, definitively was retweeting Laura Loomer, which she says feels like anticipated coordination before the lawsuit.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:08:34",
+      "investigative_direction": "Review the lawyer's public posting history for Loomer retweets and their dates relative to the filing.",
+      "transcript_snippet": "this lawyer, Matt Slauson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-877",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10415",
+      "ref": "C-10415",
+      "label": "Host Says Trump Was Signaling to Erika That She Should Sue People",
+      "claim": "The host says Donald Trump was signaling to Erika Kirk that she should sue people.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:09:37",
+      "investigative_direction": "Find the Trump remarks urging lawsuits and whether they referenced Erika Kirk.",
+      "transcript_snippet": "And Trump was signaling you should sue people to to Erika.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10416",
+      "ref": "C-10416",
+      "label": "Host Says Getting to Discovery Costs Hundreds of Thousands of Dollars",
+      "claim": "The host says her husband will tell her that these lawsuits cost hundreds of thousands of dollars to reach the discovery phase.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11258"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:09:37",
+      "investigative_direction": "Ask the host's counsel for a budget estimate; the figure is her husband's stated expectation.",
+      "transcript_snippet": "these lawsuits to get to that phase is hundred hundreds of thousands of dollars.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10417",
+      "ref": "C-10417",
+      "label": "Viewer Comment Cites UVU's Drone Authorization Form",
+      "claim": "The host reads a viewer comment saying UVU requires a form titled 'request for authorization to operate a drone' with the office of risk management, and asks whether Harpole filed it and was denied.",
+      "anchored_artifacts": [
+        "A-2029.1"
+      ],
+      "related_nodes": [
+        "N-10645",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:11:10",
+      "investigative_direction": "Request the UVU drone authorization form records for the event under GRAMA.",
+      "transcript_snippet": "UVU just requires you to fill out a form which is titled request for authorization to operate a drone with the office of risk management.",
+      "mentions_person_refs": [
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10418",
+      "ref": "C-10418",
+      "label": "Host Says Harpole Has Not Given Her an Alibi for the Morning of September 9",
+      "claim": "The host says she has so far not been given an alibi for the morning of September 9 despite the lawsuit asserting one.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10643",
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:11:50",
+      "investigative_direction": "Ask Harpole's counsel for dated receipts, location data or travel records for the morning of September 9.",
+      "transcript_snippet": "But I have thus far not been given an alibi for the morning of September 9th despite you asserting that in the lawsuit.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10419",
+      "ref": "C-10419",
+      "label": "Host Says Flights She Has Left Dallas in the Afternoon",
+      "claim": "The host says she has Harpole's flights and they were afternoon departures from Dallas at 2:19, 1:19 and 1:39.",
+      "anchored_artifacts": [
+        "A-3077.1"
+      ],
+      "related_nodes": [
+        "N-10643",
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:11:50",
+      "investigative_direction": "Obtain the flight records the host refers to and verify the times, routes and the source of the records.",
+      "transcript_snippet": "The flights were for what? 2:19, 1:19, 1:39 in the afternoon from Dallas.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10420",
+      "ref": "C-10420",
+      "label": "Host Says Mitch Placed the Meeting's End at 7:30 and Flights Could Reach Dallas by 10",
+      "claim": "The host says Mitch says the meeting concluded at 7:30 a.m., and that there were flights that left Fort Huachuca and got back into Dallas by 10:00 a.m.",
+      "anchored_artifacts": [
+        "A-3077.1"
+      ],
+      "related_nodes": [
+        "N-10643",
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:11:50",
+      "investigative_direction": "Identify the specific flights the host means and check them against Harpole's travel records.",
+      "transcript_snippet": "Mitch says the meeting concluded at 7:30 a. m. There were flights that left Fort Huachuca and got back into Dallas by 10:00 a. m.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10421",
+      "ref": "C-10421",
+      "label": "Host Says She Was Wrong About Harpole",
+      "claim": "The host says she was sympathetic to Harpole and was deeply wrong about him, and that she shouldn't have defended him immediately.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:12:38",
+      "investigative_direction": "Compare this statement with her September 2025 defense of the security team and with later episodes on Harpole.",
+      "transcript_snippet": "I was sympathetic to you and I was wrong about you is what I will say. I was deeply wrong about you.",
+      "qualifies_claim_refs": [
+        "C-2820"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10422",
+      "ref": "C-10422",
+      "label": "Host Says She Was Smeared and Blocked From Travelling to Australia in 2023-2024",
+      "claim": "The host says that in 2023 to 2024 she was smeared and people tried to stop her from being able to travel to Australia.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:13:25",
+      "investigative_direction": "Review Australian visa decisions and related correspondence; the host gives no documents on air.",
+      "transcript_snippet": "they smeared me, tried to stop me from being able to travel to Australia.",
+      "confidence": "high",
+      "supports_claim_refs": [
+        "C-7946"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-153",
+      "ref": "M-153",
+      "canonical_term": "Sentencing TPUSA to More Truth",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 97,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "She is sentenced to more truth",
+          "context": "Host sentences Erika Kirk to more truth in the opener.",
+          "confidence": "high",
+          "tags": [
+            "sentence",
+            "truth"
+          ]
+        },
+        {
+          "episode": 97,
+          "video_timestamp": "00:47:14",
+          "speaker_node_ref": "N-3",
+          "quote": "I must sentence Andrew and Erika to more truth.",
+          "context": "Host sentences Kolvet and Erika to more truth before revealing the McCoy message.",
+          "confidence": "high",
+          "tags": [
+            "sentence",
+            "truth"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 97,
+          "video_timestamp": "01:09:37",
+          "speaker_node_ref": "N-3",
+          "quote": "We can just start actually selling that Go Max gear.",
+          "context": "Host jokes about selling Go Max merchandise after a viewer comment.",
+          "confidence": "high",
+          "tags": [
+            "go max",
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-33",
+      "ref": "M-33",
+      "canonical_term": "Just Asking Questions",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 97,
+          "video_timestamp": "00:33:47",
+          "speaker_node_ref": "N-3",
+          "quote": "Again, I'm asking questions here.",
+          "context": "Host frames her theory that the lawsuit is a PR move as a question.",
+          "confidence": "high",
+          "tags": [
+            "questions"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 97,
+          "video_timestamp": "01:10:28",
+          "speaker_node_ref": "N-3",
+          "quote": "no genocide is always wrong",
+          "context": "Host cites the line as an example of doing the right thing over money.",
+          "confidence": "high",
+          "tags": [
+            "genocide"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 97,
+          "video_timestamp": "01:04:18",
+          "speaker_node_ref": "N-3",
+          "quote": "not accepting this fed slop narrative regarding Charlie Kirk",
+          "context": "Host describes independent media rejecting the official narrative.",
+          "confidence": "high",
+          "tags": [
+            "fed slop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-265",
+      "ref": "M-265",
+      "canonical_term": "Power of Subpoena",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 97,
+          "video_timestamp": "00:00:48",
+          "speaker_node_ref": "N-3",
+          "quote": "I believe that that would grant me, your girl, the power of subpoena.",
+          "context": "Host jokes the lawsuit grants her the power of subpoena.",
+          "confidence": "high",
+          "tags": [
+            "subpoena",
+            "lawsuit"
+          ]
+        },
+        {
+          "episode": 97,
+          "video_timestamp": "00:34:51",
+          "speaker_node_ref": "N-3",
+          "quote": "Are we ever going to have an opportunity to have the power of subpoena?",
+          "context": "Host argues the lawsuit may be her only chance to force depositions.",
+          "confidence": "high",
+          "tags": [
+            "subpoena",
+            "lawsuit"
+          ]
+        },
+        {
+          "episode": 97,
+          "video_timestamp": "00:38:10",
+          "speaker_node_ref": "N-3",
+          "quote": "The power of subpoena is well, it's it's a power.",
+          "context": "Host closes the first half calling subpoena a tool for truth.",
+          "confidence": "high",
+          "tags": [
+            "subpoena",
+            "lawsuit"
+          ]
+        },
+        {
+          "episode": 97,
+          "video_timestamp": "01:05:11",
+          "speaker_node_ref": "N-3",
+          "quote": "if you have an opportunity to subpoena people for truth, maybe take it.",
+          "context": "Host urges viewers to use subpoenas for truth in the closing.",
+          "confidence": "high",
+          "tags": [
+            "subpoena",
+            "lawsuit"
+          ]
+        }
+      ]
+    }
+  ]
 }

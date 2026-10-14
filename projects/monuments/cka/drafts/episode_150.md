@@ -6,7 +6,7 @@
 - **YouTube id**: S07n8TnRT0Q
 - **Candace Ep**: None
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:29:17
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 1cf9a9ae701ecafbe7c0d5f1b9d90036afd545839e429a950e86a6121537973e
 

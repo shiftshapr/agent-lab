@@ -6,13 +6,18 @@
 - **YouTube id**: YaZfwLQ7vrI
 - **Candace Ep**: 262
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:59:48
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: f464e8e712994efb56bee93a7c7a23da86a3df5028517114a2bdb3d80e5688a8
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10c): N-811, N-812, N-813, N-11158
+  - Hole-minted Nodes (reintro-ep029): N-230, N-462, N-10251, N-10401, N-10434, N-10436, N-10447, N-10573, N-10576, N-10887
+  - Tip-minted Nodes (reintro-ep029): N-11064, N-11147
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10c): C-7911–C-7977
   - New Nodes Introduced: N-241, N-242, N-243, N-244, N-245, N-246, N-247, N-248, N-249, N-250, N-10239, N-10240, N-10241, N-10242
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-5, N-17, N-40, N-46, N-66, N-82, N-97, N-99, N-209, N-234, N-239, N-10000, N-10024, N-10063, N-10078, N-10110, N-10132, N-10149, N-10196, N-10209, N-10210, N-10224, N-10231, N-10237, N-10253, N-10319, N-10398, N-10406, N-10840, N-11099, N-11159, N-11171
   - (see registers)
 
 # Episode 29 Analysis – Bride of Charlie / Monument Ep 29
@@ -234,7 +239,446 @@ Confidence Level: Low (anonymous tip; unverified)
 
 ---
 
+**A-2910** Tip Line Email Request Bundle
+
+**A-2910.1** Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for footage of the black SUV at the hospital)
+
+Quoted text: "please get that to us at moretips@candaceowens. com"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:04:10
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-7917, N-3*
+
+---
+
+**A-2911** NAR January 6 Article Bundle
+
+**A-2911.1** Host verbal reference to an article titled The New Apostolic Reformation Drove the January 6th Riots (not shown)
+
+Quoted text: "The new apostolic reformation drove the January 6th riots. So, why was it overlooked by the House Select Committee?"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:12:07
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-7924, N-3*
+
+---
+
+**A-2912** Tip Line Reference Bundle
+
+**A-2912.1** Host verbal reference to the tip line as the source of all her information
+
+Quoted text: "I say we because all the information I have is thanks to the tip line."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:47:16
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-7968, N-3*
+
+---
+
 ## IV. Node Register
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host speaks of his interest in the Seven Mountain Mandate, his funding questions and his shooting.
+
+*Related: C-7913, C-7915, C-7920, C-7925, C-7931, C-7932, C-7934, C-7949, C-7954, C-7955, C-7956, C-7963, C-7965, C-7968, C-7969, C-7971, C-7972, C-7976*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-7911, C-7912, C-7913, C-7914, C-7915, C-7916, C-7917, C-7918, C-7920, C-7922, C-7923, C-7927, C-7928, C-7932, C-7933, C-7935, C-7937, C-7938, C-7939, C-7940, C-7941, C-7943, C-7945, C-7946, C-7948, C-7949, C-7950, C-7951, C-7952, C-7953, C-7954, C-7955, C-7956, C-7957, C-7958, C-7959, C-7960, C-7963, C-7964, C-7966, C-7967, C-7968, C-7969, C-7970, C-7971, C-7972, C-7973, C-7974, C-7975, C-7976, C-7977*
+
+---
+
+**N-5** Donald Trump
+
+Said by the host to have been surrounded by pastors before January 6.
+
+*Related: C-7923*
+
+---
+
+**N-17** Rob McCoy
+
+Pastor the host ties to Turning Point Faith, Wallnau and the Borderline shooter's family.
+
+*Related: C-7928, C-7933, C-7934, C-7939, C-7942*
+
+---
+
+**N-40** Tyler Robinson
+
+Accused; the host says no clear image of him on campus has been shown.
+
+*Related: C-7970*
+
+---
+
+**N-46** Megyn Kelly
+
+Pressed by Ben Shapiro on stage according to the host.
+
+*Related: C-7948*
+
+---
+
+**N-66** Village Crazy Lady
+
+The host's X source Mel, credited for work on the faith-military constellation.
+
+*Related: C-7935*
+
+---
+
+**N-82** Brigitte Macron
+
+Topic the host says Elle Reeve pressed her about.
+
+*Related: C-7977*
+
+---
+
+**N-97** Ben Shapiro
+
+Subject of the host's account of the Megyn Kelly stage exchange and Charlie's texts.
+
+*Related: C-7948, C-7949*
+
+---
+
+**N-99** Alex Clark
+
+Host says she accused her of lying about giving no interviews.
+
+*Related: C-7975*
+
+---
+
+**N-209** Sean Feucht
+
+Named by the host as appearing in the NAR article.
+
+*Related: C-7924*
+
+---
+
+**N-230** Steven Paddock
+
+Las Vegas 2017 shooter per official account.
+
+*Related: C-7936*
+
+---
+
+**N-234** Alyssa Cordova
+
+Person the host says Allie Beth Stuckey is working with.
+
+*Related: C-7952*
+
+---
+
+**N-239** Elle Reeve
+
+CNN interviewer, transcribed L Reeves.
+
+*Related: C-7977*
+
+---
+
+**N-462** Paul Havsgaard
+
+Named as a former megachurch pastor accused of trafficking children from Romania (transcribed Paul Havsgard).
+
+*Related: C-7944*
+
+---
+
+**N-10000** Turning Point USA
+
+Organization at the center of the faith, funding, security and DOGE claims.
+
+*Related: C-7932, C-7933, C-7956, C-7957, C-7960, C-7961, C-7971, C-7972, C-7974*
+
+---
+
+**N-10024** Kirk Assassination Investigation Timeline
+
+Existing timeline topic reused.
+
+*Related: C-7915, C-7953, C-7954*
+
+---
+
+**N-10063** Gaza
+
+Place referenced in the host's characterisation of Joel Berry.
+
+*Related: C-7947*
+
+---
+
+**N-10078** TPUSA Financial Apparatus Investigation
+
+Existing topic reused for the finances claims.
+
+*Related: C-7972, C-7974*
+
+---
+
+**N-10110** Tyler Robinson Evidence Gaps
+
+Existing topic reused.
+
+*Related: C-7970*
+
+---
+
+**N-10132** TPUSA DOGE Department / Financial Audit
+
+Existing topic reused.
+
+*Related: C-7971*
+
+---
+
+**N-10149** Hospital Routing Discrepancy
+
+Existing topic reused.
+
+*Related: C-7912, C-7913*
+
+---
+
+**N-10196** UVU Hospital Charlie Kirk Medical File Access Question
+
+Existing topic reused.
+
+*Related: C-7913*
+
+---
+
+**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+
+Existing topic reused.
+
+*Related: C-7931*
+
+---
+
+**N-10210** NAR (New Apostolic Reformation) Infiltration Question
+
+Existing topic reused.
+
+*Related: C-7922, C-7923, C-7924, C-7931*
+
+---
+
+**N-10224** UVU Event Approval Timeline Anomaly
+
+Existing topic reused.
+
+*Related: C-7957*
+
+---
+
+**N-10231** TPUSA / Candace Owens NDA and Blexit Question
+
+Existing topic reused.
+
+*Related: C-7952*
+
+---
+
+**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations
+
+Existing topic reused.
+
+*Related: C-7948*
+
+---
+
+**N-10251** TPUSA Faith-Angle Investigation
+
+Existing topic reused.
+
+*Related: C-7927*
+
+---
+
+**N-10253** Egyptian Military Plane Tracking Investigation
+
+Existing topic reused for the Wednesday preview.
+
+*Related: C-7959*
+
+---
+
+**N-10319** .30-06 Forensic Narrative Validity
+
+Existing topic reused.
+
+*Related: C-7955, C-7969*
+
+---
+
+**N-10398** Turning Point USA Faith Structure
+
+Existing topic reused.
+
+*Related: C-7927, C-7932, C-7933, C-7934, C-7973*
+
+---
+
+**N-10401** Romania / Eastern Europe Trafficking Cluster
+
+Existing topic reused.
+
+*Related: C-7943, C-7944*
+
+---
+
+**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+
+Existing topic reused.
+
+*Related: C-7948*
+
+---
+
+**N-10434** Charlie Kirk DOGE Pre-Death Establishment
+
+Existing topic reused.
+
+*Related: C-7971*
+
+---
+
+**N-10436** TPUSA Faith Military Infiltration Claim
+
+Existing topic reused.
+
+*Related: C-7928, C-7929, C-7930, C-7935*
+
+---
+
+**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+
+Existing topic reused.
+
+*Related: C-7955*
+
+---
+
+**N-10573** Timpanogos Hospital Evidence Question
+
+Existing topic reused.
+
+*Related: C-7914, C-7915, C-7917*
+
+---
+
+**N-10576** Timpanogos Hospital Records / Chain of Custody
+
+Existing topic reused.
+
+*Related: C-7916*
+
+---
+
+**N-10840** UVU Ambulance Denial Discrepancy
+
+Existing topic reused.
+
+*Related: C-7956*
+
+---
+
+**N-10887** Las Vegas
+
+Place of the 2017 shooting.
+
+*Related: C-7936, C-7937, C-7938*
+
+---
+
+**N-11064** Ben Shapiro and Charlie Kirk Friendship Narrative
+
+Existing topic reused.
+
+*Related: C-7949*
+
+---
+
+**N-11099** Candace Owens Australia Visa Review
+
+Existing topic reused.
+
+*Related: C-7946*
+
+---
+
+**N-11147** January 6 Federal Coordination Claim
+
+Existing topic reused.
+
+*Related: C-7918, C-7920, C-7922, C-7923, C-7924*
+
+---
+
+**N-811** Loren Cunningham
+
+Founder of Youth With A Mission; first named in the Wallnau clip at 00:13:31 in episode 29.
+
+*Related: C-7926*
+
+---
+
+**N-812** Bill Bright
+
+Named in the Wallnau clip at 00:13:31 in episode 29 as the other party to the 2000 conversation.
+
+*Related: C-7926*
+
+---
+
+**N-813** Carl Wallnau
+
+Father of Lance Wallnau; first named by the host at 00:17:09 in episode 29.
+
+*Related: C-7930*
+
+---
+
+**N-11158** Cult Accusation Against Candace Owens Audience
+
+Node Type: Topic
+Keri Smith's and others' claims that the host's show uses cult tactics, and the host's rebuttal.
+
+*Related: C-7964, C-7965, C-7966, C-7967*
+
+---
+
+**N-11159** Candace Owens CNN Interview and Interview Statements
+
+Node Type: Topic
+Dispute over whether the host gave interviews after Charlie Kirk's death and what the CNN interview with Elle Reeve covered.
+
+*Related: C-7975, C-7976, C-7977*
+
+---
 
 ### Person Nodes
 
@@ -440,6 +884,14 @@ Investigative Pressure: Medium
 
 ---
 
+**N-11171** Kirk "Internet DOGE" Money-Tracing Effort
+
+The host says Charlie established DOGE (transcribed "DOAJ") after realizing something was wrong with the money. Introduced here; ep54 calls it "DOVE".
+
+*Related: C-7971*
+
+---
+
 ## V. Claim Register
 
 **C-1652** Lance Wallnau's November 6, 2020 Facebook Post Urged "Stop the Steal"
@@ -629,6 +1081,1086 @@ Investigative Direction: Verify via FOIA requests, hospital records, contemporan
 
 ---
 
+**C-7911** Host Says Only Zionists Seem to Believe the Fed Story
+
+Claim Timestamp: 00:01:00
+
+Claim: The host says it is odd that the only people who seem to believe the Fed story are Zionists, and that their panic suggests she is getting closer to something big.
+
+Transcript Snippet: it's kind of weird how the only people that seem to believe the Fed story are Zionists
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: This is a sweeping group characterisation; it could only be tested by surveying who publicly endorsed the official account.
+
+---
+
+**C-7912** Host Says Timpanogos Was Trauma Three While UV Hospital Was Trauma One
+
+Claim Timestamp: 00:01:46
+
+Claim: The host says Timpanogos Hospital, where Charlie Kirk was taken, was further away and less equipped than UV Hospital, which she describes as a trauma one center against Timpanogos as trauma three.
+
+Transcript Snippet: UV was a trauma one, and Timpanogos was trauma three
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10149, N-10239
+Tags: relevance:core
+Investigative Direction: Check the Utah trauma center designations for both hospitals and the distance from the UVU campus.
+
+---
+
+**C-7913** Host Says Others Told Her Charlie Was Definitely at UV Hospital
+
+Claim Timestamp: 00:01:46
+
+Claim: The host says that after the Timpanogos routing became public she started hearing from other people that Charlie Kirk was definitely at UV Hospital.
+
+Transcript Snippet: we started hearing from other people that he was definitely at UV Hospital
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10149, N-10196
+Tags: relevance:core
+Investigative Direction: Identify the people who told the host this and compare against UV Hospital and EMS records.
+
+---
+
+**C-7914** Host Says Nobody Has Shown Charlie Arriving at Timpanogos Despite News Cameras
+
+Claim Timestamp: 00:03:01
+
+Claim: The host says no one has produced footage of the vehicles pulling up at Timpanogos, even though news cameras, oddly from a New York news channel, were waiting outside.
+
+Transcript Snippet: not a single person who captured them pulling up, nothing, despite the fact that there were news cameras outside waiting, oddly from like new a New York news channel
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10573
+Tags: relevance:core
+Investigative Direction: Identify the New York news crew present at Timpanogos and request its raw footage and logs.
+
+---
+
+**C-7915** Host Says Nothing Fixes the Time Charlie Arrived at the Hospital
+
+Claim Timestamp: 00:03:01
+
+Claim: The host says nothing publicly available lets her build onto her timeline the time at which Charlie arrived at the hospital.
+
+Transcript Snippet: we have not seen anything regarding that that we can build incompetently on our timeline that would let us know what time in particular Charlie arrived at the hospital
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10024, N-10573
+Tags: relevance:core
+Investigative Direction: Obtain the ambulance or vehicle arrival log, hospital intake record and 911 timestamps for the Timpanogos arrival.
+
+---
+
+**C-7916** Host Says Feds Also Moved on Footage Outside the Hospital
+
+Claim Timestamp: 00:03:01
+
+Claim: The host says she finds it amiss that the Feds moved to grab footage both inside and outside the hospital immediately, adding the outside footage to her earlier tip about the inside footage.
+
+Transcript Snippet: the Feds moved to grab the footage inside of the hospital immediately and outside of the hospital immediately
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10239, N-10576
+Supports: C-1666
+Tags: relevance:core
+Investigative Direction: Ask the hospital and any federal agency for evidence receipts and chain-of-custody records for exterior and interior video.
+
+---
+
+**C-7917** Host Asks for Footage of the Black SUV at the Hospital via Tip Line
+
+Claim Timestamp: 00:04:10
+
+Claim: The host asks anyone who has footage of a black SUV pulling up at the hospital to send it to moretips@candaceowens.com.
+
+Transcript Snippet: If you maybe were somebody who has footage and saw that black SUV pull up at the hospital, please get that to us at moretips@candaceowens. com
+
+Anchored Artifacts: A-2910.1
+Mentions: N-3
+Related Nodes: N-10573, N-10239
+Tags: relevance:core
+Investigative Direction: Check what, if anything, was later received and published in response to this request.
+
+---
+
+**C-7918** Host Says Fed Strategy Is to Put Out a Sloppy Narrative
+
+Claim Timestamp: 00:04:24
+
+Claim: The host says she is starting to wonder whether every major publicly traumatizing event was organized by the Feds, and that their usual strategy is to get out a sloppy narrative rather than blame themselves.
+
+Transcript Snippet: I'm starting to wonder if every major publicly traumatizing event may have actually just been organized by the Feds
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11147
+Tags: relevance:tangential
+Investigative Direction: Speculative generalization; not testable as stated beyond individual events.
+
+---
+
+**C-7919** Baker Says His Federal Source Replied Holy F and She Is One of Us
+
+Claim Timestamp: 00:08:56
+
+Claim: In the Glenn Beck interview played on air, Steve Baker says he took what he found to a source in a top federal investigative agency, who after about two hours replied "Holy F" and then "She's one of us." He says he pulled the thread two weeks earlier.
+
+Transcript Snippet: After they looked at it for about 2 hours, the response that I got back was "Holy F." And then the follow-up response was "She's one of us."
+
+Anchored Artifacts: A-1367.1
+Mentions: N-241, N-242, N-243
+Related Nodes: N-10241
+Supports: C-1655
+Tags: relevance:context
+Investigative Direction: Ask Baker or Blaze Media to identify the agency level and the date he first pulled the thread; seek documentary support.
+
+---
+
+**C-7920** Host Says Kirk Investigation May Sweep Up Same People as January 6
+
+Claim Timestamp: 00:09:40
+
+Claim: The host says many people will get swept up in the Charlie Kirk investigation, perhaps the same people who will be swept up over January 6.
+
+Transcript Snippet: A lot of people are going to get swept up in this investigation, perhaps the same people that are going to get swept up in the January 6th.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11147
+Tags: relevance:context
+Investigative Direction: Predictive; track later charging, resignations or testimony tied to both matters.
+
+---
+
+**C-7921** Host Says Blaze Editor Was Stopped by Police at Kirkhoff Home
+
+Claim Timestamp: 00:10:32
+
+Claim: The host says Shawnie Kirkhoff lives in Alexandria, Virginia and is apparently under the watch of law enforcement, because the Blaze News editor-in-chief drove to her house and was instantly stopped by local police before being let go.
+
+Transcript Snippet: The Blaze News editor-in-chief decided to pull up to her house to just kind of see if any action was happening at her home. And then he instantly got stopped by local police before they allowed him to leave.
+
+Anchored Artifacts: A-1368.1
+Mentions: N-243, N-244
+Related Nodes: N-10241
+Tags: relevance:context
+Investigative Direction: Ask Blaze News whether its editor visited the address and whether a police contact was recorded; request the local police log.
+
+---
+
+**C-7922** Host Says Four of Six January 6 Permits Went to Charismatic Christian Groups
+
+Claim Timestamp: 00:12:07
+
+Claim: The host says four of the six protest permits issued for January 6 were issued to independent charismatic Christian groups.
+
+Transcript Snippet: four out of the six uh protest permits that were issued on January 6th were issued to independent charismatic Christian groups
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11147, N-10210
+Tags: relevance:context
+Investigative Direction: Check the National Park Service permit list for January 6, 2021 and the applicants' affiliations.
+
+---
+
+**C-7923** Host Says Fifteen Pastors Surrounded Trump Before January 6 Saying the War Was Spiritual
+
+Claim Timestamp: 00:12:07
+
+Claim: The host says fifteen pastors and leaders surrounded Donald Trump at the White House before the January 6 rally and told him the war was now spiritual.
+
+Transcript Snippet: 15 of these pastors and leaders surrounded Trump at the White House leading up to the January 6th um Stop the Steal rally telling him that the war was now spiritual
+
+Anchored Artifacts: 
+Mentions: N-5, N-3
+Related Nodes: N-10210, N-11147
+Tags: relevance:context
+Investigative Direction: Find the White House visitor logs or published photos for the meeting and the attendee list.
+
+---
+
+**C-7924** Host Cites Article Saying NAR Drove January 6 and Naming Wallnau and Feucht
+
+Claim Timestamp: 00:12:07
+
+Claim: The host reads the title of an article saying the New Apostolic Reformation drove the January 6 riots and asking why the House Select Committee overlooked it, and says Lance Wallnau and Sean Feucht are named in it.
+
+Transcript Snippet: There's an article about that. The new apostolic reformation drove the January 6th riots. So, why was it overlooked by the House Select Committee?
+
+Anchored Artifacts: A-2911.1
+Mentions: N-245, N-209
+Related Nodes: N-10210, N-11147
+Tags: relevance:context
+Investigative Direction: Identify the publication and author of the article, confirm its title and whether Wallnau and Feucht are named.
+
+---
+
+**C-7925** Host Says Charlie Became Mesmerized by the Seven Mountain Mandate and Befriended Wallnau
+
+Claim Timestamp: 00:13:31
+
+Claim: The host says Charlie Kirk became very interested in, even mesmerized by, the Seven Mountain Mandate and became friends with Lance Wallnau.
+
+Transcript Snippet: I would say like he became mesmerized by the seven mountain mandate. He became friends with Lance Wallnau.
+
+Anchored Artifacts: 
+Mentions: N-1, N-245
+Related Nodes: N-10242
+Tags: relevance:core
+Investigative Direction: Look for public photos, posts or event appearances of Kirk with Wallnau and any Kirk remarks about the Seven Mountain Mandate.
+
+---
+
+**C-7926** Wallnau Clip Traces Mandate to a 2000 Talk with Loren Cunningham and Bill Bright
+
+Claim Timestamp: 00:13:31
+
+Claim: In the clip played on air, Lance Wallnau says the Seven Mountain Mandate began with a conversation in 2000 with Loren Cunningham, founder of Youth With A Mission, who described a conversation with Bill Bright in which each was told by the Lord that he had a message for the other.
+
+Transcript Snippet: it started with a conversation I had in the year 2000. I had been talking to Loren Cunningham, who's the founder of Youth With A Mission.
+
+Anchored Artifacts: A-1365.1
+Mentions: N-245, N-811, N-812
+Related Nodes: N-10242
+Supports: C-1653
+Tags: relevance:context
+Investigative Direction: Locate the original Wallnau video and compare with other tellings of the Cunningham and Bright story.
+
+---
+
+**C-7927** Host Says Turning Point Faith Keeps Coming Up Wherever She Investigates
+
+Claim Timestamp: 00:16:25
+
+Claim: The host says that everywhere she is investigating, Turning Point Faith keeps coming up.
+
+Transcript Snippet: Turning Point Faith, everywhere that I'm investigating, Turning Point Faith keeps coming up.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10398, N-10251
+Tags: relevance:core
+Investigative Direction: List the specific leads and sources the host has tied to Turning Point Faith across the series.
+
+---
+
+**C-7928** Host Says Many Mainstream Pastors Come from High-Ranking Military Families
+
+Claim Timestamp: 00:16:25
+
+Claim: The host says she notices that many mainstream pastors and preachers come from high-ranking military families, citing Frank Turek's Air Force background and Rob McCoy's naval background, which she links to psychological operations.
+
+Transcript Snippet: a lot of these mainstream pastors and preachers actually come from high-ranking military families
+
+Anchored Artifacts: 
+Mentions: N-7, N-17, N-3
+Related Nodes: N-10436
+Supports: C-1505
+Tags: relevance:context
+Investigative Direction: Check biographies of the named pastors against military service records and family history.
+
+---
+
+**C-7929** Host Says Wallnau Graduated from a Military Academy
+
+Claim Timestamp: 00:17:09
+
+Claim: The host says Lance Wallnau graduated from a military academy.
+
+Transcript Snippet: Lance Wallnau, he's no different. He graduated from a military academy.
+
+Anchored Artifacts: 
+Mentions: N-245
+Related Nodes: N-10436
+Tags: relevance:context
+Investigative Direction: Check Wallnau's published biography for the academy and graduation year.
+
+---
+
+**C-7930** Host Says Carl Wallnau Was an Air Force Major Who Served Under Patton
+
+Claim Timestamp: 00:17:09
+
+Claim: The host says Lance Wallnau's father Carl Wallnau was a major in the US Air Force who served under General Patton and later worked as a field engineer for Standard Oil installing liquid propane systems in places such as Haiti, Cuba and the Dominican Republic.
+
+Transcript Snippet: His father, Carl Wallnau, was a major in the United States Air Force, okay? Wallnau served under General Patton. After the war, he then continued his adventures as a field engineer for Standard Oil
+
+Anchored Artifacts: 
+Mentions: N-245, N-813
+Related Nodes: N-10436
+Tags: relevance:context
+Investigative Direction: Locate Carl Wallnau's service record or obituary and any Standard Oil employment record.
+
+---
+
+**C-7931** Host Says Turek Did Not Warn Charlie About NAR Infiltration
+
+Claim Timestamp: 00:18:06
+
+Claim: The host says that after calling NAR a cult, Frank Turek did not warn Charlie Kirk as NAR people began to infiltrate Turning Point.
+
+Transcript Snippet: it didn't make him go warn Charlie about this in any way as these people began to infiltrate his organization
+
+Anchored Artifacts: A-1366.1
+Mentions: N-7, N-1
+Related Nodes: N-10210, N-10209
+Tags: relevance:context
+Investigative Direction: Ask Turek or Kirk's associates whether any warning was given; look for recorded conversations.
+
+---
+
+**C-7932** Host Relays Administration-Adjacent Person Asking When Turning Point Became Faith-Focused
+
+Claim Timestamp: 00:19:04
+
+Claim: The host says a person extremely close to the current administration told her, after being at Charlie's memorial, that Turning Point used to be about free markets and capitalism and suddenly became faith, faith, faith, with pastors everywhere.
+
+Transcript Snippet: She said, "When did Turning Point become so faith-focused?"
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10398, N-10000
+Tags: relevance:core
+Investigative Direction: Compare Turning Point event agendas over time and identify when faith programming expanded.
+
+---
+
+**C-7933** Host Says Faith-Department Sources Say Wallnau Funded Turning Point Faith
+
+Claim Timestamp: 00:19:04
+
+Claim: The host says sources within Turning Point's faith department told her Lance Wallnau was running the show behind the scenes through funding and put a ton of money into Turning Point USA Faith operations, working with Rob McCoy.
+
+Transcript Snippet: Sources within Turning Point's faith department tell me that Lance was running the show behind the scenes through funding.
+
+Anchored Artifacts: 
+Mentions: N-245, N-17, N-3
+Related Nodes: N-10242, N-10398, N-10000
+Tags: relevance:core
+Investigative Direction: Obtain donor or ministry records, Turning Point Faith budgets, or testimony from the faith-department sources.
+
+---
+
+**C-7934** Host Says Wallnau Was Friends with McCoy, Toured with Turning Point Faith and Knew Charlie
+
+Claim Timestamp: 00:20:37
+
+Claim: The host says Wallnau is friends with Rob McCoy, eventually did tour stops with Turning Point Faith, and knew Charlie, who he said was his friend.
+
+Transcript Snippet: He's friends with Rob Rob McCoy, um and he eventually did tour stops with Turning Point Faith. And he knew Charlie. He said Charlie was his friend.
+
+Anchored Artifacts: 
+Mentions: N-245, N-17, N-1
+Related Nodes: N-10398
+Tags: relevance:core
+Investigative Direction: Check tour announcements for Turning Point Faith stops featuring Wallnau and public statements by Wallnau about Kirk.
+
+---
+
+**C-7935** Host Says Mel on X Has Done Good Work on the Faith-Military Constellation
+
+Claim Timestamp: 00:20:37
+
+Claim: The host says the Village Crazy Lady, Mel on X, has been doing great work on the faith-military constellation, which the host proposes calling the militant faith pipeline.
+
+Transcript Snippet: I told you guys about Mel on X, she's been doing great work on this, but you need to start investigating this faith mil- military constellation.
+
+Anchored Artifacts: 
+Mentions: N-66, N-3
+Related Nodes: N-10436
+Tags: relevance:context
+Investigative Direction: Review Mel's X threads and which claims in them the host relies on.
+
+---
+
+**C-7936** Host Says 2017 Las Vegas Shooting Killed 58 and the Official Story Was Lone Gunman Paddock
+
+Claim Timestamp: 00:21:31
+
+Claim: The host says the October 1, 2017 Las Vegas shooting killed 58 people and injured more than 600, and that the official account was a lone shooter, Stephen Paddock.
+
+Transcript Snippet: 58 people were murdered. More than 600 others were injured. And they told us that it was just a lone shooter, Stephen Paddock
+
+Anchored Artifacts: 
+Mentions: N-230
+Related Nodes: N-10887
+Tags: relevance:tangential
+Investigative Direction: Compare with the official casualty figures from the Las Vegas investigation record.
+
+---
+
+**C-7937** Host Says Conspiracy Theorists Had Ton of Evidence Las Vegas Was a Military Operation
+
+Claim Timestamp: 00:21:31
+
+Claim: The host says conspiracy theorists claimed the Las Vegas shooting was a military operation and that there was a ton of evidence to support it.
+
+Transcript Snippet: Conspiracy theorists said it was a military operation and there was a ton of evidence to support that, okay?
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10887
+Tags: relevance:tangential
+Investigative Direction: The host cites no specific evidence here; ask which evidence she means.
+
+---
+
+**C-7938** Host Says About 40 Las Vegas Shooting Attendees Were at the Borderline Bar
+
+Claim Timestamp: 00:21:31
+
+Claim: The host says that on November 7, 2018, about 40 people who had been at the Las Vegas shooting were at the Borderline bar in Thousand Oaks on the night of the shooting there.
+
+Transcript Snippet: Oddly, uh about 40 people who were at the Las Vegas shooting were all at the Borderline bar one night
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10240, N-10887
+Tags: relevance:context
+Investigative Direction: Check contemporaneous reporting on how many Las Vegas survivors were at the Borderline Bar that night.
+
+---
+
+**C-7939** Host Says the Borderline Shooter's Family Knows Rob McCoy
+
+Claim Timestamp: 00:21:31
+
+Claim: The host says the Marine who carried out the Borderline Bar shooting had a family that knows Rob McCoy well and that McCoy is friends with that Marine.
+
+Transcript Snippet: a Marine who his family knows Rob McCoy well, Rob McCoy is friends with that Marine
+
+Anchored Artifacts: 
+Mentions: N-17, N-3
+Related Nodes: N-10240
+Tags: relevance:context
+Investigative Direction: Look for McCoy's statements or local reporting on a connection to the shooter's family; the host's wording shifts between the Marine and his mother.
+
+---
+
+**C-7940** Host Says a Borderline Victim Was a 27-Year-Old Navy Veteran Who Survived Las Vegas
+
+Claim Timestamp: 00:22:29
+
+Claim: The host says one victim of the Borderline Bar shooting was a 27-year-old Navy veteran who had survived the Las Vegas shooting, and asks whether he was a victim or a target.
+
+Transcript Snippet: a victim of that bar shooting was a 27-year-old Navy veteran who had survived the Las Vegas shooting
+
+Anchored Artifacts: A-1377.1
+Mentions: N-3
+Related Nodes: N-10240
+Tags: relevance:context
+Investigative Direction: Confirm the victim's identity, age and service from 2018 press coverage.
+
+---
+
+**C-7941** Host Relays Survivor Saying the Group Was Having a Las Vegas Reunion
+
+Claim Timestamp: 00:22:29
+
+Claim: The host says one survivor said the group was meeting up for a second time in about a year in a sort of Las Vegas reunion, which is why they were all at the bar.
+
+Transcript Snippet: one survivor said that the group of them were meeting up for a second time in about a year having, I guess, like a little Las Vegas reunion and that's why they were all there
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10240
+Tags: relevance:context
+Investigative Direction: Identify the survivor and the interview in which this was said.
+
+---
+
+**C-7942** Host Says McCoy Was Elected Mayor of Thousand Oaks a Month After the Borderline Shooting
+
+Claim Timestamp: 00:23:17
+
+Claim: The host says that a month after the Borderline shooting Rob McCoy was elected mayor of Thousand Oaks and served for a year.
+
+Transcript Snippet: a month after this, Rob McCoy then gets elected mayor of um of Thousand Oaks. He's mayor for a year.
+
+Anchored Artifacts: 
+Mentions: N-17
+Related Nodes: N-10240
+Tags: relevance:context
+Investigative Direction: Check Thousand Oaks city council records for the date McCoy became mayor and his term.
+
+---
+
+**C-7943** Host Says She Posted Over the Weekend About Romanian Sex Trafficking Tied to a California Church
+
+Claim Timestamp: 00:23:17
+
+Claim: The host says she shared something over the weekend on her X feed about Romanian sex trafficking involving one of the big California churches.
+
+Transcript Snippet: I shared something over the weekend about Romanian sex trafficking on my on my X feed
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10401
+Tags: relevance:context
+Investigative Direction: Locate the host's X post from the weekend of November 8 to 9, 2025 and the church and sources it names.
+
+---
+
+**C-7944** Host Names Paul Havsgard as a Former Megachurch Pastor Accused of Trafficking Children from Romania
+
+Claim Timestamp: 00:27:04
+
+Claim: The host says a former California megachurch pastor, Paul Havsgard, was accused of trafficking children from Romania, and calls his missionary background an element worth noting.
+
+Transcript Snippet: there's been another megachurch pastor that was accused of trafficking children. Okay, of trafficking children from Romania.
+
+Anchored Artifacts: 
+Mentions: N-462
+Related Nodes: N-10401
+Supports: C-7943
+Tags: relevance:context
+Investigative Direction: Retrieve court filings or press reporting on the allegations against Havsgard and check the host's account.
+
+---
+
+**C-7945** Host Says Her Show Hit Number One Globally the Prior Week
+
+Claim Timestamp: 00:28:07
+
+Claim: The host says her show hit number one globally the previous week, which triggered an all-out online attack.
+
+Transcript Snippet: When my show hit number one globally last week, it was just an all-out virtual war.
+
+Anchored Artifacts: 
+Mentions: N-3
+Supports: C-1617
+Tags: relevance:context
+Investigative Direction: Check Podscribe or Spotify and Apple chart data for the week.
+
+---
+
+**C-7946** Host Says Critics Went After Her Sponsors and Got Her Banned from Australia
+
+Claim Timestamp: 00:28:07
+
+Claim: The host says critics shut her down, went after her sponsors, emailed people and got her banned from Australia.
+
+Transcript Snippet: You went after my sponsors. You emailed people. You got me banned from Australia.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11099
+Tags: relevance:context
+Investigative Direction: Check Australian government records on her visa status and any lobbying that preceded it.
+
+---
+
+**C-7947** Host Alleges Joel Berry Cheered Child Deaths and Church Bombings and Denied Gaza Christians Are Human
+
+Claim Timestamp: 00:29:06
+
+Claim: The host alleges that Joel Berry cheered on kids being killed and churches being bombed and insinuated that even Christians in Gaza are not really human beings and are all supporting Hamas.
+
+Transcript Snippet: I am never on the side of people that cheer on kids being killed and uh churches being bombed and and insinuate as he did that even the Christians in Gaza should uh aren't really human beings
+
+Anchored Artifacts: A-1372.1
+Mentions: N-246
+Related Nodes: N-10063
+Tags: relevance:context
+Investigative Direction: Identify the specific Berry posts the host is characterising and compare their wording.
+
+---
+
+**C-7948** Host Says Shapiro Lied to and Pressured Megyn Kelly on Stage
+
+Claim Timestamp: 00:29:44
+
+Claim: The host says that the prior week Ben Shapiro pressed Megyn Kelly on stage and, in her words, lied and tried to pressure her with the lie.
+
+Transcript Snippet: we watched Ben press Megan on stage. Very strange to see him do something like that, to see him just lie and try to pressure her with the lie
+
+Anchored Artifacts: 
+Mentions: N-97, N-46, N-3
+Related Nodes: N-10237, N-10406
+Tags: relevance:core
+Investigative Direction: Review the video of the stage exchange and identify the statement the host calls a lie.
+
+---
+
+**C-7949** Host Says Her Screenshots Showed Charlie Felt Shapiro Had Prevented Him from Coming Up
+
+Claim Timestamp: 00:29:44
+
+Claim: The host says she showed screenshots of what Charlie said and told viewers that, as Charlie felt, Shapiro had kind of prevented him from coming up.
+
+Transcript Snippet: showed you screenshots of what Charlie had said, said told you honestly that he had kind of prevented uh Charlie from coming up and that was certainly how Charlie felt
+
+Anchored Artifacts: A-1370.1
+Mentions: N-97, N-1, N-3
+Related Nodes: N-11064
+Supports: C-1642
+Tags: relevance:core
+Investigative Direction: Obtain the full text thread and compare with Shapiro's and Daily Wire's account of the relationship.
+
+---
+
+**C-7950** Host Says the Texts Were Pulled Live from Her Phone and Are Not Made Up
+
+Claim Timestamp: 00:31:24
+
+Claim: The host says she looked up the messages on her phone live on air and that they are not made up, denying that she forged them.
+
+Transcript Snippet: Just looked up on my phone. These are not made up text messages.
+
+Anchored Artifacts: A-1370.1
+Mentions: N-247, N-3
+Contradicts: C-1657
+Tags: relevance:core
+Investigative Direction: Forensic review of the original device thread and its metadata would settle authenticity.
+
+---
+
+**C-7951** Host Says She Was Clear from the Start: No Fakeness and No Gayness
+
+Claim Timestamp: 00:32:35
+
+Claim: The host says that at the beginning of the whole series she was clear it would have no fakeness and no gayness, and that people cannot drop a million dollars and rewrite history.
+
+Transcript Snippet: I was very clear at the beginning of this entire thing, no fakeness and no gayness.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Catchphrase framing; no independent test beyond the evidence she publishes.
+
+---
+
+**C-7952** Host Says Allie Beth Stuckey Is Working with Alyssa Cordova
+
+Claim Timestamp: 00:32:54
+
+Claim: The host says she is surprised that Allie Beth Stuckey is working with Alyssa Cordova.
+
+Transcript Snippet: I'm very surprised she's working with Alyssa Cordova
+
+Anchored Artifacts: 
+Mentions: N-232, N-234, N-3
+Related Nodes: N-10231
+Tags: relevance:context
+Investigative Direction: Check Stuckey's and Cordova's public collaborations and dates.
+
+---
+
+**C-7953** Host Says She Did the Work Herself and People Sent Her Material for the Timeline
+
+Claim Timestamp: 00:34:48
+
+Claim: The host says she did all the work herself, that people sent her material, and that her team then put together a timeline, and that she did not ask Allie Stuckey for any assistance.
+
+Transcript Snippet: I did all the work um and people sent me stuff, and then we put together a timeline.
+
+Anchored Artifacts: 
+Mentions: N-232, N-3
+Related Nodes: N-10024
+Tags: relevance:context
+Investigative Direction: Compare the published timeline's sources with the tip submissions the host refers to.
+
+---
+
+**C-7954** Host Says People Praised Charlie Then Walked Away as He Bled Out
+
+Claim Timestamp: 00:34:48
+
+Claim: The host says the people she has been looking into have been caught lying, and that one described as amazing walked away from Charlie as he was bleeding out; the transcript does not name the person.
+
+Transcript Snippet: He was so amazing, but he walked away from Charlie as he was bleeding out.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10024
+Tags: relevance:core
+Investigative Direction: Identify who the host means and match the statement to security and hospital timelines.
+
+---
+
+**C-7955** Host Says Necks Do Not Stop a .30-06 Bullet
+
+Claim Timestamp: 00:35:35
+
+Claim: The host says that in real life people's necks do not stop .30-06 bullets.
+
+Transcript Snippet: real life Agatha Christie stuff, uh in real life, people's necks don't stop.30-06 bullets
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10319, N-10447
+Tags: relevance:core
+Investigative Direction: Obtain the autopsy and forensic ballistics reports and expert statements on a .30-06 striking neck tissue.
+
+---
+
+**C-7956** Host Says a Multimillion-Dollar Security Detail Would Not Forget an Ambulance Behind You
+
+Claim Timestamp: 00:35:35
+
+Claim: The host says that in real life a security detail costing millions of dollars would not leave you like a sitting duck and forget to have an ambulance behind you.
+
+Transcript Snippet: when you spend millions of dollars on security on your security detail, they don't have you sitting like a sitting duck and forget to have an ambulance behind you
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10840, N-10000
+Supports: C-1616
+Tags: relevance:core
+Investigative Direction: Review Turning Point's security contract, event medical plan and UVU emergency-services approvals.
+
+---
+
+**C-7957** Host Says She Worked for Turning Point and Knows the Timeline Does Not Make Sense
+
+Claim Timestamp: 00:35:35
+
+Claim: The host says she worked for Turning Point USA and knows what does not make sense in the timeline of how this event came together.
+
+Transcript Snippet: I worked for Turning Point USA, and I know what does not make sense in terms of the timeline of how this event came together
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000, N-10224
+Tags: relevance:core
+Investigative Direction: Compare her recollection of normal advance planning with the UVU event approval timeline.
+
+---
+
+**C-7958** Host Says Nothing in Grok's Account Is Real
+
+Claim Timestamp: 00:37:53
+
+Claim: The host says none of what Grok stated about her alleged accusations is real and that many lies are being made up about her.
+
+Transcript Snippet: none of this is real. Like, you guys are exhausting, not just Allie Stuckey
+
+Anchored Artifacts: A-1373.1
+Mentions: N-248, N-3
+Contradicts: C-1661
+Tags: relevance:core
+Investigative Direction: Compare the Grok post with the host's actual statements across the series.
+
+---
+
+**C-7959** Host Says Wednesday's Episode Will Reveal Findings on Egyptian Military Planes
+
+Claim Timestamp: 00:37:53
+
+Claim: The host says she will tell viewers on Wednesday what the team discovered about the Egyptian military, which she says will put more people on the run.
+
+Transcript Snippet: when I tell you on Wednesday what we discovered about those Egyptian military I think some more people are going to be on the run
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10253
+Tags: relevance:core
+Investigative Direction: Check the Wednesday, November 12, 2025 episode for the Egyptian aircraft findings.
+
+---
+
+**C-7960** Host Says Turning Point Said It Is Not Canceling Tucker Carlson
+
+Claim Timestamp: 00:38:20
+
+Claim: The host says Turning Point USA said it is not canceling Tucker Carlson and that he is still speaking.
+
+Transcript Snippet: Turning Point USA, credit to them, said, "We are not canceling Tucker Carlson."
+
+Anchored Artifacts: 
+Mentions: N-22, N-249, N-3
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Find the Turning Point statement and the AmericaFest speaker lineup.
+
+---
+
+**C-7961** Levin Reads Tucker's Text Saying Turning Point Asked Him to Debate Levin in Scottsdale
+
+Claim Timestamp: 00:39:10
+
+Claim: In the audio played on air, Mark Levin reads a text he says Tucker Carlson sent at 10:16 a.m., saying Turning Point leadership has asked Carlson to debate Levin at their December event in Scottsdale.
+
+Transcript Snippet: The leadership at Turning Point has asked me to debate you at their event in Scottsdale in December.
+
+Anchored Artifacts: A-1375.1
+Mentions: N-249, N-22
+Related Nodes: N-10000
+Supports: C-1663
+Tags: relevance:context
+Investigative Direction: Check the Turning Point event program for a Levin and Carlson debate and the text's authenticity.
+
+---
+
+**C-7962** Levin Says Tucker Attacked His Stepson Who Is Serving the Trump Administration
+
+Claim Timestamp: 00:41:45
+
+Claim: In the audio played on air, Mark Levin says Tucker Carlson attacked his stepson, who is serving President Trump on his second tour, and in a safe room while missiles passed overhead.
+
+Transcript Snippet: You stabbed him in the back while he's serving President Trump on his second tour, while he's in safe rooms
+
+Anchored Artifacts: A-1375.1
+Mentions: N-249, N-22
+Tags: relevance:context
+Investigative Direction: Identify the stepson and the Carlson remarks Levin refers to.
+
+---
+
+**C-7963** Host Calls Reactions a Full Zionist Crash Out Since Charlie Died
+
+Claim Timestamp: 00:42:47
+
+Claim: The host says this is a full Zionist crash out since Charlie died and that she feels they sent a real threat to the matrix they established.
+
+Transcript Snippet: this is like a full Zionist crash out since Charlie died
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:tangential
+Investigative Direction: Sweeping group characterization; compare with the specific named actors she cited.
+
+---
+
+**C-7964** Host Says Keri Smith Claims Former Cult Mindset and Has Watched Ten Episodes
+
+Claim Timestamp: 00:44:03
+
+Claim: The host says Keri Smith, host of Deprogrammed, says she was formerly of a cult mindset, is thus an expert, and has watched ten episodes of the host's show.
+
+Transcript Snippet: she was formerly of a cult mindset and so she's an expert on this. And she has now watched 10 episodes of this show.
+
+Anchored Artifacts: A-1376.1
+Mentions: N-250, N-3
+Related Nodes: N-11158
+Tags: relevance:context
+Investigative Direction: Check Smith's Deprogrammed episode for her stated background and which episodes she says she watched.
+
+---
+
+**C-7965** Smith Says She Saw Charlie Kirk Get Shot in the Throat
+
+Claim Timestamp: 00:45:46
+
+Claim: In the audio played on air, Keri Smith says that what happened to her was that she saw Charlie Kirk get shot in the throat.
+
+Transcript Snippet: what happened to me was that I I saw Charlie Kirk get shot in the throat
+
+Anchored Artifacts: A-1376.1
+Mentions: N-250, N-1
+Related Nodes: N-11158
+Tags: relevance:context
+Investigative Direction: Place the statement in the Deprogrammed episode and what it says she watched.
+
+---
+
+**C-7966** Host Says Smith Listed About Seven Signs of a Cult, Including Forced Teaming
+
+Claim Timestamp: 00:46:29
+
+Claim: The host says Smith listed about seven signs that the host leads a cult, one of them forced teaming, and goes on to say Smith also cited repetition, sarcasm and the phrase we don't know, know, but we know.
+
+Transcript Snippet: And she listed all of the reasons, the signs that I was in a cult.
+
+Anchored Artifacts: A-1376.1
+Mentions: N-250, N-3
+Related Nodes: N-11158
+Tags: relevance:context
+Investigative Direction: Watch the Deprogrammed episode and list each sign Smith gives.
+
+---
+
+**C-7967** Host Says Fed Operations Always Diagnose Dissenters Using Dark Triad Labels
+
+Claim Timestamp: 00:46:29
+
+Claim: The host says that in any Fed operation, such as COVID, people who do not follow the federal narrative are always diagnosed with dark triad traits and told they are in a cult.
+
+Transcript Snippet: if you go back any fed operation, COVID, whenever you don't follow the federal narrative, if you don't listen to the government, they always diagnose you
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11158
+Tags: relevance:tangential
+Investigative Direction: Sweeping historical generalization; no specific instance given.
+
+---
+
+**C-7968** Host Says All Her Information Comes from the Tip Line
+
+Claim Timestamp: 00:47:16
+
+Claim: The host says that she says we because all the information she has is thanks to the tip line, so everyone is in this together putting the pieces together to find who killed Charlie.
+
+Transcript Snippet: I say we because all the information I have is thanks to the tip line.
+
+Anchored Artifacts: A-2912.1
+Mentions: N-3, N-1
+Tags: relevance:core
+Investigative Direction: Audit the volume and sources of tip-line submissions and how they were used on the show.
+
+---
+
+**C-7969** Host Repeats That a .30-06 Stopped by Charlie's Neck Would Be a Miracle
+
+Claim Timestamp: 00:48:23
+
+Claim: The host says that the government telling people to believe a .30-06 was stopped by Charlie's neck, because of a miracle, is asking them to ignore their senses.
+
+Transcript Snippet: like a.30-06 got stopped by Charlie's neck because miracle
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10319
+Supports: C-7955
+Tags: relevance:core
+Investigative Direction: Same as the earlier claim: ballistic and autopsy findings.
+
+---
+
+**C-7970** Host Says No Clear Picture of Tyler Robinson on Campus Has Been Shown
+
+Claim Timestamp: 00:53:52
+
+Claim: The host says officials will not show a clear picture of Tyler Robinson on campus that day despite all the cameras, which would do a lot.
+
+Transcript Snippet: They won't show us a clear picture of Tyler Robinson on that day, despite all the cameras.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10110
+Tags: relevance:core
+Investigative Direction: Check the court record and discovery for any clear image of Robinson on the UVU campus on September 10, 2025.
+
+---
+
+**C-7971** Host Says Charlie Established DOGE After Realizing Something Was Wrong and Made Enemies
+
+Claim Timestamp: 00:55:35
+
+Claim: The host says she thinks Charlie raised his head and realized something was wrong with the money, which is why he established DOGE (transcribed "DOAJ"; C-1563 has the host calling it "the internet DOGE"), and that he made real enemies.
+
+Transcript Snippet: when Charlie raised his head and realized something was wrong, and that's why he established DOAJ
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10434, N-10132, N-10000, N-11171
+Supports: C-1563
+Tags: relevance:core
+Investigative Direction: Obtain the internal memo and staff accounts of the DOGE department's creation and mandate.
+
+---
+
+**C-7972** Host Says Charlie Suddenly Wondered Where the Money Was Coming From
+
+Claim Timestamp: 00:55:35
+
+Claim: The host says it is not a small thing that Charlie suddenly was wondering where the money was coming from and where it was going.
+
+Transcript Snippet: It's not a small thing that Charlie suddenly was wondering about where the money was coming from and where it was going to.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10078, N-10000
+Supports: C-1563
+Tags: relevance:core
+Investigative Direction: Find staff or donor testimony and communications showing Kirk raised funding questions.
+
+---
+
+**C-7973** Host Repeats That Wallnau Was Putting Money into Turning Point Faith
+
+Claim Timestamp: 00:55:35
+
+Claim: The host says it does not make her feel good knowing Wallnau was putting money into Turning Point USA Faith, repeating her earlier source-based claim.
+
+Transcript Snippet: It doesn't make me feel good knowing that he was putting money into Turning Point USA Faith.
+
+Anchored Artifacts: 
+Mentions: N-245, N-3
+Related Nodes: N-10242, N-10398
+Supports: C-7933
+Tags: relevance:core
+Investigative Direction: Same as the earlier funding claim.
+
+---
+
+**C-7974** Host Announces a Friday Guest on Turning Point's Finances
+
+Claim Timestamp: 00:55:35
+
+Claim: The host says a guest will join later in the week to speak on Friday about Turning Point's finances.
+
+Transcript Snippet: we will be have having a guest join us that will speak on Friday about Turning Point's finances
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10078, N-10000
+Tags: relevance:core
+Investigative Direction: Check the Friday, November 14, 2025 episode and guest.
+
+---
+
+**C-7975** Host Says Alex Clark Said She Lied About Interviews Because of a CNN Interview
+
+Claim Timestamp: 00:56:54
+
+Claim: The host says Alex Clark accused her of lying about giving no interviews after Charlie's death because she spoke to CNN, and says the CNN interview was scheduled in advance for her book promotion and kept on September 27 or thereabouts.
+
+Transcript Snippet: Alex Clark figured out she rumbled me that I spoke to CNN in a I had already scheduled CNN for my book promo, and we kept the interview on September 27th or something.
+
+Anchored Artifacts: 
+Mentions: N-99, N-3
+Related Nodes: N-11159
+Supports: C-1651
+Tags: relevance:context
+Investigative Direction: Check the CNN interview air date and the host's earlier statements about interviews.
+
+---
+
+**C-7976** Host Says She Did Not Offer a Single Interview After Charlie's Death
+
+Claim Timestamp: 00:56:54
+
+Claim: The host says she was in a true stage of grief and did not offer a single interview regarding Charlie.
+
+Transcript Snippet: I was in a true stage of grief. I didn't offer a single interview.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-11159
+Tags: relevance:context
+Investigative Direction: Compare against the interview dates and the CNN booking history.
+
+---
+
+**C-7977** Host Says Elle Reeve Never Mentioned Her Book and Pressed on Zionism and Brigitte Macron
+
+Claim Timestamp: 00:56:54
+
+Claim: The host says that in the CNN interview Reeve did not mention her book at all and instead pressed her mostly on Zionism and Brigitte Macron.
+
+Transcript Snippet: L Reeves did not even get to my book at all
+
+Anchored Artifacts: 
+Mentions: N-239, N-82, N-3
+Related Nodes: N-11159
+Tags: relevance:context
+Investigative Direction: Watch the full CNN interview and tally topics covered.
+
+---
+
 ## 6. Meme Register
 
 **M-8** (meme) Catch all the religious scandals
@@ -662,6 +2194,150 @@ Speaker: N-3
 Quote: Iron sharpens iron.
 Context: Wave 3 MemeLink backfill: Iron Sharpens Iron at 00:31:24 (audit missing_memelink).
 Tags: reuse, memelink_backfill
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:04:10
+Speaker: N-3
+Quote: please get that to us at moretips@candaceowens. com
+Context: Host asks for footage of the black SUV via the tip email.
+Tags: tip line, dia
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:47:16
+Speaker: N-3
+Quote: all the information I have is thanks to the tip line
+Context: Host credits the tip line for all her information.
+Tags: tip line, dia
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:04:24
+Speaker: N-3
+Quote: typically we're ready to take the Fed slop
+Context: Host contrasts the usual acceptance of Fed slop with the left and right uniting this time.
+Tags: fed slop
+Confidence: high
+
+---
+
+**M-47** (meme) Megachurches Look Funny
+
+### Occurrence 1
+
+Video Timestamp: 00:27:04
+Speaker: N-3
+Quote: there is definitely something going on here with these megachurches and these mega pastors
+Context: Host says something is going on with megachurches and mega pastors.
+Tags: megachurch
+Confidence: high
+
+---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:32:35
+Speaker: N-3
+Quote: no fakeness and no gayness
+Context: Host recalls her rule for the series in answering the forged-texts charge.
+Tags: variant
+Confidence: high
+
+---
+
+**M-147** (meme) Crash Out
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: Grok, literally the AI robot, crashed out.
+Context: Host opens by saying Grok crashed out over her investigation.
+Tags: crash out, grok
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:42:47
+Speaker: N-3
+Quote: this is like a full Zionist crash out since Charlie died
+Context: Host describes the reaction of critics as a full crash out.
+Tags: crash out
+Confidence: high
+
+---
+
+**M-15** (meme) We Don't Know But We Know
+
+### Occurrence 1
+
+Video Timestamp: 00:46:29
+Speaker: N-3
+Quote: we don't know, know, but we know
+Context: Host relays the phrase Keri Smith calls cult language.
+Tags: slogan
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:48:23
+Speaker: N-3
+Quote: We don't know no, but we know, okay?
+Context: Host defends the slogan as the show's stance.
+Tags: slogan
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:58:09
+Speaker: N-3
+Quote: you can go to makehimasandwich. com
+Context: Host plugs the book site after the Serbia signed-copy story.
+Tags: book plug
+Confidence: high
+
+---
+
+**M-204** (meme) Charlie the Friendly Ghost
+
+### Occurrence 1
+
+Video Timestamp: 00:35:35
+Speaker: N-3
+Quote: Charlie the friendly ghost
+Context: Host says Allie Stuckey and many Christians wanted to turn Charlie into a ghost.
+Tags: ghost, stuckey
+Confidence: high
+
+---
+
+**M-205** (meme) Cray-Cray
+
+### Occurrence 1
+
+Video Timestamp: 00:52:17
+Speaker: N-3
+Quote: Zionists are being a little cray-cray, a lot of cray-cray, very cray-cray
+Context: Host's escalating label for critics' behavior.
+Tags: cray-cray
 Confidence: high
 
 ---

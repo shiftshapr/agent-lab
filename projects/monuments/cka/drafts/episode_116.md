@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq116
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep116): N-10678, N-10685, N-10715, N-10730, N-10756, N-10818
+  - Hole-minted Nodes (reintro-ep116): N-10678, N-10685, N-10756
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-696, N-697, N-698, N-10984, N-10985, N-10986
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-9, N-36, N-40, N-42, N-46, N-60, N-69, N-99, N-106, N-162, N-194, N-212, N-213, N-267, N-284, N-420, N-424, N-10000, N-10012, N-10014, N-10074, N-10092, N-10107, N-10110, N-10239, N-10319, N-10324, N-10334, N-10338, N-10346, N-10362, N-10381, N-10446, N-10508, N-10537, N-10551, N-10566, N-10577, N-10578, N-10581, N-10660, N-10700, N-10705, N-10724, N-10768, N-10808, N-10812, N-10888, N-10923, N-10950
+  - Tip-minted Nodes (skeleton): N-695, N-10985, N-10986
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-9, N-36, N-40, N-42, N-46, N-60, N-69, N-99, N-106, N-162, N-194, N-212, N-213, N-267, N-284, N-420, N-424, N-10000, N-10012, N-10014, N-10074, N-10092, N-10107, N-10110, N-10239, N-10319, N-10324, N-10334, N-10338, N-10346, N-10362, N-10381, N-10446, N-10508, N-10537, N-10551, N-10566, N-10577, N-10578, N-10581, N-10660, N-10700, N-10705, N-10724, N-10768, N-10808, N-10812, N-10888, N-10923, N-10950, N-10818, N-696, N-697, N-10730, N-10984, N-10715
   - Claim Range: C-4592–C-4652
   - (see registers)
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:25:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4613, C-4615, N-697, N-10678*
+*Related: C-4613, C-4615, N-696, N-10678*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:37:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4627, C-4629, N-46, N-7, N-698*
+*Related: C-4627, C-4629, N-46, N-7, N-697*
 
 ---
 
@@ -402,19 +402,19 @@ Transcript spelling also "Conor". The host says he interned in the Timpanogos em
 
 *Related: C-4651, C-4652, A-2676.3*
 
-**N-696** Don Porter
+**N-695** Don Porter
 
 First named by the host at 00:02:16 in episode 116. Friend of Corey Comperatore whose leads the host credits for her prior Butler episode.
 
 *Related: C-4593*
 
-**N-697** Jon Bray
+**N-696** Jon Bray
 
 First named by the host at 00:03:00 in episode 116. X user the host credits with first positing the exploding-microphone theory. Aliases: John Braden; John Blake.
 
 *Related: C-4594, C-4598, C-4613, A-2671.1*
 
-**N-698** Spencer (Frank Turek's son)
+**N-697** Spencer (Frank Turek's son)
 
 First named at 00:37:19 in episode 116, in Frank Turek's Megyn Kelly clip. The 35-year-old son Turek says he was FaceTiming during the event.
 
@@ -703,7 +703,7 @@ Claim: The host credits Don Porter, a friend of Corey Comperatore, with reaching
 Transcript Snippet: It was Corey Comparators a friend who refused to let the circumstances go regarding the Butler assassination. He's actually the one that reached out to me and put together various pieces and leads for me to chase down.
 
 Anchored Artifacts:
-Mentions: N-696, N-106, N-3
+Mentions: N-695, N-106, N-3
 Related Nodes: N-10724
 Investigative Direction: Confirm Don Porter's relationship to Corey Comperatore and review the materials he provided.
 
@@ -718,7 +718,7 @@ Claim: The host says the theory that Charlie Kirk was killed by an explosive in 
 Transcript Snippet: It was a theory that was at first posited by an ex-user named John Bray and you should go down that rabbit hole. He has done so much work on this. Really truly he has worked on this since September.
 
 Anchored Artifacts:
-Mentions: N-697, N-1, N-3
+Mentions: N-696, N-1, N-3
 Related Nodes: N-10768, N-10705
 Investigative Direction: Locate Jon Bray's X posts on the theory and their earliest dates.
 
@@ -778,7 +778,7 @@ Claim: The host says the theorized explosive would be a shaped charge, typically
 Transcript Snippet: This would be what is known as a shaped charge. I've learned this recently, and John Braden was trying to explain it to me on X
 
 Anchored Artifacts:
-Mentions: N-697, N-1
+Mentions: N-696, N-1
 Related Nodes: N-10768
 Investigative Direction: Consult explosives experts on whether a microphone-sized shaped charge could produce the observed wound.
 
@@ -1006,7 +1006,7 @@ Claim: The host says Jon Bray told her that her SUV interior photos were the mis
 Transcript Snippet: he said that my video was the missing piece to his theory that he was looking for what would have been shards of the ABS plastic that is used on the road bike.
 
 Anchored Artifacts: A-2671.1
-Mentions: N-697, N-3, N-1
+Mentions: N-696, N-3, N-1
 Related Nodes: N-10705, N-10678
 Investigative Direction: Have the SUV shards forensically analyzed or obtain any FBI evidence log of debris recovered from the vehicle.
 
@@ -1248,7 +1248,7 @@ Claim: In a Megyn Kelly clip, Frank Turek says he FaceTimed his wife and then hi
 Transcript Snippet: I was just well, first I I was FaceTiming my wife and then I said, "Let me call Spencer." And so I started FaceTiming him.
 
 Anchored Artifacts: A-2672.2
-Mentions: N-7, N-46, N-698, N-1
+Mentions: N-7, N-46, N-697, N-1
 Related Nodes: N-10730
 Investigative Direction: Obtain the FaceTime session logs from Turek's or his son's device.
 
@@ -1832,7 +1832,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2673.1 (tip request, nothing shown). The host also refers without showing anything to Erika Kirk's Bari Weiss interview, the September 16 TPUSA Zoom call, Kash Patel's FOIA response letter (she says it was shown on the prior day's show) and the Epstein-binders tweet ("I don't know if you have my tweet"). A-2674.6 is logged at Medium because it is unclear whether the photo was put on screen.
 - **DIA beats**: one real beat (44:47, tips@candaceowens.com for the Hickman County explosion, repeated as "More tips@candaceowens. com" in the same paragraph); it is logged as C-4634, A-2673.1 and M-12. At 01:03:56 the host thanks Evie for "a massive uh tip," which is about her hairstyle, not a DIA beat. No bounty and no CIA merch phrase aired, so M-14 is not used.
-- **Name matching**: "Jon Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-697 Jon Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terrell", "Taral" and "Tara Farnsworth" are mapped to N-267. "Frank Terrick" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-420 Zachariah Karashy; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
+- **Name matching**: "Jon Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-696 Jon Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terrell", "Taral" and "Tara Farnsworth" are mapped to N-267. "Frank Terrick" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-420 Zachariah Karashy; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
 - **Possible duplicate topic**: N-10923 reuses the staging title WHCD "Emotional Asset" Email Verification (episode 106). Other staging drafts use "White House Military Office Erika Kirk Amplification Email" for what may be the same email; the integrator may want to merge them.
 - **Transcription ambiguities**: "Rode"/"road mic"/"road bike" (the Rode wireless microphone), "PTN" (PETN), "ex-user" (X user), "Hampton Summit" (Hamptons) and "Built" (Built Inc.). Snippets keep "the.30-06" without a space, as the transcript has it.
 - **Cross-episode links left out**: C-1235 (episode 7, UVU repaved within about 48 hours) conflicts on timing with the contractor's Sunday account, but it is not clearly the same proposition, so it is not linked. C-1366 (SD card removal on law-enforcement instruction) may relate to C-4611, but the source of the instruction differs, so it is left unlinked.

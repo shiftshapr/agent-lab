@@ -6,13 +6,18 @@
 - **YouTube id**: vwG1juDCQZQ
 - **Candace Ep**: 260
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:07:17
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 56c2be67383dd50f4d4f1df7be825f986b64cc63e651edf0162bdadcfd5d297b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-232, N-233, N-234, N-235, N-236, N-237, N-238, N-10228, N-10229, N-10230, N-10231, N-10232, N-10233, N-10234, N-10235
-  - Reused Nodes Appearing: N-3, N-99
+  - Tip-minted Nodes (supplement_2026-10d): N-863, N-864, N-11228, N-11229, N-11230
+  - Hole-minted Nodes (reintro-ep027): N-374, N-10432, N-10687
+  - Tip-minted Nodes (reintro-ep027): N-616, N-11014, N-11171
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10d): C-9584–C-9646
+  - New Nodes Introduced: N-232, N-233, N-234, N-235, N-236, N-237, N-238, N-10228, N-10229, N-10231, N-10232, N-10233, N-10234, N-10235
+  - Reused Nodes Appearing: N-3, N-99, N-10230, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-102, N-119, N-166, N-185, N-384, N-10006, N-10012, N-10013, N-10014, N-10055, N-10104, N-10132, N-10164, N-10175, N-10209, N-10224, N-10253, N-10319, N-10337, N-11098, N-11104
   - (see registers)
 
 # Episode 27 Analysis Record
@@ -280,6 +285,62 @@ Verbatim excerpt: "Candace, that was such a wise statement. I cannot forgive unt
 *Related: C-1635, N-238*
 
 *(Note: see Claim Register for C-1635 – this claim is included to maintain artifact linkage for A-1354.2)*
+
+---
+
+**A-3021** Sam Parker Green Hoodie Exchange Bundle
+
+**A-3021.1** Host verbal reference to her X reply with a clear image of the green-hoodie figure and Colby Sessions' answer (not shown separately)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:25:01
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9606, N-3*
+
+---
+
+**A-3022** Allie Beth Stuckey Text Exchange Screenshot Bundle
+
+**A-3022.1** Host reading of the Charlie Kirk and Allie Beth Stuckey text exchange Stuckey shared (displayed to viewers, text read aloud)
+
+Quoted text: "November 3rd at 6:30 p. m. Either Auburn, which has 5,000 seats, or the University of Southern Alabama."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:35:13
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9615, N-3*
+
+---
+
+**A-3023** Yale Political Union Debate Photo Bundle
+
+**A-3023.1** Host verbal reference to a photo of the Yale Political Union debate attended by about 70 people (shown, not described in detail)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:38:56
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9619, N-3*
+
+---
+
+**A-3024** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3024.1** Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for tips to UVU TPUSA chapter staff)
+
+Quoted text: "please email us at moretips@candaceowens. com"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:54:40
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-9637, N-3*
 
 ---
 
@@ -559,6 +620,377 @@ Episode Count: 1
 Investigative Pressure: Low
 
 *Related: A-1354.1, N-2*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-9584, C-9585, C-9586, C-9587, C-9588, C-9589, C-9591, C-9592, C-9593, C-9594, C-9595, C-9596, C-9597, C-9598, C-9599, C-9601, C-9602, C-9603, C-9604, C-9605, C-9606, C-9607, C-9608, C-9609, C-9610, C-9611, C-9612, C-9613, C-9614, C-9615, C-9616, C-9617, C-9618, C-9619, C-9620, C-9621, C-9622, C-9623, C-9624, C-9625, C-9626, C-9627, C-9628, C-9629, C-9630, C-9631, C-9632, C-9633, C-9634, C-9635, C-9636, C-9637, C-9638, C-9639, C-9640, C-9641, C-9642, C-9643, C-9644, C-9645, C-9646*
+
+---
+
+**N-11228** Candace Podcast Ranking and Operations
+
+Node Type: Topic
+The host's account of the Candace podcast reaching number one worldwide, its lack of ad spend, small team and start-up conditions.
+
+*Related: C-9584, C-9588, C-9646*
+
+---
+
+**N-97** Ben Shapiro
+
+Ben Shapiro; named in the host's thanks for her Daily Wire firing.
+
+*Related: C-9585*
+
+---
+
+**N-374** Jeremy Boreing
+
+Jeremy Boreing; named in the host's thanks for her Daily Wire firing.
+
+*Related: C-9585*
+
+---
+
+**N-27** Kanye West
+
+Kanye West; his song Power is cited by the host.
+
+*Related: C-9586*
+
+---
+
+**N-863** Tony Burke
+
+First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.
+
+*Related: C-9587*
+
+---
+
+**N-68** Skyler
+
+Skyler; producer on the host's team.
+
+*Related: C-9588, C-9646*
+
+---
+
+**N-2** Erika Kirk
+
+Erika Kirk; Fox News interview subject and TPUSA CEO.
+
+*Related: C-9589, C-9590, C-9594, C-9600, C-9641, C-9642, C-9644*
+
+---
+
+**N-4** JD Vance
+
+JD Vance; co-headliner of the Ole Miss event with Erika.
+
+*Related: C-9589*
+
+---
+
+**N-10006** Fox News
+
+Fox News; carried the Erika Kirk interview.
+
+*Related: C-9589, C-9600*
+
+---
+
+**N-40** Tyler Robinson
+
+Tyler Robinson; the person in custody, named in the host's forgiveness remarks.
+
+*Related: C-9590, C-9592, C-9593, C-9623*
+
+---
+
+**N-1** Charlie Kirk
+
+Charlie Kirk; subject of the host's statements about his faith, the UVU event and his death.
+
+*Related: C-9591, C-9592, C-9598, C-9599, C-9601, C-9602, C-9609, C-9611, C-9612, C-9613, C-9614, C-9615, C-9616, C-9617, C-9627, C-9628, C-9630, C-9634, C-9635, C-9636, C-9642, C-9643, C-9644*
+
+---
+
+**N-10337** Tyler Robinson Prosecution Evidence Base
+
+Tyler Robinson Prosecution Evidence Base; lone-actor question.
+
+*Related: C-9592*
+
+---
+
+**N-11** Tyler Bowyer
+
+Tyler Bowyer; TPUSA chair, subject of footage and conduct remarks.
+
+*Related: C-9595, C-9604*
+
+---
+
+**N-10055** Federal Footage Sweep
+
+Federal Footage Sweep; footage withheld, per host.
+
+*Related: C-9595, C-9597*
+
+---
+
+**N-10012** Utah Valley University
+
+Utah Valley University; site of the contested event.
+
+*Related: C-9596, C-9607, C-9614, C-9621, C-9637*
+
+---
+
+**N-10175** UVU Left-Side Footage Black Hole
+
+UVU Left-Side Footage Black Hole; camera coverage question.
+
+*Related: C-9596*
+
+---
+
+**N-10104** Catholic Conversion Rumor
+
+Catholic Conversion Rumor; host's Catholic-curious account.
+
+*Related: C-9598, C-9599, C-9633, C-9636*
+
+---
+
+**N-10164** Charlie Kirk Catholic Trajectory Verification
+
+Charlie Kirk Catholic Trajectory Verification; Mass attendance and conversion.
+
+*Related: C-9598, C-9599, C-9609*
+
+---
+
+**N-10319** .30-06 Forensic Narrative Validity
+
+.30-06 Forensic Narrative Validity; host says the neck could not have stopped it.
+
+*Related: C-9601*
+
+---
+
+**N-11104** Liberty University
+
+Liberty University; venue of Charlie's slated speaking slot.
+
+*Related: C-9602, C-9628*
+
+---
+
+**N-10000** Turning Point USA
+
+Turning Point USA; subject of lead-time, revenue and cover-up remarks.
+
+*Related: C-9602, C-9604, C-9608, C-9611, C-9622, C-9627, C-9629, C-9630, C-9635, C-9636, C-9637*
+
+---
+
+**N-11098** Alex Clark WSJ Memorial Photo Controversy
+
+Existing node reused for new claims in this episode.
+
+*Related: C-9605, C-9626*
+
+---
+
+**N-185** Sam Parker
+
+Sam Parker; asked who the green-hoodie figure was.
+
+*Related: C-9606*
+
+---
+
+**N-166** Matt Walsh
+
+Matt Walsh; cited on disloyalty of public sniping.
+
+*Related: C-9610*
+
+---
+
+**N-33** Donald Trump Jr.
+
+Donald Trump Jr.; named among those campuses want to host.
+
+*Related: C-9612*
+
+---
+
+**N-10224** UVU Event Approval Timeline Anomaly
+
+UVU Event Approval Timeline Anomaly; booking lead-time.
+
+*Related: C-9612, C-9614, C-9621*
+
+---
+
+**N-11229** Yale Political Union
+
+Node Type: Organization
+Yale student debating society, which the host says has existed since 1934 and hosted the Lila Rose debate she cites.
+
+*Related: C-9618, C-9619*
+
+---
+
+**N-102** Michael Knowles
+
+Michael Knowles; effigy burned at a TPUSA event, per host.
+
+*Related: C-9622*
+
+---
+
+**N-10013** Discord
+
+Discord; platform of the Fed Discord messages.
+
+*Related: C-9623*
+
+---
+
+**N-10014** Federal Bureau of Investigation
+
+FBI; the Feds in the Discord remark.
+
+*Related: C-9623*
+
+---
+
+**N-616** Ian Miles Cheong
+
+Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.
+
+*Related: C-9625*
+
+---
+
+**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim
+
+TPUSA Post-Assassination Merchandise Revenue Claim; T-shirts and revenue.
+
+*Related: C-9629, C-9630*
+
+---
+
+**N-11230** Alex Clark Tribute Episode Ad Dispute
+
+Node Type: Topic
+Dispute over whether Alex Clark skipped ads on Charlie tribute episodes and whether the host's podcast should be criticized for running ads.
+
+*Related: C-9631, C-9632*
+
+---
+
+**N-119** Elon Musk
+
+Elon Musk; DOGE did not exist before him, per host.
+
+*Related: C-9634*
+
+---
+
+**N-10132** TPUSA DOGE Department / Financial Audit
+
+TPUSA DOGE Department / Financial Audit; DOGE remark.
+
+*Related: C-9634*
+
+---
+
+**N-11171** Kirk "Internet DOGE" Money-Tracing Effort
+
+Kirk Internet DOGE Money-Tracing Effort; DOGE remark.
+
+*Related: C-9634*
+
+---
+
+**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+
+TPUSA Faith / Christian Zionist Infiltration Question; donor-pressure framing.
+
+*Related: C-9636*
+
+---
+
+**N-10253** Egyptian Military Plane Tracking Investigation
+
+Egyptian Military Plane Tracking Investigation; cited as a prior nerve-hit.
+
+*Related: C-9638*
+
+---
+
+**N-10432** TPUSA Non-Disparagement Enforcement Campaign
+
+TPUSA Non-Disparagement Enforcement Campaign; NDA remark.
+
+*Related: C-9639*
+
+---
+
+**N-82** Brigitte Macron
+
+Brigitte Macron; subject of the host's tangential remark.
+
+*Related: C-9640*
+
+---
+
+**N-10687** Frank Turek CPR Claim Verification
+
+Frank Turek CPR Claim Verification; stage remarks.
+
+*Related: C-9643*
+
+---
+
+**N-384** Ian Carroll
+
+Ian Carroll; named as a regular text contact.
+
+*Related: C-9645*
+
+---
+
+**N-39** Dave Smith
+
+Dave Smith; named as a regular text contact.
+
+*Related: C-9645*
+
+---
+
+**N-864** Jimmy Dore
+
+First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.
+
+*Related: C-9645*
+
+---
+
+**N-30** George (Candace's husband)
+
+The host's husband; runs the business side of the podcast.
+
+*Related: C-9646*
 
 ---
 
@@ -869,6 +1301,1010 @@ Investigative Direction: List the specific TPUSA statements the host calls lies 
 
 ---
 
+**C-9584** Host Says Podcast Spent Nothing on Advertising in Its First Year and a Half
+
+Claim Timestamp: 00:01:19
+
+Claim: The host says her podcast reached number one worldwide without promotion and that since it started a year and a half ago she has not spent a single dollar on advertising.
+
+Transcript Snippet: which means we have not spent, since we started this podcast a year and a half ago, a single dollar on advertising, okay?
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11228
+Supports: C-1617
+Tags: relevance:tangential
+Investigative Direction: Compare Podscribe ranking data for the date with any ad-spend disclosures from the show.
+
+---
+
+**C-9585** Host Says Daily Wire Leaders Fired Her
+
+Claim Timestamp: 00:02:10
+
+Claim: The host says Ben Shapiro and Jeremy Boreing fired her, thanking them sarcastically for the firing and its publicity.
+
+Transcript Snippet: I thank Ben Shapiro. I thank Jeremy Boring. I thank the direction of travel, and they realizing it before I did, um that I should be fired.
+
+Anchored Artifacts: 
+Mentions: N-3, N-97, N-374
+Tags: relevance:tangential
+Investigative Direction: Review the 2024 separation announcements from the host and Daily Wire for the stated reason and date.
+
+---
+
+**C-9586** Host Says She Stopped Doing the Pro-Israel Thing
+
+Claim Timestamp: 00:02:10
+
+Claim: The host says there came a point when she no longer wanted to do the pro-Israel thing and did not follow the crowd, comparing herself to the Kanye West song Power.
+
+Transcript Snippet: I know the crowd is doing this, but I'm not doing it." And that was me when I no longer wanted to do the pro-Israel thing.
+
+Anchored Artifacts: 
+Mentions: N-3, N-27
+Tags: relevance:tangential
+Investigative Direction: Compare the host's pre-2024 statements on Israel with later ones to date the change.
+
+---
+
+**C-9587** Host Says Australia Banned Her
+
+Claim Timestamp: 00:03:43
+
+Claim: The host says Australian minister Tony Burke banned her from the entire country, and at 01:01:57 says she can reapply in about a year.
+
+Transcript Snippet: Tony Burke, thank you for banning us from an entire country, even though I didn't do nothing.
+
+Anchored Artifacts: 
+Mentions: N-3, N-863
+Tags: relevance:tangential
+Investigative Direction: Check the Australian Home Affairs visa decision and the stated reason and reapplication period.
+
+---
+
+**C-9588** Host Says Four People Work on the Podcast Every Day
+
+Claim Timestamp: 00:04:22
+
+Claim: The host says only four people work on the actual podcast every day and that the team has stayed small.
+
+Transcript Snippet: There's just four of us, uh that work on the actual podcast every day.
+
+Anchored Artifacts: 
+Mentions: N-3, N-67, N-68
+Related Nodes: N-11228
+Tags: relevance:tangential
+Investigative Direction: Compare with the staff the host later describes or lists in company filings.
+
+---
+
+**C-9589** Host Says Watters Also Followed Erika at the Ole Miss Event With Vance
+
+Claim Timestamp: 00:06:17
+
+Claim: The host says Jesse Watters, who hosted the Fox News interview with Erika Kirk, also trailed her at the University of Mississippi event she did with J. D. Vance.
+
+Transcript Snippet: also trailed her at the event that she did with J. D. Vance at the University of Mississippi.
+
+Anchored Artifacts: 
+Mentions: N-3, N-215, N-2, N-4
+Related Nodes: N-10006, N-10233
+Tags: relevance:context
+Investigative Direction: Obtain the Ole Miss event date, the Fox News Primetime broadcast date and any pooled footage.
+
+---
+
+**C-9590** Host Says Erika Told the Memorial Crowd She Forgave the Killer
+
+Claim Timestamp: 00:07:26
+
+Claim: The host says Erika Kirk said on stage, quite quickly after the assassination, that she forgave him.
+
+Transcript Snippet: she got up on stage, and she said that I forgive him pretty pretty instantly.
+
+Anchored Artifacts: 
+Mentions: N-2, N-40
+Tags: relevance:core
+Investigative Direction: Pull the memorial-service video and transcript for the forgiveness statement and its timing.
+
+---
+
+**C-9591** Host Says Memorial Event Was on the 21st, Nine Days After the Assassination
+
+Claim Timestamp: 00:07:26
+
+Claim: The host says, after a correction from her director, that the memorial event was on the 21st, nine days after the assassination.
+
+Transcript Snippet: Nine days after he was assassinated. Oh, sorry, the 21st. Mansplained in my ear.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-67
+Tags: relevance:context
+Investigative Direction: Confirm the memorial service date; the host's arithmetic of nine days does not match the 21st if the shooting was September 10, so check against the official date.
+
+---
+
+**C-9592** Host Says She Does Not Believe Robinson Was the Lone Person Involved
+
+Claim Timestamp: 00:09:23
+
+Claim: The host says she does not believe Tyler Robinson was the lone person involved and does not think he is the person who killed Charlie Kirk.
+
+Transcript Snippet: I don't believe that he was the lone person involved. I don't even think this person that killed Charlie Kirk.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40, N-1
+Related Nodes: N-10337
+Tags: relevance:core
+Investigative Direction: Compare with the prosecution's evidence base and any filings naming co-participants.
+
+---
+
+**C-9593** Host Says She Cannot Forgive Until She Knows What Happened
+
+Claim Timestamp: 00:11:10
+
+Claim: The host says she cannot forgive Tyler Robinson because she does not know what she would be forgiving until she knows what happened.
+
+Transcript Snippet: it's because I cannot forgive until I know what happened. I don't know what I'm forgiving actually until I know what happened.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40
+Tags: relevance:context
+Investigative Direction: Opinion framing; track whether the host later states what she believes happened.
+
+---
+
+**C-9594** Host Says the Public Has Not Seen the Autopsy Report
+
+Claim Timestamp: 00:13:00
+
+Claim: The host says that, unlike Erika Kirk, none of the public has seen the autopsy report.
+
+Transcript Snippet: Obviously, we have none of us have seen the autopsy report.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10229
+Supports: C-1621
+Tags: relevance:core
+Investigative Direction: Check whether the Utah autopsy record has been released or sealed.
+
+---
+
+**C-9595** Host Says Bowyer Claimed TPUSA Has 4K Footage
+
+Claim Timestamp: 00:13:46
+
+Claim: The host says Tyler Bowyer said they have footage in 4K of everything from when Charlie was tweeting.
+
+Transcript Snippet: Tyler Bowyer said, we have footage in 4K all of the stuff when he was tweeting.
+
+Anchored Artifacts: 
+Mentions: N-3, N-11
+Related Nodes: N-10055
+Tags: relevance:core
+Investigative Direction: Find Bowyer's original statement and ask TPUSA what 4K footage exists and who holds it.
+
+---
+
+**C-9596** Host Says Someone Claimed Every Area of the University Is Covered by Cameras
+
+Claim Timestamp: 00:13:46
+
+Claim: The host says someone other than the university said that at every angle every area of the university is covered by cameras.
+
+Transcript Snippet: not the university, but somebody else was was saying that you know, at every angle, every area of the university is covered.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10012, N-10175
+Tags: relevance:core
+Investigative Direction: Identify who made the claim and obtain the UVU camera inventory and retention records.
+
+---
+
+**C-9597** Host Says the Excuse for Withholding Footage Was Not Impacting the Case
+
+Claim Timestamp: 00:13:46
+
+Claim: The host says the excuse given for not showing the public the footage was that it might impact the case, and that it never made sense to her given a manhunt was underway.
+
+Transcript Snippet: Their excuse for not showing the public was they didn't want it to in any way impact the case.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10055
+Tags: relevance:core
+Investigative Direction: Find the official statements giving the reason and the timing of any footage releases during the manhunt.
+
+---
+
+**C-9598** Host Says Her Tribute Said Only That They Hoped Charlie Would Become Catholic
+
+Claim Timestamp: 00:17:02
+
+Claim: The host says her tribute video said they were all hoping Charlie would take the step and become Catholic, giving no details, after which Christian Zionist influencers said it was untrue.
+
+Transcript Snippet: we were all hoping that he was going to take the step and become Catholic. Gave no details
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10104, N-10164
+Tags: relevance:core
+Investigative Direction: Check the tribute video and the influencers' responses against what was said.
+
+---
+
+**C-9599** Host Says Charlie Did Not Convert to Catholicism
+
+Claim Timestamp: 00:17:02
+
+Claim: The host says she said from the beginning that Charlie Kirk did not convert to Catholicism and that she only reported where he was on his spiritual journey.
+
+Transcript Snippet: Like I said from the beginning, he didn't convert to Catholicism.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10104, N-10164
+Tags: relevance:core
+Investigative Direction: Ask Charlie's priests and Church records whether he was baptized or received into the Church.
+
+---
+
+**C-9600** Erika Says Her Phone Went Dark for Weeks and She Insulated Herself
+
+Claim Timestamp: 00:18:10
+
+Claim: In the Fox News audio, Erika Kirk says her phone died, became a black hole, and she did not turn it on for weeks, and that she intentionally insulated herself to guard her heart.
+
+Transcript Snippet: my phone died. It became a black hole. I just didn't turn it on for weeks on end.
+
+Anchored Artifacts: A-1346.4
+Mentions: N-2
+Related Nodes: N-10006
+Tags: relevance:core
+Investigative Direction: Compare with Erika's public posting and contact record in the weeks after September 10.
+
+---
+
+**C-9601** Host Says Officials Told Obvious Lies Including a .30-06 Stopped by the Neck
+
+Claim Timestamp: 00:19:31
+
+Claim: The host says the feds are telling obvious lies, number one being that Charlie was shot by a .30-06 and the bullet was stopped when in a normal circumstance it would have decapitated him.
+
+Transcript Snippet: Number one being that he was shot by a.30-06 and stopped the bullet when in a normal circumstance it would have decapitated him.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10319
+Tags: relevance:core
+Investigative Direction: Obtain the ballistics report, caliber finding and wound description from the official record.
+
+---
+
+**C-9602** Host Says Mikey McCoy Was Billed to Take Over Charlie's Liberty Event
+
+Claim Timestamp: 00:21:44
+
+Claim: The host says TPUSA has said Mikey McCoy will take over Charlie's Liberty University event, which is going to be sold out, and that TPUSA faith directors tell people he has what it takes.
+
+Transcript Snippet: Mikey's going to take over for Charlie at his Liberty convocate or Liberty event that he has which is is going to be sold out
+
+Anchored Artifacts: 
+Mentions: N-3, N-194, N-1
+Related Nodes: N-11104, N-10000
+Tags: relevance:core
+Investigative Direction: Find the Liberty University convocation schedule and any TPUSA announcement of McCoy as replacement.
+
+---
+
+**C-9603** Host Says She Took Two Weeks Away and Took the Show Off the Air for Days
+
+Claim Timestamp: 00:22:40
+
+Claim: The host says she went away for two weeks to collect her thoughts about the trauma of having watched the shooting and took the show off the air for a couple of days.
+
+Transcript Snippet: I had to go away for 2 weeks to collect my thoughts about the trauma that I saw having watched it.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:context
+Investigative Direction: Compare with the show's publishing record in September 2025.
+
+---
+
+**C-9604** Host Calls Tyler Bowyer a Sexual Deviant
+
+Claim Timestamp: 00:23:14
+
+Claim: The host, objecting to calls for grace for Tyler Bowyer, says he is a sexual deviant and that the company he heads should be committed to truth.
+
+Transcript Snippet: Tyler Bowyer is a sexual deviant, right?
+
+Anchored Artifacts: 
+Mentions: N-3, N-11
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Allegation stated without evidence on air; ask the host what documents support it.
+
+---
+
+**C-9605** Host Says Alex Clark Wanted the WSJ Moment Until Host Caught a Lie
+
+Claim Timestamp: 00:23:54
+
+Claim: The host says Alex Clark wanted to do the Wall Street Journal thing until the host caught a lie about what she said about Catholics.
+
+Transcript Snippet: Alex Clark wanted to do the Wall Street Journal thing until I caught like this little lie
+
+Anchored Artifacts: 
+Mentions: N-3, N-99
+Related Nodes: N-11098
+Tags: relevance:context
+Investigative Direction: Identify the WSJ piece and Clark's statements about Catholicism that the host calls untrue.
+
+---
+
+**C-9606** Host Says She Posted a Clear Image of the Green Hoodie Figure
+
+Claim Timestamp: 00:25:01
+
+Claim: The host says that after Sam Parker asked who the guys in the video were, she replied with a clear image of the person in the green hoodie and he quickly answered that it was him.
+
+Transcript Snippet: I then respond and I'm like, "Here's a clear image of this person, the actual person wearing the green hoodie."
+
+Anchored Artifacts: A-3021.1
+Mentions: N-3, N-185, N-235
+Related Nodes: N-10232
+Tags: relevance:context
+Investigative Direction: Retrieve the original post thread with timestamps.
+
+---
+
+**C-9607** Host Believes Colby Sessions Is on the UVU Soccer Team
+
+Claim Timestamp: 00:25:01
+
+Claim: The host says she thinks Colby Sessions is on the soccer team at UVU.
+
+Transcript Snippet: I think he's on the soccer team at UVU.
+
+Anchored Artifacts: 
+Mentions: N-3, N-235
+Related Nodes: N-10012
+Tags: relevance:context
+Investigative Direction: Check the UVU athletics roster for Sessions.
+
+---
+
+**C-9608** Host Says TPUSA Staff Were Back on Their Feet and Sharing Memories the Next Day
+
+Claim Timestamp: 00:25:41
+
+Claim: The host says that, despite claiming to be in mourning, TPUSA figures were back on their feet the next day, giddy, and sharing detailed memories of the day.
+
+Transcript Snippet: they were like back on their feet the next day and giddy and sharing memories and talking about what happened on that day in detail.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Collect dated interviews and posts from TPUSA staff on September 11-12.
+
+---
+
+**C-9609** Host Says Charlie Went to Mass Sometimes Daily and Died With the Pendant
+
+Claim Timestamp: 00:29:15
+
+Claim: The host says she would have told Allie Beth Stuckey privately that Charlie was going to Mass sometimes daily, was going on Sundays, and died with the pendant.
+
+Transcript Snippet: he was going to mass sometimes daily. He was going on Sundays. Uh he died with the pendant.
+
+Anchored Artifacts: 
+Mentions: N-3, N-232, N-1
+Related Nodes: N-10230, N-10164
+Supports: C-1622
+Tags: relevance:core
+Investigative Direction: Ask the priests and parishes involved for attendance records; examine the pendant in evidence inventory.
+
+---
+
+**C-9610** Host Says Matt Walsh Calls Public Sniping Instead of Texting Disloyal
+
+Claim Timestamp: 00:30:15
+
+Claim: The host says Matt Walsh recently said he views it as a form of disloyalty to go on your platform about someone you could ask directly.
+
+Transcript Snippet: This is one of the things that Matt Walsh recently said that he views it as such a form of disloyalty
+
+Anchored Artifacts: 
+Mentions: N-3, N-166, N-232
+Tags: relevance:tangential
+Investigative Direction: Find Walsh's statement.
+
+---
+
+**C-9611** Host Says She Headlined More TPUSA Campus Tours Than Anyone
+
+Claim Timestamp: 00:32:15
+
+Claim: The host says she worked at Turning Point USA and toured with Charlie the most, claiming no one has headlined more TPUSA campus tours than she has.
+
+Transcript Snippet: I headlined more tour Turning Point USA um uh campus tours than Candace Owens.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Compare TPUSA tour rosters 2018-2024 for headliner counts.
+
+---
+
+**C-9612** Host Says Events Are Booked the Semester Before With a Long Waiting List
+
+Claim Timestamp: 00:32:15
+
+Claim: The host says TPUSA campus events are booked the semester before and there is a long waiting list for Charlie, Candace or Don Jr.
+
+Transcript Snippet: these events are booked the semester before, okay? There's a long waiting list.
+
+Anchored Artifacts: 
+Mentions: N-3, N-33, N-1
+Related Nodes: N-10228, N-10224
+Tags: relevance:core
+Investigative Direction: Obtain TPUSA event-booking lead times for past semesters; the host offers semester-by-semester emails.
+
+---
+
+**C-9613** Host Says Hostile Administrations Made Her Stanford Event Hard Despite the Organizer's Name on a Building
+
+Claim Timestamp: 00:33:06
+
+Claim: The host says that when she and Charlie spoke at Stanford, the student organizer, whose family name was on a Stanford building, still had a hard time putting the event together.
+
+Transcript Snippet: the girl who put the student who put the event together, her grandfather owned one of the buildings at Stanford.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:context
+Investigative Direction: Identify the Stanford event, date and organizer.
+
+---
+
+**C-9614** Host Says a Summer Request Honored Immediately Has Never Happened on Her Tours
+
+Claim Timestamp: 00:33:06
+
+Claim: The host says that in her eight or nine semesters touring with Charlie it never happened that a college made a request over the summer when school was closed and TPUSA honored it immediately.
+
+Transcript Snippet: it's never happened that a college makes a request over the summer when school is closed
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10228, N-10224, N-10012
+Supports: C-1625
+Tags: relevance:core
+Investigative Direction: Obtain the UVU request email, its dates, and TPUSA's calendar entry date.
+
+---
+
+**C-9615** Host Says Stuckey's Shared Text Shows Charlie Offering Nov 3 at Auburn or South Alabama
+
+Claim Timestamp: 00:35:13
+
+Claim: The host reads from the private chat Allie Beth Stuckey shared, in which Charlie Kirk offers a November 3rd 6:30 p.m. event at Auburn or the University of South Alabama.
+
+Transcript Snippet: November 3rd at 6:30 p. m. Either Auburn, which has 5,000 seats, or the University of Southern Alabama.
+
+Anchored Artifacts: A-3022.1
+Mentions: N-3, N-232, N-1
+Related Nodes: N-10228
+Supports: C-1625
+Tags: relevance:core
+Investigative Direction: Obtain the full screenshot with date and sender; confirm the Auburn and South Alabama event dates.
+
+---
+
+**C-9616** Host Says Students Are Told to Hold Two Dates and Planning Had Not Started
+
+Claim Timestamp: 00:36:03
+
+Claim: The host says that students are often told to hold two possible dates and that the events were already approved and planning did not start when Charlie texted Stuckey.
+
+Transcript Snippet: They did not start planning that event when Charlie texted you. I can guarantee you that, okay?
+
+Anchored Artifacts: 
+Mentions: N-3, N-232, N-1
+Related Nodes: N-10228
+Tags: relevance:context
+Investigative Direction: Ask the Auburn and South Alabama TPUSA chapters when they submitted requests.
+
+---
+
+**C-9617** Host Says She Checked and Both Alabama Events Happened This Semester
+
+Claim Timestamp: 00:36:03
+
+Claim: The host says she and Charlie would divide and conquer on the same day and that she checked and TPUSA held both the Auburn and South Alabama events this semester.
+
+Transcript Snippet: I will guarantee you, and I checked, they did both of these this semester.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10228
+Tags: relevance:context
+Investigative Direction: Check the TPUSA fall 2025 tour listing for the two Alabama events.
+
+---
+
+**C-9618** Host Says the Yale Event Was With the Yale Political Union, Founded 1934
+
+Claim Timestamp: 00:38:56
+
+Claim: The host says the Yale debate Lila Rose cited was with the Yale Political Union, which has existed since 1934 and runs like a well-oiled machine.
+
+Transcript Snippet: So, that Yale event that Lila Rose spoke at was with the Yale Political Union. So, it is It's existed since 1934.
+
+Anchored Artifacts: 
+Mentions: N-3, N-233
+Related Nodes: N-11229
+Tags: relevance:context
+Investigative Direction: Confirm the Yale Political Union's founding date and Rose's debate date.
+
+---
+
+**C-9619** Host Says About 70 People Attended the Yale Debate
+
+Claim Timestamp: 00:38:56
+
+Claim: The host, showing a picture, says about 70 people attended the Yale debate that Lila Rose compared with TPUSA events of thousands.
+
+Transcript Snippet: she's comparing this 70 people that attended this debate to Turning Point USA hosting a debate with thousands of people
+
+Anchored Artifacts: A-3023.1
+Mentions: N-3, N-233
+Related Nodes: N-11229
+Tags: relevance:context
+Investigative Direction: Obtain attendance from the Yale Political Union.
+
+---
+
+**C-9620** Host Says She Can Document Event Lead Times for Every Semester 2018 to 2024
+
+Claim Timestamp: 00:40:44
+
+Claim: The host says she can go through every semester from 2018 until 2024 to show when events were put together and will do it.
+
+Transcript Snippet: I can do every semester from 2018 until 2024.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10228
+Tags: relevance:context
+Investigative Direction: Await the promised semester-by-semester documentation.
+
+---
+
+**C-9621** Host Says the Public Wants to Know Who Made the UVU Event Come Together So Fast
+
+Claim Timestamp: 00:41:28
+
+Claim: The host says it is possible someone made a phone call to make the event happen, and that the public wants to know who that somebody was.
+
+Transcript Snippet: would like to know who that somebody was that made that event come together very quickly
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10228, N-10224, N-10012
+Tags: relevance:core
+Investigative Direction: Identify who at TPUSA or UVU approved the event and when.
+
+---
+
+**C-9622** Host Says Protesters Burned an Effigy of Michael Knowles at a TPUSA Event
+
+Claim Timestamp: 00:41:28
+
+Claim: The host says protesters burned an effigy of Michael Knowles at a Turning Point USA event.
+
+Transcript Snippet: They will burn you an effigy as they did uh to Michael Knowles at a Turning Point USA event.
+
+Anchored Artifacts: 
+Mentions: N-3, N-102
+Related Nodes: N-10000
+Tags: relevance:tangential
+Investigative Direction: Find news coverage of the Knowles effigy incident.
+
+---
+
+**C-9623** Host Says Stuckey Softened the Fed Discord Messages
+
+Claim Timestamp: 00:42:32
+
+Claim: The host says Allie Beth Stuckey, regarding the Fed Discord messages, said even if they were written by the Feds she still thinks Tyler Robinson murdered Charlie.
+
+Transcript Snippet: Well, even if these are written by the Feds, I still think he was murdered by Tyler Robinson.
+
+Anchored Artifacts: 
+Mentions: N-3, N-232, N-40
+Related Nodes: N-10013, N-10014
+Tags: relevance:core
+Investigative Direction: Find the Stuckey clip and confirm her wording.
+
+---
+
+**C-9624** Host Says Allie Beth Stuckey Hired Alyssa Cordova, Formerly Daily Wire PR Head
+
+Claim Timestamp: 00:44:35
+
+Claim: The host says Allie Beth Stuckey has hired Alyssa Cordova, who was formerly the head PR person at the Daily Wire.
+
+Transcript Snippet: Alyssa Cordova was formerly the PR person, head PR person at Daily Wire.
+
+Anchored Artifacts: 
+Mentions: N-3, N-232, N-234
+Tags: relevance:context
+Investigative Direction: Confirm Cordova's current role with Stuckey and her Daily Wire title.
+
+---
+
+**C-9625** Host Alleges Cordova Sends Out-of-Context Clips to Online Accounts to Attack People
+
+Claim Timestamp: 00:44:35
+
+Claim: The host alleges Alyssa Cordova keeps out-of-context clips and sends them to online accounts such as Ian Miles Cheong with a call to attack the target.
+
+Transcript Snippet: she intentionally has out of context clips, which she then sends to people um a whole little orbit of bees online like Ian Miles Chong
+
+Anchored Artifacts: 
+Mentions: N-3, N-234, N-616
+Tags: relevance:context
+Investigative Direction: Allegation only; ask the host for the messages or sources behind it.
+
+---
+
+**C-9626** Host Says Alex Clark Posed for the WSJ and Tried to Hard Launch Her Podcast
+
+Claim Timestamp: 00:46:06
+
+Claim: The host says Alex Clark wore boots and stood outside for a Wall Street Journal photo a couple of days after Charlie died and tried to hard launch her podcast.
+
+Transcript Snippet: she wasn't traumatized when she like wore boots and stood outside for Wall Street Journal to click a picture of her a couple days after Charlie died.
+
+Anchored Artifacts: 
+Mentions: N-3, N-99
+Related Nodes: N-11098
+Tags: relevance:context
+Investigative Direction: Obtain the WSJ article, photo date and Clark's podcast launch date.
+
+---
+
+**C-9627** Host Says Mikey McCoy Was Being Primed to Take Over, Heard From His Father and TPUSA
+
+Claim Timestamp: 00:47:00
+
+Claim: The host says that things said about Mikey McCoy after the assassination made people feel he was being primed to take over for Charlie, and that this was heard from his father and from people at TPUSA.
+
+Transcript Snippet: And we heard these things from his father. We heard these things from people at Turning Point USA.
+
+Anchored Artifacts: 
+Mentions: N-3, N-194, N-1
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Identify the father's and TPUSA people's statements, with dates.
+
+---
+
+**C-9628** Host Says Mikey Took Over Charlie's Liberty University Slot
+
+Claim Timestamp: 00:48:02
+
+Claim: The host says it is a fact that Mikey McCoy took over for Charlie, who was slated to speak at Liberty University.
+
+Transcript Snippet: he took over for Charlie who was slated to speak at Liberty University. Okay, that's just a fact.
+
+Anchored Artifacts: 
+Mentions: N-3, N-194, N-1
+Related Nodes: N-11104
+Tags: relevance:core
+Investigative Direction: Confirm via Liberty University's convocation schedule and event coverage.
+
+---
+
+**C-9629** Host Says TPUSA Raised Something Like 70 Million in the Weeks After Charlie's Death
+
+Claim Timestamp: 00:48:02
+
+Claim: The host says she first heard TPUSA made 70 million in the couple of weeks after Charlie's death, and that the figure has gone up since.
+
+Transcript Snippet: I think uh first heard it was 70 million.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000, N-11014
+Tags: relevance:context
+Investigative Direction: Find TPUSA financial disclosures or reporting on post-assassination donations and sales.
+
+---
+
+**C-9630** Host Says TPUSA Sold Freedom Charlie T-shirts at the Memorial
+
+Claim Timestamp: 00:48:47
+
+Claim: The host says TPUSA was selling products, including freedom Charlie T-shirts, at the memorial event.
+
+Transcript Snippet: They were selling like T-shirts at the memorial event, like freedom Charlie T-shirts.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10000, N-11014
+Tags: relevance:context
+Investigative Direction: Find photos or reporting of merchandise sales at the State Farm Stadium memorial.
+
+---
+
+**C-9631** Host Says Her Tribute Episode Ran Zero Ads Including From YouTube
+
+Claim Timestamp: 00:48:47
+
+Claim: The host says her tribute episode ran absolutely zero ads and she did not let YouTube run ads on it.
+
+Transcript Snippet: on our tribute episode, we ran absolutely zero ads. We didn't even let YouTube run ads on that episode.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11230
+Tags: relevance:context
+Investigative Direction: Check the tribute episode's monetization status in YouTube Studio.
+
+---
+
+**C-9632** Host Says Alex Clark Merely Postponed Ads and Made Them Up Later
+
+Claim Timestamp: 00:48:47
+
+Claim: The host says Alex Clark did not decline the ads but postponed reading them and said she made them up later.
+
+Transcript Snippet: You postponed having to read ads and said that you made them up later.
+
+Anchored Artifacts: 
+Mentions: N-3, N-99
+Related Nodes: N-11230
+Contradicts: C-1630
+Tags: relevance:context
+Investigative Direction: Review Clark's later episodes for make-good ad reads and her statements about them.
+
+---
+
+**C-9633** Host Says Alex Clark Lied About Her on Her Podcast
+
+Claim Timestamp: 00:50:20
+
+Claim: The host says Alex Clark is mad because she lied about the host on her podcast and the host called it out.
+
+Transcript Snippet: She's mad because she lied about me on her podcast and I called it out.
+
+Anchored Artifacts: 
+Mentions: N-3, N-99
+Related Nodes: N-10104
+Tags: relevance:context
+Investigative Direction: Compare Clark's podcast statements about the host's Catholic claims with the record.
+
+---
+
+**C-9634** Host Says Dodge Did Not Exist Before Elon Musk, Rebutting Clark
+
+Claim Timestamp: 00:50:20
+
+Claim: The host says Alex Clark's account that Charlie wanted a DOGE every year cannot be right because DOGE did not exist before Elon Musk.
+
+Transcript Snippet: No, you don't do a Dodge every year. You want to know how I know that? Because Dodge didn't exist before Elon Musk.
+
+Anchored Artifacts: 
+Mentions: N-3, N-99, N-119, N-1
+Related Nodes: N-10132, N-11171
+Tags: relevance:core
+Investigative Direction: Find Clark's original statement and any pre-2025 TPUSA financial-audit unit.
+
+---
+
+**C-9635** Host Says She Did Not Say Mikey McCoy Murdered Charlie
+
+Claim Timestamp: 00:50:20
+
+Claim: The host says she said TPUSA is engaged in a cover-up but did not say Mikey McCoy murdered Charlie Kirk.
+
+Transcript Snippet: Yes, I did say that. I didn't say that Mikey murdered Charlie Kirk.
+
+Anchored Artifacts: 
+Mentions: N-3, N-194, N-1
+Related Nodes: N-10000
+Supports: C-3755
+Tags: relevance:core
+Investigative Direction: Review earlier episodes for the host's exact words about McCoy.
+
+---
+
+**C-9636** Host Says TPUSA Lied About Catholicism Because of Donor Pressure
+
+Claim Timestamp: 00:51:26
+
+Claim: The host says, in a sarcastic address to Alex Clark, that TPUSA likely lied about Charlie's Catholicism because it was more concerned with Christian Zionist donors and pressure from Jewish donors.
+
+Transcript Snippet: It was because likely um you guys were more concerned with your Christian Zionist donors and also pressure from your Jewish donors.
+
+Anchored Artifacts: 
+Mentions: N-3, N-99, N-1
+Related Nodes: N-10000, N-10209, N-10104
+Supports: C-3755
+Tags: relevance:core
+Investigative Direction: Seek donor communications about Charlie's Catholic interest; the host frames the preceding clause sarcastically.
+
+---
+
+**C-9637** Host Asks UVU TPUSA Chapter Staff to Email Tips
+
+Claim Timestamp: 00:54:40
+
+Claim: The host asks anyone who works for the UVU Turning Point USA chapter to email moretips@candaceowens.com to say how the event came together and who requested it.
+
+Transcript Snippet: please email us at moretips@candaceowens. com and let us know how that event came together, who requested it specifically.
+
+Anchored Artifacts: A-3024.1
+Mentions: N-3
+Related Nodes: N-10228, N-10012, N-10000
+Tags: relevance:core
+Investigative Direction: Follow up on any tips received about the UVU event request.
+
+---
+
+**C-9638** Host Says Overreaction by TPUSA Shows They Hit a Nerve, as With the Egyptian Planes
+
+Claim Timestamp: 00:54:40
+
+Claim: The host says that when they send out all the dogs over something minor, like her saying the event came together too quickly, there is something there, as with the Egyptian planes.
+
+Transcript Snippet: When they overreact, it's cuz we hit a nerve.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10253, N-10228
+Tags: relevance:context
+Investigative Direction: Pattern claim; compare TPUSA's responses across the episodes.
+
+---
+
+**C-9639** Host Alleges Cordova Uses NDAs to Silence People She Mistreats
+
+Claim Timestamp: 00:55:59
+
+Claim: The host alleges Alyssa Cordova treats people badly while an NDA prevents them from speaking.
+
+Transcript Snippet: She can treat you really evil, but there's an NDA preventing you, so she got to allow her to abuse you.
+
+Anchored Artifacts: 
+Mentions: N-3, N-234
+Related Nodes: N-10432
+Tags: relevance:context
+Investigative Direction: Allegation only; ask the host for the sources behind it.
+
+---
+
+**C-9640** Host Says Brigitte Macron Is a Man
+
+Claim Timestamp: 00:56:47
+
+Claim: The host says that after watching her Brigitte Macron series people will know she is a man, and that the media has lied about it.
+
+Transcript Snippet: You're like, she's a dude, obviously.
+
+Anchored Artifacts: 
+Mentions: N-3, N-82
+Tags: relevance:tangential
+Investigative Direction: Fringe assertion recorded as said; see the Macron defamation filings for the factual record.
+
+---
+
+**C-9641** Host Says Erika Can See the Prosecution's Evidence
+
+Claim Timestamp: 00:59:00
+
+Claim: The host says Erika Kirk, as next of kin, is privy to the prosecution and can see what evidence they actually have and what they are building their case on.
+
+Transcript Snippet: She can see what evidence they actually have and what they're building their case upon.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10229
+Supports: C-1621
+Tags: relevance:core
+Investigative Direction: Check the Utah victim-rights statute on access to evidence for next of kin.
+
+---
+
+**C-9642** Host Says She May Have Been With Charlie at the 2018 Israel Embassy Opening
+
+Claim Timestamp: 00:59:56
+
+Claim: The host says she thinks she was with Charlie at the time Erika first saw him in an Israeli airport, possibly for the embassy opening.
+
+Transcript Snippet: I think I was with Charlie by the way. That might have been for the embassy opening.
+
+Anchored Artifacts: A-1354.1
+Mentions: N-3, N-2, N-1
+Related Nodes: N-10235
+Tags: relevance:context
+Investigative Direction: Check Charlie's and the host's 2018 travel against the Jerusalem embassy opening.
+
+---
+
+**C-9643** Host Says Frank Turek Said on Stage He Knew in the Car Charlie Was Gone
+
+Claim Timestamp: 01:00:34
+
+Claim: The host says Frank Turek said on stage that he knew in the car that Charlie was gone.
+
+Transcript Snippet: Frank Turek said it on stage that he knew in the car that he was gone.
+
+Anchored Artifacts: 
+Mentions: N-3, N-7, N-1
+Related Nodes: N-10234, N-10687
+Tags: relevance:core
+Investigative Direction: Find the stage remarks by Turek and compare with accounts of Charlie's care.
+
+---
+
+**C-9644** Host Says TPUSA Said Charlie Died Instantly Yet He Went Into Surgery
+
+Claim Timestamp: 01:00:34
+
+Claim: The host says people asked how Charlie went into surgery given the explanation that he died instantly, and that maybe he still had a pulse.
+
+Transcript Snippet: Because they explained that he had died instantly. It wasn't just Erika by the way.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-1
+Related Nodes: N-10234
+Tags: relevance:core
+Investigative Direction: Obtain hospital and EMS records on pulse, time of death and any surgery.
+
+---
+
+**C-9645** Host Says She Texts Ian Carroll and Dave Smith Regularly
+
+Claim Timestamp: 01:04:09
+
+Claim: The host says she texts Ian Carroll and Dave Smith regularly to share information and ask for guidance, but has not done so with Jimmy Dore.
+
+Transcript Snippet: Ian Carroll we text regularly. Dave Smith we text regularly when we're sharing information.
+
+Anchored Artifacts: 
+Mentions: N-3, N-384, N-39, N-864
+Tags: relevance:tangential
+Investigative Direction: Context on the host's network; no confirmation needed.
+
+---
+
+**C-9646** Host Says She Could Not Offer Her Team Health Insurance in the First Year
+
+Claim Timestamp: 01:06:06
+
+Claim: The host says that when her team came with her from the Daily Wire she told them she could not offer health insurance in the first year and that her husband pulled the business together.
+
+Transcript Snippet: We can't offer you cannot offer you health insurance in the first year.
+
+Anchored Artifacts: 
+Mentions: N-3, N-30, N-68
+Related Nodes: N-11228
+Tags: relevance:tangential
+Investigative Direction: No verification needed beyond the host's account.
+
+---
+
 ## VI. Cross-Reference Summary
 
 - Every claim has at least one artifact anchor and at least one node.
@@ -923,6 +2359,45 @@ Quote: It's just it's it's been one big nothing burger.
 Context: Host dismisses thin case-building as a nothing burger.
 Tags: dismissal, dunk, sarcasm
 Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:54:40
+Speaker: N-3
+Quote: please email us at moretips@candaceowens. com and let us know how that event came together, who requested it specifically.
+Context: Host asks UVU TPUSA chapter staff to send tips about the event request.
+Tags: tips, dia
+Confidence: high
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 01:03:27
+Speaker: N-3
+Quote: Christ is king.
+Context: Host reads a viewer comment ending with the refrain.
+Tags: refrain, faith
+Confidence: medium
+
+---
+
+**M-147** (meme) Crash Out
+
+### Occurrence 1
+
+Video Timestamp: 00:54:40
+Speaker: N-3
+Quote: Whenever they send all the dogs out about something very relatively minor
+Context: Host frames TPUSA's strong response as an overreaction.
+Tags: overreaction
+Confidence: low
 
 ---
 

@@ -270,6 +270,469 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2802",
+      "family_ref": "A-2802",
+      "bundle_name": "UVU Independent Review Page Excerpts Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.1",
+          "ref": "A-2802.1",
+          "description": "Host on-screen read of the independent review's executive summary opinion on page 10 (no UVU employee acted in bad faith)",
+          "related_claims": [
+            "C-6176"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:09:31",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.2",
+          "ref": "A-2802.2",
+          "description": "Host on-screen read of the review's page 11 findings on the MEAC process and deferred security decisions",
+          "related_claims": [
+            "C-6177",
+            "C-6178",
+            "C-6179"
+          ],
+          "related_nodes": [
+            "N-8"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:11:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.3",
+          "ref": "A-2802.3",
+          "description": "Host on-screen read of the verbatim email from the UVU TPUSA club president to UVU club services (review page 40)",
+          "related_claims": [
+            "C-6182",
+            "C-6183"
+          ],
+          "related_nodes": [
+            "N-10",
+            "N-8"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:15:17",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.4",
+          "ref": "A-2802.4",
+          "description": "Host on-screen walk through the review's page 17 timeline entries from July 18 to September 3, 2025",
+          "related_claims": [
+            "C-6184",
+            "C-6185",
+            "C-6186",
+            "C-6187",
+            "C-6189",
+            "C-6194",
+            "C-6195",
+            "C-6196",
+            "C-6197",
+            "C-6198",
+            "C-6199",
+            "C-6200"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10",
+            "N-277"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:17:21",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.5",
+          "ref": "A-2802.5",
+          "description": "Host on-screen walk through the review's September 10 incident-day timeline entries",
+          "related_claims": [
+            "C-6173",
+            "C-6203",
+            "C-6204",
+            "C-6205",
+            "C-6206",
+            "C-6207",
+            "C-6208",
+            "C-6209",
+            "C-6210",
+            "C-6211",
+            "C-6212"
+          ],
+          "related_nodes": [
+            "N-276",
+            "N-272",
+            "N-500"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:28:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.6",
+          "ref": "A-2802.6",
+          "description": "Host on-screen read of the review's section 2.3 on the August 25 MEAC Teams meeting (alternative locations, ticketing)",
+          "related_claims": [
+            "C-6174",
+            "C-6190",
+            "C-6191",
+            "C-6192",
+            "C-6193",
+            "C-6213",
+            "C-6214",
+            "C-6215"
+          ],
+          "related_nodes": [
+            "N-8",
+            "N-277",
+            "N-766"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:31",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.7",
+          "ref": "A-2802.7",
+          "description": "Host on-screen read of the review's section 2.4 (page 41) on the club president's completed MEAC questionnaire",
+          "related_claims": [
+            "C-6216",
+            "C-6217"
+          ],
+          "related_nodes": [
+            "N-10"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:37:42",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.8",
+          "ref": "A-2802.8",
+          "description": "Host on-screen read of the review passage (bottom of page 42) on Chief Long's SIAC email about an electromagnetic pulse tip",
+          "related_claims": [
+            "C-6218"
+          ],
+          "related_nodes": [
+            "N-277"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:39:54",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.9",
+          "ref": "A-2802.9",
+          "description": "Host on-screen read of the verbatim Dan Flood and Chief Long text exchange about Hall of Flags walkway roof access",
+          "related_claims": [
+            "C-6201",
+            "C-6202",
+            "C-6205",
+            "C-6219",
+            "C-6220"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-276",
+            "N-277"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:42:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.10",
+          "ref": "A-2802.10",
+          "description": "Host on-screen read of the review's page 47 list of Brian Harpole podcast statements",
+          "related_claims": [
+            "C-6221",
+            "C-6222",
+            "C-6223",
+            "C-6224",
+            "C-6225"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-272",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:33",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.11",
+          "ref": "A-2802.11",
+          "description": "Host on-screen read of the review's drone and counter-sniper discussion of Harpole's podcast statements",
+          "related_claims": [
+            "C-6226",
+            "C-6227"
+          ],
+          "related_nodes": [
+            "N-272"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:46:19",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.12",
+          "ref": "A-2802.12",
+          "description": "Host on-screen read of the review passage (bottom of page 48) on Officer Bagley's first suggestion to go up to the Losee Center roof",
+          "related_claims": [
+            "C-6228",
+            "C-6229",
+            "C-6230",
+            "C-6231"
+          ],
+          "related_nodes": [
+            "N-518",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.13",
+          "ref": "A-2802.13",
+          "description": "Host on-screen read of the top of review page 53 listing preparation gaps",
+          "related_claims": [
+            "C-6232",
+            "C-6233",
+            "C-6234",
+            "C-6264"
+          ],
+          "related_nodes": [
+            "N-277",
+            "N-272",
+            "N-276"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2802.14",
+          "ref": "A-2802.14",
+          "description": "Host on-screen read of the review's passages on TPUSA ticketing, registration and absence of credentialing or screening",
+          "related_claims": [
+            "C-6235",
+            "C-6236",
+            "C-6237",
+            "C-6238"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:54",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2803",
+      "family_ref": "A-2803",
+      "bundle_name": "Charlie Kirk July 14 2025 Epstein Remarks Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2803.1",
+          "ref": "A-2803.1",
+          "description": "Played clip of Charlie Kirk saying he is done talking about Epstein for the time being and will trust the administration",
+          "related_claims": [
+            "C-6244",
+            "C-6245",
+            "C-6246"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-9",
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:59:39",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2804",
+      "family_ref": "A-2804",
+      "bundle_name": "Host Verbal Source References Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2804.1",
+          "ref": "A-2804.1",
+          "description": "Host verbal reference to her own Wayback Machine search of Frank Turek's deleted website (not shown)",
+          "related_claims": [
+            "C-6242"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:58:55",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2804.2",
+          "ref": "A-2804.2",
+          "description": "Host verbal reference to a New York Times report of President Trump's July 12 call to Charlie Kirk (not shown)",
+          "related_claims": [
+            "C-6243"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:58:55",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2804.3",
+          "ref": "A-2804.3",
+          "description": "Host verbal reference to the FOIA response she received about who was on Kash Patel's Omaha flight (not shown)",
+          "related_claims": [
+            "C-6260"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:06:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2804.4",
+          "ref": "A-2804.4",
+          "description": "Host verbal reference to public information she gathered on Maycee Crofts's family and uncle (not shown)",
+          "related_claims": [
+            "C-6265",
+            "C-6266",
+            "C-6267",
+            "C-6268"
+          ],
+          "related_nodes": [
+            "N-8",
+            "N-3",
+            "N-12"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:09:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2804.5",
+          "ref": "A-2804.5",
+          "description": "Host verbal reference to her unnamed sources on missing Turning Point Action money and Charlie Kirk's alleged plan to fire Tyler Bowyer (not shown)",
+          "related_claims": [
+            "C-6274",
+            "C-6275",
+            "C-6276"
+          ],
+          "related_nodes": [
+            "N-11",
+            "N-3",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:20:39",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2804.6",
+          "ref": "A-2804.6",
+          "description": "Host verbal reference to a New York Post story alleging she accepted $1.5 million from Harvey Weinstein (not shown)",
+          "related_claims": [
+            "C-6280",
+            "C-6281"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-231"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:26:32",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -761,7 +1224,12 @@
       "type": "person",
       "description": "TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3584",
+        "C-3586",
+        "C-3587",
+        "C-3593"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -806,7 +1274,9 @@
       "type": "person",
       "description": "Relative of Maycee Crofts. Host cites a public criminal-case dismissal news clip while sketching her biography.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3593"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -848,6 +1318,1223 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named as the president who called Charlie Kirk on July 12 and as the president who agreed to bomb nuclear sites in the June timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6243",
+        "C-6284"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Subject of Charlie Kirk's July 2025 Epstein-coverage pressure, the July 14 clip and the Trump call.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6243",
+        "C-6244"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-19",
+      "ref": "N-19",
+      "name": "Laine Schoneberger",
+      "type": "person",
+      "description": "Named by the host as the sponsor representative who will be present when Charlie goes down; tied to the July 25 sponsorship addendum.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6251"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Named for his July 11 Student Action Summit remarks and the Ackman comment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6240",
+        "C-6241",
+        "C-6246",
+        "C-6254"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Named in the host timeline for the July 7 to 9 Washington visit, the August call, the Israel invitation and the declined show appearance.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6239",
+        "C-6255",
+        "C-6256",
+        "C-6257",
+        "C-6258"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Named as the Hamptons retreat sponsor and as the person Tucker Carlson questioned on stage (transcript spelling Bill Aman).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6241",
+        "C-6254"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named in the host's note on when a girl he is said to approach arrived on campus.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6207"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Named with Tucker Carlson as explaining Kirk's Epstein push at SAS.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6246"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-59",
+      "ref": "N-59",
+      "name": "Nelk Boys",
+      "type": "person",
+      "description": "Named as the podcast hosts Netanyahu recorded with during his July 2025 Washington visit (transcript spelling Elk Boys).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6239"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Named in the August 19 Omaha field office visit, the FOIA response and Kirk's clip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6245",
+        "C-6259",
+        "C-6260"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "Named by Charlie Kirk in the July 14 clip among officials he trusts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6245"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Named for the Maine vacation footage and for allegedly telling people Charlie wanted to fire Tyler Bowyer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6250",
+        "C-6276"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-221",
+      "ref": "N-221",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Named as Elizabeth, who joined the Maine vacation with Mikey McCoy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6250"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-231",
+      "ref": "N-231",
+      "name": "Harvey Weinstein",
+      "type": "person",
+      "description": "Named as the person the New York Post story said paid the host $1.5 million, which she denies.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6280",
+        "C-6281"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-232",
+      "ref": "N-232",
+      "name": "Allie Beth Stuckey",
+      "type": "person",
+      "description": "Named for sharing correspondence with Andrew Kolvet to rebut the host (transcript spelling Ally Stucky).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6180"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-338",
+      "ref": "N-338",
+      "name": "Andrew Seifer",
+      "type": "person",
+      "description": "Named as Andrew Cipher in the transcript: TPUSA's longtime head of field, promoted to a chief position per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6263",
+        "C-6272",
+        "C-6273"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-369",
+      "ref": "N-369",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Named in the host's reference to Harpole's lawyer commenting on the Mitch story.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6278"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-388",
+      "ref": "N-388",
+      "name": "Dan Bongino",
+      "type": "person",
+      "description": "Named by Charlie Kirk in the July 14 clip (transcript spelling Dan Bonino).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6245"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-500",
+      "ref": "N-500",
+      "name": "Lori Frantzve",
+      "type": "person",
+      "description": "Named for the host's remark linking her family to EMPs.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6203"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-518",
+      "ref": "N-518",
+      "name": "Christopher Bagley",
+      "type": "person",
+      "description": "Officer Bagley, named in the review passage on the first suggestion to go up to the Losee Center roof.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6228",
+        "C-6229",
+        "C-6230",
+        "C-6231"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-547",
+      "ref": "N-547",
+      "name": "Todd Blanche",
+      "type": "person",
+      "description": "Named by Charlie Kirk in the July 14 clip among officials he trusts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6245"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-680",
+      "ref": "N-680",
+      "name": "James Kaddis",
+      "type": "person",
+      "description": "Named as the Calvary Chapel pastor hosting Erika's July 14 speech (transcript spelling James Catis).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6247",
+        "C-6248"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Institution commissioning the Lake Force review and hosting the September 10 event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6172",
+        "C-6176",
+        "C-6179",
+        "C-6196",
+        "C-6282"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10018",
+      "ref": "N-10018",
+      "name": "Netanyahu Israel Invitation Phone Call",
+      "type": "investigation_target",
+      "description": "Topic of Netanyahu inviting Charlie Kirk to Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6257"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10027",
+      "ref": "N-10027",
+      "name": "The Hamptons",
+      "type": "investigation_target",
+      "description": "Place of the August 2025 donor retreat.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6253",
+        "C-6254"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Place whose airport airspace Harpole cited for the drone restriction.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6226"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10117",
+      "ref": "N-10117",
+      "name": "Jezebel/Etsy Hex on Charlie Kirk",
+      "type": "investigation_target",
+      "description": "Topic of the Jezebel witch's curse article.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6285"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10122",
+      "ref": "N-10122",
+      "name": "Jezebel",
+      "type": "investigation_target",
+      "description": "Publication that ran the June 26 witch's curse article.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6285"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10129",
+      "ref": "N-10129",
+      "name": "Orem Police Department",
+      "type": "investigation_target",
+      "description": "Neighboring police department whose drone the review says could have been requested.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6227"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10219",
+      "ref": "N-10219",
+      "name": "Mikey McCoy Pre-Death Documentation Pattern",
+      "type": "investigation_target",
+      "description": "Prior topic on Mikey McCoy's pre-death documentation pattern, tied to the Maine footage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6250"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Topic tracking the Egyptian planes in the July and August timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6249",
+        "C-6252",
+        "C-6259"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10264",
+      "ref": "N-10264",
+      "name": "Calvary Chapel Pro-Israel Coordination",
+      "type": "investigation_target",
+      "description": "Topic for Calvary Chapel pro-Israel coordination, linked to Erika's July 14 speech.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6247",
+        "C-6248"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10276",
+      "ref": "N-10276",
+      "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
+      "type": "investigation_target",
+      "description": "Topic tying Nebraska flights to the Egyptian plane timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6249",
+        "C-6259"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Topic for Epstein files release, tied to Kirk's July pressure.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6244",
+        "C-6245"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "investigation_target",
+      "description": "Prior topic on the Netanyahu offer to take TPUSA to the next level; the host adds Kolvet's account and TPUSA's private rebuttal.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6255",
+        "C-6256"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10347",
+      "ref": "N-10347",
+      "name": "Egyptian Planes Israel Flight Pattern",
+      "type": "investigation_target",
+      "description": "Topic for Egyptian planes and Israel flight patterns.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6252"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10356",
+      "ref": "N-10356",
+      "name": "Brian Harpole Dan Flood Text Misattribution",
+      "type": "investigation_target",
+      "description": "Prior topic on Harpole presenting the Flood and Long texts as his own; reinforced by the verbatim exchange read here.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6200",
+        "C-6201",
+        "C-6202",
+        "C-6219",
+        "C-6220"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10366",
+      "ref": "N-10366",
+      "name": "Operation Valhalla Strike",
+      "type": "investigation_target",
+      "description": "Prior topic on Operation Valhalla Strike, which the host places in Minnesota from August 24.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6261"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10388",
+      "ref": "N-10388",
+      "name": "Missing Money from Turning Point Action",
+      "type": "investigation_target",
+      "description": "Topic for missing Turning Point Action money and the alleged plan to fire Tyler Bowyer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6274",
+        "C-6275",
+        "C-6276"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10412",
+      "ref": "N-10412",
+      "name": "Erica Kirk June 19 Instagram Purge",
+      "type": "investigation_target",
+      "description": "Prior topic on Erika Kirk's June 19 Instagram purge.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6283"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10446",
+      "ref": "N-10446",
+      "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
+      "type": "investigation_target",
+      "description": "Prior topic on the Hamptons Netanyahu funding offer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6255"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10456",
+      "ref": "N-10456",
+      "name": "Charlie Kirk BB Netanyahu Show Refusal",
+      "type": "investigation_target",
+      "description": "Prior topic on Charlie declining to host Netanyahu.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6258"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10539",
+      "ref": "N-10539",
+      "name": "Charlie Kirk Iran War Opposition (June 2025)",
+      "type": "investigation_target",
+      "description": "Prior topic on Charlie Kirk's June Iran war opposition.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6283"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10651",
+      "ref": "N-10651",
+      "name": "Brian Harpole Lawsuit Coordination Question",
+      "type": "investigation_target",
+      "description": "Prior topic on Harpole lawsuit coordination, tied to the host's statement that she is being sued.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6221",
+        "C-6278"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10673",
+      "ref": "N-10673",
+      "name": "Hamptons August 5–7 Intervention Event",
+      "type": "investigation_target",
+      "description": "Prior topic on the August Hamptons intervention event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6253",
+        "C-6254"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10674",
+      "ref": "N-10674",
+      "name": "June 18 White House Meeting on Iran Involvement",
+      "type": "investigation_target",
+      "description": "Prior topic on the June 18 White House meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6283"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10687",
+      "ref": "N-10687",
+      "name": "Frank Turek CPR Claim Verification",
+      "type": "investigation_target",
+      "description": "Prior topic on Frank Turek's CPR claim, tied to the review's fire chief CPR line.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6212"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10699",
+      "ref": "N-10699",
+      "name": "Brian Harpole vs Frank Turek CPR Contradiction",
+      "type": "investigation_target",
+      "description": "Prior topic on the Harpole and Turek CPR contradiction.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6212"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10700",
+      "ref": "N-10700",
+      "name": "Pending FOIA Requests",
+      "type": "investigation_target",
+      "description": "Prior topic listing pending FOIA requests.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6260"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10725",
+      "ref": "N-10725",
+      "name": "Officer Bagley Body-Cam Battery Anomaly",
+      "type": "investigation_target",
+      "description": "Prior topic on Officer Bagley's body camera battery.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6228",
+        "C-6229",
+        "C-6230"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10784",
+      "ref": "N-10784",
+      "name": "Officer Bagley – Sex Crimes Unit Background",
+      "type": "investigation_target",
+      "description": "Prior topic on Officer Bagley's sex crimes background.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6231"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10841",
+      "ref": "N-10841",
+      "name": "Nampa Christian School Opt-In Question",
+      "type": "investigation_target",
+      "description": "Prior topic on Nampa, Idaho context linked by the host to Kip Crofts's arrest by Nampa police.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6266"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10870",
+      "ref": "N-10870",
+      "name": "Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum",
+      "type": "investigation_target",
+      "description": "Prior topic on the Why Refi sponsorship and the July 25 addendum.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6251"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10871",
+      "ref": "N-10871",
+      "name": "Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)",
+      "type": "investigation_target",
+      "description": "Prior topic on the expanded concurrent timeline for 2025.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6239",
+        "C-6243",
+        "C-6244",
+        "C-6247"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10888",
+      "ref": "N-10888",
+      "name": "Department of War",
+      "type": "investigation_target",
+      "description": "Named as the agency the host says runs a paid online campaign.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6171"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10925",
+      "ref": "N-10925",
+      "name": "Turning Point Action",
+      "type": "investigation_target",
+      "description": "Organization whose finances are the subject of the missing money rumors.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6274"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-766",
+      "ref": "N-766",
+      "name": "Robin Emer",
+      "type": "person",
+      "description": "First named by the host at 00:36:24 in episode 157 as UVU's director of emergency management and safety who expressed reservations at the August 25 MEAC meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6214"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-767",
+      "ref": "N-767",
+      "name": "Astrid Tuminez",
+      "type": "person",
+      "description": "First named by the host at 00:23:46 in episode 157 as UVU President, in the transcript spelling Tumz.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6196"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-768",
+      "ref": "N-768",
+      "name": "Alana Minton",
+      "type": "person",
+      "description": "First named by the host at 01:11:03 in episode 157 as the Canyon County prosecuting attorney who told the judge the classroom door may have been locked.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6268"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-769",
+      "ref": "N-769",
+      "name": "Claire Ginan",
+      "type": "person",
+      "description": "First named by the host at 01:27:40 in episode 157 as the writer of a June 26 Jezebel article with no prior writing profile.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6285"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11074",
+      "ref": "N-11074",
+      "name": "UVUPD Fugal Gateway Command Post",
+      "type": "topic",
+      "description": "Chief Long's command post on the second floor of the Fugal Gateway building from 11:30 a.m. on September 10, from which the review says the whole event area was visible and which no TPUSA security member joined.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6211"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11075",
+      "ref": "N-11075",
+      "name": "Wristband and VIP Access Question",
+      "type": "topic",
+      "description": "The host's question about who distributed wristbands to people seated near Charlie Kirk's vehicle given the review's finding of no formal credentialing, screening or ticket verification.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6236",
+        "C-6237",
+        "C-6238"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11076",
+      "ref": "N-11076",
+      "name": "Lake Forest Group",
+      "type": "organization",
+      "description": "The third-party firm UVU engaged almost immediately after the assassination to review security protocols for the September 10 event (transcript spelling Lake Force).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6172"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11077",
+      "ref": "N-11077",
+      "name": "UVU Major Events Assessment Committee (MEAC)",
+      "type": "organization",
+      "description": "The UVU committee, convened from August 21, 2025, that reviewed the TPUSA event in an August 25 Teams meeting and approved it on August 27.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6174",
+        "C-6177",
+        "C-6187",
+        "C-6190",
+        "C-6191",
+        "C-6192",
+        "C-6193",
+        "C-6197",
+        "C-6213",
+        "C-6214",
+        "C-6262"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11078",
+      "ref": "N-11078",
+      "name": "UVU Free Speech Committee",
+      "type": "organization",
+      "description": "The UVU committee the host praises for flagging expected protests, monitoring complaints and discussing emergency operations center activation before the event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6189",
+        "C-6193",
+        "C-6195"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11079",
+      "ref": "N-11079",
+      "name": "Operation Midnight Hammer",
+      "type": "topic",
+      "description": "The June 2025 U.S. strike on Iranian nuclear sites named by the host in her concurrent timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6284"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11080",
+      "ref": "N-11080",
+      "name": "Student Action Summit July 2025 (Tampa)",
+      "type": "topic",
+      "description": "The TPUSA Student Action Summit held July 11 to 13, 2025 in Tampa, Florida, where Tucker Carlson spoke and Kirk's Epstein remarks drew donor reaction per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6240",
+        "C-6241",
+        "C-6246"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11081",
+      "ref": "N-11081",
+      "name": "New York Post Weinstein Payment Story",
+      "type": "topic",
+      "description": "The story the host says the New York Post ran in the week of the episode implying she accepted $1.5 million from Harvey Weinstein, which she denies.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6280",
+        "C-6281"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1108,7 +2795,2622 @@
       "mentions_person_refs": [
         "N-1"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6171",
+      "ref": "C-6171",
+      "label": "Host says the Department of War ran a paid online campaign against doubters",
+      "claim": "The host says the Department of War has executed an online campaign paying people to attack her and others every day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10888"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Obtain contracts, payment records or disclosures showing any Department of War payments to online accounts attacking the host.",
+      "transcript_snippet": "The Department of War has executed a campaign, an online campaign, paying people to attack every single day",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6172",
+      "ref": "C-6172",
+      "label": "UVU engaged the Lake Force Group almost immediately for a broad security review",
+      "claim": "The host says UVU almost immediately engaged a third party, the Lake Force group, to conduct a broad review of the security protocols for September 10, opening the campus and police to interviews.",
+      "anchored_artifacts": [
+        "A-2451.1"
+      ],
+      "related_nodes": [
+        "N-10012",
+        "N-10839",
+        "N-11076"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:14",
+      "investigative_direction": "Obtain UVU's engagement letter or contract with Lake Force Group and its date, scope and publication notice.",
+      "transcript_snippet": "essentially almost immediately UVU reached out to a third party uh the Lake Force group to conduct a review, a broad review of the security protocols",
+      "mentions_person_refs": [
+        "N-10839",
+        "N-11076"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6173",
+      "ref": "C-6173",
+      "label": "Review describes Dan Flood as the TPUSA security coordinator with Harpole and a contact of Chief Long",
+      "claim": "The host reads that Dan Flood was identified as the person who coordinated security for the organization with Brian Harpole of Integrity Solutions and was present at UVU on September 10.",
+      "anchored_artifacts": [
+        "A-2802.5"
+      ],
+      "related_nodes": [
+        "N-10694"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:58",
+      "investigative_direction": "Check the review's description of Flood's role against TPUSA staffing records and the Flood and Long phone and text logs.",
+      "transcript_snippet": "Flood was was identified as the person who coordinated security for the organization with Brian Harpole of Integrity Solutions.",
+      "mentions_person_refs": [
+        "N-276",
+        "N-272",
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6174",
+      "ref": "C-6174",
+      "label": "Review says Maycee Crofts joined the August 25 MEAC planning meeting online",
+      "claim": "The host reads that Maycee Crofts, a TPUSA senior field representative, participated online in the major events assessment committee planning meeting held on August 25 for the September 10 TPUSA event.",
+      "anchored_artifacts": [
+        "A-2802.6"
+      ],
+      "related_nodes": [
+        "N-11077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:58",
+      "investigative_direction": "Obtain the MEAC Teams attendee log and any recording or minutes for August 25.",
+      "transcript_snippet": "And she participated online in the major events assessment committee planning meeting that was held on August 25th regarding the September 10th TPUSA event.",
+      "mentions_person_refs": [
+        "N-8"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6175",
+      "ref": "C-6175",
+      "label": "Utah risk-management official urged TPUSA to have its people cooperate with the review",
+      "claim": "The host reads that a Utah risk-management official communicated with a TPUSA executive and urged the named TPUSA-associated individuals to cooperate with the assessment, and there was no response.",
+      "anchored_artifacts": [
+        "A-2451.1"
+      ],
+      "related_nodes": [
+        "N-10859",
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:56",
+      "investigative_direction": "Identify the Utah risk-management official and the TPUSA executive contacted, and obtain the dated correspondence.",
+      "transcript_snippet": "a Utah riskmanagement official had communications with an executive of Turning Point USA and urged that the above named individuals who were associated with TPUSA on September 10th cooperate with the assessment",
+      "mentions_person_refs": [
+        "N-10839"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6176",
+      "ref": "C-6176",
+      "label": "Review opinion: no UVU employee or agent acted in bad faith",
+      "claim": "The host reads the review's stated opinion that at no time before or after the assassination did any employee or agent of UVU act in bad faith or in willful and wanton disregard for the safety of others, while identifying actions and practices that warrant attention.",
+      "anchored_artifacts": [
+        "A-2802.1"
+      ],
+      "related_nodes": [
+        "N-10839",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:31",
+      "investigative_direction": "Compare the page 10 executive summary wording with the Kirk-family statement blaming UVU security.",
+      "transcript_snippet": "It is the opinion of the project team based on our review of all available information that at no time during the events leading up to the assassination of Charlie Kirk",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6177",
+      "ref": "C-6177",
+      "label": "Review says key event security decisions were deferred to TPUSA's field representative",
+      "claim": "The host reads the review's finding that the MEAC process began on August 21 but several key event security decisions were deferred to TPUSA's field representative even though UVU staff raised concerns about the outdoor fountain courtyard and TPUSA ticketing.",
+      "anchored_artifacts": [
+        "A-2802.2"
+      ],
+      "related_nodes": [
+        "N-11077",
+        "N-10243",
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:26",
+      "investigative_direction": "Obtain the MEAC process documents showing who held decision authority and the August 21 initiation record.",
+      "transcript_snippet": "However, several key event security decisions were deferred to Turning Point USA's field representative.",
+      "mentions_person_refs": [
+        "N-8"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6178",
+      "ref": "C-6178",
+      "label": "Review says TPUSA's venue and ticketing choices limited UVU's control and attendance information",
+      "claim": "The host reads the review's finding that holding the event in the fountain courtyard and using TPUSA's own ticketing placed the event in an area more difficult to control and limited UVU's ability to obtain reliable real-time attendance information.",
+      "anchored_artifacts": [
+        "A-2802.2"
+      ],
+      "related_nodes": [
+        "N-10243",
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:26",
+      "investigative_direction": "Compare UVU's venue risk notes with the final attendance figures and TPUSA registration data.",
+      "transcript_snippet": "Those decisions placed the event in an area that was more difficult to control and limited UVU's ability to obtain reliable real-time information regarding anticipated attendance and crowd size.",
+      "mentions_person_refs": [
+        "N-10839"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6179",
+      "ref": "C-6179",
+      "label": "Review says UVU should have retained decision authority over venue, ticketing and access",
+      "claim": "The host reads the review's statement that, because the event was on UVU's campus, UVU should have retained decision-making authority over key security issues including venue selection, ticketing and access control.",
+      "anchored_artifacts": [
+        "A-2802.2"
+      ],
+      "related_nodes": [
+        "N-10012",
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:26",
+      "investigative_direction": "Obtain UVU's event policy on who holds security decision authority for outside-organization events.",
+      "transcript_snippet": "UVU should have retained decision-making authority over key security related issues, including the venue selection, the ticketing and access control",
+      "mentions_person_refs": [
+        "N-10839"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6180",
+      "ref": "C-6180",
+      "label": "Host says Allie Beth Stuckey shared Andrew's correspondence to rebut her",
+      "claim": "The host says Allie Beth Stuckey, whom she says never headlined a tour with Charlie Kirk, shared an exchange between her and Andrew about putting together an event last second for this exact tour as evidence that the host was lying.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:21",
+      "investigative_direction": "Locate Stuckey's original post and the correspondence she shared, and compare the event dates with the UVU booking chain.",
+      "transcript_snippet": "She shares a an an ex correspondence between her and Andrew putting together an event last second for this exact tour as evidence that I'm somehow lying.",
+      "mentions_person_refs": [
+        "N-232",
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6181",
+      "ref": "C-6181",
+      "label": "Host describes the normal TPUSA event booking process as chapter requests planned a semester ahead",
+      "claim": "The host says TPUSA chapters normally request headliners through TPUSA national, with the process taking place the semester before at a minimum because the wait list is long.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10675"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:41",
+      "investigative_direction": "Obtain TPUSA's chapter speaker-request procedure and a sample of lead times for past campus events.",
+      "transcript_snippet": "And it is a process that takes place as I said to you guys the semester before at a minimum at a bare minimum because the wait list is long.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6182",
+      "ref": "C-6182",
+      "label": "Host says the club president did not know why he was requesting the event",
+      "claim": "The host says Caleb Chilcutt, whose email the review includes, did not know why he was requesting the event.",
+      "anchored_artifacts": [
+        "A-2802.3"
+      ],
+      "related_nodes": [
+        "N-10860"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:17",
+      "investigative_direction": "Interview or obtain a statement from Chilcutt on what he was told about the purpose of the request.",
+      "transcript_snippet": "And he didn't even know why he was requesting it. Stunning.",
+      "mentions_person_refs": [
+        "N-10"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6183",
+      "ref": "C-6183",
+      "label": "Club president's verbatim email says his TPUSA field representative asked him to book the courtyard",
+      "claim": "The host reads the review's verbatim email in which the UVU TPUSA club president tells UVU club services that his TPUSA field representative asked him to ask about hosting an event in the courtyard on September 10 from 9:00 a.m. to 4:00 p.m., and that she was quite vague on what the event was.",
+      "anchored_artifacts": [
+        "A-2802.3"
+      ],
+      "related_nodes": [
+        "N-10860",
+        "N-10675"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:17",
+      "investigative_direction": "Obtain the original email with header metadata and the reply from club services.",
+      "transcript_snippet": "My field representative for Turning Point USA has asked me to reach out to UVU club department to ask about availability on hosting an event on the courtyard on September 10th",
+      "supports_claim_refs": [
+        "C-3586"
+      ],
+      "mentions_person_refs": [
+        "N-10",
+        "N-8"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6184",
+      "ref": "C-6184",
+      "label": "Review: July 18 event request described a Kirk appearance on current events with external ticketing",
+      "claim": "The host reads the review timeline entry that on July 18 the club submitted an event request describing an appearance by Charlie Kirk to discuss current events, with ticketing handled externally by TPUSA and no university oversight.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-10675",
+        "N-10860"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:21",
+      "investigative_direction": "Obtain the July 18 event request form and its stated ticketing plan from UVU event services.",
+      "transcript_snippet": "submits an event request and the event is described as an appearance by Charlie Kirk to discuss current events",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6185",
+      "ref": "C-6185",
+      "label": "Review: club's annual TPUSA registration had to be completed before approval",
+      "claim": "The host reads that on July 28 the UVU club office advised that the TPUSA club's annual registration had to be completed, so the club was not yet officially registered when the event was proposed.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-10860",
+        "N-10675"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:21",
+      "investigative_direction": "Obtain the club registration filing date and status history from UVU club services.",
+      "transcript_snippet": "On July 28th, the club's office advises that Turning Point USA's club and annual registration had to be completed.",
+      "mentions_person_refs": [
+        "N-10675"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6186",
+      "ref": "C-6186",
+      "label": "Review: TPUSA told UVU 600 attendees and offered to connect UVUPD to its security",
+      "claim": "The host reads that in response to UVU's questionnaire TPUSA said it expected 600 attendees, that TPUSA National handled registrations, and that TPUSA security reported no risk factor for safety or security.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-10675",
+        "N-10694"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:07",
+      "investigative_direction": "Compare the 600-attendee figure and registration counts held by TPUSA National before the event.",
+      "transcript_snippet": "at that time in response to UVU's questionnaire, TPUSA told them it was going to be 600 attendees.",
+      "mentions_person_refs": [
+        "N-10"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6187",
+      "ref": "C-6187",
+      "label": "Review: Chief Long first learned of the event on August 21",
+      "claim": "The host reads that the August 21 email convening the major events committee was the first time UVU police chief Jeff Long became aware of the event.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-11077",
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:59",
+      "investigative_direction": "Obtain the August 21 event services email chain showing recipients and Chief Long's receipt.",
+      "transcript_snippet": "the first time now it's been approved tentatively that Jeff Long, the chief of police at UVU became aware of the event.",
+      "mentions_person_refs": [
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6188",
+      "ref": "C-6188",
+      "label": "Host says she believes the Kirk family filing explicitly named Chief Long",
+      "claim": "The host says she is pretty sure Erika Kirk explicitly named Jeff Long in the Kirk family's recent filing blaming security.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10859"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:59",
+      "investigative_direction": "Obtain the Kirk family filing and check whether it names Chief Long and in what context.",
+      "transcript_snippet": "I'm pretty sure she explicitly named Jeff Long in that filing.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6189",
+      "ref": "C-6189",
+      "label": "Review: UVU free speech committee flagged expected protests citing the 2019 Kirk appearance",
+      "claim": "The host reads that UVU's free speech committee flagged the event to anticipate protests, citing insights from prior TPUSA appearances including Charlie Kirk's 2019 appearance at UVU, which the host says was with her and drew protesters.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-11078",
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:28",
+      "investigative_direction": "Obtain the free speech committee's notes and the 2019 UVU event records showing protest activity.",
+      "transcript_snippet": "They have a free speech committee and they flag it because they say we're going to anticipate protests",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6190",
+      "ref": "C-6190",
+      "label": "Review: no TPUSA security attended the August 25 MEAC meeting",
+      "claim": "The host reads that not a single member of TPUSA's security attended the August 25 major events assessment meeting.",
+      "anchored_artifacts": [
+        "A-2802.6"
+      ],
+      "related_nodes": [
+        "N-11077",
+        "N-10243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:34",
+      "investigative_direction": "Obtain the MEAC attendee list and confirm whether any TPUSA security representative was invited.",
+      "transcript_snippet": "Guess who didn't attend this meeting? Not a single member of Turning Points Security attended this crucial meeting.",
+      "mentions_person_refs": [
+        "N-8"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6191",
+      "ref": "C-6191",
+      "label": "Review: TPUSA told UVU it would have about eight security personnel",
+      "claim": "The host reads that TPUSA advised UVU it would have approximately eight security personnel.",
+      "anchored_artifacts": [
+        "A-2802.6"
+      ],
+      "related_nodes": [
+        "N-11077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:35",
+      "investigative_direction": "Obtain the MEAC record of the stated headcount and compare with the personnel TPUSA actually fielded on September 10.",
+      "transcript_snippet": "TPOSA advised UVU that it would have approximately eight security personnel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6192",
+      "ref": "C-6192",
+      "label": "Review: Chief Long requested contact with TPUSA security leadership on August 25",
+      "claim": "The host reads that on August 25, fifteen days before the event, Chief Long requested contact with TPUSA's security leadership.",
+      "anchored_artifacts": [
+        "A-2802.6"
+      ],
+      "related_nodes": [
+        "N-11077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:35",
+      "investigative_direction": "Obtain Chief Long's request and any reply recorded in UVU or UVUPD files.",
+      "transcript_snippet": "Chief Long requested contact with that security leadership.",
+      "mentions_person_refs": [
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6193",
+      "ref": "C-6193",
+      "label": "Review: free speech committee discussed possible EOC activation on August 25",
+      "claim": "The host reads that during the August 25 meeting the free speech committee discussed possible activation of UVU's emergency operations center.",
+      "anchored_artifacts": [
+        "A-2802.6"
+      ],
+      "related_nodes": [
+        "N-11078",
+        "N-11077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:35",
+      "investigative_direction": "Obtain minutes showing the EOC discussion and any decision not to activate.",
+      "transcript_snippet": "Then we learn that the free speech committee discussed possible EOC activation.",
+      "mentions_person_refs": [
+        "N-11077"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6194",
+      "ref": "C-6194",
+      "label": "Review: UVU formally approved the event on August 27",
+      "claim": "The host reads that the event was formally approved on August 27, with the host saying everything happened very late.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-10675"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:35",
+      "investigative_direction": "Obtain the formal approval record, approver and date from UVU event services.",
+      "transcript_snippet": "And then on the 27th is when it's formally approved."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6195",
+      "ref": "C-6195",
+      "label": "Review: anonymous caller demanded cancellation of the event",
+      "claim": "The host reads that the free speech committee monitored complaints from August 29, including an anonymous caller who demanded that the event be cancelled.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-11078"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:46",
+      "investigative_direction": "Obtain the complaint log and any record of the anonymous call.",
+      "transcript_snippet": "they had an anonymous caller that demanded that the event be cancelled."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6196",
+      "ref": "C-6196",
+      "label": "Review: UVU President Tumz requested event planning updates on August 31",
+      "claim": "The host reads that UVU President Tumz requested updates regarding event planning on August 31.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:46",
+      "investigative_direction": "Obtain the president's office request and the response it received.",
+      "transcript_snippet": "UVU President Tumz requested updates regarding event planning on the 31st.",
+      "mentions_person_refs": [
+        "N-767"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6197",
+      "ref": "C-6197",
+      "label": "Review: on September 2 Chief Long had received no TPUSA security requests",
+      "claim": "The host reads that on September 2, a week before the event, Chief Long said he had received no security requests from TPUSA and asked for a point of contact on their security team.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-11077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:46",
+      "investigative_direction": "Obtain the September 2 Long message and any reply from Crofts or Flood.",
+      "transcript_snippet": "we're a week away from this event and uh no sec I've received no security requests from Turning Point USA.",
+      "mentions_person_refs": [
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6198",
+      "ref": "C-6198",
+      "label": "Review: first Flood and Chief Long call on September 3 lasted 5 minutes 28 seconds",
+      "claim": "The host reads that on September 3, seven days before the event, Dan Flood and Chief Long spoke for the first time on a call lasting five minutes and 28 seconds, after which Flood said TPUSA typically has eight to ten security personnel.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-10694"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:35",
+      "investigative_direction": "Obtain the call detail records referenced by the review and any UVUPD notes of the call.",
+      "transcript_snippet": "Dan Flood and Chief Long get on the phone for just five minutes and 28 seconds.",
+      "mentions_person_refs": [
+        "N-276",
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6199",
+      "ref": "C-6199",
+      "label": "Review: Flood's September 3 concerns were arrival, departure and parking",
+      "claim": "The host reads that on the first call Dan Flood focused on arrival, departure and parking logistics, including a clean exit for Charlie Kirk's SUV.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-10694"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:35",
+      "investigative_direction": "Compare the September 3 call topics with the pre-event security plan, if any exists.",
+      "transcript_snippet": "They were really concerned about Charlie's SUV having a clean exit.",
+      "mentions_person_refs": [
+        "N-276",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6200",
+      "ref": "C-6200",
+      "label": "Review: September 8 TPUSA security concern was the pedestrian walkway above the canopy",
+      "claim": "The host reads that on September 8 TPUSA security became concerned about the pedestrian walkway access above the area where Charlie Kirk's canopy was to be placed.",
+      "anchored_artifacts": [
+        "A-2802.4"
+      ],
+      "related_nodes": [
+        "N-10356",
+        "N-10272"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:32",
+      "investigative_direction": "Obtain the September 8 messages and student group message that prompted Flood's concern.",
+      "transcript_snippet": "TPUSA security is now concerned about what do they say? the pedestrian walkway access above the area where Charlie Kirk's canopy was to be placed.",
+      "supports_claim_refs": [
+        "C-1763"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6201",
+      "ref": "C-6201",
+      "label": "Host says the Kirk family filing claimed the Flood text was about rooftops, not the canopy",
+      "claim": "The host says the Kirk family's recent filing reinforced the claim that the Dan Flood text communication was not about the canopy but more broadly about rooftops, which she calls a lie.",
+      "anchored_artifacts": [
+        "A-2802.9"
+      ],
+      "related_nodes": [
+        "N-10356"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:32",
+      "investigative_direction": "Compare the filing's description of the Flood and Long texts with the verbatim exchange quoted in the review.",
+      "transcript_snippet": "that this text communication between Dan Flood was not about the canopy but more broadly speaking was about rooftops",
+      "supports_claim_refs": [
+        "C-1762"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-276",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6202",
+      "ref": "C-6202",
+      "label": "Review: Dan Flood initiated the September 8 text exchange about the canopy area",
+      "claim": "The host reads that Dan Flood initiated the September 8 text exchange, two days before the event, about accessibility of the canopy area above the Hall of Flags, and that Chief Long replied that he had it covered.",
+      "anchored_artifacts": [
+        "A-2802.9"
+      ],
+      "related_nodes": [
+        "N-10356",
+        "N-10272"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:35",
+      "investigative_direction": "Obtain the full text thread with timestamps from UVUPD.",
+      "transcript_snippet": "We are told that Dan initiated that text exchange on September 8th, T minus 2 days regarding again the accessibility of that canopy area above the Hall of Flags.",
+      "supports_claim_refs": [
+        "C-1763"
+      ],
+      "mentions_person_refs": [
+        "N-276",
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6203",
+      "ref": "C-6203",
+      "label": "Host links Lori Frantzve's family to EMP involvement",
+      "claim": "The host says that, on learning of the EMP threat, she recalls that Lori Frantzve's family was involved with EMPs.",
+      "anchored_artifacts": [
+        "A-2802.5"
+      ],
+      "related_nodes": [
+        "N-10861"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:35",
+      "investigative_direction": "Document Frantzve family patents, companies or filings concerning EMP technology.",
+      "transcript_snippet": "whose family was super involved with EMPs? Lorie Frantzve EMPs.",
+      "mentions_person_refs": [
+        "N-500",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6204",
+      "ref": "C-6204",
+      "label": "Review: TPUSA security arrived on campus at 9:00 a.m.",
+      "claim": "The host reads that TPUSA's security arrived on campus at 9:00 a.m. and Chief Long did not meet them until then.",
+      "anchored_artifacts": [
+        "A-2802.5"
+      ],
+      "related_nodes": [
+        "N-10694"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:35",
+      "investigative_direction": "Obtain the review's arrival log and any gate or parking records for the security team.",
+      "transcript_snippet": "9:00 a. m. the security arrives to campus.",
+      "mentions_person_refs": [
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6205",
+      "ref": "C-6205",
+      "label": "Review: at 9:04 Dan Flood texted Chief Long that the rest of security had arrived",
+      "claim": "The host reads that at 9:04 Dan Flood texted Chief Long that the rest of the security had arrived, followed by texts about individuals on the Hall of Flags pedestrian walkway.",
+      "anchored_artifacts": [
+        "A-2802.5",
+        "A-2802.9"
+      ],
+      "related_nodes": [
+        "N-10272"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:35",
+      "investigative_direction": "Obtain the 9:04 text and the subsequent thread on the Hall of Flags walkway.",
+      "transcript_snippet": "At 9:04, uh Dan Flood texts Chief Long advising that the rest of the security has arrived onto campus.",
+      "mentions_person_refs": [
+        "N-276",
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6206",
+      "ref": "C-6206",
+      "label": "Review: additional Kirk staff arrived at 9:28 and 10:28",
+      "claim": "The host reads that additional Charlie Kirk staff arrived on campus at 9:28 and again an hour later, and speculates these were call times for staff other than security.",
+      "anchored_artifacts": [
+        "A-2802.5"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:30:02",
+      "investigative_direction": "Obtain the staff call sheet and identify who arrived at 9:28 and 10:28.",
+      "transcript_snippet": "Additional Charlie Kirk staff arrive onto campus at 9:28.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6207",
+      "ref": "C-6207",
+      "label": "Host says she knows the identity of the girl Tyler Robinson is said to approach",
+      "claim": "The host says that, per the Tyler Robinson timeline, he is said to go up to a girl involved in social media, that she knows it is a girl and who she is, and she wants to determine when that group of girls arrived.",
+      "anchored_artifacts": [
+        "A-2802.5"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:30:02",
+      "investigative_direction": "Identify the girl and her arrival time through event staff or social-media records.",
+      "transcript_snippet": "we are told that Tyler Robinson is going to go up to a girl. I know it's a girl and I know who the girl is.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6208",
+      "ref": "C-6208",
+      "label": "Review: UVU, not TPUSA, requested added officers after seeing the crowd at 11:00",
+      "claim": "The host reads that at 11:00 a.m. Chief Long requested additional UVUPD staffing after observing the crowd size, and the host says TPUSA did not request more people.",
+      "anchored_artifacts": [
+        "A-2802.5"
+      ],
+      "related_nodes": [
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:20",
+      "investigative_direction": "Obtain the 11:00 request and staffing records showing who asked for additional officers.",
+      "transcript_snippet": "So, it was actually UVU that requested more people after observing the crowd size an hour ahead.",
+      "qualifies_claim_refs": [
+        "C-3591"
+      ],
+      "mentions_person_refs": [
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6209",
+      "ref": "C-6209",
+      "label": "Review: Chief Long's 10:49 request to meet Flood at 11:00 did not occur",
+      "claim": "The host reads that at 10:49 Chief Long texted Dan Flood to meet at the Hall of Flags at 11:00, but the meeting did not occur.",
+      "anchored_artifacts": [
+        "A-2802.5"
+      ],
+      "related_nodes": [
+        "N-10272"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:21",
+      "investigative_direction": "Obtain the 10:49 text and any reply from Flood explaining why the meeting did not occur.",
+      "transcript_snippet": "at 10:49, uh, Chief Long texted Dan Flood to meet at the Hall of Flags outdoor at 11:00, but the meeting did not occur.",
+      "mentions_person_refs": [
+        "N-276",
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6210",
+      "ref": "C-6210",
+      "label": "Review: protesters at the Hall of Flags moved away and were blocked off with tape",
+      "claim": "The host reads that between 11:20 and 11:30 officers dealt with protesters at the Hall of Flags, the protesters moved away, and officers blocked the area with security tape.",
+      "anchored_artifacts": [
+        "A-2802.5"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:21",
+      "investigative_direction": "Compare the review's protester timeline with video of the Hall of Flags walkway between 11:20 and 11:30.",
+      "transcript_snippet": "That's between 11:20 and 11:30 and that the protesters did move away and then the officers blocked them off with security tape",
+      "mentions_person_refs": [
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6211",
+      "ref": "C-6211",
+      "label": "Review: Chief Long set up a command post in the Fugal Gateway building with no TPUSA security present",
+      "claim": "The host reads that at 11:30 Chief Long went to the second floor of the Fugal Gateway building and established a command post with visibility over the event area, and says no member of TPUSA's security team joined him.",
+      "anchored_artifacts": [
+        "A-2802.5"
+      ],
+      "related_nodes": [
+        "N-11074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:21",
+      "investigative_direction": "Obtain the command post log and a floor plan with sight lines from the Fugal Gateway second floor.",
+      "transcript_snippet": "Chief Long goes up to the second floor of the Fugal Gateway building because he established a command post",
+      "mentions_person_refs": [
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6212",
+      "ref": "C-6212",
+      "label": "Review: a fire chief performed CPR when Charlie Kirk reached the hospital",
+      "claim": "The host says the review states that when Charlie Kirk got to the hospital a fire chief performed CPR, which she says throws various statements heard so far into further chaos.",
+      "anchored_artifacts": [
+        "A-2802.5"
+      ],
+      "related_nodes": [
+        "N-10687",
+        "N-10699"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:21",
+      "investigative_direction": "Obtain the review's emergency response section and hospital arrival records naming who performed CPR.",
+      "transcript_snippet": "when they Charlie got to the hospital, there was a fire chief that performed CPR.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6213",
+      "ref": "C-6213",
+      "label": "Review: UVU suggested the Fulton Library, the quad or interior locations",
+      "claim": "The host reads that at the August 25 meeting UVU officials suggested alternative locations such as the Fulton Library, the quad or interior locations where access could be better controlled, and suggested using the university ticketing system.",
+      "anchored_artifacts": [
+        "A-2802.6"
+      ],
+      "related_nodes": [
+        "N-11077",
+        "N-10243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:31",
+      "investigative_direction": "Obtain MEAC participant statements naming who proposed each alternative site.",
+      "transcript_snippet": "UVU officials suggested alternative locations such as the Fulton Library, the quad, or interior locations where access could be more effectively controlled.",
+      "supports_claim_refs": [
+        "C-3587"
+      ],
+      "mentions_person_refs": [
+        "N-8"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6214",
+      "ref": "C-6214",
+      "label": "Review: Crofts preferred TPUSA manage ticketing through its Phoenix national office; Robin Emer had reservations",
+      "claim": "The host reads that Crofts said she preferred that TPUSA manage online ticketing through its national office in Phoenix, and that when members including Robin Emer, UVU's director of emergency management and safety, expressed reservations, the committee still let the event proceed in the requested location with TPUSA ticketing.",
+      "anchored_artifacts": [
+        "A-2802.6"
+      ],
+      "related_nodes": [
+        "N-11077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:24",
+      "investigative_direction": "Obtain Emer's statements to the review team on her reservations and the committee's decision rationale.",
+      "transcript_snippet": "She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix.",
+      "mentions_person_refs": [
+        "N-8",
+        "N-766"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6215",
+      "ref": "C-6215",
+      "label": "Host disputes that Charlie Kirk previously spoke in the fountain courtyard",
+      "claim": "The host says Charlie Kirk previously spoke at a UVU location with her that was not the courtyard, and questions whether Crofts told the truth that he had spoken in that location.",
+      "anchored_artifacts": [
+        "A-2802.6"
+      ],
+      "related_nodes": [
+        "N-10243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:24",
+      "investigative_direction": "Obtain records of Kirk's prior UVU appearances, including 2019, and where on campus each was held.",
+      "transcript_snippet": "He also previously spoken at a location with me and we weren't we were not in the courtyard.",
+      "mentions_person_refs": [
+        "N-8",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6216",
+      "ref": "C-6216",
+      "label": "Review: the club president's MEAC questionnaire contained answers straight from the TPUSA team",
+      "claim": "The host reads that on August 21 the UVU TPUSA club president emailed the club office a completed MEAC questionnaire indicating that it provided answers straight from the TPUSA team.",
+      "anchored_artifacts": [
+        "A-2802.7"
+      ],
+      "related_nodes": [
+        "N-10860"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:42",
+      "investigative_direction": "Obtain the questionnaire and email with attachments and metadata.",
+      "transcript_snippet": "indicating that it provided answers straight from the TPUSA team.",
+      "mentions_person_refs": [
+        "N-10"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6217",
+      "ref": "C-6217",
+      "label": "Review: questionnaire answers listed 600 attendees, no risk factors and no need for emergency medical services",
+      "claim": "The host reads the questionnaire answers as 600 attendees, primarily student focus, some potential public interest, and no risk factors, safety or security concerns, or need for emergency medical services, and says this bears on the ambulance question.",
+      "anchored_artifacts": [
+        "A-2802.7"
+      ],
+      "related_nodes": [
+        "N-10840",
+        "N-10860"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:47",
+      "investigative_direction": "Obtain the questionnaire and compare its EMS answer with UVU's actual medical staffing on September 10.",
+      "transcript_snippet": "Straight from the TPUSA team, 600 attendees, primarily student focus, some potential public interests, no risk factors or safety security concerns or need for emergency medical services.",
+      "mentions_person_refs": [
+        "N-10"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6218",
+      "ref": "C-6218",
+      "label": "Review: SIAC said the EMP tip was not credible because the tipster had been unreliable before",
+      "claim": "The host reads that Utah SIAC replied shortly after Chief Long's email that the EMP tip was not a credible threat, as the tipster had provided similar information in the past that was determined to be unreliable.",
+      "anchored_artifacts": [
+        "A-2802.8"
+      ],
+      "related_nodes": [
+        "N-10861"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:54",
+      "investigative_direction": "Request the SIAC response and the prior unreliable-tip history from Utah SIAC.",
+      "transcript_snippet": "it was not a credible threat as it appeared the tipster had provided similar information in the past that was determined to be unreliable.",
+      "supports_claim_refs": [
+        "C-3590"
+      ],
+      "mentions_person_refs": [
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6219",
+      "ref": "C-6219",
+      "label": "Review: verbatim Flood text asked for controlled access to student roof walkways",
+      "claim": "The host reads the review's verbatim text in which Dan Flood tells Chief Long that students have access above them and it would be nice to have controlled access or one of his guys there, and Long replies that he has it covered.",
+      "anchored_artifacts": [
+        "A-2802.9"
+      ],
+      "related_nodes": [
+        "N-10356",
+        "N-10272"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:01",
+      "investigative_direction": "Obtain the complete thread and the student group message Flood forwarded.",
+      "transcript_snippet": "I was told students have access above us. If this is true, it would be nice to either have it controlled access or allow one of my guys to be there as well if possible.",
+      "supports_claim_refs": [
+        "C-1763"
+      ],
+      "mentions_person_refs": [
+        "N-276",
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6220",
+      "ref": "C-6220",
+      "label": "Host says a TPUSA employee gave Harpole the Flood text to take to Shawn Ryan",
+      "claim": "The host says TPUSA cannot make Brian Harpole the fall guy because their employee gave him the text message to take on Shawn Ryan's podcast, implying coordination between Dan Flood and Harpole beforehand.",
+      "anchored_artifacts": [
+        "A-2802.9"
+      ],
+      "related_nodes": [
+        "N-10356"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:01",
+      "investigative_direction": "Determine how Harpole obtained the Flood and Long text thread before the Shawn Ryan taping.",
+      "transcript_snippet": "Because their employee gave him the text message to go on to Shawn Ryan.",
+      "supports_claim_refs": [
+        "C-1762"
+      ],
+      "mentions_person_refs": [
+        "N-272",
+        "N-276",
+        "N-229"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6221",
+      "ref": "C-6221",
+      "label": "Host says she is being sued for calling Harpole a liar",
+      "claim": "The host says she is being sued for telling the audience that Brian Harpole is a liar, and that the independent review now signals Harpole lied in the interview.",
+      "anchored_artifacts": [
+        "A-2802.10"
+      ],
+      "related_nodes": [
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:01",
+      "investigative_direction": "Obtain the complaint and docket in the Harpole suit against the host.",
+      "transcript_snippet": "I love this because I'm being sued for telling you that Harpole is a liar.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6222",
+      "ref": "C-6222",
+      "label": "Review: Harpole said his first meeting on the event was August 24",
+      "claim": "The host reads that Harpole said on the podcast his first meeting to discuss the September 10 event occurred on August 24, one day before the UVU MEAC meeting.",
+      "anchored_artifacts": [
+        "A-2802.10"
+      ],
+      "related_nodes": [
+        "N-10862"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:33",
+      "investigative_direction": "Locate the Shawn Ryan timestamp for the August 24 statement and any TPUSA calendar records.",
+      "transcript_snippet": "Harpole stated that his first meeting to discuss September 10th TPS USA event occurred on August 24th.",
+      "mentions_person_refs": [
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6223",
+      "ref": "C-6223",
+      "label": "Review: Harpole said the venue looked horrible when his team arrived hours before",
+      "claim": "The host reads that Harpole said that on arrival a few hours before the event his team surveyed the area and believed the venue location was horrible, and described an elevated 180 degree view as a security fail while acknowledging Kirk liked the venue.",
+      "anchored_artifacts": [
+        "A-2802.10"
+      ],
+      "related_nodes": [
+        "N-10862"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:33",
+      "investigative_direction": "Locate the Shawn Ryan timestamp and check whether Harpole's team raised the concern to UVUPD that day.",
+      "transcript_snippet": "Harpole stated that when he and his team arrived at UVU a few hours before the event, they surveyed the area and believed the venue location was horrible.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6224",
+      "ref": "C-6224",
+      "label": "Review: Harpole said Flood shared no specific threats during pre-event planning",
+      "claim": "The host reads that Harpole said Dan Flood did not share any specific security concerns or threats with him during pre-event planning, and that Flood would meticulously share any intelligence he thought important.",
+      "anchored_artifacts": [
+        "A-2802.10"
+      ],
+      "related_nodes": [
+        "N-10862"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:33",
+      "investigative_direction": "Compare Harpole's statement with the Flood and Harpole communications for September 1 to 10.",
+      "transcript_snippet": "Flood did not share any specific security concerns or threats with him during the pre-event planning.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6225",
+      "ref": "C-6225",
+      "label": "Review: Harpole gave no indication he considered requesting a pre-event meeting with campus police",
+      "claim": "The host reads the review's statement that in the podcast Harpole gave no indication he considered requesting an on-site pre-event meeting with campus police to evaluate vulnerabilities and make security assignments.",
+      "anchored_artifacts": [
+        "A-2802.10"
+      ],
+      "related_nodes": [
+        "N-10862"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:33",
+      "investigative_direction": "Ask UVUPD and Integrity Solutions for any record of a requested site walkthrough or briefing.",
+      "transcript_snippet": "In the podcast, Harpole gave no indication that he considered requesting an on-site pre-event meeting with campus police to evaluate vulnerabilities and make security assignments.",
+      "mentions_person_refs": [
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6226",
+      "ref": "C-6226",
+      "label": "Review: Harpole said TPUSA's video team used little bitty drones before the event",
+      "claim": "The host reads that Harpole said TPUSA's video team used what he described as little bitty drones to take a quick shot of the venue before the event but did not use drones during the event because of FAA restrictions tied to Provo airspace.",
+      "anchored_artifacts": [
+        "A-2802.11"
+      ],
+      "related_nodes": [
+        "N-10645",
+        "N-10862",
+        "N-10074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:19",
+      "investigative_direction": "Obtain the TPUSA video team's drone flight logs and FAA authorization for September 10.",
+      "transcript_snippet": "He stated that TPUSA's team, video team, used what he described as little bitty drones to take a quick shot of the venue before the event.",
+      "qualifies_claim_refs": [
+        "C-1754"
+      ],
+      "mentions_person_refs": [
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6227",
+      "ref": "C-6227",
+      "label": "Review: a drone from the Orem Police Department could have been requested but was not",
+      "claim": "The host reads the review's statement that if the team had concerns about the venue, a drone from the neighboring Orem Police Department could have been requested, and that it was not requested.",
+      "anchored_artifacts": [
+        "A-2802.11"
+      ],
+      "related_nodes": [
+        "N-10129",
+        "N-10645"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:38",
+      "investigative_direction": "Ask Orem Police for any record of a drone request or availability on September 10.",
+      "transcript_snippet": "a drone from the neighboring Orum Police Department could have been requested.",
+      "mentions_person_refs": [
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6228",
+      "ref": "C-6228",
+      "label": "Review: Officer Bagley first suggested going up to the Losee Center roof",
+      "claim": "The host reads that Officer Bagley was the first to suggest going up to the Losee Center after the shot and identified the elevated roof as a possible source location.",
+      "anchored_artifacts": [
+        "A-2802.12"
+      ],
+      "related_nodes": [
+        "N-10725"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:15",
+      "investigative_direction": "Obtain Bagley's report and dispatch audio showing when he made the suggestion.",
+      "transcript_snippet": "Officer Bagley identified the elevated roof area of the Loy Center as a possible source location of the asalent.",
+      "mentions_person_refs": [
+        "N-518"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6229",
+      "ref": "C-6229",
+      "label": "Review: Bagley found a screwdriver and disturbed gravel consistent with a prone shooting position",
+      "claim": "The host reads that Bagley located a screwdriver and an area of disturbed gravel on the roof that appeared consistent with a possible prone shooting position, which helped focus the investigation on the roof.",
+      "anchored_artifacts": [
+        "A-2802.12"
+      ],
+      "related_nodes": [
+        "N-10725"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:15",
+      "investigative_direction": "Obtain the evidence log and photographs of the screwdriver and gravel location.",
+      "transcript_snippet": "he locates a screwdriver and an area of disturbed gravel on the roof that appeared consistent with a possible prone shooting position.",
+      "mentions_person_refs": [
+        "N-518"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6230",
+      "ref": "C-6230",
+      "label": "Host says Officer Bagley's body cam went off after losing battery and he testified he had none",
+      "claim": "The host says Officer Bagley's body camera footage went off because of a lost battery and that he testified he had no body cam, even though he was the one who suggested going up.",
+      "anchored_artifacts": [
+        "A-2802.12"
+      ],
+      "related_nodes": [
+        "N-10725"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:15",
+      "investigative_direction": "Obtain Bagley's testimony and UVUPD body camera inventory and battery records.",
+      "transcript_snippet": "Officer Bagley, whose body cam footage went off, um lost the battery.",
+      "mentions_person_refs": [
+        "N-518"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6231",
+      "ref": "C-6231",
+      "label": "Host says Bagley and others have background in sex crimes",
+      "claim": "The host says that Officer Bagley and others involved have an interesting background in sex crimes, which she says becomes relevant to Charlie Kirk's life at the time.",
+      "anchored_artifacts": [
+        "A-2802.12"
+      ],
+      "related_nodes": [
+        "N-10784"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:15",
+      "investigative_direction": "Verify Bagley's assignment history and the other officers' backgrounds from personnel records.",
+      "transcript_snippet": "They're all, they all kind of have this background history in sex crimes.",
+      "mentions_person_refs": [
+        "N-518",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6232",
+      "ref": "C-6232",
+      "label": "Review: limited time between Chief Long learning of the event and the event date",
+      "claim": "The host reads the review's finding that there was limited time between Chief Long first learning of the event and the event date, and that the security assessment did not result in documented venue modification requirements.",
+      "anchored_artifacts": [
+        "A-2802.13"
+      ],
+      "related_nodes": [
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:01",
+      "investigative_direction": "Compare the August 21 notice date to UVU's normal lead time for major events.",
+      "transcript_snippet": "There was limited time between chief long first learning of the event and the event date.",
+      "mentions_person_refs": [
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6233",
+      "ref": "C-6233",
+      "label": "Review: coordination with the TPUSA security team was very limited",
+      "claim": "The host reads that coordination with the TPUSA security team was very limited and did not include a structured pre-event briefing or site walk-through on or before September 10 between Harpole, Flood and UVUPD.",
+      "anchored_artifacts": [
+        "A-2802.13"
+      ],
+      "related_nodes": [
+        "N-10839",
+        "N-10694"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:01",
+      "investigative_direction": "Request any briefing agenda, attendance or site walk records from UVUPD and TPUSA.",
+      "transcript_snippet": "Coordination with TPUSA security team was very limited and did not include a structured pre-event briefing or site walking through",
+      "mentions_person_refs": [
+        "N-272",
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6234",
+      "ref": "C-6234",
+      "label": "Review: no dedicated real-time security video monitoring by UVUPD dispatch",
+      "claim": "The host reads the review's finding that there was no dedicated assignment for real-time security video monitoring by UVUPD dispatch or others from another location during the event.",
+      "anchored_artifacts": [
+        "A-2802.13"
+      ],
+      "related_nodes": [
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:54",
+      "investigative_direction": "Review UVU camera system access logs and dispatch staffing for September 10.",
+      "transcript_snippet": "There also was not a dedicated assignment for real-time security video monitoring by UVUPD dispatch personnel or others from another operational location during the event."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6235",
+      "ref": "C-6235",
+      "label": "Review: TPUSA never issued tickets and required only online registration",
+      "claim": "The host reads from the review that TPUSA never actually issued tickets and instead had attendees register for the event, handled by TPUSA National and not communicated to police.",
+      "anchored_artifacts": [
+        "A-2802.14"
+      ],
+      "related_nodes": [
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:54",
+      "investigative_direction": "Obtain the registration platform data and communications showing what was shared with UVUPD.",
+      "transcript_snippet": "we learned that Turning Point never actually issued any tickets"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6236",
+      "ref": "C-6236",
+      "label": "Review: no formal VIP credentialing, ticket verification or screening",
+      "claim": "The host reads that the review states there was no formal credentialing process for VIPs, no ticket verification, no screening, no designated entry and exit points and no restricted access areas.",
+      "anchored_artifacts": [
+        "A-2802.14"
+      ],
+      "related_nodes": [
+        "N-11075",
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:41",
+      "investigative_direction": "Obtain the review's access control section and TPUSA wristband distribution records.",
+      "transcript_snippet": "The review states that there was no formal credentiing process for VIPs.",
+      "mentions_person_refs": [
+        "N-10839"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6237",
+      "ref": "C-6237",
+      "label": "Host says TPUSA National staff handed out wristbands to people seated to Charlie's right",
+      "claim": "The host says someone from Turning Point National handed out wristbands to people sitting in the section to the right of Charlie Kirk even though the review finds no credentialing.",
+      "anchored_artifacts": [
+        "A-2802.14"
+      ],
+      "related_nodes": [
+        "N-11075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:41",
+      "investigative_direction": "Identify the staffer and the recipients and obtain TPUSA's wristband policy for the event.",
+      "transcript_snippet": "somebody from Turning Point National handing out wristbands to people that were sitting in the section to the right of Charlie",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6238",
+      "ref": "C-6238",
+      "label": "Host says wristband holders included people who filmed and later spoke to the press",
+      "claim": "The host says a lot of the wristbanded people by the car were the same crowd who recorded footage and spoke to the press afterward, and asks who they were.",
+      "anchored_artifacts": [
+        "A-2802.14"
+      ],
+      "related_nodes": [
+        "N-11075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:40",
+      "investigative_direction": "Compile identities of wristbanded attendees and match them to later media interviews and footage.",
+      "transcript_snippet": "A lot of people, by the way, who recorded footage in particular, a lot of people, the same crowd of people who are speaking to the press thereafter."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6239",
+      "ref": "C-6239",
+      "label": "Host timeline: Netanyahu in Washington July 7 to 9 and recorded a podcast with the Nelk Boys",
+      "claim": "The host's timeline states that Benjamin Netanyahu visited America from July 7 to 9, was in Washington DC and recorded a podcast with the Nelk Boys.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10871"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:42",
+      "investigative_direction": "Confirm Netanyahu's July 2025 itinerary and the Nelk Boys episode date.",
+      "transcript_snippet": "From July 7th to July 9th, BBNet and Yahoo visits America, records podcast with the Elk Boys while he's in Washington DC.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-59"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6240",
+      "ref": "C-6240",
+      "label": "Host timeline: Tucker Carlson spoke at SAS on July 11 and donors reacted",
+      "claim": "The host says Tucker Carlson spoke on July 11 at the Student Action Summit in Tampa, donors freaked out, and Charlie Kirk told him to go max.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-11080"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:42",
+      "investigative_direction": "Collect dated donor communications and the SAS Tampa speech recording.",
+      "transcript_snippet": "Tucker Carlson uh on the 11th speaks and donors freak out. Charlie tells him to go Max.",
+      "supports_claim_refs": [
+        "C-1559"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6241",
+      "ref": "C-6241",
+      "label": "Host says Tucker mused on stage about where Bill Ackman's wealth comes from",
+      "claim": "The host says that at the July SAS event Tucker Carlson mused about where Bill Ackman's wealth comes from.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-11080"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:42",
+      "investigative_direction": "Review the SAS Tampa speech recording for the Ackman remarks.",
+      "transcript_snippet": "he muses about where Bill Aman's wealth comes from.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-37"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6242",
+      "ref": "C-6242",
+      "label": "Host says Frank Turek deleted his website on July 11",
+      "claim": "The host says Frank Turek deleted his website on July 11 and that the Wayback Machine shows remnants of an expedition looking for Noah's ark.",
+      "anchored_artifacts": [
+        "A-2804.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:58:55",
+      "investigative_direction": "Check Internet Archive snapshots of the website around July 11, 2025.",
+      "transcript_snippet": "On July 11th, Frank Turk deletes his website, frank turk. com.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6243",
+      "ref": "C-6243",
+      "label": "Host says the New York Times reported Trump scolded Kirk on July 12",
+      "claim": "The host says that according to the New York Times, President Trump called Charlie Kirk angry on July 12 and scolded him for turning SAS into an Epstein grievance fest.",
+      "anchored_artifacts": [
+        "A-2804.2"
+      ],
+      "related_nodes": [
+        "N-10871"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:55",
+      "investigative_direction": "Locate the New York Times article reporting the July 12 call.",
+      "transcript_snippet": "according to the New York Times, President Trump calls Charlie angry and scolds him about his event the day before",
+      "mentions_person_refs": [
+        "N-5",
+        "N-1",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6244",
+      "ref": "C-6244",
+      "label": "Clip: Kirk says on July 14 he is done talking about Epstein and will trust the administration",
+      "claim": "In a clip the host plays, Charlie Kirk says he is done talking about Epstein for the time being and will trust his friends in the administration and government to solve it.",
+      "anchored_artifacts": [
+        "A-2803.1"
+      ],
+      "related_nodes": [
+        "N-10324",
+        "N-10871"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:39",
+      "investigative_direction": "Obtain the full July 14 Charlie Kirk Show episode and confirm its date.",
+      "transcript_snippet": "Honestly, I'm done talking about Epstein for the time being. I'm going to trust my friends in the administration.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6245",
+      "ref": "C-6245",
+      "label": "Clip: Kirk says he would love DOJ to unseal grand jury testimony and trusts named officials",
+      "claim": "In the same clip Charlie Kirk says he would love to see the DOJ move to unseal the grand jury testimony and that he trusts Kash Patel, Dan Bongino, Pam Bondi and Todd Blanche to solve it.",
+      "anchored_artifacts": [
+        "A-2803.1"
+      ],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:27",
+      "investigative_direction": "Transcribe the clip from the primary broadcast and confirm which officials he named.",
+      "transcript_snippet": "I would love to see the DOJ move to unseal the grand jury testimony.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-69",
+        "N-388",
+        "N-85",
+        "N-547"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6246",
+      "ref": "C-6246",
+      "label": "Host says Tucker and Megyn Kelly later explained Kirk meant to go max on Epstein at SAS",
+      "claim": "The host says that thanks to Tucker Carlson and Megyn Kelly the audience learned later that Kirk intended to hit hard on Epstein at SAS and wanted that out there.",
+      "anchored_artifacts": [
+        "A-2803.1"
+      ],
+      "related_nodes": [
+        "N-11080"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:27",
+      "investigative_direction": "Locate the Tucker Carlson and Megyn Kelly statements describing Kirk's SAS intention.",
+      "transcript_snippet": "we learned later uh thanks to Tucker and Megan Kelly that that was his intention.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-22",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6247",
+      "ref": "C-6247",
+      "label": "Host timeline: Erika flew privately to Long Beach on July 14",
+      "claim": "The host's timeline states that on July 14 Erika Kirk traveled aboard a private flight to Long Beach, California, and spoke at James Kaddis' Calvary Chapel church.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10264",
+        "N-10871"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:20",
+      "investigative_direction": "Obtain the flight record and Calvary Chapel event listing for July 14.",
+      "transcript_snippet": "On the 14th, Erika travels aboard a private flight to Long Beach, California.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-680"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6248",
+      "ref": "C-6248",
+      "label": "Host says Erika gave a pro-Israel call-to-arms speech at the women's retreat",
+      "claim": "The host says Erika Kirk gave a speech at James Kaddis' women's retreat that was pro-Israel and a call to arms while Charlie Kirk was under pressure over Epstein.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10264"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:20",
+      "investigative_direction": "Obtain the recording or transcript of the speech at the retreat.",
+      "transcript_snippet": "she gives a speech that's pro-Israel about a call to arms despite what Charlie's going through.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-680",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6249",
+      "ref": "C-6249",
+      "label": "Host timeline: Egyptian planes flew into Omaha and then Lincoln, Nebraska",
+      "claim": "The host's timeline states that Egyptian planes came into Omaha, Nebraska, and then headed to Lincoln, Nebraska, in mid to late July.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10253",
+        "N-10276"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:14",
+      "investigative_direction": "Pull flight-tracking records for the Egyptian-registered aircraft landing in Omaha and Lincoln.",
+      "transcript_snippet": "And then we have our Egyptian planes that come into Omaha, Nebraska, and then head to Lincoln, Nebraska.",
+      "mentions_person_refs": [
+        "N-10276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6250",
+      "ref": "C-6250",
+      "label": "Host says Mikey and Elizabeth McCoy first joined the Kirks' Maine vacation and filmed final footage",
+      "claim": "The host says that on the Maine vacation it was the first time Mikey McCoy and Elizabeth joined Charlie Kirk, and that they captured final footage of Charlie and Erika.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10219"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:14",
+      "investigative_direction": "Obtain dated posts and metadata of the Maine vacation footage.",
+      "transcript_snippet": "it's the first time Mikey McCoy and Elizabeth join him and they capture what's going to be Elizabeth and Mikey capture all this final footage of Charlie and Erika",
+      "mentions_person_refs": [
+        "N-194",
+        "N-221",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6251",
+      "ref": "C-6251",
+      "label": "Host says Why Rei re-upped as top sponsor on July 25 despite a contract through year end",
+      "claim": "The host says Why Rei came in as number one sponsor for a Charlie Kirk fall tour on July 25 even though it had already signed a contract in January covering events through the end of the year.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:03:03",
+      "investigative_direction": "Obtain the January sponsorship contract and the July 25 addendum.",
+      "transcript_snippet": "he had already Wyi had already signed a contract in January which covered events through the end of the year.",
+      "mentions_person_refs": [
+        "N-19",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6252",
+      "ref": "C-6252",
+      "label": "Host timeline: the Egyptian plane left Wilmington for Cairo on July 27",
+      "claim": "The host's timeline states that on July 27 the Egyptian plane that would be present on the day of the assassination departed Wilmington, Delaware, for Cairo.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10253",
+        "N-10347"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:12",
+      "investigative_direction": "Verify the July 27 departure in flight-tracking records.",
+      "transcript_snippet": "It departs Wilmington, Delaware, heads back to Cairo.",
+      "mentions_person_refs": [
+        "N-10347"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6253",
+      "ref": "C-6253",
+      "label": "Host timeline: Charlie and Erika landed in Bedford, New York on August 3",
+      "claim": "The host's timeline states that on August 3 Charlie and Erika Kirk landed in Bedford, New York, for the Hamptons retreat.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10673",
+        "N-10027"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:12",
+      "investigative_direction": "Obtain the flight record for the August 3 landing.",
+      "transcript_snippet": "On August 3rd, Charlie and Erika land in Bedford, New York for the Hampton's Retreat.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6254",
+      "ref": "C-6254",
+      "label": "Host says the Hamptons retreat was sponsored by Bill Ackman",
+      "claim": "The host says the August Hamptons influencer retreat, which Charlie Kirk later described as an intervention, was sponsored by Bill Ackman, the person Tucker Carlson called out on stage.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10673",
+        "N-10027"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:12",
+      "investigative_direction": "Obtain the retreat invitation and sponsor disclosures.",
+      "transcript_snippet": "the influencers trip, is sponsored by Bill Aman, the very person that Tucker Carlson called out on stage.",
+      "supports_claim_refs": [
+        "C-1128"
+      ],
+      "mentions_person_refs": [
+        "N-37",
+        "N-1",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6255",
+      "ref": "C-6255",
+      "label": "Host says Andrew Kolvet told her Netanyahu offered to take TPUSA to the next level",
+      "claim": "The host says she was told directly by Andrew Kolvet that Netanyahu called Charlie Kirk and made an offer to take Turning Point USA to the next level.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10342",
+        "N-10446"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:11",
+      "investigative_direction": "Obtain Kolvet's contemporaneous account and call records for the August Netanyahu call.",
+      "transcript_snippet": "I was told directly by Andrew Kovette to take Turning Point USA to the next level.",
+      "supports_claim_refs": [
+        "C-1562"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-36",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6256",
+      "ref": "C-6256",
+      "label": "Host says TPUSA privately told her Netanyahu's call followed up a May letter with no offer",
+      "claim": "The host says TPUSA has privately rebutted her, saying Netanyahu's call was just a follow-up to a letter Charlie had written in May, that there was no offer, and that Kolvet did not know why he said that.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10342"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:11",
+      "investigative_direction": "Obtain TPUSA's written rebuttal and the May 2025 Kirk letter to Netanyahu.",
+      "transcript_snippet": "it was just a followup to a letter that Charlie had written him in May.",
+      "qualifies_claim_refs": [
+        "C-1562"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-14",
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6257",
+      "ref": "C-6257",
+      "label": "Host says Netanyahu invited Charlie to Israel and he declined",
+      "claim": "The host says Netanyahu invited Charlie Kirk to Israel and Kirk declined to go.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10018"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:11",
+      "investigative_direction": "Obtain the invitation and Kirk's reply.",
+      "transcript_snippet": "What we do know is that um he invites Charlie to Israel and Charlie declined to go to Israel.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6258",
+      "ref": "C-6258",
+      "label": "Host says Charlie declined to have Netanyahu on his show",
+      "claim": "The host says Charlie Kirk declined to have Benjamin Netanyahu on his show.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10456"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:11",
+      "investigative_direction": "Obtain the booking request to The Charlie Kirk Show and Kirk's response.",
+      "transcript_snippet": "He also Charlie also declined to have B Netanyahu on his show.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6259",
+      "ref": "C-6259",
+      "label": "Host timeline: Kash Patel visited the Omaha, Nebraska field office on August 19",
+      "claim": "The host's timeline states that on August 19 Kash Patel visited the FBI Omaha, Nebraska field office.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10276",
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:06:07",
+      "investigative_direction": "Verify Patel's August 19 itinerary and plane records.",
+      "transcript_snippet": "What happens next on August 19th is Kash Patel visits the Omaha, Nebraska field office.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6260",
+      "ref": "C-6260",
+      "label": "Host says her FOIA for who was on Patel's plane received a cannot confirm or deny reply",
+      "claim": "The host says she filed a FOIA to learn who was on the plane with Kash Patel and the reply said they could neither confirm nor deny the existence of such records.",
+      "anchored_artifacts": [
+        "A-2804.3"
+      ],
+      "related_nodes": [
+        "N-10700"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:06:07",
+      "investigative_direction": "Obtain the FOIA request and the agency's response letter.",
+      "transcript_snippet": "we cannot confirm or deny the existence of such records and the records we were seeking was who was on the plane with Kash Patel.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6261",
+      "ref": "C-6261",
+      "label": "Host timeline: Operation Valhalla Strike began in Minnesota around August 24",
+      "claim": "The host's timeline states that around August 24 Operation Valhalla Strike began between civilians and the military in Minnesota.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10366"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:06:59",
+      "investigative_direction": "Obtain the Camp Ripley exercise schedule and participant list.",
+      "transcript_snippet": "On the military side of things, Operation Valhalla Strike begins between civilians and the military in Minnesota.",
+      "supports_claim_refs": [
+        "C-1768"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6262",
+      "ref": "C-6262",
+      "label": "Host says UVU police asked Crofts for a TPUSA security contact and none was provided",
+      "claim": "The host says UVU police asked Maycee Crofts for a TPUSA security contact after the August 25 meeting and none was provided, so Chief Long went back to Caleb and asked again on September 2.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-11077"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:06:59",
+      "investigative_direction": "Obtain UVUPD's requests to Crofts and Chilcutt and any replies.",
+      "transcript_snippet": "UVU police ask her for a TPUSA security contact. None is provided.",
+      "mentions_person_refs": [
+        "N-8",
+        "N-277",
+        "N-10"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6263",
+      "ref": "C-6263",
+      "label": "Host says Maycee Crofts worked with Andrew Cipher, the longtime head of field",
+      "claim": "The host says Maycee Crofts would be working with Andrew Cipher, whom she calls the longtime head of the field and one of Tyler Bowyer's guys, who was also present on September 10.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:08:14",
+      "investigative_direction": "Verify Cipher's role and September 10 presence through TPUSA staffing records.",
+      "transcript_snippet": "she would be working with Andrew Cipher on this. He's the longtime head of the field.",
+      "supports_claim_refs": [
+        "C-1955"
+      ],
+      "mentions_person_refs": [
+        "N-8",
+        "N-338",
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6264",
+      "ref": "C-6264",
+      "label": "Host says the documents note the event could have been moved inside if TPUSA had raised concerns",
+      "claim": "The host says the review notes that if Harpole had said on the ground he did not like the feel, TPUSA could potentially have moved the event inside, but they never communicated this to UVU police.",
+      "anchored_artifacts": [
+        "A-2802.13"
+      ],
+      "related_nodes": [
+        "N-10243"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:08:14",
+      "investigative_direction": "Identify the review passage on indoor alternatives and whether UVU would have accommodated a late move.",
+      "transcript_snippet": "They never communicated this to the police at UVU.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6265",
+      "ref": "C-6265",
+      "label": "Host says Maycee Crofts's father died suddenly and her family was in Idaho law enforcement",
+      "claim": "The host says she learned that Maycee Crofts's father passed suddenly and that her family was involved in law enforcement in Idaho.",
+      "anchored_artifacts": [
+        "A-2804.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:09:15",
+      "investigative_direction": "Verify through obituaries and Idaho public records.",
+      "transcript_snippet": "her her father had passed suddenly and um that her family was involved in law enforcement in Idaho",
+      "mentions_person_refs": [
+        "N-8",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6266",
+      "ref": "C-6266",
+      "label": "Host: a warrant charged Kip Crofts, her dad's brother, with sexual abuse of a minor",
+      "claim": "The host says a warrant was issued charging Kip Crofts, Maycee Crofts's father's brother, with sexual abuse of a minor, a girl aged 14, and that he was arrested without incident by Nampa police in June 2025, and states that Maycee is not involved.",
+      "anchored_artifacts": [
+        "A-2804.4",
+        "A-2457.1"
+      ],
+      "related_nodes": [
+        "N-10841"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:10:04",
+      "investigative_direction": "Obtain the Canyon County warrant, docket and arrest record.",
+      "transcript_snippet": "A warrant was issued charging Kip Crofts, so that's her dad's brother, with sexual abuse of a minor.",
+      "mentions_person_refs": [
+        "N-12",
+        "N-8"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6267",
+      "ref": "C-6267",
+      "label": "Host says Kip Crofts was accused of touching himself in a classroom in 2024",
+      "claim": "The host says Kip Crofts was accused of touching himself in a classroom while watching explicit adult content in 2024 and was arrested at his job.",
+      "anchored_artifacts": [
+        "A-2804.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:10:04",
+      "investigative_direction": "Obtain the charging documents describing the alleged 2024 incident.",
+      "transcript_snippet": "He was accused of touching himself in a classroom while watching explicit adult content in 2024.",
+      "mentions_person_refs": [
+        "N-12"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6268",
+      "ref": "C-6268",
+      "label": "Host: prosecutor told the judge new information showed the classroom door may have been locked",
+      "claim": "The host says Canyon County prosecuting attorney Alana Minton told the judge that new information showed the classroom door may have been locked, making it hard to prove intent, after the judge in November had denied dismissal.",
+      "anchored_artifacts": [
+        "A-2457.1",
+        "A-2804.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:11:03",
+      "investigative_direction": "Obtain the hearing transcript and dismissal order from the Canyon County court.",
+      "transcript_snippet": "the Canyon County prosecuting attorney Alana Minton told the judge that a new piece of information came to light",
+      "mentions_person_refs": [
+        "N-768",
+        "N-12"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6269",
+      "ref": "C-6269",
+      "label": "News clip: case centered on allegations at a Caldwell High School classroom with a 14-year-old present",
+      "claim": "In the news clip played, the reporter says the case centered on allegations that Crofts exposed himself while watching explicit material in a Caldwell High School classroom with a 14-year-old student present, and that prosecutors said final trial preparation changed their ability to establish intent.",
+      "anchored_artifacts": [
+        "A-2457.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:12:05",
+      "investigative_direction": "Identify the news outlet and broadcast date of the clip and match the details to the court record.",
+      "transcript_snippet": "The case centered on allegations that Crofts exposed himself while watching explicit material in a Caldwell High School classroom with a 14-year-old student present.",
+      "mentions_person_refs": [
+        "N-12"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6270",
+      "ref": "C-6270",
+      "label": "Host says Erika Kirk is now visiting middle schools",
+      "claim": "The host says Erika Kirk is currently doing the rounds at middle schools.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:18:30",
+      "investigative_direction": "Identify dated school appearances by Erika Kirk and any TPUSA chapter launches there.",
+      "transcript_snippet": "cuz that's where she's doing the rounds now at middle schools.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6271",
+      "ref": "C-6271",
+      "label": "Host says TPUSA spokespeople spoke to CBS and ABC but not the independent review",
+      "claim": "The host says TPUSA officials were willing to speak to the press including CBS News and ABC News and official spokespersons, but not to sit down with an independent review, even though she says they could have required employee Dan Flood to.",
+      "anchored_artifacts": [
+        "A-2451.1"
+      ],
+      "related_nodes": [
+        "N-10859"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:19:43",
+      "investigative_direction": "List TPUSA interviews with CBS and ABC and compare dates to the review outreach window.",
+      "transcript_snippet": "They're willing to speak to CBS News, ABC News, official spokespersons",
+      "mentions_person_refs": [
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6272",
+      "ref": "C-6272",
+      "label": "Host says Andrew Cipher was promoted to a chief position shortly after the event",
+      "claim": "The host says she believes Maycee Crofts was told what to do likely by Andrew Cipher, who was promoted shortly after to a chief position at the organization.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:20:39",
+      "investigative_direction": "Verify the date and title of any Cipher promotion through TPUSA announcements.",
+      "transcript_snippet": "likely by Andrew Cipher who was promoted shortly thereafter to a chief position at the organization.",
+      "supports_claim_refs": [
+        "C-1955"
+      ],
+      "mentions_person_refs": [
+        "N-8",
+        "N-338"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6273",
+      "ref": "C-6273",
+      "label": "Host says Cipher has always been Tyler Bowyer's guy",
+      "claim": "The host says that, based on her experience, Andrew Cipher has always been Tyler Bowyer's guy.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:20:39",
+      "investigative_direction": "Document Cipher's reporting line and ties to Bowyer through TPUSA and Turning Point Action records.",
+      "transcript_snippet": "And I believe that he's always been based on my experience Tyler Bowyer's guy.",
+      "mentions_person_refs": [
+        "N-338",
+        "N-11",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6274",
+      "ref": "C-6274",
+      "label": "Host says early rumblings held that money was missing from Turning Point Action",
+      "claim": "The host says there were early rumblings, which she heard from people at TPUSA and from a person outside TPUSA, that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.",
+      "anchored_artifacts": [
+        "A-2804.5"
+      ],
+      "related_nodes": [
+        "N-10388",
+        "N-10925"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:20:39",
+      "investigative_direction": "Review Turning Point Action financial filings and any audit communications.",
+      "transcript_snippet": "there were rumblings early on that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6275",
+      "ref": "C-6275",
+      "label": "Host says an outside source told her Charlie was gearing up to fire Tyler Bowyer",
+      "claim": "The host says a person outside TPUSA who knew Charlie told her that Charlie was gearing up to fire Tyler Bowyer, the person who introduced him and Erika.",
+      "anchored_artifacts": [
+        "A-2804.5"
+      ],
+      "related_nodes": [
+        "N-10388"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:20:39",
+      "investigative_direction": "Seek a second independent source and any dated written evidence of a planned dismissal.",
+      "transcript_snippet": "said that Charlie was gearing up to fire Turning uh Tyler Bowyer, the person who introduced him and Erika.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-11",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6276",
+      "ref": "C-6276",
+      "label": "Host says Mikey McCoy told people Charlie wanted to fire Tyler Bowyer",
+      "claim": "The host says, allegedly, that Mikey McCoy expressed to people that Charlie wanted to fire Tyler Bowyer.",
+      "anchored_artifacts": [
+        "A-2804.5"
+      ],
+      "related_nodes": [
+        "N-10388"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:20:39",
+      "investigative_direction": "Identify the people McCoy allegedly told and obtain their first-hand accounts.",
+      "transcript_snippet": "Mikey McCoy expressed to people that Charlie wanted to fire Tyler Bowyer.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-1",
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6277",
+      "ref": "C-6277",
+      "label": "Host says Bowyer and Erika go back to before Erika knew Charlie",
+      "claim": "The host says Tyler Bowyer and Erika Kirk go back since before Erika knew Charlie Kirk, and that Bowyer is not fired because Charlie is gone and Erika is in control.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:21:33",
+      "investigative_direction": "Document the dates and nature of the Bowyer and Erika acquaintance.",
+      "transcript_snippet": "him and Erika go back since before um Erika knew Charlie.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6278",
+      "ref": "C-6278",
+      "label": "Host says Harpole's lawyer repeatedly approached her about an alibi before filing suit",
+      "claim": "The host says Brian Harpole's lawyer, who filed a lawsuit against her, came to her multiple times offering an alibi for a time period and said he had no horse in the race on whether Mitch Snow's account was credible.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373",
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:25:48",
+      "investigative_direction": "Obtain the lawyer's communications with the host and the complaint's stated alibi.",
+      "transcript_snippet": "we should totally trust his lawyer filing a lawsuit against me who came to you multiple times",
+      "mentions_person_refs": [
+        "N-272",
+        "N-3",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6279",
+      "ref": "C-6279",
+      "label": "Host says the earlier-week Fort Huachuca push was a preemptive strike before the review",
+      "claim": "The host, reading a viewer comment, says the team wondered earlier in the week about a random push regarding Fort Huachuca and now knows it was a preemptive strike ahead of the review.",
+      "anchored_artifacts": [
+        "A-2458.1"
+      ],
+      "related_nodes": [
+        "N-10373",
+        "N-10859"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:25:48",
+      "investigative_direction": "Timeline the Fort Huachuca coverage and statements that week against the review's release.",
+      "transcript_snippet": "what was with this random push about Fort Wuka when we weren't discussing Fort Wuka and now we know.",
+      "supports_claim_refs": [
+        "C-3594"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6280",
+      "ref": "C-6280",
+      "label": "Host says the New York Post story implied she accepted $1.5 million from Harvey Weinstein",
+      "claim": "The host says a New York Post story that week implied she accepted $1.5 million from Harvey Weinstein to interview him.",
+      "anchored_artifacts": [
+        "A-2804.6"
+      ],
+      "related_nodes": [
+        "N-11081"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:26:32",
+      "investigative_direction": "Locate the New York Post article and its publication date and sourcing.",
+      "transcript_snippet": "that I accepted $1.5 million from Harvey Weinstein to interview him.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-231"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6281",
+      "ref": "C-6281",
+      "label": "Host denies taking money from Weinstein and says the Post never contacted her",
+      "claim": "The host says she did not accept a single cent from Harvey Weinstein and that the Post ran the story without contacting her despite having her PR contact for years.",
+      "anchored_artifacts": [
+        "A-2804.6"
+      ],
+      "related_nodes": [
+        "N-11081"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:26:32",
+      "investigative_direction": "Request the Post's contact attempts and a statement from the host's PR contact.",
+      "transcript_snippet": "Not a single red scent did I accept from Harvey Weinstein.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-231"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6282",
+      "ref": "C-6282",
+      "label": "Host says the UVU terrorist drill was on June 17",
+      "claim": "Responding to a viewer comment, the host says the UVU terrorist drill took place on June 17.",
+      "anchored_artifacts": [
+        "A-2458.1"
+      ],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:26:32",
+      "investigative_direction": "Obtain UVU's records of the June 2025 drill date and participating agencies.",
+      "transcript_snippet": "That drill was on June 17th."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6283",
+      "ref": "C-6283",
+      "label": "Host says Kirk won a White House debate against Zionist lobbyists on Iran on June 18 and 19",
+      "claim": "The host says that on June 18 and 19 Charlie Kirk went to the White House and won the debate against Zionist lobbyists regarding going to war with Iran, and that on June 19 Erika purged her Instagram.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10674",
+        "N-10412",
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:27:40",
+      "investigative_direction": "Verify the White House meeting and attendees and the Instagram purge date.",
+      "transcript_snippet": "June 18th and 19th is when Charlie went to the White House and won the debate against the Zionist lobbyists regarding going to war um with Iran.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6284",
+      "ref": "C-6284",
+      "label": "Host says Operation Midnight Hammer followed, with Trump agreeing to bomb nuclear sites",
+      "claim": "The host says Operation Midnight Hammer, in which Trump agreed to bomb nuclear sites, followed the June White House events.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-11079"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:27:40",
+      "investigative_direction": "Confirm the Operation Midnight Hammer date against public military and White House records.",
+      "transcript_snippet": "And then we had Operation Midnight Hammer, which was Trump agreed to do to bomb Ford and nuclear sites.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6285",
+      "ref": "C-6285",
+      "label": "Host says Claire Ginan wrote her first Jezebel article on June 26 with no prior writing profile",
+      "claim": "The host says that on June 26 Claire Ginan wrote her first article for Jezebel, the witch's curse article, and had no writing profile before that.",
+      "anchored_artifacts": [
+        "A-2456.1"
+      ],
+      "related_nodes": [
+        "N-10122",
+        "N-10117"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:27:40",
+      "investigative_direction": "Check Ginan's byline history and the publication date of the Jezebel article.",
+      "transcript_snippet": "on June 26th is when suddenly Claire Ginan writes her first article for Jezebel.",
+      "mentions_person_refs": [
+        "N-769"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-58",
+      "ref": "M-58",
+      "canonical_term": "Useful Idiot",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 157,
+          "video_timestamp": "00:20:28",
+          "speaker_node_ref": "N-3",
+          "quote": "e that's the worst thing he's done is he's an idiot. He's a useful idiot for Turning Point USA headquarters. But Jeff Chief Long, yeah, by the time...",
+          "context": "Later reuse of Useful Idiot in CKA seq 157.",
+          "confidence": "high",
+          "tags": [
+            "fed",
+            "residual_adjacent",
+            "chat_elevate",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 157,
+          "video_timestamp": "00:38:47",
+          "speaker_node_ref": "N-3",
+          "quote": "my guess is that Caleb Chilcutt was just the useful idiot",
+          "context": "Host calls the club president a useful idiot for headquarters again after the questionnaire passage.",
+          "confidence": "high",
+          "tags": [
+            "useful_idiot",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-24",
+      "ref": "M-24",
+      "canonical_term": "Yanking and Banking",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 157,
+          "video_timestamp": "00:03:14",
+          "speaker_node_ref": "N-3",
+          "quote": "yank and bank and Frank our way through this independent review",
+          "context": "Host summons Frank Turek with the yank and bank joke while opening the review read-through.",
+          "confidence": "high",
+          "tags": [
+            "frank_turek",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-83",
+      "ref": "M-83",
+      "canonical_term": "Lo and Behold",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 157,
+          "video_timestamp": "00:13:41",
+          "speaker_node_ref": "N-3",
+          "quote": "Lo and behold, we finally get an answer.",
+          "context": "Host introduces the July 10 timeline entry with the ironic reveal marker.",
+          "confidence": "high",
+          "tags": [
+            "reveal",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 157,
+          "video_timestamp": "00:56:42",
+          "speaker_node_ref": "N-3",
+          "quote": "BBNet and Yahoo did not kill Charlie Kirk",
+          "context": "Host repeats the Netanyahu pun while starting the July timeline.",
+          "confidence": "high",
+          "tags": [
+            "netanyahu",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-33",
+      "ref": "M-33",
+      "canonical_term": "Just Asking Questions",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 157,
+          "video_timestamp": "01:04:12",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm just asking questions.",
+          "context": "Host hedges after questioning the July 25 sponsor addendum.",
+          "confidence": "high",
+          "tags": [
+            "sponsor",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-64",
+      "ref": "M-64",
+      "canonical_term": "Audacity of the Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 157,
+          "video_timestamp": "01:17:15",
+          "speaker_node_ref": "N-3",
+          "quote": "but most of all, the audacity of Erika, the audacity of Erika to have a syndicate of pastors",
+          "context": "Host repeats the audacity refrain at TPUSA figures in her closing takeaway.",
+          "confidence": "high",
+          "tags": [
+            "audacity",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 157,
+          "video_timestamp": "01:24:36",
+          "speaker_node_ref": "N-3",
+          "quote": "They just gaslit me for an entire year while I was grieving.",
+          "context": "Host says TPUSA gaslit her for a year over how the event came together.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 157,
+          "video_timestamp": "01:24:58",
+          "speaker_node_ref": "N-3",
+          "quote": "Go, Max. Thank you, Tony.",
+          "context": "Host reads a viewer birthday comment and returns the Go Max exhortation.",
+          "confidence": "high",
+          "tags": [
+            "go_max",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-158",
+      "ref": "M-158",
+      "canonical_term": "Rats and Cockroaches",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 157,
+          "video_timestamp": "01:25:48",
+          "speaker_node_ref": "N-3",
+          "quote": "they start sending out the rats and the cockroaches",
+          "context": "Host says critics send out attackers when something devastating to the narrative is coming.",
+          "confidence": "high",
+          "tags": [
+            "attackers",
+            "new"
+          ]
+        }
+      ]
+    }
+  ]
 }

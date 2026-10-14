@@ -6,14 +6,14 @@
 - **YouTube id**: c5BcKF91iec
 - **Candace Ep**: 252
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:58:50
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Model Version**: MiniMax-M2.5
 - **Transcript SHA-256**: 8e12049f89e89a3afb605eb38161af512cd6a84eb73ff7723fadfa63f47de64d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-183, N-184, N-185, N-186, N-187, N-188, N-189, N-190, N-191, N-192, N-10191, N-10192, N-10193, N-10194, N-10195
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-183, N-186, N-187, N-188, N-189, N-190, N-191, N-192, N-10191, N-10193, N-10194, N-10195
+  - Reused Nodes Appearing: N-184, N-185, N-10192
 - **Monument Episode:** 19, N-11
 - **Batch:** 9
 - **Channel / creator:** Candace Owens (@RealCandaceO)

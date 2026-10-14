@@ -6,13 +6,13 @@
 - **YouTube id**: k8ueJdPFel4
 - **Candace Ep**: 312
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:55:04
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-603, N-604, N-605, N-606, N-607, N-10539, N-10540, N-10541, N-10542, N-10543
-  - Reused Nodes Appearing: N-102, N-5, N-387
+  - New Nodes Introduced: N-603, N-604, N-606, N-10542
+  - Reused Nodes Appearing: N-102, N-5, N-387, N-10539, N-10540, N-605, N-607, N-10541, N-10543
   - (see registers)
 
 ## 6. Meme Register
@@ -657,6 +657,7 @@ Anchored Artifacts: A-1846.2
 Mentions: N-1, N-3
 
 
+Tags: relevance:context
 Investigative Direction: Cross-reference against Charlie Kirk's public statements on Judaism and the Talmud; verify authenticity of message timestamps.
 
 ---

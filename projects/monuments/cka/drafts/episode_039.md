@@ -6,13 +6,13 @@
 - **YouTube id**: a-e7HC6SeK8
 - **Candace Ep**: 272
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:59:43
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 4b6e184f626db3b6b36ff537b80ba53f94d4abe1f21b413f75e391ab5ac5370a
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-298, N-299, N-300, N-301, N-302, N-303, N-304, N-306, N-307, N-10298, N-10299, N-10300, N-10301, N-10302, N-10303, N-10304, N-10305, N-10306
-  - Reused Nodes Appearing: N-1, N-11, N-37
+  - New Nodes Introduced: N-298, N-299, N-300, N-301, N-302, N-303, N-304, N-306, N-307, N-10298, N-10300, N-10301, N-10302, N-10304, N-10305, N-10306
+  - Reused Nodes Appearing: N-1, N-11, N-37, N-10299, N-10303
   - (see registers)
 
 # Episode 39 Analysis

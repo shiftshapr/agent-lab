@@ -251,6 +251,134 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3087",
+      "family_ref": "A-3087",
+      "bundle_name": "Elephant Clipping Flow Chart Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3087.1",
+          "ref": "A-3087.1",
+          "description": "Host-displayed chart of how the Elephant Clipping operation flows (Monster Lab / Clipit trade names, Matt Servius, and the people featured in campaigns); host asks the producer to pull it up twice",
+          "related_claims": [
+            "C-10622",
+            "C-10623"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-358",
+            "N-10880",
+            "N-10881",
+            "N-103"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:44:24",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3088",
+      "family_ref": "A-3088",
+      "bundle_name": "Blake Wynn Public Appearances Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3088.1",
+          "ref": "A-3088.1",
+          "description": "Host verbal listing of Blake Wynn appearances beside Erika Kirk (Presidential Medal of Freedom ceremony, TPUSA winter gala, Club America opening in Little Rock, the exit with Kash Patel); images are probably on screen but are not described",
+          "related_claims": [
+            "C-10608",
+            "C-10609"
+          ],
+          "related_nodes": [
+            "N-359",
+            "N-2",
+            "N-69",
+            "N-11266"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:26:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3089",
+      "family_ref": "A-3089",
+      "bundle_name": "Viewer Comments Read On Air Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3089.1",
+          "ref": "A-3089.1",
+          "description": "Host reads viewer comment from Miss Maya listing smears about the host, then riffs on shifting clipping narratives",
+          "related_claims": [
+            "C-10636"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:00:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3090",
+      "family_ref": "A-3090",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3090.1",
+          "ref": "A-3090.1",
+          "description": "Host verbal reference to the tip email address (more tips at candace dot com) asking techies for help with the Wayback Machine loading anomaly",
+          "related_claims": [
+            "C-10634"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-10884"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:59:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3090.2",
+          "ref": "A-3090.2",
+          "description": "Host verbal reference to the tip email address asking for LLC or corporate documents on Monster Lab",
+          "related_claims": [
+            "C-10640"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-10880"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:08:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -1548,6 +1676,163 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-886",
+      "ref": "N-886",
+      "name": "Dana White",
+      "type": "person",
+      "description": "First named by the host at 00:30:50 in episode 161 (reading the Atlantic article). UFC CEO listed among those Blake Wynn says sat near Trump at Mar-a-Lago on election night 2024.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-887",
+      "ref": "N-887",
+      "name": "Steve Witkoff",
+      "type": "person",
+      "description": "First named by the host at 00:30:50 in episode 161 (transcribed \"Steve Witco\"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11266",
+      "ref": "N-11266",
+      "name": "Blake Wynn Public Appearances With Erika Kirk",
+      "type": "topic",
+      "description": "The host's list of events where Blake Wynn appeared beside Erika Kirk after the assassination, including the Presidential Medal of Freedom ceremony, the TPUSA winter gala, the Club America opening in Little Rock and the exit with Kash Patel.",
+      "related_artifacts": [
+        "A-3088.1"
+      ],
+      "related_claims": [
+        "C-10608",
+        "C-10609"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11267",
+      "ref": "N-11267",
+      "name": "Erika Kirk Political Ambition Question",
+      "type": "topic",
+      "description": "The host's opinion that Erika Kirk wanted the White House and had high political ambitions, and her question whether Erika knew of the clipping site's launch.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10629",
+        "C-10630"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11268",
+      "ref": "N-11268",
+      "name": "vancekirk.com Domain Purchase",
+      "type": "topic",
+      "description": "The host's statement that the domain vancekirk.com was purchased on September 12, 2025 by an unknown buyer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10631"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-757",
+      "ref": "N-757",
+      "name": "Howard Hughes",
+      "type": "person",
+      "description": "Las Vegas billionaire whose company the host says was chopped up.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10624"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10566",
+      "ref": "N-10566",
+      "name": "Tyler Robinson Confession Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Discord confession claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10593"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10728",
+      "ref": "N-10728",
+      "name": "Timpanogos Hospital Pre-Notification Failure",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's challenge to Harpole's account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10633"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10923",
+      "ref": "N-10923",
+      "name": "White House Military Office Erika Kirk Amplification Email",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the \"go home\" exit video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10609"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -2096,6 +2381,1059 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10590",
+      "ref": "C-10590",
+      "label": "Host says a .30-06 round should have knocked Charlie backward and penetrated the neck",
+      "claim": "The host says the official narrative requires viewers to believe a .30-06 bullet, delivering about 1,500 lb of energy, did not penetrate Charlie Kirk's neck and did not send him backward, noting he moved up and to the side.",
+      "anchored_artifacts": [
+        "A-2497.1"
+      ],
+      "related_nodes": [
+        "N-10815"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:10",
+      "investigative_direction": "Compare the autopsy and ballistic reports with .30-06 energy tables and the video of his movement.",
+      "transcript_snippet": "we are meant to believe that not only did it not penetrate his neck but the force of the bullet which is 1,500 lb of energy coming at you uh that did not send Charlie backward.",
+      "supports_claim_refs": [
+        "C-3130"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10591",
+      "ref": "C-10591",
+      "label": "Host says the coordinated smear wave hit while she was off air in Spain",
+      "claim": "The host says she was in Spain with the show off air for two weeks during the Robinson preliminary-hearing week, traveling with Carrie Prejean Bowler, and was nonetheless inundated with obviously coordinated, well-funded attacks portraying her as a digital assassin.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10883"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:45",
+      "investigative_direction": "Compare the dates of the show hiatus with the Discord campaign windows and the volume of anti-Candace posts that week.",
+      "transcript_snippet": "You remember um I was away in Spain. That's why it was even more odd. The show was off air two weeks and despite this I was being inundated from every direction with these sorts of attacks.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-566"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10592",
+      "ref": "C-10592",
+      "label": "Host says funders use PR firms as middlemen to keep their hands clean",
+      "claim": "The host says groups who deny paying attackers often pay through a PR firm in the middle, and that in Jennica Pounds' case the Department of War is paying her.",
+      "anchored_artifacts": [
+        "A-2497.1"
+      ],
+      "related_nodes": [
+        "N-10888",
+        "N-10883"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:40",
+      "investigative_direction": "Identify any PR firm contracts that touch the clipping platforms and Pounds' special government employee pay records.",
+      "transcript_snippet": "in the case of Genica, the Department of War is paying Genica. Um, in many other circumstances, it's a PR firm that's in the middle.",
+      "supports_claim_refs": [
+        "C-3336"
+      ],
+      "mentions_person_refs": [
+        "N-287"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10593",
+      "ref": "C-10593",
+      "label": "Host says Discord is where Tyler Robinson's alleged confession was published",
+      "claim": "The host says that, as far as she knows, Discord is the place where Tyler Robinson published his alleged confession, which is why she doubts TPUSA would use it against enemies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10013",
+        "N-10566"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:55",
+      "investigative_direction": "Obtain the Discord message records cited in the charging documents and the platform's preservation request.",
+      "transcript_snippet": "that's apparently the place that Tyler Robinson published his alleged confession",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10594",
+      "ref": "C-10594",
+      "label": "Host says editors pick a Monster Lab campaign and are routed into Discord for rules",
+      "claim": "The host says editors choose a campaign listed on the Monster Lab website (debates, elephant clipping, shorts, podcast clipping) and are then sent to Discord, which supplies the dos, don'ts and run dates.",
+      "anchored_artifacts": [
+        "A-2498.1"
+      ],
+      "related_nodes": [
+        "N-10880",
+        "N-10013"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:20",
+      "investigative_direction": "Archive the Monster Lab campaign list and the Discord onboarding messages.",
+      "transcript_snippet": "if you're an editor, you can pick one of these campaigns. And when you pick one, you are then thrown into uh Discord.",
+      "mentions_person_refs": [
+        "N-10013"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10595",
+      "ref": "C-10595",
+      "label": "Host says Matt Servius is the top campaign creator on the Monster Lab site",
+      "claim": "The host says the Latvian man who runs Monster Lab and Clipit, Matt Servius, is also the number one person creating campaigns on the website, with Elephant Clipping his biggest political campaign channel.",
+      "anchored_artifacts": [
+        "A-2498.1"
+      ],
+      "related_nodes": [
+        "N-10880",
+        "N-10881"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:50",
+      "investigative_direction": "Count campaign creators on the Monster Lab site and confirm Servius's account in Discord.",
+      "transcript_snippet": "He is also the number one person that is creating these campaigns on the website.",
+      "mentions_person_refs": [
+        "N-358"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10596",
+      "ref": "C-10596",
+      "label": "Host says clippers are paid by impressions and register with a code in an Instagram bio",
+      "claim": "The host says editors make videos and are paid by Monster Lab according to how many impressions they receive, after putting a code in their Instagram bio so the company can identify them.",
+      "anchored_artifacts": [
+        "A-2498.1"
+      ],
+      "related_nodes": [
+        "N-10880"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:15",
+      "investigative_direction": "Obtain the payout rules and sample bio-code registrations.",
+      "transcript_snippet": "People make edits on videos and then they get paid by Monster Labs based on how many impressions those videos get."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10597",
+      "ref": "C-10597",
+      "label": "Host says the Wilson-debate-only rule ran until August 23",
+      "claim": "The host reads a Discord message from Elephant Clipping saying old Charlie Kirk and TPUSA debates were not allowed that week until August 23rd and the only permitted clip was the Candace-Wilson debate.",
+      "anchored_artifacts": [
+        "A-2498.1"
+      ],
+      "related_nodes": [
+        "N-10881"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:30",
+      "investigative_direction": "Capture the Discord message with its timestamp and moderator.",
+      "transcript_snippet": "That is not allowed this week until August 23rd. The only thing you can clip is this debate.",
+      "mentions_person_refs": [
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10598",
+      "ref": "C-10598",
+      "label": "Host says the Atlantic reporter got in via a tip and a closed Discord",
+      "claim": "The host says an Atlantic journalist (Ali Breland) received a tip about the clipping operation and gained access to the closed Discord from someone who wanted to expose it.",
+      "anchored_artifacts": [
+        "A-2499.1"
+      ],
+      "related_nodes": [
+        "N-10889",
+        "N-10013"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:25",
+      "investigative_direction": "Read the published Atlantic article and its sourcing note.",
+      "transcript_snippet": "a journalist over at the Atlantic did a deep dive after they also received a tip. In addition, they received access because this group is closed on Discord by someone who wanted to expose what was happening.",
+      "mentions_person_refs": [
+        "N-361"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10599",
+      "ref": "C-10599",
+      "label": "Host previews that the videos are supplied by a close friend of Erika Kirk",
+      "claim": "The host says the operation has strong ties to Eastern Europe and that its videos are supplied by a very close friend of Erika Kirk.",
+      "anchored_artifacts": [
+        "A-2499.1"
+      ],
+      "related_nodes": [
+        "N-10886"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:35",
+      "investigative_direction": "Check the Atlantic article for who supplied videos and whether the friend is identified.",
+      "transcript_snippet": "it is going to be an operation with strong ties to Eastern Europe. And the videos are being supplied by a very close friend of Erika Kirks.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10600",
+      "ref": "C-10600",
+      "label": "Atlantic reports Servius told recruits to use Gemini or ChatGPT for content",
+      "claim": "The host reads the Atlantic's account that Servius, in a video, says people can earn 100K a month and non-Americans can simply ask Gemini or ChatGPT for videos promoting Republican values.",
+      "anchored_artifacts": [
+        "A-2499.1"
+      ],
+      "related_nodes": [
+        "N-10889"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:30",
+      "investigative_direction": "View Servius's recruitment video and quote it in full.",
+      "transcript_snippet": "If you're not from the USA, like what the f is even Republicans like me, then simply go to Gemini or chat GPT.",
+      "mentions_person_refs": [
+        "N-358",
+        "N-361"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10601",
+      "ref": "C-10601",
+      "label": "Host cautions the company ownership is unconfirmed and Servius says he only runs it",
+      "claim": "The host says she cannot confirm Clippet is Servius's company, that the website describes Clippet and Monster Labs as trade names, and that Servius's LinkedIn says he runs it rather than owns it.",
+      "anchored_artifacts": [
+        "A-2499.1"
+      ],
+      "related_nodes": [
+        "N-10880"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:20",
+      "investigative_direction": "Search for LLC or DBA filings behind Monster Lab and Clipit.",
+      "transcript_snippet": "we cannot confirm that this is his company. And the website itself makes it clear that Clippet is not the true company name, but rather the trade name",
+      "mentions_person_refs": [
+        "N-358"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10602",
+      "ref": "C-10602",
+      "label": "Atlantic reporter joined the Discord by clicking join",
+      "claim": "The host reads that the Atlantic reporter accessed the Elephant Clipping Discord and related political clipping chats simply by clicking join and answering questions, and that campaign pay goes to accounts posing as ordinary Americans.",
+      "anchored_artifacts": [
+        "A-2499.1"
+      ],
+      "related_nodes": [
+        "N-10889",
+        "N-10013"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:20",
+      "investigative_direction": "Confirm with the reporter how access was granted and what was visible.",
+      "transcript_snippet": "I was able to access its Discord server and other related political clipping campaign chats chats just by clicking join",
+      "mentions_person_refs": [
+        "N-361"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10603",
+      "ref": "C-10603",
+      "label": "Servius says Elephant Clipping began about a year earlier, i.e. September 2025",
+      "claim": "The host reads that Discord budget records go back only to April but Servius said in a video that the campaign had run for about a year, and the host notes that dates it to September 2025, the month Charlie Kirk was assassinated.",
+      "anchored_artifacts": [
+        "A-2499.1"
+      ],
+      "related_nodes": [
+        "N-10881",
+        "N-10889"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:50",
+      "investigative_direction": "Locate the Servius video and its upload date.",
+      "transcript_snippet": "Discord records for Elephant Clipping's budget go back only to April, but the campaign has been going on for about a year now, Cervius said in a video posted that month.",
+      "mentions_person_refs": [
+        "N-358",
+        "N-361",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10604",
+      "ref": "C-10604",
+      "label": "Host says Erika was being sold to the public five days after the assassination and before the forgiveness speech",
+      "claim": "The host argues that a server dedicated to Erika Kirk clips and a budget existed five days after Charlie's death, before the public knew anything about her and before her \"I forgive him\" speech, and asks why she needed selling then.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-10891"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:00",
+      "investigative_direction": "Compare Google Drive upload dates with the date of the memorial speech and first campaign payouts.",
+      "transcript_snippet": "Why did she need to be sold to the public 5 days after her husband's assassination? This is before we knew anything about her, right? This is even before the I forgive him speech.",
+      "supports_claim_refs": [
+        "C-3688"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10605",
+      "ref": "C-10605",
+      "label": "Host guesses which clips of Erika were seeded on September 15",
+      "claim": "The host guesses that the seeded clips were the early images of Charlie and Erika walking with the kids and Erika at the casket, and says everything seen in those early days was by design.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-10891"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:00",
+      "investigative_direction": "Obtain the Google Drive file list and compare with the clips in circulation Sept 10-20.",
+      "transcript_snippet": "I think it's the one of Charlie and her walking with the kids. I think it's her in the casket. Everything we saw in those early days was by design.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10606",
+      "ref": "C-10606",
+      "label": "Atlantic: Blake Wynn is 26-year-old CEO and nephew of Steve Wynn",
+      "claim": "The host reads that Enclave and Key's CEO and founder is Blake Wynn, a 26-year-old nephew of billionaire donor Steve Wynn.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-10882"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:30",
+      "investigative_direction": "Check Nevada corporate filings for Enclave and Key officers.",
+      "transcript_snippet": "Enclave Keys CEO and founder is Blake Wyn, the 26-year-old nephew of the billionaire and conservative mega donor Steve Wyn.",
+      "mentions_person_refs": [
+        "N-359",
+        "N-360"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10607",
+      "ref": "C-10607",
+      "label": "Blake Wynn told the Atlantic there were inaccuracies; Enclave called it routine and lawful",
+      "claim": "The host reads that Blake Wynn answered the Atlantic's questions with \"There are a number of inaccuracies\" but declined to elaborate or talk, and that Enclave and Key's statement called clipping a routine, long-standing and lawful practice.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-10882"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:50",
+      "investigative_direction": "Request the specific inaccuracies and the full Enclave and Key statement.",
+      "transcript_snippet": "he responded, quote, \"There are a number of inaccuracies,\" end quote, but declined to offer further clarification",
+      "mentions_person_refs": [
+        "N-359"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10608",
+      "ref": "C-10608",
+      "label": "Host lists Blake Wynn's appearances beside Erika Kirk",
+      "claim": "The host says Blake Wynn has been by Erika Kirk's side at events since Charlie's death, including the Presidential Medal of Freedom ceremony, TPUSA's annual winter gala and the Club America opening in Little Rock on March 11, 2026.",
+      "anchored_artifacts": [
+        "A-3088.1"
+      ],
+      "related_nodes": [
+        "N-11266",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:40",
+      "investigative_direction": "Collect photos and guest lists for each event.",
+      "transcript_snippet": "uh Turning Point USA's annual winter gala. Uh she was he was there as well also for the opening of Club America in Little Rock, Arkansas March 11th, 2026.",
+      "mentions_person_refs": [
+        "N-359",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10609",
+      "ref": "C-10609",
+      "label": "Host says Blake Wynn was beside Erika carrying her bag when she left with Kash Patel",
+      "claim": "The host says Blake Wynn was at Erika Kirk's side walking out holding her bag next to Kash Patel by the cars during the viral \"I want to go home\" moment, and that the person who recorded the video was never identified.",
+      "anchored_artifacts": [
+        "A-3088.1"
+      ],
+      "related_nodes": [
+        "N-11266",
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:20",
+      "investigative_direction": "Identify everyone visible in the exit video and who recorded it.",
+      "transcript_snippet": "He was there by her side walking out with her holding her bag next to Kash Patel and they were outside by the cars.",
+      "mentions_person_refs": [
+        "N-359",
+        "N-2",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10610",
+      "ref": "C-10610",
+      "label": "Atlantic: Wynn said he speaks regularly with Kash Patel and was good friends with Kirk",
+      "claim": "The host reads that on a November 2025 podcast, Bring the Juice, Blake Wynn said Enclave and Key do a lot of political work, that he regularly speaks with FBI director Kash Patel, and that he was good friends with Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-10882"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:30",
+      "investigative_direction": "Watch the Bring the Juice interview and request any Patel contact logs.",
+      "transcript_snippet": "he said that he and Enclave and Key do a lot of work in politics. Wyn also said that he regularly speaks with FBI director Kash Patel and that he was good friends with Kirk.",
+      "mentions_person_refs": [
+        "N-359",
+        "N-69",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10611",
+      "ref": "C-10611",
+      "label": "Atlantic: Wynn recounted sitting next to Trump on election night 2024",
+      "claim": "The host reads that Blake Wynn recounted sitting next to Trump at Mar-a-Lago on election night 2024 alongside Elon Musk, UFC CEO Dana White and Steve Witkoff.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-10882"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:50",
+      "investigative_direction": "Verify seating accounts in the Bring the Juice interview.",
+      "transcript_snippet": "recounted sitting next to Trump at Mara Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witco, Trump's friend and special envoy.",
+      "mentions_person_refs": [
+        "N-359",
+        "N-5",
+        "N-119",
+        "N-886",
+        "N-887"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10612",
+      "ref": "C-10612",
+      "label": "Atlantic: Wynn posted photos with the Kirks and Tulsi Gabbard",
+      "claim": "The host reads that Blake Wynn has posted Instagram photos at small gatherings, the White House and Mar-a-Lago alongside the Kirks and Tulsi Gabbard.",
+      "anchored_artifacts": [
+        "A-2500.1"
+      ],
+      "related_nodes": [
+        "N-10882"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:20",
+      "investigative_direction": "Archive the Instagram posts with dates.",
+      "transcript_snippet": "he's posted pictures of himself on Instagram at small gatherings, the White House, and at Mara Lago alongside the Kirks and Tulsi Gabbard, the former director of national intelligence.",
+      "mentions_person_refs": [
+        "N-359",
+        "N-1",
+        "N-2",
+        "N-336"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10613",
+      "ref": "C-10613",
+      "label": "Atlantic: Elephant Clipping bans January 6 and Trump-family crypto subjects and Candace",
+      "claim": "The host reads that banned subjects in the campaign include the January 6, 2021 attack on the Capitol and cryptocurrencies promoted by members of the Trump family, and that clippers are barred from posting videos of Candace Owens, described as an Erika Kirk antagonist.",
+      "anchored_artifacts": [
+        "A-2499.1"
+      ],
+      "related_nodes": [
+        "N-10881",
+        "N-10889"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:40",
+      "investigative_direction": "Obtain the campaign rule sheet listing banned and approved subjects.",
+      "transcript_snippet": "Banned subjects include the January 6th, 2021 attack on the capital and cryptocurrencies that members of the Trump family have promoted",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10614",
+      "ref": "C-10614",
+      "label": "Atlantic: Crowder campaign also links to the Enclave and Key Google Drive",
+      "claim": "The host reads that Servius manages Ben Shapiro and Steven Crowder campaigns and that Crowder's campaign also links to the Enclave and Key Google Drive; neither Shapiro nor Crowder responded.",
+      "anchored_artifacts": [
+        "A-2499.1"
+      ],
+      "related_nodes": [
+        "N-10882"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:30",
+      "investigative_direction": "Ask Crowder and Shapiro representatives about the campaigns.",
+      "transcript_snippet": "And Crowder's campaign also links to Enclave and Key connected to the Google Drive.",
+      "mentions_person_refs": [
+        "N-265",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10615",
+      "ref": "C-10615",
+      "label": "Host says Kolvet and Blake Wynn have flown on a private plane together",
+      "claim": "The host tells Andrew Kolvet to ask his friend Blake Wynn about the Latvian operator, saying the two have been on a private plane together.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:10",
+      "investigative_direction": "Identify the flight and passenger manifest she refers to.",
+      "transcript_snippet": "You guys have been on a private plane before together. Feel like you guys know each other.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-359"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10616",
+      "ref": "C-10616",
+      "label": "Host says Enclave and Key has a footprint in Romania",
+      "claim": "The host says Enclave and Key has a corporate footprint in Romania.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10882"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:56",
+      "investigative_direction": "Check Romanian company registries for Enclave and Key entities.",
+      "transcript_snippet": "Romania. Romania. I kid you not. I kid you not.",
+      "mentions_person_refs": [
+        "N-359"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10617",
+      "ref": "C-10617",
+      "label": "Host says her own clips are made by an identifiable employee, with no paid campaign",
+      "claim": "The host says she runs no underground paid clipping campaign and no PR middleman, and that clips on her socials are made by an employee who is identifiable.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10883"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:50",
+      "investigative_direction": "Compare with account lists and any payments by her company to clipping services.",
+      "transcript_snippet": "What you see on my socials is an employee that is being paid to create clips on my socials that are identifiable.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10618",
+      "ref": "C-10618",
+      "label": "Host says Crowder snuck his producer in to back Wilson at her house",
+      "claim": "The host says Steven Crowder effectively snuck in his producer, would not say who was coming, to back up Andrew Wilson at her house.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:35",
+      "investigative_direction": "Identify the producer and the debate-day arrival list.",
+      "transcript_snippet": "Steven Crowder, we told you he uh effectively snuck in his producer, wouldn't tell us who was coming into my house to back up Andrew Wilson.",
+      "mentions_person_refs": [
+        "N-265",
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10619",
+      "ref": "C-10619",
+      "label": "Host says the Monster Labs domain showed only a splash page from May 3, 2024 through 2025",
+      "claim": "The host says Wayback Machine shows a splash page for Monster Labs beginning May 3, 2024, with the site not live through 2025, until the September 2025 captures.",
+      "anchored_artifacts": [
+        "A-2501.1"
+      ],
+      "related_nodes": [
+        "N-10884",
+        "N-10880"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:30",
+      "investigative_direction": "Pull WHOIS history and CDX captures for the domain.",
+      "transcript_snippet": "It stayed like this for beginning May 3rd, 2024. if you want to call this a a a splash page of sorts.",
+      "supports_claim_refs": [
+        "C-3690"
+      ],
+      "mentions_person_refs": [
+        "N-10880"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10620",
+      "ref": "C-10620",
+      "label": "Host recalls Kash Patel saying archive.ph's operator must be identified",
+      "claim": "The host says she distinctly remembers Kash Patel saying they needed to figure out who runs archive.ph, a different archive site from Wayback Machine.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10884"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:40",
+      "investigative_direction": "Locate Patel's statement on archive.ph.",
+      "transcript_snippet": "Kash Patel, who we've learned is is friends with all these people, was talking about how they needed to go out and figure out who was running archive uh. ph",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10621",
+      "ref": "C-10621",
+      "label": "Host speculates someone with power ordered Wayback to show only loading",
+      "claim": "The host, saying it is a feeling and not a fact, suggests someone with power told Wayback Machine to show only \"loading\" so people cannot see the first clipping campaign.",
+      "anchored_artifacts": [
+        "A-2501.1"
+      ],
+      "related_nodes": [
+        "N-10884"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:30",
+      "investigative_direction": "Ask Internet Archive whether captures were restricted and on whose request.",
+      "transcript_snippet": "Somebody said I don't I don't know who owns Wayback Machine and said, \"I see that you have all these archives. We just wanted to say loading.",
+      "supports_claim_refs": [
+        "C-3690"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10622",
+      "ref": "C-10622",
+      "label": "Host says the site's terms list only the trade names Monster Lab and Clipit",
+      "claim": "The host says the terms and conditions and about page only say the company uses the trade names Monster Lab and Clipit, and that LLC documents searched so far do not reveal who is at the top.",
+      "anchored_artifacts": [
+        "A-3087.1"
+      ],
+      "related_nodes": [
+        "N-10880"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:50",
+      "investigative_direction": "Search state LLC filings and DBA registrations for the trade names.",
+      "transcript_snippet": "When you go to the website and you look at the terms and conditions and the about section it just tells us that they are using the trade name monster lab and clip it."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10623",
+      "ref": "C-10623",
+      "label": "Host says her chart lists Trump, Vance and others as campaign subjects",
+      "claim": "The host says the people in the campaigns, as learned from the article and shown in her chart, include Tulsi Gabbard, Ben Shapiro, Steven Crowder, Vivek Ramaswamy, President Trump and JD Vance.",
+      "anchored_artifacts": [
+        "A-3087.1"
+      ],
+      "related_nodes": [
+        "N-10881"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:15",
+      "investigative_direction": "Check whether Trump and Vance appear in the Atlantic article or only in the host's chart.",
+      "transcript_snippet": "People in the campaign we learned the article Tulsi Gabbard, Ben Shapiro, Steven Crowder, Vik Ramoswami, President Trump, JD Vance.",
+      "mentions_person_refs": [
+        "N-336",
+        "N-97",
+        "N-265",
+        "N-120",
+        "N-5",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10624",
+      "ref": "C-10624",
+      "label": "Host says Adelson and the Wynn family each got a piece of the Hughes empire",
+      "claim": "The host says that after Howard Hughes' company was chopped up, an Adelson (transcribed Adlesen) got a piece and the Wynn family took over the hotel he lived in.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10249"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:00",
+      "investigative_direction": "Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.",
+      "transcript_snippet": "after his company got chopped up. Adlesen got a piece. The Wind family got a piece.",
+      "mentions_person_refs": [
+        "N-757"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10625",
+      "ref": "C-10625",
+      "label": "Host jokes RFK Jr. cannot be clipped because big-pharma wealth is in the syndicate",
+      "claim": "The host speculates RFK Jr. is banned from clipping because big-pharma wealth is a large part of the syndicate's money, calling it a cross-contamination of pharma and Las Vegas interests.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:47:50",
+      "investigative_direction": "None beyond the banned-subject list.",
+      "transcript_snippet": "I guess that's why they can't clip RFK because, you know, big pharma is a big piece of that wealth.",
+      "mentions_person_refs": [
+        "N-365"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10626",
+      "ref": "C-10626",
+      "label": "Host says Monster Lab's operator purports to be based in New York",
+      "claim": "The host says the unknown person behind Monster Lab and Clipit purports to be based in New York.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10880"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:50",
+      "investigative_direction": "Search New York DOS filings for the trade names.",
+      "transcript_snippet": "we should be able to figure it out because this person is claim purports to be based in New York."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10627",
+      "ref": "C-10627",
+      "label": "Aired interview says Nick Fuentes is banned on Instagram and YouTube yet clipped there",
+      "claim": "In the aired interview segment, it is said that Nick Fuentes is banned from Instagram and YouTube yet is widely found on Instagram because clippers post his content.",
+      "anchored_artifacts": [
+        "A-2503.1"
+      ],
+      "related_nodes": [
+        "N-10890"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:50",
+      "investigative_direction": "Confirm the platform ban status of Fuentes' accounts.",
+      "transcript_snippet": "Nick Fuentes is banned from Instagram. He's banned from YouTube.",
+      "mentions_person_refs": [
+        "N-205"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10628",
+      "ref": "C-10628",
+      "label": "Host says TPUSA is in cahoots with the clippers and sold Erika to the public",
+      "claim": "The host says Turning Point USA is obviously in cahoots with the clipping operators, taking Erika around on private planes while trying to position and sell her to the public.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10880"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:55",
+      "investigative_direction": "Document flight records and campaign payments linked to TPUSA.",
+      "transcript_snippet": "Turning Point USA is obviously in cahoots with them. They were taking her around private planes and they are they were trying to get Erika um into a position where they were selling her to us.",
+      "contradicts_claim_refs": [
+        "C-3687"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10629",
+      "ref": "C-10629",
+      "label": "Host says Erika wanted the White House and had high political ambitions",
+      "claim": "The host says she genuinely believes Erika Kirk had high political ambitions and ultimately wanted the White House.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11267"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:10",
+      "investigative_direction": "Collect Erika's statements and staff reports about political plans.",
+      "transcript_snippet": "And I think ultimately because she wanted the White House. I genuinely believe Erika had high political ambitions.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10630",
+      "ref": "C-10630",
+      "label": "Host says Erika was CEO and chairman by September 12 so likely knew of the site",
+      "claim": "The host argues that if the site went live September 12, 2025, Erika Kirk, then CEO and chairman, would have known about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11267"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:20",
+      "investigative_direction": "Establish the board appointment date and the site's go-live date.",
+      "transcript_snippet": "If this site went live on September 12th, are we supposed to believe she didn't know about this? She was CEO and chairman by September 12th.",
+      "supports_claim_refs": [
+        "C-6352"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10631",
+      "ref": "C-10631",
+      "label": "Host says vancekirk.com was purchased September 12, buyer unknown",
+      "claim": "The host says she thinks September 12, 2025 is also the day the domain vancekirk.com was purchased, by an unknown buyer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:40",
+      "investigative_direction": "Pull WHOIS registration history for vancekirk.com.",
+      "transcript_snippet": "I think actually September 12th is also the day that vancekirk. com was purchased. We don't know who purchased it, but it was purchased."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10632",
+      "ref": "C-10632",
+      "label": "Host says she has never taken a dollar from TPUSA",
+      "claim": "The host says she has never taken a single dollar from Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:35",
+      "investigative_direction": "Compare with any past TPUSA payments to the host.",
+      "transcript_snippet": "I'm not getting paid. I've never taken a single dollar from Turning Point USA.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10633",
+      "ref": "C-10633",
+      "label": "Host says audio suggests the hospital knew someone was coming, despite Harpole",
+      "claim": "The host says Brian Harpole said the hospital did not know they were coming, but the audio and chats she is listening to show redirection to Timpanogos, suggesting the hospital knew someone was coming.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10728",
+        "N-10874"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:50",
+      "investigative_direction": "Obtain dispatch audio and hospital intake logs with times.",
+      "transcript_snippet": "Now, Brian did say that the hospital didn't know they were coming, but it certainly sounds like the hospital knew someone was coming because we're listening now to the audio and the chats and they're redirecting to Teenogos.",
+      "contradicts_claim_refs": [
+        "C-3056"
+      ],
+      "mentions_person_refs": [
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10634",
+      "ref": "C-10634",
+      "label": "DIA: Host asks techies to email tips about the Wayback loading anomaly",
+      "claim": "The host asks listeners, including technical people, to send tips to the more-tips address about why Wayback Machine archive days show only loading.",
+      "anchored_artifacts": [
+        "A-3090.1"
+      ],
+      "related_nodes": [
+        "N-10884"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:40",
+      "investigative_direction": "Track tips on Wayback captures.",
+      "transcript_snippet": "So, hit your girl up at more tips at candace. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10635",
+      "ref": "C-10635",
+      "label": "Host says the wipe is cleaning up tracks, probably hiding anti-Candace campaigns",
+      "claim": "The host says \"they\" do not want viewers to see which campaign was live on September 12, calls the loading wipe a cleaning up of the tracks, and expects the hidden campaigns to be anti-Candace.",
+      "anchored_artifacts": [
+        "A-2501.1"
+      ],
+      "related_nodes": [
+        "N-10884"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:55",
+      "investigative_direction": "Recover archived September 12 pages from other sources.",
+      "transcript_snippet": "They don't want us to see what campaign was live on September 12th. That is a cleaning up of the tracks.",
+      "supports_claim_refs": [
+        "C-3690"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10636",
+      "ref": "C-10636",
+      "label": "Host says shifting smears fed to overseas clippers include Saudi funding and Charlie romance",
+      "claim": "The host says the paid clippers are handed changing narratives about her, such as being funded by the Saudis and Pakistanis, being a Russian-speaking lesbian, her husband being gay and being madly in love with Charlie.",
+      "anchored_artifacts": [
+        "A-3089.1"
+      ],
+      "related_nodes": [
+        "N-10883"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:00",
+      "investigative_direction": "Trace the origin posts of each smear.",
+      "transcript_snippet": "They're like, \"She's funded by the Saudis. The Pakistanis are funding her. She's a Russian speaking lesbian. Her husband's gay. She's madly in love with Charlie.\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10637",
+      "ref": "C-10637",
+      "label": "Host says her Theo Von episode passed a million views",
+      "claim": "The host says her episode with Theo Von was released the previous day on his channel and passed one million views.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:04:00",
+      "investigative_direction": "Check view counts on Theo Von's channel.",
+      "transcript_snippet": "Anyway, uh that was released yesterday on Theon's channel and people have really loved it. I think it I saw that it passed a million views",
+      "mentions_person_refs": [
+        "N-149"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10638",
+      "ref": "C-10638",
+      "label": "Host says the people attacked and involved point to Israeli-aligned interests",
+      "claim": "The host says that, from who is being attacked and who is part of the campaigns, it is Israeli-aligned interests, which she says is beyond question.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:55",
+      "investigative_direction": "Identify funders of Monster Lab and confirm any such alignment.",
+      "transcript_snippet": "look, it's it's Israeli aligned interest. There's no question about it."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10639",
+      "ref": "C-10639",
+      "label": "Host says baby number five is due in a couple of weeks",
+      "claim": "The host says she is about a couple of weeks from meeting her fifth child.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:07:50",
+      "investigative_direction": "None.",
+      "transcript_snippet": "I'm so excited to meet him. I will say that. Just a couple more weeks here.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10640",
+      "ref": "C-10640",
+      "label": "DIA: Host asks for LLC documents on Monster Lab via the tips email",
+      "claim": "The host asks viewers with LLC or corporate documents on the Monster Lab and Clipit trade names to email the more-tips address.",
+      "anchored_artifacts": [
+        "A-3090.2"
+      ],
+      "related_nodes": [
+        "N-10880"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:08:40",
+      "investigative_direction": "Collect corporate documents for Monster Lab.",
+      "transcript_snippet": "Email us more tips@candice. com with any information.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10641",
+      "ref": "C-10641",
+      "label": "Host says the people involved were funded into their positions",
+      "claim": "The host says those who look past the flaws in the assassination story were funded into the positions they hold.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:09:20",
+      "investigative_direction": "None; sweeping group characterization.",
+      "transcript_snippet": "These people were funded uh into the positions that they're in today."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10642",
+      "ref": "C-10642",
+      "label": "Host says Charlie fought people giving money to control his voice",
+      "claim": "The host says what Charlie was fighting in the end was people giving money to control his voice.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:11:50",
+      "investigative_direction": "Find Charlie's statements on donor influence.",
+      "transcript_snippet": "it is the very thing that Charlie was fighting in the end was the idea of people giving money to control his voice.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1"
+      ]
     }
   ],
   "memes": [
@@ -2419,6 +3757,95 @@
           "tags": [
             "pregnancy",
             "comedy",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:44:50",
+          "speaker_node_ref": "N-3",
+          "quote": "You know, I'm going to say email us more tips. com.",
+          "context": "Tip-line ask for Monster Lab ownership leads; existing claim C-3694 covers the beat.",
+          "confidence": "medium",
+          "tags": [
+            "tips",
+            "near_dia"
+          ]
+        },
+        {
+          "episode": 161,
+          "video_timestamp": "00:59:40",
+          "speaker_node_ref": "N-3",
+          "quote": "So, hit your girl up at more tips at candace. com.",
+          "context": "Tip-line ask about the Wayback loading anomaly.",
+          "confidence": "medium",
+          "tags": [
+            "tips",
+            "near_dia"
+          ]
+        },
+        {
+          "episode": 161,
+          "video_timestamp": "01:08:40",
+          "speaker_node_ref": "N-3",
+          "quote": "Email us more tips@candice. com with any information.",
+          "context": "Tip-line ask for Monster Lab LLC documents.",
+          "confidence": "medium",
+          "tags": [
+            "tips",
+            "near_dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-270",
+      "ref": "M-270",
+      "canonical_term": "Where My Techies At",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "00:59:34",
+          "speaker_node_ref": "N-3",
+          "quote": "Where my techies at? It ain't me.",
+          "context": "Host asks tech-savvy viewers to explain the Wayback Machine loading anomaly.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "humor",
+            "first_seen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-271",
+      "ref": "M-271",
+      "canonical_term": "Elephant Droppings",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 161,
+          "video_timestamp": "01:04:57",
+          "speaker_node_ref": "N-3",
+          "quote": "we see through their dirty elephant droppings. Nasty elephant droppings.",
+          "context": "Host reads and agrees with a comment mocking the elephant clipping campaign.",
+          "confidence": "high",
+          "tags": [
+            "clipping",
+            "comment",
             "first_seen"
           ]
         }

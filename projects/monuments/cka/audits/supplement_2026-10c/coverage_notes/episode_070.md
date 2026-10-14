@@ -1,0 +1,6 @@
+# Coverage notes, episode 70
+
+- Existing claims in the draft: 13 (C-2314 to C-2325 and C-3662). Beats judged covered: 14 (the Gallagher clip, host's disbelief, NYT adrenal quote, Watters bedroom and hospital quotes, the four Lech claims, the two Dillon claims, the GoFundMe and the DIA brand line).
+- New claims added: 57. New artifacts: 6 sub-items in 4 families. Meme occurrences added: 8 across 6 memes (2 new: M-217, M-218).
+- The five most important things the earlier pass missed: (1) the Pierre claims at 00:12:18-00:14:13 (written proof of Streiff and Erika lying, billions deal, calls to Streiff and Don Oro, knew Charlie was dead first, deal went through); (2) the Hamptons/Netanyahu next-level offer and the Netanyahu podcast refusal at 00:16:03-00:17:49; (3) the Erika September 10 whereabouts and tarmac-hour claims at 00:18:49-00:20:56; (4) the 2019 resignation account (Charlie lied about money, Ike at Mar-a-Lago, warnings about Sheridan, Schaefer security and Dan Flood) at 00:03:38-00:07:49; (5) the iMessage point, the Kolvet 'it was supposed to be you' remark and the 'France and Israel are involved' assertion at 00:44:20, 00:40:26 and 00:18:49.
+- Not claimed: the Goldco, Tax Network USA and American Financing ad reads, the Shabbat Shalom book remark at 00:31:39 (too garbled to state a proposition) and rhetorical questions.

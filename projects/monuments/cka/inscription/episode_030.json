@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–00:56:18",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "0d2f2dbc9465930cb84c2b757b75f17ff20dc8778189c037661661ce3f8fbc84",
@@ -367,6 +367,116 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3027",
+      "family_ref": "A-3027",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3027.1",
+          "ref": "A-3027.1",
+          "description": "Host verbal reference to the tip email address more tips at candacewowens.com (verbal call for tips on who picked the outdoor venue)",
+          "related_claims": [
+            "C-9723"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:21:38",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3027.2",
+          "ref": "A-3027.2",
+          "description": "Host verbal reference to the tip email address (transcribed more tips@canniswowens.com) asking for Mikey McCoy's real name",
+          "related_claims": [
+            "C-9727"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:22:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3027.3",
+          "ref": "A-3027.3",
+          "description": "Host verbal reference to the tip email address more tips at candacewowens.com",
+          "related_claims": [
+            "C-9734"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:29:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3028",
+      "family_ref": "A-3028",
+      "bundle_name": "Live Chat Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3028.1",
+          "ref": "A-3028.1",
+          "description": "Host reads aloud a YouTube live-chat comment saying Mikey McCoy went to Oaks Christian in Thousand Oaks",
+          "related_claims": [
+            "C-9752",
+            "C-9753"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:44:55",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3029",
+      "family_ref": "A-3029",
+      "bundle_name": "Taylor Lorenz Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3029.1",
+          "ref": "A-3029.1",
+          "description": "Host reads aloud an early tweet by Taylor Lorenz about Candace Owens appearing genuinely devastated by Kirk's death",
+          "related_claims": [
+            "C-9711"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:13:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -684,7 +794,26 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9700",
+        "C-9705",
+        "C-9706",
+        "C-9708",
+        "C-9709",
+        "C-9710",
+        "C-9711",
+        "C-9716",
+        "C-9717",
+        "C-9719",
+        "C-9720",
+        "C-9721",
+        "C-9729",
+        "C-9731",
+        "C-9737",
+        "C-9741",
+        "C-9742",
+        "C-9757"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -700,7 +829,12 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9698",
+        "C-9700",
+        "C-9701",
+        "C-9712"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -716,7 +850,49 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9698",
+        "C-9699",
+        "C-9701",
+        "C-9702",
+        "C-9703",
+        "C-9705",
+        "C-9708",
+        "C-9710",
+        "C-9711",
+        "C-9712",
+        "C-9713",
+        "C-9714",
+        "C-9719",
+        "C-9720",
+        "C-9723",
+        "C-9724",
+        "C-9725",
+        "C-9726",
+        "C-9727",
+        "C-9728",
+        "C-9730",
+        "C-9731",
+        "C-9732",
+        "C-9733",
+        "C-9734",
+        "C-9735",
+        "C-9736",
+        "C-9737",
+        "C-9738",
+        "C-9739",
+        "C-9744",
+        "C-9745",
+        "C-9750",
+        "C-9756",
+        "C-9757",
+        "C-9758",
+        "C-9759",
+        "C-9761",
+        "C-9762",
+        "C-9763",
+        "C-9764"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -732,7 +908,10 @@
       "type": "person",
       "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9706",
+        "C-9707"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -748,7 +927,14 @@
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9705",
+        "C-9706",
+        "C-9707",
+        "C-9708",
+        "C-9709",
+        "C-9710"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -764,7 +950,9 @@
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9715"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -780,7 +968,14 @@
       "type": "person",
       "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9713",
+        "C-9725",
+        "C-9753",
+        "C-9754",
+        "C-9755",
+        "C-9756"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -812,7 +1007,9 @@
       "type": "person",
       "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9716"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -828,7 +1025,18 @@
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9713",
+        "C-9718",
+        "C-9724",
+        "C-9725",
+        "C-9726",
+        "C-9727",
+        "C-9741",
+        "C-9752",
+        "C-9753",
+        "C-9756"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -844,13 +1052,814 @@
       "type": "investigation_target",
       "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9708",
+        "C-9712",
+        "C-9719",
+        "C-9721",
+        "C-9723",
+        "C-9724",
+        "C-9728",
+        "C-9729",
+        "C-9732",
+        "C-9733",
+        "C-9756",
+        "C-9757"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10004",
+      "ref": "N-10004",
+      "name": "Kanye Tweet About Candace Owens",
+      "type": "investigation_target",
+      "description": "Reused for the tweet items.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9758",
+        "C-9759",
+        "C-9760"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "The host's venue discussion.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9722"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10015",
+      "ref": "N-10015",
+      "name": "Mossad",
+      "type": "investigation_target",
+      "description": "Referenced in the Wilkins complaint text.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9707",
+        "C-9747"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10023",
+      "ref": "N-10023",
+      "name": "Epstein Israeli Intelligence Asset Allegation",
+      "type": "investigation_target",
+      "description": "Reused for Tucker's Epstein remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9707"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Reused for the host's sweeping remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9761"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10027",
+      "ref": "N-10027",
+      "name": "The Hamptons",
+      "type": "investigation_target",
+      "description": "Place of the retreat the host discusses.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9730",
+        "C-9731"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10047",
+      "ref": "N-10047",
+      "name": "Donor Intimidation of Charlie Kirk",
+      "type": "investigation_target",
+      "description": "Reused for the donor items.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9705",
+        "C-9706",
+        "C-9710"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10063",
+      "ref": "N-10063",
+      "name": "Gaza",
+      "type": "investigation_target",
+      "description": "Reused for the host's casino remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9763"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10100",
+      "ref": "N-10100",
+      "name": "TPUSA SD Card Removal",
+      "type": "investigation_target",
+      "description": "Reused for the camera and SD card lies.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9714",
+        "C-9715"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10131",
+      "ref": "N-10131",
+      "name": "PragerU",
+      "type": "investigation_target",
+      "description": "Reused for the Streit introductions and Wilkins remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9744",
+        "C-9745",
+        "C-9751"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10132",
+      "ref": "N-10132",
+      "name": "TPUSA DOGE Department / Financial Audit",
+      "type": "investigation_target",
+      "description": "Reused for lie nine.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9717"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10162",
+      "ref": "N-10162",
+      "name": "SD Card Removal Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Reused for the hats explanation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9715"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10193",
+      "ref": "N-10193",
+      "name": "Mikey McCoy Call Log Verification",
+      "type": "investigation_target",
+      "description": "Reused for the call-first and 911 items.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9713",
+        "C-9718"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10196",
+      "ref": "N-10196",
+      "name": "UVU Hospital Charlie Kirk Medical File Access Question",
+      "type": "investigation_target",
+      "description": "Reused for the hospital items.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9735",
+        "C-9736",
+        "C-9737"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10198",
+      "ref": "N-10198",
+      "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+      "type": "investigation_target",
+      "description": "Reused for the lie list.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9713",
+        "C-9718"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10237",
+      "ref": "N-10237",
+      "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
+      "type": "investigation_target",
+      "description": "Reused for Shapiro and Kelly items.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9698",
+        "C-9699",
+        "C-9700",
+        "C-9701"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10248",
+      "ref": "N-10248",
+      "name": "Calvary Chapel Network Infiltration Question",
+      "type": "investigation_target",
+      "description": "Reused for Hibbs and the academy purchase.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9740",
+        "C-9754"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10345",
+      "ref": "N-10345",
+      "name": "Hampton Retreat Seth Dillon Confrontation",
+      "type": "investigation_target",
+      "description": "Reused for the Hamptons items.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9730",
+        "C-9731"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10346",
+      "ref": "N-10346",
+      "name": "Terrell Farnsworth Camera Removal Justification",
+      "type": "investigation_target",
+      "description": "Reused for the police instruction lie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9714"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10434",
+      "ref": "N-10434",
+      "name": "Charlie Kirk DOGE Pre-Death Establishment",
+      "type": "investigation_target",
+      "description": "Reused for lie nine.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9717"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10436",
+      "ref": "N-10436",
+      "name": "TPUSA Faith Military Infiltration Claim",
+      "type": "investigation_target",
+      "description": "Reused for the Hibbs military-family item.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9743"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10770",
+      "ref": "N-10770",
+      "name": "Utah Valley Hospital File Anomaly",
+      "type": "investigation_target",
+      "description": "Reused for the hospital system items.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9735",
+        "C-9736",
+        "C-9737"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10817",
+      "ref": "N-10817",
+      "name": "Butch Hibbs UVU Recording Behavior",
+      "type": "investigation_target",
+      "description": "Reused for his arrival with Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9741"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10870",
+      "ref": "N-10870",
+      "name": "Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum",
+      "type": "investigation_target",
+      "description": "Possible match for the sponsor transcribed 'Rei'.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9729"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "The host names him as the source of the police camera-removal account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9714"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11064",
+      "ref": "N-11064",
+      "name": "Ben Shapiro and Charlie Kirk Friendship Narrative",
+      "type": "investigation_target",
+      "description": "Reused for the bad-blood lie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9716"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11080",
+      "ref": "N-11080",
+      "name": "Student Action Summit July 2025 (Tampa)",
+      "type": "investigation_target",
+      "description": "Setting of the backstage exchange.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9706",
+        "C-9708",
+        "C-9710"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11084",
+      "ref": "N-11084",
+      "name": "TPUSA Leak Hunt and Employee Firings",
+      "type": "investigation_target",
+      "description": "Reused for the leak items.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9732",
+        "C-9733",
+        "C-9757"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11121",
+      "ref": "N-11121",
+      "name": "Hollywood Gang Claim",
+      "type": "investigation_target",
+      "description": "Reused for the Kanye Hollywood remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9759"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11167",
+      "ref": "N-11167",
+      "name": "Operation Underground Railroad",
+      "type": "investigation_target",
+      "description": "Ballard's organization.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9745"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11171",
+      "ref": "N-11171",
+      "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
+      "type": "investigation_target",
+      "description": "Reused for lie nine.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9717"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-118",
+      "ref": "N-118",
+      "name": "Marissa Strait",
+      "type": "person",
+      "description": "Transcribed Strait; linked by the host to introductions and to Wilkins.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9744",
+        "C-9745",
+        "C-9751"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-121",
+      "ref": "N-121",
+      "name": "Taylor Lorenz",
+      "type": "person",
+      "description": "Her early tweet about the host is read aloud.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9711"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-182",
+      "ref": "N-182",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Named in the host's Gaza casino remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9763"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-20",
+      "ref": "N-20",
+      "name": "Dylan Erickson",
+      "type": "person",
+      "description": "Addressed by the host along with Austin (transcribed Ericson).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9728",
+        "C-9729",
+        "C-9730",
+        "C-9757"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-232",
+      "ref": "N-232",
+      "name": "Allie Beth Stuckey",
+      "type": "person",
+      "description": "Transcribed Ali Stucky; mentioned among critics who tried to debunk the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9719"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-267",
+      "ref": "N-267",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "The AV staffer in the camera and SD card items.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9714",
+        "C-9715"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-332",
+      "ref": "N-332",
+      "name": "Tim Ballard",
+      "type": "person",
+      "description": "Former head of Operation Underground, introduced to the host via Streit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9745"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-38",
+      "ref": "N-38",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Transcribed Seth Dylan; named in the Hamptons retreat items.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9730",
+        "C-9731"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-866",
+      "ref": "N-866",
+      "name": "Austin Erickson",
+      "type": "person",
+      "description": "First named by the host at 00:22:40 in episode 30 (spelled Austin Ericson in the transcript). TPUSA staffer addressed with Dylan Erickson.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9728",
+        "C-9729",
+        "C-9730",
+        "C-9757"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11232",
+      "ref": "N-11232",
+      "name": "TPUSA Email Fingerprinting Software Claim",
+      "type": "topic",
+      "description": "Persistent target: the host's report that tech people found TPUSA may use software that varies the wording of each employee's copy of an email to trace leaks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9733"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11233",
+      "ref": "N-11233",
+      "name": "Mikey McCoy Identity and Family Ties Inquiry",
+      "type": "topic",
+      "description": "Persistent target: the host's questions about Mikey McCoy's legal first name, local recognition of him, and his wife's role as a TPUSA events director.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9724",
+        "C-9725",
+        "C-9726",
+        "C-9727"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11234",
+      "ref": "N-11234",
+      "name": "Rob McCoy Christian Academy Ownership and Teacher Lawsuit",
+      "type": "topic",
+      "description": "Persistent target: the school Mikey McCoy attended, Rob McCoy's role running it, the 2009 Calvary Chapel purchase and the teacher firing lawsuit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9752",
+        "C-9753",
+        "C-9754",
+        "C-9755"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11235",
+      "ref": "N-11235",
+      "name": "Female Jewish Donor Confrontation of Kirk After Tucker Speech",
+      "type": "topic",
+      "description": "Persistent target: the host's unnamed female donor who allegedly yelled at Charlie Kirk after Tucker Carlson's July speech.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9710"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1162,7 +2171,1669 @@
         "N-14",
         "N-55"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9698",
+      "ref": "C-9698",
+      "label": "Host Says Shapiro Did Not Recant or Correct His Claim After the Tour Appearance",
+      "claim": "The host says Ben Shapiro never recanted, modified or corrected his claim that she accused Erika Kirk of murder in the days after the Megyn Kelly tour appearance, which she calls a premeditated and postmeditated lie meant to pressure Kelly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10237"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:51",
+      "investigative_direction": "Review Shapiro's posts, shows and statements from the days after the tour stop for any correction or retraction.",
+      "transcript_snippet": "because in the days following it, he didn't recant. He did not modify. He did not correct.",
+      "supports_claim_refs": [
+        "C-1667"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-46",
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9699",
+      "ref": "C-9699",
+      "label": "Host Says Kelly Asked Shapiro on Stage If He Was Sure and He Said Yes",
+      "claim": "The host says that on stage Megyn Kelly asked Ben Shapiro whether he was sure Candace Owens had said it, and he answered yes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10237"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:04",
+      "investigative_direction": "Obtain the full tour recording of the Shapiro stop to confirm the exchange and wording.",
+      "transcript_snippet": "Asked again like, \"Are you sure she said that?\" And he says, \"Yes.\" Yes, she said that.",
+      "supports_claim_refs": [
+        "C-1667"
+      ],
+      "mentions_person_refs": [
+        "N-46",
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9700",
+      "ref": "C-9700",
+      "label": "Megyn Kelly Says She Had Not Heard Shapiro's Claim and Was Taken Aback",
+      "claim": "Megyn Kelly says that when Ben Shapiro said Candace Owens claimed Erika Kirk was behind Charlie Kirk's murder she had not heard it and was taken aback because it seems like something she would have heard.",
+      "anchored_artifacts": [
+        "A-1379.1"
+      ],
+      "related_nodes": [
+        "N-10237"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:04",
+      "investigative_direction": "Obtain the full tour Q&A recording to verify Kelly's wording.",
+      "transcript_snippet": "which I had not heard and I was taken back because that seems like something I would have heard.",
+      "supports_claim_refs": [
+        "C-1667"
+      ],
+      "mentions_person_refs": [
+        "N-46",
+        "N-97",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9701",
+      "ref": "C-9701",
+      "label": "Megyn Kelly Says Owens Is Under Pressure to Comment on Erika and Has Not",
+      "claim": "Megyn Kelly says that if one reads Candace Owens's comments she is under pressure to make comments about Erika Kirk, and that so far Kelly has seen that she has not.",
+      "anchored_artifacts": [
+        "A-1379.1"
+      ],
+      "related_nodes": [
+        "N-10237"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:04",
+      "investigative_direction": "Review Owens's public statements about Erika Kirk up to the date of the Kelly Q&A to test Kelly's characterization.",
+      "transcript_snippet": "if you read her comments, she's under pressure to make comments about Erika. And so far, what I've seen, she hasn't.",
+      "supports_claim_refs": [
+        "C-1668"
+      ],
+      "mentions_person_refs": [
+        "N-46",
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9702",
+      "ref": "C-9702",
+      "label": "Rubin Says He and Owens Were Great Friends and She Has Been to His House for Dinner",
+      "claim": "In the Dave Rubin clip played by the host, Rubin says he and Candace Owens were great friends for a long time and that she has been to his house for dinner.",
+      "anchored_artifacts": [
+        "A-1380.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:40",
+      "investigative_direction": "Obtain the full Dave Rubin segment and its date to confirm the wording.",
+      "transcript_snippet": "We were great friends for a long time. She has been to this house for dinner.",
+      "mentions_person_refs": [
+        "N-32",
+        "N-3",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9703",
+      "ref": "C-9703",
+      "label": "Host Confirms She Has Been to Rubin's House for Dinner",
+      "claim": "The host says she can fact check that she has been to Dave Rubin's house for dinner and that she loves chicken parm.",
+      "anchored_artifacts": [
+        "A-1380.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:28",
+      "investigative_direction": "Corroborate with Rubin or third parties who attended; low-stakes and confirmable by either party.",
+      "transcript_snippet": "I can fact check true. I have been to his house for dinner and I do really love Chicken Farm and I had a good one at his house.",
+      "supports_claim_refs": [
+        "C-9702"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-32"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9704",
+      "ref": "C-9704",
+      "label": "Host Says Kelly Invited Shapiro to Her Tour for a Conversation About Values, Not a Debate",
+      "claim": "The host says Megyn Kelly did not invite Ben Shapiro to a debate but invited him to her tour to have a conversation about their values in front of her audience.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:28",
+      "investigative_direction": "Ask Kelly's team for the invitation terms for the Shapiro appearance.",
+      "transcript_snippet": "She did not invite him to have a debate. She invited him to come on her tour and to introduce, you know, to to have him in front of her audience",
+      "mentions_person_refs": [
+        "N-46",
+        "N-97",
+        "N-32"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9705",
+      "ref": "C-9705",
+      "label": "Host Says Kirk Felt Peer Pressure in the Weeks Before His Death and Zionists Called It a Lie",
+      "claim": "The host says that after Charlie Kirk died only she, Tucker Carlson and Megyn Kelly said something was going on, that Kirk felt a lot of peer pressure in the weeks before his death, and that Zionists claimed this was all a lie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10047"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:35",
+      "investigative_direction": "Collect Kirk's own statements, texts and donor communications from July to September 2025 describing the pressure.",
+      "transcript_snippet": "And he was feeling a lot of peer pressure in the weeks leading up to his death. And Zionists were claiming that's all a lie.",
+      "supports_claim_refs": [
+        "C-1162"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-22",
+        "N-46",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9706",
+      "ref": "C-9706",
+      "label": "Tucker Says Kirk Told Him to Go All the Way After Tucker Said He Would Not Speak on Israel Because of Donors",
+      "claim": "In the clip, Tucker Carlson says he told Charlie Kirk backstage in July that he would not discuss Israeli intelligence and Epstein so as not to anger Kirk's donors, and that Kirk looked at him and said \"Go all the way. Do it. Go all the way.\"",
+      "anchored_artifacts": [
+        "A-1381.1"
+      ],
+      "related_nodes": [
+        "N-11080",
+        "N-10047"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:38",
+      "investigative_direction": "Obtain Tucker's full unedited remarks and any witness or recording from backstage at the July Student Action Summit.",
+      "transcript_snippet": "I'll never forget it, and said, \"Go all the way. Do it. Go all the way.\"",
+      "supports_claim_refs": [
+        "C-1669"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-1",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9707",
+      "ref": "C-9707",
+      "label": "Tucker Says Epstein Had Contact With Israeli, American and French Intelligence",
+      "claim": "In the clip, Tucker Carlson says Jeffrey Epstein clearly had contact with Israeli, American and French intelligence, and that Israeli intelligence is the only one you are not allowed to talk about; he says Epstein is probably not a Mossad agent.",
+      "anchored_artifacts": [
+        "A-1381.1"
+      ],
+      "related_nodes": [
+        "N-10023",
+        "N-10015"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:38",
+      "investigative_direction": "Ask Carlson for the sources of his Epstein work; compare with released Epstein records.",
+      "transcript_snippet": "Epstein clearly had contact with Israeli intelligence and American intelligence and French intelligence",
+      "mentions_person_refs": [
+        "N-22",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9708",
+      "ref": "C-9708",
+      "label": "Host Says TPUSA Had Backstage Audio Because Everyone Was Mic'd and Could Have Released It",
+      "claim": "The host says Turning Point USA captured the backstage exchange because people were mic'd, and could easily have released it to back up Tucker Carlson's account but did not.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11080"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:00",
+      "investigative_direction": "Request TPUSA's July 2025 Student Action Summit audio and video archive and ask whether it holds the backstage exchange.",
+      "transcript_snippet": "Turning Point captured that and they could have easily released it to give me a little bit of backup",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9709",
+      "ref": "C-9709",
+      "label": "Megyn Kelly Says the Go Max Tape Backs Up What Tucker Said",
+      "claim": "Megyn Kelly says the quick Go Max exchange happens to be on tape and backs up what Tucker Carlson said about Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-1382.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:50",
+      "investigative_direction": "Preserve the original video with metadata and compare it with Carlson's account of the exchange.",
+      "transcript_snippet": "It's quick. It's just happens to be on tape and it backs up what Tucker said.",
+      "supports_claim_refs": [
+        "C-1670"
+      ],
+      "mentions_person_refs": [
+        "N-46",
+        "N-22",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9710",
+      "ref": "C-9710",
+      "label": "Host Says a Female Jewish Donor Yelled at Kirk After Tucker's Speech and She Will Out Her Later",
+      "claim": "The host says a female Jewish donor was waiting for Charlie Kirk after Tucker Carlson got off stage and yelled at Kirk, and that the host will be outing her later.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11235",
+        "N-10047",
+        "N-11080"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:50",
+      "investigative_direction": "Identify the donor and any witnesses from the host's source; the host has not named her.",
+      "transcript_snippet": "which donor was waiting for him once Tucker got off stage and yelled at Charlie. That was a female uh Jewish donor.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9711",
+      "ref": "C-9711",
+      "label": "Taylor Lorenz Tweeted That Owens Seemed Genuinely Devastated to Have Lost Kirk",
+      "claim": "The host reads a tweet from Taylor Lorenz, whom she calls a hardcore lefty, saying it was wild that Candace Owens was the only right-wing figure posting as if genuinely devastated to have lost Charlie as a friend.",
+      "anchored_artifacts": [
+        "A-3029.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:26",
+      "investigative_direction": "Locate the original Taylor Lorenz post and its date.",
+      "transcript_snippet": "It's wild that Candace is the only right-wing ring figure that I've seen posting in a way where she seems genuinely devastated to have lost Charlie as a friend.",
+      "mentions_person_refs": [
+        "N-121",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9712",
+      "ref": "C-9712",
+      "label": "Host Says TPUSA Is Trying to Make Criticism Off Limits Because Erika Kirk Is CEO",
+      "claim": "The host says Turning Point USA is trying to make its lies off limits to criticism now that Erika Kirk is CEO.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:56",
+      "investigative_direction": "Collect TPUSA or ally statements asking that the organization not be scrutinized.",
+      "transcript_snippet": "This is what they're trying to struggle session us into because Erika Kirk is now the CEO. So they're off limits.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9713",
+      "ref": "C-9713",
+      "label": "Host Lists as a Lie That Mikey McCoy Called His Dad First, Attributed to Rob McCoy",
+      "claim": "The host says it is a lie that Mikey McCoy called his dad first and that Pastor Rob McCoy told that lie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10193",
+        "N-10198"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:32",
+      "investigative_direction": "Compare Rob McCoy's account with Mikey McCoy's phone call log for September 10, 2025.",
+      "transcript_snippet": "Lie number five, the magnificent Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9714",
+      "ref": "C-9714",
+      "label": "Host Says Terrell Was Not Told by Police to Remove Cameras and Blames Bowyer",
+      "claim": "The host says it is not true that Terrell, the AV staffer, was told by police to remove the cameras, says she has every second of his movements, and names Tyler Bowyer as the offender.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10346",
+        "N-10100"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:32",
+      "investigative_direction": "Obtain police body-camera or CAD records showing whether any officer gave a camera or SD card instruction.",
+      "transcript_snippet": "Terrell, the AV guy, uh, was told to remove the cameras by police. That's not true. I have every second of his moves.",
+      "contradicts_claim_refs": [
+        "C-1366"
+      ],
+      "mentions_person_refs": [
+        "N-267",
+        "N-11",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9715",
+      "ref": "C-9715",
+      "label": "Host Rebuts Kolvet's Account That Terrell Moved SD Cards Because People Were Stealing Hats",
+      "claim": "The host says Andrew Kolvet's explanation that Terrell moved the SD cards because people were stealing hats does not make sense, because expensive cameras rather than cheap SD cards would be the theft target.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10100",
+        "N-10162"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:32",
+      "investigative_direction": "Obtain the original Kolvet statement and any report of hat or equipment theft at the event.",
+      "transcript_snippet": "Terrell moved the SD cards because people were stealing hats. Andrew Kovette, what if you were scared about people stealing?",
+      "contradicts_claim_refs": [
+        "C-1369"
+      ],
+      "mentions_person_refs": [
+        "N-267",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9716",
+      "ref": "C-9716",
+      "label": "Host Says Alex Clark Falsely Said Shapiro and Kirk Never Had Bad Blood",
+      "claim": "The host says it is a lie that Ben Shapiro and Charlie Kirk never had any bad blood between them, that the offender was Alex Clark, and that Shapiro appeared on her show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11064"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:32",
+      "investigative_direction": "Review the Alex Clark episode featuring Shapiro and documented Shapiro-Kirk disagreements.",
+      "transcript_snippet": "Ben Shapiro and Charlie Kirk never had any bad blood between them. The offender there was Alex Clark.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-1",
+        "N-99"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9717",
+      "ref": "C-9717",
+      "label": "Host Says the Claim That Kirk Established DOGE and TPUSA Audits Yearly Is a Lie",
+      "claim": "The host says it is a lie that Charlie Kirk established DOGE as an ordinary audit function and that Turning Point financially audits itself every year, saying DOGE was entirely different from a financial audit that a 501(c)(3) of that size is recommended or in some states required to have.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132",
+        "N-10434",
+        "N-11171"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:32",
+      "investigative_direction": "Obtain TPUSA audited financial statements and Form 990s for 2012 to 2024 and any internal DOGE memos.",
+      "transcript_snippet": "Charlie established Doge and that wasn't unusual. Turning Point financially audits the company every year since its inception. Lie.",
+      "supports_claim_refs": [
+        "C-6498"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9718",
+      "ref": "C-9718",
+      "label": "Host Says Mikey McCoy Made Quick Phone Calls That Did Not Include 911",
+      "claim": "The host says Mikey McCoy's actions were limited to quick phone calls that, in her telling, did not include 911, and she therefore lists calling him a hero as a lie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10193",
+        "N-10198"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:32",
+      "investigative_direction": "Obtain Mikey McCoy's call log and the 911 call records for September 10, 2025.",
+      "transcript_snippet": "to be a hero, you can't just make quick phone calls. I don't know. I I mean, and not include 911 in that list.",
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9719",
+      "ref": "C-9719",
+      "label": "Host Says She Toured With Kirk Every Semester Until June 2024",
+      "claim": "The host says she was on tour with Turning Point USA every single semester up until June 2024 and that critics such as Allie Beth Stuckey tried to debunk her account of how campus events come together.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:00",
+      "investigative_direction": "Check TPUSA tour schedules and past event listings for the host's appearances through June 2024.",
+      "transcript_snippet": "I was on tour every single semester, okay, up until June of 2024",
+      "mentions_person_refs": [
+        "N-3",
+        "N-232",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9720",
+      "ref": "C-9720",
+      "label": "Host Says Late July 18 Request Is Unusual Because TPUSA Events Are Usually Booked Out Entire Semesters",
+      "claim": "The host says a July 18 request for Charlie Kirk to speak is very late and that TPUSA events are usually backed up entire semesters.",
+      "anchored_artifacts": [
+        "A-1387.1"
+      ],
+      "related_nodes": [
+        "N-10243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:14",
+      "investigative_direction": "Compare lead times of past TPUSA campus events using ticketing and promotion dates.",
+      "transcript_snippet": "That is very late in the day for a request. They're usually backed up entire semesters.",
+      "supports_claim_refs": [
+        "C-1675"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9721",
+      "ref": "C-9721",
+      "label": "Host Says TPUSA HQ Approved the UVU Event and Sent Scouts Within Two Weeks",
+      "claim": "The host says Turning Point USA headquarters approved the UVU event quickly and had people on campus scouting a location in early August, within two weeks of the request.",
+      "anchored_artifacts": [
+        "A-1387.1"
+      ],
+      "related_nodes": [
+        "N-10243",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:14",
+      "investigative_direction": "Obtain TPUSA travel and expense records and UVU campus-visit logs for early August 2025.",
+      "transcript_snippet": "Within two weeks, they had boots on the ground and they were scouting for a location.",
+      "supports_claim_refs": [
+        "C-1675"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9722",
+      "ref": "C-9722",
+      "label": "Host Says UVU Showed TPUSA Multiple Indoor and Outdoor Options Before Advising Against the Amphitheater",
+      "claim": "The host says UVU showed Turning Point multiple options both inside and outside and then recommended against holding the event in the amphitheater, citing that it could not control traffic flow.",
+      "anchored_artifacts": [
+        "A-1387.1"
+      ],
+      "related_nodes": [
+        "N-10243",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:14",
+      "investigative_direction": "Obtain UVU event-services emails and site-visit notes listing the venues offered.",
+      "transcript_snippet": "after UVU showed them multiple options inside and outside, UVU recommended to Turning Point that they not hold the event in the amphitheater",
+      "supports_claim_refs": [
+        "C-1676"
+      ],
+      "mentions_person_refs": [
+        "N-10012"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9723",
+      "ref": "C-9723",
+      "label": "Host Asks for Tips Identifying the TPUSA Employees Who Picked the Outdoor Venue",
+      "claim": "The host says she wants to know which specific Turning Point employees picked the outdoor venue and asks viewers who know to email more tips at candacewowens.com.",
+      "anchored_artifacts": [
+        "A-3027.1"
+      ],
+      "related_nodes": [
+        "N-10243",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:57",
+      "investigative_direction": "Receive tips and identify the TPUSA events staff who scouted UVU in August 2025.",
+      "transcript_snippet": "please send us an email to more tips at candacewowens. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9724",
+      "ref": "C-9724",
+      "label": "Host Says Mikey McCoy's Wife Is One of TPUSA's Events Directors",
+      "claim": "The host says she knows Mikey McCoy's wife is one of Turning Point USA's events directors, while saying she does not know whether she was involved in planning the UVU event.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11233",
+        "N-10000",
+        "N-10243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:57",
+      "investigative_direction": "Check TPUSA staff listings and obtain the events department org chart for 2025.",
+      "transcript_snippet": "I know, by the way, that Mikey McCoy's wife is one of the events directors.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9725",
+      "ref": "C-9725",
+      "label": "Host Relays a Tip That Locals Who Knew Rob McCoy Had Never Heard of a Mikey McCoy",
+      "claim": "The host says she received a tip from someone who knew Pastor Rob McCoy in Thousand Oaks that some locals had never heard of his son Mikey McCoy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11233"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:40",
+      "investigative_direction": "Interview Thousand Oaks church members and check school and church records for Rob McCoy's children.",
+      "transcript_snippet": "some of us have been speaking and we had never heard of a Mikey McCoy, like his son Mikey McCoy.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9726",
+      "ref": "C-9726",
+      "label": "Host Says a TPUSA Insider Told Her Mikey Is Not Mikey McCoy's First Name",
+      "claim": "The host says someone inside Turning Point told her that Mikey, or Michael, is not Mikey McCoy's first name but a middle name, and that she wants to know his real name.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11233"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:40",
+      "investigative_direction": "Check birth, school and licensing records for the legal name of Rob McCoy's son.",
+      "transcript_snippet": "somebody on the inside of Turning Point told me that Mikey or or Michael rather uh is not his first name. It's a middle name",
+      "mentions_person_refs": [
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9727",
+      "ref": "C-9727",
+      "label": "Host Asks for Emails Revealing Mikey McCoy's Real Name",
+      "claim": "The host asks viewers who know Mikey McCoy's real name to email more tips at candacewowens.com.",
+      "anchored_artifacts": [
+        "A-3027.2"
+      ],
+      "related_nodes": [
+        "N-11233"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:40",
+      "investigative_direction": "Receive tips on Mikey McCoy's legal name.",
+      "transcript_snippet": "So, if you have that information, please email more tips@canniswowens. com.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9728",
+      "ref": "C-9728",
+      "label": "Host Says She Has Investigated Dylan and Austin Erickson for Two Months",
+      "claim": "The host addresses Dylan Erickson and Austin Erickson, whom she calls the brothers who work at TPUSA, and says she knows what they have said about her and has been investigating them for two months.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:40",
+      "investigative_direction": "Verify employment status of both brothers with TPUSA and review the host's file.",
+      "transcript_snippet": "I have known every word that you have said about me, okay? And I have been investigating you guys for two months straight.",
+      "mentions_person_refs": [
+        "N-20",
+        "N-866",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9729",
+      "ref": "C-9729",
+      "label": "Host Says the Ericksons Brought In a Major Sponsor and Demands Got Interesting",
+      "claim": "The host says the Erickson brothers were involved in bringing on a major sponsor behind Charlie Kirk (transcribed as Rei) and that demands got interesting once the sponsor was on board.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10870",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:35",
+      "investigative_direction": "Obtain the sponsorship contracts and identify who introduced the sponsor; transcript spelling 'Rei' is possibly Why Refi.",
+      "transcript_snippet": "your involvement with bringing that sponsor on. Things got a little different once they were brought on. Demands got interesting.",
+      "mentions_person_refs": [
+        "N-20",
+        "N-866",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9730",
+      "ref": "C-9730",
+      "label": "Host Alleges the Ericksons Helped Create an Alibi Lie About the Hamptons Retreat",
+      "claim": "The host alleges Dylan and Austin Erickson were involved in creating an alibi lie about the Hamptons retreat with Seth Dillon and says they lied.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10027",
+        "N-10345"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:35",
+      "investigative_direction": "Compare the Ericksons' public statements about the Hamptons retreat with calendars, flight and attendee records.",
+      "transcript_snippet": "the lie, the alibi lie for the Hampton's retreat with Seth Dylan. Um, you lied.",
+      "supports_claim_refs": [
+        "C-1173"
+      ],
+      "mentions_person_refs": [
+        "N-20",
+        "N-866",
+        "N-38",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9731",
+      "ref": "C-9731",
+      "label": "Host Says Seth Dillon Pressed Kirk and Kirk Called the Hamptons Event an Intervention",
+      "claim": "The host says Seth Dillon did press Charlie Kirk and that Kirk himself described the Hamptons event as an intervention.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10027",
+        "N-10345"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:35",
+      "investigative_direction": "Locate Kirk's own description of the Hamptons event as an intervention and witnesses who heard it.",
+      "transcript_snippet": "Seth Dylan did press Charlie. Charlie himself described the Hampton's um event as an intervention",
+      "supports_claim_refs": [
+        "C-1128"
+      ],
+      "mentions_person_refs": [
+        "N-38",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9732",
+      "ref": "C-9732",
+      "label": "Host Says Many TPUSA Employees Are Leaking to Different People",
+      "claim": "The host says she knows a lot of Turning Point employees are leaking to different people.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11084"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:35",
+      "investigative_direction": "Not independently testable beyond the host's sources; look for corroborating reporting by other outlets.",
+      "transcript_snippet": "I know a lot of you guys are leaking to different people.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9733",
+      "ref": "C-9733",
+      "label": "Host Says Tech People Found TPUSA May Use Software to Make Each Staffer's Email Wording Unique",
+      "claim": "The host says tech people alerted her that Turning Point USA appears to have implemented software that makes each employee's copy of an email differ by one word so that a leaked image of the email identifies the source, and she advises leaking content but not the actual email.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11232",
+        "N-10000",
+        "N-11084"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:35",
+      "investigative_direction": "Have a technical expert compare leaked TPUSA emails for per-recipient wording differences.",
+      "transcript_snippet": "it looks like TurningPoint has implemented a software to track your email verbiage. Essentially, they can make it so like everybody's email, one word is different.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9734",
+      "ref": "C-9734",
+      "label": "Host Repeats the Tip Address Moretips at Candaceowens",
+      "claim": "The host repeats her tip address, more tips at candacewowens.com, before moving to follow-up items.",
+      "anchored_artifacts": [
+        "A-3027.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:16",
+      "investigative_direction": "Receive tips sent to the address.",
+      "transcript_snippet": "More tips at candacewowens. com. Beyond that, I would like to follow up with you guys on something.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9735",
+      "ref": "C-9735",
+      "label": "Host Says Timpanogos Hospital Is Owned by HCA and Utah Valley Hospital by IHC on the Epic System",
+      "claim": "The host says Timpanogos Hospital is owned by HCA and uses a charting system she transcribes as VDI, while Utah Valley Hospital is owned by IHC and runs on Epic.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10770",
+        "N-10196"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:22",
+      "investigative_direction": "Confirm ownership and electronic health record systems of both hospitals from public records; the transcribed 'VDI' needs checking.",
+      "transcript_snippet": "Utah Valley Hospital is owned by IHC and they run on a system called Epic",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9736",
+      "ref": "C-9736",
+      "label": "Host Says the Two Hospitals Do Not Share Patient Information",
+      "claim": "The host says the Timpanogos and Utah Valley hospitals are not interlinked, so a patient who has only been to Utah Valley would not appear in Timpanogos's system, and that she can now confirm they do not share information.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10770",
+        "N-10196"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:21",
+      "investigative_direction": "Ask both hospital systems or a health-records expert whether any records exchange existed in September 2025.",
+      "transcript_snippet": "These two hospitals do not speak to each other.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9737",
+      "ref": "C-9737",
+      "label": "Host Says Kirk's Utah Valley File and the Order Not to Touch It Remain Unexplained",
+      "claim": "The host says she cannot explain why Charlie Kirk had a file at Utah Valley Hospital and why nurses were notified not to touch the file.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10770",
+        "N-10196"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:21",
+      "investigative_direction": "Obtain the Utah Valley Hospital access-audit log for the file and the nurse notification.",
+      "transcript_snippet": "We don't know why this anomaly occurred where Charlie Kirk had a file and when nurses were notified not to touch the file.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9738",
+      "ref": "C-9738",
+      "label": "Host Says Students Reported an Old Man Talking to a Bush at the Event",
+      "claim": "The host says an early tip from students on the ground described an old man talking to a bush at the event, and she noted that many of the older attendees were the ones speaking to news media.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10244"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:21",
+      "investigative_direction": "Interview the students and review set-up footage for the bush area.",
+      "transcript_snippet": "some students on the ground described witnessing an old man talking to a bush",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9739",
+      "ref": "C-9739",
+      "label": "Host Says the Video Cannot Show the Man Speaking to the Bush but Shows Him Alone Near It",
+      "claim": "The host says the video her source supplied cannot definitively show that the man was speaking to the bush, but it does confirm that he was near the bush and alone.",
+      "anchored_artifacts": [
+        "A-1384.1"
+      ],
+      "related_nodes": [
+        "N-10244"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:02",
+      "investigative_direction": "Obtain the original video file with metadata and the source's account of when and where it was filmed.",
+      "transcript_snippet": "We absolutely cannot definitively confirm from this video that he is speaking to a bush, but we can at the at very least confirm that he's near the bush and he's alone.",
+      "supports_claim_refs": [
+        "C-1672"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9740",
+      "ref": "C-9740",
+      "label": "Host Says Butch Hibbs Is Involved in a Calvary Chapel Church in Utah",
+      "claim": "The host says Pastor Jack Hibbs leads a Calvary Chapel in California and that his brother Butch Hibbs is involved in a Calvary Chapel church in Utah.",
+      "anchored_artifacts": [
+        "A-1383.1"
+      ],
+      "related_nodes": [
+        "N-10248"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:57",
+      "investigative_direction": "Identify Butch Hibbs's church and role from Calvary Chapel directories.",
+      "transcript_snippet": "Butch Hibbs is also his brother who's involved in a Calvary Chapel church in Utah.",
+      "supports_claim_refs": [
+        "C-1673"
+      ],
+      "mentions_person_refs": [
+        "N-212",
+        "N-251"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9741",
+      "ref": "C-9741",
+      "label": "Host Says Butch Hibbs Was Behind Kirk as He Got Out of the Car With Mikey McCoy",
+      "claim": "The host says Butch Hibbs is behind Charlie Kirk when Kirk gets out of his car and arrives at the event with Mikey McCoy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10817",
+        "N-10244"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:57",
+      "investigative_direction": "Review arrival footage at the UVU drop-off area to confirm who was beside and behind Kirk.",
+      "transcript_snippet": "he's behind Charlie when he gets out of the car. Like Charlie comes out of his car, arrives for the event. He's with the amazing Mikey McCoy.",
+      "mentions_person_refs": [
+        "N-251",
+        "N-1",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9742",
+      "ref": "C-9742",
+      "label": "Frank Turek Says After Arriving They Prayed and Got Out of the Car to a Group of TPUSA Leaders Posing for Pictures",
+      "claim": "In the clip, Frank Turek says that on arrival they prayed, got out of the car, a group of TPUSA leaders wanted to pose for pictures, and Kirk graciously posed, including with Turek and Butch Hibbs.",
+      "anchored_artifacts": [
+        "A-1383.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:32:57",
+      "investigative_direction": "Obtain Turek's full interview and arrival photos with metadata to establish the sequence.",
+      "transcript_snippet": "So we get there, we pray, we get out of the car, there's a whole bunch of TPUSA leaders there that want to pose for pictures.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-1",
+        "N-251"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9743",
+      "ref": "C-9743",
+      "label": "Host Says the Hibbs Family Is a Military Family and Butch Hibbs Senior Served in the Navy",
+      "claim": "The host says the Hibbs family is a military family and that Butch Hibbs senior was in the Navy, though what he did there is unclear to her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10436"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:09",
+      "investigative_direction": "Search military service records for any Hibbs family members.",
+      "transcript_snippet": "Hibs are from a military family. Okay. Uh Butch senior was in the Navy.",
+      "mentions_person_refs": [
+        "N-251",
+        "N-212"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9744",
+      "ref": "C-9744",
+      "label": "Host Says Marissa Streit Flagged Jack Hibbs as a Guest She Wanted on the Host's Show",
+      "claim": "The host says Jack Hibbs was someone Marissa Streit flagged for her as a guest she wanted the host to have on her show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10131"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:09",
+      "investigative_direction": "Ask the host for the original communication from PragerU about Hibbs.",
+      "transcript_snippet": "Jack Hibbs was somebody that Marissa Flag for me that she wanted me to have on my show",
+      "mentions_person_refs": [
+        "N-212",
+        "N-118",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9745",
+      "ref": "C-9745",
+      "label": "Host Says Marissa Streit Introduced Her to Tim Ballard of Operation Underground",
+      "claim": "The host says the man who runs, or ran, Operation Underground before a scandal, Tim Ballard, was also introduced to her by Marissa Streit, and describes the organization as a sex trafficking charity.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11167",
+        "N-10131"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:00",
+      "investigative_direction": "Confirm the introduction timeline between PragerU, Streit and Ballard from the host's records.",
+      "transcript_snippet": "also was introduced to me by Visha Stray.",
+      "mentions_person_refs": [
+        "N-332",
+        "N-118",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9746",
+      "ref": "C-9746",
+      "label": "Host Says Kash Patel Left His Wife and Has Been With Wilkins About a Year and a Half",
+      "claim": "The host says Kash Patel left his wife and has been with Alexis Wilkins for about a year and a half.",
+      "anchored_artifacts": [
+        "A-1386.1"
+      ],
+      "related_nodes": [
+        "N-10245"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:39",
+      "investigative_direction": "Check public reporting on Patel's marital status and the start of the relationship.",
+      "transcript_snippet": "Like you left your wife, you've been with this girl for like a year and a half.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-216"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9747",
+      "ref": "C-9747",
+      "label": "Lawsuit Says Since February 2025 Online Corners Have Spread a False Narrative That Wilkins Is a Mossad Agent",
+      "claim": "As read by the host, the Wilkins complaint says that since Kash Patel became FBI director in February 2025 the conspiratorial corners of the internet have been spreading a false narrative that Alexis Wilkins is an Israeli Mossad agent, a spy or a honeypot.",
+      "anchored_artifacts": [
+        "A-1385.1"
+      ],
+      "related_nodes": [
+        "N-10245",
+        "N-10015"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:38",
+      "investigative_direction": "Obtain the filed complaint and verify the quoted paragraph and filing date.",
+      "transcript_snippet": "Ever since Kash Patel was appointed as director of the FBI in February of 2025, the conspiratorial corners of the internet and social media have been spreading a false narrative that Ms. Wilkins is an Israeli MSAD agent",
+      "supports_claim_refs": [
+        "C-1677"
+      ],
+      "mentions_person_refs": [
+        "N-216",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9748",
+      "ref": "C-9748",
+      "label": "Host Says Some Defendants Did Not Explicitly Call Wilkins a Honeypot and Only Posted a Picture",
+      "claim": "The host says that in some circumstances the defendants did not explicitly call Alexis Wilkins a honeypot and only posted a picture, as in the case of Elijah Schaefer.",
+      "anchored_artifacts": [
+        "A-1385.3"
+      ],
+      "related_nodes": [
+        "N-10245"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:38",
+      "investigative_direction": "Compare each defendant's alleged conduct in the complaint with the original posts.",
+      "transcript_snippet": "they didn't even explicitly call her a honeypot. They just posted a picture.",
+      "supports_claim_refs": [
+        "C-1679"
+      ],
+      "mentions_person_refs": [
+        "N-252",
+        "N-216"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9749",
+      "ref": "C-9749",
+      "label": "Host Says the Lawsuit Was Filed With Kash Patel's Knowledge and Blessing",
+      "claim": "The host says that because Alexis Wilkins filed the lawsuit she did so with the blessing of her life partner Kash Patel, who knew it was happening and did not stop her.",
+      "anchored_artifacts": [
+        "A-1385.1"
+      ],
+      "related_nodes": [
+        "N-10245"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:38",
+      "investigative_direction": "Seek any Patel statement on whether he knew of or approved the filing; the host offers this as an inference.",
+      "transcript_snippet": "means that she did this with the blessing of her quote unquote life partner, Kash Patel. He knew this was happening.",
+      "mentions_person_refs": [
+        "N-216",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9750",
+      "ref": "C-9750",
+      "label": "Host Says She Has Never Claimed Wilkins Is a Honeypot and Knows of No Evidence",
+      "claim": "The host says Alexis Wilkins might not be a honeypot, that the host has never made that claim, and that there is no evidence of it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10245"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:30",
+      "investigative_direction": "Review the host's earlier remarks about Wilkins for any statement that conflicts with this disclaimer.",
+      "transcript_snippet": "I don't know. I've never made that claim.",
+      "mentions_person_refs": [
+        "N-216",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9751",
+      "ref": "C-9751",
+      "label": "Host Says the Only Basis People Cite Is Wilkins Working for Marissa Streit at PragerU, Formerly of IDF Intelligence",
+      "claim": "The host says the only support for the honeypot idea is people saying Alexis Wilkins works for Marissa Streit at PragerU, who the host says is formerly of an IDF intelligence unit; the pronoun reference in the transcript is ambiguous.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10131",
+        "N-10245"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:30",
+      "investigative_direction": "Check Wilkins's employment history and Streit's biography for any PragerU role or IDF service.",
+      "transcript_snippet": "people saying she works for Marissa Strait Prageru who uh you know she's formerly of the IDF intelligence unit.",
+      "mentions_person_refs": [
+        "N-216",
+        "N-118"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9752",
+      "ref": "C-9752",
+      "label": "Host Confirms a Live-Chat Viewer That Mikey McCoy Went to Oaks Christian in Thousand Oaks",
+      "claim": "The host reads a live-chat comment saying Mikey McCoy went to Oaks Christian in Thousand Oaks and says that is correct.",
+      "anchored_artifacts": [
+        "A-3028.1"
+      ],
+      "related_nodes": [
+        "N-11234"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:55",
+      "investigative_direction": "Verify through Oaks Christian alumni listings or yearbooks.",
+      "transcript_snippet": "It looks like Mikey McCoy went to Oaks Christian in Thousand Oaks.",
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9753",
+      "ref": "C-9753",
+      "label": "Host Says Rob McCoy Ran the School, Little Oaks",
+      "claim": "The host says Rob McCoy ran the school the commenter mentioned, which she calls Little Oaks and a boarding school.",
+      "anchored_artifacts": [
+        "A-3028.1"
+      ],
+      "related_nodes": [
+        "N-11234"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:55",
+      "investigative_direction": "Check school leadership records for Rob McCoy and the school's actual name and type.",
+      "transcript_snippet": "Rob McCoy ran that school. He ran Little Oaks. It's like a boarding school.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9754",
+      "ref": "C-9754",
+      "label": "Host Says Calvary Chapel Bought the Christian Academy in 2009",
+      "claim": "The host says Calvary Chapel outright purchased the Christian Academy in 2009, which she believes was the year, based on an article.",
+      "anchored_artifacts": [
+        "A-1388.1"
+      ],
+      "related_nodes": [
+        "N-11234",
+        "N-10248"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:59",
+      "investigative_direction": "Locate the news article and county or corporate records of the purchase.",
+      "transcript_snippet": "Outright purchased uh the Christian Academy in 2009, I believe it was.",
+      "mentions_person_refs": [
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9755",
+      "ref": "C-9755",
+      "label": "Host Says Teachers Sued Rob McCoy Over Firings and He Filed in Federal Court Claiming They Were Not Christian Enough",
+      "claim": "The host says teachers sued Rob McCoy because he fired them, that McCoy sued back saying he fired them for not being Christian enough or attending church, that he filed in federal court and that the lawsuit did not go through; she does not know who won.",
+      "anchored_artifacts": [
+        "A-1388.1"
+      ],
+      "related_nodes": [
+        "N-11234"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:59",
+      "investigative_direction": "Search federal docket records for the teachers' case against the Christian Academy of Thousand Oaks and its outcome.",
+      "transcript_snippet": "the teachers were suing Rob because he fired them and then Rob was suing them saying, \"Well, I fired you because you weren't Christian enough and you didn't come to church on Sundays.\"",
+      "mentions_person_refs": [
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9756",
+      "ref": "C-9756",
+      "label": "Host Says Turning Point Is Gaslighting by Treating Its Behavior as Normal",
+      "claim": "The host says Turning Point USA figures are gaslighting by pretending their behavior is normal and using emotional manipulation, and refers to Rob McCoy and Mikey McCoy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:30",
+      "investigative_direction": "Opinion framing; no direct test, retained for context.",
+      "transcript_snippet": "And they're just trying to gaslight us to pretend like their behavior is normal.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9757",
+      "ref": "C-9757",
+      "label": "Host Says Leaks Come From TPUSA Insiders and She Holds a File on What the Ericson Brothers Do and Say",
+      "claim": "The host says all the leaks come from people at Turning Point USA who loved Charlie Kirk and hate the corruption, and that they have told her what the Ericson brothers are doing, saying and texting, which she keeps in a file.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11084"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:44",
+      "investigative_direction": "Not independently testable beyond the host's file; seek corroboration from other former TPUSA staff.",
+      "transcript_snippet": "who have intimately let me know the things that the Ericson brothers are doing and saying and texting, and I I just have a file of all of it because of people at Turning Point USA",
+      "mentions_person_refs": [
+        "N-20",
+        "N-866",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9758",
+      "ref": "C-9758",
+      "label": "Host Says Kanye's Tweet Said Death Con 3 but He Meant Defcon 3",
+      "claim": "The host says Kanye West wrote 'death' in the tweet but meant Defcon 3, a defensive position, and recites the tweet text 'I'm going death con 3 on some Jewish people'.",
+      "anchored_artifacts": [
+        "A-1389.1"
+      ],
+      "related_nodes": [
+        "N-10004"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:13",
+      "investigative_direction": "Retrieve the original tweet and Kanye's follow-up explanations to settle the exact wording.",
+      "transcript_snippet": "he wrote death. He meant defcon 3 because it's a defensive position.",
+      "qualifies_claim_refs": [
+        "C-1681"
+      ],
+      "mentions_person_refs": [
+        "N-27",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9759",
+      "ref": "C-9759",
+      "label": "Host Says Kanye Was Talking About Zionists in Hollywood Who Tried to Compel Him",
+      "claim": "The host says she thinks Kanye West was talking about some Zionists in Hollywood and that he was tired of people who happened to be Jewish trying to compel him to say and do certain things, which she says critics twisted into a threat of murder.",
+      "anchored_artifacts": [
+        "A-1389.1"
+      ],
+      "related_nodes": [
+        "N-10004",
+        "N-11121"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:13",
+      "investigative_direction": "Review Kanye's contemporaneous statements about who he was referring to.",
+      "transcript_snippet": "I think he was talking about some Zionists in Hollywood and he did mean to see to say Defcon 3",
+      "mentions_person_refs": [
+        "N-27",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9760",
+      "ref": "C-9760",
+      "label": "Kanye Tweet Says People Tried to Blackball Anyone Who Opposes Their Agenda",
+      "claim": "The read tweet by Kanye West says 'you guys have toyed with me and tried to blackball anyone who ever opposes your agenda'.",
+      "anchored_artifacts": [
+        "A-1389.1"
+      ],
+      "related_nodes": [
+        "N-10004"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:13",
+      "investigative_direction": "Retrieve the archived tweet text.",
+      "transcript_snippet": "you guys have toyed with me and tried to blackball anyone who ever opposes your agenda",
+      "mentions_person_refs": [
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9761",
+      "ref": "C-9761",
+      "label": "Host Says Israel Lacks Manpower and Plays Psychological Games to Get Americans to Fight for It",
+      "claim": "The host says Israel does not have enough soldiers and uses psychological games so that Americans convince their sons to die for it, while getting land and welfare-type benefits.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:14",
+      "investigative_direction": "Assertion about a country and group recorded as said; compare with US-Israel aid and troop-strength figures.",
+      "transcript_snippet": "Yeah, they don't have enough bodies. They need us. So, they play psychological games with us so that we convince our sons to go die for them.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9762",
+      "ref": "C-9762",
+      "label": "Host Says the US Killed About a Million Iraqi Civilians in the Iraq War",
+      "claim": "The host says the Iraq war killed about a million Iraqi civilians.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:05",
+      "investigative_direction": "Compare with published Iraq war civilian death estimates, which vary widely.",
+      "transcript_snippet": "We just killed like a million Iraqi civilians, by the way.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9763",
+      "ref": "C-9763",
+      "label": "Host Says Trump Wants a Gaza Casino and Jared Kushner Is Doing Beachfront Deals",
+      "claim": "The host says Trump needs a casino, Jared is doing deals, and they want beachfront properties in the context of Gaza.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:05",
+      "investigative_direction": "Review reporting on Gaza redevelopment proposals and Kushner's business interests.",
+      "transcript_snippet": "Trump needs a casino, right? Uh Jared's doing deals. They want they want beachfront properties.",
+      "mentions_person_refs": [
+        "N-182",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9764",
+      "ref": "C-9764",
+      "label": "Host Says Passing Speech Laws Is a General Thing Zionists Do to Rewrite History",
+      "claim": "The host says that, looking at the history of speech laws, passing them seems to be a general thing Zionists like to do in order to rewrite history.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:54:04",
+      "investigative_direction": "Sweeping group claim recorded as said; no specific record.",
+      "transcript_snippet": "it does seem like a a general thing that Zionists like to do so that they can rewrite history.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 30,
+          "video_timestamp": "00:12:50",
+          "speaker_node_ref": "N-3",
+          "quote": "Here it is. Go Max. It's quick. It's just happens to be on tape and it backs up what Tucker said.",
+          "context": "Host elevates Charlie Kirk telling Tucker to Go Max into on-air battle cry.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "charlie_quote"
+          ]
+        },
+        {
+          "episode": 30,
+          "video_timestamp": "00:45:59",
+          "speaker_node_ref": "N-3",
+          "quote": "Honestly, that's actually a great idea because we are going Max now.",
+          "context": "Host embraces Go Max merch suggestion from a viewer.",
+          "confidence": "high",
+          "tags": [
+            "go max",
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-50",
+      "ref": "M-50",
+      "canonical_term": "Honeypot",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 30,
+          "video_timestamp": "00:37:38",
+          "speaker_node_ref": "N-3",
+          "quote": "Because she was called a honeypot, an Israeli honeypot.",
+          "context": "Host recounts $5M suit over Israeli-honeypot allegation.",
+          "confidence": "high",
+          "tags": [
+            "intel",
+            "entrapment",
+            "residual"
+          ]
+        },
+        {
+          "episode": 30,
+          "video_timestamp": "00:40:30",
+          "speaker_node_ref": "N-3",
+          "quote": "And she might not be a honeypot.",
+          "context": "Host disclaims having called Alexis Wilkins a honeypot.",
+          "confidence": "high",
+          "tags": [
+            "honeypot",
+            "hedge"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-10",
+      "ref": "M-10",
+      "canonical_term": "Happy Warrior",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 30,
+          "video_timestamp": "00:49:13",
+          "speaker_node_ref": "N-3",
+          "quote": "It puts me in a good mood every day.\" And Charlie always said, \"Be a happy warrior.\" So, I am a happy warrior. Uh, the original Polywog writes, \"Wa...",
+          "context": "Recurring happy-warrior refrain. (CKA seq 30)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 30,
+          "video_timestamp": "00:21:38",
+          "speaker_node_ref": "N-3",
+          "quote": "please send us an email to more tips at candacewowens. com.",
+          "context": "Host asks for tips on which TPUSA staff chose the outdoor UVU venue.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        },
+        {
+          "episode": 30,
+          "video_timestamp": "00:22:40",
+          "speaker_node_ref": "N-3",
+          "quote": "So, if you have that information, please email more tips@canniswowens. com.",
+          "context": "Host asks for Mikey McCoy's real name.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        },
+        {
+          "episode": 30,
+          "video_timestamp": "00:29:16",
+          "speaker_node_ref": "N-3",
+          "quote": "More tips at candacewowens. com.",
+          "context": "Host repeats tip address.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 30,
+          "video_timestamp": "00:35:00",
+          "speaker_node_ref": "N-3",
+          "quote": "did the military execute an operation, a psychological operation on the American people to get us to support Christian Zionism",
+          "context": "Host asks whether new-age pastors are part of a military psychological operation.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "military"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 30,
+          "video_timestamp": "00:46:30",
+          "speaker_node_ref": "N-3",
+          "quote": "And they're just trying to gaslight us to pretend like their behavior is normal.",
+          "context": "Host says TPUSA figures gaslight viewers.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "tpusa"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-252",
+      "ref": "M-252",
+      "canonical_term": "When They Freak Out It's a Clue",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 30,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "Well, I always told you when they freak out, it's a clue.",
+          "context": "Host opens by saying panic over her event-timeline claim is a clue.",
+          "confidence": "high",
+          "tags": [
+            "clue",
+            "alarm"
+          ]
+        },
+        {
+          "episode": 30,
+          "video_timestamp": "00:17:50",
+          "speaker_node_ref": "N-3",
+          "quote": "And when people start panicking in that way, they're just alarms.",
+          "context": "Host says panicking critics are alarms she is getting close.",
+          "confidence": "high",
+          "tags": [
+            "clue",
+            "alarm"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-253",
+      "ref": "M-253",
+      "canonical_term": "I Need to Know and I Will Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 30,
+          "video_timestamp": "00:20:57",
+          "speaker_node_ref": "N-3",
+          "quote": "In fact, I need to know and I will know, right?",
+          "context": "Host on which TPUSA employees picked the outdoor venue.",
+          "confidence": "high",
+          "tags": [
+            "refrain",
+            "investigation"
+          ]
+        },
+        {
+          "episode": 30,
+          "video_timestamp": "00:21:38",
+          "speaker_node_ref": "N-3",
+          "quote": "I need to know and I will know.",
+          "context": "Host on whether Mikey McCoy's wife was involved in planning.",
+          "confidence": "high",
+          "tags": [
+            "refrain",
+            "investigation"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–01:15:43",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "e4286a0b61383af611c043d024b0489af5ef017ef3077d05883a51910942c352",
@@ -490,6 +490,109 @@
           "video_timestamp": "01:14:50",
           "transcript_snippet": "..., if you know someone, somebody get me that green CIA hat cuz it's actually people are tagging me in it, and I don't have it, and it's really nice. Uh other...",
           "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3002",
+      "family_ref": "A-3002",
+      "bundle_name": "Tip Line Email Verbal Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3002.1",
+          "ref": "A-3002.1",
+          "description": "Host verbal reference to the tips@candaceowens.com and more tips@candaceowens.com addresses for UVU footage (spoken request, nothing shown)",
+          "related_claims": [
+            "C-9365"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:44:03",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3003",
+      "family_ref": "A-3003",
+      "bundle_name": "UVU Left-Side Footage Request Graphic Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3003.1",
+          "ref": "A-3003.1",
+          "description": "On-screen graphic or images highlighting the section on Charlie's left side where the host says she lacks footage (described by the host; the graphic itself is not captured in the transcript)",
+          "related_claims": [
+            "C-9364"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:02",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3004",
+      "family_ref": "A-3004",
+      "bundle_name": "Mappin Letter Verbal Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3004.1",
+          "ref": "A-3004.1",
+          "description": "Host verbal reference to a letter written by John and Arena Mappin (transcribed Mapel) the previous day (not shown)",
+          "related_claims": [
+            "C-9389"
+          ],
+          "related_nodes": [
+            "N-157",
+            "N-158"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:07:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3005",
+      "family_ref": "A-3005",
+      "bundle_name": "Viewer Comment Read-Aloud Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3005.1",
+          "ref": "A-3005.1",
+          "description": "Viewer comment from Can Erb read aloud by the host about Charlie wanting her on stage at AmFest",
+          "related_claims": [
+            "C-9394"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:10:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
         }
       ]
     }
@@ -1019,8 +1122,56 @@
       "name": "Charlie Kirk",
       "type": "person",
       "description": "Deceased founder of Turning Point USA; subject of financial concerns expressed one week before his death; subject of the assassination investigation.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-3003.1",
+        "A-3005.1"
+      ],
+      "related_claims": [
+        "C-9324",
+        "C-9325",
+        "C-9326",
+        "C-9328",
+        "C-9329",
+        "C-9330",
+        "C-9336",
+        "C-9339",
+        "C-9340",
+        "C-9341",
+        "C-9346",
+        "C-9347",
+        "C-9348",
+        "C-9349",
+        "C-9350",
+        "C-9351",
+        "C-9352",
+        "C-9353",
+        "C-9354",
+        "C-9355",
+        "C-9356",
+        "C-9357",
+        "C-9358",
+        "C-9360",
+        "C-9361",
+        "C-9363",
+        "C-9364",
+        "C-9366",
+        "C-9369",
+        "C-9370",
+        "C-9373",
+        "C-9375",
+        "C-9378",
+        "C-9379",
+        "C-9381",
+        "C-9382",
+        "C-9384",
+        "C-9385",
+        "C-9387",
+        "C-9388",
+        "C-9389",
+        "C-9392",
+        "C-9394",
+        "C-9398"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1035,8 +1186,69 @@
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-3002.1",
+        "A-3003.1",
+        "A-3005.1"
+      ],
+      "related_claims": [
+        "C-9327",
+        "C-9328",
+        "C-9329",
+        "C-9330",
+        "C-9331",
+        "C-9333",
+        "C-9334",
+        "C-9336",
+        "C-9339",
+        "C-9342",
+        "C-9346",
+        "C-9347",
+        "C-9348",
+        "C-9349",
+        "C-9352",
+        "C-9353",
+        "C-9354",
+        "C-9355",
+        "C-9356",
+        "C-9357",
+        "C-9358",
+        "C-9359",
+        "C-9360",
+        "C-9361",
+        "C-9362",
+        "C-9363",
+        "C-9364",
+        "C-9365",
+        "C-9366",
+        "C-9367",
+        "C-9368",
+        "C-9369",
+        "C-9370",
+        "C-9371",
+        "C-9372",
+        "C-9373",
+        "C-9374",
+        "C-9375",
+        "C-9376",
+        "C-9377",
+        "C-9378",
+        "C-9379",
+        "C-9380",
+        "C-9386",
+        "C-9387",
+        "C-9388",
+        "C-9389",
+        "C-9390",
+        "C-9391",
+        "C-9392",
+        "C-9393",
+        "C-9394",
+        "C-9395",
+        "C-9396",
+        "C-9397",
+        "C-9398"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1068,7 +1280,10 @@
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1421",
+        "C-1424"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1083,7 +1298,9 @@
       "type": "person",
       "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9384"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1099,7 +1316,17 @@
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9327",
+        "C-9352",
+        "C-9361",
+        "C-9370",
+        "C-9371",
+        "C-9372",
+        "C-9373",
+        "C-9392",
+        "C-9397"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1115,7 +1342,10 @@
       "type": "person",
       "description": "Reporter who asked Bill Ackman to dispute the Hamptons narrative; Ackman reportedly declined.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9377",
+        "C-9395"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1123,6 +1353,542 @@
       "investigative_pressure": "low",
       "confidence": "high",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu; the invitation to Kirk, the number question and the 24-hour denial.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9348",
+        "C-9349",
+        "C-9362",
+        "C-9363"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Megyn Kelly; named in the JTV discussion and by the host as having spoken about pressure on Charlie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9343",
+        "C-9360",
+        "C-9361",
+        "C-9397"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Josh Hammer; subject of the episode, whose retweet, Zoom call and statements are examined.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9324",
+        "C-9325",
+        "C-9326",
+        "C-9327",
+        "C-9328",
+        "C-9329",
+        "C-9330",
+        "C-9332",
+        "C-9333",
+        "C-9334",
+        "C-9335",
+        "C-9336",
+        "C-9338",
+        "C-9339",
+        "C-9340",
+        "C-9341",
+        "C-9342",
+        "C-9343",
+        "C-9344",
+        "C-9345",
+        "C-9346",
+        "C-9347",
+        "C-9356",
+        "C-9357",
+        "C-9358",
+        "C-9359"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 26,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-71",
+      "ref": "N-71",
+      "name": "Matt Gaetz",
+      "type": "person",
+      "description": "Matt Gaetz; Hammer's JTV example of a commentator who changed tone.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9344",
+        "C-9345"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Michael Knowles",
+      "type": "person",
+      "description": "Michael Knowles; named in the JTV discussion of commentators.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9343"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-141",
+      "ref": "N-141",
+      "name": "Konstantin Kisin",
+      "type": "person",
+      "description": "Konstantin Kisin (transcribed Constantin Kissin); the host says he told Megyn Kelly to make a statement against Candace and Tucker.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9397"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-157",
+      "ref": "N-157",
+      "name": "John Mappin",
+      "type": "person",
+      "description": "John Mappin (transcribed Mapel); co-author of a letter the host references.",
+      "related_artifacts": [
+        "A-3004.1"
+      ],
+      "related_claims": [
+        "C-9389"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-158",
+      "ref": "N-158",
+      "name": "Arena Mappin",
+      "type": "person",
+      "description": "Arena Mappin (transcribed Mapel); co-author of a letter the host references.",
+      "related_artifacts": [
+        "A-3004.1"
+      ],
+      "related_claims": [
+        "C-9389"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-185",
+      "ref": "N-185",
+      "name": "Sam Parker",
+      "type": "person",
+      "description": "Sam Parker; the account Ali says the host quote tweeted.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9333"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-384",
+      "ref": "N-384",
+      "name": "Ian Carroll",
+      "type": "person",
+      "description": "Ian Carroll; named by the JTV host and Hammer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9342"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; staff, executives and cooperation with the feds.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9366",
+        "C-9384",
+        "C-9389",
+        "C-9390",
+        "C-9391"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10015",
+      "ref": "N-10015",
+      "name": "Mossad",
+      "type": "investigation_target",
+      "description": "Mossad; named in Jones's Savage anecdote.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9383"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10018",
+      "ref": "N-10018",
+      "name": "Netanyahu Israel Invitation Phone Call",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Netanyahu invitation and number claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9348",
+        "C-9349"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10025",
+      "ref": "N-10025",
+      "name": "Israel Lobby Pressure on Conservative Figures",
+      "type": "investigation_target",
+      "description": "Existing topic reused for claims about Israel-lobby pressure on Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9339",
+        "C-9353",
+        "C-9360"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10027",
+      "ref": "N-10027",
+      "name": "The Hamptons",
+      "type": "investigation_target",
+      "description": "The Hamptons; location of the meeting the host says Hammer lied about.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9328",
+        "C-9329"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10056",
+      "ref": "N-10056",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "investigation_target",
+      "description": "Existing topic reused for claims about Kirk's views on Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9325",
+        "C-9326",
+        "C-9327",
+        "C-9330",
+        "C-9342",
+        "C-9352",
+        "C-9354",
+        "C-9361",
+        "C-9362",
+        "C-9363",
+        "C-9369",
+        "C-9381",
+        "C-9382",
+        "C-9386"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 14,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10106",
+      "ref": "N-10106",
+      "name": "Moral Blackmail by Donors",
+      "type": "investigation_target",
+      "description": "Existing topic reused for claims about donor pressure on Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9339",
+        "C-9355",
+        "C-9394"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10125",
+      "ref": "N-10125",
+      "name": "Utah",
+      "type": "investigation_target",
+      "description": "Utah; where the host contrasts the Mormon community's reaction.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9363",
+        "C-9393"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10163",
+      "ref": "N-10163",
+      "name": "Pre-Assassination Group Chat Content",
+      "type": "investigation_target",
+      "description": "Existing topic reused for claims about the pre-assassination group chat.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9347",
+        "C-9355",
+        "C-9356",
+        "C-9357"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10169",
+      "ref": "N-10169",
+      "name": "Josh Hammer Pre-Death Zoom Call Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for claims about the Hammer Zoom call.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9324",
+        "C-9336",
+        "C-9340",
+        "C-9341",
+        "C-9346",
+        "C-9350",
+        "C-9357",
+        "C-9359"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10206",
+      "ref": "N-10206",
+      "name": "TPUSA Text Chain Authenticity Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the text chain.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9347",
+        "C-9356"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10345",
+      "ref": "N-10345",
+      "name": "Hampton Retreat Seth Dillon Confrontation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Dillon at the Hamptons.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9329"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10646",
+      "ref": "N-10646",
+      "name": "TPUSA Rooftop Security Decision-Making Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for claims about rooftop security.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9387",
+        "C-9388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10650",
+      "ref": "N-10650",
+      "name": "Charlie Kirk September 9 Pre-Event Threat Text",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the pre-event 'they are going to kill me' text.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9358",
+        "C-9379"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11010",
+      "ref": "N-11010",
+      "name": "Lay-Low List Warning",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the lay-low calls.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9370",
+        "C-9371",
+        "C-9372",
+        "C-9373"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11099",
+      "ref": "N-11099",
+      "name": "Candace Owens Australia Visa Review",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Australia visa claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9396"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11219",
+      "ref": "N-11219",
+      "name": "Charlie Kirk Security Company Ownership Question",
+      "type": "topic",
+      "description": "The host's statement that Charlie Kirk owned, and purchased outright, the security company around him, and that it did not check rooftops.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9387",
+        "C-9388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1540,7 +2306,1793 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9324",
+      "ref": "C-9324",
+      "label": "Host Says Hammer Admitted He and a Rabbi in Israel Spoke With Charlie the Night Before He Died",
+      "claim": "The host says Josh Hammer has already admitted that he and a rabbi in Israel had a long talk with Charlie Kirk the night before Kirk died, and that Hammer was very proud of it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "Obtain Hammer's own public statements and any call logs or invitations for the pre-assassination call with Kirk.",
+      "transcript_snippet": "he and a rabbi in Israel had a long talk with Charlie the night before he died, something he was very proud",
+      "supports_claim_refs": [
+        "C-1397"
+      ],
+      "mentions_person_refs": [
+        "N-55",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9325",
+      "ref": "C-9325",
+      "label": "Host Says Hammer Claimed Charlie Was His Friend Who Never Flinched on Israel",
+      "claim": "The host says that after the assassination Hammer claimed Charlie Kirk was his friend, that Charlie never once flinched on the topic of Israel, and that he died loving Israel.",
+      "anchored_artifacts": [
+        "A-1248.1"
+      ],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:20",
+      "investigative_direction": "Collect Hammer's post-assassination posts and interviews making the claim, and compare them with Kirk's own recorded statements on Israel.",
+      "transcript_snippet": "Charlie Kirk was his friend, he claimed, rather maniacally, uh that Charlie never once flinched on the topic of Israel. He died just loving Israel. It was like,",
+      "mentions_person_refs": [
+        "N-55",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9326",
+      "ref": "C-9326",
+      "label": "Host Reads a Hammer Post Alleging a Repulsive Op to Hijack Charlie's Legacy",
+      "claim": "The host displays a collage of Josh Hammer posts and reads one saying there is a \"repulsive op\" to hijack Charlie Kirk's legacy, plus a second saying people are trying to posthumously convert Charlie to \"Groperism\".",
+      "anchored_artifacts": [
+        "A-1248.1"
+      ],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:20",
+      "investigative_direction": "Retrieve the original Hammer posts from his X archive and confirm dates and wording.",
+      "transcript_snippet": "There is a repulsive op right now to hijack Charlie Kirk's legacy. Uh there is a repulsive op right now desecrating Charlie's memory by trying to posthumously convert him to",
+      "mentions_person_refs": [
+        "N-55",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9327",
+      "ref": "C-9327",
+      "label": "Host Reads a Hammer Post Saying He Was Given Access to a Letter Months Earlier",
+      "claim": "In the Hammer posts the host reads, Hammer says he was given access to \"this letter\" a few months earlier and read it then, and adds that Tucker, Candace and other bad-faith actors are lying through their teeth about Charlie and Israel. The post does not name the letter in the transcript.",
+      "anchored_artifacts": [
+        "A-1248.1"
+      ],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:20",
+      "investigative_direction": "Find the Hammer post, identify which letter he meant (compare the May letter attributed to Kirk), and establish who gave him access and when.",
+      "transcript_snippet": "I was given access to this letter a few months ago, and I read it at that time. Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel. [03:10] Candace",
+      "mentions_person_refs": [
+        "N-55",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9328",
+      "ref": "C-9328",
+      "label": "Host Says Hammer Lied About the Hamptons Meeting",
+      "claim": "The host says the world now knows Josh Hammer had personal, intimate knowledge that Charlie Kirk's views on Israel were changing, that Hammer lied about the Hamptons meeting, and that she has told the truth about it from day one.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10178",
+        "N-10027"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:58",
+      "investigative_direction": "Compare Hammer's public account of the Hamptons meeting with attendee statements, photos and event records.",
+      "transcript_snippet": "He lied about the Hamptons meeting. I've told you the truth from day one. Seth Dillon and Josh were personally upset with Charlie's defiance against the state of Israel. Seth Dillon was the more vocal of",
+      "mentions_person_refs": [
+        "N-55",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9329",
+      "ref": "C-9329",
+      "label": "Host Says Dillon and Hammer Were Personally Upset With Charlie, Dillon More Vocal",
+      "claim": "The host says Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's defiance against the state of Israel, and that Dillon was the more vocal of the two in pressing Charlie at the Hamptons.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10345",
+        "N-10027"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:58",
+      "investigative_direction": "Interview Hamptons attendees and obtain any messages in which Dillon or Hammer pressed Kirk on Israel.",
+      "transcript_snippet": "Seth Dillon and Josh were personally upset with Charlie's defiance against the state of Israel. Seth Dillon was the more vocal of the two parties in the Hamptons, as I said, in terms of actually pressing Charlie, but both of",
+      "supports_claim_refs": [
+        "C-1173"
+      ],
+      "mentions_person_refs": [
+        "N-38",
+        "N-55",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9330",
+      "ref": "C-9330",
+      "label": "Host Says It Is Now Established Hammer Knew Charlie's Israel Views Were Changing",
+      "claim": "The host says it is now an established fact that Josh Hammer knew Charlie Kirk's perspectives on Israel were changing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:53",
+      "investigative_direction": "Identify Hammer's own statements and the call or messages that show he knew Kirk's views were shifting.",
+      "transcript_snippet": "the truth is that it is now an established fact, like I said, that Josh Hammer knew that Charlie Kirk's perspectives on Israel were",
+      "mentions_person_refs": [
+        "N-55",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9331",
+      "ref": "C-9331",
+      "label": "Host Alleges Yashar Ali Is Paid to Do PR for Zionists",
+      "claim": "The host alleges that Yashar Ali is literally paid to do PR for Zionists and says she knows this personally. No documentation is shown.",
+      "anchored_artifacts": [
+        "A-1237.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:41",
+      "investigative_direction": "Ask the host for the basis of the claim and check Ali's disclosed clients and any public contracts or filings.",
+      "transcript_snippet": "quite literally paid to do PR for Zionists. I know this personally.",
+      "mentions_person_refs": [
+        "N-164",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9332",
+      "ref": "C-9332",
+      "label": "Host Says Another X User Wrongly Claimed the Iryna Footage Was Released September 9",
+      "claim": "The host says another X user asserted that the footage of Iryna Zhuravska's murder was released on September 9 and that this was why Hammer posted, and the host says this is untrue because the footage was released and trended on September 5.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10179",
+        "N-10174"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:48",
+      "investigative_direction": "Identify the X user and compare the post time with the first release of the footage.",
+      "transcript_snippet": "another user then jumped on that and tried to establish a non-fact that the footage of Iryna's murder was released on that day, on the 9th, and that's why Josh tweeted that.",
+      "supports_claim_refs": [
+        "C-1406"
+      ],
+      "mentions_person_refs": [
+        "N-165",
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9333",
+      "ref": "C-9333",
+      "label": "Host Reads Ali Saying She Quote Tweeted Sam Parker Who Flagged the Hammer Retweet",
+      "claim": "Reading Yashar Ali's post aloud, the host says Ali wrote that she quote tweeted a person Ali calls a notorious neo-Nazi, Sam Parker, who had pointed out that Hammer elevated a 2013 Trump tweet about public executions. The label is Ali's, not the host's.",
+      "anchored_artifacts": [
+        "A-1237.1"
+      ],
+      "related_nodes": [
+        "N-10174"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:48",
+      "investigative_direction": "Retrieve the host's quote tweet, the Sam Parker post it quoted and Ali's reply to confirm order and wording.",
+      "transcript_snippet": "Candace Owens quote tweeted notorious neo-Nazi Sam Parker, who pointed out that Josh Hammer, who is Jewish and was a friend of Charlie Kirk's, elevated",
+      "mentions_person_refs": [
+        "N-164",
+        "N-185",
+        "N-3",
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9334",
+      "ref": "C-9334",
+      "label": "Host Says She Found No Hammer Call for the Death Penalty Over the Iryna Case Anywhere",
+      "claim": "The host says she could find no point at which Josh Hammer, on the news, on his own show or elsewhere, spoke about the death penalty or a public execution in connection with the Iryna Zhuravska case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10174",
+        "N-10179"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:44",
+      "investigative_direction": "Search Hammer's show transcripts, media appearances and posts from August 22 to September 9 for death penalty or public execution language.",
+      "transcript_snippet": "Josh, at no point that I could determine, whether he was on the news, whether he was on his own show, or anywhere else, did he speak about the death",
+      "supports_claim_refs": [
+        "C-1408"
+      ],
+      "mentions_person_refs": [
+        "N-55",
+        "N-165",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9335",
+      "ref": "C-9335",
+      "label": "Host Says Hammer Himself Posted Several Times About the Zhuravska Homicide",
+      "claim": "The host says Hammer himself sent multiple tweets about the Iryna Zhuravska homicide, as many users did, because it was trending after the footage appeared on September 5.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10179",
+        "N-10174"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:44",
+      "investigative_direction": "Pull Hammer's posts from September 5 to 9 about the Zhuravska case and check whether any mention punishment.",
+      "transcript_snippet": "Josh himself sent multiple tweets regarding the homicide, as everyone did, because, like I said, it was trending. Um",
+      "mentions_person_refs": [
+        "N-55",
+        "N-165"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9336",
+      "ref": "C-9336",
+      "label": "Host Says Her Timeline Shows a Three-Hour Gap in Hammer's Posts Before the 9:09 p.m. Retweet",
+      "claim": "The host says that after Hammer's 5:59 p.m. Eastern post promoting a media appearance, her timeline shows a three-hour break before the 9:09 p.m. public-execution retweet. She speculates, saying she does not know, that this may have been when Hammer spoke to Charlie.",
+      "anchored_artifacts": [
+        "A-1240.1"
+      ],
+      "related_nodes": [
+        "N-10174",
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:50",
+      "investigative_direction": "Verify the exact post times from Hammer's archive and compare them with the reported start time of the Zoom call.",
+      "transcript_snippet": "5:59 p. m., he tweets uh a promotion of his media appearance regarding a Supreme Court decision. And then there's this 3-hour break. He put his phone down, maybe. Maybe",
+      "supports_claim_refs": [
+        "C-1420"
+      ],
+      "mentions_person_refs": [
+        "N-55",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9337",
+      "ref": "C-9337",
+      "label": "Host Says Matt Walsh Later Explained His Public-Execution Post on His Show",
+      "claim": "The host says Matt Walsh went on his show and further explained his post, saying men have a visceral response when a woman is victimized the way Iryna Zhuravska was.",
+      "anchored_artifacts": [
+        "A-1238.1"
+      ],
+      "related_nodes": [
+        "N-10174"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:45",
+      "investigative_direction": "Locate the Walsh show segment and confirm what he said about the post.",
+      "transcript_snippet": "So, Matt Walsh then went on his show and further explained that already contextualized tweet, and he explained how men have a visceral response when you see somebody uh being victimized, a woman being victimized in",
+      "supports_claim_refs": [
+        "C-1409"
+      ],
+      "mentions_person_refs": [
+        "N-166",
+        "N-165"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9338",
+      "ref": "C-9338",
+      "label": "Host Says Hammer Is Editor-at-Large at Newsweek and Faced No Consequences for the DNA Post",
+      "claim": "The host describes Josh Hammer as editor-at-large at Newsweek and says there were no consequences for his post that Jew hatred is inherent in the European DNA.",
+      "anchored_artifacts": [
+        "A-1239.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:05",
+      "investigative_direction": "Confirm Hammer's current Newsweek title and any Newsweek response to the post.",
+      "transcript_snippet": "editor-at-large at Newsweek. What are you going to do? Yeah, it's fine. You can hate white people. We all know that. It's fine. Totally fine.\" Anyways, that's what he thinks about you",
+      "supports_claim_refs": [
+        "C-1419"
+      ],
+      "mentions_person_refs": [
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9339",
+      "ref": "C-9339",
+      "label": "Host Says Hammer Helped Pressure Charlie in the Weeks and Hours Before His Death",
+      "claim": "The host says Josh Hammer lied about the pressure Charlie Kirk was under, and that Hammer was part of applying that pressure in the weeks and then the hours leading up to Kirk's death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025",
+        "N-10106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:05",
+      "investigative_direction": "Obtain the group chat messages and any Hammer-to-Kirk communications from August and September 2025.",
+      "transcript_snippet": "pressure that Charlie was under, pressure which Josh Hammer was a part of applying in the weeks and then in the hours leading up to Charlie Kirk's death.",
+      "supports_claim_refs": [
+        "C-1173"
+      ],
+      "mentions_person_refs": [
+        "N-55",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9340",
+      "ref": "C-9340",
+      "label": "Host Says Hammer Bragged That He and Rabbi Wolicki Had a Zoom Call With Charlie",
+      "claim": "The host says Hammer proudly promoted that he and Rabbi Wolicki had a Zoom call with Charlie Kirk the night before Kirk died, and that they said Charlie wanted help with his talking points about Israel.",
+      "anchored_artifacts": [
+        "A-1242.1"
+      ],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:06",
+      "investigative_direction": "Obtain the Zoom invitation, attendee list and duration, and the account of any Kirk producers on the call.",
+      "transcript_snippet": "He bragged that he and Rabbi Wolicki had a Zoom call with Charlie. Why? Because they said Charlie wanted to help him with his talking points about Israel. [19:56] Now,",
+      "supports_claim_refs": [
+        "C-1397"
+      ],
+      "mentions_person_refs": [
+        "N-55",
+        "N-167",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9341",
+      "ref": "C-9341",
+      "label": "Hammer Says on JTV the Zoom Was a Small Call With a Friend, Charlie and a Couple of His Producers",
+      "claim": "On the JTV interview played on air, Hammer says the last call with Charlie was a Zoom with a friend of his, Charlie and a couple of Charlie's producers, a small call about the anti-Israel questions Charlie expected on the campus tour.",
+      "anchored_artifacts": [
+        "A-1242.1"
+      ],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:50",
+      "investigative_direction": "Identify the producers and the friend on the call and ask each to confirm the participants and the agenda.",
+      "transcript_snippet": "We had a Zoom call, a friend of mine, him, a couple of his producers. It was it was a small call. We were literally talking above all about the anti-Israel questions",
+      "mentions_person_refs": [
+        "N-55",
+        "N-1",
+        "N-174"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9342",
+      "ref": "C-9342",
+      "label": "Hammer Says on JTV Candace Chose to Hijack Charlie's Death to Blame Israel",
+      "claim": "On the JTV audio, Hammer says Ian Carroll and the host have chosen to hijack Charlie Kirk's death to blame it on Israel. The interviewer, Ali, had named Carroll first.",
+      "anchored_artifacts": [
+        "A-1242.1"
+      ],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:58",
+      "investigative_direction": "Review the full JTV episode for Hammer's exact wording and date.",
+      "transcript_snippet": "she's chosen to hijack his death right now to blame it on Israel. I mean, it's just so disturbing. But then you have the people",
+      "mentions_person_refs": [
+        "N-55",
+        "N-3",
+        "N-384",
+        "N-174"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9343",
+      "ref": "C-9343",
+      "label": "Hammer Says on JTV Commentators Chase Momentum and Twitter Algorithms",
+      "claim": "On the JTV audio, Hammer says that a lot of commentators, in a discussion that names Megyn Kelly and Michael Knowles, are trying to take their commentary where they see momentum, especially with Gen Z and the Twitter algorithms.",
+      "anchored_artifacts": [
+        "A-1242.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:22:58",
+      "investigative_direction": "Review the full JTV episode for the exact wording.",
+      "transcript_snippet": "I think a lot of folks are kind of just trying to take their commentary to where they see the perceived momentum, especially among the younger generation there. But so, I think a lot of it is trying to kind",
+      "mentions_person_refs": [
+        "N-55",
+        "N-46",
+        "N-102",
+        "N-174"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9344",
+      "ref": "C-9344",
+      "label": "Hammer Says Gaetz Hosted Him in March and Called His Book a Battle Map",
+      "claim": "On the JTV audio, Hammer says Matt Gaetz had him on his show in March when Hammer's book came out and called the book a battle map to save Western Civilization, then later spoke of Jewish supremacy.",
+      "anchored_artifacts": [
+        "A-1242.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:23:56",
+      "investigative_direction": "Locate the Gaetz OAN segment on Hammer's book and compare dates with Gaetz's later remarks.",
+      "transcript_snippet": "He had me on his show back in March when my book came out. Ali, he referred to my book as a battle map to save Western Civilization. It was",
+      "mentions_person_refs": [
+        "N-55",
+        "N-71"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9345",
+      "ref": "C-9345",
+      "label": "Hammer Says Gaetz's Shift Is Cynicism Aimed at Clicks and Money",
+      "claim": "On the JTV audio, Hammer says that Matt Gaetz's change of tone is profound cynicism, playing for clicks and money to produce viral clips for a small, very online part of the American right.",
+      "anchored_artifacts": [
+        "A-1242.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:24:35",
+      "investigative_direction": "Review the full JTV episode for the exact wording.",
+      "transcript_snippet": "I think it's just profound cynicism. It's trying to kind of just play for clicks, play for money and trying to kind of just generate some viral clips to appease",
+      "mentions_person_refs": [
+        "N-55",
+        "N-71"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9346",
+      "ref": "C-9346",
+      "label": "Hammer Says Charlie Had Him and Wolicki on for an Entire Hour the Night Before His Death",
+      "claim": "On the JTV audio, Hammer says that if Charlie had been going the direction the host describes he would not have had Hammer and Rabbi Pesach Wolicki on literally the night before his death for an entire hour on how to respond to anti-Israel talking points.",
+      "anchored_artifacts": [
+        "A-1242.1"
+      ],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:09",
+      "investigative_direction": "Verify the call duration and time against Zoom records, phone logs and the New York Post report.",
+      "transcript_snippet": "would he have had on me and our friend Rabbi Pesach Wolicki literally the night before his death to spend an entire hour talking about how to respond to anti-Israel",
+      "supports_claim_refs": [
+        "C-1397"
+      ],
+      "mentions_person_refs": [
+        "N-55",
+        "N-167",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9347",
+      "ref": "C-9347",
+      "label": "Host Says Rabbi Wolicki Was Also on the Text Chain, So Both Men Knew Charlie's Position",
+      "claim": "The host says Rabbi Wolicki was also on the text chain, so both he and Hammer knew where Charlie stood on Israel before his death, and that they already knew two weeks earlier in the Hamptons.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10163",
+        "N-10206",
+        "N-10178"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:00",
+      "investigative_direction": "Obtain the participant list and messages of the group chat and confirm Wolicki's membership.",
+      "transcript_snippet": "that rabbi, Rabbi Wolicki, was also on the now infamous text chain. So, this means that both of those individuals knew exactly where Charlie was at on the topic of Israel and how he felt",
+      "supports_claim_refs": [
+        "C-6473",
+        "C-1377"
+      ],
+      "mentions_person_refs": [
+        "N-167",
+        "N-55",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9348",
+      "ref": "C-9348",
+      "label": "Host Says the Released Letter Shows Netanyahu Did Not Have Charlie's Number in May",
+      "claim": "The host says that, according to the released letter, Benjamin Netanyahu did not even have Charlie Kirk's phone number in May, and asks why he was calling him two weeks before Kirk died.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10018"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:00",
+      "investigative_direction": "Re-read the released letter text for any statement about contact details, and obtain call records for the invitation call.",
+      "transcript_snippet": "whose number, according to the released letter, he didn't even have in May. So, what's he calling him about? [28:17] They obviously weren't close if he didn't have his number,",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9349",
+      "ref": "C-9349",
+      "label": "Host Says Netanyahu Invited Charlie to Israel Two Weeks Before His Death and Charlie Said No",
+      "claim": "The host says Benjamin Netanyahu invited Charlie Kirk to Israel about two weeks before Kirk's death, that nobody has addressed the context of that invitation, and that Charlie said no.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10018"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:17",
+      "investigative_direction": "Obtain Netanyahu's office and Kirk-side accounts of the invitation call, dates and any follow-up.",
+      "transcript_snippet": "Why is he inviting Charlie to Israel 2 weeks before he dies, right? Nobody will address that Charlie said no. He did. He said no. He didn't flinch. He didn't",
+      "supports_claim_refs": [
+        "C-1129",
+        "C-1130"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9350",
+      "ref": "C-9350",
+      "label": "Wolicki Says He Was in Touch With Charlie Almost Daily for Months",
+      "claim": "In the interview audio, Rabbi Pesach Wolicki says he was in touch with Charlie Kirk on an almost daily basis for months before the assassination.",
+      "anchored_artifacts": [
+        "A-1243.1"
+      ],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:05",
+      "investigative_direction": "Ask Wolicki for the form and volume of that contact (calls, messages) and corroborate with Kirk-side records.",
+      "transcript_snippet": "I was in touch with Charlie on an almost daily basis for months. And he certainly had uh some disagreements with Israeli policy and he criticized Israel where",
+      "mentions_person_refs": [
+        "N-167",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9351",
+      "ref": "C-9351",
+      "label": "Wolicki Says 40 to 50 Percent of Campus Tour Questions Were About Israel and It Drove Charlie Crazy",
+      "claim": "In the interview audio, Wolicki says between 40 and 50 percent of the questions and challenges Charlie got on campus tours were about Israel, and that being Israel's defender all the time drove him crazy because he wanted to talk about America.",
+      "anchored_artifacts": [
+        "A-1243.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:30:17",
+      "investigative_direction": "Compare against Q&A transcripts from earlier Kirk campus events to estimate the share of Israel questions.",
+      "transcript_snippet": "between 40 and 50% of all of the questions and and challenges that he would get on these campus tours were usually about Israel. Cuz the campuses, of course, have a lot of anti-Israel sentiment, and Charlie was known as",
+      "mentions_person_refs": [
+        "N-167",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9352",
+      "ref": "C-9352",
+      "label": "Wolicki Argues Charlie Would Have Invited Candace and Tucker if He Were Turning on Israel",
+      "claim": "In the interview audio, Wolicki argues that if Charlie Kirk were turning on Israel he would have had Candace Owens and Tucker Carlson in the meeting, so the meeting itself refutes the theory.",
+      "anchored_artifacts": [
+        "A-1243.1"
+      ],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:17",
+      "investigative_direction": "Obtain the invitation list for the meeting and the account of each attendee.",
+      "transcript_snippet": "If he was turning on Israel, he would have had Candace Owens and Tucker Carlson in the meeting planning to throw Israel under the bus. The entire premise of the",
+      "supports_claim_refs": [
+        "C-1414"
+      ],
+      "mentions_person_refs": [
+        "N-167",
+        "N-3",
+        "N-22",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9353",
+      "ref": "C-9353",
+      "label": "Host Says She Has Text Messages Showing Charlie Worried Israel Was Infringing on US Speech",
+      "claim": "The host says she previously told viewers Charlie was particularly worried that Israel was infringing on speech in America, and says she has text messages to that effect.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10177",
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:32",
+      "investigative_direction": "Request the text messages in full, with metadata, for independent authentication.",
+      "transcript_snippet": "I told you he was particularly worried uh that Israel was infringing upon speech in America. I have text messages to that effect. Okay? So, there's there's no undoing that.",
+      "supports_claim_refs": [
+        "C-1222"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9354",
+      "ref": "C-9354",
+      "label": "Host Says Charlie Knew Israel Had Lost the PR War and Resented Being Seen as Its Defender",
+      "claim": "The host says Charlie Kirk was aware Israel had lost the PR war and that it weighed on him that he was seen as someone who simply defends Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:32",
+      "investigative_direction": "Collect Kirk statements and messages from summer 2025 touching on Israel's public image.",
+      "transcript_snippet": "He was aware that they had lost the PR war and it was weighing on him that he was seen, as Rabbi Wolicki accurately states, as this person who just defends Israel, especially when what they are doing is so",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9355",
+      "ref": "C-9355",
+      "label": "Host Says Charlie Was Genuinely Over It by the End, in His Words, Because of Jewish Donor Behavior",
+      "claim": "The host says Charlie Kirk was genuinely over his pro-Israel stance toward the end because of what he called, in his words not hers, Jewish behavior leaning into stereotypes, that he did not want to be bullied, and that people around him knew he was being bullied.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10163",
+        "N-10106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:17",
+      "investigative_direction": "Examine the original chat messages and verify the wording attributed to Kirk.",
+      "transcript_snippet": "I think, as I've said, he was genuinely over it towards the end because of Jewish behavior, his words, not mine, leaning into the stereotypes of Jewish behavior. Okay? He",
+      "supports_claim_refs": [
+        "C-1376"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9356",
+      "ref": "C-9356",
+      "label": "Host Says Charlie Announced in the Chat Under 48 Hours Before Death He Had to Abandon the Pro-Israel Cause",
+      "claim": "The host says that less than 48 hours before he died Charlie Kirk announced in the chat that he had no choice but to abandon the pro-Israel cause because of Jewish donors and their behavior, and she contrasts this with Hammer's account of the following day's call.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10163",
+        "N-10206"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:17",
+      "investigative_direction": "Obtain the chat export and verify the exact date and time of the message.",
+      "transcript_snippet": "less than 48 hours before he died, Charlie announces that, he announces that he has no choice but to abandon the pro-Israel cause because of Jewish donors and their behavior",
+      "supports_claim_refs": [
+        "C-1375",
+        "C-1376"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-55",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9357",
+      "ref": "C-9357",
+      "label": "Host Says the Zoom Was the Following Day With Two Chat Members Who Knew He Was Angry",
+      "claim": "The host says Charlie then held the smaller call with two Jewish individuals who were on the chat and knew he was angry, and says the call was not a follow-up to what he had expressed to them hours earlier.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10163",
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:07",
+      "investigative_direction": "Reconcile the chat timeline with the Zoom time and the identity of the two participants.",
+      "transcript_snippet": "he decided to have that smaller audience with two Jewish individuals who were on that chat and were aware that he was angry, but this",
+      "supports_claim_refs": [
+        "C-1377",
+        "C-6473"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-55",
+        "N-167",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9358",
+      "ref": "C-9358",
+      "label": "Host Says Charlie Texted People the Same Day as the Zoom That They Were Going to Kill Him",
+      "claim": "The host says that on the same day as the Zoom call Charlie Kirk was texting people that \"they are going to kill me\", and that she is asked to believe he was calling Hammer as a fan of his book that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10177",
+        "N-10650"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:57",
+      "investigative_direction": "Identify the recipients and obtain the texts with timestamps.",
+      "transcript_snippet": "in that exact same day, he was texting people saying they are going to kill me. On the same day that he's on this Zoom call, this is a fact,",
+      "mentions_person_refs": [
+        "N-1",
+        "N-55",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9359",
+      "ref": "C-9359",
+      "label": "Host Says Hammer and She Thinks the New York Post Placed the Zoom Call at Night",
+      "claim": "The host says Hammer described the Zoom call as taking place at night and she thinks the New York Post reported the same.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:57",
+      "investigative_direction": "Find the New York Post report and Hammer's statement giving the call time.",
+      "transcript_snippet": "as as Josh says it it was at night and or the New York Post reported, I think, right, that it was at at night. That at the same time,",
+      "mentions_person_refs": [
+        "N-55",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9360",
+      "ref": "C-9360",
+      "label": "Host Says Megyn Kelly Has Spoken About the Pressure on Charlie and Should Name Those Individuals",
+      "claim": "The host says Megyn Kelly herself has spoken about how Charlie Kirk was being bullied and was under pressure, and says Kelly should tell people who those individuals are.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:50",
+      "investigative_direction": "Find Kelly's statements about Kirk's pressure and ask her which individuals she meant.",
+      "transcript_snippet": "and Megyn even spoke about it herself. By the way, Megyn, uh you should probably tell people who those individuals are. Um we never once said that Israel killed Charlie",
+      "supports_claim_refs": [
+        "C-1162"
+      ],
+      "mentions_person_refs": [
+        "N-46",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9361",
+      "ref": "C-9361",
+      "label": "Host Says Neither She Nor Tucker Ever Said Israel Killed Charlie and She Has No Evidence of It",
+      "claim": "The host says that she, Tucker Carlson and others never said Israel killed Charlie Kirk, and that she has never said it because on the facts she follows she has no evidence of it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:50",
+      "investigative_direction": "Review the host's and Carlson's past episodes for any statements asserting Israeli involvement.",
+      "transcript_snippet": "we never once said that Israel killed Charlie Kirk. I've never said that because on the basis of the facts that you guys are following on the show, I don't have any evidence of that. It doesn't serve",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22",
+        "N-46",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9362",
+      "ref": "C-9362",
+      "label": "Host Says the Behavior of Israel's Supporters Is Almost the Only Compelling Argument for Israeli Involvement",
+      "claim": "The host says that almost the only compelling argument that Israel had anything to do with Charlie Kirk's death is the way Israel's supporters, including Benjamin Netanyahu, are acting now, with propaganda, lies and attacks on her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:55",
+      "investigative_direction": "Catalogue the specific statements by Netanyahu and allies that the host regards as lies.",
+      "transcript_snippet": "That has been almost the only compelling argument that Israel had anything to do with it is the way they're acting right now. Like Bibi Netanyahu, the propaganda, the lies,",
+      "mentions_person_refs": [
+        "N-3",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9363",
+      "ref": "C-9363",
+      "label": "Host Says Netanyahu Publicly Said Israel Did Not Kill Charlie Within 24 Hours of His Death",
+      "claim": "The host says Benjamin Netanyahu publicly stated, 24 hours after Charlie Kirk died, that Israel did not kill Kirk, and contrasts this with Utah's Mormon leaders, who she says did not issue such denials.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056",
+        "N-10125"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:55",
+      "investigative_direction": "Identify the Netanyahu statement and its time and compare with the time of Kirk's death.",
+      "transcript_snippet": "no Mormon presidents coming out and saying, I just want to be clear that um we didn't kill Charlie Kirk 24 hours after he died? Cuz that's what Bibi did. How come",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9364",
+      "ref": "C-9364",
+      "label": "Host Highlights the Left-Side Section on Screen and Asks for Footage From the Ten Minutes Before the Shots",
+      "claim": "The host shows an on-screen graphic highlighting the section on Charlie's left side where she has no footage, and asks for footage from that section from when the shots rang out or in the ten minutes before.",
+      "anchored_artifacts": [
+        "A-3003.1"
+      ],
+      "related_nodes": [
+        "N-10175"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:02",
+      "investigative_direction": "Compare the highlighted section with the UVU courtyard layout and collect any received footage.",
+      "transcript_snippet": "all on the side, when the shots rang out or just before, you know, maybe in the 10 minutes before so I can see who was around or what happened when those shots rang out. It is weird. There's just",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9365",
+      "ref": "C-9365",
+      "label": "Host Asks Viewers to Send UVU Footage to tips@candaceowens.com",
+      "claim": "The host asks viewers to send footage to tips@candaceowens.com and also to a second address, more tips@candaceowens.com, with \"footage@uvu\" in the subject line, saying she has been cleaning up the inbox.",
+      "anchored_artifacts": [
+        "A-3002.1"
+      ],
+      "related_nodes": [
+        "N-10175"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:03",
+      "investigative_direction": "Record the volume and usefulness of emailed UVU footage in later episodes where the host cites it.",
+      "transcript_snippet": "Uh you can send that, by the way, to uh tips@candaceowens. com. We also have more tips@candaceowens. com. And please just put um in the subject line footage@uvu. That would be very easy. It would help us sort things. We've",
+      "supports_claim_refs": [
+        "C-1423"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9366",
+      "ref": "C-9366",
+      "label": "Host Says Rank-and-File Turning Point Staff Are Assisting Her Investigation, Not the Executives",
+      "claim": "The host says her investigation is being assisted by Turning Point USA people on the ground and smaller employees who deeply care about finding answers, not the executives.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:57",
+      "investigative_direction": "Ask whether any staff will go on record and document what information has been provided.",
+      "transcript_snippet": "This investigation is being assisted by Turning Point USA. Not the execs, but Turning Point people on the ground, people that they don't even think about, smaller employees. Like, they",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9367",
+      "ref": "C-9367",
+      "label": "Host Says D'Souza Replied That He Meant His Sheep Tweet as a Joke",
+      "claim": "The host says Dinesh D'Souza responded that he meant his tweet as a joke, and says she believes he meant it seriously.",
+      "anchored_artifacts": [
+        "A-1245.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:42",
+      "investigative_direction": "Find D'Souza's follow-up post and check wording and time.",
+      "transcript_snippet": "And he's like, \"Well, I meant that as a joke.\" You didn't mean it as a joke. You meant it seriously and it was weird. It got weird very quickly. And we learned more about you than we learned about",
+      "supports_claim_refs": [
+        "C-1415"
+      ],
+      "mentions_person_refs": [
+        "N-171",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9368",
+      "ref": "C-9368",
+      "label": "Host Suggests D'Souza May Have Been Blackmailed Over Laptop Contents",
+      "claim": "The host says she wants D'Souza's opinion of her, not what is on his laptop and how they \"maybe blackmailed\" him. She offers no evidence in the transcript, and the claim is her insinuation.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:42",
+      "investigative_direction": "Ask the host for any basis for the insinuation; none is presented on air.",
+      "transcript_snippet": "you want to know your opinion on me, not what's on your laptop and how they maybe blackmailed you, okay? That's not what we're interested",
+      "mentions_person_refs": [
+        "N-171",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9369",
+      "ref": "C-9369",
+      "label": "Host Says She Does Not Accept That Charlie Was Killed Because He Angered the Trans Lobby",
+      "claim": "The host says she does not accept that Charlie Kirk lost his life because he really angered the trans lobby.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:42",
+      "investigative_direction": "Compare against the prosecution's stated motive and the evidence offered for it.",
+      "transcript_snippet": "I do not accept, and you do you guys that Charlie Kirk lost his life because he really pissed off the trans lobby. [49:47] It terrifies me to think that on the day that Charlie died, I got multiple phone",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9370",
+      "ref": "C-9370",
+      "label": "Host Says She Got Calls on the Day Charlie Died Telling Her and Tucker to Lay Low Because They Were on a List",
+      "claim": "The host says that on the day Charlie died she got multiple phone calls from people saying she and Tucker Carlson should lay low because they were also on the list, and that the callers never said who specifically told them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11010"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:47",
+      "investigative_direction": "Ask the host to identify, or at least describe, the callers and who they said was the source.",
+      "transcript_snippet": "I got multiple phone calls from people uh who said that me and Char- me and Tucker should lay low because we're also on the list. And they never told us who specifically told them that, by the way. Now",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9371",
+      "ref": "C-9371",
+      "label": "Host Says She Called Tucker That Day About Hearing They Were Next",
+      "claim": "The host says she called Tucker Carlson and told him she was hearing that they were next, and says he will confirm it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11010"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:47",
+      "investigative_direction": "Ask Carlson to confirm the call and what was said.",
+      "transcript_snippet": "I called Tucker. I'm like, \"I'm hearing Are you hearing me say anything? I'm hearing that they're saying that we're next.\" And now I go, \"Was that supposed to be a threat",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9372",
+      "ref": "C-9372",
+      "label": "Host Says She Asked the Callers Whether the Feds Were the Source",
+      "claim": "The host says she asked the callers whether the feds said this and who specifically said it, and wondered why the feds were not calling her and Tucker directly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11010"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:36",
+      "investigative_direction": "Ask the host which agencies, if any, the callers named.",
+      "transcript_snippet": "Did the feds say this? Who said this specifically? Because why aren't they calling me and Tucker? Why are Why am I calling Tucker and",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9373",
+      "ref": "C-9373",
+      "label": "Host Says She Now Thinks the Shot to the Throat Was a Signal Aimed at Her and Tucker",
+      "claim": "The host says she believes, coming out of the grief stage, that the shooting of Charlie Kirk in the throat was meant as a signal that his voice was taken out and theirs would be too.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11010"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:36",
+      "investigative_direction": "Treat as the host's interpretation; examine the autopsy and ballistics record for the wound location.",
+      "transcript_snippet": "To to send a signal to shoot him in the throat. Right? To say, \"We took out his voice and we will take yours out, too.\" And that's terrifying and",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9374",
+      "ref": "C-9374",
+      "label": "Host Says She Created a Kill Switch and Discussed It the Day Before",
+      "claim": "The host says that what she wanted to do, as she discussed the previous day and which got picked up, was to create a kill switch.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10176"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:07",
+      "investigative_direction": "Review the October 7 episode for the host's first description of the kill switch.",
+      "transcript_snippet": "What I wanted to do, as I discussed yesterday, and which got picked up, was to create a kill switch, right? To realize that Kanye",
+      "supports_claim_refs": [
+        "C-1416"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9375",
+      "ref": "C-9375",
+      "label": "Host Says the Same People Who Tortured Kanye Tortured Charlie Kirk",
+      "claim": "The host says she has no doubt that the same people who were torturing Kanye West were torturing Charlie Kirk. She does not name them in the transcript.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:07",
+      "investigative_direction": "Ask the host to name the people and to supply the supporting messages she says Kanye gave her.",
+      "transcript_snippet": "I have no doubt that the same people that were torturing Kanye, it's the same people that were torturing Charlie",
+      "mentions_person_refs": [
+        "N-27",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9376",
+      "ref": "C-9376",
+      "label": "Host Says Kanye Sent Her All the Messages of People Threatening Him",
+      "claim": "The host says Kanye West sent her all of the messages from people threatening him and that she has all of them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10176"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:50",
+      "investigative_direction": "Ask the host whether and when the messages will be published and how they were authenticated.",
+      "transcript_snippet": "Kanye sent me all of the messages of people who were threatening him. I have them all. To information share uh with",
+      "mentions_person_refs": [
+        "N-27",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9377",
+      "ref": "C-9377",
+      "label": "Host Says She Shared Information With Max Blumenthal and Others in a Release-It-All Package",
+      "claim": "The host says she shared information with Max Blumenthal and people elsewhere and sent a package with the instruction that if anything happens to her and it looks suspicious, they should release it all.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10176"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:50",
+      "investigative_direction": "Ask recipients to confirm they hold the package and its release conditions.",
+      "transcript_snippet": "To information share uh with Max Blumenthal, with people Village I mean people all over the place. To send a package and say, \"If anything happens to me and it looks suspicious, release it all.\" You know? It's not even",
+      "supports_claim_refs": [
+        "C-1416"
+      ],
+      "mentions_person_refs": [
+        "N-49",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9378",
+      "ref": "C-9378",
+      "label": "Alex Jones Says Candace Let Critics Say Charlie Didn't Text Her for Weeks Before Releasing the Text",
+      "claim": "In the Alex Jones audio, Jones says Candace Owens let critics say Charlie Kirk had not liked, called or texted her for a few weeks and then released the text.",
+      "anchored_artifacts": [
+        "A-1246.1"
+      ],
+      "related_nodes": [
+        "N-10177"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:52",
+      "investigative_direction": "Identify which text Jones means and when it was released.",
+      "transcript_snippet": "And so she let him say that for a few weeks and then released it. The text. And then she said, \"Yeah, he was really upset with the Israel lobby and said he was breaking",
+      "mentions_person_refs": [
+        "N-93",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9379",
+      "ref": "C-9379",
+      "label": "Alex Jones Says Candace Claims Text Proof That Charlie Feared for His Life in the Two Days Before",
+      "claim": "In the Alex Jones audio, Jones says Candace Owens now says she has proof, in text messages, that Charlie Kirk feared for his life in the two days and the day before he was killed.",
+      "anchored_artifacts": [
+        "A-1246.1"
+      ],
+      "related_nodes": [
+        "N-10177",
+        "N-10650"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:52",
+      "investigative_direction": "Request the texts with metadata and confirm dates.",
+      "transcript_snippet": "So she released those two days ago. And now she says she has the proof and it's text messages. That he feared for his life in the two days and the day before he was killed. And predictably they're already",
+      "mentions_person_refs": [
+        "N-93",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9380",
+      "ref": "C-9380",
+      "label": "Alex Jones Says Candace Did Not Send Him the Kill Switch Package",
+      "claim": "In the Alex Jones audio, Jones says he was a little bummed out that Candace Owens did not send the package to him.",
+      "anchored_artifacts": [
+        "A-1246.1"
+      ],
+      "related_nodes": [
+        "N-10176"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:25",
+      "investigative_direction": "Ask Jones's team to confirm he did not receive the package.",
+      "transcript_snippet": "Well, I'm trying to get it on for weeks. I'm a little bummed out she didn't send it to me. Cuz I'd like to stand",
+      "supports_claim_refs": [
+        "C-1416"
+      ],
+      "mentions_person_refs": [
+        "N-93",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9381",
+      "ref": "C-9381",
+      "label": "Alex Jones Says Charlie's Security Detail Was Not Israeli",
+      "claim": "In the Alex Jones audio, Jones says some people said Charlie Kirk's security detail was Israeli and that it was not, adding that he sees no evidence yet that Israel killed him.",
+      "anchored_artifacts": [
+        "A-1246.1"
+      ],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:25",
+      "investigative_direction": "Identify the security personnel's employer and the origin of the Israeli-detail rumor.",
+      "transcript_snippet": "You know, they said his security detail was Israeli. They weren't. It was just the first knee-jerk reaction. I said,",
+      "mentions_person_refs": [
+        "N-93",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9382",
+      "ref": "C-9382",
+      "label": "Alex Jones Says the Word Is That Charlie Specifically Thought Israel Was Going to Kill Him",
+      "claim": "In the Alex Jones audio, Jones says the word is that Charlie Kirk specifically thought Israel was going to kill him. Jones does not name a source.",
+      "anchored_artifacts": [
+        "A-1246.1"
+      ],
+      "related_nodes": [
+        "N-10056",
+        "N-10177"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:10",
+      "investigative_direction": "Ask Jones for his source and compare with the texts the host says she holds.",
+      "transcript_snippet": "And the word is he specifically thought Israel was going to kill him. [56:57] Even Michael Savage first few months ago said that, you know, who needs to go on",
+      "mentions_person_refs": [
+        "N-93",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9383",
+      "ref": "C-9383",
+      "label": "Alex Jones Says Michael Savage Said During a Break He Hoped the Mossad Would Not Kill Him",
+      "claim": "In the Alex Jones audio, Jones says Michael Savage said during a break on Jones's show, a few months earlier, \"Man, I hope Mossad doesn't kill me\", and that it was on the feed and not off the record.",
+      "anchored_artifacts": [
+        "A-1246.1"
+      ],
+      "related_nodes": [
+        "N-10015"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:57",
+      "investigative_direction": "Locate the Jones show broadcast with the break audio and confirm wording.",
+      "transcript_snippet": "Even Michael Savage first few months ago said that, you know, who needs to go on my show. During the break he goes, \"Man, I hope Mossad doesn't kill me.\" Crucial. It's on the feed. He",
+      "mentions_person_refs": [
+        "N-93",
+        "N-43"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9384",
+      "ref": "C-9384",
+      "label": "Alex Jones Says Charlie's TPUSA Got Over 2.5 Million Young People to Vote for Trump",
+      "claim": "In the Alex Jones audio, Jones says Charlie Kirk got over two and a half million people to vote conservatively for Trump with TPUSA, moving the needle more than anyone with young people on colleges.",
+      "anchored_artifacts": [
+        "A-1246.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:12",
+      "investigative_direction": "Compare against TPUSA's own claims on voter turnout and independent estimates.",
+      "transcript_snippet": "He got over 2 and 1/2 million people to vote conservatively for Trump. Was moving the needle big time, more than anybody",
+      "mentions_person_refs": [
+        "N-93",
+        "N-1",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9385",
+      "ref": "C-9385",
+      "label": "Alex Jones Says About Six Trantifa Said Charlie Would Be Dead Tomorrow",
+      "claim": "In the Alex Jones audio, Jones says about six \"Trantifa\" people said Charlie Kirk would be dead tomorrow, and afterward said they had told people so, and that this was in the town.",
+      "anchored_artifacts": [
+        "A-1246.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:57:12",
+      "investigative_direction": "Identify the posts or people and the date and place Jones refers to.",
+      "transcript_snippet": "He had like six Trantifa. Say, \"Charlie will be dead tomorrow.\" And they said, \"See, we told you.\" And that was in the town. So, you know, we got Trantifa",
+      "mentions_person_refs": [
+        "N-93",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9386",
+      "ref": "C-9386",
+      "label": "Host Says She Had No Proof or Reason to Suspect Israel and the Cover-Up Behavior Prompted Questions",
+      "claim": "The host says that, genuinely, she and others had no proof and no rhyme or reason to suspect Israel, and that it is the insane behavior of covering up and lying that makes them question things.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:12",
+      "investigative_direction": "Catalogue the specific acts of cover-up and lying the host cites in earlier episodes.",
+      "transcript_snippet": "genuinely we had no proof and no rhyme or reason to think or suspect Israel whatsoever. It's really just been this insane behavior of covering up and lying that makes us question things. [58:13] Like that's the reality. And by",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9387",
+      "ref": "C-9387",
+      "label": "Host Says Charlie Owned the Security Company Around Him and Purchased It Outright",
+      "claim": "The host says Charlie Kirk owned the security company seen around him and actually purchased a security company outright. No document is shown.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11219",
+        "N-10646"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:49",
+      "investigative_direction": "Check corporate and procurement records for the security contractor's ownership and Kirk's or TPUSA's stake.",
+      "transcript_snippet": "Charlie owned the security company. So that security company you see that's around him, he owned it. He actually outright purchased a security company and it didn't matter and they didn't do anything. Clearly it was an act of vanity.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9388",
+      "ref": "C-9388",
+      "label": "Host Says Charlie Paid a Large Amount for Security That Did Not Check Rooftops",
+      "claim": "The host says Charlie Kirk was paying a large amount for his security and that they did not check rooftops, and that someone could have been posted on a rooftop.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11219",
+        "N-10646"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:49",
+      "investigative_direction": "Obtain the security plan, contracts and event site sweep records for the Utah Valley University event.",
+      "transcript_snippet": "The amount that he was paying for that security for them to not check rooftops. You could have someone actually requiring that you have access to rooftops. You could have",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9389",
+      "ref": "C-9389",
+      "label": "Host Says John and Arena Mappin Wrote a Letter the Day Before",
+      "claim": "The host says John and Arena Mappin (transcribed Mapel) wrote a letter the day before the episode saying that continuing Charlie's legacy means continuing to fight for truth. The letter is not shown.",
+      "anchored_artifacts": [
+        "A-3004.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:07:16",
+      "investigative_direction": "Locate the Mappins' published letter and compare it with the letter described in earlier episodes.",
+      "transcript_snippet": "I think John and Arena Mapel in that beautiful letter they wrote yesterday said it way more eloquently than I ever could. Which is if you if you actually continue",
+      "mentions_person_refs": [
+        "N-157",
+        "N-158",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9390",
+      "ref": "C-9390",
+      "label": "Host Says She Came From Turning Point USA and Helped Build It",
+      "claim": "The host says she never attacked Turning Point USA because she came from it, saw what it took to build the company and was part of building it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:07:16",
+      "investigative_direction": "Compare against the host's TPUSA employment and role history.",
+      "transcript_snippet": "I never attacked Turning Point USA cuz I came from Turning Point USA and I saw what it took to build that company because I was a part of building that company. But to the",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9391",
+      "ref": "C-9391",
+      "label": "Host Says TPUSA Has Explicitly Said It Is Working With the Feds",
+      "claim": "The host says it feels like TPUSA is working with the feds rather than the fighters, and that TPUSA has said explicitly that it is working with the feds.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:08:35",
+      "investigative_direction": "Find TPUSA public statements describing cooperation with federal investigators.",
+      "transcript_snippet": "They're not working with the fighters. It feels like they're working with the feds. They've said explicitly they're working with the feds. So I don't know what to make of",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9392",
+      "ref": "C-9392",
+      "label": "Host Says Charlie Would Call Her or Tucker and Direct Which Angle to Hit",
+      "claim": "The host says Charlie Kirk would call Tucker Carlson or her and say what to hit and where to go hard, like a maestro coordinating a symphony.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:08:35",
+      "investigative_direction": "Ask Carlson and others to corroborate examples of such calls.",
+      "transcript_snippet": "he'd call like Tucker or me and say you hit this, you go hard, you do this. I mean, he was as someone put put it today, he",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9393",
+      "ref": "C-9393",
+      "label": "Host Says the Mormon Community Has Never Accused Her of Being Anti-Utah and Has Assisted Her",
+      "claim": "The host says the Mormon community has never accused her of being anti-Utah or anti-Mormon and that people in it have been assisting and want to know what happened.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10125"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:09:20",
+      "investigative_direction": "Ask for examples of Utah residents' assistance and note the contrast with other groups she names.",
+      "transcript_snippet": "I do want to say shout out to the Mormon community for never accusing me of being anti Utah, anti Mormon, I don't know what, anti Latter-Day Saint. Sorry, I know nothing",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9394",
+      "ref": "C-9394",
+      "label": "Host Reads a Comment Saying Charlie Wanted Her on the AmFest Stage and They Tried to Stop Him",
+      "claim": "The host reads a viewer comment saying Charlie wanted her on stage at AmFest, that they tried to stop him, and says she feels that way. The claim is the commenter's, adopted by the host as a feeling.",
+      "anchored_artifacts": [
+        "A-3005.1"
+      ],
+      "related_nodes": [
+        "N-10106"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:10:16",
+      "investigative_direction": "Establish who tried to block the host's AmFest slot and obtain Kirk-side messages about it.",
+      "transcript_snippet": "Charlie wanted you on stage AmFest. They tried to stop him, but in doing so, he made sure that you had an even bigger stage. He knew pulling back the",
+      "supports_claim_refs": [
+        "C-1185"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9395",
+      "ref": "C-9395",
+      "label": "Host Says She Once Retweeted Max Blumenthal and Was Treated as the Worst Human for It",
+      "claim": "The host says she once retweeted Max Blumenthal and that they made her think she was the worst human, and that she took them at their word before realizing it was sinister.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:10:16",
+      "investigative_direction": "Identify the tweet and the backlash the host refers to.",
+      "transcript_snippet": "Like I once retweeted Max Blumenthal, and they made me think I was like the worst human. Um and I took them at their word before I realized it was",
+      "mentions_person_refs": [
+        "N-49",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9396",
+      "ref": "C-9396",
+      "label": "Host Says She Was Barred From Australia Though She Planned to Speak on Homeschooling, Children and Race",
+      "claim": "The host says she was banned from a country, that she was not even going to speak about Israel but about homeschooling, children, her backstory and race issues, and that the Zionist lobby nonetheless acted against her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11099"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:11:05",
+      "investigative_direction": "Review Australian visa decisions and the stated grounds for the refusal.",
+      "transcript_snippet": "I was going to speak about homeschooling and children and my backstory and race issues, and they were like you Okay, but you can still download my podcast on Spotify? I don't I don't understand.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9397",
+      "ref": "C-9397",
+      "label": "Host Says Constantin Kissin Urged Megyn Kelly to Make a Statement Against Candace and Tucker",
+      "claim": "The host says Constantin Kissin told Megyn Kelly she needed to make a statement against Candace and Tucker, and that someone else told Kelly Candace doesn't even hate the left anymore.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:12:42",
+      "investigative_direction": "Find Kissin's public statements and any reporting of his exchange with Kelly.",
+      "transcript_snippet": "Constantin Kissin, when he was like, \"You need to make a statement against Candace and Tucker.\" Um somebody else was saying to her, \"Candace doesn't",
+      "mentions_person_refs": [
+        "N-141",
+        "N-46",
+        "N-3",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9398",
+      "ref": "C-9398",
+      "label": "Host Announces She Will Take About Ten Days Off Starting Next Week to Mourn Charlie",
+      "claim": "The host announces she will take next week off, about 10 days, to mourn Charlie Kirk, and says she will still post occasional Instagram updates.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:13:32",
+      "investigative_direction": "Compare against the actual publication schedule after October 8.",
+      "transcript_snippet": "I am going to take uh next week off. I'm going to take about 10 days off, actually. I'll give you more details about that tomorrow, but you know, I",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-44",
+      "ref": "M-44",
+      "canonical_term": "It's Giving",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 17,
+          "video_timestamp": "01:09:20",
+          "speaker_node_ref": "N-3",
+          "quote": "It's giving Joey from Friends. Do they know that we know know?",
+          "context": "Chat donation comment elevated on air: vibe-match meme.",
+          "confidence": "high",
+          "tags": [
+            "gen_z",
+            "chat_elevate",
+            "residual"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-45",
+      "ref": "M-45",
+      "canonical_term": "Spiritual Warfare",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 17,
+          "video_timestamp": "01:10:16",
+          "speaker_node_ref": "N-3",
+          "quote": "pulling back the veil on the current spiritual warfare needed to be shown by you on a global stage.",
+          "context": "Chat tribute frames Charlie's death and Candace's stage as spiritual warfare.",
+          "confidence": "high",
+          "tags": [
+            "faith",
+            "chat_elevate",
+            "frame"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 17,
+          "video_timestamp": "00:44:03",
+          "speaker_node_ref": "N-3",
+          "quote": "you can send that, by the way, to uh tips@candaceowens. com",
+          "context": "Host asks viewers to email UVU footage to the tip addresses.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "tip line"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 17,
+          "video_timestamp": "01:14:50",
+          "speaker_node_ref": "N-3",
+          "quote": "Join us in prison when Laura Loomer sends us for writing CIA in parody.",
+          "context": "Host plugs the CIA merch and jokes about Loomer sending them to prison.",
+          "confidence": "high",
+          "tags": [
+            "cia",
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 17,
+          "video_timestamp": "01:14:50",
+          "speaker_node_ref": "N-3",
+          "quote": "you can buy our we don't know know, but we know brand stuff",
+          "context": "Host plugs the brand merch at the close.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "brand"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-37",
+      "ref": "M-37",
+      "canonical_term": "Grifter",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 17,
+          "video_timestamp": "00:24:35",
+          "speaker_node_ref": "N-3",
+          "quote": "he's completely grifting off of Charlie's death",
+          "context": "Host says Hammer grifts off Charlie's death by promoting his book.",
+          "confidence": "high",
+          "tags": [
+            "grift",
+            "hammer"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 17,
+          "video_timestamp": "01:09:20",
+          "speaker_node_ref": "N-3",
+          "quote": "Follow the money, it never lies. Christ is king. Team Candace.",
+          "context": "Host reads a chat comment ending with the refrain.",
+          "confidence": "high",
+          "tags": [
+            "chat_elevate",
+            "faith"
+          ]
+        },
+        {
+          "episode": 17,
+          "video_timestamp": "01:11:05",
+          "speaker_node_ref": "N-3",
+          "quote": "Greetings from Croatia. Christ is king.",
+          "context": "Host reads a chat comment ending with the refrain.",
+          "confidence": "high",
+          "tags": [
+            "chat_elevate",
+            "faith"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-245",
+      "ref": "M-245",
+      "canonical_term": "Kill Switch",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 17,
+          "video_timestamp": "00:00:44",
+          "speaker_node_ref": "N-3",
+          "quote": "I decided to activate an effective kill switch",
+          "context": "Host previews explaining her kill switch.",
+          "confidence": "high",
+          "tags": [
+            "kill switch",
+            "preview"
+          ]
+        },
+        {
+          "episode": 17,
+          "video_timestamp": "00:52:07",
+          "speaker_node_ref": "N-3",
+          "quote": "was to create a kill switch, right?",
+          "context": "Host explains the kill switch she discussed the day before.",
+          "confidence": "high",
+          "tags": [
+            "kill switch",
+            "dead man switch"
+          ]
+        }
+      ]
+    }
+  ]
 }

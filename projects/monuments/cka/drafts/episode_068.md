@@ -6,13 +6,17 @@
 - **YouTube id**: QRS_hR7NXaQ
 - **Candace Ep**: 301
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:53:29
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 95f8b851983eeb6236c86655647510896988e621e75778a3c5ea5286c4493c32
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-548, N-549, N-550, N-551, N-552, N-553, N-554, N-555, N-556, N-10477, N-10478, N-10479, N-10480, N-10481, N-10482, N-10483, N-10484
-  - Reused Nodes Appearing: 
+  - Hole-minted Nodes (reintro-ep068): N-10521
+  - Tip-minted Nodes (reintro-ep068): N-10922, N-10956
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10d): C-10011–C-10058
+  - New Nodes Introduced: N-548, N-549, N-550, N-551, N-552, N-553, N-554, N-555, N-556, N-10478, N-10479, N-10480, N-10481, N-10483, N-10484
+  - Reused Nodes Appearing: N-10482, N-10477, N-3, N-9, N-11, N-50, N-203, N-374, N-509, N-546, N-10000, N-10197, N-10268, N-10397, N-10416, N-10435, N-10440, N-10441, N-10472, N-10473, N-10653, N-10900, N-10968, N-11099, N-11180
   - (see registers)
 
 # Episode 68 Analysis – Bride of Charlie
@@ -31,6 +35,39 @@
 - **YouTube ID:** QRS_hR7NXaQ
 - **Duration:** 53:29
 
+## 6. Meme Register
+
+**M-255** (meme) Muggles
+
+### Occurrence 1
+
+Video Timestamp: 00:00:53
+Speaker: N-3
+Quote: We're essentially the muggles.
+Context: Opens the Iraq segment with the muggle framing.
+Tags: occult, Harry Potter
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:02:30
+Speaker: N-3
+Quote: let's recap the muggle edition of what we were told
+Context: Introduces her sarcastic 9/11 recap.
+Tags: 9/11, sarcasm
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:52:42
+Speaker: N-3
+Quote: You will no longer muggle us.
+Context: Closing line of the episode.
+Tags: closing refrain
+Confidence: high
+
+---
+
 ### Episode 68 Ledger Summary
 
 - **Artifact Families Introduced:** A-1727, A-1728, A-1729, A-1730, A-1731, A-1732, A-1733, A-1734, A-1735, A-1736, A-1737
@@ -38,6 +75,41 @@
 - **New People Nodes Introduced:** N-548, N-549, N-500, N-194, N-15, N-97, N-550, N-551, N-552, N-553, N-554, N-7, N-555, N-556
 - **New Investigation Target Nodes Introduced:** N-10477, N-10478, N-10479, N-10480, N-10481, N-10482, N-10483, N-10484
 - **Existing Nodes Reused:** None specified in transcript for this episode; references to recurring figures (Charlie Kirk, Erika Kirk, Candace Owens, etc.) handled through the global people ledger (N-1 series per protocol)
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:33:16
+Speaker: N-3
+Quote: please email us more tips at candace Owens. com
+Context: Tip call on the alibi.
+Tags: tips, DIA
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:45:36
+Speaker: N-3
+Quote: You can send us an email more candace. com.
+Context: Second tip call.
+Tags: tips, DIA
+Confidence: high
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 00:34:12
+Speaker: N-3
+Quote: Christ is king, as we say.
+Context: Sign-off line before the conference announcement.
+Tags: refrain
+Confidence: high
 
 ---
 
@@ -216,6 +288,94 @@ Video Timestamp: 00:44:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host paraphrase)
 *Related: C-2297, N-552*
+
+---
+
+**A-3045** Passport Found News Clip Bundle
+
+**A-3045.1** News clip played on air in which a reporter says the FBI found a hijacker's passport near the World Trade Center site
+
+Quoted text: "Uh the FBI announcing that it has found the passport of one of the hijackers"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:03:21
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-10011, N-3*
+
+---
+
+**A-3046** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3046.1** Host verbal call for tips at the candaceowens.com tip email about the alibi
+
+Quoted text: "please email us more tips at candace Owens. com"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:33:16
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10043, N-3*
+
+---
+
+**A-3046.2** Host verbal call for tips by message and email
+
+Quoted text: "You can send us an email more candace. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:45:36
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10055, N-3*
+
+---
+
+**A-3047** Conference Promo Clip Bundle
+
+**A-3047.1** Promo clip for the Catholics for Catholics conference played on air
+
+Quoted text: "Charlie predicted that one day when he himself would die young that Candace would become a David in the fight for America."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:36:14
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-10047, N-3*
+
+---
+
+**A-3048** Ariel Viewer Comment Bundle
+
+**A-3048.1** Viewer comment from Ariel about Erika's Zoom remarks read on air
+
+Quoted text: "I don't understand why Erika kept saying we need to stay humble."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:46:39
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10056, N-3*
+
+---
+
+**A-3049** Moderator Marzy Finkelstein Comment Bundle
+
+**A-3049.1** Moderator Marzy comment about Epstein, Dershowitz and Finkelstein read on air
+
+Quoted text: "Epstein and Duruit contacted Finkelestein, but he called them pedophiles and threatened to hurt them."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:50:17
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10058, N-3*
 
 ---
 
@@ -401,6 +561,230 @@ Investigative Pressure: Medium
 
 ---
 
+**N-1** Charlie Kirk
+
+Subject of the host's Sept 7 to 10 timeline reconstruction.
+
+*Related: C-10027, C-10030, C-10031, C-10033, C-10034, C-10035, C-10036, C-10038, C-10046, C-10047, C-10054*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO whose Sept 8 and Sept 10 whereabouts the host questions.
+
+*Related: C-10019, C-10021, C-10022, C-10023, C-10024, C-10025, C-10026, C-10027, C-10028, C-10029, C-10031, C-10036, C-10037, C-10038, C-10039, C-10040, C-10054, C-10056*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-10018, C-10020, C-10024, C-10028, C-10029, C-10030, C-10031, C-10032, C-10039, C-10040, C-10041, C-10042, C-10043, C-10044, C-10045, C-10046, C-10047, C-10048, C-10050, C-10051, C-10052, C-10053, C-10054, C-10055*
+
+---
+
+**N-11** Tyler Bowyer
+
+TPUSA figure the host says knows Erika's mother.
+
+*Related: C-10022*
+
+---
+
+**N-50** Sigmund Freud
+
+Quoted by the host (rendered 'Sigman Freud') as having said he had to be Satan.
+
+*Related: C-10057*
+
+---
+
+**N-9** Jeffrey Epstein
+
+Named in a moderator comment about contact with Norman Finkelstein.
+
+*Related: C-10058*
+
+---
+
+**N-203** Norman Finkelstein
+
+Subject of a moderator comment praised by the host.
+
+*Related: C-10058*
+
+---
+
+**N-546** Alan Dershowitz
+
+Transcribed 'Duruit' in the moderator comment read on air.
+
+*Related: C-10058*
+
+---
+
+**N-374** Jeremy Boreing
+
+Daily Wire co-founder, named as present when staff kept a clip file.
+
+*Related: C-10051*
+
+---
+
+**N-509** Bassem Youssef
+
+Transcribed 'Bassim Ysef'; subject of a remark in the Shapiro clip.
+
+*Related: C-10050*
+
+---
+
+**N-10000** Turning Point USA
+
+Organization at the center of the host's military and ties claims.
+
+*Related: C-10018, C-10021, C-10022, C-10025*
+
+---
+
+**N-10197** TPUSA Military-Personnel Network
+
+Existing topic reused for the host's military-operation remarks.
+
+*Related: C-10018, C-10019*
+
+---
+
+**N-10268** AmFest Speaker Removal Pattern
+
+Existing topic reused for the host's AmFest slot remark.
+
+*Related: C-10054*
+
+---
+
+**N-10397** Charlie Kirk Korea Trip / Pastor Yoon Connection
+
+Existing topic reused for the Korea and Tokyo return.
+
+*Related: C-10033*
+
+---
+
+**N-10416** Daily Wire Stalking Pattern
+
+Existing topic reused for the clip-file claim.
+
+*Related: C-10051*
+
+---
+
+**N-10435** Fort Wuka Erika Kirk Location Investigation
+
+Existing topic reused for the dinner alibi and cease-and-desist claims.
+
+*Related: C-10038, C-10039, C-10041*
+
+---
+
+**N-10440** Desert Spirit Tech LLC Business Purpose Question
+
+Existing topic reused for the host's LLC remarks.
+
+*Related: C-10020*
+
+---
+
+**N-10441** Euro Tech / Cincinnati Business Investigation
+
+Existing topic reused for the Cincinnati connection.
+
+*Related: C-10020*
+
+---
+
+**N-10472** Fort Huachuca Alibi Investigation
+
+Existing topic reused for the dinner alibi claim.
+
+*Related: C-10038*
+
+---
+
+**N-10473** Charlie Kirk Sept 8–10 Timeline Reconstruction
+
+Existing topic reused for the Sept 8 schedule claims.
+
+*Related: C-10031, C-10033, C-10034, C-10035*
+
+---
+
+**N-10521** Erika Kirk September 8 Presence Verification
+
+Existing topic reused for the neighbor-verification claim.
+
+*Related: C-10037*
+
+---
+
+**N-10653** Turning Point Geofencing / Show Faith by Works Link
+
+Existing topic reused for the geofencing remark.
+
+*Related: C-10021*
+
+---
+
+**N-10900** Daily Wire
+
+Organization behind All Access and the clip file.
+
+*Related: C-10048, C-10051*
+
+---
+
+**N-10922** Superfeed
+
+Company the host links to Erika's mother.
+
+*Related: C-10021*
+
+---
+
+**N-10956** Catholics for Catholics
+
+Conference where the host says she will speak.
+
+*Related: C-10044, C-10047*
+
+---
+
+**N-10968** The New York Times
+
+Outlet named among those Erika admitted.
+
+*Related: C-10054*
+
+---
+
+**N-11099** Candace Owens Australia Visa Review
+
+Existing topic reused for the blocked tour claim.
+
+*Related: C-10045*
+
+---
+
+**N-11180** TPUSA Cease and Desist Letter to Candace Owens
+
+Existing topic reused for the cease-and-desist claim.
+
+*Related: C-10041*
+
+---
+
 ## V. Claim Register
 
 **C-2283** Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day
@@ -542,6 +926,758 @@ Claim: Kevin Sorbo tweeted that he left Hollywood because the people involved we
 Anchored Artifacts: A-1737.1
 Mentions: N-552
 Investigative Direction: Locate the tweet and verify exact wording and date.
+
+---
+
+**C-10011** FBI passport-found clip aired in 9/11 recap
+
+Claim Timestamp: 00:03:21
+
+Claim: The host plays a news clip in which a reporter says the FBI announced it had found the passport of one of the hijackers a couple of blocks from the World Trade Center site; the host offers it as part of the 'muggle edition' of 9/11.
+
+Transcript Snippet: the FBI announcing that it has found the passport of one of the hijackers who were on who was on board one of those two planes that hit the Twin Towers on Tuesday morning
+
+Anchored Artifacts: A-3045.1
+Tags: relevance:tangential
+Investigative Direction: Identify the original 2001 broadcast and the FBI statement on the passport.
+
+---
+
+**C-10012** Host says Gilgamesh epic is the Nimrod story
+
+Claim Timestamp: 00:04:56
+
+Claim: The host says the Epic of Gilgamesh is understood to be the story of Nimrod in the Bible, a warrior who rebelled against God and set up a kingdom in Mesopotamia and Assyria.
+
+Transcript Snippet: the epic of Gilgamesh of Aruk understood to be actually the story of Nimrod in the Bible
+
+Anchored Artifacts: 
+Related Nodes: N-10480
+Tags: relevance:tangential
+Investigative Direction: Compare scholarly sources on any Gilgamesh and Nimrod identification.
+
+---
+
+**C-10013** Host says US base was built at the exact tomb location
+
+Claim Timestamp: 00:09:03
+
+Claim: The host says the US military made its base at the exact location where Fastbinder had reported finding Gilgamesh's tomb, after the March 2003 invasion.
+
+Transcript Snippet: they happen to make their b their military base at that exact location
+
+Anchored Artifacts: 
+Mentions: N-548
+Related Nodes: N-10481, N-10480
+Supports: C-2290
+Tags: relevance:context
+Investigative Direction: Compare the coordinates of the Fastbinder survey with the coalition camp at Babylon.
+
+---
+
+**C-10014** Host says military base was Camp Alpha atop Babylon
+
+Claim Timestamp: 00:10:00
+
+Claim: The host says the US set up its military base, Camp Alpha, on top of ancient Babylon, and that the stated reason was to protect the site from looters.
+
+Transcript Snippet: set up our military base, Camp Alpha, right on top of ancient Babylon
+
+Anchored Artifacts: 
+Related Nodes: N-10481
+Supports: C-2289
+Tags: relevance:context
+Investigative Direction: Check Camp Alpha records and the 2005 British Museum report on its siting.
+
+---
+
+**C-10015** Host says locals saw Americans digging at night
+
+Claim Timestamp: 00:11:55
+
+Claim: The host says locals reported that at night Americans were digging and extracting at the Babylon site in military operations.
+
+Transcript Snippet: Locals reported that at night Americans were digging and they were extracting in military operations.
+
+Anchored Artifacts: 
+Related Nodes: N-10480, N-10481
+Tags: relevance:tangential
+Investigative Direction: Locate the original reports by Iraqi locals or archaeologists describing night digging.
+
+---
+
+**C-10016** Host says Masonic tradition calls Nimrod first grandmaster
+
+Claim Timestamp: 00:13:08
+
+Claim: The host says that in Masonic tradition Nimrod is considered the first grandmaster, even before Solomon, and that Freemasons revere him.
+
+Transcript Snippet: In Masonic tradition, Nimrod is considered to be the first grandmaster even before Solomon.
+
+Anchored Artifacts: 
+Tags: relevance:tangential
+Investigative Direction: Check Masonic sources such as the Old Charges for Nimrod's role.
+
+---
+
+**C-10017** Host cites unexplained FOIA to State Dept on Gilgamesh
+
+Claim Timestamp: 00:14:09
+
+Claim: The host says an unexplained FOIA request went to the State Department seeking documents on the 'resurrection chamber of Gilgamesh', the location of his body and the location of buried Nephilim.
+
+Transcript Snippet: there was this still never quite explained FOIA request that went through um to the state department requesting documents pertaining to the resurrection chamber of Gilgamesh
+
+Anchored Artifacts: 
+Related Nodes: N-10480
+Tags: relevance:tangential
+Investigative Direction: Locate the State Department FOIA log entry and the requester.
+
+---
+
+**C-10018** Host says TPUSA became a literal military operation
+
+Claim Timestamp: 00:20:33
+
+Claim: The host says she does not know when Turning Point became a literal military operation, but it did, and that she sees constant military involvement in the Charlie Kirk story.
+
+Transcript Snippet: I said I don't know when turning point just became a literal military operation, but indeed it did.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000, N-10197
+Tags: relevance:core
+Investigative Direction: Document the military service records of TPUSA staff and associates.
+
+---
+
+**C-10019** Host says Erika and her mother have strong military ties
+
+Claim Timestamp: 00:21:12
+
+Claim: The host says the people around the case have strong military ties, including Erika Kirk and in particular her mother.
+
+Transcript Snippet: All these people with very strong ties to the military. Um, his wife included, right? Uh, her mother in particular.
+
+Anchored Artifacts: 
+Mentions: N-2, N-500
+Related Nodes: N-10197
+Tags: relevance:core
+Investigative Direction: Verify any military service or contracting history for Erika Kirk and Lori Frantzve.
+
+---
+
+**C-10020** Host says Erika's mother has an almost incalculable number of LLCs
+
+Claim Timestamp: 00:21:12
+
+Claim: The host says that, while building Erika's timeline, she found Erika's mother has an almost incalculable number of LLCs, with connections from France to Arizona to Cincinnati to Massachusetts.
+
+Transcript Snippet: she has a number of LLC's. And when I say a number, I mean it it's almost incalculable the amount of LLC's
+
+Anchored Artifacts: 
+Mentions: N-500, N-3
+Related Nodes: N-10440, N-10441
+Tags: relevance:core
+Investigative Direction: Pull Secretary of State filings for every entity listing Lori Frantzve as officer or agent.
+
+---
+
+**C-10021** Host says mother sits on boards of TPUSA-related companies
+
+Claim Timestamp: 00:22:16
+
+Claim: The host says Erika's mother sits on the board of companies related to Turning Point USA and is involved with geofencing, naming a company called Superfeed Technologies.
+
+Transcript Snippet: her mother sits on the board of companies related to Turning Point USA, despite the fact that her mother is involved with sort of the geo fencing
+
+Anchored Artifacts: 
+Mentions: N-500, N-2
+Related Nodes: N-10000, N-10922, N-10653
+Tags: relevance:core
+Investigative Direction: Check board and officer records for Superfeed and related TPUSA vendors.
+
+---
+
+**C-10022** Host says TPUSA staff do not know Erika's mother but Bowyer does
+
+Claim Timestamp: 00:22:16
+
+Claim: The host says people at Turning Point USA do not know Erika's mother, though Tyler Bowyer knows her and keeps her in the background.
+
+Transcript Snippet: Actually, if you ask people at Turning Point USA, they don't know her mother.
+
+Anchored Artifacts: 
+Mentions: N-11, N-500, N-2
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Ask TPUSA staff and Bowyer about their dealings with Lori Frantzve.
+
+---
+
+**C-10023** Host says Erika's mother stood beside her behind Trump in 2015
+
+Claim Timestamp: 00:22:16
+
+Claim: The host says Erika's mother was present next to Erika in 2015 when Erika was standing behind Trump.
+
+Transcript Snippet: her mother was, you know, present next to Erika in 2015 when she was standing behind Trump
+
+Anchored Artifacts: 
+Mentions: N-500, N-2
+Tags: relevance:context
+Investigative Direction: Find 2015 event photos showing Erika and her mother behind Trump.
+
+---
+
+**C-10024** Host says only strong emotion at the Erika meeting was about her mother
+
+Claim Timestamp: 00:22:16
+
+Claim: The host says that when she met Erika, the only time she sensed very strong emotion from her was when her mother was mentioned.
+
+Transcript Snippet: that was the only time that I sensed very strong emotion from her was in mentioning her mother
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-500
+Tags: relevance:core
+Investigative Direction: Compare with the host's earlier accounts of the private meeting with Erika.
+
+---
+
+**C-10025** Host says Dec 16 was Erika's first Zoom call as CEO and chairman
+
+Claim Timestamp: 00:23:34
+
+Claim: The host says December 16 was when Erika hosted her first Zoom call as the new CEO and chairman, offered as a possible referent for the '10 days until' countdown she thinks was otherwise planned.
+
+Transcript Snippet: December 16th 10 as actually when she hosted her first Zoom call with um as the new CEO and chairman
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10000, N-10479
+Tags: relevance:context
+Investigative Direction: Confirm the date of Erika's first CEO Zoom with TPUSA announcements.
+
+---
+
+**C-10026** Host says McCoy call was brief and Erika collapsed in the parking lot
+
+Claim Timestamp: 00:25:21
+
+Claim: The host says the McCoy and Erika call was brief, a couple of minutes, after which Erika is said to have left her mother in treatment and then collapsed in the parking lot.
+
+Transcript Snippet: We know that they had a very brief call a couple of minutes and then we are told that she left her mother who was receiving a medical treatment and then she collapsed in the parking lot.
+
+Anchored Artifacts: 
+Mentions: N-194, N-2, N-500
+Related Nodes: N-10478, N-10482
+Supports: C-2294
+Tags: relevance:core
+Investigative Direction: Obtain the account of the parking lot collapse and the name of the facility.
+
+---
+
+**C-10027** Host says Charlie allegedly trained McCoy what to do
+
+Claim Timestamp: 00:25:21
+
+Claim: The host says Charlie allegedly trained Mikey McCoy to walk away and call his wife and then Erika, and she does not buy the call order that was reported.
+
+Transcript Snippet: So much for that training that Charlie allegedly gave him.
+
+Anchored Artifacts: 
+Mentions: N-194, N-1, N-2
+Related Nodes: N-10482
+Tags: relevance:core
+Investigative Direction: Find the original source of the claim that Charlie trained McCoy on emergency calls.
+
+---
+
+**C-10028** Host says Strife delayed her Sept 8 alibi request
+
+Claim Timestamp: 00:25:21
+
+Claim: The host says she contacted Justin Strife trying to learn what Erika was doing on September 8 and that his answer kept being delayed, with the mother's illness given as the reason.
+
+Transcript Snippet: when I was contacting Justin Strife trying to figure out what Erika was doing on September 8th just wanting some sort of an alibi and it kept getting delayed
+
+Anchored Artifacts: A-1735.1
+Mentions: N-15, N-2, N-3
+Related Nodes: N-10477
+Supports: C-2295
+Tags: relevance:core
+Investigative Direction: Obtain the full Strife thread with timestamps.
+
+---
+
+**C-10029** Host says lighting in Strife's messages does not look like a hospital
+
+Claim Timestamp: 00:25:21
+
+Claim: The host says the messages Strife sent her show lighting that does not look like a hospital and looks like Erika's apartment building.
+
+Transcript Snippet: I can confirm at the messages that he sent me certainly the lighting does not look like she is in a hospital.
+
+Anchored Artifacts: A-1735.1
+Mentions: N-15, N-2, N-3
+Related Nodes: N-10478
+Tags: relevance:core
+Investigative Direction: Examine any images in the Strife messages and their metadata.
+
+---
+
+**C-10030** Host says Charlie flew Erika's mother overseas for Lyme treatment
+
+Claim Timestamp: 00:27:11
+
+Claim: The host says Charlie told her he was flying Erika's mother overseas for Lyme disease treatments because better options exist in Europe.
+
+Transcript Snippet: he was flying out her mother to do treatments for Lyme disease overseas because there was better treatment in Europe options available
+
+Anchored Artifacts: 
+Mentions: N-1, N-500, N-3
+Related Nodes: N-10483
+Tags: relevance:core
+Investigative Direction: Verify any Charlie-funded European medical trips for Lori Frantzve.
+
+---
+
+**C-10031** Host says Charlie took Erika's mother to a clinic on Sept 8
+
+Claim Timestamp: 00:28:00
+
+Claim: The host says she has learned that on September 8 Charlie took Erika's mother to a Lyme disease treatment at a clinic, and that she holds the clinic's address and name but will not publish them.
+
+Transcript Snippet: on September 8th, we can pull up the timeline here, that Charlie Charlie took Erika's mother for a treatment for Lyme disease at a clinic. I have the address, the name of the clinic.
+
+Anchored Artifacts: 
+Mentions: N-1, N-500, N-2, N-3
+Related Nodes: N-10483, N-10477, N-10473
+Tags: relevance:core
+Investigative Direction: Obtain clinic records or witness accounts for September 8 visits.
+
+---
+
+**C-10032** Host says these treatments last one to two hours
+
+Claim Timestamp: 00:28:00
+
+Claim: The host says she is told the holistic treatments at such a center last between one and two hours.
+
+Transcript Snippet: I am told that these treatments last between one to two hours.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10483
+Tags: relevance:context
+Investigative Direction: Ask the clinic about its typical session length.
+
+---
+
+**C-10033** Host says Charlie returned from Korea and Tokyo late Sept 7
+
+Claim Timestamp: 00:28:00
+
+Claim: The host says Charlie returned from his Korea and Tokyo trip very late on September 7 or early September 8, landing in California and continuing to Arizona.
+
+Transcript Snippet: Charlie came back from Korea and Tokyo, his trip very late, almost early morning on September 8th, very late on the 7th.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10397, N-10473
+Tags: relevance:core
+Investigative Direction: Obtain flight and landing records for the return from Asia.
+
+---
+
+**C-10034** Host says Charlie was home in his studio on Sept 8
+
+Claim Timestamp: 00:29:33
+
+Claim: The host says Charlie appeared from his home studio for the Charlie Kirk show on September 8 and did not go to the office that day.
+
+Transcript Snippet: he's at home when he appears uh in his home studio for the Charlie Kirk show. He does not go to the office on this day
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10473
+Tags: relevance:core
+Investigative Direction: Check the Sept 8 show metadata and studio location.
+
+---
+
+**C-10035** Host says the clinic visit must fit between 12 and 3:30
+
+Claim Timestamp: 00:29:33
+
+Claim: The host says that, accounting for driving time, the treatment would have had to occur between 12 and 3:30 on September 8.
+
+Transcript Snippet: this treatment having to have taken place between 12 and 3:30.
+
+Anchored Artifacts: 
+Mentions: N-1, N-500
+Related Nodes: N-10473
+Tags: relevance:core
+Investigative Direction: Reconstruct Charlie's Sept 8 schedule against that window.
+
+---
+
+**C-10036** Host says Turek's 'dealing with the kids' statement suggests Erika was absent
+
+Claim Timestamp: 00:29:33
+
+Claim: The host says Frank Turek's statement that Charlie was dealing with the kids makes her think Erika was not around on September 8.
+
+Transcript Snippet: because of Frank Turk's statement where he says Charlie was dealing with the kids
+
+Anchored Artifacts: 
+Mentions: N-7, N-1, N-2
+Related Nodes: N-10477
+Tags: relevance:core
+Investigative Direction: Obtain Turek's original statement and its date.
+
+---
+
+**C-10037** Host says no neighbor can confirm Erika on Sept 8
+
+Claim Timestamp: 00:29:33
+
+Claim: The host says she cannot find anyone in the residence complex who can verify seeing Erika on September 8, though they verified seeing her on September 9.
+
+Transcript Snippet: I can't find a single person in this complex that they live that can verify that they saw Erika on this day and they know her.
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10477, N-10521
+Tags: relevance:core
+Investigative Direction: Interview residents and review building access records.
+
+---
+
+**C-10038** Host says Erika's dinner story is the Fort Huachuca alibi
+
+Claim Timestamp: 00:30:53
+
+Claim: The host says Erika's account that she made Charlie dinner has been the alibi for the Fort Huachuca question, and that the host has many questions about that timeline.
+
+Transcript Snippet: Erika says that she made Charlie dinner that has been the the alibi for Fort Wuka.
+
+Anchored Artifacts: 
+Mentions: N-2, N-1
+Related Nodes: N-10435, N-10472
+Tags: relevance:core
+Investigative Direction: Find where Erika or TPUSA stated the dinner account.
+
+---
+
+**C-10039** Host says timeline points to Erika not being home on Sept 8
+
+Claim Timestamp: 00:30:53
+
+Claim: The host says her timeline points to the possibility that Erika was not at home on September 8 at all.
+
+Transcript Snippet: It is pointing to uh the possibility that Erika was just not there on the ETH at all.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10477, N-10435
+Tags: relevance:core
+Investigative Direction: Locate independent evidence of Erika's Sept 8 location.
+
+---
+
+**C-10040** Host says Strife switched basketball game to football game
+
+Claim Timestamp: 00:30:53
+
+Claim: The host says that after she told Strife a fan had seen Erika at a basketball game, the reply was it was a football game, after earlier saying Erika was unavailable with her mother in the hospital.
+
+Transcript Snippet: And then it was like, "Oh, oh yeah, a was it a football game, Skyler? A football game."
+
+Anchored Artifacts: 
+Mentions: N-15, N-2, N-3
+Related Nodes: N-10477
+Tags: relevance:core
+Investigative Direction: Obtain the thread and identify the fan sighting.
+
+---
+
+**C-10041** Host says cease and desist followed her Fort Huachuca request
+
+Claim Timestamp: 00:30:53
+
+Claim: The host says a couple of days after she was finally given something, she received a cease and desist that mentioned Fort Huachuca.
+
+Transcript Snippet: a couple of days later they send me a cease and desist and they they mention Fort Wuka.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11180, N-10435
+Tags: relevance:core
+Investigative Direction: Obtain the letter, its sender and its date.
+
+---
+
+**C-10042** Host says she has names of two clinics for the 8th and 10th
+
+Claim Timestamp: 00:33:16
+
+Claim: The host says she has the names of two different clinics, one visited on September 10 and one on September 8.
+
+Transcript Snippet: I do have the names of two different clinics, by the way, because they were two different clinics, the one on the 10th versus the one on the ETH.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10483, N-10477
+Tags: relevance:core
+Investigative Direction: Request records for both named clinics.
+
+---
+
+**C-10043** Host asks for tips at the tip email on the alibi
+
+Claim Timestamp: 00:33:16
+
+Claim: The host asks viewers with information on the clinics and Erika's alibi to email more tips to candaceowens.com.
+
+Transcript Snippet: please email us more tips at candace Owens. com
+
+Anchored Artifacts: A-3046.1
+Mentions: N-3
+Tags: relevance:core, dia
+Investigative Direction: Review tips received at the tip address.
+
+---
+
+**C-10044** Host announces speaking at Catholics for Catholics on March 19
+
+Claim Timestamp: 00:34:12
+
+Claim: The host says she will speak at the Catholics for Catholics conference on March 19 in Washington DC.
+
+Transcript Snippet: I will be speaking at the Catholics for Catholics conference on March 19th in Washington DC.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10956
+Tags: relevance:context
+Investigative Direction: Check the conference program for the date.
+
+---
+
+**C-10045** Host says the Zionist lobby blocked her Australia tour
+
+Claim Timestamp: 00:34:12
+
+Claim: The host says she was supposed to tour Australia but was blocked by the Zionist lobby of Australia.
+
+Transcript Snippet: I was supposed to go on that tour in Australia, but I got blocked by the Zionist lobby of Australia.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11099
+Tags: relevance:context
+Investigative Direction: Obtain the Australian visa decision.
+
+---
+
+**C-10046** Host says she was to tour with Charlie before he died
+
+Claim Timestamp: 00:34:12
+
+Claim: The host says she was supposed to be on tour with Charlie before he died but was blocked by Zionists in America.
+
+Transcript Snippet: I was supposed to be on tour with Charlie before he died, but I got blocked by Zionists here in America.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:core
+Investigative Direction: Find tour announcements or correspondence about a planned joint tour.
+
+---
+
+**C-10047** Conference promo says Charlie predicted Candace as David
+
+Claim Timestamp: 00:36:14
+
+Claim: A promotional clip for the conference says Charlie predicted that when he died young, Candace would become a David in the fight for America.
+
+Transcript Snippet: Charlie predicted that one day when he himself would die young that Candace would become a David in the fight for America.
+
+Anchored Artifacts: A-3047.1
+Mentions: N-1, N-3
+Related Nodes: N-10956
+Tags: relevance:context
+Investigative Direction: Identify who is speaking in the promo and the basis for the prediction.
+
+---
+
+**C-10048** Host says All Access producers write seed questions
+
+Claim Timestamp: 00:37:23
+
+Claim: The host says that at All Access sessions a producer will write in questions to get discussion going, and that she imagines producers are writing questions Ben wants asked so he can answer and diss her.
+
+Transcript Snippet: a producer will just kind of write in some questions like before people jump online
+
+Anchored Artifacts: 
+Mentions: N-97, N-3
+Related Nodes: N-10900
+Tags: relevance:context
+Investigative Direction: Ask former Daily Wire staff about All Access practice.
+
+---
+
+**C-10049** Shapiro clip jokes about Nazi breakfast foods
+
+Claim Timestamp: 00:39:16
+
+Claim: In the clip, Shapiro jokes about pronouncing 'blitzkrieg' and Nazi breakfast foods including 'luft waffles', in response to the host's earlier temperature remark.
+
+Transcript Snippet: other Nazi breakfast foods besides blitzk eggs which may include luft waffles
+
+Anchored Artifacts: A-1733.1
+Mentions: N-97
+Tags: relevance:context
+Investigative Direction: View the All Access video segment.
+
+---
+
+**C-10050** Shapiro clip says Candace told Bassem Youssef about his childhood
+
+Claim Timestamp: 00:40:16
+
+Claim: In the clip, Shapiro says Candace interviewed Bassem Youssef and told him she thinks something bad happened in his childhood because he fixated and lacks empathy.
+
+Transcript Snippet: Candace also interviewed Bassim Ysef and told him she thinks something bad happened in your childhood because you fixated and lack empathy.
+
+Anchored Artifacts: A-1733.1
+Mentions: N-97, N-509, N-3
+Tags: relevance:context
+Investigative Direction: Check the host's interview with Youssef for the childhood remark.
+
+---
+
+**C-10051** Host says Daily Wire kept a file of her clips for influencers
+
+Claim Timestamp: 00:41:18
+
+Claim: The host says that when Jeremy was at the Daily Wire, staff kept a file of clips of her show and sent it to influencers, taking her out of context.
+
+Transcript Snippet: They used to keep a file and then they would send it around to all their influencers of clips of the show
+
+Anchored Artifacts: 
+Mentions: N-374, N-3
+Related Nodes: N-10900, N-10416
+Tags: relevance:context
+Investigative Direction: Obtain any internal clip files sent to influencers.
+
+---
+
+**C-10052** Host promotes signed Make a Sandwich and Blackout bundle
+
+Claim Timestamp: 00:44:15
+
+Claim: The host says there is a signed bundle of hard copies of Make a Sandwich and Blackout, each signed by her.
+
+Transcript Snippet: you can buy an autographed bundle, hard copy, available of Make a Sandwich and Blackout, both hands signed by me
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Check the merch listing.
+
+---
+
+**C-10053** Host says subscription tiers merged into one club tier
+
+Claim Timestamp: 00:44:15
+
+Claim: The host says her subscription tiers were merged into one tier at $1.99 a month or $120 a year.
+
+Transcript Snippet: We've also merged our subscription tiers into one club canist tier for $1.99 a month or $120 for a year.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Check the subscription pricing page.
+
+---
+
+**C-10054** Host says she first clocked Erika admitting people Charlie disliked
+
+Claim Timestamp: 00:45:36
+
+Claim: The host says the first thing she noticed was Erika letting people Charlie did not like into her circle right after he died, such as the New York Times and buyers of speaking slots.
+
+Transcript Snippet: the first thing I clocked was letting people that your husband didn't like into your zone right after he died. like whether it's New York Times, whether it's allowing them to buy slots to speak
+
+Anchored Artifacts: 
+Mentions: N-2, N-1, N-3
+Related Nodes: N-10968, N-10268
+Tags: relevance:core
+Investigative Direction: Compile who bought AmFest speaking slots and Charlie's past statements on them.
+
+---
+
+**C-10055** Host again asks for tips by message and email
+
+Claim Timestamp: 00:45:36
+
+Claim: The host asks viewers who know something to message her or email the tip address.
+
+Transcript Snippet: You might know something. You can message me more tips.
+
+Anchored Artifacts: A-3046.2
+Mentions: N-3
+Tags: relevance:core, dia
+Investigative Direction: Review the tip inbox.
+
+---
+
+**C-10056** Commenter asks why Erika kept saying 'stay humble' in Zooms
+
+Claim Timestamp: 00:46:39
+
+Claim: The host reads a comment from Ariel asking why Erika kept saying in Zooms that 'we need to stay humble'.
+
+Transcript Snippet: Ariel writes about the zooms. I don't understand why Erika kept saying we need to stay humble.
+
+Anchored Artifacts: A-3048.1
+Mentions: N-2
+Tags: relevance:context
+Investigative Direction: Review the Zoom recordings for that phrase.
+
+---
+
+**C-10057** Host says Freud said he had to be Satan or Lucifer
+
+Claim Timestamp: 00:50:17
+
+Claim: The host says Sigmund Freud outwardly said he had to be Satan and Lucifer.
+
+Transcript Snippet: Sigman Freud outwardly said, "I have to be Satan. I have to be Lucifer.
+
+Anchored Artifacts: 
+Mentions: N-50
+Tags: relevance:tangential
+Investigative Direction: Locate any Freud quote matching this.
+
+---
+
+**C-10058** Commenter says Epstein and Dershowitz contacted Finkelstein
+
+Claim Timestamp: 00:50:17
+
+Claim: The host reads a moderator's comment that Epstein and Dershowitz ('Duruit') contacted Norman Finkelstein, who called them pedophiles and threatened to hurt them, and the host praises him for it.
+
+Transcript Snippet: Epstein and Duruit contacted Finkelestein, but he called them pedophiles and threatened to hurt them.
+
+Anchored Artifacts: A-3049.1
+Mentions: N-203, N-9, N-546
+Tags: relevance:context
+Investigative Direction: Ask Finkelstein or find his published account of any contact.
 
 ---
 

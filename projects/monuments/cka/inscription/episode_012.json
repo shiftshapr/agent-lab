@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–00:49:34",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "abf411b35a1c49c8915e52ea39f1d73231f7b5aadc58d672dbdeebbe68b7d8d3",
@@ -291,8 +291,9 @@
             "C-1328"
           ],
           "related_nodes": [
+            "N-133",
             "N-61",
-            "N-133"
+            "N-799"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -375,6 +376,132 @@
           "source_timestamp": "00:00:00–00:00:01",
           "video_timestamp": "00:28:21–00:29:10",
           "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2998",
+      "family_ref": "A-2998",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2998.1",
+          "ref": "A-2998.1",
+          "description": "Host verbal reference to the tip email address tips@candaceowens.com (verbal call for tips on the goth person)",
+          "related_claims": [
+            "C-9289"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:23:38",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2998.2",
+          "ref": "A-2998.2",
+          "description": "Host verbal reference to the tip email address tips@candaceowens.com (closing call for tips)",
+          "related_claims": [
+            "C-9322"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:48:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2999",
+      "family_ref": "A-2999",
+      "bundle_name": "Phil Lyman Text Exchange with Host Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2999.1",
+          "ref": "A-2999.1",
+          "description": "Host verbal reference to her text messages with Phil Lyman about Nick, the white vehicle, his relation to Shainer Broderick and the two unidentified companions (messages not shown)",
+          "related_claims": [
+            "C-9263",
+            "C-9264",
+            "C-9267",
+            "C-9270",
+            "C-9271"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-61"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:03:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3000",
+      "family_ref": "A-3000",
+      "bundle_name": "Viewer Comments Read Aloud Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3000.1",
+          "ref": "A-3000.1",
+          "description": "Host reads viewer comments (Rose, Anomaly AJ, Murphy, Ashlyn Bigelow, Natalie, Marzi, George) aloud; the Marzi super chat concerns keyholing versus pinball bullets",
+          "related_claims": [
+            "C-9316",
+            "C-9319"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:23",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3001",
+      "family_ref": "A-3001",
+      "bundle_name": "Host Conversation with Camera Individual Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3001.1",
+          "ref": "A-3001.1",
+          "description": "Host verbal account of her conversation with the man who took down the cameras (conversation not shown; individual not named in this episode)",
+          "related_claims": [
+            "C-9299",
+            "C-9300",
+            "C-9301",
+            "C-9302"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:32:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
           "confidence": "low"
         }
       ]
@@ -660,7 +787,24 @@
       "type": "person",
       "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9259",
+        "C-9261",
+        "C-9263",
+        "C-9264",
+        "C-9265",
+        "C-9267",
+        "C-9268",
+        "C-9270",
+        "C-9271",
+        "C-9275",
+        "C-9276",
+        "C-9277",
+        "C-9278",
+        "C-9279",
+        "C-9280",
+        "C-9281"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -676,7 +820,28 @@
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9258",
+        "C-9260",
+        "C-9290",
+        "C-9291",
+        "C-9292",
+        "C-9295",
+        "C-9298",
+        "C-9300",
+        "C-9303",
+        "C-9304",
+        "C-9305",
+        "C-9307",
+        "C-9309",
+        "C-9310",
+        "C-9311",
+        "C-9313",
+        "C-9314",
+        "C-9315",
+        "C-9320",
+        "C-9323"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -692,13 +857,689 @@
       "type": "person",
       "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9277",
+        "C-9278"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-799",
+      "ref": "N-799",
+      "name": "Mike Lee",
+      "type": "person",
+      "description": "US Senator from Utah; first named in A-1192.2.",
+      "related_artifacts": [
+        "A-1192.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9258",
+        "C-9259",
+        "C-9263",
+        "C-9264",
+        "C-9265",
+        "C-9266",
+        "C-9267",
+        "C-9269",
+        "C-9270",
+        "C-9271",
+        "C-9272",
+        "C-9273",
+        "C-9274",
+        "C-9275",
+        "C-9276",
+        "C-9282",
+        "C-9283",
+        "C-9284",
+        "C-9285",
+        "C-9286",
+        "C-9287",
+        "C-9288",
+        "C-9289",
+        "C-9290",
+        "C-9291",
+        "C-9292",
+        "C-9293",
+        "C-9294",
+        "C-9295",
+        "C-9296",
+        "C-9297",
+        "C-9298",
+        "C-9299",
+        "C-9300",
+        "C-9301",
+        "C-9302",
+        "C-9303",
+        "C-9304",
+        "C-9305",
+        "C-9306",
+        "C-9307",
+        "C-9308",
+        "C-9309",
+        "C-9310",
+        "C-9311",
+        "C-9312",
+        "C-9313",
+        "C-9314",
+        "C-9315",
+        "C-9316",
+        "C-9317",
+        "C-9318",
+        "C-9319",
+        "C-9320",
+        "C-9321",
+        "C-9322",
+        "C-9323"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 57,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Accused shooter; compared by the host with the blue-hat man and discussed in Lyman's remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9273",
+        "C-9278"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "The decoy boy; the host revisits his arrest and a possible blackmail motive.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9286",
+        "C-9287"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-60",
+      "ref": "N-60",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Commentator whom the host says called her anti-Semitic days before the death and is funded by a Kirk donor.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9314",
+        "C-9315"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Bob Shulman",
+      "type": "person",
+      "description": "Donor whom the host says funds Laura Loomer (transcribed Shuman).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9314"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-127",
+      "ref": "N-127",
+      "name": "\"Nick\" (UVU Student – Pseudonym)",
+      "type": "person",
+      "description": "The UVU student the host calls Nick; Lyman's visit to his house and the campaign mix-up are discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9263",
+        "C-9264"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-137",
+      "ref": "N-137",
+      "name": "Andrew Zanger",
+      "type": "person",
+      "description": "Hospital CEO and surgeon whose appointment the host says was announced just before the tour (transcribed Zenger).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9296",
+        "C-9298"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-332",
+      "ref": "N-332",
+      "name": "Tim Ballard",
+      "type": "person",
+      "description": "Former Operation Underground Railroad head; the host's source says Lyman met him in town, and she recalls interviewing him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9265",
+        "C-9266"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; the host challenges its executives to deny her claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9260",
+        "C-9292",
+        "C-9293",
+        "C-9294",
+        "C-9298",
+        "C-9304",
+        "C-9307",
+        "C-9308",
+        "C-9309",
+        "C-9312"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10006",
+      "ref": "N-10006",
+      "name": "Fox News",
+      "type": "investigation_target",
+      "description": "Outlet to which Phil Lyman reiterated his driveway account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9261"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Site of the September 10 event; the second Utah stop was scheduled 20 days later at USU.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9292"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10025",
+      "ref": "N-10025",
+      "name": "Israel Lobby Pressure on Conservative Figures",
+      "type": "investigation_target",
+      "description": "Topic cited for the host's claim about creator payments through an agent of Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9316"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10032",
+      "ref": "N-10032",
+      "name": "Decoy Boy Operation Analysis",
+      "type": "investigation_target",
+      "description": "Topic covering George Zinn's role as the decoy boy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9285",
+        "C-9286",
+        "C-9287"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10047",
+      "ref": "N-10047",
+      "name": "Donor Intimidation of Charlie Kirk",
+      "type": "investigation_target",
+      "description": "Topic covering donor pressure on Kirk about Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9258",
+        "C-9307",
+        "C-9310",
+        "C-9313"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10048",
+      "ref": "N-10048",
+      "name": "Charlie Kirk Assassination Investigation",
+      "type": "investigation_target",
+      "description": "Topic covering the assassination investigation as a whole.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9290"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10056",
+      "ref": "N-10056",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "investigation_target",
+      "description": "Topic covering the dispute over Kirk's position on Israel and the letter.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9258",
+        "C-9260",
+        "C-9303",
+        "C-9304",
+        "C-9305",
+        "C-9306",
+        "C-9313"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10076",
+      "ref": "N-10076",
+      "name": "Cameragate Investigation",
+      "type": "investigation_target",
+      "description": "Topic covering the removal of cameras after the shooting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9299",
+        "C-9302"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10085",
+      "ref": "N-10085",
+      "name": "Exit Wound / Bullet Trajectory Discrepancy",
+      "type": "investigation_target",
+      "description": "Topic covering the wound location and trajectory.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9320",
+        "C-9323"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10086",
+      "ref": "N-10086",
+      "name": "Transponder / Plane Anomaly Investigation",
+      "type": "investigation_target",
+      "description": "Topic covering the plane transponder anomaly.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9266"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10094",
+      "ref": "N-10094",
+      "name": "LDS Church",
+      "type": "investigation_target",
+      "description": "Church in which the host says Mike Mitchell is a Boy Scout leader.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9283"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10103",
+      "ref": "N-10103",
+      "name": "Bulletproof Vest Absence",
+      "type": "investigation_target",
+      "description": "Topic covering whether Kirk wore a bulletproof vest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9291"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10106",
+      "ref": "N-10106",
+      "name": "Moral Blackmail by Donors",
+      "type": "investigation_target",
+      "description": "Topic covering alleged donor leverage over Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9310"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10115",
+      "ref": "N-10115",
+      "name": "Soviet Education Infiltration",
+      "type": "investigation_target",
+      "description": "Topic cited for the host's claim of a communist underground targeting children.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9317"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10141",
+      "ref": "N-10141",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Topic covering the thin public record on Mike Mitchell.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9283",
+        "C-9284"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10144",
+      "ref": "N-10144",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Topic covering Phil Lyman's proximity to and behavior in the investigation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9261",
+        "C-9262",
+        "C-9263",
+        "C-9264",
+        "C-9267"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10156",
+      "ref": "N-10156",
+      "name": "Hospital Routing Anomaly",
+      "type": "investigation_target",
+      "description": "Topic covering the hospital routing question.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9295"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10180",
+      "ref": "N-10180",
+      "name": "Bullet Trajectory and Caliber Verification",
+      "type": "investigation_target",
+      "description": "Topic covering bullet trajectory and caliber questions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9278",
+        "C-9319"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10192",
+      "ref": "N-10192",
+      "name": "Camera Operator Behavior Pattern",
+      "type": "investigation_target",
+      "description": "Topic covering the camera operator's behavior.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9299",
+        "C-9300",
+        "C-9301"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10840",
+      "ref": "N-10840",
+      "name": "UVU Ambulance Denial Discrepancy",
+      "type": "investigation_target",
+      "description": "Topic covering whether an ambulance stood by at the event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9297"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10908",
+      "ref": "N-10908",
+      "name": "Back-Camera and Platform Setup Introduction (2025 Tour)",
+      "type": "investigation_target",
+      "description": "Topic covering the new back-camera and platform setup on the 2025 tour.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9302"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11167",
+      "ref": "N-11167",
+      "name": "Operation Underground Railroad",
+      "type": "organization",
+      "description": "Organization. Anti-trafficking charity formerly led by Tim Ballard; the host recalls its shirts on the owners of the transponder plane and a Lyman meeting with Ballard.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9265",
+        "C-9266"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11217",
+      "ref": "N-11217",
+      "name": "Utah State University",
+      "type": "organization",
+      "description": "Organization. Second Utah campus on Kirk's tour, scheduled about 20 days after the UVU event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9292"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11218",
+      "ref": "N-11218",
+      "name": "Timpanogos Regional Hospital",
+      "type": "organization",
+      "description": "Organization. Hospital to which Kirk was taken; the host raises routing, trauma-level and leadership-change questions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9295",
+        "C-9296",
+        "C-9298"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -985,7 +1826,1546 @@
       "mentions_person_refs": [
         "N-135"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9258",
+      "ref": "C-9258",
+      "label": "Host Says Kirk Is Being Memorialized as a Friend of Israel by People Who Threatened Him",
+      "claim": "The host says that the very people who had been threatening Charlie Kirk reputationally and financially are now trying to memorialize him as having died as a friend of Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056",
+        "N-10047"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Identify the specific people and statements the host means and compare their pre-September 10 conduct toward Kirk with their post-assassination tributes.",
+      "transcript_snippet": "the very people who were threatening him reputationally and financially are now trying to memorialize him as having died as a friend of Israel.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9259",
+      "ref": "C-9259",
+      "label": "Host Says Two Friends of Phil Lyman's Nephew Retraced the Killer's Path",
+      "claim": "The host says that on the previous day she asked the public to identify two individuals whom Phil Lyman's nephew described as close friends who retraced the path of Charlie's killer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Obtain Shainer Broderick's original posts describing the two companions and the retrace video, and archive them before further deletion.",
+      "transcript_snippet": "yesterday we asked for the public's help in identifying two individuals who Phil Lyman's nephew described as his close friends who decided to retrace the path of Charlie's killer.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-61",
+        "N-133"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9260",
+      "ref": "C-9260",
+      "label": "Host Says Netanyahu Released the Kirk Letter About Two Weeks After the Death, Perhaps With TPUSA Help",
+      "claim": "The host says it took a little over two weeks, but Netanyahu, perhaps with help from Turning Point USA, is now releasing the May letter from Charlie Kirk to Israel.",
+      "anchored_artifacts": [
+        "A-1191.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:30",
+      "investigative_direction": "Establish who supplied the letter to the Prime Minister's office and to the press, and whether anyone at Turning Point USA coordinated its release.",
+      "transcript_snippet": "It took him a little over 2 weeks but now BB Netanyahu, with maybe a little help from Turning Point USA I'm thinking, is releasing the letter",
+      "supports_claim_refs": [
+        "C-1331"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9261",
+      "ref": "C-9261",
+      "label": "Host Says Phil Lyman Told Fox News His Car Was in the Driveway 20 Minutes Before the Killer Passed",
+      "claim": "The host says Phil Lyman reiterated to Fox News that he parked his car in his aunt's driveway 20 minutes before the killer came limping by.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10006",
+        "N-10144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:39",
+      "investigative_direction": "Locate the Fox News interview and compare Lyman's stated arrival time with the doorbell-camera footage of his vehicle.",
+      "transcript_snippet": "20 minutes before I pulled into the driveway, my aunt's house and I parked my car and then 20 minutes later the killer killer was limping by.",
+      "supports_claim_refs": [
+        "C-1307"
+      ],
+      "mentions_person_refs": [
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9262",
+      "ref": "C-9262",
+      "label": "Host Says Shainer Broderick's Map of the Killer's Path Was Used by the Media",
+      "claim": "The host says Shainer Broderick created a map of where the killer walked and that the media used his map.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:39",
+      "investigative_direction": "Identify which outlets published Broderick's map and how he determined the route.",
+      "transcript_snippet": "Shainer even created a map where exactly the killer walked and the media used his map.",
+      "mentions_person_refs": [
+        "N-133"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9263",
+      "ref": "C-9263",
+      "label": "Host Says Phil Lyman Told Her Nick Never Worked on His Campaign",
+      "claim": "The host says Phil Lyman messaged her after the previous episode to say that Nick never worked on his campaign, and that the host concluded the earlier statement was her own mistake and not Nick's.",
+      "anchored_artifacts": [
+        "A-2999.1"
+      ],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:35",
+      "investigative_direction": "Obtain the text exchange between the host and Lyman, and ask Nick how he described his relationship to the campaign.",
+      "transcript_snippet": "Phil would like me to clarify that Nick never worked on his campaign and by the way, I looked back and that was actually my mistake, not Nick's.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-61",
+        "N-127"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9264",
+      "ref": "C-9264",
+      "label": "Host Says Lyman Gave Helping Nick Identify a White Vehicle as His Reason for Visiting Nick's House",
+      "claim": "The host says Phil Lyman explained his Saturday stop at Nick's house by saying he had been helping Nick determine who owned a white vehicle parked near the shooter's route, and she says that vehicle was long gone more than two weeks later.",
+      "anchored_artifacts": [
+        "A-2999.1"
+      ],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:45",
+      "investigative_direction": "Ask Nick and Lyman what, if anything, Lyman learned about the white vehicle and why that was a reason to visit on that Saturday.",
+      "transcript_snippet": "Nick was particularly asking him to determine who owned a white vehicle that was parked in the neighborhood which was nearby where the shooter had walked.",
+      "supports_claim_refs": [
+        "C-1314"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-61",
+        "N-127"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9265",
+      "ref": "C-9265",
+      "label": "Host Says a Strong Source Reports Lyman Met Tim Ballard in Town That Saturday",
+      "claim": "The host says that, according to a very strong source, Phil Lyman was in town on Saturday to meet with Tim Ballard.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:45",
+      "investigative_direction": "Ask Ballard and Lyman whether they met that Saturday and for what purpose; compare with any public schedule.",
+      "transcript_snippet": "I am told according to a very strong source that what Phil Lyman was doing in town on Saturday was he was meeting with Tim Ballard.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-61",
+        "N-332"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9266",
+      "ref": "C-9266",
+      "label": "Host Says the Owners of the Transponder Plane Wore Operation Underground Railroad T-Shirts",
+      "claim": "The host says she remembers that the individuals who owned the plane with the transponder that turned off were wearing an Operation Underground Railroad t-shirt.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11167",
+        "N-10086"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:58",
+      "investigative_direction": "Identify the plane's owners from FAA records and find the image or report of the t-shirt that the host recalls.",
+      "transcript_snippet": "the individuals that owned that plane were wearing an Operation Underground Railroad t-shirt.",
+      "mentions_person_refs": [
+        "N-332",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9267",
+      "ref": "C-9267",
+      "label": "Host Says Phil Lyman Now Says Shainer Is His Cousin and May Be Confused",
+      "claim": "The host says Phil Lyman disputes that Shainer Broderick is his nephew, telling her that Shainer may be confused and that they are only cousins.",
+      "anchored_artifacts": [
+        "A-2999.1"
+      ],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:43",
+      "investigative_direction": "Obtain Lyman family records or public genealogy showing the relationship; compare with Broderick's earlier posts.",
+      "transcript_snippet": "Actually maybe Shainer's confused.",
+      "contradicts_claim_refs": [
+        "C-1328"
+      ],
+      "mentions_person_refs": [
+        "N-61",
+        "N-133",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9268",
+      "ref": "C-9268",
+      "label": "Host Says Broderick Was Chosen for an Internship With Senator Mike Lee",
+      "claim": "The host says Shainer Broderick was chosen for an internship with Senator Mike Lee of Utah, which she thinks was partly the result of the family link to Phil Lyman.",
+      "anchored_artifacts": [
+        "A-1192.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:43",
+      "investigative_direction": "Confirm the internship dates with Senator Lee's office and whether the Lyman relationship was listed in the application.",
+      "transcript_snippet": "chosen for an internship with Senator Mike Lee of Utah.",
+      "mentions_person_refs": [
+        "N-133",
+        "N-799",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9269",
+      "ref": "C-9269",
+      "label": "Host Says Broderick Wiped His LinkedIn and Facebook and Privatized Instagram After Her Previous Episode",
+      "claim": "The host says that since the previous episode Shainer Broderick wiped his LinkedIn page and his Facebook page, and privatized his Instagram after removing the photos of his investigation into the killer's route.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:30",
+      "investigative_direction": "Retrieve archived copies of the deleted pages and note the dates of deletion relative to the host's outreach.",
+      "transcript_snippet": "He's also completely wiped his Facebook page entirely. And regarding his Instagram, he's privatized it but he privatized it and then removed all of the photos of his investigation",
+      "mentions_person_refs": [
+        "N-133",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9270",
+      "ref": "C-9270",
+      "label": "Host Says She Asked Lyman Three Times by Text to Help Identify the Two People in the Photo",
+      "claim": "The host says she asked Phil Lyman three times by text whether he could help identify the two individuals in the photo with his nephew or cousin.",
+      "anchored_artifacts": [
+        "A-2999.1"
+      ],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:30",
+      "investigative_direction": "Obtain the text thread showing each request and Lyman's replies.",
+      "transcript_snippet": "I asked Phil Lyman three times via text whether or not he could help us, more importantly, identify the two individuals that were in the photo with his nephew or cousin",
+      "mentions_person_refs": [
+        "N-3",
+        "N-61",
+        "N-133"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9271",
+      "ref": "C-9271",
+      "label": "Host Says Lyman Finally Said He Had No Idea Who the Two Individuals Were",
+      "claim": "The host says Phil Lyman at first acted confused about which photo she meant, despite her sending it several times, and finally said he had no idea who the two individuals were.",
+      "anchored_artifacts": [
+        "A-2999.1"
+      ],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:25",
+      "investigative_direction": "Obtain the text thread with Lyman and ask Broderick who the two companions were.",
+      "transcript_snippet": "And then finally he said that he had no idea who those two individuals were at all.",
+      "mentions_person_refs": [
+        "N-61",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9272",
+      "ref": "C-9272",
+      "label": "Host Says Nobody Emailed to Identify Either of the Two Companions",
+      "claim": "The host says that, unlike in all her earlier investigations, no viewer emailed to say they knew either the blond man or the man in the blue hat who were with Shainer Broderick.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:25",
+      "investigative_direction": "Review the tip-line log to confirm no identification arrived and test whether the two are from outside the United States.",
+      "transcript_snippet": "no one emailed us to say that they knew either of those two individuals, neither the blonde that's with Shainer or the person that is wearing the blue hat",
+      "mentions_person_refs": [
+        "N-3",
+        "N-133"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9273",
+      "ref": "C-9273",
+      "label": "Host Says the Man in the Blue Hat Resembles the Blurred Stairs Figure More Than Tyler Robinson Does",
+      "claim": "The host says the man in the blue hat resembles, more than Tyler Robinson does, the blurred image of the individual coming up the stairs, and that he looks about the same height.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:25",
+      "investigative_direction": "Compare the blue-hat man's height and build with the blurred stairs frame and with Robinson using a calibrated photogrammetric comparison.",
+      "transcript_snippet": "He kind of resembles certainly more so than Tyler Robinson does, the blurred image of the individual that was coming up the stairs.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9274",
+      "ref": "C-9274",
+      "label": "Host Says One Companion Is Austrian, Which Explains Why Nobody Recognized Him",
+      "claim": "The host says one of the two individuals in the photo was identified as an Austrian, which she says explains why no viewer recognized him.",
+      "anchored_artifacts": [
+        "A-1187.1"
+      ],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:47",
+      "investigative_direction": "Verify Gernot Omer's nationality and Utah residency through public records and his employer.",
+      "transcript_snippet": "We were able to identify one of those individuals in the photo and he is Austrian.",
+      "supports_claim_refs": [
+        "C-1325"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-134"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9275",
+      "ref": "C-9275",
+      "label": "Host Says Lyman Suggested the Gothic Girls Might Have Been Suspicious or Aware of the Shooting",
+      "claim": "The host says that the previous day Phil Lyman's story suggested that the so-called gothic girls could have been suspicious, or at least aware beforehand that the shooting was going to occur.",
+      "anchored_artifacts": [
+        "A-1183.1"
+      ],
+      "related_nodes": [
+        "N-10146"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:29",
+      "investigative_direction": "Review the Alex Jones segment to determine whether Lyman himself drew that implication.",
+      "transcript_snippet": "suggesting that {quote} {unquote} gothic girls might have been suspicious that they maybe could have been responsible or aware at least that the shooting was going to occur.",
+      "supports_claim_refs": [
+        "C-1309"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9276",
+      "ref": "C-9276",
+      "label": "Host Says Phil Lyman Sent Her Footage Recorded After Multiple Shots",
+      "claim": "The host says that Phil Lyman sent her footage of himself after the shots rang out, and that she says shots in the plural deliberately.",
+      "anchored_artifacts": [
+        "A-1185.1"
+      ],
+      "related_nodes": [
+        "N-10146"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:20",
+      "investigative_direction": "Run audio analysis on the original file to count discrete shots and compare with the shot count in other recordings.",
+      "transcript_snippet": "gratefully, Phil Lyman did send us footage of him after the shots rang out and I am saying shots plural for a reason because we will show you that video.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9277",
+      "ref": "C-9277",
+      "label": "Host Says Lyman Told Alex Jones He Heard of Video of a Man Leaving the Roof and Escaping by Another Route",
+      "claim": "The host plays Phil Lyman telling Alex Jones that someone had reported video of a man coming off the roof, that the story that came out was that he escaped another route, and that people are coordinating this.",
+      "anchored_artifacts": [
+        "A-1183.1"
+      ],
+      "related_nodes": [
+        "N-10146"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:20",
+      "investigative_direction": "Obtain the full Alex Jones interview and ask Lyman who told him about the video and which route he meant.",
+      "transcript_snippet": "Well, that's not the story that came was that he that he escaped another route. And there's there are people who are coordinating this thing.",
+      "mentions_person_refs": [
+        "N-61",
+        "N-93"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9278",
+      "ref": "C-9278",
+      "label": "Host Plays Lyman Saying He Does Not Believe the .30-06 Was Ever on the Roof",
+      "claim": "The host plays Phil Lyman telling Alex Jones that he does not believe the .30-06 rifle shown recovered in the bushes was ever on the roof, while saying he is not claiming Tyler Robinson was not the shooter.",
+      "anchored_artifacts": [
+        "A-1183.1"
+      ],
+      "related_nodes": [
+        "N-10146",
+        "N-10180"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:16",
+      "investigative_direction": "Compare Lyman's statement with the official account of where the rifle was recovered and with the evidence logs.",
+      "transcript_snippet": "I do not believe that that.30-06 that they showed recovered in the bushes was ever on the roof.",
+      "mentions_person_refs": [
+        "N-61",
+        "N-93",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9279",
+      "ref": "C-9279",
+      "label": "Host Plays Lyman Telling NewsNation He Thought the Shot Came From the Roof Above Him",
+      "claim": "The host plays Phil Lyman telling NewsNation that he ran out to see who it was and that, in hindsight, the shot was probably fired from the roof above him.",
+      "anchored_artifacts": [
+        "A-1184.1"
+      ],
+      "related_nodes": [
+        "N-10146"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:40",
+      "investigative_direction": "Obtain the NewsNation segment and compare with Lyman's Alex Jones account of where the shot came from.",
+      "transcript_snippet": "in hindsight, I think it was probably above me on the roof.",
+      "mentions_person_refs": [
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9280",
+      "ref": "C-9280",
+      "label": "Host Says the Profanity Comment Came Before Lyman Spoke to the Two People in His Video",
+      "claim": "The host says that in Phil Lyman's roughly three-minute video the comment about FU occurs before he starts a conversation with the two people in black, who then answer him normally.",
+      "anchored_artifacts": [
+        "A-1185.1"
+      ],
+      "related_nodes": [
+        "N-10146"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:46",
+      "investigative_direction": "Review the original video with clean audio to establish the order of the remark and the conversation.",
+      "transcript_snippet": "When he hears them say something about FU, it's before he has a conversation with him.",
+      "mentions_person_refs": [
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9281",
+      "ref": "C-9281",
+      "label": "Host Says Lyman Asked the Two, Did You See Where That Came From, in a Normal Conversation",
+      "claim": "The host says that in the footage Phil Lyman asks the two people whether they saw where the sound came from, and that she finds the exchange normal, which undercuts calling them abnormal.",
+      "anchored_artifacts": [
+        "A-1185.1"
+      ],
+      "related_nodes": [
+        "N-10146"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:35",
+      "investigative_direction": "Obtain enhanced audio of the exchange and, if possible, identify the two people to ask what they heard.",
+      "transcript_snippet": "So he says, \"Did you see where that came from?\" It seems like a normal conversation.",
+      "supports_claim_refs": [
+        "C-1324"
+      ],
+      "mentions_person_refs": [
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9282",
+      "ref": "C-9282",
+      "label": "Host Says the Side-by-Side Is a Match but She Cannot Be 100 Percent Sure",
+      "claim": "The host says a side-by-side of the Buzzard and Bees page and the companion photo is a match on ears and chin, though she cannot be 100 percent certain until the person is named.",
+      "anchored_artifacts": [
+        "A-1188.1"
+      ],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:58",
+      "investigative_direction": "Have an independent facial examiner compare the two images and identify the person named on the Buzzard and Bees page.",
+      "transcript_snippet": "I am certain can't say 100%, okay? Because we need to find this person's name, but this is a match, okay?",
+      "supports_claim_refs": [
+        "C-1327"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9283",
+      "ref": "C-9283",
+      "label": "Host Says Mike Mitchell Is a Boy Scout Leader in the LDS Church",
+      "claim": "The host says she learned that Detective Mike Mitchell is a Boy Scout leader in the LDS Church.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10094",
+        "N-10141"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:53",
+      "investigative_direction": "Verify with LDS Church and Scouting records whether the Mike Mitchell involved in the case holds a Scout leadership role.",
+      "transcript_snippet": "he's a Boy Scout leader uh in the LDS church",
+      "mentions_person_refs": [
+        "N-126",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9284",
+      "ref": "C-9284",
+      "label": "Host Says Mitchell Began as a Detective in 1999 and Served 25 Years",
+      "claim": "The host says that, if this is the correct Mike Mitchell, he said he was on the force for 25 years and began his career in 1999, which fits the timeline of the undercover work in the article, and she has a strong hunch it is the right person.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10141",
+        "N-10151"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:53",
+      "investigative_direction": "Obtain Mitchell's service record to reconcile a 1999 start with a 1999 article saying he had already worked internet cases for about a year.",
+      "transcript_snippet": "he was on the force for 25 years. This individual began his career in 1999.",
+      "supports_claim_refs": [
+        "C-1304"
+      ],
+      "mentions_person_refs": [
+        "N-126",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9285",
+      "ref": "C-9285",
+      "label": "Host Says Mitchell's Online Work Does Not by Itself Show He Wrote the Fake Bed Messages",
+      "claim": "The host says that because Mike Mitchell created messages online as an undercover detective, that does not necessarily mean he authored the fake bed messages, though she finds the overlap interesting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10151",
+        "N-10032"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:45",
+      "investigative_direction": "Establish what the fake bed messages were and who had authorship access, then test any link to Mitchell by records.",
+      "transcript_snippet": "Just because he's creating messages online first and foremost doesn't necessarily mean that he's the person that authored the fake bed messages",
+      "qualifies_claim_refs": [
+        "C-1330"
+      ],
+      "mentions_person_refs": [
+        "N-126",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9286",
+      "ref": "C-9286",
+      "label": "Host Says George Zinn Was Arrested With Child Abuse Images on His Phone",
+      "claim": "The host says George Zinn, the decoy boy that day, was later arrested because he had images of children being sexually abused on his phone.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10032"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:45",
+      "investigative_direction": "Pull the court filings and charging documents for Zinn's arrest and the device evidence.",
+      "transcript_snippet": "he gets arrested because he has children being sexually abused on his phone, absolutely despicable person",
+      "supports_claim_refs": [
+        "C-1158"
+      ],
+      "mentions_person_refs": [
+        "N-42",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9287",
+      "ref": "C-9287",
+      "label": "Host Wonders Whether Zinn Was Blackmailed Into Playing the Decoy Boy to Give the Shooter Time",
+      "claim": "The host says she wondered, as she had in a previous episode, whether George Zinn had been blackmailed in some capacity to play the decoy boy and give the shooter time to get away.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10032"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:45",
+      "investigative_direction": "Examine Zinn's phone, court filings and any police interview for evidence of coercion before or during the decoy episode.",
+      "transcript_snippet": "whether or not he had been blackmailed in some capacity to play the decoy boy and to give the shooter time to get away.",
+      "mentions_person_refs": [
+        "N-42",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9288",
+      "ref": "C-9288",
+      "label": "Host Says She Suspects the Goth Person Is Not From Utah",
+      "claim": "The host says she has a hunch about who the goth person is, and ventures that he is not from Utah because no one has written to say they went to high school with him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:38",
+      "investigative_direction": "Search overseas social media and gothic-scene networks for the Provo prom attendee, and obtain the Buzzard and Bees page history.",
+      "transcript_snippet": "I would I would venture a guess that he is not from Utah because I've never seen uh no hits come in",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9289",
+      "ref": "C-9289",
+      "label": "Host Asks for Tips at tips@candaceowens.com and Asks Viewers Not to Send TikToks",
+      "claim": "The host asks viewers to send identifying information about the goth person to tips@candaceowens.com, and asks them not to send TikTok videos or theories but instead to tag the show's accounts.",
+      "anchored_artifacts": [
+        "A-2998.1"
+      ],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:38",
+      "investigative_direction": "Review the tip-line inbox for submissions naming the goth person, and log any that can be verified independently.",
+      "transcript_snippet": "that's what I want you to focus your attention on, tips@candaceowens. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9290",
+      "ref": "C-9290",
+      "label": "Host Says the Assassination May Be a Regicide Carried Out by People Around Kirk",
+      "claim": "The host says she is starting to think the assassination was akin to a regicide, the killing of a king to install a ruler he would not have approved, possibly with people who counseled him having betrayed him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10048"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:32",
+      "investigative_direction": "Identify the specific advisers and decisions she suggests were part of a betrayal, and the documents that would show them.",
+      "transcript_snippet": "I'm starting to think that the assassination of Charlie Kirk uh was something akin to a regicide, right?",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9291",
+      "ref": "C-9291",
+      "label": "Host Does Not Think Kirk Was Wearing a Bullet Vest That Day",
+      "claim": "The host says that although Charlie reportedly switched suppliers, she does not think he was actually wearing a bullet vest on the day of the shooting.",
+      "anchored_artifacts": [
+        "A-1195.1"
+      ],
+      "related_nodes": [
+        "N-10103"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:21",
+      "investigative_direction": "Check autopsy and clothing evidence for any body armor, and the footage of Charlie before the event.",
+      "transcript_snippet": "even though I don't think he was actually wearing a bullet vest on that day.",
+      "supports_claim_refs": [
+        "C-1332"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9292",
+      "ref": "C-9292",
+      "label": "Host Says Kirk Was Scheduled for Two Utah Events 20 Days Apart, UVU and USU",
+      "claim": "The host says Charlie was set to do two events in Utah a mere 20 days apart, UVU and then USU, on campuses just under two hours apart by car.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-11217",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:10",
+      "investigative_direction": "Obtain the tour schedule and booking correspondence for both campuses showing who proposed the dates.",
+      "transcript_snippet": "why Charlie was set to do two events in Utah a mere 20 days apart, okay? He was supposed to do UVU, and then today was scheduled to do, just 20 days later, USU.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9293",
+      "ref": "C-9293",
+      "label": "Host Says TPUSA Normally Schedules Same-State Stops Back to Back",
+      "claim": "The host says Turning Point USA does not normally schedule events this way, and that if it does two stops in one state it makes them happen back to back for fuel and travel reasons.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:10",
+      "investigative_direction": "Compare earlier tour schedules for other states to test whether back-to-back scheduling is the norm.",
+      "transcript_snippet": "If you're going to do uh two stops in one state, they make it happen back-to-back",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9294",
+      "ref": "C-9294",
+      "label": "Host Says She Toured With TPUSA Every Year Except This Year",
+      "claim": "The host says she knows how TPUSA tours work because she came from Turning Point USA and toured with them every year, with the exception of this year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:04",
+      "investigative_direction": "Corroborate the host's past tour participation with archived tour schedules and appearances.",
+      "transcript_snippet": "I have toured with them every year with the exception of this year",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9295",
+      "ref": "C-9295",
+      "label": "Host Says Tips Say the Hospital Was Not the Closest or Best Choice for the Wound",
+      "claim": "The host says she has received many tips that the hospital Charlie was taken to was not the closest, would not have been the first-choice hospital for such a wound, and was a smaller regional trauma three center that was farther away and less equipped.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11218",
+        "N-10149",
+        "N-10156"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:04",
+      "investigative_direction": "Obtain trauma-center designations and drive-time data from the campus to the candidate hospitals, plus the EMS run sheet.",
+      "transcript_snippet": "the hospital that Charlie was taken to is not the closest hospital and it also would not have been the number one choice hospital",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9296",
+      "ref": "C-9296",
+      "label": "Host Says the Hospital Had Just Announced a New CEO, Surgeon Andrew Zenger",
+      "claim": "The host says the hospital had just announced a brand new CEO, who is also a surgeon, named Andrew Zenger.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11218",
+        "N-10149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:55",
+      "investigative_direction": "Confirm the date and press release of the CEO announcement and his appointment dates.",
+      "transcript_snippet": "that hospital had just announced that they had a a brand new CEO and had surgeon named Andrew Zenger.",
+      "mentions_person_refs": [
+        "N-137",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9297",
+      "ref": "C-9297",
+      "label": "Host Says It Seemed Atypical That No Ambulance Was on Standby",
+      "claim": "The host says that states typically require an ambulance on standby above a certain attendance, that she does not know Utah law, and that it seemed atypical to her that there was no ambulance on standby.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10840"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:55",
+      "investigative_direction": "Check Utah event-safety rules and the event permit for medical-standby requirements, and ask UVU whether an ambulance was present.",
+      "transcript_snippet": "that there wouldn't have been an ambulance on standby.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9298",
+      "ref": "C-9298",
+      "label": "Host Says Zenger's Appointment Was Announced the Same Day as Charlie's Tour",
+      "claim": "The host says the day Andrew Zenger was announced as the new CEO was also the day Charlie's tour was announced, with five dates, two of them in Utah.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11218",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:55",
+      "investigative_direction": "Compare the hospital's press release date with the tour announcement date.",
+      "transcript_snippet": "that was also the day that they announced Charlie's tour. They announced five dates and two of them were in Utah",
+      "mentions_person_refs": [
+        "N-137",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9299",
+      "ref": "C-9299",
+      "label": "Host Says the Man Who Took Down the Cameras Did So Around Minute Four",
+      "claim": "The host says she spoke to the individual she previously said she recognized as having taken down the cameras around minute four after Charlie was shot.",
+      "anchored_artifacts": [
+        "A-3001.1"
+      ],
+      "related_nodes": [
+        "N-10076",
+        "N-10192"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:40",
+      "investigative_direction": "Compare the camera-removal timing with the video timeline and obtain the footage showing it.",
+      "transcript_snippet": "the individual who I told you guys that I recognized had taken down the cameras minute, what was it, minute four after Charlie was shot",
+      "supports_claim_refs": [
+        "C-4902"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9300",
+      "ref": "C-9300",
+      "label": "Host Says the Camera Man Was Behind Charlie the Whole Time, Which She Finds Unusual",
+      "claim": "The host says it was weird that this man was behind Charlie the entire time, and says she has never had anyone linger behind her at an event.",
+      "anchored_artifacts": [
+        "A-3001.1"
+      ],
+      "related_nodes": [
+        "N-10192"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:40",
+      "investigative_direction": "Establish the man's assigned role at the event and review stage footage of his position.",
+      "transcript_snippet": "I thought it was weird that he was there in general, actually, that he was behind Charlie the entire time.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9301",
+      "ref": "C-9301",
+      "label": "Host Says the Camera Man Was Seen Making a Phone Call Around Minute Three",
+      "claim": "The host says she asked about the mysterious phone call this man was seen making around minute three after Charlie was assassinated.",
+      "anchored_artifacts": [
+        "A-3001.1"
+      ],
+      "related_nodes": [
+        "N-10192"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:40",
+      "investigative_direction": "Obtain the footage of the call and, through lawful process, the call record to identify the recipient.",
+      "transcript_snippet": "the mysterious phone call that he was seen making in like minute three after Charlie, uh, was assassinated",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9302",
+      "ref": "C-9302",
+      "label": "Host Says the Camera Man Told Her TPUSA Was Trying Something New and Feeding Footage Back to Arizona",
+      "claim": "The host says that man told her explicitly they were trying something new that day, with the audio-visual setup, and wanted to feed it back instantly to Arizona, which she says makes no sense because the events are typically live-streamed.",
+      "anchored_artifacts": [
+        "A-3001.1"
+      ],
+      "related_nodes": [
+        "N-10908",
+        "N-10076"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:40",
+      "investigative_direction": "Ask TPUSA what the new AV setup was, where the feed went, and whether the feed was recorded.",
+      "transcript_snippet": "Charlie's super ambitious and on the AVs thing, they were trying something new and they wanted to be able to feed it back instantly, uh, to Arizona.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9303",
+      "ref": "C-9303",
+      "label": "Host Says Kirk's Position on Israel Had Shifted Entirely Before His Death",
+      "claim": "The host says Charlie Kirk's perspective on Israel had not just started to shift but had shifted entirely, without qualification.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056",
+        "N-10148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:44",
+      "investigative_direction": "Gather Kirk's private messages, donor communications and on-air statements from 2025 showing his position.",
+      "transcript_snippet": "Charlie Kirk's perspective on Israel was not starting to shift, it had shifted entirely, okay?",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9304",
+      "ref": "C-9304",
+      "label": "Host Says Israel and TPUSA Both Knew Kirk Had Shifted Because He Was Explicit",
+      "claim": "The host says Israel knew of the shift and Turning Point USA knew because Charlie was explicit, and asks why TPUSA is not shutting down the claim that he was writing love letters to Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:44",
+      "investigative_direction": "Ask TPUSA staff who heard Kirk state his position and whether any statements were recorded.",
+      "transcript_snippet": "Israel knew that. Turning Point USA knew that because Charlie was explicit.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9305",
+      "ref": "C-9305",
+      "label": "Host Says the Letter Included Kirk's Phone Number, Which Netanyahu Did Not Have",
+      "claim": "The host says Netanyahu said they were close, but in the letter Charlie gave his number, which she infers means Netanyahu did not have it.",
+      "anchored_artifacts": [
+        "A-1191.1"
+      ],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:37",
+      "investigative_direction": "Obtain the letter and compare the number given with Kirk's known numbers and with Netanyahu's contact records.",
+      "transcript_snippet": "Netanyahu said they were close, but in the letter, Charlie puts his number, which apparently Netanyahu didn't have his number.",
+      "supports_claim_refs": [
+        "C-1331"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9306",
+      "ref": "C-9306",
+      "label": "Host Says It Is Unclear Whether the Letter Was Sent by Email or by Post and Asks for Authentication",
+      "claim": "The host says it is unclear whether the letter was sent as an email or in the mail, and asks that someone share the timestamp to authenticate it.",
+      "anchored_artifacts": [
+        "A-1191.1"
+      ],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:37",
+      "investigative_direction": "Request the original message with headers or the postal record from the Prime Minister's office or TPUSA.",
+      "transcript_snippet": "Can somebody clarify, was that an email they were sharing or did he send it in the mail to him?",
+      "mentions_person_refs": [
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9307",
+      "ref": "C-9307",
+      "label": "Host Says the Same People Pressuring Kirk Are Pressuring TPUSA Leadership, and She Knows This for a Fact",
+      "claim": "The host says the same people who were pressuring Charlie are now pressuring Turning Point USA executives, and that she knows this for a fact.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10047"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:21",
+      "investigative_direction": "Ask the host for the basis of her knowledge and cross-check with TPUSA donor and board correspondence.",
+      "transcript_snippet": "I think the same people that were pressuring Charlie are pressuring them. In fact, I know that for a fact.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9308",
+      "ref": "C-9308",
+      "label": "Host Challenges TPUSA Executives to Issue a Statement Saying She Is Lying",
+      "claim": "The host says she is challenging Turning Point USA executives to issue a clear statement that she is lying if her claim about Kirk's break with Israel is not true.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:21",
+      "investigative_direction": "Monitor TPUSA statements for any explicit denial or confirmation.",
+      "transcript_snippet": "I'm going to challenge Turning Point USA executives to issue a very clean statement saying that I am lying if this is not true.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9309",
+      "ref": "C-9309",
+      "label": "Host Says Kirk Told Staff, Jewish Donors and a Rabbi 48 Hours Before His Death That He Was Abandoning the Pro-Israel Cause",
+      "claim": "The host says that about 48 hours before he died, Charlie told people at Turning Point, Jewish donors and a rabbi that he had no choice but to abandon the pro-Israel cause outright.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10148",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:10",
+      "investigative_direction": "Identify the staff, donors and rabbi present and obtain contemporaneous notes, messages or testimony.",
+      "transcript_snippet": "About 48 hours before Charlie Kirk died, Charlie informed people at Turning Point, as well as Jewish donors and a rabbi, that he had no choice but to abandon the pro-Israel cause outright",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9310",
+      "ref": "C-9310",
+      "label": "Host Says Kirk Said He Refused to Be Bullied Anymore by Jewish Donors",
+      "claim": "The host says Charlie said explicitly that he refused to be bullied anymore by the Jewish donors.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10047",
+        "N-10106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:10",
+      "investigative_direction": "Seek witnesses and recordings of the statement and compare with Kirk's earlier remarks on donor pressure.",
+      "transcript_snippet": "He said it explicitly that he refused to be bullied anymore by the Jewish donors.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9311",
+      "ref": "C-9311",
+      "label": "Host Says Kirk Wanted to Bring Her Back and Was Killed 48 Hours Before an On-Stage Reunion",
+      "claim": "The host asks TPUSA to confirm or deny that Charlie also said he wanted to bring her back, and that he was killed about 48 hours later, before their on-stage reunion could happen.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:10",
+      "investigative_direction": "Obtain any scheduling or communications between Kirk and the host about a joint appearance.",
+      "transcript_snippet": "just 48 hours later, conveniently catch a bullet to the throat before our on-stage reunion could happen?",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9312",
+      "ref": "C-9312",
+      "label": "Host Says She Is Hearing a Big Payday Was on the Line for Those Who Let the Lies Stand",
+      "claim": "The host says that, as she is hearing, TPUSA leaders are letting these claims stand because a big payday was on the line.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:42",
+      "investigative_direction": "Identify the payday referred to and review TPUSA funding and donor pledges around September 2025.",
+      "transcript_snippet": "unless, as I am hearing, unless it is true that there was a big, big, big payday that was on the line.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9313",
+      "ref": "C-9313",
+      "label": "Host Says the Friends of Israel Were Pressuring Kirk Badly and He Was Done",
+      "claim": "The host says Charlie did not die pro-Israel, and that the friends of Israel were pressuring him really badly and he was done.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056",
+        "N-10047"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:40",
+      "investigative_direction": "Gather Kirk's statements and communications from the weeks before his death showing the pressure described.",
+      "transcript_snippet": "In fact, the friends of Israel were pressuring him really badly and he was done and he finally stood up for himself",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9314",
+      "ref": "C-9314",
+      "label": "Host Says Laura Loomer Is Funded by Charlie's Donor Bob Shuman",
+      "claim": "The host says Laura Loomer is funded by one of Charlie's donors, Bob Shuman, who then did a 180 and is now pretending she is morally fighting the host to stop research into the murder.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:32",
+      "investigative_direction": "Check disclosed contributions and employment ties between Bob Shuman and Loomer, and any change in his stance toward the host.",
+      "transcript_snippet": "and she's funded by the one of Charlie's donors, Bob Shuman, who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's murder",
+      "mentions_person_refs": [
+        "N-60",
+        "N-98",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9315",
+      "ref": "C-9315",
+      "label": "Host Says Loomer Called Her Anti-Semitic a Couple of Days Before Kirk Died",
+      "claim": "The host says that a couple of days before Charlie Kirk died, Laura Loomer was calling her anti-Semitic.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:32",
+      "investigative_direction": "Locate Loomer's posts from September 7 to 9, 2025 and their timing relative to Kirk's death.",
+      "transcript_snippet": "a couple of days before Charlie Kirk died, someone like Laura Loomer is calling me anti-Semite",
+      "mentions_person_refs": [
+        "N-60",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9316",
+      "ref": "C-9316",
+      "label": "Host Says the Campaign Against Her Involves People Paid Through an Agent of Israel",
+      "claim": "The host says the people making videos against her at the same time are accepting money through an agent of Israel somehow, and that she has seen contracts.",
+      "anchored_artifacts": [
+        "A-3000.1"
+      ],
+      "related_nodes": [
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:23",
+      "investigative_direction": "Identify any contracts or Foreign Agents Registration Act filings tying creators to an agent of Israel.",
+      "transcript_snippet": "People that are accepting money through an agent of Israel somehow.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9317",
+      "ref": "C-9317",
+      "label": "Host Says a Communist Underground Is Real and Wants Children",
+      "claim": "The host says there is a real communist underground, that it is not imagined, and that the resource it wants is children.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10115"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:16",
+      "investigative_direction": "No concrete record is cited; ask the host for the organizations and documents she means.",
+      "transcript_snippet": "There is a real underground. It is a communist underground.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9318",
+      "ref": "C-9318",
+      "label": "Host Says She Started Homeschooling Her Children This Week",
+      "claim": "The host says that she has started homeschooling her kids, that it began this week and has been two days.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:10",
+      "investigative_direction": "Personal statement; no record needed beyond the host's own account.",
+      "transcript_snippet": "I'm waking up and I'm homeschooling my kids.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9319",
+      "ref": "C-9319",
+      "label": "Host Relays a Viewer's Correction on Keyholing Versus Pinball Bullets",
+      "claim": "The host relays a viewer's correction that keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage.",
+      "anchored_artifacts": [
+        "A-3000.1"
+      ],
+      "related_nodes": [
+        "N-10180"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:10",
+      "investigative_direction": "Have a forensic ballistics expert review the wound and autopsy record to say whether keyholing or internal deflection is consistent.",
+      "transcript_snippet": "Keyholing is if the bullet is too slow and tumbles and has external impact.",
+      "supports_claim_refs": [
+        "C-1317"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9320",
+      "ref": "C-9320",
+      "label": "Host Says the Idea That Kirk Was Paralyzed When He Died Ends Today",
+      "claim": "The host says there have been lies from the beginning and that the idea that Charlie was paralyzed when he died ends today.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10085"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:56",
+      "investigative_direction": "Obtain the autopsy report and medical records and compare with the paralysis narrative.",
+      "transcript_snippet": "the idea that Charlie was paralyzed when he died ends today.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9321",
+      "ref": "C-9321",
+      "label": "Host Says the Goth Suspect Is the Person in Broderick's Photos, Not the Girl in Black",
+      "claim": "The host says that they are still working to identify their goth suspect, and that the suspect is not the girl wearing black but the person in the photos with nephew or cousin Broderick.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:25",
+      "investigative_direction": "Identify the person via the Buzzard and Bees prom organizers and attendee lists.",
+      "transcript_snippet": "We are still working to identify our goth suspect. It is not the girl who's wearing black, but rather the person that was in the photos with nephew cousin Broderick.",
+      "supports_claim_refs": [
+        "C-1327"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-133"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9322",
+      "ref": "C-9322",
+      "label": "Host Repeats the Request for Tips at tips@candaceowens.com on the Goth Suspect",
+      "claim": "The host asks anyone who knows something about the goth suspect to send tips to tips@candaceowens.com, promising more the next day.",
+      "anchored_artifacts": [
+        "A-2998.2"
+      ],
+      "related_nodes": [
+        "N-10147"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:25",
+      "investigative_direction": "Review incoming tips for any naming the person pictured in the Buzzard and Bees prom page.",
+      "transcript_snippet": "If you know something, please send us tips@candaceowens. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9323",
+      "ref": "C-9323",
+      "label": "Host Says She Holds Further Information on Where Kirk's Wounds Were",
+      "claim": "The host says she has been holding information close to her chest about where Charlie's wounds were, and says she will have more the next day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10085"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:25",
+      "investigative_direction": "Await the follow-up episode and compare with the autopsy and medical records.",
+      "transcript_snippet": "Some other stuff that I've been holding close to my chest about where we are hearing uh Charlie's wounds were.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "00:46:56",
+          "speaker_node_ref": "N-3",
+          "quote": "We don't know no, but we know is the new stand is cup. That just dropped is pretty good. We don't know no, but we know.",
+          "context": "Merch drop productizes the catchphrase on a stand cup.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "catchphrase"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "00:43:23",
+          "speaker_node_ref": "N-3",
+          "quote": "No matter what videos I've seen from people on the left or right calling you crazy, I call it fake and gay.",
+          "context": "Viewer comment elevated; host affirms truth-vs-campaign framing.",
+          "confidence": "high",
+          "tags": [
+            "viewer_refrain",
+            "catchphrase"
+          ]
+        },
+        {
+          "episode": 12,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "there will be no fakeness and there will be no gayness in this investigation",
+          "context": "Host recalls her opening rule for the investigation.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "origin"
+          ]
+        },
+        {
+          "episode": 12,
+          "video_timestamp": "00:45:10",
+          "speaker_node_ref": "N-3",
+          "quote": "just really appreciating how fake and gay it all is",
+          "context": "Host describes the posture of those telling people to move on.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-40",
+      "ref": "M-40",
+      "canonical_term": "Truman Show",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "00:37:42",
+          "speaker_node_ref": "N-3",
+          "quote": "wondering whether Charlie's entire life was the Truman Show.",
+          "context": "Host disgust-frame: surrounding behavior feels scripted like Truman Show.",
+          "confidence": "high",
+          "tags": [
+            "staged",
+            "metaphor",
+            "deferred_pass1"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "00:23:38",
+          "speaker_node_ref": "N-3",
+          "quote": "tips@candaceowens. com",
+          "context": "Host asks viewers for tips identifying the goth person and not to send TikToks.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "DIA"
+          ]
+        },
+        {
+          "episode": 12,
+          "video_timestamp": "00:48:25",
+          "speaker_node_ref": "N-3",
+          "quote": "please send us tips@candaceowens. com",
+          "context": "Host closes with a repeat call for tips on the goth suspect.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "DIA"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-243",
+      "ref": "M-243",
+      "canonical_term": "Regicide",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "00:27:32",
+          "speaker_node_ref": "N-3",
+          "quote": "something akin to a regicide",
+          "context": "Host floats the theory that Kirk was killed to install a ruler he would not have approved.",
+          "confidence": "high",
+          "tags": [
+            "theory",
+            "betrayal"
+          ]
+        },
+        {
+          "episode": 12,
+          "video_timestamp": "00:48:25",
+          "speaker_node_ref": "N-3",
+          "quote": "I proclaim regicide.",
+          "context": "Host closes the episode by proclaiming the theory.",
+          "confidence": "high",
+          "tags": [
+            "theory",
+            "closing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-244",
+      "ref": "M-244",
+      "canonical_term": "Your Gut Is Your God Instinct",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "00:47:45",
+          "speaker_node_ref": "N-3",
+          "quote": "Your gut instinct is your God instinct",
+          "context": "Host links Charlie's go-with-your-gut line to intuition given by God.",
+          "confidence": "high",
+          "tags": [
+            "gut",
+            "catchphrase"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq117
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep117): N-10680, N-10687, N-10688, N-10698, N-10707, N-10729, N-10737, N-10797, N-10816, N-10832, N-10840
+  - Hole-minted Nodes (reintro-ep117): N-10680, N-10688, N-10707, N-10737
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-699, N-700, N-701, N-702, N-703, N-704, N-705, N-10987, N-10988, N-10989, N-10990, N-10991
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-11, N-14, N-17, N-40, N-55, N-99, N-162, N-185, N-194, N-267, N-272, N-338, N-348, N-350, N-450, N-461, N-471, N-532, N-10000, N-10100, N-10107, N-10110, N-10186, N-10307, N-10325, N-10346, N-10383, N-10387, N-10395, N-10401, N-10411, N-10421, N-10507, N-10537, N-10605, N-10614, N-10678, N-10768, N-10888, N-10913, N-10923
+  - Tip-minted Nodes (skeleton): N-698, N-699, N-700, N-701, N-10987, N-10991
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-11, N-14, N-17, N-40, N-55, N-99, N-162, N-185, N-194, N-267, N-272, N-338, N-348, N-350, N-450, N-461, N-471, N-532, N-10000, N-10100, N-10107, N-10110, N-10186, N-10307, N-10325, N-10346, N-10383, N-10387, N-10395, N-10401, N-10411, N-10421, N-10507, N-10537, N-10605, N-10614, N-10678, N-10768, N-10888, N-10913, N-10923, N-10797, N-10832, N-10840, N-10989, N-702, N-703, N-704, N-10729, N-10816, N-10988, N-10687, N-10698, N-10990
   - Claim Range: C-4653–C-4721
   - (see registers)
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:02:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4655, N-14, N-705, N-2, N-1*
+*Related: C-4655, N-14, N-704, N-2, N-1*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:06:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4659, C-4660, N-699, N-700, N-10107*
+*Related: C-4659, C-4660, N-698, N-699, N-10107*
 
 ---
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:15:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4674, C-4675, C-4676, N-185, N-701, N-267, N-7, N-1, N-10987*
+*Related: C-4674, C-4675, C-4676, N-185, N-700, N-267, N-7, N-1, N-10987*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:17:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4677, N-702, N-701*
+*Related: C-4677, N-701, N-700*
 
 **A-2684.2** Dr. Philip Goldsberry's 2013 bio on the Soter Global Ministries website (shown)
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:19:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4679, C-4683, N-702, N-10989*
+*Related: C-4679, C-4683, N-701, N-10989*
 
 **A-2684.3** Current Soter Global Ministries website timeline of its Eastern European work (shown and read aloud)
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:23:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4688, C-4689, C-4690, C-4692, C-4693, C-4694, C-4695, C-4696, N-2, N-11, N-17, N-461, N-14, N-704, N-471, N-702, N-10401, N-10186*
+*Related: C-4688, C-4689, C-4690, C-4692, C-4693, C-4694, C-4695, C-4696, N-2, N-11, N-17, N-461, N-14, N-703, N-471, N-701, N-10401, N-10186*
 
 **A-2685.2** 2013 photo of Tyler Bowyer with a Ukrainian orphan named Natalia (shown)
 
@@ -512,43 +512,43 @@ Named as the people Epstein said in his emails he worked for.
 
 *Related: C-4706*
 
-**N-699** Dan Merrill
+**N-698** Dan Merrill
 
 First named by the host at 00:06:08 in episode 117. The professional paver brought in to pave the crime scene, interviewed by Jimmy Rex.
 
 *Related: C-4659, C-4660, A-2679.1*
 
-**N-700** Jimmy Rex
+**N-699** Jimmy Rex
 
 First named by the host at 00:06:08 in episode 117. Interviewer of paver Dan Merrill.
 
 *Related: C-4659, C-4660, A-2679.1*
 
-**N-701** Philip Goldsberry Jr.
+**N-700** Philip Goldsberry Jr.
 
 First named by the host at 00:14:08 in episode 117. Member of Terrell Farnsworth's AV team whom the host identifies as the person who mic'd Charlie Kirk on September 10. Aliases: Philip Goldsberry; Phillips Goldsberry.
 
 *Related: C-4674, C-4675, C-4676, C-4677, C-4683, A-2683.1, A-2684.1*
 
-**N-702** Dr. Philip Goldsberry
+**N-701** Dr. Philip Goldsberry
 
 First named by the host at 00:17:32 in episode 117. Arizona pastor, father of Philip Goldsberry Jr., co-founder and board chairman of Soter Global Ministries. Aliases: Philip Goldsberry Sr.; Phil Goldsberry.
 
 *Related: C-4677, C-4679, C-4680, C-4683, A-2684.1, A-2684.2, A-2685.1*
 
-**N-703** Otto Busher
+**N-702** Otto Busher
 
 First named by the host at 00:18:27 in episode 117. Transcript spelling "Colonel Otto Busher"; a US military colonel the host says partnered with Erika Kirk's Romanian Angels and was accused online of trafficking. The correct spelling is unverified.
 
 *Related: C-4682, C-4689*
 
-**N-704** Curtis Kolvet
+**N-703** Curtis Kolvet
 
 First named by the host at 00:24:24 in episode 117. Andrew Kolvet's brother ("Andrew Corbett's brother, Curtis"), said to be a lieutenant colonel stationed in Romania. Surname inferred from the brother relationship.
 
 *Related: C-4693, A-2685.1*
 
-**N-705** Laura Ingraham
+**N-704** Laura Ingraham
 
 First named by the host at 00:38:48 in episode 117 (transcript spelling "Laura Ingram"). Host of the show on which the Kolvet necklace clip aired.
 
@@ -751,7 +751,7 @@ Said by the host to have artificially boosted Erika Kirk after the WHCD.
 Node Type: Topic
 Investigation target: why Charlie Kirk's Rode Wireless Pro transmitter was worn inside his shirt, with the magnetic clasp outside, on September 10. The host dates the inside placement to October 8, 2024 on the "You're Being Brainwashed" tour, after the wireless redundancy was added and earlier stops had it outside the shirt. She identifies Philip Goldsberry Jr. as the technician who fitted it, and audio professionals told her the placement makes no audio sense.
 
-*Related: C-4667, C-4668, C-4669, C-4670, C-4671, C-4674, C-4675, C-4676, C-4698, A-2680.1, A-2680.2, A-2682.1, A-2683.1, N-701, N-267*
+*Related: C-4667, C-4668, C-4669, C-4670, C-4671, C-4674, C-4675, C-4676, C-4698, A-2680.1, A-2680.2, A-2682.1, A-2683.1, N-700, N-267*
 
 **N-10988** Miss Universe Organization
 
@@ -765,14 +765,14 @@ The pageant organization the host says Trump co-owned with NBC Universal. She sa
 Node Type: Organization
 Transcript spellings "Soder Global Ministries" and "Soteria Global Ministries". Charity co-founded in 2006 by Dr. Philip Goldsberry, who chairs its board. According to its website, as read by the host, it provided medical care and training in orphanages, clinics and schools in Albania, Romania and Ukraine. She says it taught about human trafficking and visited a shelter for trafficking victims, and filed formal paperwork in 2010.
 
-*Related: C-4679, C-4680, C-4681, C-4683, C-4684, A-2684.2, A-2684.3, N-702*
+*Related: C-4679, C-4680, C-4681, C-4683, C-4684, A-2684.2, A-2684.3, N-701*
 
 **N-10990** Black Sea Rotational Force
 
 Node Type: Organization
 US Marine rotational force the host says set up a base in Romania in 2010 that was later accused of trafficking and prostituting children. She ties it to Erika Kirk's Romanian Angels partnership with Colonel "Otto Busher."
 
-*Related: C-4681, C-4682, C-4689, N-703*
+*Related: C-4681, C-4682, C-4689, N-702*
 
 **N-10991** Visual Impulse
 
@@ -897,7 +897,7 @@ Claim: The host says paver Dan Merrill, in his interview with Jimmy Rex, describ
 Transcript Snippet: just a few days later, they had sent another government team to go in and to dig out all of the soil. 8 to 10 in of soil.
 
 Anchored Artifacts: A-2679.1
-Mentions: N-699, N-700
+Mentions: N-698, N-699
 Related Nodes: N-10107
 Investigative Direction: Obtain UVU facilities and contractor records for the excavation and paving, including which agency or contractor removed the soil and where it was taken.
 
@@ -912,7 +912,7 @@ Claim: In the Jimmy Rex interview clip, Dan Merrill says that when he arrived an
 Transcript Snippet: When I showed up, I took pictures of what it looked like. They had taken out about 10 in of the dirt around the whole place.
 
 Anchored Artifacts: A-2679.1
-Mentions: N-699, N-700
+Mentions: N-698, N-699
 Related Nodes: N-10107
 Investigative Direction: Obtain Merrill's photographs with metadata and compare them with UVU's records of the site work.
 
@@ -1123,7 +1123,7 @@ Claim: The host says the member of Terrell Farnsworth's team who mic'd Charlie K
 Transcript Snippet: And that answer is uh the answer is a young man named Philip Goldsberry Jr., okay?
 
 Anchored Artifacts: A-2683.1
-Mentions: N-701, N-267, N-185, N-1
+Mentions: N-700, N-267, N-185, N-1
 Related Nodes: N-10987
 Investigative Direction: Confirm the technician's identity from event crew lists, Visual Impulse staffing records and UVU credentialing.
 
@@ -1138,7 +1138,7 @@ Claim: In a video by X user Sam Parker, Philip Goldsberry is shown holding the t
 Transcript Snippet: This is how we know it's the Rode Wireless Pro microphone because it comes with the dual charging cases and and docking stations.
 
 Anchored Artifacts: A-2683.1
-Mentions: N-185, N-701, N-267, N-7
+Mentions: N-185, N-700, N-267, N-7
 Related Nodes: N-10987
 Investigative Direction: Compare the equipment visible in the footage with Rode Wireless Pro product specifications and with TPUSA or Visual Impulse equipment inventories.
 
@@ -1153,7 +1153,7 @@ Claim: According to Sam Parker's video, Philip Goldsberry secured the mic under 
 Transcript Snippet: And here you can see that Philip Goldsberry secured it under Charlie's shirt next to the necklace.
 
 Anchored Artifacts: A-2683.1
-Mentions: N-701, N-185, N-1
+Mentions: N-700, N-185, N-1
 Related Nodes: N-10987, N-10537
 Investigative Direction: Frame-by-frame analysis of the mic-up and shooting footage to locate the transmitter relative to the necklace.
 
@@ -1168,7 +1168,7 @@ Claim: The host says Philip Goldsberry Jr.'s father, Dr. Philip Goldsberry, is a
 Transcript Snippet: his name is Dr. Philip Goldsberry. So, they have obviously the same name. That's his dad right there. He is a pastor in Arizona
 
 Anchored Artifacts: A-2684.1
-Mentions: N-702, N-701
+Mentions: N-701, N-700
 Related Nodes: N-10614
 Investigative Direction: Verify Dr. Goldsberry's ministry, credentials and family relationship through church and public records.
 
@@ -1198,7 +1198,7 @@ Claim: The host says that in 2006 Dr. Philip Goldsberry co-founded a charitable 
 Transcript Snippet: Dr. Philip Goldsberry co-founded a charitable organization which began doing work in Eastern Europe.
 
 Anchored Artifacts: A-2684.2
-Mentions: N-702
+Mentions: N-701
 Related Nodes: N-10989, N-10614
 Investigative Direction: Obtain Soter Global Ministries' founding documents, IRS filings and board history.
 
@@ -1213,7 +1213,7 @@ Claim: The host says the organization, Soter Global Ministries, worked in Ukrain
 Transcript Snippet: The organization would come to be known as Soder Global Ministries. And of course, they were in Ukraine. And of course, they were in Romania helping to provide medical care to orphanages.
 
 Anchored Artifacts: A-2684.3
-Mentions: N-702
+Mentions: N-701
 Related Nodes: N-10989, N-10401
 Investigative Direction: Review Soter Global Ministries' annual reports and Form 990s for program locations and partner orphanages.
 
@@ -1243,7 +1243,7 @@ Claim: The host says Erika Kirk's Romanian Angels drew criticism online when peo
 Transcript Snippet: This is what landed Erika's Romanian Angels in some hot water online when they realized she was partnering with Colonel Auto Buscher
 
 Anchored Artifacts: 
-Mentions: N-2, N-703
+Mentions: N-2, N-702
 Related Nodes: N-10990, N-10401
 Investigative Direction: Identify the officer's correct name and command, find the source of the accusation, and check for any official investigation or finding.
 
@@ -1258,7 +1258,7 @@ Claim: The host says Dr. Philip Goldsberry is today the chairman of the board of
 Transcript Snippet: So, today Dr. Goldsberry is the chairman of the board of Soter Global Ministries.
 
 Anchored Artifacts: A-2684.2
-Mentions: N-702, N-701
+Mentions: N-701, N-700
 Related Nodes: N-10989
 Investigative Direction: Check archived versions of the Soter website and its current board listing in state and IRS filings.
 
@@ -1348,7 +1348,7 @@ Claim: The host says that in late 2012 Erika Kirk began her Romanian Angels Proj
 Transcript Snippet: In late 2012, we all we know uh that Erika begins her Romanian Angels Project
 
 Anchored Artifacts: A-2685.1
-Mentions: N-2, N-703
+Mentions: N-2, N-702
 Related Nodes: N-10401, N-10990
 Investigative Direction: Obtain records of the Romanian Angels Project and any Marine Corps public-affairs material on the partnership.
 
@@ -1410,7 +1410,7 @@ Claim: The host says Andrew Kolvet's brother Curtis is, or recently was, station
 Transcript Snippet: Andrew Corbett's brother, Curtis, is currently stationed in Romania as a lieutenant colonel.
 
 Anchored Artifacts: A-2685.1
-Mentions: N-14, N-704
+Mentions: N-14, N-703
 Related Nodes: N-10401
 Investigative Direction: Confirm the officer's identity, rank and assignment through Department of Defense public-affairs releases or unit records.
 
@@ -2009,8 +2009,8 @@ Confidence: high
 - **DIA scan**: one real DIA beat, the $10,000 bounty at 00:54:23 (C-4716, A-2690.1, M-12). The "very nice tip" at 00:52:57 is a viewer's monetary chat tip (Zammit) and was not treated as a DIA beat. The host's account of the flood of emails from audio professionals (09:48, 12:50) contains none of the DIA trigger phrases and is handled as C-4667/C-4671, not as DIA. No Candace Intelligence Agency merch phrase airs, so M-14 is not used.
 - **Artifacts verbally referenced but not shown**: A-2681.1 (host's phone call with Terrell Farnsworth), A-2689.1 (WHCD "emotional asset" email) and A-2690.1 (the $10,000 bounty). The "graphic" (A-2678.1) and the science article (A-2678.2) are described as shown, but their text is only partly read.
 - **Speaker uncertainty in clips**: the necklace clips at 01:20–03:22 are not labelled in the transcript. A-2677.1 appears to be Erika Kirk. A-2677.2 appears to be Frank Turek (consistent with prior C-1962). A-2677.3 is identified as Andrew Kolvet on Laura Ingraham's show only by the host's later remark at 38:48.
-- **Name matching**: "Taylor Boyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Cole" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-338 Andrew Seifer. "Blakey Naft" mapped to N-162 Blake Neff. "Ryan Harpole" mapped to N-272 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-267. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-703) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-704) on the brother relationship alone. "Laura Ingram" is minted as Laura Ingraham (N-705); she has no row in nodes.tsv.
-- **Not minted**: "Rick", "Dan" and "Justin" in Harpole's clip (possibly Rick Cutler, Dan Flood and a Justin, who exist in nodes.tsv, but not confirmed from this transcript); Druski ("Jurski", no row in nodes.tsv; staging episode 084 mints him as N-699); Ivanka Trump (joke only, used for meme M-109); Natalia (orphan, no surname); Dana Loesch ("Dana Lash", rhetorical mention only); Tucker Carlson and Baron Coleman (mentions without a claim); Nissy and the Erika Jayne Girardi signature misreading (joke).
+- **Name matching**: "Taylor Boyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Cole" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-338 Andrew Seifer. "Blakey Naft" mapped to N-162 Blake Neff. "Ryan Harpole" mapped to N-272 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-267. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-702) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-703) on the brother relationship alone. "Laura Ingram" is minted as Laura Ingraham (N-704); she has no row in nodes.tsv.
+- **Not minted**: "Rick", "Dan" and "Justin" in Harpole's clip (possibly Rick Cutler, Dan Flood and a Justin, who exist in nodes.tsv, but not confirmed from this transcript); Druski ("Jurski", no row in nodes.tsv; staging episode 084 mints him as N-698); Ivanka Trump (joke only, used for meme M-109); Natalia (orphan, no surname); Dana Loesch ("Dana Lash", rhetorical mention only); Tucker Carlson and Baron Coleman (mentions without a claim); Nissy and the Erika Jayne Girardi signature misreading (joke).
 - **Transcription ambiguities**: "Loews E building" (kept as spoken), "road mic" / "road bike" for Rode mic, ".30-ought-six" / ".30-06", "first day date", "Teen Miss America crown" (the title is unverified), "headedtocannasoans. com" (merch URL).
 - **Meme spelling for the integrator**: staging has three titles for the same merch joke ("Stop Anti-Candism" in 112, "Stop Anti-Candaceism" in 111, "Anti-Candacism" in 113); M-107 follows 113 and the transcript spelling. M-109 reuses "Ivanka the Explorer" and M-103 reuses "Snakes in Charlie's Garden" from staging.
 - **Not inscribed as claims (admission test)**:

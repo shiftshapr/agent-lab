@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–01:01:46",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "33f8430dc8f4892645295e48cc30c6fac74bf7345b2f004f77e9048a964d135e",
@@ -373,6 +373,109 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2918",
+      "family_ref": "A-2918",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2918.1",
+          "ref": "A-2918.1",
+          "description": "Host verbal reference to the tip email moretips at candaceowens.com in connection with the Candlewood Suites footage (verbal call for tips)",
+          "related_claims": [
+            "C-8125"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:59:22",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2919",
+      "family_ref": "A-2919",
+      "bundle_name": "Tucker Carlson Theo Von Additional Clips Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2919.1",
+          "ref": "A-2919.1",
+          "description": "Audio Clip: Tucker Carlson says he does not understand the official story at all and wants a rigorous, honest federal investigation",
+          "related_claims": [
+            "C-8083"
+          ],
+          "related_nodes": [
+            "N-22",
+            "N-149"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:23:34",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2919.2",
+          "ref": "A-2919.2",
+          "description": "Audio Clip: Tucker Carlson questions that the suspect acted alone",
+          "related_claims": [
+            "C-8088"
+          ],
+          "related_nodes": [
+            "N-22"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:27",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2919.3",
+          "ref": "A-2919.3",
+          "description": "Audio Clip: Tucker Carlson says he wants an explanation of the suspect's radicalization and of the claimed confession",
+          "related_claims": [
+            "C-8089"
+          ],
+          "related_nodes": [
+            "N-22"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:29:23",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2919.4",
+          "ref": "A-2919.4",
+          "description": "Audio Clip: Tucker Carlson says he likes the host and invites critics to offer a more plausible explanation",
+          "related_claims": [
+            "C-8090"
+          ],
+          "related_nodes": [
+            "N-22",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -494,7 +597,9 @@
       "type": "person",
       "description": "Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1900"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -509,7 +614,17 @@
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8082",
+        "C-8083",
+        "C-8084",
+        "C-8085",
+        "C-8086",
+        "C-8087",
+        "C-8088",
+        "C-8089",
+        "C-8090"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -541,13 +656,626 @@
       "type": "person",
       "description": "Host notes Theo Von episode released / >1M views; kids call him Uncle Theo.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8083",
+        "C-8088"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host, speaks for herself.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8066",
+        "C-8078",
+        "C-8080",
+        "C-8081",
+        "C-8084",
+        "C-8087",
+        "C-8090",
+        "C-8092",
+        "C-8096",
+        "C-8097",
+        "C-8098",
+        "C-8099",
+        "C-8101",
+        "C-8102",
+        "C-8106",
+        "C-8107",
+        "C-8108",
+        "C-8109",
+        "C-8110",
+        "C-8111",
+        "C-8112",
+        "C-8114",
+        "C-8118",
+        "C-8120",
+        "C-8121",
+        "C-8123",
+        "C-8125"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 27,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow and TPUSA CEO whose Fox interview, town hall remarks and public appearances are discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8066",
+        "C-8067",
+        "C-8069",
+        "C-8070",
+        "C-8071",
+        "C-8072",
+        "C-8073",
+        "C-8074",
+        "C-8077",
+        "C-8078",
+        "C-8079",
+        "C-8082",
+        "C-8084",
+        "C-8091",
+        "C-8092",
+        "C-8093",
+        "C-8094",
+        "C-8121",
+        "C-8122"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 19,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-814",
+      "ref": "N-814",
+      "name": "Harris Faulkner",
+      "type": "person",
+      "description": "First named by the host at 00:00:00 in episode 45 (transcript spells it Harris Falner and Harris Faulner). Fox News anchor who interviewed Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8066",
+        "C-8068"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Milo Yiannopoulos",
+      "type": "person",
+      "description": "Named as asserting Charlie Kirk has not been buried.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8068"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "One of the shows Erika Kirk appeared on.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8072"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-284",
+      "ref": "N-284",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "CBS interviewer for Erika Kirk's town hall.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8073",
+        "C-8091",
+        "C-8093",
+        "C-8094"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor named in the host's remarks on a clip and Charlie Kirk's favorite pastor.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8076",
+        "C-8095"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-273",
+      "ref": "N-273",
+      "name": "Tim Pool",
+      "type": "person",
+      "description": "Host says he told critics they are evil.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8081"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Named in the host's account of Charlie Kirk's last messages.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8095"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "His book is cited in the host's account of Charlie Kirk's last messages.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8095"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Host says she is interested in his military connections.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8119"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-368",
+      "ref": "N-368",
+      "name": "Harry",
+      "type": "person",
+      "description": "The Fort Huachuca witness whose account, documentation and identification of Captain Nef are discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8096",
+        "C-8097",
+        "C-8098",
+        "C-8099",
+        "C-8102",
+        "C-8103",
+        "C-8104",
+        "C-8105",
+        "C-8106",
+        "C-8109",
+        "C-8110",
+        "C-8111",
+        "C-8114",
+        "C-8123",
+        "C-8124"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 15,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "The person Harry says he saw at the Fort Huachuca meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8123"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization whose fundraising, staff and statements are discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8070",
+        "C-8071",
+        "C-8074",
+        "C-8075",
+        "C-8076",
+        "C-8077",
+        "C-8079",
+        "C-8080"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10006",
+      "ref": "N-10006",
+      "name": "Fox News",
+      "type": "investigation_target",
+      "description": "Network of Erika Kirk's interview and other appearances.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8066",
+        "C-8067",
+        "C-8072",
+        "C-8119"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10968",
+      "ref": "N-10968",
+      "name": "The New York Times",
+      "type": "investigation_target",
+      "description": "Outlet where Erika Kirk sat for an interview.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8072"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10201",
+      "ref": "N-10201",
+      "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the burial-location claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8068",
+        "C-8069"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8084",
+        "C-8087",
+        "C-8091",
+        "C-8092",
+        "C-8122"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10334",
+      "ref": "N-10334",
+      "name": "CBS Bari Weiss Town Hall Production Integrity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for town hall claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8073",
+        "C-8091",
+        "C-8093",
+        "C-8094"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11097",
+      "ref": "N-11097",
+      "name": "TPUSA Post-Assassination Fundraising Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's fundraising figures.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8074",
+        "C-8075"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Place/topic referenced in Erika Kirk's town hall remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8094"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10326",
+      "ref": "N-10326",
+      "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8096",
+        "C-8097",
+        "C-8099",
+        "C-8100",
+        "C-8101",
+        "C-8104",
+        "C-8105",
+        "C-8106",
+        "C-8109",
+        "C-8110",
+        "C-8111",
+        "C-8114"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10367",
+      "ref": "N-10367",
+      "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8098",
+        "C-8102",
+        "C-8103"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "Subject of Tucker Carlson's remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8082",
+        "C-8083",
+        "C-8085",
+        "C-8088",
+        "C-8089"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10540",
+      "ref": "N-10540",
+      "name": "Tucker Carlson CIA Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's remark on his father.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8086"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10197",
+      "ref": "N-10197",
+      "name": "TPUSA Military-Personnel Network",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's interest in Neff's military ties.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8119"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10290",
+      "ref": "N-10290",
+      "name": "French Foreign Legion US Training August 2025",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's Foreign Legion information.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8121"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10025",
+      "ref": "N-10025",
+      "name": "Israel Lobby Pressure on Conservative Figures",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's pressure remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8117"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10373",
+      "ref": "N-10373",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8123"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11162",
+      "ref": "N-11162",
+      "name": "Erika Kirk Egyptian Plane Pregnancy Response",
+      "type": "topic",
+      "description": "Erika Kirk's statement at the Bari Weiss town hall, as reported by the host, that she was pregnant while the Egyptian planes were flying and has photo proof she was not aboard, and the host's reply that she never said Erika was aboard.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8091",
+        "C-8092"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -815,6 +1543,1236 @@
       "mentions_person_refs": [
         "N-2"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8066",
+      "ref": "C-8066",
+      "label": "Host Says Erika Kirk Gave Live Fox News Interview With Harris Faulkner on the Conspiracies",
+      "claim": "The host says Erika Kirk gave a live interview with Harris Faulkner on Fox News in which she addressed what the host calls the \"conspiracy theories.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "Obtain the Fox News broadcast date, transcript and video of the Faulkner interview.",
+      "transcript_snippet": "she just gave an interview live with Harris Falner on Fox News where she finally addressed the quote unquote conspiracy theories.",
+      "mentions_person_refs": [
+        "N-814",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8067",
+      "ref": "C-8067",
+      "label": "Host Says Charlie Kirk's Posthumous Book About the Sabbath Is Coming Out",
+      "claim": "The host says Charlie Kirk's posthumous book, which she describes as being about the Sabbath, is about to be released and that Erika Kirk is sitting down with news anchors as it comes out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:54",
+      "investigative_direction": "Check the publisher's announcement for the book title, subject and release date.",
+      "transcript_snippet": "because Charlie's book, this posthom humus book is coming out about the Sabbath",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8068",
+      "ref": "C-8068",
+      "label": "Host Says Milo Yiannopoulos and Others Assert Charlie Has Not Been Buried",
+      "claim": "The host says Milo Yiannopoulos and a few others have asserted with absolute certainty that Charlie Kirk has not yet been buried and say they have proof, and that this prompted Harris Faulkner's question about where he is buried.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:46",
+      "investigative_direction": "Obtain Yiannopoulos's posts and any claimed proof, and compare with cemetery or funeral records.",
+      "transcript_snippet": "Milo Yiannopoulos and a few others have asserted with absolute certainty that Charlie has not yet been buried.",
+      "mentions_person_refs": [
+        "N-224",
+        "N-1",
+        "N-814"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8069",
+      "ref": "C-8069",
+      "label": "Erika Kirk Says She Fears a Secular Revolutionary Destroying the Grave",
+      "claim": "In the Fox clip Erika Kirk says she does not want to worry about \"some secular revolutionary\" coming to destroy her husband's grave while her daughter prays there.",
+      "anchored_artifacts": [
+        "A-1525.1"
+      ],
+      "related_nodes": [
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:31",
+      "investigative_direction": "Review the full Fox News clip and any reported threats or vandalism against Kirk-related sites.",
+      "transcript_snippet": "where I don't have to be worried about some secular revolutionary coming and destroying my husband's grave while my daughter is sitting there praying",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8070",
+      "ref": "C-8070",
+      "label": "Erika Kirk Says TPUSA Sends Every Lead to the Authorities",
+      "claim": "In the Fox clip Erika Kirk says that whenever she and TPUSA hear a lead or anything, they send it to the authorities.",
+      "anchored_artifacts": [
+        "A-1525.2"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:26",
+      "investigative_direction": "Ask TPUSA or Erika Kirk's office for a log of leads forwarded to law enforcement and the agencies that received them.",
+      "transcript_snippet": "Anytime we hear a lead or anytime we hear anything, we send it to the authorities.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8071",
+      "ref": "C-8071",
+      "label": "Erika Kirk Says Critics Make Hundreds and Thousands of Dollars Per Episode",
+      "claim": "In the Fox clip Erika Kirk says people going after those she loves are making hundreds and thousands of dollars every single episode.",
+      "anchored_artifacts": [
+        "A-1525.2"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:11",
+      "investigative_direction": "Review the full clip; revenue claims about named creators could be checked against platform payout disclosures.",
+      "transcript_snippet": "you're making hundreds and thousands of dollars every single episode going after the people that I love because somehow they're in on this.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8072",
+      "ref": "C-8072",
+      "label": "Host Lists Erika Kirk's Post-Assassination Media Appearances",
+      "claim": "The host says Erika Kirk has appeared on Hannity, The Five, Fox and Friends, Outnumbered and Megyn Kelly Live and sat down with the New York Times, and uses this to argue she has time to respond.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10006",
+        "N-10968"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:11",
+      "investigative_direction": "Compile air dates of each appearance from network schedules and published transcripts.",
+      "transcript_snippet": "she's done Hannity. She's done The Five. She's done Fox and Friends. She's done Outnumbered. She's done Megan Kelly Live. She sat down with the New York Times.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8073",
+      "ref": "C-8073",
+      "label": "Host Says Erika Kirk's Bari Weiss CBS Town Hall Was Filmed Today",
+      "claim": "The host says Erika Kirk's upcoming CBS News town hall with Bari Weiss was filmed on the day of this episode.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10334"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:40",
+      "investigative_direction": "Check CBS for the taping date and air date of the town hall.",
+      "transcript_snippet": "She has also made time for an upcoming CBS News town hall sit down with Barry Weiss which was filmed today.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-284"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8074",
+      "ref": "C-8074",
+      "label": "Host Says TPUSA Raised $40 Million at Mar-a-Lago Two Nights Earlier",
+      "claim": "The host says Turning Point USA made about $40 million at Mar-a-Lago two nights before this episode.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11097"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:39",
+      "investigative_direction": "Obtain event ticketing, pledge records or TPUSA statements on the Mar-a-Lago event proceeds.",
+      "transcript_snippet": "you know they made 40 40 million like two nights ago at Mara Lago",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8075",
+      "ref": "C-8075",
+      "label": "Host Says TPUSA Took In More Than $100 Million Beyond Mar-a-Lago, About $140 Million Total",
+      "claim": "The host says that since Charlie Kirk's death TPUSA has made more than $100 million separate from the $40 million at Mar-a-Lago, so about $140 million in total.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11097"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:39",
+      "investigative_direction": "Compare with TPUSA's Form 990 filings, donor disclosures and public fundraising statements.",
+      "transcript_snippet": "has made more than $100 million that is separate from the $40 million they made at Marago the other night.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8076",
+      "ref": "C-8076",
+      "label": "Host Says a Clip Shows Rob McCoy Defending a Pedophile",
+      "claim": "The host says TPUSA is shielding people she calls \"fam\" and refers to a clip of Rob McCoy defending a pedophile or trying to launder a reputation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:30",
+      "investigative_direction": "Identify the clip and the individual involved, and review McCoy's public statements about that person.",
+      "transcript_snippet": "showing a clip of of Rob McCoy defending a pedophile or trying to like launder reputation",
+      "supports_claim_refs": [
+        "C-5071"
+      ],
+      "mentions_person_refs": [
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8077",
+      "ref": "C-8077",
+      "label": "Host Says Erika Kirk Did Not Respond to Any of the Conspiracy Claims",
+      "claim": "The host says that in the Fox interview Erika Kirk did not respond to even one of the conspiracy claims and instead offered emotion.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:19",
+      "investigative_direction": "Review the full Fox interview transcript and list any specific allegations Erika addressed.",
+      "transcript_snippet": "No, she didn't even respond to one of the conspiracies. She gave us emotion.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8078",
+      "ref": "C-8078",
+      "label": "Host Says Critics Posted Matching Videos Within Four Seconds of Each Other",
+      "claim": "The host says every person telling viewers to stop asking questions made the same video, titled along the lines of \"Erika Kirk shuts down\" the conspiracies, within four seconds of each other, which she calls an obvious PR campaign.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:19",
+      "investigative_direction": "Collect the upload timestamps of the named videos to test the four-second claim.",
+      "transcript_snippet": "having every single person that has been telling us to stop asking questions all make the exact same video within 4 seconds of each other",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8079",
+      "ref": "C-8079",
+      "label": "Host Says Charlie Kirk Built TPUSA Without a College Degree",
+      "claim": "The host says Charlie Kirk built the company without going to college and had been doing so for over a decade.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:23",
+      "investigative_direction": "Confirm Charlie Kirk's education history and TPUSA founding date from biographies and filings.",
+      "transcript_snippet": "I didn't even go to college and I've been doing this for over a decade as Charlie Kirk did.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8080",
+      "ref": "C-8080",
+      "label": "Host Says Her Team Compiled 20 Verifiable TPUSA Lies",
+      "claim": "The host says her team put together a list of 20 verifiable lies told in the weeks after Charlie Kirk's death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:59",
+      "investigative_direction": "Obtain the list of 20 lies and test each against primary records.",
+      "transcript_snippet": "We put together a list of 20 verifiable lies. that have been told in the weeks following this sudden death event.",
+      "supports_claim_refs": [
+        "C-6601"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8081",
+      "ref": "C-8081",
+      "label": "Host Says Tim Pool Went on Air Telling Her Critics They Are Evil",
+      "claim": "The host says Tim Pool went on the airwaves telling the host and her audience they are evil for pursuing their questions.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:20:59",
+      "investigative_direction": "Locate the Tim Pool broadcast and check what he said about the host's coverage.",
+      "transcript_snippet": "Tim Pool jumping on the airwaves with big estrogen energy telling us we're evil",
+      "mentions_person_refs": [
+        "N-273",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8082",
+      "ref": "C-8082",
+      "label": "Host Says Tucker Carlson Is Friends With Erika Kirk",
+      "claim": "The host says Tucker Carlson is friends with Erika Kirk but is nonetheless challenging what the FBI has said about the case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:27",
+      "investigative_direction": "Check public statements by Carlson or Erika Kirk describing their relationship.",
+      "transcript_snippet": "He is friends with Erika, but just the nonsense of what the FBI is saying.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8083",
+      "ref": "C-8083",
+      "label": "Tucker Carlson Says He Does Not Understand the Official Story",
+      "claim": "In the Theo Von clip Tucker Carlson says he does not understand the official story at all and wants a rigorous, honest federal investigation.",
+      "anchored_artifacts": [
+        "A-2919.1"
+      ],
+      "related_nodes": [
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:34",
+      "investigative_direction": "Review the Theo Von episode for the full exchange and its release date.",
+      "transcript_snippet": "I don't understand the official story at all. Uh, I assure that there is a like a truly rigorous and honest federal investigation of it.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-149"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8084",
+      "ref": "C-8084",
+      "label": "Tucker Carlson Says He Has No Idea What the Egyptian Aircraft Facts Mean",
+      "claim": "In the Theo Von clip Tucker Carlson says that although the Egyptian-aircraft claim is true, he has \"literally no idea\" what it means and cannot guess.",
+      "anchored_artifacts": [
+        "A-1528.1"
+      ],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:32",
+      "investigative_direction": "Ask Carlson what basis he has for calling the Egyptian-registration claim true and whether he saw flight records.",
+      "transcript_snippet": "I have literally no idea. I can't even guess but that's very very strange.",
+      "qualifies_claim_refs": [
+        "C-1901"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8085",
+      "ref": "C-8085",
+      "label": "Tucker Carlson Says the FBI Has a Moral and Legal Obligation to Look in Every Direction",
+      "claim": "In the Theo Von clip Tucker Carlson says the FBI has a moral and legal obligation to look in every direction and be open-minded, as in any investigation, journalism or science.",
+      "anchored_artifacts": [
+        "A-1528.2"
+      ],
+      "related_nodes": [
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:32",
+      "investigative_direction": "Compare with FBI public statements on lines of inquiry pursued.",
+      "transcript_snippet": "the FBI has a moral and legal obligation to to look in every direction and to be open-minded as you would in any investigation",
+      "mentions_person_refs": [
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8086",
+      "ref": "C-8086",
+      "label": "Host Says Tucker Carlson's Father Was on the CIA Payroll",
+      "claim": "The host says Tucker Carlson learned after his father died that his father was on the CIA payroll, and that Carlson grew up around CIA agents.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10540"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:45",
+      "investigative_direction": "Check Carlson's own public statements and published biographies about his father's work.",
+      "transcript_snippet": "His father, he learns after his father died, he thought he was just working with the CIA. No, his father was on the payroll of the CIA.",
+      "mentions_person_refs": [
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8087",
+      "ref": "C-8087",
+      "label": "Host Says Carlson's Confirmation Means NSA and CIA Sources Confirm the Egyptian Planes",
+      "claim": "The host says that because Tucker Carlson's friends are in the state, his confirmation means people in the NSA and CIA are confirming the Egyptian-plane facts are real.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:30",
+      "investigative_direction": "Ask Carlson whether his confirmation came from government sources or from the host's published flight data.",
+      "transcript_snippet": "And that means people in the NSA, the CIA are confirming that that is real.",
+      "supports_claim_refs": [
+        "C-1901"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8088",
+      "ref": "C-8088",
+      "label": "Tucker Carlson Questions That the Suspect Acted Alone",
+      "claim": "In the Theo Von clip Tucker Carlson says he does not accept as a default that the suspect acted alone and says that has to be proven.",
+      "anchored_artifacts": [
+        "A-2919.2"
+      ],
+      "related_nodes": [
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:27",
+      "investigative_direction": "Compare with the charging documents on whether any accomplice is alleged.",
+      "transcript_snippet": "One, he acted alone. Tell me how that worked.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-149"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8089",
+      "ref": "C-8089",
+      "label": "Tucker Carlson Says He Wants an Explanation of How the Suspect Was Radicalized",
+      "claim": "In the Theo Von clip Tucker Carlson says he is not claiming the shooting did not happen but wants an explanation for how the suspect became radicalized enough to murder a stranger.",
+      "anchored_artifacts": [
+        "A-2919.3"
+      ],
+      "related_nodes": [
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:23",
+      "investigative_direction": "Review prosecution filings for any evidence of the suspect's radicalization path.",
+      "transcript_snippet": "I'm not saying it didn't happen. I'm saying I want an explanation for how it happened.",
+      "mentions_person_refs": [
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8090",
+      "ref": "C-8090",
+      "label": "Tucker Carlson Says He Likes the Host and Does Not Think She Is Bad",
+      "claim": "In the Theo Von clip Tucker Carlson says he likes the host a lot and does not think she is bad, though he does not agree with some of the rabbit hole she goes down.",
+      "anchored_artifacts": [
+        "A-2919.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:30:08",
+      "investigative_direction": "Review the full Theo Von exchange for Carlson's stated disagreements.",
+      "transcript_snippet": "I mean, I like her a lot. I don't think she's bad, but I love her actually",
+      "mentions_person_refs": [
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8091",
+      "ref": "C-8091",
+      "label": "Host Says Erika Kirk Told the Bari Weiss Town Hall She Was Pregnant and Not on the Egyptian Planes",
+      "claim": "The host says Erika Kirk said at the Bari Weiss town hall that she was pregnant when the Egyptian planes were flying and following her, so she was not on them, and that she has photo proof.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11162",
+        "N-10253",
+        "N-10334"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:40",
+      "investigative_direction": "Obtain the CBS town hall footage and the photos Erika Kirk says prove she was pregnant and elsewhere.",
+      "transcript_snippet": "One, Erika said she was pregnant when the Egyptian planes were flying and following her, so she wasn't on them. She said she has photo proof.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-284"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8092",
+      "ref": "C-8092",
+      "label": "Host Says She Never Claimed Erika Was On the Egyptian Planes",
+      "claim": "The host says she never said Erika Kirk was aboard the Egyptian planes and that she first feared the planes were following Charlie, then learned they had also been following Erika.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11162",
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:40",
+      "investigative_direction": "Check the host's earlier episodes on the planes to confirm she framed them as following, not carrying, Erika.",
+      "transcript_snippet": "I never said you were on the planes. Why would I think you were on the Egyptian planes?",
+      "supports_claim_refs": [
+        "C-5075"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8093",
+      "ref": "C-8093",
+      "label": "Host Says Erika Kirk Answered Bari Weiss's Conspiracy Question With Stop",
+      "claim": "The host says that when Bari Weiss asked about the conspiracies and what Erika would say to those voicing them, Erika Kirk answered \"Stop.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10334"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:40",
+      "investigative_direction": "Obtain the town hall footage and exact wording of Weiss's question and Erika's answer.",
+      "transcript_snippet": "Erika said, \"Stop.\" No.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-284"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8094",
+      "ref": "C-8094",
+      "label": "Host Says Erika Kirk Spoke Well of Jews and Said TPUSA Is Having Shabbat Dinner",
+      "claim": "The host says Erika Kirk, not speaking about the host, talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026",
+        "N-10334"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:40",
+      "investigative_direction": "Obtain the town hall footage and the passage about Israel, Jews and Shabbat dinner.",
+      "transcript_snippet": "she talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-284"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8095",
+      "ref": "C-8095",
+      "label": "Host Characterizes Charlie Kirk's Final Messages as Praising Mikey McCoy and Rob McCoy, Plugging Hammer's Book and Urging Him to Be a Jew",
+      "claim": "The host says, sarcastically, that in his last days Charlie Kirk wanted people to know Mikey McCoy is fantastic, Rob McCoy was his favorite pastor, to buy Josh Hammer's book, and to just be a Jew, and calls these his last words.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:12",
+      "investigative_direction": "Identify the source messages or communications behind each of these reported last statements.",
+      "transcript_snippet": "that Rob McCoy was his favorite pastor. Um, and that you should buy Josh Hammer's book. He also wants you to know to just be a Jew.",
+      "supports_claim_refs": [
+        "C-1412"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-194",
+        "N-17",
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8096",
+      "ref": "C-8096",
+      "label": "Host Says Her Earlier E4 and E3 Rank Was Her Transcription Error and Harry Said O-6",
+      "claim": "The host says she misspoke the day before when she said E4 and E3, that her notes show the witness said O-6, and that she introduced the error when transferring notes after Googling and editing what she thought she heard.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:59",
+      "investigative_direction": "Compare the host's raw call notes with the published account to confirm the rank given.",
+      "transcript_snippet": "I think I made the mistake when I transferred my notes because he said uh colonels or captains.",
+      "qualifies_claim_refs": [
+        "C-1886"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-368"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8097",
+      "ref": "C-8097",
+      "label": "Host Says the Call With Harry Lasted Over an Hour",
+      "claim": "The host says her phone conversation with the Fort Huachuca witness lasted more than one hour.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:59",
+      "investigative_direction": "Request the call log or recording metadata from the host's team.",
+      "transcript_snippet": "it was over a 1-hour phone call",
+      "mentions_person_refs": [
+        "N-3",
+        "N-368"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8098",
+      "ref": "C-8098",
+      "label": "Host Says Harry Gave Her the Card He Swiped to Enter the Base and Her Team Confirmed His Account",
+      "claim": "The host says her team confirmed everything the witness said was real and that he gave her the card he swiped to enter the base.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:36",
+      "investigative_direction": "Request base access-control or visitor records for September 8-9, 2025.",
+      "transcript_snippet": "we were able to confirm everything he said was real. He gave us his card that he swiped on to the base",
+      "supports_claim_refs": [
+        "C-1885"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-368"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8099",
+      "ref": "C-8099",
+      "label": "Host Says Viewer Emails Led to the Adam Nef Photo Identification",
+      "claim": "The host says the witness did not know Captain Nef's first name; as viewers' emails came in she sent him picture options, and when someone supplied the name Adam Nef he confirmed it was the correct person.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:36",
+      "investigative_direction": "Independently verify Adam Nef's identity and assignment through Army records.",
+      "transcript_snippet": "I sent picture options to him as your emails were coming in",
+      "qualifies_claim_refs": [
+        "C-1907"
+      ],
+      "mentions_person_refs": [
+        "N-326",
+        "N-368",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8100",
+      "ref": "C-8100",
+      "label": "Host Says the 10th Mountain Division Is the New York Division and Fits Nef Leading the Interrogation",
+      "claim": "The host says Adam Nef led the interrogation and that the identification checks out because the 10th Mountain Division is the division from New York.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:36",
+      "investigative_direction": "Check Army records for Captain Adam Nef's unit and whether any 10th Mountain element was at Fort Huachuca on September 9, 2025.",
+      "transcript_snippet": "it checks out because that is the division from New York.",
+      "supports_claim_refs": [
+        "C-1907"
+      ],
+      "mentions_person_refs": [
+        "N-326"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8101",
+      "ref": "C-8101",
+      "label": "Host Says She Knows the Exact SCIF Building but Is Withholding It",
+      "claim": "The host says she knows the exact building JTF is using at Fort Huachuca and is not naming it to avoid violating national security, and that it is effectively unmarked because JTF is borrowing it.",
+      "anchored_artifacts": [
+        "A-1532.1"
+      ],
+      "related_nodes": [
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:52",
+      "investigative_direction": "Ask the host's sources to confirm the building through a trusted intermediary or public base maps.",
+      "transcript_snippet": "I'm not going to name the building. I know the exact one because I don't want to uh I don't accidentally violate national security",
+      "supports_claim_refs": [
+        "C-1908"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8102",
+      "ref": "C-8102",
+      "label": "Host Says Harry Sent Passports, Military ID, Hotel Records, Texts and Call Logs",
+      "claim": "The host says the witness sent her extensive documentation, including his old and new passport, military ID card, hotels, books, times, text messages and phone call logs with his wife.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:52",
+      "investigative_direction": "Have an independent party review the documentation and verify the hotel and time records.",
+      "transcript_snippet": "his old passport, his new passport, his military ID card, hotels, books, times, text messages, phone call logs with his wife",
+      "mentions_person_refs": [
+        "N-3",
+        "N-368"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8103",
+      "ref": "C-8103",
+      "label": "Host Says Harry Found a Cartel Tunnel at 20 and Is Now 56",
+      "claim": "The host says the witness found a cartel tunnel when he was 20 and is now 56.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:52",
+      "investigative_direction": "Check military records for the witness's 1990 assignment and his date of birth.",
+      "transcript_snippet": "First, he finds this this cartel tunnel when he's 20. Now, we fast forward, he's 56",
+      "supports_claim_refs": [
+        "C-1880"
+      ],
+      "mentions_person_refs": [
+        "N-368"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8104",
+      "ref": "C-8104",
+      "label": "Host Says the Group Panicked When Harry Walked Into the Building",
+      "claim": "The host says the group panicked when the witness walked in, because he should not have known the building was there, and did not buy his excuse.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:52",
+      "investigative_direction": "Obtain the military police incident report and ask Captain Nef about the stated reason for detaining him.",
+      "transcript_snippet": "It also, by the way, does provide an explanation for why they panicked when he just walked in there",
+      "mentions_person_refs": [
+        "N-368"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8105",
+      "ref": "C-8105",
+      "label": "Host Says Harry Was Allowed to Leave After Seven Hours",
+      "claim": "The host says that about seven hours later the witness was allowed to leave, or Captain Nef allowed him to leave.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:52",
+      "investigative_direction": "Request the military police incident record for the detention start and end times.",
+      "transcript_snippet": "It's, you know, 7 hours later, they allowed him to leave or or Captain Nef allowed him to leave.",
+      "supports_claim_refs": [
+        "C-1888"
+      ],
+      "mentions_person_refs": [
+        "N-368",
+        "N-326"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8106",
+      "ref": "C-8106",
+      "label": "Host Says Harry Said That Many Senior Officers Implied a High-Ranking Congressional Member or Executive",
+      "claim": "The host says the witness told her seeing that many senior officers is not common unless a high-ranking congressional member or someone close to the president or vice president was involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:52",
+      "investigative_direction": "Ask the witness on the record what he saw and why he drew that inference.",
+      "transcript_snippet": "he specifically said there were some high ranking congressional member or someone close to like you the president like a via the vice president",
+      "supports_claim_refs": [
+        "C-1886"
+      ],
+      "mentions_person_refs": [
+        "N-368",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8107",
+      "ref": "C-8107",
+      "label": "Host Says She Fact-Checked the Plane Tip Email and It Is True",
+      "claim": "The host says her team fact-checked the tip email about the Gulfstream flight and found it true, and that they do not simply accept tips.",
+      "anchored_artifacts": [
+        "A-1529.1"
+      ],
+      "related_nodes": [
+        "N-10332"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:18",
+      "investigative_direction": "Obtain the ADS-B or flight-history records the team used to verify the tail number and dates.",
+      "transcript_snippet": "we have fact checked it is true trust us to fact check stuff.",
+      "supports_claim_refs": [
+        "C-1905"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8108",
+      "ref": "C-8108",
+      "label": "Host Says El Paso Was the Origin of Weird Flights on the Day of the Assassination",
+      "claim": "The host says El Paso, Texas is where all the weird flights were coming from on the day of Charlie Kirk's assassination, so the plane's stop there is compelling.",
+      "anchored_artifacts": [
+        "A-1529.1"
+      ],
+      "related_nodes": [
+        "N-10332"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:18",
+      "investigative_direction": "Pull flight-tracking history for El Paso departures on September 10, 2025.",
+      "transcript_snippet": "El Paso, Texas is where all those weird flights were coming from on the day of Charlie Cook's assassination.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8109",
+      "ref": "C-8109",
+      "label": "Host Says the Plane Tip Matches Harry's Timeline Exactly",
+      "claim": "The host says the plane's movements mean the timeline the witness gave is exactly right, with the meeting early in the morning at about 7:37.",
+      "anchored_artifacts": [
+        "A-1529.1"
+      ],
+      "related_nodes": [
+        "N-10326",
+        "N-10332"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:18",
+      "investigative_direction": "Compare the tip's flight times against the witness's reported 7:37 AM entry and later detention.",
+      "transcript_snippet": "the timeline that he gave us is exactly right.",
+      "supports_claim_refs": [
+        "C-1885"
+      ],
+      "mentions_person_refs": [
+        "N-368",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8110",
+      "ref": "C-8110",
+      "label": "Host Says Harry Plans to Go Public and She Is Helping Him Find a Show",
+      "claim": "The host says the witness is planning to come out on podcasts and that she will help him this weekend choose whose show to go on.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:18",
+      "investigative_direction": "Follow later episodes and podcasts for the witness's public appearances.",
+      "transcript_snippet": "having spoken to this individual who is planning to come out and do podcasts and speak about that.",
+      "mentions_person_refs": [
+        "N-368",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8111",
+      "ref": "C-8111",
+      "label": "Host Says Harry Rose From 60 to 65 Percent Certainty to 100 Percent on Nef",
+      "claim": "The host says the witness first put the chance a name was the interrogator at about 60 to 65 percent and became 100 percent certain once she gave him the correct Nef.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:37",
+      "investigative_direction": "Have the witness identify the captain from an unlabeled photo array in a documented process.",
+      "transcript_snippet": "I would put that at about maybe 65 60 to 65% that it could be this person until I gave him the correct nef and he was like 100% that's the guy um that questioned me.",
+      "qualifies_claim_refs": [
+        "C-1907"
+      ],
+      "mentions_person_refs": [
+        "N-326",
+        "N-368",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8112",
+      "ref": "C-8112",
+      "label": "Tipster Email Says the Plane Left Fort Huachuca at 11:43 AM on September 9",
+      "claim": "According to the tipster email read by the host, the aircraft left at 11:43 a.m. on the 9th, which the tipster says could line up with the witness's morning sighting; the earlier reading of the email gave a 12:31 p.m. departure.",
+      "anchored_artifacts": [
+        "A-1529.1"
+      ],
+      "related_nodes": [
+        "N-10332"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:10",
+      "investigative_direction": "Reconcile the 11:43 a.m. and 12:31 p.m. times against ADS-B and FAA records.",
+      "transcript_snippet": "it could line up well with what this air that with this aircraft leaving at 11:43 a. m. on the 9th.",
+      "qualifies_claim_refs": [
+        "C-1905"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8113",
+      "ref": "C-8113",
+      "label": "Tipster Email Says It Is the Only Time the Plane Was Noticed at Fort Huachuca",
+      "claim": "According to the tipster email, this is the only time the writer has noticed the C-37A at Fort Huachuca.",
+      "anchored_artifacts": [
+        "A-1529.1"
+      ],
+      "related_nodes": [
+        "N-10332"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:10",
+      "investigative_direction": "Search historical flight data for other visits of tail 99-044 to Fort Huachuca.",
+      "transcript_snippet": "This is the only time that I have noticed that this plane was in Fort Wuka."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8114",
+      "ref": "C-8114",
+      "label": "Host Says Harry Described the Meeting as a Finalization of the Operation",
+      "claim": "The host says the witness described the meeting as one in which the operation was being finalized, a finalization meeting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:10",
+      "investigative_direction": "Ask the witness what words and documents led him to call it a finalization meeting.",
+      "transcript_snippet": "he described it uh as a meeting that when the operation is being finalized a finalization meeting",
+      "mentions_person_refs": [
+        "N-368",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8115",
+      "ref": "C-8115",
+      "label": "Mark Says Call Signs Were Standard RCH From Tucson Through Fort Huachuca",
+      "claim": "Mark says the call sign from Tucson to Fort Huachuca was the standard RCH, as it was before, and changed to SAM only after takeoff from Fort Huachuca.",
+      "anchored_artifacts": [
+        "A-1530.1"
+      ],
+      "related_nodes": [
+        "N-10332"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:38",
+      "investigative_direction": "Obtain the full call-sign column from the flight log shown on screen.",
+      "transcript_snippet": "the call sign from Tucson to Fort Wuka is a standard reach. Everything before that is as well.",
+      "supports_claim_refs": [
+        "C-1906"
+      ],
+      "mentions_person_refs": [
+        "N-67"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8116",
+      "ref": "C-8116",
+      "label": "Mark Says the Venus Call Sign Is Used When the Plane Is Empty",
+      "claim": "Mark says the Venus call sign is used just when the plane is empty and has no one on it.",
+      "anchored_artifacts": [
+        "A-1530.1"
+      ],
+      "related_nodes": [
+        "N-10332"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:38",
+      "investigative_direction": "Verify Venus call-sign usage against military flight-operations references.",
+      "transcript_snippet": "the Venus call sign is just when the plane is empty. It doesn't have anyone on it.",
+      "mentions_person_refs": [
+        "N-67"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8117",
+      "ref": "C-8117",
+      "label": "Host Says She Feels Charlie Was Under Pressure From Jewish Friends",
+      "claim": "The host says she feels Charlie Kirk was under pressure from many of his Jewish so-called friends and that Turning Point USA has offered no honesty about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:23",
+      "investigative_direction": "Identify the specific individuals, messages or donor communications the host is relying on.",
+      "transcript_snippet": "I just I feel like he was under pressure actually from a lot of his Jewish quote unquote friends",
+      "supports_claim_refs": [
+        "C-6547"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8118",
+      "ref": "C-8118",
+      "label": "Host Says Her Book Is Now Shipping to Canada",
+      "claim": "The host says her book is now shipping to Canada through makehimasandwich.com.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:54:34",
+      "investigative_direction": "Check the book site for shipping terms.",
+      "transcript_snippet": "we are now also shipping to Canada",
+      "supports_claim_refs": [
+        "C-5137"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8119",
+      "ref": "C-8119",
+      "label": "Host Says She Is Interested in Blake Neff's Military Connections",
+      "claim": "The host says she did not look into why Blake Neff left Fox News, because she is more interested in his military connections.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10006",
+        "N-10197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:36",
+      "investigative_direction": "Review Neff's career history and any publicly stated military ties.",
+      "transcript_snippet": "I didn't look into the Blake Nef thing or why he left uh Fox News. Uh because I'm just more interested in his military connections",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8120",
+      "ref": "C-8120",
+      "label": "Host Thanks the Commenter Laughing Cats Music World for a Massive Donation",
+      "claim": "The host says the commenter Laughing Cats Music World made a massive donation.",
+      "anchored_artifacts": [
+        "A-1531.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:55:36",
+      "investigative_direction": "Confirm the donation with the platform's super chat or membership records.",
+      "transcript_snippet": "And thank you, by the way. That's a massive donation.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8121",
+      "ref": "C-8121",
+      "label": "Host Says the Feds Have Not Contacted Her About the French Foreign Legion Information",
+      "claim": "The host says she said she had information about the French Foreign Legion being on the ground on the day of the assassination and that federal authorities have not reached out to her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10290"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:56",
+      "investigative_direction": "Ask the FBI whether it has contacted the host about her information.",
+      "transcript_snippet": "the feds have not reached out to me.",
+      "supports_claim_refs": [
+        "C-5125"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8122",
+      "ref": "C-8122",
+      "label": "Host Says TPUSA Responds to the Egyptian Planes With Jokes",
+      "claim": "The host says people around Turning Point USA are making jokes that there is something not right about the Egyptian planes rather than showing concern.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:56",
+      "investigative_direction": "Review public TPUSA and Charlie Kirk Show statements on the Egyptian planes.",
+      "transcript_snippet": "They're just making jokes that that there's something not right with that.",
+      "supports_claim_refs": [
+        "C-5157"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8123",
+      "ref": "C-8123",
+      "label": "Host Says She Can Confirm the Meeting Happened as Harry Described but Not Who He Saw",
+      "claim": "The host says she can confirm the witness was factually there and that the meeting happened as he said at the time he said, but cannot confirm his memory of who he believes he saw, including Brian Harpole.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:22",
+      "investigative_direction": "Seek independent corroboration of Harpole's presence at Fort Huachuca on September 9, 2025.",
+      "transcript_snippet": "I cannot confirm his own eyes. I can't confirm his memory of who he believes he saw.",
+      "qualifies_claim_refs": [
+        "C-1887"
+      ],
+      "mentions_person_refs": [
+        "N-368",
+        "N-272",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8124",
+      "ref": "C-8124",
+      "label": "Host Says Harry Thinks He Has an Idea Who the Woman in the Pickup Was",
+      "claim": "Responding to a viewer asking who the woman in the pickup was, the host says Harry thinks he has an idea and should share his story.",
+      "anchored_artifacts": [
+        "A-1531.5"
+      ],
+      "related_nodes": [
+        "N-10333"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:22",
+      "investigative_direction": "Ask the witness whom he believes he saw in the truck.",
+      "transcript_snippet": "Harry thinks he has an idea and he should come out and he should share his story.",
+      "mentions_person_refs": [
+        "N-368"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8125",
+      "ref": "C-8125",
+      "label": "Host Asks for Tips Be Sent to More Tips at Candace Owens dot com",
+      "claim": "The host asks viewers who know about the Candlewood Suites footage to send tips to More Tips at candaceowens.com.",
+      "anchored_artifacts": [
+        "A-2918.1"
+      ],
+      "related_nodes": [
+        "N-10333"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:22",
+      "investigative_direction": "Check the tip inbox for submissions on Candlewood Suites footage.",
+      "transcript_snippet": "More tips at candace Owens. com is who you can send that tip to.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": [
@@ -855,6 +2813,236 @@
           "tags": [
             "wave3",
             "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-206",
+      "ref": "M-206",
+      "canonical_term": "Megan Markle Syndrome",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:04:36",
+          "speaker_node_ref": "N-3",
+          "quote": "this is going to be read as Megan Markle syndrome",
+          "context": "Host says wanting privacy when convenient but publicity otherwise will read as Megan Markle syndrome in Erika Kirk's burial-privacy request.",
+          "confidence": "high",
+          "tags": [
+            "privacy",
+            "erika"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-189",
+      "ref": "M-189",
+      "canonical_term": "Mockingbirds",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:19:15",
+          "speaker_node_ref": "N-3",
+          "quote": "a lot of these mockingb bird influencers",
+          "context": "Host labels influencers who say inquiry is wrong as mockingbird influencers.",
+          "confidence": "high",
+          "tags": [
+            "mockingbird",
+            "influencers"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:15:19",
+          "speaker_node_ref": "N-3",
+          "quote": "It's never been more obvious of a psychological operation.",
+          "context": "Host calls the PR response to Erika Kirk's interview a psychological operation.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "pr"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-207",
+      "ref": "M-207",
+      "canonical_term": "Can't Critique the Fam",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:14:30",
+          "speaker_node_ref": "N-3",
+          "quote": "But you can't you can't critique you can't critique the fam.",
+          "context": "Host mocks the idea that TPUSA employees are family and thus beyond critique.",
+          "confidence": "high",
+          "tags": [
+            "fam",
+            "tpusa"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-208",
+      "ref": "M-208",
+      "canonical_term": "Nosy Neighbors",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:20:59",
+          "speaker_node_ref": "N-3",
+          "quote": "Yeah, we're the nosy neighbors.",
+          "context": "Host casts herself and her audience as nosy neighbors in a sudden-death analogy.",
+          "confidence": "high",
+          "tags": [
+            "analogy",
+            "nosy neighbors"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:30:08",
+          "speaker_node_ref": "N-3",
+          "quote": "with the Fed slop narrative",
+          "context": "Host rejects the official narrative as fed slop.",
+          "confidence": "high",
+          "tags": [
+            "fed slop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-209",
+      "ref": "M-209",
+      "canonical_term": "Candace 19",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:30:08",
+          "speaker_node_ref": "N-3",
+          "quote": "It's like it's like Candace 19.",
+          "context": "Host likens social-distancing from her to COVID messaging and coins Candace 19.",
+          "confidence": "high",
+          "tags": [
+            "candace 19",
+            "covid"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-210",
+      "ref": "M-210",
+      "canonical_term": "Common Sense Virus",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:31:07",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm the common sense virus.",
+          "context": "Host extends the Candace 19 bit by calling common sense the virus.",
+          "confidence": "high",
+          "tags": [
+            "common sense",
+            "candace 19"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:54:34",
+          "speaker_node_ref": "N-3",
+          "quote": "make him a sandwich. com if you'd like to buy it from us directly",
+          "context": "Host plugs her book and its website.",
+          "confidence": "high",
+          "tags": [
+            "book",
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:54:34",
+          "speaker_node_ref": "N-3",
+          "quote": "we will tell you not to go Max and to instead get the vax",
+          "context": "Host jokes about telling people not to go Max in the Candace 19 bit.",
+          "confidence": "high",
+          "tags": [
+            "go max"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 45,
+          "video_timestamp": "00:59:22",
+          "speaker_node_ref": "N-3",
+          "quote": "More tips at candace Owens. com is who you can send that tip to.",
+          "context": "Host asks for tips on the Candlewood Suites footage.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "tip line"
           ]
         }
       ]

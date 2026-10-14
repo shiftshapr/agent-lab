@@ -133,6 +133,136 @@
         "claim": "C-3912",
         "node": "N-628",
         "reason": "first name only: transcript 'Andrew messaged Gary, that's Paramount Tactical' / 'Gary has confirmed to me'; Gary Melton runs Paramount Tactical (Daveed, 2026-10-13)"
+      },
+      {
+        "claim": "C-5128",
+        "node": "N-387",
+        "reason": "claim text: \"the president of France\""
+      },
+      {
+        "claim": "C-4902",
+        "node": "N-184",
+        "reason": "role reference: the person who took the camera down (camera operator)"
+      },
+      {
+        "claim": "C-6290",
+        "node": "N-13",
+        "reason": "the host reads the profile; \"the writer\" is its author Clara Molot (ep158 A-L1 audio)"
+      },
+      {
+        "claim": "C-6291",
+        "node": "N-13",
+        "reason": "the host reads the profile; \"the writer\" is its author Clara Molot (ep158 A-L1 audio)"
+      },
+      {
+        "claim": "C-6293",
+        "node": "N-13",
+        "reason": "the host reads the profile; \"the writer\" is its author Clara Molot (ep158 A-L1 audio)"
+      },
+      {
+        "claim": "C-6303",
+        "node": "N-13",
+        "reason": "the host reads the profile; \"the writer\" is its author Clara Molot (ep158 A-L1 audio)"
+      },
+      {
+        "claim": "C-6304",
+        "node": "N-13",
+        "reason": "the host reads the profile; \"the writer\" is its author Clara Molot (ep158 A-L1 audio)"
+      },
+      {
+        "claim": "C-5136",
+        "node": "N-27",
+        "reason": "claim text: \"friends with Ye\" (Kanye West)"
+      },
+      {
+        "claim": "C-6901",
+        "node": "N-500",
+        "reason": "role reference: \"Erika's mother\""
+      },
+      {
+        "claim": "C-6902",
+        "node": "N-500",
+        "reason": "role reference: \"her mother\""
+      },
+      {
+        "claim": "C-7007",
+        "node": "N-15",
+        "reason": "Erika on the call says \"working with Justin\" (TPUSA COO Justin Streiff)"
+      },
+      {
+        "claim": "C-7565",
+        "node": "N-4",
+        "reason": "role reference: \"the vice president\""
+      },
+      {
+        "claim": "C-7719",
+        "node": "N-27",
+        "reason": "claim text: \"Ye\" (Kanye West)"
+      },
+      {
+        "claim": "C-7720",
+        "node": "N-27",
+        "reason": "claim text: \"Ye\" (Kanye West)"
+      },
+      {
+        "claim": "C-6996",
+        "node": "N-221",
+        "reason": "claim text: \"the McCoys (Elizabeth, Mikey)\""
+      },
+      {
+        "claim": "C-7885",
+        "node": "N-82",
+        "reason": "role reference: \"a sitting leader of a foreign country\" suing the host (the Macron defamation suit)"
+      },
+      {
+        "claim": "C-8380",
+        "node": "N-748",
+        "reason": "claim text: \"Ike\" (host's Mar-a-Lago lunch reference; identification flagged as a guess)"
+      },
+      {
+        "claim": "C-8412",
+        "node": "N-14",
+        "reason": "claim text: \"Andrew\" (Kolvet, plane arrival)"
+      },
+      {
+        "claim": "C-8519",
+        "node": "N-15",
+        "reason": "claim text: \"Justin\" in the TPUSA text chain (COO Justin Streiff)"
+      },
+      {
+        "claim": "C-9566",
+        "node": "N-97",
+        "reason": "claim text: \"Charlie and Ben\" (Shapiro) in the channel video list"
+      },
+      {
+        "claim": "C-9646",
+        "node": "N-30",
+        "reason": "role reference: \"her husband\""
+      },
+      {
+        "claim": "C-10388",
+        "node": "N-30",
+        "reason": "role reference: \"her husband\""
+      },
+      {
+        "claim": "C-10416",
+        "node": "N-30",
+        "reason": "role reference: \"her husband\""
+      },
+      {
+        "claim": "C-10586",
+        "node": "N-30",
+        "reason": "role reference: \"her husband\""
+      },
+      {
+        "claim": "C-10353",
+        "node": "N-14",
+        "reason": "claim text: \"Andrew\" (Kolvet)"
+      },
+      {
+        "claim": "C-10580",
+        "node": "N-40",
+        "reason": "claim text: \"Tyler\" (Robinson)"
       }
     ],
     "first_name_ok": [
@@ -386,7 +516,7 @@
         "reason": "Nicole Rothstein (intro ep77): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-663",
+        "id": "N-662",
         "episodes": [
           75
         ],
@@ -405,6 +535,35 @@
           83
         ],
         "reason": "Katherine Locastro is named in A-1902.2 text (ep83); first minted in the 2026-10-13 skeleton fill at ep84. Wave 4 debt."
+      },
+      {
+        "id": "N-844",
+        "episodes": [
+          94
+        ],
+        "reason": "Kathy Nester (defense attorney): named in existing ep94 claim C-2769 text; node minted in supplement batch 3 (ep142) where she is first linked. Claims are immutable, so the earlier naming is accepted rather than rewritten."
+      },
+      {
+        "id": "N-851",
+        "episodes": [
+          152
+        ],
+        "reason": "Ed Sheeran: named in passing in existing ep152 claim C-3458 text; node minted in supplement batch 3 (ep160). Incidental mention; accepted rather than rewriting an immutable claim."
+      },
+      {
+        "id": "N-884",
+        "episodes": [
+          14,
+          32
+        ],
+        "reason": "Justin Bieber: named in passing in existing claims C-7884 (ep14) and C-1706 (ep32); node minted in supplement batch 4 (ep152). Incidental; accepted rather than rewriting immutable claims."
+      },
+      {
+        "id": "N-740",
+        "episodes": [
+          26
+        ],
+        "reason": "Karl Marx: named in passing in supplement claim C-9573 (ep26, a reading-list remark); node introduced in ep107. Incidental mention; accepted."
       }
     ]
   },

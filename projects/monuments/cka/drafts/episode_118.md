@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq118
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep118): N-10701, N-10871
+  - Hole-minted Nodes (reintro-ep118): N-10871
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-706, N-707, N-708, N-709, N-710, N-711, N-712, N-10992, N-10993, N-10994, N-10995, N-10996
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-11, N-14, N-28, N-36, N-47, N-69, N-85, N-194, N-221, N-272, N-369, N-388, N-443, N-582, N-605, N-10000, N-10014, N-10075, N-10085, N-10202, N-10324, N-10367, N-10370, N-10373, N-10401, N-10417, N-10472, N-10519, N-10524, N-10532, N-10574, N-10586, N-10671, N-10698, N-10700, N-10888, N-10899, N-10923
+  - Tip-minted Nodes (skeleton): N-705, N-706, N-707, N-708, N-709, N-710, N-711, N-10992, N-10993, N-10994, N-10995, N-10996
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-11, N-14, N-28, N-36, N-47, N-69, N-85, N-194, N-221, N-272, N-369, N-388, N-443, N-582, N-605, N-10000, N-10014, N-10075, N-10085, N-10202, N-10324, N-10367, N-10370, N-10373, N-10401, N-10417, N-10472, N-10519, N-10524, N-10532, N-10574, N-10586, N-10671, N-10698, N-10700, N-10888, N-10899, N-10923, N-10701
   - Claim Range: C-3753, C-4722–C-4770
   - (see registers)
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:11:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4741, C-4742, N-605, N-707, N-443, N-10888*
+*Related: C-4741, C-4742, N-605, N-706, N-443, N-10888*
 
 ---
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:18:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4749, C-4750, C-4751, N-710, N-711, N-10993, N-10995*
+*Related: C-4749, C-4750, C-4751, N-709, N-710, N-10993, N-10995*
 
 ---
 
@@ -422,43 +422,43 @@ Transcript "Paramount not so Tactical"; said that the alibi photo children were 
 
 *Related: C-4739*
 
-**N-706** Virginia Giuffre
+**N-705** Virginia Giuffre
 
 First named by the host at 00:02:29 in episode 118 (as "Virginia"; full name at 00:06:38). Party to the defamation lawsuit with Ghislaine Maxwell; Trump says he employed her at Mar-a-Lago.
 
 *Related: C-4725, C-4726, C-4732*
 
-**N-707** Stephen Feinberg
+**N-706** Stephen Feinberg
 
 First named by the host at 00:11:06 in episode 118. Aliases: Steven Feinberg. Deputy Secretary of Defense, co-founder of Cerberus Capital Management.
 
 *Related: C-4741, C-4742, C-4743, C-4747, C-4754, C-4756, C-4758, A-2693.1*
 
-**N-708** Betsy DeVos
+**N-707** Betsy DeVos
 
 First named by the host at 00:16:00 in episode 118. Trump's first-term Secretary of Education and sister of Erik Prince.
 
 *Related: C-4746*
 
-**N-709** Erik Prince
+**N-708** Erik Prince
 
 First named by the host at 00:16:00 in episode 118. Founder of Blackwater.
 
 *Related: C-4746*
 
-**N-710** Kathryn Bolkovac
+**N-709** Kathryn Bolkovac
 
 First named by the host at 00:17:45 in episode 118. Aliases: Catherine Bolkovac. DynCorp investigator in Bosnia who exposed the trafficking scandal.
 
 *Related: C-4749, C-4750, C-4751, C-4753, C-4754, A-2694.1*
 
-**N-711** Ben Johnston
+**N-710** Ben Johnston
 
 First named by the host at 00:18:41 in episode 118. DynCorp employee who filed similar reports and was fired.
 
 *Related: C-4750, A-2694.1*
 
-**N-712** Emily Ratajkowski
+**N-711** Emily Ratajkowski
 
 First named by the host at 00:33:21 in episode 118. Author of the essay "Mother Effer" in The Cut.
 
@@ -469,7 +469,7 @@ First named by the host at 00:33:21 in episode 118. Author of the essay "Mother 
 Node Type: Organization
 Private investment firm the host says Stephen Feinberg co-founded in 1992, with about 70 billion in assets under management. She says it bought DynCorp in 2010 and owned it for ten years, and that Feinberg says he has divested from it.
 
-*Related: C-4743, C-4747, C-4754, C-4756, N-707, N-10993*
+*Related: C-4743, C-4747, C-4754, C-4756, N-706, N-10993*
 
 **N-10993** DynCorp
 
@@ -483,21 +483,21 @@ Private military contractor the host says was owned by Cerberus Capital Manageme
 Node Type: Organization
 Private military company founded by Erik Prince. The host uses it to illustrate the private military business, citing $2 billion in government contracts from 1997 to 2010 and the Iraq convoy shooting whose convicted guards Trump pardoned.
 
-*Related: C-4744, C-4745, C-4746, N-709*
+*Related: C-4744, C-4745, C-4746, N-708*
 
 **N-10995** DynCorp Bosnia Sex-Trafficking Scandal
 
 Node Type: Topic
 Investigation target: the 1990s scandal, exposed in the early 2000s and made into a 2010 film, in which DynCorp employees serving with the UN International Police Task Force in Bosnia were accused of buying underage women and facilitating sex trafficking. The host says victims came from Ukraine, Croatia, Bosnia and Romania, that whistleblowers Kathryn Bolkovac and Ben Johnston were fired, and that contractors were shielded by immunity.
 
-*Related: C-4748, C-4749, C-4750, C-4751, C-4752, C-4753, A-2694.1, N-710, N-711, N-10993*
+*Related: C-4748, C-4749, C-4750, C-4751, C-4752, C-4753, A-2694.1, N-709, N-710, N-10993*
 
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the communication the host says listed Erika Kirk as an "emotional asset" after the White House Correspondents' Dinner shooting. In this episode she says the Department of War office headed by Hegseth, Feinberg and Hansel orchestrated messaging to make Erika the number one trend by morning.
 
-*Related: C-4758, N-2, N-443, N-707*
+*Related: C-4758, N-2, N-443, N-706*
 
 **N-10996** Good Call Ministries
 
@@ -564,7 +564,7 @@ Claim: Correcting her previous episode, the host says that Charlie and Erika Kir
 Transcript Snippet: It was rather when when Charlie and Erika went on their first date in August of 2018 of 2018, that was the exact same timeframe when the Epstein scandal initially broke out, right?
 
 Anchored Artifacts: 
-Mentions: N-1, N-2, N-9, N-47, N-706
+Mentions: N-1, N-2, N-9, N-47, N-705
 Related Nodes: N-10324
 Investigative Direction: Kirk wedding and dating accounts versus the court docket for the unsealing of Giuffre v. Maxwell.
 
@@ -579,7 +579,7 @@ Claim: The host says the Maxwell–Giuffre lawsuit led to a major Miami Herald e
 Transcript Snippet: It was like the a big brewing of a storm, and then the piece dropped in November of 2018.
 
 Anchored Artifacts: 
-Mentions: N-9, N-47, N-706
+Mentions: N-9, N-47, N-705
 Related Nodes: 
 Investigative Direction: Miami Herald "Perversion of Justice" publication date.
 
@@ -669,7 +669,7 @@ Claim: The host says Trump has said he employed Virginia Giuffre at Mar-a-Lago a
 Transcript Snippet: Truly, I think the reason that they um had disagreement, it was actually over a real estate deal.
 
 Anchored Artifacts: 
-Mentions: N-5, N-9, N-706
+Mentions: N-5, N-9, N-705
 Related Nodes: 
 Investigative Direction: Reporting on the Trump–Epstein bidding dispute over the Palm Beach Maison de L'Amitié property.
 
@@ -807,7 +807,7 @@ Claim: Correcting her earlier statement that Bradley Hansel reports directly to 
 Transcript Snippet: There is one man in between Bradley and Pete Hegseth. A man named Stephen Feinberg who occupies the position of Deputy Secretary of Defense.
 
 Anchored Artifacts: A-2693.1
-Mentions: N-443, N-605, N-707
+Mentions: N-443, N-605, N-706
 Related Nodes: N-10888
 Investigative Direction: The official Department of War organizational chart.
 
@@ -822,7 +822,7 @@ Claim: The host says Stephen Feinberg is the wealthiest person in the Trump admi
 Transcript Snippet: What we can state definitively is that he is the wealthiest person in the Trump administration.
 
 Anchored Artifacts: A-2693.1
-Mentions: N-707, N-5
+Mentions: N-706, N-5
 Related Nodes: N-10888
 Investigative Direction: Feinberg's financial disclosure filings and published net-worth estimates.
 
@@ -837,7 +837,7 @@ Claim: The host says Feinberg co-founded Cerberus Capital Management in 1992 and
 Transcript Snippet: Well, in 1992 he co-founded uh Cerberus Capital Management.
 
 Anchored Artifacts: 
-Mentions: N-707
+Mentions: N-706
 Related Nodes: N-10992
 Investigative Direction: Cerberus corporate history and SEC Form ADV filings.
 
@@ -882,7 +882,7 @@ Claim: The host says Betsy DeVos, Trump's first-term Secretary of Education, is 
 Transcript Snippet: And Betsy DeVos' brother is a man named Erik Prince, who is the founder of Blackwater.
 
 Anchored Artifacts: 
-Mentions: N-708, N-709, N-5
+Mentions: N-707, N-708, N-5
 Related Nodes: N-10994
 Investigative Direction: Public biographies of DeVos and Prince.
 
@@ -897,7 +897,7 @@ Claim: The host says Feinberg owned the private military group DynCorp outright 
 Transcript Snippet: Stephen Feinberg outright owning a military mercenary group um from 2010 through to 2020, he joined Trump administration in 2017 the first go around
 
 Anchored Artifacts: 
-Mentions: N-707, N-5
+Mentions: N-706, N-5
 Related Nodes: N-10993, N-10992
 Investigative Direction: DynCorp ownership filings and Feinberg's 2017 Intelligence Advisory Board appointment.
 
@@ -927,7 +927,7 @@ Claim: The host says Kathryn Bolkovac, a DynCorp investigator in Bosnia, found t
 Transcript Snippet: Catherine Bolkovac, um a a DynCorp investigator in Bosnia discovered that several DynCorp employees were involved in purchasing underage women and facilitating sex trafficking.
 
 Anchored Artifacts: A-2694.1
-Mentions: N-710
+Mentions: N-709
 Related Nodes: N-10993, N-10995
 Investigative Direction: Bolkovac's book and the UK employment tribunal ruling in Bolkovac v. DynCorp.
 
@@ -942,7 +942,7 @@ Claim: The host says DynCorp employee Ben Johnston filed similar reports and tha
 Transcript Snippet: Another employee, Ben Johnston, filed similar reports. Both were then fired by the company
 
 Anchored Artifacts: A-2694.1
-Mentions: N-711, N-710
+Mentions: N-710, N-709
 Related Nodes: N-10993, N-10995
 Investigative Direction: Johnston's lawsuit filings in Texas and the Bolkovac tribunal record.
 
@@ -957,7 +957,7 @@ Claim: The host says Bolkovac's book shows that the trafficked underage women ca
 Transcript Snippet: the trafficked underage women were coming from Ukraine, Croatia, Bosnia, and of course Romania.
 
 Anchored Artifacts: A-2694.1
-Mentions: N-710
+Mentions: N-709
 Related Nodes: N-10995, N-10401
 Investigative Direction: Bolkovac's book and UN/OSCE trafficking reports on Bosnia.
 
@@ -987,7 +987,7 @@ Claim: The host says the officers involved had immunity from prosecution in fore
 Transcript Snippet: So, in the end, DynCorp got off scot-free and just continued their relationship with the United States government.
 
 Anchored Artifacts: 
-Mentions: N-710
+Mentions: N-709
 Related Nodes: N-10993, N-10995
 Investigative Direction: Status of Forces agreements for Bosnia and DynCorp federal contract history after 2002.
 
@@ -1002,7 +1002,7 @@ Claim: The host says that in 2010, when the film about the scandal came out, Dyn
 Transcript Snippet: Now, when her movie about the scandal came out in 2010, DynCorp sold to Stephen Feinberg's Cerberus. It was owned by Cerberus for the next 10 years.
 
 Anchored Artifacts: 
-Mentions: N-707, N-710
+Mentions: N-706, N-709
 Related Nodes: N-10993, N-10992
 Investigative Direction: The 2010 Cerberus–DynCorp acquisition filing and the 2020 sale to Amentum.
 
@@ -1032,7 +1032,7 @@ Claim: The host says Stephen Feinberg has said he divested from Cerberus Capital
 Transcript Snippet: I know since uh Stephen Feinberg has said that he has divested um from Cerberus Capital
 
 Anchored Artifacts: 
-Mentions: N-707, N-443
+Mentions: N-706, N-443
 Related Nodes: N-10992
 Investigative Direction: Feinberg's ethics agreement and OGE Form 278 disclosures.
 
@@ -1062,7 +1062,7 @@ Claim: The host repeats that Erika Kirk was listed as an "emotional asset" after
 Transcript Snippet: were orchestrating messaging to artificially boost Erika. They wanted her as the number one trend by morning.
 
 Anchored Artifacts: 
-Mentions: N-2, N-443, N-707, N-605
+Mentions: N-2, N-443, N-706, N-605
 Related Nodes: N-10888, N-10923, N-10000
 Investigative Direction: The underlying email and its distribution list, sought through FOIA.
 
@@ -1122,7 +1122,7 @@ Claim: The host says Emily Ratajkowski became known for the "Blurred Lines" vide
 Transcript Snippet: Uh she gave birth, they were separated uh within a year, I believe
 
 Anchored Artifacts: 
-Mentions: N-712
+Mentions: N-711
 Related Nodes: 
 Investigative Direction: Public reporting on Ratajkowski's separation and divorce filing dates.
 
@@ -1152,7 +1152,7 @@ Claim: The host reads a passage from Ratajkowski's essay saying the character sh
 Transcript Snippet: the character that I had learned to embody after my divorce in my period of compulsively dating was a villain.
 
 Anchored Artifacts: A-2522.1
-Mentions: N-712
+Mentions: N-711
 Related Nodes: 
 Investigative Direction: Compare with the published text in The Cut.
 
@@ -1167,7 +1167,7 @@ Claim: The host reads a passage in which a friend tells Ratajkowski she sometime
 Transcript Snippet: my friend said after watching me in shorts and lip liner navigate the the clickish politics of school drop-off.
 
 Anchored Artifacts: A-2522.1
-Mentions: N-712
+Mentions: N-711
 Related Nodes: 
 Investigative Direction: Compare with the published text in The Cut.
 
@@ -1395,7 +1395,7 @@ Confidence: high
 - **No DIA beats**: The keyword scan found only "tip" at 00:45:31 ("that's a very um kind tip"), which refers to a viewer's monetary tip, not a request for information; the other hits are substrings of "multiple". The host's thanks at 00:49:17 to viewers "that sent me these stories" has none of the DIA keywords and is not treated as a tip-line beat. No M-12 or M-14 occurrence.
 - **Self-corrections without a linkable prior claim**: C-4725 corrects the host's previous-episode statement that Erika entered Charlie's life in the same month as Epstein's death. C-4741 corrects her earlier statement that Hansel reports directly to Hegseth. Neither prior statement is in claims_index.tsv (episode 117 has no indexed claims), so no Revises link was added. The integrator may link them once episode 117 claims are minted.
 - **Cross-episode links**: C-4723 Supports C-2422, C-4724 Supports C-2421, C-4735 Supports C-2909, C-4736 Supports C-2913 and C-2930, and C-4739 Supports C-2906. Possible links left out: C-4723 vs C-2420 (that claim puts Kolvet and McCoy in the West Wing; here it is the executive office building and McCoy is not named), and C-4728/C-4729 vs C-2427 (ep 76, a different proposition about non-response). C-2981 and C-2985 (ep 122) restate C-4729 and C-4723 but are later episodes, so they are not linked.
-- **Name matching**: "Andrew Kolbe" (00:49, 01:42), "Andrew Kolb" (01:42) and "Andrew Kobach" (10:20) are mapped to N-14 Andrew Kolvet from context (the alibi dispute, see C-2907). "Mikey McCormick's wife, Elizabeth Kravchuk" is mapped to N-194 Mikey McCoy and N-221 Eliza McCoy; skeleton episode 083 refers to "Elizabeth Kravchuk McCoy". "Bradley Hantel / Hansel / Hansell" are mapped to N-443. "Catherine Bolkovac" is the transcript spelling of whistleblower Kathryn Bolkovac (N-710). "Steven Feinberg" (12:59) is the same person as Stephen Feinberg (N-707). "Virginia" at 02:29 is taken as Virginia Giuffre, named in full at 06:38.
+- **Name matching**: "Andrew Kolbe" (00:49, 01:42), "Andrew Kolb" (01:42) and "Andrew Kobach" (10:20) are mapped to N-14 Andrew Kolvet from context (the alibi dispute, see C-2907). "Mikey McCormick's wife, Elizabeth Kravchuk" is mapped to N-194 Mikey McCoy and N-221 Eliza McCoy; skeleton episode 083 refers to "Elizabeth Kravchuk McCoy". "Bradley Hantel / Hansel / Hansell" are mapped to N-443. "Catherine Bolkovac" is the transcript spelling of whistleblower Kathryn Bolkovac (N-709). "Steven Feinberg" (12:59) is the same person as Stephen Feinberg (N-706). "Virginia" at 02:29 is taken as Virginia Giuffre, named in full at 06:38.
 - **Transcription ambiguities**: "Turning Points USA Club of America" (likely TPUSA Club America) kept as spoken. "our F U SUVs" (26:20) is unclear and kept verbatim. "lorettopubs. org" (43:08) is an ad fragment. The host gives two different Iraq casualty figures (17 killed, then corrected to 14 killed and 20 injured); C-4745 uses the corrected figure. The host says Blackwater contracts ran "between 1997 and 2010" as spoken.
 - **Unminted names**: Nat Rothschild (12:59, joke about his boat), Bill Clinton (20:09), Gaddafi, Robin Thicke and Ben Johnston's employer locations are named in passing with no claim, so no nodes were added. Viewer handles (Gnome 2024, Israel Texas, Little bird, Naby, Sarah Bryant, James the least, Tony Hill, Anna, RN Explorer, El Sassinator) are not person nodes.
 - **Not inscribed as claims (admission test)**: Several statements are opinion, rhetoric or speculation:

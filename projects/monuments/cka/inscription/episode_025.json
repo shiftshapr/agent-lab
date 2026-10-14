@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–00:51:05",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "47a250b4a7d456b87206c9f6ac24514ef27c6643b47dd4ad849208b1da6b7ce1",
@@ -345,6 +345,92 @@
           "source_timestamp": "00:00:00–00:00:01",
           "video_timestamp": "00:46:51",
           "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2823",
+      "family_ref": "A-2823",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2823.1",
+          "ref": "A-2823.1",
+          "description": "Viewer comment from Laughing cats music world read aloud by the host about George Zinn",
+          "related_claims": [
+            "C-6585"
+          ],
+          "related_nodes": [
+            "N-42"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:41:52",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2823.2",
+          "ref": "A-2823.2",
+          "description": "Viewer comment from Beth Mitchum read aloud by the host about AIPAC money",
+          "related_claims": [
+            "C-6590"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:45:47",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2823.3",
+          "ref": "A-2823.3",
+          "description": "Viewer comment from real light worker read aloud by the host about a student's reel of the Hall of Flags",
+          "related_claims": [
+            "C-6592",
+            "C-6593",
+            "C-6594"
+          ],
+          "related_nodes": [
+            "N-11009"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:48:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2824",
+      "family_ref": "A-2824",
+      "bundle_name": "Host Timeline Graphic Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2824.1",
+          "ref": "A-2824.1",
+          "description": "Host's on-screen timeline with new July 11 and July 18 entries (described by the host, graphic not read out in full)",
+          "related_claims": [
+            "C-6566",
+            "C-6567"
+          ],
+          "related_nodes": [
+            "N-22",
+            "N-185"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:15:47",
+          "discovery_timestamp": "00:00:00-00:00:01",
           "confidence": "medium"
         }
       ]
@@ -773,7 +859,20 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6552",
+        "C-6553",
+        "C-6554",
+        "C-6555",
+        "C-6557",
+        "C-6558",
+        "C-6559",
+        "C-6567",
+        "C-6570",
+        "C-6576",
+        "C-6580",
+        "C-6593"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -789,7 +888,10 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6559",
+        "C-6575"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -805,13 +907,483 @@
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6577",
+        "C-6579"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6552",
+        "C-6553",
+        "C-6554",
+        "C-6555",
+        "C-6556",
+        "C-6557",
+        "C-6558",
+        "C-6559",
+        "C-6560",
+        "C-6561",
+        "C-6562",
+        "C-6563",
+        "C-6564",
+        "C-6565",
+        "C-6566",
+        "C-6567",
+        "C-6568",
+        "C-6569",
+        "C-6570",
+        "C-6571",
+        "C-6572",
+        "C-6573",
+        "C-6574",
+        "C-6575",
+        "C-6576",
+        "C-6577",
+        "C-6578",
+        "C-6579",
+        "C-6580",
+        "C-6581",
+        "C-6582",
+        "C-6583",
+        "C-6584",
+        "C-6585",
+        "C-6586",
+        "C-6587",
+        "C-6588",
+        "C-6589",
+        "C-6590",
+        "C-6591",
+        "C-6592",
+        "C-6593",
+        "C-6594",
+        "C-6595",
+        "C-6596"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 45,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Netanyahu; the host says he did denial rounds and wants TikTok secured.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6576",
+        "C-6583",
+        "C-6596"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Bill Ackman (spelled Aman in the transcript); target of Tucker Carlson's remarks about wealth in the July 11 speech.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6566"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Charged with Kirk's murder; named in the Fox 13 report.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6568"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Village Crazy Lady",
+      "type": "person",
+      "description": "X account the host says reported the Israeli phones early.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6578"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization; source of the insider sentiment and the UVU acceptance.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6555",
+        "C-6566"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Venue of the assassination and of the mid-July event request.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6567",
+        "C-6568",
+        "C-6569"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10048",
+      "ref": "N-10048",
+      "name": "Charlie Kirk Assassination Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's bullet claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6580"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10083",
+      "ref": "N-10083",
+      "name": "AIPAC",
+      "type": "investigation_target",
+      "description": "Organization named in a viewer comment the host endorses.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6590"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10131",
+      "ref": "N-10131",
+      "name": "PragerU",
+      "type": "investigation_target",
+      "description": "Organization the host says the Wilks brothers majorly fund.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6562"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10243",
+      "ref": "N-10243",
+      "name": "UVU Outdoor Venue Selection Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's tip about an indoor plan.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6573"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's Egyptian plane claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6591",
+        "C-6595",
+        "C-6596"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the transparency remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6581"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10495",
+      "ref": "N-10495",
+      "name": "BB Netanyahu Hamptons Dinner Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic loosely reused for Netanyahu's post-assassination statements.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6576"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10675",
+      "ref": "N-10675",
+      "name": "Turning Point UVU Event Submission Chain",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the July 18 request and acceptance.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6567",
+        "C-6570"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10717",
+      "ref": "N-10717",
+      "name": "Losee Center–Library Route Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the running-figure footage vantage point.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6594"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10840",
+      "ref": "N-10840",
+      "name": "UVU Ambulance Denial Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the no-ambulance claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6571"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Organization the host says the Wilks brothers fund.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6562"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11009",
+      "ref": "N-11009",
+      "name": "Hall of Flags Activity Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the viewer comment and the host's identification.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6592",
+        "C-6593",
+        "C-6594"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-771",
+      "ref": "N-771",
+      "name": "Glenn Greenwald",
+      "type": "person",
+      "description": "First named in the Tucker Carlson clip at 00:35:17 in episode 25. Journalist Tucker Carlson says he once hated and now counts a favorite.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6584"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11102",
+      "ref": "N-11102",
+      "name": "Wilks Brothers Funding Network",
+      "type": "topic",
+      "description": "The Texas donors the host says funded Rob McCoy's church and fund the Daily Wire and PragerU.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6561",
+        "C-6562",
+        "C-6563"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11103",
+      "ref": "N-11103",
+      "name": "TikTok",
+      "type": "organization",
+      "description": "Social platform the host says penalizes her Egyptian plane videos and whose moderator she says served in the IDF.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6595",
+        "C-6596"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11104",
+      "ref": "N-11104",
+      "name": "Liberty University",
+      "type": "organization",
+      "description": "University where the host says Mikey McCoy is already speaking.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6556"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11105",
+      "ref": "N-11105",
+      "name": "Godspeak Calvary Chapel",
+      "type": "organization",
+      "description": "Thousand Oaks church Rob McCoy led for 17 years and which the host says the Wilks brothers funded.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6561",
+        "C-6563",
+        "C-6564"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -1048,7 +1620,1141 @@
       "tags": [],
       "claim_timestamp": "00:46:51",
       "investigative_direction": "Independently verify against academic and government sources on Israeli-Egyptian intelligence cooperation; note that AI-generated responses are secondary sources requiring independent corroboration."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6552",
+      "ref": "C-6552",
+      "label": "Host Says She Knows Mikey McCoy Did Not Kill Charlie",
+      "claim": "The host says she does not merely think but knows that Mikey McCoy did not kill Charlie Kirk, because viewers watched him in those moments.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10218"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:42",
+      "investigative_direction": "Compare the shooting-day footage of Mikey McCoy's location and movements with the host's statement.",
+      "transcript_snippet": "I don't think that I know that Mikey McCoy did not kill Charlie Kirk. We watch him in those moments.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6553",
+      "ref": "C-6553",
+      "label": "Host Says the Stage Was Being Set for Mikey to Become the New Charlie",
+      "claim": "The host says the stage was being set for Mikey McCoy to become the new Charlie, and that speakers at the memorial and elsewhere tried to prime the public for that plausibility, which she compares to a psychological operation nodding to Rob McCoy's family lineage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10218"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:42",
+      "investigative_direction": "Collect the memorial speeches and TPUSA announcements naming Mikey McCoy's future role and test whether the language was coordinated.",
+      "transcript_snippet": "But it's also becoming pretty apparent to me that the stage was being set for Mikey to become the new Charlie.",
+      "supports_claim_refs": [
+        "C-1584"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-17",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6554",
+      "ref": "C-6554",
+      "label": "Host Reads Rob McCoy's Answer as Implying Charlie's Journals Wrote Mikey's Future",
+      "claim": "The host says Rob McCoy began to answer a question about Mikey's future, cut himself off and trailed into a different topic, and that she reads this as him implying Charlie's journals wrote Mikey McCoy's future.",
+      "anchored_artifacts": [
+        "A-1322.1"
+      ],
+      "related_nodes": [
+        "N-10218"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:16",
+      "investigative_direction": "Obtain the full Faith Forward Show recording and check the question asked and the answer given in sequence.",
+      "transcript_snippet": "Is he trying to make us believe but not explicitly state but kind of explicitly state or maybe implicitly state that Charlie's future or rather Mikey McCoy's future was written by Charlie in one of these journal",
+      "supports_claim_refs": [
+        "C-1585"
+      ],
+      "mentions_person_refs": [
+        "N-17",
+        "N-194",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6555",
+      "ref": "C-6555",
+      "label": "Host Says Insiders Saw Extra Spring in Mikey McCoy's Step",
+      "claim": "The host says the number one sentiment from Turning Point USA insiders after the assassination was that Mikey McCoy appeared to have an extra spring in his step that made them uncomfortable and that he seemed happy to assume Charlie's position.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10218",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:16",
+      "investigative_direction": "Identify the insiders through the host's sources and ask TPUSA staff who worked with Mikey McCoy after September 10 to confirm or deny.",
+      "transcript_snippet": "Mikey McCoy appeared to have like an extra spring in his step that made them all a little bit uncomfortable in the aftermath",
+      "mentions_person_refs": [
+        "N-194",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6556",
+      "ref": "C-6556",
+      "label": "Host Says Mikey McCoy Is Already Speaking at Liberty University",
+      "claim": "The host says Mikey McCoy is already speaking at Liberty University and that he got there because he made some phone calls.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10218",
+        "N-11104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:16",
+      "investigative_direction": "Check Liberty University convocation and event listings for Mikey McCoy appearances and who invited him.",
+      "transcript_snippet": "Look, he's already speaking at Liberty University. Why? Because he made some phone calls.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6557",
+      "ref": "C-6557",
+      "label": "Host Infers Mikey Was Promised He Would Become the New Charlie",
+      "claim": "The host says she thinks Mikey McCoy was promised, told or encouraged that he would become the new Charlie, and that she does not believe he is intrinsically evil.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10218"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:16",
+      "investigative_direction": "This is the host's inference; test it against Turning Point USA succession communications and statements by those who spoke to Mikey McCoy.",
+      "transcript_snippet": "I think Mikey was promised or told or encouraged that he would become the new Charlie.",
+      "supports_claim_refs": [
+        "C-1584"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6558",
+      "ref": "C-6558",
+      "label": "Host Says the Person Who Mics Is Always the AV Person",
+      "claim": "The host says that in her experience of travelling with Charlie everywhere, the person who mics him is always the AV person, not a chief of staff.",
+      "anchored_artifacts": [
+        "A-1323.1"
+      ],
+      "related_nodes": [
+        "N-10219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:01",
+      "investigative_direction": "Ask AV staff and prior trip organizers who miced Charlie on earlier trips and who was on the Korea trip.",
+      "transcript_snippet": "I've traveled with Charlie everywhere. Very strange. The person that mics is always the AV person.",
+      "supports_claim_refs": [
+        "C-1586"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6559",
+      "ref": "C-6559",
+      "label": "Host Says the McCoys Captured the Viral Footage of Charlie With His Family",
+      "claim": "The host says the McCoys were the ones who captured the footage, since gone viral, of Charlie walking with his children and Erika, who grabs his hand.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:45",
+      "investigative_direction": "Identify who filmed the viral clip through its first posting and metadata, and confirm that the McCoys shot it.",
+      "transcript_snippet": "Fortunately, the McCoys were the ones that captured that footage.",
+      "supports_claim_refs": [
+        "C-1587"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-221",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6560",
+      "ref": "C-6560",
+      "label": "Host Places the McCoy Family Footage in Mid-July to Early August",
+      "claim": "The host says that according to her sources the McCoys were on hand to capture the family footage in what looks like mid July to early August, and that her team will nail down the specific dates.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:45",
+      "investigative_direction": "Obtain the original upload date and file metadata of the family footage and the date range of the joint summer trip.",
+      "transcript_snippet": "thankfully the McCoys were on hand in what looks like mid July or early August into early August. According to my source, my sources, we will nail down these specific dates in the future.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-221"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6561",
+      "ref": "C-6561",
+      "label": "Host Says Rob McCoy's Church Was Funded by the Wilks Brothers",
+      "claim": "The host says Rob McCoy's church was funded by the Wilks brothers in Texas, which she says she had not known.",
+      "anchored_artifacts": [
+        "A-1325.1"
+      ],
+      "related_nodes": [
+        "N-11102",
+        "N-11105"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:45",
+      "investigative_direction": "Check church filings and public giving records for Wilks family donations to Godspeak Calvary Chapel.",
+      "transcript_snippet": "he was funded, his church was funded by the Wilks brothers down in Texas.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6562",
+      "ref": "C-6562",
+      "label": "Host Says the Wilks Brothers Fund Daily Wire and PragerU",
+      "claim": "The host says the Wilks brothers fund the Daily Wire and were its initial seed money, and that they majorly fund Prager University as well, which she calls an interesting web.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11102",
+        "N-10900",
+        "N-10131"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:45",
+      "investigative_direction": "Check Daily Wire and PragerU donor disclosures and press reports on the Wilks family's investments.",
+      "transcript_snippet": "The Wilks brothers are the ones that fund Daily Wire.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6563",
+      "ref": "C-6563",
+      "label": "Host Says the Wilks-Funded Church Is Described Online as a Cult",
+      "claim": "The host says the church is, in her words, part of what is described online as a cult and that she cannot explain it herself.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11102",
+        "N-11105"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:45",
+      "investigative_direction": "Identify who describes the church as a cult online and on what basis; this is a rumor the host asks viewers to research.",
+      "transcript_snippet": "they are part of what is described online as a cult.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6564",
+      "ref": "C-6564",
+      "label": "Rob McCoy's Step Down Was Announced Publicly in January After 17 Years",
+      "claim": "The host says that after 17 years as head pastor, Rob McCoy's stepping down to the honorific role of pastor emeritus was publicly announced in January of this year, with the transition taking effect in mid-July.",
+      "anchored_artifacts": [
+        "A-1325.1"
+      ],
+      "related_nodes": [
+        "N-10220",
+        "N-11105"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:45",
+      "investigative_direction": "Check the January 2025 church announcement and the Ventura County Star article for the exact dates.",
+      "transcript_snippet": "after 17 years as the head pastor of that church, Rob McCoy, it was publicly announced in January of this year that he would be stepping down",
+      "supports_claim_refs": [
+        "C-1588"
+      ],
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6565",
+      "ref": "C-6565",
+      "label": "Host Says Rob McCoy Bought a Different Place in Thousand Oaks and Owns a Coronado Home",
+      "claim": "The host says Rob McCoy said he bought a different place in Thousand Oaks and that he also owns a home in Coronado near San Diego.",
+      "anchored_artifacts": [
+        "A-1325.1"
+      ],
+      "related_nodes": [
+        "N-10220"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:47",
+      "investigative_direction": "Check county property records for Rob McCoy's holdings in Thousand Oaks, Coronado and the Phoenix area.",
+      "transcript_snippet": "now he said that he bought a different place in Thousand Oaks. He also owns a home in Coronado near San Diego.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6566",
+      "ref": "C-6566",
+      "label": "Host Says Tucker's July 11 Speech Targeted Foreign-Army Service and Ackman's Wealth",
+      "claim": "The host says that in his July 11 speech Tucker Carlson said people who serve in foreign armies should be stripped of their citizenship and mused about where Bill Aman's wealth comes from.",
+      "anchored_artifacts": [
+        "A-2824.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:47",
+      "investigative_direction": "Review the video of Tucker Carlson's July 11, 2025 TPUSA speech for the remarks about foreign armies and Ackman.",
+      "transcript_snippet": "he says that people who serve in foreign armies should be stripped of their citizenship. He muses about where Bill Aman's wealth comes from.",
+      "supports_claim_refs": [
+        "C-1559"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-37",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6567",
+      "ref": "C-6567",
+      "label": "Host Says TPUSA Received UVU's Request on July 18 and Instantly Accepted It as Stop One",
+      "claim": "The host says that on July 18 Turning Point USA received a request from UVU for Charlie to hold an event, that TPUSA instantly accepted it and made it his first stop, and she credits Sam Parker with the find.",
+      "anchored_artifacts": [
+        "A-2824.1"
+      ],
+      "related_nodes": [
+        "N-10221",
+        "N-10675",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:47",
+      "investigative_direction": "Request UVU and TPUSA correspondence dated mid-July 2025 and the tour scheduling documents showing when UVU became stop one.",
+      "transcript_snippet": "receives a request from UVU for Charlie to hold an event at Utah Valley. Not only do they instantly accept this request, but they also make it his first stop",
+      "supports_claim_refs": [
+        "C-1589"
+      ],
+      "mentions_person_refs": [
+        "N-185",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6568",
+      "ref": "C-6568",
+      "label": "Fox 13 Reports UVU Cited Investigation and Fair-Trial Concerns and Fox 13 Plans an Appeal",
+      "claim": "In the Fox 13 report the host plays, the campus expressed concern that the records could interfere in any investigation and someone's right to a fair trial, and Fox 13 plans an appeal of the denial.",
+      "anchored_artifacts": [
+        "A-1326.1"
+      ],
+      "related_nodes": [
+        "N-10221",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:57",
+      "investigative_direction": "Follow the Fox 13 records appeal and the state records ruling on the UVU security plan.",
+      "transcript_snippet": "The campus also has expressed concern that the records could interfere in any investigation and someone's right to a fair trial.",
+      "mentions_person_refs": [
+        "N-223",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6569",
+      "ref": "C-6569",
+      "label": "Fox 13 Says the Police-Protection Question Is Standard at University of Utah Events",
+      "claim": "In the Fox 13 report the host plays, the reporter says the missing police-protection question is a standard inquiry at, for example, University of Utah events, and that it took about six weeks for UVU to provide this first record.",
+      "anchored_artifacts": [
+        "A-1326.1"
+      ],
+      "related_nodes": [
+        "N-10221",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:57",
+      "investigative_direction": "Compare the UVU form with University of Utah event application forms and the UVU records request log.",
+      "transcript_snippet": "That's a standard inquiry at, for example, University of Utah events.",
+      "supports_claim_refs": [
+        "C-1589"
+      ],
+      "mentions_person_refs": [
+        "N-223"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6570",
+      "ref": "C-6570",
+      "label": "Host Says a Request This Late Becoming Stop Number One Has Never Happened",
+      "claim": "The host says that, having done many events with Charlie and universities across all 50 states asking them to speak, a request going in that late and becoming stop number one within a couple of weeks has never happened.",
+      "anchored_artifacts": [
+        "A-1326.1"
+      ],
+      "related_nodes": [
+        "N-10221",
+        "N-10675"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:57",
+      "investigative_direction": "Compare typical lead times between request and event across prior tour stops using TPUSA's own scheduling records.",
+      "transcript_snippet": "A a request going in that late being honored and becoming stop number one within a couple of weeks. I'm going to say that's never happened.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6571",
+      "ref": "C-6571",
+      "label": "Host Says There Was No Ambulance on Standby, Against Utah Law",
+      "claim": "The host says that, as everybody has noticed, there was no ambulance on standby at the event and that this is against Utah law.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10840"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:57",
+      "investigative_direction": "Check the Utah statute or UVU policy on standby medical services for large events and UVU's records on EMS staffing.",
+      "transcript_snippet": "as everybody has noticed, there was no ambulance on standby. And that's against Utah law.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6572",
+      "ref": "C-6572",
+      "label": "Host Suspects There Was No Security Plan at All",
+      "claim": "The host says that because UVU will not release the security plan, she is pretty sure the event was an extraordinary first-time situation in which there was no security plan.",
+      "anchored_artifacts": [
+        "A-1326.1"
+      ],
+      "related_nodes": [
+        "N-10221"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:57",
+      "investigative_direction": "Pursue the Fox 13 appeal and any court-ordered release of the security plan to test whether one existed.",
+      "transcript_snippet": "I'm pretty sure this was an extraordinary first time thing where they didn't have a security plan.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6573",
+      "ref": "C-6573",
+      "label": "Host Says a Tip Claims the Event Was Initially Slated to Be Inside",
+      "claim": "The host says she received a tip that the event had initially been slated to be inside but was moved, and that she is not confirming it and has to look into it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:57",
+      "investigative_direction": "Check UVU room reservations and event booking records for an indoor venue for September 10 before the move outdoors.",
+      "transcript_snippet": "I had received a tip and I do want to check this out by the way that they also had initially slated for this event to be inside but it was moved.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6574",
+      "ref": "C-6574",
+      "label": "Host Says Milo Yiannopoulos Tweeted He Now Thinks Israel Did It",
+      "claim": "The host says Milo Yiannopoulos tweeted that he now thinks Israel did it.",
+      "anchored_artifacts": [
+        "A-1330.1"
+      ],
+      "related_nodes": [
+        "N-10222"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:12",
+      "investigative_direction": "Locate Yiannopoulos's original tweet and confirm its exact wording and date.",
+      "transcript_snippet": "I saw like Milo Yiannopoulos tweeted, I think is now I think Israel did it",
+      "mentions_person_refs": [
+        "N-224",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6575",
+      "ref": "C-6575",
+      "label": "Host Says Milo Was Tweeting About a Fictionalized Erika Award Report",
+      "claim": "The host says Milo was tweeting about what she calls the bizarre lie that Erika Kirk was accepting an award, which she says was completely fictionalized.",
+      "anchored_artifacts": [
+        "A-1330.1"
+      ],
+      "related_nodes": [
+        "N-10222"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:12",
+      "investigative_direction": "Compare the Israeli War Room report of the award with statements from the award organizers and Erika Kirk's office.",
+      "transcript_snippet": "he was tweeting about the bizarre lie of them saying Erika Kirk was accepting this award and they completely fictionalized it.",
+      "mentions_person_refs": [
+        "N-224",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6576",
+      "ref": "C-6576",
+      "label": "Host Says Netanyahu Did Propaganda Rounds Denying Any Role in the Assassination",
+      "claim": "The host says Netanyahu did propaganda rounds right out the gate denying that he had anything to do with the assassination of Charlie Kirk, when nobody had accused him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10495"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:12",
+      "investigative_direction": "Compile Netanyahu's interviews and posts from September 10-12 and record exactly what he denied and in response to what question.",
+      "transcript_snippet": "BBNet and Yahoo doing propaganda rounds uh denying that he had anything to do with the assassination of Charlie Kirk.",
+      "supports_claim_refs": [
+        "C-1192"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6577",
+      "ref": "C-6577",
+      "label": "Host Says Kash Patel Complained About Mean Tweets About His Girlfriend",
+      "claim": "The host says Kash Patel has been crying about mean tweets on the internet regarding his sensational singing girlfriend.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:20:12",
+      "investigative_direction": "Review Patel's posts defending his girlfriend and the criticism that prompted them.",
+      "transcript_snippet": "if Kash Patel is done crying about the mean tweets on the internet regarding his sensational singing girlfriend",
+      "supports_claim_refs": [
+        "C-1579"
+      ],
+      "mentions_person_refs": [
+        "N-69",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6578",
+      "ref": "C-6578",
+      "label": "Host Says Village Crazy Lady Reported the Israeli Phones Early",
+      "claim": "The host says the account she follows, Village Crazy Lady, was very early with the reporting on the Israeli cell phones and that the host had heard rumors and rumblings but waited for verifiable proof.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10222"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:12",
+      "investigative_direction": "Find the Village Crazy Lady post and its date and compare its details with the host's.",
+      "transcript_snippet": "I've been telling you to follow her village crazy lady over on X. She was actually very early with this reporting",
+      "supports_claim_refs": [
+        "C-1594"
+      ],
+      "mentions_person_refs": [
+        "N-66",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6579",
+      "ref": "C-6579",
+      "label": "Host Publicly Challenges the Administration to Deny the Israeli Phone Report",
+      "claim": "The host says she is putting her name on the Israeli cell phone report and publicly challenges the Trump administration, which she says is aware of it, to deny it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10222"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:12",
+      "investigative_direction": "Ask the FBI, NSA and White House press office whether they will confirm or deny the existence of 12 Israel-opened phone accounts at UVU on September 10.",
+      "transcript_snippet": "I can publicly challenge the very Zionist occupied Trump administration who is aware of this to deny it.",
+      "supports_claim_refs": [
+        "C-1594"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6580",
+      "ref": "C-6580",
+      "label": "Host Says a .30-06 Did Not Get Stopped by Charlie's Neck",
+      "claim": "The host says that the official story that a .30-06 was stopped by Charlie Kirk's neck is complete BS, and that something that could take down a moose somehow did not take down Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10048"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:29",
+      "investigative_direction": "Obtain the autopsy findings and ballistic evidence on wound track, exit wound and bullet recovery.",
+      "transcript_snippet": "Until you acknowledge that a 30 six did not go through his neck, did not get stopped rather by his neck.",
+      "supports_claim_refs": [
+        "C-1230"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6581",
+      "ref": "C-6581",
+      "label": "Host Says Republicans Promised Transparency Except on the Epstein Files",
+      "claim": "The host says the party promised that corruption would stop and that this would be the most transparent administration ever, but that the Epstein files were the exception.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:10",
+      "investigative_direction": "Compare administration transparency pledges with the actual Epstein file releases to date.",
+      "transcript_snippet": "We're going to be the most transparent thing administration that you've ever seen. Except on those Epstein files.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6582",
+      "ref": "C-6582",
+      "label": "Tucker Says Israeli Ministers Say Openly That Relatives of a Terrorist Share His Guilt",
+      "claim": "In the clip played, Tucker Carlson says the Israeli government and a couple of its ministers say out loud all the time that everybody related to a terrorist shares in his guilt, which he calls collective punishment.",
+      "anchored_artifacts": [
+        "A-1328.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:25",
+      "investigative_direction": "Compile statements by Israeli ministers about collective punishment and check Tucker Carlson's wording on the Dave Smith show.",
+      "transcript_snippet": "of the Israeli government and of a couple of its ministers, which they say this out loud all the time, is that everybody who's related to a terrorist shares in his guilt.",
+      "supports_claim_refs": [
+        "C-1591"
+      ],
+      "mentions_person_refs": [
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6583",
+      "ref": "C-6583",
+      "label": "Host Says Netanyahu Kills Tens of Thousands of Kids",
+      "claim": "The host says that Christian Zionists would worship the way Netanyahu does even when he kills tens of thousands of kids.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:17",
+      "investigative_direction": "Check UN and health-ministry casualty counts for children in Gaza.",
+      "transcript_snippet": "even if when he kills tens of thousands of kids.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6584",
+      "ref": "C-6584",
+      "label": "Tucker Says He Once Hated Glenn Greenwald and Now Counts Him a Favorite",
+      "claim": "In the clip played, Tucker Carlson says he hated Glenn Greenwald and now thinks he is one of his favorite people in the world, as an example of people changing.",
+      "anchored_artifacts": [
+        "A-1329.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:17",
+      "investigative_direction": "Check Tucker Carlson's earlier public statements about Glenn Greenwald.",
+      "transcript_snippet": "I hated Glenn Greenwald. Now I think he's one of my favorite people in the world",
+      "mentions_person_refs": [
+        "N-22",
+        "N-771"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6585",
+      "ref": "C-6585",
+      "label": "Commenter Calls Zinn a Habitual Salt Lake City Event Disruptor",
+      "claim": "A viewer comment the host reads says George Zinn was a habitual Salt Lake City event disruptor and asks what the chances are that his reflex was to take the blame voluntarily.",
+      "anchored_artifacts": [
+        "A-2823.1"
+      ],
+      "related_nodes": [
+        "N-10223"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:52",
+      "investigative_direction": "Collect Zinn's prior Salt Lake City event disruption incidents and arrests.",
+      "transcript_snippet": "I know he was a habitual Salt Lake City event disruptor, but what are the chances his reflex is to take the blame voluntarily?",
+      "supports_claim_refs": [
+        "C-1338"
+      ],
+      "mentions_person_refs": [
+        "N-42",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6586",
+      "ref": "C-6586",
+      "label": "Host Says Zinn Went to Utah Valley Hospital for Mild Injuries From Being Dragged",
+      "claim": "The host says her source told her George Zinn went to Utah Valley Hospital after the event to treat mild injuries from being dragged, and told people he was told to do it.",
+      "anchored_artifacts": [
+        "A-1331.1"
+      ],
+      "related_nodes": [
+        "N-10223"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:52",
+      "investigative_direction": "Obtain hospital intake records and arrest and booking photographs showing injuries.",
+      "transcript_snippet": "He went to Utah Valley Hospital uh after this event to treat some of his like mild injuries from being dragged",
+      "supports_claim_refs": [
+        "C-1402"
+      ],
+      "mentions_person_refs": [
+        "N-42",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6587",
+      "ref": "C-6587",
+      "label": "Host Says Records Showing Jews Came From the Holy Land Are Outweighed by Contrary Proof",
+      "claim": "The host says there is more proof against the idea that these people are the original people of the Holy Land, and that textbooks pointing to Turkey, the Ashkenaz tribe and Yiddish have stopped being printed.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:41:52",
+      "investigative_direction": "Unsupported historical assertion recorded as said; no case figure involved. Check against academic histories of Ashkenazi Jewish origins.",
+      "transcript_snippet": "way more uh proof to the contrary which they stopped printing even their own textbooks",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6588",
+      "ref": "C-6588",
+      "label": "Host Says Scientism Was a Conscious Movement at the Turn of the Century",
+      "claim": "The host says there was a conscious movement at the turn of the century, around the time dinosaur bones were being found, to make people invest in scientism, which she frames through C.S. Lewis.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:44:53",
+      "investigative_direction": "Off-topic historical assertion recorded as said; no case link.",
+      "transcript_snippet": "there was a conscious movement as I said at the end at the turn of the century same time they started going oh we found dinosaur uh bone",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6589",
+      "ref": "C-6589",
+      "label": "Host Says the Moon Landings Did Not Happen",
+      "claim": "The host says she does not believe the moon landings happened.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:47",
+      "investigative_direction": "Off-topic assertion recorded as said; no case link.",
+      "transcript_snippet": "I also don't believe the moon landings happened, so you can cut that clip because they didn't happen.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6590",
+      "ref": "C-6590",
+      "label": "Commenter Says Israel Supporters Fund AIPAC to Steer Congress and the Host Agrees",
+      "claim": "A viewer comment the host reads says people who support Israel give AIPAC money to give to the government to vote the way Israel wants, and the host says that is what it feels like.",
+      "anchored_artifacts": [
+        "A-2823.2"
+      ],
+      "related_nodes": [
+        "N-10083"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:47",
+      "investigative_direction": "Review AIPAC and affiliated PAC contribution records for the Congress members in question.",
+      "transcript_snippet": "People who support Israel give Apac money to give our government uh to give to our government to vote the way Israel wants.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6591",
+      "ref": "C-6591",
+      "label": "Host Says the Second Largest Recipient Is Egypt So Aid Does Not Look Like It All Goes to Israel",
+      "claim": "The host says that the country that gets most of US money is Israel and the second is Egypt, and that this is so it does not look like it is all going to Israel, which she calls her perspective.",
+      "anchored_artifacts": [
+        "A-1332.1"
+      ],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:51",
+      "investigative_direction": "Check US foreign aid totals by country and the history of the Egypt and Israel aid agreement.",
+      "transcript_snippet": "country A that gets most of our money is Israel, B is Egypt, and there is a reason for that.",
+      "supports_claim_refs": [
+        "C-1595"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6592",
+      "ref": "C-6592",
+      "label": "Viewer Comment Says a Student Posted a Reel of a Room of Uniformed People and Many Flags",
+      "claim": "A viewer comment the host reads says a college student posted a Facebook reel of running into a building where the room was filled with uniformed people and a bunch of different flags.",
+      "anchored_artifacts": [
+        "A-2823.3"
+      ],
+      "related_nodes": [
+        "N-11009"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:35",
+      "investigative_direction": "Find the student's Facebook reel and verify its date, location and who was in the room.",
+      "transcript_snippet": "A college student posted an FB real of her experience? She ran into a building where the room was filled with uniformed people and a bunch of different flags.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6593",
+      "ref": "C-6593",
+      "label": "Host Identifies the Room as the Hall of Flags Behind Charlie's Head",
+      "claim": "The host says the room in the comment is the Hall of Flags that is behind Charlie's head, that she finds something suspicious was going on there and that she has never gotten clarity.",
+      "anchored_artifacts": [
+        "A-2823.3"
+      ],
+      "related_nodes": [
+        "N-11009"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:35",
+      "investigative_direction": "Obtain UVU building schedules and access logs for the Hall of Flags on September 10.",
+      "transcript_snippet": "That's the Hall of Flags that's behind Charlie's head.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6594",
+      "ref": "C-6594",
+      "label": "Host Says the Only Footage of the Running Figure Was Filmed From the Hall of Flags",
+      "claim": "The host says the Hall of Flags is where the person who filmed the only footage of the person they say is the shooter running across the Losee Center was positioned.",
+      "anchored_artifacts": [
+        "A-2823.3"
+      ],
+      "related_nodes": [
+        "N-11009",
+        "N-10717"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:35",
+      "investigative_direction": "Identify the videographer and the vantage point of the running-figure footage and confirm the building location.",
+      "transcript_snippet": "the person who filmed the footage, the only footage um that we have of of the uh person running across who they say is the shooter running across uh the Lozi Center",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6595",
+      "ref": "C-6595",
+      "label": "Host Says TikTok Is Hitting Her Videos About the Egyptian Planes",
+      "claim": "The host says TikTok is hitting her with penalties for videos talking about the Egyptian planes, which she calls very strange.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11103",
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:35",
+      "investigative_direction": "Request the TikTok enforcement notices and moderation reasons for the flagged videos.",
+      "transcript_snippet": "Tik Tok is hitting us for videos talking about the Egyptian planes. That's very strange.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6596",
+      "ref": "C-6596",
+      "label": "Host Says TikTok's Moderator Served in the IDF and Netanyahu Wants TikTok Secured",
+      "claim": "The host says TikTok's moderator served in the IDF and that Netanyahu wants TikTok secured for Israel's future, and asks why they care about the Egyptian planes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11103",
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:35",
+      "investigative_direction": "Verify the TikTok policy manager's service record and Netanyahu's statements on TikTok.",
+      "transcript_snippet": "Israel's moderator served in the IDF, we know, and they BB wants Tik Tok secured for Israel's future.",
+      "confidence": "high",
+      "supports_claim_refs": [
+        "C-1350"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-36"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-31",
+      "ref": "M-31",
+      "canonical_term": "Buckle Up",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 25,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "lly, some explosive revelations regarding the Charlie Kirk case. Now, buckle up because there's this country that's only the size of New Jersey. It...",
+          "context": "Later reuse of Buckle Up in CKA seq 25.",
+          "confidence": "high",
+          "tags": [
+            "show_energy",
+            "receipts",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-123",
+      "ref": "M-123",
+      "canonical_term": "Magnificent Mikey McCoy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 25,
+          "video_timestamp": "00:07:16",
+          "speaker_node_ref": "N-3",
+          "quote": "I maintain that the wonderful Mikey McCoy doesn't strike me as intrinsically evil.",
+          "context": "Host keeps attaching a flattering adjective to Mikey McCoy's name.",
+          "confidence": "high",
+          "tags": [
+            "adjective",
+            "mikey"
+          ]
+        },
+        {
+          "episode": 25,
+          "video_timestamp": "00:07:16",
+          "speaker_node_ref": "N-3",
+          "quote": "supercalifragilistic ispialocious Mikey McCoy appeared",
+          "context": "Another mock epithet for Mikey McCoy.",
+          "confidence": "high",
+          "tags": [
+            "adjective",
+            "mikey"
+          ]
+        },
+        {
+          "episode": 25,
+          "video_timestamp": "00:15:47",
+          "speaker_node_ref": "N-3",
+          "quote": "the fantastic, heroic, sensational McCoys were pretty busy this summer.",
+          "context": "Host mocks the praise adjectives for the whole McCoy family.",
+          "confidence": "high",
+          "tags": [
+            "adjective",
+            "mccoy"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-168",
+      "ref": "M-168",
+      "canonical_term": "The Stupendous Tucker Carlson",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 25,
+          "video_timestamp": "00:02:42",
+          "speaker_node_ref": "N-3",
+          "quote": "The spectacular Tucker Carlson. The breathtaking Tucker Carlson is under attack in this moment.",
+          "context": "Host mocks the adjective habit by applying it to Tucker Carlson.",
+          "confidence": "high",
+          "tags": [
+            "adjective",
+            "tucker"
+          ]
+        },
+        {
+          "episode": 25,
+          "video_timestamp": "00:32:36",
+          "speaker_node_ref": "N-3",
+          "quote": "I feel like I want to say the stupendous Tucker Carlson joined Dave Smith",
+          "context": "Host actually applies the adjective to Tucker.",
+          "confidence": "high",
+          "tags": [
+            "adjective",
+            "tucker"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-169",
+      "ref": "M-169",
+      "canonical_term": "Country the Size of New Jersey",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 25,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "there's this country that's only the size of New Jersey. It's always the victim.",
+          "context": "Host's sarcastic opener about Israel always being the victim.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "israel"
+          ]
+        },
+        {
+          "episode": 25,
+          "video_timestamp": "00:23:02",
+          "speaker_node_ref": "N-3",
+          "quote": "this one nation that's only the size of New Jersey and has done nothing wrong ever",
+          "context": "Same sarcastic refrain returns after the cell-phone claim.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "israel"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-170",
+      "ref": "M-170",
+      "canonical_term": "I Wish I Was Born Yesterday",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 25,
+          "video_timestamp": "00:27:24",
+          "speaker_node_ref": "N-3",
+          "quote": "Sometimes I wish I was born yesterday, right?",
+          "context": "Host says it would be easy to accept the lone-shooter story if she were naive.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "lone shooter"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 25,
+          "video_timestamp": "00:50:20",
+          "speaker_node_ref": "N-3",
+          "quote": "You can go to make him a sandwichand. com uh to buy the book.",
+          "context": "Host plugs her book at the sign-off.",
+          "confidence": "high",
+          "tags": [
+            "plug",
+            "book"
+          ]
+        }
+      ]
+    }
+  ]
 }

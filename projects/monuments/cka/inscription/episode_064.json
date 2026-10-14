@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–01:08:55",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "6dd179617c93d9b189013177ccf6a13ebe005629aa7ab4b3c03e97804d4d7234",
@@ -227,6 +227,108 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3041",
+      "family_ref": "A-3041",
+      "bundle_name": "Stacy Sheridan Car Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3041.1",
+          "ref": "A-3041.1",
+          "description": "Clip of Stacy Sheridan in a car with Erika Kirk, on the phone and recording, shown on air",
+          "related_claims": [
+            "C-9948"
+          ],
+          "related_nodes": [
+            "N-190",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:15:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3042",
+      "family_ref": "A-3042",
+      "bundle_name": "Kolvet Surgeon Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3042.1",
+          "ref": "A-3042.1",
+          "description": "Host verbal reference to Andrew Kolvet's X post saying he had just got off the phone with the surgeon (not shown)",
+          "related_claims": [
+            "C-9966"
+          ],
+          "related_nodes": [
+            "N-14",
+            "N-199"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:31:41",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3043",
+      "family_ref": "A-3043",
+      "bundle_name": "Pre-Born Sponsor Read Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3043.1",
+          "ref": "A-3043.1",
+          "description": "Pre-Born sponsor copy read during the break",
+          "related_claims": [
+            "C-9969"
+          ],
+          "related_nodes": [
+            "N-11191"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:33:28",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3044",
+      "family_ref": "A-3044",
+      "bundle_name": "Club Candace Subscription Plug Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3044.1",
+          "ref": "A-3044.1",
+          "description": "Host verbal reference to the merged Club Candace subscription tier and signed book bundle (not shown)",
+          "related_claims": [
+            "C-9999"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:58:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -415,7 +517,48 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10000",
+        "C-10002",
+        "C-10003",
+        "C-10007",
+        "C-9913",
+        "C-9917",
+        "C-9918",
+        "C-9919",
+        "C-9920",
+        "C-9921",
+        "C-9922",
+        "C-9923",
+        "C-9925",
+        "C-9927",
+        "C-9928",
+        "C-9931",
+        "C-9932",
+        "C-9934",
+        "C-9935",
+        "C-9936",
+        "C-9937",
+        "C-9938",
+        "C-9939",
+        "C-9940",
+        "C-9942",
+        "C-9943",
+        "C-9945",
+        "C-9947",
+        "C-9948",
+        "C-9952",
+        "C-9953",
+        "C-9954",
+        "C-9955",
+        "C-9957",
+        "C-9958",
+        "C-9959",
+        "C-9960",
+        "C-9963",
+        "C-9964",
+        "C-9965"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -431,7 +574,23 @@
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10004",
+        "C-10007",
+        "C-9925",
+        "C-9926",
+        "C-9930",
+        "C-9937",
+        "C-9941",
+        "C-9944",
+        "C-9945",
+        "C-9946",
+        "C-9952",
+        "C-9953",
+        "C-9957",
+        "C-9960",
+        "C-9961"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -447,7 +606,95 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10000",
+        "C-10001",
+        "C-10002",
+        "C-10003",
+        "C-10004",
+        "C-10005",
+        "C-10006",
+        "C-10007",
+        "C-10008",
+        "C-10009",
+        "C-10010",
+        "C-9913",
+        "C-9914",
+        "C-9915",
+        "C-9916",
+        "C-9917",
+        "C-9918",
+        "C-9919",
+        "C-9920",
+        "C-9921",
+        "C-9922",
+        "C-9923",
+        "C-9924",
+        "C-9925",
+        "C-9926",
+        "C-9927",
+        "C-9928",
+        "C-9929",
+        "C-9930",
+        "C-9931",
+        "C-9932",
+        "C-9933",
+        "C-9934",
+        "C-9937",
+        "C-9938",
+        "C-9939",
+        "C-9940",
+        "C-9941",
+        "C-9942",
+        "C-9943",
+        "C-9944",
+        "C-9946",
+        "C-9947",
+        "C-9948",
+        "C-9949",
+        "C-9950",
+        "C-9951",
+        "C-9956",
+        "C-9957",
+        "C-9958",
+        "C-9961",
+        "C-9962",
+        "C-9963",
+        "C-9964",
+        "C-9965",
+        "C-9966",
+        "C-9967",
+        "C-9968",
+        "C-9970",
+        "C-9971",
+        "C-9972",
+        "C-9973",
+        "C-9974",
+        "C-9975",
+        "C-9976",
+        "C-9977",
+        "C-9978",
+        "C-9979",
+        "C-9980",
+        "C-9981",
+        "C-9983",
+        "C-9984",
+        "C-9985",
+        "C-9986",
+        "C-9987",
+        "C-9988",
+        "C-9989",
+        "C-9990",
+        "C-9991",
+        "C-9992",
+        "C-9993",
+        "C-9994",
+        "C-9995",
+        "C-9996",
+        "C-9997",
+        "C-9998",
+        "C-9999"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -462,7 +709,9 @@
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Identified by host during playback of the September 16 Zoom call as audible in the background of the recording.",
-      "related_artifacts": [],
+      "related_artifacts": [
+        "A-1686.1"
+      ],
       "related_claims": [
         "C-2220"
       ],
@@ -471,6 +720,804 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Employer in the firing, call and PR claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9913",
+        "C-9930",
+        "C-9939",
+        "C-9949",
+        "C-9950",
+        "C-9961",
+        "C-9962",
+        "C-9968",
+        "C-9991",
+        "C-10000",
+        "C-10001",
+        "C-10004",
+        "C-10007"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 13,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10027",
+      "ref": "N-10027",
+      "name": "The Hamptons",
+      "type": "investigation_target",
+      "description": "Location of the retreat where the Netanyahu call occurred.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9923",
+        "C-9926"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Airport where the host says Kolvet and Erika met on the tarmac.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9932"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10238",
+      "ref": "N-10238",
+      "name": "Daily Wire Intern Covert Recording Operation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9991",
+        "C-9992",
+        "C-9993"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10341",
+      "ref": "N-10341",
+      "name": "Andrew Kolvet Surgeon Bullet Description",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9918",
+        "C-9920",
+        "C-9966"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9924"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10346",
+      "ref": "N-10346",
+      "name": "Terrell Farnsworth Camera Removal Justification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9951"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10416",
+      "ref": "N-10416",
+      "name": "Daily Wire Stalking Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9991",
+        "C-9992",
+        "C-9993"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10439",
+      "ref": "N-10439",
+      "name": "TPUSA Termination Cause Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9967"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10452",
+      "ref": "N-10452",
+      "name": "Candace Owens Anti-Semite of Year 2024 Nomination",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10008"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10492",
+      "ref": "N-10492",
+      "name": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9916",
+        "C-9949",
+        "C-9950",
+        "C-9956",
+        "C-9958",
+        "C-9962",
+        "C-9967"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10548",
+      "ref": "N-10548",
+      "name": "Tarmac Hug Account Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9932",
+        "C-9933",
+        "C-9934",
+        "C-9935"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10554",
+      "ref": "N-10554",
+      "name": "Andrew Kolvet 9/10 Flight Itinerary",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9932",
+        "C-9933"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10560",
+      "ref": "N-10560",
+      "name": "Tarmac Hug Timeline Reconciliation Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9934",
+        "C-9935",
+        "C-9936"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10561",
+      "ref": "N-10561",
+      "name": "Stacey Sheridan September 10 Location Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9943"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10689",
+      "ref": "N-10689",
+      "name": "Daily Wire Financial Status and IPO Effort",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9978",
+        "C-9980",
+        "C-9981"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical",
+      "type": "investigation_target",
+      "description": "Gary Melton's YouTube channel that handled the Fort Huachuca response and appeared on Kirk's show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9928",
+        "C-9929",
+        "C-9930"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Company at the center of the Boreing allegations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9977",
+        "C-9978",
+        "C-9979",
+        "C-9988",
+        "C-9989",
+        "C-9990",
+        "C-9994",
+        "C-9995",
+        "C-9996",
+        "C-9997",
+        "C-10006",
+        "C-10009"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11000",
+      "ref": "N-11000",
+      "name": "Spousal CEO Succession Precedent Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9937"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11014",
+      "ref": "N-11014",
+      "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9961"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11084",
+      "ref": "N-11084",
+      "name": "TPUSA Leak Hunt and Employee Firings",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9916",
+        "C-9956",
+        "C-9958",
+        "C-10001"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11092",
+      "ref": "N-11092",
+      "name": "Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9937",
+        "C-9938",
+        "C-9939"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11116",
+      "ref": "N-11116",
+      "name": "Candace Owens Daily Wire Firing Reasons",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9970",
+        "C-9975",
+        "C-9984",
+        "C-9985",
+        "C-9986",
+        "C-9987",
+        "C-9988",
+        "C-10008"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11180",
+      "ref": "N-11180",
+      "name": "TPUSA Cease and Desist Letter to Candace Owens",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9968",
+        "C-10004"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11182",
+      "ref": "N-11182",
+      "name": "TPUSA Crisis PR Team",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9917",
+        "C-9963"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11191",
+      "ref": "N-11191",
+      "name": "Pre-Born",
+      "type": "investigation_target",
+      "description": "Sponsor of the ad read.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9969"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson (transcribed Kolbint, Kolbenschlag, Kolb, Callaway); his tarmac, surgeon and Netanyahu accounts are discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9918",
+        "C-9919",
+        "C-9920",
+        "C-9921",
+        "C-9924",
+        "C-9926",
+        "C-9927",
+        "C-9931",
+        "C-9932",
+        "C-9933",
+        "C-9934",
+        "C-9935",
+        "C-9936",
+        "C-9937",
+        "C-9963",
+        "C-9964",
+        "C-9965",
+        "C-9966",
+        "C-10003"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 19,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-199",
+      "ref": "N-199",
+      "name": "Lee Trotter",
+      "type": "person",
+      "description": "Surgeon at the center of the three-way call dispute.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9918",
+        "C-9919",
+        "C-9920",
+        "C-9922",
+        "C-9965"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-205",
+      "ref": "N-205",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Named in the host's account of management's suspicion.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9986"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Named in Boreing's alleged comparison and in management's alleged suspicion of the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9914",
+        "C-9986"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-225",
+      "ref": "N-225",
+      "name": "Brett Cooper",
+      "type": "person",
+      "description": "Former Daily Wire employee whose departure the host discusses.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9994",
+        "C-9995",
+        "C-9996",
+        "C-9997"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-236",
+      "ref": "N-236",
+      "name": "Andrew Klavan",
+      "type": "person",
+      "description": "Daily Wire host whose episode Boreing allegedly reviewed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9989"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Caller at the Hamptons retreat and subject of the funding-offer dispute.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9923",
+        "C-9924",
+        "C-9925"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-369",
+      "ref": "N-369",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Likely subject of 'Mitch's entire past' as dug into by Paramount Tactical (transcribed with McConnell).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9929"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-481",
+      "ref": "N-481",
+      "name": "Robert Eugene Flood",
+      "type": "person",
+      "description": "Chicago-area man the host says was wrongly pictured as Bob Ferguson in the prior episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9915"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-504",
+      "ref": "N-504",
+      "name": "Marina (TPUSA CMO)",
+      "type": "person",
+      "description": "Host calls her Marina, the COO, and Marina Medvin; accused of loyalty-test firings.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9967",
+        "C-10000"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-509",
+      "ref": "N-509",
+      "name": "Bassem Youssef",
+      "type": "person",
+      "description": "Next-day guest; Daily Wire allegedly denied the host's request to host him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10009",
+        "C-10010"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Named in the host's account of her Daily Wire exit and Boreing's loan.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9981",
+        "C-9985"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-871",
+      "ref": "N-871",
+      "name": "Bob Ferguson",
+      "type": "person",
+      "description": "First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in the prior episode as Bob Flood; the host says he has nothing to do with the story and apologizes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9915"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11243",
+      "ref": "N-11243",
+      "name": "Erika Kirk Utah Companions and Family Absence Question",
+      "type": "topic",
+      "description": "The host's questions about who accompanied Erika Kirk in Utah on September 10 and afterward, including the claim that no relatives were present and Stacy Sheridan was beside her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9940",
+        "C-9941",
+        "C-9942",
+        "C-9943",
+        "C-9944",
+        "C-9945",
+        "C-9947",
+        "C-9948"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11244",
+      "ref": "N-11244",
+      "name": "Brett Cooper Departure Dispute with Daily Wire",
+      "type": "topic",
+      "description": "The host's allegations about Jeremy Boreing's handling of Brett Cooper's departure before her wedding, the maid of honor offer, the smear and the lawsuit against the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9994",
+        "C-9995",
+        "C-9996",
+        "C-9997"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -828,7 +1875,2342 @@
         "N-374",
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9913",
+      "ref": "C-9913",
+      "label": "Host Says Everybody Grieves Differently Was First Used Inside TPUSA on the Sept 16 Call",
+      "claim": "The host says that the expression 'everybody grieves differently' was first uttered inside Turning Point USA, on a corporate-wide Zoom call five and a half days after the assassination, before the memorial.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10448"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "Obtain the full recording of the September 16 call and search the transcript for the phrase 'grieves differently'; compare with the first public use by TPUSA-aligned accounts.",
+      "transcript_snippet": "who actually uttered that expression first over at Turning Point USA, before Charlie's memorial. In a corporate-wide phone call",
+      "supports_claim_refs": [
+        "C-2211"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9914",
+      "ref": "C-9914",
+      "label": "Host Says Boreing Compared Her and Tucker Carlson to Antifa and Her Show to Pornography",
+      "claim": "The host says Jeremy Boreing publicly attacked Tucker Carlson and her, correlating them to antifa thugs, and also compared her show to pornography.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:00:52",
+      "investigative_direction": "Locate the Boreing podcast interview and check whether he used the word antifa about the host and Carlson.",
+      "transcript_snippet": "publicly attacking Tucker Carlson and yours truly, correlating us to antifa thugs. And also this show to pornography.",
+      "mentions_person_refs": [
+        "N-374",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9915",
+      "ref": "C-9915",
+      "label": "Host Corrects Photo: Man Shown Was Bob Ferguson of Iowa, Not Bob Flood of Chicago",
+      "claim": "The host says the previous episode showed a picture of a man she believed was Bob Flood of Chicago, but he is Bob Ferguson of Iowa and has nothing to do with the story; she says the image was removed and she apologizes.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:26",
+      "investigative_direction": "Compare the removed segment of the prior episode with the corrected version and confirm the image is gone from all uploads.",
+      "transcript_snippet": "His name was actually Bob Fergus- Ferguson. He's from Iowa. He has nothing to do with the story.",
+      "mentions_person_refs": [
+        "N-481",
+        "N-871",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9916",
+      "ref": "C-9916",
+      "label": "Host Says She Spoke With Fired Employees Who Were Not Her Leakers",
+      "claim": "The host says she has now spoken with employees who were let go in the recent string of aggressive firings, that they did nothing wrong, and that they were not the people leaking to her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11084",
+        "N-10492"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:22",
+      "investigative_direction": "Obtain the names of the separated employees (from the host or former staff) and TPUSA separation records to test whether any leaked to the host.",
+      "transcript_snippet": "after now speaking with employees who were let go in this recent string of aggressive firings, employees that did nothing",
+      "supports_claim_refs": [
+        "C-6986"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9917",
+      "ref": "C-9917",
+      "label": "Host Says Erika Was Intimately Involved in the PR Campaign Against Her",
+      "claim": "The host says she firmly believes from the beginning that Erika Kirk was intimately involved in the PR messaging and PR campaign against her at different times.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11182"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:22",
+      "investigative_direction": "Identify the PR firm or agency engaged by TPUSA and any messages or contracts showing Erika Kirk approved statements about the host.",
+      "transcript_snippet": "I do believe firmly from the beginning that Erika was intimately involved in the PR messaging and the PR campaign at different times against me",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9918",
+      "ref": "C-9918",
+      "label": "Host Says Erika Lied to Her Face About Superman Neck and Blamed Kolvet",
+      "claim": "The host says Erika Kirk lied to her face about the 'Superman neck' statement, blaming Andrew Kolvet and saying he went rogue, and also that Dr. Lee Trotter went rogue.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447",
+        "N-10341"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:22",
+      "investigative_direction": "Compare the host's notes or recording of the private meeting with Erika Kirk against Kolvet's surgeon post and any statement from Dr. Trotter.",
+      "transcript_snippet": "She lied to my face actually regarding the Superman neck. She blamed that on Andrew Kolbint, said that he went rogue, that Dr. Lee Trotter also went rogue",
+      "supports_claim_refs": [
+        "C-6824"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14",
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9919",
+      "ref": "C-9919",
+      "label": "Host Says Erika Claimed the Two Men Violated HIPAA Without Her Knowledge",
+      "claim": "The host says Erika Kirk told her that Kolvet and Dr. Lee Trotter violated HIPAA by hopping on the phone and acting without her consent or knowledge.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:22",
+      "investigative_direction": "Obtain the recording or notes of the private meeting and any hospital HIPAA complaint or response regarding Dr. Trotter.",
+      "transcript_snippet": "violated HIPAA, that they hopped on the phone and did this without her consent or knowledge",
+      "mentions_person_refs": [
+        "N-2",
+        "N-14",
+        "N-199",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9920",
+      "ref": "C-9920",
+      "label": "Host Says It Was a Three-Way Call and the Superman Neck Statement Came From Erika",
+      "claim": "The host says she told her audience the doctor did not violate HIPAA, that it was a three-way call, and that the statement about 'Superman neck' came from Erika Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447",
+        "N-10341"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:22",
+      "investigative_direction": "Obtain call records for the three-way call and the surgeon's account, and compare with the wording of Kolvet's post.",
+      "transcript_snippet": "It was actually a three-way call and the statement pertaining to Superman neck came from her.",
+      "supports_claim_refs": [
+        "C-5403"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14",
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9921",
+      "ref": "C-9921",
+      "label": "Host Says Kolvet Was Doing Erika's Bidding and Taking a Bullet for Her",
+      "claim": "The host says Andrew Kolvet, in sending the surgeon tweet, was doing Erika Kirk's bidding and taking a figurative bullet for her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:22",
+      "investigative_direction": "Look for messages between Kolvet and Erika Kirk around the surgeon call that show who authorized the post.",
+      "transcript_snippet": "Andrew Kolbint in that regard was doing Erika's bidding. He was taking a figurative bullet for her.",
+      "supports_claim_refs": [
+        "C-9920"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9922",
+      "ref": "C-9922",
+      "label": "Host Says Erika Knew She Was on the Call and Did Not Misspeak",
+      "claim": "The host says Erika Kirk did not misspeak: she lied to the doctor and knew she was on the three-way call.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:39",
+      "investigative_direction": "Interview the surgeon or his intermediary and obtain phone records for the day of the call.",
+      "transcript_snippet": "She lied to the doctor, a surgeon, and she knew that she was on that call.",
+      "supports_claim_refs": [
+        "C-9918"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9923",
+      "ref": "C-9923",
+      "label": "Host Says Erika Was Confirmed Present at the Hamptons Retreat When Netanyahu Called",
+      "claim": "The host says it has now been confirmed that Erika Kirk was at the Hamptons retreat and was present when Benjamin Netanyahu called.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10027",
+        "N-10446"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:39",
+      "investigative_direction": "Obtain the attendee list and travel records for the August 2025 Hamptons retreat and the call log for the Netanyahu call.",
+      "transcript_snippet": "We've also now confirmed that she was at the Hamptons retreat, the now infamous uh Hamptons retreat.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9924",
+      "ref": "C-9924",
+      "label": "Host Says Two Unrelated People Confirmed Kolvet's Account of the Netanyahu Funding Offer",
+      "claim": "The host says she has confirmed Andrew Kolvet's account that Netanyahu offered to fund Turning Point to the next level with two people not related to Kolvet.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342",
+        "N-10446"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:39",
+      "investigative_direction": "Obtain the two confirming sources' accounts (anonymized if necessary) and Kolvet's original statement.",
+      "transcript_snippet": "I have since confirmed what Andrew Kolbenschlag said with two people that are not related to Andrew Kolbenschlag at all.",
+      "supports_claim_refs": [
+        "C-1938"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9925",
+      "ref": "C-9925",
+      "label": "Host Says Erika Recalls No Offer and Says Bibi Called About Charlie's May Letter",
+      "claim": "The host says Erika Kirk, though confirming she was at the dinner, says no funding offer was made and that Netanyahu was calling about the letter Charlie Kirk wrote him in May.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10446"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:25",
+      "investigative_direction": "Compare Erika Kirk's account with Kolvet's and with the May 2025 letter released by Netanyahu's office.",
+      "transcript_snippet": "She says that there was not an offer that was made and that Bibi was calling about the letter that Charlie wrote him back in May.",
+      "contradicts_claim_refs": [
+        "C-1938"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9926",
+      "ref": "C-9926",
+      "label": "Host Says Kolvet Told Her Charlie Called the Summit an Intervention Over Israel",
+      "claim": "The host says Andrew Kolvet confirmed to her that Charlie Kirk described the Hamptons summit as an intervention being staged over Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10027",
+        "N-10446"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:25",
+      "investigative_direction": "Obtain Kolvet's original account and any contemporaneous messages in which Charlie Kirk characterized the summit.",
+      "transcript_snippet": "Andrew uh confirmed to me that Charlie described that summit as like an intervention was being staged over Israel.",
+      "supports_claim_refs": [
+        "C-1128"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9927",
+      "ref": "C-9927",
+      "label": "Host Says Erika and Kolvet Worked Together on the Fort Huachuca PR Response",
+      "claim": "The host says it has been confirmed that Erika Kirk and Andrew Kolvet worked together on the Fort Huachuca PR response.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10450"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:18",
+      "investigative_direction": "Identify who drafted and approved the Fort Huachuca response and obtain the messages coordinating it.",
+      "transcript_snippet": "We have also confirmed that Erika and Andrew are working together on that Fort Huachuca PR response.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9928",
+      "ref": "C-9928",
+      "label": "Host Says the Response Went Through Paramount Tactical Rather Than to Her After Their Four-Hour Meeting",
+      "claim": "The host says the Fort Huachuca response was handled through the YouTuber Paramount Tactical rather than going directly to her after her roughly four-hour conversation with Erika Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899",
+        "N-10450"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:18",
+      "investigative_direction": "Obtain communications between TPUSA and Paramount Tactical and the date of the host's meeting with Erika Kirk.",
+      "transcript_snippet": "Rather than going directly to me after we sat down, that to me seems like a pretty uh strong violation of a well-meaning conversation that I had with her for 4 hours.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9929",
+      "ref": "C-9929",
+      "label": "Host Says Paramount Tactical Also Dug Into Mitch's Entire Past",
+      "claim": "The host says the same YouTuber, Paramount Tactical, also went into 'Mitch's' entire past (transcribed with 'Mitch McConnell's past').",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:18",
+      "investigative_direction": "Confirm which Mitch is meant (Mitch Snow is the likely reference) and review Paramount Tactical's videos about him.",
+      "transcript_snippet": "that was the same YouTuber despite, you know, also going into Mitch's entire past",
+      "mentions_person_refs": [
+        "N-369",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9930",
+      "ref": "C-9930",
+      "label": "Host Says TPUSA Welcomed Paramount Tactical Onto Charlie Kirk's Show While She Was in a Hotel",
+      "claim": "The host says that after calling for a ceasefire and a sit-down, TPUSA welcomed Paramount Tactical onto Charlie Kirk's podcast show to debunk her while she was in a hotel room, and she did not know it was happening.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:09",
+      "investigative_direction": "Find the Charlie Kirk Show episode with Paramount Tactical and its air date relative to the host's meeting.",
+      "transcript_snippet": "they welcomed Paramount Tactical onto Charlie Kirk's podcast show while I was in this hotel room to debunk me.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9931",
+      "ref": "C-9931",
+      "label": "Host Says Kolvet Was Caught Live Messaging From Erika After She Said He Was Out of PR",
+      "claim": "The host says Andrew Kolvet was caught live messaging something from Erika Kirk after Erika told her TPUSA was disappointed in Kolvet and that he would no longer be involved in PR.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10450"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:09",
+      "investigative_direction": "Identify the livestream in which Kolvet was seen messaging and the content and timing of the message.",
+      "transcript_snippet": "him being caught live, Andrew Kolb at live messaging something from Erika after she told me that they were disappointed in Andrew, that he wasn't going to be involved in PR anymore.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9932",
+      "ref": "C-9932",
+      "label": "Host Says Kolvet Told Her He Collapsed Crying Into Erika's Arms on the Provo Tarmac",
+      "claim": "The host says Andrew Kolvet told her that when he stepped off the plane in Provo on September 10 he basically collapsed crying into Erika Kirk's arms on the tarmac.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10548",
+        "N-10074",
+        "N-10554"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:09",
+      "investigative_direction": "Obtain airport video, flight records and eyewitness accounts of the September 10 tarmac meeting at Provo.",
+      "transcript_snippet": "when he stepped off of the plane in Provo on September 10th, he basically collapsed into Erika's arms crying on the tarmac",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9933",
+      "ref": "C-9933",
+      "label": "Host Says She Was Led to Think Kolvet Flew Alone, Then Was Told His Wife Was Aboard",
+      "claim": "The host says her impression was that Andrew Kolvet was alone on the plane to Provo, but she was later told he was accompanied by his wife.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10554",
+        "N-10548"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:09",
+      "investigative_direction": "Obtain the passenger manifest for Kolvet's September 10 flight to Provo.",
+      "transcript_snippet": "the impression that I got was that Andrew was on that plane alone. But then we were later told that Andrew was accompanied by his wife.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9934",
+      "ref": "C-9934",
+      "label": "Host Says Erika Had No Recollection of Kolvet's Wife and Could Not Say if She Flew In",
+      "claim": "The host says that in their face-to-face meeting Erika Kirk had no recollection of Kolvet's wife stepping off the plane and could not answer whether he flew in with his wife.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10548",
+        "N-10560"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:17",
+      "investigative_direction": "Compare with the manifest and eyewitness accounts; ask Erika Kirk's office to confirm or deny.",
+      "transcript_snippet": "Erika during our face-to-face meeting had no recollection of his wife stepping off of the plane.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9935",
+      "ref": "C-9935",
+      "label": "Host Says Per Kolvet Erika Waited an Hour on the Tarmac for His Flight",
+      "claim": "The host says that, if Andrew Kolvet is to be believed, Erika Kirk waited for an hour on the tarmac for his flight to land.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10560",
+        "N-10548"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:17",
+      "investigative_direction": "Reconcile Erika Kirk's September 10 movements with flight arrival times at Provo.",
+      "transcript_snippet": "if Andrew is to be believed, then she waited for an hour on the tarmac for Andrew's flight to land.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9936",
+      "ref": "C-9936",
+      "label": "Host Says Kolvet and Erika Entered the Hospital by Separate Entrances",
+      "claim": "The host says that, per Kolvet's account, he went in through the front main entrance where other TPUSA staff were and Erika Kirk went in through a back or side entrance.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10560"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:17",
+      "investigative_direction": "Obtain hospital entrance accounts from staff present on September 10, 2025.",
+      "transcript_snippet": "Andrew went through the front main entry a main entrance where there were other TPUSA staff there, people that were there on that day, and Erika went in through a back or side entrance.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9937",
+      "ref": "C-9937",
+      "label": "Host Says Kolvet Told Her the Board Had Picked Erika Within About 72 Hours",
+      "claim": "The host says Andrew Kolvet told her, before the public announcement, that the board had selected Erika Kirk within about 72 hours of Charlie Kirk's death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11092",
+        "N-11000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:56",
+      "investigative_direction": "Obtain TPUSA board minutes or written consent recording the date of the CEO vote.",
+      "transcript_snippet": "Andrew Kolvet told me before the public knew that the board had selected Erika with within about 72 hours of Charlie's death.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9938",
+      "ref": "C-9938",
+      "label": "Host Reasons Erika Had to Consent Before the Board Vote",
+      "claim": "The host reasons that, to have her name put to a board vote within about 72 hours, Erika Kirk had to give her consent first.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11092"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:40",
+      "investigative_direction": "Obtain the board resolution and any record of when Erika Kirk agreed to be nominated.",
+      "transcript_snippet": "She had to give her consent for that to go up for a board vote.",
+      "supports_claim_refs": [
+        "C-9937"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9939",
+      "ref": "C-9939",
+      "label": "Host Says She Publicly Said TPUSA Should Have Appointed an Interim CEO",
+      "claim": "The host says she stated publicly that Turning Point USA should have waited and appointed an interim CEO so Erika Kirk had time to grieve.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11092",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:49",
+      "investigative_direction": "Locate the host's earlier public statement calling for an interim CEO.",
+      "transcript_snippet": "Turning Point USA should have waited and instead appointed an interim CEO to allow Erika the time that she needed to grieve",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9940",
+      "ref": "C-9940",
+      "label": "Host Says Erika Brought No Member of Her Own Family to Utah",
+      "claim": "The host says Erika Kirk did not bring a single member of her actual family with her to Utah, only the Turning Point family.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:57",
+      "investigative_direction": "Obtain accounts from Erika Kirk's relatives and hospital staff on who accompanied her on September 10.",
+      "transcript_snippet": "it is stunning to me that Erika chose not to bring a single member of her actual family with her to Utah.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9941",
+      "ref": "C-9941",
+      "label": "Host Says Charlie's Mother, Father and Sister Raced to the Utah Hospital",
+      "claim": "The host says Charlie Kirk's mother, father and sister all raced to Utah to be with him at the hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:57",
+      "investigative_direction": "Confirm the Kirk family's travel and arrival times with the family or the hospital.",
+      "transcript_snippet": "Charlie Kirk's mother, father, sister, they all raced to Utah to be with him at the hospital",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9942",
+      "ref": "C-9942",
+      "label": "Host Says Erika's Father Lives in Scottsdale and She Has a Sister",
+      "claim": "The host says Erika Kirk's father also lives in Scottsdale, that she has a sister, and that she grew up and went to high school in Arizona.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:57",
+      "investigative_direction": "Verify the residence of Erika Kirk's relatives through public records and her own statements.",
+      "transcript_snippet": "Dad also lives in Scottsdale. Sister, yes, she does have one.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9943",
+      "ref": "C-9943",
+      "label": "Host Says Stacy Sheridan Accompanied Erika Instead of Family",
+      "claim": "The host says that instead of family, Erika Kirk was joined in Utah by Stacy Sheridan, whom the host describes as playing the part of her mother.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11243",
+        "N-10561"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:57",
+      "investigative_direction": "Confirm Sheridan's travel to Utah via flight records or staff accounts.",
+      "transcript_snippet": "Instead, she was joined by Stacy Sheridan, who was playing the part of her mother.",
+      "supports_claim_refs": [
+        "C-9940"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-190",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9944",
+      "ref": "C-9944",
+      "label": "Host Says Sheridan Filmed Charlie in the Casket",
+      "claim": "The host says Stacy Sheridan, TPUSA's head of fundraising, filmed Charlie Kirk in the casket.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:50",
+      "investigative_direction": "Locate any video of Charlie Kirk in the casket and identify who recorded and published it.",
+      "transcript_snippet": "it was Stacy Sheridan who concerns herself with Turning Point raising money, who filmed Charlie in the casket.",
+      "mentions_person_refs": [
+        "N-190",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9945",
+      "ref": "C-9945",
+      "label": "Host Says Sheridan Held Erika's Hand as the Casket Came Off Air Force Two",
+      "claim": "The host says Stacy Sheridan held Erika Kirk's hand as Charlie Kirk's casket came off Air Force Two, and was standing next to her recording.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:50",
+      "investigative_direction": "Review the arrival footage and photos at the airport to identify who stood beside Erika Kirk.",
+      "transcript_snippet": "She's holding her hand as Charlie's casket was coming off of Air Force 2.",
+      "mentions_person_refs": [
+        "N-190",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9946",
+      "ref": "C-9946",
+      "label": "Host Says She Personally Warned Charlie About Sheridan",
+      "claim": "The host says she has said since day one that she personally warned Charlie Kirk about Stacy Sheridan.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:50",
+      "investigative_direction": "Look for the host's messages or recollections to Charlie Kirk about Sheridan and any third-party confirmation.",
+      "transcript_snippet": "I personally warned Charlie about her.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-190"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9947",
+      "ref": "C-9947",
+      "label": "Host Says She Checked With People at the Hospital and No Family Was There",
+      "claim": "The host says she checked with people at the hospital and that no family of Erika Kirk's was there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:50",
+      "investigative_direction": "Interview hospital personnel or review visitor logs for who accompanied Erika Kirk.",
+      "transcript_snippet": "I've checked with people at the hospital. No no family was there.",
+      "supports_claim_refs": [
+        "C-9940"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9948",
+      "ref": "C-9948",
+      "label": "Host Says Sheridan Was Beside Erika at All Moments, Including Car Rides, Capturing Everything",
+      "claim": "The host says Stacy Sheridan was beside Erika Kirk at all moments including car rides, and shows a clip of her in a car, on the phone, capturing every moment.",
+      "anchored_artifacts": [
+        "A-3041.1"
+      ],
+      "related_nodes": [
+        "N-11243"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:00",
+      "investigative_direction": "Identify the source and date of the car clip and who filmed it.",
+      "transcript_snippet": "Crucial uh to coming and being beside beside Erika at all moments. Car rides, everything.",
+      "mentions_person_refs": [
+        "N-190",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9949",
+      "ref": "C-9949",
+      "label": "Host Says Remaining Employees Describe the Atmosphere as Cult-Like",
+      "claim": "The host says the employees who recorded the call and those still there and upset about the firings say it felt like a cult and that they were being manipulated.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10492"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:51",
+      "investigative_direction": "Obtain statements from current and former employees about workplace conditions after September 10.",
+      "transcript_snippet": "the employees that are still there and upset with the manner in which people were fired are saying that they feel like they were they was like a cult.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9950",
+      "ref": "C-9950",
+      "label": "Host Says Employees Were Fired After a Quarter Billion Dollars Was Raised",
+      "claim": "The host says TPUSA called employees a family to drive them to work like horses only to fire them after a quarter billion dollars was raised.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10492"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:46",
+      "investigative_direction": "Compare TPUSA's post-assassination fundraising totals with separation dates and numbers.",
+      "transcript_snippet": "to drive them to work like horses only to then fire them after a quarter billion is raised is wild.",
+      "supports_claim_refs": [
+        "C-6985"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9951",
+      "ref": "C-9951",
+      "label": "Host Says Farnsworth Is the Man Who Took Down the Cameras",
+      "claim": "The host says that the man audible in the background of the call, Teo Farnsworth, is the guy who took down the cameras.",
+      "anchored_artifacts": [
+        "A-1686.1"
+      ],
+      "related_nodes": [
+        "N-10346"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:46",
+      "investigative_direction": "Confirm Farnsworth's role in removing the cameras from earlier reporting and the camera records.",
+      "transcript_snippet": "that is Teo Farnsworth, the guy who took down the cameras.",
+      "supports_claim_refs": [
+        "C-2220"
+      ],
+      "mentions_person_refs": [
+        "N-267",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9952",
+      "ref": "C-9952",
+      "label": "Erika Told Staff on the Call TPUSA Would Be Bigger Than Ever",
+      "claim": "On the September 16 call, Erika Kirk says she told the team Turning Point USA will continue as her husband wanted and will be bigger than ever.",
+      "anchored_artifacts": [
+        "A-1686.2"
+      ],
+      "related_nodes": [
+        "N-10448"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:35",
+      "investigative_direction": "Verify wording against the unedited recording of the call.",
+      "transcript_snippet": "Turning Point USA will continue like my husband always wanted and it'll be bigger than ever.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9953",
+      "ref": "C-9953",
+      "label": "Erika Said Charlie Is More Alive Than Ever and Will Guide Staff",
+      "claim": "On the call, Erika Kirk says Charlie is here, more alive than ever and going to guide them, and that he will speak to staff in different ways.",
+      "anchored_artifacts": [
+        "A-1686.2"
+      ],
+      "related_nodes": [
+        "N-10448"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:23",
+      "investigative_direction": "Verify wording against the unedited recording of the call.",
+      "transcript_snippet": "But he's here. He's more alive than ever and he is um he's going to guide us.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9954",
+      "ref": "C-9954",
+      "label": "Erika Told Staff Work From Before Sept 10 Was Not Irrelevant but Things Had Changed",
+      "claim": "On the call, Erika Kirk says that work done before September 10 is not irrelevant now, but things have changed and the mission has gotten deeper.",
+      "anchored_artifacts": [
+        "A-1686.2"
+      ],
+      "related_nodes": [
+        "N-10448"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:00",
+      "investigative_direction": "Verify wording against the unedited recording and identify the person Erika names as 'Justin'.",
+      "transcript_snippet": "everything before September 10th, I mean you know you were working on any project you were working on is it's not that it's irrelevant now, it's just things have changed",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9955",
+      "ref": "C-9955",
+      "label": "Erika Closed the Main Address Saying She Felt Blessed and Honored",
+      "claim": "On the call, Erika Kirk closes her main address saying she feels so blessed and honored.",
+      "anchored_artifacts": [
+        "A-1686.2"
+      ],
+      "related_nodes": [
+        "N-10448"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:47",
+      "investigative_direction": "Verify wording against the unedited recording.",
+      "transcript_snippet": "I feel so blessed. And honored.",
+      "supports_claim_refs": [
+        "C-2208"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9956",
+      "ref": "C-9956",
+      "label": "Host Says a Fired Young Woman Never Leaked and Was Told to Get Out With Security Present",
+      "claim": "The host says a young woman who never leaked anything and never spoke to her was fired and, when she asked why, was told to get out with security present and that the organization was moving in a different direction.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11084",
+        "N-10492"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:04",
+      "investigative_direction": "Identify the employee and obtain her account and any termination paperwork.",
+      "transcript_snippet": "She never leaked anything. She never spoke to me. Nothing. Gets fired and for asking a simple question, like literally, why am I fired?",
+      "supports_claim_refs": [
+        "C-6986"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9957",
+      "ref": "C-9957",
+      "label": "Host Says Erika Sounded Close to Tears Only About Staff Keeping Their Jobs",
+      "claim": "The host says Erika Kirk sounded like she was about to cry when discussing specifically staff keeping their jobs, not Charlie, and says she did not mean it sincerely.",
+      "anchored_artifacts": [
+        "A-1686.2"
+      ],
+      "related_nodes": [
+        "N-10448"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:29",
+      "investigative_direction": "Compare the audio with later separation records to test the sincerity of the job-security promise.",
+      "transcript_snippet": "hearing her sound like she's about to cry when she discusses specifically them keeping their jobs, not Charlie",
+      "supports_claim_refs": [
+        "C-2209"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9958",
+      "ref": "C-9958",
+      "label": "Host Says Erika Went On to Fire Many Staff Without Cause or Conversation",
+      "claim": "The host says Erika Kirk then fired a boatload of staff without cause or even conversation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10492",
+        "N-11084"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:29",
+      "investigative_direction": "Obtain a count and list of separations with dates and stated reasons.",
+      "transcript_snippet": "she's going to fire a boatload of them without cause or even conversation",
+      "supports_claim_refs": [
+        "C-6986"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9959",
+      "ref": "C-9959",
+      "label": "Erika Told Staff to Rebuke Anyone Who Tries to Divide the Team",
+      "claim": "On the call, Erika Kirk tells staff that anything or anyone who tries to divide their team is the enemy and to rebuke it.",
+      "anchored_artifacts": [
+        "A-1686.3"
+      ],
+      "related_nodes": [
+        "N-10448"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:13",
+      "investigative_direction": "Verify wording against the unedited recording.",
+      "transcript_snippet": "if there's anything or anyone who tries to divide your team or you or that's just the enemy, and just rebuke it",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9960",
+      "ref": "C-9960",
+      "label": "Erika Told Staff Charlie Would Want Them in the Office",
+      "claim": "On the call, Erika Kirk says the fact that a lot of staff are in the office with her is what they should do, and that Charlie would want them to build rather than sit alone.",
+      "anchored_artifacts": [
+        "A-1686.3"
+      ],
+      "related_nodes": [
+        "N-10448"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:13",
+      "investigative_direction": "Verify wording against the unedited recording.",
+      "transcript_snippet": "The fact that a lot of you guys are here in office, that's what you should do.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9961",
+      "ref": "C-9961",
+      "label": "Host Says Employees Were Asked to Come In on Weekends to Pack T-Shirts",
+      "claim": "The host says employees, already working 20-hour days, were asked to come in on weekends to pack t-shirts because it is what Charlie would want.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:41",
+      "investigative_direction": "Obtain employee accounts and any internal messages asking for weekend merchandise work.",
+      "transcript_snippet": "they were then asked to come in on the weekends to pack t-shirts because it's what Charlie would want.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9962",
+      "ref": "C-9962",
+      "label": "Host Says Employees Told Her They Felt Emotionally Manipulated",
+      "claim": "The host says the loyal employees told her they felt they were being emotionally manipulated into working harder.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10492"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:41",
+      "investigative_direction": "Obtain statements from the employees who spoke to the host.",
+      "transcript_snippet": "and they said that they felt like they were being emotionally manipulated.",
+      "supports_claim_refs": [
+        "C-9949"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9963",
+      "ref": "C-9963",
+      "label": "Host Says Erika Orchestrated the PR Campaign From Behind the Scenes",
+      "claim": "The host says that with all the new information she is receiving, she believes Erika Kirk has been orchestrating the entire PR campaign from the back and pretending Kolvet was the problem.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11182"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:30",
+      "investigative_direction": "Obtain the host's sources' documents or messages showing Erika Kirk directing PR statements.",
+      "transcript_snippet": "I do believe with all of the new information that I am getting and it is a lot that she has been orchestrating this entire PR campaign from the back",
+      "supports_claim_refs": [
+        "C-9917"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9964",
+      "ref": "C-9964",
+      "label": "Host Says Kolvet Was Allowed to Absorb Blame and the Public Was Lied To",
+      "claim": "The host says Kolvet absorbed blame so people would think he was acting rogue, that this factually was not the case, and that the public was lied to.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:30",
+      "investigative_direction": "Compare Kolvet's public statements with the surgeon's account and call records.",
+      "transcript_snippet": "to allow people to think that it was just him acting rogue when it wasn't. It factually was not. We were lied to.",
+      "supports_claim_refs": [
+        "C-9920"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9965",
+      "ref": "C-9965",
+      "label": "Host Says the Three-Way Call With the Surgeon Took Place on the Day of the Funeral Mass",
+      "claim": "The host says Erika Kirk and Andrew Kolvet got on the phone with the surgeon on the day of Charlie Kirk's funeral mass.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:41",
+      "investigative_direction": "Obtain phone records for the September 20, 2025 date and the timing of Kolvet's post.",
+      "transcript_snippet": "That was on the day of Charlie's actual funeral mass.",
+      "supports_claim_refs": [
+        "C-5403"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9966",
+      "ref": "C-9966",
+      "label": "Host Says the Call Came the Day After Her Episode on No Blood in the Back",
+      "claim": "The host says Kolvet posted that he had just got off the phone with the surgeon, so the call date is known, and it came the day after her episode noting there was no blood in the back and questioning the .30-06.",
+      "anchored_artifacts": [
+        "A-3042.1"
+      ],
+      "related_nodes": [
+        "N-10341",
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:41",
+      "investigative_direction": "Match the time stamp of Kolvet's X post to the host's episode release time.",
+      "transcript_snippet": "So we don't have to imagine when that was. The day after my episode when people were going",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9967",
+      "ref": "C-9967",
+      "label": "Host Says Staff Are Being Let Go in Loyalty Tests Run by Marina, the COO, Who Asks Uber Drivers",
+      "claim": "The host says staff are being let go in loyalty tests conducted by Marina, the COO, who talks to Uber drivers for information about what employees said about TPUSA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10492",
+        "N-10439"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:40",
+      "investigative_direction": "Identify Marina's exact title and the employees allegedly dismissed after remarks overheard by drivers.",
+      "transcript_snippet": "being let go for no reason other than loyalty tests that are being conducted by Marina, the COO, who's talking to Uber drivers for the tea.",
+      "supports_claim_refs": [
+        "C-6986"
+      ],
+      "mentions_person_refs": [
+        "N-504",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9968",
+      "ref": "C-9968",
+      "label": "Host Says TPUSA Sent Her a Cease and Desist After She Told the Truth",
+      "claim": "The host says TPUSA sent her a cease and desist because she told the truth, which she says is a personal trigger.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11180",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:28",
+      "investigative_direction": "Obtain the cease and desist letter and its date and demands.",
+      "transcript_snippet": "I don't like when they send me cease and desist because I told the truth.",
+      "supports_claim_refs": [
+        "C-6987"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9969",
+      "ref": "C-9969",
+      "label": "Sponsor Read Says Pre-Born Helped Rescue Over 80,000 Babies Last Year",
+      "claim": "A sponsor segment played in the episode says Pre-Born helped rescue over 80,000 babies last year.",
+      "anchored_artifacts": [
+        "A-3043.1"
+      ],
+      "related_nodes": [
+        "N-11191"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:28",
+      "investigative_direction": "Check Pre-Born's published annual figures for the claimed number.",
+      "transcript_snippet": "last year Pre-Born helped rescue over 80,000 babies",
+      "supports_claim_refs": [
+        "C-6716"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9970",
+      "ref": "C-9970",
+      "label": "Boreing Said He Had Misgivings About Hiring Candace but It Was Not Cynical",
+      "claim": "In the clip, Jeremy Boreing says he had misgivings about Candace Owens at the time but the hiring was not a completely cynical decision.",
+      "anchored_artifacts": [
+        "A-1688.1"
+      ],
+      "related_nodes": [
+        "N-11116"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:00",
+      "investigative_direction": "Identify the podcast and date and view the full clip.",
+      "transcript_snippet": "I had misgivings about Candace, but I it wasn't a completely cynical decision.",
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9971",
+      "ref": "C-9971",
+      "label": "Boreing Called Candace the Most Talented Person He Has Met",
+      "claim": "In the clip, Jeremy Boreing says Candace Owens is the most talented person he has ever met in any media.",
+      "anchored_artifacts": [
+        "A-1688.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:00",
+      "investigative_direction": "Verify wording against the full source interview.",
+      "transcript_snippet": "Candace is the most talented person I've ever met, not just in conservative media, but in in any media.",
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9972",
+      "ref": "C-9972",
+      "label": "Boreing Said Her Gifts Are Now Used for Ill",
+      "claim": "In the clip, Jeremy Boreing says the gifts Candace Owens at times used for good she is now using for ill.",
+      "anchored_artifacts": [
+        "A-1688.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:30",
+      "investigative_direction": "Verify wording against the full source interview.",
+      "transcript_snippet": "all those same gifts that she has at various times used for good, She's now using for ill",
+      "supports_claim_refs": [
+        "C-2216"
+      ],
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9973",
+      "ref": "C-9973",
+      "label": "Boreing Recounted Telling a Man to Answer His Wife With Porno Stories",
+      "claim": "In the clip, Jeremy Boreing says that when a man asked how to respond to his wife quoting Candace Owens, he told him to respond by telling her fun things he saw in a porno video.",
+      "anchored_artifacts": [
+        "A-1688.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:41:59",
+      "investigative_direction": "Verify wording and context against the full source interview.",
+      "transcript_snippet": "I would just respond by say telling her fun things that you saw in some porno video that you watched.",
+      "supports_claim_refs": [
+        "C-2217"
+      ],
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9974",
+      "ref": "C-9974",
+      "label": "Boreing Said the Show Titillates, Gets Clicks and Makes Tons of Money",
+      "claim": "In the clip, Jeremy Boreing says the show titillates, stimulates and is slightly naughty, great for getting clicks, and makes tons of money on the internet.",
+      "anchored_artifacts": [
+        "A-1688.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:56",
+      "investigative_direction": "Verify wording against the full source interview.",
+      "transcript_snippet": "It titillates, it stimulates, it's slightly naughty. Uh it's great for getting clicks, and it makes tons of money on the internet.",
+      "supports_claim_refs": [
+        "C-2217"
+      ],
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9975",
+      "ref": "C-9975",
+      "label": "Host Says One Reason She Was Fired Was Saying to Look Into the History of Pornography",
+      "claim": "The host says one of the reasons she was fired was that she said they should look into the history of pornography.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11116"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:56",
+      "investigative_direction": "Compare with Boreing's own stated reasons for the firing in earlier interviews.",
+      "transcript_snippet": "one of the reasons I got fired is I said we should look into the history of pornography.",
+      "supports_claim_refs": [
+        "C-6923"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9976",
+      "ref": "C-9976",
+      "label": "Boreing Said Candace Articulates Audience Capture as a Virtue",
+      "claim": "In the clip, Jeremy Boreing says Candace Owens is saying she will say whatever gets the most reward and is articulating audience capture as a virtue.",
+      "anchored_artifacts": [
+        "A-1688.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:44:36",
+      "investigative_direction": "Verify wording against the full source interview.",
+      "transcript_snippet": "she's essentially she's articulating audience capture as a virtue.",
+      "supports_claim_refs": [
+        "C-2218"
+      ],
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9977",
+      "ref": "C-9977",
+      "label": "Host Alleges Boreing Had His Hair and Makeup Done Daily and Kept Talent Waiting",
+      "claim": "The host alleges Jeremy Boreing made talent wait outside while he closed the room and had people do his hair and makeup and style him to play the CEO.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:59",
+      "investigative_direction": "Seek accounts from former Daily Wire staff on grooming and office routines.",
+      "transcript_snippet": "Making talent, people who had shows, wait outside while you close the room. Had people wash your hair, do your makeup, and style you.",
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9978",
+      "ref": "C-9978",
+      "label": "Host Alleges Hundreds of Thousands of Dollars Went to a Clothing Rack",
+      "claim": "The host alleges Boreing spent hundreds of thousands of dollars on a clothing rack so he could sit in the office and take calls like a CEO.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900",
+        "N-10689"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:59",
+      "investigative_direction": "Seek Daily Wire expense records or former finance staff accounts.",
+      "transcript_snippet": "Hundreds of thousands of dollars on a clothing rack so you could go sit in the office and take phone calls like a CEO.",
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9979",
+      "ref": "C-9979",
+      "label": "Host Says Boreing Flew Nearly the Whole Company to Hungary to Film a Book From His Youth",
+      "claim": "The host says Jeremy Boreing flew out virtually the entire company to Hungary to bring a book he read in middle school to life on a budget that would make HBO blush.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10449",
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:51",
+      "investigative_direction": "Obtain Daily Wire production budget and travel records for the Hungary shoot.",
+      "transcript_snippet": "He flew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush.",
+      "supports_claim_refs": [
+        "C-2224"
+      ],
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9980",
+      "ref": "C-9980",
+      "label": "Host Says She Was Told $67 Million Was Spent on the Hungary Production",
+      "claim": "The host says she was told the last number she heard was $67 million spent on the project.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10449",
+        "N-10689"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:51",
+      "investigative_direction": "Seek budget documents or credible reporting on the production cost.",
+      "transcript_snippet": "I am told last number I heard was $67 million spent on a high school dream.",
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9981",
+      "ref": "C-9981",
+      "label": "Host Says Boreing Emptied His Savings and Borrowed Money From Ben Shapiro",
+      "claim": "The host says Boreing had to borrow, empty his savings account and borrow money personally from Ben Shapiro to make ends meet.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10689"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:51",
+      "investigative_direction": "Seek confirmation from Daily Wire insiders or financial filings.",
+      "transcript_snippet": "he had to borrow, empty his savings account, borrow money personally from Ben Shapiro to make ends meet",
+      "mentions_person_refs": [
+        "N-374",
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9982",
+      "ref": "C-9982",
+      "label": "Bulwark Guest Said the Project Is Set in Roman-Era Britain, Filmed in Hungary, and Not Yet Released",
+      "claim": "In the Bulwark clip, a guest says the departure agreement may reflect millions spent on a bizarre project set in Roman-era Britain but filmed in Hungary, involving Italian bulls maybe from Spain; earlier in the clip it is said the project still hasn't come out.",
+      "anchored_artifacts": [
+        "A-1689.1"
+      ],
+      "related_nodes": [
+        "N-10449"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:28",
+      "investigative_direction": "Identify the Bulwark episode and the project's release status.",
+      "transcript_snippet": "Well, that might explain some of this departure agreement where you're spending millions on a bizarre project set in Roman era Britain, but filmed in Hungary involving Italian bulls maybe from Spain.",
+      "supports_claim_refs": [
+        "C-2219"
+      ],
+      "mentions_person_refs": [
+        "N-374"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9983",
+      "ref": "C-9983",
+      "label": "Host Says the Project Failed and Nobody Wanted to Buy It",
+      "claim": "The host says the Hungary project failed and nobody wanted to buy it or have anything to do with it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10449"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:28",
+      "investigative_direction": "Check distribution announcements or buyer statements about the project.",
+      "transcript_snippet": "realizing this failed, nobody wanted to buy it and nobody wanted anything to do with it",
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9984",
+      "ref": "C-9984",
+      "label": "Host Says She Approached Boreing Eight and a Half Months Pregnant to Fix Things or Part Amicably",
+      "claim": "The host says that after October 7 she came to Boreing 8 and a half months pregnant, hands open and willing to discuss fixing things or agree to part ways amicably, and he decided not to.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11116"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:32",
+      "investigative_direction": "Seek contemporaneous messages or accounts of the post-October 7 conversations with Boreing.",
+      "transcript_snippet": "When she came to me 8 and 1/2 months pregnant, hands open, and willing to discuss and fix things or agree to amicably go our separate ways if we couldn't",
+      "mentions_person_refs": [
+        "N-3",
+        "N-374"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9985",
+      "ref": "C-9985",
+      "label": "Host Says Shapiro Jumped on a Table and Called Her a Faux Sophisticate",
+      "claim": "The host says Ben Shapiro jumped up on a table and accused her of being a faux sophisticate after she said genocide is always wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11116"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:32",
+      "investigative_direction": "Seek eyewitness accounts or recordings of the meeting.",
+      "transcript_snippet": "Ben jumped up on a table and accused her of being a faux sophisticate",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9986",
+      "ref": "C-9986",
+      "label": "Host Says Management Suspected She Was Secretly Working With Fuentes and Carlson",
+      "claim": "The host says Boreing conveyed that Daily Wire suspected she might have been secretly working with Nick Fuentes and Tucker Carlson.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11116"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:32",
+      "investigative_direction": "Seek the host's contemporaneous messages or witnesses to the suspicion.",
+      "transcript_snippet": "they suspected that I might have been secretly working with Nick Fuentes and Tucker Carlson",
+      "mentions_person_refs": [
+        "N-374",
+        "N-205",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9987",
+      "ref": "C-9987",
+      "label": "Host Alleges Daily Wire Planned a Fake Scandal Modeled on Breitbart",
+      "claim": "The host alleges, in a sarcastic imitation of Boreing's reasoning, that his plan was to repeat what was done to Breitbart by creating a fake scandal and accusing her of being anti-Semitic.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11116"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:32",
+      "investigative_direction": "Seek Daily Wire internal communications from the weeks before the firing.",
+      "transcript_snippet": "My next big plan is to do what we did to Breitbart. We'll create a fake scandal.",
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9988",
+      "ref": "C-9988",
+      "label": "Host Alleges the Firing Was Timed to Lent Over Christ Is King to Boost Sign-Ups",
+      "claim": "The host alleges that the firing over her Christ is King post was timed for Lent because it would lead to more Daily Wire sign-ups.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11116",
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:52",
+      "investigative_direction": "Compare Daily Wire subscription data around March 2024.",
+      "transcript_snippet": "Over having said Christ is king, we'll do this during Lent because surely that will lead to more Daily Wire sign-ups.",
+      "supports_claim_refs": [
+        "C-9987"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-374"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9989",
+      "ref": "C-9989",
+      "label": "Host Says Boreing Personally Reviewed Klavan's Episode Before It Aired",
+      "claim": "The host says Jeremy Boreing personally reviewed Andrew Klavan's episode, the first attack after she departed, before it went out and approved it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:52",
+      "investigative_direction": "Identify the Klavan episode and seek editorial approval records.",
+      "transcript_snippet": "Jeremy actually personally reviewed Andrew Klavan's episode before it went out",
+      "mentions_person_refs": [
+        "N-374",
+        "N-236",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9990",
+      "ref": "C-9990",
+      "label": "Host Says Many Daily Wire Employees Left and Leaked What Happened to the Press",
+      "claim": "The host says many Daily Wire employees subsequently left and leaked to the press what had happened.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:39",
+      "investigative_direction": "Identify the press reports based on former Daily Wire staff.",
+      "transcript_snippet": "many of whom uh subsequently left and leaked to the press what had happened.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9991",
+      "ref": "C-9991",
+      "label": "Host Says Boreing Sent an Intern to Dallas to Stalk Her at Turning Point USA",
+      "claim": "The host says Boreing sent an intern on a secret mission to Dallas, to Turning Point USA, to follow her after he fired her and put her on a plane.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10416",
+        "N-10238",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:26",
+      "investigative_direction": "Obtain the Daily Wire email and the intern's account and any recording from the event.",
+      "transcript_snippet": "having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA, to put her on a plane, an intern.",
+      "supports_claim_refs": [
+        "C-5351"
+      ],
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9992",
+      "ref": "C-9992",
+      "label": "Host Says Boreing Wrote a Nearly Five-Page Email to the Company Admitting It",
+      "claim": "The host says Boreing authored an almost five-page email to the entire company admitting to the act and justifying secretly following her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10416",
+        "N-10238"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:26",
+      "investigative_direction": "Obtain the email from former Daily Wire staff.",
+      "transcript_snippet": "to then author a maniacal, almost five-page-long email to the entire company admitting to the act",
+      "supports_claim_refs": [
+        "C-9991"
+      ],
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9993",
+      "ref": "C-9993",
+      "label": "Host Quotes Boreing's Email as Saying It Was His Right to Know What She Was Saying",
+      "claim": "The host says the email said, in her quote, that it was his right to know what she was saying.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10416",
+        "N-10238"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:26",
+      "investigative_direction": "Obtain the email and verify the quoted wording.",
+      "transcript_snippet": "It's my right. It's my right to know what she's saying.",
+      "supports_claim_refs": [
+        "C-9992"
+      ],
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9994",
+      "ref": "C-9994",
+      "label": "Host Says Boreing Told Brett Cooper Before Her Wedding That He Would Turn Her Into a Star",
+      "claim": "The host says Boreing sat Brett Cooper, then a very young employee, down a few weeks before her wedding and told her she should not do that because he had big plans to turn her into a star.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11244",
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:26",
+      "investigative_direction": "Seek Brett Cooper's own account of the conversation.",
+      "transcript_snippet": "sitting her down and telling her that she should she shouldn't do that because you had big plans and you were going to turn her into a star cuz you're the magic.",
+      "mentions_person_refs": [
+        "N-374",
+        "N-225",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9995",
+      "ref": "C-9995",
+      "label": "Host Alleges Boreing Offered the Maid of Honor a Large Sum to Replace Brett Cooper",
+      "claim": "The host alleges Boreing offered an obscene amount of money to Brett Cooper's maid of honor and replaced Cooper with her to hurt her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11244",
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:57",
+      "investigative_direction": "Seek the maid of honor's account and any contract or offer documents.",
+      "transcript_snippet": "offering an obscene amount of money to her maid of honor at that wedding that you didn't want her to have, to hurt her.",
+      "mentions_person_refs": [
+        "N-374",
+        "N-225",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9996",
+      "ref": "C-9996",
+      "label": "Host Alleges Boreing's Circle Tried to Smear Cooper as Anti-Semitic Over an Instagram Like",
+      "claim": "The host alleges Boreing worked through the same PR orbit to smear Brett Cooper as an anti-Semite over an Instagram like of a year-end roundup of the host's podcast.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11244",
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:57",
+      "investigative_direction": "Locate the articles or posts that attacked Cooper over the like and trace their sources.",
+      "transcript_snippet": "to try to smear her, the friendly pop culture young girl, as an anti-Semite, over an Instagram like because she liked a year-end roundup of my podcast.",
+      "mentions_person_refs": [
+        "N-374",
+        "N-225",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9997",
+      "ref": "C-9997",
+      "label": "Host Says Boreing Sued Her for Standing Up for Brett Cooper",
+      "claim": "The host says Boreing sued her for publicly standing up for Brett Cooper despite contractual restraints.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11244",
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:52",
+      "investigative_direction": "Search court dockets for the Daily Wire suit against the host.",
+      "transcript_snippet": "And when you sued me for that, for standing up for Brett Cooper",
+      "mentions_person_refs": [
+        "N-374",
+        "N-225",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9998",
+      "ref": "C-9998",
+      "label": "Host Says Boreing Admitted a Mental Break in Hungary and Did Not Sleep for Days",
+      "claim": "The host says Boreing admitted to her that he had a mental break in Hungary and did not sleep for days.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10449"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:36",
+      "investigative_direction": "Seek corroboration from Daily Wire staff present in Hungary.",
+      "transcript_snippet": "You admitted to me that you had a mental break in Hungary. You didn't sleep for days",
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9999",
+      "ref": "C-9999",
+      "label": "Host Announces a Merged Club Candace Tier at $11.99 a Month or $120 a Year",
+      "claim": "The host says subscription tiers were merged into one Club Candace tier for $11.99 a month or $120 for a year, and a new website launched.",
+      "anchored_artifacts": [
+        "A-3044.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:58:01",
+      "investigative_direction": "Check the website pricing page.",
+      "transcript_snippet": "one Club Candace tier for $11.99 a month, or you can pay $120 for the entire year",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10000",
+      "ref": "C-10000",
+      "label": "Host Says Erika Was in the Office Daily Making Decisions With Sheridan and Marina Medvin",
+      "claim": "The host says Erika Kirk was in the office every day making informed decisions alongside Stacy Sheridan and Marina Medvin, not at home.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:47",
+      "investigative_direction": "Obtain employee accounts of Erika Kirk's daily presence and role in September 2025.",
+      "transcript_snippet": "she was in the office every day, and she was making informed decisions alongside Stacie Sheridan and this Marina Medvin",
+      "supports_claim_refs": [
+        "C-7009"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-190",
+        "N-504",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10001",
+      "ref": "C-10001",
+      "label": "Host Says TPUSA Watched Her Show Live in the Office and Fired Someone for Screenshotting It",
+      "claim": "The host says TPUSA watches her show live in the office and then fired someone for screenshotting the show in the office.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11084"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:47",
+      "investigative_direction": "Identify the employee and obtain termination records.",
+      "transcript_snippet": "Turning Point USA watches this show live in the office, and then fired someone for screenshotting the show in the office.",
+      "supports_claim_refs": [
+        "C-5486"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10002",
+      "ref": "C-10002",
+      "label": "Host Says Erika Told Her a Lot of Fibs During the Sit-Down",
+      "claim": "The host says she has since learned that Erika Kirk told her a lot of fibs during their sit-down.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:59:24",
+      "investigative_direction": "Compare the host's notes of the meeting with later verified facts.",
+      "transcript_snippet": "she did tell me a lot of uh fibs during our sit-down",
+      "supports_claim_refs": [
+        "C-9918"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10003",
+      "ref": "C-10003",
+      "label": "Host Says the Biggest Fib Was Blaming Kolvet, Who Others Say Told the Truth",
+      "claim": "The host says the biggest fib was Erika Kirk's consistent throwing of Andrew Kolvet under the bus and that she learned from other people that Kolvet told the truth.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:24",
+      "investigative_direction": "Identify the other sources and compare their accounts with Erika Kirk's.",
+      "transcript_snippet": "the consistent throwing Andrew Kolb under the bus and then me learning that Andrew told the truth from other people.",
+      "supports_claim_refs": [
+        "C-9918"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10004",
+      "ref": "C-10004",
+      "label": "Host Says the TPUSA Contract Is Used to Bar Her From Asking Questions About the Murder",
+      "claim": "The host says that in response to her questions she was told she has no right to ask about Charlie Kirk's murder because the contract she signed covers everybody.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11180",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:07",
+      "investigative_direction": "Obtain the tour agreement and the cease and desist letter and compare their wording.",
+      "transcript_snippet": "You don't have a a right to ask questions about his murder because our contract covers everybody and their mamas.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10005",
+      "ref": "C-10005",
+      "label": "Host Says She Told the Priest She Would Chill and Has Not Spoken to Him in About Seven Weeks",
+      "claim": "The host says she told her priest she would chill and that it has been about 7 weeks since she spoke to him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:01:57",
+      "investigative_direction": "No external record available.",
+      "transcript_snippet": "it's been a probably like 7 weeks since I've spoken to him",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10006",
+      "ref": "C-10006",
+      "label": "Host Says Daily Wire Management Threatened to Bankrupt Her If She Told Anyone",
+      "claim": "The host says that when she was at the company the refrain was that if she told anybody what was being done to her, they would bankrupt her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:03:27",
+      "investigative_direction": "Seek contemporaneous messages or witnesses to the threats.",
+      "transcript_snippet": "If you tell anybody what we're doing to you, we'll bankrupt you.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-374"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10007",
+      "ref": "C-10007",
+      "label": "Host Cites the Mic Kept in a Cage and a Place Set at a Fundraiser Dinner for Charlie",
+      "claim": "The host says that Charlie's mic was kept in a cage and his dinner place was set at a fundraiser, which feels to her like a seance.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:05",
+      "investigative_direction": "Find footage or photos of the caged mic and the fundraiser dinner with the place setting.",
+      "transcript_snippet": "even keeping the mic and putting it in a cage and setting up his dinner at a fundraiser",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10008",
+      "ref": "C-10008",
+      "label": "Host Says She Tweeted Christ Is King Not at Anyone and It Was Spun as Anti-Semitic",
+      "claim": "The host says she tweeted Christ is King not at anybody and that it was spun into an anti-Semitic attack.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11116",
+        "N-10452"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:56",
+      "investigative_direction": "Review the original tweet and the coverage characterizing it.",
+      "transcript_snippet": "I tweeted Christ is king not at anybody. And um they went ahead and tried to spin that into an anti-Semitic attack.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10009",
+      "ref": "C-10009",
+      "label": "Host Says Daily Wire Denied Her Request to Have Bassem Youssef on Her Show",
+      "claim": "The host says that while at Daily Wire her request to have Bassem Youssef on her show was denied.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:07:49",
+      "investigative_direction": "Seek confirmation from Daily Wire staff or messages regarding the request.",
+      "transcript_snippet": "The Daily Wire denied my request while I was there to have him on my show.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-509"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10010",
+      "ref": "C-10010",
+      "label": "Host Says Bassem Youssef Will Join Her Live the Next Day",
+      "claim": "The host says Bassem Youssef will join her live on the next day's episode.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:07:49",
+      "investigative_direction": "Check the following episode's guest.",
+      "transcript_snippet": "Bassem Youssef is going to be joining me live",
+      "mentions_person_refs": [
+        "N-3",
+        "N-509"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 64,
+          "video_timestamp": "00:50:52",
+          "speaker_node_ref": "N-3",
+          "quote": "e that we had to do the tough but the moral thing. Well, well, it's a psyop. Like, we just need the money, but they'll realize that we took a moral...",
+          "context": "Later reuse of Psyop in CKA seq 64.",
+          "confidence": "high",
+          "tags": [
+            "intel",
+            "residual",
+            "mk_ultra",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-160",
+      "ref": "M-160",
+      "canonical_term": "Everybody Grieves Differently World Tour",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 64,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "Welcome back to season 9 episode 2 of everybody grieves differently.",
+          "context": "Host opens by naming the episode after the phrase.",
+          "confidence": "high",
+          "tags": [
+            "grieves differently",
+            "opener"
+          ]
+        },
+        {
+          "episode": 64,
+          "video_timestamp": "01:02:46",
+          "speaker_node_ref": "N-3",
+          "quote": "season 3 episode 4 of everyone grieves differently",
+          "context": "Host corrects a commenter's season count in the running bit.",
+          "confidence": "high",
+          "tags": [
+            "grieves differently",
+            "season joke"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 64,
+          "video_timestamp": "00:37:44",
+          "speaker_node_ref": "N-3",
+          "quote": "Everything feels fake and gay and fictitious",
+          "context": "Host on media and free speech hypocrisy.",
+          "confidence": "high",
+          "tags": [
+            "fake and gay"
+          ]
+        },
+        {
+          "episode": 64,
+          "video_timestamp": "01:01:07",
+          "speaker_node_ref": "N-3",
+          "quote": "I just I'm so this whole contract stuff it's fake, it's gay, it's over.",
+          "context": "Host on contract abuse.",
+          "confidence": "high",
+          "tags": [
+            "fake and gay",
+            "contracts"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 64,
+          "video_timestamp": "00:49:32",
+          "speaker_node_ref": "N-3",
+          "quote": "genocide is always wrong",
+          "context": "Host recalls her tweet and the Daily Wire reaction.",
+          "confidence": "high",
+          "tags": [
+            "genocide",
+            "daily wire"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 64,
+          "video_timestamp": "00:50:52",
+          "speaker_node_ref": "N-3",
+          "quote": "Over having said Christ is king",
+          "context": "Host recalls the post the firing cited.",
+          "confidence": "high",
+          "tags": [
+            "christ is king"
+          ]
+        },
+        {
+          "episode": 64,
+          "video_timestamp": "01:04:56",
+          "speaker_node_ref": "N-3",
+          "quote": "I tweeted Christ is king not at anybody.",
+          "context": "Host defends the post.",
+          "confidence": "high",
+          "tags": [
+            "christ is king"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-190",
+      "ref": "M-190",
+      "canonical_term": "Superman Neck",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 64,
+          "video_timestamp": "00:02:22",
+          "speaker_node_ref": "N-3",
+          "quote": "the statement pertaining to Superman neck came from her",
+          "context": "Host recaps the surgeon call dispute.",
+          "confidence": "high",
+          "tags": [
+            "superman neck"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-207",
+      "ref": "M-207",
+      "canonical_term": "Can't Critique the Fam",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 64,
+          "video_timestamp": "00:16:46",
+          "speaker_node_ref": "N-3",
+          "quote": "Describing the employees like a family to drive them to work like horses",
+          "context": "Host mocks the family framing for staff.",
+          "confidence": "high",
+          "tags": [
+            "family",
+            "employees"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-216",
+      "ref": "M-216",
+      "canonical_term": "I Told the Priest I Would Chill",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 64,
+          "video_timestamp": "01:01:57",
+          "speaker_node_ref": "N-3",
+          "quote": "I did tell the priest that I would uh chill.",
+          "context": "Host references her promise to the priest.",
+          "confidence": "high",
+          "tags": [
+            "priest"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-20",
+      "ref": "M-20",
+      "canonical_term": "Bubble Gum Christianity",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 64,
+          "video_timestamp": "01:06:22",
+          "speaker_node_ref": "N-3",
+          "quote": "turn biblical proverb into bubble gum",
+          "context": "Host criticizes scripture used as slogans on grief.",
+          "confidence": "high",
+          "tags": [
+            "bubble gum"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 64,
+          "video_timestamp": "00:58:01",
+          "speaker_node_ref": "N-3",
+          "quote": "Make Him a Sandwich and Blackout, both hand-signed by me",
+          "context": "Host plugs her signed book bundle.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "book"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-254",
+      "ref": "M-254",
+      "canonical_term": "Nuclear Energy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 64,
+          "video_timestamp": "00:42:56",
+          "speaker_node_ref": "N-3",
+          "quote": "you would be the kind of nuclear energy that we can't harness correctly",
+          "context": "Host turns Boreing's insult into her own bit.",
+          "confidence": "high",
+          "tags": [
+            "nuclear energy",
+            "boreing"
+          ]
+        },
+        {
+          "episode": 64,
+          "video_timestamp": "00:54:52",
+          "speaker_node_ref": "N-3",
+          "quote": "using some of my nuclear energy to stand up for her publicly",
+          "context": "Host reclaims the phrase when defending Brett Cooper.",
+          "confidence": "high",
+          "tags": [
+            "nuclear energy",
+            "brett cooper"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -6,15 +6,15 @@
 - **YouTube id**: SubDoZWHARo
 - **Candace Ep**: 325
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:01:56
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: cd44ed40636c60c09236975a1e80639d46ee6820f268322c974d2c67580290dd
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10611, N-10612, N-10613, N-10614, N-10615
-  - Reused Nodes Appearing: N-2, N-14, N-4
+  - Reused Nodes Appearing: N-2, N-14, N-4, N-332
   - Hole-minted Nodes (wave3): N-434
-  - Hole-minted Nodes (wave1): N-332, N-348, N-349
+  - Hole-minted Nodes (wave1): N-348, N-349
   - (see registers)
 
 ## 6. Meme Register

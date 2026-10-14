@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq115
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep115): N-10694, N-10704, N-10705, N-10732
+  - Hole-minted Nodes (reintro-ep115): N-10704, N-10705, N-10732
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-691, N-692, N-693, N-694, N-695, N-10971, N-10972, N-10973, N-10974, N-10975, N-10976, N-10977, N-10978, N-10979, N-10980, N-10981, N-10982, N-10983
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-17, N-22, N-30, N-36, N-37, N-40, N-69, N-97, N-105, N-106, N-162, N-194, N-274, N-276, N-388, N-639, N-681, N-10000, N-10014, N-10015, N-10026, N-10027, N-10075, N-10202, N-10482, N-10495, N-10505, N-10588, N-10700, N-10724, N-10768, N-10888, N-10923
+  - Tip-minted Nodes (skeleton): N-690, N-691, N-692, N-694, N-10971, N-10972, N-10973, N-10974, N-10976, N-10977, N-10978, N-10979, N-10980, N-10981, N-10982, N-10983
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-17, N-22, N-30, N-36, N-37, N-40, N-69, N-97, N-105, N-106, N-162, N-194, N-274, N-276, N-388, N-638, N-680, N-10000, N-10014, N-10015, N-10026, N-10027, N-10075, N-10202, N-10482, N-10495, N-10505, N-10588, N-10700, N-10724, N-10768, N-10888, N-10923, N-10694, N-693, N-10975
   - Claim Range: C-4541–C-4591
   - (see registers)
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:06:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4547, C-4548, N-691, N-692, N-10972*
+*Related: C-4547, C-4548, N-690, N-691, N-10972*
 
 ---
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:34:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4579, N-274, N-695, N-1*
+*Related: C-4579, N-274, N-694, N-1*
 
 ---
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:36:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4580, N-2, N-681*
+*Related: C-4580, N-2, N-680*
 
 ---
 
@@ -340,43 +340,43 @@ Transcript spelling "Dan Bonino". The host calls his reaction to Butler strange.
 
 *Related: C-4569*
 
-**N-691** Mark Liti
+**N-690** Mark Liti
 
 First named by the host at 00:06:04 in episode 115. Supervisor at Surefire Wireline LLC who died on August 23, 2022, aged 48, in what was reported as a burn-barrel explosion; the host says he allegedly took explosives from work. Aliases: Mark A. Leiti; Mark Ley; Mark Le; Mark A. Ley; Mark a lady.
 
 *Related: C-4547, C-4548, C-4549, C-4550, C-4551, C-4552, C-4554, C-4557, A-2659.1*
 
-**N-692** Chris Liti
+**N-691** Chris Liti
 
 First named by the host at 00:07:01 in episode 115. Named in the news clip as Mark Liti's older brother, still trying to process his death.
 
 *Related: C-4548, A-2659.1*
 
-**N-693** Courtney Thief
+**N-692** Courtney Thief
 
 First named by the host at 00:08:45 in episode 115. Described as a former ATF agent through whom word of Liti's confession and the ATF investigation reportedly passed; the name spelling is uncertain.
 
 *Related: C-4551, C-4552*
 
-**N-694** Joe Biden
+**N-693** Joe Biden
 
 First named by the host at 00:21:38 in episode 115 (as "President Biden"). The host notes he, not Trump, was president at the time of the pager operation.
 
 *Related: C-4567*
 
-**N-695** Cameron Hanes
+**N-694** Cameron Hanes
 
 First named by the host at 00:33:58 in episode 115. Joe Rogan's podcast guest in the clip played. Aliases: Cameron Haynes.
 
 *Related: C-4579, A-2664.1*
 
-**N-681** James Kaddis
+**N-680** James Kaddis
 
 First named by the host at 00:35:47 in episode 115. Pastor who co-hosts Erika Kirk's show and read the viewer question that preceded her breakdown.
 
 *Related: C-4580, A-2665.1*
 
-**N-639** Vladimir Putin
+**N-638** Vladimir Putin
 
 First named by the host at 00:51:56 in episode 115 (as "Vlatty Daddy"). The host denies Ben Shapiro's rumor that she was spending time with him in Russia.
 
@@ -515,14 +515,14 @@ Investigation target: the host's FOIA request for FBI Director Kash Patel's offi
 Node Type: Topic
 Investigation target: the August 23, 2022 death of Mark Liti, 48, reported as a freak burn-barrel explosion in which shrapnel struck his neck. The host says Liti supervised PETN-using perforating work at Surefire Wireline in Kittanning, Pennsylvania, allegedly confessed a week earlier to taking explosives from work, and was under ATF investigation. She says his confidant was Corey Comperatore, killed at Butler on July 13, 2024.
 
-*Related: C-4547, C-4548, C-4549, C-4550, C-4551, C-4552, C-4553, C-4554, C-4557, A-2659.1, N-691, N-106*
+*Related: C-4547, C-4548, C-4549, C-4550, C-4551, C-4552, C-4553, C-4554, C-4557, A-2659.1, N-690, N-106*
 
 **N-10973** Surefire Wireline LLC
 
 Node Type: Organization
 Kittanning, Pennsylvania oil and gas services company specializing in pump-down perforating; the host says Mark Liti was a supervisor there.
 
-*Related: C-4549, C-4550, N-691*
+*Related: C-4549, C-4550, N-690*
 
 **N-10974** PETN Explosive
 
@@ -536,7 +536,7 @@ The explosive PETN, which the host says is used in well perforating, was used in
 Node Type: Organization
 Federal agency the host says was investigating Mark Liti over explosives taken from work.
 
-*Related: C-4552, N-691, N-693*
+*Related: C-4552, N-690, N-692*
 
 **N-10976** Corey Comperatore Front-Row Escort Question
 
@@ -696,7 +696,7 @@ Claim: The host says Mark Liti, 48, died on August 23, 2022 when something explo
 Transcript Snippet: There was a man named Mark A. Leiti, and he died in a rather bizarre accident. Uh the initial story is that he was in his backyard messing around with his burn barrel when something suddenly exploded.
 
 Anchored Artifacts: A-2659.1
-Mentions: N-691
+Mentions: N-690
 Related Nodes: N-10972
 Investigative Direction: Obtain the coroner's report, police incident report and local news coverage of the August 23, 2022 death.
 
@@ -711,7 +711,7 @@ Claim: According to the news clip, Mark Liti's brother Chris was still processin
 Transcript Snippet: The lady family still doesn't know what ignited inside the barrel that caused that explosion.
 
 Anchored Artifacts: A-2659.1
-Mentions: N-692, N-691
+Mentions: N-691, N-690
 Related Nodes: N-10972
 Investigative Direction: Check whether investigators, the ATF or the coroner identified the explosive material.
 
@@ -726,7 +726,7 @@ Claim: The host says Mark Liti was a supervisor at Surefire Wireline LLC in Kitt
 Transcript Snippet: Mark Ley, not mentioned here in that news clip, was a supervisor for a company called Surefire Wireline LLC. that is in Kittening, Pennsylvania.
 
 Anchored Artifacts:
-Mentions: N-691
+Mentions: N-690
 Related Nodes: N-10972, N-10973
 Investigative Direction: Confirm Liti's employment and role through Surefire Wireline, his obituary or Pennsylvania business records.
 
@@ -741,7 +741,7 @@ Claim: The host says the perforating technique used by Surefire Wireline require
 Transcript Snippet: Because that technique requires the use of a very specific explosive. known as PE TN.
 
 Anchored Artifacts:
-Mentions: N-691
+Mentions: N-690
 Related Nodes: N-10973, N-10974
 Investigative Direction: Check industry and ATF documentation on the explosives used in wireline perforating guns and Surefire's explosives licenses.
 
@@ -756,7 +756,7 @@ Claim: The host alleges that a week before he died, Mark Liti confessed to his l
 Transcript Snippet: Allegedly, Mark A. Ley had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.
 
 Anchored Artifacts:
-Mentions: N-691, N-106, N-693
+Mentions: N-690, N-106, N-692
 Related Nodes: N-10972, N-10974
 Investigative Direction: Identify the source of the confession account and any ATF or employer record of missing explosives in 2022.
 
@@ -771,7 +771,7 @@ Claim: The host says the ATF was apparently investigating Mark Liti over the exp
 Transcript Snippet: The ATF was apparently investigating for this, investigating him for this.
 
 Anchored Artifacts:
-Mentions: N-691, N-693
+Mentions: N-690, N-692
 Related Nodes: N-10975, N-10972
 Investigative Direction: FOIA the ATF for any 2022 investigation into explosives missing from Surefire Wireline or involving Mark Liti.
 
@@ -801,7 +801,7 @@ Claim: The host says Mark Liti's longtime high school friend, to whom he confide
 Transcript Snippet: Mark Le's friend's name was Cory Comparator. Yes, it was Cory Comparator who Mark Ley had confided his secret to that he had done something that he wasn't supposed to.
 
 Anchored Artifacts:
-Mentions: N-106, N-691
+Mentions: N-106, N-690
 Related Nodes: N-10972
 Investigative Direction: Confirm the friendship through school records, social media and the families, and identify who relayed the confession.
 
@@ -847,7 +847,7 @@ Claim: The host says Mark Liti was Facebook friends with various members of the 
 Transcript Snippet: It's worth noting that Mark a lady is also friends with various members of the Crooks family on Facebook.
 
 Anchored Artifacts:
-Mentions: N-691, N-105
+Mentions: N-690, N-105
 Related Nodes: N-10972
 Investigative Direction: Archive Liti's Facebook friend list and check which Crooks family members appear.
 
@@ -997,7 +997,7 @@ Claim: The host notes that Joe Biden, not Donald Trump, was president when the p
 Transcript Snippet: Because Donald Trump was not president when the pager operation took place. President Biden was.
 
 Anchored Artifacts:
-Mentions: N-694, N-5
+Mentions: N-693, N-5
 Related Nodes: N-10981, N-10977
 Investigative Direction: Confirm the timeline: pager attack September 17–18, 2024; Trump inaugurated January 20, 2025.
 
@@ -1178,7 +1178,7 @@ Claim: In the clip played by the host, Joe Rogan, speaking with Cameron Hanes, a
 Transcript Snippet: Who killed Charlie Kirk for real? Like, what is that? Why is that story so clouded in mystery? And why did they pave over the ground right after the the shooting?
 
 Anchored Artifacts: A-2664.1
-Mentions: N-274, N-695, N-1
+Mentions: N-274, N-694, N-1
 Investigative Direction: Identify the Joe Rogan Experience episode and its release date.
 
 ---
@@ -1192,7 +1192,7 @@ Claim: The host says Erika Kirk broke down on her show with Pastor James Kaddis 
 Transcript Snippet: This time it was on her show with James, Pastor James Catis, uh when somebody wrote in a question.
 
 Anchored Artifacts: A-2665.1
-Mentions: N-2, N-681, N-3
+Mentions: N-2, N-680, N-3
 Related Nodes: N-10505
 Investigative Direction: Locate the episode of Erika Kirk's show and the viewer question.
 
@@ -1357,7 +1357,7 @@ Claim: The host says Ben Shapiro is telling people she was spending time with Vl
 Transcript Snippet: He's telling people that that I'm like hanging out with Vlatty Daddy over there in Russia.
 
 Anchored Artifacts:
-Mentions: N-97, N-639, N-3
+Mentions: N-97, N-638, N-3
 Investigative Direction: Locate Ben Shapiro's statements about the host's Russia trip and the program of the panel she attended.
 
 ---
@@ -1611,7 +1611,7 @@ Confidence: medium
 
 - **Artifacts verbally referenced but not shown**: A-2666.1 (the Department of War / White House "emotional asset" email). A-2662.1 (FBI plane flight) is described in detail, but the transcript does not show whether flight data was on screen.
 - **DIA scan**: the only hit is "candace Owens. com" (51:13), a merch plug, so it is not a DIA beat. There are no tip requests or bounties; M-12 is not used.
-- **Name matching**: The skeleton's "Mark Liti" (transcript "Mark A. Leiti", "Mark Ley", "Mark Le", "Mark A. Ley", "Mark a lady") is minted as N-691. His brother is minted as N-692 under the transcript spelling "Chris Liti"; the surname may also be Liti. "Courtney Thief" (N-693, described as a former ATF agent) comes from a garbled sentence, so both the name and the role are uncertain. "Corey/Cory Comparator" is mapped to N-106 Corey Comperatore. "Cameron Haynes" is minted as N-695 Cameron Hanes. "James Kaddis" (N-681) and "Vladimir Putin" (N-639) reuse titles from staging episodes 112 and 105/111. "Blick Nef" is mapped to N-162, "Andrew Kovette" to N-14, "Dan Bonino" to N-388, "Bill Aman" to N-37 and "Rob McCoyy" to N-17. "The Crooks family" is linked to N-105 only as the family name.
+- **Name matching**: The skeleton's "Mark Liti" (transcript "Mark A. Leiti", "Mark Ley", "Mark Le", "Mark A. Ley", "Mark a lady") is minted as N-690. His brother is minted as N-691 under the transcript spelling "Chris Liti"; the surname may also be Liti. "Courtney Thief" (N-692, described as a former ATF agent) comes from a garbled sentence, so both the name and the role are uncertain. "Corey/Cory Comparator" is mapped to N-106 Corey Comperatore. "Cameron Haynes" is minted as N-694 Cameron Hanes. "James Kaddis" (N-680) and "Vladimir Putin" (N-638) reuse titles from staging episodes 112 and 105/111. "Blick Nef" is mapped to N-162, "Andrew Kovette" to N-14, "Dan Bonino" to N-388, "Bill Aman" to N-37 and "Rob McCoyy" to N-17. "The Crooks family" is linked to N-105 only as the family name.
 - **Meme title spellings**: The merch meme appears in staging as "Stop Anti-Candism" (112), "Stop Anti-Candaceism" (111) and "Anti-Candacism" (113). This episode uses the 112 spelling. "Punt the Chihuahua" (M-115) also aired in episodes 111 and 116 but has not been minted in staging before, so the integrator may need to merge it.
 - **Transcription ambiguities**: "PE TN", "PN", "PET and" and "PE10" all refer to PETN. "Ken Kiddening" and "Kittening" refer to Kittanning. "MSAD" is the transcript's spelling of Mossad. "306" is .30-06. "Sar Jafal" and "Hussein Teny" are survivors named in the pager clip; no nodes were made for them. X user "Crystal Smalland" is credited with finding the Charlie Kirk video and is treated as a handle, not a node.
 - **Garbled passage**: around 11:53–12:21 the transcript reads "Just 2. Months after the Butler shooting, um Cory Comparator loses his life" before turning to the pager attack "on September 17th. And on September 18th of 2024"; the sentence seems to have lost words and was not inscribed.

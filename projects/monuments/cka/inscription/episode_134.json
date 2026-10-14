@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–00:54:33",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "498191448f0429779cb41d878bd4596c8d20c9fdcbb3d3ef271dbb2b7b27e70a",
@@ -328,6 +328,147 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2878",
+      "family_ref": "A-2878",
+      "bundle_name": "Erika Kirk Tyler Robinson Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2878.1",
+          "ref": "A-2878.1",
+          "description": "Short clip of Erika Kirk being asked whether she believes Tyler Robinson murdered her husband and answering yes, played at the top of the episode",
+          "related_claims": [
+            "C-7400"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:00:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2879",
+      "family_ref": "A-2879",
+      "bundle_name": "Lozi Rooftop Footage Release Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2879.1",
+          "ref": "A-2879.1",
+          "description": "Host verbal reference to the exclusive Lozi Center rooftop video released the previous day (not replayed in this episode)",
+          "related_claims": [
+            "C-7402"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:00:46",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2880",
+      "family_ref": "A-2880",
+      "bundle_name": "Utah Open Casket Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2880.1",
+          "ref": "A-2880.1",
+          "description": "Host verbal reference to footage of Erika leaning over Charlie Kirk's open casket in Utah, later posted by Erika to social media (not replayed)",
+          "related_claims": [
+            "C-7422"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:16:41",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2881",
+      "family_ref": "A-2881",
+      "bundle_name": "Mock Burial Text Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2881.1",
+          "ref": "A-2881.1",
+          "description": "Host verbal reference to text messages she says she read, sent by people with knowledge of the Hansen mock burial refusal (not shown)",
+          "related_claims": [
+            "C-7432",
+            "C-7433",
+            "C-7434"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:22:19",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2882",
+      "family_ref": "A-2882",
+      "bundle_name": "Court Hearing Screwdriver Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2882.1",
+          "ref": "A-2882.1",
+          "description": "Clip from the preliminary hearing in which the prosecution asserts the defendant used a screwdriver, citing exhibits 12.1 and 12.4 (host asks producer Skyhorse for the clip; shown or played)",
+          "related_claims": [
+            "C-7462",
+            "C-7463"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2883",
+      "family_ref": "A-2883",
+      "bundle_name": "Viewer Physics Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2883.1",
+          "ref": "A-2883.1",
+          "description": "Viewer comment from Amaruso (Ama Amar Musa) read aloud arguing conservation of momentum shows Charlie would have snapped backward if his neck stopped the bullet",
+          "related_claims": [
+            "C-7471"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -504,7 +645,58 @@
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7401",
+        "C-7402",
+        "C-7404",
+        "C-7405",
+        "C-7406",
+        "C-7407",
+        "C-7408",
+        "C-7410",
+        "C-7413",
+        "C-7414",
+        "C-7418",
+        "C-7419",
+        "C-7424",
+        "C-7425",
+        "C-7426",
+        "C-7427",
+        "C-7429",
+        "C-7431",
+        "C-7432",
+        "C-7433",
+        "C-7434",
+        "C-7438",
+        "C-7440",
+        "C-7442",
+        "C-7443",
+        "C-7444",
+        "C-7445",
+        "C-7446",
+        "C-7447",
+        "C-7448",
+        "C-7450",
+        "C-7451",
+        "C-7453",
+        "C-7457",
+        "C-7458",
+        "C-7459",
+        "C-7460",
+        "C-7461",
+        "C-7462",
+        "C-7463",
+        "C-7464",
+        "C-7465",
+        "C-7466",
+        "C-7467",
+        "C-7468",
+        "C-7469",
+        "C-7470",
+        "C-7471",
+        "C-7472",
+        "C-7473"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -520,7 +712,15 @@
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7417",
+        "C-7428",
+        "C-7429",
+        "C-7430",
+        "C-7452",
+        "C-7465",
+        "C-7466"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -536,7 +736,10 @@
       "type": "person",
       "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7406",
+        "C-7409"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -552,7 +755,9 @@
       "type": "person",
       "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7428"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -568,7 +773,20 @@
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7409",
+        "C-7410",
+        "C-7411",
+        "C-7412",
+        "C-7413",
+        "C-7414",
+        "C-7415",
+        "C-7416",
+        "C-7448",
+        "C-7449",
+        "C-7464",
+        "C-7470"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -584,13 +802,517 @@
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7406"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow and TPUSA CEO; the host discusses her interview answer, casket footage, priest ties and funeral arrangements.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7400",
+        "C-7401",
+        "C-7420",
+        "C-7421",
+        "C-7422",
+        "C-7429",
+        "C-7435",
+        "C-7436",
+        "C-7437",
+        "C-7445",
+        "C-7455"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Defendant in the Kirk case; subject of the preliminary hearing and the footage dispute.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7400",
+        "C-7401",
+        "C-7403",
+        "C-7409",
+        "C-7411",
+        "C-7412",
+        "C-7413",
+        "C-7414",
+        "C-7418",
+        "C-7469",
+        "C-7470"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Apologist the host says reported that Charlie had no pulse in the critical minutes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7454"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-221",
+      "ref": "N-221",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Elizabeth McCoy; the host says she allegedly recorded Erika at the open casket in Utah.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7420",
+        "C-7422"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-190",
+      "ref": "N-190",
+      "name": "Stacy Sheridan",
+      "type": "person",
+      "description": "Previously named by the host as the person who recorded the casket footage; the host now says it was allegedly Elizabeth McCoy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7420"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-375",
+      "ref": "N-375",
+      "name": "Danny Philip",
+      "type": "person",
+      "description": "Person the host says Blake Neff excludes from his account of Sept 10 driving.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7464"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-518",
+      "ref": "N-518",
+      "name": "Christopher Bagley",
+      "type": "person",
+      "description": "Officer Bagley; the host sarcastically references his body-cam footage and the screwdriver.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7449"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10110",
+      "ref": "N-10110",
+      "name": "Tyler Robinson Evidence Gaps",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7400",
+        "C-7401",
+        "C-7412",
+        "C-7413"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11065",
+      "ref": "N-11065",
+      "name": "Preliminary Hearing Influencer Invitation Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7404",
+        "C-7405",
+        "C-7418"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10769",
+      "ref": "N-10769",
+      "name": "Lozi Center Gun Verification Gap",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7402",
+        "C-7406",
+        "C-7407",
+        "C-7408",
+        "C-7409",
+        "C-7411",
+        "C-7416",
+        "C-7459",
+        "C-7460",
+        "C-7463"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10172",
+      "ref": "N-10172",
+      "name": "Multiple Decoys Theory (4 Decoys Named)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7406",
+        "C-7460"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10343",
+      "ref": "N-10343",
+      "name": "Tyler Robinson Rooftop Access Timeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7414"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10201",
+      "ref": "N-10201",
+      "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7419",
+        "C-7420",
+        "C-7421",
+        "C-7422",
+        "C-7446"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10104",
+      "ref": "N-10104",
+      "name": "Catholic Conversion Rumor",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7425",
+        "C-7427",
+        "C-7429"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10350",
+      "ref": "N-10350",
+      "name": "Charlie Kirk Catholicism Journey",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7425",
+        "C-7426",
+        "C-7428"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10164",
+      "ref": "N-10164",
+      "name": "Charlie Kirk Catholic Trajectory Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7426"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10323",
+      "ref": "N-10323",
+      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7423",
+        "C-7424",
+        "C-7430",
+        "C-7435",
+        "C-7438",
+        "C-7439",
+        "C-7445"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10233",
+      "ref": "N-10233",
+      "name": "Priest Presence at Ole Miss Event",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7435",
+        "C-7436",
+        "C-7437"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10751",
+      "ref": "N-10751",
+      "name": "Charlie Kirk Cremation/Burial Status Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7440",
+        "C-7441",
+        "C-7442",
+        "C-7444"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10725",
+      "ref": "N-10725",
+      "name": "Officer Bagley Body-Cam Battery Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7449"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10341",
+      "ref": "N-10341",
+      "name": "Andrew Kolvet Surgeon Bullet Description",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7452"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10687",
+      "ref": "N-10687",
+      "name": "Frank Turek CPR Claim Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7454"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10768",
+      "ref": "N-10768",
+      "name": "Shaped Charge / Exploding Microphone Hypothesis",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7457",
+        "C-7458",
+        "C-7471"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10715",
+      "ref": "N-10715",
+      "name": "Blake Neff September 10th Movement Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7464"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10719",
+      "ref": "N-10719",
+      "name": "Prosecution Non-Call of Rooftop Eyewitness",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7461"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11143",
+      "ref": "N-11143",
+      "name": "Rooftop Screwdriver Claim",
+      "type": "topic",
+      "description": "The dispute over whether a screwdriver was recovered from or used on the Lozi rooftop: Neff and the prosecution (exhibits 12.1 and 12.4) are cited as asserting it, and the host says no evidence of a screwdriver has been shown.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7448",
+        "C-7449",
+        "C-7462",
+        "C-7463"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -822,7 +1544,1709 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7400",
+      "ref": "C-7400",
+      "label": "Clip Shows Erika Answering Yes That Tyler Robinson Murdered Her Husband",
+      "claim": "The clip the host plays shows Erika Kirk answering \"Yes, I do\" when asked whether she believes Tyler Robinson murdered her husband.",
+      "anchored_artifacts": [
+        "A-2878.1"
+      ],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Locate the original interview in which Erika Kirk was asked this question and confirm date and outlet.",
+      "transcript_snippet": "Do you believe that Tyler Robinson murdered your husband? >> Yes, I do.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7401",
+      "ref": "C-7401",
+      "label": "Host Says No Evidence Indicated Tyler Robinson Guilt After Sitting With Erika",
+      "claim": "The host says that after she sat down with Erika Kirk there was no evidence which indicated that Tyler Robinson murdered Charlie, and that she still does not understand Erika's confidence at the preliminary hearing stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Compare the host's private interview with Erika to the evidence presented at the preliminary hearing.",
+      "transcript_snippet": "After I sat down with her, there was no evidence which indicated that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7402",
+      "ref": "C-7402",
+      "label": "Host Says Exclusive Rooftop Video Released the Day Before Raised Questions",
+      "claim": "The host says her exclusive video released the previous day has the internet asking a lot of questions about what can or cannot be seen on the Lozi rooftop.",
+      "anchored_artifacts": [
+        "A-2879.1"
+      ],
+      "related_nodes": [
+        "N-10769"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Obtain the released video and its provenance; compare with the preliminary hearing exhibits.",
+      "transcript_snippet": "Internet, I can say definitively, especially after the exclusive video that we released yesterday, has a lot of questions.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7403",
+      "ref": "C-7403",
+      "label": "Host Says Tyler's Defense Filed Memorandum Highlighting Autopsy Injuries",
+      "claim": "The host says that Tyler Robinson's defense filed a memorandum highlighting injuries to Charlie Kirk found at autopsy, including that his heart and lungs hemorrhaged after a bullet hit his neck (she corrects the filer later in the episode).",
+      "anchored_artifacts": [
+        "A-2207.1"
+      ],
+      "related_nodes": [
+        "N-10761"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:56",
+      "investigative_direction": "Pull the filed memorandum from the court docket and identify which party filed it and when.",
+      "transcript_snippet": "I'm sorry, Tyler's defense filed the memorandum. They highlighted some injuries that Charlie had in his autopsy.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7404",
+      "ref": "C-7404",
+      "label": "Host Says Influencers Brought to Court Are Lying About What They Saw",
+      "claim": "The host says influencers were brought to the courtroom and are going out and lying about what they saw inside it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:44",
+      "investigative_direction": "Identify which influencers attended the preliminary hearing and who invited them; compare their public accounts with the exhibits.",
+      "transcript_snippet": "but they're bringing literal influencers to court and lying.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7405",
+      "ref": "C-7405",
+      "label": "Host Alleges Influencers Were Instructed to Perform Dramatic Reactions",
+      "claim": "The host alleges that influencers were brought into the courtroom and then instructed to put on over-the-top dramatic performances pretending to have encountered a blitzkrieg of evidence, which she says has since been debunked.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:44",
+      "investigative_direction": "Find who coordinated influencer attendance at the hearing and any instructions given to them.",
+      "transcript_snippet": "bringing influencers into a courtroom and then instructing those influencers to put on these bizarre over-the-top dramatic performances",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7406",
+      "ref": "C-7406",
+      "label": "Host Says Her Video Shows the Rooftop Person Was a Decoy Who Never Fired",
+      "claim": "The host says her video shows the person on the Lozi roof was a decoy who never fired a shot, and that Tim Pool misread the video as a counter to the exploding mic claims.",
+      "anchored_artifacts": [
+        "A-2211.1"
+      ],
+      "related_nodes": [
+        "N-10172",
+        "N-10769"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:39",
+      "investigative_direction": "Compare the rooftop footage frame by frame with the position, angle and timing of the fatal shot.",
+      "transcript_snippet": "Effectively, we were saying this person was a decoy and never fired a shot.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-273",
+        "N-93"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7407",
+      "ref": "C-7407",
+      "label": "Host Relays Viewer Point That Gravel Would Have Kicked Up From a .30-06",
+      "claim": "The host says viewers told her that gravel would have visibly kicked up if the rooftop person had fired a .30-06.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10769"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:33",
+      "investigative_direction": "Have a ballistics expert assess whether muzzle blast would disturb roof gravel at that position and distance.",
+      "transcript_snippet": "You would have seen the gravel kick up if he had shot a.30-06.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7408",
+      "ref": "C-7408",
+      "label": "Host Says Even Her Source's Recording Does Not Show a Gun",
+      "claim": "The host says there is no evidence that any gun was on the rooftop and that even her source who recorded the video neither says nor shows a gun.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10769"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:33",
+      "investigative_direction": "Interview the person who recorded the rooftop video and review the raw file for any weapon.",
+      "transcript_snippet": "Even our source, the person who recorded, in that recording, he doesn't say or show a gun.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7409",
+      "ref": "C-7409",
+      "label": "Blake Neff Says the Defense Demanded the Footage Be Kept From the Public",
+      "claim": "The host reads Blake Neff's post saying it is the defense that demanded the Lozi footage be kept from the public on the grounds that it would prejudice Tyler Robinson.",
+      "anchored_artifacts": [
+        "A-2212.1"
+      ],
+      "related_nodes": [
+        "N-10769"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:40",
+      "investigative_direction": "Check the docket for the defense motion seeking to limit public release of the rooftop exhibit.",
+      "transcript_snippet": "it is the defense that demanded that it be kept from the public on the grounds that it would prejudice Tyler.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-93",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7410",
+      "ref": "C-7410",
+      "label": "Host Says Neff's Other-Angle Claim Is New to Her",
+      "claim": "The host says she has never heard anyone claim before that another video angle shows the rooftop person pulling a rifle from his pants and that Neff is making that claim.",
+      "anchored_artifacts": [
+        "A-2212.1"
+      ],
+      "related_nodes": [
+        "N-10762"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:30",
+      "investigative_direction": "Ask the prosecution and court whether a second rooftop angle exists in the exhibit list.",
+      "transcript_snippet": "I've never heard anybody make the claim that there's another angle of a video where we can see him pull the rifle out of his pants.",
+      "qualifies_claim_refs": [
+        "C-3164"
+      ],
+      "mentions_person_refs": [
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7411",
+      "ref": "C-7411",
+      "label": "Neff Says the Rooftop Person Does Not Look Like Anyone at That Distance",
+      "claim": "The host reads Neff's post saying the individual on the roof does not look like Tyler Robinson because they literally do not look like anyone at that distance.",
+      "anchored_artifacts": [
+        "A-2212.1"
+      ],
+      "related_nodes": [
+        "N-10769"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:30",
+      "investigative_direction": "Measure resolvable detail in the rooftop clip at the camera-to-subject distance.",
+      "transcript_snippet": "The individual does not look like Tyler Robinson because they literally don't look like anyone at that distance.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7412",
+      "ref": "C-7412",
+      "label": "Neff Says Campus Footage Shows a Close-Up of a Person His Parents Identified",
+      "claim": "The host reads Neff's post saying other campus footage supports Tyler being there and includes close-up footage of a person who looks enough like Tyler that his own parents identified him.",
+      "anchored_artifacts": [
+        "A-2212.1"
+      ],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:30",
+      "investigative_direction": "Obtain the campus footage exhibits and any statement from Tyler Robinson's parents about identification.",
+      "transcript_snippet": "We have close-up footage of the person who looks enough like Tyler that his own parents identified him as such.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7413",
+      "ref": "C-7413",
+      "label": "Host Says There Is Zero Proof Tyler's Parents Identified Him in Footage",
+      "claim": "The host says there is zero proof that Tyler Robinson's parents identified him in the footage and that this is just Neff narrating.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:30",
+      "investigative_direction": "Check charging documents and hearing testimony for any parental identification from footage.",
+      "transcript_snippet": "There's zero proof his parents said that.",
+      "contradicts_claim_refs": [
+        "C-7412"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-162",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7414",
+      "ref": "C-7414",
+      "label": "Host Says Plates and Car in the Campus Footage Were Blurry",
+      "claim": "The host says that the campus footage Neff cites as matching Tyler's car arriving had blurry plates and a blurry car, so Neff is making assumptions.",
+      "anchored_artifacts": [
+        "A-2212.1"
+      ],
+      "related_nodes": [
+        "N-10343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:19",
+      "investigative_direction": "Review the car-arrival footage exhibit and any plate or vehicle-match analysis.",
+      "transcript_snippet": "the footage that also captured a match of Tyler's car arriving on campus, those plates were blurry. The car was blurry.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-162",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7415",
+      "ref": "C-7415",
+      "label": "Neff Says the Medical Examiner Report Confirms a Bullet Came From That Direction",
+      "claim": "The host reads Neff's post saying a gun was fired from the rooftop spot because a bullet coming from that direction killed Charlie, as confirmed in the medical examiner's report.",
+      "anchored_artifacts": [
+        "A-2212.1"
+      ],
+      "related_nodes": [
+        "N-10761"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:19",
+      "investigative_direction": "Compare the autopsy's wound trajectory description with the rooftop and Charlie's seat positions.",
+      "transcript_snippet": "we know a gun was fired from the spot because a bullet coming from that direction was what killed Charlie, as confirmed in the medical examiner's report.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7416",
+      "ref": "C-7416",
+      "label": "Neff Says Recoil From a Prone Position Can Easily Be Minimal",
+      "claim": "The host reads Neff's post saying recoil from a prone firing position can easily be minimal.",
+      "anchored_artifacts": [
+        "A-2212.1"
+      ],
+      "related_nodes": [
+        "N-10769"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:19",
+      "investigative_direction": "Consult a firearms expert on visible recoil of a rifle fired prone from a rooftop.",
+      "transcript_snippet": "Recoil from a prone firing position can easily be minimal",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7417",
+      "ref": "C-7417",
+      "label": "Show Speaker Says Courtroom Contacts Describe a Different Angle Not in the Clip",
+      "claim": "In the clip the host labels the Beavis and Butt-Head show, a speaker says he checked with people inside the courtroom, who told him the clip shown does not include a different angle in which the person rolls over the railing and assembles the weapon.",
+      "anchored_artifacts": [
+        "A-2213.1"
+      ],
+      "related_nodes": [
+        "N-10762"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:19",
+      "investigative_direction": "Identify the show and speakers, and obtain the court exhibit list to see whether a second angle was admitted.",
+      "transcript_snippet": "I did check with people inside the courtroom that day, and they're um they're saying that this clip that was shown",
+      "supports_claim_refs": [
+        "C-3171"
+      ],
+      "mentions_person_refs": [
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7418",
+      "ref": "C-7418",
+      "label": "Host Says Courtroom Influencers Earlier Claimed the Footage Was 4K and Tyler",
+      "claim": "The host says the same courtroom influencers whom the show platformed earlier said the footage was in 4K and that the person was Tyler Robinson.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:19",
+      "investigative_direction": "Collect the influencers' original posts describing the footage as 4K and identifying Tyler.",
+      "transcript_snippet": "we platformed them as they said that it was in 4K and it was Tyler Robinson",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7419",
+      "ref": "C-7419",
+      "label": "Host Says TPUSA Was Initially Very Open About Charlie's Body",
+      "claim": "The host says Turning Point's extreme sensitivity about Charlie's body is new, because TPUSA was initially very open about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:48",
+      "investigative_direction": "Collect early TPUSA and family statements and posts about Charlie's body, transport and viewing.",
+      "transcript_snippet": "they were initially very open about Charlie's body.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7420",
+      "ref": "C-7420",
+      "label": "Host Says Elizabeth McCoy Allegedly Recorded Erika at the Open Casket in Utah",
+      "claim": "The host says she has been told it was allegedly Elizabeth McCoy, not Stacy Sheridan as she previously said, who recorded Erika in Charlie's open casket in Utah.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:48",
+      "investigative_direction": "Ask Elizabeth McCoy or Erika's team who filmed the casket video, and check the metadata of the posted clip.",
+      "transcript_snippet": "I've actually been told that it was allegedly Elizabeth McCoy that was recording Erika in Charlie's open casket in Utah.",
+      "mentions_person_refs": [
+        "N-221",
+        "N-190",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7421",
+      "ref": "C-7421",
+      "label": "Host Dates the Utah Casket Recording to Sept 11 Midday",
+      "claim": "The host says the recording of Erika at Charlie's open casket was made in Utah on September 11 around midday.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:48",
+      "investigative_direction": "Check the casket video's capture time and location against the Sept 10 to 12 travel records.",
+      "transcript_snippet": "in Charlie's open casket in Utah. That's September 11th, midday-ish.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7422",
+      "ref": "C-7422",
+      "label": "Host Says Erika Posted the Utah Casket Footage the Day After It Was Captured",
+      "claim": "The host says that on September 12 Erika moved to post the footage Elizabeth captured the day before in Utah, with Charlie by then back in Phoenix at Hansen, so viewers may wrongly think it was taken in Phoenix.",
+      "anchored_artifacts": [
+        "A-2880.1"
+      ],
+      "related_nodes": [
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:41",
+      "investigative_direction": "Compare the post date with the capture date and where the casket was on each day.",
+      "transcript_snippet": "Erika moves to post the footage that Elizabeth actually captured the day before in Utah.",
+      "supports_claim_refs": [
+        "C-1899"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-221"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7423",
+      "ref": "C-7423",
+      "label": "Host Says the Catholic Funeral Mass Was Held Sept 20 at a Church Charlie Attended",
+      "claim": "The host says that on September 20 at around 11:00 a.m. Charlie was no longer at Hansen and had a Catholic funeral mass at a Catholic church he regularly attended.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10323"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:41",
+      "investigative_direction": "Confirm the date, church and officiant of the funeral mass from parish and TPUSA announcements.",
+      "transcript_snippet": "He is now having a Catholic funeral mass that is held at a Catholic church that Charlie regularly attends.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7424",
+      "ref": "C-7424",
+      "label": "Host Says the Funeral Mass Was Not Open to the Public but Not Hidden",
+      "claim": "The host says the Catholic mass was not open to the public but was not hidden from it, since it occurred alongside the parish's regular mass and parishioners saw the hearse.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10323"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:38",
+      "investigative_direction": "Obtain parish schedule and accounts from parishioners who saw the hearse.",
+      "transcript_snippet": "obviously was not open to the public, but it was not hidden from the public",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7425",
+      "ref": "C-7425",
+      "label": "Host Says a Mockingbird Campaign Attacked Her Over the Conversion Rumblings",
+      "claim": "The host says an entire mockingbird campaign was launched to attack her after she publicly asserted there were rumblings that Charlie was close to converting to Catholicism.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10104",
+        "N-10350"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:38",
+      "investigative_direction": "Collect the host's original statement on Charlie's conversion and the coordinated responses that followed.",
+      "transcript_snippet": "there was an entire mockingbird campaign which was launched to attack me after I publicly um asserted that there were rumblings that Charlie was close to converting",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7426",
+      "ref": "C-7426",
+      "label": "Host Says She and Charlie Discussed Him Taking the Next Step Toward Catholicism",
+      "claim": "The host says the question of Charlie converting was a conversation that happened even between her and Charlie, with her telling him to take the next step.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10164",
+        "N-10350"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:27",
+      "investigative_direction": "Look for messages or witnesses to the host's conversations with Charlie about Catholicism.",
+      "transcript_snippet": "It was a conversation that was happening even between me and Charlie.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7427",
+      "ref": "C-7427",
+      "label": "Host Says TPUSA Made Shutting Down the Conversion Idea a High Priority",
+      "claim": "The host says that in the immediate aftermath of Charlie's assassination it was a high priority for Turning Point to come out and shut down the idea that he was close to converting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:27",
+      "investigative_direction": "Compile TPUSA's early statements on Charlie's faith and their timing.",
+      "transcript_snippet": "It was something that was a high priority in the immediate aftermath of Charlie's assassination for Turning Point to come out and to clarify.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7428",
+      "ref": "C-7428",
+      "label": "Kolvet Says Charlie Really Loved Catholic Mass and Its Ritual",
+      "claim": "In the Alex Clark show clip, Andrew Kolvet answers that Charlie was not becoming Catholic but really loved Catholic mass and its ritual.",
+      "anchored_artifacts": [
+        "A-2206.1"
+      ],
+      "related_nodes": [
+        "N-10350"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:27",
+      "investigative_direction": "Obtain the full Alex Clark interview.",
+      "transcript_snippet": "No. But he really loved Catholic mass. He loved the ritual of it.",
+      "supports_claim_refs": [
+        "C-3167"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-99"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7429",
+      "ref": "C-7429",
+      "label": "Host Says Kolvet Texted Erika Throughout the Pre-Recorded Interview for Approval",
+      "claim": "The host says she is told the Kolvet interview was pre-recorded and that Andrew was texting with Erika throughout, so the public messaging had Erika's stamp of approval.",
+      "anchored_artifacts": [
+        "A-2206.1"
+      ],
+      "related_nodes": [
+        "N-10104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:22",
+      "investigative_direction": "Obtain the unedited recording and Kolvet's and Erika's messages during the taping.",
+      "transcript_snippet": "Andrew was texting with Erika throughout this recording to ensure that he was okay with what she was what he was saying and what he was sharing.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7430",
+      "ref": "C-7430",
+      "label": "Host Says the Interview Was Pre-Recorded Before the Funeral Mass, a Day Earlier",
+      "claim": "The host says the Kolvet denial was a pre-record made before Charlie's Catholic funeral mass, a day before the family moved to hold that mass.",
+      "anchored_artifacts": [
+        "A-2206.1"
+      ],
+      "related_nodes": [
+        "N-10323"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:22",
+      "investigative_direction": "Establish the recording date of the Alex Clark episode against the Sept 20 funeral mass.",
+      "transcript_snippet": "it was a pre-record which took place before Charlie's Catholic funeral mass. A day later, after saying this, you move to have a Catholic funeral mass.",
+      "qualifies_claim_refs": [
+        "C-3167"
+      ],
+      "mentions_person_refs": [
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7431",
+      "ref": "C-7431",
+      "label": "Host Says the Mock Burial Tip Has Checked Out in a Major Way",
+      "claim": "The host says she received a tip about the Hansen move and that the tip has checked out in a major way.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10760"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:09",
+      "investigative_direction": "Identify what in the tip has been independently verified and by whom.",
+      "transcript_snippet": "We received a tip. And this tip has checked out in a major way.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7432",
+      "ref": "C-7432",
+      "label": "Host Says Hansen Refused to Take Part in a Mock Burial",
+      "claim": "The host says a person alleged, with proof she deems credible, that Charlie was brought to Hansen and then moved because Hansen refused to take part in a mock burial.",
+      "anchored_artifacts": [
+        "A-2881.1"
+      ],
+      "related_nodes": [
+        "N-10760",
+        "N-10763"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:09",
+      "investigative_direction": "Ask Hansen Mortuary whether it was asked to host or arrange a mock burial; obtain the text messages the host says she read.",
+      "transcript_snippet": "the person alleged with proof that I deem to be credible, um that the reason that Charlie was brought to Hansen and was ultimately moved was because the company refused to take part in a",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7433",
+      "ref": "C-7433",
+      "label": "Host Says She Read Text Messages Supporting the Mock Burial Account",
+      "claim": "The host says she finds the information credible because she read text messages sent to this effect by people who would have knowledge of it.",
+      "anchored_artifacts": [
+        "A-2881.1"
+      ],
+      "related_nodes": [
+        "N-10760"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:19",
+      "investigative_direction": "Obtain or have an independent party review the text messages the host describes.",
+      "transcript_snippet": "it's because I read through text messages uh that were sent to this effect from the people that would have knowledge of this.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7434",
+      "ref": "C-7434",
+      "label": "Host Says Hansen Declined and TPUSA Shopped Around",
+      "claim": "The host says she is told Hansen declined to participate in a mock burial, so Turning Point USA had to shop around.",
+      "anchored_artifacts": [
+        "A-2881.1"
+      ],
+      "related_nodes": [
+        "N-10760",
+        "N-10763"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:19",
+      "investigative_direction": "Identify which funeral homes or churches TPUSA contacted and what was requested.",
+      "transcript_snippet": "So, I am told that Hansen declined to participate in a mock burial. So, Turning Point USA then had to shop around.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7435",
+      "ref": "C-7435",
+      "label": "Host Says TPUSA Landed on the Catholic Church Because of Erika's Ties to the Priest",
+      "claim": "The host says TPUSA landed upon the Catholic Church because of Erika's very strong ties to the priest.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10323",
+        "N-10233"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:19",
+      "investigative_direction": "Identify the priest and the arrangements made between the family and the parish.",
+      "transcript_snippet": "they landed upon the Catholic Church because of Erika's very strong ties to the priest.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7436",
+      "ref": "C-7436",
+      "label": "Host Says Erika Brought the Priest to Utah Instead of Flying Family Members",
+      "claim": "The host says that after learning her husband was shot, Erika coordinated to bring the priest to Utah rather than flying out her family members.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10233"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:21",
+      "investigative_direction": "Check flight and travel records for the priest and for Erika's family members on Sept 10 to 11.",
+      "transcript_snippet": "rather than flying her family members out there, she coordinated to bring the priest.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7437",
+      "ref": "C-7437",
+      "label": "Host Says the Priest Traveled With Erika to Ole Miss on Oct 29",
+      "claim": "The host says the priest traveled with Erika to the Turning Point event featuring the vice president at Ole Miss on October 29.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10233"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:06",
+      "investigative_direction": "Review event footage and credential lists for the priest at Ole Miss.",
+      "transcript_snippet": "There was that Turning Point event in October, which featured the vice president at Ole Miss on October 29th. Uh the priest was with her.",
+      "supports_claim_refs": [
+        "C-1623"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7438",
+      "ref": "C-7438",
+      "label": "Host Says Charlie's Casket Was Closed at the Catholic Funeral Mass",
+      "claim": "The host says as a fact that Charlie's casket was closed on the day of the Catholic funeral mass.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10323"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:06",
+      "investigative_direction": "Interview attendees of the funeral mass about the casket's condition.",
+      "transcript_snippet": "On the day of that Catholic funeral mass, Charlie's casket was closed. It's a fact.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7439",
+      "ref": "C-7439",
+      "label": "Host Says the Casket Went to a Catholic Cemetery Where Donors and Family Gathered",
+      "claim": "The host says that afterward the casket was taken to a Catholic cemetery where close friends, family and high net worth donors gathered around it one last time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10759",
+        "N-10323"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:17",
+      "investigative_direction": "Identify the cemetery and attendees and obtain interment permits.",
+      "transcript_snippet": "Afterward, it was in fact taken to a Catholic cemetery and close friends and family and high net worth donors gathered around that casket one last time.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7440",
+      "ref": "C-7440",
+      "label": "Host Says No Grave Was Dug and Attendees Did Not See Charlie Lowered",
+      "claim": "The host says she can state, without saying allegedly, that Charlie was not lowered into the ground that day and no grave was dug out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10759",
+        "N-10751"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:17",
+      "investigative_direction": "Request cemetery plot, grave opening and interment records.",
+      "transcript_snippet": "They did not see Charlie lowered into a ground. There was no grave that was dug out.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7441",
+      "ref": "C-7441",
+      "label": "Host Says Attendees Were Told to Leave and That the Location Would Be Unmarked",
+      "claim": "The host says attendees were told to leave while TPUSA would handle the rest, with Charlie going somewhere unmarked out of fear that the left could desecrate his burial place.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10759",
+        "N-10751"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:17",
+      "investigative_direction": "Interview attendees about what they were told at the cemetery and who told them.",
+      "transcript_snippet": "Rather, they were told, \"You leave and we'll handle the rest.\"",
+      "supports_claim_refs": [
+        "C-1897"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7442",
+      "ref": "C-7442",
+      "label": "Host Says No Attendee Can Truthfully Claim to Have Seen Him Buried",
+      "claim": "The host says the attendees were shuttled to a luncheon elsewhere and no one at the funeral that day can truthfully claim to have seen Charlie buried.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10759",
+        "N-10751"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:17",
+      "investigative_direction": "Ask funeral attendees whether any witnessed interment.",
+      "transcript_snippet": "No one who attended Charlie's actual funeral on that day can make a counter claim that they saw him buried.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7443",
+      "ref": "C-7443",
+      "label": "Host Says She Believes It Was a Mock Burial Done as a Favor by a Friend",
+      "claim": "The host says she is led to believe the ceremony was a mock burial done as a favor by a friend and not illegal.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10760"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:34",
+      "investigative_direction": "Identify the friend and the cemetery or church role in the ceremony.",
+      "transcript_snippet": "I am led to believe that it was indeed a mock burial done as a favor by a friend.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7444",
+      "ref": "C-7444",
+      "label": "Host Says She Believes Charlie Was Cremated Before or After the Ceremony",
+      "claim": "The host says she is led to believe Charlie was cremated either before or after the ceremony and not lowered into the ground that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10759",
+        "N-10751"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:34",
+      "investigative_direction": "Seek cremation authorization or death certificate disposition fields.",
+      "transcript_snippet": "I am led to believe that he was either before or after cremated.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7445",
+      "ref": "C-7445",
+      "label": "Host Says the Mock Burial Is Why Erika Chose a Catholic Funeral Mass",
+      "claim": "The host says the mock burial is the reason she believes Erika chose a Catholic funeral mass despite public indications that Charlie was evangelical.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10760",
+        "N-10323"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:34",
+      "investigative_direction": "Compare the family's stated reasons for the Catholic mass with the parish record.",
+      "transcript_snippet": "that is the reason that I believe Erika chose to do a Catholic funeral mass",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7446",
+      "ref": "C-7446",
+      "label": "Host Says Burial Places of Other Prominent Figures Are Publicly Findable",
+      "claim": "The host says the burial places of recently deceased prominent people, including George H. W. Bush, JFK Jr. and John McCain, can be looked up, so TPUSA's stated fear of desecration does not explain secrecy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:34",
+      "investigative_direction": "Check public records on those burials and any TPUSA statement of its reason for privacy.",
+      "transcript_snippet": "Go look up anybody recently who has died. You can find where they've been buried.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7447",
+      "ref": "C-7447",
+      "label": "Host Says She Knows More Than She Has Released and Is Timing Disclosures",
+      "claim": "The host says she knows too much right now and her team is working out when to present certain things.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:30",
+      "investigative_direction": "Track which later episodes release the material she says is being held back.",
+      "transcript_snippet": "I know too much right now and we're trying to figure out, obviously as always, when to present certain things",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7448",
+      "ref": "C-7448",
+      "label": "Host Says There Is No Evidence of a Screwdriver",
+      "claim": "The host says there is no evidence of a screwdriver, referring to what Blake Neff cites, and asks where it is in the evidence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11143"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:31",
+      "investigative_direction": "Review the exhibit list and item logs for any screwdriver recovered from the roof.",
+      "transcript_snippet": "With a screwdriver, what are you talking about? Where is that in the evidence? Doesn't exist.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7449",
+      "ref": "C-7449",
+      "label": "Host Mockingly Suggests Officer Bagley's Body Cam Went Off at the Screwdriver",
+      "claim": "Speaking sarcastically, the host suggests Officer Bagley's body-camera footage cut out right when he found the screwdriver Neff refers to.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10725",
+        "N-11143"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:31",
+      "investigative_direction": "Obtain Bagley's body-cam records and activation logs for that day.",
+      "transcript_snippet": "Officer Bagley, oh just it just it went off. I don't know. I don't know what happened to my body cam footage",
+      "mentions_person_refs": [
+        "N-518",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7450",
+      "ref": "C-7450",
+      "label": "Host Says Her Team Is Delaying Drops While TPUSA Keeps Making Mistakes",
+      "claim": "The host says the show has run late because her team is debating when to drop things, since TPUSA is making mistakes now and has to be allowed to keep making them.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:32:31",
+      "investigative_direction": "Observe later episodes for the material she says is being timed.",
+      "transcript_snippet": "we have been running late because we're debating of when to drop things, but they're making the mistakes right now and we have to allow them to continue to make these mistakes.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7451",
+      "ref": "C-7451",
+      "label": "Host Says Her Producer Corrected That the Prosecution Filed the Memorandum",
+      "claim": "The host says her producer corrected her: the prosecution, not the defense, filed the memorandum with the autopsy injury excerpts.",
+      "anchored_artifacts": [
+        "A-2207.1"
+      ],
+      "related_nodes": [
+        "N-10761"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:31",
+      "investigative_direction": "Check the docket to confirm the filing party and date.",
+      "transcript_snippet": "It was in fact my producer corrected the prosecution that filed the memorandum.",
+      "revises_claim_refs": [
+        "C-7403",
+        "C-3162",
+        "C-3163"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7452",
+      "ref": "C-7452",
+      "label": "Host Recalls Kolvet Describing the Bullet Hitting the Back and Going Down the Vertebrae",
+      "claim": "The host says Kolvet earlier told the audience the bullet hit and went down Charlie's vertebrae, then ricocheted downward, which she says matches the memorandum's description.",
+      "anchored_artifacts": [
+        "A-2207.1"
+      ],
+      "related_nodes": [
+        "N-10341",
+        "N-10761"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:25",
+      "investigative_direction": "Find Kolvet's earlier description and compare to the autopsy trajectory.",
+      "transcript_snippet": "he told us it went in this way just to make this make sense, hit the back, and then went down his vertebrae, right?",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7453",
+      "ref": "C-7453",
+      "label": "Host Says Hearts and Lungs Cannot Hemorrhage Without a Heartbeat",
+      "claim": "The host says that a cursory search shows heart and lungs cannot hemorrhage if there is no heartbeat, which raises the question of when Charlie's heart stopped.",
+      "anchored_artifacts": [
+        "A-2207.1"
+      ],
+      "related_nodes": [
+        "N-10761"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:21",
+      "investigative_direction": "Ask an independent forensic pathologist whether post-mortem hemorrhage of this kind can occur.",
+      "transcript_snippet": "You can do a cursory search and determine that your heart and lungs can't hemorrhage if there is no heartbeat.",
+      "qualifies_claim_refs": [
+        "C-3163"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7454",
+      "ref": "C-7454",
+      "label": "Host Says Frank Turek Said Charlie Had No Pulse in Those Critical Minutes",
+      "claim": "The host says Frank Turek told the audience he realized in those critical minutes that Charlie did not have a pulse.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10687"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:21",
+      "investigative_direction": "Obtain Turek's original statement and the CPR timeline.",
+      "transcript_snippet": "we have Frank Turek who tells us he realized in those critical minutes that Charlie had did not have a pulse.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7455",
+      "ref": "C-7455",
+      "label": "Host Says Erika Said Charlie Died Instantly",
+      "claim": "The host says Erika has said that Charlie died instantly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10761"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:25",
+      "investigative_direction": "Locate Erika's statement and compare it with medical and EMS timelines.",
+      "transcript_snippet": "also heard from Erika that, you know, he died instantly.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7456",
+      "ref": "C-7456",
+      "label": "Host Says There Is a Scenario Where His Heart Was Restarted at the Hospital",
+      "claim": "The host says there is also a scenario in which his heart was got going again at the hospital, which would allow hemorrhaging.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10761"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:25",
+      "investigative_direction": "Review the hospital records and treatment timeline.",
+      "transcript_snippet": "But then we've also heard a scenario where they get his heart back going again at the hospital",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7457",
+      "ref": "C-7457",
+      "label": "Host Says She Believes the Microphone Exploded on Charlie",
+      "claim": "The host says she believes the microphone exploded on Charlie, and that hemorrhaging could come from blunt force trauma to the heart.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10768",
+        "N-10761"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:25",
+      "investigative_direction": "Examine the microphone, shirt and chest injuries for blast or impact evidence.",
+      "transcript_snippet": "I am a person who does believe that the microphone exploded on him.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7458",
+      "ref": "C-7458",
+      "label": "Host Says Chest Bruising Would Tell More of the Story",
+      "claim": "The host says it would be informative to know whether Charlie had bruising on his chest.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10761",
+        "N-10768"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:25",
+      "investigative_direction": "Review autopsy photographs and external examination notes.",
+      "transcript_snippet": "it would be interesting to know if he had bruising on his chest, things of that nature.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7459",
+      "ref": "C-7459",
+      "label": "Host Says She Has Ruled Out the Lozi Rooftop Person Having Shot Charlie",
+      "claim": "The host says she has fully ruled out any chance that the person on the Lozi roof shot Charlie in the neck.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10769"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:25",
+      "investigative_direction": "Reconstruct the shot geometry and compare with the rooftop footage.",
+      "transcript_snippet": "now that I have fully rinsed out any chance that the person on Lozi shot Charlie in his neck",
+      "supports_claim_refs": [
+        "C-7406"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7460",
+      "ref": "C-7460",
+      "label": "Host Says the Rooftop Man Was a Military Decoy Tasked With Running",
+      "claim": "The host says she thinks the person on the roof was a military man tasked with being an acrobat, one of several decoys tasked with running.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10172",
+        "N-10769"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:25",
+      "investigative_direction": "Identify the rooftop person and any military or contractor ties.",
+      "transcript_snippet": "I think that military man was tasked with being an acrobat.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7461",
+      "ref": "C-7461",
+      "label": "Host Says the Prosecution Has Not Contacted the Rooftop Witnesses",
+      "claim": "The host says there is a reason witnesses are not brought into the courtroom and why they haven't even been contacted by the prosecution.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10719"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:01",
+      "investigative_direction": "Ask the prosecution and the witnesses whether any contact has occurred.",
+      "transcript_snippet": "there is a reason why they don't want to bring in these witnesses in the courtroom, why they haven't even been contacted by the prosecution.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7462",
+      "ref": "C-7462",
+      "label": "Prosecution Cites Exhibits 12.1 and 12.4 as Proof of a Screwdriver",
+      "claim": "In the hearing clip, the prosecution asserts the defendant used a screwdriver and cites exhibits 12.1 and 12.4 as proof.",
+      "anchored_artifacts": [
+        "A-2882.1"
+      ],
+      "related_nodes": [
+        "N-11143"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:01",
+      "investigative_direction": "Pull exhibits 12.1 and 12.4 from the hearing record.",
+      "transcript_snippet": "they cite the exhibits 12.1 and 12.4 as proof of that.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7463",
+      "ref": "C-7463",
+      "label": "Host Says There Is No Evidence of a Screwdriver or a Gun on the Lozi Rooftop",
+      "claim": "The host says the public has seen no evidence of a screwdriver or a gun on the Lozi rooftop.",
+      "anchored_artifacts": [
+        "A-2882.1"
+      ],
+      "related_nodes": [
+        "N-11143",
+        "N-10769"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:01",
+      "investigative_direction": "Compare exhibits and property logs with that claim.",
+      "transcript_snippet": "We have seen no evidence of either a screwdriver or a gun on the rooftop of the Lozi building.",
+      "contradicts_claim_refs": [
+        "C-7462"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7464",
+      "ref": "C-7464",
+      "label": "Host Says Blake Neff Has Convenient Amnesia and Excludes Danny Philip",
+      "claim": "The host says Blake Neff shows convenient amnesia about events that day and continues to exclude Danny Philip from the equation, noting that Philip was the one driving with someone.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:05",
+      "investigative_direction": "Review Neff's accounts of Sept 10 against vehicle and driver records.",
+      "transcript_snippet": "why Blake seems to have this convenient amnesia about certain events that day and why he continues to exclude Danny Philip from the equation.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-375",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7465",
+      "ref": "C-7465",
+      "label": "Host Says She Texted Andrew That Charlie Told Her He Betrayed Him",
+      "claim": "The host says that after a dream set in Israel she woke up and texted Andrew Kolvet that Charlie told her he had betrayed him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:17",
+      "investigative_direction": "Obtain the text and any reply from Kolvet.",
+      "transcript_snippet": "The fact that I woke up and texted Andrew and I said Charlie told me that you betrayed him.",
+      "supports_claim_refs": [
+        "C-2047"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7466",
+      "ref": "C-7466",
+      "label": "Host Describes Dream of Charlie Saying He Was Betrayed Then Seeing Kolvet's Face",
+      "claim": "The host says that in the dream Charlie said he was betrayed, she could not hear what else he said, and then she saw Kolvet's face.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:17",
+      "investigative_direction": "Personal account; no document would verify it beyond the text message.",
+      "transcript_snippet": "And Charlie said he was betrayed and then I couldn't hear what he was saying and then I saw Andrew Colvin's face.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7467",
+      "ref": "C-7467",
+      "label": "Host Says She Spoke to Her Priest Worrying Charlie Was in Purgatory",
+      "claim": "The host says that after Charlie's death she spoke to her priest, feeling he might be in purgatory because of the vivid dreams, which later stopped.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:27",
+      "investigative_direction": "Personal account only.",
+      "transcript_snippet": "I remember talking to my priest cuz I I said to I feel like he must he must be in purgatory",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7468",
+      "ref": "C-7468",
+      "label": "Host Says Attendees at the Memorial Event Were Happy and Are Now Angry",
+      "claim": "The host says the memorial convention was thrown like a concert, and that people so happy at the memorial event clinking glasses are now very bitter and angry.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:40",
+      "investigative_direction": "Review footage of the memorial event and later public statements by attendees.",
+      "transcript_snippet": "those people who were so happy, so happy at the memorial event clinking glasses thereafter are very bitter",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7469",
+      "ref": "C-7469",
+      "label": "Host Says Tyler Robinson Faces the Death Penalty",
+      "claim": "The host says Tyler Robinson is up for the death penalty.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:50:37",
+      "investigative_direction": "Check the charging documents and prosecutor's notice regarding capital charges.",
+      "transcript_snippet": "Tyler Robinson is up for the death penalty.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7470",
+      "ref": "C-7470",
+      "label": "Host Says Blake Neff Has Said to Convict Tyler Robinson",
+      "claim": "The host says Blake Neff has said to convict Tyler Robinson, and characterizes this as calling for the state to kill him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:50:37",
+      "investigative_direction": "Locate Neff's original statements calling for conviction.",
+      "transcript_snippet": "When you see Blake Neff who is an evil man saying convict Tyler Robinson",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7471",
+      "ref": "C-7471",
+      "label": "Host Agrees Charlie Did Not Go Backward and Moved Up and to the Side",
+      "claim": "Responding to a viewer comment about conservation of momentum, the host says video from the side shows Charlie did not go back but went up and tilted to the side.",
+      "anchored_artifacts": [
+        "A-2883.1"
+      ],
+      "related_nodes": [
+        "N-10761",
+        "N-10768"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:30",
+      "investigative_direction": "Have a physicist or forensic expert analyze the shot video.",
+      "transcript_snippet": "Oh, no, Charlie did not go back. You are correct. He went up and to the side.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7472",
+      "ref": "C-7472",
+      "label": "Host Says Her Book Club Is Reading About the Pale of Settlement",
+      "claim": "The host says her book club is discussing the Pale of Settlement in Russia, and characterizes people who migrated west from there, which she links to Ukraine and Lithuania, as running countries.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:26",
+      "investigative_direction": "Tangential assertion recorded as said; no case-relevant verification.",
+      "transcript_snippet": "We are talking right now um about the Pale of Settlement in Russia.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7473",
+      "ref": "C-7473",
+      "label": "Host Says She Knew Instantly That Charlie Was Betrayed",
+      "claim": "The host says she knew instantly Charlie had been betrayed, though not by whom, and that they would not get away with it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:53:58",
+      "investigative_direction": "Personal assertion; look for contemporaneous messages.",
+      "transcript_snippet": "I knew that Charlie was betrayed instantly. Didn't know by who.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-155",
+      "ref": "M-155",
+      "canonical_term": "Beavis and Butt-Head",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 134,
+          "video_timestamp": "00:12:19",
+          "speaker_node_ref": "N-3",
+          "quote": "today on the Beavis and Butt-Head show, they further explained this logic",
+          "context": "Host labels the show with the courtroom-contacts clip as the Beavis and Butt-Head show.",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "kolvet",
+            "neff"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-92",
+      "ref": "M-92",
+      "canonical_term": "Paramount Not So Tactical",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 134,
+          "video_timestamp": "00:08:44",
+          "speaker_node_ref": "N-3",
+          "quote": "we have to mention Paramount Not So Tactical",
+          "context": "Host introduces the baby-crawling photo post by the Media Siege account.",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "paramount"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 134,
+          "video_timestamp": "00:52:26",
+          "speaker_node_ref": "N-3",
+          "quote": "So, just accept that slop.",
+          "context": "Host mocks accepting the narrative that Charlie's exit meant no gunshots.",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "slop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-10",
+      "ref": "M-10",
+      "canonical_term": "Happy Warrior",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 134,
+          "video_timestamp": "00:53:58",
+          "speaker_node_ref": "N-3",
+          "quote": "So, be happy warriors because Charlie would command you to.",
+          "context": "Host's sign-off using the happy warrior refrain.",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "closing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 134,
+          "video_timestamp": "00:52:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Make him a sandwich.",
+          "context": "Host plugs her book while discussing the book club.",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "merch",
+            "book"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-189",
+      "ref": "M-189",
+      "canonical_term": "Mockingbirds",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 134,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "the mockingbirds attempt to explain away what we can plainly see with our eyes",
+          "context": "Host calls critics mockingbirds at the top of the episode.",
+          "confidence": "high",
+          "tags": [
+            "mockingbird",
+            "critics"
+          ]
+        },
+        {
+          "episode": 134,
+          "video_timestamp": "00:01:57",
+          "speaker_node_ref": "N-3",
+          "quote": "when you surprise the flock of mockingbirds",
+          "context": "Host describes critics being caught without talking points.",
+          "confidence": "high",
+          "tags": [
+            "mockingbird",
+            "critics"
+          ]
+        },
+        {
+          "episode": 134,
+          "video_timestamp": "00:17:38",
+          "speaker_node_ref": "N-3",
+          "quote": "there was an entire mockingbird campaign which was launched to attack me",
+          "context": "Host ties the term to a campaign against her over the Catholic conversion remark.",
+          "confidence": "high",
+          "tags": [
+            "mockingbird",
+            "operation"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-190",
+      "ref": "M-190",
+      "canonical_term": "Superman Neck",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 134,
+          "video_timestamp": "00:35:25",
+          "speaker_node_ref": "N-3",
+          "quote": "he somehow uh had this Superman steel neck because he ate lettuce and liked salad",
+          "context": "Host mocks the idea that Charlie's neck stopped the bullet.",
+          "confidence": "high",
+          "tags": [
+            "neck",
+            "mockery"
+          ]
+        },
+        {
+          "episode": 134,
+          "video_timestamp": "00:41:06",
+          "speaker_node_ref": "N-3",
+          "quote": "For a crowd that believes in the Superman neck",
+          "context": "Host line inside the reading of a viewer email.",
+          "confidence": "high",
+          "tags": [
+            "neck",
+            "mockery"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-191",
+      "ref": "M-191",
+      "canonical_term": "Laws of the Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 134,
+          "video_timestamp": "00:52:26",
+          "speaker_node_ref": "N-3",
+          "quote": "What about the laws of the widow?",
+          "context": "Host mocks rejecting physics arguments in favor of the widow's account.",
+          "confidence": "high",
+          "tags": [
+            "widow",
+            "physics",
+            "mockery"
+          ]
+        },
+        {
+          "episode": 134,
+          "video_timestamp": "00:52:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Laws of the widow.",
+          "context": "Host repeats the phrase.",
+          "confidence": "high",
+          "tags": [
+            "widow",
+            "physics",
+            "mockery"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–01:05:27",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "a4f178d69e8bc8d30d77b84650ec3497630fa5202686df6ed729ebeb114f0d63",
@@ -285,6 +285,133 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3084",
+      "family_ref": "A-3084",
+      "bundle_name": "Host Case-Figure Career Diagram Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3084.1",
+          "ref": "A-3084.1",
+          "description": "Diagram shown by the host listing people involved in the case with child-exploitation career backgrounds, with George Zinn the exception",
+          "related_claims": [
+            "C-10532"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:16:49",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3085",
+      "family_ref": "A-3085",
+      "bundle_name": "Host Verbal Reference to The Bulwark Report on Tardio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3085.1",
+          "ref": "A-3085.1",
+          "description": "Host verbal reference to a published report (credited to the bull work, The Bulwark) on Tardio's no contest plea and the Portland incident (not shown)",
+          "related_claims": [
+            "C-10566",
+            "C-10567"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:56",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3086",
+      "family_ref": "A-3086",
+      "bundle_name": "Viewer Comments Read Aloud Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3086.1",
+          "ref": "A-3086.1",
+          "description": "Viewer comment read aloud about Erika forgiving without confession",
+          "related_claims": [
+            "C-10579"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:56:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3086.2",
+          "ref": "A-3086.2",
+          "description": "Viewer comment read aloud about Tyler limping near the camera",
+          "related_claims": [
+            "C-10580"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:56:20",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3086.3",
+          "ref": "A-3086.3",
+          "description": "Viewer comment read aloud about Erika's media tour with Fox, Barry Weiss and Glenn Beck",
+          "related_claims": [
+            "C-10583"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:57:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3086.4",
+          "ref": "A-3086.4",
+          "description": "Viewer comment read aloud about Piers Morgan interview with John Mappin",
+          "related_claims": [
+            "C-10585"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:59:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -296,8 +423,8 @@
       "type": "investigation_target",
       "description": "Persistent question of why individuals with specialized ICAC/SVU backgrounds were centrally positioned in handling the September 10 case (initial warrants, statement-taking).",
       "related_artifacts": [
-        "A-2378.1",
-        "A-2376.2"
+        "A-2376.2",
+        "A-2378.1"
       ],
       "related_claims": [
         "C-3450",
@@ -341,7 +468,18 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10526",
+        "C-10529",
+        "C-10536",
+        "C-10542",
+        "C-10543",
+        "C-10545",
+        "C-10546",
+        "C-10560",
+        "C-10576",
+        "C-10588"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -357,7 +495,20 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10500",
+        "C-10501",
+        "C-10503",
+        "C-10509",
+        "C-10534",
+        "C-10545",
+        "C-10551",
+        "C-10554",
+        "C-10555",
+        "C-10579",
+        "C-10583",
+        "C-10587"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -388,7 +539,15 @@
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10520",
+        "C-10521",
+        "C-10523",
+        "C-10528",
+        "C-10559",
+        "C-10561",
+        "C-10580"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -404,7 +563,12 @@
       "type": "person",
       "description": "Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10524",
+        "C-10525",
+        "C-10529",
+        "C-10532"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -420,7 +584,9 @@
       "type": "person",
       "description": "Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10520"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -436,7 +602,15 @@
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10533",
+        "C-10534",
+        "C-10535",
+        "C-10536",
+        "C-10537",
+        "C-10538",
+        "C-10539"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -488,13 +662,1370 @@
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10521",
+        "C-10522"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10006",
+      "ref": "N-10006",
+      "name": "Fox News",
+      "type": "investigation_target",
+      "description": "Outlet on Erika's media tour.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10583"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Site of the shooting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10528"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "FBI, listed among agencies at the scene.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10538"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10023",
+      "ref": "N-10023",
+      "name": "Epstein Israeli Intelligence Asset Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10547"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Place; referenced in the host's pressure and blackmail claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10560",
+        "C-10568"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10032",
+      "ref": "N-10032",
+      "name": "Decoy Boy Operation Analysis",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10524",
+        "C-10525"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10056",
+      "ref": "N-10056",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10546",
+        "C-10588"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10129",
+      "ref": "N-10129",
+      "name": "Orem Police Department",
+      "type": "investigation_target",
+      "description": "Local police the host speculates the ICAC officer worked for.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10539"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10151",
+      "ref": "N-10151",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10520"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10193",
+      "ref": "N-10193",
+      "name": "Mikey McCoy Call Log Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10534"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10198",
+      "ref": "N-10198",
+      "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10536"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10246",
+      "ref": "N-10246",
+      "name": "Calvary Chapel Institutional Abuse Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10506"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10338",
+      "ref": "N-10338",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10537"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10410",
+      "ref": "N-10410",
+      "name": "TPUSA Board Member Military–Satanism Connection",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10510"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10411",
+      "ref": "N-10411",
+      "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+      "type": "investigation_target",
+      "description": "Lawsuits over Romanian trafficking allegations against the church.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10504"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10421",
+      "ref": "N-10421",
+      "name": "Buckman–TPUSA Donor Relationship Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10514"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10435",
+      "ref": "N-10435",
+      "name": "Fort Wuka Erika Kirk Location Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Fort Wuka reference.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10502"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10524",
+      "ref": "N-10524",
+      "name": "Faith Kates – Epstein Relationship Scope",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10556"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10609",
+      "ref": "N-10609",
+      "name": "Marcus Wada Arms Trafficking and Biography Cluster",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10515"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10698",
+      "ref": "N-10698",
+      "name": "Next Model Management / MC2 Trafficking Connection to Erica Kirk",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the modeling apartments claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10554",
+        "C-10555"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10725",
+      "ref": "N-10725",
+      "name": "Officer Bagley Body-Cam Battery Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10522"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10770",
+      "ref": "N-10770",
+      "name": "Utah Valley Hospital File Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10530"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical",
+      "type": "investigation_target",
+      "description": "YouTube channel the host says TPUSA used for a ballistics explanation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10558"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10969",
+      "ref": "N-10969",
+      "name": "Trump–Charlie Kirk July 12, 2025 Scolding Call",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10543"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11047",
+      "ref": "N-11047",
+      "name": "All Things Possible Ministries",
+      "type": "investigation_target",
+      "description": "Marx's charity.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10512"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11099",
+      "ref": "N-11099",
+      "name": "Candace Owens Australia Visa Review",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10575"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11165",
+      "ref": "N-11165",
+      "name": "Romanian Angels Project",
+      "type": "investigation_target",
+      "description": "Erika's charity named in the trafficking spreadsheet.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10500",
+        "C-10501"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11167",
+      "ref": "N-11167",
+      "name": "Operation Underground Railroad",
+      "type": "investigation_target",
+      "description": "Anti-trafficking group the host says Beck funded.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10508",
+        "C-10515"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11203",
+      "ref": "N-11203",
+      "name": "Make Heaven Crowded Tour",
+      "type": "investigation_target",
+      "description": "First TPUSA tour after Charlie's death.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10503"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-138",
+      "ref": "N-138",
+      "name": "Judge Tony F. Graf Jr.",
+      "type": "person",
+      "description": "Judge in the Tyler Robinson case (transcribed Graph); the host reviews his career in sex crimes prosecution.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10517",
+        "C-10518",
+        "C-10519"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-157",
+      "ref": "N-157",
+      "name": "John Mappin",
+      "type": "person",
+      "description": "Friend of the host in the Iceland call account (transcribed Mappen).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10585",
+        "C-10586"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "TPUSA staffer riding in the Denali (transcribed Blake Nef).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10535"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-198",
+      "ref": "N-198",
+      "name": "Robert Kraft",
+      "type": "person",
+      "description": "Patriots owner the host accuses of lobbying (transcribed Robert Craft).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10569"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-208",
+      "ref": "N-208",
+      "name": "Piers Morgan",
+      "type": "person",
+      "description": "Host of the show where Mappin and Tatum appeared per a commenter (transcribed Pierce).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10585"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Speaker the host says raised Epstein on stage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10544"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-228",
+      "ref": "N-228",
+      "name": "Brandon Tatum",
+      "type": "person",
+      "description": "Commentator the host spoke to by phone.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10585",
+        "C-10586",
+        "C-10587"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-242",
+      "ref": "N-242",
+      "name": "Glenn Beck",
+      "type": "person",
+      "description": "Funder of Operation Underground and media figure present on September 10.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10507",
+        "C-10508",
+        "C-10515",
+        "C-10583"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-27",
+      "ref": "N-27",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Cited as an example of lobby pressure and touring.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10575",
+        "C-10577"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-284",
+      "ref": "N-284",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Interviewer on Erika's media tour (transcribed Barry Weiss).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10583"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10500",
+        "C-10509",
+        "C-10542",
+        "C-10545",
+        "C-10548",
+        "C-10554",
+        "C-10555",
+        "C-10557",
+        "C-10561",
+        "C-10562",
+        "C-10565",
+        "C-10575",
+        "C-10576",
+        "C-10581",
+        "C-10582",
+        "C-10583",
+        "C-10584",
+        "C-10586",
+        "C-10587",
+        "C-10588"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 20,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "The host's husband, fishing in Iceland.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10586"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-332",
+      "ref": "N-332",
+      "name": "Tim Ballard",
+      "type": "person",
+      "description": "Operation Underground founder.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10508"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-337",
+      "ref": "N-337",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Source of the clip and warrant findings.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10519"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-348",
+      "ref": "N-348",
+      "name": "Victor Marx",
+      "type": "person",
+      "description": "Evangelist whose charity the host links to trafficking work.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10512"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Financier whose money's origin Carlson asked about (transcribed Bill Aman).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10544"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-375",
+      "ref": "N-375",
+      "name": "Danny Philip",
+      "type": "person",
+      "description": "Driver on September 10 (transcribed Danny Phillip).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10534",
+        "C-10535"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-41",
+      "ref": "N-41",
+      "name": "Spencer Cox",
+      "type": "person",
+      "description": "Utah governor who appointed Graf.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10517"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-434",
+      "ref": "N-434",
+      "name": "Marcus Wada",
+      "type": "person",
+      "description": "Named by the host as running trafficking-related work in Poland.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10515"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-460",
+      "ref": "N-460",
+      "name": "Michael Aquino",
+      "type": "person",
+      "description": "Temple of Set founder named by the host (transcribed Michael Aino).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10510",
+        "C-10511"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-461",
+      "ref": "N-461",
+      "name": "Greg Laurie",
+      "type": "person",
+      "description": "Pastor the host says headlined the first post-Charlie tour paperwork (transcribed Greg Lori).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10503",
+        "C-10504"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-471",
+      "ref": "N-471",
+      "name": "Nelda Buckman",
+      "type": "person",
+      "description": "TPUSA donor the host says is involved in child rescue.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10514"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-498",
+      "ref": "N-498",
+      "name": "Rick Cutler",
+      "type": "person",
+      "description": "Said to have rescued kids from trafficking in South America via Operation Underground.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10515"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-499",
+      "ref": "N-499",
+      "name": "Jaco Booyens",
+      "type": "person",
+      "description": "Runs a charity for abuse victims per the host (transcribed Yako Buyans).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10513"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Said by the host to have yelled at Charlie over Epstein.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10543"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-54",
+      "ref": "N-54",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Brought in for a second statement by the AG's office per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10540"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-541",
+      "ref": "N-541",
+      "name": "Jean-Luc Brunel",
+      "type": "person",
+      "description": "Modeling agency founder named by the host (transcribed John Luke Brunell).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10556"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-582",
+      "ref": "N-582",
+      "name": "Faith Kates",
+      "type": "person",
+      "description": "Modeling agency head named by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10556"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-700",
+      "ref": "N-700",
+      "name": "Philip Goldsberry Jr.",
+      "type": "person",
+      "description": "Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsbury).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10516"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-701",
+      "ref": "N-701",
+      "name": "Dr. Philip Goldsberry",
+      "type": "person",
+      "description": "Philip Goldsberry Sr. in the same family.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10516"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-702",
+      "ref": "N-702",
+      "name": "Otto Busher",
+      "type": "person",
+      "description": "Colonel the host says was accused of running a brothel with Romanian children (transcribed Otto B O Busher).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10501"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-791",
+      "ref": "N-791",
+      "name": "Matt Robinson",
+      "type": "person",
+      "description": "Tyler Robinson's father.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10520",
+        "C-10531"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-815",
+      "ref": "N-815",
+      "name": "Paul Vallely",
+      "type": "person",
+      "description": "TPUSA adviser and retired army general named by the host (transcribed Paul Valle).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10510"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-850",
+      "ref": "N-850",
+      "name": "Macklemore",
+      "type": "person",
+      "description": "Rapper dropped from the tour (transcribed McLemore).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10569",
+        "C-10570",
+        "C-10571",
+        "C-10572",
+        "C-10573"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-851",
+      "ref": "N-851",
+      "name": "Ed Sheeran",
+      "type": "person",
+      "description": "Headliner whose tour dropped Macklemore.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10572",
+        "C-10573",
+        "C-10574"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Referenced in the host's motive theory and blackmail claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10542",
+        "C-10543",
+        "C-10544",
+        "C-10547",
+        "C-10556",
+        "C-10589"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "TPUSA-aligned host the host says changed her message on forgiveness.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10579",
+        "C-10583",
+        "C-10589"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-817",
+      "ref": "N-817",
+      "name": "David Frodsham",
+      "type": "person",
+      "description": "First named by the host at 00:03:34 in episode 152. Civilian commander at Fort Wuka the host says was charged with running a child sex abuse ring. Real spelling unconfirmed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10502"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-816",
+      "ref": "N-816",
+      "name": "Andrew Piscatello",
+      "type": "person",
+      "description": "First named by the host at 00:03:34 in episode 152. Man the host says the feds questioned on September 10 who warns about Ukrainian military sex trafficking. Real spelling unconfirmed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10505"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-882",
+      "ref": "N-882",
+      "name": "Michael George Carl",
+      "type": "person",
+      "description": "First named by the host at 00:12:41 in episode 152. Police officer with a child-exploitation background who signed the first warrants.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10527",
+        "C-10528",
+        "C-10529",
+        "C-10530",
+        "C-10531"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-883",
+      "ref": "N-883",
+      "name": "David Leavitt",
+      "type": "person",
+      "description": "First named by the host at 00:24:49 in episode 152 (transcribed David O. Levit). Utah official the host links to 2017 tribal outreach and a 2022 ritual abuse investigation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10549",
+        "C-10550",
+        "C-10552"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-884",
+      "ref": "N-884",
+      "name": "Justin Bieber",
+      "type": "person",
+      "description": "First named by the host at 00:51:02 in episode 152. Singer the host cites as sued after cancelling a tour.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10578"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-885",
+      "ref": "N-885",
+      "name": "Stephen A. Smith",
+      "type": "person",
+      "description": "First named by the host at 00:56:43 in episode 152. Podcaster on whose show the host appeared.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10582"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10989",
+      "ref": "N-10989",
+      "name": "Soter Global Ministries",
+      "type": "organization",
+      "description": "501(c)(3) the host says provides medical care and training to orphans in Romania, Albania and Ukraine, co-founded by Philip Goldsberry Jr. (transcribed Sofur).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10516"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11263",
+      "ref": "N-11263",
+      "name": "Utah Internet Crimes Against Children Task Force",
+      "type": "organization",
+      "description": "State ICAC task force whose vest-wearing officer the host shows taking Mikey McCoy's statement; the host says it was established nationally by the Department of Justice and is run in Utah by the Attorney General's Office.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10527",
+        "C-10535",
+        "C-10538",
+        "C-10539"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11264",
+      "ref": "N-11264",
+      "name": "Utah Attorney General's Office",
+      "type": "organization",
+      "description": "State office the host says runs the Utah ICAC and brought in Lance Twiggs for a second statement in April.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10540",
+        "C-10549"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11265",
+      "ref": "N-11265",
+      "name": "The Bulwark",
+      "type": "organization",
+      "description": "Outlet the host credits (transcribed the bull work) with reporting on Matt Tardio's no contest plea.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10566",
+        "C-10567"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -817,6 +2348,1724 @@
       "mentions_person_refs": [
         "N-1"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10500",
+      "ref": "C-10500",
+      "label": "Host Says She Spotted a Recurring Trafficking Theme Tied to Eastern Europe Charities Early On",
+      "claim": "The host says she recognized early that people working with and around the figures in the Kirk story are tied to charities connected to Eastern Europe, from Erika Kirk and Romanian Angels to the pastors placed around Charlie, and she walks through a spreadsheet of them.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-11165"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:34",
+      "investigative_direction": "Review the spreadsheet row by row against court, charity and press records to test each listed link.",
+      "transcript_snippet": "I recognized early on this weird recurring theme regarding human trafficking, right? People working with and around charities that are particularly tied to Eastern Europe",
+      "supports_claim_refs": [
+        "C-3460"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10501",
+      "ref": "C-10501",
+      "label": "Host Says Colonel Otto Busher Was Accused of Running a Brothel With Romanian Children and Worked With Romanian Angels",
+      "claim": "The host says Colonel Otto Busher was accused of running a brothel with Romanian children from 2011 to 2015 at a Romanian military base and worked with Erika's Romanian Angels during that time.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-11165"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:34",
+      "investigative_direction": "Find the primary accusation records or reporting on Busher and any Romanian Angels documents naming him.",
+      "transcript_snippet": "Colonel Otto B O Busher of course was accused of running a brothel with Romanian children from 2011 2015 at the Romanian military base. He worked with Erika's Romanian angels during this time.",
+      "mentions_person_refs": [
+        "N-702",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10502",
+      "ref": "C-10502",
+      "label": "Host Says David Fraudsham Was Charged at Fort Wuka With Running a Child Sex Abuse Ring",
+      "claim": "The host says David Fraudsham was the civilian commander stationed at Fort Wuka who was charged with running a child sex abuse ring.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-10435"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:34",
+      "investigative_direction": "Identify the person under the correct spelling and pull the Fort Huachuca charging documents or reporting.",
+      "transcript_snippet": "David Fraudsham. He was the civilian commander that was stationed at Fort Wuka who was charged with running a child sex abuse ring.",
+      "mentions_person_refs": [
+        "N-817"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10503",
+      "ref": "C-10503",
+      "label": "Host Says Erika Put Pastor Greg Laurie on the Headlining Paperwork of the First Post-Charlie Tour",
+      "claim": "The host says that immediately after Charlie died, Erika had Pastor Greg Laurie (transcribed Greg Lori) on the headlining paperwork for the first tour, the Make Heaven Crowded tour.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-11203"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:34",
+      "investigative_direction": "Obtain the Make Heaven Crowded tour lineup and event paperwork and confirm Laurie's billing.",
+      "transcript_snippet": "Pastor Greg Lori immediately after Charlie passed, the first tour that they did, Make Heaven Crowded tour kind of sounds like a threat, but Erika had him on on the headlining paperwork, right?",
+      "mentions_person_refs": [
+        "N-461",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10504",
+      "ref": "C-10504",
+      "label": "Host Says Harvest Church Is in Court Over Accusations of Trafficking Children From Romania and Denies the Charges",
+      "claim": "The host says the church linked to that tour is currently going through the court system accused of trafficking children from Romania, that it denies the charges, and that it does not deny people may have been trafficked.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-10411"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:34",
+      "investigative_direction": "Pull the docket and complaints in the Harvest Christian Fellowship Romanian abuse lawsuits and the church's response.",
+      "transcript_snippet": "they were they are currently going through the court system being accused of trafficking children from Romania.",
+      "mentions_person_refs": [
+        "N-461"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10505",
+      "ref": "C-10505",
+      "label": "Host Says Andrew Pascado Was Questioned by the Feds on September 10 and Warns of Ukrainian Military Sex Trafficking",
+      "claim": "The host says Andrew Pascado was one of the people the feds questioned on September 10 and that in his own capacity he works to ring the alarm on military Ukrainian sex trafficking into the United States.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:34",
+      "investigative_direction": "Identify Pascado under his correct spelling and find the record or earlier episode that places him among those questioned on September 10.",
+      "transcript_snippet": "Andrew Pascado, you'll remember, he was one of the uh people that the feds questioned on September 10th. He also in his own capacity works to ring the alarm on military Ukrainian sex trafficking into the United States.",
+      "mentions_person_refs": [
+        "N-816"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10506",
+      "ref": "C-10506",
+      "label": "Host Says Calvary Chapel Is Riddled With Pastor Abuse Stories and Looks Systemic",
+      "claim": "The host says Calvary Chapel is riddled with pastor abuse stories and that it seems systemic, as if shady characters are found and made pastors, perhaps as a mechanism to control people.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:34",
+      "investigative_direction": "Compile documented Calvary Chapel abuse cases and settlements to test whether the pattern is systemic.",
+      "transcript_snippet": "We have the Calvary Chapel Church. We've done episodes on this riddled with pastor abuse stories. It almost seems systemic like they are finding these shady characters and making them pastors."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10507",
+      "ref": "C-10507",
+      "label": "Host Says Glenn Beck's Daughters Were at the Event and He Was Heavily Involved in Media on September 10",
+      "claim": "The host says Glenn Beck's daughters were there and that Beck was very much involved in the media on September 10.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:14",
+      "investigative_direction": "Confirm from event footage, attendance records or Beck's own statements who from his family attended and what his September 10 media activity was.",
+      "transcript_snippet": "Glenn Beck, his daughters were there. Um he was very much involved in the media on September 10th.",
+      "mentions_person_refs": [
+        "N-242"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10508",
+      "ref": "C-10508",
+      "label": "Host Says Beck Funded Operation Underground, Which Tim Ballard Conceived",
+      "claim": "The host says Glenn Beck and Tim Ballard started Operation Underground, that Beck funded it, and that Ballard had the idea.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-11167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:14",
+      "investigative_direction": "Check Operation Underground's founding history and funding disclosures.",
+      "transcript_snippet": "Him and Tim Ballard started Operation Underground. It was Glenn Beck that funded it. Tim Ballard had the idea and uh yeah",
+      "mentions_person_refs": [
+        "N-242",
+        "N-332"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10509",
+      "ref": "C-10509",
+      "label": "Host Says Erika Claimed to Have Worked With Child Sex Trafficking Victims in China and the Host Cannot Find Who With",
+      "claim": "The host says Erika lived in China and, according to Erika, worked with child sex trafficking victims, but the host has not been able to locate who she was working with.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:14",
+      "investigative_direction": "Ask Erika Kirk to name the organization in China; search charity registries and her own prior statements about it.",
+      "transcript_snippet": "Erika uh lived in China and worked with child sex trafficking victims. According to her, we have not been able to locate who she was working with at that time.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10510",
+      "ref": "C-10510",
+      "label": "Host Says TPUSA Adviser Paul Vallely Co-Wrote a Book With Michael Aquino, a Temple of Set Founder",
+      "claim": "The host says TPUSA adviser Paul Vallely (transcribed Valle) is a retired army general who ran psychological operations and co-wrote a book with Michael Aquino (transcribed Aino), a former Satanist who founded the Temple of Set.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-10410"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:14",
+      "investigative_direction": "Verify Vallely's TPUSA advisory role and the co-authored book (Aquino and Vallely, Psychological Operations material).",
+      "transcript_snippet": "TPUSA adviser Paul Valle is the retired army general who ran psychological operations and co-wrote a book with Michael Aino who was a Satanist and a founder of the Temple of Set",
+      "mentions_person_refs": [
+        "N-815",
+        "N-460"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10511",
+      "ref": "C-10511",
+      "label": "Host Says Aquino Was Accused of Abusing Children at the Army Child Development Center",
+      "claim": "The host says the Temple of Set founder she just named was accused of abusing children at the Army Child Development Center.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:01",
+      "investigative_direction": "Check the 1980s Presidio Child Development Center allegations and the outcome of the investigation.",
+      "transcript_snippet": "Uh accused of abusing children at the Army Child Development Center.",
+      "mentions_person_refs": [
+        "N-460"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10512",
+      "ref": "C-10512",
+      "label": "Host Says Victor Marx Funds His Child Trafficking Charity With Supplement Company Profits",
+      "claim": "The host says Victor Marx says he helps with human trafficking and that profits from his supplement company go to his child trafficking charity, All Things Possible.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-11047"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:01",
+      "investigative_direction": "Review All Things Possible's filings for revenue sources and any supplement company contributions.",
+      "transcript_snippet": "Victor Markx, obviously, you know, he says that he helps with human trafficking. Um profits from his supplement comp company go to his child trafficking charity, All Things Possible.",
+      "mentions_person_refs": [
+        "N-348"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10513",
+      "ref": "C-10513",
+      "label": "Host Says Jaco Booyens Runs a Charity for Child Sex Abuse Victims",
+      "claim": "The host says Jaco Booyens (transcribed Yako Buyans) also runs a charity for child sex abuse, and she is unsure whether his is also called All Things Possible.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:01",
+      "investigative_direction": "Identify Booyens's charity and its registration.",
+      "transcript_snippet": "Yako Buyans also runs a charity for child sex abuse. I don't know if his is called All Things Possible.",
+      "mentions_person_refs": [
+        "N-499"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10514",
+      "ref": "C-10514",
+      "label": "Host Says Nelda Buckman, Announced as TPUSA's Biggest Donor Ever, Is Heavily Involved in Rescuing Trafficked Children",
+      "claim": "The host says Nelda Buckman, whom TPUSA announced as its biggest donor ever, is extensively involved in the rescue of children who are sexually abused and trafficked.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-10421"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:01",
+      "investigative_direction": "Find TPUSA's announcement of the Buckman gift and the Buckman family's child rescue charity filings.",
+      "transcript_snippet": "Nela Buckman, who they announced as the biggest donor to Turning Point USA ever, uh is extensively involved in the rescue of children who are sexually abused and trafficked.",
+      "mentions_person_refs": [
+        "N-471"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10515",
+      "ref": "C-10515",
+      "label": "Host Says Marcus Wada Runs Trafficking-Rescue Arms in Poland and Rick Cutler Rescued Kids From Trafficking in South America",
+      "claim": "The host says Marcus Wada is tied to more trafficking-related work in Poland, and that Rick Cutler rescued kids from sex trafficking in South America through Operation Underground, which she says Glenn Beck funded.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-11167",
+        "N-10609"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:01",
+      "investigative_direction": "Check Wada's Polish organizations and Cutler's Operation Underground role.",
+      "transcript_snippet": "Marcus Wada, that's more trafficking arms in Poland. Rick Cutler rescued kids from sex trafficking in South America.",
+      "mentions_person_refs": [
+        "N-434",
+        "N-498",
+        "N-242"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10516",
+      "ref": "C-10516",
+      "label": "Host Says Philip Goldsberry Jr. Co-Founded Sofer Global Ministries Serving Orphans in Romania, Albania and Ukraine",
+      "claim": "The host says Philip Goldsberry Jr. co-founded Sofer Global Ministries (transcribed Sofur), a 501(c)(3) that provides medical care and training to orphans in Romania, Albania and Ukraine.",
+      "anchored_artifacts": [
+        "A-2382.1"
+      ],
+      "related_nodes": [
+        "N-10989"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:01",
+      "investigative_direction": "Pull the IRS filing for Sofer Global Ministries and its officers.",
+      "transcript_snippet": "co-founding Sofur Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.",
+      "mentions_person_refs": [
+        "N-700",
+        "N-701"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10517",
+      "ref": "C-10517",
+      "label": "Host Says Judge Graf Was Appointed by Governor Cox in August 2025 After Seven Years at the Salt Lake City DA's Office",
+      "claim": "The host says Judge Graf (transcribed Graph) was newly appointed by Governor Cox in August 2025, just before Charlie's assassination, after seven years with the Salt Lake City District Attorney's Office.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:08:18",
+      "investigative_direction": "Check the governor's appointment announcement date and Graf's judicial biography.",
+      "transcript_snippet": "So Judge Graph, right, newly appointed by Governor Cox um in August of 2025, just before Charlie's assassination, uh spent seven years with Salt Lake City District Attorney's Office.",
+      "mentions_person_refs": [
+        "N-138",
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10518",
+      "ref": "C-10518",
+      "label": "Host Says Graf Previously Led the Special Victims Unit at the Utah County Attorney's Office and Then Worked Abuse Cases in Davis County",
+      "claim": "The host says that before the Salt Lake position Graf led the special victims unit at the Utah County Attorney's office, then moved to the Davis County Attorney's Office handling physical and sexual abuse cases.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:08:18",
+      "investigative_direction": "Obtain Graf's judicial nomination questionnaire or bio listing his prior offices and dates.",
+      "transcript_snippet": "Before then, he was leading the special victim's unit at the Utah County's attorney attorney's office, who we're also going to discuss, before moving to Davis County Attorney's Office, where he continued handling physical and sexual abuse cases.",
+      "mentions_person_refs": [
+        "N-138"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10519",
+      "ref": "C-10519",
+      "label": "Host Says Baron Coleman's Team Sourced the Graf Clip, Dated Around 2022",
+      "claim": "The host says credit goes to Baron Coleman's team for sourcing the Graf clip, which she thinks is from around 2022.",
+      "anchored_artifacts": [
+        "A-2375.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:08:18",
+      "investigative_direction": "Ask Coleman's team for the original clip URL and recording date.",
+      "transcript_snippet": "credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022ish of Judge Graph discussing what percentage of the work that he does that is related to that topic.",
+      "supports_claim_refs": [
+        "C-3446"
+      ],
+      "mentions_person_refs": [
+        "N-337",
+        "N-138"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10520",
+      "ref": "C-10520",
+      "label": "Host Says Mike Mitchell Claimed He Recognized Tyler Robinson From the News Because He Mentored Him in Boy Scouts",
+      "claim": "The host says Mike Mitchell, the lynchpin of the case against Tyler Robinson in her opinion, is the one who claimed he recognized Tyler Robinson in the news because he used to mentor him in Boy Scouts, and then went to Matt Robinson's house.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10151"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:25",
+      "investigative_direction": "Obtain Mitchell's statements, Boy Scout troop records and the Robinson family account of how he got involved.",
+      "transcript_snippet": "because he's the one who claimed that he recognized Tyler Robinson in the news uh because you know he used to mentor him in Boy Scouts and then he's the one that then goes over uh to Matt Robinson's house",
+      "supports_claim_refs": [
+        "C-3461"
+      ],
+      "mentions_person_refs": [
+        "N-126",
+        "N-40",
+        "N-791"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10521",
+      "ref": "C-10521",
+      "label": "Host Says Officer Bagley Was the State's Preliminary Hearing Officer Who Found the Screwdriver, the Only Link to Tyler Robinson",
+      "claim": "The host says Officer Christopher Bagley is the officer used at the preliminary hearing, that he found the screwdriver on the rooftop, and that the screwdriver was the state's only link to Tyler Robinson.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:07",
+      "investigative_direction": "Review preliminary hearing testimony and exhibits for what physical evidence ties the screwdriver to Robinson.",
+      "transcript_snippet": "But that was their only link to Tyler Robinson. The screwdriver on the rooftop. He finds it. Didn't capture the moment.",
+      "mentions_person_refs": [
+        "N-518",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10522",
+      "ref": "C-10522",
+      "label": "Host Says Bagley's Body Camera Did Not Capture the Moment He Found the Screwdriver",
+      "claim": "The host says Bagley's body camera footage failed him and did not capture the moment he found the screwdriver on the rooftop.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10725"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:07",
+      "investigative_direction": "Obtain the preliminary hearing testimony and the camera's metadata on when recording stopped relative to the screwdriver discovery.",
+      "transcript_snippet": "Unfortunately, his body cam footage failed him. He too formerly worked in child sex crimes at Utah County Sheriff's Office",
+      "supports_claim_refs": [
+        "C-3462"
+      ],
+      "mentions_person_refs": [
+        "N-518"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10523",
+      "ref": "C-10523",
+      "label": "Host Says the Screwdriver Does Not Show It Contains Tyler Robinson's DNA",
+      "claim": "The host says the screwdriver was proven not to tell us it is Tyler Robinson's DNA, though she declines to go into it that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:07",
+      "investigative_direction": "Obtain the lab reports and hearing testimony on DNA found on the screwdriver.",
+      "transcript_snippet": "the screwdriver was proven really doesn't tell us that it's Tyler Robinson's DNA. I'm not going to get into that today.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10524",
+      "ref": "C-10524",
+      "label": "Host Says George Zinn Shouted 'I Did It' Right After the Explosive Went Off as a Distraction",
+      "claim": "The host says George Zinn, whom she calls decoy boy number one, created a distraction by shouting \"I did it. I did it.\" in the immediate aftermath of the explosive going off.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10032"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:56",
+      "investigative_direction": "Collect eyewitness video and police reports of Zinn's shouting and timing relative to the shot.",
+      "transcript_snippet": "our decoy boy number one, George Zinn, who created a distraction by shouting, \"I did it. I did it.\" in the immediate aftermath of the explosive going off.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10525",
+      "ref": "C-10525",
+      "label": "Host Says Many People Wonder Whether Zinn Was Blackmailed Into the Distraction",
+      "claim": "The host says it leads many sensible people to wonder whether Zinn was blackmailed into jumping up and down and creating a distraction.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10032"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:56",
+      "investigative_direction": "Review Zinn's interviews, charging documents and any statement on motive for the disruption.",
+      "transcript_snippet": "it leads many sensible people to wondering whether or not he was blackmailed into doing that, into jumping up and down and creating a distraction.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10526",
+      "ref": "C-10526",
+      "label": "Host Says Charlie's Death Was Announced Around 2:45 Utah Time",
+      "claim": "The host says it was announced around 2:45 Utah local time that Charlie had passed.",
+      "anchored_artifacts": [
+        "A-2378.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:26",
+      "investigative_direction": "Establish the official time of death announcement from hospital, university and TPUSA statements.",
+      "transcript_snippet": "it's announced around 2:45 Utah local time that that Charlie has passed.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10527",
+      "ref": "C-10527",
+      "label": "Host Says Michael George Carl Signed the First Warrants at About 3:19 pm, 34 Minutes After the Death Announcement",
+      "claim": "The host says Michael George Carl signed off on the first warrants at about 3:19 p.m., so he had them ready to go.",
+      "anchored_artifacts": [
+        "A-2378.1"
+      ],
+      "related_nodes": [
+        "N-11263"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:26",
+      "investigative_direction": "Pull the signed warrant returns and compare the timestamps with the death announcement and affidavit time.",
+      "transcript_snippet": "He has signed off for these first warrants at about 3:19 p. m. So, he had these ready to go.",
+      "supports_claim_refs": [
+        "C-3450"
+      ],
+      "mentions_person_refs": [
+        "N-882"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10528",
+      "ref": "C-10528",
+      "label": "Host Says Carl's Warrants Targeted Tyler Robinson's Phone, Google Location Data and Cell Towers Around UVU",
+      "claim": "The host says the warrants Carl signed covered Tyler Robinson's phone, the Google server holding Tyler's phone location data for September 10, and the cell towers around UVU.",
+      "anchored_artifacts": [
+        "A-2378.1"
+      ],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:26",
+      "investigative_direction": "Obtain each warrant and return from the Utah courts and list items to be seized.",
+      "transcript_snippet": "Tyler Robinson's phone. Uh, the Google server that would have Tyler's phone location data on September 10th. He signs off on that. The cell towers that are surrounding UVU, he signs off on that.",
+      "supports_claim_refs": [
+        "C-3450"
+      ],
+      "mentions_person_refs": [
+        "N-882",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10529",
+      "ref": "C-10529",
+      "label": "Host Says Carl's Warrants Also Covered George Zinn's Phone and Charlie's Belongings at Tempogo",
+      "claim": "The host says Carl also signed warrants for George Zinn's phone and for Charlie's belongings at Tempogo, and ties this to the question of where Charlie's belongings went.",
+      "anchored_artifacts": [
+        "A-2378.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:26",
+      "investigative_direction": "Locate the warrant covering Charlie's belongings and the inventory of what was seized and where it is held.",
+      "transcript_snippet": "George Zinn's phone. Uh, Charlie's belongings at Tempogo. So, we've been talking about, uh, where are Charlie's belongings?",
+      "supports_claim_refs": [
+        "C-3450"
+      ],
+      "mentions_person_refs": [
+        "N-882",
+        "N-42",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10530",
+      "ref": "C-10530",
+      "label": "Host Says Carl Also Signed a Warrant for Intermountain Utah Valley Hospital Surveillance Footage on a Driving Perpetrator Rationale",
+      "claim": "The host says the surveillance footage was also seized from Intermountain Health Utah Valley Hospital because police said the perpetrator was driving around, which she calls their excuse to seize it.",
+      "anchored_artifacts": [
+        "A-2378.1"
+      ],
+      "related_nodes": [
+        "N-10770"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:26",
+      "investigative_direction": "Obtain the hospital footage warrant and affidavit rationale.",
+      "transcript_snippet": "we learned that the surveillance footage was also seized from Inter Mountain Health Utah Valley because they said that the perpetrator was driving around.",
+      "mentions_person_refs": [
+        "N-882"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10531",
+      "ref": "C-10531",
+      "label": "Host Says Carl Signed Warrants to Search Matt and Amber Robinson's House",
+      "claim": "The host says the warrants Carl signed also included searches of Matt and Amber Robinson's house.",
+      "anchored_artifacts": [
+        "A-2378.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:26",
+      "investigative_direction": "Obtain the residence search warrant and inventory.",
+      "transcript_snippet": "and also the warrants to search Ma Ma and Amber Robinson's house as well.",
+      "mentions_person_refs": [
+        "N-882",
+        "N-791"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10532",
+      "ref": "C-10532",
+      "label": "Host Displays a Diagram of Case Figures With Child-Exploitation Careers, With Zinn as the Exception Who Committed a Crime",
+      "claim": "The host displays a diagram of people involved in the case whom she says specialize in child-exploitation work throughout their careers, with George Zinn the exception as someone who committed a crime against children.",
+      "anchored_artifacts": [
+        "A-3084.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:16:49",
+      "investigative_direction": "Obtain the diagram source and verify each person's listed career against official bios.",
+      "transcript_snippet": "George Zinn being the exception here as someone who was committing a crime against children. These people are all specializing in this throughout their career.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10533",
+      "ref": "C-10533",
+      "label": "Host Says the Clip Shows Mikey McCoy on the Phone With Three Officers Walking Behind Him",
+      "claim": "The host says the never-before-seen September 10 clip shows Mikey McCoy on the phone with three officers walking behind him who soon walk with him.",
+      "anchored_artifacts": [
+        "A-2376.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:16:49",
+      "investigative_direction": "Obtain the full source footage, its origin and its camera location and time.",
+      "transcript_snippet": "you're seeing Mikey. He is on the phone. Mikey is um he's got to be on the phone there. And behind him, you see three officers that are walking with him.",
+      "supports_claim_refs": [
+        "C-3452"
+      ],
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10534",
+      "ref": "C-10534",
+      "label": "Host Says McCoy Ended His Call With Danny Phillip, Identified From Call Logs Erika Provided",
+      "claim": "The host says Mikey McCoy ended his phone call with Danny Phillip before his statement was taken, and that the host knows it was Phillip because Erika gave her McCoy's call logs.",
+      "anchored_artifacts": [
+        "A-2376.1"
+      ],
+      "related_nodes": [
+        "N-10193"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:24",
+      "investigative_direction": "Compare the supplied call logs with phone-company records for the minutes around 12:23 pm.",
+      "transcript_snippet": "Mikey is going to end his phone call with Danny Phillip. We know that that is Danny Phillip he's on the phone with because we have we were given by Erika his call logs, right?",
+      "mentions_person_refs": [
+        "N-194",
+        "N-375",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10535",
+      "ref": "C-10535",
+      "label": "Host Says the Statement Was Taken Behind the Denali Carrying Blake Neff, Driven by Danny Phillip",
+      "claim": "The host says McCoy and the ICAC officer stood behind the SUV that Blake Neff was being driven in by Danny Phillip, which she says makes her think someone else was in the front seat before.",
+      "anchored_artifacts": [
+        "A-2377.1"
+      ],
+      "related_nodes": [
+        "N-11263"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:29",
+      "investigative_direction": "Identify vehicle occupants and seating via the footage, driver records and the transport timeline.",
+      "transcript_snippet": "they're standing behind the SUV that uh Blake Nef and being Uber driven by Danny Phillip.",
+      "supports_claim_refs": [
+        "C-3452"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-162",
+        "N-375"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10536",
+      "ref": "C-10536",
+      "label": "Host Says the Statement Was Taken About 25 Minutes After the Shooting With McCoy Still at the Scene",
+      "claim": "The host says the statement-taking happened about 25 minutes after Charlie was hit, with Mikey McCoy still hanging around, and says there was therefore no rush to get to the hospital.",
+      "anchored_artifacts": [
+        "A-2377.2"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:29",
+      "investigative_direction": "Check the footage metadata time and compare with the hospital arrival time of McCoy and the group.",
+      "transcript_snippet": "we're talking 25 minutes um after Charlie shortly before 1:00 p. m. Mikey McCoy still hanging around. So there was definitively no rush to get to the hospital.",
+      "supports_claim_refs": [
+        "C-3452"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10537",
+      "ref": "C-10537",
+      "label": "Host Says McCoy's Group Had a Car Available but Stayed at the Scene",
+      "claim": "The host says that if McCoy's group had wanted to race to Charlie or follow him they had their car there, and instead Mikey was hanging around.",
+      "anchored_artifacts": [
+        "A-2377.1"
+      ],
+      "related_nodes": [
+        "N-10338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:34",
+      "investigative_direction": "Reconstruct vehicle positions and movements from footage, Uber logs and departure times.",
+      "transcript_snippet": "Obviously, if they wanted to race to go be with Charlie or to follow him, they had that option. They had their car.",
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10538",
+      "ref": "C-10538",
+      "label": "Host Lists FBI, SBI, UVU Police, SWAT, US Marshals and Utah State Police Already on the Ground When ICAC Took McCoy's Statement",
+      "claim": "The host says that at the time the FBI, eventually the SBI, UVU police, SWAT, US Marshals and undercover Utah State University police were already present, so it is odd an ICAC officer took McCoy's statement.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014",
+        "N-11263"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:34",
+      "investigative_direction": "Obtain the multi-agency response roster and CAD logs for UVU on September 10.",
+      "transcript_snippet": "in the presence of the FBI, eventually the SBI, the UVU police are already there, SWAT is already there, US Marshalss, even the Utah State University um police are underground",
+      "supports_claim_refs": [
+        "C-3452"
+      ],
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10539",
+      "ref": "C-10539",
+      "label": "Host Says She Does Not Know Who the ICAC Officer Is and Wonders If She Worked Out of Orem Police",
+      "claim": "The host says she would like to know who the ICAC woman is, that she may have worked locally out of Orem Police Department, and that it makes no sense to task her with taking the statement.",
+      "anchored_artifacts": [
+        "A-2377.2"
+      ],
+      "related_nodes": [
+        "N-10129",
+        "N-11263"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:24",
+      "investigative_direction": "Identify the officer from the vest and footage, then request the statement report and agency assignment records.",
+      "transcript_snippet": "So maybe this woman worked locally out of the ORM Police Department. I don't know. I would like to know who she is, but it makes no sense that they would have tasked her with taking that statement.",
+      "supports_claim_refs": [
+        "C-3452"
+      ],
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10540",
+      "ref": "C-10540",
+      "label": "Host Says the Attorney General's Office Later Brought In Lance for a Second Statement in April Before Recording the Interview",
+      "claim": "The host says the same attorney general's office that controls the ICAC later brought in Lance for a second statement in April before recording the interview.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11264"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:24",
+      "investigative_direction": "Obtain the April interview record and identify who in the AG's office conducted it.",
+      "transcript_snippet": "the same attorney general's office that then brought in Lance for a second statement um to uh in April before then recording the interview.",
+      "supports_claim_refs": [
+        "C-3453"
+      ],
+      "mentions_person_refs": [
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10541",
+      "ref": "C-10541",
+      "label": "Host Calls It Her Strong Opinion That Feds Are Directing the ICAC Presence as a Control Mechanism",
+      "claim": "The host says, as her strong opinion, that the pattern looks like a control mechanism being directed by the feds, as one big group wanted to have its hands everywhere in the case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10831"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:24",
+      "investigative_direction": "No documentary test exists yet; trace tasking orders for the ICAC and SVU personnel to see who directed their presence.",
+      "transcript_snippet": "this feels like a control mechanism that's being directed by the feds. Like this is one big group. And for some reason, the feds wanted them in particular to have their hands everywhere in this case.",
+      "supports_claim_refs": [
+        "C-3464"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10542",
+      "ref": "C-10542",
+      "label": "Host Says Epstein's Network Reemerged in the Nonprofit World in 2018 and Is a Plausible Motive for the Murder",
+      "claim": "The host says, in her belief and allegedly according to her research, that Epstein's network reemerged in the not-for-profit world in 2018, and that this is a plausible big reason Charlie was murdered.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:22:24",
+      "investigative_direction": "Define what the reemergence refers to and trace the nonprofits and donors involved from 2018.",
+      "transcript_snippet": "Epstein's network reemerged in not for profofit world in 2018 right I believe that that is actually a plausible motive a plausible big reason that Charlie was murdered",
+      "mentions_person_refs": [
+        "N-9",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10543",
+      "ref": "C-10543",
+      "label": "Host Says Trump Yelled at Charlie by Phone for Speaking About the Epstein Case",
+      "claim": "The host cites a phone call in which Trump yelled at Charlie Kirk for speaking about the Epstein case as part of the evidence for her theory.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10969"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:24",
+      "investigative_direction": "Locate the call and its witnesses; compare with the host's earlier accounts of the July 12 call.",
+      "transcript_snippet": "Trump's phone call yelling at him for speaking about the Epstein case Trump's protection of the Epstein network the gaslighting of the American people",
+      "mentions_person_refs": [
+        "N-5",
+        "N-1",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10544",
+      "ref": "C-10544",
+      "label": "Host Says Tucker Carlson Spoke on Stage About Epstein and Asked Where Bill Ackman's Money Came From",
+      "claim": "The host says Tucker Carlson was speaking on stage about Jeffrey Epstein and asking where Bill Ackman's money came from.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:24:09",
+      "investigative_direction": "Obtain the July 11 conference video and transcript of Carlson's remarks.",
+      "transcript_snippet": "Um he was speaking about Jeffrey Epste. He was asking where Bill Aman's money came from.",
+      "supports_claim_refs": [
+        "C-1559"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-9",
+        "N-37"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10545",
+      "ref": "C-10545",
+      "label": "Host Says Erika Was Sent and Set Up to Go After Charlie",
+      "claim": "The host says she has expressed her belief that Erika was sent and set up to go after Charlie, and that she will not pivot from that opinion.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:24:09",
+      "investigative_direction": "The host would need to state a mechanism or source; look at the timeline of Erika's introduction to Charlie and TPUSA.",
+      "transcript_snippet": "I have expressed my belief that I I I think Erika was sent and set up to go after Charlie.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10546",
+      "ref": "C-10546",
+      "label": "Host Says People Lied About Arguments Charlie Had the Day Before and That He Was Under Pressure From Israel",
+      "claim": "The host says people are lying about what Charlie was going through, about arguments he had the day before, and pretending he was not under pressure from Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:49",
+      "investigative_direction": "Collect statements from those present on September 9 and 10 and compare them with the host's sources.",
+      "transcript_snippet": "the people that are were lying about what Charlie was going through. There's no reason to lie about arguments that were being had the day before and pretending that he wasn't under pressure from Israel.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10547",
+      "ref": "C-10547",
+      "label": "Host Says Epstein Was Israel's Guy",
+      "claim": "The host says that we know Epstein was Israel's guy and that it is too much coincidence for her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10023"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:49",
+      "investigative_direction": "The assertion needs a primary document; look for released intelligence-linked records or official statements.",
+      "transcript_snippet": "We know that Epstein was Israel's guy. Okay, that that's too much coincidence for me.",
+      "mentions_person_refs": [
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10548",
+      "ref": "C-10548",
+      "label": "Host Says People Sent Her Many Tips About Utah County Attorney Office Controversies",
+      "claim": "The host says people have sent her many tips about controversial matters involving the Utah County attorney's office in general.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:24:49",
+      "investigative_direction": "Review the tips received to identify which matters are public record versus rumor.",
+      "transcript_snippet": "because people have sent us so many tips about uh various things that have gone on that have been controversial",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10549",
+      "ref": "C-10549",
+      "label": "Host Says the Utah Attorney General Until 2022 Was David Leavitt, Who Faced Unproven Scandals",
+      "claim": "The host says that until 2022 Utah's attorney general was David Leavitt (transcribed David O. Levit), that there were a few scandals, none proven, that he has not been found guilty of anything and says it was politicking.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11264"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:49",
+      "investigative_direction": "Verify Leavitt's office (the host says attorney general; public records list Utah County Attorney) and the status of every scandal.",
+      "transcript_snippet": "the attorney general um of Utah was a man named David O. Levit. And there was a massive scandal.",
+      "mentions_person_refs": [
+        "N-883"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10550",
+      "ref": "C-10550",
+      "label": "Host Says Leavitt in 2017 Met a Tribal President to Propose a Link Between the Tribe and Ukraine",
+      "claim": "The host says in 2017 Leavitt was seeking support connected to adopting a Cheyenne child and met the tribal president to propose a relationship between the tribe and Ukraine, involving buffalo.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:47",
+      "investigative_direction": "Check Northern Cheyenne tribal council records and Leavitt's 2017 correspondence.",
+      "transcript_snippet": "He was seeking support connected to adopting a northern Native American child, a Cheyenne child, and he met with the tribal president and proposed a relationship between the tribe and Ukraine.",
+      "mentions_person_refs": [
+        "N-883"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10551",
+      "ref": "C-10551",
+      "label": "Host Asks Why Erika's Mother Is Doing So Much on Native American Reservations",
+      "claim": "The host says Erika's mother is doing a lot of work on Native American reservations and links this to the Native American and Eastern Europe thread in the Erika series.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:47",
+      "investigative_direction": "Review the earlier Erika series claims about Lori Frantzve's reservation work and any documents cited there.",
+      "transcript_snippet": "why is her mom doing so much stuff on Native American reservations?",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10552",
+      "ref": "C-10552",
+      "label": "Host Says the Utah County Sheriff's Office Announced a 2022 Investigation Into Ritualistic Child Abuse and Trafficking From 1990 to 2010",
+      "claim": "The host says that in May and June 2022 the Utah County Sheriff's Office announced an investigation into alleged ritualistic child sexual abuse and child trafficking dating from approximately 1990 to 2010.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:27:01",
+      "investigative_direction": "Find the May and June 2022 sheriff announcement and the case outcome.",
+      "transcript_snippet": "The Utah County Sheriff's Office announced that there was an investigation into alleged ritualistic child sexual abuse and child trafficking dating back approximately uh between 1990 and 2010.",
+      "supports_claim_refs": [
+        "C-3456"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10553",
+      "ref": "C-10553",
+      "label": "Host Says TPUSA Insists on Access to High School Students",
+      "claim": "The host says TPUSA insists on wanting to have access to high school students, which alarms her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:26",
+      "investigative_direction": "Review TPUSA's high school chapter program statements and school district policies.",
+      "transcript_snippet": "their insistence on wanting to have access to high school students. It it alarms me."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10554",
+      "ref": "C-10554",
+      "label": "Host Says People Told Her Erika Ran Model Apartments in New York Housing Underage Eastern European Models",
+      "claim": "The host says people came to her saying Erika was working with a modeling agency and was in charge of modeling apartments in New York City that housed underage Eastern European models.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10698"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:26",
+      "investigative_direction": "Obtain documents showing Erika's role at the agency and the apartment arrangements; see earlier episodes' sourcing.",
+      "transcript_snippet": "when people came and said that she was working um with the modeling agency and said that she was the person that was in charge of the modeling apartments uh in New York City that had Eastern European underage models.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10555",
+      "ref": "C-10555",
+      "label": "Host Says She Emailed for a Statement Before Running the Modeling Episode and Got No Flat Denial",
+      "claim": "The host says she emailed and asked for a statement before running the modeling-apartment episode, that a flat denial would have been easy, and that Erika chose not to respond or answer those allegations.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10698"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:26",
+      "investigative_direction": "Obtain the host's outbound email and any reply or non-reply log.",
+      "transcript_snippet": "I emailed them and asked for a statement. They could have easily and flatly denied that.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10556",
+      "ref": "C-10556",
+      "label": "Host Says Faith Kates Ran the Agency Where Epstein Was Frequent, Founded by Jean-Luc Brunel",
+      "claim": "The host says Epstein frequented the office of the modeling agency run by Faith Kates, an agency started by Jean-Luc Brunel (transcribed John Luke Brunell) of France, who she says was found dead by suicide.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10524"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:26",
+      "investigative_direction": "Verify the agency's founding history, Kates's role and Brunel's connection to the New York agency.",
+      "transcript_snippet": "Faith Kates running that modeling agency and or a modeling agency that started started by John Luke Brunell uh of France who uh was found suicided as they say in France",
+      "mentions_person_refs": [
+        "N-582",
+        "N-541",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10557",
+      "ref": "C-10557",
+      "label": "Host Says Cases Involving the Same Topic Exist Among People Working for TPUSA That Day, Which She Is Withholding",
+      "claim": "The host says that among the people working for TPUSA that day, her team has found background cases involving this same topic and is holding the material for other reasons.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:26",
+      "investigative_direction": "Await publication; the host would need to name the cases and individuals.",
+      "transcript_snippet": "the people that were working that day for Turning Point USA, we have found cases that are going on in the background that involve this same topic",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10558",
+      "ref": "C-10558",
+      "label": "Host Says Paramount Tactical Was Used by TPUSA as a Green Beret Expert on the Magic Bullet",
+      "claim": "The host says TPUSA used Paramount Tactical, presented as a former Green Beret, to explain why magic bullets might split in the air and bounce off of Charlie's neck.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:04",
+      "investigative_direction": "Review the TPUSA broadcast in which Paramount Tactical appears and check for any statement about bullet splitting.",
+      "transcript_snippet": "instantly we saw Turning Point USA uh using uh Paramount Tactical and like oh he's a former Green Beret so he's he can explain to you why magic bullets might split in the air"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10559",
+      "ref": "C-10559",
+      "label": "Host Says Matt Tardio Popped Up Out of Nowhere as a TPUSA Go-To Expert",
+      "claim": "The host says TPUSA regularly brings in people like Matt Tardio because it does not want to explore the plausibility that it is not Tyler Robinson, and that Tardio popped up out of nowhere.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:04",
+      "investigative_direction": "Establish when Tardio first appeared on TPUSA platforms and what his credentials are.",
+      "transcript_snippet": "Matt Tardio is one of these individuals. Popped up out of nowhere.",
+      "mentions_person_refs": [
+        "N-601",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10560",
+      "ref": "C-10560",
+      "label": "Host Plays a Tardio Clip Filmed in Tel Aviv Shortly After Charlie's Death",
+      "claim": "The host plays what she says is an actual clip of Matt Tardio visiting Israel shortly after Charlie Kirk passed, in which he runs along the beach in Tel Aviv and argues Israel would not have killed Charlie.",
+      "anchored_artifacts": [
+        "A-2379.1"
+      ],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:17",
+      "investigative_direction": "Date the original post and compare with Tardio's travel records and TPUSA's coordination.",
+      "transcript_snippet": "I went for a run this morning over inside Tel Aviv along the beach against Gro's better judgment. And I want you guys to see something for all of you that think Israel thought it'd be a good idea to kill Charlie Kirk",
+      "mentions_person_refs": [
+        "N-601",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10561",
+      "ref": "C-10561",
+      "label": "Host Says Her Footage Shows the Maroon-Shirt Man in the Parking Lot Is Thicker Than the Court Described Tyler Robinson",
+      "claim": "The host says the footage she revealed shows that the person walking in the parking lot in a maroon shirt is much wider than Tyler Robinson was presented to be at the court hearing, and does not look like him to her eyes.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:19",
+      "investigative_direction": "Obtain the original footage and the court exhibit and compare body measurements photogrammetrically.",
+      "transcript_snippet": "the person walking in the parking lot, the maroon shirt person is thicker is is is much wider.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10562",
+      "ref": "C-10562",
+      "label": "Host Says TPUSA Brought Tardio on The Charlie Kirk Show to Debunk Her Footage Instead of Contacting Her",
+      "claim": "The host says that after she presented the footage, TPUSA did not contact her to ask for more but instead brought Matt Tardio onto The Charlie Kirk Show to debunk it.",
+      "anchored_artifacts": [
+        "A-2380.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:19",
+      "investigative_direction": "Find the episode of The Charlie Kirk Show and its air date; ask TPUSA whether anyone contacted the host.",
+      "transcript_snippet": "Instead, they brought on this Matt Tardio onto the Charlie Kirk show to debunk this.",
+      "supports_claim_refs": [
+        "C-3457"
+      ],
+      "mentions_person_refs": [
+        "N-601",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10563",
+      "ref": "C-10563",
+      "label": "Charlie Kirk Show Introduction Describes Tardio as a Former Army Ranger Sniper and Explosives Expert",
+      "claim": "In the clip, the show introduces Matt Tardio as a former Army Ranger sniper and explosives expert and the host of the Speak the Truth podcast.",
+      "anchored_artifacts": [
+        "A-2380.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:19",
+      "investigative_direction": "Check Tardio's service record, noting the host calls him a former Green Beret.",
+      "transcript_snippet": "He is a former Army Ranger sniper and explosives expert, and he's the host of Speak the Truth uh podcast.",
+      "mentions_person_refs": [
+        "N-601"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10564",
+      "ref": "C-10564",
+      "label": "Show Host Says the Video Could Be Exhibit 11 Which the Judge Did Not Allow the News Media to See",
+      "claim": "In the clip, the show host says the video the host released may be connected to exhibit 11, which the judge did not allow the news media to see at the preliminary hearing but which was shown privately in court.",
+      "anchored_artifacts": [
+        "A-2380.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:19",
+      "investigative_direction": "Review the preliminary hearing record on exhibit 11 and the court's order restricting media access.",
+      "transcript_snippet": "I believe it was exhibit 11 that the judge uh basically didn't allow to be seen by the news media during the preliminary hearing, but was shown privately in court."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10565",
+      "ref": "C-10565",
+      "label": "Tardio Says the Host's Video Was Compressed or Screen Recorded and That There Is No Such Thing as a Lateral Crawl",
+      "claim": "In the clip, Tardio says there are very clear signs the video was compressed or a screen recording before it reached the host, and says there is no such thing as a lateral crawl.",
+      "anchored_artifacts": [
+        "A-2380.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:56",
+      "investigative_direction": "Have independent video forensics experts assess the file's encoding history and the term lateral crawl.",
+      "transcript_snippet": "there's very clear signs the video was compressed or it was a screen recording or a combination of both before it ended up getting sent to her.",
+      "mentions_person_refs": [
+        "N-601",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10566",
+      "ref": "C-10566",
+      "label": "Host Says Tardio's Alleged Victim Said He Tried to Take a Fan to His Hotel Room and Carried Her Down an Alley",
+      "claim": "The host says police and Tardio's alleged victim reported that Tardio tried to take one of his fans at the Portland protest back to his hotel room, grew forceful when she refused, and carried her down an alley before she escaped.",
+      "anchored_artifacts": [
+        "A-3085.1"
+      ],
+      "related_nodes": [
+        "N-11265"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:56",
+      "investigative_direction": "Obtain the Bulwark report, the Portland police report and the court docket.",
+      "transcript_snippet": "Tardio tried to take one of his fans at the protest back to his hotel room to have sex with. When she refused, he allegedly became forceful.",
+      "supports_claim_refs": [
+        "C-3457"
+      ],
+      "mentions_person_refs": [
+        "N-601"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10567",
+      "ref": "C-10567",
+      "label": "Host Says Tardio Told a Portland Detective Antifa Activists Had Plotted to Get Him Stoned",
+      "claim": "The host says that when interviewed by a Portland detective, Tardio's explanation was that left-wing Antifa activists had plotted to get him stoned.",
+      "anchored_artifacts": [
+        "A-3085.1"
+      ],
+      "related_nodes": [
+        "N-11265"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:56",
+      "investigative_direction": "Review the detective's interview transcript if released.",
+      "transcript_snippet": "Tardio's explanation was that the left-wing Antifa activists had plotted to get him stoned.",
+      "mentions_person_refs": [
+        "N-601"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10568",
+      "ref": "C-10568",
+      "label": "Host Says Israel Is Very Good at Blackmailing People and It Shows in the Backgrounds of Israel Supporters",
+      "claim": "The host says that whenever people are married to the Israel cause you find this sort of thing in their background because Israel is very good at blackmailing people.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:02",
+      "investigative_direction": "A sweeping group claim; no checkable evidence is offered.",
+      "transcript_snippet": "you find this in their background because Israel is very good at blackmailing people."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10569",
+      "ref": "C-10569",
+      "label": "Host Says Robert Kraft Owns the New England Patriots and the Stadium",
+      "claim": "The host says Robert Kraft is a billionaire who owns the New England Patriots and the entire Patriot Stadium, and says he mounted a peer pressure campaign over Macklemore's remarks.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:41:34",
+      "investigative_direction": "Confirm stadium ownership and any communication from Kraft about the tour.",
+      "transcript_snippet": "He's a billionaire. He owns the New England Patriots, right? Um the entire Patriot Stadium, it's his.",
+      "supports_claim_refs": [
+        "C-3459"
+      ],
+      "mentions_person_refs": [
+        "N-198",
+        "N-850"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10570",
+      "ref": "C-10570",
+      "label": "Macklemore Thanks Columbia Encampment Students and Names Students for Justice in Palestine and Jewish Voices for Peace",
+      "claim": "In the clip, Macklemore says his next song was inspired by Columbia University students who led an encampment movement and thanks CUAD, Students for Justice in Palestine and Jewish Voices for Peace.",
+      "anchored_artifacts": [
+        "A-2381.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:44:05",
+      "investigative_direction": "Obtain the full concert recording.",
+      "transcript_snippet": "this next song was inspired by the bravery of Columbia University students who led an encampment movement that mobilized the entire world",
+      "supports_claim_refs": [
+        "C-3458"
+      ],
+      "mentions_person_refs": [
+        "N-850"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10571",
+      "ref": "C-10571",
+      "label": "Macklemore Calls ICE a Terrorist Organization on Stage",
+      "claim": "In the clip, Macklemore calls for freeing all people in America living in fear over what he calls this terrorist organization ICE.",
+      "anchored_artifacts": [
+        "A-2381.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:44:05",
+      "investigative_direction": "Obtain the full concert recording and note the stop and date.",
+      "transcript_snippet": "Free all people in America living in fear over this terrorist organization ICE.",
+      "supports_claim_refs": [
+        "C-3458"
+      ],
+      "mentions_person_refs": [
+        "N-850"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10572",
+      "ref": "C-10572",
+      "label": "Host Says Ed Sheeran Said He Had No Control and Blamed the Stadiums",
+      "claim": "The host says Ed Sheeran tried to say he had no control over Macklemore's removal and that the stadiums did it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:56",
+      "investigative_direction": "Obtain Ed Sheeran's public statement on the decision.",
+      "transcript_snippet": "I had no control over it. It was the stadiums that did this.",
+      "mentions_person_refs": [
+        "N-851",
+        "N-850"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10573",
+      "ref": "C-10573",
+      "label": "Host Says Three Other Tour Openers Have Dropped Out in Solidarity With Macklemore",
+      "claim": "The host says that thus far three other people associated with the tour have dropped out, namely Ed Sheeran's tour openers, in solidarity with Macklemore.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:56",
+      "investigative_direction": "Identify the three openers and the dates and wording of their withdrawal.",
+      "transcript_snippet": "thus far, three other people associated with this tour have now dropped out.",
+      "mentions_person_refs": [
+        "N-851",
+        "N-850"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10574",
+      "ref": "C-10574",
+      "label": "Host Says Ed Sheeran's Tour Has Only Three Stops Left",
+      "claim": "The host says there are only three tour stops left on Ed Sheeran's tour and calls on listeners to skip them if he goes ahead.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:56",
+      "investigative_direction": "Check the official tour schedule.",
+      "transcript_snippet": "I think there's only three um tour stops left.",
+      "mentions_person_refs": [
+        "N-851"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10575",
+      "ref": "C-10575",
+      "label": "Host Says She Is Banned From Australia Over Her Genocide Statement After Lobbying",
+      "claim": "The host says the Israel lobby has the ability to get people cancelled, fired and debanked, as with Kanye, and says she herself was banned from Australia without ever committing a crime after lobbying over her statement that genocide is always wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11099"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:56",
+      "investigative_direction": "Obtain the Australian Home Affairs decision and any documented lobbying.",
+      "transcript_snippet": "They had the ability to get me banned from a country. I've never committed a crime. I'm banned from Australia.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10576",
+      "ref": "C-10576",
+      "label": "Host Says Charlie Told Her Every Slave Colony Had More Slaves Than Masters",
+      "claim": "The host recounts that Charlie asked her what every slave colony and plantation in history had in common and then answered that there were more slaves than masters.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:02",
+      "investigative_direction": "A private recollection by the host; no independent record offered.",
+      "transcript_snippet": "And Charlie said, \"Well, there's more. There were more slaves than there were masters.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10577",
+      "ref": "C-10577",
+      "label": "Host Says Kanye Is Touring Despite Stadiums Turning Him Down by Going to Venues That Open Their Doors",
+      "claim": "The host says Kanye is on a tour and still getting turned down by stadiums, but going to the ones that open their doors.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:02",
+      "investigative_direction": "Check Kanye's current tour schedule and cancelled venues.",
+      "transcript_snippet": "He's now literally on top of a world doing a tour and still getting turned down by stadiums, but then just going to the ones that open their doors.",
+      "mentions_person_refs": [
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10578",
+      "ref": "C-10578",
+      "label": "Host Says Justin Bieber Was Sued After Cancelling the Rest of a Tour and Is Now Free and Happy",
+      "claim": "The host says Justin Bieber was sued for cancelling the rest of his tour and is now free and happy.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:02",
+      "investigative_direction": "Check the lawsuit record over the cancelled Bieber tour dates.",
+      "transcript_snippet": "Justin Bieber is finally free and happy and he doesn't even care after he got sued for cancing the rest of his tour?",
+      "mentions_person_refs": [
+        "N-884"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10579",
+      "ref": "C-10579",
+      "label": "Commenter Says Erika Forgave the Young Man Immediately, and the Host Says Alex Clark Now Pushes Repentance First",
+      "claim": "The host reads a comment saying Erika immediately forgave the young man without anyone confessing or repenting, agrees, and says Alex Clark now carries a different message that someone must repent before forgiveness.",
+      "anchored_artifacts": [
+        "A-3086.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:56:00",
+      "investigative_direction": "Compare Erika's memorial forgiveness statement with later Alex Clark remarks on repentance.",
+      "transcript_snippet": "Didn't Erika immediately forgive that young man without anyone even confessing, let alone repenting?",
+      "mentions_person_refs": [
+        "N-2",
+        "N-99"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10580",
+      "ref": "C-10580",
+      "label": "Commenter Says Tyler Limps Only as He Nears Where He Was Told the Camera Is, and the Host Noticed It Too",
+      "claim": "The host reads a comment that Tyler only limps in the video revealed the day before as he gets closer to where he was told there is a camera, and the host says she noticed that as well.",
+      "anchored_artifacts": [
+        "A-3086.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:56:00",
+      "investigative_direction": "Review the full released footage frame by frame for gait changes against camera positions.",
+      "transcript_snippet": "Tyler only limps in the video that we revealed yesterday. As he gets closer to where he's been told there is a camera, I noticed that as well.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10581",
+      "ref": "C-10581",
+      "label": "Host Says Sources Were Fearful at First but Are Now Bravely Giving Her Information",
+      "claim": "The host says people were fearful at the beginning about being a source or providing information, but that bravery is inspiring others to give her information.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:56:43",
+      "investigative_direction": "No documentary test; consider the volume of new tips over time.",
+      "transcript_snippet": "people were sort of fearful in the beginning about being a source or providing information.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10582",
+      "ref": "C-10582",
+      "label": "Host Says She Received Many Comments About Her Interview on Stephen A. Smith's Podcast",
+      "claim": "The host says she received many comments about her appearance on Stephen A. Smith's podcast.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:56:43",
+      "investigative_direction": "Find the Stephen A. Smith episode and its release date.",
+      "transcript_snippet": "I got a lot of your comments about the Stephen A. Smith podcast.",
+      "mentions_person_refs": [
+        "N-885",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10583",
+      "ref": "C-10583",
+      "label": "Host Says Erika's Media Tour Was Entirely About Debunking Her and Responded to Things She Said",
+      "claim": "The host agrees with a comment that Erika went on a media tour with Fox, Barry Weiss and Glenn Beck to paint her as a liar, saying the tour was about debunking her and directly responded to things she had said on the podcast, not things she said about Erika.",
+      "anchored_artifacts": [
+        "A-3086.3"
+      ],
+      "related_nodes": [
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:30",
+      "investigative_direction": "Review each tour interview and match Erika's remarks to the host's earlier podcast statements.",
+      "transcript_snippet": "The entire tour was about debunking Candace. She had first sent out the troops, the Alex Clark types",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3",
+        "N-284",
+        "N-242",
+        "N-99"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10584",
+      "ref": "C-10584",
+      "label": "Host Says She Was Brought Into an Office and Questioned Over Her Genocide Tweet and Told It Was Not What She Meant",
+      "claim": "The host says she still laughs at being brought into an office, questioned about her statement that genocide is always wrong, and told that it was not what she meant.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:58:28",
+      "investigative_direction": "Identify the meeting, attendees and date; obtain any minutes.",
+      "transcript_snippet": "being brought into an office and like questioned about that statement and then just totally told that. No, that's not what you meant.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10585",
+      "ref": "C-10585",
+      "label": "Host Says an Interview With John Mappin and Brandon Tatum Trended Over the Weekend",
+      "claim": "The host says the interview with John Mappin and Brandon Tatum (a commenter said it was with Piers Morgan) was trending over the weekend.",
+      "anchored_artifacts": [
+        "A-3086.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:59:30",
+      "investigative_direction": "Locate the Piers Morgan Uncensored episode and its air date.",
+      "transcript_snippet": "that was trending over the weekend, that interview with John Mappen and Brandon Tatum.",
+      "mentions_person_refs": [
+        "N-157",
+        "N-228",
+        "N-208"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10586",
+      "ref": "C-10586",
+      "label": "Host Says She Was Fishing in Iceland With Mappin and Her Husband When She Spoke to Tatum by Phone",
+      "claim": "The host says John Mappin was with her when she spoke to Brandon Tatum while she was in Iceland, fishing with Mappin and her husband, and that the call lasted about an hour and a half.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:00:00",
+      "investigative_direction": "A private recollection; confirm via the interview itself.",
+      "transcript_snippet": "John Mappen was with me when I uh spoke to Brandon Tatum when I was in Iceland just because of the time difference. So I was literally fishing in Iceland with John Mappen and my husband.",
+      "mentions_person_refs": [
+        "N-157",
+        "N-228",
+        "N-3",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10587",
+      "ref": "C-10587",
+      "label": "Host Says She and Tatum Disagree on Turning Point USA and Erika but Remain Friends",
+      "claim": "The host says she and Tatum disagree on Turning Point USA and on Erika, that Tatum is authentic in his belief about Erika, and that she expressed her contrary thoughts but it was not a major theme of their call.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:01:00",
+      "investigative_direction": "Compare with Tatum's own public statements on Erika.",
+      "transcript_snippet": "We disagree on Turning Point USA. We disagree on Erika.",
+      "mentions_person_refs": [
+        "N-228",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10588",
+      "ref": "C-10588",
+      "label": "Host Says Charlie Was Telling People in His Last Days He Would Bring Her Back and Had Turned Against Israel",
+      "claim": "The host says that in the last few days Charlie was telling people he was going to bring her back, that he had made up his mind and was turning against Israel, and calls it just a fact.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:30",
+      "investigative_direction": "Identify the people Charlie spoke to in those days and obtain their accounts or messages.",
+      "transcript_snippet": "when he was telling people that he was he was going to bring me back, but he had made up his mind and he was turning against Israel.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10589",
+      "ref": "C-10589",
+      "label": "Host Says Alex Clark and Others Call Seeking the Epstein Files Gnosticism",
+      "claim": "The host characterizes the argument (she names Alex Clark just before) as saying that not believing the CIA and seeking the Epstein files is a form of gnosticism and hidden knowledge.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:04:37",
+      "investigative_direction": "Find the Alex Clark remark and its exact wording.",
+      "transcript_snippet": "You shouldn't seek the Epstein files. That's hidden knowledge. That's a form ofnosticism.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-99",
+        "N-9"
+      ]
     }
   ],
   "memes": [
@@ -839,6 +4088,148 @@
             "debate",
             "memorial",
             "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-268",
+      "ref": "M-268",
+      "canonical_term": "Caught in 4K",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 152,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "Some might say caught in 4K, literally sexually assaulting a woman.",
+          "context": "Host teases the Tardio story in her opener.",
+          "confidence": "high",
+          "tags": [
+            "tease",
+            "tardio",
+            "opener"
+          ]
+        },
+        {
+          "episode": 152,
+          "video_timestamp": "00:40:45",
+          "speaker_node_ref": "N-3",
+          "quote": "the crime was actually caught in 4K in full detail, ironically, by surveillance cameras at the ICE facility",
+          "context": "Host repeats the phrase when telling the Tardio incident.",
+          "confidence": "high",
+          "tags": [
+            "tardio",
+            "surveillance"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-269",
+      "ref": "M-269",
+      "canonical_term": "TPUSA Is Ghetto",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 152,
+          "video_timestamp": "01:04:37",
+          "speaker_node_ref": "N-3",
+          "quote": "Turning Point is ghetto. TPUSA is ghetto now. I don't tell you guys. It's just a fact.",
+          "context": "Host's sign-off verdict on TPUSA after the Alex Clark remarks.",
+          "confidence": "high",
+          "tags": [
+            "tpusa",
+            "signoff"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-121",
+      "ref": "M-121",
+      "canonical_term": "Decoy Boy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 152,
+          "video_timestamp": "00:11:56",
+          "speaker_node_ref": "N-3",
+          "quote": "And of course, our decoy boy number one, George Zinn",
+          "context": "Host reuses her nickname for George Zinn.",
+          "confidence": "high",
+          "tags": [
+            "zinn",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 152,
+          "video_timestamp": "00:24:09",
+          "speaker_node_ref": "N-3",
+          "quote": "when Charlie said to go Max. It was problematic.",
+          "context": "Host recalls Charlie's phrase while describing the Tucker Carlson stage remarks.",
+          "confidence": "high",
+          "tags": [
+            "charlie",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 152,
+          "video_timestamp": "00:48:56",
+          "speaker_node_ref": "N-3",
+          "quote": "So, this is applying Max pressure.",
+          "context": "Host applies the Max phrase to the Macklemore tour pressure campaign.",
+          "confidence": "high",
+          "tags": [
+            "max",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 152,
+          "video_timestamp": "01:02:30",
+          "speaker_node_ref": "N-3",
+          "quote": "So, go Max indeed.",
+          "context": "Host reads a viewer comment ending in go Max.",
+          "confidence": "high",
+          "tags": [
+            "comment",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 152,
+          "video_timestamp": "00:22:24",
+          "speaker_node_ref": "N-3",
+          "quote": "again opinion allegedly according to Candace the research that I have done",
+          "context": "Host hedges her Epstein network 2018 theory.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
           ]
         }
       ]

@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–00:55:03",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7",
@@ -304,6 +304,113 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2894",
+      "family_ref": "A-2894",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2894.1",
+          "ref": "A-2894.1",
+          "description": "Host verbal reference to the tip email address (rendered 'more ttips@canzones. com' in the transcript) used to ask for help identifying the pink hat attendee (verbal call for tips)",
+          "related_claims": [
+            "C-7649"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:25:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2895",
+      "family_ref": "A-2895",
+      "bundle_name": "Mikey McCoy Call Logs Verbal Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2895.1",
+          "ref": "A-2895.1",
+          "description": "Host verbal reference to Mikey McCoy's call logs from an earlier episode (12:24 to 12:44), not shown in this episode",
+          "related_claims": [
+            "C-7635",
+            "C-7636",
+            "C-7637"
+          ],
+          "related_nodes": [
+            "N-17",
+            "N-194",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2896",
+      "family_ref": "A-2896",
+      "bundle_name": "Blake Neff Terabytes Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2896.1",
+          "ref": "A-2896.1",
+          "description": "Host verbal reference to a post by Blake Neff she saw that day touting the terabytes given to the defense (not shown)",
+          "related_claims": [
+            "C-7684"
+          ],
+          "related_nodes": [
+            "N-162",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2897",
+      "family_ref": "A-2897",
+      "bundle_name": "Project Constitution Livestream Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2897.1",
+          "ref": "A-2897.1",
+          "description": "Comment attributed to Project Constitution read aloud by the host about its court live stream",
+          "related_claims": [
+            "C-7690"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-14",
+            "N-162"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:48:14",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -377,7 +484,30 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7607",
+        "C-7618",
+        "C-7621",
+        "C-7622",
+        "C-7623",
+        "C-7624",
+        "C-7625",
+        "C-7626",
+        "C-7628",
+        "C-7634",
+        "C-7638",
+        "C-7642",
+        "C-7643",
+        "C-7644",
+        "C-7647",
+        "C-7664",
+        "C-7670",
+        "C-7680",
+        "C-7682",
+        "C-7688",
+        "C-7690",
+        "C-7692"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -393,7 +523,14 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7602",
+        "C-7603",
+        "C-7604",
+        "C-7605",
+        "C-7623",
+        "C-7635"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -409,7 +546,10 @@
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7688",
+        "C-7690"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -425,7 +565,35 @@
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7600",
+        "C-7655",
+        "C-7656",
+        "C-7657",
+        "C-7659",
+        "C-7660",
+        "C-7661",
+        "C-7662",
+        "C-7663",
+        "C-7664",
+        "C-7665",
+        "C-7666",
+        "C-7667",
+        "C-7668",
+        "C-7669",
+        "C-7670",
+        "C-7671",
+        "C-7672",
+        "C-7673",
+        "C-7674",
+        "C-7675",
+        "C-7676",
+        "C-7677",
+        "C-7678",
+        "C-7683",
+        "C-7685",
+        "C-7686"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -441,7 +609,9 @@
       "type": "person",
       "description": "TPUSA figure identified by the host as the person who tapped the donor's shoulder in church and invited her to sit with Erica. Host states Sheridan's role is donor intelligence (\"smelling money\").",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7602"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -457,7 +627,16 @@
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7605",
+        "C-7606",
+        "C-7607",
+        "C-7631",
+        "C-7632",
+        "C-7635",
+        "C-7636",
+        "C-7637"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -473,7 +652,25 @@
       "type": "person",
       "description": "Referenced as Facetime counterpart in Turek hospital narrative the host contrasts with missing fire-captain CPR.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7610",
+        "C-7611",
+        "C-7618",
+        "C-7619",
+        "C-7620",
+        "C-7621",
+        "C-7628",
+        "C-7629",
+        "C-7630",
+        "C-7631",
+        "C-7632",
+        "C-7633",
+        "C-7634",
+        "C-7636",
+        "C-7637",
+        "C-7647",
+        "C-7654"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -489,7 +686,28 @@
       "type": "person",
       "description": "Brother of Jack Hibbs; alleged by host to have been in the bush at Kirk event prior to shooting and to have lingered at scene post-shooting during media interviews.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7607",
+        "C-7608",
+        "C-7609",
+        "C-7610",
+        "C-7619",
+        "C-7620",
+        "C-7621",
+        "C-7627",
+        "C-7628",
+        "C-7629",
+        "C-7634",
+        "C-7644",
+        "C-7645",
+        "C-7646",
+        "C-7647",
+        "C-7648",
+        "C-7651",
+        "C-7652",
+        "C-7653",
+        "C-7654"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -505,13 +723,1064 @@
       "type": "person",
       "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7602"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7599",
+        "C-7600",
+        "C-7601",
+        "C-7608",
+        "C-7609",
+        "C-7611",
+        "C-7612",
+        "C-7613",
+        "C-7614",
+        "C-7615",
+        "C-7616",
+        "C-7617",
+        "C-7622",
+        "C-7623",
+        "C-7624",
+        "C-7625",
+        "C-7626",
+        "C-7646",
+        "C-7649",
+        "C-7650",
+        "C-7654",
+        "C-7655",
+        "C-7656",
+        "C-7677",
+        "C-7678",
+        "C-7679",
+        "C-7681",
+        "C-7682",
+        "C-7683",
+        "C-7684",
+        "C-7687",
+        "C-7689",
+        "C-7691"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 33,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Donald Trump; the host cites his July call to Charlie Kirk about the Epstein files.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7680"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Frank Turek; appears in the Jack Hibbs interview clip describing the hospital FaceTime.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7619",
+        "C-7629",
+        "C-7630",
+        "C-7631",
+        "C-7633",
+        "C-7636"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein; named in the host's prediction that the case ties to the Epstein network.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7681"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Rob McCoy; Calvary Chapel pastor and Mikey McCoy's father.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7605",
+        "C-7606",
+        "C-7613",
+        "C-7635",
+        "C-7637"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Tucker Carlson; named in the host's account of Blake Neff's relationship to Charlie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7692"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-54",
+      "ref": "N-54",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Lance Twiggs; his video testimony and texts figure in the hearing discussion.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7657",
+        "C-7658",
+        "C-7672",
+        "C-7673",
+        "C-7674"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Josh Hammer; named as a source of debate tips the night before.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7626"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-89",
+      "ref": "N-89",
+      "name": "Benny Johnson",
+      "type": "person",
+      "description": "Benny Johnson; named among TPUSA influencers absent from the courthouse.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7601"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Ben Shapiro; subject of the SUV-updates claim and the rivalry remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7642",
+        "C-7643",
+        "C-7688"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-107",
+      "ref": "N-107",
+      "name": "Ted Cruz",
+      "type": "person",
+      "description": "Ted Cruz; named as a politician the host says the Wilks brothers fund.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7617"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-118",
+      "ref": "N-118",
+      "name": "Marissa Strait",
+      "type": "person",
+      "description": "Marissa Strait; PragerU CEO the host says introduced her to Jack Hibbs.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7611",
+        "C-7612"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Blake Neff; named in the 911 claim, the terabytes post and the hiring-date remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7640",
+        "C-7684",
+        "C-7690",
+        "C-7692"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-221",
+      "ref": "N-221",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Elizabeth McCoy; on Mikey McCoy's call log.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7635"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-267",
+      "ref": "N-267",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "Terrell Farnsworth; the host restates his selfie video and SD card handling.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7638",
+        "C-7639"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-287",
+      "ref": "N-287",
+      "name": "Jennica Pounds",
+      "type": "person",
+      "description": "Jennica Pounds (Data Republican); named in the host's opening resemblance remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7600"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-375",
+      "ref": "N-375",
+      "name": "Danny Philip",
+      "type": "person",
+      "description": "Danny Phillip; Charlie's assistant on the call log and at the tent.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7635",
+        "C-7641",
+        "C-7645"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-496",
+      "ref": "N-496",
+      "name": "Justin Baldoni",
+      "type": "person",
+      "description": "Justin Baldoni; named in the mathematician email and kombucha aside.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7599",
+        "C-7689"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-516",
+      "ref": "N-516",
+      "name": "Nate Walker",
+      "type": "person",
+      "description": "Nate Walker; Charlie's assistant named in the 911 claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7641"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-518",
+      "ref": "N-518",
+      "name": "Christopher Bagley",
+      "type": "person",
+      "description": "Officer Christopher Bagley (host says Baggley); hearing testimony relayed by hearsay.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7659"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-581",
+      "ref": "N-581",
+      "name": "David Hull",
+      "type": "person",
+      "description": "David Hull; officer named in the hearing hearsay example.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7659"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-620",
+      "ref": "N-620",
+      "name": "Graham Allen",
+      "type": "person",
+      "description": "Graham Allen; named as absent and as a Department of War consultant.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7601",
+        "C-7679"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-680",
+      "ref": "N-680",
+      "name": "James Kaddis",
+      "type": "person",
+      "description": "James Cadis (James Kaddis); pastor spotted at the courthouse.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7603",
+        "C-7604"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7601",
+        "C-7602",
+        "C-7677",
+        "C-7679"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10013",
+      "ref": "N-10013",
+      "name": "Discord",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7685",
+        "C-7686"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10015",
+      "ref": "N-10015",
+      "name": "Mossad",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7611",
+        "C-7612",
+        "C-7620"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10019",
+      "ref": "N-10019",
+      "name": "Robinson Outfit Change Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7671"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10040",
+      "ref": "N-10040",
+      "name": "Robinson On-Campus Linger Timeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7683"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10048",
+      "ref": "N-10048",
+      "name": "Charlie Kirk Assassination Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7652",
+        "C-7653"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10077",
+      "ref": "N-10077",
+      "name": "Robinson-Lance Text Chain Authenticity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7664",
+        "C-7672",
+        "C-7673"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10131",
+      "ref": "N-10131",
+      "name": "PragerU",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7611",
+        "C-7612",
+        "C-7615"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10148",
+      "ref": "N-10148",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7622",
+        "C-7624"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10169",
+      "ref": "N-10169",
+      "name": "Josh Hammer Pre-Death Zoom Call Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7625",
+        "C-7626"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10193",
+      "ref": "N-10193",
+      "name": "Mikey McCoy Call Log Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7635",
+        "C-7636",
+        "C-7637"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10198",
+      "ref": "N-10198",
+      "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7605",
+        "C-7606"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10248",
+      "ref": "N-10248",
+      "name": "Calvary Chapel Network Infiltration Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7627"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10264",
+      "ref": "N-10264",
+      "name": "Calvary Chapel Pro-Israel Coordination",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7603",
+        "C-7613",
+        "C-7627",
+        "C-7637"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7680",
+        "C-7681"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10398",
+      "ref": "N-10398",
+      "name": "Turning Point USA Faith Structure",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7603"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10570",
+      "ref": "N-10570",
+      "name": "Defense Discovery Dumping Strategy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7684",
+        "C-7685",
+        "C-7686",
+        "C-7687"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10679",
+      "ref": "N-10679",
+      "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7657",
+        "C-7658"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10712",
+      "ref": "N-10712",
+      "name": "Ben Shapiro Car Ride Live Updates",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7642",
+        "C-7643"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10715",
+      "ref": "N-10715",
+      "name": "Blake Neff September 10th Movement Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7640"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10729",
+      "ref": "N-10729",
+      "name": "911 Call Identification Gap",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7641"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10885",
+      "ref": "N-10885",
+      "name": "Jennica Pounds DoD Special Government Employee Thread",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7600"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10888",
+      "ref": "N-10888",
+      "name": "Department of War",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7678",
+        "C-7679"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10897",
+      "ref": "N-10897",
+      "name": "Project Constitution",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7690"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10969",
+      "ref": "N-10969",
+      "name": "Trump–Charlie Kirk July 12, 2025 Scolding Call",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7680"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11057",
+      "ref": "N-11057",
+      "name": "Blake Neff Employment History Account",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7692"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11065",
+      "ref": "N-11065",
+      "name": "Preliminary Hearing Influencer Invitation Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7601"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11070",
+      "ref": "N-11070",
+      "name": "Terrell Selfie Video Metadata Timeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7638",
+        "C-7639"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-804",
+      "ref": "N-804",
+      "name": "Todd Starns",
+      "type": "person",
+      "description": "First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Starnes). Fox News figure who interviewed Jack Hibbs on audio.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7628"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11148",
+      "ref": "N-11148",
+      "name": "Wilks Family Funding Network",
+      "type": "topic",
+      "description": "The host's assertions about the Wilks brothers funding Calvary Chapel church construction, PragerU, the early Daily Wire and pro-Israel politicians.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7613",
+        "C-7614",
+        "C-7615",
+        "C-7616",
+        "C-7617"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11149",
+      "ref": "N-11149",
+      "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
+      "type": "topic",
+      "description": "The preliminary hearing, the seven charges and the defense motion to dismiss counts 1, 6 and 7, with the magistrate's ruling awaited on the broadcast date.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7655",
+        "C-7656",
+        "C-7657",
+        "C-7658",
+        "C-7659",
+        "C-7660",
+        "C-7661",
+        "C-7662",
+        "C-7663",
+        "C-7664",
+        "C-7665",
+        "C-7668",
+        "C-7669",
+        "C-7670",
+        "C-7671",
+        "C-7672",
+        "C-7673",
+        "C-7674",
+        "C-7675",
+        "C-7676",
+        "C-7677",
+        "C-7691"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 22,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11150",
+      "ref": "N-11150",
+      "name": "Aggravated Murder Single-Victim Standard and Pennsylvania Precedent",
+      "type": "topic",
+      "description": "The host's account that Utah has no single-victim aggravated murder conviction and that the prosecution relies on Pennsylvania cases despite that state's death penalty moratorium.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7661",
+        "C-7662",
+        "C-7663",
+        "C-7665",
+        "C-7666",
+        "C-7667"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -748,7 +2017,2174 @@
         "N-14",
         "N-557"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7599",
+      "ref": "C-7599",
+      "label": "Host Reads Mathematician Email Putting Baldoni Iceland Meeting at One in 80 Million",
+      "claim": "The host reads an email from a self-described mathematician who estimates about a one in 80 million chance that she would have met Justin Baldoni and his wife, the odds question she says she posed the day before about running into him in Iceland.",
+      "anchored_artifacts": [
+        "A-2320.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:01",
+      "investigative_direction": "Locate the host's prior-episode question and the original email; the odds figure is the correspondent's estimate and is not independently checkable.",
+      "transcript_snippet": "It's an approximate the probability about one in 80 million chance that you met Justin Baldoni and his wife.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-496"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7600",
+      "ref": "C-7600",
+      "label": "Host Says Jennica Pounds Resembles Tyler Robinson and Cites No Positive Evidence It Was Not Her on the Staircase",
+      "claim": "The host says Data Republican (Jennica Pounds) looks very much like Tyler Robinson and says she has no positive evidence that it was not Pounds on the UVU staircase. The host presents this as pointed mockery of Pounds, who she says attacked her for investigating the case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10885"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:06",
+      "investigative_direction": "Compare Pounds' documented whereabouts on September 10, 2025 with the UVU campus timeline; the host offers no affirmative evidence that Pounds was present.",
+      "transcript_snippet": "I have no positive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-287",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7601",
+      "ref": "C-7601",
+      "label": "Host Says Turning Point USA Influencers Skipped the Decision-Day Courthouse",
+      "claim": "The host says the Turning Point USA influencers, such as Graham Allen and Benny Johnson, did not show up at the courtroom for the decision day, unlike the preliminary hearing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:05",
+      "investigative_direction": "Compare courtroom pool footage and attendee lists from decision day against the July preliminary hearing sign-in or press seating.",
+      "transcript_snippet": "No Graham Allen, no Benny Johnson to tell us how overwhelmed we should be.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-620",
+        "N-89"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7602",
+      "ref": "C-7602",
+      "label": "Host Says Stacy Sheridan Heads TPUSA Donations and Tracy Martin Does Erika's PR",
+      "claim": "The host says Stacy Sheridan is the head of Turning Point USA donations and gifts, and that Tracy Martin does Erika Kirk's PR work.",
+      "anchored_artifacts": [
+        "A-2326.2"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:52",
+      "investigative_direction": "Check TPUSA staff and org records for Sheridan's title and Martin's contracted or informal PR role for Erika Kirk.",
+      "transcript_snippet": "Head of Turning Point USA donations and gifts, always there. Tracy Martin, I'm counting that as dad. She does Erika's PR dirty work.",
+      "mentions_person_refs": [
+        "N-190",
+        "N-557",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7603",
+      "ref": "C-7603",
+      "label": "Host Says Pastor James Cadis Is Senior Pastor at Calvary Chapel Signal Hill and a TPUSA Faith Pastor",
+      "claim": "The host says Pastor James Cadis is the senior pastor of Calvary Chapel in Signal Hill, California, and one of Erika Kirk's many TPUSA faith pastors.",
+      "anchored_artifacts": [
+        "A-2326.4"
+      ],
+      "related_nodes": [
+        "N-10398",
+        "N-10264"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:42",
+      "investigative_direction": "Check Calvary Chapel Signal Hill staff listings and TPUSA Faith advisory rosters for Cadis (transcript spelling).",
+      "transcript_snippet": "He's the senior pastor of Calvary Chapel in Signal Hill, California. He is also one of Erika Kirk's many problematic TPUSA faith pastors.",
+      "mentions_person_refs": [
+        "N-680",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7604",
+      "ref": "C-7604",
+      "label": "Host Says Cadis Hosts a Show With Erika Kirk for Her Bible 365 Brand",
+      "claim": "The host says Cadis hosts a show with Erika Kirk tied to her fashion brand, which the host calls Bible and 365.",
+      "anchored_artifacts": [
+        "A-2326.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:42",
+      "investigative_direction": "Identify the show and brand by name and confirm Cadis' role from the brand's own channels.",
+      "transcript_snippet": "He also hosts a show with her with that like fledgling, you know, fashion brand that she has, Bible and 365.",
+      "mentions_person_refs": [
+        "N-680",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7605",
+      "ref": "C-7605",
+      "label": "Host Says Mikey McCoy Walked Away Without Calling 911 and Phoned His Wife, Erika, Then His Father",
+      "claim": "The host says Mikey McCoy calmly walked away from the shooting without dialing 911, and instead phoned his wife, then Erika Kirk, then his father Rob McCoy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:33",
+      "investigative_direction": "Match the sequence against Mikey McCoy's phone records and the 911 call log.",
+      "transcript_snippet": "Mikey McCoy calmly walks away. He does not dial 911, but instead phones his wife, followed by Erika, then his father, Pastor Rob McCoy",
+      "supports_claim_refs": [
+        "C-4545"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-2",
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7606",
+      "ref": "C-7606",
+      "label": "Host Says Mikey McCoy Phoned a Second Pastor for Prayer That Day",
+      "claim": "The host says Rob McCoy told the story that his son asked him to pray, and that Mikey McCoy turned out to have phoned another pastor that day asking for prayer, setting up Jack Hibbs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:33",
+      "investigative_direction": "Obtain Mikey McCoy's call records to confirm any call to a Hibbs number and its time.",
+      "transcript_snippet": "Rob McCoy, his father, is not the only pastor that he phoned on that day asking for a prayer.",
+      "supports_claim_refs": [
+        "C-3349"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7607",
+      "ref": "C-7607",
+      "label": "Host Says Mikey McCoy Met Butch Hibbs at UVU and They Walked Charlie In Together",
+      "claim": "The host says Mikey McCoy, on arriving at UVU with Charlie Kirk, met up with Butch Hibbs, and that they walked Charlie in together with security.",
+      "anchored_artifacts": [
+        "A-2325.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:33",
+      "investigative_direction": "Review UVU arrival and walk-in video to confirm Butch Hibbs' position relative to Charlie Kirk and Mikey McCoy.",
+      "transcript_snippet": "Mikey McCoy, when he arrived at UVU with Charlie, also met up with a man named Butch Hibbs. They walked Charlie in together.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-251",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7608",
+      "ref": "C-7608",
+      "label": "Host Says Online Speculation Held Butch Hibbs Was Undercover and Carried a Road Microphone",
+      "claim": "The host says online chatter speculated that Butch Hibbs was undercover and may have carried a road microphone in his top pocket, and that she did not propagate those theories.",
+      "anchored_artifacts": [
+        "A-2325.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:33",
+      "investigative_direction": "Zoom on the high-resolution pre-event photo of Butch Hibbs' shirt pocket; the host attributes the theory to others and disclaims it.",
+      "transcript_snippet": "a lot of conspiracies that were drummed up regarding whether or not he was in fact undercover, particularly whether or not, as some people speculated, he may have been carrying a road microphone in his top pocket.",
+      "mentions_person_refs": [
+        "N-251",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7609",
+      "ref": "C-7609",
+      "label": "Host Says Online Sleuths Looked Into Butch Hibbs' Residence and a Flight to Tennessee",
+      "claim": "The host says many people looked into where Butch Hibbs lives and a flight he potentially took to Tennessee, and that her team did not engage in proliferating those conspiracies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:01",
+      "investigative_direction": "Verify any public flight or residence record only if it can be sourced; the host explicitly sets these aside.",
+      "transcript_snippet": "There were a lot of people looking into where he lives in Hebrew City, a flight that was potentially taken to Tennessee.",
+      "mentions_person_refs": [
+        "N-251",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7610",
+      "ref": "C-7610",
+      "label": "Host Says Butch Hibbs Was Born Burton Hibbs Jr. and Is Pastor Jack Hibbs' Brother",
+      "claim": "The host says Butch Hibbs was born Burton Hibbs Jr., comes from a military family, and is the brother of Pastor Jack Hibbs, senior pastor of Calvary Chapel in Chino Hills.",
+      "anchored_artifacts": [
+        "A-2325.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:01",
+      "investigative_direction": "Check Utah and California records for Burton Hibbs Jr. and any military service of the Hibbs family.",
+      "transcript_snippet": "Butch Hibbs, born Burton Hibbs, Jr., he is from a military family. His brother is Pastor Jack Hibbs, another senior pastor at Calvary Chapel Church.",
+      "supports_claim_refs": [
+        "C-1673"
+      ],
+      "mentions_person_refs": [
+        "N-251",
+        "N-212"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7611",
+      "ref": "C-7611",
+      "label": "Host Says She First Heard of Jack Hibbs From Marissa Strait, Who Suggested Him as a Guest",
+      "claim": "The host says she first heard of Pastor Jack Hibbs from Marissa Strait, whom she calls the MSAD agent turned PragerU CEO, who suggested she have him on her podcast; the host does not think it ever happened.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10131",
+        "N-10015"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:01",
+      "investigative_direction": "Check the host's own correspondence or booking records for a Hibbs invitation from Strait.",
+      "transcript_snippet": "she had suggested to me that I have him on my podcast. I don't believe it ever happened",
+      "mentions_person_refs": [
+        "N-3",
+        "N-118",
+        "N-212"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7612",
+      "ref": "C-7612",
+      "label": "Host Says Marissa Strait Was in Unit 8200 and Has Not Hidden It",
+      "claim": "The host says Marissa Strait served in Unit 8200 and has never hidden that fact, and calls her an MSAD agent (the transcript's spelling of Mossad).",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10131",
+        "N-10015"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:01",
+      "investigative_direction": "Compare Strait's own public biography and interviews for the Unit 8200 service; the Mossad label is the host's characterization.",
+      "transcript_snippet": "She was in unit 8200. She's never hidden that fact, so we're not exactly revealing or bringing any news there",
+      "mentions_person_refs": [
+        "N-118",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7613",
+      "ref": "C-7613",
+      "label": "Host Says the Wilks Brothers Fund Construction of Calvary Chapel Churches Including Rob McCoy's",
+      "claim": "The host says the billionaire Wilks brothers fund construction of some Calvary Chapel churches, including Rob McCoy's church in Thousand Oaks.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11148",
+        "N-10264"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:01",
+      "investigative_direction": "Check Wilks family foundation grants and church building permits or donor listings for Calvary Chapel Thousand Oaks.",
+      "transcript_snippet": "the same family who funds the construction of some of some of those Calvary Chapel churches like Rob McCoy's church um in Thousand Oaks are the billionaire Wilks brothers.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7614",
+      "ref": "C-7614",
+      "label": "Host Says the Wilks Brothers Are Not Evangelical Christians",
+      "claim": "The host says the Wilks brothers are not in any way evangelical Christians, which she finds strange given that they fund churches.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:01",
+      "investigative_direction": "Compare the Wilks brothers' own public statements of religious affiliation with the host's characterization.",
+      "transcript_snippet": "They are not in any way evangelical Christians. So it's kind of weird that you would fund a church that you yourself wouldn't go to.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7615",
+      "ref": "C-7615",
+      "label": "Host Says the Wilks Brothers Fund PragerU and Were Behind the Initial Daily Wire Funding",
+      "claim": "The host says the Wilks brothers also fund PragerU and were behind the initial big funding of the Daily Wire.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11148",
+        "N-10131"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:42",
+      "investigative_direction": "Check PragerU donor disclosures and Daily Wire launch-funding reporting for the Wilks family.",
+      "transcript_snippet": "They also fund Prageru. They were also behind the initial big funding of the Daily Wire.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7616",
+      "ref": "C-7616",
+      "label": "Host Says She Is Told the Wilks Brothers Fly Israeli Flags Along Their Texas Property Lines",
+      "claim": "The host says she is told the Wilks brothers fly Israeli flags along their property lines in Texas.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:42",
+      "investigative_direction": "Seek photographs or property records; the host presents it as hearsay ('I am told') without an artifact.",
+      "transcript_snippet": "Uh they fly Israeli flags along their property lines in Texas, I am told.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7617",
+      "ref": "C-7617",
+      "label": "Host Says the Wilks Brothers Fund Pro-Israel Politicians Such as Ted Cruz",
+      "claim": "The host says the Wilks brothers fund radically pro-Israel politicians like Ted Cruz, and that Israel is their main issue.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:42",
+      "investigative_direction": "Check FEC filings and Texas Ethics Commission records for Wilks family contributions to Cruz and allied PACs.",
+      "transcript_snippet": "They also fund the uh radically pro-Israel politicians like Ted Cruz.",
+      "mentions_person_refs": [
+        "N-107",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7618",
+      "ref": "C-7618",
+      "label": "Host Says Jack Hibbs Was Among the Very First to Announce Charlie's Death, on Facebook",
+      "claim": "The host says Pastor Jack Hibbs was among the very first to announce that Charlie Kirk had passed away, doing so on Facebook, and that people wondered how he knew so quickly.",
+      "anchored_artifacts": [
+        "A-2321.1"
+      ],
+      "related_nodes": [
+        "N-10818"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:42",
+      "investigative_direction": "Retrieve the original Facebook post with its timestamp (the host notes in a later episode that it was taken down) and compare with the official announcement time.",
+      "transcript_snippet": "pastor Jack Hibbs was among the very first to announce that Charlie had passed away. He did that on Facebook.",
+      "supports_claim_refs": [
+        "C-4265"
+      ],
+      "mentions_person_refs": [
+        "N-212",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7619",
+      "ref": "C-7619",
+      "label": "Turek Says in the Clip That Security Wanted to Throw Butch Hibbs Out Until He Named His Brother",
+      "claim": "In the Jack Hibbs interview clip, Frank Turek says Butch Hibbs introduced himself as Jack Hibbs' brother and that security had wanted to throw him out.",
+      "anchored_artifacts": [
+        "A-2322.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:43",
+      "investigative_direction": "Ask UVU or TPUSA security staff whether Butch Hibbs was challenged at the event and what credential he held.",
+      "transcript_snippet": "your brother was there and he goes, I'm Jack Hib's brother. That's why they security wanted to throw him out.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-212",
+        "N-251"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7620",
+      "ref": "C-7620",
+      "label": "Clip Speaker Says Some People Would Call Butch Hibbs a Covert Operative for the CIA and MSAD",
+      "claim": "In the interview clip, a speaker (the transcript does not label which man) says some people would say Butch Hibbs is a covert military operative for the CIA in conjunction with the MSAD, and that he simply loves the mountains.",
+      "anchored_artifacts": [
+        "A-2322.1"
+      ],
+      "related_nodes": [
+        "N-10015",
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:34",
+      "investigative_direction": "Listen to the original interview audio to attribute the line to a speaker; it is delivered as a joke about what others say.",
+      "transcript_snippet": "some people would say that he is a covert military operative for the CIA >> and in conjunction with the MSAD.",
+      "mentions_person_refs": [
+        "N-212",
+        "N-251"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7621",
+      "ref": "C-7621",
+      "label": "Jack Hibbs Says Butch Had Months to Ask for a Seat but Called the Night Before",
+      "claim": "In the interview clip, Jack Hibbs says his brother Butch had months to ask for a chance to meet Charlie and a decent seat but instead called the night before; Jack says he then relayed the request to Charlie.",
+      "anchored_artifacts": [
+        "A-2322.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:34",
+      "investigative_direction": "Obtain Jack Hibbs' and Charlie Kirk's phone and message records for the night of September 9 to check the relay.",
+      "transcript_snippet": "he had months to reach out to me to say, \"Hey, can you give me a chance to meet Charlie and to to get a a decent seat?\" >> But no, he calls me the night before.",
+      "supports_claim_refs": [
+        "C-3347"
+      ],
+      "mentions_person_refs": [
+        "N-212",
+        "N-251",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7622",
+      "ref": "C-7622",
+      "label": "Host Says Charlie Was Texting Donors the Night Before That He Had No Choice but to Abandon the Pro-Israel Cause",
+      "claim": "The host says that the night before the shooting Charlie Kirk was texting donors that he had no choice but to abandon the pro-Israel cause.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:51",
+      "investigative_direction": "Obtain the text messages the host has described in earlier episodes and confirm sender, recipients and timestamps.",
+      "transcript_snippet": "Charlie's texting donors that he has no choice but to abandon of all things the pro-Israel cause",
+      "supports_claim_refs": [
+        "C-4822"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7623",
+      "ref": "C-7623",
+      "label": "Host Says Erika Attributed Charlie's Sleeplessness the Night Before to Excitement",
+      "claim": "The host says that Charlie was not sleeping the night before and that Erika Kirk says this was because he was so excited about the UVU event, which the host doubts.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:51",
+      "investigative_direction": "Find Erika Kirk's original statement and compare it with Charlie's overnight messages and activity.",
+      "transcript_snippet": "Charlie's not sleeping Erika says says it's cuz he was just so excited",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7624",
+      "ref": "C-7624",
+      "label": "Host Says Charlie Was Texting That He Thought He Would Be Killed",
+      "claim": "The host says that Charlie Kirk was texting people the night before that he thought he was going to be killed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:51",
+      "investigative_direction": "Obtain the messages and recipients; the host has said she has seen related texts in earlier episodes.",
+      "transcript_snippet": "now he's texting people saying that he thinks he's going to be killed, that they're going to kill him.",
+      "supports_claim_refs": [
+        "C-5912"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7625",
+      "ref": "C-7625",
+      "label": "Host Says Charlie Was Taking Calls From Rabbis Based in Israel the Night Before",
+      "claim": "The host says Charlie Kirk was taking phone calls the night before from rabbis based in Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:51",
+      "investigative_direction": "Identify the rabbis and obtain Charlie Kirk's call logs for September 9 to confirm any calls.",
+      "transcript_snippet": "He's taking phone calls from rabbis that are based in Israel.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7626",
+      "ref": "C-7626",
+      "label": "Host Relays That the Official Story Is Charlie Sought Debate Tips From Josh Hammer and Israel-Based Rabbis",
+      "claim": "The host says the stated explanation is that Charlie Kirk needed to learn how to debate and was asking for debate tips from people like Josh Hammer and rabbis based in Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:51",
+      "investigative_direction": "Compare Josh Hammer's own account of the September 9 call with the host's summary and with who participated.",
+      "transcript_snippet": "So he was asking for debate tips from people like Josh Hammer and rabbis that are based in Israel.",
+      "supports_claim_refs": [
+        "C-2269"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-55",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7627",
+      "ref": "C-7627",
+      "label": "Host Says Butch Hibbs Is Heavily Involved in Calvary Chapel in Utah",
+      "claim": "The host says Butch Hibbs is very much involved in Calvary Chapel in Utah.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10264",
+        "N-10248"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:51",
+      "investigative_direction": "Check Calvary Chapel Utah church listings and filings for Butch or Burton Hibbs.",
+      "transcript_snippet": "And Butch Hibbs, by the way, is um very much involved in the Calvary Chapel uh Utah.",
+      "mentions_person_refs": [
+        "N-251"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7628",
+      "ref": "C-7628",
+      "label": "Jack Hibbs Tells Todd Starns That His Brother Phoned Him With Screaming Audible",
+      "claim": "In an audio-only Fox News interview with Todd Starns, Jack Hibbs says his brother called him, that he could hear people screaming and yelling, and that his brother told him Charlie had been shot.",
+      "anchored_artifacts": [
+        "A-2323.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:30",
+      "investigative_direction": "Obtain the full Starns audio and Butch Hibbs' phone records to establish when the call was placed and its duration.",
+      "transcript_snippet": "my brother's calling me and I can hear people screaming and yelling and I can hear my brother telling me, \"Charlie's just been shot.",
+      "mentions_person_refs": [
+        "N-212",
+        "N-251",
+        "N-804",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7629",
+      "ref": "C-7629",
+      "label": "Host Says It Is Unclear Whether Jack Spoke to Butch Before or After Turek's Hospital FaceTime",
+      "claim": "The host says it is unclear to her whether Jack Hibbs spoke to his brother Butch before or after he took a FaceTime call from Frank Turek at the hospital.",
+      "anchored_artifacts": [
+        "A-2323.1",
+        "A-2322.2"
+      ],
+      "related_nodes": [
+        "N-10818"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:30",
+      "investigative_direction": "Reconcile Jack Hibbs' phone log against the two accounts to fix the order of the Butch and Turek calls.",
+      "transcript_snippet": "it remains somewhat unclear to me whether Jack spoke to his brother Butch before or after he has a FaceTime session with Frank Turk from the hospital.",
+      "mentions_person_refs": [
+        "N-212",
+        "N-251",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7630",
+      "ref": "C-7630",
+      "label": "Host Says Turek FaceTimed Jack Hibbs From Timpanogos Hospital",
+      "claim": "The host says Frank Turek managed to FaceTime Jack Hibbs from Timpanogos hospital.",
+      "anchored_artifacts": [
+        "A-2322.2"
+      ],
+      "related_nodes": [
+        "N-10818"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:30",
+      "investigative_direction": "Match the FaceTime log with hospital arrival timing and hospital visitor and phone-use policies.",
+      "transcript_snippet": "Yes, Frank Turk manages to FaceTime Jack from Tempanogus.",
+      "supports_claim_refs": [
+        "C-4628"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-212"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7631",
+      "ref": "C-7631",
+      "label": "Jack Hibbs Shifts From Turek Being First Caller to Mikey McCoy Being First After Turek Says It Was at the Hospital",
+      "claim": "In the interview clip, Jack Hibbs first says he believes Turek's call came first; Turek says that was after they reached the hospital, and Jack then says he got the first call from Mikey.",
+      "anchored_artifacts": [
+        "A-2322.2"
+      ],
+      "related_nodes": [
+        "N-10818"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:14",
+      "investigative_direction": "Compare Jack Hibbs' call history timestamps with Turek's and Mikey McCoy's logs.",
+      "transcript_snippet": "I do believe you were the first one. >> That was after we got to the hospital. >> Okay. Then I got the first call from Mikey.",
+      "qualifies_claim_refs": [
+        "C-3349"
+      ],
+      "mentions_person_refs": [
+        "N-212",
+        "N-7",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7632",
+      "ref": "C-7632",
+      "label": "Jack Hibbs Says Mikey Told Him There Was So Much Blood and He Did Not Believe It",
+      "claim": "In the clip, Jack Hibbs says Mikey McCoy told him there was so much blood, was beside himself, and that Jack did not believe it at that moment.",
+      "anchored_artifacts": [
+        "A-2322.2"
+      ],
+      "related_nodes": [
+        "N-10818"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:14",
+      "investigative_direction": "Establish the time and duration of the Mikey McCoy call to Jack Hibbs from call records.",
+      "transcript_snippet": "Jack, get everyone in the world praying. >> There's so much blood. There's so much. It's >> and he was beside himself as as you can imagine.",
+      "supports_claim_refs": [
+        "C-3349"
+      ],
+      "mentions_person_refs": [
+        "N-212",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7633",
+      "ref": "C-7633",
+      "label": "Turek Says He Had Blood on Him During the FaceTime With Jack Hibbs",
+      "claim": "In the clip, Frank Turek says that he had blood on him while FaceTiming Jack Hibbs from the hospital.",
+      "anchored_artifacts": [
+        "A-2322.2"
+      ],
+      "related_nodes": [
+        "N-10818"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:14",
+      "investigative_direction": "Ask for medical or ER records of the arrival and request Turek's account of what was on his clothing.",
+      "transcript_snippet": "Then I facetimed you. I faced We were talking >> You >> So I had blood on me.",
+      "supports_claim_refs": [
+        "C-4628"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-212"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7634",
+      "ref": "C-7634",
+      "label": "Jack Hibbs Says He Hung Up on Butch After Butch Broke Down and Started Making Calls",
+      "claim": "In the clip, Jack Hibbs says that when his brother told him Charlie Kirk had been shot, Butch broke down, Jack hung up on him and started making calls.",
+      "anchored_artifacts": [
+        "A-2322.2"
+      ],
+      "related_nodes": [
+        "N-10818"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:13",
+      "investigative_direction": "Obtain Jack Hibbs' outgoing call list for the minutes after Butch's call to see who he phoned.",
+      "transcript_snippet": "And he couldn't he just broke down. I actually hung up on him and I started making calls.",
+      "mentions_person_refs": [
+        "N-212",
+        "N-251",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7635",
+      "ref": "C-7635",
+      "label": "Host Says Mikey McCoy's Call Logs Show a Continuous 12:24 to 12:44 Sequence",
+      "claim": "The host says Mikey McCoy's call logs show him on the phone from 12:24 through 12:44 with Elizabeth McCoy, Erika Kirk, his father, and then Danny Phillip for 10 minutes.",
+      "anchored_artifacts": [
+        "A-2895.1"
+      ],
+      "related_nodes": [
+        "N-10193"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:43",
+      "investigative_direction": "Re-examine the call-log artifact from the earlier episode and confirm call order, durations and counterparties.",
+      "transcript_snippet": "remember we had Mikey's call logs. He was on the phone from 12:24 all the way through to 12:44 with Elizabeth McCoy, with Erika, with his father, and then with Danny Phillip for 10 minutes.",
+      "supports_claim_refs": [
+        "C-3092"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-221",
+        "N-2",
+        "N-17",
+        "N-375"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7636",
+      "ref": "C-7636",
+      "label": "Host Says It Seems Implausible That Mikey Called Jack Before 12:30",
+      "claim": "The host says it seems implausible that Mikey McCoy called Pastor Jack Hibbs before 12:30 and before Frank Turek's FaceTime, given Mikey's call log.",
+      "anchored_artifacts": [
+        "A-2895.1"
+      ],
+      "related_nodes": [
+        "N-10193",
+        "N-10818"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:43",
+      "investigative_direction": "Check Mikey McCoy's call log for any call to a Hibbs number between 12:22 and 12:30.",
+      "transcript_snippet": "A fact would be that it seems implausible that Mikey called Pastor Jack before 12:30 before he uh then was facetimed by Frank.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-212",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7637",
+      "ref": "C-7637",
+      "label": "Host Says the Only Way Mikey Called Before 12:30 Is a Calvary Chapel Conference Call",
+      "claim": "The host says the only way Mikey could have called Jack Hibbs before 12:30 would be if there was a Calvary Chapel conference call, which might fit when he called Rob McCoy.",
+      "anchored_artifacts": [
+        "A-2895.1"
+      ],
+      "related_nodes": [
+        "N-10193",
+        "N-10264"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:43",
+      "investigative_direction": "Ask Calvary Chapel leaders whether a group call occurred and check merge-call entries in the logs.",
+      "transcript_snippet": "the only way it could be true that Mikey called him before 12:30 is this maybe there was a Calvary Chapel conference call.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-17",
+        "N-212"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7638",
+      "ref": "C-7638",
+      "label": "Host Says Terrell Recorded a Selfie Video Instead of Calling 911",
+      "claim": "The host says Terrell prematurely announced Charlie's death to himself and chose to record a selfie video rather than call 911.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11070"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:14",
+      "investigative_direction": "Obtain the selfie video with metadata and the 911 call log to confirm Terrell's call history.",
+      "transcript_snippet": "Terrell prematurely announcing Charlie's death to himself. He chose to record himself rather than to call 911. Selfie vid.",
+      "supports_claim_refs": [
+        "C-3829",
+        "C-6100"
+      ],
+      "mentions_person_refs": [
+        "N-267",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7639",
+      "ref": "C-7639",
+      "label": "Host Says Terrell Removed SD Cards and Put One Into His Computer After the Selfie",
+      "claim": "The host says that after the selfie video Terrell jumped down, was not crying, started removing SD cards and put an SD card into his computer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11070"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:14",
+      "investigative_direction": "Seek the original SD card and a forensic image of Terrell's laptop to see whether files were accessed.",
+      "transcript_snippet": "starts removing SD cards and seemingly plausibly toying around with the footage, sticking the SD card into his computer, looking around, looking shady, and getting to work.",
+      "supports_claim_refs": [
+        "C-3303"
+      ],
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7640",
+      "ref": "C-7640",
+      "label": "Host Says Blake Neff Called His Mom and Did Not Then Call 911",
+      "claim": "The host says Blake Neff called his mother and did not thereafter call 911.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:04",
+      "investigative_direction": "Match Neff's carrier records to the 911 call log, as established in earlier episodes.",
+      "transcript_snippet": "Blake Blakey called his mom. He did not thereafter call 911.",
+      "supports_claim_refs": [
+        "C-4626"
+      ],
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7641",
+      "ref": "C-7641",
+      "label": "Host Says Danny Phillip and Nate Walker Did Not Call 911 to Her Knowledge",
+      "claim": "The host says that, to her knowledge, neither Danny Phillip nor Nate Walker, Charlie's assistants, called 911.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10729"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:04",
+      "investigative_direction": "Request 911 and dispatch records for all calls between 12:23 and 12:45 and match caller numbers.",
+      "transcript_snippet": "Danny Phillip, to our knowledge, did not call 911. Neither did Nate Walker.",
+      "supports_claim_refs": [
+        "C-3828"
+      ],
+      "mentions_person_refs": [
+        "N-375",
+        "N-516"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7642",
+      "ref": "C-7642",
+      "label": "Host Says Someone in the Hospital-Bound SUV Gave Ben Shapiro's Security Team Updates",
+      "claim": "The host says she learned that someone in the hospital-bound SUV was providing updates to Ben Shapiro's security team while Charlie Kirk was dying in the back seat.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:04",
+      "investigative_direction": "Identify the SUV occupant from phone records and ask Shapiro's security team who was on the line.",
+      "transcript_snippet": "someone in the hospitalbound SUV was providing updates to Ben Shapiro security team while Charlie Kirk was dying in the back seat.",
+      "supports_claim_refs": [
+        "C-3015"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7643",
+      "ref": "C-7643",
+      "label": "Host Says Charlie Could Not Stand Ben Shapiro",
+      "claim": "The host says Ben Shapiro was the person Charlie Kirk could not stand, and that it does not seem above board that he was receiving status updates as Charlie lay dying.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:04",
+      "investigative_direction": "Collect Charlie Kirk's own statements about Shapiro and any Shapiro-Kirk correspondence.",
+      "transcript_snippet": "The person who Charlie Kirk could not stand was receiving status updates regarding his health as he lay dying",
+      "supports_claim_refs": [
+        "C-2483"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7644",
+      "ref": "C-7644",
+      "label": "Host Says Butch Hibbs Stood to the Right of Charlie in the Tent When the Explosive Went Off",
+      "claim": "The host says Butch Hibbs walked in with Charlie Kirk and was standing just to the right of Charlie and the tent when the explosive went off.",
+      "anchored_artifacts": [
+        "A-2324.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:04",
+      "investigative_direction": "Locate Butch Hibbs in pre-shot frames from multiple angles to check his position relative to Charlie and the tent.",
+      "transcript_snippet": "He's standing just to the right of Charlie and the tent when the explosive goes off.",
+      "mentions_person_refs": [
+        "N-251",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7645",
+      "ref": "C-7645",
+      "label": "Host Says Butch Hibbs Stood Next to Danny Phillip, Who Wore a Very Heavy Backpack",
+      "claim": "The host says Butch Hibbs was standing next to Danny Phillip, Charlie's assistant, who was wearing a very heavy backpack, and wonders what was in it.",
+      "anchored_artifacts": [
+        "A-2324.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:04",
+      "investigative_direction": "Determine from video the backpack's size and contents if later opened or searched; the host only wonders what was in it.",
+      "transcript_snippet": "He's standing next to Danny Phillip, Charlie's assistant, who's wearing a a very heavy backpack.",
+      "mentions_person_refs": [
+        "N-251",
+        "N-375"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7646",
+      "ref": "C-7646",
+      "label": "Host Speculates Charlie's Group Was Told to Gather Footage From Different Angles",
+      "claim": "The host says that if she did not know better she would think the people with Charlie were all told to gather footage from different angles and points, and she labels this pure speculation.",
+      "anchored_artifacts": [
+        "A-2324.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:23",
+      "investigative_direction": "Look for any instruction, message or planning document directing staff or guests to film; the host calls this speculation.",
+      "transcript_snippet": "I mean, if I didn't know any better, I would think that they were all told to gather footage from different angles and different points.",
+      "mentions_person_refs": [
+        "N-251",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7647",
+      "ref": "C-7647",
+      "label": "Host Concludes From the Clip That Butch Was Not Fleeing or Rushing to Help",
+      "claim": "The host says that in the clip Butch Hibbs is not running for his life or toward the action to help Charlie Kirk, and likely not on a call with his brother, but is calmly looking around and recording.",
+      "anchored_artifacts": [
+        "A-2324.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:12",
+      "investigative_direction": "Frame-by-frame review of the full Butch Hibbs clip, plus his phone's call and recording metadata.",
+      "transcript_snippet": "not in a phone call with his brother, not running for his life, not running toward the action to help Charlie Kirk, just calmly looking around and recording",
+      "mentions_person_refs": [
+        "N-251",
+        "N-1",
+        "N-212"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7648",
+      "ref": "C-7648",
+      "label": "Host Says Butch Hibbs Kept Recording Throughout the Clip",
+      "claim": "The host says the footage shows Butch Hibbs still recording well into the clip, without stopping.",
+      "anchored_artifacts": [
+        "A-2324.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:18",
+      "investigative_direction": "Obtain the unedited clip and note total recording duration and any pause.",
+      "transcript_snippet": "Oh, still recording. And he is just recording. I'm sorry, guys. He's still recording.",
+      "mentions_person_refs": [
+        "N-251"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7649",
+      "ref": "C-7649",
+      "label": "Host Asks Viewers to Email Tips to Identify the Pink Hat Blue Shirt Attendee",
+      "claim": "The host asks viewers who know the identity of the attendee in the pink hat and blue shirt at UVU to email her team at the tip address (rendered 'more ttips@canzones. com' in the transcript) so she can get in touch with that person.",
+      "anchored_artifacts": [
+        "A-2325.2",
+        "A-2894.1"
+      ],
+      "related_nodes": [
+        "N-10819"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:35",
+      "investigative_direction": "Receive and vet tips on the attendee's identity; confirm the person's location in other UVU photos.",
+      "transcript_snippet": "Please do email us at more ttips@canzones. com. I'm asking for a reason.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7650",
+      "ref": "C-7650",
+      "label": "Host Says the Pink Hat Blue Shirt Person Appears Often and May Have Seen Something",
+      "claim": "The host says the person in the pink hat and blue shirt, who appears to be holding a slurpee drink, is around a lot in the photos and may have seen something.",
+      "anchored_artifacts": [
+        "A-2325.2"
+      ],
+      "related_nodes": [
+        "N-10819"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:35",
+      "investigative_direction": "Compile all UVU photos and video frames showing this person and note times and positions.",
+      "transcript_snippet": "Pink hat, blue shirt, um, and looks like a slurpee drink there. That person is also around a lot and may have seen something.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7651",
+      "ref": "C-7651",
+      "label": "Host Says Butch Hibbs Was Not Visibly Upset While Standing Behind People Giving News Interviews",
+      "claim": "The host says her tracking found Butch Hibbs, not looking visibly upset, creeping behind people speaking to news stations about what they witnessed.",
+      "anchored_artifacts": [
+        "A-2324.3"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:29",
+      "investigative_direction": "Identify the news outlet, reporter and time of the interview and the original raw footage.",
+      "transcript_snippet": "we did also find him, again, not looking visibly upset, creeping behind people who are speaking to the news stations about what they witnessed.",
+      "supports_claim_refs": [
+        "C-1712"
+      ],
+      "mentions_person_refs": [
+        "N-251"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7652",
+      "ref": "C-7652",
+      "label": "Interviewee in the News Clip Says the Shot Sounded Like a 9 Millimeter, Not a .45",
+      "claim": "In the news-interview clip behind which Butch Hibbs stands, an unnamed witness says it sounded like a higher caliber, like a 9 millimeter, and not like a .45.",
+      "anchored_artifacts": [
+        "A-2324.3"
+      ],
+      "related_nodes": [
+        "N-10048"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:29",
+      "investigative_direction": "Identify the witness and compare the described sound with the forensic caliber determination on the recovered bullet.",
+      "transcript_snippet": "It sounded like a higher caliber, like a 9 millimeter. It didn't sound like a 45 or anything, but I don't know.",
+      "mentions_person_refs": [
+        "N-251"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7653",
+      "ref": "C-7653",
+      "label": "Second Interviewee Says It Almost Sounded Like a Cherry Bomb",
+      "claim": "In the same clip, an interviewee says the shot did not sound that deep and almost sounded like a cherry bomb.",
+      "anchored_artifacts": [
+        "A-2324.3"
+      ],
+      "related_nodes": [
+        "N-10048"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:29",
+      "investigative_direction": "Identify both interviewees and obtain the full interview audio and times.",
+      "transcript_snippet": "It didn't sound that deep to me. >> It almost sounded like a cherry bomb.",
+      "mentions_person_refs": [
+        "N-251"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7654",
+      "ref": "C-7654",
+      "label": "Host Says She Found No Mention by Jack Hibbs That His Brother Captured Close Footage",
+      "claim": "The host says she searched the internet and could not find any mention by Jack Hibbs that his brother captured the amazingly close footage, notes it is on Butch's phone, and asks for it to be provided.",
+      "anchored_artifacts": [
+        "A-2324.1"
+      ],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:46",
+      "investigative_direction": "Ask Jack and Butch Hibbs directly whether the recording exists and has been shared with law enforcement.",
+      "transcript_snippet": "Because Jack, we prowled the internet. We could not find any mention of him saying that his brother had captured this amazingly close footage.",
+      "mentions_person_refs": [
+        "N-212",
+        "N-251",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7655",
+      "ref": "C-7655",
+      "label": "Host Says the Preliminary Hearing Ran Across Five Days in Early July",
+      "claim": "The host says the preliminary hearing took place across five days in early July.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:24",
+      "investigative_direction": "Check the Utah Fourth District court docket for the hearing dates.",
+      "transcript_snippet": "And we know that that took place, that preliminary hearing across 5 days in early July.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7656",
+      "ref": "C-7656",
+      "label": "Host Says Utah Rule 1102 Permits Reliable Hearsay at the Preliminary Hearing",
+      "claim": "The host says she told viewers that under Utah's 1102 rule, reliable hearsay is permitted at the preliminary hearing stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:24",
+      "investigative_direction": "Read Utah Rule of Evidence 1102 and Utah Const. art. I, sec. 12 on preliminary-hearing hearsay.",
+      "transcript_snippet": "I made it very clear to you guys that under the Utah 1102 rule, reliable hearsay is permitted at that stage.",
+      "supports_claim_refs": [
+        "C-6043"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7657",
+      "ref": "C-7657",
+      "label": "Host Says Lance Twigs Could Submit Video Testimony Without Cross-Examination by the Defense",
+      "claim": "The host says it is permitted for Lance Twigs to submit video testimony and that the defense is not able to cross-examine him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10679",
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:24",
+      "investigative_direction": "Review the hearing record on Lance Twiggs' video testimony and any defense cross-exam rulings.",
+      "transcript_snippet": "perfectly acceptable under Utah's constitution for Lance Twigs to submit a video testimony. The prosecution uh sorry, the defense is not able to cross-examine him",
+      "mentions_person_refs": [
+        "N-54",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7658",
+      "ref": "C-7658",
+      "label": "Host Says Lance's Lawyer Was Allowed to Lead Him in Questioning",
+      "claim": "The host says Lance's lawyer was able to lead him in questioning at the probative hearing, where leading questions would normally draw objections.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10679",
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:24",
+      "investigative_direction": "Review the video testimony to see whether the questioning was led and whether any objection was made.",
+      "transcript_snippet": "it's probitative that Lance's lawyer is able to lead him in questioning.",
+      "mentions_person_refs": [
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7659",
+      "ref": "C-7659",
+      "label": "Host Says Officers Baggley and Hull Could Relay What They Were Told About Robinson's Vehicle and Plates",
+      "claim": "The host says officers can testify at this stage to what they were told, such as an account that Tyler Robinson's vehicle pulled to the side of the road and a witness remembered the plates.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:24",
+      "investigative_direction": "Read the hearing transcript of Bagley and Hull's testimony for the roadside-vehicle statement and its source.",
+      "transcript_snippet": "when officer Baggley gets up there or officer Hull gets up there and says he was told by someone that this happened, that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates.",
+      "mentions_person_refs": [
+        "N-518",
+        "N-581",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7660",
+      "ref": "C-7660",
+      "label": "Host Says Seven Charges Are Sought and Aggravated Murder Carries a Death Sentence",
+      "claim": "The host says the state is seeking seven charges against Tyler Robinson, the most severe being aggravated murder, which carries a death sentence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:55",
+      "investigative_direction": "Check the charging information for the seven counts and the state's notice of intent regarding the death penalty.",
+      "transcript_snippet": "the most severe and significant is the aggravated murder charge because that carries with it a death sentence.",
+      "supports_claim_refs": [
+        "C-6061"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7661",
+      "ref": "C-7661",
+      "label": "Host Says No One Has Ever Been Convicted of Aggravated Murder in Utah With a Single Victim",
+      "claim": "The host says never in Utah's history has anyone been found guilty of aggravated murder where there was just one victim, in this case one bullet.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149",
+        "N-11150"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:55",
+      "investigative_direction": "Search Utah appellate decisions on the aggravated murder statute for single-victim convictions.",
+      "transcript_snippet": "it is worth noting that never in the history of Utah has there ever been an individual found guilty of aggravated murder where there was just one victim.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7662",
+      "ref": "C-7662",
+      "label": "Host Says Aggravating Factors Usually Involve Bombs or Sprayed Gunfire Showing Intent to Murder En Masse",
+      "claim": "The host says aggravated murder typically involves an aggravating circumstance such as plotting a bomb or spraying multiple bullets into a crowd, showing an intent to murder en masse.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149",
+        "N-11150"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:55",
+      "investigative_direction": "Review the jurisprudence listed in the defense and prosecution filings on aggravating circumstances.",
+      "transcript_snippet": "typically to achieve that aggravating factor you would be dealing with a circumstance where someone and I'm giving you an example here plotted a bomb right",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7663",
+      "ref": "C-7663",
+      "label": "Host Says Prosecutors Argue Robinson Fired Only One Bullet Despite Having More Rounds",
+      "claim": "The host says the prosecution argues Tyler Robinson is the shooter but also that he chose to fire only one bullet despite having more rounds in the chamber.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149",
+        "N-11150"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:55",
+      "investigative_direction": "Read the prosecution's response to the motion to dismiss for the single-shot argument and the ballistic basis.",
+      "transcript_snippet": "they're also arguing that he only chose to fire one bullet despite having more rounds in the chamber.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7664",
+      "ref": "C-7664",
+      "label": "Host Says Alleged Texts Show a Single Target, Charlie Kirk",
+      "claim": "The host says the prosecution alleges text messages where Robinson says he is going to see Charlie Kirk and has to do it because his hate is too much to negotiate, which she says suggests a single target.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10077",
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:55",
+      "investigative_direction": "Compare the cited text messages in the probable cause statement with forensic extraction records.",
+      "transcript_snippet": "that I'm going to see Charlie Kirk and I have to do this because his hate is too much to negotiate.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7665",
+      "ref": "C-7665",
+      "label": "Host Says the Prosecution Cites Pennsylvania Law to Support the Aggravating Factor",
+      "claim": "The host says that, since Utah has no such precedent, the prosecution's response to the dismissal motion borrows from Pennsylvania law and jurisprudence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149",
+        "N-11150"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:34",
+      "investigative_direction": "Read the state's response to the motion to dismiss and list the Pennsylvania cases it cites.",
+      "transcript_snippet": "but we'd like to borrow from Pennsylvania law.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7666",
+      "ref": "C-7666",
+      "label": "Host Says the Pennsylvania Cases Involved Intent to Kill More Than One Victim",
+      "claim": "The host says the Pennsylvania cases cited involved clear intent for more than one victim, where fate intervened, such as someone spraying bullets at children where only one child was hit and died.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11150"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:34",
+      "investigative_direction": "Pull the cited Pennsylvania opinions to verify the facts the host summarizes.",
+      "transcript_snippet": "these were actually extremely special cases where actually the clear intention was for there to be more than one victim, but fate sort of intervene and prevented that from occurring.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7667",
+      "ref": "C-7667",
+      "label": "Host Says Pennsylvania Has a Moratorium on the Death Penalty",
+      "claim": "The host says Pennsylvania currently has a moratorium on its death penalty altogether, making it an odd state to cite.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11150"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:42",
+      "investigative_direction": "Confirm the Pennsylvania governor's moratorium on executions and its present status.",
+      "transcript_snippet": "Pennsylvania currently has a moratorium on their death penalty altogether.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7668",
+      "ref": "C-7668",
+      "label": "Host Says She Would Be Very Shocked If the Aggravated Murder Count Moved Forward",
+      "claim": "The host says she would be very shocked if the aggravated murder charge moved forward, and that Utah would be making history if it did.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:42",
+      "investigative_direction": "Check the magistrate's written ruling against the host's prediction.",
+      "transcript_snippet": "I would be very shocked if he moved forward with aggravating murder. Uh we would Utah would be making history in that case.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7669",
+      "ref": "C-7669",
+      "label": "Host Says Count Two Is Felony Discharge of a Firearm",
+      "claim": "The host says the second charge is felony discharge of a firearm.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:42",
+      "investigative_direction": "Confirm the count list in the amended information.",
+      "transcript_snippet": "This the second charge is for felony discharge of a firearm.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7670",
+      "ref": "C-7670",
+      "label": "Host Says Count Three Is Obstruction for Allegedly Hiding the Firearm",
+      "claim": "The host says the third charge is obstruction of justice because the prosecution alleges Tyler Robinson hid the firearm used to shoot Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:42",
+      "investigative_direction": "Check the information and probable cause statement for the facts supporting the firearm-concealment count.",
+      "transcript_snippet": "The third is for obstruction of justice because the prosecution is saying that Tyler Robinson hid the firearm that was used to shoot Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7671",
+      "ref": "C-7671",
+      "label": "Host Says Count Four Is Obstruction for Allegedly Hiding the Clothing Worn During the Shooting",
+      "claim": "The host says the fourth charge is obstruction of justice for allegedly hiding the clothing worn during the shooting, though she notes he is said to have worn the maroon shirt earlier that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149",
+        "N-10019"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:42",
+      "investigative_direction": "Compare the charged clothing with the video-documented outfit changes (see the outfit discrepancy topic).",
+      "transcript_snippet": "obstruction of justice for their allegation that uh Tyler Robinson also hid the clothing that he wore during the shooting even though we are told that he did you know wear the maroon shirt that he wore earlier that day.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7672",
+      "ref": "C-7672",
+      "label": "Host Says Count Five Is Witness Tampering for Allegedly Telling Lance to Delete an Exchange",
+      "claim": "The host says the fifth charge is witness tampering for allegedly texting Lance and telling him to delete an exchange.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149",
+        "N-10077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:42",
+      "investigative_direction": "Check the charging document and text extraction for the 'delete this exchange' message.",
+      "transcript_snippet": "Uh number five is witness tampering for allegedly texting Lance and saying delete this exchange.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7673",
+      "ref": "C-7673",
+      "label": "Host Says Count Six Is Witness Tampering for Allegedly Telling Lance Not to Speak to Police",
+      "claim": "The host says the sixth charge is also witness tampering for allegedly texting Lance and telling him not to speak to police and to lawyer up.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149",
+        "N-10077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:51",
+      "investigative_direction": "Check the charging document and text extraction for the message at issue.",
+      "transcript_snippet": "Uh the sixth charge is also witness witness tampering for allegedly texting Lance and telling him not to speak to police and to lawyer up.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7674",
+      "ref": "C-7674",
+      "label": "Host Says the Defense Argues Count Six Is Defective Because Telling Someone to Lawyer Up Is Not Tampering",
+      "claim": "The host says the defense argues count six should be dismissed on its face because telling a witness about the constitutional right to stay silent and to lawyer up is not witness tampering.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:51",
+      "investigative_direction": "Read the defense motion to dismiss and the Utah witness tampering statute.",
+      "transcript_snippet": "you're not tampering with a witness if you tell them that you have a constitutional right to stay silent and to lawyer up.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7675",
+      "ref": "C-7675",
+      "label": "Host Says Count Seven Is a Violent Offense in the Presence of a Child and the Defense Cites the Campus Setting",
+      "claim": "The host says the seventh charge is a violent offense in the presence of a child, and the defense argues the presumption on a college campus is that no minor children were present.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:51",
+      "investigative_direction": "Read the defense brief on count seven and check whether any minors appear in crowd footage.",
+      "transcript_snippet": "the presumption would be that there were no minor children present because it's a college campus.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7676",
+      "ref": "C-7676",
+      "label": "Host Says the Defense Moved to Dismiss Counts One, Six and Seven",
+      "claim": "The host says the defense filed to dismiss counts one, six and seven on their face, without litigating the evidence, and that the ruling was awaited.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:51",
+      "investigative_direction": "Read the motion to dismiss and the magistrate's written ruling when issued.",
+      "transcript_snippet": "So 1 6 and 7 is what they filed to dismiss.",
+      "supports_claim_refs": [
+        "C-3354"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7677",
+      "ref": "C-7677",
+      "label": "Host Says She Wants the Case to Move Forward for Reasons Different From TPUSA's",
+      "claim": "The host says she wants the Tyler Robinson case to move forward, for reasons different from those of Turning Point USA, because she believes it is the only way to see the corruption of government up close.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:34",
+      "investigative_direction": "Track her statements in earlier episodes on the proceedings; this is her stated motive.",
+      "transcript_snippet": "my hope has been consistent in this that I want this to move forward. Reasons are different uh from the reasons that Turning Point USA wants us to move forward.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7678",
+      "ref": "C-7678",
+      "label": "Host Says the Department of War Is Involved in Propaganda Aimed at Convicting Robinson",
+      "claim": "The host says that the Department of War is involved in propaganda and in trying to get Tyler Robinson convicted, going after people asking meaningful questions, smearing people and putting people on payroll.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10888"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:34",
+      "investigative_direction": "Obtain the emails and contracts referenced in earlier episodes and any FOIA responses.",
+      "transcript_snippet": "We now know the Department of War is involved in the propaganda um and trying to get Tyler Robinson convicted and going after people who are asking meaningful questions, smearing people, putting people on payroll.",
+      "supports_claim_refs": [
+        "C-3344"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7679",
+      "ref": "C-7679",
+      "label": "Host Says Graham Allen Was a Department of War Consultant Before Working for TPUSA",
+      "claim": "The host says Graham Allen was working as a consultant for the Department of War and then suddenly started working for Turning Point USA, doing much propaganda for them, which she reads as preparation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10888",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:34",
+      "investigative_direction": "Look for Department of War contracts or disclosure forms naming Allen and TPUSA payroll or contract records.",
+      "transcript_snippet": "Even Graham Allen, I told you that he's uh he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them.",
+      "mentions_person_refs": [
+        "N-620",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7680",
+      "ref": "C-7680",
+      "label": "Host Says Trump Called Charlie in July to Tell Him to Stop Speaking About the Epstein Files",
+      "claim": "The host says Donald Trump phoned Charlie Kirk in July telling him to stop speaking about the Epstein files.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10969",
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:34",
+      "investigative_direction": "Obtain call records or White House logs for Trump and Kirk in July 2025 and the content as described by the host's sources.",
+      "transcript_snippet": "the phone call that Charlie that Trump made to Charlie in July telling him to stop speaking about the Epstein files.",
+      "supports_claim_refs": [
+        "C-4500",
+        "C-4707"
+      ],
+      "mentions_person_refs": [
+        "N-5",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7681",
+      "ref": "C-7681",
+      "label": "Host Says She Believes the Case Will Be Tied to the Epstein Network",
+      "claim": "The host says she thinks the case will somehow be tied to the Epstein network, pointing to human trafficking themes she believes she has shown early seeds of.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:34",
+      "investigative_direction": "Assemble the host's documented links from earlier episodes; this is her stated belief.",
+      "transcript_snippet": "I also think somehow this is going to be tied to the Epstein network as I have I think demonstrated the early seeds of that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7682",
+      "ref": "C-7682",
+      "label": "Host Says She Stands by Charlie's Premonition That His Death Would Be Tied to a Wider Awakening",
+      "claim": "The host says she stands by Charlie Kirk's premonition about his death, that it would be tied to a wider awakening.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:41:34",
+      "investigative_direction": "Identify the source and date of the premonition statement she cites.",
+      "transcript_snippet": "I stand by Charlie's premonition about his death that his death would be tied to a wider awakening.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7683",
+      "ref": "C-7683",
+      "label": "Host Says She Has Always Thought Tyler Robinson Was Around Campus That Day and May Have Played a Role",
+      "claim": "The host says that a potentially innocent person, perhaps an accessory, may have played some role that day, and that she has always thought Tyler Robinson was around campus on that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10040"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:25",
+      "investigative_direction": "Review campus camera and phone-location evidence for Robinson's movements on September 10 in the prosecution exhibits.",
+      "transcript_snippet": "Perhaps he was dumping or or played some role that day, which I've always thought that he was around campus on that day.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7684",
+      "ref": "C-7684",
+      "label": "Host Says Blake Neff Touted the Terabytes of Evidence Given to the Defense",
+      "claim": "The host says Blake Neff posted today that never before has more information been given to the defense in this case, referring to terabytes of data.",
+      "anchored_artifacts": [
+        "A-2896.1"
+      ],
+      "related_nodes": [
+        "N-10570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:25",
+      "investigative_direction": "Retrieve Neff's post and compare its terabyte figure with the figures in court filings.",
+      "transcript_snippet": "For example, I saw Blake pushing today. He's like, \"Look, look at all the terabytes that was that were given. Never before has more information been given in this case to the defense.\"",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7685",
+      "ref": "C-7685",
+      "label": "Host Says Over One Million Discord Messages Were Handed to the Defense",
+      "claim": "The host says the state handed the defense, as one example, over 1 million Discord messages.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10013",
+        "N-10570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:25",
+      "investigative_direction": "Check the discovery logs and defense filings for the count of Discord messages produced.",
+      "transcript_snippet": "They handed over, as just one example, over 1 million Discord messages.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7686",
+      "ref": "C-7686",
+      "label": "Host Cites 12.1 Terabytes Handed Over Including 1 Million Discord Messages",
+      "claim": "The host says 12.1 terabytes were handed over, including 1 million Discord messages alone, asking how a defense could be ready for court in two weeks.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10570",
+        "N-10013"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:30",
+      "investigative_direction": "Find the court filing or hearing statement giving the 12.1 terabyte figure and the production timeline.",
+      "transcript_snippet": "that they handed them over of 12.1 terabytes. 1 million Discord messages alone.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7687",
+      "ref": "C-7687",
+      "label": "Host Says Over-Producing Discovery Is a Court Strategy to Bury the Other Side",
+      "claim": "The host says a party that first resists and then is forced by a court to hand over material can over-supply it so the other side's team cannot sift it, and that the prosecution is doing this and propagandizing it as openness.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:30",
+      "investigative_direction": "Compare production dates, volumes and the defense's complaints in their discovery motions.",
+      "transcript_snippet": "So what you do is you overupply. You over supply so that they have a team that it's impossible to go through.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7688",
+      "ref": "C-7688",
+      "label": "Host Says Charlie and Ben Shapiro Were Known Enemies and That Shapiro Has Announced a Tour",
+      "claim": "The host says Ben Shapiro has announced that he is on tour and that everyone knows he and Charlie Kirk were enemies, while she says Andrew Kolvet thinks he can make people forget.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:27",
+      "investigative_direction": "Collect public statements and incidents between Kirk and Shapiro and the tour announcement.",
+      "transcript_snippet": "And now he's announced that he's on tour and everyone knows they were enemies.",
+      "supports_claim_refs": [
+        "C-2483"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-1",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7689",
+      "ref": "C-7689",
+      "label": "Host Says Justin Told Her He Does Not Drink Kombucha All That Much",
+      "claim": "The host says Justin told her he does not actually drink kombucha all that much, which she rejects as unacceptable and a now-folkloric detail.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:27",
+      "investigative_direction": "Context only; no record would bear on the case.",
+      "transcript_snippet": "Justin telling me, bruising me, telling me that he doesn't actually drink kombucha all that much.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7690",
+      "ref": "C-7690",
+      "label": "Host Reads Project Constitution Saying Its Livestream Exceeds the TPUSA Show Streams Combined",
+      "claim": "The host reads a comment attributed to Project Constitution saying its live stream of the court is bigger than Andrew and Blake's and the official Charlie Kirk account live streams combined.",
+      "anchored_artifacts": [
+        "A-2897.1"
+      ],
+      "related_nodes": [
+        "N-10897"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:14",
+      "investigative_direction": "Compare concurrent viewer counts on the named streams during the hearing.",
+      "transcript_snippet": "Our live is bigger than Andrew and Blakes's and the official Charlie Kirk account live streams combined.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-162",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7691",
+      "ref": "C-7691",
+      "label": "Host Says She Held Back Material to See How the Preliminary Hearing Would Go",
+      "claim": "The host says her team has been saving a lot of material because they wanted to see which direction the preliminary hearing would go and what would be decided, before going all out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:14",
+      "investigative_direction": "Watch subsequent episodes for the material the host says she held back.",
+      "transcript_snippet": "we've been saving a lot because we wanted to see in which direction this this hearing would go, uh the preliminary hearing would go, what would be decided?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7692",
+      "ref": "C-7692",
+      "label": "Host Says Blake Neff Did Not Start Working for Charlie Until the Beginning of 2024",
+      "claim": "The host says Blake Neff did not start working until the beginning of 2024, so he knew Charlie Kirk for a year and a half and was only around because he was a good friend of Tucker Carlson.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11057"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:14",
+      "investigative_direction": "Check Neff's employment dates against payroll, bylines and his own account of his hiring (compare C-5857 and the employment-history topic).",
+      "transcript_snippet": "You you didn't even start working until the beginning of like 2024. So you knew Charlie for a year and a half",
+      "confidence": "high",
+      "contradicts_claim_refs": [
+        "C-5857"
+      ],
+      "mentions_person_refs": [
+        "N-162",
+        "N-1",
+        "N-22"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-24",
+      "ref": "M-24",
+      "canonical_term": "Yanking and Banking",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:08:45",
+          "speaker_node_ref": "N-3",
+          "quote": "en to Jack explain how that all came together to his dear friend, the Yankin and Bankan Franken Turk. Take a listen. And Charlie took pictures with...",
+          "context": "Yanking and banking gag. (CKA seq 146)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:25:35",
+          "speaker_node_ref": "N-3",
+          "quote": "Please do email us at more ttips@canzones. com.",
+          "context": "Host asks viewers to email tips to identify the pink hat and blue shirt attendee.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-155",
+      "ref": "M-155",
+      "canonical_term": "Beavis and Butt-Head",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:49:14",
+          "speaker_node_ref": "N-3",
+          "quote": "that's why we call it Bees and Butad show",
+          "context": "Host says nobody watches the Charlie Kirk show and gives it the Beavis and Butt-Head nickname (transcribed Bees and Butad).",
+          "confidence": "high",
+          "tags": [
+            "kolvet",
+            "neff",
+            "nickname"
+          ]
+        },
+        {
+          "episode": 146,
+          "video_timestamp": "00:54:16",
+          "speaker_node_ref": "N-3",
+          "quote": "The Beibus and Butudad show will go on, though",
+          "context": "Host returns to the nickname for the Kolvet and Neff show at the close.",
+          "confidence": "high",
+          "tags": [
+            "kolvet",
+            "neff",
+            "nickname"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-137",
+      "ref": "M-137",
+      "canonical_term": "Cornucopia",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:46:27",
+          "speaker_node_ref": "N-3",
+          "quote": "like telling us there is no cornicopia in the fruit of a loom logo.",
+          "context": "Host reads a comment comparing the kombucha claim to the Fruit of the Loom Mandela effect.",
+          "confidence": "high",
+          "tags": [
+            "mandela effect",
+            "comments"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:51:14",
+          "speaker_node_ref": "N-3",
+          "quote": "before we really go Max.",
+          "context": "Host says her team held material until after the preliminary hearing before going all out.",
+          "confidence": "high",
+          "tags": [
+            "go max"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-195",
+      "ref": "M-195",
+      "canonical_term": "Shady Bunch",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:22:23",
+          "speaker_node_ref": "N-3",
+          "quote": "This is the Shady Bunch.",
+          "context": "Host's label for the people who arrived with Charlie Kirk, as she sets up what Butch Hibbs did.",
+          "confidence": "high",
+          "tags": [
+            "shady bunch",
+            "nickname"
+          ]
+        },
+        {
+          "episode": 146,
+          "video_timestamp": "00:46:27",
+          "speaker_node_ref": "N-3",
+          "quote": "They really are the shady bunch.",
+          "context": "Host closes her point about TPUSA's discovery strategy.",
+          "confidence": "high",
+          "tags": [
+            "shady bunch",
+            "nickname"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-196",
+      "ref": "M-196",
+      "canonical_term": "Just Likes the Mountains",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:11:51",
+          "speaker_node_ref": "N-3",
+          "quote": "CIA MSAD, but they really just like the mountains.",
+          "context": "Host mocks the explanation that Butch Hibbs is only a mountain man.",
+          "confidence": "high",
+          "tags": [
+            "mountains",
+            "butch hibbs"
+          ]
+        },
+        {
+          "episode": 146,
+          "video_timestamp": "00:22:23",
+          "speaker_node_ref": "N-3",
+          "quote": "who loves the mountains, not the MSAD and the CIA, he loves the mountains.",
+          "context": "Host repeats the bit before asking what Butch did.",
+          "confidence": "high",
+          "tags": [
+            "mountains",
+            "butch hibbs"
+          ]
+        },
+        {
+          "episode": 146,
+          "video_timestamp": "00:23:12",
+          "speaker_node_ref": "N-3",
+          "quote": "just calmly looking around and recording as people who just love the mountains do.",
+          "context": "Host applies the bit to the footage of Butch recording.",
+          "confidence": "high",
+          "tags": [
+            "mountains",
+            "butch hibbs"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-197",
+      "ref": "M-197",
+      "canonical_term": "Your Terms Are Unacceptable",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:48:14",
+          "speaker_node_ref": "N-3",
+          "quote": "And so his terms are, like I said, unacceptable.",
+          "context": "Host rejects Justin's kombucha claim as unacceptable.",
+          "confidence": "high",
+          "tags": [
+            "kombucha",
+            "terms"
+          ]
+        }
+      ]
+    }
+  ]
 }

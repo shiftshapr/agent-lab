@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–00:58:27",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "1ddb949014d21abea78d5fe7320464c1e305ba976511e526905ea0ce305924f1",
@@ -296,6 +296,223 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2973",
+      "family_ref": "A-2973",
+      "bundle_name": "Tip Line Silver Alert Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2973.1",
+          "ref": "A-2973.1",
+          "description": "Host verbal reference to the tip line and the previous day's silver alert seeking sightings of Blake Neff in Salt Lake City on September 10th (nothing shown)",
+          "related_claims": [
+            "C-8932"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-162"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:00:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2974",
+      "family_ref": "A-2974",
+      "bundle_name": "Decentralized Intelligence Agency Tip Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2974.1",
+          "ref": "A-2974.1",
+          "description": "Host verbal call for tips on the custom Carhartt shirt to moretips@candaceowens.com",
+          "related_claims": [
+            "C-8935"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:05",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2975",
+      "family_ref": "A-2975",
+      "bundle_name": "Rooftop Video Clip Played Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2975.1",
+          "ref": "A-2975.1",
+          "description": "Clip of the widely spread rooftop video, in which a voice says the person ran in and 'now he's right there'",
+          "related_claims": [
+            "C-8946",
+            "C-8947"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2976",
+      "family_ref": "A-2976",
+      "bundle_name": "Viewer Comments Read on Air Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2976.1",
+          "ref": "A-2976.1",
+          "description": "Live comment saying the commenter does not think there was a shot from the rooftop and sees no firearm when the person jumps",
+          "related_claims": [
+            "C-8984"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:22",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2976.2",
+          "ref": "A-2976.2",
+          "description": "Truth Prevail comment about the Carhartt store in Detroit",
+          "related_claims": [
+            "C-8995"
+          ],
+          "related_nodes": [
+            "N-10723"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:47:13",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2976.3",
+          "ref": "A-2976.3",
+          "description": "Rage Raper comment about Robinson's texts and the clothing description",
+          "related_claims": [
+            "C-8998",
+            "C-8999"
+          ],
+          "related_nodes": [
+            "N-40",
+            "N-42"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:50:32",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2976.4",
+          "ref": "A-2976.4",
+          "description": "Jennifer Hover comment about Harpole, Shapiro's security updates, meta glasses and Turek",
+          "related_claims": [
+            "C-9001",
+            "C-9002",
+            "C-9003"
+          ],
+          "related_nodes": [
+            "N-276",
+            "N-7",
+            "N-272",
+            "N-97"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:27",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2976.5",
+          "ref": "A-2976.5",
+          "description": "FS Claire comment identifying the movement as IMT",
+          "related_claims": [
+            "C-9004"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2976.6",
+          "ref": "A-2976.6",
+          "description": "Comment about lawtubers who championed Rittenhouse and Depp now ready to convict Robinson",
+          "related_claims": [
+            "C-9006"
+          ],
+          "related_nodes": [
+            "N-440"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:53:50",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2977",
+      "family_ref": "A-2977",
+      "bundle_name": "Blake Neff Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2977.1",
+          "ref": "A-2977.1",
+          "description": "Clip of Blake Neff answering where he was the morning of September 10th",
+          "related_claims": [
+            "C-8994"
+          ],
+          "related_nodes": [
+            "N-162"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:47:13",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -482,7 +699,14 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8933",
+        "C-8935",
+        "C-8987",
+        "C-8988",
+        "C-8990",
+        "C-8996"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -513,7 +737,12 @@
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8936",
+        "C-8937",
+        "C-8938",
+        "C-9002"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -562,8 +791,14 @@
       "name": "Jennifer Faumuina",
       "type": "person",
       "description": "First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Filomena, Jennifer Felomina, Jennifer Faumina.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-2139.1",
+        "A-2139.2"
+      ],
+      "related_claims": [
+        "C-3027",
+        "C-3028"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -586,6 +821,942 @@
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization whose vendors, finances and conduct are discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8934",
+        "C-8993"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "State on whose behalf the influence campaign was reportedly run.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8975"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10032",
+      "ref": "N-10032",
+      "name": "Decoy Boy Operation Analysis",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's decoy theory.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8984",
+        "C-8988"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10051",
+      "ref": "N-10051",
+      "name": "Dairy Queen 6:38 Photo Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the clothes-dumping claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8989"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10053",
+      "ref": "N-10053",
+      "name": "Vacant-House / Decoy Shooter Theory",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the decoy-on-roof theory.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8984"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10098",
+      "ref": "N-10098",
+      "name": "Roof Video Provenance Chain",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the origin and spread of the rooftop clip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8945",
+        "C-8946"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10099",
+      "ref": "N-10099",
+      "name": "Shooter Description Contradiction",
+      "type": "investigation_target",
+      "description": "Existing topic reused for witness descriptions of attire, helmet and range.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8952",
+        "C-8956",
+        "C-8958",
+        "C-8987",
+        "C-8998",
+        "C-8999"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10121",
+      "ref": "N-10121",
+      "name": "Eyewitness Roof-Description Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for eyewitness rooftop descriptions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8943",
+        "C-8958"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10314",
+      "ref": "N-10314",
+      "name": "Roof Shooter Video Witness Follow-up",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's contact with the rooftop filmer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8945",
+        "C-8947"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10334",
+      "ref": "N-10334",
+      "name": "CBS Bari Weiss Town Hall Production Integrity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the town hall contrast.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8967"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10343",
+      "ref": "N-10343",
+      "name": "Tyler Robinson Rooftop Access Timeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused for timing of the figure on the roof.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8950",
+        "C-8953",
+        "C-8954",
+        "C-8955"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10358",
+      "ref": "N-10358",
+      "name": "Surgeon Quotation Authenticity Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the surgeon-call dispute.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8991",
+        "C-8992"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10381",
+      "ref": "N-10381",
+      "name": "Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Panguitch steakhouse claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9000"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10447",
+      "ref": "N-10447",
+      "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the HIPAA dispute.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8991",
+        "C-8992"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-105",
+      "ref": "N-105",
+      "name": "Thomas Matthew Crooks",
+      "type": "person",
+      "description": "Butler shooter; Helen Comperatore believes he worked with someone inside.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8968"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10588",
+      "ref": "N-10588",
+      "name": "Butler PA Investigation Closure Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Butler investigation satisfaction.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8965",
+        "C-8966"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10625",
+      "ref": "N-10625",
+      "name": "Probable Cause Hearing Exhibit Count (35 Exhibits)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the exhibits and video shown at the hearing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8959",
+        "C-9005"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10657",
+      "ref": "N-10657",
+      "name": "Salem Media Foreign Agent Registration Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Salem integration clause.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8982"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10662",
+      "ref": "N-10662",
+      "name": "2025 FARA Propaganda Timeline Convergence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for FARA filing timing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8974"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10712",
+      "ref": "N-10712",
+      "name": "Ben Shapiro Car Ride Live Updates",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the driver and security update theory.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9003"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10715",
+      "ref": "N-10715",
+      "name": "Blake Neff September 10th Movement Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Neff's September 10 whereabouts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8932",
+        "C-8994"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10716",
+      "ref": "N-10716",
+      "name": "Bank of America Merrill Lynch Personnel Network",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the parents-at-Bank-of-America chart.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8936"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10730",
+      "ref": "N-10730",
+      "name": "Frank Turek FaceTime Story Inconsistency",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the FaceTime call question.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9002"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10754",
+      "ref": "N-10754",
+      "name": "Rooftop Movement Tactical Analysis",
+      "type": "investigation_target",
+      "description": "Existing topic reused for IMT and tactical movement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9004"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10755",
+      "ref": "N-10755",
+      "name": "Weapon Discharge Visual Indicators",
+      "type": "investigation_target",
+      "description": "Existing topic reused for muzzle flash and recoil observations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8951",
+        "C-8963",
+        "C-8986"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10850",
+      "ref": "N-10850",
+      "name": "Two Grey Dodge Challengers Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the decoy Challenger rental inquiry.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8983"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10975",
+      "ref": "N-10975",
+      "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+      "type": "investigation_target",
+      "description": "Federal agency whose notes are referenced in the questioning.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8941"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10987",
+      "ref": "N-10987",
+      "name": "Charlie Kirk Inside-Shirt Rode Mic Placement",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the under-the-shirt theory.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8990"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11017",
+      "ref": "N-11017",
+      "name": "TPUSA Influencer Payment Campaign Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for paid-influencer claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8972",
+        "C-8976",
+        "C-8978",
+        "C-8980",
+        "C-9006"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11065",
+      "ref": "N-11065",
+      "name": "Preliminary Hearing Influencer Invitation Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for influencers shown footage at the hearing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9005"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host says Erika Kirk's account hung him out to dry on the surgeon quote.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8992"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Subject of the host's silver alert and a played clip on his September 10 whereabouts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8932",
+        "C-8994"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow and TPUSA CEO; the host contrasts her conduct with Helen Comperatore's and questions her surgeon-call account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8967",
+        "C-8972",
+        "C-8973",
+        "C-8991",
+        "C-8992",
+        "C-8993"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Named in a viewer comment about what happened in the car.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9003"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-276",
+      "ref": "N-276",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Viewer theory about his glasses being Meta glasses.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9001"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-284",
+      "ref": "N-284",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "The host contrasts Helen Comperatore with a widow who went on Bari Weiss's town hall.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8967"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8932",
+        "C-8933",
+        "C-8934",
+        "C-8935",
+        "C-8936",
+        "C-8943",
+        "C-8944",
+        "C-8945",
+        "C-8946",
+        "C-8947",
+        "C-8948",
+        "C-8949",
+        "C-8959",
+        "C-8963",
+        "C-8964",
+        "C-8965",
+        "C-8967",
+        "C-8972",
+        "C-8973",
+        "C-8974",
+        "C-8976",
+        "C-8983",
+        "C-8984",
+        "C-8985",
+        "C-8986",
+        "C-8987",
+        "C-8988",
+        "C-8989",
+        "C-8990",
+        "C-8991",
+        "C-8992",
+        "C-8993",
+        "C-8996",
+        "C-8997",
+        "C-8999",
+        "C-9000",
+        "C-9001",
+        "C-9002",
+        "C-9003",
+        "C-9005"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 40,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Accused; the host says she sees no evidence he fired and believes he was on campus for decoys.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8978",
+        "C-8987",
+        "C-8988",
+        "C-8989",
+        "C-8998",
+        "C-9000",
+        "C-9005",
+        "C-9006"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Man arrested early; the witness and host say he was too old and not similarly dressed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8948",
+        "C-8957",
+        "C-8999"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-463",
+      "ref": "N-463",
+      "name": "Lindsey Graham",
+      "type": "person",
+      "description": "Named in a rhetorical aside about succession.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8997"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Addressed in Helen Comperatore's appeal for answers.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8971"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-534",
+      "ref": "N-534",
+      "name": "Nicki Minaj",
+      "type": "person",
+      "description": "Named in the host's contrast about celebrity interviews.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8972"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Referenced in a viewer theory about security updates in a car.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9003"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-106",
+      "ref": "N-106",
+      "name": "Corey Comperatore",
+      "type": "person",
+      "description": "First named by the host at 00:27:44 in episode 126 (spelled Corey Comparetor and Corey Comstocker in the transcript). Firefighter, the only person killed at the 2024 Butler rally. Aliases: Corey Comparetor; Corey Comstocker.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8966"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-835",
+      "ref": "N-835",
+      "name": "Helen Comperatore",
+      "type": "person",
+      "description": "First named by the host at 00:28:31 in episode 126 (spelled Helen Compator and Helen Gambadoro in the transcript). Widow of Corey Comperatore, interviewed on NewsNation. Aliases: Helen Compator; Helen Gambadoro.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8966",
+        "C-8968",
+        "C-8969",
+        "C-8970",
+        "C-8971"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-836",
+      "ref": "N-836",
+      "name": "Eyal Yakoby",
+      "type": "person",
+      "description": "First named by the host at 00:34:37 in episode 126. Account the host says the Time article names and that she regards as paid.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8976",
+        "C-8977"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11198",
+      "ref": "N-11198",
+      "name": "Rooftop Video Missing Minute Question",
+      "type": "topic",
+      "description": "The host's statement that a minute was removed from the rooftop video shown in court, and the open question of what it showed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8959"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11199",
+      "ref": "N-11199",
+      "name": "Library 911 Calls and Lockdown",
+      "type": "topic",
+      "description": "The string of 911 calls and dispatch reports about shots near the UVU library and the library lockdown, away from the Losee Center.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8961",
+        "C-8962"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11200",
+      "ref": "N-11200",
+      "name": "Unfired .223 Round on Science Building",
+      "type": "topic",
+      "description": "Testimony the host cites about an unfired .223 round found atop the science building and the officers' answer about not acting on it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8963",
+        "C-8964"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11201",
+      "ref": "N-11201",
+      "name": "Influencable",
+      "type": "organization",
+      "description": "Company the host says Time reports Brad Parscale owned or part owned, which she says pays people by engagement to post set messages.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8979",
+        "C-8980"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "medium"
     }
@@ -859,7 +2030,1891 @@
       "mentions_person_refs": [
         "N-1"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8932",
+      "ref": "C-8932",
+      "label": "Host Says Silver Alert for Blake Neff's Sept 10 Whereabouts Drew No Tips",
+      "claim": "The host says that no one reached out to her tip line the previous day in response to her 'silver alert' asking whether anyone saw Blake Neff in Salt Lake City on September 10th.",
+      "anchored_artifacts": [
+        "A-2973.1"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Obtain the prior episode's silver-alert segment and the tip-line inbox log for the period; establish where Neff was on September 10.",
+      "transcript_snippet": "no one in the entire world reached out to our tip line yesterday in response to our silver alert. No one saw a bald man wandering around looking like he had a bad case of amnesia marking time in Salt Lake City on September 10th.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8933",
+      "ref": "C-8933",
+      "label": "Host Says Chapter Tour Shirts Were Always Provided and Carhartt Is New to TPUSA",
+      "claim": "The host says that at every Turning Point college stop she did with Charlie Kirk they wore the same t-shirts as the student chapter, provided on arrival, and that she believes Carhartt as a brand is new to TPUSA events.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10723"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:20",
+      "investigative_direction": "Compare photographs of Kirk at earlier campus stops with the September 10 shirt and ask former TPUSA event staff how tour apparel was sourced.",
+      "transcript_snippet": "At every Turning Point college stop that I ever did with Charlie, we just wore typically the same t-shirts that the student chapter was wearing, and they were provided for us when we arrived.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8934",
+      "ref": "C-8934",
+      "label": "Host Says TPUSA Employees Told Her Carhartt Is Not a Vendor",
+      "claim": "The host says she asked current and former Turning Point employees whether Carhartt was one of their vendors and was told no.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10723",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:05",
+      "investigative_direction": "Obtain TPUSA vendor and purchasing records for apparel and ask the employees on record whether Carhartt ever supplied the organization.",
+      "transcript_snippet": "I did happen to ask some Turning Point employees, former and current, if Cart Heart was one of their vendors and I was told no",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8935",
+      "ref": "C-8935",
+      "label": "Host Asks Viewers for Information on the Custom Shirt via Tip Email",
+      "claim": "The host asks viewers who know how or whether a single custom shirt was made for Charlie Kirk to email moretips@candaceowens.com.",
+      "anchored_artifacts": [
+        "A-2974.1"
+      ],
+      "related_nodes": [
+        "N-10723"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:05",
+      "investigative_direction": "Review the tips inbox for responses naming who ordered the custom Carhartt shirt.",
+      "transcript_snippet": "please do send us an email at moretips@candaceowens. com",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8936",
+      "ref": "C-8936",
+      "label": "Host Says Tyler Bowyer's Father Relocated the Family to New Jersey as a Bank of America Executive",
+      "claim": "The host says Tyler Bowyer's father temporarily moved Tyler and his family to New Jersey during the same period because he served as an executive at Bank of America, and notes that she charted several figures' parents at Bank of America Merrill Lynch.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10716",
+        "N-10720"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:05",
+      "investigative_direction": "Locate employment and residence records for Bowyer's father in New Jersey and the dates of his Bank of America executive role.",
+      "transcript_snippet": "Tyler Bowyer's dad who temporarily located Tyler and his family to New Jersey during that exact same time frame cuz he needed to serve as an executive to the Bank of America",
+      "mentions_person_refs": [
+        "N-3",
+        "N-11",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8937",
+      "ref": "C-8937",
+      "label": "Christian Post Says Turek Was Fired From Cisco Months Before Bank of America",
+      "claim": "Reading the 2011 Christian Post article, the host says Frank Turek was fired from Cisco Systems in California over an anti-gay-marriage book just months before being given the boot from Bank of America.",
+      "anchored_artifacts": [
+        "A-2142.1"
+      ],
+      "related_nodes": [
+        "N-10720"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:20",
+      "investigative_direction": "Retrieve the 2011 Christian Post article and contemporaneous coverage of the Cisco dismissal to confirm the sequence and reasons.",
+      "transcript_snippet": "just months after being fired from Cisco Systems in California over an anti-gay marriage book, Christian consultant Dr. Frank Turek was also given the boot from Bank of America.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8938",
+      "ref": "C-8938",
+      "label": "Article Says Turek Was Hired in May for Bank of America Wealth Management Team and Had Other Clients",
+      "claim": "The host reads that Turek, a US Navy veteran, was hired in May to present at a meeting of Bank of America's global business management analysis team within global wealth and investment management, and that other clients included Coca-Cola and Home Depot.",
+      "anchored_artifacts": [
+        "A-2142.1"
+      ],
+      "related_nodes": [
+        "N-10720"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:20",
+      "investigative_direction": "Verify the article text for the hiring month, the division named and the client list.",
+      "transcript_snippet": "Other clients have included Coca-Cola, Home Depot, among others. The US Navy veteran was hired in May to present at a meeting of Bank of America's global business management analysis team, which is within the global wealth and investment management.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8939",
+      "ref": "C-8939",
+      "label": "Filomena Does Not Recall Whether Nine Items Were Seized and Agrees Items Went to FBI Lab",
+      "claim": "Asked whether the seized items numbered nine, Sergeant Filomena said she did not remember, and she agreed that whatever was seized was sent to the FBI lab.",
+      "anchored_artifacts": [
+        "A-2139.1"
+      ],
+      "related_nodes": [
+        "N-10717",
+        "N-10718"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:12",
+      "investigative_direction": "Obtain the hearing transcript and the evidence item log for the library bus stop seizures to establish the item count.",
+      "transcript_snippet": "Does that ring a bell? >> I don't remember. >> Uh those whatever was seized was sent to the FBI lab for processing. >> Yes.",
+      "mentions_person_refs": [
+        "N-517"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8940",
+      "ref": "C-8940",
+      "label": "Filomena Agrees DNA and Other Analysis Was Requested on the Items",
+      "claim": "Sergeant Filomena agreed with the questioner that she was requesting both DNA and other types of analysis on the seized items.",
+      "anchored_artifacts": [
+        "A-2139.2"
+      ],
+      "related_nodes": [
+        "N-10718"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:12",
+      "investigative_direction": "Obtain the FBI lab request forms and chain-of-custody sheets for the items to see which analyses were requested.",
+      "transcript_snippet": "Was a decision at some time made and and you were requesting that both DNA and other type of analysis get done? >> Yes.",
+      "mentions_person_refs": [
+        "N-517"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8941",
+      "ref": "C-8941",
+      "label": "Filomena Says She Does Not Remember Telling the Lab to Stop but Finds It Consistent With FBI/ATF Notes",
+      "claim": "Sergeant Filomena said 'I don't remember communicating that' when asked whether she told the lab the items were unconnected, then said it would not be inconsistent with what she knows if the FBI or ATF notes recorded it, and agreed it would be fair to say the items were determined unrelated.",
+      "anchored_artifacts": [
+        "A-2139.2"
+      ],
+      "related_nodes": [
+        "N-10718",
+        "N-10975"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Obtain the FBI and ATF lab notes and reports referenced by the questioner, and the UVU communication that closed the testing request.",
+      "transcript_snippet": ">> I don't remember communicating that. >> Okay. If that's in the notes of the FBI or the ATF, would that be inconsistent with what you know? >> Uh no.",
+      "qualifies_claim_refs": [
+        "C-3028"
+      ],
+      "mentions_person_refs": [
+        "N-517"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8942",
+      "ref": "C-8942",
+      "label": "Host Says the Library Is Not Near the Losee Center Route Used in the Questioning",
+      "claim": "The host says that the questioner had established the person who jumped off the Losee Center ran a particular route, that the library is not near the Losee Center, and that this route is why the abandoned items drew attention.",
+      "anchored_artifacts": [
+        "A-2139.1"
+      ],
+      "related_nodes": [
+        "N-10717"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:52",
+      "investigative_direction": "Measure the walking distance from the Losee Center to the library bus stops and obtain the hearing testimony that set the route.",
+      "transcript_snippet": "Just so you guys know, the library is not near Loews Center.",
+      "mentions_person_refs": [
+        "N-517"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8943",
+      "ref": "C-8943",
+      "label": "Host Says a Source Told Her Early On He Was at the Bus Stop and Filed a Report on the Rooftop Figure",
+      "claim": "The host says that in her early investigation someone told her he was at the bus stop and made a report about seeing the alleged shooter on the roof, describing the person in all-black tactical gear with every part of the body covered.",
+      "anchored_artifacts": [
+        "A-2140.3"
+      ],
+      "related_nodes": [
+        "N-10717",
+        "N-10719",
+        "N-10121"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:29",
+      "investigative_direction": "Identify the report this source filed and obtain it from UVU police or the FBI.",
+      "transcript_snippet": "Back in the early investigation, my early investigation, someone had told me specifically that they were there um by the bus stop, and they actually ended up making a report about having seen the alleged youth shooter, someone on the roof",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8944",
+      "ref": "C-8944",
+      "label": "Host Says Temperature Was About 85 Degrees, Making Gloves Notable",
+      "claim": "The host says it was about 85 degrees in Utah that day, so gloves left at the bus stop are relevant, and she asks who was wearing, holding and dropping gloves and what the other six items were.",
+      "anchored_artifacts": [
+        "A-2139.1"
+      ],
+      "related_nodes": [
+        "N-10718"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:30",
+      "investigative_direction": "Pull the National Weather Service hourly record for Orem, Utah on September 10, 2025.",
+      "transcript_snippet": "I think it was literally like 85° in Utah.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8945",
+      "ref": "C-8945",
+      "label": "Host Says the Witness Spoke to Students at the Library Bus Stop and Is the Only Person Who Filmed the Gunman Going Prone",
+      "claim": "The host says her source spoke to students at the bus stop in front of the library, described the gun, and was the only person who captured the gunman on the Losee Center roof on video as he began lying prone.",
+      "anchored_artifacts": [
+        "A-2140.1"
+      ],
+      "related_nodes": [
+        "N-10314",
+        "N-10098"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:30",
+      "investigative_direction": "Reconcile with the other rooftop video (the host earlier said two roof videos exist) and obtain both files with metadata.",
+      "transcript_snippet": "This individual told me that he spoke to students at the bus stop in front of a library and he also described the gun and he was able to do that because he happened to also be the only person who captured the gunman on Lozi Center in a video as he began lying prone for the shot.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8946",
+      "ref": "C-8946",
+      "label": "Host Says His Video Was the Most Widely Spread Rooftop Video and the First to Circulate",
+      "claim": "The host says the witness's clip is the most widely spread video of the alleged shooter on the rooftop and that he was the first to circulate it.",
+      "anchored_artifacts": [
+        "A-2975.1"
+      ],
+      "related_nodes": [
+        "N-10098"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:30",
+      "investigative_direction": "Trace the earliest posting of the clip and its spread across accounts, using platform timestamps.",
+      "transcript_snippet": "I'm talking about the wide the most widely spread video of the shooter allegedly on the rooftop. This is He's the first one to have circulated that.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8947",
+      "ref": "C-8947",
+      "label": "Host Says She Tracked Down the Filmer and He Has Never Changed His Description",
+      "claim": "The host says she tracked down the person who recorded the rooftop footage, has stayed in touch since, and that he has never changed his description of the figure on the roof or the figure running away.",
+      "anchored_artifacts": [
+        "A-2975.1"
+      ],
+      "related_nodes": [
+        "N-10314"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:25",
+      "investigative_direction": "Obtain the witness's dated communications with the host and any statements he gave to authorities to test consistency.",
+      "transcript_snippet": "The person who recorded this footage is the person that I tracked down. It was not easy to track him down, but I've stayed in touch with him since and he has never changed his description",
+      "supports_claim_refs": [
+        "C-1930"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8948",
+      "ref": "C-8948",
+      "label": "Host Says the Witness Filed a Report at the UVU Command Center That the Arrested Man Was Too Old",
+      "claim": "The host says that after the witness realized police had arrested the wrong person, George Zinn, he walked to the UVU command center and filed a report saying that was not the guy because he was too old.",
+      "anchored_artifacts": [
+        "A-2140.3"
+      ],
+      "related_nodes": [
+        "N-10719"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:25",
+      "investigative_direction": "Request the UVU command center log and any written report from the afternoon of September 10 under public-records rules.",
+      "transcript_snippet": "he walked over to the UVU command center and filed a report and said that's not the guy, that can't be the guy. He's just He's too old.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8949",
+      "ref": "C-8949",
+      "label": "Host Says the Witness Works With Guns and Is Willing to Testify",
+      "claim": "The host says the witness is willing to testify and would be credible because he works with guns.",
+      "anchored_artifacts": [
+        "A-2140.1"
+      ],
+      "related_nodes": [
+        "N-10719"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:25",
+      "investigative_direction": "Confirm the witness's firearms-related occupation and whether either side has contacted him about testimony.",
+      "transcript_snippet": "he's also willing to testify. He would be a very credible witness because it happens to be that he works with guns.",
+      "supports_claim_refs": [
+        "C-1859"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8950",
+      "ref": "C-8950",
+      "label": "Witness Says the Shot Came About 5 Seconds After He Stopped Recording",
+      "claim": "In the recorded call, the witness says the person on the roof fired about 5 seconds after he stopped recording.",
+      "anchored_artifacts": [
+        "A-2140.1"
+      ],
+      "related_nodes": [
+        "N-10343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:09",
+      "investigative_direction": "Compare the clip's end time with the audio of the shot in other recordings to check the 5-second gap.",
+      "transcript_snippet": "about 5 seconds after I stopped recording is when that person fired."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8951",
+      "ref": "C-8951",
+      "label": "Witness Says He Saw No Muzzle Flash and Could Not See the Gun",
+      "claim": "The witness says he heard and felt everything but did not see a muzzle flash and could not see the gun at the time, only a head and shoulders on the roof.",
+      "anchored_artifacts": [
+        "A-2140.1"
+      ],
+      "related_nodes": [
+        "N-10755"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:09",
+      "investigative_direction": "Review the roof clip frame by frame for any flash or smoke and compare with expert analysis of visual discharge indicators.",
+      "transcript_snippet": "I saw heard everything but a muzzle flash. So, I didn't see a flash come from the edge of his gun, as you can [clears throat] see in the video. I couldn't see the gun at the time.",
+      "supports_claim_refs": [
+        "C-1857"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8952",
+      "ref": "C-8952",
+      "label": "Witness Says the Muzzle Report Sounded More Like an AR Than a Large-Bore Hunting Rifle",
+      "claim": "The witness says the muzzle report sounded more like an AR than a large-bore hunting rifle, while acknowledging he has never heard gunfire around buildings.",
+      "anchored_artifacts": [
+        "A-2140.1"
+      ],
+      "related_nodes": [
+        "N-10099"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:09",
+      "investigative_direction": "Obtain acoustic analysis of audio from several recordings of the shot and the ballistics report for the recovered rifle.",
+      "transcript_snippet": "it sounded more like a AR than a large bore hunting rifle."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8953",
+      "ref": "C-8953",
+      "label": "Witness Says It Was About 12:20, Not 12:15, and He Saw the Figure for About 30 Seconds",
+      "claim": "Asked about the federal timing of 12:15 for the person dropping onto the Losee roof, the witness says it was definitely not 12:15 but 12:20 if anything, and that the figure was in view for about 30 seconds.",
+      "anchored_artifacts": [
+        "A-2140.1"
+      ],
+      "related_nodes": [
+        "N-10343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:53",
+      "investigative_direction": "Compare the video metadata of the witness's clip with the official 12:15 roof-access time in the charging documents.",
+      "transcript_snippet": "it was definitely not 12:15. It was It was uh 12:20 if anything. He was He was in our line of view for about 30 seconds total."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8954",
+      "ref": "C-8954",
+      "label": "Witness Says He Assumed the Figure Was an Event Security Guard and Began Recording",
+      "claim": "The witness says the movement looked tactical, so he started recording because he assumed the person was a security guard heading toward the main tent, and that his video is about 20 seconds with about 10 seconds from the edge of view to the prone position.",
+      "anchored_artifacts": [
+        "A-2140.1"
+      ],
+      "related_nodes": [
+        "N-10343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:47",
+      "investigative_direction": "Match the witness's account of a 10-second approach with the roof video and any other camera angles.",
+      "transcript_snippet": "which is why I started recording because it was I assumed he was a security guard for the event."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8955",
+      "ref": "C-8955",
+      "label": "Witness Says the Figure Fired Then Lay About 5 Seconds Before Sprinting Off the Roof",
+      "claim": "The witness says the figure was in position about 20 seconds while he filmed, fired about 5 seconds after the video ended, stayed on the ground about 5 more seconds, then stood and sprinted off the roof.",
+      "anchored_artifacts": [
+        "A-2140.1"
+      ],
+      "related_nodes": [
+        "N-10343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:26",
+      "investigative_direction": "Compare against the court-shown rooftop video and the dispatch time of the first shots-fired call.",
+      "transcript_snippet": "And then firing, he was maybe on the ground for 5 more seconds before he stood up and absolutely sprinted off the roof."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8956",
+      "ref": "C-8956",
+      "label": "Witness Says He Was About 175 Yards From the Figure",
+      "claim": "The witness says he was about 175 yards from the person on the roof and has since checked the distance on Google Maps.",
+      "anchored_artifacts": [
+        "A-2140.2"
+      ],
+      "related_nodes": [
+        "N-10099"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:26",
+      "investigative_direction": "Measure the distance from the witness's vantage location to the Losee Center roof edge using mapping and survey data.",
+      "transcript_snippet": "At the range we were at, we were about 175 yd from him."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8957",
+      "ref": "C-8957",
+      "label": "Witness Says He Went Back Inside the Perimeter About an Hour Later and Showed the Command Center His Video",
+      "claim": "The witness says that about an hour after the shot he went back inside the perimeter, ran to the command center, showed his video and told officers they had the wrong guy (George Zenn).",
+      "anchored_artifacts": [
+        "A-2140.3"
+      ],
+      "related_nodes": [
+        "N-10719"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:08",
+      "investigative_direction": "Obtain command-center personnel names and any intake log or evidence receipt for the video shown that afternoon.",
+      "transcript_snippet": "I went back inside the perimeter and I ran to the command center and I showed them my video. I said, \"You guys have the wrong guy.",
+      "mentions_person_refs": [
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8958",
+      "ref": "C-8958",
+      "label": "Witness Says He Thought the Figure Wore a Black Tactical Helmet",
+      "claim": "The witness says he thought the figure was wearing a black tactical helmet because the head looked slightly larger than normal, while acknowledging the range limited his detail.",
+      "anchored_artifacts": [
+        "A-2140.2"
+      ],
+      "related_nodes": [
+        "N-10099",
+        "N-10121"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:53",
+      "investigative_direction": "Enhance the roof clip at the head region and compare with equipment recovered or listed in the evidence inventory.",
+      "transcript_snippet": "I thought he was wearing a black tactical helmet as well because [clears throat] he looked like he had a slightly larger head than than normal at that range."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8959",
+      "ref": "C-8959",
+      "label": "Host Says a Minute Was Cut From the Rooftop Video Shown in Court",
+      "claim": "The host says that, if she is correct, a minute was removed from the rooftop video the prosecution showed in court, and that nobody knows why.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11198",
+        "N-10625"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:43",
+      "investigative_direction": "Compare the video exhibit's running time shown in court with the original file's duration, and ask the court clerk for the exhibit log.",
+      "transcript_snippet": "Which by the way, they did gut if I'm correct, a minute out of the video that they showed in court.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8960",
+      "ref": "C-8960",
+      "label": "Host Says Filomena Identified the Losee-to-Library Route as the Shooter's Route",
+      "claim": "The host says that Sergeant Filomena made clear the route from the Losee Center to the library was the route the shooter took and that this is why the items were recovered.",
+      "anchored_artifacts": [
+        "A-2139.1"
+      ],
+      "related_nodes": [
+        "N-10717"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:43",
+      "investigative_direction": "Obtain the hearing transcript passage where the route was established and the evidence the officers used to draw it.",
+      "transcript_snippet": "in terms of that route, going the Losee Center over to the library, which she makes very clear that's the route that the uh the shooter took.",
+      "mentions_person_refs": [
+        "N-517"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8961",
+      "ref": "C-8961",
+      "label": "Host Says a String of 911 Calls About the Library Led to a Lockdown",
+      "claim": "The host says there was a string of 911 calls about the library in particular, which is not close to the Losee Center, and that the library was subsequently placed on lockdown.",
+      "anchored_artifacts": [
+        "A-2141.1"
+      ],
+      "related_nodes": [
+        "N-11199",
+        "N-10717"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:01",
+      "investigative_direction": "Request UVU and Utah County 911 and CAD records for the library area on September 10 and the library lockdown order.",
+      "transcript_snippet": "there was a string of 911 calls about the library in particular, which is again, not close to the Losee Center. The library was actually subsequently placed onto a lockdown."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8962",
+      "ref": "C-8962",
+      "label": "911 Audio Has Dispatcher Reporting Gunshots Near the Library and Another Report of Shots Fired There",
+      "claim": "In the played 911 audio, a dispatcher says gunshots were heard near the library at UVU, that they are trying to lock the library down, and that another report of shots fired at the UVU library had just come in.",
+      "anchored_artifacts": [
+        "A-2141.1"
+      ],
+      "related_nodes": [
+        "N-11199"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:52",
+      "investigative_direction": "Obtain the full 911 and dispatch recordings with timestamps to place these reports relative to the 12:23 shot.",
+      "transcript_snippet": "Gunshots heard near the library at UVU. They're trying to lock the library down now. So, gather >> She's saying they just got another report of shots fired at the UVU library."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8963",
+      "ref": "C-8963",
+      "label": "Host Cites Testimony of an Unfired .223 Round Found on the Science Building",
+      "claim": "The host, prompted by chat, says there was testimony about an unfired .223 round discovered on top of the science building.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11200",
+        "N-10755"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:40",
+      "investigative_direction": "Locate the hearing testimony on the .223 round, its recovery location, chain of custody and any lab analysis.",
+      "transcript_snippet": "there was also testimony about an a.223 round, unfired round, that was discovered on top of the science building.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8964",
+      "ref": "C-8964",
+      "label": "Host Says Officers Gave a Ridiculous Answer on Why They Did Not Act on the .223 Round",
+      "claim": "The host says that when officers were asked why they did not act on the unfired .223 round, they gave a ridiculous answer, including words to the effect of 'I should have pulled that'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11200"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:40",
+      "investigative_direction": "Read the hearing transcript for the officer's answer and the reported chain of custody for the round.",
+      "transcript_snippet": "And when they were questioned about why they didn't really do anything about that they were they gave a ridiculous answer and that is correct. I should have pulled that.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8965",
+      "ref": "C-8965",
+      "label": "Host Says She Earlier Speculated Corey Comperatore May Have Been Targeted",
+      "claim": "The host says that when she revisited the Butler assassination she speculated that Corey Comperatore, the only person to die that day, may have been targeted.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10588",
+        "N-10724"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:44",
+      "investigative_direction": "Locate the earlier episode where the host raised this and the evidence she cited, then check against the Butler investigation reports.",
+      "transcript_snippet": "We revisit the Butler assassination and speculated that Corey Comparetor, the only person who lost his life on that day may have even been targeted.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8966",
+      "ref": "C-8966",
+      "label": "Host Says Helen Comperatore Has Made Clear She Is Unsatisfied With the Investigation",
+      "claim": "The host says Corey Comperatore's widow Helen still has questions, spoke out, and has made it very clear she is unsatisfied with the investigation.",
+      "anchored_artifacts": [
+        "A-2143.1"
+      ],
+      "related_nodes": [
+        "N-10588",
+        "N-10724"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:31",
+      "investigative_direction": "Obtain Helen Comperatore's own statements and the NewsNation interview.",
+      "transcript_snippet": "His widow Helen still has questions and she spoke out and has made it very clear that she is unsatisfied with the investigation.",
+      "supports_claim_refs": [
+        "C-4570"
+      ],
+      "mentions_person_refs": [
+        "N-835",
+        "N-106"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8967",
+      "ref": "C-8967",
+      "label": "Host Contrasts Helen With Erika by Saying Erika Went on Barry Weiss and Trusted Everything 100% Despite Seeing Nothing",
+      "claim": "The host contrasts Helen with Erika Kirk, saying Helen was not ready to go on Barry Weiss two weeks later and say she trusts everything 100 percent despite seeing nothing, which the host frames as Erika's conduct.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10334"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:31",
+      "investigative_direction": "Retrieve the CBS town hall transcript and date and check what Erika Kirk said about trusting the investigation.",
+      "transcript_snippet": "She wasn't ready to go on Barry Weiss two weeks later and say she trusts everything 100% despite seeing nothing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-284"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8968",
+      "ref": "C-8968",
+      "label": "Comperatore Says She Does Not Believe There Was a Second Shooter but Thinks Crooks Had Help",
+      "claim": "In the NewsNation clip, Helen Comperatore says she does not believe there was another shooter but believes Thomas Crooks was working with somebody inside.",
+      "anchored_artifacts": [
+        "A-2143.1"
+      ],
+      "related_nodes": [
+        "N-10724",
+        "N-10721"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:15",
+      "investigative_direction": "Obtain the full NewsNation interview and compare with Butler investigation findings on any accomplice.",
+      "transcript_snippet": "I don't believe there was another shooter there, but I believe that he was working with somebody.",
+      "supports_claim_refs": [
+        "C-3037"
+      ],
+      "mentions_person_refs": [
+        "N-835",
+        "N-105"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8969",
+      "ref": "C-8969",
+      "label": "Comperatore Agrees the Butler Event Was Political",
+      "claim": "In the NewsNation clip, asked whether it was political, Helen Comperatore answers yes and 'Absolutely.'",
+      "anchored_artifacts": [
+        "A-2143.1"
+      ],
+      "related_nodes": [
+        "N-10724"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:02",
+      "investigative_direction": "Obtain the full interview to see whether she names any political motive or actor.",
+      "transcript_snippet": "And this was a political >> Oh, yeah. >> political >> Absolutely. Yep. >> Have you seen evidence to that?",
+      "mentions_person_refs": [
+        "N-835"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8970",
+      "ref": "C-8970",
+      "label": "Comperatore Says She Has Been Told Things and Something Happened to Her That Made the Pieces Fit",
+      "claim": "Asked whether she has seen evidence of an inside plot, Helen Comperatore says she has been told things and that something that happened to her afterward made it make total sense as the pieces came together.",
+      "anchored_artifacts": [
+        "A-2143.1"
+      ],
+      "related_nodes": [
+        "N-10724",
+        "N-10721"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:02",
+      "investigative_direction": "Ask the Comperatore family and the interviewer what she was told and what event she referred to.",
+      "transcript_snippet": "Oh, I've been told things, but I've had something that happened with me that just afterwards and you're starting to put the pieces together, it just made total sense.",
+      "mentions_person_refs": [
+        "N-835"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8971",
+      "ref": "C-8971",
+      "label": "Comperatore's Message to Trump Is Not to Forget Them and That They Need Answers",
+      "claim": "Asked what she would tell President Trump, Helen Comperatore says to not forget them and what they went through that day, and that they are still here and need answers.",
+      "anchored_artifacts": [
+        "A-2143.1"
+      ],
+      "related_nodes": [
+        "N-10724"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:34",
+      "investigative_direction": "Check whether the White House or Secret Service responded to the Comperatore family's request after the interview.",
+      "transcript_snippet": "Just to don't forget us and remember what we went through that day. You know, we're still here and we need answers.",
+      "mentions_person_refs": [
+        "N-835",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8972",
+      "ref": "C-8972",
+      "label": "Host Implies DOJ, an 'Emotional Asset' and Famous Interviewers Boosted Another Widow",
+      "claim": "The host says Helen's pain needs no Department of Justice, 'an emotional asset', boosting a person, or interviews with famous people such as Nicki Minaj, which the host contrasts with Erika Kirk's treatment.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11017"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:50",
+      "investigative_direction": "Identify any DOJ amplification of Erika Kirk and the Nicki Minaj interview the host references.",
+      "transcript_snippet": "You don't need uh the Department of Justice, an emotional asset, boosting a person, um interviews with famous people. You don't need Nicki Minaj.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-534",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8973",
+      "ref": "C-8973",
+      "label": "Host Says Erika Was in the Office Laughing at an Emoji Six Days Later",
+      "claim": "The host says she did not expect Erika Kirk to be in the office laughing at an emoji six days after the assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:39",
+      "investigative_direction": "Obtain the September 16 all-staff call recording referred to in the earlier claim and review the exchange.",
+      "transcript_snippet": "Didn't expect her in the office laughing at emoji 6 days later.",
+      "supports_claim_refs": [
+        "C-2207"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8974",
+      "ref": "C-8974",
+      "label": "Host Says the FARA Filings Came Almost Immediately After the Assassination",
+      "claim": "The host says the FARA filings for the Israeli influence operation, with Clock Tower X, were made almost immediately after Charlie Kirk's assassination.",
+      "anchored_artifacts": [
+        "A-2144.1"
+      ],
+      "related_nodes": [
+        "N-10722",
+        "N-10662"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:37",
+      "investigative_direction": "Check the FARA database filing dates for Clock Tower X and related registrants.",
+      "transcript_snippet": "the bot campaign, the Israeli influence operation, the Faradox that were filed um following Charlie's assassination, almost immediately following Charlie's assassination, Clock Clock Tower X.",
+      "supports_claim_refs": [
+        "C-2863"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-440"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8975",
+      "ref": "C-8975",
+      "label": "Host Says the Israeli Foreign Minister Hired Parscale's Clock Tower X for a Digital Campaign",
+      "claim": "The host says the Israeli foreign minister hired Brad Parscale's firm Clock Tower X to run a digital campaign on behalf of the state of Israel.",
+      "anchored_artifacts": [
+        "A-2144.1"
+      ],
+      "related_nodes": [
+        "N-10722",
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:37",
+      "investigative_direction": "Read the FARA registration statement and contract for Clock Tower X and its Israeli client.",
+      "transcript_snippet": "the Israeli foreign minister quite literally hiring uh Brad Parscale, the former Trump campaign manager, his firm Clock Tower X to conduct a digital campaign on behalf of the state of Israel",
+      "supports_claim_refs": [
+        "C-2864"
+      ],
+      "mentions_person_refs": [
+        "N-440"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8976",
+      "ref": "C-8976",
+      "label": "Host Says Time Names Eyal Yakoby and That He Posts About 300 Times a Day",
+      "claim": "The host says the Time article names Eyal Yakoby, whom she says she blocked long ago as an obvious paid account, and describes his posting as about 300 posts a day.",
+      "anchored_artifacts": [
+        "A-2144.1"
+      ],
+      "related_nodes": [
+        "N-10722",
+        "N-11017"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:37",
+      "investigative_direction": "Read the Time article for how Yakoby is described and whether he or his representatives responded or confirmed payment.",
+      "transcript_snippet": "Eyal Yakoby, I blocked him so long ago. It was so obvious that he was a paid stooge. Every single post, like a 300 posts a day.",
+      "mentions_person_refs": [
+        "N-836",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8977",
+      "ref": "C-8977",
+      "label": "Host Says the Named Accounts 'Had to Own' That They Are Being Paid",
+      "claim": "The host says that, regarding the accounts named, 'he kind of had to own that' and that 'they're being paid'.",
+      "anchored_artifacts": [
+        "A-2144.1"
+      ],
+      "related_nodes": [
+        "N-10722"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:39",
+      "investigative_direction": "Read the article for the on-record responses of named accounts about payment.",
+      "transcript_snippet": "And they he kind of he had to own that. These Yeah, they're being paid. We know who they are.",
+      "mentions_person_refs": [
+        "N-836"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8978",
+      "ref": "C-8978",
+      "label": "Host Says Time Shows Accounts Used the Same Words at the Same Moment, Including 'Evidence Is Overwhelming'",
+      "claim": "The host says the Time article shows trends are obvious because accounts all use the same words at the exact same time, within seconds of each other, citing the line that the evidence is overwhelming that Tyler Robinson did it.",
+      "anchored_artifacts": [
+        "A-2144.1"
+      ],
+      "related_nodes": [
+        "N-10722",
+        "N-11017"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:39",
+      "investigative_direction": "Read the article's data on timing and wording and obtain the underlying post sets.",
+      "transcript_snippet": "This is an article that is well worth read, talking about how the trends are obvious, because they're all using the same word at the exact same time, within seconds of each other.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8979",
+      "ref": "C-8979",
+      "label": "Host Says Time Reports Parscale Owned or Part Owned Influencable",
+      "claim": "The host says the Time article reports that Brad Parscale was the owner or a part owner of the company Influencable.",
+      "anchored_artifacts": [
+        "A-2144.1"
+      ],
+      "related_nodes": [
+        "N-11201",
+        "N-10722"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:39",
+      "investigative_direction": "Check corporate filings for Influencable and Time's sourcing for Parscale's ownership.",
+      "transcript_snippet": "Brad Parscale was the owner or a part owner of the company Influencable.",
+      "mentions_person_refs": [
+        "N-440"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8980",
+      "ref": "C-8980",
+      "label": "Host Says Influencable Texts People Offering Pay Based on Retweets and Post Reach",
+      "claim": "The host says the article describes Influencable texting people, offering money, and paying depending on how many people retweet them and how big the post is.",
+      "anchored_artifacts": [
+        "A-2144.1"
+      ],
+      "related_nodes": [
+        "N-11201",
+        "N-11017"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:22",
+      "investigative_direction": "Read the article's description of the payment model and obtain any sample texts it cites.",
+      "transcript_snippet": "And that's when they essentially text everyone, they offer them money, and they say, \"Go out and say this and we'll pay you depending on how many people you get to retweet you, how big your your post is.",
+      "mentions_person_refs": [
+        "N-440"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8981",
+      "ref": "C-8981",
+      "label": "Host Says the Services Agreement Called for 100 Original Pieces a Month, 80 Percent Aimed at Gen Z",
+      "claim": "The host says that under the agreement Parscale was to produce 100 original pieces of content each month and that 80 percent was initially to be aimed at Gen Z across TikTok, Instagram and YouTube.",
+      "anchored_artifacts": [
+        "A-2144.1"
+      ],
+      "related_nodes": [
+        "N-10722"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:22",
+      "investigative_direction": "Read the services agreement filed with FARA and compare the content quotas and audience targets.",
+      "transcript_snippet": "under the agreement Parscale was meant to produce 100 original pieces of content each month and 80% of it was initially supposed to be aimed at Gen Z across TikTok, Instagram, YouTube",
+      "mentions_person_refs": [
+        "N-440"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8982",
+      "ref": "C-8982",
+      "label": "Host Says the Agreement Pledged to Integrate With Salem Media Network Properties",
+      "claim": "The host says the services agreement pledged to amplify the campaign across social media and integrate the message with Salem Media Network properties targeting Christians and MAGA supporters.",
+      "anchored_artifacts": [
+        "A-2144.1"
+      ],
+      "related_nodes": [
+        "N-10722",
+        "N-10657"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:22",
+      "investigative_direction": "Read the FARA exhibits for the Salem integration clause and Salem's own registration status.",
+      "transcript_snippet": "they pledged to amplify the campaign all across social media and to integrate that message with the Salem media network properties which we have discussed on this show targeting Christians targeting MAGA supporters",
+      "supports_claim_refs": [
+        "C-2865"
+      ],
+      "mentions_person_refs": [
+        "N-440"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8983",
+      "ref": "C-8983",
+      "label": "Host Says She Is Seeking Evidence That Decoy Dodge Challengers Were Rented on the 9th and 10th",
+      "claim": "The host says she is looking for what she thinks could also be decoy Dodge Challengers and asks dealership workers whether the car was rented out on the 9th or the 10th.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10850"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:45",
+      "investigative_direction": "Obtain rental and dealership records for grey Dodge Challengers in the Salt Lake and Utah County area for September 9 and 10.",
+      "transcript_snippet": "we're kind of looking for what I think could also be decoy Dodge Challengers uh to see if you guys rented that car out on the 9th, on the 10th",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8984",
+      "ref": "C-8984",
+      "label": "Host Agrees the Rooftop Figure May Have Been a Timed Decoy and the Boom a Distraction",
+      "claim": "Responding to a viewer comment, the host says that, based on what she has seen, she would say the rooftop person was another decoy told to get on the roof in a coordinated, timed move, with the boom serving as a distraction.",
+      "anchored_artifacts": [
+        "A-2976.1"
+      ],
+      "related_nodes": [
+        "N-10032",
+        "N-10053"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:22",
+      "investigative_direction": "Reconcile with the court-shown rooftop video and the ballistics and audio analyses.",
+      "transcript_snippet": "I would say that's another decoy person who was told to get onto the rooftop, timed it no perfectly coordinated.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8985",
+      "ref": "C-8985",
+      "label": "Host Says the Witness Told Her He Did Not Witness the Actual Shot",
+      "claim": "The host says that in her conversations the rooftop witness told her he did not witness the actual shot but saw the prone figure and heard everything, and she thinks that is why the prosecution avoids him.",
+      "anchored_artifacts": [
+        "A-2140.1"
+      ],
+      "related_nodes": [
+        "N-10719"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:22",
+      "investigative_direction": "Compare against the audio of the recorded call and any statement the witness gave to authorities.",
+      "transcript_snippet": "said that he did not witness the actual shot, but you know, saw him in the prone position, obviously saw everything, heard everything",
+      "supports_claim_refs": [
+        "C-1857"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8986",
+      "ref": "C-8986",
+      "label": "Host Says No One Described a Person Recoiling",
+      "claim": "The host says she does not believe anybody has described to her a person recoiling from a shot.",
+      "anchored_artifacts": [
+        "A-2140.1"
+      ],
+      "related_nodes": [
+        "N-10755"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:22",
+      "investigative_direction": "Examine the roof clips for recoil and compare with the other witness accounts.",
+      "transcript_snippet": "I do not believe that anybody described to me a person recoiling.",
+      "supports_claim_refs": [
+        "C-1931"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8987",
+      "ref": "C-8987",
+      "label": "Host Says the Witness Says the Gun Was Not the One Used per the Official Account",
+      "claim": "The host says the witness is credible and also says it just was not the gun that is said to have been used by Tyler Robinson to kill Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-2140.2"
+      ],
+      "related_nodes": [
+        "N-10719",
+        "N-10099"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:22",
+      "investigative_direction": "Obtain the recovered rifle's make and caliber from the evidence list and compare with the witness's description.",
+      "transcript_snippet": "I think that is the reason they are avoiding him because he is a credible witness, and he also says that it just wasn't the gun that they are saying Tyler used",
+      "supports_claim_refs": [
+        "C-5278"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8988",
+      "ref": "C-8988",
+      "label": "Host Says Her Investigation Suggests Robinson Was on Campus for Decoys, Not Killing Charlie",
+      "claim": "The host says there is no evidence Tyler Robinson had anything to do with Charlie's assassination, that she is not saying he was not involved, and that she believes he was on campus for decoys.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10032"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:22",
+      "investigative_direction": "Ask the prosecution what evidence places Robinson at the shooting position and obtain his campus location data.",
+      "transcript_snippet": "We we've just seen no evidence that Tyler Robinson had anything to do with Charlie's assassination, and like I have said, my investigation leads me to believe that I'm not saying he wasn't involved. I believe he was around campus on campus for decoys.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8989",
+      "ref": "C-8989",
+      "label": "Host Says Robinson Was Tasked With Dumping Clothes at the Dairy Queen",
+      "claim": "The host says Tyler was around campus and was tasked with dumping clothes at the Dairy Queen, and that she does not know how they got him to do that.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10051"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:53",
+      "investigative_direction": "Seek surveillance and receipts from the Dairy Queen and any recovered clothing evidence linked to it.",
+      "transcript_snippet": "Tyler was around campus, and he was tasked with dumping clothes at the Dairy Queen.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8990",
+      "ref": "C-8990",
+      "label": "Host Says She Believes It Was a Show and the Killing Likely Happened Under Charlie's Shirt",
+      "claim": "The host says she remains a believer that all of it was a show, that what happened likely took place under his shirt, and that she has not seen contrary evidence yet.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10987"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:53",
+      "investigative_direction": "Obtain the autopsy report, the shirt's chain of custody and the surgeon's account of the wound.",
+      "transcript_snippet": "I am still a believer that all of that was a show, and what happened likely took place under his shirt.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8991",
+      "ref": "C-8991",
+      "label": "Host Says Erika Lied to Her Face About the Surgeon Call",
+      "claim": "The host says that she believes Erika Kirk lied to her face, and that no one can make her come back from a person who lied about the surgeon call.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10358",
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:25",
+      "investigative_direction": "Compare the host's account of Erika's statements about the surgeon call with the surgeon's account and Kolvet's post.",
+      "transcript_snippet": "no, guys, she lied to my face. No one can make me come back from a person who lied about the surgeon call.",
+      "supports_claim_refs": [
+        "C-5562"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8992",
+      "ref": "C-8992",
+      "label": "Host Says Erika's Account Hung Kolvet Out to Dry, With the Surgeon Said to Have Violated HIPAA",
+      "claim": "The host says Erika Kirk's account blamed Andrew Kolvet and the surgeon, with one said to have violated HIPAA and one to have gone rogue on the day of Charlie's funeral, and she asks why Erika will not address it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10358",
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:25",
+      "investigative_direction": "Find any on-record statement by Erika Kirk or TPUSA on who is responsible for the surgeon quote.",
+      "transcript_snippet": "why you hung Andrew Colbet out to dry and the surgeon saying one violated HIPAA, one went rogue on the day of Charlie's funeral.",
+      "supports_claim_refs": [
+        "C-6779"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8993",
+      "ref": "C-8993",
+      "label": "Host Says TPUSA Took In More Than a Quarter Billion Dollars Last Year",
+      "claim": "The host says her understanding is that the organization led by Erika Kirk took in more than a quarter billion dollars last year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:25",
+      "investigative_direction": "Review TPUSA's IRS Form 990 and audited financials for the most recent year.",
+      "transcript_snippet": "my understanding is that you took in more than a quarter billion dollars last year.",
+      "supports_claim_refs": [
+        "C-6985"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8994",
+      "ref": "C-8994",
+      "label": "Clip Has Blake Neff Saying 'Why Would I Even Remember Such a Thing?' When Asked About September 10",
+      "claim": "In a played clip, asked where he was the morning of September 10th, Blake Neff answers 'Why would I even remember such a thing?'",
+      "anchored_artifacts": [
+        "A-2977.1"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:13",
+      "investigative_direction": "Identify the original program and date of the Neff clip and obtain the full exchange.",
+      "transcript_snippet": "Where were you the morning of September 10th, Blake Neff? Why would I even remember such a thing?",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8995",
+      "ref": "C-8995",
+      "label": "Viewer Comment Says No Carhartt Store Stocked the Freedom Shirt, So It Was Custom",
+      "claim": "A viewer, read on air, says Carhartt is a Michigan company, that they visited the Carhartt store in Detroit around Christmas and did not see the freedom shirt, so it was custom.",
+      "anchored_artifacts": [
+        "A-2976.2"
+      ],
+      "related_nodes": [
+        "N-10723"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:13",
+      "investigative_direction": "Check Carhartt's catalogue and customization services for a matching item.",
+      "transcript_snippet": "Carhartt is a Michigan company. I have plenty of their shirts and was at the Carhartt store in Detroit in around Christmas. I did not see the freedom shirt. Safe to say it was custom."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8996",
+      "ref": "C-8996",
+      "label": "Host Says No One Did More Events With Charlie Kirk Than She Did",
+      "claim": "The host says she does not believe any single person did more events with Charlie Kirk than she did.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:49",
+      "investigative_direction": "Compare event counts from TPUSA tour schedules and archives.",
+      "transcript_snippet": "I stood next to him. I don't believe there's a single person who did more events with Charlie Kirk than me.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8997",
+      "ref": "C-8997",
+      "label": "Host Says Lindsey Graham Is Dead and His Sister Becomes a Senator",
+      "claim": "In a rhetorical contrast about succession, the host says Lindsey Graham is dead so his sister becomes a senator.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:49",
+      "investigative_direction": "Verify against Senate records; the statement is made in a rhetorical aside.",
+      "transcript_snippet": "He didn't believe in well, Lindsey Graham is dead, so now his sister becomes a senator.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-463"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8998",
+      "ref": "C-8998",
+      "label": "Viewer Comment Says Robinson's Texts Mention Questioning Someone in Similar Clothing After the Old Man's Arrest",
+      "claim": "A viewer, read on air, says Tyler Robinson's text messages state they interrogated someone in similar clothing after arresting an old man, but a description with a vest and a mask was not released until the following day.",
+      "anchored_artifacts": [
+        "A-2976.3"
+      ],
+      "related_nodes": [
+        "N-10099"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:32",
+      "investigative_direction": "Find the cited Robinson text messages in the charging documents and identify who was interrogated.",
+      "transcript_snippet": "in Tyler's text messages, he says that they interrogated someone in similar clothing after arresting some crazy old dude. But a description was not released until the following day and included a vest and a mask.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8999",
+      "ref": "C-8999",
+      "label": "Host Says George Zinn Was Certainly Not in Similar Clothing",
+      "claim": "The host says George Zinn certainly was not wearing similar clothing to the figure described.",
+      "anchored_artifacts": [
+        "A-2976.3"
+      ],
+      "related_nodes": [
+        "N-10099"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:32",
+      "investigative_direction": "Compare Zinn's arrest photos with the described rooftop attire.",
+      "transcript_snippet": "George Zinn certainly was not wearing similar clothing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9000",
+      "ref": "C-9000",
+      "label": "Host Says the Panguitch Steakhouse Issue Will Throw Things for a Loop and She Has Receipts",
+      "claim": "The host says the Panguitch Steakhouse matter is going to throw the timeline for a loop and that there are receipts.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:27",
+      "investigative_direction": "Obtain the steakhouse's receipts and surveillance for the date and compare with the official timeline.",
+      "transcript_snippet": "It's going to be that Panguitch Steakhouse thing that's going to throw things for a loop, and there are receipts.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9001",
+      "ref": "C-9001",
+      "label": "Host Says Dan Flood's Glasses Appear to Be Meta Glasses",
+      "claim": "Discussing a viewer theory, the host says Dan Flood's glasses do appear to be Meta glasses and that it certainly looked like it.",
+      "anchored_artifacts": [
+        "A-2976.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:27",
+      "investigative_direction": "Identify the glasses model from clear photographs and confirm Flood's whereabouts when worn.",
+      "transcript_snippet": "Dan flood with the meta glasses. They do appear to be meta glasses based on um they appear to be.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9002",
+      "ref": "C-9002",
+      "label": "Host Says None of the People on the Turek FaceTime Call Have Presented Their Phones",
+      "claim": "The host says there may have been more people on Frank Turek's FaceTime call with his sons and that none of the people involved has presented their phones to anybody.",
+      "anchored_artifacts": [
+        "A-2976.4"
+      ],
+      "related_nodes": [
+        "N-10730"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:12",
+      "investigative_direction": "Request call logs and device records for the FaceTime call that Turek described.",
+      "transcript_snippet": "Well, what if he's there are more people on that call? We don't know. No idea. If there were more people on that call. None of these people have presented their phones to anybody.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9003",
+      "ref": "C-9003",
+      "label": "Host Floats That the Driver Was Updating Ben's Security at 100 mph on a 7-Minute Journey",
+      "claim": "The host says the only other person on the line could be the driver, going 100 miles an hour and updating Ben's security on a 7-minute journey.",
+      "anchored_artifacts": [
+        "A-2976.4"
+      ],
+      "related_nodes": [
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:53",
+      "investigative_direction": "Obtain vehicle telematics or driver identification for the 9/10 drive and the security contact log; the 'Ben' referent is unclear in the transcript.",
+      "transcript_snippet": "the only other person could be the driver. Going 100 miles per an hour. Updating Ben's security on a 7-minute journey.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9004",
+      "ref": "C-9004",
+      "label": "Viewer Comment Says the Movement Described Is IMT and Normal People Do Not Move Like That",
+      "claim": "A viewer identified as a former US Army member says the person the host spoke to is describing individual movement technique, IMT, used when crossing a danger area or reacting to sniper fire, and that only trained people move that way.",
+      "anchored_artifacts": [
+        "A-2976.5",
+        "A-2140.1"
+      ],
+      "related_nodes": [
+        "N-10754"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:53",
+      "investigative_direction": "Ask Army doctrine experts to review the witness's description of bounding movement and the roof video.",
+      "transcript_snippet": "Former US Army here. The person you spoke to is describing what is called individual movement technique, IMT.",
+      "supports_claim_refs": [
+        "C-3029"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9005",
+      "ref": "C-9005",
+      "label": "Host Says the Influencers Were Shown the Footage in 4K at the End of the Fifth Day of the Hearing",
+      "claim": "The host says that at the very end of the fifth day of the hearing the influencers were shown the footage, in 4K HD, where everyone could see it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11065",
+        "N-10625"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:50",
+      "investigative_direction": "Obtain the hearing schedule for day five and the list of influencers present and the exhibit shown.",
+      "transcript_snippet": "and everyone could see it in 4K HD at the very end of the fifth day of the hearing, the influencers were shown it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9006",
+      "ref": "C-9006",
+      "label": "Host Says It Is Obvious Many People Are Being Paid to Push the Robinson Narrative",
+      "claim": "The host says it is pretty obvious to her that many people are being paid to push the narrative that Tyler Robinson did it, responding to a viewer asking whether Brad Parscale found a new propaganda source.",
+      "anchored_artifacts": [
+        "A-2976.6"
+      ],
+      "related_nodes": [
+        "N-11017",
+        "N-10722"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:50",
+      "investigative_direction": "Seek disclosures or filings showing payments to the creators the host has in mind.",
+      "transcript_snippet": "it is pretty obvious to me that many people are being paid to push this, and the thing about a lie is it's a it it just always kind of you can make a lot of money really fast",
+      "mentions_person_refs": [
+        "N-3",
+        "N-440",
+        "N-40"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "no one in the entire world reached out to our tip line yesterday in response to our silver alert",
+          "context": "Host reports the tip line drew no response to her silver alert on Blake Neff.",
+          "confidence": "high",
+          "tags": [
+            "tip line",
+            "DIA"
+          ]
+        },
+        {
+          "episode": 126,
+          "video_timestamp": "00:06:05",
+          "speaker_node_ref": "N-3",
+          "quote": "please do send us an email at moretips@candaceowens. com",
+          "context": "Host asks viewers with knowledge of the custom Carhartt shirt to email the tip address.",
+          "confidence": "high",
+          "tags": [
+            "tip line",
+            "DIA"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-185",
+      "ref": "M-185",
+      "canonical_term": "Amnesia",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "looking like he had a bad case of amnesia",
+          "context": "Host jokes that the unseen Blake Neff has amnesia about September 10.",
+          "confidence": "high",
+          "tags": [
+            "amnesia",
+            "Blake Neff"
+          ]
+        },
+        {
+          "episode": 126,
+          "video_timestamp": "00:03:16",
+          "speaker_node_ref": "N-3",
+          "quote": "there is going to be just a little touch of amnesia in this clip as well",
+          "context": "Host introduces the Nate Walker clip as another case of failing memory.",
+          "confidence": "high",
+          "tags": [
+            "amnesia",
+            "Nate Walker"
+          ]
+        },
+        {
+          "episode": 126,
+          "video_timestamp": "00:08:30",
+          "speaker_node_ref": "N-3",
+          "quote": "she's going to suffer from a little bit of amnesia",
+          "context": "Host introduces Sergeant Filomena's testimony.",
+          "confidence": "high",
+          "tags": [
+            "amnesia",
+            "Filomena"
+          ]
+        },
+        {
+          "episode": 126,
+          "video_timestamp": "00:09:25",
+          "speaker_node_ref": "N-3",
+          "quote": "Everyone is suddenly finding Dory.",
+          "context": "Host extends the amnesia bit with a Finding Dory reference.",
+          "confidence": "high",
+          "tags": [
+            "amnesia",
+            "Dory"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-80",
+      "ref": "M-80",
+      "canonical_term": "Jog Your Memory",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "A testimony that jogged my memory",
+          "context": "Host says the hearing testimony jogged her memory of a witness she had spoken to.",
+          "confidence": "high",
+          "tags": [
+            "memory",
+            "witness"
+          ]
+        },
+        {
+          "episode": 126,
+          "video_timestamp": "00:12:29",
+          "speaker_node_ref": "N-3",
+          "quote": "the reason that those details immediately jog my memory was because of that route",
+          "context": "Host connects the library route to her earlier witness.",
+          "confidence": "high",
+          "tags": [
+            "memory",
+            "route"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-95",
+      "ref": "M-95",
+      "canonical_term": "Emotional Response Asset",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:31:50",
+          "speaker_node_ref": "N-3",
+          "quote": "the Department of Justice, an emotional asset, boosting a person",
+          "context": "Host says Helen Comperatore needs none of the boosting she implies others received.",
+          "confidence": "medium",
+          "tags": [
+            "emotional asset",
+            "DOJ"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:29:15",
+          "speaker_node_ref": "N-3",
+          "quote": "Actually grieving widow.",
+          "context": "Host sets Helen Comperatore's grief against what she presents as Erika Kirk's conduct.",
+          "confidence": "high",
+          "tags": [
+            "widow",
+            "grief"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-41",
+      "ref": "M-41",
+      "canonical_term": "Sock Puppet",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:37:24",
+          "speaker_node_ref": "N-3",
+          "quote": "You think we're so stupid that we can't recognize a sock puppet account?",
+          "context": "Host says paid accounts in the Israeli campaign are obvious sock puppets.",
+          "confidence": "high",
+          "tags": [
+            "sock puppet",
+            "bots"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:20:43",
+          "speaker_node_ref": "N-3",
+          "quote": "That description doesn't go well with their fed sloppy narrative.",
+          "context": "Host says the witness's gun description conflicts with the federal account.",
+          "confidence": "medium",
+          "tags": [
+            "fed narrative"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-71",
+      "ref": "M-71",
+      "canonical_term": "Where Were You on 9/10",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:47:13",
+          "speaker_node_ref": "N-3",
+          "quote": "Where were you the morning of September 10th, Blake Neff?",
+          "context": "Played clip asks Neff where he was; host calls the answer a character moment.",
+          "confidence": "high",
+          "tags": [
+            "Blake Neff",
+            "9/10"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-82",
+      "ref": "M-82",
+      "canonical_term": "Make That Make Sense",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:46:25",
+          "speaker_node_ref": "N-3",
+          "quote": "Make that make sense of why you hung Andrew Colbet out to dry",
+          "context": "Host demands that Erika Kirk address the surgeon-call account.",
+          "confidence": "high",
+          "tags": [
+            "Erika Kirk",
+            "surgeon"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:51:27",
+          "speaker_node_ref": "N-3",
+          "quote": "I think we don't know know but we know.",
+          "context": "Host hints at the timeline coming from the Panguitch steakhouse matter.",
+          "confidence": "high",
+          "tags": [
+            "timeline",
+            "hint"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-101",
+      "ref": "M-101",
+      "canonical_term": "Icarus Birdies",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:38:14",
+          "speaker_node_ref": "N-3",
+          "quote": "Icarus just flying towards the sun, never thinking that he might get burned and fall",
+          "context": "Host frames the arrogance of the powerful as an Icarus moment.",
+          "confidence": "high",
+          "tags": [
+            "Icarus",
+            "hubris"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:48:02",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king, Charlie Max.",
+          "context": "Host repeats a viewer's Christ is king remark when reading comments.",
+          "confidence": "high",
+          "tags": [
+            "Christ is king"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-107",
+      "ref": "M-107",
+      "canonical_term": "Stop Anti-Candaceism",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:57:01",
+          "speaker_node_ref": "N-3",
+          "quote": "Stop anti-Candacism.",
+          "context": "Host closes her merch pitch for Christmas in July with the mug slogan.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "slogan"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-236",
+      "ref": "M-236",
+      "canonical_term": "Silver Alert for Blake",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 126,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "in response to our silver alert",
+          "context": "Host runs a bit that a silver alert for the missing Blake Neff drew no tips, with the nickname Blakey-poo.",
+          "confidence": "high",
+          "tags": [
+            "Blake Neff",
+            "silver alert"
+          ]
+        }
+      ]
+    }
+  ]
 }

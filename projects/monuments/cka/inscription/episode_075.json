@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–01:09:02",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "d8e6f28a51d5ce3dd1d87baacd78a256a41af58e5088968e02eb7b3dd5527107",
@@ -377,6 +377,124 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2852",
+      "family_ref": "A-2852",
+      "bundle_name": "CERN Shiva Statue Image Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2852.1",
+          "ref": "A-2852.1",
+          "description": "Image shown on screen of physicists before a statue of Shiva described by the host as a CERN occult ceremony",
+          "related_claims": [
+            "C-7059"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:04:59",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2853",
+      "family_ref": "A-2853",
+      "bundle_name": "Pentagon Seating Demonstration Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2853.1",
+          "ref": "A-2853.1",
+          "description": "On-screen demonstration by the host of Charlie Kirk's seat as the center of a pentagon (described, content not visible in the transcript)",
+          "related_claims": [
+            "C-7069"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:11:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2854",
+      "family_ref": "A-2854",
+      "bundle_name": "Aleister Crowley Book of Evil Spirits Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2854.1",
+          "ref": "A-2854.1",
+          "description": "Cover of a book the host calls Crowley's first book, the book of evil spirits, shown with a Star of David (described, not clearly visible in the transcript)",
+          "related_claims": [
+            "C-7076"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:13:52",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2855",
+      "family_ref": "A-2855",
+      "bundle_name": "Viewer Comments Read Aloud Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2855.1",
+          "ref": "A-2855.1",
+          "description": "Viewer comment from TJ Kurt about GiveSendGo donations so Erika could stay home, read aloud",
+          "related_claims": [
+            "C-7136",
+            "C-7137"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:00:36",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2855.2",
+          "ref": "A-2855.2",
+          "description": "Viewer comment from Mama C about Tyler Bowyer and the memorial, read aloud before the host's remark on cancelled events",
+          "related_claims": [
+            "C-7141"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:05:49",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -487,7 +605,26 @@
       "type": "person",
       "description": "",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7102",
+        "C-7103",
+        "C-7104",
+        "C-7105",
+        "C-7106",
+        "C-7107",
+        "C-7108",
+        "C-7109",
+        "C-7110",
+        "C-7114",
+        "C-7115",
+        "C-7117",
+        "C-7118",
+        "C-7126",
+        "C-7127",
+        "C-7128",
+        "C-7133",
+        "C-7140"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -503,7 +640,10 @@
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3573",
+        "C-3583"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -518,7 +658,9 @@
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7086"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -550,7 +692,9 @@
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7087"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -566,7 +710,12 @@
       "type": "person",
       "description": "White House Press Secretary; quoted on Huckabee–Pollard meeting.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7126",
+        "C-7127",
+        "C-7128",
+        "C-7129"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -590,6 +739,992 @@
       "investigative_pressure": "low",
       "organization_kind": "program_or_initiative",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the assassination; the host reports his statements, her premonition and her Iran-war thesis.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7061",
+        "C-7062",
+        "C-7063",
+        "C-7064",
+        "C-7069",
+        "C-7077",
+        "C-7078",
+        "C-7084",
+        "C-7085",
+        "C-7086",
+        "C-7089",
+        "C-7091",
+        "C-7099",
+        "C-7102",
+        "C-7103",
+        "C-7104",
+        "C-7119",
+        "C-7120"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 18,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow and TPUSA CEO; the host discusses her alleged presidential ambitions and post-assassination conduct.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7054",
+        "C-7082",
+        "C-7083",
+        "C-7084",
+        "C-7085",
+        "C-7088",
+        "C-7089",
+        "C-7090",
+        "C-7091",
+        "C-7092",
+        "C-7093",
+        "C-7094",
+        "C-7095",
+        "C-7096",
+        "C-7097",
+        "C-7098",
+        "C-7099",
+        "C-7135",
+        "C-7136",
+        "C-7137",
+        "C-7141"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 21,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7053",
+        "C-7054",
+        "C-7055",
+        "C-7056",
+        "C-7057",
+        "C-7059",
+        "C-7060",
+        "C-7061",
+        "C-7062",
+        "C-7063",
+        "C-7065",
+        "C-7066",
+        "C-7067",
+        "C-7068",
+        "C-7069",
+        "C-7070",
+        "C-7071",
+        "C-7072",
+        "C-7073",
+        "C-7074",
+        "C-7075",
+        "C-7076",
+        "C-7077",
+        "C-7078",
+        "C-7080",
+        "C-7081",
+        "C-7082",
+        "C-7083",
+        "C-7084",
+        "C-7085",
+        "C-7088",
+        "C-7089",
+        "C-7090",
+        "C-7091",
+        "C-7092",
+        "C-7093",
+        "C-7094",
+        "C-7095",
+        "C-7096",
+        "C-7097",
+        "C-7101",
+        "C-7102",
+        "C-7103",
+        "C-7104",
+        "C-7105",
+        "C-7106",
+        "C-7107",
+        "C-7108",
+        "C-7109",
+        "C-7110",
+        "C-7111",
+        "C-7112",
+        "C-7113",
+        "C-7114",
+        "C-7115",
+        "C-7116",
+        "C-7117",
+        "C-7118",
+        "C-7119",
+        "C-7120",
+        "C-7121",
+        "C-7122",
+        "C-7123",
+        "C-7124",
+        "C-7126",
+        "C-7130",
+        "C-7131",
+        "C-7132",
+        "C-7133",
+        "C-7134",
+        "C-7135",
+        "C-7136",
+        "C-7137",
+        "C-7138",
+        "C-7139",
+        "C-7140",
+        "C-7141",
+        "C-7142"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 78,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "JD Vance; named in the Vance Kirk ticket remarks by Turek and McQuaid.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7087"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Elizabeth Lane",
+      "type": "person",
+      "description": "Elizabeth Lane; cited by the host for calling Erika Kirk a possible psychopath.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7088"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein; subject of the host's Epstein files remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7109",
+        "C-7110",
+        "C-7111",
+        "C-7123"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu; the host says he instructed Trump on Iran and Venezuela.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7112",
+        "C-7118"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Bill Ackman; the host says he wants her imprisoned and amplified posts on enlisting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7053",
+        "C-7132"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Tyler Robinson; accused in the assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7095",
+        "C-7096"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Megyn Kelly; the host asks viewers to pray for her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7142"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Sigmund Freud",
+      "type": "person",
+      "description": "Sigmund Freud; the host's route to Freemason Bibles and B'nai B'rith.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7065",
+        "C-7070"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Kash Patel; the host says his repeated 33 hours was signaling.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7081"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-119",
+      "ref": "N-119",
+      "name": "Elon Musk",
+      "type": "person",
+      "description": "Elon Musk; the host says he donated to the family.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7137"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-203",
+      "ref": "N-203",
+      "name": "Norman Finkelstein",
+      "type": "person",
+      "description": "Norman Finkelstein; the host cites his account of mowing the lawn.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7122"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-276",
+      "ref": "N-276",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Dan Flood; the host says Erika offered him a raise.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7089"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-305",
+      "ref": "N-305",
+      "name": "Miriam Adelson",
+      "type": "person",
+      "description": "Miriam Adelson; subject of Trump's remark and the host's donation claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7107",
+        "C-7108"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-566",
+      "ref": "N-566",
+      "name": "Carrie Prejean Bowler",
+      "type": "person",
+      "description": "Carrie Prejean Bowler; the host says Trump removed her from the religious committee.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7133"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-687",
+      "ref": "N-687",
+      "name": "Nicolás Maduro",
+      "type": "person",
+      "description": "Nicolas Maduro; removed by the US operation the host cites.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7112"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; subject of the cease and desist, event cancellation and infiltration remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7064",
+        "C-7134",
+        "C-7135",
+        "C-7141"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10063",
+      "ref": "N-10063",
+      "name": "Gaza",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7122",
+        "C-7139"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10113",
+      "ref": "N-10113",
+      "name": "Beehive Code / School Underground Premonition",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7062",
+        "C-7063",
+        "C-7080"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10209",
+      "ref": "N-10209",
+      "name": "TPUSA Faith / Christian Zionist Infiltration Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7138",
+        "C-7139"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7109",
+        "C-7110",
+        "C-7123"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10403",
+      "ref": "N-10403",
+      "name": "Erika Kirk Handler Thesis",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7098",
+        "C-7099",
+        "C-7100"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10406",
+      "ref": "N-10406",
+      "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7142"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10414",
+      "ref": "N-10414",
+      "name": "CERN Satantic Ritual Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7059"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10415",
+      "ref": "N-10415",
+      "name": "Charlie Kirk Premonition Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7064"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10436",
+      "ref": "N-10436",
+      "name": "TPUSA Faith Military Infiltration Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7134",
+        "C-7135"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10447",
+      "ref": "N-10447",
+      "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7096",
+        "C-7097"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10451",
+      "ref": "N-10451",
+      "name": "USS Liberty Incident Cover-up Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7130"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10539",
+      "ref": "N-10539",
+      "name": "Charlie Kirk Iran War Opposition (June 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7119",
+        "C-7120"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10694",
+      "ref": "N-10694",
+      "name": "Dan Flood Role and Behavior Assessment",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7089"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10905",
+      "ref": "N-10905",
+      "name": "New York Times Erika Kirk Interview Account Discrepancies",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7090",
+        "C-7092"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10962",
+      "ref": "N-10962",
+      "name": "Venezuela",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7112",
+        "C-7113"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10968",
+      "ref": "N-10968",
+      "name": "The New York Times",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7090",
+        "C-7091"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11072",
+      "ref": "N-11072",
+      "name": "Cancelled TPUSA Event and Kanye France Trip",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7141"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-785",
+      "ref": "N-785",
+      "name": "Marina Abramovic",
+      "type": "person",
+      "description": "First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performance artist the host cites for spirit cooking and a 1974 pentagram performance.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7057",
+        "C-7058"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-786",
+      "ref": "N-786",
+      "name": "Aleister Crowley",
+      "type": "person",
+      "description": "First named by the host at 00:13:52 in episode 75. Occultist the host says wrote books of pentacles meant to summon spirits.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7075",
+        "C-7076"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-215",
+      "ref": "N-215",
+      "name": "Jesse Watters",
+      "type": "person",
+      "description": "First named by the host at 00:23:52 in episode 75 (spelled Jesse Waters). Fox News host to whom the host says Erika Kirk said she had zero fear.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7094"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-787",
+      "ref": "N-787",
+      "name": "Benny Gantz",
+      "type": "person",
+      "description": "First named by the host at 00:46:20 in episode 75. Israeli politician whose interview clip the host plays on boots on the ground in Iran.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7124",
+        "C-7125"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-788",
+      "ref": "N-788",
+      "name": "Paula White",
+      "type": "person",
+      "description": "First named by the host at 01:01:46 in episode 75. Pastor the host groups with Christian Zionists surrounding Trump.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7138"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11128",
+      "ref": "N-11128",
+      "name": "US and Israel Iran War Betrayal Thesis",
+      "type": "topic",
+      "description": "The host's argument that the 2026 US and Israeli campaign against Iran was engineered by Israel, that Trump betrayed America First, and that Charlie Kirk was its first casualty.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7053",
+        "C-7055",
+        "C-7105",
+        "C-7118",
+        "C-7119",
+        "C-7120",
+        "C-7121",
+        "C-7125",
+        "C-7126",
+        "C-7127",
+        "C-7128",
+        "C-7129",
+        "C-7131",
+        "C-7132"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 14,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11129",
+      "ref": "N-11129",
+      "name": "Freemasonry",
+      "type": "topic",
+      "description": "The fraternal order and its symbolism, which the host studies and ties to her occult-influence thesis.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7060",
+        "C-7065",
+        "C-7074"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11130",
+      "ref": "N-11130",
+      "name": "B'nai B'rith",
+      "type": "organization",
+      "description": "Jewish service organization the host calls the Jewish Freemason group and says has run the country since at least the Civil War.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7070"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11131",
+      "ref": "N-11131",
+      "name": "Charlie Kirk Death as Spell Claim",
+      "type": "topic",
+      "description": "The host's belief that the manner and broadcast of Charlie Kirk's death were meant to cast a spell and that he was sacrificed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7077"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10505",
+      "ref": "N-10505",
+      "name": "Erika Kirk Post-Assassination Conduct Composite",
+      "type": "topic",
+      "description": "The host's list of Erika Kirk's behaviors after September 10: a raise for Dan Flood, a Times interview, office attendance with her children, claimed absence of fear and forgiveness of the accused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7088",
+        "C-7089",
+        "C-7090",
+        "C-7092",
+        "C-7093",
+        "C-7094",
+        "C-7095",
+        "C-7096",
+        "C-7136",
+        "C-7137"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11132",
+      "ref": "N-11132",
+      "name": "Trump Response to Kirk Assassination",
+      "type": "topic",
+      "description": "The host's account of how many posts Trump made about Charlie Kirk, their content, and whether he called for an investigation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7102",
+        "C-7103",
+        "C-7104"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11133",
+      "ref": "N-11133",
+      "name": "Glyphosate and White Phosphorus Defense Production Act Order",
+      "type": "topic",
+      "description": "The February 26 executive order invoking the Defense Production Act for glyphosate and the Washington Post's note on elemental phosphorus, and the host's tie to Israeli use of white phosphorus.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7115",
+        "C-7116",
+        "C-7117"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -877,7 +2012,1960 @@
         "N-283",
         "N-1"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7053",
+      "ref": "C-7053",
+      "label": "Host Says Bill Ackman Wants Her Imprisoned Over Remarks on Military Service",
+      "claim": "The host says Bill Ackman apparently wants her imprisoned for suggesting that American sons and daughters should object to being slaughtered for Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "Locate Ackman's posts from the weekend before March 9, 2026 and check whether he called for her prosecution or only shared others' posts.",
+      "transcript_snippet": "Bill Ackman wants me imprisoned, apparently, for suggesting that American sons and daughters should object to being slaughtered for Israel.",
+      "mentions_person_refs": [
+        "N-37",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7054",
+      "ref": "C-7054",
+      "label": "Host Says It Is Obvious Erika Wanted to Become President",
+      "claim": "The host says it is completely obvious to anyone paying attention that Erika Kirk's desire was to become president one day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10858"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:53",
+      "investigative_direction": "Compare with Erika Kirk's own public statements on running for office and any on-record answers to questions about a political future.",
+      "transcript_snippet": "it is completely obvious to anyone that is paying attention that Erika's desire was to become the president one day.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7055",
+      "ref": "C-7055",
+      "label": "Host Says Occult Practitioners Are Pushing for World War III",
+      "claim": "The host says people who practice occult magic are, at this moment, pushing for World War III.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:02",
+      "investigative_direction": "No checkable record is offered; ask the host which named officials or groups she means and what practices she can document.",
+      "transcript_snippet": "People that practice occult magic are in this moment pushing for World War III.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7056",
+      "ref": "C-7056",
+      "label": "Host Says Western Government Leaders Are Pagans Who May Make Blood Sacrifices",
+      "claim": "The host says people in charge of Western governments are in essence pagan and could be making literal blood sacrifices to various demons.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:02",
+      "investigative_direction": "No named officials or documents are cited; any support would have to come from named participants or documentary evidence of such rites.",
+      "transcript_snippet": "there are people that are in charge of Western governments that are in essence really pagan and could be making literal blood sacrifices to various demons.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7057",
+      "ref": "C-7057",
+      "label": "Host Says Marina Abramovic Does Spirit Cooking and Is Mentioned in Emails",
+      "claim": "The host says artist Marina Abramovic literally does spirit cooking, that this is what was in the emails, and that she performs in front of the most powerful people in the world.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:04:00",
+      "investigative_direction": "Check the leaked email set the host refers to for the spirit cooking references and who attended the events named.",
+      "transcript_snippet": "She does spirit cooking, literally. That was what was in those emails. Marina Abramović.",
+      "mentions_person_refs": [
+        "N-785",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7058",
+      "ref": "C-7058",
+      "label": "Host Describes 1974 Abramovic Petroleum Pentagram Performance",
+      "claim": "The host says that in 1974 Marina Abramovic performed using a large petroleum-drenched pentagram that the artist lit on fire, in order to re-evoke the energy of extreme bodily pain.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:04:00",
+      "investigative_direction": "Check the performance record for the date, title and wording of Abramovic's 1974 petroleum-soaked star piece against the host's description.",
+      "transcript_snippet": "Performances like in 1974 when she sought to, quote, re-evoke the energy of extreme bodily pain using a large petroleum-drenched pentagram.",
+      "mentions_person_refs": [
+        "N-785"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7059",
+      "ref": "C-7059",
+      "label": "Host Shows Image of Physicists Before a Shiva Statue and Calls It an Occult CERN Ceremony",
+      "claim": "The host says the world's leading nuclear physicists were caught cloaked before a statue of Shiva stabbing a woman in an occult ceremony for CERN, and that the image was on the viewers' screens.",
+      "anchored_artifacts": [
+        "A-2852.1"
+      ],
+      "related_nodes": [
+        "N-10414"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:59",
+      "investigative_direction": "Identify the source and date of the video or image and CERN's own statement about the 2016 staged ritual and the Shiva statue.",
+      "transcript_snippet": "when the world's leading nuclear physicists are caught cloaked before a statue of Shiva stabbing a woman in an occult ceremony for CERN",
+      "supports_claim_refs": [
+        "C-5456"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7060",
+      "ref": "C-7060",
+      "label": "Host Says the Scientific Revolution Began With a Freemasonic Effort",
+      "claim": "The host says the entire scientific revolution began because of a long organized Freemasonic effort to remove humanity from its innate spiritual understanding.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11129"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:59",
+      "investigative_direction": "Check historians of science and Masonic history for any organized effort of this kind; no source is offered on air.",
+      "transcript_snippet": "that began because of a long organized Freemasonic effort to remove humanity from our innate spiritual understanding.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7061",
+      "ref": "C-7061",
+      "label": "Host Says She Told Her Husband Charlie Was Betrayed When Her Manager Brought the News",
+      "claim": "The host says that when her manager Savannah came downstairs and told her Charlie had been shot, she went to her husband's office, cried and immediately told him Charlie was betrayed; she says her husband replied that they did not know anything yet.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:55",
+      "investigative_direction": "Ask Savannah and the host's husband to confirm the exchange and its timing on September 10, 2025.",
+      "transcript_snippet": "when Savannah, my manager, came down the stairs and delivered the news that Charlie had been shot, I went into my husband's office and I cried and I immediately said to him, he was betrayed.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7062",
+      "ref": "C-7062",
+      "label": "Host Says She Felt Dread the Week Before the Assassination",
+      "claim": "The host says no one can explain why or how she had a sense of dread in the very week leading up to Charlie Kirk's assassination, including that the danger would come to a school and relate to bees.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10113"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:55",
+      "investigative_direction": "Compare with the dated Aug 30 to Sep 2 texts the host has cited and her husband's or staff's recollection of that week.",
+      "transcript_snippet": "no one can explain why or how I had the sense of dread in the very week leading up to Charlie's assassination.",
+      "supports_claim_refs": [
+        "C-1269"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7063",
+      "ref": "C-7063",
+      "label": "Host Says She Hired Extra Security, Took Her Podcast Off Air and Pulled Her Children From School",
+      "claim": "The host says her feeling was so overwhelming that she hired extra security, took her podcast off the air and pulled her children out of school in the week before the assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10113"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:55",
+      "investigative_direction": "Check publication dates of her show in the week before September 10, 2025 and ask the security contractor and school for dates.",
+      "transcript_snippet": "Why the feeling was so overwhelming that I hired extra security and took my podcast off air and pulled my children out of school.",
+      "supports_claim_refs": [
+        "C-1269"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7064",
+      "ref": "C-7064",
+      "label": "Host Says Charlie Said He Knew He Would Die Young Because of Turning Point USA",
+      "claim": "The host says Charlie Kirk said he knew from the moment he signed on the dotted line that he was going to die young, and that his death would be related to Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10415",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:44",
+      "investigative_direction": "Obtain the dated messages or recordings in which Charlie said this and compare with the 2018 texts aired earlier in the series.",
+      "transcript_snippet": "He said he knew from the moment he signed on the dotted line that he was going to die young.",
+      "supports_claim_refs": [
+        "C-1470"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7065",
+      "ref": "C-7065",
+      "label": "Host Says She Studied Freud and Learned He Inherited a Freemason Bible",
+      "claim": "The host says she knew Freemason Bibles existed from studying Sigmund Freud and learning that he inherited one from his father.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11129"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:40",
+      "investigative_direction": "Check Freud biographies for the Philippson or Jakob Freud family Bible and whether it is a Masonic book.",
+      "transcript_snippet": "because of my studying Sigmund Freud and looking into the fact that he had inherited one from his father.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7066",
+      "ref": "C-7066",
+      "label": "Host Says the Mailed Freemason Bible Came From the Estate of a 33rd Degree Freemason in Oklahoma",
+      "claim": "The host says the book arrived with a handwritten letter saying a 33rd degree Freemason in Oklahoma died, his belongings were left in a home that was later auctioned, and the buyer's relative acquired the home.",
+      "anchored_artifacts": [
+        "A-2439.1"
+      ],
+      "related_nodes": [
+        "N-10857"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:40",
+      "investigative_direction": "Obtain the handwritten letter and envelope, identify the estate and auction, and ask the sender for the chain of custody.",
+      "transcript_snippet": "a 33rd degree Freemason out in Oklahoma died, and all of his belongings were left in a home that was eventually auctioned off",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7067",
+      "ref": "C-7067",
+      "label": "Host Says the Relative Burned the Home's Contents but Kept the Book in His Truck for Over a Decade",
+      "claim": "The host says the person burned everything in the house, thinking it carried bad spirits, but kept this one item in the back of his truck for over a decade and sent it to her after seeing her coverage of Freemasonry.",
+      "anchored_artifacts": [
+        "A-2439.1"
+      ],
+      "related_nodes": [
+        "N-10857"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:26",
+      "investigative_direction": "Interview the sender, request photographs of the book's cover, title page and publisher imprint, and corroborate the account.",
+      "transcript_snippet": "they went in and they burnt everything in it effectively, uh thinking uh that it was obviously just carrying bad spirits.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7068",
+      "ref": "C-7068",
+      "label": "Host Says the Book Illustrates That a Sacrifice Must Be Made in the Center of a Pentagon",
+      "claim": "The host says that in the shown Freemason Bible the pentagram illustration indicates a sacrifice must be made in the center of a pentagon, which she says has five sides like a house.",
+      "anchored_artifacts": [
+        "A-2439.1"
+      ],
+      "related_nodes": [
+        "N-10857"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:12",
+      "investigative_direction": "Have independent Masonic historians read the page and say whether the 'Place of sacrifice or worship' label refers to a sacrifice or to a temple altar.",
+      "transcript_snippet": "it illustrates that a sacrifice must be made in the center of a pentagon. That's a pentagon.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7069",
+      "ref": "C-7069",
+      "label": "Host Says Charlie Was Seated in the Center of a Pentagon When He Was Killed",
+      "claim": "The host says it was curious that Charlie Kirk was seated in the center of a pentagon when he was killed, and she demonstrates this on screen.",
+      "anchored_artifacts": [
+        "A-2853.1"
+      ],
+      "related_nodes": [
+        "N-10856"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:12",
+      "investigative_direction": "Obtain a to-scale layout of the Utah Valley University courtyard, tent, stage and seating on September 10, 2025 and test whether it forms a five-sided figure around his seat.",
+      "transcript_snippet": "how curious that Charlie was indeed seated in the center of a pentagon when he was killed.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7070",
+      "ref": "C-7070",
+      "label": "Host Says B'nai B'rith Has Run the Country Since at Least the Civil War",
+      "claim": "The host says B'nai B'rith, which she calls the Jewish Freemason group, has been running the United States since at least the Civil War.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11130"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:14",
+      "investigative_direction": "No evidence is offered on air; check the organization's published history and membership against the claim of control.",
+      "transcript_snippet": "B'nai B'rith, the Jewish Freemason group, who I believe have been running our country since at least the Civil War.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7071",
+      "ref": "C-7071",
+      "label": "Host Says the Satanic Panic Was Real and Children Have Been Harmed in Occult Ceremonies",
+      "claim": "The host says the satanic panic was real and that children have been harmed in occult ceremonies for a very long time.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:14",
+      "investigative_direction": "Check court records and historians' accounts of the 1980s satanic panic; the host cites no specific case here.",
+      "transcript_snippet": "The satanic panic that happened was real. Children are being harmed. They have been harmed in occult ceremonies for a very long time.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7072",
+      "ref": "C-7072",
+      "label": "Host Says the Star of David Is an Occult Symbol Meant to Represent Solomon's Ring",
+      "claim": "The host says the Star of David is in fact an occult symbol meant to represent King Solomon's ring, known as the Seal of Solomon.",
+      "anchored_artifacts": [
+        "A-2437.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:04",
+      "investigative_direction": "Compare with the same Wikipedia article and scholarship on the history of the hexagram in Jewish and other traditions.",
+      "transcript_snippet": "The star of David, as they term it, is in fact an occult symbol meant to represent King Solomon's ring.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7073",
+      "ref": "C-7073",
+      "label": "Host Says the Wikipedia Page Notes the Seal of Solomon Was on the Flags of Nigeria and Morocco",
+      "claim": "The host says the Wikipedia page for the Seal of Solomon states it was once featured on the flag of Nigeria and the flag of Morocco.",
+      "anchored_artifacts": [
+        "A-2437.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:58",
+      "investigative_direction": "Pull the Wikipedia page and revision history and check the sentence about the two flags.",
+      "transcript_snippet": "the seal of Solomon was once featured on the flag of Nigeria and the flag of Morocco.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7074",
+      "ref": "C-7074",
+      "label": "Host Says Freemasons Worship Solomon as the Master Architect Who Gave Them Keys to Control Societies",
+      "claim": "The host says Freemasons worship Solomon as the master architect and believe he gave them the keys to build and therefore control societies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11129"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:58",
+      "investigative_direction": "Check published Masonic ritual and Grand Lodge statements on the role of Solomon in the craft.",
+      "transcript_snippet": "Freemasons worship Solomon as the master architect. They believe that he gave them the keys to build and therefore control societies.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7075",
+      "ref": "C-7075",
+      "label": "Host Says Aleister Crowley Built a Religion Around Pentacles Meant to Summon Spirits",
+      "claim": "The host says Aleister Crowley created an entire religion around this, wrote a series of books and pentacles meant to summon various spirits, and that they are intentionally summoning demons.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:52",
+      "investigative_direction": "Check Crowley's published works and the history of Thelema; the host does not link him to any named current official.",
+      "transcript_snippet": "Aleister Crowley was master cultist created an entire religion around this, put together a series of books, a series of pentacles that are meant to summon various spirits.",
+      "mentions_person_refs": [
+        "N-786",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7076",
+      "ref": "C-7076",
+      "label": "Host Says Crowley's First Book Was the Book of Evil Spirits With a Star of David Cover",
+      "claim": "The host says Crowley's first book was called the book of evil spirits and that a Star of David is all over it, apparently as she shows it on screen.",
+      "anchored_artifacts": [
+        "A-2854.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:52",
+      "investigative_direction": "Identify the book and edition shown; Crowley's earliest books are not known by this title, so check bibliographic records.",
+      "transcript_snippet": "First book he wrote was called the book of evil spirits. Wow, look at that star of David all over it.",
+      "mentions_person_refs": [
+        "N-786",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7077",
+      "ref": "C-7077",
+      "label": "Host Says Charlie's Death Was Intended to Cast a Spell",
+      "claim": "The host says she believes the manner of Charlie Kirk's death was also intended to cast a spell.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11131"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:52",
+      "investigative_direction": "This is a belief without cited evidence; any support would need evidence of who planned the event and why it was broadcast.",
+      "transcript_snippet": "I believe that the manner of Charlie's death Charlie's death was also intended to cast a spell.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7078",
+      "ref": "C-7078",
+      "label": "Host Says Father Ripperger Was Not Speaking About Charlie Kirk",
+      "claim": "The host says the priest she plays is discussing Satanism more broadly and is not speaking in the context of Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-2438.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:43",
+      "investigative_direction": "Identify the full Ripperger interview and confirm the date and subject discussed before the excerpt and after it.",
+      "transcript_snippet": "he's not saying this to be clear in the context of Charlie Kirk.",
+      "qualifies_claim_refs": [
+        "C-3570"
+      ],
+      "mentions_person_refs": [
+        "N-331",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7079",
+      "ref": "C-7079",
+      "label": "Ripperger Says Revealing of the Method Can Be Connected to a Curse to Spread Distribution",
+      "claim": "In the played clip, Father Ripperger says the revealing of the method can be connected to a curse so that distribution of the thing becomes more extensive and more people watch it.",
+      "anchored_artifacts": [
+        "A-2438.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:43",
+      "investigative_direction": "Obtain the original recording and check what 'the thing' refers to in Ripperger's own answer.",
+      "transcript_snippet": "it can be connected to a curse. They could like they could curse this so that it has a more so that it's distribution becomes more extensive",
+      "mentions_person_refs": [
+        "N-331"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7080",
+      "ref": "C-7080",
+      "label": "Host Reads Freemason Bible Examples of Square, Plumb Line and Beehive",
+      "claim": "The host says the book gives examples of symbols: a square as an emblem of morality, a plumb line as the symbol of rectitude and the beehive as a symbol of industry.",
+      "anchored_artifacts": [
+        "A-2439.2"
+      ],
+      "related_nodes": [
+        "N-10857",
+        "N-10113"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Compare with standard Masonic symbolism references to see whether these definitions match published sources.",
+      "transcript_snippet": "A square is in Freemasonry an emblem or a symbol of morality. A plumb line, the the symbol of rectitude and the beehive as a symbol of industry.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7081",
+      "ref": "C-7081",
+      "label": "Host Says Kash Patel Repeatedly Stressing 33 Hours Was Not Random",
+      "claim": "The host says Kash Patel continually stressing 33 hours was not random, did not feel subtle, and seemed to her and many others to be a form of signaling.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Collect Patel's dated statements and posts that use the 33 hours figure and check the capture-to-surrender timeline.",
+      "transcript_snippet": "Kash Patel continually stressing 33 hours was not random. It did not feel subtle.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7082",
+      "ref": "C-7082",
+      "label": "Host Says Erika Cannot Remember How She Met Tyler Bowyer",
+      "claim": "The host says Tyler Bowyer is a dear friend of Erika Kirk whom Erika cannot remember how she met.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:17",
+      "investigative_direction": "Find Erika Kirk's own statement about how she met Bowyer and compare it with the host's earlier cited interviews.",
+      "transcript_snippet": "who she can't remember how she met.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7083",
+      "ref": "C-7083",
+      "label": "Host Says the Goal of Raising Erika's Presidential Profile Was Seeded Almost Immediately",
+      "claim": "The host says there was an ultimate goal of raising Erika Kirk's political profile as a potential presidential candidate, and that it was explicitly and almost immediately seeded by Tyler Bowyer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10858"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:17",
+      "investigative_direction": "Collect all TPUSA-side remarks about Erika's political future dated in the first weeks after September 10, 2025.",
+      "transcript_snippet": "There was an ultimate goal of raising Erika's political profile as a potential presidential candidate down the line, actually.",
+      "supports_claim_refs": [
+        "C-3573"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-11",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7084",
+      "ref": "C-7084",
+      "label": "Host Says Erika Stayed Back Because Charlie Said Home Needs You",
+      "claim": "The host says Erika Kirk said she stayed back from the September 10 event because Charlie said home needs you, and that this is why she was not at the Utah event.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:20:18",
+      "investigative_direction": "Find Erika Kirk's own account of why she did not travel to Utah and compare it with her itinerary and the tour schedule.",
+      "transcript_snippet": "Erika said she stayed back cuz Charlie said home needs you. That's why she didn't go to the September 10th event.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7085",
+      "ref": "C-7085",
+      "label": "Host Says Charlie Privately Wanted Erika to Be President and Also CEO and Chairman After His Death",
+      "claim": "The host paraphrases what she says Charlie told Bowyer privately as wanting Erika to be president and also CEO and chairman in the event of his death; the Bowyer clip as aired contains only the remarks about her becoming president.",
+      "anchored_artifacts": [
+        "A-2440.1"
+      ],
+      "related_nodes": [
+        "N-10858"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:18",
+      "investigative_direction": "Obtain the full Bowyer interview and check whether he said anything about CEO or chairman succession.",
+      "transcript_snippet": "I want her to be president and to be also the CEO and chairman in the event of my death.",
+      "supports_claim_refs": [
+        "C-5539"
+      ],
+      "qualifies_claim_refs": [
+        "C-3573"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-11",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7086",
+      "ref": "C-7086",
+      "label": "Turek Says He Told Charlie He Would Not Have the Same Effect as TPUSA President",
+      "claim": "In the played clip, Frank Turek says he told Charlie he did not think Charlie would have the same effect as the president of Turning Point USA, when discussing a 2028 Vance Kirk ticket.",
+      "anchored_artifacts": [
+        "A-2441.1"
+      ],
+      "related_nodes": [
+        "N-10858"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:58",
+      "investigative_direction": "Identify the full October 7 program and check the context of Turek's remark about the 2028 ticket.",
+      "transcript_snippet": "I don't know if you want to take it cuz I don't think you're going to have the same effect as the president of Turning Point USA.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7087",
+      "ref": "C-7087",
+      "label": "McQuaid Says He Thought There Might Still Be a Vance Kirk Ticket",
+      "claim": "In the played clip, Mikey McQuaid says he definitely thought there might be a Vance Kirk ticket and that there may still be one.",
+      "anchored_artifacts": [
+        "A-2442.1"
+      ],
+      "related_nodes": [
+        "N-10858"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:43",
+      "investigative_direction": "Identify the program and date of the McQuaid clip and the speaker who prompted him.",
+      "transcript_snippet": "I definitely thought maybe there would be a Vance Kirk ticket. Maybe there will still will be a Vance Kirk ticket.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7088",
+      "ref": "C-7088",
+      "label": "Host Says Elizabeth Lane Posited That Erika May Be a Psychopath",
+      "claim": "The host says Elizabeth Lane read Erika Kirk correctly when she posited that Erika may be a psychopath.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:31",
+      "investigative_direction": "Find Elizabeth Lane's original statement and its date and context.",
+      "transcript_snippet": "I think Elizabeth Lane read Erika correctly when she posited that she may be a psychopath",
+      "mentions_person_refs": [
+        "N-6",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7089",
+      "ref": "C-7089",
+      "label": "Host Says Erika Offered Dan Flood a Raise After the Assassination",
+      "claim": "The host says Erika Kirk, after her husband's public assassination, offered a raise to Dan Flood, the security guard the host says failed Charlie in every way on September 10.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10694",
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:31",
+      "investigative_direction": "Obtain TPUSA payroll or personnel records or a TPUSA statement on Flood's pay and title after September 10, 2025.",
+      "transcript_snippet": "offer a raise to Dan Flood, the security guard who failed Charlie in every possible manner and way on September 10th.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-276",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7090",
+      "ref": "C-7090",
+      "label": "Host Says Erika Gave an In-Home New York Times Interview in the Days After the Assassination",
+      "claim": "The host says Erika Kirk offered and then gave an in-home interview to the New York Times in the immediate days after her husband's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10905",
+        "N-10968",
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:31",
+      "investigative_direction": "Locate the published Times interview and its date and compare with the September 18, 2025 date noted earlier.",
+      "transcript_snippet": "offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.",
+      "supports_claim_refs": [
+        "C-2205"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7091",
+      "ref": "C-7091",
+      "label": "Host Says Charlie Kirk Hated the New York Times",
+      "claim": "The host says the New York Times is a publication that Erika Kirk's husband hated.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10968"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:52",
+      "investigative_direction": "Collect Charlie Kirk's recorded public statements about the Times.",
+      "transcript_snippet": "The New York Times, a publication who her husband hated.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7092",
+      "ref": "C-7092",
+      "label": "Host Says Erika Told the Times the Least Traumatizing Part Was Raising Children Without a Father",
+      "claim": "The host says Erika Kirk told the Times journalist that the least traumatizing part was the idea of raising her children without a father.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10905",
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:52",
+      "investigative_direction": "Read the Times interview text for the exact quote and context.",
+      "transcript_snippet": "the least traumatizing part was the idea of raising her children without a father.",
+      "supports_claim_refs": [
+        "C-2200"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7093",
+      "ref": "C-7093",
+      "label": "Host Says Erika Went Into the Office the Same Week and Brought Her Kids Every Day",
+      "claim": "The host says Erika Kirk felt compelled to go into the office the same week as the assassination and to bring her children every day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:52",
+      "investigative_direction": "Ask TPUSA staff and check dated posts or reports of Erika Kirk's office appearances in the week after September 10, 2025.",
+      "transcript_snippet": "she felt compelled to go into the office the same week and to bring her kids every day",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7094",
+      "ref": "C-7094",
+      "label": "Host Says Erika Told Jesse Waters She Had Zero Fear",
+      "claim": "The host says Erika Kirk told Jesse Watters that she had zero fear and was not scared to walk out the door the next day with her kids in tow.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:52",
+      "investigative_direction": "Pull the Fox News interview and check the exact words and date.",
+      "transcript_snippet": "she told Jesse Waters that she had zero fear. None at all.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-215",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7095",
+      "ref": "C-7095",
+      "label": "Host Says Erika Forgave the Alleged Killer Before Seeing Evidence of His Guilt",
+      "claim": "The host says Erika Kirk forgave the person who allegedly murdered her husband before she even saw evidence of his guilt.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:46",
+      "investigative_direction": "Compare the memorial date of the forgiveness statement with when charging documents and evidence were made public.",
+      "transcript_snippet": "she forgave the person who allegedly murdered her husband before she even saw evidence of his guilt.",
+      "supports_claim_refs": [
+        "C-1228"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7096",
+      "ref": "C-7096",
+      "label": "Host Says Erika Helped Validate Implausible Parts of the Tyler Robinson Narrative",
+      "claim": "The host says Erika Kirk helped validate the implausible parts of the narrative about Tyler Robinson, including a neck stopping a .30-06 bullet.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447",
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:46",
+      "investigative_direction": "Find Erika Kirk's dated public remarks on the wound and bullet and compare with the medical or ballistic record when released.",
+      "transcript_snippet": "Erika is so godly that she even helped to validate the implausible parts of the narrative regarding Tyler Robinson.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7097",
+      "ref": "C-7097",
+      "label": "Host Says Erika Crafted the Superman Steel Neck Account",
+      "claim": "The host says Erika Kirk came up with and crafted the Superman steel neck account.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:29",
+      "investigative_direction": "Trace which person first stated in public that the neck stopped the bullet, with dates and recordings.",
+      "transcript_snippet": "She came up and crafted the Superman steel neck and all.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7098",
+      "ref": "C-7098",
+      "label": "Dillon Says Three Weeks After Charlie's Death Erika Was Out With Sparklers",
+      "claim": "In the played clip, Tim Dillon says three weeks after the man was dead the wife was out there with sparklers and they were doing Cirque du Soleil.",
+      "anchored_artifacts": [
+        "A-2444.1"
+      ],
+      "related_nodes": [
+        "N-10403"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:15",
+      "investigative_direction": "Identify the event Dillon means and compare its date with the Charlie Kirk memorial and AmFest dates.",
+      "transcript_snippet": "3 weeks after the guy's dead, she's out there with sparklers, you know, they're doing Cirque du Soleil.",
+      "mentions_person_refs": [
+        "N-283",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7099",
+      "ref": "C-7099",
+      "label": "Dillon Posits a Scenario Where Charlie Found the Laundered Money",
+      "claim": "In the played clip, Tim Dillon says a woman might have told someone that her husband found all the laundered money and knows she is his handler.",
+      "anchored_artifacts": [
+        "A-2444.1"
+      ],
+      "related_nodes": [
+        "N-10403"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:43",
+      "investigative_direction": "Dillon frames this as a hypothetical; any support would need records of TPUSA funds Charlie may have traced.",
+      "transcript_snippet": "This guy found all the laundered money and now he knows I'm his handler and he thinks that invalidates the marriage.",
+      "qualifies_claim_refs": [
+        "C-3583"
+      ],
+      "mentions_person_refs": [
+        "N-283",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7100",
+      "ref": "C-7100",
+      "label": "Dillon Says He Is Not Saying It Happened, Only That It Is More Reasonable Than the Official Account",
+      "claim": "In the played clip, Tim Dillon says he is not saying any of that happened and that it is more reasonable than what the public is being told.",
+      "anchored_artifacts": [
+        "A-2444.1"
+      ],
+      "related_nodes": [
+        "N-10403"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:43",
+      "investigative_direction": "Obtain the full Tim Dillon episode and confirm the disclaimers on either side of the excerpt.",
+      "transcript_snippet": "And I'm not saying any of that happened. I'm saying that's more reasonable than what kind of we're being told.",
+      "qualifies_claim_refs": [
+        "C-3583"
+      ],
+      "mentions_person_refs": [
+        "N-283"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7101",
+      "ref": "C-7101",
+      "label": "Sponsor Read Says the US Added Silver to Its Critical Minerals List",
+      "claim": "In a paid sponsor read, the host says the United States has officially added silver to its critical minerals list.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:30:46",
+      "investigative_direction": "Check the USGS or Interior critical minerals list for the date silver was added.",
+      "transcript_snippet": "The United States has officially added silver to its critical minerals list",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7102",
+      "ref": "C-7102",
+      "label": "Host Says One of Trump's Few Tweets on Charlie Was an AI Image of Charlie Hugging an Israeli Flag",
+      "claim": "The host says one of the tweets Trump dedicated to Charlie Kirk after his assassination was an AI image of Charlie hugging an Israeli flag.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11132"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:04",
+      "investigative_direction": "Pull Trump's Truth Social and X posts from September 10 to 20, 2025 and identify the post with the AI image and its date.",
+      "transcript_snippet": "one of those tweets that he dedicates Charlie Kirk is an AI image of Charlie hugging an Israeli flag.",
+      "supports_claim_refs": [
+        "C-5639"
+      ],
+      "mentions_person_refs": [
+        "N-5",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7103",
+      "ref": "C-7103",
+      "label": "Host Says Trump Posted Two or Three Tweets at Most and Never Demanded an Investigation",
+      "claim": "The host says that after Charlie Kirk's assassination Trump dedicated two tweets, three at most, and never demanded an investigation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11132"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:04",
+      "investigative_direction": "Compile all Trump posts and public statements mentioning Charlie Kirk from September 10 to 30, 2025, noting any call for an investigation.",
+      "transcript_snippet": "Trump dedicates a total of two two tweets, three tweets at most to demanding and he'd never demanded investigation",
+      "mentions_person_refs": [
+        "N-5",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7104",
+      "ref": "C-7104",
+      "label": "Host Says Trump Cared More About Debunking Balding Reports Than Investigating Charlie's Murder",
+      "claim": "The host says Trump has shown more interest in debunking the mainstream media narrative about whether he is balding than in investigating who murdered Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11132"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:16",
+      "investigative_direction": "Compare dates and volume of Trump's posts on the balding story with his statements on the Kirk investigation.",
+      "transcript_snippet": "Trump has shown more interest in debunking the mainstream media narrative about whether or not he's balding than he showed any interest in investigating who murdered a person who was supposed to be his dear friend.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7105",
+      "ref": "C-7105",
+      "label": "Host Says Trump Promised Low Gas Prices and No More Forever Wars",
+      "claim": "The host says Trump promised low gas prices and no more forever wars or involvement in Middle East conflict, and that the public is now getting the opposite.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:06",
+      "investigative_direction": "Check campaign statements and current national gas price data.",
+      "transcript_snippet": "he promised low gas prices, that he promised no more forever wars, no more involvement in Middle East conflict",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7106",
+      "ref": "C-7106",
+      "label": "Host Says the Administration Adopted an IHRA Definition Covering Dual-Loyalty Accusations",
+      "claim": "The host says there is a new IHRA definition of anti-Semitism that includes accusing Jewish citizens of being more loyal to Israel than to their own nations, and that the administration has worked to erode First Amendment protections on college campuses.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:54",
+      "investigative_direction": "Check the executive order or agency guidance that adopts the IHRA definition and compare its wording with the host's quotation.",
+      "transcript_snippet": "Accusing Jewish citizens of being more loyal to Israel or to the alleged priorities of Jews worldwide than to the interest of their own nations.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7107",
+      "ref": "C-7107",
+      "label": "Host Says Trump Took One to Two Hundred Million Dollars From Miriam Adelson",
+      "claim": "The host says Trump took a hundred million to two hundred million dollars from Miriam Adelson, who Trump's own remarks suggest loves Israel more than America.",
+      "anchored_artifacts": [
+        "A-2443.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:23",
+      "investigative_direction": "Check FEC filings for Adelson contributions to Trump committees and super PACs.",
+      "transcript_snippet": "the person that he took a hundred million, two hundred million dollars from, I think in the end, loves Israel more than she loves America.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-305",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7108",
+      "ref": "C-7108",
+      "label": "Host Says Miriam Adelson Served in the IDF",
+      "claim": "The host says Miriam Adelson served in the Israel Defense Forces, and presents this as what Trump is telling the public.",
+      "anchored_artifacts": [
+        "A-2443.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:23",
+      "investigative_direction": "Check Adelson's biography for her Israeli military service; the played clip does not contain this statement.",
+      "transcript_snippet": "She served in the IDF. That's what he's saying to you.",
+      "mentions_person_refs": [
+        "N-305",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7109",
+      "ref": "C-7109",
+      "label": "Host Says Trump's Administration Delayed the Epstein Files and Called Them a Democratic Hoax",
+      "claim": "The host says the Trump administration delayed the release of the Epstein files and then gaslit the public, and that Trump called the files a Democratic hoax.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:23",
+      "investigative_direction": "Compile the dated administration statements and the release schedule of the files.",
+      "transcript_snippet": "Trump's administration then delayed the release of and then gaslit us over the Epstein files. He called the files a Democratic hoax.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7110",
+      "ref": "C-7110",
+      "label": "Host Says Trump Asked Whether People Are Still Talking About the Epstein Files",
+      "claim": "The host says Trump famously asked whether people were still talking about the Epstein files and still talking about children being harmed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:23",
+      "investigative_direction": "Locate the video of Trump's remark and verify whether the second sentence was his or the host's addition.",
+      "transcript_snippet": "He asked us famously, \"Are we still talking about the Epstein files? Are we still talking about children being harmed?\"",
+      "supports_claim_refs": [
+        "C-5176"
+      ],
+      "mentions_person_refs": [
+        "N-5",
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7111",
+      "ref": "C-7111",
+      "label": "Host Calls Jeffrey Epstein an Occultist Jewish Pedophile",
+      "claim": "The host says Jeffrey Epstein was an occultist Jewish pedophile.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:23",
+      "investigative_direction": "Epstein's conviction and the released files can be checked for his religion and any occult activity; the host cites no source for the occult claim.",
+      "transcript_snippet": "that's what Jeffrey Epstein was, an occultist Jewish pedophile.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7112",
+      "ref": "C-7112",
+      "label": "Host Says Netanyahu Called Venezuela Anti-Semitic and the US Then Took Out Maduro",
+      "claim": "The host says Bibi Netanyahu said Venezuela is anti-Semitic and that the United States then took out Nicolas Maduro, which she says benefited Israel.",
+      "anchored_artifacts": [
+        "A-2445.1"
+      ],
+      "related_nodes": [
+        "N-10962"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:28",
+      "investigative_direction": "Find any Netanyahu statement about Venezuela before January 2026 and the dates of the operation against Maduro.",
+      "transcript_snippet": "until Bibi Netanyahu said, \"Venezuela's anti-Semitic.\" Then we took out Maduro, and guess who benefited from that?",
+      "mentions_person_refs": [
+        "N-36",
+        "N-687",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7113",
+      "ref": "C-7113",
+      "label": "Host Says US Taxpayer Money for the Venezuela Operation Has Benefited Israel",
+      "claim": "The host says American tax dollars were sent to support the military operation in Venezuela, which she says has thus far benefited Israel.",
+      "anchored_artifacts": [
+        "A-2445.1"
+      ],
+      "related_nodes": [
+        "N-10962"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:28",
+      "investigative_direction": "Check the shipment headline's date and publication against the date of the operation.",
+      "transcript_snippet": "your tax-paying dollars were sent to support the military operation in Venezuela, which has thus far benefited Israel.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7114",
+      "ref": "C-7114",
+      "label": "Host Says Greenland Has an Estimated 31 Billion Barrels of Untapped Oil and Is Why Trump Wants It",
+      "claim": "The host says her best guess for the real reason Trump is obsessed with acquiring Greenland is that it has untapped crude oil, an estimated 31 billion barrels, which she says would help Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:28",
+      "investigative_direction": "Check geological survey estimates of Greenland oil resources against the 31 billion barrel figure.",
+      "transcript_snippet": "the real reason why Trump is obsessed with acquiring Greenland. Because they do have untapped crude oil, an estimated 31 billion barrels worth.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7115",
+      "ref": "C-7115",
+      "label": "Host Says Glyphosate Is a Cancer-Causing Agent",
+      "claim": "The host says glyphosate, the weed killer's active agent, is cancer-causing and that the public knows it causes cancer.",
+      "anchored_artifacts": [
+        "A-2446.1"
+      ],
+      "related_nodes": [
+        "N-11133"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:32",
+      "investigative_direction": "Check IARC, EPA and court findings on glyphosate and cancer risk; this is a contested scientific claim.",
+      "transcript_snippet": "That is the cancer-causing agents that is in the weed killer. We know it causes cancer.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7116",
+      "ref": "C-7116",
+      "label": "Host Says White Phosphorus Is Being Used Right Now in Lebanon",
+      "claim": "The host says white phosphorus is being used right now in Lebanon and introduces a headline saying Israel is unlawfully using it.",
+      "anchored_artifacts": [
+        "A-2447.1"
+      ],
+      "related_nodes": [
+        "N-11133"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:38",
+      "investigative_direction": "Identify the headline's publisher and date and any rights-group findings about white phosphorus in southern Lebanon.",
+      "transcript_snippet": "guess Guess what is being used right now in Lebanon. Check out this headline.",
+      "qualifies_claim_refs": [
+        "C-3579"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7117",
+      "ref": "C-7117",
+      "label": "Host Insinuates Israel's White Phosphorus Comes From the Trump Administration",
+      "claim": "The host wonders where Israel is getting white phosphorus from and answers sarcastically that it is probably from the pro-peace ticket, implying a US supply link.",
+      "anchored_artifacts": [
+        "A-2447.1"
+      ],
+      "related_nodes": [
+        "N-11133"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:38",
+      "investigative_direction": "Check US arms transfer records for white phosphorus munitions to Israel and Bayer's role, if any.",
+      "transcript_snippet": "I wonder where they're getting that from. Probably from the pro-peace ticket.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7118",
+      "ref": "C-7118",
+      "label": "Host Says Netanyahu Instructed Trump to Bomb Iran Almost Immediately",
+      "claim": "The host says Bibi Netanyahu instructed Trump to bomb Iran almost immediately.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:26",
+      "investigative_direction": "Look for reporting on Netanyahu-Trump communications before the June 2025 strikes and the 2026 campaign.",
+      "transcript_snippet": "BB instructed Trump to bomb Iran almost immediately.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7119",
+      "ref": "C-7119",
+      "label": "Host Says Iran Action Was Limited to Nuclear Sites Because Charlie Was Alive",
+      "claim": "The host says that because Charlie Kirk was alive at that time, the initial US action against Iran was limited to hitting nuclear sites.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10539",
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:26",
+      "investigative_direction": "Compare the June 2025 strike scope with Charlie Kirk's stated opposition and any reporting on internal debate.",
+      "transcript_snippet": "because Charlie Kirk was alive at that time, it was at first limited to just hitting their nuclear sites.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7120",
+      "ref": "C-7120",
+      "label": "Host Says the Obstacle of Charlie Kirk Was Then Removed",
+      "claim": "The host says the obstacle of Charlie Kirk was then subsequently removed and that the United States is now preemptively bombing Iran.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10539",
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:26",
+      "investigative_direction": "No evidence of motive is offered; test against the actual investigation record into the shooting.",
+      "transcript_snippet": "the obstacle of Charlie Kirk was then subsequently removed, and now where are we, right?",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7121",
+      "ref": "C-7121",
+      "label": "Host Says the US Preemptively Killed 150 Iranian Schoolgirls Aged 7 to 12",
+      "claim": "The host says the United States just killed 150 Iranian schoolgirls between the ages of 7 and 12 in a preemptive strike.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:59",
+      "investigative_direction": "Check Iranian, UN and independent reporting on a strike on a girls' school, with casualty count and date.",
+      "transcript_snippet": "We just murdered 150 Iranian schoolgirls between the ages of 7 and 12 preemptively.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7122",
+      "ref": "C-7122",
+      "label": "Host Says Finkelstein Told Her Israel Had a Policy Called Mowing the Lawn in Gaza",
+      "claim": "The host says Norman Finkelstein told her Israel had a literal government policy known as mowing the lawn in Gaza, in which the IDF would randomly shoot Palestinians so the population did not grow.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:38",
+      "investigative_direction": "Check Finkelstein's published statements on the doctrine; the term is commonly used for periodic military operations, not random killings to limit population.",
+      "transcript_snippet": "Norm Finkelstein informing me that Israel had a literal and actual government policy known as mowing the lawn in Gaza",
+      "mentions_person_refs": [
+        "N-203",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7123",
+      "ref": "C-7123",
+      "label": "Host Says Epstein Files Show Open Conversations About People Being Unable to Reproduce in the Future",
+      "claim": "The host says those going through the Epstein files find conversations openly about how in the future people will not be able to reproduce on their own.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:27",
+      "investigative_direction": "Identify the specific documents in the released files and read the context of those conversations.",
+      "transcript_snippet": "making our way through the Jeffrey Epstein files, effectively having conversations openly openly about how in the future people won't even be able to reproduce on their own.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7124",
+      "ref": "C-7124",
+      "label": "Host Identifies Benny Gantz as Israel's Defense Minister",
+      "claim": "The host introduces Benny Gantz as Israel's defense minister in the clip she plays.",
+      "anchored_artifacts": [
+        "A-2449.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:20",
+      "investigative_direction": "Check Gantz's office at the date of the interview and the interview's actual date; the host does not date the clip.",
+      "transcript_snippet": "Here is Israel's defense minister, Benny Gantz, discussing that he's not going to exclude that need.",
+      "qualifies_claim_refs": [
+        "C-3581"
+      ],
+      "mentions_person_refs": [
+        "N-787",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7125",
+      "ref": "C-7125",
+      "label": "Gantz Says Israel Is Neutralizing Iran's Command and Control System",
+      "claim": "In the played clip, Benny Gantz says Israel is currently neutralizing Iran's command and control system and its capacity to influence the region.",
+      "anchored_artifacts": [
+        "A-2449.1"
+      ],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:19",
+      "investigative_direction": "Identify the interviewer, outlet and date of the full interview.",
+      "transcript_snippet": "Currently, we are neutralizing Iran's uh command and control system and Iran capacity to influence the region",
+      "mentions_person_refs": [
+        "N-787"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7126",
+      "ref": "C-7126",
+      "label": "Host Says Leavitt Signaled That a Draft Is Not Off the Table",
+      "claim": "The host says Karoline Leavitt signaled that a draft is not off the table because Trump is smart; in the played clip the question mentioned a draft and the answer concerned troops on the ground and options.",
+      "anchored_artifacts": [
+        "A-2450.1"
+      ],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:11",
+      "investigative_direction": "Read the full briefing transcript for whether Leavitt addressed a draft directly.",
+      "transcript_snippet": "we have Karoline Leavitt signaling that a a draft is not off the table because Trump is smart.",
+      "qualifies_claim_refs": [
+        "C-3582"
+      ],
+      "mentions_person_refs": [
+        "N-286",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7127",
+      "ref": "C-7127",
+      "label": "Leavitt Says Ground Troops Are Not Part of the Current Plan but Options Stay on the Table",
+      "claim": "In the played clip, Karoline Leavitt says troops on the ground are not part of the current plan right now but the president wisely keeps his options on the table.",
+      "anchored_artifacts": [
+        "A-2450.1"
+      ],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:46",
+      "investigative_direction": "Pull the White House briefing transcript and date.",
+      "transcript_snippet": "It's not part of the current plan right now, but the president again wisely keeps his options on the table.",
+      "mentions_person_refs": [
+        "N-286",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7128",
+      "ref": "C-7128",
+      "label": "Leavitt Says Trump Launched Operation Epic Fury to Stop Iranian Attacks on US Bases",
+      "claim": "In the played clip, Karoline Leavitt says Trump was not going to allow Iran to attack US bases and troops first, which is why he launched Operation Epic Fury.",
+      "anchored_artifacts": [
+        "A-2450.1"
+      ],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:46",
+      "investigative_direction": "Check the Department of War or White House announcement naming Operation Epic Fury and its start date.",
+      "transcript_snippet": "that's why he took this historic action by launching Operation Epic Fury.",
+      "mentions_person_refs": [
+        "N-286",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7129",
+      "ref": "C-7129",
+      "label": "Leavitt Says Iran Has Killed and Maimed Thousands of American Soldiers",
+      "claim": "In the played clip, Karoline Leavitt says Iran has threatened US bases for 47 years and has killed and maimed thousands of American soldiers.",
+      "anchored_artifacts": [
+        "A-2450.1"
+      ],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:46",
+      "investigative_direction": "Compare with Department of Defense casualty figures attributed to Iran-backed attacks.",
+      "transcript_snippet": "They have killed and maimed thousands of American soldiers.",
+      "mentions_person_refs": [
+        "N-286"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7130",
+      "ref": "C-7130",
+      "label": "Host Says Only Israel Gets Away With the Lavon Affair and the USS Liberty",
+      "claim": "The host says Israel got to get away with the Lavon Affair and with what it did to the USS Liberty, and that attacking America is a right reserved for Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10451"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:48",
+      "investigative_direction": "Compare with the historical record and official inquiries on the Lavon Affair (1954) and the USS Liberty attack (1967).",
+      "transcript_snippet": "Israel got to get away with the Lavon Affair. Only Israel is allowed to get away with what they did at the USS Liberty.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7131",
+      "ref": "C-7131",
+      "label": "Host Says Officials Moved From Midnight Hammer Only to Preemptive Strikes and Open Ground Options",
+      "claim": "The host says officials first said it would be just Operation Midnight Hammer and now say more preemptive action is needed and that ground options are on the table.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:48",
+      "investigative_direction": "Compile dated administration statements on the limits of Operation Midnight Hammer and the later campaign.",
+      "transcript_snippet": "Just Operation Midnight Hammer. That's it. Now it's suddenly, oh, no, we need to do a little bit more preemptively.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7132",
+      "ref": "C-7132",
+      "label": "Host Says Ackman Retweeted Posts Saying It Is a Federal Crime to Tell People Not to Join the Military",
+      "claim": "The host says Bill Ackman was retweeting people who said it is a federal crime to tell people not to sign up for the military, after she suggested people should not join.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:40",
+      "investigative_direction": "Capture Ackman's X activity from March 7 to 9, 2026 and check the relevant federal statute.",
+      "transcript_snippet": "Bill was retweeting people who were stipulating that it's actually federal crime to tell people apparently not to sign up for the military.",
+      "mentions_person_refs": [
+        "N-37",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7133",
+      "ref": "C-7133",
+      "label": "Host Says Trump Fired Carrie Prejean Boller From the Religious Committee Over Zionist Objections",
+      "claim": "The host says Trump recently fired Carrie Prejean Boller from the religious committee because Zionists did not like her Catholic perspectives.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:35",
+      "investigative_direction": "Check the removal notice from the Religious Liberty Commission and any stated reason.",
+      "transcript_snippet": "Trump recently firing Carrie Prejean Boller from the religious committee because Zionists didn't like her Catholic perspectives.",
+      "supports_claim_refs": [
+        "C-2370"
+      ],
+      "mentions_person_refs": [
+        "N-566",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7134",
+      "ref": "C-7134",
+      "label": "Host Says the Cease and Desist Cited Her Claim That TPUSA Was Militarily Infiltrated",
+      "claim": "The host says the cease and desist letter she received from Turning Point USA objected to her saying that Turning Point was militarily infiltrated.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10436",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:43",
+      "investigative_direction": "Obtain the cease and desist letter and read its text on the infiltration claim.",
+      "transcript_snippet": "when they sent me that cease and desist, they they wrote uh for saying that Turning Point is like militarily got infiltrated",
+      "supports_claim_refs": [
+        "C-5297"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7135",
+      "ref": "C-7135",
+      "label": "Host Says She Pointed to the Backgrounds of Pastors, TP Faith and Erika's Mother",
+      "claim": "The host says she pointed out the backgrounds of the pastors, Turning Point Faith and Erika's mother, and that a lot of military people arrived very quickly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10436",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:43",
+      "investigative_direction": "Compile the named pastors' and Erika's mother's documented military or defense ties with sources.",
+      "transcript_snippet": "I pointed out the background of all of these pastors and Turning Point Faith and Erika's mother. It just seems like a lot of military people arrived very quickly.",
+      "supports_claim_refs": [
+        "C-5297"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7136",
+      "ref": "C-7136",
+      "label": "Host Reads a Viewer Comment Saying Many Gave Thousands Through GiveSendGo So Erika Could Stay Home",
+      "claim": "The host reads a comment from viewer TJ Kurt saying many gave thousands of dollars through GiveSendGo so that Erika Kirk could stay home with her babies, and that Erika now says it is not enough and she must work.",
+      "anchored_artifacts": [
+        "A-2855.1"
+      ],
+      "related_nodes": [
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:43",
+      "investigative_direction": "Locate the GiveSendGo campaign, its organizer, total raised and stated purpose.",
+      "transcript_snippet": "many of us gave thousands of dollars through GiveSendGo so that Erika could stay at home with her babies.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7137",
+      "ref": "C-7137",
+      "label": "Host Says Someone Pointed Out That Elon Musk Donated to the Family",
+      "claim": "The host says someone pointed out that she had missed that Elon Musk donated money to Erika Kirk's family.",
+      "anchored_artifacts": [
+        "A-2855.1"
+      ],
+      "related_nodes": [
+        "N-10505"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:36",
+      "investigative_direction": "Check the GiveSendGo donor list or Musk's public statements on a gift to the Kirk family.",
+      "transcript_snippet": "I think someone pointed out that I even missed that Elon Musk donated money to them.",
+      "mentions_person_refs": [
+        "N-119",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7138",
+      "ref": "C-7138",
+      "label": "Host Says Christian Zionist Pastors Resemble Followers of Jacob Frank in a Messianic Mission",
+      "claim": "The host says the Christian Zionists, including Paula White and the pastors around Trump, resemble a movement that followed Jacob Frank and believed in a messianic mission.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10209"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:46",
+      "investigative_direction": "No source is cited; compare historians' accounts of Frankism with the host's analogy.",
+      "transcript_snippet": "similarly you had this movement of people similar to the Christian Zionists that are like unhinged looking at Paula White, the pastors that are surrounding Trump",
+      "mentions_person_refs": [
+        "N-788",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7139",
+      "ref": "C-7139",
+      "label": "Host Says Pastors Were Promised Property in Gaza to Win Church Support",
+      "claim": "The host says property in Gaza was promised to a lot of these pastors, with homes already promised to them to convince their churches to support this.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10063",
+        "N-10209"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:39",
+      "investigative_direction": "Ask the host for the source; check reporting on any Gaza development plans naming pastors.",
+      "transcript_snippet": "For property that was promised to a lot of these pastors by the way, property in Gaza.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7140",
+      "ref": "C-7140",
+      "label": "Host Says She Made the Kamala Chronicles and Left the Hardcore MAGA Train a While Ago",
+      "claim": "The host says she did the Kamala Chronicles series and has been off the hardcore MAGA Trump train for a while.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:04:10",
+      "investigative_direction": "Check the dates of the Kamala Chronicles and the host's earlier public endorsements of Trump.",
+      "transcript_snippet": "I did the Kamala Chronicles, but I've been off that like hardcore MAGA Trump train for a while actually.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7141",
+      "ref": "C-7141",
+      "label": "Host Says on Very Good Authority That TPUSA Cancelled Events Where Erika Was to Speak",
+      "claim": "The host says she has it on very good authority that Turning Point USA had to cancel events at which Erika Kirk was to speak because of backlash.",
+      "anchored_artifacts": [
+        "A-2855.2"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-11072"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:49",
+      "investigative_direction": "Ask venues and organizers for cancelled Erika Kirk bookings from fall 2025 through March 2026 and the reasons given.",
+      "transcript_snippet": "have it on very good authority that they have had to cancel uh events that Erika was intended to speak at because there has been a backlash.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7142",
+      "ref": "C-7142",
+      "label": "Host Says Megyn Kelly Is Being Attacked Really Hard",
+      "claim": "The host says Megyn Kelly has been attacked really hard and asks viewers to pray for her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:08:12",
+      "investigative_direction": "Compile recent attacks on Kelly by named outlets or figures and their dates.",
+      "transcript_snippet": "make sure you pray for Megyn Kelly. They've been attacking her really hard.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-46",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-46",
+      "ref": "M-46",
+      "canonical_term": "Handler",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 75,
+          "video_timestamp": "00:26:15",
+          "speaker_node_ref": "N-3",
+          "quote": ", it's creepy. And there's a very good chance that this woman was his handler. That he was this powerful young guy who raised a lot of money for a ...",
+          "context": "Later reuse of Handler in CKA seq 75.",
+          "confidence": "high",
+          "tags": [
+            "intel",
+            "operators",
+            "theory",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-180",
+      "ref": "M-180",
+      "canonical_term": "Preemptive Peace",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 75,
+          "video_timestamp": "00:40:38",
+          "speaker_node_ref": "N-3",
+          "quote": "It's always peace until Israel gets involved.",
+          "context": "Host mocks the pro-peace framing of the Trump administration.",
+          "confidence": "high",
+          "tags": [
+            "peace",
+            "israel",
+            "iran"
+          ]
+        },
+        {
+          "episode": 75,
+          "video_timestamp": "00:43:41",
+          "speaker_node_ref": "N-3",
+          "quote": "Preemptive preemptive peace.",
+          "context": "Host sarcastically names the bombing of Iran preemptive peace.",
+          "confidence": "high",
+          "tags": [
+            "peace",
+            "preemptive",
+            "iran"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 75,
+          "video_timestamp": "01:01:46",
+          "speaker_node_ref": "N-3",
+          "quote": "We don't know, but we know.",
+          "context": "Host says the identity of the Messiah the occultists await is unknown yet understood.",
+          "confidence": "high",
+          "tags": [
+            "gut certainty",
+            "messiah"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 75,
+          "video_timestamp": "00:37:23",
+          "speaker_node_ref": "N-3",
+          "quote": "delayed the release of and then gaslit us over the Epstein files",
+          "context": "Host says the administration gaslit the public over the Epstein files.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "epstein"
+          ]
+        },
+        {
+          "episode": 75,
+          "video_timestamp": "01:04:10",
+          "speaker_node_ref": "N-3",
+          "quote": "the manner in which he is gaslighting us",
+          "context": "Host reads a viewer question about Trump gaslighting the public.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "trump"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-135",
+      "ref": "M-135",
+      "canonical_term": "Mask Down",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 75,
+          "video_timestamp": "00:58:25",
+          "speaker_node_ref": "N-3",
+          "quote": "We're going to go mask down.",
+          "context": "Host imagines Israel dropping its mask after gaining power over the US.",
+          "confidence": "high",
+          "tags": [
+            "mask down",
+            "israel"
+          ]
+        },
+        {
+          "episode": 75,
+          "video_timestamp": "01:07:19",
+          "speaker_node_ref": "N-3",
+          "quote": "unless she does a mask down, sit down, tell the truth, sort of interview, no holds barred",
+          "context": "Host says Erika Kirk's only path in politics is a mask-down interview.",
+          "confidence": "high",
+          "tags": [
+            "mask down",
+            "erika"
+          ]
+        }
+      ]
+    }
+  ]
 }

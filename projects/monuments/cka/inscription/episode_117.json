@@ -69,7 +69,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-705",
+            "N-704",
             "N-2",
             "N-1"
           ],
@@ -145,8 +145,8 @@
             "C-4660"
           ],
           "related_nodes": [
+            "N-698",
             "N-699",
-            "N-700",
             "N-10107"
           ],
           "tags": [],
@@ -276,7 +276,7 @@
           ],
           "related_nodes": [
             "N-185",
-            "N-701",
+            "N-700",
             "N-267",
             "N-7",
             "N-1",
@@ -305,8 +305,8 @@
             "C-4677"
           ],
           "related_nodes": [
-            "N-702",
-            "N-701"
+            "N-701",
+            "N-700"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -324,7 +324,7 @@
             "C-4683"
           ],
           "related_nodes": [
-            "N-702",
+            "N-701",
             "N-10989"
           ],
           "tags": [],
@@ -382,9 +382,9 @@
             "N-17",
             "N-461",
             "N-14",
-            "N-704",
+            "N-703",
             "N-471",
-            "N-702",
+            "N-701",
             "N-10401",
             "N-10186"
           ],
@@ -1192,8 +1192,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-699",
-      "ref": "N-699",
+      "@id": "N-698",
+      "ref": "N-698",
       "name": "Dan Merrill",
       "type": "person",
       "description": "First named by the host at 00:06:08 in episode 117. The professional paver brought in to pave the crime scene, interviewed by Jimmy Rex.",
@@ -1212,8 +1212,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-700",
-      "ref": "N-700",
+      "@id": "N-699",
+      "ref": "N-699",
       "name": "Jimmy Rex",
       "type": "person",
       "description": "First named by the host at 00:06:08 in episode 117. Interviewer of paver Dan Merrill.",
@@ -1232,8 +1232,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-701",
-      "ref": "N-701",
+      "@id": "N-700",
+      "ref": "N-700",
       "name": "Philip Goldsberry Jr.",
       "type": "person",
       "description": "First named by the host at 00:14:08 in episode 117. Member of Terrell Farnsworth's AV team whom the host identifies as the person who mic'd Charlie Kirk on September 10. Aliases: Philip Goldsberry; Phillips Goldsberry.",
@@ -1256,8 +1256,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-702",
-      "ref": "N-702",
+      "@id": "N-701",
+      "ref": "N-701",
       "name": "Dr. Philip Goldsberry",
       "type": "person",
       "description": "First named by the host at 00:17:32 in episode 117. Arizona pastor, father of Philip Goldsberry Jr., co-founder and board chairman of Soter Global Ministries. Aliases: Philip Goldsberry Sr.; Phil Goldsberry.",
@@ -1280,8 +1280,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-703",
-      "ref": "N-703",
+      "@id": "N-702",
+      "ref": "N-702",
       "name": "Otto Busher",
       "type": "person",
       "description": "First named by the host at 00:18:27 in episode 117. Transcript spelling \"Colonel Otto Busher\"; a US military colonel the host says partnered with Erika Kirk's Romanian Angels and was accused online of trafficking. The correct spelling is unverified.",
@@ -1298,8 +1298,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-704",
-      "ref": "N-704",
+      "@id": "N-703",
+      "ref": "N-703",
       "name": "Curtis Kolvet",
       "type": "person",
       "description": "First named by the host at 00:24:24 in episode 117. Andrew Kolvet's brother (\"Andrew Corbett's brother, Curtis\"), said to be a lieutenant colonel stationed in Romania. Surname inferred from the brother relationship.",
@@ -1317,8 +1317,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-705",
-      "ref": "N-705",
+      "@id": "N-704",
+      "ref": "N-704",
       "name": "Laura Ingraham",
       "type": "person",
       "description": "First named by the host at 00:38:48 in episode 117 (transcript spelling \"Laura Ingram\"). Host of the show on which the Kolvet necklace clip aired.",
@@ -1973,7 +1973,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-701",
+        "N-700",
         "N-267"
       ]
     },
@@ -2023,7 +2023,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-702"
+        "N-701"
       ]
     },
     {
@@ -2045,7 +2045,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-703"
+        "N-702"
       ]
     },
     {
@@ -2267,8 +2267,8 @@
       "investigative_direction": "Obtain UVU facilities and contractor records for the excavation and paving, including which agency or contractor removed the soil and where it was taken.",
       "transcript_snippet": "just a few days later, they had sent another government team to go in and to dig out all of the soil. 8 to 10 in of soil.",
       "mentions_person_refs": [
-        "N-699",
-        "N-700"
+        "N-698",
+        "N-699"
       ]
     },
     {
@@ -2288,8 +2288,8 @@
       "investigative_direction": "Obtain Merrill's photographs with metadata and compare them with UVU's records of the site work.",
       "transcript_snippet": "When I showed up, I took pictures of what it looked like. They had taken out about 10 in of the dirt around the whole place.",
       "mentions_person_refs": [
-        "N-699",
-        "N-700"
+        "N-698",
+        "N-699"
       ]
     },
     {
@@ -2574,7 +2574,7 @@
       "investigative_direction": "Confirm the technician's identity from event crew lists, Visual Impulse staffing records and UVU credentialing.",
       "transcript_snippet": "And that answer is uh the answer is a young man named Philip Goldsberry Jr., okay?",
       "mentions_person_refs": [
-        "N-701",
+        "N-700",
         "N-267",
         "N-185",
         "N-1"
@@ -2598,7 +2598,7 @@
       "transcript_snippet": "This is how we know it's the Rode Wireless Pro microphone because it comes with the dual charging cases and and docking stations.",
       "mentions_person_refs": [
         "N-185",
-        "N-701",
+        "N-700",
         "N-267",
         "N-7"
       ]
@@ -2621,7 +2621,7 @@
       "investigative_direction": "Frame-by-frame analysis of the mic-up and shooting footage to locate the transmitter relative to the necklace.",
       "transcript_snippet": "And here you can see that Philip Goldsberry secured it under Charlie's shirt next to the necklace.",
       "mentions_person_refs": [
-        "N-701",
+        "N-700",
         "N-185",
         "N-1"
       ]
@@ -2643,8 +2643,8 @@
       "investigative_direction": "Verify Dr. Goldsberry's ministry, credentials and family relationship through church and public records.",
       "transcript_snippet": "his name is Dr. Philip Goldsberry. So, they have obviously the same name. That's his dad right there. He is a pastor in Arizona",
       "mentions_person_refs": [
-        "N-702",
-        "N-701"
+        "N-701",
+        "N-700"
       ]
     },
     {
@@ -2684,7 +2684,7 @@
       "investigative_direction": "Obtain Soter Global Ministries' founding documents, IRS filings and board history.",
       "transcript_snippet": "Dr. Philip Goldsberry co-founded a charitable organization which began doing work in Eastern Europe.",
       "mentions_person_refs": [
-        "N-702"
+        "N-701"
       ]
     },
     {
@@ -2705,7 +2705,7 @@
       "investigative_direction": "Review Soter Global Ministries' annual reports and Form 990s for program locations and partner orphanages.",
       "transcript_snippet": "The organization would come to be known as Soder Global Ministries. And of course, they were in Ukraine. And of course, they were in Romania helping to provide medical care to orphanages.",
       "mentions_person_refs": [
-        "N-702"
+        "N-701"
       ]
     },
     {
@@ -2748,7 +2748,7 @@
       "transcript_snippet": "This is what landed Erika's Romanian Angels in some hot water online when they realized she was partnering with Colonel Auto Buscher",
       "mentions_person_refs": [
         "N-2",
-        "N-703"
+        "N-702"
       ]
     },
     {
@@ -2768,8 +2768,8 @@
       "investigative_direction": "Check archived versions of the Soter website and its current board listing in state and IRS filings.",
       "transcript_snippet": "So, today Dr. Goldsberry is the chairman of the board of Soter Global Ministries.",
       "mentions_person_refs": [
-        "N-702",
-        "N-701"
+        "N-701",
+        "N-700"
       ]
     },
     {
@@ -2888,7 +2888,7 @@
       "transcript_snippet": "In late 2012, we all we know uh that Erika begins her Romanian Angels Project",
       "mentions_person_refs": [
         "N-2",
-        "N-703"
+        "N-702"
       ]
     },
     {
@@ -2976,7 +2976,7 @@
       "transcript_snippet": "Andrew Corbett's brother, Curtis, is currently stationed in Romania as a lieutenant colonel.",
       "mentions_person_refs": [
         "N-14",
-        "N-704"
+        "N-703"
       ]
     },
     {

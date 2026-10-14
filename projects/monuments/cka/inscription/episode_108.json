@@ -227,7 +227,7 @@
             "C-4243"
           ],
           "related_nodes": [
-            "N-650",
+            "N-649",
             "N-10944"
           ],
           "tags": [],
@@ -902,8 +902,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-650",
-      "ref": "N-650",
+      "@id": "N-649",
+      "ref": "N-649",
       "name": "Kouri Richins",
       "type": "person",
       "description": "First named by the host at 00:24:28 in episode 108. Utah widow whom the host says was found guilty of murdering her husband after writing a children's book on grief. Transcript spelling \"Kouri D. Richins\".",
@@ -928,8 +928,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-651",
-      "ref": "N-651",
+      "@id": "N-650",
+      "ref": "N-650",
       "name": "Eric Richins",
       "type": "person",
       "description": "First named by the host at 00:26:29 in episode 108. Kouri Richins's husband, who the host says covertly transferred his estate to his sister before he was killed. Transcript spelling \"Eric Richens\".",
@@ -949,8 +949,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-652",
-      "ref": "N-652",
+      "@id": "N-651",
+      "ref": "N-651",
       "name": "Ed Gallrein",
       "type": "person",
       "description": "First named by the host at 00:52:19 in episode 108. Named in the comments as a candidate the host calls embarrassing, with no crowd at his victory party. Kept in the transcript spelling (see Optional Flags).",
@@ -1387,7 +1387,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-593",
-        "N-652"
+        "N-651"
       ]
     },
     {
@@ -1460,8 +1460,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-650",
-        "N-651"
+        "N-649",
+        "N-650"
       ]
     },
     {
@@ -2067,7 +2067,7 @@
       "investigative_direction": "Check the Summit County, Utah court record for the verdict in State v. Kouri Richins.",
       "transcript_snippet": "the one in Utah, ironically, who was found guilty of murdering her husband out in but but like not instantly.",
       "mentions_person_refs": [
-        "N-650"
+        "N-649"
       ]
     },
     {
@@ -2087,7 +2087,7 @@
       "investigative_direction": "Locate the original broadcast and its air date.",
       "transcript_snippet": "So, my husband passed away unexpectedly last year. So, it's March 4th was a 1-year anniversary for us, and um he was 39.",
       "mentions_person_refs": [
-        "N-650"
+        "N-649"
       ]
     },
     {
@@ -2107,7 +2107,7 @@
       "investigative_direction": "Check the arrest date in Summit County, Utah records against the broadcast date.",
       "transcript_snippet": "A month later, she would be arrested over a year after her husband had passed away.",
       "mentions_person_refs": [
-        "N-650"
+        "N-649"
       ]
     },
     {
@@ -2125,8 +2125,8 @@
       "investigative_direction": "Review trial testimony and estate filings in the Richins case.",
       "transcript_snippet": "her husband, uh Eric Richens, also her victim, gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away",
       "mentions_person_refs": [
-        "N-651",
-        "N-650"
+        "N-650",
+        "N-649"
       ]
     },
     {
@@ -2144,8 +2144,8 @@
       "investigative_direction": "Review trial exhibits on the insurance beneficiary change in the Richins case.",
       "transcript_snippet": "the court heard that Kouri herself attempted to change the beneficiary of his corporate life insurance so that she would receive it 100% of the payout.",
       "mentions_person_refs": [
-        "N-650",
-        "N-651"
+        "N-649",
+        "N-650"
       ]
     },
     {
@@ -2563,7 +2563,7 @@
       "transcript_snippet": "You had to have uh the camera zoomed in real close to your face so people couldn't see the the no crowd that showed up even to your victory party.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-652"
+        "N-651"
       ]
     }
   ],

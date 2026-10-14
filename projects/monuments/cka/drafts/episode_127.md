@@ -6,13 +6,18 @@
 - **YouTube id**: mLvJqdxS-FY
 - **Candace Ep**: 361
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:08:28
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: a00c93c3de8fb9fe25ca93a10cae28c73ff062257c969ca7726819b14b4093e7
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10b): N-792, N-793, N-794, N-11138
+  - Hole-minted Nodes (reintro-ep127): N-10736, N-10772, N-10773, N-10778
+  - Tip-minted Nodes (reintro-ep127): N-753
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10b): C-7280–C-7351
   - New Nodes Introduced: N-10725, N-10726, N-10727, N-10728, N-10731
-  - Reused Nodes Appearing: N-388, N-517, N-10729, N-10730
+  - Reused Nodes Appearing: N-388, N-517, N-10729, N-10730, N-11, N-14, N-22, N-27, N-40, N-50, N-69, N-97, N-162, N-212, N-229, N-236, N-332, N-337, N-374, N-440, N-697, N-752, N-10000, N-10012, N-10014, N-10021, N-10024, N-10026, N-10064, N-10090, N-10131, N-10177, N-10209, N-10447, N-10566, N-10681, N-10692, N-10712, N-10717, N-10818, N-10888, N-11017, N-11065, N-10754
   - Hole-minted Nodes (wave3): N-518
   - (see registers)
 
@@ -36,6 +41,111 @@ Tags: intel, residual, mk_ultra, reuse
 Confidence: high
 
 ---
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:02:41
+Speaker: N-3
+Quote: slop is their entire brand
+Context: Host says slop is the feds' entire brand while introducing the backpack story.
+Tags: fed slop
+Confidence: high
+
+---
+
+**M-74** (meme) Believe Your Own Eyes
+
+### Occurrence 1
+
+Video Timestamp: 00:45:58
+Speaker: N-3
+Quote: So, don't stop telling us not to believe our own eyes.
+Context: Host on influencers telling viewers not to believe what they see in the interrogation video.
+Tags: believe own eyes, video
+Confidence: high
+
+---
+
+**M-86** (meme) That's My Opinion, I'm Sticking to It
+
+### Occurrence 1
+
+Video Timestamp: 00:54:11
+Speaker: N-3
+Quote: that's my opinion and I'm sticking to it until proven otherwise
+Context: Host on her belief in a Freemasonic ritual.
+Tags: opinion, ritual
+Confidence: high
+
+---
+
+**M-37** (meme) Grifter
+
+### Occurrence 1
+
+Video Timestamp: 00:30:49
+Speaker: N-3
+Quote: He's kind of the leader of the Christian grift.
+Context: Host on Frank Turek.
+Tags: grift, turek
+Confidence: high
+
+---
+
+**M-185** (meme) Amnesia
+
+### Occurrence 1
+
+Video Timestamp: 00:01:21
+Speaker: N-3
+Quote: Everybody's blacking out. Everybody has amnesia about September 10th.
+Context: Host frames the episode's running bit about officials forgetting September 10.
+Tags: amnesia, opener
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:04:45
+Speaker: N-3
+Quote: another blackout, another amnesia spell, this time from a piece of tech
+Context: Host applies the bit to the body cam.
+Tags: amnesia, body cam
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 01:00:13
+Speaker: N-3
+Quote: unfortunately, my body cam has amnesia.
+Context: Host closes the viewer-comment pattern with the bit.
+Tags: amnesia, body cam
+Confidence: high
+
+---
+
+**M-186** (meme) Squishmallow
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: she loses her Squishmallow
+Context: Host opens with her daughter Louise and the strawberry Squishmallow.
+Tags: opener, family
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:03:40
+Speaker: N-3
+Quote: The strawberry Squishmallow will be found at a different time.
+Context: Host closes with the Squishmallow running gag.
+Tags: family, closer
+Confidence: high
 
 ---
 
@@ -169,6 +279,105 @@ Confidence Level: Medium (host described content; clip not replayed on air)
 
 ---
 
+**A-2866** Brian Harpole Hospital Arrival Clip Bundle
+
+**A-2866.1** Played clip of Brian Harpole saying the hospital staff did not know they were coming even though they had called 911
+
+Quoted text: "Well, I feel bad for the hospital staff cuz we showed up looking like that and and they didn't know we were coming."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:26:17
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-7305, C-7306, N-3*
+
+---
+
+**A-2867** Time.com Israel Bots and Influencers Piece Bundle
+
+**A-2867.1** Host verbal reference to a Time.com piece on Israel's spending on bots and influencers (not shown)
+
+Quoted text: "that time. com piece about how much they are spending on these bots and influencers."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:49:39
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-7332, N-3*
+
+---
+
+**A-2868** Vulnerable People's Project Taybeh Trailer Bundle
+
+**A-2868.1** Played trailer for a Vulnerable People's Project documentary on Taybeh and settler harassment
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:51:03
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-7333, C-7334, N-3*
+
+---
+
+**A-2869** Shawn Ryan Interview Comment Section Bundle
+
+**A-2869.1** Screenshots of viewer comments on the Shawn Ryan interview shown on air, plus host description of the interview's reception
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:54:11
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-7335, C-7336, N-3*
+
+---
+
+**A-2870** Host Message Archive With Charlie Kirk Bundle
+
+**A-2870.1** Host verbal reference to her retained messages and chats with Charlie Kirk and Tyler Bowyer about Mark Meckler (not shown)
+
+Quoted text: "Charlie and me literally all of our messages which I still have of course"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:47:56
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-7328, C-7329, C-7330, C-7331, N-3*
+
+---
+
+**A-2871** Andrew Kolvet Initial Tweet Bundle
+
+**A-2871.1** Host verbal reference to Andrew Kolvet's initial tweet calling it a modern-day miracle (not shown)
+
+Quoted text: "it was a modern-day miracle. Even in death, Charlie saved lives."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:41:38
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-7322, N-3*
+
+---
+
+**A-2872** Robinson Interrogation Room Video Bundle
+
+**A-2872.1** Host verbal reference to a video of the back of Tyler Robinson in a room that influencers described as him turning himself in (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:45:23
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-7324, C-7325, N-3*
+
+---
+
 ## 4. Node Register
 
 **N-518** Christopher Bagley
@@ -260,6 +469,447 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-2152.1, C-3054*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host refers to his detail, messages and fears.
+
+*Related: C-7300, C-7301, C-7320, C-7322, C-7328, C-7329, C-7336, C-7342, C-7345, C-7347, C-7351*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-7280, C-7281, C-7282, C-7283, C-7284, C-7286, C-7289, C-7290, C-7291, C-7292, C-7296, C-7297, C-7299, C-7300, C-7301, C-7302, C-7303, C-7304, C-7307, C-7308, C-7309, C-7310, C-7311, C-7312, C-7313, C-7317, C-7318, C-7319, C-7320, C-7321, C-7323, C-7324, C-7325, C-7326, C-7327, C-7328, C-7329, C-7330, C-7331, C-7332, C-7333, C-7334, C-7335, C-7336, C-7337, C-7338, C-7339, C-7340, C-7341, C-7342, C-7343, C-7344, C-7345, C-7346, C-7347, C-7348, C-7349, C-7350, C-7351*
+
+---
+
+**N-7** Frank Turek
+
+Apologist and Kirk's companion in the car; the host examines his FaceTime account and his family.
+
+*Related: C-7304, C-7309, C-7310, C-7311, C-7312, C-7313, C-7314, C-7315, C-7316, C-7317, C-7318, C-7321, C-7323, C-7349*
+
+---
+
+**N-11** Tyler Bowyer
+
+Named as part of chats with the host about Mark Meckler.
+
+*Related: C-7331*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson; the host quotes his initial tweet.
+
+*Related: C-7322*
+
+---
+
+**N-22** Tucker Carlson
+
+Named by the host as one of two people who told the truth about Charlie.
+
+*Related: C-7347*
+
+---
+
+**N-27** Kanye West
+
+Cited in the host's account of a 5150 hold.
+
+*Related: C-7337*
+
+---
+
+**N-40** Tyler Robinson
+
+Accused; the host disputes the video said to show him turning himself in.
+
+*Related: C-7282, C-7324, C-7325*
+
+---
+
+**N-46** Megyn Kelly
+
+Host discusses her hosting of influencers and her statements about Charlie.
+
+*Related: C-7343, C-7344, C-7345, C-7346, C-7347*
+
+---
+
+**N-50** Sigmund Freud
+
+The host credits studying Freud with helping her resist psychiatric attacks.
+
+*Related: C-7341, C-7342*
+
+---
+
+**N-69** Kash Patel
+
+FBI director who announced the screwdriver DNA.
+
+*Related: C-7282*
+
+---
+
+**N-97** Ben Shapiro
+
+His security team is said by the host to have given updates in the car.
+
+*Related: C-7306, C-7317*
+
+---
+
+**N-162** Blake Neff
+
+The host says he works at Turning Point.
+
+*Related: C-7280*
+
+---
+
+**N-212** Jack Hibbs
+
+Pastor Turek says he called to pray after the hospital.
+
+*Related: C-7314*
+
+---
+
+**N-229** Shawn Ryan
+
+Host's interviewer in the 6 million view episode.
+
+*Related: C-7335*
+
+---
+
+**N-236** Andrew Klavan
+
+Named by the host over his Christ is King video.
+
+*Related: C-7341*
+
+---
+
+**N-272** Brian Harpole
+
+Car occupant whose hospital-arrival statement the host plays.
+
+*Related: C-7304, C-7305, C-7306*
+
+---
+
+**N-332** Tim Ballard
+
+Named by the host in re-examining her PragerU contacts.
+
+*Related: C-7349, C-7350*
+
+---
+
+**N-337** Baron Coleman
+
+Flagged the Felomina and Baker segment to the host.
+
+*Related: C-7281*
+
+---
+
+**N-374** Jeremy Boreing
+
+Hosted Mark Meckler according to the host.
+
+*Related: C-7327*
+
+---
+
+**N-440** Brad Parscale
+
+Named in a viewer comment on Sound of Freedom.
+
+*Related: C-7349*
+
+---
+
+**N-517** Jennifer Faumuina
+
+Sergeant Jennifer Felomina of the Utah Bureau of Investigations.
+
+*Related: C-7292, C-7293, C-7294, C-7295, C-7296*
+
+---
+
+**N-697** Spencer (Frank Turek's son)
+
+Turek's son named as FaceTiming during the event.
+
+*Related: C-7313, C-7315, C-7319, C-7320*
+
+---
+
+**N-752** Michael Jackson
+
+Cited in the host's account of her Daily Wire firing.
+
+*Related: C-7338, C-7339*
+
+---
+
+**N-753** Harley Pasternak
+
+Named by the host as the trainer in the Kanye 5150 account.
+
+*Related: C-7337*
+
+---
+
+**N-10000** Turning Point USA
+
+Organization; Blake Neff's employer and subject of the Meckler proposal.
+
+*Related: C-7280, C-7328*
+
+---
+
+**N-10012** Utah Valley University
+
+Host's correction concerns whether Felomina is UVU police.
+
+*Related: C-7292*
+
+---
+
+**N-10014** Federal Bureau of Investigation
+
+Lab that processed or stopped testing the library items.
+
+*Related: C-7282, C-7298*
+
+---
+
+**N-10021** Robinson Confession and Arrest Discrepancy
+
+Existing topic reused.
+
+*Related: C-7324*
+
+---
+
+**N-10024** Kirk Assassination Investigation Timeline
+
+Existing topic reused.
+
+*Related: C-7351*
+
+---
+
+**N-10026** Israel
+
+Subject of host's claims about bots, influencers and Taybeh.
+
+*Related: C-7310, C-7332, C-7333, C-7334*
+
+---
+
+**N-10064** The Pentagon
+
+Zach Turek's alleged workplace.
+
+*Related: C-7316*
+
+---
+
+**N-10090** Screwdriver Evidence Question
+
+Existing topic reused for screwdriver claims.
+
+*Related: C-7282, C-7283, C-7284, C-7290, C-7291*
+
+---
+
+**N-10131** PragerU
+
+Where the host says she met Ballard and others.
+
+*Related: C-7350*
+
+---
+
+**N-10177** Charlie Kirk Final-Days Text Communications
+
+Existing topic reused for the host's message archive.
+
+*Related: C-7329, C-7330, C-7331*
+
+---
+
+**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+
+Existing topic reused for pastor claims.
+
+*Related: C-7310, C-7312*
+
+---
+
+**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+
+Existing topic reused for Kolvet's miracle tweet.
+
+*Related: C-7322*
+
+---
+
+**N-10566** Tyler Robinson Confession Narrative Discrepancy
+
+Existing topic reused.
+
+*Related: C-7325*
+
+---
+
+**N-10681** Sean Ryan Show Interview Clip Bundle
+
+Existing topic reused.
+
+*Related: C-7335*
+
+---
+
+**N-10692** 911 Call Origin in Hospital Transport Vehicle
+
+Existing topic reused.
+
+*Related: C-7305, C-7308*
+
+---
+
+**N-10712** Ben Shapiro Car Ride Live Updates
+
+Existing topic reused.
+
+*Related: C-7306, C-7317*
+
+---
+
+**N-10717** Losee Center–Library Route Discrepancy
+
+Existing topic reused for the bus stop location.
+
+*Related: C-7294, C-7300, C-7302*
+
+---
+
+**N-10736** Screwdriver Evidence Chain Question
+
+Existing topic reused.
+
+*Related: C-7290*
+
+---
+
+**N-10754** Rooftop Movement Tactical Analysis
+
+Existing topic reused.
+
+*Related: C-7283, C-7291*
+
+---
+
+**N-10772** Officer Bagley Rooftop Companion Identification
+
+Existing topic reused.
+
+*Related: C-7287*
+
+---
+
+**N-10773** Body Cam Battery Failure Circumstances
+
+Existing topic reused.
+
+*Related: C-7286*
+
+---
+
+**N-10778** Officer Bagley Rooftop Video Review Question
+
+Existing topic reused.
+
+*Related: C-7288*
+
+---
+
+**N-10818** Jack Hibbs Sequence-of-Events Discrepancy
+
+Existing topic reused.
+
+*Related: C-7314*
+
+---
+
+**N-10888** Department of War
+
+Department of Defense.
+
+*Related: C-7318*
+
+---
+
+**N-11017** TPUSA Influencer Payment Campaign Allegation
+
+Existing topic reused.
+
+*Related: C-7332*
+
+---
+
+**N-11065** Preliminary Hearing Influencer Invitation Question
+
+Existing topic reused for influencers at the hearing.
+
+*Related: C-7289, C-7343, C-7344, C-7346*
+
+---
+
+**N-792** Amanda Baker
+
+First named by the host at 00:19:25 in episode 127. FBI agent who testified about exhibit nine, the backpack.
+
+*Related: C-7298, C-7299*
+
+---
+
+**N-793** Zach Turek
+
+First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Frank Zachary Turek, Pentagon Zack.
+
+*Related: C-7316, C-7318, C-7321*
+
+---
+
+**N-794** Mark Meckler
+
+First named by the host at 00:47:56 in episode 127. Convention of States figure, called the snake-ler by the host.
+
+*Related: C-7327, C-7328, C-7329, C-7331*
+
+---
+
+**N-11138** Turek Family Military Connections
+
+Node Type: Topic
+The host's claims about the military postings of Frank Turek's sons and family, including Zach Turek at the Pentagon and Spencer as an Air Force pilot.
+
+*Related: C-7309, C-7313, C-7316, C-7319, C-7321*
 
 ---
 
@@ -503,5 +1153,1178 @@ Investigative Direction: Obtain the 911-call audio and CPD/EMS dispatch records 
 
 ---
 
+**C-7280** Host Says Blake Neff Works at Turning Point
 
+Claim Timestamp: 00:01:21
+
+Claim: The host says Blake Neff is working at Turning Point, in the course of saying he claims never to watch her show yet always has a clip ready.
+
+Transcript Snippet: He's working at Turning Point.
+
+Anchored Artifacts: 
+Mentions: N-162, N-3
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Confirm Blake Neff's current employment and role with TPUSA through public staff listings or his own statements.
+
+---
+
+**C-7281** Host Says Coleman Flagged a Missed Hearing Segment on the Backpack
+
+Claim Timestamp: 00:01:21
+
+Claim: The host says Baron Coleman flagged to her over the weekend a part of the preliminary hearing that she had missed and that is a potential answer for why the FBI moved not to test the backpack, gloves and jacket found at the bus stop near the library.
+
+Transcript Snippet: the preliminary hearing that Baron Coleman flagged to me over the weekend because we were sharing notes
+
+Anchored Artifacts: 
+Mentions: N-337, N-3
+Related Nodes: N-10727
+Tags: relevance:core
+Investigative Direction: Review the preliminary hearing transcript for the Felomina and Baker testimony Coleman flagged and compare with the host's reading.
+
+---
+
+**C-7282** Host Says Kash Patel Announced Screwdriver DNA Days After a Leak
+
+Claim Timestamp: 00:03:06
+
+Claim: The host says Kash Patel announced that a screwdriver carried Tyler Robinson's DNA a couple of days after the screwdriver was first leaked, which she dates to about September 11, and that Robinson was found in 33 hours.
+
+Transcript Snippet: That was announced by Kash Patel a couple of days later, but they had kind of already leaked that they were looking
+
+Anchored Artifacts: 
+Mentions: N-69, N-40, N-3
+Related Nodes: N-10090, N-10014
+Tags: relevance:core
+Investigative Direction: Compare the dates of Patel's public DNA announcement, the earlier media leaks and the FBI lab report on the screwdriver.
+
+---
+
+**C-7283** Host Says Rooftop Eyewitness Never Saw a Towel or Screwdriver
+
+Claim Timestamp: 00:03:53
+
+Claim: The host says the person who filmed and observed the figure on the Losee Center roof has kept his story and has no recollection of seeing a towel or a screwdriver, and that this was the same in her conversations with him.
+
+Transcript Snippet: has maintained his story and has absolutely no recollection of having seen a towel or a screwdriver
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10090, N-10754
+Tags: relevance:core
+Investigative Direction: Obtain the eyewitness's recorded statements and any FBI interview notes for mention of a towel or screwdriver.
+
+---
+
+**C-7284** Host Says Bagley Reached the Roof at 12:44 and Found the Screwdriver
+
+Claim Timestamp: 00:04:45
+
+Claim: The host says Officer Bagley raced to the Losee Center roof, was there at 12:44 p.m. and found the screwdriver, and that none of the influencers' recaps of the 4K footage showed the screwdriver being taken out.
+
+Transcript Snippet: He's up there at 12:44 p. m. and he finds that screwdriver.
+
+Anchored Artifacts: 
+Mentions: N-518, N-3
+Related Nodes: N-10090, N-10731
+Tags: relevance:core
+Investigative Direction: Obtain Bagley's report and evidence log for the screwdriver recovery time and location, and the footage the influencers say they saw.
+
+---
+
+**C-7285** Bagley Testified He Did Not Re-Dock or Restart His Body Cam
+
+Claim Timestamp: 00:05:36
+
+Claim: Officer Bagley testified that officers usually dock the body cam but that he did not go back to do so because the day was too chaotic, and he agreed the 27 minute 35 second clip is the only body cam footage he has from that day.
+
+Transcript Snippet: Usually dock it, but no, I didn't go back.
+
+Anchored Artifacts: A-2146.1
+Mentions: N-518
+Related Nodes: N-10725
+Supports: C-3042
+Tags: relevance:core
+Investigative Direction: Obtain Bagley's device dock log and the UVU police body-cam retention records for September 10.
+
+---
+
+**C-7286** Host Says Body-Cam Data Will Show Whether the Battery Died or Was Turned Off
+
+Claim Timestamp: 00:08:12
+
+Claim: The host says the Axon cameras store their data, so it will eventually be possible to learn how the battery died so quickly or whether the camera was manually turned off, and that she expects this to come out at a full trial.
+
+Transcript Snippet: it stores that data, and so we will be able to find out eventually um how that battery died so quickly or if it was manually turned off
+
+Anchored Artifacts: A-2147.1
+Mentions: N-518, N-3
+Related Nodes: N-10725, N-10773
+Supports: C-3045
+Tags: relevance:core
+Investigative Direction: Subpoena Axon evidence-system audit logs for Bagley's camera showing battery state, power-off events and upload times.
+
+---
+
+**C-7287** Bagley Testified He Brought a Backup Person Up the Stairs
+
+Claim Timestamp: 00:09:06
+
+Claim: Officer Bagley testified that he had somebody with him to back him up as he ran up the stairs to the Losee building, after the examiner said his body camera showed a man in civilian clothing who appeared to have a gun.
+
+Transcript Snippet: I had somebody with me to back me up as I ran up the stairs to make sure I had somebody with me.
+
+Anchored Artifacts: A-2146.2
+Mentions: N-518
+Related Nodes: N-10726, N-10772
+Supports: C-3043
+Tags: relevance:core
+Investigative Direction: Identify the armed person in civilian clothing from the body-cam frames and the radio log of who entered the building with Bagley.
+
+---
+
+**C-7288** Bagley Testified Others Were Searching the Roof and He Learned of the Jump at the PD
+
+Claim Timestamp: 00:10:05
+
+Claim: Officer Bagley testified that people were up on the building looking for an individual who had run that way, because he had first been told the individual ran north, and that he only knew the person had left the building when he saw the jump on video at the police department.
+
+Transcript Snippet: there was people up there looking for an individual that ran that way because when I first got told the individual ran heading north
+
+Anchored Artifacts: A-2146.2
+Mentions: N-518
+Related Nodes: N-10778, N-10726
+Qualifies: C-3044
+Tags: relevance:core
+Investigative Direction: Obtain dispatch audio and CAD entries on the north-heading report and the roster of officers who cleared the building before 12:44.
+
+---
+
+**C-7289** Host Says Influencers Reported 4K HD Rooftop Footage
+
+Claim Timestamp: 00:12:54
+
+Claim: The host says a ton of influencers confirmed that for the rooftop Bagley was on they are now able to get 4K HD footage that has been enhanced, and that these influencers are typically the only ones shown it.
+
+Transcript Snippet: A ton of influencers just confirmed that that very rooftop that you were on, they are now able to get 4K HD footage.
+
+Anchored Artifacts: 
+Mentions: N-518, N-3
+Related Nodes: N-10731, N-11065
+Tags: relevance:core
+Investigative Direction: Identify which influencers attended the hearing and what footage they say they saw; compare with the exhibit list and the footage actually entered into evidence.
+
+---
+
+**C-7290** Host Says the Screwdriver Was Planted at a Different Time
+
+Claim Timestamp: 00:14:11
+
+Claim: The host says she does not think there was ever a screwdriver on the roof during the shooter's movements and thinks it was planted at a different time, because the official narrative cannot explain why he would take it out.
+
+Transcript Snippet: I don't think there ever was a screwdriver up there. I think that that screwdriver was planted there at a different time.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10090, N-10736
+Tags: relevance:core
+Investigative Direction: Review the evidence chain for the screwdriver: first officer to see it, photographs in place and any footage showing it on the roof before 12:44.
+
+---
+
+**C-7291** Host Says the Object Swung Was a Bag, Not a Towel
+
+Claim Timestamp: 00:14:11
+
+Claim: The host says that, based on the eyewitness account from the person who recorded him, she thinks the shooter had no towel and that what is seen swinging is a bag that officials are calling a towel.
+
+Transcript Snippet: that he had a towel. I think it was just a bag. A bag that we are seeing him swing and they are telling us it was his towel.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10754, N-10090
+Tags: relevance:core
+Investigative Direction: Obtain the eyewitness video and any enhanced stills of the swung object and compare with the evidence inventory.
+
+---
+
+**C-7292** Host Corrects Felomina's Agency to the Utah Bureau of Investigations
+
+Claim Timestamp: 00:14:11
+
+Claim: The host says she earlier called Sergeant Felomina a UVU sergeant but meant to say she is from the Utah Bureau of Investigations, the state bureau.
+
+Transcript Snippet: I think I said she was UVU Sergeant. I meant to say she's from the Utah Bureau of Investigations
+
+Anchored Artifacts: 
+Mentions: N-517, N-3
+Related Nodes: N-10012
+Tags: relevance:context
+Investigative Direction: Confirm Felomina's employing agency and title from the preliminary hearing record.
+
+---
+
+**C-7293** Felomina Testified She Wrote Nine or More Reports Including a September 22 Overview
+
+Claim Timestamp: 00:15:19
+
+Claim: Sergeant Felomina answered yes when asked whether nine of the reports in the larger body were written by her and that there were more, and that one report written September 22 documented the overview of the crime scenes.
+
+Transcript Snippet: nine of those reports in that larger body of reports was written by you, correct? >> Yes.
+
+Anchored Artifacts: A-2148.1
+Mentions: N-517
+Related Nodes: N-10727
+Supports: C-3046
+Tags: relevance:core
+Investigative Direction: Request all Felomina reports from the hearing exhibit list, especially the September 22 overview and any report naming the library items.
+
+---
+
+**C-7294** Felomina Testified Officers Found the Fulton Library Items Suspicious
+
+Claim Timestamp: 00:15:19
+
+Claim: Sergeant Felomina testified that while canvassing the shooter's route officers determined the Fulton Library stood out because there were unattended items at the bus stops away from the courtyard area, which they thought suspicious.
+
+Transcript Snippet: they determined that the Fulton Library stood out because there were um unattended items there at the bus stops that were away from the courtyard area.
+
+Anchored Artifacts: A-2148.1
+Mentions: N-517
+Related Nodes: N-10727, N-10717
+Supports: C-3046
+Tags: relevance:core
+Investigative Direction: Obtain the canvass notes and officer body-cam from the library bus stop showing who first flagged the items and when.
+
+---
+
+**C-7295** Felomina Testified No Further Information Existed When the Items Were Sent
+
+Claim Timestamp: 00:17:06
+
+Claim: Sergeant Felomina testified that when the items had already been sent, investigators had no more information about whether the collected evidence was probative.
+
+Transcript Snippet: Um at the time when it was already sent, we didn't have more information as far as whether or not uh whe- or not the evidence that were collected there were probative.
+
+Anchored Artifacts: A-2148.2
+Mentions: N-517
+Related Nodes: N-10727
+Supports: C-3048
+Tags: relevance:core
+Investigative Direction: Obtain the FBI lab request form and any later communication about the items from state investigators.
+
+---
+
+**C-7296** Felomina Agreed It Was Fair to Say the Items Were Determined Unrelated
+
+Claim Timestamp: 00:17:53
+
+Claim: Sergeant Felomina agreed it would be fair to say the items were eventually determined not related to the case, and the host says she is nonetheless saying the SLED determination was that they were not relevant.
+
+Transcript Snippet: Yeah, that would be fair. >> Okay, so the relevant thing is she doesn't remember communicating that, but she's saying the SLED determination was that it was not relevant to this case.
+
+Anchored Artifacts: A-2148.2
+Mentions: N-517, N-3
+Related Nodes: N-10727
+Supports: C-3048
+Tags: relevance:core
+Investigative Direction: Identify who made the unrelated determination, on what information, and where it is recorded in the state and FBI files.
+
+---
+
+**C-7297** Host Says the Items Could Match the Eyewitness's Description of the Shooter
+
+Claim Timestamp: 00:17:53
+
+Claim: The host says the abandoned backpack, jacket and gloves sound like they could match the description from the person she spoke to who recorded the video and said the man was all in black and everything was covered.
+
+Transcript Snippet: which sound like they could match the description of the person who I spoke to, who recorded the video and said, "Yeah, he was in all black, everything was covered.
+
+Anchored Artifacts: A-2148.1
+Mentions: N-3
+Related Nodes: N-10727
+Tags: relevance:core
+Investigative Direction: Compare the item descriptions in the lab inventory with the eyewitness video and statements about the shooter's clothing and gloves.
+
+---
+
+**C-7298** Baker Testified the Items Were Initially Processed for DNA
+
+Claim Timestamp: 00:19:25
+
+Claim: FBI agent Amanda Baker testified that initially there was no information from investigators, so the items, which are good for DNA, were processed for DNA.
+
+Transcript Snippet: Not having any information from the investigators, we processed them for DNA.
+
+Anchored Artifacts: A-2149.1
+Mentions: N-792
+Related Nodes: N-10727, N-10014
+Supports: C-3049
+Tags: relevance:core
+Investigative Direction: Obtain the FBI lab DNA results, if any, for exhibit nine and the items from the backpack, with dates of processing.
+
+---
+
+**C-7299** Host Says Baker Also Said the Items Were First Thought Abandoned by the Shooter
+
+Claim Timestamp: 00:20:30
+
+Claim: The host says Baker asserted that they initially thought the items were abandoned by the rooftop shooter, which the host takes to mean they were found along the route he took.
+
+Transcript Snippet: similarly that they initially thought that it was abandoned by the rooftop shooter, which means that they found this along the route that the alleged rooftop shooter took, right?
+
+Anchored Artifacts: A-2149.1
+Mentions: N-792, N-3
+Related Nodes: N-10727
+Supports: C-3046
+Tags: relevance:core
+Investigative Direction: Check the Baker testimony transcript to see whether she said the items were initially treated as shooter-discarded or whether this is the host's inference.
+
+---
+
+**C-7300** Host Says the Library Bus Stop Is Nowhere Near Losee Center or the Amphitheater
+
+Claim Timestamp: 00:21:15
+
+Claim: The host says the library bus stop is nowhere near the Losee Center or the amphitheater, so she asks why a member of Charlie's detail would be there dropping off a backpack, gloves and a jacket.
+
+Transcript Snippet: Why on Earth was this individual up at a library bus stop that's nowhere near um Loews Center, nowhere near the amphitheater?
+
+Anchored Artifacts: A-2149.2
+Mentions: N-1, N-3
+Related Nodes: N-10717, N-10727
+Supports: C-3051
+Tags: relevance:core
+Investigative Direction: Map the Fulton Library bus stop against the shooter route, the Losee Center and the security detail posts, and identify any detail member there.
+
+---
+
+**C-7301** Host Cites 70 to 80 Percent of Homicide Victims Killed by Someone They Know
+
+Claim Timestamp: 00:23:07
+
+Claim: The host says 70 to 80 percent of homicide victims are killed by people they know and that the share rises when money is involved, using it to argue that knowing the victim is no reason to stop testing.
+
+Transcript Snippet: 70 to 80% of homicide victims are killed by people that they know.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10727
+Tags: relevance:context
+Investigative Direction: Check the figure against FBI Uniform Crime Reporting and Bureau of Justice Statistics data on victim-offender relationships.
+
+---
+
+**C-7302** Host Says a Surveillance Camera Must Cover the Bus Stop
+
+Claim Timestamp: 00:24:14
+
+Claim: The host says there surely was a surveillance camera trained on the bus stop and hopes it surfaces as the trial moves forward.
+
+Transcript Snippet: Surely, surely there was a surveillance camera that was uh trained on the bus stop.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10727, N-10717
+Tags: relevance:core
+Investigative Direction: Ask UVU, the transit authority and nearby buildings whether cameras covered the library bus stop and request retained footage.
+
+---
+
+**C-7303** Host Says Her Source Explained 911 Triggers Hospital Preparation
+
+Claim Timestamp: 00:25:23
+
+Claim: The host says her verified Timpanogos source explained that when a 911 call is made, a place in the hospital receives the call, preps and expects the patient to arrive.
+
+Transcript Snippet: they explained to me that procedurally what happens when you do that, when you make that call, is that there's a place in the hospital that then receives and preps and is expecting you to arrive.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10728
+Supports: C-3056
+Tags: relevance:core
+Investigative Direction: Ask the hospital and county EMS for the pre-arrival notification procedure and the log of any notification for September 10.
+
+---
+
+**C-7304** Host Says Nobody Has Taken Credit for Calling 911
+
+Claim Timestamp: 00:25:23
+
+Claim: The host says that although Brian Harpole and Frank Church (Turek) loved telling the story over and over, nobody wants to take credit for calling 911.
+
+Transcript Snippet: nobody wants to take credits for calling 911.
+
+Anchored Artifacts: 
+Mentions: N-272, N-7, N-3
+Related Nodes: N-10729
+Supports: C-3057
+Tags: relevance:core
+Investigative Direction: Identify the caller from the released 911 records and compare with each car occupant's account.
+
+---
+
+**C-7305** Harpole Said Hospital Staff Did Not Know They Were Coming
+
+Claim Timestamp: 00:26:17
+
+Claim: In a clip the host plays, Brian Harpole says he felt bad for the hospital staff because they showed up looking like that and the staff did not know they were coming, even though they had called 911.
+
+Transcript Snippet: Well, I feel bad for the hospital staff cuz we showed up looking like that and and they didn't know we were coming.
+
+Anchored Artifacts: A-2866.1, A-2866.1
+Mentions: N-272
+Related Nodes: N-10728, N-10692
+Supports: C-3056
+Tags: relevance:core
+Investigative Direction: Obtain the full Harpole interview and hospital arrival records to test his statement against the 911 pre-notification claim.
+
+---
+
+**C-7306** Host Says Harpole Could Not Have Called 911 and Someone Was on the Phone With Shapiro's Security
+
+Claim Timestamp: 00:26:17
+
+Claim: The host says Harpole was busy with gauze and his brother with the tattoo was holding him, so he could not have made the call, and that somebody was on the phone with Ben Shapiro's security.
+
+Transcript Snippet: You were busy with 9,000 ft of gauze. Your brother with the tattoo was holding you. Somebody was on the phone with Ben Shapiro's security.
+
+Anchored Artifacts: A-2866.1, A-2866.1
+Mentions: N-272, N-97
+Related Nodes: N-10712, N-10729
+Tags: relevance:core
+Investigative Direction: Identify who in the vehicle was on the phone with Shapiro's security and obtain the phone records for the ride.
+
+---
+
+**C-7307** Host Puts the Hospital Ride at About Seven Minutes
+
+Claim Timestamp: 00:26:17
+
+Claim: The host calls the journey to the hospital a 7-minute short journey and asks who made the 911 call during it.
+
+Transcript Snippet: Who called 911 in this 7-minute short journey?
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10729
+Tags: relevance:core
+Investigative Direction: Compare dispatch time, vehicle departure time and hospital arrival time from CAD and EMS records.
+
+---
+
+**C-7308** Host Says the 911 Calls Were Released but This One Cannot Be Found
+
+Claim Timestamp: 00:26:17
+
+Claim: The host says the 911 calls have been released and gone through by people, yet she cannot find the call placed from the car, which she says is public information.
+
+Transcript Snippet: That's public information. The calls have been released. People have gone through them.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10729, N-10692
+Supports: C-3057
+Tags: relevance:core
+Investigative Direction: Review the released 911 audio and logs for a call from the vehicle between 12:23 and 12:30 and publish the identifier of any matching call.
+
+---
+
+**C-7309** Host Calls Turek the Leader of the Christian Grift and Cites His Family's Military Involvement
+
+Claim Timestamp: 00:30:49
+
+Claim: The host says Frank Turek is the leader of the Christian grift, which is his entire brand and the legacy of his family's involvement in the military.
+
+Transcript Snippet: He's kind of the leader of the Christian grift. It's kind of his entire brand and really kind of the legacy I would say of his family's involvement in the military.
+
+Anchored Artifacts: 
+Mentions: N-7, N-3
+Related Nodes: N-11138
+Tags: relevance:context
+Investigative Direction: Document Turek family military service from public biographies, which the host says she will cover later.
+
+---
+
+**C-7310** Host Says the Pastors Were Part of a Psychological Operation Tying Christians to Israel
+
+Claim Timestamp: 00:30:49
+
+Claim: The host says it is obvious to her that these pastors were part of a broader psychological operation against Christians to tie them to Israel.
+
+Transcript Snippet: it is just so obvious to me that all these pastors were a part of the broader psychological operation against Christians to tie us to Israel.
+
+Anchored Artifacts: 
+Mentions: N-7, N-3
+Related Nodes: N-10209, N-10026
+Tags: relevance:tangential
+Investigative Direction: The host offers no document here; identify which pastors and which funding or government ties she means.
+
+---
+
+**C-7311** Letter Says the Wife Believes Turek Is Dishonest and Involved in Criminal Wrongdoing
+
+Claim Timestamp: 00:32:53
+
+Claim: In the letter Turek reads, an anonymous husband says his wife has come to believe Turek is dishonest, a false teacher and involved in criminal wrongdoing, and that he has seen no credible evidence for the accusations.
+
+Transcript Snippet: She has come to believe that you are dishonest and you are a false teacher. And even that you are involved in criminal wrongdoing.
+
+Anchored Artifacts: A-2151.1
+Mentions: N-7, N-3
+Related Nodes: 
+Supports: C-3055
+Tags: relevance:context
+Investigative Direction: Obtain the original episode of Turek's show and confirm the letter's wording and whether it was verified.
+
+---
+
+**C-7312** Host Says Turek's Movement of Pastors Hails From Military Operations Targeting Christians
+
+Claim Timestamp: 00:34:40
+
+Claim: The host tells Turek he comes across as a fraud and says he belongs to a movement of Christian pastors who hail from literal military operations designed to target Christians.
+
+Transcript Snippet: And you're part of like of like I said that movement of Christian pastors who hail hail from literal military operations designed to target Christians.
+
+Anchored Artifacts: 
+Mentions: N-7, N-3
+Related Nodes: N-10209
+Supports: C-7310
+Tags: relevance:tangential
+Investigative Direction: The host names no unit or program here; ask for the specific military operations and pastors she means.
+
+---
+
+**C-7313** Host Says Two Turek Sons Were Air Force Captains, One in Intelligence
+
+Claim Timestamp: 00:35:43
+
+Claim: The host says Frank Turek's grown sons include two who served as captains in the Air Force, one of whom served in intelligence.
+
+Transcript Snippet: Frank's grown adult male children, two of whom I should mention served as captains in the Air Force, one of whom, I don't know if you know this, um served particularly in intelligence
+
+Anchored Artifacts: 
+Mentions: N-7, N-697, N-3
+Related Nodes: N-11138, N-10730
+Tags: relevance:context
+Investigative Direction: Confirm each son's rank, branch and assignment from public military records or professional profiles.
+
+---
+
+**C-7314** Turek Said He Called Jack Hibbs to Pray After the Hospital
+
+Claim Timestamp: 00:36:38
+
+Claim: In the clip, Frank Turek says that after reaching the hospital he called Jack Hibbs to pray and that someone named Dylan called him because he had heard what had happened.
+
+Transcript Snippet: That's that's when I I called Jack Hibbs to pray. And I I I said Dylan called me because he had heard what had happened.
+
+Anchored Artifacts: A-2150.1
+Mentions: N-7, N-212
+Related Nodes: N-10818, N-10730
+Tags: relevance:core
+Investigative Direction: Obtain Turek's and Hibbs's call records for the hospital period and compare with Hibbs's own account.
+
+---
+
+**C-7315** Turek Said He FaceTimed His Wife First and Then Called Spencer
+
+Claim Timestamp: 00:37:30
+
+Claim: In the interview clip Frank Turek says his son is 35, that he FaceTimed his wife first and then called Spencer, and that both calls were during the event.
+
+Transcript Snippet: First I I was FaceTiming my wife and then I said, "Ah, let me call Spencer." And so, I started FaceTiming him.
+
+Anchored Artifacts: A-2150.1
+Mentions: N-7, N-697
+Related Nodes: N-10730
+Supports: C-3052
+Tags: relevance:core
+Investigative Direction: Obtain FaceTime call-detail records showing the order, start and end times of the wife and Spencer calls.
+
+---
+
+**C-7316** Host Says Zach Turek Worked at the Pentagon and Is a Joint Staff Deputy Division Chief
+
+Claim Timestamp: 00:38:14
+
+Claim: The host says Frank Turek's son Zach (Frank Zachary Turek) was working at the Pentagon when his father was on FaceTime and is now deputy division chief of the Joint Staff in Washington, D.C.
+
+Transcript Snippet: Zach was working at the Pentagon. He is today employed in Washington, D. C. at the Pentagon serving as the deputy division chief of the Joint Staff.
+
+Anchored Artifacts: A-2150.1
+Mentions: N-793, N-7
+Related Nodes: N-10064, N-11138
+Tags: relevance:core
+Investigative Direction: Verify Zachary Turek's Joint Staff title and dates from Department of Defense directories or biographies.
+
+---
+
+**C-7317** Host Says Turek Sat Praying in the Back Seat Listening to Shapiro's Security
+
+Claim Timestamp: 00:39:06
+
+Claim: The host says Turek decided to sit in the backseat, pray and listen to Ben Shapiro's security team receive updates.
+
+Transcript Snippet: Frank decided to sit in the backseat, pray, and listen to Ben Shapiro's security team receive updates.
+
+Anchored Artifacts: 
+Mentions: N-7, N-97, N-3
+Related Nodes: N-10712
+Tags: relevance:core
+Investigative Direction: Identify the updates relayed to the vehicle and who passed them on, using security communications logs and the occupants' accounts.
+
+---
+
+**C-7318** Host Says Turek Neither Called 911 Nor Phoned His Pentagon Son
+
+Claim Timestamp: 00:39:06
+
+Claim: The host says Turek did not call 911 and did not think to phone his son who works for the Department of Defense.
+
+Transcript Snippet: Frank didn't call 911, nor did he think to phone his son who works for the most powerful, most funded, and most corrupt division of our government, the Department of Defense?
+
+Anchored Artifacts: 
+Mentions: N-7, N-793, N-3
+Related Nodes: N-10729, N-10888
+Supports: C-7304
+Tags: relevance:core
+Investigative Direction: Obtain Turek's outbound call log for September 10 to test whether he called 911 or his son.
+
+---
+
+**C-7319** Host Says Spencer Turek Is a Branch Chief Pilot for the Air Force
+
+Claim Timestamp: 00:39:56
+
+Claim: The host says Spencer Turek works as a branch chief pilot for the Air Force and that he appears to be on the East Coast.
+
+Transcript Snippet: He works as a branch chief pilot for the Air Force.
+
+Anchored Artifacts: 
+Mentions: N-697, N-3
+Related Nodes: N-11138
+Tags: relevance:context
+Investigative Direction: Verify Spencer Turek's role, location and duty schedule from public profiles or Air Force records.
+
+---
+
+**C-7320** Host Questions Why Spencer Was Free at 2:23 p.m. on the East Coast
+
+Claim Timestamp: 00:39:56
+
+Claim: The host says that at 2:23 p.m. East Coast time on a Wednesday Spencer was with his wife, clearing his military schedule to watch Charlie Kirk answer questions on a college campus in Utah.
+
+Transcript Snippet: So, why at 2:23 p. m. in the afternoon is he with his wife clearing out his military schedule to make availability to watch Charlie Kirk answer questions
+
+Anchored Artifacts: A-2150.1
+Mentions: N-697, N-1, N-3
+Related Nodes: N-10730
+Tags: relevance:core
+Investigative Direction: Obtain the call-detail records and duty rosters that would show where Spencer and his wife were and what they were doing at 2:23 p.m. Eastern.
+
+---
+
+**C-7321** Host Says Frank and Zach Turek Co-Wrote Hollywood Heroes
+
+Claim Timestamp: 00:40:47
+
+Claim: The host says Frank Turek and his son Zach wrote a book together titled Hollywood Heroes, which argues that superhero movies reveal God.
+
+Transcript Snippet: Frank and his son Zack, Pentagon Zack, actually wrote a book together entitled Hollywood Heroes.
+
+Anchored Artifacts: 
+Mentions: N-7, N-793, N-3
+Related Nodes: N-11138
+Tags: relevance:context
+Investigative Direction: Check the book's publication record for authorship and date.
+
+---
+
+**C-7322** Host Quotes Kolvet's Initial Tweet as a Modern-Day Miracle
+
+Claim Timestamp: 00:41:38
+
+Claim: The host says Andrew Kolvet's initial tweet called it a modern-day miracle and said that even in death Charlie saved lives, which she likens to a bad superhero script.
+
+Transcript Snippet: Everything about that initial tweet that went out by Andrew Kolvet, it was a modern-day miracle. Even in death, Charlie saved lives.
+
+Anchored Artifacts: A-2871.1, A-2871.1
+Mentions: N-14, N-1
+Related Nodes: N-10447
+Tags: relevance:core
+Investigative Direction: Retrieve Kolvet's earliest posts from September 10 and 11 and check the exact wording and time.
+
+---
+
+**C-7323** Host Says a Lead Investigator Would Want the Turek Call Logs
+
+Claim Timestamp: 00:41:38
+
+Claim: The host says that if she were the lead investigator she would be interested in all the call logs, including those of a 35-year-old man FaceTiming at 2:23 p.m., because she finds Turek's narrative worth prodding.
+
+Transcript Snippet: I would be interested in all of these call logs because a 35-year-old man at 2:23 p. m.
+
+Anchored Artifacts: 
+Mentions: N-7, N-3
+Related Nodes: N-10730
+Supports: C-3053
+Tags: relevance:core
+Investigative Direction: Request FaceTime and carrier records for Turek, Spencer and the wife for 12:00 to 15:00 Mountain on September 10.
+
+---
+
+**C-7324** Host Says the Video Shown as Robinson Turning Himself In Is an Interrogation Room
+
+Claim Timestamp: 00:45:23
+
+Claim: The host says influencers showed a video of the back of Tyler Robinson in a room and called it him turning himself in, but it is Robinson in an interrogation room and we do not know how he got there.
+
+Transcript Snippet: That's Tyler Robinson in an interrogation room. We've no idea how he got into this interrogation room.
+
+Anchored Artifacts: A-2872.1, A-2872.1
+Mentions: N-40, N-3
+Related Nodes: N-10021
+Tags: relevance:core
+Investigative Direction: Identify the video, its source, time and location, and the surrender timeline from the sheriff and county attorney.
+
+---
+
+**C-7325** Host Says No Footage of Robinson Confessing Has Been Shown
+
+Claim Timestamp: 00:45:23
+
+Claim: The host says she would like to see footage of Robinson turning himself in or confessing, which many influencers stated before it was shown.
+
+Transcript Snippet: We'd like to see footage of him confessing to the crime, which many influencers stated before we got here.
+
+Anchored Artifacts: A-2872.1, A-2872.1
+Mentions: N-40, N-3
+Related Nodes: N-10566
+Tags: relevance:core
+Investigative Direction: Determine whether any recording of a confession exists and which influencers claimed one before the hearing.
+
+---
+
+**C-7326** Host Says a Sudden Enhancement of the Screwdriver Footage Sounds Tampered With
+
+Claim Timestamp: 00:47:07
+
+Claim: The host says that if Dan Bongino said the footage was too grainy five days after the assassination, a sudden enhancement to crystal clear sounds to her like tampering, and she calls it a little suspect.
+
+Transcript Snippet: That sounds to me like it was tampered with.
+
+Anchored Artifacts: A-2152.1
+Mentions: N-388, N-3
+Related Nodes: N-10731
+Supports: C-3054
+Tags: relevance:core
+Investigative Direction: Obtain the chain of custody for the rooftop video, any enhancement logs and the version history between Bongino's September 15 remark and the hearing.
+
+---
+
+**C-7327** Host Says Boreing Hosted Mark Meckler Telling a Story That She Was Mean to Him
+
+Claim Timestamp: 00:47:56
+
+Claim: The host says Jeremy Boreing hosted Mark Meckler, who told an obscure story that she was mean to him, and that she had a giggle about it.
+
+Transcript Snippet: he's particularly hosted this guy Mark Meckler and I had such a giggle about Mark Meckler telling this obscure story um that I was like mean to him.
+
+Anchored Artifacts: 
+Mentions: N-374, N-794, N-3
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Locate the Boreing and Meckler appearance and compare Meckler's story with the host's message archive.
+
+---
+
+**C-7328** Host Says Meckler Urged Donors to Push Charlie to Attach Convention of the States to TPUSA
+
+Claim Timestamp: 00:47:56
+
+Claim: The host says Mark Meckler was working on getting donors to force Charlie Kirk to attach Convention of the States to Turning Point USA, while wining and dining donors rather than doing work.
+
+Transcript Snippet: telling donors to like force Charlie to uh just attach Convention of the States to Turning Point USA.
+
+Anchored Artifacts: A-2870.1, A-2870.1
+Mentions: N-794, N-1, N-3
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Review the host's messages with Charlie, TPUSA donor communications and Convention of the States records for the proposed attachment.
+
+---
+
+**C-7329** Host Says She and Charlie Messaged About Meckler as the Snake-ler
+
+Claim Timestamp: 00:47:56
+
+Claim: The host says all of her messages with Charlie, which she still has, referred to Meckler as the snake-ler, with a running joke asking each other to do absurd tasks.
+
+Transcript Snippet: Charlie and me literally all of our messages which I still have of course were just just referred to him as the snake-ler instead of Meckler
+
+Anchored Artifacts: A-2870.1, A-2870.1
+Mentions: N-1, N-794, N-3
+Related Nodes: N-10177
+Tags: relevance:context
+Investigative Direction: Obtain the message thread for forensic confirmation of the nickname, dates and contents.
+
+---
+
+**C-7330** Host Says She Never Deletes Anything on Her Phone
+
+Claim Timestamp: 00:48:49
+
+Claim: The host says she never deletes anything on her phone, that she still has an email from third grade, and that this lets her remember everything with Charlie.
+
+Transcript Snippet: I'm so grateful that I never delete anything on my phone which drives my husband crazy.
+
+Anchored Artifacts: A-2870.1, A-2870.1
+Mentions: N-3
+Related Nodes: N-10177
+Tags: relevance:core
+Investigative Direction: Request preservation and forensic imaging of the host's phone and cloud backups for the Charlie Kirk message archive.
+
+---
+
+**C-7331** Host Says Chats With Tyler Bowyer Also Discussed Meckler
+
+Claim Timestamp: 00:48:49
+
+Claim: The host says Tyler Bowyer is also in the chats because they would also chat about Mark Meckler.
+
+Transcript Snippet: by the way Tyler Bowyer is even that the chats cuz we would also chat about Mark Meckler
+
+Anchored Artifacts: A-2870.1, A-2870.1
+Mentions: N-11, N-794, N-3
+Related Nodes: N-10177
+Tags: relevance:context
+Investigative Direction: Review the group chats with Bowyer for the dates and content of the Meckler discussions.
+
+---
+
+**C-7332** Host Cites a Time.com Piece on Israel's Spending on Bots and Influencers
+
+Claim Timestamp: 00:49:39
+
+Claim: The host says a time.com piece reports how much Israel is spending on bots and influencers and tells viewers to read it.
+
+Transcript Snippet: that time. com piece about how much they are spending on these bots and influencers.
+
+Anchored Artifacts: A-2867.1, A-2867.1
+Mentions: N-3
+Related Nodes: N-10026, N-11017
+Tags: relevance:context
+Investigative Direction: Locate the Time article and check the spending figures and sourcing it gives.
+
+---
+
+**C-7333** Host Says the Oldest Christian Village Is Being Burned and Settlers Sent In
+
+Claim Timestamp: 00:51:03
+
+Claim: The host says the oldest Christian village, Taybeh, in Israel (the West Bank), is being burned while settlers are sent in, and she predicts the same fate for America.
+
+Transcript Snippet: You may have seen that village like oldest Christian village just being burned and they're sending in the settlers.
+
+Anchored Artifacts: A-2868.1, A-2868.1
+Mentions: N-3
+Related Nodes: N-10026
+Tags: relevance:tangential
+Investigative Direction: Check reporting on Taybeh settler attacks and arson incidents and the village's history.
+
+---
+
+**C-7334** Trailer Interviewee Says a Settler Tried to Choke Him and His Mother
+
+Claim Timestamp: 00:51:03
+
+Claim: In the played trailer an interviewer asks a man whether a settler tried to choke him and his mother and whether police arrested him and his mother after they called them, and he answers yes.
+
+Transcript Snippet: a settler tried to choke you and your mother, you called the police and the police arrested you and your mother?
+
+Anchored Artifacts: A-2868.1, A-2868.1
+Mentions: N-3
+Related Nodes: N-10026
+Supports: C-7333
+Tags: relevance:tangential
+Investigative Direction: Find the full documentary and corroborating police or press records for the incident.
+
+---
+
+**C-7335** Host Says the Shawn Ryan Interview Reached About 6 Million Views in a Week
+
+Claim Timestamp: 00:53:07
+
+Claim: The host says her Shawn Ryan interview is the most successful Shawn Ryan episode ever in raw numbers, at about 6 million views in a week.
+
+Transcript Snippet: I do believe it's also the most successful Shawn Ryan episode ever in terms of just raw numbers it climbing to like 6 million views in what? A week already?
+
+Anchored Artifacts: A-2869.1, A-2869.1
+Mentions: N-229, N-3
+Related Nodes: N-10681
+Tags: relevance:context
+Investigative Direction: Check the YouTube view count and publication date of the Shawn Ryan episode.
+
+---
+
+**C-7336** Host Says She Believes Charlie Was Murdered in a Freemasonic Occult Ritual
+
+Claim Timestamp: 00:54:11
+
+Claim: The host says she believes Charlie was murdered and that it was a Freemasonic ritual, an occult ritual, which she calls her opinion and says she is sticking to until proven otherwise.
+
+Transcript Snippet: my belief that Charlie was murdered and it was a Freemasonic ritual, occult ritual and I that's my opinion and I'm sticking to it until proven otherwise
+
+Anchored Artifacts: A-2869.1, A-2869.1
+Mentions: N-1, N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: The host cites no document here; ask what evidence she holds for a ritual motive.
+
+---
+
+**C-7337** Host Says Harley Pasternak's Ambulance Call Put Kanye on a 5150 Hold
+
+Claim Timestamp: 00:57:13
+
+Claim: The host says Kanye West was put on a 5150 hold after his trainer Harley Pasternak had an ambulance called, and that a drug cocktail can cause mental issues for life.
+
+Transcript Snippet: Harley Pasternak, your gym trainer says so and they do a cocktail that can cause you to then have mental issues for life.
+
+Anchored Artifacts: 
+Mentions: N-27, N-753, N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Check Los Angeles reporting and hospital records, if public, on the 2016 hospitalization of Kanye West.
+
+---
+
+**C-7338** Host Says Michael Jackson's Lyrics Named Specific Jews in Hollywood
+
+Claim Timestamp: 00:58:01
+
+Claim: The host says Michael Jackson said "Jew me, screw me" in his songs and laid out specific Jews in Hollywood who were toying with his life.
+
+Transcript Snippet: What did he say? "Jew me, screw me" in his songs.
+
+Anchored Artifacts: 
+Mentions: N-752, N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Check the lyric source (They Don't Care About Us), the 1996 controversy and Jackson's own statements about it.
+
+---
+
+**C-7339** Host Says She Was Fired From Daily Wire for Suggesting Jackson Could Have Been Truthful
+
+Claim Timestamp: 00:58:01
+
+Claim: The host says one reason she was fired from Daily Wire was for suggesting Michael Jackson could have been telling the truth and that it might be time to listen to whether a Jewish gang operates in Hollywood.
+
+Transcript Snippet: One of the reasons I was fired from Daily Wire was for suggesting that Michael Jackson could have been telling the truth
+
+Anchored Artifacts: 
+Mentions: N-3, N-752
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Compare with Daily Wire's and the host's other accounts of the firing reasons.
+
+---
+
+**C-7340** Host Says Hollywood Was Established by Jewish Gangs
+
+Claim Timestamp: 00:58:40
+
+Claim: The host says she has since learned that Hollywood was literally established by Jewish gangs, as recorded on air.
+
+Transcript Snippet: I've since learned all about how Hollywood was literally established by Jewish gangs.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: The host cites no source; this broad group claim is recorded as said and needs historical sources to test.
+
+---
+
+**C-7341** Host Says Klavan Was Upset She Mentioned Sigmund Freud
+
+Claim Timestamp: 00:59:17
+
+Claim: The host says Andrew Klavan's Christ is King video made as an obscure point that he was upset she mentioned Sigmund Freud.
+
+Transcript Snippet: even Andrew Klavan's Christ is King video because one of the more obscure points was he was upset that I mentioned Sigmund Freud
+
+Anchored Artifacts: 
+Mentions: N-236, N-50, N-3
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Watch the Klavan video and check whether he objects to the Freud mention.
+
+---
+
+**C-7342** Host Says Freud Mainstreamed Gaslighting and Psychological Attacks Followed Charlie's Death
+
+Claim Timestamp: 00:59:17
+
+Claim: The host says that without learning about Sigmund Freud and how he mainstreamed gaslighting she does not know she would have survived the psychiatric attacks, which she says increased after Charlie's death.
+
+Transcript Snippet: if I did not learn about Sigmund Freud and how he basically just mainstreamed gaslighting people, I don't know that I would have survived the what were psychiatric attacks.
+
+Anchored Artifacts: 
+Mentions: N-50, N-3, N-1
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: The host cites no specific attack here; identify the incidents she calls psychiatric attacks.
+
+---
+
+**C-7343** Host Says Megyn Kelly Is Hosting the Influencers Who Attended the Hearing
+
+Claim Timestamp: 01:00:53
+
+Claim: The host says she saw people pinging her that Megyn Kelly is hosting the influencers who described the hearing, and that she herself had not watched because she was on vacation.
+
+Transcript Snippet: I did see people pinging me about Megan Kelly and saying she's hosting these people.
+
+Anchored Artifacts: 
+Mentions: N-46, N-3
+Related Nodes: N-11065
+Tags: relevance:context
+Investigative Direction: Review Kelly's recent shows for which influencers she hosted and what they said about the footage.
+
+---
+
+**C-7344** Host Says It Was Leaked That the Influencers Saw a Zoomed-In Version
+
+Claim Timestamp: 01:01:29
+
+Claim: The host says she does not know whether Megyn Kelly caught what was leaked afterward, that the influencers' footage was just a zoomed-in version of the 12.4 footage they saw.
+
+Transcript Snippet: I don't know that she caught the what then was leaked afterward about the it actually just being a zoomed-in version of 12.4 that they saw.
+
+Anchored Artifacts: 
+Mentions: N-46, N-3
+Related Nodes: N-10731, N-11065
+Supports: C-3054
+Tags: relevance:core
+Investigative Direction: Identify the leak and its source and compare the footage shown in court with the original at 12.4.
+
+---
+
+**C-7345** Host Says Kelly Told the Truth About What Charlie Feared in His Last Days
+
+Claim Timestamp: 01:01:29
+
+Claim: The host says Megyn Kelly stood up to all of these people and told the truth about what Charlie was fearing in his last days, and was attacked for it.
+
+Transcript Snippet: Megyn Kelly stood up to all of these people and told the truth about what Charlie was fearing in her last days.
+
+Anchored Artifacts: 
+Mentions: N-46, N-1, N-3
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Compare Kelly's statements about Charlie's last days with the messages and accounts the host cites elsewhere.
+
+---
+
+**C-7346** Host Says a September Decision Will Determine Whether the Trial Goes Forward
+
+Claim Timestamp: 01:02:17
+
+Claim: The host says a decision in September will determine that the case is going through and more evidence will be presented, and she expects Kelly to change her mind then.
+
+Transcript Snippet: when they make the decision in September that this is going to go through and more evidence is presented
+
+Anchored Artifacts: 
+Mentions: N-46, N-3
+Related Nodes: N-11065
+Tags: relevance:core
+Investigative Direction: Check the court's scheduling order for the date of the September ruling and what it decides.
+
+---
+
+**C-7347** Host Says Only Kelly and Tucker Carlson Told the Truth About Charlie's Struggles
+
+Claim Timestamp: 01:02:57
+
+Claim: The host says she feels Megyn Kelly and Tucker Carlson were the only two people with the courage to tell the truth about what Charlie was going through.
+
+Transcript Snippet: I feel like her and Tucker Carlson were the only two people that had the courage to tell the truth about what Charlie was going through.
+
+Anchored Artifacts: 
+Mentions: N-46, N-22, N-1, N-3
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Compare the Kelly and Carlson accounts with other public statements about Charlie's last weeks.
+
+---
+
+**C-7348** Host Says She Is Arranging for a Priest to Appear on the Show
+
+Claim Timestamp: 01:04:38
+
+Claim: The host says she is in the process of getting a priest known to come on the show to discuss theology.
+
+Transcript Snippet: I am in the process of getting a priest uh who is known to come on the show
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Watch for the announced priest guest on the show.
+
+---
+
+**C-7349** Viewer Comment Says Sound of Freedom Was the First Movie Pushed by Influential and Parscale
+
+Claim Timestamp: 01:05:30
+
+Claim: The host reads a viewer comment saying the first movie pushed by Influential was Sound of Freedom, with the same messaging as Frank's book, and that Brad Parscale pushed it; the host replies yes.
+
+Transcript Snippet: First movie pushed by Influential was Sound of Freedom, the same messaging as Frank's book.
+
+Anchored Artifacts: 
+Mentions: N-440, N-7, N-332, N-3
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Check Influential's and Parscale's roles in promoting Sound of Freedom.
+
+---
+
+**C-7350** Host Says She Met These People Through PragerU and Is Re-Examining Tim Ballard
+
+Claim Timestamp: 01:05:30
+
+Claim: The host says she has a lot to think about regarding Tim Ballard, since she met all these people through PragerU, and she is re-examining that time.
+
+Transcript Snippet: Yeah, I have a lot to think now about Tim Ballard, how I met all of these people sort of through PragerU and I reconsider that.
+
+Anchored Artifacts: 
+Mentions: N-332, N-3
+Related Nodes: N-10131
+Tags: relevance:context
+Investigative Direction: Identify which of the people she met through PragerU she means and the dates.
+
+---
+
+**C-7351** Host Maintains the Assassination Looks Like a Military Operation
+
+Claim Timestamp: 01:07:41
+
+Claim: The host says she maintains that, until presented with true evidence to the contrary and not influencers, the Charlie Kirk assassination looks to her like a military operation.
+
+Transcript Snippet: I maintain my position that the Charlie Kirk assassination, until I'm presented with true evidence to the contrary and not influencers, looks to me like it was a military operation.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10024
+Tags: relevance:core
+Investigative Direction: Ask the host to specify the military personnel, units or documents behind the position and track the trial evidence against it.
+
+---
 

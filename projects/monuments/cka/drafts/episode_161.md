@@ -12,10 +12,12 @@
 - **Model Version**: grok-manual-extract-seq161
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10880, N-10881, N-10882, N-10883, N-10884, N-10885, N-10886, N-10889, N-10890, N-10891, N-10892
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-103, N-119, N-120, N-149, N-162, N-173, N-194, N-205, N-265, N-272, N-283, N-37, N-336, N-566, N-605, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-305, N-10887, N-10888
-  - Hole-minted Nodes (seq161): N-287, N-308
-  - Hole-minted Nodes (wave1): N-358, N-359, N-360, N-361, N-362, N-363, N-364, N-365
+  - Tip-minted Nodes (supplement_2026-10d): N-886, N-887, N-11266, N-11267, N-11268
+  - Claim Range (supplement_2026-10d): C-10590–C-10642
+  - New Nodes Introduced: N-10880, N-10881, N-10882, N-10883, N-10884, N-10886, N-10889, N-10890, N-10891, N-10892
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-103, N-119, N-120, N-149, N-162, N-173, N-194, N-205, N-265, N-272, N-283, N-37, N-336, N-566, N-605, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-305, N-10887, N-10888, N-359, N-360, N-287, N-10885, N-757, N-10566, N-10728, N-10923
+  - Hole-minted Nodes (seq161): N-308
+  - Hole-minted Nodes (wave1): N-358, N-361, N-362, N-363, N-364, N-365
   - (see registers)
   - Person band: new persons were minted into free holes N-287, N-305 and N-308 (Hole-minted line, batch seq161); the other eight were re-minted in Wave 1 at N-358..N-365 (Hole-minted line, batch wave1). New Nodes Introduced lists the topic band only. No person id in the topic band. Mark Herman (N-67) is not named; on-air "Chris" reused as N-103. Sponsor reads (PreBorn, Wellness Company, Cozy Earth, Tax Network USA, American Financing) treated as non-claim.
   - Claim/artifact ids start at C-3680 / A-2497 to sit after open PR #56 tip (C-3679 / A-2496) and avoid fork collisions.
@@ -135,6 +137,73 @@ Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (as spoken on air)
 
 *Related: C-3694, C-3695, N-3, M-21*
+
+---
+
+**A-3087** Elephant Clipping Flow Chart Bundle
+
+**A-3087.1** Host-displayed chart of how the Elephant Clipping operation flows (Monster Lab / Clipit trade names, Matt Servius, and the people featured in campaigns); host asks the producer to pull it up twice
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:44:24
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-10622, C-10623, N-3, N-358, N-10880, N-10881, N-103*
+
+---
+
+**A-3088** Blake Wynn Public Appearances Bundle
+
+**A-3088.1** Host verbal listing of Blake Wynn appearances beside Erika Kirk (Presidential Medal of Freedom ceremony, TPUSA winter gala, Club America opening in Little Rock, the exit with Kash Patel); images are probably on screen but are not described
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:26:16
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-10608, C-10609, N-359, N-2, N-69, N-11266*
+
+---
+
+**A-3089** Viewer Comments Read On Air Bundle
+
+**A-3089.1** Host reads viewer comment from Miss Maya listing smears about the host, then riffs on shifting clipping narratives
+
+Quoted text: "Canis is apparently paid by the Saudis. She's working with Russia. She's a lesbian. Her husband is gay. She was also madly in love with Charlie."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:00:30
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10636, N-3*
+
+---
+
+**A-3090** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3090.1** Host verbal reference to the tip email address (more tips at candace dot com) asking techies for help with the Wayback Machine loading anomaly
+
+Quoted text: "So, hit your girl up at more tips at candace. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:59:40
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10634, N-3, N-10884*
+
+**A-3090.2** Host verbal reference to the tip email address asking for LLC or corporate documents on Monster Lab
+
+Quoted text: "Email us more tips@candice. com with any information."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:08:40
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10640, N-3, N-10880*
 
 ---
 
@@ -704,6 +773,83 @@ Opening satire of commenters volunteering as nannies after yesterday's Candyland
 
 ---
 
+**N-886** Dana White
+
+First named by the host at 00:30:50 in episode 161 (reading the Atlantic article). UFC CEO listed among those Blake Wynn says sat near Trump at Mar-a-Lago on election night 2024.
+
+*Related: C-10611*
+
+---
+
+**N-887** Steve Witkoff
+
+First named by the host at 00:30:50 in episode 161 (transcribed "Steve Witco"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.
+
+Aliases: Steve Witco
+
+*Related: C-10611*
+
+---
+
+**N-11266** Blake Wynn Public Appearances With Erika Kirk
+
+Node Type: Topic
+The host's list of events where Blake Wynn appeared beside Erika Kirk after the assassination, including the Presidential Medal of Freedom ceremony, the TPUSA winter gala, the Club America opening in Little Rock and the exit with Kash Patel.
+
+*Related: C-10608, C-10609, A-3088.1*
+
+---
+
+**N-11267** Erika Kirk Political Ambition Question
+
+Node Type: Topic
+The host's opinion that Erika Kirk wanted the White House and had high political ambitions, and her question whether Erika knew of the clipping site's launch.
+
+*Related: C-10629, C-10630*
+
+---
+
+**N-11268** vancekirk.com Domain Purchase
+
+Node Type: Topic
+The host's statement that the domain vancekirk.com was purchased on September 12, 2025 by an unknown buyer.
+
+*Related: C-10631*
+
+---
+
+**N-757** Howard Hughes
+
+Las Vegas billionaire whose company the host says was chopped up.
+
+*Related: C-10624*
+
+---
+
+**N-10566** Tyler Robinson Confession Narrative Discrepancy
+
+Existing topic reused for the Discord confession claim.
+
+*Related: C-10593*
+
+---
+
+**N-10728** Timpanogos Hospital Pre-Notification Failure
+
+Existing topic reused for the host's challenge to Harpole's account.
+
+*Related: C-10633*
+
+---
+
+**N-10923** White House Military Office Erika Kirk Amplification Email
+
+Existing topic reused for the "go home" exit video.
+
+*Related: C-10609*
+
+---
+
 ## 5. Claim Register
 
 **C-3680** Jennica Pounds posted anti-Candace DoD-week thread without disclosing hire
@@ -979,6 +1125,863 @@ Investigative Direction: None; audience-behavior guidance.
 
 ---
 
+**C-10590** Host says a .30-06 round should have knocked Charlie backward and penetrated the neck
+
+Claim Timestamp: 00:03:10
+
+Claim: The host says the official narrative requires viewers to believe a .30-06 bullet, delivering about 1,500 lb of energy, did not penetrate Charlie Kirk's neck and did not send him backward, noting he moved up and to the side.
+
+Transcript Snippet: we are meant to believe that not only did it not penetrate his neck but the force of the bullet which is 1,500 lb of energy coming at you uh that did not send Charlie backward.
+
+Anchored Artifacts: A-2497.1
+Mentions: N-1, N-40
+Related Nodes: N-10815
+Supports: C-3130
+Tags: relevance:core
+Investigative Direction: Compare the autopsy and ballistic reports with .30-06 energy tables and the video of his movement.
+
+---
+
+**C-10591** Host says the coordinated smear wave hit while she was off air in Spain
+
+Claim Timestamp: 00:05:45
+
+Claim: The host says she was in Spain with the show off air for two weeks during the Robinson preliminary-hearing week, traveling with Carrie Prejean Bowler, and was nonetheless inundated with obviously coordinated, well-funded attacks portraying her as a digital assassin.
+
+Transcript Snippet: You remember um I was away in Spain. That's why it was even more odd. The show was off air two weeks and despite this I was being inundated from every direction with these sorts of attacks.
+
+Anchored Artifacts:
+Mentions: N-3, N-566
+Related Nodes: N-10883
+Tags: relevance:context
+Investigative Direction: Compare the dates of the show hiatus with the Discord campaign windows and the volume of anti-Candace posts that week.
+
+---
+
+**C-10592** Host says funders use PR firms as middlemen to keep their hands clean
+
+Claim Timestamp: 00:06:40
+
+Claim: The host says groups who deny paying attackers often pay through a PR firm in the middle, and that in Jennica Pounds' case the Department of War is paying her.
+
+Transcript Snippet: in the case of Genica, the Department of War is paying Genica. Um, in many other circumstances, it's a PR firm that's in the middle.
+
+Anchored Artifacts: A-2497.1
+Mentions: N-287
+Related Nodes: N-10888, N-10883
+Supports: C-3336
+Tags: relevance:core
+Investigative Direction: Identify any PR firm contracts that touch the clipping platforms and Pounds' special government employee pay records.
+
+---
+
+**C-10593** Host says Discord is where Tyler Robinson's alleged confession was published
+
+Claim Timestamp: 00:07:55
+
+Claim: The host says that, as far as she knows, Discord is the place where Tyler Robinson published his alleged confession, which is why she doubts TPUSA would use it against enemies.
+
+Transcript Snippet: that's apparently the place that Tyler Robinson published his alleged confession
+
+Anchored Artifacts:
+Mentions: N-40
+Related Nodes: N-10013, N-10566
+Tags: relevance:context
+Investigative Direction: Obtain the Discord message records cited in the charging documents and the platform's preservation request.
+
+---
+
+**C-10594** Host says editors pick a Monster Lab campaign and are routed into Discord for rules
+
+Claim Timestamp: 00:09:20
+
+Claim: The host says editors choose a campaign listed on the Monster Lab website (debates, elephant clipping, shorts, podcast clipping) and are then sent to Discord, which supplies the dos, don'ts and run dates.
+
+Transcript Snippet: if you're an editor, you can pick one of these campaigns. And when you pick one, you are then thrown into uh Discord.
+
+Anchored Artifacts: A-2498.1
+Mentions:
+Related Nodes: N-10880, N-10013
+Tags: relevance:context
+Investigative Direction: Archive the Monster Lab campaign list and the Discord onboarding messages.
+
+---
+
+**C-10595** Host says Matt Servius is the top campaign creator on the Monster Lab site
+
+Claim Timestamp: 00:09:50
+
+Claim: The host says the Latvian man who runs Monster Lab and Clipit, Matt Servius, is also the number one person creating campaigns on the website, with Elephant Clipping his biggest political campaign channel.
+
+Transcript Snippet: He is also the number one person that is creating these campaigns on the website.
+
+Anchored Artifacts: A-2498.1
+Mentions: N-358
+Related Nodes: N-10880, N-10881
+Tags: relevance:context
+Investigative Direction: Count campaign creators on the Monster Lab site and confirm Servius's account in Discord.
+
+---
+
+**C-10596** Host says clippers are paid by impressions and register with a code in an Instagram bio
+
+Claim Timestamp: 00:10:15
+
+Claim: The host says editors make videos and are paid by Monster Lab according to how many impressions they receive, after putting a code in their Instagram bio so the company can identify them.
+
+Transcript Snippet: People make edits on videos and then they get paid by Monster Labs based on how many impressions those videos get.
+
+Anchored Artifacts: A-2498.1
+Mentions:
+Related Nodes: N-10880
+Tags: relevance:context
+Investigative Direction: Obtain the payout rules and sample bio-code registrations.
+
+---
+
+**C-10597** Host says the Wilson-debate-only rule ran until August 23
+
+Claim Timestamp: 00:12:30
+
+Claim: The host reads a Discord message from Elephant Clipping saying old Charlie Kirk and TPUSA debates were not allowed that week until August 23rd and the only permitted clip was the Candace-Wilson debate.
+
+Transcript Snippet: That is not allowed this week until August 23rd. The only thing you can clip is this debate.
+
+Anchored Artifacts: A-2498.1
+Mentions: N-18
+Related Nodes: N-10881
+Tags: relevance:core
+Investigative Direction: Capture the Discord message with its timestamp and moderator.
+
+---
+
+**C-10598** Host says the Atlantic reporter got in via a tip and a closed Discord
+
+Claim Timestamp: 00:14:25
+
+Claim: The host says an Atlantic journalist (Ali Breland) received a tip about the clipping operation and gained access to the closed Discord from someone who wanted to expose it.
+
+Transcript Snippet: a journalist over at the Atlantic did a deep dive after they also received a tip. In addition, they received access because this group is closed on Discord by someone who wanted to expose what was happening.
+
+Anchored Artifacts: A-2499.1
+Mentions: N-361
+Related Nodes: N-10889, N-10013
+Tags: relevance:core
+Investigative Direction: Read the published Atlantic article and its sourcing note.
+
+---
+
+**C-10599** Host previews that the videos are supplied by a close friend of Erika Kirk
+
+Claim Timestamp: 00:14:35
+
+Claim: The host says the operation has strong ties to Eastern Europe and that its videos are supplied by a very close friend of Erika Kirk.
+
+Transcript Snippet: it is going to be an operation with strong ties to Eastern Europe. And the videos are being supplied by a very close friend of Erika Kirks.
+
+Anchored Artifacts: A-2499.1
+Mentions: N-2
+Related Nodes: N-10886
+Tags: relevance:core
+Investigative Direction: Check the Atlantic article for who supplied videos and whether the friend is identified.
+
+---
+
+**C-10600** Atlantic reports Servius told recruits to use Gemini or ChatGPT for content
+
+Claim Timestamp: 00:15:30
+
+Claim: The host reads the Atlantic's account that Servius, in a video, says people can earn 100K a month and non-Americans can simply ask Gemini or ChatGPT for videos promoting Republican values.
+
+Transcript Snippet: If you're not from the USA, like what the f is even Republicans like me, then simply go to Gemini or chat GPT.
+
+Anchored Artifacts: A-2499.1
+Mentions: N-358, N-361
+Related Nodes: N-10889
+Tags: relevance:context
+Investigative Direction: View Servius's recruitment video and quote it in full.
+
+---
+
+**C-10601** Host cautions the company ownership is unconfirmed and Servius says he only runs it
+
+Claim Timestamp: 00:16:20
+
+Claim: The host says she cannot confirm Clippet is Servius's company, that the website describes Clippet and Monster Labs as trade names, and that Servius's LinkedIn says he runs it rather than owns it.
+
+Transcript Snippet: we cannot confirm that this is his company. And the website itself makes it clear that Clippet is not the true company name, but rather the trade name
+
+Anchored Artifacts: A-2499.1
+Mentions: N-358
+Related Nodes: N-10880
+Tags: relevance:context
+Investigative Direction: Search for LLC or DBA filings behind Monster Lab and Clipit.
+
+---
+
+**C-10602** Atlantic reporter joined the Discord by clicking join
+
+Claim Timestamp: 00:17:20
+
+Claim: The host reads that the Atlantic reporter accessed the Elephant Clipping Discord and related political clipping chats simply by clicking join and answering questions, and that campaign pay goes to accounts posing as ordinary Americans.
+
+Transcript Snippet: I was able to access its Discord server and other related political clipping campaign chats chats just by clicking join
+
+Anchored Artifacts: A-2499.1
+Mentions: N-361
+Related Nodes: N-10889, N-10013
+Tags: relevance:core
+Investigative Direction: Confirm with the reporter how access was granted and what was visible.
+
+---
+
+**C-10603** Servius says Elephant Clipping began about a year earlier, i.e. September 2025
+
+Claim Timestamp: 00:17:50
+
+Claim: The host reads that Discord budget records go back only to April but Servius said in a video that the campaign had run for about a year, and the host notes that dates it to September 2025, the month Charlie Kirk was assassinated.
+
+Transcript Snippet: Discord records for Elephant Clipping's budget go back only to April, but the campaign has been going on for about a year now, Cervius said in a video posted that month.
+
+Anchored Artifacts: A-2499.1
+Mentions: N-358, N-361, N-1
+Related Nodes: N-10881, N-10889
+Tags: relevance:core
+Investigative Direction: Locate the Servius video and its upload date.
+
+---
+
+**C-10604** Host says Erika was being sold to the public five days after the assassination and before the forgiveness speech
+
+Claim Timestamp: 00:23:00
+
+Claim: The host argues that a server dedicated to Erika Kirk clips and a budget existed five days after Charlie's death, before the public knew anything about her and before her "I forgive him" speech, and asks why she needed selling then.
+
+Transcript Snippet: Why did she need to be sold to the public 5 days after her husband's assassination? This is before we knew anything about her, right? This is even before the I forgive him speech.
+
+Anchored Artifacts: A-2500.1
+Mentions: N-2, N-1
+Related Nodes: N-10891
+Supports: C-3688
+Tags: relevance:core
+Investigative Direction: Compare Google Drive upload dates with the date of the memorial speech and first campaign payouts.
+
+---
+
+**C-10605** Host guesses which clips of Erika were seeded on September 15
+
+Claim Timestamp: 00:24:00
+
+Claim: The host guesses that the seeded clips were the early images of Charlie and Erika walking with the kids and Erika at the casket, and says everything seen in those early days was by design.
+
+Transcript Snippet: I think it's the one of Charlie and her walking with the kids. I think it's her in the casket. Everything we saw in those early days was by design.
+
+Anchored Artifacts: A-2500.1
+Mentions: N-2, N-1, N-194
+Related Nodes: N-10891
+Tags: relevance:core
+Investigative Direction: Obtain the Google Drive file list and compare with the clips in circulation Sept 10-20.
+
+---
+
+**C-10606** Atlantic: Blake Wynn is 26-year-old CEO and nephew of Steve Wynn
+
+Claim Timestamp: 00:25:30
+
+Claim: The host reads that Enclave and Key's CEO and founder is Blake Wynn, a 26-year-old nephew of billionaire donor Steve Wynn.
+
+Transcript Snippet: Enclave Keys CEO and founder is Blake Wyn, the 26-year-old nephew of the billionaire and conservative mega donor Steve Wyn.
+
+Anchored Artifacts: A-2500.1
+Mentions: N-359, N-360
+Related Nodes: N-10882
+Tags: relevance:core
+Investigative Direction: Check Nevada corporate filings for Enclave and Key officers.
+
+---
+
+**C-10607** Blake Wynn told the Atlantic there were inaccuracies; Enclave called it routine and lawful
+
+Claim Timestamp: 00:25:50
+
+Claim: The host reads that Blake Wynn answered the Atlantic's questions with "There are a number of inaccuracies" but declined to elaborate or talk, and that Enclave and Key's statement called clipping a routine, long-standing and lawful practice.
+
+Transcript Snippet: he responded, quote, "There are a number of inaccuracies," end quote, but declined to offer further clarification
+
+Anchored Artifacts: A-2500.1
+Mentions: N-359
+Related Nodes: N-10882
+Tags: relevance:core
+Investigative Direction: Request the specific inaccuracies and the full Enclave and Key statement.
+
+---
+
+**C-10608** Host lists Blake Wynn's appearances beside Erika Kirk
+
+Claim Timestamp: 00:26:40
+
+Claim: The host says Blake Wynn has been by Erika Kirk's side at events since Charlie's death, including the Presidential Medal of Freedom ceremony, TPUSA's annual winter gala and the Club America opening in Little Rock on March 11, 2026.
+
+Transcript Snippet: uh Turning Point USA's annual winter gala. Uh she was he was there as well also for the opening of Club America in Little Rock, Arkansas March 11th, 2026.
+
+Anchored Artifacts: A-3088.1
+Mentions: N-359, N-2
+Related Nodes: N-11266, N-10000
+Tags: relevance:core
+Investigative Direction: Collect photos and guest lists for each event.
+
+---
+
+**C-10609** Host says Blake Wynn was beside Erika carrying her bag when she left with Kash Patel
+
+Claim Timestamp: 00:27:20
+
+Claim: The host says Blake Wynn was at Erika Kirk's side walking out holding her bag next to Kash Patel by the cars during the viral "I want to go home" moment, and that the person who recorded the video was never identified.
+
+Transcript Snippet: He was there by her side walking out with her holding her bag next to Kash Patel and they were outside by the cars.
+
+Anchored Artifacts: A-3088.1
+Mentions: N-359, N-2, N-69
+Related Nodes: N-11266, N-10923
+Tags: relevance:core
+Investigative Direction: Identify everyone visible in the exit video and who recorded it.
+
+---
+
+**C-10610** Atlantic: Wynn said he speaks regularly with Kash Patel and was good friends with Kirk
+
+Claim Timestamp: 00:30:30
+
+Claim: The host reads that on a November 2025 podcast, Bring the Juice, Blake Wynn said Enclave and Key do a lot of political work, that he regularly speaks with FBI director Kash Patel, and that he was good friends with Charlie Kirk.
+
+Transcript Snippet: he said that he and Enclave and Key do a lot of work in politics. Wyn also said that he regularly speaks with FBI director Kash Patel and that he was good friends with Kirk.
+
+Anchored Artifacts: A-2500.1
+Mentions: N-359, N-69, N-1
+Related Nodes: N-10882
+Tags: relevance:core
+Investigative Direction: Watch the Bring the Juice interview and request any Patel contact logs.
+
+---
+
+**C-10611** Atlantic: Wynn recounted sitting next to Trump on election night 2024
+
+Claim Timestamp: 00:30:50
+
+Claim: The host reads that Blake Wynn recounted sitting next to Trump at Mar-a-Lago on election night 2024 alongside Elon Musk, UFC CEO Dana White and Steve Witkoff.
+
+Transcript Snippet: recounted sitting next to Trump at Mara Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witco, Trump's friend and special envoy.
+
+Anchored Artifacts: A-2500.1
+Mentions: N-359, N-5, N-119, N-886, N-887
+Related Nodes: N-10882
+Tags: relevance:context
+Investigative Direction: Verify seating accounts in the Bring the Juice interview.
+
+---
+
+**C-10612** Atlantic: Wynn posted photos with the Kirks and Tulsi Gabbard
+
+Claim Timestamp: 00:31:20
+
+Claim: The host reads that Blake Wynn has posted Instagram photos at small gatherings, the White House and Mar-a-Lago alongside the Kirks and Tulsi Gabbard.
+
+Transcript Snippet: he's posted pictures of himself on Instagram at small gatherings, the White House, and at Mara Lago alongside the Kirks and Tulsi Gabbard, the former director of national intelligence.
+
+Anchored Artifacts: A-2500.1
+Mentions: N-359, N-1, N-2, N-336
+Related Nodes: N-10882
+Tags: relevance:context
+Investigative Direction: Archive the Instagram posts with dates.
+
+---
+
+**C-10613** Atlantic: Elephant Clipping bans January 6 and Trump-family crypto subjects and Candace
+
+Claim Timestamp: 00:31:40
+
+Claim: The host reads that banned subjects in the campaign include the January 6, 2021 attack on the Capitol and cryptocurrencies promoted by members of the Trump family, and that clippers are barred from posting videos of Candace Owens, described as an Erika Kirk antagonist.
+
+Transcript Snippet: Banned subjects include the January 6th, 2021 attack on the capital and cryptocurrencies that members of the Trump family have promoted
+
+Anchored Artifacts: A-2499.1
+Mentions: N-3
+Related Nodes: N-10881, N-10889
+Tags: relevance:core
+Investigative Direction: Obtain the campaign rule sheet listing banned and approved subjects.
+
+---
+
+**C-10614** Atlantic: Crowder campaign also links to the Enclave and Key Google Drive
+
+Claim Timestamp: 00:32:30
+
+Claim: The host reads that Servius manages Ben Shapiro and Steven Crowder campaigns and that Crowder's campaign also links to the Enclave and Key Google Drive; neither Shapiro nor Crowder responded.
+
+Transcript Snippet: And Crowder's campaign also links to Enclave and Key connected to the Google Drive.
+
+Anchored Artifacts: A-2499.1
+Mentions: N-265, N-97
+Related Nodes: N-10882
+Tags: relevance:context
+Investigative Direction: Ask Crowder and Shapiro representatives about the campaigns.
+
+---
+
+**C-10615** Host says Kolvet and Blake Wynn have flown on a private plane together
+
+Claim Timestamp: 00:33:10
+
+Claim: The host tells Andrew Kolvet to ask his friend Blake Wynn about the Latvian operator, saying the two have been on a private plane together.
+
+Transcript Snippet: You guys have been on a private plane before together. Feel like you guys know each other.
+
+Anchored Artifacts:
+Mentions: N-14, N-359
+Related Nodes:
+Tags: relevance:core
+Investigative Direction: Identify the flight and passenger manifest she refers to.
+
+---
+
+**C-10616** Host says Enclave and Key has a footprint in Romania
+
+Claim Timestamp: 00:34:56
+
+Claim: The host says Enclave and Key has a corporate footprint in Romania.
+
+Transcript Snippet: Romania. Romania. I kid you not. I kid you not.
+
+Anchored Artifacts:
+Mentions: N-359
+Related Nodes: N-10882
+Tags: relevance:core
+Investigative Direction: Check Romanian company registries for Enclave and Key entities.
+
+---
+
+**C-10617** Host says her own clips are made by an identifiable employee, with no paid campaign
+
+Claim Timestamp: 00:38:50
+
+Claim: The host says she runs no underground paid clipping campaign and no PR middleman, and that clips on her socials are made by an employee who is identifiable.
+
+Transcript Snippet: What you see on my socials is an employee that is being paid to create clips on my socials that are identifiable.
+
+Anchored Artifacts:
+Mentions: N-3
+Related Nodes: N-10883
+Tags: relevance:context
+Investigative Direction: Compare with account lists and any payments by her company to clipping services.
+
+---
+
+**C-10618** Host says Crowder snuck his producer in to back Wilson at her house
+
+Claim Timestamp: 00:39:35
+
+Claim: The host says Steven Crowder effectively snuck in his producer, would not say who was coming, to back up Andrew Wilson at her house.
+
+Transcript Snippet: Steven Crowder, we told you he uh effectively snuck in his producer, wouldn't tell us who was coming into my house to back up Andrew Wilson.
+
+Anchored Artifacts:
+Mentions: N-265, N-18
+Related Nodes:
+Tags: relevance:context
+Investigative Direction: Identify the producer and the debate-day arrival list.
+
+---
+
+**C-10619** Host says the Monster Labs domain showed only a splash page from May 3, 2024 through 2025
+
+Claim Timestamp: 00:40:30
+
+Claim: The host says Wayback Machine shows a splash page for Monster Labs beginning May 3, 2024, with the site not live through 2025, until the September 2025 captures.
+
+Transcript Snippet: It stayed like this for beginning May 3rd, 2024. if you want to call this a a a splash page of sorts.
+
+Anchored Artifacts: A-2501.1
+Mentions:
+Related Nodes: N-10884, N-10880
+Supports: C-3690
+Tags: relevance:core
+Investigative Direction: Pull WHOIS history and CDX captures for the domain.
+
+---
+
+**C-10620** Host recalls Kash Patel saying archive.ph's operator must be identified
+
+Claim Timestamp: 00:42:40
+
+Claim: The host says she distinctly remembers Kash Patel saying they needed to figure out who runs archive.ph, a different archive site from Wayback Machine.
+
+Transcript Snippet: Kash Patel, who we've learned is is friends with all these people, was talking about how they needed to go out and figure out who was running archive uh. ph
+
+Anchored Artifacts:
+Mentions: N-69
+Related Nodes: N-10884
+Tags: relevance:context
+Investigative Direction: Locate Patel's statement on archive.ph.
+
+---
+
+**C-10621** Host speculates someone with power ordered Wayback to show only loading
+
+Claim Timestamp: 00:43:30
+
+Claim: The host, saying it is a feeling and not a fact, suggests someone with power told Wayback Machine to show only "loading" so people cannot see the first clipping campaign.
+
+Transcript Snippet: Somebody said I don't I don't know who owns Wayback Machine and said, "I see that you have all these archives. We just wanted to say loading.
+
+Anchored Artifacts: A-2501.1
+Mentions:
+Related Nodes: N-10884
+Supports: C-3690
+Tags: relevance:core
+Investigative Direction: Ask Internet Archive whether captures were restricted and on whose request.
+
+---
+
+**C-10622** Host says the site's terms list only the trade names Monster Lab and Clipit
+
+Claim Timestamp: 00:44:50
+
+Claim: The host says the terms and conditions and about page only say the company uses the trade names Monster Lab and Clipit, and that LLC documents searched so far do not reveal who is at the top.
+
+Transcript Snippet: When you go to the website and you look at the terms and conditions and the about section it just tells us that they are using the trade name monster lab and clip it.
+
+Anchored Artifacts: A-3087.1
+Mentions:
+Related Nodes: N-10880
+Tags: relevance:core
+Investigative Direction: Search state LLC filings and DBA registrations for the trade names.
+
+---
+
+**C-10623** Host says her chart lists Trump, Vance and others as campaign subjects
+
+Claim Timestamp: 00:45:15
+
+Claim: The host says the people in the campaigns, as learned from the article and shown in her chart, include Tulsi Gabbard, Ben Shapiro, Steven Crowder, Vivek Ramaswamy, President Trump and JD Vance.
+
+Transcript Snippet: People in the campaign we learned the article Tulsi Gabbard, Ben Shapiro, Steven Crowder, Vik Ramoswami, President Trump, JD Vance.
+
+Anchored Artifacts: A-3087.1
+Mentions: N-336, N-97, N-265, N-120, N-5, N-4
+Related Nodes: N-10881
+Tags: relevance:context
+Investigative Direction: Check whether Trump and Vance appear in the Atlantic article or only in the host's chart.
+
+---
+
+**C-10624** Host says Adelson and the Wynn family each got a piece of the Hughes empire
+
+Claim Timestamp: 00:46:00
+
+Claim: The host says that after Howard Hughes' company was chopped up, an Adelson (transcribed Adlesen) got a piece and the Wynn family took over the hotel he lived in.
+
+Transcript Snippet: after his company got chopped up. Adlesen got a piece. The Wind family got a piece.
+
+Anchored Artifacts:
+Mentions: N-757
+Related Nodes: N-10249
+Tags: relevance:tangential
+Investigative Direction: Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.
+
+---
+
+**C-10625** Host jokes RFK Jr. cannot be clipped because big-pharma wealth is in the syndicate
+
+Claim Timestamp: 00:47:50
+
+Claim: The host speculates RFK Jr. is banned from clipping because big-pharma wealth is a large part of the syndicate's money, calling it a cross-contamination of pharma and Las Vegas interests.
+
+Transcript Snippet: I guess that's why they can't clip RFK because, you know, big pharma is a big piece of that wealth.
+
+Anchored Artifacts:
+Mentions: N-365
+Related Nodes:
+Tags: relevance:tangential
+Investigative Direction: None beyond the banned-subject list.
+
+---
+
+**C-10626** Host says Monster Lab's operator purports to be based in New York
+
+Claim Timestamp: 00:48:50
+
+Claim: The host says the unknown person behind Monster Lab and Clipit purports to be based in New York.
+
+Transcript Snippet: we should be able to figure it out because this person is claim purports to be based in New York.
+
+Anchored Artifacts:
+Mentions:
+Related Nodes: N-10880
+Tags: relevance:context
+Investigative Direction: Search New York DOS filings for the trade names.
+
+---
+
+**C-10627** Aired interview says Nick Fuentes is banned on Instagram and YouTube yet clipped there
+
+Claim Timestamp: 00:51:50
+
+Claim: In the aired interview segment, it is said that Nick Fuentes is banned from Instagram and YouTube yet is widely found on Instagram because clippers post his content.
+
+Transcript Snippet: Nick Fuentes is banned from Instagram. He's banned from YouTube.
+
+Anchored Artifacts: A-2503.1
+Mentions: N-205
+Related Nodes: N-10890
+Tags: relevance:context
+Investigative Direction: Confirm the platform ban status of Fuentes' accounts.
+
+---
+
+**C-10628** Host says TPUSA is in cahoots with the clippers and sold Erika to the public
+
+Claim Timestamp: 00:52:55
+
+Claim: The host says Turning Point USA is obviously in cahoots with the clipping operators, taking Erika around on private planes while trying to position and sell her to the public.
+
+Transcript Snippet: Turning Point USA is obviously in cahoots with them. They were taking her around private planes and they are they were trying to get Erika um into a position where they were selling her to us.
+
+Anchored Artifacts:
+Mentions: N-2
+Related Nodes: N-10000, N-10880
+Contradicts: C-3687
+Tags: relevance:core
+Investigative Direction: Document flight records and campaign payments linked to TPUSA.
+
+---
+
+**C-10629** Host says Erika wanted the White House and had high political ambitions
+
+Claim Timestamp: 00:53:10
+
+Claim: The host says she genuinely believes Erika Kirk had high political ambitions and ultimately wanted the White House.
+
+Transcript Snippet: And I think ultimately because she wanted the White House. I genuinely believe Erika had high political ambitions.
+
+Anchored Artifacts:
+Mentions: N-2
+Related Nodes: N-11267
+Tags: relevance:core
+Investigative Direction: Collect Erika's statements and staff reports about political plans.
+
+---
+
+**C-10630** Host says Erika was CEO and chairman by September 12 so likely knew of the site
+
+Claim Timestamp: 00:53:20
+
+Claim: The host argues that if the site went live September 12, 2025, Erika Kirk, then CEO and chairman, would have known about it.
+
+Transcript Snippet: If this site went live on September 12th, are we supposed to believe she didn't know about this? She was CEO and chairman by September 12th.
+
+Anchored Artifacts:
+Mentions: N-2
+Related Nodes: N-11267
+Supports: C-6352
+Tags: relevance:core
+Investigative Direction: Establish the board appointment date and the site's go-live date.
+
+---
+
+**C-10631** Host says vancekirk.com was purchased September 12, buyer unknown
+
+Claim Timestamp: 00:53:40
+
+Claim: The host says she thinks September 12, 2025 is also the day the domain vancekirk.com was purchased, by an unknown buyer.
+
+Transcript Snippet: I think actually September 12th is also the day that vancekirk. com was purchased. We don't know who purchased it, but it was purchased.
+
+Anchored Artifacts:
+Mentions: 
+Related Nodes: N-11268
+Tags: relevance:core
+Investigative Direction: Pull WHOIS registration history for vancekirk.com.
+
+---
+
+**C-10632** Host says she has never taken a dollar from TPUSA
+
+Claim Timestamp: 00:56:35
+
+Claim: The host says she has never taken a single dollar from Turning Point USA.
+
+Transcript Snippet: I'm not getting paid. I've never taken a single dollar from Turning Point USA.
+
+Anchored Artifacts:
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Compare with any past TPUSA payments to the host.
+
+---
+
+**C-10633** Host says audio suggests the hospital knew someone was coming, despite Harpole
+
+Claim Timestamp: 00:57:50
+
+Claim: The host says Brian Harpole said the hospital did not know they were coming, but the audio and chats she is listening to show redirection to Timpanogos, suggesting the hospital knew someone was coming.
+
+Transcript Snippet: Now, Brian did say that the hospital didn't know they were coming, but it certainly sounds like the hospital knew someone was coming because we're listening now to the audio and the chats and they're redirecting to Teenogos.
+
+Anchored Artifacts:
+Mentions: N-272
+Related Nodes: N-10728, N-10874
+Contradicts: C-3056
+Tags: relevance:core
+Investigative Direction: Obtain dispatch audio and hospital intake logs with times.
+
+---
+
+**C-10634** DIA: Host asks techies to email tips about the Wayback loading anomaly
+
+Claim Timestamp: 00:59:40
+
+Claim: The host asks listeners, including technical people, to send tips to the more-tips address about why Wayback Machine archive days show only loading.
+
+Transcript Snippet: So, hit your girl up at more tips at candace. com.
+
+Anchored Artifacts: A-3090.1
+Mentions: N-3
+Related Nodes: N-10884
+Tags: relevance:core
+Investigative Direction: Track tips on Wayback captures.
+
+---
+
+**C-10635** Host says the wipe is cleaning up tracks, probably hiding anti-Candace campaigns
+
+Claim Timestamp: 00:59:55
+
+Claim: The host says "they" do not want viewers to see which campaign was live on September 12, calls the loading wipe a cleaning up of the tracks, and expects the hidden campaigns to be anti-Candace.
+
+Transcript Snippet: They don't want us to see what campaign was live on September 12th. That is a cleaning up of the tracks.
+
+Anchored Artifacts: A-2501.1
+Mentions: N-3
+Related Nodes: N-10884
+Supports: C-3690
+Tags: relevance:core
+Investigative Direction: Recover archived September 12 pages from other sources.
+
+---
+
+**C-10636** Host says shifting smears fed to overseas clippers include Saudi funding and Charlie romance
+
+Claim Timestamp: 01:01:00
+
+Claim: The host says the paid clippers are handed changing narratives about her, such as being funded by the Saudis and Pakistanis, being a Russian-speaking lesbian, her husband being gay and being madly in love with Charlie.
+
+Transcript Snippet: They're like, "She's funded by the Saudis. The Pakistanis are funding her. She's a Russian speaking lesbian. Her husband's gay. She's madly in love with Charlie."
+
+Anchored Artifacts: A-3089.1
+Mentions: N-3
+Related Nodes: N-10883
+Tags: relevance:tangential
+Investigative Direction: Trace the origin posts of each smear.
+
+---
+
+**C-10637** Host says her Theo Von episode passed a million views
+
+Claim Timestamp: 01:04:00
+
+Claim: The host says her episode with Theo Von was released the previous day on his channel and passed one million views.
+
+Transcript Snippet: Anyway, uh that was released yesterday on Theon's channel and people have really loved it. I think it I saw that it passed a million views
+
+Anchored Artifacts:
+Mentions: N-149
+Related Nodes:
+Tags: relevance:tangential
+Investigative Direction: Check view counts on Theo Von's channel.
+
+---
+
+**C-10638** Host says the people attacked and involved point to Israeli-aligned interests
+
+Claim Timestamp: 01:05:55
+
+Claim: The host says that, from who is being attacked and who is part of the campaigns, it is Israeli-aligned interests, which she says is beyond question.
+
+Transcript Snippet: look, it's it's Israeli aligned interest. There's no question about it.
+
+Anchored Artifacts:
+Mentions:
+Related Nodes: N-10026
+Tags: relevance:context
+Investigative Direction: Identify funders of Monster Lab and confirm any such alignment.
+
+---
+
+**C-10639** Host says baby number five is due in a couple of weeks
+
+Claim Timestamp: 01:07:50
+
+Claim: The host says she is about a couple of weeks from meeting her fifth child.
+
+Transcript Snippet: I'm so excited to meet him. I will say that. Just a couple more weeks here.
+
+Anchored Artifacts:
+Mentions: N-3
+Related Nodes:
+Tags: relevance:tangential
+Investigative Direction: None.
+
+---
+
+**C-10640** DIA: Host asks for LLC documents on Monster Lab via the tips email
+
+Claim Timestamp: 01:08:40
+
+Claim: The host asks viewers with LLC or corporate documents on the Monster Lab and Clipit trade names to email the more-tips address.
+
+Transcript Snippet: Email us more tips@candice. com with any information.
+
+Anchored Artifacts: A-3090.2
+Mentions: N-3
+Related Nodes: N-10880
+Tags: relevance:core
+Investigative Direction: Collect corporate documents for Monster Lab.
+
+---
+
+**C-10641** Host says the people involved were funded into their positions
+
+Claim Timestamp: 01:09:20
+
+Claim: The host says those who look past the flaws in the assassination story were funded into the positions they hold.
+
+Transcript Snippet: These people were funded uh into the positions that they're in today.
+
+Anchored Artifacts:
+Mentions:
+Related Nodes:
+Tags: relevance:tangential
+Investigative Direction: None; sweeping group characterization.
+
+---
+
+**C-10642** Host says Charlie fought people giving money to control his voice
+
+Claim Timestamp: 01:11:50
+
+Claim: The host says what Charlie was fighting in the end was people giving money to control his voice.
+
+Transcript Snippet: it is the very thing that Charlie was fighting in the end was the idea of people giving money to control his voice.
+
+Anchored Artifacts:
+Mentions: N-1
+Related Nodes:
+Tags: relevance:context
+Investigative Direction: Find Charlie's statements on donor influence.
+
+---
+
 ## 6. Meme Register
 
 **M-61** (meme) We Only Hoard Illegals
@@ -1168,6 +2171,63 @@ Speaker: N-3
 Quote: I thought I had six kids. I thought this was number six and then I was like, wait, what's the difference? And no, this is number five. You just sort of lose count after four, you know?
 Context: Baby-name comment mixup comedy.
 Tags: pregnancy, comedy, first_seen
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:44:50
+Speaker: N-3
+Quote: You know, I'm going to say email us more tips. com.
+Context: Tip-line ask for Monster Lab ownership leads; existing claim C-3694 covers the beat.
+Tags: tips, near_dia
+Confidence: medium
+
+### Occurrence 2
+
+Video Timestamp: 00:59:40
+Speaker: N-3
+Quote: So, hit your girl up at more tips at candace. com.
+Context: Tip-line ask about the Wayback loading anomaly.
+Tags: tips, near_dia
+Confidence: medium
+
+### Occurrence 3
+
+Video Timestamp: 01:08:40
+Speaker: N-3
+Quote: Email us more tips@candice. com with any information.
+Context: Tip-line ask for Monster Lab LLC documents.
+Tags: tips, near_dia
+Confidence: medium
+
+---
+
+**M-270** (meme) Where My Techies At
+
+### Occurrence 1
+
+Video Timestamp: 00:59:34
+Speaker: N-3
+Quote: Where my techies at? It ain't me.
+Context: Host asks tech-savvy viewers to explain the Wayback Machine loading anomaly.
+Tags: tips, humor, first_seen
+Confidence: high
+
+---
+
+**M-271** (meme) Elephant Droppings
+
+### Occurrence 1
+
+Video Timestamp: 01:04:57
+Speaker: N-3
+Quote: we see through their dirty elephant droppings. Nasty elephant droppings.
+Context: Host reads and agrees with a comment mocking the elephant clipping campaign.
+Tags: clipping, comment, first_seen
 Confidence: high
 
 ---

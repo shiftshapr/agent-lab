@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–00:54:06",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "9c5eaae09f60b1222748149513f2956bb4921fb32cb85837a09931b9ec7b9bff",
@@ -405,6 +405,132 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2905",
+      "family_ref": "A-2905",
+      "bundle_name": "Assault on Truth Book Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2905.1",
+          "ref": "A-2905.1",
+          "description": "Host verbal reference to the book The Assault on Truth, which her book club is reading (not shown)",
+          "related_claims": [
+            "C-7839",
+            "C-7840"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:01:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2906",
+      "family_ref": "A-2906",
+      "bundle_name": "Murder of Little Mary Fagan Book Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2906.1",
+          "ref": "A-2906.1",
+          "description": "Host verbal reference to the book The Murder of Little Mary Fagan (not shown)",
+          "related_claims": [
+            "C-7845"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:04:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2907",
+      "family_ref": "A-2907",
+      "bundle_name": "Orem Police Department Facebook Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2907.1",
+          "ref": "A-2907.1",
+          "description": "Host verbal reference to a Facebook post about Orem Police staff retiring and changes (not shown)",
+          "related_claims": [
+            "C-7860"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2908",
+      "family_ref": "A-2908",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2908.1",
+          "ref": "A-2908.1",
+          "description": "Host verbal call for tips to more tips email address (verbal)",
+          "related_claims": [
+            "C-7893"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2909",
+      "family_ref": "A-2909",
+      "bundle_name": "YouTube Homeschooling Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2909.1",
+          "ref": "A-2909.1",
+          "description": "YouTube comment read aloud by the host about a sister who began homeschooling (comment not shown)",
+          "related_claims": [
+            "C-7894"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:42:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -716,7 +842,18 @@
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7837",
+        "C-7846",
+        "C-7850",
+        "C-7854",
+        "C-7878",
+        "C-7888",
+        "C-7890",
+        "C-7903",
+        "C-7904",
+        "C-7906"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -732,7 +869,12 @@
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7876",
+        "C-7877",
+        "C-7878",
+        "C-7881"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -748,13 +890,875 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7836",
+        "C-7838",
+        "C-7839",
+        "C-7841",
+        "C-7844",
+        "C-7845",
+        "C-7846",
+        "C-7847",
+        "C-7848",
+        "C-7849",
+        "C-7852",
+        "C-7853",
+        "C-7855",
+        "C-7856",
+        "C-7857",
+        "C-7858",
+        "C-7859",
+        "C-7861",
+        "C-7862",
+        "C-7863",
+        "C-7868",
+        "C-7872",
+        "C-7873",
+        "C-7874",
+        "C-7875",
+        "C-7876",
+        "C-7877",
+        "C-7883",
+        "C-7884",
+        "C-7885",
+        "C-7886",
+        "C-7887",
+        "C-7890",
+        "C-7891",
+        "C-7892",
+        "C-7893",
+        "C-7894",
+        "C-7895",
+        "C-7896",
+        "C-7897",
+        "C-7898",
+        "C-7900",
+        "C-7901",
+        "C-7902",
+        "C-7903",
+        "C-7904",
+        "C-7905",
+        "C-7906",
+        "C-7907",
+        "C-7908",
+        "C-7909",
+        "C-7910"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Man the host says Lyman featured on his campaign website.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7866"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Commentator the host says is being pressured over her stance on the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7896",
+        "C-7905"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Sigmund Freud",
+      "type": "person",
+      "description": "Rendered 'Sigman Freud'; the host ties him to B'nai B'rith and abuse cover-ups.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7839",
+        "C-7840"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-61",
+      "ref": "N-61",
+      "name": "Phil Lyman",
+      "type": "person",
+      "description": "Utah politician; the host discusses his governor run, media tour and view of her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7864",
+        "C-7866",
+        "C-7867",
+        "C-7868",
+        "C-7870"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Tiffany Barker",
+      "type": "person",
+      "description": "Witness whose sister the host says was Lyman's running mate.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7864",
+        "C-7865"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "The host says she hired former federal prosecutors and is suing the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7885",
+        "C-7886",
+        "C-7909"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-93",
+      "ref": "N-93",
+      "name": "Alex Jones",
+      "type": "person",
+      "description": "Host says Lyman spoke to him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7867"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-119",
+      "ref": "N-119",
+      "name": "Elon Musk",
+      "type": "person",
+      "description": "The host says he tweeted about Kirk and TPUSA being on the ADL list.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7850"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-133",
+      "ref": "N-133",
+      "name": "Shainer Broderick",
+      "type": "person",
+      "description": "Person whose Instagram the host says featured Gauer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7870"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-134",
+      "ref": "N-134",
+      "name": "Gernot Omer",
+      "type": "person",
+      "description": "Likely the witness the host calls Gauer, an Austrian software engineer (uncertain match).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7870"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-317",
+      "ref": "N-317",
+      "name": "Emmanuel Beerer",
+      "type": "person",
+      "description": "Likely the witness the host calls Emmanuel who works at Domo (uncertain match).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7869"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-384",
+      "ref": "N-384",
+      "name": "Ian Carroll",
+      "type": "person",
+      "description": "Host says he discussed arbitration courts on her show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7884"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-722",
+      "ref": "N-722",
+      "name": "John F. Kennedy",
+      "type": "person",
+      "description": "JFK; the host compares his assassination to the Kirk case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7875"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Subject of the files the host says the government voted not to release.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7888",
+        "C-7889"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization the ADL listed per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7837",
+        "C-7850",
+        "C-7890"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "FBI; the host discusses its ADL ties and the Connecticut bureau.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7837",
+        "C-7846",
+        "C-7847",
+        "C-7851",
+        "C-7854",
+        "C-7897"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Site of the shooting; the Connecticut bureau was sent there per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7854"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Referenced in the host's claims about Kirk's turn and public suicide denials.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7849",
+        "C-7899",
+        "C-7900",
+        "C-7903"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10025",
+      "ref": "N-10025",
+      "name": "Israel Lobby Pressure on Conservative Figures",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7849"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10056",
+      "ref": "N-10056",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the no-choice claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7903"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10148",
+      "ref": "N-10148",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the no-choice claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7903"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10060",
+      "ref": "N-10060",
+      "name": "Good Morning America",
+      "type": "investigation_target",
+      "description": "Program Barker spoke to per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7865"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10095",
+      "ref": "N-10095",
+      "name": "9/10 Eyewitness Pattern Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7855"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10110",
+      "ref": "N-10110",
+      "name": "Tyler Robinson Evidence Gaps",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7876"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10129",
+      "ref": "N-10129",
+      "name": "Orem Police Department",
+      "type": "investigation_target",
+      "description": "Employer of Bishop per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7859",
+        "C-7860",
+        "C-7861",
+        "C-7862",
+        "C-7863"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10144",
+      "ref": "N-10144",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7866",
+        "C-7867",
+        "C-7868"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10153",
+      "ref": "N-10153",
+      "name": "\"Robbie Hild\" Identity Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Hild's Cayman and Spain ties.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7874",
+        "C-7893"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10270",
+      "ref": "N-10270",
+      "name": "Macron Defamation Lawsuit Delaware Venue Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7885",
+        "C-7886",
+        "C-7909"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11011",
+      "ref": "N-11011",
+      "name": "Macron Cease and Desist and Legal Timeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7885",
+        "C-7886"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10315",
+      "ref": "N-10315",
+      "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7855",
+        "C-7872"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7888",
+        "C-7889"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10406",
+      "ref": "N-10406",
+      "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7896",
+        "C-7905"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10662",
+      "ref": "N-10662",
+      "name": "2025 FARA Propaganda Timeline Convergence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the JFK FARA remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7875"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11059",
+      "ref": "N-11059",
+      "name": "Russian-Speaking Turning Point Network",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Ukrainian/Russian connections.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7891",
+        "C-7892"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11130",
+      "ref": "N-11130",
+      "name": "B'nai B'rith",
+      "type": "investigation_target",
+      "description": "Organization the host says gave rise to the ADL.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7838",
+        "C-7839",
+        "C-7841",
+        "C-7844"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-807",
+      "ref": "N-807",
+      "name": "Leo Frank",
+      "type": "person",
+      "description": "First named by the host at 00:03:10 in episode 14. Atlanta factory owner convicted in 1913 whom the host says the ADL was formed to defend.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7841",
+        "C-7842",
+        "C-7843",
+        "C-7844"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-808",
+      "ref": "N-808",
+      "name": "Mary Phagan",
+      "type": "person",
+      "description": "First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical record). Victim the host says was a 13-year-old pencil factory worker.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7842",
+        "C-7843",
+        "C-7845"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-809",
+      "ref": "N-809",
+      "name": "Scott Robbins",
+      "type": "person",
+      "description": "First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip whom the host says ran for Utah governor in 2024.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7871"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-810",
+      "ref": "N-810",
+      "name": "Greta Thunberg",
+      "type": "person",
+      "description": "First named by the host at 00:46:04 in episode 14, via a viewer comment. Activist the host says Israel's influence made out to be Hamas.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7899"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11153",
+      "ref": "N-11153",
+      "name": "Anti-Defamation League",
+      "type": "organization",
+      "description": "The ADL; the host says it was born of B'nai B'rith, lists Kirk, TPUSA and her, and worked with the FBI.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7837",
+        "C-7838",
+        "C-7841",
+        "C-7844",
+        "C-7847",
+        "C-7849",
+        "C-7850",
+        "C-7851",
+        "C-7852",
+        "C-7853",
+        "C-7890",
+        "C-7901"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11154",
+      "ref": "N-11154",
+      "name": "Azov Battalion",
+      "type": "organization",
+      "description": "Ukrainian unit (rendered 'AOV battalion') that the host says the ADL removed from its hate list.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7852"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11155",
+      "ref": "N-11155",
+      "name": "Bishop Orem Police Employment Claim",
+      "type": "topic",
+      "description": "Host's claim that eyewitness Olivia Bishop works for the Orem Police Department as a records specialist, with surrounding staffing and corruption talk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7859",
+        "C-7860",
+        "C-7862",
+        "C-7863"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11156",
+      "ref": "N-11156",
+      "name": "Leo Frank Case and ADL Origin Claim",
+      "type": "topic",
+      "description": "Host's account of the 1913 Frank case and her claim that the ADL was created to defend him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7841",
+        "C-7842",
+        "C-7843",
+        "C-7844",
+        "C-7845"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11157",
+      "ref": "N-11157",
+      "name": "Host Trump Hotel Money Warning to Kirk",
+      "type": "topic",
+      "description": "Host's recounted conversation with Kirk at the Trump Hotel in DC warning him about donor money.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7904",
+        "C-7906"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -989,7 +1993,1708 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7836",
+      "ref": "C-7836",
+      "label": "Host Says Tips Arrived About the Woman Missing From the Footage",
+      "claim": "The host says her team received a few tips about the woman who is missing from the footage, that she cannot confirm the tips identify her, and that the person's public testimony and job are interesting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "Obtain the footage and identify the woman; compare any named individual against the tip and her public statements.",
+      "transcript_snippet": "we received a few tips regarding the woman who is missing from the footage. And while we certainly cannot confirm that it's actually this individual",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7837",
+      "ref": "C-7837",
+      "label": "Host Says FBI Announced It Would Cut Ties With the ADL Over Its Kirk and TPUSA Listing",
+      "claim": "The host says the FBI announced it would cut ties with the Anti-Defamation League because the ADL had listed Charlie Kirk and Turning Point USA as extremist.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-10158",
+        "N-10000",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:15",
+      "investigative_direction": "Locate the ADL's extremism listing of Kirk/TPUSA and the FBI statement tying the break to it.",
+      "transcript_snippet": "yesterday the FBI made a rather curious announcement. They announced that they were going to cut ties with the ADL, right?",
+      "supports_claim_refs": [
+        "C-1351"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7838",
+      "ref": "C-7838",
+      "label": "Host Says the ADL Was Born Out of B'nai B'rith",
+      "claim": "The host says the ADL was born out of a Jewish Freemason organization known as B'nai B'rith (rendered 'Benith' in the transcript).",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-11130"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:15",
+      "investigative_direction": "Compare with the ADL's own founding history and B'nai B'rith records.",
+      "transcript_snippet": "The reality is the ADL was born out of a Jewish Freemason organization known as Benith.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7839",
+      "ref": "C-7839",
+      "label": "Host Says Sigmund Freud Was a B'nai B'rith Member",
+      "claim": "The host says Sigmund Freud was a member of B'nai B'rith and ties him to the book club reading The Assault on Truth.",
+      "anchored_artifacts": [
+        "A-2905.1"
+      ],
+      "related_nodes": [
+        "N-11130"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:15",
+      "investigative_direction": "Check Freud biographies for B'nai B'rith membership records (Vienna lodge).",
+      "transcript_snippet": "but Sigman Freud was a member of Bonai Barith.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7840",
+      "ref": "C-7840",
+      "label": "Host Says Freud and Colleagues Covered Up Incestuous Child Abuse",
+      "claim": "The host says Freud and his colleagues covered up incestuous child abuse, that this is a fact, and that modern psychology grew from gaslighting abuse victims by diagnosing them.",
+      "anchored_artifacts": [
+        "A-2905.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:25",
+      "investigative_direction": "Review the seduction-theory history and the cited book for the documented basis.",
+      "transcript_snippet": "him and all of his homies were covering up for incestuous child abuse. That is a fact.",
+      "mentions_person_refs": [
+        "N-50"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7841",
+      "ref": "C-7841",
+      "label": "Host Says the ADL Was Created to Defend Leo Frank",
+      "claim": "The host says the ADL was put together by B'nai B'rith to defend Leo Frank, whom she calls a pedophile and a murderer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-11130",
+        "N-11156"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:10",
+      "investigative_direction": "Compare ADL and B'nai B'rith founding records (1913) with the Frank case history; note the host's characterization is hers alone.",
+      "transcript_snippet": "Well, because they put the organization together to defend a pedophile and a murderer. His name is Leo Frank.",
+      "mentions_person_refs": [
+        "N-807",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7842",
+      "ref": "C-7842",
+      "label": "Host Says Mary Fagan Was a 13-Year-Old Pencil Factory Worker Found Raped in 1913",
+      "claim": "The host says Mary Fagan (Mary Phagan in the record) was a 13-year-old Catholic girl who worked at Leo Frank's Atlanta pencil factory and was found brutally raped in 1913.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11156"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:10",
+      "investigative_direction": "Check 1913 Georgia court and newspaper records of the Phagan case.",
+      "transcript_snippet": "And Mary Fagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.",
+      "mentions_person_refs": [
+        "N-808",
+        "N-807"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7843",
+      "ref": "C-7843",
+      "label": "Host Says Frank Was Found Guilty Despite Wealth and Blamed a Black Janitor",
+      "claim": "The host says Frank, despite wealth, top lawyers and connections to the Supreme Court, was found guilty even in the segregated South and tried to pin the crime on a poor black janitor.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11156"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:10",
+      "investigative_direction": "Review the 1913 trial record and appeals to the US Supreme Court.",
+      "transcript_snippet": "he was so guilty of what happened that despite the fact that he tried to pin it on a poor black janitor.",
+      "mentions_person_refs": [
+        "N-807",
+        "N-808"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7844",
+      "ref": "C-7844",
+      "label": "Host Says B'nai B'rith Assembled the ADL to Gaslight the Public About Frank",
+      "claim": "The host says Frank's associates in the B'nai B'rith lodge assembled the ADL to gaslight the public into believing he was innocent and a victim of anti-semitism after he was lynched.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-11130",
+        "N-11156"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:25",
+      "investigative_direction": "Compare the host's chronology with the documented timing of the ADL's founding (1913) and Frank's 1915 lynching.",
+      "transcript_snippet": "What happened then is that his buddies over at the Freemasonic Lodge, Benber, assembled the ADL to gaslight the public.",
+      "supports_claim_refs": [
+        "C-7841"
+      ],
+      "mentions_person_refs": [
+        "N-807",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7845",
+      "ref": "C-7845",
+      "label": "Host Says a Book About Mary Fagan Was Written by a Relative of the Same Name",
+      "claim": "The host says the book The Murder of Little Mary Fagan was written by a relative of the victim who is also named Mary Fagan, and recommends it as a source.",
+      "anchored_artifacts": [
+        "A-2906.1"
+      ],
+      "related_nodes": [
+        "N-11156"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:25",
+      "investigative_direction": "Confirm the book, its author and relationship to the victim.",
+      "transcript_snippet": "there's a book called The Murder of Little Mary Fagan, and it is written by a relative of hers.",
+      "mentions_person_refs": [
+        "N-808",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7846",
+      "ref": "C-7846",
+      "label": "Host Says the Press Uses a 'Gaslight and Diagnose' Method on the Kirk Case",
+      "claim": "The host says journalists are students of the psychoanalytic community who gaslight and then diagnose, that this is happening around the Kirk case, and that the feds lied after the killing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:30",
+      "investigative_direction": "Identify the specific press pieces and federal statements the host is referring to.",
+      "transcript_snippet": "gaslight and diagnose seeing it happen in real time pertaining to the Charlie Kirk case. We watched him be murdered and then we watched the feds lie to us",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7847",
+      "ref": "C-7847",
+      "label": "Host Says the ADL Labels Truth-Tellers Extremists and Works With the FBI to Target Them",
+      "claim": "The host says the ADL has been directing the FBI for years, labels people who tell the truth as extremists, and that its list effectively works as a hit list used with the FBI.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-10158",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:40",
+      "investigative_direction": "Obtain the ADL-FBI training and liaison records and the extremism listings.",
+      "transcript_snippet": "They label people who tell the truth extremists. They put them on a list. I think it effectively works as a hit list.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7848",
+      "ref": "C-7848",
+      "label": "Host Says Critics Say She Must Have Postpartum Psychosis",
+      "claim": "The host says critics respond to her questions by claiming she must be suffering from postpartum psychosis.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:40",
+      "investigative_direction": "Collect the press pieces that make the postpartum psychosis suggestion.",
+      "transcript_snippet": "Candace is they always say this. She must be suffering from postpartum psychosis.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7849",
+      "ref": "C-7849",
+      "label": "Host Says Both Left and Right Work With the ADL",
+      "claim": "The host says she learned last year that both the left and the right work with the ADL, and that right-wing neocons feed it names of anyone who is an enemy to the state of Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-10026",
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:01",
+      "investigative_direction": "Identify the neocon figures and any documented name-sharing with the ADL.",
+      "transcript_snippet": "The neocons on the right side work arm in-armm with the ADL and feed them names primarily of anyone, I should say, who is an enemy to the state of Israel.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7850",
+      "ref": "C-7850",
+      "label": "Host Says Elon Musk's Tweet Made the ADL Listing a Conservative Talking Point",
+      "claim": "The host says she thinks Elon Musk tweeted about Kirk and TPUSA being on the ADL list and that it caught fire and became the new conservative talking point.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:45",
+      "investigative_direction": "Find Musk's post and its date relative to Patel's announcement.",
+      "transcript_snippet": "I think Elon Musk tweeted about Charlie Kirk and TPUSA being on the list and then it kind of caught fire",
+      "mentions_person_refs": [
+        "N-119",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7851",
+      "ref": "C-7851",
+      "label": "Host Says the ADL Trained FBI Agents and Shared Intelligence With the FBI",
+      "claim": "The host says the ADL was training FBI agents and sharing intelligence in partnership with the FBI, and that Patel's announcement says no more.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-10158",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:45",
+      "investigative_direction": "Obtain FBI-ADL training agreements, course rosters and information-sharing records.",
+      "transcript_snippet": "Yes, the ADL was training FBI agents and sharing intelligence in partnership uh with the FBI.",
+      "supports_claim_refs": [
+        "C-1354"
+      ],
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7852",
+      "ref": "C-7852",
+      "label": "Host Says the ADL Removed the Azov Battalion From Its Hate List",
+      "claim": "The host says the ADL curiously removed the Azov battalion (rendered 'AOV' in the transcript), which she says carves swastikas and murders people, from its hate list.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-11154"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:50",
+      "investigative_direction": "Check the ADL's Glossary of Extremism entry for Azov and its edit history.",
+      "transcript_snippet": "they curiously removed the AOV battalion. They're carving swastikas on their head. The Ukrainians uh murdering people. They removed them from the hate list.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7853",
+      "ref": "C-7853",
+      "label": "Host Says She Is on the ADL's Hate List",
+      "claim": "The host says she herself is on the ADL's hate list and contrasts that with the removal of Azov.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:50",
+      "investigative_direction": "Verify the ADL listing of Candace Owens.",
+      "transcript_snippet": "Candace Owens is on there, though. I'm sure you guys go to bed and you're worried about Candace Owens",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7854",
+      "ref": "C-7854",
+      "label": "Host Says She Corroborated the Connecticut Bureau Tip Among 55 Main FBI Bureaus",
+      "claim": "The host says she received a tip she was able to corroborate that, out of 55 main FBI bureaus and over 350 satellite bureaus, the Connecticut bureau was sent to UVU after the assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10159",
+        "N-10014",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:03",
+      "investigative_direction": "Request the FBI's deployment roster for UVU and confirm which field offices sent personnel.",
+      "transcript_snippet": "I received a rather stunning tip which I have been able to corroborate that out of all of the FBI bureaus in the United States regarding which there are 55 main bureaus and over 350 satellite bureaus.",
+      "supports_claim_refs": [
+        "C-1356"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7855",
+      "ref": "C-7855",
+      "label": "Host Says Early Witnesses Had Government Ties or Were Not From UVU",
+      "claim": "The host says many of the witnesses who spoke out immediately had strange connections to the government, were not from UVU at all, or came from overseas.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10161",
+        "N-10095",
+        "N-10315"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:41",
+      "investigative_direction": "Verify each named witness's employer, residence and affiliation from public records.",
+      "transcript_snippet": "That they had strange connections to the government or like weren't from UVU at all, were coming from overseas.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7856",
+      "ref": "C-7856",
+      "label": "Host Says an Unrelated Tipster Reported Footage of a Person Helping the Shooter Change Clothes",
+      "claim": "The host says she got a tip from an unrelated individual that footage exists of a person helping the shooter change clothes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:41",
+      "investigative_direction": "Request any such footage and the tipster's basis; compare against the Lyman family clip.",
+      "transcript_snippet": "I got that one tip from an individual, completely unrelated, said yes, there was footage of a person helping the shooter change clothes.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7857",
+      "ref": "C-7857",
+      "label": "Host Says the Tip Name Was the Only Witness Who Saw the Shooter Up Close Limping",
+      "claim": "The host says the name received for the woman via Orem rumors turned out to be someone who gave the only eyewitness testimony of seeing the shooter up close limping, while stressing it is an unverified rumor.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:52",
+      "investigative_direction": "Confirm the tip's origin and whether other eyewitnesses reported seeing the limp.",
+      "transcript_snippet": "Anyways, the name uh that we had received was it turned out somebody that actually provided the only eyewitness testimony of having seen the shooter up close limping.",
+      "mentions_person_refs": [
+        "N-147",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7858",
+      "ref": "C-7858",
+      "label": "Host Allows the Woman May Simply Have Filmed Both Men Walking and Had Nothing to Do With a Clothing Change",
+      "claim": "The host says it is possible the woman captured both men walking back to back, was just walking near him and had nothing to do with helping him change.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:52",
+      "investigative_direction": "Review the footage the woman recorded and any police statement she gave.",
+      "transcript_snippet": "it's possible just to run the other side of things that this woman captured both of them walking back to back and she just was walking near him",
+      "qualifies_claim_refs": [
+        "C-7857"
+      ],
+      "mentions_person_refs": [
+        "N-147",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7859",
+      "ref": "C-7859",
+      "label": "Host Says Bishop Is Not a UVU Student and Works as an Orem Police Records Specialist",
+      "claim": "The host says Olivia Bishop does not attend UVU and works for the Orem Police Department as a records specialist.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10129",
+        "N-11155"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:53",
+      "investigative_direction": "Confirm Bishop's employment with the Orem Police Department through department staffing records.",
+      "transcript_snippet": "It turns out that she works for the Oram Police Department. She's a record specialist.",
+      "mentions_person_refs": [
+        "N-147",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7860",
+      "ref": "C-7860",
+      "label": "Host Says Orem Police Lost Many Staff in August",
+      "claim": "The host says the Orem Police Department lost many staff in August, pointing to a Facebook post about retirements and changes, though she does not know when Bishop started.",
+      "anchored_artifacts": [
+        "A-2907.1"
+      ],
+      "related_nodes": [
+        "N-10129",
+        "N-11155"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:53",
+      "investigative_direction": "Locate the department's Facebook post and its staffing change roster for August 2025.",
+      "transcript_snippet": "in August, you're going to believe this, they kind of lost a lot of people that were working at the department.",
+      "mentions_person_refs": [
+        "N-147"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7861",
+      "ref": "C-7861",
+      "label": "Host Says She Is Hearing About Plausible Corruption at Orem Police",
+      "claim": "The host says she is hearing a lot of stuff about some plausible corruption that might be going on at the Orem Police Department.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10129"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:53",
+      "investigative_direction": "Identify the sources and any public records or complaints about Orem Police corruption.",
+      "transcript_snippet": "we're hearing a lot of stuff about uh some plausible corruption that might be going on there.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7862",
+      "ref": "C-7862",
+      "label": "Host Says Bishop Met Friends and Her Husband at the Event",
+      "claim": "The host says Bishop said she was meeting up with friends and with her husband at the event, and the host questions how an Orem Police employee could attend mid-day on a Wednesday.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10129",
+        "N-11155"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:48",
+      "investigative_direction": "Check Bishop's work schedule and leave records for September 10, 2025.",
+      "transcript_snippet": "Another thing that we were able to learn is that she met up with her husband.",
+      "mentions_person_refs": [
+        "N-147",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7863",
+      "ref": "C-7863",
+      "label": "Host Says She Reached Out to Bishop, Who Declined to Say More",
+      "claim": "The host says she called the records office and texted Bishop, who does not want to speak and said she gave her testimony and the appropriate information to the appropriate authorities.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10129",
+        "N-11155"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:48",
+      "investigative_direction": "Obtain the text exchange and any statement Bishop gave to investigators.",
+      "transcript_snippet": "She says that was it. She just wanted to speak right there. Give her testimony and that she gave the appropriate information to the appropriate authorities.",
+      "mentions_person_refs": [
+        "N-147",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7864",
+      "ref": "C-7864",
+      "label": "Host Says Tiffany Barker Is With the Nieces and Her Sister Was Lyman's Running Mate",
+      "claim": "The host says witness Tiffany Barker is with the nieces and that her sister was Phil Lyman's running mate.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:48",
+      "investigative_direction": "Confirm Barker's family tie to Lyman's 2024 running mate and the nieces' identities.",
+      "transcript_snippet": "Tiffany Barker, of course, she's with the nieces. Her sister was Phil Lyman's running mate.",
+      "mentions_person_refs": [
+        "N-75",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7865",
+      "ref": "C-7865",
+      "label": "Host Says Barker Spoke to Good Morning America in the Early Hours After the Shooting",
+      "claim": "The host says Barker spoke to Good Morning America in the early morning hours after the shooting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10060"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:03",
+      "investigative_direction": "Check GMA broadcast logs and booking records for the September 11 interview.",
+      "transcript_snippet": "She spoke to Good Morning America in the we morning we hours of the morning after.",
+      "mentions_person_refs": [
+        "N-75"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7866",
+      "ref": "C-7866",
+      "label": "Host Says Lyman Ran for Governor in 2024 and Featured George Zinn on His Website",
+      "claim": "The host says Phil Lyman ran for Utah governor in 2024 and featured George Zinn on his website at that time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:03",
+      "investigative_direction": "Archive the Lyman campaign site from 2024 and check for the Zinn endorsement.",
+      "transcript_snippet": "He ran for Utah governor in 2024. He featured George Zinn on his website at that time.",
+      "supports_claim_refs": [
+        "C-1338"
+      ],
+      "mentions_person_refs": [
+        "N-61",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7867",
+      "ref": "C-7867",
+      "label": "Host Says Lyman Spoke to Alex Jones, Fox News and NewsNation",
+      "claim": "The host says Phil Lyman spoke to Alex Jones, Fox News, News Nation and anyone who would have him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:03",
+      "investigative_direction": "Catalog Lyman's media appearances after September 10.",
+      "transcript_snippet": "spoke to Alec Jones, Fox News, News Nation, really anybody that would have him.",
+      "mentions_person_refs": [
+        "N-61",
+        "N-93"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7868",
+      "ref": "C-7868",
+      "label": "Host Says Lyman Thinks She Is Shady and an Accomplice",
+      "claim": "The host says Lyman wants her to know he thinks she is shady and an accomplice to something.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:03",
+      "investigative_direction": "Locate Lyman's public statements about the host.",
+      "transcript_snippet": "He wants me to know that he thinks I'm I'm shady, that I'm an accomplice to something.",
+      "mentions_person_refs": [
+        "N-61",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7869",
+      "ref": "C-7869",
+      "label": "Host Says Emmanuel Works at Domo Incorporated",
+      "claim": "The host says the witness named Emmanuel works for Domo Incorporated as a software engineer and technical adviser and that his name is German in origin.",
+      "anchored_artifacts": [
+        "A-1215.1"
+      ],
+      "related_nodes": [
+        "N-10161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:48",
+      "investigative_direction": "Confirm the witness's identity and employment at Domo through LinkedIn and company records.",
+      "transcript_snippet": "he works for Domo Incorporated. History is that he is a software engineer, a technic advis technical adviser.",
+      "mentions_person_refs": [
+        "N-317"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7870",
+      "ref": "C-7870",
+      "label": "Host Says Gauer Is an Austrian Software Engineer Tied to Lyman's Relative and Shainer's Instagram",
+      "claim": "The host says Gauer was with Phil Lyman's nephew or cousin, is a software engineer from Austria, and was featured in Shainer's Instagram.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:48",
+      "investigative_direction": "Match the Gauer name to the previously identified Gernot Omer and review the Shainer Instagram posts.",
+      "transcript_snippet": "He we learned was a software engineer from Austria. So, Austria, Germany.",
+      "mentions_person_refs": [
+        "N-134",
+        "N-133",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7871",
+      "ref": "C-7871",
+      "label": "Host Says Scott Robbins Ran for Utah Governor in 2024",
+      "claim": "The host says Scott Robbins, who appears in the USA Today clip looking like a college kid, was a gubernatorial candidate who ran for governor of Utah in 2024.",
+      "anchored_artifacts": [
+        "A-1215.1"
+      ],
+      "related_nodes": [
+        "N-10161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:48",
+      "investigative_direction": "Check Utah 2024 gubernatorial filings for Scott Robbins.",
+      "transcript_snippet": "well, he was also a gubernatorial candidate. He ran for governor of Utah in 2024.",
+      "mentions_person_refs": [
+        "N-809"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7872",
+      "ref": "C-7872",
+      "label": "Host Says Nobody Asked the Witnesses Who They Were or If They Were Students",
+      "claim": "The host says USA Today and AP did not ask the witnesses who they were or whether they were college students.",
+      "anchored_artifacts": [
+        "A-1215.1"
+      ],
+      "related_nodes": [
+        "N-10161",
+        "N-10315"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:48",
+      "investigative_direction": "Review the original USA Today and AP witness interviews.",
+      "transcript_snippet": "I guess all of these USA Today or AP, nobody asked them like who they were or if they were college students.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7873",
+      "ref": "C-7873",
+      "label": "Host Says Witnesses Eager to Speak to the Press Never Contacted Her",
+      "claim": "The host says none of the witnesses she looked up has reached out to her despite her asking for information from the minute the event happened, though they were eager to speak to the press.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:48",
+      "investigative_direction": "Document the host's public requests for witness contact and responses.",
+      "transcript_snippet": "none of them have reached out to me. Like, from the minute that this all happened, I asked for information,",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7874",
+      "ref": "C-7874",
+      "label": "Host Says Robbie Hild Has Cayman Islands and Spain Connections",
+      "claim": "The host says her team has found Robbie Hild connected to the Cayman Islands and to Spain, has put a TBD on him, and will report on him Monday.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10153"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:46",
+      "investigative_direction": "Verify Hild's reported Cayman Islands and Spain ties through corporate and travel records.",
+      "transcript_snippet": "We've got Robbie Hild in Spain. We've got Robbie Hild all over.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7875",
+      "ref": "C-7875",
+      "label": "Host Says JFK Was Infiltrated and Removed for Wrong Ideas",
+      "claim": "The host says she thinks JFK was surrounded and infiltrated by his own people and removed for the wrong ideas, such as every foreign nation registering under FARA, and that the Warren Commission was a farce.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10662"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:37",
+      "investigative_direction": "Compare with documented JFK-era records; note the FARA link is the host's characterization.",
+      "transcript_snippet": "I think he was surrounded. I think he was infiltrated and then they got rid of him because of wrong think.",
+      "mentions_person_refs": [
+        "N-722",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7876",
+      "ref": "C-7876",
+      "label": "Host Says It Is Robinson's Gun but She Does Not Believe He Pulled the Trigger",
+      "claim": "The host says she is not saying Robinson is guilty of nothing, that it is his gun and weird things are going on, but she does not believe he pulled the trigger.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:37",
+      "investigative_direction": "Review the charging documents, ballistic tie to the gun and Robinson's ownership records.",
+      "transcript_snippet": "It's his gun. There's weird stuff going on there. I don't believe he pulled the trigger.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7877",
+      "ref": "C-7877",
+      "label": "Host Says Robinson Would Need a Lawyer Who Works for the Prosecution",
+      "claim": "The host says that to make Robinson the patsy stick, the government needs a lawyer who is working for the prosecution, and that this is what is going on.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10160"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:37",
+      "investigative_direction": "Review how Robinson's defense counsel was selected and any role of the prosecutor.",
+      "transcript_snippet": "if they're going to make that stick, then you got to have you got to have a lawyer that's working for the prosecution, right?",
+      "supports_claim_refs": [
+        "C-1360"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7878",
+      "ref": "C-7878",
+      "label": "Lane Says a Reputable Utah Firm Rejected the Single-Shooter Story",
+      "claim": "Elizabeth Lane says one of the most reputable firms in Utah told her they did not believe Charlie Kirk's killing was a case of a single crazy kid going up and shooting him in the neck and agreed to represent Robinson pro bono.",
+      "anchored_artifacts": [
+        "A-1212.1"
+      ],
+      "related_nodes": [
+        "N-10160"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:07",
+      "investigative_direction": "Identify the firm and obtain any written communication with Lane about the offer.",
+      "transcript_snippet": "we don't believe that what happened to Charlie Cork was remotely a case of just a single, you know, crazy kid going up and shooting the guy in the neck.",
+      "mentions_person_refs": [
+        "N-6",
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7879",
+      "ref": "C-7879",
+      "label": "Lane Says a Local Lawyer Warned Her Off the Most Powerful Utah Firms",
+      "claim": "Lane says a local lawyer told her not to contact the most powerful firms in Utah because they are in on it with the state and will side with the state.",
+      "anchored_artifacts": [
+        "A-1212.1"
+      ],
+      "related_nodes": [
+        "N-10160"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:25",
+      "investigative_direction": "Identify the local lawyer and the firms Lane means.",
+      "transcript_snippet": "do not get in touch with the firms in Utah that are the most powerful because they are in on it with the state.",
+      "mentions_person_refs": [
+        "N-6"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7880",
+      "ref": "C-7880",
+      "label": "Lane Says One of Utah's Biggest Firms Screamed at Her on the Phone",
+      "claim": "Lane says that when she called one of the biggest firms in Utah for advice, they started screaming on the phone.",
+      "anchored_artifacts": [
+        "A-1212.1"
+      ],
+      "related_nodes": [
+        "N-10160"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:28",
+      "investigative_direction": "Identify the firm and call date.",
+      "transcript_snippet": "They started screaming on the phone and I was like why do you even care?",
+      "mentions_person_refs": [
+        "N-6"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7881",
+      "ref": "C-7881",
+      "label": "Lane Says a Famous New York Lawyer Wanted to Represent Robinson",
+      "claim": "Lane says a death-penalty-qualified, very famous New York lawyer wants to represent Robinson and only needs consent from Robinson.",
+      "anchored_artifacts": [
+        "A-1212.1"
+      ],
+      "related_nodes": [
+        "N-10160"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:28",
+      "investigative_direction": "Identify the New York lawyer and any consent request filed.",
+      "transcript_snippet": "there is a lawyer who's qualified and he's actually very famous in New York wants to represent this kid.",
+      "mentions_person_refs": [
+        "N-6",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7882",
+      "ref": "C-7882",
+      "label": "Lane Says Skordas Is Running as a State Prosecutor and Says So on His Website",
+      "claim": "Lane says Scordies (Skordas) is running as a state prosecutor, that it is on his website, and that his finding a lawyer for Robinson is highly unethical.",
+      "anchored_artifacts": [
+        "A-1212.1"
+      ],
+      "related_nodes": [
+        "N-10160"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:15",
+      "investigative_direction": "Check Skordas's campaign site and official role; confirm spelling and title.",
+      "transcript_snippet": "So, what I know is that Scordies is running as a state prosecutor. He's running. Everyone can look it up. It's on his website.",
+      "supports_claim_refs": [
+        "C-1360"
+      ],
+      "mentions_person_refs": [
+        "N-6",
+        "N-151"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7883",
+      "ref": "C-7883",
+      "label": "Host Says the Gang Running Everything Also Controls the Courts",
+      "claim": "The host says the gang running everything is also controlling the courts, which is how a prosecution that makes no sense happens.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10160"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:15",
+      "investigative_direction": "Not independently testable; look for specific rulings or appointments.",
+      "transcript_snippet": "this gang that's running everything, okay, they also are controlling the courts.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7884",
+      "ref": "C-7884",
+      "label": "Host Says Arbitration Courts Are Private and Judges Need Not Follow the Law",
+      "claim": "The host says Ian Carroll discussed on her show, in connection with Justin Bieber, that arbitration courts are private courts where the judge does not have to follow the law.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:08",
+      "investigative_direction": "Review the Carroll episode and the arbitration clause discussed.",
+      "transcript_snippet": "Arbitration courts, so they get you to sign a contract and you agree.",
+      "mentions_person_refs": [
+        "N-384",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7885",
+      "ref": "C-7885",
+      "label": "Host Says She Is the First Podcaster Sued for Defamation by a Sitting Foreign Leader",
+      "claim": "The host says never in history has a sitting leader of a foreign country sued a podcaster, news member or journalist in a foreign country for defamation and that she is the first.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10270",
+        "N-11011"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:54",
+      "investigative_direction": "Check for earlier suits by sitting heads of state against foreign journalists.",
+      "transcript_snippet": "Never in the history of the world ever has there been a sitting leader of a foreign country that has sued a podcaster or a news member even even a journalist in a foreign country for defamation.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7886",
+      "ref": "C-7886",
+      "label": "Host Says Brigitte Macron Hired Former Federal Prosecutors and a US Firm",
+      "claim": "The host says Brigitte Macron has hired former federal prosecutors and is hiring a firm here in order to bankrupt her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10270",
+        "N-11011"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:45",
+      "investigative_direction": "Review the court docket for the Macron counsel appearances.",
+      "transcript_snippet": "Breit Mcronone has hired feds federal former federal prosecutors and she's hiring a firm here.",
+      "mentions_person_refs": [
+        "N-82",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7887",
+      "ref": "C-7887",
+      "label": "Host Describes the Playbook: Smear, Bankrupt or Die Mysteriously",
+      "claim": "The host says people who get too close face being smeared, bankrupted or dying in rather mysterious circumstances.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:45",
+      "investigative_direction": "Sweeping claim; look for specific named examples.",
+      "transcript_snippet": "it's either you're smeared, you are bankrupt, bankrupted, or you die in rather mysterious circumstances.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7888",
+      "ref": "C-7888",
+      "label": "Host Says the Government Quietly Voted Not to Release Epstein Files the Day Kirk Was Killed",
+      "claim": "The host says she thinks it was the day Charlie was killed that the government quietly voted not to release any Epstein files.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:04",
+      "investigative_direction": "Check the congressional vote record for September 10, 2025 on the Epstein files.",
+      "transcript_snippet": "I think actually it was the day that uh Charlie was killed, quietly voted. We're not going to actually release any Epstein files.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7889",
+      "ref": "C-7889",
+      "label": "Host Says Marjorie Taylor Greene Has Been Very Loud Against Non-Release of the Epstein Files",
+      "claim": "The host says Greene has been very loud against the Epstein files non-release and has become increasingly vocal, prompting her suicide denial.",
+      "anchored_artifacts": [
+        "A-1216.1"
+      ],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:30",
+      "investigative_direction": "Review Greene's public statements on the Epstein files.",
+      "transcript_snippet": "Taylor Green has been very loud about how she is against that as she has grown increasingly vocal",
+      "supports_claim_refs": [
+        "C-1364"
+      ],
+      "mentions_person_refs": [
+        "N-148",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7890",
+      "ref": "C-7890",
+      "label": "Host Says the ADL List Features Kirk, TPUSA and Candace Owens",
+      "claim": "The host says the ADL creates a list that features people like Charlie Kirk, Turning Point USA and Candace Owens.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:30",
+      "investigative_direction": "Verify the entries on the ADL's lists.",
+      "transcript_snippet": "Why the ADL creates a list that features people like Charlie Kirk and Turning Point USA and Candace Owens.",
+      "supports_claim_refs": [
+        "C-7853"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7891",
+      "ref": "C-7891",
+      "label": "Host Says Ukrainian Connections Are Coming Across in the Case",
+      "claim": "The host says she will show next week strange Ukrainian connections coming across in this case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11059"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:41",
+      "investigative_direction": "Identify the Ukrainian connections the host promises.",
+      "transcript_snippet": "show to you the the Ukrainian connections that are coming across in this that are very strange",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7892",
+      "ref": "C-7892",
+      "label": "Host Says the Catholic School Shooter Scribbled in Cyrillic",
+      "claim": "The host says the recent Catholic school shooter was scribbling in a notebook in Cyrillic and asks why Russian speakers are involved in these shootings.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11059"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:41",
+      "investigative_direction": "Review the official evidence from the Annunciation Catholic School shooting.",
+      "transcript_snippet": "the Catholic school shooting for no the person was scribbling in their notebook recently the shooter in Cerrillic.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7893",
+      "ref": "C-7893",
+      "label": "Host Opens Another Tips Line and Asks for Tips About Robbie Hild and What Happened in Orem",
+      "claim": "The host says her team opened another tips line because they are at max capacity and asks for tips about Robbie Hild and what took place in Orem on the day at more tips email, and asks viewers not to send TikTok theories.",
+      "anchored_artifacts": [
+        "A-2908.1"
+      ],
+      "related_nodes": [
+        "N-10153"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:35",
+      "investigative_direction": "Confirm the tip address and track the volume of submissions; the Decentralized Intelligence Agency beat.",
+      "transcript_snippet": "we did open another tips line uh because we need to we're just we are at max capacity.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7894",
+      "ref": "C-7894",
+      "label": "A Commenter Says Her Sister Took a Four-Year-Old Out of School",
+      "claim": "A YouTube commenter read by the host says her sister took her four-year-old out of school and began homeschooling.",
+      "anchored_artifacts": [
+        "A-2909.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:16",
+      "investigative_direction": "Not investigable.",
+      "transcript_snippet": "My sister took her four-year-old out of school yesterday. Literally started homeschooling this morning.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7895",
+      "ref": "C-7895",
+      "label": "Host Says Sleeper Cells Exist in Public and Private Schools",
+      "claim": "The host says sleeper cells exist in public schools and private schools.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:52",
+      "investigative_direction": "Sweeping claim; ask for specific named cases.",
+      "transcript_snippet": "these sleeper cells exist in public schools, private schools.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7896",
+      "ref": "C-7896",
+      "label": "Host Says Megyn Kelly Was Shown a Clip of the Host Saying It Is Not Left or Right",
+      "claim": "The host says Megyn Kelly was shown a clip of the host saying it is not left or right anymore and was told she should attack the host as allied with the left.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:52",
+      "investigative_direction": "Find the Kelly appearance and the clip shown.",
+      "transcript_snippet": "And then they showed her a clip of me saying that it's not left or right anymore.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7897",
+      "ref": "C-7897",
+      "label": "Host Says Influencers Are Paid to Call the Questions Crazy",
+      "claim": "The host says the attacks on her are a psychological operation that pays influencers to say that it is crazy and to trust only the feds.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:01",
+      "investigative_direction": "Look for documented influencer payments tied to this narrative.",
+      "transcript_snippet": "psychological operation, paying influencers to say that's crazy.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7898",
+      "ref": "C-7898",
+      "label": "Host Says She Just Started Homeschooling This Week",
+      "claim": "The host says she handles the morning homeschooling, just started this week and feels more joyful, and was inspired by her accountant sister.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:00",
+      "investigative_direction": "Not investigable.",
+      "transcript_snippet": "I do the the morning stuff for homeschooling. And it obviously I just started this week",
+      "supports_claim_refs": [
+        "C-1277"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7899",
+      "ref": "C-7899",
+      "label": "Host Says Greta Thunberg Was Labeled Hamas After a Time Cover",
+      "claim": "The host says Israel's power is shown by Greta Thunberg being put on the cover of Time and then called Hamas over an octopus in a picture.",
+      "anchored_artifacts": [
+        "A-1219.4"
+      ],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:04",
+      "investigative_direction": "Find the Time cover and the octopus image controversy.",
+      "transcript_snippet": "they like put her on the cover of Time and then suddenly they were like she had an octopus in a picture and they basically said she's Hamas",
+      "mentions_person_refs": [
+        "N-810"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7900",
+      "ref": "C-7900",
+      "label": "Host Says Public Figures Who Speak Against Israel Feel Forced to State They Are Not Suicidal",
+      "claim": "The host says that if you have influence and speak out against Israel you do have to make a statement that you are not suicidal.",
+      "anchored_artifacts": [
+        "A-1217.1"
+      ],
+      "related_nodes": [
+        "N-10161",
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:20",
+      "investigative_direction": "Collect similar public statements by other figures.",
+      "transcript_snippet": "If you have influence and you're speaking out against Israel, you do have to kind of make that statement.",
+      "supports_claim_refs": [
+        "C-1365"
+      ],
+      "mentions_person_refs": [
+        "N-149",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7901",
+      "ref": "C-7901",
+      "label": "Host Predicts the ADL Will Call YouTube After the Episode",
+      "claim": "The host says the ADL will use its influence to call YouTube after this episode, as she says it did last year to her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:12",
+      "investigative_direction": "Check YouTube enforcement actions against the host in 2024 and any ADL involvement.",
+      "transcript_snippet": "the ADL after this episode is going to do what they do and uh call use their powerful influence to call YouTube like you know last year what happened to me",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7902",
+      "ref": "C-7902",
+      "label": "Commenter Paul T Says the Operation Looks Rushed and Sloppy",
+      "claim": "A commenter named Paul T, who says he works in private security, says more than one group is involved, they do not all want the same things, and the operation seems rushed and sloppy.",
+      "anchored_artifacts": [
+        "A-1219.6"
+      ],
+      "related_nodes": [
+        "N-10161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:12",
+      "investigative_direction": "Not verifiable; commenter's identity unknown.",
+      "transcript_snippet": "I'm in the private security sector. I see a lot of investigations. There is not only one group involved here, and they don't all want the same things.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7903",
+      "ref": "C-7903",
+      "label": "Host Says Kirk Was Explicit He Was Left No Choice but to Become Anti-Israel",
+      "claim": "The host says Charlie was explicit that he was left with no choice but to become anti-Israel because of their behavior and what they were doing to him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056",
+        "N-10148",
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:12",
+      "investigative_direction": "Find Kirk's own statements or messages showing his stance.",
+      "transcript_snippet": "he was explicit that he was left with no choice but to become anti-Israel because of their behavior and what they were doing to him",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7904",
+      "ref": "C-7904",
+      "label": "Host Says She Warned Kirk at the Trump Hotel in DC to Be Careful Whose Money He Took",
+      "claim": "The host says she looked Charlie in the face at the Trump Hotel in DC and told him to be very careful who he takes money from and what he is willing to do for a check.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11157"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:02",
+      "investigative_direction": "Date the Trump Hotel conversation and identify corroboration.",
+      "transcript_snippet": "you have to be very careful who you take money from and what you are doing what you are willing to do for a check.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7905",
+      "ref": "C-7905",
+      "label": "Host Says Articles Began Targeting Megyn Kelly After She Predicted It",
+      "claim": "The host says she predicted pressure on Megyn Kelly yesterday and that articles appeared afterward, as the hornets nest has been kicked.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:02",
+      "investigative_direction": "Find the articles after the October 1 episode targeting Kelly.",
+      "transcript_snippet": "It's starting. The hornets nest has been kicked. The bees are buzzing around Megan Kelly.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7906",
+      "ref": "C-7906",
+      "label": "Host Says Kirk Saw the Danger Only Too Late",
+      "claim": "The host says she does not think Charlie believed or saw that donor money came from gangsters until it was too late.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11157"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:04",
+      "investigative_direction": "Gather Kirk's later statements about donors.",
+      "transcript_snippet": "I don't think Charlie believed that or saw that until it was I think too late.",
+      "supports_claim_refs": [
+        "C-7904"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7907",
+      "ref": "C-7907",
+      "label": "Host Says Germany Arrests Parents Who Homeschool",
+      "claim": "The host says Germany does not allow homeschooling and parents get arrested for keeping their kids home.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:04",
+      "investigative_direction": "Check German compulsory school attendance law.",
+      "transcript_snippet": "don't forget Germany, they're not allowed to do it. Germany, Germany, they won.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7908",
+      "ref": "C-7908",
+      "label": "Host Says 97 Vaccines Are Required for Public School",
+      "claim": "The host says 97 vaccines are required in order for children to be allowed to go to public school.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:04",
+      "investigative_direction": "Check state school immunization schedules.",
+      "transcript_snippet": "And we say 97 vaccines in order for them to be allowed to go to public school.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7909",
+      "ref": "C-7909",
+      "label": "Host Says Mrs. Macron Is Going to Bankrupt Her",
+      "claim": "The host says Mrs. Macron is going to bankrupt her for exposing it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:35",
+      "investigative_direction": "Track costs and filings in the Macron suit.",
+      "transcript_snippet": "Mrs. Mcronone's got some pretty big balls. She's going to bankrupt me for exposing it.",
+      "supports_claim_refs": [
+        "C-7886"
+      ],
+      "mentions_person_refs": [
+        "N-82",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7910",
+      "ref": "C-7910",
+      "label": "Host Says the Witness Tree Has Gone Silent and Never Reached Out",
+      "claim": "The host says the witness tree has gone silent and has never reached out to her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10161"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:17",
+      "investigative_direction": "Document witness outreach attempts.",
+      "transcript_snippet": "And the witness tree has gone silent, has never reached out to me.",
+      "confidence": "high",
+      "supports_claim_refs": [
+        "C-7873"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 14,
+          "video_timestamp": "00:02:25",
+          "speaker_node_ref": "N-3",
+          "quote": "te literally, the way that they did this was through the mechanism of gaslighting. That's what he is the father of public gaslighting. Okay, that's...",
+          "context": "Later reuse of Gaslight in CKA seq 14.",
+          "confidence": "high",
+          "tags": [
+            "media",
+            "denial",
+            "host_refrain",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 14,
+          "video_timestamp": "00:38:35",
+          "speaker_node_ref": "N-3",
+          "quote": "please email more tips@candaceens. com.",
+          "context": "Host opens another tips line and asks viewers to email tips on Robbie Hild and the Orem events.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        },
+        {
+          "episode": 14,
+          "video_timestamp": "00:39:46",
+          "speaker_node_ref": "N-3",
+          "quote": "More tips@candowens. com.",
+          "context": "Host repeats the tips address.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 14,
+          "video_timestamp": "00:52:35",
+          "speaker_node_ref": "N-3",
+          "quote": "we had so many people buy our CIA merch.",
+          "context": "Host plugs CIA merch on the new merch plug.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "cia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 14,
+          "video_timestamp": "00:52:35",
+          "speaker_node_ref": "N-3",
+          "quote": "We don't know, but we know.",
+          "context": "Host pairs the line with the CIA merch plug.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "refrain"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 14,
+          "video_timestamp": "00:10:50",
+          "speaker_node_ref": "N-3",
+          "quote": "It's slave slop. We are the slaves and they are serving us slop right now.",
+          "context": "Host calls the ADL statement slop.",
+          "confidence": "high",
+          "tags": [
+            "slop",
+            "host_refrain"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-201",
+      "ref": "M-201",
+      "canonical_term": "Slave Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 14,
+          "video_timestamp": "00:10:50",
+          "speaker_node_ref": "N-3",
+          "quote": "It's slave slop.",
+          "context": "Host labels the ADL's statement and the left-versus-right illusion as slave slop.",
+          "confidence": "high",
+          "tags": [
+            "slop",
+            "host_refrain"
+          ]
+        },
+        {
+          "episode": 14,
+          "video_timestamp": "00:42:52",
+          "speaker_node_ref": "N-3",
+          "quote": "Any person that is awake and realizes that that is slave slop.",
+          "context": "Host reuses the label for the left-versus-right divide.",
+          "confidence": "high",
+          "tags": [
+            "slop",
+            "host_refrain"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-202",
+      "ref": "M-202",
+      "canonical_term": "Witness Tree",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 14,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "Our witness tree grows.",
+          "context": "Host closes the opener with the witness tree refrain.",
+          "confidence": "high",
+          "tags": [
+            "witness tree",
+            "refrain"
+          ]
+        },
+        {
+          "episode": 14,
+          "video_timestamp": "00:19:48",
+          "speaker_node_ref": "N-3",
+          "quote": "I'd like to take a broader look at our witness tree because it's growing, right?",
+          "context": "Host introduces the running list of witnesses.",
+          "confidence": "high",
+          "tags": [
+            "witness tree"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-203",
+      "ref": "M-203",
+      "canonical_term": "Tapestry of Deception",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 14,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "there has been an extremely carefully woven tapestry of deception in all of our lives.",
+          "context": "Host opens with the tapestry image.",
+          "confidence": "high",
+          "tags": [
+            "tapestry",
+            "opener"
+          ]
+        },
+        {
+          "episode": 14,
+          "video_timestamp": "00:36:30",
+          "speaker_node_ref": "N-3",
+          "quote": "It is a carefully woven lie everywhere rigged against all of us.",
+          "context": "Host returns to the woven-lie image.",
+          "confidence": "high",
+          "tags": [
+            "tapestry"
+          ]
+        }
+      ]
+    }
+  ]
 }

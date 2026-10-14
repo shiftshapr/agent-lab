@@ -1,0 +1,11 @@
+# Coverage notes, episode 54
+
+- Existing draft held 21 claims (C-2026 to C-2046); this supplement adds 126 new claims (C-8126 to C-8251), 5 new artifact families, 3 new people, 13 new topics or organizations, 2 new memes (M-212, M-211) plus occurrences of M-13, M-35, M-47, M-77 and M-81.
+- About 20 beats were judged covered: the 24th-of-month planning statement, the Natalia post, the ABC clip's founding and shared-address points, the recorded caller's lock-in and coercion accounts, the Washington Post bailout, $3.5 million, $400,000, 1978 investigation, $300 million, $500 million, American Freedom Coalition and 70% Japan excerpts, the Mearsheimer jet and Iran-Contra emails, Carey Hezekiah's brother shooting and bear cage, and the Yoon arrest, Korean Herald and CBN items.
+- Most important beats the earlier pass missed:
+  - 00:03:00-00:05:10: the Charis Bible College (Woodland Park, Colorado) tip that there was no security plan or police coordination for the September 11 event and the police chief ran the vigil planning.
+  - 01:12:10-01:13:08: the host's stated best guess that Kirk was killed after refusing an offer to become the next Moon and that his lieutenants might have betrayed him.
+  - 00:09:59-00:12:58: the Romania thread (plane formerly registered in Romania, Romanian Angels and Colonel Buscher, Bowyer's 2011 Romania trip, Harvest Church accusation, Kolvet's brother).
+  - 00:05:53-00:20:26: the host's working Excel sheet of Liberty, Eastern Europe, trafficking and military connections with named individuals, including the Falkirk Center origin of Turning Point Faith.
+  - 01:01:41 and 01:17:37-01:18:26: the host says Kirk established DOVE to trace the money, that an operation took place with people implicated, and that she feels she has found the why but not the how.
+- Doubts: Curtis Kolvet is called a lieutenant colonel at 00:12:58 and a captain at 00:18:32; the aircraft called Haiti's military plane at 00:19:32 is garbled; Sean Ryan in the transcript is matched to Shawn Ryan N-229; tail number YR-NVY is the host's reading. Book club promotion at 01:24:44 (CandaceOwens.com) and sponsor reads were not treated as DIA beats; no tip request or bounty occurred. No downstream edges were added where the host spoke in speculation.

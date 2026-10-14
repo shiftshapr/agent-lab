@@ -6,14 +6,14 @@
 - **YouTube id**: KpxIBWkNsSs
 - **Candace Ep**: 336
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:59:41
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 96bdf8580abb4cedfb15c84e3fc6f2b56488e802cc03c0adb8c91e6d3d6c96f2
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10665, N-10666, N-10667
-  - Hole-minted Nodes (wave3): N-441, N-442
-  - Reused Nodes Appearing: N-11, N-10373, N-434, N-10664
+  - New Nodes Introduced: N-10666, N-10667
+  - Hole-minted Nodes (wave3): N-441
+  - Reused Nodes Appearing: N-11, N-10373, N-434, N-10664, N-442, N-10665
   - (see registers)
 
 # Episode Analysis: Monument Episode 102 – "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
