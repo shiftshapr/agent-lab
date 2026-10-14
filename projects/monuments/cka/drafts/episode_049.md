@@ -6,7 +6,7 @@
 - **YouTube id**: ewBzjVe3LNQ
 - **Candace Ep**: 282
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:15:06
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 54326bf303ba2cba298d77e6856541d4369aa89e3a7bd9e071e08bfc83a58bce
 
