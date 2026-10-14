@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-11160, N-11161
-  - Hole-minted Nodes (reintro-ep035): N-10289, N-10316, N-10341, N-10530, N-10672, N-10699, N-10862
+  - Hole-minted Nodes (reintro-ep035): N-10289, N-10316, N-10530, N-10672, N-10699, N-10862
   - Tip-minted Nodes (reintro-ep035): N-10911, N-11061
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-7978–C-8065
   - New Nodes Introduced: N-271, N-10265, N-10266, N-10269
-  - Reused Nodes Appearing: N-2, N-272, N-273, N-10267, N-10268, N-9, N-11, N-14, N-46, N-50, N-69, N-82, N-190, N-194, N-221, N-283, N-10000, N-10001, N-10002, N-10014, N-10047, N-10074, N-10085, N-10113, N-10116, N-10132, N-10155, N-10180, N-10202, N-10229, N-10248, N-10253, N-10263, N-10270, N-10324, N-10338, N-10427, N-10434, N-11011, N-274
+  - Reused Nodes Appearing: N-2, N-272, N-273, N-10267, N-10268, N-9, N-11, N-14, N-46, N-50, N-69, N-82, N-190, N-194, N-221, N-283, N-10000, N-10001, N-10002, N-10014, N-10047, N-10074, N-10085, N-10113, N-10116, N-10132, N-10155, N-10180, N-10202, N-10229, N-10248, N-10253, N-10263, N-10270, N-10324, N-10338, N-10427, N-10434, N-11011, N-274, N-10341
   - (see registers)
 
 # Episode Analysis: Monument Ep 35 / Candace Ep 268

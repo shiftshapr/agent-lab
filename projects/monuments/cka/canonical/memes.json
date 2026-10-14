@@ -2,7 +2,7 @@
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2013 shared across monuments",
   "updated": "2026-10-08T19:40:19Z",
-  "next_id": 272,
+  "next_id": 299,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -2381,6 +2381,222 @@
       "definition": "Host reads and agrees with a comment mocking the elephant clipping campaign.",
       "context": "cka",
       "first_episode": 161
+    },
+    "M-272": {
+      "canonical_term": "(meme) Dragon Above the Convention Center",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's opening riff on what she would have done had Erika called for war.",
+      "context": "cka",
+      "first_episode": 7
+    },
+    "M-273": {
+      "canonical_term": "(meme) One Big Federal Miracle",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks the miracle framing by listing convenient events in the official story.",
+      "context": "cka",
+      "first_episode": 7
+    },
+    "M-274": {
+      "canonical_term": "(meme) Mr. Smith Agents",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host label for pro-Israel pressure accounts and commentators as Matrix-style agents who pretend friendship and then demand loyalty.",
+      "context": "cka",
+      "first_episode": 13
+    },
+    "M-275": {
+      "canonical_term": "(meme) Better Luck Suing the Sun",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's quip that TPUSA would have better luck suing the sun to stop rising than stopping her investigation.",
+      "context": "cka",
+      "first_episode": 61
+    },
+    "M-276": {
+      "canonical_term": "(meme) Make Fetch Happen",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host riffs on Mean Girls, saying Trump is trying to make fetch happen with Erika Kirk and later that fetch is not fetching.",
+      "context": "cka",
+      "first_episode": 77
+    },
+    "M-277": {
+      "canonical_term": "(meme) Zio Vibes",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes that the Iran war was launched on Zio vibes.",
+      "context": "cka",
+      "first_episode": 79
+    },
+    "M-278": {
+      "canonical_term": "(meme) Out of Habit",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host riffs on Trump's out-of-habit explanation as a habit America cannot kick.",
+      "context": "cka",
+      "first_episode": 79
+    },
+    "M-279": {
+      "canonical_term": "(meme) Big Ben Shapiro Energy",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host compares Trump's war-making to Shapiro's fight-picking.",
+      "context": "cka",
+      "first_episode": 79
+    },
+    "M-280": {
+      "canonical_term": "(meme) Justice for Aubrey",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host proposes merch for the fired staffer Aubrey.",
+      "context": "cka",
+      "first_episode": 81
+    },
+    "M-281": {
+      "canonical_term": "(meme) Frequent Liar Miles",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host names the pattern of TPUSA's shifting plane accounts.",
+      "context": "cka",
+      "first_episode": 81
+    },
+    "M-282": {
+      "canonical_term": "(meme) Israel Firsters",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's label for pro-Israel critics attacking Kent.",
+      "context": "cka",
+      "first_episode": 81
+    },
+    "M-283": {
+      "canonical_term": "(meme) Hire Me",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes she could supply human emotion to Turning Point's PR.",
+      "context": "cka",
+      "first_episode": 81
+    },
+    "M-284": {
+      "canonical_term": "(meme) Hasbro",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's pun on Hasbara for pro-Israel messaging allies.",
+      "context": "cka",
+      "first_episode": 92
+    },
+    "M-285": {
+      "canonical_term": "(meme) Misusing Excel",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host boasts about her connecting-themes spreadsheet that uses only columns.",
+      "context": "cka",
+      "first_episode": 92
+    },
+    "M-286": {
+      "canonical_term": "(meme) I'm Getting a Microscope",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes she will do her own bullet tests at home after ATF announces microscopic comparison.",
+      "context": "cka",
+      "first_episode": 93
+    },
+    "M-287": {
+      "canonical_term": "(meme) If I Did Do It by Erika Kirk",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes Erika should release a book in the style of O.J. Simpson's If I Did It.",
+      "context": "cka",
+      "first_episode": 93
+    },
+    "M-288": {
+      "canonical_term": "(meme) A Face That Launched Zero Ships",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host plugs a bumper sticker on her site.",
+      "context": "cka",
+      "first_episode": 93
+    },
+    "M-289": {
+      "canonical_term": "(meme) Going Out of Business Sale",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's running image of the TPUSA press cycle as a store liquidating, with management not caring because they are about to lose their jobs.",
+      "context": "cka",
+      "first_episode": 129
+    },
+    "M-290": {
+      "canonical_term": "(meme) Priming the Public",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's repeated claim that Turning Point and allies are priming the public with Sandy Hook comparisons ahead of litigation.",
+      "context": "cka",
+      "first_episode": 129
+    },
+    "M-291": {
+      "canonical_term": "(meme) Dr. Harpole House",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks Harpole's ER testimony as TV medicine.",
+      "context": "cka",
+      "first_episode": 135
+    },
+    "M-292": {
+      "canonical_term": "(meme) Pregnancy Brain",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host applies pregnancy brain to forgetful figures in the case.",
+      "context": "cka",
+      "first_episode": 136
+    },
+    "M-293": {
+      "canonical_term": "(meme) Pathologically Insane",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host turns Kirk's phrase into a list of things she calls pathologically insane.",
+      "context": "cka",
+      "first_episode": 136
+    },
+    "M-294": {
+      "canonical_term": "(meme) Lie by Omission",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Opening summary of her Twitter spat with Kolvet over the Idaho school event.",
+      "context": "cka",
+      "first_episode": 154
+    },
+    "M-295": {
+      "canonical_term": "(meme) Textbook Narcissistic Abuse",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host characterizes TPUSA's shifting positions on the missing ambulance.",
+      "context": "cka",
+      "first_episode": 154
+    },
+    "M-296": {
+      "canonical_term": "(meme) Waluigi",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host gives the second Challenger's driver a code name.",
+      "context": "cka",
+      "first_episode": 155
+    },
+    "M-297": {
+      "canonical_term": "(meme) Austin Powers Parking",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host compares the admin-lot driver's repeated parking attempts to a movie gag.",
+      "context": "cka",
+      "first_episode": 155
+    },
+    "M-298": {
+      "canonical_term": "(meme) Most Vile Person of the Year",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host refuses to urge voting, adopting a critic's insult.",
+      "context": "cka",
+      "first_episode": 155
     }
   },
   "types": {

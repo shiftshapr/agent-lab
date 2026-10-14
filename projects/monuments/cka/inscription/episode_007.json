@@ -463,6 +463,125 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3096",
+      "family_ref": "A-3096",
+      "bundle_name": "George Zinn Crowd Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3096.1",
+          "ref": "A-3096.1",
+          "description": "Photo of George Zinn in the crowd, sent in by a viewer and shown on screen by the host",
+          "related_claims": [
+            "C-10721"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-42"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:05:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3097",
+      "family_ref": "A-3097",
+      "bundle_name": "Decentralized Intelligence Agency Tips Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3097.1",
+          "ref": "A-3097.1",
+          "description": "Host verbal reference to her tips line, where multiple people messaged about an underground area and trap-door boxes near Charlie Kirk's seat (messages not shown)",
+          "related_claims": [
+            "C-10731"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:20:58",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3098",
+      "family_ref": "A-3098",
+      "bundle_name": "Decentralized Intelligence Agency Tip Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3098.1",
+          "ref": "A-3098.1",
+          "description": "Host verbal call for tips to the tip email address (transcribed as canowens. com)",
+          "related_claims": [
+            "C-10753"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:45:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3099",
+      "family_ref": "A-3099",
+      "bundle_name": "Viewer Comments Read Aloud Bundle (Sept 22 Episode)",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3099.1",
+          "ref": "A-3099.1",
+          "description": "Viewer comment (Payne River) read on air: questions about local police, FBI involvement, LDS recruiting, Tyler looking like a fed, a flechette and a memorial like JFK",
+          "related_claims": [
+            "C-10761",
+            "C-10762"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:55:57",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3099.2",
+          "ref": "A-3099.2",
+          "description": "Viewer comment (Rosa Marie Martinez) read on air saying Andrew said on a Charlie Kirk show that someone powerful called Erika and asked how much she knows",
+          "related_claims": [
+            "C-10763",
+            "C-10764"
+          ],
+          "related_nodes": [
+            "N-14",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:57:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -480,11 +599,11 @@
         "A-1143.2"
       ],
       "related_claims": [
+        "C-1228",
         "C-1237",
+        "C-1238",
         "C-1240",
         "C-1241",
-        "C-1228",
-        "C-1238",
         "C-1242"
       ],
       "tags": [],
@@ -507,9 +626,9 @@
       ],
       "related_claims": [
         "C-1236",
-        "C-1239",
         "C-1237",
-        "C-1238"
+        "C-1238",
+        "C-1239"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -920,8 +1039,8 @@
         "A-1143.2"
       ],
       "related_claims": [
-        "C-1241",
-        "C-1240"
+        "C-1240",
+        "C-1241"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1107,13 +1226,582 @@
       "type": "person",
       "description": "Subject of a tweet Candace referenced about genocide.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10741"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-38",
+      "ref": "N-38",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Seth Dillon; one of the two men the host guesses supplied the texts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10739"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Megyn Kelly; credited by the host with the under-30 Israel remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10745"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Josh Hammer; the other man the host guesses supplied the texts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10739"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Brigitte Macron; subject of the host's series plug.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10755"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-83",
+      "ref": "N-83",
+      "name": "Unidentified camera individual",
+      "type": "person",
+      "description": "Unidentified camera individual; the host says she recognized him and spoke with him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10723"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Alex Clark; host whose show Erika is said to be appearing on.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10765",
+        "C-10770"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-289",
+      "ref": "N-289",
+      "name": "Eric Bolling",
+      "type": "person",
+      "description": "Eric Bolling; the host says he claimed a breakup and had interviewed her in 2020.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10735"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10011",
+      "ref": "N-10011",
+      "name": "TMZ",
+      "type": "investigation_target",
+      "description": "TMZ; received the witness's footage per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10729"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "Federal Bureau of Investigation; Patel's agency and the body the host says she was reported to.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10727",
+        "C-10734"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10024",
+      "ref": "N-10024",
+      "name": "Kirk Assassination Investigation Timeline",
+      "type": "investigation_target",
+      "description": "Kirk Assassination Investigation Timeline; the host's planned minute-by-minute timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10720"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10027",
+      "ref": "N-10027",
+      "name": "The Hamptons",
+      "type": "investigation_target",
+      "description": "The Hamptons; location of the gathering the host mentions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10737"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10032",
+      "ref": "N-10032",
+      "name": "Decoy Boy Operation Analysis",
+      "type": "investigation_target",
+      "description": "Decoy Boy Operation Analysis; topic covering Zinn's role.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10721"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10036",
+      "ref": "N-10036",
+      "name": "Building Donor Withdrawal Investigation",
+      "type": "investigation_target",
+      "description": "Building Donor Withdrawal Investigation; donor pulled funding and demanded name removal.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10770"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10047",
+      "ref": "N-10047",
+      "name": "Donor Intimidation of Charlie Kirk",
+      "type": "investigation_target",
+      "description": "Donor Intimidation of Charlie Kirk; topic for pressure on Charlie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10738",
+        "C-10751"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10053",
+      "ref": "N-10053",
+      "name": "Vacant-House / Decoy Shooter Theory",
+      "type": "investigation_target",
+      "description": "Vacant-House / Decoy Shooter Theory; the vacant UVU-owned house.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10728"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10054",
+      "ref": "N-10054",
+      "name": "Calira Engineering Valve Pattern",
+      "type": "investigation_target",
+      "description": "Calira Engineering Valve Pattern; the witness's valve company.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10729"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10060",
+      "ref": "N-10060",
+      "name": "Good Morning America",
+      "type": "investigation_target",
+      "description": "Good Morning America; where the children appeared.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10754"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10063",
+      "ref": "N-10063",
+      "name": "Gaza",
+      "type": "investigation_target",
+      "description": "Gaza; context for the leaked thread and Israel remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10740",
+        "C-10756"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10070",
+      "ref": "N-10070",
+      "name": "Daily Mail",
+      "type": "investigation_target",
+      "description": "Daily Mail; reported the host raged about not being invited.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10760"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10076",
+      "ref": "N-10076",
+      "name": "Cameragate Investigation",
+      "type": "investigation_target",
+      "description": "Cameragate Investigation; camera removal after the shooting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10723"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10080",
+      "ref": "N-10080",
+      "name": "Valve/Piping Industry Intelligence Connection",
+      "type": "investigation_target",
+      "description": "Valve/Piping Industry Intelligence Connection; the host's valve remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10730"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10094",
+      "ref": "N-10094",
+      "name": "LDS Church",
+      "type": "investigation_target",
+      "description": "LDS Church; the host's intelligence recruiting remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10761"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10104",
+      "ref": "N-10104",
+      "name": "Catholic Conversion Rumor",
+      "type": "investigation_target",
+      "description": "Catholic Conversion Rumor; Charlie and Catholicism.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10768",
+        "C-10769"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10110",
+      "ref": "N-10110",
+      "name": "Tyler Robinson Evidence Gaps",
+      "type": "investigation_target",
+      "description": "Tyler Robinson Evidence Gaps; the disappeared letter.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10726"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10134",
+      "ref": "N-10134",
+      "name": "Hamptons Weekend Retreat",
+      "type": "investigation_target",
+      "description": "Hamptons Weekend Retreat; gathering context.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10737"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10139",
+      "ref": "N-10139",
+      "name": "Operation Mocking Pastor",
+      "type": "investigation_target",
+      "description": "Operation Mocking Pastor; what the host says the $150 million funded.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10766"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10268",
+      "ref": "N-10268",
+      "name": "AmFest Speaker Removal Pattern",
+      "type": "investigation_target",
+      "description": "AmFest Speaker Removal Pattern; the host says she was blocked from speaking.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10744"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10297",
+      "ref": "N-10297",
+      "name": "Eric Bolling / PBD Podcast Apology Incident",
+      "type": "investigation_target",
+      "description": "Eric Bolling / PBD Podcast Apology Incident; Bolling topic reused for his breakup claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10735"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10341",
+      "ref": "N-10341",
+      "name": "Andrew Kolvet Surgeon Bullet Description",
+      "type": "investigation_target",
+      "description": "Andrew Kolvet Surgeon Bullet Description; Kolvet statement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10725"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "investigation_target",
+      "description": "Bibi Netanyahu TPUSA Funding Offer; alleged offer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10765",
+        "C-10767"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Daily Wire; the host's former employer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10746"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11004",
+      "ref": "N-11004",
+      "name": "Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
+      "type": "investigation_target",
+      "description": "Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens; the funding claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10766"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11116",
+      "ref": "N-11116",
+      "name": "Candace Owens Daily Wire Firing Reasons",
+      "type": "investigation_target",
+      "description": "Candace Owens Daily Wire Firing Reasons; her job loss.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10746"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1530,6 +2218,1124 @@
         "N-3",
         "N-95"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10717",
+      "ref": "C-10717",
+      "label": "Host tweeted Erika Kirk's memorial speech was the most consequential in American history",
+      "claim": "The host says she tweeted, and meant seriously, that Erika Kirk's speech at the memorial was the most consequential speech in American history.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:00:53",
+      "investigative_direction": "Archive the host's tweet about Erika Kirk's speech and its date.",
+      "transcript_snippet": "And I was being serious when I tweeted that I think it was the most consequential speech in American history.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10718",
+      "ref": "C-10718",
+      "label": "Host recounts meeting Erika Kirk at Del Frisco's in New York",
+      "claim": "The host says Charlie Kirk, who was falling for Erika, invited her to meet Erika at Del Frisco's in New York City, and that she found Erika lovely and told Charlie to go for it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:51",
+      "investigative_direction": "Ask the host for the date of the New York meeting; check any public photos or messages from it.",
+      "transcript_snippet": "Come meet her at Del Frisco's in New York City and I came there and she was just lovely.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10719",
+      "ref": "C-10719",
+      "label": "Erika's speech said Charlie did not suffer",
+      "claim": "The host says the part of Erika Kirk's memorial speech that gave her peace was Erika explaining that Charlie did not suffer, and plays the passage in which Erika says Charlie blinked and saw his savior in paradise.",
+      "anchored_artifacts": [
+        "A-1134.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:19",
+      "investigative_direction": "Obtain the full video of Erika Kirk's memorial speech and compare the wording about Charlie not suffering with the medical account.",
+      "transcript_snippet": "But specifically, the part that she shared that provided me with so much peace and I needed to hear it truly was when she explained that Charlie did not suffer",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10720",
+      "ref": "C-10720",
+      "label": "Host is building a minute-by-minute timeline of the post-shooting minutes",
+      "claim": "The host says she is working on a minute-by-minute timeline of what happened in the seconds and minutes after Charlie Kirk was shot, which she will release later in the week.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10024"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:04",
+      "investigative_direction": "Check the host's later episodes for the promised timeline and compare it with official and video-derived timestamps.",
+      "transcript_snippet": "In fact, I'm now currently working on a minuteby minute timeline, which I will have for you guys later this week,",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10721",
+      "ref": "C-10721",
+      "label": "Host located George Zinn in the crowd and finds his path suspicious",
+      "claim": "The host says she located George Zinn in the crowd, finds it suspicious how far from the stage he was and that he was then taken through a pathway to the same area where Charlie was taken to the car, and credits a viewer for the photo.",
+      "anchored_artifacts": [
+        "A-3096.1"
+      ],
+      "related_nodes": [
+        "N-10032"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:19",
+      "investigative_direction": "Obtain the viewer photo and the video showing Zinn on the pathway; map his route against the transport car location.",
+      "transcript_snippet": "as I asked over the weekend, locate George Zinn in the crowd. It seems a bit suspicious to me how far he was.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-42",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10722",
+      "ref": "C-10722",
+      "label": "Host believes people inside TPUSA betrayed Charlie",
+      "claim": "The host says she is relieved Erika Kirk heads Turning Point USA and that, doubling down on what she alluded to last week, she believes people within the company betrayed Charlie, adding she wants the facts firmly in hand before saying more.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:59",
+      "investigative_direction": "Identify who the host means; look for her later documents, sources or named employees supporting the betrayal claim.",
+      "transcript_snippet": "I am relieved that Erika Kirk is at the head of Turning Point USA because just like I alluded to last week and which I will double down on now I believe that people within that company betrayed Charlie.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10723",
+      "ref": "C-10723",
+      "label": "Host recognized the camera-removal man and reached out",
+      "claim": "The host says the viral footage showed the man taking down the camera directly behind Charlie's head about four minutes after the shot, that she recognized him, reached out, spoke with him and saw his footage, and promised not to share it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-83",
+        "N-10076"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:06",
+      "investigative_direction": "Identify the man, obtain the footage he showed the host and the Friday episode's description of it.",
+      "transcript_snippet": "Everybody thought that it was very suspicious. I recognized the individual and reached out,",
+      "supports_claim_refs": [
+        "C-4902",
+        "C-1205"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10724",
+      "ref": "C-10724",
+      "label": "Host says the footage showed no blood except on Charlie's left hand",
+      "claim": "The host says she did not see any blood in the footage, and the only blood she saw was on Charlie's left hand, which she says people read as the blood having moved forward.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10085"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:50",
+      "investigative_direction": "Obtain the behind-camera footage and have a forensic pathologist assess blood visible on the back of the neck and the left hand.",
+      "transcript_snippet": "And that is a fact. I did not see any blood. In fact, the only blood that I did see at all,",
+      "supports_claim_refs": [
+        "C-1209"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10725",
+      "ref": "C-10725",
+      "label": "Kolvet statement says the bullet would likely have killed those behind Charlie and the coroner found it beneath the skin",
+      "claim": "The host reads Andrew Kolvet's statement saying the doctor believed the bullet should have gone through and likely killed people standing behind Charlie, and that the coroner found the bullet just beneath the skin.",
+      "anchored_artifacts": [
+        "A-1135.1"
+      ],
+      "related_nodes": [
+        "N-10341",
+        "N-10085"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:35",
+      "investigative_direction": "Obtain Kolvet's original post and any coroner or autopsy record stating where the bullet was recovered.",
+      "transcript_snippet": "It should have just gone through and through. It likely would have killed those standing behind him,",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10726",
+      "ref": "C-10726",
+      "label": "Host says Robinson's letter has disappeared and only his partner photographed it",
+      "claim": "The host says the letter Tyler Robinson allegedly left has since been disappeared, and that only a photograph taken by his partner exists.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:19",
+      "investigative_direction": "Ask prosecutors whether the original note is in evidence, and obtain the chain of custody and the photograph.",
+      "transcript_snippet": "just a miracle that he happened to leave this letter that has since been disappeared.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10727",
+      "ref": "C-10727",
+      "label": "Patel's tweet lists hand gestures and weapon transport among investigated theories",
+      "claim": "The host reads Kash Patel's tweet saying the FBI is examining theories including how the weapon was transported, hand gestures seen as possible signals near Charlie and visitors to the alleged shooter's residence.",
+      "anchored_artifacts": [
+        "A-1137.1"
+      ],
+      "related_nodes": [
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:50",
+      "investigative_direction": "Retrieve Patel's original post and ask the FBI for any record about the hand-gesture line of inquiry.",
+      "transcript_snippet": "how the weapon was transported, hand gestures observed as potential signals near Charlie at the time of his assassination,",
+      "mentions_person_refs": [
+        "N-69",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10728",
+      "ref": "C-10728",
+      "label": "Host says the house next door is vacant and owned by UVU",
+      "claim": "The host says the house next door to the event site has been vacant and is owned by Utah Valley University, which led her to look into the witnesses.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10053",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:11",
+      "investigative_direction": "Pull county property records for the house, its ownership and occupancy history.",
+      "transcript_snippet": "Because once we began learning about that house next door that's been vacant and is owned by UVU and once we began looking into the witnesses",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10729",
+      "ref": "C-10729",
+      "label": "Host says the TMZ witness runs a worldwide valve engineering company",
+      "claim": "The host says, while stressing she does not imply wrongdoing, that the witness whose footage ended up with TMZ runs an engineering company with worldwide presence that specializes in making valves.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10054",
+        "N-10011"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:27",
+      "investigative_direction": "Check corporate filings for the company, its ownership, and the witness's role and relation to the company.",
+      "transcript_snippet": "that witness whose uh footage ended up in the hands of TMZ runs an engineering company uh that is has a presence worldwide and they specialize in making these valves.",
+      "supports_claim_refs": [
+        "C-1218"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10730",
+      "ref": "C-10730",
+      "label": "Host says valves historically connect to the government and deep state",
+      "claim": "The host says people told her valves have historically been connected to the government and the deep state and that valves matter to warfare, which made her wonder about pipelines under the event site.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10080"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:42",
+      "investigative_direction": "Identify the sources who told the host and any documentation of government valve-supply contracts.",
+      "transcript_snippet": "I started thinking once people told me that valves historically have a connection to the government and the deep state um about how important those valves were to warfare",
+      "supports_claim_refs": [
+        "C-1217"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10731",
+      "ref": "C-10731",
+      "label": "Host says tipsters messaged her about an underground area and trap-door boxes",
+      "claim": "The host says she checked her tips line and more than one person had messaged her about an underground structure and two small boxes near Charlie's seat that tipsters described as a trap door.",
+      "anchored_artifacts": [
+        "A-3097.1"
+      ],
+      "related_nodes": [
+        "N-10087",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:58",
+      "investigative_direction": "Obtain the tip messages and UVU utility and site plans showing hatches or access boxes near the seating area.",
+      "transcript_snippet": "And to your right, I went into my tips line and I saw that somebody had messaged me about this.",
+      "supports_claim_refs": [
+        "C-1234"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10732",
+      "ref": "C-10732",
+      "label": "Host theorizes Charlie could have been shot from beneath",
+      "claim": "The host theorizes, saying she is not a ballistics expert, that someone beneath Charlie might have fired while attention was on a decoy, which she says could explain the lack of an exit wound, and asks whether the feds explored it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10087",
+        "N-10085"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:48",
+      "investigative_direction": "Obtain the autopsy wound trajectory and any ground-penetrating or site survey ruling out an access point.",
+      "transcript_snippet": "So, I'm wondering if the federal government has explored the possibility that somebody could have been under Charlie and done that while everyone's looking around and thinking that a shot went off from here.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10733",
+      "ref": "C-10733",
+      "label": "Host says a university-managed irrigation system runs beneath Charlie's seat",
+      "claim": "The host says that where Charlie sat there is a whole irrigation system managed by the university, so there is definitely infrastructure beneath him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10087"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:35",
+      "investigative_direction": "Obtain UVU irrigation plans for the amphitheater area.",
+      "transcript_snippet": "And I saw that actually where he was sitting, there's a whole irrigation system that's managed by the university.",
+      "supports_claim_refs": [
+        "C-1234"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10734",
+      "ref": "C-10734",
+      "label": "Host says she was reported to the FBI and the CIA",
+      "claim": "The host says that over the weekend someone reported her to the FBI and the CIA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014",
+        "N-10082",
+        "N-10088"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:36",
+      "investigative_direction": "Ask the host whether any agency contacted her and who filed the reports.",
+      "transcript_snippet": "But over the weekend, somebody reported me to the FBI and the CIA.",
+      "supports_claim_refs": [
+        "C-1236"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10735",
+      "ref": "C-10735",
+      "label": "Host says Eric Bolling claimed a breakup and had interviewed her in 2020",
+      "claim": "The host says Eric Bolling said on his program that she and Charlie had a breakup and that he had not seen her since 2015, which she notes is odd because he interviewed her in 2020.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10297"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:56",
+      "investigative_direction": "Pull the Bolling broadcast and the 2020 interview to check both dates.",
+      "transcript_snippet": "Right. Eric Bowling did this. He said I even I don't know if if he was even sober on that program because he said he hadn't seen me.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-289",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10736",
+      "ref": "C-10736",
+      "label": "Host denies ever having a falling out with Charlie Kirk",
+      "claim": "The host says she never had a falling out with Charlie Kirk and that the breakup story was made up.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10089"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:15",
+      "investigative_direction": "Compare the host's and Kirk's public appearances and messages across 2023 to 2025.",
+      "transcript_snippet": "I never had a falling out with Charlie Kirk.",
+      "contradicts_claim_refs": [
+        "C-1204"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10737",
+      "ref": "C-10737",
+      "label": "Host says she heard Awesome Jew was in the Hamptons with Bill Ackman's group",
+      "claim": "The host says she heard that the X account Awesome Jew was in the Hamptons with Bill Ackman and the group that went out there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10027",
+        "N-10134"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:20",
+      "investigative_direction": "Identify the attendee list of the Hamptons gathering and the person behind the account.",
+      "transcript_snippet": "Awesome Jew, who I heard was also in the Hamptons with Bill Ackman and that group of people who went out there,",
+      "mentions_person_refs": [
+        "N-96",
+        "N-37",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10738",
+      "ref": "C-10738",
+      "label": "Host says the leaked texts show donors and Zionists tried to control Charlie's speech",
+      "claim": "The host says the leaked text exchange, meant to prove a breakup, instead proved that donors and Zionists were trying to control Charlie's speech, her speech and who he platformed.",
+      "anchored_artifacts": [
+        "A-1141.2"
+      ],
+      "related_nodes": [
+        "N-10089",
+        "N-10047"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:01",
+      "investigative_direction": "Obtain the full unredacted thread with dates and sender identity.",
+      "transcript_snippet": "that donors and Zionists were attempting to control his speech, my speech, and who he platformed.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10739",
+      "ref": "C-10739",
+      "label": "Host guesses the Charlie friend is Seth Dillon or Josh Hammer",
+      "claim": "The host speculates, based on the style of the messages, that the unnamed close friend of Charlie Kirk who shared them is either Seth Dillon or Josh Hammer, while allowing it may be neither.",
+      "anchored_artifacts": [
+        "A-1141.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:30:13",
+      "investigative_direction": "Ask the Awesome Jew account holder or the two named men whether they supplied the messages; treat as speculation.",
+      "transcript_snippet": "I'm going to guess it's either Seth Dillon or Josh Hammer.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-96",
+        "N-38",
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10740",
+      "ref": "C-10740",
+      "label": "Leaked thread has the friend demanding Candace say Israel is not committing genocide, and Charlie replying he is trying to help her",
+      "claim": "The host reads the leaked text thread: the friend says Candace needs to say that Israel is not committing a genocide and that 30 dead, raped, kidnapped and beheaded Americans in Gaza make the fight America first, and Charlie replies that this is right and that he is really trying to help her.",
+      "anchored_artifacts": [
+        "A-1141.2"
+      ],
+      "related_nodes": [
+        "N-10089",
+        "N-10063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:35",
+      "investigative_direction": "Obtain the original screenshots and verify authenticity, sender names and dates.",
+      "transcript_snippet": "I watched the podcast. Candace needs to say two things and this will stop in its tracks.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10741",
+      "ref": "C-10741",
+      "label": "Host says her genocide tweet answered Brian Mast's remark",
+      "claim": "The host says her tweet that genocide is always wrong responded to Brian Mast saying in Congress that there is no such thing as an innocent Palestinian life, and that she was then pressured to correct and apologize for the tweet.",
+      "anchored_artifacts": [
+        "A-1142.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:32:08",
+      "investigative_direction": "Find the Mast statement in the Congressional record or video and the tweet's date.",
+      "transcript_snippet": "\"There's no such thing as an innocent Palestinian life.\" That was grotesque. So, I then started getting peer pressured to correct the tweets,",
+      "supports_claim_refs": [
+        "C-3721"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-64"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10742",
+      "ref": "C-10742",
+      "label": "Host says Charlie's friend was reacting to her interview with a Zionist guest",
+      "claim": "The host says the friend in the thread was reacting to her conversation with a Zionist guest (transcribed Ammy Kak) and that Charlie probably told him to watch it to see she is not antisemitic.",
+      "anchored_artifacts": [
+        "A-1141.2"
+      ],
+      "related_nodes": [
+        "N-10089"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:43",
+      "investigative_direction": "Identify the guest and episode and date it against the messages.",
+      "transcript_snippet": "And that's what he's referring to. The conversation that I had uh with Ammy Kak.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10743",
+      "ref": "C-10743",
+      "label": "Host says she toured with Charlie in early 2024 and spoke at TPUSA in summer 2024",
+      "claim": "The host says she went on tour with Charlie at the beginning of 2024 and spoke at the TPUSA conference in the summer of 2024, which she says disproves a falling out last year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10089"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:00",
+      "investigative_direction": "Check TPUSA event schedules and recordings for the 2024 tour and conference.",
+      "transcript_snippet": "because obviously I went on tour with Charlie at the beginning of 2024 and I spoke at their conference in the summer of 2024",
+      "supports_claim_refs": [
+        "C-1200",
+        "C-1223"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10744",
+      "ref": "C-10744",
+      "label": "Host says Charlie was peer pressured not to have her speak at AmFest",
+      "claim": "The host says Charlie was peer pressured by the same individuals so that she would not speak at AmFest, and that she told him she did not care.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:25",
+      "investigative_direction": "Obtain messages or witnesses about AmFest speaker lineup changes in 2024.",
+      "transcript_snippet": "rather what happened was Charlie was peer pressured by these same individuals um that I you know for me not to speak at Amfest",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10745",
+      "ref": "C-10745",
+      "label": "Host repeats Megyn Kelly saying nobody under 30 supports Israel",
+      "claim": "The host says, attributing it to Megyn Kelly, that you cannot find anybody under 30 who supports Israel, and calls it a fact.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:58",
+      "investigative_direction": "Find polling on support for Israel among under-30 Americans and the Megyn Kelly statement.",
+      "transcript_snippet": "she you can't find anybody beneath the age of 30 that supports Israel. That's a fact.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10746",
+      "ref": "C-10746",
+      "label": "Host says her livelihood was threatened and she lost her job",
+      "claim": "The host says her livelihood was threatened, people behind the scenes told her what she had to say to stay in the circle, and she eventually lost her job and chose not to stay in it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11116",
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:16",
+      "investigative_direction": "Compare with the host's other accounts of her Daily Wire exit.",
+      "transcript_snippet": "I I was my livelihood was being threatened. And then eventually obviously I lost my job behind the scenes telling me what I had to say",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10747",
+      "ref": "C-10747",
+      "label": "Clip exchange says cancelling Tucker Carlson would increase antisemitism",
+      "claim": "In the July town hall clip, an exchange asks whether cancelling Tucker Carlson would increase or decrease antisemitism and the answer, which appears to be Charlie's, is that it would increase it.",
+      "anchored_artifacts": [
+        "A-1143.1"
+      ],
+      "related_nodes": [
+        "N-10083"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:58",
+      "investigative_direction": "Watch the full July 2025 town hall to confirm the speaker and the date.",
+      "transcript_snippet": "I think increase because that means any supporter of Tucker Carlson's statement therefore makes them anti-semit and association 100%.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10748",
+      "ref": "C-10748",
+      "label": "Charlie says in the clip he loves Israel and has visited",
+      "claim": "In the clip Charlie says he loves Israel, visited there with his wife, but as an American represents a generation that cannot afford anything and needs prudence to reject Jew hate while not calling everyone who disagrees with the Netanyahu government an antisemite.",
+      "anchored_artifacts": [
+        "A-1143.1"
+      ],
+      "related_nodes": [
+        "N-10083"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:14",
+      "investigative_direction": "Watch the full town hall.",
+      "transcript_snippet": "which is I love Israel. I visited there. My wife and I had the best experiences ever.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10749",
+      "ref": "C-10749",
+      "label": "Charlie says in the clip only about 20 members of Congress serve Americans without outside pull",
+      "claim": "In the AIPAC clip Charlie says he thinks about 20 representatives between the Senate and House are fully working for the American people without the interests of some group pulling their sway.",
+      "anchored_artifacts": [
+        "A-1143.2"
+      ],
+      "related_nodes": [
+        "N-10083"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:48",
+      "investigative_direction": "Watch the full town hall to confirm the speaker and the wording.",
+      "transcript_snippet": "I actually think there's probably like 20 representatives between Senate and House who I think are actually fully doing the work of the American people",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10750",
+      "ref": "C-10750",
+      "label": "Host says a president suggested the AIPAC precursor register under FARA and was then shot",
+      "claim": "The host says a past president, whom she does not name, suggested the AIPAC precursor should register under FARA and was then shot in a moving vehicle in broad daylight, calling the conversation dangerous to host.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10083"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:37",
+      "investigative_direction": "Check the historical record on the pressure on the AIPAC precursor to register under FARA and its timing; the president is implied, not named.",
+      "transcript_snippet": "suggesting that the precursor to AIPAC, which became AIPAC, um should register under Farara.",
+      "supports_claim_refs": [
+        "C-1241"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10751",
+      "ref": "C-10751",
+      "label": "Host says what Charlie faced in 2025 mirrored her own 2024 pressure",
+      "claim": "The host says what she went through at the beginning of 2024 seems to be what Charlie was going through in 2025, getting tired of pressure that something he was saying was wrong when it clearly was not.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10047"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:53",
+      "investigative_direction": "Collect Charlie's public and private statements about pressure in 2025.",
+      "transcript_snippet": "what I went through beginning at in the beginning of 2024 seems to be what Charlie was going through in 2025",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10752",
+      "ref": "C-10752",
+      "label": "Host believes more people are involved who need forgiveness and has more to release",
+      "claim": "The host says she believes more people are involved who are in need of forgiveness, that she has found out a lot more and will release it methodically, and that they chose the wrong person to take out.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:07",
+      "investigative_direction": "Track which individuals or claims the host later names as involved.",
+      "transcript_snippet": "But it is also my belief that there are more people involved that are in need of forgiveness.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10753",
+      "ref": "C-10753",
+      "label": "Host asks for tips at the tip email address",
+      "claim": "The host tells viewers to send tips to the tip email address (transcribed as canowens. com) if they have more information.",
+      "anchored_artifacts": [
+        "A-3098.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:40",
+      "investigative_direction": "The tip inbox itself; check the later episodes for tips the host says paid off.",
+      "transcript_snippet": "send me tips at canowens. com if you have any more information that you'd like to share with me.",
+      "supports_claim_refs": [
+        "C-4901"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10754",
+      "ref": "C-10754",
+      "label": "Viewer says the children who spoke after the memorial sounded rehearsed",
+      "claim": "The host reads a viewer comment saying the children who spoke on the morning after the memorial sounded highly rehearsed about their experience; the host says the comment refers to children who witnessed the assassination and appeared on Good Morning America.",
+      "anchored_artifacts": [
+        "A-1145.3"
+      ],
+      "related_nodes": [
+        "N-10060"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:55",
+      "investigative_direction": "Obtain the Good Morning America segment and note any coaching or pre-interview.",
+      "transcript_snippet": "Also, the children that spoke yesterday sounded highly rehearsed on their quote unquote experience.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10755",
+      "ref": "C-10755",
+      "label": "Host plugs Becoming Brigitte series and says she is a dude",
+      "claim": "The host tells viewers to watch the series she calls Becoming Breit (as transcribed), says a lot of people are hooked, and says of the subject 'she's a dude'.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:50:38",
+      "investigative_direction": "Treat as the host's assertion about Brigitte Macron; the legal record in the Macron defamation case would address it.",
+      "transcript_snippet": "It's a really good one and she's a dude. That's it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10756",
+      "ref": "C-10756",
+      "label": "Host says Charlie was the last prominent pro-Israel voice with presence across universities",
+      "claim": "The host says Charlie was kind of the last person saying he was pro-Israel with a presence across universities, and that students will now be reticent to support Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:00",
+      "investigative_direction": "Compare with campus polling and TPUSA campus program data.",
+      "transcript_snippet": "\"I am pro-Israel.\" And he actually was somebody who had a presence across all of these universities.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10757",
+      "ref": "C-10757",
+      "label": "Host says nobody knows how the rifle moved from the roof to the woods and wants to see the tunnel network",
+      "claim": "Answering a viewer who asks how the rifle got from the roof to the woods, the host says nobody knows and that she would like to see the tunnel network.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10087",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:26",
+      "investigative_direction": "Obtain the official timeline of the rifle's recovery and any survey of UVU tunnels.",
+      "transcript_snippet": "Nobody knows, but I would like to see the tunnel network.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10758",
+      "ref": "C-10758",
+      "label": "Host says UVU's website documents irrigation upkeep for the amphitheater",
+      "claim": "The host says her father was a plumber, that a network must lie under the amphitheater waterfall, and that UVU's website describes how the irrigation is maintained and who is in charge of it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10087"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:15",
+      "investigative_direction": "Capture the UVU facilities webpage and its maintenance contacts.",
+      "transcript_snippet": "They have a whole thing on their website on UVU about how the irrigation is maintained and who's in charge of it.",
+      "supports_claim_refs": [
+        "C-1234"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10759",
+      "ref": "C-10759",
+      "label": "Host says her research has found nothing on Frank Turek",
+      "claim": "The host says Turek gave the speech he wanted to give and that nothing in her research so far has come up about Frank Turek, though many viewers had that feeling after his speech.",
+      "anchored_artifacts": [
+        "A-1145.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:55:31",
+      "investigative_direction": "Compare with later claims the host makes about Turek.",
+      "transcript_snippet": "He gave the speech that he wanted to give and nothing in my research has come up about thus far has come up about Frank Turk.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10760",
+      "ref": "C-10760",
+      "label": "Host says the Daily Mail reported she raged about not being invited to speak",
+      "claim": "The host says she was not invited to speak at the memorial and that, as the Daily Mail pointed out, she raged about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10070"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:42",
+      "investigative_direction": "Retrieve the Daily Mail article and compare with the host's account.",
+      "transcript_snippet": "and as the Daily Mail pointed out I raged and raged about that.",
+      "supports_claim_refs": [
+        "C-1211",
+        "C-1201"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10761",
+      "ref": "C-10761",
+      "label": "Host says intelligence agencies recruit from the LDS church and apparently from UVU's campus",
+      "claim": "The host says it is a fact that intelligence recruits heavily from the LDS church and that apparently they recruit from that campus, which she says she found out.",
+      "anchored_artifacts": [
+        "A-3099.1"
+      ],
+      "related_nodes": [
+        "N-10094",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:07",
+      "investigative_direction": "Find sources for LDS and UVU recruitment by intelligence agencies.",
+      "transcript_snippet": "That is a fact. Latterday Saints, Church of Latter Day Saints. And apparently they recruit from that particular campus,",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10762",
+      "ref": "C-10762",
+      "label": "Host says investigators are looking for a different weapon",
+      "claim": "The host says she thinks the search is for a totally different weapon than the one presented.",
+      "anchored_artifacts": [
+        "A-3099.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:56:17",
+      "investigative_direction": "Ask for the ballistics and chain of custody for the recovered rifle.",
+      "transcript_snippet": "Yeah, I think we're looking for a totally different weapon.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10763",
+      "ref": "C-10763",
+      "label": "Viewer comment says Andrew said someone powerful called Erika to ask how much she knows",
+      "claim": "The host reads a viewer comment saying that on The Charlie Kirk Show last week Andrew said someone powerful called Erika and asked how much she knows, and she said she knows everything.",
+      "anchored_artifacts": [
+        "A-3099.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:57:01",
+      "investigative_direction": "Find the Charlie Kirk Show episode where Kolvet said this and verify the quote.",
+      "transcript_snippet": "On a Charlie Kirk show last week, Andrew said someone powerful called Erika and asked how much she knows,",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10764",
+      "ref": "C-10764",
+      "label": "Host says Erika knows everything about Charlie",
+      "claim": "The host says she thinks Erika knows everything, as a wife and confidant, and that she has no doubt.",
+      "anchored_artifacts": [
+        "A-3099.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:57:13",
+      "investigative_direction": "Compare with Erika's later statements on what she knew.",
+      "transcript_snippet": "I think she knows everything. She's his wife.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10765",
+      "ref": "C-10765",
+      "label": "Host says Erika is going on Alex Clark's show to address Netanyahu money rumors",
+      "claim": "The host says people tweeted to her that Erika Kirk is going on Alex Clark's show, and that she is happy Erika will speak about the rumors that Netanyahu offered Charlie a boatload of money.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:38",
+      "investigative_direction": "Watch the Alex Clark interview and see how Erika addresses the offer.",
+      "transcript_snippet": "I saw people that were going, \"Erika Kirk is going on I think Alex Clark's show and they were tweeting it at me.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-99",
+        "N-36",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10766",
+      "ref": "C-10766",
+      "label": "Host says the $150 million she was told about funded Operation Mocking Pastor, not an offer to Charlie",
+      "claim": "The host says she never said $150 million was offered to Charlie; she said she was told Netanyahu gave $150 million for Operation Mocking Pastor, when pastors one weekend spoke against Tucker Carlson and her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10139",
+        "N-11004"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:06",
+      "investigative_direction": "Identify the host's source and any financial record of the funding.",
+      "transcript_snippet": "I said $150 million I was told BB gave for Operation Mocking Pastor.",
+      "supports_claim_refs": [
+        "C-4906"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-36",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10767",
+      "ref": "C-10767",
+      "label": "Host says Netanyahu offered Charlie a boatload of money and he rejected it",
+      "claim": "The host says she definitively said Netanyahu offered Charlie Kirk a boatload of money and Charlie rejected it, without knowing the amount.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:22",
+      "investigative_direction": "Ask Kirk's circle, Netanyahu's office and the Hamptons attendees about any offer.",
+      "transcript_snippet": "I definitively made the statement that BB Netanyahu offered Charlie Kirk uh boatload of money and he rejected it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10768",
+      "ref": "C-10768",
+      "label": "Host says Charlie obviously did not convert to Catholicism",
+      "claim": "The host says Charlie obviously did not convert, but that the nastiness toward Catholics should stop, after she had said Catholics were hopeful about him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:45",
+      "investigative_direction": "Check baptism or church records and statements by Charlie on conversion.",
+      "transcript_snippet": "Uh he obviously didn't convert but also the nastiness towards Catholics just needs to stop.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10769",
+      "ref": "C-10769",
+      "label": "Host says Erika Kirk was raised in a Catholic family",
+      "claim": "The host says Erika Kirk was raised in a Catholic family.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:49",
+      "investigative_direction": "Check Erika Kirk's biography and church affiliation.",
+      "transcript_snippet": "I mean, Erika Kirk was raised in a Catholic family, so that was a strange thing to have people react so crazy.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10770",
+      "ref": "C-10770",
+      "label": "Host says Bob Shulman took millions from TPUSA, wanted his name off the building, then reversed",
+      "claim": "The host says she was told the donor who took away millions of dollars from Turning Point, wanted his name taken off the building and then did a 180 when Charlie died was Bob Shulman, as she said the week before.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10036",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:11",
+      "investigative_direction": "Check donor filings and building naming records for the donor and dates.",
+      "transcript_snippet": "whether he lost money, which he did. Um I was told that individual was Bob Schman.",
+      "confidence": "high",
+      "supports_claim_refs": [
+        "C-1174"
+      ],
+      "mentions_person_refs": [
+        "N-98",
+        "N-99",
+        "N-3"
+      ]
     }
   ],
   "memes": [
@@ -1621,6 +3427,278 @@
           "confidence": "high",
           "tags": [
             "wave3"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-16",
+      "ref": "M-16",
+      "canonical_term": "Mommy Sleuth",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:18:20",
+          "speaker_node_ref": "N-3",
+          "quote": "I would allow the mommy sleuths to take over. That's my opinion.",
+          "context": "Host elevates amateur parent investigators when feds stall.",
+          "confidence": "high",
+          "tags": [
+            "crowd_research",
+            "catchphrase"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-17",
+      "ref": "M-17",
+      "canonical_term": "Hood Rat Stuff",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:59:34",
+          "speaker_node_ref": "N-3",
+          "quote": "I'll do hood rat stuff, but I want to do it with my friends.",
+          "context": "Comic framing of chaotic investigative energy with friends.",
+          "confidence": "high",
+          "tags": [
+            "merch_adjacent",
+            "quip"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:27:08",
+          "speaker_node_ref": "N-3",
+          "quote": "Candace Owens is selling a CIA line of merchandise that is called the Candace Intelligence Agency",
+          "context": "Laura Loomer complaint clip read on air naming the Candace Intelligence Agency merch line.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "controversy"
+          ]
+        },
+        {
+          "episode": 7,
+          "video_timestamp": "00:59:34",
+          "speaker_node_ref": "N-3",
+          "quote": "you can go to kennacewomen. com and buy a CIA parody shirt because you're going with me.",
+          "context": "Host closes with a joking merch plug for the CIA parody shirt.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "closing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-37",
+      "ref": "M-37",
+      "canonical_term": "Grifter",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:27:00",
+          "speaker_node_ref": "N-3",
+          "quote": "As part of her grift to monetize the murder of her quote unquote best friend",
+          "context": "Host frames Laura Loomer attacks as monetized tragedy-grift.",
+          "confidence": "high",
+          "tags": [
+            "monetize",
+            "loyalty_performance",
+            "residual"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-272",
+      "ref": "M-272",
+      "canonical_term": "Dragon Above the Convention Center",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:00:14",
+          "speaker_node_ref": "N-3",
+          "quote": "I was effectively like soaring in the air above the convention center, like a dragon above,",
+          "context": "Host's opening riff on what she would have done had Erika called for war.",
+          "confidence": "high",
+          "tags": [
+            "opening",
+            "hyperbole"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-273",
+      "ref": "M-273",
+      "canonical_term": "One Big Federal Miracle",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:14:34",
+          "speaker_node_ref": "N-3",
+          "quote": "could just all be one big federal miracle.",
+          "context": "Host mocks the miracle framing by listing convenient events in the official story.",
+          "confidence": "high",
+          "tags": [
+            "miracle",
+            "sarcasm"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:20:58",
+          "speaker_node_ref": "N-3",
+          "quote": "I went into my tips line and I saw that somebody had messaged me about this.",
+          "context": "Host cites her tips line as source for the underground trap-door tip.",
+          "confidence": "high",
+          "tags": [
+            "DIA",
+            "tips"
+          ]
+        },
+        {
+          "episode": 7,
+          "video_timestamp": "00:45:40",
+          "speaker_node_ref": "N-3",
+          "quote": "send me tips at canowens. com if you have any more information that you'd like to share with me.",
+          "context": "Host asks viewers for tips.",
+          "confidence": "high",
+          "tags": [
+            "DIA",
+            "tips"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:42:19",
+          "speaker_node_ref": "N-3",
+          "quote": "It's a level of gaslighting you've never seen before.",
+          "context": "Host describes the pressure campaign against her and Charlie.",
+          "confidence": "high",
+          "tags": [
+            "gaslight"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:49:10",
+          "speaker_node_ref": "N-3",
+          "quote": "every single time that I have been attacked publicly, particularly over the declaration that Christ is king,",
+          "context": "Host explains why Posobiec defends her over the Christ is King statement.",
+          "confidence": "high",
+          "tags": [
+            "christ_is_king"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:34:43",
+          "speaker_node_ref": "N-3",
+          "quote": "My statement was fine. Genocide is always wrong.",
+          "context": "Host defends her tweet against pressure to apologize.",
+          "confidence": "high",
+          "tags": [
+            "genocide_tweet"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-77",
+      "ref": "M-77",
+      "canonical_term": "Operation Mocking Pastor",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:58:06",
+          "speaker_node_ref": "N-3",
+          "quote": "I said $150 million I was told BB gave for Operation Mocking Pastor.",
+          "context": "Host clarifies what the $150 million figure referred to.",
+          "confidence": "high",
+          "tags": [
+            "funding_claim"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-78",
+      "ref": "M-78",
+      "canonical_term": "Silence Is Not Kindness",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 7,
+          "video_timestamp": "00:24:06",
+          "speaker_node_ref": "N-3",
+          "quote": "but it is true that silence is not kindness. Silence is consent.",
+          "context": "Host line inside the Pre-Born sponsor read.",
+          "confidence": "high",
+          "tags": [
+            "sponsor_read"
           ]
         }
       ]

@@ -638,6 +638,164 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3123",
+      "family_ref": "A-3123",
+      "bundle_name": "Shapiro and Megyn Kelly X Post Exchange Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3123.1",
+          "ref": "A-3123.1",
+          "description": "Host reads Ben Shapiro's online post calling Megyn Kelly a coward and Piers Morgan a click whore (not shown on screen)",
+          "related_claims": [
+            "C-11237"
+          ],
+          "related_nodes": [
+            "N-97",
+            "N-46",
+            "N-208"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:05:02",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3123.2",
+          "ref": "A-3123.2",
+          "description": "Host reads Megyn Kelly's reply post to Shapiro (not shown on screen)",
+          "related_claims": [
+            "C-11238"
+          ],
+          "related_nodes": [
+            "N-46",
+            "N-97"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:05:02",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3123.3",
+          "ref": "A-3123.3",
+          "description": "Host reads Shapiro's follow-up reply to Kelly mentioning Kirk's widow (not shown on screen)",
+          "related_claims": [
+            "C-11239"
+          ],
+          "related_nodes": [
+            "N-97",
+            "N-46",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3124",
+      "family_ref": "A-3124",
+      "bundle_name": "Strait of Hormuz Map Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3124.1",
+          "ref": "A-3124.1",
+          "description": "Map of Iran and the Strait of Hormuz shown on screen by the host",
+          "related_claims": [
+            "C-11264"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:23:10",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3125",
+      "family_ref": "A-3125",
+      "bundle_name": "White House Iran War Meme Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3125.1",
+          "ref": "A-3125.1",
+          "description": "Social media clip with shouted lines such as \"WHITE HOUSE. Girl power. Woo! Power Rangers\" played by the host",
+          "related_claims": [
+            "C-11282"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:49",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3126",
+      "family_ref": "A-3126",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3126.1",
+          "ref": "A-3126.1",
+          "description": "Viewer comment from Surfer G-Man read by the host",
+          "related_claims": [
+            "C-11290"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-9"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:50:39",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3126.2",
+          "ref": "A-3126.2",
+          "description": "Viewer comment from Megan Vincent read by the host",
+          "related_claims": [
+            "C-11292",
+            "C-11293"
+          ],
+          "related_nodes": [
+            "N-22"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:53:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -1136,8 +1294,63 @@
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-3124.1",
+        "A-3125.1"
+      ],
+      "related_claims": [
+        "C-11235",
+        "C-11236",
+        "C-11237",
+        "C-11238",
+        "C-11239",
+        "C-11240",
+        "C-11241",
+        "C-11242",
+        "C-11243",
+        "C-11244",
+        "C-11245",
+        "C-11246",
+        "C-11247",
+        "C-11254",
+        "C-11255",
+        "C-11256",
+        "C-11257",
+        "C-11258",
+        "C-11259",
+        "C-11260",
+        "C-11261",
+        "C-11262",
+        "C-11263",
+        "C-11264",
+        "C-11265",
+        "C-11266",
+        "C-11267",
+        "C-11268",
+        "C-11269",
+        "C-11270",
+        "C-11271",
+        "C-11272",
+        "C-11273",
+        "C-11274",
+        "C-11275",
+        "C-11276",
+        "C-11277",
+        "C-11278",
+        "C-11279",
+        "C-11280",
+        "C-11281",
+        "C-11282",
+        "C-11286",
+        "C-11287",
+        "C-11288",
+        "C-11289",
+        "C-11290",
+        "C-11291",
+        "C-11292",
+        "C-11293",
+        "C-11294"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1153,7 +1366,9 @@
       "type": "person",
       "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11287"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1182,6 +1397,639 @@
       "related_nodes": [
         "N-10541"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow and TPUSA CEO; the Shapiro reply cites her and Knowles is pressed about attacks on her (transcribed Erika Curren). Alias: Erika Curren (as transcribed).",
+      "related_artifacts": [
+        "A-3123.3"
+      ],
+      "related_claims": [
+        "C-11239",
+        "C-11247",
+        "C-11261"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Named in the Neff post as one of Kirk's favorite politicians.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11253"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Named in a viewer comment on Kirk's three positions.",
+      "related_artifacts": [
+        "A-3126.1"
+      ],
+      "related_claims": [
+        "C-11290"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Billionaire the host says retweeted attacks on her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11286"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Accused in the Kirk shooting; host says the narrative around him is failing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11288"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Journalist in the Shapiro dispute; her reply is read by the host.",
+      "related_artifacts": [
+        "A-3123.1",
+        "A-3123.2",
+        "A-3123.3"
+      ],
+      "related_claims": [
+        "C-11237",
+        "C-11238",
+        "C-11239",
+        "C-11240",
+        "C-11258"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-182",
+      "ref": "N-182",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "The host says he is running the White House.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11294"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-208",
+      "ref": "N-208",
+      "name": "Piers Morgan",
+      "type": "person",
+      "description": "Journalist Shapiro is said to have attacked.",
+      "related_artifacts": [
+        "A-3123.1"
+      ],
+      "related_claims": [
+        "C-11237"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-249",
+      "ref": "N-249",
+      "name": "Mark Levin",
+      "type": "person",
+      "description": "Radio host the host links to pro-war pressure on Carlson.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11236",
+        "C-11281"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-274",
+      "ref": "N-274",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "Podcaster the host says she ties in rankings.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11280"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-400",
+      "ref": "N-400",
+      "name": "Andrew Breitbart",
+      "type": "person",
+      "description": "Late publisher whose legacy the host says Shapiro tried to recreate.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11255"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-532",
+      "ref": "N-532",
+      "name": "Rothschild Family",
+      "type": "person",
+      "description": "Family the host asserts created Israel and Macron.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11269"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization whose conduct the host criticizes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11246",
+        "C-11247",
+        "C-11257",
+        "C-11290"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10082",
+      "ref": "N-10082",
+      "name": "CIA",
+      "type": "investigation_target",
+      "description": "CIA, the agency in Carlson's account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11283",
+        "C-11285",
+        "C-11293"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10083",
+      "ref": "N-10083",
+      "name": "AIPAC",
+      "type": "investigation_target",
+      "description": "Lobby the commenter says is an unregistered foreign agent.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11293"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10132",
+      "ref": "N-10132",
+      "name": "TPUSA DOGE Department / Financial Audit",
+      "type": "investigation_target",
+      "description": "Existing topic on a TPUSA audit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11290"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10236",
+      "ref": "N-10236",
+      "name": "Megyn Kelly Tour Attendee Authenticity Question",
+      "type": "investigation_target",
+      "description": "Existing topic on a Kelly tour event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11258"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10237",
+      "ref": "N-10237",
+      "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
+      "type": "investigation_target",
+      "description": "Existing topic on Shapiro's statements about the host's accusations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11239"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10268",
+      "ref": "N-10268",
+      "name": "AmFest Speaker Removal Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic on AmFest speaker removals and donor pressure.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11256",
+        "C-11257"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10386",
+      "ref": "N-10386",
+      "name": "Ben Shapiro Hostile Takeover Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic on Shapiro's alleged takeover pattern.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11240",
+        "C-11256"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10391",
+      "ref": "N-10391",
+      "name": "Ben Shapiro Daily Wire Founding Narrative",
+      "type": "investigation_target",
+      "description": "Existing topic on Daily Wire founding narrative.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11255"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10406",
+      "ref": "N-10406",
+      "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+      "type": "investigation_target",
+      "description": "Existing topic on attacks on Kelly.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11237",
+        "C-11238"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10544",
+      "ref": "N-10544",
+      "name": "Netanyahu Death/Injury Status Verification",
+      "type": "investigation_target",
+      "description": "Existing topic on Netanyahu status verification.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11270",
+        "C-11271"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10674",
+      "ref": "N-10674",
+      "name": "June 18 White House Meeting on Iran Involvement",
+      "type": "investigation_target",
+      "description": "Existing topic on the June 18 White House meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11248"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Organization tied to Shapiro and the host's former employment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11255",
+        "C-11259"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10962",
+      "ref": "N-10962",
+      "name": "Venezuela",
+      "type": "investigation_target",
+      "description": "Place named in the oil shipment claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11289"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11057",
+      "ref": "N-11057",
+      "name": "Blake Neff Employment History Account",
+      "type": "investigation_target",
+      "description": "Existing topic on Neff's employment history.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11254"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11064",
+      "ref": "N-11064",
+      "name": "Ben Shapiro and Charlie Kirk Friendship Narrative",
+      "type": "investigation_target",
+      "description": "Existing topic on the Shapiro and Kirk friendship narrative.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11240",
+        "C-11246"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11096",
+      "ref": "N-11096",
+      "name": "TikTok Israel Moderation Claim",
+      "type": "investigation_target",
+      "description": "Existing topic on TikTok moderation claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11277"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11103",
+      "ref": "N-11103",
+      "name": "TikTok",
+      "type": "investigation_target",
+      "description": "Platform named in the host's article.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11277"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11128",
+      "ref": "N-11128",
+      "name": "US and Israel Iran War Betrayal Thesis",
+      "type": "investigation_target",
+      "description": "Existing topic on the Iran war betrayal thesis.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11242",
+        "C-11249",
+        "C-11265",
+        "C-11278",
+        "C-11288"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11145",
+      "ref": "N-11145",
+      "name": "Minab Iran School Strike",
+      "type": "investigation_target",
+      "description": "Place of the school strike the host cites.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11266",
+        "C-11291",
+        "C-11292"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11228",
+      "ref": "N-11228",
+      "name": "Candace Podcast Ranking and Operations",
+      "type": "investigation_target",
+      "description": "Existing topic on the host's podcast ranking.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11280",
+        "C-11281"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11294",
+      "ref": "N-11294",
+      "name": "Pro-Iran-War Fake Poll and Bot Claim",
+      "type": "topic",
+      "description": "The host's claim that supporters of the Iran war faked polls and deployed bots and sock puppets in comment sections to simulate support.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11274",
+        "C-11275",
+        "C-11276"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11295",
+      "ref": "N-11295",
+      "name": "White House Iran War Meme Posts",
+      "type": "topic",
+      "description": "Pop-culture style memes (Mortal Kombat, Power Rangers) the host says the White House posted about the Iran operation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11235",
+        "C-11282"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1543,7 +2391,1542 @@
         "N-3",
         "N-607"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11235",
+      "ref": "C-11235",
+      "label": "Host Says White House Posts Mortal Kombat Style Memes About Iran",
+      "claim": "The host says the White House keeps posting Mortal Kombat style memes (\"Finish him. Scorpion\") captioned as what \"we did in Iran.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10541",
+        "N-11295"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Capture the White House or official social accounts' Iran-war meme posts with dates to confirm the Mortal Kombat style content.",
+      "transcript_snippet": "Uh the White House can keep posting their super fake and gay Mortal Kombat type memes. Like, finish him. Scorpion. We did this in Iran.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11236",
+      "ref": "C-11236",
+      "label": "Host Says Trump Allowed Levin's Class to Go After Tucker Carlson",
+      "claim": "The host says Trump has apparently allowed Mark Levin's \"special class of psychos\" to go after Tucker Carlson and that they explicitly demand he be imprisoned.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10540"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:53",
+      "investigative_direction": "Collect Levin's and allied commentators' public calls to jail Carlson, and any White House statement on the CIA referral.",
+      "transcript_snippet": "Trump has apparently allowed Mark Levin's special class of psychos to go after Tucker Carlson. They want to They want to imprison him. They are explicit in that demand.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-249",
+        "N-22",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11237",
+      "ref": "C-11237",
+      "label": "Host Says Shapiro Called Megyn Kelly a Coward and Piers Morgan a Click Whore",
+      "claim": "The host says Ben Shapiro posted online that Megyn Kelly is a coward and Piers Morgan is a \"click whore,\" after picking a fight with both over the weekend.",
+      "anchored_artifacts": [
+        "A-3123.1"
+      ],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:02",
+      "investigative_direction": "Retrieve Shapiro's original X posts about Kelly and Morgan from the weekend before 2026-03-16 and compare the wording.",
+      "transcript_snippet": "Meghan is a coward. Piers Morgan is a click whore.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-46",
+        "N-208",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11238",
+      "ref": "C-11238",
+      "label": "Host Reads Megyn Kelly Reply Asking Why She Is Stalked and Harassed",
+      "claim": "The host reads Megyn Kelly's reply to Shapiro, which calls him \"Poor little Ben\" and asks \"Why have they been stalking and harassing Megyn Kelly?\"",
+      "anchored_artifacts": [
+        "A-3123.2"
+      ],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:02",
+      "investigative_direction": "Retrieve Kelly's original reply post and check whether the host's reading is complete and in order.",
+      "transcript_snippet": "Why have they been stalking and harassing Megyn Kelly? Nobody knows.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11239",
+      "ref": "C-11239",
+      "label": "Host Reads Shapiro Reply Saying Kelly Will Not Protect Kirk's Widow From the Monster",
+      "claim": "The host reads a Shapiro reply to Kelly saying she would not even protect Charlie Kirk's widow \"from the monster accusing her of murdering Charlie,\" which the host takes as an allusion to herself.",
+      "anchored_artifacts": [
+        "A-3123.3"
+      ],
+      "related_nodes": [
+        "N-10237"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:01",
+      "investigative_direction": "Retrieve Shapiro's original reply post and check whether it names the host or the accusation she is said to have made.",
+      "transcript_snippet": "You won't even protect Charlie Kirk's widow from the monster accusing her of murdering Charlie.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-46",
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11240",
+      "ref": "C-11240",
+      "label": "Host Says Shapiro Worked Behind the Scenes Against Kirk's Rise",
+      "claim": "The host says Ben Shapiro operated behind the scenes to stop Charlie Kirk's rise, calling and asking fellow Jewish journalists to write hit pieces, and says she was there and that it was driven by jealousy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10386",
+        "N-11064"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:43",
+      "investigative_direction": "Identify the journalists and pieces the host alleges were commissioned and obtain her contemporaneous messages with Kirk about them.",
+      "transcript_snippet": "Ben operated behind the scenes to try to stop his rise the same way he's treating Megyn Kelly.",
+      "supports_claim_refs": [
+        "C-9471",
+        "C-2481"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-1",
+        "N-46",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11241",
+      "ref": "C-11241",
+      "label": "Milo Says Kirk Talked Only About Candace and How Evil Shapiro Was",
+      "claim": "The host reads Milo Yiannopoulos saying that while he and Kirk were briefly friends, all Kirk talked about was how amazing Candace was and how evil Ben Shapiro is, and that Kirk showed him messages.",
+      "anchored_artifacts": [
+        "A-1848.1"
+      ],
+      "related_nodes": [
+        "N-10543"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:35",
+      "investigative_direction": "Ask Yiannopoulos for the original post and the messages he says Kirk showed him; verify against Kirk's phone records.",
+      "transcript_snippet": "all he talked about was how was how amazing Candace was and how effing evil Ben is.",
+      "supports_claim_refs": [
+        "C-2481"
+      ],
+      "mentions_person_refs": [
+        "N-224",
+        "N-1",
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11242",
+      "ref": "C-11242",
+      "label": "Host Says Kirk Had Changed His Mind on Israel",
+      "claim": "The host says Israel was a topic on which Charlie Kirk had actually changed his mind.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10543",
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:35",
+      "investigative_direction": "Compare Kirk's pre-2025 and 2025 public statements on Israel and the host's private texts to date the alleged shift.",
+      "transcript_snippet": "I'm going to attack his friends over the topic of Israel, a topic which Charlie had actually changed his mind on.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11243",
+      "ref": "C-11243",
+      "label": "Host Reads Kirk Text Backing Her Against Shapiro: Stand for Truth",
+      "claim": "The host reads a text exchange in which Charlie Kirk, backing her up after Shapiro treated her publicly badly, wrote \"Stand for truth. The people are with you.\"",
+      "anchored_artifacts": [
+        "A-1846.1"
+      ],
+      "related_nodes": [
+        "N-10543"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:50",
+      "investigative_direction": "Obtain device-level forensic verification of the thread and its date relative to the Shapiro table incident.",
+      "transcript_snippet": "Stand for truth. The people are with you. Thank you, Charlie.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11244",
+      "ref": "C-11244",
+      "label": "Host Reads Kirk Text Joking That Shapiro Was Standing on a Couch",
+      "claim": "The host reads Kirk laughing and writing \"BTW, he was standing on a couch\" about Shapiro, and says she replied \"Haha, so good.\"",
+      "anchored_artifacts": [
+        "A-1846.1"
+      ],
+      "related_nodes": [
+        "N-10543"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:50",
+      "investigative_direction": "Match the text's timestamp to the Shapiro table/couch incident the host describes and verify the thread forensically.",
+      "transcript_snippet": "And he then laughs and wrote, \"BTW, he was standing on a couch.\" And I wrote, \"Haha, so good.\"",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11245",
+      "ref": "C-11245",
+      "label": "Host Says She Has About 300 Messages With Kirk Showing He Disliked Shapiro",
+      "claim": "The host says she has about 300 messages between herself and Charlie Kirk showing how he constantly spoke about Ben Shapiro.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10543"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:50",
+      "investigative_direction": "Request a count and an independent forensic export of the thread; compare with earlier counts the host has given.",
+      "transcript_snippet": "I have about 300 messages between me and Charlie to that effect, okay?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11246",
+      "ref": "C-11246",
+      "label": "Host Says Turning Point Is Packaging Kirk as a Faithful Talmudic Jew Friend of Shapiro",
+      "claim": "The host says Turning Point USA allowed people onto its ship who are portraying Kirk as a faithful Talmudic Jew who was friends with Ben Shapiro, reversing what Kirk believed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10543",
+        "N-11064"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:46",
+      "investigative_direction": "Collect TPUSA statements and speeches since September 2025 that describe Kirk's views on Shapiro and the Talmud.",
+      "transcript_snippet": "they are now trying to package to us as like a faithful Talmudic Jew who was friends with Ben Shapiro.",
+      "supports_claim_refs": [
+        "C-2477"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11247",
+      "ref": "C-11247",
+      "label": "Host Says Kirk's Wife at the Helm Could Stop the Reversal of His Views",
+      "claim": "The host says Charlie Kirk's wife, who is at the helm of TPUSA, could stop the company's effective reversal of what Kirk actually felt and believed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10543"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:32",
+      "investigative_direction": "Review TPUSA leadership communications under Erika Kirk on Kirk's Israel and Shapiro positions.",
+      "transcript_snippet": "A reversal made infinitely more evil by the fact that his wife is at the helm of the company. She could stop that.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11248",
+      "ref": "C-11248",
+      "label": "Host Says Kirk Went Toe to Toe With Netanyahu and Won",
+      "claim": "The host says that in June, before he died, Charlie Kirk went toe-to-toe with Bibi Netanyahu and the \"bandit of neocon criminals\" over a war in Iran, telling Trump not to do it, and won.",
+      "anchored_artifacts": [
+        "A-1847.1"
+      ],
+      "related_nodes": [
+        "N-10539",
+        "N-10674"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:32",
+      "investigative_direction": "Establish what direct contact, if any, Kirk had with Netanyahu in June 2025 and what Trump decided after the two White House days.",
+      "transcript_snippet": "back when Charlie went toe-to-toe with Bibi Netanyahu and won.",
+      "supports_claim_refs": [
+        "C-2479"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-36",
+        "N-5",
+        "N-604"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11249",
+      "ref": "C-11249",
+      "label": "Weinstein Says It Is Reasonable to Ask If Kirk's Opposition Led to His Murder",
+      "claim": "The host reads Bret Weinstein saying that, given Kirk's closeness to Trump and his opposition to an Iran war, it is reasonable to wonder if his refusal to back down somehow resulted in his murder.",
+      "anchored_artifacts": [
+        "A-1847.1"
+      ],
+      "related_nodes": [
+        "N-10539",
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:32",
+      "investigative_direction": "Obtain Weinstein's original post and date; ask him what basis exists beyond the timing of Kirk's opposition.",
+      "transcript_snippet": "it is reasonable to wonder if his refusal to back down from his steadfast opposition somehow resulted in his murder.",
+      "mentions_person_refs": [
+        "N-604",
+        "N-1",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11250",
+      "ref": "C-11250",
+      "label": "Weinstein Says a Good Investigation Could Have Settled the Matter",
+      "claim": "The host reads Weinstein saying that a good investigation could have settled whether Kirk's opposition mattered, and that what was produced only increases the reason for concern.",
+      "anchored_artifacts": [
+        "A-1847.1"
+      ],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:38",
+      "investigative_direction": "Obtain Weinstein's full post and identify which investigative product he judges inadequate.",
+      "transcript_snippet": "A good investigation could have settled the matter. What we got only increases the reason for concern.",
+      "mentions_person_refs": [
+        "N-604",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11251",
+      "ref": "C-11251",
+      "label": "Weinstein Says Kirk's Death Removed Him and Likely Changed History",
+      "claim": "The host reads Weinstein saying Kirk was in a strong position to keep the US from the course it took and that the timing of his death removed him from the equation and likely changed history, as Kirk himself worried it might.",
+      "anchored_artifacts": [
+        "A-1847.1"
+      ],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:38",
+      "investigative_direction": "Find Kirk's recorded or texted worries about his own safety and about the Iran decision to test Weinstein's final phrase.",
+      "transcript_snippet": "the timing of his death removed him from the equation and likely changed the course of history.",
+      "mentions_person_refs": [
+        "N-604",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11252",
+      "ref": "C-11252",
+      "label": "Kirk Text Says Dissident Media Cannot Yet Drive Real-Time Public Opinion",
+      "claim": "The host reads Kirk's reply to Weinstein theorizing that dissident media is good retroactively at uncovering scandal but not yet at driving real-time mass public opinion, which neocons are.",
+      "anchored_artifacts": [
+        "A-1847.1"
+      ],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:38",
+      "investigative_direction": "Verify the full June 18 thread, which the host says she reads in part.",
+      "transcript_snippet": "driving real-time mass public opinion yet. The neocons are.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-604"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11253",
+      "ref": "C-11253",
+      "label": "Neff Post Says Shapiro Backed DeSantis While Kirk Was All In for Trump",
+      "claim": "The host reads Blake Neff's post saying Ben Shapiro supported Ron DeSantis in the 2024 primary while Charlie Kirk was all in for Trump from the start, and that Vance was one of Kirk's favorite politicians while Shapiro had criticized him.",
+      "anchored_artifacts": [
+        "A-1850.1"
+      ],
+      "related_nodes": [
+        "N-10543"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:29",
+      "investigative_direction": "Retrieve Neff's original post and verify Shapiro's 2024 primary endorsement and Kirk's endorsement date.",
+      "transcript_snippet": "Ben supported Ron DeSantis in the 2024 primary while Charlie was all in for Trump from the start.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-97",
+        "N-1",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11254",
+      "ref": "C-11254",
+      "label": "Host Says Neff Was Not Around for the Building of Turning Point",
+      "claim": "The host says Blake Neff was not around for the building of Turning Point and does not know what he is talking about when he describes Kirk and Shapiro as rivals.",
+      "anchored_artifacts": [
+        "A-1850.1"
+      ],
+      "related_nodes": [
+        "N-11057"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:27",
+      "investigative_direction": "Establish Neff's start date at TPUSA and compare with the founding timeline Kirk described.",
+      "transcript_snippet": "Blake was not even around for the building of Turning Point.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-162",
+        "N-1",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11255",
+      "ref": "C-11255",
+      "label": "Host Says Shapiro Tried to Rebuild Breitbart's Legacy by Manufacturing a Scandal With the Daily Wire",
+      "claim": "The host says Ben Shapiro was trying to take Andrew Breitbart's legacy and recreate it by manufacturing a scandal with The Daily Wire while Kirk was building a campus charity.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900",
+        "N-10391"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:07",
+      "investigative_direction": "Ask the host what scandal she means and compare with the Daily Wire founding narrative.",
+      "transcript_snippet": "Ben Shapiro was trying to take Andrew Breitbart's legacy and recreate it by manufacturing a scandal with The Daily Wire.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-400",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11256",
+      "ref": "C-11256",
+      "label": "Host Says Shapiro Went to Donors and Squeezed Kirk Over Who He Could Speak To",
+      "claim": "The host says that as Kirk got bigger Shapiro became jealous, went behind the scenes with his connections to the donors and started squeezing Kirk and trying to control who he could speak to.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10386",
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:07",
+      "investigative_direction": "Identify the donors and the speakers the host says Shapiro tried to bar, with dated messages or call logs.",
+      "transcript_snippet": "he went behind the scenes with his connections to the donors and started squeezing Charlie and trying to control who he could speak to.",
+      "supports_claim_refs": [
+        "C-5352",
+        "C-9471"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11257",
+      "ref": "C-11257",
+      "label": "Host Says TPUSA Let Kirk's Rival Open AmFest While Dissing Kirk's Friends",
+      "claim": "The host says Turning Point USA allowed Charlie's rival, Ben Shapiro, to open AmFest by dissing Charlie's friends, because of money.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:34",
+      "investigative_direction": "Obtain the AmFest 2025 program and the video of the opening remarks and the invitation chain for Shapiro.",
+      "transcript_snippet": "they allowed Charlie's rival to open AmFest by dissing Charlie's friends.",
+      "supports_claim_refs": [
+        "C-1980"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11258",
+      "ref": "C-11258",
+      "label": "Host Says Shapiro Publicly Put Megyn Kelly on the Spot on Her Tour Stage",
+      "claim": "The host says Shapiro publicly put Megyn Kelly on the spot on stage during her tour, as part of a pattern of surprising friends on camera to demand allegiance.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10236"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:31",
+      "investigative_direction": "Obtain the video of the Kelly tour stop where Shapiro appeared and its date.",
+      "transcript_snippet": "That's what he initially did to Megyn Kelly on her tour, no less, on stage.",
+      "supports_claim_refs": [
+        "C-1667"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-46",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11259",
+      "ref": "C-11259",
+      "label": "Host Says Shapiro Stood on a Table and Called Her a Faux Sophisticate",
+      "claim": "The host says Shapiro stood up on a table while she worked for a company he was part owner of, and called her a \"faux sophisticate\" because she tweeted that genocide was always wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:31",
+      "investigative_direction": "Locate the video of the table moment and the date of the host's genocide tweet.",
+      "transcript_snippet": "He infamously stood up on that table while I was employed by a company that he was a part owner of.",
+      "supports_claim_refs": [
+        "C-11244"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11260",
+      "ref": "C-11260",
+      "label": "Host Says Michael Knowles Is Godfather to Her Daughter",
+      "claim": "The host says Michael Knowles is the godfather to her daughter, which she calls a literal spiritual connection.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:11",
+      "investigative_direction": "Confirm through a baptismal record or a Knowles statement.",
+      "transcript_snippet": "Michael Knowles is the godfather to my daughter, okay?",
+      "mentions_person_refs": [
+        "N-102",
+        "N-3",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11261",
+      "ref": "C-11261",
+      "label": "Knowles Says in Clip It Is Wrong to Attack Erika but Will Not Say the Sentence",
+      "claim": "In the clip the host plays, Michael Knowles says it is wrong to attack Erika (transcribed Erika Curren) but declines Shapiro's request to say the sentence with her name in it, saying he will not dance like a puppet.",
+      "anchored_artifacts": [
+        "A-1851.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:54",
+      "investigative_direction": "Obtain the full video of the public discussion with its date and venue.",
+      "transcript_snippet": "I I think that it's wrong to attack Erika Curren.",
+      "supports_claim_refs": [
+        "C-2484"
+      ],
+      "mentions_person_refs": [
+        "N-102",
+        "N-97",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11262",
+      "ref": "C-11262",
+      "label": "Host Says the McCain Text Is Real and Shortened",
+      "claim": "The host says the Kirk text about Meghan McCain is real, and that she shortened the exchange, which is longer.",
+      "anchored_artifacts": [
+        "A-1846.3"
+      ],
+      "related_nodes": [
+        "N-10543"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:51",
+      "investigative_direction": "Request the complete thread to compare with the excerpt read on air.",
+      "transcript_snippet": "Yes, it's real. And I actually shortened it.",
+      "supports_claim_refs": [
+        "C-2478"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-603",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11263",
+      "ref": "C-11263",
+      "label": "Host Says 25 Percent of Global Liquid Petroleum Moves Through Hormuz",
+      "claim": "The host says roughly 25 percent of global liquid petroleum moves through the roughly 100-mile Strait of Hormuz choke point.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:48",
+      "investigative_direction": "Check EIA or IEA transit figures for the Strait of Hormuz.",
+      "transcript_snippet": "roughly 25% of the global liquid petroleum moves through this tiny little choke point",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11264",
+      "ref": "C-11264",
+      "label": "Host Says Iran Is Shutting the Strait Because It Can",
+      "claim": "The host says, while showing a map, that Iran is saying it will shut the Strait of Hormuz down because it can.",
+      "anchored_artifacts": [
+        "A-3124.1"
+      ],
+      "related_nodes": [
+        "N-10541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:10",
+      "investigative_direction": "Check shipping-traffic data and Iranian statements on the strait's status on the broadcast date.",
+      "transcript_snippet": "Iran's just like, \"We're going to shut that down because we can.\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11265",
+      "ref": "C-11265",
+      "label": "Host Says Nothing Was Happening Other Than Netanyahu Wanting the Fight With Iran",
+      "claim": "The host says that before the US struck Iran nothing was going on other than that Netanyahu (BB) wanted the fight with Iran.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:52",
+      "investigative_direction": "Compare the intelligence and diplomatic record before the strike with Netanyahu's public and private requests.",
+      "transcript_snippet": "Nothing was happening other than BB wanted the fight with Iran",
+      "mentions_person_refs": [
+        "N-3",
+        "N-36",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11266",
+      "ref": "C-11266",
+      "label": "Host Says the US Randomly Bombed 200 Schoolgirls and Trump Lied About It",
+      "claim": "The host says the US randomly bombed 200 schoolgirls in Iran and then lied about it, and that Trump was the one who lied.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11145"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:52",
+      "investigative_direction": "Compare casualty counts and US statements on the Minab school strike with the host's figure.",
+      "transcript_snippet": "We also randomly bombed 200 schoolgirls in Iran, and then we lied about it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11267",
+      "ref": "C-11267",
+      "label": "Host Says Trump Is Demanding Ground Troops He Does Not Have",
+      "claim": "The host says Trump is now demanding ground troops that he does not have.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:35",
+      "investigative_direction": "Obtain the Trump statement or order the host refers to and force-readiness reporting.",
+      "transcript_snippet": "Trump is now demanding ground troops that he doesn't have, okay?",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11268",
+      "ref": "C-11268",
+      "label": "Host Says Trump Is Going Around Asking Other Countries to Get Involved",
+      "claim": "The host says Trump is reduced to going around asking or demanding that other countries get involved in the war.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:35",
+      "investigative_direction": "Collect Trump administration requests to allies for ships or troops for Hormuz operations.",
+      "transcript_snippet": "So, Trump is now reduced to going around and asking or demanding other countries to get involved.",
+      "supports_claim_refs": [
+        "C-2488"
+      ],
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11269",
+      "ref": "C-11269",
+      "label": "Host Says the Rothschilds Created Israel and Emmanuel Macron",
+      "claim": "The host says Macron is saying what the Rothschilds told him to say because the Rothschilds are Israel, created Israel and created Emmanuel Macron.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:28:13",
+      "investigative_direction": "No primary record offered; ask the host for any document linking the Rothschild family to Macron's career or to Israel's founding.",
+      "transcript_snippet": "the Rothschilds are Israel, they created Israel, and they created Emmanuel Macron.",
+      "mentions_person_refs": [
+        "N-387",
+        "N-532",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11270",
+      "ref": "C-11270",
+      "label": "Host Says Nobody Knows Where Netanyahu Is and His Videos Look AI",
+      "claim": "The host says nobody knows where Bibi Netanyahu is, that his videos look AI-generated, and that there are rumors he is dead.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:13",
+      "investigative_direction": "Compile Netanyahu's dated public appearances in March 2026 and forensic analysis of the videos in question.",
+      "transcript_snippet": "Nobody knows where Bibi Netanyahu is or why these weird videos look so AI when he's speaking.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11271",
+      "ref": "C-11271",
+      "label": "Host Says She Thinks Netanyahu Is Dead but Does Not Know",
+      "claim": "The host says she thinks Netanyahu is dead but that she does not know.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:05",
+      "investigative_direction": "Obtain proof-of-life reporting and Israeli government statements on his whereabouts.",
+      "transcript_snippet": "So, I think he's dead, I don't know.",
+      "supports_claim_refs": [
+        "C-11270"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11272",
+      "ref": "C-11272",
+      "label": "Host Says All Trump's Allies Told Him Not To Except Israel",
+      "claim": "The host says all of the US allies in the region have said not to do this, except Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10541"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:21",
+      "investigative_direction": "Collect regional allies' public statements before the strike and compare with Trump's claim of allies.",
+      "transcript_snippet": "They've all said don't do this except for Israel.",
+      "supports_claim_refs": [
+        "C-2488"
+      ],
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11273",
+      "ref": "C-11273",
+      "label": "Host Says the Baghdad Embassy Is the Biggest in the World",
+      "claim": "The host says the US embassy in Baghdad is the biggest embassy in the world, bigger than Vatican City, and is being hit.",
+      "anchored_artifacts": [
+        "A-1860.1"
+      ],
+      "related_nodes": [
+        "N-10542"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:14",
+      "investigative_direction": "Check the embassy compound's size against published figures and the dates of attacks on it.",
+      "transcript_snippet": "It's bigger than Vatican City.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11274",
+      "ref": "C-11274",
+      "label": "Host Says Pro-War Polls Were Faked Right Before the Iran Strike",
+      "claim": "The host says that right before the US went to Iran, supporters began faking polls in an egregious manner, producing polls removed from reality.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11294"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:39",
+      "investigative_direction": "Identify the specific polls and their methodology and compare with independent polling.",
+      "transcript_snippet": "Right before we went to Iran, they started faking polls in such an egregious manner.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-102"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11275",
+      "ref": "C-11275",
+      "label": "Host Says Bots Fill Every Comment Section Saying Everyone Wants to Bomb Iran",
+      "claim": "The host says bots and sock puppets are in every comment section telling people everyone wants to bomb Iran.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11294"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:39",
+      "investigative_direction": "Use platform bot-detection or academic studies of Iran-war comment activity.",
+      "transcript_snippet": "they have these bots now in every comment section and nobody they're just sock puppets telling you everyone loves like wants to bomb Iran.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11276",
+      "ref": "C-11276",
+      "label": "Host's Article Says Zionists Bought Views and Activated Millions of Bots",
+      "claim": "The host reads her article saying that over three years Zionists purchased views, influencers and journalists and activated millions of online bots.",
+      "anchored_artifacts": [
+        "A-1856.1"
+      ],
+      "related_nodes": [
+        "N-11294"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:50",
+      "investigative_direction": "Ask the host for the studies or documents behind the 'millions of bots' figure.",
+      "transcript_snippet": "They have purchased views, influencers and journalists. They have activated millions of online bots.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-607"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11277",
+      "ref": "C-11277",
+      "label": "Host's Article Says Zionists Staged an Open Takeover of TikTok",
+      "claim": "The host reads her article saying Zionists went so far as to stage an open takeover of TikTok when they grew incensed that the youth was sympathetic to Palestine.",
+      "anchored_artifacts": [
+        "A-1856.1"
+      ],
+      "related_nodes": [
+        "N-11103",
+        "N-11096"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:50",
+      "investigative_direction": "Compare with the record of the TikTok divestiture and its new ownership.",
+      "transcript_snippet": "They even went so far as to stage an open takeover of TikTok when they grew incensed that the youth was sympathetic to Palestine.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11278",
+      "ref": "C-11278",
+      "label": "Host's Article Says Most People Sense Kirk Was Murdered for Opposing the War",
+      "claim": "The host reads her article saying the overwhelming majority of people in the world sense that Charlie Kirk was murdered for opposing this war and that Israel's hands are not clean in the story.",
+      "anchored_artifacts": [
+        "A-1856.1"
+      ],
+      "related_nodes": [
+        "N-11128",
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:36",
+      "investigative_direction": "Seek polling on public belief about the motive for Kirk's killing.",
+      "transcript_snippet": "the overwhelming majority of people in the world sense that Charlie Kirk was murdered for opposing this war and that Israel's hands are not clean in the story.",
+      "supports_claim_refs": [
+        "C-2479"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11279",
+      "ref": "C-11279",
+      "label": "Host's Article Says Zionists Use Slander, Lawfare and Murder",
+      "claim": "The host reads her article saying Zionists continue to use tactics of slander, deception, lawfare and yes murder to force their perspectives.",
+      "anchored_artifacts": [
+        "A-1856.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:15",
+      "investigative_direction": "Ask the host which specific murders and lawsuits she means.",
+      "transcript_snippet": "Zionists continue to use tactics of slander, deception, lawfare, and yes, murder to force their perspectives.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11280",
+      "ref": "C-11280",
+      "label": "Host Says She and Joe Rogan Are in a Three-Way Tie for Top Podcast",
+      "claim": "The host says it was just announced that she and Joe Rogan are in a three-way tie with one other podcast for the top podcasts.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:13",
+      "investigative_direction": "Check the chart provider and date of the ranking the host cites.",
+      "transcript_snippet": "me and Joe Rogan are in a three-way tie with one other podcast uh for the top podcasts.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-274"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11281",
+      "ref": "C-11281",
+      "label": "Host Says Levin and Shapiro Rankings Are Bought Through Ads",
+      "claim": "The host says Mark Levin and others are getting top podcast status by buying it through ads and that the numbers are not real.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:13",
+      "investigative_direction": "Compare podcast-ranking data with disclosed ad spending, if any.",
+      "transcript_snippet": "They're buying those things through ads. It's fake. The numbers are not real.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-249",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11282",
+      "ref": "C-11282",
+      "label": "Host Says White House Posted Power Rangers Style Victory Memes on Iran",
+      "claim": "The host plays a clip with shouts of \"White House\" and \"Girl power\" and \"Power Rangers\" and says this is what the administration is posting on social media about taking down Iran.",
+      "anchored_artifacts": [
+        "A-3125.1"
+      ],
+      "related_nodes": [
+        "N-10541",
+        "N-11295"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:49",
+      "investigative_direction": "Identify the original social posts in the clip and the account that posted them.",
+      "transcript_snippet": "This is what they're posting on social media. They think we're this dumb that they were going to take down Iran.",
+      "supports_claim_refs": [
+        "C-11235"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11283",
+      "ref": "C-11283",
+      "label": "Tucker Says the CIA Read His Texts",
+      "claim": "In the clip Tucker Carlson says the alleged crime under consideration is talking to people in Iran before the war and that the CIA read his texts.",
+      "anchored_artifacts": [
+        "A-1854.1"
+      ],
+      "related_nodes": [
+        "N-10540",
+        "N-10082"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:23",
+      "investigative_direction": "Ask Carlson or the CIA how the texts were obtained and under what authority.",
+      "transcript_snippet": "Well, talking to people in Iran before the war. They read my texts.",
+      "supports_claim_refs": [
+        "C-2487"
+      ],
+      "mentions_person_refs": [
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11284",
+      "ref": "C-11284",
+      "label": "Tucker Says He Has Never Taken Money From Anybody",
+      "claim": "In the clip Tucker Carlson says he is not an agent of a foreign power, has only one loyalty to the United States and has never taken money from anybody, which he says is provable.",
+      "anchored_artifacts": [
+        "A-1854.1"
+      ],
+      "related_nodes": [
+        "N-10540"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:06",
+      "investigative_direction": "Examine Carlson's financial disclosures and any FARA filings or inquiries.",
+      "transcript_snippet": "I've also never taken money from anybody. Don't need it, don't want it and that's provable.",
+      "mentions_person_refs": [
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11285",
+      "ref": "C-11285",
+      "label": "Tucker Says the Purpose of Such Referrals Is to Leak and Humiliate",
+      "claim": "In the clip Tucker Carlson says the main reason such investigations are started is to leak their existence to the media and then humiliate and terrify the subjects, and that this has happened to him repeatedly.",
+      "anchored_artifacts": [
+        "A-1854.1"
+      ],
+      "related_nodes": [
+        "N-10540",
+        "N-10082"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:47",
+      "investigative_direction": "Review prior leaks of investigations of Carlson and any inspector general review.",
+      "transcript_snippet": "the main reason they do it is to leak the existence of the investigation, such as it is, to the media and then humiliate and terrify the subjects of this op",
+      "mentions_person_refs": [
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11286",
+      "ref": "C-11286",
+      "label": "Host Says Ackman Retweeted Attacks on Her Conscientious Objection Remark",
+      "claim": "The host says Bill Ackman was retweeting accounts attacking her after she said people should conscientiously object to this war, including accounts claiming a federal statute could send her to prison.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:44",
+      "investigative_direction": "Retrieve Ackman's retweets and the original host post.",
+      "transcript_snippet": "he was retweeting when I said people should conscientiously object to this war because they should.",
+      "mentions_person_refs": [
+        "N-37",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11287",
+      "ref": "C-11287",
+      "label": "Host Says Loomer Has Not Published Her List",
+      "claim": "The host says Laura Loomer keeps alluding to her list of conservative influencers allegedly taking money from Iran, Russia and Qatar but has never published it.",
+      "anchored_artifacts": [
+        "A-1858.1"
+      ],
+      "related_nodes": [
+        "N-10540"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:22",
+      "investigative_direction": "Check Loomer's accounts for any published list and any DOJ confirmation of receiving it.",
+      "transcript_snippet": "She keeps alluding to it, but she never published.",
+      "qualifies_claim_refs": [
+        "C-2490"
+      ],
+      "mentions_person_refs": [
+        "N-60",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11288",
+      "ref": "C-11288",
+      "label": "Host Says the Tyler Robinson Narrative Is Not Working",
+      "claim": "The host, voicing the establishment's view, says the effort to have people repeat that it was Tyler Robinson does not seem to be working, so they are starting another war.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:20",
+      "investigative_direction": "This is the host's characterization; test it against polling on belief in the official account.",
+      "transcript_snippet": "this hypnosis of us saying having people repeat that it was Tyler Robinson doesn't seem to be working.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11289",
+      "ref": "C-11289",
+      "label": "Host Says the US Is Sending Venezuelan Oil to Israel",
+      "claim": "The host says that as the US talks of replacing lost oil, the US is sending barrels of oil from Venezuela to Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10962"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:13",
+      "investigative_direction": "Check tanker-tracking and Venezuelan export records for shipments to Israel.",
+      "transcript_snippet": "as we're sending barrels of oil from Venezuela to Israel.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11290",
+      "ref": "C-11290",
+      "label": "Commenter Says Kirk Was For No Iran War, Epstein Files and a TPUSA Audit",
+      "claim": "The host reads a viewer comment saying three things Charlie Kirk was for were no war with Iran, release of the Epstein files and an audit of TPUSA, and asks who benefits from his death.",
+      "anchored_artifacts": [
+        "A-3126.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10132",
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:39",
+      "investigative_direction": "Find Kirk's own recorded statements on each of the three positions, particularly the TPUSA audit.",
+      "transcript_snippet": "Three things that Charlie Kirk was for: no war with Iran, release the Epstein files, and audit to TPUSA.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11291",
+      "ref": "C-11291",
+      "label": "Host Says Israel Worship Is Baal Worship Involving Child Sacrifice",
+      "claim": "The host says that what she calls Israel worship is Baal worship, that they have to sacrifice children, and that the military cannot give a reason for hitting the school.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11145"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:09",
+      "investigative_direction": "Ask the host for any evidentiary basis; treat as rhetorical assertion.",
+      "transcript_snippet": "These Israel worship it's it's ball worship. I mean, they they have to sacrifice children.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11292",
+      "ref": "C-11292",
+      "label": "Commenter Says 175 Schoolgirls Are Dead With No Apology",
+      "claim": "The host reads a viewer comment (Megan Vincent) saying 175 schoolgirls are dead and there is no apology, and tells the commenter it was well said.",
+      "anchored_artifacts": [
+        "A-3126.2"
+      ],
+      "related_nodes": [
+        "N-11145"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:07",
+      "investigative_direction": "Compare with official and independent casualty counts for the Minab school strike; the host herself said 200 earlier.",
+      "transcript_snippet": "175 schoolgirls are dead and there's no apology.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11293",
+      "ref": "C-11293",
+      "label": "Commenter Says Carlson Is Targeted While AIPAC Is an Unregistered Foreign Agent",
+      "claim": "The host reads a viewer comment that the CIA is targeting Tucker for talking to Iranians while AIPAC walks free as an unregistered foreign agent, and endorses it as well said.",
+      "anchored_artifacts": [
+        "A-3126.2"
+      ],
+      "related_nodes": [
+        "N-10083",
+        "N-10540",
+        "N-10082"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:07",
+      "investigative_direction": "Check the DOJ FARA registry and past DOJ rulings on AIPAC's registration status.",
+      "transcript_snippet": "CIA targeting Tucker for talking to Iranians while AIPAC walks free as an unregistered foreign agent.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11294",
+      "ref": "C-11294",
+      "label": "Host Says Jared Kushner Is Running the White House",
+      "claim": "The host says that this is what happens when Jared Kushner is running the White House with his father who is in Paris.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:53:07",
+      "investigative_direction": "Document Kushner's official or informal role in the administration in March 2026.",
+      "transcript_snippet": "This is what happens when Jared Kushner um is running the White House uh with his father who is in Paris.",
+      "mentions_person_refs": [
+        "N-182",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-32",
+      "ref": "M-32",
+      "canonical_term": "Hit Piece",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 79,
+          "video_timestamp": "00:06:43",
+          "speaker_node_ref": "N-3",
+          "quote": "ts. He makes phone calls. He asks his fellow Jewish journalists to do hit pieces. Charlie lived this. I was there. It was driven by nothing more th...",
+          "context": "Later reuse of Hit Piece in CKA seq 79.",
+          "confidence": "high",
+          "tags": [
+            "smear",
+            "media",
+            "intimidation",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 79,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "Uh the White House can keep posting their super fake and gay Mortal Kombat type memes.",
+          "context": "Host applies the fake and gay label to White House Iran memes.",
+          "confidence": "high",
+          "tags": [
+            "fake and gay",
+            "white house"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 79,
+          "video_timestamp": "00:50:39",
+          "speaker_node_ref": "N-3",
+          "quote": "Magma, Make America Go Max, always.",
+          "context": "Host reads a viewer comment using the Go Max catchphrase.",
+          "confidence": "high",
+          "tags": [
+            "go max",
+            "comment"
+          ]
+        },
+        {
+          "episode": 79,
+          "video_timestamp": "00:51:29",
+          "speaker_node_ref": "N-3",
+          "quote": "Go Max, and praying for you always.",
+          "context": "Host reads another viewer comment ending in Go Max.",
+          "confidence": "high",
+          "tags": [
+            "go max",
+            "comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-23",
+      "ref": "M-23",
+      "canonical_term": "Battle Bun",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 79,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "It is a battle bun Monday.",
+          "context": "Host opens acknowledging chat calling it a battle bun Monday.",
+          "confidence": "high",
+          "tags": [
+            "battle bun",
+            "opener"
+          ]
+        },
+        {
+          "episode": 79,
+          "video_timestamp": "00:54:06",
+          "speaker_node_ref": "N-3",
+          "quote": "I see so many of your comments about Battle Bun merch.",
+          "context": "Host promises Battle Bun merch.",
+          "confidence": "high",
+          "tags": [
+            "battle bun",
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-214",
+      "ref": "M-214",
+      "canonical_term": "Shabbat Shalom, Daddy's Home",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 79,
+          "video_timestamp": "00:54:06",
+          "speaker_node_ref": "N-3",
+          "quote": "you can definitely get your Daddy's Home Shabbat Shalom t-shirts.",
+          "context": "Host plugs the Daddy's Home Shabbat Shalom shirts.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "shabbat shalom"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-223",
+      "ref": "M-223",
+      "canonical_term": "Buy That for Blake",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 79,
+          "video_timestamp": "00:54:06",
+          "speaker_node_ref": "N-3",
+          "quote": "pour one out for my big homie Blake Neff, who just needs to keep his mouth shut.",
+          "context": "Host closes with a jab at Blake Neff alongside the merch plug.",
+          "confidence": "high",
+          "tags": [
+            "blake neff",
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-277",
+      "ref": "M-277",
+      "canonical_term": "Zio Vibes",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 79,
+          "video_timestamp": "00:21:48",
+          "speaker_node_ref": "N-3",
+          "quote": "He launched this war on Zio vibes, right?",
+          "context": "Host jokes that the Iran war was launched on Zio vibes.",
+          "confidence": "high",
+          "tags": [
+            "zio vibes",
+            "iran war"
+          ]
+        },
+        {
+          "episode": 79,
+          "video_timestamp": "00:33:21",
+          "speaker_node_ref": "N-3",
+          "quote": "red heifers, Zio vibes, hard to kick cigarettes.",
+          "context": "Host recaps the war's stated reasons as Zio vibes and red heifers.",
+          "confidence": "high",
+          "tags": [
+            "zio vibes",
+            "red heifer"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-278",
+      "ref": "M-278",
+      "canonical_term": "Out of Habit",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 79,
+          "video_timestamp": "00:32:41",
+          "speaker_node_ref": "N-3",
+          "quote": "I would like to to reiterate we did it out of habit.",
+          "context": "Host riffs on Trump's out-of-habit explanation as a habit America cannot kick.",
+          "confidence": "high",
+          "tags": [
+            "habit",
+            "trump quote"
+          ]
+        },
+        {
+          "episode": 79,
+          "video_timestamp": "00:35:03",
+          "speaker_node_ref": "N-3",
+          "quote": "we just can't kick this habit of murdering Muslims for no reason",
+          "context": "Host repeats the habit bit.",
+          "confidence": "high",
+          "tags": [
+            "habit",
+            "iran war"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-279",
+      "ref": "M-279",
+      "canonical_term": "Big Ben Shapiro Energy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 79,
+          "video_timestamp": "00:21:48",
+          "speaker_node_ref": "N-3",
+          "quote": "Big Ben Shapiro energy, right?",
+          "context": "Host compares Trump's war-making to Shapiro's fight-picking.",
+          "confidence": "high",
+          "tags": [
+            "shapiro",
+            "energy"
+          ]
+        },
+        {
+          "episode": 79,
+          "video_timestamp": "00:28:13",
+          "speaker_node_ref": "N-3",
+          "quote": "big Ben Shapiro energy.",
+          "context": "Host repeats the comparison in summarizing the state of affairs.",
+          "confidence": "high",
+          "tags": [
+            "shapiro",
+            "energy"
+          ]
+        }
+      ]
+    }
+  ]
 }

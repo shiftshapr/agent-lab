@@ -384,6 +384,131 @@
       "video_timestamp": "00:28:57–00:29:30",
       "discovery_timestamp": "00:00:00–00:00:01",
       "confidence": "Low"
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3134",
+      "family_ref": "A-3134",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3134.1",
+          "ref": "A-3134.1",
+          "description": "Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for tips on Amir Safadi)",
+          "related_claims": [
+            "C-11460"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-355"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:28:57",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3135",
+      "family_ref": "A-3135",
+      "bundle_name": "Bridal Shower Photos Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3135.1",
+          "ref": "A-3135.1",
+          "description": "Photos of Erika Kirk at Bettina's bridal shower that the host says she is showing (not described beyond the host's narration)",
+          "related_claims": [
+            "C-11440"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-906"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:07:27",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3136",
+      "family_ref": "A-3136",
+      "bundle_name": "Lane Schoneberger Event Opening Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3136.1",
+          "ref": "A-3136.1",
+          "description": "Clip of Lane Schoneberger speaking at the UGA event thanking Erika",
+          "related_claims": [
+            "C-11443"
+          ],
+          "related_nodes": [
+            "N-19",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:10:46",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3137",
+      "family_ref": "A-3137",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3137.1",
+          "ref": "A-3137.1",
+          "description": "Top viewer comment from the previous episode about the missing security and Dan Flood, read by the host",
+          "related_claims": [
+            "C-11482",
+            "C-11483",
+            "C-11484",
+            "C-11485",
+            "C-11486"
+          ],
+          "related_nodes": [
+            "N-276",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:48:20",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3137.2",
+          "ref": "A-3137.2",
+          "description": "Viewer comment by James the least about Ben Shapiro, read by the host",
+          "related_claims": [
+            "C-11488"
+          ],
+          "related_nodes": [
+            "N-97"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:02",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -542,8 +667,73 @@
       "name": "Charlie Kirk",
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-3134.1",
+        "A-3135.1",
+        "A-3136",
+        "A-3136.1",
+        "A-3137",
+        "A-3137.1",
+        "A-3137.2"
+      ],
+      "related_claims": [
+        "C-11436",
+        "C-11437",
+        "C-11438",
+        "C-11439",
+        "C-11440",
+        "C-11441",
+        "C-11442",
+        "C-11443",
+        "C-11444",
+        "C-11445",
+        "C-11446",
+        "C-11447",
+        "C-11448",
+        "C-11449",
+        "C-11450",
+        "C-11451",
+        "C-11452",
+        "C-11453",
+        "C-11454",
+        "C-11455",
+        "C-11456",
+        "C-11457",
+        "C-11458",
+        "C-11459",
+        "C-11460",
+        "C-11461",
+        "C-11462",
+        "C-11463",
+        "C-11464",
+        "C-11465",
+        "C-11466",
+        "C-11467",
+        "C-11468",
+        "C-11469",
+        "C-11470",
+        "C-11471",
+        "C-11472",
+        "C-11473",
+        "C-11474",
+        "C-11475",
+        "C-11476",
+        "C-11477",
+        "C-11478",
+        "C-11479",
+        "C-11480",
+        "C-11481",
+        "C-11482",
+        "C-11483",
+        "C-11484",
+        "C-11485",
+        "C-11486",
+        "C-11487",
+        "C-11488",
+        "C-11489",
+        "C-11490",
+        "C-11491"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -558,8 +748,47 @@
       "name": "Erika Kirk",
       "type": "person",
       "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-3135",
+        "A-3135.1",
+        "A-3136",
+        "A-3136.1",
+        "A-3137",
+        "A-3137.1",
+        "A-3137.2"
+      ],
+      "related_claims": [
+        "C-11437",
+        "C-11438",
+        "C-11439",
+        "C-11440",
+        "C-11441",
+        "C-11442",
+        "C-11443",
+        "C-11444",
+        "C-11445",
+        "C-11446",
+        "C-11447",
+        "C-11448",
+        "C-11449",
+        "C-11451",
+        "C-11452",
+        "C-11453",
+        "C-11454",
+        "C-11459",
+        "C-11469",
+        "C-11473",
+        "C-11474",
+        "C-11482",
+        "C-11483",
+        "C-11484",
+        "C-11485",
+        "C-11486",
+        "C-11487",
+        "C-11488",
+        "C-11489",
+        "C-11490"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -575,7 +804,24 @@
       "type": "person",
       "description": "Listed among figures appearing in Elephant Clipping campaign charts the host displays.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11439",
+        "C-11441",
+        "C-11442",
+        "C-11444",
+        "C-11445",
+        "C-11446",
+        "C-11449",
+        "C-11471",
+        "C-11473",
+        "C-11474",
+        "C-11475",
+        "C-11476",
+        "C-11477",
+        "C-11478",
+        "C-11479",
+        "C-11489"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -591,7 +837,11 @@
       "type": "person",
       "description": "British media proprietor and father of Ghislaine Maxwell; named in connection with Kushner Epstein emails (per host).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11471",
+        "C-11473",
+        "C-11474"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -607,7 +857,11 @@
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11438",
+        "C-11444",
+        "C-11487"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -623,7 +877,23 @@
       "type": "person",
       "description": "Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11436",
+        "C-11454",
+        "C-11455",
+        "C-11456",
+        "C-11457",
+        "C-11459",
+        "C-11462",
+        "C-11463",
+        "C-11464",
+        "C-11465",
+        "C-11466",
+        "C-11467",
+        "C-11468",
+        "C-11469",
+        "C-11470"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -639,13 +909,950 @@
       "type": "person",
       "description": "Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11463",
+        "C-11464",
+        "C-11465",
+        "C-11466",
+        "C-11467",
+        "C-11468",
+        "C-11470"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [
+        "A-3134",
+        "A-3134.1",
+        "A-3135.1",
+        "A-3136.1",
+        "A-3137.2"
+      ],
+      "related_claims": [
+        "C-11436",
+        "C-11437",
+        "C-11438",
+        "C-11440",
+        "C-11442",
+        "C-11443",
+        "C-11444",
+        "C-11448",
+        "C-11449",
+        "C-11450",
+        "C-11451",
+        "C-11452",
+        "C-11454",
+        "C-11455",
+        "C-11456",
+        "C-11457",
+        "C-11458",
+        "C-11459",
+        "C-11460",
+        "C-11461",
+        "C-11462",
+        "C-11463",
+        "C-11464",
+        "C-11465",
+        "C-11466",
+        "C-11467",
+        "C-11468",
+        "C-11469",
+        "C-11470",
+        "C-11474",
+        "C-11475",
+        "C-11476",
+        "C-11479",
+        "C-11480",
+        "C-11481",
+        "C-11487",
+        "C-11488",
+        "C-11490",
+        "C-11491"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 39,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; the host cites his 2:40 p.m. announcement of Charlie Kirk's death.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11457",
+        "C-11471",
+        "C-11472",
+        "C-11476",
+        "C-11477"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein; the host relays claims about how he was brought into arms trafficking.",
+      "related_artifacts": [
+        "A-3137",
+        "A-3137.1",
+        "A-3137.2"
+      ],
+      "related_claims": [
+        "C-11471",
+        "C-11472",
+        "C-11482",
+        "C-11483",
+        "C-11484",
+        "C-11485",
+        "C-11486",
+        "C-11488"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson who interviewed Vance and whom the host says was sidelined.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11444",
+        "C-11445",
+        "C-11450"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-19",
+      "ref": "N-19",
+      "name": "Laine Schoneberger",
+      "type": "person",
+      "description": "Wi-Fi company speaker whose thanks to Erika the host reads as a backstage cue.",
+      "related_artifacts": [
+        "A-3136",
+        "A-3136.1"
+      ],
+      "related_claims": [
+        "C-11443"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-28",
+      "ref": "N-28",
+      "name": "Mitt Romney",
+      "type": "person",
+      "description": "Mitt Romney, founder of Bain Capital; the host links its early funding to Robert Maxwell.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11437",
+        "C-11473",
+        "C-11474"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-33",
+      "ref": "N-33",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Donald Trump Jr.; the host says his fiancee's bridal shower is why Erika was in Palm Beach.",
+      "related_artifacts": [
+        "A-3135.1"
+      ],
+      "related_claims": [
+        "C-11438",
+        "C-11440",
+        "C-11444",
+        "C-11487"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu (called Bebe in the transcript); the host says he commented too soon on the shooting and ties him to Maxwell and Romney.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11458",
+        "C-11474"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Defendant; the host discusses the ATF summary on his rifle.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11475",
+        "C-11476",
+        "C-11477",
+        "C-11478",
+        "C-11479"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-47",
+      "ref": "N-47",
+      "name": "Ghislaine Maxwell",
+      "type": "person",
+      "description": "Ghislaine Maxwell; daughter of Robert Maxwell in the Bain Capital and Epstein discussion.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11471",
+        "C-11473"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-54",
+      "ref": "N-54",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Lance Twiggs; the host theorizes he is a federal asset who obtained the rifle and casings.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11476",
+        "C-11477"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Village Crazy Lady",
+      "type": "person",
+      "description": "Village Crazy Lady (Mel on X); the host cites her theory that the cancellation was meant to hurt Vance.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11489"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Ben Shapiro; a viewer says he blamed the host for threats against Erika.",
+      "related_artifacts": [
+        "A-3137",
+        "A-3137.1",
+        "A-3137.2"
+      ],
+      "related_claims": [
+        "C-11482",
+        "C-11483",
+        "C-11484",
+        "C-11485",
+        "C-11486",
+        "C-11488"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-242",
+      "ref": "N-242",
+      "name": "Glenn Beck",
+      "type": "person",
+      "description": "Glenn Beck; commenters cited his post that Charlie was stable.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11454"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-276",
+      "ref": "N-276",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Dan Flood; the host and a viewer comment criticize his security conduct and reported raise.",
+      "related_artifacts": [
+        "A-3137",
+        "A-3137.1",
+        "A-3137.2"
+      ],
+      "related_claims": [
+        "C-11482",
+        "C-11483",
+        "C-11484",
+        "C-11485",
+        "C-11486",
+        "C-11488"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-284",
+      "ref": "N-284",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Bari Weiss; CBS News run under her carried the Secret Service report.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11437"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-350",
+      "ref": "N-350",
+      "name": "Eileen Marx",
+      "type": "person",
+      "description": "Eileen Marx; wife Marx wants to bring to an interview.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11463"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-355",
+      "ref": "N-355",
+      "name": "Amir Safari",
+      "type": "person",
+      "description": "Amir Safadi (also Sarfati); viewer tip that he heard of the shooting first.",
+      "related_artifacts": [
+        "A-3134",
+        "A-3134.1"
+      ],
+      "related_claims": [
+        "C-11460",
+        "C-11461"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-512",
+      "ref": "N-512",
+      "name": "Victor Ostrovsky",
+      "type": "person",
+      "description": "Victor Ostrovsky; former Mossad officer whose claims about Epstein the host relays.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11471",
+        "C-11472"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-608",
+      "ref": "N-608",
+      "name": "Druski",
+      "type": "person",
+      "description": "Druski; comedian whose video mocking Erika is cited as a factor in the cancellation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11451",
+        "C-11487"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-662",
+      "ref": "N-662",
+      "name": "Marco Rubio",
+      "type": "person",
+      "description": "Marco Rubio; a commenter says donors have chosen him for 2028.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11489"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-674",
+      "ref": "N-674",
+      "name": "Ivanka Trump",
+      "type": "person",
+      "description": "Ivanka Trump; the host says she attended the bridal shower.",
+      "related_artifacts": [
+        "A-3135.1"
+      ],
+      "related_claims": [
+        "C-11440"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-722",
+      "ref": "N-722",
+      "name": "John F. Kennedy",
+      "type": "person",
+      "description": "John F. Kennedy; the host compares prosecution tactics to those after his killing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11480"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [
+        "A-3137.1"
+      ],
+      "related_claims": [
+        "C-11450",
+        "C-11484"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10023",
+      "ref": "N-10023",
+      "name": "Epstein Israeli Intelligence Asset Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11471",
+        "C-11472"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10070",
+      "ref": "N-10070",
+      "name": "Daily Mail",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11451",
+        "C-11452",
+        "C-11453"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10110",
+      "ref": "N-10110",
+      "name": "Tyler Robinson Evidence Gaps",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11475",
+        "C-11479"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10237",
+      "ref": "N-10237",
+      "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [
+        "A-3137.2"
+      ],
+      "related_claims": [
+        "C-11488"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10340",
+      "ref": "N-10340",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [
+        "A-3137.1"
+      ],
+      "related_claims": [
+        "C-11485"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10443",
+      "ref": "N-10443",
+      "name": "TPUSA Post-Assassination Leadership Tone/Timing Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11453"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10539",
+      "ref": "N-10539",
+      "name": "Charlie Kirk Iran War Opposition (June 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11481"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10574",
+      "ref": "N-10574",
+      "name": "Romney–Netanyahu–Utah Connection Network",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11474"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10598",
+      "ref": "N-10598",
+      "name": "Lance Twiggs Federal Asset Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11476",
+        "C-11477"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10600",
+      "ref": "N-10600",
+      "name": "Victor Marx 51% Fold AR Acquisition Attempt",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11468"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10601",
+      "ref": "N-10601",
+      "name": "Victor Marx IDF 50,000 Guns Request",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11465"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10602",
+      "ref": "N-10602",
+      "name": "Victor Marx Haiti Mission and Arms Request",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11466"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10607",
+      "ref": "N-10607",
+      "name": "UGA No-Show Security Threat Explanation Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11445"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10608",
+      "ref": "N-10608",
+      "name": "TPUSA UGA Event Crowd-Size Failure",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11452",
+        "C-11490",
+        "C-11491"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10613",
+      "ref": "N-10613",
+      "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11462",
+        "C-11463",
+        "C-11464",
+        "C-11470"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10646",
+      "ref": "N-10646",
+      "name": "TPUSA Rooftop Security Decision-Making Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [
+        "A-3137.1"
+      ],
+      "related_claims": [
+        "C-11484"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10694",
+      "ref": "N-10694",
+      "name": "Dan Flood Role and Behavior Assessment",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [
+        "A-3137.1"
+      ],
+      "related_claims": [
+        "C-11482",
+        "C-11483",
+        "C-11486"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10956",
+      "ref": "N-10956",
+      "name": "Catholics for Catholics",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11448"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11054",
+      "ref": "N-11054",
+      "name": "Bomb Dog Deployment at the Crime Scene",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11477"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11128",
+      "ref": "N-11128",
+      "name": "US and Israel Iran War Betrayal Thesis",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11481"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11182",
+      "ref": "N-11182",
+      "name": "TPUSA Crisis PR Team",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11450"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-906",
+      "ref": "N-906",
+      "name": "Bettina Anderson",
+      "type": "person",
+      "description": "First named by the host at 00:07:27 in episode 93 as Bettina, soon-to-be Trump, whose bridal shower Erika attended.",
+      "related_artifacts": [
+        "A-3135",
+        "A-3135.1"
+      ],
+      "related_claims": [
+        "C-11440"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-908",
+      "ref": "N-908",
+      "name": "Adnan Khashoggi",
+      "type": "person",
+      "description": "First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was initially brought in to deal with, per Ostrovsky.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11472"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1017,7 +2224,1501 @@
       "claim_timestamp": "00:42:19–00:43:08",
       "investigative_direction": "Obtain canine unit deployment records, ATF chain-of-custody documentation, and any residue-testing results for the recovered rifle.",
       "mentions_person_refs": []
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11436",
+      "ref": "C-11436",
+      "label": "Host Says Marx Later Deleted His Death-Announcement Post",
+      "claim": "The host says Victor Marx's early post announcing Charlie Kirk's death was later deleted, after he had left it up for quite a long time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:40",
+      "investigative_direction": "Archive captures (Wayback, screenshots with timestamps) of the post and its deletion time; ask Marx when and why it was removed.",
+      "transcript_snippet": "In a post that he subsequently deleted, he left it up actually for quite a long time",
+      "mentions_person_refs": [
+        "N-348",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11437",
+      "ref": "C-11437",
+      "label": "CBS Article Says Hostile Messages Were Not an Actionable Threat Stream",
+      "claim": "The host reads CBS News reporting that Erika Kirk may have received hostile messages, including on social media, but that these were not part of any identified or actionable threat stream monitored by federal authorities.",
+      "anchored_artifacts": [
+        "A-1981.1"
+      ],
+      "related_nodes": [
+        "N-10617",
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:09",
+      "investigative_direction": "Obtain the full CBS article and Secret Service on-record statement; ask TPUSA to produce the threat messages it relied on.",
+      "transcript_snippet": "Now, while Kirk may have received hostile messages including on social media, those were not part of any identified or actionable threat stream that was monitored by federal authorities.",
+      "supports_claim_refs": [
+        "C-2744"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-284",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11438",
+      "ref": "C-11438",
+      "label": "Host Says She Learned From a Tip and Coleman That Erika Was Already in Georgia",
+      "claim": "The host says that after watching Baron Coleman's show and receiving a tip she concluded Erika Kirk was already in Georgia when she canceled, rather than in Scottsdale as the host had assumed.",
+      "anchored_artifacts": [
+        "A-1982.1"
+      ],
+      "related_nodes": [
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:17",
+      "investigative_direction": "Identify the tipster and obtain flight-tracking and airport records placing Erika's aircraft in Athens.",
+      "transcript_snippet": "we received a tip that Erika was indeed in Georgia already",
+      "supports_claim_refs": [
+        "C-2745"
+      ],
+      "mentions_person_refs": [
+        "N-337",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11439",
+      "ref": "C-11439",
+      "label": "Host Says Federal Teams Sweep Venues and Airports 48 Hours Before a VP Visit",
+      "claim": "The host says that at least 48 hours before the Vice President or President arrives, the airports and venue are swept and secured and advance personnel are sent ahead, so there was in her view no chance of a viable threat to Erika's travel in Georgia.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:21",
+      "investigative_direction": "Obtain Secret Service advance-team protocol for the Athens stop and any public statement on when the airport and venue were secured.",
+      "transcript_snippet": "at least 48 hours before he arrives the airports the venue in which he is going to fly into everything is going to be swept and secured.",
+      "mentions_person_refs": [
+        "N-4",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11440",
+      "ref": "C-11440",
+      "label": "Host Says Erika Flew to Palm Beach for Bettina's Bridal Shower and Stayed Through Monday",
+      "claim": "The host says Erika Kirk flew into Palm Beach on Saturday evening for Bettina's bridal shower on Sunday, that Bettina is engaged to Donald Trump Jr., that Ivanka Trump and her daughter attended, and that Erika stayed in Palm Beach on Monday.",
+      "anchored_artifacts": [
+        "A-3135.1"
+      ],
+      "related_nodes": [
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:27",
+      "investigative_direction": "Obtain the photos and event coverage of the shower and flight records for the Saturday arrival into Palm Beach.",
+      "transcript_snippet": "Erika Kirk flew into Palm Beach because she was attending Bettina's bridal shower which took place on Sunday.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-906",
+        "N-33",
+        "N-674"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11441",
+      "ref": "C-11441",
+      "label": "Host Says Erika Flew Into the Same Secured Private Terminal as the Vice President",
+      "claim": "The host says that on Tuesday Erika flew from West Palm Beach to Athens, Georgia, landing at the private airport and terminal that the federal government had already secured days earlier and that the Vice President was due to use.",
+      "anchored_artifacts": [
+        "A-1982.1"
+      ],
+      "related_nodes": [
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:27",
+      "investigative_direction": "Obtain airport FBO and Secret Service records showing which terminal each aircraft used at Athens-Ben Epps.",
+      "transcript_snippet": "she therefore flew into the already secured by the Secret Service, the federal government had already secured this days earlier, the private airport and the terminal, the very same one that the vice president was due to arrive in",
+      "supports_claim_refs": [
+        "C-2745"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11442",
+      "ref": "C-11442",
+      "label": "Host Says Vance Took the Call About Erika at 3:53 While His Plane Circled",
+      "claim": "The host says J.D. Vance's plane began circling over North Carolina at 3:53 p.m. because that is when he received a call that Erika did not want to do the event, and she assumes Erika called him personally.",
+      "anchored_artifacts": [
+        "A-1982.2"
+      ],
+      "related_nodes": [
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:44",
+      "investigative_direction": "Cross-check ADS-B tracks of the Vance aircraft with Vance's phone and schedule records; ask the Vice President's office when he learned Erika might not appear.",
+      "transcript_snippet": "At 3:53 p. m., J. D. Vance's plane begins circling in the air above North Carolina because this is when he receives the phone call that Erika doesn't want to do the event.",
+      "supports_claim_refs": [
+        "C-2746"
+      ],
+      "mentions_person_refs": [
+        "N-4",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11443",
+      "ref": "C-11443",
+      "label": "Host Says Erika Was Off Stage Left as Schoneberger Thanked Her at 5:00",
+      "claim": "The host says the Wi-Fi speaker opened the event at 5:00 p.m., thanked Erika on stage and looked to the left, which she reads as a sign Erika was off stage at that time.",
+      "anchored_artifacts": [
+        "A-3136.1"
+      ],
+      "related_nodes": [
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:45",
+      "investigative_direction": "Obtain full event video showing the opening remarks and any backstage or green-room access logs.",
+      "transcript_snippet": "he opened this event at 5:00 p. m. And it looks certainly like he acknowledges Erika on stage and looks to the left.",
+      "mentions_person_refs": [
+        "N-19",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11444",
+      "ref": "C-11444",
+      "label": "Host Says Erika Was Backstage and Coleman Noted Kolvet's Casual Dress",
+      "claim": "The host says she agrees with Baron Coleman that Erika was in the building backstage, and says Coleman pointed out that Andrew Kolvet was dressed too casually to interview the Vice President, which she takes as a sign the change was last-minute.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:46",
+      "investigative_direction": "Obtain event photos and video of Kolvet's attire and any staffer accounts of where Erika was between 2:40 and 6:39.",
+      "transcript_snippet": "I am with Baron on this. She was in the building and she was backstage where people could not see her.",
+      "supports_claim_refs": [
+        "C-2745"
+      ],
+      "mentions_person_refs": [
+        "N-337",
+        "N-14",
+        "N-2",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11445",
+      "ref": "C-11445",
+      "label": "Vance Said on Stage That Erika Had Received Some Threats",
+      "claim": "J.D. Vance says on stage that he loves Erika and knows she got some threats.",
+      "anchored_artifacts": [
+        "A-1983"
+      ],
+      "related_nodes": [
+        "N-10616",
+        "N-10607"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:54",
+      "investigative_direction": "Ask the Vice President's office what threat information he was given and by whom.",
+      "transcript_snippet": "Well, first of all, I love Erika and I know that she did get some threats and, you know, about 2 hours ago, as you know, Andrew,",
+      "mentions_person_refs": [
+        "N-4",
+        "N-2",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11446",
+      "ref": "C-11446",
+      "label": "Vance Said He Spoke to the Secret Service and Let Erika Do What She Needed",
+      "claim": "J.D. Vance says on stage that he talked to the Secret Service, who do a very good job, and told them to let Erika do what she needs to do for herself and her family.",
+      "anchored_artifacts": [
+        "A-1983"
+      ],
+      "related_nodes": [
+        "N-10616",
+        "N-10617"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:54",
+      "investigative_direction": "Obtain the full Vance remarks and ask the Secret Service whether it advised on Erika's cancellation.",
+      "transcript_snippet": "I talked to the Secret Service and obviously these guys do a very good job and I said, \"You know what? Let's let Erika do what she needs to do for herself and her family.\"",
+      "supports_claim_refs": [
+        "C-2747"
+      ],
+      "mentions_person_refs": [
+        "N-4",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11447",
+      "ref": "C-11447",
+      "label": "Host Says Erika Left Athens for Scottsdale at 6:39 p.m.",
+      "claim": "The host says Erika did not leave Athens until 6:39 p.m. and then headed back to Scottsdale.",
+      "anchored_artifacts": [
+        "A-1982.1"
+      ],
+      "related_nodes": [
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:49",
+      "investigative_direction": "Pull flight-tracking records of the Erika aircraft departing Athens and its destination.",
+      "transcript_snippet": "She departed Athens and she headed back for Scottsdale.",
+      "supports_claim_refs": [
+        "C-2745"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11448",
+      "ref": "C-11448",
+      "label": "Host Says Erika Phoned and Cried to Discourage Attendance at the Catholics for Catholics Event",
+      "claim": "The host says that when Erika did not want people to attend the Catholics for Catholics event where the host spoke, Erika made personal phone calls and cried on the phone.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10956"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:09",
+      "investigative_direction": "Identify the people who received the calls and obtain their accounts and any call logs or messages.",
+      "transcript_snippet": "We're literally it was a prayer. She made personal phone calls, and she cried on the phone.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11449",
+      "ref": "C-11449",
+      "label": "Host Speculates Erika Called Vance Directly and Cried",
+      "claim": "The host says she has no proof but speculates that Erika called J.D. Vance directly while his plane circled and cried on the phone, which would explain his protective tone on stage.",
+      "anchored_artifacts": [
+        "A-1982.2"
+      ],
+      "related_nodes": [
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:09",
+      "investigative_direction": "Ask Vance's office whether he spoke with Erika before the event and obtain call records.",
+      "transcript_snippet": "I think that when J. D. Vance's plane was circling, of course Erika would have called him directly.",
+      "supports_claim_refs": [
+        "C-11442"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-4",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11450",
+      "ref": "C-11450",
+      "label": "Host Says TPUSA Likely Hired a Crisis PR Person and Sidelined Kolvet",
+      "claim": "The host says it is obvious TPUSA has a crisis PR person, probably hired in the last 24 hours, and that Andrew Kolvet was made to step aside.",
+      "anchored_artifacts": [
+        "A-1991.1"
+      ],
+      "related_nodes": [
+        "N-11182",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:55",
+      "investigative_direction": "Identify any new TPUSA communications hire or agency and compare the Daily Mail insider language with TPUSA's earlier statements.",
+      "transcript_snippet": "uh they got they have some crisis PR person and Andrew was sort of made to step aside",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11451",
+      "ref": "C-11451",
+      "label": "Daily Mail Insider Says Druski Video Hurt Erika",
+      "claim": "The host reads a Daily Mail article in which a close confidant says Erika is aware of how she comes across, has seen the online comments, and was hurt by a viral comedian's video mocking her after her husband's killing.",
+      "anchored_artifacts": [
+        "A-1991.1"
+      ],
+      "related_nodes": [
+        "N-10070",
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:55",
+      "investigative_direction": "Obtain the Daily Mail article and identify the confidant; confirm the date and content of the Druski video.",
+      "transcript_snippet": "The Druski video showed her what people thought of her. She's really hurt that people are feeling this way about her, that they're mocking her.",
+      "mentions_person_refs": [
+        "N-608",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11452",
+      "ref": "C-11452",
+      "label": "Daily Mail Article Describes Host as Suggesting Low Ticket Sales",
+      "claim": "The host reads the Daily Mail passage calling her a far-right commentator who peddled conspiracy theories and who suggested Erika's no-show was due to low ticket sales.",
+      "anchored_artifacts": [
+        "A-1991.2"
+      ],
+      "related_nodes": [
+        "N-10070",
+        "N-10608"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:34",
+      "investigative_direction": "Obtain the Daily Mail article text and the earlier episode in which the host raised low ticket sales.",
+      "transcript_snippet": "Far-right commentator Candace Owens, who has peddled outlandish conspiracy theories about Charlie's death, suggested that Kirk's no-show was due to low ticket sales.",
+      "supports_claim_refs": [
+        "C-2759"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11453",
+      "ref": "C-11453",
+      "label": "Daily Mail Insider Says Erika Was Putting on a Brave Face and Was Told It Looked Bad",
+      "claim": "The host reads the Daily Mail insider saying Erika was putting on a brave face after Charlie's death, that she agrees it was a bad look, and that everyone told her so but she did it anyway.",
+      "anchored_artifacts": [
+        "A-1991.2"
+      ],
+      "related_nodes": [
+        "N-10443",
+        "N-10070"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:20",
+      "investigative_direction": "Identify the insider; collect the advice Erika reportedly received about her public appearances.",
+      "transcript_snippet": "She says that she was putting on a face, a brave face, and that's why she was doing what she was doing. I agree that it was a bad look. Everyone told her it was a bad look, but she did it anyway.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11454",
+      "ref": "C-11454",
+      "label": "Host Says Marx Also Posted a Video Announcing Death While Commenters Cited Glenn Beck's Stable Post",
+      "claim": "The host says Victor Marx also made a video announcing Charlie had died, and commenters pointed out that Glenn Beck had posted that Charlie was stable and that no one had confirmed the death.",
+      "anchored_artifacts": [
+        "A-1984.1"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:43",
+      "investigative_direction": "Locate the Marx video and comment thread and the Glenn Beck post, and compare their timestamps.",
+      "transcript_snippet": "And he did a video, and he announced that Charlie had died, and people in the comments were like, \"But Glenn Beck posted he's stable.",
+      "supports_claim_refs": [
+        "C-2748"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-242",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11455",
+      "ref": "C-11455",
+      "label": "Host Says a Tipster's Buddy Supplied the Marx Screenshots in Eastern Time",
+      "claim": "The host says the person who sent the Marx post to her team sent it in Eastern Standard Time, from screenshots that a friend had given them.",
+      "anchored_artifacts": [
+        "A-1984.1"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:43",
+      "investigative_direction": "Obtain the original screenshots with metadata and confirm the timezone conversion to 1:13 p.m. Mountain.",
+      "transcript_snippet": "the person who sent this to us, they sent it to us in Eastern Standard Time. Fortunately, they had it screenshots, their buddy sent it to them",
+      "mentions_person_refs": [
+        "N-348",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11456",
+      "ref": "C-11456",
+      "label": "Host Says Marx Posted About 50 Minutes After Charlie Was Shot",
+      "claim": "The host says Victor Marx announced Charlie's death less than an hour, about 50 minutes, after Charlie was shot, and asks who told him.",
+      "anchored_artifacts": [
+        "A-1984.1"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:01",
+      "investigative_direction": "Fix the shooting time (about 12:23 MT) against the Marx post metadata; ask Marx for his source.",
+      "transcript_snippet": "That's just 50 minutes after Charlie was shot. Who told him?",
+      "supports_claim_refs": [
+        "C-2748"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11457",
+      "ref": "C-11457",
+      "label": "Host Says Marx Posted About 1 Hour 27 Minutes Before Trump Announced Death",
+      "claim": "The host says the public did not officially learn of Charlie's death until President Trump announced it at 2:40 p.m. Mountain on X, which she computes as an hour and 27 minutes after Marx's post.",
+      "anchored_artifacts": [
+        "A-1984.1"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:01",
+      "investigative_direction": "Confirm the time of Trump's Truth Social or X announcement and the earliest confirmed public reports of death.",
+      "transcript_snippet": "So, the public didn't officially find out until President Trump announced it um at 2:40 p. m. on X.",
+      "supports_claim_refs": [
+        "C-2748"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-5",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11458",
+      "ref": "C-11458",
+      "label": "Host Says Netanyahu Commented Too Soon That Charlie Had Been Shot",
+      "claim": "The host says that, like Marx, Bibi Netanyahu knew a little too soon that Charlie had been shot and commented just before the President of the United States.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:01",
+      "investigative_direction": "Retrieve the time of Netanyahu's statement or post about the shooting and compare it with the first official US confirmation.",
+      "transcript_snippet": "it's kind of like how Bebe knew a little too soon that he had been shot, commented too soon just before the President of the United States",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11459",
+      "ref": "C-11459",
+      "label": "Host Says Marx's Post Time Should Be When Erika Learned Charlie Died",
+      "claim": "The host says 1:13 p.m. should be when Erika found out, after she got off the phone with the doctor, and that it is almost as though Marx knew along with Erika.",
+      "anchored_artifacts": [
+        "A-1984.1"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:01",
+      "investigative_direction": "Obtain Erika's call logs and the hospital timeline for when she was told, and compare against the Marx post time.",
+      "transcript_snippet": "That should be when Erika found out, when she got off the phone with the doctor about.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-348"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11460",
+      "ref": "C-11460",
+      "label": "Host Asks Viewers to Email Tips on Amir Safadi to More Tips Address",
+      "claim": "The host asks viewers who have evidence that Amir Safadi or Sarfati heard of the shooting first to email it to moretips@candaceowens.com so it can be plotted on the timeline.",
+      "anchored_artifacts": [
+        "A-3134.1"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:57",
+      "investigative_direction": "Receive and verify any tip about Safadi or Sarfati; plot it on the minute-by-minute timeline.",
+      "transcript_snippet": "but if it is, please do send us an email to more tips@candaceowens. com.",
+      "supports_claim_refs": [
+        "C-2760"
+      ],
+      "mentions_person_refs": [
+        "N-355",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11461",
+      "ref": "C-11461",
+      "label": "Host Says Amir Safadi Is Involved With Churches and Pastors and She Thinks Is in the IDF",
+      "claim": "The host says Amir Safadi (or Sarfati) is very involved with churches and pastors alongside these figures, and that she thinks he is in the IDF.",
+      "anchored_artifacts": [
+        "A-1992"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:57",
+      "investigative_direction": "Verify who Amir Safadi or Sarfati is, his church roles and any IDF service, from public records and the tipster.",
+      "transcript_snippet": "That would be interesting cuz I think he is in the IDF.",
+      "supports_claim_refs": [
+        "C-2760"
+      ],
+      "mentions_person_refs": [
+        "N-355",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11462",
+      "ref": "C-11462",
+      "label": "Host Says Marx Has Not Answered Her Messages Despite Media Appearances",
+      "claim": "The host says Victor Marx still has not answered her messages even though he went on a press round almost immediately.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10613"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:28",
+      "investigative_direction": "Preserve the host's message records to Marx and any reply; ask Marx's representatives to confirm.",
+      "transcript_snippet": "Victor Marx still has not answered my messages, by the way, despite doing the rounds in the press almost immediately.",
+      "supports_claim_refs": [
+        "C-2736"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11463",
+      "ref": "C-11463",
+      "label": "Host Says Marx Wants to Bring His Wife Eileen but Not Corby Hall",
+      "claim": "The host says Marx claims to be willing to sit down with her but wants to bring his wife Eileen and does not want Corby Hall present.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10613"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:28",
+      "investigative_direction": "Obtain the message or public statement in which Marx set these conditions.",
+      "transcript_snippet": "one of the conditions is that he wants to be able to bring his wife, Eileen, but he does not want Corby Hall to be present",
+      "supports_claim_refs": [
+        "C-2735"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-350",
+        "N-349",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11464",
+      "ref": "C-11464",
+      "label": "Marx Says in Interview Corby Was Depressed and He Taught Him to Punch",
+      "claim": "In the interview clip, Victor Marx says Corby Hall was super depressed, that he walked him around the training facility for hours, and that he took Corby into the training center and taught him how to punch on a bag.",
+      "anchored_artifacts": [
+        "A-1987.1"
+      ],
+      "related_nodes": [
+        "N-10613"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:20",
+      "investigative_direction": "Locate the full interview and compare with Corby Hall's account of the visit.",
+      "transcript_snippet": "I ended up taking him into the training center and teaching him how to punch",
+      "supports_claim_refs": [
+        "C-2750"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-349"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11465",
+      "ref": "C-11465",
+      "label": "Host Says Corby Asserted Marx Wanted Guns Sold in Israel",
+      "claim": "The host says Corby Hall asserted that Victor Marx wanted guns sold in Israel and never said such a sale would be illegal.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10601"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:57",
+      "investigative_direction": "Obtain Corby Hall's full account and any documents showing the Israel sale request.",
+      "transcript_snippet": "Corby asserted that Victor Marx wanted guns sold in Israel.",
+      "mentions_person_refs": [
+        "N-349",
+        "N-348"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11466",
+      "ref": "C-11466",
+      "label": "Host Says Corby Declined and Cautioned Marx Against a Haitian Arms Deal as Illegal",
+      "claim": "The host says Corby Hall asserted that the Haitian arms deal would have been illegal, and that he declined and cautioned Marx against it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10602"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:57",
+      "investigative_direction": "Obtain Corby Hall's account and any written exchange about Haiti; ask federal export-control authorities whether any inquiry exists.",
+      "transcript_snippet": "He asserted that the Haitian arms deal would have been illegal since you are not allowed to do those sorts of transactions with Haiti.",
+      "mentions_person_refs": [
+        "N-349",
+        "N-348"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11467",
+      "ref": "C-11467",
+      "label": "Marx Text Says the State of Colorado Might Want to Know Who Corby Is",
+      "claim": "In the message the host reads, Victor Marx tells Corby he does not know all of who Marx is and adds that the state of Colorado might want to know all of who Corby is.",
+      "anchored_artifacts": [
+        "A-1988.1"
+      ],
+      "related_nodes": [
+        "N-10618"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:10",
+      "investigative_direction": "Authenticate the message with full thread metadata; ask Marx whether he sent it.",
+      "transcript_snippet": "I think the state of Colorado might want to know all of who you are.",
+      "supports_claim_refs": [
+        "C-2752"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-349"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11468",
+      "ref": "C-11468",
+      "label": "Marx Text Reply Says Corby Will Get a Paycheck for the Patent, Not Sell Units to the IDF",
+      "claim": "In the message the host reads, Marx replies that Corby will not be sending 1,000 units to anyone in the IDF and instead will get a paycheck for the patent and possibly his company and move on.",
+      "anchored_artifacts": [
+        "A-1988.3"
+      ],
+      "related_nodes": [
+        "N-10618",
+        "N-10600"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:17",
+      "investigative_direction": "Authenticate the thread; obtain any term sheet or patent-purchase offers connected to Fold AR.",
+      "transcript_snippet": "You won't be sending 1,000 units to anyone in the IDF. You will get a paycheck for the patent and possibly your company and then on to your next adventure.",
+      "supports_claim_refs": [
+        "C-2752"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-349"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11469",
+      "ref": "C-11469",
+      "label": "Host Says Marx Knew of Charlie's Death Before Anyone Else Alongside Erika",
+      "claim": "The host says she wants to ask Marx how he knew, before anybody else and virtually at the same time as Erika Kirk, that Charlie Kirk had died.",
+      "anchored_artifacts": [
+        "A-1984.1"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:02",
+      "investigative_direction": "Establish Marx's source through his own statement, call logs or the people who contacted him on September 10.",
+      "transcript_snippet": "How he knew, initially, before anybody else, virtually at the same time as Erika Kirk, that Charlie Kirk had died.",
+      "supports_claim_refs": [
+        "C-2748"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11470",
+      "ref": "C-11470",
+      "label": "Host Offers to Host Marx Alone if He Refuses to Sit With Corby",
+      "claim": "The host says that if Marx will not agree to sit with Corby Hall she is happy to have Marx alone one-on-one, and she would also host his wife.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10613"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:02",
+      "investigative_direction": "Track whether Marx accepts any of the offered formats.",
+      "transcript_snippet": "Otherwise, I am happy to have just Victor on my show alone one-on-one.",
+      "supports_claim_refs": [
+        "C-2735"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-349",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11471",
+      "ref": "C-11471",
+      "label": "Host Says Former Mossad Agent Claims Robert Maxwell Brought Epstein and Ghislaine Together",
+      "claim": "The host says that, if the former Mossad agent is to be believed, Robert Maxwell brought Jeffrey Epstein together with Ghislaine Maxwell and got Epstein involved in arms trafficking first.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10023"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:19",
+      "investigative_direction": "Identify which former Mossad officer made the claim and where, and test it against Epstein and Maxwell records.",
+      "transcript_snippet": "he's the one who brought Epstein together with Ghislaine, got him involved in arms trafficking first.",
+      "mentions_person_refs": [
+        "N-48",
+        "N-9",
+        "N-47",
+        "N-512"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11472",
+      "ref": "C-11472",
+      "label": "Host Says Ostrovsky Said Epstein Was Brought In Over Iran-Contra and Khashoggi",
+      "claim": "The host says Victor Ostrovsky said the same thing, that Epstein was initially brought in on the Iran-Contra deal in the 1980s, dealing with Adnan Khashoggi, and that it was later turned into a blackmail ring.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10023"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:19",
+      "investigative_direction": "Locate the Ostrovsky statement or interview and compare it with documented Epstein and Khashoggi dealings.",
+      "transcript_snippet": "He was initially brought in regarding the Iran-Contra deal in the '80s.",
+      "supports_claim_refs": [
+        "C-8207"
+      ],
+      "mentions_person_refs": [
+        "N-512",
+        "N-9",
+        "N-908"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11473",
+      "ref": "C-11473",
+      "label": "Host Says Robert Maxwell Was an Early Investor in Bain Capital With Seed Money",
+      "claim": "The host says Robert Maxwell, Ghislaine's father, was one of the early investors in Mitt Romney's Bain Capital and that the company was started with his seed money.",
+      "anchored_artifacts": [
+        "A-1989"
+      ],
+      "related_nodes": [
+        "N-10619"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:19",
+      "investigative_direction": "Retrieve the 2012 Los Angeles Times article and Bain Capital early-investor records.",
+      "transcript_snippet": "Robert Maxwell, Ghislaine's father, uh was one of the early investors into Bain Capital, Mitt Romney's company.",
+      "supports_claim_refs": [
+        "C-2754"
+      ],
+      "mentions_person_refs": [
+        "N-48",
+        "N-47",
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11474",
+      "ref": "C-11474",
+      "label": "Host Says Maxwell Was Then Best Friends With Netanyahu and Romney and Netanyahu Were at BCG",
+      "claim": "The host says Robert Maxwell was best friends at that time with Netanyahu and that Mitt Romney and Netanyahu were at Boston Consulting Group while Romney was struggling to raise money for Bain Capital.",
+      "anchored_artifacts": [
+        "A-1989"
+      ],
+      "related_nodes": [
+        "N-10619",
+        "N-10574"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:19",
+      "investigative_direction": "Check biographical records on whether Netanyahu and Romney overlapped at BCG and on documented Maxwell-Netanyahu ties.",
+      "transcript_snippet": "And then he's best friends at this time with Netanyahu? Mitt Romney, they're at Boston Consulting Group",
+      "mentions_person_refs": [
+        "N-48",
+        "N-36",
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11475",
+      "ref": "C-11475",
+      "label": "Host Says No Proof the Robinson Rifle Was Fired on September 10",
+      "claim": "The host says prosecutors have not yet proven that Tyler Robinson's weapon was even fired on September 10th.",
+      "anchored_artifacts": [
+        "A-1990"
+      ],
+      "related_nodes": [
+        "N-10621",
+        "N-10110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:38",
+      "investigative_direction": "Review the ATF and state lab disclosures for residue, bore and swab testing of the rifle and of Robinson.",
+      "transcript_snippet": "They have not yet proven that Tyler Robinson's weapon was even fired on September 10th.",
+      "supports_claim_refs": [
+        "C-2763"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11476",
+      "ref": "C-11476",
+      "label": "Host Theorizes Lance Twiggs Is a Federal Asset Who Obtained Robinson's Gun and Casings",
+      "claim": "The host says she believes Lance Twiggs is far more involved, is a federal asset, and as Robinson's roommate obtained Tyler Robinson's gun and casings earlier.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10598"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:19",
+      "investigative_direction": "Obtain Twiggs' statements, devices and any informant or agency relationship records; test through discovery.",
+      "transcript_snippet": "Lance Twiggs is way more involved. I believe he's a federal asset. I believe as his roommate, he got Tyler Robinson's gun.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11477",
+      "ref": "C-11477",
+      "label": "Host Theorizes the Rifle Was Dropped Off the Day Before or on September 10",
+      "claim": "The host says she believes the gun was dropped off, maybe the day before or on September 10th, and then found, which is why bomb dogs did not detect it as recently fired.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11054",
+        "N-10621",
+        "N-10598"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:19",
+      "investigative_direction": "Establish the rifle's chain of custody and location in the days before September 10; obtain bomb dog deployment records.",
+      "transcript_snippet": "maybe the day before or on September 10th, that gun was dropped off and then it was found.",
+      "supports_claim_refs": [
+        "C-2763"
+      ],
+      "mentions_person_refs": [
+        "N-54",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11478",
+      "ref": "C-11478",
+      "label": "Host Says the ATF Summary Only Confirms What the Defense Filing Described",
+      "claim": "The host says the ATF summary verifies exactly what the defense laid out in its filing: that all the defense received was a summary report listing what was examined.",
+      "anchored_artifacts": [
+        "A-1990"
+      ],
+      "related_nodes": [
+        "N-10620"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:08",
+      "investigative_direction": "Compare the defense filing with the ATF summary text and any discovery cover letters.",
+      "transcript_snippet": "it just basically verifies exactly what the defense laid out in their filing, that all they got was this. They got a summary report",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11479",
+      "ref": "C-11479",
+      "label": "Host Says Rifle Had Robinson's Prints and Six Other Sets",
+      "claim": "The host says the rifle had Robinson's prints and also six sets of other prints, and asks whose they are.",
+      "anchored_artifacts": [
+        "A-1990"
+      ],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:51",
+      "investigative_direction": "Obtain the latent print examination report and the identification of each print set.",
+      "transcript_snippet": "I knew that it had his prints on it and it also had six sets of other prints.",
+      "supports_claim_refs": [
+        "C-1283"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11480",
+      "ref": "C-11480",
+      "label": "Host Says Prosecutors Are Reviving Old FBI Tactics From After JFK",
+      "claim": "The host says the government wants to bring back old FBI tactics first put in place after JFK was shot, because they lied about that as well, and that microscopic comparison is part of this.",
+      "anchored_artifacts": [
+        "A-1990"
+      ],
+      "related_nodes": [
+        "N-10620"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:37",
+      "investigative_direction": "Identify which comparison techniques the host means and any published validation or challenges to them.",
+      "transcript_snippet": "They want to bring back old FBI tactics that were first put in place after JFK was shot because they lied about that as well.",
+      "mentions_person_refs": [
+        "N-722",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11481",
+      "ref": "C-11481",
+      "label": "Host Says Charlie Kirk Was Removed as a Barrier to the Iranian War",
+      "claim": "The host says it is her opinion that the government and foreign governments were involved in the assassination and that Charlie Kirk was removed as a barrier to the Iranian war.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128",
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:37",
+      "investigative_direction": "Establish Kirk's documented position on Iran and who inside the administration or its backers objected to it.",
+      "transcript_snippet": "and that Charlie Kirk was removed as a barrier to the Iranian war.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11482",
+      "ref": "C-11482",
+      "label": "Host Says Dan Flood Did Not Even Do a Walk-Through",
+      "claim": "The host says that, as she is told by her sources, Dan Flood did not even do a walk-through after he failed to protect Charlie.",
+      "anchored_artifacts": [
+        "A-3137.1"
+      ],
+      "related_nodes": [
+        "N-10694"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:20",
+      "investigative_direction": "Obtain Flood's advance-work records and the accounts of UVU and TPUSA staff about any site walk-through.",
+      "transcript_snippet": "after he failed um to protect Charlie, didn't even as I am told from our sources, did not even do a walk-through.",
+      "supports_claim_refs": [
+        "C-5034"
+      ],
+      "mentions_person_refs": [
+        "N-276",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11483",
+      "ref": "C-11483",
+      "label": "Host Says Flood Only Cared About a Clean Exit Behind Charlie",
+      "claim": "The host says that in the lead-up to the event, all Dan Flood cared about was ensuring a clean exit behind Charlie.",
+      "anchored_artifacts": [
+        "A-3137.1"
+      ],
+      "related_nodes": [
+        "N-10694"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:20",
+      "investigative_direction": "Obtain the event security plan and the vehicle staging and exit route documents.",
+      "transcript_snippet": "All he cared about in the lead-up to that was ensuring that they had a clean exit behind Charlie.",
+      "supports_claim_refs": [
+        "C-5035"
+      ],
+      "mentions_person_refs": [
+        "N-276",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11484",
+      "ref": "C-11484",
+      "label": "Host Says TPUSA Ignored the School's Concerns About an Uncontrolled Traffic Area",
+      "claim": "The host says TPUSA ignored the security concerns expressed by the school that the event should not be held in an uncontrolled traffic area, and put Charlie there like a sitting duck.",
+      "anchored_artifacts": [
+        "A-3137.1"
+      ],
+      "related_nodes": [
+        "N-10646",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:20",
+      "investigative_direction": "Obtain UVU and campus police correspondence on the site selection and any security recommendations.",
+      "transcript_snippet": "They ignored the security concerns that were expressed by the school.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11485",
+      "ref": "C-11485",
+      "label": "Host Says Charlie's Messages That They Were Going to Kill Him Went to Flood",
+      "claim": "The host, answering a top viewer comment, says Dan Flood was receiving Charlie's messages saying they were going to kill him.",
+      "anchored_artifacts": [
+        "A-3137.1"
+      ],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:20",
+      "investigative_direction": "Obtain the night-before text thread from Kirk's or Flood's phone.",
+      "transcript_snippet": "They were receiving his messages. Dan Flood was receiving his messages",
+      "supports_claim_refs": [
+        "C-5550"
+      ],
+      "mentions_person_refs": [
+        "N-276",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11486",
+      "ref": "C-11486",
+      "label": "Host Says Erika Offered Dan Flood a Bonus and a Raise",
+      "claim": "The host says Dan Flood was offered a bonus and a raise by Erika after Charlie's death.",
+      "anchored_artifacts": [
+        "A-3137.1"
+      ],
+      "related_nodes": [
+        "N-10694"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:20",
+      "investigative_direction": "Obtain TPUSA compensation and payroll records for Flood and the date the bonus or raise was offered.",
+      "transcript_snippet": "Dan Dan Flood gets offered a bonus and a raise from Erika.",
+      "supports_claim_refs": [
+        "C-5494"
+      ],
+      "mentions_person_refs": [
+        "N-276",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11487",
+      "ref": "C-11487",
+      "label": "Host Says Coleman Said Erika Canceled Because of Druski",
+      "claim": "The host says Baron Coleman said on his show that Erika canceled the appearance because of Druski, since everyone was saying this is what the world thinks of her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:57",
+      "investigative_direction": "Review Coleman's broadcast and the Druski video timeline against the cancellation.",
+      "transcript_snippet": "It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Drewski.",
+      "mentions_person_refs": [
+        "N-337",
+        "N-608",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11488",
+      "ref": "C-11488",
+      "label": "Commenter Says Ben Shapiro Blamed the Host and Her Viewers for Threats Against Erika",
+      "claim": "The host reads a viewer comment saying Ben Shapiro blamed the host and her viewers for the threats against Erika; she does not confirm it.",
+      "anchored_artifacts": [
+        "A-3137.2"
+      ],
+      "related_nodes": [
+        "N-10237"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:02",
+      "investigative_direction": "Find the Shapiro statement the commenter refers to and confirm its wording and date.",
+      "transcript_snippet": "James the least writes, I saw Ben Shapiro blaming you and your viewers for the threats against Erika.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11489",
+      "ref": "C-11489",
+      "label": "Host Says Village Crazy Lady Thinks They Were Trying to Make Vance Look Bad",
+      "claim": "The host says Village Crazy Lady believes the episode was an attempt to make J.D. Vance look bad, and the host says she thinks Erika would dump him without question.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:42",
+      "investigative_direction": "Review the Village Crazy Lady posts and any donor reporting on 2028 preferences.",
+      "transcript_snippet": "Village Crazy Lady is her handle, and she thinks that that they were trying to make J. D. Vance look bad.",
+      "mentions_person_refs": [
+        "N-66",
+        "N-4",
+        "N-2",
+        "N-662"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11490",
+      "ref": "C-11490",
+      "label": "Host Says She Believes Ticket Sales Caused the Cancellation",
+      "claim": "The host says she truly believes the cancellation was about ticket sales, because Erika went to the venue, and that if it had been a setup she would not have boarded the plane.",
+      "anchored_artifacts": [
+        "A-1991.2"
+      ],
+      "related_nodes": [
+        "N-10608",
+        "N-10616"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:26",
+      "investigative_direction": "Obtain ticketing and attendance data for the Akins Ford Arena event.",
+      "transcript_snippet": "But, I do truly believe that it was the ticket sales last night because she went in.",
+      "supports_claim_refs": [
+        "C-2759"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11491",
+      "ref": "C-11491",
+      "label": "Host Speculates Students Were Told It Would Pay to Attend",
+      "claim": "The host speculates that TPUSA probably had students running around saying it would pay to be there, to fill the venue at the last minute.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10608"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:26",
+      "investigative_direction": "Seek student accounts of paid or incentivized attendance for the event.",
+      "transcript_snippet": "They probably had those students running around just saying like, \"It will pay you to be there.\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-49",
+      "ref": "M-49",
+      "canonical_term": "Nothing Burger",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 93,
+          "video_timestamp": "00:00:40",
+          "speaker_node_ref": "N-3",
+          "quote": "he ATF released their summary, not even really the report, and it's a nothingburger. I want you to know that it is one big nothingburger. Everythin...",
+          "context": "Later reuse of Nothing Burger in CKA seq 93.",
+          "confidence": "high",
+          "tags": [
+            "dismissal",
+            "dunk",
+            "sarcasm",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 93,
+          "video_timestamp": "00:28:57",
+          "speaker_node_ref": "N-3",
+          "quote": "please do send us an email to more tips@candaceowens. com.",
+          "context": "Host asks viewers with evidence about Amir Safadi to email the tip line so it can be plotted on the timeline.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 93,
+          "video_timestamp": "00:05:17",
+          "speaker_node_ref": "N-3",
+          "quote": "us as a society we deserve better sci-ops.",
+          "context": "Host jokes that the Georgia cancellation story shows TPUSA's sci-ops are sloppy.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "sarcasm"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 93,
+          "video_timestamp": "00:22:20",
+          "speaker_node_ref": "N-3",
+          "quote": "they are copping to the fact that they have been gaslighting us",
+          "context": "Host reacts to the Daily Mail insider article as an admission of gaslighting.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "tpusa"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-79",
+      "ref": "M-79",
+      "canonical_term": "Pass the Sniff Test",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 93,
+          "video_timestamp": "00:31:20",
+          "speaker_node_ref": "N-3",
+          "quote": "Let me know if his excuse passes the sniff test for you.",
+          "context": "Host introduces the Marx interview clip about threatening to beat Corby Hall.",
+          "confidence": "high",
+          "tags": [
+            "sniff test",
+            "marx"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-116",
+      "ref": "M-116",
+      "canonical_term": "Broken Bomb Dog Noses",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 93,
+          "video_timestamp": "00:41:38",
+          "speaker_node_ref": "N-3",
+          "quote": "Bomb dogs were brought in. They did not find that weapon, which means that it was not recently fired.",
+          "context": "Host argues the bomb dogs' failure means the rifle was not recently fired.",
+          "confidence": "high",
+          "tags": [
+            "bomb dogs",
+            "rifle"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 93,
+          "video_timestamp": "00:52:02",
+          "speaker_node_ref": "N-3",
+          "quote": "this is the guy that sits down with BBnet and Yahoo",
+          "context": "Host mocks Ben Shapiro for interviewing Netanyahu.",
+          "confidence": "high",
+          "tags": [
+            "netanyahu",
+            "shapiro"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-286",
+      "ref": "M-286",
+      "canonical_term": "I'm Getting a Microscope",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 93,
+          "video_timestamp": "00:44:37",
+          "speaker_node_ref": "N-3",
+          "quote": "just in time for me to get a microscope for my birthday",
+          "context": "Host jokes she will do her own bullet tests at home after ATF announces microscopic comparison.",
+          "confidence": "high",
+          "tags": [
+            "microscope",
+            "atf"
+          ]
+        },
+        {
+          "episode": 93,
+          "video_timestamp": "00:47:41",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm telling you guys, um I'm getting a microscope.",
+          "context": "Host repeats the bit in the comments segment.",
+          "confidence": "high",
+          "tags": [
+            "microscope",
+            "atf"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-287",
+      "ref": "M-287",
+      "canonical_term": "If I Did Do It by Erika Kirk",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 93,
+          "video_timestamp": "00:23:10",
+          "speaker_node_ref": "N-3",
+          "quote": "If I Did Do It by Erika Kirk.",
+          "context": "Host jokes Erika should release a book in the style of O.J. Simpson's If I Did It.",
+          "confidence": "high",
+          "tags": [
+            "book",
+            "joke"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-288",
+      "ref": "M-288",
+      "canonical_term": "A Face That Launched Zero Ships",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 93,
+          "video_timestamp": "00:56:41",
+          "speaker_node_ref": "N-3",
+          "quote": "It needs a face that launched zero ships.",
+          "context": "Host plugs a bumper sticker on her site.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "bumper sticker"
+          ]
+        }
+      ]
+    }
+  ]
 }

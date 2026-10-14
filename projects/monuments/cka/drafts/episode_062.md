@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 24dc527071bb4996347a4421cf2c9457ed4da7b0f003289f3d1967ed8acdf2bd
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-11176, N-11177, N-11178, N-11179, N-11180, N-11181
+  - Tip-minted Nodes (supplement_2026-10c): N-11176, N-11177, N-11178, N-11179, N-11181
   - Hole-minted Nodes (reintro-ep062): N-10869
   - Tip-minted Nodes (reintro-ep062): N-783, N-10984
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8252–C-8316
   - New Nodes Introduced: N-499, N-501, N-502, N-504, N-505, N-10438, N-10439, N-10440, N-10441, N-10442
-  - Reused Nodes Appearing: N-2, N-11, N-500, N-9, N-82, N-10000, N-10007, N-10015, N-10023, N-10026, N-10047, N-10063, N-10197, N-10209, N-10268, N-10320, N-10344, N-10398, N-10436, N-11035, N-11097, N-11080, N-11084
+  - Reused Nodes Appearing: N-2, N-11, N-500, N-9, N-82, N-10000, N-10007, N-10015, N-10023, N-10026, N-10047, N-10063, N-10197, N-10209, N-10268, N-10320, N-10344, N-10398, N-10436, N-11035, N-11097, N-11080, N-11084, N-11180
   - (see registers)
 
 # Episode Analysis: Monument Ep 62

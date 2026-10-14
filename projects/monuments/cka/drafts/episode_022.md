@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-852, N-11220, N-11221, N-11222
-  - Hole-minted Nodes (reintro-ep022): N-10207, N-10209, N-10268, N-10274, N-10277, N-10299, N-10355, N-10452, N-10454, N-10467, N-10549, N-10673, N-10849, N-10853
+  - Hole-minted Nodes (reintro-ep022): N-10207, N-10274, N-10277, N-10299, N-10355, N-10452, N-10454, N-10467, N-10549, N-10673, N-10849, N-10853
   - Tip-minted Nodes (reintro-ep022): N-11020
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9399–C-9446
   - New Nodes Introduced: N-204, N-207, N-10203, N-10204, N-10205
-  - Reused Nodes Appearing: N-205, N-208, N-2, N-36, N-40, N-50, N-68, N-82, N-203, N-10000, N-10012, N-10027, N-10028, N-10047, N-10048, N-10056, N-10070, N-10074, N-10106, N-10134, N-10148, N-10185, N-10187, N-10190, N-10202, N-10345, N-10206
+  - Reused Nodes Appearing: N-205, N-208, N-2, N-36, N-40, N-50, N-68, N-82, N-203, N-10000, N-10012, N-10027, N-10028, N-10047, N-10048, N-10056, N-10070, N-10074, N-10106, N-10134, N-10148, N-10185, N-10187, N-10190, N-10202, N-10345, N-10206, N-10209, N-10268
   - (see registers)
 
 ## I. Meta-Data

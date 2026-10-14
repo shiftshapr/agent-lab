@@ -1,0 +1,6 @@
+# Coverage notes, episode 81
+
+- Existing draft claims: 19 (C-2525 to C-2543). Beats judged covered by them: about 19 (Kent clip and Iran anecdote, Kolvet retweet, Clark, Posobiec, Loomer, Kolvet admission and refusal, 1:30 to 3:25 gap, "this just loaded", Medvin call, Aubrey firing, calendar overlay, Wyre route, Neff "that phone", Rogan CIA and pageant, Levin, Fishberger, host-Kent denial).
+- New claims added: 80. New artifacts: 3 families (second PR chat portion, Streiff text reference, Cut 16 clip). New nodes: 1 topic (N-11296). New meme minted: 4 (M-280 to M-283), plus 3 reused meme ids.
+- Most important beats missed by the earlier pass: (1) the entire tarmac-hug account, 00:15:04 to 00:18:47 (Kolvet alone on a G5/G6, collapsed into Erika's arms, wife story shift, Streiff's booking answers); (2) Kolvet's 3:19 Santa Barbara itinerary versus the chat, 00:20:22; (3) Streiff's "Your call, Andrew" and "wait until AK is on the ground" messages, 00:27:55 and 00:33:30; (4) the 2:27 staff email and the 3:49 confirm-or-deny exchange, 00:26:18 and 00:27:11; (5) the Wolicki September 5 call and the pre-assassination communication TPUSA was forced to confirm, 00:14:26 and 00:12:43.
+- DIA scan: no tips, bounty or tip-line language in this transcript, so no M-12 occurrence.

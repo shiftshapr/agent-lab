@@ -29,8 +29,8 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265
   - Claim Range: C-3236–C-3258
-  - New Nodes Introduced: N-10786, N-10787, N-10788, N-10789, N-10790
-  - Reused Nodes Appearing: N-40, N-18
+  - New Nodes Introduced: N-10786, N-10787, N-10788, N-10789
+  - Reused Nodes Appearing: N-40, N-18, N-10790
   - Existing Nodes Reused: N-1, N-2
 
 ---

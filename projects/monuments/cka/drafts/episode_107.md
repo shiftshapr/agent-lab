@@ -17,8 +17,8 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5665–C-5778
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-3, N-7, N-212, N-348, N-349, N-10601, N-10622, N-9, N-229, N-10000, N-10006, N-10026, N-10063, N-10398, N-10604, N-10605, N-10618, N-10923
-  - Hole-minted Nodes (wave1): N-350, N-351, N-352, N-353, N-354, N-355, N-356
+  - Reused Nodes Appearing: N-3, N-7, N-212, N-348, N-349, N-10601, N-10622, N-9, N-229, N-10000, N-10006, N-10026, N-10063, N-10398, N-10604, N-10605, N-10618, N-10923, N-350, N-355
+  - Hole-minted Nodes (wave1): N-351, N-352, N-353, N-354, N-356
   - Tip-minted Nodes (wave1): N-10893
   - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-3702..C-3716 and A-2505..A-2512. Persons and the topic minted into free holes are listed on the Hole-minted line (batch wave1); Victor Marx and Corby Hall were first introduced in ep92.
   - (see registers)

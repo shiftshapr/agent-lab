@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a688ac8130f98ab72ed00abef6c15223a147808ac45c1eeb54514a119ae0d0de
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-815, N-816, N-817, N-11163, N-11164, N-11165, N-11166, N-11168, N-11169, N-11170, N-11172, N-11173, N-11174, N-11175
+  - Tip-minted Nodes (supplement_2026-10c): N-815, N-816, N-817, N-11163, N-11164, N-11165, N-11166, N-11168, N-11169, N-11172, N-11173, N-11174, N-11175
   - Hole-minted Nodes (reintro-ep054): N-447, N-449, N-460, N-461, N-498, N-10411, N-10670, N-10681, N-10730, N-10739
   - Tip-minted Nodes (reintro-ep054): N-696, N-697, N-702, N-703, N-10988
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8126–C-8251
-  - New Nodes Introduced: N-408, N-409, N-410, N-411, N-412, N-413, N-414, N-415, N-416, N-417, N-445, N-446, N-10392, N-10394, N-10395, N-10396, N-10397, N-10399, N-10400
-  - Reused Nodes Appearing: N-10393, N-10398, N-7, N-9, N-14, N-17, N-36, N-42, N-61, N-66, N-94, N-118, N-179, N-194, N-199, N-200, N-204, N-209, N-212, N-229, N-242, N-251, N-276, N-290, N-332, N-372, N-500, N-767, N-10000, N-10012, N-10023, N-10097, N-10131, N-10144, N-10183, N-10203, N-10209, N-10223, N-10242, N-10246, N-10253, N-10267, N-10342, N-10417, N-10436, N-10645, N-11102, N-11104, N-10401, N-11171, N-11167
+  - New Nodes Introduced: N-408, N-409, N-410, N-411, N-412, N-413, N-414, N-415, N-416, N-417, N-445, N-446, N-10392, N-10394, N-10395, N-10396, N-10399, N-10400
+  - Reused Nodes Appearing: N-10393, N-10398, N-7, N-9, N-14, N-17, N-36, N-42, N-61, N-66, N-94, N-118, N-179, N-194, N-199, N-200, N-204, N-209, N-212, N-229, N-242, N-251, N-276, N-290, N-332, N-372, N-500, N-767, N-10000, N-10012, N-10023, N-10097, N-10131, N-10144, N-10183, N-10203, N-10209, N-10223, N-10242, N-10246, N-10253, N-10267, N-10342, N-10417, N-10436, N-10645, N-11102, N-11104, N-10401, N-11171, N-11167, N-10397, N-11170
   - (see registers), N-11
 
 # Meta-Data

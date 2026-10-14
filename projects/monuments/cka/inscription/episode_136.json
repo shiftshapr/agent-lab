@@ -386,6 +386,188 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3152",
+      "family_ref": "A-3152",
+      "bundle_name": "Glove Photo and Recreation Side-by-Side Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3152.1",
+          "ref": "A-3152.1",
+          "description": "Side-by-side image of the black gloves stuffed in the SUV door and the team's recreation, shown while the host recaps her earlier story",
+          "related_claims": [
+            "C-11703"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10771",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:01:55",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3153",
+      "family_ref": "A-3153",
+      "bundle_name": "Harpole Car Seating Diagram Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3153.1",
+          "ref": "A-3153.1",
+          "description": "Diagram of the SUV occupants' seating the host asks to be brought up again",
+          "related_claims": [
+            "C-11707"
+          ],
+          "related_nodes": [
+            "N-10737",
+            "N-272",
+            "N-498"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:05:31",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3154",
+      "family_ref": "A-3154",
+      "bundle_name": "Harpole Sean Ryan Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3154.1",
+          "ref": "A-3154.1",
+          "description": "Host verbal reference to Harpole's Sean Ryan interview, from which she cites the phrase 'We're doing the medical' (not played)",
+          "related_claims": [
+            "C-11711"
+          ],
+          "related_nodes": [
+            "N-10681",
+            "N-10737",
+            "N-272",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:10",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3155",
+      "family_ref": "A-3155",
+      "bundle_name": "Red-Hat Man Livestream Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3155.1",
+          "ref": "A-3155.1",
+          "description": "Livestream footage in Nissi's analysis showing the red-hat man walking around texting and making calls",
+          "related_claims": [
+            "C-11720"
+          ],
+          "related_nodes": [
+            "N-10772",
+            "N-764"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3156",
+      "family_ref": "A-3156",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3156.1",
+          "ref": "A-3156.1",
+          "description": "Host verbal reference to the tip address more tips at candacewowens.com when asking for information on Robertson",
+          "related_claims": [
+            "C-11729"
+          ],
+          "related_nodes": [
+            "N-10774",
+            "N-3",
+            "N-764"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:24:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3156.2",
+          "ref": "A-3156.2",
+          "description": "Host verbal repeat of the tip address",
+          "related_claims": [
+            "C-11730"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:25:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3157",
+      "family_ref": "A-3157",
+      "bundle_name": "Blake Neff Iran War Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3157.1",
+          "ref": "A-3157.1",
+          "description": "Host verbal reference to Blake Neff's statement that Charlie would support Trump on the Iran war (not shown)",
+          "related_claims": [
+            "C-11741"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10000",
+            "N-10539",
+            "N-162",
+            "N-2",
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:37:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -503,7 +685,20 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11702",
+        "C-11703",
+        "C-11704",
+        "C-11738",
+        "C-11741",
+        "C-11742",
+        "C-11743",
+        "C-11744",
+        "C-11745",
+        "C-11746",
+        "C-11748",
+        "C-11749"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -519,7 +714,11 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11741",
+        "C-11742",
+        "C-11751"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -535,7 +734,10 @@
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11708",
+        "C-11710"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -551,7 +753,10 @@
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11715",
+        "C-11716"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -567,7 +772,9 @@
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11704"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -618,7 +825,13 @@
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11714",
+        "C-11715",
+        "C-11718",
+        "C-11721",
+        "C-11722"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -640,6 +853,614 @@
       "tags": [],
       "evidence_count": 0,
       "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11702",
+        "C-11703",
+        "C-11704",
+        "C-11709",
+        "C-11711",
+        "C-11712",
+        "C-11713",
+        "C-11716",
+        "C-11717",
+        "C-11718",
+        "C-11719",
+        "C-11724",
+        "C-11726",
+        "C-11727",
+        "C-11728",
+        "C-11729",
+        "C-11730",
+        "C-11731",
+        "C-11732",
+        "C-11733",
+        "C-11734",
+        "C-11735",
+        "C-11736",
+        "C-11737",
+        "C-11738",
+        "C-11739",
+        "C-11740",
+        "C-11746",
+        "C-11747",
+        "C-11748",
+        "C-11749",
+        "C-11750",
+        "C-11751",
+        "C-11752",
+        "C-11753",
+        "C-11754",
+        "C-11755",
+        "C-11756"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 38,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Donald Trump; the host criticizes his Iran war decisions and Epstein-file exposure.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11739",
+        "C-11740",
+        "C-11741",
+        "C-11755"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein; named in the host's assertion about the Epstein files.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11755"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson (transcribed Kovat); named in the hotel and comment segments.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11756"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu (transcribed BBNet and Yahoo); the host alleges he pitched Trump on the Iran war.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11739"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Tyler Robinson; defendant, subject of the DNA, 4K video and campus-presence claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11712",
+        "C-11746",
+        "C-11751",
+        "C-11753"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-54",
+      "ref": "N-54",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Lance Twiggs; the host says his DNA is on the screwdriver beside Robinson's.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11712"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Blake Neff; the host cites his statement on Charlie and the Iran war and wonders about his hotel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11741",
+        "C-11756"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-267",
+      "ref": "N-267",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "Terrell Farnsworth; named by the host in connection with the rooftop command question.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11722"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Brian Harpole; his accounts of the car ride and ER are examined.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11705",
+        "C-11706",
+        "C-11707",
+        "C-11710",
+        "C-11711"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-498",
+      "ref": "N-498",
+      "name": "Rick Cutler",
+      "type": "person",
+      "description": "Rick Cutler; his role in the car and at the hospital is discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11705",
+        "C-11707",
+        "C-11708",
+        "C-11709"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; its reversal on Kirk's positions and staff hotel are at issue.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11702",
+        "C-11741",
+        "C-11742",
+        "C-11746",
+        "C-11756"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "Federal Bureau of Investigation; its arrival timing and clothing custody are discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11709",
+        "C-11715",
+        "C-11716",
+        "C-11717"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Provo, Utah; the host cites the nearby FBI office there.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11716",
+        "C-11717"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10219",
+      "ref": "N-10219",
+      "name": "Mikey McCoy Pre-Death Documentation Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the McCoy recording claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11704"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Epstein-files claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11755"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10343",
+      "ref": "N-10343",
+      "name": "Tyler Robinson Rooftop Access Timeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the rooftop access timeline claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11713",
+        "C-11714"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10539",
+      "ref": "N-10539",
+      "name": "Charlie Kirk Iran War Opposition (June 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Kirk's Iran war positions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11702",
+        "C-11738",
+        "C-11741",
+        "C-11742",
+        "C-11743",
+        "C-11744",
+        "C-11745"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10679",
+      "ref": "N-10679",
+      "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Twiggs DNA claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11712"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10681",
+      "ref": "N-10681",
+      "name": "Sean Ryan Show Interview Clip Bundle",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Sean Ryan interview claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11711"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10688",
+      "ref": "N-10688",
+      "name": "Frank Turek Clothing Disposal",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the hospital clothing claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11708",
+        "C-11709"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10725",
+      "ref": "N-10725",
+      "name": "Officer Bagley Body-Cam Battery Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the body-cam battery claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11721"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10732",
+      "ref": "N-10732",
+      "name": "Salt Lake City Hotel Identification Gap",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the TPUSA hotel claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11756"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10737",
+      "ref": "N-10737",
+      "name": "CPR Narrative Contradiction (Turek / Harpole)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Harpole and Turek car-ride accounts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11705",
+        "C-11706",
+        "C-11707",
+        "C-11710",
+        "C-11711"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10747",
+      "ref": "N-10747",
+      "name": "TPUSA Inner Circle Composition Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the inner-circle claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11749"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10964",
+      "ref": "N-10964",
+      "name": "US Central Command (CENTCOM)",
+      "type": "investigation_target",
+      "description": "US Central Command; its reported email asking for Iran ideas.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11737"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11128",
+      "ref": "N-11128",
+      "name": "US and Israel Iran War Betrayal Thesis",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Iran war claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11738",
+        "C-11739",
+        "C-11740"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11306",
+      "ref": "N-11306",
+      "name": "Security Guard Stroke in Russia",
+      "type": "topic",
+      "description": "The host's account of a member of her security detail who suffered a severe stroke during the Russia trip, had brain surgery in a Russian hospital, and is now seeking rehabilitation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11732",
+        "C-11733",
+        "C-11734",
+        "C-11735",
+        "C-11736"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11307",
+      "ref": "N-11307",
+      "name": "International Institute of Brain Enhancement",
+      "type": "organization",
+      "description": "Rehabilitation institute in Delray, Florida that the host names as the guard's next step and for which she asks viewers to help with funding.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11736"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11308",
+      "ref": "N-11308",
+      "name": "TPUSA 4K Video Claim Dispute",
+      "type": "topic",
+      "description": "The dispute over whether TPUSA-aligned influencers claimed to have seen 4K video of Tyler Robinson taking the shot, and the later shift to saying the 4K footage showed other things.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11751",
+        "C-11752",
+        "C-11753",
+        "C-11754"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11309",
+      "ref": "N-11309",
+      "name": "Brady List Website",
+      "type": "topic",
+      "description": "The Brady List website, a database of officers with documented credibility or misconduct issues, on which the host says Allan E. Robertson has an entry.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11724",
+        "C-11725"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "medium"
     }
@@ -972,6 +1793,1135 @@
       "mentions_person_refs": [
         "N-518"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11702",
+      "ref": "C-11702",
+      "label": "Host Says TPUSA Has Reversed Charlie's Positions",
+      "claim": "The host says Turning Point USA has reversed course on positions Charlie Kirk held throughout his career, and frames this as institutional 'pregnancy brain'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:49",
+      "investigative_direction": "Compare TPUSA's current public statements with Kirk's dated on-air statements to identify which positions were reversed.",
+      "transcript_snippet": "Turning Point USA, they've been experiencing a lot of pregnancy brain when it comes to the positions that Charlie held throughout his entire career, which they've just reversed course on.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11703",
+      "ref": "C-11703",
+      "label": "Host Says Gloves Were Left in Left Rear Door of Transport SUV",
+      "claim": "The host says she broke the story two weeks earlier that black gloves were left in the left rear door of the SUV that transported Charlie to the hospital, shown side by side with the team's recreation, and that the team speculated they were leather or black nitrile.",
+      "anchored_artifacts": [
+        "A-3152.1"
+      ],
+      "related_nodes": [
+        "N-10771"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:55",
+      "investigative_direction": "Obtain the original photograph of the door compartment and the SUV's evidence inventory to establish what the object is.",
+      "transcript_snippet": "Do not forget that in the SUV that transported Charlie to the hospital, there were black gloves that were left in the left side door right in the back.",
+      "supports_claim_refs": [
+        "C-3087"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11704",
+      "ref": "C-11704",
+      "label": "Host Says Sleuth Tip Revealed McCoy Recorded Kirk's Final Weeks",
+      "claim": "The host says a sleuth emailed a tip that Mikey McCoy had been recording Charlie's last moments, including in the weeks leading up to the shooting, and that his footage of Kirk exiting the car is the basis for the empty-pocket finding.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10219"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:55",
+      "investigative_direction": "Obtain McCoy's full recording set for the week of September 10 and its metadata to establish provenance and filming dates.",
+      "transcript_snippet": "turns out that the amazing Mikey McCoy who was suddenly recording Charlie's last moments in the weeks leading up as well.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11705",
+      "ref": "C-11705",
+      "label": "Host Says Harpole Was Not Seated on the Glove-Pocket Side",
+      "claim": "The host says Brian Harpole was not sitting on the side of the car where the gloves were found, and was already covered in blood.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10771",
+        "N-10737"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:21",
+      "investigative_direction": "Establish the seating chart of the SUV from the occupants' own accounts and any interior photographs.",
+      "transcript_snippet": "Brian was definitively not sitting on that side of the car and he was already covered in blood.",
+      "supports_claim_refs": [
+        "C-3089"
+      ],
+      "mentions_person_refs": [
+        "N-272",
+        "N-498"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11706",
+      "ref": "C-11706",
+      "label": "Host Says Harpole Told of a Nurse Wiping Blood From His Face",
+      "claim": "The host says Harpole tells a story that a nurse wiped the blood off his face, which she uses to argue he had no reason to stop and put on gloves in the moving car.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10737"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:21",
+      "investigative_direction": "Locate the Harpole interview where the nurse account is given and identify the nurse and hospital staff present.",
+      "transcript_snippet": "He tells a story about how the nurse wiped it off of his face.",
+      "mentions_person_refs": [
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11707",
+      "ref": "C-11707",
+      "label": "Host Recounts Harpole Saying Cutler Only Held Him in the Car",
+      "claim": "The host recounts that the group was told Rick Cutler did nothing but hold Brian Harpole with two hands so he would not fall out of the car, and asks whether Cutler would need gloves for that, using a diagram.",
+      "anchored_artifacts": [
+        "A-3153.1"
+      ],
+      "related_nodes": [
+        "N-10737"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:31",
+      "investigative_direction": "Compare Harpole's and Cutler's own recorded accounts of who did what during the ride.",
+      "transcript_snippet": "And we were told that Rick Cutler didn't do nothing but hold Brian Harpole with a tattoo.",
+      "supports_claim_refs": [
+        "C-2951"
+      ],
+      "mentions_person_refs": [
+        "N-498",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11708",
+      "ref": "C-11708",
+      "label": "Host Says Cutler Allegedly Stripped Down His Clothes at the Hospital",
+      "claim": "The host says Rick Cutler was among those who allegedly stripped off clothes at the hospital, and says Frank Turek has been open about doing so.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10688"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:31",
+      "investigative_direction": "Ask hospital staff and the group to confirm who changed clothes, and obtain any hospital security video of the entrance.",
+      "transcript_snippet": "Now, we also told you that Rick was among those who allegedly stripped down his clothes at the hospital.",
+      "mentions_person_refs": [
+        "N-498",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11709",
+      "ref": "C-11709",
+      "label": "Host Says Feds Allegedly Took Cutler's Clothes Down to Boxer Briefs",
+      "claim": "The host says she was told the feds were the ones who allegedly took those clothes, leaving Cutler down to his boxer briefs, which she calls 'a bit much'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10688",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:31",
+      "investigative_direction": "Request FBI evidence-receipt records for clothing taken from Cutler and others at the hospital.",
+      "transcript_snippet": "we uh were also told that the feds were the ones who allegedly took those clothes thereafter down to his boxer briefs allegedly.",
+      "mentions_person_refs": [
+        "N-498",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11710",
+      "ref": "C-11710",
+      "label": "Host Recounts Harpole's Gurney Account in the ER",
+      "claim": "The host recounts Harpole's story that he grabbed a gurney, jumped on top of Charlie in the ER and began cutting his shirt while the staff looked on awaiting instructions on what drugs to administer, and says the public does not buy it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10737"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:24",
+      "investigative_direction": "Obtain ER staff statements and the hospital's trauma-bay record for who treated Kirk on arrival.",
+      "transcript_snippet": "Particularly the portion where Brian Harpole grabs a gurnie, jumps on top of Charlie in the ER, and begins cutting his shirt while the staff looks on for further instructions",
+      "supports_claim_refs": [
+        "C-5785"
+      ],
+      "mentions_person_refs": [
+        "N-272",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11711",
+      "ref": "C-11711",
+      "label": "Host Says Harpole Said He Was Doing the Medical in Sean Ryan Interview",
+      "claim": "The host says that in the Sean Ryan interview Harpole said 'We're doing the medical', and argues from that interview that Harpole was not the one in charge.",
+      "anchored_artifacts": [
+        "A-3154.1"
+      ],
+      "related_nodes": [
+        "N-10681",
+        "N-10737"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:10",
+      "investigative_direction": "Pull the Sean Ryan interview and transcribe Harpole's exact words about the medical response.",
+      "transcript_snippet": "Even when he describes things in that Sean Ryan interview, he's like, \"We're doing the medical.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11712",
+      "ref": "C-11712",
+      "label": "Host Says Screwdriver Carries Lance Twigs's DNA Alongside Tyler Robinson's",
+      "claim": "The host says the screwdriver found on the rooftop has Lance Twigs's DNA alongside Tyler Robinson's DNA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10679"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:23",
+      "investigative_direction": "Review the FBI DNA report on the screwdriver (listed in sealed exhibits) for the contributor profiles.",
+      "transcript_snippet": "We do know it has Lance Twigs's DNA alongside Tyler Robinson's DNA.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11713",
+      "ref": "C-11713",
+      "label": "Host Says It Is Unknown Whether the Screwdriver Works for the Gun",
+      "claim": "The host says it is still not known whether the screwdriver even works for that particular gun.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:23",
+      "investigative_direction": "Obtain the rifle's disassembly specifications and the exhibit photographs of the screwdriver and screw heads.",
+      "transcript_snippet": "we still don't know um if that screwdriver even if a screwdriver even works for that particular gun.",
+      "supports_claim_refs": [
+        "C-1243"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11714",
+      "ref": "C-11714",
+      "label": "Host Says Bagley Testified to Reaching the Roof at 12:44 and Finding Screwdriver in Gravel",
+      "claim": "The host says Bagley testifies he reached Losi at 12:44 and discovered the screwdriver 10 to 15 feet past the railing in the gravel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:18",
+      "investigative_direction": "Compare the 12:44 arrival with the 12:47 bystander clip and with the preliminary-hearing transcript.",
+      "transcript_snippet": "he gets on to Losi building at 12:44. He discovers that screwdriver 10 to 15 ft past the railing in the gravel.",
+      "supports_claim_refs": [
+        "C-7284"
+      ],
+      "mentions_person_refs": [
+        "N-518"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11715",
+      "ref": "C-11715",
+      "label": "Host Says Bagley Went Up After the FBI Had Arrived and Started Securing the Scene",
+      "claim": "The host says Bagley went onto the Losi rooftop after the feds had arrived and begun securing the scene, so any plainclothes companion would have been up there during the FBI's lockdown.",
+      "anchored_artifacts": [
+        "A-2226.1"
+      ],
+      "related_nodes": [
+        "N-10772",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:11",
+      "investigative_direction": "Obtain the scene access log and FBI arrival documents to test who was authorized on the rooftop at 12:44.",
+      "transcript_snippet": "I want to underscore that officer Baggley went onto Losi rooftop after the feds had arrived and had secured and began securing the scene.",
+      "supports_claim_refs": [
+        "C-3194"
+      ],
+      "mentions_person_refs": [
+        "N-518",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11716",
+      "ref": "C-11716",
+      "label": "Host Says the FBI's Nearest Field Office Is in Salt Lake City, a 50-Minute Drive",
+      "claim": "The host says the FBI office is actually located in Salt Lake City, a 50-minute drive, which makes a 16-minute arrival remarkably fast.",
+      "anchored_artifacts": [
+        "A-2226.1"
+      ],
+      "related_nodes": [
+        "N-10014",
+        "N-10074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:11",
+      "investigative_direction": "Obtain FBI office addresses and the dispatch/arrival logs for September 10 to test the 16-minute figure.",
+      "transcript_snippet": "That is remarkably fast given the FBI um office is actually located in Salt Lake City. That's a 50-minute drive.",
+      "supports_claim_refs": [
+        "C-8917"
+      ],
+      "mentions_person_refs": [
+        "N-69",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11717",
+      "ref": "C-11717",
+      "label": "Host Says the Nearby Provo Office Has Apparently Four Agents",
+      "claim": "The host says the FBI has a little office in a building in nearby Provo that apparently has four agents.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014",
+        "N-10074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:11",
+      "investigative_direction": "Confirm the Provo FBI resident-agency headcount and location through FBI records or FOIA.",
+      "transcript_snippet": "They have a little office in a building in Provo nearby that has apparently four agents.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11718",
+      "ref": "C-11718",
+      "label": "Host Says the Bystander Clip Came From Footage Sent to Her on September 10th",
+      "claim": "The host says she went combing through all the footage that was sent to her on September 10th and found the bystander clip of Bagley's rooftop companion there.",
+      "anchored_artifacts": [
+        "A-2227.1"
+      ],
+      "related_nodes": [
+        "N-10772"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:58",
+      "investigative_direction": "Ask the host for the original submission, sender and metadata of the 12:47 bystander clip.",
+      "transcript_snippet": "I went combing through all the footage that was sent to me on September 10th",
+      "mentions_person_refs": [
+        "N-3",
+        "N-518"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11719",
+      "ref": "C-11719",
+      "label": "Host Says Robertson Appears Immediately in Charge in Early Footage",
+      "claim": "The host says that in the early footage Allan Robertson seems to be the person immediately in charge, despite being described as a rookie from another campus.",
+      "anchored_artifacts": [
+        "A-2227.1"
+      ],
+      "related_nodes": [
+        "N-10772"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:47",
+      "investigative_direction": "Review the early scene footage for Robertson giving directions and compare to the incident command roster.",
+      "transcript_snippet": "Alan Robertson, as we're going through all that early footage, he actually seems like he's the person that's immediately in charge.",
+      "mentions_person_refs": [
+        "N-764",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11720",
+      "ref": "C-11720",
+      "label": "Nissi Says Robertson Is Seen Walking Around Texting and Making Calls",
+      "claim": "In the Nissi analysis the host plays, the narrator says the livestream footage shows the red-hat man walking around texting and making calls, which no other law enforcement officer is seen doing.",
+      "anchored_artifacts": [
+        "A-3155.1",
+        "A-2233.1"
+      ],
+      "related_nodes": [
+        "N-10772"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:43",
+      "investigative_direction": "Obtain the livestream source and review it for the red-hat man's phone use and any other officers' behavior.",
+      "transcript_snippet": "You see him walking around and texting and making calls.",
+      "mentions_person_refs": [
+        "N-764"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11721",
+      "ref": "C-11721",
+      "label": "Nissi Says Body Cameras Are Supposed to Last About 10 Hours",
+      "claim": "In the Nissi analysis, the narrator says Bagley says the battery died, but the camera had run only 27 minutes and these body cameras are supposed to last around 10 hours.",
+      "anchored_artifacts": [
+        "A-2233.1"
+      ],
+      "related_nodes": [
+        "N-10725",
+        "N-10773"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:43",
+      "investigative_direction": "Obtain the UVU police body-camera model specifications and the device's battery and docking logs.",
+      "transcript_snippet": "He says the battery died, but the camera had only been running for 27 minutes and these body cameras are supposed to last around 10 hours.",
+      "mentions_person_refs": [
+        "N-518"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11722",
+      "ref": "C-11722",
+      "label": "Host Says Robertson Seems to Be Calling the Shots From Farnsworth to Bagley",
+      "claim": "The host says there seems to be an immediate understanding from Terrell Farnsworth to Officer Bagley that Robertson is calling the shots and is in command of the post-assassination operation.",
+      "anchored_artifacts": [
+        "A-2227.1"
+      ],
+      "related_nodes": [
+        "N-10772"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:23",
+      "investigative_direction": "Interview officers at the scene about who directed the rooftop response and obtain the command roster.",
+      "transcript_snippet": "there seems to be an immediate understanding that this Alan Robertson character who shall not be named is calling the shots.",
+      "mentions_person_refs": [
+        "N-764",
+        "N-267",
+        "N-518"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11723",
+      "ref": "C-11723",
+      "label": "Host Says Robertson Was a San Bernardino Police Officer Just Before Utah",
+      "claim": "The host says Robertson was a police officer in San Bernardino, California just before going to Utah, with a very short stint before he was moved out.",
+      "anchored_artifacts": [
+        "A-2235.1"
+      ],
+      "related_nodes": [
+        "N-10774"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:19",
+      "investigative_direction": "Obtain Robertson's San Bernardino PD employment dates through a California public records request.",
+      "transcript_snippet": "But he was also a police officer just before going to Utah in San Bernardino, California.",
+      "mentions_person_refs": [
+        "N-764"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11724",
+      "ref": "C-11724",
+      "label": "Host Describes the Brady List as a Prosecutor-Kept Database of Officer Credibility Issues",
+      "claim": "The host describes the Brady List website as a database of officers with a documented history of misconduct, dishonesty or integrity violations, kept by prosecutors to share with defense attorneys.",
+      "anchored_artifacts": [
+        "A-2229.1"
+      ],
+      "related_nodes": [
+        "N-11309"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:19",
+      "investigative_direction": "Verify the Brady List website's own description of what its entries mean and who maintains them.",
+      "transcript_snippet": "it's a uh a database of law enforcement officers who have a documented history of misconduct, dishonesty, or integrity violations.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11725",
+      "ref": "C-11725",
+      "label": "Host Says Not Every Officer Has an Entry on the Brady List",
+      "claim": "The host says she checked whether there is an entry for every officer in the land and concluded from the site's about section and her own search that there is not.",
+      "anchored_artifacts": [
+        "A-2229.1"
+      ],
+      "related_nodes": [
+        "N-11309",
+        "N-10774"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:19",
+      "investigative_direction": "Search the Brady List site for officers from other departments to confirm that not all officers are listed.",
+      "transcript_snippet": "I searched online and said nope that's not what they do.",
+      "mentions_person_refs": [
+        "N-764"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11726",
+      "ref": "C-11726",
+      "label": "Host Says San Bernardino PD Has a Lot of Corruption",
+      "claim": "The host says there is a lot of corruption in the San Bernardino, California Police Department, and asks Californians for information about an incident involving Robertson.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10774"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:55",
+      "investigative_direction": "Review public reporting, DOJ findings and court records about San Bernardino PD misconduct.",
+      "transcript_snippet": "Obviously, you guys also know there's a lot of corruption in the San Bernardino, California Police Department.",
+      "mentions_person_refs": [
+        "N-764",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11727",
+      "ref": "C-11727",
+      "label": "Host Says Robertson Moved to Utah in August 2024",
+      "claim": "The host says Robertson decided to go to Utah in August 2024 despite having spent his whole life in California, and calls the timing precise.",
+      "anchored_artifacts": [
+        "A-2228.1"
+      ],
+      "related_nodes": [
+        "N-10774"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:55",
+      "investigative_direction": "Obtain USU hiring and lateral-transfer paperwork showing Robertson's start date and prior employer.",
+      "transcript_snippet": "he decided to go in August 2024 despite the fact that his entire life has been in California.",
+      "mentions_person_refs": [
+        "N-764",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11728",
+      "ref": "C-11728",
+      "label": "Host Says It Is Plausible Robertson Was Involved in Something in San Bernardino",
+      "claim": "The host says it is a plausibility that Allan E. Robertson was involved in something in San Bernardino, noting a habit of transferring officers in trouble to other departments, while saying she is not claiming he was.",
+      "anchored_artifacts": [
+        "A-2229.1"
+      ],
+      "related_nodes": [
+        "N-10774"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:55",
+      "investigative_direction": "Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.",
+      "transcript_snippet": "it is definitely what I would assert is a plausibility uh that Alan E. Robertson was involved in something in San Bernardino.",
+      "mentions_person_refs": [
+        "N-764",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11729",
+      "ref": "C-11729",
+      "label": "Host Asks for Tips on Robertson at the Tip Line",
+      "claim": "The host asks viewers who worked with Robertson in San Bernardino, or know why he transferred, to send tips to the more-tips address.",
+      "anchored_artifacts": [
+        "A-3156.1"
+      ],
+      "related_nodes": [
+        "N-10774"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:30",
+      "investigative_direction": "Review incoming tips about Robertson for named, checkable sources and corroborate before relying on them.",
+      "transcript_snippet": "please send us tips to more tips at candacewowens. com",
+      "mentions_person_refs": [
+        "N-3",
+        "N-764"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11730",
+      "ref": "C-11730",
+      "label": "Host Repeats the Tip Line Address",
+      "claim": "The host repeats the request to email more tips to the Candace Owens address, joking about her pregnancy brain.",
+      "anchored_artifacts": [
+        "A-3156.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:07",
+      "investigative_direction": "Not applicable beyond tracking tip volume and follow-up on the Robertson thread.",
+      "transcript_snippet": "Email us more tips at Candace, sorry, Candace Owens. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11731",
+      "ref": "C-11731",
+      "label": "Host Says It Is Plausible Robertson Found the Screwdriver and Is Not Named Because of Brady Issues",
+      "claim": "The host says it is plausible the person who actually found the screwdriver was Allan Robertson, and that prosecutors would not name him because a Brady List entry would damage his credibility as a witness.",
+      "anchored_artifacts": [
+        "A-2229.1"
+      ],
+      "related_nodes": [
+        "N-10772",
+        "N-10774"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:22",
+      "investigative_direction": "Ask prosecutors whether Robertson is on any witness list and obtain the chain of custody for who recovered the screwdriver.",
+      "transcript_snippet": "I think it's plausible that the person who actually found the screwdriver was Alan Robertson.",
+      "mentions_person_refs": [
+        "N-764",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11732",
+      "ref": "C-11732",
+      "label": "Host Says Her Security Guard Had a Severe Stroke and Brain Surgery",
+      "claim": "The host says a member of her security detail who had served 12 years had a very severe stroke, needed brain surgery to remove a clot, and that the host's team now understands it must have happened in Russia.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11306"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:32",
+      "investigative_direction": "Not independently verifiable beyond the host's account; hospital records would need the guard's consent.",
+      "transcript_snippet": "he had a a very severe stroke, had to have brain surgery to remove the clot in the back of his um head",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11733",
+      "ref": "C-11733",
+      "label": "Host Says the Guard Spent Over Five Years Trying to Get a VA Appointment",
+      "claim": "The host says the guard had been trying for over five years to get a VA appointment and could not get one.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11306"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:32",
+      "investigative_direction": "VA wait-time and appointment records for the veteran, with his consent.",
+      "transcript_snippet": "is trying to get an appointment for over 5 years to the VA",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11734",
+      "ref": "C-11734",
+      "label": "Host Says Russia's Ministry of Health Paid the Guard's Entire Hospital Bill",
+      "claim": "The host says the Russian Ministry of Health covered the guard's hospital bill, and later thanks the Ministry for paying the entire bill.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11306"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:31",
+      "investigative_direction": "Obtain the hospital's billing statement or Ministry of Health confirmation with the guard's consent.",
+      "transcript_snippet": "It's been taken care of by the Ministry of Health.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11735",
+      "ref": "C-11735",
+      "label": "Host Says the Guard's Eyesight Returned After the Clot Was Removed",
+      "claim": "The host says the guard's eyesight returned like a miracle once the clot was removed, so he no longer needs glasses, and that Russian military families cheered him on during rehabilitation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11306"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:10",
+      "investigative_direction": "Medical records for the veteran with his consent.",
+      "transcript_snippet": "his eyesight came back it's like a miracle once the clot was removed",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11736",
+      "ref": "C-11736",
+      "label": "Host Appeals for Help Getting the Guard Into a Brain-Enhancement Institute in Florida",
+      "claim": "The host says the guard is trying to get into the International Institute of Brain Enhancement in Delray, Florida, not covered by VA benefits, and asks viewers or a charity to help.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11306",
+        "N-11307"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:38",
+      "investigative_direction": "Confirm the institute's address, program cost and any charity that has offered funding.",
+      "transcript_snippet": "this international institute of brain enhancement that is in Delray, Florida.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11737",
+      "ref": "C-11737",
+      "label": "Host Cites a Second CNN Source on the Iran Ideas Request",
+      "claim": "The host reads from CNN that a second source also said a senior US military officer sent the message last week soliciting new ideas for how to deal with Iran.",
+      "anchored_artifacts": [
+        "A-2230.1"
+      ],
+      "related_nodes": [
+        "N-10775",
+        "N-10964"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:33",
+      "investigative_direction": "Obtain the CNN article and test the two sourcing paths and the email's date.",
+      "transcript_snippet": "A second source also said that a senior US military officer sent the message last week soliciting new ideas for how to deal with Iran.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11738",
+      "ref": "C-11738",
+      "label": "Host Says Charlie Was the First Casualty of the Iranian War",
+      "claim": "The host says 'we know' Charlie Kirk was the first casualty of the Iranian war and that he was in the way.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128",
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:33",
+      "investigative_direction": "This is an inference; it would need documentary evidence of a link between Kirk's Iran stance and the shooting.",
+      "transcript_snippet": "we know that Charlie was the first casualty of the Iranian war.",
+      "supports_claim_refs": [
+        "C-8679"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11739",
+      "ref": "C-11739",
+      "label": "Host Says Netanyahu Pitched Trump That Persia Could Be Taken in a Week",
+      "claim": "The host says Trump listened to a pitch by Netanyahu saying they could take Persia in a week.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:33",
+      "investigative_direction": "Look for reporting on Netanyahu's private assessments to Trump before the Iran war.",
+      "transcript_snippet": "Listened to a pitch by BBNet and Yahoo saying we can take Persia in a week.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11740",
+      "ref": "C-11740",
+      "label": "Host Says Trump Has Claimed About 55 Victories Over Iran in His Tweets",
+      "claim": "The host says that according to Trump's tweets the US has beaten Iran about 55 times, yet has not beaten Iran.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:33",
+      "investigative_direction": "Count Trump's posts claiming victory over Iran and compare with battlefield reporting.",
+      "transcript_snippet": "We've beat Iran about 55 times um according to Trump's tweets.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11741",
+      "ref": "C-11741",
+      "label": "Host Says Blake Neff Said Charlie Would Support Trump on the Iran War",
+      "claim": "The host says Blake Neff said Charlie Kirk would support Trump with the Iran war, and contrasts this with Erika Kirk saying that her husband is not here to tell us.",
+      "anchored_artifacts": [
+        "A-3157.1"
+      ],
+      "related_nodes": [
+        "N-10539",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:43",
+      "investigative_direction": "Locate Neff's statement (platform and date) and quote it in full.",
+      "transcript_snippet": "Uh actually Blake, I think said Charlie would support Trump with the Iran war.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-1",
+        "N-5",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11742",
+      "ref": "C-11742",
+      "label": "Erika Says It Is Frustrating When People Speak for Charlie",
+      "claim": "In the clip the host plays, Erika Kirk says it is frustrating when people speak for her husband, and that videos exist that can be looked back on.",
+      "anchored_artifacts": [
+        "A-2231.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:43",
+      "investigative_direction": "Locate the original appearance and confirm the quote and date.",
+      "transcript_snippet": "And you know, it's frustrating when you have people speaking for him.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11743",
+      "ref": "C-11743",
+      "label": "Kirk Clip Calls War Against Iran a Profound Mistake",
+      "claim": "In the archived clip, Charlie Kirk says to make sure we do not go to war against Iran, which would be a profound mistake for our country.",
+      "anchored_artifacts": [
+        "A-2232.1"
+      ],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:45",
+      "investigative_direction": "Source the original clip (date, outlet) and confirm context.",
+      "transcript_snippet": "Make sure we don't go to war against Iran, which would be a profound mistake for our country.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11744",
+      "ref": "C-11744",
+      "label": "Kirk Clip Says Iran Has No Bomb in 2025 and Questions Trusting US Intelligence",
+      "claim": "In the archived clip, Kirk says that for his whole life he was told Iran is getting a bomb, yet in 2025 they do not have one, and asks why one should trust American intelligence without verifying.",
+      "anchored_artifacts": [
+        "A-2232.1"
+      ],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:45",
+      "investigative_direction": "Source the original clip and confirm the date and surrounding remarks.",
+      "transcript_snippet": "And yet here in 2025, they do not have a nuclear bomb. So why should we trust the American intelligence without verifying it?",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11745",
+      "ref": "C-11745",
+      "label": "Kirk Clip Warns of a Regional Mess if Iran Retaliates",
+      "claim": "In the archived clip, Kirk says the worst case is Iran deciding to make this a regional mess and involve as many people as possible.",
+      "anchored_artifacts": [
+        "A-2232.1"
+      ],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:45",
+      "investigative_direction": "Source the original clip and confirm the date.",
+      "transcript_snippet": "We're going to go make this a regional mess and try to get as many people involved as possible.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11746",
+      "ref": "C-11746",
+      "label": "Host Says Robinson Is Not Trans and Cannot Be Proven on Campus",
+      "claim": "The host says the narrative that a trans furry killed Charlie fails because Robinson turns out not to be trans, and the authorities cannot even prove he was on campus that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:31",
+      "investigative_direction": "Compare the prosecution's exhibits placing Robinson on campus and any gender-identity evidence against the host's assertion.",
+      "transcript_snippet": "a trans furry who it turns out is not trans and um they can't even prove was on campus that day.",
+      "supports_claim_refs": [
+        "C-6719"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11747",
+      "ref": "C-11747",
+      "label": "Host Says Israel Finances Migration Campaigns Into Europe While Blaming Arabs",
+      "claim": "The host asserts that Israel's agency (spelled 'MSAD') finances campaigns for people to run over borders into territories Israel is bombing, to eradicate Europeans through deception while blaming Arabs.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:40:33",
+      "investigative_direction": "No evidence offered; would need documentary funding records.",
+      "transcript_snippet": "as is the MSAD motto, blaming the Arabs as they finance campaigns for them to run over borders in territories that Israel is bombing for Israel's expansion.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11748",
+      "ref": "C-11748",
+      "label": "Host Says Iran Is Making Lego Videos About the Epstein Class and Kirk's Assassination",
+      "claim": "The host says in Iran they are making Lego videos about the Epstein class and about Charlie's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:33",
+      "investigative_direction": "Locate the Lego videos and confirm their origin and content.",
+      "transcript_snippet": "Think about the fact that in Iran they're making Lego videos talking about the Epstein class, talking about uh Charlie's assassination.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11749",
+      "ref": "C-11749",
+      "label": "Host Says People in Charlie's Inner Circle Are Part of the Lies",
+      "claim": "The host asserts Charlie was betrayed and that people in his inner core and circle are part and parcel of the lies being told, which she says will be exposed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10747"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:02",
+      "investigative_direction": "Identify the specific individuals and statements the host means; her named claims across episodes are the testable ones.",
+      "transcript_snippet": "Charlie was betrayed and we are completely being lied to and people in his inner core and circle are a part and parcel of those lies.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11750",
+      "ref": "C-11750",
+      "label": "Host Says She Did Not Have to Recant Any Statement After the Preliminary Hearing",
+      "claim": "The host says that after the preliminary hearing she did not have to recant even one statement she had made previously.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:02",
+      "investigative_direction": "Compare the host's pre-hearing claims with the hearing transcript.",
+      "transcript_snippet": "We did not have to recant on even one statement that we had made previously.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11751",
+      "ref": "C-11751",
+      "label": "Host Says the Preliminary Hearing Showed No 4K Video of Robinson Taking the Shot",
+      "claim": "The host says she expected given Erika's confidence that the preliminary hearing would show a 4K HD video of Tyler taking the shot, and says nothing of the kind was shown.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11308"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:02",
+      "investigative_direction": "Obtain the preliminary-hearing exhibit list and transcript for any video depicting the shot.",
+      "transcript_snippet": "surely when we get to the preliminary hearing, they're just going to show us an actual 4K HD video of him taking the shot.\" Nope. We got nothing. Nada.",
+      "supports_claim_refs": [
+        "C-3014"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11752",
+      "ref": "C-11752",
+      "label": "Host Says TPUSA's Side Is Now Moving the Goalposts on the 4K Video",
+      "claim": "The host says the people who claimed 4K video are now saying they meant 4K footage of other things such as the bush or the Losee Center, not of him taking the shot.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11308"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:08",
+      "investigative_direction": "Gather the original statements by influencers and TPUSA about the 4K footage and compare their wording.",
+      "transcript_snippet": "Now they're moving the goalpost and they're like well we meant there was 4K video of him else where",
+      "supports_claim_refs": [
+        "C-7418"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11753",
+      "ref": "C-11753",
+      "label": "Host Says the Original Claim Was 4K Footage of Him Taking the Shot",
+      "claim": "The host says the literal words that came out of the speakers' mouths were that there was 4K footage of him taking the shot, and that they said Tyler killed him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11308"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:08",
+      "investigative_direction": "Locate the original posts or broadcasts with the 4K claim and quote the speaker verbatim.",
+      "transcript_snippet": "you said literally the words that came out of your mouth was it was 4K footage of him taking the shot.",
+      "supports_claim_refs": [
+        "C-3014"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11754",
+      "ref": "C-11754",
+      "label": "Host Says She Recently Revealed the 4K Video",
+      "claim": "The host says the recent video she revealed is the 4K video.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11308"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:08",
+      "investigative_direction": "Identify which video the host means and its source.",
+      "transcript_snippet": "I mean this recent video that I revealed that's the 4K video.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11755",
+      "ref": "C-11755",
+      "label": "Host Says Videos in the Epstein Files Allowed Trump to Be Controlled",
+      "claim": "The host asserts there is somebody in the Epstein files and there are videos that exist that allowed Trump to be completely run over.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:13",
+      "investigative_direction": "No evidence offered; would need the release of the files in question.",
+      "transcript_snippet": "there's somebody in those files and there's some videos that exist that have allowed him to be completely run over by the Epstein files.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11756",
+      "ref": "C-11756",
+      "label": "Host Says Her Team Found Out Which Hotel TPUSA Staff Stayed In",
+      "claim": "The host says her team found out what hotel TPUSA staff including Andrew Kolvet stayed in, says she will share it the next day, and wonders whether Blake Neff stayed at the same hotel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10732",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:13",
+      "investigative_direction": "Use the hotel registration and booking records the host says she has; test them against Neff's statements.",
+      "transcript_snippet": "we did find out what hotel um TPUSA staff stayed into at Andrew Kovat and everybody else.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-14",
+        "N-162",
+        "N-3"
+      ]
     }
   ],
   "memes": [
@@ -992,6 +2942,229 @@
           "tags": [
             "frank_turek",
             "running_gag"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 136,
+          "video_timestamp": "00:24:30",
+          "speaker_node_ref": "N-3",
+          "quote": "please send us tips to more tips at candacewowens. com",
+          "context": "Host asks for tips on Robertson at the tip address.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        },
+        {
+          "episode": 136,
+          "video_timestamp": "00:25:07",
+          "speaker_node_ref": "N-3",
+          "quote": "Email us more tips at Candace, sorry, Candace Owens. com.",
+          "context": "Host repeats the tip address.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-292",
+      "ref": "M-292",
+      "canonical_term": "Pregnancy Brain",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 136,
+          "video_timestamp": "00:00:49",
+          "speaker_node_ref": "N-3",
+          "quote": "Blake Nef, he's got pregnancy brain. Officer Baggley, he's got pregnancy brain.",
+          "context": "Host applies pregnancy brain to forgetful figures in the case.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy brain",
+            "running_gag"
+          ]
+        },
+        {
+          "episode": 136,
+          "video_timestamp": "00:25:07",
+          "speaker_node_ref": "N-3",
+          "quote": "There's a little pregnancy brain for you.",
+          "context": "Host jokes after misspeaking the email address.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy brain",
+            "running_gag"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-293",
+      "ref": "M-293",
+      "canonical_term": "Pathologically Insane",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 136,
+          "video_timestamp": "00:39:31",
+          "speaker_node_ref": "N-3",
+          "quote": "Pathologically insane is exactly what it is.",
+          "context": "Host turns Kirk's phrase into a list of things she calls pathologically insane.",
+          "confidence": "high",
+          "tags": [
+            "pathologically insane",
+            "kirk_quote"
+          ]
+        },
+        {
+          "episode": 136,
+          "video_timestamp": "00:40:33",
+          "speaker_node_ref": "N-3",
+          "quote": "Pathologically insane to still be supporting this administration",
+          "context": "Host continues the list.",
+          "confidence": "high",
+          "tags": [
+            "pathologically insane",
+            "kirk_quote"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-144",
+      "ref": "M-144",
+      "canonical_term": "The Preggo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 136,
+          "video_timestamp": "00:00:49",
+          "speaker_node_ref": "N-3",
+          "quote": "So, I'm at that phase of pregnancy.",
+          "context": "Host frames the episode with her pregnancy and cravings.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy",
+            "opener"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-100",
+      "ref": "M-100",
+      "canonical_term": "Epstein Class",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 136,
+          "video_timestamp": "00:34:33",
+          "speaker_node_ref": "N-3",
+          "quote": "I'll protect the Epstein class.",
+          "context": "Host voices Trump's supposed reply to Netanyahu's pitch.",
+          "confidence": "high",
+          "tags": [
+            "epstein class"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-11",
+      "ref": "M-11",
+      "canonical_term": "MSAD",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 136,
+          "video_timestamp": "00:40:33",
+          "speaker_node_ref": "N-3",
+          "quote": "as is the MSAD motto",
+          "context": "Host's spelling of Mossad in the migration claim.",
+          "confidence": "high",
+          "tags": [
+            "msad",
+            "mossad"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-186",
+      "ref": "M-186",
+      "canonical_term": "Squishmallow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 136,
+          "video_timestamp": "00:45:02",
+          "speaker_node_ref": "N-3",
+          "quote": "The incident of Louise and her Squishallow just before bed every night.",
+          "context": "Host reads a comment joking about the squishmallow and relates it to Louise.",
+          "confidence": "high",
+          "tags": [
+            "squishmallow",
+            "louise"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 136,
+          "video_timestamp": "00:50:17",
+          "speaker_node_ref": "N-3",
+          "quote": "Nobody believes the fed slop.",
+          "context": "Host thanks a commenter for rejecting the official story.",
+          "confidence": "high",
+          "tags": [
+            "fed slop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-236",
+      "ref": "M-236",
+      "canonical_term": "Silver Alert for Blake",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 136,
+          "video_timestamp": "00:49:13",
+          "speaker_node_ref": "N-3",
+          "quote": "Happy Monday, Blakey Pooh.",
+          "context": "Host addresses Blake Neff by nickname before the hotel remark.",
+          "confidence": "high",
+          "tags": [
+            "blakey",
+            "neff"
           ]
         }
       ]

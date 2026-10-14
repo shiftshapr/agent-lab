@@ -548,6 +548,142 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3091",
+      "family_ref": "A-3091",
+      "bundle_name": "Kirk Candace Power Lyrics Text Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3091.1",
+          "ref": "A-3091.1",
+          "description": "Text messages between the host and Charlie Kirk containing lyrics of the song Power, which the host says she will show on screen",
+          "related_claims": [
+            "C-10646"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:05:09",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3092",
+      "family_ref": "A-3092",
+      "bundle_name": "Trump Account Kirk Flags Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3092.1",
+          "ref": "A-3092.1",
+          "description": "Host verbal reference to a post from Donald Trump's account of a photo of Charlie Kirk with an American flag and an Israeli flag (not shown)",
+          "related_claims": [
+            "C-10654"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-3",
+            "N-5",
+            "N-10056"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:09:39",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3093",
+      "family_ref": "A-3093",
+      "bundle_name": "Rooftop Running Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3093.1",
+          "ref": "A-3093.1",
+          "description": "Footage shown of the crowd ducking and a figure in black running across the rooftop at the time of the shooting",
+          "related_claims": [
+            "C-10690",
+            "C-10691"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-3",
+            "N-10020",
+            "N-10024",
+            "N-10754"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:22",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3094",
+      "family_ref": "A-3094",
+      "bundle_name": "Tip Line Verbal Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3094.1",
+          "ref": "A-3094.1",
+          "description": "Host verbal reference to the tips email address (transcribed as tips@candis umcandisens.com) given to viewers with more information",
+          "related_claims": [
+            "C-10715"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:08:46",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3095",
+      "family_ref": "A-3095",
+      "bundle_name": "Viewer Comment Anna AmFest Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3095.1",
+          "ref": "A-3095.1",
+          "description": "Viewer comment from Anna read aloud by the host about meeting Erika Kirk at AmFest 2023",
+          "related_claims": [
+            "C-10707"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-10268"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:59:18",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -567,16 +703,16 @@
         "A-1091.1"
       ],
       "related_claims": [
-        "C-3630",
         "C-1125",
         "C-1126",
         "C-1127",
-        "C-1130",
-        "C-1132",
-        "C-3631",
         "C-1128",
         "C-1129",
-        "C-1136"
+        "C-1130",
+        "C-1132",
+        "C-1136",
+        "C-3630",
+        "C-3631"
       ],
       "tags": [],
       "evidence_count": 6,
@@ -596,11 +732,11 @@
         "A-1092.1"
       ],
       "related_claims": [
+        "C-1126",
         "C-1128",
         "C-1130",
         "C-1137",
-        "C-3630",
-        "C-1126"
+        "C-3630"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -643,12 +779,12 @@
         "A-1092.1"
       ],
       "related_claims": [
-        "C-3631",
         "C-1125",
         "C-1126",
         "C-1129",
+        "C-1130",
         "C-1131",
-        "C-1130"
+        "C-3631"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -670,8 +806,8 @@
       ],
       "related_claims": [
         "C-1128",
-        "C-1137",
-        "C-1129"
+        "C-1129",
+        "C-1137"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -692,9 +828,9 @@
         "A-1092.1"
       ],
       "related_claims": [
-        "C-1137",
         "C-1128",
-        "C-1129"
+        "C-1129",
+        "C-1137"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1534,6 +1670,248 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "place_kind": "venue"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-27",
+      "ref": "N-27",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Kanye West; the host says she reached out to him about the song Power after Kirk's death.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10644"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10037",
+      "ref": "N-10037",
+      "name": "Bill Ackman Response Analysis",
+      "type": "investigation_target",
+      "description": "Existing topic reused; Bill Ackman's response to the host's account of the Hamptons meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10658",
+        "C-10661",
+        "C-10665",
+        "C-10699"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10056",
+      "ref": "N-10056",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "investigation_target",
+      "description": "Existing topic reused; dispute over how Netanyahu and others portray Kirk's stance on Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10653",
+        "C-10654",
+        "C-10676"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10097",
+      "ref": "N-10097",
+      "name": "George Zinn Arrest Location/Timing",
+      "type": "investigation_target",
+      "description": "Existing topic reused; George Zinn's arrest and the timing of the in-custody announcement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10693"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10104",
+      "ref": "N-10104",
+      "name": "Catholic Conversion Rumor",
+      "type": "investigation_target",
+      "description": "Existing topic reused; claims that Charlie Kirk was moving toward Catholicism.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10670",
+        "C-10671",
+        "C-10672"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10106",
+      "ref": "N-10106",
+      "name": "Moral Blackmail by Donors",
+      "type": "investigation_target",
+      "description": "Existing topic reused; Kirk's reported sense of being morally blackmailed by donors.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10656",
+        "C-10673",
+        "C-10677",
+        "C-10683"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10165",
+      "ref": "N-10165",
+      "name": "Campus Footage Release Strategy Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused; question of why only grainy campus footage was released.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10696"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10268",
+      "ref": "N-10268",
+      "name": "AmFest Speaker Removal Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused; pressure over who could speak at AmFest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10655",
+        "C-10657",
+        "C-10659",
+        "C-10674",
+        "C-10675",
+        "C-10707"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "investigation_target",
+      "description": "Existing topic reused; the funding offer from Netanyahu to Turning Point USA.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10663"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10345",
+      "ref": "N-10345",
+      "name": "Hampton Retreat Seth Dillon Confrontation",
+      "type": "investigation_target",
+      "description": "Existing topic reused; Seth Dillon's role at the Hamptons meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10666",
+        "C-10667",
+        "C-10668"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10350",
+      "ref": "N-10350",
+      "name": "Charlie Kirk Catholicism Journey",
+      "type": "investigation_target",
+      "description": "Existing topic reused; Kirk's Catholic practice and trajectory.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10670",
+        "C-10671",
+        "C-10672"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10446",
+      "ref": "N-10446",
+      "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused; the Hamptons meeting and the Netanyahu funding offer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10660",
+        "C-10664"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10754",
+      "ref": "N-10754",
+      "name": "Rooftop Movement Tactical Analysis",
+      "type": "investigation_target",
+      "description": "Existing topic reused; analysis of the shooter's movement across the rooftop.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10690",
+        "C-10691"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -2064,6 +2442,1542 @@
         "N-52",
         "N-53"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10643",
+      "ref": "C-10643",
+      "label": "Host Says She Spoke With a Priest and Went to Confession",
+      "claim": "The host says that, because of her anger over how people are speaking for Charlie Kirk, she had to speak with a priest and go to confession.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:19",
+      "investigative_direction": "Identify the priest only if the host volunteers it; otherwise treat as a personal statement with no document to check.",
+      "transcript_snippet": "It has taken much restraint and prayer and I had to speak with a priest.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10644",
+      "ref": "C-10644",
+      "label": "Host Says She Reached Out to Kanye West About the Song Power",
+      "claim": "The host says that, after scrolling through her messages with Charlie Kirk and rewatching videos of them dancing to the song Power, she felt it appropriate to reach out to Kanye West (\"Yay\") about the song.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:51",
+      "investigative_direction": "Ask the host to show the message to Kanye West and any reply; compare with her later accounts of contact with West.",
+      "transcript_snippet": "it felt appropriate to uh to reach out to to Yay speaking about things,",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10645",
+      "ref": "C-10645",
+      "label": "Host Says She Told Viewers Kirk Was Going Through a Spiritual Transformation",
+      "claim": "The host says she had told viewers that Charlie Kirk was going through a spiritual transformation at the end of his life, and that the usual suspects were angry that she hinted at it and attacked her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10005"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:44",
+      "investigative_direction": "Locate the earlier episode where the host first hinted at the transformation and the attacks she cites; document what Kirk said or did that she treats as evidence.",
+      "transcript_snippet": "I told you guys that uh Charlie was going through a spiritual transformation at the end and all of the usual suspects were really angry that I hinted towards that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10646",
+      "ref": "C-10646",
+      "label": "Host Says She Will Show Kirk's Favorite Lyrics From the Text Thread",
+      "claim": "The host says she found Charlie Kirk's favorite portion of the song Power and will show the text exchange between her and Kirk that quotes those lyrics, which she calls relevant now.",
+      "anchored_artifacts": [
+        "A-3091.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:09",
+      "investigative_direction": "Obtain the full text thread with date stamps to confirm the lyrics were exchanged and that Kirk named them his favorite.",
+      "transcript_snippet": "Charlie's favorite portion of the song. I'll show you the text between him and I because this feels very relevant right now.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10647",
+      "ref": "C-10647",
+      "label": "Host Says Kirk Was Fighting for Custody of Himself at the End",
+      "claim": "The host says she knows that towards the end Charlie Kirk was fighting for custody of himself, which she explains as his struggle to hold to what he believed against people telling him he was not allowed to.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:00",
+      "investigative_direction": "Ask for the messages or conversations from which the host draws this conclusion; compare with Kirk's public statements in the Megyn Kelly clip.",
+      "transcript_snippet": "Charlie was fighting for custody of himself. I want to say that. I want to say that plainly.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10648",
+      "ref": "C-10648",
+      "label": "Host Says Netanyahu Tweeted First About Kirk's Death",
+      "claim": "The host says the person acting like a widow, whom she then identifies as Benjamin Netanyahu, was tweeting first about what happened to Charlie Kirk and following it minute to minute.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:17",
+      "investigative_direction": "Compare the time stamp of Netanyahu's first post about the shooting against other world leaders and TPUSA's own first statements.",
+      "transcript_snippet": "just saying the absolute most, tweeting first about what happened to Charlie, following it minute to minute,",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10649",
+      "ref": "C-10649",
+      "label": "Host Says Erika Kirk Did Not Mention Netanyahu in Her Speech",
+      "claim": "The host says she does not recall Erika Kirk mentioning Benjamin Netanyahu in her speech after the assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:43",
+      "investigative_direction": "Check the full transcript of Erika Kirk's remarks for any mention of Netanyahu or Israel.",
+      "transcript_snippet": "But I will say I don't recall Erika mentioning BB Netanyahu in her speech.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10650",
+      "ref": "C-10650",
+      "label": "Netanyahu Refers to Kirk's 2019 Visit and a Lunch With Kirk and Erika",
+      "claim": "In the Fox News clip, Netanyahu refers to Charlie Kirk's 2019 visit to Israel and to having had lunch with Kirk and his wife Erika (the transcript of this passage is partly garbled).",
+      "anchored_artifacts": [
+        "A-1082.1"
+      ],
+      "related_nodes": [
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:22",
+      "investigative_direction": "Verify the 2019 Israel visit and lunch from Fox News footage of the interview, Israeli government records or photos of the meeting.",
+      "transcript_snippet": "actually, and his 2019 visit to Israel. had lunch with him >> and his wife Erika.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10651",
+      "ref": "C-10651",
+      "label": "Netanyahu Says He Phoned Kirk a Few Weeks Before the Shooting",
+      "claim": "In the Fox News clip, Netanyahu says that a few weeks before the shooting he called Charlie Kirk, spoke to him and invited him to Israel.",
+      "anchored_artifacts": [
+        "A-1082.1"
+      ],
+      "related_nodes": [
+        "N-10018",
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:54",
+      "investigative_direction": "Obtain phone records or an Israeli or TPUSA scheduling record for the call and for the invitation.",
+      "transcript_snippet": "A few weeks before the tragedy yesterday, I I called him and I spoke to him and I said,",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10652",
+      "ref": "C-10652",
+      "label": "Netanyahu Says Kirk Was Excited to Walk in the Footsteps of Jesus",
+      "claim": "In the Fox News clip, Netanyahu says Charlie Kirk was unbelievably excited to walk in the footsteps of Jesus in Israel and valued the bond between America and Israel.",
+      "anchored_artifacts": [
+        "A-1082.1"
+      ],
+      "related_nodes": [
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:14",
+      "investigative_direction": "Compare with Kirk's own public statements about visiting Israel and with TPUSA's trip planning.",
+      "transcript_snippet": "He was unbelievably excited to walk in the footsteps of Jesus here.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10653",
+      "ref": "C-10653",
+      "label": "Netanyahu Blames Radical Islamists and Ultra-Progressives",
+      "claim": "In the Fox News clip, Netanyahu attributes political violence to radical Islamists in union with ultra-progressives who use violence against their enemies, and says \"they got Charlie Kirk.\"",
+      "anchored_artifacts": [
+        "A-1082.1"
+      ],
+      "related_nodes": [
+        "N-10006",
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:48",
+      "investigative_direction": "Compare with the facts later released about the suspect's motive; the host immediately asks who \"they\" refers to.",
+      "transcript_snippet": "you know, on the extremes, the the Islamist, the radical Islamists and the their union with the ultr progressives,",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10654",
+      "ref": "C-10654",
+      "label": "Host Says Trump's Account Posted Kirk With American and Israeli Flags",
+      "claim": "The host says Donald Trump's account tweeted a photo of Charlie Kirk with an American flag and also an Israeli flag.",
+      "anchored_artifacts": [
+        "A-3092.1"
+      ],
+      "related_nodes": [
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:39",
+      "investigative_direction": "Locate the original post on Trump's account and archive it to confirm the image, the flags and whether it was AI-generated.",
+      "transcript_snippet": "I mean, Trump's account even tweeted out a photo of Charlie and an an American flag and also an Israeli flag.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10655",
+      "ref": "C-10655",
+      "label": "Host Says Donors Told Kirk He Could Not Invite Certain People",
+      "claim": "The host says Charlie Kirk was under increasing pressure, including people flat out telling him he was not allowed to invite certain people to his events.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025",
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:00",
+      "investigative_direction": "Identify who told Kirk which speakers to exclude; request messages or emails from TPUSA staff and donors.",
+      "transcript_snippet": "but flat out telling him that he was not allowed to invite certain people to his events.",
+      "supports_claim_refs": [
+        "C-1127"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10656",
+      "ref": "C-10656",
+      "label": "Host Says Donors Threatened to Pull Money and Kirk Got Nasty Texts About Tucker and Candace",
+      "claim": "The host says people threatened to pull out money from Turning Point USA and that Charlie Kirk was receiving many nasty text messages, many of them about Tucker Carlson and Candace Owens.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10025",
+        "N-10106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:11",
+      "investigative_direction": "Obtain the text messages the host says she can release and corroborate with donor communications to TPUSA.",
+      "transcript_snippet": "They were threatening to pull out money. Uh Charlie was getting a lot of really nasty text messages and many of them pertaining to Tucker Carlson and Candace Owens,",
+      "supports_claim_refs": [
+        "C-1127"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10657",
+      "ref": "C-10657",
+      "label": "Host Says Dave Smith Is Jewish and Was Targeted for Debating Israel at AmFest",
+      "claim": "The host says Dave Smith, whom she notes is Jewish, was one of the speakers donors objected to because debates about Israel were allowed on Turning Point's America Fest stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268",
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:29",
+      "investigative_direction": "Check the AmFest 2025 programming and any donor complaints about Smith's appearance.",
+      "transcript_snippet": "How could he allow Dave Smith, who by the way is Jewish,",
+      "mentions_person_refs": [
+        "N-3",
+        "N-39",
+        "N-1",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10658",
+      "ref": "C-10658",
+      "label": "Host Says Ackman Was on Kirk About Tucker Carlson's Comments",
+      "claim": "The host says Bill Ackman was on Charlie Kirk about the comments Tucker Carlson made on the Turning Point stage and was not happy about them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025",
+        "N-10037"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:11",
+      "investigative_direction": "Obtain Ackman's communications with Kirk or TPUSA after the AmFest stage remarks.",
+      "transcript_snippet": "And Bill Ackman was on Charlie about comments that Tucker Carlson had made on that stage.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-37",
+        "N-1",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10659",
+      "ref": "C-10659",
+      "label": "Host Says Tucker Carlson Asked Where Ackman's Money Comes From",
+      "claim": "The host says that on the Turning Point stage Tucker Carlson specifically asked where Bill Ackman's money comes from.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025",
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:21",
+      "investigative_direction": "Check the video of Carlson's AmFest remarks for the exact wording and date.",
+      "transcript_snippet": "Tucker Carlson specifically asked the question, where does Bill Ackman's money come from?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22",
+        "N-37"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10660",
+      "ref": "C-10660",
+      "label": "Host Says Threats Were Made at the Hamptons and Ackman Was Very Upset",
+      "claim": "The host says that, as she was told, Charlie Kirk was surrounded by his so-called friends at the Hamptons meeting, that Bill Ackman was very upset and that threats were made.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10016",
+        "N-10446"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:40",
+      "investigative_direction": "Identify attendees of the Hamptons meeting and obtain their account or contemporaneous messages.",
+      "transcript_snippet": "Uh, Bill Ackman was very upset and threats were made.",
+      "supports_claim_refs": [
+        "C-1128"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-37",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10661",
+      "ref": "C-10661",
+      "label": "Host Says Ackman Claimed Receipts and Did Not Provide Them",
+      "claim": "The host says Max Blumenthal went to Bill Ackman for comment and that Ackman said he had receipts and could show them but did not provide them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10037",
+        "N-10016"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:08",
+      "investigative_direction": "Ask Blumenthal for the exchange with Ackman and ask Ackman to publish the receipts he referred to.",
+      "transcript_snippet": "\"I I have receipts. I can show you.\" And he did not provide the receipts and this is not how it went down.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-37",
+        "N-49"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10662",
+      "ref": "C-10662",
+      "label": "Host Says She Was Invited Elsewhere Under Pressure and It Felt Like a Threat",
+      "claim": "The host says that when she began asking questions about Israel she was met with the same pressure as Charlie Kirk, was invited somewhere else, and that the invitation felt like a threat.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Ask the host to say who invited her, to where and when, and whether any message survives.",
+      "transcript_snippet": "I was invited somewhere else. And when this arrived to me, it felt like a threat.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10663",
+      "ref": "C-10663",
+      "label": "Host Says Kirk Was Offered a Ton of Money",
+      "claim": "The host says she knows that Charlie Kirk was offered a ton of money in that moment, funding she says Netanyahu would have provided to take Turning Point USA to an even higher level.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342",
+        "N-10018"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:18",
+      "investigative_direction": "Identify the source of the offer and the amount; obtain messages sent after the meeting that reference it.",
+      "transcript_snippet": "Um, and I know that Charlie was offered a ton of money in this moment.",
+      "supports_claim_refs": [
+        "C-1130"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10664",
+      "ref": "C-10664",
+      "label": "Host Says Messages Sent After the Hamptons Meeting Are Solid",
+      "claim": "The host says her sources and records show that conversations took place and messages were sent at that time, and that they are solid.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10016",
+        "N-10446"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:23",
+      "investigative_direction": "Obtain the messages sent immediately after the meeting that the host says are circulating and verify their date and sender.",
+      "transcript_snippet": "it's solid. Okay, there were conversations that took place, messages that were sent at that time and they are solid.",
+      "supports_claim_refs": [
+        "C-1128"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10665",
+      "ref": "C-10665",
+      "label": "Ackman Tweeted He Shared a Meal With Kirk This Summer",
+      "claim": "The host reads a tweet from Bill Ackman in which he says he feels incredibly privileged to have spent a day and shared a meal with Charlie Kirk this summer.",
+      "anchored_artifacts": [
+        "A-1091.1"
+      ],
+      "related_nodes": [
+        "N-10037",
+        "N-10016"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:14",
+      "investigative_direction": "Archive the Ackman tweet with its timestamp and compare with the host's account of the meeting.",
+      "transcript_snippet": "I feel incredibly privileged to have spent a day and shared a meal with Charlie Kirk this summer.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-37",
+        "N-1",
+        "N-38"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10666",
+      "ref": "C-10666",
+      "label": "Host Texted Dillon That He Was Present When Ackman Lost His Mind and Netanyahu Invited Kirk",
+      "claim": "In a text shown on screen, the host tells Seth Dillon that he was present when Ackman (written \"Aman\") lost his mind on Charlie and when BB invited him to Israel and Charlie refused.",
+      "anchored_artifacts": [
+        "A-1092.1"
+      ],
+      "related_nodes": [
+        "N-10345",
+        "N-10016"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:40",
+      "investigative_direction": "Ask Dillon whether he attended the Hamptons meeting and whether he disputes the host's description.",
+      "transcript_snippet": "You were present when Aman lost his mind on Charlie and when BB invited him to Israel and Charlie refused.",
+      "supports_claim_refs": [
+        "C-1128"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-38",
+        "N-37",
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10667",
+      "ref": "C-10667",
+      "label": "Host Says Dillon Placed Frantic Calls to Turning Point USA",
+      "claim": "The host says Seth Dillon was unable to speak to her but did place some frantic calls to Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10345"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:09",
+      "investigative_direction": "Ask TPUSA staff and Dillon about calls between them in the days after the shooting.",
+      "transcript_snippet": "he was unable to speak to me, but he did place some frantic calls to Turning Point USA.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-38"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10668",
+      "ref": "C-10668",
+      "label": "Host Says Meeting Attendees Are Coordinating a Response and Will Not Go on Record",
+      "claim": "The host says she went out to two other attendees of the Hamptons meeting besides Dillon, that nobody is willing to go on record, and that they are messaging each other to figure out a coordinated response.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10016",
+        "N-10345"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:23",
+      "investigative_direction": "Identify the two other attendees the host says she contacted and whether any of them has since spoken.",
+      "transcript_snippet": "and nobody is willing to go on record. They're all messaging each other trying to figure out a coordinated response to say that no,",
+      "mentions_person_refs": [
+        "N-3",
+        "N-38"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10669",
+      "ref": "C-10669",
+      "label": "Host Says Attendees Know Someone Is Leaking",
+      "claim": "The host says no one wants to describe the Hamptons meeting as cordial on the record because they know someone is leaking, since someone has a guilty conscience about what happened there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10016",
+        "N-10027"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:31",
+      "investigative_direction": "Identify the leak source through the host's sources; check later attendee statements.",
+      "transcript_snippet": "this was all quite cordial, but no one wants to go on record and describe it as cordial because they know someone's leaking because someone's got a guilty conscience about what happened at the Hamptons.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10670",
+      "ref": "C-10670",
+      "label": "Host Says Kirk Was Praying the Rosary",
+      "claim": "The host says she can tell viewers factually that Charlie Kirk was praying the rosary.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10104",
+        "N-10350"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:09",
+      "investigative_direction": "Identify witnesses or objects (rosary, Mass attendance records) corroborating Kirk's Catholic practice.",
+      "transcript_snippet": "I can tell you factually Charlie was praying the rosary.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10671",
+      "ref": "C-10671",
+      "label": "Host Says Kirk Went to Mass and She Urged Him to Make the Last Step",
+      "claim": "The host says Charlie Kirk was going to Mass and that one of her last conversations with him was her joking that he should just make the last step.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10104",
+        "N-10350"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:29",
+      "investigative_direction": "Ask for the message thread of that conversation; identify the church or priest if Kirk attended Mass.",
+      "transcript_snippet": "Charlie was going to mass. One of my last conversations with Charlie was me joking with him saying just make the last step.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10672",
+      "ref": "C-10672",
+      "label": "Host Says Kirk Replied That She Was Speaking About Mary",
+      "claim": "The host says that when she told Kirk to take the last step because he was too smart to be a Protestant, he answered \"Haha, you're speaking about uh Mary.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10104",
+        "N-10350"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:43",
+      "investigative_direction": "Obtain the text or voice exchange to confirm the wording and date.",
+      "transcript_snippet": "He says, \"Haha, you're speaking about uh Mary.\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10673",
+      "ref": "C-10673",
+      "label": "Host Says She Knew Which Donors Were Pressuring Kirk and Why",
+      "claim": "The host says she was in communication with Charlie Kirk at that time and knew exactly which donors were pressuring him and why.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025",
+        "N-10106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:23",
+      "investigative_direction": "Ask the host to name the donors and release the messages she says document the pressure.",
+      "transcript_snippet": "because I was in communication with Charlie at this time because I knew exactly which donors were pressuring him and why.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10674",
+      "ref": "C-10674",
+      "label": "Host Says Donors Insisted on Speakers Kirk Did Not Want",
+      "claim": "The host says donors insisted that Charlie Kirk allow certain people to speak at his event, people Kirk did not necessarily want on his stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025",
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:39",
+      "investigative_direction": "Identify the speakers and the donors involved; compare with AmFest speaker lists and removals.",
+      "transcript_snippet": "Exactly which people that they were insisting Charlie allowed to speak at his event and why when Charlie did not necessarily want those people to speak at his event.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10675",
+      "ref": "C-10675",
+      "label": "Host Says Kirk Was Miked the Entire Time at Events",
+      "claim": "The host says Charlie Kirk was miked, as was Tucker Carlson, and that Kirk is miked the entire time at those events, so she calls on Turning Point USA to release footage of what Kirk said to Carlson before he went on stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:04",
+      "investigative_direction": "Ask TPUSA to confirm whether audio of Kirk's pre-stage exchange with Carlson exists and to release it.",
+      "transcript_snippet": "Charlie was miked. Surely Tucker Carlson was miked. I know Charlie's miked the entire time at those events.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10676",
+      "ref": "C-10676",
+      "label": "Host Says There Is No Evidence Israel Was Involved in the Assassination",
+      "claim": "The host says that her points about Netanyahu do not prove Israel was involved in the assassination of Charlie Kirk, and that there is no evidence of that.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026",
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:13",
+      "investigative_direction": "Record the host's later statements on Israeli involvement to see whether this position changes.",
+      "transcript_snippet": "No, we have no evidence of that. We can't say that because there is no evidence of that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10677",
+      "ref": "C-10677",
+      "label": "Host Says Kirk Felt He Had Effectively Been Blackmailed After the Meeting",
+      "claim": "The host says Charlie Kirk was having a change of heart about the tactics Israel was using in America and that when he left the meeting he felt he had effectively been blackmailed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10016",
+        "N-10106",
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:05",
+      "investigative_direction": "Obtain Kirk's post-meeting messages that the host says contain this sentiment and identify who received them.",
+      "transcript_snippet": "pointing out the fact that Charlie was having a change of heart about the tactics that Israel was using in America and that he felt when he had left that meeting that he had effectively been blackmailed.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10678",
+      "ref": "C-10678",
+      "label": "Netanyahu Calls the Rumors Insane and Says Israel Also Changes the Orbit of the Moon",
+      "claim": "In the Greta Van Susteren interview, Netanyahu answers the question about Israel's alleged involvement by calling it insane and saying \"Israel uh also changes the uh the orbit of the moon.\"",
+      "anchored_artifacts": [
+        "A-1085.1"
+      ],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:55",
+      "investigative_direction": "Obtain the full video of the interview and its airdate to check the exact wording.",
+      "transcript_snippet": "That's insane. That's insane. Israel uh also changes the uh the orbit of the moon.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-44"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10679",
+      "ref": "C-10679",
+      "label": "Netanyahu Says the Perpetrator Has Just Been Found",
+      "claim": "In the Greta Van Susteren interview, Netanyahu says that the perpetrator has just been found and that they will get to the bottom of it.",
+      "anchored_artifacts": [
+        "A-1085.1"
+      ],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:14",
+      "investigative_direction": "Match against the interview airdate and the status of the suspect's arrest at that time.",
+      "transcript_snippet": "They just found the perpetrator. They'll get to the bottom of this, but uh uh they they go,",
+      "mentions_person_refs": [
+        "N-36",
+        "N-44"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10680",
+      "ref": "C-10680",
+      "label": "Netanyahu Compares the Rumors to Medieval Accusations Against Jews",
+      "claim": "In the Greta Van Susteren interview, Netanyahu says that in the Middle Ages Jews were accused of poisoning wells and drinking the blood of Christian children, and that the Nazis said the same, as a prelude to the Holocaust.",
+      "anchored_artifacts": [
+        "A-1085.1"
+      ],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:47",
+      "investigative_direction": "Check the full interview for the exact wording; compare with the host's reaction at 00:28:14.",
+      "transcript_snippet": "We were poisoning the wells. We were drinking the blood of Christian children. You name it.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-44"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10681",
+      "ref": "C-10681",
+      "label": "Kirk Clip: People Who Met Epstein Found Him Unimpressive in Finance",
+      "claim": "In a clip of Charlie Kirk, he says that videos of people who met Jeffrey Epstein at the time show they found him awfully unimpressive when it came to finance, markets and economics.",
+      "anchored_artifacts": [
+        "A-1086.1"
+      ],
+      "related_nodes": [
+        "N-10023"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:52",
+      "investigative_direction": "Identify the original Kirk broadcast and the videos or interviews Kirk is describing.",
+      "transcript_snippet": "they said he was awfully unimpressive when it came to finance and markets and economics.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10682",
+      "ref": "C-10682",
+      "label": "Kirk Clip: Epstein Was a Creation of Mossad, Israeli, American or Saudi Intelligence or a Hired Gun",
+      "claim": "In the Kirk clip, he says the evidence shows that Epstein was a creation of either Mossad, Israeli intelligence, American intelligence or Saudi intelligence, or maybe was just a hired gun that countries used.",
+      "anchored_artifacts": [
+        "A-1086.1"
+      ],
+      "related_nodes": [
+        "N-10023",
+        "N-10015"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:16",
+      "investigative_direction": "Identify the original Kirk broadcast and date; the clip lists several possible sponsors, which narrows the Israeli-only claim.",
+      "transcript_snippet": "Israeli intelligence, American intelligence, Saudi intelligence, or maybe he was just a hired gun.",
+      "qualifies_claim_refs": [
+        "C-1132"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10683",
+      "ref": "C-10683",
+      "label": "Kirk Clip: Members of Congress Are Actively Being Blackmailed",
+      "claim": "In the Kirk clip, he says members of Congress are actively being blackmailed and that the Epstein playbook is being used on a daily basis.",
+      "anchored_artifacts": [
+        "A-1086.1"
+      ],
+      "related_nodes": [
+        "N-10023",
+        "N-10106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:28",
+      "investigative_direction": "Identify the original broadcast and any evidence Kirk cited for current blackmail of members of Congress.",
+      "transcript_snippet": "Members of Congress are actively being blackmailed.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10684",
+      "ref": "C-10684",
+      "label": "Host Says She Knows Who Exerted Pressure on Kirk and Sees Messages From Would-Be Replacements",
+      "claim": "The host says she is seeing messages from people trying to replace Charlie Kirk at Turning Point USA, and that she knows exactly who they are and who exerted pressure on Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:12",
+      "investigative_direction": "Ask the host to identify the senders and release the messages she says she will publish.",
+      "transcript_snippet": "I know exactly who you are. I know exactly who you were that were exerting pressure.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10685",
+      "ref": "C-10685",
+      "label": "Savage Says the FBI's Rifle Disassembly Claim Is Implausible",
+      "claim": "In the clip, Michael Savage says the FBI claims the shooter removed the barrel from the Mauser and fit the receiver and stock in his backpack and the barrel in his pants in two seconds, and says a Mauser barrel is not easy to remove or re-index accurately.",
+      "anchored_artifacts": [
+        "A-1087.1"
+      ],
+      "related_nodes": [
+        "N-10020",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:03",
+      "investigative_direction": "Obtain the FBI's stated account of the rifle's disassembly and a firearms expert assessment of the time needed.",
+      "transcript_snippet": "They're trying to claim he removed the barrel from the mouser and fit the receiver and stock in his backpack and barrel in his pants like all in two seconds.",
+      "mentions_person_refs": [
+        "N-43"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10686",
+      "ref": "C-10686",
+      "label": "Savage Says the Photo of the Rifle in the Woods Shows the Barrel Installed",
+      "claim": "In the clip, Michael Savage says the photo of the rifle allegedly left in the woods has the barrel installed, which he finds inconsistent with the disassembly story.",
+      "anchored_artifacts": [
+        "A-1087.1"
+      ],
+      "related_nodes": [
+        "N-10020",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:21",
+      "investigative_direction": "Obtain the FBI photo of the recovered rifle and the evidence log describing its condition when found.",
+      "transcript_snippet": "And by the way, the photo of the rifle allegedly left in the woods has the barrel installed.",
+      "supports_claim_refs": [
+        "C-1139"
+      ],
+      "mentions_person_refs": [
+        "N-43"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10687",
+      "ref": "C-10687",
+      "label": "Host Says the FBI Has Said It Is Looking for Another Person",
+      "claim": "The host says the FBI has recently come out and said it is looking for another person, and later says authorities have said there is probably somebody else involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014",
+        "N-10024"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:20",
+      "investigative_direction": "Find the FBI statement or briefing in which this was said and its date.",
+      "transcript_snippet": "The FBI, I will say, has recently come out and said they're looking for another person.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10688",
+      "ref": "C-10688",
+      "label": "Host Says the Book Chaos Shows Governments Hide Things by Flooding Information",
+      "claim": "The host says she insisted everyone read the book Chaos about the Charles Manson murders, and that she learned from it that governments hiding something give out so much information that people do not know what is real.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:41",
+      "investigative_direction": "No case evidence to check; treat as the host's interpretation of the book's thesis.",
+      "transcript_snippet": "what they do is they give you so much information that you can't pro you don't even know what's real.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10689",
+      "ref": "C-10689",
+      "label": "Host Says TMZ Footage at 8:07 Conflicts With Cox's 8:29 Arrival",
+      "claim": "The host says it is confusing that TMZ shows the man already walking at 8:07 when Governor Cox says Robinson arrived at campus at about 8:29, which would mean he walked, returned to his car and then drove to campus.",
+      "anchored_artifacts": [
+        "A-1088.1",
+        "A-1089.1"
+      ],
+      "related_nodes": [
+        "N-10011",
+        "N-10024"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:09",
+      "investigative_direction": "Obtain the original TMZ video with metadata and the UVU parking and surveillance records for the Challenger.",
+      "transcript_snippet": "So, what's interesting already confusing to me is that TMZ shows him already walking.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10690",
+      "ref": "C-10690",
+      "label": "Footage Shows a Figure Running Across the Rooftop as the Crowd Ducks",
+      "claim": "The host says footage shows that, at the same minute as the 12:23 shot and as the crowd ducks, the shooter runs across the rooftop.",
+      "anchored_artifacts": [
+        "A-3093.1"
+      ],
+      "related_nodes": [
+        "N-10024",
+        "N-10754"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:04",
+      "investigative_direction": "Obtain the original rooftop footage with metadata and verify that the figure is the shooter and the time of the clip.",
+      "transcript_snippet": "the shooter runs across the rooftop. I'm going to tell you why that's significant.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10691",
+      "ref": "C-10691",
+      "label": "Host Says Immediate Rooftop Movement Conflicts With the Disassembly Narrative",
+      "claim": "The host says that seeing the shooter start moving across the rooftop immediately as people duck is problematic because the official narrative is that he disassembled the gun first and then ran.",
+      "anchored_artifacts": [
+        "A-3093.1"
+      ],
+      "related_nodes": [
+        "N-10020",
+        "N-10754"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:42",
+      "investigative_direction": "Obtain the official timeline of disassembly and the frame-by-frame rooftop footage.",
+      "transcript_snippet": "is that their narrative is that he disassembled the gun and then started running.",
+      "supports_claim_refs": [
+        "C-1140"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10692",
+      "ref": "C-10692",
+      "label": "Host Says Hunters and Gun Owners Told Her the Disassembly Did Not Happen",
+      "claim": "The host says an unbelievable number of hunters and gun people reached out to her to say the disassembly narrative did not happen, as Michael Savage argued.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10020"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:03",
+      "investigative_direction": "Collect expert firearms analyses of the Mauser's field-strip time.",
+      "transcript_snippet": "An unbelievable amount of um hunters, guns, people that reach out to me and said that just didn't happen.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-43"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10693",
+      "ref": "C-10693",
+      "label": "Host Says Zinn Was Arrested and Signaled He Shot Kirk, and a Suspect in Custody Was Announced at 12:52",
+      "claim": "The host says George Zinn was arrested, was making noise and signaling that he had somehow shot Kirk, and that at 12:52 it was announced that the suspect was in custody; she describes him as a decoy and suggests more people were involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10097",
+        "N-10024"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:29",
+      "investigative_direction": "Obtain police dispatch logs, arrest records and video for Zinn and the 12:52 announcement.",
+      "transcript_snippet": "He's signaling that he's somehow shot the guy. And at 12:52, it gets announced that the suspect is in custody.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10694",
+      "ref": "C-10694",
+      "label": "FBI Photos Show the Suspect in a Stairwell in a Second Outfit",
+      "claim": "The host says the FBI released photos of the shooter in a stairwell, in what she calls outfit number two, and that the location of the stairwell and the timeline are not given.",
+      "anchored_artifacts": [
+        "A-1094.1"
+      ],
+      "related_nodes": [
+        "N-10014",
+        "N-10019"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:45",
+      "investigative_direction": "Obtain the original FBI release with date and camera location, and build the timeline for the outfit change.",
+      "transcript_snippet": "We don't know exactly where that stairwell is. He's in outfit number two, so the outfit change has happened.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10695",
+      "ref": "C-10695",
+      "label": "Host Infers From the Stairwell Photos That No Weapon Was in His Pant Leg",
+      "claim": "The host says that, because the person can be seen bending one leg in one photo and the other leg in another, she infers there is no weapon in his pant leg.",
+      "anchored_artifacts": [
+        "A-1094.1"
+      ],
+      "related_nodes": [
+        "N-10019",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:51",
+      "investigative_direction": "Review the stairwell photos in full resolution to see whether the clothing shows a concealed object.",
+      "transcript_snippet": "we can discern that there is no weapon that is in his uh pant leg because uh we can see him bending one leg in one photo and we can see him bending the other leg in another photo.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10696",
+      "ref": "C-10696",
+      "label": "Host Says There Are Many Cameras on the UVU Campus but Only Grainy Images Were Released",
+      "claim": "The host says a ton of cameras cover the campus and the authorities could release much more footage, yet only grainy images have been shown, and people online who studied the campus tech stack are asking why.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10028",
+        "N-10165"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:06",
+      "investigative_direction": "Obtain the UVU camera inventory and the authorities' reasons for withholding higher-resolution footage.",
+      "transcript_snippet": "What is clear is that there is a ton of cameras on this campus.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10697",
+      "ref": "C-10697",
+      "label": "Host Says Robinson Was Reported Wearing the Maroon Outfit When Apprehended 33 Hours Later",
+      "claim": "The host says it was communicated that Tyler Robinson was wearing the maroon outfit when he was apprehended, 33 hours after the shooting, which she finds odd given the reported outfit change in between.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10019",
+        "N-10024"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:49",
+      "investigative_direction": "Obtain the arrest report or booking photo describing what Robinson was wearing and the time of arrest.",
+      "transcript_snippet": "it is communicated to us that he is wearing the maroon outfit.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10698",
+      "ref": "C-10698",
+      "label": "Host Recounts the Story That Robinson's Father Turned Him In After Speaking With a Pastor",
+      "claim": "The host recounts the story she says was told, that Tyler Robinson's father turned him in after speaking with a pastor.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:26",
+      "investigative_direction": "Identify the pastor and the official account of how Robinson came into custody.",
+      "transcript_snippet": "the story that we were told was that Tyler Robinson allegedly um after speaking with the pastor,",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10699",
+      "ref": "C-10699",
+      "label": "Host Says Ackman's Money Is Now Going to Robinson's Father",
+      "claim": "The host says that Bill Ackman, who she guesses offered about a million dollars, will see that money go to the father of the suspect who, after prayer and speaking to a pastor, turned his son in.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10022",
+        "N-10037"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:39",
+      "investigative_direction": "Check whether Ackman or any other party announced a reward, its amount and who received it.",
+      "transcript_snippet": "that money is now going to the father of this child who after prayer and speaking to a pastor,",
+      "mentions_person_refs": [
+        "N-3",
+        "N-37",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10700",
+      "ref": "C-10700",
+      "label": "Cox Says Robinson's Online Acquaintances Joked Until He Admitted It Was Him",
+      "claim": "Asked about reporting by Matt Gutman, Governor Cox says conversations with Robinson's acquaintances did happen, that they did not believe it was him, and that it was all joking until he admitted that it actually was him.",
+      "anchored_artifacts": [
+        "A-1089.3"
+      ],
+      "related_nodes": [
+        "N-10021"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:50",
+      "investigative_direction": "Obtain the original reporting and any messages in which Robinson allegedly admitted it to acquaintances.",
+      "transcript_snippet": "It was it was all joking until until he uh you know until he admitted that it it it actually was him.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-40",
+        "N-45"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10701",
+      "ref": "C-10701",
+      "label": "Cox Says the People Around Robinson Are Cooperating",
+      "claim": "Governor Cox says that although Robinson is not cooperating, all the people around him are cooperating, which he calls very important.",
+      "anchored_artifacts": [
+        "A-1089.3"
+      ],
+      "related_nodes": [
+        "N-10021"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:08",
+      "investigative_direction": "Identify who is cooperating from court filings and statements from the prosecutor.",
+      "transcript_snippet": "Uh but uh but but all the people around him are cooperating and I I think that's uh that's that's very important.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10702",
+      "ref": "C-10702",
+      "label": "Cox Says the Roommate Showed Investigators Discord Messages and Let Them Photograph the Screen",
+      "claim": "Governor Cox says the roommate showed several Discord messages to investigators and allowed them to take photos of the screen as each message was shown.",
+      "anchored_artifacts": [
+        "A-1089.4"
+      ],
+      "related_nodes": [
+        "N-10013",
+        "N-10021"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:42",
+      "investigative_direction": "Obtain the investigators' photos of the roommate's screen from the charging documents and verify the account name.",
+      "transcript_snippet": "He opened it and showed several messages to investigators and allowed investigators to take photos of the screen as each message was shown by Robinson's roommate.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10703",
+      "ref": "C-10703",
+      "label": "Cox Says Discord Messages Told of a Rifle Drop Point, a Bush and a Towel",
+      "claim": "Governor Cox says messages from the contact \"Tyler\" stated a need to retrieve a rifle from a drop point, leaving the rifle in a bush, visually watching the area where it was left, and having left it wrapped in a towel.",
+      "anchored_artifacts": [
+        "A-1089.4"
+      ],
+      "related_nodes": [
+        "N-10013",
+        "N-10020"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:03",
+      "investigative_direction": "Obtain the message exhibits from the charging documents and compare timestamps with the shooting timeline.",
+      "transcript_snippet": "The content of these messages included messages affiliated with the contact Tyler stating a need to retrieve a rifle from a drop point,",
+      "supports_claim_refs": [
+        "C-1139"
+      ],
+      "mentions_person_refs": [
+        "N-41",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10704",
+      "ref": "C-10704",
+      "label": "Cox Says Messages Mentioned Engraving Bullets, a Scope and a Unique Rifle",
+      "claim": "Governor Cox says the messages also refer to engraving bullets, a scope and the rifle being unique.",
+      "anchored_artifacts": [
+        "A-1089.4"
+      ],
+      "related_nodes": [
+        "N-10013"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:22",
+      "investigative_direction": "Compare with the ammunition and engravings described in the charging documents and recovered evidence.",
+      "transcript_snippet": "The messages also refer to engraving bullets and a mention of a scope and the rifle being unique.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10705",
+      "ref": "C-10705",
+      "label": "Cox Says Messages Mentioned Changing Outfits",
+      "claim": "Governor Cox says messages from the contact \"Tyler\" also mentioned that he had changed outfits.",
+      "anchored_artifacts": [
+        "A-1089.4"
+      ],
+      "related_nodes": [
+        "N-10013",
+        "N-10019"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:35",
+      "investigative_direction": "Obtain the message with its timestamp to place the outfit change in the timeline.",
+      "transcript_snippet": "Messages from the contact Tyler also mentioned that he had changed outfits.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10706",
+      "ref": "C-10706",
+      "label": "Host Says a Classmate Called Robinson Remarkably Tidy and Found the Outfit Reversion Strange",
+      "claim": "The host says she was contacted by one of Tyler Robinson's classmates who said the strangest part was putting on, 33 hours later, the outfit he had worn earlier, because they described him as remarkably tidy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10019"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:58",
+      "investigative_direction": "Identify the classmate through the host's source and corroborate with other classmates or photos from the days around the shooting.",
+      "transcript_snippet": "They told me that that was the strangest part, the 33-hour putting on an outfit that he had on 33 hours early because they described him as remarkably tidy.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10707",
+      "ref": "C-10707",
+      "label": "Viewer Says She Met Erika Kirk at AmFest 2023 Without Knowing Who She Was",
+      "claim": "The host reads a viewer comment from Anna saying that at AmFest 2023 she talked with a woman through the PBD podcast for an hour and at the end the woman told her she was Charlie's wife, Erika, who made her feel welcome.",
+      "anchored_artifacts": [
+        "A-3095.1"
+      ],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:33",
+      "investigative_direction": "Treat as an unverified viewer anecdote; no document available.",
+      "transcript_snippet": "At the end of the conversation, she let me know uh that she she let me know she is Charlie's wife,",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10708",
+      "ref": "C-10708",
+      "label": "Host Says Someone at the University Stood Up and Cheered When Kirk Was Shot",
+      "claim": "The host says that at the university where Charlie Kirk was shot someone stood up and cheered.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:48",
+      "investigative_direction": "Find video or eyewitness accounts of anyone cheering at UVU after the shooting.",
+      "transcript_snippet": "someone stood up and cheered.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10709",
+      "ref": "C-10709",
+      "label": "Host Says an Underground Communist Movement Is in All Schools",
+      "claim": "The host says there is an underground communist movement that is at all schools and urges parents to take their children out and homeschool.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:00:53",
+      "investigative_direction": "Sweeping assertion with no evidence offered; no case record to check.",
+      "transcript_snippet": "understanding there's an underground communist movement and it is at all schools.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10710",
+      "ref": "C-10710",
+      "label": "Host Recommends The Assault on Truth for Newcomers",
+      "claim": "The host recommends The Assault on Truth, which she says is in her book club, as a good start for understanding the lies being told.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:01:49",
+      "investigative_direction": "Identify the book and edition the host means; no case record to check.",
+      "transcript_snippet": "I would say right now my book club and you don't need to join that but you should read the assault on truth.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10711",
+      "ref": "C-10711",
+      "label": "Host Says Freud Covered for Parents Who Raped Their Toddlers",
+      "claim": "The host says that Sigmund Freud's psychoanalytic movement covered for parents who were raping their toddlers, and cites it as evidence of the evil people are confronted with.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:02:17",
+      "investigative_direction": "Historical claim about Freud and the seduction theory; compare with scholarly accounts, no case record to check.",
+      "transcript_snippet": "I'm talking about parents that were raping their toddlers he was covering for.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-50"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10712",
+      "ref": "C-10712",
+      "label": "Host Says Shlomo Sand Is a Professor Historian at Tel Aviv University",
+      "claim": "The host says she believes Shlomo Sand, author of The Invention of the Jewish People, is a professor historian at Tel Aviv University.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:03:07",
+      "investigative_direction": "Check Sand's university affiliation; host hedges with \"I believe.\"",
+      "transcript_snippet": "He was uh I believe a professor historian at Tel Aviv University.",
+      "supports_claim_refs": [
+        "C-3720"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-52"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10713",
+      "ref": "C-10713",
+      "label": "Host Says the Authors She Recommends Are Jewish and Some Were in the IDF",
+      "claim": "The host says all the books she recommends were written by Jewish authors, so readers know they are not diving into something that can be labeled anti-Semitic, and she says these people were like in the IDF with no incentive to lie.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:03:17",
+      "investigative_direction": "Check each author's biography and military service; no case record to check.",
+      "transcript_snippet": "um were written by Jewish authors cuz that makes you aware of the fact that you're not diving into something that is can be labeled anti-Semitic because I mean these people were like in the IDF,",
+      "supports_claim_refs": [
+        "C-3720"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-51",
+        "N-52"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10714",
+      "ref": "C-10714",
+      "label": "Host Says Ashkenazi Jewish Authors Wrote That They Were Khazars and She Has Covered It Extensively",
+      "claim": "Responding to a viewer's recommendation of The 13th Tribe, the host says that Ashkenazi Jews' own books said they were Khazars, and that she has covered the topic extensively on her show.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:07:02",
+      "investigative_direction": "Check the earlier episodes the host refers to and the scholarship on the Khazar hypothesis; no case record to check.",
+      "transcript_snippet": "and they said they were the Khazars. So, you know, I've covered that on my show extensively.",
+      "supports_claim_refs": [
+        "C-3720"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-53"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10715",
+      "ref": "C-10715",
+      "label": "Host Asks Viewers to Send Information to the Tips Address",
+      "claim": "The host asks viewers who have more information to send it to the tips email address (transcribed tips@candis umcandisens.com) if they want to join the movement of the decentralized intelligence agency.",
+      "anchored_artifacts": [
+        "A-3094.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:08:46",
+      "investigative_direction": "Record tip volume and any follow-up in later episodes where the host cites emailed tips.",
+      "transcript_snippet": "If you have any more information, please send them to tips@candis umcandisens.",
+      "supports_claim_refs": [
+        "C-3633"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10716",
+      "ref": "C-10716",
+      "label": "Host Says Her Operation Is Entirely Independent and Takes Money From Nobody",
+      "claim": "The host says her operation is entirely independent and takes money from nobody, so nobody can threaten her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:09:02",
+      "investigative_direction": "Compare with her disclosed funding and sponsor reads in later episodes.",
+      "transcript_snippet": "We take money from nobody so nobody can threaten me.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": [
@@ -2196,6 +4110,136 @@
           "confidence": "high",
           "tags": [
             "wave3"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-11",
+      "ref": "M-11",
+      "canonical_term": "MSAD",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 2,
+          "video_timestamp": "00:30:07",
+          "speaker_node_ref": "N-3",
+          "quote": "Epstein was a creation of either MSAD, Israeli intelligence, American intelligence, Saudi intelligence, or maybe he was just a hired gun.",
+          "context": "Host comic spelling of Mossad while listing intel-agency theories about Epstein.",
+          "confidence": "high",
+          "tags": [
+            "intel_joke",
+            "spelling_gag"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 2,
+          "video_timestamp": "01:08:52",
+          "speaker_node_ref": "N-3",
+          "quote": "if you want to join our movement of the decentralized uh intelligence agency.",
+          "context": "First CKA pitch inviting viewers into the crowd-sourced tip / merch movement.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "brand_joke",
+            "tips_network"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 2,
+          "video_timestamp": "00:25:05",
+          "speaker_node_ref": "N-3",
+          "quote": "You're not going to gaslight us and tell us to shut up or call us anti-Semitic for pointing out the fact",
+          "context": "Host rejects narrative pressure after Charlie Kirk death coverage.",
+          "confidence": "high",
+          "tags": [
+            "media",
+            "denial",
+            "host_refrain"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-27",
+      "ref": "M-27",
+      "canonical_term": "Shill",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 2,
+          "video_timestamp": "00:31:30",
+          "speaker_node_ref": "N-3",
+          "quote": "You put a shill in Charlie Kirk's chair, in Charlie Kirk's uh company",
+          "context": "Host warns against a planted successor at Turning Point USA.",
+          "confidence": "high",
+          "tags": [
+            "tpusa",
+            "planted",
+            "host_refrain"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 2,
+          "video_timestamp": "01:08:31",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king. Praying for you and your family. Thank you very much. Christ is king.",
+          "context": "Viewer tribute read on air elevates the closing confession refrain.",
+          "confidence": "high",
+          "tags": [
+            "faith",
+            "closing",
+            "chat_elevate"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 2,
+          "video_timestamp": "00:45:00",
+          "speaker_node_ref": "N-3",
+          "quote": "Uh but we know that something's wrong with this.",
+          "context": "Host admits she cannot prove the decoy theory but says something is wrong, right after discussing George Zinn's arrest.",
+          "confidence": "medium",
+          "tags": [
+            "gut_certainty",
+            "host_refrain"
           ]
         }
       ]

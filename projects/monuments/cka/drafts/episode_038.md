@@ -11,8 +11,10 @@
 - **Transcript SHA-256**: aad9b594be730478a8051e834c8dd3ae3c76a0895b472f75831b8b225046f268
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-288, N-289, N-291, N-292, N-293, N-294, N-295, N-296, N-297, N-10283, N-10285, N-10286, N-10287, N-10288, N-10291, N-10292, N-10293, N-10295, N-10296, N-10297
-  - Reused Nodes Appearing: none, N-290, N-387, N-10284, N-10294, N-10289, N-10290
+  - Tip-minted Nodes (supplement_2026-10e): N-893, N-11277, N-11278, N-11279, N-11280
+  - Claim Range (supplement_2026-10e): C-10891–C-10948
+  - New Nodes Introduced: N-288, N-291, N-292, N-293, N-294, N-295, N-296, N-297, N-10283, N-10285, N-10286, N-10287, N-10288, N-10291, N-10292, N-10293, N-10295, N-10296
+  - Reused Nodes Appearing: none, N-290, N-387, N-10284, N-10294, N-10289, N-10290, N-5, N-14, N-22, N-10001, N-10003, N-10012, N-10014, N-10015, N-10059, N-10074, N-10075, N-10088, N-10116, N-10145, N-10150, N-10204, N-10222, N-10265, N-10266, N-10269, N-10270, N-10273, N-10277, N-10279, N-10316, N-10900, N-11008, N-11010, N-11011, N-289, N-10297
   - (see registers)
 
 ## 2. Executive Summary
@@ -37,6 +39,45 @@ Tags: fall_guy, case, host_charge
 Confidence: high
 
 ---
+
+---
+
+**M-75** (meme) I'll Say Allegedly
+
+### Occurrence 1
+
+Video Timestamp: 00:04:49
+Speaker: N-3
+Quote: I am saying allegedly because until I can physically see with my own eyes inside of these accounts and verify the transfer of that payment, it's of course alleged.
+Context: Host hedges the alleged $1.5 million payment.
+Tags: allegedly, hedge
+Confidence: high
+
+---
+
+**M-38** (meme) MK Ultra
+
+### Occurrence 1
+
+Video Timestamp: 00:36:16
+Speaker: N-3
+Quote: I'm pretty convinced that Brigitte Macron has been involved on the basis of my lawsuit and the mentioning of MK Ultra 18 times absurdly in my lawsuit
+Context: Host ties the Macron lawsuit's MK Ultra references to Brigitte's alleged involvement.
+Tags: mk ultra, brigitte
+Confidence: high
+
+---
+
+**M-127** (meme) The Matrix
+
+### Occurrence 1
+
+Video Timestamp: 00:54:41
+Speaker: N-3
+Quote: It is a consequence from the Matrix for me discussing a multinational state secret which is Brigitte Macron.
+Context: Host frames the Delaware lawsuit as a consequence of the Matrix.
+Tags: matrix, lawsuit
+Confidence: high
 
 ---
 
@@ -398,6 +439,49 @@ Confidence Level: High (specific date and number read on air)
 
 ---
 
+**A-3110** Host Account of Agency and Palace Responses Bundle
+
+**A-3110.1** Host verbal account of what the Elysee Palace, the White House, the counterterrorism unit and the FBI did or did not say after her November 25 post (nothing shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:08:00
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-10900, C-10901, C-10902, C-10904, C-10905, C-10906, N-3, N-11280*
+
+---
+
+**A-3111** Viewer Comment on Kolvet and the List Bundle
+
+**A-3111.1** Top viewer comment from the prior episode, read by the host, asking how Andrew Kolvet knew it was supposed to be Candace if the killer is Tyler Robinson
+
+Quoted text: "how did Andrew Kolvet know that it was supposed to be Candace if the killer is Tyler Robinson?"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:55:24
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10941, C-10942, N-14, N-40, N-3*
+
+---
+
+**A-3112** Host Reply to Eric Bolling Bundle
+
+**A-3112.1** Host reads her own reply to Eric Bolling's apology email (the email text itself is already A-1474.1)
+
+Quoted text: "keep that same energy. You went on to a podcast. You lied about relationship with Charlie right after he died when I was still reeling from so many emotions."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:56:59
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10944, N-289, N-3*
+
+---
+
 ## 4. Node Register
 
 **N-288** Adam Sosnick
@@ -751,6 +835,322 @@ Investigative Pressure: Low
 
 ---
 
+**N-893** Jean-Michel Trogneux
+
+First named by the host at 00:00:01 in episode 38. The name the host uses for Brigitte Macron's alleged earlier male identity; the host asserts, without a document shown, that this person was born male. All claims here are the host's allegations.
+
+*Related: C-10891, C-10908, C-10929, C-10930, C-10947, C-10948*
+
+---
+
+**N-11277** Macron Lawsuit Federal Setup Theory
+
+Node Type: Topic
+The host's theory that US federal agencies, with France and Israel, pressured or arranged the Macron defamation suit in Delaware to stop her research, including a federal call asking her to stop.
+
+*Related: C-10927, C-10929, C-10936*
+
+---
+
+**N-11278** Ace Partners
+
+Node Type: Organization
+Tel Aviv firm the host names as the second largest shareholder of Satys, investing in aerospace and defense startups with a focus on Israel.
+
+*Related: C-10932, C-10933*
+
+---
+
+**N-11279** UVU Attendee Recognition and Media Avoidance Question
+
+Node Type: Topic
+The host's account that UVU students did not recognize attendees at the September 10 event, that it was advertised late, and that national media avoided UVU students.
+
+*Related: C-10909, C-10910, C-10945*
+
+---
+
+**N-11280** Agency and Palace Responses to the French Plot Report
+
+Node Type: Topic
+What the Elysee Palace, the White House, counterterrorism and the FBI did or did not say to the host after her November 25 post and reports.
+
+*Related: C-10900, C-10901, C-10902, C-10904, C-10905, C-10906*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host ties French and military claims and Bolling's 2017 remark to him.
+
+*Related: C-10892, C-10903, C-10912, C-10922, C-10925, C-10939*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-10891, C-10892, C-10893, C-10894, C-10895, C-10896, C-10897, C-10898, C-10899, C-10900, C-10901, C-10902, C-10904, C-10905, C-10906, C-10907, C-10908, C-10909, C-10910, C-10911, C-10912, C-10913, C-10914, C-10915, C-10916, C-10917, C-10918, C-10921, C-10924, C-10925, C-10927, C-10928, C-10929, C-10930, C-10931, C-10932, C-10933, C-10934, C-10935, C-10936, C-10937, C-10938, C-10939, C-10940, C-10941, C-10942, C-10943, C-10944, C-10945, C-10946, C-10947, C-10948*
+
+---
+
+**N-5** Donald Trump
+
+The host says the White House confirmed her message reached Trump's desk.
+
+*Related: C-10904*
+
+---
+
+**N-14** Andrew Kolvet
+
+The host recounts his alleged hospital call telling her and Tucker Carlson to shut up because they were on a list.
+
+*Related: C-10941, C-10942*
+
+---
+
+**N-22** Tucker Carlson
+
+Named by the host in the Kolvet hospital call account.
+
+*Related: C-10941, C-10942*
+
+---
+
+**N-40** Tyler Robinson
+
+Accused shooter; the host notes nobody said he had a list.
+
+*Related: C-10942*
+
+---
+
+**N-82** Brigitte Macron
+
+Subject of the host's claims about birth, military file, whereabouts and the lawsuit.
+
+*Related: C-10891, C-10895, C-10899, C-10908, C-10917, C-10918, C-10927, C-10928, C-10929, C-10930, C-10931, C-10934, C-10940, C-10948*
+
+---
+
+**N-265** Steven Crowder
+
+The host denies ever being friends with him.
+
+*Related: C-10937*
+
+---
+
+**N-10012** Utah Valley University
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10892, C-10909, C-10910, C-10945, C-10946*
+
+---
+
+**N-10145** UVU Campus Familiarity Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10909*
+
+---
+
+**N-10014** Federal Bureau of Investigation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10902, C-10905, C-10906*
+
+---
+
+**N-10075** White House
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10901, C-10902, C-10904*
+
+---
+
+**N-10088** Candace Owens FBI/CIA Reporting Incident
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10902*
+
+---
+
+**N-10150** Utah FBI Personnel Replacement
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10906*
+
+---
+
+**N-10316** France / Macron Couple Involvement in Kirk Assassination
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10892, C-10893, C-10894, C-10895, C-10896, C-10897*
+
+---
+
+**N-10273** Operation Valhalla – Charlie Kirk Assassination Timeline Connection
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10907*
+
+---
+
+**N-10279** Camp Ripley Training Center
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10907*
+
+---
+
+**N-10277** Minot Air Force Base
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10907*
+
+---
+
+**N-10204** Egyptian Air Force SU-BTT Provo Mission Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10912*
+
+---
+
+**N-10266** SUBTT Wilmington Visit Pattern
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10912*
+
+---
+
+**N-10074** Provo, Utah
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10912*
+
+---
+
+**N-11008** Satis
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10913, C-10914, C-10932*
+
+---
+
+**N-10269** Wilmington Airport Hangar Federal Connection
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10913, C-10915*
+
+---
+
+**N-11011** Macron Cease and Desist and Legal Timeline
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10914*
+
+---
+
+**N-10265** 920 North King Street / 1 Rodney Square Federal Facility
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10915, C-10916, C-10917, C-10918*
+
+---
+
+**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10917, C-10918, C-10929, C-10936*
+
+---
+
+**N-10015** Mossad
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10928*
+
+---
+
+**N-10001** MK Ultra
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10931*
+
+---
+
+**N-10116** MK Ultra Continuity Theory
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10931*
+
+---
+
+**N-10003** Charlie-Candace Friendship Continuity
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10939*
+
+---
+
+**N-10900** Daily Wire
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10938*
+
+---
+
+**N-10059** PBD Podcast
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10939*
+
+---
+
+**N-10222** Israeli Cell Phone Presence on 9/10
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10946*
+
+---
+
+**N-11010** Lay-Low List Warning
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10941, C-10942*
+
+---
+
 ## 5. Claim Register
 
 **C-1781** Candace Owens publicly claims Macron-authorized assassination plot
@@ -1025,6 +1425,935 @@ Anchored Artifacts: A-1476.1
 Mentions: N-3
 Related Nodes: N-10295
 Investigative Direction: Treat as audience-opinion snapshot only; not a factual claim. Useful for tracking audience sentiment, not as evidence of underlying claim.
+
+---
+
+**C-10891** Host Says Brigitte Macron Was Born Male and Nation-States Collude to Hide It
+
+Claim Timestamp: 00:00:30
+
+Claim: The host asserts that Brigitte Macron, whom she calls Jean-Michel Trogneux, was born male and has been protected so thoroughly that multiple nation-states collude to hide it.
+
+Transcript Snippet: Imagine being so protected that you force multiple nation-states to collude to hide the obvious fact that you were born with a penis, right?
+
+Anchored Artifacts: 
+Mentions: N-3, N-82, N-893
+Supports: C-1507
+Tags: relevance:context
+Investigative Direction: Obtain Brigitte Macron's birth and civil records and the Trogneux family registry entries; the host presents no document in this episode.
+
+---
+
+**C-10892** Host Says French Legion Was Apparently on the Ground at UVU on September 10
+
+Claim Timestamp: 00:01:20
+
+Claim: The host says she has learned that France apparently paid for her assassination and that the French Foreign Legion was apparently involved and on the ground at UVU on the day of Charlie Kirk's assassination.
+
+Transcript Snippet: and that the French Foreign Legion was apparently involved and on the ground at UVU on the day of Charlie Kirk's assassination.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10316, N-10290, N-10012
+Tags: relevance:core
+Investigative Direction: Ask the French Ministry of the Armed Forces and Utah authorities whether any Foreign Legion personnel entered the United States for or around September 10, 2025; obtain UVU event staffing and credential lists.
+
+---
+
+**C-10893** Tweet Says Source Claims US Leaders Are Aware of the Plot
+
+Claim Timestamp: 00:03:50
+
+Claim: The host reads her November 25 post saying she does not know who in the American government can be trusted because the source claims that US leaders are aware of the alleged plot.
+
+Transcript Snippet: I do not know who in the American government can be trusted since this source claims that our leaders are aware
+
+Anchored Artifacts: A-1461.1
+Mentions: N-3
+Related Nodes: N-10316
+Tags: relevance:core
+Investigative Direction: Obtain the host's original post and any record of what the source told her about US government awareness; ask the host which US officials she contacted.
+
+---
+
+**C-10894** Tweet Says Journalist Xavier Poussard's Life Is Also at Risk
+
+Claim Timestamp: 00:03:55
+
+Claim: The host reads her November 25 post saying journalist Xavier Poussard's life is also at risk from the same alleged plot.
+
+Transcript Snippet: Journalist Xavier Poussard's life is also at risk.
+
+Anchored Artifacts: A-1461.1
+Mentions: N-3, N-290
+Related Nodes: N-10316
+Tags: relevance:context
+Investigative Direction: Ask Poussard whether he received threats or any warning in November 2025 and whether he reported them to French or US authorities.
+
+---
+
+**C-10895** Host Says the Alleged Payment Was a $1.5 Million Paper Trail She Cannot Verify
+
+Claim Timestamp: 00:04:20
+
+Claim: The host says she told the public there was a paper trail showing Macron allegedly paid $1.5 million for her assassination, and stresses that the amount is alleged until she can see the transfer in the accounts herself.
+
+Transcript Snippet: I said there was a paper trail that Macron allegedly paid $1.5 million
+
+Anchored Artifacts: A-1461.1
+Mentions: N-3, N-387, N-82
+Related Nodes: N-10316
+Supports: C-1781
+Tags: relevance:core
+Investigative Direction: Ask the host's source for the transfer records; any bank or transfer document would confirm or refute the amount and the payer.
+
+---
+
+**C-10896** Host Says Two Assassins Were Hired, One Israeli and One French-Canadian Woman
+
+Claim Timestamp: 00:04:55
+
+Claim: The host says her source said two assassins were hired, an Israeli man and a French-Canadian woman.
+
+Transcript Snippet: Two assassins were hired, one Israeli, one French-Canadian woman, okay?
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10316
+Supports: C-1781
+Tags: relevance:core
+Investigative Direction: Ask the host's source to identify the two individuals; check French and Canadian travel and law enforcement records only if a name is supplied.
+
+---
+
+**C-10897** Host Says the Money Ran Through the Club des Fontes
+
+Claim Timestamp: 00:05:05
+
+Claim: The host says she also stated that the alleged payment ran through an elite gentlemen's club she calls the club des Fontes.
+
+Transcript Snippet: I also said that the money ran through the elite gentlemen's club des Fontes.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10316
+Tags: relevance:core
+Investigative Direction: Identify the club the host means (the name is as transcribed) and request membership or banking records from the host's source.
+
+---
+
+**C-10898** Host Says Her Post Drew Over 100,000 Retweets and 45 Million Impressions
+
+Claim Timestamp: 00:05:50
+
+Claim: The host says her X post about the alleged French plot received over 100,000 retweets and 45 million impressions.
+
+Transcript Snippet: the tweet alone had over 100,000 retweets and 45 million impressions on X alone
+
+Anchored Artifacts: A-1461.1
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Check the post's public engagement counts on X or archived copies.
+
+---
+
+**C-10899** Host Says the Macrons Paid a Private Investigator to Test Whether She Colluded With State Actors
+
+Claim Timestamp: 00:06:20
+
+Claim: The host says the Macrons hired a private investigator to see whether she was colluding with other state actors, and that they insinuated she might be working with Russia.
+
+Transcript Snippet: they even hired a private investigator to try to see if I was colluding with other state actors.
+
+Anchored Artifacts: 
+Mentions: N-3, N-82, N-387
+Tags: relevance:context
+Investigative Direction: Look for the investigator's engagement in the Delaware litigation record or discovery filings; ask the host's lawyers for the basis of the claim.
+
+---
+
+**C-10900** Host Says the Elysee Palace Issued No Response in the Week After Her Post
+
+Claim Timestamp: 00:08:00
+
+Claim: The host says that a full week after her announcement the Elysee Palace had issued no official response.
+
+Transcript Snippet: It's now been a full week since I made that announcement. And here is the official response issued by the Élysée Palace.
+
+Anchored Artifacts: A-3110.1
+Mentions: N-3, N-387
+Related Nodes: N-11280
+Tags: relevance:core
+Investigative Direction: Search Elysee communique archives and French press for any reaction between November 25 and December 1, 2025.
+
+---
+
+**C-10901** Host Presents the White House Response After a Week as Empty
+
+Claim Timestamp: 00:09:00
+
+Claim: The host challenges critics to press the White House for a response and, after a week, presents the official White House response as nothing; the point is implied rather than stated outright.
+
+Transcript Snippet: Press the White House for a response, right? The White House is the ball's very firmly in their court and a week later, this is the official White House response.
+
+Anchored Artifacts: A-3110.1
+Mentions: N-3
+Related Nodes: N-10075, N-11280
+Tags: relevance:core
+Investigative Direction: Check White House press briefings and statements between November 25 and December 1, 2025 for any comment on the host's claim.
+
+---
+
+**C-10902** Host Says She Reported the Alleged Plot to the White House, FBI and Counterterrorism
+
+Claim Timestamp: 00:09:30
+
+Claim: The host says she reported the alleged plot to the White House, the FBI and a counterterrorism unit, and that there is a paper trail.
+
+Transcript Snippet: Did I report it to the White House? Of course, I reported it to the White House. Did I report to the FBI? Of course, I reported it to the FBI.
+
+Anchored Artifacts: A-3110.1
+Mentions: N-3
+Related Nodes: N-10075, N-10014, N-10088, N-11280
+Tags: relevance:core
+Investigative Direction: Request the host's report records (dates, recipients, channels) and FOIA the FBI and counterterrorism intake logs for late November 2025.
+
+---
+
+**C-10903** Durov Post Says Charlie Called for 300% Tariffs on France Until Charges Against Durov Were Dropped
+
+Claim Timestamp: 00:10:50
+
+Claim: In the Pavel Durov post the host reads, Durov says Charlie Kirk called for 300% tariffs on France until the charges against Durov were dropped.
+
+Transcript Snippet: Charlie even called for 300% tariffs on France until the charges against me were dropped.
+
+Anchored Artifacts: A-1462.1
+Mentions: N-297, N-1
+Supports: C-1782
+Tags: relevance:context
+Investigative Direction: Find Charlie Kirk's original statement or post about tariffs on France over Durov's arrest and confirm the 300% figure and date.
+
+---
+
+**C-10904** Host Says the White House Confirmed Her Message Reached Trump's Desk
+
+Claim Timestamp: 00:14:20
+
+Claim: The host says she heard back from the White House and from the counterterrorism unit, and that the White House confirmed her message had been delivered to Trump's desk.
+
+Transcript Snippet: I did hear back from the White House confirming that that message had been delivered on Trump's desk
+
+Anchored Artifacts: A-3110.1
+Mentions: N-3, N-5
+Related Nodes: N-10075, N-11280
+Tags: relevance:core
+Investigative Direction: Ask the host for the White House reply and its date; request the correspondence record from the White House.
+
+---
+
+**C-10905** Host Says the FBI Never Replied to Her Text About the Foreign Legion Claim
+
+Claim Timestamp: 00:14:40
+
+Claim: The host says the FBI did not respond to a text message she sent to someone very high up, and that she did not send a formal email.
+
+Transcript Snippet: but the FBI left me on red.
+
+Anchored Artifacts: A-3110.1
+Mentions: N-3
+Related Nodes: N-10014, N-11280
+Tags: relevance:core
+Investigative Direction: Ask the host who received the text and when; FBI records of any contact from the host in late November 2025 would confirm or refute it.
+
+---
+
+**C-10906** Host Says Not Even the Utah FBI Branch Called Her
+
+Claim Timestamp: 00:15:10
+
+Claim: The host says no phone calls have come to her even from the FBI's Utah branch about the French Foreign Legion claim.
+
+Transcript Snippet: No phone calls even from Utah's FBI branch have come in to me either.
+
+Anchored Artifacts: A-3110.1
+Mentions: N-3
+Related Nodes: N-10014, N-10150, N-11280
+Tags: relevance:core
+Investigative Direction: Ask the FBI Salt Lake City field office whether anyone attempted to contact the host after November 25, 2025.
+
+---
+
+**C-10907** Host Says Operation Valhalla Was a Camp Ripley Exercise With Civilians and Minot AFB Personnel
+
+Claim Timestamp: 00:16:30
+
+Claim: The host says a joint exercise with civilians, including military men from Minot Air Force Base, took place at Camp Ripley in Minnesota until August 27 and was known as Operation Valhalla.
+
+Transcript Snippet: It was a joint exercise with civilians, which included um uh military men from the Minot Air Force Base.
+
+Anchored Artifacts: A-1477.1
+Mentions: N-3
+Related Nodes: N-10273, N-10279, N-10277, N-10290
+Tags: relevance:core
+Investigative Direction: Obtain Minnesota National Guard and Air Force press releases on Operation Valhalla at Camp Ripley, with dates, units and civilian participants.
+
+---
+
+**C-10908** Host Says the Military Will Not Release Jean-Michel Trogneux's File
+
+Claim Timestamp: 00:18:10
+
+Claim: The host says the military will not release the military file of Jean-Michel Trogneux and that what he was doing in the military is unknown.
+
+Transcript Snippet: the military won't release your file, and we don't know what you were doing in the military as Jean-Michel Trogneux.
+
+Anchored Artifacts: 
+Mentions: N-3, N-82, N-893
+Tags: relevance:context
+Investigative Direction: Obtain any French military records request and denial concerning Jean-Michel Trogneux; the host cites no specific request here.
+
+---
+
+**C-10909** Host Says UVU Students Did Not Recognize Anyone at the Event and It Was Advertised Late
+
+Claim Timestamp: 00:19:00
+
+Claim: The host says UVU students who attended felt they did not recognize anybody there, and that the event was advertised very late in the day before many unfamiliar adults appeared.
+
+Transcript Snippet: the UVU students who attended said that they felt like they didn't recognize anybody that was there.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10012, N-10145, N-11279
+Tags: relevance:core
+Investigative Direction: Interview attending UVU students and compare the event announcement timing with TPUSA's social posts and UVU event records.
+
+---
+
+**C-10910** Host Says National Media Seemed to Avoid Interviewing UVU Students
+
+Claim Timestamp: 00:19:30
+
+Claim: The host says national media interviewed many adults at the event but appeared to avoid interviewing UVU students who had noticed oddities that day.
+
+Transcript Snippet: It looks like they're almost trying not to interview any UVU students, right?
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10012, N-11279
+Tags: relevance:core
+Investigative Direction: Survey national coverage from September 10-14, 2025 for on-record interviews with UVU students and compare to adults interviewed.
+
+---
+
+**C-10911** Host Says the Legion Has 12 Known Regiments and Six Got New Commanders
+
+Claim Timestamp: 00:22:45
+
+Claim: The host says her team found the French Foreign Legion has 12 known regiments, so replacing the commanders of six means roughly half the leadership changed in mid-August.
+
+Transcript Snippet: we found that they have 12 regiments that are known of, and you're telling me that they gutted leadership of six
+
+Anchored Artifacts: A-1479.1
+Mentions: N-3
+Related Nodes: N-10292, N-10290
+Supports: C-1788
+Tags: relevance:context
+Investigative Direction: Check the Legion's regiment list and the August 2025 command-change notices to confirm the regiment count and the six units.
+
+---
+
+**C-10912** Host Says the Egyptian Plane SUBTT Left Provo on the Morning of the Assassination for Wilmington
+
+Claim Timestamp: 00:23:20
+
+Claim: The host says the Egyptian plane SUBTT, her yellow plane, departed Provo on the morning of Charlie Kirk's assassination and flew to Wilmington, Delaware.
+
+Transcript Snippet: we were trying to track the Egyptian plane, SUBTT, our yellow plane, which departed on the morning of Charlie Kirk's assassination from Provo
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10204, N-10266, N-10074
+Tags: relevance:core
+Investigative Direction: Pull SU-BTT ADS-B and FAA flight records for September 10, 2025 for departure time, origin and destination.
+
+---
+
+**C-10913** Host Says Satys Injected $1.5 Million Ostensibly to Paint Planes in the Wilmington Hangar
+
+Claim Timestamp: 00:23:35
+
+Claim: The host says Satys, a French company, injected $1.5 million ostensibly to paint planes at the Wilmington hangar under a lease she considers too short for that purpose.
+
+Transcript Snippet: Satys, which is a French company, injected $1.5 million ostensibly to paint planes, okay, in Wilmington, Delaware.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11008, N-10269
+Supports: C-4991
+Tags: relevance:core
+Investigative Direction: Obtain the hangar lease, Delaware filings and Satis investment announcements to confirm the amount, term and stated purpose.
+
+---
+
+**C-10914** Host Says Satys Signed Off the Same Week She Was Sent the Cease and Desist
+
+Claim Timestamp: 00:23:50
+
+Claim: The host says Satys signed off on the hangar deal in the very week she was sent a cease and desist, although she had not been speaking about Brigitte Macron at that time.
+
+Transcript Snippet: they sign off on that the very week that I get sent this cease and desist
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11008, N-11011
+Supports: C-4990
+Tags: relevance:core
+Investigative Direction: Compare the cease-and-desist date with the Satis announcement and lease execution dates in public filings.
+
+---
+
+**C-10915** Host Says a Foreign Dignitary Was Escorted From the Hangar to 920 North King Street
+
+Claim Timestamp: 00:24:30
+
+Claim: The host says a source told her a foreign dignitary was escorted from the Wilmington hangar to 920 North King Street.
+
+Transcript Snippet: a foreign dignitary was escorted, right, from that hangar to 920 North King Street in Wilmington, Delaware
+
+Anchored Artifacts: A-1469.2
+Mentions: N-3
+Related Nodes: N-10265, N-10284, N-10269
+Supports: C-9807
+Tags: relevance:core
+Investigative Direction: Identify the source's basis (witness, video or vehicle records) and check airport ground-transport and security logs for September 10, 2025.
+
+---
+
+**C-10916** Host Says She Confirmed Three Federal Agencies Share the 920 North King Street Building
+
+Claim Timestamp: 00:24:50
+
+Claim: The host says she learned and confirmed that three federal agencies work together in one building at 920 North King Street, and that the internet and the feds cannot debunk it.
+
+Transcript Snippet: a place that we learned and confirmed had three federal agencies working together in one building.
+
+Anchored Artifacts: A-1469.2
+Mentions: N-3
+Related Nodes: N-10265, N-10284
+Supports: C-1790
+Tags: relevance:core
+Investigative Direction: Review GSA lease and federal tenant records for 920 North King Street to identify which agencies occupy it.
+
+---
+
+**C-10917** Host Says Her Delaware Filing Attorneys Are Housed at 920 North King Street
+
+Claim Timestamp: 00:25:00
+
+Claim: The host says 920 North King Street houses the attorneys filing her paperwork in the Brigitte lawsuit, and that Delaware requires a locally admitted firm to file even if a party has its own lawyers.
+
+Transcript Snippet: it is also a place which houses the attorneys that are filing my paperwork in the Brigitte lawsuit.
+
+Anchored Artifacts: A-1469.2
+Mentions: N-3, N-82
+Related Nodes: N-10265, N-10270
+Tags: relevance:context
+Investigative Direction: Check the Delaware docket for counsel of record and their addresses.
+
+---
+
+**C-10918** Host Says Brigitte Macron's Lawyers Are Directly Across the Street From That Firm
+
+Claim Timestamp: 00:25:20
+
+Claim: The host says Brigitte Macron's lawyers in her lawsuit are located directly across the street from the firm filing the host's paperwork, and calls this confirmed.
+
+Transcript Snippet: Brigitte's lawyers in my lawsuit are directly across the street from that firm, okay? Confirmed.
+
+Anchored Artifacts: A-1470.1
+Mentions: N-3, N-82
+Related Nodes: N-10265, N-10270
+Tags: relevance:context
+Investigative Direction: Compare counsel-of-record addresses on the Delaware docket for both parties.
+
+---
+
+**C-10919** Source Email Says the Bracebridge Complex Spans Over a Million Square Feet and Was Built for Maryland Bank
+
+Claim Timestamp: 00:28:40
+
+Claim: The host reads a source email saying the Bracebridge Complex at 1100 North King Street spans over 1 million square feet and was built as Maryland Bank's headquarters, used by that bank from 1995 until Bank of America acquired it in 2006.
+
+Transcript Snippet: It spans over 1 million square feet.
+
+Anchored Artifacts: A-1469.3
+Related Nodes: N-10285
+Tags: relevance:context
+Investigative Direction: Check New Castle County property records and Wilmington commercial real estate coverage for the complex's size, builder and ownership history.
+
+---
+
+**C-10920** Source Email Says Du Pont Originally Manufactured Kevlar and Has Ties to Both Militaries
+
+Claim Timestamp: 00:29:40
+
+Claim: The host reads a source email saying the du Pont family has extreme ties to the American and French military and that du Pont originally manufactured Kevlar.
+
+Transcript Snippet: they are the original manufacturers of Kevlar
+
+Anchored Artifacts: A-1469.3
+Mentions: N-295
+Related Nodes: N-10287
+Tags: relevance:tangential
+Investigative Direction: Check DuPont corporate history for Kevlar's development; the military-tie assertion is general and would need specific contracts.
+
+---
+
+**C-10921** Host Says 500 North Delaware Avenue Is Also Somehow Owned by France
+
+Claim Timestamp: 00:31:10
+
+Claim: The host says 500 North Delaware Avenue, which people on X said housed the FBI, is also somehow owned by France.
+
+Transcript Snippet: And that is also somehow owned by France.
+
+Anchored Artifacts: A-1469.6
+Mentions: N-3
+Related Nodes: N-10289
+Tags: relevance:context
+Investigative Direction: Check New Castle County deed and tax records for the owner of 500 Delaware Avenue.
+
+---
+
+**C-10922** Source Email Says the Law Firm at 500 Delaware Avenue Has Many French-Linked Employees
+
+Claim Timestamp: 00:32:30
+
+Claim: The host reads a source email saying a law firm that moved into 500 Delaware Avenue a few months before Charlie Kirk's assassination has many employees fluent in French or connected to France, with the firm in Suite 200 below the FBI in Suite 300.
+
+Transcript Snippet: MGM and M has many employees that are either fluent in French or connected or are connected to France altogether.
+
+Anchored Artifacts: A-1469.6
+Mentions: N-1
+Related Nodes: N-10289
+Supports: C-1796
+Tags: relevance:context
+Investigative Direction: Identify the firm (the transcript renders it as MGM) and check its lease date and staff biographies.
+
+---
+
+**C-10923** Source Email Says Incyte Owns the Construction Site Across From 920 North King Street
+
+Claim Timestamp: 00:33:00
+
+Claim: The host reads a source email saying that, with no public record of the project otherwise, the global biopharmaceutical company Incyte owns the construction site with the long red crane.
+
+Transcript Snippet: apparently a global biopharmaceutical company called Incyte owns it, okay?
+
+Anchored Artifacts: A-1469.4
+Related Nodes: N-10286, N-10285
+Tags: relevance:context
+Investigative Direction: Check Delaware permits and Incyte filings for ownership of the 1100 North King Street site.
+
+---
+
+**C-10924** Host Says Construction Promised for About a Year Has Taken About Two
+
+Claim Timestamp: 00:33:30
+
+Claim: The host says a May 2024 article stated construction was expected to take about a year, but it has been about two years and the building top is still a skeleton, so she believes the site is being used to buy time.
+
+Transcript Snippet: On May 2024, they say that construction is expected to take about a year.
+
+Anchored Artifacts: A-1469.4
+Mentions: N-3
+Related Nodes: N-10286, N-10285
+Tags: relevance:context
+Investigative Direction: Review the May 2024 article and Wilmington building permits for the project schedule and any stated purpose.
+
+---
+
+**C-10925** Host Says Hopineau Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death
+
+Claim Timestamp: 00:33:50
+
+Claim: The host says Hopineau is directly responsible for the Bracebridge construction and finalized the deal, and that a few months before Charlie Kirk's death he switched roles and began laying low.
+
+Transcript Snippet: He is directly responsible for this construction at Bracebridge, and he was the one that finalized the deal.
+
+Anchored Artifacts: A-1469.4
+Mentions: N-293, N-1, N-3
+Related Nodes: N-10286
+Supports: C-1794
+Tags: relevance:context
+Investigative Direction: Check Incyte SEC filings for the CEO-to-advisor transition date and the Bracebridge acquisition approvals.
+
+---
+
+**C-10926** Host Says Incyte Is Plugged Into Federal Medical Supply Chains Including VA Systems
+
+Claim Timestamp: 00:34:30
+
+Claim: The host says Incyte is plugged directly into the federal medical supply chains, which include VA systems that interface with military health care.
+
+Transcript Snippet: is also plugged directly into the federal medical supply chains, which include our VA systems
+
+Anchored Artifacts: A-1469.4
+Related Nodes: N-10286
+Tags: relevance:context
+Investigative Direction: Check federal procurement records (USAspending, VA contracts) for Incyte.
+
+---
+
+**C-10927** Host Says a Federal Government Call Asked Her to Stop Speaking About Brigitte
+
+Claim Timestamp: 00:35:20
+
+Claim: The host says she got a call from the federal government asking her to stop speaking about Brigitte Macron, which she now sees as possibly carrying an implicit threat.
+
+Transcript Snippet: I get a call from federal government asking me to stop speaking about Brigitte.
+
+Anchored Artifacts: 
+Mentions: N-3, N-82
+Related Nodes: N-11277
+Supports: C-4999, C-5000
+Tags: relevance:core
+Investigative Direction: Identify the callers and dates through the host's phone records; compare with the February 25-26 calls she previously described.
+
+---
+
+**C-10928** Host Says a Tip Suggested Brigitte Might Be a Mossad Asset
+
+Claim Timestamp: 00:35:50
+
+Claim: The host says she had received a tip, which her team was working to confirm during Becoming Brigitte season 2, that Brigitte Macron might be an asset to the Mossad.
+
+Transcript Snippet: Brigitte might be an asset to the Mossad, which is what we had received a tip regarding
+
+Anchored Artifacts: 
+Mentions: N-3, N-82
+Related Nodes: N-10015
+Tags: relevance:context
+Investigative Direction: Ask the host for the tip's origin and any corroboration; no document is shown in this episode.
+
+---
+
+**C-10929** Host Says She Believes Federal Agencies Set Her Up With the Delaware Lawsuit
+
+Claim Timestamp: 00:36:30
+
+Claim: The host says she feels she was set up by the federal government in the lawsuit, with federal agencies possibly colluding to end her research into who Brigitte Macron was, and that France, the United States and Israel are all implicated.
+
+Transcript Snippet: I feel like I was set up by the federal government in terms of this lawsuit.
+
+Anchored Artifacts: A-1476.1
+Mentions: N-3, N-82, N-893
+Related Nodes: N-11277, N-10270
+Tags: relevance:context
+Investigative Direction: Review the Delaware docket for the timing of filing and any federal involvement; the host offers no direct evidence of agency coordination.
+
+---
+
+**C-10930** Host Says Brigitte Said He Was in America in the 1960s for the Moon Landing
+
+Claim Timestamp: 00:36:50
+
+Claim: The host says Brigitte Macron says Jean-Michel Trogneux was in America in the 1960s at least for the moon landing, with no details given, and that she believes this was a psychological operation.
+
+Transcript Snippet: because Brigitte says he was in America, we know Brigitte was in America in the '60s at least for the moon landing.
+
+Anchored Artifacts: 
+Mentions: N-3, N-82, N-893
+Tags: relevance:tangential
+Investigative Direction: Find the original statement by Brigitte Macron about being in America and the moon landing and check its wording.
+
+---
+
+**C-10931** Host Says Macron's Lawsuit Mentions MK Ultra 18 Times Because Brigitte's Birthday Matches the Program
+
+Claim Timestamp: 00:37:20
+
+Claim: The host says MK Ultra is mentioned 18 times in the lawsuit although her filing only noted that Brigitte's alleged fake birthday is the same day as the MK Ultra program, and she suspects Brigitte's involvement in psychological operations.
+
+Transcript Snippet: the mentioning of MK Ultra 18 times absurdly in my lawsuit
+
+Anchored Artifacts: 
+Mentions: N-3, N-82
+Related Nodes: N-10001, N-10116
+Supports: C-5019
+Tags: relevance:context
+Investigative Direction: Count MK Ultra references in the complaint and compare Brigitte Macron's stated birth date with the program's start date.
+
+---
+
+**C-10932** Host Says Ace Partners Is the Second Largest Shareholder of Satys
+
+Claim Timestamp: 00:38:10
+
+Claim: The host says Ace Partners, a Tel Aviv firm, is the second largest shareholder of Satys.
+
+Transcript Snippet: They are the second largest shareholder to Satys.
+
+Anchored Artifacts: A-1472.1
+Mentions: N-3
+Related Nodes: N-11008, N-11278
+Tags: relevance:core
+Investigative Direction: Check Satys shareholder disclosures and Ace Partners' portfolio page.
+
+---
+
+**C-10933** Host Says Ace Partners Invests Only in Companies That Benefit Israel
+
+Claim Timestamp: 00:38:30
+
+Claim: The host says Ace Partners explicitly states on its website that it invests only in companies and organizations that benefit Israel, in aerospace and defense startups at Series A and B stages.
+
+Transcript Snippet: They are explicit, they only invest in companies and organizations that benefit Israel. That's on their website.
+
+Anchored Artifacts: A-1472.1
+Mentions: N-3
+Related Nodes: N-11278
+Supports: C-1797
+Tags: relevance:context
+Investigative Direction: Archive and read the Ace Partners website text; note it differs from the on-air mission statement wording (global focus with a specific focus on Israel).
+
+---
+
+**C-10934** Host Says Brigitte Macron Vanished From View for Six Days After September 4
+
+Claim Timestamp: 00:40:00
+
+Claim: The host says Brigitte Macron was photographed on September 4, 2025 and then disappeared for six days, and asks viewers to find where she was from September 4 to 11.
+
+Transcript Snippet: after that Brigitte just falls off a cliff for 6 days. Brigitte's just gone for 6 days.
+
+Anchored Artifacts: A-1475.2
+Mentions: N-3, N-82
+Related Nodes: N-10294
+Tags: relevance:core
+Investigative Direction: Review Elysee schedules, press photos and French news for any appearance by Brigitte Macron between September 5 and 10, 2025.
+
+---
+
+**C-10935** Host Relays Source Email Calling Wilmington a Hub for Transgender Medicine and MK Ultra
+
+Claim Timestamp: 00:41:10
+
+Claim: The host relays a source email saying Wilmington, Delaware is a hub for MK Ultra and transgenderism in America, citing the first trans congressman, surgeries for children and drag story hours.
+
+Transcript Snippet: Our first ever trans congressman, you guys, guess where? Wilmington, Delaware.
+
+Anchored Artifacts: A-1469.7
+Mentions: N-3
+Related Nodes: N-10283
+Tags: relevance:tangential
+Investigative Direction: This is a source-email generalization with no bearing on the case; no verification path beyond public records on local services.
+
+---
+
+**C-10936** Host Says the Federal Government Never Commented on a Foreign Nation Targeting American Speech
+
+Claim Timestamp: 00:46:20
+
+Claim: The host says the federal government has not commented on a foreign nation's lawsuit against American speech, which she says fits her theory that it knew the lawsuit was coming.
+
+Transcript Snippet: which would explain why they never commented on the absurdity of a foreign nation coming after our speech
+
+Anchored Artifacts: A-1476.1
+Mentions: N-3
+Related Nodes: N-11277, N-10270
+Tags: relevance:context
+Investigative Direction: Check State Department and White House statements on the Macron lawsuit in 2025.
+
+---
+
+**C-10937** Host Says She Has Never Been Friends With Steven Crowder
+
+Claim Timestamp: 00:48:50
+
+Claim: The host says she has never been friends with Steven Crowder, rejecting Adam Sosnick's list of burned bridges.
+
+Transcript Snippet: I have never been friends with Steven Crowder.
+
+Anchored Artifacts: A-1473.1
+Mentions: N-3, N-265, N-288
+Tags: relevance:context
+Investigative Direction: Compare public statements by the host and Crowder about their relationship over time.
+
+---
+
+**C-10938** Host Says She Is Still Friends With Her Daily Wire Colleagues
+
+Claim Timestamp: 00:49:00
+
+Claim: The host says she remains friends with every colleague she was friends with at the Daily Wire and that she did not hang out with management on the way out.
+
+Transcript Snippet: I am still friends with every single one of my colleagues that I was friends when I went in there.
+
+Anchored Artifacts: A-1473.1
+Mentions: N-3
+Related Nodes: N-10900
+Tags: relevance:tangential
+Investigative Direction: Ask named Daily Wire colleagues whether they remain in contact with the host.
+
+---
+
+**C-10939** Host Says Bolling Sat Across From Sosnick and Falsely Said She Had Not Been Friends With Kirk Since 2017
+
+Claim Timestamp: 00:51:00
+
+Claim: The host says Eric Bolling sat across from Adam Sosnick when they attacked her over Charlie Kirk and falsely said she had not been friends with Kirk since 2017.
+
+Transcript Snippet: it was notoriously Eric Bolling that sat across from Adam when they attacked me over Charlie and lied and said I hadn't been friends with Charlie Kirk since 2017.
+
+Anchored Artifacts: A-1474.1
+Mentions: N-3, N-289, N-288, N-1
+Related Nodes: N-10003, N-10297, N-10059
+Tags: relevance:core
+Investigative Direction: Review the PBD episode for Bolling's exact words about 2017 and compare with Kirk and Owens messages and appearances after 2017.
+
+---
+
+**C-10940** Host Speculates Brigitte Had Another Identity in the 1980s
+
+Claim Timestamp: 00:54:50
+
+Claim: The host says she thinks there is another identity in between, potentially in the 1980s, before Brigitte emerges as a woman.
+
+Transcript Snippet: I think there's another identity in between there that happens potentially in the 80s
+
+Anchored Artifacts: 
+Mentions: N-3, N-82
+Tags: relevance:tangential
+Investigative Direction: The host offers no evidence; any civil or military record from the 1980s would be the only test.
+
+---
+
+**C-10941** Host Says Kolvet Called From the Hospital and Told Her and Tucker to Shut Up Because They Were on a List
+
+Claim Timestamp: 00:55:40
+
+Claim: The host says Andrew Kolvet called her from the hospital and basically said she and Tucker Carlson should shut up because they were on a list.
+
+Transcript Snippet: Andrew Kolvet called me from the hospital and basically said you and Tucker should shut up because you guys are on a list.
+
+Anchored Artifacts: A-3111.1
+Mentions: N-3, N-14, N-22
+Related Nodes: N-11010
+Supports: C-9370
+Tags: relevance:core
+Investigative Direction: Obtain the host's and Kolvet's phone records for September 10, 2025 and ask Kolvet to describe the call.
+
+---
+
+**C-10942** Host Says Nobody Has Said Tyler Robinson Had a List
+
+Claim Timestamp: 00:55:50
+
+Claim: The host says nobody mentioned that Tyler Robinson had a list and doubts she and Tucker Carlson would rank high on a list of someone motivated by transgenderism.
+
+Transcript Snippet: Nobody mentioned that Tyler Robinson had a list.
+
+Anchored Artifacts: A-3111.1
+Mentions: N-3, N-40, N-22, N-14
+Related Nodes: N-11010
+Tags: relevance:core
+Investigative Direction: Review charging documents and public filings for any mention of a list of targets; ask prosecutors whether one exists.
+
+---
+
+**C-10943** Host Says She Believes the World Is Run by the Global State Military
+
+Claim Timestamp: 00:56:00
+
+Claim: The host says she believes the world is run by the military, which she calls the global state military, and that democracy is a delusion.
+
+Transcript Snippet: I do believe that we are a run by the military
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Opinion about world governance with no testable record.
+
+---
+
+**C-10944** Host Says Bolling Has Not Publicly Retracted and She Told Him to Keep the Same Energy
+
+Claim Timestamp: 00:57:00
+
+Claim: The host says she replied to Bolling's private apology by telling him to do it publicly and say he lied or misspoke, and that he has not done so as far as she knows.
+
+Transcript Snippet: Keep the same energy. Do it publicly. Say I lied or I misspoke whichever it is. He's not done that.
+
+Anchored Artifacts: A-3112.1
+Mentions: N-3, N-289
+Related Nodes: N-10297
+Tags: relevance:context
+Investigative Direction: Check Bolling's later broadcasts or posts for any public correction about the Kirk friendship.
+
+---
+
+**C-10945** Host Says UVU Students Not Recognizing Anyone Suggests Military Regiments Were Present
+
+Claim Timestamp: 00:58:40
+
+Claim: The host says the fact that UVU students did not recognize anybody indicates there may have been military regiments at the event.
+
+Transcript Snippet: the fact that they didn't recognize anybody indicates that we might be looking at military regiments that were there.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10012, N-11279
+Tags: relevance:core
+Investigative Direction: Request UVU and Utah National Guard deployment and credential records for September 10, 2025.
+
+---
+
+**C-10946** Host Says Information She Is Receiving Places National Guard, Foreign Legionnaires and Israelis at UVU
+
+Claim Timestamp: 00:59:20
+
+Claim: The host says, from information she will explain later in the week, National Guard regiments, French Foreign Legionnaires and some Israelis were at UVU, hence the 12 Israeli cell phones.
+
+Transcript Snippet: I think there were some national guard national guard regiments that were there, some French Foreign Legionnaires that were there and yes, some Israelis that were there
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10012, N-10222, N-10290
+Tags: relevance:core
+Investigative Direction: Obtain the cell-site data behind the 12 phones claim and Utah National Guard activation orders for September 10, 2025.
+
+---
+
+**C-10947** Host Says the Trogneux Chocolatier Continuity Story Is Not Possible Given the Occupation of Amiens
+
+Claim Timestamp: 01:00:05
+
+Claim: The host says the Trogneux family claim of running a chocolatier factory without interruption from the 1880s is not possible because the Nazis bombed and occupied Amiens.
+
+Transcript Snippet: They just ran this this chocolatier factory from like the 1880s all the way through to now. Not possible. Nazis uh did an aerial bombardment. They occupied the city of Amiens.
+
+Anchored Artifacts: 
+Mentions: N-3, N-893
+Tags: relevance:context
+Investigative Direction: Check Amiens municipal and Trogneux company records for wartime operations and dates.
+
+---
+
+**C-10948** Host Says the Trogneux Identity Was Created and the True Family Is Very Powerful
+
+Claim Timestamp: 01:00:20
+
+Claim: The host says she thinks the Trogneux identity was created for the family and that the true family is very powerful, which is why it protects the secret.
+
+Transcript Snippet: This seems to me to be an identity that was just created and materialized for this family, and that the true family is a very powerful family
+
+Anchored Artifacts: 
+Mentions: N-3, N-893, N-82
+Tags: relevance:tangential
+Investigative Direction: Speculation with no document; genealogical and civil records are the only test.
 
 ---
 

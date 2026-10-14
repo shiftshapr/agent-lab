@@ -13,12 +13,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-11219
-  - Hole-minted Nodes (reintro-ep017): N-185, N-10206, N-10345, N-10646, N-10650
+  - Hole-minted Nodes (reintro-ep017): N-185, N-10206, N-10646, N-10650
   - Tip-minted Nodes (reintro-ep017): N-11010
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9324–C-9398
   - New Nodes Introduced: N-164, N-165, N-166, N-167, N-169, N-170, N-171, N-172, N-173, N-174, N-176, N-10174, N-10175, N-10176, N-10177, N-10178, N-10179
-  - Reused Nodes Appearing: N-36, N-46, N-71, N-102, N-141, N-157, N-158, N-384, N-10000, N-10015, N-10018, N-10025, N-10027, N-10056, N-10106, N-10125, N-10163, N-10169, N-11099
+  - Reused Nodes Appearing: N-36, N-46, N-71, N-102, N-141, N-157, N-158, N-384, N-10000, N-10015, N-10018, N-10025, N-10027, N-10056, N-10106, N-10125, N-10163, N-10169, N-11099, N-10345
 
 **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk – referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-11
 

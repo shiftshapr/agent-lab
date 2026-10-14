@@ -194,6 +194,195 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3145",
+      "family_ref": "A-3145",
+      "bundle_name": "Robinson Discord Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3145.1",
+          "ref": "A-3145.1",
+          "description": "Host reads on air Discord messages attributed to Tyler Robinson's confession, shown as messages from users including Jug Barnaby and Marina",
+          "related_claims": [
+            "C-11644"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:03:14",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3146",
+      "family_ref": "A-3146",
+      "bundle_name": "Ashley Brown Guajardo Furry Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3146.1",
+          "ref": "A-3146.1",
+          "description": "Video of Dr. Ashley Brown Guajardo dancing as a furry while promoting her book, shown with the sound turned off",
+          "related_claims": [
+            "C-11649",
+            "C-11650"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:05:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3147",
+      "family_ref": "A-3147",
+      "bundle_name": "Ashley Brown Guajardo Biography Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3147.1",
+          "ref": "A-3147.1",
+          "description": "Biography text for Dr. Ashley Brown Guajardo read aloud by the host",
+          "related_claims": [
+            "C-11651",
+            "C-11652",
+            "C-11653",
+            "C-11654",
+            "C-11655",
+            "C-11656"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:07:46",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3148",
+      "family_ref": "A-3148",
+      "bundle_name": "Ashley Brown Guajardo LinkedIn Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3148.1",
+          "ref": "A-3148.1",
+          "description": "Host asks for Dr. Ashley Brown Guajardo's LinkedIn page to be pulled up, showing her as full-time assistant arts professor at NYU (display not confirmed in the transcript)",
+          "related_claims": [
+            "C-11660",
+            "C-11661"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:12:50",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3149",
+      "family_ref": "A-3149",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3149.1",
+          "ref": "A-3149.1",
+          "description": "Host verbal call for tips at CandaceOwens.com about the Timpanogos shuttle claim",
+          "related_claims": [
+            "C-11672"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:24:11",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3149.2",
+          "ref": "A-3149.2",
+          "description": "Host verbal repeat of the tip request at Candace Owens.com",
+          "related_claims": [
+            "C-11673"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:25:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3150",
+      "family_ref": "A-3150",
+      "bundle_name": "Utah Valley Hospital System File Re-display Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3150.1",
+          "ref": "A-3150.1",
+          "description": "Host re-displays the October 28, 2025 screenshot of the Utah Valley hospital system showing a Charles J. Kirk entry with birthday and address (partly wiped)",
+          "related_claims": [
+            "C-11676",
+            "C-11677",
+            "C-11678"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:26:54",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3151",
+      "family_ref": "A-3151",
+      "bundle_name": "Viewer Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3151.1",
+          "ref": "A-3151.1",
+          "description": "Viewer comment from A Ray 4544 read aloud about Charlie's private love letters to Erika used as fundraiser material",
+          "related_claims": [
+            "C-11695"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:44:22",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -354,13 +543,975 @@
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-11663",
+        "C-11664",
+        "C-11665",
+        "C-11668"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Erika Kirk; subject of the transparency, memorial forgiveness and morgue-timing claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11635",
+        "C-11663",
+        "C-11664",
+        "C-11665",
+        "C-11668",
+        "C-11688",
+        "C-11695",
+        "C-11696",
+        "C-11697"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11635",
+        "C-11672",
+        "C-11673",
+        "C-11698",
+        "C-11699",
+        "C-11700",
+        "C-11701"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Donald Trump; the host says he tweeted her face as most vile person of the year.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11645",
+        "C-11646",
+        "C-11657",
+        "C-11699"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Frank Turek; the host contrasts his scrubs and CPR account with Harpole's.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11662",
+        "C-11663",
+        "C-11664",
+        "C-11665"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Tyler Robinson; subject of the Discord, rifle and memorial-forgiveness claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11643",
+        "C-11644",
+        "C-11645",
+        "C-11646",
+        "C-11647",
+        "C-11693",
+        "C-11694",
+        "C-11696",
+        "C-11697"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-54",
+      "ref": "N-54",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Lance Twiggs; the host cites his interview and preliminary hearing testimony.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11645",
+        "C-11646",
+        "C-11657"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Kash Patel; the host says his office seized hospital cameras.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11670",
+        "C-11680"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-179",
+      "ref": "N-179",
+      "name": "Deidra Weiss Amaro",
+      "type": "person",
+      "description": "Dr. Deidra Weiss Amaro; chief medical examiner who left Utah, per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11637",
+        "C-11642",
+        "C-11659"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Mikey McCoy; the host says he got the security team scrubs.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11639"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-498",
+      "ref": "N-498",
+      "name": "Rick Cutler",
+      "type": "person",
+      "description": "Rick Cutler (transcribed Rob Cutler); security team member in the vehicle account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11663"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-696",
+      "ref": "N-696",
+      "name": "Jon Bray",
+      "type": "person",
+      "description": "Jon Bray (transcribed John Bray); cited in the anesthesiologist's email as supporting the exploding mic theory.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11680"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10002",
+      "ref": "N-10002",
+      "name": "Charlie Kirk Death and Memorial",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11696"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10013",
+      "ref": "N-10013",
+      "name": "Discord",
+      "type": "investigation_target",
+      "description": "Existing organization node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11644",
+        "C-11646",
+        "C-11658"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "Existing organization node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11666",
+        "C-11667"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10021",
+      "ref": "N-10021",
+      "name": "Robinson Confession and Arrest Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11644"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10155",
+      "ref": "N-10155",
+      "name": "Autopsy Record – Utah Privacy Statute Application",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11679"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10183",
+      "ref": "N-10183",
+      "name": "Medical Examiner Inquiry – Weiss Amaro",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11637",
+        "C-11638",
+        "C-11641",
+        "C-11642"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10196",
+      "ref": "N-10196",
+      "name": "UVU Hospital Charlie Kirk Medical File Access Question",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11675",
+        "C-11676"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10217",
+      "ref": "N-10217",
+      "name": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11635"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10229",
+      "ref": "N-10229",
+      "name": "Autopsy Report and Evidence Access Asymmetry",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11679"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10239",
+      "ref": "N-10239",
+      "name": "Timpanogos Hospital Footage Seizure Verification",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11670"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10344",
+      "ref": "N-10344",
+      "name": "Candace Owens Security Arrangement",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11700"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10362",
+      "ref": "N-10362",
+      "name": "Vehicle Disposition Question",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11666"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10572",
+      "ref": "N-10572",
+      "name": "ATF Bullet-to-Gun Inconclusive Finding",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11683"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10573",
+      "ref": "N-10573",
+      "name": "Timpanogos Hospital Evidence Question",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11668"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10621",
+      "ref": "N-10621",
+      "name": "Gun Firing Evidence Verification",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11647",
+        "C-11693",
+        "C-11694"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10640",
+      "ref": "N-10640",
+      "name": "Trump Truth Social Tweet Authorship/Origin",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11699"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10679",
+      "ref": "N-10679",
+      "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11657"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10687",
+      "ref": "N-10687",
+      "name": "Frank Turek CPR Claim Verification",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11664"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10688",
+      "ref": "N-10688",
+      "name": "Frank Turek Clothing Disposal",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11639",
+        "C-11662"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10699",
+      "ref": "N-10699",
+      "name": "Brian Harpole vs Frank Turek CPR Contradiction",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11663",
+        "C-11664",
+        "C-11665"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10703",
+      "ref": "N-10703",
+      "name": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11646"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10737",
+      "ref": "N-10737",
+      "name": "CPR Narrative Contradiction (Turek / Harpole)",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11664"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10749",
+      "ref": "N-10749",
+      "name": "Amaro Resignation Cause",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11637",
+        "C-11659"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10751",
+      "ref": "N-10751",
+      "name": "Charlie Kirk Cremation/Burial Status Verification",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11695"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10754",
+      "ref": "N-10754",
+      "name": "Rooftop Movement Tactical Analysis",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11686",
+        "C-11692"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10759",
+      "ref": "N-10759",
+      "name": "Kirk Burial / Cremation Status",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11695"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10761",
+      "ref": "N-10761",
+      "name": "Kirk Autopsy Heart/Lung Hemorrhage Causation",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11682",
+        "C-11687"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10790",
+      "ref": "N-10790",
+      "name": "Luna / Helluva Boss Cultural Connection",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11657"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10897",
+      "ref": "N-10897",
+      "name": "Project Constitution",
+      "type": "investigation_target",
+      "description": "Existing organization node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11691"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10975",
+      "ref": "N-10975",
+      "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+      "type": "investigation_target",
+      "description": "Existing organization node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11683"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10987",
+      "ref": "N-10987",
+      "name": "Charlie Kirk Inside-Shirt Rode Mic Placement",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11691"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11039",
+      "ref": "N-11039",
+      "name": "Erika Kirk Foreknowledge Question",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11640",
+        "C-11671"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11055",
+      "ref": "N-11055",
+      "name": "Tyler Robinson Gunshot Residue Test Question",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11647"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11135",
+      "ref": "N-11135",
+      "name": "Bullet Fragment Chain-of-Custody Question",
+      "type": "investigation_target",
+      "description": "Existing topic node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11683"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-912",
+      "ref": "N-912",
+      "name": "Andrew Guajardo",
+      "type": "person",
+      "description": "First named by the host at 00:00:50 in episode 135 as Dr. Andrew Guajardo, the deputy chief medical examiner who signed off on Charlie Kirk's autopsy. Transcript spellings: Gohardo, Gerhardt, Guajardo.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11638",
+        "C-11641",
+        "C-11642",
+        "C-11648",
+        "C-11649",
+        "C-11660"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-913",
+      "ref": "N-913",
+      "name": "Ashley Brown Guajardo",
+      "type": "person",
+      "description": "First named by the host at 00:05:07 in episode 135 as Dr. Ashley Brown Guajardo, a sociologist and game-culture researcher married to Dr. Andrew Guajardo. Transcript also spells her Kowhardo.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11648",
+        "C-11649",
+        "C-11650",
+        "C-11651",
+        "C-11652",
+        "C-11653",
+        "C-11654",
+        "C-11655",
+        "C-11656",
+        "C-11658",
+        "C-11660",
+        "C-11661"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11301",
+      "ref": "N-11301",
+      "name": "Digital Games Research Association",
+      "type": "organization",
+      "description": "Academic association which the host says Dr. Ashley Brown Guajardo currently serves as president of.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11655"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11302",
+      "ref": "N-11302",
+      "name": "IGDA",
+      "type": "organization",
+      "description": "Organization abbreviated IGDA in the transcript, with a games user research special interest group co-directed, per the host, by Dr. Ashley Brown Guajardo.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11654"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11303",
+      "ref": "N-11303",
+      "name": "Guajardo Spouse Gamer and Furry Culture Question",
+      "type": "topic",
+      "description": "The host's inquiry into the medical examiner's wife, her gamer and furry culture research and online presence, and whether she overlaps with the Discord and gaming community around Tyler Robinson and Lance Twiggs.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11648",
+        "C-11649",
+        "C-11650",
+        "C-11653",
+        "C-11656",
+        "C-11658"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11304",
+      "ref": "N-11304",
+      "name": "Erika Kirk Memorial Forgiveness Statement",
+      "type": "topic",
+      "description": "Erika Kirk's \"I forgive him\" statement about Tyler Robinson at the memorial, which the host reinterprets as a conviction of him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11696",
+        "C-11697"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11305",
+      "ref": "N-11305",
+      "name": "Utah Medical Examiner Office Departures to New York",
+      "type": "topic",
+      "description": "Reported departures of Dr. Deidra Amaro from Utah and of Dr. Andrew and Dr. Ashley Brown Guajardo to New York, with a new New York chief medical examiner role and an NYU teaching post.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11659",
+        "C-11660",
+        "C-11661"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -679,7 +1830,1423 @@
       "mentions_person_refs": [
         "N-1"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11635",
+      "ref": "C-11635",
+      "label": "Host Says the Public Was Told for 10 Months the Widow Just Wants Transparency",
+      "claim": "The host says that for 10 months the public was told Erika Kirk only wants transparency and is asking the judge to show everyone everything, yet when the host shared a video the response was \"Locker up.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10217"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Collect Erika Kirk's and TPUSA's public statements and court filings on transparency and sealing since September 2025 and compare them with the positions taken in the case.",
+      "transcript_snippet": "for 10 months straight we were told that all the widow wants is transparency. Erika just wants transparency.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11636",
+      "ref": "C-11636",
+      "label": "Host Says the Autopsy Was Done in a Couple of Hours in the Middle of the Night",
+      "claim": "The host says Charlie Kirk's autopsy was performed in the middle of the night and was finished in a couple of hours, which she calls the fastest autopsy ever.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10767"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:50",
+      "investigative_direction": "Obtain the Utah Office of the Medical Examiner intake, start and finish times for the autopsy from the report or defense discovery.",
+      "transcript_snippet": "Fastest autopsy ever. Just in the middle of the night, couple of hours, he's done.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11637",
+      "ref": "C-11637",
+      "label": "Host Says the Chief Medical Examiner Is Resigning",
+      "claim": "The host says the chief medical examiner is resigning.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10749",
+        "N-10183"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:50",
+      "investigative_direction": "Confirm Dr. Deidra Weiss Amaro's resignation date and stated reason from Utah state announcements.",
+      "transcript_snippet": "Now we've got the chief medical examiner resigning.",
+      "mentions_person_refs": [
+        "N-179"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11638",
+      "ref": "C-11638",
+      "label": "Host Says Dr. Andrew Guajardo Signed Off on Charlie's Autopsy",
+      "claim": "The host says the person who signed off on Charlie Kirk's autopsy was Dr. Andrew Guajardo.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10183"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:50",
+      "investigative_direction": "Check the signature block of the Kirk autopsy report (once released) for the signing pathologist.",
+      "transcript_snippet": "The person who signed off on it though is one that we are going to be speaking about, Dr. Andrew Guajardo.",
+      "mentions_person_refs": [
+        "N-912",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11639",
+      "ref": "C-11639",
+      "label": "Host Says Security Team Clothes Were Bloody and Mikey McCoy Got Them Scrubs",
+      "claim": "The host says the security team members' clothing they wore in the car to the hospital was covered in blood and that Mikey McCoy got them scrubs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10688",
+        "N-10766"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:50",
+      "investigative_direction": "Ask the hospital for scrub issue records and the security team members for a statement on how they obtained scrubs and who supplied them.",
+      "transcript_snippet": "They were covered in blood. The amazing Mikey McCoy got them scrubs.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11640",
+      "ref": "C-11640",
+      "label": "Host Says the Hospital Source's Story Implies Foreknowledge if True",
+      "claim": "The host says the story from a source she has found, if true, very much implies foreknowledge of Charlie Kirk's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11039",
+        "N-10765"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:37",
+      "investigative_direction": "Seek independent paperwork (shuttle bookings, Intermountain intake logs, staff testimony) that would confirm or refute the 10:00 a.m. emergency-room evacuation.",
+      "transcript_snippet": "And if true, it very much implies foreknowledge of Charlie's assassination.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11641",
+      "ref": "C-11641",
+      "label": "Host Says Guajardo Is From New York and Joined the Utah Office in 2018",
+      "claim": "The host says Dr. Andrew Guajardo is from New York, moved to Utah in 2018 and worked as an assistant at the medical examiner's office.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10183"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:12",
+      "investigative_direction": "Verify Guajardo's employment history through Utah state personnel records or his published CV.",
+      "transcript_snippet": "He is from New York. He moved to Utah in 2018 and was working as an assistant at the medical examiner's office.",
+      "mentions_person_refs": [
+        "N-912"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11642",
+      "ref": "C-11642",
+      "label": "Host Says Amaro Promoted Guajardo to Deputy Chief Examiner in 2024",
+      "claim": "The host says that when Dr. Deidra Amaro became chief medical examiner in 2024 she selected Guajardo as her deputy, promoting him to deputy chief examiner that year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10183"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:12",
+      "investigative_direction": "Check Utah Department of Health and Human Services announcements for the 2024 appointment of a deputy chief medical examiner.",
+      "transcript_snippet": "she decided to select him as her deputy, so he was promoted in 2024 when she got there to the role of deputy chief examiner.",
+      "mentions_person_refs": [
+        "N-179",
+        "N-912"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11643",
+      "ref": "C-11643",
+      "label": "Host Says There Is Still No Proof Robinson Was Trans or a Trans Furry",
+      "claim": "The host says there is still no proof that Tyler Robinson was trans or into trans furries beyond the influencers who were immediately sent out to push an LGBTQ narrative.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:12",
+      "investigative_direction": "Look for any court filing, discovery item or witness statement that documents Robinson's gender identity or furry involvement.",
+      "transcript_snippet": "I do want to say there's still no proof of him being trans or into trans furries beyond the influencers that were immediately sent out",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11644",
+      "ref": "C-11644",
+      "label": "Host Reads Alleged Discord Confession Messages Attributed to Robinson",
+      "claim": "The host reads on air messages said to be from Tyler Robinson to gamer friends on Discord saying it was him at UVU, that he is surrendering through a sheriff friend, and thanking them for the good times.",
+      "anchored_artifacts": [
+        "A-3145.1"
+      ],
+      "related_nodes": [
+        "N-10013",
+        "N-10021"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:14",
+      "investigative_direction": "Compare the read messages with the Discord records entered in the preliminary hearing and with Discord's own statements on the server.",
+      "transcript_snippet": "Hey guys, I have bad news for you all. It was me at UVU yesterday. I'm sorry for all of this.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11645",
+      "ref": "C-11645",
+      "label": "Host Says Lance Twiggs Said Robinson Was Into Gaming, Not Politics",
+      "claim": "The host says Lance Twiggs indicated in his interview that Tyler Robinson was very into gaming and not politics.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:14",
+      "investigative_direction": "Obtain the Twiggs interview recording or transcript and check the exact wording on gaming versus politics.",
+      "transcript_snippet": "has indicated in his interview that Tyler was very into gaming, not politics, he said, but gaming.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11646",
+      "ref": "C-11646",
+      "label": "Host Says After the Preliminary Hearing She Suspects Lance Could Have Set Up Tyler",
+      "claim": "The host says that after listening to the preliminary hearing she suspects Tyler Robinson could plausibly have been set up by Lance Twiggs, since Lance's prints are everywhere in the home and Tyler could have had a login to his boyfriend's Discord.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10703",
+        "N-10013"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:07",
+      "investigative_direction": "Review the preliminary hearing testimony on Discord account ownership and device access.",
+      "transcript_snippet": "after listening to the preliminary hearing, we suspect that Tyler plausible could have been set up by Lance. His prints are everywhere.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11647",
+      "ref": "C-11647",
+      "label": "Host Says the Rifle Had Dust in the Barrel so Likely Was Not Fired",
+      "claim": "The host says the gun attributed to Tyler Robinson had dust in the barrel and so likely was not even fired.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10621",
+        "N-11055"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:07",
+      "investigative_direction": "Obtain the firearms examiner report and the preliminary hearing testimony on barrel condition and test-firing.",
+      "transcript_snippet": "which had dust in the barrel, so likely wasn't even fired.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11648",
+      "ref": "C-11648",
+      "label": "Host Says Guajardo Is Married to Dr. Ashley Brown Guajardo",
+      "claim": "The host says Dr. Andrew Guajardo is married to Dr. Ashley Brown Guajardo.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11303"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:07",
+      "investigative_direction": "Confirm the marriage through public records or the couple's own biographies.",
+      "transcript_snippet": "He's married to a woman named Dr. Ashley Brown Guajardo.",
+      "mentions_person_refs": [
+        "N-912",
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11649",
+      "ref": "C-11649",
+      "label": "Host Asserts Guajardo's Wife Supports Furry Culture and Sometimes Dresses as a Furry",
+      "claim": "The host asserts that the wife of the medical examiner encourages, supports, works with and propagates furry culture and occasionally dresses up as one herself.",
+      "anchored_artifacts": [
+        "A-3146.1"
+      ],
+      "related_nodes": [
+        "N-11303"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:07",
+      "investigative_direction": "Locate the original posts or video the host showed and establish date, account and whether the person shown is Dr. Ashley Brown Guajardo.",
+      "transcript_snippet": "he's married to someone who encourages, supports, works with, and propagates the culture of furries, and occasionally dresses up as one herself.",
+      "mentions_person_refs": [
+        "N-912",
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11650",
+      "ref": "C-11650",
+      "label": "Host Says Ashley Promoted Her Book Dancing as a Furry With a Furry Hashtag",
+      "claim": "The host says the video shows Dr. Ashley Brown Guajardo dancing as a furry while promoting her book and using the hashtag furry; the host muted the music.",
+      "anchored_artifacts": [
+        "A-3146.1"
+      ],
+      "related_nodes": [
+        "N-11303"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:16",
+      "investigative_direction": "Find the original social media post, its date and the account that published it.",
+      "transcript_snippet": "she was dancing as a furry, and she was promoting uh her book, and she used the hashtag, you know, furry.",
+      "mentions_person_refs": [
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11651",
+      "ref": "C-11651",
+      "label": "Host Says Ashley Earned Her Degree at ASU and a Sociology PhD at Manchester",
+      "claim": "The host says Dr. Ashley Brown Guajardo earned her degree at Arizona State University and a PhD in sociology overseas at the University of Manchester.",
+      "anchored_artifacts": [
+        "A-3147.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:46",
+      "investigative_direction": "Check her published CV or university profile for degrees and institutions.",
+      "transcript_snippet": "she then earned her PhD in sociology overseas at the University of Manchester and then she became a teacher.",
+      "mentions_person_refs": [
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11652",
+      "ref": "C-11652",
+      "label": "Host Reads Bio Saying Ashley Was Faculty at Brunel and the University of Utah",
+      "claim": "The host reads from Dr. Ashley Brown Guajardo's bio that she was previously faculty at Brunel University in London and then the University of Utah, where she won awards for innovative and inclusive teaching.",
+      "anchored_artifacts": [
+        "A-3147.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:46",
+      "investigative_direction": "Compare against her university faculty page and CV.",
+      "transcript_snippet": "previously Dr. Kowhardo was faculty at Brunel University in London and then the University of Utah.",
+      "mentions_person_refs": [
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11653",
+      "ref": "C-11653",
+      "label": "Host Reads Bio Saying Ashley Has Hosted a Weekly Twitch Stream Since 2017",
+      "claim": "The host reads from the bio that since 2017 Dr. Ashley Brown Guajardo has hosted a weekly educational Twitch stream on games user research.",
+      "anchored_artifacts": [
+        "A-3147.1"
+      ],
+      "related_nodes": [
+        "N-11303"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:46",
+      "investigative_direction": "Find the Twitch channel and verify the start date and the content of the streams.",
+      "transcript_snippet": "Since 2017, she's hosted a weekly educational Twitch stream on games user research models.",
+      "mentions_person_refs": [
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11654",
+      "ref": "C-11654",
+      "label": "Host Says Ashley Held Roles at Global Game Jam and the IGDA Games User Research Group",
+      "claim": "The host says Dr. Ashley Brown Guajardo was vice president of the Global Game Jam conference and co-director of IGDA's games user research special interest group.",
+      "anchored_artifacts": [
+        "A-3147.1"
+      ],
+      "related_nodes": [
+        "N-11302"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:43",
+      "investigative_direction": "Check the organizations' leadership pages and archived rosters for her titles and dates.",
+      "transcript_snippet": "She was vice president of the Global Game Jam conference, co-director of IGDA's games user research special interest group.",
+      "mentions_person_refs": [
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11655",
+      "ref": "C-11655",
+      "label": "Host Says Ashley Is President of the Digital Games Research Association",
+      "claim": "The host says Dr. Ashley Brown Guajardo currently serves as president of the Digital Games Research Association.",
+      "anchored_artifacts": [
+        "A-3147.1"
+      ],
+      "related_nodes": [
+        "N-11301"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:43",
+      "investigative_direction": "Check the association's website and filings for its current officers.",
+      "transcript_snippet": "And currently serves as the president of the Digital Games Research Association.",
+      "mentions_person_refs": [
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11656",
+      "ref": "C-11656",
+      "label": "Host Says Ashley Wrote Sexuality and Role-Playing Games and Is Writing on Fantasy and Desire",
+      "claim": "The host says Dr. Ashley Brown Guajardo is the author of a book on sexuality and role-playing games, plus dozens of book chapters and journal articles on fandom and sexuality, and is working on a book on how fantasy can shape sexual desire.",
+      "anchored_artifacts": [
+        "A-3147.1"
+      ],
+      "related_nodes": [
+        "N-11303"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:43",
+      "investigative_direction": "Check publisher and library catalogs for her authored titles and announced forthcoming book.",
+      "transcript_snippet": "and she's currently working on a book which explores how fantasy can shape your sexual desire.",
+      "mentions_person_refs": [
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11657",
+      "ref": "C-11657",
+      "label": "Host Says Lance Twiggs Testified That He Goes by Luna",
+      "claim": "The host says Lance Twiggs testified at the preliminary hearing that he goes by Luna, which she suspects is a gaming character he engages with outside of Lance Twiggs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10790",
+        "N-10679"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:36",
+      "investigative_direction": "Check the preliminary hearing transcript for the exact exchange on the name Luna.",
+      "transcript_snippet": "you guys remember when Lance was testifying and he said that the preliminary hearing that he goes by Luna?",
+      "mentions_person_refs": [
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11658",
+      "ref": "C-11658",
+      "label": "Host Says Ashley Invited Her Students to Her Discord and Twitch",
+      "claim": "The host says Dr. Ashley Brown Guajardo spent 10 years as a University of Utah professor encouraging her students and gamers to join her Discord and follow her Twitch stream.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10013",
+        "N-11303"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:54",
+      "investigative_direction": "Find the Discord server and syllabi or posts where students were invited, and compare membership against names in the Robinson case.",
+      "transcript_snippet": "encouraging her students and her gamers to join her on her Discord, to follow her Twitch, her streamer account.",
+      "mentions_person_refs": [
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11659",
+      "ref": "C-11659",
+      "label": "Host Says Dr. Amaro Has Left Utah",
+      "claim": "The host says Dr. Deidra Amaro has left the Utah medical examiner's office and is no longer in Utah.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10749",
+        "N-11305"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:50",
+      "investigative_direction": "Confirm Amaro's departure date and new position through Utah state announcements.",
+      "transcript_snippet": "Dr. Amara has left uh the building. She's no longer at Utah.",
+      "mentions_person_refs": [
+        "N-179"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11660",
+      "ref": "C-11660",
+      "label": "Host Says Guajardo Is to Become New York Chief Medical Examiner and Ashley Will Teach at NYU",
+      "claim": "The host says Dr. Andrew Guajardo and Dr. Ashley Brown Guajardo have moved to New York, where he will be chief medical examiner and she will teach at NYU.",
+      "anchored_artifacts": [
+        "A-3148.1"
+      ],
+      "related_nodes": [
+        "N-11305"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:50",
+      "investigative_direction": "Check New York City announcements of the chief medical examiner appointment and NYU faculty listings.",
+      "transcript_snippet": "Now, he's going to be the chief medical examiner in New York, and she's going to be teaching at NYU.",
+      "mentions_person_refs": [
+        "N-912",
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11661",
+      "ref": "C-11661",
+      "label": "Host Says Ashley Is Now a Full-Time Assistant Arts Professor at NYU",
+      "claim": "The host says Dr. Ashley Brown Guajardo is now a full-time assistant arts professor at NYU.",
+      "anchored_artifacts": [
+        "A-3148.1"
+      ],
+      "related_nodes": [
+        "N-11305"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:50",
+      "investigative_direction": "Check the NYU faculty directory and her LinkedIn history for titles and dates.",
+      "transcript_snippet": "Now she's the assistant arts professor at NYU full-time.",
+      "mentions_person_refs": [
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11662",
+      "ref": "C-11662",
+      "label": "Host Says Turek Described Receiving Scrubs From the Hospital",
+      "claim": "The host says Frank Turek described the group receiving scrubs from the hospital, which she has always found remarkably suspicious.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10688"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:57",
+      "investigative_direction": "Find Turek's original account of the scrubs and ask the hospital whether it issues scrubs to visitors.",
+      "transcript_snippet": "Remember how Frank Turek described them receiving scrubs from the hospital?",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11663",
+      "ref": "C-11663",
+      "label": "Host Says Harpole Described Doing All the Work While Cutler Held Him and Turek Prayed",
+      "claim": "The host says Brian Harpole's account is that he did all of the work while Rick Cutler was holding him and Frank Turek was praying in the back.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10699"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:57",
+      "investigative_direction": "Obtain Harpole's preliminary hearing testimony and Turek's and Cutler's separate accounts and compare who did CPR.",
+      "transcript_snippet": "he was doing all of the work while Rob Cutler was holding him, while Frank was praying in the back.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-498",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11664",
+      "ref": "C-11664",
+      "label": "Host Says Turek Says He Did CPR While Harpole Says He Did Not",
+      "claim": "The host says Frank Turek says he did CPR while Brian Harpole says Turek did not, and suggests Turek may have written himself into the story to explain why he wore scrubs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10699",
+        "N-10687",
+        "N-10737"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:57",
+      "investigative_direction": "Compare Turek's public statements with Harpole's testimony on who performed CPR in the vehicle.",
+      "transcript_snippet": "where Frank says he did CPR and Brian says he didn't?",
+      "mentions_person_refs": [
+        "N-7",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11665",
+      "ref": "C-11665",
+      "label": "Host Says Turek Claims Harpole Was Distracted and Missed the Mouth-to-Mouth CPR",
+      "claim": "The host says Turek's explanation is that Harpole was distracted for the last 30 seconds of the short car ride and did not see Turek lay Charlie flat and begin mouth-to-mouth CPR.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10699"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:48",
+      "investigative_direction": "Locate Turek's statement on the distraction explanation and the vehicle ride duration from dashcam or 911 timelines.",
+      "transcript_snippet": "Frank says Brian was distracted and just didn't realize what he had done for the last 30 seconds.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-272",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11666",
+      "ref": "C-11666",
+      "label": "Host Says the FBI Had the Car Towed Away, Cleaned and Resold",
+      "claim": "The host says the feds immediately had the vehicle towed and sent away, wanting it cleaned and resold rather than kept as evidence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10362",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:40",
+      "investigative_direction": "Obtain the tow, impound and sale records for the transport vehicle and any evidence-hold notation.",
+      "transcript_snippet": "the feds immediately had the car towed, sent away, wanted it cleaned and resold.",
+      "mentions_person_refs": [
+        "N-10014"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11667",
+      "ref": "C-11667",
+      "label": "Host Infers the Clothing Was Likely Destroyed but Says She Does Not Know",
+      "claim": "The host says that in her mind the FBI likely took the security team's clothes and had them destroyed, though she says she does not know that for certain.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10766",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:40",
+      "investigative_direction": "Defense discovery would show whether the clothing appears on any evidence inventory or chain-of-custody log.",
+      "transcript_snippet": "In my mind, they likely took their clothes and had them destroyed. That's in my mind. I don't know that for certain.",
+      "mentions_person_refs": [
+        "N-10014"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11668",
+      "ref": "C-11668",
+      "label": "Host Says No Hospital Eyewitnesses Have Come Forward to Harpole's ER Scene",
+      "claim": "The host says it is odd that there were no eyewitnesses to the ER scene Brian Harpole described, and asks where the doctors, nurses and other patients are.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10573",
+        "N-10765"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:23",
+      "investigative_direction": "Identify the Timpanogos ER staff and patients present on September 10 and ask whether anyone observed Harpole's conduct.",
+      "transcript_snippet": "many of us have noted how odd it is that there were no eyewitnesses to the extremely erratic, chaotic, and utterly improbable ER scene",
+      "mentions_person_refs": [
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11669",
+      "ref": "C-11669",
+      "label": "Host Says All ER Patients and Files Were Moved to Intermountain",
+      "claim": "The host says her source states all of the emergency room patients and all of their files were then transferred to Intermountain.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10765",
+        "N-10770"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:00",
+      "investigative_direction": "Seek Intermountain and Timpanogos transfer logs and electronic record audit trails for September 10, 2025.",
+      "transcript_snippet": "All of the emergency room patients and all of their files were then transferred to Intermountain.",
+      "mentions_person_refs": [
+        "N-10770"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11670",
+      "ref": "C-11670",
+      "label": "Host Says Hospital Cameras Were Seized by Kash Patel's Office",
+      "claim": "The host says the only record of those patients having been at Timpanogos would be hospital cameras, which she says were seized by Kash Patel's office.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10239"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:00",
+      "investigative_direction": "Ask Timpanogos Hospital and the FBI whether footage was taken, when and under what legal process.",
+      "transcript_snippet": "which have been conveniently seized by Kash Patel's office, of these patients ever having been at Timpanogos Hospital.",
+      "supports_claim_refs": [
+        "C-1666"
+      ],
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11671",
+      "ref": "C-11671",
+      "label": "Host Says Proving the Shuttle Transfer With Paperwork Would Settle Foreknowledge",
+      "claim": "The host says that if the shuttle transfer can be proven beyond a shadow of a doubt with paperwork, foreknowledge of Charlie's assassination could no longer be disputed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11039",
+        "N-10765"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:11",
+      "investigative_direction": "Obtain shuttle company bookings, Google satellite imagery, Intermountain intake records and staff testimony for the morning of September 10.",
+      "transcript_snippet": "if we are able to prove that this took place beyond a shadow of a doubt with paperwork, then I would say foreknowledge of Charlie's assassination can no longer be disputed.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11672",
+      "ref": "C-11672",
+      "label": "Host Asks Anyone Who Drove or Booked the Shuttle to Email Tips",
+      "claim": "The host asks the person who drove or booked the shuttle, or saw it arrive at Intermountain, to email tips at CandaceOwens.com.",
+      "anchored_artifacts": [
+        "A-3149.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:24:11",
+      "investigative_direction": "Track whether any emailed tip about the shuttle is cited in later episodes.",
+      "transcript_snippet": "More tips at CandaceOwens. com, because if we are able to prove that this took place",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11673",
+      "ref": "C-11673",
+      "label": "Host Repeats Request for Tips at CandaceOwens.com",
+      "claim": "The host repeats her request for viewers to email more tips at CandaceOwens.com about the shuttle claim.",
+      "anchored_artifacts": [
+        "A-3149.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:08",
+      "investigative_direction": "Track tip follow-up in later episodes.",
+      "transcript_snippet": "So again, please email us more tips at Candace Owens. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11674",
+      "ref": "C-11674",
+      "label": "Host Says She Trusts the Source's Information Is Accurate",
+      "claim": "The host says she trusts very much that the source's information about the emergency room evacuation is accurate.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10765"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:08",
+      "investigative_direction": "Source credibility can only be tested by corroborating records; request the paperwork the host says would prove it.",
+      "transcript_snippet": "Now I can tell you I trust very much that this information is accurate."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11675",
+      "ref": "C-11675",
+      "label": "Host Says the October 28 Leaked File Came With Instructions Not to Touch It",
+      "claim": "The host says her October 28, 2025 report was based on a leak that Charlie had a file at Utah Valley Hospital and that people there were specifically instructed not to touch or open that file.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10770",
+        "N-10196"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:08",
+      "investigative_direction": "Re-examine the October 28 hospital message screenshot and identify its author and recipients.",
+      "transcript_snippet": "they were specifically instructing people um not to touch or open that file.",
+      "supports_claim_refs": [
+        "C-1503"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11676",
+      "ref": "C-11676",
+      "label": "Host Says the File Held Charlie's Illinois Home Address Not Available to the Public",
+      "claim": "The host says the Utah Valley file contained Charlie's personal details, including his home address in Illinois that is not publicly available, and that no one ever explained it.",
+      "anchored_artifacts": [
+        "A-3150.1"
+      ],
+      "related_nodes": [
+        "N-10770",
+        "N-10196"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:02",
+      "investigative_direction": "Have a records expert assess the re-displayed screenshot for authenticity and the fields shown.",
+      "transcript_snippet": "it had Charlie's personal details, even his like home address back in Illinois, which is not available to the public",
+      "supports_claim_refs": [
+        "C-1504"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11677",
+      "ref": "C-11677",
+      "label": "Host Says the Source's Account Could Explain Charlie's File Appearing at Utah Valley",
+      "claim": "The host says that if her source is accurate, all emergency room files from September 10, including Charlie's, were electronically transferred out to Utah Valley, which would answer why his file was there.",
+      "anchored_artifacts": [
+        "A-3150.1"
+      ],
+      "related_nodes": [
+        "N-10770",
+        "N-10765"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:54",
+      "investigative_direction": "Compare the Epic audit trail on the Utah Valley record creation with the claimed September 10 bulk transfer.",
+      "transcript_snippet": "All emergency room files on September 10th, which included Charlie's, were transferred out, electronic files were transferred out to Utah Valley.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11678",
+      "ref": "C-11678",
+      "label": "Host Says Other People Were in the Utah Valley System and Charlie Was a Patient on September 10",
+      "claim": "The host says the Utah Valley system view showed other people as well and that Charlie was a patient there on September 10.",
+      "anchored_artifacts": [
+        "A-3150.1"
+      ],
+      "related_nodes": [
+        "N-10770"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:48",
+      "investigative_direction": "Obtain the unredacted screenshot metadata and the list of other patient entries from the original leaker.",
+      "transcript_snippet": "And other people were also in the system. So, we were we're looking at Utah Valley's system, and Charlie was a patient on September 10th.",
+      "supports_claim_refs": [
+        "C-1504"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11679",
+      "ref": "C-11679",
+      "label": "Host Says the Prosecution's Filing Published a Little of Charlie's Medical Exam",
+      "claim": "The host says the prosecution's filing the previous day published a small part of Charlie Kirk's medical exam, which bothered medical professionals who wrote to her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10229",
+        "N-10155"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:11",
+      "investigative_direction": "Obtain the prosecution filing and identify which autopsy findings it disclosed.",
+      "transcript_snippet": "the little bit that was published by the prosecution in their filing yesterday.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11680",
+      "ref": "C-11680",
+      "label": "Anesthesiologist Email Says the Exploding Mic Theory Is the Best Explanation",
+      "claim": "The anesthesiologist's email, read by the host, says the writer agrees with the host and John Bray that the exploding mic theory best explains what could be gathered from the limited footage.",
+      "anchored_artifacts": [
+        "A-2220.1"
+      ],
+      "related_nodes": [
+        "N-10768"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:16",
+      "investigative_direction": "Verify the emailer's board certification and obtain the full email.",
+      "transcript_snippet": "I agree with you and John Bray that the exploding mic theory is the best explanation of what we could grasp from the limited footage available.",
+      "mentions_person_refs": [
+        "N-696",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11681",
+      "ref": "C-11681",
+      "label": "Anesthesiologist Email Says There Is No Evidence of a Rear Shot and a Frontal Hit Would Push the Torso Back",
+      "claim": "The anesthesiologist's email says there is no evidence Charlie was shot from behind and that a frontal bullet hit would have sent his torso backwards, which was not seen.",
+      "anchored_artifacts": [
+        "A-2220.1"
+      ],
+      "related_nodes": [
+        "N-10768"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:16",
+      "investigative_direction": "Review frame-by-frame footage of the moment of impact with a trauma physician and ballistics expert.",
+      "transcript_snippet": "However, there is no evidence that he was shot from behind. Three, if Charlie was hit from the front, momentum from the bullet would have sent his torso backwards.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11682",
+      "ref": "C-11682",
+      "label": "Anesthesiologist Email Says a Shaped Charge Projectile Would Have Damaged Both Lungs and Possibly the Heart",
+      "claim": "The anesthesiologist's email says a shaped charge in the mic would have sent a projectile upward and leftward from the right chest, almost certainly damaging both lungs and possibly the heart, causing pulmonary and possibly cardiac hemorrhaging.",
+      "anchored_artifacts": [
+        "A-2220.1"
+      ],
+      "related_nodes": [
+        "N-10768",
+        "N-10761"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:08",
+      "investigative_direction": "Compare against the thoracic findings in the autopsy report once released.",
+      "transcript_snippet": "The projectile would have almost certainly damaged both lungs and possibly his heart.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11683",
+      "ref": "C-11683",
+      "label": "Host Says the ATF Testified Receiving Five Fragments, Four Unusable",
+      "claim": "The host says she thinks the ATF testified that it received five fragments, four of which were unusable and one big enough to use.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10975",
+        "N-10572",
+        "N-11135"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:48",
+      "investigative_direction": "Check the preliminary hearing transcript for the ATF analyst's testimony on fragment count and usability.",
+      "transcript_snippet": "The the ATF testified I think that they received five fragments. Four were unusable unusable and one was big enough for them to use.",
+      "mentions_person_refs": [
+        "N-10572",
+        "N-11135"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11684",
+      "ref": "C-11684",
+      "label": "Anesthesiologist Email Says Resuscitation Was Never Started and Would Have Been Near Impossible in the SUV",
+      "claim": "The anesthesiologist's email says Charlie would have gone into hypovolemic shock within minutes and needed immediate chest compressions, but none was started at the scene and it would have been nearly impossible in the back of an SUV.",
+      "anchored_artifacts": [
+        "A-2220.1"
+      ],
+      "related_nodes": [
+        "N-10768"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:41",
+      "investigative_direction": "Obtain EMS and hospital records on resuscitation attempts and compare with the security team's accounts of CPR.",
+      "transcript_snippet": "None of that was initiated at the scene and would have been nearly impossible to perform in the back of an SUV.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11685",
+      "ref": "C-11685",
+      "label": "Anesthesiologist Email Says the Security Team Got Him Out in a Highly Rehearsed Fashion",
+      "claim": "The anesthesiologist's email, which the host says is the writer's opinion and not hers, says Charlie was murdered by a shaped charge on his chest and that the security team acted in a highly rehearsed fashion to get him out before anyone could see what happened.",
+      "anchored_artifacts": [
+        "A-2220.1"
+      ],
+      "related_nodes": [
+        "N-10768"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:25",
+      "investigative_direction": "Verify the email's author and compare the claim with security team statements and scene video.",
+      "transcript_snippet": "his security team did their best in a highly rehearsed fashion to get him the hell out of there before anybody could see what happened.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11686",
+      "ref": "C-11686",
+      "label": "Host Says She Believes There Was No Gun on the Rooftop and a Runner Was a Decoy",
+      "claim": "The host says she believes there was no gun on the rooftop and that a person was told to run so that another decoy could be blamed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10769",
+        "N-10754"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:25",
+      "investigative_direction": "Seek rooftop scene evidence, the recovered-rifle chain of custody and identification of the runner.",
+      "transcript_snippet": "I think that the there was no gun on the rooftop. There was a person who was told to run and so that they could blame another decoy.",
+      "mentions_person_refs": [
+        "N-10754"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11687",
+      "ref": "C-11687",
+      "label": "Transplant Coordinator Email Says Thoracic Trauma Is Not Seen in Head or Neck Gunshot Wounds",
+      "claim": "The transplant coordinator's email says she has never seen thoracic trauma or hemorrhaging in a gunshot wound to the head or neck, and that it would take blunt force trauma to the chest, which would fit an exploding microphone under the shirt.",
+      "anchored_artifacts": [
+        "A-2220.2"
+      ],
+      "related_nodes": [
+        "N-10768",
+        "N-10761"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:15",
+      "investigative_direction": "Verify the writer's role and ask trauma surgeons whether thoracic hemorrhage can accompany neck gunshot wounds; compare with the autopsy report.",
+      "transcript_snippet": "I've never seen thoracic trauma or hemorrhaging for that matter in a gunshot wound to the head or neck.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11688",
+      "ref": "C-11688",
+      "label": "Transplant Coordinator Email Questions Whether the Body Was Ever Taken to the Morgue",
+      "claim": "The transplant coordinator's email says the timeline would support only about three hours in the morgue, depending on how long Erika spent with Charlie, and adds \"if his body was ever taken to the morgue.\"",
+      "anchored_artifacts": [
+        "A-2220.2"
+      ],
+      "related_nodes": [
+        "N-10767"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:15",
+      "investigative_direction": "Obtain morgue intake and transport logs for September 10-11 from the Utah medical examiner's office.",
+      "transcript_snippet": "And that's if his body was ever taken to the morgue.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11689",
+      "ref": "C-11689",
+      "label": "Host Says Protocol Is to Cool the Body to 40 Degrees Before Autopsy",
+      "claim": "The host says her team looked it up and confirmed that the protocol is to bring the body down to 40 degrees in the morgue and that this does not happen by morning.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10767"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:03",
+      "investigative_direction": "Ask forensic pathologists and the Utah OME for its written cooling protocol.",
+      "transcript_snippet": "it is true that the protocol is to bring the body down to 40° in the morgue.",
+      "supports_claim_refs": [
+        "C-3181"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11690",
+      "ref": "C-11690",
+      "label": "Host Says a Body Can Wait About 12 Hours Before Decomposition",
+      "claim": "The host says her team found that a body begins to decompose after about 12 hours, so immediate autopsy would not be illegal even though it departs from normal practice.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10767"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:50",
+      "investigative_direction": "Cite forensic pathology references for decomposition onset and the OME's own autopsy timing practice.",
+      "transcript_snippet": "12 hours before they start to get decomposition. We were looking that up, so the body wouldn't have decomposed, but it's just not what they usually do.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11691",
+      "ref": "C-11691",
+      "label": "Surgeon Comment Says Project Constitution Reported a Rode Transmitter at Charlie's Left Waist",
+      "claim": "The surgeon's YouTube comment says a podcaster from Project Constitution said Charlie also wore a Rode transmitter at his left waist, and that a shaped charge there would fit entry below the neck and a cervical spine hit.",
+      "anchored_artifacts": [
+        "A-2221.1"
+      ],
+      "related_nodes": [
+        "N-10897",
+        "N-10987",
+        "N-10768"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:50",
+      "investigative_direction": "Find the Project Constitution podcast segment and compare with photographs of Charlie's mic pack placement.",
+      "transcript_snippet": "I heard a a podcaster, Project Constitution, say that Charlie was also wearing a road transmitter at his left waist.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11692",
+      "ref": "C-11692",
+      "label": "Host Says the Rooftop Figure's Military Crawling Has Been Proven",
+      "claim": "The host says it has been proven that the person on the rooftop military crawled and got into position before the bang.",
+      "anchored_artifacts": [
+        "A-2222.1"
+      ],
+      "related_nodes": [
+        "N-10754",
+        "N-10769"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:10",
+      "investigative_direction": "Cite the analysis the host refers to and compare with the full witness recording.",
+      "transcript_snippet": "if he observed a person military crawling, which has been true proven true, and he saw this person gets down and into a position",
+      "mentions_person_refs": [
+        "N-10769"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11693",
+      "ref": "C-11693",
+      "label": "Host Says Robinson's Prints Were the Most Degraded on the Rooftop Rifle",
+      "claim": "The host says the gun has dust on the barrel and that Tyler Robinson's prints were the most degraded of those on that rooftop.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10621"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:18",
+      "investigative_direction": "Check the latent print and DNA reports for the rifle and the quality ranking of prints.",
+      "transcript_snippet": "Tyler Robinson's gun, which has dust on the barrel and his prints as the most degraded that was on that rooftop.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11694",
+      "ref": "C-11694",
+      "label": "Host Says the Alleged Weapon Was a German 98 Mauser",
+      "claim": "The host says the weapon at issue is a German 98 Mauser, which she says would be hard to conceal in the way a handgun could.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10621"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:18",
+      "investigative_direction": "Obtain the firearm identification and make and model from the charging documents and ATF trace.",
+      "transcript_snippet": "But a German 98 Mauser, a it's completely ridiculous.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11695",
+      "ref": "C-11695",
+      "label": "Viewer Comment Says Love Letters From Charlie to Erika Were Mailed as Fundraiser Material",
+      "claim": "A viewer comment read by the host says private love letters Charlie wrote to Erika, which he expected no one to see, were mailed out as fundraiser material, while the public cannot be told whether he was cremated.",
+      "anchored_artifacts": [
+        "A-3151.1"
+      ],
+      "related_nodes": [
+        "N-10751",
+        "N-10759"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:22",
+      "investigative_direction": "Obtain a copy of the fundraising mailer and the date and sender.",
+      "transcript_snippet": "We can be mailed private love letters that Charlie wrote to Erika that he expected no one to see as a fundraiser material.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11696",
+      "ref": "C-11696",
+      "label": "Host Says Erika's Forgiveness at the Memorial Amounted to Convicting Robinson",
+      "claim": "The host says that in retrospect Erika's \"I forgive him\" at the memorial was in effect saying \"I convict him,\" meaning she convicted Tyler Robinson rather than forgave him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11304",
+        "N-10002"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:15",
+      "investigative_direction": "Review the memorial transcript and video for the exact words and any evidence Erika had been shown by that date.",
+      "transcript_snippet": "In retrospect, what Erika was doing was so evil. She was actually saying, \"I convict him.\"",
+      "supports_claim_refs": [
+        "C-8358"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11697",
+      "ref": "C-11697",
+      "label": "Host Says Erika Had Not Seen Any Evidence When She Spoke at the Memorial",
+      "claim": "The host says Erika did not have any idea that Robinson had done it, had not seen any evidence herself, and that the assumption she was shown evidence at UVU is wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11304"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:36",
+      "investigative_direction": "Ask Erika Kirk's representatives and law enforcement what briefing, if any, she received before the memorial.",
+      "transcript_snippet": "She didn't have any idea that he had done it. We had him. He wasn't She hadn't seen any evidence um that herself.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11698",
+      "ref": "C-11698",
+      "label": "Host Says She Broke Her Foot Friday the 13th Around the Time She Learned She Was Pregnant",
+      "claim": "The host says she broke her foot on Friday the 13th at about the time she found out she was pregnant.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:12",
+      "investigative_direction": "Personal claim, checkable only by the host.",
+      "transcript_snippet": "Then, I actually broke my foot like actually on Friday the 13th. Uh like the same around the same time that like I found out that I was pregnant.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11699",
+      "ref": "C-11699",
+      "label": "Host Says Trump Tweeted Her Face as the Most Vile Person of the Year",
+      "claim": "The host says that before her Russia trip the president tweeted her face as the most vile person of the year, for no reason she could identify.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10640"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:32",
+      "investigative_direction": "Locate the Truth Social or X post and its date.",
+      "transcript_snippet": "the president of the United States like tweets my face. It's like vile's most person most vile person of the year for no reason.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11700",
+      "ref": "C-11700",
+      "label": "Host Says Her Security Member Almost Died in Russia",
+      "claim": "The host says that when she got to Russia one of her security members almost died.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10344"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:32",
+      "investigative_direction": "Ask the host for details and any medical or travel records of the incident.",
+      "transcript_snippet": "And then I get to Russia and my security security member literally almost dies.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-11701",
+      "ref": "C-11701",
+      "label": "Host Says She Had a Thyroid Cancer Scare That Is Now Resolved",
+      "claim": "The host says she had a thyroid cancer scare that turned into further testing and is now fine.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:32",
+      "investigative_direction": "Personal claim, checkable only by the host.",
+      "transcript_snippet": "It was for thyroid, so it's also a very survivable cancer.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 135,
+          "video_timestamp": "00:24:11",
+          "speaker_node_ref": "N-3",
+          "quote": "More tips at CandaceOwens. com",
+          "context": "Host asks anyone who drove or booked the shuttle to send tips.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        },
+        {
+          "episode": 135,
+          "video_timestamp": "00:25:08",
+          "speaker_node_ref": "N-3",
+          "quote": "So again, please email us more tips at Candace Owens. com.",
+          "context": "Host repeats the tip request.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 135,
+          "video_timestamp": "00:30:11",
+          "speaker_node_ref": "N-3",
+          "quote": "So go max people.",
+          "context": "Host urges viewers to chase the shuttle lead.",
+          "confidence": "high",
+          "tags": [
+            "go max"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-187",
+      "ref": "M-187",
+      "canonical_term": "Chick-fil-A Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 135,
+          "video_timestamp": "00:43:19",
+          "speaker_node_ref": "N-3",
+          "quote": "What was in that Chick-fil-A sandwich? One of the greatest mysteries.",
+          "context": "Host mocks the account of Robinson's morning after discussing his rooftop jump.",
+          "confidence": "high",
+          "tags": [
+            "chick-fil-a"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-291",
+      "ref": "M-291",
+      "canonical_term": "Dr. Harpole House",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 135,
+          "video_timestamp": "00:21:19",
+          "speaker_node_ref": "N-3",
+          "quote": "that's a man who fell asleep watching Dr. House reruns.",
+          "context": "Host mocks Harpole's ER testimony as TV medicine.",
+          "confidence": "high",
+          "tags": [
+            "harpole",
+            "dr house"
+          ]
+        },
+        {
+          "episode": 135,
+          "video_timestamp": "00:22:12",
+          "speaker_node_ref": "N-3",
+          "quote": "Didn't they see Dr. House, Dr. Harpole House?",
+          "context": "Host repeats the Dr. House joke about Harpole.",
+          "confidence": "high",
+          "tags": [
+            "harpole",
+            "dr house"
+          ]
+        }
+      ]
+    }
+  ]
 }
