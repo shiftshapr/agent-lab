@@ -2704,5 +2704,227 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-92",
+      "ref": "M-92",
+      "canonical_term": "Paramount Not So Tactical",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 123,
+          "video_timestamp": "00:39:49",
+          "speaker_node_ref": "N-3",
+          "quote": "Blake Nef, Graham Allen, and Paramount not so tactical?",
+          "context": "Host lumps Paramount Tactical in with Neff and Allen as deluding the public.",
+          "confidence": "high",
+          "tags": [
+            "paramount tactical",
+            "neff"
+          ]
+        },
+        {
+          "episode": 123,
+          "video_timestamp": "00:43:25",
+          "speaker_node_ref": "N-3",
+          "quote": "Do you really think I'm going to be tempted by Paramount not so tactical?",
+          "context": "Host says Paramount Tactical will not tempt her.",
+          "confidence": "high",
+          "tags": [
+            "paramount tactical"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 123,
+          "video_timestamp": "00:42:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Is it BB and Yahoo?",
+          "context": "Host jokes about whose name Erika has saved in her phone as God.",
+          "confidence": "high",
+          "tags": [
+            "netanyahu",
+            "phone"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 123,
+          "video_timestamp": "01:00:07",
+          "speaker_node_ref": "N-3",
+          "quote": "send us emails tips@cennison. com.",
+          "context": "Host asks viewers to send tips by email.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        },
+        {
+          "episode": 123,
+          "video_timestamp": "01:00:52",
+          "speaker_node_ref": "N-3",
+          "quote": "More tips at kennacewins. com.",
+          "context": "Host repeats the tip address at sign-off.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 123,
+          "video_timestamp": "00:23:48",
+          "speaker_node_ref": "N-3",
+          "quote": "They're serving up Christian slop",
+          "context": "Host says TPUSA will offer Christian slop explanations for the shattered microphone.",
+          "confidence": "high",
+          "tags": [
+            "slop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-74",
+      "ref": "M-74",
+      "canonical_term": "Believe Your Own Eyes",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 123,
+          "video_timestamp": "00:18:16",
+          "speaker_node_ref": "N-3",
+          "quote": "you shouldn't believe your own eyes",
+          "context": "Host says commentators are trying to convince viewers not to believe the glass photos.",
+          "confidence": "high",
+          "tags": [
+            "eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 123,
+          "video_timestamp": "00:19:26",
+          "speaker_node_ref": "N-3",
+          "quote": "You go be the conspiracy theorist",
+          "context": "Host tells critics to explain the broken mic and be the conspiracy theorists themselves.",
+          "confidence": "high",
+          "tags": [
+            "conspiracy"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-181",
+      "ref": "M-181",
+      "canonical_term": "Miracle Spin",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 123,
+          "video_timestamp": "00:22:20",
+          "speaker_node_ref": "N-3",
+          "quote": "Are they going to say more miracles, more um Judeo-Christian slop miracles that took place that day?",
+          "context": "Host predicts TPUSA will explain the mic with a miracle.",
+          "confidence": "high",
+          "tags": [
+            "miracle",
+            "slop"
+          ]
+        },
+        {
+          "episode": 123,
+          "video_timestamp": "00:50:36",
+          "speaker_node_ref": "N-3",
+          "quote": "but you guys are forgetting it's a miracle.",
+          "context": "Host sarcastically explains the vehicle speeds.",
+          "confidence": "high",
+          "tags": [
+            "miracle"
+          ]
+        },
+        {
+          "episode": 123,
+          "video_timestamp": "00:51:30",
+          "speaker_node_ref": "N-3",
+          "quote": "a Christian miracle being spun by none other than Erika Frantzve",
+          "context": "Host says Erika is spinning a Christian miracle.",
+          "confidence": "high",
+          "tags": [
+            "miracle",
+            "erika"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-182",
+      "ref": "M-182",
+      "canonical_term": "Long Live Erika Frantzve",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 123,
+          "video_timestamp": "00:35:24",
+          "speaker_node_ref": "N-3",
+          "quote": "I long live Erika Frantzve.",
+          "context": "Host says she wants Erika to outlive everyone.",
+          "confidence": "high",
+          "tags": [
+            "erika"
+          ]
+        },
+        {
+          "episode": 123,
+          "video_timestamp": "00:36:36",
+          "speaker_node_ref": "N-3",
+          "quote": "Long live Erika Frantzve.",
+          "context": "Host repeats the line as a sign-off for the segment.",
+          "confidence": "high",
+          "tags": [
+            "erika"
+          ]
+        }
+      ]
+    }
+  ]
 }

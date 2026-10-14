@@ -46,6 +46,41 @@ Confidence: high
 
 ---
 
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:51:23
+Speaker: N-3
+Quote: I wore my Candace CIA sweater in public today.
+Context: Host reads a viewer comment about wearing Candace CIA merch.
+Tags: cia merch, viewer comment
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:55:42
+Speaker: N-3
+Quote: buy yourself some gear some CIA gear
+Context: Host plugs merch at the end of the episode.
+Tags: cia merch, merch plug
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:55:42
+Speaker: N-3
+Quote: You can go to make him a sandwichand. com to buy your copy of the book.
+Context: Host plugs her book while describing the feminist movement.
+Tags: book plug, merch
+Confidence: high
+
+---
+
 # I. Meta-Data
 
 - Episode title: "Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254"

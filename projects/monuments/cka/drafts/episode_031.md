@@ -69,6 +69,180 @@ Confidence: high
 
 ---
 
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:01:20
+Speaker: N-3
+Quote: Don't just ask questions, just accept the fed slop.
+Context: Host mocks critics who want viewers to accept the official story.
+Tags: fed slop, official narrative
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:42:14
+Speaker: N-3
+Quote: we're just going to accept the Fed slop because that's what we should do as polite citizens
+Context: Host applies the term to Tucker's interviewer.
+Tags: fed slop, tucker
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:47:43
+Speaker: N-3
+Quote: All we get is Fed Slop every day, all day.
+Context: Host riffs on a Dillon country-song bit titled Fed Slop.
+Tags: fed slop, dillon
+Confidence: high
+
+---
+
+**M-3** (meme) Trust the Science
+
+### Occurrence 1
+
+Video Timestamp: 00:06:39
+Speaker: N-3
+Quote: we should just trust the science
+Context: Host compares appeals to Kirk's friends to pandemic messaging.
+Tags: trust the science, friends
+Confidence: high
+
+---
+
+**M-77** (meme) Operation Mocking Pastor
+
+### Occurrence 1
+
+Video Timestamp: 00:27:02
+Speaker: N-3
+Quote: when they were all getting on on stage for Operation Mocking Pastor
+Context: Host says Calvary Chapel pastors were the main offenders.
+Tags: mocking pastor, calvary chapel
+Confidence: high
+
+---
+
+**M-135** (meme) Mask Down
+
+### Occurrence 1
+
+Video Timestamp: 00:36:27
+Speaker: N-3
+Quote: if you don't see that it has gone masked down
+Context: Host says Christian Zionists have dropped the mask.
+Tags: mask down, christian zionism
+Confidence: high
+
+---
+
+**M-81** (meme) Bibi Net and Yahoo
+
+### Occurrence 1
+
+Video Timestamp: 00:36:27
+Speaker: N-3
+Quote: the people who won't even speak about BBnet and Yahoo's crimes against humanity
+Context: Host's nickname for Netanyahu.
+Tags: netanyahu, nickname
+Confidence: high
+
+---
+
+**M-78** (meme) Silence Is Not Kindness
+
+### Occurrence 1
+
+Video Timestamp: 00:33:26
+Speaker: N-3
+Quote: silence is not kindness. Silence is actually consent.
+Context: Host's moral framing from the break script.
+Tags: silence, consent
+Confidence: high
+
+---
+
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 00:42:14
+Speaker: N-3
+Quote: Stop trying to gaslight us.
+Context: Host reacts to the Tucker clip.
+Tags: gaslight, tucker
+Confidence: high
+
+---
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:37:24
+Speaker: N-3
+Quote: I don't know what is very clearly a psychological operation.
+Context: Host describes shared talking points as a psyop.
+Tags: psyop, talking points
+Confidence: high
+
+---
+
+**M-33** (meme) Just Asking Questions
+
+### Occurrence 1
+
+Video Timestamp: 00:59:57
+Speaker: N-3
+Quote: I know we're not allowed to ask questions.
+Context: Host sarcastically defends asking questions about Israel.
+Tags: asking questions, israel
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:54:48
+Speaker: N-3
+Quote: Make him a sandwich. com.
+Context: Host plugs her book while reading comments.
+Tags: book plug, merch
+Confidence: high
+
+---
+
+**M-171** (meme) Judas Culture
+
+### Occurrence 1
+
+Video Timestamp: 00:38:16
+Speaker: N-3
+Quote: in some regard it's a Judas culture.
+Context: Host names the pressure to sell out friends, calling it the 30 pieces of silver.
+Tags: judas, loyalty
+Confidence: high
+
+---
+
+**M-172** (meme) I'm Sticking with the Dream
+
+### Occurrence 1
+
+Video Timestamp: 00:36:27
+Speaker: N-3
+Quote: And I'm sticking with the dream. I'm sticking with the dream.
+Context: Host repeats she stands by her dream that Charlie was betrayed.
+Tags: dream, betrayal
+Confidence: high
+
+---
+
 ## 3. Artifact Register
 
 **A-1390** PragerU Throwback Clip (Owens/Kirk)

@@ -3246,5 +3246,277 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-198",
+      "ref": "M-198",
+      "canonical_term": "Coldest Story Ever Told",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "this just might wind up being the coldest story ever told. See what I did there?",
+          "context": "Opening pun on a Kanye lyric.",
+          "confidence": "high",
+          "tags": [
+            "pun",
+            "kanye",
+            "opener"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-144",
+      "ref": "M-144",
+      "canonical_term": "The Preggo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:08:41",
+          "speaker_node_ref": "N-3",
+          "quote": "I was down to crowd surf at 8 months pregnant. It's just who I am.",
+          "context": "Host jokes about crowd surfing while 8 months pregnant.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy",
+            "concert"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-147",
+      "ref": "M-147",
+      "canonical_term": "Crash Out",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:01:32",
+          "speaker_node_ref": "N-3",
+          "quote": "hence the crash out from people online who dedicate their lives full-time to try to destroy me",
+          "context": "Host says her critics crashed out over her concert weekend.",
+          "confidence": "high",
+          "tags": [
+            "crash out",
+            "critics"
+          ]
+        },
+        {
+          "episode": 148,
+          "video_timestamp": "00:33:48",
+          "speaker_node_ref": "N-3",
+          "quote": "He he's really crashing out these these days.",
+          "context": "Host says Blake Neff is crashing out.",
+          "confidence": "high",
+          "tags": [
+            "crash out",
+            "neff"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-3",
+      "ref": "M-3",
+      "canonical_term": "Trust the Science",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:39:05",
+          "speaker_node_ref": "N-3",
+          "quote": "knew that I would not trust the science on Charlie's assassination",
+          "context": "Host says Neff knew she would not trust the science on the assassination.",
+          "confidence": "high",
+          "tags": [
+            "trust the science"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:37:36",
+          "speaker_node_ref": "N-3",
+          "quote": "Why are you not a conspiracy theorist in that moment?",
+          "context": "Host asks why Neff was not a conspiracy theorist in the hospital waiting room.",
+          "confidence": "high",
+          "tags": [
+            "conspiracy theorist"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-84",
+      "ref": "M-84",
+      "canonical_term": "Bend the Knee",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:39:05",
+          "speaker_node_ref": "N-3",
+          "quote": "They knew that I would never bend the knee to this.",
+          "context": "Host says staffers knew she would never bend the knee to the official story.",
+          "confidence": "high",
+          "tags": [
+            "bend the knee"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-127",
+      "ref": "M-127",
+      "canonical_term": "The Matrix",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:11:16",
+          "speaker_node_ref": "N-3",
+          "quote": "We live in a matrix of some description.",
+          "context": "Host frames Ye's music as hacking the matrix code.",
+          "confidence": "high",
+          "tags": [
+            "matrix"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-34",
+      "ref": "M-34",
+      "canonical_term": "Deep State",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:41:30",
+          "speaker_node_ref": "N-3",
+          "quote": "a fixture a fixture of the the deep state apparatus",
+          "context": "Host calls the New York Times a fixture of the deep state apparatus.",
+          "confidence": "high",
+          "tags": [
+            "deep state"
+          ]
+        },
+        {
+          "episode": 148,
+          "video_timestamp": "00:42:52",
+          "speaker_node_ref": "N-3",
+          "quote": "You work with the deep state apparatus.",
+          "context": "Host says TPUSA works with the deep state apparatus.",
+          "confidence": "high",
+          "tags": [
+            "deep state",
+            "tpusa"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-95",
+      "ref": "M-95",
+      "canonical_term": "Emotional Response Asset",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:42:52",
+          "speaker_node_ref": "N-3",
+          "quote": "You are their emotional asset.",
+          "context": "Host calls Erika an emotional asset of the Department of War.",
+          "confidence": "high",
+          "tags": [
+            "emotional asset",
+            "erika"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:52:40",
+          "speaker_node_ref": "N-3",
+          "quote": "from the Fed sloppers, so to speak",
+          "context": "Host teases tomorrow's episode about the narrative from the Fed sloppers.",
+          "confidence": "high",
+          "tags": [
+            "fed slop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:55:33",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king.",
+          "context": "Host reads a viewer comment signing off with Christ is king.",
+          "confidence": "high",
+          "tags": [
+            "christ is king",
+            "comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-23",
+      "ref": "M-23",
+      "canonical_term": "Battle Bun",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 148,
+          "video_timestamp": "00:57:49",
+          "speaker_node_ref": "N-3",
+          "quote": "I just walked in the door, battle bun ready.",
+          "context": "Host reads a viewer comment about being battle bun ready.",
+          "confidence": "high",
+          "tags": [
+            "battle bun",
+            "comment"
+          ]
+        }
+      ]
+    }
+  ]
 }

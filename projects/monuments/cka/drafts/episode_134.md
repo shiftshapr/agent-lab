@@ -2033,6 +2033,148 @@ Investigative Direction: Personal assertion; look for contemporaneous messages.
 
 ---
 
+## 6. Meme Register
+
+**M-155** (meme) Beavis and Butt-Head
+
+### Occurrence 1
+
+Video Timestamp: 00:12:19
+Speaker: N-3
+Quote: today on the Beavis and Butt-Head show, they further explained this logic
+Context: Host labels the show with the courtroom-contacts clip as the Beavis and Butt-Head show.
+Tags: reuse, kolvet, neff
+Confidence: high
+
+---
+
+**M-92** (meme) Paramount Not So Tactical
+
+### Occurrence 1
+
+Video Timestamp: 00:08:44
+Speaker: N-3
+Quote: we have to mention Paramount Not So Tactical
+Context: Host introduces the baby-crawling photo post by the Media Siege account.
+Tags: reuse, paramount
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:52:26
+Speaker: N-3
+Quote: So, just accept that slop.
+Context: Host mocks accepting the narrative that Charlie's exit meant no gunshots.
+Tags: reuse, slop
+Confidence: high
+
+---
+
+**M-10** (meme) Happy Warrior
+
+### Occurrence 1
+
+Video Timestamp: 00:53:58
+Speaker: N-3
+Quote: So, be happy warriors because Charlie would command you to.
+Context: Host's sign-off using the happy warrior refrain.
+Tags: reuse, closing
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:52:26
+Speaker: N-3
+Quote: Make him a sandwich.
+Context: Host plugs her book while discussing the book club.
+Tags: reuse, merch, book
+Confidence: high
+
+---
+
+**M-189** (meme) Mockingbirds
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: the mockingbirds attempt to explain away what we can plainly see with our eyes
+Context: Host calls critics mockingbirds at the top of the episode.
+Tags: mockingbird, critics
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:01:57
+Speaker: N-3
+Quote: when you surprise the flock of mockingbirds
+Context: Host describes critics being caught without talking points.
+Tags: mockingbird, critics
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:17:38
+Speaker: N-3
+Quote: there was an entire mockingbird campaign which was launched to attack me
+Context: Host ties the term to a campaign against her over the Catholic conversion remark.
+Tags: mockingbird, operation
+Confidence: high
+
+---
+
+**M-190** (meme) Superman Neck
+
+### Occurrence 1
+
+Video Timestamp: 00:35:25
+Speaker: N-3
+Quote: he somehow uh had this Superman steel neck because he ate lettuce and liked salad
+Context: Host mocks the idea that Charlie's neck stopped the bullet.
+Tags: neck, mockery
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:41:06
+Speaker: N-3
+Quote: For a crowd that believes in the Superman neck
+Context: Host line inside the reading of a viewer email.
+Tags: neck, mockery
+Confidence: high
+
+---
+
+**M-191** (meme) Laws of the Widow
+
+### Occurrence 1
+
+Video Timestamp: 00:52:26
+Speaker: N-3
+Quote: What about the laws of the widow?
+Context: Host mocks rejecting physics arguments in favor of the widow's account.
+Tags: widow, physics, mockery
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:52:26
+Speaker: N-3
+Quote: Laws of the widow.
+Context: Host repeats the phrase.
+Tags: widow, physics, mockery
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Transcription artifacts**: "judge graph" (A-2216.1 / C-3173), "docked a witness" (A-2208.1 / C-3168), "Mike" for "mic" (A-2211.1 / C-3170) – likely auto-caption errors.

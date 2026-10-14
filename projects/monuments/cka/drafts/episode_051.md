@@ -1964,6 +1964,15 @@ Context: Host recalls Fake and Gay as prior-year thesis; AmFest comments echo it
 Tags: catchphrase, show_theme
 Confidence: high
 
+### Occurrence 2
+
+Video Timestamp: 00:18:59
+Speaker: N-3
+Quote: we've clearly woken up to the fact that everything is fake and gay
+Context: Host says the public has woken up to the fake and gay thesis.
+Tags: fake and gay, show theme
+Confidence: high
+
 ---
 
 **M-20** (meme) Bubble Gum Christianity
@@ -1988,6 +1997,167 @@ Speaker: N-3
 Quote: He's the person that is saying the quiet part out loud.
 Context: Host points at Tim Dillon clip as quiet-part admission.
 Tags: admission, roast, clip
+Confidence: high
+
+---
+
+**M-31** (meme) Buckle Up
+
+### Occurrence 1
+
+Video Timestamp: 00:00:53
+Speaker: N-3
+Quote: so buckle up because it is going to be a long week
+Context: Host warns of a long week and year ahead after the break.
+Tags: buckle up, opener
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: our government is up to the same old fed sloppy tricks
+Context: Host opens the year accusing the government of fed tricks.
+Tags: fed slop, opener
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:09:30
+Speaker: N-3
+Quote: New year, same BS Fed slop.
+Context: Host's sign-off line.
+Tags: fed slop, sign-off
+Confidence: high
+
+---
+
+**M-153** (meme) Sentencing TPUSA to More Truth
+
+### Occurrence 1
+
+Video Timestamp: 00:01:23
+Speaker: N-3
+Quote: today I sentence you to truth
+Context: Host sentences Andrew Kolvet to truth on the first episode of the year.
+Tags: sentence, truth, kolvet
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:53:00
+Speaker: N-3
+Quote: So, we have to sentence Andrew Kolbe to more truth.
+Context: Host repeats the sentencing after the alibi recap.
+Tags: sentence, truth, kolvet
+Confidence: high
+
+---
+
+**M-40** (meme) Truman Show
+
+### Occurrence 1
+
+Video Timestamp: 00:13:20
+Speaker: N-3
+Quote: It feels like we're all in The Truman Show and everyone around us are actually robots.
+Context: Host describes post-AmFest reality as a Truman Show.
+Tags: truman show, robots
+Confidence: high
+
+---
+
+**M-81** (meme) Bibi Net and Yahoo
+
+### Occurrence 1
+
+Video Timestamp: 00:53:00
+Speaker: N-3
+Quote: I said BBnet and Yahoo called and he offered to take Turning Point to the next level.
+Context: Host recalls her earlier Hamptons claim.
+Tags: bibi, hamptons
+Confidence: high
+
+---
+
+**M-135** (meme) Mask Down
+
+### Occurrence 1
+
+Video Timestamp: 00:55:42
+Speaker: N-3
+Quote: this moment where Andrew goes mask down
+Context: Host describes Kolvet's alibi reveal as the mask coming down.
+Tags: mask down, kolvet
+Confidence: high
+
+---
+
+**M-15** (meme) We Don't Know But We Know
+
+### Occurrence 1
+
+Video Timestamp: 00:58:23
+Speaker: N-3
+Quote: we don't know, no, but I think we know
+Context: Host adopts the Daily Wire phrase about Fort Huachuca.
+Tags: we dont know but we know
+Confidence: high
+
+---
+
+**M-76** (meme) Genocide Is Always Wrong
+
+### Occurrence 1
+
+Video Timestamp: 01:01:21
+Speaker: N-3
+Quote: I still think genocide is always wrong.
+Context: Host reaffirms her genocide statement while reading a comment.
+Tags: genocide
+Confidence: high
+
+---
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 01:07:16
+Speaker: N-3
+Quote: You guys all look like a psyop right now.
+Context: Host aims it at pastors on stage.
+Tags: psyop, pastors
+Confidence: high
+
+---
+
+**M-173** (meme) Sentinels
+
+### Occurrence 1
+
+Video Timestamp: 00:27:06
+Speaker: N-3
+Quote: Are you with the Sentinels? Are you with the human beings?
+Context: Host frames the opposition as non-human sentinels.
+Tags: sentinels, droids
+Confidence: high
+
+---
+
+**M-174** (meme) Crazy Ex Stalker
+
+### Occurrence 1
+
+Video Timestamp: 00:33:30
+Speaker: N-3
+Quote: it's giving crazy ex stalker.
+Context: Host describes the Daily Wire as an obsessed ex.
+Tags: daily wire, stalker
 Confidence: high
 
 ---

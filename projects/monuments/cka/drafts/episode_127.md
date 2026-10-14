@@ -44,6 +44,111 @@ Confidence: high
 
 ---
 
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:02:41
+Speaker: N-3
+Quote: slop is their entire brand
+Context: Host says slop is the feds' entire brand while introducing the backpack story.
+Tags: fed slop
+Confidence: high
+
+---
+
+**M-74** (meme) Believe Your Own Eyes
+
+### Occurrence 1
+
+Video Timestamp: 00:45:58
+Speaker: N-3
+Quote: So, don't stop telling us not to believe our own eyes.
+Context: Host on influencers telling viewers not to believe what they see in the interrogation video.
+Tags: believe own eyes, video
+Confidence: high
+
+---
+
+**M-86** (meme) That's My Opinion, I'm Sticking to It
+
+### Occurrence 1
+
+Video Timestamp: 00:54:11
+Speaker: N-3
+Quote: that's my opinion and I'm sticking to it until proven otherwise
+Context: Host on her belief in a Freemasonic ritual.
+Tags: opinion, ritual
+Confidence: high
+
+---
+
+**M-37** (meme) Grifter
+
+### Occurrence 1
+
+Video Timestamp: 00:30:49
+Speaker: N-3
+Quote: He's kind of the leader of the Christian grift.
+Context: Host on Frank Turek.
+Tags: grift, turek
+Confidence: high
+
+---
+
+**M-185** (meme) Amnesia
+
+### Occurrence 1
+
+Video Timestamp: 00:01:21
+Speaker: N-3
+Quote: Everybody's blacking out. Everybody has amnesia about September 10th.
+Context: Host frames the episode's running bit about officials forgetting September 10.
+Tags: amnesia, opener
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:04:45
+Speaker: N-3
+Quote: another blackout, another amnesia spell, this time from a piece of tech
+Context: Host applies the bit to the body cam.
+Tags: amnesia, body cam
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 01:00:13
+Speaker: N-3
+Quote: unfortunately, my body cam has amnesia.
+Context: Host closes the viewer-comment pattern with the bit.
+Tags: amnesia, body cam
+Confidence: high
+
+---
+
+**M-186** (meme) Squishmallow
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: she loses her Squishmallow
+Context: Host opens with her daughter Louise and the strawberry Squishmallow.
+Tags: opener, family
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:03:40
+Speaker: N-3
+Quote: The strawberry Squishmallow will be found at a different time.
+Context: Host closes with the Squishmallow running gag.
+Tags: family, closer
+Confidence: high
+
+---
+
 ## 3. Artifact Register
 
 **A-2146** Officer Bagley Preliminary Hearing Testimony Bundle

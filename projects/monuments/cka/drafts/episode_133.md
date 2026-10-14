@@ -1658,6 +1658,122 @@ Investigative Direction: Merch page for the CIA crew neck.
 
 ---
 
+## 6. Meme Register
+
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:54:39
+Speaker: N-3
+Quote: Of course, the CIA crew neck, Canada intelligent agency is how we got here.
+Context: Host promotes the CIA crew neck merchandise.
+Tags: cia merch, merch
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:27:01
+Speaker: N-3
+Quote: That's the fed slop narrative.
+Context: Host dismisses the official account of Robinson's guilt as fed slop.
+Tags: fed slop
+Confidence: high
+
+---
+
+**M-116** (meme) Broken Bomb Dog Noses
+
+### Occurrence 1
+
+Video Timestamp: 00:19:07
+Speaker: N-3
+Quote: I am told that she's the one who had a broken nose that day.
+Context: Host says Freya the bomb dog had a broken nose when the field was searched.
+Tags: bomb dog, freya
+Confidence: high
+
+---
+
+**M-144** (meme) The Preggo
+
+### Occurrence 1
+
+Video Timestamp: 00:29:26
+Speaker: N-3
+Quote: My vision always gets super bad when I'm pregnant.
+Context: Host jokes about her pregnancy while reading the Wikipedia page.
+Tags: pregnancy, running bit
+Confidence: high
+
+---
+
+**M-187** (meme) Chick-fil-A Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:05:43
+Speaker: N-3
+Quote: Yeah, I need a Chick-fil-A sandwich and then I'm going to go do the impossible.
+Context: Host mocks the official account of Robinson's morning.
+Tags: chick-fil-a, mockery
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:16:22
+Speaker: N-3
+Quote: What did he order at Chick-fil-A?
+Context: Host riffs on the rooftop footage.
+Tags: chick-fil-a, mockery
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:27:01
+Speaker: N-3
+Quote: just what he ordered at Chick-fil-A.
+Context: Host again jokes about Robinson's Chick-fil-A order.
+Tags: chick-fil-a, mockery
+Confidence: high
+
+---
+
+**M-188** (meme) Overwhelmed by the Evidence
+
+### Occurrence 1
+
+Video Timestamp: 00:01:54
+Speaker: N-3
+Quote: feeling overwhelmed and passing away and falling out in the streets
+Context: Host mocks influencers who said they were overwhelmed by the evidence.
+Tags: overwhelmed, influencers
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:27:01
+Speaker: N-3
+Quote: You should feel overwhelmed by the evidence that Tyler Robinson did this.
+Context: Host mimics the influencer line.
+Tags: overwhelmed, influencers
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:54:39
+Speaker: N-3
+Quote: It's overwhelming. It's overwhelming. It's overwhelming.
+Context: Host mimics the coordinated line before the banana analogy.
+Tags: overwhelmed, banana
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty:** Transcript spells Andrew Kovette as "Kovette" / "Kovett" / "Coette." Preserved as host used.

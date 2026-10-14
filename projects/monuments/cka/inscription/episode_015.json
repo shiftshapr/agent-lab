@@ -3049,6 +3049,121 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-77",
+      "ref": "M-77",
+      "canonical_term": "Operation Mocking Pastor",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 15,
+          "video_timestamp": "00:56:02",
+          "speaker_node_ref": "N-3",
+          "quote": "Cameras Owens is my pastor stage name when they're talking trash about me",
+          "context": "Host explains a viewer's note that she missed the Operation Mocking Pastor joke with the name Cameras Owens.",
+          "confidence": "high",
+          "tags": [
+            "pastor",
+            "comments"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-78",
+      "ref": "M-78",
+      "canonical_term": "Silence Is Not Kindness",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 15,
+          "video_timestamp": "00:29:28",
+          "speaker_node_ref": "N-3",
+          "quote": "silence is not kind kindness, it's actually consent",
+          "context": "Host Preborn sponsor read.",
+          "confidence": "high",
+          "tags": [
+            "sponsor"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-165",
+      "ref": "M-165",
+      "canonical_term": "David Hoggins",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 15,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "I refer to as David Hoggins",
+          "context": "Host names the strategy of using emotion to block questions after a tragedy and applies it to TPUSA.",
+          "confidence": "high",
+          "tags": [
+            "episode_frame",
+            "new"
+          ]
+        },
+        {
+          "episode": 15,
+          "video_timestamp": "00:04:46",
+          "speaker_node_ref": "N-3",
+          "quote": "That's what I mean when I say they are David Hogging us",
+          "context": "Host explains the label.",
+          "confidence": "high",
+          "tags": [
+            "new"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-166",
+      "ref": "M-166",
+      "canonical_term": "Old Man on the Cracker Barrel Logo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 15,
+          "video_timestamp": "00:02:53",
+          "speaker_node_ref": "N-3",
+          "quote": "Charlie Kirk was essentially the old man on the Cracker Barrel logo",
+          "context": "Host uses the Cracker Barrel logo scandal as an analogy for Kirk's meaning to the audience.",
+          "confidence": "high",
+          "tags": [
+            "analogy",
+            "new"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-167",
+      "ref": "M-167",
+      "canonical_term": "Christian Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 15,
+          "video_timestamp": "00:33:36",
+          "speaker_node_ref": "N-3",
+          "quote": "I could call it Christian slop",
+          "context": "Host label for scripture-based guilt appeals aimed at her inquiry.",
+          "confidence": "high",
+          "tags": [
+            "pastor",
+            "new"
+          ]
+        }
+      ]
     }
   ]
 }

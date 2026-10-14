@@ -3527,6 +3527,227 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 46,
+          "video_timestamp": "00:27:51",
+          "speaker_node_ref": "N-3",
+          "quote": "even getting questions ahead to me, preparing answers feels fake and gay",
+          "context": "Host says getting questions ahead and preparing answers feels fake and gay.",
+          "confidence": "high",
+          "tags": [
+            "fake and gay",
+            "questions",
+            "rehearsed"
+          ]
+        },
+        {
+          "episode": 46,
+          "video_timestamp": "01:02:01",
+          "speaker_node_ref": "N-3",
+          "quote": "why it's required that I be fake and gay to live on this planet",
+          "context": "Host says she cannot be fake and gay to live on this planet.",
+          "confidence": "high",
+          "tags": [
+            "fake and gay",
+            "closing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-42",
+      "ref": "M-42",
+      "canonical_term": "Scripted",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 46,
+          "video_timestamp": "00:15:32",
+          "speaker_node_ref": "N-3",
+          "quote": "this entire thing since September 10th feels scripted to me",
+          "context": "Host says the whole story since September 10 feels scripted to her.",
+          "confidence": "high",
+          "tags": [
+            "scripted",
+            "town hall"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 46,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "this entire psychological operation that is so obvious",
+          "context": "Host opens by calling the narrative a psychological operation.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "opener"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-127",
+      "ref": "M-127",
+      "canonical_term": "The Matrix",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 46,
+          "video_timestamp": "00:03:00",
+          "speaker_node_ref": "N-3",
+          "quote": "all of these Agent Smiths in this obvious Matrix just stop",
+          "context": "Host asks the Agent Smiths in the Matrix to stop.",
+          "confidence": "high",
+          "tags": [
+            "matrix",
+            "agent smiths"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-3",
+      "ref": "M-3",
+      "canonical_term": "Trust the Science",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 46,
+          "video_timestamp": "01:01:13",
+          "speaker_node_ref": "N-3",
+          "quote": "TPUSA's response to all of this is feeling very trust the science",
+          "context": "Host reads a viewer comparing TPUSA's response to trust the science.",
+          "confidence": "high",
+          "tags": [
+            "covid parallel"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 46,
+          "video_timestamp": "01:02:01",
+          "speaker_node_ref": "N-3",
+          "quote": "Now we're doing the grieving widow.",
+          "context": "Host lists the grieving widow as the latest tactic after the fake Bible stuff.",
+          "confidence": "high",
+          "tags": [
+            "widow",
+            "closing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 46,
+          "video_timestamp": "00:52:34",
+          "speaker_node_ref": "N-3",
+          "quote": "if you want a regular copy of my book Make Him a Sandwich for 20% off",
+          "context": "Host plugs her book and discount.",
+          "confidence": "high",
+          "tags": [
+            "book plug"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 46,
+          "video_timestamp": "00:54:02",
+          "speaker_node_ref": "N-3",
+          "quote": "That was the original go max.",
+          "context": "Host calls a clip the original go max.",
+          "confidence": "high",
+          "tags": [
+            "go max",
+            "viewer"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 46,
+          "video_timestamp": "00:51:28",
+          "speaker_node_ref": "N-3",
+          "quote": "the pro-fed slop comments come in two flavors",
+          "context": "Host reads a viewer comment labeling pro-fed slop comments.",
+          "confidence": "high",
+          "tags": [
+            "fed slop",
+            "comments"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-136",
+      "ref": "M-136",
+      "canonical_term": "This Planet Is Ghetto",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 46,
+          "video_timestamp": "01:02:01",
+          "speaker_node_ref": "N-3",
+          "quote": "I've always felt like an alien. I don't understand the rules here.",
+          "context": "Host says she has always felt like an alien who does not understand the rules here.",
+          "confidence": "high",
+          "tags": [
+            "alien",
+            "closing"
+          ]
+        }
+      ]
     }
   ]
 }

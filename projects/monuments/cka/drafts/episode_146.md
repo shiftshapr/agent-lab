@@ -2557,6 +2557,133 @@ Confidence: high
 
 ---
 
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:25:35
+Speaker: N-3
+Quote: Please do email us at more ttips@canzones. com.
+Context: Host asks viewers to email tips to identify the pink hat and blue shirt attendee.
+Tags: dia, tips
+Confidence: high
+
+---
+
+**M-155** (meme) Beavis and Butt-Head
+
+### Occurrence 1
+
+Video Timestamp: 00:49:14
+Speaker: N-3
+Quote: that's why we call it Bees and Butad show
+Context: Host says nobody watches the Charlie Kirk show and gives it the Beavis and Butt-Head nickname (transcribed Bees and Butad).
+Tags: kolvet, neff, nickname
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:54:16
+Speaker: N-3
+Quote: The Beibus and Butudad show will go on, though
+Context: Host returns to the nickname for the Kolvet and Neff show at the close.
+Tags: kolvet, neff, nickname
+Confidence: high
+
+---
+
+**M-137** (meme) Cornucopia
+
+### Occurrence 1
+
+Video Timestamp: 00:46:27
+Speaker: N-3
+Quote: like telling us there is no cornicopia in the fruit of a loom logo.
+Context: Host reads a comment comparing the kombucha claim to the Fruit of the Loom Mandela effect.
+Tags: mandela effect, comments
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:51:14
+Speaker: N-3
+Quote: before we really go Max.
+Context: Host says her team held material until after the preliminary hearing before going all out.
+Tags: go max
+Confidence: high
+
+---
+
+**M-195** (meme) Shady Bunch
+
+### Occurrence 1
+
+Video Timestamp: 00:22:23
+Speaker: N-3
+Quote: This is the Shady Bunch.
+Context: Host's label for the people who arrived with Charlie Kirk, as she sets up what Butch Hibbs did.
+Tags: shady bunch, nickname
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:46:27
+Speaker: N-3
+Quote: They really are the shady bunch.
+Context: Host closes her point about TPUSA's discovery strategy.
+Tags: shady bunch, nickname
+Confidence: high
+
+---
+
+**M-196** (meme) Just Likes the Mountains
+
+### Occurrence 1
+
+Video Timestamp: 00:11:51
+Speaker: N-3
+Quote: CIA MSAD, but they really just like the mountains.
+Context: Host mocks the explanation that Butch Hibbs is only a mountain man.
+Tags: mountains, butch hibbs
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:22:23
+Speaker: N-3
+Quote: who loves the mountains, not the MSAD and the CIA, he loves the mountains.
+Context: Host repeats the bit before asking what Butch did.
+Tags: mountains, butch hibbs
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:23:12
+Speaker: N-3
+Quote: just calmly looking around and recording as people who just love the mountains do.
+Context: Host applies the bit to the footage of Butch recording.
+Tags: mountains, butch hibbs
+Confidence: high
+
+---
+
+**M-197** (meme) Your Terms Are Unacceptable
+
+### Occurrence 1
+
+Video Timestamp: 00:48:14
+Speaker: N-3
+Quote: And so his terms are, like I said, unacceptable.
+Context: Host rejects Justin's kombucha claim as unacceptable.
+Tags: kombucha, terms
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty – "Judge Graph"**: Likely a transcript rendering of the presiding magistrate's name; verify against Utah Fourth District Court records.

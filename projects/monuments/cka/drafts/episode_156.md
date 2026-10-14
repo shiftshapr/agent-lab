@@ -1777,5 +1777,102 @@ Context: DIA / DCIA brand line from corrected transcript (CKA seq 156).
 Tags: tips_network, brand_joke, transcript_backfill
 Confidence: high
 
+### Occurrence 2
+
+Video Timestamp: 00:13:31
+Speaker: N-3
+Quote: We ask that you please email us at more tips@caniswowens. com.
+Context: Host asks for Dairy Queen information by email.
+Tags: dia, tips, tip line
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:23:06
+Speaker: N-3
+Quote: You can email us more tips@canniswens. com.
+Context: Host asks for car wash and shopping center information by email.
+Tags: dia, tips, tip line
+Confidence: high
+
+### Occurrence 4
+
+Video Timestamp: 00:26:05
+Speaker: N-3
+Quote: You can also email us at tips@caniswowens. com.
+Context: Host gives a second tip address and says she is reopening the tip lines.
+Tags: dia, tips, tip line
+Confidence: high
+
+### Occurrence 5
+
+Video Timestamp: 00:49:38
+Speaker: N-3
+Quote: a decentralized independent uh unit of people all over the world came together to solve the Charlie Kirk case
+Context: Host invites viewers to join the crowd-sourced tip effort and email more tips.
+Tags: dia, tips, decentralized
+Confidence: high
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 00:47:13
+Speaker: N-3
+Quote: Christ is king.
+Context: Host reads a viewer comment ending with the phrase.
+Tags: christ is king, viewer comment
+Confidence: high
+
+---
+
+**M-21** (meme) Conspiracy Girly
+
+### Occurrence 1
+
+Video Timestamp: 00:54:04
+Speaker: N-3
+Quote: Conspiracy girly. It's so cute.
+Context: Host promotes the conspiracy girly mug among merch.
+Tags: merch, conspiracy girly
+Confidence: high
+
+---
+
+**M-199** (meme) Are We Still Talking About the Midterms
+
+### Occurrence 1
+
+Video Timestamp: 00:29:10
+Speaker: N-3
+Quote: Are we still talking about the midterms?
+Context: Host shares a viewer meme mocking midterm urging.
+Tags: midterms, viewer meme
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:52:24
+Speaker: N-3
+Quote: are we still talking about midterms?
+Context: Host repeats the line after reading comments.
+Tags: midterms, viewer meme
+Confidence: high
+
+---
+
+**M-200** (meme) Make Israel Great Again
+
+### Occurrence 1
+
+Video Timestamp: 00:54:04
+Speaker: N-3
+Quote: Make Israel great again.
+Context: Host sarcastically recasts MAGA as MGA at the close.
+Tags: maga, israel, sign-off
+Confidence: high
+
 ---
 

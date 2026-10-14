@@ -1641,6 +1641,107 @@ Confidence: high
 
 ---
 
+**M-123** (meme) Magnificent Mikey McCoy
+
+### Occurrence 1
+
+Video Timestamp: 00:07:16
+Speaker: N-3
+Quote: I maintain that the wonderful Mikey McCoy doesn't strike me as intrinsically evil.
+Context: Host keeps attaching a flattering adjective to Mikey McCoy's name.
+Tags: adjective, mikey
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:07:16
+Speaker: N-3
+Quote: supercalifragilistic ispialocious Mikey McCoy appeared
+Context: Another mock epithet for Mikey McCoy.
+Tags: adjective, mikey
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:15:47
+Speaker: N-3
+Quote: the fantastic, heroic, sensational McCoys were pretty busy this summer.
+Context: Host mocks the praise adjectives for the whole McCoy family.
+Tags: adjective, mccoy
+Confidence: high
+
+---
+
+**M-168** (meme) The Stupendous Tucker Carlson
+
+### Occurrence 1
+
+Video Timestamp: 00:02:42
+Speaker: N-3
+Quote: The spectacular Tucker Carlson. The breathtaking Tucker Carlson is under attack in this moment.
+Context: Host mocks the adjective habit by applying it to Tucker Carlson.
+Tags: adjective, tucker
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:32:36
+Speaker: N-3
+Quote: I feel like I want to say the stupendous Tucker Carlson joined Dave Smith
+Context: Host actually applies the adjective to Tucker.
+Tags: adjective, tucker
+Confidence: high
+
+---
+
+**M-169** (meme) Country the Size of New Jersey
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: there's this country that's only the size of New Jersey. It's always the victim.
+Context: Host's sarcastic opener about Israel always being the victim.
+Tags: sarcasm, israel
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:23:02
+Speaker: N-3
+Quote: this one nation that's only the size of New Jersey and has done nothing wrong ever
+Context: Same sarcastic refrain returns after the cell-phone claim.
+Tags: sarcasm, israel
+Confidence: high
+
+---
+
+**M-170** (meme) I Wish I Was Born Yesterday
+
+### Occurrence 1
+
+Video Timestamp: 00:27:24
+Speaker: N-3
+Quote: Sometimes I wish I was born yesterday, right?
+Context: Host says it would be easy to accept the lone-shooter story if she were naive.
+Tags: sarcasm, lone shooter
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:50:20
+Speaker: N-3
+Quote: You can go to make him a sandwichand. com uh to buy the book.
+Context: Host plugs her book at the sign-off.
+Tags: plug, book
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown:** The "verifiable proof" for the 12 Israeli cell-phone claim (C-1594) is asserted on-air but the underlying documentation is not displayed in the episode. Prior reporting by "Mel" / "village crazy lady" on X is referenced but not quoted. This claim is inscribed with the caveat that its primary artifact is the host's on-air assertion rather than a displayed source.

@@ -3260,6 +3260,30 @@
             "tips_network",
             "brand_joke"
           ]
+        },
+        {
+          "episode": 63,
+          "video_timestamp": "00:33:24",
+          "speaker_node_ref": "N-3",
+          "quote": "send us an email at more tips@canacewowens. com.",
+          "context": "Host asks viewers to email tips about Edith Walker Montgomery.",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia_beat"
+          ]
+        },
+        {
+          "episode": 63,
+          "video_timestamp": "00:43:01",
+          "speaker_node_ref": "N-3",
+          "quote": "Message us more tips at candacewowens. com.",
+          "context": "Host asks viewers to send tips on Stanley Clark Moore's Air Force base.",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia_beat"
+          ]
         }
       ]
     },
@@ -3280,6 +3304,201 @@
           "tags": [
             "viewer_refrain",
             "catchphrase"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 63,
+          "video_timestamp": "00:49:45",
+          "speaker_node_ref": "N-3",
+          "quote": "Oh, yep. Make him a sandwich.",
+          "context": "Host reacts to a viewer who ordered her book, then notes it now ships to Canada.",
+          "confidence": "high",
+          "tags": [
+            "book_plug",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-38",
+      "ref": "M-38",
+      "canonical_term": "MK Ultra",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 63,
+          "video_timestamp": "00:36:41",
+          "speaker_node_ref": "N-3",
+          "quote": "project Monarch which was the precursor to MK Ultra",
+          "context": "Host links Operation Paperclip and the moon-landing theory to Monarch and MK Ultra.",
+          "confidence": "high",
+          "tags": [
+            "mk ultra",
+            "mind_control"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-40",
+      "ref": "M-40",
+      "canonical_term": "Truman Show",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 63,
+          "video_timestamp": "00:25:45",
+          "speaker_node_ref": "N-3",
+          "quote": "Charlie's life may have therefore been a literal Truman show",
+          "context": "Host recaps her earlier theory that Charlie was watched as a gifted child.",
+          "confidence": "high",
+          "tags": [
+            "truman_show",
+            "gate_program"
+          ]
+        },
+        {
+          "episode": 63,
+          "video_timestamp": "00:33:24",
+          "speaker_node_ref": "N-3",
+          "quote": "It would give new meaning to the idea of his life being the Truman Show.",
+          "context": "Host says an incorrect origin story would make the Truman Show framing literal.",
+          "confidence": "high",
+          "tags": [
+            "truman_show",
+            "origin_story"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 63,
+          "video_timestamp": "00:35:55",
+          "speaker_node_ref": "N-3",
+          "quote": "we are going to have to deal with the next psychological operation that tells us that it's wrong that we listened to the call",
+          "context": "Host predicts a backlash against airing the call.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "backlash"
+          ]
+        },
+        {
+          "episode": 63,
+          "video_timestamp": "00:58:04",
+          "speaker_node_ref": "N-3",
+          "quote": "there's almost like a psychological operation being run on them",
+          "context": "Host says fired employees are realizing the culture was a cult.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "employees"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-82",
+      "ref": "M-82",
+      "canonical_term": "Make That Make Sense",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 63,
+          "video_timestamp": "00:49:45",
+          "speaker_node_ref": "N-3",
+          "quote": "You can't make that make sense.",
+          "context": "Host says TPUSA's targeting of truth-seekers does not make sense.",
+          "confidence": "high",
+          "tags": [
+            "make_sense",
+            "tpusa"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-140",
+      "ref": "M-140",
+      "canonical_term": "White Walkers Among Us",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 63,
+          "video_timestamp": "00:36:41",
+          "speaker_node_ref": "N-3",
+          "quote": "I really do believe that these are the white walkers in our society.",
+          "context": "Host describes alleged mind-controlled people among us.",
+          "confidence": "high",
+          "tags": [
+            "white_walkers",
+            "mind_control"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-160",
+      "ref": "M-160",
+      "canonical_term": "Everybody Grieves Differently World Tour",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 63,
+          "video_timestamp": "00:08:32",
+          "speaker_node_ref": "N-3",
+          "quote": "we are now in season 7, episode 4 of Everybody Grieavves Differently.",
+          "context": "Host sarcastically mocks the defense of Erika's reaction to the quote.",
+          "confidence": "high",
+          "tags": [
+            "grief",
+            "sarcasm"
+          ]
+        },
+        {
+          "episode": 63,
+          "video_timestamp": "00:23:00",
+          "speaker_node_ref": "N-3",
+          "quote": "You can go find your commentator who's going to tell you everybody griefs differently.",
+          "context": "Host pre-empts defenders of the call.",
+          "confidence": "high",
+          "tags": [
+            "grief",
+            "sarcasm"
+          ]
+        },
+        {
+          "episode": 63,
+          "video_timestamp": "00:56:21",
+          "speaker_node_ref": "N-3",
+          "quote": "they're going, \"Everybody grieavves differently.\"",
+          "context": "Host compares the framing to modern art.",
+          "confidence": "high",
+          "tags": [
+            "grief",
+            "sarcasm"
           ]
         }
       ]

@@ -2180,6 +2180,60 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 21,
+          "video_timestamp": "00:51:23",
+          "speaker_node_ref": "N-3",
+          "quote": "I wore my Candace CIA sweater in public today.",
+          "context": "Host reads a viewer comment about wearing Candace CIA merch.",
+          "confidence": "high",
+          "tags": [
+            "cia merch",
+            "viewer comment"
+          ]
+        },
+        {
+          "episode": 21,
+          "video_timestamp": "00:55:42",
+          "speaker_node_ref": "N-3",
+          "quote": "buy yourself some gear some CIA gear",
+          "context": "Host plugs merch at the end of the episode.",
+          "confidence": "high",
+          "tags": [
+            "cia merch",
+            "merch plug"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 21,
+          "video_timestamp": "00:55:42",
+          "speaker_node_ref": "N-3",
+          "quote": "You can go to make him a sandwichand. com to buy your copy of the book.",
+          "context": "Host plugs her book while describing the feminist movement.",
+          "confidence": "high",
+          "tags": [
+            "book plug",
+            "merch"
+          ]
+        }
+      ]
     }
   ]
 }

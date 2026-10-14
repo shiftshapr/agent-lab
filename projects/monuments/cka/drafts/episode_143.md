@@ -33,12 +33,118 @@
 - **Analyst:** Episode Analysis Agent
 - **Analysis Date:** 2026-08-19
 
+## 6. Meme Register
+
+**M-144** (meme) The Preggo
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: the child that I am currently growing decided to wake me up at 4:00 in the morning.
+Context: Host opens the episode with her pregnancy and the baby's 4 a.m. dance party.
+Tags: pregnancy, opener
+Confidence: high
+
+---
+
 ### Episode 143 Ledger Summary
 
 - **Artifact Families Introduced:** A-2294, A-2295, A-2296, A-2297, A-2298, A-2299, A-2300
 - **Claim Range:** C-3302 – C-3312
 - **New Nodes Introduced:** N-10808, N-10809
 - **Existing Nodes Reused:** N-2, N-126, N-40, N-162, N-267
+
+---
+
+**M-69** (meme) Not a Real Person
+
+### Occurrence 1
+
+Video Timestamp: 00:00:47
+Speaker: N-3
+Quote: How is he a real person?
+Context: Host reacts to Blake Neff telling reporters she is jealous of Erika.
+Tags: blake neff, real person
+Confidence: high
+
+---
+
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 00:16:33
+Speaker: N-3
+Quote: we're just being perpetually gaslit by them.
+Context: Host says TPUSA gaslights the public by answering questions with a proverb.
+Tags: gaslight, tpusa
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:34:27
+Speaker: N-3
+Quote: we're supposed to accept the fed slop of left versus right.
+Context: Host rejects the left-right framing in the Hasan and Neff exchange.
+Tags: fed slop, left right
+Confidence: high
+
+---
+
+**M-75** (meme) I'll Say Allegedly
+
+### Occurrence 1
+
+Video Timestamp: 00:37:19
+Speaker: N-3
+Quote: I'll say allegedly, be coordinated by the Feds
+Context: Host hedges before tying a past event to alleged federal coordination.
+Tags: allegedly, feds
+Confidence: high
+
+---
+
+**M-154** (meme) Second Favorite Shirt
+
+### Occurrence 1
+
+Video Timestamp: 00:47:23
+Speaker: N-3
+Quote: You be sure to get your second favorite shirt from catasoap. com.
+Context: Host plugs the website while reading a viewer comment about merch.
+Tags: merch, second favorite shirt
+Confidence: high
+
+---
+
+**M-193** (meme) October Surprise
+
+### Occurrence 1
+
+Video Timestamp: 00:08:42
+Speaker: N-3
+Quote: today we can share with you my very own October surprise. I call it an October surprise because I've had it since October.
+Context: Host introduces the Terrell laptop footage as her October surprise.
+Tags: october surprise, footage
+Confidence: high
+
+---
+
+**M-194** (meme) Arya Stark
+
+### Occurrence 1
+
+Video Timestamp: 00:02:29
+Speaker: N-3
+Quote: I'm basically like the Arya Stark character.
+Context: Host opens the footage segment with an extended Game of Thrones analogy about relentless pursuit of justice.
+Tags: game of thrones, arya stark
+Confidence: high
 
 ---
 

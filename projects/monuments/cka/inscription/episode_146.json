@@ -3989,6 +3989,202 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:25:35",
+          "speaker_node_ref": "N-3",
+          "quote": "Please do email us at more ttips@canzones. com.",
+          "context": "Host asks viewers to email tips to identify the pink hat and blue shirt attendee.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-155",
+      "ref": "M-155",
+      "canonical_term": "Beavis and Butt-Head",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:49:14",
+          "speaker_node_ref": "N-3",
+          "quote": "that's why we call it Bees and Butad show",
+          "context": "Host says nobody watches the Charlie Kirk show and gives it the Beavis and Butt-Head nickname (transcribed Bees and Butad).",
+          "confidence": "high",
+          "tags": [
+            "kolvet",
+            "neff",
+            "nickname"
+          ]
+        },
+        {
+          "episode": 146,
+          "video_timestamp": "00:54:16",
+          "speaker_node_ref": "N-3",
+          "quote": "The Beibus and Butudad show will go on, though",
+          "context": "Host returns to the nickname for the Kolvet and Neff show at the close.",
+          "confidence": "high",
+          "tags": [
+            "kolvet",
+            "neff",
+            "nickname"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-137",
+      "ref": "M-137",
+      "canonical_term": "Cornucopia",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:46:27",
+          "speaker_node_ref": "N-3",
+          "quote": "like telling us there is no cornicopia in the fruit of a loom logo.",
+          "context": "Host reads a comment comparing the kombucha claim to the Fruit of the Loom Mandela effect.",
+          "confidence": "high",
+          "tags": [
+            "mandela effect",
+            "comments"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:51:14",
+          "speaker_node_ref": "N-3",
+          "quote": "before we really go Max.",
+          "context": "Host says her team held material until after the preliminary hearing before going all out.",
+          "confidence": "high",
+          "tags": [
+            "go max"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-195",
+      "ref": "M-195",
+      "canonical_term": "Shady Bunch",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:22:23",
+          "speaker_node_ref": "N-3",
+          "quote": "This is the Shady Bunch.",
+          "context": "Host's label for the people who arrived with Charlie Kirk, as she sets up what Butch Hibbs did.",
+          "confidence": "high",
+          "tags": [
+            "shady bunch",
+            "nickname"
+          ]
+        },
+        {
+          "episode": 146,
+          "video_timestamp": "00:46:27",
+          "speaker_node_ref": "N-3",
+          "quote": "They really are the shady bunch.",
+          "context": "Host closes her point about TPUSA's discovery strategy.",
+          "confidence": "high",
+          "tags": [
+            "shady bunch",
+            "nickname"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-196",
+      "ref": "M-196",
+      "canonical_term": "Just Likes the Mountains",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:11:51",
+          "speaker_node_ref": "N-3",
+          "quote": "CIA MSAD, but they really just like the mountains.",
+          "context": "Host mocks the explanation that Butch Hibbs is only a mountain man.",
+          "confidence": "high",
+          "tags": [
+            "mountains",
+            "butch hibbs"
+          ]
+        },
+        {
+          "episode": 146,
+          "video_timestamp": "00:22:23",
+          "speaker_node_ref": "N-3",
+          "quote": "who loves the mountains, not the MSAD and the CIA, he loves the mountains.",
+          "context": "Host repeats the bit before asking what Butch did.",
+          "confidence": "high",
+          "tags": [
+            "mountains",
+            "butch hibbs"
+          ]
+        },
+        {
+          "episode": 146,
+          "video_timestamp": "00:23:12",
+          "speaker_node_ref": "N-3",
+          "quote": "just calmly looking around and recording as people who just love the mountains do.",
+          "context": "Host applies the bit to the footage of Butch recording.",
+          "confidence": "high",
+          "tags": [
+            "mountains",
+            "butch hibbs"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-197",
+      "ref": "M-197",
+      "canonical_term": "Your Terms Are Unacceptable",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 146,
+          "video_timestamp": "00:48:14",
+          "speaker_node_ref": "N-3",
+          "quote": "And so his terms are, like I said, unacceptable.",
+          "context": "Host rejects Justin's kombucha claim as unacceptable.",
+          "confidence": "high",
+          "tags": [
+            "kombucha",
+            "terms"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -3517,6 +3517,167 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 127,
+          "video_timestamp": "00:02:41",
+          "speaker_node_ref": "N-3",
+          "quote": "slop is their entire brand",
+          "context": "Host says slop is the feds' entire brand while introducing the backpack story.",
+          "confidence": "high",
+          "tags": [
+            "fed slop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-74",
+      "ref": "M-74",
+      "canonical_term": "Believe Your Own Eyes",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 127,
+          "video_timestamp": "00:45:58",
+          "speaker_node_ref": "N-3",
+          "quote": "So, don't stop telling us not to believe our own eyes.",
+          "context": "Host on influencers telling viewers not to believe what they see in the interrogation video.",
+          "confidence": "high",
+          "tags": [
+            "believe own eyes",
+            "video"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-86",
+      "ref": "M-86",
+      "canonical_term": "That's My Opinion, I'm Sticking to It",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 127,
+          "video_timestamp": "00:54:11",
+          "speaker_node_ref": "N-3",
+          "quote": "that's my opinion and I'm sticking to it until proven otherwise",
+          "context": "Host on her belief in a Freemasonic ritual.",
+          "confidence": "high",
+          "tags": [
+            "opinion",
+            "ritual"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-37",
+      "ref": "M-37",
+      "canonical_term": "Grifter",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 127,
+          "video_timestamp": "00:30:49",
+          "speaker_node_ref": "N-3",
+          "quote": "He's kind of the leader of the Christian grift.",
+          "context": "Host on Frank Turek.",
+          "confidence": "high",
+          "tags": [
+            "grift",
+            "turek"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-185",
+      "ref": "M-185",
+      "canonical_term": "Amnesia",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 127,
+          "video_timestamp": "00:01:21",
+          "speaker_node_ref": "N-3",
+          "quote": "Everybody's blacking out. Everybody has amnesia about September 10th.",
+          "context": "Host frames the episode's running bit about officials forgetting September 10.",
+          "confidence": "high",
+          "tags": [
+            "amnesia",
+            "opener"
+          ]
+        },
+        {
+          "episode": 127,
+          "video_timestamp": "00:04:45",
+          "speaker_node_ref": "N-3",
+          "quote": "another blackout, another amnesia spell, this time from a piece of tech",
+          "context": "Host applies the bit to the body cam.",
+          "confidence": "high",
+          "tags": [
+            "amnesia",
+            "body cam"
+          ]
+        },
+        {
+          "episode": 127,
+          "video_timestamp": "01:00:13",
+          "speaker_node_ref": "N-3",
+          "quote": "unfortunately, my body cam has amnesia.",
+          "context": "Host closes the viewer-comment pattern with the bit.",
+          "confidence": "high",
+          "tags": [
+            "amnesia",
+            "body cam"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-186",
+      "ref": "M-186",
+      "canonical_term": "Squishmallow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 127,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "she loses her Squishmallow",
+          "context": "Host opens with her daughter Louise and the strawberry Squishmallow.",
+          "confidence": "high",
+          "tags": [
+            "opener",
+            "family"
+          ]
+        },
+        {
+          "episode": 127,
+          "video_timestamp": "01:03:40",
+          "speaker_node_ref": "N-3",
+          "quote": "The strawberry Squishmallow will be found at a different time.",
+          "context": "Host closes with the Squishmallow running gag.",
+          "confidence": "high",
+          "tags": [
+            "family",
+            "closer"
+          ]
+        }
+      ]
     }
   ]
 }

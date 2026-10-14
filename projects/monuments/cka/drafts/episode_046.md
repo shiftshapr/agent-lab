@@ -2139,6 +2139,145 @@ Confidence: high
 
 ---
 
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:27:51
+Speaker: N-3
+Quote: even getting questions ahead to me, preparing answers feels fake and gay
+Context: Host says getting questions ahead and preparing answers feels fake and gay.
+Tags: fake and gay, questions, rehearsed
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:02:01
+Speaker: N-3
+Quote: why it's required that I be fake and gay to live on this planet
+Context: Host says she cannot be fake and gay to live on this planet.
+Tags: fake and gay, closing
+Confidence: high
+
+---
+
+**M-42** (meme) Scripted
+
+### Occurrence 1
+
+Video Timestamp: 00:15:32
+Speaker: N-3
+Quote: this entire thing since September 10th feels scripted to me
+Context: Host says the whole story since September 10 feels scripted to her.
+Tags: scripted, town hall
+Confidence: high
+
+---
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: this entire psychological operation that is so obvious
+Context: Host opens by calling the narrative a psychological operation.
+Tags: psyop, opener
+Confidence: high
+
+---
+
+**M-127** (meme) The Matrix
+
+### Occurrence 1
+
+Video Timestamp: 00:03:00
+Speaker: N-3
+Quote: all of these Agent Smiths in this obvious Matrix just stop
+Context: Host asks the Agent Smiths in the Matrix to stop.
+Tags: matrix, agent smiths
+Confidence: high
+
+---
+
+**M-3** (meme) Trust the Science
+
+### Occurrence 1
+
+Video Timestamp: 01:01:13
+Speaker: N-3
+Quote: TPUSA's response to all of this is feeling very trust the science
+Context: Host reads a viewer comparing TPUSA's response to trust the science.
+Tags: covid parallel
+Confidence: high
+
+---
+
+**M-1** (meme) Grieving Widow
+
+### Occurrence 1
+
+Video Timestamp: 01:02:01
+Speaker: N-3
+Quote: Now we're doing the grieving widow.
+Context: Host lists the grieving widow as the latest tactic after the fake Bible stuff.
+Tags: widow, closing
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:52:34
+Speaker: N-3
+Quote: if you want a regular copy of my book Make Him a Sandwich for 20% off
+Context: Host plugs her book and discount.
+Tags: book plug
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:54:02
+Speaker: N-3
+Quote: That was the original go max.
+Context: Host calls a clip the original go max.
+Tags: go max, viewer
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:51:28
+Speaker: N-3
+Quote: the pro-fed slop comments come in two flavors
+Context: Host reads a viewer comment labeling pro-fed slop comments.
+Tags: fed slop, comments
+Confidence: high
+
+---
+
+**M-136** (meme) This Planet Is Ghetto
+
+### Occurrence 1
+
+Video Timestamp: 01:02:01
+Speaker: N-3
+Quote: I've always felt like an alien. I don't understand the rules here.
+Context: Host says she has always felt like an alien who does not understand the rules here.
+Tags: alien, closing
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Transcript ambiguity (Seth):** A-1537.1 references an individual identified only as "Seth" by AllieBeth Stuckey. No full name or role provided. Requires human verification.

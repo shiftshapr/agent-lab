@@ -2560,6 +2560,85 @@ Confidence: high
 
 ---
 
+**M-180** (meme) Preemptive Peace
+
+### Occurrence 1
+
+Video Timestamp: 00:40:38
+Speaker: N-3
+Quote: It's always peace until Israel gets involved.
+Context: Host mocks the pro-peace framing of the Trump administration.
+Tags: peace, israel, iran
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:43:41
+Speaker: N-3
+Quote: Preemptive preemptive peace.
+Context: Host sarcastically names the bombing of Iran preemptive peace.
+Tags: peace, preemptive, iran
+Confidence: high
+
+---
+
+**M-15** (meme) We Don't Know But We Know
+
+### Occurrence 1
+
+Video Timestamp: 01:01:46
+Speaker: N-3
+Quote: We don't know, but we know.
+Context: Host says the identity of the Messiah the occultists await is unknown yet understood.
+Tags: gut certainty, messiah
+Confidence: high
+
+---
+
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 00:37:23
+Speaker: N-3
+Quote: delayed the release of and then gaslit us over the Epstein files
+Context: Host says the administration gaslit the public over the Epstein files.
+Tags: gaslight, epstein
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:04:10
+Speaker: N-3
+Quote: the manner in which he is gaslighting us
+Context: Host reads a viewer question about Trump gaslighting the public.
+Tags: gaslight, trump
+Confidence: high
+
+---
+
+**M-135** (meme) Mask Down
+
+### Occurrence 1
+
+Video Timestamp: 00:58:25
+Speaker: N-3
+Quote: We're going to go mask down.
+Context: Host imagines Israel dropping its mask after gaining power over the US.
+Tags: mask down, israel
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:07:19
+Speaker: N-3
+Quote: unless she does a mask down, sit down, tell the truth, sort of interview, no holds barred
+Context: Host says Erika Kirk's only path in politics is a mask-down interview.
+Tags: mask down, erika
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown (Aleister Crowley "Book of Evil Spirits"):** The host mentions Aleister Crowley's writings on pentacles and a book titled "Book of Evil Spirits" with a "star of David" cover but no visual artifact is displayed. Possible transcription error or simply described-by-host. Requires human verification.

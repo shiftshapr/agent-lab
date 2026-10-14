@@ -37,6 +37,9 @@ The batch adds **1387 claims** (C-6449..C-7835), 37 persons, 57 topic/org/place 
 - **Name check:** ep31 "Rob Koy" is **Bob Coy** (N-772). He founded Calvary Chapel Fort Lauderdale, which started in Pompano Beach, and was a former Las Vegas entertainment director accused in a 2016 lawsuit. "Rob Koy" is kept as an alias.
 - **Rename:** "Wilks Brothers" is now "Wilks Brothers Funding Network", so the gate no longer reads the topic as a person.
 
+## Meme occurrences (fixed after the first push)
+The first push of this batch was missing all 217 meme occurrences. The integrator's section matcher stopped at the first `###` heading, and every staged Meme Register uses `### Occurrence N`. `supplement_integrate.py` now ends a section only at a heading of the same or higher level. `supplement_memes_backfill.py` added the occurrences and filled the 36 meme definitions. Claims, artifacts and nodes were not affected: their counts match the staged files.
+
 ## Needs your review
 
 ### Sensitive attributed allegations (kept, tagged)

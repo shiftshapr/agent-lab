@@ -2764,3 +2764,114 @@ Investigative Direction: Locate the interview in which Erika Kirk says this and 
 
 ---
 
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:11:03
+Speaker: N-3
+Quote: Please, we are inviting you to send us an email to more tips@candice. com
+Context: Host asks businesses near the Cowboys Smokehouse to send footage and information to the tip address.
+Tags: tips, dia, pangitch
+Confidence: high
+
+---
+
+**M-15** (meme) We Don't Know But We Know
+
+### Occurrence 1
+
+Video Timestamp: 00:45:15
+Speaker: N-3
+Quote: Says we don't know, but we know.
+Context: Host unpacks the Daily Wire show's title as a play on her catchphrase.
+Tags: catchphrase, daily wire
+Confidence: medium
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 00:59:34
+Speaker: N-3
+Quote: Christ is king. Thank you so much.
+Context: Host reads a viewer comment ending with the refrain and thanks the commenter.
+Tags: christ is king, comments
+Confidence: medium
+
+---
+
+**M-75** (meme) I'll Say Allegedly
+
+### Occurrence 1
+
+Video Timestamp: 00:01:41
+Speaker: N-3
+Quote: It was allegedly Tyler Robinson. He was allegedly acting alone on a rooftop and it is allegedly supposed to have been the first time that he ever killed a human being.
+Context: Host stacks 'allegedly' while retelling the official account of Robinson.
+Tags: allegedly, hedge
+Confidence: high
+
+---
+
+**M-175** (meme) Case Closed, Giddy Up
+
+### Occurrence 1
+
+Video Timestamp: 00:04:45
+Speaker: N-3
+Quote: yeehaw, we got them.
+Context: Host mocks the feds' announcement of the arrest in cowboy language.
+Tags: yeehaw, feds, sarcasm
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:07:00
+Speaker: N-3
+Quote: This is case closed. Giddy up.
+Context: Host mocks the lack of any federal follow-up at the Pangitch restaurant.
+Tags: giddy up, case closed, sarcasm
+Confidence: high
+
+---
+
+**M-176** (meme) Ten Toes Down
+
+### Occurrence 1
+
+Video Timestamp: 00:26:30
+Speaker: N-3
+Quote: I'm going to stand by that. 10 toes down.
+Context: Host doubles down on her assessment of Tyler Bowyer.
+Tags: stand by it, bowyer
+Confidence: high
+
+---
+
+**M-177** (meme) Psycho Ex-Boyfriend
+
+### Occurrence 1
+
+Video Timestamp: 00:48:20
+Speaker: N-3
+Quote: I am now telling people that Ben Shapiro is my psycho ex-boyfriend
+Context: Host casts the Daily Wire's attention to her as an obsessive ex-boyfriend.
+Tags: shapiro, daily wire, analogy
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:48:20
+Speaker: N-3
+Quote: Like it's psycho ex-boyfriend.
+Context: Host repeats the analogy at the end of the same riff.
+Tags: shapiro, daily wire, analogy
+Confidence: high
+
+---
+

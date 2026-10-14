@@ -35,10 +35,10 @@ import dia_preflight as dp  # noqa: E402
 TYPE_MAP = {"topic": "topic", "organization": "organization", "organisation": "organization", "org": "organization",
             "place": "place", "event": "topic", "thing": "topic"}
 SECTION = {
-    "art": r"^#{1,3} (?:3\.|III\.)?\s*Artifact Register.*$",
-    "node": r"^#{1,3} (?:4\.|IV\.)?\s*Node Register.*$",
-    "claim": r"^#{1,3} (?:5\.|V\.)?\s*Claim Register.*$",
-    "meme": r"^#{1,3} (?:6\.|VI\.)?\s*Meme Register.*$",
+    "art": r"^#{1,3} (?:[0-9]+\.|[IVX]+\.)?\s*Artifact Register.*$",
+    "node": r"^#{1,3} (?:[0-9]+\.|[IVX]+\.)?\s*Node Register.*$",
+    "claim": r"^#{1,3} (?:[0-9]+\.|[IVX]+\.)?\s*Claim Register.*$",
+    "meme": r"^#{1,3} (?:[0-9]+\.|[IVX]+\.)?\s*Meme Register.*$",
 }
 
 
@@ -52,11 +52,17 @@ def max_id(prefix: str) -> int:
                 for m in rx.finditer(p.read_text(encoding="utf-8"))), default=0)
 
 
+def next_heading(text: str, m: re.Match[str]) -> re.Match[str] | None:
+    """Next heading at the section's own level or higher (subheadings such as ### Occurrence stay inside)."""
+    level = len(m.group(0)) - len(m.group(0).lstrip("#"))
+    return re.search(rf"^#{{1,{level}}} ", text[m.end():], re.M)
+
+
 def section(text: str, key: str) -> str:
     m = re.search(SECTION[key], text, re.M)
     if not m:
         return ""
-    nxt = re.search(r"^#{1,3} ", text[m.end():], re.M)
+    nxt = next_heading(text, m)
     return text[m.end(): m.end() + nxt.start()] if nxt else text[m.end():]
 
 
@@ -65,10 +71,11 @@ def insert_at_section_end(text: str, key: str, block: str, fallback_header: str)
         return text
     m = re.search(SECTION[key], text, re.M)
     if not m:
-        anchor = re.search(r"^## (?:7\.|VI\.|VII\.)\s*(?:Optional Flags|Output Quality).*$", text, re.M)
+        anchor = re.search(r"^#{1,3} (?:[0-9]+\.|[IVX]+\.)?\s*(?:Optional Flags|Output Quality|.*Ledger Summary).*$", text, re.M)
         pos = anchor.start() if anchor else len(text)
-        return text[:pos] + f"{fallback_header}\n\n{block.strip()}\n\n" + text[pos:]
-    nxt = re.search(r"^#{1,3} ", text[m.end():], re.M)
+        head = text[:pos].rstrip("\n")
+        return head + f"\n\n{fallback_header}\n\n{block.strip()}\n\n" + text[pos:]
+    nxt = next_heading(text, m)
     pos = m.end() + nxt.start() if nxt else len(text)
     before = text[:pos].rstrip("\n")
     return before + "\n\n" + block.strip() + "\n\n" + text[pos:]
@@ -83,6 +90,33 @@ def append_ids(line: str, ids: str) -> str:
 def blocks(sec: str, prefix: str) -> list[tuple[str, str]]:
     parts = re.split(rf"(?m)^(?=\*\*{prefix}-[\w.]+\*\*)", sec)
     return [(re.match(rf"\*\*({prefix}-[\w.]+)\*\*", p).group(1), p.rstrip()) for p in parts[1:]]
+
+
+def insert_memes(text: str, meme_sec: str, meta_of) -> str:
+    """Append meme occurrences under existing blocks (renumbered), or add new blocks. Skips exact repeats."""
+    for mid, b in blocks(meme_sec, "M"):
+        occ = re.split(r"(?m)^### Occurrence \d+\s*$", b)[1:]
+        if not occ:
+            continue
+        msec = section(text, "meme")
+        em = re.search(rf"^\*\*{mid}\*\*.*?(?=^\*\*M-|^#{{1,2}} |\Z)", msec, re.M | re.S)
+        if em:
+            occ = [o for o in occ if o.strip().rstrip("-").strip() not in em.group(0)]
+            if not occ:
+                continue
+            n0 = len(re.findall(r"^### Occurrence \d+", em.group(0), re.M))
+            add = "".join(f"\n### Occurrence {n0 + i + 1}\n{o.rstrip().removesuffix('---').rstrip()}\n" for i, o in enumerate(occ))
+            body = em.group(0).rstrip()
+            body = body[:-3].rstrip() if body.endswith("---") else body
+            newb = body + "\n" + add + "\n---\n\n"
+            start = text.find(msec) + em.start()
+            text = text[:start] + newb + text[start + len(em.group(0)):]
+        else:
+            meta = meta_of(mid)
+            head = f"**{mid}** {meta['canonical_term']}\n" if meta else b.split("\n")[0] + "\n"
+            newb = head + "".join(f"\n### Occurrence {i + 1}\n{o.rstrip().removesuffix('---').rstrip()}\n" for i, o in enumerate(occ)) + "\n---"
+            text = insert_at_section_end(text, "meme", newb, "## 6. Meme Register")
+    return text
 
 
 def main() -> int:
@@ -202,26 +236,7 @@ def main() -> int:
         text = insert_at_section_end(draft, "art", art, "## 3. Artifact Register")
         text = insert_at_section_end(text, "node", "\n\n".join(node_rows), "## 4. Node Register")
         text = insert_at_section_end(text, "claim", claims, "## 5. Claim Register")
-        # memes: occurrences under existing blocks, else new block
-        for mid, b in blocks(section(sup, "meme"), "M"):
-            occ = re.split(r"(?m)^### Occurrence \d+\s*$", b)[1:]
-            if not occ:
-                continue
-            msec = section(text, "meme")
-            em = re.search(rf"^\*\*{mid}\*\*.*?(?=^\*\*M-|^## |\Z)", msec, re.M | re.S)
-            if em:
-                n0 = len(re.findall(r"^### Occurrence \d+", em.group(0), re.M))
-                add = "".join(f"\n### Occurrence {n0 + i + 1}\n{o.rstrip()}\n" for i, o in enumerate(occ))
-                body = em.group(0).rstrip()
-                body = body[:-3].rstrip() if body.endswith("---") else body
-                newb = body + "\n" + add + "\n---\n\n"
-                start = text.find(msec) + em.start()
-                text = text[:start] + newb + text[start + len(em.group(0)):]
-            else:
-                meta = memes.get(mid) or new_memes.get(mid)
-                head = f"**{mid}** {meta['canonical_term']}\n" if meta else b.split("\n")[0] + "\n"
-                newb = head + "".join(f"\n### Occurrence {i + 1}\n{o.rstrip()}\n" for i, o in enumerate(occ)) + "\n---"
-                text = insert_at_section_end(text, "meme", newb, "## 6. Meme Register")
+        text = insert_memes(text, section(sup, "meme"), lambda mid: memes.get(mid) or new_memes.get(mid))
 
         sup_ids = {int(x) for x in re.findall(r"\bN-(\d+)\b", sup)}
         draft_ids = {int(x) for x in re.findall(r"\bN-(\d+)\b", draft)}

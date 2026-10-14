@@ -4569,5 +4569,182 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 52,
+          "video_timestamp": "00:11:03",
+          "speaker_node_ref": "N-3",
+          "quote": "Please, we are inviting you to send us an email to more tips@candice. com",
+          "context": "Host asks businesses near the Cowboys Smokehouse to send footage and information to the tip address.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia",
+            "pangitch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 52,
+          "video_timestamp": "00:45:15",
+          "speaker_node_ref": "N-3",
+          "quote": "Says we don't know, but we know.",
+          "context": "Host unpacks the Daily Wire show's title as a play on her catchphrase.",
+          "confidence": "medium",
+          "tags": [
+            "catchphrase",
+            "daily wire"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 52,
+          "video_timestamp": "00:59:34",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king. Thank you so much.",
+          "context": "Host reads a viewer comment ending with the refrain and thanks the commenter.",
+          "confidence": "medium",
+          "tags": [
+            "christ is king",
+            "comments"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 52,
+          "video_timestamp": "00:01:41",
+          "speaker_node_ref": "N-3",
+          "quote": "It was allegedly Tyler Robinson. He was allegedly acting alone on a rooftop and it is allegedly supposed to have been the first time that he ever killed a human being.",
+          "context": "Host stacks 'allegedly' while retelling the official account of Robinson.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-175",
+      "ref": "M-175",
+      "canonical_term": "Case Closed, Giddy Up",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 52,
+          "video_timestamp": "00:04:45",
+          "speaker_node_ref": "N-3",
+          "quote": "yeehaw, we got them.",
+          "context": "Host mocks the feds' announcement of the arrest in cowboy language.",
+          "confidence": "high",
+          "tags": [
+            "yeehaw",
+            "feds",
+            "sarcasm"
+          ]
+        },
+        {
+          "episode": 52,
+          "video_timestamp": "00:07:00",
+          "speaker_node_ref": "N-3",
+          "quote": "This is case closed. Giddy up.",
+          "context": "Host mocks the lack of any federal follow-up at the Pangitch restaurant.",
+          "confidence": "high",
+          "tags": [
+            "giddy up",
+            "case closed",
+            "sarcasm"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-176",
+      "ref": "M-176",
+      "canonical_term": "Ten Toes Down",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 52,
+          "video_timestamp": "00:26:30",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm going to stand by that. 10 toes down.",
+          "context": "Host doubles down on her assessment of Tyler Bowyer.",
+          "confidence": "high",
+          "tags": [
+            "stand by it",
+            "bowyer"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-177",
+      "ref": "M-177",
+      "canonical_term": "Psycho Ex-Boyfriend",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 52,
+          "video_timestamp": "00:48:20",
+          "speaker_node_ref": "N-3",
+          "quote": "I am now telling people that Ben Shapiro is my psycho ex-boyfriend",
+          "context": "Host casts the Daily Wire's attention to her as an obsessive ex-boyfriend.",
+          "confidence": "high",
+          "tags": [
+            "shapiro",
+            "daily wire",
+            "analogy"
+          ]
+        },
+        {
+          "episode": 52,
+          "video_timestamp": "00:48:20",
+          "speaker_node_ref": "N-3",
+          "quote": "Like it's psycho ex-boyfriend.",
+          "context": "Host repeats the analogy at the end of the same riff.",
+          "confidence": "high",
+          "tags": [
+            "shapiro",
+            "daily wire",
+            "analogy"
+          ]
+        }
+      ]
+    }
+  ]
 }

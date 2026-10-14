@@ -2938,5 +2938,174 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-144",
+      "ref": "M-144",
+      "canonical_term": "The Preggo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 143,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "the child that I am currently growing decided to wake me up at 4:00 in the morning.",
+          "context": "Host opens the episode with her pregnancy and the baby's 4 a.m. dance party.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy",
+            "opener"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-69",
+      "ref": "M-69",
+      "canonical_term": "Not a Real Person",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 143,
+          "video_timestamp": "00:00:47",
+          "speaker_node_ref": "N-3",
+          "quote": "How is he a real person?",
+          "context": "Host reacts to Blake Neff telling reporters she is jealous of Erika.",
+          "confidence": "high",
+          "tags": [
+            "blake neff",
+            "real person"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 143,
+          "video_timestamp": "00:16:33",
+          "speaker_node_ref": "N-3",
+          "quote": "we're just being perpetually gaslit by them.",
+          "context": "Host says TPUSA gaslights the public by answering questions with a proverb.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "tpusa"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 143,
+          "video_timestamp": "00:34:27",
+          "speaker_node_ref": "N-3",
+          "quote": "we're supposed to accept the fed slop of left versus right.",
+          "context": "Host rejects the left-right framing in the Hasan and Neff exchange.",
+          "confidence": "high",
+          "tags": [
+            "fed slop",
+            "left right"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 143,
+          "video_timestamp": "00:37:19",
+          "speaker_node_ref": "N-3",
+          "quote": "I'll say allegedly, be coordinated by the Feds",
+          "context": "Host hedges before tying a past event to alleged federal coordination.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "feds"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-154",
+      "ref": "M-154",
+      "canonical_term": "Second Favorite Shirt",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 143,
+          "video_timestamp": "00:47:23",
+          "speaker_node_ref": "N-3",
+          "quote": "You be sure to get your second favorite shirt from catasoap. com.",
+          "context": "Host plugs the website while reading a viewer comment about merch.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "second favorite shirt"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-193",
+      "ref": "M-193",
+      "canonical_term": "October Surprise",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 143,
+          "video_timestamp": "00:08:42",
+          "speaker_node_ref": "N-3",
+          "quote": "today we can share with you my very own October surprise. I call it an October surprise because I've had it since October.",
+          "context": "Host introduces the Terrell laptop footage as her October surprise.",
+          "confidence": "high",
+          "tags": [
+            "october surprise",
+            "footage"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-194",
+      "ref": "M-194",
+      "canonical_term": "Arya Stark",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 143,
+          "video_timestamp": "00:02:29",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm basically like the Arya Stark character.",
+          "context": "Host opens the footage segment with an extended Game of Thrones analogy about relentless pursuit of justice.",
+          "confidence": "high",
+          "tags": [
+            "game of thrones",
+            "arya stark"
+          ]
+        }
+      ]
+    }
+  ]
 }

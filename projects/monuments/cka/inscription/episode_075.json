@@ -3844,6 +3844,128 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-180",
+      "ref": "M-180",
+      "canonical_term": "Preemptive Peace",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 75,
+          "video_timestamp": "00:40:38",
+          "speaker_node_ref": "N-3",
+          "quote": "It's always peace until Israel gets involved.",
+          "context": "Host mocks the pro-peace framing of the Trump administration.",
+          "confidence": "high",
+          "tags": [
+            "peace",
+            "israel",
+            "iran"
+          ]
+        },
+        {
+          "episode": 75,
+          "video_timestamp": "00:43:41",
+          "speaker_node_ref": "N-3",
+          "quote": "Preemptive preemptive peace.",
+          "context": "Host sarcastically names the bombing of Iran preemptive peace.",
+          "confidence": "high",
+          "tags": [
+            "peace",
+            "preemptive",
+            "iran"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 75,
+          "video_timestamp": "01:01:46",
+          "speaker_node_ref": "N-3",
+          "quote": "We don't know, but we know.",
+          "context": "Host says the identity of the Messiah the occultists await is unknown yet understood.",
+          "confidence": "high",
+          "tags": [
+            "gut certainty",
+            "messiah"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 75,
+          "video_timestamp": "00:37:23",
+          "speaker_node_ref": "N-3",
+          "quote": "delayed the release of and then gaslit us over the Epstein files",
+          "context": "Host says the administration gaslit the public over the Epstein files.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "epstein"
+          ]
+        },
+        {
+          "episode": 75,
+          "video_timestamp": "01:04:10",
+          "speaker_node_ref": "N-3",
+          "quote": "the manner in which he is gaslighting us",
+          "context": "Host reads a viewer question about Trump gaslighting the public.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "trump"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-135",
+      "ref": "M-135",
+      "canonical_term": "Mask Down",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 75,
+          "video_timestamp": "00:58:25",
+          "speaker_node_ref": "N-3",
+          "quote": "We're going to go mask down.",
+          "context": "Host imagines Israel dropping its mask after gaining power over the US.",
+          "confidence": "high",
+          "tags": [
+            "mask down",
+            "israel"
+          ]
+        },
+        {
+          "episode": 75,
+          "video_timestamp": "01:07:19",
+          "speaker_node_ref": "N-3",
+          "quote": "unless she does a mask down, sit down, tell the truth, sort of interview, no holds barred",
+          "context": "Host says Erika Kirk's only path in politics is a mask-down interview.",
+          "confidence": "high",
+          "tags": [
+            "mask down",
+            "erika"
+          ]
+        }
+      ]
     }
   ]
 }

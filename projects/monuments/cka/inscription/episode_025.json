@@ -2602,6 +2602,159 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-123",
+      "ref": "M-123",
+      "canonical_term": "Magnificent Mikey McCoy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 25,
+          "video_timestamp": "00:07:16",
+          "speaker_node_ref": "N-3",
+          "quote": "I maintain that the wonderful Mikey McCoy doesn't strike me as intrinsically evil.",
+          "context": "Host keeps attaching a flattering adjective to Mikey McCoy's name.",
+          "confidence": "high",
+          "tags": [
+            "adjective",
+            "mikey"
+          ]
+        },
+        {
+          "episode": 25,
+          "video_timestamp": "00:07:16",
+          "speaker_node_ref": "N-3",
+          "quote": "supercalifragilistic ispialocious Mikey McCoy appeared",
+          "context": "Another mock epithet for Mikey McCoy.",
+          "confidence": "high",
+          "tags": [
+            "adjective",
+            "mikey"
+          ]
+        },
+        {
+          "episode": 25,
+          "video_timestamp": "00:15:47",
+          "speaker_node_ref": "N-3",
+          "quote": "the fantastic, heroic, sensational McCoys were pretty busy this summer.",
+          "context": "Host mocks the praise adjectives for the whole McCoy family.",
+          "confidence": "high",
+          "tags": [
+            "adjective",
+            "mccoy"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-168",
+      "ref": "M-168",
+      "canonical_term": "The Stupendous Tucker Carlson",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 25,
+          "video_timestamp": "00:02:42",
+          "speaker_node_ref": "N-3",
+          "quote": "The spectacular Tucker Carlson. The breathtaking Tucker Carlson is under attack in this moment.",
+          "context": "Host mocks the adjective habit by applying it to Tucker Carlson.",
+          "confidence": "high",
+          "tags": [
+            "adjective",
+            "tucker"
+          ]
+        },
+        {
+          "episode": 25,
+          "video_timestamp": "00:32:36",
+          "speaker_node_ref": "N-3",
+          "quote": "I feel like I want to say the stupendous Tucker Carlson joined Dave Smith",
+          "context": "Host actually applies the adjective to Tucker.",
+          "confidence": "high",
+          "tags": [
+            "adjective",
+            "tucker"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-169",
+      "ref": "M-169",
+      "canonical_term": "Country the Size of New Jersey",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 25,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "there's this country that's only the size of New Jersey. It's always the victim.",
+          "context": "Host's sarcastic opener about Israel always being the victim.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "israel"
+          ]
+        },
+        {
+          "episode": 25,
+          "video_timestamp": "00:23:02",
+          "speaker_node_ref": "N-3",
+          "quote": "this one nation that's only the size of New Jersey and has done nothing wrong ever",
+          "context": "Same sarcastic refrain returns after the cell-phone claim.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "israel"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-170",
+      "ref": "M-170",
+      "canonical_term": "I Wish I Was Born Yesterday",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 25,
+          "video_timestamp": "00:27:24",
+          "speaker_node_ref": "N-3",
+          "quote": "Sometimes I wish I was born yesterday, right?",
+          "context": "Host says it would be easy to accept the lone-shooter story if she were naive.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "lone shooter"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 25,
+          "video_timestamp": "00:50:20",
+          "speaker_node_ref": "N-3",
+          "quote": "You can go to make him a sandwichand. com uh to buy the book.",
+          "context": "Host plugs her book at the sign-off.",
+          "confidence": "high",
+          "tags": [
+            "plug",
+            "book"
+          ]
+        }
+      ]
     }
   ]
 }

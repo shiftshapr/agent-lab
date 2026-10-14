@@ -2706,6 +2706,155 @@
             "brand_joke",
             "transcript_backfill"
           ]
+        },
+        {
+          "episode": 156,
+          "video_timestamp": "00:13:31",
+          "speaker_node_ref": "N-3",
+          "quote": "We ask that you please email us at more tips@caniswowens. com.",
+          "context": "Host asks for Dairy Queen information by email.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "tip line"
+          ]
+        },
+        {
+          "episode": 156,
+          "video_timestamp": "00:23:06",
+          "speaker_node_ref": "N-3",
+          "quote": "You can email us more tips@canniswens. com.",
+          "context": "Host asks for car wash and shopping center information by email.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "tip line"
+          ]
+        },
+        {
+          "episode": 156,
+          "video_timestamp": "00:26:05",
+          "speaker_node_ref": "N-3",
+          "quote": "You can also email us at tips@caniswowens. com.",
+          "context": "Host gives a second tip address and says she is reopening the tip lines.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "tip line"
+          ]
+        },
+        {
+          "episode": 156,
+          "video_timestamp": "00:49:38",
+          "speaker_node_ref": "N-3",
+          "quote": "a decentralized independent uh unit of people all over the world came together to solve the Charlie Kirk case",
+          "context": "Host invites viewers to join the crowd-sourced tip effort and email more tips.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "decentralized"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 156,
+          "video_timestamp": "00:47:13",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king.",
+          "context": "Host reads a viewer comment ending with the phrase.",
+          "confidence": "high",
+          "tags": [
+            "christ is king",
+            "viewer comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-21",
+      "ref": "M-21",
+      "canonical_term": "Conspiracy Girly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 156,
+          "video_timestamp": "00:54:04",
+          "speaker_node_ref": "N-3",
+          "quote": "Conspiracy girly. It's so cute.",
+          "context": "Host promotes the conspiracy girly mug among merch.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "conspiracy girly"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-199",
+      "ref": "M-199",
+      "canonical_term": "Are We Still Talking About the Midterms",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 156,
+          "video_timestamp": "00:29:10",
+          "speaker_node_ref": "N-3",
+          "quote": "Are we still talking about the midterms?",
+          "context": "Host shares a viewer meme mocking midterm urging.",
+          "confidence": "high",
+          "tags": [
+            "midterms",
+            "viewer meme"
+          ]
+        },
+        {
+          "episode": 156,
+          "video_timestamp": "00:52:24",
+          "speaker_node_ref": "N-3",
+          "quote": "are we still talking about midterms?",
+          "context": "Host repeats the line after reading comments.",
+          "confidence": "high",
+          "tags": [
+            "midterms",
+            "viewer meme"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-200",
+      "ref": "M-200",
+      "canonical_term": "Make Israel Great Again",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 156,
+          "video_timestamp": "00:54:04",
+          "speaker_node_ref": "N-3",
+          "quote": "Make Israel great again.",
+          "context": "Host sarcastically recasts MAGA as MGA at the close.",
+          "confidence": "high",
+          "tags": [
+            "maga",
+            "israel",
+            "sign-off"
+          ]
         }
       ]
     }

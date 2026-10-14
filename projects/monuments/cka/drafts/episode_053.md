@@ -2243,6 +2243,154 @@ Confidence: high
 
 ---
 
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:58:32
+Speaker: N-3
+Quote: All of us decentralizing intelligence
+Context: Host credits viewers' tips as crowd intelligence.
+Tags: dia, tips
+Confidence: high
+
+---
+
+**M-16** (meme) Mommy Sleuth
+
+### Occurrence 1
+
+Video Timestamp: 00:58:32
+Speaker: N-3
+Quote: here I'm a mommy sleuth and I have access to this
+Context: Host voices the tipster archetype as examples of crowd contributions.
+Tags: mommy sleuth
+Confidence: high
+
+---
+
+**M-76** (meme) Genocide Is Always Wrong
+
+### Occurrence 1
+
+Video Timestamp: 00:13:59
+Speaker: N-3
+Quote: genocide is always wrong
+Context: Host cites Boreing naming this stance as a reason for her firing.
+Tags: genocide, daily wire
+Confidence: high
+
+---
+
+**M-81** (meme) Bibi Net and Yahoo
+
+### Occurrence 1
+
+Video Timestamp: 00:37:16
+Speaker: N-3
+Quote: how about you put out a statement against BBNet and Yahoo
+Context: Host asks why no statement was demanded against Netanyahu.
+Tags: netanyahu
+Confidence: high
+
+---
+
+**M-75** (meme) I'll Say Allegedly
+
+### Occurrence 1
+
+Video Timestamp: 00:47:47
+Speaker: N-3
+Quote: I'll say allegedly, but I have been writing up this person
+Context: Host hedges her claim about Bowyer's job offer.
+Tags: allegedly, hedge
+Confidence: high
+
+---
+
+**M-51** (meme) Cringe
+
+### Occurrence 1
+
+Video Timestamp: 00:02:12
+Speaker: N-3
+Quote: the Daily Wire's cringe news show
+Context: Host calls the Daily Wire show cringe.
+Tags: cringe
+Confidence: high
+
+---
+
+**M-31** (meme) Buckle Up
+
+### Occurrence 1
+
+Video Timestamp: 00:02:12
+Speaker: N-3
+Quote: buckle up, boys and girls
+Context: Host cue before the Daily Wire show segment.
+Tags: buckle up
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:54:47
+Speaker: N-3
+Quote: Make Him a Sandwich and Blackout
+Context: Host plugs the autographed book bundle.
+Tags: merch, book
+Confidence: high
+
+---
+
+**M-178** (meme) Left a Gang
+
+### Occurrence 1
+
+Video Timestamp: 00:13:04
+Speaker: N-3
+Quote: Feels like I left a gang.
+Context: Host, via her cousin, compares leaving the Daily Wire to leaving a gang.
+Tags: gang, daily wire
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:16:14
+Speaker: N-3
+Quote: I have been getting jumped out for the last two years
+Context: Host continues the gang image about the last two years.
+Tags: gang, jumped out
+Confidence: high
+
+---
+
+**M-179** (meme) Formidable Friend
+
+### Occurrence 1
+
+Video Timestamp: 00:39:18
+Speaker: N-3
+Quote: I'm a very formidable friend
+Context: Host says what she told Boreing in the conference room.
+Tags: friend, loyalty
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:40:17
+Speaker: N-3
+Quote: I am a formidable friend
+Context: Host reuses the line about Charlie and Kanye.
+Tags: friend, loyalty
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty – "Maggie Wgner" / "Maggie Wagner":** Episode displays spelling "Wgner" first via text on screen, then Candace spells it aloud as "W-A-G-G-S ... W G NE R." Spelling anomaly flagged. The name as displayed in the text message screenshot (A-1588.1) reads "Mags Wgner."

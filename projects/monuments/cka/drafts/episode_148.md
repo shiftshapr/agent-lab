@@ -29,6 +29,21 @@
 - Analyst / agent name: Investigative Analysis Agent
 - Analysis date: 2026-09-08
 
+## 6. Meme Register
+
+**M-198** (meme) Coldest Story Ever Told
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: this just might wind up being the coldest story ever told. See what I did there?
+Context: Opening pun on a Kanye lyric.
+Tags: pun, kanye, opener
+Confidence: high
+
+---
+
 ### Episode 148 Ledger Summary
 
 - Artifact Families Introduced: A-2341, A-2342, A-2343, A-2344, A-2345, A-2346, A-2347, A-2348, A-2349, A-2350
@@ -37,6 +52,167 @@
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-162, N-336, N-10000, N-366, N-36, N-55, N-97, N-167, N-215, N-242, N-248, N-375, N-440, N-497, N-722, N-10011, N-10012, N-10024, N-10058, N-10061, N-10062, N-10169, N-10201, N-10342, N-10657, N-10662, N-10715, N-10805, N-10888, N-10900, N-10905, N-10914, N-10968, N-11061
   - Hole-minted Nodes (wave1): N-357
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-162 Blake Neff, N-27 Kanye West (Ye), N-10000 Turning Point USA (TPUSA), N-7 Frank Turek, N-14 Andrew Kolvet (aired as Andrew Kolb), N-336 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
+
+---
+
+**M-144** (meme) The Preggo
+
+### Occurrence 1
+
+Video Timestamp: 00:08:41
+Speaker: N-3
+Quote: I was down to crowd surf at 8 months pregnant. It's just who I am.
+Context: Host jokes about crowd surfing while 8 months pregnant.
+Tags: pregnancy, concert
+Confidence: high
+
+---
+
+**M-147** (meme) Crash Out
+
+### Occurrence 1
+
+Video Timestamp: 00:01:32
+Speaker: N-3
+Quote: hence the crash out from people online who dedicate their lives full-time to try to destroy me
+Context: Host says her critics crashed out over her concert weekend.
+Tags: crash out, critics
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:33:48
+Speaker: N-3
+Quote: He he's really crashing out these these days.
+Context: Host says Blake Neff is crashing out.
+Tags: crash out, neff
+Confidence: high
+
+---
+
+**M-3** (meme) Trust the Science
+
+### Occurrence 1
+
+Video Timestamp: 00:39:05
+Speaker: N-3
+Quote: knew that I would not trust the science on Charlie's assassination
+Context: Host says Neff knew she would not trust the science on the assassination.
+Tags: trust the science
+Confidence: high
+
+---
+
+**M-6** (meme) conspiracy theorist
+
+### Occurrence 1
+
+Video Timestamp: 00:37:36
+Speaker: N-3
+Quote: Why are you not a conspiracy theorist in that moment?
+Context: Host asks why Neff was not a conspiracy theorist in the hospital waiting room.
+Tags: conspiracy theorist
+Confidence: high
+
+---
+
+**M-84** (meme) Bend the Knee
+
+### Occurrence 1
+
+Video Timestamp: 00:39:05
+Speaker: N-3
+Quote: They knew that I would never bend the knee to this.
+Context: Host says staffers knew she would never bend the knee to the official story.
+Tags: bend the knee
+Confidence: high
+
+---
+
+**M-127** (meme) The Matrix
+
+### Occurrence 1
+
+Video Timestamp: 00:11:16
+Speaker: N-3
+Quote: We live in a matrix of some description.
+Context: Host frames Ye's music as hacking the matrix code.
+Tags: matrix
+Confidence: high
+
+---
+
+**M-34** (meme) Deep State
+
+### Occurrence 1
+
+Video Timestamp: 00:41:30
+Speaker: N-3
+Quote: a fixture a fixture of the the deep state apparatus
+Context: Host calls the New York Times a fixture of the deep state apparatus.
+Tags: deep state
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:42:52
+Speaker: N-3
+Quote: You work with the deep state apparatus.
+Context: Host says TPUSA works with the deep state apparatus.
+Tags: deep state, tpusa
+Confidence: high
+
+---
+
+**M-95** (meme) Emotional Response Asset
+
+### Occurrence 1
+
+Video Timestamp: 00:42:52
+Speaker: N-3
+Quote: You are their emotional asset.
+Context: Host calls Erika an emotional asset of the Department of War.
+Tags: emotional asset, erika
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:52:40
+Speaker: N-3
+Quote: from the Fed sloppers, so to speak
+Context: Host teases tomorrow's episode about the narrative from the Fed sloppers.
+Tags: fed slop
+Confidence: high
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 00:55:33
+Speaker: N-3
+Quote: Christ is king.
+Context: Host reads a viewer comment signing off with Christ is king.
+Tags: christ is king, comment
+Confidence: high
+
+---
+
+**M-23** (meme) Battle Bun
+
+### Occurrence 1
+
+Video Timestamp: 00:57:49
+Speaker: N-3
+Quote: I just walked in the door, battle bun ready.
+Context: Host reads a viewer comment about being battle bun ready.
+Tags: battle bun, comment
+Confidence: high
 
 ---
 

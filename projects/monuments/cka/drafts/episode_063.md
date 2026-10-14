@@ -2017,6 +2017,24 @@ Context: Host credits DCIA crowd research on Lori Cardoza Moore background.
 Tags: tips_network, brand_joke
 Confidence: high
 
+### Occurrence 2
+
+Video Timestamp: 00:33:24
+Speaker: N-3
+Quote: send us an email at more tips@canacewowens. com.
+Context: Host asks viewers to email tips about Edith Walker Montgomery.
+Tags: tips_network, dia_beat
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:43:01
+Speaker: N-3
+Quote: Message us more tips at candacewowens. com.
+Context: Host asks viewers to send tips on Stanley Clark Moore's Air Force base.
+Tags: tips_network, dia_beat
+Confidence: high
+
 ---
 
 **M-13** (meme) Fake and Gay
@@ -2039,6 +2057,133 @@ Speaker: N-3
 Quote: I am impatiently waiting for my conspiracy girly cup.
 Context: Wave 3 MemeLink backfill: Conspiracy Girly at 00:50:40 (audit missing_memelink).
 Tags: reuse, memelink_backfill
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:49:45
+Speaker: N-3
+Quote: Oh, yep. Make him a sandwich.
+Context: Host reacts to a viewer who ordered her book, then notes it now ships to Canada.
+Tags: book_plug, reuse
+Confidence: high
+
+---
+
+**M-38** (meme) MK Ultra
+
+### Occurrence 1
+
+Video Timestamp: 00:36:41
+Speaker: N-3
+Quote: project Monarch which was the precursor to MK Ultra
+Context: Host links Operation Paperclip and the moon-landing theory to Monarch and MK Ultra.
+Tags: mk ultra, mind_control
+Confidence: high
+
+---
+
+**M-40** (meme) Truman Show
+
+### Occurrence 1
+
+Video Timestamp: 00:25:45
+Speaker: N-3
+Quote: Charlie's life may have therefore been a literal Truman show
+Context: Host recaps her earlier theory that Charlie was watched as a gifted child.
+Tags: truman_show, gate_program
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:33:24
+Speaker: N-3
+Quote: It would give new meaning to the idea of his life being the Truman Show.
+Context: Host says an incorrect origin story would make the Truman Show framing literal.
+Tags: truman_show, origin_story
+Confidence: high
+
+---
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:35:55
+Speaker: N-3
+Quote: we are going to have to deal with the next psychological operation that tells us that it's wrong that we listened to the call
+Context: Host predicts a backlash against airing the call.
+Tags: psyop, backlash
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:58:04
+Speaker: N-3
+Quote: there's almost like a psychological operation being run on them
+Context: Host says fired employees are realizing the culture was a cult.
+Tags: psyop, employees
+Confidence: high
+
+---
+
+**M-82** (meme) Make That Make Sense
+
+### Occurrence 1
+
+Video Timestamp: 00:49:45
+Speaker: N-3
+Quote: You can't make that make sense.
+Context: Host says TPUSA's targeting of truth-seekers does not make sense.
+Tags: make_sense, tpusa
+Confidence: high
+
+---
+
+**M-140** (meme) White Walkers Among Us
+
+### Occurrence 1
+
+Video Timestamp: 00:36:41
+Speaker: N-3
+Quote: I really do believe that these are the white walkers in our society.
+Context: Host describes alleged mind-controlled people among us.
+Tags: white_walkers, mind_control
+Confidence: high
+
+---
+
+**M-160** (meme) Everybody Grieves Differently World Tour
+
+### Occurrence 1
+
+Video Timestamp: 00:08:32
+Speaker: N-3
+Quote: we are now in season 7, episode 4 of Everybody Grieavves Differently.
+Context: Host sarcastically mocks the defense of Erika's reaction to the quote.
+Tags: grief, sarcasm
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:23:00
+Speaker: N-3
+Quote: You can go find your commentator who's going to tell you everybody griefs differently.
+Context: Host pre-empts defenders of the call.
+Tags: grief, sarcasm
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:56:21
+Speaker: N-3
+Quote: they're going, "Everybody grieavves differently."
+Context: Host compares the framing to modern art.
+Tags: grief, sarcasm
 Confidence: high
 
 ---

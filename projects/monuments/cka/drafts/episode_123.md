@@ -1810,3 +1810,154 @@ Investigative Direction: Ask the host whether any tipster has been identified or
 
 ---
 
+## 6. Meme Register
+
+**M-92** (meme) Paramount Not So Tactical
+
+### Occurrence 1
+
+Video Timestamp: 00:39:49
+Speaker: N-3
+Quote: Blake Nef, Graham Allen, and Paramount not so tactical?
+Context: Host lumps Paramount Tactical in with Neff and Allen as deluding the public.
+Tags: paramount tactical, neff
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:43:25
+Speaker: N-3
+Quote: Do you really think I'm going to be tempted by Paramount not so tactical?
+Context: Host says Paramount Tactical will not tempt her.
+Tags: paramount tactical
+Confidence: high
+
+---
+
+**M-81** (meme) Bibi Net and Yahoo
+
+### Occurrence 1
+
+Video Timestamp: 00:42:26
+Speaker: N-3
+Quote: Is it BB and Yahoo?
+Context: Host jokes about whose name Erika has saved in her phone as God.
+Tags: netanyahu, phone
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:00:07
+Speaker: N-3
+Quote: send us emails tips@cennison. com.
+Context: Host asks viewers to send tips by email.
+Tags: tips, dia
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:00:52
+Speaker: N-3
+Quote: More tips at kennacewins. com.
+Context: Host repeats the tip address at sign-off.
+Tags: tips, dia
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:23:48
+Speaker: N-3
+Quote: They're serving up Christian slop
+Context: Host says TPUSA will offer Christian slop explanations for the shattered microphone.
+Tags: slop
+Confidence: high
+
+---
+
+**M-74** (meme) Believe Your Own Eyes
+
+### Occurrence 1
+
+Video Timestamp: 00:18:16
+Speaker: N-3
+Quote: you shouldn't believe your own eyes
+Context: Host says commentators are trying to convince viewers not to believe the glass photos.
+Tags: eyes
+Confidence: high
+
+---
+
+**M-6** (meme) conspiracy theorist
+
+### Occurrence 1
+
+Video Timestamp: 00:19:26
+Speaker: N-3
+Quote: You go be the conspiracy theorist
+Context: Host tells critics to explain the broken mic and be the conspiracy theorists themselves.
+Tags: conspiracy
+Confidence: high
+
+---
+
+**M-181** (meme) Miracle Spin
+
+### Occurrence 1
+
+Video Timestamp: 00:22:20
+Speaker: N-3
+Quote: Are they going to say more miracles, more um Judeo-Christian slop miracles that took place that day?
+Context: Host predicts TPUSA will explain the mic with a miracle.
+Tags: miracle, slop
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:50:36
+Speaker: N-3
+Quote: but you guys are forgetting it's a miracle.
+Context: Host sarcastically explains the vehicle speeds.
+Tags: miracle
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:51:30
+Speaker: N-3
+Quote: a Christian miracle being spun by none other than Erika Frantzve
+Context: Host says Erika is spinning a Christian miracle.
+Tags: miracle, erika
+Confidence: high
+
+---
+
+**M-182** (meme) Long Live Erika Frantzve
+
+### Occurrence 1
+
+Video Timestamp: 00:35:24
+Speaker: N-3
+Quote: I long live Erika Frantzve.
+Context: Host says she wants Erika to outlive everyone.
+Tags: erika
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:36:36
+Speaker: N-3
+Quote: Long live Erika Frantzve.
+Context: Host repeats the line as a sign-off for the segment.
+Tags: erika
+Confidence: high
+
+---
+

@@ -2750,5 +2750,179 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 133,
+          "video_timestamp": "00:54:39",
+          "speaker_node_ref": "N-3",
+          "quote": "Of course, the CIA crew neck, Canada intelligent agency is how we got here.",
+          "context": "Host promotes the CIA crew neck merchandise.",
+          "confidence": "high",
+          "tags": [
+            "cia merch",
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 133,
+          "video_timestamp": "00:27:01",
+          "speaker_node_ref": "N-3",
+          "quote": "That's the fed slop narrative.",
+          "context": "Host dismisses the official account of Robinson's guilt as fed slop.",
+          "confidence": "high",
+          "tags": [
+            "fed slop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-116",
+      "ref": "M-116",
+      "canonical_term": "Broken Bomb Dog Noses",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 133,
+          "video_timestamp": "00:19:07",
+          "speaker_node_ref": "N-3",
+          "quote": "I am told that she's the one who had a broken nose that day.",
+          "context": "Host says Freya the bomb dog had a broken nose when the field was searched.",
+          "confidence": "high",
+          "tags": [
+            "bomb dog",
+            "freya"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-144",
+      "ref": "M-144",
+      "canonical_term": "The Preggo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 133,
+          "video_timestamp": "00:29:26",
+          "speaker_node_ref": "N-3",
+          "quote": "My vision always gets super bad when I'm pregnant.",
+          "context": "Host jokes about her pregnancy while reading the Wikipedia page.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy",
+            "running bit"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-187",
+      "ref": "M-187",
+      "canonical_term": "Chick-fil-A Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 133,
+          "video_timestamp": "00:05:43",
+          "speaker_node_ref": "N-3",
+          "quote": "Yeah, I need a Chick-fil-A sandwich and then I'm going to go do the impossible.",
+          "context": "Host mocks the official account of Robinson's morning.",
+          "confidence": "high",
+          "tags": [
+            "chick-fil-a",
+            "mockery"
+          ]
+        },
+        {
+          "episode": 133,
+          "video_timestamp": "00:16:22",
+          "speaker_node_ref": "N-3",
+          "quote": "What did he order at Chick-fil-A?",
+          "context": "Host riffs on the rooftop footage.",
+          "confidence": "high",
+          "tags": [
+            "chick-fil-a",
+            "mockery"
+          ]
+        },
+        {
+          "episode": 133,
+          "video_timestamp": "00:27:01",
+          "speaker_node_ref": "N-3",
+          "quote": "just what he ordered at Chick-fil-A.",
+          "context": "Host again jokes about Robinson's Chick-fil-A order.",
+          "confidence": "high",
+          "tags": [
+            "chick-fil-a",
+            "mockery"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-188",
+      "ref": "M-188",
+      "canonical_term": "Overwhelmed by the Evidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 133,
+          "video_timestamp": "00:01:54",
+          "speaker_node_ref": "N-3",
+          "quote": "feeling overwhelmed and passing away and falling out in the streets",
+          "context": "Host mocks influencers who said they were overwhelmed by the evidence.",
+          "confidence": "high",
+          "tags": [
+            "overwhelmed",
+            "influencers"
+          ]
+        },
+        {
+          "episode": 133,
+          "video_timestamp": "00:27:01",
+          "speaker_node_ref": "N-3",
+          "quote": "You should feel overwhelmed by the evidence that Tyler Robinson did this.",
+          "context": "Host mimics the influencer line.",
+          "confidence": "high",
+          "tags": [
+            "overwhelmed",
+            "influencers"
+          ]
+        },
+        {
+          "episode": 133,
+          "video_timestamp": "00:54:39",
+          "speaker_node_ref": "N-3",
+          "quote": "It's overwhelming. It's overwhelming. It's overwhelming.",
+          "context": "Host mimics the coordinated line before the banana analogy.",
+          "confidence": "high",
+          "tags": [
+            "overwhelmed",
+            "banana"
+          ]
+        }
+      ]
+    }
+  ]
 }

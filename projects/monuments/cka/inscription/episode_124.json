@@ -3864,11 +3864,36 @@
           "quote": "I will put up $10,000 bounty on that piece of information. Tips at candace. com.",
           "context": "DIA tip-line call: host offers a $10,000 bounty for evidence of who Ben Shapiro was at lunch with (C-3764).",
           "confidence": "high",
-          "uncertainty_note": "Host account; the pledge itself is not shown. Matt Robinson has no person node (person band full, awaiting Daveed).",
           "tags": [
             "tips_network",
             "dia_tip_line",
             "transcript_backfill"
+          ]
+        },
+        {
+          "episode": 124,
+          "video_timestamp": "00:25:33",
+          "speaker_node_ref": "N-3",
+          "quote": "please email us tips at kennace. com.",
+          "context": "Host asks for tips on when the K9 officers arrived (C-7229).",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "tip line"
+          ]
+        },
+        {
+          "episode": 124,
+          "video_timestamp": "00:25:33",
+          "speaker_node_ref": "N-3",
+          "quote": "more tips at kennace. com or tips@canniswowens. com",
+          "context": "Host repeats the tips request moments later.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "tip line"
           ]
         }
       ]
@@ -3892,6 +3917,282 @@
             "suspicion",
             "comedy",
             "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-11",
+      "ref": "M-11",
+      "canonical_term": "MSAD",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "01:07:02",
+          "speaker_node_ref": "N-3",
+          "quote": "Israeli Msad Security apparatus team",
+          "context": "Host's shorthand for Mossad when describing Shapiro's security team.",
+          "confidence": "high",
+          "tags": [
+            "msad",
+            "shapiro"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "00:25:33",
+          "speaker_node_ref": "N-3",
+          "quote": "these messages feel a little fed sloppy",
+          "context": "Host says the Tyler-Lance texts feel like fed slop.",
+          "confidence": "high",
+          "tags": [
+            "fed slop",
+            "texts"
+          ]
+        },
+        {
+          "episode": 124,
+          "video_timestamp": "01:16:57",
+          "speaker_node_ref": "N-3",
+          "quote": "and feed slop",
+          "context": "Host says critics keep pretending it is a joke and feeding slop.",
+          "confidence": "high",
+          "tags": [
+            "fed slop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-74",
+      "ref": "M-74",
+      "canonical_term": "Believe Your Own Eyes",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "00:19:09",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm asking you to believe your own eyes here",
+          "context": "Host asks viewers to compare the two exhaust pipes.",
+          "confidence": "high",
+          "tags": [
+            "eyes",
+            "evidence"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-3",
+      "ref": "M-3",
+      "canonical_term": "Trust the Science",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "00:22:55",
+          "speaker_node_ref": "N-3",
+          "quote": "Guys, trust the science.",
+          "context": "Host mocks the Tel Aviv extraction of the Lance messages.",
+          "confidence": "high",
+          "tags": [
+            "trust the science",
+            "sarcasm"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "00:52:34",
+          "speaker_node_ref": "N-3",
+          "quote": "This is a psychological operation. It is failing.",
+          "context": "Host calls the influencer push a psychological operation.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "influencers"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-55",
+      "ref": "M-55",
+      "canonical_term": "Saying the Quiet Part Out Loud",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "00:00:50",
+          "speaker_node_ref": "N-3",
+          "quote": "can I just begin by saying the quiet part out loud",
+          "context": "Host opens her comment on the invited influencers.",
+          "confidence": "high",
+          "tags": [
+            "quiet part",
+            "opener"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-82",
+      "ref": "M-82",
+      "canonical_term": "Make That Make Sense",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "01:02:37",
+          "speaker_node_ref": "N-3",
+          "quote": "Somebody make that make sense.",
+          "context": "Host demands coherence for Shapiro receiving updates in the car.",
+          "confidence": "high",
+          "tags": [
+            "make sense",
+            "shapiro"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "01:02:37",
+          "speaker_node_ref": "N-3",
+          "quote": "You're going to have to become a conspiracy theorist to make that make sense.",
+          "context": "Host says only a conspiracy theorist could make Shapiro's account make sense.",
+          "confidence": "high",
+          "tags": [
+            "conspiracy theorist",
+            "shapiro"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-147",
+      "ref": "M-147",
+      "canonical_term": "Crash Out",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "00:58:27",
+          "speaker_node_ref": "N-3",
+          "quote": "I can't wait to get into Turning Point USA and the crash out they had online.",
+          "context": "Host previews the TPUSA crash out.",
+          "confidence": "high",
+          "tags": [
+            "crash out",
+            "tpusa"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-44",
+      "ref": "M-44",
+      "canonical_term": "It's Giving",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "00:01:39",
+          "speaker_node_ref": "N-3",
+          "quote": "It's giving I'm finally going to wear black",
+          "context": "Host mocks the influencers' courthouse appearance.",
+          "confidence": "high",
+          "tags": [
+            "its giving",
+            "courthouse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-183",
+      "ref": "M-183",
+      "canonical_term": "Overwhelming",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "00:04:24",
+          "speaker_node_ref": "N-3",
+          "quote": "The evidence against Tyler Robinson is overwhelming.",
+          "context": "Host highlights the identical word used by influencers, comparing it to pandemic slogans.",
+          "confidence": "high",
+          "tags": [
+            "overwhelming",
+            "influencers"
+          ]
+        },
+        {
+          "episode": 124,
+          "video_timestamp": "00:53:32",
+          "speaker_node_ref": "N-3",
+          "quote": "The evidence is overwhelming against Tyler Robinson.",
+          "context": "Host repeats the slogan while describing it as repetition-driven messaging.",
+          "confidence": "high",
+          "tags": [
+            "overwhelming",
+            "influencers"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-184",
+      "ref": "M-184",
+      "canonical_term": "Dark Game of Guess Who",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "01:04:18",
+          "speaker_node_ref": "N-3",
+          "quote": "Justin and Dan in this dark game of guess who.",
+          "context": "Host eliminates who in the car could have updated Shapiro's security.",
+          "confidence": "high",
+          "uncertainty_note": "Host account; the pledge itself is not shown. Matt Robinson has no person node (person band full, awaiting Daveed).",
+          "tags": [
+            "guess who",
+            "transport car"
           ]
         }
       ]

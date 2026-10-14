@@ -65,6 +65,198 @@ Confidence: high
 
 ---
 
+### Occurrence 2
+
+Video Timestamp: 00:25:33
+Speaker: N-3
+Quote: please email us tips at kennace. com.
+Context: Host asks for tips on when the K9 officers arrived (C-7229).
+Tags: dia, tips, tip line
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:25:33
+Speaker: N-3
+Quote: more tips at kennace. com or tips@canniswowens. com
+Context: Host repeats the tips request moments later.
+Tags: dia, tips, tip line
+Confidence: high
+
+---
+
+**M-11** (meme) MSAD
+
+### Occurrence 1
+
+Video Timestamp: 01:07:02
+Speaker: N-3
+Quote: Israeli Msad Security apparatus team
+Context: Host's shorthand for Mossad when describing Shapiro's security team.
+Tags: msad, shapiro
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:25:33
+Speaker: N-3
+Quote: these messages feel a little fed sloppy
+Context: Host says the Tyler-Lance texts feel like fed slop.
+Tags: fed slop, texts
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:16:57
+Speaker: N-3
+Quote: and feed slop
+Context: Host says critics keep pretending it is a joke and feeding slop.
+Tags: fed slop
+Confidence: high
+
+---
+
+**M-74** (meme) Believe Your Own Eyes
+
+### Occurrence 1
+
+Video Timestamp: 00:19:09
+Speaker: N-3
+Quote: I'm asking you to believe your own eyes here
+Context: Host asks viewers to compare the two exhaust pipes.
+Tags: eyes, evidence
+Confidence: high
+
+---
+
+**M-3** (meme) Trust the Science
+
+### Occurrence 1
+
+Video Timestamp: 00:22:55
+Speaker: N-3
+Quote: Guys, trust the science.
+Context: Host mocks the Tel Aviv extraction of the Lance messages.
+Tags: trust the science, sarcasm
+Confidence: high
+
+---
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:52:34
+Speaker: N-3
+Quote: This is a psychological operation. It is failing.
+Context: Host calls the influencer push a psychological operation.
+Tags: psyop, influencers
+Confidence: high
+
+---
+
+**M-55** (meme) Saying the Quiet Part Out Loud
+
+### Occurrence 1
+
+Video Timestamp: 00:00:50
+Speaker: N-3
+Quote: can I just begin by saying the quiet part out loud
+Context: Host opens her comment on the invited influencers.
+Tags: quiet part, opener
+Confidence: high
+
+---
+
+**M-82** (meme) Make That Make Sense
+
+### Occurrence 1
+
+Video Timestamp: 01:02:37
+Speaker: N-3
+Quote: Somebody make that make sense.
+Context: Host demands coherence for Shapiro receiving updates in the car.
+Tags: make sense, shapiro
+Confidence: high
+
+---
+
+**M-6** (meme) conspiracy theorist
+
+### Occurrence 1
+
+Video Timestamp: 01:02:37
+Speaker: N-3
+Quote: You're going to have to become a conspiracy theorist to make that make sense.
+Context: Host says only a conspiracy theorist could make Shapiro's account make sense.
+Tags: conspiracy theorist, shapiro
+Confidence: high
+
+---
+
+**M-147** (meme) Crash Out
+
+### Occurrence 1
+
+Video Timestamp: 00:58:27
+Speaker: N-3
+Quote: I can't wait to get into Turning Point USA and the crash out they had online.
+Context: Host previews the TPUSA crash out.
+Tags: crash out, tpusa
+Confidence: high
+
+---
+
+**M-44** (meme) It's Giving
+
+### Occurrence 1
+
+Video Timestamp: 00:01:39
+Speaker: N-3
+Quote: It's giving I'm finally going to wear black
+Context: Host mocks the influencers' courthouse appearance.
+Tags: its giving, courthouse
+Confidence: high
+
+---
+
+**M-183** (meme) Overwhelming
+
+### Occurrence 1
+
+Video Timestamp: 00:04:24
+Speaker: N-3
+Quote: The evidence against Tyler Robinson is overwhelming.
+Context: Host highlights the identical word used by influencers, comparing it to pandemic slogans.
+Tags: overwhelming, influencers
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:53:32
+Speaker: N-3
+Quote: The evidence is overwhelming against Tyler Robinson.
+Context: Host repeats the slogan while describing it as repetition-driven messaging.
+Tags: overwhelming, influencers
+Confidence: high
+
+---
+
+**M-184** (meme) Dark Game of Guess Who
+
+### Occurrence 1
+
+Video Timestamp: 01:04:18
+Speaker: N-3
+Quote: Justin and Dan in this dark game of guess who.
+Context: Host eliminates who in the car could have updated Shapiro's security.
+Tags: guess who, transport car
+Confidence: high
+
 ---
 
 # II. Executive Summary

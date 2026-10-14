@@ -3292,6 +3292,18 @@
             "catchphrase",
             "show_theme"
           ]
+        },
+        {
+          "episode": 51,
+          "video_timestamp": "00:18:59",
+          "speaker_node_ref": "N-3",
+          "quote": "we've clearly woken up to the fact that everything is fake and gay",
+          "context": "Host says the public has woken up to the fake and gay thesis.",
+          "confidence": "high",
+          "tags": [
+            "fake and gay",
+            "show theme"
+          ]
         }
       ]
     },
@@ -3334,6 +3346,261 @@
             "admission",
             "roast",
             "clip"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-31",
+      "ref": "M-31",
+      "canonical_term": "Buckle Up",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 51,
+          "video_timestamp": "00:00:53",
+          "speaker_node_ref": "N-3",
+          "quote": "so buckle up because it is going to be a long week",
+          "context": "Host warns of a long week and year ahead after the break.",
+          "confidence": "high",
+          "tags": [
+            "buckle up",
+            "opener"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 51,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "our government is up to the same old fed sloppy tricks",
+          "context": "Host opens the year accusing the government of fed tricks.",
+          "confidence": "high",
+          "tags": [
+            "fed slop",
+            "opener"
+          ]
+        },
+        {
+          "episode": 51,
+          "video_timestamp": "01:09:30",
+          "speaker_node_ref": "N-3",
+          "quote": "New year, same BS Fed slop.",
+          "context": "Host's sign-off line.",
+          "confidence": "high",
+          "tags": [
+            "fed slop",
+            "sign-off"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-153",
+      "ref": "M-153",
+      "canonical_term": "Sentencing TPUSA to More Truth",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 51,
+          "video_timestamp": "00:01:23",
+          "speaker_node_ref": "N-3",
+          "quote": "today I sentence you to truth",
+          "context": "Host sentences Andrew Kolvet to truth on the first episode of the year.",
+          "confidence": "high",
+          "tags": [
+            "sentence",
+            "truth",
+            "kolvet"
+          ]
+        },
+        {
+          "episode": 51,
+          "video_timestamp": "00:53:00",
+          "speaker_node_ref": "N-3",
+          "quote": "So, we have to sentence Andrew Kolbe to more truth.",
+          "context": "Host repeats the sentencing after the alibi recap.",
+          "confidence": "high",
+          "tags": [
+            "sentence",
+            "truth",
+            "kolvet"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-40",
+      "ref": "M-40",
+      "canonical_term": "Truman Show",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 51,
+          "video_timestamp": "00:13:20",
+          "speaker_node_ref": "N-3",
+          "quote": "It feels like we're all in The Truman Show and everyone around us are actually robots.",
+          "context": "Host describes post-AmFest reality as a Truman Show.",
+          "confidence": "high",
+          "tags": [
+            "truman show",
+            "robots"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 51,
+          "video_timestamp": "00:53:00",
+          "speaker_node_ref": "N-3",
+          "quote": "I said BBnet and Yahoo called and he offered to take Turning Point to the next level.",
+          "context": "Host recalls her earlier Hamptons claim.",
+          "confidence": "high",
+          "tags": [
+            "bibi",
+            "hamptons"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-135",
+      "ref": "M-135",
+      "canonical_term": "Mask Down",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 51,
+          "video_timestamp": "00:55:42",
+          "speaker_node_ref": "N-3",
+          "quote": "this moment where Andrew goes mask down",
+          "context": "Host describes Kolvet's alibi reveal as the mask coming down.",
+          "confidence": "high",
+          "tags": [
+            "mask down",
+            "kolvet"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 51,
+          "video_timestamp": "00:58:23",
+          "speaker_node_ref": "N-3",
+          "quote": "we don't know, no, but I think we know",
+          "context": "Host adopts the Daily Wire phrase about Fort Huachuca.",
+          "confidence": "high",
+          "tags": [
+            "we dont know but we know"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 51,
+          "video_timestamp": "01:01:21",
+          "speaker_node_ref": "N-3",
+          "quote": "I still think genocide is always wrong.",
+          "context": "Host reaffirms her genocide statement while reading a comment.",
+          "confidence": "high",
+          "tags": [
+            "genocide"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 51,
+          "video_timestamp": "01:07:16",
+          "speaker_node_ref": "N-3",
+          "quote": "You guys all look like a psyop right now.",
+          "context": "Host aims it at pastors on stage.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "pastors"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-173",
+      "ref": "M-173",
+      "canonical_term": "Sentinels",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 51,
+          "video_timestamp": "00:27:06",
+          "speaker_node_ref": "N-3",
+          "quote": "Are you with the Sentinels? Are you with the human beings?",
+          "context": "Host frames the opposition as non-human sentinels.",
+          "confidence": "high",
+          "tags": [
+            "sentinels",
+            "droids"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-174",
+      "ref": "M-174",
+      "canonical_term": "Crazy Ex Stalker",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 51,
+          "video_timestamp": "00:33:30",
+          "speaker_node_ref": "N-3",
+          "quote": "it's giving crazy ex stalker.",
+          "context": "Host describes the Daily Wire as an obsessed ex.",
+          "confidence": "high",
+          "tags": [
+            "daily wire",
+            "stalker"
           ]
         }
       ]

@@ -57,6 +57,80 @@ Confidence: high
 
 ---
 
+**M-77** (meme) Operation Mocking Pastor
+
+### Occurrence 1
+
+Video Timestamp: 00:56:02
+Speaker: N-3
+Quote: Cameras Owens is my pastor stage name when they're talking trash about me
+Context: Host explains a viewer's note that she missed the Operation Mocking Pastor joke with the name Cameras Owens.
+Tags: pastor, comments
+Confidence: high
+
+---
+
+**M-78** (meme) Silence Is Not Kindness
+
+### Occurrence 1
+
+Video Timestamp: 00:29:28
+Speaker: N-3
+Quote: silence is not kind kindness, it's actually consent
+Context: Host Preborn sponsor read.
+Tags: sponsor
+Confidence: high
+
+---
+
+**M-165** (meme) David Hoggins
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: I refer to as David Hoggins
+Context: Host names the strategy of using emotion to block questions after a tragedy and applies it to TPUSA.
+Tags: episode_frame, new
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:04:46
+Speaker: N-3
+Quote: That's what I mean when I say they are David Hogging us
+Context: Host explains the label.
+Tags: new
+Confidence: high
+
+---
+
+**M-166** (meme) Old Man on the Cracker Barrel Logo
+
+### Occurrence 1
+
+Video Timestamp: 00:02:53
+Speaker: N-3
+Quote: Charlie Kirk was essentially the old man on the Cracker Barrel logo
+Context: Host uses the Cracker Barrel logo scandal as an analogy for Kirk's meaning to the audience.
+Tags: analogy, new
+Confidence: high
+
+---
+
+**M-167** (meme) Christian Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:33:36
+Speaker: N-3
+Quote: I could call it Christian slop
+Context: Host label for scripture-based guilt appeals aimed at her inquiry.
+Tags: pastor, new
+Confidence: high
+
+---
+
 ## 3. Artifact Register
 
 **A-1220** Tyler Bowyer X Post Bundle

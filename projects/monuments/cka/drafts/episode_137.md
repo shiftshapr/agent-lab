@@ -1935,6 +1935,207 @@ Confidence: high
 
 ---
 
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:01:27
+Speaker: N-3
+Quote: let them eat Christian slop
+Context: Host says the PR directive is to let them eat Christian slop.
+Tags: slop, pr
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:39:34
+Speaker: N-3
+Quote: routinely feed slop to the masses
+Context: Host says the government routinely feeds slop to the public over the school strike.
+Tags: slop, iran
+Confidence: high
+
+---
+
+**M-144** (meme) The Preggo
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: his pregnancy brain started to kick in again
+Context: Host jokes Bagley's testimony shows pregnancy brain.
+Tags: pregnancy, bagley
+Confidence: high
+
+---
+
+**M-80** (meme) Jog Your Memory
+
+### Occurrence 1
+
+Video Timestamp: 00:18:36
+Speaker: N-3
+Quote: to jog your memory, this is how officer Bagley responded
+Context: Host introduces the Bagley testimony clip.
+Tags: jog memory, bagley
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:34:29
+Speaker: N-3
+Quote: now with that jogging your memory
+Context: Host asks Neff whether the hotel photo jogs his memory.
+Tags: jog memory, neff
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:52:11
+Speaker: N-3
+Quote: new signed bundles of Blackout and Make Him a Sandwich
+Context: Host plugs signed book bundles at the close.
+Tags: merch, book
+Confidence: high
+
+---
+
+**M-10** (meme) Happy Warrior
+
+### Occurrence 1
+
+Video Timestamp: 00:52:11
+Speaker: N-3
+Quote: remember to be happy warriors because that's what Charlie Kirk would want
+Context: Host signs off with the happy warrior refrain.
+Tags: closing, happy warrior
+Confidence: high
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 00:52:11
+Speaker: N-3
+Quote: they say Christ is king
+Context: Host reads a commenter's Christ is King sign-off.
+Tags: comment, closing
+Confidence: high
+
+---
+
+**M-11** (meme) MSAD
+
+### Occurrence 1
+
+Video Timestamp: 00:52:11
+Speaker: N-3
+Quote: Why hasn't the MSAD killed Candace and Tucker Carlson
+Context: Host recites Turek's earlier Mossad remark.
+Tags: mossad, turek
+Confidence: high
+
+---
+
+**M-37** (meme) Grifter
+
+### Occurrence 1
+
+Video Timestamp: 00:02:15
+Speaker: N-3
+Quote: when you get on this like Christian grift
+Context: Host labels Turek's Bible-verse approach a Christian grift.
+Tags: grift, turek
+Confidence: high
+
+---
+
+**M-74** (meme) Believe Your Own Eyes
+
+### Occurrence 1
+
+Video Timestamp: 00:07:24
+Speaker: N-3
+Quote: telling them not to believe their own eyes
+Context: Host says blue-collar workers do not buy influencers telling them to doubt their eyes.
+Tags: own eyes, influencers
+Confidence: high
+
+---
+
+**M-44** (meme) It's Giving
+
+### Occurrence 1
+
+Video Timestamp: 00:30:07
+Speaker: N-3
+Quote: So, it's giving shady Baggley. It's giving shady.
+Context: Host closes the Allan Robertson update on Bagley.
+Tags: its giving, bagley
+Confidence: high
+
+---
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:50:36
+Speaker: N-3
+Quote: What what psychological operation do you think you can impart upon the people
+Context: Host asks what psychological operation TPUSA thinks it can run on viewers.
+Tags: psyop, rooftop
+Confidence: high
+
+---
+
+**M-192** (meme) Here to Help
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: you guys know I'm here to help
+Context: Host jokes she is helping Bagley fill gaps in his testimony.
+Tags: help, bagley
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:13:19
+Speaker: N-3
+Quote: you're welcome, Turning Point USA
+Context: Host says she is doing TPUSA a favor by surfacing leads.
+Tags: help, tpusa
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:32:57
+Speaker: N-3
+Quote: us being helpful, never ever ever getting the credit
+Context: Host says her team keeps helping and never gets credit.
+Tags: help, credit
+Confidence: high
+
+### Occurrence 4
+
+Video Timestamp: 00:34:29
+Speaker: N-3
+Quote: We're always here to help.
+Context: Host closes the hotel segment with the help bit.
+Tags: help, neff
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty:** "Alan Robertson" (USU officer) – host clarifies spelling as A-L-A-N, distinct from "Allen" (A-L-L-E-N) and a verbal slip "Allan Robinson" appears at one point (autocorrected on air). Preservation: "Alan Robertson."

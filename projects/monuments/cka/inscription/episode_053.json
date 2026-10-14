@@ -3445,6 +3445,236 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 53,
+          "video_timestamp": "00:58:32",
+          "speaker_node_ref": "N-3",
+          "quote": "All of us decentralizing intelligence",
+          "context": "Host credits viewers' tips as crowd intelligence.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-16",
+      "ref": "M-16",
+      "canonical_term": "Mommy Sleuth",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 53,
+          "video_timestamp": "00:58:32",
+          "speaker_node_ref": "N-3",
+          "quote": "here I'm a mommy sleuth and I have access to this",
+          "context": "Host voices the tipster archetype as examples of crowd contributions.",
+          "confidence": "high",
+          "tags": [
+            "mommy sleuth"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 53,
+          "video_timestamp": "00:13:59",
+          "speaker_node_ref": "N-3",
+          "quote": "genocide is always wrong",
+          "context": "Host cites Boreing naming this stance as a reason for her firing.",
+          "confidence": "high",
+          "tags": [
+            "genocide",
+            "daily wire"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 53,
+          "video_timestamp": "00:37:16",
+          "speaker_node_ref": "N-3",
+          "quote": "how about you put out a statement against BBNet and Yahoo",
+          "context": "Host asks why no statement was demanded against Netanyahu.",
+          "confidence": "high",
+          "tags": [
+            "netanyahu"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 53,
+          "video_timestamp": "00:47:47",
+          "speaker_node_ref": "N-3",
+          "quote": "I'll say allegedly, but I have been writing up this person",
+          "context": "Host hedges her claim about Bowyer's job offer.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-51",
+      "ref": "M-51",
+      "canonical_term": "Cringe",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 53,
+          "video_timestamp": "00:02:12",
+          "speaker_node_ref": "N-3",
+          "quote": "the Daily Wire's cringe news show",
+          "context": "Host calls the Daily Wire show cringe.",
+          "confidence": "high",
+          "tags": [
+            "cringe"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-31",
+      "ref": "M-31",
+      "canonical_term": "Buckle Up",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 53,
+          "video_timestamp": "00:02:12",
+          "speaker_node_ref": "N-3",
+          "quote": "buckle up, boys and girls",
+          "context": "Host cue before the Daily Wire show segment.",
+          "confidence": "high",
+          "tags": [
+            "buckle up"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 53,
+          "video_timestamp": "00:54:47",
+          "speaker_node_ref": "N-3",
+          "quote": "Make Him a Sandwich and Blackout",
+          "context": "Host plugs the autographed book bundle.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "book"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-178",
+      "ref": "M-178",
+      "canonical_term": "Left a Gang",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 53,
+          "video_timestamp": "00:13:04",
+          "speaker_node_ref": "N-3",
+          "quote": "Feels like I left a gang.",
+          "context": "Host, via her cousin, compares leaving the Daily Wire to leaving a gang.",
+          "confidence": "high",
+          "tags": [
+            "gang",
+            "daily wire"
+          ]
+        },
+        {
+          "episode": 53,
+          "video_timestamp": "00:16:14",
+          "speaker_node_ref": "N-3",
+          "quote": "I have been getting jumped out for the last two years",
+          "context": "Host continues the gang image about the last two years.",
+          "confidence": "high",
+          "tags": [
+            "gang",
+            "jumped out"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-179",
+      "ref": "M-179",
+      "canonical_term": "Formidable Friend",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 53,
+          "video_timestamp": "00:39:18",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm a very formidable friend",
+          "context": "Host says what she told Boreing in the conference room.",
+          "confidence": "high",
+          "tags": [
+            "friend",
+            "loyalty"
+          ]
+        },
+        {
+          "episode": 53,
+          "video_timestamp": "00:40:17",
+          "speaker_node_ref": "N-3",
+          "quote": "I am a formidable friend",
+          "context": "Host reuses the line about Charlie and Kanye.",
+          "confidence": "high",
+          "tags": [
+            "friend",
+            "loyalty"
+          ]
+        }
+      ]
     }
   ]
 }

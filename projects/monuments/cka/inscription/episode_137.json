@@ -3040,6 +3040,318 @@
           ]
         }
       ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:01:27",
+          "speaker_node_ref": "N-3",
+          "quote": "let them eat Christian slop",
+          "context": "Host says the PR directive is to let them eat Christian slop.",
+          "confidence": "high",
+          "tags": [
+            "slop",
+            "pr"
+          ]
+        },
+        {
+          "episode": 137,
+          "video_timestamp": "00:39:34",
+          "speaker_node_ref": "N-3",
+          "quote": "routinely feed slop to the masses",
+          "context": "Host says the government routinely feeds slop to the public over the school strike.",
+          "confidence": "high",
+          "tags": [
+            "slop",
+            "iran"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-144",
+      "ref": "M-144",
+      "canonical_term": "The Preggo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "his pregnancy brain started to kick in again",
+          "context": "Host jokes Bagley's testimony shows pregnancy brain.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy",
+            "bagley"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-80",
+      "ref": "M-80",
+      "canonical_term": "Jog Your Memory",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:18:36",
+          "speaker_node_ref": "N-3",
+          "quote": "to jog your memory, this is how officer Bagley responded",
+          "context": "Host introduces the Bagley testimony clip.",
+          "confidence": "high",
+          "tags": [
+            "jog memory",
+            "bagley"
+          ]
+        },
+        {
+          "episode": 137,
+          "video_timestamp": "00:34:29",
+          "speaker_node_ref": "N-3",
+          "quote": "now with that jogging your memory",
+          "context": "Host asks Neff whether the hotel photo jogs his memory.",
+          "confidence": "high",
+          "tags": [
+            "jog memory",
+            "neff"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:52:11",
+          "speaker_node_ref": "N-3",
+          "quote": "new signed bundles of Blackout and Make Him a Sandwich",
+          "context": "Host plugs signed book bundles at the close.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "book"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-10",
+      "ref": "M-10",
+      "canonical_term": "Happy Warrior",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:52:11",
+          "speaker_node_ref": "N-3",
+          "quote": "remember to be happy warriors because that's what Charlie Kirk would want",
+          "context": "Host signs off with the happy warrior refrain.",
+          "confidence": "high",
+          "tags": [
+            "closing",
+            "happy warrior"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:52:11",
+          "speaker_node_ref": "N-3",
+          "quote": "they say Christ is king",
+          "context": "Host reads a commenter's Christ is King sign-off.",
+          "confidence": "high",
+          "tags": [
+            "comment",
+            "closing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-11",
+      "ref": "M-11",
+      "canonical_term": "MSAD",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:52:11",
+          "speaker_node_ref": "N-3",
+          "quote": "Why hasn't the MSAD killed Candace and Tucker Carlson",
+          "context": "Host recites Turek's earlier Mossad remark.",
+          "confidence": "high",
+          "tags": [
+            "mossad",
+            "turek"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-37",
+      "ref": "M-37",
+      "canonical_term": "Grifter",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:02:15",
+          "speaker_node_ref": "N-3",
+          "quote": "when you get on this like Christian grift",
+          "context": "Host labels Turek's Bible-verse approach a Christian grift.",
+          "confidence": "high",
+          "tags": [
+            "grift",
+            "turek"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-74",
+      "ref": "M-74",
+      "canonical_term": "Believe Your Own Eyes",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:07:24",
+          "speaker_node_ref": "N-3",
+          "quote": "telling them not to believe their own eyes",
+          "context": "Host says blue-collar workers do not buy influencers telling them to doubt their eyes.",
+          "confidence": "high",
+          "tags": [
+            "own eyes",
+            "influencers"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-44",
+      "ref": "M-44",
+      "canonical_term": "It's Giving",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:30:07",
+          "speaker_node_ref": "N-3",
+          "quote": "So, it's giving shady Baggley. It's giving shady.",
+          "context": "Host closes the Allan Robertson update on Bagley.",
+          "confidence": "high",
+          "tags": [
+            "its giving",
+            "bagley"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:50:36",
+          "speaker_node_ref": "N-3",
+          "quote": "What what psychological operation do you think you can impart upon the people",
+          "context": "Host asks what psychological operation TPUSA thinks it can run on viewers.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "rooftop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-192",
+      "ref": "M-192",
+      "canonical_term": "Here to Help",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 137,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "you guys know I'm here to help",
+          "context": "Host jokes she is helping Bagley fill gaps in his testimony.",
+          "confidence": "high",
+          "tags": [
+            "help",
+            "bagley"
+          ]
+        },
+        {
+          "episode": 137,
+          "video_timestamp": "00:13:19",
+          "speaker_node_ref": "N-3",
+          "quote": "you're welcome, Turning Point USA",
+          "context": "Host says she is doing TPUSA a favor by surfacing leads.",
+          "confidence": "high",
+          "tags": [
+            "help",
+            "tpusa"
+          ]
+        },
+        {
+          "episode": 137,
+          "video_timestamp": "00:32:57",
+          "speaker_node_ref": "N-3",
+          "quote": "us being helpful, never ever ever getting the credit",
+          "context": "Host says her team keeps helping and never gets credit.",
+          "confidence": "high",
+          "tags": [
+            "help",
+            "credit"
+          ]
+        },
+        {
+          "episode": 137,
+          "video_timestamp": "00:34:29",
+          "speaker_node_ref": "N-3",
+          "quote": "We're always here to help.",
+          "context": "Host closes the hotel segment with the help bit.",
+          "confidence": "high",
+          "tags": [
+            "help",
+            "neff"
+          ]
+        }
+      ]
     }
   ]
 }
