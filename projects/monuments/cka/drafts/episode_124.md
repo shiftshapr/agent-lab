@@ -1591,7 +1591,7 @@ Investigative Direction: Look for court filings or records on any agreement with
 
 **C-7216** Host Says Lance Twiggs Got Immunity and Was Not Cross-Examined Despite Hearsay Objections
 
-Claim Timestamp: 00:11:24
+Claim Timestamp: 00:12:49
 
 Claim: The host says every piece of evidence the influencers push relies on Lance Twiggs, who she says was immediately granted immunity by the feds and was not allowed to be cross-examined at this hearing even though arguments were made that his testimony amounted to hearsay.
 
@@ -1607,7 +1607,7 @@ Investigative Direction: Obtain the immunity or cooperation agreement and the he
 
 **C-7217** Host Says Feds Flooded the Zone With Brunette Decoys She Calls Maroon Boys
 
-Claim Timestamp: 00:11:24
+Claim Timestamp: 00:13:12
 
 Claim: The host says she suggested the feds intentionally flooded the zone with multiple brunette young men in similar outfits, whom she termed the maroon boys or decoys, and that she showed footage of many such men on campus.
 
@@ -1623,7 +1623,7 @@ Investigative Direction: Compare the host's published decoy footage with campus 
 
 **C-7218** Host Says Her Biggest Claim Was That Robinson Did Not Step Onto Campus
 
-Claim Timestamp: 00:11:24
+Claim Timestamp: 00:13:44
 
 Claim: The host says her biggest claim was that Tyler Robinson did not step foot onto campus that day, which is what he told his family, namely that he was around campus but not physically on it.
 
@@ -1883,7 +1883,7 @@ Investigative Direction: Compare the dates of the influencer videos with Oliver'
 
 **C-7234** Host Says Robinson's Lawyer Said Mixed Samples Have Not Been Relied On Since 1996
 
-Claim Timestamp: 00:32:59
+Claim Timestamp: 00:34:11
 
 Claim: The host says Tyler Robinson's lawyer explained at length why, since 1996, labs do not rely on mixed samples, because they confuse matters, and that the media misconstrued the ATF report by relying on a sample where Robinson was the major contributor of a mixed sample.
 
@@ -1964,7 +1964,7 @@ Investigative Direction: Ask independent forensic DNA experts to review the degr
 
 **C-7239** Host Says Samantha Carner Received Only Four of Seven Fragments Taken From Charlie's Body
 
-Claim Timestamp: 00:37:36
+Claim Timestamp: 00:39:45
 
 Claim: The host says it was weird that seven bullet fragments were reportedly taken from Charlie's body, but ATF ballistics expert Samantha Carner testified she received only four in a manila envelope, three were unusable and she was left with one, labeled 6A.
 

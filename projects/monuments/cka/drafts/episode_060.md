@@ -1451,7 +1451,7 @@ Investigative Direction: Retrieve the father's obituary and Ghawi's obituary and
 
 **C-5511** Host Says Charlie Was to Speak in Colorado Springs the Day After UVU
 
-Claim Timestamp: 00:14:50
+Claim Timestamp: 00:16:04
 
 Claim: The host says Charlie Kirk was scheduled to speak in the Colorado Springs area the day after the Utah Valley University event.
 
@@ -1465,7 +1465,7 @@ Investigative Direction: Check the TPUSA fall 2025 tour schedule for the Colorad
 
 **C-5512** Host Says Bill Cooper Predicted Military Dark Projects Before Mass Shootings
 
-Claim Timestamp: 00:14:50
+Claim Timestamp: 00:16:23
 
 Claim: The host says Bill Cooper, whom she calls the original conspiracy theorist, spoke about the military and dark military projects before there were any mass shootings and predicted that the shootings would come.
 

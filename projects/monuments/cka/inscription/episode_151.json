@@ -1761,8 +1761,8 @@
       "@type": "Claim",
       "@id": "C-3441",
       "ref": "C-3441",
-      "label": "Suspect texted on phone at position for ~1.5 minutes",
-      "claim": "In the displayed footage, the figure stands at a position and operates a phone in a texting posture for an extended period before descending.",
+      "label": "Host Says the Figure in the Footage Was Texting Before Walking Down the Stairs",
+      "claim": "The host says the footage shows the figure standing in one spot for a long time, apparently texting on his phone, before walking down the stairs.",
       "anchored_artifacts": [
         "A-2371.1"
       ],
@@ -2106,7 +2106,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:07:25",
+      "claim_timestamp": "00:08:45",
       "investigative_direction": "Find Boreing's statement and any TPUSA Faith tour announcement.",
       "transcript_snippet": "he's now talking about how he's going to be touring with Turning Point USA Faith.",
       "mentions_person_refs": [
@@ -2124,7 +2124,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:07:25",
+      "claim_timestamp": "00:08:40",
       "investigative_direction": "Ask TPUSA or Boreing whether he ever met or worked with Kirk.",
       "transcript_snippet": "He was never friends with Charlie Kirk. He didn't know Charlie Kirk.",
       "mentions_person_refs": [
@@ -2288,7 +2288,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:14:40",
+      "claim_timestamp": "00:16:12",
       "investigative_direction": "Read the warrant affidavits for the stated time of the footage and the time of the shot.",
       "transcript_snippet": "according to the police warrants, this is approximately at 11:53 in the morning. So, we are talking 30 minutes before the sound of the explosive goes off.",
       "mentions_person_refs": [
@@ -2495,7 +2495,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:32:02",
+      "claim_timestamp": "00:33:59",
       "investigative_direction": "Sweeping historical assertion recorded as said; no case-specific check.",
       "transcript_snippet": "They've never ever ever have has there ever been a period of even 5 years in this country since their founding period of one year where they were not up to no good."
     },
@@ -2604,7 +2604,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:37:35",
+      "claim_timestamp": "00:39:10",
       "investigative_direction": "Check for any police bulletin or TPUSA footage release after the 13th.",
       "transcript_snippet": "We're getting actually no information from TurningPoint as to uh who vandalized the statue. They're not looking, they're not seeking the public's help"
     },
@@ -2622,7 +2622,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:37:35",
+      "claim_timestamp": "00:39:25",
       "investigative_direction": "Confirm Turning Point Action's IRS tax status.",
       "transcript_snippet": "Turning Point Action, which is not the 501c3 charitable arm, right? That's their 501c4."
     },
@@ -2735,7 +2735,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:48:25",
+      "claim_timestamp": "00:49:47",
       "investigative_direction": "Count and triage tips received at the moretips address.",
       "transcript_snippet": "More tips at candacewowens. com about any of the footage that we showed today, about anything that you do know.",
       "mentions_person_refs": [
@@ -2756,7 +2756,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:48:25",
+      "claim_timestamp": "00:50:06",
       "investigative_direction": "Identify the surgical team from hospital records and corroborate the recusal with a second source.",
       "transcript_snippet": "who we are told uh was in the room when surgery was being conducted on Charlie at Timpanogos and who recused himself from all files due to something that took place in the room.",
       "mentions_person_refs": [

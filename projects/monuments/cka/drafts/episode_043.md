@@ -1132,7 +1132,7 @@ Investigative Direction: Check the full interview transcript for Patel's exact w
 
 **C-12485** Host asks viewers to email more tips to candaceowens.com
 
-Claim Timestamp: 00:10:04
+Claim Timestamp: 00:11:50
 
 Claim: The host invites viewers who know more about the Pierre Falcone lead to email more tips to candaceowens.com. DIA beat.
 
@@ -1147,7 +1147,7 @@ Investigative Direction: Review the tips mailbox for Falcone-related submissions
 
 **C-12486** Host says an overseas tip says TPUSA-linked people met Pierre Falcone
 
-Claim Timestamp: 00:10:04
+Claim Timestamp: 00:11:32
 
 Claim: The host says that after the previous episode she received a tip from overseas that Turning Point, people who work with it or one of its action organizations, took a meeting with Pierre Falcone, and says this cannot yet be verified.
 
@@ -1179,7 +1179,7 @@ Investigative Direction: Ask the host for any documentary basis; none is offered
 
 **C-12488** Host says Falcone lives in Scottsdale, Arizona and is a billionaire
 
-Claim Timestamp: 00:10:04
+Claim Timestamp: 00:11:59
 
 Claim: The host says the person named in the tip, Pierre Falcone, lives in Scottsdale, Arizona, where TPUSA is based, and is a billionaire.
 
@@ -1196,7 +1196,7 @@ Investigative Direction: Check Arizona property records, corporate filings and F
 
 **C-12489** Host says Falcone's scandal almost brought down the French government
 
-Claim Timestamp: 00:10:04
+Claim Timestamp: 00:12:28
 
 Claim: The host says Pierre Falcone was involved in a scandal that almost brought down the French government, involving Africa, Angola, Israel, France and the United States.
 
@@ -1305,7 +1305,7 @@ Investigative Direction: Locate the human-rights-group statements and any congre
 
 **C-12496** CorpWatch text says Gaydamak funneled billions in arms and oil-backed loans to Angola
 
-Claim Timestamp: 00:15:38
+Claim Timestamp: 00:16:58
 
 Claim: Reading a CorpWatch passage that cites a Global Witness report, the host says Arcadi Gaydamak funneled billions of dollars in arms and oil-backed loans to Angola's government in return for oil contracts with Western oil companies.
 
@@ -1528,7 +1528,7 @@ Investigative Direction: Compare with any official statement or charging documen
 
 **C-12510** Jesse Kege bought a 150gr Hornady ballistic tip round to maximize the chance of stopping in the target
 
-Claim Timestamp: 00:30:18
+Claim Timestamp: 00:31:34
 
 Claim: In the One Shot TV video, Jesse Kege says he bought the 150gr Hornady ballistic tip round specifically for the test to give the highest chance of a round stopping in the target, and that the 180gr FMJ ball is among the most common loads.
 

@@ -1571,7 +1571,7 @@ Investigative Direction: Frame-by-frame analysis of the back-camera and audience
 
 **C-4651** Connor Henderson was interning in the Timpanogos ER
 
-Claim Timestamp: 01:09:28
+Claim Timestamp: 01:10:41
 
 Claim: The host says Connor Henderson was interning in the emergency department at Timpanogos and is a long-time friend of "decoy boy number two," Zachariah Qureshi; both attended BYU at the same time.
 

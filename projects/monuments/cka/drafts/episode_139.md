@@ -2387,7 +2387,7 @@ Investigative Direction: Verify the roommate's move-out date and military obliga
 
 **C-13260** Host Suspects Lance Could Have Been a Federal Asset Mixed Up in Something in His Online Communities
 
-Claim Timestamp: 00:31:34
+Claim Timestamp: 00:32:53
 
 Claim: The host says she has always suspected, even more after the preliminary hearing, that Lance could have been a federal asset who got mixed up in something in his online communities, allegedly.
 
@@ -2622,7 +2622,7 @@ Investigative Direction: Obtain the chat's membership list and screenshots from 
 
 **C-13275** Host Says She Would Walk Into a Wilson Debate Trap
 
-Claim Timestamp: 00:58:22
+Claim Timestamp: 00:59:34
 
 Claim: Reading a viewer comment that Wilson wants to trap her into a defamation claim, the host says it is a trap she is willing to walk into.
 

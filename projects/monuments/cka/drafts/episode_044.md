@@ -1166,7 +1166,7 @@ Investigative Direction: Locate the original September 5, 1989 address and the D
 
 **C-11041** Harry Says He Skipped the Chain of Command to Pinpoint the First Sinaloa Tunnel in Six Days
 
-Claim Timestamp: 00:06:44
+Claim Timestamp: 00:08:14
 
 Claim: Reading Harry's words, the host says that in six days he planted sensors, translated data, skipped the chain of command and pinpointed the first discovered Sinaloa cartel underground rail tunnel.
 
@@ -1182,7 +1182,7 @@ Investigative Direction: Obtain JTF-6 operation records and Border Patrol Dougla
 
 **C-11042** Harry Says Some Commanders Were Working With the Cartel
 
-Claim Timestamp: 00:06:44
+Claim Timestamp: 00:08:45
 
 Claim: Reading Harry's words, the host says he and a Border Patrol agent bypassed command to seek a warrant directly, which avoided tipping off compromised commanders who were working with the cartel.
 
@@ -1294,7 +1294,7 @@ Investigative Direction: Ask Harry for the town name (transcript 'NCO, Arizona')
 
 **C-11049** Harry Says His Clearance Packet Was in the Custody of the Commander Pictured With El Chapo
 
-Claim Timestamp: 00:11:14
+Claim Timestamp: 00:12:27
 
 Claim: Reading Harry's words, the host says the clearance packet that was compromised was supposed to be in the custody of the Joint Task Force 6 commander whose picture was with El Chapo.
 
@@ -1310,7 +1310,7 @@ Investigative Direction: Identify the JTF-6 commander in 1990 and the custodian 
 
 **C-11050** Harry Says Army CID and a Tucson Prosecutor Debriefed Him and Promised Witness Protection
 
-Claim Timestamp: 00:11:14
+Claim Timestamp: 00:12:56
 
 Claim: Reading Harry's words, the host says that the next day he had a debrief with Army Criminal Investigation Division and a prosecutor from Tucson about how his ID became compromised, was told he would be put in witness protection, and had his orders restricted from counter-narcotics work and Border Patrol cooperation.
 
@@ -1890,7 +1890,7 @@ Investigative Direction: Obtain the tip emails and test any identifying detail a
 
 **C-11086** Tipsters Say Jonathan Schmidt Was Shopping for a Home in Brentwood
 
-Claim Timestamp: 00:37:30
+Claim Timestamp: 00:39:14
 
 Claim: The host says tipsters told her that the man using the name Jonathan Schmidt was shopping for a home in the Brentwood area, as seen by real estate agents.
 
@@ -1922,7 +1922,7 @@ Investigative Direction: Obtain Root Brands' and Clay Thomas' responses, if any,
 
 **C-11088** Host Says She Told Authorities of an Assassination Attempt Coordination, Naming Israel and France
 
-Claim Timestamp: 00:38:20
+Claim Timestamp: 00:37:37
 
 Claim: The host says she has been telling the feds that there is an assassination attempt and coordination, and that she has named Israel and France.
 

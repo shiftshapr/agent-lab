@@ -884,7 +884,7 @@ Investigative Direction: Obtain the manifest or customs entry showing the name u
 
 **C-5161** Host Says Wedi Machmood Came to Provo May 27 on an Egyptian Plane With No Transponder Record
 
-Claim Timestamp: 00:13:35
+Claim Timestamp: 00:15:15
 
 Claim: The host says Wedi Machmood had been in Provo before, arriving on May 27, 2025 aboard an Egyptian military plane for which there is no transponder data for that trip.
 
@@ -929,7 +929,7 @@ Investigative Direction: Seek non-ADS-B sources such as FAA flight plans, Provo 
 
 **C-5164** Host Says Project Constitution Is Confusing BTT With BTU
 
-Claim Timestamp: 00:15:32
+Claim Timestamp: 00:17:01
 
 Claim: The host says that Project Constitution's post is confusing BTT with BTU, and that she and her team were always talking about BTT.
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Ask Project Constitution which registrations and source
 
 **C-5183** Host Alleges TPUSA Is Paying Influencers for an Influence Campaign
 
-Claim Timestamp: 00:45:18
+Claim Timestamp: 00:46:33
 
 Claim: The host says she can see TPUSA's influence campaign and tells it to stop paying the influencers.
 

@@ -979,7 +979,7 @@ Investigative Direction: Trace the earliest accounts and posts pushing the 'Cand
 
 **C-9649** Host Says Daily Wire Departing Staff Sign Six-Month Non-Tucker Agreements
 
-Claim Timestamp: 00:02:12
+Claim Timestamp: 00:03:52
 
 Claim: The host says people leaving the Daily Wire have to sign agreements that they will not go work for Tucker Carlson for six months.
 
@@ -995,7 +995,7 @@ Investigative Direction: Obtain a Daily Wire separation agreement or a former em
 
 **C-9650** Host Says Tucker and Shapiro Spoke the Day Kirk Died
 
-Claim Timestamp: 00:02:12
+Claim Timestamp: 00:04:08
 
 Claim: The host says Tucker Carlson and Ben Shapiro had a nice conversation on the day Charlie Kirk died, that Carlson then sent a nice text because Shapiro had called him, and that Shapiro expected more follow-up than he got.
 

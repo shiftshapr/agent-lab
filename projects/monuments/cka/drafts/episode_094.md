@@ -1174,7 +1174,7 @@ Investigative Direction: Determine jurisdictional basis for federal custody of e
 
 **C-2772** Prosecution Plans 35 Exhibits at Probable Cause Hearing
 
-Claim Timestamp: 00:12:21
+Claim Timestamp: 00:11:37
 
 Claim: The prosecution reportedly plans to present 35 exhibits at the probable cause hearing.
 
@@ -1766,7 +1766,7 @@ Investigative Direction: Read the defense filings and any prosecution response t
 
 **C-13366** Novak Says the Defense Does Not Know Why the ATF Took Until the Last Three Weeks and the FBI Still Has Not Produced Its Data
 
-Claim Timestamp: 00:10:02
+Claim Timestamp: 00:11:27
 
 Claim: Richard Novak says he is aware of no reason why the ATF provided its data only within the last three weeks and why the FBI still has not provided its data.
 

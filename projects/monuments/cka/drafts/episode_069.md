@@ -41,7 +41,7 @@
 
 This episode is bifurcated into two evidentiary streams. The first stream introduces documentary material associated with Jeffrey Epstein – two 23andMe-kit emails (one to "Woody," one to a redacted "Sultan" referencing 9E71st Street), text-chain references involving Emmanuel Macron's "boyfriend," and a viewer-flagged Gmail-style interface (jmail.world) for reviewing the Epstein files. The second stream advances the Erika Kirk September 10 alibi investigation by playing a video clip from Tracy Martin, in which Martin confirms a roughly 15-year friendship with Erika, their joint "Romanian Angels" project, and Martin's role in styling the "left eye club" editorial photograph and designing the cuff Erika wears.
 
-The episode's largest evidentiary block, however, is geopolitical-occult lecture material: clips from a lecture by a figure consistently named "Robkea" (likely Tom Robkea / Ronkea – see Optional Flags), plus an Omega Man Radio snippet with Tom Horn and Steve Quail, advancing the proposition that Gilgamesh's remains were recovered in Iraq and that the human genome project was oriented toward reanimating Nimrod/Gilgamesh. This material is presented as commentary, not directly tied to the Charlie Kirk case, but the host reads viewer comments that fuse the two threads (COVID tests as DNA collection for Nimrod-descendant identification; Babylonian ascension framing).
+The episode's largest evidentiary block, however, is geopolitical-occult lecture material: clips from a lecture by a figure consistently named "Rob Skiba" (likely Tom Rob Skiba / Rob Skiba – see Optional Flags), plus an Omega Man Radio snippet with Tom Horn and Steve Quayle, advancing the proposition that Gilgamesh's remains were recovered in Iraq and that the human genome project was oriented toward reanimating Nimrod/Gilgamesh. This material is presented as commentary, not directly tied to the Charlie Kirk case, but the host reads viewer comments that fuse the two threads (COVID tests as DNA collection for Nimrod-descendant identification; Babylonian ascension framing).
 
 Structurally, the episode continues the alibi line of investigation begun in prior episodes while opening a parallel Babylon/Gilgamesh/CERN research line. No direct artifact anchors the host's central alibi claim (that Erika was with Tracy Martin, not Lori Frantzve, on September 10); the claim rests on tips and on Tracy Martin's video statement about the friendship's existence and duration.
 
@@ -77,9 +77,9 @@ Confidence Level: Medium
 
 ---
 
-**A-1739** Robkea Babylon Rising Lecture Clip Bundle
+**A-1739** Rob Skiba Babylon Rising Lecture Clip Bundle
 
-**A-1739.1** Robkea segment on Mount Hermon / Book of Enoch / 33.33° coordinates
+**A-1739.1** Rob Skiba segment on Mount Hermon / Book of Enoch / 33.33° coordinates
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -89,9 +89,9 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Book of Enoch; 200 fallen angels (Watchers) landing at Mount Hermon, southern Lebanon; topographic outline resembling a goat; Aazil/goat association in Leviticus 16; David Flynn research; coordinate 33.33°N × 33.33°E from Paris prime meridian; "devil's line."*
 
-*Related: C-2300, C-2311, N-547 (Robkea), N-554 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
+*Related: C-2300, C-2311, N-547 (Rob Skiba), N-554 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
 
-**A-1739.2** Robkea segment on Gilgamesh / CERN / 666
+**A-1739.2** Rob Skiba segment on Gilgamesh / CERN / 666
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -101,13 +101,13 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Gilgamesh as 1/3 man and 2/3 God (33.33% / 66.6%); carbon molecule 6/6/6 → "666"; CERN Hadron Collider stated goal of recreating Big Bang; CERN logo resembling three 6s; Shiva statue at CERN.*
 
-*Related: C-2301, C-2311, N-547 (Robkea)*
+*Related: C-2301, C-2311, N-547 (Rob Skiba)*
 
 ---
 
 **A-1740** Omega Man Radio Clip Bundle
 
-**A-1740.1** Tom Horn and Steve Quail segment on Gilgamesh remains extraction
+**A-1740.1** Tom Horn and Steve Quayle segment on Gilgamesh remains extraction
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -115,9 +115,9 @@ Video Timestamp: 00:14:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played in full)
 
-*Display/Read content: 2003 find of Gilgamesh body in Iraq; Tom Horn interjection citing a "special operations general" who stated remains were "in a state of remarkable preservation"; proposition that the U.S. military took possession of the dig; Steve Quail's claim that "the whole point was to extract the DNA" and that the human genome project was oriented toward "locate specific genetic markers for the disembodied spirits to reanimate their host body that's brought back."*
+*Display/Read content: 2003 find of Gilgamesh body in Iraq; Tom Horn interjection citing a "special operations general" who stated remains were "in a state of remarkable preservation"; proposition that the U.S. military took possession of the dig; Steve Quayle's claim that "the whole point was to extract the DNA" and that the human genome project was oriented toward "locate specific genetic markers for the disembodied spirits to reanimate their host body that's brought back."*
 
-*Related: C-2302, C-2303, N-552 (Tom Horn), N-553 (Steve Quail), N-10490 (Gilgamesh Remains DNA Extraction Claim)*
+*Related: C-2302, C-2303, N-552 (Tom Horn), N-553 (Steve Quayle), N-10490 (Gilgamesh Remains DNA Extraction Claim)*
 
 ---
 
@@ -213,7 +213,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Fully believe the CO tests were just to collect DNA. That's why it doesn't matter if they were accurate. Also, maybe the collecting of DNA is to find Nimrod's descendants."*
 
-*Related: C-2311, N-547 (Robkea), N-10491 (COVID Test DNA Collection Hypothesis)*
+*Related: C-2311, N-547 (Rob Skiba), N-10491 (COVID Test DNA Collection Hypothesis)*
 
 **A-1743.6** Bobby comment re: Satan as counterfeiter
 
@@ -237,7 +237,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Rob was amazing and I'm so glad that you found his work. We are in a battle um thousands of years long and it is all about the Babylonian ascension."*
 
-*Related: C-2313, N-547 (Robkea)*
+*Related: C-2313, N-547 (Rob Skiba)*
 
 ---
 
@@ -283,7 +283,7 @@ Investigative Pressure: High
 
 *Related: A-1741.1, C-2304, C-2305, N-2 (Erica Kirk), N-10485, N-10486*
 
-**N-547** Robkea
+**N-547** Rob Skiba
 
 Lecturer whose "Babylon Rising" speech is played at length in this episode; posits Tower of Babel as technology, Mount Hermon at 33.33°N 33.33°E as fallen-angel landing site, Gilgamesh/Nimrod identification, and CERN/666 symbolism. Host reports an email from the lecturer's son thanking her.
 
@@ -303,9 +303,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-2302, N-553 (Steve Quail), N-10490*
+*Related: A-1740.1, C-2302, N-553 (Steve Quayle), N-10490*
 
-**N-553** Steve Quail
+**N-553** Steve Quayle
 
 Radio co-host cited via Omega Man Radio clip; asserts human genome project was oriented toward genetic markers for disembodied spirits reanimating Nimrod/Gilgamesh.
 
@@ -318,14 +318,14 @@ Investigative Pressure: Low
 
 **N-554** David Flynn
 
-Researcher cited by Robkea as having identified the Mount Hermon coordinate (33.33°N 33.33°E from Paris prime meridian) and the "devil's line." Reported by Robkea as recently deceased.
+Researcher cited by Rob Skiba as having identified the Mount Hermon coordinate (33.33°N 33.33°E from Paris prime meridian) and the "devil's line." Reported by Rob Skiba as recently deceased.
 
 Evidence Count: 1
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, N-547 (Robkea), N-10489*
+*Related: A-1739.1, N-547 (Rob Skiba), N-10489*
 
 **N-495** Lori Frantzve
 
@@ -380,7 +380,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1743.3, A-1743.6, C-2309, C-2312, N-547 (Robkea)*
+*Related: A-1743.3, A-1743.6, C-2309, C-2312, N-547 (Rob Skiba)*
 
 **N-17** Rob McCoy
 
@@ -452,25 +452,25 @@ Investigative Pressure: Medium
 
 **N-10489** Mount Hermon 33.33° Coordinate Investigation
 
-Persistent target. Robkea's lecture posits fallen-angel landing coordinate of 33.33°N 33.33°E from Paris prime meridian, citing David Flynn.
+Persistent target. Rob Skiba's lecture posits fallen-angel landing coordinate of 33.33°N 33.33°E from Paris prime meridian, citing David Flynn.
 
 Evidence Count: 2
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, N-547 (Robkea), N-554 (David Flynn)*
+*Related: A-1739.1, N-547 (Rob Skiba), N-554 (David Flynn)*
 
 **N-10490** Gilgamesh Remains DNA Extraction Claim
 
-Persistent target. Tom Horn / Steve Quail assert U.S. military recovered Gilgamesh remains in "remarkable preservation" and that human genome project aimed to "reanimate" via genetic markers.
+Persistent target. Tom Horn / Steve Quayle assert U.S. military recovered Gilgamesh remains in "remarkable preservation" and that human genome project aimed to "reanimate" via genetic markers.
 
 Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, N-552 (Tom Horn), N-553 (Steve Quail)*
+*Related: A-1740.1, N-552 (Tom Horn), N-553 (Steve Quayle)*
 
 **N-10491** COVID Test DNA Collection Hypothesis
 
@@ -481,7 +481,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1743.5, N-547 (Robkea), N-50 (Sigmund Freud)*
+*Related: A-1743.5, N-547 (Rob Skiba), N-50 (Sigmund Freud)*
 
 ---
 
@@ -788,11 +788,11 @@ Investigative Direction: Identify the redacted recipient "Sultan" within the Eps
 
 ---
 
-**C-2300** Robkea posits Mount Hermon as the 33.33°N × 33.33°E landing site of 200 fallen angels
+**C-2300** Rob Skiba posits Mount Hermon as the 33.33°N × 33.33°E landing site of 200 fallen angels
 
 Claim Timestamp: 00:05:43
 
-Claim: In a lecture clip, Robkea states that the Book of Enoch identifies 200 Watchers / fallen angels as landing at Mount Hermon in southern Lebanon, and that David Flynn identified this location as 33.33°N by 33.33°E from the Paris prime meridian.
+Claim: In a lecture clip, Rob Skiba states that the Book of Enoch identifies 200 Watchers / fallen angels as landing at Mount Hermon in southern Lebanon, and that David Flynn identified this location as 33.33°N by 33.33°E from the Paris prime meridian.
 
 Anchored Artifacts: A-1739.1
 Mentions: N-547, N-554
@@ -803,11 +803,11 @@ Investigative Direction: Verify David Flynn's published coordinate claim indepen
 
 ---
 
-**C-2301** Robkea posits Gilgamesh as 2/3 God and 1/3 man and links CERN's logo to 666
+**C-2301** Rob Skiba posits Gilgamesh as 2/3 God and 1/3 man and links CERN's logo to 666
 
 Claim Timestamp: 00:10:17
 
-Claim: Robkea states that Gilgamesh was described as two-thirds God and one-third man, that the carbon molecule's 6/6/6 structure equates to the number of man, and that CERN's logo resembles three stacked 6s.
+Claim: Rob Skiba states that Gilgamesh was described as two-thirds God and one-third man, that the carbon molecule's 6/6/6 structure equates to the number of man, and that CERN's logo resembles three stacked 6s.
 
 Anchored Artifacts: A-1739.2
 Mentions: N-547
@@ -833,11 +833,11 @@ Investigative Direction: Identify the named general; verify the 2003 Iraq dig re
 
 ---
 
-**C-2303** Steve Quail asserts human genome project aimed at genetic markers to "reanimate" Nimrod/Gilgamesh
+**C-2303** Steve Quayle asserts human genome project aimed at genetic markers to "reanimate" Nimrod/Gilgamesh
 
 Claim Timestamp: 00:15:55
 
-Claim: Steve Quail states on Omega Man Radio that "the whole point" of the Iraq dig and the human genome project was to locate genetic markers that would allow disembodied spirits to "reanimate" Nimrod/Gilgamesh's host body.
+Claim: Steve Quayle says on Omega Man Radio that the point of the Gilgamesh dig was to extract the DNA, and that he has also been told the human genome project aims to locate genetic markers that would let disembodied spirits reanimate their host body.
 
 Anchored Artifacts: A-1740.1
 Mentions: N-553
@@ -933,14 +933,14 @@ Investigative Direction: Ascertain Tatiana's intended phrase; assess consistency
 
 ---
 
-**C-2310** Angie comment addresses "Ben" / "Benjamin" as a member of "team Candace for Life"
+**C-2310** Host Taunts Ben Shapiro as "Benjamin" While Reading a Viewer Comment
 
 Claim Timestamp: 00:39:16
 
-Claim: A viewer comment (Angie) greets "Ben" as part of "team Candace for Life." Host addresses the recipient as "Benjamin" and states he watches every episode.
+Claim: After reading Angie's comment ("Hi Ben, team Candace for Life"), the host addresses Ben Shapiro as "Benjamin", saying he watches every episode and produces clips from it.
 
 Anchored Artifacts: A-1743.4
-Mentions: N-556
+Mentions: N-97
 
 
 Investigative Direction: Identify the production-staff role, if any, of "Benjamin" referenced by host; resolve the Ben / Benjamin discrepancy.
@@ -976,17 +976,17 @@ Investigative Direction: This is theological commentary; no factual verification
 
 ---
 
-**C-2313** American Jetet comment endorses Robkea's work and frames the conflict as "Babylonian ascension"
+**C-2313** American Jetet comment endorses Rob Skiba's work and frames the conflict as "Babylonian ascension"
 
 Claim Timestamp: 00:40:23
 
-Claim: A viewer comment (American Jetet) endorses Robkea's work and frames the underlying conflict as a millennia-long battle over "Babylonian ascension."
+Claim: A viewer comment (American Jetet) endorses Rob Skiba's work and frames the underlying conflict as a millennia-long battle over "Babylonian ascension."
 
 Anchored Artifacts: A-1743.7
 Mentions: N-547
 
 
-Investigative Direction: Document the convergence of host and viewer framing; assess whether "Babylonian ascension" originates with Robkea, Flynn, or earlier esoteric sources.
+Investigative Direction: Document the convergence of host and viewer framing; assess whether "Babylonian ascension" originates with Rob Skiba, Flynn, or earlier esoteric sources.
 
 ---
 
@@ -1056,7 +1056,7 @@ Investigative Direction: The allegation is a matter of public record in court an
 
 **C-12591** Host Says 23andMe Formed in 2005 After the Iraq Invasion
 
-Claim Timestamp: 00:01:00
+Claim Timestamp: 00:02:54
 
 Claim: The host says the now-bankrupt company 23andMe came together in 2005, when people began sending in DNA kits, and invites viewers to link it to the military's activity in Iraq.
 
@@ -1072,7 +1072,7 @@ Investigative Direction: Check 23andMe's founding and launch dates and its bankr
 
 **C-12592** Host Says the US Extracted Gilgamesh's Tomb Roughly Two Years After the Mid-2003 Invasion
 
-Claim Timestamp: 00:01:00
+Claim Timestamp: 00:02:46
 
 Claim: The host says the US invaded Iraq in mid-2003 and extracted Gilgamesh's tomb roughly two years later.
 
@@ -1086,26 +1086,26 @@ Investigative Direction: Identify any record of an extraction by US forces; the 
 
 ---
 
-**C-12593** Host Says Robkea Wrote Babylon Rising and the Material Reached Her by Email Tip
+**C-12593** Host Says Rob Skiba Wrote Babylon Rising and the Material Reached Her by Email Tip
 
 Claim Timestamp: 00:03:10
 
-Claim: The host says Robkea wrote a book entitled Babylon Rising and that the material came to her from an email tip.
+Claim: The host says Rob Skiba wrote a book entitled Babylon Rising and that the material came to her from an email tip.
 
-Transcript Snippet: I mentioned to you guys this man named Robkea yesterday. He wrote a book entitled Babylon Rising.
+Transcript Snippet: I mentioned to you guys this man named Rob Skiba yesterday. He wrote a book entitled Babylon Rising.
 
 Anchored Artifacts: 
 Mentions: N-547, N-3
 Tags: relevance:tangential
-Investigative Direction: Confirm the author's real name and the book's publication details; the transcript spelling 'Robkea' is probably a mis-transcription.
+Investigative Direction: Confirm the author's real name and the book's publication details; the transcript spelling 'Rob Skiba' is probably a mis-transcription.
 
 ---
 
-**C-12594** Host Says It Is Alleged Robkea Was Murdered for His Research
+**C-12594** Host Says It Is Alleged Rob Skiba Was Murdered for His Research
 
 Claim Timestamp: 00:03:20
 
-Claim: The host says it is alleged that Robkea was murdered for the research he was putting together, because he was perhaps getting too close to the elites' ultimate project.
+Claim: The host says it is alleged that Rob Skiba was murdered for the research he was putting together, because he was perhaps getting too close to the elites' ultimate project.
 
 Transcript Snippet: this man, it is alleged, was actually murdered for some of the research and the pieces that he were putting together
 
@@ -1116,11 +1116,11 @@ Investigative Direction: Locate any death record or reporting on the cause of de
 
 ---
 
-**C-12595** Host Says Robkea's Son Emailed Her to Thank Her
+**C-12595** Host Says Rob Skiba's Son Emailed Her to Thank Her
 
 Claim Timestamp: 00:03:30
 
-Claim: The host says Robkea's son emailed her the previous day thanking her for bringing up his father and for his father's work continuing.
+Claim: The host says Rob Skiba's son emailed her the previous day thanking her for bringing up his father and for his father's work continuing.
 
 Transcript Snippet: his son emailed me yesterday thanking me for bringing up his father and grateful that his father father's work is still carrying on.
 
@@ -1146,26 +1146,26 @@ Investigative Direction: This is a sweeping thematic assertion; no specific reco
 
 ---
 
-**C-12597** Host Says Robkea Posits the Tower of Babel Was a Technology to Reach the Heavenly Realm
+**C-12597** Host Says Rob Skiba Posits the Tower of Babel Was a Technology to Reach the Heavenly Realm
 
 Claim Timestamp: 00:04:38
 
-Claim: The host says Robkea theorises that the Tower of Babel was a technology built to get back into the heavenly realm rather than a problem of height.
+Claim: The host says Rob Skiba theorises that the Tower of Babel was a technology built to get back into the heavenly realm rather than a problem of height.
 
 Transcript Snippet: this tower that was being built was a technology because they wanted to get back into the heavenly realm.
 
 Anchored Artifacts: 
 Mentions: N-547
 Tags: relevance:tangential
-Investigative Direction: Locate the lecture and book passage; this is Robkea's theory, presented by the host as what the elites believe.
+Investigative Direction: Locate the lecture and book passage; this is Rob Skiba's theory, presented by the host as what the elites believe.
 
 ---
 
-**C-12598** Robkea Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Aazil to the Scapegoat
+**C-12598** Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Aazil to the Scapegoat
 
 Claim Timestamp: 00:05:43
 
-Claim: In the played clip, Robkea says Mount Hermon's outline forms the shape of a goat and that the fallen angel Aazil is associated with the goat and with the scapegoat of Leviticus chapter 16.
+Claim: In the played clip, Rob Skiba says Mount Hermon's outline forms the shape of a goat and that the fallen angel Aazil is associated with the goat and with the scapegoat of Leviticus chapter 16.
 
 Transcript Snippet: It's very interesting that it actually forms the shape of a goat.
 
@@ -1177,11 +1177,11 @@ Investigative Direction: Check the lecture's imagery and the Leviticus 16 readin
 
 ---
 
-**C-12599** Robkea Says David Flynn Recently Passed Away
+**C-12599** Rob Skiba Says David Flynn Recently Passed Away
 
 Claim Timestamp: 00:06:31
 
-Claim: In the played clip, Robkea says David Flynn, who identified the Mount Hermon coordinates, recently passed away.
+Claim: In the played clip, Rob Skiba says David Flynn, who identified the Mount Hermon coordinates, recently passed away.
 
 Transcript Snippet: He recently passed away, but he turned the world upside down with some of his research.
 
@@ -1193,11 +1193,11 @@ Investigative Direction: Confirm Flynn's date of death and compare with the lect
 
 ---
 
-**C-12600** Robkea Says a Line From Mount Hermon to the Paris Meridian Is Called the Devil's Line
+**C-12600** Rob Skiba Says a Line From Mount Hermon to the Paris Meridian Is Called the Devil's Line
 
 Claim Timestamp: 00:06:50
 
-Claim: In the played clip, Robkea says that drawing a line from the Hermon marker to the Paris prime meridian produces what the occult calls the devil's line, and that he checked this himself on Google Earth.
+Claim: In the played clip, Rob Skiba says that drawing a line from the Hermon marker to the Paris prime meridian produces what the occult calls the devil's line, and that he checked this himself on Google Earth.
 
 Transcript Snippet: And that is in the occult is referred to as the devil's line.
 
@@ -1300,11 +1300,11 @@ Investigative Direction: Theological recap with no checkable record.
 
 ---
 
-**C-12607** Host Says Robkea Theorises Nimrod Became Known as Other Names Including Gilgamesh
+**C-12607** Host Says Rob Skiba Theorises Nimrod Became Known as Other Names Including Gilgamesh
 
 Claim Timestamp: 00:09:20
 
-Claim: The host says that, in Robkea's theory, once languages were confused Nimrod became known under different names including Baal, Tammuz and Gilgamesh.
+Claim: The host says that, in Rob Skiba's theory, once languages were confused Nimrod became known under different names including Baal, Tammuz and Gilgamesh.
 
 Transcript Snippet: Nimrod uh became known as different names. Bal, Tamas, Gilgamesh
 
@@ -1317,11 +1317,11 @@ Investigative Direction: Compare with scholarly treatments of Nimrod-Gilgamesh i
 
 ---
 
-**C-12608** Host Says Robkea Believes the Elites Are Working to Resurrect Nimrod or Gilgamesh as the Antichrist
+**C-12608** Host Says Rob Skiba Believes the Elites Are Working to Resurrect Nimrod or Gilgamesh as the Antichrist
 
 Claim Timestamp: 00:09:45
 
-Claim: The host says Robkea believes the elites view Nimrod or Gilgamesh as the Antichrist and are working to resurrect him.
+Claim: The host says Rob Skiba believes the elites view Nimrod or Gilgamesh as the Antichrist and are working to resurrect him.
 
 Transcript Snippet: he believes that the elites view Nimrod and or Gilgamesh as the antichrist that they are working to try to resurrect for exactly that reason.
 
@@ -1333,11 +1333,11 @@ Investigative Direction: Locate the lecture text; this is one lecturer's belief 
 
 ---
 
-**C-12609** Robkea Says CERN's Stated Objective Is to Recreate the Big Bang
+**C-12609** Rob Skiba Says CERN's Stated Objective Is to Recreate the Big Bang
 
 Claim Timestamp: 00:10:50
 
-Claim: In the played clip, Robkea says CERN's stated objective is to recreate the Big Bang and find the God particle.
+Claim: In the played clip, Rob Skiba says CERN's stated objective is to recreate the Big Bang and find the God particle.
 
 Transcript Snippet: their stated objective is to recreate the Big Bang.
 
@@ -1353,7 +1353,7 @@ Investigative Direction: Compare with CERN's published mission statement.
 
 Claim Timestamp: 00:12:10
 
-Claim: The host says it is a fact that CERN has a Shiva statue, which Robkea says stands outside the front door.
+Claim: The host says it is a fact that CERN has a Shiva statue, which Rob Skiba says stands outside the front door.
 
 Transcript Snippet: it is just a fact that they do have that Shiva structure at CERN.
 
@@ -1444,16 +1444,16 @@ Investigative Direction: Obtain the original Omega Man Radio broadcast; the clip
 
 ---
 
-**C-12616** Host Says the US Began Its Iraq Occupation Phase One Month After the Find
+**C-12616** In a Clip the Host Plays, Rob Skiba Says the US Began Its Iraq Occupation Phase One Month After the Find
 
 Claim Timestamp: 00:15:50
 
-Claim: The host says the US military started the occupation phase of Iraq one month after the 2003 find of Gilgamesh's body.
+Claim: In a clip the host plays, Rob Skiba says the US military started the occupation phase of Iraq one month after the 2003 find of Gilgamesh's body.
 
 Transcript Snippet: Interesting that the US military started its military occupation phase of Iraq one month later.
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-547
 Related Nodes: N-10480
 Tags: relevance:tangential
 Investigative Direction: The transcript does not give a date for the alleged find; compare against the invasion and occupation timeline.
@@ -1525,7 +1525,7 @@ Investigative Direction: An interpretive claim about motives with no checkable r
 
 **C-12621** Host Says She Has Heard the Ukraine War Could Be About Something Ancient
 
-Claim Timestamp: 00:17:40
+Claim Timestamp: 00:17:09
 
 Claim: The host says she has heard that even the war in Ukraine could involve something ancient that the elites are trying to find.
 
@@ -2325,7 +2325,7 @@ Investigative Direction: A sweeping assertion with no checkable record.
 
 # Optional Flags
 
-- **Name uncertainty (Robkea / Ronkea):** The lecturer is rendered as "Robkea" once and "Ronkea" multiple times in the transcript. Preserved as "Robkea" with this flag. Likely candidate identities include Tom Robkea / a co-author of *Babylon Rising*; not independently confirmed in this episode.
+- **Name uncertainty (Rob Skiba / Rob Skiba):** The lecturer is rendered as "Rob Skiba" once and "Rob Skiba" multiple times in the transcript. Preserved as "Rob Skiba" with this flag. Likely candidate identities include Tom Rob Skiba / a co-author of *Babylon Rising*; not independently confirmed in this episode.
 - **Name uncertainty (Andrew Kolvet / Kulvat / Kovet):** Transcribed inconsistently in the source. Preserved as "Andrew Kolvet" with flag.
 - **Artifact verbally referenced but not shown (A-1742.1):** Host references "text chains," a shown "photo of Macron's boyfriend," and Steve Bannon chat, but no visual display of these items is confirmed in the transcript. Treated as a verbal reference rather than a verified visual artifact.
 - **Name uncertainty (Tracy Martin husband's name):** Host offers "Thomas Martin" tentatively. Not independently verified.
@@ -2336,8 +2336,8 @@ Investigative Direction: A sweeping assertion with no checkable record.
 - **Tip-based claim not inscribed:** Host's central assertion that Erika Kirk was with Tracy Martin (not Lori Frantzve) on September 10, 2025 is based on viewer tips referenced in this episode but is not anchored to any artifact in this episode. Per the Claim Admission Test (artifact anchor + falsifiability + rhetoric removal), it fails the artifact anchor test and is therefore not inscribed in the Claim Register. The persistent target N-10485 carries it forward for future artifact anchoring.
 - **Egyptian-plane assertion not inscribed:** Host's claim that a plane transponded on the tarmac with active communication is presented as host assertion, not anchored to a displayed artifact in this episode. Not inscribed.
 - **23andMe-kit email authenticity:** Emails are read aloud by host; underlying screenshots, headers, or DOJ attribution are not independently confirmed in this episode. Confidence Level: Medium.
-- **Omega Man Radio clip attribution:** Host identifies the speakers as Tom Horn and Steve Quail; the original episode date and full context are not provided. Artifact should be cross-referenced to the source episode before further claim inscription.
-- **Mount Hermon coordinate claim:** Posited by Robkea citing David Flynn; no independent verification cited. Confidence Level for the coordinates themselves: Low.
+- **Omega Man Radio clip attribution:** Host identifies the speakers as Tom Horn and Steve Quayle; the original episode date and full context are not provided. Artifact should be cross-referenced to the source episode before further claim inscription.
+- **Mount Hermon coordinate claim:** Posited by Rob Skiba citing David Flynn; no independent verification cited. Confidence Level for the coordinates themselves: Low.
 
 ## 6. Meme Register
 

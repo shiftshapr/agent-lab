@@ -1222,7 +1222,7 @@ Investigative Direction: Obtain the original message with metadata and the secur
 
 **C-6034** Played message: security team said campus police and its own team would cover the event, with 11 on site
 
-Claim Timestamp: 00:19:25
+Claim Timestamp: 00:18:56
 
 Claim: In the message Wilson read, Charlie Kirk's security team wrote that law enforcement was supportive, that the next day's event would be covered by its team and campus police, with patrol units available and 11 on site.
 

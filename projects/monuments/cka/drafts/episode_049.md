@@ -1374,7 +1374,7 @@ Investigative Direction: Obtain the photographs and the records of how they were
 
 **C-5314** Mitch says the government believed 60 to 80 percent of cocaine came through Douglas, Arizona
 
-Claim Timestamp: 00:29:17
+Claim Timestamp: 00:30:50
 
 Claim: Mitch says there was long-standing suspicion that the federal government knew 60 to 80 percent of the cocaine was coming through the Douglas, Arizona area, which is why the task force was called JTF6.
 
@@ -1479,7 +1479,7 @@ Investigative Direction: Obtain the Fort Huachuca CID reports and Mitch's record
 
 **C-5321** Host says the gag order expired in May and prompted the trip
 
-Claim Timestamp: 00:35:09
+Claim Timestamp: 00:36:31
 
 Claim: The host says Mitch's gag order or non-disclosure agreement expired in May of this year, after which he decided to go to Fort Huachuca for the original paperwork.
 

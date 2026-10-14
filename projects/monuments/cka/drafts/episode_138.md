@@ -1150,11 +1150,11 @@ Investigative Direction: Obtain the original preliminary-hearing exhibit; confir
 
 ---
 
-**C-3225** Nate Walker Transitioned From Ground Floor With Bag to Upstairs Without Bag Between ~12:15 and ~12:25
+**C-3225** Host Says Footage Shows Nate Walker Upstairs Without His Bag by About 12:25
 
 Claim Timestamp: 00:23:50–00:25:45
 
-Claim: Footage shows Nate Walker present in a bright blue shirt with bag speaking with Dan Flood at approximately 12:15, then at approximately 12:25 near Hall's walkway without bag, putting on sunglasses, and later walking downstairs.
+Claim: The host says footage shows Nate Walker in a bright blue shirt with his bag speaking with Dan Flood at about 12:15, then upstairs near the Hall of Flags walkway at about 12:25 without his bag, putting on sunglasses, and about two minutes later walking downstairs.
 
 Anchored Artifacts: A-2248.1, A-2248.2, A-2248.3
 Mentions: N-1, N-274, N-510
@@ -1316,7 +1316,7 @@ Investigative Direction: Compare commenter characterization against Shady Lady K
 
 **C-3762** Host says it is a lie that Tyler Robinson and his partner Lance are transgender
 
-Claim Timestamp: 00:05:02
+Claim Timestamp: 00:06:43
 
 Claim: In a list of claims about the case she says were false, the host says it is a lie that Tyler Robinson and his partner Lance are transgender; she also lists the claims that his father turned him in and that a 4K video shows him taking the shot.
 

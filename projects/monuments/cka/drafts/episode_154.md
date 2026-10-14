@@ -902,7 +902,7 @@ Investigative Direction: Cross-check against TPUSA's prior statements on event s
 
 **C-3504** Politico Published Profile Of Blake Neff
 
-Claim Timestamp: 00:45:02
+Claim Timestamp: 00:46:28
 
 Claim: Politico published a profile of Blake Neff titled "Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed" (author Ian Ward).
 
@@ -1128,7 +1128,7 @@ Investigative Direction: Review TPUSA and UVU promotion records for the Septembe
 
 **C-11808** TPUSA Official Tells ABC the Form Was Submitted in Early July With 200 Plus Selected
 
-Claim Timestamp: 00:04:04
+Claim Timestamp: 00:05:23
 
 Claim: The host reads a TPUSA official's statement to ABC News that on an online form submitted in early July a chapter member selected 200 plus as the maximum attendance, which differs from the mid-July date the host gave for the form.
 
@@ -1177,7 +1177,7 @@ Investigative Direction: Compare crowd footage from September 10 with footage of
 
 **C-11811** Redacted UVU Sender Suggested Fulton Library Quad on August 21
 
-Claim Timestamp: 00:04:04
+Claim Timestamp: 00:06:21
 
 Claim: The host reads that an unnamed person with a UVU email address wrote on August 21 suggesting the group would be better placed at the Fulton Library Quad if it drew a large crowd, while the event stayed in the Student Center courtyard.
 
@@ -1226,7 +1226,7 @@ Investigative Direction: Obtain the TPUSA security roster and equipment list for
 
 **C-11814** Host Says TPUSA Now Says Its Security Was Not Equipped After Earlier Saying It Was
 
-Claim Timestamp: 00:07:21
+Claim Timestamp: 00:08:43
 
 Claim: The host says TPUSA in 2025 explained away the missing ambulance by saying its safety team was remarkably equipped, while in the current filing it is no longer equipped, and that TPUSA first owned the decision and now says others should have stopped it.
 
@@ -1309,7 +1309,7 @@ Investigative Direction: White House event records and coverage of the October 2
 
 **C-11819** Host Says Charlie Called the Attacks Coordinated in November 2019
 
-Claim Timestamp: 00:09:45
+Claim Timestamp: 00:11:18
 
 Claim: The host says that in November 2019 she and Charlie noticed people trying to force one of them to make a statement about the other, and that Charlie texted her that it felt coordinated and he did not know who was behind it.
 
@@ -1325,7 +1325,7 @@ Investigative Direction: Authenticate the November 2019 Charlie-Candace texts th
 
 **C-11820** Host Says Erika Frantzve Began Dating Charlie Fully in Public in 2019
 
-Claim Timestamp: 00:09:45
+Claim Timestamp: 00:11:07
 
 Claim: The host says 2019 is when Charlie began dating Erika Frantzve fully in public.
 
@@ -1341,7 +1341,7 @@ Investigative Direction: Public records and posts showing when Charlie and Erika
 
 **C-11821** Host Infers Kolvet Copied the Forwarded Message From Telegram
 
-Claim Timestamp: 00:09:45
+Claim Timestamp: 00:12:38
 
 Claim: The host says the forwarded November 12, 2019 message shows its date and time European style, which she infers means Kolvet copied it from Telegram, and that she did not have Erika on Telegram or know who "E" was.
 
@@ -1357,7 +1357,7 @@ Investigative Direction: Examine the screenshot's date format and any Telegram e
 
 **C-11822** Kolvet Attributed the Forwarded Message to the Groypers' Walls
 
-Claim Timestamp: 00:09:45
+Claim Timestamp: 00:13:26
 
 Claim: The host says that when she asked who wrote the forwarded message about a public feud, Kolvet answered that the "Graers" wrote it on their walls and later said it was on their blogs.
 
@@ -1389,7 +1389,7 @@ Investigative Direction: Confirm from the thread that "Charlie's girlfriend" is 
 
 **C-11824** Host Says Kolvet Gave No Source and Went Silent Until the Next Day
 
-Claim Timestamp: 00:14:00
+Claim Timestamp: 00:15:36
 
 Claim: The host says that when she asked where the text came from, Kolvet said he was not sure and would find it, then did not reply until the next day.
 
@@ -1405,7 +1405,7 @@ Investigative Direction: Review the full thread timestamps for the gap between h
 
 **C-11825** Host Says Kolvet Repeated in 2025 the Narrative He Had Called a Groyper Invention
 
-Claim Timestamp: 00:14:00
+Claim Timestamp: 00:15:20
 
 Claim: The host says that in 2025 Kolvet repeated the narrative that Charlie feared Candace, which in 2019 he had told her and Charlie came from groyper blogs.
 
@@ -1454,7 +1454,7 @@ Investigative Direction: Locate the Newsweek letter and the school newsletter wo
 
 **C-11828** Host Alleges Mandated Assemblies Let TPUSA Inflate Attendance for Donors
 
-Claim Timestamp: 00:20:36
+Claim Timestamp: 00:23:28
 
 Claim: The host says, in her reply to Kolvet, that students were forced to attend an assembly they did not want to attend so that TPUSA could lie to donors about attendance numbers.
 
@@ -1568,7 +1568,7 @@ Investigative Direction: Talk to former TPUSA communications staff about the med
 
 **C-11835** Host Says Erika Started the Proclaim 365 Clothing Brand When She Met Charlie
 
-Claim Timestamp: 00:35:33
+Claim Timestamp: 00:37:01
 
 Claim: The host says Erika had a Christian clothing brand called Proclaim 365 that she started right when she met Charlie, and that the host cannot work out how it functions or whether it is profitable.
 
@@ -1632,7 +1632,7 @@ Investigative Direction: Check Empress Films' Dando documentary credits and the 
 
 **C-11839** Host Says Empress Films Staff Are Openly Left-Leaning
 
-Claim Timestamp: 00:41:05
+Claim Timestamp: 00:43:39
 
 Claim: The host says the Empress Films staff are proud feminists and pro-LGBTQ and that one employee wore a shirt she reads as "slay the patriarchy," which she says makes the company an odd match for Erika Kirk and Kolvet.
 
@@ -1777,7 +1777,7 @@ Investigative Direction: Check the full Neff quotation in the Politico profile.
 
 **C-11848** Host Says Blake Neff and Kolvet Are Sending Legal Letters
 
-Claim Timestamp: 00:50:04
+Claim Timestamp: 00:51:16
 
 Claim: The host says Neff and Kolvet are sending out legal letters because they now believe speech needs to be fought, whereas Charlie's view was to answer speech with better speech.
 
@@ -1794,7 +1794,7 @@ Investigative Direction: Collect the legal letters sent to critics and identify 
 
 **C-11849** Host Says TPUSA Walks People Into Defamation Claims, as in Her Debate With Andrew Wilson
 
-Claim Timestamp: 00:50:04
+Claim Timestamp: 00:52:03
 
 Claim: The host says TPUSA is trying to walk people into defamation claims, as she says was seen in her debate with Andrew Wilson, and platforms them on Charlie Kirk's show while keeping its hands clean.
 

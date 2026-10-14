@@ -794,7 +794,7 @@ Investigative Direction: Check Secret Service personnel actions and disciplinary
 
 **C-4492** Host believes Butler was a real attempt meant as a warning
 
-Claim Timestamp: 00:10:28
+Claim Timestamp: 00:12:03
 
 Claim: The host says she is inclined to believe Butler was a real assassination attempt that had nothing to do with the person it was blamed on and served as a "gangster" warning to Trump, rather than a staged event.
 
@@ -809,7 +809,7 @@ Investigative Direction: Review the full Butler forensic and investigative recor
 
 **C-4493** Host speculates Trump said in front of Kirk and Kolvet he would cross a donor
 
-Claim Timestamp: 00:10:28
+Claim Timestamp: 00:12:34
 
 Claim: The host speculates that Trump may have said in front of Charlie Kirk and Andrew Kolvet that he was going to take somebody's money and then cross them, and that this got back to some people.
 
@@ -1104,7 +1104,7 @@ Investigative Direction: Obtain the Why Refi sponsorship contract and addendum d
 
 **C-4513** Host went to Maine in July 2025 to tape Tucker Carlson's show
 
-Claim Timestamp: 00:23:28
+Claim Timestamp: 00:25:20
 
 Claim: The host says her son was born on May 1 and that, in July, she went to Maine with her newborn and her husband to do Tucker Carlson's show, which she had forgotten.
 
@@ -1148,7 +1148,7 @@ Investigative Direction: Ask Tucker Carlson to confirm the date of the dinner; c
 
 **C-4516** Tucker said Erika Kirk was "hardcore on the anti-Israel train"
 
-Claim Timestamp: 00:27:15
+Claim Timestamp: 00:28:29
 
 Claim: The host recalls Tucker Carlson saying that Erika Kirk was "hardcore on the anti-Israel train" and had gone in on the subject at dinner.
 
@@ -1178,7 +1178,7 @@ Investigative Direction: Review the CBS / Bari Weiss town hall transcript for th
 
 **C-4518** Erika Kirk had Kolvet deny the Catholic account and okayed Alex Clark calling the host a liar
 
-Claim Timestamp: 00:28:47
+Claim Timestamp: 00:30:08
 
 Claim: The host alleges Erika Kirk instructed Andrew Kolvet to deny what the host said about Charlie Kirk and the Catholic church, and the next week okayed Alex Clark saying the host is a liar.
 
@@ -1402,7 +1402,7 @@ Investigative Direction: Ask the FOIA office which agencies are being consulted,
 
 **C-4533** Host says Hansell's flight was booked from his own office
 
-Claim Timestamp: 00:45:15
+Claim Timestamp: 00:46:37
 
 Claim: The host says Hansell works for the Department of War and that she confirmed the flight was booked from his office, so the geographic and volume exceptions do not apply.
 

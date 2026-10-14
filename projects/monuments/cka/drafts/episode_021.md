@@ -926,7 +926,7 @@ Investigative Direction: Survey public statements by prominent pro-Israel commen
 
 **C-6520** Host Says the Evidence Is Overwhelming That Robinson Did Not Act Alone, Fire the Shot or Use a .30-06
 
-Claim Timestamp: 00:11:02
+Claim Timestamp: 00:12:23
 
 Claim: The host says the evidence is overwhelming that Tyler Robinson did not act alone, did not fire the shot and did not use a .30-06 rifle.
 
@@ -957,7 +957,7 @@ Investigative Direction: Check TPUSA's Form 990 filings for total annual revenue
 
 **C-6522** Host Says the Feds Probably Killed Martin Luther King Jr.
 
-Claim Timestamp: 00:13:10
+Claim Timestamp: 00:14:41
 
 Claim: The host says that when the feds line up to give someone a holiday it is never good, and that she thinks the feds definitely killed Martin Luther King Jr.
 

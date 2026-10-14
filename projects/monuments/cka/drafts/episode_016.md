@@ -1853,7 +1853,7 @@ Investigative Direction: List the public occasions where Kirk voiced these frust
 
 **C-12089** Kolvet Says He and Blake Workshopped Kirk's Israel Answers for the Tour
 
-Claim Timestamp: 00:17:30
+Claim Timestamp: 00:17:03
 
 Claim: Andrew Kolvet says he and Blake Neff were in the trenches workshopping how Kirk would handle questions about Israel on the tour.
 

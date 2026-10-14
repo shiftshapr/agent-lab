@@ -773,14 +773,14 @@ Investigative Direction: Retrieve the original post from X/Twitter (including an
 
 ---
 
-**C-2189** A TPUSA employee was terminated with no explanation beyond "going in a different direction"
+**C-2189** In a Recording the Host Plays, a Fired TPUSA Employee Is Told Only That TPUSA Is "Going in a Different Direction"
 
 Claim Timestamp: 00:26:45
 
-Claim: A TPUSA employee was terminated by general counsel "Frank" with no specific explanation, repeatedly told only that the organization is "going in a different direction with the team," after working 80–90 hour weeks through AmFest and the period following Charlie Kirk's assassination.
+Claim: In a recording the host plays, a fired TPUSA employee who says she worked 80–90 hour weeks through AmFest and after Charlie Kirk's assassination is told by general counsel "Frank" only that the organization is "going in a different direction with the team."
 
 Anchored Artifacts: A-1674.1
-Mentions: N-14, N-500, N-1
+Mentions: N-500, N-1
 
 Related Nodes: N-10439
 

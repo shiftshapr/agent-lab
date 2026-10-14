@@ -865,7 +865,7 @@ Investigative Direction: Archive the thread + employment paperwork dates; compar
 
 **C-3775** Bill Ackman is the 'Bill Ackman' who boosted the thread in C-3680 (revises C-3680)
 
-Claim Timestamp: 00:01:42
+Claim Timestamp: 00:03:35
 
 Claim: C-3680 spells the name 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37): the host says Jennica Pounds' thread was instantly boosted by Andrew Kolvet and Bill Ackman as if they had casually come across it.
 

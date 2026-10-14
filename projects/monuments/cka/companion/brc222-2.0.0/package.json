@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-14T21:10:02Z",
+  "generated_at": "2026-10-14T21:46:54Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -1365,14 +1365,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10028",
-      "label": "Host says Strife delayed her Sept 8 alibi request",
+      "label": "Host says Streiff delayed her Sept 8 alibi request",
       "node_kind": "claim",
       "episode": 68
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10029",
-      "label": "Host says lighting in Strife's messages does not look like a hospital",
+      "label": "Host says lighting in Streiff's messages does not look like a hospital",
       "node_kind": "claim",
       "episode": 68
     },
@@ -1449,7 +1449,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10040",
-      "label": "Host says Strife switched basketball game to football game",
+      "label": "Host says Streiff switched basketball game to football game",
       "node_kind": "claim",
       "episode": 68
     },
@@ -3346,7 +3346,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10311",
-      "label": "Host says the FBI was on the phone with Strife and Frank Carney about the back footage",
+      "label": "Host says the FBI was on the phone with Streiff and Frank Carney about the back footage",
       "node_kind": "claim",
       "episode": 86
     },
@@ -8134,7 +8134,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10995",
-      "label": "Host Says Charlie's September 2 Email Asked for a DOGE Audit and Named Strife COO in Place of Bowyer",
+      "label": "Host Says Charlie's September 2 Email Asked for a DOGE Audit and Named Streiff COO in Place of Bowyer",
       "node_kind": "claim",
       "episode": 39
     },
@@ -8176,7 +8176,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11001",
-      "label": "Host Asks Viewers to Help Identify the Donor Strife Called",
+      "label": "Host Asks Viewers to Help Identify the Donor Streiff Called",
       "node_kind": "claim",
       "episode": 39
     },
@@ -20335,21 +20335,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12593",
-      "label": "Host Says Robkea Wrote Babylon Rising and the Material Reached Her by Email Tip",
+      "label": "Host Says Rob Skiba Wrote Babylon Rising and the Material Reached Her by Email Tip",
       "node_kind": "claim",
       "episode": 69
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12594",
-      "label": "Host Says It Is Alleged Robkea Was Murdered for His Research",
+      "label": "Host Says It Is Alleged Rob Skiba Was Murdered for His Research",
       "node_kind": "claim",
       "episode": 69
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12595",
-      "label": "Host Says Robkea's Son Emailed Her to Thank Her",
+      "label": "Host Says Rob Skiba's Son Emailed Her to Thank Her",
       "node_kind": "claim",
       "episode": 69
     },
@@ -20363,21 +20363,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12597",
-      "label": "Host Says Robkea Posits the Tower of Babel Was a Technology to Reach the Heavenly Realm",
+      "label": "Host Says Rob Skiba Posits the Tower of Babel Was a Technology to Reach the Heavenly Realm",
       "node_kind": "claim",
       "episode": 69
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12598",
-      "label": "Robkea Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Aazil to the Scapegoat",
+      "label": "Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Aazil to the Scapegoat",
       "node_kind": "claim",
       "episode": 69
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12599",
-      "label": "Robkea Says David Flynn Recently Passed Away",
+      "label": "Rob Skiba Says David Flynn Recently Passed Away",
       "node_kind": "claim",
       "episode": 69
     },
@@ -20391,7 +20391,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12600",
-      "label": "Robkea Says a Line From Mount Hermon to the Paris Meridian Is Called the Devil's Line",
+      "label": "Rob Skiba Says a Line From Mount Hermon to the Paris Meridian Is Called the Devil's Line",
       "node_kind": "claim",
       "episode": 69
     },
@@ -20440,21 +20440,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12607",
-      "label": "Host Says Robkea Theorises Nimrod Became Known as Other Names Including Gilgamesh",
+      "label": "Host Says Rob Skiba Theorises Nimrod Became Known as Other Names Including Gilgamesh",
       "node_kind": "claim",
       "episode": 69
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12608",
-      "label": "Host Says Robkea Believes the Elites Are Working to Resurrect Nimrod or Gilgamesh as the Antichrist",
+      "label": "Host Says Rob Skiba Believes the Elites Are Working to Resurrect Nimrod or Gilgamesh as the Antichrist",
       "node_kind": "claim",
       "episode": 69
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12609",
-      "label": "Robkea Says CERN's Stated Objective Is to Recreate the Big Bang",
+      "label": "Rob Skiba Says CERN's Stated Objective Is to Recreate the Big Bang",
       "node_kind": "claim",
       "episode": 69
     },
@@ -20510,7 +20510,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12616",
-      "label": "Host Says the US Began Its Iraq Occupation Phase One Month After the Find",
+      "label": "In a Clip the Host Plays, Rob Skiba Says the US Began Its Iraq Occupation Phase One Month After the Find",
       "node_kind": "claim",
       "episode": 69
     },
@@ -40544,7 +40544,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1680",
-      "label": "Kash Patel publicly defended Alexis Wilkins on social media",
+      "label": "Host Says Kash Patel Publicly Defended Alexis Wilkins on Social Media",
       "node_kind": "claim",
       "episode": 30
     },
@@ -43358,7 +43358,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2083",
-      "label": "Michael Aquino Joined the Church of Satan in 1969",
+      "label": "Host Says Michael Aquino Joined the Church of Satan in 1969",
       "node_kind": "claim",
       "episode": 56
     },
@@ -44093,7 +44093,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2189",
-      "label": "A TPUSA employee was terminated with no explanation beyond \"going in a different direction\"",
+      "label": "In a Recording the Host Plays, a Fired TPUSA Employee Is Told Only That TPUSA Is \"Going in a Different Direction\"",
       "node_kind": "claim",
       "episode": 62
     },
@@ -44604,7 +44604,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2263",
-      "label": "Naftali Bennett Categorically Denies Mossad Operated Epstein Blackmail Ring",
+      "label": "In a Clip the Host Plays, Ben Shapiro Quotes Naftali Bennett Denying Mossad Ran an Epstein Blackmail Ring",
       "node_kind": "claim",
       "episode": 67
     },
@@ -44765,7 +44765,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2286",
-      "label": "Viewer Email Asserted Robkea Documents Gilgamesh Tomb, Tablet Disappearance",
+      "label": "Viewer Email Asserted Rob Skiba Documents Gilgamesh Tomb, Tablet Disappearance",
       "node_kind": "claim",
       "episode": 68
     },
@@ -44863,14 +44863,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2300",
-      "label": "Robkea posits Mount Hermon as the 33.33°N × 33.33°E landing site of 200 fallen angels",
+      "label": "Rob Skiba posits Mount Hermon as the 33.33°N × 33.33°E landing site of 200 fallen angels",
       "node_kind": "claim",
       "episode": 69
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2301",
-      "label": "Robkea posits Gilgamesh as 2/3 God and 1/3 man and links CERN's logo to 666",
+      "label": "Rob Skiba posits Gilgamesh as 2/3 God and 1/3 man and links CERN's logo to 666",
       "node_kind": "claim",
       "episode": 69
     },
@@ -44884,7 +44884,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2303",
-      "label": "Steve Quail asserts human genome project aimed at genetic markers to \"reanimate\" Nimrod/Gilgamesh",
+      "label": "Steve Quayle asserts human genome project aimed at genetic markers to \"reanimate\" Nimrod/Gilgamesh",
       "node_kind": "claim",
       "episode": 69
     },
@@ -44933,7 +44933,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2310",
-      "label": "Angie comment addresses \"Ben\" / \"Benjamin\" as a member of \"team Candace for Life\"",
+      "label": "Host Taunts Ben Shapiro as \"Benjamin\" While Reading a Viewer Comment",
       "node_kind": "claim",
       "episode": 69
     },
@@ -44954,7 +44954,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2313",
-      "label": "American Jetet comment endorses Robkea's work and frames the conflict as \"Babylonian ascension\"",
+      "label": "American Jetet comment endorses Rob Skiba's work and frames the conflict as \"Babylonian ascension\"",
       "node_kind": "claim",
       "episode": 69
     },
@@ -45647,7 +45647,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2435",
-      "label": "Charlie Kirk Show Appearance from Home Studio at 10:00 AM AZ on September 8",
+      "label": "Host Says Charlie Kirk Appeared Live From His Home Studio at 10:00 AM on September 8",
       "node_kind": "claim",
       "episode": 76
     },
@@ -46158,7 +46158,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2508",
-      "label": "Chapter to Rebrand as Young American Revival",
+      "label": "Local News Clip Reports the University of Arkansas Chapter Will Rebrand as Young American Revival",
       "node_kind": "claim",
       "episode": 80
     },
@@ -47054,7 +47054,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2636",
-      "label": "FBI Is Reviving CBLA in Robinson Case",
+      "label": "Host Says the FBI Is Reviving CBLA in the Robinson Case",
       "node_kind": "claim",
       "episode": 87
     },
@@ -47166,7 +47166,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2652",
-      "label": "Dr. Steven Jones (BYU Physicist) Published 2009 Thermite Study on WTC Dust",
+      "label": "Viewer Comment Read by the Host Says a 2009 BYU Study Found Thermite in WTC Dust",
       "node_kind": "claim",
       "episode": 87
     },
@@ -51170,7 +51170,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3225",
-      "label": "Nate Walker Transitioned From Ground Floor With Bag to Upstairs Without Bag Between ~12:15 and ~12:25",
+      "label": "Host Says Footage Shows Nate Walker Upstairs Without His Bag by About 12:25",
       "node_kind": "claim",
       "episode": 138
     },
@@ -52682,7 +52682,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3441",
-      "label": "Suspect texted on phone at position for ~1.5 minutes",
+      "label": "Host Says the Figure in the Footage Was Texting Before Walking Down the Stairs",
       "node_kind": "claim",
       "episode": 151
     },
@@ -55930,7 +55930,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3907",
-      "label": "Host's December 27 group text to Strife and Kolvet on Mitch Snow's Harpole sighting",
+      "label": "Host's December 27 group text to Streiff and Kolvet on Mitch Snow's Harpole sighting",
       "node_kind": "claim",
       "episode": 100
     },
@@ -57183,7 +57183,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4086",
-      "label": "Strife sought to at least double the \"Stop in the Name of God\" print order",
+      "label": "Streiff sought to at least double the \"Stop in the Name of God\" print order",
       "node_kind": "claim",
       "episode": 104
     },
@@ -58590,14 +58590,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4287",
-      "label": "Kuchta: VFT is a pro-Israel organization that met Sebastian Gorka at the White House",
+      "label": "Cuccia: VFT is a pro-Israel organization that met Sebastian Gorka at the White House",
       "node_kind": "claim",
       "episode": 109
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4288",
-      "label": "Kuchta was asked through a third party, identified as NSC's Shawn Chenoweth, to script write for VFT",
+      "label": "Cuccia was asked through a third party, identified as NSC's Shawn Chenoweth, to script write for VFT",
       "node_kind": "claim",
       "episode": 109
     },
@@ -58611,14 +58611,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4290",
-      "label": "Kuchta thread names Nick Shirley as having benefited from the same approach",
+      "label": "Cuccia thread names Nick Shirley as having benefited from the same approach",
       "node_kind": "claim",
       "episode": 109
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4291",
-      "label": "Kuchta was given a Dropbox of VFT research with seven folders",
+      "label": "Cuccia was given a Dropbox of VFT research with seven folders",
       "node_kind": "claim",
       "episode": 109
     },
@@ -58695,7 +58695,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4302",
-      "label": "Kuchta points to the White House's 16-page counterterrorism strategy touted by Gorka",
+      "label": "Cuccia points to the White House's 16-page counterterrorism strategy touted by Gorka",
       "node_kind": "claim",
       "episode": 109
     },
@@ -59374,7 +59374,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4399",
-      "label": "Host emailed Strife, Kolvet and TPUSA's lawyer; TPUSA's X account shared the email instead of answering",
+      "label": "Host emailed Streiff, Kolvet and TPUSA's lawyer; TPUSA's X account shared the email instead of answering",
       "node_kind": "claim",
       "episode": 112
     },
@@ -76111,7 +76111,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6790",
-      "label": "Host Says Strife Offered Erika's Alibi as a Message About Making Dinner on the 8th",
+      "label": "Host Says Streiff Offered Erika's Alibi as a Message About Making Dinner on the 8th",
       "node_kind": "claim",
       "episode": 51
     },
@@ -88697,7 +88697,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8588",
-      "label": "Host Says No One Called 911 After Charlie Was Shot",
+      "label": "Host Tells Blake Neff That No One Called 911 After Charlie Was Shot",
       "node_kind": "claim",
       "episode": 88
     },
@@ -110180,7 +110180,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1729.1",
-      "label": "Viewer email (read in full on air) describing Robkea's research on Gilgamesh/Nimrod tomb discovery, museum raid at first U.S. base in Iraq, and missing tablets concerning Nephilim/resurrection",
+      "label": "Viewer email (read in full on air) describing Rob Skiba's research on Gilgamesh/Nimrod tomb discovery, museum raid at first U.S. base in Iraq, and missing tablets concerning Nephilim/resurrection",
       "node_kind": "artifact",
       "episode": 68
     },
@@ -110341,21 +110341,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1739",
-      "label": "Robkea Babylon Rising Lecture Clip Bundle",
+      "label": "Rob Skiba Babylon Rising Lecture Clip Bundle",
       "node_kind": "artifact",
       "episode": 69
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1739.1",
-      "label": "Robkea segment on Mount Hermon / Book of Enoch / 33.33° coordinates",
+      "label": "Rob Skiba segment on Mount Hermon / Book of Enoch / 33.33° coordinates",
       "node_kind": "artifact",
       "episode": 69
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1739.2",
-      "label": "Robkea segment on Gilgamesh / CERN / 666",
+      "label": "Rob Skiba segment on Gilgamesh / CERN / 666",
       "node_kind": "artifact",
       "episode": 69
     },
@@ -110369,7 +110369,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1740.1",
-      "label": "Tom Horn and Steve Quail segment on Gilgamesh remains extraction",
+      "label": "Tom Horn and Steve Quayle segment on Gilgamesh remains extraction",
       "node_kind": "artifact",
       "episode": 69
     },
@@ -125622,7 +125622,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2612.3",
-      "label": "Screenshots of the VFT Dropbox folders and documents posted by Kuchta (shown)",
+      "label": "Screenshots of the VFT Dropbox folders and documents posted by Cuccia (shown)",
       "node_kind": "artifact",
       "episode": 109
     },
@@ -129731,7 +129731,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2838",
-      "label": "Strife-Relayed Erika Alibi Message Bundle",
+      "label": "Streiff-Relayed Erika Alibi Message Bundle",
       "node_kind": "artifact",
       "episode": 51
     },

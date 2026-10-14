@@ -3086,7 +3086,7 @@ Investigative Direction: Identify the speaker and compare the dates of the named
 
 **C-14071** Clip Speaker Theorizes George Zin Was a Decoy Who Knew of the Plan
 
-Claim Timestamp: 00:53:58
+Claim Timestamp: 00:55:40
 
 Claim: A speaker in the Kirk Show clip, addressed as Viva, offers a theory that George Zin knew what was going to happen, showed up thinking he would be a useful decoy or distraction for Tyler Robinson, and may have been on the Discord chat.
 

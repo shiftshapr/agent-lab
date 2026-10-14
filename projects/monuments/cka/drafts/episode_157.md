@@ -2238,7 +2238,7 @@ Investigative Direction: Obtain the command post log and a floor plan with sight
 
 **C-6212** Review: a fire chief performed CPR when Charlie Kirk reached the hospital
 
-Claim Timestamp: 00:33:21
+Claim Timestamp: 00:34:55
 
 Claim: The host says the review states that when Charlie Kirk got to the hospital a fire chief performed CPR, which she says throws various statements heard so far into further chaos.
 
@@ -2377,7 +2377,7 @@ Investigative Direction: Determine how Harpole obtained the Flood and Long text 
 
 **C-6221** Host says she is being sued for calling Harpole a liar
 
-Claim Timestamp: 00:42:01
+Claim Timestamp: 00:43:17
 
 Claim: The host says she is being sued for telling the audience that Brian Harpole is a liar, and that the independent review now signals Harpole lied in the interview.
 
@@ -2407,7 +2407,7 @@ Investigative Direction: Locate the Shawn Ryan timestamp for the August 24 state
 
 **C-6223** Review: Harpole said the venue looked horrible when his team arrived hours before
 
-Claim Timestamp: 00:43:33
+Claim Timestamp: 00:45:02
 
 Claim: The host reads that Harpole said that on arrival a few hours before the event his team surveyed the area and believed the venue location was horrible, and described an elevated 180 degree view as a security fail while acknowledging Kirk liked the venue.
 

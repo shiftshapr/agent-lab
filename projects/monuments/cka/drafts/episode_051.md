@@ -220,7 +220,7 @@ Confidence Level: Low
 
 ---
 
-**A-2838** Strife-Relayed Erika Alibi Message Bundle
+**A-2838** Streiff-Relayed Erika Alibi Message Bundle
 
 **A-2838.1** Host verbal reference to a message about dinner between Erika and Charlie Kirk that Justin Streiff sent her, with the contact name blacked out (not shown)
 
@@ -1032,7 +1032,7 @@ Investigative Direction: Check the AmFest 2025 speaker schedule for Shapiro's sl
 
 **C-6745** Host Says TPUSA Contacts Named Elizabeth McCoy as the Person Who Approved the Tent Recreation
 
-Claim Timestamp: 00:10:15
+Claim Timestamp: 00:11:31
 
 Claim: The host says she messaged people inside Turning Point USA asking who approved the recreation of the tent in which Charlie Kirk died, and that the answer she got was that Elizabeth McCoy approved it.
 
@@ -1767,15 +1767,15 @@ Anchored Artifacts:
 Mentions: N-15, N-3, N-14
 Related Nodes: N-10300
 Tags: relevance:core
-Investigative Direction: Ask Strife and TPUSA to confirm the call and the existence of a ceasefire.
+Investigative Direction: Ask Streiff and TPUSA to confirm the call and the existence of a ceasefire.
 
 ---
 
-**C-6790** Host Says Strife Offered Erika's Alibi as a Message About Making Dinner on the 8th
+**C-6790** Host Says Streiff Offered Erika's Alibi as a Message About Making Dinner on the 8th
 
 Claim Timestamp: 00:57:21
 
-Claim: The host says Strife told her he would send a message from Erika as her alibi, a conversation between Erika and Charlie about making dinner in the time frame Mitch says he saw her at Fort Huachuca, and that she had not demanded an alibi.
+Claim: The host says Streiff told her he would send a message from Erika as her alibi, a conversation between Erika and Charlie about making dinner in the time frame Mitch says he saw her at Fort Huachuca, and that she had not demanded an alibi.
 
 Transcript Snippet: this was a conversation between her and uh Charlie about dinner, about them making dinner during that time frame when Mitch believes that he saw her on Fort Huachuca
 
@@ -1791,7 +1791,7 @@ Investigative Direction: Obtain the message with metadata unredacted and check i
 
 Claim Timestamp: 00:57:21
 
-Claim: The host says Strife sent the message but the contact name was blacked out, and that she asked for an unblocked version or a quick video of Erika opening it.
+Claim: The host says Streiff sent the message but the contact name was blacked out, and that she asked for an unblocked version or a quick video of Erika opening it.
 
 Transcript Snippet: He did send me that message, but the contact name was blacked out.
 

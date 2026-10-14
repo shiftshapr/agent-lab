@@ -1195,7 +1195,7 @@ Investigative Direction: Check what, if anything, was later received and publish
 
 **C-7918** Host Says Fed Strategy Is to Put Out a Sloppy Narrative
 
-Claim Timestamp: 00:04:24
+Claim Timestamp: 00:05:49
 
 Claim: The host says she is starting to wonder whether every major publicly traumatizing event was organized by the Feds, and that their usual strategy is to get out a sloppy narrative rather than blame themselves.
 

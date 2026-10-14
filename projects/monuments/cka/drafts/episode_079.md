@@ -1905,7 +1905,7 @@ Investigative Direction: Request the complete thread to compare with the excerpt
 
 **C-11263** Host Says 25 Percent of Global Liquid Petroleum Moves Through Hormuz
 
-Claim Timestamp: 00:21:48
+Claim Timestamp: 00:22:59
 
 Claim: The host says roughly 25 percent of global liquid petroleum moves through the roughly 100-mile Strait of Hormuz choke point.
 

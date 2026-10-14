@@ -2270,8 +2270,8 @@
       "@type": "Claim",
       "@id": "C-2435",
       "ref": "C-2435",
-      "label": "Charlie Kirk Show Appearance from Home Studio at 10:00 AM AZ on September 8",
-      "claim": "Charlie Kirk appeared on the Charlie Kirk Show from his home studio at 10:00 AM Arizona time on September 8, 2025 (separate appearance from A-1818.2).",
+      "label": "Host Says Charlie Kirk Appeared Live From His Home Studio at 10:00 AM on September 8",
+      "claim": "The host says that on September 8, 2025, at 10:00 a.m. Arizona time, Charlie Kirk appeared live on The Charlie Kirk Show from his home studio, an appearance separate from A-1818.2.",
       "anchored_artifacts": [
         "A-1818.1"
       ],
@@ -2283,7 +2283,8 @@
       "investigative_direction": "Obtain the September 8, 2025 10:00 AM Charlie Kirk Show episode and verify timestamp.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "transcript_snippet": "At 10:00 a. m. Charlie appears from his home studio live on Charlie Kirk."
     },
     {
       "@type": "Claim",

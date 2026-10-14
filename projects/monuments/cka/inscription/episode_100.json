@@ -540,7 +540,7 @@
       "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
-      "description": "Host; defendant in the Harpole suit. Relays her contacts with Bednarz, her messages to Harpole, Strife, Kolvet and Flood, and her denials about her husband.",
+      "description": "Host; defendant in the Harpole suit. Relays her contacts with Bednarz, her messages to Harpole, Streiff, Kolvet and Flood, and her denials about her husband.",
       "related_artifacts": [
         "A-2544.1",
         "A-2547.1",
@@ -1338,7 +1338,7 @@
       "ref": "N-10450",
       "name": "Fort Huachuca PR Response Coordination Question",
       "type": "investigation_target",
-      "description": "The host's group text to Strife and Kolvet about back-channel messaging through YouTubers.",
+      "description": "The host's group text to Streiff and Kolvet about back-channel messaging through YouTubers.",
       "related_artifacts": [
         "A-2549.2"
       ],
@@ -2214,7 +2214,7 @@
       "@type": "Claim",
       "@id": "C-3907",
       "ref": "C-3907",
-      "label": "Host's December 27 group text to Strife and Kolvet on Mitch Snow's Harpole sighting",
+      "label": "Host's December 27 group text to Streiff and Kolvet on Mitch Snow's Harpole sighting",
       "claim": "The host reads her December 27 group text to Justin Streiff and Andrew Kolvet. It says Mitch Snow is certain he saw Brian Harpole leaving a meeting at Fort Huachuca around 7:30 a.m. on September 9, and invites them to send evidence so she can debunk it.",
       "anchored_artifacts": [
         "A-2549.2"

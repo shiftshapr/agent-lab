@@ -1503,7 +1503,7 @@ Investigative Direction: Check the book chapter text for the claims about Swift 
 
 **C-11140** Host says Swift's publicist Tree told her to cut off Blake Lively
 
-Claim Timestamp: 00:24:22
+Claim Timestamp: 00:25:39
 
 Claim: The host says Swift's publicist, 'Tree,' told her to cut that friend off in order to save her, and later that Swift was smart to pull back from Lively when the publicist saw which way the wind was blowing.
 
@@ -1581,7 +1581,7 @@ Investigative Direction: Review the message exhibits for the timing and wording 
 
 **C-11145** Host says Swift's fans would give Lively an effective majority
 
-Claim Timestamp: 00:27:10
+Claim Timestamp: 00:28:54
 
 Claim: The host says Swift's messages joked that Baldoni would be smart not to let Lively include her because her large fan base would give them an effective majority.
 
@@ -1645,7 +1645,7 @@ Investigative Direction: Check reporting on the dress designer and the 2022 wedd
 
 **C-11149** Host says Brooklyn and Nicola held a second wedding last August without the Beckhams
 
-Claim Timestamp: 00:31:42
+Claim Timestamp: 00:33:13
 
 Claim: The host says that last August Brooklyn and Nicola held a secondary wedding without any of the Beckhams, about four years after the first.
 

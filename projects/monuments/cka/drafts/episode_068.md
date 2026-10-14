@@ -161,7 +161,7 @@ Confidence Level: High
 
 **A-1729** Viewer Email Bundle
 
-**A-1729.1** Viewer email (read in full on air) describing Robkea's research on Gilgamesh/Nimrod tomb discovery, museum raid at first U.S. base in Iraq, and missing tablets concerning Nephilim/resurrection
+**A-1729.1** Viewer email (read in full on air) describing Rob Skiba's research on Gilgamesh/Nimrod tomb discovery, museum raid at first U.S. base in Iraq, and missing tablets concerning Nephilim/resurrection
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:05:54
@@ -453,7 +453,7 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1737.1, C-2297*
 
-**N-547** Robkea
+**N-547** Rob Skiba
 Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets.
 Evidence Count: 1
 Claim Count: 1
@@ -816,13 +816,13 @@ Investigative Direction: Locate and quote the exact NYT passage to confirm wordi
 
 ---
 
-**C-2286** Viewer Email Asserted Robkea Documents Gilgamesh Tomb, Tablet Disappearance
+**C-2286** Viewer Email Asserted Rob Skiba Documents Gilgamesh Tomb, Tablet Disappearance
 Claim Timestamp: 00:05:54
-Claim: A viewer email read on air asserted that Robkea's research documented: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was "raided"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.
+Claim: A viewer email read on air asserted that Rob Skiba's research documented: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was "raided"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.
 Anchored Artifacts: A-1729.1
 Mentions: N-547
 Related Nodes: N-10480, N-10484
-Investigative Direction: Locate Robkea's published work ("Babylon Rising" et al.) and verify each factual component independently.
+Investigative Direction: Locate Rob Skiba's published work ("Babylon Rising" et al.) and verify each factual component independently.
 
 ---
 
@@ -1193,7 +1193,7 @@ Investigative Direction: Find the original source of the claim that Charlie trai
 
 ---
 
-**C-10028** Host says Strife delayed her Sept 8 alibi request
+**C-10028** Host says Streiff delayed her Sept 8 alibi request
 
 Claim Timestamp: 00:25:21
 
@@ -1206,15 +1206,15 @@ Mentions: N-15, N-2, N-3
 Related Nodes: N-10477
 Supports: C-2295
 Tags: relevance:core
-Investigative Direction: Obtain the full Strife thread with timestamps.
+Investigative Direction: Obtain the full Streiff thread with timestamps.
 
 ---
 
-**C-10029** Host says lighting in Strife's messages does not look like a hospital
+**C-10029** Host says lighting in Streiff's messages does not look like a hospital
 
 Claim Timestamp: 00:25:21
 
-Claim: The host says the messages Strife sent her show lighting that does not look like a hospital and looks like Erika's apartment building.
+Claim: The host says the messages Streiff sent her show lighting that does not look like a hospital and looks like Erika's apartment building.
 
 Transcript Snippet: I can confirm at the messages that he sent me certainly the lighting does not look like she is in a hospital.
 
@@ -1222,7 +1222,7 @@ Anchored Artifacts: A-1735.1
 Mentions: N-15, N-2, N-3
 Related Nodes: N-10478
 Tags: relevance:core
-Investigative Direction: Examine any images in the Strife messages and their metadata.
+Investigative Direction: Examine any images in the Streiff messages and their metadata.
 
 ---
 
@@ -1276,7 +1276,7 @@ Investigative Direction: Ask the clinic about its typical session length.
 
 **C-10033** Host says Charlie returned from Korea and Tokyo late Sept 7
 
-Claim Timestamp: 00:28:00
+Claim Timestamp: 00:29:13
 
 Claim: The host says Charlie returned from his Korea and Tokyo trip very late on September 7 or early September 8, landing in California and continuing to Arizona.
 
@@ -1386,11 +1386,11 @@ Investigative Direction: Locate independent evidence of Erika's Sept 8 location.
 
 ---
 
-**C-10040** Host says Strife switched basketball game to football game
+**C-10040** Host says Streiff switched basketball game to football game
 
 Claim Timestamp: 00:30:53
 
-Claim: The host says that after she told Strife a fan had seen Erika at a basketball game, the reply was it was a football game, after earlier saying Erika was unavailable with her mother in the hospital.
+Claim: The host says that after she told Streiff a fan had seen Erika at a basketball game, the reply was it was a football game, after earlier saying Erika was unavailable with her mother in the hospital.
 
 Transcript Snippet: And then it was like, "Oh, oh yeah, a was it a football game, Skyler? A football game."
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Obtain the thread and identify the fan sighting.
 
 **C-10041** Host says cease and desist followed her Fort Huachuca request
 
-Claim Timestamp: 00:30:53
+Claim Timestamp: 00:32:06
 
 Claim: The host says a couple of days after she was finally given something, she received a cease and desist that mentioned Fort Huachuca.
 
@@ -1697,7 +1697,7 @@ Investigative Direction: Ask Finkelstein or find his published account of any co
 - **Artifact verbally referenced but not shown:** A-1727.1 (April 2022 post), A-1728.1 (NYT article – name only, no image), A-1731.2 (German geophysicists headline – host says "I'm going to show you this headline" but no image present in source), A-1735.1 (text messages described, not displayed), A-1737.1 (Kevin Sorbo tweet referenced, not displayed).
 - **Transcript ambiguity:** Several instances of "Frank Turek" – context suggests it may be "Frank Turek" but preserved as "Frank Turek" per transcript.
 - **Possible transcription error:** "Air base," "so State Arm," "Fastinder" vs. "Fastbinder" (BBC report vs. German geophysicist name); preserved as appearing in transcript.
-- **Name uncertainty:** "Robkea" preserved verbatim per viewer email as read; could be a pseudonym or phonetic capture.
+- **Name uncertainty:** "Rob Skiba" preserved verbatim per viewer email as read; could be a pseudonym or phonetic capture.
 - **Requires human verification:** A-1736.1 – host reads a viewer comment that initially contains a wrong name ("Bill Richardson") and then corrects to "William Stevenson"; the underlying article was located on-air but not externally verified within this analysis.
 
 ---

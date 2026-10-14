@@ -965,9 +965,10 @@ Investigative Direction: Retrieve original Financial Times article and Project A
 
 **C-2915** Project Aurora evolved into a $4M consulting contract
 
-Claim Timestamp: 00:16:40
+Claim Timestamp: 00:16:20
 
 Claim: Per the website read by the host, Project Aurora evolved over 7 months into a fully-built consulting contract reportedly worth $4 million.
+Transcript Snippet: Over 7 months, the project evolved into a fully build consulting contract reportedly worth $4 million.
 
 Anchored Artifacts: A-2077.1
 

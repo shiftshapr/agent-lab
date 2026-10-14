@@ -1135,7 +1135,7 @@ Investigative Direction: Enhance the image and compare against known items, incl
 
 **C-7161** Host Recalls Rick Cutler Had Something on His Back but Says It Did Not Match the Black Item
 
-Claim Timestamp: 00:12:02
+Claim Timestamp: 00:13:52
 
 Claim: The host says she considered that the black item was a taser, recalled Rick Cutler had something on his back when running in, but concluded it did not match what Cutler had on him.
 
@@ -1151,7 +1151,7 @@ Investigative Direction: Review footage of Cutler entering the vehicle for what 
 
 **C-7162** Host Reads Commenter Suggesting the Black Item Is a Pulse Oximeter
 
-Claim Timestamp: 00:12:02
+Claim Timestamp: 00:14:08
 
 Claim: The host reads a viewer comment from Skylar suggesting the item could be a pulse device for O2.
 
@@ -1199,7 +1199,7 @@ Investigative Direction: Obtain an independent explosives or ordnance expert opi
 
 **C-7165** Host Offers a Scenario That Turek Was Removing Charlie's Shirt Rather than Giving CPR
 
-Claim Timestamp: 00:16:12
+Claim Timestamp: 00:17:53
 
 Claim: The host says she had devised a scenario in which Frank, rather than providing CPR, was trying to get Charlie's shirt off, which put blood on his hands.
 
@@ -1216,7 +1216,7 @@ Investigative Direction: Compare with Turek's CPR claims, Harpole's shirt-cuttin
 
 **C-7166** Host Does Not Believe the Blood-and-Shirt Scene Happened at the Hospital
 
-Claim Timestamp: 00:16:12
+Claim Timestamp: 00:18:04
 
 Claim: The host says she does not believe for a single second that the scene she describes took place at the hospital and calls the glass undeniable.
 

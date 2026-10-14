@@ -1482,7 +1482,7 @@ Investigative Direction: Phone records for the call before AmFest and any witnes
 
 **C-14103** Host Says Kolvet Told Her Dennis Prager Fell and Was Seriously Injured After Writing About Her
 
-Claim Timestamp: 00:08:04
+Claim Timestamp: 00:09:26
 
 Claim: The host says Kolvet told her that Dennis Prager, who had just written an open article about her, had fallen and been seriously injured, and that Kolvet cited this as an example of bad things happening to those who attack her.
 
@@ -1497,7 +1497,7 @@ Investigative Direction: Verify the date and nature of Prager's injury and the d
 
 **C-14104** Host Says Kolvet Also Cited the Daily Wire and Jordan Peterson as Cases of Misfortune After Attacking Her
 
-Claim Timestamp: 00:08:04
+Claim Timestamp: 00:09:45
 
 Claim: The host says Kolvet went on to cite 'the Daily Wire thing and the Jordan Peterson thing' as further examples of bad things happening to people after they attack her.
 
@@ -1627,7 +1627,7 @@ Investigative Direction: Verify against Japanese court records and major outlets
 
 **C-14112** Host Says the Killer's Mother Was Brainwashed Into Giving the Church the Family's Money
 
-Claim Timestamp: 00:12:48
+Claim Timestamp: 00:14:10
 
 Claim: The host says the man who killed Abe was destitute because the church had brainwashed his mother in her old age into giving it all the family's money, and that his brother committed suicide and he himself attempted suicide.
 
@@ -1693,7 +1693,7 @@ Investigative Direction: Review Falwell Jr.'s own public statements on the affai
 
 **C-14116** Host Says Her Source Claims Corrupt Evangelical Pastors Wanted Falwell Jr. Out to End the Falkirk Center
 
-Claim Timestamp: 00:15:02
+Claim Timestamp: 00:16:14
 
 Claim: The host says her Liberty source claims it was corrupt evangelical pastors who wanted Falwell Jr. out and wanted to put an end to the Falkirk Center.
 
@@ -1709,7 +1709,7 @@ Investigative Direction: Ask the source to name the pastors and show communicati
 
 **C-14117** Host Says Kirk and Falwell Jr. Established the Precursor to Turning Point Faith
 
-Claim Timestamp: 00:15:02
+Claim Timestamp: 00:16:23
 
 Claim: The host says Charlie Kirk and Jerry Falwell Jr. came together and established what was the precursor to Turning Point Faith, aiming to turn Kirk's youth brand into ministry for evangelicals and send young people to Liberty.
 
@@ -1774,7 +1774,7 @@ Investigative Direction: Ask the source what 'what they did to Charlie' refers t
 
 **C-14121** Host Says Johnny Moore Pulled Up a Chair at the Kirk and Falwell Planning Meeting in 2021
 
-Claim Timestamp: 00:16:51
+Claim Timestamp: 00:18:08
 
 Claim: The host says that when Charlie Kirk was meeting at Liberty University in 2021 about establishing the Falkirk Center, Johnny Moore inserted himself into the planning session and just pulled up a chair.
 
@@ -1790,7 +1790,7 @@ Investigative Direction: Find attendee lists, calendars or minutes for the Falki
 
 **C-14122** Host Says Moore Quit as Liberty's Lead Pastor in 2014 and Had No Reason to Be at the Meeting
 
-Claim Timestamp: 00:16:51
+Claim Timestamp: 00:18:34
 
 Claim: The host says Johnny Moore had quit his job as lead pastor of Liberty University in 2014 and had no reason to be at the 2021 meeting, yet came up with one.
 
@@ -1806,7 +1806,7 @@ Investigative Direction: Check Moore's biography and Liberty staff records for h
 
 **C-14123** Host Says Moore Left Liberty in 2014 for Hollywood to Start the Kairos Company
 
-Claim Timestamp: 00:16:51
+Claim Timestamp: 00:18:46
 
 Claim: The host says that when Johnny Moore left Liberty University in 2014 he went to Hollywood to start the PR company, the Kairos Company.
 
@@ -1823,7 +1823,7 @@ Investigative Direction: Obtain Kairos Company incorporation and founding record
 
 **C-14124** Host Says Kolvet Was Executive Vice President of Kairos Before Becoming Kirk's PR Man
 
-Claim Timestamp: 00:16:51
+Claim Timestamp: 00:19:06
 
 Claim: The host says Andrew Kolvet was a part of the Kairos Company as executive vice president, effectively working for it, and was then hired as the PR guy for Charlie Kirk and Turning Point USA; she calls him Moore's partner or protege.
 
@@ -2310,7 +2310,7 @@ Investigative Direction: Check Kelly's own statements on Israel.
 
 **C-14154** Kelly Clip: Says Shapiro's Last Exchange Called Their Friendship Too Important to Depend on Others
 
-Claim Timestamp: 00:38:50
+Claim Timestamp: 00:40:18
 
 Claim: In the clip, Megyn Kelly says that in her last exchange with Ben Shapiro he literally said their friendship was too important to both of them to make it depend on whom else they are or are not friends with.
 

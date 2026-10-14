@@ -1718,7 +1718,7 @@ Investigative Direction: Obtain the Pentagon's press credential policy and list 
 
 **C-5119** Host Says the Pentagon Credentialed Laura Loomer
 
-Claim Timestamp: 00:37:13
+Claim Timestamp: 00:39:37
 
 Claim: The host says the Pentagon credentialed Laura Loomer as part of the new press corps.
 
@@ -1734,7 +1734,7 @@ Investigative Direction: Confirm Loomer's credential date from the Pentagon pres
 
 **C-5120** Host Says Loomer Handcuffed Herself to Twitter Headquarters
 
-Claim Timestamp: 00:37:13
+Claim Timestamp: 00:39:00
 
 Claim: The host says Laura Loomer once handcuffed herself to the Twitter headquarters because her account was banned.
 
@@ -1748,7 +1748,7 @@ Investigative Direction: Check 2018 news coverage of the Twitter headquarters pr
 
 **C-5121** Host Says Loomer Is Not Allowed to Own a Gun After Hospitalization
 
-Claim Timestamp: 00:37:13
+Claim Timestamp: 00:39:18
 
 Claim: The host says Laura Loomer is apparently not allowed to own a gun because of psychotic events that required her hospitalization.
 
@@ -1763,7 +1763,7 @@ Investigative Direction: Seek court or licensing records; the host herself hedge
 
 **C-5122** Host Says Loomer Called Charlie a Charlatan Weeks Before His Death
 
-Claim Timestamp: 00:37:13
+Claim Timestamp: 00:39:58
 
 Claim: The host says that a couple of weeks before Charlie died, Laura Loomer called him a charlatan and a political opportunist and said he was not pro-Trump because he hosted Dave Smith.
 
@@ -1896,7 +1896,7 @@ Investigative Direction: Review the Delaware docket and the host's disclosures o
 
 **C-5131** Host Says Brigitte Macron's Location on the Egyptian Plane Dates Cannot Be Found
 
-Claim Timestamp: 00:47:25
+Claim Timestamp: 00:49:08
 
 Claim: The host says her team cannot find where Brigitte Macron was on the dates the Egyptian plane flew around America, citing a six-day gap.
 
@@ -1911,7 +1911,7 @@ Investigative Direction: Reconstruct Brigitte Macron's public schedule for Septe
 
 **C-5132** Host Says the Trump-Macron Call Came an Hour and a Half Before the Shooting
 
-Claim Timestamp: 00:47:25
+Claim Timestamp: 00:49:42
 
 Claim: The host says a Trump-Macron phone call, recorded in Macron's released public calendar, took place an hour and a half before Charlie was assassinated.
 

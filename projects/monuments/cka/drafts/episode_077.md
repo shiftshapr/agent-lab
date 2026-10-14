@@ -1370,7 +1370,7 @@ Investigative Direction: Check pageant and NCAA rosters and request Liberty enro
 
 **C-11205** Host lists Erika's simultaneous commitments in New York
 
-Claim Timestamp: 00:15:31
+Claim Timestamp: 00:16:52
 
 Claim: The host says she struggles to believe Erika could at once do fiduciary real estate deals, help Turning Point, film a reality show, study full-time for a Juris Master and Liberty law degree, complete 77 mandatory hours for a real estate license, run an international charity with the Marines and China work, and run a faith-based clothing company.
 

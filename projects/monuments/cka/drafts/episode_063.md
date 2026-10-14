@@ -1185,7 +1185,7 @@ Investigative Direction: Obtain travel and expense records showing who flew in f
 
 **C-7002** Erika Says Charlie Would Want Staff Back at Work and TPUSA Will Steam Ahead
 
-Claim Timestamp: 00:15:47
+Claim Timestamp: 00:17:58
 
 Claim: On the call, Erika Kirk says that Turning Point USA and Turning Point Action will steam ahead and that Charlie would want them to get back to work, which she says is what they did with the memorial.
 
@@ -1201,7 +1201,7 @@ Investigative Direction: Compare the call's stated work pace with TPUSA event an
 
 **C-7003** Erika Says TPUSA Has 100,000 Chapter Requests and 300,000 New Donors Since the Assassination
 
-Claim Timestamp: 00:15:47
+Claim Timestamp: 00:18:36
 
 Claim: On the call, Erika Kirk says that since Charlie's assassination TPUSA has 100,000 chapter requests and 300,000 new donors.
 
@@ -1518,7 +1518,7 @@ Investigative Direction: Compare school founding documents and archived web page
 
 **C-7023** Tipster Claims the Montgomerys and Robert Flood All Worked for Shaklee Before the School
 
-Claim Timestamp: 00:29:53
+Claim Timestamp: 00:31:10
 
 Claim: The host relays that the tipster says Bill Montgomery, his wife and a certain Robert Flood, whom the host describes as in Dan Flood's family, knew each other before the school started and all worked for the evangelical sales company the Shaklee Corporation (transcribed 'Shackley').
 
@@ -1582,7 +1582,7 @@ Investigative Direction: Request the host's confirming source and look for Shakl
 
 **C-7027** Host Says Charlie Told Her His Mother Refused to Let Them Drug Him as a Child
 
-Claim Timestamp: 00:31:47
+Claim Timestamp: 00:33:13
 
 Claim: The host says Charlie told her the story that they wanted to drug him when he was a kid, but his mother said no, and that instead his mother put him into the special school.
 
@@ -1663,7 +1663,7 @@ Investigative Direction: Project Monarch is contested in the historical record; 
 
 **C-7032** Host Credits the Brave Report With Identifying Lorie Cardardoza Moore as an Evangelical Zionist Who Learned She Is Jewish
 
-Claim Timestamp: 00:36:41
+Claim Timestamp: 00:38:36
 
 Claim: The host says a small account, the Brave Report, pulled up Lorie Cardardoza Moore as an evangelical Zionist who said she learned later in life that she is Jewish but remains an evangelical, which the host sets against the threat message she displayed earlier.
 
@@ -1884,7 +1884,7 @@ Investigative Direction: Review the earlier episode on the Paramount Tactical tw
 
 **C-7046** Host Says Fired Employees Reported Having No Access to Erika and That She Did Not Feel Like Charlie
 
-Claim Timestamp: 00:48:20
+Claim Timestamp: 00:49:37
 
 Claim: The host says the fired employees' feedback was that they had no access to Erika and that she did not feel like Charlie, who she says felt accessible.
 
@@ -1979,7 +1979,7 @@ Investigative Direction: Ask Kolvet, Flood and the FBI when Erika was told of Ch
 
 **C-7052** Host Relays That a Source Said the Group Was Joyous and Giddy at Charlie's Favorite Restaurant
 
-Claim Timestamp: 00:53:45
+Claim Timestamp: 00:55:44
 
 Claim: The host says the person who was at the post-memorial dinner said the group was joyous and giddy at Charlie's favorite restaurant, which she chose not to name.
 

@@ -2290,7 +2290,7 @@ Investigative Direction: Monitor court dockets for any suit filed against the ho
 
 **C-6005** Host says Kolvet is selling that Charlie was a liar who secretly hated everybody
 
-Claim Timestamp: 00:55:37
+Claim Timestamp: 00:57:08
 
 Claim: The host says Andrew Kolvet is selling the idea that Charlie Kirk was a liar who secretly hated everybody, was deceitful and worked behind the scenes, which she rejects.
 

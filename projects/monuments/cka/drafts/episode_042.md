@@ -1319,7 +1319,7 @@ Investigative Direction: Catalog each frame the host showed and match the people
 
 **C-12438** Host Says a TikTok User Claimed the FBI Told Him to Delete Family Footage
 
-Claim Timestamp: 00:20:45
+Claim Timestamp: 00:23:23
 
 Claim: The host says a TikTok user claimed that someone in his family shot videos of the event and that the FBI asked him to delete the footage after he submitted it, and she says she does not know whether that is true.
 
@@ -1335,7 +1335,7 @@ Investigative Direction: Identify the TikTok user and preserve his submission re
 
 **C-12439** Host Says the TikTok User Sent Her Footage That Showed Kasparian
 
-Claim Timestamp: 00:20:45
+Claim Timestamp: 00:23:32
 
 Claim: The host says that when she got in touch with the same individual he sent her the footage, and her eye gravitated to another man in maroon who was alone and did not duck.
 
@@ -1351,7 +1351,7 @@ Investigative Direction: Obtain the original footage and its metadata from the i
 
 **C-12440** Emailer Says Colors Let Military Observers Know Whom to Protect
 
-Claim Timestamp: 00:20:45
+Claim Timestamp: 00:22:34
 
 Claim: The host reads an emailer who says that in coordinated violent scenes people in identifiable colors help military observers know whom to protect or look for.
 
@@ -1482,7 +1482,7 @@ Investigative Direction: Check the host's earlier episodes for any mention of Ba
 
 **C-12448** Host Says Carrie Bartholomew Stood Almost Directly Near Kasparian
 
-Claim Timestamp: 00:26:12
+Claim Timestamp: 00:27:40
 
 Claim: The host says she learned by accident that Adam Bartholomew's wife Carrie was at the event, standing by the bush almost directly near Kasparian.
 
@@ -1883,7 +1883,7 @@ Investigative Direction: Ask TPUSA who drafted and who approved the statement.
 
 **C-12473** Host Says TPUSA Campus Events Require Students to Submit Questions Ahead
 
-Claim Timestamp: 00:49:14
+Claim Timestamp: 00:50:45
 
 Claim: The host says that, based on a flurry of emails, the new format of TPUSA campus events is that students have to tell TPUSA ahead of time what they will ask.
 
@@ -1899,7 +1899,7 @@ Investigative Direction: Collect the emails and any TPUSA event rules on questio
 
 **C-12474** Commenter Says Bari Weiss Interviews Erika Kirk on December 13
 
-Claim Timestamp: 00:49:14
+Claim Timestamp: 00:51:07
 
 Claim: The host reads a commenter who says Bari Weiss is interviewing Erika Kirk on December 13.
 

@@ -1596,7 +1596,7 @@ Investigative Direction: Collect accounts from other fired employees about the s
 
 **C-8417** Host Says Ben Shapiro Pressing Megyn Kelly Was Her First Red Flag
 
-Claim Timestamp: 00:30:08
+Claim Timestamp: 00:31:26
 
 Claim: The host says the first moment she thought something was very wrong was when Ben Shapiro became the defender of Charlie Kirk and pressed Megyn Kelly while pretending to care about him, and that this told her Israel was involved.
 
@@ -1724,7 +1724,7 @@ Investigative Direction: Ask Kolvet about the remark and its context; the host d
 
 **C-8425** Host Says Influencers Took Money to Attack Her to Keep Her From Processing Charlie's Death
 
-Claim Timestamp: 00:40:26
+Claim Timestamp: 00:41:39
 
 Claim: The host says influencers took money to attack her non-stop before she could process what happened to Charlie Kirk, as part of a military-level psychological operation.
 

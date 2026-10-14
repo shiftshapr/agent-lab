@@ -1520,7 +1520,7 @@ Investigative Direction: Identify any new TPUSA communications hire or agency an
 
 **C-11451** Daily Mail Insider Says Druski Video Hurt Erika
 
-Claim Timestamp: 00:18:55
+Claim Timestamp: 00:21:02
 
 Claim: The host reads a Daily Mail article in which a close confidant says Erika is aware of how she comes across, has seen the online comments, and was hurt by a viral comedian's video mocking her after her husband's killing.
 

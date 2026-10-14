@@ -333,7 +333,7 @@ Investigative Pressure: High
 
 **N-10849** Woodbury Building / Baugh Family / N88 Plane Connection Question
 
-Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Chellain and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.
+Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Shirlene and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.
 
 Evidence Count: 0
 Claim Count: 0
@@ -447,7 +447,7 @@ TPUSA figure named in the defamation clips.
 
 **N-204** Shirlene Maxfield
 
-Co-owner of the N88 plane ('Chellain' in the transcript); Saprea figure.
+Co-owner of the N88 plane ('Shirlene' in the transcript); Saprea figure.
 
 *Related: C-11893, C-11894*
 
@@ -1029,7 +1029,7 @@ Investigative Direction: Obtain simultaneous timestamps from the garage and admi
 
 **C-11863** Host Says Nobody Knows What Either Driver Did for About an Hour and a Half
 
-Claim Timestamp: 00:03:41
+Claim Timestamp: 00:05:04
 
 Claim: The host says that no one has any idea what either Maroon Boy or Waluigi did during roughly an hour and a half on campus, and that no narrative has been provided for that time.
 
@@ -1045,7 +1045,7 @@ Investigative Direction: Request the full UVU campus camera archive for 8:30 to 
 
 **C-11864** Host Says the Hearing's Only Account of Maroon Boy Is Asking a TPUSA Employee About the Event
 
-Claim Timestamp: 00:03:41
+Claim Timestamp: 00:05:11
 
 Claim: The host says that from the preliminary hearing the only thing known about Maroon Boy is that he parked, went up to a Turning Point USA employee and asked whether this was where the event would be held.
 
@@ -1094,7 +1094,7 @@ Investigative Direction: Pull garage exit and admin-lot exit camera timestamps f
 
 **C-11867** Host Says Hull Never Suggested the Challenger Was Tracked Off Campus
 
-Claim Timestamp: 00:05:41
+Claim Timestamp: 00:07:13
 
 Claim: The host says the only Challenger footage the prosecution shows runs from about 8:30 to 9:33 a.m., and that Agent Hull does not suggest investigators tracked Maroon Boy's Challenger off campus or saw him change outfits.
 
@@ -1126,7 +1126,7 @@ Investigative Direction: Search discovery and neighborhood camera releases for a
 
 **C-11869** Host Says Officer Goforth's Encounter With the Challenger Has No Indicated Bodycam
 
-Claim Timestamp: 00:07:25
+Claim Timestamp: 00:08:42
 
 Claim: The host says prosecutors have never indicated there is body camera footage of the Dodge Challenger that pulled up to Officer Goforth after midnight and had a conversation with him.
 
@@ -1174,7 +1174,7 @@ Investigative Direction: Obtain the full eight-minute top-level garage footage a
 
 **C-11872** Host Says the TMZ Footage Was Omitted From the Prosecution Presentation
 
-Claim Timestamp: 00:13:00
+Claim Timestamp: 00:14:20
 
 Claim: The host says the TMZ footage showing Robinson earlier, already parked off campus at 8:07 a.m., was for some reason omitted from the prosecution's presentation and not raised in court.
 
@@ -1319,7 +1319,7 @@ Investigative Direction: Obtain the footwear evidence report and any survey of o
 
 **C-11881** Host Says a Morning Meeting at UVU Is Plausible Before the Planned Assassination
 
-Claim Timestamp: 00:16:38
+Claim Timestamp: 00:17:54
 
 Claim: The host says it is plausible that a morning meeting took place at UVU ahead of what she calls a very carefully planned assassination.
 
@@ -1335,7 +1335,7 @@ Investigative Direction: Obtain UVU room reservations, access logs and calendars
 
 **C-11882** Host Believes Miss Noble Told the Truth About a Bald Man and Two Others in a Challenger
 
-Claim Timestamp: 00:16:38
+Claim Timestamp: 00:18:03
 
 Claim: The host says she thinks Miss Noble and her husband were telling the truth when they said they saw a bald man and two other people in a Dodge Challenger early on September 11.
 
@@ -1417,7 +1417,7 @@ Investigative Direction: Obtain the hearing transcript and any Chick-fil-A trans
 
 **C-11887** Host Says Hull's Account Has Robinson Sending a Wordle Score at 11:28 Then Changing Clothes
 
-Claim Timestamp: 00:19:42
+Claim Timestamp: 00:20:53
 
 Claim: The host says Hull's account has Robinson leaving campus around 11:00 a.m., playing Wordle off campus, sending the score to friends at 11:28 and then changing back into his clothes.
 
@@ -1516,7 +1516,7 @@ Investigative Direction: Identify the arrest through UVU police or Orem and Prov
 
 Claim Timestamp: 00:23:33
 
-Claim: The host says that in the early hours people noticed a plane that used to be owned in Romania, the N88 plane owned by Derek Maxfield and Chellain Maxfield, and that they had to come out and give a statement.
+Claim: The host says that in the early hours people noticed a plane that used to be owned in Romania, the N88 plane owned by Derek Maxfield and Shirlene Maxfield, and that they had to come out and give a statement.
 
 Transcript Snippet: It was their plane. They had to come out and give a statement.
 
@@ -1597,7 +1597,7 @@ Investigative Direction: Record tip volume and any follow-up in later episodes w
 
 **C-11898** Host Says Boreing Books Guests to Oppose Whatever Topic She Covers
 
-Claim Timestamp: 00:29:12
+Claim Timestamp: 00:30:31
 
 Claim: The host says that whatever topic she covers, Jeremy Boreing then hosts someone to discuss it and takes the opposite position, and that his show's thumbnails are largely about her and Tucker Carlson.
 
@@ -1613,7 +1613,7 @@ Investigative Direction: Tabulate Boreing's show topics and guests against the h
 
 **C-11899** Host Says Boreing Built a Diagnosis From Her Saying Selfesteem on a Live Show
 
-Claim Timestamp: 00:29:12
+Claim Timestamp: 00:31:06
 
 Claim: The host says Boreing pulled a live-show moment where she sounded like she said selfesteem instead of self esteem and created a diagnosis that she did it to be famous.
 
@@ -1645,7 +1645,7 @@ Investigative Direction: Find any Kirk statement in which he called Neff a secre
 
 **C-11901** Sausalito Predicts Boreing Is Securing the Bag From Turning Point
 
-Claim Timestamp: 00:34:27
+Claim Timestamp: 00:35:43
 
 Claim: In the clip the host plays, Sausalito predicts that Boreing wants to continue getting paid by Turning Point, so he needs to run cover for everything they say and rebrand their speakers.
 
@@ -1804,7 +1804,7 @@ Investigative Direction: Check the Polymarket midterm contract's price history a
 
 **C-11911** Host Says Mark Levin and Others Demand Speech Censorship and State Lawsuits
 
-Claim Timestamp: 00:40:52
+Claim Timestamp: 00:42:21
 
 Claim: The host says speech censorship is being platformed and demanded by people such as Mark Levin and a person she names as Andrew Type, and that they want the state involved in lawsuits.
 
@@ -1836,7 +1836,7 @@ Investigative Direction: Check Massie's primary result and outside spending agai
 
 **C-11913** Host Says Laura Loomer Called Her a Slur
 
-Claim Timestamp: 00:42:43
+Claim Timestamp: 00:44:13
 
 Claim: The host says Laura Loomer referred to her as a ghetto black followed by an expletive, and questions what that would do for black voter turnout.
 

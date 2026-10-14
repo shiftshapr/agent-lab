@@ -859,7 +859,7 @@ Investigative Direction: Pull the raw message files from Discord/phones for ling
 
 **C-1176** Indictment Text Messages Lack Timestamps
 
-Claim Timestamp: 00:03:33
+Claim Timestamp: 00:03:08
 Claim: The text messages released in the Robinson indictment were stripped of timestamps, preventing independent chronological verification.
 Transcript Snippet: the obvious thing, there's no timestamps. Right away, major red flag.
 Anchored Artifacts: A-1104.1, A-1104.2, A-1104.7, A-1104.8, A-1104.9, A-1104.10, A-1106.3

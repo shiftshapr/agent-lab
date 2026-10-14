@@ -1464,7 +1464,7 @@ Investigative Direction: NFL or Roc Nation announcements and reporting on who se
 
 **C-14311** Host Says TPUSA Announced an Alternative Halftime Show and Trump Tweeted
 
-Claim Timestamp: 00:05:06
+Claim Timestamp: 00:06:31
 
 Claim: The host says that after Bad Bunny's booking drew backlash, Turning Point USA announced an alternative all-American halftime show and President Trump tweeted about it.
 
@@ -1480,7 +1480,7 @@ Investigative Direction: TPUSA announcement of the alternative show and the Trum
 
 **C-14312** Host Says Bad Bunny Did Not Wear a Dress at the Super Bowl
 
-Claim Timestamp: 00:05:06
+Claim Timestamp: 00:06:55
 
 Claim: The host says Bad Bunny did not in fact wear a dress during the Super Bowl halftime performance, although the prospect had driven the backlash.
 
@@ -1592,7 +1592,7 @@ Investigative Direction: Video of Tucker Carlson's Student Action Summit July 20
 
 **C-14319** Host Says Alex Clark Tweeted a Triumphant Post Citing 100 Million Views
 
-Claim Timestamp: 00:16:12
+Claim Timestamp: 00:17:34
 
 Claim: The host says Alex Clark tweeted that everyone said TPUSA was over and followed it with a '100 million views' figure, which the host calls fiction.
 
@@ -2298,7 +2298,7 @@ Investigative Direction: Kirk's statements naming who pressed him in the Hampton
 
 **C-14363** Host Says Dillon Earlier Called the Hamptons a Lovely Spirited Debate and Now Admits It Got Heated
 
-Claim Timestamp: 00:36:06
+Claim Timestamp: 00:37:19
 
 Claim: The host says Seth Dillon's earlier perspective was that it was a nice, lovely, spirited debate and that he now admits it got heated.
 
@@ -2315,7 +2315,7 @@ Investigative Direction: Dillon's earlier public statements on the Hamptons meet
 
 **C-14364** Host Says Nobody Addresses That Netanyahu Called During the Hamptons Meeting
 
-Claim Timestamp: 00:36:06
+Claim Timestamp: 00:37:44
 
 Claim: The host says that, even in their carefully orchestrated statements, no one wanted to touch the fact that Benjamin Netanyahu called, which she says she reported earlier.
 
@@ -2332,7 +2332,7 @@ Investigative Direction: Phone records or eyewitness accounts of a Netanyahu cal
 
 **C-14365** Host Says Charlie's Hamptons Stress Spilled Into His Conversation With Megyn Kelly
 
-Claim Timestamp: 00:36:06
+Claim Timestamp: 00:37:52
 
 Claim: The host says Charlie Kirk was so stressed by what happened in the Hamptons that it spilled over into his conversation with Megyn Kelly, and she credits Kelly for telling the truth about how he felt.
 
@@ -2525,7 +2525,7 @@ Investigative Direction: Event records and photos of the host with Kirk family m
 
 **C-14377** Host Says Those Around Charlie Have a Potential Billion-Dollar Motive
 
-Claim Timestamp: 00:45:37
+Claim Timestamp: 00:46:56
 
 Claim: The host says that questioning the people around Charlie Kirk, who she says potentially have a billion-dollar motive for him not to be there, is not unreasonable.
 

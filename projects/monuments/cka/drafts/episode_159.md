@@ -1838,7 +1838,7 @@ Investigative Direction: Identify attendees of the Zoom calls from September 202
 
 **C-6356** Host says TPUSA encased Charlie's bloodied microphone as an emotional appeal to donors at the Mar-a-Lago event
 
-Claim Timestamp: 00:02:39
+Claim Timestamp: 00:03:56
 
 Claim: The host says Turning Point USA decided to encase Charlie's bloodied microphone as an emotional appeal to donors at its annual Mar-a-Lago event and at AmFest.
 
@@ -1853,7 +1853,7 @@ Investigative Direction: Obtain event photos and programs from the Mar-a-Lago ev
 
 **C-6357** Host says TPUSA allegedly raised $40 million at the Mar-a-Lago event
 
-Claim Timestamp: 00:02:39
+Claim Timestamp: 00:04:11
 
 Claim: The host says Turning Point USA allegedly raised $40 million at the Mar-a-Lago event, partly because of heartstring-pulling displays such as Erika photographed next to the microphone.
 
@@ -1868,7 +1868,7 @@ Investigative Direction: Check TPUSA or Turning Point Action donor disclosures a
 
 **C-6358** Host says TPUSA staff feel lied to after the UVU independent review
 
-Claim Timestamp: 00:02:39
+Claim Timestamp: 00:04:28
 
 Claim: The host says people at Turning Point USA are disgusted and feel lied to about many things, especially after the UVU independent review, and that this is why leaks are reaching her.
 
@@ -1974,7 +1974,7 @@ Investigative Direction: Compile TPUSA's public statements on Charlie's Israel p
 
 **C-6365** Tipster says Why Refi came in with extra money to offset lost revenue
 
-Claim Timestamp: 00:07:32
+Claim Timestamp: 00:08:45
 
 Claim: According to the host's tip, the company Why Refi came in with a large amount of extra money in an offer to make up some of the lost donor revenue.
 
@@ -1990,7 +1990,7 @@ Investigative Direction: Compare the timing of Bob Shillman's withdrawal with th
 
 **C-6366** Tipster alleges Why Refi had a say in tour stops; host says no evidence beyond hearsay
 
-Claim Timestamp: 00:07:32
+Claim Timestamp: 00:09:25
 
 Claim: The host says the tipster alleged Why Refi was given a say over where Charlie's tour stops would be, but the host states she cannot demonstrate that Why Refi hand-selected UVU and that there is no evidence beyond hearsay.
 
@@ -2005,7 +2005,7 @@ Investigative Direction: Seek the stop-selection correspondence between TPUSA ev
 
 **C-6367** Host says Why Refi became a massive TPUSA sponsor in 2024 right after she stopped touring with Charlie
 
-Claim Timestamp: 00:07:32
+Claim Timestamp: 00:10:05
 
 Claim: The host says Why Refi came in as a massive sponsor of Turning Point USA in 2024, right after she stopped touring with Charlie Kirk.
 
@@ -2095,7 +2095,7 @@ Investigative Direction: Retrieve the Daily Mail article and confirm date, bylin
 
 **C-6373** Daily Mail reports Why Refi faced $750,000 in state sanctions last year
 
-Claim Timestamp: 00:11:10
+Claim Timestamp: 00:12:40
 
 Claim: Reading the Daily Mail article, the host says Why Refi last year faced $750,000 in state sanctions in a settlement of accusations of deceptive marketing aimed at private funders, and that the company neither admitted nor denied them.
 
@@ -2216,7 +2216,7 @@ Investigative Direction: Check each named influencer's posts for Why Refi promot
 
 **C-6381** Contract gives Why Refi hotel rooms, six inauguration seats and 25 Turning Point Ball tickets
 
-Claim Timestamp: 00:17:29
+Claim Timestamp: 00:19:08
 
 Claim: The host reads that the contract gives Why Refi four hotel rooms, six seated tickets to the inauguration and 25 tickets to the Turning Point Ball, plus naming of a Why Refi theater and the entire spring campus tour.
 
@@ -2336,7 +2336,7 @@ Investigative Direction: Obtain the host's call log and any contemporaneous mess
 
 **C-6389** Trump called the host on February 26 asking her to stop speaking about Brigitte Macron
 
-Claim Timestamp: 00:23:22
+Claim Timestamp: 00:24:35
 
 Claim: The host says that on February 26, 2025 Donald Trump called her and asked her to stop speaking about Brigitte Macron.
 
@@ -2351,7 +2351,7 @@ Investigative Direction: Obtain the host's call records for February 26, 2025 an
 
 **C-6390** Host says BCG abandoned the Gaza Humanitarian Foundation in early June 2025 because of scandal
 
-Claim Timestamp: 00:23:22
+Claim Timestamp: 00:24:57
 
 Claim: The host says that in early June 2025 Boston Consulting Group had to get out of the Gaza Humanitarian Foundation because of scandal, and characterizes the foundation as corrupt.
 
@@ -2366,7 +2366,7 @@ Investigative Direction: Check BCG and GHF statements, press reports and contrac
 
 **C-6391** Johnny Moore became chairman of the Gaza Humanitarian Aid Project on June 3
 
-Claim Timestamp: 00:23:22
+Claim Timestamp: 00:25:15
 
 Claim: The host says that on June 3 Johnny Moore took over as chairman of the Gaza Humanitarian Aid Project.
 
@@ -2594,7 +2594,7 @@ Investigative Direction: Check the YouTube publish date of 'Dead Men Tell No Tal
 
 **C-6406** Host says her 'Midas Touch' episode argued Epstein's money was unexplained and he rose via blackmail
 
-Claim Timestamp: 00:29:19
+Claim Timestamp: 00:30:48
 
 Claim: The host says her Epstein episode 'The Midas Touch' covered where Epstein's money came from, argued he was not that smart but good at blackmailing people, and discussed the Department of Justice, Bill Barr's contributions and the Dalton school.
 
@@ -2609,7 +2609,7 @@ Investigative Direction: Compare the episode's sourcing with the documented reco
 
 **C-6407** Host says a formal request from the TPUSA UVU chapter was submitted July 18 and the event was set for UVU
 
-Claim Timestamp: 00:29:19
+Claim Timestamp: 00:31:08
 
 Claim: The host says that on July 18 a formal request from Turning Point USA's UVU chapter was submitted, and the decision was made to hold the event at Utah Valley University.
 
@@ -2624,7 +2624,7 @@ Investigative Direction: Verify the July 18 date in the UVU independent review's
 
 **C-6408** Host says an Egyptian plane flew Cairo-Paris-Omaha-Lincoln on July 20
 
-Claim Timestamp: 00:29:19
+Claim Timestamp: 00:31:20
 
 Claim: The host says that on July 20 an Egyptian plane flew from Cairo through Paris to Omaha, Nebraska and then on to Lincoln, Nebraska.
 
@@ -2639,7 +2639,7 @@ Investigative Direction: Match the tail number's FlightAware or ADS-B history ag
 
 **C-6409** Host says the Kirks vacationed in Maine from July 20 with Mikey and Elizabeth McCoy, producing the final footage
 
-Claim Timestamp: 00:29:19
+Claim Timestamp: 00:31:34
 
 Claim: The host says that from July 20 Charlie vacationed in Maine for a couple of weeks and went off radar, and that Mikey McCoy and Elizabeth McCoy joined Erika and Charlie for the first time, capturing what became the final footage distributed after the assassination.
 
@@ -2881,7 +2881,7 @@ Investigative Direction: Obtain the photographer's booking and publication detai
 
 **C-6425** Host says the August 15-17 Aspen investor meeting is when Charlie reportedly appointed Erika successor
 
-Claim Timestamp: 00:35:55
+Claim Timestamp: 00:37:18
 
 Claim: The host says that at a Turning Point USA Aspen investor meeting from August 15 to 17, Charlie reportedly appointed Erika to take over if he died unexpectedly.
 
@@ -2896,7 +2896,7 @@ Investigative Direction: Obtain the Aspen meeting attendee list and any recordin
 
 **C-6426** Host says Egyptian planes landed in Lincoln at noon on August 17 and were also in Omaha
 
-Claim Timestamp: 00:35:55
+Claim Timestamp: 00:37:27
 
 Claim: The host says that on August 17 the Egyptian planes came into Lincoln, Nebraska at noon and were also in Omaha.
 
@@ -2911,7 +2911,7 @@ Investigative Direction: Compare ADS-B arrival times and the airports against th
 
 **C-6427** Host says FOIA about Kash Patel's Omaha trip drew a neither-confirm-nor-deny response
 
-Claim Timestamp: 00:35:55
+Claim Timestamp: 00:37:41
 
 Claim: The host says Kash Patel went to Omaha while the Egyptian planes were there, that her team filed a FOIA request to learn why and who was aboard with him, and that the government replied it could neither confirm nor deny.
 
@@ -2972,7 +2972,7 @@ Investigative Direction: Verify the August 25 meeting entry and Long's contact r
 
 **C-6431** Host says September 2 was the first mention found of Charlie speaking in UVU's courtyard, and Long reached Dan Flood on September 3
 
-Claim Timestamp: 00:38:16
+Claim Timestamp: 00:39:30
 
 Claim: The host says September 2 is the first time she could find the upcoming event mentioned, with Charlie to speak at UVU in the courtyard, that Chief Long then followed up with the club president and was given a contact, and that on September 3 he established a connection with Dan Flood.
 
@@ -2987,7 +2987,7 @@ Investigative Direction: Verify the September 2-3 entries in the independent rev
 
 **C-6432** Host says 3,000 people showed up despite the event being announced so late
 
-Claim Timestamp: 00:38:16
+Claim Timestamp: 00:39:45
 
 Claim: The host says that although the event was apparently only mentioned on September 2, about 3,000 people were going to show up.
 
@@ -3137,7 +3137,7 @@ Investigative Direction: Obtain the Scripps records request and the department's
 
 **C-6442** Host says Erika attended daycare in Cincinnati's Scripps building in 1991, built in 1990
 
-Claim Timestamp: 00:53:52
+Claim Timestamp: 00:55:15
 
 Claim: The host says her team's earlier series found Erika attended daycare in 1991 at a corporate building built in 1990 that was the Scripps building in Cincinnati, Ohio, at 312 Walnut Street.
 
@@ -3167,7 +3167,7 @@ Investigative Direction: Check employment history for Erika's parents against te
 
 **C-6444** Host quotes Erika as saying she asks herself whether something brings her closer to or further from heaven
 
-Claim Timestamp: 01:00:00
+Claim Timestamp: 01:01:24
 
 Claim: The host quotes Erika's statement 'All I do is I asked myself, will this bring me closer to heaven or further away from it?' as the basis of her claimed heaven focus.
 
@@ -3212,7 +3212,7 @@ Investigative Direction: Check the Vanity Fair article's description of access g
 
 **C-6447** Host thanks Lake Forest Group, the UVU independent review and the Vanity Fair reporter for her vindication
 
-Claim Timestamp: 01:04:59
+Claim Timestamp: 01:06:26
 
 Claim: The host thanks the UVU independent review, Lake Forest Group and the Vanity Fair reporter, saying she has had the most vindicated week.
 

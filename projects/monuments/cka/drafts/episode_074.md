@@ -1768,7 +1768,7 @@ Investigative Direction: Obtain Jillian's own first-person account, ideally reco
 
 **C-10154** Host says Taylor Swift harnesses tween emotion to get business deals done
 
-Claim Timestamp: 00:12:02
+Claim Timestamp: 00:13:14
 
 Claim: The host says her biggest gripe with Taylor Swift is that Swift harnesses the power of tween emotion to get business deals done.
 

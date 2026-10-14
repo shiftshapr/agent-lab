@@ -1161,7 +1161,7 @@ Investigative Direction: Compare the September 4 Provo arrival record for SUBTT 
 
 **C-7981** Wilmington Landing About 2.5 Hours Before the Shooting
 
-Claim Timestamp: 00:02:32
+Claim Timestamp: 00:03:51
 
 Claim: The host says SUBTT landed in Wilmington at 11:51 a.m. Eastern, about 9:51 a.m. Utah time, roughly two and a half hours before Charlie Kirk was shot at 12:23 Utah time.
 
@@ -1194,7 +1194,7 @@ Investigative Direction: Ask the host to identify the agencies and offices consu
 
 **C-7983** Host Says Tip Was Vetted to the Highest Levels of Government
 
-Claim Timestamp: 00:02:32
+Claim Timestamp: 00:04:57
 
 Claim: The host says her team took time vetting the tip and that it was vetted across multiple government agencies and to the highest levels of government, so she considers it legitimate and not a distraction.
 
@@ -1388,7 +1388,7 @@ Investigative Direction: Review GSA lease and building tenant records for 920 No
 
 **C-7995** Host Compares 920 North King Street to 33 Thomas Street
 
-Claim Timestamp: 00:10:45
+Claim Timestamp: 00:11:57
 
 Claim: The host says 920 North King Street looks like a mini version of the 33 Thomas Street building in New York, the building she says is associated with the Snowden leak, with glass windows as the only difference.
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Compare photographs of both buildings; the resemblance 
 
 **C-7996** Host Says X Users Cited a Falcon Maintenance Arrangement Dating to 1999
 
-Claim Timestamp: 00:10:45
+Claim Timestamp: 00:12:08
 
 Claim: The host says people on X argued SUBTT has an alibi because it aligns with a longstanding Falcon maintenance arrangement out of Wilmington dating back to 1999.
 
@@ -1470,7 +1470,7 @@ Investigative Direction: Line up SUBTT's France stops and Wilmington stops again
 
 **C-8000** Email Says Google Lists 920 North King Street as FBI Versus the Public Address
 
-Claim Timestamp: 00:14:22
+Claim Timestamp: 00:15:33
 
 Claim: The host reads the email saying a Google search for the FBI Wilmington Resident Agency will likely show 920 North King Street labeled Federal Bureau of Investigation, rather than the public FBI address at 500 Delaware Avenue, Suite 300.
 
@@ -2190,7 +2190,7 @@ Investigative Direction: Review the Macron defamation filing and the host's evid
 
 **C-8044** Host Says the Decision Was Made to Execute Charlie Publicly
 
-Claim Timestamp: 00:39:57
+Claim Timestamp: 00:41:23
 
 Claim: The host says the decision was made to execute Charlie Kirk publicly and that she will never get over it.
 
@@ -2350,7 +2350,7 @@ Investigative Direction: Ask the host for the book club source she cites; no doc
 
 **C-8054** Viewer Says Kolvet's Miracle Vertebra Claim Ended Their TPUSA Donations
 
-Claim Timestamp: 00:48:56
+Claim Timestamp: 00:50:13
 
 Claim: A viewer comment read by the host says that up until Andrew Kolvet told people they had to believe in a miracle vertebra, the commenter was a devoted TPUSA donor and show member.
 

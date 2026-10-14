@@ -1126,7 +1126,7 @@ Investigative Direction: Obtain the Delaware River and Bay Authority lease, its 
 
 **C-4982** Host Says Source Claimed a Foreign Dignitary Was Moved to 920 King Street
 
-Claim Timestamp: 00:04:48
+Claim Timestamp: 00:06:23
 
 Claim: The host says her source claimed that after the Egyptian plane SUBTT landed at the federally monitored hangar, a foreign dignitary was discreetly moved to 920 King Street, which she says houses the DEA, FBI and Secret Service.
 
@@ -1689,7 +1689,7 @@ Investigative Direction: Check the court record on the Epstein passport found in
 
 **C-5019** Host Says Becoming Brigitte Season 2 Began September 8 and Macron's Lawsuit Cited MK Ultra 18 Times
 
-Claim Timestamp: 00:22:16
+Claim Timestamp: 00:23:28
 
 Claim: The host says her Becoming Brigitte season 2 started on September 8, 2025, and that Emmanuel Macron mentioned MK Ultra to her 18 times in the lawsuit, which struck her as odd.
 
@@ -1704,7 +1704,7 @@ Investigative Direction: Count the MK Ultra references in the Delaware complaint
 
 **C-5020** Host Says Her Team Asked Whether Brigitte Macron Was Involved in a Stanford Experiment With a Protected Prisoner 2093
 
-Claim Timestamp: 00:22:16
+Claim Timestamp: 00:23:34
 
 Claim: The host says her team was trying to determine whether Brigitte Macron could have been involved in the Stanford experiment, and that a prisoner 2093 was being protected for reasons they did not know.
 
@@ -1946,7 +1946,7 @@ Investigative Direction: Obtain the security plan and vehicle staging diagram; i
 
 **C-5036** Host Says Security Focused on Controlled Access in the Hall of Flags
 
-Claim Timestamp: 00:37:13
+Claim Timestamp: 00:38:27
 
 Claim: The host says all Turning Point security cared about, for reasons she does not know, was controlled access in the Hall of Flags, and she wants to know what was happening there.
 

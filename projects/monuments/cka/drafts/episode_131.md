@@ -1346,7 +1346,7 @@ Investigative Direction: Compare with the November 15, 2023 thread and the publi
 
 **C-13133** Host Says Charlie Was Also Attacked and Called Anti-Semitic After October 7
 
-Claim Timestamp: 00:08:02
+Claim Timestamp: 00:09:37
 
 Claim: The host says that after October 7 the same people who attacked her also attacked Charlie Kirk and called him anti-Semitic.
 
@@ -1469,7 +1469,7 @@ Investigative Direction: Obtain the Kirk and Owens messages that name Seth Dillo
 
 **C-13141** Host Says She and Charlie Met at YWLN and Discussed Daily Wire's Legal Posture
 
-Claim Timestamp: 00:12:34
+Claim Timestamp: 00:13:59
 
 Claim: The host says that when she spoke at YWLN, she and Charlie Kirk sat in a room discussing what was happening behind the scenes at Daily Wire and what the company was doing legally, and that an Andrew (transcribed Andrew Klavan) was present before she went on stage.
 
@@ -1484,7 +1484,7 @@ Investigative Direction: Identify the event (likely a Young Women's Leadership S
 
 **C-13142** Host Says Text Messages With Andrew Show Ben Shapiro Squeezed Donors Over Her AmFest 2024 Slot
 
-Claim Timestamp: 00:12:34
+Claim Timestamp: 00:14:22
 
 Claim: The host says text messages she has with Andrew (Kolvet, per context) told her that Ben Shapiro was squeezing their donors to try to stop her speaking at AmFest at the end of 2024.
 
@@ -2199,7 +2199,7 @@ Investigative Direction: Compare hearing testimony with the host's earlier claim
 
 **C-13187** Host Says About $40 Million Was Raised in One Night
 
-Claim Timestamp: 00:49:33
+Claim Timestamp: 00:50:46
 
 Claim: The host says roughly $40 million was raised in one night as Erika posed next to the bloody item, a fact she says is forgotten.
 

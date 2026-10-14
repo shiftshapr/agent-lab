@@ -3311,7 +3311,7 @@ Investigative Direction: Check the book's imprint and printer.
 
 **C-12254** Host Says Her Husband Used to Work With and Donate to Friends of Israel in the UK
 
-Claim Timestamp: 01:03:39
+Claim Timestamp: 01:05:12
 
 Claim: The host says her husband used to work with and donate to groups like the Friends of Israel when he was in the UK, before he married her.
 
@@ -3326,7 +3326,7 @@ Investigative Direction: Check public donation records and group listings in the
 
 **C-12255** Host Says She Was Pro-Israel When She and Her Husband Met
 
-Claim Timestamp: 01:03:39
+Claim Timestamp: 01:05:20
 
 Claim: The host says she would say she was pro-Israel when she and her husband met.
 
@@ -3341,7 +3341,7 @@ Investigative Direction: Compare with her earlier public statements about Israel
 
 **C-12256** Host Says Trump Inviting Kash Patel to the Charlie Holiday Event Shows He Wants It Buried
 
-Claim Timestamp: 01:03:39
+Claim Timestamp: 01:06:57
 
 Claim: The host says she holds no hope that the Trump administration will deliver justice, and that Trump inviting Kash Patel to the Charlie holiday event is proof to her that he wants the case buried.
 
@@ -3357,7 +3357,7 @@ Investigative Direction: Check the event guest list and the White House schedule
 
 **C-12257** Host Says Don Jr. May Have Said He Accepts the Official Narrative
 
-Claim Timestamp: 01:03:39
+Claim Timestamp: 01:07:08
 
 Claim: The host says she thinks Don Jr. may have said that he accepts the narrative and that she will dig up the clip to show next day.
 
@@ -3372,7 +3372,7 @@ Investigative Direction: Locate any Don Jr. statement on the official narrative.
 
 **C-12258** Host Says Miriam Adelson Gave Trump $100 Million With an Explicit Understanding on West Bank Annexation
 
-Claim Timestamp: 01:03:39
+Claim Timestamp: 01:07:19
 
 Claim: The host says Miriam Adelson gave Trump $100 million and was explicit that it meant he would allow them to annex not Gaza but the West Bank.
 
@@ -3388,7 +3388,7 @@ Investigative Direction: Check FEC filings for Adelson contributions and public 
 
 **C-12259** Host Says Trump Pre-Agreed to Annexation and Will Act on It
 
-Claim Timestamp: 01:03:39
+Claim Timestamp: 01:07:31
 
 Claim: The host says Trump pre-agreed to the annexation and is going to make it on his pre-agreement.
 
@@ -3404,7 +3404,7 @@ Investigative Direction: Track administration actions and statements on the West
 
 **C-12260** Host Says She Hates That Charlie Was Right About His Life
 
-Claim Timestamp: 01:03:39
+Claim Timestamp: 01:08:29
 
 Claim: The host says she hates that Charlie was right about his life, in context of what she and Charlie had discussed about his dreams.
 
@@ -3420,7 +3420,7 @@ Investigative Direction: Compare with the earlier accounts of Kirk's dreams.
 
 **C-12261** Host Says Kanye Was Put on a Psychiatric 5150 Hold to Portray Him as Crazy
 
-Claim Timestamp: 01:03:39
+Claim Timestamp: 01:08:50
 
 Claim: The host says that "they" did to Kanye what is done to people in Hollywood, putting him on a psychiatric 5150 hold to convince the world he is crazy.
 

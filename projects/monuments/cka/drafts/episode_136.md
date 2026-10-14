@@ -1013,7 +1013,7 @@ Investigative Direction: Obtain the original photograph of the door compartment 
 
 **C-11704** Host Says Sleuth Tip Revealed McCoy Recorded Kirk's Final Weeks
 
-Claim Timestamp: 00:01:55
+Claim Timestamp: 00:03:14
 
 Claim: The host says a sleuth emailed a tip that Mikey McCoy had been recording Charlie's last moments, including in the weeks leading up to the shooting, and that his footage of Kirk exiting the car is the basis for the empty-pocket finding.
 
@@ -1356,7 +1356,7 @@ Investigative Direction: Verify the Brady List website's own description of what
 
 **C-11725** Host Says Not Every Officer Has an Entry on the Brady List
 
-Claim Timestamp: 00:20:19
+Claim Timestamp: 00:21:45
 
 Claim: The host says she checked whether there is an entry for every officer in the land and concluded from the site's about section and her own search that there is not.
 
@@ -1388,7 +1388,7 @@ Investigative Direction: Review public reporting, DOJ findings and court records
 
 **C-11727** Host Says Robertson Moved to Utah in August 2024
 
-Claim Timestamp: 00:22:55
+Claim Timestamp: 00:24:38
 
 Claim: The host says Robertson decided to go to Utah in August 2024 despite having spent his whole life in California, and calls the timing precise.
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Obtain USU hiring and lateral-transfer paperwork showin
 
 **C-11728** Host Says It Is Plausible Robertson Was Involved in Something in San Bernardino
 
-Claim Timestamp: 00:22:55
+Claim Timestamp: 00:24:53
 
 Claim: The host says it is a plausibility that Allan E. Robertson was involved in something in San Bernardino, noting a habit of transferring officers in trouble to other departments, while saying she is not claiming he was.
 
@@ -1548,7 +1548,7 @@ Investigative Direction: Confirm the institute's address, program cost and any c
 
 **C-11737** Host Cites a Second CNN Source on the Iran Ideas Request
 
-Claim Timestamp: 00:34:33
+Claim Timestamp: 00:35:48
 
 Claim: The host reads from CNN that a second source also said a senior US military officer sent the message last week soliciting new ideas for how to deal with Iran.
 
@@ -1564,7 +1564,7 @@ Investigative Direction: Obtain the CNN article and test the two sourcing paths 
 
 **C-11738** Host Says Charlie Was the First Casualty of the Iranian War
 
-Claim Timestamp: 00:34:33
+Claim Timestamp: 00:37:33
 
 Claim: The host says 'we know' Charlie Kirk was the first casualty of the Iranian war and that he was in the way.
 
@@ -1581,7 +1581,7 @@ Investigative Direction: This is an inference; it would need documentary evidenc
 
 **C-11739** Host Says Netanyahu Pitched Trump That Persia Could Be Taken in a Week
 
-Claim Timestamp: 00:34:33
+Claim Timestamp: 00:36:09
 
 Claim: The host says Trump listened to a pitch by Netanyahu saying they could take Persia in a week.
 
@@ -1597,7 +1597,7 @@ Investigative Direction: Look for reporting on Netanyahu's private assessments t
 
 **C-11740** Host Says Trump Has Claimed About 55 Victories Over Iran in His Tweets
 
-Claim Timestamp: 00:34:33
+Claim Timestamp: 00:36:41
 
 Claim: The host says that according to Trump's tweets the US has beaten Iran about 55 times, yet has not beaten Iran.
 
@@ -1758,7 +1758,7 @@ Investigative Direction: Identify the specific individuals and statements the ho
 
 **C-11750** Host Says She Did Not Have to Recant Any Statement After the Preliminary Hearing
 
-Claim Timestamp: 00:45:02
+Claim Timestamp: 00:46:38
 
 Claim: The host says that after the preliminary hearing she did not have to recant even one statement she had made previously.
 
@@ -1774,7 +1774,7 @@ Investigative Direction: Compare the host's pre-hearing claims with the hearing 
 
 **C-11751** Host Says the Preliminary Hearing Showed No 4K Video of Robinson Taking the Shot
 
-Claim Timestamp: 00:45:02
+Claim Timestamp: 00:46:30
 
 Claim: The host says she expected given Erika's confidence that the preliminary hearing would show a 4K HD video of Tyler taking the shot, and says nothing of the kind was shown.
 

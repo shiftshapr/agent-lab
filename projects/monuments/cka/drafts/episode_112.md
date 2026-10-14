@@ -747,7 +747,7 @@ Investigative Direction: Obtain an on-record TPUSA statement and the original un
 
 ---
 
-**C-4399** Host emailed Strife, Kolvet and TPUSA's lawyer; TPUSA's X account shared the email instead of answering
+**C-4399** Host emailed Streiff, Kolvet and TPUSA's lawyer; TPUSA's X account shared the email instead of answering
 
 Claim Timestamp: 00:14:20
 

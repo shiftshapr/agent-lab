@@ -882,7 +882,7 @@ Anchored Artifacts: A-1162.1
 Mentions: N-1, N-2, N-15, N-119, N-124
 Related Nodes: N-10000, N-10130, N-10132
 Confidence: high
-Investigative Direction: Obtain the original signed memo directly from TPUSA or insider sources; verify Strife's actual scope of authority and the composition of the assembled team.
+Investigative Direction: Obtain the original signed memo directly from TPUSA or insider sources; verify Streiff's actual scope of authority and the composition of the assembled team.
 
 ---
 
@@ -983,8 +983,8 @@ Investigative Direction: Verify with primary recording or transcript of the actu
 
 **C-3737** Xaviaer DuRousseau is the speaker C-1292 spells 'Xavier Deruso' (revises C-1292)
 
-Claim Timestamp: 00:04:28
-Claim: C-1292 spells the speaker's name 'Xavier Deruso'. The speaker is Xaviaer DuRousseau (N-116). He states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.
+Claim Timestamp: 00:03:59
+Claim: C-1292 spells the speaker's name 'Xavier Deruso'; the speaker is Xaviaer DuRousseau. The host says he made a video saying Charlie Kirk used the phrase 'moral blackmail' about the weekend, but in a workshop setting, like a debate club strengthening their arguments on Israel.
 Transcript Snippet: Charlie spoke about feeling morally blackmailed.
 Anchored Artifacts: A-1165.1
 Mentions: N-116, N-1

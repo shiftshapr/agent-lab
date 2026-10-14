@@ -23,7 +23,7 @@
 
 The host says the White House Military Office sent a communications email at about 9:49 p.m. Eastern on the night of the White House Correspondents' Dinner shooting, and that the White House then tried to rescind it. She dates the shooting to 8:36 p.m. and says Sarah Sidner of CNN was the first to post Erika Kirk's "I just want to go home" clip, at 9:25 p.m., citing Instagram metadata (A-2575.1). She reads the part of the email that calls the clip the incident's "strongest emotional response" asset and recommends that all channels and "approved surrogates" amplify it overnight (A-2574.1). The host does not show the email. She says the Department of Defense uses a "canary" watermarking tactic to trace leakers, and she names three people she says were copied: Steven Cheung, Ryan Rippeon and Gustav Anderly of the White House Communications Agency. She adds that, according to her sources, the recall failed and recipients were ordered to delete the email (A-2574.2).
 
-The host then relays a tips-line story she says was verified with receipts (A-2576.1). According to the host, Justin Streiff, who had been promoted to TPUSA chief operating officer seven days before the assassination, allegedly called a book printer on September 10 to at least double the order for Charlie Kirk's book "Stop in the Name of God", after getting Erika Kirk's approval. She repeats an outside source's and an insider's accounts that about $10 million was missing from Turning Point Action. She also says Strife runs Winning Team Publishing, which Sergio Gor and Donald Trump Jr. founded. She relays a rumor that Gor left his White House deputy chief of staff role after clashing with Elon Musk, including over Jared Isaacman's appointment, and over an alleged relationship. She plays Erika Kirk's remarks at Gor's ambassador-to-India ceremony (A-2577.1).
+The host then relays a tips-line story she says was verified with receipts (A-2576.1). According to the host, Justin Streiff, who had been promoted to TPUSA chief operating officer seven days before the assassination, allegedly called a book printer on September 10 to at least double the order for Charlie Kirk's book "Stop in the Name of God", after getting Erika Kirk's approval. She repeats an outside source's and an insider's accounts that about $10 million was missing from Turning Point Action. She also says Streiff runs Winning Team Publishing, which Sergio Gor and Donald Trump Jr. founded. She relays a rumor that Gor left his White House deputy chief of staff role after clashing with Elon Musk, including over Jared Isaacman's appointment, and over an alleged relationship. She plays Erika Kirk's remarks at Gor's ambassador-to-India ceremony (A-2577.1).
 
 In later segments the host mocks Jessica Reed Kraus's posts relaying praise from Nick Shirley's elementary school teachers, together with Shirley's reply (A-2578). She shows a Times headline saying Brigitte Macron slapped her husband over text messages to an Iranian actress (A-2579). In the comments she says Captain Adam Nef was found and confirmed questioning Mitch Snow. She also says TPUSA is now paying chapter leaders not to close chapters and that her merch had its highest sales day after the "boycott advertisers" campaign.
 
@@ -299,7 +299,7 @@ Source of the rescinded communications email; Sergio Gor's former office there i
 
 **N-10132** TPUSA DOGE Department / Financial Audit
 
-The audit announced with Strife's promotion, and Charlie Kirk's internal DOGE.
+The audit announced with Streiff's promotion, and Charlie Kirk's internal DOGE.
 
 *Related: C-4080, C-4084*
 
@@ -323,7 +323,7 @@ Outside and insider tips of about $10 million missing from Turning Point Action.
 
 **N-10493** Pierre / French Donor Investigation
 
-The "mysterious Pierre" whom Strife allegedly phoned on September 10.
+The "mysterious Pierre" whom Streiff allegedly phoned on September 10.
 
 *Related: C-4063*
 
@@ -572,7 +572,7 @@ Investigative Direction: Ask the named recipients or their press offices to conf
 
 **C-4070** Gustav Anderly is an information systems manager at the White House Communications Agency
 
-Claim Timestamp: 00:04:55
+Claim Timestamp: 00:06:24
 
 Claim: The host says Gustav Anderly is listed as information systems manager at the White House Communications Agency in Arlington, Virginia.
 
@@ -602,7 +602,7 @@ Investigative Direction: Obtain the full email text from a recipient and compare
 
 **C-4072** Email recommended all channels amplify the clip with approved surrogates
 
-Claim Timestamp: 00:06:44
+Claim Timestamp: 00:07:59
 
 Claim: The host reads the email's recommendation that all communication channels amplify the clip and coordinate with digital partners and "approved surrogates" to ensure dominant overnight placement.
 
@@ -809,11 +809,11 @@ Investigative Direction: Identify the printer and obtain its call and order reco
 
 ---
 
-**C-4086** Strife sought to at least double the "Stop in the Name of God" print order
+**C-4086** Streiff sought to at least double the "Stop in the Name of God" print order
 
 Claim Timestamp: 00:18:19
 
-Claim: The host says that hours after Charlie Kirk died, Strife allegedly told the printer they would need to at least double a previously planned order of roughly 25,000–50,000 copies of Charlie's upcoming book "Stop in the Name of God."
+Claim: The host says that hours after Charlie Kirk died, Streiff allegedly told the printer they would need to at least double a previously planned order of roughly 25,000–50,000 copies of Charlie's upcoming book "Stop in the Name of God."
 
 Transcript Snippet: Justin Streiff allegedly apparently reached out to the printer and said that uh let's order some more books. I'm going to ask Erika and I'm and I'll call you back but we're going to need to at least double that order.
 
@@ -828,14 +828,14 @@ Investigative Direction: Obtain the printer's purchase orders and change orders 
 
 Claim Timestamp: 00:18:19
 
-Claim: The host says Strife allegedly got Erika Kirk's permission and immediately told the printer "it's a go."
+Claim: The host says Streiff allegedly got Erika Kirk's permission and immediately told the printer "it's a go."
 
 Transcript Snippet: He reached out to Erika and got her permission and then he immediately circled back to the printing agency and said it's a go. Erika says yes.
 
 Anchored Artifacts: A-2576.1
 Mentions: N-2, N-15, N-1
 Related Nodes: N-10924
-Investigative Direction: Obtain call logs between Strife, Erika Kirk and the printer for September 10, 2025.
+Investigative Direction: Obtain call logs between Streiff, Erika Kirk and the printer for September 10, 2025.
 
 ---
 
@@ -1392,7 +1392,7 @@ Confidence: high
 - **Skeleton handling**: The existing N-16 and N-163 rows and the M-42 occurrence are kept with their ids and text; only their placeholder *Related:* lines were filled in. The N-163 description mentions an "Epstein situation-room attendee read", which does not appear in this transcript; it is kept verbatim from the skeleton. The skeleton's ledger line "Hole-minted Nodes (remap-ep104): N-163" was replaced by "(see registers)" per the spec. Its Video Timestamp Range (00:56:29) was corrected to the transcript duration, 49:46.
 - **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Nef" is N-162 Blake Neff. "Captain Adam Nef" / "Commander Nef" is N-323. "Sarah Seidner" is N-376 Sarah Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
 - **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-618 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-631, the host says she is "definitely not saying this name right" ("Gosh Farani", "Gosh Fani", "Farhani", "Verahani", "Verhani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
-- **Transcription ambiguities**: "rescend" / "resend" for rescind, and "plat platforms", are kept as written. "Brigitte / Brigitte / Brigitte Macron" (Brigitte Macron), "Emmanuel Macron", "capta" (CAPTCHA) and "Vavlla" (favela) are kept as written. The host says Strife "he's not just the CEO" (20:14) but elsewhere calls him COO; COO is used.
+- **Transcription ambiguities**: "rescend" / "resend" for rescind, and "plat platforms", are kept as written. "Brigitte / Brigitte / Brigitte Macron" (Brigitte Macron), "Emmanuel Macron", "capta" (CAPTCHA) and "Vavlla" (favela) are kept as written. The host says Streiff "he's not just the CEO" (20:14) but elsewhere calls him COO; COO is used.
 - **Possible cross-episode links left out**: C-4064 was not linked to C-2791 (Washington Post: Secret Service fired at the WHCD suspect), because the host says the agents fired "at one another", a different proposition. C-4097–C-4099 were not linked to C-2901/C-2552 (Nick Shirley's own infiltration claims), because they concern teacher praise, not the infiltration. C-4081–C-4083 were not linked to C-2114 (Buckmans' $10 million gift), which is a different proposition.
 - **Not inscribed as claims (admission test)**: Several statements were not inscribed:
   - The host's multiple-choice "game" about September 10 priorities

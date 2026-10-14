@@ -840,7 +840,7 @@ Investigative Direction: Retrieve the Arizona House video and minutes of Lori Fr
 
 **C-4781** Turning Point USA's campus has six buildings
 
-Claim Timestamp: 00:06:37
+Claim Timestamp: 00:07:49
 
 Claim: The host says Turning Point USA's campus has six buildings in total, which Erika Kirk also mentions in the Illinois clip.
 
@@ -1587,7 +1587,7 @@ Investigative Direction: Check manufacturer specifications for PETN content in s
 
 **C-4831** EOD technicians who wrote in believe the microphone was the cause
 
-Claim Timestamp: 00:52:51
+Claim Timestamp: 00:54:25
 
 Claim: The emailer writes that shaped charges are common in IEDs and easy to make, and that she and her fellow technicians all believe "it was the mic," not a gun.
 
@@ -1676,7 +1676,7 @@ Investigative Direction: Check courtroom attendance reports for each Tyler Robin
 
 **C-4837** Erika called out Druski while forgiving Tyler Robinson and naming the host
 
-Claim Timestamp: 00:58:50
+Claim Timestamp: 01:00:01
 
 Claim: The host says that in a recent appearance Erika Kirk called out comedian Druski for a joke and mentioned the host's name, while also forgiving Tyler Robinson.
 

@@ -874,7 +874,7 @@ Bill Ackman's reported offer of a million dollars for information about the pers
 
 **C-1144** Robinson surrendered 33 hours after shooting
 
-Claim Timestamp: 00:07:37
+Claim Timestamp: 00:07:02
 Claim: Tyler James Robinson surrendered to Washington County Sheriff's Office on September 11, 2025, approximately 33 hours after the shooting.
 Transcript Snippet: after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office
 Anchored Artifacts: A-1095.1

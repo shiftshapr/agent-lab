@@ -1799,8 +1799,8 @@
       "@type": "Claim",
       "@id": "C-2083",
       "ref": "C-2083",
-      "label": "Michael Aquino Joined the Church of Satan in 1969",
-      "claim": "Michael Aquino joined the Church of Satan in 1969 and rose within its hierarchy.",
+      "label": "Host Says Michael Aquino Joined the Church of Satan in 1969",
+      "claim": "The host says Michael Aquino joined the Church of Satan in 1969 and rose within its hierarchy.",
       "anchored_artifacts": [
         "A-1622.2"
       ],
@@ -1808,7 +1808,7 @@
         "N-10410"
       ],
       "tags": [],
-      "claim_timestamp": "00:22:47",
+      "claim_timestamp": "00:22:15",
       "investigative_direction": "Cross-check Aquino's published biographical statements; consult Church of Satan archives.",
       "mentions_person_refs": [
         "N-455"
@@ -2306,7 +2306,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:09:14",
+      "claim_timestamp": "00:10:45",
       "investigative_direction": "Obtain the manifests or FBO records for both flights and the exact spelling of the passenger name on each.",
       "transcript_snippet": "That's an important name because that's going to be the same Wed Mahmoud that's going to be on our yellow plane on the day of Charlie Kirk's assassination.",
       "supports_claim_refs": [
@@ -2599,7 +2599,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:13:58",
+      "claim_timestamp": "00:15:30",
       "investigative_direction": "Cite the court record or reporting on the assassin's stated motive.",
       "transcript_snippet": "We don't even have enough money to eat because my mother gave all of her money to this church, the unification church.",
       "mentions_person_refs": [
@@ -2622,7 +2622,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:13:58",
+      "claim_timestamp": "00:15:58",
       "investigative_direction": "Obtain the December 2024 petition and confirm the pleaded dates for the decline and the caretaker's hiring.",
       "transcript_snippet": "Per the lawsuit, Alton began showing signs of a cognitive decline in 2020. And at that time, a year later rather, in 2021, he hired a caretaker.",
       "supports_claim_refs": [
@@ -3042,7 +3042,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:32:12",
+      "claim_timestamp": "00:33:44",
       "investigative_direction": "Obtain the September complaint (court, case number, plaintiffs) and Havsgaard's employment history with Harvest.",
       "transcript_snippet": "The original lawsuit was filed in September by two men claiming that Paul Havsgaard. He is a former pastor and a missionary at Harvest Christian Fellowship in Riverside, California.",
       "supports_claim_refs": [

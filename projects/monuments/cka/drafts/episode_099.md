@@ -2124,7 +2124,7 @@ Investigative Direction: Compare with Love's public statements and the host's ea
 
 **C-12938** Host Says the Weinstein Case May Have Involved Publishing Rights and He Had to Sell His Company
 
-Claim Timestamp: 00:43:34
+Claim Timestamp: 00:44:45
 
 Claim: The host says she covered the Harvey Weinstein case, that it could have had something to do with publishing rights, and that Weinstein had to sell his entire company.
 

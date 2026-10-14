@@ -1111,7 +1111,7 @@ Investigative Direction: Ask investigators whether any officer instructed Farnsw
 
 **C-6104** Host Rules Out Allan Robertson as Having Told Terrell
 
-Claim Timestamp: 00:09:47
+Claim Timestamp: 00:11:04
 
 Claim: The host says Allan Robertson can be ruled out as the one who told Terrell to get the footage: she says he was visiting from Utah State University, undercover to check protesters, and would not have known who Terrell was.
 
@@ -1127,7 +1127,7 @@ Investigative Direction: Confirm Robertson's role and location from USU police r
 
 **C-6105** Host Says She Was Told Terrell Was Told the Opposite
 
-Claim Timestamp: 00:09:47
+Claim Timestamp: 00:11:23
 
 Claim: The host says she was told, allegedly, that Terrell Farnsworth was told to do the exact opposite and not disturb the crime scene.
 
@@ -1220,7 +1220,7 @@ Investigative Direction: Measure the figure's proportions in unaltered footage a
 
 **C-6111** Host Says Emailer Corrected Compressed to Aspect Ratio Decreased
 
-Claim Timestamp: 00:14:18
+Claim Timestamp: 00:16:00
 
 Claim: The host says an email told her the technically correct description of what was done to the court footage is that its aspect ratio was decreased, not that it was compressed.
 
@@ -1235,7 +1235,7 @@ Investigative Direction: Identify the emailer's expertise and check the descript
 
 **C-6112** Host Says Her Government Source Confirmed the Footage Was Modified
 
-Claim Timestamp: 00:14:18
+Claim Timestamp: 00:16:28
 
 Claim: The host says the footage shown in court was in effect modified and that her government source confirmed it.
 
@@ -1600,7 +1600,7 @@ Investigative Direction: Corroborate with itineraries or photos from that year.
 
 **C-6136** Host Says She Was Fired From the Daily Wire in March 2024
 
-Claim Timestamp: 00:42:02
+Claim Timestamp: 00:43:25
 
 Claim: The host says she was fired from the Daily Wire in March 2024 and that this pushes the friendship timeline Kolvet and Neff dispute to 2024.
 
@@ -1990,7 +1990,7 @@ Investigative Direction: Find the corresponding messages from September 2025.
 
 **C-6162** Host Says She Thought Erika Taking Over Was Great but Now Does Not
 
-Claim Timestamp: 01:00:02
+Claim Timestamp: 00:59:40
 
 Claim: The host says she thought everything was great when Erika took over but now thinks it is not great.
 

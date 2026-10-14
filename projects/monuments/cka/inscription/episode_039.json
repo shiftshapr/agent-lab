@@ -773,7 +773,7 @@
       "ref": "N-10300",
       "name": "Justin Streiff Post-Assassination Phone Call",
       "type": "investigation_target",
-      "description": "Six TPUSA sources reported rumor that Strife placed immediate call to donor prospect on the day of Charlie's killing; donor described as holding a billion-dollar IPO-related piece.",
+      "description": "Six TPUSA sources reported rumor that Streiff placed immediate call to donor prospect on the day of Charlie's killing; donor described as holding a billion-dollar IPO-related piece.",
       "related_artifacts": [
         "A-1486.1"
       ],
@@ -2543,7 +2543,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:10:39",
+      "claim_timestamp": "00:11:52",
       "investigative_direction": "Check New Castle County property records and GSA lease records for 500 Delaware Avenue.",
       "transcript_snippet": "we've got this FBI suite in this building that's actually owned by the Wilmington Trust at 500 Delaware Avenue.",
       "supports_claim_refs": [
@@ -2569,7 +2569,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:10:39",
+      "claim_timestamp": "00:12:04",
       "investigative_direction": "Pull Delaware Division of Corporations registered-agent filings for Sheridan's LLCs and identify the occupants of 919 North Market Street.",
       "transcript_snippet": "Also in that building happens to be um Stacy Sheridan's registered agent.",
       "mentions_person_refs": [
@@ -2716,7 +2716,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:13:23",
+      "claim_timestamp": "00:14:35",
       "investigative_direction": "Confirm Sheridan's role in the memorial program and the White House observance from event programs and video.",
       "transcript_snippet": "She's eulogizing Charlie Kirk on stage. She is capturing intimate photos of his casket.",
       "mentions_person_refs": [
@@ -2911,7 +2911,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:17:14",
+      "claim_timestamp": "00:18:36",
       "investigative_direction": "Check flight-tracking logs for the Nebraska to Wilmington to Cairo legs of SU-BTT.",
       "transcript_snippet": "then uh it departs Nebraska, the our yellow plains, and it heads to Wilmington, and then it gets it goes back to Cairo.",
       "supports_claim_refs": [
@@ -3096,7 +3096,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:20:36",
+      "claim_timestamp": "00:21:51",
       "investigative_direction": "Check attendee disclosures and Ackman statements on who paid for travel and lodging.",
       "transcript_snippet": "And we know that the influencers were paid for by Bill Ackman, but I don't think that that's particularly a big deal.",
       "mentions_person_refs": [
@@ -3277,7 +3277,7 @@
       "@type": "Claim",
       "@id": "C-10995",
       "ref": "C-10995",
-      "label": "Host Says Charlie's September 2 Email Asked for a DOGE Audit and Named Strife COO in Place of Bowyer",
+      "label": "Host Says Charlie's September 2 Email Asked for a DOGE Audit and Named Streiff COO in Place of Bowyer",
       "claim": "The host says that on September 2 Charlie sent an email asking for a DOGE audit of his company and announced that Justin Streiff would be the new COO taking over from Tyler Bowyer.",
       "anchored_artifacts": [
         "A-3114.1"
@@ -3414,7 +3414,7 @@
       "@type": "Claim",
       "@id": "C-11001",
       "ref": "C-11001",
-      "label": "Host Asks Viewers to Help Identify the Donor Strife Called",
+      "label": "Host Asks Viewers to Help Identify the Donor Streiff Called",
       "claim": "The host says she asked her audience and sources to try to figure out which donor Justin Streiff allegedly called immediately after the shooting.",
       "anchored_artifacts": [
         "A-3115.1"
@@ -3677,7 +3677,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:42:09",
+      "claim_timestamp": "00:43:32",
       "investigative_direction": "Compare the OPCW investigation of the Douma incident with the host's account; this is the host's belief, not a documented finding.",
       "transcript_snippet": "if Assad was telling the truth, and I believe he was, because I think there is a war on Christians that's happening, then the West and the United States were implicated in part by a false flag attack"
     },
@@ -3929,7 +3929,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:54:38",
+      "claim_timestamp": "00:55:52",
       "investigative_direction": "No evidence of federal direction offered; compare with the litigation record in the Macron suit.",
       "transcript_snippet": "I think the federal government is trying to bankrupt me a thousand different ways.",
       "mentions_person_refs": [
@@ -4049,7 +4049,7 @@
           "video_timestamp": "00:27:14",
           "speaker_node_ref": "N-3",
           "quote": "Can everybody try to figure out what donor that was?",
-          "context": "Host asks her audience and sources to help identify the donor Strife called.",
+          "context": "Host asks her audience and sources to help identify the donor Streiff called.",
           "confidence": "high",
           "tags": [
             "tips",
@@ -4178,7 +4178,7 @@
           "video_timestamp": "00:27:14",
           "speaker_node_ref": "N-3",
           "quote": "This is alleged.",
-          "context": "Host hedges the rumor about Strife's immediate call.",
+          "context": "Host hedges the rumor about Streiff's immediate call.",
           "confidence": "high",
           "tags": [
             "allegedly",

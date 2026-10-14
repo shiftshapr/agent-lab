@@ -1527,7 +1527,7 @@ Investigative Direction: Seek on-record confirmation from the Robinson family or
 
 **C-7571** Host Says the Charging Document Was Signed Off by Brian Davis
 
-Claim Timestamp: 00:30:06
+Claim Timestamp: 00:32:19
 
 Claim: The host says the charging document, which used the statement that the family friend wrote up, was signed off by Brian Davis.
 

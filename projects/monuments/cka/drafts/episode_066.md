@@ -895,7 +895,7 @@ Investigative Direction: Check the date and venue of Vanessa Bryant's first post
 
 **C-8322** Host Says Erika's Speech Transcript Teaches Nothing About Charlie Beyond TPUSA
 
-Claim Timestamp: 00:08:08
+Claim Timestamp: 00:09:20
 
 Claim: The host says that after reading the transcript of Erika Kirk's memorial speech she found that it taught nothing about Charlie Kirk other than Turning Point USA and what will happen going forward.
 
@@ -912,7 +912,7 @@ Investigative Direction: Obtain the full transcript of the memorial speech and c
 
 **C-8323** Host Says Erika's First Speech Beside Charlie's Chair Also Pitched Help for TPUSA
 
-Claim Timestamp: 00:08:08
+Claim Timestamp: 00:09:28
 
 Claim: The host says that even in the first speech Erika Kirk gave next to Charlie Kirk's chair she talked about Turning Point USA and what people can do for the organization.
 
@@ -1038,7 +1038,7 @@ Investigative Direction: Identify Erika Kirk's security detail and companion tha
 
 **C-8331** Email Says the Woman Who Tapped the Donor Seemed to Be an Assistant Whose Role She Could Not Recall
 
-Claim Timestamp: 00:16:25
+Claim Timestamp: 00:17:36
 
 Claim: The donor's email says a woman tapped her on the shoulder, that she believed it was an assistant and could not remember what she does, and asked whether she would like to join Erika.
 
@@ -1055,7 +1055,7 @@ Investigative Direction: Ask the donor to confirm in writing who tapped her and 
 
 **C-8332** Email Says Erika Told the Donor Charlie Went to Mass There and the Priest Opened the Church for Him
 
-Claim Timestamp: 00:16:25
+Claim Timestamp: 00:18:06
 
 Claim: The donor's email says Erika Kirk told her that Charlie went to mass with her there and that Father Don would often open the church for him to pray without being disrupted, and that the priest was with her the whole time from Arizona to Utah.
 
@@ -1086,7 +1086,7 @@ Investigative Direction: Ask the donor to confirm Sheridan was the woman who tap
 
 **C-8334** Host Says TPUSA Had the Donor Clocked Before She Walked Into the Memorial
 
-Claim Timestamp: 00:18:53
+Claim Timestamp: 00:20:09
 
 Claim: The host says she knew TPUSA had the donor clocked before she walked into the memorial.
 
@@ -1681,7 +1681,7 @@ Investigative Direction: Ask viewers for order dates and delivery dates.
 
 **C-8371** Host Says the Donor Emailed After Seeing a Strange Lie From Kolvet About the Catholic Faith
 
-Claim Timestamp: 00:54:09
+Claim Timestamp: 00:55:45
 
 Claim: The host says the donor emailed her when she saw a strange lie coming from Andrew Kolvet about the Catholic faith.
 
@@ -1697,7 +1697,7 @@ Investigative Direction: Identify the Kolvet statement about Catholic faith that
 
 **C-8372** Host Says Erika Told Her Kolvet Went Rogue in the Alex Clark Interview, Which the Host Calls Untrue
 
-Claim Timestamp: 00:54:09
+Claim Timestamp: 00:56:06
 
 Claim: The host says Erika Kirk told her to her face that Kolvet went rogue in the Alex Clark interview and that this was not true.
 
@@ -1729,7 +1729,7 @@ Investigative Direction: Identify the former staffer and obtain any screenshot o
 
 **C-8374** Host Announces a Week Break With Two Profile Episodes on Erika's Background
 
-Claim Timestamp: 00:56:16
+Claim Timestamp: 00:57:27
 
 Claim: The host says there is a one-week break coming the week after next and that she will prepare two profile episodes on Erika Kirk's background, separating fact from fiction.
 

@@ -1366,11 +1366,11 @@ Investigative Direction: Retrieve the 2004 NAS report and 2007 WaPo article in f
 
 ---
 
-**C-2636** FBI Is Reviving CBLA in Robinson Case
+**C-2636** Host Says the FBI Is Reviving CBLA in the Robinson Case
 
 Claim Timestamp: 00:32:26–00:34:18
 
-Claim: The FBI is bringing the previously abandoned comparative bullet lead analysis technique back into use in an effort to connect Tyler Robinson's weapon to the alleged crime scene bullet.
+Claim: The host says the FBI is bringing the previously abandoned comparative bullet lead analysis technique back into use in a bid to connect Tyler Robinson's weapon to the alleged bullet.
 
 Anchored Artifacts: A-1922.1
 Mentions: N-40
@@ -1600,11 +1600,11 @@ Investigative Direction: Identify any open-source reporting on BYU recruitment t
 
 ---
 
-**C-2652** Dr. Steven Jones (BYU Physicist) Published 2009 Thermite Study on WTC Dust
+**C-2652** Viewer Comment Read by the Host Says a 2009 BYU Study Found Thermite in WTC Dust
 
-Claim Timestamp: 00:48:01
+Claim Timestamp: 00:47:08
 
-Claim: BYU physicist Dr. Steven Jones published a 2009 study demonstrating advanced thermite-based explosives in WTC dust.
+Claim: A viewer comment the host reads says BYU physicist Dr. Steven Jones published a 2009 study proving advanced thermite-based explosives in the dust from ground zero.
 
 Anchored Artifacts: A-1926.3
 

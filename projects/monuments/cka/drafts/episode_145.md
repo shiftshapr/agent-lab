@@ -1213,7 +1213,7 @@ Investigative Direction: Rights purchase and production records for the film ada
 
 **C-13299** Host Says Lively Fancied Herself the Writer and Edited the Scripts
 
-Claim Timestamp: 00:14:29
+Claim Timestamp: 00:16:24
 
 Claim: The host says that despite being cast as lead, Blake Lively saw herself in her own head as the writer and sought to edit the scripts, as learned through the host's investigative series.
 
@@ -1230,7 +1230,7 @@ Investigative Direction: The litigation exhibits on script and edit control; con
 
 **C-13300** Host Says Lively and Reynolds Used a New York Times Hit Piece to Pressure Baldoni
 
-Claim Timestamp: 00:14:29
+Claim Timestamp: 00:16:34
 
 Claim: The host says the Lively side had the media power to push a New York Times hit piece, and that the threat was that they would ruin Baldoni's life unless he handed over the rights to the movie.
 
@@ -1309,7 +1309,7 @@ Investigative Direction: The channels' own content on the filings.
 
 **C-13305** Host Says Baldoni Told Her He Never Watched the Deadpool Movie or Scene
 
-Claim Timestamp: 00:19:29
+Claim Timestamp: 00:21:04
 
 Claim: The host says Justin Baldoni told her he never even watched the Deadpool movie or the Nicepool scene.
 

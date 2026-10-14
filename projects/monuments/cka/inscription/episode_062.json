@@ -1515,8 +1515,8 @@
       "@type": "Claim",
       "@id": "C-2189",
       "ref": "C-2189",
-      "label": "A TPUSA employee was terminated with no explanation beyond \"going in a different direction\"",
-      "claim": "A TPUSA employee was terminated by general counsel \"Frank\" with no specific explanation, repeatedly told only that the organization is \"going in a different direction with the team,\" after working 80–90 hour weeks through AmFest and the period following Charlie Kirk's assassination.",
+      "label": "In a Recording the Host Plays, a Fired TPUSA Employee Is Told Only That TPUSA Is \"Going in a Different Direction\"",
+      "claim": "In a recording the host plays, a fired TPUSA employee who says she worked 80–90 hour weeks through AmFest and after Charlie Kirk's assassination is told by general counsel \"Frank\" only that the organization is \"going in a different direction with the team.\"",
       "anchored_artifacts": [
         "A-1674.1"
       ],
@@ -1527,7 +1527,6 @@
       "claim_timestamp": "00:26:45",
       "investigative_direction": "Obtain the termination documentation referenced in the audio (\"email with social security and links\" plus year-end bonus in final paycheck); identify the employee and obtain their signed release or separation agreement.",
       "mentions_person_refs": [
-        "N-14",
         "N-500",
         "N-1"
       ]

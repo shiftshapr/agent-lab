@@ -503,7 +503,7 @@ Andrew Kolvet (spelled Kolb, Kolburt in the transcript); TPUSA spokesperson the 
 ---
 
 **N-15** Justin Streiff
-Justin Streiff (spelled Strife), TPUSA COO; the host says he and Erika gave her the Danny Philip call account.
+Justin Streiff, TPUSA COO; the host says he and Erika gave her the Danny Philip call account.
 
 *Related: C-11581*
 

@@ -2628,18 +2628,19 @@
       "@type": "Claim",
       "@id": "C-2263",
       "ref": "C-2263",
-      "label": "Naftali Bennett Categorically Denies Mossad Operated Epstein Blackmail Ring",
-      "claim": "Per host-read Bennett statement, former Israeli PM Naftali Bennett stated with \"100% certainty\" that the accusation Mossad ran an Epstein blackmail ring is \"categorically and totally false.\"",
+      "label": "In a Clip the Host Plays, Ben Shapiro Quotes Naftali Bennett Denying Mossad Ran an Epstein Blackmail Ring",
+      "claim": "In a clip the host plays, Ben Shapiro quotes former Israeli PM Naftali Bennett as saying with \"100% certainty\" that the accusation that Epstein worked for Mossad running a blackmail ring is \"categorically and totally false.\"",
       "anchored_artifacts": [
         "A-1718.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:20:38",
+      "claim_timestamp": "00:19:45",
       "investigative_direction": "Obtain the full Bennett interview recording.",
       "mentions_person_refs": [
-        "N-9",
-        "N-530"
+        "N-97",
+        "N-530",
+        "N-9"
       ]
     },
     {
@@ -3074,7 +3075,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:03:44",
+      "claim_timestamp": "00:05:01",
       "investigative_direction": "Read Jeffrey Moussaieff Masson, The Assault on Truth, and the scholarly reception of its claims about Freud's seduction theory; check the author's actual role at the Freud Archives. Name as transcribed is 'Jeffrey Moussaieff Masson' (see Doubts).",
       "transcript_snippet": "This book was written by a guy who was the director of the Freud Archives. He read Freud's unpublished works and determined that, yeah, Freud knew that the children were being abused in Vienna",
       "supports_claim_refs": [
@@ -3924,7 +3925,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:33:57",
+      "claim_timestamp": "00:35:43",
       "investigative_direction": "Check the Wikipedia article on the Star of David and scholarship (e.g. Scholem); the symbol is attested in Jewish contexts well before 1666 and Sabbatai Zevi's 1666 messianic claim is separate.",
       "transcript_snippet": "The Kiddush cup, that is the traditional symbol of Judaism. It even says this on Wikipedia that this did not emerge until the 17th century, right, 1666 was when that guy who was a mystic declared himself to be the Messiah",
       "mentions_person_refs": [

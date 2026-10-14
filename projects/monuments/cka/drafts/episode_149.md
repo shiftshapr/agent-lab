@@ -1391,7 +1391,7 @@ Investigative Direction: Identify the source of the host's claim and any contrac
 
 **C-14861** Host Says Kim Klacik Hid That She Worked as a Stripper
 
-Claim Timestamp: 00:03:17
+Claim Timestamp: 00:04:42
 
 Claim: The host says that when she looked into Maryland Republican congressional nominee Kim Klacik she found Klacik had been hiding that she was a stripper.
 
@@ -1540,7 +1540,7 @@ Investigative Direction: Compare Hammer's public statements on Charlie's Israel 
 
 **C-14870** Host Says Charlie Announced Abandoning the Pro-Israel Cause Two Hours Before the Zoom
 
-Claim Timestamp: 00:06:53
+Claim Timestamp: 00:08:45
 
 Claim: The host says Charlie announced he was abandoning the pro-Israel cause roughly two hours before the Zoom call, something she says the others felt the need to lie about.
 
@@ -1557,7 +1557,7 @@ Investigative Direction: Identify the message or statement by Charlie that the h
 
 **C-14871** Host Says Kolvet Gave Tulsi Gabbard's Office a Lie About Charlie's Israel Position
 
-Claim Timestamp: 00:06:53
+Claim Timestamp: 00:08:53
 
 Claim: The host says Andrew Kolvet felt the need to lie to Tulsi Gabbard's office after Charlie's death about his changing views on Israel.
 
@@ -1573,7 +1573,7 @@ Investigative Direction: Ask Gabbard's office for communications from Kolvet aft
 
 **C-14872** Host Says Charlie Texted He Feared Being Killed During the Zoom Call Period
 
-Claim Timestamp: 00:06:53
+Claim Timestamp: 00:09:07
 
 Claim: The host says that during the call Charlie was texting people that he was worried he would be killed the next day.
 
@@ -2395,7 +2395,7 @@ Investigative Direction: List specific official narratives that have been revise
 
 **C-14922** Host Concedes the Receipt Claim Relies on the Servers' Memory
 
-Claim Timestamp: 00:37:12
+Claim Timestamp: 00:38:51
 
 Claim: The host says the receipt claim has a blind spot because it relies on the memory of the server or servers, who could be sincere but mistaken, so she never said she was 100 percent sure.
 
@@ -2411,7 +2411,7 @@ Investigative Direction: Obtain the bank or card-network record of the transacti
 
 **C-14923** Host Says She Confirmed Mitch Snow Was at Fort Huachuca
 
-Claim Timestamp: 00:37:12
+Claim Timestamp: 00:39:26
 
 Claim: The host says she confirmed Mitch Snow was at Fort Huachuca and which hotel he stayed at, and confirmed he had a dust-up with the military police.
 
@@ -2428,7 +2428,7 @@ Investigative Direction: Obtain Snow's hotel folio and the military police incid
 
 **C-14924** Host Says She Cannot Confirm Snow Saw Erika or Harpole Because It Relies on His Memory
 
-Claim Timestamp: 00:37:12
+Claim Timestamp: 00:39:33
 
 Claim: The host says she cannot confirm that Mitch Snow actually saw Erika Kirk in the lobby or Brian Harpole, because that relies on his memory.
 
@@ -2687,7 +2687,7 @@ Investigative Direction: Check Australian government records on Ye's visa status
 
 **C-14940** Host Praises Tom O'Neill's Book Chaos
 
-Claim Timestamp: 00:50:27
+Claim Timestamp: 00:50:01
 
 Claim: The host says she deeply respected Tom O'Neill's dedication in writing the book Chaos and learning that nothing officials told was true and that the government was involved.
 

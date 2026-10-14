@@ -1104,7 +1104,7 @@ Investigative Direction: Verify published speaker list for the Arizona memorial 
 
 **C-1202** Feds pressured locals not to release footage
 
-Claim Timestamp: 00:04:37
+Claim Timestamp: 00:04:14
 Claim: Locals emailed the host stating that any footage they possessed was sent to federal authorities who then pressured them not to release it publicly.
 Transcript Snippet: the feds told them that they were not allowed to share it at all.
 Anchored Artifacts: 

@@ -843,11 +843,11 @@ Mentions: N-808, N-455
 Related Nodes: N-10410
 Investigative Direction: Obtain bibliographic record (publisher, ISBN); verify authorship.
 
-**C-2083** Michael Aquino Joined the Church of Satan in 1969
+**C-2083** Host Says Michael Aquino Joined the Church of Satan in 1969
 
-Claim Timestamp: 00:22:47
+Claim Timestamp: 00:22:15
 
-Claim: Michael Aquino joined the Church of Satan in 1969 and rose within its hierarchy.
+Claim: The host says Michael Aquino joined the Church of Satan in 1969 and rose within its hierarchy.
 
 Anchored Artifacts: A-1622.2
 Mentions: N-455
@@ -1174,7 +1174,7 @@ Investigative Direction: Pull ADS-B Exchange and Flightradar24 history for SU-BT
 
 **C-12536** Host Says Wed Mahmoud on SUBTU Is the Same Name Later on the Yellow Plane on the Assassination Day
 
-Claim Timestamp: 00:09:14
+Claim Timestamp: 00:10:45
 
 Claim: The host says the Wed Mahmoud who was aboard SUBTU flying into Provo is the same name that will be on the yellow plane on the day of Charlie Kirk's assassination.
 
@@ -1386,7 +1386,7 @@ Investigative Direction: Obtain TPUSA's planned-giving and estate-planning webpa
 
 **C-12549** Host Recounts Abe's Assassin Blaming Him Over His Mother's Gifts to the Unification Church
 
-Claim Timestamp: 00:13:58
+Claim Timestamp: 00:15:30
 
 Claim: The host recounts that the assassin of former Japanese prime minister Shinzo Abe (transcribed "Shinzo Abe") said Abe was to blame because the assassin's mother gave all her money to the Unification Church, leaving the family without enough to eat.
 
@@ -1402,7 +1402,7 @@ Investigative Direction: Cite the court record or reporting on the assassin's st
 
 **C-12550** Host Says the Petition Alleges Jennings Showed Cognitive Decline in 2020 and Hired a Caretaker in 2021
 
-Claim Timestamp: 00:13:58
+Claim Timestamp: 00:15:58
 
 Claim: The host says that per the lawsuit, Alton Jennings began showing cognitive decline in 2020 and in 2021 hired a caretaker named Mitch Manley Senior; she stresses these are allegations.
 
@@ -1696,7 +1696,7 @@ Investigative Direction: Confirm Kolvet's formal PR role for Erika Kirk and iden
 
 **C-12568** Host Says the Original Lawsuit Was Filed in September by Two Men Against Paul Havsgaard
 
-Claim Timestamp: 00:32:12
+Claim Timestamp: 00:33:44
 
 Claim: The host says the original lawsuit was filed in September by two men claiming that Paul Havsgaard, a former pastor and missionary at Harvest Christian Fellowship in Riverside, California, abused them.
 

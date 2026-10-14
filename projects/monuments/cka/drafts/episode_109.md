@@ -25,7 +25,7 @@ The host opens by showing a Hollywood Reporter headline about Hunter Biden appea
 
 Returning to Fort Huachuca, the host restates Mitch Snow's account of seeing Brian Harpole leave a meeting on the morning of September 9, and Harpole's alibi that he flew from Texas to Salt Lake City at 2:30 p.m. She recaps the flight of an Air Force plane with the call sign SAM 702: it left Fort Huachuca at 11:43 a.m. that day, landed in El Paso at 1:31 p.m. and then flew to Andrews Air Force Base (A-2611.1). She rules out Pete Hegseth as a passenger because of his 3:00 p.m. Washington meeting with Singapore's Minister of Defense. She says nothing places Kash Patel on that date, and that she has filed a FOIA request about the flight. She also says Harpole's lawsuit and Brigitte Macron's lawsuit filing both contain verifiably false statements about her.
 
-The longest segment reads former Pentagon correspondent Gabrielle Cuccia's X thread on Vine & Fig Tree (VFT) (A-2612). According to the thread, VFT is a pro-Israel organization that met Sebastian Gorka at the White House. Kuchta writes that she was then asked, through a third party the host says Kuchta later names as the NSC's Shawn Chenoweth, to write a script for an AI-generated video for the NSC and Gorka. She says a Dropbox of VFT reports profiled dissident-right accounts, the host among them, as susceptible to foreign influence. One report attributed distrust of the Charlie Kirk assassination narrative to Russian, Iranian and Pakistani propaganda and called it "an urgent national security threat." Internal comments floated using Matt Walsh or Michael Knowles and collaborating with NCRI. The host ties NCRI to an earlier report featuring her face that framed "Christ is King" as antisemitic.
+The longest segment reads former Pentagon correspondent Gabrielle Cuccia's X thread on Vine & Fig Tree (VFT) (A-2612). According to the thread, VFT is a pro-Israel organization that met Sebastian Gorka at the White House. Cuccia writes that she was then asked, through a third party the host says Cuccia later names as the NSC's Shawn Chenoweth, to write a script for an AI-generated video for the NSC and Gorka. She says a Dropbox of VFT reports profiled dissident-right accounts, the host among them, as susceptible to foreign influence. One report attributed distrust of the Charlie Kirk assassination narrative to Russian, Iranian and Pakistani propaganda and called it "an urgent national security threat." Internal comments floated using Matt Walsh or Michael Knowles and collaborating with NCRI. The host ties NCRI to an earlier report featuring her face that framed "Christ is King" as antisemitic.
 
 The host then addresses a tweet by Natalie Jean Beisner about her 3-year-old daughter (A-2613). She next criticizes Andrew Kolvet and Blake Neff for saying on The Charlie Kirk Show that Charlie Kirk had privately been frustrated with Thomas Massie (A-2614.1). Against this she sets a post by Massie's legislative director, Raphael Schreiber, saying that Kolvet had phoned Massie's office on March 12, 2026 to apologize for a TPUSA video calling Massie a RINO (A-2614.2). She marks day 54 of her countdown asking TPUSA to release the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO. In the comments segment she reads viewer notes on Erika Kirk and Victor Marx and on a leaker in Kanye West's circle (A-2615), and announces a week off air for a family trip to St. Petersburg.
 
@@ -118,7 +118,7 @@ Confidence Level: High
 
 *Related: C-4287, C-4288, C-4289, C-4290, C-4291, C-4292, C-4293, C-4294, C-4295, C-4296, C-4297, C-4298, C-4300, C-4301, C-4302, N-647, N-648, N-649, N-10946, N-10947*
 
-**A-2612.3** Screenshots of the VFT Dropbox folders and documents posted by Kuchta (shown)
+**A-2612.3** Screenshots of the VFT Dropbox folders and documents posted by Cuccia (shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:23:55
@@ -350,7 +350,7 @@ VFT collected polling on his resignation; the host says TPUSA joined in smearing
 
 **N-217** Nick Shirley
 
-Named in the Kuchta thread; the host suggests he may be intentionally platformed.
+Named in the Cuccia thread; the host suggests he may be intentionally platformed.
 
 *Related: C-4290*
 
@@ -404,7 +404,7 @@ Kentucky congressman whom the host says Charlie Kirk called a favorite. He is th
 
 **N-599** Pete Hegseth
 
-The host says the NSA redirected her FOIA to his office. She rules him out of the SAM 702 flight because of his Singapore meeting, and Kuchta criticized his Pentagon press rules.
+The host says the NSA redirected her FOIA to his office. She rules him out of the SAM 702 flight because of his Singapore meeting, and Cuccia criticized his Pentagon press rules.
 
 *Related: C-4275, C-4282, C-4283, C-4286, A-2610.1, A-2611.1, A-2611.2, A-2612.1*
 
@@ -506,7 +506,7 @@ The host's countdown asks TPUSA to release the alleged AI video of Charlie Kirk 
 
 **N-10666** Nick Shirley Background and Backing Verification
 
-The host suggests Shirley's naming in the Kuchta thread points to outside platforming.
+The host suggests Shirley's naming in the Cuccia thread points to outside platforming.
 
 *Related: C-4290*
 
@@ -554,13 +554,13 @@ First named by the host at 00:13:30 in episode 109. Former Pentagon chief corres
 
 **N-648** Sebastian Gorka
 
-First named by the host at 00:15:42 in episode 109. White House official who, per the Kuchta thread, met VFT at the White House and for whom the AI video was to be made.
+First named by the host at 00:15:42 in episode 109. White House official who, per the Cuccia thread, met VFT at the White House and for whom the AI video was to be made.
 
 *Related: C-4287, C-4288, C-4289, C-4302, C-4303, A-2612.2*
 
 **N-649** Shawn Chenoweth
 
-First named by the host at 00:15:42 in episode 109. Described by the host as director of cognitive advantage at the National Security Council and identified by Kuchta, per the host, as the third party who contacted her.
+First named by the host at 00:15:42 in episode 109. Described by the host as director of cognitive advantage at the National Security Council and identified by Cuccia, per the host, as the third party who contacted her.
 
 *Related: C-4288, A-2612.2*
 
@@ -578,7 +578,7 @@ First named by the host at 00:17:38 in episode 109. Named among the accounts pro
 
 **N-652** Joel Finkelstein
 
-First named by the host at 00:21:20 in episode 109. Named in the Kuchta thread as founder of NCRI.
+First named by the host at 00:21:20 in episode 109. Named in the Cuccia thread as founder of NCRI.
 
 *Related: C-4297*
 
@@ -618,7 +618,7 @@ Pro-Israel organization ("VFT") that Gabrielle Cuccia says has ties to the admin
 **N-10947** National Security Council
 
 Node Type: Organization
-The host says Shawn Chenoweth is its director of cognitive advantage. According to Kuchta's thread, the VFT AI-generated video was to be made on behalf of the NSC and Sebastian Gorka.
+The host says Shawn Chenoweth is its director of cognitive advantage. According to Cuccia's thread, the VFT AI-generated video was to be made on behalf of the NSC and Sebastian Gorka.
 
 *Related: C-4288, C-4289, A-2612.2, N-649*
 
@@ -921,18 +921,18 @@ Investigative Direction: The FOIA request and its tracking number with the Air F
 
 Claim Timestamp: 00:13:30
 
-Claim: The host says Gabrielle Cuccia was fired as the Pentagon's chief correspondent. According to the host, Kuchta says this followed her criticism of Pete Hegseth's new rules limiting press access to the Pentagon.
+Claim: The host says Gabrielle Cuccia was fired as the Pentagon's chief correspondent. According to the host, Cuccia says this followed her criticism of Pete Hegseth's new rules limiting press access to the Pentagon.
 
 Transcript Snippet: she was fired as the Pentagon's chief correspondent. Uh she claims she was fired after she criticized uh Pete Hegseth for having established new rules that actually limited the press's access to the Pentagon.
 
 Anchored Artifacts: A-2612.1
 Mentions: N-647, N-599
 Related Nodes:
-Investigative Direction: Kuchta's employer's statement on her departure and the Pentagon press-access policy announcement.
+Investigative Direction: Cuccia's employer's statement on her departure and the Pentagon press-access policy announcement.
 
 ---
 
-**C-4287** Kuchta: VFT is a pro-Israel organization that met Sebastian Gorka at the White House
+**C-4287** Cuccia: VFT is a pro-Israel organization that met Sebastian Gorka at the White House
 
 Claim Timestamp: 00:15:42
 
@@ -947,18 +947,18 @@ Investigative Direction: White House visitor logs for VFT representatives and Go
 
 ---
 
-**C-4288** Kuchta was asked through a third party, identified as NSC's Shawn Chenoweth, to script write for VFT
+**C-4288** Cuccia was asked through a third party, identified as NSC's Shawn Chenoweth, to script write for VFT
 
 Claim Timestamp: 00:15:42
 
-Claim: According to Kuchta's thread, shortly after the White House meeting she was contacted through a third party and asked to write scripts for VFT. The host says Kuchta later identifies this person as Shawn Chenoweth, director of cognitive advantage at the National Security Council, who works under and with Gorka.
+Claim: According to Cuccia's thread, shortly after the White House meeting she was contacted through a third party and asked to write scripts for VFT. The host says Cuccia later identifies this person as Shawn Chenoweth, director of cognitive advantage at the National Security Council, who works under and with Gorka.
 
 Transcript Snippet: she later identifies this person to be Shawn Chenowith, who is the director of cognitive advantage at the US uh at the National Security Council.
 
 Anchored Artifacts: A-2612.2
 Mentions: N-647, N-649, N-648
 Related Nodes: N-10946, N-10947
-Investigative Direction: NSC staff directory for a director of cognitive advantage and Kuchta's later posts naming the contact.
+Investigative Direction: NSC staff directory for a director of cognitive advantage and Cuccia's later posts naming the contact.
 
 ---
 
@@ -966,44 +966,44 @@ Investigative Direction: NSC staff directory for a director of cognitive advanta
 
 Claim Timestamp: 00:16:30
 
-Claim: According to Kuchta's thread, she was told the script would be used for an AI-generated video made on behalf of the White House, specifically for the NSC and Sebastian Gorka. She says it was routed through VFT so it would not look like it came from the White House.
+Claim: According to Cuccia's thread, she was told the script would be used for an AI-generated video made on behalf of the White House, specifically for the NSC and Sebastian Gorka. She says it was routed through VFT so it would not look like it came from the White House.
 
 Transcript Snippet: I was told the script would be used to create an AI-generated video on behalf of the White House, specifically for the NSC and Sebastian Gorka.
 
 Anchored Artifacts: A-2612.2
 Mentions: N-647, N-648
 Related Nodes: N-10946, N-10947
-Investigative Direction: Kuchta's correspondence with the third party and any published AI video matching the brief.
+Investigative Direction: Cuccia's correspondence with the third party and any published AI video matching the brief.
 
 ---
 
-**C-4290** Kuchta thread names Nick Shirley as having benefited from the same approach
+**C-4290** Cuccia thread names Nick Shirley as having benefited from the same approach
 
 Claim Timestamp: 00:16:30
 
-Claim: According to the host's reading of Kuchta's thread, the approach "worked out for them and Nick Shirley," and the host suggests Shirley may be intentionally platformed by other forces.
+Claim: According to the host's reading of Cuccia's thread, the approach "worked out for them and Nick Shirley," and the host suggests Shirley may be intentionally platformed by other forces.
 
 Transcript Snippet: I mean, it worked out for them and Nick Shirley Pause. Nick Shirley, the guy who infiltrated the favela in 48 hours flat.
 
 Anchored Artifacts: A-2612.2
 Mentions: N-217
 Related Nodes: N-10666
-Investigative Direction: The full Kuchta thread text and any VFT documents referencing Nick Shirley.
+Investigative Direction: The full Cuccia thread text and any VFT documents referencing Nick Shirley.
 
 ---
 
-**C-4291** Kuchta was given a Dropbox of VFT research with seven folders
+**C-4291** Cuccia was given a Dropbox of VFT research with seven folders
 
 Claim Timestamp: 00:16:30
 
-Claim: According to Kuchta's thread, she was given a Dropbox link with research, polling data, internal comments and strategy material compiled by VFT and the third party, organized in seven folders.
+Claim: According to Cuccia's thread, she was given a Dropbox link with research, polling data, internal comments and strategy material compiled by VFT and the third party, organized in seven folders.
 
 Transcript Snippet: I was then given a Dropbox link containing research, polling data, internal comments, and strategy material compiled by the FT and the third party involved. Inside the Dropbox were seven folders.
 
 Anchored Artifacts: A-2612.2, A-2612.3
 Mentions: N-647
 Related Nodes: N-10946
-Investigative Direction: Authenticate the Dropbox contents and metadata (authorship, creation dates) shown in Kuchta's screenshots.
+Investigative Direction: Authenticate the Dropbox contents and metadata (authorship, creation dates) shown in Cuccia's screenshots.
 
 ---
 
@@ -1011,7 +1011,7 @@ Investigative Direction: Authenticate the Dropbox contents and metadata (authors
 
 Claim Timestamp: 00:17:38
 
-Claim: According to Kuchta's thread, VFT reports monitor major conservative and dissident-right accounts and frame them as vulnerable to or participating in foreign influence operations. Those named include Nick Fuentes, the Hodge Twins, Candace Owens, Tucker Carlson, Jackson Hinkle, Ian Carroll and Mario Nawfal.
+Claim: According to Cuccia's thread, VFT reports monitor major conservative and dissident-right accounts and frame them as vulnerable to or participating in foreign influence operations. Those named include Nick Fuentes, the Hodge Twins, Candace Owens, Tucker Carlson, Jackson Hinkle, Ian Carroll and Mario Nawfal.
 
 Transcript Snippet: The reports include information regarding Nick Fuentes, the Hodge Twins, Candace Owens, Tucker Carlson, Jackson Hinkle, Ian Carroll, and Mario Nawfal, just to name a few.
 
@@ -1026,7 +1026,7 @@ Investigative Direction: The VFT reports in the Dropbox folders and their stated
 
 Claim Timestamp: 00:17:38
 
-Claim: According to Kuchta's thread, VFT also collected polling and response data about Joe Kent's resignation from the administration.
+Claim: According to Cuccia's thread, VFT also collected polling and response data about Joe Kent's resignation from the administration.
 
 Transcript Snippet: They also collected polling and response data surrounding Joe Kent's resignation from the administration.
 
@@ -1041,7 +1041,7 @@ Investigative Direction: The Joe Kent polling file in the VFT Dropbox and the po
 
 Claim Timestamp: 00:17:38
 
-Claim: According to Kuchta's thread, one VFT report argues that distrust surrounding Charlie Kirk's assassination was mostly due to Americans falling for Russian, Iranian and Pakistani propaganda networks.
+Claim: According to Cuccia's thread, one VFT report argues that distrust surrounding Charlie Kirk's assassination was mostly due to Americans falling for Russian, Iranian and Pakistani propaganda networks.
 
 Transcript Snippet: In another report, they argue that distrust surrounding Charlie Kirk's assassination was mostly due to Americans falling for Russian, Iranian, and Pakistani propaganda networks.
 
@@ -1056,7 +1056,7 @@ Investigative Direction: The Charlie Kirk report in the VFT Dropbox and the data
 
 Claim Timestamp: 00:18:21
 
-Claim: According to Kuchta's thread, the same Charlie Kirk report says the distrust "represents an urgent national security threat and demands a whole-of-government response on par with cyber attacks on terrorism."
+Claim: According to Cuccia's thread, the same Charlie Kirk report says the distrust "represents an urgent national security threat and demands a whole-of-government response on par with cyber attacks on terrorism."
 
 Transcript Snippet: In that same Charlie Kirk report, they state, quote, "This represents an urgent national security threat and demands a whole-of-government response on par with cyber attacks on terrorism."
 
@@ -1071,7 +1071,7 @@ Investigative Direction: The exact passage in the VFT report and whether any gov
 
 Claim Timestamp: 00:21:20
 
-Claim: According to Kuchta's thread, VFT internal comments say undermining Nick Fuentes's Christian identity is "probably a good idea" and consider getting Matt Walsh or Michael Knowles to publish on behalf of VFT.
+Claim: According to Cuccia's thread, VFT internal comments say undermining Nick Fuentes's Christian identity is "probably a good idea" and consider getting Matt Walsh or Michael Knowles to publish on behalf of VFT.
 
 Transcript Snippet: They talk about going after Fuentes stating that undermining his Christian identity is probably a good idea. They contemplate getting Matt Walsh or Michael Knowles to publish on behalf of VFT.
 
@@ -1086,7 +1086,7 @@ Investigative Direction: The internal comment threads in the Dropbox and any out
 
 Claim Timestamp: 00:21:20
 
-Claim: According to Kuchta's thread, VFT internal comments suggest collaborating with NCRI, founded by Joel Finkelstein, which it describes as a multi-million-dollar organization that tracks hate speech on social media.
+Claim: According to Cuccia's thread, VFT internal comments suggest collaborating with NCRI, founded by Joel Finkelstein, which it describes as a multi-million-dollar organization that tracks hate speech on social media.
 
 Transcript Snippet: They suggest collaborating with NCRI funded with NCRI which was founded by Joel Finkelstein, a multi-million dollar organization that tracks hate speech on social media.
 
@@ -1131,7 +1131,7 @@ Investigative Direction: TPUSA and Charlie Kirk Show posts and segments about Jo
 
 Claim Timestamp: 00:22:35
 
-Claim: According to Kuchta's thread, an internal comment discusses advising politicians on the basis of VFT data, which also compiles information on JD Vance's 2028 run, and says "There is definitely a way to use this in our favor."
+Claim: According to Cuccia's thread, an internal comment discusses advising politicians on the basis of VFT data, which also compiles information on JD Vance's 2028 run, and says "There is definitely a way to use this in our favor."
 
 Transcript Snippet: Another internal comment weighs in on how they will advise politicians based on their data, which also compiles information surrounding J. D. Vance's 2028 run.
 
@@ -1146,7 +1146,7 @@ Investigative Direction: The VFT 2028 file and any VFT engagements with campaign
 
 Claim Timestamp: 00:23:55
 
-Claim: According to Kuchta's thread, the documents discuss burner profiles, burner ad accounts, AI-generated interview-style videos, audience personas, troll content briefs, engagement testing and ideological audience segmentation.
+Claim: According to Cuccia's thread, the documents discuss burner profiles, burner ad accounts, AI-generated interview-style videos, audience personas, troll content briefs, engagement testing and ideological audience segmentation.
 
 Transcript Snippet: The documents uh also discuss burner profiles, burner ad accounts, AI-generated interview-style videos, audience personas, troll content briefs, engagement testing, and ideological audience segmentation.
 
@@ -1157,11 +1157,11 @@ Investigative Direction: Platform takedown records for burner accounts and ad ac
 
 ---
 
-**C-4302** Kuchta points to the White House's 16-page counterterrorism strategy touted by Gorka
+**C-4302** Cuccia points to the White House's 16-page counterterrorism strategy touted by Gorka
 
 Claim Timestamp: 00:23:55
 
-Claim: According to Kuchta's thread, anyone wondering whether the White House listens to VFT should review the White House's latest 16-page counterterrorism strategy, which Sebastian Gorka touted.
+Claim: According to Cuccia's thread, anyone wondering whether the White House listens to VFT should review the White House's latest 16-page counterterrorism strategy, which Sebastian Gorka touted.
 
 Transcript Snippet: it's worth reviewing the White House's latest 16-page counterterrorism strategy touted by Gorka.
 
@@ -1518,7 +1518,7 @@ Confidence: high
 Video Timestamp: 00:16:30
 Speaker: N-3
 Quote: The story a little weird. It just didn't for me pass the sniff test. I'm sorry, Nick.
-Context: Host on Nick Shirley's favela story after he is named in the Kuchta thread.
+Context: Host on Nick Shirley's favela story after he is named in the Cuccia thread.
 Tags: plausibility, reuse
 Confidence: high
 
@@ -1531,7 +1531,7 @@ Confidence: high
 Video Timestamp: 00:13:30
 Speaker: N-3
 Quote: Uh it's it's all one psychological operation.
-Context: Host on pro-Israel bot accounts before reading the Kuchta thread.
+Context: Host on pro-Israel bot accounts before reading the Cuccia thread.
 Tags: psyop, bots, reuse
 Confidence: high
 
@@ -1640,7 +1640,7 @@ Confidence: high
 - **Duration**: the skeleton's Video Timestamp Range (00:56:29) has been corrected to the transcript front-matter duration of 52:19.
 - **Artifacts verbally referenced but not shown**: A-2610.2 (the White House denial and the host's follow-up email), A-2611.2 (Hegseth's September 9 schedule), A-2616.1 (Brigitte Macron's lawsuit filing) and A-2616.2 (Brian Harpole's lawsuit). A-2611.1 is the host's recap of flight data; it is unclear whether a flight map was shown.
 - **DIA scan**: no tip request, bounty or tip-line beat airs. The only hit is "Go to Candace Owens. com" (50:58), which is a merch plug, so M-12 and M-14 are not used.
-- **Name matching**: "Ryan Ruth" is minted as N-646 Ryan Routh. "Victor Marx" is N-345 Victor Marx. "BB" is N-36 Benjamin Netanyahu. "Joel Finkelstein" is minted as N-652 and is not matched to the existing Norman Finkelstein node. "Shawn Chenoweth", "Raphael Schreiber" and "Kuchta" are kept as spelled in the transcript; real spellings are unverified. "Sean Kadkhoui" and "James The Least" are viewer handles and are not minted.
+- **Name matching**: "Ryan Ruth" is minted as N-646 Ryan Routh. "Victor Marx" is N-345 Victor Marx. "BB" is N-36 Benjamin Netanyahu. "Joel Finkelstein" is minted as N-652 and is not matched to the existing Norman Finkelstein node. "Shawn Chenoweth", "Raphael Schreiber" and "Cuccia" are kept as spelled in the transcript; real spellings are unverified. "Sean Kadkhoui" and "James The Least" are viewer handles and are not minted.
 - **Cross-staging reuse**: N-10923 uses the exact title from staging episode 104 ("White House Military Office "I Want to Go Home" Amplification Email"). Staging episode 105 names the same email "White House Military Office Erika Kirk Amplification Email", so the integrator should merge the two. N-10916 reuses the title "Thomas Massie Kentucky Primary Outside Spending" from staging. M-95 reuses the title "Emotional Response Asset" from another staging episode.
 - **New meme M-104**: the host's Brigitte Macron doll ("Brigitte Bardot") also appears in episode 107's transcript, which suggests a running bit. The integrator should check whether 107 mints it under a different title.
 - **Possible cross-episode link left out**: C-4281 (Harpole's alibi flight from Texas at "2:30 in the afternoon") differs from C-2904 (ep 102: "1:49 PM Dallas to Salt Lake City"). Because the host does not present it as a correction, no edge was added.

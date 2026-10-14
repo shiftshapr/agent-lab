@@ -1506,16 +1506,16 @@ Investigative Direction: This is the host's theory; test it by establishing when
 
 ---
 
-**C-8588** Host Says No One Called 911 After Charlie Was Shot
+**C-8588** Host Tells Blake Neff That No One Called 911 After Charlie Was Shot
 
 Claim Timestamp: 00:31:46
 
-Claim: The host says that after the shooting Mikey ran to the back and called his wife, Erika called her mom, and no one called 911.
+Claim: Addressing Blake Neff, the host says that after Charlie was shot Blake ran to the back with Mikey, Mikey called his wife, Blake called his mom, and no one called 911.
 
 Transcript Snippet: Mikey calls his wife and you call your mom and no one calls 911.
 
 Anchored Artifacts: 
-Mentions: N-3, N-194, N-2, N-162
+Mentions: N-3, N-162, N-194
 Related Nodes: N-10729
 Supports: C-1932
 Tags: relevance:core
@@ -1651,7 +1651,7 @@ Investigative Direction: Obtain the full unedited recording of the interview for
 
 **C-8597** Host Says the Facility Is an IV Therapy and Holistic Clinic, Not a Hospital
 
-Claim Timestamp: 00:38:22
+Claim Timestamp: 00:39:34
 
 Claim: The host says she determined the place in question is not a hospital and would be more appropriately described as an IV therapy place and holistic clinic.
 
