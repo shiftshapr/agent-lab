@@ -1,28 +1,48 @@
 {
-  "version": 1,
-  "monument": "cka",
-  "description": "First-class claim tag lenses for CKA extractors. Stored on claim tags[] (same string-array model as BoC docs/TAGS_AND_MEME_OCCURRENCES.md). Protocol JSON schema extension deferred until first CKA extract batch.",
-  "claim_lenses": [
-    {
-      "id": "calls_for_tips",
-      "label": "Calls for tips",
-      "description": "Host asks the audience to submit tips, leads, or on-the-ground reporting."
-    },
-    {
-      "id": "decentralized_investigation",
-      "label": "Decentralized investigation / DIA-style asks",
-      "description": "Explicit audience-side investigation, crowdsourcing, or DIA-framed collaborative inquiry."
-    },
-    {
-      "id": "open_source_investigation",
-      "label": "Open source investigation / OSINT",
-      "description": "OSINT methods, public records, social traces, or teach-the-audience sourcing steps."
-    },
-    {
-      "id": "submissions_to_candace",
-      "label": "Submissions to Candace",
-      "description": "Material sent to the show, exclusives, whistleblower handoffs, or tips received by the production."
-    }
-  ],
-  "extractor_notes": "Apply zero or more lens ids to claim tags[] when the claim is primarily about that meta-behavior (in addition to topical tags like timeline, falsifiable, etc.)."
+ "version": 1,
+ "monument": "cka",
+ "description": "First-class claim tag lenses for CKA extractors. Stored on claim tags[] (same string-array model as BoC docs/TAGS_AND_MEME_OCCURRENCES.md). Protocol JSON schema extension deferred until first CKA extract batch.",
+ "claim_lenses": [
+  {
+   "id": "calls_for_tips",
+   "label": "Calls for tips",
+   "description": "Host asks the audience to submit tips, leads, or on-the-ground reporting."
+  },
+  {
+   "id": "decentralized_investigation",
+   "label": "Decentralized investigation / DIA-style asks",
+   "description": "Explicit audience-side investigation, crowdsourcing, or DIA-framed collaborative inquiry."
+  },
+  {
+   "id": "open_source_investigation",
+   "label": "Open source investigation / OSINT",
+   "description": "OSINT methods, public records, social traces, or teach-the-audience sourcing steps."
+  },
+  {
+   "id": "submissions_to_candace",
+   "label": "Submissions to Candace",
+   "description": "Material sent to the show, exclusives, whistleblower handoffs, or tips received by the production."
+  }
+ ],
+ "extractor_notes": "Apply zero or more lens ids to claim tags[] when the claim is primarily about that meta-behavior (in addition to topical tags like timeline, falsifiable, etc.).",
+ "relevance": {
+  "description": "Daveed 2026-10-13: every claim may carry exactly one relevance tag in tags[]. Claims are kept in the ledger regardless; the site filters by relevance. Untagged = not yet classified.",
+  "values": [
+   {
+    "id": "relevance:core",
+    "label": "Core",
+    "description": "The Kirk assassination, its investigation, Erika Kirk / TPUSA conduct, timelines, evidence and the people directly involved."
+   },
+   {
+    "id": "relevance:context",
+    "label": "Context",
+    "description": "Related politics, media, donors, legal fights and background on case figures that bear on the case indirectly."
+   },
+   {
+    "id": "relevance:tangential",
+    "label": "Tangential",
+    "description": "Fringe, historical or off-topic assertions recorded as said (e.g. occult rituals, Mandela effect, sweeping group claims) with no direct bearing on the case."
+   }
+  ]
+ }
 }

@@ -1102,6 +1102,7 @@ Anchored Artifacts: A-2172.1
 Related Nodes: N-11062
 Supports: C-3108
 
+Tags: relevance:tangential
 Investigative Direction: Check scholarly sources on whether Irgun is classified as part of the Canaanite movement or is a distinct body that some Canaanites had belonged to.
 
 ---

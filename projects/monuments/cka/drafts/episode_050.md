@@ -1435,6 +1435,7 @@ Transcript Snippet: You describe yourself as a Talmudic Jew and I've learned wha
 
 Anchored Artifacts: 
 Mentions: N-97, N-3
+Tags: relevance:context
 Investigative Direction: Find Shapiro's own statements using that phrase and their dates.
 
 ---
@@ -1449,6 +1450,7 @@ Transcript Snippet: they think that we're animals. That they have a right to own
 
 Anchored Artifacts: 
 Mentions: N-3, N-97
+Tags: relevance:tangential
 Investigative Direction: Ask the host for the specific Talmudic passages; compare with the primary texts and mainstream scholarly translations and commentary. This is a sweeping religious characterization, not a record of Shapiro's conduct.
 
 ---
@@ -1493,6 +1495,7 @@ Transcript Snippet: Jewish people were the ones that were trading us. Jewish peo
 
 Anchored Artifacts: 
 Mentions: N-3
+Tags: relevance:tangential
 Investigative Direction: Test against standard historical scholarship on the Atlantic slave trade; the host cites no source. Recorded as an on-air historical assertion.
 
 ---

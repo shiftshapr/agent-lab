@@ -2055,6 +2055,7 @@ Transcript Snippet: we have here an excerpt from the book God chose me by J. D. 
 Anchored Artifacts: A-2090.1
 Mentions: N-283, N-4, N-1
 Related Nodes:
+Tags: relevance:context
 Investigative Direction: Locate the original Tim Dillon episode and confirm the segment is presented as comedy.
 
 ---

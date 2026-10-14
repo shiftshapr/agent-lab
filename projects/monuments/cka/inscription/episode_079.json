@@ -1214,7 +1214,9 @@
         "A-1846.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:46–00:10:32",
       "investigative_direction": "Cross-reference against Charlie Kirk's public statements on Judaism and the Talmud; verify authenticity of message timestamps.",
       "mentions_person_refs": [

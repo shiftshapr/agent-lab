@@ -510,6 +510,7 @@ Anchored Artifacts: A-1739.2
 Mentions: N-553
 
 
+Tags: relevance:tangential
 Investigative Direction: Verify Epic of Gilgamesh text on divine/mortal proportions; confirm CERN logo design and Shiva statue presence at the facility.
 
 ---

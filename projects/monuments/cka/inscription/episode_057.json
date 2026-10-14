@@ -1252,7 +1252,9 @@
       "related_nodes": [
         "N-10414"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:29",
       "investigative_direction": "Identify the YouTuber who originally published the video; verify the date and circumstances of the alleged incident; determine whether any criminal investigation was opened."
     },
@@ -1268,7 +1270,9 @@
       "related_nodes": [
         "N-10414"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:37:29",
       "investigative_direction": "Locate CERN's official statement on the incident; identify the spokesperson and the date of the statement; determine whether the woman depicted has been identified."
     },
@@ -1608,7 +1612,9 @@
         "N-11027",
         "N-11030"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:09:13",
       "investigative_direction": "Check the publisher's spelling history for the series and any survey data on how people remember the spelling.",
       "transcript_snippet": "Millions remember it as Baron Stain with an E. But every book says Baron Stain with an A."
@@ -1626,7 +1632,9 @@
         "N-11027",
         "N-11030"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:09:57",
       "investigative_direction": "Trace the origin of the term 'Mandela effect' to Fiona Broome's 2009 coinage and compare with the clip's account.",
       "transcript_snippet": "named after people who remembered Nelson Mandela dying in prison years before he actually did."
@@ -1659,7 +1667,9 @@
       "related_nodes": [
         "N-11030"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:03",
       "investigative_direction": "Compare Pokemon official artwork across 1996-present for the tip of Pikachu's tail.",
       "transcript_snippet": "Pikachu had black at the end of his tail, obviously.",
@@ -1677,7 +1687,9 @@
       "related_nodes": [
         "N-10413"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:03",
       "investigative_direction": "Ask the host for her source; no archaeological or declassified record is known to the transcript. Check whether Bill Wood or Project Camelot ever described a Sumerian origin.",
       "transcript_snippet": "they stole a device from the ancient Sumerian civilization that's located in modern modern day Iraq.",
@@ -1698,7 +1710,9 @@
         "N-10413",
         "N-11028"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:14:06",
       "investigative_direction": "List the Project Camelot interviews on Looking Glass and check whether each named witness gave the 2012-2016 range or only December 21, 2012.",
       "transcript_snippet": "every time they ran the device, no matter what variables they changed, all future timelines converge to a single fixed point.",
@@ -1964,7 +1978,9 @@
       "related_nodes": [
         "N-10414"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:56",
       "investigative_direction": "Ask the host which moon landing footage and which ritual she means; compare with NASA mission records.",
       "transcript_snippet": "just go back and watch on the moon landing and the rituals that they were doing.",
@@ -1998,7 +2014,9 @@
       "related_nodes": [
         "N-11029"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Check CERN's founding date (convention ratified in 1954) against the CERN official history.",
       "transcript_snippet": "CERN was basically established in 1954 to research particle physics.",
@@ -2034,7 +2052,9 @@
       "related_nodes": [
         "N-11029"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Check LHC specifications on the CERN website: circumference about 27 km and depth between about 50 and 175 m.",
       "transcript_snippet": "the Large Hydron Collider, which is based in Geneva, Switzerland, and is a 17-mi tunnel underground up to 600 feet underground in some places",
@@ -2052,7 +2072,9 @@
       "related_nodes": [
         "N-11029"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Check CERN's 4 July 2012 announcement of a Higgs-like boson; the 'erase God' motive is Mark's interpretation and has no documentary test.",
       "transcript_snippet": "in 2012, they observed a reaction that's consistent with this particle that was theorized back in 1964",
@@ -2073,7 +2095,9 @@
         "N-10414",
         "N-11029"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:29",
       "investigative_direction": "Identify the statue (CERN has a Shiva Nataraja statue gifted by India in 2004) and where the footage was recorded.",
       "transcript_snippet": "this ceremony which again is taking place under a uh Hindu deity",
@@ -2094,7 +2118,9 @@
         "N-10414",
         "N-11029"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:37:29",
       "investigative_direction": "Locate the actual CERN statement and the outlet that quoted it; confirm the wording and the speaker.",
       "transcript_snippet": "someone at the facility gave a statement and said they were the PR guy said they were taking their sense of humor too far by staging a satanic ritual.",
@@ -2118,7 +2144,9 @@
         "N-10414",
         "N-11029"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:17",
       "investigative_direction": "Identify the YouTuber and the original upload date; check whether the recorder has been identified publicly.",
       "transcript_snippet": "Somebody who worked there recorded it, got it to a YouTuber who then published it",
@@ -2142,7 +2170,9 @@
         "N-10414",
         "N-11029"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:17",
       "investigative_direction": "Locate the spokesperson statement and compare with the host's paraphrase.",
       "transcript_snippet": "the spokesperson confirmed it's real and this person had no permission to record it",
@@ -2165,7 +2195,9 @@
       "related_nodes": [
         "N-10414"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:39:04",
       "investigative_direction": "Review the original video audio and note the exact words and where the footage cuts off.",
       "transcript_snippet": "You then hear heavy breathing and you hear a guy saying f doesn't seem like it was a prank to him.",
@@ -2462,7 +2494,9 @@
       "related_nodes": [
         "N-11033"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:51:51",
       "investigative_direction": "Find the earlier episode where the host discussed Project Monarch; check historical sources on Operation Paperclip and the Monarch allegations, which are contested.",
       "transcript_snippet": "I know about Project Monarch. We've spoken about it on this show um as being the precursor to what the Nazis did here",
@@ -2479,7 +2513,9 @@
       "claim": "The host says that once she realized it, she concluded Donald Trump does not have his own thoughts, is not controlling anything, and that the Zionists are controlling his entire cabinet.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:43",
       "investigative_direction": "The claim is a sweeping characterization; ask the host which cabinet members she means and what evidence she relies on.",
       "transcript_snippet": "he does not have his own thoughts and he is not controlling anything and that the Zionists are controlling his entire cabinet.",
@@ -2496,7 +2532,9 @@
       "claim": "The host says Zionists already have control of the US military, which she says they have had since they killed JFK.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:43",
       "investigative_direction": "Ask the host for evidence tying the JFK assassination to a group she calls Zionists; compare with the JFK Records Collection.",
       "transcript_snippet": "Why would I want Zionists to have control, which they already have since they killed JFK, of our military today",
@@ -2553,7 +2591,9 @@
       "related_nodes": [
         "N-10422"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:53:21",
       "investigative_direction": "Check peer-reviewed literature on fluoride accumulation in the pineal gland; the claim that it burns the gland is not established.",
       "transcript_snippet": "that it burns your pineal glands.",

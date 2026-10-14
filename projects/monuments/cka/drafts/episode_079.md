@@ -657,6 +657,7 @@ Anchored Artifacts: A-1846.2
 Mentions: N-1, N-3
 
 
+Tags: relevance:context
 Investigative Direction: Cross-reference against Charlie Kirk's public statements on Judaism and the Talmud; verify authenticity of message timestamps.
 
 ---

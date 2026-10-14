@@ -733,6 +733,7 @@ Anchored Artifacts: A-1629.1, A-1630.1
 
 Related Nodes: N-10414
 
+Tags: relevance:tangential
 Investigative Direction: Identify the YouTuber who originally published the video; verify the date and circumstances of the alleged incident; determine whether any criminal investigation was opened.
 
 ---
@@ -747,6 +748,7 @@ Anchored Artifacts: A-1629.1
 
 Related Nodes: N-10414
 
+Tags: relevance:tangential
 Investigative Direction: Locate CERN's official statement on the incident; identify the spokesperson and the date of the statement; determine whether the woman depicted has been identified.
 
 ---
@@ -1013,6 +1015,7 @@ Transcript Snippet: Millions remember it as Baron Stain with an E. But every boo
 
 Anchored Artifacts: A-1628.1
 Related Nodes: N-11027, N-11030
+Tags: relevance:tangential
 Investigative Direction: Check the publisher's spelling history for the series and any survey data on how people remember the spelling.
 
 ---
@@ -1027,6 +1030,7 @@ Transcript Snippet: named after people who remembered Nelson Mandela dying in pr
 
 Anchored Artifacts: A-1628.1
 Related Nodes: N-11027, N-11030
+Tags: relevance:tangential
 Investigative Direction: Trace the origin of the term 'Mandela effect' to Fiona Broome's 2009 coinage and compare with the clip's account.
 
 ---
@@ -1056,6 +1060,7 @@ Transcript Snippet: Pikachu had black at the end of his tail, obviously.
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11030
+Tags: relevance:tangential
 Investigative Direction: Compare Pokemon official artwork across 1996-present for the tip of Pikachu's tail.
 
 ---
@@ -1071,6 +1076,7 @@ Transcript Snippet: they stole a device from the ancient Sumerian civilization t
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10413
+Tags: relevance:tangential
 Investigative Direction: Ask the host for her source; no archaeological or declassified record is known to the transcript. Check whether Bill Wood or Project Camelot ever described a Sumerian origin.
 
 ---
@@ -1087,6 +1093,7 @@ Anchored Artifacts: A-1628.2
 Mentions: N-465
 Related Nodes: N-10413, N-11028
 Supports: C-2097
+Tags: relevance:tangential
 Investigative Direction: List the Project Camelot interviews on Looking Glass and check whether each named witness gave the 2012-2016 range or only December 21, 2012.
 
 ---
@@ -1296,6 +1303,7 @@ Transcript Snippet: just go back and watch on the moon landing and the rituals t
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10414
+Tags: relevance:tangential
 Investigative Direction: Ask the host which moon landing footage and which ritual she means; compare with NASA mission records.
 
 ---
@@ -1325,6 +1333,7 @@ Transcript Snippet: CERN was basically established in 1954 to research particle 
 Anchored Artifacts: 
 Mentions: N-67
 Related Nodes: N-11029
+Tags: relevance:tangential
 Investigative Direction: Check CERN's founding date (convention ratified in 1954) against the CERN official history.
 
 ---
@@ -1355,6 +1364,7 @@ Transcript Snippet: the Large Hydron Collider, which is based in Geneva, Switzer
 Anchored Artifacts: 
 Mentions: N-67
 Related Nodes: N-11029
+Tags: relevance:tangential
 Investigative Direction: Check LHC specifications on the CERN website: circumference about 27 km and depth between about 50 and 175 m.
 
 ---
@@ -1370,6 +1380,7 @@ Transcript Snippet: in 2012, they observed a reaction that's consistent with thi
 Anchored Artifacts: 
 Mentions: N-67
 Related Nodes: N-11029
+Tags: relevance:tangential
 Investigative Direction: Check CERN's 4 July 2012 announcement of a Higgs-like boson; the 'erase God' motive is Mark's interpretation and has no documentary test.
 
 ---
@@ -1385,6 +1396,7 @@ Transcript Snippet: this ceremony which again is taking place under a uh Hindu d
 Anchored Artifacts: A-1630.1
 Mentions: N-3
 Related Nodes: N-10414, N-11029
+Tags: relevance:tangential
 Investigative Direction: Identify the statue (CERN has a Shiva Nataraja statue gifted by India in 2004) and where the footage was recorded.
 
 ---
@@ -1401,6 +1413,7 @@ Anchored Artifacts: A-1629.1
 Mentions: N-3
 Related Nodes: N-10414, N-11029
 Supports: C-2101
+Tags: relevance:tangential
 Investigative Direction: Locate the actual CERN statement and the outlet that quoted it; confirm the wording and the speaker.
 
 ---
@@ -1417,6 +1430,7 @@ Anchored Artifacts: A-1630.1
 Mentions: N-3
 Related Nodes: N-10414, N-11029
 Supports: C-2100
+Tags: relevance:tangential
 Investigative Direction: Identify the YouTuber and the original upload date; check whether the recorder has been identified publicly.
 
 ---
@@ -1433,6 +1447,7 @@ Anchored Artifacts: A-1630.1
 Mentions: N-3
 Related Nodes: N-10414, N-11029
 Supports: C-2101
+Tags: relevance:tangential
 Investigative Direction: Locate the spokesperson statement and compare with the host's paraphrase.
 
 ---
@@ -1448,6 +1463,7 @@ Transcript Snippet: You then hear heavy breathing and you hear a guy saying f do
 Anchored Artifacts: A-1630.1
 Mentions: N-3
 Related Nodes: N-10414
+Tags: relevance:tangential
 Investigative Direction: Review the original video audio and note the exact words and where the footage cuts off.
 
 ---
@@ -1660,6 +1676,7 @@ Transcript Snippet: I know about Project Monarch. We've spoken about it on this 
 Anchored Artifacts: A-2756.3
 Mentions: N-3, N-731
 Related Nodes: N-11033
+Tags: relevance:tangential
 Investigative Direction: Find the earlier episode where the host discussed Project Monarch; check historical sources on Operation Paperclip and the Monarch allegations, which are contested.
 
 ---
@@ -1674,6 +1691,7 @@ Transcript Snippet: he does not have his own thoughts and he is not controlling 
 
 Anchored Artifacts: 
 Mentions: N-3, N-5
+Tags: relevance:tangential
 Investigative Direction: The claim is a sweeping characterization; ask the host which cabinet members she means and what evidence she relies on.
 
 ---
@@ -1688,6 +1706,7 @@ Transcript Snippet: Why would I want Zionists to have control, which they alread
 
 Anchored Artifacts: 
 Mentions: N-3
+Tags: relevance:tangential
 Investigative Direction: Ask the host for evidence tying the JFK assassination to a group she calls Zionists; compare with the JFK Records Collection.
 
 ---
@@ -1732,6 +1751,7 @@ Transcript Snippet: that it burns your pineal glands.
 Anchored Artifacts: A-1634.3
 Mentions: N-3
 Related Nodes: N-10422
+Tags: relevance:tangential
 Investigative Direction: Check peer-reviewed literature on fluoride accumulation in the pineal gland; the claim that it burns the gland is not established.
 
 ---

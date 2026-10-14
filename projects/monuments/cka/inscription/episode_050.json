@@ -2341,7 +2341,9 @@
       "claim": "The host says Ben Shapiro describes himself as a Talmudic Jew.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:15",
       "investigative_direction": "Find Shapiro's own statements using that phrase and their dates.",
       "transcript_snippet": "You describe yourself as a Talmudic Jew and I've learned what's in that Talmud",
@@ -2358,7 +2360,9 @@
       "claim": "The host asserts that, according to the Talmud, Jewish people think non-Jews are animals and have a right to own them, make them worship, lie to them and sue them. She cites no passage.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:22:15",
       "investigative_direction": "Ask the host for the specific Talmudic passages; compare with the primary texts and mainstream scholarly translations and commentary. This is a sweeping religious characterization, not a record of Shapiro's conduct.",
       "transcript_snippet": "they think that we're animals. That they have a right to own us. That they have a right to make us worship them.",
@@ -2416,7 +2420,9 @@
       "claim": "The host asserts that Jewish people were the ones trading enslaved Black people and were in control of the slave trade.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:26:29",
       "investigative_direction": "Test against standard historical scholarship on the Atlantic slave trade; the host cites no source. Recorded as an on-air historical assertion.",
       "transcript_snippet": "Jewish people were the ones that were trading us. Jewish people were in control of the slave trade.",

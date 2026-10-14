@@ -2310,7 +2310,9 @@
       "related_nodes": [
         "N-11062"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:06:31",
       "investigative_direction": "Check scholarly sources on whether Irgun is classified as part of the Canaanite movement or is a distinct body that some Canaanites had belonged to.",
       "transcript_snippet": "Irgun was a Jewish Canaanite gang. No one denies that it was a terrorist group that killed a lot of people.",
