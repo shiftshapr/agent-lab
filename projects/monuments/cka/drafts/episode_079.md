@@ -11,8 +11,13 @@
 - **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10e): N-11294, N-11295
+  - Hole-minted Nodes (reintro-ep079): N-10544, N-10674
+  - Tip-minted Nodes (reintro-ep079): N-11057, N-11145
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10e): C-11235–C-11294
   - New Nodes Introduced: N-603, N-604, N-606, N-10542
-  - Reused Nodes Appearing: N-102, N-5, N-387, N-10539, N-10540, N-605, N-607, N-10541, N-10543
+  - Reused Nodes Appearing: N-102, N-5, N-387, N-10539, N-10540, N-605, N-607, N-10541, N-10543, N-2, N-4, N-9, N-37, N-40, N-46, N-182, N-208, N-249, N-274, N-400, N-532, N-10000, N-10082, N-10083, N-10132, N-10236, N-10237, N-10268, N-10386, N-10391, N-10406, N-10900, N-10962, N-11064, N-11096, N-11103, N-11128, N-11228
   - (see registers)
 
 ## 6. Meme Register
@@ -29,6 +34,155 @@ Tags: smear, media, intimidation, reuse
 Confidence: high
 
 ---
+
+---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: Uh the White House can keep posting their super fake and gay Mortal Kombat type memes.
+Context: Host applies the fake and gay label to White House Iran memes.
+Tags: fake and gay, white house
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:50:39
+Speaker: N-3
+Quote: Magma, Make America Go Max, always.
+Context: Host reads a viewer comment using the Go Max catchphrase.
+Tags: go max, comment
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:51:29
+Speaker: N-3
+Quote: Go Max, and praying for you always.
+Context: Host reads another viewer comment ending in Go Max.
+Tags: go max, comment
+Confidence: high
+
+---
+
+**M-23** (meme) Battle Bun
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: It is a battle bun Monday.
+Context: Host opens acknowledging chat calling it a battle bun Monday.
+Tags: battle bun, opener
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:54:06
+Speaker: N-3
+Quote: I see so many of your comments about Battle Bun merch.
+Context: Host promises Battle Bun merch.
+Tags: battle bun, merch
+Confidence: high
+
+---
+
+**M-214** (meme) Shabbat Shalom, Daddy's Home
+
+### Occurrence 1
+
+Video Timestamp: 00:54:06
+Speaker: N-3
+Quote: you can definitely get your Daddy's Home Shabbat Shalom t-shirts.
+Context: Host plugs the Daddy's Home Shabbat Shalom shirts.
+Tags: merch, shabbat shalom
+Confidence: high
+
+---
+
+**M-223** (meme) Buy That for Blake
+
+### Occurrence 1
+
+Video Timestamp: 00:54:06
+Speaker: N-3
+Quote: pour one out for my big homie Blake Neff, who just needs to keep his mouth shut.
+Context: Host closes with a jab at Blake Neff alongside the merch plug.
+Tags: blake neff, merch
+Confidence: high
+
+---
+
+**M-277** (meme) Zio Vibes
+
+### Occurrence 1
+
+Video Timestamp: 00:21:48
+Speaker: N-3
+Quote: He launched this war on Zio vibes, right?
+Context: Host jokes that the Iran war was launched on Zio vibes.
+Tags: zio vibes, iran war
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:33:21
+Speaker: N-3
+Quote: red heifers, Zio vibes, hard to kick cigarettes.
+Context: Host recaps the war's stated reasons as Zio vibes and red heifers.
+Tags: zio vibes, red heifer
+Confidence: high
+
+---
+
+**M-278** (meme) Out of Habit
+
+### Occurrence 1
+
+Video Timestamp: 00:32:41
+Speaker: N-3
+Quote: I would like to to reiterate we did it out of habit.
+Context: Host riffs on Trump's out-of-habit explanation as a habit America cannot kick.
+Tags: habit, trump quote
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:35:03
+Speaker: N-3
+Quote: we just can't kick this habit of murdering Muslims for no reason
+Context: Host repeats the habit bit.
+Tags: habit, iran war
+Confidence: high
+
+---
+
+**M-279** (meme) Big Ben Shapiro Energy
+
+### Occurrence 1
+
+Video Timestamp: 00:21:48
+Speaker: N-3
+Quote: Big Ben Shapiro energy, right?
+Context: Host compares Trump's war-making to Shapiro's fight-picking.
+Tags: shapiro, energy
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:28:13
+Speaker: N-3
+Quote: big Ben Shapiro energy.
+Context: Host repeats the comparison in summarizing the state of affairs.
+Tags: shapiro, energy
+Confidence: high
 
 ---
 
@@ -367,6 +521,101 @@ Confidence Level: Medium (read aloud; original screen not displayed)
 
 ---
 
+**A-3123** Shapiro and Megyn Kelly X Post Exchange Bundle
+
+**A-3123.1** Host reads Ben Shapiro's online post calling Megyn Kelly a coward and Piers Morgan a click whore (not shown on screen)
+
+Quoted text: "Meghan is a coward. Piers Morgan is a click whore."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:05:02
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11237, N-97, N-46, N-208*
+
+---
+
+**A-3123.2** Host reads Megyn Kelly's reply post to Shapiro (not shown on screen)
+
+Quoted text: "Poor little Ben, and I do mean little, desperate for me to protect him."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:05:02
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11238, N-46, N-97*
+
+---
+
+**A-3123.3** Host reads Shapiro's follow-up reply to Kelly mentioning Kirk's widow (not shown on screen)
+
+Quoted text: "You won't even protect Charlie Kirk's widow from the monster accusing her of murdering Charlie."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:06:01
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11239, N-97, N-46, N-2*
+
+---
+
+**A-3124** Strait of Hormuz Map Bundle
+
+**A-3124.1** Map of Iran and the Strait of Hormuz shown on screen by the host
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:23:10
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11264, N-3*
+
+---
+
+**A-3125** White House Iran War Meme Clip Bundle
+
+**A-3125.1** Social media clip with shouted lines such as "WHITE HOUSE. Girl power. Woo! Power Rangers" played by the host
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:40:49
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11282, N-3*
+
+---
+
+**A-3126** Viewer Comments Bundle
+
+**A-3126.1** Viewer comment from Surfer G-Man read by the host
+
+Quoted text: "Three things that Charlie Kirk was for: no war with Iran, release the Epstein files, and audit to TPUSA."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:50:39
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11290, N-1, N-9*
+
+---
+
+**A-3126.2** Viewer comment from Megan Vincent read by the host
+
+Quoted text: "CIA targeting Tucker for talking to Iranians while AIPAC walks free as an unregistered foreign agent."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:53:07
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11292, C-11293, N-22*
+
+---
+
 ## 4. Node Register
 
 
@@ -627,6 +876,304 @@ Episode Count: 1
 Investigative Pressure: High
 
 *Related: A-1846.1, A-1847.1, A-1848.1, A-1850.1, A-1856.1, C-2476, C-2478, C-2480, C-2481, C-2483, C-2493, N-97*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; the Shapiro reply cites her and Knowles is pressed about attacks on her (transcribed Erika Curren). Alias: Erika Curren (as transcribed).
+
+*Related: C-11239, C-11247, C-11261, A-3123.3*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself and reads the messages, posts and comments.
+
+*Related: C-11235, C-11236, C-11237, C-11238, C-11239, C-11240, C-11241, C-11242, C-11243, C-11244, C-11245, C-11246, C-11247, C-11254, C-11255, C-11256, C-11257, C-11258, C-11259, C-11260, C-11261, C-11262, C-11263, C-11264, C-11265, C-11266, C-11267, C-11268, C-11269, C-11270, C-11271, C-11272, C-11273, C-11274, C-11275, C-11276, C-11277, C-11278, C-11279, C-11280, C-11281, C-11282, C-11286, C-11287, C-11288, C-11289, C-11290, C-11291, C-11292, C-11293, C-11294, A-3124.1, A-3125.1*
+
+---
+
+**N-4** JD Vance
+
+Named in the Neff post as one of Kirk's favorite politicians.
+
+*Related: C-11253*
+
+---
+
+**N-9** Jeffrey Epstein
+
+Named in a viewer comment on Kirk's three positions.
+
+*Related: C-11290, A-3126.1*
+
+---
+
+**N-37** Bill Ackman
+
+Billionaire the host says retweeted attacks on her.
+
+*Related: C-11286*
+
+---
+
+**N-40** Tyler Robinson
+
+Accused in the Kirk shooting; host says the narrative around him is failing.
+
+*Related: C-11288*
+
+---
+
+**N-46** Megyn Kelly
+
+Journalist in the Shapiro dispute; her reply is read by the host.
+
+*Related: C-11237, C-11238, C-11239, C-11240, C-11258, A-3123.1, A-3123.2, A-3123.3*
+
+---
+
+**N-60** Laura Loomer
+
+Author of the list the host says was never published.
+
+*Related: C-11287*
+
+---
+
+**N-182** Jared Kushner
+
+The host says he is running the White House.
+
+*Related: C-11294*
+
+---
+
+**N-208** Piers Morgan
+
+Journalist Shapiro is said to have attacked.
+
+*Related: C-11237, A-3123.1*
+
+---
+
+**N-249** Mark Levin
+
+Radio host the host links to pro-war pressure on Carlson.
+
+*Related: C-11236, C-11281*
+
+---
+
+**N-274** Joe Rogan
+
+Podcaster the host says she ties in rankings.
+
+*Related: C-11280*
+
+---
+
+**N-400** Andrew Breitbart
+
+Late publisher whose legacy the host says Shapiro tried to recreate.
+
+*Related: C-11255*
+
+---
+
+**N-532** Rothschild Family
+
+Family the host asserts created Israel and Macron.
+
+*Related: C-11269*
+
+---
+
+**N-10000** Turning Point USA
+
+Organization whose conduct the host criticizes.
+
+*Related: C-11246, C-11247, C-11257, C-11290*
+
+---
+
+**N-10082** CIA
+
+CIA, the agency in Carlson's account.
+
+*Related: C-11283, C-11285, C-11293*
+
+---
+
+**N-10083** AIPAC
+
+Lobby the commenter says is an unregistered foreign agent.
+
+*Related: C-11293*
+
+---
+
+**N-10132** TPUSA DOGE Department / Financial Audit
+
+Existing topic on a TPUSA audit.
+
+*Related: C-11290*
+
+---
+
+**N-10236** Megyn Kelly Tour Attendee Authenticity Question
+
+Existing topic on a Kelly tour event.
+
+*Related: C-11258*
+
+---
+
+**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations
+
+Existing topic on Shapiro's statements about the host's accusations.
+
+*Related: C-11239*
+
+---
+
+**N-10268** AmFest Speaker Removal Pattern
+
+Existing topic on AmFest speaker removals and donor pressure.
+
+*Related: C-11256, C-11257*
+
+---
+
+**N-10386** Ben Shapiro Hostile Takeover Pattern
+
+Existing topic on Shapiro's alleged takeover pattern.
+
+*Related: C-11240, C-11256*
+
+---
+
+**N-10391** Ben Shapiro Daily Wire Founding Narrative
+
+Existing topic on Daily Wire founding narrative.
+
+*Related: C-11255*
+
+---
+
+**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+
+Existing topic on attacks on Kelly.
+
+*Related: C-11237, C-11238*
+
+---
+
+**N-10544** Netanyahu Death/Injury Status Verification
+
+Existing topic on Netanyahu status verification.
+
+*Related: C-11270, C-11271*
+
+---
+
+**N-10674** June 18 White House Meeting on Iran Involvement
+
+Existing topic on the June 18 White House meeting.
+
+*Related: C-11248*
+
+---
+
+**N-10900** Daily Wire
+
+Organization tied to Shapiro and the host's former employment.
+
+*Related: C-11255, C-11259*
+
+---
+
+**N-10962** Venezuela
+
+Place named in the oil shipment claim.
+
+*Related: C-11289*
+
+---
+
+**N-11057** Blake Neff Employment History Account
+
+Existing topic on Neff's employment history.
+
+*Related: C-11254*
+
+---
+
+**N-11064** Ben Shapiro and Charlie Kirk Friendship Narrative
+
+Existing topic on the Shapiro and Kirk friendship narrative.
+
+*Related: C-11240, C-11246*
+
+---
+
+**N-11096** TikTok Israel Moderation Claim
+
+Existing topic on TikTok moderation claims.
+
+*Related: C-11277*
+
+---
+
+**N-11103** TikTok
+
+Platform named in the host's article.
+
+*Related: C-11277*
+
+---
+
+**N-11128** US and Israel Iran War Betrayal Thesis
+
+Existing topic on the Iran war betrayal thesis.
+
+*Related: C-11242, C-11249, C-11265, C-11278, C-11288*
+
+---
+
+**N-11145** Minab Iran School Strike
+
+Place of the school strike the host cites.
+
+*Related: C-11266, C-11291, C-11292*
+
+---
+
+**N-11228** Candace Podcast Ranking and Operations
+
+Existing topic on the host's podcast ranking.
+
+*Related: C-11280, C-11281*
+
+---
+
+**N-11294** Pro-Iran-War Fake Poll and Bot Claim
+
+Node Type: Topic
+The host's claim that supporters of the Iran war faked polls and deployed bots and sock puppets in comment sections to simulate support.
+
+*Related: C-11274, C-11275, C-11276*
+
+---
+
+**N-11295** White House Iran War Meme Posts
+
+Node Type: Topic
+Pop-culture style memes (Mortal Kombat, Power Rangers) the host says the White House posted about the Iran operation.
+
+*Related: C-11235, C-11282*
 
 ---
 
@@ -897,6 +1444,977 @@ Mentions: N-3, N-607
 Related Nodes:
 
 Investigative Direction: Retrieve the original published article (Substack or platform); verify publication date.
+
+---
+
+**C-11235** Host Says White House Posts Mortal Kombat Style Memes About Iran
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says the White House keeps posting Mortal Kombat style memes ("Finish him. Scorpion") captioned as what "we did in Iran."
+
+Transcript Snippet: Uh the White House can keep posting their super fake and gay Mortal Kombat type memes. Like, finish him. Scorpion. We did this in Iran.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10541, N-11295
+Tags: relevance:context
+Investigative Direction: Capture the White House or official social accounts' Iran-war meme posts with dates to confirm the Mortal Kombat style content.
+
+---
+
+**C-11236** Host Says Trump Allowed Levin's Class to Go After Tucker Carlson
+
+Claim Timestamp: 00:00:53
+
+Claim: The host says Trump has apparently allowed Mark Levin's "special class of psychos" to go after Tucker Carlson and that they explicitly demand he be imprisoned.
+
+Transcript Snippet: Trump has apparently allowed Mark Levin's special class of psychos to go after Tucker Carlson. They want to They want to imprison him. They are explicit in that demand.
+
+Anchored Artifacts: 
+Mentions: N-3, N-249, N-22, N-5
+Related Nodes: N-10540
+Tags: relevance:context
+Investigative Direction: Collect Levin's and allied commentators' public calls to jail Carlson, and any White House statement on the CIA referral.
+
+---
+
+**C-11237** Host Says Shapiro Called Megyn Kelly a Coward and Piers Morgan a Click Whore
+
+Claim Timestamp: 00:05:02
+
+Claim: The host says Ben Shapiro posted online that Megyn Kelly is a coward and Piers Morgan is a "click whore," after picking a fight with both over the weekend.
+
+Transcript Snippet: Meghan is a coward. Piers Morgan is a click whore.
+
+Anchored Artifacts: A-3123.1
+Mentions: N-97, N-46, N-208, N-3
+Related Nodes: N-10406
+Tags: relevance:core
+Investigative Direction: Retrieve Shapiro's original X posts about Kelly and Morgan from the weekend before 2026-03-16 and compare the wording.
+
+---
+
+**C-11238** Host Reads Megyn Kelly Reply Asking Why She Is Stalked and Harassed
+
+Claim Timestamp: 00:05:02
+
+Claim: The host reads Megyn Kelly's reply to Shapiro, which calls him "Poor little Ben" and asks "Why have they been stalking and harassing Megyn Kelly?"
+
+Transcript Snippet: Why have they been stalking and harassing Megyn Kelly? Nobody knows.
+
+Anchored Artifacts: A-3123.2
+Mentions: N-46, N-97, N-3
+Related Nodes: N-10406
+Tags: relevance:core
+Investigative Direction: Retrieve Kelly's original reply post and check whether the host's reading is complete and in order.
+
+---
+
+**C-11239** Host Reads Shapiro Reply Saying Kelly Will Not Protect Kirk's Widow From the Monster
+
+Claim Timestamp: 00:06:01
+
+Claim: The host reads a Shapiro reply to Kelly saying she would not even protect Charlie Kirk's widow "from the monster accusing her of murdering Charlie," which the host takes as an allusion to herself.
+
+Transcript Snippet: You won't even protect Charlie Kirk's widow from the monster accusing her of murdering Charlie.
+
+Anchored Artifacts: A-3123.3
+Mentions: N-97, N-46, N-2, N-1, N-3
+Related Nodes: N-10237
+Tags: relevance:core
+Investigative Direction: Retrieve Shapiro's original reply post and check whether it names the host or the accusation she is said to have made.
+
+---
+
+**C-11240** Host Says Shapiro Worked Behind the Scenes Against Kirk's Rise
+
+Claim Timestamp: 00:06:43
+
+Claim: The host says Ben Shapiro operated behind the scenes to stop Charlie Kirk's rise, calling and asking fellow Jewish journalists to write hit pieces, and says she was there and that it was driven by jealousy.
+
+Transcript Snippet: Ben operated behind the scenes to try to stop his rise the same way he's treating Megyn Kelly.
+
+Anchored Artifacts: 
+Mentions: N-97, N-1, N-46, N-3
+Related Nodes: N-10386, N-11064
+Supports: C-9471, C-2481
+Tags: relevance:core
+Investigative Direction: Identify the journalists and pieces the host alleges were commissioned and obtain her contemporaneous messages with Kirk about them.
+
+---
+
+**C-11241** Milo Says Kirk Talked Only About Candace and How Evil Shapiro Was
+
+Claim Timestamp: 00:07:35
+
+Claim: The host reads Milo Yiannopoulos saying that while he and Kirk were briefly friends, all Kirk talked about was how amazing Candace was and how evil Ben Shapiro is, and that Kirk showed him messages.
+
+Transcript Snippet: all he talked about was how was how amazing Candace was and how effing evil Ben is.
+
+Anchored Artifacts: A-1848.1
+Mentions: N-224, N-1, N-97, N-3
+Related Nodes: N-10543
+Supports: C-2481
+Tags: relevance:core
+Investigative Direction: Ask Yiannopoulos for the original post and the messages he says Kirk showed him; verify against Kirk's phone records.
+
+---
+
+**C-11242** Host Says Kirk Had Changed His Mind on Israel
+
+Claim Timestamp: 00:07:35
+
+Claim: The host says Israel was a topic on which Charlie Kirk had actually changed his mind.
+
+Transcript Snippet: I'm going to attack his friends over the topic of Israel, a topic which Charlie had actually changed his mind on.
+
+Anchored Artifacts: 
+Mentions: N-1, N-97, N-3
+Related Nodes: N-10543, N-11128
+Tags: relevance:core
+Investigative Direction: Compare Kirk's pre-2025 and 2025 public statements on Israel and the host's private texts to date the alleged shift.
+
+---
+
+**C-11243** Host Reads Kirk Text Backing Her Against Shapiro: Stand for Truth
+
+Claim Timestamp: 00:08:50
+
+Claim: The host reads a text exchange in which Charlie Kirk, backing her up after Shapiro treated her publicly badly, wrote "Stand for truth. The people are with you."
+
+Transcript Snippet: Stand for truth. The people are with you. Thank you, Charlie.
+
+Anchored Artifacts: A-1846.1
+Mentions: N-1, N-3, N-97
+Related Nodes: N-10543
+Tags: relevance:core
+Investigative Direction: Obtain device-level forensic verification of the thread and its date relative to the Shapiro table incident.
+
+---
+
+**C-11244** Host Reads Kirk Text Joking That Shapiro Was Standing on a Couch
+
+Claim Timestamp: 00:08:50
+
+Claim: The host reads Kirk laughing and writing "BTW, he was standing on a couch" about Shapiro, and says she replied "Haha, so good."
+
+Transcript Snippet: And he then laughs and wrote, "BTW, he was standing on a couch." And I wrote, "Haha, so good."
+
+Anchored Artifacts: A-1846.1
+Mentions: N-1, N-3, N-97
+Related Nodes: N-10543
+Tags: relevance:context
+Investigative Direction: Match the text's timestamp to the Shapiro table/couch incident the host describes and verify the thread forensically.
+
+---
+
+**C-11245** Host Says She Has About 300 Messages With Kirk Showing He Disliked Shapiro
+
+Claim Timestamp: 00:08:50
+
+Claim: The host says she has about 300 messages between herself and Charlie Kirk showing how he constantly spoke about Ben Shapiro.
+
+Transcript Snippet: I have about 300 messages between me and Charlie to that effect, okay?
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-97
+Related Nodes: N-10543
+Tags: relevance:core
+Investigative Direction: Request a count and an independent forensic export of the thread; compare with earlier counts the host has given.
+
+---
+
+**C-11246** Host Says Turning Point Is Packaging Kirk as a Faithful Talmudic Jew Friend of Shapiro
+
+Claim Timestamp: 00:09:46
+
+Claim: The host says Turning Point USA allowed people onto its ship who are portraying Kirk as a faithful Talmudic Jew who was friends with Ben Shapiro, reversing what Kirk believed.
+
+Transcript Snippet: they are now trying to package to us as like a faithful Talmudic Jew who was friends with Ben Shapiro.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-97
+Related Nodes: N-10000, N-10543, N-11064
+Supports: C-2477
+Tags: relevance:core
+Investigative Direction: Collect TPUSA statements and speeches since September 2025 that describe Kirk's views on Shapiro and the Talmud.
+
+---
+
+**C-11247** Host Says Kirk's Wife at the Helm Could Stop the Reversal of His Views
+
+Claim Timestamp: 00:10:32
+
+Claim: The host says Charlie Kirk's wife, who is at the helm of TPUSA, could stop the company's effective reversal of what Kirk actually felt and believed.
+
+Transcript Snippet: A reversal made infinitely more evil by the fact that his wife is at the helm of the company. She could stop that.
+
+Anchored Artifacts: 
+Mentions: N-2, N-1, N-3
+Related Nodes: N-10000, N-10543
+Tags: relevance:core
+Investigative Direction: Review TPUSA leadership communications under Erika Kirk on Kirk's Israel and Shapiro positions.
+
+---
+
+**C-11248** Host Says Kirk Went Toe to Toe With Netanyahu and Won
+
+Claim Timestamp: 00:10:32
+
+Claim: The host says that in June, before he died, Charlie Kirk went toe-to-toe with Bibi Netanyahu and the "bandit of neocon criminals" over a war in Iran, telling Trump not to do it, and won.
+
+Transcript Snippet: back when Charlie went toe-to-toe with Bibi Netanyahu and won.
+
+Anchored Artifacts: A-1847.1
+Mentions: N-1, N-36, N-5, N-604
+Related Nodes: N-10539, N-10674
+Supports: C-2479
+Tags: relevance:core
+Investigative Direction: Establish what direct contact, if any, Kirk had with Netanyahu in June 2025 and what Trump decided after the two White House days.
+
+---
+
+**C-11249** Weinstein Says It Is Reasonable to Ask If Kirk's Opposition Led to His Murder
+
+Claim Timestamp: 00:10:32
+
+Claim: The host reads Bret Weinstein saying that, given Kirk's closeness to Trump and his opposition to an Iran war, it is reasonable to wonder if his refusal to back down somehow resulted in his murder.
+
+Transcript Snippet: it is reasonable to wonder if his refusal to back down from his steadfast opposition somehow resulted in his murder.
+
+Anchored Artifacts: A-1847.1
+Mentions: N-604, N-1, N-5
+Related Nodes: N-10539, N-11128
+Tags: relevance:core
+Investigative Direction: Obtain Weinstein's original post and date; ask him what basis exists beyond the timing of Kirk's opposition.
+
+---
+
+**C-11250** Weinstein Says a Good Investigation Could Have Settled the Matter
+
+Claim Timestamp: 00:11:38
+
+Claim: The host reads Weinstein saying that a good investigation could have settled whether Kirk's opposition mattered, and that what was produced only increases the reason for concern.
+
+Transcript Snippet: A good investigation could have settled the matter. What we got only increases the reason for concern.
+
+Anchored Artifacts: A-1847.1
+Mentions: N-604, N-1
+Related Nodes: N-10539
+Tags: relevance:core
+Investigative Direction: Obtain Weinstein's full post and identify which investigative product he judges inadequate.
+
+---
+
+**C-11251** Weinstein Says Kirk's Death Removed Him and Likely Changed History
+
+Claim Timestamp: 00:11:38
+
+Claim: The host reads Weinstein saying Kirk was in a strong position to keep the US from the course it took and that the timing of his death removed him from the equation and likely changed history, as Kirk himself worried it might.
+
+Transcript Snippet: the timing of his death removed him from the equation and likely changed the course of history.
+
+Anchored Artifacts: A-1847.1
+Mentions: N-604, N-1
+Related Nodes: N-10539
+Tags: relevance:core
+Investigative Direction: Find Kirk's recorded or texted worries about his own safety and about the Iran decision to test Weinstein's final phrase.
+
+---
+
+**C-11252** Kirk Text Says Dissident Media Cannot Yet Drive Real-Time Public Opinion
+
+Claim Timestamp: 00:12:38
+
+Claim: The host reads Kirk's reply to Weinstein theorizing that dissident media is good retroactively at uncovering scandal but not yet at driving real-time mass public opinion, which neocons are.
+
+Transcript Snippet: driving real-time mass public opinion yet. The neocons are.
+
+Anchored Artifacts: A-1847.1
+Mentions: N-1, N-604
+Related Nodes: N-10539
+Tags: relevance:context
+Investigative Direction: Verify the full June 18 thread, which the host says she reads in part.
+
+---
+
+**C-11253** Neff Post Says Shapiro Backed DeSantis While Kirk Was All In for Trump
+
+Claim Timestamp: 00:13:29
+
+Claim: The host reads Blake Neff's post saying Ben Shapiro supported Ron DeSantis in the 2024 primary while Charlie Kirk was all in for Trump from the start, and that Vance was one of Kirk's favorite politicians while Shapiro had criticized him.
+
+Transcript Snippet: Ben supported Ron DeSantis in the 2024 primary while Charlie was all in for Trump from the start.
+
+Anchored Artifacts: A-1850.1
+Mentions: N-162, N-97, N-1, N-4
+Related Nodes: N-10543
+Tags: relevance:context
+Investigative Direction: Retrieve Neff's original post and verify Shapiro's 2024 primary endorsement and Kirk's endorsement date.
+
+---
+
+**C-11254** Host Says Neff Was Not Around for the Building of Turning Point
+
+Claim Timestamp: 00:14:27
+
+Claim: The host says Blake Neff was not around for the building of Turning Point and does not know what he is talking about when he describes Kirk and Shapiro as rivals.
+
+Transcript Snippet: Blake was not even around for the building of Turning Point.
+
+Anchored Artifacts: A-1850.1
+Mentions: N-3, N-162, N-1, N-97
+Related Nodes: N-11057
+Tags: relevance:context
+Investigative Direction: Establish Neff's start date at TPUSA and compare with the founding timeline Kirk described.
+
+---
+
+**C-11255** Host Says Shapiro Tried to Rebuild Breitbart's Legacy by Manufacturing a Scandal With the Daily Wire
+
+Claim Timestamp: 00:15:07
+
+Claim: The host says Ben Shapiro was trying to take Andrew Breitbart's legacy and recreate it by manufacturing a scandal with The Daily Wire while Kirk was building a campus charity.
+
+Transcript Snippet: Ben Shapiro was trying to take Andrew Breitbart's legacy and recreate it by manufacturing a scandal with The Daily Wire.
+
+Anchored Artifacts: 
+Mentions: N-97, N-400, N-1, N-3
+Related Nodes: N-10900, N-10391
+Tags: relevance:context
+Investigative Direction: Ask the host what scandal she means and compare with the Daily Wire founding narrative.
+
+---
+
+**C-11256** Host Says Shapiro Went to Donors and Squeezed Kirk Over Who He Could Speak To
+
+Claim Timestamp: 00:15:07
+
+Claim: The host says that as Kirk got bigger Shapiro became jealous, went behind the scenes with his connections to the donors and started squeezing Kirk and trying to control who he could speak to.
+
+Transcript Snippet: he went behind the scenes with his connections to the donors and started squeezing Charlie and trying to control who he could speak to.
+
+Anchored Artifacts: 
+Mentions: N-97, N-1, N-3
+Related Nodes: N-10386, N-10268
+Supports: C-5352, C-9471
+Tags: relevance:core
+Investigative Direction: Identify the donors and the speakers the host says Shapiro tried to bar, with dated messages or call logs.
+
+---
+
+**C-11257** Host Says TPUSA Let Kirk's Rival Open AmFest While Dissing Kirk's Friends
+
+Claim Timestamp: 00:16:34
+
+Claim: The host says Turning Point USA allowed Charlie's rival, Ben Shapiro, to open AmFest by dissing Charlie's friends, because of money.
+
+Transcript Snippet: they allowed Charlie's rival to open AmFest by dissing Charlie's friends.
+
+Anchored Artifacts: 
+Mentions: N-97, N-1, N-3
+Related Nodes: N-10000, N-10268
+Supports: C-1980
+Tags: relevance:core
+Investigative Direction: Obtain the AmFest 2025 program and the video of the opening remarks and the invitation chain for Shapiro.
+
+---
+
+**C-11258** Host Says Shapiro Publicly Put Megyn Kelly on the Spot on Her Tour Stage
+
+Claim Timestamp: 00:17:31
+
+Claim: The host says Shapiro publicly put Megyn Kelly on the spot on stage during her tour, as part of a pattern of surprising friends on camera to demand allegiance.
+
+Transcript Snippet: That's what he initially did to Megyn Kelly on her tour, no less, on stage.
+
+Anchored Artifacts: 
+Mentions: N-97, N-46, N-3
+Related Nodes: N-10236
+Supports: C-1667
+Tags: relevance:core
+Investigative Direction: Obtain the video of the Kelly tour stop where Shapiro appeared and its date.
+
+---
+
+**C-11259** Host Says Shapiro Stood on a Table and Called Her a Faux Sophisticate
+
+Claim Timestamp: 00:17:31
+
+Claim: The host says Shapiro stood up on a table while she worked for a company he was part owner of, and called her a "faux sophisticate" because she tweeted that genocide was always wrong.
+
+Transcript Snippet: He infamously stood up on that table while I was employed by a company that he was a part owner of.
+
+Anchored Artifacts: 
+Mentions: N-97, N-3
+Related Nodes: N-10900
+Supports: C-11244
+Tags: relevance:context
+Investigative Direction: Locate the video of the table moment and the date of the host's genocide tweet.
+
+---
+
+**C-11260** Host Says Michael Knowles Is Godfather to Her Daughter
+
+Claim Timestamp: 00:18:11
+
+Claim: The host says Michael Knowles is the godfather to her daughter, which she calls a literal spiritual connection.
+
+Transcript Snippet: Michael Knowles is the godfather to my daughter, okay?
+
+Anchored Artifacts: 
+Mentions: N-102, N-3, N-97
+Tags: relevance:context
+Investigative Direction: Confirm through a baptismal record or a Knowles statement.
+
+---
+
+**C-11261** Knowles Says in Clip It Is Wrong to Attack Erika but Will Not Say the Sentence
+
+Claim Timestamp: 00:18:54
+
+Claim: In the clip the host plays, Michael Knowles says it is wrong to attack Erika (transcribed Erika Curren) but declines Shapiro's request to say the sentence with her name in it, saying he will not dance like a puppet.
+
+Transcript Snippet: I I think that it's wrong to attack Erika Curren.
+
+Anchored Artifacts: A-1851.1
+Mentions: N-102, N-97, N-2, N-3
+Supports: C-2484
+Tags: relevance:core
+Investigative Direction: Obtain the full video of the public discussion with its date and venue.
+
+---
+
+**C-11262** Host Says the McCain Text Is Real and Shortened
+
+Claim Timestamp: 00:20:51
+
+Claim: The host says the Kirk text about Meghan McCain is real, and that she shortened the exchange, which is longer.
+
+Transcript Snippet: Yes, it's real. And I actually shortened it.
+
+Anchored Artifacts: A-1846.3
+Mentions: N-3, N-603, N-1
+Related Nodes: N-10543
+Supports: C-2478
+Tags: relevance:context
+Investigative Direction: Request the complete thread to compare with the excerpt read on air.
+
+---
+
+**C-11263** Host Says 25 Percent of Global Liquid Petroleum Moves Through Hormuz
+
+Claim Timestamp: 00:21:48
+
+Claim: The host says roughly 25 percent of global liquid petroleum moves through the roughly 100-mile Strait of Hormuz choke point.
+
+Transcript Snippet: roughly 25% of the global liquid petroleum moves through this tiny little choke point
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10541
+Tags: relevance:context
+Investigative Direction: Check EIA or IEA transit figures for the Strait of Hormuz.
+
+---
+
+**C-11264** Host Says Iran Is Shutting the Strait Because It Can
+
+Claim Timestamp: 00:23:10
+
+Claim: The host says, while showing a map, that Iran is saying it will shut the Strait of Hormuz down because it can.
+
+Transcript Snippet: Iran's just like, "We're going to shut that down because we can."
+
+Anchored Artifacts: A-3124.1
+Mentions: N-3
+Related Nodes: N-10541
+Tags: relevance:context
+Investigative Direction: Check shipping-traffic data and Iranian statements on the strait's status on the broadcast date.
+
+---
+
+**C-11265** Host Says Nothing Was Happening Other Than Netanyahu Wanting the Fight With Iran
+
+Claim Timestamp: 00:23:52
+
+Claim: The host says that before the US struck Iran nothing was going on other than that Netanyahu (BB) wanted the fight with Iran.
+
+Transcript Snippet: Nothing was happening other than BB wanted the fight with Iran
+
+Anchored Artifacts: 
+Mentions: N-3, N-36, N-5
+Related Nodes: N-11128
+Tags: relevance:context
+Investigative Direction: Compare the intelligence and diplomatic record before the strike with Netanyahu's public and private requests.
+
+---
+
+**C-11266** Host Says the US Randomly Bombed 200 Schoolgirls and Trump Lied About It
+
+Claim Timestamp: 00:23:52
+
+Claim: The host says the US randomly bombed 200 schoolgirls in Iran and then lied about it, and that Trump was the one who lied.
+
+Transcript Snippet: We also randomly bombed 200 schoolgirls in Iran, and then we lied about it.
+
+Anchored Artifacts: 
+Mentions: N-3, N-5
+Related Nodes: N-11145
+Tags: relevance:core
+Investigative Direction: Compare casualty counts and US statements on the Minab school strike with the host's figure.
+
+---
+
+**C-11267** Host Says Trump Is Demanding Ground Troops He Does Not Have
+
+Claim Timestamp: 00:25:35
+
+Claim: The host says Trump is now demanding ground troops that he does not have.
+
+Transcript Snippet: Trump is now demanding ground troops that he doesn't have, okay?
+
+Anchored Artifacts: 
+Mentions: N-5, N-3
+Related Nodes: N-10541
+Tags: relevance:context
+Investigative Direction: Obtain the Trump statement or order the host refers to and force-readiness reporting.
+
+---
+
+**C-11268** Host Says Trump Is Going Around Asking Other Countries to Get Involved
+
+Claim Timestamp: 00:25:35
+
+Claim: The host says Trump is reduced to going around asking or demanding that other countries get involved in the war.
+
+Transcript Snippet: So, Trump is now reduced to going around and asking or demanding other countries to get involved.
+
+Anchored Artifacts: 
+Mentions: N-5, N-3
+Related Nodes: N-10541
+Supports: C-2488
+Tags: relevance:context
+Investigative Direction: Collect Trump administration requests to allies for ships or troops for Hormuz operations.
+
+---
+
+**C-11269** Host Says the Rothschilds Created Israel and Emmanuel Macron
+
+Claim Timestamp: 00:28:13
+
+Claim: The host says Macron is saying what the Rothschilds told him to say because the Rothschilds are Israel, created Israel and created Emmanuel Macron.
+
+Transcript Snippet: the Rothschilds are Israel, they created Israel, and they created Emmanuel Macron.
+
+Anchored Artifacts: 
+Mentions: N-387, N-532, N-3
+Tags: relevance:tangential
+Investigative Direction: No primary record offered; ask the host for any document linking the Rothschild family to Macron's career or to Israel's founding.
+
+---
+
+**C-11270** Host Says Nobody Knows Where Netanyahu Is and His Videos Look AI
+
+Claim Timestamp: 00:28:13
+
+Claim: The host says nobody knows where Bibi Netanyahu is, that his videos look AI-generated, and that there are rumors he is dead.
+
+Transcript Snippet: Nobody knows where Bibi Netanyahu is or why these weird videos look so AI when he's speaking.
+
+Anchored Artifacts: 
+Mentions: N-36, N-3
+Related Nodes: N-10544
+Tags: relevance:context
+Investigative Direction: Compile Netanyahu's dated public appearances in March 2026 and forensic analysis of the videos in question.
+
+---
+
+**C-11271** Host Says She Thinks Netanyahu Is Dead but Does Not Know
+
+Claim Timestamp: 00:29:05
+
+Claim: The host says she thinks Netanyahu is dead but that she does not know.
+
+Transcript Snippet: So, I think he's dead, I don't know.
+
+Anchored Artifacts: 
+Mentions: N-36, N-3
+Related Nodes: N-10544
+Supports: C-11270
+Tags: relevance:context
+Investigative Direction: Obtain proof-of-life reporting and Israeli government statements on his whereabouts.
+
+---
+
+**C-11272** Host Says All Trump's Allies Told Him Not To Except Israel
+
+Claim Timestamp: 00:33:21
+
+Claim: The host says all of the US allies in the region have said not to do this, except Israel.
+
+Transcript Snippet: They've all said don't do this except for Israel.
+
+Anchored Artifacts: 
+Mentions: N-5, N-3
+Related Nodes: N-10541
+Supports: C-2488
+Tags: relevance:context
+Investigative Direction: Collect regional allies' public statements before the strike and compare with Trump's claim of allies.
+
+---
+
+**C-11273** Host Says the Baghdad Embassy Is the Biggest in the World
+
+Claim Timestamp: 00:34:14
+
+Claim: The host says the US embassy in Baghdad is the biggest embassy in the world, bigger than Vatican City, and is being hit.
+
+Transcript Snippet: It's bigger than Vatican City.
+
+Anchored Artifacts: A-1860.1
+Mentions: N-3
+Related Nodes: N-10542
+Tags: relevance:context
+Investigative Direction: Check the embassy compound's size against published figures and the dates of attacks on it.
+
+---
+
+**C-11274** Host Says Pro-War Polls Were Faked Right Before the Iran Strike
+
+Claim Timestamp: 00:35:39
+
+Claim: The host says that right before the US went to Iran, supporters began faking polls in an egregious manner, producing polls removed from reality.
+
+Transcript Snippet: Right before we went to Iran, they started faking polls in such an egregious manner.
+
+Anchored Artifacts: 
+Mentions: N-3, N-102
+Related Nodes: N-11294
+Tags: relevance:context
+Investigative Direction: Identify the specific polls and their methodology and compare with independent polling.
+
+---
+
+**C-11275** Host Says Bots Fill Every Comment Section Saying Everyone Wants to Bomb Iran
+
+Claim Timestamp: 00:35:39
+
+Claim: The host says bots and sock puppets are in every comment section telling people everyone wants to bomb Iran.
+
+Transcript Snippet: they have these bots now in every comment section and nobody they're just sock puppets telling you everyone loves like wants to bomb Iran.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11294
+Tags: relevance:context
+Investigative Direction: Use platform bot-detection or academic studies of Iran-war comment activity.
+
+---
+
+**C-11276** Host's Article Says Zionists Bought Views and Activated Millions of Bots
+
+Claim Timestamp: 00:36:50
+
+Claim: The host reads her article saying that over three years Zionists purchased views, influencers and journalists and activated millions of online bots.
+
+Transcript Snippet: They have purchased views, influencers and journalists. They have activated millions of online bots.
+
+Anchored Artifacts: A-1856.1
+Mentions: N-3, N-607
+Related Nodes: N-11294
+Tags: relevance:context
+Investigative Direction: Ask the host for the studies or documents behind the 'millions of bots' figure.
+
+---
+
+**C-11277** Host's Article Says Zionists Staged an Open Takeover of TikTok
+
+Claim Timestamp: 00:36:50
+
+Claim: The host reads her article saying Zionists went so far as to stage an open takeover of TikTok when they grew incensed that the youth was sympathetic to Palestine.
+
+Transcript Snippet: They even went so far as to stage an open takeover of TikTok when they grew incensed that the youth was sympathetic to Palestine.
+
+Anchored Artifacts: A-1856.1
+Mentions: N-3
+Related Nodes: N-11103, N-11096
+Tags: relevance:context
+Investigative Direction: Compare with the record of the TikTok divestiture and its new ownership.
+
+---
+
+**C-11278** Host's Article Says Most People Sense Kirk Was Murdered for Opposing the War
+
+Claim Timestamp: 00:37:36
+
+Claim: The host reads her article saying the overwhelming majority of people in the world sense that Charlie Kirk was murdered for opposing this war and that Israel's hands are not clean in the story.
+
+Transcript Snippet: the overwhelming majority of people in the world sense that Charlie Kirk was murdered for opposing this war and that Israel's hands are not clean in the story.
+
+Anchored Artifacts: A-1856.1
+Mentions: N-3, N-1
+Related Nodes: N-11128, N-10539
+Supports: C-2479
+Tags: relevance:core
+Investigative Direction: Seek polling on public belief about the motive for Kirk's killing.
+
+---
+
+**C-11279** Host's Article Says Zionists Use Slander, Lawfare and Murder
+
+Claim Timestamp: 00:38:15
+
+Claim: The host reads her article saying Zionists continue to use tactics of slander, deception, lawfare and yes murder to force their perspectives.
+
+Transcript Snippet: Zionists continue to use tactics of slander, deception, lawfare, and yes, murder to force their perspectives.
+
+Anchored Artifacts: A-1856.1
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Ask the host which specific murders and lawsuits she means.
+
+---
+
+**C-11280** Host Says She and Joe Rogan Are in a Three-Way Tie for Top Podcast
+
+Claim Timestamp: 00:39:13
+
+Claim: The host says it was just announced that she and Joe Rogan are in a three-way tie with one other podcast for the top podcasts.
+
+Transcript Snippet: me and Joe Rogan are in a three-way tie with one other podcast uh for the top podcasts.
+
+Anchored Artifacts: 
+Mentions: N-3, N-274
+Related Nodes: N-11228
+Tags: relevance:context
+Investigative Direction: Check the chart provider and date of the ranking the host cites.
+
+---
+
+**C-11281** Host Says Levin and Shapiro Rankings Are Bought Through Ads
+
+Claim Timestamp: 00:39:13
+
+Claim: The host says Mark Levin and others are getting top podcast status by buying it through ads and that the numbers are not real.
+
+Transcript Snippet: They're buying those things through ads. It's fake. The numbers are not real.
+
+Anchored Artifacts: 
+Mentions: N-3, N-249, N-97
+Related Nodes: N-11228
+Tags: relevance:context
+Investigative Direction: Compare podcast-ranking data with disclosed ad spending, if any.
+
+---
+
+**C-11282** Host Says White House Posted Power Rangers Style Victory Memes on Iran
+
+Claim Timestamp: 00:40:49
+
+Claim: The host plays a clip with shouts of "White House" and "Girl power" and "Power Rangers" and says this is what the administration is posting on social media about taking down Iran.
+
+Transcript Snippet: This is what they're posting on social media. They think we're this dumb that they were going to take down Iran.
+
+Anchored Artifacts: A-3125.1
+Mentions: N-3
+Related Nodes: N-10541, N-11295
+Supports: C-11235
+Tags: relevance:context
+Investigative Direction: Identify the original social posts in the clip and the account that posted them.
+
+---
+
+**C-11283** Tucker Says the CIA Read His Texts
+
+Claim Timestamp: 00:41:23
+
+Claim: In the clip Tucker Carlson says the alleged crime under consideration is talking to people in Iran before the war and that the CIA read his texts.
+
+Transcript Snippet: Well, talking to people in Iran before the war. They read my texts.
+
+Anchored Artifacts: A-1854.1
+Mentions: N-22
+Related Nodes: N-10540, N-10082
+Supports: C-2487
+Tags: relevance:core
+Investigative Direction: Ask Carlson or the CIA how the texts were obtained and under what authority.
+
+---
+
+**C-11284** Tucker Says He Has Never Taken Money From Anybody
+
+Claim Timestamp: 00:42:06
+
+Claim: In the clip Tucker Carlson says he is not an agent of a foreign power, has only one loyalty to the United States and has never taken money from anybody, which he says is provable.
+
+Transcript Snippet: I've also never taken money from anybody. Don't need it, don't want it and that's provable.
+
+Anchored Artifacts: A-1854.1
+Mentions: N-22
+Related Nodes: N-10540
+Tags: relevance:core
+Investigative Direction: Examine Carlson's financial disclosures and any FARA filings or inquiries.
+
+---
+
+**C-11285** Tucker Says the Purpose of Such Referrals Is to Leak and Humiliate
+
+Claim Timestamp: 00:42:47
+
+Claim: In the clip Tucker Carlson says the main reason such investigations are started is to leak their existence to the media and then humiliate and terrify the subjects, and that this has happened to him repeatedly.
+
+Transcript Snippet: the main reason they do it is to leak the existence of the investigation, such as it is, to the media and then humiliate and terrify the subjects of this op
+
+Anchored Artifacts: A-1854.1
+Mentions: N-22
+Related Nodes: N-10540, N-10082
+Tags: relevance:core
+Investigative Direction: Review prior leaks of investigations of Carlson and any inspector general review.
+
+---
+
+**C-11286** Host Says Ackman Retweeted Attacks on Her Conscientious Objection Remark
+
+Claim Timestamp: 00:43:44
+
+Claim: The host says Bill Ackman was retweeting accounts attacking her after she said people should conscientiously object to this war, including accounts claiming a federal statute could send her to prison.
+
+Transcript Snippet: he was retweeting when I said people should conscientiously object to this war because they should.
+
+Anchored Artifacts: 
+Mentions: N-37, N-3
+Tags: relevance:context
+Investigative Direction: Retrieve Ackman's retweets and the original host post.
+
+---
+
+**C-11287** Host Says Loomer Has Not Published Her List
+
+Claim Timestamp: 00:45:22
+
+Claim: The host says Laura Loomer keeps alluding to her list of conservative influencers allegedly taking money from Iran, Russia and Qatar but has never published it.
+
+Transcript Snippet: She keeps alluding to it, but she never published.
+
+Anchored Artifacts: A-1858.1
+Mentions: N-60, N-3
+Related Nodes: N-10540
+Qualifies: C-2490
+Tags: relevance:context
+Investigative Direction: Check Loomer's accounts for any published list and any DOJ confirmation of receiving it.
+
+---
+
+**C-11288** Host Says the Tyler Robinson Narrative Is Not Working
+
+Claim Timestamp: 00:46:20
+
+Claim: The host, voicing the establishment's view, says the effort to have people repeat that it was Tyler Robinson does not seem to be working, so they are starting another war.
+
+Transcript Snippet: this hypnosis of us saying having people repeat that it was Tyler Robinson doesn't seem to be working.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40
+Related Nodes: N-11128
+Tags: relevance:core
+Investigative Direction: This is the host's characterization; test it against polling on belief in the official account.
+
+---
+
+**C-11289** Host Says the US Is Sending Venezuelan Oil to Israel
+
+Claim Timestamp: 00:48:13
+
+Claim: The host says that as the US talks of replacing lost oil, the US is sending barrels of oil from Venezuela to Israel.
+
+Transcript Snippet: as we're sending barrels of oil from Venezuela to Israel.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10962
+Tags: relevance:context
+Investigative Direction: Check tanker-tracking and Venezuelan export records for shipments to Israel.
+
+---
+
+**C-11290** Commenter Says Kirk Was For No Iran War, Epstein Files and a TPUSA Audit
+
+Claim Timestamp: 00:50:39
+
+Claim: The host reads a viewer comment saying three things Charlie Kirk was for were no war with Iran, release of the Epstein files and an audit of TPUSA, and asks who benefits from his death.
+
+Transcript Snippet: Three things that Charlie Kirk was for: no war with Iran, release the Epstein files, and audit to TPUSA.
+
+Anchored Artifacts: A-3126.1
+Mentions: N-1, N-9, N-3
+Related Nodes: N-10000, N-10132, N-10539
+Tags: relevance:core
+Investigative Direction: Find Kirk's own recorded statements on each of the three positions, particularly the TPUSA audit.
+
+---
+
+**C-11291** Host Says Israel Worship Is Baal Worship Involving Child Sacrifice
+
+Claim Timestamp: 00:52:09
+
+Claim: The host says that what she calls Israel worship is Baal worship, that they have to sacrifice children, and that the military cannot give a reason for hitting the school.
+
+Transcript Snippet: These Israel worship it's it's ball worship. I mean, they they have to sacrifice children.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11145
+Tags: relevance:tangential
+Investigative Direction: Ask the host for any evidentiary basis; treat as rhetorical assertion.
+
+---
+
+**C-11292** Commenter Says 175 Schoolgirls Are Dead With No Apology
+
+Claim Timestamp: 00:53:07
+
+Claim: The host reads a viewer comment (Megan Vincent) saying 175 schoolgirls are dead and there is no apology, and tells the commenter it was well said.
+
+Transcript Snippet: 175 schoolgirls are dead and there's no apology.
+
+Anchored Artifacts: A-3126.2
+Mentions: N-3
+Related Nodes: N-11145
+Tags: relevance:context
+Investigative Direction: Compare with official and independent casualty counts for the Minab school strike; the host herself said 200 earlier.
+
+---
+
+**C-11293** Commenter Says Carlson Is Targeted While AIPAC Is an Unregistered Foreign Agent
+
+Claim Timestamp: 00:53:07
+
+Claim: The host reads a viewer comment that the CIA is targeting Tucker for talking to Iranians while AIPAC walks free as an unregistered foreign agent, and endorses it as well said.
+
+Transcript Snippet: CIA targeting Tucker for talking to Iranians while AIPAC walks free as an unregistered foreign agent.
+
+Anchored Artifacts: A-3126.2
+Mentions: N-22, N-3
+Related Nodes: N-10083, N-10540, N-10082
+Tags: relevance:context
+Investigative Direction: Check the DOJ FARA registry and past DOJ rulings on AIPAC's registration status.
+
+---
+
+**C-11294** Host Says Jared Kushner Is Running the White House
+
+Claim Timestamp: 00:53:07
+
+Claim: The host says that this is what happens when Jared Kushner is running the White House with his father who is in Paris.
+
+Transcript Snippet: This is what happens when Jared Kushner um is running the White House uh with his father who is in Paris.
+
+Anchored Artifacts: 
+Mentions: N-182, N-3
+Tags: relevance:context
+Investigative Direction: Document Kushner's official or informal role in the administration in March 2026.
 
 ---
 

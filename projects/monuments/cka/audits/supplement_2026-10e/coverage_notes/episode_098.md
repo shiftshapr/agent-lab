@@ -1,0 +1,5 @@
+# Coverage notes, episode 98
+
+- Existing draft has 22 claims (C-2834 to C-2855); I judged about 20 beats already covered (Daily Wire statement, Gupta views and subscribers, sponsor and branding posts, Loomer tweet, Coleman airport comment, Slauson and Roth items, Times of Israel $4.1M, Schnitker, FARA timing, Havoc, Kolvet 277,000 devices, church overlap, Jen donation).
+- Added 69 new claims, 3 new artifact families (4 sub-items), 3 new person nodes, 1 new topic node and 6 meme occurrences; existing artifacts A-2030 to A-2044 are reused as anchors.
+- Five most important things the earlier pass missed: (1) 00:50:30 host says TPUSA holds 4K footage and hopes discovery reaches the phones of Harpole, Flood and Erika; (2) 00:20:31 host says Shapiro tried to destroy Charlie behind the scenes and then put a million dollars into his studio; (3) 00:16:31 and 00:25:25 Shapiro clip saying Erika Kirk should sue the host, plus the host's allegation that Shapiro pushed the suit; (4) 00:40:35 Kolvet did not name geofencing partners and sat with Dhillon at the WHCD; (5) 00:57:40 host says it was not Tyler Robinson alone on a rooftop.

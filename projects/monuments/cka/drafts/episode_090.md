@@ -13,13 +13,12 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-827, N-828
   - Hole-minted Nodes (reintro-ep090): N-10679, N-10703
-  - Tip-minted Nodes (reintro-ep090): N-10954
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8689–C-8754
   - New Nodes Introduced: N-10593, N-10595, N-10596, N-10597, N-10598
   - Hole-minted Nodes (wave3): N-430, N-431
   - Tip-minted Nodes (skeleton-caleb): N-617
-  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-135, N-5, N-38, N-46, N-60, N-97, N-126, N-162, N-166, N-208, N-249, N-278, N-369, N-372, N-374, N-388, N-788, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594
+  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-135, N-5, N-38, N-46, N-60, N-97, N-126, N-162, N-166, N-208, N-249, N-278, N-369, N-372, N-374, N-388, N-788, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594, N-10954
   - (see registers)
 
 # EVOLUTION 90 ANALYSIS

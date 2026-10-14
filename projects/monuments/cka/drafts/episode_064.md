@@ -333,6 +333,64 @@ Confidence Level: Medium
 
 ---
 
+**A-3041** Stacy Sheridan Car Clip Bundle
+
+**A-3041.1** Clip of Stacy Sheridan in a car with Erika Kirk, on the phone and recording, shown on air
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:15:00
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9948, N-190, N-2*
+
+---
+
+**A-3042** Kolvet Surgeon Post Bundle
+
+**A-3042.1** Host verbal reference to Andrew Kolvet's X post saying he had just got off the phone with the surgeon (not shown)
+
+Quoted text: "Just got off the phone with the surgeon."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:31:41
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9966, N-14, N-199*
+
+---
+
+**A-3043** Pre-Born Sponsor Read Bundle
+
+**A-3043.1** Pre-Born sponsor copy read during the break
+
+Quoted text: "last year Pre-Born helped rescue over 80,000 babies"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:33:28
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-9969, N-11191*
+
+---
+
+**A-3044** Club Candace Subscription Plug Bundle
+
+**A-3044.1** Host verbal reference to the merged Club Candace subscription tier and signed book bundle (not shown)
+
+Quoted text: "one Club Candace tier for $11.99 a month, or you can pay $120 for the entire year"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:58:01
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9999, N-3*
+
+---
+
 # IV. NODE REGISTER
 
 **N-374** Jeremy Boreing
@@ -435,326 +493,6 @@ Investigative Pressure: Medium
 *Related: N-2*
 
 ---
-
-# V. CLAIM REGISTER
-
-**C-2206** Erika Kirk Hosted TPUSA Corporate Zoom Call on September 16, 2025
-
-Claim Timestamp: 00:09:08
-
-Claim: A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025 – approximately five-and-a-half days after Charlie Kirk's death – with the public board announcement following one day later.
-
-Anchored Artifacts: A-1686.1, A-1686.2, A-1686.3
-Mentions: N-190, N-1, N-2
-
-Related Nodes: N-10448
-
-Investigative Direction: Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1).
-
-**C-2207** Erika Kirk's Sept 16 Call Opened With Laughter and Visible "Thumbs Up" Reactions
-
-Claim Timestamp: 00:24:46
-
-Claim: The opening of the September 16 Zoom call features visible Zoom "thumbs up" reactions, Erika Kirk laughing, and her comment "this is a little bit more emotional than probably Charlie would be reacting."
-
-Anchored Artifacts: A-1686.1
-Mentions: N-2
-
-Related Nodes: N-10448
-
-Investigative Direction: Obtain unedited full recording; confirm reaction icons, laughter timing, and participant count.
-
-**C-2208** Erika Kirk Framed TPUSA Staff as "Family" on Sept 16 Call
-
-Claim Timestamp: 00:17:35
-
-Claim: During the September 16 call, Erika Kirk repeatedly addressed Turning Point USA employees as "family," stating "your family if you want to," "I want our family to stay together," and "this is your chosen family."
-
-Anchored Artifacts: A-1686.2
-Mentions: N-190, N-2
-
-Related Nodes: N-10448
-
-Investigative Direction: Compile every instance of "family" usage; obtain termination records of named attendees to verify the host's juxtaposition.
-
-**C-2209** Erika Kirk Promised Job Security to TPUSA Staff on Sept 16 Call
-
-Claim Timestamp: 00:17:35
-
-Claim: During the September 16 call, Erika Kirk stated, "I will fight like hell to make sure that all of you have a job here" and "I will make sure that I never allow a point to where you have to leave because we cannot financially afford you."
-
-Anchored Artifacts: A-1686.2
-Mentions: N-2
-
-Related Nodes: N-10448
-
-Investigative Direction: Cross-reference against TPUSA termination data from Q4 2025 onward; identify whether attendees retained employment.
-
-**C-2210** Erika Kirk Self-Corrected to Avoid the Word "Happy" About Charlie on Sept 16 Call
-
-Claim Timestamp: 00:22:11
-
-Claim: During the September 16 call, Erika Kirk interrupted herself mid-sentence with "I'm trying not to say that he would be" – appearing to self-edit away from a positive emotion descriptor about Charlie Kirk in heaven.
-
-Anchored Artifacts: A-1686.2
-Mentions: N-2, N-1
-
-Related Nodes: N-10448
-
-Investigative Direction: Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed.
-
-**C-2211** Erika Kirk's Sept 16 Call Included "Be Soft With One Another in Ways Differently"
-
-Claim Timestamp: 00:27:13
-
-Claim: During the September 16 call, Erika Kirk told TPUSA employees to "be soft with one another in ways differently" and that "if someone's acting weird, don't read into that… weddings and funerals bring out the weirdest side of people."
-
-Anchored Artifacts: A-1686.3
-Mentions: N-2
-
-Related Nodes: N-10448
-
-Investigative Direction: Verify exact phrasing on unedited recording; trace adoption timeline of the "everybody grieves differently" framing across TPUSA communications.
-
-**C-2212** Erika Kirk's Sept 16 Call Included "15 Minutes Before Landing" Analogy Attributed to "Usha"
-
-Claim Timestamp: 00:28:01
-
-Claim: During the September 16 call, Erika Kirk shared an airplane analogy ("15 minutes before landing… you're going to make it through these next 15 minutes") attributed to a person named "Usha."
-
-Anchored Artifacts: A-1686.3
-Mentions: N-2
-
-Related Nodes: N-10448
-
-Investigative Direction: Identify the "Usha" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes.
-
-**C-2213** TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroot
-
-Claim Timestamp: 00:09:08
-
-Claim: The September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was authored by Doug DeGroot as a board member.
-
-Anchored Artifacts: A-1687.1
-Mentions: N-508, N-2
-
-
-Investigative Direction: Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.
-
-**C-2214** TPUSA Board Letter Invoked Ecclesiastes and Framed the Appointment as Divinely Ordained
-
-Claim Timestamp: 00:09:08
-
-Claim: The September 17, 2025 board letter opens with a citation to Ecclesiastes, attributing the quote to King Solomon, and frames Kirk's appointment as a divinely ordained test: "mankind is to be tested by God."
-
-Anchored Artifacts: A-1687.1
-Mentions: N-508
-
-
-Investigative Direction: Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.
-
-**C-2215** Jeremy Boreing Described Hiring Candace Owens as His "Biggest Professional Mistake"
-
-Claim Timestamp: 00:39:00
-
-Claim: In a podcast interview, Jeremy Boreing stated, "I certainly think that hiring Candace is probably the biggest mistake of my professional life so far."
-
-Anchored Artifacts: A-1688.1
-Mentions: N-374, N-3
-
-
-Investigative Direction: Identify the source podcast and episode date; verify Boreing's full context for the statement.
-
-**C-2216** Jeremy Boreing Characterized Candace Owens as "Nuclear Energy" Capable of "Flattening a City"
-
-Claim Timestamp: 00:40:30
-
-Claim: In a podcast interview, Jeremy Boreing stated: "Candace is like nuclear energy, you know, if you if you harness it properly, she can power a city. If you lose control, she'll flatten the city."
-
-Anchored Artifacts: A-1688.2
-Mentions: N-374, N-3
-
-
-Investigative Direction: Identify source podcast and date; verify exact quote and surrounding context.
-
-**C-2217** Jeremy Boreing Compared Candace Owens's Show to "Rhetorical Pornography"
-
-Claim Timestamp: 00:41:59
-
-Claim: In a podcast interview, Jeremy Boreing stated Candace Owens "is at war with the widow of her purported best friend" and characterized her content as a "kind of pornography" and "rhetorical pornography," adding that "you shouldn't be able to look at it if you're under 18."
-
-Anchored Artifacts: A-1688.3
-Mentions: N-374, N-3
-
-
-Investigative Direction: Identify source podcast and date; verify quote against full unedited clip.
-
-**C-2218** Jeremy Boreing Claimed Candace Said "I Believe What the People Believe" on Two Occasions
-
-Claim Timestamp: 00:44:36
-
-Claim: In a podcast interview, Jeremy Boreing claimed that on two separate occasions when he asked Candace what she believes, she answered, "I believe what the people believe. I am the voice of the people."
-
-Anchored Artifacts: A-1688.4
-Mentions: N-374
-
-
-Investigative Direction: Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization.
-
-**C-2219** The Bulwark Reported Daily Wire Production Involved 100+ Extras in a Hungarian Marsh, Travel to Italy, and Bulls Imported From Spain
-
-Claim Timestamp: 00:47:50
-
-Claim: In a Bulwark podcast segment, the host described Daily Wire's Hungary production as including approximately 100 extras staging fist fights in a marsh, traveling to Italy for additional filming, and importing bulls from Spain for the production.
-
-Anchored Artifacts: A-1689.1
-Mentions: N-374
-
-Related Nodes: N-10449
-
-Investigative Direction: Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.
-
-**C-2220** Teo Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call
-
-Claim Timestamp: 00:16:46
-
-Claim: During the September 16 Zoom call playback, host identifies Teo Farnsworth as audible in the background of the recording.
-
-Anchored Artifacts: A-1686.1
-Mentions: N-267
-
-
-Investigative Direction: Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.
-
-**C-2221** Host Characterizes Boreing's "Nuclear Energy" / BLM-Critique Hiring Rationale as Objectively Racially Motivated
-
-Claim Timestamp: 00:40:30
-
-Claim: Candace Owens asserts that Boreing's explicit framing of why he hired her – tied to her willingness to critique Black Lives Matter – is "objectively racist."
-
-Anchored Artifacts: A-1688.2
-Mentions: N-374, N-3
-
-
-Investigative Direction: Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.
-
-**C-2222** Host Characterizes Boreing's "Rhetorical Pornography" Comparison as Deflection From Documented Sexual Violence
-
-Claim Timestamp: 00:43:46
-
-Claim: Candace Owens rejects Boreing's pornography analogy and argues it functions as deflection from documented sexual exploitation, including alleged Israeli sexual blackmail and the 2002 Gaza pornography broadcasts.
-
-Anchored Artifacts: A-1688.3
-Mentions: N-374, N-3
-
-
-Investigative Direction: Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.
-
-**C-2223** Host Rejects Boreing's "Self-Aggrandizement" Characterization as Fabricated
-
-Claim Timestamp: 00:44:36
-
-Claim: Candace Owens rejects Boreing's account of her saying "I believe what the people believe," describing it as "obviously made up" and an "amoral statement."
-
-Anchored Artifacts: A-1688.4
-Mentions: N-374, N-3
-
-
-Investigative Direction: Compare Boreing's account against any other contemporaneous documentation of the alleged conversations.
-
-**C-2224** Host Concurs With Bulwark Reporting on Daily Wire Hungary Production Costs
-
-Claim Timestamp: 00:48:28
-
-Claim: Candace Owens concurs with the Bulwark host's characterization of Daily Wire's Hungary production as financially extravagant and possibly connected to a debt-reduction departure agreement.
-
-Anchored Artifacts: A-1689.1
-Mentions: N-374, N-3
-
-Related Nodes: N-10449
-
-Investigative Direction: Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting.
-
----
-
-# VI. OPTIONAL FLAGS
-
-- **Name uncertainty:** The spouse of Charlie Kirk is rendered "Erika Kirk" in the transcript. Existing ledger node is preserved as the N-2 series entry. No renumbering performed.
-- **Name uncertainty:** "Marina" referenced as TPUSA COO; host states "Marina Medvin" once but only "Marina, the COO" elsewhere. Full legal name and spelling unverified.
-- **Transcript ambiguity:** Andrew Kolvet is rendered inconsistently in the transcript as "Andrew Kolbint," "Andrew Kolbenschlag," "Andrew Kolvet," and "Andrew Kolvet." All appear to refer to the same TPUSA spokesperson.
-- **Timestamp uncertainty:** Exact event date for the Jeremy Boreing interview clip (A-1688 family) is unknown.
-- **Timestamp uncertainty:** Exact event date for The Bulwark podcast clip (A-1689.1) is unknown.
-- **Artifact verbally referenced but not shown:** Andrew Kolvet's tweet/post stating "Just got off the phone with the surgeon" is referenced by host but not displayed; treated as narration rather than artifact.
-- **Artifact verbally referenced but not shown:** Andrew Klavan's Daily Wire episode allegedly reviewed by Boreing pre-publication is referenced but not played.
-- **Possible transcription error / correction noted on air:** "Bob Flood" (Chicago) vs. "Bob Ferguson" (Iowa) – host issued an on-air correction at 01:26 distinguishing these as separate individuals and noting the corrected image from the prior episode was removed.
-- **Identity uncertainty:** "Usha" referenced in the September 16 Zoom call airplane analogy – identity unclear.
-- **Identity uncertainty:** "Mitchell" identified by host as her PR agent – full name not given.
-- **Identity uncertainty:** "Justin" referenced by Erika during the September 16 call without further context.
-- **Identity uncertainty:** "Dr. Lee Trotter" – the surgeon referenced in the three-way call dispute is named in prior episodes but not anchored to a new artifact in this episode.
-- **Claim failed admission test (host narrative, not inscribed):** Host's interpretive claims that Erika "orchestrated this entire PR campaign from the back" and "made moves behind the scenes" are framing premises rather than artifact-backed claims in this episode; left out of the Claim Register.
-- **Claim failed admission test (host narration, not inscribed):** Host's specific $67 million figure for the Daily Wire Hungary production is cited from host's prior reporting, not from the displayed Bulwark clip; left out of the Claim Register as not artifact-anchored here.
-
-## 3. Artifact Register
-
-**A-3041** Stacy Sheridan Car Clip Bundle
-
-**A-3041.1** Clip of Stacy Sheridan in a car with Erika Kirk, on the phone and recording, shown on air
-
-Event Timestamp: 00:00:00-00:00:01
-Video Timestamp: 00:15:00
-Discovery Timestamp: 00:00:00-00:00:01
-Confidence Level: Medium
-
-*Related: C-9948, N-190, N-2*
-
----
-
-**A-3042** Kolvet Surgeon Post Bundle
-
-**A-3042.1** Host verbal reference to Andrew Kolvet's X post saying he had just got off the phone with the surgeon (not shown)
-
-Quoted text: "Just got off the phone with the surgeon."
-
-Event Timestamp: 00:00:00-00:00:01
-Video Timestamp: 00:31:41
-Discovery Timestamp: 00:00:00-00:00:01
-Confidence Level: Low
-
-*Related: C-9966, N-14, N-199*
-
----
-
-**A-3043** Pre-Born Sponsor Read Bundle
-
-**A-3043.1** Pre-Born sponsor copy read during the break
-
-Quoted text: "last year Pre-Born helped rescue over 80,000 babies"
-
-Event Timestamp: 00:00:00-00:00:01
-Video Timestamp: 00:33:28
-Discovery Timestamp: 00:00:00-00:00:01
-Confidence Level: High
-
-*Related: C-9969, N-11191*
-
----
-
-**A-3044** Club Candace Subscription Plug Bundle
-
-**A-3044.1** Host verbal reference to the merged Club Candace subscription tier and signed book bundle (not shown)
-
-Quoted text: "one Club Candace tier for $11.99 a month, or you can pay $120 for the entire year"
-
-Event Timestamp: 00:00:00-00:00:01
-Video Timestamp: 00:58:01
-Discovery Timestamp: 00:00:00-00:00:01
-Confidence Level: Low
-
-*Related: C-9999, N-3*
-
----
-
-## 4. Node Register
 
 **N-1** Charlie Kirk
 
@@ -1110,7 +848,246 @@ The host's allegations about Jeremy Boreing's handling of Brett Cooper's departu
 
 ---
 
-## 5. Claim Register
+# V. CLAIM REGISTER
+
+**C-2206** Erika Kirk Hosted TPUSA Corporate Zoom Call on September 16, 2025
+
+Claim Timestamp: 00:09:08
+
+Claim: A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025 – approximately five-and-a-half days after Charlie Kirk's death – with the public board announcement following one day later.
+
+Anchored Artifacts: A-1686.1, A-1686.2, A-1686.3
+Mentions: N-190, N-1, N-2
+
+Related Nodes: N-10448
+
+Investigative Direction: Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1).
+
+**C-2207** Erika Kirk's Sept 16 Call Opened With Laughter and Visible "Thumbs Up" Reactions
+
+Claim Timestamp: 00:24:46
+
+Claim: The opening of the September 16 Zoom call features visible Zoom "thumbs up" reactions, Erika Kirk laughing, and her comment "this is a little bit more emotional than probably Charlie would be reacting."
+
+Anchored Artifacts: A-1686.1
+Mentions: N-2
+
+Related Nodes: N-10448
+
+Investigative Direction: Obtain unedited full recording; confirm reaction icons, laughter timing, and participant count.
+
+**C-2208** Erika Kirk Framed TPUSA Staff as "Family" on Sept 16 Call
+
+Claim Timestamp: 00:17:35
+
+Claim: During the September 16 call, Erika Kirk repeatedly addressed Turning Point USA employees as "family," stating "your family if you want to," "I want our family to stay together," and "this is your chosen family."
+
+Anchored Artifacts: A-1686.2
+Mentions: N-190, N-2
+
+Related Nodes: N-10448
+
+Investigative Direction: Compile every instance of "family" usage; obtain termination records of named attendees to verify the host's juxtaposition.
+
+**C-2209** Erika Kirk Promised Job Security to TPUSA Staff on Sept 16 Call
+
+Claim Timestamp: 00:17:35
+
+Claim: During the September 16 call, Erika Kirk stated, "I will fight like hell to make sure that all of you have a job here" and "I will make sure that I never allow a point to where you have to leave because we cannot financially afford you."
+
+Anchored Artifacts: A-1686.2
+Mentions: N-2
+
+Related Nodes: N-10448
+
+Investigative Direction: Cross-reference against TPUSA termination data from Q4 2025 onward; identify whether attendees retained employment.
+
+**C-2210** Erika Kirk Self-Corrected to Avoid the Word "Happy" About Charlie on Sept 16 Call
+
+Claim Timestamp: 00:22:11
+
+Claim: During the September 16 call, Erika Kirk interrupted herself mid-sentence with "I'm trying not to say that he would be" – appearing to self-edit away from a positive emotion descriptor about Charlie Kirk in heaven.
+
+Anchored Artifacts: A-1686.2
+Mentions: N-2, N-1
+
+Related Nodes: N-10448
+
+Investigative Direction: Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed.
+
+**C-2211** Erika Kirk's Sept 16 Call Included "Be Soft With One Another in Ways Differently"
+
+Claim Timestamp: 00:27:13
+
+Claim: During the September 16 call, Erika Kirk told TPUSA employees to "be soft with one another in ways differently" and that "if someone's acting weird, don't read into that… weddings and funerals bring out the weirdest side of people."
+
+Anchored Artifacts: A-1686.3
+Mentions: N-2
+
+Related Nodes: N-10448
+
+Investigative Direction: Verify exact phrasing on unedited recording; trace adoption timeline of the "everybody grieves differently" framing across TPUSA communications.
+
+**C-2212** Erika Kirk's Sept 16 Call Included "15 Minutes Before Landing" Analogy Attributed to "Usha"
+
+Claim Timestamp: 00:28:01
+
+Claim: During the September 16 call, Erika Kirk shared an airplane analogy ("15 minutes before landing… you're going to make it through these next 15 minutes") attributed to a person named "Usha."
+
+Anchored Artifacts: A-1686.3
+Mentions: N-2
+
+Related Nodes: N-10448
+
+Investigative Direction: Identify the "Usha" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes.
+
+**C-2213** TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroot
+
+Claim Timestamp: 00:09:08
+
+Claim: The September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was authored by Doug DeGroot as a board member.
+
+Anchored Artifacts: A-1687.1
+Mentions: N-508, N-2
+
+
+Investigative Direction: Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.
+
+**C-2214** TPUSA Board Letter Invoked Ecclesiastes and Framed the Appointment as Divinely Ordained
+
+Claim Timestamp: 00:09:08
+
+Claim: The September 17, 2025 board letter opens with a citation to Ecclesiastes, attributing the quote to King Solomon, and frames Kirk's appointment as a divinely ordained test: "mankind is to be tested by God."
+
+Anchored Artifacts: A-1687.1
+Mentions: N-508
+
+
+Investigative Direction: Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.
+
+**C-2215** Jeremy Boreing Described Hiring Candace Owens as His "Biggest Professional Mistake"
+
+Claim Timestamp: 00:39:00
+
+Claim: In a podcast interview, Jeremy Boreing stated, "I certainly think that hiring Candace is probably the biggest mistake of my professional life so far."
+
+Anchored Artifacts: A-1688.1
+Mentions: N-374, N-3
+
+
+Investigative Direction: Identify the source podcast and episode date; verify Boreing's full context for the statement.
+
+**C-2216** Jeremy Boreing Characterized Candace Owens as "Nuclear Energy" Capable of "Flattening a City"
+
+Claim Timestamp: 00:40:30
+
+Claim: In a podcast interview, Jeremy Boreing stated: "Candace is like nuclear energy, you know, if you if you harness it properly, she can power a city. If you lose control, she'll flatten the city."
+
+Anchored Artifacts: A-1688.2
+Mentions: N-374, N-3
+
+
+Investigative Direction: Identify source podcast and date; verify exact quote and surrounding context.
+
+**C-2217** Jeremy Boreing Compared Candace Owens's Show to "Rhetorical Pornography"
+
+Claim Timestamp: 00:41:59
+
+Claim: In a podcast interview, Jeremy Boreing stated Candace Owens "is at war with the widow of her purported best friend" and characterized her content as a "kind of pornography" and "rhetorical pornography," adding that "you shouldn't be able to look at it if you're under 18."
+
+Anchored Artifacts: A-1688.3
+Mentions: N-374, N-3
+
+
+Investigative Direction: Identify source podcast and date; verify quote against full unedited clip.
+
+**C-2218** Jeremy Boreing Claimed Candace Said "I Believe What the People Believe" on Two Occasions
+
+Claim Timestamp: 00:44:36
+
+Claim: In a podcast interview, Jeremy Boreing claimed that on two separate occasions when he asked Candace what she believes, she answered, "I believe what the people believe. I am the voice of the people."
+
+Anchored Artifacts: A-1688.4
+Mentions: N-374
+
+
+Investigative Direction: Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization.
+
+**C-2219** The Bulwark Reported Daily Wire Production Involved 100+ Extras in a Hungarian Marsh, Travel to Italy, and Bulls Imported From Spain
+
+Claim Timestamp: 00:47:50
+
+Claim: In a Bulwark podcast segment, the host described Daily Wire's Hungary production as including approximately 100 extras staging fist fights in a marsh, traveling to Italy for additional filming, and importing bulls from Spain for the production.
+
+Anchored Artifacts: A-1689.1
+Mentions: N-374
+
+Related Nodes: N-10449
+
+Investigative Direction: Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.
+
+**C-2220** Teo Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call
+
+Claim Timestamp: 00:16:46
+
+Claim: During the September 16 Zoom call playback, host identifies Teo Farnsworth as audible in the background of the recording.
+
+Anchored Artifacts: A-1686.1
+Mentions: N-267
+
+
+Investigative Direction: Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.
+
+**C-2221** Host Characterizes Boreing's "Nuclear Energy" / BLM-Critique Hiring Rationale as Objectively Racially Motivated
+
+Claim Timestamp: 00:40:30
+
+Claim: Candace Owens asserts that Boreing's explicit framing of why he hired her – tied to her willingness to critique Black Lives Matter – is "objectively racist."
+
+Anchored Artifacts: A-1688.2
+Mentions: N-374, N-3
+
+
+Investigative Direction: Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.
+
+**C-2222** Host Characterizes Boreing's "Rhetorical Pornography" Comparison as Deflection From Documented Sexual Violence
+
+Claim Timestamp: 00:43:46
+
+Claim: Candace Owens rejects Boreing's pornography analogy and argues it functions as deflection from documented sexual exploitation, including alleged Israeli sexual blackmail and the 2002 Gaza pornography broadcasts.
+
+Anchored Artifacts: A-1688.3
+Mentions: N-374, N-3
+
+
+Investigative Direction: Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.
+
+**C-2223** Host Rejects Boreing's "Self-Aggrandizement" Characterization as Fabricated
+
+Claim Timestamp: 00:44:36
+
+Claim: Candace Owens rejects Boreing's account of her saying "I believe what the people believe," describing it as "obviously made up" and an "amoral statement."
+
+Anchored Artifacts: A-1688.4
+Mentions: N-374, N-3
+
+
+Investigative Direction: Compare Boreing's account against any other contemporaneous documentation of the alleged conversations.
+
+**C-2224** Host Concurs With Bulwark Reporting on Daily Wire Hungary Production Costs
+
+Claim Timestamp: 00:48:28
+
+Claim: Candace Owens concurs with the Bulwark host's characterization of Daily Wire's Hungary production as financially extravagant and possibly connected to a debt-reduction departure agreement.
+
+Anchored Artifacts: A-1689.1
+Mentions: N-374, N-3
+
+Related Nodes: N-10449
+
+Investigative Direction: Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting.
+
+---
 
 **C-9913** Host Says Everybody Grieves Differently Was First Used Inside TPUSA on the Sept 16 Call
 
@@ -2719,4 +2696,21 @@ Tags: relevance:context
 Investigative Direction: Check the following episode's guest.
 
 ---
+
+# VI. OPTIONAL FLAGS
+
+- **Name uncertainty:** The spouse of Charlie Kirk is rendered "Erika Kirk" in the transcript. Existing ledger node is preserved as the N-2 series entry. No renumbering performed.
+- **Name uncertainty:** "Marina" referenced as TPUSA COO; host states "Marina Medvin" once but only "Marina, the COO" elsewhere. Full legal name and spelling unverified.
+- **Transcript ambiguity:** Andrew Kolvet is rendered inconsistently in the transcript as "Andrew Kolbint," "Andrew Kolbenschlag," "Andrew Kolvet," and "Andrew Kolvet." All appear to refer to the same TPUSA spokesperson.
+- **Timestamp uncertainty:** Exact event date for the Jeremy Boreing interview clip (A-1688 family) is unknown.
+- **Timestamp uncertainty:** Exact event date for The Bulwark podcast clip (A-1689.1) is unknown.
+- **Artifact verbally referenced but not shown:** Andrew Kolvet's tweet/post stating "Just got off the phone with the surgeon" is referenced by host but not displayed; treated as narration rather than artifact.
+- **Artifact verbally referenced but not shown:** Andrew Klavan's Daily Wire episode allegedly reviewed by Boreing pre-publication is referenced but not played.
+- **Possible transcription error / correction noted on air:** "Bob Flood" (Chicago) vs. "Bob Ferguson" (Iowa) – host issued an on-air correction at 01:26 distinguishing these as separate individuals and noting the corrected image from the prior episode was removed.
+- **Identity uncertainty:** "Usha" referenced in the September 16 Zoom call airplane analogy – identity unclear.
+- **Identity uncertainty:** "Mitchell" identified by host as her PR agent – full name not given.
+- **Identity uncertainty:** "Justin" referenced by Erika during the September 16 call without further context.
+- **Identity uncertainty:** "Dr. Lee Trotter" – the surgeon referenced in the three-way call dispute is named in prior episodes but not anchored to a new artifact in this episode.
+- **Claim failed admission test (host narrative, not inscribed):** Host's interpretive claims that Erika "orchestrated this entire PR campaign from the back" and "made moves behind the scenes" are framing premises rather than artifact-backed claims in this episode; left out of the Claim Register.
+- **Claim failed admission test (host narration, not inscribed):** Host's specific $67 million figure for the Daily Wire Hungary production is cited from host's prior reporting, not from the displayed Bulwark clip; left out of the Claim Register as not artifact-anchored here.
 

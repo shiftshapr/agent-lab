@@ -11,8 +11,13 @@
 - **Transcript SHA-256**: a1f3c6dfa924e1a32b03c50b03b00f101fbd284665dcd6d81eb0bac4b30dbf95
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10e): N-908
+  - Hole-minted Nodes (reintro-ep093): N-350, N-355
+  - Tip-minted Nodes (reintro-ep093): N-662
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10e): C-11436–C-11491
   - New Nodes Introduced: N-10616, N-10617, N-10618, N-10619, N-10622
-  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621
+  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621, N-5, N-9, N-14, N-19, N-28, N-33, N-36, N-40, N-47, N-54, N-66, N-97, N-242, N-276, N-284, N-512, N-608, N-674, N-722, N-906, N-10000, N-10023, N-10070, N-10110, N-10237, N-10340, N-10443, N-10539, N-10574, N-10598, N-10600, N-10601, N-10602, N-10607, N-10608, N-10613, N-10646, N-10694, N-10956, N-11054, N-11128, N-11182
   - (see registers)
 
 ## 2. Executive Summary
@@ -37,6 +42,132 @@ Tags: dismissal, dunk, sarcasm, reuse
 Confidence: high
 
 ---
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:28:57
+Speaker: N-3
+Quote: please do send us an email to more tips@candaceowens. com.
+Context: Host asks viewers with evidence about Amir Safadi to email the tip line so it can be plotted on the timeline.
+Tags: tips, dia
+Confidence: high
+
+---
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:05:17
+Speaker: N-3
+Quote: us as a society we deserve better sci-ops.
+Context: Host jokes that the Georgia cancellation story shows TPUSA's sci-ops are sloppy.
+Tags: psyop, sarcasm
+Confidence: high
+
+---
+
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 00:22:20
+Speaker: N-3
+Quote: they are copping to the fact that they have been gaslighting us
+Context: Host reacts to the Daily Mail insider article as an admission of gaslighting.
+Tags: gaslight, tpusa
+Confidence: high
+
+---
+
+**M-79** (meme) Pass the Sniff Test
+
+### Occurrence 1
+
+Video Timestamp: 00:31:20
+Speaker: N-3
+Quote: Let me know if his excuse passes the sniff test for you.
+Context: Host introduces the Marx interview clip about threatening to beat Corby Hall.
+Tags: sniff test, marx
+Confidence: high
+
+---
+
+**M-116** (meme) Broken Bomb Dog Noses
+
+### Occurrence 1
+
+Video Timestamp: 00:41:38
+Speaker: N-3
+Quote: Bomb dogs were brought in. They did not find that weapon, which means that it was not recently fired.
+Context: Host argues the bomb dogs' failure means the rifle was not recently fired.
+Tags: bomb dogs, rifle
+Confidence: high
+
+---
+
+**M-81** (meme) Bibi Net and Yahoo
+
+### Occurrence 1
+
+Video Timestamp: 00:52:02
+Speaker: N-3
+Quote: this is the guy that sits down with BBnet and Yahoo
+Context: Host mocks Ben Shapiro for interviewing Netanyahu.
+Tags: netanyahu, shapiro
+Confidence: high
+
+---
+
+**M-286** (meme) I'm Getting a Microscope
+
+### Occurrence 1
+
+Video Timestamp: 00:44:37
+Speaker: N-3
+Quote: just in time for me to get a microscope for my birthday
+Context: Host jokes she will do her own bullet tests at home after ATF announces microscopic comparison.
+Tags: microscope, atf
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:47:41
+Speaker: N-3
+Quote: I'm telling you guys, um I'm getting a microscope.
+Context: Host repeats the bit in the comments segment.
+Tags: microscope, atf
+Confidence: high
+
+---
+
+**M-287** (meme) If I Did Do It by Erika Kirk
+
+### Occurrence 1
+
+Video Timestamp: 00:23:10
+Speaker: N-3
+Quote: If I Did Do It by Erika Kirk.
+Context: Host jokes Erika should release a book in the style of O.J. Simpson's If I Did It.
+Tags: book, joke
+Confidence: high
+
+---
+
+**M-288** (meme) A Face That Launched Zero Ships
+
+### Occurrence 1
+
+Video Timestamp: 00:56:41
+Speaker: N-3
+Quote: It needs a face that launched zero ships.
+Context: Host plugs a bumper sticker on her site.
+Tags: merch, bumper sticker
+Confidence: high
 
 ---
 
@@ -260,6 +391,75 @@ Confidence Level: Low
 
 ---
 
+**A-3134** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3134.1** Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for tips on Amir Safadi)
+
+Quoted text: "please do send us an email to more tips@candaceowens. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:28:57
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-11460, N-3, N-355*
+
+---
+
+**A-3135** Bridal Shower Photos Bundle
+
+**A-3135.1** Photos of Erika Kirk at Bettina's bridal shower that the host says she is showing (not described beyond the host's narration)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:07:27
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-11440, N-2, N-906*
+
+---
+
+**A-3136** Lane Schoneberger Event Opening Clip Bundle
+
+**A-3136.1** Clip of Lane Schoneberger speaking at the UGA event thanking Erika
+
+Quoted text: "Erika continues to support and inspire us every day to keep pushing forward and fighting for the idea that everyone deserves a path to redemption and prosperity. So, Erika, thank you."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:10:46
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-11443, N-19, N-2*
+
+---
+
+**A-3137** Viewer Comments Bundle
+
+**A-3137.1** Top viewer comment from the previous episode about the missing security and Dan Flood, read by the host
+
+Quoted text: "Where was all of this amazing security when Charlie said they're going to kill me?"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:48:20
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11482, C-11483, C-11484, C-11485, C-11486, N-276, N-1*
+
+**A-3137.2** Viewer comment by James the least about Ben Shapiro, read by the host
+
+Quoted text: "I saw Ben Shapiro blaming you and your viewers for the threats against Erika."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:52:02
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11488, N-97*
+
+---
+
 ## 4. Node Register
 
 **N-10616** UGA Rally Cancellation Discrepancy
@@ -338,6 +538,439 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1984.1, A-1992, C-2748, C-2760*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host discusses the timing of reports of his death and security around his event.
+
+*Related: A-3134.1, A-3135.1, A-3136, A-3136.1, A-3137, A-3137.1, A-3137.2, C-11436, C-11437, C-11438, C-11439, C-11440, C-11441, C-11442, C-11443, C-11444, C-11445, C-11446, C-11447, C-11448, C-11449, C-11450, C-11451, C-11452, C-11453, C-11454, C-11455, C-11456, C-11457, C-11458, C-11459, C-11460, C-11461, C-11462, C-11463, C-11464, C-11465, C-11466, C-11467, C-11468, C-11469, C-11470, C-11471, C-11472, C-11473, C-11474, C-11475, C-11476, C-11477, C-11478, C-11479, C-11480, C-11481, C-11482, C-11483, C-11484, C-11485, C-11486, C-11487, C-11488, C-11489, C-11490, C-11491*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; the host disputes her UGA cancellation account and reads the Daily Mail insider on it.
+
+*Related: A-3135, A-3135.1, A-3136, A-3136.1, A-3137, A-3137.1, A-3137.2, C-11437, C-11438, C-11439, C-11440, C-11441, C-11442, C-11443, C-11444, C-11445, C-11446, C-11447, C-11448, C-11449, C-11451, C-11452, C-11453, C-11454, C-11459, C-11469, C-11473, C-11474, C-11482, C-11483, C-11484, C-11485, C-11486, C-11487, C-11488, C-11489, C-11490*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: A-3134, A-3134.1, A-3135.1, A-3136.1, A-3137.2, C-11436, C-11437, C-11438, C-11440, C-11442, C-11443, C-11444, C-11448, C-11449, C-11450, C-11451, C-11452, C-11454, C-11455, C-11456, C-11457, C-11458, C-11459, C-11460, C-11461, C-11462, C-11463, C-11464, C-11465, C-11466, C-11467, C-11468, C-11469, C-11470, C-11474, C-11475, C-11476, C-11479, C-11480, C-11481, C-11487, C-11488, C-11490, C-11491*
+
+---
+
+**N-4** JD Vance
+
+Vice President; his on-stage remarks and plane timeline anchor the UGA cancellation discussion.
+
+*Related: C-11439, C-11441, C-11442, C-11444, C-11445, C-11446, C-11449, C-11471, C-11473, C-11474, C-11475, C-11476, C-11477, C-11478, C-11479, C-11489*
+
+---
+
+**N-5** Donald Trump
+
+President; the host cites his 2:40 p.m. announcement of Charlie Kirk's death.
+
+*Related: C-11457, C-11471, C-11472, C-11476, C-11477*
+
+---
+
+**N-9** Jeffrey Epstein
+
+Jeffrey Epstein; the host relays claims about how he was brought into arms trafficking.
+
+*Related: A-3137, A-3137.1, A-3137.2, C-11471, C-11472, C-11482, C-11483, C-11484, C-11485, C-11486, C-11488*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson who interviewed Vance and whom the host says was sidelined.
+
+*Related: C-11444, C-11445, C-11450*
+
+---
+
+**N-19** Laine Schoneberger
+
+Wi-Fi company speaker whose thanks to Erika the host reads as a backstage cue.
+
+*Related: A-3136, A-3136.1, C-11443*
+
+---
+
+**N-28** Mitt Romney
+
+Mitt Romney, founder of Bain Capital; the host links its early funding to Robert Maxwell.
+
+*Related: C-11437, C-11473, C-11474*
+
+---
+
+**N-33** Donald Trump Jr.
+
+Donald Trump Jr.; the host says his fiancee's bridal shower is why Erika was in Palm Beach.
+
+*Related: A-3135.1, C-11438, C-11440, C-11444, C-11487*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Benjamin Netanyahu (called Bebe in the transcript); the host says he commented too soon on the shooting and ties him to Maxwell and Romney.
+
+*Related: C-11458, C-11474*
+
+---
+
+**N-40** Tyler Robinson
+
+Defendant; the host discusses the ATF summary on his rifle.
+
+*Related: C-11475, C-11476, C-11477, C-11478, C-11479*
+
+---
+
+**N-47** Ghislaine Maxwell
+
+Ghislaine Maxwell; daughter of Robert Maxwell in the Bain Capital and Epstein discussion.
+
+*Related: C-11471, C-11473*
+
+---
+
+**N-48** Robert Maxwell
+
+Robert Maxwell; the host cites him as an early Bain Capital investor and as linked to Epstein.
+
+*Related: C-11471, C-11473, C-11474*
+
+---
+
+**N-54** Lance Twiggs
+
+Lance Twiggs; the host theorizes he is a federal asset who obtained the rifle and casings.
+
+*Related: C-11476, C-11477*
+
+---
+
+**N-66** Village Crazy Lady
+
+Village Crazy Lady (Mel on X); the host cites her theory that the cancellation was meant to hurt Vance.
+
+*Related: C-11489*
+
+---
+
+**N-97** Ben Shapiro
+
+Ben Shapiro; a viewer says he blamed the host for threats against Erika.
+
+*Related: A-3137, A-3137.1, A-3137.2, C-11482, C-11483, C-11484, C-11485, C-11486, C-11488*
+
+---
+
+**N-242** Glenn Beck
+
+Glenn Beck; commenters cited his post that Charlie was stable.
+
+*Related: C-11454*
+
+---
+
+**N-276** Dan Flood
+
+Dan Flood; the host and a viewer comment criticize his security conduct and reported raise.
+
+*Related: A-3137, A-3137.1, A-3137.2, C-11482, C-11483, C-11484, C-11485, C-11486, C-11488*
+
+---
+
+**N-284** Bari Weiss
+
+Bari Weiss; CBS News run under her carried the Secret Service report.
+
+*Related: C-11437*
+
+---
+
+**N-337** Baron Coleman
+
+Baron Coleman; his show supplied the Georgia timeline and the FFL finding.
+
+*Related: C-11438, C-11444, C-11487*
+
+---
+
+**N-348** Victor Marx
+
+Victor Marx; the host discusses his early death post, interview, texts and interview conditions.
+
+*Related: C-11436, C-11454, C-11455, C-11456, C-11457, C-11459, C-11462, C-11463, C-11464, C-11465, C-11466, C-11467, C-11468, C-11469, C-11470*
+
+---
+
+**N-349** Corby Hall
+
+Corby Hall; source of the messages and arms-sale allegations about Marx.
+
+*Related: C-11463, C-11464, C-11465, C-11466, C-11467, C-11468, C-11470*
+
+---
+
+**N-350** Eileen Marx
+
+Eileen Marx; wife Marx wants to bring to an interview.
+
+*Related: C-11463*
+
+---
+
+**N-355** Amir Safari
+
+Amir Safadi (also Sarfati); viewer tip that he heard of the shooting first.
+
+*Related: A-3134, A-3134.1, C-11460, C-11461*
+
+---
+
+**N-512** Victor Ostrovsky
+
+Victor Ostrovsky; former Mossad officer whose claims about Epstein the host relays.
+
+*Related: C-11471, C-11472*
+
+---
+
+**N-608** Druski
+
+Druski; comedian whose video mocking Erika is cited as a factor in the cancellation.
+
+*Related: C-11451, C-11487*
+
+---
+
+**N-662** Marco Rubio
+
+Marco Rubio; a commenter says donors have chosen him for 2028.
+
+*Related: C-11489*
+
+---
+
+**N-674** Ivanka Trump
+
+Ivanka Trump; the host says she attended the bridal shower.
+
+*Related: A-3135.1, C-11440*
+
+---
+
+**N-722** John F. Kennedy
+
+John F. Kennedy; the host compares prosecution tactics to those after his killing.
+
+*Related: C-11480*
+
+---
+
+**N-10000** Turning Point USA
+
+Existing topic reused for new claims in this episode.
+
+*Related: A-3137.1, C-11450, C-11484*
+
+---
+
+**N-10023** Epstein Israeli Intelligence Asset Allegation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11471, C-11472*
+
+---
+
+**N-10070** Daily Mail
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11451, C-11452, C-11453*
+
+---
+
+**N-10110** Tyler Robinson Evidence Gaps
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11475, C-11479*
+
+---
+
+**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations
+
+Existing topic reused for new claims in this episode.
+
+*Related: A-3137.2, C-11488*
+
+---
+
+**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+
+Existing topic reused for new claims in this episode.
+
+*Related: A-3137.1, C-11485*
+
+---
+
+**N-10443** TPUSA Post-Assassination Leadership Tone/Timing Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11453*
+
+---
+
+**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11481*
+
+---
+
+**N-10574** Romney–Netanyahu–Utah Connection Network
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11474*
+
+---
+
+**N-10598** Lance Twiggs Federal Asset Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11476, C-11477*
+
+---
+
+**N-10600** Victor Marx 51% Fold AR Acquisition Attempt
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11468*
+
+---
+
+**N-10601** Victor Marx IDF 50,000 Guns Request
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11465*
+
+---
+
+**N-10602** Victor Marx Haiti Mission and Arms Request
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11466*
+
+---
+
+**N-10607** UGA No-Show Security Threat Explanation Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11445*
+
+---
+
+**N-10608** TPUSA UGA Event Crowd-Size Failure
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11452, C-11490, C-11491*
+
+---
+
+**N-10613** Victor Marx / Corby Hall On-Air Interview Proposal
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11462, C-11463, C-11464, C-11470*
+
+---
+
+**N-10646** TPUSA Rooftop Security Decision-Making Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: A-3137.1, C-11484*
+
+---
+
+**N-10694** Dan Flood Role and Behavior Assessment
+
+Existing topic reused for new claims in this episode.
+
+*Related: A-3137.1, C-11482, C-11483, C-11486*
+
+---
+
+**N-10956** Catholics for Catholics
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11448*
+
+---
+
+**N-11054** Bomb Dog Deployment at the Crime Scene
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11477*
+
+---
+
+**N-11128** US and Israel Iran War Betrayal Thesis
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11481*
+
+---
+
+**N-11182** TPUSA Crisis PR Team
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-11450*
+
+---
+
+**N-906** Bettina Anderson
+
+First named by the host at 00:07:27 in episode 93 as Bettina, soon-to-be Trump, whose bridal shower Erika attended.
+Aliases: Bettina
+
+*Related: A-3135, A-3135.1, C-11440*
+
+---
+
+**N-908** Adnan Khashoggi
+
+First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was initially brought in to deal with, per Ostrovsky.
+
+*Related: C-11472*
 
 ---
 
@@ -634,6 +1267,933 @@ Anchored Artifacts: None in this episode (host assertion only)
 Related Nodes: N-10621
 
 Investigative Direction: Obtain canine unit deployment records, ATF chain-of-custody documentation, and any residue-testing results for the recovered rifle.
+
+---
+
+**C-11436** Host Says Marx Later Deleted His Death-Announcement Post
+
+Claim Timestamp: 00:00:40
+
+Claim: The host says Victor Marx's early post announcing Charlie Kirk's death was later deleted, after he had left it up for quite a long time.
+
+Transcript Snippet: In a post that he subsequently deleted, he left it up actually for quite a long time
+
+Anchored Artifacts: 
+Mentions: N-348, N-3
+Related Nodes: N-10622
+Tags: relevance:core
+Investigative Direction: Archive captures (Wayback, screenshots with timestamps) of the post and its deletion time; ask Marx when and why it was removed.
+
+---
+
+**C-11437** CBS Article Says Hostile Messages Were Not an Actionable Threat Stream
+
+Claim Timestamp: 00:02:09
+
+Claim: The host reads CBS News reporting that Erika Kirk may have received hostile messages, including on social media, but that these were not part of any identified or actionable threat stream monitored by federal authorities.
+
+Transcript Snippet: Now, while Kirk may have received hostile messages including on social media, those were not part of any identified or actionable threat stream that was monitored by federal authorities.
+
+Anchored Artifacts: A-1981.1
+Mentions: N-2, N-284, N-3
+Related Nodes: N-10617, N-10616
+Supports: C-2744
+Tags: relevance:core
+Investigative Direction: Obtain the full CBS article and Secret Service on-record statement; ask TPUSA to produce the threat messages it relied on.
+
+---
+
+**C-11438** Host Says She Learned From a Tip and Coleman That Erika Was Already in Georgia
+
+Claim Timestamp: 00:05:17
+
+Claim: The host says that after watching Baron Coleman's show and receiving a tip she concluded Erika Kirk was already in Georgia when she canceled, rather than in Scottsdale as the host had assumed.
+
+Transcript Snippet: we received a tip that Erika was indeed in Georgia already
+
+Anchored Artifacts: A-1982.1
+Mentions: N-337, N-2, N-3
+Related Nodes: N-10616
+Supports: C-2745
+Tags: relevance:core
+Investigative Direction: Identify the tipster and obtain flight-tracking and airport records placing Erika's aircraft in Athens.
+
+---
+
+**C-11439** Host Says Federal Teams Sweep Venues and Airports 48 Hours Before a VP Visit
+
+Claim Timestamp: 00:06:21
+
+Claim: The host says that at least 48 hours before the Vice President or President arrives, the airports and venue are swept and secured and advance personnel are sent ahead, so there was in her view no chance of a viable threat to Erika's travel in Georgia.
+
+Transcript Snippet: at least 48 hours before he arrives the airports the venue in which he is going to fly into everything is going to be swept and secured.
+
+Anchored Artifacts: 
+Mentions: N-4, N-2
+Related Nodes: N-10616
+Tags: relevance:context
+Investigative Direction: Obtain Secret Service advance-team protocol for the Athens stop and any public statement on when the airport and venue were secured.
+
+---
+
+**C-11440** Host Says Erika Flew to Palm Beach for Bettina's Bridal Shower and Stayed Through Monday
+
+Claim Timestamp: 00:07:27
+
+Claim: The host says Erika Kirk flew into Palm Beach on Saturday evening for Bettina's bridal shower on Sunday, that Bettina is engaged to Donald Trump Jr., that Ivanka Trump and her daughter attended, and that Erika stayed in Palm Beach on Monday.
+
+Transcript Snippet: Erika Kirk flew into Palm Beach because she was attending Bettina's bridal shower which took place on Sunday.
+
+Anchored Artifacts: A-3135.1
+Mentions: N-2, N-906, N-33, N-674
+Related Nodes: N-10616
+Tags: relevance:context
+Investigative Direction: Obtain the photos and event coverage of the shower and flight records for the Saturday arrival into Palm Beach.
+
+---
+
+**C-11441** Host Says Erika Flew Into the Same Secured Private Terminal as the Vice President
+
+Claim Timestamp: 00:07:27
+
+Claim: The host says that on Tuesday Erika flew from West Palm Beach to Athens, Georgia, landing at the private airport and terminal that the federal government had already secured days earlier and that the Vice President was due to use.
+
+Transcript Snippet: she therefore flew into the already secured by the Secret Service, the federal government had already secured this days earlier, the private airport and the terminal, the very same one that the vice president was due to arrive in
+
+Anchored Artifacts: A-1982.1
+Mentions: N-2, N-4
+Related Nodes: N-10616
+Supports: C-2745
+Tags: relevance:core
+Investigative Direction: Obtain airport FBO and Secret Service records showing which terminal each aircraft used at Athens-Ben Epps.
+
+---
+
+**C-11442** Host Says Vance Took the Call About Erika at 3:53 While His Plane Circled
+
+Claim Timestamp: 00:08:44
+
+Claim: The host says J.D. Vance's plane began circling over North Carolina at 3:53 p.m. because that is when he received a call that Erika did not want to do the event, and she assumes Erika called him personally.
+
+Transcript Snippet: At 3:53 p. m., J. D. Vance's plane begins circling in the air above North Carolina because this is when he receives the phone call that Erika doesn't want to do the event.
+
+Anchored Artifacts: A-1982.2
+Mentions: N-4, N-2
+Related Nodes: N-10616
+Supports: C-2746
+Tags: relevance:core
+Investigative Direction: Cross-check ADS-B tracks of the Vance aircraft with Vance's phone and schedule records; ask the Vice President's office when he learned Erika might not appear.
+
+---
+
+**C-11443** Host Says Erika Was Off Stage Left as Schoneberger Thanked Her at 5:00
+
+Claim Timestamp: 00:09:45
+
+Claim: The host says the Wi-Fi speaker opened the event at 5:00 p.m., thanked Erika on stage and looked to the left, which she reads as a sign Erika was off stage at that time.
+
+Transcript Snippet: he opened this event at 5:00 p. m. And it looks certainly like he acknowledges Erika on stage and looks to the left.
+
+Anchored Artifacts: A-3136.1
+Mentions: N-19, N-2, N-3
+Related Nodes: N-10616
+Tags: relevance:core
+Investigative Direction: Obtain full event video showing the opening remarks and any backstage or green-room access logs.
+
+---
+
+**C-11444** Host Says Erika Was Backstage and Coleman Noted Kolvet's Casual Dress
+
+Claim Timestamp: 00:10:46
+
+Claim: The host says she agrees with Baron Coleman that Erika was in the building backstage, and says Coleman pointed out that Andrew Kolvet was dressed too casually to interview the Vice President, which she takes as a sign the change was last-minute.
+
+Transcript Snippet: I am with Baron on this. She was in the building and she was backstage where people could not see her.
+
+Anchored Artifacts: 
+Mentions: N-337, N-14, N-2, N-4
+Related Nodes: N-10616
+Supports: C-2745
+Tags: relevance:core
+Investigative Direction: Obtain event photos and video of Kolvet's attire and any staffer accounts of where Erika was between 2:40 and 6:39.
+
+---
+
+**C-11445** Vance Said on Stage That Erika Had Received Some Threats
+
+Claim Timestamp: 00:11:54
+
+Claim: J.D. Vance says on stage that he loves Erika and knows she got some threats.
+
+Transcript Snippet: Well, first of all, I love Erika and I know that she did get some threats and, you know, about 2 hours ago, as you know, Andrew,
+
+Anchored Artifacts: A-1983
+Mentions: N-4, N-2, N-14
+Related Nodes: N-10616, N-10607
+Tags: relevance:core
+Investigative Direction: Ask the Vice President's office what threat information he was given and by whom.
+
+---
+
+**C-11446** Vance Said He Spoke to the Secret Service and Let Erika Do What She Needed
+
+Claim Timestamp: 00:11:54
+
+Claim: J.D. Vance says on stage that he talked to the Secret Service, who do a very good job, and told them to let Erika do what she needs to do for herself and her family.
+
+Transcript Snippet: I talked to the Secret Service and obviously these guys do a very good job and I said, "You know what? Let's let Erika do what she needs to do for herself and her family."
+
+Anchored Artifacts: A-1983
+Mentions: N-4, N-2
+Related Nodes: N-10616, N-10617
+Supports: C-2747
+Tags: relevance:core
+Investigative Direction: Obtain the full Vance remarks and ask the Secret Service whether it advised on Erika's cancellation.
+
+---
+
+**C-11447** Host Says Erika Left Athens for Scottsdale at 6:39 p.m.
+
+Claim Timestamp: 00:12:49
+
+Claim: The host says Erika did not leave Athens until 6:39 p.m. and then headed back to Scottsdale.
+
+Transcript Snippet: She departed Athens and she headed back for Scottsdale.
+
+Anchored Artifacts: A-1982.1
+Mentions: N-2
+Related Nodes: N-10616
+Supports: C-2745
+Tags: relevance:core
+Investigative Direction: Pull flight-tracking records of the Erika aircraft departing Athens and its destination.
+
+---
+
+**C-11448** Host Says Erika Phoned and Cried to Discourage Attendance at the Catholics for Catholics Event
+
+Claim Timestamp: 00:17:09
+
+Claim: The host says that when Erika did not want people to attend the Catholics for Catholics event where the host spoke, Erika made personal phone calls and cried on the phone.
+
+Transcript Snippet: We're literally it was a prayer. She made personal phone calls, and she cried on the phone.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10956
+Tags: relevance:core
+Investigative Direction: Identify the people who received the calls and obtain their accounts and any call logs or messages.
+
+---
+
+**C-11449** Host Speculates Erika Called Vance Directly and Cried
+
+Claim Timestamp: 00:17:09
+
+Claim: The host says she has no proof but speculates that Erika called J.D. Vance directly while his plane circled and cried on the phone, which would explain his protective tone on stage.
+
+Transcript Snippet: I think that when J. D. Vance's plane was circling, of course Erika would have called him directly.
+
+Anchored Artifacts: A-1982.2
+Mentions: N-2, N-4, N-3
+Related Nodes: N-10616
+Supports: C-11442
+Tags: relevance:context
+Investigative Direction: Ask Vance's office whether he spoke with Erika before the event and obtain call records.
+
+---
+
+**C-11450** Host Says TPUSA Likely Hired a Crisis PR Person and Sidelined Kolvet
+
+Claim Timestamp: 00:18:55
+
+Claim: The host says it is obvious TPUSA has a crisis PR person, probably hired in the last 24 hours, and that Andrew Kolvet was made to step aside.
+
+Transcript Snippet: uh they got they have some crisis PR person and Andrew was sort of made to step aside
+
+Anchored Artifacts: A-1991.1
+Mentions: N-14, N-3
+Related Nodes: N-11182, N-10000
+Tags: relevance:context
+Investigative Direction: Identify any new TPUSA communications hire or agency and compare the Daily Mail insider language with TPUSA's earlier statements.
+
+---
+
+**C-11451** Daily Mail Insider Says Druski Video Hurt Erika
+
+Claim Timestamp: 00:18:55
+
+Claim: The host reads a Daily Mail article in which a close confidant says Erika is aware of how she comes across, has seen the online comments, and was hurt by a viral comedian's video mocking her after her husband's killing.
+
+Transcript Snippet: The Druski video showed her what people thought of her. She's really hurt that people are feeling this way about her, that they're mocking her.
+
+Anchored Artifacts: A-1991.1
+Mentions: N-608, N-2, N-3
+Related Nodes: N-10070, N-10616
+Tags: relevance:core
+Investigative Direction: Obtain the Daily Mail article and identify the confidant; confirm the date and content of the Druski video.
+
+---
+
+**C-11452** Daily Mail Article Describes Host as Suggesting Low Ticket Sales
+
+Claim Timestamp: 00:21:34
+
+Claim: The host reads the Daily Mail passage calling her a far-right commentator who peddled conspiracy theories and who suggested Erika's no-show was due to low ticket sales.
+
+Transcript Snippet: Far-right commentator Candace Owens, who has peddled outlandish conspiracy theories about Charlie's death, suggested that Kirk's no-show was due to low ticket sales.
+
+Anchored Artifacts: A-1991.2
+Mentions: N-3, N-2
+Related Nodes: N-10070, N-10608
+Supports: C-2759
+Tags: relevance:context
+Investigative Direction: Obtain the Daily Mail article text and the earlier episode in which the host raised low ticket sales.
+
+---
+
+**C-11453** Daily Mail Insider Says Erika Was Putting on a Brave Face and Was Told It Looked Bad
+
+Claim Timestamp: 00:22:20
+
+Claim: The host reads the Daily Mail insider saying Erika was putting on a brave face after Charlie's death, that she agrees it was a bad look, and that everyone told her so but she did it anyway.
+
+Transcript Snippet: She says that she was putting on a face, a brave face, and that's why she was doing what she was doing. I agree that it was a bad look. Everyone told her it was a bad look, but she did it anyway.
+
+Anchored Artifacts: A-1991.2
+Mentions: N-2
+Related Nodes: N-10443, N-10070
+Tags: relevance:core
+Investigative Direction: Identify the insider; collect the advice Erika reportedly received about her public appearances.
+
+---
+
+**C-11454** Host Says Marx Also Posted a Video Announcing Death While Commenters Cited Glenn Beck's Stable Post
+
+Claim Timestamp: 00:23:43
+
+Claim: The host says Victor Marx also made a video announcing Charlie had died, and commenters pointed out that Glenn Beck had posted that Charlie was stable and that no one had confirmed the death.
+
+Transcript Snippet: And he did a video, and he announced that Charlie had died, and people in the comments were like, "But Glenn Beck posted he's stable.
+
+Anchored Artifacts: A-1984.1
+Mentions: N-348, N-242, N-1
+Related Nodes: N-10622
+Supports: C-2748
+Tags: relevance:core
+Investigative Direction: Locate the Marx video and comment thread and the Glenn Beck post, and compare their timestamps.
+
+---
+
+**C-11455** Host Says a Tipster's Buddy Supplied the Marx Screenshots in Eastern Time
+
+Claim Timestamp: 00:23:43
+
+Claim: The host says the person who sent the Marx post to her team sent it in Eastern Standard Time, from screenshots that a friend had given them.
+
+Transcript Snippet: the person who sent this to us, they sent it to us in Eastern Standard Time. Fortunately, they had it screenshots, their buddy sent it to them
+
+Anchored Artifacts: A-1984.1
+Mentions: N-348, N-3
+Related Nodes: N-10622
+Tags: relevance:core
+Investigative Direction: Obtain the original screenshots with metadata and confirm the timezone conversion to 1:13 p.m. Mountain.
+
+---
+
+**C-11456** Host Says Marx Posted About 50 Minutes After Charlie Was Shot
+
+Claim Timestamp: 00:25:01
+
+Claim: The host says Victor Marx announced Charlie's death less than an hour, about 50 minutes, after Charlie was shot, and asks who told him.
+
+Transcript Snippet: That's just 50 minutes after Charlie was shot. Who told him?
+
+Anchored Artifacts: A-1984.1
+Mentions: N-348, N-1
+Related Nodes: N-10622
+Supports: C-2748
+Tags: relevance:core
+Investigative Direction: Fix the shooting time (about 12:23 MT) against the Marx post metadata; ask Marx for his source.
+
+---
+
+**C-11457** Host Says Marx Posted About 1 Hour 27 Minutes Before Trump Announced Death
+
+Claim Timestamp: 00:25:01
+
+Claim: The host says the public did not officially learn of Charlie's death until President Trump announced it at 2:40 p.m. Mountain on X, which she computes as an hour and 27 minutes after Marx's post.
+
+Transcript Snippet: So, the public didn't officially find out until President Trump announced it um at 2:40 p. m. on X.
+
+Anchored Artifacts: A-1984.1
+Mentions: N-348, N-5, N-1
+Related Nodes: N-10622
+Supports: C-2748
+Tags: relevance:core
+Investigative Direction: Confirm the time of Trump's Truth Social or X announcement and the earliest confirmed public reports of death.
+
+---
+
+**C-11458** Host Says Netanyahu Commented Too Soon That Charlie Had Been Shot
+
+Claim Timestamp: 00:25:01
+
+Claim: The host says that, like Marx, Bibi Netanyahu knew a little too soon that Charlie had been shot and commented just before the President of the United States.
+
+Transcript Snippet: it's kind of like how Bebe knew a little too soon that he had been shot, commented too soon just before the President of the United States
+
+Anchored Artifacts: 
+Mentions: N-36, N-1
+Related Nodes: N-10622
+Tags: relevance:core
+Investigative Direction: Retrieve the time of Netanyahu's statement or post about the shooting and compare it with the first official US confirmation.
+
+---
+
+**C-11459** Host Says Marx's Post Time Should Be When Erika Learned Charlie Died
+
+Claim Timestamp: 00:25:01
+
+Claim: The host says 1:13 p.m. should be when Erika found out, after she got off the phone with the doctor, and that it is almost as though Marx knew along with Erika.
+
+Transcript Snippet: That should be when Erika found out, when she got off the phone with the doctor about.
+
+Anchored Artifacts: A-1984.1
+Mentions: N-2, N-348
+Related Nodes: N-10622
+Tags: relevance:core
+Investigative Direction: Obtain Erika's call logs and the hospital timeline for when she was told, and compare against the Marx post time.
+
+---
+
+**C-11460** Host Asks Viewers to Email Tips on Amir Safadi to More Tips Address
+
+Claim Timestamp: 00:28:57
+
+Claim: The host asks viewers who have evidence that Amir Safadi or Sarfati heard of the shooting first to email it to moretips@candaceowens.com so it can be plotted on the timeline.
+
+Transcript Snippet: but if it is, please do send us an email to more tips@candaceowens. com.
+
+Anchored Artifacts: A-3134.1
+Mentions: N-355, N-3
+Related Nodes: N-10622
+Supports: C-2760
+Tags: relevance:core
+Investigative Direction: Receive and verify any tip about Safadi or Sarfati; plot it on the minute-by-minute timeline.
+
+---
+
+**C-11461** Host Says Amir Safadi Is Involved With Churches and Pastors and She Thinks Is in the IDF
+
+Claim Timestamp: 00:28:57
+
+Claim: The host says Amir Safadi (or Sarfati) is very involved with churches and pastors alongside these figures, and that she thinks he is in the IDF.
+
+Transcript Snippet: That would be interesting cuz I think he is in the IDF.
+
+Anchored Artifacts: A-1992
+Mentions: N-355, N-3
+Related Nodes: N-10622
+Supports: C-2760
+Tags: relevance:core
+Investigative Direction: Verify who Amir Safadi or Sarfati is, his church roles and any IDF service, from public records and the tipster.
+
+---
+
+**C-11462** Host Says Marx Has Not Answered Her Messages Despite Media Appearances
+
+Claim Timestamp: 00:30:28
+
+Claim: The host says Victor Marx still has not answered her messages even though he went on a press round almost immediately.
+
+Transcript Snippet: Victor Marx still has not answered my messages, by the way, despite doing the rounds in the press almost immediately.
+
+Anchored Artifacts: 
+Mentions: N-348, N-3
+Related Nodes: N-10613
+Supports: C-2736
+Tags: relevance:core
+Investigative Direction: Preserve the host's message records to Marx and any reply; ask Marx's representatives to confirm.
+
+---
+
+**C-11463** Host Says Marx Wants to Bring His Wife Eileen but Not Corby Hall
+
+Claim Timestamp: 00:30:28
+
+Claim: The host says Marx claims to be willing to sit down with her but wants to bring his wife Eileen and does not want Corby Hall present.
+
+Transcript Snippet: one of the conditions is that he wants to be able to bring his wife, Eileen, but he does not want Corby Hall to be present
+
+Anchored Artifacts: 
+Mentions: N-348, N-350, N-349, N-3
+Related Nodes: N-10613
+Supports: C-2735
+Tags: relevance:core
+Investigative Direction: Obtain the message or public statement in which Marx set these conditions.
+
+---
+
+**C-11464** Marx Says in Interview Corby Was Depressed and He Taught Him to Punch
+
+Claim Timestamp: 00:31:20
+
+Claim: In the interview clip, Victor Marx says Corby Hall was super depressed, that he walked him around the training facility for hours, and that he took Corby into the training center and taught him how to punch on a bag.
+
+Transcript Snippet: I ended up taking him into the training center and teaching him how to punch
+
+Anchored Artifacts: A-1987.1
+Mentions: N-348, N-349
+Related Nodes: N-10613
+Supports: C-2750
+Tags: relevance:core
+Investigative Direction: Locate the full interview and compare with Corby Hall's account of the visit.
+
+---
+
+**C-11465** Host Says Corby Asserted Marx Wanted Guns Sold in Israel
+
+Claim Timestamp: 00:34:57
+
+Claim: The host says Corby Hall asserted that Victor Marx wanted guns sold in Israel and never said such a sale would be illegal.
+
+Transcript Snippet: Corby asserted that Victor Marx wanted guns sold in Israel.
+
+Anchored Artifacts: 
+Mentions: N-349, N-348
+Related Nodes: N-10601
+Tags: relevance:core
+Investigative Direction: Obtain Corby Hall's full account and any documents showing the Israel sale request.
+
+---
+
+**C-11466** Host Says Corby Declined and Cautioned Marx Against a Haitian Arms Deal as Illegal
+
+Claim Timestamp: 00:34:57
+
+Claim: The host says Corby Hall asserted that the Haitian arms deal would have been illegal, and that he declined and cautioned Marx against it.
+
+Transcript Snippet: He asserted that the Haitian arms deal would have been illegal since you are not allowed to do those sorts of transactions with Haiti.
+
+Anchored Artifacts: 
+Mentions: N-349, N-348
+Related Nodes: N-10602
+Tags: relevance:core
+Investigative Direction: Obtain Corby Hall's account and any written exchange about Haiti; ask federal export-control authorities whether any inquiry exists.
+
+---
+
+**C-11467** Marx Text Says the State of Colorado Might Want to Know Who Corby Is
+
+Claim Timestamp: 00:36:10
+
+Claim: In the message the host reads, Victor Marx tells Corby he does not know all of who Marx is and adds that the state of Colorado might want to know all of who Corby is.
+
+Transcript Snippet: I think the state of Colorado might want to know all of who you are.
+
+Anchored Artifacts: A-1988.1
+Mentions: N-348, N-349
+Related Nodes: N-10618
+Supports: C-2752
+Tags: relevance:core
+Investigative Direction: Authenticate the message with full thread metadata; ask Marx whether he sent it.
+
+---
+
+**C-11468** Marx Text Reply Says Corby Will Get a Paycheck for the Patent, Not Sell Units to the IDF
+
+Claim Timestamp: 00:37:17
+
+Claim: In the message the host reads, Marx replies that Corby will not be sending 1,000 units to anyone in the IDF and instead will get a paycheck for the patent and possibly his company and move on.
+
+Transcript Snippet: You won't be sending 1,000 units to anyone in the IDF. You will get a paycheck for the patent and possibly your company and then on to your next adventure.
+
+Anchored Artifacts: A-1988.3
+Mentions: N-348, N-349
+Related Nodes: N-10618, N-10600
+Supports: C-2752
+Tags: relevance:core
+Investigative Direction: Authenticate the thread; obtain any term sheet or patent-purchase offers connected to Fold AR.
+
+---
+
+**C-11469** Host Says Marx Knew of Charlie's Death Before Anyone Else Alongside Erika
+
+Claim Timestamp: 00:38:02
+
+Claim: The host says she wants to ask Marx how he knew, before anybody else and virtually at the same time as Erika Kirk, that Charlie Kirk had died.
+
+Transcript Snippet: How he knew, initially, before anybody else, virtually at the same time as Erika Kirk, that Charlie Kirk had died.
+
+Anchored Artifacts: A-1984.1
+Mentions: N-348, N-2, N-1
+Related Nodes: N-10622
+Supports: C-2748
+Tags: relevance:core
+Investigative Direction: Establish Marx's source through his own statement, call logs or the people who contacted him on September 10.
+
+---
+
+**C-11470** Host Offers to Host Marx Alone if He Refuses to Sit With Corby
+
+Claim Timestamp: 00:38:02
+
+Claim: The host says that if Marx will not agree to sit with Corby Hall she is happy to have Marx alone one-on-one, and she would also host his wife.
+
+Transcript Snippet: Otherwise, I am happy to have just Victor on my show alone one-on-one.
+
+Anchored Artifacts: 
+Mentions: N-348, N-349, N-3
+Related Nodes: N-10613
+Supports: C-2735
+Tags: relevance:core
+Investigative Direction: Track whether Marx accepts any of the offered formats.
+
+---
+
+**C-11471** Host Says Former Mossad Agent Claims Robert Maxwell Brought Epstein and Ghislaine Together
+
+Claim Timestamp: 00:39:19
+
+Claim: The host says that, if the former Mossad agent is to be believed, Robert Maxwell brought Jeffrey Epstein together with Ghislaine Maxwell and got Epstein involved in arms trafficking first.
+
+Transcript Snippet: he's the one who brought Epstein together with Ghislaine, got him involved in arms trafficking first.
+
+Anchored Artifacts: 
+Mentions: N-48, N-9, N-47, N-512
+Related Nodes: N-10023
+Tags: relevance:context
+Investigative Direction: Identify which former Mossad officer made the claim and where, and test it against Epstein and Maxwell records.
+
+---
+
+**C-11472** Host Says Ostrovsky Said Epstein Was Brought In Over Iran-Contra and Khashoggi
+
+Claim Timestamp: 00:39:19
+
+Claim: The host says Victor Ostrovsky said the same thing, that Epstein was initially brought in on the Iran-Contra deal in the 1980s, dealing with Adnan Khashoggi, and that it was later turned into a blackmail ring.
+
+Transcript Snippet: He was initially brought in regarding the Iran-Contra deal in the '80s.
+
+Anchored Artifacts: 
+Mentions: N-512, N-9, N-908
+Related Nodes: N-10023
+Supports: C-8207
+Tags: relevance:context
+Investigative Direction: Locate the Ostrovsky statement or interview and compare it with documented Epstein and Khashoggi dealings.
+
+---
+
+**C-11473** Host Says Robert Maxwell Was an Early Investor in Bain Capital With Seed Money
+
+Claim Timestamp: 00:40:19
+
+Claim: The host says Robert Maxwell, Ghislaine's father, was one of the early investors in Mitt Romney's Bain Capital and that the company was started with his seed money.
+
+Transcript Snippet: Robert Maxwell, Ghislaine's father, uh was one of the early investors into Bain Capital, Mitt Romney's company.
+
+Anchored Artifacts: A-1989
+Mentions: N-48, N-47, N-28
+Related Nodes: N-10619
+Supports: C-2754
+Tags: relevance:context
+Investigative Direction: Retrieve the 2012 Los Angeles Times article and Bain Capital early-investor records.
+
+---
+
+**C-11474** Host Says Maxwell Was Then Best Friends With Netanyahu and Romney and Netanyahu Were at BCG
+
+Claim Timestamp: 00:40:19
+
+Claim: The host says Robert Maxwell was best friends at that time with Netanyahu and that Mitt Romney and Netanyahu were at Boston Consulting Group while Romney was struggling to raise money for Bain Capital.
+
+Transcript Snippet: And then he's best friends at this time with Netanyahu? Mitt Romney, they're at Boston Consulting Group
+
+Anchored Artifacts: A-1989
+Mentions: N-48, N-36, N-28
+Related Nodes: N-10619, N-10574
+Tags: relevance:context
+Investigative Direction: Check biographical records on whether Netanyahu and Romney overlapped at BCG and on documented Maxwell-Netanyahu ties.
+
+---
+
+**C-11475** Host Says No Proof the Robinson Rifle Was Fired on September 10
+
+Claim Timestamp: 00:41:38
+
+Claim: The host says prosecutors have not yet proven that Tyler Robinson's weapon was even fired on September 10th.
+
+Transcript Snippet: They have not yet proven that Tyler Robinson's weapon was even fired on September 10th.
+
+Anchored Artifacts: A-1990
+Mentions: N-40, N-3
+Related Nodes: N-10621, N-10110
+Supports: C-2763
+Tags: relevance:core
+Investigative Direction: Review the ATF and state lab disclosures for residue, bore and swab testing of the rifle and of Robinson.
+
+---
+
+**C-11476** Host Theorizes Lance Twiggs Is a Federal Asset Who Obtained Robinson's Gun and Casings
+
+Claim Timestamp: 00:42:19
+
+Claim: The host says she believes Lance Twiggs is far more involved, is a federal asset, and as Robinson's roommate obtained Tyler Robinson's gun and casings earlier.
+
+Transcript Snippet: Lance Twiggs is way more involved. I believe he's a federal asset. I believe as his roommate, he got Tyler Robinson's gun.
+
+Anchored Artifacts: 
+Mentions: N-54, N-40, N-3
+Related Nodes: N-10598
+Tags: relevance:core
+Investigative Direction: Obtain Twiggs' statements, devices and any informant or agency relationship records; test through discovery.
+
+---
+
+**C-11477** Host Theorizes the Rifle Was Dropped Off the Day Before or on September 10
+
+Claim Timestamp: 00:42:19
+
+Claim: The host says she believes the gun was dropped off, maybe the day before or on September 10th, and then found, which is why bomb dogs did not detect it as recently fired.
+
+Transcript Snippet: maybe the day before or on September 10th, that gun was dropped off and then it was found.
+
+Anchored Artifacts: 
+Mentions: N-54, N-40
+Related Nodes: N-11054, N-10621, N-10598
+Supports: C-2763
+Tags: relevance:core
+Investigative Direction: Establish the rifle's chain of custody and location in the days before September 10; obtain bomb dog deployment records.
+
+---
+
+**C-11478** Host Says the ATF Summary Only Confirms What the Defense Filing Described
+
+Claim Timestamp: 00:43:08
+
+Claim: The host says the ATF summary verifies exactly what the defense laid out in its filing: that all the defense received was a summary report listing what was examined.
+
+Transcript Snippet: it just basically verifies exactly what the defense laid out in their filing, that all they got was this. They got a summary report
+
+Anchored Artifacts: A-1990
+Mentions: N-40
+Related Nodes: N-10620
+Tags: relevance:core
+Investigative Direction: Compare the defense filing with the ATF summary text and any discovery cover letters.
+
+---
+
+**C-11479** Host Says Rifle Had Robinson's Prints and Six Other Sets
+
+Claim Timestamp: 00:43:51
+
+Claim: The host says the rifle had Robinson's prints and also six sets of other prints, and asks whose they are.
+
+Transcript Snippet: I knew that it had his prints on it and it also had six sets of other prints.
+
+Anchored Artifacts: A-1990
+Mentions: N-40, N-3
+Related Nodes: N-10110
+Supports: C-1283
+Tags: relevance:core
+Investigative Direction: Obtain the latent print examination report and the identification of each print set.
+
+---
+
+**C-11480** Host Says Prosecutors Are Reviving Old FBI Tactics From After JFK
+
+Claim Timestamp: 00:44:37
+
+Claim: The host says the government wants to bring back old FBI tactics first put in place after JFK was shot, because they lied about that as well, and that microscopic comparison is part of this.
+
+Transcript Snippet: They want to bring back old FBI tactics that were first put in place after JFK was shot because they lied about that as well.
+
+Anchored Artifacts: A-1990
+Mentions: N-722, N-3
+Related Nodes: N-10620
+Tags: relevance:tangential
+Investigative Direction: Identify which comparison techniques the host means and any published validation or challenges to them.
+
+---
+
+**C-11481** Host Says Charlie Kirk Was Removed as a Barrier to the Iranian War
+
+Claim Timestamp: 00:44:37
+
+Claim: The host says it is her opinion that the government and foreign governments were involved in the assassination and that Charlie Kirk was removed as a barrier to the Iranian war.
+
+Transcript Snippet: and that Charlie Kirk was removed as a barrier to the Iranian war.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11128, N-10539
+Tags: relevance:core
+Investigative Direction: Establish Kirk's documented position on Iran and who inside the administration or its backers objected to it.
+
+---
+
+**C-11482** Host Says Dan Flood Did Not Even Do a Walk-Through
+
+Claim Timestamp: 00:48:20
+
+Claim: The host says that, as she is told by her sources, Dan Flood did not even do a walk-through after he failed to protect Charlie.
+
+Transcript Snippet: after he failed um to protect Charlie, didn't even as I am told from our sources, did not even do a walk-through.
+
+Anchored Artifacts: A-3137.1
+Mentions: N-276, N-1
+Related Nodes: N-10694
+Supports: C-5034
+Tags: relevance:core
+Investigative Direction: Obtain Flood's advance-work records and the accounts of UVU and TPUSA staff about any site walk-through.
+
+---
+
+**C-11483** Host Says Flood Only Cared About a Clean Exit Behind Charlie
+
+Claim Timestamp: 00:48:20
+
+Claim: The host says that in the lead-up to the event, all Dan Flood cared about was ensuring a clean exit behind Charlie.
+
+Transcript Snippet: All he cared about in the lead-up to that was ensuring that they had a clean exit behind Charlie.
+
+Anchored Artifacts: A-3137.1
+Mentions: N-276, N-1
+Related Nodes: N-10694
+Supports: C-5035
+Tags: relevance:core
+Investigative Direction: Obtain the event security plan and the vehicle staging and exit route documents.
+
+---
+
+**C-11484** Host Says TPUSA Ignored the School's Concerns About an Uncontrolled Traffic Area
+
+Claim Timestamp: 00:48:20
+
+Claim: The host says TPUSA ignored the security concerns expressed by the school that the event should not be held in an uncontrolled traffic area, and put Charlie there like a sitting duck.
+
+Transcript Snippet: They ignored the security concerns that were expressed by the school.
+
+Anchored Artifacts: A-3137.1
+Mentions: N-1
+Related Nodes: N-10646, N-10000
+Tags: relevance:core
+Investigative Direction: Obtain UVU and campus police correspondence on the site selection and any security recommendations.
+
+---
+
+**C-11485** Host Says Charlie's Messages That They Were Going to Kill Him Went to Flood
+
+Claim Timestamp: 00:48:20
+
+Claim: The host, answering a top viewer comment, says Dan Flood was receiving Charlie's messages saying they were going to kill him.
+
+Transcript Snippet: They were receiving his messages. Dan Flood was receiving his messages
+
+Anchored Artifacts: A-3137.1
+Mentions: N-276, N-1
+Related Nodes: N-10340
+Supports: C-5550
+Tags: relevance:core
+Investigative Direction: Obtain the night-before text thread from Kirk's or Flood's phone.
+
+---
+
+**C-11486** Host Says Erika Offered Dan Flood a Bonus and a Raise
+
+Claim Timestamp: 00:48:20
+
+Claim: The host says Dan Flood was offered a bonus and a raise by Erika after Charlie's death.
+
+Transcript Snippet: Dan Dan Flood gets offered a bonus and a raise from Erika.
+
+Anchored Artifacts: A-3137.1
+Mentions: N-276, N-2
+Related Nodes: N-10694
+Supports: C-5494
+Tags: relevance:core
+Investigative Direction: Obtain TPUSA compensation and payroll records for Flood and the date the bonus or raise was offered.
+
+---
+
+**C-11487** Host Says Coleman Said Erika Canceled Because of Druski
+
+Claim Timestamp: 00:50:57
+
+Claim: The host says Baron Coleman said on his show that Erika canceled the appearance because of Druski, since everyone was saying this is what the world thinks of her.
+
+Transcript Snippet: It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Drewski.
+
+Anchored Artifacts: 
+Mentions: N-337, N-608, N-2
+Related Nodes: N-10616
+Tags: relevance:context
+Investigative Direction: Review Coleman's broadcast and the Druski video timeline against the cancellation.
+
+---
+
+**C-11488** Commenter Says Ben Shapiro Blamed the Host and Her Viewers for Threats Against Erika
+
+Claim Timestamp: 00:52:02
+
+Claim: The host reads a viewer comment saying Ben Shapiro blamed the host and her viewers for the threats against Erika; she does not confirm it.
+
+Transcript Snippet: James the least writes, I saw Ben Shapiro blaming you and your viewers for the threats against Erika.
+
+Anchored Artifacts: A-3137.2
+Mentions: N-97, N-2, N-3
+Related Nodes: N-10237
+Tags: relevance:context
+Investigative Direction: Find the Shapiro statement the commenter refers to and confirm its wording and date.
+
+---
+
+**C-11489** Host Says Village Crazy Lady Thinks They Were Trying to Make Vance Look Bad
+
+Claim Timestamp: 00:54:42
+
+Claim: The host says Village Crazy Lady believes the episode was an attempt to make J.D. Vance look bad, and the host says she thinks Erika would dump him without question.
+
+Transcript Snippet: Village Crazy Lady is her handle, and she thinks that that they were trying to make J. D. Vance look bad.
+
+Anchored Artifacts: 
+Mentions: N-66, N-4, N-2, N-662
+Related Nodes: N-10616
+Tags: relevance:context
+Investigative Direction: Review the Village Crazy Lady posts and any donor reporting on 2028 preferences.
+
+---
+
+**C-11490** Host Says She Believes Ticket Sales Caused the Cancellation
+
+Claim Timestamp: 00:55:26
+
+Claim: The host says she truly believes the cancellation was about ticket sales, because Erika went to the venue, and that if it had been a setup she would not have boarded the plane.
+
+Transcript Snippet: But, I do truly believe that it was the ticket sales last night because she went in.
+
+Anchored Artifacts: A-1991.2
+Mentions: N-2, N-3
+Related Nodes: N-10608, N-10616
+Supports: C-2759
+Tags: relevance:core
+Investigative Direction: Obtain ticketing and attendance data for the Akins Ford Arena event.
+
+---
+
+**C-11491** Host Speculates Students Were Told It Would Pay to Attend
+
+Claim Timestamp: 00:55:26
+
+Claim: The host speculates that TPUSA probably had students running around saying it would pay to be there, to fill the venue at the last minute.
+
+Transcript Snippet: They probably had those students running around just saying like, "It will pay you to be there."
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10608
+Tags: relevance:context
+Investigative Direction: Seek student accounts of paid or incentivized attendance for the event.
 
 ---
 

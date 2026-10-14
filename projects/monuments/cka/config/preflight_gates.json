@@ -263,6 +263,31 @@
         "claim": "C-10580",
         "node": "N-40",
         "reason": "claim text: \"Tyler\" (Robinson)"
+      },
+      {
+        "claim": "C-11344",
+        "node": "N-11",
+        "reason": "claim text: \"Tyler\" on the plane passenger list (Bowyer)"
+      },
+      {
+        "claim": "C-11445",
+        "node": "N-14",
+        "reason": "snippet: \"as you know, Andrew\" (Vance addressing Kolvet on stage)"
+      },
+      {
+        "claim": "C-11528",
+        "node": "N-30",
+        "reason": "role reference: \"her husband\""
+      },
+      {
+        "claim": "C-11559",
+        "node": "N-30",
+        "reason": "role reference: \"her husband\""
+      },
+      {
+        "claim": "C-11753",
+        "node": "N-40",
+        "reason": "claim text: \"Tyler killed him\" (Robinson)"
       }
     ],
     "first_name_ok": [
@@ -564,6 +589,20 @@
           26
         ],
         "reason": "Karl Marx: named in passing in supplement claim C-9573 (ep26, a reading-list remark); node introduced in ep107. Incidental mention; accepted."
+      },
+      {
+        "id": "N-917",
+        "episodes": [
+          124
+        ],
+        "reason": "Miss Noble: named in existing ep124 claim C-3005; node minted in supplement batch 5 (ep155). Accepted rather than rewriting an immutable claim."
+      },
+      {
+        "id": "N-914",
+        "episodes": [
+          149
+        ],
+        "reason": "Blake Hariff: named in existing ep149 claims (C-3550..C-3552); node minted in supplement batch 5 (ep151). Accepted rather than rewriting immutable claims."
       }
     ]
   },

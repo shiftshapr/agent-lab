@@ -16,14 +16,14 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-11002, N-11003, N-11004, N-11005
-  - Hole-minted Nodes (reintro-ep004): N-184, N-10062, N-10076, N-10097, N-10139, N-10165, N-10201
+  - Hole-minted Nodes (reintro-ep004): N-184, N-10062, N-10076, N-10139, N-10201
   - Tip-minted Nodes (reintro-ep004): N-10898, N-10934
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-4838–C-4915
   - Artifact Families Introduced: A-1104, A-1105, A-1106, A-1107, A-1108, A-1109, A-1110
   - Claim Range: C-1175-C-1185, C-3736, C-3765
   - New Nodes Introduced: N-69, N-70, N-71, N-10038, N-10039, N-10040, N-10041, N-10042, N-10043, N-10044, N-10045, N-10046, N-10047
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-36, N-39, N-40, N-42, N-46, N-54, N-55, N-68, N-17, N-38, N-41, N-5, N-37, N-10000, N-10006, N-10013, N-10014, N-10018, N-10021, N-10022, N-10029, N-10034
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-36, N-39, N-40, N-42, N-46, N-54, N-55, N-68, N-17, N-38, N-41, N-5, N-37, N-10000, N-10006, N-10013, N-10014, N-10018, N-10021, N-10022, N-10029, N-10034, N-10097, N-10165
 
 ## 2. Executive Summary
 

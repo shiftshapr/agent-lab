@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 939a276fa7153675fa4c129ca613874ab4780ba8fb986b1877810b00297f327b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10544, N-10545, N-10546
-  - Reused Nodes Appearing: none
+  - New Nodes Introduced: N-10545, N-10546
+  - Reused Nodes Appearing: none, N-10544
   - Hole-minted Nodes (remap-ep80): N-153
   - (see registers)
 

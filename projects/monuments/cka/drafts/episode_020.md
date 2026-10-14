@@ -12,8 +12,8 @@
 - **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-193, N-194, N-195, N-196, N-197, N-199, N-200, N-201, N-202, N-10196, N-10197, N-10198, N-10199
-  - Reused Nodes Appearing: none
+  - New Nodes Introduced: N-193, N-194, N-195, N-196, N-199, N-200, N-201, N-202, N-10196, N-10197, N-10198, N-10199
+  - Reused Nodes Appearing: none, N-197
   - Hole-minted Nodes (remap-ep20): N-132
 
 The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record., N-11, N-132

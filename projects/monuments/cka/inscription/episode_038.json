@@ -692,6 +692,91 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3110",
+      "family_ref": "A-3110",
+      "bundle_name": "Host Account of Agency and Palace Responses Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3110.1",
+          "ref": "A-3110.1",
+          "description": "Host verbal account of what the Elysee Palace, the White House, the counterterrorism unit and the FBI did or did not say after her November 25 post (nothing shown)",
+          "related_claims": [
+            "C-10900",
+            "C-10901",
+            "C-10902",
+            "C-10904",
+            "C-10905",
+            "C-10906"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-11280"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3111",
+      "family_ref": "A-3111",
+      "bundle_name": "Viewer Comment on Kolvet and the List Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3111.1",
+          "ref": "A-3111.1",
+          "description": "Top viewer comment from the prior episode, read by the host, asking how Andrew Kolvet knew it was supposed to be Candace if the killer is Tyler Robinson",
+          "related_claims": [
+            "C-10941",
+            "C-10942"
+          ],
+          "related_nodes": [
+            "N-14",
+            "N-40",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:55:24",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3112",
+      "family_ref": "A-3112",
+      "bundle_name": "Host Reply to Eric Bolling Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3112.1",
+          "ref": "A-3112.1",
+          "description": "Host reads her own reply to Eric Bolling's apology email (the email text itself is already A-1474.1)",
+          "related_claims": [
+            "C-10944"
+          ],
+          "related_nodes": [
+            "N-289",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:56:59",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -1262,7 +1347,14 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10892",
+        "C-10903",
+        "C-10912",
+        "C-10922",
+        "C-10925",
+        "C-10939"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1278,7 +1370,60 @@
       "type": "person",
       "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10891",
+        "C-10892",
+        "C-10893",
+        "C-10894",
+        "C-10895",
+        "C-10896",
+        "C-10897",
+        "C-10898",
+        "C-10899",
+        "C-10900",
+        "C-10901",
+        "C-10902",
+        "C-10904",
+        "C-10905",
+        "C-10906",
+        "C-10907",
+        "C-10908",
+        "C-10909",
+        "C-10910",
+        "C-10911",
+        "C-10912",
+        "C-10913",
+        "C-10914",
+        "C-10915",
+        "C-10916",
+        "C-10917",
+        "C-10918",
+        "C-10921",
+        "C-10924",
+        "C-10925",
+        "C-10927",
+        "C-10928",
+        "C-10929",
+        "C-10930",
+        "C-10931",
+        "C-10932",
+        "C-10933",
+        "C-10934",
+        "C-10935",
+        "C-10936",
+        "C-10937",
+        "C-10938",
+        "C-10939",
+        "C-10940",
+        "C-10941",
+        "C-10942",
+        "C-10943",
+        "C-10944",
+        "C-10945",
+        "C-10946",
+        "C-10947",
+        "C-10948"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1294,7 +1439,22 @@
       "type": "person",
       "description": "Existing; called out Blake Neff via audio artifact (A-2401.1).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10891",
+        "C-10895",
+        "C-10899",
+        "C-10908",
+        "C-10917",
+        "C-10918",
+        "C-10927",
+        "C-10928",
+        "C-10929",
+        "C-10930",
+        "C-10931",
+        "C-10934",
+        "C-10940",
+        "C-10948"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1310,7 +1470,9 @@
       "type": "person",
       "description": "Existing; subject of Politico profile and Tucker Carlson criticism.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10942"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1326,7 +1488,9 @@
       "type": "person",
       "description": "Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives; producer sneak-in for Wilson debate recalled.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10937"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1357,6 +1521,624 @@
         "N-82",
         "N-3"
       ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-893",
+      "ref": "N-893",
+      "name": "Jean-Michel Trogneux",
+      "type": "person",
+      "description": "First named by the host at 00:00:01 in episode 38. The name the host uses for Brigitte Macron's alleged earlier male identity; the host asserts, without a document shown, that this person was born male. All claims here are the host's allegations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10891",
+        "C-10908",
+        "C-10929",
+        "C-10930",
+        "C-10947",
+        "C-10948"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11277",
+      "ref": "N-11277",
+      "name": "Macron Lawsuit Federal Setup Theory",
+      "type": "topic",
+      "description": "The host's theory that US federal agencies, with France and Israel, pressured or arranged the Macron defamation suit in Delaware to stop her research, including a federal call asking her to stop.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10927",
+        "C-10929",
+        "C-10936"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11278",
+      "ref": "N-11278",
+      "name": "Ace Partners",
+      "type": "organization",
+      "description": "Tel Aviv firm the host names as the second largest shareholder of Satys, investing in aerospace and defense startups with a focus on Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10932",
+        "C-10933"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11279",
+      "ref": "N-11279",
+      "name": "UVU Attendee Recognition and Media Avoidance Question",
+      "type": "topic",
+      "description": "The host's account that UVU students did not recognize attendees at the September 10 event, that it was advertised late, and that national media avoided UVU students.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10909",
+        "C-10910",
+        "C-10945"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11280",
+      "ref": "N-11280",
+      "name": "Agency and Palace Responses to the French Plot Report",
+      "type": "topic",
+      "description": "What the Elysee Palace, the White House, counterterrorism and the FBI did or did not say to the host after her November 25 post and reports.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10900",
+        "C-10901",
+        "C-10902",
+        "C-10904",
+        "C-10905",
+        "C-10906"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "The host says the White House confirmed her message reached Trump's desk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10904"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "The host recounts his alleged hospital call telling her and Tucker Carlson to shut up because they were on a list.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10941",
+        "C-10942"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Named by the host in the Kolvet hospital call account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10941",
+        "C-10942"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10892",
+        "C-10909",
+        "C-10910",
+        "C-10945",
+        "C-10946"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10145",
+      "ref": "N-10145",
+      "name": "UVU Campus Familiarity Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10909"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10902",
+        "C-10905",
+        "C-10906"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10075",
+      "ref": "N-10075",
+      "name": "White House",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10901",
+        "C-10902",
+        "C-10904"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10088",
+      "ref": "N-10088",
+      "name": "Candace Owens FBI/CIA Reporting Incident",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10902"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10150",
+      "ref": "N-10150",
+      "name": "Utah FBI Personnel Replacement",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10906"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10316",
+      "ref": "N-10316",
+      "name": "France / Macron Couple Involvement in Kirk Assassination",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10892",
+        "C-10893",
+        "C-10894",
+        "C-10895",
+        "C-10896",
+        "C-10897"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10273",
+      "ref": "N-10273",
+      "name": "Operation Valhalla – Charlie Kirk Assassination Timeline Connection",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10907"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10279",
+      "ref": "N-10279",
+      "name": "Camp Ripley Training Center",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10907"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10277",
+      "ref": "N-10277",
+      "name": "Minot Air Force Base",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10907"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10204",
+      "ref": "N-10204",
+      "name": "Egyptian Air Force SU-BTT Provo Mission Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10912"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10266",
+      "ref": "N-10266",
+      "name": "SUBTT Wilmington Visit Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10912"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10912"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11008",
+      "ref": "N-11008",
+      "name": "Satis",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10913",
+        "C-10914",
+        "C-10932"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10269",
+      "ref": "N-10269",
+      "name": "Wilmington Airport Hangar Federal Connection",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10913",
+        "C-10915"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11011",
+      "ref": "N-11011",
+      "name": "Macron Cease and Desist and Legal Timeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10914"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10265",
+      "ref": "N-10265",
+      "name": "920 North King Street / 1 Rodney Square Federal Facility",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10915",
+        "C-10916",
+        "C-10917",
+        "C-10918"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10270",
+      "ref": "N-10270",
+      "name": "Macron Defamation Lawsuit Delaware Venue Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10917",
+        "C-10918",
+        "C-10929",
+        "C-10936"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10015",
+      "ref": "N-10015",
+      "name": "Mossad",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10928"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10001",
+      "ref": "N-10001",
+      "name": "MK Ultra",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10931"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10116",
+      "ref": "N-10116",
+      "name": "MK Ultra Continuity Theory",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10931"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10003",
+      "ref": "N-10003",
+      "name": "Charlie-Candace Friendship Continuity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10939"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10938"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10059",
+      "ref": "N-10059",
+      "name": "PBD Podcast",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10939"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10222",
+      "ref": "N-10222",
+      "name": "Israeli Cell Phone Presence on 9/10",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10946"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11010",
+      "ref": "N-11010",
+      "name": "Lay-Low List Warning",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10941",
+        "C-10942"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1774,7 +2556,1304 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10891",
+      "ref": "C-10891",
+      "label": "Host Says Brigitte Macron Was Born Male and Nation-States Collude to Hide It",
+      "claim": "The host asserts that Brigitte Macron, whom she calls Jean-Michel Trogneux, was born male and has been protected so thoroughly that multiple nation-states collude to hide it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:00:30",
+      "investigative_direction": "Obtain Brigitte Macron's birth and civil records and the Trogneux family registry entries; the host presents no document in this episode.",
+      "transcript_snippet": "Imagine being so protected that you force multiple nation-states to collude to hide the obvious fact that you were born with a penis, right?",
+      "supports_claim_refs": [
+        "C-1507"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-82",
+        "N-893"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10892",
+      "ref": "C-10892",
+      "label": "Host Says French Legion Was Apparently on the Ground at UVU on September 10",
+      "claim": "The host says she has learned that France apparently paid for her assassination and that the French Foreign Legion was apparently involved and on the ground at UVU on the day of Charlie Kirk's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10316",
+        "N-10290",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:20",
+      "investigative_direction": "Ask the French Ministry of the Armed Forces and Utah authorities whether any Foreign Legion personnel entered the United States for or around September 10, 2025; obtain UVU event staffing and credential lists.",
+      "transcript_snippet": "and that the French Foreign Legion was apparently involved and on the ground at UVU on the day of Charlie Kirk's assassination.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10893",
+      "ref": "C-10893",
+      "label": "Tweet Says Source Claims US Leaders Are Aware of the Plot",
+      "claim": "The host reads her November 25 post saying she does not know who in the American government can be trusted because the source claims that US leaders are aware of the alleged plot.",
+      "anchored_artifacts": [
+        "A-1461.1"
+      ],
+      "related_nodes": [
+        "N-10316"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:50",
+      "investigative_direction": "Obtain the host's original post and any record of what the source told her about US government awareness; ask the host which US officials she contacted.",
+      "transcript_snippet": "I do not know who in the American government can be trusted since this source claims that our leaders are aware",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10894",
+      "ref": "C-10894",
+      "label": "Tweet Says Journalist Xavier Poussard's Life Is Also at Risk",
+      "claim": "The host reads her November 25 post saying journalist Xavier Poussard's life is also at risk from the same alleged plot.",
+      "anchored_artifacts": [
+        "A-1461.1"
+      ],
+      "related_nodes": [
+        "N-10316"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:55",
+      "investigative_direction": "Ask Poussard whether he received threats or any warning in November 2025 and whether he reported them to French or US authorities.",
+      "transcript_snippet": "Journalist Xavier Poussard's life is also at risk.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-290"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10895",
+      "ref": "C-10895",
+      "label": "Host Says the Alleged Payment Was a $1.5 Million Paper Trail She Cannot Verify",
+      "claim": "The host says she told the public there was a paper trail showing Macron allegedly paid $1.5 million for her assassination, and stresses that the amount is alleged until she can see the transfer in the accounts herself.",
+      "anchored_artifacts": [
+        "A-1461.1"
+      ],
+      "related_nodes": [
+        "N-10316"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:20",
+      "investigative_direction": "Ask the host's source for the transfer records; any bank or transfer document would confirm or refute the amount and the payer.",
+      "transcript_snippet": "I said there was a paper trail that Macron allegedly paid $1.5 million",
+      "supports_claim_refs": [
+        "C-1781"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-387",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10896",
+      "ref": "C-10896",
+      "label": "Host Says Two Assassins Were Hired, One Israeli and One French-Canadian Woman",
+      "claim": "The host says her source said two assassins were hired, an Israeli man and a French-Canadian woman.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10316"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:55",
+      "investigative_direction": "Ask the host's source to identify the two individuals; check French and Canadian travel and law enforcement records only if a name is supplied.",
+      "transcript_snippet": "Two assassins were hired, one Israeli, one French-Canadian woman, okay?",
+      "supports_claim_refs": [
+        "C-1781"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10897",
+      "ref": "C-10897",
+      "label": "Host Says the Money Ran Through the Club des Fontes",
+      "claim": "The host says she also stated that the alleged payment ran through an elite gentlemen's club she calls the club des Fontes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10316"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:05",
+      "investigative_direction": "Identify the club the host means (the name is as transcribed) and request membership or banking records from the host's source.",
+      "transcript_snippet": "I also said that the money ran through the elite gentlemen's club des Fontes.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10898",
+      "ref": "C-10898",
+      "label": "Host Says Her Post Drew Over 100,000 Retweets and 45 Million Impressions",
+      "claim": "The host says her X post about the alleged French plot received over 100,000 retweets and 45 million impressions.",
+      "anchored_artifacts": [
+        "A-1461.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:50",
+      "investigative_direction": "Check the post's public engagement counts on X or archived copies.",
+      "transcript_snippet": "the tweet alone had over 100,000 retweets and 45 million impressions on X alone",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10899",
+      "ref": "C-10899",
+      "label": "Host Says the Macrons Paid a Private Investigator to Test Whether She Colluded With State Actors",
+      "claim": "The host says the Macrons hired a private investigator to see whether she was colluding with other state actors, and that they insinuated she might be working with Russia.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:20",
+      "investigative_direction": "Look for the investigator's engagement in the Delaware litigation record or discovery filings; ask the host's lawyers for the basis of the claim.",
+      "transcript_snippet": "they even hired a private investigator to try to see if I was colluding with other state actors.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82",
+        "N-387"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10900",
+      "ref": "C-10900",
+      "label": "Host Says the Elysee Palace Issued No Response in the Week After Her Post",
+      "claim": "The host says that a full week after her announcement the Elysee Palace had issued no official response.",
+      "anchored_artifacts": [
+        "A-3110.1"
+      ],
+      "related_nodes": [
+        "N-11280"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:00",
+      "investigative_direction": "Search Elysee communique archives and French press for any reaction between November 25 and December 1, 2025.",
+      "transcript_snippet": "It's now been a full week since I made that announcement. And here is the official response issued by the Élysée Palace.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-387"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10901",
+      "ref": "C-10901",
+      "label": "Host Presents the White House Response After a Week as Empty",
+      "claim": "The host challenges critics to press the White House for a response and, after a week, presents the official White House response as nothing; the point is implied rather than stated outright.",
+      "anchored_artifacts": [
+        "A-3110.1"
+      ],
+      "related_nodes": [
+        "N-10075",
+        "N-11280"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:00",
+      "investigative_direction": "Check White House press briefings and statements between November 25 and December 1, 2025 for any comment on the host's claim.",
+      "transcript_snippet": "Press the White House for a response, right? The White House is the ball's very firmly in their court and a week later, this is the official White House response.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10902",
+      "ref": "C-10902",
+      "label": "Host Says She Reported the Alleged Plot to the White House, FBI and Counterterrorism",
+      "claim": "The host says she reported the alleged plot to the White House, the FBI and a counterterrorism unit, and that there is a paper trail.",
+      "anchored_artifacts": [
+        "A-3110.1"
+      ],
+      "related_nodes": [
+        "N-10075",
+        "N-10014",
+        "N-10088",
+        "N-11280"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:30",
+      "investigative_direction": "Request the host's report records (dates, recipients, channels) and FOIA the FBI and counterterrorism intake logs for late November 2025.",
+      "transcript_snippet": "Did I report it to the White House? Of course, I reported it to the White House. Did I report to the FBI? Of course, I reported it to the FBI.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10903",
+      "ref": "C-10903",
+      "label": "Durov Post Says Charlie Called for 300% Tariffs on France Until Charges Against Durov Were Dropped",
+      "claim": "In the Pavel Durov post the host reads, Durov says Charlie Kirk called for 300% tariffs on France until the charges against Durov were dropped.",
+      "anchored_artifacts": [
+        "A-1462.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:10:50",
+      "investigative_direction": "Find Charlie Kirk's original statement or post about tariffs on France over Durov's arrest and confirm the 300% figure and date.",
+      "transcript_snippet": "Charlie even called for 300% tariffs on France until the charges against me were dropped.",
+      "supports_claim_refs": [
+        "C-1782"
+      ],
+      "mentions_person_refs": [
+        "N-297",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10904",
+      "ref": "C-10904",
+      "label": "Host Says the White House Confirmed Her Message Reached Trump's Desk",
+      "claim": "The host says she heard back from the White House and from the counterterrorism unit, and that the White House confirmed her message had been delivered to Trump's desk.",
+      "anchored_artifacts": [
+        "A-3110.1"
+      ],
+      "related_nodes": [
+        "N-10075",
+        "N-11280"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:20",
+      "investigative_direction": "Ask the host for the White House reply and its date; request the correspondence record from the White House.",
+      "transcript_snippet": "I did hear back from the White House confirming that that message had been delivered on Trump's desk",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10905",
+      "ref": "C-10905",
+      "label": "Host Says the FBI Never Replied to Her Text About the Foreign Legion Claim",
+      "claim": "The host says the FBI did not respond to a text message she sent to someone very high up, and that she did not send a formal email.",
+      "anchored_artifacts": [
+        "A-3110.1"
+      ],
+      "related_nodes": [
+        "N-10014",
+        "N-11280"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:40",
+      "investigative_direction": "Ask the host who received the text and when; FBI records of any contact from the host in late November 2025 would confirm or refute it.",
+      "transcript_snippet": "but the FBI left me on red.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10906",
+      "ref": "C-10906",
+      "label": "Host Says Not Even the Utah FBI Branch Called Her",
+      "claim": "The host says no phone calls have come to her even from the FBI's Utah branch about the French Foreign Legion claim.",
+      "anchored_artifacts": [
+        "A-3110.1"
+      ],
+      "related_nodes": [
+        "N-10014",
+        "N-10150",
+        "N-11280"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:10",
+      "investigative_direction": "Ask the FBI Salt Lake City field office whether anyone attempted to contact the host after November 25, 2025.",
+      "transcript_snippet": "No phone calls even from Utah's FBI branch have come in to me either.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10907",
+      "ref": "C-10907",
+      "label": "Host Says Operation Valhalla Was a Camp Ripley Exercise With Civilians and Minot AFB Personnel",
+      "claim": "The host says a joint exercise with civilians, including military men from Minot Air Force Base, took place at Camp Ripley in Minnesota until August 27 and was known as Operation Valhalla.",
+      "anchored_artifacts": [
+        "A-1477.1"
+      ],
+      "related_nodes": [
+        "N-10273",
+        "N-10279",
+        "N-10277",
+        "N-10290"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:30",
+      "investigative_direction": "Obtain Minnesota National Guard and Air Force press releases on Operation Valhalla at Camp Ripley, with dates, units and civilian participants.",
+      "transcript_snippet": "It was a joint exercise with civilians, which included um uh military men from the Minot Air Force Base.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10908",
+      "ref": "C-10908",
+      "label": "Host Says the Military Will Not Release Jean-Michel Trogneux's File",
+      "claim": "The host says the military will not release the military file of Jean-Michel Trogneux and that what he was doing in the military is unknown.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:10",
+      "investigative_direction": "Obtain any French military records request and denial concerning Jean-Michel Trogneux; the host cites no specific request here.",
+      "transcript_snippet": "the military won't release your file, and we don't know what you were doing in the military as Jean-Michel Trogneux.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82",
+        "N-893"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10909",
+      "ref": "C-10909",
+      "label": "Host Says UVU Students Did Not Recognize Anyone at the Event and It Was Advertised Late",
+      "claim": "The host says UVU students who attended felt they did not recognize anybody there, and that the event was advertised very late in the day before many unfamiliar adults appeared.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10145",
+        "N-11279"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:00",
+      "investigative_direction": "Interview attending UVU students and compare the event announcement timing with TPUSA's social posts and UVU event records.",
+      "transcript_snippet": "the UVU students who attended said that they felt like they didn't recognize anybody that was there.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10910",
+      "ref": "C-10910",
+      "label": "Host Says National Media Seemed to Avoid Interviewing UVU Students",
+      "claim": "The host says national media interviewed many adults at the event but appeared to avoid interviewing UVU students who had noticed oddities that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-11279"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:30",
+      "investigative_direction": "Survey national coverage from September 10-14, 2025 for on-record interviews with UVU students and compare to adults interviewed.",
+      "transcript_snippet": "It looks like they're almost trying not to interview any UVU students, right?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10911",
+      "ref": "C-10911",
+      "label": "Host Says the Legion Has 12 Known Regiments and Six Got New Commanders",
+      "claim": "The host says her team found the French Foreign Legion has 12 known regiments, so replacing the commanders of six means roughly half the leadership changed in mid-August.",
+      "anchored_artifacts": [
+        "A-1479.1"
+      ],
+      "related_nodes": [
+        "N-10292",
+        "N-10290"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:45",
+      "investigative_direction": "Check the Legion's regiment list and the August 2025 command-change notices to confirm the regiment count and the six units.",
+      "transcript_snippet": "we found that they have 12 regiments that are known of, and you're telling me that they gutted leadership of six",
+      "supports_claim_refs": [
+        "C-1788"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10912",
+      "ref": "C-10912",
+      "label": "Host Says the Egyptian Plane SUBTT Left Provo on the Morning of the Assassination for Wilmington",
+      "claim": "The host says the Egyptian plane SUBTT, her yellow plane, departed Provo on the morning of Charlie Kirk's assassination and flew to Wilmington, Delaware.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10204",
+        "N-10266",
+        "N-10074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:20",
+      "investigative_direction": "Pull SU-BTT ADS-B and FAA flight records for September 10, 2025 for departure time, origin and destination.",
+      "transcript_snippet": "we were trying to track the Egyptian plane, SUBTT, our yellow plane, which departed on the morning of Charlie Kirk's assassination from Provo",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10913",
+      "ref": "C-10913",
+      "label": "Host Says Satys Injected $1.5 Million Ostensibly to Paint Planes in the Wilmington Hangar",
+      "claim": "The host says Satys, a French company, injected $1.5 million ostensibly to paint planes at the Wilmington hangar under a lease she considers too short for that purpose.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11008",
+        "N-10269"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:35",
+      "investigative_direction": "Obtain the hangar lease, Delaware filings and Satis investment announcements to confirm the amount, term and stated purpose.",
+      "transcript_snippet": "Satys, which is a French company, injected $1.5 million ostensibly to paint planes, okay, in Wilmington, Delaware.",
+      "supports_claim_refs": [
+        "C-4991"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10914",
+      "ref": "C-10914",
+      "label": "Host Says Satys Signed Off the Same Week She Was Sent the Cease and Desist",
+      "claim": "The host says Satys signed off on the hangar deal in the very week she was sent a cease and desist, although she had not been speaking about Brigitte Macron at that time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11008",
+        "N-11011"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:50",
+      "investigative_direction": "Compare the cease-and-desist date with the Satis announcement and lease execution dates in public filings.",
+      "transcript_snippet": "they sign off on that the very week that I get sent this cease and desist",
+      "supports_claim_refs": [
+        "C-4990"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10915",
+      "ref": "C-10915",
+      "label": "Host Says a Foreign Dignitary Was Escorted From the Hangar to 920 North King Street",
+      "claim": "The host says a source told her a foreign dignitary was escorted from the Wilmington hangar to 920 North King Street.",
+      "anchored_artifacts": [
+        "A-1469.2"
+      ],
+      "related_nodes": [
+        "N-10265",
+        "N-10284",
+        "N-10269"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:30",
+      "investigative_direction": "Identify the source's basis (witness, video or vehicle records) and check airport ground-transport and security logs for September 10, 2025.",
+      "transcript_snippet": "a foreign dignitary was escorted, right, from that hangar to 920 North King Street in Wilmington, Delaware",
+      "supports_claim_refs": [
+        "C-9807"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10916",
+      "ref": "C-10916",
+      "label": "Host Says She Confirmed Three Federal Agencies Share the 920 North King Street Building",
+      "claim": "The host says she learned and confirmed that three federal agencies work together in one building at 920 North King Street, and that the internet and the feds cannot debunk it.",
+      "anchored_artifacts": [
+        "A-1469.2"
+      ],
+      "related_nodes": [
+        "N-10265",
+        "N-10284"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:50",
+      "investigative_direction": "Review GSA lease and federal tenant records for 920 North King Street to identify which agencies occupy it.",
+      "transcript_snippet": "a place that we learned and confirmed had three federal agencies working together in one building.",
+      "supports_claim_refs": [
+        "C-1790"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10917",
+      "ref": "C-10917",
+      "label": "Host Says Her Delaware Filing Attorneys Are Housed at 920 North King Street",
+      "claim": "The host says 920 North King Street houses the attorneys filing her paperwork in the Brigitte lawsuit, and that Delaware requires a locally admitted firm to file even if a party has its own lawyers.",
+      "anchored_artifacts": [
+        "A-1469.2"
+      ],
+      "related_nodes": [
+        "N-10265",
+        "N-10270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:00",
+      "investigative_direction": "Check the Delaware docket for counsel of record and their addresses.",
+      "transcript_snippet": "it is also a place which houses the attorneys that are filing my paperwork in the Brigitte lawsuit.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10918",
+      "ref": "C-10918",
+      "label": "Host Says Brigitte Macron's Lawyers Are Directly Across the Street From That Firm",
+      "claim": "The host says Brigitte Macron's lawyers in her lawsuit are located directly across the street from the firm filing the host's paperwork, and calls this confirmed.",
+      "anchored_artifacts": [
+        "A-1470.1"
+      ],
+      "related_nodes": [
+        "N-10265",
+        "N-10270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:20",
+      "investigative_direction": "Compare counsel-of-record addresses on the Delaware docket for both parties.",
+      "transcript_snippet": "Brigitte's lawyers in my lawsuit are directly across the street from that firm, okay? Confirmed.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10919",
+      "ref": "C-10919",
+      "label": "Source Email Says the Bracebridge Complex Spans Over a Million Square Feet and Was Built for Maryland Bank",
+      "claim": "The host reads a source email saying the Bracebridge Complex at 1100 North King Street spans over 1 million square feet and was built as Maryland Bank's headquarters, used by that bank from 1995 until Bank of America acquired it in 2006.",
+      "anchored_artifacts": [
+        "A-1469.3"
+      ],
+      "related_nodes": [
+        "N-10285"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:40",
+      "investigative_direction": "Check New Castle County property records and Wilmington commercial real estate coverage for the complex's size, builder and ownership history.",
+      "transcript_snippet": "It spans over 1 million square feet."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10920",
+      "ref": "C-10920",
+      "label": "Source Email Says Du Pont Originally Manufactured Kevlar and Has Ties to Both Militaries",
+      "claim": "The host reads a source email saying the du Pont family has extreme ties to the American and French military and that du Pont originally manufactured Kevlar.",
+      "anchored_artifacts": [
+        "A-1469.3"
+      ],
+      "related_nodes": [
+        "N-10287"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:40",
+      "investigative_direction": "Check DuPont corporate history for Kevlar's development; the military-tie assertion is general and would need specific contracts.",
+      "transcript_snippet": "they are the original manufacturers of Kevlar",
+      "mentions_person_refs": [
+        "N-295"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10921",
+      "ref": "C-10921",
+      "label": "Host Says 500 North Delaware Avenue Is Also Somehow Owned by France",
+      "claim": "The host says 500 North Delaware Avenue, which people on X said housed the FBI, is also somehow owned by France.",
+      "anchored_artifacts": [
+        "A-1469.6"
+      ],
+      "related_nodes": [
+        "N-10289"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:10",
+      "investigative_direction": "Check New Castle County deed and tax records for the owner of 500 Delaware Avenue.",
+      "transcript_snippet": "And that is also somehow owned by France.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10922",
+      "ref": "C-10922",
+      "label": "Source Email Says the Law Firm at 500 Delaware Avenue Has Many French-Linked Employees",
+      "claim": "The host reads a source email saying a law firm that moved into 500 Delaware Avenue a few months before Charlie Kirk's assassination has many employees fluent in French or connected to France, with the firm in Suite 200 below the FBI in Suite 300.",
+      "anchored_artifacts": [
+        "A-1469.6"
+      ],
+      "related_nodes": [
+        "N-10289"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:30",
+      "investigative_direction": "Identify the firm (the transcript renders it as MGM) and check its lease date and staff biographies.",
+      "transcript_snippet": "MGM and M has many employees that are either fluent in French or connected or are connected to France altogether.",
+      "supports_claim_refs": [
+        "C-1796"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10923",
+      "ref": "C-10923",
+      "label": "Source Email Says Incyte Owns the Construction Site Across From 920 North King Street",
+      "claim": "The host reads a source email saying that, with no public record of the project otherwise, the global biopharmaceutical company Incyte owns the construction site with the long red crane.",
+      "anchored_artifacts": [
+        "A-1469.4"
+      ],
+      "related_nodes": [
+        "N-10286",
+        "N-10285"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:00",
+      "investigative_direction": "Check Delaware permits and Incyte filings for ownership of the 1100 North King Street site.",
+      "transcript_snippet": "apparently a global biopharmaceutical company called Incyte owns it, okay?"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10924",
+      "ref": "C-10924",
+      "label": "Host Says Construction Promised for About a Year Has Taken About Two",
+      "claim": "The host says a May 2024 article stated construction was expected to take about a year, but it has been about two years and the building top is still a skeleton, so she believes the site is being used to buy time.",
+      "anchored_artifacts": [
+        "A-1469.4"
+      ],
+      "related_nodes": [
+        "N-10286",
+        "N-10285"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:30",
+      "investigative_direction": "Review the May 2024 article and Wilmington building permits for the project schedule and any stated purpose.",
+      "transcript_snippet": "On May 2024, they say that construction is expected to take about a year.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10925",
+      "ref": "C-10925",
+      "label": "Host Says Hopineau Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death",
+      "claim": "The host says Hopineau is directly responsible for the Bracebridge construction and finalized the deal, and that a few months before Charlie Kirk's death he switched roles and began laying low.",
+      "anchored_artifacts": [
+        "A-1469.4"
+      ],
+      "related_nodes": [
+        "N-10286"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:50",
+      "investigative_direction": "Check Incyte SEC filings for the CEO-to-advisor transition date and the Bracebridge acquisition approvals.",
+      "transcript_snippet": "He is directly responsible for this construction at Bracebridge, and he was the one that finalized the deal.",
+      "supports_claim_refs": [
+        "C-1794"
+      ],
+      "mentions_person_refs": [
+        "N-293",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10926",
+      "ref": "C-10926",
+      "label": "Host Says Incyte Is Plugged Into Federal Medical Supply Chains Including VA Systems",
+      "claim": "The host says Incyte is plugged directly into the federal medical supply chains, which include VA systems that interface with military health care.",
+      "anchored_artifacts": [
+        "A-1469.4"
+      ],
+      "related_nodes": [
+        "N-10286"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:30",
+      "investigative_direction": "Check federal procurement records (USAspending, VA contracts) for Incyte.",
+      "transcript_snippet": "is also plugged directly into the federal medical supply chains, which include our VA systems"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10927",
+      "ref": "C-10927",
+      "label": "Host Says a Federal Government Call Asked Her to Stop Speaking About Brigitte",
+      "claim": "The host says she got a call from the federal government asking her to stop speaking about Brigitte Macron, which she now sees as possibly carrying an implicit threat.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11277"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:20",
+      "investigative_direction": "Identify the callers and dates through the host's phone records; compare with the February 25-26 calls she previously described.",
+      "transcript_snippet": "I get a call from federal government asking me to stop speaking about Brigitte.",
+      "supports_claim_refs": [
+        "C-4999",
+        "C-5000"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10928",
+      "ref": "C-10928",
+      "label": "Host Says a Tip Suggested Brigitte Might Be a Mossad Asset",
+      "claim": "The host says she had received a tip, which her team was working to confirm during Becoming Brigitte season 2, that Brigitte Macron might be an asset to the Mossad.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10015"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:50",
+      "investigative_direction": "Ask the host for the tip's origin and any corroboration; no document is shown in this episode.",
+      "transcript_snippet": "Brigitte might be an asset to the Mossad, which is what we had received a tip regarding",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10929",
+      "ref": "C-10929",
+      "label": "Host Says She Believes Federal Agencies Set Her Up With the Delaware Lawsuit",
+      "claim": "The host says she feels she was set up by the federal government in the lawsuit, with federal agencies possibly colluding to end her research into who Brigitte Macron was, and that France, the United States and Israel are all implicated.",
+      "anchored_artifacts": [
+        "A-1476.1"
+      ],
+      "related_nodes": [
+        "N-11277",
+        "N-10270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:30",
+      "investigative_direction": "Review the Delaware docket for the timing of filing and any federal involvement; the host offers no direct evidence of agency coordination.",
+      "transcript_snippet": "I feel like I was set up by the federal government in terms of this lawsuit.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82",
+        "N-893"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10930",
+      "ref": "C-10930",
+      "label": "Host Says Brigitte Said He Was in America in the 1960s for the Moon Landing",
+      "claim": "The host says Brigitte Macron says Jean-Michel Trogneux was in America in the 1960s at least for the moon landing, with no details given, and that she believes this was a psychological operation.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:50",
+      "investigative_direction": "Find the original statement by Brigitte Macron about being in America and the moon landing and check its wording.",
+      "transcript_snippet": "because Brigitte says he was in America, we know Brigitte was in America in the '60s at least for the moon landing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82",
+        "N-893"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10931",
+      "ref": "C-10931",
+      "label": "Host Says Macron's Lawsuit Mentions MK Ultra 18 Times Because Brigitte's Birthday Matches the Program",
+      "claim": "The host says MK Ultra is mentioned 18 times in the lawsuit although her filing only noted that Brigitte's alleged fake birthday is the same day as the MK Ultra program, and she suspects Brigitte's involvement in psychological operations.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10001",
+        "N-10116"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:20",
+      "investigative_direction": "Count MK Ultra references in the complaint and compare Brigitte Macron's stated birth date with the program's start date.",
+      "transcript_snippet": "the mentioning of MK Ultra 18 times absurdly in my lawsuit",
+      "supports_claim_refs": [
+        "C-5019"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10932",
+      "ref": "C-10932",
+      "label": "Host Says Ace Partners Is the Second Largest Shareholder of Satys",
+      "claim": "The host says Ace Partners, a Tel Aviv firm, is the second largest shareholder of Satys.",
+      "anchored_artifacts": [
+        "A-1472.1"
+      ],
+      "related_nodes": [
+        "N-11008",
+        "N-11278"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:10",
+      "investigative_direction": "Check Satys shareholder disclosures and Ace Partners' portfolio page.",
+      "transcript_snippet": "They are the second largest shareholder to Satys.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10933",
+      "ref": "C-10933",
+      "label": "Host Says Ace Partners Invests Only in Companies That Benefit Israel",
+      "claim": "The host says Ace Partners explicitly states on its website that it invests only in companies and organizations that benefit Israel, in aerospace and defense startups at Series A and B stages.",
+      "anchored_artifacts": [
+        "A-1472.1"
+      ],
+      "related_nodes": [
+        "N-11278"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:30",
+      "investigative_direction": "Archive and read the Ace Partners website text; note it differs from the on-air mission statement wording (global focus with a specific focus on Israel).",
+      "transcript_snippet": "They are explicit, they only invest in companies and organizations that benefit Israel. That's on their website.",
+      "supports_claim_refs": [
+        "C-1797"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10934",
+      "ref": "C-10934",
+      "label": "Host Says Brigitte Macron Vanished From View for Six Days After September 4",
+      "claim": "The host says Brigitte Macron was photographed on September 4, 2025 and then disappeared for six days, and asks viewers to find where she was from September 4 to 11.",
+      "anchored_artifacts": [
+        "A-1475.2"
+      ],
+      "related_nodes": [
+        "N-10294"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:00",
+      "investigative_direction": "Review Elysee schedules, press photos and French news for any appearance by Brigitte Macron between September 5 and 10, 2025.",
+      "transcript_snippet": "after that Brigitte just falls off a cliff for 6 days. Brigitte's just gone for 6 days.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10935",
+      "ref": "C-10935",
+      "label": "Host Relays Source Email Calling Wilmington a Hub for Transgender Medicine and MK Ultra",
+      "claim": "The host relays a source email saying Wilmington, Delaware is a hub for MK Ultra and transgenderism in America, citing the first trans congressman, surgeries for children and drag story hours.",
+      "anchored_artifacts": [
+        "A-1469.7"
+      ],
+      "related_nodes": [
+        "N-10283"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:10",
+      "investigative_direction": "This is a source-email generalization with no bearing on the case; no verification path beyond public records on local services.",
+      "transcript_snippet": "Our first ever trans congressman, you guys, guess where? Wilmington, Delaware.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10936",
+      "ref": "C-10936",
+      "label": "Host Says the Federal Government Never Commented on a Foreign Nation Targeting American Speech",
+      "claim": "The host says the federal government has not commented on a foreign nation's lawsuit against American speech, which she says fits her theory that it knew the lawsuit was coming.",
+      "anchored_artifacts": [
+        "A-1476.1"
+      ],
+      "related_nodes": [
+        "N-11277",
+        "N-10270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:20",
+      "investigative_direction": "Check State Department and White House statements on the Macron lawsuit in 2025.",
+      "transcript_snippet": "which would explain why they never commented on the absurdity of a foreign nation coming after our speech",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10937",
+      "ref": "C-10937",
+      "label": "Host Says She Has Never Been Friends With Steven Crowder",
+      "claim": "The host says she has never been friends with Steven Crowder, rejecting Adam Sosnick's list of burned bridges.",
+      "anchored_artifacts": [
+        "A-1473.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:50",
+      "investigative_direction": "Compare public statements by the host and Crowder about their relationship over time.",
+      "transcript_snippet": "I have never been friends with Steven Crowder.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-265",
+        "N-288"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10938",
+      "ref": "C-10938",
+      "label": "Host Says She Is Still Friends With Her Daily Wire Colleagues",
+      "claim": "The host says she remains friends with every colleague she was friends with at the Daily Wire and that she did not hang out with management on the way out.",
+      "anchored_artifacts": [
+        "A-1473.1"
+      ],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:00",
+      "investigative_direction": "Ask named Daily Wire colleagues whether they remain in contact with the host.",
+      "transcript_snippet": "I am still friends with every single one of my colleagues that I was friends when I went in there.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10939",
+      "ref": "C-10939",
+      "label": "Host Says Bolling Sat Across From Sosnick and Falsely Said She Had Not Been Friends With Kirk Since 2017",
+      "claim": "The host says Eric Bolling sat across from Adam Sosnick when they attacked her over Charlie Kirk and falsely said she had not been friends with Kirk since 2017.",
+      "anchored_artifacts": [
+        "A-1474.1"
+      ],
+      "related_nodes": [
+        "N-10003",
+        "N-10297",
+        "N-10059"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:00",
+      "investigative_direction": "Review the PBD episode for Bolling's exact words about 2017 and compare with Kirk and Owens messages and appearances after 2017.",
+      "transcript_snippet": "it was notoriously Eric Bolling that sat across from Adam when they attacked me over Charlie and lied and said I hadn't been friends with Charlie Kirk since 2017.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-289",
+        "N-288",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10940",
+      "ref": "C-10940",
+      "label": "Host Speculates Brigitte Had Another Identity in the 1980s",
+      "claim": "The host says she thinks there is another identity in between, potentially in the 1980s, before Brigitte emerges as a woman.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:54:50",
+      "investigative_direction": "The host offers no evidence; any civil or military record from the 1980s would be the only test.",
+      "transcript_snippet": "I think there's another identity in between there that happens potentially in the 80s",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10941",
+      "ref": "C-10941",
+      "label": "Host Says Kolvet Called From the Hospital and Told Her and Tucker to Shut Up Because They Were on a List",
+      "claim": "The host says Andrew Kolvet called her from the hospital and basically said she and Tucker Carlson should shut up because they were on a list.",
+      "anchored_artifacts": [
+        "A-3111.1"
+      ],
+      "related_nodes": [
+        "N-11010"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:40",
+      "investigative_direction": "Obtain the host's and Kolvet's phone records for September 10, 2025 and ask Kolvet to describe the call.",
+      "transcript_snippet": "Andrew Kolvet called me from the hospital and basically said you and Tucker should shut up because you guys are on a list.",
+      "supports_claim_refs": [
+        "C-9370"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10942",
+      "ref": "C-10942",
+      "label": "Host Says Nobody Has Said Tyler Robinson Had a List",
+      "claim": "The host says nobody mentioned that Tyler Robinson had a list and doubts she and Tucker Carlson would rank high on a list of someone motivated by transgenderism.",
+      "anchored_artifacts": [
+        "A-3111.1"
+      ],
+      "related_nodes": [
+        "N-11010"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:50",
+      "investigative_direction": "Review charging documents and public filings for any mention of a list of targets; ask prosecutors whether one exists.",
+      "transcript_snippet": "Nobody mentioned that Tyler Robinson had a list.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-22",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10943",
+      "ref": "C-10943",
+      "label": "Host Says She Believes the World Is Run by the Global State Military",
+      "claim": "The host says she believes the world is run by the military, which she calls the global state military, and that democracy is a delusion.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:56:00",
+      "investigative_direction": "Opinion about world governance with no testable record.",
+      "transcript_snippet": "I do believe that we are a run by the military",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10944",
+      "ref": "C-10944",
+      "label": "Host Says Bolling Has Not Publicly Retracted and She Told Him to Keep the Same Energy",
+      "claim": "The host says she replied to Bolling's private apology by telling him to do it publicly and say he lied or misspoke, and that he has not done so as far as she knows.",
+      "anchored_artifacts": [
+        "A-3112.1"
+      ],
+      "related_nodes": [
+        "N-10297"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:00",
+      "investigative_direction": "Check Bolling's later broadcasts or posts for any public correction about the Kirk friendship.",
+      "transcript_snippet": "Keep the same energy. Do it publicly. Say I lied or I misspoke whichever it is. He's not done that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-289"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10945",
+      "ref": "C-10945",
+      "label": "Host Says UVU Students Not Recognizing Anyone Suggests Military Regiments Were Present",
+      "claim": "The host says the fact that UVU students did not recognize anybody indicates there may have been military regiments at the event.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-11279"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:40",
+      "investigative_direction": "Request UVU and Utah National Guard deployment and credential records for September 10, 2025.",
+      "transcript_snippet": "the fact that they didn't recognize anybody indicates that we might be looking at military regiments that were there.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10946",
+      "ref": "C-10946",
+      "label": "Host Says Information She Is Receiving Places National Guard, Foreign Legionnaires and Israelis at UVU",
+      "claim": "The host says, from information she will explain later in the week, National Guard regiments, French Foreign Legionnaires and some Israelis were at UVU, hence the 12 Israeli cell phones.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10222",
+        "N-10290"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:20",
+      "investigative_direction": "Obtain the cell-site data behind the 12 phones claim and Utah National Guard activation orders for September 10, 2025.",
+      "transcript_snippet": "I think there were some national guard national guard regiments that were there, some French Foreign Legionnaires that were there and yes, some Israelis that were there",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10947",
+      "ref": "C-10947",
+      "label": "Host Says the Trogneux Chocolatier Continuity Story Is Not Possible Given the Occupation of Amiens",
+      "claim": "The host says the Trogneux family claim of running a chocolatier factory without interruption from the 1880s is not possible because the Nazis bombed and occupied Amiens.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:00:05",
+      "investigative_direction": "Check Amiens municipal and Trogneux company records for wartime operations and dates.",
+      "transcript_snippet": "They just ran this this chocolatier factory from like the 1880s all the way through to now. Not possible. Nazis uh did an aerial bombardment. They occupied the city of Amiens.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-893"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10948",
+      "ref": "C-10948",
+      "label": "Host Says the Trogneux Identity Was Created and the True Family Is Very Powerful",
+      "claim": "The host says she thinks the Trogneux identity was created for the family and that the true family is very powerful, which is why it protects the secret.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:00:20",
+      "investigative_direction": "Speculation with no document; genealogical and civil records are the only test.",
+      "transcript_snippet": "This seems to me to be an identity that was just created and materialized for this family, and that the true family is a very powerful family",
+      "mentions_person_refs": [
+        "N-3",
+        "N-893",
+        "N-82"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-52",
+      "ref": "M-52",
+      "canonical_term": "Patsy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 38,
+          "video_timestamp": "00:15:00",
+          "speaker_node_ref": "N-3",
+          "quote": "Nope, we've got to protect the patsy, right? We've got to protect the patsy in this situation.",
+          "context": "Host suggests the system is protecting a designated patsy.",
+          "confidence": "high",
+          "tags": [
+            "fall_guy",
+            "case",
+            "host_charge"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 38,
+          "video_timestamp": "00:04:49",
+          "speaker_node_ref": "N-3",
+          "quote": "I am saying allegedly because until I can physically see with my own eyes inside of these accounts and verify the transfer of that payment, it's of course alleged.",
+          "context": "Host hedges the alleged $1.5 million payment.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-38",
+      "ref": "M-38",
+      "canonical_term": "MK Ultra",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 38,
+          "video_timestamp": "00:36:16",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm pretty convinced that Brigitte Macron has been involved on the basis of my lawsuit and the mentioning of MK Ultra 18 times absurdly in my lawsuit",
+          "context": "Host ties the Macron lawsuit's MK Ultra references to Brigitte's alleged involvement.",
+          "confidence": "high",
+          "tags": [
+            "mk ultra",
+            "brigitte"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-127",
+      "ref": "M-127",
+      "canonical_term": "The Matrix",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 38,
+          "video_timestamp": "00:54:41",
+          "speaker_node_ref": "N-3",
+          "quote": "It is a consequence from the Matrix for me discussing a multinational state secret which is Brigitte Macron.",
+          "context": "Host frames the Delaware lawsuit as a consequence of the Matrix.",
+          "confidence": "high",
+          "tags": [
+            "matrix",
+            "lawsuit"
+          ]
+        }
+      ]
+    }
+  ]
 }

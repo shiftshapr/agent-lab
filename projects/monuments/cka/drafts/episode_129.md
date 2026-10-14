@@ -11,8 +11,13 @@
 - **Transcript SHA-256**: 513786cea1d5039b5eb51ed6d5c02f0d15ecee4cdc48adb287369585a1185a6a
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10e): N-11300
+  - Hole-minted Nodes (reintro-ep129): N-10745, N-10765, N-10771, N-10820
+  - Tip-minted Nodes (reintro-ep129): N-11208
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10e): C-11561–C-11634
   - New Nodes Introduced: N-10742, N-10743
-  - Reused Nodes Appearing: N-1, N-2, N-375, N-498, N-516, N-10740, N-10741
+  - Reused Nodes Appearing: N-1, N-2, N-375, N-498, N-516, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-166, N-215, N-251, N-272, N-284, N-447, N-557, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218
   - (see registers)
 
 ## 2. Executive Summary
@@ -37,6 +42,85 @@ Tags: staged, media, tip_language, reuse
 Confidence: high
 
 ---
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:02:06
+Speaker: N-3
+Quote: Um more tips at candaceowens. com.
+Context: Host asks for tips and photos of the Timpanogos scene by email.
+Tags: dia, tips, tip line
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:02:06
+Speaker: N-3
+Quote: If you are hearing the rumblings about anything, about what's going on there, and you've seen enough, reach out to us.
+Context: Host invites TPUSA employees to send tips.
+Tags: dia, tips, whistleblower
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:34:47
+Speaker: N-3
+Quote: The same influencers who are now selling you the fed slop about how he died.
+Context: Host calls influencers' accounts of how Charlie died fed slop.
+Tags: fed slop, influencers
+Confidence: high
+
+---
+
+**M-289** (meme) Going Out of Business Sale
+
+### Occurrence 1
+
+Video Timestamp: 00:21:05
+Speaker: N-3
+Quote: it feels like a Zionist going out of business sale, you know what I mean?
+Context: Host opens the Daily Mail segment with the store-closing metaphor for TPUSA's press cycle.
+Tags: going out of business, tpusa, metaphor
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:22:00
+Speaker: N-3
+Quote: Just curious about why they're having a going out of sale business.
+Context: Host returns to the metaphor, adding Blake Neff as the creepy window shopper.
+Tags: going out of business, tpusa, metaphor
+Confidence: high
+
+---
+
+**M-290** (meme) Priming the Public
+
+### Occurrence 1
+
+Video Timestamp: 00:46:36
+Speaker: N-3
+Quote: Again, they are priming the public to see that this is just like Sandy Hook.
+Context: Host reacts to Blake Neff's Sandy Hook comparison.
+Tags: priming, sandy hook, lawfare
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:49:45
+Speaker: N-3
+Quote: they're priming the public to think this is just like when elementary school children died
+Context: Host reacts to the Viva Frei clip.
+Tags: priming, sandy hook, lawfare
+Confidence: high
 
 ---
 
@@ -238,6 +322,92 @@ Confidence Level: Medium (viewer speculation)
 
 ---
 
+**A-3141** Daily Mail Article Passages Read On Air Bundle
+
+**A-3141.1** Host reads Daily Mail article passages quoting a family member that the bridge between Erika and Candace is burned and blown up and that Candace made this her identity
+
+Quoted text: "That bridge is burned between Erika and Candace. It's more than burned. It's been blown up. There's no reason for Erika to ever speak to Candace again, ever."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:31:57
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11601, C-11602, N-2, N-3, N-10743*
+
+---
+
+**A-3141.2** Host reads Daily Mail article passage saying Erika is offended that Candace would use her husband's death to make a buck
+
+Quoted text: "Erika is really offended that Candace would use her husband's death to make a buck, to get attention, to get clout, whatever it is."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:33:38
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11606, N-2, N-3, N-10743*
+
+---
+
+**A-3142** Viewer Comment Bundle (Documentary Recommendation)
+
+**A-3142.1** Host reads a viewer comment from 'True Detective' recommending the 1993 documentary Conspiracy of Silence
+
+Quoted text: "watch the 1993 documentary entitled Conspiracy of Silence. It was supposed to air on the Discovery Channel but was pulled from the schedule."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:57:02
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-11627*
+
+---
+
+**A-3143** Laura Loomer Post Count Tweet Bundle
+
+**A-3143.1** Host reads a tweet counting 591 Laura Loomer posts about @realcandaceo (described as posted on screen)
+
+Quoted text: "Here's 591 Laura Loomer posts talking about @realcandaceo."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:59:46
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-11629, C-11630, N-60, N-3, N-97, N-272, N-10651*
+
+---
+
+**A-3144** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3144.1** Host verbal reference to the tip email address moretips@candaceowens.com with a call for photos of the scene and for whistleblowers (verbal call for tips)
+
+Quoted text: "Um more tips at candaceowens. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:02:06
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-11633, N-3, N-11218*
+
+---
+
+**A-3144.2** Host verbal reference to moretips@candaceowens.com with a call to Turning Point USA employees (verbal call for tips)
+
+Quoted text: "More tips at candaceowens. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:02:06
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-11634, N-3, N-10000*
+
+---
+
 ## 4. Node Register
 
 **N-1** Charlie Kirk
@@ -307,6 +477,431 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-2164.1, A-2164.2, A-2164.3, C-3083, N-2*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-11561, C-11563, C-11564, C-11565, C-11566, C-11567, C-11577, C-11581, C-11584, C-11586, C-11587, C-11588, C-11590, C-11591, C-11592, C-11593, C-11597, C-11599, C-11601, C-11602, C-11604, C-11605, C-11606, C-11607, C-11608, C-11609, C-11610, C-11611, C-11616, C-11617, C-11618, C-11628, C-11629, C-11630, C-11631, C-11632, C-11633, C-11634, A-3141.1, A-3141.2, A-3143.1, A-3144.1, A-3144.2*
+
+---
+
+**N-2** Erika Kirk
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11572, C-11573, C-11574, C-11577, C-11578, C-11581, C-11585, C-11586, C-11587, C-11588, C-11589, C-11591, C-11595, C-11598, C-11600, C-11601, C-11602, C-11603, C-11606, C-11612, C-11613, C-11614, C-11615, C-11617, C-11618, A-3141.1, A-3141.2*
+
+---
+
+**N-14** Andrew Kolvet
+
+Andrew Kolvet (spelled Kolb, Kolburt in the transcript); TPUSA spokesperson the host says is directing attacks and holds a stake in the Charlie Kirk Show company.
+
+*Related: C-11591, C-11605, C-11615*
+
+---
+
+**N-15** Justin Strife
+
+Justin Streiff (spelled Strife), TPUSA COO; the host says he and Erika gave her the Danny Philip call account.
+
+*Related: C-11581*
+
+---
+
+**N-17** Rob McCoy
+
+Rob McCoy, Mikey McCoy's father, called after the shooting.
+
+*Related: C-11579*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Benjamin Netanyahu; the host says she first heard 'woke Reich' from him.
+
+*Related: C-11590*
+
+---
+
+**N-40** Tyler Robinson
+
+Tyler Robinson; subject of the Daily Mail courtroom account and the host's evidence doubts.
+
+*Related: C-11598, C-11599, C-11600, C-11616*
+
+---
+
+**N-60** Laura Loomer
+
+Laura Loomer; the host cites a count of her posts about the host.
+
+*Related: C-11629, C-11630, A-3143.1*
+
+---
+
+**N-93** Alex Jones
+
+Alex Jones; subject of the Sandy Hook verdict comparisons and Kirk's remarks.
+
+*Related: C-11619, C-11620, C-11624, C-11625, C-11626*
+
+---
+
+**N-97** Ben Shapiro
+
+Ben Shapiro; the host says his lawyer retweets Laura Loomer and sues the host for Brian Harpole.
+
+*Related: C-11630, A-3143.1*
+
+---
+
+**N-162** Blake Neff
+
+Blake Neff; his audio and Twitter Space remarks are discussed.
+
+*Related: C-11568, C-11569, C-11570, C-11571, C-11575, C-11576, C-11580, C-11582, C-11583, C-11617*
+
+---
+
+**N-166** Matt Walsh
+
+Matt Walsh; the host says his in-person event appearance was cancelled at Erika's urging.
+
+*Related: C-11586, C-11587*
+
+---
+
+**N-194** Mikey McCoy
+
+Mikey McCoy; the host reviews his post-shooting call sequence.
+
+*Related: C-11567, C-11568, C-11571, C-11572, C-11573, C-11574, C-11575, C-11576, C-11577, C-11579, C-11580, C-11581, C-11583*
+
+---
+
+**N-215** Jesse Watters
+
+Jesse Watters; the host believes Erika told him she knew.
+
+*Related: C-11578*
+
+---
+
+**N-221** Eliza McCoy
+
+Elizabeth McCoy, Mikey McCoy's wife, whom the host says he called first.
+
+*Related: C-11572, C-11574, C-11579*
+
+---
+
+**N-251** Butch Hibbs
+
+Butch Hibbs; the host places Danny Philip next to him on Charlie's right.
+
+*Related: C-11571*
+
+---
+
+**N-272** Brian Harpole
+
+Brian Harpole; the host says he said he cut the shirt and that he is suing the host.
+
+*Related: C-11565, C-11630, A-3143.1*
+
+---
+
+**N-284** Bari Weiss
+
+Bari Weiss; the host says Erika told her she was certain Robinson killed her husband.
+
+*Related: C-11600*
+
+---
+
+**N-337** Baron Coleman
+
+Baron Coleman; his coverage of the group's hospital walk-in is cited.
+
+*Related: C-11583*
+
+---
+
+**N-340** Viva Frey
+
+Viva Frei (spelled Viva Frey in the register); his Charlie Kirk Show remarks on conspiracy theories.
+
+*Related: C-11621, C-11622*
+
+---
+
+**N-447** Johnny Moore
+
+Johnny Moore; the host says he is dropping digital assassin articles at her.
+
+*Related: C-11584*
+
+---
+
+**N-516** Nate Walker
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11568, C-11583*
+
+---
+
+**N-557** Tracy Martin
+
+Tracy Martin; the host's guess for the Daily Mail family friend.
+
+*Related: C-11597*
+
+---
+
+**N-10000** Turning Point USA
+
+Turning Point USA; subject of the advertiser calls and Sandy Hook framing claims.
+
+*Related: C-11561, C-11584, C-11591, C-11592, C-11593, C-11634, A-3144.2*
+
+---
+
+**N-10070** Daily Mail
+
+Daily Mail; outlet that published the Erika article and, per the host, got the Aspen clip access.
+
+*Related: C-11594, C-11595*
+
+---
+
+**N-10110** Tyler Robinson Evidence Gaps
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11599, C-11622*
+
+---
+
+**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11607*
+
+---
+
+**N-10300** Justin Strife Post-Assassination Phone Call
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11581*
+
+---
+
+**N-10312** Charlie Kirk Show Apple Podcasts Ranking Decline
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11611*
+
+---
+
+**N-10334** CBS Bari Weiss Town Hall Production Integrity
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11600*
+
+---
+
+**N-10336** Tyler Robinson First In-Person Court Appearance Details
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11598*
+
+---
+
+**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11572, C-11574, C-11577*
+
+---
+
+**N-10342** Bibi Netanyahu TPUSA Funding Offer
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11590*
+
+---
+
+**N-10362** Vehicle Disposition Question
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11564, C-11566*
+
+---
+
+**N-10651** Brian Harpole Lawsuit Coordination Question
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11630, A-3143.1*
+
+---
+
+**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11594, C-11595*
+
+---
+
+**N-10684** Brian Harpole Shirt Removal Event Timing
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11565*
+
+---
+
+**N-10707** Missing Charlie's Shirt Investigation Target
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11565*
+
+---
+
+**N-10715** Blake Neff September 10th Movement Discrepancy
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11569, C-11575*
+
+---
+
+**N-10745** Daily Mail Article Sourcing Question
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11596*
+
+---
+
+**N-10765** Timpanogos Hospital Evacuation Tip
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11632*
+
+---
+
+**N-10771** Missing Gloves Origin in SUV Door
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11563, C-11564*
+
+---
+
+**N-10820** 9/10 Vehicle Positioning Discrepancy
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11580*
+
+---
+
+**N-10905** New York Times Erika Kirk Interview Account Discrepancies
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11573, C-11578*
+
+---
+
+**N-10934** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11592*
+
+---
+
+**N-10936** Aspen CEO-Appointment Video Non-Release
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11594*
+
+---
+
+**N-10956** Catholics for Catholics
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11585, C-11586, C-11587, C-11588, C-11589*
+
+---
+
+**N-10968** The New York Times
+
+The New York Times; source of Erika's account of the Mikey call.
+
+*Related: C-11573, C-11578, C-11625*
+
+---
+
+**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11603, C-11604, C-11609, C-11615*
+
+---
+
+**N-11061** Restaurantology Event Green Room Attendance Question
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11568*
+
+---
+
+**N-11208** Timpanogos Hospital Group Arrival Question
+
+Existing node reused for new claims in this episode.
+
+*Related: C-11582, C-11583*
+
+---
+
+**N-11218** Timpanogos Regional Hospital
+
+Timpanogos Regional Hospital; site of the arrival and the reported computer shutdown.
+
+*Related: C-11562, C-11632, C-11633, A-3144.1*
+
+---
+
+**N-11300** Charlie Kirk Show LLC
+
+Node Type: Organization
+Company the host says received the freedom shirt profits, in which she says Charlie told her Andrew Kolvet owned a piece.
+
+*Related: C-11604, C-11605, C-11615*
 
 ---
 
@@ -663,6 +1258,1186 @@ Anchored Artifacts: A-2170.2
 Related Nodes:
 
 Investigative Direction: Viewer speculation; photograph enhancement / chain-of-custody testing required for any factual determination.
+
+---
+
+**C-11561** Host Says Turning Point Equates Conspiracy Theories About Charlie's Death With Sandy Hook and Wants One Person Bankrupted
+
+Claim Timestamp: 00:00:51
+
+Claim: The host says Turning Point USA keeps equating what it calls conspiracy theories about Charlie Kirk's death with Sandy Hook victimization, and that this signals they want one particular person bankrupted for asking questions about their founder's death.
+
+Transcript Snippet: They are signaling, again, if you are paying attention, that they want people, or maybe just one particular person, to be bankrupted for asking mean- meaningful questions about their founder's death.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10741, N-10000
+Tags: relevance:context
+Investigative Direction: Collect TPUSA and Charlie Kirk Show statements that use the Sandy Hook comparison, with dates, and check whether any legal action has been threatened or filed against the host.
+
+---
+
+**C-11562** Host Puts the Ride to the Hospital at About Seven Minutes
+
+Claim Timestamp: 00:01:46
+
+Claim: The host describes the car ride from the UVU event to the hospital as an approximately 7-minute ride.
+
+Transcript Snippet: that increasingly complicated approximately 7-minute ride to the hospital, approximate 7 minutes, right?
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-11218
+Tags: relevance:core
+Investigative Direction: Compare the 911 call and dispatch times, the vehicle's departure and arrival times, and the hospital's intake log to fix the length of the ride.
+
+---
+
+**C-11563** Host Says the Door in the New Photo Is Relatively Clean With Blood Only at the Handle
+
+Claim Timestamp: 00:06:20
+
+Claim: The host says the left rear door shown in the new photograph is relatively clean and that the only blood visible on it is at the door handle, so she doubts that blood-soaked men exited through that door.
+
+Transcript Snippet: the only place that we could see blood on this door was just there at the handle.
+
+Anchored Artifacts: A-2165.1
+Mentions: N-3
+Related Nodes: N-10771, N-10740
+Tags: relevance:core
+Investigative Direction: Obtain the full-resolution original of the door photograph and the photographer's identity; ask a forensic photographer to assess the stain pattern on the door and handle.
+
+---
+
+**C-11564** Host Says the Door Photo Was Taken in the Immediate Aftermath Before the Car Was Cleaned
+
+Claim Timestamp: 00:06:20
+
+Claim: The host says the door photograph was taken in the immediate aftermath, before the car was cleaned up.
+
+Transcript Snippet: And again, this is in the immediate aftermath. This is not after the car's cleaned up
+
+Anchored Artifacts: A-2165.1
+Mentions: N-3
+Related Nodes: N-10771, N-10362
+Tags: relevance:core
+Investigative Direction: Check the EXIF data and the photo's source to date it; compare with the vehicle's later cleaning and resale record.
+
+---
+
+**C-11565** Host Says Brian Harpole Said He Cut Charlie's Shirt and Asks Whose Scissors He Used
+
+Claim Timestamp: 00:08:11
+
+Claim: The host says Brian Harpole said he cut Charlie Kirk's shirt, and she asks whose scissors were used, whether they were hospital scissors, and whether the feds seized them.
+
+Transcript Snippet: He cut He said he cut the shirt. Whose scissors did he use?
+
+Anchored Artifacts: 
+Mentions: N-272, N-3
+Related Nodes: N-10684, N-10707
+Tags: relevance:core
+Investigative Direction: Locate Harpole's own statement on who cut the shirt and with what; ask the hospital and investigators whether scissors were collected.
+
+---
+
+**C-11566** Host Says the Feds Had the SUV Released, Towed, Cleaned and Resold Quickly Instead of Impounded
+
+Claim Timestamp: 00:09:02
+
+Claim: The host says she does not understand why the feds would want the SUV immediately released, towed, cleaned up and resold so fast, and asks why it was not impounded for evidence.
+
+Transcript Snippet: I don't know why the feds would want this car immediately released, towed, cleaned up, and resold so fast.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10362
+Tags: relevance:core
+Investigative Direction: Obtain the rental company, tow and resale records for the SUV and any law enforcement release or hold documents.
+
+---
+
+**C-11567** Host Says Danny Philip Started Full-Time in May After Graduating
+
+Claim Timestamp: 00:10:36
+
+Claim: The host says Danny Philip was new at Turning Point USA, having started working full-time in May after he graduated, and that she had assumed Danny was someone Mikey McCoy phoned back in Arizona.
+
+Transcript Snippet: New as in started working full-time in May after he graduated out of school.
+
+Anchored Artifacts: 
+Mentions: N-375, N-194, N-3
+Supports: C-5867
+Tags: relevance:core
+Investigative Direction: Check Philip's graduation date and TPUSA hiring paperwork or payroll start date.
+
+---
+
+**C-11568** Host Says Mikey McCoy Rented Two SUVs in Salt Lake City, Blake Neff and Danny Philip in One
+
+Claim Timestamp: 00:11:37
+
+Claim: The host says Mikey McCoy rented two SUVs in Salt Lake City, that Blake Neff and Danny Philip got into one of them, and that Charlie went to the restaurantology event with Mikey McCoy and Nate Walker before they all went to Provo.
+
+Transcript Snippet: So two SUVs were rented by Mikey McCoy in Salt Lake City.
+
+Anchored Artifacts: 
+Mentions: N-194, N-162, N-375, N-516, N-1
+Related Nodes: N-11061
+Supports: C-5862
+Tags: relevance:core
+Investigative Direction: Obtain the rental agreements for both SUVs and the passenger assignments for each leg of the day.
+
+---
+
+**C-11569** Host Says Blake Neff Does Not Remember Where He and Danny Went in Salt Lake City
+
+Claim Timestamp: 00:11:37
+
+Claim: The host says Blake Neff does not remember where he and Danny Philip went in Salt Lake City before the event.
+
+Transcript Snippet: Blake Neff doesn't remember where they went in Salt Lake City.
+
+Anchored Artifacts: 
+Mentions: N-162, N-375
+Related Nodes: N-10715
+Tags: relevance:core
+Investigative Direction: Ask Neff and Philip for their movements that morning and check vehicle GPS or toll records for the second SUV.
+
+---
+
+**C-11570** Host Believes Danny Philip Drove the Second SUV but Did Not Fact-Check It
+
+Claim Timestamp: 00:11:37
+
+Claim: The host says she believes Danny Philip was driving the second SUV, that she feels she saw it somewhere, and that she did not fact-check it herself.
+
+Transcript Snippet: Now I believe that Danny was driving the SUV. I feel like I saw that somewhere.
+
+Anchored Artifacts: 
+Mentions: N-375, N-162
+Tags: relevance:core
+Investigative Direction: Identify the source of the driver detail and check it against the rental agreement and any footage of the second SUV.
+
+---
+
+**C-11571** Host Says Danny and Blake Stood on Opposite Sides of the Tent When the Shot Rang Out
+
+Claim Timestamp: 00:12:29
+
+Claim: The host says Danny Philip stood next to Butch Hibbs on Charlie's right side while Blake Neff stood next to Mikey McCoy on Charlie's left, on opposite sides of the tent when the sound of the explosive rang out.
+
+Transcript Snippet: What we do know is that Danny and Blake were standing on opposite sides of the tent when the sound of the explosive rang out.
+
+Anchored Artifacts: 
+Mentions: N-375, N-162, N-251, N-194, N-1
+Tags: relevance:core
+Investigative Direction: Verify each man's position against the stage footage and the seating and standing diagram of the tent.
+
+---
+
+**C-11572** Host Says Mikey Immediately Phoned His Wife Elizabeth After the Shot
+
+Claim Timestamp: 00:12:29
+
+Claim: The host says Mikey McCoy immediately pressed his phone to his ear, walked away and called his wife Elizabeth, whereas for weeks everyone said he immediately called Erika as he was trained to do.
+
+Transcript Snippet: Mikey, as we know, immediately presses his phone to his ear and walks away and calls his wife, Elizabeth.
+
+Anchored Artifacts: A-2167.1
+Mentions: N-194, N-221, N-2
+Related Nodes: N-10338
+Supports: C-2294
+Tags: relevance:core
+Investigative Direction: Obtain authenticated call detail records for Mikey McCoy's phone for 12:23 to 12:35 Utah time.
+
+---
+
+**C-11573** Host Recounts Erika's New York Times Account That Mikey Called Her Within Seconds of 11:23
+
+Claim Timestamp: 00:12:29
+
+Claim: The host says that in her New York Times interview eight days later Erika Kirk said she was looking at her phone at 11:23 her time, 12:23 Utah time, and within seconds Mikey called her.
+
+Transcript Snippet: said that at 11:23, obviously adjusting for time, 12:23 I guess, uh in uh local time Utah, 11:23 her time, she was looking at her phone and within seconds Mikey called her.
+
+Anchored Artifacts: 
+Mentions: N-2, N-194
+Related Nodes: N-10905, N-10968
+Tags: relevance:core
+Investigative Direction: Obtain the New York Times interview text and compare its call timing with the call detail records.
+
+---
+
+**C-11574** Host Says Months Later They Learned Mikey Called His Wife First and Erika Was Added 3 Minutes Later
+
+Claim Timestamp: 00:13:40
+
+Claim: The host says that months later it emerged that Mikey called his own wife first and that Erika was added to that phone call 3 minutes later.
+
+Transcript Snippet: Um then we found out months later that actually no, Mikey called his own wife first and Erika was added to that phone call 3 minutes later.
+
+Anchored Artifacts: A-2167.1
+Mentions: N-194, N-221, N-2
+Related Nodes: N-10338, N-10742
+Supports: C-1933, C-2294
+Tags: relevance:core
+Investigative Direction: Obtain the call detail record showing when the merge to Erika's number occurred.
+
+---
+
+**C-11575** Host Says Blake and Mikey Were Back Together and Coordinating by 12:25
+
+Claim Timestamp: 00:13:40
+
+Claim: The host says that 2 minutes after Charlie was hit, at 12:25, Blake Neff and Mikey McCoy were back together, speaking and coordinating.
+
+Transcript Snippet: So, just 2 minutes after Charlie's hit at 12:25, Blake and Mikey are back together and they're speaking and coordinating.
+
+Anchored Artifacts: A-2167.1
+Mentions: N-162, N-194, N-1
+Related Nodes: N-10715
+Tags: relevance:core
+Investigative Direction: Obtain footage placing Neff and McCoy together at 12:25 and compare with their recorded call times.
+
+---
+
+**C-11576** Neff Audio Says He Called His Mother Right After the Shooting
+
+Claim Timestamp: 00:14:48
+
+Claim: In the audio the host plays, Blake Neff says that around the same time Mikey called Erika he pulled out his own phone and called his mother to say there had been a shooting.
+
+Transcript Snippet: around the same time I pull out my phone and I call my mom just to say
+
+Anchored Artifacts: A-2168.1
+Mentions: N-162, N-194
+Related Nodes: N-10742
+Tags: relevance:core
+Investigative Direction: Obtain Neff's phone records for the call to his mother and compare its time and length with Mikey McCoy's call sequence.
+
+---
+
+**C-11577** Host Says Mikey's Call With Erika Lasted Less Than Two Minutes
+
+Claim Timestamp: 00:15:44
+
+Claim: The host says Mikey McCoy's discussion with Erika lasted less than 2 minutes, which has always bothered her.
+
+Transcript Snippet: Mikey's discussion with Erika, we know lasted less than 2 minutes.
+
+Anchored Artifacts: A-2167.1
+Mentions: N-194, N-2, N-3
+Related Nodes: N-10338
+Tags: relevance:core
+Investigative Direction: Verify the length of the Mikey-to-Erika call in the call detail records.
+
+---
+
+**C-11578** Host Says Erika Told Jesse Watters and the New York Times She Knew It
+
+Claim Timestamp: 00:15:44
+
+Claim: The host says Erika Kirk is going to say 'I effing knew it', that she believes Erika told this to Jesse Watters, and that Erika certainly told it to the New York Times.
+
+Transcript Snippet: That's what she tells, I believe, Jesse Watters. That's certainly what she told the New York Times.
+
+Anchored Artifacts: 
+Mentions: N-2, N-215
+Related Nodes: N-10905, N-10968
+Tags: relevance:core
+Investigative Direction: Check the Jesse Watters interview and the New York Times article for the exact words Erika used.
+
+---
+
+**C-11579** Host Says Danny Philip Called Mikey After Mikey Ended His Calls and They Stayed on for 10 Minutes
+
+Claim Timestamp: 00:16:34
+
+Claim: The host says Mikey McCoy ended his calls with Rob McCoy and Elizabeth McCoy after about 9 to 10 minutes with his wife, then Danny Philip called Mikey and they stayed on the phone for 10 minutes while they were together.
+
+Transcript Snippet: And then Danny calls Mikey. And they stay on the phone for 10 minutes.
+
+Anchored Artifacts: A-2167.1
+Mentions: N-375, N-194, N-221, N-17
+Related Nodes: N-10742
+Tags: relevance:core
+Investigative Direction: Obtain the call detail record showing which number placed the Philip-McCoy call and when it started and ended.
+
+---
+
+**C-11580** Host Says Danny, Blake and Mikey Ran the Same Direction, Got Into the Same Car and Parked Next to Each Other
+
+Claim Timestamp: 00:17:26
+
+Claim: The host says Danny Philip, Blake Neff and Mikey McCoy all ran in the same direction, got into the same car, and had their cars parked right next to one another's, so she cannot see what they discussed by phone for 10 minutes.
+
+Transcript Snippet: Danny, Blake, and Mikey all run the same direction direction. They get into the same car. Their cars are parked right next to one another's.
+
+Anchored Artifacts: 
+Mentions: N-375, N-162, N-194
+Related Nodes: N-10742, N-10820
+Tags: relevance:core
+Investigative Direction: Resolve which SUV each man entered using footage and statements, since the host elsewhere has Mikey in the SUV carrying Charlie.
+
+---
+
+**C-11581** Host Floats That Justin Streiff and Erika Lied About Mikey Being on the Phone With Danny Philip
+
+Claim Timestamp: 00:17:26
+
+Claim: The host says that perhaps Justin Streiff and Erika lied to her and Mikey was not on the phone with Danny Philip, though she does not think so, and that she cannot make sense of the call.
+
+Transcript Snippet: Maybe Justin Strife and Erika lied to me and it wasn't Danny Philip that he was on the phone with.
+
+Anchored Artifacts: 
+Mentions: N-15, N-2, N-375, N-194, N-3
+Related Nodes: N-10300
+Tags: relevance:core
+Investigative Direction: Identify what Streiff and Erika told the host about this call and compare with the call records.
+
+---
+
+**C-11582** Host Says Blake Neff Put the Arrival at 25 Minutes Later and She Forgives It
+
+Claim Timestamp: 00:17:26
+
+Claim: The host says Blake Neff says they arrived at the hospital 25 minutes later, that she forgives him that estimate, and that the actual arrival was about 1:00 p.m.
+
+Transcript Snippet: Blake says they arrived 25 minutes later. I'm going to forgive him that.
+
+Anchored Artifacts: A-2166.2
+Mentions: N-162
+Related Nodes: N-11208
+Supports: C-9560
+Tags: relevance:core
+Investigative Direction: Compare Neff's stated 25-minute estimate with the broadcast time stamp and the 911 and hospital arrival logs.
+
+---
+
+**C-11583** Host Says the Live Feed Shows the Group Walking Casually and Not Shaken
+
+Claim Timestamp: 00:18:17
+
+Claim: The host says the Fox 5 Atlanta live feed shows Blake Neff, Danny Philip, Mikey McCoy and Nate Walker walking into the hospital casually and not appearing shaken, which is what Baron Coleman was covering.
+
+Transcript Snippet: because they don't seem to be shaken. They're all just kind of walking uh casually
+
+Anchored Artifacts: A-2166.2
+Mentions: N-337, N-162, N-375, N-194, N-516
+Related Nodes: N-11208
+Tags: relevance:core
+Investigative Direction: Obtain the unedited newsroom feed and review the men's demeanor and pace on entry.
+
+---
+
+**C-11584** Host Says Johnny Moore Is Dropping Digital Assassin Articles Aimed at Her
+
+Claim Timestamp: 00:21:05
+
+Claim: The host says Reverend Johnny Moore is working corporate and dropping digital assassin articles aimed at her that blame his competitors.
+
+Transcript Snippet: Reverend Johnny Moore is working corporate dropping digital assassin articles aimed at me blaming his competitors.
+
+Anchored Artifacts: 
+Mentions: N-447, N-3
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Identify the specific digital assassin articles the host refers to and their authors and publication dates.
+
+---
+
+**C-11585** Host Says Erika Calls People's Priests
+
+Claim Timestamp: 00:22:00
+
+Claim: The host says Erika Kirk is nasty behind the scenes and calls people's priests.
+
+Transcript Snippet: She's nasty behind the scenes. She calls people's priests.
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10956
+Supports: C-4394
+Tags: relevance:core
+Investigative Direction: Identify the priests contacted and obtain their accounts of the calls.
+
+---
+
+**C-11586** Host Says Erika Took Credit for Having Matt Walsh Cancel an In-Person Catholics for Catholics Appearance
+
+Claim Timestamp: 00:22:00
+
+Claim: The host says Erika Kirk personally took credit for having Matt Walsh cancel his in-person appearance at the Catholics for Catholics prayer event because the host was attending.
+
+Transcript Snippet: She personally took credit for having Matt Walsh cancel his in-person appearance at the Catholic prayer event for Catholic for Catholics just because I was attending.
+
+Anchored Artifacts: 
+Mentions: N-2, N-166, N-3
+Related Nodes: N-10956
+Tags: relevance:core
+Investigative Direction: Ask Catholics for Catholics organizers and Walsh's team when and why his appearance changed and who communicated it.
+
+---
+
+**C-11587** Host Says Walsh Turned His Appearance Into a Video Message Because Erika Was Upset
+
+Claim Timestamp: 00:22:49
+
+Claim: The host says Matt Walsh turned what was supposed to be his appearance into a video message instead because Erika was upset that the host would be present.
+
+Transcript Snippet: He transformed what was supposed to be his appearance into a video message instead because Erika was upset that I was going to be present.
+
+Anchored Artifacts: 
+Mentions: N-166, N-2, N-3
+Related Nodes: N-10956
+Tags: relevance:core
+Investigative Direction: Obtain the event program showing Walsh's original and final format and any messages explaining the change.
+
+---
+
+**C-11588** Host Says the White House Was Making Phone Calls Because Erika Does Not Like Her
+
+Claim Timestamp: 00:22:49
+
+Claim: The host says the White House was making phone calls because Erika does not like her, in connection with the Catholics for Catholics event.
+
+Transcript Snippet: White House was making phone calls because she doesn't like me.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10956
+Tags: relevance:core
+Investigative Direction: Ask the event organizers and recipients of calls who called and from which office.
+
+---
+
+**C-11589** Host Says Erika Called the Catholics for Catholics Event a Woke Reich Event
+
+Claim Timestamp: 00:22:49
+
+Claim: The host says Erika Kirk explicitly told people the Catholics for Catholics event was a 'woke Reich event'.
+
+Transcript Snippet: She explicitly told people that it was, and I quote, a woke Reich event.
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10956
+Tags: relevance:core
+Investigative Direction: Identify the people Erika told and obtain their accounts or messages using the phrase.
+
+---
+
+**C-11590** Host Says She First Heard 'Woke Reich' From Netanyahu and Charlie Never Used It
+
+Claim Timestamp: 00:23:37
+
+Claim: The host says she first heard the term 'woke Reich' from Benjamin Netanyahu's mouth with American influencers around him, and that it is not a term Charlie Kirk ever used.
+
+Transcript Snippet: That's a term that I first heard come out of Bibi Netanyahu's mouth for clarity.
+
+Anchored Artifacts: 
+Mentions: N-36, N-1, N-3
+Related Nodes: N-10342
+Tags: relevance:context
+Investigative Direction: Find the recording or witnesses of Netanyahu using the phrase and search Kirk's archive for any use of it.
+
+---
+
+**C-11591** Host Says Erika Has Directed the Attacks Against Her With Kolvet Since the Beginning
+
+Claim Timestamp: 00:23:37
+
+Claim: The host says Erika Kirk watches everything and has been directing the attacks against the host since the beginning, alongside Andrew Kolvet, whom she says has now gone mask down.
+
+Transcript Snippet: She watches me and she has been directing the attacks against me since the beginning. Alongside Andrew Kolb, who's now gone mask down.
+
+Anchored Artifacts: 
+Mentions: N-2, N-14, N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Obtain messages or accounts from people who received direction from Erika or Kolvet to attack the host.
+
+---
+
+**C-11592** Host Says TPUSA Now Makes Personal and Public Calls to Her Advertisers to Be Dropped
+
+Claim Timestamp: 00:24:33
+
+Claim: The host says that since Charlie's passing Turning Point USA is an organization that makes personal and public calls to her advertisers to be dropped.
+
+Transcript Snippet: one that makes personal and public calls to my advertisers to be dropped.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000, N-10934
+Tags: relevance:core
+Investigative Direction: Identify advertisers who received calls and the TPUSA people who made them.
+
+---
+
+**C-11593** Host Says She Has Never Called Influencers or Asked People to Skip TPUSA Events
+
+Claim Timestamp: 00:24:33
+
+Claim: The host says she has never made personal phone calls asking influencers to support her and has never asked people not to attend any Turning Point events.
+
+Transcript Snippet: I have never made personal phone calls and asked influencers to support me. I've never asked people to not attend any Turning Point events.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: This is a denial that could only be tested through the testimony of influencers and event attendees.
+
+---
+
+**C-11594** Host Says TPUSA Gave the Daily Mail Special Access to the Unedited Aspen Clip the Public Has Not Seen
+
+Claim Timestamp: 00:27:02
+
+Claim: The host says Turning Point USA turned to the Daily Mail exclusively on the Aspen audio and gave the paper special access to the unedited clip, which the public still has not seen, which she says demonstrates a PR relationship between TPUSA and the Mail.
+
+Transcript Snippet: They gave them special access to see the unedited clip that the public still has not seen.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10070, N-10664, N-10936
+Supports: C-4183
+Tags: relevance:core
+Investigative Direction: Obtain the Daily Mail's Aspen article and ask the reporter and TPUSA how and when the clip was shown.
+
+---
+
+**C-11595** Host Says the Daily Mail Journalist Told the World Charlie Picked Erika to Run the Company
+
+Claim Timestamp: 00:27:02
+
+Claim: The host says the Daily Mail journalist who saw the Aspen clip then told the world that Charlie Kirk really did pick Erika to run the company in the event of his untimely death, which the host notes came about three weeks before he was killed.
+
+Transcript Snippet: Charlie really did pick Erika to run the company in the event of his untimely death.
+
+Anchored Artifacts: 
+Mentions: N-1, N-2
+Related Nodes: N-10664, N-10070
+Tags: relevance:core
+Investigative Direction: Compare the Daily Mail's description with the audio, the date of the Aspen retreat and the host's earlier account.
+
+---
+
+**C-11596** Host Says the Article Lists a Family Friend as Source Initially and Elsewhere a Family Member
+
+Claim Timestamp: 00:27:48
+
+Claim: The host says the Daily Mail article lists a family friend as the source initially and then elsewhere says a family member.
+
+Transcript Snippet: And they list a family friend as a source initially and then elsewhere in the article they say a family member.
+
+Anchored Artifacts: A-2164.1
+Related Nodes: N-10743, N-10745
+Tags: relevance:core
+Investigative Direction: Compare each attribution in the article text to determine whether one or two sources are quoted.
+
+---
+
+**C-11597** Host Guesses the Family Friend Is Tracy Martin
+
+Claim Timestamp: 00:27:48
+
+Claim: The host says her guess is Tracy Martin, the one person she knows who is a friend of Erika and close to Erika's family including Lori, and who she says was also the driver behind other pieces such as the Us Magazine one.
+
+Transcript Snippet: My guess would be Tracy Martin because she's also been the driver behind other wacky pieces, that Us Magazine one, but who knows?
+
+Anchored Artifacts: A-2164.1
+Mentions: N-557, N-3
+Related Nodes: N-10743
+Tags: relevance:core
+Investigative Direction: Treat as the host's speculation; ask the Daily Mail reporter whether the source can be confirmed or denied.
+
+---
+
+**C-11598** Daily Mail Says Court Was the First Time Erika Faced Tyler Robinson, Per Two Sources
+
+Claim Timestamp: 00:28:34
+
+Claim: As read by the host, the Daily Mail article says Erika Kirk arrived in a tiny Utah courtroom earlier this month expecting rage, that it was the first time she came face-to-face with Tyler Robinson, and that her sadness and compassion are according to two sources close to the Kirks.
+
+Transcript Snippet: It was the first time she had come face-to-face with Tyler Robinson, the man accused of assassinating Charlie Kirk at the speaking event
+
+Anchored Artifacts: A-2164.2
+Mentions: N-2, N-40
+Related Nodes: N-10336
+Tags: relevance:core
+Investigative Direction: Check court records and courtroom reporting for the date of Erika's first appearance in the same room as Robinson.
+
+---
+
+**C-11599** Host Says She Has Seen No Convincing Evidence Tyler Robinson Committed the Crime
+
+Claim Timestamp: 00:29:33
+
+Claim: The host says she has not seen any convincing evidence that Tyler Robinson committed the crime and that she feels the entire world knows he did not commit it.
+
+Transcript Snippet: I haven't seen any convincing evidence that Tyler Robinson committed this crime.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10110
+Tags: relevance:core
+Investigative Direction: Compare against the evidence disclosed at the preliminary hearing and the prosecution's filings.
+
+---
+
+**C-11600** Host Says Erika Told Bari Weiss She Was Certain Robinson Killed Her Husband
+
+Claim Timestamp: 00:31:57
+
+Claim: The host says Erika Kirk told Bari Weiss she was wholly confident that Tyler Robinson killed her husband because she has access to the evidence.
+
+Transcript Snippet: She was wholly confident that this man killed her husband because she has access to the evidence.
+
+Anchored Artifacts: 
+Mentions: N-2, N-284, N-40
+Related Nodes: N-10334
+Tags: relevance:core
+Investigative Direction: Check the CBS town hall transcript for Erika's statement on certainty and access to evidence.
+
+---
+
+**C-11601** Daily Mail Quotes a Family Member Saying the Bridge Between Erika and Candace Is Blown Up
+
+Claim Timestamp: 00:31:57
+
+Claim: As read by the host, the Daily Mail article quotes a family member saying the bridge between Erika and Candace is burned, more than burned, blown up, and that there is no reason for Erika to ever speak to Candace again.
+
+Transcript Snippet: That bridge is burned between Erika and Candace. It's more than burned. It's been blown up.
+
+Anchored Artifacts: A-3141.1
+Mentions: N-2, N-3
+Related Nodes: N-10743
+Tags: relevance:core
+Investigative Direction: Verify the quotation in the original Daily Mail article and the attribution to a family member.
+
+---
+
+**C-11602** Daily Mail Quotes the Family Member Saying Candace Made This Her Identity for Attention and Money
+
+Claim Timestamp: 00:31:57
+
+Claim: As read by the host, the Daily Mail article quotes the family member as saying Candace decided to make this her identity, that it is a grab for attention building her name and brand and making some money, and that this is what Erika thinks.
+
+Transcript Snippet: Candace decided to make this her identity. It's a grab for attention, building her name and her brand and making some money off of it. That's what Erika thinks.
+
+Anchored Artifacts: A-3141.1
+Mentions: N-2, N-3
+Related Nodes: N-10743
+Tags: relevance:core
+Investigative Direction: Verify the quotation in the original Daily Mail article.
+
+---
+
+**C-11603** Host Says Erika Filed Three Trademarks Three Weeks After the Assassination
+
+Claim Timestamp: 00:32:48
+
+Claim: The host says that just 3 weeks after Charlie's assassination Erika filed for three trademarks granting her the right to his name on t-shirts, tote bags and any and all clothing.
+
+Transcript Snippet: It took just 3 weeks after Charlie's assassination for Erika to file for three trademarks granting her the right to his name on t-shirts, tote bags, any and all clothing.
+
+Anchored Artifacts: 
+Mentions: N-2, N-1
+Related Nodes: N-11014
+Supports: C-4588
+Tags: relevance:core
+Investigative Direction: Search USPTO records for trademark applications by Erika Kirk with filing dates in late September 2025.
+
+---
+
+**C-11604** Host Says Freedom Shirt Profits Went to Charlie Kirk Show LLC Not the Charitable Arm
+
+Claim Timestamp: 00:32:48
+
+Claim: The host says the freedom shirts were not sold through the charitable arm and that former employees have confirmed to her that the profits went straight to Charlie Kirk Show LLC.
+
+Transcript Snippet: those were not sold through the charitable arm, okay? Former employees have confirmed to me that those profits profits went straight to Charlie Kirk Show LLC.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11300, N-11014
+Tags: relevance:core
+Investigative Direction: Obtain the seller of record for the shirts, the LLC's accounts and TPUSA's Form 990 for the relevant year.
+
+---
+
+**C-11605** Host Says Charlie Once Told Her Kolvet Owned a Piece of the Charlie Kirk Show Company
+
+Claim Timestamp: 00:33:38
+
+Claim: The host says Charlie once told her that Andrew Kolvet owned a piece of that company, the Charlie Kirk Show LLC.
+
+Transcript Snippet: Once upon a time Charlie told me Andrew Kolburt owned a piece of that company, too.
+
+Anchored Artifacts: 
+Mentions: N-1, N-14, N-3
+Related Nodes: N-11300
+Tags: relevance:core
+Investigative Direction: Check Utah and Arizona business filings for the LLC's members and any ownership disclosures.
+
+---
+
+**C-11606** Daily Mail Quotes Erika as Offended Candace Would Use Her Husband's Death to Make a Buck
+
+Claim Timestamp: 00:33:38
+
+Claim: As read by the host, the Daily Mail article says Erika is really offended that Candace would use her husband's death to make a buck, to get attention or clout.
+
+Transcript Snippet: Erika is really offended that Candace would use her husband's death to make a buck, to get attention, to get clout, whatever it is.
+
+Anchored Artifacts: A-3141.2
+Mentions: N-2, N-3
+Related Nodes: N-10743
+Tags: relevance:core
+Investigative Direction: Verify the quotation in the original Daily Mail article.
+
+---
+
+**C-11607** Host Says She Was Already Being Sued by the President of France
+
+Claim Timestamp: 00:33:38
+
+Claim: The host says that when Charlie died she already had a name and a brand and was already being sued by the president of France.
+
+Transcript Snippet: I was already being sued by the president of France.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10270
+Supports: C-7885
+Tags: relevance:context
+Investigative Direction: Check the Delaware court docket for the Macron filing date against September 2025.
+
+---
+
+**C-11608** Host Says Her Ad Agreements Were Signed Through Q1 and No Advertisers or Rates Were Added After Charlie Died
+
+Claim Timestamp: 00:34:47
+
+Claim: The host says that when Charlie died her advertising agreements were already signed through Q1 of the following year, so not a single additional advertiser was added and no existing advertiser had its rates raised.
+
+Transcript Snippet: not a single additional advertiser was brought onto this platform and no existing advertisers had their rates raised.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:context
+Investigative Direction: Only the host's ad contracts could confirm this; the claim is a rebuttal to the article's profit allegation.
+
+---
+
+**C-11609** Host Says Her Show Sold Nothing With Charlie's Face After His Death
+
+Claim Timestamp: 00:35:29
+
+Claim: The host says her show sold nothing with Charlie's face, no memorabilia, in the aftermath of his death.
+
+Transcript Snippet: we sold nothing with Charlie's face. No memorabilia.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11014
+Tags: relevance:context
+Investigative Direction: Check the show's merchandise store archive for the period after September 10, 2025.
+
+---
+
+**C-11610** Host Says Her Tribute Episode, Her Biggest by Views, Carried Zero Ads
+
+Claim Timestamp: 00:35:29
+
+Claim: The host says that in her tribute episode to Charlie, her biggest episode by views ever, she sold and read zero ads.
+
+Transcript Snippet: our biggest episode by views ever, we sold um and consequently read zero ads. Zero.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Supports: C-9631
+Tags: relevance:context
+Investigative Direction: Watch the tribute episode for ad reads and check platform ad insertion records.
+
+---
+
+**C-11611** Host Says Her Show Was Already Top 10 Globally Above the Charlie Kirk Podcast and Averages Over a Million Views
+
+Claim Timestamp: 00:35:29
+
+Claim: The host says her show before Charlie died was already in the global top 10, above the Charlie Kirk podcast, and that every episode since the 2024 launch has averaged well above a million views.
+
+Transcript Snippet: Our show before Charlie died was already in the top 10 globally, sitting above the Charlie Kirk podcast.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10312
+Tags: relevance:context
+Investigative Direction: Check podcast chart history for August 2025 and YouTube view counts across 2024 and 2025 episodes.
+
+---
+
+**C-11612** Host Says Erika Began Doing Pageants at About Age 12
+
+Claim Timestamp: 00:38:14
+
+Claim: The host says Erika Kirk started doing pageants when she was about 12, maybe sixth grade, and has not stopped wanting to be in the spotlight.
+
+Transcript Snippet: You started doing pageants, I think we showed, when you were like 12.
+
+Anchored Artifacts: 
+Mentions: N-2
+Tags: relevance:context
+Investigative Direction: Check Erika's pageant history records and the earlier episode where the host showed them.
+
+---
+
+**C-11613** Host Says Erika Walked Out in a White Pantsuit With Sparklers at the Memorial
+
+Claim Timestamp: 00:38:14
+
+Claim: The host says Erika walked out in a white pantsuit with sparklers behind her at the memorial, which the host describes as the moment she got the spotlight she wanted.
+
+Transcript Snippet: When you walked out in a white pantsuit with sparklers behind you, and you sucked all of that in, that was it.
+
+Anchored Artifacts: 
+Mentions: N-2
+Tags: relevance:core
+Investigative Direction: Review memorial footage and photographs for Erika's entrance and clothing.
+
+---
+
+**C-11614** Host Says Erika and Others Clinked Glasses and Celebrated at a Restaurant After the Memorial
+
+Claim Timestamp: 00:38:14
+
+Claim: The host says Erika and the group clinked glasses, went to a restaurant and celebrated after the memorial, and that she has never seen such glee in photos of people at the memorial.
+
+Transcript Snippet: You clinked glasses, you guys then went to a restaurant, you celebrated.
+
+Anchored Artifacts: 
+Mentions: N-2
+Tags: relevance:core
+Investigative Direction: Locate the photographs and dated reports of the post-memorial dinner and who attended.
+
+---
+
+**C-11615** Host Says Erika Said on a Zoom Call That 50,000 Shirts Sold Into the LLC
+
+Claim Timestamp: 00:39:02
+
+Claim: The host says Erika got on a Zoom call and said the sales had been crazy, with 50,000 shirts sold, and that the money was kicked back into the LLC that Kolvet and the Charlie Kirk Show people own.
+
+Transcript Snippet: The sales have been crazy. 50,000 shirts sold, and kicked back into the LLC that me and the Charlie Kirk Show people own.
+
+Anchored Artifacts: 
+Mentions: N-2, N-14
+Related Nodes: N-11300, N-11014
+Tags: relevance:core
+Investigative Direction: Identify the Zoom call, its date and attendees, and obtain a recording or notes.
+
+---
+
+**C-11616** Host Says the Same Influencers Began Raising Sandy Hook as Soon as the Tyler Robinson Trial Began
+
+Claim Timestamp: 00:42:49
+
+Claim: The host says that as soon as the Tyler Robinson trial began, the same influencers who have been attacking her all started raising the matter of Sandy Hook.
+
+Transcript Snippet: Suddenly, as soon as the Tyler Robinson trial began, these same influencers who have been attacking me are all raising the matter of Sandy Hook.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10741
+Tags: relevance:context
+Investigative Direction: Build a dated list of influencer posts invoking Sandy Hook against the date of the first Robinson hearing.
+
+---
+
+**C-11617** Blake Neff Audio Says the Host Targets Erika, Turning Point and Their Family Members for a Theory With Nothing Behind It
+
+Claim Timestamp: 00:45:35
+
+Claim: In the Twitter Space audio the host plays, Blake Neff says the host has spent 10 months making effectively every episode target Erika, Turning Point and random family members, in pursuit of a conspiracy theory he says has never had anything to back it up.
+
+Transcript Snippet: target random family members of theirs as happened at times, for 10 months in pursuit of a conspiracy theory that has literally never had anything to back it up.
+
+Anchored Artifacts: A-2169.3
+Mentions: N-162, N-3, N-2
+Related Nodes: N-10741
+Tags: relevance:context
+Investigative Direction: Obtain the full Twitter Space recording and its date and speakers.
+
+---
+
+**C-11618** Host Says They Are Putting People on Their Show to Say Erika Is Like the Sandy Hook Parents
+
+Claim Timestamp: 00:47:17
+
+Claim: The host says that Turning Point-aligned shows are also putting people on air to say Erika is just like the parents at Sandy Hook.
+
+Transcript Snippet: they're also putting people on their show to say, you know, Erika's just like the parents at um Sandy Hook.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10741
+Tags: relevance:context
+Investigative Direction: Identify the guests and broadcasts that made the Erika-as-Sandy-Hook-parent comparison, with dates.
+
+---
+
+**C-11619** Host Says Alex Jones Has Apologized and Called What He Said Wrong
+
+Claim Timestamp: 00:47:17
+
+Claim: The host says Alex Jones said something about Sandy Hook, which he has apologized for before and said was wrong, speculating that the children did not actually die that day.
+
+Transcript Snippet: He said something, which he has apologized before and said was wrong.
+
+Anchored Artifacts: 
+Mentions: N-93
+Related Nodes: N-10741
+Tags: relevance:context
+Investigative Direction: Find Jones's public apology statements and dates.
+
+---
+
+**C-11620** Host Says Alex Jones Was Sued for Emotional Harassment and Lost $1.4 Billion
+
+Claim Timestamp: 00:47:17
+
+Claim: The host says the Sandy Hook families sued Alex Jones over emotional harassment and stress and won $1.4 billion, effectively ending his InfoWars platform and suing him into bankruptcy.
+
+Transcript Snippet: and they sued him and won for $1.4 billion, effectively ending his InfoWars platform, suing him into bankruptcy.
+
+Anchored Artifacts: 
+Mentions: N-93
+Related Nodes: N-10741
+Tags: relevance:context
+Investigative Direction: Check the Connecticut and Texas judgments against the $1.4 billion figure and the bankruptcy filing.
+
+---
+
+**C-11621** Viva Frei Says Exploding Microphones and Israel Did It Theories Are Unsubstantiated
+
+Claim Timestamp: 00:48:42
+
+Claim: On the Charlie Kirk Show clip, Viva Frei says theories that it was exploding microphones or that Israel did it are unsubstantiated and unfalsifiable, and that without a shred of evidence one cannot manufacture facts out of whole cloth.
+
+Transcript Snippet: But to go from there to say that it's exploding microphones, Israel did it, and not that Israel might not Israel might have had a hand in this.
+
+Anchored Artifacts: A-2169.4
+Mentions: N-340
+Related Nodes: N-10741
+Tags: relevance:context
+Investigative Direction: Obtain the full Charlie Kirk Show segment with its date and Viva Frei's complete remarks.
+
+---
+
+**C-11622** Viva Frei Concedes Issues With the Prosecution, Investigation and Evidence
+
+Claim Timestamp: 00:48:42
+
+Claim: On the Charlie Kirk Show clip, Viva Frei says he appreciates there are some issues with the prosecution, some issues with the investigation, and some issues with the evidence.
+
+Transcript Snippet: I appreciate there are some issues with the prosecution. There's some issues with the investigation, and there's some issues with the evidence.
+
+Anchored Artifacts: A-2169.4
+Mentions: N-340
+Related Nodes: N-10110
+Tags: relevance:core
+Investigative Direction: Obtain the segment and the specific issues Viva Frei refers to.
+
+---
+
+**C-11623** Kirk Audio Says a Judge Tossed Maddow's OAN Claim Under Free Speech Provisions
+
+Claim Timestamp: 00:51:27
+
+Claim: In the pre-death Charlie Kirk clip, Kirk says Rachel Maddow accused One America News Network of being funded by the Russian government and a judge tossed that out under free speech provisions.
+
+Transcript Snippet: Rachel Maddow accused One America News Network of being funded by the Russian government and a judge tossed that away because under free speech provisions.
+
+Anchored Artifacts: A-2169.5
+Mentions: N-1
+Related Nodes: N-10741
+Tags: relevance:tangential
+Investigative Direction: Check the OAN v. Maddow ruling and its date and grounds.
+
+---
+
+**C-11624** Kirk Audio Says Commentators Silent on Alex Jones Is Very Telling
+
+Claim Timestamp: 00:52:17
+
+Claim: In the pre-death clip, Kirk says it is a scorecard moment and that if your favorite conservative commentator is silent on Alex Jones, that is very telling.
+
+Transcript Snippet: If your favorite conservative commentator is silent on Alex Jones, that is very telling.
+
+Anchored Artifacts: A-2169.5
+Mentions: N-1, N-93
+Related Nodes: N-10741
+Tags: relevance:context
+Investigative Direction: Obtain the full broadcast with its date to confirm the quote and context.
+
+---
+
+**C-11625** Kirk Audio Cites Sandy Hook Families' Lawyers Saying the Verdict Would Signal to Conspiracy Purveyors
+
+Claim Timestamp: 00:52:17
+
+Claim: In the pre-death clip, Kirk reads that lawyers for the Sandy Hook families say a verdict will send a signal to other conspiracy purveyors about the cost of online lies, and he says the New York Times is basically saying this is bigger than Alex Jones.
+
+Transcript Snippet: Lawyers for the Sandy Hook families say a verdict will send a signal to other conspiracy purveyors about the cost of online lies
+
+Anchored Artifacts: A-2169.5
+Mentions: N-1, N-93
+Related Nodes: N-10741, N-10968
+Tags: relevance:context
+Investigative Direction: Find the original New York Times article quoted by Kirk.
+
+---
+
+**C-11626** Kirk Tweet Says Lawyers Are Trying to Seize Jones's Personal Social Media Accounts in Bankruptcy
+
+Claim Timestamp: 00:54:20
+
+Claim: In the Charlie Kirk post the host reads, Kirk says the lawyers behind the sham billion-dollar verdict against Alex Jones are now trying to seize his personal social media accounts in bankruptcy.
+
+Transcript Snippet: The lawyers behind the sham billion-dollar verdict against Alex Jones are now trying to seize his personal social media accounts in bankruptcy.
+
+Anchored Artifacts: A-2169.6
+Mentions: N-1, N-93
+Related Nodes: N-10741
+Tags: relevance:context
+Investigative Direction: Confirm the post on Kirk's X account and its date, and the underlying bankruptcy motion.
+
+---
+
+**C-11627** Viewer Comment Says a 1993 Documentary Conspiracy of Silence Was Pulled From Discovery Channel
+
+Claim Timestamp: 00:57:02
+
+Claim: A viewer comment the host reads says the 1993 documentary 'Conspiracy of Silence', about the Franklin scandal, was supposed to air on the Discovery Channel but was pulled from the schedule.
+
+Transcript Snippet: watch the 1993 documentary entitled Conspiracy of Silence. It was supposed to air on the Discovery Channel but was pulled from the schedule.
+
+Anchored Artifacts: A-3142.1
+Tags: relevance:tangential
+Investigative Direction: Check broadcast histories for the documentary's scheduled 1994 Discovery airing and its withdrawal.
+
+---
+
+**C-11628** Host Says Black Magic Is Extraordinarily Real and Hollywood Made People Think It Was Hocus Pocus
+
+Claim Timestamp: 00:57:02
+
+Claim: The host says that black magic is extraordinarily real and that for a very long time Hollywood had people thinking it was just hocus pocus.
+
+Transcript Snippet: It is it is extraordinarily real. And for a very long time Hollywood had people thinking it was just hocus pocus.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Not independently checkable; recorded as an assertion by the host.
+
+---
+
+**C-11629** Host Reads a Tweet Counting 591 Laura Loomer Posts About Her
+
+Claim Timestamp: 00:59:46
+
+Claim: The host reads a tweet saying 591 Laura Loomer posts have talked about @realcandaceo, that this is only what fit on a screen, and that about 45 of them came in one evening.
+
+Transcript Snippet: Here's 591 Laura Loomer posts talking about @realcandaceo.
+
+Anchored Artifacts: A-3143.1
+Mentions: N-60, N-3
+Tags: relevance:context
+Investigative Direction: Count Loomer's posts mentioning the host over a defined period using X's archive.
+
+---
+
+**C-11630** Host Says Loomer Is Retweeted by Shapiro's Lawyer, Who Now Sues Her on Behalf of Bryan Harpole
+
+Claim Timestamp: 00:59:46
+
+Claim: The host says Laura Loomer is retweeted by Ben Shapiro's lawyer, who has been suing the host for three years and is now suing her on behalf of Bryan Harpole.
+
+Transcript Snippet: This is the person that's then retweeted by Ben Shapiro's lawyer who's been suing me for 3 years, who's now suing me on behalf of Bryan Harpole.
+
+Anchored Artifacts: A-3143.1
+Mentions: N-60, N-97, N-272, N-3
+Related Nodes: N-10651
+Tags: relevance:core
+Investigative Direction: Check the docket of the Harpole filing for counsel of record and compare with counsel in the Shapiro matter.
+
+---
+
+**C-11631** Host Says She Has Had to Increase Her Security Because of Death Threats
+
+Claim Timestamp: 01:00:38
+
+Claim: The host says she has had to up her security and that she gets death threats.
+
+Transcript Snippet: Have I had to up my security? Absolutely.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:context
+Investigative Direction: Only the host's security arrangements and any police reports could confirm this.
+
+---
+
+**C-11632** Host Says Hospital Staff Told Her Their Computers Were Shut Down for Six Hours
+
+Claim Timestamp: 01:02:06
+
+Claim: The host says she is hearing from people who worked in other parts of the hospital that their computers were shut down for 6 hours, and that those who reached out feel something strange happened that day.
+
+Transcript Snippet: We are now hearing from um people who worked in other parts of the hospital saying that their computers were shut down for 6 hours.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11218, N-10765
+Tags: relevance:core
+Investigative Direction: Ask the hospital and its IT provider for network or outage logs for September 10, 2025, and seek the staff in question.
+
+---
+
+**C-11633** Host Asks for Tips and More Photos From Timpanogos and Offers to Accept Federal Whistleblowers
+
+Claim Timestamp: 01:02:06
+
+Claim: The host asks viewers for tips at moretips@candaceowens.com, particularly more photos of the scene and what took place at Timpanogos to tighten the timeline, and says she will accept information from anyone, including federal government agents who want to be whistleblowers, and will correct errors.
+
+Transcript Snippet: more tips at candaceowens. com. If you know anything, uh have more photos that we can display
+
+Anchored Artifacts: A-3144.1
+Mentions: N-3
+Related Nodes: N-11218
+Tags: relevance:core
+Investigative Direction: Review the tip inbox for submissions about Timpanogos photographs and timeline.
+
+---
+
+**C-11634** Host Asks Turning Point Employees to Reach Out With What They Are Hearing
+
+Claim Timestamp: 01:02:06
+
+Claim: The host asks Turning Point USA employees who are hearing rumblings about what is going on there and have seen enough to reach out at moretips@candaceowens.com, and says she has people there.
+
+Transcript Snippet: If you are hearing the rumblings about anything, about what's going on there, and you've seen enough, reach out to us.
+
+Anchored Artifacts: A-3144.2
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Review the tip inbox for submissions from TPUSA employees.
 
 ---
 

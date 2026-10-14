@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq095
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep095): N-10751, N-10759, N-10799, N-10801, N-10808, N-10812
+  - Hole-minted Nodes (reintro-ep095): N-10759, N-10799, N-10801, N-10808, N-10812
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-613, N-10907
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-15, N-22, N-30, N-40, N-41, N-46, N-48, N-54, N-60, N-69, N-93, N-162, N-194, N-267, N-290, N-348, N-349, N-372, N-397, N-500, N-576, N-10000, N-10006, N-10012, N-10022, N-10023, N-10070, N-10077, N-10300, N-10323, N-10346, N-10376, N-10570, N-10581, N-10590, N-10600, N-10613, N-10618, N-10626, N-10628, N-10664, N-10810, N-10870, N-10908
+  - Tip-minted Nodes (skeleton): N-10907
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-15, N-22, N-30, N-40, N-41, N-46, N-48, N-54, N-60, N-69, N-93, N-162, N-194, N-267, N-290, N-348, N-349, N-372, N-397, N-500, N-576, N-10000, N-10006, N-10012, N-10022, N-10023, N-10070, N-10077, N-10300, N-10323, N-10346, N-10376, N-10570, N-10581, N-10590, N-10600, N-10613, N-10618, N-10626, N-10628, N-10664, N-10810, N-10870, N-10908, N-613, N-10751
   - Claim Range: C-3827–C-3883
   - (see registers)
 

@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: a4f178d69e8bc8d30d77b84650ec3497630fa5202686df6ed729ebeb114f0d63
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-882, N-883, N-884, N-885, N-11263, N-11264, N-11265
+  - Tip-minted Nodes (supplement_2026-10d): N-882, N-883, N-885, N-11263, N-11264, N-11265
   - Hole-minted Nodes (reintro-ep152): N-198
   - Tip-minted Nodes (reintro-ep152): N-850, N-851
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10500–C-10589
-  - Reused Nodes Appearing: N-10832, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-138, N-157, N-162, N-208, N-228, N-242, N-284, N-332, N-337, N-348, N-375, N-434, N-460, N-461, N-471, N-498, N-499, N-541, N-582, N-700, N-701, N-702, N-791, N-815, N-816, N-817, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10056, N-10129, N-10151, N-10193, N-10198, N-10246, N-10338, N-10410, N-10411, N-10421, N-10435, N-10524, N-10609, N-10698, N-10725, N-10770, N-10899, N-10969, N-10989, N-11047, N-11099, N-11165, N-11167, N-11203
+  - Reused Nodes Appearing: N-10832, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-138, N-157, N-162, N-208, N-228, N-242, N-284, N-332, N-337, N-348, N-375, N-434, N-460, N-461, N-471, N-498, N-499, N-541, N-582, N-700, N-701, N-702, N-791, N-815, N-816, N-817, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10056, N-10129, N-10151, N-10193, N-10198, N-10246, N-10338, N-10410, N-10411, N-10421, N-10435, N-10524, N-10609, N-10698, N-10725, N-10770, N-10899, N-10969, N-10989, N-11047, N-11099, N-11165, N-11167, N-11203, N-884
  - New Nodes Introduced: N-10831, N-10832
  - Reused Nodes Appearing: N-11, N-518
  - Hole-minted Nodes (wave3): N-601
@@ -456,8 +456,7 @@ Existing topic reused.
 
 ---
 
-**N-10435** Fort Wuka Erika Kirk Location Investigation
-
+**N-10435** Fort Huachuca Erika Kirk Location Investigation
 Existing topic reused for the Fort Wuka reference.
 
 *Related: C-10502*

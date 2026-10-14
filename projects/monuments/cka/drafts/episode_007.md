@@ -15,10 +15,14 @@
 - **Transcript SHA-256**: 05c80b0f23bab3431b8d277251cd2231ddfdd801d28cb34d1e440687aa0c59f5
 
 - **Episode Ledger Summary**:
+  - Hole-minted Nodes (reintro-ep007): N-99, N-289, N-10094, N-10110, N-10134, N-10297, N-10341
+  - Tip-minted Nodes (reintro-ep007): N-10900, N-11116
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10e): C-10717–C-10770
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
   - Claim Range: C-1228-C-1244, C-3717
   - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10082, N-10083, N-10084, N-10085, N-10086, N-10087, N-10088, N-10089, N-10090, N-10091
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004
 
 ## 2. Executive Summary
 
@@ -193,6 +197,72 @@ Confidence: high
 
 ---
 
+**A-3096** George Zinn Crowd Photo Bundle
+
+**A-3096.1** Photo of George Zinn in the crowd, sent in by a viewer and shown on screen by the host
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:05:30
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-10721, N-3, N-42*
+
+---
+
+**A-3097** Decentralized Intelligence Agency Tips Line Bundle
+
+**A-3097.1** Host verbal reference to her tips line, where multiple people messaged about an underground area and trap-door boxes near Charlie Kirk's seat (messages not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:20:58
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-10731, N-3*
+
+---
+
+**A-3098** Decentralized Intelligence Agency Tip Email Bundle
+
+**A-3098.1** Host verbal call for tips to the tip email address (transcribed as canowens. com)
+
+Quoted text: "send me tips at canowens. com if you have any more information that you'd like to share with me."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:45:40
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10753, N-3*
+
+---
+
+**A-3099** Viewer Comments Read Aloud Bundle (Sept 22 Episode)
+
+**A-3099.1** Viewer comment (Payne River) read on air: questions about local police, FBI involvement, LDS recruiting, Tyler looking like a fed, a flechette and a memorial like JFK
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:55:57
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-10761, C-10762*
+
+---
+
+**A-3099.2** Viewer comment (Rosa Marie Martinez) read on air saying Andrew said on a Charlie Kirk show that someone powerful called Erika and asked how much she knows
+
+Quoted text: "On a Charlie Kirk show last week, Andrew said someone powerful called Erika and asked how much she knows,"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:57:01
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-10763, C-10764, N-14, N-2*
+
+---
 
 ## 4. Node Register
 
@@ -501,6 +571,278 @@ Viewer-raised suspicion about Dr. Frank Turk's memorial speech and possible guil
 
 ---
 
+**N-38** Seth Dillon
+
+Seth Dillon; one of the two men the host guesses supplied the texts.
+
+*Related: C-10739*
+
+---
+
+**N-46** Megyn Kelly
+
+Megyn Kelly; credited by the host with the under-30 Israel remark.
+
+*Related: C-10745*
+
+---
+
+**N-55** Josh Hammer
+
+Josh Hammer; the other man the host guesses supplied the texts.
+
+*Related: C-10739*
+
+---
+
+**N-64** Brian Mast
+
+Brian Mast; his congressional remark prompted the host's genocide tweet.
+
+*Related: C-10741*
+
+---
+
+**N-82** Brigitte Macron
+
+Brigitte Macron; subject of the host's series plug.
+
+*Related: C-10755*
+
+---
+
+**N-83** Unidentified camera individual
+
+Unidentified camera individual; the host says she recognized him and spoke with him.
+
+*Related: C-10723*
+
+---
+
+**N-99** Alex Clark
+
+Alex Clark; host whose show Erika is said to be appearing on.
+
+*Related: C-10765, C-10770*
+
+---
+
+**N-289** Eric Bolling
+
+Eric Bolling; the host says he claimed a breakup and had interviewed her in 2020.
+
+*Related: C-10735*
+
+---
+
+**N-10011** TMZ
+
+TMZ; received the witness's footage per the host.
+
+*Related: C-10729*
+
+---
+
+**N-10014** Federal Bureau of Investigation
+
+Federal Bureau of Investigation; Patel's agency and the body the host says she was reported to.
+
+*Related: C-10727, C-10734*
+
+---
+
+**N-10024** Kirk Assassination Investigation Timeline
+
+Kirk Assassination Investigation Timeline; the host's planned minute-by-minute timeline.
+
+*Related: C-10720*
+
+---
+
+**N-10027** The Hamptons
+
+The Hamptons; location of the gathering the host mentions.
+
+*Related: C-10737*
+
+---
+
+**N-10032** Decoy Boy Operation Analysis
+
+Decoy Boy Operation Analysis; topic covering Zinn's role.
+
+*Related: C-10721*
+
+---
+
+**N-10036** Building Donor Withdrawal Investigation
+
+Building Donor Withdrawal Investigation; donor pulled funding and demanded name removal.
+
+*Related: C-10770*
+
+---
+
+**N-10047** Donor Intimidation of Charlie Kirk
+
+Donor Intimidation of Charlie Kirk; topic for pressure on Charlie.
+
+*Related: C-10738, C-10751*
+
+---
+
+**N-10053** Vacant-House / Decoy Shooter Theory
+
+Vacant-House / Decoy Shooter Theory; the vacant UVU-owned house.
+
+*Related: C-10728*
+
+---
+
+**N-10054** Calira Engineering Valve Pattern
+
+Calira Engineering Valve Pattern; the witness's valve company.
+
+*Related: C-10729*
+
+---
+
+**N-10060** Good Morning America
+
+Good Morning America; where the children appeared.
+
+*Related: C-10754*
+
+---
+
+**N-10063** Gaza
+
+Gaza; context for the leaked thread and Israel remarks.
+
+*Related: C-10740, C-10756*
+
+---
+
+**N-10070** Daily Mail
+
+Daily Mail; reported the host raged about not being invited.
+
+*Related: C-10760*
+
+---
+
+**N-10076** Cameragate Investigation
+
+Cameragate Investigation; camera removal after the shooting.
+
+*Related: C-10723*
+
+---
+
+**N-10080** Valve/Piping Industry Intelligence Connection
+
+Valve/Piping Industry Intelligence Connection; the host's valve remark.
+
+*Related: C-10730*
+
+---
+
+**N-10094** LDS Church
+
+LDS Church; the host's intelligence recruiting remark.
+
+*Related: C-10761*
+
+---
+
+**N-10104** Catholic Conversion Rumor
+
+Catholic Conversion Rumor; Charlie and Catholicism.
+
+*Related: C-10768, C-10769*
+
+---
+
+**N-10110** Tyler Robinson Evidence Gaps
+
+Tyler Robinson Evidence Gaps; the disappeared letter.
+
+*Related: C-10726*
+
+---
+
+**N-10134** Hamptons Weekend Retreat
+
+Hamptons Weekend Retreat; gathering context.
+
+*Related: C-10737*
+
+---
+
+**N-10139** Operation Mocking Pastor
+
+Operation Mocking Pastor; what the host says the $150 million funded.
+
+*Related: C-10766*
+
+---
+
+**N-10268** AmFest Speaker Removal Pattern
+
+AmFest Speaker Removal Pattern; the host says she was blocked from speaking.
+
+*Related: C-10744*
+
+---
+
+**N-10297** Eric Bolling / PBD Podcast Apology Incident
+
+Eric Bolling / PBD Podcast Apology Incident; Bolling topic reused for his breakup claim.
+
+*Related: C-10735*
+
+---
+
+**N-10341** Andrew Kolvet Surgeon Bullet Description
+
+Andrew Kolvet Surgeon Bullet Description; Kolvet statement.
+
+*Related: C-10725*
+
+---
+
+**N-10342** Bibi Netanyahu TPUSA Funding Offer
+
+Bibi Netanyahu TPUSA Funding Offer; alleged offer.
+
+*Related: C-10765, C-10767*
+
+---
+
+**N-10900** Daily Wire
+
+Daily Wire; the host's former employer.
+
+*Related: C-10746*
+
+---
+
+**N-11004** Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens
+
+Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens; the funding claim.
+
+*Related: C-10766*
+
+---
+
+**N-11116** Candace Owens Daily Wire Firing Reasons
+
+Candace Owens Daily Wire Firing Reasons; her job loss.
+
+*Related: C-10746*
+
+---
+
 ## 5. Claim Register
 
 **C-1228** Erika Kirk publicly forgave Charlie's killer at memorial
@@ -746,6 +1088,1092 @@ Investigative Direction: Verify Posobiec's naval intelligence service record and
 
 ---
 
+**C-10717** Host tweeted Erika Kirk's memorial speech was the most consequential in American history
+
+Claim Timestamp: 00:00:53
+
+Claim: The host says she tweeted, and meant seriously, that Erika Kirk's speech at the memorial was the most consequential speech in American history.
+
+Transcript Snippet: And I was being serious when I tweeted that I think it was the most consequential speech in American history.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-2
+
+Tags: relevance:context
+
+Investigative Direction: Archive the host's tweet about Erika Kirk's speech and its date.
+
+---
+
+**C-10718** Host recounts meeting Erika Kirk at Del Frisco's in New York
+
+Claim Timestamp: 00:02:51
+
+Claim: The host says Charlie Kirk, who was falling for Erika, invited her to meet Erika at Del Frisco's in New York City, and that she found Erika lovely and told Charlie to go for it.
+
+Transcript Snippet: Come meet her at Del Frisco's in New York City and I came there and she was just lovely.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-1, N-2
+
+Tags: relevance:context
+
+Investigative Direction: Ask the host for the date of the New York meeting; check any public photos or messages from it.
+
+---
+
+**C-10719** Erika's speech said Charlie did not suffer
+
+Claim Timestamp: 00:03:19
+
+Claim: The host says the part of Erika Kirk's memorial speech that gave her peace was Erika explaining that Charlie did not suffer, and plays the passage in which Erika says Charlie blinked and saw his savior in paradise.
+
+Transcript Snippet: But specifically, the part that she shared that provided me with so much peace and I needed to hear it truly was when she explained that Charlie did not suffer
+
+Anchored Artifacts: A-1134.1
+
+Mentions: N-3, N-2, N-1
+
+Tags: relevance:context
+
+Investigative Direction: Obtain the full video of Erika Kirk's memorial speech and compare the wording about Charlie not suffering with the medical account.
+
+---
+
+**C-10720** Host is building a minute-by-minute timeline of the post-shooting minutes
+
+Claim Timestamp: 00:05:04
+
+Claim: The host says she is working on a minute-by-minute timeline of what happened in the seconds and minutes after Charlie Kirk was shot, which she will release later in the week.
+
+Transcript Snippet: In fact, I'm now currently working on a minuteby minute timeline, which I will have for you guys later this week,
+
+Anchored Artifacts:
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10024
+
+Tags: relevance:core
+
+Investigative Direction: Check the host's later episodes for the promised timeline and compare it with official and video-derived timestamps.
+
+---
+
+**C-10721** Host located George Zinn in the crowd and finds his path suspicious
+
+Claim Timestamp: 00:05:19
+
+Claim: The host says she located George Zinn in the crowd, finds it suspicious how far from the stage he was and that he was then taken through a pathway to the same area where Charlie was taken to the car, and credits a viewer for the photo.
+
+Transcript Snippet: as I asked over the weekend, locate George Zinn in the crowd. It seems a bit suspicious to me how far he was.
+
+Anchored Artifacts: A-3096.1
+
+Mentions: N-3, N-42, N-1
+
+Related Nodes: N-10032
+
+Tags: relevance:core
+
+Investigative Direction: Obtain the viewer photo and the video showing Zinn on the pathway; map his route against the transport car location.
+
+---
+
+**C-10722** Host believes people inside TPUSA betrayed Charlie
+
+Claim Timestamp: 00:05:59
+
+Claim: The host says she is relieved Erika Kirk heads Turning Point USA and that, doubling down on what she alluded to last week, she believes people within the company betrayed Charlie, adding she wants the facts firmly in hand before saying more.
+
+Transcript Snippet: I am relieved that Erika Kirk is at the head of Turning Point USA because just like I alluded to last week and which I will double down on now I believe that people within that company betrayed Charlie.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-2, N-1
+
+Related Nodes: N-10000
+
+Tags: relevance:core
+
+Investigative Direction: Identify who the host means; look for her later documents, sources or named employees supporting the betrayal claim.
+
+---
+
+**C-10723** Host recognized the camera-removal man and reached out
+
+Claim Timestamp: 00:07:06
+
+Claim: The host says the viral footage showed the man taking down the camera directly behind Charlie's head about four minutes after the shot, that she recognized him, reached out, spoke with him and saw his footage, and promised not to share it.
+
+Transcript Snippet: Everybody thought that it was very suspicious. I recognized the individual and reached out,
+
+Anchored Artifacts:
+
+Mentions: N-3, N-1
+
+Related Nodes: N-83, N-10076
+
+Supports: C-4902, C-1205
+
+Tags: relevance:core
+
+Investigative Direction: Identify the man, obtain the footage he showed the host and the Friday episode's description of it.
+
+---
+
+**C-10724** Host says the footage showed no blood except on Charlie's left hand
+
+Claim Timestamp: 00:07:50
+
+Claim: The host says she did not see any blood in the footage, and the only blood she saw was on Charlie's left hand, which she says people read as the blood having moved forward.
+
+Transcript Snippet: And that is a fact. I did not see any blood. In fact, the only blood that I did see at all,
+
+Anchored Artifacts:
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10085
+
+Supports: C-1209
+
+Tags: relevance:core
+
+Investigative Direction: Obtain the behind-camera footage and have a forensic pathologist assess blood visible on the back of the neck and the left hand.
+
+---
+
+**C-10725** Kolvet statement says the bullet would likely have killed those behind Charlie and the coroner found it beneath the skin
+
+Claim Timestamp: 00:09:35
+
+Claim: The host reads Andrew Kolvet's statement saying the doctor believed the bullet should have gone through and likely killed people standing behind Charlie, and that the coroner found the bullet just beneath the skin.
+
+Transcript Snippet: It should have just gone through and through. It likely would have killed those standing behind him,
+
+Anchored Artifacts: A-1135.1
+
+Mentions: N-14, N-1, N-3
+
+Related Nodes: N-10341, N-10085
+
+Tags: relevance:core
+
+Investigative Direction: Obtain Kolvet's original post and any coroner or autopsy record stating where the bullet was recovered.
+
+---
+
+**C-10726** Host says Robinson's letter has disappeared and only his partner photographed it
+
+Claim Timestamp: 00:14:19
+
+Claim: The host says the letter Tyler Robinson allegedly left has since been disappeared, and that only a photograph taken by his partner exists.
+
+Transcript Snippet: just a miracle that he happened to leave this letter that has since been disappeared.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-40
+
+Related Nodes: N-10110
+
+Tags: relevance:core
+
+Investigative Direction: Ask prosecutors whether the original note is in evidence, and obtain the chain of custody and the photograph.
+
+---
+
+**C-10727** Patel's tweet lists hand gestures and weapon transport among investigated theories
+
+Claim Timestamp: 00:15:50
+
+Claim: The host reads Kash Patel's tweet saying the FBI is examining theories including how the weapon was transported, hand gestures seen as possible signals near Charlie and visitors to the alleged shooter's residence.
+
+Transcript Snippet: how the weapon was transported, hand gestures observed as potential signals near Charlie at the time of his assassination,
+
+Anchored Artifacts: A-1137.1
+
+Mentions: N-69, N-1, N-3
+
+Related Nodes: N-10014
+
+Tags: relevance:core
+
+Investigative Direction: Retrieve Patel's original post and ask the FBI for any record about the hand-gesture line of inquiry.
+
+---
+
+**C-10728** Host says the house next door is vacant and owned by UVU
+
+Claim Timestamp: 00:19:11
+
+Claim: The host says the house next door to the event site has been vacant and is owned by Utah Valley University, which led her to look into the witnesses.
+
+Transcript Snippet: Because once we began learning about that house next door that's been vacant and is owned by UVU and once we began looking into the witnesses
+
+Anchored Artifacts:
+
+Mentions: N-3
+
+Related Nodes: N-10053, N-10012
+
+Tags: relevance:core
+
+Investigative Direction: Pull county property records for the house, its ownership and occupancy history.
+
+---
+
+**C-10729** Host says the TMZ witness runs a worldwide valve engineering company
+
+Claim Timestamp: 00:19:27
+
+Claim: The host says, while stressing she does not imply wrongdoing, that the witness whose footage ended up with TMZ runs an engineering company with worldwide presence that specializes in making valves.
+
+Transcript Snippet: that witness whose uh footage ended up in the hands of TMZ runs an engineering company uh that is has a presence worldwide and they specialize in making these valves.
+
+Anchored Artifacts:
+
+Mentions: N-3
+
+Related Nodes: N-10054, N-10011
+
+Supports: C-1218
+
+Tags: relevance:core
+
+Investigative Direction: Check corporate filings for the company, its ownership, and the witness's role and relation to the company.
+
+---
+
+**C-10730** Host says valves historically connect to the government and deep state
+
+Claim Timestamp: 00:19:42
+
+Claim: The host says people told her valves have historically been connected to the government and the deep state and that valves matter to warfare, which made her wonder about pipelines under the event site.
+
+Transcript Snippet: I started thinking once people told me that valves historically have a connection to the government and the deep state um about how important those valves were to warfare
+
+Anchored Artifacts:
+
+Mentions: N-3
+
+Related Nodes: N-10080
+
+Supports: C-1217
+
+Tags: relevance:tangential
+
+Investigative Direction: Identify the sources who told the host and any documentation of government valve-supply contracts.
+
+---
+
+**C-10731** Host says tipsters messaged her about an underground area and trap-door boxes
+
+Claim Timestamp: 00:20:58
+
+Claim: The host says she checked her tips line and more than one person had messaged her about an underground structure and two small boxes near Charlie's seat that tipsters described as a trap door.
+
+Transcript Snippet: And to your right, I went into my tips line and I saw that somebody had messaged me about this.
+
+Anchored Artifacts: A-3097.1
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10087, N-10012
+
+Supports: C-1234
+
+Tags: relevance:core, DIA
+
+Investigative Direction: Obtain the tip messages and UVU utility and site plans showing hatches or access boxes near the seating area.
+
+---
+
+**C-10732** Host theorizes Charlie could have been shot from beneath
+
+Claim Timestamp: 00:21:48
+
+Claim: The host theorizes, saying she is not a ballistics expert, that someone beneath Charlie might have fired while attention was on a decoy, which she says could explain the lack of an exit wound, and asks whether the feds explored it.
+
+Transcript Snippet: So, I'm wondering if the federal government has explored the possibility that somebody could have been under Charlie and done that while everyone's looking around and thinking that a shot went off from here.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10087, N-10085
+
+Tags: relevance:core
+
+Investigative Direction: Obtain the autopsy wound trajectory and any ground-penetrating or site survey ruling out an access point.
+
+---
+
+**C-10733** Host says a university-managed irrigation system runs beneath Charlie's seat
+
+Claim Timestamp: 00:22:35
+
+Claim: The host says that where Charlie sat there is a whole irrigation system managed by the university, so there is definitely infrastructure beneath him.
+
+Transcript Snippet: And I saw that actually where he was sitting, there's a whole irrigation system that's managed by the university.
+
+Anchored Artifacts:
+
+Mentions: N-1, N-3
+
+Related Nodes: N-10012, N-10087
+
+Supports: C-1234
+
+Tags: relevance:core
+
+Investigative Direction: Obtain UVU irrigation plans for the amphitheater area.
+
+---
+
+**C-10734** Host says she was reported to the FBI and the CIA
+
+Claim Timestamp: 00:23:36
+
+Claim: The host says that over the weekend someone reported her to the FBI and the CIA.
+
+Transcript Snippet: But over the weekend, somebody reported me to the FBI and the CIA.
+
+Anchored Artifacts:
+
+Mentions: N-3
+
+Related Nodes: N-10014, N-10082, N-10088
+
+Supports: C-1236
+
+Tags: relevance:context
+
+Investigative Direction: Ask the host whether any agency contacted her and who filed the reports.
+
+---
+
+**C-10735** Host says Eric Bolling claimed a breakup and had interviewed her in 2020
+
+Claim Timestamp: 00:28:56
+
+Claim: The host says Eric Bolling said on his program that she and Charlie had a breakup and that he had not seen her since 2015, which she notes is odd because he interviewed her in 2020.
+
+Transcript Snippet: Right. Eric Bowling did this. He said I even I don't know if if he was even sober on that program because he said he hadn't seen me.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-289, N-1
+
+Related Nodes: N-10297
+
+Tags: relevance:context
+
+Investigative Direction: Pull the Bolling broadcast and the 2020 interview to check both dates.
+
+---
+
+**C-10736** Host denies ever having a falling out with Charlie Kirk
+
+Claim Timestamp: 00:29:15
+
+Claim: The host says she never had a falling out with Charlie Kirk and that the breakup story was made up.
+
+Transcript Snippet: I never had a falling out with Charlie Kirk.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10089
+
+Contradicts: C-1204
+
+Tags: relevance:core
+
+Investigative Direction: Compare the host's and Kirk's public appearances and messages across 2023 to 2025.
+
+---
+
+**C-10737** Host says she heard Awesome Jew was in the Hamptons with Bill Ackman's group
+
+Claim Timestamp: 00:29:20
+
+Claim: The host says she heard that the X account Awesome Jew was in the Hamptons with Bill Ackman and the group that went out there.
+
+Transcript Snippet: Awesome Jew, who I heard was also in the Hamptons with Bill Ackman and that group of people who went out there,
+
+Anchored Artifacts:
+
+Mentions: N-96, N-37, N-3
+
+Related Nodes: N-10027, N-10134
+
+Tags: relevance:context
+
+Investigative Direction: Identify the attendee list of the Hamptons gathering and the person behind the account.
+
+---
+
+**C-10738** Host says the leaked texts show donors and Zionists tried to control Charlie's speech
+
+Claim Timestamp: 00:30:01
+
+Claim: The host says the leaked text exchange, meant to prove a breakup, instead proved that donors and Zionists were trying to control Charlie's speech, her speech and who he platformed.
+
+Transcript Snippet: that donors and Zionists were attempting to control his speech, my speech, and who he platformed.
+
+Anchored Artifacts: A-1141.2
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10089, N-10047
+
+Tags: relevance:context
+
+Investigative Direction: Obtain the full unredacted thread with dates and sender identity.
+
+---
+
+**C-10739** Host guesses the Charlie friend is Seth Dillon or Josh Hammer
+
+Claim Timestamp: 00:30:13
+
+Claim: The host speculates, based on the style of the messages, that the unnamed close friend of Charlie Kirk who shared them is either Seth Dillon or Josh Hammer, while allowing it may be neither.
+
+Transcript Snippet: I'm going to guess it's either Seth Dillon or Josh Hammer.
+
+Anchored Artifacts: A-1141.1
+
+Mentions: N-3, N-96, N-38, N-55
+
+Tags: relevance:context
+
+Investigative Direction: Ask the Awesome Jew account holder or the two named men whether they supplied the messages; treat as speculation.
+
+---
+
+**C-10740** Leaked thread has the friend demanding Candace say Israel is not committing genocide, and Charlie replying he is trying to help her
+
+Claim Timestamp: 00:30:35
+
+Claim: The host reads the leaked text thread: the friend says Candace needs to say that Israel is not committing a genocide and that 30 dead, raped, kidnapped and beheaded Americans in Gaza make the fight America first, and Charlie replies that this is right and that he is really trying to help her.
+
+Transcript Snippet: I watched the podcast. Candace needs to say two things and this will stop in its tracks.
+
+Anchored Artifacts: A-1141.2
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10089, N-10063
+
+Tags: relevance:context
+
+Investigative Direction: Obtain the original screenshots and verify authenticity, sender names and dates.
+
+---
+
+**C-10741** Host says her genocide tweet answered Brian Mast's remark
+
+Claim Timestamp: 00:32:08
+
+Claim: The host says her tweet that genocide is always wrong responded to Brian Mast saying in Congress that there is no such thing as an innocent Palestinian life, and that she was then pressured to correct and apologize for the tweet.
+
+Transcript Snippet: "There's no such thing as an innocent Palestinian life." That was grotesque. So, I then started getting peer pressured to correct the tweets,
+
+Anchored Artifacts: A-1142.1
+
+Mentions: N-3, N-64
+
+Supports: C-3721
+
+Tags: relevance:context
+
+Investigative Direction: Find the Mast statement in the Congressional record or video and the tweet's date.
+
+---
+
+**C-10742** Host says Charlie's friend was reacting to her interview with a Zionist guest
+
+Claim Timestamp: 00:32:43
+
+Claim: The host says the friend in the thread was reacting to her conversation with a Zionist guest (transcribed Ammy Kak) and that Charlie probably told him to watch it to see she is not antisemitic.
+
+Transcript Snippet: And that's what he's referring to. The conversation that I had uh with Ammy Kak.
+
+Anchored Artifacts: A-1141.2
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10089
+
+Tags: relevance:context
+
+Investigative Direction: Identify the guest and episode and date it against the messages.
+
+---
+
+**C-10743** Host says she toured with Charlie in early 2024 and spoke at TPUSA in summer 2024
+
+Claim Timestamp: 00:33:00
+
+Claim: The host says she went on tour with Charlie at the beginning of 2024 and spoke at the TPUSA conference in the summer of 2024, which she says disproves a falling out last year.
+
+Transcript Snippet: because obviously I went on tour with Charlie at the beginning of 2024 and I spoke at their conference in the summer of 2024
+
+Anchored Artifacts:
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10000, N-10089
+
+Supports: C-1200, C-1223
+
+Tags: relevance:core
+
+Investigative Direction: Check TPUSA event schedules and recordings for the 2024 tour and conference.
+
+---
+
+**C-10744** Host says Charlie was peer pressured not to have her speak at AmFest
+
+Claim Timestamp: 00:33:25
+
+Claim: The host says Charlie was peer pressured by the same individuals so that she would not speak at AmFest, and that she told him she did not care.
+
+Transcript Snippet: rather what happened was Charlie was peer pressured by these same individuals um that I you know for me not to speak at Amfest
+
+Anchored Artifacts:
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10268
+
+Tags: relevance:core
+
+Investigative Direction: Obtain messages or witnesses about AmFest speaker lineup changes in 2024.
+
+---
+
+**C-10745** Host repeats Megyn Kelly saying nobody under 30 supports Israel
+
+Claim Timestamp: 00:33:58
+
+Claim: The host says, attributing it to Megyn Kelly, that you cannot find anybody under 30 who supports Israel, and calls it a fact.
+
+Transcript Snippet: she you can't find anybody beneath the age of 30 that supports Israel. That's a fact.
+
+Anchored Artifacts:
+
+Mentions: N-46, N-3, N-1
+
+Tags: relevance:tangential
+
+Investigative Direction: Find polling on support for Israel among under-30 Americans and the Megyn Kelly statement.
+
+---
+
+**C-10746** Host says her livelihood was threatened and she lost her job
+
+Claim Timestamp: 00:34:16
+
+Claim: The host says her livelihood was threatened, people behind the scenes told her what she had to say to stay in the circle, and she eventually lost her job and chose not to stay in it.
+
+Transcript Snippet: I I was my livelihood was being threatened. And then eventually obviously I lost my job behind the scenes telling me what I had to say
+
+Anchored Artifacts:
+
+Mentions: N-3
+
+Related Nodes: N-11116, N-10900
+
+Tags: relevance:context
+
+Investigative Direction: Compare with the host's other accounts of her Daily Wire exit.
+
+---
+
+**C-10747** Clip exchange says cancelling Tucker Carlson would increase antisemitism
+
+Claim Timestamp: 00:36:58
+
+Claim: In the July town hall clip, an exchange asks whether cancelling Tucker Carlson would increase or decrease antisemitism and the answer, which appears to be Charlie's, is that it would increase it.
+
+Transcript Snippet: I think increase because that means any supporter of Tucker Carlson's statement therefore makes them anti-semit and association 100%.
+
+Anchored Artifacts: A-1143.1
+
+Mentions: N-1, N-22, N-3
+
+Related Nodes: N-10083
+
+Tags: relevance:context
+
+Investigative Direction: Watch the full July 2025 town hall to confirm the speaker and the date.
+
+---
+
+**C-10748** Charlie says in the clip he loves Israel and has visited
+
+Claim Timestamp: 00:37:14
+
+Claim: In the clip Charlie says he loves Israel, visited there with his wife, but as an American represents a generation that cannot afford anything and needs prudence to reject Jew hate while not calling everyone who disagrees with the Netanyahu government an antisemite.
+
+Transcript Snippet: which is I love Israel. I visited there. My wife and I had the best experiences ever.
+
+Anchored Artifacts: A-1143.1
+
+Mentions: N-1, N-3
+
+Related Nodes: N-10083
+
+Tags: relevance:context
+
+Investigative Direction: Watch the full town hall.
+
+---
+
+**C-10749** Charlie says in the clip only about 20 members of Congress serve Americans without outside pull
+
+Claim Timestamp: 00:39:48
+
+Claim: In the AIPAC clip Charlie says he thinks about 20 representatives between the Senate and House are fully working for the American people without the interests of some group pulling their sway.
+
+Transcript Snippet: I actually think there's probably like 20 representatives between Senate and House who I think are actually fully doing the work of the American people
+
+Anchored Artifacts: A-1143.2
+
+Mentions: N-1, N-3
+
+Related Nodes: N-10083
+
+Tags: relevance:context
+
+Investigative Direction: Watch the full town hall to confirm the speaker and the wording.
+
+---
+
+**C-10750** Host says a president suggested the AIPAC precursor register under FARA and was then shot
+
+Claim Timestamp: 00:40:37
+
+Claim: The host says a past president, whom she does not name, suggested the AIPAC precursor should register under FARA and was then shot in a moving vehicle in broad daylight, calling the conversation dangerous to host.
+
+Transcript Snippet: suggesting that the precursor to AIPAC, which became AIPAC, um should register under Farara.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10083
+
+Supports: C-1241
+
+Tags: relevance:context
+
+Investigative Direction: Check the historical record on the pressure on the AIPAC precursor to register under FARA and its timing; the president is implied, not named.
+
+---
+
+**C-10751** Host says what Charlie faced in 2025 mirrored her own 2024 pressure
+
+Claim Timestamp: 00:41:53
+
+Claim: The host says what she went through at the beginning of 2024 seems to be what Charlie was going through in 2025, getting tired of pressure that something he was saying was wrong when it clearly was not.
+
+Transcript Snippet: what I went through beginning at in the beginning of 2024 seems to be what Charlie was going through in 2025
+
+Anchored Artifacts:
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10047
+
+Tags: relevance:context
+
+Investigative Direction: Collect Charlie's public and private statements about pressure in 2025.
+
+---
+
+**C-10752** Host believes more people are involved who need forgiveness and has more to release
+
+Claim Timestamp: 00:45:07
+
+Claim: The host says she believes more people are involved who are in need of forgiveness, that she has found out a lot more and will release it methodically, and that they chose the wrong person to take out.
+
+Transcript Snippet: But it is also my belief that there are more people involved that are in need of forgiveness.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-2
+
+Tags: relevance:core
+
+Investigative Direction: Track which individuals or claims the host later names as involved.
+
+---
+
+**C-10753** Host asks for tips at the tip email address
+
+Claim Timestamp: 00:45:40
+
+Claim: The host tells viewers to send tips to the tip email address (transcribed as canowens. com) if they have more information.
+
+Transcript Snippet: send me tips at canowens. com if you have any more information that you'd like to share with me.
+
+Anchored Artifacts: A-3098.1
+
+Mentions: N-3
+
+Supports: C-4901
+
+Tags: relevance:core, DIA
+
+Investigative Direction: The tip inbox itself; check the later episodes for tips the host says paid off.
+
+---
+
+**C-10754** Viewer says the children who spoke after the memorial sounded rehearsed
+
+Claim Timestamp: 00:48:55
+
+Claim: The host reads a viewer comment saying the children who spoke on the morning after the memorial sounded highly rehearsed about their experience; the host says the comment refers to children who witnessed the assassination and appeared on Good Morning America.
+
+Transcript Snippet: Also, the children that spoke yesterday sounded highly rehearsed on their quote unquote experience.
+
+Anchored Artifacts: A-1145.3
+
+Mentions: N-3
+
+Related Nodes: N-10060
+
+Tags: relevance:context
+
+Investigative Direction: Obtain the Good Morning America segment and note any coaching or pre-interview.
+
+---
+
+**C-10755** Host plugs Becoming Brigitte series and says she is a dude
+
+Claim Timestamp: 00:50:38
+
+Claim: The host tells viewers to watch the series she calls Becoming Breit (as transcribed), says a lot of people are hooked, and says of the subject 'she's a dude'.
+
+Transcript Snippet: It's a really good one and she's a dude. That's it.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-82
+
+Tags: relevance:tangential
+
+Investigative Direction: Treat as the host's assertion about Brigitte Macron; the legal record in the Macron defamation case would address it.
+
+---
+
+**C-10756** Host says Charlie was the last prominent pro-Israel voice with presence across universities
+
+Claim Timestamp: 00:52:00
+
+Claim: The host says Charlie was kind of the last person saying he was pro-Israel with a presence across universities, and that students will now be reticent to support Israel.
+
+Transcript Snippet: "I am pro-Israel." And he actually was somebody who had a presence across all of these universities.
+
+Anchored Artifacts:
+
+Mentions: N-1, N-3
+
+Related Nodes: N-10063
+
+Tags: relevance:context
+
+Investigative Direction: Compare with campus polling and TPUSA campus program data.
+
+---
+
+**C-10757** Host says nobody knows how the rifle moved from the roof to the woods and wants to see the tunnel network
+
+Claim Timestamp: 00:52:26
+
+Claim: Answering a viewer who asks how the rifle got from the roof to the woods, the host says nobody knows and that she would like to see the tunnel network.
+
+Transcript Snippet: Nobody knows, but I would like to see the tunnel network.
+
+Anchored Artifacts:
+
+Mentions: N-3
+
+Related Nodes: N-10087, N-10012
+
+Tags: relevance:core
+
+Investigative Direction: Obtain the official timeline of the rifle's recovery and any survey of UVU tunnels.
+
+---
+
+**C-10758** Host says UVU's website documents irrigation upkeep for the amphitheater
+
+Claim Timestamp: 00:53:15
+
+Claim: The host says her father was a plumber, that a network must lie under the amphitheater waterfall, and that UVU's website describes how the irrigation is maintained and who is in charge of it.
+
+Transcript Snippet: They have a whole thing on their website on UVU about how the irrigation is maintained and who's in charge of it.
+
+Anchored Artifacts:
+
+Mentions: N-3
+
+Related Nodes: N-10012, N-10087
+
+Supports: C-1234
+
+Tags: relevance:core
+
+Investigative Direction: Capture the UVU facilities webpage and its maintenance contacts.
+
+---
+
+**C-10759** Host says her research has found nothing on Frank Turek
+
+Claim Timestamp: 00:55:31
+
+Claim: The host says Turek gave the speech he wanted to give and that nothing in her research so far has come up about Frank Turek, though many viewers had that feeling after his speech.
+
+Transcript Snippet: He gave the speech that he wanted to give and nothing in my research has come up about thus far has come up about Frank Turk.
+
+Anchored Artifacts: A-1145.2
+
+Mentions: N-3, N-7
+
+Tags: relevance:core
+
+Investigative Direction: Compare with later claims the host makes about Turek.
+
+---
+
+**C-10760** Host says the Daily Mail reported she raged about not being invited to speak
+
+Claim Timestamp: 00:55:42
+
+Claim: The host says she was not invited to speak at the memorial and that, as the Daily Mail pointed out, she raged about it.
+
+Transcript Snippet: and as the Daily Mail pointed out I raged and raged about that.
+
+Anchored Artifacts:
+
+Mentions: N-3
+
+Related Nodes: N-10070
+
+Supports: C-1211, C-1201
+
+Tags: relevance:context
+
+Investigative Direction: Retrieve the Daily Mail article and compare with the host's account.
+
+---
+
+**C-10761** Host says intelligence agencies recruit from the LDS church and apparently from UVU's campus
+
+Claim Timestamp: 00:56:07
+
+Claim: The host says it is a fact that intelligence recruits heavily from the LDS church and that apparently they recruit from that campus, which she says she found out.
+
+Transcript Snippet: That is a fact. Latterday Saints, Church of Latter Day Saints. And apparently they recruit from that particular campus,
+
+Anchored Artifacts: A-3099.1
+
+Mentions: N-3
+
+Related Nodes: N-10094, N-10012
+
+Tags: relevance:context
+
+Investigative Direction: Find sources for LDS and UVU recruitment by intelligence agencies.
+
+---
+
+**C-10762** Host says investigators are looking for a different weapon
+
+Claim Timestamp: 00:56:17
+
+Claim: The host says she thinks the search is for a totally different weapon than the one presented.
+
+Transcript Snippet: Yeah, I think we're looking for a totally different weapon.
+
+Anchored Artifacts: A-3099.1
+
+Mentions: N-3
+
+Tags: relevance:core
+
+Investigative Direction: Ask for the ballistics and chain of custody for the recovered rifle.
+
+---
+
+**C-10763** Viewer comment says Andrew said someone powerful called Erika to ask how much she knows
+
+Claim Timestamp: 00:57:01
+
+Claim: The host reads a viewer comment saying that on The Charlie Kirk Show last week Andrew said someone powerful called Erika and asked how much she knows, and she said she knows everything.
+
+Transcript Snippet: On a Charlie Kirk show last week, Andrew said someone powerful called Erika and asked how much she knows,
+
+Anchored Artifacts: A-3099.2
+
+Mentions: N-14, N-2
+
+Tags: relevance:core
+
+Investigative Direction: Find the Charlie Kirk Show episode where Kolvet said this and verify the quote.
+
+---
+
+**C-10764** Host says Erika knows everything about Charlie
+
+Claim Timestamp: 00:57:13
+
+Claim: The host says she thinks Erika knows everything, as a wife and confidant, and that she has no doubt.
+
+Transcript Snippet: I think she knows everything. She's his wife.
+
+Anchored Artifacts: A-3099.2
+
+Mentions: N-3, N-2, N-1
+
+Tags: relevance:core
+
+Investigative Direction: Compare with Erika's later statements on what she knew.
+
+---
+
+**C-10765** Host says Erika is going on Alex Clark's show to address Netanyahu money rumors
+
+Claim Timestamp: 00:57:38
+
+Claim: The host says people tweeted to her that Erika Kirk is going on Alex Clark's show, and that she is happy Erika will speak about the rumors that Netanyahu offered Charlie a boatload of money.
+
+Transcript Snippet: I saw people that were going, "Erika Kirk is going on I think Alex Clark's show and they were tweeting it at me.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-2, N-99, N-36, N-60
+
+Related Nodes: N-10342
+
+Tags: relevance:core
+
+Investigative Direction: Watch the Alex Clark interview and see how Erika addresses the offer.
+
+---
+
+**C-10766** Host says the $150 million she was told about funded Operation Mocking Pastor, not an offer to Charlie
+
+Claim Timestamp: 00:58:06
+
+Claim: The host says she never said $150 million was offered to Charlie; she said she was told Netanyahu gave $150 million for Operation Mocking Pastor, when pastors one weekend spoke against Tucker Carlson and her.
+
+Transcript Snippet: I said $150 million I was told BB gave for Operation Mocking Pastor.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-36, N-22
+
+Related Nodes: N-10139, N-11004
+
+Supports: C-4906
+
+Tags: relevance:core
+
+Investigative Direction: Identify the host's source and any financial record of the funding.
+
+---
+
+**C-10767** Host says Netanyahu offered Charlie a boatload of money and he rejected it
+
+Claim Timestamp: 00:58:22
+
+Claim: The host says she definitively said Netanyahu offered Charlie Kirk a boatload of money and Charlie rejected it, without knowing the amount.
+
+Transcript Snippet: I definitively made the statement that BB Netanyahu offered Charlie Kirk uh boatload of money and he rejected it.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-36, N-1
+
+Related Nodes: N-10342
+
+Tags: relevance:core
+
+Investigative Direction: Ask Kirk's circle, Netanyahu's office and the Hamptons attendees about any offer.
+
+---
+
+**C-10768** Host says Charlie obviously did not convert to Catholicism
+
+Claim Timestamp: 00:58:45
+
+Claim: The host says Charlie obviously did not convert, but that the nastiness toward Catholics should stop, after she had said Catholics were hopeful about him.
+
+Transcript Snippet: Uh he obviously didn't convert but also the nastiness towards Catholics just needs to stop.
+
+Anchored Artifacts:
+
+Mentions: N-3, N-1
+
+Related Nodes: N-10104
+
+Tags: relevance:context
+
+Investigative Direction: Check baptism or church records and statements by Charlie on conversion.
+
+---
+
+**C-10769** Host says Erika Kirk was raised in a Catholic family
+
+Claim Timestamp: 00:58:49
+
+Claim: The host says Erika Kirk was raised in a Catholic family.
+
+Transcript Snippet: I mean, Erika Kirk was raised in a Catholic family, so that was a strange thing to have people react so crazy.
+
+Anchored Artifacts:
+
+Mentions: N-2, N-3
+
+Related Nodes: N-10104
+
+Tags: relevance:context
+
+Investigative Direction: Check Erika Kirk's biography and church affiliation.
+
+---
+
+**C-10770** Host says Bob Shulman took millions from TPUSA, wanted his name off the building, then reversed
+
+Claim Timestamp: 00:59:11
+
+Claim: The host says she was told the donor who took away millions of dollars from Turning Point, wanted his name taken off the building and then did a 180 when Charlie died was Bob Shulman, as she said the week before.
+
+Transcript Snippet: whether he lost money, which he did. Um I was told that individual was Bob Schman.
+
+Anchored Artifacts:
+
+Mentions: N-98, N-99, N-3
+
+Related Nodes: N-10036, N-10000
+
+Supports: C-1174
+
+Tags: relevance:core
+
+Investigative Direction: Check donor filings and building naming records for the donor and dates.
+
+---
+
 ## 6. Meme Register
 
 
@@ -846,6 +2274,15 @@ Context: Laura Loomer complaint clip read on air naming the Candace Intelligence
 Tags: merch, controversy
 Confidence: high
 
+### Occurrence 2
+
+Video Timestamp: 00:59:34
+Speaker: N-3
+Quote: you can go to kennacewomen. com and buy a CIA parody shirt because you're going with me.
+Context: Host closes with a joking merch plug for the CIA parody shirt.
+Tags: merch, closing
+Confidence: high
+
 ---
 
 **M-37** (meme) Grifter
@@ -857,6 +2294,119 @@ Speaker: N-3
 Quote: As part of her grift to monetize the murder of her quote unquote best friend
 Context: Host frames Laura Loomer attacks as monetized tragedy-grift.
 Tags: monetize, loyalty_performance, residual
+Confidence: high
+
+---
+
+**M-272** (meme) Dragon Above the Convention Center
+
+### Occurrence 1
+
+Video Timestamp: 00:00:14
+Speaker: N-3
+Quote: I was effectively like soaring in the air above the convention center, like a dragon above,
+Context: Host's opening riff on what she would have done had Erika called for war.
+Tags: opening, hyperbole
+Confidence: high
+
+---
+
+**M-273** (meme) One Big Federal Miracle
+
+### Occurrence 1
+
+Video Timestamp: 00:14:34
+Speaker: N-3
+Quote: could just all be one big federal miracle.
+Context: Host mocks the miracle framing by listing convenient events in the official story.
+Tags: miracle, sarcasm
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:20:58
+Speaker: N-3
+Quote: I went into my tips line and I saw that somebody had messaged me about this.
+Context: Host cites her tips line as source for the underground trap-door tip.
+Tags: DIA, tips
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:45:40
+Speaker: N-3
+Quote: send me tips at canowens. com if you have any more information that you'd like to share with me.
+Context: Host asks viewers for tips.
+Tags: DIA, tips
+Confidence: high
+
+---
+
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 00:42:19
+Speaker: N-3
+Quote: It's a level of gaslighting you've never seen before.
+Context: Host describes the pressure campaign against her and Charlie.
+Tags: gaslight
+Confidence: high
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 00:49:10
+Speaker: N-3
+Quote: every single time that I have been attacked publicly, particularly over the declaration that Christ is king,
+Context: Host explains why Posobiec defends her over the Christ is King statement.
+Tags: christ_is_king
+Confidence: high
+
+---
+
+**M-76** (meme) Genocide Is Always Wrong
+
+### Occurrence 1
+
+Video Timestamp: 00:34:43
+Speaker: N-3
+Quote: My statement was fine. Genocide is always wrong.
+Context: Host defends her tweet against pressure to apologize.
+Tags: genocide_tweet
+Confidence: high
+
+---
+
+**M-77** (meme) Operation Mocking Pastor
+
+### Occurrence 1
+
+Video Timestamp: 00:58:06
+Speaker: N-3
+Quote: I said $150 million I was told BB gave for Operation Mocking Pastor.
+Context: Host clarifies what the $150 million figure referred to.
+Tags: funding_claim
+Confidence: high
+
+---
+
+**M-78** (meme) Silence Is Not Kindness
+
+### Occurrence 1
+
+Video Timestamp: 00:24:06
+Speaker: N-3
+Quote: but it is true that silence is not kindness. Silence is consent.
+Context: Host line inside the Pre-Born sponsor read.
+Tags: sponsor_read
 Confidence: high
 
 ---

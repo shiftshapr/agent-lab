@@ -59,7 +59,7 @@ def next_heading(text: str, m: re.Match[str]) -> re.Match[str] | None:
 
 
 def section(text: str, key: str) -> str:
-    m = re.search(SECTION[key], text, re.M)
+    m = re.search(SECTION[key], text, re.M | re.I)
     if not m:
         return ""
     nxt = next_heading(text, m)
@@ -69,9 +69,9 @@ def section(text: str, key: str) -> str:
 def insert_at_section_end(text: str, key: str, block: str, fallback_header: str) -> str:
     if not block.strip():
         return text
-    m = re.search(SECTION[key], text, re.M)
+    m = re.search(SECTION[key], text, re.M | re.I)
     if not m:
-        anchor = re.search(r"^#{1,3} (?:[0-9]+\.|[IVX]+\.)?\s*(?:Optional Flags|Output Quality|.*Ledger Summary).*$", text, re.M)
+        anchor = re.search(r"^#{1,3} (?:[0-9]+\.|[IVX]+\.)?\s*(?:Optional Flags|Output Quality|.*Ledger Summary).*$", text, re.M | re.I)
         pos = anchor.start() if anchor else len(text)
         head = text[:pos].rstrip("\n")
         return head + f"\n\n{fallback_header}\n\n{block.strip()}\n\n" + text[pos:]

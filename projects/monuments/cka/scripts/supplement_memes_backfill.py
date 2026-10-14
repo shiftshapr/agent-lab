@@ -39,6 +39,10 @@ def main() -> int:
     memes = mdata["entries"]
     merges = {si.norm(k): v for k, v in json.loads(args.merges.read_text(encoding="utf-8")).items()} if args.merges else {}
     by_term = {si.norm(re.sub(r"^\(meme\)\s*", "", v["canonical_term"])): k for k, v in memes.items()}
+    node_by_name: dict[str, str] = {}
+    for k, v in json.loads((CKA / "canonical" / "nodes.json").read_text(encoding="utf-8"))["nodes"].items():
+        for nm in [v["canonical_name"], *v.get("aliases", [])]:
+            node_by_name.setdefault(si.norm(nm), k)
     total, defs = 0, 0
     for path in sorted(args.supplements.glob("episode_*.md")):
         ep = int(re.search(r"episode_(\d{3})", path.name).group(1))
@@ -55,6 +59,10 @@ def main() -> int:
             if key not in by_term:
                 raise SystemExit(f"ep{ep}: {mid} '{term}' has no canonical meme")
             mp[mid] = by_term[key]
+        for nid, title in re.findall(r"^\*\*(N-[PT]\d+)\*\*\s+(.+)$", sup, re.M):
+            key = si.norm(merges.get(si.norm(title), title))
+            if key in node_by_name:
+                mp[nid] = node_by_name[key]
         titles = {t.strip(): c for c, t in re.findall(r"^\*\*(C-\d+)\*\*\s+(.+)$", draft, re.M)}
         for cl, t in re.findall(r"^\*\*(C-L\d+)\*\*\s+(.+)$", sup, re.M):
             if t.strip() in titles:
