@@ -27,6 +27,14 @@ from typing import Any, Iterable
 
 REPO_ROOT = Path(__file__).resolve().parents[3]
 DEFAULT_CKA_ROOT = REPO_ROOT / "projects" / "monuments" / "cka"
+
+
+def _repo_relative(path: Path) -> str:
+    """Repo-relative path, so the package does not depend on the checkout location."""
+    try:
+        return path.resolve().relative_to(REPO_ROOT).as_posix()
+    except ValueError:
+        return str(path)
 DEFAULT_VOCAB = DEFAULT_CKA_ROOT / "vendor" / "brc222" / "vocabulary.json"
 DEFAULT_OUT = DEFAULT_CKA_ROOT / "companion" / "brc222-2.0.0"
 
@@ -762,7 +770,7 @@ def write_package(out_dir: Path, result: BuildResult, vocab: Vocabulary, cka_roo
             "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json",
         },
         "generated_at": generated,
-        "cka_root": str(cka_root),
+        "cka_root": _repo_relative(cka_root),
         "locks": {
             "deploy": False,
             "neo4j_write": False,

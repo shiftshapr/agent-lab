@@ -1,5 +1,7 @@
 # CKA (Candace Kirk Archive)
 
+**Rules:** [docs/POLICY.md](docs/POLICY.md) · **Plan:** [docs/ROADMAP.md](docs/ROADMAP.md)
+
 Greenfield monument for **Candace Owens** numbered show episodes (`@RealCandaceO`) plus **Charlie Kirk–related specials** from **2025-09-11** onward. Chronological ingest order is defined in `input/episode_manifest.json` (~10 episodes/day in later batches).
 
 ## Relationship to Bride of Charlie (BoC)
@@ -17,7 +19,7 @@ Same convention as BoC / episode analysis protocol:
 
 - **Person:** `N-1` … `N-9999` (Daveed, 2026-10-13). New persons continue from `canonical/nodes.json` `next_person_id`. A person id at `N-10000` or above is not allowed.
 - **Topic / Org / Place:** `N-10000+` (`canonical/nodes.json` `next_investigation_id`).
-- **Compacted 2026-10-13 (Daveed):** ids have no holes. Persons are `N-1` … `N-607` and topic/org/place `N-10000` … `N-10902`, each band in its previous id order. Old to new: `audits/id_compaction_2026-10-13/id_map.csv`. Audit CSVs written before that date keep the ids of their time.
+- **Dense ids (Daveed, 2026-10-13):** ids have no holes; duplicate merges keep the first-introduced id and close the gap (`scripts/merge_person_nodes.py`). Each compaction or merge writes an `id_map.csv` under `audits/`; audits keep the ids of their time. See [docs/POLICY.md](docs/POLICY.md) section 3.
 - **No tombstones** (Daveed, 2026-10-13): there is no retired-id ledger. A merged or retired id is simply no longer an active node.
 - **Claims / artifacts / memes:** global cross-episode ledger (continue from CKA ingest, not BoC demo ledger)
 
