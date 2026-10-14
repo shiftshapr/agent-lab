@@ -553,7 +553,7 @@
       "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
-      "description": "Transcript spellings \"BB Netanyahu\" and \"BB Netany and Yahoo\". Gave Trump a golden pager; said to have called during the Hamptons dinner.",
+      "description": "Transcript spellings \"BB Netanyahu\" and \"BB Netanyahu\". Gave Trump a golden pager; said to have called during the Hamptons dinner.",
       "related_artifacts": [],
       "related_claims": [
         "C-4566",
@@ -2507,7 +2507,7 @@
       "tags": [],
       "claim_timestamp": "00:41:09",
       "investigative_direction": "Interview Hamptons attendees and check phone records for a Netanyahu call during the August 2025 gathering.",
-      "transcript_snippet": "She goes with him to the Hamptons and sits across uh from Bill Ackman at a dinner when BB Netany and Yahoo is called.",
+      "transcript_snippet": "She goes with him to the Hamptons and sits across uh from Bill Ackman at a dinner when BB Netanyahu is called.",
       "mentions_person_refs": [
         "N-2",
         "N-37",
@@ -2885,7 +2885,7 @@
           "episode": 115,
           "video_timestamp": "00:41:09",
           "speaker_node_ref": "N-3",
-          "quote": "sits across uh from Bill Ackman at a dinner when BB Netany and Yahoo is called.",
+          "quote": "sits across uh from Bill Ackman at a dinner when BB Netanyahu is called.",
           "context": "Host recounts the Hamptons dinner.",
           "confidence": "high",
           "tags": [

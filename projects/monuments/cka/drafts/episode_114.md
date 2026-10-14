@@ -351,7 +351,7 @@ The host says Erika Kirk okayed Clark calling the host a liar.
 
 **N-105** Thomas Matthew Crooks
 
-Transcript spellings "Thomas Krooks" and "Matthew Krooks". Carlson says the FBI lied about his social media history.
+Transcript spellings "Thomas Crooks" and "Matthew Crooks". Carlson says the FBI lied about his social media history.
 
 *Related: C-3751, C-4484, C-4487, C-4488, A-2646.1, A-2647.2*
 
@@ -435,7 +435,7 @@ First named by the host at 00:19:42 in episode 114. Young TPUSA employee, once M
 
 **N-682** Jonathan Barcelo
 
-First named by the host at 00:19:42 in episode 114. Described as a Marine on Erika Kirk's July 14 Long Beach flight. Aliases: Jonathan Barcello.
+First named by the host at 00:19:42 in episode 114. Described as a Marine on Erika Kirk's July 14 Long Beach flight. Aliases: Jonathan Barcelo.
 
 *Related: C-4505*
 
@@ -663,7 +663,7 @@ Claim Timestamp: 00:01:26
 
 Claim: Carlson says he came into possession of many social media posts by Thomas Crooks from the months and years before the shooting, which the public had been told did not exist, and that the FBI had lied about this under Christopher Wray.
 
-Transcript Snippet: accidentally came into possession of a lot of the social media posts that we were told didn't exist that were posted by Thomas Krooks in the months and years before the shooting
+Transcript Snippet: accidentally came into possession of a lot of the social media posts that we were told didn't exist that were posted by Thomas Crooks in the months and years before the shooting
 
 Anchored Artifacts: A-2646.1
 Mentions: N-22, N-105, N-269, N-69, N-384
@@ -1698,7 +1698,7 @@ Confidence: medium
 - **Duration**: the skeleton's Video Timestamp Range (00:56:29) did not match the transcript front matter (1:02:38); it has been set to 00:00:00–01:02:38. The skeleton's Ledger Summary claim-range lines and its stray template heading were replaced per spec.
 - **Artifacts referenced but not shown or uncertain**: A-2649.1 (host's timeline; plotted on air, presumably on screen), A-2650.2 (James Kaddis PragerU video; "This is literally his Prageru video" suggests it was shown), A-2657.1 (verbal appeal only). The New York Times article, US magazine article and Elizabeth Lane's tweet are referenced; only the NYT text is read aloud (A-2648.1).
 - **DIA scan**: one keyword hit, "more tips@candice. com" (01:00:06). The host misspoke it while meaning to plug support for the show, and corrected herself ("Why would you guys give me more tips?"). It directly follows her appeal to Kirk family members to "Reach out ... I'd keep it all off record". It is treated as a DIA beat (C-4540, A-2657.1, M-12), but the integrator may prefer to drop it given the slip. "candace Owens. com" at the same mark is a support/merch plug, not a DIA beat. The 19:42 remark "I've received so many emails about him" relays past tips without a request and is not inscribed.
-- **Name matching**: "Mario Nofl" / "Mario Knoff" mapped to Mario Nawfal (title reused from staging episode 109). "Katherine Loccastro" reuses the staging title Katherine Locastro (episode 084). "Derek Nerk" mapped to N-424 Derek Niekerk (earlier drafts list Niekerk on the same Long Beach flight). "Jonathan Barcelo" is new (earlier draft spelling "Jonathan Barcello"). "James Kaddis" / "James Kaddis" is minted as N-673 James Kaddis; the real spelling may be Kaddis and is unverified. "Bradley Hansel" maps to N-439 Bradley Hansell. "Brook Singman" (named by Bongino) is minted as N-681 Brooke Singman. "Chris Ray" maps to N-269 Christopher Wray. "Stacy taps on their shoulder" (28:47) probably refers to Stacy Sheridan (existing node), but she is not cited because only the first name is given. "Pete Hegsth" (00:43, Pete Hegseth, existing node) is named only in passing and is not cited. "Andy Shaker", "Jasmine" and "Justin" in the Bongino clip are unidentified show staff and not minted. "Elizabeth Lane" is mapped to N-6.
+- **Name matching**: "Mario Nofl" / "Mario Knoff" mapped to Mario Nawfal (title reused from staging episode 109). "Katherine Loccastro" reuses the staging title Katherine Locastro (episode 084). "Derek Nerk" mapped to N-424 Derek Niekerk (earlier drafts list Niekerk on the same Long Beach flight). "Jonathan Barcelo" is new (earlier draft spelling "Jonathan Barcelo"). "James Kaddis" / "James Kaddis" is minted as N-673 James Kaddis; the real spelling may be Kaddis and is unverified. "Bradley Hansel" maps to N-439 Bradley Hansell. "Brook Singman" (named by Bongino) is minted as N-681 Brooke Singman. "Chris Ray" maps to N-269 Christopher Wray. "Stacy taps on their shoulder" (28:47) probably refers to Stacy Sheridan (existing node), but she is not cited because only the first name is given. "Pete Hegsth" (00:43, Pete Hegseth, existing node) is named only in passing and is not cited. "Andy Shaker", "Jasmine" and "Justin" in the Bongino clip are unidentified show staff and not minted. "Elizabeth Lane" is mapped to N-6.
 - **Transcription ambiguities**: "Fort Huachuca" = Fort Huachuca; "ZAS" = SAS; "why Rei" = Why Refi; "Aster at the Aspen investor retreat" is kept as spoken; "FOI AFU" / "FOFU" / "fifu" are kept as spoken. The host's "Larry Loomer" is a deliberate nickname for Laura Loomer (N-60).
 - **Cross-episode links**: C-4510 Supports C-1675 (July 18 UVU request), C-4519 Supports C-1128 (Hamptons intervention), C-4525 Supports C-2909 (Hansell's title). Possible links left out: C-2111 (episode 58, Fort Huachuca-affiliated individuals saw Erika at the base; different source from Mitch Snow) and C-2677 (episode 89, Trump said to be satisfied with the Butler investigation; related but a different proposition).
 - **Not inscribed as claims (admission test)**: "Erika's a psychopath" and related characterisations; "Trump betrayed Charlie Kirk"; "Trump is very vain"; the two-option staged-versus-warning framing (only the host's preferred option is inscribed, as C-4492); Bongino "is just lying" and the demeanour reading; "Kash Patel ... constantly looks like he is in a state of terror"; "Trump, I believe, said yes" (kept only as context in C-4520); "the organization died with Charlie"; rhetorical questions on who Hansell picked up or dropped off; the viewer joke about Ivanka and an Albanian nuclear bomb.

@@ -31,8 +31,8 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-2236, A-2237, A-2238, A-2239, A-2240, A-2241, A-2242, A-2243, A-2244, A-2245
   - Claim Range: C-3211–C-3221
-  - New Nodes Introduced: N-10776, N-10777, N-10779
-  - Reused Nodes Appearing: N-512, N-2, N-5, N-11, N-22, N-40, N-69, N-126, N-248, N-372, N-384, N-599, N-689, N-757, N-10006, N-10012, N-10026, N-10028, N-10070, N-10090, N-10110, N-10151, N-10323, N-10344, N-10541, N-10634, N-10715, N-10725, N-10731, N-10732, N-10751, N-10754, N-10772, N-10773, N-10774, N-11057, N-10778, N-792, N-11145
+  - New Nodes Introduced: N-10776, N-10779
+  - Reused Nodes Appearing: N-512, N-2, N-5, N-11, N-22, N-40, N-69, N-126, N-248, N-372, N-384, N-599, N-689, N-757, N-10006, N-10012, N-10026, N-10028, N-10070, N-10090, N-10110, N-10151, N-10323, N-10344, N-10541, N-10634, N-10715, N-10725, N-10731, N-10732, N-10751, N-10754, N-10772, N-10773, N-10774, N-11057, N-10778, N-792, N-11145, N-10777
   - Existing Nodes Reused: None in this episode beyond standard references
 
 ---

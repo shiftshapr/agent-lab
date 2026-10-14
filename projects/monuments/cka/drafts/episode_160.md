@@ -12,10 +12,10 @@
 - **Model Version**: grok-manual-extract-seq160
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-11213, N-11214, N-11215, N-11216
+  - Tip-minted Nodes (supplement_2026-10c): N-11213, N-11214, N-11216
   - Claim Range (supplement_2026-10c): C-9211–C-9257
   - New Nodes Introduced: N-10874, N-10875, N-10876, N-10877, N-10878, N-10879
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-14, N-68, N-69, N-82, N-85, N-131, N-212, N-270, N-274, N-275, N-334, N-371, N-10324, N-10559, N-10666, N-10687, N-10699, N-10737, N-10839, N-10859, N-10867, N-10872, N-8, N-10, N-25, N-217, N-230, N-58, N-40, N-47, N-60, N-285, N-10000, N-10015, N-10026, N-10056, N-10064, N-10074, N-10082, N-10083, N-10110, N-10243, N-10646, N-10730, N-10885, N-10887, N-10888, N-10898, N-11020, N-11087, N-11096, N-11103, N-168, N-229, N-198, N-842, N-843, N-206
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-14, N-68, N-69, N-82, N-85, N-131, N-212, N-270, N-274, N-275, N-334, N-371, N-10324, N-10559, N-10666, N-10687, N-10699, N-10737, N-10839, N-10859, N-10867, N-10872, N-8, N-10, N-25, N-217, N-230, N-58, N-40, N-47, N-60, N-285, N-10000, N-10015, N-10026, N-10056, N-10064, N-10074, N-10082, N-10083, N-10110, N-10243, N-10646, N-10730, N-10885, N-10887, N-10888, N-10898, N-11020, N-11087, N-11096, N-11103, N-168, N-229, N-198, N-842, N-843, N-206, N-11215
   - Hole-minted Nodes (seq160): N-175, N-180, N-210, N-266
   - (see registers)
   - Person band: new persons at N-168 and above. No person id in the topic band (one thousand through nine thousand nine hundred ninety-nine). Mark Herman (show director) does not appear by name in this episode; N-67 not cited. Sponsor reads (PreBorn, Beekeepers Naturals, PureTalk, Nimi, American Financing) treated as non-claim.
@@ -35,7 +35,7 @@ The core UVU beat: the independent review names a Station 2 fire captain who ass
 
 **A-2474** Candyland Illegal-Nanny Mansion Rumor Bundle
 
-**A-2474.1** Host read of Lisa Nose X post alleging Candace houses two nannies per child (eight total) in a second mansion, hires illegals via an "elite Jewish nanny agency," underpays them, and binds them with NDAs; Nose credits Jessica Reed Kraus House in Habit as original reporter and claims three-source confirmation.
+**A-2474.1** Host read of Lisa Nose X post alleging Candace houses two nannies per child (eight total) in a second mansion, hires illegals via an "elite Jewish nanny agency," underpays them, and binds them with NDAs; Nose credits Jessica Reed Kraus House Inhabit as original reporter and claims three-source confirmation.
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:01:13

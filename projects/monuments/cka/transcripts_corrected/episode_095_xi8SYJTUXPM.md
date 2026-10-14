@@ -72,7 +72,7 @@ The thing that you have me thinking. I'm going back now and revisiting again. I 
 
 [08:21]
 
-Why did you take the camera down? And his answer was because he wanted to protect Erika. He didn't want Erika to see the footage. He had a conversation with Erika. He didn't want her to see Charlie dying again. Then he says when I say, "Okay, well, can I see it?" He doesn't say, "Oh, no, I obviously had to then give it to the feds." At no point did he say to me that he gave the SD card to the feds. That suddenly feels very relevant. That's insane. That is totally insane. So now we have a situation where Charlie's phone we've learned was not given to the feds. That should have been kept by the feds. That should have been secured by the feds. That should have been like Tyler Robinson's phone or Lance Twig's phone secured by the feds.
+Why did you take the camera down? And his answer was because he wanted to protect Erika. He didn't want Erika to see the footage. He had a conversation with Erika. He didn't want her to see Charlie dying again. Then he says when I say, "Okay, well, can I see it?" He doesn't say, "Oh, no, I obviously had to then give it to the feds." At no point did he say to me that he gave the SD card to the feds. That suddenly feels very relevant. That's insane. That is totally insane. So now we have a situation where Charlie's phone we've learned was not given to the feds. That should have been kept by the feds. That should have been secured by the feds. That should have been like Tyler Robinson's phone or Lance Twiggs's phone secured by the feds.
 
 [09:05]
 

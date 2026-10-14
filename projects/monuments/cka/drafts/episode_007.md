@@ -21,8 +21,8 @@
   - Claim Range (supplement_2026-10e): C-10717–C-10770
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
   - Claim Range: C-1228-C-1244, C-3717
-  - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10082, N-10083, N-10084, N-10085, N-10086, N-10087, N-10088, N-10090, N-10091
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004, N-72, N-10089, N-10134
+  - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10082, N-10084, N-10086, N-10087, N-10088, N-10090, N-10091
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004, N-72, N-10089, N-10134, N-10083, N-10085
 ## 2. Executive Summary
 
 Episode opens with reflection on Erika Kirk's memorial forgiveness speech, then pivots to alleged discrepancies in the official Charlie Kirk shooting narrative. Andrew Kolvet's TPUSA miracle statement, Kash Patel's FBI tweet, and Derek Maxfield's plane-transponder Instagram rebuttal are presented as artifact-anchored contradictions. Host introduces underground-tunnel/pipeline hypothesis beneath UVU and shows footage of rapid repaving. Later segment defends Candace from Laura Loomer's CIA-merch complaint and addresses leaked 2023 Charlie Kirk text messages and the alleged Candace–Charlie falling-out narrative.
@@ -697,9 +697,9 @@ Vacant-House / Decoy Shooter Theory; the vacant UVU-owned house.
 
 ---
 
-**N-10054** Calira Engineering Valve Pattern
+**N-10054** Caldera Engineering Valve Pattern
 
-Calira Engineering Valve Pattern; the witness's valve company.
+Caldera Engineering Valve Pattern; the witness's valve company.
 
 *Related: C-10729*
 

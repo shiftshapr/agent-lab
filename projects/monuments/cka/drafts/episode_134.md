@@ -11,9 +11,8 @@
 - **Transcript SHA-256**: 498191448f0429779cb41d878bd4596c8d20c9fdcbb3d3ef271dbb2b7b27e70a
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-11143
   - Claim Range (supplement_2026-10b): C-7400–C-7473
-  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-190, N-221, N-372, N-512, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764
+  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-190, N-221, N-372, N-512, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764, N-11143
  - (see registers)
 
 ## I. Meta-Data

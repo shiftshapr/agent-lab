@@ -11,6 +11,12 @@
 - **Transcript SHA-256**: 255df2ef72af812fba530a694f3369c63ecb1dc93d6c3d5d64b7ca555bbad9c1
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10g): N-955, N-956, N-957, N-11410, N-11411
+  - Hole-minted Nodes (reintro-ep153): N-10873
+  - Tip-minted Nodes (reintro-ep153): N-11313
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Reused Nodes Appearing: N-18, N-22, N-49, N-60, N-126, N-157, N-158, N-207, N-265, N-334, N-426, N-466, N-512, N-760, N-842, N-843, N-10000, N-10012, N-10272, N-10311, N-10340, N-10344, N-10356, N-10421, N-10646, N-10840, N-10983, N-11009, N-11170, N-11264
+  - Claim Range (supplement_2026-10g): C-14979–C-15062
  - New Nodes Introduced: N-10833, N-10834, N-10835, N-10836, N-10837, N-10838, N-10839
  - Reused Nodes Appearing: N-2, N-8
  - (see registers)
@@ -115,7 +121,7 @@ Video Timestamp: 00:29:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image displayed)
 
-*Related: C-3471, N-? (Brian Harpole), N-? (Officer Baggley), N-? (Richard Bracie)*
+*Related: C-3471, N-? (Brian Harpole), N-? (Officer Bagley), N-? (Richard Bracie)*
 
 ---
 
@@ -132,7 +138,7 @@ Confidence Level: High (clip played on air)
 
 *Related: C-3478, C-3479, C-3480, C-3483, C-3484, N-? (Tyler Robinson), N-10834, N-10837*
 
-**A-2389.2** Scripps News headline – "Scriptscripts News obtains video of accused Charlie Kirk shooter after the 2022 car crash"
+**A-2389.2** Scripps News headline – "Scripps News obtains video of accused Charlie Kirk shooter after the 2022 car crash"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -172,9 +178,9 @@ Confidence Level: High (bio info read on air)
 
 ---
 
-**A-2392** Nell DeBuckman / Buckman Center Bundle
+**A-2392** Nelda Buckman / Buckman Center Bundle
 
-**A-2392.1** Information regarding Nell DeBuckman's 2022 donation of a 2,300 sq ft building – Buckman Center – to UT Austin for mixed media and artists
+**A-2392.1** Information regarding Nelda Buckman's 2022 donation of a 2,300 sq ft building – Buckman Center – to UT Austin for mixed media and artists
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -182,7 +188,50 @@ Video Timestamp: 00:49:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced but no primary source displayed)
 
-*Related: C-3485, C-3486, N-? (Nell DeBuckman)*
+*Related: C-3485, C-3486, N-? (Nelda Buckman)*
+
+---
+
+**A-3356** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3356.1** Host verbal reference to the tip email address (verbal call for tips on the 2022 bodycam source)
+
+Quoted text: "More tips at candacewowens. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:50:40
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-15044, N-3*
+
+---
+
+**A-3357** Decentralized Intelligence Agency Tip Line Bundle 2
+
+**A-3357.1** Host verbal reference to a tips email address (verbal call for tips from Scripps or St. George insiders)
+
+Quoted text: "More tips at canowens. com or you can email us at tips@canowens. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:51:41
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-15045, N-3*
+
+---
+
+**A-3358** Bracie Rooftop Still Bundle
+
+**A-3358.1** Still image shown by the host of Richard Bracie on the rooftop
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:30:35
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-15017, N-3*
 
 ---
 
@@ -298,6 +347,360 @@ Node Type: Person
 TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.
 
 *Related: C-3487*
+
+---
+
+**N-10000** Turning Point USA
+
+Turning Point USA; subject of the notice and the PR-strike thesis.
+
+*Related: C-14979, C-14983, C-14984, C-14985, C-14988, C-14992, C-14993, C-14994, C-14995, C-15000, C-15002, C-15008, C-15009, C-15020, C-15023, C-15037*
+
+---
+
+**N-10012** Utah Valley University
+
+Utah Valley University; defendant in the notice.
+
+*Related: C-14990, C-14992, C-14993, C-14994, C-14995, C-14996, C-14997, C-15002, C-15005*
+
+---
+
+**N-10272** Harpole–Flood Text Attribution Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15010*
+
+---
+
+**N-10311** Maroon Shirt Pattern at UVU September 10 Event
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15041*
+
+---
+
+**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15001*
+
+---
+
+**N-10344** Candace Owens Security Arrangement
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14988*
+
+---
+
+**N-10356** Brian Harpole Dan Flood Text Misattribution
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15010*
+
+---
+
+**N-10421** Buckman–TPUSA Donor Relationship Investigation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15037, C-15038, C-15039*
+
+---
+
+**N-10646** TPUSA Rooftop Security Decision-Making Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14986, C-14987, C-14990, C-14991, C-14996, C-15002, C-15011, C-15012, C-15013, C-15014, C-15015, C-15016, C-15017, C-15018, C-15019*
+
+---
+
+**N-10840** UVU Ambulance Denial Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15006, C-15007, C-15008, C-15021*
+
+---
+
+**N-10873** Scripps Media Bodycam Pattern (Robinson + Cole)
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15024, C-15025, C-15033, C-15040, C-15041, C-15042, C-15043*
+
+---
+
+**N-10983** Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15059, C-15060*
+
+---
+
+**N-11009** Hall of Flags Activity Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15011, C-15012, C-15013*
+
+---
+
+**N-11170** International Fellowship of Christians and Jews
+
+Existing organization reused for new claims in this episode.
+
+*Related: C-15060, C-15061*
+
+---
+
+**N-11264** Utah Attorney General's Office
+
+Existing organization reused for new claims in this episode.
+
+*Related: C-14980, C-15051*
+
+---
+
+**N-11313** Candace Owens Leave and Baron Coleman Substitute Hosting
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15052, C-15053, C-15054, C-15055*
+
+---
+
+**N-126** Mike Mitchell
+
+Mike Mitchell; the host asks whether he mentored Robinson.
+
+*Related: C-15046*
+
+---
+
+**N-157** John Mappin
+
+John Mappin; praised by the host as a loyal friend.
+
+*Related: C-15049, C-15050*
+
+---
+
+**N-158** Arena Mappin
+
+Arena Mappin; named with John Mappin as a loyal friend.
+
+*Related: C-15049, C-15050*
+
+---
+
+**N-18** Andrew Wilson
+
+Andrew Wilson; the host says he missed the state's evidence.
+
+*Related: C-15054*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; the host discusses her role in the wrongful death notice and her shifting stance on Israel.
+
+*Related: C-14981, C-14982, C-14996, C-15003, C-15010, C-15011, C-15012, C-15014, C-15015, C-15016, C-15018, C-15019, C-15023, C-15056, C-15057, C-15059, C-15060*
+
+---
+
+**N-207** Ana Kasparian
+
+Ana Kasparian; the host says she appeared on her show.
+
+*Related: C-15056*
+
+---
+
+**N-22** Tucker Carlson
+
+Tucker Carlson; the host recalls Erika at his house in May 2025.
+
+*Related: C-15010, C-15012, C-15059*
+
+---
+
+**N-228** Shawn Ryan
+
+Shawn Ryan; hosted Harpole's interview.
+
+*Related: C-15010, C-15012*
+
+---
+
+**N-265** Terrell Farnsworth
+
+Terrell Farnsworth; the host's 'Tricky Terrell'.
+
+*Related: C-15057*
+
+---
+
+**N-270** Brian Harpole
+
+Brian Harpole; the host says he misrepresented the Flood-Long thread.
+
+*Related: C-15010, C-15012, C-15014*
+
+---
+
+**N-274** Dan Flood
+
+Dan Flood; sender of the roof access request and Erika's post-shooting security.
+
+*Related: C-15010, C-15011, C-15016, C-15023*
+
+---
+
+**N-275** Jeff Long
+
+Chief Jeff Long of UVU PD; recipient of the roof access text.
+
+*Related: C-14996, C-15003, C-15010, C-15011, C-15015, C-15018, C-15019*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself.
+
+*Related: C-14979, C-14980, C-14981, C-14982, C-14983, C-14984, C-14985, C-14986, C-14987, C-14988, C-14989, C-14990, C-14991, C-14992, C-14993, C-14994, C-14995, C-14996, C-14997, C-14998, C-14999, C-15000, C-15001, C-15002, C-15003, C-15004, C-15005, C-15006, C-15007, C-15008, C-15009, C-15010, C-15011, C-15012, C-15013, C-15014, C-15015, C-15016, C-15017, C-15018, C-15019, C-15020, C-15021, C-15022, C-15023, C-15024, C-15025, C-15026, C-15027, C-15028, C-15029, C-15030, C-15031, C-15032, C-15033, C-15034, C-15035, C-15036, C-15037, C-15038, C-15039, C-15040, C-15041, C-15042, C-15043, C-15044, C-15045, C-15046, C-15047, C-15048, C-15049, C-15050, C-15051, C-15052, C-15053, C-15054, C-15055, C-15056, C-15057, C-15058, C-15059, C-15060, C-15061, C-15062*
+
+---
+
+**N-334** Baron Coleman
+
+Baron Coleman; will substitute-host the host's show.
+
+*Related: C-15052, C-15053, C-15054, C-15057*
+
+---
+
+**N-40** Tyler Robinson
+
+Tyler Robinson; subject of the 2022 bodycam footage discussion.
+
+*Related: C-15024, C-15025, C-15026, C-15030, C-15031, C-15034, C-15036, C-15041, C-15042, C-15043, C-15046*
+
+---
+
+**N-426** Pope Leo XIV
+
+Pope Leo XIV; named in the Vatican-China ad read.
+
+*Related: C-15022*
+
+---
+
+**N-466** Nelda Buckman
+
+Nelda Buckman; TPUSA's top donor, UT Austin donor.
+
+*Related: C-15037, C-15038, C-15039, C-15040*
+
+---
+
+**N-49** Max Blumenthal
+
+Max Blumenthal; the host says he revealed the fellowship contract.
+
+*Related: C-15061*
+
+---
+
+**N-512** Christopher Bagley
+
+Officer Christopher Bagley; sent to monitor the rooftop.
+
+*Related: C-15015*
+
+---
+
+**N-60** Laura Loomer
+
+Laura Loomer; named in a personal anecdote about footage.
+
+*Related: C-15028*
+
+---
+
+**N-760** Astrid Tuminez
+
+Astrid Tuminez; former UVU president who allegedly denied extra officers.
+
+*Related: C-15003, C-15004*
+
+---
+
+**N-842** Macklemore
+
+Macklemore; mentioned in the Sheeran comment reply.
+
+*Related: C-15047*
+
+---
+
+**N-843** Ed Sheeran
+
+Ed Sheeran; mentioned in the comment reply.
+
+*Related: C-15047*
+
+---
+
+**N-955** Zack Costello
+
+First named by the host at 00:40:52 in episode 153 as the YouTuber who compared Robinson's finger posture across the two clips. The transcript spells him Costello, Castello, Cassell and Zack Costello.
+
+*Related: C-15024, C-15025*
+
+---
+
+**N-956** Jim Spencer
+
+First named by the host at 00:48:11 in episode 153 as the founder of Scripps News who teaches digital media at UT Austin.
+
+*Related: C-15040*
+
+---
+
+**N-957** Rodney Stark
+
+First named by the host at 01:04:14 in episode 153 as the author of Bearing False Witness, introduced to her by Charlie Kirk.
+
+*Related: C-15062*
+
+---
+
+**N-11410** 2022 Footage Imprinting Theory
+
+Node Type: Topic
+The host's theory that the release of the 2022 bodycam footage was planned to imprint a match with the UVU-campus footage, with an individual trained to mimic Robinson's gait, hat and sunglasses.
+
+*Related: C-15042, C-15043*
+
+---
+
+**N-11411** Amphitheater Venue Selection and Traffic Control Dispute
+
+Node Type: Topic
+The dispute over who chose the UVU amphitheater, what UVU said about traffic control on the August 25 Teams call, and who controlled tickets.
+
+*Related: C-14997, C-14998, C-14999, C-15000, C-15009*
 
 ---
 
@@ -454,7 +857,7 @@ Investigative Direction: Verify the timestamp metadata on the released footage.
 **C-3480** Bodycam Footage Released by Scripps News
 
 Claim Timestamp: 00:48:11
-Claim: The 2022 bodycam footage was released by Scripps News under the headline "[Scripps] News obtains video of accused Charlie Kirk shooter after the 2022 car crash." **Name uncertainty:** transcript also spells as "Scriptscripts News" and "Scripts Media."
+Claim: The 2022 bodycam footage was released by Scripps News under the headline "[Scripps] News obtains video of accused Charlie Kirk shooter after the 2022 car crash." **Name uncertainty:** transcript also spells as "Scripps News" and "Scripps Media."
 Anchored Artifacts: A-2389.2, A-2390.1
 Mentions: N-1
 Related Nodes: N-10834
@@ -478,7 +881,7 @@ Claim Timestamp: 00:48:11
 Claim: Jim Spencer teaches digital media and journalism at UT Austin, having done so since 2018.
 Anchored Artifacts: A-2391.1
 Related Nodes: N-10834
-Investigative Direction: Verify Spencer's UT Austin faculty page and Nell DeBuckman / Buckman Center affiliation.
+Investigative Direction: Verify Spencer's UT Austin faculty page and Nelda Buckman / Buckman Center affiliation.
 
 ---
 
@@ -596,15 +999,1534 @@ Investigative Direction: Track subsequent civil complaint filings with the Utah 
 
 ---
 
+**C-14979** Host Says Wall-to-Wall Coverage and Influencers Are Spinning the Notice as a Widow's Fight
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says there is wall-to-wall coverage of the Kirk family's pending wrongful death suit against the state of Utah and others, and that TPUSA's usual orbit of influencers is spinning it as an aggrieved widow's fight for justice, which she calls another PR game.
+
+Transcript Snippet: there is basically wall-to-wall coverage regarding a pending wrongful death lawsuit that the Kirk family intends to file against the state of Utah, among others.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000, N-10833
+Tags: relevance:context
+Investigative Direction: Collect the influencer posts and TPUSA statements of September 16, 2026 and compare their framing with the text of the notice.
+
+---
+
+**C-14980** Host Says the Notice of Claim Is a Mandatory Step Before Suing the Government
+
+Claim Timestamp: 00:01:29
+
+Claim: The host says a notice of claim is a mandatory prerequisite for this kind of suit, giving the government a chance to concede or settle before litigation.
+
+Transcript Snippet: It's it's a mandatory prerequisite for this kind of a lawsuit that you first have to assert your intent to sue the government
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11264
+Supports: C-3466
+Tags: relevance:context
+Investigative Direction: Check the Utah Governmental Immunity Act notice requirements and the claim deadline.
+
+---
+
+**C-14981** Host Says Charlie's Parents Urged Erika to Sue Utah Since About December
+
+Claim Timestamp: 00:01:29
+
+Claim: The host says she has known since approximately last December that it was Charlie Kirk's parents who were encouraging Erika Kirk to file a wrongful death lawsuit against the state of Utah.
+
+Transcript Snippet: I have known since approximately last December that actually it was Charlie Kirk's parents who were encouraging Erika to file a wrongful death lawsuit against the state of Utah.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-2
+Related Nodes: N-10833
+Tags: relevance:core
+Investigative Direction: This rests on the host's source; ask the Kirk family or its lawyers when the suit was first discussed.
+
+---
+
+**C-14982** Host Says Erika Was Not Keen to Sue When She Was Told in December
+
+Claim Timestamp: 00:01:29
+
+Claim: The host says she was told at that time that suing was not something Erika herself was keen to do.
+
+Transcript Snippet: at that time I was told that it was not something that Erika herself was keen to do.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10833
+Tags: relevance:core
+Investigative Direction: Compare with Erika's public statements on legal action since the shooting.
+
+---
+
+**C-14983** Host Says TPUSA Pulled in a Quarter Billion Last Year
+
+Claim Timestamp: 00:01:29
+
+Claim: The host says Charlie Kirk was CEO and chairman of an organization that pulled in a quarter billion last year.
+
+Transcript Snippet: CEO and chairman of an organization that pulled in a quarter billion last year
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Check TPUSA's latest Form 990 revenue against the quarter-billion figure.
+
+---
+
+**C-14984** Host Says the Independent Review Will Be Devastating to TPUSA's Security Apparatus
+
+Claim Timestamp: 00:04:55
+
+Claim: The host says she was told the independent review's findings would be devastating to Turning Point USA and its security apparatus because the reviewers would have gathered communications.
+
+Transcript Snippet: and that the findings were actually going to be devastating to Turning Point USA to their security apparatus because obviously they would have been gathering communications.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10839, N-10000
+Supports: C-3489
+Tags: relevance:core
+Investigative Direction: Obtain the review when released and compare its findings with the host's source.
+
+---
+
+**C-14985** Host Says the Filing Came Two Days Before the Review and Influencers Are Blaming the Campus
+
+Claim Timestamp: 00:06:24
+
+Claim: The host says the notice came on Wednesday, two days before the review was due, and that TPUSA is drumming up noise with influencers blaming the campus for the security failures.
+
+Transcript Snippet: Two days before the review gets released, suddenly Turning Point USA is drumming up noise and influencers are blaming the campus for the security failures.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10833, N-10839, N-10000
+Supports: C-3489
+Tags: relevance:core
+Investigative Direction: Compare the date the review was actually released with the notice date.
+
+---
+
+**C-14986** Host Says She Never Saw 12 Security People Brought to a Campus Event With Charlie
+
+Claim Timestamp: 00:06:24
+
+Claim: The host says that in all her time doing college campuses with Charlie she never saw 12 security people brought for a campus of this size.
+
+Transcript Snippet: I've never seen this in the history of me doing college campuses with Charlie that 12 security people would have been brought with him for a campus of this size.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10646
+Supports: C-3470
+Tags: relevance:core
+Investigative Direction: Compare with security staffing at earlier tour stops.
+
+---
+
+**C-14987** Host Says Charlie's Security Were Not Police but Former SEALs, Marines, Army Snipers and SWAT Commanders
+
+Claim Timestamp: 00:06:24
+
+Claim: The host says the security team members were not police officers but highly trained military: former Navy SEALs, Marines, Army snipers and SWAT commanders who worked at the highest levels of government.
+
+Transcript Snippet: highly trained military, former Navy Seals, former Marines, Army snipers, SWAT commanders who worked for the highest levels of government.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10646
+Supports: C-3469
+Tags: relevance:core
+Investigative Direction: Verify the team roster and service records against the Harpole interview.
+
+---
+
+**C-14988** Host Says She Brought Her Own Security Team to Every Tour Event After Working for TPUSA
+
+Claim Timestamp: 00:08:00
+
+Claim: The host says she worked for Turning Point USA and, on every tour she went on thereafter, brought her own security team to each event.
+
+Transcript Snippet: I worked for Turning Point USA. On every tour that I went on thereafter, I brought in my own security team to each and every event.
+
+Anchored Artifacts: 
+Mentions: N-3, N-10000
+Related Nodes: N-10344
+Tags: relevance:context
+Investigative Direction: Ask the host for her tour security arrangements; compare with N-10344.
+
+---
+
+**C-14989** Host Says She Requested Bomb Dogs at a Recent Event
+
+Claim Timestamp: 00:08:00
+
+Claim: The host says that at a recent event she asked the local police to supply bomb dogs, as an example of security liaising with local police.
+
+Transcript Snippet: So, you might say, as I did at a recent event, we want bomb dogs.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:context
+Investigative Direction: Identify the event and the police agency to confirm the request.
+
+---
+
+**C-14990** Host Says Local Police Respond With Limits and Security Must Source Its Own Resources or Cancel
+
+Claim Timestamp: 00:10:15
+
+Claim: The host says that after security asks for items such as drones or a rooftop observer, local police come back with limitations, and the team must then source the items itself or decline to hold the event.
+
+Transcript Snippet: And then the local police will then come back at you with potential limitations.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10646, N-10012
+Tags: relevance:context
+Investigative Direction: Obtain the UVU PD and TPUSA security correspondence about drones and rooftop coverage.
+
+---
+
+**C-14991** Host Says Security Should Be Sent Days Ahead of an Event
+
+Claim Timestamp: 00:10:55
+
+Claim: The host says a contracted security team would minimally be sent days ahead to make preparations and would not arrive blind to a campus.
+
+Transcript Snippet: Minimally, you would send them days ahead to make preparations, right?
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10646
+Supports: C-3490
+Tags: relevance:context
+Investigative Direction: Obtain the security team's travel and site-visit records for September 2025.
+
+---
+
+**C-14992** Notice Says TPUSA Planned Its Largest Ever Campus Tour
+
+Claim Timestamp: 00:10:55
+
+Claim: The host reads that the eight-page notice, in section B on page three, says Turning Point USA planned its largest ever campus tour in 2025, and she notes it avoids giving a precise date.
+
+Transcript Snippet: So, they tell us that in 2025, Turning Point USA planned its largest ever campus tour.
+
+Anchored Artifacts: A-2384.1
+Mentions: N-3
+Related Nodes: N-10000, N-10012
+Tags: relevance:context
+Investigative Direction: Read page three of the filed notice for the exact wording and any date.
+
+---
+
+**C-14993** Host Recounts a Former Speaker Saying the Event Came Together in a Couple of Weeks
+
+Claim Timestamp: 00:12:34
+
+Claim: The host recounts a young woman who had toured with the organization saying last fall that she had never seen an event planned like this, that it came together in a couple of weeks, and that planning normally begins about five months ahead.
+
+Transcript Snippet: I've never seen an event planned like this. This one came together in a couple of weeks.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10012, N-10000
+Supports: C-9721
+Tags: relevance:context
+Investigative Direction: Identify the woman and compare UVU approval dates with a normal tour booking lead time.
+
+---
+
+**C-14994** Host Says UVU Granted This Event Immediately and Nobody Knows Who Filed for It
+
+Claim Timestamp: 00:13:22
+
+Claim: The host says that despite the usual administrative resistance over insurance and ambulances, this event was granted immediately, and that it is not known who filed for it.
+
+Transcript Snippet: But this one granted immediately. We don't know who filed for it.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10012, N-10000
+Supports: C-9721
+Tags: relevance:context
+Investigative Direction: Obtain the UVU event request, its filer and approval dates.
+
+---
+
+**C-14995** Notice Says Local Chapter Advocacy Made UVU the First Stop and Cites Known Risks
+
+Claim Timestamp: 00:14:08
+
+Claim: The host reads that the notice says the local TPUSA chapter's advocacy gave UVU the honor of being the first stop on the fall tour against a well-known backdrop of risk, and paraphrases it as citing the Trump rooftop sniper incident as a risk UVU should have recognized.
+
+Transcript Snippet: didn't you know that President Trump uh there was a rooftop sniper?
+
+Anchored Artifacts: A-2384.1
+Mentions: N-3
+Related Nodes: N-10012, N-10000
+Supports: C-9513
+Tags: relevance:context
+Investigative Direction: Read the filed notice for the exact risk examples it cites.
+
+---
+
+**C-14996** Notice Says UVU Police Did Not Conduct a Risk Assessment or Hold a Security Briefing
+
+Claim Timestamp: 00:14:58
+
+Claim: The host reads the first negligence point: UVU police did not conduct a meaningful risk assessment and UVU did not hold a security briefing at which rooftop risks, already communicated to Chief Long, could be passed to other officers.
+
+Transcript Snippet: UVU police did not conduct a meaningful risk assessment and UVU parties did not have a security briefing
+
+Anchored Artifacts: A-2384.1
+Mentions: N-3, N-275
+Related Nodes: N-10646, N-10012
+Tags: relevance:context
+Investigative Direction: Ask UVU PD for any written risk assessment or briefing record for September 10, 2025.
+
+---
+
+**C-14997** Host Says UVU Told Crofts on the Teams Call There Would Be No Traffic Control at the Amphitheater
+
+Claim Timestamp: 00:16:22
+
+Claim: The host says she is told that on the August 25 Teams call UVU said the event should not be in the amphitheater because there is no traffic control and that the university could not shut the amphitheater down, and that this is not in the filing.
+
+Transcript Snippet: So, you have UVU on the call and they say, "No, you shouldn't do it in the amphitheater because there's no traffic control."
+
+Anchored Artifacts: 
+Mentions: N-3, N-8
+Related Nodes: N-11411, N-10012
+Supports: C-5010, C-1676
+Tags: relevance:core
+Investigative Direction: Recover the Teams call recording or notes and the attendee list.
+
+---
+
+**C-14998** Host Says Charlie Loved the Amphitheater at a March 2025 Tennessee Event
+
+Claim Timestamp: 00:16:22
+
+Claim: The host says the reason for the amphitheater demand was that Charlie had recently done an event in Tennessee in March 2025 where he loved the amphitheater.
+
+Transcript Snippet: Charlie had recently done an event in Tennessee and he did, by the way, that's fact. In March of 2025 where he loved the amphitheater
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-8
+Related Nodes: N-11411
+Supports: C-10984
+Tags: relevance:context
+Investigative Direction: Identify the March 2025 Tennessee event and venue.
+
+---
+
+**C-14999** Host Says the Notice Does Not Dispute That TPUSA Requested the Amphitheater
+
+Claim Timestamp: 00:17:52
+
+Claim: The host says the notice does not suggest TPUSA did not request the amphitheater; it argues only that UVU gave TPUSA what it asked for.
+
+Transcript Snippet: They're not like they're not suggesting they didn't request it.
+
+Anchored Artifacts: A-2384.1
+Mentions: N-3
+Related Nodes: N-11411, N-10833
+Tags: relevance:context
+Investigative Direction: Read the notice's treatment of venue selection for any denial or qualification.
+
+---
+
+**C-15000** Host Says TPUSA Went In Knowing There Would Be No Traffic Control Yet Sold Tickets
+
+Claim Timestamp: 00:17:52
+
+Claim: The host says TPUSA went into the event knowing there would be no traffic control, and questions why it would run a ticketed event if anyone could walk up.
+
+Transcript Snippet: they they went into this knowing that there would be no traffic control.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11411, N-10000
+Supports: C-5010
+Tags: relevance:context
+Investigative Direction: Obtain the ticketing records and any TPUSA acknowledgement of the no-traffic-control warning.
+
+---
+
+**C-15001** Host Says Charlie Told His Security Team the Night Before That He Feared Being Killed
+
+Claim Timestamp: 00:17:52
+
+Claim: The host says Charlie notified his security team the night before the event that he was worried he was going to be killed.
+
+Transcript Snippet: Charlie notified his security team the night before that he was worried that he was going to be killed.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10340
+Supports: C-6825
+Tags: relevance:core
+Investigative Direction: Obtain the night-before messages and the recipient list; the host elsewhere names Kolvet and Flood as recipients.
+
+---
+
+**C-15002** Host Says Police Dealt Mostly With the TPUSA Student Club Until 9 a.m. on Event Day
+
+Claim Timestamp: 00:18:53
+
+Claim: The host says that until security arrived at 9:00 a.m. the police were mostly in contact with the TPUSA campus club, which was managing everything.
+
+Transcript Snippet: the TPUSA club is managing everything until 9:00 a. m. that morning.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10646, N-10012, N-10000
+Supports: C-3490
+Tags: relevance:core
+Investigative Direction: Obtain UVU PD correspondence with the campus club and with TPUSA staff before September 10.
+
+---
+
+**C-15003** Notice Says Six Officers Were Only 25 Percent of the UVU Police Force
+
+Claim Timestamp: 00:19:44
+
+Claim: The host reads that the notice says Chief Long asked then-president Tuminez to allocate more than six officers, which were only 25 percent of the UVU police force, and the request was denied.
+
+Transcript Snippet: which represented only 25% of the UVU police force. But this request was denied.
+
+Anchored Artifacts: A-2384.1
+Mentions: N-3, N-275, N-760
+Related Nodes: N-10836
+Supports: C-3477
+Tags: relevance:context
+Investigative Direction: Obtain the UVU PD roster and the Long-Tuminez exchange.
+
+---
+
+**C-15004** Host Argues Six Officers Was an Oversupply Relative to 50,000 Students and 24 Officers
+
+Claim Timestamp: 00:21:28
+
+Claim: The host says that on 24 officers and 50,000 students, six officers would cover 12,500 students, so the event was oversupplied and denying more protected the other roughly 47,000 students.
+
+Transcript Snippet: So worked out as an equation, six police officers would have covered 12,500 students based on their availability
+
+Anchored Artifacts: A-2384.1
+Mentions: N-3, N-760
+Related Nodes: N-10836
+Supports: C-3485, C-3486
+Tags: relevance:context
+Investigative Direction: Verify enrollment and sworn officer count and whether other officers were on duty elsewhere.
+
+---
+
+**C-15005** Host Says Many Attendees Were Adults, Not Students
+
+Claim Timestamp: 00:22:26
+
+Claim: The host says that, from the crowd, the people at the event were not even students and that there were so many adults, which she found bizarre.
+
+Transcript Snippet: based on the crowd that we saw, those weren't even students that were at the event. There were so many adults.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10012
+Tags: relevance:core
+Investigative Direction: Review crowd footage and ticket data for the affiliation of attendees.
+
+---
+
+**C-15006** Notice Says No First Responders Were Made Available; Host Says That Is Untrue
+
+Claim Timestamp: 00:22:26
+
+Claim: The host says the notice alleges no first responders were made available and that this is not true.
+
+Transcript Snippet: there were no first responders made available because that's just not true.
+
+Anchored Artifacts: A-2384.1
+Mentions: N-3
+Related Nodes: N-10840
+Tags: relevance:core
+Investigative Direction: Obtain the notice paragraph and UVU EMS dispatch records.
+
+---
+
+**C-15007** Host Says UVU EMS Followed Charlie to the Car but Security Drove Off Instead
+
+Claim Timestamp: 00:22:26
+
+Claim: The host says UVU's state-certified EMS followed Charlie to the car with medical bags, and that Charlie's team chose to get in the vehicle and move on rather than have him treated and stabilized on the spot.
+
+Transcript Snippet: Charlie's team chose to get into the vehicle and to move on rather than to have him treated and stabilized uh right there
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10838, N-10840
+Supports: C-3488
+Tags: relevance:core
+Investigative Direction: Review scene video and EMS reports for contact between EMS and the vehicle.
+
+---
+
+**C-15008** Host Says TPUSA Was Given the Address and Security Protocols and Told an Ambulance Was on Standby
+
+Claim Timestamp: 00:24:37
+
+Claim: The host says, in what appears to be speaking for UVU, that TPUSA was given the address, the security protocols and told an ambulance was on standby, and TPUSA now disclaims it.
+
+Transcript Snippet: Here's the address. Here's the security protocols. Ambulance on standby. They made us aware of that.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10840, N-10000
+Tags: relevance:core
+Investigative Direction: Obtain UVU's written event plan and any record of an ambulance on standby; note the host later asks why no ambulance was on standby.
+
+---
+
+**C-15009** Host Says TPUSA Controlled the Tickets
+
+Claim Timestamp: 00:25:33
+
+Claim: The host says Turning Point USA was the party that controlled the tickets, rebutting the notice's claim that UVU could have restricted attendee numbers.
+
+Transcript Snippet: Turning Point USA are the ones that controlled the tickets.
+
+Anchored Artifacts: A-2384.1
+Mentions: N-3
+Related Nodes: N-10000, N-11411
+Contradicts: C-3492
+Tags: relevance:core
+Investigative Direction: Obtain ticket platform records and the ticketing agreement.
+
+---
+
+**C-15010** Host Says Harpole Misrepresented the Flood-Long Text Thread as His Own
+
+Claim Timestamp: 00:26:21
+
+Claim: The host says Brian Harpole misrepresented on the Shawn Ryan show the text exchange between Dan Flood and Chief Long as his own, though he was not on the thread.
+
+Transcript Snippet: This is the same message that Brian Harpole misrepresented as his own on Shawn Ryan
+
+Anchored Artifacts: A-2386.1
+Mentions: N-3, N-270, N-228, N-274, N-275
+Related Nodes: N-10356, N-10272
+Supports: C-1762, C-2821
+Tags: relevance:core
+Investigative Direction: Compare the Shawn Ryan transcript with the thread participants.
+
+---
+
+**C-15011** Host Says the Thread Asked for Either Controlled Access or One of TPUSA's Guys on the Roof
+
+Claim Timestamp: 00:27:11
+
+Claim: The host says the thread asks for either controlled access to the roof walkways or permission for one of TPUSA's security to be there, and describes it as an either-or request.
+
+Transcript Snippet: it would be nice to either have it controlled access or allow one of my guys to be there as well if possible.
+
+Anchored Artifacts: A-2387.1
+Mentions: N-3, N-274, N-275
+Related Nodes: N-10646, N-11009
+Supports: C-1763
+Tags: relevance:core
+Investigative Direction: Obtain the original thread with metadata.
+
+---
+
+**C-15012** Host Says Her Outlet Broke in November That the Thread Referred to the Walkway Above Charlie
+
+Claim Timestamp: 00:28:12
+
+Claim: The host says her outlet reported in November, after Harpole's Shawn Ryan appearance, that the thread referred to the walkway above Charlie's head, reachable by a staircase from the lower level of Sorenson.
+
+Transcript Snippet: So, we broke a story back in November following Brian Harpole's appearance in Shawn Ryan that this message thread is specifically referring to, as it sounds, the walkway above Charlie's head.
+
+Anchored Artifacts: A-2388.1
+Mentions: N-3, N-270, N-228
+Related Nodes: N-10646, N-11009
+Supports: C-6695
+Tags: relevance:core
+Investigative Direction: Locate the November 2025 episode and compare the map with the campus layout.
+
+---
+
+**C-15013** Host Says the Concern Was People Throwing Things Down From the Hall of Flags Roof
+
+Claim Timestamp: 00:29:09
+
+Claim: The host says officials worried students walking up the stairs and over Charlie's head could throw things such as water bottles down on him, and that the roof is the Hall of Flags roof, beneath which Charlie sat.
+
+Transcript Snippet: that you could have an incident where uh someone's throwing water bottles, throwing water on Charlie.
+
+Anchored Artifacts: A-2388.1
+Mentions: N-3, N-1
+Related Nodes: N-11009, N-10646
+Supports: C-5036, C-6593
+Tags: relevance:core
+Investigative Direction: Ask Flood and Long what concern prompted the thread.
+
+---
+
+**C-15014** Host Says the Text Concerned the Area Above Harpole's Group, Not the Losee Center or Other Rooftops
+
+Claim Timestamp: 00:29:56
+
+Claim: The host says that with the omitted line restored the text clearly concerns a specific area right above Charlie's team and has nothing to do with the Losee Center or any other rooftop.
+
+Transcript Snippet: has nothing to do with the Losee Center or any other rooftop, but rather an area right above you guys
+
+Anchored Artifacts: A-2387.1
+Mentions: N-3, N-270
+Related Nodes: N-10835, N-10646
+Supports: C-3473
+Tags: relevance:core
+Investigative Direction: Verify the roof geometry between Sorenson, the Hall of Flags and the Losee Center.
+
+---
+
+**C-15015** Host Says Officer Bagley Was Sent to Monitor the Rooftop Traffic
+
+Claim Timestamp: 00:30:35
+
+Claim: The host says Officer Bagley was sent to monitor the rooftop traffic control, one of the two things Flood asked for, and so Chief Long did have them covered.
+
+Transcript Snippet: Officer Bagley was sent to monitor the rooftop traffic control.
+
+Anchored Artifacts: 
+Mentions: N-3, N-512, N-275
+Related Nodes: N-10646
+Supports: C-3472, C-10521
+Contradicts: C-15019
+Tags: relevance:core
+Investigative Direction: Obtain UVU PD assignment logs for Bagley on September 10.
+
+---
+
+**C-15016** Host Says Members of Charlie's Security Team Were Also Allowed on the Roof
+
+Claim Timestamp: 00:30:35
+
+Claim: The host says members of Charlie's own security team were allowed on the roof as well, so both options in Flood's request were met.
+
+Transcript Snippet: And additionally, members of Charlie's security team were allowed up there as well.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-274
+Related Nodes: N-10646
+Contradicts: C-15019
+Tags: relevance:core
+Investigative Direction: Obtain roof access logs and names of the security members on the roof.
+
+---
+
+**C-15017** Host Says a Still Shows Richard Bracie on the Rooftop and Moving Right After the Shot
+
+Claim Timestamp: 00:30:35
+
+Claim: The host says a still shows a security team member she names Richard Bracie on the rooftop and that, right after the explosive goes off, he moves across, having already been given access.
+
+Transcript Snippet: We know Richard Bracie was up there on the rooftop.
+
+Anchored Artifacts: A-3358
+Mentions: N-3
+Related Nodes: N-10646
+Tags: relevance:core
+Investigative Direction: Identify the man in the still and obtain the footage; the surname is spelled Bracie and Bracley in the transcript.
+
+---
+
+**C-15018** Notice Says Long's Text Led TPUSA to Believe UVU Had a Plan for Rooftop Risks
+
+Claim Timestamp: 00:31:45
+
+Claim: The host reads the notice as saying Chief Long's 'got you covered' led TPUSA to reasonably conclude UVU had a plan to address the identified risk and similar risks.
+
+Transcript Snippet: led TPUSA to reasonably conclude that UVU had a plan to address the identified risk and other similar risks
+
+Anchored Artifacts: A-2384.1
+Mentions: N-3, N-275
+Related Nodes: N-10646, N-10835
+Supports: C-3472
+Tags: relevance:context
+Investigative Direction: Read page six of the filed notice.
+
+---
+
+**C-15019** Notice Says Long's Text Did Not Let TPUSA Take Steps to Secure Rooftops
+
+Claim Timestamp: 00:31:45
+
+Claim: The host reads the notice as saying Chief Long's text did not invite or even allow Turning Point USA to take any steps to secure the risk of unsecured rooftops.
+
+Transcript Snippet: Chief Long's text message did not invite or even allow Turning Point USA to take any steps to secure the risk of unsecured rooftops.
+
+Anchored Artifacts: A-2384.1
+Mentions: N-3, N-275
+Related Nodes: N-10646, N-10835
+Tags: relevance:context
+Investigative Direction: Read page six of the filed notice and compare with the roof access actually given to TPUSA security.
+
+---
+
+**C-15020** Host Says the Filing Is a Preemptive PR Strike Ahead of a Damaging Review
+
+Claim Timestamp: 00:34:25
+
+Claim: The host says she maintains the notice is a preemptive PR strike to distract the public from what she is told will be a devastating blow to TPUSA's shortcomings.
+
+Transcript Snippet: I maintain my position that this is a preemptive PR strike meant to distract the public from what I am told is going to be a devastating blow
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10833, N-10839, N-10000
+Supports: C-14984, C-14985
+Tags: relevance:core
+Investigative Direction: Compare the review's findings and release date with the notice date.
+
+---
+
+**C-15021** Host Says She Hopes the Review Explains Why No Ambulance Was on Standby
+
+Claim Timestamp: 00:34:25
+
+Claim: The host says the review may answer why there was no ambulance on standby and may show fuller communications with the team.
+
+Transcript Snippet: Maybe we get some answers to the questions of why there was no ambulance on standby.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10840, N-10839
+Tags: relevance:core
+Investigative Direction: Compare with the earlier statement that an ambulance was on standby.
+
+---
+
+**C-15022** Host Reads an Ad Saying the Vatican Made a Secret 2018 Deal With the Chinese Communist Party
+
+Claim Timestamp: 00:37:10
+
+Claim: In a sponsor read, the host says the Vatican entered a secretive deal with the Chinese Communist Party in 2018, that bishops are disappearing, and that Beijing appoints loyalist bishops; she says Pope Leo has declined to comment.
+
+Transcript Snippet: In 2018, the Vatican entered a secretive deal with the Chinese Communist Party.
+
+Anchored Artifacts: 
+Mentions: N-3, N-426
+Tags: relevance:tangential
+Investigative Direction: Check the 2018 Holy See-China provisional agreement and its renewals.
+
+---
+
+**C-15023** Host Says Dan Flood Provided Security to Erika After the Shooting
+
+Claim Timestamp: 00:40:52
+
+Claim: The host says Dan Flood was providing security to Erika in the immediate aftermath and was with her at the White House.
+
+Transcript Snippet: Dan Flood was actually providing security to her in the immediate aftermath.
+
+Anchored Artifacts: 
+Mentions: N-3, N-274, N-2
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Obtain White House visitor records and TPUSA security payroll records.
+
+---
+
+**C-15024** Host Says Zack Costello Compared Robinson's Finger Posture in UVU Footage With 2022 Footage
+
+Claim Timestamp: 00:40:52
+
+Claim: The host credits YouTuber Zack Costello with noticing that Tyler Robinson in the released UVU-campus footage held his fingers in his pockets in a particular way.
+
+Transcript Snippet: he was looking at the footage of um the footage that we released of Tyler Robinson the version in the American shirt uh walking to onto UVU campus and he was addressing how he had his fingers in his pockets.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40, N-955
+Related Nodes: N-10873
+Tags: relevance:context
+Investigative Direction: Watch Costello's video and compare the two clips.
+
+---
+
+**C-15025** Host Says Costello Saw the Same Finger Posture in the 2022 Footage
+
+Claim Timestamp: 00:40:52
+
+Claim: The host says Costello thought it reminiscent of the 2022 footage of Robinson, who also had his fingers in his pocket that way.
+
+Transcript Snippet: that makes me think of that 2022 arrest of Tyler Robinson and he also had his fingers in the pocket that way.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40, N-955
+Related Nodes: N-10873, N-10834
+Tags: relevance:context
+Investigative Direction: Compare the frames; the host later says no arrest occurred in 2022.
+
+---
+
+**C-15026** Host Says the 2022 Footage Should Not Exist
+
+Claim Timestamp: 00:42:55
+
+Claim: The host says the bodycam footage, three and a half years old yet available to be released instantly, should not exist because police do not keep routine traffic-stop footage.
+
+Transcript Snippet: because the footage should not exist.
+
+Anchored Artifacts: A-2389.1
+Mentions: N-3, N-40
+Related Nodes: N-10834, N-10837
+Supports: C-3479
+Tags: relevance:core
+Investigative Direction: Request retention schedules from St. George PD and Utah records laws.
+
+---
+
+**C-15027** Host Says States Have Laws Requiring Automatic Deletion of Routine Bodycam Footage
+
+Claim Timestamp: 00:43:44
+
+Claim: The host says each state has laws governing automatic deletion of bodycam footage, typically on a short time frame for noncriminal interactions.
+
+Transcript Snippet: So, state by state, there exists laws that govern when body cam footage is to be automatically deleted.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10837
+Tags: relevance:context
+Investigative Direction: Check Utah Code on body-worn camera retention.
+
+---
+
+**C-15028** Host Says Loomer's Side Tried to Find Footage of Her Husband's Fender Bender
+
+Claim Timestamp: 00:43:44
+
+Claim: The host says Laura Loomer's side was desperate to find footage of her husband hitting somebody's bumper in a parking lot, and that the other driver later shook them down for 6K.
+
+Transcript Snippet: Sorry, Laura Loomer. I know they were really desperate to try to find footage of my husband pulling out of a parking lot
+
+Anchored Artifacts: 
+Mentions: N-3, N-60
+Tags: relevance:tangential
+Investigative Direction: Personal anecdote; no outside record expected.
+
+---
+
+**C-15029** Host Says Utah Routine Footage Is Typically Purged Within 60 to 90 Days
+
+Claim Timestamp: 00:44:43
+
+Claim: The host says she looked up Utah law and that bodycam footage without an arrest, citation, use of force or citizen complaint is typically purged between 60 and 90 days to manage storage costs.
+
+Transcript Snippet: That body cam duration for routine footage that does not involve either an arrest, a citation, a use of force, or a citizen complaint is usually and typically automatically purged from their system between 60 and 90 days.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10837, N-10834
+Tags: relevance:core
+Investigative Direction: Check Utah Code 77-7a and St. George PD policy; the retention period may differ by agency.
+
+---
+
+**C-15030** Host Says No Citations or Arrests in 2022 and the Footage Did Not Capture the Accident
+
+Claim Timestamp: 00:45:26
+
+Claim: The host says no citations were issued, nobody was arrested and the body camera did not capture the accident in Robinson's 2022 incident.
+
+Transcript Snippet: So, in the case of Tyler Robinson in 2022, no citations were issued. Nobody was arrested. The body cam footage did not capture the accident.
+
+Anchored Artifacts: A-2389.1
+Mentions: N-3, N-40
+Related Nodes: N-10834, N-10837
+Tags: relevance:core
+Investigative Direction: Request the 2022 incident report from St. George PD.
+
+---
+
+**C-15031** Host Says Robinson Spoke to an Officer and Was Handed a Report Number
+
+Claim Timestamp: 00:45:26
+
+Claim: The host says Robinson spoke to an officer and was given an instant report number, and both drivers exchanged insurance.
+
+Transcript Snippet: Tyler Robinson spoke to an officer and was handed a report number, an instant report number.
+
+Anchored Artifacts: A-2389.1
+Mentions: N-3, N-40
+Related Nodes: N-10834
+Tags: relevance:core
+Investigative Direction: Obtain the incident report and report number.
+
+---
+
+**C-15032** Host Says There Was No Ambulance, Paramedics or Injury Claim in 2022
+
+Claim Timestamp: 00:45:26
+
+Claim: The host says there was no ambulance, no paramedics and nobody pretending to be hurt, so the incident was beyond routine.
+
+Transcript Snippet: There was no ambulance. There was no paramedics. Nobody was pretending to be hurt.
+
+Anchored Artifacts: A-2389.1
+Mentions: N-3
+Related Nodes: N-10834
+Tags: relevance:core
+Investigative Direction: Obtain the incident report.
+
+---
+
+**C-15033** Host Says Someone Must Have Ordered the Footage and Held It for Three Years
+
+Claim Timestamp: 00:45:26
+
+Claim: The host says the retention implies someone ordered the footage and held on to it for three years, and that this is the question.
+
+Transcript Snippet: So I found myself going, who ordered the footage and held on to it for 3 years?
+
+Anchored Artifacts: A-2389.1
+Mentions: N-3
+Related Nodes: N-10834, N-10873
+Tags: relevance:core
+Investigative Direction: Submit records requests to St. George PD and Scripps on who requested and supplied the footage.
+
+---
+
+**C-15034** Host Says Robinson Was Completely Unknown in 2022
+
+Claim Timestamp: 00:45:26
+
+Claim: The host says there was no dispute going to court and that Tyler Robinson was completely unknown in 2022.
+
+Transcript Snippet: Tyler Robinson was completely unknown in 2022.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40
+Related Nodes: N-10834
+Supports: C-3484
+Tags: relevance:core
+Investigative Direction: Obtain any 2022 records requests naming Robinson.
+
+---
+
+**C-15035** Host Says Both Drivers Were Cooperative and There Was No Lawsuit
+
+Claim Timestamp: 00:46:14
+
+Claim: The host says both drivers were cooperative and there was no subsequent lawsuit or fight, so no reason to request the footage.
+
+Transcript Snippet: Like I said, both drivers were cooperative. There was no subsequent lawsuit or fight.
+
+Anchored Artifacts: A-2389.1
+Mentions: N-3
+Related Nodes: N-10834
+Tags: relevance:core
+Investigative Direction: Search civil dockets for any suit arising from the 2022 crash.
+
+---
+
+**C-15036** Played Clip Has a Driver Describing the Other Car Turning In and Being T-Boned
+
+Claim Timestamp: 00:46:59
+
+Claim: In the played bodycam clip a driver tells the officer the other vehicle pulled out or turned in and that he T-boned into its side.
+
+Transcript Snippet: I was coming this way and he's just passing through and he pulled out uh from here or no from there I think.
+
+Anchored Artifacts: A-2389.1
+Mentions: N-3, N-40
+Related Nodes: N-10834
+Tags: relevance:core
+Investigative Direction: Identify which speaker is Robinson from the full clip.
+
+---
+
+**C-15037** Host Says TPUSA's Number One Donor Has a Strong Tie to UT Austin
+
+Claim Timestamp: 00:48:11
+
+Claim: The host says Turning Point USA has a strong tie to UT Austin through its number one donor, whom she names Nell Buckman.
+
+Transcript Snippet: Turning Point USA has a very strong tie to UT Austin in the form of their number one donor uh Nelda Buckman.
+
+Anchored Artifacts: A-2392.1
+Mentions: N-3, N-466
+Related Nodes: N-10421, N-10000
+Supports: C-10514
+Tags: relevance:context
+Investigative Direction: Verify Buckman donation records to UT Austin and TPUSA.
+
+---
+
+**C-15038** Host Hedges That TPUSA Shared a Plane With Its Top Donor
+
+Claim Timestamp: 00:48:11
+
+Claim: The host says she vaguely believes TPUSA was sharing a plane with the donor and asks to be corrected.
+
+Transcript Snippet: That was who they I believe they were sharing a plane with as well.
+
+Anchored Artifacts: 
+Mentions: N-3, N-466
+Related Nodes: N-10421
+Tags: relevance:context
+Investigative Direction: Check flight records for a shared flight with Buckman.
+
+---
+
+**C-15039** Host Says Buckman Donated a 2,300 Square Foot Building to UT Austin in 2022
+
+Claim Timestamp: 00:48:11
+
+Claim: The host says the donor gave a 2,300 square foot building to UT Austin in 2022 for mixed media and artists, called the Buckman Center.
+
+Transcript Snippet: she donated in 2022 a 2300 square foot building to UT Austin for mixed media and artists.
+
+Anchored Artifacts: A-2392.1
+Mentions: N-3, N-466
+Related Nodes: N-10421
+Tags: relevance:context
+Investigative Direction: Check UT Austin's announcement of the Buckman Center.
+
+---
+
+**C-15040** Host Suggests Jim Spencer's UT Austin Role and Buckman's Donation Are a Lead on the Footage
+
+Claim Timestamp: 00:48:11
+
+Claim: The host suggests the UT Austin link, through Scripps founder Jim Spencer and donor Buckman, is a side lead to explore on how Scripps obtained the video, and asks that donor resources be used to ask Spencer.
+
+Transcript Snippet: Help us all figure out how they got a hold of this obscure video.
+
+Anchored Artifacts: A-2391.1, A-2392.1
+Mentions: N-3, N-956, N-466
+Related Nodes: N-10834, N-10873
+Supports: C-3482
+Tags: relevance:context
+Investigative Direction: Ask Scripps how it obtained the video; no documented link between Spencer and Buckman is shown.
+
+---
+
+**C-15041** Host Says Media Showed Robinson in Maroon Though He Normally Wore Blue
+
+Claim Timestamp: 00:49:39
+
+Claim: The host says news organizations showed Robinson in a maroon shirt as if he always wore maroon, though he normally wore blue shirts, and that decoys wore maroon.
+
+Transcript Snippet: every news organization was showing us pictures of Tyler in a maroon shirt and you would think that he always wore maroon shirts, but he didn't actually.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40
+Related Nodes: N-10311, N-10873
+Tags: relevance:core
+Investigative Direction: Compare published photos of Robinson with the shirts he is shown wearing.
+
+---
+
+**C-15042** Host Theorizes the 2022 Footage Release Was Planned and an Individual Trained to Mimic Robinson's Walk
+
+Claim Timestamp: 00:49:39
+
+Claim: The host theorizes that those behind it already planned to release the footage and had trained an individual to mimic the way Robinson walks, to imprint on the public a match with the campus footage.
+
+Transcript Snippet: I think that they already knew they were going to release this to the public and they had trained this individual to mimic the way in which Tyler Robinson walks.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40
+Related Nodes: N-11410, N-10873
+Tags: relevance:core
+Investigative Direction: Needs gait analysis of both clips; the host offers no direct evidence.
+
+---
+
+**C-15043** NY Post Said Robinson Wore an Eerily Similar Hat and Sunglasses in the 2022 Footage
+
+Claim Timestamp: 00:49:39
+
+Claim: The host reads that the New York Post wrote that Robinson wore a hat and sunglasses in the 2022 footage eerily similar to what he wore while on the run, and says this imprints that he is the man.
+
+Transcript Snippet: Wow, shocking footage emerges of Tyler Robinson, and he's wearing an eerily similar hat and sunglasses from the 2022 footage.
+
+Anchored Artifacts: A-2390.1
+Mentions: N-3, N-40
+Related Nodes: N-10873, N-11410
+Tags: relevance:context
+Investigative Direction: Retrieve the New York Post article and its date.
+
+---
+
+**C-15044** Host Asks for Tips on How Scripps Got the 2022 Footage
+
+Claim Timestamp: 00:50:40
+
+Claim: The host asks viewers with information on who held the footage and why to send tips to the candaceowens.com address.
+
+Transcript Snippet: More tips at candacewowens. com.
+
+Anchored Artifacts: A-3356
+Mentions: N-3
+Related Nodes: N-10834
+Tags: relevance:core, dia
+Investigative Direction: Collect tips on St. George PD or Scripps sources.
+
+---
+
+**C-15045** Host Gives the Tip Email for Scripps and St. George Insiders
+
+Claim Timestamp: 00:51:41
+
+Claim: The host asks anyone who works for Scripps or St. George to send tips to a candaceowens.com tips address.
+
+Transcript Snippet: More tips at canowens. com or you can email us at tips@canowens. com.
+
+Anchored Artifacts: A-3357
+Mentions: N-3
+Related Nodes: N-10834
+Tags: relevance:core, dia
+Investigative Direction: Collect tips on St. George PD or Scripps sources.
+
+---
+
+**C-15046** Host Asks Whether Mike Mitchell Was Robinson's Mentor
+
+Claim Timestamp: 00:51:41
+
+Claim: The host asks whether Mike Mitchell was Robinson's mentor and whether Robinson might have confided to him about being pulled over.
+
+Transcript Snippet: But didn't Mike Mitchell, wasn't he his mentor?
+
+Anchored Artifacts: 
+Mentions: N-3, N-126, N-40
+Related Nodes: N-10834
+Tags: relevance:context
+Investigative Direction: Establish the Mitchell-Robinson relationship from public records.
+
+---
+
+**C-15047** Host Says the Pharisee Lobby Operates Like Termites
+
+Claim Timestamp: 00:54:11
+
+Claim: In reply to comments on the Macklemore and Ed Sheeran dispute, the host says the 'Perisio' lobby operates like termites and has to destroy.
+
+Transcript Snippet: The Perisio lobby, they just operate like termites.
+
+Anchored Artifacts: 
+Mentions: N-3, N-842, N-843
+Tags: relevance:tangential
+Investigative Direction: Sweeping group claim; no direct bearing on the case.
+
+---
+
+**C-15048** Host Says People Who Worship Baal Love Human Sacrifice and Killing Children
+
+Claim Timestamp: 00:55:12
+
+Claim: The host says, replying to a comment, that people who 'worship ball' (Baal) like human sacrifice, have bloodlust and love killing children.
+
+Transcript Snippet: They just like human sacrifice. They love they have this blood lust. They love killing children.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Sweeping group claim; no direct bearing on the case.
+
+---
+
+**C-15049** Host Says John and Arena Mappin Have Been Fantastic Friends
+
+Claim Timestamp: 00:56:05
+
+Claim: The host says John Mappin is a quintessential Englishman and that he and Arena have been fantastic friends to her, especially during this time.
+
+Transcript Snippet: him and Arena have just been fantastic friends to us especially throughout this time.
+
+Anchored Artifacts: 
+Mentions: N-3, N-157, N-158
+Supports: C-1392
+Tags: relevance:context
+Investigative Direction: Context only.
+
+---
+
+**C-15050** Host Says the Mappins Have Been Loyal to Charlie's Memory
+
+Claim Timestamp: 00:56:52
+
+Claim: The host says the Mappins have been extremely loyal to Charlie and to making sure he does not die in vain.
+
+Transcript Snippet: They have been extremely loyal to Charlie and making sure that um his he does not die in vain
+
+Anchored Artifacts: 
+Mentions: N-3, N-157, N-158, N-1
+Supports: C-1392
+Tags: relevance:context
+Investigative Direction: Context only.
+
+---
+
+**C-15051** Host Says the Notice Was Delivered to the Utah Attorney General's Office
+
+Claim Timestamp: 00:56:52
+
+Claim: The host says the filing was delivered to the office of the attorney general of Utah.
+
+Transcript Snippet: it's from the office of the attorney general or was a given delivered to the office of the attorney general rather um of Utah.
+
+Anchored Artifacts: A-2384.1
+Mentions: N-3
+Related Nodes: N-11264, N-10833
+Supports: C-3466
+Tags: relevance:context
+Investigative Direction: Confirm receipt with the Utah Attorney General.
+
+---
+
+**C-15052** Host Says Baron Coleman Will Host Her Principal Show During Maternity Leave
+
+Claim Timestamp: 00:56:52
+
+Claim: The host says Baron Coleman will take over her principal show while she is on maternity leave.
+
+Transcript Snippet: But Baron Coleman, yes, will be taking over the principal show while I'm on maternity leave.
+
+Anchored Artifacts: 
+Mentions: N-3, N-334
+Related Nodes: N-11313
+Tags: relevance:context
+Investigative Direction: Check the show schedule for Coleman's episodes.
+
+---
+
+**C-15053** Host Says Coleman's Show Runs Monday Through Wednesday While She Is Off Air
+
+Claim Timestamp: 00:56:52
+
+Claim: The host says the show will run Monday through Wednesday while she is off air.
+
+Transcript Snippet: It will run while I am off air um from Monday through Wednesday.
+
+Anchored Artifacts: 
+Mentions: N-3, N-334
+Related Nodes: N-11313
+Tags: relevance:context
+Investigative Direction: Check the show schedule.
+
+---
+
+**C-15054** Host Plans a Joint Episode With Coleman Reviewing the State's Evidence
+
+Claim Timestamp: 00:56:52
+
+Claim: The host says before leaving she and Coleman will do a joint episode going back through the case, including the state's evidence which she says Andrew Wilson insincerely missed.
+
+Transcript Snippet: Before I leave, we will do a joint episode.
+
+Anchored Artifacts: 
+Mentions: N-3, N-334, N-18
+Related Nodes: N-11313
+Tags: relevance:context
+Investigative Direction: Watch for the joint episode.
+
+---
+
+**C-15055** Host Says Her Baby Is a Few Weeks Away
+
+Claim Timestamp: 00:56:52
+
+Claim: The host says it is a few more weeks until her baby comes.
+
+Transcript Snippet: We are just got a few more weeks here until this baby comes.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11313
+Tags: relevance:context
+Investigative Direction: Context only.
+
+---
+
+**C-15056** Host Says She Went on Ana Kasparian's Show to Explain What Is Wrong With the Case
+
+Claim Timestamp: 00:56:52
+
+Claim: The host says she went on Ana Kasparian's show and explained many things wrong with the case, to a different audience.
+
+Transcript Snippet: I went on her show and explained a lot of the things that are wrong with the case, which I was really grateful for because she has a different audience from mine.
+
+Anchored Artifacts: 
+Mentions: N-3, N-207
+Tags: relevance:context
+Investigative Direction: Find the Kasparian interview.
+
+---
+
+**C-15057** Host Says Coleman Will Keep Track of Tricky Terrell
+
+Claim Timestamp: 01:01:19
+
+Claim: The host says Coleman will keep track of 'Tricky Terrell', whom she says bothers everyone and gets away with a lot.
+
+Transcript Snippet: he will he will keep track of Tricky Terrell because Tricky Terrell bothers us all.
+
+Anchored Artifacts: 
+Mentions: N-3, N-334, N-265
+Tags: relevance:context
+Investigative Direction: Confirm 'Tricky Terrell' means Terrell Farnsworth.
+
+---
+
+**C-15058** Host Says Utah Has a Steep History of Satanic Abuse Claims
+
+Claim Timestamp: 01:01:19
+
+Claim: The host says there have been many satanic abuse claims in Utah and that the Kirk case seems to arrive at that theme again.
+
+Transcript Snippet: there has been a lot of satanic abuse claims full stop in Utah outside of David Ov. a steep history of those sorts of things
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Sweeping claim; no direct evidence offered.
+
+---
+
+**C-15059** Host Says Erika Was Ranting About Israel at Tucker's the Night Before in May 2025
+
+Claim Timestamp: 01:03:10
+
+Claim: The host says that when she was at Tucker Carlson's in May 2025, Erika was there the night before ranting about Israel and pushing Charlie in an anti-Israel direction.
+
+Transcript Snippet: Erika was there the night before ranting about Israel like and like pushing Charlie in that anti-Israel direction.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-22, N-1
+Related Nodes: N-10983
+Supports: C-4516, C-4587, C-5834
+Tags: relevance:core
+Investigative Direction: Compare with Tucker's account of the dinner.
+
+---
+
+**C-15060** Host Says Erika Went from Anti-Israel to Pro-Israel Since May
+
+Claim Timestamp: 01:03:10
+
+Claim: The host says Erika has switched since May from talking about Israel as the others did to being very pro-Israel and partnered with the International Fellowship of Christians and Jews.
+
+Transcript Snippet: like we were all talking about Israel and now all of a sudden she's very pro-Israel and partnered with um the what is it called ICF.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-11170, N-10983
+Tags: relevance:core
+Investigative Direction: Obtain the TPUSA-IFCJ agreement.
+
+---
+
+**C-15061** Host Says Max Blumenthal Revealed the TPUSA Fellowship Contract
+
+Claim Timestamp: 01:03:10
+
+Claim: The host says the contract with the fellowship was revealed by Max Blumenthal.
+
+Transcript Snippet: That contract got revealed by Max Blumenthal.
+
+Anchored Artifacts: 
+Mentions: N-3, N-49
+Related Nodes: N-11170
+Tags: relevance:core
+Investigative Direction: Find Blumenthal's report and the contract.
+
+---
+
+**C-15062** Host Says Charlie Introduced Her to Rodney Stark's Work
+
+Claim Timestamp: 01:04:14
+
+Claim: The host says the book club is reading Bearing False Witness by Rodney Stark, an author Charlie introduced to her, and that How the West Won was the first book Charlie told her to read.
+
+Transcript Snippet: we are reading bearing false witness and that is by Rodney Stark and uh actually this author was introduced to me by Charlie Kirk.
+
+Anchored Artifacts: 
+Mentions: N-3, N-957, N-1
+Tags: relevance:context
+Investigative Direction: Context only.
+
+---
+
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:50:40
+Speaker: N-3
+Quote: More tips at candacewowens. com.
+Context: Host asks for tips on how Scripps got the 2022 footage.
+Tags: dia, tips
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:51:41
+Speaker: N-3
+Quote: More tips at canowens. com or you can email us at tips@canowens. com.
+Context: Host asks Scripps or St. George insiders to send tips.
+Tags: dia, tips
+Confidence: high
+
+---
+
+**M-295** (meme) Textbook Narcissistic Abuse
+
+### Occurrence 1
+
+Video Timestamp: 00:17:52
+Speaker: N-3
+Quote: This just feels like narcissistic abuse.
+Context: Host on the notice blaming UVU for granting TPUSA's request.
+Tags: narcissistic-abuse
+Confidence: high
+
+---
+
+**M-37** (meme) Grifter
+
+### Occurrence 1
+
+Video Timestamp: 00:01:29
+Speaker: N-3
+Quote: the neverending grift
+Context: Host on Erika and TPUSA's PR and fundraising.
+Tags: grift
+Confidence: high
+
+---
+
+**M-292** (meme) Pregnancy Brain
+
+### Occurrence 1
+
+Video Timestamp: 01:04:14
+Speaker: N-3
+Quote: Because pregnancy brain is encroaching.
+Context: Host stumbles over words.
+Tags: pregnancy
+Confidence: high
+
+---
+
+**M-154** (meme) Second Favorite Shirt
+
+### Occurrence 1
+
+Video Timestamp: 01:04:14
+Speaker: N-3
+Quote: Also feel free to buy your second favorite shirt.
+Context: Host plugs maroon merch.
+Tags: merch, maroon
+Confidence: high
+
+---
+
+**M-307** (meme) Dr. Erika Kirk
+
+### Occurrence 1
+
+Video Timestamp: 00:56:52
+Speaker: N-3
+Quote: Hey, if Erika can be a doctor, why can't I be a lawyer?
+Context: Host jokes about Erika's doctor title.
+Tags: erika, doctor
+Confidence: high
+
+---
+
+**M-351** (meme) Bee in My Bonnet
+
+### Occurrence 1
+
+Video Timestamp: 00:40:52
+Speaker: N-3
+Quote: I have a random bee in my bonnet today.
+Context: Introduces the bodycam question.
+Tags: bee-in-bonnet
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:50:40
+Speaker: N-3
+Quote: Got to get to the bottom of it.
+Context: Closes the bodycam rant.
+Tags: bee-in-bonnet
+Confidence: high
+
+---
+
+**M-352** (meme) Everybody Sues Candace
+
+### Occurrence 1
+
+Video Timestamp: 00:56:05
+Speaker: N-3
+Quote: Everybody sues Candace.
+Context: Host jokes about an AI thing.
+Tags: lawsuits
+Confidence: high
+
+---
+
+**M-353** (meme) Coleman Sandwich Clause
+
+### Occurrence 1
+
+Video Timestamp: 00:56:52
+Speaker: N-3
+Quote: he's not allowed to discuss sandwiches in any capacity
+Context: Host announces the clause.
+Tags: coleman, sandwich
+Confidence: high
+
+---
+
+**M-354** (meme) Tricky Terrell
+
+### Occurrence 1
+
+Video Timestamp: 01:01:19
+Speaker: N-3
+Quote: Tricky Terrell bothers us all.
+Context: Host on Terrell.
+Tags: terrell
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
-- **Name uncertainty – Astrid Tuminez:** Transcript displays "Astra Timunes," "Astred Tum Tuminez," "Astred Tumz," "Astrid Tuminez," and "Astred Humanez" for the same person. Preserve spelling as appears in each artifact.
+- **Name uncertainty – Astrid Tuminez:** Transcript displays "Astrid Tuminez," "Astrid Tuminez," "Astrid Tuminez," "Astrid Tuminez," and "Astrid Tuminez" for the same person. Preserve spelling as appears in each artifact.
 - **Name uncertainty – Richard Bracie / Bracley:** Transcript spells as both "Bracie" and "Bracley." Preserve spelling as appears.
 - **Name uncertainty – Erika vs Erica:** Transcript uses "Erika" throughout. Protocol example ledger uses "Erica." Preserve transcript spelling; flag inconsistency.
-- **Name uncertainty – Scripps News:** Transcript uses "Scripts Media," "Scriptscripts News," and "Scripps News." Treat as same entity; preserve spelling per artifact.
+- **Name uncertainty – Scripps News:** Transcript uses "Scripps Media," "Scripps News," and "Scripps News." Treat as same entity; preserve spelling per artifact.
 - **Transcription error – "August 25th, 20125":** Clear error for 2025.
-- **Name uncertainty – Nell DeBuckman:** Possibly existing node; verification recommended. Not created as new since this name may already exist in N-1 to N-226 range.
-- **Artifact verbally referenced but not shown – Nell DeBuckman / Buckman Center donation:** A-2392.1 was referenced verbally; primary donation record not displayed on screen.
+- **Name uncertainty – Nelda Buckman:** Possibly existing node; verification recommended. Not created as new since this name may already exist in N-1 to N-226 range.
+- **Artifact verbally referenced but not shown – Nelda Buckman / Buckman Center donation:** A-2392.1 was referenced verbally; primary donation record not displayed on screen.
 - **Possible transcription error – 60–90 day Utah bodycam retention figure:** Host states this as Utah law; the cited law should be verified against Utah Code.
 - **Timestamp uncertainty:** Filing date of the notice of claim not explicitly given on air (described only as occurring "a year on" and "this morning"); extraction date 2026-09-16 is inferred.
 - **Claim C-3485 / C-3486 (UVU student count and officer count):** Host presented these as factual but the artifacts do not directly anchor the specific numbers; included as claims with weaker artifact anchoring (A-2384.1 referenced indirectly).

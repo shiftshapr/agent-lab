@@ -296,7 +296,7 @@
           ],
           "tags": [],
           "video_timestamp": "00:20:33–00:20:55",
-          "transcript_snippet": "A 50-year-old firefighter named Corey Comparator lost his life um trying to save his children.",
+          "transcript_snippet": "A 50-year-old firefighter named Corey Comperatore lost his life um trying to save his children.",
           "confidence": "medium"
         },
         {
@@ -330,6 +330,186 @@
           "video_timestamp": "00:44:43–00:44:59",
           "transcript_snippet": "Is it not weird that within minutes the FBI posted pics of the ammo",
           "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3272",
+      "family_ref": "A-3272",
+      "bundle_name": "Charlie Kirk Moral Blackmail Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3272.1",
+          "ref": "A-3272.1",
+          "description": "Host verbal reference to the previous episode's clip of Charlie Kirk discussing their friendship and feeling morally blackmailed over it, including his remark that he was there when she met her husband (not replayed in this episode)",
+          "related_claims": [
+            "C-13669",
+            "C-13670"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1",
+            "N-10106"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3273",
+      "family_ref": "A-3273",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3273.1",
+          "ref": "A-3273.1",
+          "description": "Host verbal reference to the show's tips email address, asked of viewer Natalie to send the video to her tips inbox",
+          "related_claims": [
+            "C-13726"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-115"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:54",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3274",
+      "family_ref": "A-3274",
+      "bundle_name": "Viewer Comments Read On Air Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3274.1",
+          "ref": "A-3274.1",
+          "description": "Comment read on air by viewer Warwick Spiller correcting the name of the Mormon church to the Church of Jesus Christ of Latter-day Saints",
+          "related_claims": [
+            "C-13722"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-10114"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:41:52",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3274.2",
+          "ref": "A-3274.2",
+          "description": "Comment read on air from viewer Lighthouse saying some feel Erika is faking her emotions (read aloud; not shown)",
+          "related_claims": [
+            "C-13723"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:42:18",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3274.3",
+          "ref": "A-3274.3",
+          "description": "Follow-up comment from Warwick Spiller read on air that the beehive represents a group working together for Christ",
+          "related_claims": [
+            "C-13724"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-10114"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3275",
+      "family_ref": "A-3275",
+      "bundle_name": "Sponsor Reads Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3275.1",
+          "ref": "A-3275.1",
+          "description": "Host verbal sponsor read for the Wellness Company contagion emergency kit and flu-shot claims (not shown)",
+          "related_claims": [
+            "C-13702",
+            "C-13703",
+            "C-13704"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-11369"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:28:47",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3275.2",
+          "ref": "A-3275.2",
+          "description": "Host verbal sponsor read for Home Title Lock (not shown)",
+          "related_claims": [
+            "C-13715",
+            "C-13716"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-11370"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3275.3",
+          "ref": "A-3275.3",
+          "description": "Host verbal sponsor read for a home-equity mortgage lender (lender not named in the transcript)",
+          "related_claims": [
+            "C-13717"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:03",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
         }
       ]
     }
@@ -707,9 +887,9 @@
         "A-1155.2"
       ],
       "related_claims": [
+        "C-1267",
         "C-1268",
-        "C-1269",
-        "C-1267"
+        "C-1269"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1000,8 +1180,8 @@
         "A-1156.3"
       ],
       "related_claims": [
-        "C-1272",
-        "C-1270"
+        "C-1270",
+        "C-1272"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1183,6 +1363,183 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "place_kind": "country"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "The host recaps Ackman putting up a million dollars in the sequence leading to Robinson's surrender.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13665"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization Charlie Kirk wanted to take global; the UK trip helped Turning Point UK get set up.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13672"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "FBI; the host's source says it is pressuring Utah to close the Kirk case, and she says the feds are obscuring.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13660",
+        "C-13666",
+        "C-13700",
+        "C-13715"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10021",
+      "ref": "N-10021",
+      "name": "Robinson Confession and Arrest Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13664",
+        "C-13665"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10022",
+      "ref": "N-10022",
+      "name": "Robinson Father Turn-In Narrative",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13665"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10065",
+      "ref": "N-10065",
+      "name": "Caldera Engineering",
+      "type": "investigation_target",
+      "description": "Existing organization reused; the host says the only video released is the Caldera Engineering video (transcribed as Calderira).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13727"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10106",
+      "ref": "N-10106",
+      "name": "Moral Blackmail by Donors",
+      "type": "investigation_target",
+      "description": "Existing topic reused; the host recalls Charlie's clip about being morally blackmailed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13669"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10588",
+      "ref": "N-10588",
+      "name": "Butler PA Investigation Closure Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused; the host says the public was told Iran was behind the Butler attempt.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13691"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11369",
+      "ref": "N-11369",
+      "name": "The Wellness Company",
+      "type": "organization",
+      "description": "Sponsor whose contagion emergency kit and flu-shot claims the host reads on air.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13702",
+        "C-13703",
+        "C-13704"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11370",
+      "ref": "N-11370",
+      "name": "Home Title Lock",
+      "type": "organization",
+      "description": "Sponsor whose title-monitoring service the host reads on air alongside an FBI title-theft warning.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13715",
+        "C-13716"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1611,7 +1968,7 @@
       "@id": "C-3728",
       "ref": "C-3728",
       "label": "Corey Comperatore killed at the Butler rally",
-      "claim": "Recounting the July 2024 Butler rally shooting, the host says firefighter Corey Comperatore (transcript: \"Corey Comparator\") lost his life trying to save his children and that the public was told virtually nothing afterward.",
+      "claim": "Recounting the July 2024 Butler rally shooting, the host says firefighter Corey Comperatore (transcript: \"Corey Comperatore\") lost his life trying to save his children and that the public was told virtually nothing afterward.",
       "anchored_artifacts": [
         "A-2519.1"
       ],
@@ -1619,7 +1976,7 @@
       "tags": [],
       "claim_timestamp": "00:20:44",
       "investigative_direction": "Compare official Butler investigation disclosures with the host's characterization.",
-      "transcript_snippet": "A 50-year-old firefighter named Corey Comparator lost his life um trying to save his children.",
+      "transcript_snippet": "A 50-year-old firefighter named Corey Comperatore lost his life um trying to save his children.",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-5",
@@ -1663,6 +2020,1632 @@
       "mentions_person_refs": [
         "N-1"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13659",
+      "ref": "C-13659",
+      "label": "Host Says Overwhelming Sense of Doom Came 10 Days Before the Assassination",
+      "claim": "The host says she felt an overwhelming sense of doom about 10 days before Charlie Kirk's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10113"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:19",
+      "investigative_direction": "Compare against the host's dated text messages (A-1155.2) and her show schedule for late August 2025; this is a first-person account that can only be tested against the dated messages.",
+      "transcript_snippet": "I want to open up to you guys about this overwhelming sense of doom that came over me about 10 days prior to Charlie Kirk's assassination.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13660",
+      "ref": "C-13660",
+      "label": "Host Says FBI Warns Utah That Not Closing the Case Could Harm the Robinson Prosecution",
+      "claim": "The host says her source reports the FBI is telling Utah authorities that if the case is not closed as a lone gunman it might mess up the prosecution of Tyler Robinson, and she calls that moral blackmail.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014",
+        "N-10109"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:39",
+      "investigative_direction": "Identify the host's source and request FBI and Utah County Attorney communications about case closure (GRAMA or FOIA) to confirm or refute the stated rationale.",
+      "transcript_snippet": "then it might mess up our prosecution against Tyler Robinson. That feels a little bit to me like moral blackmail.",
+      "supports_claim_refs": [
+        "C-1279"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13661",
+      "ref": "C-13661",
+      "label": "Host Says the Roof Video Filmer Does Not Think Robinson Is the Shooter",
+      "claim": "The host says the person who filmed the lone video of the shooter on the roof told her he does not think Tyler Robinson is the guy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:28",
+      "investigative_direction": "Identify and interview the roof-video filmer (the host has not named him); compare his account with the FBI's description of the suspect.",
+      "transcript_snippet": "the lone video that exists of the shooter on the roof, also told me that he doesn't think that Tyler Robinson is the guy.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13662",
+      "ref": "C-13662",
+      "label": "Host Says the Eyewitness Has Gun Experience and Teaches Firing",
+      "claim": "The host says the eyewitness who filmed the roof figure definitively has experience with guns and teaches people how to fire them, and that he would testify the gun and person do not match.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10121",
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:11",
+      "investigative_direction": "Verify the witness's firearms background through the host's source; the FBI's 302 or trial witness list would show whether he is slated to testify.",
+      "transcript_snippet": "And like I said, this individual definitively has experience with guns. Uh he teaches people how to fire guns.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13663",
+      "ref": "C-13663",
+      "label": "Host Says the Indictment Has Robinson Dropping Onto the Roof at 12:15 PM",
+      "claim": "The host says the indictment states that Tyler Robinson dropped onto the roof at 12:15 p.m.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:57",
+      "investigative_direction": "Read the Utah charging documents and probable-cause statement for the stated roof-drop time and its source.",
+      "transcript_snippet": "in the indictment, he dropped onto the roof at 12:15 p. m. Tyler Robinson just dropped onto the roof.",
+      "supports_claim_refs": [
+        "C-1147"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13664",
+      "ref": "C-13664",
+      "label": "Host Says Robinson Has Not Confessed",
+      "claim": "The host says Tyler Robinson himself has not confessed to anything.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10021"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:42",
+      "investigative_direction": "Check the court docket and defense filings for any statement or confession attributed to Robinson.",
+      "transcript_snippet": "And let us not forget that Tyler himself has not confessed to anything.",
+      "supports_claim_refs": [
+        "C-1142"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13665",
+      "ref": "C-13665",
+      "label": "Host Recaps Ackman Million-Dollar Reward and Father-and-Sheriff Turn-In",
+      "claim": "The host recounts the public sequence that Bill Ackman put up a million dollars, Tyler's father had a sheriff friend come over, and the police then brought Tyler in.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10022",
+        "N-10021"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:49",
+      "investigative_direction": "Obtain the reward announcement, the sheriff's and Governor's timeline of the surrender, and the charging documents to compare with the host's recap.",
+      "transcript_snippet": "Bill Ackman puts up a million dollars. Tyler's dad gets the sheriff friend to come over and they say he did it and they the police come and they bring him in.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-37",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13666",
+      "ref": "C-13666",
+      "label": "Host Says the Feds Know What Happened and May Have Had Foreknowledge",
+      "claim": "The host says she believes the feds know exactly what happened and that it is not a stretch, given history, to assume they may even have had foreign knowledge beforehand.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014",
+        "N-10109"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:40",
+      "investigative_direction": "Treat as the host's inference; any support would have to come from FBI records or sourced documents showing advance warning, which the host does not cite.",
+      "transcript_snippet": "And I believe the feds know exactly what happened. In fact, I don't think it's a stretch of imagination when we examine history to assume that they maybe even had some foreign knowledge.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13667",
+      "ref": "C-13667",
+      "label": "Host Says Prosecutors Have Nothing but Prints and Not Only Robinson's",
+      "claim": "The host says the feds have really nothing but prints, that from her sources Robinson's is not the only set of prints on the gun, and that Robinson may get off.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:53",
+      "investigative_direction": "Obtain the forensic print report in discovery or court filings and the count of unidentified latent prints.",
+      "transcript_snippet": "Feds. Kind of feeling like Tyler's going to get off because they've got really nothing but prints.",
+      "supports_claim_refs": [
+        "C-1283"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13668",
+      "ref": "C-13668",
+      "label": "Host Relays Ground-Level Belief That Robinson Only Dropped Off the Gun at a Neighboring House",
+      "claim": "The host says the only account that made sense to her came from people on the ground, not the feds or Utah government, who believe Tyler was told to walk and drop off his gun at a neighboring house.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:09",
+      "investigative_direction": "Identify the unnamed ground-level sources; canvass the neighborhood and check the Cox statements and charging documents on where the rifle was left.",
+      "transcript_snippet": "uh it's not come from the feds, not come from the Utah government, but rather from the people that are on the ground who believe that actually Tyler was just told to walk and drop off his gun at a neighboring house.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13669",
+      "ref": "C-13669",
+      "label": "Host Says Yesterday's Clip Had Charlie Describing Being Morally Blackmailed Over Their Friendship",
+      "claim": "The host says that in a clip shown the previous day Charlie discussed their friendship and how he was feeling morally blackmailed over it.",
+      "anchored_artifacts": [
+        "A-3272.1"
+      ],
+      "related_nodes": [
+        "N-10106"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:40",
+      "investigative_direction": "Locate the clip aired in the previous episode and its original source and date; ask who pressured Kirk over the friendship.",
+      "transcript_snippet": "We had showed you a clip of Charlie discussing our friendship friendship and how he was feeling morally blackmailed over it.",
+      "supports_claim_refs": [
+        "C-1258"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13670",
+      "ref": "C-13670",
+      "label": "Host Says Charlie Was There When She Met Her Husband",
+      "claim": "The host says that in the same clip Charlie mentions the fond memory that he was there when she met her husband.",
+      "anchored_artifacts": [
+        "A-3272.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:08:46",
+      "investigative_direction": "Personal biography; the clip itself is the only check.",
+      "transcript_snippet": "And in that same clip, he mentions a very fond memory that I have that he was there when I met my husband.",
+      "supports_claim_refs": [
+        "C-1268"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13671",
+      "ref": "C-13671",
+      "label": "Host Says She Used Charlie's Credit Card to Book the UK Flights",
+      "claim": "The host says she took Charlie Kirk's credit card and booked flights to the UK, something she had never done.",
+      "anchored_artifacts": [
+        "A-1155.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:09:50",
+      "investigative_direction": "The booking confirmation and card statement for the UK flights would show who paid and when.",
+      "transcript_snippet": "I took Charlie Charlie Kirk's credit card and I was like, I'm going to find flights and just book it.",
+      "supports_claim_refs": [
+        "C-1267"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13672",
+      "ref": "C-13672",
+      "label": "Host Says the UK Trip Included a Speaking Event Helping Turning Point UK Get Set Up",
+      "claim": "The host says Charlie set up a speaking event with interested people and that she and Charlie were in the UK to help Turning Point UK get set up, part of his vision for Turning Point to be global.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:48",
+      "investigative_direction": "Find event listings or coverage of the Turning Point UK launch event and its date.",
+      "transcript_snippet": "And then Charlie set up a speaking event with some people that had been interested and sure enough uh uh we were there to help Turning Point UK get set up.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13673",
+      "ref": "C-13673",
+      "label": "Host Says the Show Went Off Air for the First Days of September",
+      "claim": "The host says the show was taken off air for the first couple of days in September, and later ties that to the dread she was feeling.",
+      "anchored_artifacts": [
+        "A-1155.2"
+      ],
+      "related_nodes": [
+        "N-10113"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:05",
+      "investigative_direction": "Check the channel's upload record for the gap in late August and early September 2025.",
+      "transcript_snippet": "you guys who watch this podcast might have realized something that we took the show off air randomly for the first couple of days in September.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13674",
+      "ref": "C-13674",
+      "label": "Host Says an Elementary School Shooting at a Catholic School Prompted Her Alarm About Schools",
+      "claim": "The host says a shooting at an elementary Catholic school affected her unusually and left her feeling that something was not right and that there was some infiltration happening at schools.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10113"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:16",
+      "investigative_direction": "Identify which shooting the host means (the host does not name it) and compare dates against her August 2025 messages.",
+      "transcript_snippet": "there at first was a elementary school shooting that happened at a Catholic school and I was just concerned in a way that it had I had never felt so impacted",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13675",
+      "ref": "C-13675",
+      "label": "Host Says Online Messages Near the Child's School Contained a Polish Communist Underground Symbol",
+      "claim": "The host says a cursory online search turned up messages, written by someone adjacent to teachers at the school, containing a Polish communist underground symbol that few would recognize.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10127",
+        "N-10113"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:12:05",
+      "investigative_direction": "The host says she will show these messages; ask her to publish the screenshots so the symbol and the author's connection to the school can be checked.",
+      "transcript_snippet": "explicitly what it was was a Polish underground symbol, like a Polish communist underground symbol that nobody would have recognized",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13676",
+      "ref": "C-13676",
+      "label": "Host Says She Found People Online Talking in Coded Terms About Bees",
+      "claim": "The host says she came across what looked like a bunch of people talking about bees in a coded way and wondered why it seemed related to students.",
+      "anchored_artifacts": [
+        "A-1155.2"
+      ],
+      "related_nodes": [
+        "N-10113"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:12:18",
+      "investigative_direction": "Obtain the posts the host says she will show and identify the accounts and platform.",
+      "transcript_snippet": "I came across what looked to me like a bunch of people talking about bees.",
+      "supports_claim_refs": [
+        "C-1269"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13677",
+      "ref": "C-13677",
+      "label": "Host Says She Hired More Security the Week of Aug 30",
+      "claim": "The host says that after her warning to her husband she hired more security that very week.",
+      "anchored_artifacts": [
+        "A-1155.2"
+      ],
+      "related_nodes": [
+        "N-10113"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:19",
+      "investigative_direction": "The security contractor's engagement date would confirm timing; the host's own records are the only source.",
+      "transcript_snippet": "Oh, and we need to hire more security. And we did. We hired more security that very week.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13678",
+      "ref": "C-13678",
+      "label": "Host Says She Decided to Homeschool Immediately Before the Assassination",
+      "claim": "The host says that, frantic, she and her husband decided to homeschool immediately and started the process, before September 10.",
+      "anchored_artifacts": [
+        "A-1155.2"
+      ],
+      "related_nodes": [
+        "N-10113"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:23",
+      "investigative_direction": "Compare against her later statement (episode 8) that a trial homeschool curriculum starts the following week; only the host can document the decision date.",
+      "transcript_snippet": "we made the decision that we needed to homeschool immediately and started the process",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13679",
+      "ref": "C-13679",
+      "label": "Host Says a School Told Her She Did Not Get to Ask How It Hires People",
+      "claim": "In the book-club recording the host says that when she asked a school how it hires people she was told she did not get to ask those questions.",
+      "anchored_artifacts": [
+        "A-1160.1"
+      ],
+      "related_nodes": [
+        "N-10113"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:08",
+      "investigative_direction": "The school is unnamed; the host would have to identify it and produce the correspondence.",
+      "transcript_snippet": "ask questions like, \"How do you hire people?\" And they were like, \"You don't get to ask those questions.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13680",
+      "ref": "C-13680",
+      "label": "Host Says She Sensed Instantly That a Hive of People Was Involved",
+      "claim": "The host says that days after the assassination she was told, and sensed instantly, that a hive of people was involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10112"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:38",
+      "investigative_direction": "Treat as the host's intuition; identify what, if anything, she was told and by whom.",
+      "transcript_snippet": "I was told and I I sensed instantly that there was like a hive of people that were involved in this.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13681",
+      "ref": "C-13681",
+      "label": "Host Says Utah Modernized Its Hexagonal Beehive Flag in 2024",
+      "claim": "The host says the Utah state flag is a hexagonal beehive, that Utah modernized the flag in 2024, and that it has always been known as the Beehive State.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10114",
+        "N-10125"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:20",
+      "investigative_direction": "Check the Utah legislature and state records for the adopted flag design and its adoption date.",
+      "transcript_snippet": "So in 2024 they modernized their flag but they've always been known as the beehive state.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13682",
+      "ref": "C-13682",
+      "label": "Host Says Utah Ranks 24th in Honey and Bee Products",
+      "claim": "The host says Utah's nickname is not because of honey, since in honey or bee-related products it ranks number 24.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10114",
+        "N-10125"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:17:32",
+      "investigative_direction": "Check USDA NASS honey production rankings for Utah.",
+      "transcript_snippet": "In fact, in terms of making honey or bee related products, they rank number 24.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13683",
+      "ref": "C-13683",
+      "label": "Host Says the Beehive Emblem Comes From Early Mormon Pioneers",
+      "claim": "The host says the Beehive State name relates to the church and its early pioneers, who liked the idea of a beehive working toward a common good.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10114",
+        "N-10125"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:17:43",
+      "investigative_direction": "Consult Utah State Historical Society records on the beehive symbol's origin.",
+      "transcript_snippet": "Early Mormon pioneers founded that state and they liked the idea of a beehive working toward a common good.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13684",
+      "ref": "C-13684",
+      "label": "Host Says the Worker-Bee Idea Is a Soviet Symbol Tied to Her Dread",
+      "claim": "The host says her dread about an underground tied to schools made her connect the worker-bee idea to a Soviet symbol of making everybody a worker bee.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10114",
+        "N-10115"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:18:00",
+      "investigative_direction": "No sourcing offered; this is the host's symbolic reading and no document is cited.",
+      "transcript_snippet": "It's this it's a Soviet symbol like the idea of making everybody into a worker be",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13685",
+      "ref": "C-13685",
+      "label": "Host Says the Public School System Is Shaped by Soviet Ideology",
+      "claim": "The host says the public school system is shaped by Soviet ideology.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10115"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:18:11",
+      "investigative_direction": "Historians of American education would be the check; the host cites only the Sowell book.",
+      "transcript_snippet": "you should understand where the public school system comes from. Okay, it is shaped by Soviet ideology.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13686",
+      "ref": "C-13686",
+      "label": "Host Recommends Thomas Sowell's Book on the American Education System",
+      "claim": "The host recommends a book by Thomas Sowell (transcribed as Thomas Sowell) on how the American education system came together and says it is neither left nor right.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10115"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:18:16",
+      "investigative_direction": "Confirm the title and author (Inside American Education by Thomas Sowell) and check what it says about Soviet influence, which the host links to it.",
+      "transcript_snippet": "I tell people a must-read book is inside the American education system by Thomas Sowell.",
+      "supports_claim_refs": [
+        "C-1277"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-111"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13687",
+      "ref": "C-13687",
+      "label": "Host Says Kindergarten Was Established by Failed 1848 German Revolutionaries",
+      "claim": "The host says kindergarten was established by communists who tried to overthrow Germany and failed in 1848, and that Margarethe Schurz's family brought it here.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10115",
+        "N-10128"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:18:51",
+      "investigative_direction": "Check histories of the kindergarten movement (Froebel and the Schurz family) and the 1848 German revolutions.",
+      "transcript_snippet": "it was it was established by the communists that tried to overthrow Germany and failed in 1848.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-112"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13688",
+      "ref": "C-13688",
+      "label": "Host Says the Same Reformers Pushed to Federalize Education and Discourage Homeschooling",
+      "claim": "The host says the same people fought to federalize the education system and pushed to make homeschooling not a thing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10115"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:19:04",
+      "investigative_direction": "Review the history of compulsory-schooling laws and the federal role in education.",
+      "transcript_snippet": "They then fought to make sure that we federalized the education system. These are the same people that pushed to make it so that homeschooling is not a thing,",
+      "mentions_person_refs": [
+        "N-3",
+        "N-112"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13689",
+      "ref": "C-13689",
+      "label": "Host Says Lone Shooters Are Being Programmed and Protected by the Government",
+      "claim": "The host says she feels spiritually that these lone shooters are being programmed and that is perhaps why they are more often than not protected by the government.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10112",
+        "N-10116"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:56",
+      "investigative_direction": "Host's speculation; any support would need records showing federal handling of the shooters she names.",
+      "transcript_snippet": "I just feel it spiritually that these people are being programmed and perhaps that is the reason why more often than not they are being protected by our government.",
+      "supports_claim_refs": [
+        "C-1285"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13690",
+      "ref": "C-13690",
+      "label": "Host Says the Public Was Told Shooters Work Alone With No Online History",
+      "claim": "The host says the public is told these shooters always work alone and that there is no online history to reflect on.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10112"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:18",
+      "investigative_direction": "Compare official FBI statements on Crooks's digital footprint with the scraped material the host describes.",
+      "transcript_snippet": "And that guy, they're always working alone. There's no online history that we can reflect on.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-105"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13691",
+      "ref": "C-13691",
+      "label": "Host Says the Public Was Told Iran Was Behind the Trump Assassination Attempt",
+      "claim": "The host says that after the July 2024 attempt the public was told Iran did it, because officials were itching for war with Iran.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10588"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:55",
+      "investigative_direction": "Check what US officials actually said in July 2024 about Iranian threats against Trump versus the Crooks investigation findings.",
+      "transcript_snippet": "We were told Iran did this. What? Because they were all itching for war with Iran.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5",
+        "N-105"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13692",
+      "ref": "C-13692",
+      "label": "Host Says It Is Not a Lone Shooter in the Kirk Case but a Hive",
+      "claim": "The host says she has been leading the way investigating the lone-shooter claim about Charlie Kirk because it is not a lone shooter, and that she feels spiritually it is a hive.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10112"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:12",
+      "investigative_direction": "Evidence of more than one participant would be found in the investigative record; the host cites none here.",
+      "transcript_snippet": "I have been obviously leading the forefront in investigating these this lone shooter as it pertains to Charlie Kirk because it's not a lone shooter.",
+      "supports_claim_refs": [
+        "C-13680"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13693",
+      "ref": "C-13693",
+      "label": "Host Says a Source Scraped Everything on Crooks Before the Feds Removed It",
+      "claim": "The host says someone contacted her saying they had been able to scrape everything about Thomas Crooks before the feds got rid of everything.",
+      "anchored_artifacts": [
+        "A-1156.1"
+      ],
+      "related_nodes": [
+        "N-10111"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:25",
+      "investigative_direction": "Obtain the scrape with hashes and timestamps and compare it with archived copies of the accounts.",
+      "transcript_snippet": "they said look actually I had been able to scrape everything about Thomas Crooks before uh the feds uh got rid of everything.",
+      "supports_claim_refs": [
+        "C-1270"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-105"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13694",
+      "ref": "C-13694",
+      "label": "Host Says Crooks Must Have Been on the Federal Radar",
+      "claim": "The host says it is shocking and that there is no way Crooks was not on the federal radar.",
+      "anchored_artifacts": [
+        "A-1156.1"
+      ],
+      "related_nodes": [
+        "N-10111"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:35",
+      "investigative_direction": "FBI or Secret Service referral records and platform reports on Crooks's accounts would show whether he came to federal attention before July 13, 2024.",
+      "transcript_snippet": "And it's shocking what you look there is no way this person was not on the federal radar.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-105"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13695",
+      "ref": "C-13695",
+      "label": "Host Says Crooks Was on Both the Left and the Right and Traded Sides",
+      "claim": "The host says Crooks was at times on the left and on the right and actually traded sides, starting as a Trump supporter.",
+      "anchored_artifacts": [
+        "A-1156.1"
+      ],
+      "related_nodes": [
+        "N-10120"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:22:07",
+      "investigative_direction": "The account histories in the host's 80-page document would show the progression and dates.",
+      "transcript_snippet": "He was at both both on the left and on the right. He actually traded sides.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-105"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13696",
+      "ref": "C-13696",
+      "label": "Host Says Crooks Radically Changed Toward Trump Around 2020",
+      "claim": "The host says that after being a Trump supporter Crooks went through a radical transformation around 2020.",
+      "anchored_artifacts": [
+        "A-1156.3"
+      ],
+      "related_nodes": [
+        "N-10120"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:15",
+      "investigative_direction": "Date-stamp his YouTube comments in the scraped document to verify the 2020 turn.",
+      "transcript_snippet": "Then he does a radical transformation around 2020.",
+      "supports_claim_refs": [
+        "C-13695"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-105",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13697",
+      "ref": "C-13697",
+      "label": "Host Says Crooks's Turn Tied to Covid and Viewers Reported His Posts on YouTube",
+      "claim": "The host says Crooks's change had something to do with Covid, that he got very angry at Trump, and that people were reporting his posts on YouTube as insane.",
+      "anchored_artifacts": [
+        "A-1156.3"
+      ],
+      "related_nodes": [
+        "N-10120"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:20",
+      "investigative_direction": "Look for user reports or platform moderation records; the host offers only her recounting of the comments.",
+      "transcript_snippet": "Um, and this had something to do with co he got very angry at Trump and he was outwardly um saying things where people were reporting them on YouTube",
+      "supports_claim_refs": [
+        "C-13696"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-105",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13698",
+      "ref": "C-13698",
+      "label": "Host Says the Public Will Never Be Told Which Therapists Crooks Saw",
+      "claim": "The host says the public is never going to be told what therapists Crooks was seeing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10111"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:54",
+      "investigative_direction": "Medical-record privacy applies; congressional or FBI summaries may state whether treatment records were reviewed.",
+      "transcript_snippet": "And again, the other element of this is we're never going to be told what therapists he was seeing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-105"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13699",
+      "ref": "C-13699",
+      "label": "Host Says Crooks Documented Wanting to Harm Politicians Across Left and Right for Years",
+      "claim": "The host says Crooks documented for years that he wanted to harm politicians and people on both the left and the right.",
+      "anchored_artifacts": [
+        "A-1156.3"
+      ],
+      "related_nodes": [
+        "N-10111",
+        "N-10120"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:26:15",
+      "investigative_direction": "Check the scraped history for dated posts naming targets across the spectrum.",
+      "transcript_snippet": "Even though for years he was documenting wanting to harm politicians and people that were on the left and people that were on the right.",
+      "supports_claim_refs": [
+        "C-1272"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-105"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13700",
+      "ref": "C-13700",
+      "label": "Host Says the Feds Are Using Journalists, Pressuring Officials and Lying About the Kirk Case",
+      "claim": "The host says that, as with JFK, the feds are obscuring, using journalists to obscure, pressuring government officials and lying to the public, this time about Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014",
+        "N-10109"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:22",
+      "investigative_direction": "Name the journalists and the officials alleged to be pressured; request the relevant FBI communications.",
+      "transcript_snippet": "They are using journalists to obscure. They are putting pressure on government officials. They are lying to the public about everything except this time it's regarding Charlie Kirk.",
+      "supports_claim_refs": [
+        "C-1279"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13701",
+      "ref": "C-13701",
+      "label": "Host Says She Met the Riverbend Ranch Owner With Charlie Years Ago",
+      "claim": "The host says she met the owner of Riverbend Ranch (transcribed as Urban Ranch) with Charlie years ago and now reads ads for the company.",
+      "anchored_artifacts": [
+        "A-1159.1"
+      ],
+      "related_nodes": [
+        "N-10124"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:28:35",
+      "investigative_direction": "Sponsor relationship; confirm through the company if needed.",
+      "transcript_snippet": "another Charlie memory there for you. And now things years later, and I'm reading ads for them on the show.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13702",
+      "ref": "C-13702",
+      "label": "Host Sponsor Read: Flu Shot Uptake at a Record Low",
+      "claim": "In a sponsor read the host says the number of people getting the flu shot is at a record low after the past five years.",
+      "anchored_artifacts": [
+        "A-3275.1"
+      ],
+      "related_nodes": [
+        "N-11369"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:28:50",
+      "investigative_direction": "Check CDC flu vaccination coverage estimates by season.",
+      "transcript_snippet": "After everything we've been through over the past 5 years, the number of people that are getting the flu shot is at a record low.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13703",
+      "ref": "C-13703",
+      "label": "Host Sponsor Read: CDC Data Shows the Flu Shot Is Moderately Effective at Best",
+      "claim": "In the same sponsor read the host says the CDC's own data shows the flu shot is moderately effective at best.",
+      "anchored_artifacts": [
+        "A-3275.1"
+      ],
+      "related_nodes": [
+        "N-11369"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:28:56",
+      "investigative_direction": "Check CDC vaccine effectiveness estimates by season.",
+      "transcript_snippet": "Not to mention the fact that according to the CDC's own data, the flu shot is moderately effective at best.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13704",
+      "ref": "C-13704",
+      "label": "Host Sponsor Read: Wellness Company Kit Contains Ivermectin, Hydroxychloroquine and a Z-Pack",
+      "claim": "In the sponsor read the host says the Wellness Company contagion emergency kit contains doctor-prescribed ivermectin, hydroxychloroquine and a generic Z-pack, and that she owns one.",
+      "anchored_artifacts": [
+        "A-3275.1"
+      ],
+      "related_nodes": [
+        "N-11369"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:29:08",
+      "investigative_direction": "Check the product listing and prescribing arrangement on the company's site; the host gets a sponsor fee.",
+      "transcript_snippet": "you can address your symptoms immediately with doctor prescribed kit containing ivermectin, hydroxychloroquine, hydroxychloroqu hydroxychloroquin,",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13705",
+      "ref": "C-13705",
+      "label": "Host Says Kimmel Is Back on Air and Some on the Right Cheered His Cancellation",
+      "claim": "The host says Jimmy Kimmel is back on air after a timeout and that she was shocked to see people on the right cheering on his cancellation.",
+      "anchored_artifacts": [
+        "A-1158.1"
+      ],
+      "related_nodes": [
+        "N-10119"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:12",
+      "investigative_direction": "Check ABC's announcement of the suspension and return dates.",
+      "transcript_snippet": "I was very shocked uh to see people uh on the right who were kind of cheering on his cancellation.",
+      "supports_claim_refs": [
+        "C-1275"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-87"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13706",
+      "ref": "C-13706",
+      "label": "Clip: Cruz Says Government Banning Speech Would End Badly for Conservatives",
+      "claim": "In the clip within Kimmel's monologue, Ted Cruz is quoted saying that if the government starts banning media from the airwaves for what they say, it will end up bad for conservatives.",
+      "anchored_artifacts": [
+        "A-1158.1"
+      ],
+      "related_nodes": [
+        "N-10119"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:33",
+      "investigative_direction": "Compare against Cruz's actual remarks on his podcast; the speaker boundary in the clip is not marked on air.",
+      "transcript_snippet": "\"We're going to ban you from the airwaves if you don't say what we like.\" That will end up bad for conservatives.",
+      "mentions_person_refs": [
+        "N-87",
+        "N-107"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13707",
+      "ref": "C-13707",
+      "label": "Host Says the Rulers Know Who They Worship and Worship Luciferianism",
+      "claim": "The host says the people who rule over us know who they worship and that they worship Luciferianism.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10117"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:33:29",
+      "investigative_direction": "Sweeping group claim with no named people or documents; nothing to verify.",
+      "transcript_snippet": "But these people who rule over us, okay, they know who they worship. They know they worship Luciferianism.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13708",
+      "ref": "C-13708",
+      "label": "Host Says She Wished Charlie Had Reached Out to Her About the Curse",
+      "claim": "The host says she honestly wished Charlie had reached out to her about the hex, though the Kirks ended up consulting a Catholic priest.",
+      "anchored_artifacts": [
+        "A-1157.1"
+      ],
+      "related_nodes": [
+        "N-10117"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:33:35",
+      "investigative_direction": "Only the host and the Kirks can say whether contact was attempted; no document cited.",
+      "transcript_snippet": "And I honestly had wished that Charlie had reached out to me.",
+      "supports_claim_refs": [
+        "C-1274"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13709",
+      "ref": "C-13709",
+      "label": "Megyn Kelly Segment Quotes Jezebel Promising to Be the Hag of Charlie's Nightmares",
+      "claim": "In the Megyn Kelly segment, Kelly quotes Jezebel as declaring that it is more than happy to be the hag of Charlie's nightmares and then going to Etsy to cast a curse on him.",
+      "anchored_artifacts": [
+        "A-1157.1"
+      ],
+      "related_nodes": [
+        "N-10122",
+        "N-10123",
+        "N-10117"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:20",
+      "investigative_direction": "Retrieve the Jezebel post and any linked Etsy listing from August 2025 and check the date against two weeks before September 10.",
+      "transcript_snippet": "Jezebel is more than happy to be the hag of his nightmares.\" And they went on to the website Etsy.",
+      "supports_claim_refs": [
+        "C-1274"
+      ],
+      "mentions_person_refs": [
+        "N-46",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13710",
+      "ref": "C-13710",
+      "label": "Kelly Says Charlie and Erika Asked a Friend to Come Pray Over Charlie the Night Before",
+      "claim": "In the Megyn Kelly segment, Kelly says Charlie and Erika Kirk contacted a friend, whom she believed to be a Catholic priest, and asked him to come over and pray with them over Charlie the night before he was murdered.",
+      "anchored_artifacts": [
+        "A-1157.1"
+      ],
+      "related_nodes": [
+        "N-10117"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:02",
+      "investigative_direction": "Ask the Kirk family or the priest, and compare against the Sept 9 evening timeline in other episodes.",
+      "transcript_snippet": "but definitely a friend, and asked him to come over and pray with them over Charlie the night before he was murdered.",
+      "supports_claim_refs": [
+        "C-1274"
+      ],
+      "mentions_person_refs": [
+        "N-46",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13711",
+      "ref": "C-13711",
+      "label": "Kelly Says Erika Told Her Weapons Will Form but Not Prosper",
+      "claim": "In the Megyn Kelly segment, Kelly says Erika later told her that weapons will form but not prosper and that Satan and those witches have no power.",
+      "anchored_artifacts": [
+        "A-1157.1"
+      ],
+      "related_nodes": [
+        "N-10117"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:15",
+      "investigative_direction": "Kelly's own account of her conversation with Erika; compare with Erika's public statements.",
+      "transcript_snippet": "weapons will form but not prosper. that Satan and those witches have no power.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13712",
+      "ref": "C-13712",
+      "label": "Segment Says the Jezebel Writer Said She Only Wanted Him to Wake Up With an Inexplicable Zit",
+      "claim": "In the segment the Jezebel writer is quoted as saying she is not calling on dark forces to cause harm and just wants him to wake up every morning with an inexplicable zit.",
+      "anchored_artifacts": [
+        "A-1157.1"
+      ],
+      "related_nodes": [
+        "N-10122",
+        "N-10117"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:35:57",
+      "investigative_direction": "Retrieve the Jezebel article text to verify the quoted line.",
+      "transcript_snippet": "I'm not calling on dark forces to cause him harm. I just want him to wake up every morning with an inexplicable zit.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13713",
+      "ref": "C-13713",
+      "label": "Host Says It Is Known That More Than One Person Was Behind Kirk's Assassination",
+      "claim": "The host says that although the person behind it is unknown, we know it was more than one person.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10112"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:37:40",
+      "investigative_direction": "Ask the host what record establishes more than one participant; compare with Kash Patel's remarks and the charging documents.",
+      "transcript_snippet": "even though we don't know who exactly was behind this. We know it was more than one person.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13714",
+      "ref": "C-13714",
+      "label": "Host Says Rereading The Assault on Truth Reminds Her of the Lies About Charlie Kirk",
+      "claim": "The host says that rereading the book club's current book, The Assault on Truth, reminds her of what is happening with Charlie Kirk and how the public is lied to.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:22",
+      "investigative_direction": "Opinion framed around a book; no document or person to check.",
+      "transcript_snippet": "you know, rereading this book is reminding me of what is happening with Charlie Kirk and how we're being lied to about everything and how evil the people are that are doing the lying.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13715",
+      "ref": "C-13715",
+      "label": "Host Sponsor Read: FBI Warns of Rising Title Theft",
+      "claim": "In a sponsor read the host says the FBI has been warning homeowners about title theft, a rising type of real estate fraud.",
+      "anchored_artifacts": [
+        "A-3275.2"
+      ],
+      "related_nodes": [
+        "N-10014",
+        "N-11370"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:38:40",
+      "investigative_direction": "Check the FBI and FTC public warnings on deed and title fraud.",
+      "transcript_snippet": "because the FBI has been warning homeowners about a type of real estate fraud that's on the rise,",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13716",
+      "ref": "C-13716",
+      "label": "Host Sponsor Read: Home Title Lock Restoration Team Will Spend Up to $1 Million",
+      "claim": "In the same sponsor read the host says that if fraud occurs, Home Title Lock's US-based restoration team will spend up to $1 million to fix it.",
+      "anchored_artifacts": [
+        "A-3275.2"
+      ],
+      "related_nodes": [
+        "N-11370"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:39:31",
+      "investigative_direction": "Read the company's terms for the coverage limit.",
+      "transcript_snippet": "then their US-based restoration team will spend up to $1 million to fix it.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13717",
+      "ref": "C-13717",
+      "label": "Host Sponsor Read: Mortgage Consultants Save Customers an Average of $800 a Month",
+      "claim": "In another sponsor read the host says the lender's salary-based mortgage consultants are saving customers an average of $800 a month.",
+      "anchored_artifacts": [
+        "A-3275.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:40:18",
+      "investigative_direction": "The lender is not named in the transcript; identify it from the sponsor script.",
+      "transcript_snippet": "Their salary based mortgage consultants are saving customers an average of $800 a month.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13718",
+      "ref": "C-13718",
+      "label": "Host Announces a Shot in the Dark Episode on Birth Control Including Nexplanon",
+      "claim": "The host announces another Shot in the Dark episode going through birth control, which she says may be the worst one, naming the Nexplanon implant (transcribed as Nexplanon).",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:40:37",
+      "investigative_direction": "Find the released episode and its cited sources on Nexplanon.",
+      "transcript_snippet": "Uh, we have another episode that's going up. We're going go through the birth control.",
+      "supports_claim_refs": [
+        "C-12047"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13719",
+      "ref": "C-13719",
+      "label": "Host Says Evil People Plan to Poison Us and Our Offspring",
+      "claim": "The host says we are fighting people that are evil and whose plans are to poison us and our offspring.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:40:54",
+      "investigative_direction": "Sweeping assertion with no named people or documents.",
+      "transcript_snippet": "We are fighting people that are evil and their plans are to poison us and our offspring.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13720",
+      "ref": "C-13720",
+      "label": "Host Says Her Spanish YouTube Channel Is Live",
+      "claim": "The host says her Spanish YouTube channel (transcribed as Gandas Owens and Espanol) is now live.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:41:12",
+      "investigative_direction": "Check the channel's creation date.",
+      "transcript_snippet": "Um and uh also our Spanish YouTube is live. You guys have been asking for that.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13721",
+      "ref": "C-13721",
+      "label": "Host Says Signed Copies of Blackout Are 15% Off on Her Website",
+      "claim": "The host says signed copies of her book Blackout are available at 15% off on her website.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:41:22",
+      "investigative_direction": "Check the store listing.",
+      "transcript_snippet": "we have some signed Blackout copies that are available 15% off on our website can kennison.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13722",
+      "ref": "C-13722",
+      "label": "Viewer Corrects the Church Name and the Host Accepts It Was a Genuine Mistake",
+      "claim": "A viewer, Warwick Spiller, writes that the church's name is the Church of Jesus Christ of Latter-day Saints, and the host accepts the correction as a genuine mistake.",
+      "anchored_artifacts": [
+        "A-3274.1"
+      ],
+      "related_nodes": [
+        "N-10114"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:41:52",
+      "investigative_direction": "Check the church's style guidance on its official name.",
+      "transcript_snippet": "Warwick Spiller writes, \"The name of the Mormon church is the Church of Jesus Christ of Latter-day Saints.\"",
+      "qualifies_claim_refs": [
+        "C-13683"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13723",
+      "ref": "C-13723",
+      "label": "Host Says She Has Seen Claims Erika Is Faking Emotion and Urges Graciousness",
+      "claim": "The host says she has seen claims that Erika is faking her emotions and says people need to be a lot more gracious.",
+      "anchored_artifacts": [
+        "A-3274.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:42:34",
+      "investigative_direction": "Opinion; compare with the host's other statements about Erika's demeanor.",
+      "transcript_snippet": "I've seen that. I think we just need to be a lot more gracious.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13724",
+      "ref": "C-13724",
+      "label": "Viewer Says the Beehive Represents a Group Working Together for Christ",
+      "claim": "The host reads Warwick Spiller's comment that the beehive represents a group working together for Christ and thanks him.",
+      "anchored_artifacts": [
+        "A-3274.3"
+      ],
+      "related_nodes": [
+        "N-10114"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:43:25",
+      "investigative_direction": "Utah and church historical sources on the emblem's meaning.",
+      "transcript_snippet": "Going back to the bee stuff, you said the beehive represents a group that are working together for Christ.",
+      "contradicts_claim_refs": [
+        "C-13684"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13725",
+      "ref": "C-13725",
+      "label": "Viewer Says the Neighbor's Mother Sent Police the Video of Robinson Walking",
+      "claim": "Viewer Natalie writes that her sister's neighbor is the daughter of a woman who sent police the video of Tyler Robinson walking down a neighborhood street.",
+      "anchored_artifacts": [
+        "A-1161.1"
+      ],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:31",
+      "investigative_direction": "Ask Natalie for the video; identify the filer and obtain the police intake record.",
+      "transcript_snippet": "my sister's neighbor is the daughter of a lady who sent the video to police of Tyler Robinson walking down a neighborhood street.",
+      "supports_claim_refs": [
+        "C-1278"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-115"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13726",
+      "ref": "C-13726",
+      "label": "Host Asks Viewer Natalie to Email the Video to the Tips Address",
+      "claim": "The host asks viewer Natalie to write to the tips inbox and send the video to the show's tips email address, begging her to send it because the footage would show Robinson with a woman.",
+      "anchored_artifacts": [
+        "A-3273.1"
+      ],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core",
+        "calls_for_tips"
+      ],
+      "claim_timestamp": "00:43:54",
+      "investigative_direction": "Verify the video if sent; the tips address is spelled as transcribed and corrects to the show's candaceowens.com tips address.",
+      "transcript_snippet": "Please send that to tips@cannis. com. Natalie, please. I am begging you. He was with a woman.",
+      "supports_claim_refs": [
+        "C-1278"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-115"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13727",
+      "ref": "C-13727",
+      "label": "Host Says Only the Caldera Engineering Video Has Been Released",
+      "claim": "The host says that, so far, only the Caldera Engineering video (transcribed as Calderira) has been made public, which makes the report of a second person interesting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10065",
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:44:06",
+      "investigative_direction": "Compare with the full set of releases from Caldera Engineering and the FBI.",
+      "transcript_snippet": "Well, we only got the uh Caldera Engineering video.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13728",
+      "ref": "C-13728",
+      "label": "Host Says the Psychoanalytic Community Began by Gaslighting People Who Were Being Raped",
+      "claim": "The host says the psychoanalytic community was started by gaslighting people who were actually being raped, and that those who later realized it were outcast.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:45:25",
+      "investigative_direction": "Historical claim on Freud's abandonment of the seduction theory; the host does not name the book here.",
+      "transcript_snippet": "you know how the psychoanalytic community was started. they were gaslighting people that were actually being raped.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-50"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13729",
+      "ref": "C-13729",
+      "label": "Host Says Dating for Three Years Is Ridiculous and Due to the Feminist Movement",
+      "claim": "The host says the idea of dating someone for three years is a little ridiculous and is due in large part to some of the more sinister motives of the feminist movement.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:47:05",
+      "investigative_direction": "Opinion about social trends; nothing to verify.",
+      "transcript_snippet": "You know, I think that's a little ridiculous and that only is being that's only due to in large part some of the more sinister motives of the feminist movement,",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13730",
+      "ref": "C-13730",
+      "label": "Host Says Her Second Book Is Coming Out Later This Year",
+      "claim": "The host says her next, sophomore, book is coming out later this year.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:47:17",
+      "investigative_direction": "Check the publisher's announced release date.",
+      "transcript_snippet": "which we can get into another time when I release my next my sophomore book,",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": [
@@ -1703,6 +3686,110 @@
           "confidence": "high",
           "tags": [
             "self_reference"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-38",
+      "ref": "M-38",
+      "canonical_term": "MK Ultra",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 9,
+          "video_timestamp": "00:26:41",
+          "speaker_node_ref": "N-3",
+          "quote": "learning the reality of what happened throughout the 1960s when MK Ultra when that program was running.",
+          "context": "Host anchors modern narrative-ops talk to the MK Ultra precedent.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "history",
+            "analogy"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 9,
+          "video_timestamp": "00:43:54",
+          "speaker_node_ref": "N-3",
+          "quote": "Please send that to tips@cannis. com.",
+          "context": "Host asks viewer Natalie to send her video tip to the tips inbox.",
+          "confidence": "high",
+          "tags": [
+            "calls_for_tips",
+            "dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-251",
+      "ref": "M-251",
+      "canonical_term": "Moral Blackmail",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 9,
+          "video_timestamp": "00:02:39",
+          "speaker_node_ref": "N-3",
+          "quote": "That feels a little bit to me like moral blackmail.",
+          "context": "Host applies Kirk's phrase to the FBI's alleged case-closure pressure on Utah authorities.",
+          "confidence": "high",
+          "tags": [
+            "fbi",
+            "moral_blackmail"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-255",
+      "ref": "M-255",
+      "canonical_term": "Muggles",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 9,
+          "video_timestamp": "00:32:49",
+          "speaker_node_ref": "N-3",
+          "quote": "I referred to us as the muggles",
+          "context": "Host recalls her earlier muggle framing while introducing the Megyn Kelly hex segment.",
+          "confidence": "high",
+          "tags": [
+            "spiritual_framing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-45",
+      "ref": "M-45",
+      "canonical_term": "Spiritual Warfare",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 9,
+          "video_timestamp": "00:32:49",
+          "speaker_node_ref": "N-3",
+          "quote": "this is a spiritual uh war that we are fighting",
+          "context": "Host frames the Jezebel and Etsy hex story as part of a spiritual war.",
+          "confidence": "high",
+          "tags": [
+            "spiritual_framing"
           ]
         }
       ]

@@ -15,8 +15,8 @@
   - Tip-minted Nodes (reintro-ep068): N-10922, N-10956
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10011–C-10058
-  - New Nodes Introduced: N-542, N-543, N-545, N-546, N-547, N-549, N-550, N-10478, N-10479, N-10480, N-10481, N-10483, N-10484
-  - Reused Nodes Appearing: N-10482, N-10477, N-3, N-9, N-11, N-50, N-203, N-371, N-503, N-540, N-10000, N-10197, N-10268, N-10397, N-10416, N-10435, N-10440, N-10441, N-10472, N-10473, N-10653, N-10900, N-10968, N-11099, N-11180, N-544, N-548
+  - New Nodes Introduced: N-542, N-543, N-545, N-546, N-547, N-549, N-550, N-10478, N-10479, N-10481, N-10483, N-10484
+  - Reused Nodes Appearing: N-10482, N-10477, N-3, N-9, N-11, N-50, N-203, N-371, N-503, N-540, N-10000, N-10197, N-10268, N-10397, N-10416, N-10435, N-10440, N-10441, N-10472, N-10473, N-10653, N-10900, N-10968, N-11099, N-11180, N-544, N-548, N-10480
   - (see registers)
 
 # Episode 68 Analysis – Bride of Charlie

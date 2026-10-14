@@ -318,6 +318,136 @@
         "claim": "C-13151",
         "node": "N-97",
         "reason": "claim text: \"who Ben was with\" (Shapiro)"
+      },
+      {
+        "claim": "C-14268",
+        "node": "N-182",
+        "reason": "role reference: \"the Kushners\""
+      },
+      {
+        "claim": "C-14465",
+        "node": "N-5",
+        "reason": "role reference: \"the Trumps\""
+      },
+      {
+        "claim": "C-14467",
+        "node": "N-194",
+        "reason": "role reference: \"the McCoys\""
+      },
+      {
+        "claim": "C-14467",
+        "node": "N-17",
+        "reason": "role reference: \"the McCoys\""
+      },
+      {
+        "claim": "C-14627",
+        "node": "N-14",
+        "reason": "claim text: \"Andrew\" (Kolvet)"
+      },
+      {
+        "claim": "C-14717",
+        "node": "N-40",
+        "reason": "role reference: \"the alleged shooter\""
+      },
+      {
+        "claim": "C-14769",
+        "node": "N-4",
+        "reason": "role reference: \"the vice president\""
+      },
+      {
+        "claim": "C-13962",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13963",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13964",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13965",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13966",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13967",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13968",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13969",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13970",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13971",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13972",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13973",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13974",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13975",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13976",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13977",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13978",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13979",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
+      },
+      {
+        "claim": "C-13980",
+        "node": "N-184",
+        "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       }
     ],
     "first_name_ok": [
@@ -647,6 +777,14 @@
           88
         ],
         "reason": "Judge Liman: named in existing ep88 claim C-8634 text; node minted in supplement batch 6 (ep99). Accepted rather than rewriting the claim."
+      },
+      {
+        "id": "N-952",
+        "episodes": [
+          13,
+          14
+        ],
+        "reason": "Robbie Hild: named in earlier claims C-10789 (ep13) and C-7874 (ep14); the person node was minted in supplement batch 7 (ep87), where the topic node N-10153 already existed. Accepted rather than rewriting the claims."
       }
     ]
   },

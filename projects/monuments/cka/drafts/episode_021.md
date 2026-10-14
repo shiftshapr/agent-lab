@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-763, N-11100, N-11101
-  - Hole-minted Nodes (reintro-ep021): N-213, N-333, N-10319, N-10323, N-10353
+  - Hole-minted Nodes (reintro-ep021): N-213, N-333, N-10323, N-10353
   - Tip-minted Nodes (reintro-ep021): N-667
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6512–C-6551
@@ -96,7 +96,7 @@ Confidence: high
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
   - Claim Range: C-1514–C-1526
   - New Nodes Introduced: N-203, N-10200
-  - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-182, N-194, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350, N-10202
+  - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-182, N-194, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350, N-10202, N-10319
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-132
 
 ---

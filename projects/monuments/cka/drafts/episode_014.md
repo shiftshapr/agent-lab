@@ -13,12 +13,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-800, N-801, N-802, N-803, N-11154, N-11155, N-11156, N-11157
-  - Hole-minted Nodes (reintro-ep014): N-314, N-10315, N-10324, N-10662
+  - Hole-minted Nodes (reintro-ep014): N-314, N-10315, N-10662
   - Tip-minted Nodes (reintro-ep014): N-715, N-11011, N-11059, N-11130
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-7836–C-7910
   - New Nodes Introduced: N-146, N-147, N-148, N-149, N-150, N-151, N-152, N-10161
-  - Reused Nodes Appearing: N-6, N-9, N-42, N-46, N-50, N-61, N-75, N-82, N-93, N-119, N-133, N-134, N-10000, N-10012, N-10014, N-10025, N-10026, N-10056, N-10060, N-10095, N-10110, N-10129, N-10144, N-10148, N-10153, N-10158, N-10159, N-10160, N-10406, N-11153, N-10270
+  - Reused Nodes Appearing: N-6, N-9, N-42, N-46, N-50, N-61, N-75, N-82, N-93, N-119, N-133, N-134, N-10000, N-10012, N-10014, N-10025, N-10026, N-10056, N-10060, N-10095, N-10110, N-10129, N-10144, N-10148, N-10153, N-10158, N-10159, N-10160, N-10406, N-11153, N-10270, N-10324
 - Channel / creator: @RealCandaceO · Candace Owens
 - Episode date: 2025-10-02
 - Source used for analysis: Transcript (cleaned YouTube captions, video context)

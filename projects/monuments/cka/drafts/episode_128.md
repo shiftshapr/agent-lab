@@ -11,7 +11,12 @@
 - **Transcript SHA-256**: 5587ba28d19ec6d370a3cc93963758ab5a40894ae434e8384f2029626bd3011c
 
 - **Episode Ledger Summary**:
-  - Reused Nodes Appearing: N-10732, N-10737, N-10739, N-10736, N-10735
+  - Tip-minted Nodes (supplement_2026-10g): N-953, N-954, N-11402, N-11403, N-11404, N-11405
+  - Hole-minted Nodes (reintro-ep128): N-10777
+  - Tip-minted Nodes (reintro-ep128): N-11143, N-11305
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10g): C-14712–C-14796
+  - Reused Nodes Appearing: N-10732, N-10737, N-10739, N-10736, N-10735, N-2, N-3, N-4, N-5, N-11, N-22, N-36, N-40, N-89, N-97, N-156, N-168, N-213, N-228, N-257, N-598, N-614, N-696, N-10000, N-10019, N-10032, N-10090, N-10094, N-10249, N-10257, N-10271, N-10346, N-10347, N-10383, N-10435, N-10539, N-10651, N-10681, N-10687, N-10699, N-10715, N-10727, N-10731, N-10748, N-10769, N-11094, N-11128
  - New Nodes Introduced: N-10732, N-10733, N-10734, N-10737, N-10738, N-10739
  - Hole-minted Nodes (wave3): N-513, N-514, N-515, N-516
  - Reused Nodes Appearing: N-10149, N-384, N-511
@@ -315,6 +320,140 @@ Confidence Level: High (read aloud on air)
 
 ---
 
+**A-3338** Host Description of Unaired O'Neill Screwdriver Remarks Bundle
+
+**A-3338.1** Host verbal reference to the part of Robert O'Neill's Newsmax segment on the screwdriver (not played in this episode)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:10:43
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14724, N-10090, N-156, N-3*
+
+---
+
+**A-3339** Host Rooftop Witness Account Bundle
+
+**A-3339.1** Host verbal reference to her source who recorded the rooftop runner and described a black jacket, tactical gear and a backpack (nothing shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:14:25
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14731, C-14732, C-14734, C-14735, N-10019, N-10727, N-3, N-11402*
+
+---
+
+**A-3340** Jennifer Faumuina Podcast Appearance Bundle
+
+**A-3340.1** Host verbal reference to a podcast in which Jennifer Faumuina said her sister is a social worker in Utah (not played)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:22:12
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14746, N-10738, N-3, N-511*
+
+---
+
+**A-3341** Host Courtney Love Messages Bundle
+
+**A-3341.1** Host verbal reference to her past messages with Courtney Love about the Mormon mafia (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:26:25
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14752, C-14753, N-1, N-10249, N-257, N-3*
+
+---
+
+**A-3342** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3342.1** Host verbal call for tips from hotel workers at moretips@candaceowens.com
+
+Quoted text: "Please send us something to moretips@candaceowens. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:38:14
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-14770, N-10732, N-3*
+
+---
+
+**A-3343** Andrew Kolvet X Reply Bundle
+
+**A-3343.1** Host paraphrase of Andrew Kolvet's X reply to his brother's post saying he cannot pronounce Huachuca (reply not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:41:03
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14776, C-14777, N-10435, N-10739, N-14, N-2, N-3*
+
+---
+
+**A-3344** Viewer Comment Read Aloud Bundle
+
+**A-3344.1** Viewer comment from North America First about Flock cameras and body cams, read aloud
+
+Quoted text: "So, Flock could be used to go after common folk, but not this guy?"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:48:01
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-14783, C-14784, N-10257, N-10271, N-3, N-40, N-11402, N-11405*
+
+---
+
+**A-3344.2** Viewer comment from Intuition Jen about Mormons, TPUSA and the Tyler Bowyer family, read aloud
+
+Quoted text: "Today I say it keeps coming back to the Mormons and the web connected to the Tyler Bowyer family, who are Mormons."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:49:37
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-14787, C-14788, N-10249, N-10346, N-10383, N-11, N-3*
+
+---
+
+**A-3344.3** Viewer comment from Ali about a clip of Erika Kirk on the Iran war, read aloud
+
+Quoted text: "Have you seen the clip where Erika says we don't know how Charlie would feel about the Iran war?"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:51:15
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-14791, N-1, N-10539, N-2, N-3*
+
+---
+
+**A-3345** Erika Kirk Iran War Remark Bundle
+
+**A-3345.1** Host verbal reference to a clip of Erika Kirk saying we do not know how Charlie would feel about the Iran war (clip not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:51:15
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14791, N-1, N-10539, N-2, N-3*
+
+---
+
 ## IV. Node Register
 
 **N-384** Dan Bongino
@@ -456,6 +595,490 @@ Episode Count: 1
 Investigative Pressure: Low
 
 *Related: A-2163.1, C-3082*
+
+---
+
+**N-1** Charlie Kirk
+
+Charlie Kirk; the victim, discussed throughout.
+
+*Related: C-14715, C-14716, C-14718, C-14743, C-14752, C-14754, C-14755, C-14757, C-14761, C-14767, C-14768, C-14785, C-14791, C-14792, C-14793, C-14794*
+
+---
+
+**N-2** Erika Kirk
+
+Erika Kirk; subject of O'Neill's remarks and the host's loyalty thesis.
+
+*Related: C-14717, C-14777, C-14791, C-14793, C-14794*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-14712, C-14713, C-14714, C-14717, C-14721, C-14722, C-14723, C-14724, C-14725, C-14726, C-14730, C-14731, C-14732, C-14733, C-14734, C-14735, C-14736, C-14737, C-14738, C-14739, C-14740, C-14741, C-14742, C-14743, C-14744, C-14745, C-14746, C-14747, C-14748, C-14749, C-14750, C-14751, C-14752, C-14753, C-14754, C-14755, C-14759, C-14760, C-14761, C-14767, C-14768, C-14769, C-14770, C-14771, C-14772, C-14773, C-14774, C-14776, C-14777, C-14778, C-14779, C-14780, C-14781, C-14782, C-14783, C-14784, C-14785, C-14786, C-14787, C-14788, C-14789, C-14790, C-14791, C-14792, C-14793, C-14794, C-14795, C-14796*
+
+---
+
+**N-4** JD Vance
+
+JD Vance; the host speculates his expected arrival shaped where staff stayed.
+
+*Related: C-14769*
+
+---
+
+**N-5** Donald Trump
+
+Donald Trump; named in the host's opening remarks.
+
+*Related: C-14713*
+
+---
+
+**N-7** Frank Turek
+
+Frank Turek; his Shawn Ryan Show CPR account is the subject of the host's rebuttal.
+
+*Related: C-14756, C-14757, C-14758, C-14759, C-14761, C-14762*
+
+---
+
+**N-11** Tyler Bowyer
+
+Tyler Bowyer; named in a viewer comment and in the host's loyalty thesis.
+
+*Related: C-14788, C-14793*
+
+---
+
+**N-14** Andrew Kolvet
+
+Andrew Kolvet; the host discusses his firing of a staffer and his reply to his brother's post.
+
+*Related: C-14714, C-14772, C-14773, C-14774, C-14775, C-14776, C-14777*
+
+---
+
+**N-22** Tucker Carlson
+
+Tucker Carlson; one of three people the host says confirmed Charlie opposed the Iran war.
+
+*Related: C-14792*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Benjamin Netanyahu; named in the host's opening remarks.
+
+*Related: C-14712*
+
+---
+
+**N-40** Tyler Robinson
+
+Tyler Robinson; the accused.
+
+*Related: C-14717, C-14720, C-14721, C-14726, C-14783, C-14786, C-14789*
+
+---
+
+**N-41** Spencer Cox
+
+Spencer Cox; his September 12 clothing statement.
+
+*Related: C-14721, C-14722*
+
+---
+
+**N-46** Megyn Kelly
+
+Megyn Kelly; interviewed Dan Bongino on September 15.
+
+*Related: C-14727, C-14728*
+
+---
+
+**N-69** Kash Patel
+
+Kash Patel; stood beside Cox, named as having reported the screwdriver and as having replaced the Salt Lake City FBI head.
+
+*Related: C-14727, C-14744*
+
+---
+
+**N-89** Benny Johnson
+
+Benny Johnson; one of the influencers the host says later received sharp footage.
+
+*Related: C-14730*
+
+---
+
+**N-97** Ben Shapiro
+
+Ben Shapiro; subject of the lunch question.
+
+*Related: C-14779*
+
+---
+
+**N-135** Robert Bowles
+
+Robert Bowles; FBI Salt Lake City head from September 2, 2025.
+
+*Related: C-14744, C-14745*
+
+---
+
+**N-156** Robert J. O'Neill
+
+Robert O'Neill; former SEAL sniper interviewed on Newsmax.
+
+*Related: C-14715, C-14716, C-14717, C-14718, C-14719, C-14720, C-14724, C-14785*
+
+---
+
+**N-162** Blake Neff
+
+Blake Neff; his hotel statements.
+
+*Related: C-14763, C-14764, C-14765, C-14766, C-14768*
+
+---
+
+**N-168** Howard Lutnick
+
+Howard Lutnick; named in the host's opening remarks.
+
+*Related: C-14713*
+
+---
+
+**N-213** Joe Kent
+
+Joe Kent; named as confirming Charlie's Iran war opposition.
+
+*Related: C-14792*
+
+---
+
+**N-228** Shawn Ryan
+
+Shawn Ryan; host of the show on which Turek spoke.
+
+*Related: C-14762*
+
+---
+
+**N-257** Courtney Love
+
+Courtney Love; the host relays her Mormon mafia remarks.
+
+*Related: C-14752, C-14753*
+
+---
+
+**N-270** Brian Harpole
+
+Brian Harpole; his no-CPR account.
+
+*Related: C-14756, C-14758, C-14759, C-14760*
+
+---
+
+**N-598** Bret Weinstein
+
+Bret Weinstein; named as confirming Charlie's Iran war opposition.
+
+*Related: C-14792*
+
+---
+
+**N-614** Graham Allen
+
+Graham Allen; one of the influencers the host says received sharp footage.
+
+*Related: C-14730*
+
+---
+
+**N-696** Curtis Kolvet
+
+Curtis Kolvet; reused for Andrew Kolvet's brother, a lieutenant colonel (the transcript says only Lieutenant Colonel Kolvet).
+
+*Related: C-14714, C-14774, C-14775*
+
+---
+
+**N-10000** Turning Point USA
+
+Turning Point USA; its team's lodging and staff.
+
+*Related: C-14763, C-14768, C-14771, C-14772, C-14786*
+
+---
+
+**N-10019** Robinson Outfit Change Discrepancy
+
+Robinson Outfit Change Discrepancy; clothing questions.
+
+*Related: C-14722, C-14731*
+
+---
+
+**N-10032** Decoy Boy Operation Analysis
+
+Decoy Boy Operation Analysis; the host's decoy theory.
+
+*Related: C-14733*
+
+---
+
+**N-10090** Screwdriver Evidence Question
+
+Existing topic reused for the claims below.
+
+*Related: C-14724, C-14725, C-14726, C-14727, C-14790*
+
+---
+
+**N-10094** LDS Church
+
+LDS Church; context for the host's Mormon territory remark.
+
+*Related: C-14755*
+
+---
+
+**N-10249** "Mormon Mafia" Allegation
+
+Existing topic reused for the claims below.
+
+*Related: C-14752, C-14753, C-14755, C-14788*
+
+---
+
+**N-10257** Flock LPR FOIA Investigation
+
+Flock LPR FOIA Investigation; camera network context.
+
+*Related: C-14783*
+
+---
+
+**N-10271** Tyler Robinson Washington County Surveillance Footage Gap
+
+Existing topic reused for the claims below.
+
+*Related: C-14783*
+
+---
+
+**N-10346** Terrell Farnsworth Camera Removal Justification
+
+Existing topic reused for the claims below.
+
+*Related: C-14787*
+
+---
+
+**N-10347** Egyptian Planes Israel Flight Pattern
+
+Existing topic reused for the claims below.
+
+*Related: C-14781*
+
+---
+
+**N-10383** Farnsworth Family Political-Military Network
+
+Existing topic reused for the claims below.
+
+*Related: C-14787, C-14793*
+
+---
+
+**N-10435** Fort Huachuca Erika Kirk Location Investigation
+
+Existing topic reused for the claims below.
+
+*Related: C-14777*
+
+---
+
+**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+
+Existing topic reused for the claims below.
+
+*Related: C-14791, C-14792*
+
+---
+
+**N-10651** Brian Harpole Lawsuit Coordination Question
+
+Existing topic reused for the claims below.
+
+*Related: C-14759*
+
+---
+
+**N-10681** Shawn Ryan Show Interview Clip Bundle
+
+Existing topic reused for the claims below.
+
+*Related: C-14762*
+
+---
+
+**N-10687** Frank Turek CPR Claim Verification
+
+Existing topic reused for the claims below.
+
+*Related: C-14757, C-14761*
+
+---
+
+**N-10699** Brian Harpole vs Frank Turek CPR Contradiction
+
+Existing topic reused for the claims below.
+
+*Related: C-14756, C-14760*
+
+---
+
+**N-10715** Blake Neff September 10th Movement Discrepancy
+
+Existing topic reused for the claims below.
+
+*Related: C-14764*
+
+---
+
+**N-10727** Abandoned Backpack / Jacket / Gloves Non-Testing Decision
+
+Existing topic reused for the claims below.
+
+*Related: C-14735, C-14736, C-14737*
+
+---
+
+**N-10731** Screwdriver Footage Graininess Discrepancy
+
+Existing topic reused for the claims below.
+
+*Related: C-14729, C-14730*
+
+---
+
+**N-10748** Ben Shapiro 9/10 Lunch Meeting Identification
+
+Existing topic reused for the claims below.
+
+*Related: C-14779, C-14780*
+
+---
+
+**N-10769** Losee Center Gun Verification Gap
+
+Existing topic reused for the claims below.
+
+*Related: C-14725*
+
+---
+
+**N-10777** Screwdriver Narrative Evolution
+
+Existing topic reused for the claims below.
+
+*Related: C-14726*
+
+---
+
+**N-11094** Kash Patel August 17 Omaha Trip FOIA Response
+
+Existing topic reused for the claims below.
+
+*Related: C-14781*
+
+---
+
+**N-11128** US and Israel Iran War Betrayal Thesis
+
+Existing topic reused for the claims below.
+
+*Related: C-14792*
+
+---
+
+**N-11143** Rooftop Screwdriver Claim
+
+Existing topic reused for the claims below.
+
+*Related: C-14790*
+
+---
+
+**N-11305** Utah Medical Examiner Office Departures to New York
+
+Existing topic reused for the claims below.
+
+*Related: C-14742*
+
+---
+
+**N-953** Itamar Ben-Gvir
+
+First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.
+
+*Related: C-14712*
+
+---
+
+**N-954** Blaine Holt
+
+Air Force Brigadier General who joined Robert O'Neill on Newsmax; first named by the host at 00:04:42 in episode 128.
+
+*Related: C-14718, C-14719, C-14720*
+
+---
+
+**N-11402** Rooftop Runner Black Jacket and Tactical Gear Account
+
+Node Type: Topic
+The host's account, from her own source, that the rooftop runner wore a black jacket, tactical gear and a backpack, with her theory that the object called a towel was a jacket and that the items were dropped near a bus stop by Fulton Library.
+
+*Related: C-14731, C-14732, C-14733, C-14734, C-14735, C-14784*
+
+---
+
+**N-11403** Faumuina Family 1995 Hawaii Homicide Case
+
+Node Type: Topic
+The 1995 Hawaii death of Misiona Faumuina, an uncle of Sgt. Jennifer Faumuina, which the host describes from news articles: an alleged gang initiation beating, manslaughter charges against three youths and conflicting accounts about his gang and church ties.
+
+*Related: C-14747, C-14748, C-14749, C-14750, C-14751*
+
+---
+
+**N-11404** Franklin Cover-Up Scandal
+
+Node Type: Topic
+The Franklin credit union scandal in Omaha, Nebraska, which the host describes as a widely debated conspiracy theory over a $40 million fraud with claims of abuse by politicians and satanic ritual abuse.
+
+*Related: C-14782*
+
+---
+
+**N-11405** Utah Statewide Camera Footage Gap
+
+Node Type: Topic
+The host's question why Utah's statewide camera network has produced no clear footage of Tyler Robinson on the day, his route on the rooftop or the shot itself.
+
+*Related: C-14783*
 
 ---
 
@@ -836,6 +1459,1382 @@ Investigative Direction: Verify the post's text and timestamps; check Andrew Kol
 
 ---
 
+**C-14712** Host Says Netanyahu and Ben-Gvir Openly Rooted for Argentina Against Spain
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says Itamar Ben-Gvir and Benjamin Netanyahu explicitly came out and said they were rooting for Argentina against Spain, and that this was not helpful to that team.
+
+Transcript Snippet: having them explicitly come out and say that they were rooting uh for that team to win was not helpful.
+
+Anchored Artifacts: 
+Mentions: N-953, N-36, N-3
+Related Nodes:
+Tags: relevance:tangential
+Investigative Direction: Locate the public statements or posts by Ben-Gvir and Netanyahu about the match and confirm which team they backed.
+
+---
+
+**C-14713** Host Says Lutnick and Trump Got Involved With the US Team
+
+Claim Timestamp: 00:00:50
+
+Claim: The host says that Howard Lutnick and President Trump involved themselves in the US team's run, which made her root against the US.
+
+Transcript Snippet: But as soon as the corrupt Howard Lutnick and President Trump got involved and 9/11 crew getting back together, they stuck their noses in it.
+
+Anchored Artifacts: 
+Mentions: N-168, N-5, N-3
+Related Nodes:
+Tags: relevance:tangential
+Investigative Direction: Identify what involvement by Lutnick and Trump with the team the host means and find contemporaneous coverage.
+
+---
+
+**C-14714** Host Says Kolvet's Big Brother, a Lieutenant Colonel, Defended Him on X This Weekend
+
+Claim Timestamp: 00:01:46
+
+Claim: The host says Andrew Kolvet's big brother, a lieutenant colonel in the military, defended Andrew on X over the weekend before this episode.
+
+Transcript Snippet: Andrew Kolvet's big brother, Lieutenant Colonel in the military, came to Andrew's defense on X this weekend.
+
+Anchored Artifacts: A-2163.1
+Mentions: N-14, N-696, N-3
+Related Nodes: N-10739
+Supports: C-8152
+Tags: relevance:context
+Investigative Direction: Pull the brother's X post and its date, and confirm his rank and identity against Army records or earlier public statements.
+
+---
+
+**C-14715** O'Neill Says Nobody Gave Kirk First Aid and Staff Were Pulling SIM Cards From Cameras
+
+Claim Timestamp: 00:03:29
+
+Claim: Robert O'Neill says on Newsmax that nobody started first aid on Charlie Kirk and that people were more concerned with getting SIM cards out of cameras, removing cameras and getting Kirk off the X.
+
+Transcript Snippet: The just the fact that no one started doing first aid to Charlie Kirk, they were more concerned about getting SIM cards out of cameras, removing cameras, and then getting him off the X somehow.
+
+Anchored Artifacts: A-2153.1
+Mentions: N-156, N-1
+Related Nodes: N-10734
+Tags: relevance:core
+Investigative Direction: Compare with the UVU and bystander video of the first minute after the shot, and ask O'Neill for his source on the SIM card and camera removal.
+
+---
+
+**C-14716** O'Neill Says He Was Told the Scene Was Paved Over a Couple Days Later
+
+Claim Timestamp: 00:03:29
+
+Claim: Robert O'Neill says he has been told that the crime scene was paved over a couple of days after the shooting.
+
+Transcript Snippet: I've been told they paved it over a couple days later
+
+Anchored Artifacts: A-2153.1
+Mentions: N-156, N-1
+Related Nodes: N-10734
+Supports: C-1386
+Tags: relevance:core
+Investigative Direction: Obtain UVU or contractor records of when the paving at the scene was done.
+
+---
+
+**C-14717** O'Neill Says Erika's Quick Forgiveness of the Alleged Shooter Implies It Was Him
+
+Claim Timestamp: 00:03:29
+
+Claim: Robert O'Neill says Erika Kirk was very quick to forgive the alleged shooter, which he says technically concedes that it was him, while she cannot forgive Candace Owens for asking questions.
+
+Transcript Snippet: she's really quick to forgive the alleged shooter, which technically says that was him cuz I forgive him
+
+Anchored Artifacts: A-2153.1
+Mentions: N-156, N-2, N-3, N-40
+Related Nodes:
+Tags: relevance:context
+Investigative Direction: Review Erika Kirk's memorial remarks about forgiving the accused and the dates she criticized the host.
+
+---
+
+**C-14718** General Holt Says Something Exploded on Kirk
+
+Claim Timestamp: 00:05:31
+
+Claim: Air Force Brigadier General Blaine Holt says on Newsmax that he is with Robert O'Neill and that something exploded on Kirk.
+
+Transcript Snippet: Absolutely not. I I I I'm with Rob. Something exploded on him.
+
+Anchored Artifacts: A-2153.2
+Mentions: N-954, N-156, N-1
+Related Nodes: N-10734
+Tags: relevance:core
+Investigative Direction: Ask Holt what he saw that supports an explosion and compare with the autopsy and wound descriptions.
+
+---
+
+**C-14719** Holt Says the Justice Department Solved the Case in About Eight Hot Seconds
+
+Claim Timestamp: 00:06:17
+
+Claim: General Holt says the explanation put out by the Justice Department that day was garbage and that they seemingly solved the case in about eight seconds, and that millions of veterans know better.
+
+Transcript Snippet: the garbage that was foisted upon us from the Justice Department that day where they seemingly solved the case in about eight hot seconds.
+
+Anchored Artifacts: A-2153.2
+Mentions: N-954, N-156
+Related Nodes: N-10734
+Tags: relevance:context
+Investigative Direction: Pin down the time between the shooting and the first DOJ or FBI public attribution of the suspect.
+
+---
+
+**C-14720** Holt Says a Kid Who Never Killed Would Not Be Sent Onto a Roof With a .30-06
+
+Claim Timestamp: 00:06:17
+
+Claim: General Holt says a young man who has never killed anyone would not take a .30-06 onto a roof and do the things O'Neill described.
+
+Transcript Snippet: You're not going to take a.30-06 with a kid who's never killed anybody up onto a roof.
+
+Anchored Artifacts: A-2153.2
+Mentions: N-954, N-156, N-40
+Related Nodes: N-10734
+Tags: relevance:context
+Investigative Direction: Review Robinson's firearms and hunting history in the charging documents.
+
+---
+
+**C-14721** Host Says Cox Described the Clothing Change After Robinson Was Arrested and His Texts Seized
+
+Claim Timestamp: 00:08:44
+
+Claim: The host says Governor Cox's statement about the rooftop clothing change came after Tyler Robinson had been arrested, his text messages seized and campus footage presumably reviewed.
+
+Transcript Snippet: this is after they arrested Tyler Robinson, seized the text messages, had the ability to review them, review the footage everywhere on campus, presumably.
+
+Anchored Artifacts: A-2154.1
+Mentions: N-41, N-40, N-3
+Related Nodes: N-10735
+Tags: relevance:core
+Investigative Direction: Compare the dates of Robinson's arrest and the text message seizure with the September 12 briefing.
+
+---
+
+**C-14722** Host Says the Change Cox Described Was From a Maroon Shirt to a Long-Sleeve Shirt With an American Flag
+
+Claim Timestamp: 00:09:39
+
+Claim: The host says the clothing change described by Governor Cox was from a maroon shirt into a long-sleeve shirt with an American flag, performed on the rooftop.
+
+Transcript Snippet: what would be the point of changing from a maroon shirt into a long-sleeve shirt with an American flag on a rooftop?
+
+Anchored Artifacts: A-2154.1
+Mentions: N-41, N-3
+Related Nodes: N-10735, N-10019
+Tags: relevance:core
+Investigative Direction: Check the charging documents and photos for the two garments Cox meant.
+
+---
+
+**C-14723** Host Says She Previously Got a Time Zone Wrong by Using a Website That Gave UTC
+
+Claim Timestamp: 00:09:39
+
+Claim: The host says she once got a time zone calculation wrong after daylight saving time because a website she thought gave local time gave UTC, and influencers then called her an idiot.
+
+Transcript Snippet: Let me get a time zone calculation incorrect, right? After daylight saving time, let me use a website and think that it's giving me local time and share local time as I did, and then turns out it's not local time, it's UTC.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes:
+Supports: C-12353
+Tags: relevance:context
+Investigative Direction: Locate the host's original post and the later correction to see which time was affected.
+
+---
+
+**C-14724** Host Says O'Neill Said the Screwdriver Could Not Take the Gun Apart
+
+Claim Timestamp: 00:10:43
+
+Claim: The host says that in the part of his interview she did not play, Robert O'Neill said this is not the right screwdriver to take apart the gun the authorities say was taken apart.
+
+Transcript Snippet: He he says, "This isn't even the right screwdriver to take apart the gun that they're telling you that he took apart.
+
+Anchored Artifacts: A-3338.1
+Mentions: N-156, N-3
+Related Nodes: N-10090
+Supports: C-1243
+Tags: relevance:core
+Investigative Direction: Obtain the full Newsmax interview and compare with the evidence photo of the screwdriver and the rifle's fasteners.
+
+---
+
+**C-14725** Host Says the Rooftop Man Neither Assembled nor Disassembled His Rifle on Losee
+
+Claim Timestamp: 00:11:17
+
+Claim: The host says that, as is now known, the rooftop man neither assembled nor disassembled his rifle on the Losee Center roof.
+
+Transcript Snippet: the rooftop man neither assembled or disassembled his rifle on Losee.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10090, N-10769
+Tags: relevance:core
+Investigative Direction: Review the investigative record on where and when the rifle was assembled.
+
+---
+
+**C-14726** Host Speculates the Screwdriver Was Planted Because It Carried Robinson's DNA
+
+Claim Timestamp: 00:11:17
+
+Claim: The host speculates that officials may have planted the screwdriver, and then had to make it fit the story, because it carried Tyler Robinson's DNA and was one of the only things tying him to the rooftop.
+
+Transcript Snippet: Did they already plant the evidence that and had to just sort of make it work after that because it had Tyler Robinson's DNA on it?
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10090, N-10777
+Tags: relevance:core
+Investigative Direction: Obtain the FBI DNA report on the screwdriver and its chain of custody. (Speculation framed as a question by the host.)
+
+---
+
+**C-14727** Megyn Kelly Says Patel Said a Screwdriver With DNA Was Found on the Roof, Then the Rifle Was Found Assembled
+
+Claim Timestamp: 00:11:48
+
+Claim: In the September 15 interview, Megyn Kelly says Kash Patel said a screwdriver was found on top of the building with the suspect's DNA, leading many to think he had disassembled the gun, but that the rifle was found assembled in the woods.
+
+Transcript Snippet: Cash said that they found his what we presume was his screwdriver on the top of the building, and they found his DNA on it
+
+Anchored Artifacts: A-2155.1
+Mentions: N-46, N-69, N-384
+Related Nodes: N-10736, N-10090
+Supports: C-1140
+Tags: relevance:core
+Investigative Direction: Locate Patel's original statement about the screwdriver and DNA and the date it was made.
+
+---
+
+**C-14728** Bongino Says He Was Hesitant to Go Into Specifics on the Video and Where the Gun Was
+
+Claim Timestamp: 00:12:43
+
+Claim: Dan Bongino says that in a media appearance that morning he was a little hesitant to go into specifics, especially on the video and where the gun was.
+
+Transcript Snippet: I was a little hesitant in a media appearance this morning to go into specifics on uh especially the video and where the gun was
+
+Anchored Artifacts: A-2155.1
+Mentions: N-384, N-46
+Related Nodes: N-10736
+Tags: relevance:core
+Investigative Direction: Review Bongino's other September 15 appearance for what he withheld and the reason he gave.
+
+---
+
+**C-14729** Bongino Says He Has Been on That Roof and the Distant Camera Is Clearly Not the Best Video
+
+Claim Timestamp: 00:12:43
+
+Claim: Dan Bongino says he has been on that roof in that corner and that the camera in the distance is clearly not producing the best video.
+
+Transcript Snippet: on that roof in that corner. And when you see the camera in the distance away, it's clearly not the best video.
+
+Anchored Artifacts: A-2155.1
+Mentions: N-384
+Related Nodes: N-10731
+Tags: relevance:core
+Investigative Direction: Establish when Bongino visited the roof and which camera he meant.
+
+---
+
+**C-14730** Host Says Sharp Footage Reached Benny Johnson and Graham Allen 10 Months Later
+
+Claim Timestamp: 00:13:41
+
+Claim: The host says clear 4K footage of the rooftop was made available to Benny Johnson, Graham Allen, his wife and other influencers 10 months after the shooting, though officials called the footage grainy in September.
+
+Transcript Snippet: that 4K HD 4D chest super duper crystal clear overwhelming footage that was made available to Benny Johnson, Graham Allen, and his wife 10 months later and some other influencers?
+
+Anchored Artifacts: 
+Mentions: N-89, N-614, N-3
+Related Nodes: N-10731
+Tags: relevance:core
+Investigative Direction: Identify when and by whom the footage was shown to the influencers and compare the resolution with the September releases.
+
+---
+
+**C-14731** Host's Source Says the Rooftop Man Wore a Black Jacket and Tactical Gear
+
+Claim Timestamp: 00:14:25
+
+Claim: The host says her source, who recorded the rooftop man, described him in a black jacket and tactical gear, and all the source knows is that he was dressed in all black.
+
+Transcript Snippet: Said he was wearing a black jacket and tactical gear. All he knows is he was wearing all black.
+
+Anchored Artifacts: A-3339.1
+Mentions: N-3
+Related Nodes: N-11402, N-10019
+Tags: relevance:core
+Investigative Direction: Obtain the source's original recording and statement and compare it with the released rooftop footage.
+
+---
+
+**C-14732** Host Says the Object Called a Towel in the Footage Was Likely a Black Jacket
+
+Claim Timestamp: 00:14:25
+
+Claim: The host says she thinks the blurry object that officials said was a towel in the rooftop runner's hand was likely a black jacket, and that the towel story was needed to match the rifle found wrapped in a towel.
+
+Transcript Snippet: I think it was never even actually a towel that we saw in the footage um that the rooftop jogger, the rooftop sprinter had. I think it was likely a black jacket
+
+Anchored Artifacts: A-3339.1
+Mentions: N-3
+Related Nodes: N-11402
+Tags: relevance:core
+Investigative Direction: Enhance the released rooftop frames and compare with the towel recovered with the rifle. (Theory of the host, not a finding.)
+
+---
+
+**C-14733** Host Theorizes the Rooftop Runner Was a Decoy Who Fired No Shot
+
+Claim Timestamp: 00:14:25
+
+Claim: The host says she thinks it is much more likely that the rooftop man was a decoy who never fired a gun and was tasked with sprinting away at the right time.
+
+Transcript Snippet: I think it's much more likely that rooftop man was just a decoy who never fired any gun. He was tasked with sprinting away at the right time.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11402, N-10032
+Supports: C-12114
+Tags: relevance:core
+Investigative Direction: Compare the runner's timeline against the shot time and the recovery location of the rifle. (Theory of the host, not a finding.)
+
+---
+
+**C-14734** Host Says She Is Told the Source Described a Backpack and Was Never Contacted
+
+Claim Timestamp: 00:15:24
+
+Claim: The host says her eyewitness, who recorded the rooftop man, described his backpack and was never contacted by investigators.
+
+Transcript Snippet: which was also described by my eyewitness who was never contacted for some reason.
+
+Anchored Artifacts: A-3339.1
+Mentions: N-3
+Related Nodes: N-11402
+Tags: relevance:core
+Investigative Direction: Ask the FBI and Utah investigators for contact logs of witnesses who submitted rooftop video.
+
+---
+
+**C-14735** Host Theorizes the Runner Dumped Gloves, Jacket and Backpack Near a Bus Stop by Fulton Library
+
+Claim Timestamp: 00:15:24
+
+Claim: The host says she thinks the runner dumped tactical gloves, and that what is in his hand is a black jacket and backpack which he dropped by the bus stop near Fulton Library.
+
+Transcript Snippet: I think it's plausible that while he was running, he dumped his tactical gloves, and what's in his hand there is his black jacket and his backpack
+
+Anchored Artifacts: A-3339.1
+Mentions: N-3
+Related Nodes: N-11402, N-10727
+Tags: relevance:core
+Investigative Direction: Map the location of the recovered items against the bus stop and the runner's route. (Theory of the host, not a finding.)
+
+---
+
+**C-14736** Host Says Faumuina's Office Recovered the Abandoned Items
+
+Claim Timestamp: 00:15:42
+
+Claim: The host says the items left along the runner's path were recovered by Sergeant Jennifer Faumuina's office at the Utah State Bureau of Investigation.
+
+Transcript Snippet: And those items, as we learned, were then recovered um by Sergeant Cha- Sergeant Jennifer Faumuina of the State Bureau of Investigations, her office.
+
+Anchored Artifacts: 
+Mentions: N-511, N-3
+Related Nodes: N-10727
+Tags: relevance:core
+Investigative Direction: Obtain the evidence log showing who recovered the backpack, gloves and jacket and when.
+
+---
+
+**C-14737** Host Says Faumuina Answered I Don't Recall on Signing Off on the FBI Not Testing the Backpack and Gloves
+
+Claim Timestamp: 00:15:42
+
+Claim: The host says Sergeant Faumuina answered that she did not recall whether she signed off on the FBI not testing a backpack, gloves and possible tactical gear abandoned along the shooter's path.
+
+Transcript Snippet: Oh, you don't recall whether you signed off on the FBI not testing a backpack, gloves, potential tactical gear that were abandoned upon the exact path that the shooter ran.
+
+Anchored Artifacts: 
+Mentions: N-511, N-3
+Related Nodes: N-10727
+Tags: relevance:core
+Investigative Direction: Pull Faumuina's testimony or interview where she said she did not recall and the evidence-handling forms.
+
+---
+
+**C-14738** Host Says Faumuina Was Raised in Hawaii, Studied at Weber State and Weber Was Founded by the Mormon Church
+
+Claim Timestamp: 00:16:37
+
+Claim: The host says that Jennifer Faumuina was raised in Hawaii, moved to Ogden, Utah and studied criminal justice at Weber State University, which the host says was founded by the Mormon Church.
+
+Transcript Snippet: she moved to Ogden, Utah where she studied studied criminal justice graduating from Weber State University which was founded by the Mormon Church
+
+Anchored Artifacts: A-2157.2
+Mentions: N-511, N-3
+Related Nodes: N-10738
+Tags: relevance:context
+Investigative Direction: Check Weber State alumni and institutional history for Faumuina and the school's founding by the LDS church.
+
+---
+
+**C-14739** Host Says the RNC Article Is the Only Record Found Confirming Faumuina Was a State Trooper
+
+Claim Timestamp: 00:17:38
+
+Claim: The host says the 2016 RNC volunteer article is the only record she could find confirming Faumuina was a state trooper in the years before 2018.
+
+Transcript Snippet: it is the only one that we can find that confirms that she was a state trooper.
+
+Anchored Artifacts: A-2157.4
+Mentions: N-511, N-3
+Related Nodes: N-10738
+Tags: relevance:core
+Investigative Direction: Request Utah DPS employment history and certification records for Faumuina for 2013–2018.
+
+---
+
+**C-14740** Host Says No Article Mentions Faumuina Before 2018 and She Appears to Have Held a Part-Time Weber State Job
+
+Claim Timestamp: 00:18:29
+
+Claim: The host says she could not find an article that mentions Faumuina before 2018 and that she appears instead to have had a part-time job at Weber State University, possibly while still in school.
+
+Transcript Snippet: We couldn't find an article that mentions her before 2018 either aside from that. Instead she appears to be working some sort of a part-time gig at Weber State University.
+
+Anchored Artifacts: 
+Mentions: N-511, N-3
+Related Nodes: N-10738
+Tags: relevance:core
+Investigative Direction: Request Weber State employment records and Utah POST certifications for Faumuina.
+
+---
+
+**C-14741** Host Says Faumuina Is Paid Very Well From 2018
+
+Claim Timestamp: 00:18:29
+
+Claim: The host says that from 2018 Faumuina is officially working for the Utah Department of Public Safety and is paid very well, which the host takes to mean she had more schooling.
+
+Transcript Snippet: in 2018 like I said we have her officially working for the Utah Department of Public Safety and she is paid very well.
+
+Anchored Artifacts: A-2157.5
+Mentions: N-511, N-3
+Related Nodes: N-10738
+Tags: relevance:core
+Investigative Direction: Check the Utah state salary database for Faumuina's pay and rank by year.
+
+---
+
+**C-14742** Host Says Utah's Medical Examiner Is Newer, Appointed July 2024
+
+Claim Timestamp: 00:20:19
+
+Claim: The host says Utah's medical examiner is a newer appointee from July 2024, one of the new Utah officials ahead of the assassination.
+
+Transcript Snippet: We talked in the past about the new newer, I should say, medical examiner from July 2024.
+
+Anchored Artifacts: A-2158.4
+Mentions: N-3
+Related Nodes: N-10733, N-11305
+Tags: relevance:core
+Investigative Direction: Confirm the appointment date and appointee through the Utah Department of Health and Human Services.
+
+---
+
+**C-14743** Host Says Many New Faces and Appointments Came to Utah Before the Assassination
+
+Claim Timestamp: 00:20:19
+
+Claim: The host says she has raised the pattern since early in the investigation that many Utah officials were new or newly appointed ahead of Charlie Kirk's assassination.
+
+Transcript Snippet: We have continually raised this pattern since early on in this investigation. There were so many new faces and new appointments in Utah ahead of Charlie Kirk's assassination.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10733
+Tags: relevance:core
+Investigative Direction: Build a table of Utah and federal appointments from 2024 to September 2025 with dates and appointing authorities.
+
+---
+
+**C-14744** Host Says Patel Fired the Salt Lake City FBI Head and Installed Bowles From Virginia
+
+Claim Timestamp: 00:21:14
+
+Claim: The host says Special Agent Robert Bowles had served in an FBI office in Virginia, and that Kash Patel fired the person heading the FBI Salt Lake City office and installed Bowles.
+
+Transcript Snippet: Kash Patel fires the person that was heading up the FBI Salt Lake City office. He fires that person and installs Robert Bowles.
+
+Anchored Artifacts: A-2158.5
+Mentions: N-135, N-69, N-3
+Related Nodes: N-10733
+Supports: C-1329
+Tags: relevance:core
+Investigative Direction: Confirm the prior Salt Lake City special agent in charge, the date he left and Bowles's previous posting.
+
+---
+
+**C-14745** Host Says Bowles Had Almost 20 Years in the FBI Across the United States
+
+Claim Timestamp: 00:21:14
+
+Claim: The host says Robert Bowles had a very long tenure of almost 20 years with the FBI all over the United States before taking the Salt Lake City post.
+
+Transcript Snippet: he had a very long tenure up into that moment with the FBI all over the United States for almost 20 years.
+
+Anchored Artifacts: A-2158.5
+Mentions: N-135, N-3
+Related Nodes: N-10733
+Tags: relevance:context
+Investigative Direction: Check FBI biographies and press releases for Bowles's career postings.
+
+---
+
+**C-14746** Host Says Faumuina Said on a Podcast That Her Sister Is a Utah Social Worker
+
+Claim Timestamp: 00:22:12
+
+Claim: The host says Faumuina revealed in a podcast that her sister is a social worker in Utah, and notes Faumuina is doing podcasts.
+
+Transcript Snippet: She revealed that her sister was a social worker within the state of Utah.
+
+Anchored Artifacts: A-3340.1
+Mentions: N-511, N-3
+Related Nodes: N-10738
+Tags: relevance:tangential
+Investigative Direction: Identify the podcast and the date of the appearance.
+
+---
+
+**C-14747** Host Says Three Youths Were Charged With Second-Degree Manslaughter in the 1995 Case
+
+Claim Timestamp: 00:24:14
+
+Claim: The host says the defense in the 1995 Hawaii case argued the men were friends and it was an initiation ritual, and that three youths were charged with second-degree manslaughter.
+
+Transcript Snippet: the three kids that were involved got charged with like second-degree manslaughter.
+
+Anchored Artifacts: A-2160.1
+Mentions: N-515, N-3
+Related Nodes: N-11403
+Tags: relevance:tangential
+Investigative Direction: Obtain Hawaii court records for the 1995 case and the charges and outcomes.
+
+---
+
+**C-14748** Host Says Misiona Faumuina Was Part of Adult Friends for Youth, Run by Sid Rosen
+
+Claim Timestamp: 00:24:14
+
+Claim: The host says an article states that Misiona Faumuina was a member of Adult Friends for Youth, which is run by Sid Rosen.
+
+Transcript Snippet: the brother was a member of this or part of this adult friends for youth which is run by Sid Rosen.
+
+Anchored Artifacts: A-2160.2
+Mentions: N-515, N-516, N-3
+Related Nodes: N-11403
+Tags: relevance:tangential
+Investigative Direction: Retrieve the article and any Hawaii nonprofit filings for Adult Friends for Youth.
+
+---
+
+**C-14749** Host Says Sid Rosen Is Connected to Egypt and Israel but Declines to Elaborate
+
+Claim Timestamp: 00:25:35
+
+Claim: The host says, in a conditional she does not pursue, that Sid Rosen is connected to Egypt and Israel.
+
+Transcript Snippet: That Sid Rosen character, if I told you he was connected to Egypt and Israel, you wouldn't even believe me, so I'll skip that portion.
+
+Anchored Artifacts: A-2160.2
+Mentions: N-516, N-3
+Related Nodes: N-11403
+Tags: relevance:tangential
+Investigative Direction: Ask the host for the basis of the Egypt and Israel connection and test it against public records on Rosen. (Stated by the host as a hypothetical she does not develop.)
+
+---
+
+**C-14750** Host Says Faumuina's Father Later Claimed the Gang Was Upset About His Brother's Mormon Mission
+
+Claim Timestamp: 00:25:35
+
+Claim: The host says that in later articles Faumuina's father claimed the gang was upset because his brother was going on a Mormon mission.
+
+Transcript Snippet: In later articles, Jennifer's father would claim that the the gang was upset because he was going on his Mormon mission.
+
+Anchored Artifacts: A-2160.1
+Mentions: N-514, N-515, N-3
+Related Nodes: N-11403
+Tags: relevance:tangential
+Investigative Direction: Locate the later articles and the father's quoted words.
+
+---
+
+**C-14751** Host Says Ward Members Denied Misiona Faumuina Was in a Gang While His Older Brother Did Not
+
+Claim Timestamp: 00:25:35
+
+Claim: The host says ward members spoke out denying that Misiona Faumuina was in a gang, while his older brother did not deny it and said he fell into trouble.
+
+Transcript Snippet: The ward members would speak out denying that he was in a gang, which is rather curious because his older brother is not denying it saying he fell into trouble, whatever.
+
+Anchored Artifacts: A-2160.1
+Mentions: N-515, N-514, N-3
+Related Nodes: N-11403
+Tags: relevance:tangential
+Investigative Direction: Retrieve the 1995 and later articles with the ward members' and brother's statements.
+
+---
+
+**C-14752** Host Says Courtney Love Called the Mormon Mafia an Extension of the Zionist Mafia
+
+Claim Timestamp: 00:26:25
+
+Claim: The host says Courtney Love, whom she connected with before Charlie Kirk died, kept telling her the Mormon mafia is an extension of the Zionist mafia.
+
+Transcript Snippet: She kept saying it is an extension of the Zionist mafia, the Mormon mafia.
+
+Anchored Artifacts: A-3341.1
+Mentions: N-257, N-1, N-3
+Related Nodes: N-10249
+Supports: C-1705
+Tags: relevance:tangential
+Investigative Direction: Review the host's messages with Courtney Love for the date and the exact words about the Mormon mafia.
+
+---
+
+**C-14753** Host Says Rereading Love's Messages She Thinks Love Knew What She Was Talking About
+
+Claim Timestamp: 00:26:25
+
+Claim: The host says she has now reread Courtney Love's messages and thinks Love knew exactly what she was talking about regarding the Mormon mafia.
+
+Transcript Snippet: And I go back now and I read those messages and I'm going, she knew exactly what she was talking about, I think.
+
+Anchored Artifacts: A-3341.1
+Mentions: N-257, N-3
+Related Nodes: N-10249
+Tags: relevance:context
+Investigative Direction: Ask the host to release the Love messages or describe which statements she means.
+
+---
+
+**C-14754** Host Says She Has Not Abandoned Her Sense That Israel Was Involved in the Assassination
+
+Claim Timestamp: 00:26:25
+
+Claim: The host says she has not abandoned her deep sense that Israel was involved in the assassination of Charlie Kirk.
+
+Transcript Snippet: I have not abandoned my deep sense that Israel was involved in the assassination of Charlie Kirk.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes:
+Tags: relevance:core
+Investigative Direction: Ask the host for the specific evidence tying Israel to the assassination; this is a stated belief. (A stated belief, not a finding.)
+
+---
+
+**C-14755** Host Says the Assassination Took Place in Mormon Territory and Promises Connections Tomorrow
+
+Claim Timestamp: 00:27:21
+
+Claim: The host says the assassination took place in Mormon territory, which makes it curious, and that she will thread together connections the next day.
+
+Transcript Snippet: But that the assassination took place in Mormon territory makes it curious.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10249, N-10094
+Tags: relevance:context
+Investigative Direction: Watch the next episode for the promised connections and test each against records.
+
+---
+
+**C-14756** Turek Says No CPR Was Done for Most of the Ride and Harpole Is Correct
+
+Claim Timestamp: 00:31:07
+
+Claim: Frank Turek says Brian Harpole is correct that most of the ride they were not doing CPR because they were trying to stop the bleeding, so no CPR was done during that time.
+
+Transcript Snippet: Brian is correct that most of the ride we weren't doing any CPR.
+
+Anchored Artifacts: A-2161.1
+Mentions: N-7, N-270
+Related Nodes: N-10737, N-10699
+Supports: C-4709
+Tags: relevance:core
+Investigative Direction: Obtain the unedited Shawn Ryan audio and compare with Harpole's sworn statements.
+
+---
+
+**C-14757** Turek Says He Tried CPR for 20 to 30 Seconds Near the End After Eight or Nine Minutes
+
+Claim Timestamp: 00:31:07
+
+Claim: Frank Turek says that at about eight or nine minutes into the ride Charlie was not breathing and had no heartbeat, so he tried to start his heart for 20 to 30 seconds at the very end.
+
+Transcript Snippet: We got to be nearing like 8 or 9 minutes, and he's not breathing, and there's no heartbeat.
+
+Anchored Artifacts: A-2161.1
+Mentions: N-7, N-1
+Related Nodes: N-10687, N-10737
+Supports: C-4708
+Tags: relevance:core
+Investigative Direction: Compare with the ambulance and hospital arrival times and the length of the ride in dispatch logs.
+
+---
+
+**C-14758** Turek Suggests Harpole Was Preoccupied as They Pulled Into the Parking Lot
+
+Claim Timestamp: 00:32:13
+
+Claim: Frank Turek says that as they pulled into the hospital parking lot Harpole may have been preoccupied or talking to someone else and did not see the CPR attempt, though he says maybe Harpole did.
+
+Transcript Snippet: Now, maybe as we're yanking and banking into the into the uh into the parking lot Brian was preoccupied thinking or talking to somebody else or whatever
+
+Anchored Artifacts: A-2161.1
+Mentions: N-7, N-270
+Related Nodes: N-10737
+Tags: relevance:core
+Investigative Direction: Compare Harpole's account of the last minute of the ride with Turek's.
+
+---
+
+**C-14759** Turek Says Harpole Has a Lawsuit Against the Host and Probably Cannot Talk About It
+
+Claim Timestamp: 00:32:13
+
+Claim: Frank Turek says Brian Harpole has a lawsuit against Candace Owens, so he does not think Harpole can talk about any of this, though someone could call him.
+
+Transcript Snippet: In fact, he's got a lawsuit against Candace Owens right now. So, I don't think he can even talk about any of this.
+
+Anchored Artifacts: A-2161.1
+Mentions: N-7, N-270, N-3
+Related Nodes: N-10651
+Tags: relevance:context
+Investigative Direction: Check the Harpole docket and any protective orders that would limit his public statements.
+
+---
+
+**C-14760** Host Says Harpole Told Them He Was Focused on Working the Whole Time
+
+Claim Timestamp: 00:34:10
+
+Claim: The host says Brian Harpole told her he just got to work the whole time, and that this was his number one focus.
+
+Transcript Snippet: He told us he just got to work the whole time. That was his number one focus.
+
+Anchored Artifacts: 
+Mentions: N-270, N-3
+Related Nodes: N-10699
+Supports: C-2968
+Tags: relevance:core
+Investigative Direction: Compare Harpole's interview and deposition statements about what he was doing in the car.
+
+---
+
+**C-14761** Host Says the Account Was That the Door Stayed Open Because Kirk's Legs Were Too Long
+
+Claim Timestamp: 00:34:10
+
+Claim: The host says the account was that the door was left open because Charlie's legs were too long, and that CPR requires the person to be lying flat.
+
+Transcript Snippet: because we were told the door was open because Charlie's legs were too long. You do have to have someone flat to conduct CPR.
+
+Anchored Artifacts: 
+Mentions: N-1, N-7, N-3
+Related Nodes: N-10687
+Supports: C-13071
+Tags: relevance:core
+Investigative Direction: Identify who first said the door was open because of Kirk's legs and compare with the layout of the vehicle seats.
+
+---
+
+**C-14762** Host Says Turek Spoke for Three Hours on the Shawn Ryan Show
+
+Claim Timestamp: 00:35:18
+
+Claim: The host says Frank Turek spoke for three hours on the Shawn Ryan Show.
+
+Transcript Snippet: You just spoke for 3 hours on the Shawn Ryan show.
+
+Anchored Artifacts: A-2161.1
+Mentions: N-7, N-228
+Related Nodes: N-10681
+Tags: relevance:context
+Investigative Direction: Check the Shawn Ryan Show episode length and date.
+
+---
+
+**C-14763** Host Says the Entire Turning Point Team Stayed in Salt Lake City
+
+Claim Timestamp: 00:36:05
+
+Claim: The host says the true version of events is that the entire Turning Point team stayed in Salt Lake City.
+
+Transcript Snippet: The entire Turning Point team stayed in Salt Lake City.
+
+Anchored Artifacts: A-2162.2
+Mentions: N-162
+Related Nodes: N-10732, N-10000
+Tags: relevance:core
+Investigative Direction: Obtain the TPUSA group booking, folio or expense records for September 10.
+
+---
+
+**C-14764** Interviewer Recalls Neff Said He Stayed at a Hotel in Orem and Left Once for Food
+
+Claim Timestamp: 00:36:05
+
+Claim: In the clip, the interviewer says that the first time they spoke, Blake Neff said he spent the night in Orem at a hotel and may have left the hotel once for food.
+
+Transcript Snippet: The first time I talked to you, you said you spent the night in Orem. You stayed at a hotel. You may have left the hotel once for food.
+
+Anchored Artifacts: A-2162.1
+Mentions: N-162
+Related Nodes: N-10732, N-10715
+Tags: relevance:core
+Investigative Direction: Obtain the first interview recording or notes and compare with the second.
+
+---
+
+**C-14765** Neff Says He Took the Orem Question to Mean Utah Versus Returning to Phoenix
+
+Claim Timestamp: 00:36:56
+
+Claim: Blake Neff says he interpreted the question as whether he stayed in Utah, as opposed to returning to Phoenix, where he lives.
+
+Transcript Snippet: I interpreted as, "Did you stay in Utah that night?" as opposed to returning to Phoenix, where I live.
+
+Anchored Artifacts: A-2162.2
+Mentions: N-162
+Related Nodes: N-10732
+Tags: relevance:core
+Investigative Direction: Compare with Neff's flight and return travel records for September 10 and 11.
+
+---
+
+**C-14766** Neff Says Everyone Stayed in Basically the Same Hotel, in Salt Lake He Thinks
+
+Claim Timestamp: 00:36:56
+
+Claim: Blake Neff says that to his knowledge everyone stayed in basically the same hotel and that he thinks it was in Salt Lake.
+
+Transcript Snippet: We were all in to my knowledge the basic the same hotel, and it was I think in Salt Lake.
+
+Anchored Artifacts: A-2162.2
+Mentions: N-162
+Related Nodes: N-10732
+Tags: relevance:core
+Investigative Direction: Get TPUSA's lodging list for the trip and the hotel's guest records through legal process.
+
+---
+
+**C-14767** Host Says the Salt Lake Stay Is Confirmed by Where the Team Bought Clothes, About 50 Miles Out
+
+Claim Timestamp: 00:36:56
+
+Claim: The host says that the team staying in Salt Lake, about 50 miles from where Charlie was in Orem and Provo, is confirmed by where they bought clothes, and that she does not understand why they stayed so far away.
+
+Transcript Snippet: that's confirmed on the basis of where they bought clothes
+
+Anchored Artifacts: A-2162.2
+Mentions: N-1, N-3
+Related Nodes: N-10732
+Tags: relevance:core
+Investigative Direction: Identify the clothing purchases (stores, times, cardholders) referred to by the host.
+
+---
+
+**C-14768** Host Says Neff Flew With Charlie but Did Not Go to the Event and Other Staff Also Flew Into Salt Lake
+
+Claim Timestamp: 00:38:14
+
+Claim: The host says Blake Neff flew with Charlie Kirk but did not go to the Utah event, and that other Turning Point staffers also flew into Salt Lake City without attending.
+
+Transcript Snippet: But he flew with Charlie, but we know that he didn't go, and other Turning Point staffers also flew into Salt Lake City.
+
+Anchored Artifacts: 
+Mentions: N-162, N-1, N-3
+Related Nodes: N-10732, N-10000
+Tags: relevance:core
+Investigative Direction: Obtain the flight manifest and TPUSA's travel list for September 9 and 10.
+
+---
+
+**C-14769** Host Floats That Salt Lake Was the Hub Because the Vice President Was Expected to Fly In
+
+Claim Timestamp: 00:38:14
+
+Claim: The host speculates that Salt Lake City was the hub because the team anticipated that the vice president would fly in and Salt Lake was nearer to where he would land.
+
+Transcript Snippet: Maybe it's because they were anticipating that um the vice president was going to fly in, and maybe that was nearer to where he was going to fly in.
+
+Anchored Artifacts: 
+Mentions: N-4, N-3
+Related Nodes: N-10732
+Tags: relevance:core
+Investigative Direction: Check the Vice President's September 10 and 11 schedule and Secret Service advance plans. (Speculation by the host.)
+
+---
+
+**C-14770** Host Asks Hotel Workers Who Saw the Turning Point Group to Email moretips@candaceowens.com
+
+Claim Timestamp: 00:38:14
+
+Claim: The host asks anyone who worked at a hotel and saw the scene of the Turning Point employees to send information to moretips@candaceowens.com.
+
+Transcript Snippet: Please send us something to moretips@candaceowens. com.
+
+Anchored Artifacts: A-3342.1
+Mentions: N-3
+Related Nodes: N-10732
+Tags: relevance:core
+Investigative Direction: Record the tip volume and whether a hotel is later identified. (DIA tip line request.)
+
+---
+
+**C-14771** Host Says the Feds' Hotel Is Known but Turning Point's Is Not and TPUSA Staff Do Not Know
+
+Claim Timestamp: 00:39:09
+
+Claim: The host says the hotel the feds stayed in is known but the hotel Turning Point USA stayed in is not, and that Turning Point staffers she contacted have no idea.
+
+Transcript Snippet: We definitely know what hotel the feds were staying at. We don't know what hotel Turning Point USA was staying at, and I have gone out to Turning Point staffers. They have no idea.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10732, N-10000
+Tags: relevance:core
+Investigative Direction: Obtain the FBI hotel booking records and TPUSA group lodging records.
+
+---
+
+**C-14772** Host Says Kolvet Fired the Person Under Him, Letting Her Confirm More of His Lies
+
+Claim Timestamp: 00:39:40
+
+Claim: The host says Andrew Kolvet fired the person who worked under him, and that this let her confirm even more lies Kolvet was telling the public.
+
+Transcript Snippet: we got a gift in the form of him firing the person who worked under him, so I was able to confirm even more lies that Andrew Kolvet was telling to the public.
+
+Anchored Artifacts: 
+Mentions: N-14, N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Identify the staffer, the date of the firing and the statements the host says were lies.
+
+---
+
+**C-14773** Host Says Kolvet Claims His Show Is Doing Great While Hers Is Crashing
+
+Claim Timestamp: 00:39:40
+
+Claim: The host says Andrew Kolvet is telling people that his show is doing great while hers is crashing and her metrics are down.
+
+Transcript Snippet: He's telling me that his show's doing great, my show's crashing. My metrics are down.
+
+Anchored Artifacts: 
+Mentions: N-14, N-3
+Related Nodes:
+Tags: relevance:context
+Investigative Direction: Compare public viewership figures for both shows over the same period.
+
+---
+
+**C-14774** Host Says No One Has Accused Andrew Kolvet or His Brother of Being at Fort Huachuca
+
+Claim Timestamp: 00:40:21
+
+Claim: The host says no one has ever accused Andrew Kolvet, or his brother, of being at Fort Huachuca, and that the brother responded to an obscure account.
+
+Transcript Snippet: No one has ever accused Andrew Kolvet as at being as being at Fort Huachuca. No one ever accused his brother.
+
+Anchored Artifacts: A-2163.1
+Mentions: N-14, N-696, N-3
+Related Nodes: N-10739
+Tags: relevance:core
+Investigative Direction: Find the account the Lt. Col. was replying to and what it claimed.
+
+---
+
+**C-14775** Lt. Col. Kolvet Says Two of His Three Days at Huachuca Were Travel Days for MP Training
+
+Claim Timestamp: 00:41:03
+
+Claim: Lieutenant Colonel Kolvet writes on X that two of his three days at Fort Huachuca were travel days, and that he was visiting his military police unit training with the base military police.
+
+Transcript Snippet: And two of those days were travel days as I visited my military police unit training with the base military police from Huachuca.
+
+Anchored Artifacts: A-2163.1
+Mentions: N-14, N-696
+Related Nodes: N-10739
+Tags: relevance:core
+Investigative Direction: Verify the unit, dates and orders for the trip through the Army or the National Guard.
+
+---
+
+**C-14776** Host Says Andrew Kolvet Replied That He Cannot Even Say Huachuca
+
+Claim Timestamp: 00:41:03
+
+Claim: The host says Andrew Kolvet chimed in on his brother's post saying he cannot even say the name and that people cannot pronounce it.
+
+Transcript Snippet: And then Andrew chimes in like, "Yeah, I can't even say it.
+
+Anchored Artifacts: A-3343.1
+Mentions: N-14, N-3
+Related Nodes: N-10739
+Tags: relevance:core
+Investigative Direction: Pull Andrew Kolvet's reply on X with its date.
+
+---
+
+**C-14777** Host Says She Believes Andrew Kolvet Has Heard of Fort Huachuca Given Where He Lives and Erika's Family
+
+Claim Timestamp: 00:41:49
+
+Claim: The host says she believes Andrew Kolvet has heard of Fort Huachuca given where he lives and what Erika's family does, and that she thinks he is lying about not knowing it.
+
+Transcript Snippet: I do think that Andrew has heard of Fort Huachuca. I do. Just by the nature of where he lives, by the nature of what Erika's family does
+
+Anchored Artifacts: A-3343.1
+Mentions: N-14, N-2, N-3
+Related Nodes: N-10739, N-10435
+Tags: relevance:core
+Investigative Direction: Check Kolvet's residence history and earlier public mentions of Fort Huachuca by him or the Frantzve family. (Host's inference, not a document.)
+
+---
+
+**C-14778** Host Says Fort Huachuca Is a Massive Intel Base Directing the Border Joint Task Force
+
+Claim Timestamp: 00:41:49
+
+Claim: The host says Fort Huachuca is a massive intelligence base that directs the joint task force at the border.
+
+Transcript Snippet: this massive intel base, uh which directs what's going on at the border, joint task force at the border since forever.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10739
+Tags: relevance:context
+Investigative Direction: Check the Army's description of Fort Huachuca's tenants and mission, including Joint Task Force Southern Border.
+
+---
+
+**C-14779** Host Says Her Team Found Who Told People He Was at Lunch With Ben Shapiro
+
+Claim Timestamp: 00:45:25
+
+Claim: The host says her team instantly found who had been telling people that he was at lunch with Ben Shapiro when he got the phone call, and that it opened a huge door that needs more research.
+
+Transcript Snippet: We instantly actually found out at least who went around and told people that he was at lunch with Ben Shapiro, and it opened >> >> a huge door
+
+Anchored Artifacts: 
+Mentions: N-97, N-3
+Related Nodes: N-10748
+Tags: relevance:core
+Investigative Direction: Wait for the promised identification this week and check it against the September 10 call timeline.
+
+---
+
+**C-14780** Host Says the Person Is Willing to Go on Record and She Will Name Him This Week
+
+Claim Timestamp: 00:46:11
+
+Claim: The host says the person who can speak to this was willing to come forward on record and that she will reveal the information before the week is out.
+
+Transcript Snippet: the person was willing to come forward on record and say that.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10748
+Tags: relevance:core
+Investigative Direction: Check the following episodes of this week for the promised disclosure.
+
+---
+
+**C-14781** Host Says Omaha Was One of the Egyptian Plane Stops
+
+Claim Timestamp: 00:46:11
+
+Claim: The host says Omaha, Nebraska was one of the stops of the Egyptian planes she has tracked.
+
+Transcript Snippet: Uh Omaha, Nebraska, one of our Egyptian plane stops.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10347, N-11094
+Tags: relevance:context
+Investigative Direction: Review the Egyptian aircraft flight logs for Omaha stops.
+
+---
+
+**C-14782** Host Describes the Franklin Scandal as a $40 Million Fraud With Abuse and Satanic Ritual Abuse Claims
+
+Claim Timestamp: 00:46:11
+
+Claim: The host describes the Franklin scandal in Omaha as a widely debated conspiracy theory involving a $40 million financial fraud, claims of abuse by high-ranking politicians and satanic ritual abuse.
+
+Transcript Snippet: the scandal involving a $40 million financial fraud uh claims of abuse by high-ranking politicians and satanic ritual abuse.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11404
+Tags: relevance:tangential
+Investigative Direction: Consult court records and the Nebraska legislative report on the Franklin Credit Union case.
+
+---
+
+**C-14783** Host Says Utah Has Cameras Statewide Yet No Clear Shot of Tyler Robinson
+
+Claim Timestamp: 00:48:01
+
+Claim: The host says Utah has cameras all across the state and yet no clear shot of Tyler Robinson has been produced, and that the shooter's track on the rooftop cannot be followed.
+
+Transcript Snippet: Utah has cameras all throughout the state and yet we just can't get a clear shot of Tyler Robinson for some reason.
+
+Anchored Artifacts: A-3344.1
+Mentions: N-40, N-3
+Related Nodes: N-11405, N-10257, N-10271
+Tags: relevance:core
+Investigative Direction: Request the camera inventory and retained footage for Utah County from Flock, UDOT and UVU.
+
+---
+
+**C-14784** Host Says There Is No Video of the Shot Being Taken and She Believes the Rooftop Man Never Took It
+
+Claim Timestamp: 00:48:01
+
+Claim: The host says no video can be found of the rooftop man taking the shot, and that she believes this is because he never took it, calling him another decoy.
+
+Transcript Snippet: we can't even get a video of him taking the shot. And that's I believe cuz he never took it.
+
+Anchored Artifacts: A-3344.1
+Mentions: N-3
+Related Nodes: N-11402
+Supports: C-12114
+Tags: relevance:core
+Investigative Direction: Check whether any recorded video or audio places the rooftop man at the moment of the shot. (Belief of the host, not a finding.)
+
+---
+
+**C-14785** Host Says She Agrees With O'Neill That It Looks Like an Explosion Under the Shirt
+
+Claim Timestamp: 00:48:43
+
+Claim: The host says she agrees with Robert O'Neill that it looks like an explosion went up under Kirk's shirt, and that O'Neill knows what a shot looks like up close.
+
+Transcript Snippet: And I agree with Robert O'Neill, it looks like an explosion went up a happened under his shirt.
+
+Anchored Artifacts: A-2153.1
+Mentions: N-156, N-1, N-3
+Related Nodes: N-10734
+Supports: C-3058
+Tags: relevance:core
+Investigative Direction: Commission an independent forensic analysis of the shirt motion in the published footage.
+
+---
+
+**C-14786** Host Says She Has a Deep Sense of Which TPUSA Person Will Claim to Have Seen Robinson
+
+Claim Timestamp: 00:49:37
+
+Claim: The host says she has a deep sense of who at Turning Point USA will come forward as a person who says they saw Tyler Robinson, and that she is waiting for the name to be released.
+
+Transcript Snippet: I have a deep sense of who that person is going to be at Turning Point USA who's going to say that they saw Tyler Robinson.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Monitor trial filings and witness lists for any TPUSA employee who claims to have seen Robinson before the shooting. (A prediction by the host.)
+
+---
+
+**C-14787** Host Says the Farnsworths Took Down the Cameras and Go Way Back
+
+Claim Timestamp: 00:49:37
+
+Claim: The host says the Farnsworth family, which she calls a big Mormon family, took down the cameras, and that they and others go way back.
+
+Transcript Snippet: Of course, Farnsworth's, big Mormon family, taking down the cameras.
+
+Anchored Artifacts: A-3344.2
+Mentions: N-3
+Related Nodes: N-10383, N-10346
+Tags: relevance:core
+Investigative Direction: Obtain records of who removed the cameras at the site and who authorized it.
+
+---
+
+**C-14788** Viewer Comment Says the Web Around the Tyler Bowyer Family Is Mormon and Host Calls It Generational
+
+Claim Timestamp: 00:49:37
+
+Claim: A viewer comment read by the host says the web connected to the Tyler Bowyer family, who are Mormons, is the through-line, and the host replies that it is generational.
+
+Transcript Snippet: Today I say it keeps coming back to the Mormons and the web connected to the Tyler Bowyer family, who are Mormons.
+
+Anchored Artifacts: A-3344.2
+Mentions: N-11, N-3
+Related Nodes: N-10249
+Tags: relevance:tangential
+Investigative Direction: Check public records on the Bowyer family's religious affiliation and organizations, and whether this matters to the case.
+
+---
+
+**C-14789** Host Says She Would Testify for the Prosecution or the Defense
+
+Claim Timestamp: 00:50:21
+
+Claim: The host says that, as she has said many times, she would testify for the prosecution or the defense because the truth is the truth.
+
+Transcript Snippet: I would testify for the prosecution or the defense cuz the truth is the truth.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40
+Related Nodes:
+Tags: relevance:context
+Investigative Direction: Watch the witness lists in the Robinson case for any subpoena to the host.
+
+---
+
+**C-14790** Host Says the Screwdriver Apparently Cannot Unscrew the Weapon Said to Have Been Fired
+
+Claim Timestamp: 00:51:15
+
+Claim: The host says the screwdriver apparently cannot even unscrew the weapon that officials say was fired.
+
+Transcript Snippet: The screwdriver that apparently can't even unscrew the weapon that they're saying was fired.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10090, N-11143
+Supports: C-1243
+Tags: relevance:core
+Investigative Direction: Test the recovered screwdriver against the rifle's fasteners.
+
+---
+
+**C-14791** Viewer Comment Says Erika Said We Do Not Know How Charlie Would Feel About the Iran War
+
+Claim Timestamp: 00:51:15
+
+Claim: A viewer comment read by the host says Erika Kirk said in a clip that we do not know how Charlie would feel about the Iran war, and the host says she saw the clip.
+
+Transcript Snippet: Have you seen the clip where Erika says we don't know how Charlie would feel about the Iran war?
+
+Anchored Artifacts: A-3344.3, A-3345.1
+Mentions: N-2, N-1, N-3
+Related Nodes: N-10539
+Tags: relevance:core
+Investigative Direction: Locate the clip, its date and the exact words Erika Kirk used.
+
+---
+
+**C-14792** Host Says Tucker, Weinstein and Kent Confirmed Charlie Fought Hard Behind the Scenes Against the Iran War
+
+Claim Timestamp: 00:51:15
+
+Claim: The host says Tucker Carlson, Bret Weinstein and Joe Kent have all confirmed that Charlie Kirk was fighting hard behind the scenes to stop the Iran war.
+
+Transcript Snippet: Tucker, Brett Weinstein, Joe Kent have all confirmed that he was fighting hard behind the scenes to stop it.
+
+Anchored Artifacts: 
+Mentions: N-22, N-598, N-213, N-1, N-3
+Related Nodes: N-10539, N-11128
+Supports: C-2526
+Tags: relevance:core
+Investigative Direction: Collect the specific statements by Carlson, Weinstein and Kent and their dates.
+
+---
+
+**C-14793** Host Says Erika Was Loyal to Bowyer, the Farnsworths and Her Mother While Married to Charlie
+
+Claim Timestamp: 00:52:08
+
+Claim: The host says she believes Erika Kirk had more loyalty to the people who brought her in, naming Tyler Bowyer, the Farnsworths and her mother, and served them while married to Charlie.
+
+Transcript Snippet: I believe she had more loyalty to people that brought her in. Tyler Bowyer and the Farnsworths and her mother, they go back.
+
+Anchored Artifacts: 
+Mentions: N-2, N-11, N-1, N-3
+Related Nodes: N-10383
+Tags: relevance:core
+Investigative Direction: Trace Erika Kirk's relationships and roles with Bowyer and the Farnsworths before and after the marriage. (Host's thesis.)
+
+---
+
+**C-14794** Host Says Erika Brought In People Charlie Hated and Said They Were His Friends
+
+Claim Timestamp: 00:52:08
+
+Claim: The host says Erika Kirk reversed Charlie's positions, brought in people he hated, and tried to lie and say they were his friends.
+
+Transcript Snippet: the bringing the people that he hated, trying to lie and say they were his friends.
+
+Anchored Artifacts: 
+Mentions: N-2, N-1, N-3
+Related Nodes:
+Tags: relevance:core
+Investigative Direction: List the individuals the host means and document Charlie Kirk's own statements about each.
+
+---
+
+**C-14795** Host Says the Pale of Settlement Emigrants Left Russia After Coordinating the Tsar's Assassination
+
+Claim Timestamp: 00:52:53
+
+Claim: The host says that, according to the book club chapter, the people who left the Pale of Settlement left Russia after they coordinated the assassination of the Tsar.
+
+Transcript Snippet: the people who left the Pale of Settlement, left Russia after they coordinated the assassination of the Tsar.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes:
+Tags: relevance:tangential
+Investigative Direction: Consult historians on the emigration from the Pale of Settlement and the 1881 assassination of Alexander II.
+
+---
+
+**C-14796** Host Says She Does Not Employ Anyone to Go After Critics or Team Up Behind the Scenes
+
+Claim Timestamp: 00:53:34
+
+Claim: The host says she does not employ anybody to go after critics and does not team up behind the scenes, and that she investigates what interests her.
+
+Transcript Snippet: who does not employ anybody to go after them at all. I don't team up behind the scenes, nothing.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes:
+Tags: relevance:context
+Investigative Direction: Compare with the host's staff and contractor disclosures.
+
+---
+
 ## 6. Meme Register
 
 **M-24** (meme) Yanking and Banking
@@ -851,13 +2850,222 @@ Confidence: high
 
 ---
 
+**M-1** (meme) Grieving Widow
+
+### Occurrence 1
+
+Video Timestamp: 00:07:42
+Speaker: N-3
+Quote: Bring on the grieving widow.
+Context: Host sarcastically says officials will just bring on the grieving widow while ignoring experts.
+Tags: grieving widow, sarcasm
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:52:08
+Speaker: N-3
+Quote: There's no way that any actually grieving widow would allow that.
+Context: Host says no actually grieving widow would reverse Charlie's positions and return to work.
+Tags: grieving widow, erika
+Confidence: high
+
+---
+
+**M-6** (meme) conspiracy theorist
+
+### Occurrence 1
+
+Video Timestamp: 00:10:43
+Speaker: N-3
+Quote: And we're called the conspiracy theorists for noticing these discrepancies and keeping track of them.
+Context: Host says people who track official discrepancies get called conspiracy theorists.
+Tags: conspiracy theorist
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:38:14
+Speaker: N-3
+Quote: Please send us something to moretips@candaceowens. com.
+Context: Host asks hotel workers who saw the Turning Point group to email tips.
+Tags: dia, tips, tip line
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:52:53
+Speaker: N-3
+Quote: Make him a sandwich.
+Context: Host plugs the book club chapter by naming her book while promoting the club.
+Tags: book club, merch
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:50:21
+Speaker: N-3
+Quote: Go, Max.
+Context: Host reads a viewer comment ending in the Go Max refrain.
+Tags: go max, viewer comment
+Confidence: high
+
+---
+
+**M-33** (meme) Just Asking Questions
+
+### Occurrence 1
+
+Video Timestamp: 00:03:29
+Speaker: N-156
+Quote: Yeah, I'm a I'm a SEAL Team 6 sniper. I'm asking a lot of questions.
+Context: O'Neill turns the mocking 'just asking questions' line on his critics.
+Tags: asking questions, o'neill
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:07:59
+Speaker: N-3
+Quote: I'd argue it's actually a full-time job to keep track of Fed slop, but somebody's got to do it.
+Context: Host says tracking official narratives is a full-time job.
+Tags: fed slop
+Confidence: high
+
+---
+
+**M-87** (meme) Military Bros
+
+### Occurrence 1
+
+Video Timestamp: 00:48:43
+Speaker: N-3
+Quote: these little boys that are on YouTube all day telling us what to believe.
+Context: Host mocks the veteran YouTubers who dismiss O'Neill's assessment.
+Tags: military bros, youtube
+Confidence: high
+
+---
+
+**M-107** (meme) Stop Anti-Candaceism
+
+### Occurrence 1
+
+Video Timestamp: 00:52:53
+Speaker: N-3
+Quote: Stop anti-Candacism. It is spreading rapidly.
+Context: Host plugs the Stand With Candace cup while parodying antisemitism rhetoric.
+Tags: merch, anti-candacism
+Confidence: high
+
+---
+
+**M-121** (meme) Decoy Boy
+
+### Occurrence 1
+
+Video Timestamp: 00:48:43
+Speaker: N-3
+Quote: He was another decoy boy that day.
+Context: Host calls the rooftop man another decoy boy.
+Tags: decoy boy
+Confidence: high
+
+---
+
+**M-147** (meme) Crash Out
+
+### Occurrence 1
+
+Video Timestamp: 00:39:40
+Speaker: N-3
+Quote: he's crashing out in a way that it's difficult
+Context: Host says Andrew Kolvet is crashing out on X.
+Tags: crash out, kolvet
+Confidence: high
+
+---
+
+**M-185** (meme) Amnesia
+
+### Occurrence 1
+
+Video Timestamp: 00:36:05
+Speaker: N-3
+Quote: everybody is somehow, I don't know, uh developing amnesia.
+Context: Host jokes that figures in the case are developing amnesia, starting with Blake Neff.
+Tags: amnesia, neff
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:39:09
+Speaker: N-3
+Quote: It's a random detail that's now interesting because Blake has developed amnesia.
+Context: Host says Neff's forgetfulness over the hotel makes the detail interesting.
+Tags: amnesia, neff
+Confidence: high
+
+---
+
+**M-186** (meme) Squishmallow
+
+### Occurrence 1
+
+Video Timestamp: 00:47:19
+Speaker: N-3
+Quote: Blake Neff acts like he lost his Squishmallow.
+Context: Host reads a viewer comment comparing Neff to a child who lost a Squishmallow.
+Tags: squishmallow, neff
+Confidence: high
+
+---
+
+**M-343** (meme) Frank Versus Frank
+
+### Occurrence 1
+
+Video Timestamp: 00:30:22
+Speaker: N-3
+Quote: Let's start with Frank Cheric versus Frank Cheric cuz that's my favorite UFC matchup.
+Context: Host frames Frank Turek's new account against his earlier one as a fight card.
+Tags: frank turek, running bit
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:47:19
+Speaker: N-3
+Quote: How mad Frank Church can get at Frank Church.
+Context: Host calls the Turek-versus-Turek anger a beat on the show after a viewer comment.
+Tags: frank turek, running bit
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty:** Spelling of "Faumuina" preserved as used by host; host acknowledges phonetic delivery (A-2160.1). "Sapena" likewise phonetic (A-2160.1).
-- **Name uncertainty:** Host uses both "Jennifer Faumina/Faumuina/Fahlman" interchangeably; spelling preserved with original spelling per protocol – flag noted.
+- **Name uncertainty:** Host uses both "Jennifer Faumuina/Faumuina/Fahlman" interchangeably; spelling preserved with original spelling per protocol – flag noted.
 - **Artifact verbally referenced but not shown:** The 2003 Hawaii basketball photo (A-2157.1), 2008 Weber State graduation record (A-2157.2), 2016 RNC article (A-2157.4), 2004 Provo PD article (A-2159.1), and 1995 Hawaii homicide articles (A-2160.1, A-2160.2) are described by the host and displayed on air but full text/transcription is not provided in the source transcript.
 - **Timestamp uncertainty:** The 2023 swearing-in date (A-2157.5) is given narratively but without precise day/month.
-- **Transcript ambiguity:** Reference to "Frank Cherik," "Frank Cheric," and "Frank Czernecki" in the host's commentary appear to be homophone spellings of "Frank Turek"; treated as the same person.
+- **Transcript ambiguity:** Reference to "Frank Turek," "Frank Cheric," and "Frank Turek" in the host's commentary appear to be homophone spellings of "Frank Turek"; treated as the same person.
 - **Claim failed admission test:** Host's framing of the Utah appointments as "getting the old gang back together" and the explicit framing of an "Israeli" or "Mormon mafia" connection – these are interpretive commentary, not artifact-backed claims, and are not inscribed.
 
 ---

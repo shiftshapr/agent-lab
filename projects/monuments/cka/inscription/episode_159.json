@@ -3648,7 +3648,7 @@
       "@id": "C-6392",
       "ref": "C-6392",
       "label": "Host says Andrew Kolvet worked with Chyros, Johnny Moore's company, before starting his own PR firm",
-      "claim": "The host says Johnny Moore is Andrew Kolvet's partner at the Chyros company, that Kolvet worked with Chyros before starting his own PR firm, and that TPUSA was taken on through Chyros, with Kolvet's email then at Chyros.",
+      "claim": "The host says Johnny Moore is Andrew Kolvet's partner at the Kairos Company, that Kolvet worked with Chyros before starting his own PR firm, and that TPUSA was taken on through Chyros, with Kolvet's email then at Chyros.",
       "anchored_artifacts": [
         "A-2469.1"
       ],
@@ -4287,7 +4287,7 @@
       "tags": [],
       "claim_timestamp": "00:34:39",
       "investigative_direction": "Check the episode's sources for the Mega mole story and the alleged Netanyahu-Clinton exchange.",
-      "transcript_snippet": "Bill Clinton set out to find until he got blackmailed by BB Netany and Yahoo who said we've got Monica Lewinsky um and you on tape",
+      "transcript_snippet": "Bill Clinton set out to find until he got blackmailed by BB Netanyahu who said we've got Monica Lewinsky um and you on tape",
       "mentions_person_refs": [
         "N-3",
         "N-36",
@@ -4776,7 +4776,7 @@
       "tags": [],
       "claim_timestamp": "01:00:00",
       "investigative_direction": "Find Erika's public statements on Israel and Netanyahu since September 2025 and reconcile with the Vanity Fair quotes about her earlier views.",
-      "transcript_snippet": "I don't have an opinion. I don't even think about BB Netany and Yahoo.",
+      "transcript_snippet": "I don't have an opinion. I don't even think about BB Netanyahu.",
       "mentions_person_refs": [
         "N-2",
         "N-36"
@@ -5078,7 +5078,7 @@
           "episode": 159,
           "video_timestamp": "00:34:39",
           "speaker_node_ref": "N-3",
-          "quote": "BB Netany and Yahoo who said we've got Monica Lewinsky",
+          "quote": "BB Netanyahu who said we've got Monica Lewinsky",
           "context": "Host's pun in the Mega Maga story.",
           "confidence": "high",
           "tags": [
@@ -5090,7 +5090,7 @@
           "episode": 159,
           "video_timestamp": "01:00:00",
           "speaker_node_ref": "N-3",
-          "quote": "I don't even think about BB Netany and Yahoo.",
+          "quote": "I don't even think about BB Netanyahu.",
           "context": "Host quotes Erika's Netanyahu line using the pun.",
           "confidence": "high",
           "tags": [

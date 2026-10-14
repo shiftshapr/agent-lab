@@ -177,7 +177,7 @@ Never goes down, goes, walks out of the bush. And I know that the police were lo
 
 [44:05]
 
-I think a lot of people have done videos on Astrid Tuminesz, the strange background story of Astred Tumz, the president of UVU. He didn't want to send me his number. I wanted to ask him basic questions. One of the questions I wanted to ask him was, "Hey, you are in a photo with this person in the maroon shirt from that day." He posted a photo with him and the guy in the moon shirt and he makes it clear that they both went to BYU, his friend. I would like to know who Samir's friend is on the left. That's who I'm looking for. You might recognize this individual. If you do, and again, we are not saying he's guilty of anything, but he might know if there was some activity in that bush, please email more tips@candice. com.
+I think a lot of people have done videos on Astrid Tuminesz, the strange background story of Astrid Tuminez, the president of UVU. He didn't want to send me his number. I wanted to ask him basic questions. One of the questions I wanted to ask him was, "Hey, you are in a photo with this person in the maroon shirt from that day." He posted a photo with him and the guy in the moon shirt and he makes it clear that they both went to BYU, his friend. I would like to know who Samir's friend is on the left. That's who I'm looking for. You might recognize this individual. If you do, and again, we are not saying he's guilty of anything, but he might know if there was some activity in that bush, please email more tips@candice. com.
 
 [44:51]
 

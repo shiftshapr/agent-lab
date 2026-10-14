@@ -12,11 +12,11 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-714, N-11006, N-11007
-  - Hole-minted Nodes (reintro-ep034): N-270, N-271, N-275, N-10267, N-10427, N-10496, N-10635, N-10645, N-10762
+  - Hole-minted Nodes (reintro-ep034): N-270, N-271, N-275, N-10267, N-10427, N-10496, N-10645, N-10762
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-4916–C-4974
   - New Nodes Introduced: N-10259, N-10260, N-10261, N-10262, N-10263
-  - Reused Nodes Appearing: N-2, N-36, N-46, N-61, N-69, N-192, N-213, N-228, N-765, N-10000, N-10011, N-10012, N-10014, N-10025, N-10043, N-10047, N-10052, N-10121, N-10129, N-10146, N-10165, N-10198, N-10204, N-10207, N-10208, N-10226, N-10246, N-10248, N-10253, N-10254, N-10256, N-333, N-10264, N-10662, N-715, N-10338, N-10355, N-10482, N-10549, N-10646, N-10343, N-10769
+  - Reused Nodes Appearing: N-2, N-36, N-46, N-61, N-69, N-192, N-213, N-228, N-765, N-10000, N-10011, N-10012, N-10014, N-10025, N-10043, N-10047, N-10052, N-10121, N-10129, N-10146, N-10165, N-10198, N-10204, N-10207, N-10208, N-10226, N-10246, N-10248, N-10253, N-10254, N-10256, N-333, N-10264, N-10662, N-715, N-10338, N-10355, N-10482, N-10549, N-10646, N-10343, N-10769, N-10635
   - (see registers)
 
 # Episode Analysis: Monument Episode 34
@@ -1669,7 +1669,7 @@ Claim Timestamp: 00:42:02
 
 Claim: The host says Benjamin Netanyahu is involved in the Calvary Chapel churches and that she will cover it the next day.
 
-Transcript Snippet: BB Netany and Yahoo is involved in the Calvary Chapel churches. We're going to get to that tomorrow.
+Transcript Snippet: BB Netanyahu is involved in the Calvary Chapel churches. We're going to get to that tomorrow.
 
 Anchored Artifacts: 
 Mentions: N-36, N-3
@@ -1942,7 +1942,7 @@ Confidence: high
 
 Video Timestamp: 00:42:02
 Speaker: N-3
-Quote: BB Netany and Yahoo is involved in the Calvary Chapel churches.
+Quote: BB Netanyahu is involved in the Calvary Chapel churches.
 Context: Host's pun on Netanyahu while linking him to Calvary Chapel.
 Tags: netanyahu, pun
 Confidence: high

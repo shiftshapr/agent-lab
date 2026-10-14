@@ -156,7 +156,7 @@ Obviously people are basically good and I still believe that people are basicall
 
 [25:26]
 
-That was told to me from Andrew Kolbatz. Okay? That's not some random conspiracy theorist. Uh it's the spokesperson for Turning Point USA. Yes, that's been confirmed by somebody in you know Andrew Kolbatz's personal orbit who said that when that happened Andrew said he lost money. But the million dollar question is in exchange for what? Yeah. What in exchange for what was Bibi Netanyahu going to take Turning Point USA to the next level? And I I don't I honestly don't know the answer. >> Mhm. I don't know the answer. I think some of the leaks inside of TPUSA I think they know the answer. Mhm. And maybe they're terrified to say it. Yeah, well you better bet because Charlie was alive and now he's not. So >> We are going to take a brief break and throw it to some sponsors. We'll be right back.
+That was told to me from Andrew Kolvet. Okay? That's not some random conspiracy theorist. Uh it's the spokesperson for Turning Point USA. Yes, that's been confirmed by somebody in you know Andrew Kolvet's personal orbit who said that when that happened Andrew said he lost money. But the million dollar question is in exchange for what? Yeah. What in exchange for what was Bibi Netanyahu going to take Turning Point USA to the next level? And I I don't I honestly don't know the answer. >> Mhm. I don't know the answer. I think some of the leaks inside of TPUSA I think they know the answer. Mhm. And maybe they're terrified to say it. Yeah, well you better bet because Charlie was alive and now he's not. So >> We are going to take a brief break and throw it to some sponsors. We'll be right back.
 
 [26:10]
 

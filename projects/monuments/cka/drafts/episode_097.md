@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-869, N-11258
-  - Hole-minted Nodes (reintro-ep097): N-438, N-10651, N-10695
+  - Hole-minted Nodes (reintro-ep097): N-10651, N-10695
   - Tip-minted Nodes (reintro-ep097): N-11137
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10354–C-10422
   - Tip-minted Nodes (reintro-ep097): N-793
-  - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-194, N-199, N-213, N-228, N-265, N-275, N-282, N-284, N-323, N-557, N-607, N-10012, N-10023, N-10083, N-10272, N-10341, N-10358, N-10373, N-10437, N-10546, N-10552, N-10641, N-10664, N-10681, N-10812, N-10840, N-10862, N-10899, N-10900, N-11001, N-11013, N-10650
+  - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-194, N-199, N-213, N-228, N-265, N-275, N-282, N-284, N-323, N-557, N-607, N-10012, N-10023, N-10083, N-10272, N-10341, N-10358, N-10373, N-10437, N-10546, N-10552, N-10641, N-10664, N-10681, N-10812, N-10840, N-10862, N-10899, N-10900, N-11001, N-11013, N-10650, N-438
  - New Nodes Introduced: N-10644, N-10648
  - Hole-minted Nodes (wave3): N-433, N-434
  - Reused Nodes Appearing: N-2, N-385, N-3, N-270
@@ -1986,7 +1986,7 @@ Claim Timestamp: 00:45:35
 
 Claim: The host says Erika Kirk colluded with Andrew Kolvet on the 'man of steel' statement and then flatly denied to the host's face that she did.
 
-Transcript Snippet: Colluding with Andrew Kolbatz on an absurd man of steel statement and then flatly denying to my face that she did that.
+Transcript Snippet: Colluding with Andrew Kolvet on an absurd man of steel statement and then flatly denying to my face that she did that.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
@@ -2083,7 +2083,7 @@ Claim Timestamp: 00:48:00
 
 Claim: The host says she told Erika Kirk that someone at Turning Point USA got a message to her saying she should look further into Andrew Kolvet.
 
-Transcript Snippet: someone at Turning Point USA got a message out to me. And that message was that I need to look further into Andrew Kolbatz.
+Transcript Snippet: someone at Turning Point USA got a message out to me. And that message was that I need to look further into Andrew Kolvet.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
@@ -2099,7 +2099,7 @@ Claim Timestamp: 00:48:52
 
 Claim: The host says the message urging her to look more into Andrew Kolvet came from Mikey McCoy via a third-party person, and not from Aubrey as Kolvet insinuates.
 
-Transcript Snippet: It was Mikey McCoy. Mikey McCoy got a message out to me uh via a third-party person that I should look more into Andrew Kolbatz.
+Transcript Snippet: It was Mikey McCoy. Mikey McCoy got a message out to me uh via a third-party person that I should look more into Andrew Kolvet.
 
 Anchored Artifacts: 
 Mentions: N-3, N-194, N-14, N-557

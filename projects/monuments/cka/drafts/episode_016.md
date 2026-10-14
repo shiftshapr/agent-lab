@@ -13,12 +13,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-911, N-11321
-  - Hole-minted Nodes (reintro-ep016): N-173, N-10176, N-10187, N-10206, N-10389, N-10424, N-10554, N-10598, N-10628, N-10641, N-10702, N-10735, N-10769
+  - Hole-minted Nodes (reintro-ep016): N-10176, N-10187, N-10206, N-10389, N-10424, N-10554, N-10598, N-10628, N-10641, N-10702, N-10735, N-10769
   - Tip-minted Nodes (reintro-ep016): N-873, N-11013, N-11158
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12061–C-12145
   - New Nodes Introduced: N-157, N-158, N-159, N-160, N-162, N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
-  - Reused Nodes Appearing: N-156, N-4, N-5, N-11, N-27, N-30, N-38, N-46, N-49, N-50, N-82, N-99, N-119, N-126, N-205, N-208, N-10013, N-10018, N-10019, N-10032, N-10034, N-10041, N-10043, N-10044, N-10051, N-10056, N-10077, N-10085, N-10107, N-10118, N-10126, N-10133, N-10139, N-10143, N-10148, N-10151, N-10167, N-10270, N-10406
+  - Reused Nodes Appearing: N-156, N-4, N-5, N-11, N-27, N-30, N-38, N-46, N-49, N-50, N-82, N-99, N-119, N-126, N-205, N-208, N-10013, N-10018, N-10019, N-10032, N-10034, N-10041, N-10043, N-10044, N-10051, N-10056, N-10077, N-10085, N-10107, N-10118, N-10126, N-10133, N-10139, N-10143, N-10148, N-10151, N-10167, N-10270, N-10406, N-173
 - **Episode Number:** Monument Episode 16 (Batch 6, Candace Ep 249)
 - **Channel / Creator:** @RealCandaceO (Candace Owens)
 - **Episode Date:** 2025-10-07

@@ -959,7 +959,7 @@
       "@type": "Topic",
       "@id": "N-10054",
       "ref": "N-10054",
-      "name": "Calira Engineering Valve Pattern",
+      "name": "Caldera Engineering Valve Pattern",
       "type": "topic",
       "description": "Host pattern-matches Steele family employer (valve manufacturer) to prior Pastnic family pipeline business.",
       "related_artifacts": [],
@@ -2790,8 +2790,8 @@
       "@type": "Claim",
       "@id": "C-11934",
       "ref": "C-11934",
-      "label": "Host Says the Steele Family Works for Calira Engineering, a Valve Maker",
-      "claim": "The host says the Steele family works for an engineering company she spells Calira or Calera Engineering, which she says ostensibly manufactures valves.",
+      "label": "Host Says the Steele Family Works for Caldera Engineering, a Valve Maker",
+      "claim": "The host says the Steele family works for an engineering company she spells Calira or Caldera Engineering, which she says ostensibly manufactures valves.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10054",
@@ -2802,7 +2802,7 @@
       ],
       "claim_timestamp": "00:15:41",
       "investigative_direction": "Confirm the company's exact name, products and employees, and whether the Steele family members are employed there.",
-      "transcript_snippet": "a place that makes uh called Calira Engineering. It's a company called Calera Engineering and ostensibly they manufacture valves.",
+      "transcript_snippet": "a place that makes uh called Caldera Engineering. It's a company called Caldera Engineering and ostensibly they manufacture valves.",
       "mentions_person_refs": [
         "N-73"
       ]

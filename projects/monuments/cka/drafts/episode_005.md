@@ -16,14 +16,14 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11317, N-11318
-  - Hole-minted Nodes (reintro-ep005): N-10070, N-10077, N-10089, N-10124, N-10134, N-10270, N-10456, N-10543
+  - Hole-minted Nodes (reintro-ep005): N-10070, N-10089, N-10124, N-10270, N-10543
   - Tip-minted Nodes (reintro-ep005): N-11099
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-11916–C-12000
   - Artifact Families Introduced: A-1111, A-1112, A-1113, A-1114, A-1115, A-1116, A-1117, A-1118, A-1119, A-2517
   - Claim Range: C-1186-C-1204, C-3726
-  - New Nodes Introduced: N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-79, N-80, N-81, N-82, N-10048, N-10049, N-10050, N-10051, N-10052, N-10053, N-10054, N-10055, N-10057, N-10058, N-10059, N-10060, N-10061, N-10063, N-10064
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-10000, N-10011, N-10012, N-10026, N-10027, N-54, N-10062, N-10056, N-5, N-39, N-41, N-43, N-46, N-50, N-10002, N-10003, N-10008, N-10016, N-10018, N-10019, N-10025, N-10032, N-10033, N-10036, N-10037, N-10042, N-10268, N-10898
+  - New Nodes Introduced: N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-79, N-80, N-81, N-10048, N-10049, N-10050, N-10051, N-10052, N-10053, N-10054, N-10055, N-10057, N-10058, N-10059, N-10060, N-10061, N-10063, N-10064
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-10000, N-10011, N-10012, N-10026, N-10027, N-54, N-10062, N-10056, N-5, N-39, N-41, N-43, N-46, N-50, N-10002, N-10003, N-10008, N-10016, N-10018, N-10019, N-10025, N-10032, N-10033, N-10036, N-10037, N-10042, N-10268, N-10898, N-82, N-10077, N-10134, N-10456
 
 ## 2. Executive Summary
 
@@ -452,7 +452,7 @@ Local-theory claim that Robinson was a decoy who dropped the gun at a chicken co
 
 ---
 
-**N-10054** Calira Engineering Valve Pattern
+**N-10054** Caldera Engineering Valve Pattern
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -1474,13 +1474,13 @@ Investigative Direction: Check county voter and property records for the occupan
 
 ---
 
-**C-11934** Host Says the Steele Family Works for Calira Engineering, a Valve Maker
+**C-11934** Host Says the Steele Family Works for Caldera Engineering, a Valve Maker
 
 Claim Timestamp: 00:15:41
 
-Claim: The host says the Steele family works for an engineering company she spells Calira or Calera Engineering, which she says ostensibly manufactures valves.
+Claim: The host says the Steele family works for an engineering company she spells Calira or Caldera Engineering, which she says ostensibly manufactures valves.
 
-Transcript Snippet: a place that makes uh called Calira Engineering. It's a company called Calera Engineering and ostensibly they manufacture valves.
+Transcript Snippet: a place that makes uh called Caldera Engineering. It's a company called Caldera Engineering and ostensibly they manufacture valves.
 
 Anchored Artifacts: 
 Mentions: N-73

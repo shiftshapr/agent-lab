@@ -1172,13 +1172,13 @@ Investigative Direction: Pull ADS-B Exchange and Flightradar24 history for SU-BT
 
 ---
 
-**C-12536** Host Says Wed Machmood on SUBTU Is the Same Name Later on the Yellow Plane on the Assassination Day
+**C-12536** Host Says Wed Mahmoud on SUBTU Is the Same Name Later on the Yellow Plane on the Assassination Day
 
 Claim Timestamp: 00:09:14
 
-Claim: The host says the Wed Machmood who was aboard SUBTU flying into Provo is the same name that will be on the yellow plane on the day of Charlie Kirk's assassination.
+Claim: The host says the Wed Mahmoud who was aboard SUBTU flying into Provo is the same name that will be on the yellow plane on the day of Charlie Kirk's assassination.
 
-Transcript Snippet: That's an important name because that's going to be the same Wed Makmoud that's going to be on our yellow plane on the day of Charlie Kirk's assassination.
+Transcript Snippet: That's an important name because that's going to be the same Wed Mahmoud that's going to be on our yellow plane on the day of Charlie Kirk's assassination.
 
 Anchored Artifacts: A-3214.1
 Mentions: N-309, N-1
@@ -2129,7 +2129,7 @@ Confidence: high
 - **A-1626.1** – *Artifact verbally referenced but not shown*: Host states "according to social blade and we have that somewhere so you can see that" without displaying Social Blade screenshot in the transcript.
 - **A-1624.1** – *Artifact verbally referenced but not shown*: Article about Harvest Christian Fellowship lawsuits is referenced as "here's an article which tells us" but the article itself is not displayed in the transcript.
 - **C-2094** – *Claim failed anchor test for this episode*: Plane SUBTU timeline claim references host's "master timeline" previously shown in earlier episodes; not artifact-anchored within this episode. Inscribed with low confidence and flag.
-- **N-309** Wed Mahmoud – *Name uncertainty*: Host spells name phonetically as "Wed Machmood / Wed Makmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
+- **N-309** Wed Mahmoud – *Name uncertainty*: Host spells name phonetically as "Wed Mahmoud / Wed Mahmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
 - **N-457** Paul Havsgaard – *Name uncertainty*: Host spells surname both as "Havsgaard" and "Havsgaard" within the same passage; flag for verification against court filings.
 - **N-808** Paul Vallely – *Name uncertainty*: Host spells name both as "Vali" and "Paul Vallely"; flag for verification.
 

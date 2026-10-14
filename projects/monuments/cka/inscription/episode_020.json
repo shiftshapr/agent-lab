@@ -2244,7 +2244,7 @@
       "ref": "N-11324",
       "name": "Raytheon",
       "type": "organization",
-      "description": "Defense contractor, transcribed \"Rathon\", that the host says everyone is somehow attached to.",
+      "description": "Defense contractor, transcribed \"Raytheon\", that the host says everyone is somehow attached to.",
       "related_artifacts": [],
       "related_claims": [
         "C-12197"
@@ -3836,8 +3836,8 @@
       "@type": "Claim",
       "@id": "C-12197",
       "ref": "C-12197",
-      "label": "Host Says Everyone, Including MrBeast, Is Attached to \"Rathon\"",
-      "claim": "The host says that when you look, everyone is somehow attached to what the transcript renders \"Rathon\", presumably Raytheon, naming MrBeast among them.",
+      "label": "Host Says Everyone, Including MrBeast, Is Attached to \"Raytheon\"",
+      "claim": "The host says that when you look, everyone is somehow attached to what the transcript renders \"Raytheon\", presumably Raytheon, naming MrBeast among them.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11324"
@@ -3847,7 +3847,7 @@
       ],
       "claim_timestamp": "00:27:52",
       "investigative_direction": "Ask the host which Raytheon connections she means and verify.",
-      "transcript_snippet": "everyone's somehow attached to&nbsp; Rathon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Rathon in one way or the other.",
+      "transcript_snippet": "everyone's somehow attached to&nbsp; Raytheon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Raytheon in one way or the other.",
       "mentions_person_refs": [
         "N-3",
         "N-915"

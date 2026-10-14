@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq112
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton): N-668, N-669, N-670, N-671, N-672, N-673, N-674, N-675, N-10955, N-10957, N-10958, N-10959, N-10960
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-9, N-14, N-15, N-99, N-162, N-182, N-213, N-281, N-282, N-439, N-456, N-551, N-587, N-599, N-614, N-629, N-633, N-634, N-665, N-10000, N-10008, N-10068, N-10083, N-10194, N-10350, N-10411, N-10496, N-10519, N-10541, N-10637, N-10700, N-10888, N-10899, N-10916, N-10923, N-667, N-10956
+  - Tip-minted Nodes (skeleton): N-668, N-669, N-670, N-671, N-672, N-674, N-675, N-10955, N-10957, N-10958, N-10959, N-10960
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-9, N-14, N-15, N-99, N-162, N-182, N-213, N-281, N-282, N-439, N-456, N-551, N-587, N-599, N-614, N-629, N-633, N-634, N-665, N-10000, N-10008, N-10068, N-10083, N-10194, N-10350, N-10411, N-10496, N-10519, N-10541, N-10637, N-10700, N-10888, N-10899, N-10916, N-10923, N-667, N-10956, N-673
   - Claim Range: C-4385–C-4433
   - (see registers)
 
@@ -1383,7 +1383,7 @@ Confidence: high
 
 Video Timestamp: 00:33:19
 Speaker: N-3
-Quote: I'm sure we're also referring to people like, you know, Jared Kushner and BB Netany and Yahoo.
+Quote: I'm sure we're also referring to people like, you know, Jared Kushner and BB Netanyahu.
 Context: Host riffs on Ivanka Trump's "masters" and "architects" line.
 Tags: netanyahu, pun, reuse
 Confidence: high

@@ -1498,9 +1498,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10054",
       "ref": "N-10054",
-      "name": "Calira Engineering Valve Pattern",
+      "name": "Caldera Engineering Valve Pattern",
       "type": "investigation_target",
-      "description": "Calira Engineering Valve Pattern; the witness's valve company.",
+      "description": "Caldera Engineering Valve Pattern; the witness's valve company.",
       "related_artifacts": [],
       "related_claims": [
         "C-10729"

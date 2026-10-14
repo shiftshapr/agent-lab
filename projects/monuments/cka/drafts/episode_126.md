@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 1ddb949014d21abea78d5fe7320464c1e305ba976511e526905ea0ce305924f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-827, N-828, N-11198, N-11199, N-11200, N-11201
+  - Tip-minted Nodes (supplement_2026-10c): N-827, N-828, N-11198, N-11200, N-11201
   - Hole-minted Nodes (reintro-ep126): N-10755
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8932–C-9006
-  - Reused Nodes Appearing: N-10724, N-10719, N-10723, N-10717, N-3, N-5, N-14, N-40, N-42, N-97, N-105, N-106, N-162, N-270, N-274, N-282, N-458, N-528, N-10000, N-10026, N-10032, N-10051, N-10053, N-10098, N-10099, N-10121, N-10314, N-10334, N-10343, N-10358, N-10381, N-10447, N-10588, N-10625, N-10657, N-10662, N-10712, N-10715, N-10716, N-10730, N-10850, N-10975, N-10987, N-11017, N-11065, N-10754, N-10722
+  - Reused Nodes Appearing: N-10724, N-10719, N-10723, N-10717, N-3, N-5, N-14, N-40, N-42, N-97, N-105, N-106, N-162, N-270, N-274, N-282, N-458, N-528, N-10000, N-10026, N-10032, N-10051, N-10053, N-10098, N-10099, N-10121, N-10314, N-10334, N-10343, N-10358, N-10381, N-10447, N-10588, N-10625, N-10657, N-10662, N-10712, N-10715, N-10716, N-10730, N-10850, N-10975, N-10987, N-11017, N-11065, N-10754, N-10722, N-11199
  - New Nodes Introduced: N-10718, N-10720, N-10721, N-10724
  - Reused Nodes Appearing: N-11, N-436
  - Hole-minted Nodes (wave3): N-510, N-511
@@ -339,7 +339,7 @@ Confidence Level: High
 
 **N-511** Jennifer Faumuina
 
-First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Filomena, Jennifer Felomina, Jennifer Faumina.
+First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Filomena, Jennifer Felomina, Jennifer Faumuina.
 
 *Related: C-3027, C-3028, A-2139.1, A-2139.2*
 

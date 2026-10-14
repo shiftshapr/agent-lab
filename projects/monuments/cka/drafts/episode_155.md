@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 62ace5f4c4f18929f51b3252c3a6d15650b04715f45dfdc7d6bfb067b8b9d7ce
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-908, N-909, N-910, N-11315, N-11316
+  - Tip-minted Nodes (supplement_2026-10e): N-908, N-910, N-11315, N-11316
   - Claim Range (supplement_2026-10e): C-11859–C-11915
-  - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-204, N-248, N-371, N-587, N-844, N-871, N-907, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168
+  - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-204, N-248, N-371, N-587, N-844, N-871, N-907, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168, N-909
  - New Nodes Introduced: N-10847, N-10848
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-575
 

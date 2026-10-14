@@ -67,7 +67,7 @@ That's our perspective and I'm going to stand by it. Let's keep it rolling. >> C
 
 [09:19]
 
->> She has raised suspicions about the head of our technical team because he took an SD card out of a camera. She has spread absurd claims that Tyler Bowyer, who we just had on the show, sexually abuses male interns. >> Okay, so yes, the SD card thing is unbelievably suspicious. It's not something that you would do. Neither would you just run up onto a grassy null and record yourself. Again, these are unusual actions. And rather than trying to pretend like it's normal to record a selfie video of yourself and to prematurely announce that somebody is dead, maybe you should answer why all of that took place because you guys told lies about verifiable lies about why that took place. Because don't forget, Andrew Kolvet sat next to you and said it was because people were stealing.
+>> She has raised suspicions about the head of our technical team because he took an SD card out of a camera. She has spread absurd claims that Tyler Bowyer, who we just had on the show, sexually abuses male interns. >> Okay, so yes, the SD card thing is unbelievably suspicious. It's not something that you would do. Neither would you just run up onto a grassy knoll and record yourself. Again, these are unusual actions. And rather than trying to pretend like it's normal to record a selfie video of yourself and to prematurely announce that somebody is dead, maybe you should answer why all of that took place because you guys told lies about verifiable lies about why that took place. Because don't forget, Andrew Kolvet sat next to you and said it was because people were stealing.
 
 [10:06]
 

@@ -440,6 +440,58 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3322",
+      "family_ref": "A-3322",
+      "bundle_name": "Netanyahu Iran Nuclear Warnings Montage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3322.1",
+          "ref": "A-3322.1",
+          "description": "Clip montage played by the host of Netanyahu-era warnings that Iran was close to a nuclear weapon",
+          "related_claims": [
+            "C-14396"
+          ],
+          "related_nodes": [
+            "N-36",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:12:33",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3323",
+      "family_ref": "A-3323",
+      "bundle_name": "Host Verbal Reference to X Audio Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3323.1",
+          "ref": "A-3323.1",
+          "description": "Host verbal reference to an X account's audio post that is not Erika, which the host says her team did not share (not shown)",
+          "related_claims": [
+            "C-14427"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:54",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -545,7 +597,19 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14394",
+        "C-14406",
+        "C-14407",
+        "C-14408",
+        "C-14409",
+        "C-14415",
+        "C-14416",
+        "C-14417",
+        "C-14418",
+        "C-14428",
+        "C-14449"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -561,7 +625,16 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14407",
+        "C-14411",
+        "C-14422",
+        "C-14425",
+        "C-14427",
+        "C-14428",
+        "C-14429",
+        "C-14443"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -577,7 +650,9 @@
       "type": "person",
       "description": "Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-2505"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -592,7 +667,20 @@
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14396",
+        "C-14401",
+        "C-14431",
+        "C-14432",
+        "C-14433",
+        "C-14436",
+        "C-14437",
+        "C-14438",
+        "C-14439",
+        "C-14440",
+        "C-14444",
+        "C-14448"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -625,7 +713,9 @@
       "type": "person",
       "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14398"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -657,7 +747,11 @@
       "type": "person",
       "description": "Host notes Theo Von episode released / >1M views; kids call him Uncle Theo.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14402",
+        "C-14403",
+        "C-14404"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -673,7 +767,19 @@
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14387",
+        "C-14388",
+        "C-14389",
+        "C-14390",
+        "C-14391",
+        "C-14392",
+        "C-14397",
+        "C-14398",
+        "C-14399",
+        "C-14408",
+        "C-14410"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -689,7 +795,9 @@
       "type": "person",
       "description": "Conservative commentator; named as defender of Alan Dershowitz.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14397"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -705,7 +813,11 @@
       "type": "person",
       "description": "Father of Sarah Huckabee Sanders; named by host as contextually relevant to Israel theme.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14438",
+        "C-14439",
+        "C-14447"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -753,13 +865,704 @@
       "type": "person",
       "description": "Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14411"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14386",
+        "C-14395",
+        "C-14396",
+        "C-14399",
+        "C-14400",
+        "C-14401",
+        "C-14405",
+        "C-14406",
+        "C-14407",
+        "C-14413",
+        "C-14419",
+        "C-14420",
+        "C-14421",
+        "C-14422",
+        "C-14424",
+        "C-14425",
+        "C-14426",
+        "C-14427",
+        "C-14428",
+        "C-14429",
+        "C-14437",
+        "C-14441",
+        "C-14442",
+        "C-14443",
+        "C-14444",
+        "C-14446",
+        "C-14447",
+        "C-14448",
+        "C-14449"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 29,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; the host plays his clip on Joe Kent and his Iran remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14386",
+        "C-14389",
+        "C-14390",
+        "C-14392",
+        "C-14393",
+        "C-14394",
+        "C-14404"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Named by the host in connection with the Family International and the Epstein files.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14426",
+        "C-14430"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host cites a staffer in his office.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14413"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "The host says Kelly faces the same pressure Kirk faced.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14406",
+        "C-14442",
+        "C-14443"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-68",
+      "ref": "N-68",
+      "name": "Skyler",
+      "type": "person",
+      "description": "Show staffer or associate the host asks about Netanyahu's reported location.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14440"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "FBI director; the host says he blocked a foreign-involvement inquiry and said there was no evidence of sex trafficking.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14408",
+        "C-14409",
+        "C-14410",
+        "C-14430"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Named by the host among those TPUSA presents as authorities.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14419"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Named by the host among those TPUSA presents as authorities.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14419"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "Named in the host's chart-position comparison.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14446"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-278",
+      "ref": "N-278",
+      "name": "Jonathan Pollard",
+      "type": "person",
+      "description": "Named by the host in her remark on Huckabee's support.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14447"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-333",
+      "ref": "N-333",
+      "name": "Tulsi Gabbard",
+      "type": "person",
+      "description": "Director of National Intelligence; the host says Kent worked in her office.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14410"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-560",
+      "ref": "N-560",
+      "name": "Carrie Prejean Bowler",
+      "type": "person",
+      "description": "Speaker at the Catholics for Catholics event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14400"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-590",
+      "ref": "N-590",
+      "name": "Renee Crossman",
+      "type": "person",
+      "description": "Erika Kirk's Romanian partner whose religious background the host is researching.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14422",
+        "C-14423"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-598",
+      "ref": "N-598",
+      "name": "Bret Weinstein",
+      "type": "person",
+      "description": "Named as Kirk's correspondent in the host's account of his messages.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14394"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-606",
+      "ref": "N-606",
+      "name": "Scott Bessent",
+      "type": "person",
+      "description": "Treasury Secretary pulled to the Situation Room.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14434"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization whose Arkansas chapter disaffiliated and whose staff the host cites.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14413",
+        "C-14421"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10023",
+      "ref": "N-10023",
+      "name": "Epstein Israeli Intelligence Asset Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Family International and Epstein remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14426"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10063",
+      "ref": "N-10063",
+      "name": "Gaza",
+      "type": "investigation_target",
+      "description": "Place the host cites in her account of harassment over the event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14405"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10202",
+      "ref": "N-10202",
+      "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's Patel claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14409"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Patel sex-trafficking remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14430"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10355",
+      "ref": "N-10355",
+      "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Patel and Kent claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14408",
+        "C-14409",
+        "C-14410"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10406",
+      "ref": "N-10406",
+      "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's remarks on Kelly.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14406",
+        "C-14442",
+        "C-14443"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10411",
+      "ref": "N-10411",
+      "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Harvest claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14429"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10533",
+      "ref": "N-10533",
+      "name": "Club America High School Pushback",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Sanders proclamation claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14411"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10534",
+      "ref": "N-10534",
+      "name": "Renee Crossman / United Hands Romania Cult Affiliation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's cult research claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14422",
+        "C-14423"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10539",
+      "ref": "N-10539",
+      "name": "Charlie Kirk Iran War Opposition (June 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the June 2025 turning point.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14390"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10541",
+      "ref": "N-10541",
+      "name": "Strait of Hormuz / US-Iran War Context",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Hormuz and India claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14386",
+        "C-14445"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10606",
+      "ref": "N-10606",
+      "name": "Trump Iran Arms Admission Context",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Boeing 757 cash claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14393"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10956",
+      "ref": "N-10956",
+      "name": "Catholics for Catholics",
+      "type": "investigation_target",
+      "description": "Organization hosting the March 19 event where the host will interview Kent.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14399",
+        "C-14400",
+        "C-14405"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11035",
+      "ref": "N-11035",
+      "name": "TPUSA Employee Purge and Leak Hunt",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's staff-firing claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14413",
+        "C-14421"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11228",
+      "ref": "N-11228",
+      "name": "Candace Podcast Ranking and Operations",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the chart claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14446"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11340",
+      "ref": "N-11340",
+      "name": "Harvest Christian Fellowship",
+      "type": "investigation_target",
+      "description": "Organization the host says is being sued over Romanian children.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14429"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-949",
+      "ref": "N-949",
+      "name": "Dino Fonte Grassi",
+      "type": "person",
+      "description": "First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrassi). President of the Turning Point USA University of Arkansas chapter who wrote the disaffiliation letter.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14412",
+        "C-14414",
+        "C-14415",
+        "C-14416",
+        "C-14418"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-950",
+      "ref": "N-950",
+      "name": "Shannon Kent",
+      "type": "person",
+      "description": "First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom the host says was killed by a suicide bomber in Syria in January 2019.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14387",
+        "C-14388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-951",
+      "ref": "N-951",
+      "name": "Johnny Yep",
+      "type": "person",
+      "description": "First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and Johnny Yep). Organizer of Catholics for Catholics, per the host's description of the event organizer and a web check of the event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14405"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11396",
+      "ref": "N-11396",
+      "name": "The Family International",
+      "type": "organization",
+      "description": "Religious group formerly called Children of God that the host says Renee Crossman belonged to and that she is researching.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14422",
+        "C-14423",
+        "C-14424",
+        "C-14425",
+        "C-14426"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -1316,7 +2119,1687 @@
         "N-1",
         "N-107"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14386",
+      "ref": "C-14386",
+      "label": "Host Says India Refused Trump's Request for Troops at Hormuz",
+      "claim": "The host says Trump went to India and asked it to send troops to keep the Strait of Hormuz open, and that India answered that it would not get involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10541"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:54",
+      "investigative_direction": "Check Indian government statements and press reports of any US request for naval or troop help in the Strait of Hormuz and India's reply.",
+      "transcript_snippet": "he went over there to like, \"Hey, can you guys send some troops to the Strait of Hormuz? Uh we got to keep that open.\" And India came back and said, \"Sorry, buddy, we're not getting involved.\"",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14387",
+      "ref": "C-14387",
+      "label": "Host Says Shannon Kent Was Killed by a Suicide Bomber in Syria in 2019",
+      "claim": "The host says Joe Kent's late wife, Shannon Kent, was killed by a suicide bomber while serving in Syria in January 2019 and was the first female combat death in Syria since combat operations against ISIS began.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10546"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:18",
+      "investigative_direction": "Check the Department of Defense casualty release and contemporaneous news reports on the January 2019 Manbij bombing for the date, cause and the 'first female' description.",
+      "transcript_snippet": "Shannon was the first female combat combat death in Syria uh since combat operations began against ISIS.",
+      "mentions_person_refs": [
+        "N-213",
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14388",
+      "ref": "C-14388",
+      "label": "Host Says Shannon Kent Was First Female Service Member Killed by Enemy Fire in Over 3 Years",
+      "claim": "The host says Shannon Kent was also the first female US service member killed by enemy fire in more than three years up to that point.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10546"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:10",
+      "investigative_direction": "Compare against DoD casualty lists of female service members killed by hostile fire from 2015 to 2019.",
+      "transcript_snippet": "she was also the first female US service member that was killed by enemy fire in more than 3 years up until that point.",
+      "mentions_person_refs": [
+        "N-213",
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14389",
+      "ref": "C-14389",
+      "label": "Kent Letter Says Israeli Officials and US Media Ran a Misinformation Campaign",
+      "claim": "Joe Kent's resignation letter, as read by the host, says early in the administration high-ranking Israeli officials and influential members of the American media deployed a misinformation campaign that undermined Trump's America First platform and encouraged war with Iran.",
+      "anchored_artifacts": [
+        "A-1861.1"
+      ],
+      "related_nodes": [
+        "N-10546"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:57",
+      "investigative_direction": "Ask Kent or his office to identify the officials and outlets meant, and compare with the published text of the letter.",
+      "transcript_snippet": "high-ranking Israeli officials and influential members of the American media deployed a misinformation campaign that wholly undermined your America first platform and sowed pro-war sentiments to encourage a war with Iran.",
+      "supports_claim_refs": [
+        "C-2496"
+      ],
+      "mentions_person_refs": [
+        "N-213",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14390",
+      "ref": "C-14390",
+      "label": "Kent Letter Says Trump Understood the Middle East Wars Were a Trap Until June 2025",
+      "claim": "The letter as read says that until June 2025 Trump understood that wars in the Middle East were a trap that cost American lives and wealth.",
+      "anchored_artifacts": [
+        "A-1861.1"
+      ],
+      "related_nodes": [
+        "N-10546",
+        "N-10539"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:57",
+      "investigative_direction": "Compare the letter's June 2025 turning point with the June 2025 strikes on Iran and Charlie Kirk's June 2025 opposition to the war.",
+      "transcript_snippet": "Until June of 2025, you understood that the wars in the Middle East were a trap that robbed America of the precious lives of our patriots and depleted the wealth and prosperity of our nation.",
+      "mentions_person_refs": [
+        "N-213",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14391",
+      "ref": "C-14391",
+      "label": "Kent Letter Says Israel Used the Same Tactic to Draw the US Into Iraq",
+      "claim": "The letter as read says the claim that Iran posed an imminent threat was a lie and the same tactic Israelis used to draw the US into the Iraq war.",
+      "anchored_artifacts": [
+        "A-1861.1"
+      ],
+      "related_nodes": [
+        "N-10546"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:58",
+      "investigative_direction": "Evaluate the letter's Iraq comparison against the 2002 to 2003 intelligence record and any Israeli government statements of that period.",
+      "transcript_snippet": "This was a lie and is the same tactic the Israelis used to draw us into the disastrous Iraq war that cost our nation the lives of thousands of our best men and women.",
+      "supports_claim_refs": [
+        "C-2495",
+        "C-2496"
+      ],
+      "mentions_person_refs": [
+        "N-213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14392",
+      "ref": "C-14392",
+      "label": "Trump Says He Is Glad Kent Is Out Because Kent Said Iran Was Not a Threat",
+      "claim": "In the clip Trump says that after reading Kent's statement he realized it is a good thing Kent is out, because Kent said Iran was not a threat.",
+      "anchored_artifacts": [
+        "A-1862.1"
+      ],
+      "related_nodes": [
+        "N-10546"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:42",
+      "investigative_direction": "Verify wording against the White House pool video of the same exchange.",
+      "transcript_snippet": "when I read his statement, I realized that it's a good thing that he's out because he said that Iran was not a threat.",
+      "supports_claim_refs": [
+        "C-2498"
+      ],
+      "mentions_person_refs": [
+        "N-5",
+        "N-213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14393",
+      "ref": "C-14393",
+      "label": "Trump Says Obama Flew Boeing 757s Loaded With Cash to Iran",
+      "claim": "In the clip Trump says the Obama administration sent two Boeing 757s loaded with hundreds of millions of dollars in cash to Iran, with the seats taken out, so much that no bank in Virginia, Maryland or DC had money left.",
+      "anchored_artifacts": [
+        "A-1862.1"
+      ],
+      "related_nodes": [
+        "N-10606"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:09:23",
+      "investigative_direction": "Compare with the documented 2016 US payments to Iran and Treasury and State Department records on the cash shipments.",
+      "transcript_snippet": "Hundreds of millions of dollars in a Boeing 757. I think there two of them. Loaded. They took the seats out and they put cash",
+      "mentions_person_refs": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14394",
+      "ref": "C-14394",
+      "label": "Host Says Charlie Described Yes-Men Around Leaders in Messages With Bret Weinstein",
+      "claim": "The host says Charlie Kirk intimated in messages with Bret Weinstein that people close to a leader create a hive mentality and tell him everything will be perfect.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:47",
+      "investigative_direction": "Obtain the Kirk and Weinstein messages and check whether they say what the host describes.",
+      "transcript_snippet": "Exactly what Charlie had intimated in those messages with Bret Weinstein.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-598",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14395",
+      "ref": "C-14395",
+      "label": "Host Says the US Is the Only Country to Have Dropped Nuclear Weapons",
+      "claim": "The host says the only country that has ever dropped nuclear weapons is the United States, which she says is the country that cites nuclear threats to justify invading others.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:11:47",
+      "investigative_direction": "Historical record (1945); recorded as said.",
+      "transcript_snippet": "The only country that has ever dropped nukes in the history of the world is us.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14396",
+      "ref": "C-14396",
+      "label": "Host Plays Netanyahu Clips Predicting Iran Was Close to a Bomb",
+      "claim": "The host plays a montage of Netanyahu-era warnings that Iran was months or years from a nuclear weapon, and says Iran has been said to be on the brink of nukes for three decades.",
+      "anchored_artifacts": [
+        "A-3322.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:33",
+      "investigative_direction": "Identify each speaker, date and source of the montage clips and compare the predicted timelines with later IAEA assessments.",
+      "transcript_snippet": "Always on the brink of nukes over the course of three decades they've been on the brink of nukes.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14397",
+      "ref": "C-14397",
+      "label": "Levin Calls Kent Part of a Radical Isolationist Woke Right Cabal",
+      "claim": "Mark Levin's post, as read by the host, calls Kent part of the radical isolationist woke right cabal and says left-wing media will use him to attack the president and the campaign against Iran.",
+      "anchored_artifacts": [
+        "A-1864.1"
+      ],
+      "related_nodes": [
+        "N-10546"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:29",
+      "investigative_direction": "Confirm exact wording against Levin's X account.",
+      "transcript_snippet": "He's part of the radical isolationist woke right cabal.",
+      "supports_claim_refs": [
+        "C-2501"
+      ],
+      "mentions_person_refs": [
+        "N-248",
+        "N-213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14398",
+      "ref": "C-14398",
+      "label": "Loomer Says She Would Fire Everyone and Punish Leakers",
+      "claim": "Laura Loomer's post, as read by the host, says she would fire everyone to teach them a lesson, punish everyone who leaks, and stop putting Democrats in the administration.",
+      "anchored_artifacts": [
+        "A-1865.1"
+      ],
+      "related_nodes": [
+        "N-10546"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:07",
+      "investigative_direction": "Confirm exact wording against Loomer's X account.",
+      "transcript_snippet": "I would fire everyone and teach them a lesson that they would never forget. Rule with an iron fist. Punish everyone who leaks and undermines you.",
+      "supports_claim_refs": [
+        "C-2503"
+      ],
+      "mentions_person_refs": [
+        "N-60",
+        "N-213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14399",
+      "ref": "C-14399",
+      "label": "Host Says Joe Kent Will Be Interviewed at Catholics for Catholics Thursday",
+      "claim": "The host says she will interview Joe Kent that Thursday at the Catholics for Catholics event in Washington, DC.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10956"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:53",
+      "investigative_direction": "Check the Catholics for Catholics program for the March 19, 2026 event and whether the interview took place.",
+      "transcript_snippet": "Joe Kent I'm going to be interviewing him this Thursday at the Catholics for Catholics event in DC.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14400",
+      "ref": "C-14400",
+      "label": "Host Says Event Is Not Anti-Zionist and Zionists Are Demanding Cancellations",
+      "claim": "The host says the Catholics for Catholics event is not an anti-Zionist conference and was never billed as one, with Carrie Prejean Bowler and the host speaking, and that critics have been emailing and calling to demand cancellations.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10956"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:18:37",
+      "investigative_direction": "Ask the organizers for the cancellation emails and calls received, and check the published event agenda.",
+      "transcript_snippet": "They have just been emailing everyone calling everybody asking for cancellations",
+      "mentions_person_refs": [
+        "N-560",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14401",
+      "ref": "C-14401",
+      "label": "Host Says Netanyahu Is Wanted by the ICC and Was Welcomed at the White House",
+      "claim": "The host says Netanyahu, whom she calls a war criminal wanted by the ICC, is greeted at the White House without objection.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:18:37",
+      "investigative_direction": "Check the ICC warrant record for Netanyahu and White House visit logs.",
+      "transcript_snippet": "will greet Bibi Netanyahu who is a literal war criminal wanted by the ICC in the White House",
+      "mentions_person_refs": [
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14402",
+      "ref": "C-14402",
+      "label": "Theo Von Says Israeli Leaders Show No Intent to Stop and No Care for Americans",
+      "claim": "In the clip Theo Von says he believes the attacks will come to America one day, that Israeli leaders have no intention of stopping, and that they have no care for the American people.",
+      "anchored_artifacts": [
+        "A-1868.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:20:55",
+      "investigative_direction": "Verify wording against the original Theo Von podcast episode.",
+      "transcript_snippet": "I believe that that will come here one day. I don't believe that uh that the Israeli leaders that they have any intention to to stop that.",
+      "mentions_person_refs": [
+        "N-149"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14403",
+      "ref": "C-14403",
+      "label": "Theo Von Says Children May Lose the Right to Speak Up by Law or Worse",
+      "claim": "In the clip Theo Von says that if people do not speak up now their children will not get the chance to, either by law or by worse.",
+      "anchored_artifacts": [
+        "A-1868.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:22:00",
+      "investigative_direction": "Verify wording against the original Theo Von podcast episode.",
+      "transcript_snippet": "I believe that if we don't speak up now that our children won't have the chance to speak up. Either by law or by worse.",
+      "mentions_person_refs": [
+        "N-149"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14404",
+      "ref": "C-14404",
+      "label": "Theo Von Says He Does Not Understand Why the US Is Beholden to Israel",
+      "claim": "In the clip Theo Von says he does not understand Trump's relationship with Israel or why the US is so beholden to an Israeli government he describes as obsessed with control.",
+      "anchored_artifacts": [
+        "A-1868.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:22:55",
+      "investigative_direction": "Verify wording against the original Theo Von podcast episode.",
+      "transcript_snippet": "why we are so beholden to these to this government this Israeli government that that just seems to be obsessed with uh control.",
+      "mentions_person_refs": [
+        "N-149",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14405",
+      "ref": "C-14405",
+      "label": "Host Says Catholics for Catholics Organizer Is Being Harassed Over the Event",
+      "claim": "The host says the organizer of Catholics for Catholics has been harassed because the event features someone who does not support what she calls mass murder in Gaza.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10956",
+        "N-10063"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:48",
+      "investigative_direction": "Ask Catholics for Catholics for the harassment communications it received and compare with the host's description.",
+      "transcript_snippet": "the pain that they have put him through, the harassment that they have gone through because you're not allowed to have an event if it's with somebody that doesn't support mass murder in Gaza.",
+      "mentions_person_refs": [
+        "N-951",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14406",
+      "ref": "C-14406",
+      "label": "Host Says Megyn Kelly Faces What Charlie Kirk Faced in the End",
+      "claim": "The host says Megyn Kelly's only apparent offense was telling the truth, and that what Kelly is going through now is what Charlie Kirk was going through at the end.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:37",
+      "investigative_direction": "Identify the specific campaign against Kelly the host means and compare with Kirk's reported Israel pressure in 2025.",
+      "transcript_snippet": "she simply told the truth that what she is going through right now is what Charlie was going through in the end.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14407",
+      "ref": "C-14407",
+      "label": "Host Says Erika Is at the Helm While TPUSA Reverses Charlie's Positions",
+      "claim": "The host says Charlie's wife Erika is at the helm of Turning Point USA while people recognize the organization reversing course on everything Charlie expressed that he believed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10545"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:26:27",
+      "investigative_direction": "Compare TPUSA's public positions since September 2025 with Kirk's documented statements on Israel, Iran and donors.",
+      "transcript_snippet": "Erika's at the helm of the company. Charlie's wife is at the helm of the company. Yet we are all recognizing that they are reversing course on everything that Charlie expressed that he believed.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14408",
+      "ref": "C-14408",
+      "label": "Host Says Joe Kent Bumped Heads With Kash Patel During the Kirk Investigation",
+      "claim": "The host says Joe Kent was one of the people who bumped heads with Kash Patel during the investigation into who killed Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10355"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:05",
+      "investigative_direction": "Compare with the New York Times reporting on Patel, Kent and Gabbard and ask Kent about the dispute on stage.",
+      "transcript_snippet": "Joe Kent was one of the people who bumped heads with Kash Patel during the investigation into who killed Charlie Kirk",
+      "supports_claim_refs": [
+        "C-1952"
+      ],
+      "mentions_person_refs": [
+        "N-213",
+        "N-69",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14409",
+      "ref": "C-14409",
+      "label": "Host Says Patel Blocked Any Inquiry Into Foreign Involvement",
+      "claim": "The host says Kash Patel blocked any investigation into whether foreign actors could have been involved in Charlie Kirk's killing, saying there was no evidence for that.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10202",
+        "N-10355"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:05",
+      "investigative_direction": "Obtain FBI and ODNI communications on any foreign-involvement tasking and Patel's public statements on foreign actors.",
+      "transcript_snippet": "Kash Patel blocked any investigation into whether or not foreign actors could have been involved.",
+      "supports_claim_refs": [
+        "C-1952"
+      ],
+      "mentions_person_refs": [
+        "N-69",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14410",
+      "ref": "C-14410",
+      "label": "Host Says a Foreign-Actor Inquiry Would Have Shifted Into Gabbard's Office",
+      "claim": "The host says investigating foreign involvement would have shifted the investigation into Tulsi Gabbard's office, where Joe Kent was working.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10355"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:05",
+      "investigative_direction": "Check ODNI and NCTC organizational reporting lines and whether either office was tasked on the Kirk case.",
+      "transcript_snippet": "Because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.",
+      "mentions_person_refs": [
+        "N-333",
+        "N-213",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14411",
+      "ref": "C-14411",
+      "label": "Host Says Sanders Signed the Proclamation on Behalf of Club America",
+      "claim": "The host says Sarah Huckabee Sanders signed the proclamation on behalf of Club America, which she describes as Turning Point USA's push into high schools, with Erika Kirk beside her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10533"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:29:49",
+      "investigative_direction": "Obtain the signed Arkansas proclamation and the governor's schedule for the event.",
+      "transcript_snippet": "Sarah Huckabee Sanders was signing the proclamation on behalf of Club America, uh which is Turning Point USA's incursion into high schools, buyer beware.",
+      "supports_claim_refs": [
+        "C-2457",
+        "C-2522"
+      ],
+      "mentions_person_refs": [
+        "N-588",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14412",
+      "ref": "C-14412",
+      "label": "Host Says Chapter President Has Been With TPUSA Over 5 Years",
+      "claim": "The host says the Arkansas chapter president, Dino Fonte Grassi, has been with Turning Point USA for more than five years.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10545"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:39",
+      "investigative_direction": "Check chapter records and Fonte Grassi's public history with TPUSA.",
+      "transcript_snippet": "he's been with Turning Point USA for more than 5 years.",
+      "mentions_person_refs": [
+        "N-949"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14413",
+      "ref": "C-14413",
+      "label": "Host Says TPUSA Staff Including One in Kolvet's Office Say Something Has Changed",
+      "claim": "The host says people working at Turning Point USA, including a person in Andrew Kolvet's office, are telling her something has changed and is not right.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11035"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:39",
+      "investigative_direction": "Identify the staffer through the host's source network; only confirmable through her sources.",
+      "transcript_snippet": "These are people like the person who's working at Andrew Kolvet's office who's telling you something has changed here and something is not right.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14414",
+      "ref": "C-14414",
+      "label": "Fonte Grassi Letter Says Grievances Will Be Raised Privately With TPUSA",
+      "claim": "The letter as read says the chapter has many grievances with Turning Point USA that it will make known to them in private, and shares only one.",
+      "anchored_artifacts": [
+        "A-1870.1"
+      ],
+      "related_nodes": [
+        "N-10545"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:20",
+      "investigative_direction": "Verify the text against Fonte Grassi's Instagram post and ask TPUSA whether it received the private grievances.",
+      "transcript_snippet": "we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one.",
+      "mentions_person_refs": [
+        "N-949"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14415",
+      "ref": "C-14415",
+      "label": "Fonte Grassi Letter Says Others Are Speaking for Charlie Who Cannot",
+      "claim": "The letter as read says Charlie Kirk cannot speak for himself anymore and the chapter does not recognize the way others have tried to speak for him.",
+      "anchored_artifacts": [
+        "A-1870.1"
+      ],
+      "related_nodes": [
+        "N-10545"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:20",
+      "investigative_direction": "Verify the text against Fonte Grassi's Instagram post.",
+      "transcript_snippet": "Charlie Kirk cannot speak for himself anymore and we do not recognize the way others have attempted to speak for him.",
+      "supports_claim_refs": [
+        "C-2510"
+      ],
+      "mentions_person_refs": [
+        "N-949",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14416",
+      "ref": "C-14416",
+      "label": "Host Says Kirk Held the July Sit-Down to Show Donors Students' Views",
+      "claim": "The host says Charlie Kirk's July sit-down with students was meant to get their opinion on Israel so he could show donors that the students should not be treated this way.",
+      "anchored_artifacts": [
+        "A-1871.1"
+      ],
+      "related_nodes": [
+        "N-10545"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:20",
+      "investigative_direction": "Identify the event, date and organizer of the July 2025 sit-down and any donor presentation that used it.",
+      "transcript_snippet": "He sort of just sat up with a bunch of students and tried to get their opinion to show donors like you can't treat these kids like this.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-949"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14417",
+      "ref": "C-14417",
+      "label": "Kirk in Clip Says Foreign Aid Is Insulting Given Cartels and Overdose Deaths",
+      "claim": "In the archival clip Kirk says it is insulting that money goes to any foreign country while the cartels and drug overdoses at the southern border are a huge problem at home.",
+      "anchored_artifacts": [
+        "A-1871.1"
+      ],
+      "related_nodes": [
+        "N-10545"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:22",
+      "investigative_direction": "Verify the quote and the dollar figures exchanged in the original recording.",
+      "transcript_snippet": "And it's insulting that that money goes anywhere else because we have such a huge problem here.",
+      "supports_claim_refs": [
+        "C-2523",
+        "C-2524"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14418",
+      "ref": "C-14418",
+      "label": "Host Says Fonte Grassi Appeared on the Charlie Kirk Show After the Assassination",
+      "claim": "The host says she believes Dino Fonte Grassi appeared on The Charlie Kirk Show after Kirk was assassinated.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10545"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:22",
+      "investigative_direction": "Check Charlie Kirk Show episode listings for Fonte Grassi after September 10, 2025.",
+      "transcript_snippet": "He was also on the Charlie Kirk show. I believe he was on it actually after Charlie Kirk assassinated.",
+      "mentions_person_refs": [
+        "N-949",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14419",
+      "ref": "C-14419",
+      "label": "Host Says TPUSA Will Not Help the Public Investigate Even on Non-Case-Changing Questions",
+      "claim": "The host says Blake Neff and Mikey McCoy are presented as authorities while TPUSA will not help the public investigate what happened that day, even on questions that would not change the ongoing investigation.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:04",
+      "investigative_direction": "List the specific questions put to TPUSA and its responses.",
+      "transcript_snippet": "so much so that we won't even help the public investigate what happened on that day. Things that in no way would transform the ongoing investigation.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14420",
+      "ref": "C-14420",
+      "label": "Host Says No One Can Explain Why Tapes Were Removed",
+      "claim": "The host says no one can explain to her why tapes were removed or why there are so many lies.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:04",
+      "investigative_direction": "Identify which tapes the host means (the transcript does not say) and compare with the camera and SD card removal claims in earlier episodes.",
+      "transcript_snippet": "No one can explain to me why these tapes were removed, why there's so many lies.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14421",
+      "ref": "C-14421",
+      "label": "Host Says Employees Are Fired for Asking Simple Questions",
+      "claim": "The host says TPUSA employees have been fired for asking simple questions such as why something feels weird.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11035"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:41",
+      "investigative_direction": "Identify the fired employees through the host's sources and obtain termination documents.",
+      "transcript_snippet": "these employees who are fired for even asking simple questions about, \"Hey, why does this feel weird?\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14422",
+      "ref": "C-14422",
+      "label": "Host Says Series Is Paused for Research Into Renee Crossman's Cult",
+      "claim": "The host says the Erika series is paused because she is deep in research on the cult that Renee Crossman, with whom Erika partnered in Romania, belonged to.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10534",
+        "N-11396"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:41",
+      "investigative_direction": "Review the Romanian reporting on Crossman and the host's resulting episodes.",
+      "transcript_snippet": "the reason why we need to pause the series is because learning about I'm in a deep research hole right now regarding that cult that Renee Crossman who Erika partnered with over in Romania was in.",
+      "supports_claim_refs": [
+        "C-2470"
+      ],
+      "mentions_person_refs": [
+        "N-590",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14423",
+      "ref": "C-14423",
+      "label": "Host Names the Cult as The Family International, Formerly Children of God",
+      "claim": "The host says the cult is The Family International, which was called Children of God before that.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11396",
+        "N-10534"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:41",
+      "investigative_direction": "Confirm the Family International and Children of God name history from independent sources.",
+      "transcript_snippet": "The Family International. Think like the Charles Manson, like The Family International and Child of Child of God, Children of God is what it was called called before that",
+      "supports_claim_refs": [
+        "C-2470"
+      ],
+      "mentions_person_refs": [
+        "N-590"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14424",
+      "ref": "C-14424",
+      "label": "Host Says She Has Contacted Ex-Family Members",
+      "claim": "The host says she has made contact with former members of the cult.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11396"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:41",
+      "investigative_direction": "Ask the host to identify the former members she spoke with, if willing.",
+      "transcript_snippet": "I have made contact with ex-family members and it's getting really interesting in terms of me just wanting to learn a bit more about this cult.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14425",
+      "ref": "C-14425",
+      "label": "Host Says Ex-Members Call It Plausible That Erika Was Raised in the Group",
+      "claim": "The host says former members told her it is plausible that Erika Kirk could have been raised in the group.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11396"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:37:47",
+      "investigative_direction": "Compare with any public record of Erika Kirk's upbringing; the claim is the former members' view relayed by the host.",
+      "transcript_snippet": "they had said it's plausible that Erika could have been raised in this",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14426",
+      "ref": "C-14426",
+      "label": "Host Says the Family International Rebranded and Is Connected to Epstein",
+      "claim": "The host says she did not know there was a connection between the Family, which rebranded as the Family International, and Epstein.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11396",
+        "N-10023"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:37:47",
+      "investigative_direction": "Look for documented links between the Family International and Epstein; none are shown on air.",
+      "transcript_snippet": "I didn't know that there was a connection between the family and or that's how they rebranded the Family International and Epstein.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14427",
+      "ref": "C-14427",
+      "label": "Host Says an X Account Shared Audio That Is Not Erika and Her Team Did Not Share It",
+      "claim": "The host says an X account shared audio of something that is not Erika and that her team did not share it, after which critics claimed the investigation was over.",
+      "anchored_artifacts": [
+        "A-3323.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:54",
+      "investigative_direction": "Identify the X account and the audio, and check whether the host's channel ever published it.",
+      "transcript_snippet": "And then there's an account on X that shares audio of something that's not Erika, which we did not share.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14428",
+      "ref": "C-14428",
+      "label": "Host Says She Sat Down With Erika and Found No Further Evidence",
+      "claim": "The host says she sat down with Erika Kirk, wondered whether TPUSA had more evidence about the day Charlie died, and found it did not.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:40:16",
+      "investigative_direction": "Compare with the full interview and the host's earlier accounts of the meeting.",
+      "transcript_snippet": "I sat down with her, okay? I actually sat down with her and I was like, \"Oh, maybe they do have more evidence.\" They don't.",
+      "supports_claim_refs": [
+        "C-11117"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14429",
+      "ref": "C-14429",
+      "label": "Host Says Erika Works With Harvest Church Being Sued Over Romanian Children",
+      "claim": "The host says Erika Kirk is working with Harvest Church, which she says is currently being sued for trafficking children from Romania.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11340",
+        "N-10411"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:41:07",
+      "investigative_direction": "Pull the lawsuit dockets against Harvest Christian Fellowship and Erika Kirk's Harvest event commitments.",
+      "transcript_snippet": "it's fine that Erika's working uh with Harvest Church and they're currently being sued for trafficking children from Romania.",
+      "supports_claim_refs": [
+        "C-2087",
+        "C-12566"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14430",
+      "ref": "C-14430",
+      "label": "Host Says Patel Said No Evidence of Any Sex Trafficking in the Epstein Matter",
+      "claim": "The host says Kash Patel has said there is no evidence of any sex trafficking, in the context of the Epstein files.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:43:59",
+      "investigative_direction": "Find Patel's actual statement on Epstein and sex trafficking evidence and compare wording.",
+      "transcript_snippet": "Kash Patel, \"No evidence of any sex trafficking.\"",
+      "mentions_person_refs": [
+        "N-69",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14431",
+      "ref": "C-14431",
+      "label": "Host Says Some People Think Netanyahu Might Be Dead",
+      "claim": "The host says some people think Netanyahu might be dead, that it is not verified, and that weird videos are going around.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:45:51",
+      "investigative_direction": "Check official Israeli government schedules and statements for the period.",
+      "transcript_snippet": "some people think BB Netanyahu might be dead. And it is not verified, but there's some weird videos going around.",
+      "mentions_person_refs": [
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14432",
+      "ref": "C-14432",
+      "label": "Host Says Netanyahu Made a Verified March 10 Health Command Center Visit",
+      "claim": "The host says Netanyahu made a verified visit to the National Health Command Center on March 10 and looked worn.",
+      "anchored_artifacts": [
+        "A-1872.1"
+      ],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:45:51",
+      "investigative_direction": "Match the clip against official Israeli government release of the March 10 visit.",
+      "transcript_snippet": "on March 10th, the BB had a very verified visit.",
+      "mentions_person_refs": [
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14433",
+      "ref": "C-14433",
+      "label": "Host Says a Rumor Had Netanyahu Hit by an Iranian Missile March 10 or 11",
+      "claim": "The host says a rumor circulated that Netanyahu was hit by an Iranian missile later on March 10 or on the 11th, and that this is not confirmed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:37",
+      "investigative_direction": "Trace the origin of the rumor and compare with Israeli military and government statements.",
+      "transcript_snippet": "there was a rumor that at some point later that day or on the 11th, the next day, that he got hit with an Iranian missile.",
+      "mentions_person_refs": [
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14434",
+      "ref": "C-14434",
+      "label": "Host Says Bessent Was Pulled Into a Two-Hour Situation Room Session on the 12th",
+      "claim": "The host says Bessent was pulled into a two-hour Situation Room session on March 12.",
+      "anchored_artifacts": [
+        "A-1873.1"
+      ],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:47:24",
+      "investigative_direction": "Check White House schedules for the Situation Room meeting length and attendees on March 12.",
+      "transcript_snippet": "Very strange two-hour situation room gets pulled in again that's on the 12th",
+      "supports_claim_refs": [
+        "C-2512"
+      ],
+      "mentions_person_refs": [
+        "N-606"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14435",
+      "ref": "C-14435",
+      "label": "Host Says Airports Closed for About 2 Hours 20 Minutes Citing a Potomac Odor",
+      "claim": "The host says the airports were told the shutdown was due to a strong odor coming from the Potomac River and lasted about two hours and twenty minutes before a circuit board explanation was given.",
+      "anchored_artifacts": [
+        "A-1874.1"
+      ],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:48:48",
+      "investigative_direction": "Check FAA ground stop logs and airport authority statements for the stated cause and duration.",
+      "transcript_snippet": "cuz there was a strong odor coming from the Potomac River. What? It was shut down for about two hours 20 minutes",
+      "supports_claim_refs": [
+        "C-2514",
+        "C-2515"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14436",
+      "ref": "C-14436",
+      "label": "Host Says People Saw Six Fingers in the March 14 Netanyahu Video",
+      "claim": "The host says that in the March 14 video some people thought they saw six fingers, which others dispute as a pocket, and she calls it finger gate.",
+      "anchored_artifacts": [
+        "A-1875.1"
+      ],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:48:48",
+      "investigative_direction": "Run frame-level forensic analysis of the posted video.",
+      "transcript_snippet": "people thought that they saw six fingers some people dispute that they think it's just a fat pocket",
+      "supports_claim_refs": [
+        "C-2516"
+      ],
+      "mentions_person_refs": [
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14437",
+      "ref": "C-14437",
+      "label": "Host Says She Thinks Netanyahu May Be Injured",
+      "claim": "The host says she does not know if Netanyahu is dead but thinks he may be injured and that the HD production may be hiding his face.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:51:08",
+      "investigative_direction": "Compare with verifiable public appearances of Netanyahu after March 11.",
+      "transcript_snippet": "I don't know if I think he's dead, but I think he's injured, maybe.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14438",
+      "ref": "C-14438",
+      "label": "Netanyahu in Huckabee Video Says He Erased Two Names on a Punch Card",
+      "claim": "In the video Netanyahu tells Mike Huckabee he erased two names on the punch cards that day and Huckabee's name is not on the card.",
+      "anchored_artifacts": [
+        "A-1876.1"
+      ],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:52:32",
+      "investigative_direction": "Check the original video from Netanyahu's account and the Hebrew and English captions.",
+      "transcript_snippet": "Today I erased two names on the punch cards and you see how many more to go on this batch.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14439",
+      "ref": "C-14439",
+      "label": "Huckabee in Video Says US Forces Are Wiping Out Iran's Leaders",
+      "claim": "In the video Mike Huckabee says the president and US forces are getting rid of lunatics who would build nuclear weapons and deliver them to every American city after wiping out Israel.",
+      "anchored_artifacts": [
+        "A-1876.1"
+      ],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:53:23",
+      "investigative_direction": "Verify wording against the original video.",
+      "transcript_snippet": "getting rid of these lunatics who would like to develop nuclear weapons and the means to deliver them to every American city after wiping out Israel.",
+      "mentions_person_refs": [
+        "N-277",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14440",
+      "ref": "C-14440",
+      "label": "Host Says Netanyahu Was Reportedly at an Air Force Base Greeting People",
+      "claim": "The host says, citing Skyler, that Netanyahu was at an Air Force base that day greeting people while the show was live.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10544"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:54:12",
+      "investigative_direction": "Check Israeli government releases for any air base visit on March 17.",
+      "transcript_snippet": "Where'd you say he was, Skyler? Like at the Air Force base today greeting people.",
+      "mentions_person_refs": [
+        "N-68",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14441",
+      "ref": "C-14441",
+      "label": "Host Says Bots Sent 3,000 Emails to a Catholic Conference and No Protesters Came",
+      "claim": "The host says that two years ago a different Catholic conference where she spoke received about 3,000 near-identical bought emails predicting protests, the venue raised security, and nobody showed up.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:58:40",
+      "investigative_direction": "Ask the conference organizers about the emails and security response.",
+      "transcript_snippet": "The venue was concerned and they up security. Not one person showed up.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14442",
+      "ref": "C-14442",
+      "label": "Host Says Megyn Kelly Would Be Stalked Wherever She Speaks",
+      "claim": "The host says that wherever Megyn Kelly wants to speak, critics will call people and stalk her across years.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:59:21",
+      "investigative_direction": "Identify specific calls or cancellations tied to Kelly events.",
+      "transcript_snippet": "Anywhere Megan wants to speak they will call people, they will make phone calls, they will they will stalk her across years.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14443",
+      "ref": "C-14443",
+      "label": "Host Says She and Megyn Kelly Disagree on Erika Kirk",
+      "claim": "The host says she and Megyn Kelly disagree on Erika Kirk and that she does not harass Kelly for it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:59:59",
+      "investigative_direction": "Compare with Kelly's public statements on Erika Kirk.",
+      "transcript_snippet": "Like Megan and I disagree as a point on Erika Kirk.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14444",
+      "ref": "C-14444",
+      "label": "Host Says She Painted Israelis With a Broad Stroke and Accepts the Correction",
+      "claim": "The host says a correspondent told her to be careful saying Israelis, and she accepts she can paint with a broad stroke when angry about what Netanyahu and the Likud party have done in Gaza.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:00:35",
+      "investigative_direction": "Recorded as said; no external check needed.",
+      "transcript_snippet": "Sometimes you just get so angry at like what Bibi Netanyahu has done and the Likud party has done in Gaza that I can kind of uh paint with a broad stroke",
+      "mentions_person_refs": [
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14445",
+      "ref": "C-14445",
+      "label": "Host Says Iran's Foreign Minister Said Hormuz Is Closed Only for Zionists",
+      "claim": "The host says she thinks Iran's foreign minister said the day before that the Strait of Hormuz is closed only for Zionists.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10541"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:00:35",
+      "investigative_direction": "Find the Iranian foreign ministry statement of March 16, 2026.",
+      "transcript_snippet": "I think it was the foreign minister of Iran said yesterday the Hormuz is only closed for Zionists."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14446",
+      "ref": "C-14446",
+      "label": "Host Says Her Podcast Is Tied for Top of Global Charts at 3.2 Million Daily Downloads",
+      "claim": "The host says her show is back at the top of the charts globally, in a three-way tie with Joe Rogan and the Kill Tony podcast, at 3.2 million audio downloads daily.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11228"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:01:37",
+      "investigative_direction": "Compare with Spotify, Apple and Podtrac chart data for mid-March 2026.",
+      "transcript_snippet": "I think I'm in a a three-way tie actually with uh, Joe Rogan and the Kill Tony podcast. 3.2 million uh, audio downloads daily.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14447",
+      "ref": "C-14447",
+      "label": "Host Says Huckabee Notoriously Supported Jonathan Pollard",
+      "claim": "The host says Mike Huckabee notoriously supported Jonathan Pollard, whom she calls a literal American spy, and that there may be serious material in blackmail files.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:02:47",
+      "investigative_direction": "Check Huckabee's public statements on Pollard; the blackmail remark is speculation recorded as said.",
+      "transcript_snippet": "he notoriously supported Jonathan Pollard who was a literal American spy.",
+      "mentions_person_refs": [
+        "N-277",
+        "N-278",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14448",
+      "ref": "C-14448",
+      "label": "Host Says Netanyahu Has Said Rome Is a Problem",
+      "claim": "The host says Netanyahu has said Rome is a problem, and that critics of Catholics dislike them because Catholics are less likely to bend to commands.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:07:51",
+      "investigative_direction": "Find the Netanyahu statement the host means; none is cited on air.",
+      "transcript_snippet": "BB has said that Rome is a problem. Like they don't like Catholics cuz we are less likely to bend to the command of",
+      "mentions_person_refs": [
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14449",
+      "ref": "C-14449",
+      "label": "Host Says Some Read Charlie Not Being Blessed as Punishment for Not Blessing Israel",
+      "claim": "The host says some people interpret a blessing verse to mean Charlie Kirk was not blessed because he did not keep blessing Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:08:45",
+      "investigative_direction": "Identify who has made this argument; the transcript names no speaker.",
+      "transcript_snippet": "them interpreting the verse as like, \"Oh, you know why Charlie wasn't blessed? Cuz he didn't stop blessing Israel.\"",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-33",
+      "ref": "M-33",
+      "canonical_term": "Just Asking Questions",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 80,
+          "video_timestamp": "00:15:07",
+          "speaker_node_ref": "N-3",
+          "quote": "he was one of the leakers inside of the inside of the administration. Just asking questions. Laura Loomer follows up, \"So disrespectful to Presiden...",
+          "context": "Later reuse of Just Asking Questions in CKA seq 80.",
+          "confidence": "high",
+          "tags": [
+            "epistemic",
+            "host_refrain",
+            "chat_elevate",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-45",
+      "ref": "M-45",
+      "canonical_term": "Spiritual Warfare",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 80,
+          "video_timestamp": "00:16:55",
+          "speaker_node_ref": "N-3",
+          "quote": "It is a spiritual war. We are fighting literal demons.",
+          "context": "Host frames the reaction to Joe Kent's resignation as spiritual warfare.",
+          "confidence": "high",
+          "tags": [
+            "spiritual_warfare",
+            "host_refrain"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 80,
+          "video_timestamp": "00:26:27",
+          "speaker_node_ref": "N-3",
+          "quote": "they know Christ is king, right?",
+          "context": "Host says critics grow more radical because they know Christ is king.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "faith"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 80,
+          "video_timestamp": "00:35:04",
+          "speaker_node_ref": "N-3",
+          "quote": "I am just getting so tired of all of these frauds out there that are like I said gaslighting us.",
+          "context": "Host accuses TPUSA defenders of gaslighting about what Charlie would have wanted.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "gaslight"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-160",
+      "ref": "M-160",
+      "canonical_term": "Everybody Grieves Differently World Tour",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 80,
+          "video_timestamp": "00:35:49",
+          "speaker_node_ref": "N-3",
+          "quote": "hit the hit the world tour and reverse everything that your husband said",
+          "context": "Host mocks Erika's post-assassination appearances as a world tour.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "erika",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 80,
+          "video_timestamp": "00:41:54",
+          "speaker_node_ref": "N-3",
+          "quote": "Look the other way. Everybody grieves differently.",
+          "context": "Host repeats the defenders' line sarcastically.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "erika",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-336",
+      "ref": "M-336",
+      "canonical_term": "Red Heifer War",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 80,
+          "video_timestamp": "00:01:54",
+          "speaker_node_ref": "N-3",
+          "quote": "we have some major updates regarding the red heifer war started by Trump. Just vibes, some red cows.",
+          "context": "Host's label for the Iran war while opening the Kent segment.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "iran"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-337",
+      "ref": "M-337",
+      "canonical_term": "Finger Gate",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 80,
+          "video_timestamp": "00:48:48",
+          "speaker_node_ref": "N-3",
+          "quote": "Then came finger gate essentially on the 14th",
+          "context": "Host names the six-fingers dispute over the March 14 Netanyahu video.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "netanyahu"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-338",
+      "ref": "M-338",
+      "canonical_term": "Benjamin Button",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 80,
+          "video_timestamp": "00:50:05",
+          "speaker_node_ref": "N-3",
+          "quote": "He went from Benjamin Netanyahu to Benjamin Button. Okay? He's going backwards.",
+          "context": "Host mocks Netanyahu's younger-looking March 15 video.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "netanyahu"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 80,
+          "video_timestamp": "00:56:56",
+          "speaker_node_ref": "N-3",
+          "quote": "Somebody in the comments said Benjamin Button Yahoo.",
+          "context": "Host reads a viewer pun on Netanyahu.",
+          "confidence": "high",
+          "tags": [
+            "viewer_comment",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-216",
+      "ref": "M-216",
+      "canonical_term": "I Told the Priest I Would Chill",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 80,
+          "video_timestamp": "00:56:56",
+          "speaker_node_ref": "N-3",
+          "quote": "I told my priest that I would chill. I didn't say when, though.",
+          "context": "Host reads the top comment that spawned the merch line and plugs the T-shirts.",
+          "confidence": "high",
+          "tags": [
+            "viewer_comment",
+            "merch",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 80,
+          "video_timestamp": "01:06:58",
+          "speaker_node_ref": "N-3",
+          "quote": "I received my T-shirt. I told my priest I would chill in my coffee mug",
+          "context": "Host reads a viewer comment about receiving the merch.",
+          "confidence": "high",
+          "tags": [
+            "viewer_comment",
+            "merch",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-339",
+      "ref": "M-339",
+      "canonical_term": "Owens Flare-Up",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 80,
+          "video_timestamp": "01:06:06",
+          "speaker_node_ref": "N-3",
+          "quote": "That is called an Owens temper.",
+          "context": "Host names her pattern of crashing out and then calming down.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "self_deprecation"
+          ]
+        },
+        {
+          "episode": 80,
+          "video_timestamp": "01:06:58",
+          "speaker_node_ref": "N-3",
+          "quote": "A little Owens flare-up.",
+          "context": "Host repeats the label after recalling her grandfather.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "self_deprecation"
+          ]
+        }
+      ]
+    }
+  ]
 }

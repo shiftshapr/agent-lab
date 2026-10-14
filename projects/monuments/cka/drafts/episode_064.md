@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-863, N-11243, N-11244
-  - Hole-minted Nodes (reintro-ep064): N-503, N-10561, N-10689
+  - Hole-minted Nodes (reintro-ep064): N-503, N-10689
   - Tip-minted Nodes (reintro-ep064): N-11000
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9913–C-10010
@@ -35,7 +35,7 @@
 - Artifact Families Introduced: A-1686, A-1687, A-1688, A-1689
 - Claim Range: C-2206–C-2224
   - New Nodes Introduced: N-502, N-10448, N-10449, N-10450
-  - Reused Nodes Appearing: N-10447, N-10446, N-14, N-22, N-36, N-97, N-199, N-205, N-225, N-235, N-366, N-476, N-499, N-10000, N-10027, N-10074, N-10238, N-10341, N-10342, N-10346, N-10416, N-10439, N-10452, N-10492, N-10548, N-10560, N-10899, N-10900, N-11014, N-11084, N-11092, N-11116, N-11180, N-11191, N-10554, N-11182
+  - Reused Nodes Appearing: N-10447, N-10446, N-14, N-22, N-36, N-97, N-199, N-205, N-225, N-235, N-366, N-476, N-499, N-10000, N-10027, N-10074, N-10238, N-10341, N-10342, N-10346, N-10416, N-10439, N-10452, N-10492, N-10548, N-10560, N-10899, N-10900, N-11014, N-11084, N-11092, N-11116, N-11180, N-11191, N-10554, N-11182, N-10561
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-265 (Terrell Farnsworth)
 
 ## 6. Meme Register

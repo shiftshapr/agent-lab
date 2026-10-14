@@ -2491,7 +2491,7 @@ Claim Timestamp: 01:16:57
 
 Claim: The host says Diligent Dennison went and spoke to the waiter in Penguitch and that more was going to come out about it.
 
-Transcript Snippet: Diligent Dennison went and spoke to the waiter uh down at in Penguish. More was going to be coming out about that.
+Transcript Snippet: Diligent Dennison went and spoke to the waiter uh down at in Panguitch. More was going to be coming out about that.
 
 Anchored Artifacts: 
 Mentions: N-3, N-370

@@ -12,10 +12,10 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-814, N-815, N-816, N-11189, N-11190
-  - Hole-minted Nodes (reintro-ep082): N-217, N-10621, N-10649, N-10701, N-10866
-  - Tip-minted Nodes (reintro-ep082): N-697, N-11149
+  - Hole-minted Nodes (reintro-ep082): N-217, N-10621, N-10649, N-10866
+  - Tip-minted Nodes (reintro-ep082): N-11149
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-221, N-502, N-557, N-10094, N-10149, N-10324, N-10337, N-10355, N-10360, N-10386, N-10387, N-10546, N-10548, N-10551, N-11012, N-10554
+  - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-221, N-502, N-557, N-10094, N-10149, N-10324, N-10337, N-10355, N-10360, N-10386, N-10387, N-10546, N-10548, N-10551, N-11012, N-10554, N-697, N-10701
   - Claim Range (supplement_2026-10c): C-8505–C-8562
  - (see registers)
 
@@ -1520,7 +1520,7 @@ Claim Timestamp: 00:40:05
 
 Claim: The host says she does not buy the alleged passenger list and that there is enough evidence to suggest Andrew Kolvet flew alone on Charlie Kirk's plane.
 
-Transcript Snippet: enough evidence to at least suggest um suggest that Andrew Colvert flew on that plane alone
+Transcript Snippet: enough evidence to at least suggest um suggest that Andrew Kolvet flew on that plane alone
 
 Anchored Artifacts: A-2943.1
 Mentions: N-3, N-14, N-1, N-2

@@ -270,7 +270,7 @@ The host says he recalled and confirmed Tucker Carlson's account of the dinner w
 
 **N-36** Benjamin Netanyahu
 
-Transcript spellings "BB Netanyahu" and "BB Netany and Yahoo". Gave Trump a golden pager; said to have called during the Hamptons dinner.
+Transcript spellings "BB Netanyahu" and "BB Netanyahu". Gave Trump a golden pager; said to have called during the Hamptons dinner.
 
 *Related: C-4566, C-4585*
 
@@ -1264,7 +1264,7 @@ Claim Timestamp: 00:41:09
 
 Claim: The host says that after the dinner with Tucker Carlson, Erika Kirk went with Charlie to the Hamptons and sat across from Bill Ackman at a dinner when Benjamin Netanyahu called.
 
-Transcript Snippet: She goes with him to the Hamptons and sits across uh from Bill Ackman at a dinner when BB Netany and Yahoo is called.
+Transcript Snippet: She goes with him to the Hamptons and sits across uh from Bill Ackman at a dinner when BB Netanyahu is called.
 
 Anchored Artifacts:
 Mentions: N-2, N-37, N-36, N-1
@@ -1526,7 +1526,7 @@ Confidence: high
 
 Video Timestamp: 00:41:09
 Speaker: N-3
-Quote: sits across uh from Bill Ackman at a dinner when BB Netany and Yahoo is called.
+Quote: sits across uh from Bill Ackman at a dinner when BB Netanyahu is called.
 Context: Host recounts the Hamptons dinner.
 Tags: netanyahu, wordplay, reuse
 Confidence: high

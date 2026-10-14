@@ -173,7 +173,7 @@ Um Justin Streiff is going to come back and say, "Confirm or deny what?" And she
 
 [28:38]
 
-Um and there is curiously again going to be no response from Andrew uh until 4:25 p. m. Mountain Utah time. And when he finally replies, he again is going to have another excuse. He's going to say, "Curiously, my internet just came back on." My internet just came back on. Okay. So, we have a 2-hour window, and then we have this hour window in which Andrew Colvert is unavailable to do the most important thing on the most important job in each each instance, he doesn't have internet. What goes on in Santa Barbara? No internet in Santa Barbara. It's very strange. So, now I'm going to place all of this on a calendar, and Skyler, just shout me out when you have that second part in my ear of the message. I'm going to place this on a calendar so that you guys can see all the moving pieces here, okay?
+Um and there is curiously again going to be no response from Andrew uh until 4:25 p. m. Mountain Utah time. And when he finally replies, he again is going to have another excuse. He's going to say, "Curiously, my internet just came back on." My internet just came back on. Okay. So, we have a 2-hour window, and then we have this hour window in which Andrew Kolvet is unavailable to do the most important thing on the most important job in each each instance, he doesn't have internet. What goes on in Santa Barbara? No internet in Santa Barbara. It's very strange. So, now I'm going to place all of this on a calendar, and Skyler, just shout me out when you have that second part in my ear of the message. I'm going to place this on a calendar so that you guys can see all the moving pieces here, okay?
 
 [29:39]
 
@@ -181,7 +181,7 @@ Uh and I'm also going to add some Egyptian planes that were transponding here, c
 
 [30:21]
 
-And you guys can screenshot this so that you have it, okay? First, there's that early morning that Egyptian plane is going to transpond from 10:05 a. m. to 11:34 a. m. This is all Utah Mountain Standard Time, guys, okay? Then we have Charlie. Then we have these blocks in which Andrew Colvert is unavailable. Okay? Those blue blocks are Andrew Colvin being unavailable according to his own chain in his own chain and when he responds and says that the message is just loading, that's that second block in which we have the Egyptian plane transponding in purple. And during that time is also Charlie's flight uh from Charlie's plane, pardon me, from Scottsdale to Provo. Okay? So, you can just again screenshot this. You can see it. It's like, "Okay, um I Andrew's not available. Can you please drop us in?" This is all happening at a time where he should be here.
+And you guys can screenshot this so that you have it, okay? First, there's that early morning that Egyptian plane is going to transpond from 10:05 a. m. to 11:34 a. m. This is all Utah Mountain Standard Time, guys, okay? Then we have Charlie. Then we have these blocks in which Andrew Kolvet is unavailable. Okay? Those blue blocks are Andrew Colvin being unavailable according to his own chain in his own chain and when he responds and says that the message is just loading, that's that second block in which we have the Egyptian plane transponding in purple. And during that time is also Charlie's flight uh from Charlie's plane, pardon me, from Scottsdale to Provo. Okay? So, you can just again screenshot this. You can see it. It's like, "Okay, um I Andrew's not available. Can you please drop us in?" This is all happening at a time where he should be here.
 
 [31:14]
 

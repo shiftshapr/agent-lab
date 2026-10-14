@@ -11,8 +11,13 @@
 - **Transcript SHA-256**: ec70297e4ea4475efe0ea007480a67fe4d47488724c965ac8c0dee4be928d6a0
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10g): N-11387, N-11388
+  - Hole-minted Nodes (reintro-ep059): N-10694
+  - Tip-minted Nodes (reintro-ep059): N-11038, N-11122
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10g): C-14173–C-14237
   - New Nodes Introduced: N-476, N-477, N-479, N-480, N-481, N-10425, N-10426, N-10429
-  - Reused Nodes Appearing: N-10427, N-10428, N-478
+  - Reused Nodes Appearing: N-10427, N-10428, N-478, N-82, N-221, N-228, N-334, N-366, N-493, N-715, N-10000, N-10012, N-10367, N-10401, N-10421, N-10422, N-10899, N-11166
   - (see registers)
 
 ---
@@ -52,7 +57,7 @@ This episode presents three principal evidentiary threads: (1) biographical mate
 
 A social media post from a self-identified childhood friend of Dan Flood is read aloud and provides artifact support for several biographical claims about Dan Flood's Texas origins, current New Braunfels residence, and prior security work at the Cattleman's Ball. A 2018 interview by Bobby Harpole is quoted directly to establish his law enforcement history.
 
-The episode also surfaces a Fox News reference (Israel to honor Charlie Kirk) and a Cornerstone Chapel video announcement featuring Pastor Gary Ham, Rob McCoy, and Samuel Smaja. Several viewer comments read aloud are preserved as artifacts per protocol.
+The episode also surfaces a Fox News reference (Israel to honor Charlie Kirk) and a Cornerstone Chapel video announcement featuring Pastor Gary Hamrick, Rob McCoy, and Samuel Smaja. Several viewer comments read aloud are preserved as artifacts per protocol.
 
 The structural importance of this episode is the introduction of the Flood-family investigative cluster and the public release of the TPUSA cease-and-desist letter, which simultaneously creates the drone-story discrepancy as an inscriptable target.
 
@@ -224,7 +229,7 @@ Confidence Level: High
 
 **A-1651** Cornerstone Chapel Announcement Bundle
 
-**A-1651.1** Pastor Gary Ham video announcement for a Cornerstone Chapel Wednesday night service on January 21, identifying the topic as antisemitism, listing Candace Owens and Tucker Carlson, and naming Rob McCoy and Samuel Smaja as guests
+**A-1651.1** Pastor Gary Hamrick video announcement for a Cornerstone Chapel Wednesday night service on January 21, identifying the topic as antisemitism, listing Candace Owens and Tucker Carlson, and naming Rob McCoy and Samuel Smaja as guests
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -272,7 +277,7 @@ Confidence Level: Low (viewer opinion)
 
 *Related: N-2, N-1*
 
-**A-1653.3** "Scrub Girl" comment read aloud, stating "I grew up in Converse, Texas, and no New Bronzeville/New Bron Falls, Texas… it's definitely expanding rapidly the past couple of years. Yeah, I believe that there is some military stuff. One person said to me that it was an intel base."
+**A-1653.3** "Scrub Girl" comment read aloud, stating "I grew up in Converse, Texas, and no New Braunfels/New Braunfels, Texas… it's definitely expanding rapidly the past couple of years. Yeah, I believe that there is some military stuff. One person said to me that it was an intel base."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -331,6 +336,97 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
 *Related: No investigative claim*
+
+---
+
+**A-3303** Anonymous Emailer Allegations Bundle
+
+**A-3303.1** Host verbal reference to emails from an anonymous correspondent alleging JFK, Texas and Cattleman's Ball links and Dan Flood's family connection (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:02:04
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14173, C-14174, C-14178, C-14202, N-3*
+
+---
+
+**A-3304** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3304.1** Host verbal call for tips at the show's tips address about Erika Kirk's China timeline and charity
+
+Quoted text: "More tips at candace Owens. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:33:58
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-14223, N-3*
+
+---
+
+**A-3305** Wolves and Finance December 7 Video Bundle
+
+**A-3305.1** Second portion of the Zack Gregorio (Wolves and Finance) clip played on air, in which he cites his December 7 video and reads the TPUSA lawyer's drone paragraph
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:27:40
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-14215, N-3*
+
+---
+
+**A-3306** Everyday Heroes Real Estate Profile Bundle
+
+**A-3306.1** Host verbal reference to a real estate profile on which Erika Kirk allegedly cites the charity Everyday Heroes (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:33:20
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14222, N-3*
+
+---
+
+**A-3307** Donor Threat Text Message Bundle
+
+**A-3307.1** Host verbal reference to a further text message sent to Charlie Kirk by a donor, to be revealed later (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:36:50
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14226, N-3*
+
+---
+
+**A-3308** Earlier TPUSA Drone Statements Bundle
+
+**A-3308.1** Host verbal reference to Frank Turek's earlier interview statement about showing Charlie live drone footage (not replayed)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:24:10
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14207, N-3*
+
+---
+
+**A-3308.2** Host verbal reference to Brian Harpole's Shawn Ryan interview statement that there were no drones (not replayed)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:24:30
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14208, N-3*
 
 ---
 
@@ -468,7 +564,7 @@ Investigative Pressure: Low
 
 *Related: A-1651.1, C-2145, N-10429*
 
-**N-479** Gary Ham
+**N-479** Gary Hamrick
 
 Pastor of Cornerstone Chapel; speaker in the announcement video.
 
@@ -557,6 +653,208 @@ Episode Count: 1
 Investigative Pressure: Low
 
 *Related: A-1651.1, C-2145, N-17, N-479, N-480*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host reports the claims about his schooling, security and statements about his wife.
+
+*Related: C-14173, C-14175, C-14179, C-14185, C-14186, C-14187, C-14188, C-14189, C-14190, C-14197, C-14207, C-14213, C-14220, C-14221, C-14226*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; subject of the China residence and charity discrepancy.
+
+*Related: C-14195, C-14203, C-14218, C-14219, C-14221, C-14222, C-14223, C-14235*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-14173, C-14174, C-14175, C-14176, C-14177, C-14178, C-14180, C-14181, C-14183, C-14184, C-14185, C-14187, C-14188, C-14189, C-14202, C-14203, C-14204, C-14206, C-14216, C-14217, C-14222, C-14223, C-14224, C-14225, C-14226, C-14227, C-14228, C-14230, C-14231, C-14232, C-14233, C-14234, C-14235, C-14236, C-14237*
+
+---
+
+**N-22** Tucker Carlson
+
+Tucker Carlson; named with the host in the earlier Cornerstone Church remark.
+
+*Related: C-14224*
+
+---
+
+**N-69** Kash Patel
+
+Kash Patel; the host says he was invited to a Charlie Kirk Day event.
+
+*Related: C-14229*
+
+---
+
+**N-82** Brigitte Macron
+
+Brigitte Macron; the host links her story to child-abuse themes.
+
+*Related: C-14234*
+
+---
+
+**N-221** Eliza McCoy
+
+Elizabeth McCoy; the target of the host's mock conspiracy theory about Erika Kirk.
+
+*Related: C-14203*
+
+---
+
+**N-228** Shawn Ryan
+
+Shawn Ryan; interviewer to whom Harpole said there were no drones.
+
+*Related: C-14208*
+
+---
+
+**N-334** Baron Coleman
+
+Baron Coleman; the host's guest for the joint show the next day.
+
+*Related: C-14228, C-14236*
+
+---
+
+**N-366** Mitch Snow
+
+Mitch Snow; Fort Huachuca witness a commenter tried to discredit.
+
+*Related: C-14236*
+
+---
+
+**N-493** Rick Cutler
+
+Rick Cutler; named by the host as one of the Texas-based security staff.
+
+*Related: C-14197*
+
+---
+
+**N-715** John F. Kennedy
+
+John F. Kennedy; referenced by the emailer's JFK assassination claim.
+
+*Related: C-14173*
+
+---
+
+**N-10000** Turning Point USA
+
+Turning Point USA; the organization behind the purge, the letter and the donors.
+
+*Related: C-14184, C-14205, C-14206, C-14227, C-14237*
+
+---
+
+**N-10012** Utah Valley University
+
+Utah Valley University; the host of the event whose drone rules are disputed.
+
+*Related: C-14208, C-14210*
+
+---
+
+**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+
+Fort Huachuca September 8-9, 2025 Eyewitness Encounter; the topic behind Mitch Snow's account.
+
+*Related: C-14236*
+
+---
+
+**N-10401** Romania / Eastern Europe Trafficking Cluster
+
+Romania / Eastern Europe Trafficking Cluster; related to Erika's Romanian orphanage work and the host's trafficking theme.
+
+*Related: C-14217, C-14219, C-14234*
+
+---
+
+**N-10421** Buckman–TPUSA Donor Relationship Investigation
+
+Buckman-TPUSA Donor Relationship Investigation; covers the top donors and the $10 million gift.
+
+*Related: C-14194, C-14195*
+
+---
+
+**N-10422** GATE / Gifted Education Program Investigation
+
+GATE / Gifted Education Program Investigation; reused for the commenters' memory reports.
+
+*Related: C-14232*
+
+---
+
+**N-10694** Dan Flood Role and Behavior Assessment
+
+Dan Flood Role and Behavior Assessment; reused for Flood's reported security presence at the event.
+
+*Related: C-14229*
+
+---
+
+**N-10899** Paramount Tactical
+
+Paramount Tactical; the host says it told them the shot Frank Turek saw was only the wide shot.
+
+*Related: C-14214, C-14216*
+
+---
+
+**N-11038** Scheper Security
+
+Scheper Security; the security firm that the Schaefer Security hiring claim appears to concern (spelling differs, see doubts).
+
+*Related: C-14191*
+
+---
+
+**N-11122** Creative Children's Academy / Quest Academy
+
+Creative Children's Academy / Quest Academy; the school the host calls the X-Men school.
+
+*Related: C-14187, C-14188*
+
+---
+
+**N-11166** Everyday Heroes Foundation
+
+Everyday Heroes Foundation; the charity the host connects to Erika Kirk's China work.
+
+*Related: C-14218, C-14222*
+
+---
+
+**N-11387** Cattle Baron's Ball / Cattleman's Ball
+
+Node Type: Organization
+The Dallas-founded American Cancer Society single-night fundraiser and a separate 501c3 Cattleman's Ball benefiting the Fred and Pamela Buffett Cancer Center, as described by the host; the emailer alleges the events launder money to buy off US police, which the host cannot confirm.
+
+*Related: C-14174, C-14176, C-14177*
+
+---
+
+**N-11388** Anonymous Emailer Cattleman's Ball and Flood Family Claims
+
+Node Type: Topic
+Allegations the host relays from an anonymous emailer: JFK and Kirk assassination links, a Cattleman's Ball money laundering scheme and a connection of Dan Flood and his father to both; the host stresses she cannot verify them.
+
+*Related: C-14173, C-14174, C-14178, C-14202*
 
 ---
 
@@ -881,7 +1179,7 @@ Investigative Direction: Identify the specific China-based charity and verify sc
 
 Claim Timestamp: 00:34:31
 
-Claim: A Cornerstone Chapel video announcement by Pastor Gary Ham promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smaja (Israeli businessman).
+Claim: A Cornerstone Chapel video announcement by Pastor Gary Hamrick promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smaja (Israeli businessman).
 
 Anchored Artifacts: A-1651.1
 Mentions: N-17, N-479, N-480, N-22, N-3
@@ -947,6 +1245,1052 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
+**C-14173** Host Says Emailer Tied JFK Killers' Families to Kirk Assassination
+
+Claim Timestamp: 00:02:04
+
+Claim: The host says an anonymous emailer claimed that the families behind the JFK murder, including corrupt cops and mafia members, were also involved in the assassination of Charlie Kirk, which she describes as a group of Texas boys; she says she did not engage with it.
+
+Transcript Snippet: But he said that those same families were also involved in the assassination of Charlie Kirk, a group of Texas boys.
+
+Anchored Artifacts: A-3303.1
+Mentions: N-1, N-3, N-715
+Related Nodes: N-11388
+Tags: relevance:context
+Investigative Direction: Only the emailer can substantiate this; the host presents it as unverified and no records are cited.
+
+---
+
+**C-14174** Host Relays Emailer Claim Cattleman's Ball Is Israeli Money Laundering to Buy Cops
+
+Claim Timestamp: 00:03:02
+
+Claim: The host relays an emailer's claim that the bought-and-paid-for cops across America belong to the Cattleman's Ball (Cattle Baron's Ball), described as a money laundering operation from Israel to buy off US police, and that he took part in it; she says she has no proof and adds a strong allegedly.
+
+Transcript Snippet: which he claims is just one big massive money laundering operation from Israel to buy off cops here in America.
+
+Anchored Artifacts: A-3303.1
+Mentions: N-3
+Related Nodes: N-11387, N-11388
+Tags: relevance:tangential
+Investigative Direction: Obtain the emailer's evidence; review Cattle Baron's Ball and Cattleman's Ball IRS Form 990 filings for beneficiaries and expenditures.
+
+---
+
+**C-14175** Host Says the Feds Have Not Responded to Her Initial Report
+
+Claim Timestamp: 00:03:02
+
+Claim: The host says she has not heard back from the federal authorities regarding her initial report into what happened to Charlie Kirk, and for that reason did not report the emailer's claimed crime.
+
+Transcript Snippet: I obviously have not even heard back from the feds regarding my initial report into what happened to Charlie Kirk.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:core
+Investigative Direction: Ask the host for the date, recipient and content of the report; ask the FBI to confirm receipt.
+
+---
+
+**C-14176** Host Describes Cattle Baron's Ball as Dallas American Cancer Society Single-Night Fundraiser
+
+Claim Timestamp: 00:04:16
+
+Claim: The host says the Cattle Baron's Ball is a single-night American Cancer Society fundraiser in Dallas, billed as the world's largest single-night fundraiser, founded 50 years ago and now held in several states.
+
+Transcript Snippet: It's a single night fundraiser for the American Cancer Society and it's massive to be clear. It's the world's largest single night fundraiser.
+
+Anchored Artifacts: A-1646.1
+Mentions: N-3
+Related Nodes: N-11387
+Tags: relevance:context
+Investigative Direction: Check the American Cancer Society's Cattle Baron's Ball pages for founding date, host cities and totals raised.
+
+---
+
+**C-14177** Host Says Cattleman's Ball Is a Separate 501c3 Benefiting the Buffett Cancer Center
+
+Claim Timestamp: 00:04:46
+
+Claim: The host says a separate 501c3 called the Cattleman's Ball runs the same idea but benefits the Fred and Pamela Buffett Cancer Center rather than the American Cancer Society.
+
+Transcript Snippet: which is the same exact idea but it benefits a different cancer center the Fred and Pamela Buffett cancer center.
+
+Anchored Artifacts: A-1646.1
+Mentions: N-3
+Related Nodes: N-11387
+Tags: relevance:context
+Investigative Direction: Look up the Cattleman's Ball nonprofit's registration and Form 990 and its relationship to the Buffett Cancer Center.
+
+---
+
+**C-14178** Host Says Emailer Said Dan Flood Is Connected to Both Fort Huachuca and the Cattleman's Ball
+
+Claim Timestamp: 00:05:20
+
+Claim: The host says the emailer told her that Dan Flood is connected to both the Fort Huachuca matter and the Cattleman's Ball, and that nobody had worked out who Flood's father is.
+
+Transcript Snippet: Dan Flood is connected to both. You think it was an inside job from the feds and none of you guys have even worked out who Dan Flood's father is.
+
+Anchored Artifacts: A-3303.1
+Mentions: N-274, N-3
+Related Nodes: N-11388, N-10425
+Tags: relevance:context
+Investigative Direction: Test through public records on Dan Flood's security employers; the emailer's identity and evidence are unknown.
+
+---
+
+**C-14179** Host Places Franklin Park a Couple of Streets From Where Kirk Was Raised
+
+Claim Timestamp: 00:07:40
+
+Claim: The host says Robert Flood's Franklin Park, Illinois posting is basically a couple of streets over from where Charlie Kirk was raised.
+
+Transcript Snippet: That's right on the basically a couple of streets over from where Charlie Kirk uh was raised.
+
+Anchored Artifacts: A-1643.2
+Mentions: N-476, N-1
+Related Nodes: N-10425
+Tags: relevance:context
+Investigative Direction: Map Franklin Park against Kirk's documented childhood addresses; Franklin Park and Kirk's hometown are different suburbs, so distance should be measured.
+
+---
+
+**C-14180** Host Could Not Find Any News Trace of Robert Flood in Illinois
+
+Claim Timestamp: 00:08:00
+
+Claim: The host says she tried to find a single news mention of Robert Flood in Illinois, despite roles such as SWAT team leader and crime scene technician, and found nothing at first, second or third glance, while adding that this does not mean none exists.
+
+Transcript Snippet: I then tried to find a single trace of his name mentioned in the news in Illinois.
+
+Anchored Artifacts: A-1643.2
+Mentions: N-476, N-3
+Related Nodes: N-10425
+Tags: relevance:context
+Investigative Direction: Search Franklin Park Police Department records, local newspaper archives and court filings for Robert Flood.
+
+---
+
+**C-14181** Host Reads LinkedIn Entry for Electro Rent Corporation on Robert Flood's Profile
+
+Claim Timestamp: 00:08:20
+
+Claim: The host says Robert Flood's LinkedIn lists a role at Electro Rent Corporation, which she describes as running from Tokyo, Japan to Chicago, and asks the audience what it is.
+
+Transcript Snippet: Then this random electro rent corporation, which runs from Tokyo, Japan to Chicago.
+
+Anchored Artifacts: A-1643.2
+Mentions: N-476, N-3
+Related Nodes: N-10425
+Tags: relevance:context
+Investigative Direction: Capture the LinkedIn entry and confirm Electro Rent Corporation's role and dates.
+
+---
+
+**C-14182** Host Reads LinkedIn Entry for Captain of Police at University Park Police and Texas Chief Deputy
+
+Claim Timestamp: 00:08:40
+
+Claim: The host says Robert Flood's LinkedIn lists him as captain of police for the University Park Police Department in Texas and as chief deputy sheriff for Texas law enforcement, some roles overlapping in time.
+
+Transcript Snippet: He was then the captain of police. And some of this is concurrent. So it's interesting for the University Park Police back down in Texas, chief deputy sheriff for Texas law enforcement.
+
+Anchored Artifacts: A-1643.2
+Mentions: N-476
+Related Nodes: N-10425
+Tags: relevance:context
+Investigative Direction: Verify with University Park Police Department and Texas peace officer licensing records.
+
+---
+
+**C-14183** Host Asserts Robert Flood Is and Was a Fed
+
+Claim Timestamp: 00:09:00
+
+Claim: The host says that, after reading Robert Flood's LinkedIn, there is no question he is and was a fed.
+
+Transcript Snippet: Okay, this guy, no question, is and was a fed.
+
+Anchored Artifacts: A-1643.2
+Mentions: N-476, N-3
+Related Nodes: N-10425
+Tags: relevance:core
+Investigative Direction: Her inference rests on a LinkedIn profile; confirm any federal service through FBI National Academy rosters and employment records.
+
+---
+
+**C-14184** Host Says the Bigger the Check, the More Influence Donors Have on TPUSA
+
+Claim Timestamp: 00:10:00
+
+Claim: The host says that charity donors gain more influence the bigger the check, and that this is what is being learned about Turning Point USA, where donors get to tell the organization what to think and talk about.
+
+Transcript Snippet: We're learning that about Turning Point USA. The bigger the check you cut, uh, the more influence you have on their operations.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Compare donor gift agreements and board seats for the largest TPUSA donors against TPUSA's public positions.
+
+---
+
+**C-14185** Host Speculates Robert Flood Probably Knew Bill Montgomery
+
+Claim Timestamp: 00:10:40
+
+Claim: The host says she cannot assert it with certainty but would bet that Robert Eugene Flood probably knew Bill Montgomery, who convinced Charlie Kirk to start Turning Point USA in Illinois in the same neighborhood.
+
+Transcript Snippet: I would be willing to bet that Mr. Flood Dan's father Robert Eugene Flood probably knew Bill Montgomery
+
+Anchored Artifacts: 
+Mentions: N-476, N-462, N-274, N-1, N-3
+Related Nodes: N-10425
+Tags: relevance:context
+Investigative Direction: Ask Montgomery or Robert Flood about any acquaintance; she offers it explicitly as a bet, not a finding.
+
+---
+
+**C-14186** Host Says Bill Montgomery Was Also Military, in the Air Force
+
+Claim Timestamp: 00:10:50
+
+Claim: The host says Bill Montgomery, who convinced Charlie Kirk to start Turning Point USA, was also military, in the Air Force.
+
+Transcript Snippet: Don't forget Bill Montgomery was also military as well. Air Force.
+
+Anchored Artifacts: 
+Mentions: N-462, N-1
+Supports: C-9909
+Tags: relevance:core
+Investigative Direction: Check Montgomery's Air Force service in military records or biography.
+
+---
+
+**C-14187** Host Names Quest Academy in Palatine, Formerly Children's Creative Academy, as the X-Men School
+
+Claim Timestamp: 00:11:00
+
+Claim: The host says the school she calls the X-Men school that Charlie Kirk attended is Quest Academy in Palatine, Illinois, formerly named the Children's Creative Academy.
+
+Transcript Snippet: That school is Quest Academy in Palatine, Illinois. It was formerly named the Children's Creative Academy.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11122
+Tags: relevance:context
+Investigative Direction: Confirm Kirk's attendance and the school's former name through school and Illinois corporate records.
+
+---
+
+**C-14188** Host Says the Kirk Family Was Told to Drug Him for Being Brilliant and His Mother Refused
+
+Claim Timestamp: 00:11:05
+
+Claim: The host says that Charlie Kirk attended the X-Men school after school staff wanted to drug him for being brilliant and his mother said no.
+
+Transcript Snippet: the X-Men school that Charlie went to after they wanted to drug him for being brilliant, and his mother said no.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11122
+Tags: relevance:context
+Investigative Direction: Source is not given; look for Kirk or family accounts of the school and any medication recommendation.
+
+---
+
+**C-14189** Host Maintains Kirk Was Monitored by the Government Since He Was Young
+
+Claim Timestamp: 00:11:10
+
+Claim: The host says she maintains her belief that Charlie Kirk was being monitored by the government since he was young.
+
+Transcript Snippet: I maintain my belief that Charlie was being monitored by the government since he was young.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:core
+Investigative Direction: No documents are cited; FOIA requests for records about Kirk's schooling and youth could test it.
+
+---
+
+**C-14190** Host Says Bill Montgomery Organized and Initially Paid for Kirk's Full-Time Security
+
+Claim Timestamp: 00:11:15
+
+Claim: The host says Bill Montgomery organized and initially paid for the full-time security Charlie Kirk needed.
+
+Transcript Snippet: it was Bill Montgomery who organized and initially paid, you should know, for the fulltime security that Charlie would need.
+
+Anchored Artifacts: 
+Mentions: N-462, N-1
+Supports: C-5423
+Tags: relevance:core
+Investigative Direction: Ask TPUSA or Montgomery for the early security contract and who paid the invoices.
+
+---
+
+**C-14191** Host Says Montgomery Hired Schaefer Security With Dan Flood and Brian Harpole Working Under Greg Schaefer
+
+Claim Timestamp: 00:11:30
+
+Claim: The host says Bill Montgomery chose to hire Schaefer Security, run by Greg Schaefer, with Dan Flood and Brian Harpole working under Schaefer.
+
+Transcript Snippet: Bill Montgomery chose to hire Schaefer security, which was run by Greg Schaefer. And working under Greg Schaefer was Dan Flood and Brian Harpole.
+
+Anchored Artifacts: 
+Mentions: N-462, N-336, N-274, N-270
+Related Nodes: N-11038, N-10425
+Tags: relevance:core
+Investigative Direction: Obtain the firm's Texas private security registration and staff lists; compare spelling with the Scheper Security the host discusses in later episodes.
+
+---
+
+**C-14192** Host Says Greg Schaefer Was FBI Hostage Rescue and a Dallas Joint Terrorism Task Force Supervisor
+
+Claim Timestamp: 00:11:50
+
+Claim: The host says Greg Schaefer is from Dallas, worked for the FBI on the elite hostage rescue team, and was a supervisor on the Dallas Joint Terrorism Task Force.
+
+Transcript Snippet: He also is from Dallas, Texas, working for the FBI on the elite hostage and rescue team. He was a supervisor on the Dallas joint terrorism task force
+
+Anchored Artifacts: 
+Mentions: N-336
+Related Nodes: N-10425
+Tags: relevance:core
+Investigative Direction: Verify through FBI career records, FOIA or Schaefer's own biography.
+
+---
+
+**C-14193** Host Says Greg Schaefer Was Stationed in Budapest
+
+Claim Timestamp: 00:12:00
+
+Claim: The host says Greg Schaefer was at least stationed in Budapest, Hungary, which she calls another Eastern European connection.
+
+Transcript Snippet: Greg was at least stationed in Budapest.
+
+Anchored Artifacts: 
+Mentions: N-336
+Related Nodes: N-10425
+Tags: relevance:context
+Investigative Direction: Verify through FBI legal attache records or Schaefer's biography.
+
+---
+
+**C-14194** Host Says TPUSA's Top Donor Cut a $10 Million Check Last June
+
+Claim Timestamp: 00:12:20
+
+Claim: The host says Turning Point's number one donor cut a $10 million check last year in June, referring to the Buckman couple.
+
+Transcript Snippet: Turning Point's number one donor who last year in June cut a check for $10 million.
+
+Anchored Artifacts: 
+Mentions: N-466, N-467
+Related Nodes: N-10421
+Supports: C-2114
+Tags: relevance:context
+Investigative Direction: Confirm the gift date and amount through TPUSA announcements and Florida headquarters naming records.
+
+---
+
+**C-14195** Host Says the Buckmans Live in New Braunfels, Texas
+
+Claim Timestamp: 00:12:43
+
+Claim: The host says the Buckman couple, spoken as Nelda and Karl Buckman, live in New Braunfels, Texas, the city her plane trackers saw Erika Kirk's plane keep visiting.
+
+Transcript Snippet: The couple Nelda and Karl Buckman, they live there.
+
+Anchored Artifacts: 
+Mentions: N-466, N-467, N-2
+Related Nodes: N-10426, N-10421
+Supports: C-2117
+Tags: relevance:core
+Investigative Direction: Check property records in Comal County; compare dates with Erika Kirk's plane arrivals at New Braunfels.
+
+---
+
+**C-14196** Friend Post Says Dan Flood Has Been in Private Security at Least 20 Years
+
+Claim Timestamp: 00:13:36
+
+Claim: In the childhood-friend social media post as read, the poster says Dan Flood has been in private security for at least 20 years and that he had no idea Flood was running security for TPUSA.
+
+Transcript Snippet: Yeah, this dude has been in private security for at least 20 years. I had no idea he was running it for TPUSA.
+
+Anchored Artifacts: A-1644.1
+Mentions: N-274
+Related Nodes: N-10425
+Tags: relevance:context
+Investigative Direction: Identify the poster and confirm Flood's private security employers and licensing history.
+
+---
+
+**C-14197** Host Says All of Kirk's Security That Day Was From Texas
+
+Claim Timestamp: 00:13:50
+
+Claim: The host says all of Charlie Kirk's security that day was from Texas, naming Rick Cutler, Dan Flood and Brian Harpole.
+
+Transcript Snippet: We've not noted that oddly all of Charlie's security that day was from Texas. From Rick Cutler to Dan Flood, even Brian Harpole.
+
+Anchored Artifacts: 
+Mentions: N-493, N-274, N-270, N-1
+Related Nodes: N-10425
+Tags: relevance:core
+Investigative Direction: Compile the home states and prior employers of each member of the September 10 security team.
+
+---
+
+**C-14198** Host Says Brian Harpole Was Born in Dallas, Texas
+
+Claim Timestamp: 00:14:10
+
+Claim: The host says Brian Harpole was also born in Dallas, Texas.
+
+Transcript Snippet: Brian Harpole, you should know, was also born in Dallas, Texas.
+
+Anchored Artifacts: 
+Mentions: N-270
+Related Nodes: N-10425
+Tags: relevance:core
+Investigative Direction: Verify through public records; note that Bobby Harpole's interview says he himself was born in Denton.
+
+---
+
+**C-14199** Host Says Bobby Harpole Ran for Erath County Sheriff in 2018
+
+Claim Timestamp: 00:14:25
+
+Claim: The host says Bobby Harpole gave an interview in 2018 while he was running for county sheriff in Erath County, Texas (rendered Arth in the transcript).
+
+Transcript Snippet: back in 2018 when he was running for county sheriff in Erath, Texas.
+
+Anchored Artifacts: A-1645.1
+Mentions: N-477
+Related Nodes: N-10425
+Tags: relevance:context
+Investigative Direction: Check Erath County 2018 election results and candidate filings.
+
+---
+
+**C-14200** Bobby Harpole Says He Grew Up a Military Brat in Numerous States and Europe
+
+Claim Timestamp: 00:14:30
+
+Claim: In the 2018 interview as read, Bobby Harpole says he was born in Denton, Texas and grew up a military brat living in numerous states and Europe.
+
+Transcript Snippet: I was born in Denton, Texas, and grew up a quote unquote military brat, living in numerous states and Europe.
+
+Anchored Artifacts: A-1645.1
+Mentions: N-477
+Related Nodes: N-10425
+Tags: relevance:context
+Investigative Direction: Locate the original 2018 interview and confirm the wording and publication.
+
+---
+
+**C-14201** Host Says Bobby Harpole Now Works at a Funeral Home
+
+Claim Timestamp: 00:15:10
+
+Claim: The host says that Bobby Harpole is now working at a funeral home.
+
+Transcript Snippet: In fact, now his dad is working at a funeral home
+
+Anchored Artifacts: 
+Mentions: N-477, N-270
+Related Nodes: N-10425
+Tags: relevance:context
+Investigative Direction: Verify current employment through public sources.
+
+---
+
+**C-14202** Host Relays Emailer's Claim the Corruption Goes Back to Dallas in the 60s
+
+Claim Timestamp: 00:16:00
+
+Claim: The host relays the emailer's statement that the corruption goes back to Dallas in the 60s and that nothing can be done about it.
+
+Transcript Snippet: This is this corruption goes back to Dallas in the 60s.
+
+Anchored Artifacts: A-3303.1
+Mentions: N-3
+Related Nodes: N-11388
+Tags: relevance:tangential
+Investigative Direction: The emailer's evidence is unknown; the host presents it as a point he made, not as proven.
+
+---
+
+**C-14203** Host Says in Her Mock Conspiracy That Elizabeth McCoy Had the Idea for the Tent
+
+Claim Timestamp: 00:19:30
+
+Claim: In a bit she calls her conspiracy theory about Elizabeth McCoy undermining Erika Kirk, the host says it was Elizabeth McCoy's idea to put the tent up.
+
+Transcript Snippet: It was her idea to put the tent up.
+
+Anchored Artifacts: 
+Mentions: N-221, N-2, N-3
+Tags: relevance:tangential
+Investigative Direction: The host frames this as humor; the origin of the memorial tent decision would need TPUSA event planning records.
+
+---
+
+**C-14204** Host Says Wolves and Finance Removed an Error Immediately After Her Tweet
+
+Claim Timestamp: 00:20:40
+
+Claim: The host says she tweeted that Wolves and Finance had named the wrong person and should take it down, and he immediately took the video down, corrected it and removed it from his content.
+
+Transcript Snippet: He immediately took it down and corrected it and and removed it from his content.
+
+Anchored Artifacts: 
+Mentions: N-478, N-3
+Tags: relevance:context
+Investigative Direction: Find the host's tweet and Gregorio's corrected video to confirm the timing.
+
+---
+
+**C-14205** Gregorio Says the Letter Does Not Answer His Questions and Precedes a Lawsuit Unless He Changes His Statements
+
+Claim Timestamp: 00:21:30
+
+Claim: Zack Gregorio says in the clip that the letter does not address most of his questions and is the precursor to a lawsuit unless he changes his statements.
+
+Transcript Snippet: Instead of answering my questions, it is the precursor to a lawsuit unless I change my statements.
+
+Anchored Artifacts: A-1648.2
+Mentions: N-478
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Obtain the full text of the letter and Gregorio's video from the channel.
+
+---
+
+**C-14206** Host Indicates the Letter Said TPUSA Does Not Intend to Sue
+
+Claim Timestamp: 00:23:00
+
+Claim: The host says a cease and desist should not open with we don't intend to sue you, and says Gregorio is correct that it is the first step toward suing, which implies the letter contained that disclaimer.
+
+Transcript Snippet: If you feel that someone is putting out wrong information about you, don't start a cease and assist letter with we don't intend to sue you.
+
+Anchored Artifacts: A-1648.1
+Mentions: N-478, N-3
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Read the letter itself for the no-intent-to-sue wording; the host's phrasing is ambiguous.
+
+---
+
+**C-14207** Host Says Frank Turek Said He Showed Charlie Live Drone Footage on the Drive to the Event
+
+Claim Timestamp: 00:24:10
+
+Claim: The host says Frank Turek came out and said that while driving to the event he was showing Charlie live drone footage on his phone and Charlie loved it.
+
+Transcript Snippet: First, Frank Turek came out and he said that while they were driving over to the event, he was showing Charlie live drone footage on his phone and Charlie loved it.
+
+Anchored Artifacts: A-3308.1
+Mentions: N-7, N-1
+Related Nodes: N-10427
+Supports: C-1753
+Tags: relevance:core
+Investigative Direction: Locate Turek's original interview and compare it with UVU drone authorization records.
+
+---
+
+**C-14208** Host Says Harpole Told Shawn Ryan There Were No Drones Because the University Denied the Request
+
+Claim Timestamp: 00:24:30
+
+Claim: The host says Brian Harpole told Shawn Ryan that there were no drones because the university denied TPUSA's request to fly them.
+
+Transcript Snippet: he moved to tell Shawn Ryan that actually there were no drones because the university denied their request to fly them.
+
+Anchored Artifacts: A-3308.2
+Mentions: N-270, N-228
+Related Nodes: N-10427, N-10012
+Supports: C-1754
+Tags: relevance:core
+Investigative Direction: Compare Harpole's Shawn Ryan interview with UVU's drone authorization records and TPUSA's request.
+
+---
+
+**C-14209** Kolvet Says His Drone Pilot Had Completed the FAA Steps
+
+Claim Timestamp: 00:25:20
+
+Claim: Andrew Kolvet says in the clip that his drone pilot had already made all the necessary steps with the FAA to be able to fly the drone for the survey.
+
+Transcript Snippet: my drone pilot had already made all the necessary steps with the FAA to make sure that we could do that.
+
+Anchored Artifacts: A-1649.1
+Mentions: N-14
+Related Nodes: N-10427
+Tags: relevance:core
+Investigative Direction: Request the FAA authorization or waiver and flight log for the survey drone.
+
+---
+
+**C-14210** Kolvet Says Law Enforcement Made Him Ground the Drone at UVU
+
+Claim Timestamp: 00:25:30
+
+Claim: Andrew Kolvet says that at UVU law enforcement came up and demanded he take the drone down, that he told the officer they did not control the airspace, and that they ended up grounding it.
+
+Transcript Snippet: Immediately we were um law enforcement came up and said,
+
+Anchored Artifacts: A-1649.1
+Mentions: N-14
+Related Nodes: N-10427, N-10012
+Tags: relevance:core
+Investigative Direction: Identify the officer and agency; request body camera footage and incident logs from UVU police.
+
+---
+
+**C-14211** Kolvet Says the Team Left Campus, Flew the Drone and Got the Survey
+
+Claim Timestamp: 00:25:50
+
+Claim: Andrew Kolvet says that after being grounded they left campus, flew the drone off campus and got the survey, and that this is why Harpole said they could not get a drone up.
+
+Transcript Snippet: what we ended up having to do was leave campus. We flew the drone.
+
+Anchored Artifacts: A-1649.1
+Mentions: N-14, N-270
+Related Nodes: N-10427
+Tags: relevance:core
+Investigative Direction: Obtain the drone pilot's flight log, locations and timestamps for the survey.
+
+---
+
+**C-14212** Kolvet Says the Circulated Picture Is a Wide-Angle Shot From a Second-Floor Walkway
+
+Claim Timestamp: 00:26:10
+
+Claim: Andrew Kolvet says the picture circulated as proof of drone footage is a wide-angle shot of the crowd from the second floor, taken from an elevated walkway or bridge.
+
+Transcript Snippet: It is a wide angle shot of the crowd from second floor.
+
+Anchored Artifacts: A-1649.1, A-1649.2
+Mentions: N-14
+Related Nodes: N-10427
+Tags: relevance:core
+Investigative Direction: Request the original image file with metadata and the events team member who took it.
+
+---
+
+**C-14213** Kolvet Says the Events Team Routinely Took Crowd Photos to Show Charlie
+
+Claim Timestamp: 00:26:30
+
+Claim: Andrew Kolvet says TPUSA's events team went up to the walkway, as they always did, to show Charlie the crowd size, and took the images.
+
+Transcript Snippet: They went up there to as they always did to show Charlie the crowd size.
+
+Anchored Artifacts: A-1649.1, A-1649.2
+Mentions: N-14, N-1
+Related Nodes: N-10427
+Tags: relevance:context
+Investigative Direction: Ask the events team about the routine and request the photographs with metadata.
+
+---
+
+**C-14214** Host Says the Lawyer's Letter Says There Were Drones That Day but Only Some Were Allowed
+
+Claim Timestamp: 00:27:00
+
+Claim: The host says that in the letter to Wolves and Finance the TPUSA lawyer says there were drones that day but only for some people, which she says disputes Andrew Kolvet and Paramount Tactical.
+
+Transcript Snippet: in the letter to Wolves and Finance he says no there were drones but it was only allowed for some people but there were drones that day.
+
+Anchored Artifacts: A-1648.1
+Mentions: N-14
+Related Nodes: N-10899, N-10427
+Supports: C-2141
+Tags: relevance:core
+Investigative Direction: Read the letter text and compare it with Kolvet's account and UVU's drone records.
+
+---
+
+**C-14215** Gregorio Says He Posted a December 7 Video Naming TPUSA Number One Clown
+
+Claim Timestamp: 00:27:40
+
+Claim: Zack Gregorio says on December 7 he posted a video called Top 10 Clowns of the Year, with Turning Point as his number one clown, which discussed the chief security person's drone statement and Frank Turek's interview.
+
+Transcript Snippet: On December 7th I posted a video called Top 10 Clowns of the Year.
+
+Anchored Artifacts: A-3305.1
+Mentions: N-478, N-7
+Related Nodes: N-10427
+Tags: relevance:context
+Investigative Direction: Find the December 7 video on the Wolves and Finance channel.
+
+---
+
+**C-14216** Host Says Paramount Tactical and Kolvet Told Them It Was Only the Wide Shot Frank Saw
+
+Claim Timestamp: 00:28:50
+
+Claim: The host says that Paramount Tactical and Andrew Kolvet had told them that what Frank Turek saw was only the wide shot.
+
+Transcript Snippet: We were just told by Paramount Tactical and Andrew that was just the wide shot that Frank saw.
+
+Anchored Artifacts: 
+Mentions: N-14, N-7, N-3
+Related Nodes: N-10899, N-10427
+Tags: relevance:core
+Investigative Direction: Identify where and when Paramount Tactical made this statement.
+
+---
+
+**C-14217** Host Says Child Sex Trafficking Keeps Coming Up in Her Investigation
+
+Claim Timestamp: 00:30:32
+
+Claim: The host says that last week she told viewers that the theme of sex trafficking, child sex trafficking in particular, is coming up too much in the investigation.
+
+Transcript Snippet: the theme of sex trafficking, it's coming up too much. Child sex trafficking in particular.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10401
+Supports: C-6981
+Tags: relevance:context
+Investigative Direction: List each source on the show that connected TPUSA to trafficking, and test each independently.
+
+---
+
+**C-14218** Erika Kirk Says Everyday Heroes Like You Began Funding Transparent Grassroots Groups
+
+Claim Timestamp: 00:31:10
+
+Claim: In the clip Erika Kirk says she created Everyday Heroes Like You to bring funds and awareness to grassroots organizations in specific communities that are transparent with funds rather than sending 70 percent to admin.
+
+Transcript Snippet: I decided to create something called Everyday Heroes Like You, where we're able to originally it was focused on bringing funds and awareness to various grassroots organizations that were in specific communities.
+
+Anchored Artifacts: A-1650.1
+Mentions: N-2
+Related Nodes: N-11166, N-10428
+Supports: C-9862
+Tags: relevance:core
+Investigative Direction: Obtain the charity's registration, Form 990 filings and grant recipients; confirm whether this is the same as Everyday Heroes Foundation.
+
+---
+
+**C-14219** Erika Kirk Says Her Charity Work Moved to Marine Corps, Army and a Romanian Orphanage
+
+Claim Timestamp: 00:31:40
+
+Claim: In the clip Erika Kirk says her charity work then phased into working with the Marine Corps and the Army and with an orphanage in Romania, supporting them through winter with clothing and tangible items.
+
+Transcript Snippet: and then began to um phase that into working with the Marine Corps um and the Army and then was able to uh work with a orphanage in Romania
+
+Anchored Artifacts: A-1650.1
+Mentions: N-2
+Related Nodes: N-10401, N-10428
+Tags: relevance:core
+Investigative Direction: Identify the specific military units and the Romanian orphanage, and confirm dates and funds delivered.
+
+---
+
+**C-14220** Charlie Kirk Says in the Debate That China Has Dead People in the Streets
+
+Claim Timestamp: 00:32:20
+
+Claim: In the debate clip as played, Charlie Kirk tells his opponent that in China you will drive down the street and see dead people laying in the middle of the street.
+
+Transcript Snippet: When you go to China, let me just tell you, you'll drive down the street and you will see dead people laying in the middle of the street.
+
+Anchored Artifacts: A-1650.3
+Mentions: N-1, N-481
+Related Nodes: N-10428
+Tags: relevance:context
+Investigative Direction: Locate the full debate to confirm the date, setting and context of Kirk's China remarks.
+
+---
+
+**C-14221** Charlie Kirk Says Erika Would Show Videos and Images From Her China Stay
+
+Claim Timestamp: 00:32:55
+
+Claim: In the debate clip Charlie Kirk says his wife lived in China for six months and she will show videos and images, implying she holds footage from her time there.
+
+Transcript Snippet: my wife lived in China for 6 months and she'll show you the videos. She'll show you the images.
+
+Anchored Artifacts: A-1650.3
+Mentions: N-1, N-2
+Related Nodes: N-10428
+Supports: C-2143
+Tags: relevance:core
+Investigative Direction: Ask TPUSA or Erika Kirk for the videos and images from China, which would also date the stay.
+
+---
+
+**C-14222** Host Says a Real Estate Profile Ties Erika Kirk's China Work to Everyday Heroes
+
+Claim Timestamp: 00:33:20
+
+Claim: The host says that after digging she saw on a real estate profile that Erika Kirk said the charity was Everyday Heroes, which would fit what she said in the interview about China.
+
+Transcript Snippet: after doing a little bit of digging I saw on a real estate profile that you said that it was the charity Everyday Heroes.
+
+Anchored Artifacts: A-3306.1
+Mentions: N-2, N-3
+Related Nodes: N-11166, N-10428
+Tags: relevance:core
+Investigative Direction: Capture the real estate profile and its date; the host does not name the listing.
+
+---
+
+**C-14223** Host Asks Viewers for Tips on Erika Kirk's China Charity and Timeline
+
+Claim Timestamp: 00:33:58
+
+Claim: The host asks viewers to send tips to the show's tips address about when Erika Kirk was in China and which charity she worked with on sex trafficking victims, saying she is building an Erika Kirk timeline.
+
+Transcript Snippet: More tips at candace Owens. com. Like I said, I'm working on this Erika Kirk timeline and I want everything to be legit
+
+Anchored Artifacts: A-3304.1
+Mentions: N-2, N-3
+Related Nodes: N-10428
+Tags: relevance:core
+Investigative Direction: DIA beat; compare any viewer tips with Erika Kirk's own interview and TPUSA's two-week visit statement.
+
+---
+
+**C-14224** Host Says an Earlier Cornerstone Church Event Had a Pastor Attack Her and Tucker Carlson Over Talking Points
+
+Claim Timestamp: 00:34:40
+
+Claim: The host says Cornerstone Church previously had a pastor on stage naming her (transcribed Candace Owens) and Tucker Carlson as repeating talking points.
+
+Transcript Snippet: Remember that was the church where we had the pastor get on stage and call me Candace Owens and Tucker Carlson when they get their talking points.
+
+Anchored Artifacts: 
+Mentions: N-3, N-22
+Related Nodes: N-10429
+Tags: relevance:context
+Investigative Direction: Find the earlier Cornerstone service video; the transcript wording is garbled and the church name may differ from Cornerstone Chapel.
+
+---
+
+**C-14225** Host Says Someone Should Ask Rob McCoy About Rehabilitating People Imprisoned for Harming Children
+
+Claim Timestamp: 00:35:50
+
+Claim: The host says somebody could ask Rob McCoy why he is trying to rehabilitate people who went to prison for harming children.
+
+Transcript Snippet: somebody could ask him a question about why he's trying to rehabilitate people that went to prison for harming children
+
+Anchored Artifacts: 
+Mentions: N-17, N-3
+Related Nodes: N-10429
+Supports: C-10867
+Tags: relevance:context
+Investigative Direction: Compare with the earlier McCoy interview with a man who went to prison and was given access to children.
+
+---
+
+**C-14226** Host Says She Holds Another Threatening Text Sent to Charlie Kirk by a Donor
+
+Claim Timestamp: 00:36:50
+
+Claim: The host says she has another text message, sent to Charlie Kirk, that she will reveal and calls it another laced threat from one of his donors.
+
+Transcript Snippet: I have another text message that I'm going to reveal to you which was sent to Charlie Kirk. Another, I would say, laced threat from one of his donors.
+
+Anchored Artifacts: A-3307.1
+Mentions: N-1, N-3
+Tags: relevance:core
+Investigative Direction: Wait for the host to show the message; verify sender and date against Kirk's phone records.
+
+---
+
+**C-14227** Host Says TPUSA Purged Employees It Wrongly Suspected and Now They Are Giving Her Information
+
+Claim Timestamp: 00:37:20
+
+Claim: The host says Turning Point USA purged employees it thought were giving her information, that they were not, and that those employees are now giving her information.
+
+Transcript Snippet: Turning Point USA purged a bunch of their employees that they thought were giving me information and they weren't and so now they're giving me information.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Identify the dismissed employees through the host's sources and TPUSA separation records.
+
+---
+
+**C-14228** Host Says She and Baron Coleman Both Received a Tip for a Joint Show
+
+Claim Timestamp: 00:37:30
+
+Claim: The host says that the next day Baron Coleman will be her guest on a joint show because they both received a tip she calls mind-blowing.
+
+Transcript Snippet: because we both received a tip that is just it's mind-blowing actually.
+
+Anchored Artifacts: 
+Mentions: N-3, N-334
+Tags: relevance:context
+Investigative Direction: Compare with the Coleman joint episode content to see what the tip was.
+
+---
+
+**C-14229** Host Says Dan Flood Was Still Providing Security at a Charlie Kirk Day Event
+
+Claim Timestamp: 00:42:39
+
+Claim: The host says, after remarking that Kash Patel was invited, that Dan Flood was there too and was still providing security, which she found odd.
+
+Transcript Snippet: Dan Flood was there, too. He was still providing security, which I thought was weird.
+
+Anchored Artifacts: A-1653.1
+Mentions: N-274, N-69
+Related Nodes: N-10694
+Supports: C-2147
+Tags: relevance:core
+Investigative Direction: Identify the event and date; request security staffing records and attendance confirmations.
+
+---
+
+**C-14230** Host Says One Person Told Her New Braunfels Has an Intel Base but She Could Not Confirm
+
+Claim Timestamp: 00:43:35
+
+Claim: The host says one person told her New Braunfels has an intel base and that she could not find it herself.
+
+Transcript Snippet: One person said to me that it was an intel base. I couldn't find that myself.
+
+Anchored Artifacts: A-1653.3
+Mentions: N-3
+Related Nodes: N-10426
+Tags: relevance:context
+Investigative Direction: Search for military or intelligence facilities in Comal County; the host did not verify it.
+
+---
+
+**C-14231** Host Says Critics Get Big Mad and Pay People to Make Videos Calling Her Crazy
+
+Claim Timestamp: 00:43:50
+
+Claim: The host says that whenever they get real big mad they start paying people to make a bunch of videos saying she is crazy.
+
+Transcript Snippet: Whenever they get real big mad and they start paying people to make a bunch of videos
+
+Anchored Artifacts: 
+Mentions: N-3
+Supports: C-7897
+Tags: relevance:context
+Investigative Direction: Request any evidence of payments to the content creators she has in mind.
+
+---
+
+**C-14232** Host Says Many GATE Program Alumni Report Blank Childhood Memories
+
+Claim Timestamp: 00:44:40
+
+Claim: The host says that a lot of people in the GATE program said they have blank slates for their childhood, citing a commenter with five or six solid childhood memories.
+
+Transcript Snippet: A lot of people in the gate program said this that they just have blank slates for their childhood.
+
+Anchored Artifacts: A-1653.4
+Mentions: N-3
+Related Nodes: N-10422
+Supports: C-2120
+Tags: relevance:context
+Investigative Direction: Collect first-person accounts and consider whether they match other gifted-program memory reports before drawing conclusions.
+
+---
+
+**C-14233** Host Says They Control Both Sides and They Are Satanists
+
+Claim Timestamp: 00:45:20
+
+Claim: The host says that she gets what is happening: they control both sides and they are Satanists, causing the divisions.
+
+Transcript Snippet: They're controlling both sides and they're Satanists.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: No evidence cited; recorded as a worldview claim and not checkable as stated.
+
+---
+
+**C-14234** Host Says Brigitte Macron Story Led Her to the Same Child and Trafficking Theme in the TPUSA Story
+
+Claim Timestamp: 00:45:50
+
+Claim: The host says that speaking about Brigitte Macron and the weird child stuff, and then getting into the Turning Point USA story, she keeps coming up with the theme of trafficking and children.
+
+Transcript Snippet: speaking about Brigitte Macron and the weird child stuff that's happening and suddenly getting into the Turning Point USA story
+
+Anchored Artifacts: A-1653.6
+Mentions: N-3, N-82
+Related Nodes: N-10401
+Supports: C-6981
+Tags: relevance:context
+Investigative Direction: Separate the evidence for each thread; the host links them by theme rather than documents.
+
+---
+
+**C-14235** Host Says Erika Kirk Was in China Six Months and Should Name Her Partners
+
+Claim Timestamp: 00:46:55
+
+Claim: The host says that Erika Kirk knows she was in China for six months, not two weeks, and should say what she worked with and who she worked with.
+
+Transcript Snippet: You know you were there for six months and you should just tell me what you were working with, who you're working with
+
+Anchored Artifacts: A-1653.7
+Mentions: N-2, N-3
+Related Nodes: N-10428
+Supports: C-2143
+Contradicts: C-2142, C-2113
+Tags: relevance:core
+Investigative Direction: Press TPUSA for the charity name and the dates of Erika's stay; the host's six-month figure comes from Charlie's remark.
+
+---
+
+**C-14236** Host Recounts a Commenter Dismissing Mitch Snow Over an Alleged Abuse of Women 20 Years Ago
+
+Claim Timestamp: 00:47:55
+
+Claim: The host recounts a commenter named Joe who argued that Mitch Snow abused women 20 years ago, so his Fort Huachuca account should not be heard, and says Baron Coleman rebutted her; the host does not endorse the allegation.
+
+Transcript Snippet: she was doing the whole Mitch Snow abused women 20 years ago.
+
+Anchored Artifacts: 
+Mentions: N-366, N-334, N-3
+Related Nodes: N-10367
+Tags: relevance:context
+Investigative Direction: Treat the allegation as unverified and attributed only to the commenter; check court records before any use.
+
+---
+
+**C-14237** Host Says All New Fresh Leaks From TPUSA Are Coming This Week
+
+Claim Timestamp: 00:48:10
+
+Claim: The host says that she has all new fresh leaks from Turning Point USA for the week ahead.
+
+Transcript Snippet: we have all new fresh leaks from Turning Point USA.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Track the host's subsequent episodes for the promised leaks.
+
+---
 
 ## 6. Meme Register
 
@@ -961,8 +2305,25 @@ Context: DIA / DCIA brand line from corrected transcript (CKA seq 59).
 Tags: tips_network, brand_joke, transcript_backfill
 Confidence: high
 
----
+### Occurrence 2
 
+Video Timestamp: 00:33:58
+Speaker: N-3
+Quote: More tips at candace Owens. com.
+Context: Host asks for tips on Erika Kirk's China timeline.
+Tags: tips_network, dia
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:34:20
+Speaker: N-3
+Quote: So, more tips at candanace owens. com.
+Context: Host repeats the tip call in the same segment.
+Tags: tips_network, dia
+Confidence: high
+
+---
 
 **M-56** (meme) Clown World
 
@@ -973,6 +2334,45 @@ Speaker: N-3
 Quote: It's it's clown world over there.
 Context: Host diagnoses TPUSA institutional moves as clown world.
 Tags: absurd, residual, institution
+Confidence: high
+
+---
+
+**M-48** (meme) Big Mad
+
+### Occurrence 1
+
+Video Timestamp: 00:43:50
+Speaker: N-3
+Quote: Whenever they get real big mad and they start paying people to make a bunch of videos
+Context: Host says critics get big mad and pay people to make videos.
+Tags: big mad, influence
+Confidence: high
+
+---
+
+**M-75** (meme) I'll Say Allegedly
+
+### Occurrence 1
+
+Video Timestamp: 00:03:02
+Speaker: N-3
+Quote: I'm going going to put in a very strong allegedly here
+Context: Host hedges before relaying the emailer's Cattleman's Ball claim.
+Tags: allegedly, hedge
+Confidence: high
+
+---
+
+**M-77** (meme) Operation Mocking Pastor
+
+### Occurrence 1
+
+Video Timestamp: 00:34:31
+Speaker: N-3
+Quote: Operation Mocking Pastor is back.
+Context: Host announces a new Cornerstone event as Operation Mocking Pastor returning.
+Tags: mocking pastor, influence op
 Confidence: high
 
 ---

@@ -53,7 +53,7 @@
           "@type": "Artifact",
           "@id": "A-1608.1",
           "ref": "A-1608.1",
-          "description": "Christianity Today article: \"Johnny Moore was only 14 when he first stayed in the dorms at Liberty University. And since then, he's pretty much remained at the school that Jerry Fwell Senior founded 41 years ago in Lynchburg, Virginia. Moore and his single mom family briefly lived in the dorms after his parents' divorce and a temporary stretch of homelessness.\"",
+          "description": "Christianity Today article: \"Johnny Moore was only 14 when he first stayed in the dorms at Liberty University. And since then, he's pretty much remained at the school that Jerry Falwell Senior founded 41 years ago in Lynchburg, Virginia. Moore and his single mom family briefly lived in the dorms after his parents' divorce and a temporary stretch of homelessness.\"",
           "related_claims": [
             "C-2049",
             "C-2050"
@@ -210,7 +210,7 @@
           "@type": "Artifact",
           "@id": "A-1613.1",
           "ref": "A-1613.1",
-          "description": "Comment from user \"count\": \"Erika is the reason Charlie even got involved in the Fall Kirk Center. And then the spin-off at Turning Point USA Faith, she was brought in as his handler to move him in that direction. She had him stareyed and wrapped around her finger.\"",
+          "description": "Comment from user \"count\": \"Erika is the reason Charlie even got involved in the Falkirk Center. And then the spin-off at Turning Point USA Faith, she was brought in as his handler to move him in that direction. She had him stareyed and wrapped around her finger.\"",
           "related_claims": [
             "C-2061"
           ],
@@ -414,6 +414,128 @@
           "confidence": "low"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3299",
+      "family_ref": "A-3299",
+      "bundle_name": "Liberty University Insider Source Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3299.1",
+          "ref": "A-3299.1",
+          "description": "Host verbal reference to people still working in Liberty University's office who contacted her with corrections about Falwell Jr., the pastors and Moore (not shown)",
+          "related_claims": [
+            "C-14114",
+            "C-14115",
+            "C-14116",
+            "C-14118",
+            "C-14119",
+            "C-14120",
+            "C-14143"
+          ],
+          "related_nodes": [
+            "N-11384",
+            "N-1",
+            "N-11104",
+            "N-11163",
+            "N-3",
+            "N-404",
+            "N-443",
+            "N-445",
+            "N-448"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:15:02",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3300",
+      "family_ref": "A-3300",
+      "bundle_name": "Moore Classmate Source Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3300.1",
+          "ref": "A-3300.1",
+          "description": "Host verbal reference to a person who went to school with Johnny Moore and described his upbringing (not shown)",
+          "related_claims": [
+            "C-14134",
+            "C-14135"
+          ],
+          "related_nodes": [
+            "N-11104",
+            "N-443"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:23:45",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3301",
+      "family_ref": "A-3301",
+      "bundle_name": "Godwin Disciples Organization Chart Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3301.1",
+          "ref": "A-3301.1",
+          "description": "Organization chart shown or described on air placing Johnny Moore among Ron Godwin's three disciples (content not legible from the transcript)",
+          "related_claims": [
+            "C-14139"
+          ],
+          "related_nodes": [
+            "N-10402",
+            "N-11164",
+            "N-14",
+            "N-405",
+            "N-443",
+            "N-444"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:25:34",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3302",
+      "family_ref": "A-3302",
+      "bundle_name": "Kolvet Inner Circle Sources Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3302.1",
+          "ref": "A-3302.1",
+          "description": "Host verbal reference to two people within Andrew Kolvet's inner circle who contacted her (not shown)",
+          "related_claims": [
+            "C-14101"
+          ],
+          "related_nodes": [
+            "N-14",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:04",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -502,7 +624,7 @@
       "ref": "N-405",
       "name": "Sun Myung Moon",
       "type": "person",
-      "description": "Founder of the Unification Church (transcript spells inconsistently as \"Sunyong Moon\" / \"Sun Young Moon\" / \"Sun Myung Moon\"); source of the three disciples quotation.",
+      "description": "Founder of the Unification Church (transcript spells inconsistently as \"Sun Myung Moon\" / \"Sun Myung Moon\" / \"Sun Myung Moon\"); source of the three disciples quotation.",
       "related_artifacts": [
         "A-1614.1"
       ],
@@ -801,7 +923,29 @@
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14089",
+        "C-14090",
+        "C-14094",
+        "C-14095",
+        "C-14096",
+        "C-14097",
+        "C-14098",
+        "C-14099",
+        "C-14100",
+        "C-14108",
+        "C-14113",
+        "C-14117",
+        "C-14120",
+        "C-14121",
+        "C-14124",
+        "C-14131",
+        "C-14142",
+        "C-14144",
+        "C-14156",
+        "C-14169",
+        "C-14170"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -817,7 +961,13 @@
       "type": "person",
       "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14125",
+        "C-14158",
+        "C-14159",
+        "C-14160",
+        "C-14161"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -833,7 +983,36 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14089",
+        "C-14090",
+        "C-14091",
+        "C-14092",
+        "C-14093",
+        "C-14094",
+        "C-14095",
+        "C-14096",
+        "C-14097",
+        "C-14099",
+        "C-14100",
+        "C-14101",
+        "C-14102",
+        "C-14103",
+        "C-14104",
+        "C-14114",
+        "C-14127",
+        "C-14128",
+        "C-14131",
+        "C-14150",
+        "C-14151",
+        "C-14155",
+        "C-14157",
+        "C-14159",
+        "C-14160",
+        "C-14161",
+        "C-14167",
+        "C-14171"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -849,7 +1028,10 @@
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14151",
+        "C-14152"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -865,7 +1047,10 @@
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14153",
+        "C-14154"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -881,13 +1066,619 @@
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14154"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein; the host contrasts officials' flak toward Tucker Carlson with their stance on Epstein.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14152"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu; appears in the host's dream, in her CIA remark and in a likeness remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14095",
+        "C-14147",
+        "C-14165"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-38",
+      "ref": "N-38",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Seth Dillon; the host recalls his texts pressuring her over Nick Fuentes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14155"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-205",
+      "ref": "N-205",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Nick Fuentes; subject of the pressure campaign the host recalls.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14155"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-366",
+      "ref": "N-366",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Mitch Snow; the host's list includes an operation to debunk 'Mitch' at Fort Huachuca (match inferred, see doubts).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14090"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-404",
+      "ref": "N-404",
+      "name": "Jerry Falwell Sr.",
+      "type": "person",
+      "description": "Jerry Falwell Sr.; Liberty's founder, linked by the host to Moon and to Ron Godwin.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14107",
+        "C-14118",
+        "C-14119",
+        "C-14137"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-601",
+      "ref": "N-601",
+      "name": "Jordan Peterson",
+      "type": "person",
+      "description": "Jordan Peterson; the host says he co-created the report on Christ Is King with Johnny Moore and was cited by Kolvet.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14104",
+        "C-14128"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-619",
+      "ref": "N-619",
+      "name": "Dennis Prager",
+      "type": "person",
+      "description": "Dennis Prager; the host says Kolvet told her he fell and was seriously injured after writing about her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14103"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14124"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10015",
+      "ref": "N-10015",
+      "name": "Mossad",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14147"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10025",
+      "ref": "N-10025",
+      "name": "Israel Lobby Pressure on Conservative Figures",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14151",
+        "C-14155",
+        "C-14156"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Existing place reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14094",
+        "C-14095",
+        "C-14148",
+        "C-14149",
+        "C-14151"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10063",
+      "ref": "N-10063",
+      "name": "Gaza",
+      "type": "investigation_target",
+      "description": "Existing place reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14148"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10082",
+      "ref": "N-10082",
+      "name": "CIA",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14105",
+        "C-14147",
+        "C-14163"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10209",
+      "ref": "N-10209",
+      "name": "TPUSA Faith / Christian Zionist Infiltration Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14133"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14152"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10376",
+      "ref": "N-10376",
+      "name": "AmFest Tent Recreation Approval Chain",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14113"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10378",
+      "ref": "N-10378",
+      "name": "Andrew Kolbet Coordination with Attackers of Mitch Snow",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14100"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10398",
+      "ref": "N-10398",
+      "name": "Turning Point USA Faith Structure",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14108",
+        "C-14113",
+        "C-14117",
+        "C-14144",
+        "C-14162"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10399",
+      "ref": "N-10399",
+      "name": "Unification Church / Moon Inc. Financial Structure",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14106",
+        "C-14109",
+        "C-14110",
+        "C-14111",
+        "C-14112",
+        "C-14145"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10883",
+      "ref": "N-10883",
+      "name": "Anti-Candace Paid Clipping Campaign",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14091"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11104",
+      "ref": "N-11104",
+      "name": "Liberty University",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14107",
+        "C-14114",
+        "C-14115",
+        "C-14117",
+        "C-14118",
+        "C-14119",
+        "C-14120",
+        "C-14122",
+        "C-14126",
+        "C-14134",
+        "C-14137",
+        "C-14140",
+        "C-14141",
+        "C-14142",
+        "C-14143"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 15,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11153",
+      "ref": "N-11153",
+      "name": "Anti-Defamation League",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14127",
+        "C-14128",
+        "C-14129",
+        "C-14130",
+        "C-14131",
+        "C-14132"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11163",
+      "ref": "N-11163",
+      "name": "Falkirk Center",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14089",
+        "C-14116",
+        "C-14117",
+        "C-14121",
+        "C-14142",
+        "C-14158",
+        "C-14159"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11164",
+      "ref": "N-11164",
+      "name": "Kairos Company",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14123",
+        "C-14124",
+        "C-14126",
+        "C-14139"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11169",
+      "ref": "N-11169",
+      "name": "The Washington Times",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14138"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11323",
+      "ref": "N-11323",
+      "name": "Simon Wiesenthal Center",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14129",
+        "C-14130",
+        "C-14131"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-942",
+      "ref": "N-942",
+      "name": "Javier Milei",
+      "type": "person",
+      "description": "First named by the host at 00:49:54 in episode 55 (transcribed as 'Mle'). Argentine president whom the host says she distrusted and about whom she repeats a surname rumor.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14165"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11383",
+      "ref": "N-11383",
+      "name": "Post-Assassination PR Operations Pattern",
+      "type": "topic",
+      "description": "The host's catalog of named narrative campaigns she says were run against her after the assassination (Catholicism, her contact with Kirk, the Egyptian planes, Mitch and Fort Huachuca, her dreams), and her belief that they are coordinated, panicked and well funded.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14090",
+        "C-14091",
+        "C-14092",
+        "C-14100"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11384",
+      "ref": "N-11384",
+      "name": "Falwell Jr. Ouster and Liberty Succession Account",
+      "type": "topic",
+      "description": "The host's account, from sources she says work at Liberty University, of how Jerry Falwell Jr. was removed, how Jerry Prevo's succession followed, and how that affected Charlie Kirk, the Falkirk Center and Johnny Moore.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14115",
+        "C-14116",
+        "C-14142",
+        "C-14143"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11385",
+      "ref": "N-11385",
+      "name": "Erika Kirk Summer House Appearance Question",
+      "type": "topic",
+      "description": "The host's question whether Erika Kirk's 2019 appearance on Summer House connects to Mark Burnett and MGM, and who arranged it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14125"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11386",
+      "ref": "N-11386",
+      "name": "Erika Kirk Background and Overseas Claims Inquiry",
+      "type": "topic",
+      "description": "The host's stated plan to examine Erika Kirk's charities and her claims of living in China and Costa Rica, and to offer her a chance to respond.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14160",
+        "C-14161"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1170,7 +1961,7 @@
       "@id": "C-2061",
       "ref": "C-2061",
       "label": "Top comment claims Erika Kirk was brought in as Charlie Kirk's handler at the Falwell Center",
-      "claim": "A top comment from a user identified as \"count\" claimed that \"Erika is the reason Charlie even got involved in the Fall Kirk Center\" and that she was \"brought in as his handler to move him in that direction.\"",
+      "claim": "A top comment from a user identified as \"count\" claimed that \"Erika is the reason Charlie even got involved in the Falkirk Center\" and that she was \"brought in as his handler to move him in that direction.\"",
       "anchored_artifacts": [
         "A-1613.1"
       ],
@@ -1362,7 +2153,2096 @@
       "tags": [],
       "claim_timestamp": "00:11:59–00:12:48",
       "investigative_direction": "Review Turning Point USA's publicly available donation solicitations, IRS Form 990 filings, and any state charitable solicitation registrations. *Flag: Claim failed artifact anchor test; requires documentary corroboration.*"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14089",
+      "ref": "C-14089",
+      "label": "Host Says the Falkirk Center Scandal Could Have Felled Both Falwell Jr. and Kirk",
+      "claim": "The host says she now believes the scandal around the Falkirk Center could have led to the fall of both Jerry Falwell Jr. and Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11163",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:45",
+      "investigative_direction": "Obtain Falkirk Center founding and wind-down records, Liberty University board minutes and dated reporting on Falwell Jr.'s exit to test whether the center's end is linked to Kirk's later fortunes.",
+      "transcript_snippet": "Obviously scandal scandal which I now believe could have led to the fall of both men.",
+      "mentions_person_refs": [
+        "N-445",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14090",
+      "ref": "C-14090",
+      "label": "Host Lists the Post-Assassination PR Operations She Says Were Run Against Her",
+      "claim": "The host lists a sequence of what she calls PR operations since the assassination: 'he wasn't Catholic', 'Candace hasn't spoken to Charlie in years', 'LOL Egyptian planes' and 'Debunk Mitch in Fort Huachuca with Baby Mama Drama', and says whoever runs them is panicking.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11383"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:26",
+      "investigative_direction": "Compare the dated public statements and posts behind each named narrative with the host's timeline of when each appeared and who first amplified it.",
+      "transcript_snippet": "There was a operation he wasn't Catholic. Furious, followed by Operation Candace hasn't spoken to Charlie in years, followed by Operation Lol Egyptian Plains, followed by Operation Debunk Mitch in Fort Huachuca with Baby Mama Drama.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14091",
+      "ref": "C-14091",
+      "label": "Host Imagines a Wealthy Backer Phoning People With Bitcoin Offers to Call Her Crazy",
+      "claim": "The host suggests someone with a lot of money is phoning people offering $600,000 in Bitcoin to say Candace has gone crazy; she presents this as her illustration of how the operations feel, not as a named incident.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11383",
+        "N-10883"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:26",
+      "investigative_direction": "Ask the host whether any named person was actually offered money to disparage her; otherwise treat as illustrative. Check paid-clipping campaign records already in the monument.",
+      "transcript_snippet": "Like he's just phoning people up like I'll give you $600,000 and have that money transferred in your account with Bitcoin today.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14092",
+      "ref": "C-14092",
+      "label": "Host Says She Believes the Operation Mocking Her Dreams Is Run by a Person Personally Victimized by Them",
+      "claim": "The host says the 'Operation LOL, Candace has dreams' campaign persists in pockets of the internet and that she believes whoever directs it feels personally victimized by her dream.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11383",
+        "N-10404"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:45",
+      "investigative_direction": "Identify the accounts that first pushed the dream-mocking narrative and any link to TPUSA staff or contractors.",
+      "transcript_snippet": "I think it's someone who feels personally victimized by the dream",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14093",
+      "ref": "C-14093",
+      "label": "Host Says Her Husband Told Her to See a Priest and They Spoke About Souls in Purgatory",
+      "claim": "The host says that, overwhelmed by nightly vivid dreams after the assassination, she told her husband through tears and he advised her to consult a priest, which she did, and they spoke about souls in purgatory.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10404"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:17",
+      "investigative_direction": "Only the host can supply the priest's identity and date; any corroboration would come from her husband or the priest.",
+      "transcript_snippet": "he told me that I should consult a priest which I did and we spoke about souls in purgatory.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14094",
+      "ref": "C-14094",
+      "label": "Host Says the Repeat Dream Replayed a Real 2018 Lunch With Charlie in Israel",
+      "claim": "The host says her repeating post-assassination dream was a replay of a real lunch with Charlie Kirk in 2018 during their trip to Israel, in which Kirk raved about the hummus.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10404",
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:17",
+      "investigative_direction": "Check the host's and Kirk's 2018 Israel trip dates, itinerary and photos against her account of the restaurant lunch.",
+      "transcript_snippet": "It was actually a replay of an actual lunch that Charlie and I did have in the past back in 2018.",
+      "supports_claim_refs": [
+        "C-9642"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14095",
+      "ref": "C-14095",
+      "label": "Host Says the Real 2018 Trip Was for the Embassy Opening but the Dream Placed Them at Netanyahu's Wife's Funeral",
+      "claim": "The host says that in the dream the setting differed from the real trip, which was for the opening of the embassy: they were instead there for the funeral of the wife of Benjamin Netanyahu, whom she says she has never met or spoken about; she says she does not understand the difference.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10404",
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:30",
+      "investigative_direction": "Verify the host and Kirk attended the 2018 US embassy opening in Jerusalem (travel records, photos) to anchor the real-trip half of the claim; the dream half is not testable.",
+      "transcript_snippet": "Instead, we were there in this dream setting for BB Netanyahu's wife's funeral.",
+      "supports_claim_refs": [
+        "C-9642"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14096",
+      "ref": "C-14096",
+      "label": "Host Says Charlie in the Dream Told Her He Had Little Time and She Must See What Happened on His Left",
+      "claim": "The host says that in the dream Charlie Kirk told her he did not have much time and that she needed to see what happened on his left.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10404"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:30",
+      "investigative_direction": "Not independently testable; compare with the host's other accounts of the dream across episodes for consistency.",
+      "transcript_snippet": "Charlie said to me, I don't have much time. He followed that up explaining to me uh that I needed to see what happened on his left.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14097",
+      "ref": "C-14097",
+      "label": "Host Says Charlie in the Dream Said Multiple People Betrayed Him",
+      "claim": "The host says Charlie Kirk told her explicitly in the dream that multiple people betrayed him and that she replied she knew but could not learn who.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10404"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:27",
+      "investigative_direction": "Compare this version of the dream with the host's earlier accounts for any change in who or how many are said to have betrayed him.",
+      "transcript_snippet": "And he told me explicitly, they betrayed me, multiple people.",
+      "supports_claim_refs": [
+        "C-12416",
+        "C-12064"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14098",
+      "ref": "C-14098",
+      "label": "Host Says Kolvet's Face Appeared in the Dream in the Third Week After Charlie's Death",
+      "claim": "The host says the face that finally came through in the dream, clear as day from around the corner of the restaurant, was Andrew Kolvet's, in the third week after Kirk's death.",
+      "anchored_artifacts": [
+        "A-1607.1"
+      ],
+      "related_nodes": [
+        "N-10404"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:27",
+      "investigative_direction": "Date the dream against the date of the text to Kolvet (A-1607.1) to confirm the sequence the host describes.",
+      "transcript_snippet": "It wasn't until the third week after his death that finally one face came through in this dream.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14099",
+      "ref": "C-14099",
+      "label": "Host Says She Was Friendly With Kolvet and Had Spoken With Him Extensively After the Assassination",
+      "claim": "The host says she had known Andrew Kolvet for years, was very friendly with him and had spoken with him extensively in the aftermath of Charlie's death before she texted him about the dream.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:11",
+      "investigative_direction": "Phone and message logs between the host and Kolvet from September 2025 would show the frequency and end date of their contact.",
+      "transcript_snippet": "In fact, I was very friendly with Andrew Kolvet. We had spoken extensively in the aftermath of Charlie's death.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14100",
+      "ref": "C-14100",
+      "label": "Host Says It Was Kolvet Orchestrating the Attacks and He Was Caught Red-Handed",
+      "claim": "The host says that today they learn Andrew Kolvet has been orchestrating the attacks on her and that he was caught red-handed, and that she did not assume this earlier because she thought they were good guys who loved Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11383",
+        "N-10378"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:04",
+      "investigative_direction": "Identify what 'caught red-handed' refers to (likely earlier episodes on Kolvet's contacts with YouTubers) and obtain the underlying messages or records.",
+      "transcript_snippet": "we learn that it's been Andrew Kolvet orchestrating all of these attacks actually got caught red-handed.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14101",
+      "ref": "C-14101",
+      "label": "Host Says Two People in Kolvet's Inner Circle Told Her to Look More Into Him",
+      "claim": "The host says that after the dream, two people within Andrew Kolvet's inner circle reached out and told her she should look more into Kolvet.",
+      "anchored_artifacts": [
+        "A-3302.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:04",
+      "investigative_direction": "Only the host's sources can confirm; ask whether either has gone on record or can be corroborated by documents.",
+      "transcript_snippet": "two people within Andrew's inner circle reached out to me and told me that I should look more into Andrew Kolvet.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14102",
+      "ref": "C-14102",
+      "label": "Host Says Kolvet Once Asked Her in Earnest Whether She Is a Witch",
+      "claim": "The host says that before AmFest, while she was in London, Andrew Kolvet phoned and asked her in earnest whether she is a witch, because bad things happen to people who attack her; she says she laughed and answered no.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:04",
+      "investigative_direction": "Phone records for the call before AmFest and any witness to it; Kolvet could be asked to confirm or deny.",
+      "transcript_snippet": "asked me, \"Are you a witch?\" But I laughed at him on the phone.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14103",
+      "ref": "C-14103",
+      "label": "Host Says Kolvet Told Her Dennis Prager Fell and Was Seriously Injured After Writing About Her",
+      "claim": "The host says Kolvet told her that Dennis Prager, who had just written an open article about her, had fallen and been seriously injured, and that Kolvet cited this as an example of bad things happening to those who attack her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:08:04",
+      "investigative_direction": "Verify the date and nature of Prager's injury and the date of his article about the host from public reporting.",
+      "transcript_snippet": "Dennis Prager, who had just written this open article about me and it was not done in a very nice way, had actually fallen and it was very he was very seriously injured.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-619",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14104",
+      "ref": "C-14104",
+      "label": "Host Says Kolvet Also Cited the Daily Wire and Jordan Peterson as Cases of Misfortune After Attacking Her",
+      "claim": "The host says Kolvet went on to cite 'the Daily Wire thing and the Jordan Peterson thing' as further examples of bad things happening to people after they attack her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:08:04",
+      "investigative_direction": "Ask Kolvet to confirm the conversation; check which Daily Wire and Peterson events he meant.",
+      "transcript_snippet": "Oh, the Daily Wire thing and the Jordan Peterson thing and like bad things are happening to people after they attack you.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-601",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14105",
+      "ref": "C-14105",
+      "label": "Host Says Sun Myung Moon Was Working for the CIA While Leading a Religious Cult",
+      "claim": "The host says the Korean man Sun Myung Moon was actually working for the CIA while leading what became a religious cult.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10082",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:23",
+      "investigative_direction": "Check declassified CIA and Korean intelligence records, and congressional findings on the Unification Church, for any documented relationship with Moon.",
+      "transcript_snippet": "this Korean man, Sun Myung Moon, who was actually working for the CIA, Assad, while leading effectively what became a religious cult.",
+      "mentions_person_refs": [
+        "N-405"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14106",
+      "ref": "C-14106",
+      "label": "Host Says Moon's Church Bought Up Land, Buildings, Entire Blocks and Companies",
+      "claim": "The host says Moon's movement was buying up land, buildings, entire blocks and many companies while convincing followers it was for 'the father'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10399",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:23",
+      "investigative_direction": "Use the Washington Post and congressional investigations on Moon-linked holdings already cited in episode 54 for a property and company list.",
+      "transcript_snippet": "they were buying up land, buildings, entire blocks, all these different companies while convincing the masses that it was actually for the father.",
+      "supports_claim_refs": [
+        "C-8212"
+      ],
+      "mentions_person_refs": [
+        "N-405"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14107",
+      "ref": "C-14107",
+      "label": "Host Says Moon Got Involved With Liberty University Through Jerry Falwell Sr.",
+      "claim": "The host says Moon became involved with Liberty University via Jerry Falwell Sr.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11104",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:23",
+      "investigative_direction": "Review the 1990s Liberty financial rescue records (Women's Federation and New World Communications loans) and Falwell Sr.'s dealings with Moon-linked entities.",
+      "transcript_snippet": "And then he got involved with Liberty University via Jerry Falwell senior.",
+      "supports_claim_refs": [
+        "C-2030"
+      ],
+      "mentions_person_refs": [
+        "N-405",
+        "N-404"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14108",
+      "ref": "C-14108",
+      "label": "Host Concludes the True Aim of Turning Point Faith Was to Make Kirk a Controllable Messiah in Death",
+      "claim": "The host concludes that the true aim of Turning Point USA Faith was to turn Charlie Kirk into a messiah figure whose image could be controlled in his death and could not be questioned because of how sad the assassination was.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10398",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:23",
+      "investigative_direction": "This is an interpretation; test against TPUSA Faith's founding documents, memorial programming and statements describing Kirk's legacy.",
+      "transcript_snippet": "the true aim of Turning Point USA faith was to transform Charlie Kirk into a messiah of sorts whose image that they could control in his death.",
+      "supports_claim_refs": [
+        "C-8210"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-405"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14109",
+      "ref": "C-14109",
+      "label": "Host Says the Moon Movement Was Riddled With Claims of Sexual Rituals and Abuse",
+      "claim": "The host says the Moonies cult was riddled with claims of sexual rituals, physical and psychological abuse, and financial corruption.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10399",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:11:59",
+      "investigative_direction": "Compare with documented allegations against the Unification Church in court records, journalism and former-member accounts.",
+      "transcript_snippet": "the Mooney's cult was riddled with claims of sexual rituals, physical and psychological abuse, and of course, as we've covered already, financial corruption.",
+      "mentions_person_refs": [
+        "N-10402"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14110",
+      "ref": "C-14110",
+      "label": "Host Says Unification Church Financial Corruption Led to a Political Assassination in Japan in 2022",
+      "claim": "The host says the Moon movement's financial corruption was so extensive that it led to a political assassination in Japan in 2022.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10399",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:59",
+      "investigative_direction": "Check the 2022 Shinzo Abe assassination reporting and the shooter's stated motive regarding the Unification Church.",
+      "transcript_snippet": "So much financial corruption that it actually led to a political assassination in Japan. Remember 2022?",
+      "mentions_person_refs": [
+        "N-405",
+        "N-450"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14111",
+      "ref": "C-14111",
+      "label": "Host Says Abe's Family Had Long-Running Unification Church Ties and Was Blamed by His Killer",
+      "claim": "The host says Shinzo Abe was shot and killed by a 41-year-old man who blamed him for promoting the Unification Church, to which Abe's family had long-running ties and with which his cabinet was closely associated.",
+      "anchored_artifacts": [
+        "A-1609.1"
+      ],
+      "related_nodes": [
+        "N-10399",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:48",
+      "investigative_direction": "Verify against Japanese court records and major outlets on the shooter's stated motive and the Abe family's documented ties to the church.",
+      "transcript_snippet": "he was shot and he was killed because a 41-year-old man blamed the prime minister whose family did in fact have longunning ties to the Mooney church",
+      "mentions_person_refs": [
+        "N-450"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14112",
+      "ref": "C-14112",
+      "label": "Host Says the Killer's Mother Was Brainwashed Into Giving the Church the Family's Money",
+      "claim": "The host says the man who killed Abe was destitute because the church had brainwashed his mother in her old age into giving it all the family's money, and that his brother committed suicide and he himself attempted suicide.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10399",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:48",
+      "investigative_direction": "Check trial reporting on the shooter's family finances and the siblings' circumstances; the host notes this is not a justification.",
+      "transcript_snippet": "They had brainwashed his mother in her old age, brainwashed her into giving the church all of his family's money",
+      "mentions_person_refs": [
+        "N-450"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14113",
+      "ref": "C-14113",
+      "label": "Host Says AmFest Felt Like a Charismatic Cult Using Manipulation Tactics",
+      "claim": "The host says she felt 'a strand of ick' at AmFest, where she says everyone spoke about the Lord but no one meant it, and describes it as a charismatic cult of people trained in tactics of manipulation preying on weak minds, including people who love Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10376",
+        "N-10398"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:02",
+      "investigative_direction": "This is a characterization; test claims of staging or training against AmFest production records and speaker preparation materials.",
+      "transcript_snippet": "It was instead watching a charismatic cult, people who were trained in tactics of manipulation, praying on weak minds of their followers and people who actually love Charlie Kirk.",
+      "supports_claim_refs": [
+        "C-8210"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14114",
+      "ref": "C-14114",
+      "label": "Host Says People Still Working at Liberty University Contacted Her to Correct Her",
+      "claim": "The host says she was contacted by people still working in Liberty University's office who told her she had a couple of things wrong in her earlier reporting.",
+      "anchored_artifacts": [
+        "A-3299.1"
+      ],
+      "related_nodes": [
+        "N-11104"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:02",
+      "investigative_direction": "Only the host can identify the sources; ask whether any will go on record or can supply documents.",
+      "transcript_snippet": "I was contacted by people who are still at Liberty University, still working in Liberty University's office.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14115",
+      "ref": "C-14115",
+      "label": "Host Says Her Liberty Source Says Falwell Jr. Was Unfairly Taken Down Through the Pool Boy Affair",
+      "claim": "The host says, with an 'allegedly', that her Liberty source told her Jerry Falwell Jr. was unfairly taken down: his wife did have an affair with the pool boy, Falwell himself confirmed this, and the affair was used to generate many articles and force his ouster from the church.",
+      "anchored_artifacts": [
+        "A-3299.1"
+      ],
+      "related_nodes": [
+        "N-11104",
+        "N-11384"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:02",
+      "investigative_direction": "Review Falwell Jr.'s own public statements on the affair and the 2020 board and Liberty documents on his departure.",
+      "transcript_snippet": "his wife was indeed having an affair with the pool boy and uh that affair was then used to generate a ton of articles and then used to force his ouster",
+      "supports_claim_refs": [
+        "C-8140"
+      ],
+      "mentions_person_refs": [
+        "N-445"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14116",
+      "ref": "C-14116",
+      "label": "Host Says Her Source Claims Corrupt Evangelical Pastors Wanted Falwell Jr. Out to End the Falkirk Center",
+      "claim": "The host says her Liberty source claims it was corrupt evangelical pastors who wanted Falwell Jr. out and wanted to put an end to the Falkirk Center.",
+      "anchored_artifacts": [
+        "A-3299.1"
+      ],
+      "related_nodes": [
+        "N-11163",
+        "N-11384"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:02",
+      "investigative_direction": "Ask the source to name the pastors and show communications; compare with Liberty board minutes and reporting on the center's closure.",
+      "transcript_snippet": "it was corrupt pastors, evangelical pastors that wanted him out and wanted to put an end to the Falkirk Center.",
+      "mentions_person_refs": [
+        "N-445"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14117",
+      "ref": "C-14117",
+      "label": "Host Says Kirk and Falwell Jr. Established the Precursor to Turning Point Faith",
+      "claim": "The host says Charlie Kirk and Jerry Falwell Jr. came together and established what was the precursor to Turning Point Faith, aiming to turn Kirk's youth brand into ministry for evangelicals and send young people to Liberty.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11163",
+        "N-10398",
+        "N-11104"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:02",
+      "investigative_direction": "Compare the Falkirk Center's stated mission and launch announcements with the later Turning Point Faith materials.",
+      "transcript_snippet": "Charlie Kirk and Jerry Falwell came together and established what was the precursor to Turning Point Faith.",
+      "supports_claim_refs": [
+        "C-8139"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-445"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14118",
+      "ref": "C-14118",
+      "label": "Host Says Falwell Jr. Made Liberty a Profitable School Separate From the Church Finances",
+      "claim": "The host says Jerry Falwell Jr. had turned Liberty University into a very profitable school and separated it from the church so the finances would not be mingled, which his father had not done.",
+      "anchored_artifacts": [
+        "A-3299.1"
+      ],
+      "related_nodes": [
+        "N-11104"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:51",
+      "investigative_direction": "Check Liberty's Form 990s and the historical relationship between Thomas Road Baptist Church and the university.",
+      "transcript_snippet": "Had turned it into a very profitable um uh school and he had separated it from the church wanting the finances not to be mingled with the church which was something that his father had not done.",
+      "mentions_person_refs": [
+        "N-445",
+        "N-404"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14119",
+      "ref": "C-14119",
+      "label": "Host Says Pastors Who Profited Under Falwell Sr. Resented the Separation and Wanted the School's Earnings",
+      "claim": "The host says, again with an 'allegedly', that pastors who made a fortune while Falwell Sr. was alive disliked the church-school separation and wanted to profit from the school's earnings as before.",
+      "anchored_artifacts": [
+        "A-3299.1"
+      ],
+      "related_nodes": [
+        "N-11104"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:51",
+      "investigative_direction": "Identify the pastors and examine historical payments from the school to church-linked entities.",
+      "transcript_snippet": "the pastors who made a fortune while Jerry Falwell senior was alive did not like that.",
+      "mentions_person_refs": [
+        "N-404",
+        "N-445"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14120",
+      "ref": "C-14120",
+      "label": "Host Quotes Her Liberty Source Saying What Was Done to Charlie Is Wrong and the Pastors Are Lying",
+      "claim": "The host says her source, who disagrees with her on Israel, told her they had to speak up because what they did to Charlie is wrong, they are lying about what happened, and something is not right with these pastors.",
+      "anchored_artifacts": [
+        "A-3299.1"
+      ],
+      "related_nodes": [
+        "N-11104"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:51",
+      "investigative_direction": "Ask the source what 'what they did to Charlie' refers to and which pastors and statements are meant.",
+      "transcript_snippet": "what they did to Charlie is wrong and they're lying about what happened and I know that something is not right with these pastors because I know these men.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14121",
+      "ref": "C-14121",
+      "label": "Host Says Johnny Moore Pulled Up a Chair at the Kirk and Falwell Planning Meeting in 2021",
+      "claim": "The host says that when Charlie Kirk was meeting at Liberty University in 2021 about establishing the Falkirk Center, Johnny Moore inserted himself into the planning session and just pulled up a chair.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11163",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:51",
+      "investigative_direction": "Find attendee lists, calendars or minutes for the Falkirk planning meeting, and public reporting dating the center's launch (the host says 2021).",
+      "transcript_snippet": "a certain Johnny Moore inserted himself into the meeting, the planning sesh, so to speak. He just pulled up a chair.",
+      "mentions_person_refs": [
+        "N-443",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14122",
+      "ref": "C-14122",
+      "label": "Host Says Moore Quit as Liberty's Lead Pastor in 2014 and Had No Reason to Be at the Meeting",
+      "claim": "The host says Johnny Moore had quit his job as lead pastor of Liberty University in 2014 and had no reason to be at the 2021 meeting, yet came up with one.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11104",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:51",
+      "investigative_direction": "Check Moore's biography and Liberty staff records for his titles and departure date.",
+      "transcript_snippet": "he had quit his job as the lead pastor of Liberty University back in 2014.",
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14123",
+      "ref": "C-14123",
+      "label": "Host Says Moore Left Liberty in 2014 for Hollywood to Start the Kairos Company",
+      "claim": "The host says that when Johnny Moore left Liberty University in 2014 he went to Hollywood to start the PR company, the Kairos Company.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11164",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:51",
+      "investigative_direction": "Obtain Kairos Company incorporation and founding records and Moore's own account of his move.",
+      "transcript_snippet": "when Johnny left Liberty University in 2014, he went to Hollywood to start the PR company, the Kairos Company.",
+      "supports_claim_refs": [
+        "C-8136"
+      ],
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14124",
+      "ref": "C-14124",
+      "label": "Host Says Kolvet Was Executive Vice President of Kairos Before Becoming Kirk's PR Man",
+      "claim": "The host says Andrew Kolvet was a part of the Kairos Company as executive vice president, effectively working for it, and was then hired as the PR guy for Charlie Kirk and Turning Point USA; she calls him Moore's partner or protege.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11164",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:51",
+      "investigative_direction": "Check Kolvet's LinkedIn history, Kairos Company staff listings and TPUSA hiring announcements for titles and dates.",
+      "transcript_snippet": "Andrew Kolvet was the executive vice president and he effectively was working for the Kairos Company",
+      "supports_claim_refs": [
+        "C-8136"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-443",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14125",
+      "ref": "C-14125",
+      "label": "Host Wonders Whether Erika Kirk's 2019 Summer House Appearance Connects to Mark Burnett",
+      "claim": "The host recalls that Erika Kirk appeared on a show called Summer House in 2019, notes that Mark Burnett owned it when he took over MGM, and says there could be a connection and she will ask how Erika got on the show and who her PR person was.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11385"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:23",
+      "investigative_direction": "Verify Erika Kirk's reality-TV appearance and its production company, then Burnett's MGM role and Summer House ownership; the host leaves the link open.",
+      "transcript_snippet": "wasn't Erika on a show randomly?\" Uh what's what's the show called Summerhouse in 2019?",
+      "supports_claim_refs": [
+        "C-2072"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-446"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14126",
+      "ref": "C-14126",
+      "label": "Host Says Moore Consistently Tried to Get His Job Back at Liberty Despite Founding Kairos",
+      "claim": "The host says Johnny Moore, despite establishing the Kairos Company, immediately and consistently wanted his job back at Liberty University, and asks why a PR company was so keen to keep a leg inside growing evangelical organizations.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11164",
+        "N-11104"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:09",
+      "investigative_direction": "Seek Liberty hiring correspondence or Moore's own statements on returning to the university.",
+      "transcript_snippet": "Johnny Moore immediately and consistently despite establishing the Chyros Company wanted his job back at Liberty University",
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14127",
+      "ref": "C-14127",
+      "label": "Host Says the ADL Put Her on Its List for the Christ Is King Episode",
+      "claim": "The host says that before she was fired the ADL put her on its list over the Christ Is King controversy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:09",
+      "investigative_direction": "Retrieve the ADL listing and its date and the stated reason for the host's inclusion.",
+      "transcript_snippet": "Do you remember back when the ADL put me on their list uh before I got fired? Before the whole uh Christ is King debbacle, that's what they put me on the list for.",
+      "supports_claim_refs": [
+        "C-7853"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14128",
+      "ref": "C-14128",
+      "label": "Host Says Peterson and Moore Produced a Report Calling Christ Is King Anti-Semitic",
+      "claim": "The host says that a year after the ADL listing Jordan Peterson and Reverend Johnny Moore created a report and a video graphic explaining that 'Christ is king' is anti-Semitic and portraying her as a radical.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:09",
+      "investigative_direction": "Locate the report and video graphic, their authors, date and publisher, and any ADL involvement.",
+      "transcript_snippet": "Jordan Peterson, Dr. Jordan Peterson and a certain Reverend Johnny Moore created a report and doubled down explaining that uh Christ is king is in fact actually anti-Semitic.",
+      "mentions_person_refs": [
+        "N-601",
+        "N-443",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14129",
+      "ref": "C-14129",
+      "label": "Host Says Moore Serves on the ADL Task Force and Received a Wiesenthal Center Medal of Valor",
+      "claim": "The host says Johnny Moore serves on the ADL task force and received the Medal of Valor from the Simon Wiesenthal Center.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-11323"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:04",
+      "investigative_direction": "Check the ADL task force roster and the Wiesenthal Center's award announcements for Moore.",
+      "transcript_snippet": "He serves on the ADL task force. He received the Medal of Valor uh from the Simon Wiesenthal Center.",
+      "supports_claim_refs": [
+        "C-2053"
+      ],
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14130",
+      "ref": "C-14130",
+      "label": "Host Says the ADL and Wiesenthal Center Were Born Out of Zionist Gangs",
+      "claim": "The host says the ADL and the Simon Wiesenthal Center were born out of Zionist gangs, 'literal gangs'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-11323"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:21:04",
+      "investigative_direction": "Compare with the organizations' documented founding histories (the ADL's origins are covered in episode 14 claims).",
+      "transcript_snippet": "They were born out of Zionist gangs, literal gangs, just to be clear.",
+      "mentions_person_refs": [
+        "N-11323"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14131",
+      "ref": "C-14131",
+      "label": "Host Says the ADL and Wiesenthal Center Are Behind the Initial Attacks Meant to Split Her From Kirk",
+      "claim": "The host says these same organizations are behind the initial attacks on her that were meant from the beginning to pull her and Charlie Kirk apart by drumming up anti-Semitism scandals and then having donors demand action.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11153",
+        "N-11323"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:04",
+      "investigative_direction": "Obtain donor communications and the dated sequence of the 2018 and later antisemitism controversies to test the alleged pattern.",
+      "transcript_snippet": "the very organizations behind the initial attacks on me that have from the beginning been meant to pull me and Charlie apart by drumming up weird anti-semitism scandals and then having donors demand action.",
+      "supports_claim_refs": [
+        "C-12156"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14132",
+      "ref": "C-14132",
+      "label": "Moore Clip: Says He Is Not Jewish but Always Felt at Home in the ADL Community",
+      "claim": "In the audio clip played, Johnny Moore says he is not Jewish but Christian and has always felt at home in the ADL community.",
+      "anchored_artifacts": [
+        "A-1610.1"
+      ],
+      "related_nodes": [
+        "N-11153"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:30",
+      "investigative_direction": "Identify the source and date of the clip and the event at which Moore spoke.",
+      "transcript_snippet": "I can tell you again, I'm not I'm not Jewish. I'm I'm Christian. Uh and yet I've just always felt felt at home, you know, in the ADL community.",
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14133",
+      "ref": "C-14133",
+      "label": "Moore Clip: Says He Will Educate Christians on Christian Anti-Semitism",
+      "claim": "In the audio clip, Johnny Moore says the commitment to build a great wall of Christian Zionism also includes educating well-meaning Christians on their own history of Christian anti-semitism.",
+      "anchored_artifacts": [
+        "A-1610.2"
+      ],
+      "related_nodes": [
+        "N-10209"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:22:43",
+      "investigative_direction": "Locate the original venue and date of the speech and compare with the full transcript.",
+      "transcript_snippet": "But that also includes educating well-meaning Christians on our own history of Christian anti-semitism.",
+      "supports_claim_refs": [
+        "C-2054"
+      ],
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14134",
+      "ref": "C-14134",
+      "label": "Host Says a Former Classmate Verified Moore's Poor Upbringing Outside Lynchburg",
+      "claim": "The host says someone who went to school with Johnny Moore verified the Christianity Today account, saying he grew up outside Lynchburg and was very poor.",
+      "anchored_artifacts": [
+        "A-3300.1"
+      ],
+      "related_nodes": [
+        "N-11104"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:23:45",
+      "investigative_direction": "Only the host's source can be identified; independent confirmation would come from yearbooks or other classmates.",
+      "transcript_snippet": "Now, somebody that went to school with him verified exactly that. They said he was a kid who grew up outside of Lynchburg in high school.",
+      "supports_claim_refs": [
+        "C-2050"
+      ],
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14135",
+      "ref": "C-14135",
+      "label": "Host Relays a Classmate's Claim That Moore Was Caught With Porn Magazines and Mocked",
+      "claim": "The host relays, from someone she says went to school with Moore, that Moore had severe daddy issues and was caught with porn magazines and badly made fun of; she adds that kids make mistakes growing up.",
+      "anchored_artifacts": [
+        "A-3300.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:23:45",
+      "investigative_direction": "School-age personal anecdote from an unnamed classmate; no public record is likely to exist.",
+      "transcript_snippet": "He got caught with some porn magazines and was pretty badly made fun of.",
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14136",
+      "ref": "C-14136",
+      "label": "Host Says Moore Had a Male Mentor Who Bought Him and His Family Brand-New Cars",
+      "claim": "The host says, with 'allegedly', that Johnny Moore had a male mentor who bought him and everyone in his family brand-new cars.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:24:29",
+      "investigative_direction": "Vehicle purchase records are unlikely to be public; the host should say who told her.",
+      "transcript_snippet": "He had a male mentor who bought him and everyone in his family allegedly brand new cars.",
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14137",
+      "ref": "C-14137",
+      "label": "Host Says Ron Godwin Pushed Falwell Sr. to Give Moore a Position at Liberty",
+      "claim": "The host says Johnny Moore's mentor, Ron Godwin, was the one who pushed for Jerry Falwell Sr. to give Moore a position at Liberty University.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11104",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:29",
+      "investigative_direction": "Check Liberty staff history and Godwin's own accounts for Moore's hiring.",
+      "transcript_snippet": "And this daddy mentor of his is the one that pushed for Jerry Falwell senior to give Johnny a position with Liberty University. That man's name is Ron Godwin.",
+      "mentions_person_refs": [
+        "N-443",
+        "N-444",
+        "N-404"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14138",
+      "ref": "C-14138",
+      "label": "Host Says Moon Picked Godwin to Run The Washington Times",
+      "claim": "The host says Sun Myung Moon picked Ron Godwin to run the Washington Times for him, as well as naming him one of three disciples.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11169",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:29",
+      "investigative_direction": "Check Godwin's tenure as Washington Times president in public biographies and newspaper archives.",
+      "transcript_snippet": "Sun Myung Moon who led this Mooney's cult picked Ron Godwin not only just to run the Washington Times for him",
+      "supports_claim_refs": [
+        "C-8211"
+      ],
+      "mentions_person_refs": [
+        "N-405",
+        "N-444"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14139",
+      "ref": "C-14139",
+      "label": "Host Says Her Organization Chart Shows Moore as One of Godwin's Three Disciples",
+      "claim": "The host says that on her organization chart Johnny Moore appears to be one of Ron Godwin's three disciples, who minted the Kairos Company with Andrew Kolvet, and that she is unsure whether Kolvet is Moore's disciple or one of Godwin's three.",
+      "anchored_artifacts": [
+        "A-3301.1"
+      ],
+      "related_nodes": [
+        "N-11164",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:34",
+      "investigative_direction": "Obtain the host's chart and its sources; the 'three disciples' quote must be tied to Godwin by a primary Unification Church source, and Moore's status as one of them is the host's inference.",
+      "transcript_snippet": "we can confirm that looks like one of Godwin's three disciples, so to speak, was Johnny Moore",
+      "supports_claim_refs": [
+        "C-2055"
+      ],
+      "mentions_person_refs": [
+        "N-443",
+        "N-444",
+        "N-14",
+        "N-405"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14140",
+      "ref": "C-14140",
+      "label": "Host Says Godwin Retired From Liberty in October 2014 and Moore Left With Him",
+      "claim": "The host says Ron Godwin retired from Liberty University in October 2014 and his protege Johnny Moore left too, going to Hollywood.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11104",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:34",
+      "investigative_direction": "Check Godwin's retirement date in Liberty announcements.",
+      "transcript_snippet": "when Ron Godwin retired from Liberty University in October of 2014, uh of course his Johnny boy left too, right?",
+      "mentions_person_refs": [
+        "N-444",
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14141",
+      "ref": "C-14141",
+      "label": "Host Says Moore Wanted Back Into Liberty but Was Repeatedly Told No Until 2021",
+      "claim": "The host says that without Godwin to push his paperwork, Johnny Moore was repeatedly told no when he wanted back in at Liberty, and had no pathway to return until 2021.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11104",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:34",
+      "investigative_direction": "Needs internal Liberty hiring correspondence; the host's source is inside Liberty.",
+      "transcript_snippet": "he wanted back in at Liberty University and he was told no repeatedly",
+      "mentions_person_refs": [
+        "N-443",
+        "N-444"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14142",
+      "ref": "C-14142",
+      "label": "Host Says Falwell Jr. Was Ousted and Successor Prevo Immediately Fired Charlie Kirk",
+      "claim": "The host says that in 2021 Jerry Falwell Jr. was ousted from Liberty, Jerry Prevo was named his successor, and the very first thing Prevo did was fire Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11104",
+        "N-11163",
+        "N-11384"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:54",
+      "investigative_direction": "Check the dates: public reporting should be compared with the host's 2021 date for Falwell Jr.'s exit, Prevo's appointment and the end of the Kirk and Falkirk arrangement; obtain any termination notice.",
+      "transcript_snippet": "Jerry Falwell gets ousted from Liberty University. Jerry Prevo is named as his successor. And the very first thing that Jerry Prevo does is he fires Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-445",
+        "N-448",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14143",
+      "ref": "C-14143",
+      "label": "Host Says Prevo Reinstated Moore on an Absurd Monthly Retainer, per Her Liberty Source",
+      "claim": "The host says, with 'allegedly', that Prevo moved immediately to reinstate Johnny Moore and pay him an absurd monthly retainer, information she says comes directly from inside Liberty, and that Moore is back at the school influential and making money.",
+      "anchored_artifacts": [
+        "A-3299.1"
+      ],
+      "related_nodes": [
+        "N-11104",
+        "N-11384"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:54",
+      "investigative_direction": "Request Liberty contracts or disclosures showing a consulting arrangement with Moore or the Kairos Company.",
+      "transcript_snippet": "he also moves rather immediately to reinstate none other than the sometimes lurking Johnny Moore, paying him, I am told, an absurd amount monthly retainer.",
+      "mentions_person_refs": [
+        "N-448",
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14144",
+      "ref": "C-14144",
+      "label": "Host Says Turning Point Faith Is Intended to Be Mooney 2.0",
+      "claim": "The host says Turning Point Faith is problematic and the organization is intended to be the 'Mooney 2.0', repeatedly establishing messianic figures for people to follow.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10398",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:26:54",
+      "investigative_direction": "Interpretive; test through TPUSA Faith's leadership, funding and links to Unification Church-linked people or entities.",
+      "transcript_snippet": "The organization is intended to be the Mooney 2.0.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14145",
+      "ref": "C-14145",
+      "label": "Host Says the Moonies Aimed at One World Government Through a Unification Church",
+      "claim": "The host says the intention behind the Moonies cult was one world government achieved through the concept of a unification church.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10399",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:26:54",
+      "investigative_direction": "Compare with Unification Church doctrine and Moon's public statements on world government.",
+      "transcript_snippet": "The intention behind the Mooney's cult, by the way, in case it's not clear to you, was one world government achieved through the concept of a unification church.",
+      "mentions_person_refs": [
+        "N-405"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14146",
+      "ref": "C-14146",
+      "label": "Host Says Land Purchases and Fires Look Like Land Grabs Rather Than Natural Disasters",
+      "claim": "The host says it feels like 'they' are buying up so much land and that the fires and natural disasters around the world, which she says are being called natural, appear to be land grabs; the referent of 'they' is unclear in the transcript.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:31:43",
+      "investigative_direction": "Unspecified buyers and events; ask the host which fires and which purchasers she means.",
+      "transcript_snippet": "It feels like these are land grabs and you should be allowed to think through that with what I am telling you."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14147",
+      "ref": "C-14147",
+      "label": "Host Says Mossad and the CIA Are Not Separate and Netanyahu Used to Work for the CIA",
+      "claim": "The host says there is no separation between Mossad and the CIA, and that Benjamin Netanyahu used to work for the CIA, which she thinks was uncovered during her Epstein series but says not to quote her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10015",
+        "N-10082"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:32:10",
+      "investigative_direction": "Check Netanyahu's documented employment history and the earlier Epstein-series episode she cites.",
+      "transcript_snippet": "It's almost as if the MSAD and the CIA, there is no separation between the two. It's why BB used to work for the CIA",
+      "mentions_person_refs": [
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14148",
+      "ref": "C-14148",
+      "label": "Host Says Palestinians Have Been Intentionally Targeted in a Genocide With Tens of Thousands Killed",
+      "claim": "The host says tens of thousands of innocent Palestinians have been killed and intentionally targeted because Israel is conducting a genocide.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10063",
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:33:36",
+      "investigative_direction": "Compare with casualty figures from the Gaza Health Ministry, the UN and independent counts.",
+      "transcript_snippet": "tens of thousands of innocent Palestinians have been killed um and that they've been intentionally targeted because they're conducting a genocide.",
+      "mentions_person_refs": [
+        "N-10026"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14149",
+      "ref": "C-14149",
+      "label": "Host Says Israelis Are Accused by Their Own People of Sex Rituals Against Children in Forests",
+      "claim": "The host says Israel's own people are accusing it of conducting and covering up sex rituals against children in their forests.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:33:36",
+      "investigative_direction": "No source cited; ask the host for the accusers and reports she means.",
+      "transcript_snippet": "It's not that they're being accused by their own people of conducting and covering up these sex rituals against children in their forests."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14150",
+      "ref": "C-14150",
+      "label": "Knesset Clip: Speaker Says Candace Owens Says the Roots of Our Faith Are Demonic",
+      "claim": "In the clip played, the Likud speaker says Candace Owens says the roots of our faith are demonic and calls this the same sickness as the woke left.",
+      "anchored_artifacts": [
+        "A-1611.1"
+      ],
+      "related_nodes": [
+        "N-10407"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:36",
+      "investigative_direction": "Identify the speaker and the Knesset record; ask what statement of the host's the speaker is characterizing.",
+      "transcript_snippet": "Candace Owens says the roots of our faith are demonic.",
+      "supports_claim_refs": [
+        "C-2057"
+      ],
+      "mentions_person_refs": [
+        "N-447",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14151",
+      "ref": "C-14151",
+      "label": "Host Says If Anything Happens to Tucker Carlson or Her, Israel Was Involved",
+      "claim": "The host says that if anything happens to Tucker Carlson or her, 'you obviously know that Israel was involved', pointing to Israeli figures name-checking them and sending 'goons' to harass them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026",
+        "N-10025"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:54",
+      "investigative_direction": "A conditional pre-attribution with no evidence offered; any future incident would need its own investigation.",
+      "transcript_snippet": "If anything happens to Tucker Carlson or me, you obviously know that Israel was involved.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14152",
+      "ref": "C-14152",
+      "label": "Host Says Officials Give Tucker Carlson More Flak Than Epstein and Cover Up Epstein's Crimes",
+      "claim": "The host says government representatives give more flak to Tucker Carlson than they did to Jeffrey Epstein and choose to cover up Epstein's crimes while pretending speech is what is radical.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:54",
+      "investigative_direction": "Compare congressional statements about Carlson versus Epstein and the status of Epstein file releases.",
+      "transcript_snippet": "our government representatives give more flack to Tucker Carlson than they did to Jeffrey Epstein.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14153",
+      "ref": "C-14153",
+      "label": "Host Says Megyn Kelly Is a Zionist Who Supports Israel but Is Being Attacked Anyway",
+      "claim": "The host says Megyn Kelly has said nothing wrong, is actually a Zionist and supports Israel, yet is being added to a list because she will not bend the knee.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:07",
+      "investigative_direction": "Check Kelly's own statements on Israel.",
+      "transcript_snippet": "she actually is a Zionist and she supports Israel.",
+      "mentions_person_refs": [
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14154",
+      "ref": "C-14154",
+      "label": "Kelly Clip: Says Shapiro's Last Exchange Called Their Friendship Too Important to Depend on Others",
+      "claim": "In the clip, Megyn Kelly says that in her last exchange with Ben Shapiro he literally said their friendship was too important to both of them to make it depend on whom else they are or are not friends with.",
+      "anchored_artifacts": [
+        "A-1612.1"
+      ],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:50",
+      "investigative_direction": "Obtain the text exchange or Kelly's confirmation, and the date of Shapiro's AmFest remarks.",
+      "transcript_snippet": "our friendship his and mine is too important to both of us to make it depend on who else whom else we are friends with and aren't friends with.",
+      "supports_claim_refs": [
+        "C-2060"
+      ],
+      "mentions_person_refs": [
+        "N-46",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14155",
+      "ref": "C-14155",
+      "label": "Host Says Seth Dillon Texted Her Trying to Compel Her to Speak About Nick Fuentes",
+      "claim": "The host says she remembers text messages from Seth Dillon trying to compel her to say something about Nick Fuentes, and calls it emotional manipulation, within what she describes as a peer-pressure campaign from a lobby.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:32",
+      "investigative_direction": "The host holds the texts; obtain them to confirm the sender, date and content.",
+      "transcript_snippet": "I remember the text messages from Seth Dillon trying to compel me to say something about Nick Fuentes and the emotional manipulation of it all.",
+      "mentions_person_refs": [
+        "N-38",
+        "N-205",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14156",
+      "ref": "C-14156",
+      "label": "Host Says Some People Are Murdered Because They Cannot Be Controlled, as She Believes Happened to Kirk",
+      "claim": "The host says that in some cases, as she believes with Charlie Kirk, people are actually murdered because they cannot be controlled.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:42:07",
+      "investigative_direction": "A statement of belief about motive; tie to documented pressure on Kirk over Israel from earlier episodes.",
+      "transcript_snippet": "And in some cases, as I believe the case with Charlie Kirk, some people are are killed are actually murdered because they can't get controlled.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14157",
+      "ref": "C-14157",
+      "label": "Host Says She Compiled a Column Tracking Sex Trafficking in Military History and Has More Information",
+      "claim": "The host says she created a column, in an Excel sheet used in the wrong ways, tracking how many times sex trafficking has come up in the history of the military, has since received even more explosive information, and will cover it later that week.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:43:00",
+      "investigative_direction": "Ask for the sheet and its sources; check the follow-up episode that week.",
+      "transcript_snippet": "created a clear column to speak about how many times sex trafficking has come up in the story, the history of our military.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14158",
+      "ref": "C-14158",
+      "label": "Host Says Erika Kirk Was a Falkirk Fellow",
+      "claim": "The host says that Erika Kirk was a Falkirk Center fellow, replying to the comment that Erika brought Charlie into the center.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11163",
+        "N-10403"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:35",
+      "investigative_direction": "Check Falkirk Center fellow rosters and Erika Kirk's own bios for the fellowship.",
+      "transcript_snippet": "obviously we know that Eric Kirk was a was a Falerkerk fellow.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14159",
+      "ref": "C-14159",
+      "label": "Host Says She Has Not Heard That Erika Explicitly Told Charlie to Establish the Falkirk Center",
+      "claim": "The host says she has not yet heard that Erika Kirk explicitly told Charlie to establish the Falkirk Center and would have to go back and ask people, narrowing the commenter's handler thesis.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11163",
+        "N-10403"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:35",
+      "investigative_direction": "Seek Falkirk founding accounts and Kirk-era interviews on who proposed the center.",
+      "transcript_snippet": "I have not yet heard that she explicitly said you need to establish the Falkirk Center.",
+      "qualifies_claim_refs": [
+        "C-2061"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14160",
+      "ref": "C-14160",
+      "label": "Host Says Erika Says She Lived in China and Costa Rica and Those Claims Need Checking",
+      "claim": "The host says that she is working through questions about Erika Kirk's background, including charities and overseas work, and notes that Erika says she lived in China and in Costa Rica, with the when and for what still to be established.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11386"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:35",
+      "investigative_direction": "Gather Erika Kirk's own bios and interviews on China and Costa Rica and check dates, employers and charities named.",
+      "transcript_snippet": "you know she says she lived in China and she says that she lived in Costa Rica and when and for what a lot to kind of go through",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14161",
+      "ref": "C-14161",
+      "label": "Host Says She Intends a Dedicated Episode on Erika's Background and to Give Her a Chance to Respond",
+      "claim": "The host says she intends to do an episode dedicated to Erika Kirk's background in the future and wants to give her the opportunity to respond to any questions first.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11386"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:35",
+      "investigative_direction": "Track later episodes for the promised episode and for any request for comment sent to Erika Kirk.",
+      "transcript_snippet": "but I do intend on doing an episode dedicated to that in the future. But I also want to give her the opportunity to respond to any questions that I have.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14162",
+      "ref": "C-14162",
+      "label": "Host Says Moore, Kolvet and the Moonies Link Means the Moonies Are Back Under a New Name",
+      "claim": "The host says that after doing the Moonies episode she saw the pattern run through Johnny Moore to Andrew Kolvet, concluding that the Moonies are back under a different name.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10402",
+        "N-10398"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:48:56",
+      "investigative_direction": "This is the host's conclusion; test with documentary links between Moon-linked entities and Moore, Kairos and TPUSA Faith.",
+      "transcript_snippet": "Here's Johnny. The Moonies are back and it's by it's a different name. That's what's happening here.",
+      "supports_claim_refs": [
+        "C-14144"
+      ],
+      "mentions_person_refs": [
+        "N-443",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14163",
+      "ref": "C-14163",
+      "label": "Host Says the Moonies Trace Back to the Korean War as American CIA Infiltration",
+      "claim": "The host says the Moonies lineage goes back to the Korean War and is American CIA infiltration.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10082",
+        "N-10402"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:48:56",
+      "investigative_direction": "Review declassified material on Moon's Korean and CIA connections.",
+      "transcript_snippet": "And it goes back to the Korean War. That's the American CIA infiltration.",
+      "supports_claim_refs": [
+        "C-14105"
+      ],
+      "mentions_person_refs": [
+        "N-10402"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14164",
+      "ref": "C-14164",
+      "label": "Host Says Pearl Harbor and Lyndon Johnson Warrant a False-Flag Style Review",
+      "claim": "The host teases that she is not ready to cover whether Pearl Harbor was a false flag, saying the vibes are not vibing in the Pearl Harbor story and that Lyndon Baines Johnson was a devilish man.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:49:54",
+      "investigative_direction": "Off-topic historical assertion; no source given.",
+      "transcript_snippet": "the vibes are not vibing in the Pearl Harbor story is what I will say. And Lyndon Baines Johnson was a uh devilish man throughout"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14165",
+      "ref": "C-14165",
+      "label": "Host Says Argentina's President Looks Like Netanyahu and Reportedly Has a Jewish-Sounding Full Surname",
+      "claim": "The host says she was attacked for distrusting the Argentine president, that she has seen it said his full last name is 'Milei', and that he looks a little like Netanyahu; she calls it a conspiracy.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:49:54",
+      "investigative_direction": "Check Javier Milei's recorded family names; the host offers only a viral rumor and labels it a conspiracy.",
+      "transcript_snippet": "Saw some stuff about like really his full last name is Milei and he looks a little like BB Nyahoo.",
+      "mentions_person_refs": [
+        "N-942",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14166",
+      "ref": "C-14166",
+      "label": "Host Says the Military at the Top Are Mercenary Squads Protecting the Gangs",
+      "claim": "The host says that she thinks the military at the top are actually mercenary squads to protect the gangs, adding she is running through all the conspiracies she feels.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:50:57",
+      "investigative_direction": "A sweeping opinion with no evidence; not testable as stated.",
+      "transcript_snippet": "In fact, I think our military at the top are actually just mercenary squads to protect the gangs."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14167",
+      "ref": "C-14167",
+      "label": "Host Wonders Whether Some School Shootings Followed Administrators Discovering Child Trafficking",
+      "claim": "The host says she would like to revisit some school shootings and is wondering whether children were being trafficked and administrators who found out ended up dead.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:50:57",
+      "investigative_direction": "A speculation about unspecified shootings; ask the host which cases and check each case file.",
+      "transcript_snippet": "I'm wondering if children were being trafficked and administrators found out and they ended up dead.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14168",
+      "ref": "C-14168",
+      "label": "Host Says Some Mass Shootings Show a Government Initiative or Benefit From a Particular Person Dying",
+      "claim": "The host says that when you look at some mass shootings you find some government initiative or that the government can benefit from a particular person being dead, while acknowledging not every school shooting fits.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:57",
+      "investigative_direction": "Unspecified cases; ask the host to name the shootings and the benefit alleged.",
+      "transcript_snippet": "you find out that there's some like government government initiative uh or I guess the government can benefit by having this particular person dead."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14169",
+      "ref": "C-14169",
+      "label": "Host Says One World Government Is the Explicit Aim",
+      "claim": "The host says she does believe that one world government is the explicit aim and that therefore our kids have no chance unless people are brave.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:51:36",
+      "investigative_direction": "A sweeping belief with no source cited.",
+      "transcript_snippet": "If this really does become one world government and I do believe that that is the explicit aim, our kids just have no no chance.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14170",
+      "ref": "C-14170",
+      "label": "Host Says She Is Not Voting Until They Figure Out Who Killed Charlie Kirk and How",
+      "claim": "The host says she totally agrees with a commenter and says she is not voting until they figure out who killed Charlie Kirk and exactly how it happened.",
+      "anchored_artifacts": [
+        "A-1613.7"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:51:36",
+      "investigative_direction": "Track whether the host repeats or revises this stance in later episodes.",
+      "transcript_snippet": "I totally agree, and I'm not voting until we figure out who killed Charlie Kirk and exactly how it happened.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14171",
+      "ref": "C-14171",
+      "label": "Host Says She Is Still Having Vivid Dreams, Less Often Than at First",
+      "claim": "The host says she dreams a lot and is still having vivid dreams, though not every night as in the beginning, which she found stressful.",
+      "anchored_artifacts": [
+        "A-1613.8"
+      ],
+      "related_nodes": [
+        "N-10404"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:52:14",
+      "investigative_direction": "Not testable beyond the host's own account.",
+      "transcript_snippet": "I dream. I dreamed a lot. I'm still having vivid dreams.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14172",
+      "ref": "C-14172",
+      "label": "Host Says God Speaks in Dreams and That This Is Biblical",
+      "claim": "The host says God speaks to people in their dreams and that this is biblical.",
+      "anchored_artifacts": [
+        "A-1613.8"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:52:14",
+      "investigative_direction": "Theological assertion; no investigative step beyond scripture.",
+      "transcript_snippet": "God speaks to us in our dreams. And actually, in fact, that is biblical.",
+      "confidence": "high"
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-21",
+      "ref": "M-21",
+      "canonical_term": "Conspiracy Girly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 55,
+          "video_timestamp": "00:49:54",
+          "speaker_node_ref": "N-3",
+          "quote": "We can talk about conspiracies and I'm a conspiracy girly and I have the mug to prove it.",
+          "context": "Self-label tied to mug merch affirming open conspiracy talk.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "self_label"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 55,
+          "video_timestamp": "00:15:02",
+          "speaker_node_ref": "N-3",
+          "quote": "I will say allegedly here, allegedly",
+          "context": "Host hedges the Liberty University source's account of the Falwell Jr. pool boy affair.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
+          ]
+        },
+        {
+          "episode": 55,
+          "video_timestamp": "00:16:51",
+          "speaker_node_ref": "N-3",
+          "quote": "Again, I'm going to say allegedly",
+          "context": "Host hedges the claim about pastors profiting from Liberty.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
+          ]
+        },
+        {
+          "episode": 55,
+          "video_timestamp": "00:26:54",
+          "speaker_node_ref": "N-3",
+          "quote": "And I'll say allegedly here",
+          "context": "Host hedges the Moore retainer claim.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 55,
+          "video_timestamp": "00:05:30",
+          "speaker_node_ref": "N-3",
+          "quote": "BB Netanyahu's wife's funeral",
+          "context": "Host's dream setting, using the split nickname for Netanyahu.",
+          "confidence": "medium",
+          "tags": [
+            "netanyahu",
+            "dream"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-11",
+      "ref": "M-11",
+      "canonical_term": "MSAD",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 55,
+          "video_timestamp": "00:32:10",
+          "speaker_node_ref": "N-3",
+          "quote": "It's almost as if the MSAD and the CIA, there is no separation between the two.",
+          "context": "Host uses the 'MSAD' shorthand for Mossad when equating it with the CIA.",
+          "confidence": "high",
+          "tags": [
+            "mossad",
+            "cia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-84",
+      "ref": "M-84",
+      "canonical_term": "Bend the Knee",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 55,
+          "video_timestamp": "00:38:07",
+          "speaker_node_ref": "N-3",
+          "quote": "she simply won't bend the knee",
+          "context": "Host says Megyn Kelly is attacked because she will not submit to the pressure.",
+          "confidence": "high",
+          "tags": [
+            "bend the knee",
+            "kelly"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 55,
+          "video_timestamp": "00:20:09",
+          "speaker_node_ref": "N-3",
+          "quote": "to show that I was a radical for saying Christ is king",
+          "context": "Host recounts the Peterson and Moore report portraying her as a radical for the phrase.",
+          "confidence": "high",
+          "tags": [
+            "christ is king",
+            "adl"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-53",
+      "ref": "M-53",
+      "canonical_term": "False Flag",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 55,
+          "video_timestamp": "00:48:56",
+          "speaker_node_ref": "N-3",
+          "quote": "Are you ready to talk about Pearl Harbor being a false flag?",
+          "context": "Host teases a possible future Pearl Harbor false-flag episode.",
+          "confidence": "high",
+          "tags": [
+            "false flag",
+            "tease"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-329",
+      "ref": "M-329",
+      "canonical_term": "Here's Johnny",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 55,
+          "video_timestamp": "00:48:56",
+          "speaker_node_ref": "N-3",
+          "quote": "Here's Johnny.",
+          "context": "Host puns on The Shining (the episode title) while tying Johnny Moore to Kolvet and the Moonies.",
+          "confidence": "high",
+          "tags": [
+            "shining",
+            "johnny moore",
+            "pun"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-330",
+      "ref": "M-330",
+      "canonical_term": "Mooney 2.0",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 55,
+          "video_timestamp": "00:26:54",
+          "speaker_node_ref": "N-3",
+          "quote": "The organization is intended to be the Mooney 2.0.",
+          "context": "Host's label for Turning Point Faith as a successor to the Unification Church.",
+          "confidence": "high",
+          "tags": [
+            "moonies",
+            "turning point faith"
+          ]
+        },
+        {
+          "episode": 55,
+          "video_timestamp": "00:48:56",
+          "speaker_node_ref": "N-3",
+          "quote": "The Moonies are back and it's by it's a different name.",
+          "context": "Host repeats the thesis after the Moore and Kolvet link.",
+          "confidence": "high",
+          "tags": [
+            "moonies",
+            "kolvet"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-331",
+      "ref": "M-331",
+      "canonical_term": "Operation LOL, Candace Has Dreams",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 55,
+          "video_timestamp": "00:02:45",
+          "speaker_node_ref": "N-3",
+          "quote": "operation LOL, Candace has dreams",
+          "context": "Host's name for the campaign mocking her dreams, one of her series of named PR operations.",
+          "confidence": "high",
+          "tags": [
+            "operation",
+            "dreams"
+          ]
+        }
+      ]
+    }
+  ]
 }

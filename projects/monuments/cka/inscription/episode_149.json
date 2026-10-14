@@ -539,6 +539,189 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3348",
+      "family_ref": "A-3348",
+      "bundle_name": "Tips Inbox Correction Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3348.1",
+          "ref": "A-3348.1",
+          "description": "Host verbal reference to her tips inbox as the source of the correction of the security team member's identity (no document shown)",
+          "related_claims": [
+            "C-14857"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-273"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:01:19",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3349",
+      "family_ref": "A-3349",
+      "bundle_name": "Harpole Shawn Ryan Interview Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3349.1",
+          "ref": "A-3349.1",
+          "description": "Host verbal reference to Brian Harpole's Shawn Ryan Show interview in which he says Turek prayed in the back (not played here)",
+          "related_claims": [
+            "C-14876"
+          ],
+          "related_nodes": [
+            "N-270",
+            "N-228",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:10:55",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3350",
+      "family_ref": "A-3350",
+      "bundle_name": "Timpanogos Doctor Recusal Tip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3350.1",
+          "ref": "A-3350.1",
+          "description": "Host verbal reference to a tip about an unnamed Timpanogos doctor who allegedly recused himself and asked to be removed from the records (no document shown)",
+          "related_claims": [
+            "C-14904",
+            "C-14905"
+          ],
+          "related_nodes": [
+            "N-10828",
+            "N-10573",
+            "N-10576"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:29:37",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3351",
+      "family_ref": "A-3351",
+      "bundle_name": "Andrew Wilson Receipt Signature Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3351.1",
+          "ref": "A-3351.1",
+          "description": "Host verbal reference to the signature Andrew Wilson posted as a debunking of the Cowboy Smokehouse receipt (described, not clearly shown)",
+          "related_claims": [
+            "C-14915",
+            "C-14916"
+          ],
+          "related_nodes": [
+            "N-18",
+            "N-40",
+            "N-11262",
+            "N-10381",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:33:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3352",
+      "family_ref": "A-3352",
+      "bundle_name": "Tip Line Appeal Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3352.1",
+          "ref": "A-3352.1",
+          "description": "Host verbal call to email more tips to the show address",
+          "related_claims": [
+            "C-14942"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3352.2",
+          "ref": "A-3352.2",
+          "description": "Host verbal call to email more tips about Blake Hariff, with an offer to protect sources",
+          "related_claims": [
+            "C-14943",
+            "C-14944"
+          ],
+          "related_nodes": [
+            "N-906",
+            "N-3",
+            "N-11310",
+            "N-493"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3353",
+      "family_ref": "A-3353",
+      "bundle_name": "Unreleased Hospital Interior Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3353.1",
+          "ref": "A-3353.1",
+          "description": "Host verbal reference to footage from inside the hospital that she has but is not yet showing",
+          "related_claims": [
+            "C-14892"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-10573"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -550,7 +733,10 @@
       "type": "investigation_target",
       "description": "Referenced as former Daily Wire CEO on Piers Morgan; no artifact displayed.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14867",
+        "C-14868"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -565,7 +751,9 @@
       "name": "Andrew Wilson",
       "type": "person",
       "description": "Person Andrew Wilson (N-18).",
-      "related_artifacts": [],
+      "related_artifacts": [
+        "A-2435.4"
+      ],
       "related_claims": [],
       "tags": [],
       "evidence_count": 1,
@@ -580,8 +768,14 @@
       "name": "Derek Pepper Williams",
       "type": "person",
       "description": "TPUSA security detail member previously misidentified as Chester Barnes; also known as Pepper Williams. Linked to PGL / Perimeter Global Logistics.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-2426.1"
+      ],
+      "related_claims": [
+        "C-3543",
+        "C-3544",
+        "C-3545"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -596,7 +790,20 @@
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14866",
+        "C-14867",
+        "C-14868",
+        "C-14869",
+        "C-14870",
+        "C-14871",
+        "C-14872",
+        "C-14874",
+        "C-14878",
+        "C-14882",
+        "C-14884",
+        "C-14945"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -612,7 +819,30 @@
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14855",
+        "C-14863",
+        "C-14864",
+        "C-14865",
+        "C-14866",
+        "C-14867",
+        "C-14873",
+        "C-14875",
+        "C-14876",
+        "C-14877",
+        "C-14878",
+        "C-14879",
+        "C-14880",
+        "C-14881",
+        "C-14882",
+        "C-14883",
+        "C-14885",
+        "C-14887",
+        "C-14890",
+        "C-14894",
+        "C-14902",
+        "C-14932"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -628,7 +858,18 @@
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14908",
+        "C-14915",
+        "C-14916",
+        "C-14917",
+        "C-14918",
+        "C-14919",
+        "C-14920",
+        "C-14925",
+        "C-14927",
+        "C-14928"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -644,7 +885,11 @@
       "type": "person",
       "description": "Referenced as Facetime counterpart in Turek hospital narrative the host contrasts with missing fire-captain CPR.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14885",
+        "C-14886",
+        "C-14887"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -660,7 +905,18 @@
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14873",
+        "C-14876",
+        "C-14877",
+        "C-14879",
+        "C-14880",
+        "C-14883",
+        "C-14888",
+        "C-14898",
+        "C-14899",
+        "C-14924"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -676,7 +932,9 @@
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14895"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -726,7 +984,34 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14854",
+        "C-14855",
+        "C-14857",
+        "C-14860",
+        "C-14861",
+        "C-14862",
+        "C-14863",
+        "C-14864",
+        "C-14865",
+        "C-14869",
+        "C-14892",
+        "C-14902",
+        "C-14906",
+        "C-14907",
+        "C-14916",
+        "C-14921",
+        "C-14931",
+        "C-14933",
+        "C-14934",
+        "C-14938",
+        "C-14940",
+        "C-14941",
+        "C-14942",
+        "C-14943",
+        "C-14944",
+        "C-14945"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -742,7 +1027,12 @@
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14883",
+        "C-14895",
+        "C-14899",
+        "C-14944"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -758,13 +1048,777 @@
       "type": "person",
       "description": "Named by the host at 00:12:13 in episode 147; first introduced in episode 124.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14893",
+        "C-14896"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11407",
+      "ref": "N-11407",
+      "name": "Integrity Solutions",
+      "type": "organization",
+      "description": "Organization the host says she had mistakenly believed the security team member she first named as Chester Barnes worked for.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14856"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11408",
+      "ref": "N-11408",
+      "name": "Perimeter Global Logistics",
+      "type": "organization",
+      "description": "PGL, a government defense contractor specializing in global freight and cross-border shipping, where the host says Derek Pepper Williams worked after the Navy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14859"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10888",
+      "ref": "N-10888",
+      "name": "Department of War",
+      "type": "investigation_target",
+      "description": "Department of War, formerly Department of Defense.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14860",
+        "C-14910"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11017",
+      "ref": "N-11017",
+      "name": "TPUSA Influencer Payment Campaign Allegation",
+      "type": "investigation_target",
+      "description": "TPUSA influencer payment campaign allegation topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14860",
+        "C-14910"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-438",
+      "ref": "N-438",
+      "name": "Kimberly Klacik",
+      "type": "person",
+      "description": "Former Maryland Republican congressional nominee; the host recounts her defamation suit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14861",
+        "C-14862"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-167",
+      "ref": "N-167",
+      "name": "Rabbi Pesach Wolicki",
+      "type": "person",
+      "description": "Rabbi the host says was on the Zoom call with Charlie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14867",
+        "C-14868"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Commentator; the host says he was on the Zoom call and was caught lying about Charlie's Israel views.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14867",
+        "C-14869"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Charlie's aide also called Blakey; named on the Zoom call and as the likely Blakey of the lobby comment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14867",
+        "C-14931"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host says he was on the Zoom call and gave Gabbard's office a false account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14867",
+        "C-14871"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10187",
+      "ref": "N-10187",
+      "name": "Josh Hammer Text Messages Context",
+      "type": "investigation_target",
+      "description": "Josh Hammer text message context topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14869"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10148",
+      "ref": "N-10148",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Charlie's pre-death Israel position topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14870"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-333",
+      "ref": "N-333",
+      "name": "Tulsi Gabbard",
+      "type": "person",
+      "description": "Director of National Intelligence; the host says Kolvet gave her office a false account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14871"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10737",
+      "ref": "N-10737",
+      "name": "CPR Narrative Contradiction (Turek / Harpole)",
+      "type": "investigation_target",
+      "description": "Turek and Harpole CPR narrative contradiction topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14874",
+        "C-14875"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-228",
+      "ref": "N-228",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Podcaster whose show interviewed Harpole about the ride.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14876"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10688",
+      "ref": "N-10688",
+      "name": "Frank Turek Clothing Disposal",
+      "type": "investigation_target",
+      "description": "Frank Turek clothing disposal topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14881"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11310",
+      "ref": "N-11310",
+      "name": "Security Team Timpanogos Scrubs Question",
+      "type": "investigation_target",
+      "description": "Security team Timpanogos scrubs question topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14881",
+        "C-14891",
+        "C-14897",
+        "C-14901",
+        "C-14943"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Charlie's staffer who, per the host, provided the scrubs and phoned Jack Hibbs.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14886",
+        "C-14891",
+        "C-14901"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10573",
+      "ref": "N-10573",
+      "name": "Timpanogos Hospital Evidence Question",
+      "type": "investigation_target",
+      "description": "Timpanogos hospital evidence question topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14889",
+        "C-14892",
+        "C-14897",
+        "C-14898",
+        "C-14904"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-906",
+      "ref": "N-906",
+      "name": "Blake Hariff",
+      "type": "person",
+      "description": "Security team member; the host says he stayed behind, was clean and later wore scrubs.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14893",
+        "C-14894",
+        "C-14896",
+        "C-14943",
+        "C-14944"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11191",
+      "ref": "N-11191",
+      "name": "Pre-Born",
+      "type": "investigation_target",
+      "description": "Pre-Born, sponsor named in the host's ad read.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14903"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10828",
+      "ref": "N-10828",
+      "name": "Timpanogos Doctor Recusal Mystery",
+      "type": "investigation_target",
+      "description": "Timpanogos doctor recusal mystery topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14904",
+        "C-14905"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10576",
+      "ref": "N-10576",
+      "name": "Timpanogos Hospital Records / Chain of Custody",
+      "type": "investigation_target",
+      "description": "Timpanogos hospital records and chain of custody topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14905"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow and TPUSA CEO; named in connection with Andrew Wilson and Mitch Snow's Fort Huachuca account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14906",
+        "C-14924"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11262",
+      "ref": "N-11262",
+      "name": "Andrew Wilson TPUSA Debate Training Engagement",
+      "type": "investigation_target",
+      "description": "Andrew Wilson TPUSA debate training engagement topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14906",
+        "C-14907",
+        "C-14915",
+        "C-14935"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10381",
+      "ref": "N-10381",
+      "name": "Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification",
+      "type": "investigation_target",
+      "description": "Tyler Robinson's Panguitch Cowboy Smokehouse visit verification topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14907",
+        "C-14908",
+        "C-14909",
+        "C-14912",
+        "C-14913",
+        "C-14914",
+        "C-14915",
+        "C-14916",
+        "C-14919",
+        "C-14922",
+        "C-14925",
+        "C-14926",
+        "C-14927",
+        "C-14928"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 14,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-370",
+      "ref": "N-370",
+      "name": "Diligent Dennison",
+      "type": "person",
+      "description": "Citizen journalist who released a waiter interview and the receipt.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14911"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-54",
+      "ref": "N-54",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Recipient of the Robinson text messages on which the host says the case hinges.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14917",
+        "C-14918",
+        "C-14919"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10062",
+      "ref": "N-10062",
+      "name": "Orem, Utah",
+      "type": "investigation_target",
+      "description": "Utah city where the host places Robinson's texts by 11:45 p.m.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14917"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10077",
+      "ref": "N-10077",
+      "name": "Robinson-Lance Text Chain Authenticity",
+      "type": "investigation_target",
+      "description": "Authenticity of the Robinson to Lance text chain on which the host says the case hinges.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14917",
+        "C-14918",
+        "C-14919"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10337",
+      "ref": "N-10337",
+      "name": "Tyler Robinson Prosecution Evidence Base",
+      "type": "investigation_target",
+      "description": "Topic on the evidence base of the prosecution.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14918"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-909",
+      "ref": "N-909",
+      "name": "Miss Noble",
+      "type": "person",
+      "description": "Neighbor who the host says saw a bald man driving with two other people.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14920"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-366",
+      "ref": "N-366",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Fort Huachuca eyewitness; the host says she cannot confirm he saw Erika or Harpole.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14923",
+        "C-14924"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10375",
+      "ref": "N-10375",
+      "name": "Fort Huachuca Sighting Verification",
+      "type": "investigation_target",
+      "description": "Fort Huachuca sighting verification topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14923",
+        "C-14924"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10373",
+      "ref": "N-10373",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Harpole's Fort Huachuca presence verification topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14924"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10024",
+      "ref": "N-10024",
+      "name": "Kirk Assassination Investigation Timeline",
+      "type": "investigation_target",
+      "description": "Host's investigation timeline topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14926"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10581",
+      "ref": "N-10581",
+      "name": "Tyler Robinson Defense – Chain of Custody / Documents",
+      "type": "investigation_target",
+      "description": "Defense chain of custody and documents topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14928"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10953",
+      "ref": "N-10953",
+      "name": "Paleo Valley",
+      "type": "investigation_target",
+      "description": "Sponsor named in the host's ad read.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14929"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11409",
+      "ref": "N-11409",
+      "name": "Fatty15",
+      "type": "organization",
+      "description": "Sponsor named in the host's ad read for C15 supplements.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14930"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Commentator; viewer comment says Turek was on her show that day.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14932"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-27",
+      "ref": "N-27",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Rapper Ye; host's concert and the Australia ban are mentioned.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14933",
+        "C-14939"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-38",
+      "ref": "N-38",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Babylon Bee CEO; the host recalls his complaint about a thumbnail.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14937"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-855",
+      "ref": "N-855",
+      "name": "Tony Burke",
+      "type": "person",
+      "description": "Australian minister the host says banned her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14938"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1223,7 +2277,2175 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14854",
+      "ref": "C-14854",
+      "label": "Host Says She Is a Few Weeks From Giving Birth",
+      "claim": "The host says she is only a few weeks away from giving birth.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Personal statement recorded as said; no checkable external record is needed for the investigation.",
+      "transcript_snippet": "I'm only a few weeks away from giving birth.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14855",
+      "ref": "C-14855",
+      "label": "Host Says Turek Keeps Calling Her Out in Sermon Clips",
+      "claim": "The host says people keep finding clips of what she calls biblically based sermons in which Frank Turek keeps calling her out.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Collect the dated Turek sermon and podcast appearances in which he names the host and compare the wording with the clips aired here.",
+      "transcript_snippet": "people keep finding these clips, or rather what we are to imagine are biblically based sermons where in Yankin Bankin Franken Turk keeps calling me out.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14856",
+      "ref": "C-14856",
+      "label": "Host Says Williams Was First Named as Chester Barnes of Integrity Solutions",
+      "claim": "The host says the TPUSA security team member in the hat and plaid shirt had been named earlier on her show as Chester Barnes, believed to be working with Integrity Solutions, and that the identification was wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11407"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:19",
+      "investigative_direction": "Pull the earlier episode where the Chester Barnes and Integrity Solutions identification was made and check Integrity Solutions staff and contractor lists for any Barnes or Williams.",
+      "transcript_snippet": "This individual who we initially named as Chester Barnes, someone that we thought was working with Integrity Solutions",
+      "mentions_person_refs": [
+        "N-273"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14857",
+      "ref": "C-14857",
+      "label": "Host Says Tips Inbox Enabled the Security Team Correction",
+      "claim": "The host says the correction of the security team member's identity was possible thanks to her tips inbox.",
+      "anchored_artifacts": [
+        "A-3348.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context",
+        "dia"
+      ],
+      "claim_timestamp": "00:01:19",
+      "investigative_direction": "Obtain the tip email that supplied the Pepper Williams identification and any supporting employment record to confirm the correction.",
+      "transcript_snippet": "Thanks to our tips inbox, we can correct the record.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-273"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14858",
+      "ref": "C-14858",
+      "label": "Host Says Williams Is a Former Navy SEAL",
+      "claim": "The host says Derek Pepper Williams is a former Navy SEAL who worked in Naval Special Warfare Operations.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:19",
+      "investigative_direction": "Request Williams's DD-214 or Navy service record summary, or an authoritative biography confirming SEAL service.",
+      "transcript_snippet": "Derek Pepper Williams, a former Navy Seal who worked in Naval Special Warfare Operations.",
+      "mentions_person_refs": [
+        "N-273"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14859",
+      "ref": "C-14859",
+      "label": "Host Says PGL Specializes in Border Freight and Williams Is Based in Texas",
+      "claim": "The host says Perimeter Global Logistics specializes in global freight shipping and over-the-border shipping in Texas, where she says Williams is based.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11408"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:11",
+      "investigative_direction": "Check PGL corporate registrations, Texas filings and Williams's residence or work location in public business records.",
+      "transcript_snippet": "They specialize in global freight shipping, over the border shipping down in Texas where he is based.",
+      "supports_claim_refs": [
+        "C-3544"
+      ],
+      "mentions_person_refs": [
+        "N-273"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14860",
+      "ref": "C-14860",
+      "label": "Host Says the Defense Department Instructed Influencers to Attack Her",
+      "claim": "The host says the Department of Defense, which she says is oddly tied to the Kirk assassination in unexpected ways, has been instructing influencers to attack her over her investigation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10888",
+        "N-11017"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:11",
+      "investigative_direction": "Identify the source of the host's claim and any contracts, payments or communications between the Department of Defense and the influencers who criticized her.",
+      "transcript_snippet": "the same department that we have learned is oddly married to the Charlie Kirk assassination in ways that we didn't expect, instructing influencers to attack me over our investigation.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14861",
+      "ref": "C-14861",
+      "label": "Host Says Kim Klacik Hid That She Worked as a Stripper",
+      "claim": "The host says that when she looked into Maryland Republican congressional nominee Kim Klacik she found Klacik had been hiding that she was a stripper.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:03:17",
+      "investigative_direction": "Public reporting and records on Klacik's earlier employment; treat as a personal-history allegation recorded as said.",
+      "transcript_snippet": "I found out that she was like hiding the fact that she was a whole stripper.",
+      "mentions_person_refs": [
+        "N-438",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14862",
+      "ref": "C-14862",
+      "label": "Host Says Klacik Sued Her for Defamation, Lost and Had to Pay Her",
+      "claim": "The host says Klacik's then husband managed the strip club, that Klacik sued the host for defamation, lost the case, and had to pay the host in Tennessee under its anti-SLAPP law.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:04:51",
+      "investigative_direction": "Pull the Tennessee court docket and any fee award order in the Klacik v. Owens case; compare with the earlier claim that the suit was dropped in discovery.",
+      "transcript_snippet": "sued me for def defamation and she subsequently lost that defamation lawsuit and she had to pay me here in Tennessee because we have anti-SLAP laws gratefully.",
+      "mentions_person_refs": [
+        "N-438",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14863",
+      "ref": "C-14863",
+      "label": "Host Says Turek Was the Only Person Who Reacted Normally to the Shot",
+      "claim": "The host says Frank Turek was not on her radar early on and that she repeatedly said he appeared to be the only person who reacted normally in the moments after the shot, ducking down and appearing fearful and surprised.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:51",
+      "investigative_direction": "Review frame-by-frame event footage of Turek at the shot and the host's earlier episodes where she called his reaction normal.",
+      "transcript_snippet": "he appeared to be the only person that reacted normally in those immediate moments following the explosive going off. He ducked down. He appeared fearful.",
+      "supports_claim_refs": [
+        "C-1481"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14864",
+      "ref": "C-14864",
+      "label": "Turek Clips Call the Host's Questions Lies, Slander and Demonic",
+      "claim": "In the clips played, Frank Turek says that there have been lies, accusations and slander with no evidence and that this is spiritual warfare and demonic activity, naming Candace Owens.",
+      "anchored_artifacts": [
+        "A-2427.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:06",
+      "investigative_direction": "Obtain the full original Turek appearances to confirm wording, date and host, as the clips are edited together.",
+      "transcript_snippet": "This is spiritual warfare. This is demonic activity. Yeah, I'm talking about Candace Owens.",
+      "supports_claim_refs": [
+        "C-7478"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14865",
+      "ref": "C-14865",
+      "label": "Host Says She Has Repeatedly Invited Turek and Offered to Appear on His Show",
+      "claim": "The host says she has offered many times for Frank Turek to come on her show and has offered to go on his.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:53",
+      "investigative_direction": "Locate the dated invitations and any Turek or representative replies.",
+      "transcript_snippet": "By the way, I've offered many times for you to come on the show. Offer to go on your show, actually.",
+      "supports_claim_refs": [
+        "C-6603",
+        "C-8360"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14866",
+      "ref": "C-14866",
+      "label": "Host Recounts Turek's Account That the Sept 8 Walk Was for Debate Tips",
+      "claim": "The host recounts Turek's version that he was with Charlie in Arizona in the 48 hours before the death and went on a walk on September 8 because Charlie needed debate tips.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:53",
+      "investigative_direction": "Compare Turek's own stated reason for the Sept 8 walk across his interviews, and check Scottsdale location and phone records for the walk.",
+      "transcript_snippet": "we are to believe that he went on this walk with him on September 8th because Charlie just needed debate tips, right?",
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14867",
+      "ref": "C-14867",
+      "label": "Host Says Turek, Hammer, Wolicki, Neff and Kolvet Were on the Next-Day Zoom",
+      "claim": "The host says Frank Turek joined Charlie the next day for the Zoom call, which she says included two Israeli officials, Rabbi Wolicki, Josh Hammer, Blake Neff and Andrew Kolvet, supposedly to help with debating.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:53",
+      "investigative_direction": "Obtain Zoom participant logs or invitations for the Sept 9 call and statements from each named attendee.",
+      "transcript_snippet": "Frank would then join Charlie the next day for that now infamous Zoom call because Charlie desperately needed help with debating from namely two Israeli officials",
+      "supports_claim_refs": [
+        "C-7756",
+        "C-7765",
+        "C-9340"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-1",
+        "N-167",
+        "N-55",
+        "N-162",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14868",
+      "ref": "C-14868",
+      "label": "Host Says the Zoom Call Took Place at 4 a.m. Israel Time",
+      "claim": "The host says the call was at 4:00 a.m. in the morning Israel time for the two Israeli officials on it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:53",
+      "investigative_direction": "Verify the call time against Zoom logs and Hammer's and Wolicki's own accounts of when it occurred.",
+      "transcript_snippet": "from namely two Israeli officials at 4:00 a. m. in the morning their time",
+      "supports_claim_refs": [
+        "C-10068"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-167"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14869",
+      "ref": "C-14869",
+      "label": "Host Says Hammer Was Caught Lying About Charlie's Views on Israel",
+      "claim": "The host says Josh Hammer was caught lying about whether Charlie's views on Israel had shifted, repeatedly insisting that Charlie never flinched until she released a text message.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10187"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:53",
+      "investigative_direction": "Compare Hammer's public statements on Charlie's Israel position with the released text message and its date.",
+      "transcript_snippet": "I've never seen someone caught lying in the way that he was caught lying about Charlie's views shifting over Israel day in and day out he kept saying oh no he never flinched until I dropped the text message.",
+      "mentions_person_refs": [
+        "N-55",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14870",
+      "ref": "C-14870",
+      "label": "Host Says Charlie Announced Abandoning the Pro-Israel Cause Two Hours Before the Zoom",
+      "claim": "The host says Charlie announced he was abandoning the pro-Israel cause roughly two hours before the Zoom call, something she says the others felt the need to lie about.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:53",
+      "investigative_direction": "Identify the message or statement by Charlie that the host treats as the announcement and its timestamp relative to the Zoom call.",
+      "transcript_snippet": "That two hours after he announced he was abandoning the pro-Israel cause, something that they all felt the need to lie about",
+      "supports_claim_refs": [
+        "C-12931"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14871",
+      "ref": "C-14871",
+      "label": "Host Says Kolvet Gave Tulsi Gabbard's Office a Lie About Charlie's Israel Position",
+      "claim": "The host says Andrew Kolvet felt the need to lie to Tulsi Gabbard's office after Charlie's death about his changing views on Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:53",
+      "investigative_direction": "Ask Gabbard's office for communications from Kolvet after Sept 10 and compare with the host's source for the account.",
+      "transcript_snippet": "something that Andrew Kolvet felt the need to give Tulsi Gabbard's office following his death.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-333",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14872",
+      "ref": "C-14872",
+      "label": "Host Says Charlie Texted He Feared Being Killed During the Zoom Call Period",
+      "claim": "The host says that during the call Charlie was texting people that he was worried he would be killed the next day.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:53",
+      "investigative_direction": "Obtain the texts and recipients with timestamps relative to the call and verify authenticity.",
+      "transcript_snippet": "And during that call, he was texting people that he was worried that he was going to be killed uh the next day.",
+      "supports_claim_refs": [
+        "C-7754",
+        "C-9358"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14873",
+      "ref": "C-14873",
+      "label": "Host Says Harpole Has Said Multiple Times No CPR Was Done",
+      "claim": "The host says Brian Harpole has said multiple times that no CPR was performed during the extremely short ride to the hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:21",
+      "investigative_direction": "Compile all Harpole statements on CPR by date and outlet and compare with Turek's.",
+      "transcript_snippet": "Brian Harpole, who has said multiple times they did not perform CPR during that extremely short ride over to the hospital",
+      "supports_claim_refs": [
+        "C-8876",
+        "C-5788"
+      ],
+      "mentions_person_refs": [
+        "N-270",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14874",
+      "ref": "C-14874",
+      "label": "Host Says the Team Said Charlie Was So Long the Door Stayed Open and Legs Hung Out",
+      "claim": "The host says the team told the public that Charlie was so long that they had to leave the door open and his legs hung out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10737"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:21",
+      "investigative_direction": "Locate the team statements about Charlie's legs hanging out and compare with footage of the SUV leaving the scene.",
+      "transcript_snippet": "Consider them telling us that Charlie was so long that they had to leave the door open and his legs had to hang out.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14875",
+      "ref": "C-14875",
+      "label": "Host Doubts Turek Could Move Charlie Into CPR Position Unnoticed",
+      "claim": "The host says she cannot accept that Turek shifted Charlie by himself in a couple of minutes and performed CPR without anyone noticing, given the limited space in the vehicle.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10737"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:21",
+      "investigative_direction": "Obtain the SUV interior dimensions, seat configuration and a reconstruction by a paramedic or emergency physician.",
+      "transcript_snippet": "we're now supposed to believe that they somehow then shifted him or Frank Turek shifted him by himself and nobody noticed",
+      "supports_claim_refs": [
+        "C-8879",
+        "C-8880"
+      ],
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14876",
+      "ref": "C-14876",
+      "label": "Host Says Harpole Told Shawn Ryan That Turek Prayed and Did Not Get Involved",
+      "claim": "The host says Harpole told Shawn Ryan in the car-crash interview that Frank Turek was praying in the back and did not get involved, leaving Harpole alone to provide emergency care.",
+      "anchored_artifacts": [
+        "A-3349.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:55",
+      "investigative_direction": "Pull the Shawn Ryan Show interview transcript and timestamp where Harpole describes the ride.",
+      "transcript_snippet": "he told Shawn Ryan in the car crash interview that Frank was praying in the back. He didn't get involved.",
+      "supports_claim_refs": [
+        "C-2950"
+      ],
+      "mentions_person_refs": [
+        "N-270",
+        "N-228",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14877",
+      "ref": "C-14877",
+      "label": "Turek Says Harpole Is Correct That Most of the Ride Had No CPR",
+      "claim": "In the clip Turek says Brian is correct that most of the ride they were not doing any CPR because they were trying to stop the bleeding.",
+      "anchored_artifacts": [
+        "A-2429.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:50",
+      "investigative_direction": "Obtain the full original Turek statement and the date and outlet to compare with his earlier CPR claims.",
+      "transcript_snippet": "Brian is correct that most of the ride we weren't doing any CPR. We couldn't do CPR. We're trying to stop the bleeding.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14878",
+      "ref": "C-14878",
+      "label": "Turek Says Charlie Was Not Breathing and Had No Heartbeat in the Car",
+      "claim": "In the clip Turek says that by the last part of the ride he thought Charlie was not breathing and had no heartbeat, which is why he tried CPR.",
+      "anchored_artifacts": [
+        "A-2429.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:50",
+      "investigative_direction": "Compare with Harpole's and the hospital's account of Charlie's vital signs on arrival.",
+      "transcript_snippet": "he's not breathing and there's no heartbeat. I've got to at least try.",
+      "supports_claim_refs": [
+        "C-7454"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14879",
+      "ref": "C-14879",
+      "label": "Host Says Turek Claimed Harpole Was Just Distracted and Missed the CPR",
+      "claim": "The host says Turek goes on to say that Brian Harpole was just distracted, and that she does not accept that Harpole failed to notice 30 seconds of seated CPR.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:50",
+      "investigative_direction": "Locate the Turek interview passage where he says Harpole was distracted and compare with Harpole's account.",
+      "transcript_snippet": "And then he goes on to say that Brian was just distracted. 30 seconds to seated CPR.",
+      "supports_claim_refs": [
+        "C-11665"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14880",
+      "ref": "C-14880",
+      "label": "Host Says She Believes Turek Is Lying and Harpole Is Truthful",
+      "claim": "The host says she believes Frank Turek is lying and Brian Harpole is telling the truth, and that Harpole's consistent statements across interviews mean it is not just a discrepancy.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:50",
+      "investigative_direction": "Cross-check the Turek and Harpole accounts against any bodycam, dispatch or hospital arrival records of the ride.",
+      "transcript_snippet": "Frank is lying and that Brian is telling the truth, which is what I believe, and I don't believe it's just a discrepancy because Brian said it across multiple interviews",
+      "supports_claim_refs": [
+        "C-13072"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14881",
+      "ref": "C-14881",
+      "label": "Host Theorizes Turek's CPR Story Justifies His Surgical Scrubs",
+      "claim": "The host theorizes that Turek needs a reason for why he changed into surgical scrubs, and that the CPR story gives him one.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10688",
+        "N-11310"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:02",
+      "investigative_direction": "Obtain hospital records of scrub distribution and footage of Turek's clothing at the hospital.",
+      "transcript_snippet": "he needs to come up with a reason as to why he changed his clothes into surgical scrubs because that's another bizarre fact of the story.",
+      "supports_claim_refs": [
+        "C-13073"
+      ],
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14882",
+      "ref": "C-14882",
+      "label": "Host Says Turek Jumped Into the Trunk and Did Not Touch Charlie",
+      "claim": "The host says everyone can see Frank Turek jumped into the trunk of the car and actually did not touch Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:02",
+      "investigative_direction": "Review the Farnsworth footage frame by frame of Turek entering the SUV.",
+      "transcript_snippet": "when everyone can see that Frank jumped into the trunk of the car and actually did not touch Charlie.",
+      "supports_claim_refs": [
+        "C-13074",
+        "C-2954"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14883",
+      "ref": "C-14883",
+      "label": "Host Says Harpole Did Not Credit Cutler or Turek With Helping",
+      "claim": "The host says Harpole used the first person singular and did not suggest Rick Cutler got involved, noting that Cutler was just holding Charlie because his feet were hanging out.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:46",
+      "investigative_direction": "Compare Harpole's and Cutler's own accounts of who did what in the SUV.",
+      "transcript_snippet": "He did not, like I said, even suggest that Rick Cutler got involved. Rick Cutler was just holding him because Charlie's feet, they caught a tail.",
+      "supports_claim_refs": [
+        "C-11663"
+      ],
+      "mentions_person_refs": [
+        "N-270",
+        "N-493",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14884",
+      "ref": "C-14884",
+      "label": "Host Says Police Came Because Charlie's Feet Were Hanging Out",
+      "claim": "The host says police came to the vehicle because Charlie's feet were hanging out.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:46",
+      "investigative_direction": "Obtain police dispatch logs and bodycam covering the SUV departure and any vehicle contact.",
+      "transcript_snippet": "The police came because Charlie's feet were hanging out.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14885",
+      "ref": "C-14885",
+      "label": "Host Says Turek FaceTimed Jack Hibbs Immediately on Reaching the Hospital",
+      "claim": "The host says Frank Turek immediately FaceTimed Pastor Jack Hibbs when he got to the hospital.",
+      "anchored_artifacts": [
+        "A-2430.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:46",
+      "investigative_direction": "Obtain the Turek and Hibbs call logs and FaceTime timestamps.",
+      "transcript_snippet": "we know that Frank when he got to the hospital, he immediately facetimed Pastor Jack Hibbs",
+      "supports_claim_refs": [
+        "C-7630"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-212"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14886",
+      "ref": "C-14886",
+      "label": "Hibbs Clip: Mikey McCoy Called Him Saying There Was So Much Blood",
+      "claim": "In the clip Jack Hibbs says Mikey called and said to get everyone in the world praying because there was so much blood.",
+      "anchored_artifacts": [
+        "A-2430.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:55",
+      "investigative_direction": "Obtain Hibbs's and McCoy's phone records for the call sequence on Sept 10.",
+      "transcript_snippet": "\"Jack, get everyone in the world praying. >> There's so much blood.",
+      "supports_claim_refs": [
+        "C-7632",
+        "C-3386"
+      ],
+      "mentions_person_refs": [
+        "N-212",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14887",
+      "ref": "C-14887",
+      "label": "Host Says the Blood-on-Me Memory Was Turek's Not Hibbs's",
+      "claim": "The host says that when Turek says 'You saw I had blood on me' it seemed to be Frank's memory, not Jack's.",
+      "anchored_artifacts": [
+        "A-2430.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:52",
+      "investigative_direction": "Compare the full FaceTime interview audio with Hibbs's own account.",
+      "transcript_snippet": "It seemed like that was Frank's memory, not Jack's.",
+      "supports_claim_refs": [
+        "C-7633"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-212"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14888",
+      "ref": "C-14888",
+      "label": "Host Says Only One Eyewitness Came Forward to Describe the Hospital Arrival",
+      "claim": "The host says that after searching the internet she found only one eyewitness who claimed to see the group arriving at the hospital, who posted his testimony in September, before Harpole gave interviews.",
+      "anchored_artifacts": [
+        "A-2431.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:52",
+      "investigative_direction": "Locate the original eyewitness post and verify date, account identity and the claimed vantage point.",
+      "transcript_snippet": "there was just one eyewitness that came forward that we could find who claimed to see them arriving at the hospital.",
+      "mentions_person_refs": [
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14889",
+      "ref": "C-14889",
+      "label": "Eyewitness Says He Was Eating Lunch in the Hospital Parking Lot",
+      "claim": "The host says the eyewitness claimed he was sitting in the parking lot eating lunch at the hospital and described seeing a man get out of the trunk.",
+      "anchored_artifacts": [
+        "A-2431.1"
+      ],
+      "related_nodes": [
+        "N-10573"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:20",
+      "investigative_direction": "Verify the witness's presence through his original post metadata and any lot or camera footage.",
+      "transcript_snippet": "he was sitting in the parking lot eating his lunch at Timpanogos and he described seeing a man get out of crucially the trunk."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14890",
+      "ref": "C-14890",
+      "label": "Host Says the Eyewitness Account Would Mean Turek Never Left the Trunk Area",
+      "claim": "The host says that if the eyewitness account is accurate, Frank Turek never left the trunk area during the ride, raising the question of how he got so much blood on him that he needed scrubs.",
+      "anchored_artifacts": [
+        "A-2431.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:39",
+      "investigative_direction": "Match the witness's description to the hospital's exterior camera footage and the SUV layout.",
+      "transcript_snippet": "that would suggest that Frank actually never left the trunk area during that short ride.",
+      "supports_claim_refs": [
+        "C-13076"
+      ],
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14891",
+      "ref": "C-14891",
+      "label": "Host Says Scrubs Were Provided by Mikey Rather Than Given by Hospital Staff",
+      "claim": "The host says the team's account is that the surgical scrubs were provided by Mikey, and she finds it strange that hospital staff would not give them out themselves but gave them to Charlie's young assistant who arrived later.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11310"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:39",
+      "investigative_direction": "Obtain hospital supply logs and staff statements on who issued scrubs and when.",
+      "transcript_snippet": "which we then learned were provided by Mikey. Another strange development that the hospital staff would just give them out",
+      "supports_claim_refs": [
+        "C-11639",
+        "C-4711"
+      ],
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14892",
+      "ref": "C-14892",
+      "label": "Host Says She Has Footage From Inside the Hospital She Is Not Yet Releasing",
+      "claim": "The host says she has footage from inside the hospital that she is not revealing yet.",
+      "anchored_artifacts": [
+        "A-3353.1"
+      ],
+      "related_nodes": [
+        "N-10573"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:08",
+      "investigative_direction": "Ask the host for the provenance and chain of custody of the hospital footage when it is released.",
+      "transcript_snippet": "We aren't going to reveal to you footage from inside of the hospital. Not yet, at least.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14893",
+      "ref": "C-14893",
+      "label": "Host Says Justin Davis Drove the SUV to the Hospital While Hariff Stayed Behind",
+      "claim": "The host says Justin Davis drove to the hospital but Blake Hariff stayed behind, so he could not have gotten Charlie's blood on him in the vehicle.",
+      "anchored_artifacts": [
+        "A-2432.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:51",
+      "investigative_direction": "Confirm the driver and passenger list for the first SUV from footage and team statements.",
+      "transcript_snippet": "Justin drives to the hospital, but Blake Hariff stays behind.",
+      "supports_claim_refs": [
+        "C-3551"
+      ],
+      "mentions_person_refs": [
+        "N-498",
+        "N-906"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14894",
+      "ref": "C-14894",
+      "label": "Footage Shows Turek Getting Into the Boot of the SUV",
+      "claim": "The host says that after Hariff and Davis opened the car door the footage shows Frank Turek come around and get into the boot.",
+      "anchored_artifacts": [
+        "A-2432.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:48",
+      "investigative_direction": "Review the original footage frame by frame to confirm who enters the rear cargo area and when.",
+      "transcript_snippet": "Thereafter, he comes around. He gets into the boot. Frank Turek.",
+      "supports_claim_refs": [
+        "C-2954"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-906"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14895",
+      "ref": "C-14895",
+      "label": "Host Says Flood and Cutler Carried Charlie and Cutler Was in the Vehicle",
+      "claim": "The host says Dan Flood carried Charlie and Rick Cutler certainly carried Charlie and was in the vehicle, so scrubs on them are less puzzling than on Hariff.",
+      "anchored_artifacts": [
+        "A-2432.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:13",
+      "investigative_direction": "Review footage of Charlie being carried to the SUV to establish who bore weight.",
+      "transcript_snippet": "Dan Flood is also wearing surgical scrubs, but we know he carried Charlie. Rick Cutler certainly carried Charlie and was in the vehicle.",
+      "mentions_person_refs": [
+        "N-274",
+        "N-493"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14896",
+      "ref": "C-14896",
+      "label": "Host Says Hariff and Davis Did Not Touch Charlie While He Was Loaded",
+      "claim": "The host says Blake Hariff did not touch Charlie while getting into the vehicle, and neither did Justin Davis, though she gives Davis the benefit of the doubt that he touched Charlie at the hospital.",
+      "anchored_artifacts": [
+        "A-2432.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:13",
+      "investigative_direction": "Confirm Davis's role at the hospital from footage and team statements.",
+      "transcript_snippet": "He didn't touch Charlie while getting into the vehicle. Neither Justin Davis, by the way.",
+      "mentions_person_refs": [
+        "N-906",
+        "N-498"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14897",
+      "ref": "C-14897",
+      "label": "Host Says Hospital Handing Out Scrubs Departs From Protocol",
+      "claim": "The host says it seems a risk and unusual for a hospital to hand out surgical scrubs to everyone for no reason and suggests the hospital should be investigated.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11310",
+        "N-10573"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:59",
+      "investigative_direction": "Request Timpanogos policies on scrub issue to non-staff and any log of scrubs issued Sept 10.",
+      "transcript_snippet": "It seems like a risk to just be handing out surgical scrubs to everyone apparently uh for no reason.",
+      "mentions_person_refs": [
+        "N-10573"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14898",
+      "ref": "C-14898",
+      "label": "Host Says Staff Let Harpole Cut Shirts, Order Medications and a Man Guarded the Door",
+      "claim": "The host says hospital staff were allowing Brian Harpole to jump on patients and cut their shirts, to shout medications to give, and that she asks why a man was guarding the door.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10573"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:59",
+      "investigative_direction": "Obtain the hospital footage and staff statements on Harpole's conduct in the trauma bay.",
+      "transcript_snippet": "They're also allowing Brian Harpole to jump on patients and cut their shirts. That doesn't seem to follow protocol.",
+      "mentions_person_refs": [
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14899",
+      "ref": "C-14899",
+      "label": "Host Identifies a Man Harpole Hugged at the UVU Return as Alex Fria",
+      "claim": "The host identifies the man Brian Harpole just hugged in the UVU return footage as Alex Fria, with the name as transcribed.",
+      "anchored_artifacts": [
+        "A-2432.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:14",
+      "investigative_direction": "Confirm the correct spelling and identity of the man hugged from the original footage and tips.",
+      "transcript_snippet": "That's Alex Fria who he just hugged. That there in the corner in the white hat is Rick Cutler.",
+      "mentions_person_refs": [
+        "N-270",
+        "N-493"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14900",
+      "ref": "C-14900",
+      "label": "Host Names a Man in Surgical Scrubs at the Top of the Frame as Blake Gibson",
+      "claim": "The host names a man in surgical scrubs at the top of the frame as Blake Gibson, with the name as transcribed.",
+      "anchored_artifacts": [
+        "A-2432.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:29",
+      "investigative_direction": "Confirm the correct name from the footage; it may be a different name for Blake Hariff or another team member.",
+      "transcript_snippet": "Blake Gibson and surgical scrubs. That's who you see up in the top there."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14901",
+      "ref": "C-14901",
+      "label": "Host Doubts the Story of Mikey Handing Out Scrubs",
+      "claim": "The host says she does not know about the story of Mikey handing out surgical scrubs and asks why they would put on scrubs if they had no blood on them.",
+      "anchored_artifacts": [
+        "A-2432.3"
+      ],
+      "related_nodes": [
+        "N-11310"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:25:38",
+      "investigative_direction": "Obtain hospital records and statements from Mikey McCoy on whether he issued the scrubs.",
+      "transcript_snippet": "I don't know about this story about Mikey handing out surgical scrubs.",
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14902",
+      "ref": "C-14902",
+      "label": "Host Repeats Her Offer to Turek to Appear Together",
+      "claim": "The host again offers Frank Turek to come on her show or to appear on his own to talk through the events of September 10.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:38",
+      "investigative_direction": "Check whether Turek or his representatives respond to the offer.",
+      "transcript_snippet": "I can just toss out another offer for you to come join me on my show or I can join you on yours.",
+      "supports_claim_refs": [
+        "C-8360"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14903",
+      "ref": "C-14903",
+      "label": "Pre-Born Ad Read: Nearly 60,000 Babies Saved This Year",
+      "claim": "In a sponsor read the host says Pre-Born has saved nearly 60,000 babies from abortion this year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11191"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:26:38",
+      "investigative_direction": "Check Pre-Born published annual figures against the 60,000 claim; sponsor read recorded as said.",
+      "transcript_snippet": "this year alone, God has used pre-born to save nearly 60,000 babies from abortion"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14904",
+      "ref": "C-14904",
+      "label": "Host Says a Timpanogos Doctor Allegedly Recused Himself After a Disagreement",
+      "claim": "The host says a doctor at Timpanogos Hospital who worked on Charlie allegedly had a disagreement during or right after the surgery and felt the need to recuse himself and remove himself from the situation.",
+      "anchored_artifacts": [
+        "A-3350.1"
+      ],
+      "related_nodes": [
+        "N-10828",
+        "N-10573"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:37",
+      "investigative_direction": "Identify the physician through hospital staffing and records and ask the hospital whether any provider requested removal from the chart.",
+      "transcript_snippet": "there was allegedly a disagreement uh during or immediately after the surg surgery where this doctor felt the need to recuse himself and completely remove himself from the situation altogether.",
+      "mentions_person_refs": [
+        "N-10573"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14905",
+      "ref": "C-14905",
+      "label": "Host Says the Doctor Asked to Be Removed From All Records and Is Uncomfortable",
+      "claim": "The host says she is told the doctor asked to have his name removed from everything to do with the case, is out of character, and becomes uncomfortable when asked about September 10.",
+      "anchored_artifacts": [
+        "A-3350.1"
+      ],
+      "related_nodes": [
+        "N-10828",
+        "N-10576"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:37",
+      "investigative_direction": "Request hospital records of any name-removal or amendment request and the date it was made.",
+      "transcript_snippet": "he asked to have all of his name his name removed from anything to do with it off all of the records",
+      "mentions_person_refs": [
+        "N-10576"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14906",
+      "ref": "C-14906",
+      "label": "Host Says Andrew Wilson Was Sent to Entrap Her and Defend Israel and Erika",
+      "claim": "The host says Andrew Wilson was not sent to debate her on evidence but to entrap her in a lawsuit with out-of-context clips and to defend Israel and Erika Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11262"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:47",
+      "investigative_direction": "Identify who engaged or paid Wilson for the debate and any communications about legal strategy.",
+      "transcript_snippet": "He was sent to try to entrap me in a lawsuit via out of context clips, trying to get me to say something defamatory on record.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14907",
+      "ref": "C-14907",
+      "label": "Host Says Wilson Demanded She Remove the Panguitch Visit From Her Timeline",
+      "claim": "The host says one of Wilson's aims was to demand she remove the Panguitch steakhouse visit from her official timeline.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10381",
+        "N-11262"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:47",
+      "investigative_direction": "Obtain the debate recording to verify Wilson's demand about the timeline.",
+      "transcript_snippet": "most obscurely, to demand that I remove the Panguitch steakhouse visit from our official timeline.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14908",
+      "ref": "C-14908",
+      "label": "Host Says She Covered the Cowboy Smokehouse Story on January 6",
+      "claim": "The host says her show covered Tyler Robinson's alleged Cowboy Smokehouse visit on January 6 and that she spoke to the owner at that time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:30",
+      "investigative_direction": "Retrieve the January 6 episode and transcript of the owner conversation.",
+      "transcript_snippet": "It was literally January 6th when we covered this.",
+      "supports_claim_refs": [
+        "C-2003"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14909",
+      "ref": "C-14909",
+      "label": "Host Says the Six-Month-Old Story Suddenly Became a Focus Before the Preliminary Hearing",
+      "claim": "The host says the six-month-old Cowboy Smokehouse story suddenly became a focal point ahead of the preliminary hearing with a bunch of people trying to debunk it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:09",
+      "investigative_direction": "Map the dates of influencer posts attempting to debunk the receipt against the preliminary hearing date.",
+      "transcript_snippet": "Suddenly, this six-month-old story became a focal point ahead of the preliminary hearing."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14910",
+      "ref": "C-14910",
+      "label": "Host Says the Defense Department Was Involved in Getting Influencers and Money Trail Is Coming",
+      "claim": "The host says the Department of Defense was somehow involved in getting these influencers to act and that she has figured out how people are getting paid, promising more later.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10888",
+        "N-11017"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:09",
+      "investigative_direction": "Obtain the payment records or contracts the host says she has found.",
+      "transcript_snippet": "Now, we learned the Department of Defense was somehow involved in getting all of these influencers. More on that later because we have figured out how people are getting paid.",
+      "supports_claim_refs": [
+        "C-14860"
+      ],
+      "mentions_person_refs": [
+        "N-11017"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14911",
+      "ref": "C-14911",
+      "label": "Host Says Diligent Dennison Released a Waiter Interview and Receipt After Being Accused of Lying",
+      "claim": "The host says the citizen journalist Diligent Denisen released an interview with one of the waiters working that night and then the receipt because people were saying he was lying.",
+      "anchored_artifacts": [
+        "A-2433.4"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:09",
+      "investigative_direction": "Obtain the waiter interview and the receipt original from Dennison and confirm how he obtained them.",
+      "transcript_snippet": "Diligent Denisen who dropped an interview with one of the waiters that was working that night and he then released a receipt to go along with it because people were saying that he was lying",
+      "supports_claim_refs": [
+        "C-6119"
+      ],
+      "mentions_person_refs": [
+        "N-370"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14912",
+      "ref": "C-14912",
+      "label": "Host Says Skeptics Insisted the Receipt Was Fake or Non-Existent",
+      "claim": "The host says many people insisted at various times that the receipt was fake, non-existent, or that the story had been debunked.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:02",
+      "investigative_direction": "Collect the named debunking posts and what evidence each cited.",
+      "transcript_snippet": "a bunch of people then insisting at various times that the receipt was fake, that the receipt was non-existent, that the story had somehow been debunked"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14913",
+      "ref": "C-14913",
+      "label": "Host Says the Owner Did Not Claim to Be There That Night",
+      "claim": "The host says the Cowboy Smokehouse owner did not claim to be there that night and basically relayed what his servers told him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:02",
+      "investigative_direction": "Interview the owner and the servers on shift to establish who personally served the customer.",
+      "transcript_snippet": "he didn't claim to be there that night. He basically told the story."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14914",
+      "ref": "C-14914",
+      "label": "Host Guesses Feds Sloppers Are Behind the Bad Reviews of the Restaurant",
+      "claim": "The host says she guesses the people behind the bad reviews written about the restaurant since July are the feds sloppers, who she says want the story debunked.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:33:40",
+      "investigative_direction": "Analyze the review accounts' creation dates and activity patterns; the host offers this as a guess.",
+      "transcript_snippet": "My guess would be it would be the feds sloppers doing that."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14915",
+      "ref": "C-14915",
+      "label": "Host Says Andrew Wilson Dropped the Receipt Signature as a Debunking",
+      "claim": "The host says Andrew Wilson posted a signature pulled from the receipt as a debunking, saying it is not Tyler Robinson's signature.",
+      "anchored_artifacts": [
+        "A-3351.1"
+      ],
+      "related_nodes": [
+        "N-11262",
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:40",
+      "investigative_direction": "Obtain the receipt image Wilson used and exemplars of Robinson's signature for comparison.",
+      "transcript_snippet": "Andrew Wilson drops this signature as a debunking.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14916",
+      "ref": "C-14916",
+      "label": "Host Says the Receipt Signature Is an Ordinary Electronic-Pad Scribble",
+      "claim": "The host says the signature is the standard scribble people make on electronic signature pads such as at CVS and is not a meaningful comparison.",
+      "anchored_artifacts": [
+        "A-3351.1"
+      ],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:40",
+      "investigative_direction": "Consult a forensic document examiner on whether electronic pad signatures are comparable to handwritten exemplars.",
+      "transcript_snippet": "this is your standard when you get those like CVS electronic signature things",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14917",
+      "ref": "C-14917",
+      "label": "Host Says Tyler's Texts to Lance Put Him in Orem by 11:45 p.m.",
+      "claim": "The host says Tyler's messages to Lance that evening put him in Orem by 11:45 p.m.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10062",
+        "N-10077"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:39",
+      "investigative_direction": "Obtain the Robinson-Lance message timestamps and the cell-site or app metadata placing the sender.",
+      "transcript_snippet": "You will recall that Tyler's messages to Lance that evening put him in Orum by 11 11:45 p. m.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14918",
+      "ref": "C-14918",
+      "label": "Host Says the Case Hinges Almost Entirely on the Texts to Lance",
+      "claim": "The host says the case currently hinges almost entirely on the text messages to Lance.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10337",
+        "N-10077"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:39",
+      "investigative_direction": "Review the prosecution's exhibit list for corroborating evidence beyond the texts.",
+      "transcript_snippet": "currently the case hinges almost entirely on these text messages to Lance, right?",
+      "mentions_person_refs": [
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14919",
+      "ref": "C-14919",
+      "label": "Host Says a Confirmed Receipt Would Rule Out Robinson Sending the Texts",
+      "claim": "The host says that if the steakhouse receipt is confirmed, it removes any possibility that the text messages were sent from Tyler Robinson, with the caveat that he could have lied about where he was.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10077",
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:39",
+      "investigative_direction": "Obtain the receipt timestamp and the messages' device metadata to compare the locations.",
+      "transcript_snippet": "If the steakhouse receipt is confirmed, it removes any possibility that the text messages were sent from Tyler Robinson.",
+      "supports_claim_refs": [
+        "C-3559"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14920",
+      "ref": "C-14920",
+      "label": "Host Says the Neighbor Saw a Bald Man Driving With Two Other People",
+      "claim": "The host says that if the receipt is confirmed, it explains why the neighbor, Mrs. Noble, saw a bald man driving with two other people rather than Tyler Robinson.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:37:12",
+      "investigative_direction": "Obtain Mrs. Noble's statement and any doorbell or street camera footage of the vehicle at 12:38 a.m.",
+      "transcript_snippet": "That would be why she saw a bald man [snorts] driving with two other people because it wouldn't be Tyler Robinson that was driving.",
+      "mentions_person_refs": [
+        "N-909",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14921",
+      "ref": "C-14921",
+      "label": "Host Says Her Sources Have Been Validated While Opponents Pull Back",
+      "claim": "The host says her sources have been validated, that her opponents are now pulling back on their narrative, and that she has not had to pull back anything.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:37:12",
+      "investigative_direction": "List specific official narratives that have been revised and compare with the host's earlier claims.",
+      "transcript_snippet": "they're now pulling back on their narrative and I haven't pulled back one inch on mine.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14922",
+      "ref": "C-14922",
+      "label": "Host Concedes the Receipt Claim Relies on the Servers' Memory",
+      "claim": "The host says the receipt claim has a blind spot because it relies on the memory of the server or servers, who could be sincere but mistaken, so she never said she was 100 percent sure.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:37:12",
+      "investigative_direction": "Obtain the bank or card-network record of the transaction to remove reliance on witness memory.",
+      "transcript_snippet": "this relies on the memory of the server, right? Or the servers. It doesn't necessarily make it true."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14923",
+      "ref": "C-14923",
+      "label": "Host Says She Confirmed Mitch Snow Was at Fort Huachuca",
+      "claim": "The host says she confirmed Mitch Snow was at Fort Huachuca and which hotel he stayed at, and confirmed he had a dust-up with the military police.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10375"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:37:12",
+      "investigative_direction": "Obtain Snow's hotel folio and the military police incident record.",
+      "transcript_snippet": "We confirmed he was there, what hotel he was at.",
+      "supports_claim_refs": [
+        "C-3888"
+      ],
+      "mentions_person_refs": [
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14924",
+      "ref": "C-14924",
+      "label": "Host Says She Cannot Confirm Snow Saw Erika or Harpole Because It Relies on His Memory",
+      "claim": "The host says she cannot confirm that Mitch Snow actually saw Erika Kirk in the lobby or Brian Harpole, because that relies on his memory.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373",
+        "N-10375"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:37:12",
+      "investigative_direction": "Look for lobby camera footage, guest registration or third-party witnesses to corroborate Snow's sighting.",
+      "transcript_snippet": "But can we confirm that he actually saw Erika Kirk in the lobby or that he actually saw Brian Harpole? No, because that relies on his memory, right?",
+      "mentions_person_refs": [
+        "N-366",
+        "N-2",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14925",
+      "ref": "C-14925",
+      "label": "Host Allows That Someone Else Could Have Used Robinson's Card",
+      "claim": "The host says it is possible someone else had Robinson's card and was dressed like him or looked like him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:48",
+      "investigative_direction": "Compare the card-holder identity on the transaction record with Robinson's and obtain surveillance of the person at the restaurant.",
+      "transcript_snippet": "Was somebody dressed like him, looked like him, but had his credit card? That's a possibility I'm open to.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14926",
+      "ref": "C-14926",
+      "label": "Host Says She Is Now Bolding the Smokehouse Entry on Her Timeline",
+      "claim": "The host says she is no longer just putting the Cowboy Smokehouse visit on the unofficial timeline but is bolding it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10024",
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:48",
+      "investigative_direction": "Compare the host's current timeline version with earlier versions for the Smokehouse entry.",
+      "transcript_snippet": "So, I'm not just putting this on the timeline, unofficial timeline. I'm bolding that now.",
+      "mentions_person_refs": [
+        "N-10381"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14927",
+      "ref": "C-14927",
+      "label": "Host Predicts It Will Come Out at Trial That the Card Was Robinson's",
+      "claim": "The host says she expects it will come out during the trial that it was Tyler Robinson's card swiped at the Cowboy Smokehouse that night.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:48",
+      "investigative_direction": "Watch the trial exhibit lists and defense disclosures for the card transaction record.",
+      "transcript_snippet": "what I am going to suggest will come out uh during this trial that it was Tyler Robinson's card that was swiped at the cowboy smokehouse on that night.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14928",
+      "ref": "C-14928",
+      "label": "Host Says the Defense Team Can Confirm or Deny the Electronic Record",
+      "claim": "The host says it is now the job of Robinson's defense team to confirm or deny her account and that an electronic record cannot be simply lied about and wiped away.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10581",
+        "N-10381"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:40:53",
+      "investigative_direction": "Check whether the defense subpoenaed card-network or merchant records for the Cowboy Smokehouse transaction.",
+      "transcript_snippet": "It is now the job of Tyler Robinson's defense team to confirm or deny what I am saying. Electronic record is not something that can just be lied about and wiped away.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14929",
+      "ref": "C-14929",
+      "label": "Paleo Valley Ad Read: Beef Sticks Use 100 Percent Grass-Fed Beef",
+      "claim": "In a sponsor read the host says Paleo Valley uses 100 percent grass-fed and grass-finished beef sourced from American family farms.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10953"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:41:00",
+      "investigative_direction": "Check Paleo Valley's published sourcing claims; sponsor read recorded as said.",
+      "transcript_snippet": "Paleo Valley uses 100% grass-fed and grass-finish beef sourced from American Family Farms."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14930",
+      "ref": "C-14930",
+      "label": "Fatty15 Ad Read: Low C15 Levels May Affect Cell Aging",
+      "claim": "In a sponsor read the host says researchers have found that low levels of C15 may impact how well cells age and function over time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11409"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:42:29",
+      "investigative_direction": "Check the cited research on C15 and cellular aging; sponsor read recorded as said.",
+      "transcript_snippet": "Researchers have found that low levels of C-15 may impact how well our cells age and function over time."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14931",
+      "ref": "C-14931",
+      "label": "Host Says the Hospital-Lobby Remark Implies the Team Were Not Open to a Conspiracy",
+      "claim": "The host says that if Blake said in the hospital lobby that Candace would figure this out, it means they had full confidence it was not a conspiracy right after learning Charlie had died, which she finds strange.",
+      "anchored_artifacts": [
+        "A-2434.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:44:10",
+      "investigative_direction": "Identify who Blakey is (the host's wording suggests Blake Neff) and ask others in the lobby what was said.",
+      "transcript_snippet": "they had full confidence that it wasn't a conspiracy and they had just found out that Charlie had died.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14932",
+      "ref": "C-14932",
+      "label": "Commenter Says Megyn Kelly Had Frank Turek on Her Show That Day",
+      "claim": "A viewer comment read aloud says Megyn Kelly has Frank Turek on her show today, which the host says she has not seen.",
+      "anchored_artifacts": [
+        "A-2435.6"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:02",
+      "investigative_direction": "Locate the Megyn Kelly Show episode with Turek and check for statements on the ride and CPR.",
+      "transcript_snippet": "Megyn Kelly has Frank Turek on her show today.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14933",
+      "ref": "C-14933",
+      "label": "Host Says She Did Not See Charlie's Family in Chicago, Only Attended a Concert",
+      "claim": "The host says she did not see Charlie's family in Chicago and that the commenter may mean her attending the concert (transcribed as the A concert, probably the Ye concert).",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:46:30",
+      "investigative_direction": "Concert listings and attendee reports for the Chicago show.",
+      "transcript_snippet": "I did not see Charlie's family in Chicago. if you're speaking about me going to the A concert.",
+      "supports_claim_refs": [
+        "C-3403"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14934",
+      "ref": "C-14934",
+      "label": "Host Says She Does Not Believe a .30-06 Was Used",
+      "claim": "The host says she already does not believe a .30-06 was used and does not believe in neck-stopped bullet claims.",
+      "anchored_artifacts": [
+        "A-2435.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:46:30",
+      "investigative_direction": "Obtain the wound ballistics, recovered fragments and lab reports to determine the caliber used.",
+      "transcript_snippet": "I already do not believe a 306 was used.",
+      "supports_claim_refs": [
+        "C-6520",
+        "C-6580"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14935",
+      "ref": "C-14935",
+      "label": "Host Says TPUSA Has Andrew Wilson Training Students",
+      "claim": "The host says she finds it crazy that Turning Point has Andrew Wilson training students.",
+      "anchored_artifacts": [
+        "A-2435.4"
+      ],
+      "related_nodes": [
+        "N-11262"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:47:55",
+      "investigative_direction": "Confirm Wilson's role with TPUSA training programs through TPUSA announcements.",
+      "transcript_snippet": "It's so crazy that they would even have him training students.",
+      "mentions_person_refs": [
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14936",
+      "ref": "C-14936",
+      "label": "Host Says Wilson Mainly Speaks to Women and OnlyFans Models",
+      "claim": "The host says her understanding is that Wilson speaks to many OnlyFans models on his podcast and that he has not had an adult debate in a long time.",
+      "anchored_artifacts": [
+        "A-2435.4"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:47:55",
+      "investigative_direction": "Review Wilson's podcast guest list; the host presents this as her understanding.",
+      "transcript_snippet": "he speaks to a lot of Only Fans models.",
+      "mentions_person_refs": [
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14937",
+      "ref": "C-14937",
+      "label": "Host Says Seth Dillon Complained of Death Threats Over a Thumbnail",
+      "claim": "The host says Seth Dillon cried about the I Know What You Did Last Summer graphic and said he got death threats because of a thumbnail.",
+      "anchored_artifacts": [
+        "A-2435.5"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:47:55",
+      "investigative_direction": "Find Dillon's post describing the death threats and the thumbnail.",
+      "transcript_snippet": "Remember when Seth Dillon cried about that and was like, I got death threats because of a thumbnail?",
+      "mentions_person_refs": [
+        "N-38"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14938",
+      "ref": "C-14938",
+      "label": "Host Says Tony Burke Banned Her From Australia After Zionist Lobbying",
+      "claim": "The host says Tony Burke banned her from Australia because the Zionist lobby lobbied, that the ban is not permanent, and that she hopes to go someday.",
+      "anchored_artifacts": [
+        "A-2435.7"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:49:31",
+      "investigative_direction": "Obtain the Australian Home Affairs decision and any lobbying correspondence.",
+      "transcript_snippet": "Tony Burke banned me because the Zionist lobby lobbied and it was sad that that got cancelceled.",
+      "supports_claim_refs": [
+        "C-7714",
+        "C-13108",
+        "C-10045"
+      ],
+      "mentions_person_refs": [
+        "N-855",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14939",
+      "ref": "C-14939",
+      "label": "Host Says Kanye Is Also Banned From Australia",
+      "claim": "The host says Kanye is the other person banned from Australia.",
+      "anchored_artifacts": [
+        "A-2435.7"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:49:31",
+      "investigative_direction": "Check Australian government records on Ye's visa status.",
+      "transcript_snippet": "Kanye also is the other person who's banned there.",
+      "mentions_person_refs": [
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14940",
+      "ref": "C-14940",
+      "label": "Host Praises Tom O'Neill's Book Chaos",
+      "claim": "The host says she deeply respected Tom O'Neill's dedication in writing the book Chaos and learning that nothing officials told was true and that the government was involved.",
+      "anchored_artifacts": [
+        "A-2435.8"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:50:27",
+      "investigative_direction": "Book reference recorded as said; no verification needed for the Kirk case.",
+      "transcript_snippet": "I really um respected deeply the dedication and the persistence of Tom O'Neill and writing the book Chaos",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14941",
+      "ref": "C-14941",
+      "label": "Host Says Anti-Candaceism Cups Sold Out and Will Be Restocked",
+      "claim": "The host says the Anti-Candaceism cups have sold out and will hopefully be restocked by tomorrow or early next week.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:50:27",
+      "investigative_direction": "Merch store listing; recorded as said.",
+      "transcript_snippet": "Anti-cannism cups are sold out as they should be because people are activists",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14942",
+      "ref": "C-14942",
+      "label": "Host Asks Viewers to Email More Tips",
+      "claim": "The host asks viewers who saw something to email more tips at the show address and tell her what they know.",
+      "anchored_artifacts": [
+        "A-3352.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context",
+        "dia"
+      ],
+      "claim_timestamp": "00:51:15",
+      "investigative_direction": "Confirm the tip address is moretips@candaceowens.com and review the tip intake process.",
+      "transcript_snippet": "Email us more tips at kennace. com. Tell us what you know.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14943",
+      "ref": "C-14943",
+      "label": "Host Asks for Tips on Blake Hariff Changing Into Surgical Scrubs",
+      "claim": "The host asks viewers who might have seen Blake Hariff take his shirt off and put on surgical scrubs to email more tips, noting he is not a doctor.",
+      "anchored_artifacts": [
+        "A-3352.2"
+      ],
+      "related_nodes": [
+        "N-11310"
+      ],
+      "tags": [
+        "relevance:core",
+        "dia"
+      ],
+      "claim_timestamp": "00:52:16",
+      "investigative_direction": "Review incoming tips about scrub changes at the hospital or UVU and corroborate with footage.",
+      "transcript_snippet": "Email us more tips canoners. com. Maybe you are Blake Hariff and you just want to talk.",
+      "mentions_person_refs": [
+        "N-906",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14944",
+      "ref": "C-14944",
+      "label": "Host Offers to Protect Hariff and Cutler as Sources",
+      "claim": "The host says that if Blake Hariff or Rick Cutler want to talk she will protect them as sources, while saying the chance of that is virtually zero.",
+      "anchored_artifacts": [
+        "A-3352.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core",
+        "dia"
+      ],
+      "claim_timestamp": "00:52:16",
+      "investigative_direction": "Check for any response from Hariff or Cutler to the standing offer.",
+      "transcript_snippet": "Maybe you're Rick Cutler and you want to talk. I'll protect you guys as sources.",
+      "mentions_person_refs": [
+        "N-906",
+        "N-493",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14945",
+      "ref": "C-14945",
+      "label": "Host Announces a Special Episode in Memoriam of Charlie the Next Day",
+      "claim": "The host says the next day's episode will be a special one in memoriam of Charlie Kirk, the anniversary of his death.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:52:57",
+      "investigative_direction": "Locate the Sept 10, 2026 episode of the show.",
+      "transcript_snippet": "we will of course be having a special episode tomorrow um in memoriam of my dear friend Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 149,
+          "video_timestamp": "00:51:15",
+          "speaker_node_ref": "N-3",
+          "quote": "...ellers is our CIA cap. We are actually really the decentralized intelligence agency. There's a lot of comfort in that because there is no nucleus that can be hit. Everyone's working o...",
+          "context": "DIA / DCIA brand line from corrected transcript (CKA seq 149).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "brand_joke",
+            "transcript_backfill"
+          ]
+        },
+        {
+          "episode": 149,
+          "video_timestamp": "00:01:19",
+          "speaker_node_ref": "N-3",
+          "quote": "Thanks to our tips inbox, we can correct the record.",
+          "context": "Host credits her tips inbox for correcting the security team identification.",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia"
+          ]
+        },
+        {
+          "episode": 149,
+          "video_timestamp": "00:51:15",
+          "speaker_node_ref": "N-3",
+          "quote": "Email us more tips at kennace. com. Tell us what you know.",
+          "context": "Host asks viewers to email more tips right after the DIA line.",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia"
+          ]
+        },
+        {
+          "episode": 149,
+          "video_timestamp": "00:52:16",
+          "speaker_node_ref": "N-3",
+          "quote": "Email us more tips canoners. com.",
+          "context": "Host repeats the tip request aimed at Hariff-related information and offers source protection.",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-25",
+      "ref": "M-25",
+      "canonical_term": "Iron Sharpens Iron",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 149,
+          "video_timestamp": "00:52:16",
+          "speaker_node_ref": "N-3",
+          "quote": "very inspires bravery. Charlie always loved the biblical proverb. are iron sharpens iron and um we've seen that we have seen that on display entire...",
+          "context": "Later reuse of Iron Sharpens Iron in CKA seq 149.",
+          "confidence": "high",
+          "tags": [
+            "charlie",
+            "debate",
+            "memorial",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-24",
+      "ref": "M-24",
+      "canonical_term": "Yanking and Banking",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 149,
+          "video_timestamp": "00:11:50",
+          "speaker_node_ref": "N-3",
+          "quote": "f the ride when we're pulling into the hospital parking lot and we're yanking and banking our way there. Yeah. And then he goes on to say that Bria...",
+          "context": "Yanking and banking gag. (CKA seq 149)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
+          ]
+        },
+        {
+          "episode": 149,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "where in Yankin Bankin Franken Turk keeps calling me out",
+          "context": "Host nicknames Turek in the cold open.",
+          "confidence": "high",
+          "tags": [
+            "nickname",
+            "turek"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 149,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "we are going to continue to go max with more neverbeforeseen footage from September 10th",
+          "context": "Host opens with the Go Max refrain.",
+          "confidence": "high",
+          "tags": [
+            "opener",
+            "catchphrase"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-107",
+      "ref": "M-107",
+      "canonical_term": "Stop Anti-Candaceism",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 149,
+          "video_timestamp": "00:50:27",
+          "speaker_node_ref": "N-3",
+          "quote": "we cannot allow anti-cannonism to continue to spread",
+          "context": "Host promotes the sold-out cups and the anti-Candaceism bit.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "bit"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-220",
+      "ref": "M-220",
+      "canonical_term": "Candicism",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 149,
+          "video_timestamp": "00:51:15",
+          "speaker_node_ref": "N-3",
+          "quote": "so you too can join the social movement and seek justice for candism",
+          "context": "Host continues the Candaceism bit alongside restock news.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "bit"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-305",
+      "ref": "M-305",
+      "canonical_term": "Shoot My Shot",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 149,
+          "video_timestamp": "00:52:16",
+          "speaker_node_ref": "N-3",
+          "quote": "I got to shoot my shot.",
+          "context": "Host admits her offer to Hariff and Cutler is a long shot.",
+          "confidence": "high",
+          "tags": [
+            "long_shot",
+            "sources"
+          ]
+        }
+      ]
+    }
+  ]
 }

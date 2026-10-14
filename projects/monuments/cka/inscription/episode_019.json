@@ -150,7 +150,7 @@
           "@type": "Artifact",
           "@id": "A-1263.1",
           "ref": "A-1263.1",
-          "description": "Photo of Candace Owens holding a caught fish alongside Charlie Kirk (eyes closed), taken by Donald Trump Jr. or Cory Lundowski (\"Flash\") during a fishing trip in British Columbia.",
+          "description": "Photo of Candace Owens holding a caught fish alongside Charlie Kirk (eyes closed), taken by Donald Trump Jr. or Corey Lewandowski (\"Flash\") during a fishing trip in British Columbia.",
           "related_claims": [
             "C-1473"
           ],
@@ -401,6 +401,129 @@
           "related_claims": [],
           "related_nodes": [],
           "tags": []
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3287",
+      "family_ref": "A-3287",
+      "bundle_name": "Pastor Rob McCoy Sermon Clip Part 2 Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3287.1",
+          "ref": "A-3287.1",
+          "description": "Second played excerpt of Pastor Rob McCoy's sermon in which he describes the plan he proposed to his son, his sons' TPUSA roles and the call he received",
+          "related_claims": [
+            "C-13949",
+            "C-13950",
+            "C-13951",
+            "C-13952",
+            "C-13954"
+          ],
+          "related_nodes": [
+            "N-17",
+            "N-194",
+            "N-183"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3288",
+      "family_ref": "A-3288",
+      "bundle_name": "Host Phone Call with Camera Operator Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3288.1",
+          "ref": "A-3288.1",
+          "description": "Host verbal reference to her recording of the phone call with the camera operator, whose contents she relays (not played)",
+          "related_claims": [
+            "C-13963",
+            "C-13964",
+            "C-13965",
+            "C-13966",
+            "C-13968",
+            "C-13969",
+            "C-13970",
+            "C-13971",
+            "C-13972",
+            "C-13973",
+            "C-13974"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-184",
+            "N-10192"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:17:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3289",
+      "family_ref": "A-3289",
+      "bundle_name": "Camera Operator FaceTime Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3289.1",
+          "ref": "A-3289.1",
+          "description": "Host verbal reference to rear-camera footage she saw on FaceTime showing no blood on Charlie (not shown)",
+          "related_claims": [
+            "C-13967"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-184",
+            "N-1",
+            "N-10799"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:42",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3290",
+      "family_ref": "A-3290",
+      "bundle_name": "Tyler Bowyer Police-Order Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3290.1",
+          "ref": "A-3290.1",
+          "description": "Host verbal reference to Tyler Bowyer's tweet saying police commanded the camera operator to take down the cameras (not shown)",
+          "related_claims": [
+            "C-13975"
+          ],
+          "related_nodes": [
+            "N-11",
+            "N-184",
+            "N-10346"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:21:27",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
         }
       ]
     }
@@ -771,7 +894,11 @@
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1477",
+        "C-1478",
+        "C-1479"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -801,7 +928,37 @@
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13936",
+        "C-13937",
+        "C-13938",
+        "C-13940",
+        "C-13943",
+        "C-13945",
+        "C-13951",
+        "C-13953",
+        "C-13961",
+        "C-13962",
+        "C-13967",
+        "C-13974",
+        "C-13976",
+        "C-13977",
+        "C-13979",
+        "C-13981",
+        "C-13982",
+        "C-13983",
+        "C-13984",
+        "C-13985",
+        "C-13986",
+        "C-13987",
+        "C-13988",
+        "C-13989",
+        "C-13990",
+        "C-13992",
+        "C-13993",
+        "C-13998",
+        "C-13999"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -817,7 +974,42 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13936",
+        "C-13937",
+        "C-13938",
+        "C-13939",
+        "C-13940",
+        "C-13944",
+        "C-13947",
+        "C-13948",
+        "C-13960",
+        "C-13961",
+        "C-13962",
+        "C-13963",
+        "C-13964",
+        "C-13967",
+        "C-13975",
+        "C-13981",
+        "C-13983",
+        "C-13984",
+        "C-13985",
+        "C-13986",
+        "C-13988",
+        "C-13989",
+        "C-13990",
+        "C-13991",
+        "C-13992",
+        "C-13993",
+        "C-13994",
+        "C-13995",
+        "C-13996",
+        "C-13997",
+        "C-13998",
+        "C-13999",
+        "C-14000",
+        "C-14001"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -833,7 +1025,14 @@
       "type": "person",
       "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13949",
+        "C-13950",
+        "C-13951",
+        "C-13952",
+        "C-13954",
+        "C-13981"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -849,7 +1048,12 @@
       "type": "person",
       "description": "Concert performer; subject of BBC interview clip (A-2342), Avengers meme (A-2343), concert footage (A-2341), and TMZ clip (A-2344).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13939",
+        "C-13942",
+        "C-13986",
+        "C-13998"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -881,7 +1085,9 @@
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13995"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -897,13 +1103,483 @@
       "type": "person",
       "description": "Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on Israel/Netanyahu positioning.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13982"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10003",
+      "ref": "N-10003",
+      "name": "Charlie-Candace Friendship Continuity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13937",
+        "C-13938",
+        "C-13939",
+        "C-13960",
+        "C-13988",
+        "C-13999",
+        "C-14000"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10004",
+      "ref": "N-10004",
+      "name": "Kanye Tweet About Candace Owens",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13986",
+        "C-13998"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10056",
+      "ref": "N-10056",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13982"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10076",
+      "ref": "N-10076",
+      "name": "Cameragate Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13962",
+        "C-13963",
+        "C-13965",
+        "C-13966",
+        "C-13968",
+        "C-13969",
+        "C-13970",
+        "C-13971",
+        "C-13980"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10112",
+      "ref": "N-10112",
+      "name": "Lone-Shooter Narrative Critique",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13947",
+        "C-13991",
+        "C-13994",
+        "C-13995"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10148",
+      "ref": "N-10148",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13982"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10167",
+      "ref": "N-10167",
+      "name": "Tyler Bowyer X Defense Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13975"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10187",
+      "ref": "N-10187",
+      "name": "Josh Hammer Text Messages Context",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13982"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10198",
+      "ref": "N-10198",
+      "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13936",
+        "C-13944",
+        "C-13951",
+        "C-13952",
+        "C-13953",
+        "C-13954",
+        "C-13976",
+        "C-14002"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10218",
+      "ref": "N-10218",
+      "name": "McCoy Succession Plan",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13949",
+        "C-13950",
+        "C-13981"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10226",
+      "ref": "N-10226",
+      "name": "Mikey McCoy Phone Call Sequence Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13955",
+        "C-13956",
+        "C-13957",
+        "C-13972"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10338",
+      "ref": "N-10338",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13951",
+        "C-13955",
+        "C-13956"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10346",
+      "ref": "N-10346",
+      "name": "Terrell Farnsworth Camera Removal Justification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13975",
+        "C-13980"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10389",
+      "ref": "N-10389",
+      "name": "Charlie Kirk Premonition Dreams",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13983",
+        "C-13984",
+        "C-13985",
+        "C-13986",
+        "C-13987",
+        "C-13988",
+        "C-13989",
+        "C-13990",
+        "C-13992"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10561",
+      "ref": "N-10561",
+      "name": "Stacey Sheridan September 10 Location Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13945"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10635",
+      "ref": "N-10635",
+      "name": "Lead-up Footage Absence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13957"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10799",
+      "ref": "N-10799",
+      "name": "Back-Camera Footage Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13967"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10806",
+      "ref": "N-10806",
+      "name": "Charlie Kirk Pre-Event Text Messages",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13985",
+        "C-13987",
+        "C-13989",
+        "C-13990"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11093",
+      "ref": "N-11093",
+      "name": "Utah Back-to-Back Tour Stops Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13973"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Rob McCoy's son and TPUSA chief of staff; the host analyzes his phone use at the shooting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13949",
+        "C-13950",
+        "C-13951",
+        "C-13952",
+        "C-13953",
+        "C-13954",
+        "C-13955",
+        "C-13956",
+        "C-13957",
+        "C-13958",
+        "C-13959",
+        "C-13976",
+        "C-13987",
+        "C-14002"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 14,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow and TPUSA CEO; the camera man tells the host he spoke only to Erika and the feds about the footage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13965",
+        "C-13966"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "Podcaster; the host recalls flying to Wyoming after doing his show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13938"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-941",
+      "ref": "N-941",
+      "name": "Foster Friess",
+      "type": "person",
+      "description": "First named by the host at 00:01:39 in episode 19. Described by the host as a big-time donor to Turning Point USA whose funeral in Wyoming was the last trip she took with Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13940",
+        "C-13941",
+        "C-13942"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11378",
+      "ref": "N-11378",
+      "name": "Candace Owens Handler Thesis After Kanye Tweet",
+      "type": "topic",
+      "description": "The host's theory that handlers were sent out after Kanye West's 2018 tweet to break apart her and Charlie Kirk and then manage them.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13998"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1137,7 +1813,7 @@
       "@id": "C-1473",
       "ref": "C-1473",
       "label": "Candace Owens and Charlie Kirk Fished in British Columbia",
-      "claim": "Photo depicts Candace Owens and Charlie Kirk on a fishing trip in British Columbia; photographer described as Donald Trump Jr. or Cory Lundowski (\"Flash\").",
+      "claim": "Photo depicts Candace Owens and Charlie Kirk on a fishing trip in British Columbia; photographer described as Donald Trump Jr. or Corey Lewandowski (\"Flash\").",
       "anchored_artifacts": [
         "A-1263.1"
       ],
@@ -1417,7 +2093,1760 @@
       "mentions_person_refs": [
         "N-192"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13936",
+      "ref": "C-13936",
+      "label": "Host Says Kirk's Closest Allies and the White House Moved On Quickly",
+      "claim": "The host says Charlie Kirk's \"quote unquote closest friends,\" his closest political allies and the White House all seemed ready to move on much faster than she did, and that some may have accepted his death within minutes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "Compare the host's account with the public statements and schedules of Kirk's allies and the White House in the days after 2025-09-10.",
+      "transcript_snippet": "his quote unquote closest friends, his closest political allies, the White House, they all seemed kind of ready to move on so much faster than I was.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13937",
+      "ref": "C-13937",
+      "label": "Host Says Kirk Knew She Alone Would Step Up to Defend Him",
+      "claim": "The host says Charlie Kirk knew she was the only person who would step up to defend him after he was gone, and says she has proof.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10003"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "The proof would be Kirk's own messages to the host; compare the message set read later in this episode (A-1266.1) with original device records.",
+      "transcript_snippet": "He also knew that I was the only person who was going to step up to defend him after he was gone.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13938",
+      "ref": "C-13938",
+      "label": "Host Says Kirk Paid Her Flight to Wyoming for the Rogan Appearance",
+      "claim": "The host says Charlie Kirk paid for her flight to Wyoming, which she had to take quickly because she was doing Joe Rogan's podcast.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10003"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:01:39",
+      "investigative_direction": "Check the date of the Rogan recording and any travel or payment records the host holds.",
+      "transcript_snippet": "Charlie I was thinking out there and remembering paid for my flight to Wyoming. I had to get there very quickly because I was doing um Joe Rogan's podcast.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13939",
+      "ref": "C-13939",
+      "label": "Host Says Kanye Invited Her to a Wyoming Album Release Party",
+      "claim": "The host says Kanye West invited her to his album release party in Wyoming, which is why she flew there to follow the Rogan taping.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10003"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:01:39",
+      "investigative_direction": "Confirm the date and location of the Wyoming album listening event and the host's attendance.",
+      "transcript_snippet": "because Kanye had invited me to his album release party.",
+      "mentions_person_refs": [
+        "N-27",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13940",
+      "ref": "C-13940",
+      "label": "Host Says Her Last Wyoming Trip Was with Kirk for Foster Friess's Funeral",
+      "claim": "The host says the last time she went to Wyoming she was with Charlie Kirk, for the funeral of Foster Friess.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:01:39",
+      "investigative_direction": "Locate Foster Friess's funeral notice and attendee reports to date the host's trip with Kirk.",
+      "transcript_snippet": "the last time I went to Wyoming I was with Charlie Kirk who was the last person I visited with and it was for um ironically Foster Friess funeral",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-941"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13941",
+      "ref": "C-13941",
+      "label": "Host Calls Foster Friess a Big-Time TPUSA Donor",
+      "claim": "The host describes Foster Friess as a big-time donor to Turning Point USA who she believes still is one.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:39",
+      "investigative_direction": "Check TPUSA donor disclosures and press coverage for Friess family giving to Turning Point.",
+      "transcript_snippet": "Foster Friess funeral who was a big- time donor to Turning Point USA still is I believe",
+      "mentions_person_refs": [
+        "N-941"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13942",
+      "ref": "C-13942",
+      "label": "Host Says Kanye's Album Party Venue Later Hosted Friess's Funeral",
+      "claim": "The host says the Wyoming venue where Kanye West held his album release party is where Foster Friess's funeral was held years later.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:01:39",
+      "investigative_direction": "Verify the venue of the album event and of the funeral service.",
+      "transcript_snippet": "where he held that album release party would be where years later Foster Friess would have his funeral.",
+      "mentions_person_refs": [
+        "N-27",
+        "N-941"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13943",
+      "ref": "C-13943",
+      "label": "Host Says It Had Been 47 Days Since Kirk's Death",
+      "claim": "The host says that it had been 47 days since Charlie Kirk was executed, and calls it a public execution.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:46",
+      "investigative_direction": "Count from 2025-09-10 to the episode date 2025-10-27; the figure is arithmetically consistent.",
+      "transcript_snippet": "It's now been 47 days since my friend Charlie Kirk was executed in front of the world because that's what it was, a public execution.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13944",
+      "ref": "C-13944",
+      "label": "Host Says She Expected the Inner Circle to Form a Group Chat for Answers",
+      "claim": "The host says she had assumed Kirk's inner circle (Tyler Bowyer, Andrew Kolvet, Stacy Sheridan) and she would be on a group chat together pursuing answers.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:46",
+      "investigative_direction": "Ask the named individuals whether any such group chat existed after 2025-09-10; compare with the nine-member group chat described in episode 15.",
+      "transcript_snippet": "We were all going to maybe be on a group chat. Me, Tyler Bowyer, Andrew Kolvet, Stacy Sheridan.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-11",
+        "N-14",
+        "N-190"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13945",
+      "ref": "C-13945",
+      "label": "Host Says Stacy Sheridan Held the Camera at the Air Force Two Casket Escort",
+      "claim": "The host says Stacy Sheridan is the person holding the camera while Charlie Kirk's casket is escorted off Air Force Two.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10561"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:46",
+      "investigative_direction": "Identify the casket-arrival footage and confirm who was holding the camera; check Sheridan's own account.",
+      "transcript_snippet": "she's the one who's holding the camera when Charlie's casket is being escorted off of Air Force 2.",
+      "mentions_person_refs": [
+        "N-190",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13946",
+      "ref": "C-13946",
+      "label": "Host Calls Stacy Sheridan TPUSA's Chief Money Person",
+      "claim": "The host says Stacy Sheridan is essentially the chief money person at Turning Point USA, brought in to reel in the big donors.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:46",
+      "investigative_direction": "Check Sheridan's TPUSA title and hire date in TPUSA staff pages and filings.",
+      "transcript_snippet": "She's like the chief money person essentially at Turning Point USA.",
+      "mentions_person_refs": [
+        "N-190"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13947",
+      "ref": "C-13947",
+      "label": "Host Says a Source Reports Kirk's Circle Believes the Lone-Shooter Narrative",
+      "claim": "The host says she is told the people around Kirk believe the official narrative of a lone shooter with no one else involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10112"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:27",
+      "investigative_direction": "Seek on-record statements from Bowyer, Kolvet and Sheridan on whether they accept the lone-shooter account.",
+      "transcript_snippet": "I am told that these people believe the official narrative. Lone shooter. No one else involved.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-11",
+        "N-14",
+        "N-190"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13948",
+      "ref": "C-13948",
+      "label": "Host Says a Source Reports TPUSA Headquarters Is at Business as Usual",
+      "claim": "The host says she is told that back at headquarters it is business as usual.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:27",
+      "investigative_direction": "Ask former or current TPUSA staff about operations in the weeks after 2025-09-10.",
+      "transcript_snippet": "back at headquarters, I am told it's business as usual",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13949",
+      "ref": "C-13949",
+      "label": "Pastor McCoy Says His Son Told Him That's Not Charlie's Plan",
+      "claim": "In the sermon clip played, Pastor Rob McCoy says that when he told his son he had a plan, the son answered \"Dad, that's not Charlie's plan.\"",
+      "anchored_artifacts": [
+        "A-3287.1"
+      ],
+      "related_nodes": [
+        "N-10218"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:30",
+      "investigative_direction": "Obtain the full recording of the sermon and confirm which son is quoted and what plan is meant.",
+      "transcript_snippet": "And I thought, I I got a plan for you, son. He said, \"Dad, that's not Charlie's plan.\"",
+      "mentions_person_refs": [
+        "N-17",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13950",
+      "ref": "C-13950",
+      "label": "Pastor McCoy Names His Sons' TPUSA Roles in the Sermon",
+      "claim": "In the sermon clip, Rob McCoy says his son Justin is the chief CFO and his son Mikey is the chief of staff, and calls Mikey 24 years old.",
+      "anchored_artifacts": [
+        "A-3287.1"
+      ],
+      "related_nodes": [
+        "N-10218"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:30",
+      "investigative_direction": "Compare against TPUSA leadership listings and filings for the McCoy sons' titles and start dates.",
+      "transcript_snippet": "Justin's the chief CFO, chief financial officer, and Mikey's the chief of staff.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-183",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13951",
+      "ref": "C-13951",
+      "label": "Pastor McCoy Says Mikey Called Him the Minute Charlie Was Shot",
+      "claim": "In the sermon clip, Rob McCoy says that the minute Charlie was shot his son called him, said Charlie had been shot in the neck, and asked him to call every pastor and pray.",
+      "anchored_artifacts": [
+        "A-3287.1"
+      ],
+      "related_nodes": [
+        "N-10338",
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:30",
+      "investigative_direction": "Obtain McCoy's phone records for the call time and compare them with the host's phone-timing analysis (C-1461).",
+      "transcript_snippet": "the minute Charlie was shot, he called me, says, \"Dad, Charlie's been shot in the neck. Please call every pastor and pray.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13952",
+      "ref": "C-13952",
+      "label": "Host Says Mikey McCoy Had No Blood Near Him Despite the Sermon",
+      "claim": "The host says Pastor McCoy's account has Mikey with blood all over him, and that Mikey did not have blood anywhere near him.",
+      "anchored_artifacts": [
+        "A-3287.1"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:26",
+      "investigative_direction": "Re-listen to the sermon to settle whether McCoy meant Mikey or Charlie; compare to event footage of Mikey's clothing.",
+      "transcript_snippet": "But the bigger thing is that he says Mikey had blood all over him. Except Mikey did not have blood anywhere near him.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13953",
+      "ref": "C-13953",
+      "label": "Host Says Mikey McCoy Was Behind the Tent When Charlie Was Shot",
+      "claim": "The host says Mikey McCoy was behind the tent when Charlie got shot.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:26",
+      "investigative_direction": "Map Mikey McCoy's position from stage and crowd footage and the UVU site plan.",
+      "transcript_snippet": "Because Mikey was behind the tent when Charlie got shot",
+      "mentions_person_refs": [
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13954",
+      "ref": "C-13954",
+      "label": "Host Says Rob McCoy Said He Was Watching and Asks What He Watched",
+      "claim": "The host says McCoy's account stops with \"I was watching,\" and asks what exactly was being watched.",
+      "anchored_artifacts": [
+        "A-3287.1"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:26",
+      "investigative_direction": "Check the sermon audio wording (the clip reads \"I'm watching\" in the transcript) and ask McCoy what he was watching.",
+      "transcript_snippet": "But he stops himself. He says, \"I was watching.\" Watching what exactly. What were you watching?",
+      "mentions_person_refs": [
+        "N-17",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13955",
+      "ref": "C-13955",
+      "label": "Host Says the 834 Milliseconds Left No Time to Dial",
+      "claim": "The host says that because Mikey McCoy's phone reaches his ear 834 milliseconds after the shot there was no dialing, and a call cannot be dialed and raised to the ear in that time.",
+      "anchored_artifacts": [
+        "A-1261.1"
+      ],
+      "related_nodes": [
+        "N-10226",
+        "N-10338"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:34",
+      "investigative_direction": "Obtain the raw frame-level footage with audio sync and test whether a speed-dial is possible in that interval.",
+      "transcript_snippet": "there's no dialing. Mikey didn't have time to dial.",
+      "supports_claim_refs": [
+        "C-1461"
+      ],
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13956",
+      "ref": "C-13956",
+      "label": "Host Says Mikey Was on a Call Within Two and a Half Seconds on the Other Side of the Tent",
+      "claim": "The host says that Mikey McCoy is next seen in just under two and a half seconds, on the other side of the tent, on a phone call.",
+      "anchored_artifacts": [
+        "A-1261.1"
+      ],
+      "related_nodes": [
+        "N-10226",
+        "N-10338"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:34",
+      "investigative_direction": "Locate the camera angle showing both positions and confirm the elapsed time between the two sightings.",
+      "transcript_snippet": "The next time that you're going to see Mikey McCoy, as we just showed you, is in just under two and a half seconds on the other side of the tent. He's on a phone call.",
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13957",
+      "ref": "C-13957",
+      "label": "Host Says She Tracked Mikey from Every Angle and He Does Not Dial",
+      "claim": "The host says she has a large folder of every angle and tracked Mikey McCoy across all of them, and that he is not seen dialing.",
+      "anchored_artifacts": [
+        "A-1261.1"
+      ],
+      "related_nodes": [
+        "N-10226",
+        "N-10635"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:34",
+      "investigative_direction": "Request the host's angle folder and verify the claim against independent footage compilations.",
+      "transcript_snippet": "maybe we missed it because that seems that seems automatic, right? 0834. That seems pretty quick. And no, no, he doesn't do that.",
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13958",
+      "ref": "C-13958",
+      "label": "Host Says the Only Logical Conclusion Is That Mikey Was Already on a Call at 12:23",
+      "claim": "The host says the only logical conclusion she and others reach is that Mikey McCoy was already on a phone call at 12:23 p.m.",
+      "anchored_artifacts": [
+        "A-1261.1"
+      ],
+      "related_nodes": [
+        "N-10193"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:22",
+      "investigative_direction": "Authenticate the footage clock against the 12:23 p.m. figure and request Mikey McCoy's call log for that time.",
+      "transcript_snippet": "Mikey was already on a phone call at 12:23 p. m. By 12:23 p. m. He was already on a phone call.",
+      "supports_claim_refs": [
+        "C-1462"
+      ],
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13959",
+      "ref": "C-13959",
+      "label": "Host Says TPUSA and McCoy Have Issued No Statement or Call Log",
+      "claim": "The host says that, unlike what she would have done, neither Mikey McCoy nor Turning Point has issued a statement to dispel the rumors about the phone call.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10193"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:46",
+      "investigative_direction": "Search McCoy's and TPUSA's channels for any statement on the call; ask them directly.",
+      "transcript_snippet": "I would have issued a statement um to dispel any rumors, but they have not.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13960",
+      "ref": "C-13960",
+      "label": "Host Says She Helped Build TPUSA",
+      "claim": "The host says she knows what is normal and abnormal at a college event better than most because she helped build the organization.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10003"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:46",
+      "investigative_direction": "Corroborate the host's role in TPUSA with early event listings and staff accounts.",
+      "transcript_snippet": "I actually know it better than most because I helped build that organization.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13961",
+      "ref": "C-13961",
+      "label": "Host Says Her Tribute Clip of Kirk Was Unknowingly from UVU",
+      "claim": "The host says the clip she used in her tribute video to Charlie Kirk was shot at a college event she could not identify, and it turned out to be UVU.",
+      "anchored_artifacts": [
+        "A-1264.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:46",
+      "investigative_direction": "Match the tribute clip with TPUSA's UVU event archive to confirm the venue and date.",
+      "transcript_snippet": "I said, \"I don't even know which college this is.\" And I showed the clip because I didn't know what college it was. And unbelievably, it was UVU.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13962",
+      "ref": "C-13962",
+      "label": "Host Says She Never Had the Camera Man Standing Beside Her at Any College Event",
+      "claim": "The host says that in six years of college events she never had the AV camera man standing next to her, and that his lingering beside Charlie struck her as weird.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10192",
+        "N-10076"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:16",
+      "investigative_direction": "Ask other TPUSA speakers and stage crews whether an AV operator normally stood beside the speaker at tour stops.",
+      "transcript_snippet": "I've never at any college event ever in six years had that man standing next to me at an event.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13963",
+      "ref": "C-13963",
+      "label": "Host Says the Camera Man Acknowledged New Procedures That Day",
+      "claim": "The host says the camera man acknowledged that a lot of new stuff was happening on that day, and that she asked him about the subtle changes she had noticed.",
+      "anchored_artifacts": [
+        "A-3288.1"
+      ],
+      "related_nodes": [
+        "N-10192",
+        "N-10076"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "Play the host's recording of the call and list each change he describes.",
+      "transcript_snippet": "He acknowledged that a lot of new stuff was happening on that day",
+      "supports_claim_refs": [
+        "C-9302"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13964",
+      "ref": "C-13964",
+      "label": "Host Says She Recorded Her Phone Call with the Camera Man",
+      "claim": "The host says she recorded her phone call with the camera man.",
+      "anchored_artifacts": [
+        "A-3288.1"
+      ],
+      "related_nodes": [
+        "N-10192"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "Obtain the recording, its date and the host's call notes; ask the camera man to confirm the call.",
+      "transcript_snippet": "because obviously I recorded the phone call.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13965",
+      "ref": "C-13965",
+      "label": "Host Says the Camera Man Said He Spoke Only to Erika and the Feds About the Footage",
+      "claim": "The host says the camera man told her he had spoken only to Erika and the feds about the footage.",
+      "anchored_artifacts": [
+        "A-3288.1"
+      ],
+      "related_nodes": [
+        "N-10192",
+        "N-10076"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "Compare with Erika Kirk's and the FBI's statements about who took custody of the camera footage.",
+      "transcript_snippet": "he told me that a he had spoken only to uh Erika and the feds that he had regarding the footage.",
+      "mentions_person_refs": [
+        "N-184",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13966",
+      "ref": "C-13966",
+      "label": "Host Says the Camera Man Said He Secured the Footage to Spare Erika",
+      "claim": "The host says the camera man told her he secured the footage because he wanted to prevent Erika from having to relive the moment.",
+      "anchored_artifacts": [
+        "A-3288.1"
+      ],
+      "related_nodes": [
+        "N-10192",
+        "N-10076"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "Ask the camera man and Erika Kirk's office whether the footage was withheld for that reason.",
+      "transcript_snippet": "he had secured that foot footage because he wanted to prevent Erika as I told you from having to relive that moment",
+      "mentions_person_refs": [
+        "N-184",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13967",
+      "ref": "C-13967",
+      "label": "Host Says FaceTime Footage Showed No Blood on Charlie",
+      "claim": "The host says that when she saw the footage on FaceTime she realized there was no blood on Charlie, which made the camera man's reason for secrecy seem like a lie.",
+      "anchored_artifacts": [
+        "A-3289.1"
+      ],
+      "related_nodes": [
+        "N-10799",
+        "N-10192"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:42",
+      "investigative_direction": "Obtain the camera man's rear-camera footage and review what it shows of Charlie's neck and clothing.",
+      "transcript_snippet": "once I saw the footage on FaceTime when I realized that there was no blood on Charlie.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13968",
+      "ref": "C-13968",
+      "label": "Host Says the Camera Man Said He Must First Consult TPUSA Lawyers",
+      "claim": "The host says the camera man told her he needed to speak with Turning Point lawyers first about releasing the footage.",
+      "anchored_artifacts": [
+        "A-3288.1"
+      ],
+      "related_nodes": [
+        "N-10192",
+        "N-10076"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:42",
+      "investigative_direction": "Ask TPUSA's counsel and the camera man whether lawyers advised on release.",
+      "transcript_snippet": "He then told me that he needed to speak with Turning Point lawyers first to see about releasing the footage.",
+      "mentions_person_refs": [
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13969",
+      "ref": "C-13969",
+      "label": "Host Says the Camera Man Then Conceded He Owns the Footage",
+      "claim": "The host says that, after she pointed out his company owns the footage, the camera man said he does own it and had wanted only to coordinate and check.",
+      "anchored_artifacts": [
+        "A-3288.1"
+      ],
+      "related_nodes": [
+        "N-10192",
+        "N-10076"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:42",
+      "investigative_direction": "Check the camera man's contract with TPUSA on footage ownership and who he coordinated with.",
+      "transcript_snippet": "He then said, \"Okay, yeah, I do own the footage. I just wanted, you know, just coordinate, check, whatever.\"",
+      "mentions_person_refs": [
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13970",
+      "ref": "C-13970",
+      "label": "Host Says the Camera Man Claimed He Did Not Know How to Send the Footage",
+      "claim": "The host says the camera man told her he did not know how to send the footage because the file was too large, despite running an AV company.",
+      "anchored_artifacts": [
+        "A-3288.1"
+      ],
+      "related_nodes": [
+        "N-10192",
+        "N-10076"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:28",
+      "investigative_direction": "Play the recording and ask the camera man to explain the file-size reason.",
+      "transcript_snippet": "He said, \"I don't know how to send the footage.\" Like the file was too large.",
+      "mentions_person_refs": [
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13971",
+      "ref": "C-13971",
+      "label": "Host Says the Camera Man Feared Google Might Hack Him",
+      "claim": "The host says the camera man told her he did not want to send the footage behind Charlie's head over the internet because he worried Google might hack him, and that he declined her WeTransfer suggestion.",
+      "anchored_artifacts": [
+        "A-3288.1"
+      ],
+      "related_nodes": [
+        "N-10192",
+        "N-10076"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:28",
+      "investigative_direction": "Play the recording and confirm the exact wording.",
+      "transcript_snippet": "I don't want to just send the footage over the internet uh that's behind Charlie's head because I'm worried that Google might hack me.",
+      "mentions_person_refs": [
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13972",
+      "ref": "C-13972",
+      "label": "Host Says the Camera Man Said He Was on the Phone with Ops in Arizona",
+      "claim": "The host says she asked the camera man who he was on the phone with after Charlie was shot and he said he was on the phone with the ops that were back in Arizona watching.",
+      "anchored_artifacts": [
+        "A-3288.1"
+      ],
+      "related_nodes": [
+        "N-10192",
+        "N-10226"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:32",
+      "investigative_direction": "Identify the Arizona ops and obtain call logs for the camera man's phone at the time of the shooting.",
+      "transcript_snippet": "he was on the phone with the ops that were back in Arizona watching.",
+      "supports_claim_refs": [
+        "C-9302"
+      ],
+      "mentions_person_refs": [
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13973",
+      "ref": "C-13973",
+      "label": "Host Says the Camera Man Called the Arizona Ops Watch a First",
+      "claim": "The host says the camera man told her it was the first time TPUSA did this, with two ops watching from Arizona.",
+      "anchored_artifacts": [
+        "A-3288.1"
+      ],
+      "related_nodes": [
+        "N-10192",
+        "N-11093"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:27",
+      "investigative_direction": "Check prior tour-stop production records for any Arizona remote-watch team and identify the two operators.",
+      "transcript_snippet": "In fact, this was the first time we were doing it. He said there were two people, two ops that were watching it back in Arizona.",
+      "supports_claim_refs": [
+        "C-9302"
+      ],
+      "mentions_person_refs": [
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13974",
+      "ref": "C-13974",
+      "label": "Host Says the Camera Man Explained the Arizona Watch as Racing to Post Clips",
+      "claim": "The host says the camera man's explanation was that Charlie, being ambitious, wanted people to live-cut clips so they could be the first to get them on the internet.",
+      "anchored_artifacts": [
+        "A-3288.1"
+      ],
+      "related_nodes": [
+        "N-10192"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:27",
+      "investigative_direction": "Ask TPUSA social staff whether a live-clip desk operated from Arizona on 2025-09-10.",
+      "transcript_snippet": "wanted people to live cut the clips so that they could be the first people to get it on the internet.",
+      "mentions_person_refs": [
+        "N-184",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13975",
+      "ref": "C-13975",
+      "label": "Host Says She Knew Bowyer Lied That Police Ordered the Cameras Down",
+      "claim": "The host says she knew Tyler Bowyer was lying when he tweeted that the camera man was commanded by police to take down the cameras, because she holds the camera man's own footage.",
+      "anchored_artifacts": [
+        "A-3290.1"
+      ],
+      "related_nodes": [
+        "N-10346",
+        "N-10167"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:27",
+      "investigative_direction": "Retrieve Bowyer's tweet and compare it with the camera man's footage and any police statement on camera removal.",
+      "transcript_snippet": "It's also the reason that I knew that Tyler Bowyer was lying when he tweeted that in this guy was commanded by the police to take down the cameras.",
+      "contradicts_claim_refs": [
+        "C-1366"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-11",
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13976",
+      "ref": "C-13976",
+      "label": "Host Says the Camera Man Stood in Front of Mikey McCoy When Charlie Was Shot",
+      "claim": "The host says the camera man was next to and in front of Mikey McCoy when Charlie got shot.",
+      "anchored_artifacts": [
+        "A-1262.2"
+      ],
+      "related_nodes": [
+        "N-10192",
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:05",
+      "investigative_direction": "Cross-check both men's positions across angles of the tent area.",
+      "transcript_snippet": "So, he's next to and he is in front of Mikey McCoy when Charlie gets shot.",
+      "mentions_person_refs": [
+        "N-184",
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13977",
+      "ref": "C-13977",
+      "label": "Host Says the Camera Man Saw Charlie Bleeding and Ran Only a Few Yards",
+      "claim": "The host says the camera man did see Charlie get shot, saw him bleeding in a split second, and ran only a couple of yards away.",
+      "anchored_artifacts": [
+        "A-1262.2"
+      ],
+      "related_nodes": [
+        "N-10192"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:05",
+      "investigative_direction": "Review the rear-camera and selfie footage for his path and distance.",
+      "transcript_snippet": "he saw in like a split second sees Charlie bleeding and runs and doesn't run very far. He just runs a couple of yards away.",
+      "mentions_person_refs": [
+        "N-184",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13978",
+      "ref": "C-13978",
+      "label": "Host Says the Camera Man Ran a Few Yards to a Grassy Knoll and Took Out His Phone",
+      "claim": "The host says the camera man chose to run just a few yards up to a grassy knoll to take out his phone and record himself.",
+      "anchored_artifacts": [
+        "A-1262.1"
+      ],
+      "related_nodes": [
+        "N-10192"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:56",
+      "investigative_direction": "Locate the spot on the UVU site plan and compare with the selfie background.",
+      "transcript_snippet": "chose to run just a few yards away up to a grassy knoll to take out his phone.",
+      "mentions_person_refs": [
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13979",
+      "ref": "C-13979",
+      "label": "Host Says the Selfie Was the First Announcement That Charlie Was Dead",
+      "claim": "The host says the camera man's selfie video was the first time it was announced that Charlie Kirk was dead, less than a minute after the shot.",
+      "anchored_artifacts": [
+        "A-1262.1"
+      ],
+      "related_nodes": [
+        "N-10192"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:25:51",
+      "investigative_direction": "Compare the selfie timestamp with the first public or medical declarations of death.",
+      "transcript_snippet": "That's the first time it was announced actually that Charlie Kirk was dead.",
+      "mentions_person_refs": [
+        "N-184",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13980",
+      "ref": "C-13980",
+      "label": "Host Says the Camera Man Went to Get the Cameras a Minute After the Selfie",
+      "claim": "The host says that a minute after the selfie ends the camera man goes and gets the cameras.",
+      "anchored_artifacts": [
+        "A-1262.1"
+      ],
+      "related_nodes": [
+        "N-10076",
+        "N-10346"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:48",
+      "investigative_direction": "Time the selfie file's end against footage of the camera takedown.",
+      "transcript_snippet": "A minute after this ends is when he goes and gets the cameras.",
+      "mentions_person_refs": [
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13981",
+      "ref": "C-13981",
+      "label": "Host Says Pastor McCoy's Speech Claimed Private Words from Charlie",
+      "claim": "The host says that, in a speech she attributes to Pastor McCoy, Charlie had told him things such as wanting her to lead the next movement and calling himself America's pastor, and she answers that she is sure he did.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10218"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:26",
+      "investigative_direction": "Locate the McCoy speech that the host means; the sentence is ambiguous in the transcript.",
+      "transcript_snippet": "I think it was actually Pastor McCoy speech. Charlie wanted me to lead the next movement.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-17",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13982",
+      "ref": "C-13982",
+      "label": "Host Says Josh Hammer Doubled Down Instead of Apologizing for Lying About Kirk and Israel",
+      "claim": "The host says Josh Hammer lied about Charlie's position on Israel, and when caught did not apologize but doubled down.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10187",
+        "N-10148",
+        "N-10056"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:33:40",
+      "investigative_direction": "Compare Hammer's public statements on Kirk's Israel position with the text messages the host aired.",
+      "transcript_snippet": "You would think he would apologize for lying about Charlie's position on Israel, but he didn't. He just sort of doubled down.",
+      "supports_claim_refs": [
+        "C-12096"
+      ],
+      "mentions_person_refs": [
+        "N-55",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13983",
+      "ref": "C-13983",
+      "label": "Host Says She Had a Dream in Which Charlie Said He Was Betrayed",
+      "claim": "The host says she described on a previous show a very vivid dream in which Charlie told her he had been betrayed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:36:29",
+      "investigative_direction": "Refer to the earlier episode where the dream was first described; no external record exists.",
+      "transcript_snippet": "a very vivid dream uh whereupon Charlie told me that he had been betrayed.",
+      "supports_claim_refs": [
+        "C-12064"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13984",
+      "ref": "C-13984",
+      "label": "Host Says Charlie Texted Her His Vivid Dreams",
+      "claim": "The host says Charlie also dreamed very vividly and would text her about those dreams after waking.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:37:09",
+      "investigative_direction": "Obtain the message thread with Charlie's dream texts, with metadata.",
+      "transcript_snippet": "He would wake up, we would text, and he would tell me about those vivid dreams.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13985",
+      "ref": "C-13985",
+      "label": "Host Says in One April Charlie Kept Insisting He Would Die Young",
+      "claim": "The host says there was a period in April when Charlie kept insisting to her over and over that he would die young, and said Turning Point USA would be the death of him.",
+      "anchored_artifacts": [
+        "A-1266.1"
+      ],
+      "related_nodes": [
+        "N-10389",
+        "N-10806"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:37:09",
+      "investigative_direction": "Obtain the full April message thread to verify dates, wording and frequency.",
+      "transcript_snippet": "there was this period in April where Charlie kept insisting to me over and over again that he was going to die young.",
+      "supports_claim_refs": [
+        "C-1470"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13986",
+      "ref": "C-13986",
+      "label": "Host Dates the Death-Prophecy Texts Weeks Before Kanye's Tweet",
+      "claim": "The host says the messages were written on April 6, 2018, a couple of weeks before Kanye West tweeted \"I love the way Candace Owens thinks.\"",
+      "anchored_artifacts": [
+        "A-1266.1"
+      ],
+      "related_nodes": [
+        "N-10004",
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:21",
+      "investigative_direction": "Match the thread date to Kanye West's tweet date from the public X record.",
+      "transcript_snippet": "a particular set of messages that were written on April 6th, 2018, just a couple of weeks before Kanye tweeted, \"I love the way Candace Owens thinks.\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13987",
+      "ref": "C-13987",
+      "label": "Host Says Mikey McCoy Has Access to All of Kirk's Messages and Could Verify Hers",
+      "claim": "The host says Mikey McCoy has access to all of Charlie Kirk's messages and could confirm that the ones she shows are real.",
+      "anchored_artifacts": [
+        "A-1266.1"
+      ],
+      "related_nodes": [
+        "N-10806",
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:21",
+      "investigative_direction": "Ask McCoy and TPUSA whether they hold Kirk's phone data and will confirm the thread.",
+      "transcript_snippet": "Mikey McCoy has access to all of Charlie Kirk's messages. They can tell you that these ones are real.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13988",
+      "ref": "C-13988",
+      "label": "Charlie Texted the Host She Would Be the Iron Lady of America",
+      "claim": "The host reads a text in which Charlie wrote that she was going to be the iron lady of America.",
+      "anchored_artifacts": [
+        "A-1266.1"
+      ],
+      "related_nodes": [
+        "N-10003",
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:21",
+      "investigative_direction": "Authenticate the message as part of the April 2018 thread.",
+      "transcript_snippet": "Charlie wrote to me you're going to be the iron lady of America.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13989",
+      "ref": "C-13989",
+      "label": "Charlie Texted the Host a True Prophecy He Hoped Was Wrong",
+      "claim": "The host reads a text in which Charlie wrote that he had a true prophecy he knew in his gut, that it was really sad, and that he hoped it was wrong.",
+      "anchored_artifacts": [
+        "A-1266.1"
+      ],
+      "related_nodes": [
+        "N-10389",
+        "N-10806"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:19",
+      "investigative_direction": "Authenticate the message and its place in the thread.",
+      "transcript_snippet": "If I tell you the true prophecy that I know in my gut, it's really sad, but I hope it's wrong.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13990",
+      "ref": "C-13990",
+      "label": "Charlie Texted He Was Not Afraid but Telling Her What He Knew to Be True",
+      "claim": "The host reads Charlie's reply that he was not really afraid of it but was telling her what he knew to be true.",
+      "anchored_artifacts": [
+        "A-1266.1"
+      ],
+      "related_nodes": [
+        "N-10389",
+        "N-10806"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:19",
+      "investigative_direction": "Authenticate the reply and its timing against the prior messages.",
+      "transcript_snippet": "He said, \"I'm not really afraid of it, but I'm just telling you what I know to be true.\"",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13991",
+      "ref": "C-13991",
+      "label": "Host Says Podcasters and Creators Taking Money Tell People Not to Look at the Case",
+      "claim": "The host says podcasters, video makers and people taking money are telling audiences not to look in the direction of the case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10112"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:42",
+      "investigative_direction": "Ask the host to name the podcasters and funding relationships she has in mind.",
+      "transcript_snippet": "podcasters, people that make videos, people that are taking money, tell people don't look over there.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13992",
+      "ref": "C-13992",
+      "label": "Host Says People Betrayed Charlie and Are Now Scared",
+      "claim": "The host says there are people who betrayed Charlie, that they will probably not come clean, and that they are scared.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:40:42",
+      "investigative_direction": "The host does not name the betrayers here; request her specific allegations.",
+      "transcript_snippet": "And to people that betrayed Charlie, you probably won't come clean likely because you're scared now.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13993",
+      "ref": "C-13993",
+      "label": "Host Says She Told Charlie on a Wyoming Hike She Opposes the Death Penalty",
+      "claim": "The host says that on a hike in Wyoming she and Charlie discussed the death penalty and she told him she has always been against it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:41:32",
+      "investigative_direction": "No external record; the exchange is the host's recollection.",
+      "transcript_snippet": "on a hike that Charlie and I were on in Wyoming one time. We were discussing the death penalty.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13994",
+      "ref": "C-13994",
+      "label": "Host Says Many People Are Involved Beyond the Lone Shooter",
+      "claim": "The host says there are many people involved at different stages, beyond the lone shooter, and that some people who know things may be watching her show from an office.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10112"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:42:19",
+      "investigative_direction": "Ask the host which stages and which people she means, and what basis she has.",
+      "transcript_snippet": "the many people that are involved in this, not the lone shooter at different stages, people that are involved, people that know things",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13995",
+      "ref": "C-13995",
+      "label": "Host Says Real Justice Will Not Be the Tyler Robinson Kind",
+      "claim": "The host says there will be justice for Charlie, but not the fake kind and not the Tyler Robinson kind.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10112"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:44:48",
+      "investigative_direction": "Track the Robinson prosecution record against the host's claim that it is not true justice.",
+      "transcript_snippet": "Not the fake kind, not the Tyler Robinson kind, actual justice.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13996",
+      "ref": "C-13996",
+      "label": "Host Urges Self-Publishing and Says Publishers Can Change History",
+      "claim": "The host says her book was the first time she took a book out of a publishing house, and that publishers have a lot of power in changing history.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:50:32",
+      "investigative_direction": "Opinion-adjacent; no verification path beyond the book's own publishing record.",
+      "transcript_snippet": "Decentralization, publish your own books. Uh because the publishers also have a lot of power in changing history.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13997",
+      "ref": "C-13997",
+      "label": "Host Says Her Book Traces the Feminist Movement to the Pale Settlement of Russia",
+      "claim": "The host says a chapter of her book called Beyond the Pale says the feminist movement was brought over from the Pale Settlement of Russia.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:51:43",
+      "investigative_direction": "Check the chapter's sources in the book; this is a sweeping historical claim recorded as said.",
+      "transcript_snippet": "There's a chapter called Beyond the Pale, the Pale Settlement of Russia, who brought over that feminist movement.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13998",
+      "ref": "C-13998",
+      "label": "Host Says Handlers Were Sent After Kanye's Tweet to Break Up Her and Charlie",
+      "claim": "The host says she thinks it started with Kanye tweeting her, and that handlers were sent out to break apart her and Charlie and then manage them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10004",
+        "N-11378"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:52:17",
+      "investigative_direction": "The host promises later detail; look for her specific evidence of handlers in later episodes.",
+      "transcript_snippet": "I think handlers were sent out to manage to first and foremost break apart me and Charlie and then to manage us",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13999",
+      "ref": "C-13999",
+      "label": "Host Says Critics Claimed She Had Not Spoken to Charlie Since 2017",
+      "claim": "The host recounts that critics claimed she had not spoken to Charlie since 2017, did not know him and had not seen him, and says this was a lie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10003"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:54:36",
+      "investigative_direction": "Compare the host's message records with Charlie against the 2017 claim; see the host's own statements in earlier episodes.",
+      "transcript_snippet": "She didn't even speak to him since 2017. She didn't know Charlie. She hasn't seen him.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14000",
+      "ref": "C-14000",
+      "label": "Host Says Nobody at TPUSA Defended Her Against Those Lies",
+      "claim": "The host says nobody from Turning Point defended her or said that what she was saying was true.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10003"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:54:36",
+      "investigative_direction": "Review TPUSA statements about the host after 2025-09-10.",
+      "transcript_snippet": "nobody from Turning Point defended me and said like that's a lie and what she's saying is true.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14001",
+      "ref": "C-14001",
+      "label": "Host Says Large Money Was Spent on Lies About Her",
+      "claim": "The host says a large amount of money was spent on telling lies about her, and she barely had to defend herself.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:54:36",
+      "investigative_direction": "Ask the host what spending she means; compare with paid-campaign reporting in later episodes.",
+      "transcript_snippet": "The amount of money that was spent on telling those lies, and I barely had to defend myself",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14002",
+      "ref": "C-14002",
+      "label": "Host Says Mikey McCoy Stayed Standing and Walking After the Shot",
+      "claim": "The host says Mikey McCoy stayed standing and walking when the first normal reaction would be to drop to the ground, and says nobody knows why he was so confident.",
+      "anchored_artifacts": [
+        "A-1261.1"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:03",
+      "investigative_direction": "Review stage-side footage of the crowd, Mikey McCoy and Frank Turek in the seconds after the shot.",
+      "transcript_snippet": "How was Mikey McCoy confident enough to stay standing and walking? Nobody knows.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-194",
+        "N-7"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 19,
+          "video_timestamp": "00:50:32",
+          "speaker_node_ref": "N-3",
+          "quote": "You guys can go to make him a sandwichand. com if you would like to support me.",
+          "context": "First CKA plugs of self-published Make Him a Sandwich book/site brand.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "book_brand"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-46",
+      "ref": "M-46",
+      "canonical_term": "Handler",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 19,
+          "video_timestamp": "00:52:17",
+          "speaker_node_ref": "N-3",
+          "quote": "I think handlers were sent out to manage to first and foremost break apart me and Charlie",
+          "context": "Host theorizes handlers were deployed after Kanye contact.",
+          "confidence": "high",
+          "tags": [
+            "intel",
+            "operators",
+            "theory"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-323",
+      "ref": "M-323",
+      "canonical_term": "Fishing Takes Time",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 19,
+          "video_timestamp": "00:03:46",
+          "speaker_node_ref": "N-3",
+          "quote": "You got to set the bait.",
+          "context": "Host's running fishing metaphor for waiting while her investigation draws responses.",
+          "confidence": "high",
+          "tags": [
+            "fishing",
+            "bait"
+          ]
+        },
+        {
+          "episode": 19,
+          "video_timestamp": "00:33:40",
+          "speaker_node_ref": "N-3",
+          "quote": "And then I just waited because we're fishing now.",
+          "context": "Host says she waited for Josh Hammer to lie, as with fishing.",
+          "confidence": "high",
+          "tags": [
+            "fishing",
+            "bait"
+          ]
+        },
+        {
+          "episode": 19,
+          "video_timestamp": "00:37:09",
+          "speaker_node_ref": "N-3",
+          "quote": "But um we're fishing, right? So, let's be patient.",
+          "context": "Host asks viewers to be patient about the dream and further messages.",
+          "confidence": "high",
+          "tags": [
+            "fishing",
+            "patience"
+          ]
+        },
+        {
+          "episode": 19,
+          "video_timestamp": "00:50:32",
+          "speaker_node_ref": "N-3",
+          "quote": "Oh, I spent time setting a lot of bait. A lot of bait has been set. And we'll see see what we get.",
+          "context": "Host answers Ian Carroll's comment that fishing takes time.",
+          "confidence": "high",
+          "tags": [
+            "fishing",
+            "bait",
+            "viewer comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-324",
+      "ref": "M-324",
+      "canonical_term": "Charlie's David",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 19,
+          "video_timestamp": "00:38:21",
+          "speaker_node_ref": "N-3",
+          "quote": "If that is the case, be my David.",
+          "context": "Host reads Charlie's 2018 text asking her to be his David.",
+          "confidence": "high",
+          "tags": [
+            "david",
+            "text message"
+          ]
+        },
+        {
+          "episode": 19,
+          "video_timestamp": "00:43:14",
+          "speaker_node_ref": "N-3",
+          "quote": "I think I'm going to go ahead and be Charlie's David.",
+          "context": "Host says she will not stop talking about Charlie's death.",
+          "confidence": "high",
+          "tags": [
+            "david",
+            "resolve"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 19,
+          "video_timestamp": "00:35:33",
+          "speaker_node_ref": "N-3",
+          "quote": "Like we don't know. No know but we know.",
+          "context": "Host says John Miller's tweet repeats her usual line about gut certainty.",
+          "confidence": "high",
+          "tags": [
+            "gut",
+            "catchphrase"
+          ]
+        },
+        {
+          "episode": 19,
+          "video_timestamp": "00:57:03",
+          "speaker_node_ref": "N-3",
+          "quote": "don't know know but we know has become my favorite phrase.",
+          "context": "Host reads viewer Bayern's comment.",
+          "confidence": "high",
+          "tags": [
+            "gut",
+            "viewer comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-122",
+      "ref": "M-122",
+      "canonical_term": "America's Pastor",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 19,
+          "video_timestamp": "00:32:26",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm sure he called you America's pastor.",
+          "context": "Host mocks Pastor McCoy's claimed private conversations with Charlie.",
+          "confidence": "high",
+          "tags": [
+            "mccoy",
+            "sarcasm"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-31",
+      "ref": "M-31",
+      "canonical_term": "Buckle Up",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 19,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "buckle up because I have an even more exclusive, never-before seen video",
+          "context": "Host opens by promising unseen footage.",
+          "confidence": "high",
+          "tags": [
+            "opener"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 19,
+          "video_timestamp": "00:51:43",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king.",
+          "context": "Host reads viewer Kiki Mack's comment.",
+          "confidence": "high",
+          "tags": [
+            "christ is king",
+            "viewer comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-45",
+      "ref": "M-45",
+      "canonical_term": "Spiritual Warfare",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 19,
+          "video_timestamp": "00:53:26",
+          "speaker_node_ref": "N-3",
+          "quote": "this isn't just a personal struggle, but a spiritual war.",
+          "context": "Host reads viewer Ivana Milano's comment and agrees.",
+          "confidence": "high",
+          "tags": [
+            "spiritual war",
+            "viewer comment"
+          ]
+        }
+      ]
+    }
+  ]
 }

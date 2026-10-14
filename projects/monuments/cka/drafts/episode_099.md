@@ -11,8 +11,7 @@
 - **Transcript SHA-256**: efd9d1189c9e94d15188046d5b61410818dcf70df332d7e474fb3cf762180098
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-928, N-11351, N-11352, N-11353, N-11354, N-11355
-  - Hole-minted Nodes (reintro-ep099): N-10722
+  - Tip-minted Nodes (supplement_2026-10f): N-928, N-11352, N-11353, N-11354, N-11355
   - Tip-minted Nodes (reintro-ep099): N-11300, N-11304
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12896–C-12969
@@ -35,7 +34,7 @@
   - Artifact Families Introduced: A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, A-2055, A-2056, A-2057, A-2058, A-2059, A-2060, A-2061
   - Claim Range: C-2856–C-2883
   - New Nodes Introduced: N-10657, N-10658, N-10659
-  - Reused Nodes Appearing: N-381, N-10662, N-131, N-10661, N-380, N-379, N-436, N-5, N-15, N-22, N-31, N-40, N-46, N-162, N-230, N-257, N-265, N-270, N-274, N-492, N-715, N-901, N-10027, N-10110, N-10148, N-10169, N-10187, N-10198, N-10300, N-10305, N-10340, N-10342, N-10406, N-10415, N-10416, N-10456, N-10495, N-10651, N-10653, N-10900, N-10910, N-10914, N-11121, N-11221, N-11258, N-10660, N-10663
+  - Reused Nodes Appearing: N-381, N-10662, N-131, N-10661, N-380, N-379, N-436, N-5, N-15, N-22, N-31, N-40, N-46, N-162, N-230, N-257, N-265, N-270, N-274, N-492, N-715, N-901, N-10027, N-10110, N-10148, N-10169, N-10187, N-10198, N-10300, N-10305, N-10340, N-10342, N-10406, N-10415, N-10416, N-10456, N-10495, N-10651, N-10653, N-10900, N-10910, N-10914, N-11121, N-11221, N-11258, N-10660, N-10663, N-10722, N-11351
   - Hole-minted Nodes (wave2): N-382
   - Tip-minted Nodes (wave2): N-10901
   - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump

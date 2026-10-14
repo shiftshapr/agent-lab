@@ -1425,7 +1425,7 @@ Claim Timestamp: 00:36:47
 
 Claim: The host says the independent review dedicates pages to debunking Brian Harpole's narrative on the Shawn Ryan podcast, where she says he presented a message as though it were his.
 
-Transcript Snippet: they dedicate pages to debunking Brian Harpull's narrative on uh Shawn Ryan's podcast where he pretends that he the fake message meaning it was not his message.
+Transcript Snippet: they dedicate pages to debunking Brian Harpole's narrative on uh Shawn Ryan's podcast where he pretends that he the fake message meaning it was not his message.
 
 Anchored Artifacts: 
 Mentions: N-270, N-228, N-3
@@ -2104,7 +2104,7 @@ Confidence: high
 
 Video Timestamp: 00:47:45
 Speaker: N-3
-Quote: July 9th is when BB Netany and Yahoo was in Washington DC.
+Quote: July 9th is when BB Netanyahu was in Washington DC.
 Context: Host puns on Netanyahu's name when dating the archive coincidence.
 Tags: Netanyahu, pun
 Confidence: high

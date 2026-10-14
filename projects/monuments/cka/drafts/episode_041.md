@@ -888,7 +888,7 @@ Claim Timestamp: 00:13:35
 
 Claim: The host says Wedi Machmood had been in Provo before, arriving on May 27, 2025 aboard an Egyptian military plane for which there is no transponder data for that trip.
 
-Transcript Snippet: Wed Makmood came in and uh we can also confirm that if you look up the plane that he was on, there is no transponder data which reflects that trip.
+Transcript Snippet: Wed Mahmoud came in and uh we can also confirm that if you look up the plane that he was on, there is no transponder data which reflects that trip.
 
 Anchored Artifacts: 
 Mentions: N-3, N-309
@@ -1371,9 +1371,9 @@ Confidence: high
 - **Artifact verbally referenced but not shown:** Host's claim that "Wedi Machmood" was one of the four passengers on yellow plane SU-BND on September 10, 2025 (manifest/passenger list not displayed).
 - **Artifact verbally referenced but not shown:** Host's claim that SU-BTU flew into Provo on May 27, 2025 with Wedi Machmood aboard and departed June 2, 2025 without transponder data (no flight-tracking artifact displayed; "verbally referenced").
 - **Artifact verbally referenced but not shown:** Photograph of El-Sisi with PM Zaafarani on September 10, 2025 (see A-1500.1).
-- **Name uncertainty:** "Wedi Machmood" / "Wi Makmood" / "Wed Makmoud" – host uses multiple spellings. Spelling preserved as host uttered.
+- **Name uncertainty:** "Wedi Machmood" / "Wi Makmood" / "Wed Mahmoud" – host uses multiple spellings. Spelling preserved as host uttered.
 - **Tail-number inconsistency:** Host alternates between "BTT," "BTU," and "SUB-TU" / "SU-BTU" within the episode and acknowledges Project Constitution's possible confusion between BTT and BTU. Treat as same evidentiary family (A-1496.1) but flag for cross-episode reconciliation.
-- **Transcript ambiguity:** Several name spellings for the mystery individual ("Wedi Machmood," "Wi Makmood," "Wed Makmoud," "Wid Makmoud") appear across the transcript and may reflect host pronunciation rather than verified spelling.
+- **Transcript ambiguity:** Several name spellings for the mystery individual ("Wedi Machmood," "Wi Makmood," "Wed Mahmoud," "Wid Makmoud") appear across the transcript and may reflect host pronunciation rather than verified spelling.
 - **Possible transcription error:** "BTU" and "BTT" tail-number inconsistency may be transcription artifact or genuine host/source confusion.
 
 ---

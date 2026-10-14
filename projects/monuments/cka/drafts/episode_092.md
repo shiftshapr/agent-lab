@@ -983,7 +983,7 @@ Existing node reused for new claims in this episode.
 
 **N-466** Nelda Buckman
 
-Top TPUSA donor transcribed Nell debuckman.
+Top TPUSA donor transcribed Nelda Buckman.
 
 *Related: C-11427*
 
@@ -2229,7 +2229,7 @@ Claim Timestamp: 00:49:23
 
 Claim: The host says Nelda Buckman, the number one donor to Turning Point USA, is extensively involved in rescuing children who are sexually abused and trafficked.
 
-Transcript Snippet: Nell debuckman, the number one donor to Turning Point USA, is extensively involved in rescuing children that are being sexually abused and trafficked.
+Transcript Snippet: Nelda Buckman, the number one donor to Turning Point USA, is extensively involved in rescuing children that are being sexually abused and trafficked.
 
 Anchored Artifacts: A-3132.1
 Mentions: N-466, N-3

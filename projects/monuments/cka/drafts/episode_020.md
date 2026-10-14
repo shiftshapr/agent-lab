@@ -12,13 +12,13 @@
 - **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-912, N-913, N-914, N-915, N-11322, N-11323, N-11324, N-11325, N-11326
+  - Tip-minted Nodes (supplement_2026-10f): N-912, N-913, N-914, N-915, N-11323, N-11324, N-11325, N-11326
   - Hole-minted Nodes (reintro-ep020): N-232, N-282, N-302, N-363, N-383, N-490, N-491, N-526, N-10210, N-10447, N-10589, N-10660, N-10661, N-10663, N-10687
   - Tip-minted Nodes (reintro-ep020): N-11071, N-11117
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12146–C-12261
-  - New Nodes Introduced: N-193, N-194, N-195, N-196, N-199, N-200, N-201, N-202, N-10196, N-10197, N-10198, N-10199
-  - Reused Nodes Appearing: none, N-197, N-5, N-22, N-30, N-33, N-36, N-69, N-118, N-131, N-158, N-173, N-185, N-186, N-715, N-10000, N-10004, N-10112, N-10118, N-10131, N-10139, N-10149, N-10183, N-10202, N-10270, N-10341, N-10389, N-10900, N-11103, N-11218
+  - New Nodes Introduced: N-193, N-195, N-196, N-199, N-200, N-201, N-202, N-10196, N-10197, N-10199
+  - Reused Nodes Appearing: none, N-197, N-5, N-22, N-30, N-33, N-36, N-69, N-118, N-131, N-158, N-173, N-185, N-186, N-715, N-10000, N-10004, N-10112, N-10118, N-10131, N-10139, N-10149, N-10183, N-10202, N-10270, N-10341, N-10389, N-10900, N-11103, N-11218, N-194, N-10198, N-11322
   - Hole-minted Nodes (remap-ep20): N-132
 
 The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record., N-11, N-132
@@ -1253,7 +1253,7 @@ Media company where the host worked after PragerU; the host says its president w
 **N-11324** Raytheon
 
 Node Type: Organization
-Defense contractor, transcribed "Rathon", that the host says everyone is somehow attached to.
+Defense contractor, transcribed "Raytheon", that the host says everyone is somehow attached to.
 
 *Related: C-12197*
 
@@ -2405,13 +2405,13 @@ Investigative Direction: Search newspaper archives for the incident and the fami
 
 ---
 
-**C-12197** Host Says Everyone, Including MrBeast, Is Attached to "Rathon"
+**C-12197** Host Says Everyone, Including MrBeast, Is Attached to "Raytheon"
 
 Claim Timestamp: 00:27:52
 
-Claim: The host says that when you look, everyone is somehow attached to what the transcript renders "Rathon", presumably Raytheon, naming MrBeast among them.
+Claim: The host says that when you look, everyone is somehow attached to what the transcript renders "Raytheon", presumably Raytheon, naming MrBeast among them.
 
-Transcript Snippet: everyone's somehow attached to&nbsp; Rathon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Rathon in one way or the other.
+Transcript Snippet: everyone's somehow attached to&nbsp; Raytheon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Raytheon in one way or the other.
 
 Anchored Artifacts: 
 Mentions: N-3, N-915

@@ -11,8 +11,13 @@
 - **Transcript SHA-256**: 97c9fdd97666fe21235e0b78f317b571904b8f5954ceecd3a37e07ce8587fefb
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10g): N-947, N-948, N-11391, N-11392, N-11393, N-11394, N-11395
+  - Hole-minted Nodes (reintro-ep071): N-10503, N-10674
+  - Tip-minted Nodes (reintro-ep071): N-812, N-813, N-11188
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10g): C-14310–C-14385
   - New Nodes Introduced:  N-558, N-559, N-560, N-561, N-10497, N-10498, N-10499, N-10500
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-5, N-22, N-36, N-49, N-55, N-97, N-99, N-117, N-366, N-369, N-529, N-10000, N-10016, N-10018, N-10027, N-10134, N-10209, N-10326, N-10342, N-10345, N-10367, N-10372, N-10378, N-10412, N-10435, N-10446, N-10456, N-10486, N-10495, N-10510, N-10539, N-10911, N-11079, N-11080, N-11165, N-11235, N-11283
   - (see registers), N-11
 
 ## 6. Meme Register
@@ -26,6 +31,142 @@ Speaker: N-3
 Quote: Why are you gay?
 Context: Wave 3 MemeLink backfill: Why Are You Gay at 00:43:33 (audit missing_memelink).
 Tags: reuse, memelink_backfill
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:24:12
+Speaker: N-3
+Quote: Please do send us tips to uh tips uh more tips, pardon, canowens. com
+Context: Host asks for tips on the Tucson Thomas Martin.
+Tags: dia, tips
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:51:30
+Speaker: N-3
+Quote: please send us an email more tips at candacewowens. com
+Context: Host closes by asking for tips on the Tucson Thomas Martin.
+Tags: dia, tips
+Confidence: high
+
+---
+
+**M-75** (meme) I'll Say Allegedly
+
+### Occurrence 1
+
+Video Timestamp: 00:24:52
+Speaker: N-3
+Quote: I'll put in allegedly there because we've got to confirm that information
+Context: Host hedges the claim about Tracy's daughter being Erika's assistant.
+Tags: reuse, hedge
+Confidence: high
+
+---
+
+**M-81** (meme) Bibi Net and Yahoo
+
+### Occurrence 1
+
+Video Timestamp: 00:28:22
+Speaker: N-3
+Quote: toe-to-toe with BB Net and Yahoos and his thugs who wanted more action in Iran
+Context: Host puns on Netanyahu's name while describing the June 18 meeting.
+Tags: reuse, pun
+Confidence: high
+
+---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 00:17:44
+Speaker: N-3
+Quote: everything is fake a lot of it is gay
+Context: Host dismisses TPUSA's viewership claims and Bowyer's tweet.
+Tags: reuse
+Confidence: high
+
+---
+
+**M-333** (meme) The Righteous Gemstones
+
+### Occurrence 1
+
+Video Timestamp: 00:13:54
+Speaker: N-3
+Quote: And Turning Point USA are effectively the righteous gemstones.
+Context: Host likens TPUSA to the show's fake-pious family.
+Tags: new
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:17:44
+Speaker: N-3
+Quote: these again are the righteous gemstones
+Context: Host repeats the comparison over Bowyer's tweet.
+Tags: new
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:47:30
+Speaker: N-3
+Quote: Thank you for finally calling it the righteous gemstones.
+Context: Host reads a viewer comment embracing the comparison.
+Tags: new
+Confidence: high
+
+---
+
+**M-334** (meme) Purchased Reality
+
+### Occurrence 1
+
+Video Timestamp: 00:07:13
+Speaker: N-3
+Quote: Turning Point USA now has so much money that they believe that similarly they can afford to outright purchase reality.
+Context: Host introduces the idea while discussing the halftime figures.
+Tags: new
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:13:54
+Speaker: N-3
+Quote: This is our new purchased reality.
+Context: Host repeats it while predicting Erika will be forced on the public.
+Tags: new
+Confidence: high
+
+---
+
+**M-335** (meme) The Camala Thing
+
+### Occurrence 1
+
+Video Timestamp: 00:07:13
+Speaker: N-3
+Quote: Turning Point USA is effectively now running Kamala Harris's presidential campaign.
+Context: Host first makes the analogy.
+Tags: new
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:13:54
+Speaker: N-3
+Quote: Like I said, this is the Camala thing.
+Context: Host repeats her earlier Harris analogy.
+Tags: new
 Confidence: high
 
 ---
@@ -248,6 +389,140 @@ Confidence Level: High
 
 ---
 
+**A-3312** Alex Clark X Post Bundle
+
+**A-3312.1** Host verbal reference to Alex Clark's X post claiming TPUSA was counted out and citing 100 million views (not clearly shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:16:12
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14319, N-10499, N-99*
+
+---
+
+**A-3313** Mitch Snow Account Bundle
+
+**A-3313.1** Host verbal summary of Mitch Snow's account of seeing Erika at Fort Huachuca and a military briefing (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:18:31
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14322, C-14323, C-14324, N-10326, N-10367, N-10372, N-10435, N-11283, N-2, N-366, N-369*
+
+---
+
+**A-3314** Thomas Martin Southern Command Tip Bundle
+
+**A-3314.1** Host verbal reference to a tip describing Thomas Martin as Border Patrol director and Southern Command chief of staff in Tucson (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:20:09
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14329, N-10497, N-551, N-558*
+
+---
+
+**A-3315** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3315.1** Host verbal reference to the tip address for information on Thomas Martin (verbal call for tips)
+
+Quoted text: "Please do send us tips to uh tips uh more tips, pardon, canowens. com"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:24:12
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14334, N-10497, N-558*
+
+---
+
+**A-3316** Source on Tracy Martin's Daughter Bundle
+
+**A-3316.1** Host verbal reference to a source saying Tracy Martin's daughter is Erika Kirk's assistant (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:24:52
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14336, N-10498, N-10503, N-2, N-551, N-559*
+
+---
+
+**A-3317** Master Timeline Iran and Instagram Bundle
+
+**A-3317.1** Host verbal reference to her master timeline dating Erika's Instagram purge and Charlie's June 18 White House meeting (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:28:22
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14337, C-14338, C-14339, C-14341, C-14342, N-1, N-10412, N-10539, N-10674, N-11079, N-2, N-36, N-5*
+
+---
+
+**A-3318** Charlie Kirk Moral Blackmail Clips Bundle
+
+**A-3318.1** Host verbal reference to clips of Charlie Kirk describing being morally blackmailed over Israel (not played)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:36:06
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14361, C-14362, N-1, N-10016, N-10345, N-3, N-38*
+
+---
+
+**A-3319** Street Light Interference Search Result Bundle
+
+**A-3319.1** Host reads an online search result defining street light interference (screen content, not clearly shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:49:21
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14379, C-14380, N-1, N-2, N-3, N-11394*
+
+---
+
+**A-3320** Charlie Kirk Third-Eye Messages Bundle
+
+**A-3320.1** Host verbal reference to 2018 written messages in which Charlie Kirk spoke of his third eye (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:50:07
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14381, C-14383, C-14384, N-1, N-3, N-11395*
+
+---
+
+**A-3321** Decentralized Intelligence Agency Closing Tip Bundle
+
+**A-3321.1** Host verbal reference to the tip email address in the episode's closing (verbal call for tips)
+
+Quoted text: "please send us an email more tips at candacewowens. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:51:30
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14385, N-10497, N-558, N-948*
+
+---
+
 ## IV. Node Register
 
 **N-551** Tracy Martin
@@ -357,6 +632,451 @@ Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
 *Related: C-2347*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the case; his Iran advice, Hamptons experience and 2018 messages with the host are discussed.
+
+*Related: C-14338, C-14339, C-14340, C-14341, C-14342, C-14343, C-14345, C-14352, C-14354, C-14355, C-14356, C-14361, C-14362, C-14365, C-14366, C-14367, C-14371, C-14375, C-14376, C-14377, C-14380, C-14381, C-14383, C-14384*
+
+---
+
+**N-2** Erika Kirk
+
+Subject of the Instagram purge, Fort Huachuca sighting and friendship claims.
+
+*Related: C-14321, C-14322, C-14326, C-14327, C-14331, C-14336, C-14337, C-14342, C-14369, C-14380*
+
+---
+
+**N-3** Candace Owens
+
+The host; speaks of her own reporting, hearing clip responses and relationship with Charlie.
+
+*Related: C-14316, C-14349, C-14350, C-14351, C-14359, C-14360, C-14361, C-14373, C-14374, C-14375, C-14376, C-14378, C-14380, C-14381, C-14383, C-14384*
+
+---
+
+**N-5** Donald Trump
+
+Named as having tweeted about the alternative halftime show and as persuaded by Kirk to limit Iran action.
+
+*Related: C-14311, C-14339, C-14341*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson; accused of PR campaign against Snow and quoted on Netanyahu offer.
+
+*Related: C-14321, C-14370*
+
+---
+
+**N-22** Tucker Carlson
+
+Recalled for his Student Action Summit remarks and for describing Kirk's Iran stance and feelings.
+
+*Related: C-14318, C-14340, C-14366*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Subject of the Hamptons call, the next-level offer and the radio show refusal.
+
+*Related: C-14338, C-14364, C-14368, C-14369, C-14370, C-14371*
+
+---
+
+**N-38** Seth Dillon
+
+Hearing witness on the Hamptons meeting and Christ Is King; participant in the Hamptons.
+
+*Related: C-14345, C-14346, C-14347, C-14348, C-14349, C-14350, C-14351, C-14352, C-14353, C-14354, C-14355, C-14356, C-14357, C-14358, C-14359, C-14360, C-14362, C-14363, C-14367, C-14372*
+
+---
+
+**N-46** Megyn Kelly
+
+Recipient of Kirk's stress in a conversation about the Hamptons.
+
+*Related: C-14365*
+
+---
+
+**N-49** Max Blumenthal
+
+Credited by the host with breaking the heated Hamptons confrontation story.
+
+*Related: C-14343*
+
+---
+
+**N-55** Josh Hammer
+
+Hamptons attendee; host says Dillon, not Hammer, was fired up.
+
+*Related: C-14372*
+
+---
+
+**N-97** Ben Shapiro
+
+Named in the hearing clip as having fired the host from the Daily Wire.
+
+*Related: C-14349*
+
+---
+
+**N-99** Alex Clark
+
+TPUSA personality who tweeted a triumphant view-count post.
+
+*Related: C-14319*
+
+---
+
+**N-117** Natasha Hausdorff
+
+Named by the host as one of the chiefs of pressing Kirk in the Hamptons.
+
+*Related: C-14345*
+
+---
+
+**N-366** Mitch Snow
+
+Eyewitness whose Fort Huachuca account the host says remains unchanged.
+
+*Related: C-14321, C-14322, C-14323, C-14324*
+
+---
+
+**N-369** Cabot Phillips
+
+The person Snow said he saw a lookalike of at Fort Huachuca.
+
+*Related: C-14322*
+
+---
+
+**N-529** Jay-Z
+
+Named by the host as controlling halftime booking with the NFL.
+
+*Related: C-14310*
+
+---
+
+**N-812** Kid Rock
+
+Performer in the TPUSA halftime show.
+
+*Related: C-14315*
+
+---
+
+**N-813** Bad Bunny
+
+Headliner of the NFL halftime show.
+
+*Related: C-14310, C-14312, C-14314*
+
+---
+
+**N-10000** Turning Point USA
+
+Organization whose halftime show and finances are discussed.
+
+*Related: C-14311, C-14313, C-14314, C-14376, C-14377*
+
+---
+
+**N-10016** Hamptons Meeting Pressure Investigation
+
+Investigation target for the August 2025 Hamptons meeting.
+
+*Related: C-14343, C-14344, C-14345, C-14353, C-14355, C-14356, C-14357, C-14361, C-14362, C-14363, C-14365, C-14366, C-14368, C-14372*
+
+---
+
+**N-10018** Netanyahu Israel Invitation Phone Call
+
+Topic of a reported Netanyahu call to Kirk.
+
+*Related: C-14364*
+
+---
+
+**N-10027** The Hamptons
+
+Place of the August 2025 retreat.
+
+*Related: C-14343, C-14352*
+
+---
+
+**N-10134** Hamptons Weekend Retreat
+
+The retreat itself, its attendees and format.
+
+*Related: C-14352, C-14354*
+
+---
+
+**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+
+Topic area touching the host's Christian Zionism criticism.
+
+*Related: C-14351*
+
+---
+
+**N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+
+Meeting alleged at Fort Huachuca.
+
+*Related: C-14323*
+
+---
+
+**N-10342** Bibi Netanyahu TPUSA Funding Offer
+
+Topic of the alleged offer to take TPUSA to the next level.
+
+*Related: C-14369, C-14370*
+
+---
+
+**N-10345** Hampton Retreat Seth Dillon Confrontation
+
+Dillon's role in the Hamptons confrontation.
+
+*Related: C-14358, C-14359, C-14360, C-14362*
+
+---
+
+**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+
+Snow's eyewitness encounter at the base.
+
+*Related: C-14322, C-14323, C-14324*
+
+---
+
+**N-10372** Cabot Phillips Fort Huachuca Presence Verification
+
+Check on Phillips' presence at the base.
+
+*Related: C-14322*
+
+---
+
+**N-10378** Andrew Kolbet Coordination with Attackers of Mitch Snow
+
+Topic of the PR response to Snow.
+
+*Related: C-14321*
+
+---
+
+**N-10412** Erica Kirk June 19 Instagram Purge
+
+The 126-post deletion.
+
+*Related: C-14337, C-14342*
+
+---
+
+**N-10435** Fort Huachuca Erika Kirk Location Investigation
+
+Where Erika was at Fort Huachuca.
+
+*Related: C-14322*
+
+---
+
+**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+
+Conflicting accounts of the funding offer.
+
+*Related: C-14369, C-14370*
+
+---
+
+**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+
+Topic of Kirk declining to host Netanyahu.
+
+*Related: C-14371*
+
+---
+
+**N-10486** Tracy Martin Background and Husband Verification
+
+Verification topic on Tracy Martin and her husband.
+
+*Related: C-14326, C-14327, C-14328*
+
+---
+
+**N-10495** BB Netanyahu Hamptons Dinner Allegation
+
+Allegation of a Netanyahu call/presence during the Hamptons.
+
+*Related: C-14364, C-14368*
+
+---
+
+**N-10503** Erika Kirk September 10 Assistant Pull-Back Investigation
+
+Investigation of the assistant being kept from the event.
+
+*Related: C-14336*
+
+---
+
+**N-10510** TPUSA All-American Halftime Show Authenticity Question
+
+Authenticity question on the TPUSA show.
+
+*Related: C-14311, C-14313, C-14314, C-14315*
+
+---
+
+**N-10539** Charlie Kirk Iran War Opposition (June 2025)
+
+Kirk's June 2025 stance on Iran.
+
+*Related: C-14338, C-14339, C-14340, C-14341*
+
+---
+
+**N-10674** June 18 White House Meeting on Iran Involvement
+
+The alleged June 18 meeting.
+
+*Related: C-14338, C-14341, C-14342*
+
+---
+
+**N-10911** Department of Homeland Security
+
+Agency named in the contract and border patrol claims.
+
+*Related: C-14331*
+
+---
+
+**N-11079** Operation Midnight Hammer
+
+The June 2025 strikes on Iran.
+
+*Related: C-14339*
+
+---
+
+**N-11080** Student Action Summit July 2025 (Tampa)
+
+Event where Tucker Carlson spoke.
+
+*Related: C-14318*
+
+---
+
+**N-11165** Romanian Angels Project
+
+Organization named with Tracy Martin.
+
+*Related: C-14327*
+
+---
+
+**N-11188** White House Religious Liberty Commission
+
+Body that held the hearing.
+
+*Related: C-14346, C-14347, C-14348, C-14349, C-14350*
+
+---
+
+**N-11235** Female Jewish Donor Confrontation of Kirk After Tucker Speech
+
+Related to donors angry after the SAS speech.
+
+*Related: C-14318*
+
+---
+
+**N-11283** Joint Task Force Six and Joint Task Force Southern Border
+
+Unit Snow said he encountered.
+
+*Related: C-14323, C-14324, C-14325*
+
+---
+
+**N-947** Lee Brice
+
+First named by the host at 00:07:13 in episode 71 as a performer in the TPUSA halftime show.
+
+*Related: C-14315*
+
+---
+
+**N-948** Thomas G. Martin
+
+First named by the host at 00:24:12 in episode 71 as a Border Patrol employee in Buffalo, New York whom she says is not the Tucson Thomas Martin.
+
+*Related: C-14333, C-14385*
+
+---
+
+**N-11391** National Football League (NFL)
+
+Node Type: Organization
+League that, per the host, partnered with Jay-Z to book the Super Bowl halftime show.
+
+*Related: C-14310, C-14313*
+
+---
+
+**N-11392** 2026 Super Bowl Halftime Show (Bad Bunny)
+
+Node Type: Topic
+The NFL halftime performance headlined by Bad Bunny, its booking, and the counter-programmed TPUSA show.
+
+*Related: C-14310, C-14311, C-14312*
+
+---
+
+**N-11393** 1985 Tucson Sanctuary Movement Trial
+
+Node Type: Topic
+The 1985 trial in Tucson of church workers charged with concealing illegal aliens, as described in the Times Union article the host reads.
+
+*Related: C-14332*
+
+---
+
+**N-11394** Street Light Interference
+
+Node Type: Topic
+The claimed phenomenon of street lights turning off or flickering when a person approaches, which the host cites in support of her and Erika's accounts of lights going out around Charlie.
+
+*Related: C-14379, C-14380*
+
+---
+
+**N-11395** Charlie Kirk Third Eye Conversation (2018)
+
+Node Type: Topic
+The host's 2018 written exchange with Charlie Kirk about his third eye and what she thinks it led to.
+
+*Related: C-14381, C-14382, C-14383, C-14384*
 
 ---
 
@@ -726,12 +1446,1231 @@ Investigative Direction: Verify through any other public statements from Charlie
 
 ---
 
+**C-14310** Host Says Jay-Z Controls Halftime Booking and Booked Bad Bunny
+
+Claim Timestamp: 00:04:14
+
+Claim: The host says that Jay-Z, in partnership with the NFL, controls who performs at the Super Bowl halftime and that he booked Bad Bunny.
+
+Transcript Snippet: Actually, I looked into it. The person that controls who gets to perform at the halftime is Jay-Z. For some reason, Jay-Z in partnership with the NFL, Jay-Z doesn't speak Spanish, but Jay-Z booked him.
+
+Anchored Artifacts: 
+Mentions: N-529, N-813
+Related Nodes: N-11391, N-11392
+Tags: relevance:tangential
+Investigative Direction: NFL or Roc Nation announcements and reporting on who selected the 2026 halftime performer.
+
+---
+
+**C-14311** Host Says TPUSA Announced an Alternative Halftime Show and Trump Tweeted
+
+Claim Timestamp: 00:05:06
+
+Claim: The host says that after Bad Bunny's booking drew backlash, Turning Point USA announced an alternative all-American halftime show and President Trump tweeted about it.
+
+Transcript Snippet: Turning Point USA announced that they would produce an alternative quote unquote all-American Super Bowl halftime show. and President Trump tweeted.
+
+Anchored Artifacts: 
+Mentions: N-5
+Related Nodes: N-10000, N-10510, N-11392
+Tags: relevance:context
+Investigative Direction: TPUSA announcement of the alternative show and the Trump post, with dates.
+
+---
+
+**C-14312** Host Says Bad Bunny Did Not Wear a Dress at the Super Bowl
+
+Claim Timestamp: 00:05:06
+
+Claim: The host says Bad Bunny did not in fact wear a dress during the Super Bowl halftime performance, although the prospect had driven the backlash.
+
+Transcript Snippet: Now, Bad Bunny did not in fact wear a dress at the Super Bowl. He didn't, which like I said, I'm very against that.
+
+Anchored Artifacts: 
+Mentions: N-813
+Related Nodes: N-11392
+Tags: relevance:tangential
+Investigative Direction: Broadcast footage of the halftime performance.
+
+---
+
+**C-14313** Host Says TPUSA's Counter-Programming Failed to Draw Viewers From the NFL
+
+Claim Timestamp: 00:05:06
+
+Claim: The host says the viewership figures mean the political lines drawn by Turning Point USA did not succeed in drawing people away from the NFL's viewership.
+
+Transcript Snippet: This means uh that the I would say unnecessary Super Bowl political lines that were drawn by Turning Point USA was not successful in terms of drawing people away from the NFL's viewership.
+
+Anchored Artifacts: A-1750.1
+Related Nodes: N-10000, N-10510, N-11391
+Supports: C-2326
+Tags: relevance:context
+Investigative Direction: Nielsen's final halftime and game figures compared with TPUSA's claimed audience.
+
+---
+
+**C-14314** Host Says the TPUSA Show Was Pre-Recorded a Couple of Weeks Earlier
+
+Claim Timestamp: 00:07:13
+
+Claim: The host says the Turning Point USA halftime show was pre-recorded, she thinks a couple of weeks earlier, while Bad Bunny performed live, giving TPUSA time to edit and present it.
+
+Transcript Snippet: Now, we should be clear, it was a pre-record, okay? So, Bad Bunny was performing live. Turning point USA pre-recorded, I think a couple of weeks ago.
+
+Anchored Artifacts: 
+Mentions: N-813
+Related Nodes: N-10000, N-10510
+Tags: relevance:context
+Investigative Direction: TPUSA production schedule and the show's recording date.
+
+---
+
+**C-14315** Host Names Kid Rock and Lee Brice as TPUSA Show Performers
+
+Claim Timestamp: 00:07:13
+
+Claim: The host names Kid Rock and Lee Brice as artists who performed in the Turning Point USA halftime show and says there were a couple of other artists.
+
+Transcript Snippet: I'm going to park aside the artists who actually performed. Uh, Kid Rock, Lee Brice.
+
+Anchored Artifacts: 
+Mentions: N-812, N-947
+Related Nodes: N-10510
+Tags: relevance:tangential
+Investigative Direction: Official TPUSA show lineup.
+
+---
+
+**C-14316** Host Says Her Own Stream Had 95,000 Concurrent Viewers as a Benchmark
+
+Claim Timestamp: 00:10:39
+
+Claim: The host says her stream had about 95,000 concurrent viewers while on air and argues that YouTube would show roughly 200,000 to 300,000 views immediately after it ends, as a benchmark against TPUSA's claimed six million concurrent.
+
+Transcript Snippet: We have 95,000 people that are watching this show. As soon as this show concludes, I want you to see how many views uh YouTube is going to instantly give it right away.
+
+Anchored Artifacts: A-1752.1
+Mentions: N-3
+Related Nodes: N-10499
+Tags: relevance:context
+Investigative Direction: The episode's own concurrent and final view counts after the stream ended, compared with the TPUSA page.
+
+---
+
+**C-14317** Host Says TPUSA Wants Viewers to Believe It Is Second on YouTube's Concurrent List
+
+Claim Timestamp: 00:11:41
+
+Claim: The host says that, taking Kolvet's six million concurrent figure at face value, Turning Point wants viewers to believe its show ranks second on YouTube's all-time concurrent list, behind only India's moon mission.
+
+Transcript Snippet: Turning Point wants you to believe that they're number two now.
+
+Anchored Artifacts: A-1753.1
+Related Nodes: N-10499
+Supports: C-2327
+Tags: relevance:context
+Investigative Direction: YouTube's all-time peak concurrent viewership rankings and any TPUSA entry.
+
+---
+
+**C-14318** Host Recalls Tucker Carlson Questioning Donor Wealth at SAS
+
+Claim Timestamp: 00:16:12
+
+Claim: The host says TPUSA's viewership claim reminds her of what Tucker Carlson said on stage at Student Action Summit when donors got angry as he questioned where the money is coming from and how some people are becoming billionaires.
+
+Transcript Snippet: It is to me so reminiscent of everything Tucker said when he got onto stage at SAS, when the donors, the Jewish donors got angry, when he questioned exactly where this money is coming from, how these people are becoming billionaires
+
+Anchored Artifacts: 
+Mentions: N-22
+Related Nodes: N-11080, N-11235
+Tags: relevance:context
+Investigative Direction: Video of Tucker Carlson's Student Action Summit July 2025 remarks and reactions from donors present.
+
+---
+
+**C-14319** Host Says Alex Clark Tweeted a Triumphant Post Citing 100 Million Views
+
+Claim Timestamp: 00:16:12
+
+Claim: The host says Alex Clark tweeted that everyone said TPUSA was over and followed it with a '100 million views' figure, which the host calls fiction.
+
+Transcript Snippet: Alex Clark shamelessly tweeting everyone said we were over. But look at this.
+
+Anchored Artifacts: A-3312.1
+Mentions: N-99
+Related Nodes: N-10499
+Tags: relevance:context
+Investigative Direction: Alex Clark's X post and its attached figure, with timestamp.
+
+---
+
+**C-14320** Host Says Bowyer's Tweet Used a Moment From Bad Bunny's Performance
+
+Claim Timestamp: 00:17:44
+
+Claim: The host says Tyler Bowyer's tweet about TPUSA's concurrent streams used a moment from Bad Bunny's performance showing two men dancing.
+
+Transcript Snippet: he shows something he probably likes if I'm guessing um this moment of two men dancing on each other and of all people to to tweet this it's Tyler Bowyer
+
+Anchored Artifacts: A-1761.1
+Mentions: N-11
+Related Nodes: N-10499
+Supports: C-2347
+Tags: relevance:context
+Investigative Direction: Archive of Bowyer's original post and the attached media.
+
+---
+
+**C-14321** Host Says Snow Faced Andrew's and Erika's PR Machine Digging Up His Past
+
+Claim Timestamp: 00:18:31
+
+Claim: The host says Mitch Snow faced the full brunt of Andrew Kolvet's and Erika Kirk's PR machine, which dug up his past and claimed he was a habitual liar.
+
+Transcript Snippet: You will recall that Mitch Snow, the man who had to deal with the full brunt of Andrew and Erika's PR machine. Um, they were digging up his past, claiming that he was a habitual liar.
+
+Anchored Artifacts: 
+Mentions: N-366, N-14, N-2
+Related Nodes: N-10378
+Tags: relevance:core
+Investigative Direction: Public statements by TPUSA or Kolvet about Snow's credibility and any coordinated posts.
+
+---
+
+**C-14322** Host Says Snow Has Not Changed His Account of Seeing Erika at Fort Huachuca on the 8th
+
+Claim Timestamp: 00:18:31
+
+Claim: The host says Mitch Snow has not moved his story and remains certain he saw Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel with a Cabot Phillips lookalike.
+
+Transcript Snippet: He was certain, and I want to be clear, he also hasn't moved his story since, not one inch. He was certain that he saw Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel with a Cabot Phillips lookalike.
+
+Anchored Artifacts: A-3313.1
+Mentions: N-366, N-2, N-369
+Related Nodes: N-10367, N-10372, N-10435
+Tags: relevance:core
+Investigative Direction: Hotel and base access records for September 8, 2025 and Snow's original account.
+
+---
+
+**C-14323** Host Says Snow Walked Into the End of a Briefing for the Joint Task Force Southern Border
+
+Claim Timestamp: 00:18:31
+
+Claim: The host says Snow claims he stumbled upon what appeared to be the conclusion of a military briefing before a mission, held in a borrowed building site for the Joint Task Force Southern Border unit.
+
+Transcript Snippet: he claims that he stumbled upon what appeared to him to be the conclusion of a military briefing right before a mission taking place in a borrowed building site for the joint task force, the Southern Border Unit.
+
+Anchored Artifacts: A-3313.1
+Mentions: N-366
+Related Nodes: N-11283, N-10367, N-10326
+Tags: relevance:core
+Investigative Direction: Fort Huachuca building-use records and JTF Southern Border schedules for September 8-9, 2025.
+
+---
+
+**C-14324** Host Relays Snow's Exchange With a Man Wearing a JTF Patch
+
+Claim Timestamp: 00:19:21
+
+Claim: The host relays that Snow saw a man wearing a JTF patch, which she thinks Snow said was JTF 10 and the 10th Mountain Brigade, and was told the unit is now in that building, although Snow thought it had been disbanded.
+
+Transcript Snippet: He saw a guy wearing the JTF thing. I think he said it was JTF 10, the 10th Mount Mountain Brigade.
+
+Anchored Artifacts: A-3313.1
+Mentions: N-366
+Related Nodes: N-11283, N-10367
+Tags: relevance:core
+Investigative Direction: Snow's detailed account and the unit's official status and location.
+
+---
+
+**C-14325** Host Says the Joint Task Force Was Initially Formed in Tucson
+
+Claim Timestamp: 00:19:21
+
+Claim: The host says the joint task force was initially formed in Tucson, Arizona.
+
+Transcript Snippet: And you should know that the that joint task force initially was formed in Tucson, Arizona.
+
+Anchored Artifacts: 
+Related Nodes: N-11283
+Tags: relevance:context
+Investigative Direction: Official history of Joint Task Force Six and Joint Task Force Southern Border.
+
+---
+
+**C-14326** Host Says Tracy Martin Has Been Erika's Best Friend for Over 15 Years
+
+Claim Timestamp: 00:19:21
+
+Claim: The host says Tracy Martin, introduced last week, has been Erika Kirk's best friend for over fifteen years.
+
+Transcript Snippet: Remember, Tracy Martin is Erika's best friend for over 15 years.
+
+Anchored Artifacts: 
+Mentions: N-551, N-2
+Related Nodes: N-10486
+Tags: relevance:context
+Investigative Direction: Public photos, posts and statements showing the friendship and its length.
+
+---
+
+**C-14327** Host Says Erika Modeled for Tracy's Clothing Brands and They Are Tied to Romanian Angels
+
+Claim Timestamp: 00:20:09
+
+Claim: The host says Erika and Tracy have done everything together, that Tracy mentions Romanian Angels, and that Erika modeled for Tracy's clothing brands.
+
+Transcript Snippet: They've done everything together. Tracy says Romanian Angels. Uh Erika modeled for her clothing brands.
+
+Anchored Artifacts: 
+Mentions: N-551, N-2
+Related Nodes: N-11165, N-10486
+Tags: relevance:context
+Investigative Direction: Tracy Martin's brand pages and Romanian Angels materials showing Erika's involvement.
+
+---
+
+**C-14328** Host Says Tracy's Husband Thomas Martin Is Involved in Fitness and Ran Gyms
+
+Claim Timestamp: 00:20:09
+
+Claim: The host says she had trouble learning about Tracy Martin's husband, Thomas Martin, who she says is involved in fitness and the couple ran gyms.
+
+Transcript Snippet: He's got quite a build. He looks kind of military-esque to me, but they are also involved in fitness. They ran gyms.
+
+Anchored Artifacts: 
+Mentions: N-551
+Related Nodes: N-10497, N-10486
+Tags: relevance:tangential
+Investigative Direction: Business registrations for the Martins' gyms.
+
+---
+
+**C-14329** Host Relays a Tip That a Thomas Martin Is a Border Patrol Director and Southern Command Chief of Staff in Tucson
+
+Claim Timestamp: 00:20:09
+
+Claim: The host relays a tip, which she cautions may not pan out, that a Thomas Martin is a director of US Border Patrol and chief of staff of the Southern Command in Tucson; she does not assert he is Tracy Martin's husband.
+
+Transcript Snippet: There is a director of US Border Patrol, also chief of staff uh of the Southern Command in Tucson named Thomas Martin.
+
+Anchored Artifacts: A-3314.1
+Mentions: N-558, N-551
+Related Nodes: N-10497
+Tags: relevance:core
+Investigative Direction: Federal personnel directories or CBP press releases naming a Thomas Martin in that role; any link to Tracy Martin's husband.
+
+---
+
+**C-14330** Host Says This Thomas Martin Has Wiped His Public Presence
+
+Claim Timestamp: 00:20:59
+
+Claim: The host says this particular Thomas Martin has gone to great lengths to completely wipe his public presence, noting that his LinkedIn link no longer opens.
+
+Transcript Snippet: this particular Thomas Martin has gone through great lengths to completely wipe his public presence.
+
+Anchored Artifacts: A-1757.1
+Mentions: N-558
+Related Nodes: N-10497
+Tags: relevance:core
+Investigative Direction: Web archive snapshots of the LinkedIn profile and other listings, with dates.
+
+---
+
+**C-14331** Host Says Erika's Mother Has Extensive Contracts With DHS
+
+Claim Timestamp: 00:20:59
+
+Claim: The host says Erika Kirk's mother is involved in extensive contracts with the Department of Homeland Security.
+
+Transcript Snippet: The Department of Homeland Security for which we know Erika Kirk's mother also is involved extensive contracts with the Department of Homeland Security.
+
+Anchored Artifacts: A-1757.2
+Mentions: N-2
+Related Nodes: N-10911, N-10497
+Tags: relevance:context
+Investigative Direction: Federal contract databases (USAspending, SAM.gov) for the mother's company.
+
+---
+
+**C-14332** Host Reads 1985 Article on the Tucson Sanctuary Movement Trial
+
+Claim Timestamp: 00:22:02
+
+Claim: The host reads from the 1985 Times Union article that Southside Presbyterian Church, two Roman Catholic priests, a nun and six church lay workers were going on trial in Tucson for concealing illegal aliens.
+
+Transcript Snippet: Southside Presbyterian Church, two Roman Catholic priests, a nun, and si six church lay workers were all going on trial in Tucson for concealing illegal aliens.
+
+Anchored Artifacts: A-1758.1
+Related Nodes: N-11393, N-558
+Tags: relevance:tangential
+Investigative Direction: Full text of the Times Union article of October 21, 1985 and court records of the sanctuary trial.
+
+---
+
+**C-14333** Host Says the Tucson Thomas Martin Is Not Thomas G. Martin of Buffalo
+
+Claim Timestamp: 00:24:12
+
+Claim: The host says the Tucson Thomas Martin is not Thomas G. Martin, a Border Patrol employee in Buffalo, New York, and that she has already investigated that obvious lead.
+
+Transcript Snippet: Martin. That is not the same Thomas Martin that has been in Tucson. We've obviously already investigated the obvious lead there.
+
+Anchored Artifacts: 
+Mentions: N-558, N-948
+Related Nodes: N-10497
+Tags: relevance:context
+Investigative Direction: Border Patrol assignment records distinguishing the two men.
+
+---
+
+**C-14334** Host Asks for Tips on the Tucson Thomas Martin
+
+Claim Timestamp: 00:24:12
+
+Claim: The host asks viewers for tips on the Tucson Thomas Martin, including from anyone who worked with him, via the more-tips address.
+
+Transcript Snippet: Please do send us tips to uh tips uh more tips, pardon, canowens. com because we'd like to know maybe somebody worked with this Thomas Martin.
+
+Anchored Artifacts: A-3315.1
+Mentions: N-558
+Related Nodes: N-10497
+Tags: relevance:core
+Investigative Direction: Submitted tips on Thomas Martin's career and colleagues.
+
+---
+
+**C-14335** Host Says Records Place This Thomas Martin With Southern Command Until at Least 2011
+
+Claim Timestamp: 00:24:12
+
+Claim: The host says this Thomas Martin has lived in the Tucson area for decades and that she can find a record of him working with the Southern Command until at least 2011.
+
+Transcript Snippet: we know that he's been living in the Tucson area for decades, decades, at least up until 2011. I can find a record of him um working with the Southern Command and that is interesting.
+
+Anchored Artifacts: 
+Mentions: N-558
+Related Nodes: N-10497
+Tags: relevance:core
+Investigative Direction: The 2011 record the host cites and any later Southern Command roster entries.
+
+---
+
+**C-14336** Host Says a Source Reports Tracy's Daughter Is Erika's Assistant
+
+Claim Timestamp: 00:24:52
+
+Claim: The host says a source who knows these people told her that Tracy Martin's daughter is Erika Kirk's assistant, which she flags as unconfirmed.
+
+Transcript Snippet: This is shocking that Tracy's daughter is actually Erika's assistant. I'll put in allegedly there because we've got to confirm that information, but um the source knows these people.
+
+Anchored Artifacts: A-3316.1
+Mentions: N-551, N-559, N-2
+Related Nodes: N-10498, N-10503
+Tags: relevance:core
+Investigative Direction: TPUSA or Erika Kirk staff listings, event credentials or employment records for the daughter.
+
+---
+
+**C-14337** Host Says Erika Deleted 126 Instagram Posts on June 19
+
+Claim Timestamp: 00:28:22
+
+Claim: The host says that on June 19 Erika Kirk purged her Instagram of many pictures, deleting 126 posts.
+
+Transcript Snippet: on June 19th, Erika purged her Instagram of a lot of pictures, 126 posts she deleted.
+
+Anchored Artifacts: A-3317.1
+Mentions: N-2
+Related Nodes: N-10412
+Tags: relevance:core
+Investigative Direction: Instagram archive captures before and after June 19, 2025 and post counts.
+
+---
+
+**C-14338** Host Says Charlie Confronted Netanyahu's Side at the White House on June 18
+
+Claim Timestamp: 00:28:22
+
+Claim: The host says she can now confirm that the day Charlie Kirk went toe-to-toe at the White House with Netanyahu and his people, who wanted more action in Iran, and won was June 18.
+
+Transcript Snippet: I can now confirm that the date that Charlie went to the White House went to the White House and went up like toe-to-toe with BB Net and Yahoos and his thugs who wanted more action in Iran and he won was on June 18th.
+
+Anchored Artifacts: A-3317.1
+Mentions: N-1, N-36
+Related Nodes: N-10674, N-10539
+Tags: relevance:context
+Investigative Direction: White House visitor logs and schedules for June 18, 2025 and contemporaneous reports of the meeting.
+
+---
+
+**C-14339** Host Says Charlie Convinced Trump to Limit Iran Action, Leading to Midnight Hammer
+
+Claim Timestamp: 00:28:22
+
+Claim: The host says Charlie Kirk convinced Trump to approve only a limited military operation in Iran, which ended up being Operation Midnight Hammer.
+
+Transcript Snippet: he had convinced Trump that he should have uh just a limited military ex not exercise a li limited military operation in Iran which ended up being operation midnight hammer.
+
+Anchored Artifacts: A-3317.1
+Mentions: N-1, N-5
+Related Nodes: N-11079, N-10539
+Tags: relevance:context
+Investigative Direction: Reporting on Kirk's role in advising Trump before the June 2025 strikes.
+
+---
+
+**C-14340** Host Says Tucker Carlson Has Spoken Publicly About Charlie Speaking Up on Iran
+
+Claim Timestamp: 00:29:53
+
+Claim: The host says Tucker Carlson has spoken in clips about Charlie Kirk speaking up for Americans against more action in Iran, and she tells viewers they can find the clips.
+
+Transcript Snippet: Tucker spoke about that. You can go find the clips of Tucker speaking about the fact that Charlie spoke up for America.
+
+Anchored Artifacts: 
+Mentions: N-22, N-1
+Related Nodes: N-10539
+Tags: relevance:context
+Investigative Direction: Specific Tucker Carlson broadcast clips where he recounts Kirk's Iran position.
+
+---
+
+**C-14341** Host Says Charlie Argued the Base Would Hate Escalation and That It Be Kept Limited
+
+Claim Timestamp: 00:29:53
+
+Claim: The host says Charlie Kirk argued in the room that the base would hate more Iran action, reminded Trump he had promised no wars, and asked that it stay a limited operation.
+
+Transcript Snippet: Obviously, Charlie's in there saying like the base is going to hate this. Don't do that. That's a very bad idea.
+
+Anchored Artifacts: A-3317.1
+Mentions: N-1, N-5
+Related Nodes: N-10674, N-10539
+Tags: relevance:context
+Investigative Direction: Accounts from attendees of the June 18 meeting.
+
+---
+
+**C-14342** Host Says Erika Deleted the Posts the Day After Charlie's Win
+
+Claim Timestamp: 00:29:53
+
+Claim: The host says June 18 was the day Charlie won at the White House and that the very next day, June 19, Erika deleted 126 Instagram posts, a sequence she flags without asserting causation.
+
+Transcript Snippet: That's June 18th. The very next day on June 19th, Erika purges her Instagram. She deletes 126 posts.
+
+Anchored Artifacts: A-3317.1
+Mentions: N-2, N-1
+Related Nodes: N-10412, N-10674
+Tags: relevance:core
+Investigative Direction: Date-stamped Instagram captures and the June 18 meeting record.
+
+---
+
+**C-14343** Host Says Max Blumenthal Broke the Story of a Heated Hamptons Confrontation
+
+Claim Timestamp: 00:30:34
+
+Claim: The host says Max Blumenthal broke the story that Charlie Kirk had a very heated confrontation at the Hamptons, pressed by Zionists over his shifting support for Israel.
+
+Transcript Snippet: Max Blumenthal broke this story that Charlie had had this as we had described it a very heated confrontation um and he was being pushed by Zionists about his shifting support for Israel.
+
+Anchored Artifacts: 
+Mentions: N-49, N-1
+Related Nodes: N-10016, N-10027
+Tags: relevance:core
+Investigative Direction: Max Blumenthal's original report and its sourcing.
+
+---
+
+**C-14344** Host Says Participants Issued Clean Buttoned-Up Statements Denying the Confrontation
+
+Claim Timestamp: 00:30:34
+
+Claim: The host says the Hamptons participants all came out with clean, buttoned-up statements saying the confrontation story was untrue.
+
+Transcript Snippet: They all came out and gave these clean buttoned up statements saying that wasn't true.
+
+Anchored Artifacts: 
+Related Nodes: N-10016, N-10500
+Tags: relevance:core
+Investigative Direction: The participants' statements and their dates.
+
+---
+
+**C-14345** Host Says Dillon and Natasha Were Chiefs of Pressing Charlie in the Hamptons
+
+Claim Timestamp: 00:31:24
+
+Claim: The host says Seth Dillon and Natasha were the leaders of the effort to press Charlie Kirk in the Hamptons.
+
+Transcript Snippet: him and Natasha were the chiefs of pressing Charlie uh Charlie in the Hamptons.
+
+Anchored Artifacts: 
+Mentions: N-38, N-117, N-1
+Related Nodes: N-10016
+Supports: C-9425
+Tags: relevance:core
+Investigative Direction: Attendee accounts of who pressed Kirk and on what.
+
+---
+
+**C-14346** Host Says Witnesses at the Commission Hearing Testify Under Oath
+
+Claim Timestamp: 00:31:24
+
+Claim: The host says that because Seth Dillon was testifying at the Religious Liberty Commission hearing he was under oath, which she says gave Carrie Prejean Bowler the opening to question him on a range of topics.
+
+Transcript Snippet: since he's under oath. When you testify, you're actually under oath to ask him about a variety of topics.
+
+Anchored Artifacts: A-1760.2
+Mentions: N-38, N-560
+Related Nodes: N-11188
+Tags: relevance:context
+Investigative Direction: Commission rules on witness oaths and the hearing record.
+
+---
+
+**C-14347** Host Says Dillon Was a Leading Voice Calling Christ Is King Anti-Semitic
+
+Claim Timestamp: 00:31:24
+
+Claim: The host says Carrie Prejean Bowler pressed Seth Dillon first on his being one of the chiefs of the claim that 'Christ is King' is anti-Semitic.
+
+Transcript Snippet: First and foremost, she presses him because he was also one of the chiefs of Christ as King is anti-Semitic.
+
+Anchored Artifacts: A-1760.2
+Mentions: N-560, N-38
+Related Nodes: N-11188
+Tags: relevance:context
+Investigative Direction: Dillon's public statements on the phrase 'Christ is King'.
+
+---
+
+**C-14348** Clip: Witness Says 'Christ Is King' Could Be Anti-Semitic Depending on Context
+
+Claim Timestamp: 00:32:13
+
+Claim: In the hearing clip, the witness answers that labeling the phrase 'Christ is king' anti-Semitic depends on the context and that it could be.
+
+Transcript Snippet: if they just say it Christ is king? Like >> it could be. You have to look at the context.
+
+Anchored Artifacts: A-1760.2
+Mentions: N-38, N-560
+Related Nodes: N-11188
+Tags: relevance:context
+Investigative Direction: Official hearing video at the stated moment.
+
+---
+
+**C-14349** Clip: Prejean Bowler Says Ben Shapiro Fired Candace Over 'Christ Is King'; Dillon Says He Never Called It Anti-Semitic
+
+Claim Timestamp: 00:32:13
+
+Claim: In the hearing clip, the questioner says Candace Owens' friend Ben fired her because she said Christ is king, and the witness replies that he never said what she said was anti-semitic.
+
+Transcript Snippet: your friend Ben fired her because she said Christ is king. >> And I never said that what she said was anti-semitic.
+
+Anchored Artifacts: A-1760.2
+Mentions: N-560, N-97, N-3, N-38
+Related Nodes: N-11188
+Tags: relevance:context
+Investigative Direction: Hearing video and the circumstances of Owens' departure from the Daily Wire.
+
+---
+
+**C-14350** Clip: Witness Says He Calls Candace an Anti-Semite Because She Said Way Worse
+
+Claim Timestamp: 00:32:50
+
+Claim: In the hearing clip, the witness responds that he calls Candace Owens an anti-semite 'because she said way worse than that.'
+
+Transcript Snippet: >> Oh yes, because she said way worse than that. Okay, let's move on because everyone seems to be obsessed with Candace.
+
+Anchored Artifacts: A-1760.2
+Mentions: N-38, N-3
+Related Nodes: N-11188
+Tags: relevance:context
+Investigative Direction: Hearing video and the statements by Owens the witness refers to.
+
+---
+
+**C-14351** Host Denies Equating Zionists and Jews and Says She Attacks Christian Zionists
+
+Claim Timestamp: 00:32:50
+
+Claim: The host says Dillon went on to attribute things to her she never said, including that she draws no separation between Zionists and Jews, and she says she often attacks Christian Zionists for selling racial supremacy, which she says is really Israeli supremacy.
+
+Transcript Snippet: And he's like, "No, she now says outwardly how what she thinks about Jews, and there's no separation between Zionists and Jews." Yes, there is.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-3, N-38
+Related Nodes: N-10209
+Tags: relevance:context
+Investigative Direction: Host's own prior statements distinguishing Zionists from Jews.
+
+---
+
+**C-14352** Clip: Dillon Says Charlie Called the Hamptons Retreat
+
+Claim Timestamp: 00:33:44
+
+Claim: In the hearing clip, Dillon says the Hamptons meeting was a retreat called by Charlie.
+
+Transcript Snippet: The Hampton's meeting was a retreat called by Charlie.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-38, N-1
+Related Nodes: N-10134, N-10027
+Tags: relevance:core
+Investigative Direction: Invitations and organizer records for the August 2025 Hamptons retreat.
+
+---
+
+**C-14353** Clip: Dillon Denies the Hamptons Intervention Characterization
+
+Claim Timestamp: 00:34:27
+
+Claim: In the hearing clip, Dillon says the Hamptons retreat was characterized as a staged intervention and says it was not like that.
+
+Transcript Snippet: The Hampton's uh retreat and that was the Hampton's retreat was characterized that way. It was not like that.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-38
+Related Nodes: N-10016, N-10500
+Tags: relevance:core
+Investigative Direction: Kirk's own contemporaneous descriptions of the meeting versus Dillon's testimony.
+
+---
+
+**C-14354** Clip: Dillon Says About 30 People Were Handpicked by Charlie and He Held the Microphone
+
+Claim Timestamp: 00:34:27
+
+Claim: In the hearing clip, Dillon says about 30 people attended, all handpicked and invited by Charlie personally, and that Charlie stood at the front of the room with a microphone throughout.
+
+Transcript Snippet: There were about 30 people there, handpicked and invited by Charlie personally. He brought us there. He stood at the front of the room with a microphone throughout the thing.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-38, N-1
+Related Nodes: N-10134
+Tags: relevance:core
+Investigative Direction: Attendee list and the invitation process.
+
+---
+
+**C-14355** Clip: Dillon Says Charlie Told the Room Weak Support for Israel Could Be Ruinous
+
+Claim Timestamp: 00:34:27
+
+Claim: In the hearing clip, Dillon says Charlie said that not being sufficiently supportive of Israel can be ruinous for someone in his position, and that Dillon disagreed with that.
+
+Transcript Snippet: One of the things that I disagreed with him on was he said that, you know, there's if you're if you don't if you're not sufficiently supportive of Israel, you you it can be um really ruin ruinous for you in a position like his.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-38, N-1
+Related Nodes: N-10016, N-10500
+Tags: relevance:core
+Investigative Direction: Other attendees' accounts of Kirk's remarks on Israel and career consequences.
+
+---
+
+**C-14356** Clip: Dillon Cites His Own Experience of Being Targeted for Criticizing Critics of Israel
+
+Claim Timestamp: 00:35:13
+
+Claim: In the hearing clip, Dillon says he told Charlie about his own experience, in which he criticized the critics of Israel and they tried to destroy him.
+
+Transcript Snippet: I gave the example of my own experience where I criticized not the uh I criticized the critics of Israel and they tried to destroy me.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-38, N-1
+Related Nodes: N-10016
+Tags: relevance:context
+Investigative Direction: Dillon's description of the episode and any contemporaneous reporting.
+
+---
+
+**C-14357** Clip: Dillon Says Many Attendees Made Statements That the Account Was Mischaracterized
+
+Claim Timestamp: 00:35:13
+
+Claim: In the hearing clip, Dillon says many people came out afterwards with statements that the Hamptons meeting had been completely mischaracterized.
+
+Transcript Snippet: but there were many people that came out and made statements afterwards that it was completely mischaracterized.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-38
+Related Nodes: N-10016, N-10500
+Tags: relevance:core
+Investigative Direction: The statements by attendees, with names and dates.
+
+---
+
+**C-14358** Clip: Dillon Says He and His Family Were Targeted and Someone Was Arrested in Texas
+
+Claim Timestamp: 00:36:06
+
+Claim: In the clip, the speaker, apparently Dillon, says the portrayal resulted in death threats and that someone tried to kill him and his family and was arrested in Texas.
+
+Transcript Snippet: That's why someone tried to kill me and my family and got arrested in Texas.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-38
+Related Nodes: N-10345
+Tags: relevance:context
+Investigative Direction: Texas court or police records of an arrest tied to threats against Dillon.
+
+---
+
+**C-14359** Clip: Dillon Says the Host Put His Face on a Poster Implying He Had a Role in the Murder
+
+Claim Timestamp: 00:36:06
+
+Claim: In the clip, the speaker, apparently Dillon, says the host put his face on an 'I Know What You Did Last Summer' movie poster suggesting he had a role in Charlie Kirk's murder.
+
+Transcript Snippet: She put my face on a movie poster for I know what you did last summer suggesting that I had a role in his murder.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-38, N-3
+Related Nodes: N-10345
+Supports: C-1639
+Tags: relevance:context
+Investigative Direction: The host's earlier thumbnail and its context.
+
+---
+
+**C-14360** Host Acknowledges Making the 'I Know What You Did Last Summer' Thumbnail
+
+Claim Timestamp: 00:36:06
+
+Claim: The host acknowledges she put Seth Dillon's face on a thumbnail based on the 'I Know What You Did Last Summer' poster, calls it hilarious, and disputes that it meant he took part in a murder.
+
+Transcript Snippet: She put my face on a thumbnail of I know what you did last summer. An objectively hilarious thing that I did. Go me.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-3, N-38
+Related Nodes: N-10345
+Tags: relevance:context
+Investigative Direction: The thumbnail and the episode it accompanied.
+
+---
+
+**C-14361** Host Says Charlie Himself Described the Hamptons as Moral Blackmail
+
+Claim Timestamp: 00:36:06
+
+Claim: The host says she never said Charlie was blackmailed, that Charlie described what happened in the Hamptons as being morally blackmailed, and that clips exist of him saying so.
+
+Transcript Snippet: I never said that he was blackmailed. Charlie described what happened in the Hamptons as he was being morally blackmailed.
+
+Anchored Artifacts: A-3318.1
+Mentions: N-1, N-3
+Related Nodes: N-10016
+Supports: C-1258, C-1292, C-11966
+Tags: relevance:core
+Investigative Direction: The specific Kirk clips in which he uses the phrase 'morally blackmailed'.
+
+---
+
+**C-14362** Host Says Charlie Felt Morally Blackmailed Because of What Dillon Did
+
+Claim Timestamp: 00:36:06
+
+Claim: The host says Charlie felt he was being morally blackmailed because of what Seth Dillon did at the Hamptons meeting.
+
+Transcript Snippet: And he felt he was being morally blackmailed because of what Seth Dillon did.
+
+Anchored Artifacts: A-3318.1
+Mentions: N-1, N-38
+Related Nodes: N-10016, N-10345
+Supports: C-9425
+Tags: relevance:core
+Investigative Direction: Kirk's statements naming who pressed him in the Hamptons.
+
+---
+
+**C-14363** Host Says Dillon Earlier Called the Hamptons a Lovely Spirited Debate and Now Admits It Got Heated
+
+Claim Timestamp: 00:36:06
+
+Claim: The host says Seth Dillon's earlier perspective was that it was a nice, lovely, spirited debate and that he now admits it got heated.
+
+Transcript Snippet: So first, Seth Dillon's perspective was it was just a nice lovely spirited debate. Now he's changing this. And he admits that it got heated.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-38
+Related Nodes: N-10500, N-10016
+Supports: C-2344
+Tags: relevance:core
+Investigative Direction: Dillon's earlier public statements on the Hamptons meeting versus the hearing testimony.
+
+---
+
+**C-14364** Host Says Nobody Addresses That Netanyahu Called During the Hamptons Meeting
+
+Claim Timestamp: 00:36:06
+
+Claim: The host says that, even in their carefully orchestrated statements, no one wanted to touch the fact that Benjamin Netanyahu called, which she says she reported earlier.
+
+Transcript Snippet: No one even wanted to touch the fact that BB Netanyahu called, which I told you happened. Everything I said was true.
+
+Anchored Artifacts: 
+Mentions: N-36
+Related Nodes: N-10495, N-10018
+Supports: C-1129
+Tags: relevance:core
+Investigative Direction: Phone records or eyewitness accounts of a Netanyahu call during the August 2025 Hamptons retreat.
+
+---
+
+**C-14365** Host Says Charlie's Hamptons Stress Spilled Into His Conversation With Megyn Kelly
+
+Claim Timestamp: 00:36:06
+
+Claim: The host says Charlie Kirk was so stressed by what happened in the Hamptons that it spilled over into his conversation with Megyn Kelly, and she credits Kelly for telling the truth about how he felt.
+
+Transcript Snippet: He was so stressed about what happened in the Hamptons that spilled over into his conversation with Megyn Kelly.
+
+Anchored Artifacts: 
+Mentions: N-1, N-46
+Related Nodes: N-10016
+Supports: C-1162, C-9485
+Tags: relevance:core
+Investigative Direction: Megyn Kelly's account of her August 6 conversation with Kirk.
+
+---
+
+**C-14366** Host Credits Tucker Carlson for Telling the Truth About How Charlie Felt
+
+Claim Timestamp: 00:38:06
+
+Claim: The host says Tucker Carlson told the truth about how Charlie Kirk was feeling.
+
+Transcript Snippet: Kudos Tucker Carlson for telling the truth about how he was feeling.
+
+Anchored Artifacts: 
+Mentions: N-22, N-1
+Related Nodes: N-10016
+Tags: relevance:context
+Investigative Direction: Tucker Carlson's public descriptions of Kirk's state of mind before the shooting.
+
+---
+
+**C-14367** Host Says Participants Had Claimed Charlie Never Flinched on Israel
+
+Claim Timestamp: 00:38:06
+
+Claim: The host says the participants had told the public that Charlie never even flinched on Israel, whereas Dillon now says the discussion got heated.
+
+Transcript Snippet: oh no, they told us Charlie never even flinched on Israel. Now he's saying it got heated.
+
+Anchored Artifacts: A-1760.1
+Mentions: N-1, N-38
+Related Nodes: N-10500
+Tags: relevance:core
+Investigative Direction: Earlier statements by the participants about Kirk's position on Israel.
+
+---
+
+**C-14368** Host Says She Reported the Hamptons From Eyewitness Accounts
+
+Claim Timestamp: 00:38:06
+
+Claim: The host says she reported that the Hamptons meeting was heated and that Charlie was pressed based on eyewitness reports, and that Netanyahu called.
+
+Transcript Snippet: I said that factually because I had eyewitness reports of exactly what happened. And it is a fact. BB Netanyahu called.
+
+Anchored Artifacts: 
+Mentions: N-36
+Related Nodes: N-10016, N-10495
+Tags: relevance:core
+Investigative Direction: The eyewitnesses' identities and accounts.
+
+---
+
+**C-14369** Host Says Erika Denies Netanyahu Offered to Take TPUSA to the Next Level
+
+Claim Timestamp: 00:38:06
+
+Claim: The host says Erika Kirk says Netanyahu did not offer to take Turning Point to the next level.
+
+Transcript Snippet: Erika says he didn't offer to take Turning Point to the next level.
+
+Anchored Artifacts: 
+Mentions: N-2, N-36
+Related Nodes: N-10342, N-10446
+Tags: relevance:core
+Investigative Direction: Erika Kirk's own statement denying the offer, with date and venue.
+
+---
+
+**C-14370** Host Says Kolvet Said Netanyahu Did Offer to Take TPUSA to the Next Level
+
+Claim Timestamp: 00:39:07
+
+Claim: The host says Andrew Kolvet says Netanyahu did offer to take Turning Point to the next level, which she contrasts with Erika's denial.
+
+Transcript Snippet: Andrew Kolvet says that he did offer to take Turning Point to the to the next level.
+
+Anchored Artifacts: 
+Mentions: N-14, N-36
+Related Nodes: N-10342, N-10446
+Supports: C-5012
+Tags: relevance:core
+Investigative Direction: Kolvet's on-air statement and its date.
+
+---
+
+**C-14371** Host Says Charlie Did Not Want Netanyahu on His Radio Show
+
+Claim Timestamp: 00:39:07
+
+Claim: The host says Charlie Kirk did not even want Benjamin Netanyahu on his radio show because he was so done with Israel, and she challenges anyone to fact-check whether Netanyahu's office reached out for his podcast in July or August.
+
+Transcript Snippet: He didn't even want BB Netanyahu on his radio show. He was so done with Israel.
+
+Anchored Artifacts: 
+Mentions: N-1, N-36
+Related Nodes: N-10456
+Tags: relevance:core
+Investigative Direction: Booking correspondence between Netanyahu's office and Kirk's show.
+
+---
+
+**C-14372** Host Says It Was Seth Dillon, Not Josh Hammer, Who Got Fired Up in the Room
+
+Claim Timestamp: 00:40:02
+
+Claim: The host says the person who got fired up in the Hamptons room was Seth Dillon, not Josh Hammer.
+
+Transcript Snippet: Not Josh Hammer. I will say it wasn't Josh Hammer. I got all fired up in that room. Uh, it was it was Seth.
+
+Anchored Artifacts: 
+Mentions: N-55, N-38
+Related Nodes: N-10016
+Supports: C-9329
+Tags: relevance:core
+Investigative Direction: Attendee accounts distinguishing Dillon's and Hammer's roles.
+
+---
+
+**C-14373** Host Says Subscription Tiers Were Merged Into One Club Candace Tier
+
+Claim Timestamp: 00:43:33
+
+Claim: The host says her subscription tiers were merged into one Club Candace tier at $1.99 a month or $120 a year.
+
+Transcript Snippet: We've merged our subscription tiers into one Club Candace tier for $1.99 a month or you can do 120 for the entire year.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: The site's current pricing page.
+
+---
+
+**C-14374** Host Says 'Why Are You Gay?' Merch Is Available
+
+Claim Timestamp: 00:43:33
+
+Claim: The host says 'Why are you gay?' merch is now available on her website.
+
+Transcript Snippet: Why are you gay? merch is now available on the website.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: The merchandise page.
+
+---
+
+**C-14375** Host Says Her Relationship With Charlie Was Genuine and Like a Kid Brother
+
+Claim Timestamp: 00:44:19
+
+Claim: The host says her relationship with Charlie Kirk was genuine, that she knew who he was and his faults, and that he was like a kid brother to her.
+
+Transcript Snippet: my relationship with Charlie was genuine. I knew who he was. I knew who his faults were. Um, and he was just like a kid brother.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:context
+Investigative Direction: Contemporaneous texts and public statements about their relationship.
+
+---
+
+**C-14376** Host Says She Has Met Charlie's Parents a Handful of Times and Never a Sister
+
+Claim Timestamp: 00:45:37
+
+Claim: The host says she met Charlie Kirk's parents maybe a handful of times in the early Turning Point days and has never met a sister.
+
+Transcript Snippet: Like I have met them maybe a handful of times in the early Turning Point USA days. I know they went to a couple of events. I've never met a sister.
+
+Anchored Artifacts: A-1762.1
+Mentions: N-1, N-3
+Related Nodes: N-10000
+Supports: C-2350
+Tags: relevance:context
+Investigative Direction: Event records and photos of the host with Kirk family members.
+
+---
+
+**C-14377** Host Says Those Around Charlie Have a Potential Billion-Dollar Motive
+
+Claim Timestamp: 00:45:37
+
+Claim: The host says that questioning the people around Charlie Kirk, who she says potentially have a billion-dollar motive for him not to be there, is not unreasonable.
+
+Transcript Snippet: anybody telling you that questioning the people around uh who have a potentially a billion dollar motive for the person not to be there is asking you to be an idiot.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Financial and succession documents showing what changed at TPUSA after Kirk's death.
+
+---
+
+**C-14378** Host Says Any Upscrolled Account Under Her Name Is Not Hers
+
+Claim Timestamp: 00:47:30
+
+Claim: The host says she is not on Upscrolled and that someone made an account for her.
+
+Transcript Snippet: No, I'm not. I think someone made an account for me.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Platform verification status.
+
+---
+
+**C-14379** Host Reads That 'Street Light Interference' Is a Named Phenomenon
+
+Claim Timestamp: 00:49:21
+
+Claim: The host reads from a search result that the phenomenon of street lights turning off or flickering when a person approaches is called street light interference.
+
+Transcript Snippet: is literally called street light interference which is a phenomenon a phenomenon where people claim that causes street lights to turn off or flicker upon approach
+
+Anchored Artifacts: A-3319.1
+Related Nodes: N-11394
+Tags: relevance:tangential
+Investigative Direction: Scientific literature or reputable sources on the claimed phenomenon.
+
+---
+
+**C-14380** Host Says Both She and Erika Reported Lights Going Out Around Charlie
+
+Claim Timestamp: 00:49:21
+
+Claim: The host says that her account and Erika's account that street lights went out when Charlie ran are consistent and not something to make up.
+
+Transcript Snippet: Like, like Erika's telling the truth, I'm telling the truth. Like, that's just a random thing to make up that when Charlie ran street lights went out, it's just real.
+
+Anchored Artifacts: A-3319.1
+Mentions: N-1, N-2, N-3
+Related Nodes: N-11394
+Supports: C-2348
+Tags: relevance:context
+Investigative Direction: Erika Kirk's Megyn Kelly interview clip and the host's earlier recollection.
+
+---
+
+**C-14381** Host Says Charlie Spoke to Her About His Third Eye in 2018 and She Has It in Writing
+
+Claim Timestamp: 00:50:07
+
+Claim: The host says Charlie Kirk spoke to her about his third eye in 2018 and that she has this in writing.
+
+Transcript Snippet: yes, Charlie spoke to me about his third eye and I have that in writing.
+
+Anchored Artifacts: A-3320.1
+Mentions: N-1, N-3
+Related Nodes: N-11395
+Tags: relevance:context
+Investigative Direction: The 2018 message exchange between the host and Kirk.
+
+---
+
+**C-14382** Host Says the Government Is Trying to Poison Pineal Glands via Fluoride
+
+Claim Timestamp: 00:50:07
+
+Claim: The host says the government is trying to poison people's pineal glands and that looking at fluoride shows it is very real.
+
+Transcript Snippet: you have like people uh the government that is trying to poison your pineal glands. That's a fact. If you look at fluoride, all that is very real.
+
+Anchored Artifacts: 
+Related Nodes: N-11395
+Tags: relevance:tangential
+Investigative Direction: Peer-reviewed studies on fluoride and pineal gland calcification.
+
+---
+
+**C-14383** Host Guesses a Coach Introducing the Third-Eye Practice Led Charlie to Christian Faith
+
+Claim Timestamp: 00:50:47
+
+Claim: The host says her guess is that the practice Charlie described, linked to a coach she cannot identify, is what ultimately brought Charlie to the Christian faith.
+
+Transcript Snippet: my guess from what I discerned in the context of that conversation was that that sort of a thing which I think his coach or I don't I don't know who that guy was that he was working with is what ultimately actually bought brought Charlie to the Christian faith.
+
+Anchored Artifacts: A-3320.1
+Mentions: N-1, N-3
+Related Nodes: N-11395
+Tags: relevance:context
+Investigative Direction: The coach's identity and Kirk's account of his conversion.
+
+---
+
+**C-14384** Host Says Charlie Had a Bad Experience and She Will Show the Messages Another Time
+
+Claim Timestamp: 00:50:47
+
+Claim: The host says Charlie had a bad experience with the third-eye matter and that she can show the messages another time, maybe tomorrow.
+
+Transcript Snippet: I can show you those messages another time maybe tomorrow but he had a bad experience so there's that as well.
+
+Anchored Artifacts: A-3320.1
+Mentions: N-1, N-3
+Related Nodes: N-11395
+Tags: relevance:context
+Investigative Direction: The messages themselves, if later shown.
+
+---
+
+**C-14385** Host Asks Again for Tips on the Tucson Thomas Martin
+
+Claim Timestamp: 00:51:30
+
+Claim: Closing the episode, the host asks viewers who know anything about the Tucson Thomas Martin of the Southern Command, not Thomas G. Martin of Buffalo, to email the more-tips address.
+
+Transcript Snippet: Again, if you know anything about this particular Thomas Martin, not the Thomas G. Martin who works up in Buffalo in New York, but the Thomas Martin that has been working with the Southern Command, please send us an email more tips at candacewowens. com.
+
+Anchored Artifacts: A-3321.1
+Mentions: N-558, N-948
+Related Nodes: N-10497
+Tags: relevance:core
+Investigative Direction: Submitted tips on Thomas Martin.
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty (A-1758.1, A-1760.1, A-1760.2)**: Transcript renders "Seth Dillon" / "Dylan" – most likely Seth Dillon (Babylon Bee). Preserved as written. Probable transcription error.
-- **Name uncertainty (A-1760.2)**: Transcript renders "Carrie Peen Bowler" – most likely Carrie Prejean Bowler. Preserved as written. Probable transcription error.
-- **Name uncertainty (A-1750.1, A-1751.1)**: Transcript renders "Neielson" – most likely Nielsen. Preserved as written. Probable transcription error.
-- **Name uncertainty (A-1751.1)**: Transcript renders "Andrew Kovvat" / "Andrew Coat" – most likely Andrew Kolvet. Preserved as written. Probable transcription error.
+- **Name uncertainty (A-1760.2)**: Transcript renders "Carrie Prejean Bowler" – most likely Carrie Prejean Bowler. Preserved as written. Probable transcription error.
+- **Name uncertainty (A-1750.1, A-1751.1)**: Transcript renders "Nielsen" – most likely Nielsen. Preserved as written. Probable transcription error.
+- **Name uncertainty (A-1751.1)**: Transcript renders "Andrew Kolvet" / "Andrew Kolvet" – most likely Andrew Kolvet. Preserved as written. Probable transcription error.
 - **Artifact verbally referenced but not shown**: The Instagram purge (June 19, 126 posts deleted) and the June 18 White House visit are referenced but not displayed as new artifacts in this episode; treated as historical context only.
 - **Requires human verification**: N-558 Thomas Martin identification requires confirmation against multiple federal personnel directories; the 1985 article attribution and the husband-of-Tracy identification both warrant independent verification.
 - **Requires human verification**: N-559 Tracy's daughter and the Erika assistant claim rely on text message authentication that has not been independently confirmed.

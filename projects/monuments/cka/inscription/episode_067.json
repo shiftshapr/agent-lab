@@ -508,6 +508,95 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3309",
+      "family_ref": "A-3309",
+      "bundle_name": "Baalbek Baal Temple Relics Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3309.1",
+          "ref": "A-3309.1",
+          "description": "Images the host asks producer Skyler to pull up of Baal temple relics at Baalbek, Lebanon and another temple, showing the six-pointed star (on-screen images, described but not captured in the transcript)",
+          "related_claims": [
+            "C-14279"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-779"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:36:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3310",
+      "family_ref": "A-3310",
+      "bundle_name": "Charlie Kirk September 9 Schedule Graphic Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3310.1",
+          "ref": "A-3310.1",
+          "description": "On-screen schedule graphic the host builds for September 9, 2025 (Will Cain appearance, 3:54 p.m. chat text, 6:00 p.m. Zoom, dinner, kill-me text); the host says 'Let's go to September 9th first' (graphic not captured in the transcript)",
+          "related_claims": [
+            "C-14283",
+            "C-14284",
+            "C-14285"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:20",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3311",
+      "family_ref": "A-3311",
+      "bundle_name": "Charlie Kirk September 8 Schedule Graphic Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3311.1",
+          "ref": "A-3311.1",
+          "description": "On-screen schedule graphic for September 8, 2025 (10-11 a.m. show, Fox News hit, Ingraham Angle, Erika's 5:24 p.m. arrival, 6:06 p.m. dinner text, 8:00 p.m. Turek walk); the host says 'Let's go to the 8th, September 8th' (graphic not captured in the transcript)",
+          "related_claims": [
+            "C-14292",
+            "C-14293",
+            "C-14294",
+            "C-14295",
+            "C-14296",
+            "C-14297",
+            "C-14298"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1",
+            "N-2",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:44:45",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -1118,7 +1207,7 @@
       "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
-      "description": "Named by host as having traveled to meet the White House alongside Andrew Kolbatz; subject of neighbor sightings reported by host.",
+      "description": "Named by host as having traveled to meet the White House alongside Andrew Kolvet; subject of neighbor sightings reported by host.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1413,7 +1502,10 @@
       "type": "person",
       "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14256",
+        "C-14274"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1445,7 +1537,9 @@
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14263"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1461,7 +1555,9 @@
       "type": "person",
       "description": "Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14255"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1478,6 +1574,8 @@
       "description": "Josh Hammer (wave3 orphan mint).",
       "related_artifacts": [],
       "related_claims": [
+        "C-14281",
+        "C-14284",
         "C-2268",
         "C-2269"
       ],
@@ -1486,6 +1584,865 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-943",
+      "ref": "N-943",
+      "name": "Ulysses S. Grant",
+      "type": "person",
+      "description": "First named by the host at 00:08:11 in episode 67. Union general and US president whom the host says expelled Jews from his military district.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14243"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-944",
+      "ref": "N-944",
+      "name": "Peggy Siegal",
+      "type": "person",
+      "description": "First named by the host at 00:10:32 in episode 67. Publicist named in the compilation's Epstein email about an event guest list.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14248"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-945",
+      "ref": "N-945",
+      "name": "Alex Acosta",
+      "type": "person",
+      "description": "First named by the host at 00:28:29 in episode 67. Former US Attorney in Miami who approved Epstein's 2008 plea deal.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14266"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-946",
+      "ref": "N-946",
+      "name": "Will Cain",
+      "type": "person",
+      "description": "First named by the host at 00:41:12 in episode 67. Fox News host whose show Charlie Kirk appeared on September 9, 2025.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14283"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11389",
+      "ref": "N-11389",
+      "name": "Palantir Technologies",
+      "type": "organization",
+      "description": "Data-analytics and defense contractor tied to Peter Thiel; the host says Palantir staff were put onto Fort Huachuca in July.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14265"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11390",
+      "ref": "N-11390",
+      "name": "Kolvet and McCoy White House Meeting (Late January 2026)",
+      "type": "topic",
+      "description": "The host's claim that Andrew Kolvet, Mikey McCoy and his wife met the White House on the Thursday before this episode while the public was led to believe they were in Arizona.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14271",
+        "C-14272"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Israeli prime minister; named in the Epstein-email meeting claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14268"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "FBI director; the host says his interview ran on the Charlie Kirk Show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14272"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "The host says she is suing the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14309"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-167",
+      "ref": "N-167",
+      "name": "Rabbi Pesach Wolicki",
+      "type": "person",
+      "description": "Israel-based rabbi on the September 9 Zoom, whom the host calls 'Wolicki' (see Doubts).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14284"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-182",
+      "ref": "N-182",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "The host says she expects the Kushners in the Epstein files.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14268"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-230",
+      "ref": "N-230",
+      "name": "Harvey Weinstein",
+      "type": "person",
+      "description": "Named in the Jay-Z Epstein email context.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14257"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-302",
+      "ref": "N-302",
+      "name": "Miriam Adelson",
+      "type": "person",
+      "description": "Donor the host says is giving Trump $200 million.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14256"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-587",
+      "ref": "N-587",
+      "name": "Thomas Massie",
+      "type": "person",
+      "description": "Congressman demanding more release.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14270"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-619",
+      "ref": "N-619",
+      "name": "Dennis Prager",
+      "type": "person",
+      "description": "Named as Kirk's apparent Shabbat Shalom book partner.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14282"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-697",
+      "ref": "N-697",
+      "name": "Laura Ingraham",
+      "type": "person",
+      "description": "Host of The Ingraham Angle, which the host says Kirk appeared on from home.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14295"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-779",
+      "ref": "N-779",
+      "name": "Aleister Crowley",
+      "type": "person",
+      "description": "Occultist the host links to the Star of David.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14279"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-800",
+      "ref": "N-800",
+      "name": "Leo Frank",
+      "type": "person",
+      "description": "Lynched man in the Phagan case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14244"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-801",
+      "ref": "N-801",
+      "name": "Mary Phagan",
+      "type": "person",
+      "description": "Murder victim the host links to the ADL origin.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14244"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-825",
+      "ref": "N-825",
+      "name": "Ehud Barak",
+      "type": "person",
+      "description": "Former Israeli prime minister named in Epstein emails per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14268"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-853",
+      "ref": "N-853",
+      "name": "Jeffrey Moussaieff Masson",
+      "type": "person",
+      "description": "Author of The Assault on Truth, named by the host as 'Jeffrey Moussaieff Masson'.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14240"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization the host says Erika is bringing bad people into.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14306",
+        "C-14307"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10006",
+      "ref": "N-10006",
+      "name": "Fox News",
+      "type": "investigation_target",
+      "description": "Network of the Sept 8 Kirk segments.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14294",
+        "C-14295"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "FBI named in the pizza code word claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14251"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10015",
+      "ref": "N-10015",
+      "name": "Mossad",
+      "type": "investigation_target",
+      "description": "Israeli intelligence service in the Epstein discussion.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14254",
+        "C-14255"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10023",
+      "ref": "N-10023",
+      "name": "Epstein Israeli Intelligence Asset Allegation",
+      "type": "investigation_target",
+      "description": "Persistent target for the Mossad-Epstein claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14254",
+        "C-14268"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10075",
+      "ref": "N-10075",
+      "name": "White House",
+      "type": "investigation_target",
+      "description": "Venue of the alleged late-January meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14271"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10117",
+      "ref": "N-10117",
+      "name": "Jezebel/Etsy Hex on Charlie Kirk",
+      "type": "investigation_target",
+      "description": "The curse article and priest prayer account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14287",
+        "C-14296",
+        "C-14303"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10122",
+      "ref": "N-10122",
+      "name": "Jezebel",
+      "type": "investigation_target",
+      "description": "Publisher of the witch's curse article.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14287",
+        "C-14296"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10169",
+      "ref": "N-10169",
+      "name": "Josh Hammer Pre-Death Zoom Call Verification",
+      "type": "investigation_target",
+      "description": "Zoom call verification target.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14284"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10187",
+      "ref": "N-10187",
+      "name": "Josh Hammer Text Messages Context",
+      "type": "investigation_target",
+      "description": "Hammer's account of the screenshot.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14281"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10198",
+      "ref": "N-10198",
+      "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+      "type": "investigation_target",
+      "description": "Mikey McCoy's sightings versus Erika's.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14300"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10268",
+      "ref": "N-10268",
+      "name": "AmFest Speaker Removal Pattern",
+      "type": "investigation_target",
+      "description": "AmFest event context.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14275"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10270",
+      "ref": "N-10270",
+      "name": "Macron Defamation Lawsuit Delaware Venue Question",
+      "type": "investigation_target",
+      "description": "Macron lawsuit context.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14309"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Persistent target for the file releases.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14246",
+        "C-14247",
+        "C-14248",
+        "C-14249",
+        "C-14252",
+        "C-14253",
+        "C-14257",
+        "C-14260",
+        "C-14268",
+        "C-14269",
+        "C-14270",
+        "C-14273",
+        "C-14274"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 13,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10340",
+      "ref": "N-10340",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_target",
+      "description": "The kill-me message.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14289",
+        "C-14290",
+        "C-14304"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10397",
+      "ref": "N-10397",
+      "name": "Charlie Kirk Korea Trip / Pastor Yoon Connection",
+      "type": "investigation_target",
+      "description": "Kirk's Korea trip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14293"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10414",
+      "ref": "N-10414",
+      "name": "CERN Satantic Ritual Claim",
+      "type": "investigation_target",
+      "description": "CERN ritual claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14258"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10417",
+      "ref": "N-10417",
+      "name": "Fort Huachuca Erika Presence Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14276",
+        "C-14302"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10480",
+      "ref": "N-10480",
+      "name": "Nimrod / Gilgamesh Remains Extraction Question",
+      "type": "investigation_target",
+      "description": "Gilgamesh topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14277"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10493",
+      "ref": "N-10493",
+      "name": "Pierre / French Donor Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14307"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10694",
+      "ref": "N-10694",
+      "name": "Dan Flood Role and Behavior Assessment",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14305"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10701",
+      "ref": "N-10701",
+      "name": "Andrew Kolvet EEOB Presence / Kash Patel Connection",
+      "type": "investigation_target",
+      "description": "Kolvet and Patel context.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14271",
+        "C-14272"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11011",
+      "ref": "N-11011",
+      "name": "Macron Cease and Desist and Legal Timeline",
+      "type": "investigation_target",
+      "description": "Macron legal fight.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14309"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11029",
+      "ref": "N-11029",
+      "name": "CERN",
+      "type": "investigation_target",
+      "description": "CERN organization.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14258"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11130",
+      "ref": "N-11130",
+      "name": "B'nai B'rith",
+      "type": "investigation_target",
+      "description": "Organization named in the host's claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14243",
+        "C-14244",
+        "C-14250"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11153",
+      "ref": "N-11153",
+      "name": "Anti-Defamation League",
+      "type": "investigation_target",
+      "description": "ADL origin claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14244"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11156",
+      "ref": "N-11156",
+      "name": "Leo Frank Case and ADL Origin Claim",
+      "type": "investigation_target",
+      "description": "ADL origin claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14244"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11351",
+      "ref": "N-11351",
+      "name": "Salem Media Group",
+      "type": "investigation_target",
+      "description": "Network of the Charlie Kirk Show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14292"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -2067,6 +3024,1661 @@
         "N-3",
         "N-186"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14238",
+      "ref": "C-14238",
+      "label": "Host says the Moroccan flag was a six-pointed star before 1914",
+      "claim": "The host says the Star of David was on the flag of Morocco before 1914, and asks what that symbol 'actually symbolize[s]', answering 'occult mysticism'.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:02:40",
+      "investigative_direction": "Check flag histories of Morocco (the Alaouite-era flag carried a green seal of Solomon on red) and the symbol's attested uses.",
+      "transcript_snippet": "Well, how how could you have the Star of David once upon a time, what was it before 1914, that was the flag of Morocco?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14239",
+      "ref": "C-14239",
+      "label": "Host says Wilhelm Fliess molested his son Robert",
+      "claim": "The host says Wilhelm Fliess molested his own son Robert Fliess, and that Robert Fliess spoke about it when he got older.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:03:44",
+      "investigative_direction": "Check Robert Fliess's published psychoanalytic writings and biographies of Wilhelm Fliess for any statement that his father abused him.",
+      "transcript_snippet": "Wilhelm Fliess also um molested his own son, Robert Fliess. Robert Fliess spoke about that when he got older.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-525",
+        "N-50"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14240",
+      "ref": "C-14240",
+      "label": "Host says the Freud Archives director concluded Freud knew children were abused",
+      "claim": "The host says the book's author, a former director of the Freud Archives, read Freud's unpublished works and determined that Freud knew children were being abused in Vienna and created a psychology to gaslight them. She names the author at 00:05:31 as 'Jeffrey Moussaieff Masson'.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:03:44",
+      "investigative_direction": "Read Jeffrey Moussaieff Masson, The Assault on Truth, and the scholarly reception of its claims about Freud's seduction theory; check the author's actual role at the Freud Archives. Name as transcribed is 'Jeffrey Moussaieff Masson' (see Doubts).",
+      "transcript_snippet": "This book was written by a guy who was the director of the Freud Archives. He read Freud's unpublished works and determined that, yeah, Freud knew that the children were being abused in Vienna",
+      "supports_claim_refs": [
+        "C-7840",
+        "C-9576"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-50",
+        "N-853"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14241",
+      "ref": "C-14241",
+      "label": "Host says Freud was initiated into an occult club at age 36 and changed his mind",
+      "claim": "The host says that at age 36 Freud partook in a ritual that welcomed him into 'the club', after which he changed his mind and wrote to Wilhelm Fliess that he now understood.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:06:25",
+      "investigative_direction": "Check Freud's biography for the 1896-97 period and the letters to Fliess; there is no known documentation of an initiation ritual at 36.",
+      "transcript_snippet": "Then remarkably, at the age of 36, he partakes in a ritual during which he's welcomed into the club, and he changes his mind, and he writes to Wilhelm Fliess that he now understands.",
+      "supports_claim_refs": [
+        "C-2253"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-50",
+        "N-525"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14242",
+      "ref": "C-14242",
+      "label": "Host says the Khazars adopted Judaism in the 8th century",
+      "claim": "The host says the Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century, and that the people she opposes have worn the cloak of Judaism since the fall of the Khazarian empire.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:07:19",
+      "investigative_direction": "Compare with the historical record of Khazar conversion (the extent and date are debated) and with genetic studies on the supposed descent of Ashkenazi Jews; the host's wider link to present-day people is an unsupported sweeping claim.",
+      "transcript_snippet": "The Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14243",
+      "ref": "C-14243",
+      "label": "Host says Ulysses S. Grant expelled Jews from his military district",
+      "claim": "The host says Ulysses S. Grant 'notoriously expelled Jews from his military district, Tennessee, Mississippi, Kentucky', and that it had to do with what was being 'cooked up' at B'nai B'rith lodges.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11130"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:08:11",
+      "investigative_direction": "Check General Orders No. 11 (Dec. 1862), which Lincoln revoked; no source ties the order to B'nai B'rith lodge planning.",
+      "transcript_snippet": "Ulysses S. Grant notoriously expelled Jews from his military district, Tennessee, Mississippi, Kentucky.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-943"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14244",
+      "ref": "C-14244",
+      "label": "Host says B'nai B'rith became the ADL after the ritualistic murder of Mary Phagan",
+      "claim": "The host says B'nai B'rith subsequently became the ADL after 'the ritualistic murder of a Catholic girl named Mary Phagan', and that the pattern recurs on the same dates and holiday season throughout history.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11130",
+        "N-11153",
+        "N-11156"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:08:11",
+      "investigative_direction": "The ADL was founded by B'nai B'rith in 1913 after the Leo Frank trial; Phagan was a Protestant (not Catholic) factory worker. No evidence of a ritual murder exists; check the Frank case record and the 1986 Alonzo Mann/Georgia pardon history.",
+      "transcript_snippet": "Um that then subsequently became the ADL after the ritualistic murder of a Catholic girl named Mary Phagan.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-801",
+        "N-800"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14245",
+      "ref": "C-14245",
+      "label": "Host says women in Israel report ritual abuse in a forest by rabbis",
+      "claim": "The host says Israel is the nation-state 'having a bunch of women say that they were ritualistically abused in a forest by rabbis', and that this is happening in the Knesset right now.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:09:45",
+      "investigative_direction": "Find the Knesset committee hearing or Israeli media coverage the host is alluding to and the date; none is named on air.",
+      "transcript_snippet": "Israel, the same nation-state that is having a bunch of women say that they were ritualistically abused in a forest by rabbis. That's happening in the Knesset right now.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14246",
+      "ref": "C-14246",
+      "label": "Compilation says Rothschild family paid Epstein $25 million for algorithms",
+      "claim": "According to the compilation the host plays, the Rothschild family paid Epstein $25 million for certain algorithms.",
+      "anchored_artifacts": [
+        "A-1715.1"
+      ],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:32",
+      "investigative_direction": "Search the DOJ Epstein email release for a payment from a Rothschild entity and any algorithm or risk-model consulting arrangement.",
+      "transcript_snippet": "The Rothschild family paid Epstein $25 million for certain algorithms.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-526"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14247",
+      "ref": "C-14247",
+      "label": "Compilation says Epstein told Rothschilds a Ukraine overthrow would bring opportunities",
+      "claim": "According to the compilation, in a discussion with the Rothschild family Epstein said that if they overthrew the Ukrainian government there would be great opportunities.",
+      "anchored_artifacts": [
+        "A-1715.1"
+      ],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:32",
+      "investigative_direction": "Locate the underlying email (sender, recipient, date, context) in the DOJ release and read it unredacted.",
+      "transcript_snippet": "In a discussion with the Rothschild family, Epstein says if they overthrew the Ukrainian government, there would be great opportunities.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-526"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14248",
+      "ref": "C-14248",
+      "label": "Compilation says Epstein asked Peggy Siegal whether an event would be 100% Jewish",
+      "claim": "According to the compilation, on August 7, 2010 Peggy Siegal asked Epstein if an event was going to be 100% Jewish and he replied that there would be 'in abundance' of them but 'brilliant wasps from J. P. Morgan' too.",
+      "anchored_artifacts": [
+        "A-1715.1"
+      ],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:32",
+      "investigative_direction": "Locate the August 7, 2010 Siegal-Epstein exchange in the DOJ release and confirm the wording.",
+      "transcript_snippet": "While talking to Peggy Siegal August 7th of 2010, she asks if an event is going to be 100% Jewish. He says no, they'll have in abundance.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-944"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14249",
+      "ref": "C-14249",
+      "label": "Compilation says Epstein advised hiring only people who can prove they are Jewish",
+      "claim": "According to the compilation, in 2017 Epstein had a conversation saying that to hire the best people you must hire only Jews, and only those who can prove they are genetically Jewish.",
+      "anchored_artifacts": [
+        "A-1715.1"
+      ],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:37",
+      "investigative_direction": "Locate the 2017 email or message in the DOJ release and confirm sender, recipient and wording.",
+      "transcript_snippet": "In 2017, Epstein has a conversation talking about if you want to hire the best people, you have to hire only Jews. Only hire those who can prove they are genetically Jewish.",
+      "mentions_person_refs": [
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14250",
+      "ref": "C-14250",
+      "label": "Host says Ben Shapiro's and Bari Weiss's ancestors were B'nai B'rith",
+      "claim": "The host says Ben Shapiro's family ancestors and Bari Weiss were B'nai B'rith, and that this is why they differ from Dave Smith.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11130"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:13:04",
+      "investigative_direction": "No source is cited; check public genealogy of both people before treating as fact. Treat as a sweeping group claim.",
+      "transcript_snippet": "Uh Ben Shapiro's family ancestors, B'nai B'rith, okay? Bari Weiss, B'nai B'rith.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-97",
+        "N-282"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14251",
+      "ref": "C-14251",
+      "label": "Host says the FBI has acknowledged pizza as a code word among pedophiles",
+      "claim": "The host says the FBI has formally acknowledged that pizza is used as a code word among pedophiles.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:46",
+      "investigative_direction": "Locate the FBI document (a 2007 FBI Symbols and Logos guide lists cheese pizza/c.p.) and check its status and context.",
+      "transcript_snippet": "Well, I should let you know the FBI has already formally uh formally acknowledged that pizza is used as a code word amongst pedophiles.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14252",
+      "ref": "C-14252",
+      "label": "Host says Epstein emails contain 900-plus references to pizza",
+      "claim": "The host says there are 900-plus Epstein emails referring to pizza 'in real ways' and invites viewers to search them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:32",
+      "investigative_direction": "Run a text search of the DOJ Epstein release for 'pizza' and count and read the hits in context.",
+      "transcript_snippet": "What are we to make of these 900-plus emails referring to pizza in real ways?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14253",
+      "ref": "C-14253",
+      "label": "Host says Todd Blanche said they are sparing the public the videos",
+      "claim": "The host says Todd Blanche has already said they are 'sparing us the videos', and infers from this that there are graphic videos pertaining to death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:32",
+      "investigative_direction": "Find Blanche's actual public statement on withheld videos and compare its wording with the host's inference.",
+      "transcript_snippet": "Todd Blanche has already come out and said that they're sparing us the videos. So, we should just assume that there are graphic videos that pertain to death based on his statement.",
+      "supports_claim_refs": [
+        "C-2261"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-541",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14254",
+      "ref": "C-14254",
+      "label": "Host says Tucker Carlson asserted that Mossad ran Epstein",
+      "claim": "The host says Tucker Carlson asserted that it was Mossad running Jeffrey Epstein, which she says he did without evidence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10023",
+        "N-10015"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:29",
+      "investigative_direction": "Find the Tucker Carlson statement and date; identify what, if anything, he cited as evidence.",
+      "transcript_snippet": "Here is Tucker then asserting that it was actually Mossad. Again, without evidence that not not a shock.",
+      "contradicts_claim_refs": [
+        "C-2263"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-22",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14255",
+      "ref": "C-14255",
+      "label": "Clip has Shapiro saying Bennett told him Mossad has not spied on the US since Pollard",
+      "claim": "In the clip, Ben Shapiro says he followed up with Naftali Bennett, who told him that the Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987. (The existing claim C-2264 attributes this to a host-read Bennett statement; here it is Shapiro relaying Bennett.)",
+      "anchored_artifacts": [
+        "A-1717.1"
+      ],
+      "related_nodes": [
+        "N-10015"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:29",
+      "investigative_direction": "Locate the Shapiro segment and ask Bennett's office whether he said this; compare with documented post-1987 Israeli intelligence activity in the US.",
+      "transcript_snippet": "And in fact, I followed up with the former Prime Minister Naftali Bennett, and what he told me is the Mossad has not been active in the United States since the war against the United States since the Jonathan Pollard scandal of 1987",
+      "supports_claim_refs": [
+        "C-2264"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-530",
+        "N-278"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14256",
+      "ref": "C-14256",
+      "label": "Host says Miriam Adelson is giving Trump $200 million",
+      "claim": "The host says Miriam Adelson is giving Trump $200 million. (An earlier episode gave the figure as $100 million.)",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:38",
+      "investigative_direction": "Check FEC filings for Adelson contributions to Trump-aligned committees for the 2024 and 2026 cycles.",
+      "transcript_snippet": "Uh she's doing her thing and she's giving Trump $200 million, but it ain't got nothing to do with the facade.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-302",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14257",
+      "ref": "C-14257",
+      "label": "Host says Jay-Z appears in an Epstein email alongside Harvey Weinstein watching an assault",
+      "claim": "The host says Jay-Z was mentioned in an Epstein email in the context of being with Harvey Weinstein watching somebody be assaulted, but she is waiting for more information because some emails reportedly arrived later when people flooded the FBI with reports.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:28",
+      "investigative_direction": "Locate the email in the DOJ release, check its provenance (original Epstein file or later FBI tip) and whether Jay-Z is a named participant.",
+      "transcript_snippet": "But, the point is is Jay-Z was mentioned here and uh it was in the context of being with Harvey Weinstein, watching somebody be assaulted.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-529",
+        "N-230",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14258",
+      "ref": "C-14258",
+      "label": "Host says CERN responded to the recorded ritual by saying they were faking",
+      "claim": "The host says that when the CERN activity somebody caught on tape was shown, CERN 'came out and were like, Oh, we were just faking', which she compares to scientists dressing up and pretending to stab women before a statue of Shiva.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10414",
+        "N-11029"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:22:23",
+      "investigative_direction": "Find CERN's 2016 statement about the staged 'sacrifice' video (a spoof by CERN staff) and compare with the host's description.",
+      "transcript_snippet": "even when we showed you the CERN activity that was happening, which somebody caught on tape, they just came out and were like, \"Oh, we were just faking.\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14259",
+      "ref": "C-14259",
+      "label": "Host says Hollywood was founded by people imported from Vienna to destroy Christianity",
+      "claim": "The host says that, as discussed in her book club, people were imported from Vienna, where Freud was, and made directors, actors and actresses and tasked with destroying Christianity in Hollywood.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:24:02",
+      "investigative_direction": "Check film-history sources on the Vienna-born emigre directors and studio founders; no source supports a mandate to destroy Christianity.",
+      "transcript_snippet": "they quite literally imported people from Vienna, where Sigmund Freud was or his boys were. They imported them and they made them directors, they made them actors, they made them actresses",
+      "mentions_person_refs": [
+        "N-3",
+        "N-50"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14260",
+      "ref": "C-14260",
+      "label": "Host says Peter Thiel was thrown under the bus while others are protected",
+      "claim": "The host says the released files are protecting people who are still in power, which is why she found it 'super interesting' that Peter Thiel was thrown 'under the bus'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10474",
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:42",
+      "investigative_direction": "Compare which Thiel-Epstein emails were in the release versus withheld or redacted; identify who 'them' is.",
+      "transcript_snippet": "which is why it was super interesting to see them sort of throw Peter Thiel under the bus.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-527"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14261",
+      "ref": "C-14261",
+      "label": "Host says Peter Thiel funded JD Vance's career and likely arranged the Hillbilly Elegy deal",
+      "claim": "The host says everyone knows Peter Thiel effectively funded JD Vance's career and probably had something to do with Vance getting the Netflix deal for Hillbilly Elegy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10475"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:24",
+      "investigative_direction": "Check Vance's 2022 Senate campaign filings for Thiel contributions (about $15 million via Protect Ohio Values) and the production credits for the Hillbilly Elegy film.",
+      "transcript_snippet": "but everyone knows that Peter Thiel effectively funded J. D. Vance's career. He probably had something to do with J. D. Vance getting the deal with Netflix to do his book, Hillbilly Elegy, I think it was called.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-527",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14262",
+      "ref": "C-14262",
+      "label": "Host says Thiel's Epstein emails are the most consequential release for JD Vance",
+      "claim": "The host says the Thiel emails are 'plausibly the biggest scandal' and the most consequential thing in the releases she can see so far, and 'ain't good for J. D. Vance', who she says is likely to run in 2028.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10475",
+        "N-10474"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:24",
+      "investigative_direction": "Read the Thiel-Epstein email thread in the release and track Vance's or Thiel's responses.",
+      "transcript_snippet": "I think this is plausibly the biggest scandal to come out of the I I guess I should say the most consequential thing to come out of these emails that I can see right now.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-527",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14263",
+      "ref": "C-14263",
+      "label": "Thiel says he assumed Epstein's 2008 case was not as serious as alleged",
+      "claim": "In the Rogan clip, Thiel says he knew Epstein had been arrested in 2008 but assumed, since Epstein 'didn't go to jail that long', that the case was 'probably not as serious as alleged'.",
+      "anchored_artifacts": [
+        "A-1720.1"
+      ],
+      "related_nodes": [
+        "N-10474"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:02",
+      "investigative_direction": "Compare against Thiel's email record with Epstein and public details of the 2008 Florida plea deal.",
+      "transcript_snippet": "And so but you know, you you assume um he didn't go to jail for that long. >> Right. >> It was probably not not as serious as alleged.",
+      "mentions_person_refs": [
+        "N-527",
+        "N-9",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14264",
+      "ref": "C-14264",
+      "label": "Host says Thiel emailed and met Epstein frequently and invited him to the island",
+      "claim": "The host says that, contrary to Thiel's account on Rogan, he was emailing Epstein a lot, meeting up with him a lot, and inviting him to the island and for a weekend, and that the two were together all over New York.",
+      "anchored_artifacts": [
+        "A-1720.1"
+      ],
+      "related_nodes": [
+        "N-10474"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:43",
+      "investigative_direction": "Count and date the Thiel-Epstein emails in the release and identify which island is meant.",
+      "transcript_snippet": "he was emailing Jeffrey Epstein a lot, meeting up with him a lot, uh definitely sounds like they were very close, inviting him to the island",
+      "mentions_person_refs": [
+        "N-3",
+        "N-527",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14265",
+      "ref": "C-14265",
+      "label": "Host says Palantir staff were put onto Fort Huachuca in July",
+      "claim": "The host says that 'Palantir boys' were put onto Fort Huachuca airbase in July, and that she will 'get into that later'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11389",
+        "N-10472"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:28:29",
+      "investigative_direction": "Look for Army/Fort Huachuca Palantir contracts, delivery orders or press releases in June-July 2025 and the base's public affairs notices.",
+      "transcript_snippet": "He also had Palantir boys were put onto Fort Huachuca airbase in July. We'll get into that later.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-527"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14266",
+      "ref": "C-14266",
+      "label": "Host says Epstein's plea deal came via Acosta, who was told to leave Epstein alone",
+      "claim": "The host says Epstein got a plea deal through Alex Acosta, who was told to leave Epstein alone, 'if Acosta is to be believed'.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:28:29",
+      "investigative_direction": "Check Acosta's 2019 statements that he was told Epstein 'belonged to intelligence' and the 2020 DOJ OPR report.",
+      "transcript_snippet": "He caught a plea deal uh via Acosta who was told to leave Epstein alone. That's if if Acosta is to be believed.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9",
+        "N-945"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14267",
+      "ref": "C-14267",
+      "label": "Host predicts JD Vance will not make a statement on Peter Thiel",
+      "claim": "The host says JD Vance 'is going to have to answer for this' and that she does not think he will make a statement on Peter Thiel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10475"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:29:06",
+      "investigative_direction": "Monitor Vance's public statements after the January 2026 releases for any comment on Thiel.",
+      "transcript_snippet": "And I don't think he is going to make a statement on Peter Thiel. I I think that that that's going to be interesting.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-4",
+        "N-527"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14268",
+      "ref": "C-14268",
+      "label": "Host says Epstein emails show him setting up Netanyahu and Barak meetings and Maxwell jokes",
+      "claim": "The host says the emails show Epstein setting up meetings with Benjamin Netanyahu and Ehud Barak 'all over it', and making jokes about Robert Maxwell, and that she expects the Kushners to appear.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324",
+        "N-10023"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:29:06",
+      "investigative_direction": "Search the release for Netanyahu, Barak and Robert Maxwell references and read the surrounding threads.",
+      "transcript_snippet": "He's setting up meetings. Bibi Netanyahu, Ehud Barak's all over it. Um he's writing emails and making kind of some jokes which suggest like about Robert Maxwell",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9",
+        "N-36",
+        "N-825",
+        "N-48",
+        "N-182"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14269",
+      "ref": "C-14269",
+      "label": "Host says she expected the files to name people closer to solving the Kirk murder",
+      "claim": "The host says she expected to see names in the files that would bring her 'a little closer to solving the Charlie Kirk murder', and that the release is not near everything.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:47",
+      "investigative_direction": "Ask the host which names she expected and why; check any Epstein-release names that overlap with the Kirk investigation.",
+      "transcript_snippet": "I also expected to see uh some other names which would bring us a little closer to solving the Charlie Kirk murder, in my opinion.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14270",
+      "ref": "C-14270",
+      "label": "Host says Thomas Massie is demanding more release and unredacted files",
+      "claim": "The host says Thomas Massie is demanding more release and that the files should be unredacted, especially passages about killing people or ritual acts on children.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:29:47",
+      "investigative_direction": "Find Massie's statements, letters or floor actions on Epstein file release in late January 2026.",
+      "transcript_snippet": "that's why Thomas Massie is demanding for there to be more release. And also these should be unredacted.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-587"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14271",
+      "ref": "C-14271",
+      "label": "Host says Kolvet, McCoy and his wife met the White House last Thursday while the public was told Arizona",
+      "claim": "The host says that last week on Thursday Andrew Kolvet, 'alleged' Mikey McCoy and his wife went to meet with the White House while wanting the public to think they were in Arizona, and that she is looking for details of the meeting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11390",
+        "N-10075",
+        "N-10701"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:47",
+      "investigative_direction": "Request White House visitor logs for late January 2026 and ask TPUSA for the meeting purpose; check the names as transcribed (see Doubts).",
+      "transcript_snippet": "last week on Thursday, the timing of this is incredible, but Andrew Kolvet and alleged Mikey McCoy and his wife went down to meet with the White House. And they wanted the public to think that they were in Arizona.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14272",
+      "ref": "C-14272",
+      "label": "Host says a Kash Patel interview ran on the Charlie Kirk Show while they were at the White House",
+      "claim": "The host says TPUSA ran an interview with Kash Patel on Charlie Kirk's show, 'supposed to be live every day', and suggests it was pre-recorded while the team was meeting top brass at the White House.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11390",
+        "N-10701"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:47",
+      "investigative_direction": "Compare the air date and time of the Patel episode with the White House meeting date; check the show's published run-of-show.",
+      "transcript_snippet": "They ran this interview with Kash Patel on Charlie Kirk's show, which is supposed to be live every day. You can fake a live. You can make it a pre-record.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-69",
+        "N-1",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14273",
+      "ref": "C-14273",
+      "label": "Host says Epstein emails are heavily about pageantry and picking pageant winners",
+      "claim": "The host says there is a lot about pageantry in the emails and that it seems Epstein was practically picking girls to win pageants.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:29:47",
+      "investigative_direction": "Search the release for Miss Universe, Miss USA and pageant-related threads and the people named.",
+      "transcript_snippet": "There's a lot about um uh pageantry in these emails. It seems like Jeffrey Epstein was practically picking these girls to win pageants.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14274",
+      "ref": "C-14274",
+      "label": "Host says beauty queen names are redacted and Epstein trafficked through modeling organizations",
+      "claim": "The host says the names of some beauty queens have been conveniently redacted, that Epstein moved through industries like Victoria's Secret and Miss Universe with Jean-Luc Brunel, that the organizations were used for trafficking 'for a fact' via M Model Management, and that this is how Trump is caught up and 'rinsed out' of the files.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:59",
+      "investigative_direction": "Check Brunel's 2020 French investigation record and the unredacted release for pageant names.",
+      "transcript_snippet": "They were trafficking through these organizations. We know this for a fact, modeling organizations like M Model Management with Jean-Luc Brunel.",
+      "supports_claim_refs": [
+        "C-9888"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-535",
+        "N-9",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14275",
+      "ref": "C-14275",
+      "label": "Host says Erika wants JD Vance in the White House and pushed it at AmFest",
+      "claim": "The host says Erika Kirk made clear she first and foremost wants Vance in the White House, and that this was a bizarre push at AmFest right away.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:59",
+      "investigative_direction": "Review the AmFest (December 2025) program and Erika Kirk's remarks on 2028; the name 'Shady Vance' is as transcribed (see Doubts).",
+      "transcript_snippet": "she made it clear that uh she first and foremost wants Shady Vance in the White House. That was kind of a bizarre push at AmFest right away.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14276",
+      "ref": "C-14276",
+      "label": "Host says her team has major problems verifying Erika's Fort Huachuca alibi",
+      "claim": "The host says her team has been working to verify Erika Kirk's Fort Huachuca alibi and, after the sponsor break (00:32:06), that they are 'having some major problems'; the details are deferred.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10472",
+        "N-10417"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:59",
+      "investigative_direction": "Follow the later episodes in which the host details the alibi problems; obtain the alibi's claimed dates, location and witnesses.",
+      "transcript_snippet": "And we have been working to verify her Fort Huachuca alibi.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14277",
+      "ref": "C-14277",
+      "label": "Host says Hillary Clinton's WikiLeaks emails sought Gilgamesh's tomb before the Iraq invasion",
+      "claim": "The host says Hillary Clinton in the WikiLeaks emails was asking, a few days before the Iraq invasion, to locate Gilgamesh's tomb, and that Gilgamesh is suspected to be Nimrod.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10480"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:33:57",
+      "investigative_direction": "Search the WikiLeaks Clinton emails for 'Gilgamesh'; the Iraq invasion was in March 2003 and Clinton's State Dept. emails date from 2009 onward, so the timing is doubtful.",
+      "transcript_snippet": "Do you guys ever wonder why Hillary Clinton in those WikiLeaks emails was asking, a few days before we um invaded Iraq, she was trying to locate Gilgamesh's tomb.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-539"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14278",
+      "ref": "C-14278",
+      "label": "Host says the Star of David did not appear as a Jewish symbol until the 17th century",
+      "claim": "The host says the Kiddush cup is the traditional symbol of Judaism and that, per Wikipedia, the Star of David did not emerge until the 17th century, when a mystic who declared himself Messiah in 1666 adopted it from Solomon's seal.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:33:57",
+      "investigative_direction": "Check the Wikipedia article on the Star of David and scholarship (e.g. Scholem); the symbol is attested in Jewish contexts well before 1666 and Sabbatai Zevi's 1666 messianic claim is separate.",
+      "transcript_snippet": "The Kiddush cup, that is the traditional symbol of Judaism. It even says this on Wikipedia that this did not emerge until the 17th century, right, 1666 was when that guy who was a mystic declared himself to be the Messiah",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14279",
+      "ref": "C-14279",
+      "label": "Host says Baal temple relics at Baalbek show the Star of David also used by Aleister Crowley",
+      "claim": "The host shows relics at Baalbek, Lebanon and another Baal temple, says they show the 'star of David' which is also all over Aleister Crowley's books on ritualistic magic, and says the symbolism means everything to 'them'.",
+      "anchored_artifacts": [
+        "A-3309.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:36:08",
+      "investigative_direction": "Identify the images shown; check the Baalbek reliefs for hexagram iconography and its dating.",
+      "transcript_snippet": "Here you can see that star of David, which is also all over Aleister Crowley, not a Jew, all over his books on ritualistic magic",
+      "mentions_person_refs": [
+        "N-3",
+        "N-779"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14280",
+      "ref": "C-14280",
+      "label": "Host says Jacob Frank was long speculated to be funded by the Rothschilds and Epstein said he was",
+      "claim": "The host says the Frankist cult leader Jacob Frank was long speculated to have been funded by the Rothschild family, and that Jeffrey Epstein was 'according to him' funded by the Rothschilds, so the rumors are 'probably not rumors'.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:37:13",
+      "investigative_direction": "Check Epstein's email statements about the Rothschilds; Frank died in 1791 and the Rothschild bank was founded later, so the historical claim needs primary-source support.",
+      "transcript_snippet": "the Frankist cult long speculated that Jacob Frank was funded by the Rothschild's family. Well, we certainly know Jeffrey Epstein was according to him.",
+      "supports_claim_refs": [
+        "C-2258"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-9",
+        "N-526"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14281",
+      "ref": "C-14281",
+      "label": "Hammer says the screenshot showed Charlie upset a Jewish donor was withholding $2 million",
+      "claim": "In the clip, Josh Hammer says Candace Owens used a screenshot 'totally out of context' of Charlie Kirk being very upset that a Jewish donor was withholding his $2 million donation.",
+      "anchored_artifacts": [
+        "A-1721.1"
+      ],
+      "related_nodes": [
+        "N-10187"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:29",
+      "investigative_direction": "Compare Hammer's description with the full chat screenshot and its timestamps.",
+      "transcript_snippet": "Candace Owens seized on this totally out of context screenshot of Charlie Kirk being very upset that a Jewish donor was withholding his $2 million donation.",
+      "supports_claim_refs": [
+        "C-6533"
+      ],
+      "mentions_person_refs": [
+        "N-55",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14282",
+      "ref": "C-14282",
+      "label": "Host says Charlie was apparently writing a Shabbat Shalom book with Dennis Prager",
+      "claim": "The host says Charlie Kirk was 'apparently writing a Shabbat Shalom book' with Dennis Prager, and argues he would have called Prager instead of Hammer and a rabbi for messaging advice.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:20",
+      "investigative_direction": "Confirm the book project with Prager's or Kirk's publishers or public announcements.",
+      "transcript_snippet": "You're not going to just call like Dennis Prager, who you're apparently writing a Shabbat Shalom book with.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-619"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14283",
+      "ref": "C-14283",
+      "label": "Host says Charlie appeared on the Will Cain show from his TPUSA office on Sept 9",
+      "claim": "The host says she has confirmed Charlie Kirk made an appearance on the Will Cain show on September 9, 2025 from his TPUSA office.",
+      "anchored_artifacts": [
+        "A-3310.1"
+      ],
+      "related_nodes": [
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:41:12",
+      "investigative_direction": "Get the Fox News air log or video of the Will Cain Show appearance and its origin location.",
+      "transcript_snippet": "we know, which I've been able to confirm, that Charlie had an appearance in the Will Cain show. That's from his TPUSA office.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-946"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14284",
+      "ref": "C-14284",
+      "label": "Host says Charlie's chat text was sent at 3:54 p.m. and the Zoom call was at about 6:00 p.m.",
+      "claim": "The host places Charlie Kirk's 'leaving the pro-Israel cause' chat message at 3:54 p.m. Arizona time and, from Hammer's 'two hours later', the Zoom call with Hammer and an Israel-based rabbi at about 6:00 p.m.",
+      "anchored_artifacts": [
+        "A-3310.1"
+      ],
+      "related_nodes": [
+        "N-10473",
+        "N-10169"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:41:12",
+      "investigative_direction": "Obtain the chat screenshot metadata, Hammer's calendar or Zoom logs, and Kirk's phone records for September 9.",
+      "transcript_snippet": "Again, this is according to Josh Hammer cuz he says 2 hours later, which would have been 5:54 p. m. 6:00 p. m. Josh Hammer and this rabbi that literally is based in Israel have a Zoom call with Charlie.",
+      "supports_claim_refs": [
+        "C-2269"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-55",
+        "N-167"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14285",
+      "ref": "C-14285",
+      "label": "Host says Erika told her in person she was getting her nails done around this time",
+      "claim": "The host says Erika Kirk told her in person that she was getting her nails done around the time of the Sept 9 events she is listing (the referent of 'this time' is unclear in the transcript).",
+      "anchored_artifacts": [
+        "A-3310.1"
+      ],
+      "related_nodes": [
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:41:12",
+      "investigative_direction": "Find the nail salon or appointment record for September 9 and ask Erika which time she meant.",
+      "transcript_snippet": "That she was getting her nails done around this time. That's what she told me in person.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14286",
+      "ref": "C-14286",
+      "label": "Host says Shillman and other donors pulled their money on Sept 9 as Charlie messaged in the chat",
+      "claim": "The host says Charlie Kirk was getting messages from Bob Shillman and 'everyone's pulling out their money' on September 9, and that Shillman 'takes out his money'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:42:15",
+      "investigative_direction": "Get Shillman's donation records and the chat export; ask Shillman or TPUSA when funds were withdrawn.",
+      "transcript_snippet": "He's getting messages from Bob Shillman. Everyone's pulling out their money.",
+      "supports_claim_refs": [
+        "C-6533"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-98"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14287",
+      "ref": "C-14287",
+      "label": "Host says Erika told her Charlie had dinner with the family and a priest to pray over him",
+      "claim": "The host says that, according to Erika, Charlie Kirk had dinner on September 9 with Erika, the kids and a priest who prayed over him, and that Erika ties the prayer to the Jezebel article.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10117",
+        "N-10122",
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:42:15",
+      "investigative_direction": "Identify the priest and ask for his account; compare with the earlier Megyn Kelly report of a priest praying over the Kirks.",
+      "transcript_snippet": "And then we know that after that, he's going to have dinner with Erika and the kids and a priest to pray over him, according to Erika.",
+      "supports_claim_refs": [
+        "C-5553"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14288",
+      "ref": "C-14288",
+      "label": "Host says Charlie wrote in the chat and to others 'I want Candace back', confirmed Sept 9",
+      "claim": "The host says Charlie Kirk said in the chat 'I want Candace back. I want to have her' and was also texting other people that he wanted her back, and that she has confirmed both on September 9.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:00",
+      "investigative_direction": "Obtain the chat export and the recipients of the separate messages; ask the host for the names of the recipients.",
+      "transcript_snippet": "He's in the chat. He's saying, \"I want Candace back.\" Confirmed. This happened on September 9th now.",
+      "supports_claim_refs": [
+        "C-12043"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14289",
+      "ref": "C-14289",
+      "label": "Host says the Zoom call was followed by dinner with family and a priest, then the 'kill me' message",
+      "claim": "The host sequences September 9 as: the Zoom call ends, Charlie has dinner with his family and a priest (which she says she has confirmed), and then messages Dan Flood and Andrew Kolvet that 'they're going to kill me'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10473",
+        "N-10340"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:44",
+      "investigative_direction": "Establish the timestamp of the 'kill me' message and of the dinner from device records and witnesses.",
+      "transcript_snippet": "He ends this call. He has to have dinner in this hour, which I've confirmed he did have dinner with his family and the priest uh to pray over him, this priest at dinner.",
+      "supports_claim_refs": [
+        "C-9358"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-14",
+        "N-274"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14290",
+      "ref": "C-14290",
+      "label": "Host says Erika first said Charlie never texted Dan Flood and that she has his phone",
+      "claim": "The host says that Erika Kirk first said Charlie never texted Dan Flood and that she has his phone, after which the host answered that her source had access to Dan Flood's messages.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10470",
+        "N-10340"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:44",
+      "investigative_direction": "Find Erika Kirk's original public or private statement denying the message and the date it was made.",
+      "transcript_snippet": "First she said, \"Oh, he never texted D- he never texted Dan Flood or whatever. I have his phone.\"",
+      "supports_claim_refs": [
+        "C-12500"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-274",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14291",
+      "ref": "C-14291",
+      "label": "Host says Erika later said the message was on a Telegram chat that clears",
+      "claim": "The host says Erika then admitted Dan Flood received a message but said it was on a Telegram chat that Charlie had set to clear, so she never saw it, which the host calls a lie because her source said it was an iMessage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10470"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:44:45",
+      "investigative_direction": "Obtain Erika Kirk's statement about the Telegram chat and Dan Flood's device logs; compare with the source's iMessage claim.",
+      "transcript_snippet": "First she said it didn't exist, then she said maybe it did exist but actually it was on Telegram which Charlie had set to clear and that's why she never saw it.",
+      "supports_claim_refs": [
+        "C-2273"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-274"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14292",
+      "ref": "C-14292",
+      "label": "Host says Charlie hosted his show from his home studio on Sept 8 and the broadcast hour",
+      "claim": "The host says that on September 8, 2025 Charlie Kirk hosted a full hour of his show on the Salem Network from his home studio (10 to 11 a.m. Arizona time, per the previous paragraph).",
+      "anchored_artifacts": [
+        "A-3311.1"
+      ],
+      "related_nodes": [
+        "N-11351",
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:27",
+      "investigative_direction": "Get the Salem Network broadcast log and the episode's recorded origin metadata for September 8.",
+      "transcript_snippet": "Charlie appears from his home studio. Again, this is all reflecting Arizona local time. Um on the Charlie Kirk show, that's a full hour on the Salem Network.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14293",
+      "ref": "C-14293",
+      "label": "Host says Charlie had just returned from Korea late the night before Sept 8",
+      "claim": "The host says Charlie Kirk 'had just gotten back late late late the night before from Korea', so a nap on the afternoon of September 8 made sense.",
+      "anchored_artifacts": [
+        "A-3311.1"
+      ],
+      "related_nodes": [
+        "N-10397",
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:27",
+      "investigative_direction": "Get the flight records and landing time for Kirk's return from Korea; compare with the host's earlier statements about his Asia trip dates.",
+      "transcript_snippet": "Makes sense cuz he had just gotten back late late late the night before from Korea.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14294",
+      "ref": "C-14294",
+      "label": "Host says Erika told her she woke Charlie from a nap for his Fox News hit",
+      "claim": "The host says Erika told her she woke Charlie Kirk up from a nap for his Fox News hit on September 8, and adds that this is only according to Erika.",
+      "anchored_artifacts": [
+        "A-3311.1"
+      ],
+      "related_nodes": [
+        "N-10006",
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:27",
+      "investigative_direction": "Obtain the Fox News booking record and the time of the segment.",
+      "transcript_snippet": "She said she woke him up from a nap for his Fox News hit. Again, that's just according to Erika.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14295",
+      "ref": "C-14295",
+      "label": "Host says Charlie did The Ingraham Angle from his house because he was exhausted and jet-lagged",
+      "claim": "The host says Charlie Kirk appeared on 'the Ingraham Angle' on September 8, shot from his house instead of the office because he was exhausted and jet-lagged.",
+      "anchored_artifacts": [
+        "A-3311.1"
+      ],
+      "related_nodes": [
+        "N-10006",
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:27",
+      "investigative_direction": "Get the air date and origin location of the segment from Fox News.",
+      "transcript_snippet": "Then we know Charlie Kirk appears from his home studio on the Ingraham Angle. And the show he shoots it from his house.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-697"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14296",
+      "ref": "C-14296",
+      "label": "Host says the Jezebel witch's curse article appeared on Sept 8",
+      "claim": "The host says September 8, 2025 is also the day the Jezebel article about a witch's curse appeared.",
+      "anchored_artifacts": [
+        "A-3311.1"
+      ],
+      "related_nodes": [
+        "N-10117",
+        "N-10122"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:27",
+      "investigative_direction": "Check the Jezebel article's publication date and time; the priest dinner is placed on September 9 elsewhere.",
+      "transcript_snippet": "Uh this is also the day that the article appears in Jezebel regarding that witch's curse.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14297",
+      "ref": "C-14297",
+      "label": "Host says Erika's alibi had her just arriving home at 5:24 p.m. on Sept 8",
+      "claim": "The host says that at 5:24 p.m. on September 8 Erika Kirk's alibi to her was that she was just arriving back home, 'presumably with groceries'.",
+      "anchored_artifacts": [
+        "A-3311.1"
+      ],
+      "related_nodes": [
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:46:12",
+      "investigative_direction": "Obtain Erika's stated itinerary for September 8 and any receipts, parking or building access logs.",
+      "transcript_snippet": "At 5:24 p. m., Erika's alibi to me was that she was just arriving back home, presumably with groceries, but just arriving back home.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14298",
+      "ref": "C-14298",
+      "label": "Host says Erika texted Charlie that dinner was ready at 6:06 p.m. on Sept 8",
+      "claim": "The host says that at 6:06 p.m. on September 8 Erika texted Charlie that dinner was ready.",
+      "anchored_artifacts": [
+        "A-3311.1"
+      ],
+      "related_nodes": [
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:46:12",
+      "investigative_direction": "Obtain the text-message thread for September 8 and its timestamps.",
+      "transcript_snippet": "At 6:06 p. m., she texts to Charlie and says dinner is ready.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14299",
+      "ref": "C-14299",
+      "label": "Host says residents confirmed seeing Charlie and Erika eating on the 9th and Charlie in an elevator",
+      "claim": "The host says people in the Kirks' building confirmed that they saw Charlie, where they saw him, and 'Charlie and Erika eating on the 9th', including seeing Charlie in an elevator, and that everything about Charlie is adding up.",
+      "anchored_artifacts": [
+        "A-1726.2"
+      ],
+      "related_nodes": [
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:34",
+      "investigative_direction": "Obtain written, named statements from the residents and the building's security and elevator logs for September 8-10.",
+      "transcript_snippet": "they confirmed that they saw Charlie and where they saw Charlie and Erika eating on the 9th. Seeing Charlie in an elevator.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14300",
+      "ref": "C-14300",
+      "label": "Host says no one can confirm seeing Erika on Sept 10 while Mikey McCoy was seen",
+      "claim": "The host says people in the building know each other and have reported seeing Mikey McCoy on that date, but no one can confirm seeing Erika Kirk on September 10, and she says Erika was 'behaving super shady'.",
+      "anchored_artifacts": [
+        "A-1726.2"
+      ],
+      "related_nodes": [
+        "N-10471",
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:30",
+      "investigative_direction": "Canvass building residents and review lobby and garage camera footage for September 10, 2025.",
+      "transcript_snippet": "People have said I've seen Mikey McCoy on this date, blah blah blah. No one can confirm that they saw Erika on this date where she was behaving super shady",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14301",
+      "ref": "C-14301",
+      "label": "Host says no one has seen Erika collapse in the parking lot",
+      "claim": "The host says Erika Kirk says she collapsed in the parking lot (and screamed in a doctor's office) but no one has seen that, and nobody in her building has, adding that a doctor's office with people in it would have someone who heard a giant scream.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10471"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:30",
+      "investigative_direction": "Identify the doctor's office and parking lot Erika named and interview staff and patients present on September 10.",
+      "transcript_snippet": "She also says that she collapsed in the parking lot. No one thus far has seen that. Nobody in her building has a has and they all know each other.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14302",
+      "ref": "C-14302",
+      "label": "Host says Erika gave a straightforward Fort Huachuca alibi but pretended not to understand its instructions",
+      "claim": "The host says Erika Kirk gave her 'a very straightforward alibi' and then pretended not to understand the instructions of the alibi for Fort Huachuca.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10472",
+        "N-10417"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:30",
+      "investigative_direction": "Obtain the written alibi instructions and the host's exchange with Erika about Fort Huachuca.",
+      "transcript_snippet": "just giving me a very straightforward alibi and pretending like they didn't understand the instructions of this alibi for Fort Huachuca.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14303",
+      "ref": "C-14303",
+      "label": "Host says she thinks Charlie feared for his life over Israel pressure, not a Jezebel curse",
+      "claim": "The host says she thinks Charlie Kirk was fearful of his life, that it was not about a Jezebel curse, and that his day reveals stress from pressure on him regarding Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10117",
+        "N-10473"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:50:13",
+      "investigative_direction": "Treat as the host's stated belief; test it against the group-chat export and witnesses to Kirk's mood on September 9.",
+      "transcript_snippet": "I think Charlie was fearful of his life. I don't think it was about a Jezebel curse.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14304",
+      "ref": "C-14304",
+      "label": "Host says she believes 'they' in the kill-me text meant 'the Jews'",
+      "claim": "The host says it follows that Charlie Kirk sent Andrew Kolvet and Dan Flood a message that 'they, meaning the Jews, were going to kill him', which she says is what she believes happened.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10473",
+        "N-10340"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:50:53",
+      "investigative_direction": "Obtain the exact wording of the message from Kolvet or Flood; the host's reading of 'they' is her inference and not stated in the message as reported.",
+      "transcript_snippet": "It would it would follow that he then sent to Andrew Kolvet and Dan Flood that they, meaning the Jews, were going to kill him. That's what I believe.",
+      "supports_claim_refs": [
+        "C-6825"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-14",
+        "N-274"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14305",
+      "ref": "C-14305",
+      "label": "Host says Erika is lying to cover for Dan Flood",
+      "claim": "The host says that Erika Kirk is lying and covering for Dan Flood, that these are 'big lies', and that she will get to the bottom of why.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10694",
+        "N-10470"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:50:53",
+      "investigative_direction": "Compare Erika's statements about the message with Dan Flood's own account and device records.",
+      "transcript_snippet": "And as far as why Erika is lying and covering for Dan Flood, we're going to we're going to get to the bottom of that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-274"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14306",
+      "ref": "C-14306",
+      "label": "Host says Erika is welcoming bad people into TPUSA for money",
+      "claim": "The host says Erika Kirk is covering for bad people and is welcoming bad people into the fray of Turning Point USA for money.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:50:53",
+      "investigative_direction": "Ask the host to name the people and the payments; review TPUSA donor and hiring disclosures.",
+      "transcript_snippet": "She's covering up for bad people and doesn't make any sense. She's welcoming bad people into the fray of Turning Point USA for money.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14307",
+      "ref": "C-14307",
+      "label": "Host says a confirmed big money check with a Pierre came in alongside recent firings and Erika knows who Pierre is",
+      "claim": "The host says that, alongside the recent firings, there is a confirmed fact of a big money check coming in with a Pierre, and that Erika Kirk knows who Pierre is.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10493",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:49",
+      "investigative_direction": "Identify the donor and check TPUSA donation records and any press reports tying a Pierre to recent gifts.",
+      "transcript_snippet": "What I told you another confirmed fact with all of these recent firings a big money check coming in with a Pierre. Erika knows who Pierre is. I'll tell you that for free.",
+      "supports_claim_refs": [
+        "C-1815",
+        "C-6832"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14308",
+      "ref": "C-14308",
+      "label": "Host says the Club Candace tiers are merged into one at $11.99 a month or $120 a year",
+      "claim": "The host says the subscription tiers have been merged into one Club Candace tier for $11.99 a month or $120 a year.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:55:24",
+      "investigative_direction": "Check the Club Candace subscription page for the merged tier's price.",
+      "transcript_snippet": "We've also merged our subscription tiers into one Club Candace tier for $11.99 a month or $120 a year.",
+      "supports_claim_refs": [
+        "C-9999"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14309",
+      "ref": "C-14309",
+      "label": "Host says Brigitte Macron is suing her",
+      "claim": "The host says that Brigitte Macron is suing her 'for knowing' and describes this as the new tactic of suing for knowing they are devil worshipers.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11011",
+        "N-10270"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:00:34",
+      "investigative_direction": "Check the Delaware docket for Macron v. Owens and its current status.",
+      "transcript_snippet": "Just going to sue me for knowing it. So this is their new thing. We're just going to sue you for knowing.",
+      "confidence": "high",
+      "supports_claim_refs": [
+        "C-7885"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
     }
   ],
   "memes": [
@@ -2087,6 +4699,51 @@
           "tags": [
             "wave3",
             "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-332",
+      "ref": "M-332",
+      "canonical_term": "A Pastor, a Priest and a Rabbi",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 67,
+          "video_timestamp": "00:43:00",
+          "speaker_node_ref": "N-3",
+          "quote": "They want us to believe he he needed a rabbi, a priest, and a pastor in the last 24 hours of his life all helping him with talking points.",
+          "context": "Host mocks the account of Charlie's final-day advisers as the start of a joke.",
+          "confidence": "high",
+          "tags": [
+            "running-bit",
+            "timeline"
+          ]
+        },
+        {
+          "episode": 67,
+          "video_timestamp": "00:46:12",
+          "speaker_node_ref": "N-3",
+          "quote": "It literally sounds like the beginning of a joke. A pastor, a priest, and a rabbi walked into a bar.",
+          "context": "Host applies the joke format to Turek, the priest and the rabbi.",
+          "confidence": "high",
+          "tags": [
+            "running-bit",
+            "timeline"
+          ]
+        },
+        {
+          "episode": 67,
+          "video_timestamp": "00:50:13",
+          "speaker_node_ref": "N-3",
+          "quote": "I don't buy Charlie suddenly need advice from a pastor, a priest, and a rabbi.",
+          "context": "Host rejects the pastor, priest and rabbi explanation.",
+          "confidence": "high",
+          "tags": [
+            "running-bit",
+            "timeline"
           ]
         }
       ]

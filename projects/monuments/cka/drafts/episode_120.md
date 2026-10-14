@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: d8ac9dcae0b91121530d5b459c0a6eaf3c4d712dba6ebd3a7938c49f5956f34e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-737, N-738, N-11053, N-11056
+  - Tip-minted Nodes (supplement_2026-10): N-737, N-738, N-11056
   - Hole-minted Nodes (reintro-ep120): N-10684, N-10690, N-10692, N-10723
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5779–C-5852
-  - Reused Nodes Appearing: N-10678, N-10679, N-10680, N-10681, N-4, N-7, N-9, N-14, N-22, N-69, N-97, N-138, N-194, N-228, N-265, N-334, N-535, N-576, N-589, N-651, N-689, N-10000, N-10104, N-10107, N-10110, N-10239, N-10253, N-10319, N-10337, N-10341, N-10346, N-10350, N-10401, N-10447, N-10501, N-10532, N-10537, N-10581, N-10598, N-10651, N-10685, N-10687, N-10688, N-10705, N-10707, N-10729, N-10840, N-10897, N-10983, N-11054, N-10699, N-10703, N-11055
+  - Reused Nodes Appearing: N-10678, N-10679, N-10680, N-10681, N-4, N-7, N-9, N-14, N-22, N-69, N-97, N-138, N-194, N-228, N-265, N-334, N-535, N-576, N-589, N-651, N-689, N-10000, N-10104, N-10107, N-10110, N-10239, N-10253, N-10319, N-10337, N-10341, N-10346, N-10350, N-10401, N-10447, N-10501, N-10532, N-10537, N-10581, N-10598, N-10651, N-10685, N-10687, N-10688, N-10705, N-10707, N-10729, N-10840, N-10897, N-10983, N-11054, N-10699, N-10703, N-11055, N-11053
   - (see registers)
 
 # Episode 120 Analysis Record
@@ -442,7 +442,7 @@ Subject of the Tim Dillon parody reading and of the host's remark about his book
 
 **N-7** Frank Turek
 
-Rendered "Frank Cheric" and "Frank Turik" in the transcript; the host describes his hospital clothing change and his role in the necklace chain.
+Rendered "Frank Cheric" and "Frank Turek" in the transcript; the host describes his hospital clothing change and his role in the necklace chain.
 
 *Related: C-5782, C-5790*
 
@@ -2367,12 +2367,12 @@ Confidence: high
 
 - **Name uncertainty**: Transcript renders the signature as "Erica Lane" at A-2091.1 reference (39:46). This may be a transcription artifact, a nickname, or an alternative spelling. Host references it as "her new signature, Erica Lane, the one that's scratched out." Preserved verbatim.
 - **Name uncertainty**: Host uses both "Shawn Ryan" and "Shawn Ryan" for the same podcast host. Preserved both spellings as appearing.
-- **Name uncertainty**: Host uses both "Frank Cheric" and "Frank Turik" in reference to the same individual traveling with Charlie. Preserved both as appearing.
+- **Name uncertainty**: Host uses both "Frank Cheric" and "Frank Turek" in reference to the same individual traveling with Charlie. Preserved both as appearing.
 - **Artifact verbally referenced but not shown**: A-2092.1 (Judge Graff ruling) – host summarizes the ruling but the underlying court document is not displayed on screen.
 - **Witness not shown in episode**: Host reports that "another person has come forward and confirmed" Erika Frantzve's role as apartment contact at Next Model Management; this witness is not shown speaking on this episode. Not inscribed as artifact-backed claim.
 - **Claim failed admission test**: Host's interpretation of Erika Kirk's behavior as consistent with dissociative identity disorder – fails Rhetoric Removal Test; treated as interpretive commentary.
 - **Transcript ambiguity**: Chapter marker at [47:07] references "JD Vance's new book"; the played clip refers to a fictional work titled "God chose me by J. D. Vance." Whether this is a real published excerpt or entirely fabricated parody material should be verified.
-- **Possible transcription error**: "Frank Turik" likely intended as "Frank Turik" but may correspond to a person whose surname has been variously rendered across episodes.
+- **Possible transcription error**: "Frank Turek" likely intended as "Frank Turek" but may correspond to a person whose surname has been variously rendered across episodes.
 
 ---
 

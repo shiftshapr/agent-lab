@@ -1,0 +1,21 @@
+# Coverage notes, episode 11
+
+- Existing claims: 24 (C-1297 to C-1320). Beats judged covered by existing claims: about 18 (the bodycam clip, Brooksby's 8:02 p.m. call and suicide/SWAT statements, Lance, Mike Mitchell, Lyman's driveway, 12 homes, goth girls, local news and Instagram clips, Shane Lyman, the Nick home visit, Ian offer, the food-court photo, and the viewer comments). Beats added: 49 claims, 4 verbal-reference artifact families, 3 new topics, 1 new meme.
+- Missed beat 1: the vetted-source account of Robinson never confessing, being bewildered by the casings, and the rifle being a family heirloom (00:00:55 section).
+- Missed beat 2: the source's account that the family friend, a former detective, informed the family and offered peaceable surrender or SWAT, contradicting the media story (00:00:55 section).
+- Missed beat 3: Lyman on Alex Jones saying he does not believe the recovered 306 was ever on the roof, and relaying a story of the shooter leaving by car with an individual (Lyman section).
+- Missed beat 4: Nick's account that the food-court photo came from Tiffany Barker's mother, and Barker's Phil Lyman and GMA link (Lyman section).
+- Missed beat 5: the host's closing statements that her gut instinct is a military operation and that Kirk was miked after he sat down, which she calls a first (00:49:16 section).
+- Transcript note: the file has paragraph marks only at 00:00, 00:55, 10:22, 24:48, 35:51 and 49:16. Claim timestamps inside the 00:55 and 24:48 sections are interpolated by position between the section's mark and the next mark; claims in the comments section are stamped 00:49:16. The existing draft's claims about Lance, Mike Mitchell, Shane Lyman and Nick's home visit have no matching text in this transcript file, so the gaps (about 10:22 to 24:48 and 35:51 to 49:14) look lost from the transcript.
+- DIA beats: none. Nick's mention of sending the photo to 'our tips box' is a past description of a tip, not a request for tips or a bounty.
+- MISTRANSCRIPTION: "Canis Owens" -> "Candace Owens" (00:24:48 and 00:49:16; 'canis' is a real Latin word)
+- MISTRANSCRIPTION: "Kaye Mcaney" -> "Kayleigh McEnany" (Lyman section, about 00:28:00)
+- MISTRANSCRIPTION: "Loy Center" -> "Losee Center" (00:00:55 section; 'Loy' is a real surname)
+- MISTRANSCRIPTION: "Phil Lman" -> "Phil Lyman" (00:49:16)
+- MISTRANSCRIPTION: "involuntarily" -> "voluntarily" (Brooksby clip, 00:00:55 section; a real word, so only flagged as likely)
+- MISTRANSCRIPTION: "Miss Mike Mitchell" -> "Mike Mitchell" (00:49:16)
+- MISTRANSCRIPTION: "hurdle the cattle" -> "herd the cattle" (Bitsy comment, 00:49:16; 'hurdle' is a real word)
+- MISTRANSCRIPTION: "306" -> ".30-06" (Lyman clip, Lyman section; a common number)
+- MISTRANSCRIPTION: "ideiations" -> "ideations" (Brooksby clip, 00:00:55 section)
+- Doubt: 'Ian' in the host's call is named only as 'Ian' in the transcript; the existing draft already identifies him as Ian Carroll (N-131).
+- Doubt: the intro claim about 'a politician's name that keeps coming up' does not name Phil Lyman in the intro; the chapter heading names him.

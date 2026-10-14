@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-725, N-726, N-11035, N-11036, N-11037, N-11038, N-11039
-  - Hole-minted Nodes (reintro-ep060): N-10437, N-10548, N-10560, N-10664, N-10694
+  - Tip-minted Nodes (supplement_2026-10): N-725, N-726, N-11035, N-11036, N-11037, N-11039
+  - Hole-minted Nodes (reintro-ep060): N-10437, N-10548, N-10560, N-10664
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5485–C-5571
-  - New Nodes Introduced:  N-482, N-483, N-484, N-485, N-10430, N-10431
-  - Reused Nodes Appearing: N-17, N-22, N-27, N-36, N-37, N-46, N-82, N-118, N-194, N-274, N-527, N-10000, N-10004, N-10027, N-10117, N-10122, N-10131, N-10139, N-10149, N-10267, N-10340, N-10341, N-10342, N-10358, N-10367, N-10370, N-10417, N-10422, N-10426, N-10436
+  - New Nodes Introduced: N-482, N-483, N-484, N-485, N-10430, N-10431
+  - Reused Nodes Appearing: N-17, N-22, N-27, N-36, N-37, N-46, N-82, N-118, N-194, N-274, N-527, N-10000, N-10004, N-10027, N-10117, N-10122, N-10131, N-10139, N-10149, N-10267, N-10340, N-10341, N-10342, N-10358, N-10367, N-10370, N-10417, N-10422, N-10426, N-10436, N-10694, N-11038
   - (see registers), N-11
 
 ## 2. Executive Summary
@@ -1542,7 +1542,7 @@ Claim Timestamp: 00:25:26
 
 Claim: The host says it was Andrew Kolvet, the TPUSA spokesperson, who told her about the Netanyahu offer, and that it did not come from a random conspiracy theorist.
 
-Transcript Snippet: That was told to me from Andrew Kolbatz. Okay? That's not some random conspiracy theorist. Uh it's the spokesperson for Turning Point USA.
+Transcript Snippet: That was told to me from Andrew Kolvet. Okay? That's not some random conspiracy theorist. Uh it's the spokesperson for Turning Point USA.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14
@@ -1558,7 +1558,7 @@ Claim Timestamp: 00:25:26
 
 Claim: The host says the Netanyahu offer was confirmed by somebody in Andrew Kolvet's personal orbit, who said Kolvet told them he lost money when it happened, and she says she does not know what Netanyahu wanted in exchange.
 
-Transcript Snippet: Yes, that's been confirmed by somebody in you know Andrew Kolbatz's personal orbit who said that when that happened Andrew said he lost money.
+Transcript Snippet: Yes, that's been confirmed by somebody in you know Andrew Kolvet's personal orbit who said that when that happened Andrew said he lost money.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-36

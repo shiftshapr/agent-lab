@@ -11,11 +11,12 @@
 - **Transcript SHA-256**: 1cf9a9ae701ecafbe7c0d5f1b9d90036afd545839e429a950e86a6121537973e
 
 - **Episode Ledger Summary**:
+  - Claim Range (supplement_2026-10g): C-14946–C-14978
   - New Nodes Introduced: 
   
 (none – Wave 2 removed local spray rows; persons cited via Mentions)
   
-  - Reused Nodes Appearing: N-2
+  - Reused Nodes Appearing: N-2, N-22, N-30, N-60, N-158, N-10000, N-10002, N-10004, N-10026, N-10056, N-10118, N-10389, N-10415, N-10704, N-11014, N-11059
 
 # Episode Analysis – CKA 150
 
@@ -258,6 +259,32 @@ Confidence Level: High
 
 ---
 
+**A-3354** Charlie Kirk Founding Audio Montage Bundle
+
+**A-3354.1** Audio montage played by the host with Charlie Kirk describing starting the organization at 18 in Chicago, plus the escalator clip
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:09:00
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-14958, N-1*
+
+---
+
+**A-3355** Host Closing Clip Bundle
+
+**A-3355.1** Clip of the host speaking about Charlie Kirk, played after the final journal entry
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:27:35
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-14978, N-1, N-3*
+
+---
+
 ## IV. Node Register
 
 **N-1** Charlie Kirk
@@ -270,6 +297,169 @@ Episode Count: 1 (this episode)
 Investigative Pressure: High
 
 *Related: A-2351.1, A-2351.2, A-2351.3, A-2353.1, A-2356.1, A-2359.1, A-2359.2, A-2361.1, C-3406, C-3409, C-3416, C-3420, C-3421*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; the host says in her journal that the world was right about her.
+
+*Related: C-14959, C-14960, C-14961, C-14962, C-14963, C-14965*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-14946, C-14947, C-14948, C-14949, C-14951, C-14952, C-14957, C-14959, C-14960, C-14962, C-14963, C-14964, C-14965, C-14966, C-14967, C-14970, C-14971, C-14972, C-14973, C-14975, C-14976, C-14977, C-14978*
+
+---
+
+**N-30** George (Candace's husband)
+
+Host's husband, named as present when she said Charlie was betrayed and as the person she met on the 2018 London trip.
+
+*Related: C-14948, C-14952, C-14967*
+
+---
+
+**N-157** John Mappin
+
+Co-author with Arena of the open letter the host reads.
+
+*Related: C-14954, C-14955, C-14956, C-14957*
+
+---
+
+**N-158** Arena Mappin
+
+Co-author of the open letter; named with John Mappin as attending the memorial (the host also says Irina).
+
+*Related: C-14954, C-14955, C-14956, C-14957*
+
+---
+
+**N-27** Kanye West
+
+Subject of the Power song analysis and the Ghost Town concert; Ye.
+
+*Related: C-14966, C-14968, C-14969, C-14975*
+
+---
+
+**N-60** Laura Loomer
+
+Named in the host's sarcastic list of new friendships attributed to Charlie.
+
+*Related: C-14973*
+
+---
+
+**N-22** Tucker Carlson
+
+Named in the host's remark that Charlie did not favor him, so she is told.
+
+*Related: C-14973*
+
+---
+
+**N-10000** Turning Point USA
+
+Node Type: Organization
+Organization whose founding the Charlie Kirk montage describes.
+
+*Related: C-14958, C-14961*
+
+---
+
+**N-10002** Charlie Kirk Death and Memorial
+
+Node Type: Topic
+Existing topic reused for the broadcast, memorial and betrayal claims in this episode.
+
+*Related: C-14949, C-14950, C-14954, C-14972, C-14976, C-14978*
+
+---
+
+**N-10004** Kanye Tweet About Candace Owens
+
+Node Type: Topic
+Existing topic reused for the 2018 tweet timeline.
+
+*Related: C-14966*
+
+---
+
+**N-10026** Israel
+
+Node Type: Place
+Place reused for the 2018 trip and the pressure claim.
+
+*Related: C-14965, C-14966, C-14970*
+
+---
+
+**N-10056** Kirk-Israel Narrative Dispute
+
+Node Type: Topic
+Existing topic reused for the political pressure claim.
+
+*Related: C-14970*
+
+---
+
+**N-10118** Candace UK Premonition / Husband Meeting
+
+Node Type: Topic
+Existing topic reused for the unplanned London trip.
+
+*Related: C-14967*
+
+---
+
+**N-10389** Charlie Kirk Premonition Dreams
+
+Node Type: Topic
+Existing topic reused for Kirk's alleged dreams of his death.
+
+*Related: C-14948, C-14964*
+
+---
+
+**N-10415** Charlie Kirk Premonition Pattern
+
+Node Type: Topic
+Existing topic reused for the 2018 statements and the written choice.
+
+*Related: C-14964, C-14977*
+
+---
+
+**N-10704** Mossad "Truman Show" Analogy Application
+
+Node Type: Topic
+Existing topic reused for the Truman Show remark.
+
+*Related: C-14970*
+
+---
+
+**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim
+
+Node Type: Topic
+Existing topic reused for the sale of items in Kirk's name.
+
+*Related: C-14953, C-14974*
+
+---
+
+**N-11059** Russian-Speaking Turning Point Network
+
+Node Type: Topic
+Existing topic reused for the Russian speakers at the memorial.
+
+*Related: C-14954*
 
 ---
 
@@ -494,3 +684,543 @@ Related Nodes:
 Investigative Direction: Verify with the named team or any documentation of the meeting. *Possible transcription error: "Ace team" identity unclear.*
 
 ---
+
+**C-14946** Host Says Charlie Ignored Her Warning That Running 10 Miles Daily Would Injure His Back
+
+Claim Timestamp: 00:00:42
+
+Claim: The host says in her journal that she warned Charlie Kirk that running 10 miles every day was too much for his body and that he later injured his back.
+
+Transcript Snippet: When I told you that running 10 miles every single day was too much on your body, that you were going to get injured.
+
+Anchored Artifacts: A-2351.1
+Mentions: N-1, N-3
+Tags: relevance:tangential
+Investigative Direction: Look for contemporaneous accounts or Kirk's own public remarks about a back injury and his running routine.
+
+---
+
+**C-14947** Host Says Her Priest Told Her Charlie Is Likely in Purgatory
+
+Claim Timestamp: 00:02:11
+
+Claim: The host says her priest told her Charlie Kirk is likely in purgatory and that she needs to pray for his soul.
+
+Transcript Snippet: My priest tells me that you're likely in purgatory, and that I need to pray for your soul.
+
+Anchored Artifacts: A-2351.1
+Mentions: N-1, N-3
+Tags: relevance:tangential
+Investigative Direction: Personal religious statement; only the host can confirm what her priest said.
+
+---
+
+**C-14948** Host Says She Told George Charlie Was Betrayed Before His Death Was Confirmed
+
+Claim Timestamp: 00:02:11
+
+Claim: The host says that before it was confirmed Charlie Kirk had died, she told her husband George while they prayed in his office that they had betrayed him, and that George replied they did not know anything yet.
+
+Transcript Snippet: You know, before we even found out that you didn't make it, I knew you were betrayed.
+
+Anchored Artifacts: A-2351.1
+Mentions: N-1, N-3, N-30
+Related Nodes: N-10389
+Tags: relevance:core
+Investigative Direction: Ask the host and George for the date and circumstances of the conversation, and look for any message or call log from that morning.
+
+---
+
+**C-14949** Host Says She Senses They Wanted Her to See Charlie Die
+
+Claim Timestamp: 00:03:08
+
+Claim: The host says she has a deep sense that unnamed persons wanted her to see Charlie Kirk die and that the way the footage was broadcast globally makes no sense.
+
+Transcript Snippet: I have this deep sense that uh they wanted me to see you die.
+
+Anchored Artifacts: A-2351.1
+Mentions: N-1, N-3
+Related Nodes: N-10002
+Tags: relevance:core
+Investigative Direction: Ask the host what evidence supports the sense that the broadcast was intended; compare with platform moderation statements and viral spread timelines for the footage.
+
+---
+
+**C-14950** Host Says Platform Violence Filters Malfunctioned on September 10
+
+Claim Timestamp: 00:03:08
+
+Claim: The host says the footage of Charlie Kirk's shooting defied algorithmic norms and that Facebook, TikTok and X all failed at the same time to remove violent content they are built to catch.
+
+Transcript Snippet: Facebook, TikTok, X, suddenly all of their preventative measures that are designed to catch and remove violence from their platforms immediately malfunctioned that day.
+
+Anchored Artifacts: A-2351.1
+Mentions: N-1
+Related Nodes: N-10002
+Tags: relevance:core
+Investigative Direction: Request moderation logs, takedown timelines and policy statements from Meta, TikTok and X for the first hours after the shooting; check whether they published any account of the failure.
+
+---
+
+**C-14951** Host Says She Stopped Eating After Charlie's Death
+
+Claim Timestamp: 00:03:08
+
+Claim: The host says she had not had a spell of anorexia since her early twenties but stopped eating after Charlie Kirk's death and went to Wyoming to get away.
+
+Transcript Snippet: I had not had a spell of anorexia since my early 20s, but the very first thing I did was I just stopped eating.
+
+Anchored Artifacts: A-2351.1
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Personal health disclosure by the host about herself; no investigative record applies.
+
+---
+
+**C-14952** Host Says She Floated Witness Protection to George Before Accepting Charlie Was Dead
+
+Claim Timestamp: 00:03:59
+
+Claim: The host says she told George that perhaps Charlie Kirk was in witness protection and that George answered that he thought Charlie was dead.
+
+Transcript Snippet: Maybe he's in witness protection.
+
+Anchored Artifacts: A-2351.1
+Mentions: N-1, N-3, N-30
+Tags: relevance:tangential
+Investigative Direction: Personal recollection by the host; only the host and George can confirm it.
+
+---
+
+**C-14953** Host Says People Who Hated Charlie Sold T-Shirts and Mugs in His Name
+
+Claim Timestamp: 00:03:59
+
+Claim: The host says people in the political sphere who hated Charlie Kirk sold t-shirts and mugs in his name after his death.
+
+Transcript Snippet: people who hated you, selling t-shirts and mugs in your name.
+
+Anchored Artifacts: A-2351.1
+Mentions: N-1
+Related Nodes: N-11014
+Tags: relevance:context
+Investigative Direction: Identify the vendors and products the host means; compare with the existing TPUSA post-assassination merchandise revenue claim.
+
+---
+
+**C-14954** Host Says Arena and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers
+
+Claim Timestamp: 00:05:08
+
+Claim: The host says Arena and John Mappin attended Charlie Kirk's memorial and that Irina told her she had never seen so many people speaking her native Russian in Arizona.
+
+Transcript Snippet: she told me that she had never seen so many people speaking her native language, Russian, in Arizona.
+
+Anchored Artifacts: A-2351.1
+Mentions: N-157, N-158
+Related Nodes: N-11059, N-10002
+Tags: relevance:context
+Investigative Direction: Ask the Mappins for a first-hand account; compare with attendee lists, seating and credentialing for the Glendale memorial.
+
+---
+
+**C-14955** Mappin Letter Says Crime Scene Was Destroyed in Days
+
+Claim Timestamp: 00:06:08
+
+Claim: The host reads a letter from the Mappins saying a crime scene was apparently completely destroyed in days and that there is plenty of evidence that does not add up.
+
+Transcript Snippet: A crime scene apparently completely destroyed in days, and plenty of evidence that simply does not add up.
+
+Anchored Artifacts: A-2352.1
+Mentions: N-157, N-158
+Supports: C-12135
+Tags: relevance:core
+Investigative Direction: Obtain the published letter and compare the wording; check Utah Valley University scene-release and cleanup records.
+
+---
+
+**C-14956** Mappin Letter Says Convicting Anyone With Any Doubt Is Anathema to Christ
+
+Claim Timestamp: 00:06:08
+
+Claim: The host reads a letter saying that a conviction and death sentence while any shadow of doubt remains would be anathema to the teachings of Christ.
+
+Transcript Snippet: The very idea that someone could be convicted and could receive the death penalty when there remains even the slightest shadow of doubt
+
+Anchored Artifacts: A-2352.1
+Mentions: N-157, N-158
+Tags: relevance:context
+Investigative Direction: Obtain the published letter; record whether the signers name Tyler Robinson or the Utah prosecution directly.
+
+---
+
+**C-14957** Mappin Letter Says Candace Has an Army of Truth Seekers Worldwide
+
+Claim Timestamp: 00:07:20
+
+Claim: The host reads a letter saying she has an army of truth seekers worldwide helping her search and research, which the letter calls new and modern.
+
+Transcript Snippet: She has an army of truth seekers worldwide who are helping her in her search and research.
+
+Anchored Artifacts: A-2352.1
+Mentions: N-157, N-158, N-3
+Tags: relevance:context
+Investigative Direction: Obtain the published letter; the claim about volunteer contributors can be compared with the host's tip submissions.
+
+---
+
+**C-14958** Charlie Kirk Clip Says He Started the Organization at 18 and Was Raised in Chicago
+
+Claim Timestamp: 00:09:00
+
+Claim: An audio montage played by the host includes Charlie Kirk saying he started the organization at 18 years old and was born and raised in Chicago, Illinois.
+
+Transcript Snippet: So, I started this organization when I was 18 years old. Born and raised in Chicago, Illinois.
+
+Anchored Artifacts: A-3354.1
+Mentions: N-1
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Identify the source interview of the clip and its date; the facts match Kirk's public biography.
+
+---
+
+**C-14959** Host Says Investigating Erika Kirk Made Her Public Enemy Number One
+
+Claim Timestamp: 00:09:50
+
+Claim: The host says that since the first entry she has become public enemy number one for investigating Charlie Kirk's wife.
+
+Transcript Snippet: I'm also public enemy number one for investigating your wife.
+
+Anchored Artifacts: A-2351.2
+Mentions: N-2, N-3
+Tags: relevance:context
+Investigative Direction: Compile the public attacks on the host by TPUSA figures and allies after the investigation began.
+
+---
+
+**C-14960** Host Says the World Was Right About Erika Kirk
+
+Claim Timestamp: 00:09:50
+
+Claim: The host says she wanted the world to be wrong about Erika Kirk but that they were right, and that coming to terms with it broke her.
+
+Transcript Snippet: I really wanted the world to be wrong about her, but they they were not. They were right.
+
+Anchored Artifacts: A-2351.2
+Mentions: N-2, N-3
+Tags: relevance:core
+Investigative Direction: Ask the host what specific findings she means; map to the claims in the earlier registers.
+
+---
+
+**C-14961** Charlie Text Says Erika Putting Him in a Weird Cage Gave TPUSA Its Most Successful Months
+
+Claim Timestamp: 00:10:38
+
+Claim: The host reads a text she attributes to Charlie Kirk saying his future wife's treatment of him had given Turning Point the most successful few months ever and that it was an effort to impress the girl across the street, like the Tom Sawyer story.
+
+Transcript Snippet: In a funny way, her putting me in this weird cage and box actually has given to TPOSA the most successful few months ever.
+
+Anchored Artifacts: A-2353.1
+Mentions: N-1, N-2
+Related Nodes: N-10000
+Supports: C-3409
+Tags: relevance:core
+Investigative Direction: Obtain the full text thread and its date from the host; compare with TPUSA fundraising and growth reporting for the period.
+
+---
+
+**C-14962** Host Says a Wife Would Not Partner With Your Enemies
+
+Claim Timestamp: 00:10:38
+
+Claim: The host says she does not know what Erika Kirk is but knows that a wife would not partner with Charlie Kirk's enemies.
+
+Transcript Snippet: I know that a wife would not partner with your enemies.
+
+Anchored Artifacts: A-2351.2
+Mentions: N-1, N-2, N-3
+Tags: relevance:core
+Investigative Direction: Ask the host which partnerships she means; compare with Erika Kirk's dealings with people the host says opposed Charlie.
+
+---
+
+**C-14963** Host Says Erika Kirk Has Chased Power Her Whole Life
+
+Claim Timestamp: 00:10:38
+
+Claim: The host says Erika Kirk has been chasing power her entire life and that this is why she will never have the real kind.
+
+Transcript Snippet: I know now that her entire life she has been chasing power.
+
+Anchored Artifacts: A-2351.2
+Mentions: N-2, N-3
+Tags: relevance:context
+Investigative Direction: Opinion about Erika Kirk's character; check biographical record for the career moves the host may be citing.
+
+---
+
+**C-14964** Host Says Charlie Told Her They Would Not Kill Him but Would Make Stuff Up and Attack Family
+
+Claim Timestamp: 00:11:50
+
+Claim: The host says that in spring 2018 Charlie Kirk told her not to fear death, that she was sent to fix things, that they would not kill her, and that they would make things up and then try to attack family, which would not work either.
+
+Transcript Snippet: Don't fear death. Embrace it or else you'll lose your mind. You were sent here to fix things. They won't let it happen. They won't kill you.
+
+Anchored Artifacts: A-2351.3
+Mentions: N-1, N-3
+Related Nodes: N-10389, N-10415
+Supports: C-3421
+Tags: relevance:core
+Investigative Direction: Look for a contemporaneous message, recording or third party who heard Kirk say this in April or May 2018.
+
+---
+
+**C-14965** Host Says Erika Kirk Claims She First Saw Charlie at an Airport
+
+Claim Timestamp: 00:12:38
+
+Claim: The host says that Erika Kirk claims the first time she laid eyes on Charlie Kirk was at an airport but that she chose not to approach him and the host.
+
+Transcript Snippet: Your future wife claims that this is the first time she laid eyes on you at an airport, but she chose not to go up to us.
+
+Anchored Artifacts: A-2351.3
+Mentions: N-1, N-2, N-3
+Related Nodes: N-10026
+Tags: relevance:core
+Investigative Direction: Find Erika Kirk's own telling of how she first saw Charlie; locate the 2018 Israel trip dates and flight records.
+
+---
+
+**C-14966** Host Says She and Charlie Were in Israel About Two Weeks After Kanye's Tweet
+
+Claim Timestamp: 00:12:38
+
+Claim: The host says that about two weeks after Kanye West's tweet about her in 2018, she and Charlie Kirk flew out to see him and were standing in Israel.
+
+Transcript Snippet: We fly out to see him in just 2 weeks after that, you and I are standing in Israel.
+
+Anchored Artifacts: A-2351.3
+Mentions: N-1, N-3, N-27
+Related Nodes: N-10026, N-10004
+Tags: relevance:context
+Investigative Direction: Check dates of the Kanye tweet and the 2018 Israel trip with travel records or photographs.
+
+---
+
+**C-14967** Host Says Meeting George on an Unplanned London Trip Saved Her Life
+
+Claim Timestamp: 00:12:38
+
+Claim: The host says she felt a spiritual pull to be in London in 2018, that Charlie arranged a reason to go, and that meeting George on that unplanned trip saved her life.
+
+Transcript Snippet: Meeting George in unplanned trip saved my life.
+
+Anchored Artifacts: A-2351.3
+Mentions: N-1, N-3, N-30
+Related Nodes: N-10118
+Tags: relevance:context
+Investigative Direction: Compare with the host's earlier accounts of how she met George and the dates of the 2018 London trip.
+
+---
+
+**C-14968** Host Says Kanye Won the Grammy for Best Rap Album for My Beautiful Dark Twisted Fantasy
+
+Claim Timestamp: 00:15:44
+
+Claim: The host says Kanye West's album soared to number one and took home a Grammy for best rap album for My Beautiful Dark Twisted Fantasy.
+
+Transcript Snippet: He took home a Grammy for best rap album, for My Beautiful Dark Twisted Fan- Fantasy.
+
+Anchored Artifacts: A-2351.3
+Mentions: N-27
+Tags: relevance:tangential
+Investigative Direction: Verify against Grammy Awards records for the 2012 ceremony.
+
+---
+
+**C-14969** Host Says the Word Exciting in Power Turns Into Suicide
+
+Claim Timestamp: 00:16:44
+
+Claim: The host says that listening closely, the word exciting in the Power lyric turns into suicide, which she reads as Kanye West's struggle to stay true to himself.
+
+Transcript Snippet: the word exciting actually turns into suicide.
+
+Anchored Artifacts: A-2351.3
+Mentions: N-27
+Tags: relevance:tangential
+Investigative Direction: Interpretive reading of a song lyric; compare with the album's lyric sheet and audio.
+
+---
+
+**C-14970** Host Says the Whole World Knows Charlie Was Under Immense Political Pressure With Israel
+
+Claim Timestamp: 00:20:25
+
+Claim: The host says the whole world knows Charlie Kirk was under immense political pressure with Israel, that he was surrounded and that his life became the Truman Show.
+
+Transcript Snippet: the whole world knows that you were under immense political pressure with Israel.
+
+Anchored Artifacts: A-2351.3
+Mentions: N-1, N-3
+Related Nodes: N-10026, N-10056, N-10704
+Tags: relevance:core
+Investigative Direction: Compile documents or witnesses on pressure applied to Kirk about Israel; compare with the host's earlier claims about donor and Netanyahu contacts.
+
+---
+
+**C-14971** Host Says Charlie Never Let Her Drive and Set the Restroom Stops
+
+Claim Timestamp: 00:22:59
+
+Claim: The host says she will miss Charlie Kirk never letting her drive and mandating when they could stop for restroom breaks.
+
+Transcript Snippet: mandating when we were allowed to stop for restroom breaks.
+
+Anchored Artifacts: A-2359.1
+Mentions: N-1, N-3
+Tags: relevance:tangential
+Investigative Direction: Personal anecdote; the played clip is the only corroboration.
+
+---
+
+**C-14972** Host Relays a Person's Remark That Charlie Knew He Had Helped Create a Monster
+
+Claim Timestamp: 00:22:59
+
+Claim: The host relays what an unnamed person told her a couple of weeks earlier: that in the end Charlie Kirk knew he had accidentally helped create a monster and was unsure he had the strength to do what needed to be done, and she reflects on the pressure of his final days and a final decision.
+
+Transcript Snippet: in the end you knew that you had accidentally helped create a monster and you weren't sure if you had the strength to do what needed to be done
+
+Anchored Artifacts: A-2351.4
+Mentions: N-1, N-3
+Related Nodes: N-10002
+Tags: relevance:core
+Investigative Direction: Identify who made the remark and what monster and decision they meant; compare with the host's other accounts of Kirk's last days.
+
+---
+
+**C-14973** Host Says the New Narrative Portrays Charlie as Loomer's Friend and a Neocon Fan
+
+Claim Timestamp: 00:24:27
+
+Claim: The host says in a sarcastic passage that those reimagining Charlie Kirk's life now portray him as friends with Laura Loomer, as having loved neocons and as not favoring Tucker Carlson, while he hated her.
+
+Transcript Snippet: I think you're now friends with Laura Loomer, Charlie.
+
+Anchored Artifacts: A-2351.4
+Mentions: N-1, N-3, N-60, N-22
+Tags: relevance:context
+Investigative Direction: Compare with Kirk's recorded statements about Loomer, Carlson and the host, and with TPUSA's post-death messaging.
+
+---
+
+**C-14974** Host Says Personal Letters, the Tent and the Microphone Were Put Up for Sale
+
+Claim Timestamp: 00:24:27
+
+Claim: The host says there is not a piece of Charlie Kirk that they did not try to sell, citing personal letters he wrote, the tent he died beneath and the microphone he was holding.
+
+Transcript Snippet: the tent that you died beneath, the microphone that you were holding.
+
+Anchored Artifacts: A-2351.4
+Mentions: N-1
+Related Nodes: N-11014
+Tags: relevance:context
+Investigative Direction: Find listings, auctions or announcements of the letters, tent and microphone; identify who offered them.
+
+---
+
+**C-14975** Host Says Charlie Flew Her to Wyoming Where Ye Recorded His Album
+
+Claim Timestamp: 00:25:15
+
+Claim: The host says Charlie Kirk flew her out to Wyoming where Kanye West recorded the album that contains Ghost Town.
+
+Transcript Snippet: And you remember when you flew me out to Wyoming where he recorded that.
+
+Anchored Artifacts: A-2351.4
+Mentions: N-1, N-3, N-27
+Tags: relevance:context
+Investigative Direction: Check 2018 listening-event coverage and travel records for Kirk and the host in Wyoming.
+
+---
+
+**C-14976** Host Says the Whole World Knows Charlie's Assassination Was Ordered by the Most Powerful People
+
+Claim Timestamp: 00:26:04
+
+Claim: The host says the whole world knows that Charlie Kirk's assassination was ordered by the most powerful people in the world.
+
+Transcript Snippet: The whole world knows that your assassination was ordered by the most powerful people in the world.
+
+Anchored Artifacts: A-2351.4
+Mentions: N-1, N-3
+Related Nodes: N-10002
+Tags: relevance:core
+Investigative Direction: Ask the host to name the people and show the evidence; this is an assertion of fact with no document presented in the episode.
+
+---
+
+**C-14977** Host Says Charlie Wrote That He Would Have to Choose Between Loved Ones and His Mission
+
+Claim Timestamp: 00:26:51
+
+Claim: The host says Charlie Kirk wrote that he would have to choose between those he loves and his mission, and that his death came early and he did nothing to stop it.
+
+Transcript Snippet: You were right when you wrote that you would have to choose between those you love and your mission.
+
+Anchored Artifacts: A-2351.4
+Mentions: N-1, N-3
+Related Nodes: N-10415
+Tags: relevance:core
+Investigative Direction: Ask the host for the writing, its date and medium; compare with other Kirk messages the host has read.
+
+---
+
+**C-14978** Host Clip Says She Will Never Unsee the Footage of Charlie's Shooting
+
+Claim Timestamp: 00:27:35
+
+Claim: A clip of the host played at the end of the episode says Charlie Kirk was her best friend and brother, that she will never unsee the footage of what she saw, and that there is no Candace without Charlie.
+
+Transcript Snippet: And I will never unsee the footage of what I saw.
+
+Anchored Artifacts: A-3355.1
+Mentions: N-1, N-3
+Related Nodes: N-10002
+Tags: relevance:tangential
+Investigative Direction: Date the clip; compare with the host's first statements after the shooting.
+
+---
+
+## 6. Meme Register
+
+**M-350** (meme) Mad at You for Being Dead
+
+### Occurrence 1
+
+Video Timestamp: 00:00:42
+Speaker: N-3
+Quote: Dear Charlie, um I'm really mad at you for being dead.
+Context: Host opens the first journal entry with the running line.
+Tags: journal, grief, opener
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:22:59
+Speaker: N-3
+Quote: Yeah, I'm still pretty mad at you for being dead
+Context: Host closes the road trip passage by repeating the line from the opening entry.
+Tags: journal, grief, callback
+Confidence: high
+
+---
+
