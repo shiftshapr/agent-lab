@@ -289,6 +289,197 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3050",
+      "family_ref": "A-3050",
+      "bundle_name": "Charlie Kirk Night-Before Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3050.1",
+          "ref": "A-3050.1",
+          "description": "Host verbal reference to Charlie Kirk's group chat message that he was abandoning the pro-Israel cause, and his texts to TPUSA staff about AmFest and donors (messages not shown)",
+          "related_claims": [
+            "C-10065",
+            "C-10066",
+            "C-10067",
+            "C-10069"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:04:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3050.2",
+          "ref": "A-3050.2",
+          "description": "Host verbal reference to Charlie Kirk's text messages to Dan Flood and Andrew Kolvet saying 'they are going to kill me' (not shown)",
+          "related_claims": [
+            "C-10072",
+            "C-10073"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:07:36",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3050.3",
+          "ref": "A-3050.3",
+          "description": "Host verbal reference to the text messages Charlie sent the night before, which Erika first denied, then placed on Telegram, and which the host says went by iMessage on Flood's phone (not shown)",
+          "related_claims": [
+            "C-10080",
+            "C-10081",
+            "C-10082"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:13:57",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3051",
+      "family_ref": "A-3051",
+      "bundle_name": "Host Text Messages With Charlie About 2018 Dating Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3051.1",
+          "ref": "A-3051.1",
+          "description": "Host verbal reference to her own text messages with Charlie Kirk dating the start of the Erika relationship to September 2018 (not shown)",
+          "related_claims": [
+            "C-10105",
+            "C-10106"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:29:35",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3052",
+      "family_ref": "A-3052",
+      "bundle_name": "Wayback Machine Corcoran Listing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3052.1",
+          "ref": "A-3052.1",
+          "description": "Host verbal reference to a Wayback Machine capture showing a single listing for Erika Kirk at Corcoran (not shown)",
+          "related_claims": [
+            "C-10114"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:32:33",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3053",
+      "family_ref": "A-3053",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3053.1",
+          "ref": "A-3053.1",
+          "description": "Host verbal call for tips from anyone who attended school with Erika Kirk: 'More tips at candaceowens. com.'",
+          "related_claims": [
+            "C-10119"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:36:20",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3054",
+      "family_ref": "A-3054",
+      "bundle_name": "The Perch Fallout Fund GoFundMe Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3054.1",
+          "ref": "A-3054.1",
+          "description": "Host verbal reference to the GoFundMe 'The Perch Fallout Fund' for fired TPUSA employees (not shown)",
+          "related_claims": [
+            "C-10126"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:38:16",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3055",
+      "family_ref": "A-3055",
+      "bundle_name": "Gaza Video on Host's X Feed Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3055.1",
+          "ref": "A-3055.1",
+          "description": "Host verbal reference to a video of Gaza she says she posted on X (host asks the control room to run it; not clearly shown)",
+          "related_claims": [
+            "C-10133"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00–00:00:01",
+          "video_timestamp": "00:43:56",
+          "discovery_timestamp": "00:00:00–00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -680,8 +871,95 @@
       "name": "Candace Owens",
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-3050.1",
+        "A-3050.2",
+        "A-3050.3",
+        "A-3051.1",
+        "A-3052.1",
+        "A-3053.1",
+        "A-3054.1",
+        "A-3055.1"
+      ],
+      "related_claims": [
+        "C-10059",
+        "C-10060",
+        "C-10061",
+        "C-10062",
+        "C-10063",
+        "C-10064",
+        "C-10065",
+        "C-10066",
+        "C-10067",
+        "C-10068",
+        "C-10069",
+        "C-10070",
+        "C-10071",
+        "C-10072",
+        "C-10073",
+        "C-10074",
+        "C-10075",
+        "C-10076",
+        "C-10077",
+        "C-10078",
+        "C-10079",
+        "C-10080",
+        "C-10081",
+        "C-10082",
+        "C-10083",
+        "C-10084",
+        "C-10085",
+        "C-10086",
+        "C-10087",
+        "C-10088",
+        "C-10089",
+        "C-10090",
+        "C-10091",
+        "C-10092",
+        "C-10093",
+        "C-10094",
+        "C-10095",
+        "C-10096",
+        "C-10097",
+        "C-10098",
+        "C-10099",
+        "C-10100",
+        "C-10101",
+        "C-10104",
+        "C-10105",
+        "C-10106",
+        "C-10107",
+        "C-10108",
+        "C-10109",
+        "C-10110",
+        "C-10111",
+        "C-10112",
+        "C-10113",
+        "C-10114",
+        "C-10115",
+        "C-10116",
+        "C-10117",
+        "C-10118",
+        "C-10119",
+        "C-10120",
+        "C-10121",
+        "C-10122",
+        "C-10123",
+        "C-10124",
+        "C-10125",
+        "C-10126",
+        "C-10127",
+        "C-10128",
+        "C-10129",
+        "C-10130",
+        "C-10131",
+        "C-10132",
+        "C-10133",
+        "C-10134",
+        "C-10135",
+        "C-10136",
+        "C-10137"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -713,7 +991,9 @@
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-2354"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -744,7 +1024,13 @@
       "type": "person",
       "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10059",
+        "C-10060",
+        "C-10061",
+        "C-10062",
+        "C-10064"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -760,7 +1046,11 @@
       "type": "person",
       "description": "Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-10062",
+        "C-10064",
+        "C-10075"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -783,6 +1073,1128 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11245",
+      "ref": "N-11245",
+      "name": "Netanyahu Erika Kirk Shapiro Palm Beach Filming Cancellation",
+      "type": "topic",
+      "description": "Host-alleged joint filming of Benjamin Netanyahu, Erika Kirk and Ben Shapiro scheduled in Palm Beach weeks before this episode, possibly for the Super Bowl, which was canceled at the last second.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10091"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11246",
+      "ref": "N-11246",
+      "name": "Proclaim Streetwear",
+      "type": "organization",
+      "description": "Christian-branded clothing brand the host says she understood Erika Kirk was working on in New York around 2018, for which the host says a trademark was filed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10110",
+        "C-10112",
+        "C-10113"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11247",
+      "ref": "N-11247",
+      "name": "Regis University",
+      "type": "organization",
+      "description": "University the host lists among those Erika Kirk is said to have attended.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10117"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11248",
+      "ref": "N-11248",
+      "name": "Arizona State University",
+      "type": "organization",
+      "description": "University the host lists among those Erika Kirk is said to have attended.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10117"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11249",
+      "ref": "N-11249",
+      "name": "The Perch Fallout Fund",
+      "type": "topic",
+      "description": "GoFundMe the host promotes to support fired TPUSA employees.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10126"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10059",
+        "C-10060",
+        "C-10061",
+        "C-10062",
+        "C-10063",
+        "C-10070",
+        "C-10073",
+        "C-10076",
+        "C-10077",
+        "C-10078",
+        "C-10080",
+        "C-10081",
+        "C-10082",
+        "C-10083",
+        "C-10084",
+        "C-10085",
+        "C-10086",
+        "C-10088",
+        "C-10089",
+        "C-10091",
+        "C-10092",
+        "C-10097",
+        "C-10102",
+        "C-10103",
+        "C-10104",
+        "C-10106",
+        "C-10107",
+        "C-10108",
+        "C-10109",
+        "C-10110",
+        "C-10111",
+        "C-10112",
+        "C-10113",
+        "C-10114",
+        "C-10115",
+        "C-10116",
+        "C-10117",
+        "C-10118",
+        "C-10119",
+        "C-10120"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 40,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-38",
+      "ref": "N-38",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10130"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10094"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10069",
+        "C-10070",
+        "C-10071"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-60",
+      "ref": "N-60",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10131"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10097"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10085",
+        "C-10089",
+        "C-10091"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10137"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10075"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-167",
+      "ref": "N-167",
+      "name": "Rabbi Pesach Wolicki",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10068",
+        "C-10069",
+        "C-10071"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10060",
+        "C-10075"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-221",
+      "ref": "N-221",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10060"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-276",
+      "ref": "N-276",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10072",
+        "C-10082"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-284",
+      "ref": "N-284",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10084",
+        "C-10116"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-566",
+      "ref": "N-566",
+      "name": "Carrie Prejean Bowler",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10130",
+        "C-10131",
+        "C-10132"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-722",
+      "ref": "N-722",
+      "name": "John F. Kennedy",
+      "type": "person",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10087",
+        "C-10088"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10066",
+        "C-10093",
+        "C-10095",
+        "C-10101",
+        "C-10104",
+        "C-10107",
+        "C-10121",
+        "C-10122",
+        "C-10123",
+        "C-10124",
+        "C-10126",
+        "C-10127",
+        "C-10128"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 13,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10063",
+        "C-10064"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10099",
+        "C-10135"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10027",
+      "ref": "N-10027",
+      "name": "The Hamptons",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10083"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10063",
+      "ref": "N-10063",
+      "name": "Gaza",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10133"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10085",
+      "ref": "N-10085",
+      "name": "Exit Wound / Bullet Trajectory Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10078"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10117",
+      "ref": "N-10117",
+      "name": "Jezebel/Etsy Hex on Charlie Kirk",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10073",
+        "C-10074"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10148",
+      "ref": "N-10148",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10065",
+        "C-10067",
+        "C-10092",
+        "C-10100",
+        "C-10129"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10169",
+      "ref": "N-10169",
+      "name": "Josh Hammer Pre-Death Zoom Call Verification",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10068",
+        "C-10071"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10180",
+      "ref": "N-10180",
+      "name": "Bullet Trajectory and Caliber Verification",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10078"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10187",
+      "ref": "N-10187",
+      "name": "Josh Hammer Text Messages Context",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10069",
+        "C-10070"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10268",
+      "ref": "N-10268",
+      "name": "AmFest Speaker Removal Pattern",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10066",
+        "C-10085"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10334",
+      "ref": "N-10334",
+      "name": "CBS Bari Weiss Town Hall Production Integrity",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10084"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10340",
+      "ref": "N-10340",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10072",
+        "C-10080",
+        "C-10081",
+        "C-10082"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10345",
+      "ref": "N-10345",
+      "name": "Hampton Retreat Seth Dillon Confrontation",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10130"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10374",
+      "ref": "N-10374",
+      "name": "Erika Kirk Pre-Charlie Dating History Verification",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10116"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10386",
+      "ref": "N-10386",
+      "name": "Ben Shapiro Hostile Takeover Pattern",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10089"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10406",
+      "ref": "N-10406",
+      "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10099"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10419",
+      "ref": "N-10419",
+      "name": "Erika China Residence Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10120"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10428",
+      "ref": "N-10428",
+      "name": "Erica Kirk China Timeline Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10120"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10446",
+      "ref": "N-10446",
+      "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10083"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10447",
+      "ref": "N-10447",
+      "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10076",
+        "C-10077",
+        "C-10079"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10456",
+      "ref": "N-10456",
+      "name": "Charlie Kirk BB Netanyahu Show Refusal",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10090"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10470",
+      "ref": "N-10470",
+      "name": "Dan Flood Message Format Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10082"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10482",
+      "ref": "N-10482",
+      "name": "Mikey McCoy Phone Call Sequence",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10060"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10493",
+      "ref": "N-10493",
+      "name": "Pierre / French Donor Investigation",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10127"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10495",
+      "ref": "N-10495",
+      "name": "BB Netanyahu Hamptons Dinner Allegation",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10083"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10498",
+      "ref": "N-10498",
+      "name": "Tracy's Daughter Erika Assistant Status Verification",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10062",
+        "C-10075"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10517",
+      "ref": "N-10517",
+      "name": "Erika Kirk Loyola Marymount Attendance Verification",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10117"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10520",
+      "ref": "N-10520",
+      "name": "Erika Kirk Corcoran Real Estate Anomaly",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10113",
+        "C-10114"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10526",
+      "ref": "N-10526",
+      "name": "Erika NY Real Estate License Verification Question",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10109"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10527",
+      "ref": "N-10527",
+      "name": "Erika Real Estate Bio Credential Verification Question",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10115"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10665",
+      "ref": "N-10665",
+      "name": "Erika Kirk Educational Credentials Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10117"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10764",
+      "ref": "N-10764",
+      "name": "Kirk Religious Affiliation Status",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10137"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10905",
+      "ref": "N-10905",
+      "name": "New York Times Erika Kirk Interview Account Discrepancies",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10086"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10968",
+      "ref": "N-10968",
+      "name": "The New York Times",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10086"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11104",
+      "ref": "N-11104",
+      "name": "Liberty University",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10113",
+        "C-10117"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11110",
+      "ref": "N-11110",
+      "name": "Erika Kirk and Tyler Bowyer First-Meeting Account",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10104",
+        "C-10105",
+        "C-10106"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11165",
+      "ref": "N-11165",
+      "name": "Romanian Angels Project",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10102"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11188",
+      "ref": "N-11188",
+      "name": "White House Religious Liberty Commission",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10131"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1075,7 +2487,1828 @@
         "N-2",
         "N-333"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10059",
+      "ref": "C-10059",
+      "label": "Host Says Tracy Martin Is Erika's Best Friend of Over 15 Years",
+      "claim": "The host says Tracy Martin has been Erika Kirk's best friend for over 15 years.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:22",
+      "investigative_direction": "Confirm the friendship and its length through Tracy Martin's public history with Erika Kirk, such as dated photographs, posts or mutual acquaintances.",
+      "transcript_snippet": "Erika's best friend for over 15 years, a woman by the name of Tracy Martin.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-557"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10060",
+      "ref": "C-10060",
+      "label": "Host Says Tip Placed Tracy Martin With Erika During the McCoy Call",
+      "claim": "The host says her tip was that Tracy Martin may have been with Erika Kirk when Erika received the call from Elizabeth and Mikey McCoy, both of whom were on the phone, a detail she says was not revealed to the public until later.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10482"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:22",
+      "investigative_direction": "Obtain the phone records or witness accounts of the McCoy calls to Erika on September 10 and identify who was physically present with her.",
+      "transcript_snippet": "we were working off of a tip that Tracy may have been with Erika when Erika got the call from Elizabeth and Mikey McCoy",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-557",
+        "N-221",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10061",
+      "ref": "C-10061",
+      "label": "Host Says Tracy Martin Has Denied Being With Erika on September 10",
+      "claim": "The host says she is told that Tracy Martin, who has made her public profiles private, has denied the claim that she was with Erika Kirk on September 10.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:09",
+      "investigative_direction": "Ask Tracy Martin or Erika Kirk's representatives directly whether Martin was with Erika on September 10; identify the host's source for the denial.",
+      "transcript_snippet": "I am told that she has denied that claim.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-557",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10062",
+      "ref": "C-10062",
+      "label": "Host Says She Confirmed Tracy Martin's Daughter Is Erika's Assistant",
+      "claim": "The host says that whatever Tracy Martin says about September 10, Martin cannot deny that her daughter is Erika Kirk's assistant, which the host says she has confirmed; the host chooses not to name the daughter.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10498"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:09",
+      "investigative_direction": "Verify the daughter's employment with Erika Kirk or TPUSA through payroll, event staffing lists or public tagging of her in Erika's posts.",
+      "transcript_snippet": "what Tracy cannot deny is that her daughter is indeed Erika's assistant. I have confirmed that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-557",
+        "N-565",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10063",
+      "ref": "C-10063",
+      "label": "Host Says Erika Admitted She Considered Going to UVU but Charlie Said Home Needs You",
+      "claim": "The host says Erika Kirk has publicly admitted she also considered going to the UVU event, but that Charlie Kirk told her 'home needs you', so she was instead going to meet him at the next event, in Colorado later that week.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:05",
+      "investigative_direction": "Locate the interview in which Erika Kirk said she nearly attended UVU and check her stated reason and the Colorado event schedule.",
+      "transcript_snippet": "Erika's public admission that she too was considering going, but remember Charlie told her home needs you.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10064",
+      "ref": "C-10064",
+      "label": "Host Says Tracy Martin Pulled Her Daughter From UVU Over a Bad Feeling",
+      "claim": "The host says that Tracy Martin and her daughter told people in their orbit that Martin had a bad feeling and so stopped her daughter from going to UVU, and says she has confirmed this.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10503",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:56",
+      "investigative_direction": "Interview the people in Martin's orbit who heard the explanation and obtain any messages in which the bad feeling or the change of plans was discussed.",
+      "transcript_snippet": "Tracy had a bad feeling and so she stopped her daughter from going to UVU. This is now confirmed. It's a fact.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-557",
+        "N-565"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10065",
+      "ref": "C-10065",
+      "label": "Host Says Charlie Messaged a Group Saying He Was Abandoning the Pro-Israel Cause",
+      "claim": "The host says that the day before the shooting Charlie Kirk messaged a group of people saying he was abandoning the pro-Israel cause and that he meant it.",
+      "anchored_artifacts": [
+        "A-3050.1",
+        "A-3050.1"
+      ],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:56",
+      "investigative_direction": "Obtain the full group-chat export and verify author, recipients and timestamps.",
+      "transcript_snippet": "Charlie messages a group of people and says that he is abandoning the pro-Israel cause and he means it, okay?",
+      "supports_claim_refs": [
+        "C-1376"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10066",
+      "ref": "C-10066",
+      "label": "Host Says Charlie Texted TPUSA Staff He Wanted Candace Back at AmFest",
+      "claim": "The host says Charlie Kirk was also texting people who work at Turning Point USA that he wanted the host back at AmFest that year, after what she calls Zionist peer pressure to keep her off the roster.",
+      "anchored_artifacts": [
+        "A-3050.1",
+        "A-3050.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:56",
+      "investigative_direction": "Obtain the TPUSA staff messages in which Kirk discussed the AmFest roster and identify the recipients.",
+      "transcript_snippet": "he's saying he wants Candace back at AmFest that year after the Zionist peer pressure to keep me off of the roster.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10067",
+      "ref": "C-10067",
+      "label": "Host Says Charlie Signaled He No Longer Cared About the Money and Wanted Donors Out",
+      "claim": "The host says Charlie Kirk signaled to his troops that he no longer cared about the money and wanted the donors out.",
+      "anchored_artifacts": [
+        "A-3050.1",
+        "A-3050.1"
+      ],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:47",
+      "investigative_direction": "Identify the messages in which Kirk told staff he did not care about donor money and check their dates.",
+      "transcript_snippet": "He signals to his troops that he doesn't care about the money. Does not care about the money anymore. He wants them out.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10068",
+      "ref": "C-10068",
+      "label": "Host Says Charlie Had an Emergency Zoom Call With Rabbi Wolicki at 4 A.M. Israel Time",
+      "claim": "The host says Charlie Kirk then had what looks like an emergency Zoom call with Rabbi Pesach Wolicki, who lives in Israel, at about 4:00 a.m. his time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:47",
+      "investigative_direction": "Obtain the Zoom invitation or log and Wolicki's own account of the call time, participants and purpose.",
+      "transcript_snippet": "He then has what looks like an emergency Zoom call with Rabbi Wollicki.",
+      "supports_claim_refs": [
+        "C-1397"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-167"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10069",
+      "ref": "C-10069",
+      "label": "Host Says Wolicki Was on the Chat Two Hours Before the Call",
+      "claim": "The host says Rabbi Wolicki was on the group chat two hours before the call, when Charlie Kirk said he would no longer be bullied by Jewish donors who play into the stereotypes, and that the chat also featured Josh Hammer.",
+      "anchored_artifacts": [
+        "A-3050.1",
+        "A-3050.1"
+      ],
+      "related_nodes": [
+        "N-10187"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:47",
+      "investigative_direction": "Obtain the chat export and member list to confirm Wolicki and Hammer were participants and when each message was sent.",
+      "transcript_snippet": "He was on the chat 2 hours earlier before this call when Charlie said that he would no longer be bullied by Jewish donors who play into all of the stereotypes",
+      "supports_claim_refs": [
+        "C-1377"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-167",
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10070",
+      "ref": "C-10070",
+      "label": "Host Says Hammer and Erika Told Her the Chat Was Not a Big Deal",
+      "claim": "The host says that after the assassination Josh Hammer and Erika Kirk, at different times and to her face, said the group chat was not a big deal and that Charlie was only blowing off steam.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10187"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:34",
+      "investigative_direction": "Ask Hammer and Erika Kirk to state on the record how they described the chat; compare to Hammer's released text messages.",
+      "transcript_snippet": "They are they're going to say that that chat was really not a big deal.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-55",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10071",
+      "ref": "C-10071",
+      "label": "Host Says the Account Is That Charlie Needed Debate Talking Points for College Students",
+      "claim": "The host says that, according to the account she was given, Charlie Kirk needed Josh Hammer and also a Rabbi in Israel, who agreed to wake at 4:00 a.m., to help him with talking points for college students.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:00",
+      "investigative_direction": "Obtain Hammer's and Wolicki's own statements about the purpose of the call and any talking-points material exchanged.",
+      "transcript_snippet": "And so apparently um he needed Josh Hammer. He also needed this Rabbi all the way in Israel who agreed to wake up at 4:00 a. m. his time to help Charlie with talking points to college students.",
+      "supports_claim_refs": [
+        "C-1414"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-55",
+        "N-167"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10072",
+      "ref": "C-10072",
+      "label": "Host Says Charlie Texted Flood and Kolvet That They Are Going to Kill Him",
+      "claim": "The host says that after the call Charlie Kirk sent text messages to security chief Dan Flood and to Andrew Kolvet saying that they are going to kill him.",
+      "anchored_artifacts": [
+        "A-3050.2",
+        "A-3050.2"
+      ],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:36",
+      "investigative_direction": "Obtain the original texts from Flood's and Kolvet's devices with metadata.",
+      "transcript_snippet": "he sends off text messages to security chief Dan Flood, also to Andrew Kolvet, and he says to them that they are going to kill me.",
+      "supports_claim_refs": [
+        "C-6825"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-276",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10073",
+      "ref": "C-10073",
+      "label": "Host Says Erika's Account Is That They Meant the Left or an Etsy Witch",
+      "claim": "The host says Erika Kirk wants people to believe that the 'they' in Charlie's text referred to the left, or perhaps an Etsy witch who put a curse on him.",
+      "anchored_artifacts": [
+        "A-3050.2",
+        "A-3050.2"
+      ],
+      "related_nodes": [
+        "N-10117"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:36",
+      "investigative_direction": "Locate Erika Kirk's interview statement on who 'they' referred to and compare it with the message text.",
+      "transcript_snippet": "Erika wants us to believe that he was referring to the left, or maybe even an Etsy wit- witch, right?",
+      "supports_claim_refs": [
+        "C-1927"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10074",
+      "ref": "C-10074",
+      "label": "Host Says Charlie Reportedly Had a Priest Pray Over Him After the Call",
+      "claim": "The host says that she and the public were told that Charlie Kirk, whom she describes sarcastically as definitely not Catholic, had a priest come over and pray over him after receiving the debating pointers.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10117"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:36",
+      "investigative_direction": "Identify the priest and the date and place of the visit from the original sources who told the account.",
+      "transcript_snippet": "we were also told that the definitely not at all Catholic Charlie had a priest come over and pray over him as well after he has this uh debating pointers handed to him.",
+      "supports_claim_refs": [
+        "C-6459"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10075",
+      "ref": "C-10075",
+      "label": "Host Says the Assistant Also Worked on Charlie's Show and the Crew Was at UVU",
+      "claim": "The host says Erika's assistant also doubled as an assistant on Charlie Kirk's show and that the whole crew, including Blake Neff and Mikey McCoy, was at UVU.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10498"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:47",
+      "investigative_direction": "Obtain the September 10 travel and staffing roster for The Charlie Kirk Show and check whether the assistant was scheduled.",
+      "transcript_snippet": "she also doubled as an assistant on Charlie's show and the whole gang was there.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-565",
+        "N-1",
+        "N-162",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10076",
+      "ref": "C-10076",
+      "label": "Host Alleges Erika and Kolvet Held a Three-Way Call With Dr. Trotter on Funeral Day",
+      "claim": "The host alleges that on the day of Charlie Kirk's funeral Erika Kirk and Andrew Kolvet had an emergency three-way call with the surgeon Dr. Lee Trotter, trying to work out how to explain to the public why the .30-06 bullet did not pass through Charlie's neck.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:10",
+      "investigative_direction": "Obtain call records or Trotter's account of the funeral-day call and who initiated it.",
+      "transcript_snippet": "Erika and Andrew Kolvet had an emergency three-way call with Dr. Lee Trotter, the surgeon, trying to figure out how to respond to the public about why the 30-ought-6 didn't pass through Charlie's neck.",
+      "supports_claim_refs": [
+        "C-6780"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14",
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10077",
+      "ref": "C-10077",
+      "label": "Host Says Erika Suggested the Superman Neck Explanation",
+      "claim": "The host says Erika allegedly put forth the three-way call, that there was no HIPAA violation, and that Erika was the one who suggested that Charlie has a 'Superman neck'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:10",
+      "investigative_direction": "Compare Trotter's own account of what he said with Kolvet's post and identify who first used the phrase.",
+      "transcript_snippet": "she is the one that suggested that Charlie has a Superman neck.",
+      "supports_claim_refs": [
+        "C-6780"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1",
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10078",
+      "ref": "C-10078",
+      "label": "Host Says the Cover Story Is Defensive Because She Reported No Exit and No Blood",
+      "claim": "The host says Erika and Kolvet are playing defense because she shared on her podcast that the bullet did not go through and that there was no blood at all.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10085",
+        "N-10180"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:10",
+      "investigative_direction": "Obtain the autopsy and surgical records on entry, exit and bleeding, and compare them with the footage.",
+      "transcript_snippet": "I shared the fact on my podcast that the bullet didn't go through. Not only did it not go through, there was no blood at all.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10079",
+      "ref": "C-10079",
+      "label": "Host Says Kolvet Posted Superman Neck and It Was Presented as the Surgeon's Words",
+      "claim": "The host says Andrew Kolvet posted 'Superman neck' on X and that people were led for a long time to believe it relayed something the surgeon said, which she says it did not.",
+      "anchored_artifacts": [
+        "A-1770.1"
+      ],
+      "related_nodes": [
+        "N-10447"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:57",
+      "investigative_direction": "Pull Kolvet's original post and Trotter's statements and compare their wording.",
+      "transcript_snippet": "we're led to believe for a very long time that that was referring to uh I don't know if something the surgeon said, which she didn't.",
+      "supports_claim_refs": [
+        "C-6824"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10080",
+      "ref": "C-10080",
+      "label": "Host Says Erika Lied to Glenn Beck About Charlie's Night-Before Texts",
+      "claim": "The host says Erika Kirk lied to Glenn Beck when she said Charlie had not sent text messages the night before to various people signaling that he thought he was going to be murdered.",
+      "anchored_artifacts": [
+        "A-3050.3"
+      ],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:57",
+      "investigative_direction": "Locate the Glenn Beck interview segment and compare Erika Kirk's words with the texts.",
+      "transcript_snippet": "Erika lied to Glenn Beck about Charlie having not sent around text messages the night before",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-242",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10081",
+      "ref": "C-10081",
+      "label": "Host Says Erika Then Called It a Mistake and Blamed Telegram",
+      "claim": "The host says Erika Kirk, who said she had Charlie's phone, then said her earlier statement was a mistake and that the message must have been on Telegram.",
+      "anchored_artifacts": [
+        "A-3050.3"
+      ],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:57",
+      "investigative_direction": "Obtain Erika Kirk's statement about Telegram and the phone's installed apps and message logs.",
+      "transcript_snippet": "And then she said that was a mistake. No, it must have been on Telegram but he sent that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10082",
+      "ref": "C-10082",
+      "label": "Host Says Her Person Confirmed the Text Was Sent by iMessage From Flood's Phone",
+      "claim": "The host says she then confirmed with her person that the message was sent from Dan Flood's phone, by iMessage and not Telegram, so that Erika lied to her twice.",
+      "anchored_artifacts": [
+        "A-3050.3"
+      ],
+      "related_nodes": [
+        "N-10340",
+        "N-10470"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:57",
+      "investigative_direction": "Examine Flood's device message log for the platform, sender and timestamp of the text.",
+      "transcript_snippet": "And then I confirmed to my person that it actually sent on Flood's phone that it wasn't sent on Telegram, it was sent on iMessage.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10083",
+      "ref": "C-10083",
+      "label": "Host Says Erika Was at the Hamptons When Bibi Called but Cannot Remember It",
+      "claim": "The host says Erika Kirk was at the Hamptons meeting when Benjamin Netanyahu called and offered to take Turning Point to the next level, but that Erika cannot remember that detail.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10495",
+        "N-10446",
+        "N-10027"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:42",
+      "investigative_direction": "Identify other attendees of the Hamptons meeting and obtain Erika Kirk's public statements on the call.",
+      "transcript_snippet": "Paw print number three, Erika was at the meeting in the Hamptons when Bibi Netanyahu called and offered to take Turning Point to the next level, but she can not remember that particular detail, boys and girls.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10084",
+      "ref": "C-10084",
+      "label": "Host Lists Erika Telling Bari Weiss That Jew Hatred Is Wrong",
+      "claim": "The host lists, among oddities, that Erika Kirk asserted to Bari Weiss that Jew hatred is wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10334"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:42",
+      "investigative_direction": "Find the Bari Weiss event or interview and the exact words used.",
+      "transcript_snippet": "Erika asserting to Barry Weiss of all people that Jew hatred is wrong",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-284"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10085",
+      "ref": "C-10085",
+      "label": "Host Says Erika Allowed Ben Shapiro to Open at AmFest Behind Her",
+      "claim": "The host says Erika Kirk allowed Ben Shapiro to open at AmFest behind her, which the host says was her clue that something was wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:42",
+      "investigative_direction": "Obtain the AmFest 2025 speaker schedule and sponsor arrangements for Shapiro's slot.",
+      "transcript_snippet": "Erika allowing Ben Shapiro to open at AmFest behind her.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10086",
+      "ref": "C-10086",
+      "label": "Host Says Erika Welcomed the New York Times Into Their Shared Home",
+      "claim": "The host says Erika Kirk welcomed the New York Times into the home she shared with Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10968",
+        "N-10905"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:42",
+      "investigative_direction": "Retrieve the New York Times article and confirm the interview was held at the Kirk home.",
+      "transcript_snippet": "Erika welcoming the New York Times into their shared home.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10087",
+      "ref": "C-10087",
+      "label": "Host Says LBJ Reversed Every One of JFK's Policies After the Assassination",
+      "claim": "The host says that as soon as Lyndon Johnson took office after JFK's assassination, he reversed course on every one of JFK's policies.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:42",
+      "investigative_direction": "Historians' accounts of Johnson's policy continuity would test this sweeping claim.",
+      "transcript_snippet": "as soon as LBJ got into office after JFK's assassination, he reversed course on every single one of JFK's policies.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-722"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10088",
+      "ref": "C-10088",
+      "label": "Host Says Erika Appears to Be Doing a Reversal Like LBJ's",
+      "claim": "The host says that, as with Johnson, Kennedy's enemies seemingly became his friends, and that Erika Kirk appears strongly to be doing the same, reversing Charlie's positions.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:56",
+      "investigative_direction": "Compare Erika's TPUSA policies and alliances since September 2025 with Charlie's stated positions.",
+      "transcript_snippet": "JFK's enemies seemingly became LBJ's friends. Erika appears to be doing that to me strongly.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-722",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10089",
+      "ref": "C-10089",
+      "label": "Host Says She Knows for a Fact Charlie Disliked Ben Shapiro",
+      "claim": "The host says she knows for a fact that Charlie Kirk disliked Ben Shapiro and asks why Erika let him buy his way onto the stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10386"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:56",
+      "investigative_direction": "Collect Kirk's messages and witnesses about Shapiro and the terms of Shapiro's AmFest appearance.",
+      "transcript_snippet": "I know for a fact Charlie dislikes Ben. Why would you let him buy his way onto the stage?",
+      "supports_claim_refs": [
+        "C-6744"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-97",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10090",
+      "ref": "C-10090",
+      "label": "Host Says Charlie Said No to Bibi Netanyahu Coming on His Show",
+      "claim": "The host says Charlie Kirk said no to Benjamin Netanyahu coming on his show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10456"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:56",
+      "investigative_direction": "Find the show booking requests and the staff who handled the Netanyahu request.",
+      "transcript_snippet": "Charlie said, \"No.\" to Bibi Netanyahu coming on his show.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10091",
+      "ref": "C-10091",
+      "label": "Host Says a Joint Netanyahu, Erika and Shapiro Filming in Palm Beach Was Canceled",
+      "claim": "The host says she broke the story that a filming with Benjamin Netanyahu, Erika Kirk and Ben Shapiro was scheduled a few weeks earlier in Palm Beach, possibly for the Super Bowl, and was canceled at the last second.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11245"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:30",
+      "investigative_direction": "Identify the production, venue and attendees through Palm Beach location bookings and the host's source.",
+      "transcript_snippet": "There was a scheduled a few weeks ago for Bibi Netanyahu, Erika Kirk, and Ben Shapiro to film together something.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-36",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10092",
+      "ref": "C-10092",
+      "label": "Host Says Erika Has Not Publicly Acknowledged Charlie Shifting Positions",
+      "claim": "The host says the widow has not come out to tell the truth about Charlie shifting positions on Israel and has not shown anger at those who pressured him in his final days.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:03",
+      "investigative_direction": "Review Erika Kirk's public statements since September 2025 for any acknowledgment of Kirk's change of view on Israel.",
+      "transcript_snippet": "We can't even get his widow to at least come out and tell the truth about Charlie shifting positions.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10093",
+      "ref": "C-10093",
+      "label": "Host Says Megyn Kelly Supports TPUSA but Disagrees With Her",
+      "claim": "The host says Megyn Kelly supports Turning Point USA and its direction, disagrees with her on many topics, and that she would defend Kelly regardless.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:32",
+      "investigative_direction": "Compare Kelly's public statements on TPUSA with the host's description.",
+      "transcript_snippet": "She supports Turning Point USA. She supports the direction Turning Point USA is going into ostensibly.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10094",
+      "ref": "C-10094",
+      "label": "Host Says Megyn Kelly Believes Tyler Robinson Was the Shooter",
+      "claim": "The host says Megyn Kelly believes Tyler Robinson was the person who did this, as Kelly has said on her show, and agrees with the narrative that few details are available because the case is in the courts; the host says they disagree.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:22",
+      "investigative_direction": "Quote Kelly's on-air statements about Tyler Robinson's guilt.",
+      "transcript_snippet": "She believes that Tyler Robinson was the person as she has said on her show.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-46",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10095",
+      "ref": "C-10095",
+      "label": "Host Says Charlie Did Not Employ Megyn Kelly or Pay Her at TPUSA",
+      "claim": "The host says Charlie Kirk did not employ Megyn Kelly, that she was not making large sums at Turning Point USA, and that Kirk did not lose sleep building her up.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:06",
+      "investigative_direction": "Check TPUSA disclosures and Kelly's disclosures for any paid relationship.",
+      "transcript_snippet": "Charlie Kirk uh did not employ Megyn Kelly. She wasn't making tons of money at Turning Point USA.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10096",
+      "ref": "C-10096",
+      "label": "Host Says Piers Morgan Actually Platforms Her",
+      "claim": "The host says Piers Morgan actually does platform her, yet critics do not go after him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:06",
+      "investigative_direction": "List Piers Morgan's interviews with the host.",
+      "transcript_snippet": "They don't go after people like Piers Morgan, who actually He actually does platform me.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-208"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10097",
+      "ref": "C-10097",
+      "label": "Piers Morgan Called Candace's Erika Kirk and Macron Coverage Regrettable in the Clip",
+      "claim": "In the Piers Morgan clip, Morgan says that some of what Candace Owens has been doing in relation to Erika Kirk and Brigitte Macron is regrettable conspiracy theory nonsense for clicks and money.",
+      "anchored_artifacts": [
+        "A-1768.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:40",
+      "investigative_direction": "Locate the Piers Morgan interview with Megyn Kelly and verify the exact question.",
+      "transcript_snippet": "I do think is really regrettable, kind of conspiracy theory nonsense just for clicks and money.",
+      "mentions_person_refs": [
+        "N-208",
+        "N-3",
+        "N-2",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10098",
+      "ref": "C-10098",
+      "label": "Megyn Kelly Said She Has Criticized Candace Many Times and Had Public Fights",
+      "claim": "In the clip, Megyn Kelly says she has criticized Candace Owens many times over the years and that they have had many public fights.",
+      "anchored_artifacts": [
+        "A-1768.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:20:02",
+      "investigative_direction": "Verify the clip and catalogue Kelly's past public criticism of the host.",
+      "transcript_snippet": "I've criticized Candace many times over the years. We've We've had many public fights over the years.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10099",
+      "ref": "C-10099",
+      "label": "Megyn Kelly Said Pressure to Condemn Candace Rose After Charlie's Death",
+      "claim": "In the clip, Megyn Kelly says Candace Owens took heat for being anti-Israel in the Gaza war and that after Charlie died she started questioning whether Israel had any role in it, which is when the pressure on Kelly to condemn her intensified.",
+      "anchored_artifacts": [
+        "A-1768.1"
+      ],
+      "related_nodes": [
+        "N-10406",
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:20",
+      "investigative_direction": "Identify who pressed Kelly and when, using her messages or public statements.",
+      "transcript_snippet": "And then after Charlie died, she started questioning whether Israel had any role in it. And that's when they really tried to amp up the pressure on me to condemn her.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10100",
+      "ref": "C-10100",
+      "label": "Host Says Charlie Had Plenty of Doubts About Israel and the Inner Circle Knows It",
+      "claim": "The host says that Charlie Kirk, for a fact, had plenty of doubts about Israel, that anyone in his inner circle can tell people so, and that they are not.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:43",
+      "investigative_direction": "Interview members of Kirk's inner circle and collect any messages in which he expressed doubts.",
+      "transcript_snippet": "Charlie was for a fact having plenty of doubts about Israel. Anybody in his inner circle can tell you that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10101",
+      "ref": "C-10101",
+      "label": "Host Says the Inner Circle Is Spending Money on Influencers to Discredit Her",
+      "claim": "The host says people in Charlie's inner circle are spending money, from the very beginning, on influencers to make people believe Candace Owens was lying about his doubts on Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:20",
+      "investigative_direction": "Identify any paid influencer campaigns and funding sources through disclosures and FARA or FEC filings.",
+      "transcript_snippet": "they are spending money and going after influencers from the very beginning to influence people to believe that Candace was lying about this fact.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10102",
+      "ref": "C-10102",
+      "label": "TikToker Says Private Investigators Contacted Her After Her Romanian Angels Video",
+      "claim": "The unnamed TikToker says her earlier Romanian Angel video blew up without lawyers being sent, but that private investigators contacted her asking how she found the information and asking for links.",
+      "anchored_artifacts": [
+        "A-1769.1"
+      ],
+      "related_nodes": [
+        "N-11165"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:45",
+      "investigative_direction": "Identify the TikToker and obtain the messages from the investigators.",
+      "transcript_snippet": "it was private investigators asking how I found this information, asking me to send them links.",
+      "mentions_person_refs": [
+        "N-572",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10103",
+      "ref": "C-10103",
+      "label": "TikToker Says Pamela Liebman Has Been Corcoran's President and CEO Since 2000",
+      "claim": "The unnamed TikToker says that if Erika Kirk worked for the Corcoran Group, her boss would be Pamela Liebman, who has been Corcoran's president and CEO since 2000 as far as the public has been told.",
+      "anchored_artifacts": [
+        "A-1769.1"
+      ],
+      "related_nodes": [
+        "N-10502"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:41",
+      "investigative_direction": "Verify Liebman's tenure and title with Corcoran Group press releases and New York filings.",
+      "transcript_snippet": "her boss would be Pamela Liebman because Pamela has been the president and CEO of the Corcoran Group since 2000.",
+      "mentions_person_refs": [
+        "N-572",
+        "N-570",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10104",
+      "ref": "C-10104",
+      "label": "Host Says the Story Is That Erika and Charlie Fell in Love During a TPUSA Job Interview",
+      "claim": "The host says the story she and Charlie were told is that Erika and Charlie Kirk fell in love while he interviewed her for a job with Turning Point USA, which she says many people have confirmed many times.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11110",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:38",
+      "investigative_direction": "Collect the dated public tellings of the interview story and compare their details.",
+      "transcript_snippet": "Erika and Charlie Kirk fell in love when he was interviewing her for a job with Turning Point USA. Many people have confirmed this many times over.",
+      "supports_claim_refs": [
+        "C-2355"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10105",
+      "ref": "C-10105",
+      "label": "Host Says Bowyer's Memorial Account Is Truthful and Matches Her Texts",
+      "claim": "The host says Tyler Bowyer is telling the truth in his memorial account, that she was around for that, and that she had to scroll through her own text messages to check.",
+      "anchored_artifacts": [
+        "A-3051.1",
+        "A-1766.1",
+        "A-3051.1"
+      ],
+      "related_nodes": [
+        "N-11110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:47",
+      "investigative_direction": "Obtain the host's dated text messages with Bowyer and Charlie from 2018.",
+      "transcript_snippet": "he's telling the truth. I was around for that. I just had to scroll in through my own text messages.",
+      "supports_claim_refs": [
+        "C-2354"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10106",
+      "ref": "C-10106",
+      "label": "Host Says Her Texts Date the Start of the Dating Story to September 2018",
+      "claim": "The host says her text messages with Charlie Kirk show that the dating thing happened in September 2018.",
+      "anchored_artifacts": [
+        "A-3051.1",
+        "A-3051.1"
+      ],
+      "related_nodes": [
+        "N-11110"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:35",
+      "investigative_direction": "Publish or independently verify the dated text messages.",
+      "transcript_snippet": "I can tell you going back in my text messages with Charlie that this dates thing happened September of 2018.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10107",
+      "ref": "C-10107",
+      "label": "Host Says Charlie Interviewed Erika in New York While She Sought a TPUSA Job",
+      "claim": "The host says Charlie Kirk did interview Erika in New York, which she says is true because Erika was looking for a position with Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:20",
+      "investigative_direction": "Confirm the date and location of the interview with Bowyer and contemporaneous messages.",
+      "transcript_snippet": "So, Charlie interviewed her in New York. That is true because she was looking for a gig with Turning Point USA.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10108",
+      "ref": "C-10108",
+      "label": "Host Says Dating Began in Earnest in October 2018, the Month of Erika's Real Estate License",
+      "claim": "The host says that October 2018 is when Charlie and Erika Kirk began dating in earnest, which she says is the very month Erika received her New York real estate license.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10501"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:20",
+      "investigative_direction": "Compare dated messages and New York Department of State license issuance records.",
+      "transcript_snippet": "October 2018 is when they began dating in in earnest. Uh that is the very month that Erika receives her New York real estate license.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10109",
+      "ref": "C-10109",
+      "label": "Host Infers the License Was Issued October 24, 2018 From a Two-Year Term",
+      "claim": "The host says a New York real estate license lasts two years, so a license expiring October 24, 2020 implies, by her assumption, that Erika Kirk received it on October 24, 2018.",
+      "anchored_artifacts": [
+        "A-1763.1"
+      ],
+      "related_nodes": [
+        "N-10501",
+        "N-10526"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:50",
+      "investigative_direction": "Request the New York Department of State license history for original issue date.",
+      "transcript_snippet": "So, if it expired on October 24th, 2020, that means that she received her real estate license, we can assume, on October 24th, 2018.",
+      "supports_claim_refs": [
+        "C-2353"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10110",
+      "ref": "C-10110",
+      "label": "Host Says She Was Told Erika Worked in Fashion on Proclaim Streetwear",
+      "claim": "The host says that what she understood at the time was that Erika Kirk was working in fashion on a clothing brand, Proclaim Streetwear, and that Erika wore a lot of jewelry and was into Christian branded fashion.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:35",
+      "investigative_direction": "Search business and trademark records for Proclaim Streetwear and its ownership.",
+      "transcript_snippet": "Erika was working in fashion on this clothing brand, Proclaim Streetwear.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10111",
+      "ref": "C-10111",
+      "label": "Host Says She Met Erika at a Steakhouse Shortly After Charlie's Interview",
+      "claim": "The host says she met Erika Kirk at a steakhouse shortly after Charlie's interview and that Charlie wanted to know what she thought of her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:50",
+      "investigative_direction": "Reconstruct the date and venue from the host's messages and calendar.",
+      "transcript_snippet": "I met her at a steakhouse shortly thereafter.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10112",
+      "ref": "C-10112",
+      "label": "Host Says LLC Records Show Erika Filed a Trademark for Her Fashion Brand Through 2019",
+      "claim": "The host says that if you look up the LLCs, up through 2019 Erika Kirk files a trademark for the fashion brand.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:10",
+      "investigative_direction": "Pull USPTO and state LLC filings for Proclaim Streetwear and its filer.",
+      "transcript_snippet": "certainly up being up to 2019, she files for a trademark for that fashion brand.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10113",
+      "ref": "C-10113",
+      "label": "Host Says Erika Was Simultaneously Running a Brand, Studying at Liberty, and Licensed at Corcoran",
+      "claim": "The host says Erika Kirk was at once running a fashion brand, getting her master's at Liberty University, getting her real estate license, and beginning a career with Corcoran Real Estate.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11246",
+        "N-11104",
+        "N-10520"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:33",
+      "investigative_direction": "Verify Liberty enrollment dates, license dates and Corcoran affiliation dates.",
+      "transcript_snippet": "she is both running a fashion brand, getting her master's at Liberty University, getting her real estate license, and beginning a career with Corcoran Real Estate",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10114",
+      "ref": "C-10114",
+      "label": "Host Says Wayback Machine Shows Only One Corcoran Listing for Erika",
+      "claim": "The host says that when she looks for Erika Kirk's work at Corcoran, all she can find on the Wayback Machine is one listing.",
+      "anchored_artifacts": [
+        "A-3052.1",
+        "A-3052.1"
+      ],
+      "related_nodes": [
+        "N-10520",
+        "N-10502"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:50",
+      "investigative_direction": "Retrieve the archived Corcoran page and compare it with sales records.",
+      "transcript_snippet": "all we can find on Wayback Machine is that she had one listing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10115",
+      "ref": "C-10115",
+      "label": "Host Says She Did Not Know About the Real Estate Career",
+      "claim": "The host says that when she met Erika Kirk she was not told that she was a real estate agent and did not know anything about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10527"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:00",
+      "investigative_direction": "Compare the host's early bios of Erika with TPUSA biographies.",
+      "transcript_snippet": "This is not the Erika that I met. I didn't know anything about this.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10116",
+      "ref": "C-10116",
+      "label": "Host Says Erika Did a Reality Dating Show Despite Telling Bari Weiss She Never Dated in New York",
+      "claim": "The host says Erika Kirk did a reality dating show even though, according to what she told Bari Weiss, she never dated in New York City.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10374"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:10",
+      "investigative_direction": "Identify the reality show, its air date and cast listing.",
+      "transcript_snippet": "doing a reality show dating uh even though you never dated in New York City. Uh at least what you told Bari Weiss.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-284"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10117",
+      "ref": "C-10117",
+      "label": "Host Lists Regis, Loyola Marymount, Arizona State and Liberty Among Erika's Schools",
+      "claim": "The host says Erika Kirk is listed as having attended Regis University, Loyola Marymount University, Arizona State University and Liberty University, as well as graduate and obscure programs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11247",
+        "N-11248",
+        "N-11104",
+        "N-10504",
+        "N-10665",
+        "N-10517"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:48",
+      "investigative_direction": "Request enrollment verification from each school, with Erika Kirk's consent or via public degree records.",
+      "transcript_snippet": "Regis University, we have Loyola Marymount University, we've got Arizona State University, we've got Liberty University",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10118",
+      "ref": "C-10118",
+      "label": "Host Says No One Has Contacted Her Saying They Attended School With Erika",
+      "claim": "The host says no one in her tips box says they went to school with Erika Kirk or were her roommate, and that she has never seen someone do so much schooling with no one able to confirm it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10504"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:05",
+      "investigative_direction": "Solicit named classmates and roommates and test their accounts against school records.",
+      "transcript_snippet": "I don't have anybody in my tips box that is saying they went to school with her or were a roommate with her.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10119",
+      "ref": "C-10119",
+      "label": "Host Asks Classmates and Roommates of Erika to Send Tips",
+      "claim": "The host asks anyone who went to school with or roomed with Erika Kirk to send a message or email to the tip line, more tips at candaceowens.com.",
+      "anchored_artifacts": [
+        "A-3053.1"
+      ],
+      "related_nodes": [
+        "N-10504"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:20",
+      "investigative_direction": "Track the tips received at the tip line and verify each source's claimed connection to Erika Kirk.",
+      "transcript_snippet": "More tips at candaceowens. com. Send us an email.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10120",
+      "ref": "C-10120",
+      "label": "Host Says Erika Was Living in China While Enrolled in School",
+      "claim": "The host previews that she will show next week that Erika Kirk was traveling and living in China while in school the whole time, and wonders whether it was all online.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10419",
+        "N-10428"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:35",
+      "investigative_direction": "Compare dated China residence evidence with enrollment dates at the schools.",
+      "transcript_snippet": "she's traveling. She's living in China, but she's in school the whole time.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10121",
+      "ref": "C-10121",
+      "label": "Host Says Aubrey Lich Was Fired After Being Questioned About an Uber Ride by Marina Meanes",
+      "claim": "The host says Aubrey Lich, who was fired from Turning Point USA and spoke out, had been questioned over an Uber ride by TPUSA CMO Marina Meanes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:47",
+      "investigative_direction": "Interview Aubrey Lich and obtain separation records and messages about the Uber ride questioning.",
+      "transcript_snippet": "Aubrey Lich uh at Turning Point USA, the one who was questioned over the Uber ride by Marina Meanes, the CMO over at Turning Point USA",
+      "mentions_person_refs": [
+        "N-3",
+        "N-563",
+        "N-504"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10122",
+      "ref": "C-10122",
+      "label": "Host Says Lich's Husband or Fiance Was Also Fired From TPUSA",
+      "claim": "The host says Lich's husband or fiance was also fired from Turning Point USA, apparently because he is going to marry her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:47",
+      "investigative_direction": "Identify the second fired employee and obtain the termination notice.",
+      "transcript_snippet": "her husband or her fiance who also got fired from Turning Point USA just because I guess he's going to marry her or something",
+      "mentions_person_refs": [
+        "N-3",
+        "N-563"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10123",
+      "ref": "C-10123",
+      "label": "Host Says the Man Photographing Lich's Home Delivered No Documents",
+      "claim": "The host says the man photographing the Lich home and car, who gave his name as Mike and said a legal firm asked him, had no documents in his hand and delivered nothing, which she says is not what happens when documents are served.",
+      "anchored_artifacts": [
+        "A-1771.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:32",
+      "investigative_direction": "Identify the legal firm named and check whether any lawsuit or service was pending against Lich.",
+      "transcript_snippet": "There was no documents in his hand. He delivered nothing to him and he was just taking photos of their home and their car.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-571",
+        "N-563"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10124",
+      "ref": "C-10124",
+      "label": "Host Says It Looks Like TPUSA Sent Private Investigators to Gather Information on Employees",
+      "claim": "The host says the man looks like a private investigator and that it looks as though Turning Point USA sent private investigators to gather information on its employees, though she says they are not sure.",
+      "anchored_artifacts": [
+        "A-1771.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:32",
+      "investigative_direction": "Obtain the investigator's license and client from the legal firm and state licensing board.",
+      "transcript_snippet": "This looks to me like a private investigator. Like Turning Point USA has sent private investigators to gather information on their employees.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-571"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10125",
+      "ref": "C-10125",
+      "label": "Host Says She Tweeted at Kolvet for a Statement on the Photographing",
+      "claim": "The host says she tweeted at Andrew Kolvet for a statement about the man photographing the Lich home.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:55",
+      "investigative_direction": "Check the host's post and any TPUSA reply.",
+      "transcript_snippet": "I certainly tweeted at Andrew Kolb for a statement on this.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-563"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10126",
+      "ref": "C-10126",
+      "label": "Host Says Fired TPUSA Employees' GoFundMe Is Coming Down Thursday",
+      "claim": "The host says former TPUSA employees are going to take down their GoFundMe on Thursday of that week and urges viewers to support The Perch Fallout Fund.",
+      "anchored_artifacts": [
+        "A-3054.1",
+        "A-3054.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-11249"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:30",
+      "investigative_direction": "Check the GoFundMe page for its organizer, total and end date.",
+      "transcript_snippet": "They are going to move to take down their GoFundMe on Thursday of this week.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10127",
+      "ref": "C-10127",
+      "label": "Host Says Fired Employees Did Not See the Billions Allegedly Coming In From Pierre",
+      "claim": "The host says the fired employees worked 20-hour days and did not see any of the billions that are allegedly coming in from Pierre.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10493"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:50",
+      "investigative_direction": "Identify who 'Pierre' refers to and the alleged donations through donor filings.",
+      "transcript_snippet": "And of course, they did not see any of the billions that are allegedly coming in from Pierre.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10128",
+      "ref": "C-10128",
+      "label": "Host Says Employees Were Emotionally Manipulated to Believe Charlie Was in the Office Working",
+      "claim": "The host says the fired employees were emotionally manipulated to believe that Charlie Kirk was in the office working.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:55",
+      "investigative_direction": "Interview former employees about what they were told about Kirk's presence in the office.",
+      "transcript_snippet": "They got to be emotionally manipulated to believe that Charlie was in the office working.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10129",
+      "ref": "C-10129",
+      "label": "Host Says Charlie Stood Up in the End and Said He Was Done With It",
+      "claim": "The host says that in the end Charlie Kirk stood up and said no more, that he was done with this and that the money did not mean anything to him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:29",
+      "investigative_direction": "Use the night-before messages to test the host's characterization.",
+      "transcript_snippet": "he stood up and he said, \"No, no more. I am done with this. The money doesn't mean anything to me.",
+      "supports_claim_refs": [
+        "C-1376"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10130",
+      "ref": "C-10130",
+      "label": "Host Says Prejean Bowler Asked What Anti-Semitism Is and What Seth Did at the Hamptons",
+      "claim": "The host says Carrie Prejean Bowler stood up at a hearing and asked what anti-Semitism even is and what Seth did at the Hamptons, where she says Charlie was pressed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10345"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:03",
+      "investigative_direction": "Watch the hearing and verify what Prejean Bowler said and to whom.",
+      "transcript_snippet": "she stood up during that hearing and said, \"What even is anti-Semitism? Seth, actually, what did you even do at the Hamptons?\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-566",
+        "N-38",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10131",
+      "ref": "C-10131",
+      "label": "Host Says Whispers Say Prejean Bowler Will Be Removed From the Religious Committee",
+      "claim": "The host says Laura Loomer and others are saying there are whispers that Carrie Prejean Bowler will be kicked off the religious committee because she will not bend the knee to Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11188"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:30",
+      "investigative_direction": "Check the commission's membership announcements and Loomer's posts.",
+      "transcript_snippet": "there's whispers that she's going to be kicked off of the religious committee because she won't bend the knee to Israel.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-566",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10132",
+      "ref": "C-10132",
+      "label": "Host Quotes Prejean Bowler Saying Catholic Doctrine Is Not Worshipping Netanyahu",
+      "claim": "The host says Carrie Prejean Bowler said that she is a Catholic and that Catholic doctrine does not teach worshipping Benjamin Netanyahu.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:56",
+      "investigative_direction": "Retrieve Prejean Bowler's own remarks to confirm the wording.",
+      "transcript_snippet": "I'm a Catholic. This is not our doctrine. Our doctrine is not that we worship BB Netanyahu.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-566",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10133",
+      "ref": "C-10133",
+      "label": "Host Says She Posted a Video of Gaza on X",
+      "claim": "The host says she put a video of what Gaza looks like today on her X feed and invites viewers to look at it.",
+      "anchored_artifacts": [
+        "A-3055.1",
+        "A-3055.1"
+      ],
+      "related_nodes": [
+        "N-10063"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:20",
+      "investigative_direction": "Locate the host's post and verify the source and date of the video.",
+      "transcript_snippet": "If not, you can see it cuz I just put it on X. You can go to my X feed and look at what Gaza looks like today.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10134",
+      "ref": "C-10134",
+      "label": "Host Says Netanyahu Is Making His Seventh Trip to the US This Week",
+      "claim": "The host says she thinks Benjamin Netanyahu is making his seventh trip to the United States this week.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:55",
+      "investigative_direction": "Check Netanyahu's travel schedule for the week of February 10, 2026.",
+      "transcript_snippet": "I think Bibi's making his seventh trip here this week.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10135",
+      "ref": "C-10135",
+      "label": "Host Says the Military Has Been Hijacked by Israel Since Probably 1963",
+      "claim": "The host says the American military has been completely hijacked by Israel, probably since 1963.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:00",
+      "investigative_direction": "This is a sweeping assertion; any documentary basis would have to be supplied by the host.",
+      "transcript_snippet": "It's been completely hijacked by Israel, probably since 1963.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10136",
+      "ref": "C-10136",
+      "label": "Host Offers to Retire From Podcasting if the Government Tells the Truth About Charlie",
+      "claim": "The host says she will retire from podcasting if the government comes out and tells the truth about what they did to Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:47:09",
+      "investigative_direction": "The offer is a conditional commitment; track whether any official statement is made and whether she retires.",
+      "transcript_snippet": "If they come out and they tell us the truth about what they did to Charlie Kirk, I'll retire from podcasting.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-10137",
+      "ref": "C-10137",
+      "label": "Host Says Alex Clark Told Them Charlie Just Liked Catholic Architecture",
+      "claim": "The host says Alex Clark told them that Charlie Kirk's embrace of Catholicism was not true and that he just liked the architecture.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10764"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:31",
+      "investigative_direction": "Find Alex Clark's statement about Kirk's visits to Catholic churches.",
+      "transcript_snippet": "Well, Alex Clark told us that wasn't true. He just liked the architecture, right?",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-99",
+        "N-1"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-219",
+      "ref": "M-219",
+      "canonical_term": "Toddler Clues",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 72,
+          "video_timestamp": "00:01:06",
+          "speaker_node_ref": "N-3",
+          "quote": "We're effectively now playing a toddler's game of Blue's Clues.",
+          "context": "Host frames the evidence against Erika as a Blue's Clues game.",
+          "confidence": "high",
+          "tags": [
+            "blue's clues",
+            "toddler"
+          ]
+        },
+        {
+          "episode": 72,
+          "video_timestamp": "00:13:10",
+          "speaker_node_ref": "N-3",
+          "quote": "Because my dog Blue my dog Blue is leaving his paw print in this picture seems pretty obvious that it is emerging.",
+          "context": "Host runs the Blue's Clues paw-print bit through three incidents.",
+          "confidence": "high",
+          "tags": [
+            "blue's clues",
+            "paw print"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-190",
+      "ref": "M-190",
+      "canonical_term": "Superman Neck",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 72,
+          "video_timestamp": "00:13:10",
+          "speaker_node_ref": "N-3",
+          "quote": "she is the one that suggested that Charlie has a Superman neck.",
+          "context": "Host says Erika suggested the Superman neck explanation.",
+          "confidence": "high",
+          "tags": [
+            "superman neck",
+            "surgeon"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 72,
+          "video_timestamp": "00:36:20",
+          "speaker_node_ref": "N-3",
+          "quote": "More tips at candaceowens. com.",
+          "context": "Host asks classmates and roommates of Erika Kirk to send tips.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-84",
+      "ref": "M-84",
+      "canonical_term": "Bend the Knee",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 72,
+          "video_timestamp": "00:43:03",
+          "speaker_node_ref": "N-3",
+          "quote": "because she won't bend the knee to Israel",
+          "context": "Host says Prejean Bowler will not bend the knee to Israel.",
+          "confidence": "high",
+          "tags": [
+            "bend the knee",
+            "prejean"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 72,
+          "video_timestamp": "00:45:32",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king. Truth is going to win.",
+          "context": "Host's closing confession in the comments segment.",
+          "confidence": "high",
+          "tags": [
+            "christ is king",
+            "closing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-167",
+      "ref": "M-167",
+      "canonical_term": "Christian Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 72,
+          "video_timestamp": "00:48:31",
+          "speaker_node_ref": "N-3",
+          "quote": "Chat GPT does not comprehend Christian slop.",
+          "context": "Host jokes that ChatGPT cannot grasp the Christian slop explanation of the bullet.",
+          "confidence": "high",
+          "tags": [
+            "christian slop",
+            "chatgpt"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-256",
+      "ref": "M-256",
+      "canonical_term": "Meddling Kid",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 72,
+          "video_timestamp": "00:40:05",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm the meddling kid.",
+          "context": "Host casts herself as the meddling kid at the end of a Scooby-Doo mystery.",
+          "confidence": "high",
+          "tags": [
+            "scooby-doo",
+            "meddling kid"
+          ]
+        }
+      ]
+    }
+  ]
 }

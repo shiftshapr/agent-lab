@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: a1f3c6dfa924e1a32b03c50b03b00f101fbd284665dcd6d81eb0bac4b30dbf95
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10616, N-10617, N-10618, N-10619, N-10620, N-10621, N-10622
-  - Reused Nodes Appearing: none (Wave 2: local ids removed)
+  - New Nodes Introduced: N-10616, N-10617, N-10618, N-10619, N-10622
+  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621
   - (see registers)
 
 ## 2. Executive Summary

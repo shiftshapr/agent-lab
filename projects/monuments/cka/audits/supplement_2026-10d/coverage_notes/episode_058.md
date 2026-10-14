@@ -1,0 +1,4 @@
+# Coverage notes, episode 58
+
+- Existing draft holds 18 claims (C-2108 to C-2123, C-3742 and C-3657) and covers roughly 16 beats in broad strokes; this pass judged about 16 beats covered and added 83 new claims, 6 artifacts, 3 new people, 6 new topics and 1 new meme.
+- Missed by the earlier pass: (1) the entire Courage House Nevada fact set at 00:24:52 to 00:28:30 (donor, 40 acres, PRTF, confidential site, hard to leave, ages 4 to 6, stay to 21); (2) the host's Shapiro and AmFest donor-pressure account and Kolvet's phone call at 00:22:45 to 00:24:00; (3) the Erika Fort Huachuca alibi video exchange and the promised Monday update at 00:13:20 and 01:01:45; (4) Kolvet's PR response (feigned confusion about fort, photo on the wrong date) at 00:02:33 to 00:03:23; (5) Vallely, Temple of Set co-author and McCoy, Laurie, Ballard recap at 00:14:14 to 00:16:13, and the Charlie DARPA, missile and Montgomery assertions at 00:58:00 to 01:01:30.

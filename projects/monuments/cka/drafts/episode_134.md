@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11143
   - Claim Range (supplement_2026-10b): C-7400–C-7473
-  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-190, N-221, N-375, N-518, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065
+  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-190, N-221, N-375, N-518, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764
  - (see registers)
 
 ## I. Meta-Data
@@ -30,7 +30,7 @@
 - Ledger continuation summary:
  - Artifact Families Introduced: A-2205, A-2206, A-2207, A-2208, A-2209, A-2210, A-2211, A-2212, A-2213, A-2214, A-2215, A-2216
  - Claim Range: C-3162–C-3174
- - New Nodes Introduced: N-10759, N-10760, N-10761, N-10763, N-10764
+ - New Nodes Introduced: N-10759, N-10760, N-10761, N-10763
  - Reused Nodes Appearing: N-2
  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 

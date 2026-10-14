@@ -2,7 +2,7 @@
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2013 shared across monuments",
   "updated": "2026-10-08T19:40:19Z",
-  "next_id": 201,
+  "next_id": 272,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -1674,7 +1674,7 @@
       "canonical_term": "(meme) Overwhelming",
       "type": "meme",
       "aliases": [],
-      "definition": "Host's mocking tag for the influencers' identical word for the hearing evidence.",
+      "definition": "Host mocks Neff and Kolvet's repeated use of overwhelming evidence.",
       "context": "cka",
       "first_episode": 124
     },
@@ -1690,7 +1690,7 @@
       "canonical_term": "(meme) Amnesia",
       "type": "meme",
       "aliases": [],
-      "definition": "Host frames the episode's running bit about officials forgetting September 10.",
+      "definition": "Host jokes that the unseen Blake Neff has amnesia about September 10.",
       "context": "cka",
       "first_episode": 127
     },
@@ -1722,7 +1722,7 @@
       "canonical_term": "(meme) Mockingbirds",
       "type": "meme",
       "aliases": [],
-      "definition": "Host calls critics mockingbirds at the top of the episode.",
+      "definition": "Host labels influencers who say inquiry is wrong as mockingbird influencers.",
       "context": "cka",
       "first_episode": 134
     },
@@ -1770,7 +1770,7 @@
       "canonical_term": "(meme) Shady Bunch",
       "type": "meme",
       "aliases": [],
-      "definition": "Host's label for the people who arrived with Charlie Kirk, as she sets up what Butch Hibbs did.",
+      "definition": "Host opens by naming Blake Neff her favorite of the shady bunch.",
       "context": "cka",
       "first_episode": 146
     },
@@ -1810,9 +1810,577 @@
       "canonical_term": "(meme) Make Israel Great Again",
       "type": "meme",
       "aliases": [],
-      "definition": "Host sarcastically recasts MAGA as MGA at the close.",
+      "definition": "Host glosses MIGA while reading Dan Patrick's post.",
       "context": "cka",
       "first_episode": 156
+    },
+    "M-201": {
+      "canonical_term": "(meme) Slave Slop",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host labels the ADL's statement and the left-versus-right illusion as slave slop.",
+      "context": "cka",
+      "first_episode": 14
+    },
+    "M-202": {
+      "canonical_term": "(meme) Witness Tree",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host closes the opener with the witness tree refrain.",
+      "context": "cka",
+      "first_episode": 14
+    },
+    "M-203": {
+      "canonical_term": "(meme) Tapestry of Deception",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host opens with the tapestry image.",
+      "context": "cka",
+      "first_episode": 14
+    },
+    "M-204": {
+      "canonical_term": "(meme) Charlie the Friendly Ghost",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's jab that critics wanted to turn Charlie Kirk into a harmless ghost.",
+      "context": "cka",
+      "first_episode": 29
+    },
+    "M-205": {
+      "canonical_term": "(meme) Cray-Cray",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's escalating running label for the behavior of Zionist critics.",
+      "context": "cka",
+      "first_episode": 29
+    },
+    "M-206": {
+      "canonical_term": "(meme) Megan Markle Syndrome",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host says wanting privacy when convenient but publicity otherwise will read as Megan Markle syndrome in Erika Kirk's burial-privacy request.",
+      "context": "cka",
+      "first_episode": 45
+    },
+    "M-207": {
+      "canonical_term": "(meme) Can't Critique the Fam",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks the idea that TPUSA employees are family and thus beyond critique.",
+      "context": "cka",
+      "first_episode": 45
+    },
+    "M-208": {
+      "canonical_term": "(meme) Nosy Neighbors",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host casts herself and her audience as nosy neighbors in a sudden-death analogy.",
+      "context": "cka",
+      "first_episode": 45
+    },
+    "M-209": {
+      "canonical_term": "(meme) Candace 19",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host likens social-distancing from her to COVID messaging and coins Candace 19.",
+      "context": "cka",
+      "first_episode": 45
+    },
+    "M-210": {
+      "canonical_term": "(meme) Common Sense Virus",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host extends the Candace 19 bit by calling common sense the virus.",
+      "context": "cka",
+      "first_episode": 45
+    },
+    "M-211": {
+      "canonical_term": "(meme) Moon Inc.",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host uses Moon Inc. as shorthand for Kirk's alleged offer and mocks Netanyahu's next-level language.",
+      "context": "cka",
+      "first_episode": 54
+    },
+    "M-212": {
+      "canonical_term": "(meme) Glitch Glitch",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mimics Christian influencers she says are glitching when the topic is Kirk or Israel.",
+      "context": "cka",
+      "first_episode": 54
+    },
+    "M-213": {
+      "canonical_term": "(meme) God Will Not Be Mocked",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host repeats the line after the donor-targeting story.",
+      "context": "cka",
+      "first_episode": 66
+    },
+    "M-214": {
+      "canonical_term": "(meme) Shabbat Shalom, Daddy's Home",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks how she says TPUSA changes its message in a room with Jewish donors.",
+      "context": "cka",
+      "first_episode": 66
+    },
+    "M-215": {
+      "canonical_term": "(meme) Needs a Swirly",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes that Don Lemon deserves a swirly.",
+      "context": "cka",
+      "first_episode": 66
+    },
+    "M-216": {
+      "canonical_term": "(meme) I Told the Priest I Would Chill",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes about her new sweatshirt before telling the priest story.",
+      "context": "cka",
+      "first_episode": 66
+    },
+    "M-217": {
+      "canonical_term": "(meme) Egyptian Planes Joke",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host calls her earlier Egyptian planes remark a little joke before saying there is a lot to see.",
+      "context": "cka",
+      "first_episode": 70
+    },
+    "M-218": {
+      "canonical_term": "(meme) Loose End",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host offers a reason Erika Kirk allegedly authorized attacks on her.",
+      "context": "cka",
+      "first_episode": 70
+    },
+    "M-219": {
+      "canonical_term": "(meme) Toddler Clues",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host frames the missing photo as the first clue, in a Blue's Clues parody.",
+      "context": "cka",
+      "first_episode": 73
+    },
+    "M-220": {
+      "canonical_term": "(meme) Candicism",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host satirically founds a religion called candicism.",
+      "context": "cka",
+      "first_episode": 73
+    },
+    "M-221": {
+      "canonical_term": "(meme) Picture Gates",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host names the wedding photo controversy.",
+      "context": "cka",
+      "first_episode": 73
+    },
+    "M-222": {
+      "canonical_term": "(meme) Weed Whacker",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host riffs on Kolvet saying the details were too in the weeds.",
+      "context": "cka",
+      "first_episode": 82
+    },
+    "M-223": {
+      "canonical_term": "(meme) Buy That for Blake",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes viewers should buy Shabbat Shalom merchandise for Blake Neff.",
+      "context": "cka",
+      "first_episode": 82
+    },
+    "M-224": {
+      "canonical_term": "(meme) Blake's Got to Blake",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host compares Blake Neff's predictable self-sabotage to Tom and Jerry reruns.",
+      "context": "cka",
+      "first_episode": 88
+    },
+    "M-225": {
+      "canonical_term": "(meme) Mythomania",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host introduces mythomania as the vocab word of the day before applying it to Netanyahu and TPUSA.",
+      "context": "cka",
+      "first_episode": 88
+    },
+    "M-226": {
+      "canonical_term": "(meme) Subway Knife Psycho",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host reacts to Neff's knife-on-the-subway comparison.",
+      "context": "cka",
+      "first_episode": 88
+    },
+    "M-227": {
+      "canonical_term": "(meme) DC Dip and Twirl",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host describes Erika's NYT Book Summit answer as dodging the question.",
+      "context": "cka",
+      "first_episode": 88
+    },
+    "M-228": {
+      "canonical_term": "(meme) Make America Christian Again (MACA)",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host shows a new MACA hat and says the direction is making America Christian again.",
+      "context": "cka",
+      "first_episode": 89
+    },
+    "M-229": {
+      "canonical_term": "(meme) Four Horsemen of MAGA",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host brands herself, Carlson, Kelly and Jones as the four horsemen and asks for the merch typo to be fixed.",
+      "context": "cka",
+      "first_episode": 89
+    },
+    "M-230": {
+      "canonical_term": "(meme) Third Rate Podcaster",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host adopts the post's insult as a merch joke.",
+      "context": "cka",
+      "first_episode": 89
+    },
+    "M-231": {
+      "canonical_term": "(meme) Blakey the Neff",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host riffs on Blake Neff's name while recounting his refusal to show the video.",
+      "context": "cka",
+      "first_episode": 90
+    },
+    "M-232": {
+      "canonical_term": "(meme) Charlie GPT",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host ties the term Charlie GPT to the Aspen audio and Kolvet's remark.",
+      "context": "cka",
+      "first_episode": 90
+    },
+    "M-233": {
+      "canonical_term": "(meme) The Hillary Clinton Campaign",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host likens TPUSA's pushback to the whiny 2016 Clinton campaign.",
+      "context": "cka",
+      "first_episode": 96
+    },
+    "M-234": {
+      "canonical_term": "(meme) Operation Erika Kirk",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host repeats Baron Coleman's phrase for the WHCD focus on Erika.",
+      "context": "cka",
+      "first_episode": 96
+    },
+    "M-235": {
+      "canonical_term": "(meme) Maroon Boys",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's name for the solo maroon-shirted men in the audience.",
+      "context": "cka",
+      "first_episode": 122
+    },
+    "M-236": {
+      "canonical_term": "(meme) Silver Alert for Blake",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host runs a bit that a silver alert for the missing Blake Neff drew no tips, with the nickname Blakey-poo.",
+      "context": "cka",
+      "first_episode": 126
+    },
+    "M-237": {
+      "canonical_term": "(meme) Christianese",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host calls the pastors' and Erika's speech Christianese.",
+      "context": "cka",
+      "first_episode": 132
+    },
+    "M-238": {
+      "canonical_term": "(meme) Don't Go to DC",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host tells Kolvet to stay home from DC.",
+      "context": "cka",
+      "first_episode": 132
+    },
+    "M-239": {
+      "canonical_term": "(meme) Baron Coleman Is a Lesbian",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's running joke announcing Baron Coleman is a lesbian, echoing the smear packages aimed at her.",
+      "context": "cka",
+      "first_episode": 160
+    },
+    "M-240": {
+      "canonical_term": "(meme) Candyland",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's nickname for the Candace fantasy series of smear narratives.",
+      "context": "cka",
+      "first_episode": 160
+    },
+    "M-241": {
+      "canonical_term": "(meme) Nashville Mafia",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's mock-gangster persona (Tennessee mafia, Scarface of Nashville) satirizing the nanny rumor.",
+      "context": "cka",
+      "first_episode": 160
+    },
+    "M-242": {
+      "canonical_term": "(meme) Welcome to My Life",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host tells Baron Coleman he is now being smeared the way she is.",
+      "context": "cka",
+      "first_episode": 160
+    },
+    "M-243": {
+      "canonical_term": "(meme) Regicide",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host floats the theory that Kirk was killed to install a ruler he would not have approved.",
+      "context": "cka",
+      "first_episode": 12
+    },
+    "M-244": {
+      "canonical_term": "(meme) Your Gut Is Your God Instinct",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host links Charlie's go-with-your-gut line to intuition given by God.",
+      "context": "cka",
+      "first_episode": 12
+    },
+    "M-245": {
+      "canonical_term": "(meme) Kill Switch",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host previews explaining her kill switch.",
+      "context": "cka",
+      "first_episode": 17
+    },
+    "M-246": {
+      "canonical_term": "(meme) Mansplaining",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Mark offers to explain the FlightRadar chart; the host later thanks him for mansplaining.",
+      "context": "cka",
+      "first_episode": 22
+    },
+    "M-247": {
+      "canonical_term": "(meme) Seth Dillon Level Struggle Session",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host teases the segment on Tucker Carlson and Seth Dillon.",
+      "context": "cka",
+      "first_episode": 22
+    },
+    "M-248": {
+      "canonical_term": "(meme) The Market Is Always Right",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host repeats her husband's saying to argue the public does not trust TPUSA donors or the official story.",
+      "context": "cka",
+      "first_episode": 24
+    },
+    "M-249": {
+      "canonical_term": "(meme) Hitler Alert",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes that new accusations of being Hitler should come as iPhone alerts, like Amber Alerts, after Brett Cooper is accused.",
+      "context": "cka",
+      "first_episode": 26
+    },
+    "M-250": {
+      "canonical_term": "(meme) Struggle Session",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's verb for coordinated pressure to make someone disavow or recant.",
+      "context": "cka",
+      "first_episode": 28
+    },
+    "M-251": {
+      "canonical_term": "(meme) Moral Blackmail",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host applies Kirk's phrase to Shapiro's on-stage pressure on Kelly.",
+      "context": "cka",
+      "first_episode": 28
+    },
+    "M-252": {
+      "canonical_term": "(meme) When They Freak Out It's a Clue",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host opens by saying panic over her event-timeline claim is a clue.",
+      "context": "cka",
+      "first_episode": 30
+    },
+    "M-253": {
+      "canonical_term": "(meme) I Need to Know and I Will Know",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host on which TPUSA employees picked the outdoor venue.",
+      "context": "cka",
+      "first_episode": 30
+    },
+    "M-254": {
+      "canonical_term": "(meme) Nuclear Energy",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host turns Boreing's insult into her own bit.",
+      "context": "cka",
+      "first_episode": 64
+    },
+    "M-255": {
+      "canonical_term": "(meme) Muggles",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Opens the Iraq segment with the muggle framing.",
+      "context": "cka",
+      "first_episode": 68
+    },
+    "M-256": {
+      "canonical_term": "(meme) Meddling Kid",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host casts herself as the meddling kid at the end of a Scooby-Doo mystery.",
+      "context": "cka",
+      "first_episode": 72
+    },
+    "M-257": {
+      "canonical_term": "(meme) Justice for GG",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mock cause to stop TPUSA from using the Kirks' toddler as an alibi.",
+      "context": "cka",
+      "first_episode": 74
+    },
+    "M-258": {
+      "canonical_term": "(meme) Erika Explainers",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host label for people who defend or explain away Erika Kirk's conduct.",
+      "context": "cka",
+      "first_episode": 74
+    },
+    "M-259": {
+      "canonical_term": "(meme) Candace Owens Was Right Jar",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host joke that she tosses vindicated predictions into a jar.",
+      "context": "cka",
+      "first_episode": 74
+    },
+    "M-260": {
+      "canonical_term": "(meme) Midas Touch",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's label for Erika being pulled through the ranks by unseen helpers.",
+      "context": "cka",
+      "first_episode": 76
+    },
+    "M-261": {
+      "canonical_term": "(meme) Epstein Fury",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's mocking name for the Iran bombing operation.",
+      "context": "cka",
+      "first_episode": 76
+    },
+    "M-262": {
+      "canonical_term": "(meme) Revelation of the Method",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host says elites tell the public what they are doing in plain sight.",
+      "context": "cka",
+      "first_episode": 76
+    },
+    "M-263": {
+      "canonical_term": "(meme) The Writers Are Running Out of Ideas",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks the Erika storyline as a sitcom season.",
+      "context": "cka",
+      "first_episode": 76
+    },
+    "M-264": {
+      "canonical_term": "(meme) If the Gun Does Not Fit, You Must Acquit",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host opens the filing discussion with the refrain.",
+      "context": "cka",
+      "first_episode": 86
+    },
+    "M-265": {
+      "canonical_term": "(meme) Power of Subpoena",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes the lawsuit grants her the power of subpoena.",
+      "context": "cka",
+      "first_episode": 97
+    },
+    "M-266": {
+      "canonical_term": "(meme) Tyler Loves Maroon",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks the media seeding of Robinson's maroon shirt.",
+      "context": "cka",
+      "first_episode": 140
+    },
+    "M-267": {
+      "canonical_term": "(meme) All I Got Was a Maroon T-Shirt",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes about the book she would write on the official timeline.",
+      "context": "cka",
+      "first_episode": 140
+    },
+    "M-268": {
+      "canonical_term": "(meme) Caught in 4K",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host teases the Tardio story in her opener.",
+      "context": "cka",
+      "first_episode": 152
+    },
+    "M-269": {
+      "canonical_term": "(meme) TPUSA Is Ghetto",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's sign-off verdict on TPUSA after the Alex Clark remarks.",
+      "context": "cka",
+      "first_episode": 152
+    },
+    "M-270": {
+      "canonical_term": "(meme) Where My Techies At",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host asks tech-savvy viewers to explain the Wayback Machine loading anomaly.",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-271": {
+      "canonical_term": "(meme) Elephant Droppings",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host reads and agrees with a comment mocking the elephant clipping campaign.",
+      "context": "cka",
+      "first_episode": 161
     }
   },
   "types": {

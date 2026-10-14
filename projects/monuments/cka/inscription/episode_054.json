@@ -457,6 +457,379 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2920",
+      "family_ref": "A-2920",
+      "bundle_name": "Host Recurring Themes Excel Sheet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2920.1",
+          "ref": "A-2920.1",
+          "description": "Excel spreadsheet the host shows listing recurring themes (Liberty University, Eastern Europe, trafficking and child sex abuse, military) with names under each",
+          "related_claims": [
+            "C-8133",
+            "C-8134",
+            "C-8135",
+            "C-8136",
+            "C-8139"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10000",
+            "N-11",
+            "N-11104"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:05:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2921",
+      "family_ref": "A-2921",
+      "bundle_name": "South Korea Holocaust Museum Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2921.1",
+          "ref": "A-2921.1",
+          "description": "Article headline the host shows reading that South Korean Christian Zionists open the country's first Holocaust Museum",
+          "related_claims": [
+            "C-8220"
+          ],
+          "related_nodes": [
+            "N-10397",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:56:52",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2922",
+      "family_ref": "A-2922",
+      "bundle_name": "Washington Post 1997 Unification Church Additional Excerpts Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2922.1",
+          "ref": "A-2922.1",
+          "description": "Excerpt read aloud: Moon holdings include The Washington Times, a video production firm and a former Mormon church on 16th Street Northwest",
+          "related_claims": [
+            "C-8211"
+          ],
+          "related_nodes": [
+            "N-10399",
+            "N-409",
+            "N-11169"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:37",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2922.2",
+          "ref": "A-2922.2",
+          "description": "Excerpt read aloud: vast multinational that could be called Moon Inc., a sprawling collection of churches, nonprofits and holding companies",
+          "related_claims": [
+            "C-8212"
+          ],
+          "related_nodes": [
+            "N-10399",
+            "N-409"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:37",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2922.3",
+          "ref": "A-2922.3",
+          "description": "Excerpt read aloud: church-linked Washington-area property worth more than $200 million",
+          "related_claims": [
+            "C-8213"
+          ],
+          "related_nodes": [
+            "N-10399",
+            "N-409"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:53:46",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2922.4",
+          "ref": "A-2922.4",
+          "description": "Excerpt read aloud: self-declared Messiah and Richard Rubenstein quote that ideas without money are just dreams",
+          "related_claims": [
+            "C-8215"
+          ],
+          "related_nodes": [
+            "N-10399",
+            "N-409"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:54:28",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2922.5",
+          "ref": "A-2922.5",
+          "description": "Excerpt read aloud: interlocking directorships, endless flow of cash from the Far East, and executives acknowledging Japan and Korea money",
+          "related_claims": [
+            "C-8216",
+            "C-8217"
+          ],
+          "related_nodes": [
+            "N-10399",
+            "N-409",
+            "N-11169"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:55:11",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2922.6",
+          "ref": "A-2922.6",
+          "description": "Excerpt read aloud: sources of payments have eluded investigators on three continents over three decades",
+          "related_claims": [
+            "C-8218"
+          ],
+          "related_nodes": [
+            "N-10399",
+            "N-409"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:56:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2922.7",
+          "ref": "A-2922.7",
+          "description": "Excerpt read aloud: Moon-sponsored conferences for opinion shapers with expenses paid, and former priest Bordelon on credibility",
+          "related_claims": [
+            "C-8221",
+            "C-8223"
+          ],
+          "related_nodes": [
+            "N-10398",
+            "N-10399",
+            "N-409"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:57:47",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2922.8",
+          "ref": "A-2922.8",
+          "description": "Excerpt read aloud: International Coalition for Religious Freedom sharing a suite with the Martial Arts Federation and Washington Times Aviation",
+          "related_claims": [
+            "C-8226"
+          ],
+          "related_nodes": [
+            "N-10399",
+            "N-409",
+            "N-11169"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:00:49",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2922.9",
+          "ref": "A-2922.9",
+          "description": "Excerpt read aloud: Paquette says virtually none of Unification's US operations is profitable",
+          "related_claims": [
+            "C-8227"
+          ],
+          "related_nodes": [
+            "N-10399",
+            "N-409"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:01:41",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2922.10",
+          "ref": "A-2922.10",
+          "description": "Excerpt read aloud: SEC filings tracing Nostalgia cash to Unification Church International",
+          "related_claims": [
+            "C-8229"
+          ],
+          "related_nodes": [
+            "N-10399",
+            "N-409"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:02:19",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2922.11",
+          "ref": "A-2922.11",
+          "description": "Excerpt read aloud: Paquette on bags of cash from Korea and Japan to the Manhattan Center",
+          "related_claims": [
+            "C-8230"
+          ],
+          "related_nodes": [
+            "N-10399",
+            "N-409"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:03:13",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2923",
+      "family_ref": "A-2923",
+      "bundle_name": "Viewer Comments Read On Air Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2923.1",
+          "ref": "A-2923.1",
+          "description": "Viewer comment from Vera Black Designs about Dan Flood's hand signals and a man in the front row pulling his sleeves",
+          "related_claims": [
+            "C-8238",
+            "C-8239"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-276",
+            "N-498"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:17:37",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2923.2",
+          "ref": "A-2923.2",
+          "description": "Viewer comment from Jennifer K8033 asking about John Bray's work",
+          "related_claims": [
+            "C-8241",
+            "C-8242",
+            "C-8243",
+            "C-8244"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10253",
+            "N-10398",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:18:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2923.3",
+          "ref": "A-2923.3",
+          "description": "Viewer comment urging the host to look into Paul Vallely",
+          "related_claims": [
+            "C-8245",
+            "C-8246",
+            "C-8247"
+          ],
+          "related_nodes": [
+            "N-10000",
+            "N-10739",
+            "N-3",
+            "N-460"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:20:03",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2924",
+      "family_ref": "A-2924",
+      "bundle_name": "Charis Bible College Event Tip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2924.1",
+          "ref": "A-2924.1",
+          "description": "Host verbal reference to a tip from someone involved in planning the September 11, 2025 Charis Bible College event in Woodland Park, Colorado (nothing shown)",
+          "related_claims": [
+            "C-8129",
+            "C-8130",
+            "C-8131",
+            "C-8132"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10396",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:03:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -1044,7 +1417,30 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8129",
+        "C-8130",
+        "C-8135",
+        "C-8138",
+        "C-8139",
+        "C-8141",
+        "C-8142",
+        "C-8165",
+        "C-8206",
+        "C-8210",
+        "C-8219",
+        "C-8228",
+        "C-8231",
+        "C-8232",
+        "C-8233",
+        "C-8234",
+        "C-8236",
+        "C-8237",
+        "C-8238",
+        "C-8240",
+        "C-8244",
+        "C-8251"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1060,10 +1456,1484 @@
       "type": "person",
       "description": "Person Tyler Bowyer (N-11).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-2027"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "TPUSA CEO; the host discusses her Falkirk fellowship, Romanian Angels history and family DOD ties.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8133",
+        "C-8141",
+        "C-8144",
+        "C-8145",
+        "C-8147",
+        "C-8149",
+        "C-8169",
+        "C-8170",
+        "C-8190"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8127",
+        "C-8128",
+        "C-8129",
+        "C-8131",
+        "C-8132",
+        "C-8137",
+        "C-8143",
+        "C-8146",
+        "C-8150",
+        "C-8151",
+        "C-8154",
+        "C-8163",
+        "C-8171",
+        "C-8174",
+        "C-8178",
+        "C-8188",
+        "C-8189",
+        "C-8190",
+        "C-8191",
+        "C-8192",
+        "C-8200",
+        "C-8201",
+        "C-8206",
+        "C-8207",
+        "C-8209",
+        "C-8214",
+        "C-8219",
+        "C-8220",
+        "C-8222",
+        "C-8224",
+        "C-8225",
+        "C-8228",
+        "C-8231",
+        "C-8232",
+        "C-8236",
+        "C-8237",
+        "C-8240",
+        "C-8241",
+        "C-8242",
+        "C-8243",
+        "C-8244",
+        "C-8247",
+        "C-8248",
+        "C-8249",
+        "C-8250",
+        "C-8251"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 46,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Host lists his and his sons' military backgrounds.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8172",
+        "C-8173"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Cited in the host's Iran-Contra and pageant remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8191",
+        "C-8207"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host discusses his Kairos PR background and family military ties (transcribed Kolwitz).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8136",
+        "C-8138",
+        "C-8152",
+        "C-8167"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor; the host cites his Falkirk Center, Calvary Chapel and TPUSA Faith roles.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8135",
+        "C-8139",
+        "C-8154",
+        "C-8162",
+        "C-8168",
+        "C-8222",
+        "C-8250"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Subject of the Turning Point offer the host restates.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8206"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "The decoy suspect; the host repeats the images and payment claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8158",
+        "C-8159"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-61",
+      "ref": "N-61",
+      "name": "Phil Lyman",
+      "type": "person",
+      "description": "The host says he visited Tim Ballard after the assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8166"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-66",
+      "ref": "N-66",
+      "name": "Village Crazy Lady",
+      "type": "person",
+      "description": "Mel; messaged the host about the Seven Mountain Mandate and Wilks brothers.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8248"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-94",
+      "ref": "N-94",
+      "name": "Derek Maxfield",
+      "type": "person",
+      "description": "Said by the host to own the 888 plane and run Saprea.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8155",
+        "C-8156"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-118",
+      "ref": "N-118",
+      "name": "Marissa Strait",
+      "type": "person",
+      "description": "PragerU CEO who introduced the host to Operation Underground.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8163"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-179",
+      "ref": "N-179",
+      "name": "Deidra Weiss Amaro",
+      "type": "person",
+      "description": "Utah medical examiner described as a major.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8176"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Accepted to Liberty but joined TPUSA instead, per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8134"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-199",
+      "ref": "N-199",
+      "name": "Lee Trotter",
+      "type": "person",
+      "description": "Doctor whose residency on an Air Force base and pilot's license the host notes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8175"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-200",
+      "ref": "N-200",
+      "name": "Roy Edgar McCoy",
+      "type": "person",
+      "description": "Rob McCoy's father, said to have run naval intelligence psychological operations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8168"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-204",
+      "ref": "N-204",
+      "name": "Shirlene Maxfield",
+      "type": "person",
+      "description": "Said by the host to co-own the 888 plane and run Saprea (spelled Shailene in the transcript).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8155",
+        "C-8156"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-209",
+      "ref": "N-209",
+      "name": "Sean Feucht",
+      "type": "person",
+      "description": "Said to be leading the TPUSA Faith pastor summit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8222"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-212",
+      "ref": "N-212",
+      "name": "Jack Hibbs",
+      "type": "person",
+      "description": "Pastor whose father's military background the host notes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8177"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-229",
+      "ref": "N-229",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Podcast host who interviewed Brian Herpolsheimer; the clip is replayed (spelled Sean Ryan in the transcript).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8126",
+        "C-8127"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-242",
+      "ref": "N-242",
+      "name": "Glenn Beck",
+      "type": "person",
+      "description": "The host says he funded Operation Underground and his children were at UVU.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8164",
+        "C-8165"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-251",
+      "ref": "N-251",
+      "name": "Butch Hibbs",
+      "type": "person",
+      "description": "The host suspects military involvement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8177"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-276",
+      "ref": "N-276",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Named in a viewer's question about hand signals during the shooting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8238"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-290",
+      "ref": "N-290",
+      "name": "Xavier Poussard",
+      "type": "person",
+      "description": "Cited for Epstein's pump-money-into-organizations mechanism.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8191"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-332",
+      "ref": "N-332",
+      "name": "Tim Ballard",
+      "type": "person",
+      "description": "Operation Underground founder whom the host says Phil Lyman visited.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8163",
+        "C-8164",
+        "C-8166"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-372",
+      "ref": "N-372",
+      "name": "Cabot Phillips",
+      "type": "person",
+      "description": "Listed by the host as a Liberty University graduate.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8133"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-447",
+      "ref": "N-447",
+      "name": "Johnny Moore",
+      "type": "person",
+      "description": "Former Liberty pastor and Kairos Company head; the host discusses his Gaza Humanitarian Fund role.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8136",
+        "C-8137"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-449",
+      "ref": "N-449",
+      "name": "Jerry Falwell Jr.",
+      "type": "person",
+      "description": "Former Liberty University president; the host says he co-founded the Falkirk Center with Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8135",
+        "C-8139",
+        "C-8140"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-460",
+      "ref": "N-460",
+      "name": "Michael Aquino",
+      "type": "person",
+      "description": "Co-author of Mind War with Paul Vallely, per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8246"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-461",
+      "ref": "N-461",
+      "name": "Greg Laurie",
+      "type": "person",
+      "description": "Pastor of Harvest Church; the host says TPUSA works with him despite trafficking accusations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8151"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-498",
+      "ref": "N-498",
+      "name": "Rick Cutler",
+      "type": "person",
+      "description": "Man in brown in the front row whom the host identifies.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8238",
+        "C-8239"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-500",
+      "ref": "N-500",
+      "name": "Lori Frantzve",
+      "type": "person",
+      "description": "Erika Kirk's mother; the host says she founded the Everyday Heroes Foundation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8145",
+        "C-8149"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-696",
+      "ref": "N-696",
+      "name": "Jon Bray",
+      "type": "person",
+      "description": "Researcher whose work the host finds compelling (transcribed John Bray).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8241"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-697",
+      "ref": "N-697",
+      "name": "Spencer (Frank Turek's son)",
+      "type": "person",
+      "description": "Said to be an Air Force veteran.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8173"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-702",
+      "ref": "N-702",
+      "name": "Otto Busher",
+      "type": "person",
+      "description": "Colonel the host says Romanian Angels worked with and who was accused of running a brothel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8147",
+        "C-8148",
+        "C-8149"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-703",
+      "ref": "N-703",
+      "name": "Curtis Kolvet",
+      "type": "person",
+      "description": "Andrew Kolvet's brother, described as stationed in Romania.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8152",
+        "C-8167"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-767",
+      "ref": "N-767",
+      "name": "Astrid Tuminez",
+      "type": "person",
+      "description": "UVU president; the host notes her Russian studies degree.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8153"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8134",
+        "C-8138",
+        "C-8151",
+        "C-8160",
+        "C-8214",
+        "C-8228",
+        "C-8236",
+        "C-8245"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8165",
+        "C-8174"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10023",
+      "ref": "N-10023",
+      "name": "Epstein Israeli Intelligence Asset Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8191",
+        "C-8207"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10097",
+      "ref": "N-10097",
+      "name": "George Zinn Arrest Location/Timing",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8158"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10131",
+      "ref": "N-10131",
+      "name": "PragerU",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8163",
+        "C-8249"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10144",
+      "ref": "N-10144",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8166"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10183",
+      "ref": "N-10183",
+      "name": "Medical Examiner Inquiry – Weiss Amaro",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8176"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10203",
+      "ref": "N-10203",
+      "name": "Provo Airport Flight Anomaly Cluster",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8143"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10209",
+      "ref": "N-10209",
+      "name": "TPUSA Faith / Christian Zionist Infiltration Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8222"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10223",
+      "ref": "N-10223",
+      "name": "George Zinn Hospital Payment Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8159"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10242",
+      "ref": "N-10242",
+      "name": "Seven Mountain Mandate / NAR Influence on TPUSA Faith",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8248"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10246",
+      "ref": "N-10246",
+      "name": "Calvary Chapel Institutional Abuse Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8162"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8209",
+        "C-8243"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10267",
+      "ref": "N-10267",
+      "name": "TPUSA Drone Disclosure Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8128"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8206",
+        "C-8236"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10411",
+      "ref": "N-10411",
+      "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8151"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10417",
+      "ref": "N-10417",
+      "name": "Fort Huachuca Erika Presence Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8169",
+        "C-8170"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10436",
+      "ref": "N-10436",
+      "name": "TPUSA Faith Military Infiltration Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8168"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10645",
+      "ref": "N-10645",
+      "name": "UVU Drone Authorization Records",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8128"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10670",
+      "ref": "N-10670",
+      "name": "Gaza Humanitarian Foundation Leadership/Operational Pipeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8137"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10681",
+      "ref": "N-10681",
+      "name": "Sean Ryan Show Interview Clip Bundle",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8126",
+        "C-8127"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10730",
+      "ref": "N-10730",
+      "name": "Frank Turek FaceTime Story Inconsistency",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8173"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10739",
+      "ref": "N-10739",
+      "name": "Fort Huachuca Connection Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8157",
+        "C-8208",
+        "C-8247"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10988",
+      "ref": "N-10988",
+      "name": "Miss Universe Organization",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8190",
+        "C-8192"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11102",
+      "ref": "N-11102",
+      "name": "Wilks Brothers Funding Network",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8248",
+        "C-8249",
+        "C-8250"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11104",
+      "ref": "N-11104",
+      "name": "Liberty University",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8133",
+        "C-8134",
+        "C-8135",
+        "C-8136",
+        "C-8140",
+        "C-8178",
+        "C-8188",
+        "C-8200",
+        "C-8204",
+        "C-8208"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-815",
+      "ref": "N-815",
+      "name": "Paul Vallely",
+      "type": "person",
+      "description": "First named by the host at 01:20:03 in episode 54. Retired Army intelligence officer; the host says he is on the TPUSA advisory board and co-wrote Mind War. Spelled Vallely and Vallely in the transcript.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8245",
+        "C-8246",
+        "C-8247"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-816",
+      "ref": "N-816",
+      "name": "Andrew Piscatello",
+      "type": "person",
+      "description": "First named by the host at 00:15:55 in episode 54. Photographer early mistaken for the shooter.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8160",
+        "C-8161"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-817",
+      "ref": "N-817",
+      "name": "David Frodsham",
+      "type": "person",
+      "description": "First named by the host at 00:14:53 in episode 54 (spelled Frodshem). Civilian commander at Fort Huachuca charged in a child sex abuse case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8157"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11163",
+      "ref": "N-11163",
+      "name": "Falkirk Center",
+      "type": "organization",
+      "description": "Liberty University and TPUSA joint venture the host says Falwell Jr. and Kirk established, with Erika as a fellow.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8139",
+        "C-8140",
+        "C-8141",
+        "C-8142"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11164",
+      "ref": "N-11164",
+      "name": "Kairos Company",
+      "type": "organization",
+      "description": "PR firm led by Johnny Moore where the host says Andrew Kolvet worked.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8136",
+        "C-8138"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11165",
+      "ref": "N-11165",
+      "name": "Romanian Angels Project",
+      "type": "organization",
+      "description": "Charity project the host says Erika Kirk began in late 2012 and that worked with the military in Romania.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8144",
+        "C-8145",
+        "C-8146",
+        "C-8147",
+        "C-8149"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11166",
+      "ref": "N-11166",
+      "name": "Everyday Heroes Foundation",
+      "type": "organization",
+      "description": "Arizona charity the host says Lori Frantzve established, from which Romanian Angels spun out.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8145"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11167",
+      "ref": "N-11167",
+      "name": "Operation Underground Railroad",
+      "type": "organization",
+      "description": "Anti-trafficking charity founded by Tim Ballard, linked by the host to Glenn Beck and the Maxfields.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8156",
+        "C-8163",
+        "C-8164"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11168",
+      "ref": "N-11168",
+      "name": "Saprea",
+      "type": "organization",
+      "description": "Child abuse charity the host says Derek and Shailene Maxfield run.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8155"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11169",
+      "ref": "N-11169",
+      "name": "The Washington Times",
+      "type": "organization",
+      "description": "Newspaper owned by Moon-linked entities, per the Washington Post excerpts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8211",
+        "C-8216",
+        "C-8226"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11170",
+      "ref": "N-11170",
+      "name": "International Fellowship of Christians and Jews",
+      "type": "organization",
+      "description": "Group whose ad reads the host says she declined at the Daily Wire.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8224",
+        "C-8225"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11171",
+      "ref": "N-11171",
+      "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
+      "type": "topic",
+      "description": "The host says Charlie Kirk established DOGE (transcribed \"DOVE\"; the \"internet DOGE\" of C-1563) to determine where money was coming from and going.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8228"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11172",
+      "ref": "N-11172",
+      "name": "Host Recurring Themes Matrix",
+      "type": "topic",
+      "description": "The host's working Excel sheet tracking Liberty University, Eastern Europe, trafficking and military connections.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8133",
+        "C-8134",
+        "C-8135",
+        "C-8136",
+        "C-8153",
+        "C-8154"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11173",
+      "ref": "N-11173",
+      "name": "Godparent Caller Trump Pageant Invitation",
+      "type": "topic",
+      "description": "The caller's account of receiving a Trump Pageant World invitation two years after leaving the home.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8190"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11174",
+      "ref": "N-11174",
+      "name": "Romania-Registered Provo-Arizona Plane",
+      "type": "topic",
+      "description": "The host's finding that the Provo to Arizona plane was once registered in Romania as YR-NVY.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8143"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11175",
+      "ref": "N-11175",
+      "name": "Kirk Declined Moon Inc.-Style Expansion Offer Theory",
+      "type": "topic",
+      "description": "The host's best guess that Kirk was killed after refusing an offer to expand TPUSA like Moon Inc.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8236",
+        "C-8237"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "medium"
     }
@@ -1477,7 +3347,2758 @@
         "N-412",
         "N-446"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8126",
+      "ref": "C-8126",
+      "label": "Herpolsheimer Describes Decentralized Command Model With Shared App Timeline",
+      "claim": "According to the clip the host plays, Brian Herpolsheimer says his company puts event intelligence on a shared app timeline that every team member can see, and calls it a decentralized command model.",
+      "anchored_artifacts": [
+        "A-1596.1"
+      ],
+      "related_nodes": [
+        "N-10681"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:46",
+      "investigative_direction": "Obtain the full Shawn Ryan interview and the security company's operating procedures to confirm the app-based, decentralized command description.",
+      "transcript_snippet": "It's a decentralized command model for the company.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-229"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8127",
+      "ref": "C-8127",
+      "label": "Host Says Herpolsheimer Described Chief of Police Conversation Over Rooftop Coverage",
+      "claim": "The host says that elsewhere in the interview Herpolsheimer describes a conversation with the chief of police and is upset the chief was not covering the rooftops, because he feels his team was on it.",
+      "anchored_artifacts": [
+        "A-1596.1"
+      ],
+      "related_nodes": [
+        "N-10681"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:00",
+      "investigative_direction": "Review the Shawn Ryan interview transcript for the rooftop remark and compare with UVU police operational plans for the September 10 event.",
+      "transcript_snippet": "he describes this conversation that he had with the chief of police. He's upset about the chief of police not covering the rooftops because he feels that his team was on it.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-229",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8128",
+      "ref": "C-8128",
+      "label": "Host Says Herpolsheimer Said Drones Were Not Allowed",
+      "claim": "The host says Herpolsheimer's account involved coordinating with whole police departments and discussing drones, and that drones were not allowed so they had to let that go.",
+      "anchored_artifacts": [
+        "A-1596.1"
+      ],
+      "related_nodes": [
+        "N-10645",
+        "N-10267"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:00",
+      "investigative_direction": "Check the Shawn Ryan interview for the drone remark and compare with UVU drone authorization records and TPUSA's later statements on drones.",
+      "transcript_snippet": "You're discussing drones. Drones were not allowed. And so they just had to let that go.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8129",
+      "ref": "C-8129",
+      "label": "Host Says Tipster Involved in Planning Charis Bible College Event Reached Her",
+      "claim": "The host says she received a tip from someone directly involved in planning the event Charlie Kirk was due to attend on September 11 at Charis Bible College in Woodland Park, Colorado.",
+      "anchored_artifacts": [
+        "A-2924.1"
+      ],
+      "related_nodes": [
+        "N-10396"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:00",
+      "investigative_direction": "Identify the tipster through the host and obtain the Charis Bible College event booking and security planning records for September 11, 2025.",
+      "transcript_snippet": "I received a tip from someone that was directly involved with the planning of an event that Charlie Kirk was supposed to attend the following day on September 11th.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8130",
+      "ref": "C-8130",
+      "label": "Tipster Says Chief of Police Led Panicked Meeting After the Assassination",
+      "claim": "According to the host's tipster, after Charlie Kirk was killed a panicked meeting headed by the chief of police took place and the Charis Bible College event was converted into a vigil.",
+      "anchored_artifacts": [
+        "A-2924.1"
+      ],
+      "related_nodes": [
+        "N-10396"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:13",
+      "investigative_direction": "Request Woodland Park police and Charis Bible College records or announcements about the September 11 vigil and who convened the meeting.",
+      "transcript_snippet": "according to this person after Charlie got assassinated, there was a bit of a panicked meeting that took place, which was headed by the chief of police.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8131",
+      "ref": "C-8131",
+      "label": "Tipster Says Charis Event Had No Security Plan in Place",
+      "claim": "According to the host's tipster, the organizers panicked because they had absolutely no security plan in place for the September 11 Charis Bible College event.",
+      "anchored_artifacts": [
+        "A-2924.1"
+      ],
+      "related_nodes": [
+        "N-10396"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:13",
+      "investigative_direction": "Obtain the event security plan, any permits, and police liaison correspondence for the Woodland Park event from the venue or city.",
+      "transcript_snippet": "they were panicked because, believe it or not, they had absolutely no security plan in place.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8132",
+      "ref": "C-8132",
+      "label": "Host Says Police Chief Took Measures Himself to Run the Vigil",
+      "claim": "The host says the tipster told her the police chief decided to take measures himself to make sure the vigil went off without a hitch, and that no police involvement had been scheduled for the event.",
+      "anchored_artifacts": [
+        "A-2924.1"
+      ],
+      "related_nodes": [
+        "N-10396"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:10",
+      "investigative_direction": "Ask the Woodland Park police department for a record of resources deployed to the September 11 vigil and when the request was made.",
+      "transcript_snippet": "So, the police chief apparently uh decided to take measures himself to make sure that the vigil went off without a hitch.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8133",
+      "ref": "C-8133",
+      "label": "Host Says Bowyer, Erika Kirk and Cabot Phillips Graduated From Liberty University",
+      "claim": "In her working spreadsheet the host lists Tyler Bowyer, Erika Kirk and Cabot Phillips as Liberty University attendees who graduated.",
+      "anchored_artifacts": [
+        "A-2920.1"
+      ],
+      "related_nodes": [
+        "N-11104",
+        "N-11172"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:39",
+      "investigative_direction": "Verify graduation records or alumni listings for each person with Liberty University or their public biographies.",
+      "transcript_snippet": "Tyler Bowyer attended and he graduated. Erika Kirk attended and she graduated. Cabot Phillips attended and he graduated.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-2",
+        "N-372"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8134",
+      "ref": "C-8134",
+      "label": "Host Says Mikey McCoy Was Accepted to Liberty but Joined TPUSA Instead",
+      "claim": "The host says Mikey McCoy was accepted into Liberty University but chose not to attend because he took a job at Turning Point USA directly after high school.",
+      "anchored_artifacts": [
+        "A-2920.1"
+      ],
+      "related_nodes": [
+        "N-11104",
+        "N-10000",
+        "N-11172"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:39",
+      "investigative_direction": "Check Mikey McCoy's public biography or interviews for his admission to Liberty and his hire date at TPUSA.",
+      "transcript_snippet": "Mikey McCoy was accepted into Liberty University, but then he chose not to attend because he got the job at Turning Point USA instead",
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8135",
+      "ref": "C-8135",
+      "label": "Host Says Rob McCoy Met Charlie Kirk Through Jerry Falwell Jr.",
+      "claim": "The host says Rob McCoy met Charlie Kirk via Jerry Falwell Jr., who was president of Liberty University until a sex scandal.",
+      "anchored_artifacts": [
+        "A-2920.1"
+      ],
+      "related_nodes": [
+        "N-11104",
+        "N-11172"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:39",
+      "investigative_direction": "Find interviews or biographies in which Rob McCoy or Kirk describe how they first met and Falwell Jr.'s role.",
+      "transcript_snippet": "his father, Rob McCoy, met Charlie Kirk via Jerry Falwell Jr.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-1",
+        "N-449"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8136",
+      "ref": "C-8136",
+      "label": "Host Says Kolvet Did PR for the Kairos Company Under Johnny Moore",
+      "claim": "The host says Andrew Kolvet worked in PR for the Kairos Company under Johnny Moore, who she says had been lead pastor at Liberty University before leaving to start the PR firm.",
+      "anchored_artifacts": [
+        "A-2920.1"
+      ],
+      "related_nodes": [
+        "N-11164",
+        "N-11104",
+        "N-11172"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:39",
+      "investigative_direction": "Check Kolvet's and Johnny Moore's public biographies and Kairos Company staff listings for dates of employment.",
+      "transcript_snippet": "Andrew Kolvet was working PR for the Kairos Company under Johnny Moore.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-447"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8137",
+      "ref": "C-8137",
+      "label": "Host Says Johnny Moore Was Put in Charge of Gaza Humanitarian Fund Food Distribution",
+      "claim": "The host says Johnny Moore was made head of the Gaza Humanitarian Fund and given the job of distributing food to Palestinian children and families, and that she has no idea why he got the position.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10670"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:47",
+      "investigative_direction": "Confirm Johnny Moore's role with the Gaza Humanitarian Foundation through GHF announcements and press reports.",
+      "transcript_snippet": "He was somehow equipped to lead the Gaza Humanitarian Fund and he gets this role essentially",
+      "mentions_person_refs": [
+        "N-447",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8138",
+      "ref": "C-8138",
+      "label": "Host Says Kolvet Left Kairos for His Own PR Firm With Kirk as Only Client",
+      "claim": "The host says Andrew Kolvet left Kairos to start his own PR firm built around Charlie Kirk, and she believes Turning Point USA was his only client.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11164",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:47",
+      "investigative_direction": "Find the incorporation record and client list of Kolvet's PR firm.",
+      "transcript_snippet": "Andrew Kolvet leaves Kairos and decides to mint his own PR firm that's really just around Charlie Kirk, really, as his only client.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8139",
+      "ref": "C-8139",
+      "label": "Host Says Falwell Jr. and Kirk Established the Falkirk Center",
+      "claim": "The host says Jerry Falwell Jr. and Charlie Kirk came together to establish the Falkirk Center, after Kirk met Rob McCoy and they discussed the project.",
+      "anchored_artifacts": [
+        "A-2920.1"
+      ],
+      "related_nodes": [
+        "N-11163"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:34",
+      "investigative_direction": "Review Liberty University and TPUSA announcements of the Falkirk Center's founding in 2019 and its closure.",
+      "transcript_snippet": "Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center.",
+      "mentions_person_refs": [
+        "N-449",
+        "N-1",
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8140",
+      "ref": "C-8140",
+      "label": "Host Says Falwell Jr. Was Forced Out Over a Sex Scandal, Stalling the Falkirk Center",
+      "claim": "The host says Jerry Falwell Jr. had a huge sex scandal and was forced to step down from Liberty University, after which the Falkirk Center project could not go forward because it was embarrassing to the university.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11163",
+        "N-11104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:34",
+      "investigative_direction": "Confirm the timing of Falwell Jr.'s 2020 resignation and Liberty's decision to end the Falkirk Center arrangement.",
+      "transcript_snippet": "Jerry Falwell has this huge sex scandal. He's forced to step down.",
+      "mentions_person_refs": [
+        "N-449"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8141",
+      "ref": "C-8141",
+      "label": "Host Says Erika Became a Falkirk Fellow While Dating Charlie",
+      "claim": "The host says that when she and Charlie were dating but not yet married, Erika Frandsen became a Falkirk fellow and they hit the road together working on the Falkirk Center.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11163"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:14",
+      "investigative_direction": "Find Falkirk Center fellow listings or contemporaneous posts naming Erika Frantzve as a fellow.",
+      "transcript_snippet": "Erika Frandsen, because her and Charlie were not yet married, they were dating, she became a Falkirk fellow.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8142",
+      "ref": "C-8142",
+      "label": "Host Says Turning Point Faith Was Created After the Falkirk Center Fell Apart",
+      "claim": "The host says that after the Falkirk Center fell apart, the partners decided instead to create Turning Point Faith, so that Turning Point Faith has its origin in Liberty University.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11163",
+        "N-10398"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:14",
+      "investigative_direction": "Compare TPUSA Faith's launch announcement date and founders with the Falkirk Center's wind-down.",
+      "transcript_snippet": "what happened after it fell apart was that they decided to instead create Turning Point Faith.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8143",
+      "ref": "C-8143",
+      "label": "Host Says the Provo Plane Was Registered in Romania From 2013 to 2015",
+      "claim": "The host says that, in researching the plane that supposedly turned off its transponder on a flight from Provo into Arizona, she found it was formerly registered in Romania with a tail number she gives as YR-NVY, from 2013 to 2015.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11174",
+        "N-10203"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:59",
+      "investigative_direction": "Pull the aircraft's registration history from the FAA and Romanian civil aviation registries and match the tail number to the Provo flight.",
+      "transcript_snippet": "that plane, pardon me, was formerly registered in Romania back in 2013.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8144",
+      "ref": "C-8144",
+      "label": "Host Says Erika Kirk Began the Romanian Angels Project in Late 2012",
+      "claim": "The host says Erika Kirk began the Romanian Angels project in late 2012 or early 2013 and ran it through 2015.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11165",
+        "N-10401"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:59",
+      "investigative_direction": "Locate the Romanian Angels project's own announcements and registration documents to confirm its start and end dates.",
+      "transcript_snippet": "Obviously we know that Erika Kirk began the Romanian Angels project in late 2012 uh early 2013 through to 2015.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8145",
+      "ref": "C-8145",
+      "label": "Host Says Lori Frantzve Established the Everyday Heroes Foundation in Arizona",
+      "claim": "The host says Lori Frantzve (spelled Francev in the transcript), Erika's mother, established the Everyday Heroes Foundation in Arizona to help children in need, and that the Romanian Angels project spun out of it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11166",
+        "N-11165"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:40",
+      "investigative_direction": "Obtain Arizona Corporation Commission and IRS filings for the Everyday Heroes Foundation naming its founder and officers.",
+      "transcript_snippet": "Lori Francev uh established the Everyday Heroes Foundation which was supposed to help children in need.",
+      "mentions_person_refs": [
+        "N-500",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8146",
+      "ref": "C-8146",
+      "label": "Host Says Romanian Angels Worked With the Military in Romania to Help Orphans",
+      "claim": "The host says Romanian Angels got a deal to work with the military in Romania to help orphans.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11165",
+        "N-10401"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:09",
+      "investigative_direction": "Find press releases or photographs documenting the Romanian Angels arrangement with the military in Romania.",
+      "transcript_snippet": "They worked with the military in Romania uh to help orphans, okay?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8147",
+      "ref": "C-8147",
+      "label": "Host Says Romanian Angels Worked With Colonel Otto Buscher",
+      "claim": "The host says it is a fact that Romanian Angels worked with Colonel Otto Buscher at the time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11165"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:09",
+      "investigative_direction": "Locate Romanian Angels thank-you posts or news coverage naming Colonel Buscher and the dates of cooperation.",
+      "transcript_snippet": "Now, it is a fact that they worked with at that time Colonel Otto Buscher.",
+      "mentions_person_refs": [
+        "N-702",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8148",
+      "ref": "C-8148",
+      "label": "Host Says Colonel Buscher Was Accused of Running a Brothel With Young Children",
+      "claim": "The host says Colonel Otto Buscher was accused of running a brothel with young children, taking them onto a military base, and that a woman filed a complaint in Romania alleging children were prostituted to military men.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10401"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:09",
+      "investigative_direction": "Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Buscher and its outcome.",
+      "transcript_snippet": "Colonel Otto Buscher was then accused of running a brothel with young children.",
+      "mentions_person_refs": [
+        "N-702"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8149",
+      "ref": "C-8149",
+      "label": "Host Says No Article Names Erika or Lori in the Buscher Allegation",
+      "claim": "The host says there are no articles saying Erika Frantzve or Lori Frantzve were involved in the brothel allegation, only that they worked on the Romanian project with Colonel Buscher.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11165"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:09",
+      "investigative_direction": "Search news archives for the Buscher allegation for any mention of Romanian Angels, Erika Frantzve or Lori Frantzve.",
+      "transcript_snippet": "there is no articles that say Erika Francev or Lori were involved in this",
+      "qualifies_claim_refs": [
+        "C-8148"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-500",
+        "N-702"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8150",
+      "ref": "C-8150",
+      "label": "Host Says Tyler Bowyer Went to Romania in 2011 to Work With the Romanian Government",
+      "claim": "The host says Tyler Bowyer went to Romania in 2011 to work with the Romanian government and that she is still trying to determine what he did there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10395",
+        "N-10401"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:10",
+      "investigative_direction": "Find Bowyer's own biography, mission trip records or Romanian government statements describing the 2011 visit.",
+      "transcript_snippet": "In 2011, Tyler Bowyer also went to Romania to work with the Romanian government.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8151",
+      "ref": "C-8151",
+      "label": "Host Says TPUSA Works With Greg Laurie Despite Harvest Church Trafficking Accusations",
+      "claim": "The host says Turning Point USA works with Pastor Greg Laurie even though Harvest Church has been accused of trafficking children from Romania, which he denies, and that there is no verdict because the matter is ongoing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10411",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:58",
+      "investigative_direction": "Review the court docket for the Harvest Christian Fellowship Romanian abuse lawsuit and TPUSA event listings featuring Laurie.",
+      "transcript_snippet": "Turning Point USA obviously working with Pastor Greg Laurie despite Harvest Church being accused of trafficking children from Romania.",
+      "mentions_person_refs": [
+        "N-461",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8152",
+      "ref": "C-8152",
+      "label": "Host Says Andrew Kolvet's Brother Curtis Is a Lieutenant Colonel Stationed in Romania",
+      "claim": "The host says Andrew Kolvet's brother Curtis is currently stationed in Romania as a lieutenant colonel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10401"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:58",
+      "investigative_direction": "Check Army public affairs releases or promotion lists for Curtis Kolvet's rank and posting.",
+      "transcript_snippet": "Uh Andrew Kolwitz's brother Curtis is currently stationed in Romania as a lieutenant colonel.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-703"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8153",
+      "ref": "C-8153",
+      "label": "Host Says Tyler Bowyer Has a Russian Studies Degree and Is Fluent in Russian",
+      "claim": "The host says Tyler Bowyer holds a degree in Russian studies and is fluent in Russian, and notes Astrid Tuminez also has a Russian studies degree and is an orphan.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11172"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:00",
+      "investigative_direction": "Confirm Bowyer's degree and language skills from university records or his public biography.",
+      "transcript_snippet": "We have Tyler Bowyer who holds a degree in Russian studies and is fluent in Russian",
+      "mentions_person_refs": [
+        "N-11",
+        "N-767"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8154",
+      "ref": "C-8154",
+      "label": "Host Says Rob McCoy Adopted a 12-Year-Old Russian Girl Named Natalia Around 2006",
+      "claim": "The host says Rob McCoy adopted a 12-year-old girl named Natalia, who now goes by Natasha, from Russia around 2006.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11172"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:00",
+      "investigative_direction": "Find McCoy's own accounts or church bulletins about the adoption and its date and country.",
+      "transcript_snippet": "Rob McCoy, I don't know if you know this, but he adopted a 12-year-old girl named Natalia.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8155",
+      "ref": "C-8155",
+      "label": "Host Says the 888 Plane Is Now Owned by Derek and Shailene Maxfield of Saprea",
+      "claim": "The host says the aircraft with the registration she reads as N888KG is currently owned by Derek and Shailene Maxfield, who run Saprea, a child abuse charity.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11168"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:00",
+      "investigative_direction": "Check FAA registration for N888KG and Saprea's nonprofit filings naming Derek and Shirlene Maxfield.",
+      "transcript_snippet": "which is now currently owned by Derek and Shailene Maxfield, they run Saprea which is a child abuse charity.",
+      "supports_claim_refs": [
+        "C-6874"
+      ],
+      "mentions_person_refs": [
+        "N-94",
+        "N-204"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8156",
+      "ref": "C-8156",
+      "label": "Host Says Maxfields Wore Operation Underground Shirts in Their Profile Pictures",
+      "claim": "The host says Derek and Shailene Maxfield wore Operation Underground shirts in their profile pictures.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:53",
+      "investigative_direction": "Archive the Maxfields' social media profile photos and compare with Operation Underground merchandise.",
+      "transcript_snippet": "in their profile pictures they were wearing an Operation Underground shirt.",
+      "supports_claim_refs": [
+        "C-6874"
+      ],
+      "mentions_person_refs": [
+        "N-94",
+        "N-204"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8157",
+      "ref": "C-8157",
+      "label": "Host Says Fort Huachuca Civilian Commander David Frodsham Was Charged With Running a Child Sex Abuse Ring",
+      "claim": "The host says a civilian commander stationed at Fort Huachuca, David Frodsham (spelled Frodshem in the transcript), was charged with running a child sex abuse ring, and calls it true.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10739"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:53",
+      "investigative_direction": "Pull the federal or Arizona charging documents against David Frodsham and the associated news coverage.",
+      "transcript_snippet": "was charged with running a child sex abuse ring. That is true.",
+      "mentions_person_refs": [
+        "N-817"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8158",
+      "ref": "C-8158",
+      "label": "Host Says Zinn Had Pornographic Images of Children on His Phone",
+      "claim": "The host says George Zinn was arrested and it was then determined he had pornographic images of children on his phone, and she refers to him as the decoy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10097"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:53",
+      "investigative_direction": "Obtain the Zinn charging documents and probable cause statement describing the images charge.",
+      "transcript_snippet": "George Zinn was arrested and then it was determined that he had pornographic images, that's our decoy boy, of children on his phone.",
+      "supports_claim_refs": [
+        "C-1158"
+      ],
+      "mentions_person_refs": [
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8159",
+      "ref": "C-8159",
+      "label": "Host Says Zinn Did Not Know the Source of the Money to Say It Was Him",
+      "claim": "The host says Zinn told hospital staff he would be paid, did not know where the money was coming from, and only had to jump up and down and say it was him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10223"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:55",
+      "investigative_direction": "Obtain Utah Valley Hospital staff statements or police reports recording what Zinn said about payment.",
+      "transcript_snippet": "Now, he didn't know where the money was coming from, but all he had to do was jump up and down and say it was me, it was me.",
+      "supports_claim_refs": [
+        "C-1402"
+      ],
+      "mentions_person_refs": [
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8160",
+      "ref": "C-8160",
+      "label": "Host Says Andrew Piscatello Was a Photographer Not Hired by TPUSA",
+      "claim": "The host says early pictures of Andrew Piscatello wearing a suit and carrying a bag led people to think he could be the shooter, but he was photographing and was a photographer not hired by Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:55",
+      "investigative_direction": "Identify Piscatello's credentials and who authorized his access to the UVU event.",
+      "transcript_snippet": "It ended up being that he was photographing that he was taking pictures, he was a photographer not hired by Turning Point USA.",
+      "mentions_person_refs": [
+        "N-816"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8161",
+      "ref": "C-8161",
+      "label": "Host Says Piscatello Has Raised Alarms About Military Ukrainian Sex Trafficking",
+      "claim": "The host says Andrew Piscatello has publicly raised the alarm on military-linked Ukrainian sex trafficking in the United States and that his Instagram says children are being trafficked from Ukraine.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10401"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:55",
+      "investigative_direction": "Review Piscatello's Instagram posts on Ukrainian trafficking for dates and claims.",
+      "transcript_snippet": "Uh but he has rang the alarm before on military Ukrainian sex trafficking that is happening in the United States.",
+      "mentions_person_refs": [
+        "N-816"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8162",
+      "ref": "C-8162",
+      "label": "Host Says Rob McCoy Tried to Rehabilitate a Convicted Offender Into Homes With Children",
+      "claim": "The host says Rob McCoy tried to rehabilitate a man who had gone to prison, who said he found the Lord, and placed him into homes with children via Calvary Chapel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:42",
+      "investigative_direction": "Identify the individual and any court or church records on his placement in homes through Calvary Chapel.",
+      "transcript_snippet": "Rob McCoy who was trying to rehabilitate somebody who actually went to prison uh who said he found the Lord and decided to put him in into homes with children via Calvary Chapel.",
+      "mentions_person_refs": [
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8163",
+      "ref": "C-8163",
+      "label": "Host Says Marissa Streit Introduced Her to Operation Underground and Tim Ballard",
+      "claim": "The host says she learned of Operation Underground through Marissa Streit at PragerU, who asked her to interview Tim Ballard before he stepped down from the charity.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11167",
+        "N-10131"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:42",
+      "investigative_direction": "Find the PragerU interview with Tim Ballard and its date relative to his departure from Operation Underground.",
+      "transcript_snippet": "that was introduced to me by Marissa Streit over at PragerU.",
+      "mentions_person_refs": [
+        "N-118",
+        "N-332",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8164",
+      "ref": "C-8164",
+      "label": "Host Says Glenn Beck Was the Initial Investment in Operation Underground",
+      "claim": "The host says that, as the story was told to her at PragerU, Glenn Beck was the initial investment in Operation Underground.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:42",
+      "investigative_direction": "Check Operation Underground's founding history and Beck's public statements on funding it.",
+      "transcript_snippet": "Glenn Beck was the initial investment as the story was told to me when I was at PragerU when I interviewed him.",
+      "supports_claim_refs": [
+        "C-6876"
+      ],
+      "mentions_person_refs": [
+        "N-242",
+        "N-332"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8165",
+      "ref": "C-8165",
+      "label": "Host Says Glenn Beck's Children Were at UVU and He Spoke Out First on September 10",
+      "claim": "The host says Glenn Beck's children were at UVU when Charlie Kirk was assassinated and that Beck was among the first to speak out on the news on September 10.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:45",
+      "investigative_direction": "Review Beck's September 10 broadcasts and any statement about his family's presence at UVU.",
+      "transcript_snippet": "Glenn Beck also his children were there um at UVU when Charlie Kirk was assassinated.",
+      "mentions_person_refs": [
+        "N-242",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8166",
+      "ref": "C-8166",
+      "label": "Host Says Phil Lyman Visited Tim Ballard After the Assassination",
+      "claim": "The host says Phil Lyman paid Tim Ballard a visit in the days following the assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:45",
+      "investigative_direction": "Seek Lyman's or Ballard's public posts or schedules for the days after September 10, 2025.",
+      "transcript_snippet": "we learned that he paid Tim Ballard a visit in the days following the assassination",
+      "supports_claim_refs": [
+        "C-6875"
+      ],
+      "mentions_person_refs": [
+        "N-61",
+        "N-332"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8167",
+      "ref": "C-8167",
+      "label": "Host Says Kolvet's Brother and Cousin Are Military Captains",
+      "claim": "The host says Andrew Kolvet's brother and cousin, Curtis Kolvet and Robert Kolvet, are captains in the military, which differs from her earlier statement that Curtis is a lieutenant colonel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:32",
+      "investigative_direction": "Reconcile Curtis Kolvet's rank (captain versus lieutenant colonel) through Army records.",
+      "transcript_snippet": "Andrew Kolwitz's brother and cousin are captains in the military, Curtis Kolwitz and Robert Kolwitz.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-703"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8168",
+      "ref": "C-8168",
+      "label": "Host Says Rob McCoy's Father Ran Psychological Operations for Naval Intelligence",
+      "claim": "The host says Rob McCoy's father, Roy Edgar McCoy, ran psychological operations for naval intelligence to shape public perception.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10436"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:32",
+      "investigative_direction": "Locate Navy service records or obituaries for Roy Edgar McCoy describing his naval intelligence role.",
+      "transcript_snippet": "Rob McCoy's father Roy Edgar McCoy ran psychological operations for naval intelligence to shape public perception.",
+      "supports_claim_refs": [
+        "C-1505"
+      ],
+      "mentions_person_refs": [
+        "N-17",
+        "N-200"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8169",
+      "ref": "C-8169",
+      "label": "Host Says Erika Kirk's Family Moved to Arizona for DOD Contracts",
+      "claim": "The host says Erika Kirk has been open that her mother and father do defense-related military work and that she moved to Arizona because they had contracts with the Department of Defense.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:32",
+      "investigative_direction": "Find Erika Kirk's own statements on her parents' work and federal contract records for the parents' companies.",
+      "transcript_snippet": "It's why she moved to Arizona in the first place because they had contracts with the DOD.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8170",
+      "ref": "C-8170",
+      "label": "Host Says Erika Kirk's Father Worked With Raytheon",
+      "claim": "The host says Erika Kirk's father has worked with Raytheon.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:32",
+      "investigative_direction": "Identify Erika Kirk's father's employment history through public filings or Raytheon contractor listings.",
+      "transcript_snippet": "And we know that her father has worked with Raytheon.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8171",
+      "ref": "C-8171",
+      "label": "Host Says the Farnsworth Family Has Extensive Military Connections",
+      "claim": "The host says the Farnsworth family has extensive military connections that she will cover later and that the family is important to the story.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:32",
+      "investigative_direction": "Compile service records and defense contracts for members of the Farnsworth family.",
+      "transcript_snippet": "The Farnsworth family has extensive military connections.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8172",
+      "ref": "C-8172",
+      "label": "Host Says Frank Turek Was a Naval Flight Officer for Eight Years",
+      "claim": "The host says Dr. Frank Turek was a naval flight officer for eight years.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:32",
+      "investigative_direction": "Check Turek's published biography for his Navy service dates and role.",
+      "transcript_snippet": "Dr. Frank Turek was a naval flight officer for eight years.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8173",
+      "ref": "C-8173",
+      "label": "Host Says Turek's Sons Hold Military Posts Including Joint Chiefs and Air Force",
+      "claim": "The host says Frank Turek's son Frank Turek III is a deputy division chief at the Joint Chiefs of Staff in Washington and his other son Spencer is an Air Force veteran.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10730"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:32",
+      "investigative_direction": "Verify Frank Turek III's Joint Staff position and Spencer Turek's service through public directories or records.",
+      "transcript_snippet": "His other son, Spencer, is an Air Force vet.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-697"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8174",
+      "ref": "C-8174",
+      "label": "Host Says a Military Plane Flew a Route Around UVU Just Before and After the Shooting",
+      "claim": "The host says a military plane, rendered as Haiti's in the transcript, flew a route around UVU on the day of the assassination just before and just after, and that the plane has a lot to do with drones.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:32",
+      "investigative_direction": "Identify the aircraft from the transcript's garbled name and pull its ADS-B track for September 10, 2025.",
+      "transcript_snippet": "inexplicably flew uh this route around UVU on the day of the assassination, just before and just after",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8175",
+      "ref": "C-8175",
+      "label": "Host Says Dr. Lee Trotter Did His Residency on an Air Force Base and Has a Pilot's License",
+      "claim": "The host says Dr. Lee Trotter did his residency on an Air Force base and also holds a pilot's license.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:20:26",
+      "investigative_direction": "Check Trotter's published biography and FAA airman records.",
+      "transcript_snippet": "Dr. Lee Trotter did his residency on an Air Force base and he also has his pilot's license.",
+      "mentions_person_refs": [
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8176",
+      "ref": "C-8176",
+      "label": "Host Says Utah Medical Examiner Dr. Deidra Amaro Is a Major",
+      "claim": "The host says the Utah medical examiner, Dr. Deidra Amaro, is a major.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10183"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:26",
+      "investigative_direction": "Look for Amaro's military service record or Utah Office of the Medical Examiner biography.",
+      "transcript_snippet": "The Utah medical examiner, Dr. Deidra Amaro, is a major.",
+      "mentions_person_refs": [
+        "N-179"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8177",
+      "ref": "C-8177",
+      "label": "Host Says Butch Hibbs' Father Had a Military Background and She Suspects Butch Is Military",
+      "claim": "The host says Jack Hibbs and Butch Hibbs' father, Butch Sr., had a military background and that she suspects Butch Hibbs may himself be involved in the military, but is looking for something concrete.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:20:26",
+      "investigative_direction": "Seek public records of Butch Hibbs' and Butch Sr.'s military service.",
+      "transcript_snippet": "their father, Butch Sr., military background, and I suspect Butch Hibbs also perhaps is involved in the military himself.",
+      "mentions_person_refs": [
+        "N-212",
+        "N-251"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8178",
+      "ref": "C-8178",
+      "label": "Host Says a Caller's Probation Officer Offered Her Liberty's Program Instead of Juvenile Detention",
+      "claim": "The host says the woman who called her was 13 and pregnant when a probation officer gave her an ultimatum: juvenile detention or a Liberty University-run program for troubled teens.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392",
+        "N-11104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:03",
+      "investigative_direction": "Seek the caller's juvenile court and probation records, which only she can authorize, to confirm the referral to the Godparent program.",
+      "transcript_snippet": "We could send you to juvie or you could go away and we'll give you an opportunity here.",
+      "mentions_person_refs": [
+        "N-417",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8179",
+      "ref": "C-8179",
+      "label": "Caller Says Jerry Falwell Sr. Took Pictures of the Residents",
+      "claim": "In the recorded call, the former resident says Jerry Falwell Sr. took weird pictures of the girls at the Godparent Home, which the host presses by asking whether Falwell Sr. himself took the photos.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:36",
+      "investigative_direction": "Interview other Godparent Home residents from the 1990s about photographs taken at the home and by whom.",
+      "transcript_snippet": "But like Jerry Falwell Sr. was the one actually taking the photos? Yeah,",
+      "mentions_person_refs": [
+        "N-417",
+        "N-408"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8180",
+      "ref": "C-8180",
+      "label": "Caller Says She Was Moved to a Room Alone After a Normal Ultrasound",
+      "claim": "The caller says that the night before she delivered, the house mothers checked the heartbeat and ultrasound and everything was fine, then she was moved to another room by herself.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:30",
+      "investigative_direction": "Obtain any hospital or home records of prenatal checks and room assignments from the caller's stay.",
+      "transcript_snippet": "everything was fine that night and then they moved me, which was weird.",
+      "mentions_person_refs": [
+        "N-417"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8181",
+      "ref": "C-8181",
+      "label": "Caller Says the Home Held 12 to 15 Girls Aged 12 to 21, Some Not Speaking English",
+      "claim": "The caller says that in the mid-1990s about 12 to 15 girls lived in one house, ranging from age 12 to about 21, and some did not speak English.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:25",
+      "investigative_direction": "Compare with state licensing records for the Liberty Godparent Home's capacity and resident ages in the 1990s.",
+      "transcript_snippet": "there was about like between 12 and 15 in one house, but you're talking anywhere from age 12 to like 21 years old",
+      "mentions_person_refs": [
+        "N-417"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8182",
+      "ref": "C-8182",
+      "label": "Caller Says Residents Were Not Allowed to Talk to Each Other and Used Pay Phones",
+      "claim": "The caller says residents were not allowed to talk to other girls, were kept on separate sides of the hallway, and had to call collect or use quarters on the pay phone rather than the regular phones.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:25",
+      "investigative_direction": "Interview other former residents and request the home's 1990s house rules for contact and phone access.",
+      "transcript_snippet": "We weren't allowed to like talk to the other girls.",
+      "supports_claim_refs": [
+        "C-2042"
+      ],
+      "mentions_person_refs": [
+        "N-417"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8183",
+      "ref": "C-8183",
+      "label": "Caller Says the Next Morning She Had No Heartbeat",
+      "claim": "The caller says that the morning after she was moved to a room alone, she suddenly did not have a heartbeat and had to go in.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:25",
+      "investigative_direction": "Request hospital records of the delivery from Lynchburg hospitals, which only the caller can authorize.",
+      "transcript_snippet": "the next morning I all of a sudden didn't have a heartbeat and I had to go in",
+      "mentions_person_refs": [
+        "N-417"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8184",
+      "ref": "C-8184",
+      "label": "Caller Says a House Mother's Daughter Was a Doctor at a Lynchburg Hospital",
+      "claim": "The caller says the house mothers' daughter is a doctor at a Lynchburg hospital, was possibly one of the house mothers back then, and may have been her nurse.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:45",
+      "investigative_direction": "Identify the house mother and her daughter through Godparent Home staff lists and Lynchburg hospital staffing.",
+      "transcript_snippet": "Their daughter is a high uh doctor at the Liberty or at some university, some um hospital in Lynchburg, Virginia.",
+      "mentions_person_refs": [
+        "N-417"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8185",
+      "ref": "C-8185",
+      "label": "Caller Says Staff Told Her to Hurry Her Adoption Decision and Showed Her Folders",
+      "claim": "The caller says staff kept telling her to hurry up and decide whether to place the baby for adoption and showed her folders of prospective parents' faces.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:47",
+      "investigative_direction": "Interview other residents about adoption-folder presentations and review Family Life Services intake procedures.",
+      "transcript_snippet": "They kept showing me folders of people's faces.",
+      "supports_claim_refs": [
+        "C-2043"
+      ],
+      "mentions_person_refs": [
+        "N-417"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8186",
+      "ref": "C-8186",
+      "label": "Caller Says She Cannot Find Herself in the Home's System",
+      "claim": "The caller says she has called the Godparent Home to find her dates and cannot find herself in their system.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:47",
+      "investigative_direction": "Submit a records request, with the caller's consent, to the Liberty Godparent Home and Family Life Services.",
+      "transcript_snippet": "I can't even find myself actually in their system.",
+      "mentions_person_refs": [
+        "N-417"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8187",
+      "ref": "C-8187",
+      "label": "Caller Says Labor Was Induced and She Was More Than Three or Four Months Along",
+      "claim": "The caller says staff had to induce labor and she was over three or four months pregnant, without knowing how far along she was.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:38",
+      "investigative_direction": "Obtain medical records establishing gestational age and the delivery, with the caller's consent.",
+      "transcript_snippet": "They had to induce the labor. Okay. They I had to deliver.",
+      "mentions_person_refs": [
+        "N-417"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8188",
+      "ref": "C-8188",
+      "label": "Host Says Liberty Told the Caller It Could Not Find Her Records",
+      "claim": "The host says that although the caller can pull her court records, Liberty says its 1990s records are electronic and it cannot find her, despite her having had a baby in a house at age 13.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392",
+        "N-11104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:29",
+      "investigative_direction": "Ask Liberty University and the Godparent Home for a written statement on their 1990s resident records.",
+      "transcript_snippet": "We can't find you. We had You had a baby in a house when you were 13 years old and we can't find you.",
+      "mentions_person_refs": [
+        "N-417",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8189",
+      "ref": "C-8189",
+      "label": "Host Says the Caller Was Told to Be Picked Up ASAP So Other Girls Were Not Traumatized",
+      "claim": "The host says the caller told her staff called her mother to pick her up as soon as possible after the loss because they did not want the other young women traumatized, and that the caller never saw her baby.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:29",
+      "investigative_direction": "Interview the caller's mother if willing, and seek the home's discharge records.",
+      "transcript_snippet": "They tell your mom she's got to pick you up ASAP.",
+      "mentions_person_refs": [
+        "N-417",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8190",
+      "ref": "C-8190",
+      "label": "Host Says the Caller Received a Trump Pageant World Invitation Two Years Later",
+      "claim": "The host says the caller went home, and two years later received an invitation to join Trump Pageant World without knowing how they got her picture, which the host links to the pictures taken at the Godparent Home.",
+      "anchored_artifacts": [
+        "A-1604.1"
+      ],
+      "related_nodes": [
+        "N-11173",
+        "N-10988",
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:54",
+      "investigative_direction": "Ask the caller for the invitation and mailing details and compare with Miss Universe organization outreach practices in the 1990s.",
+      "transcript_snippet": "and 2 years later she gets an invite to join Trump Pageant World.",
+      "mentions_person_refs": [
+        "N-417",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8191",
+      "ref": "C-8191",
+      "label": "Host Says Poussard Showed Epstein Pumped Money Into Organizations Full of Young Women",
+      "claim": "The host says Xavier Poussard showed that Jeffrey Epstein's mechanism was to find organizations with many young women passing through and pump money into them, like Victoria's Secret.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10023"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:54",
+      "investigative_direction": "Locate the Poussard episode of the host's Epstein series and the sources he cites for the mechanism.",
+      "transcript_snippet": "Xavier Poussard showed that this was one of his mechanisms.",
+      "mentions_person_refs": [
+        "N-290",
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8192",
+      "ref": "C-8192",
+      "label": "Host Says the History of Pageantry Is Child Sex Trafficking",
+      "claim": "The host says the history of pageantry is child sex trafficking and ties it to carnies and P. T. Barnum.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10988"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:18",
+      "investigative_direction": "Seek historical scholarship on the pageant industry and its origins in carnival and sideshow circuits.",
+      "transcript_snippet": "By the way, the history of pageantry for those of you that don't know, it's child sex trafficking.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8193",
+      "ref": "C-8193",
+      "label": "ABC 13 Report Says Liberty Lost Podcast Alleges Residents Felt Pressured to Place Children",
+      "claim": "An ABC 13 report the host plays says the podcast Liberty Lost alleges some of the young women felt pressured to place their children for adoption, and that the Godparent Home is defending itself against allegations of coercion and manipulation.",
+      "anchored_artifacts": [
+        "A-1598.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:05",
+      "investigative_direction": "Obtain the ABC 13 segment and the Liberty Lost podcast episodes and their listed sources.",
+      "transcript_snippet": "The Liberty Godparent Home, a place for young, single, pregnant women, is defending itself against allegations of coercion and manipulation.",
+      "supports_claim_refs": [
+        "C-2043"
+      ],
+      "mentions_person_refs": [
+        "N-416"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8194",
+      "ref": "C-8194",
+      "label": "Liberty Lost Producer Says She Interviewed Residents From the 1990s and 2008",
+      "claim": "In the ABC clip, a Liberty Lost investigator says she has spent two years investigating the maternity home after connecting with residents who went through it as pregnant teenagers in the 1990s and in 2008.",
+      "anchored_artifacts": [
+        "A-1598.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:05",
+      "investigative_direction": "Contact the Liberty Lost podcast team for the number and dates of resident accounts.",
+      "transcript_snippet": "For the last 2 years I've been investigating the maternity home after connecting with several residents who went through the home as pregnant teenage girls both in the 1990s and in 2008.",
+      "mentions_person_refs": [
+        "N-415"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8195",
+      "ref": "C-8195",
+      "label": "Abby Johnson Says Her Parents Sent Her to the Home With a Liberty Scholarship Promise",
+      "claim": "In the ABC clip, Abby Johnson says that at 16 she got pregnant and her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.",
+      "anchored_artifacts": [
+        "A-1598.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:05",
+      "investigative_direction": "Seek Johnson's account on the Liberty Lost podcast and any scholarship documentation.",
+      "transcript_snippet": "Her parents sent her across the country to Liberty Godparent Home with the promise of a scholarship to Liberty University after all was said and done.",
+      "mentions_person_refs": [
+        "N-415",
+        "N-416"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8196",
+      "ref": "C-8196",
+      "label": "Abby Johnson Says the Home Had Already Decided on Adoption",
+      "claim": "In the ABC clip, Johnson says she wanted to keep her son but felt the home had already decided on the adoption route.",
+      "anchored_artifacts": [
+        "A-1598.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:34",
+      "investigative_direction": "Compare with accounts from other Liberty Lost residents and Family Life Services adoption statistics.",
+      "transcript_snippet": "Johnson says she wanted to keep her son. However, she felt the home already made the decision to go the adoption route.",
+      "supports_claim_refs": [
+        "C-2043"
+      ],
+      "mentions_person_refs": [
+        "N-415"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8197",
+      "ref": "C-8197",
+      "label": "Godparent Home Declined ABC Interview and Sent a Statement",
+      "claim": "In the ABC clip, the reporter says the Godparent Home declined her request for an interview and sent a statement saying staff and volunteers have treated every individual with compassion and integrity.",
+      "anchored_artifacts": [
+        "A-1598.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:34",
+      "investigative_direction": "Obtain the full written statement from the Godparent Home.",
+      "transcript_snippet": "The Godparent Home declined my request for an interview but sent a statement saying in part quote,",
+      "mentions_person_refs": [
+        "N-416"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8198",
+      "ref": "C-8198",
+      "label": "ABC Report Says Thomas Road Baptist Church Founded Family Life Services",
+      "claim": "In the ABC clip, a reporter says Thomas Road Baptist Church founded the Family Life Services adoption agency according to its website.",
+      "anchored_artifacts": [
+        "A-1598.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:34",
+      "investigative_direction": "Retrieve Family Life Services' website history and its Virginia licensing records.",
+      "transcript_snippet": "Thomas Road Baptist Church founded Family Life Services according to their website.",
+      "supports_claim_refs": [
+        "C-2029"
+      ],
+      "mentions_person_refs": [
+        "N-416"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8199",
+      "ref": "C-8199",
+      "label": "ABC Reporter Says Family Life Services and the Home Did Not Reply to Requests",
+      "claim": "In the ABC clip, the reporter says she reached out multiple times to Family Life Services without a response, and asked the Godparent Home to connect her with residents who had positive experiences but had not heard back.",
+      "anchored_artifacts": [
+        "A-1598.1"
+      ],
+      "related_nodes": [
+        "N-10392"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:54",
+      "investigative_direction": "Ask Family Life Services and the Godparent Home whether they later responded to ABC 13.",
+      "transcript_snippet": "I reached out to them multiple times for comment about the allegations in the podcast.",
+      "mentions_person_refs": [
+        "N-416"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8200",
+      "ref": "C-8200",
+      "label": "Host Says She Has Spoken at Liberty University Multiple Times",
+      "claim": "The host says she has spoken at Liberty University multiple times and never looked up its origin story.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:24",
+      "investigative_direction": "Check Liberty convocation archives for the host's appearances.",
+      "transcript_snippet": "I have spoken at Liberty University multiple times and I promise you, I never thought once to look up their origin story.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8201",
+      "ref": "C-8201",
+      "label": "Host Says Carey Hezekiah Used Fuel Trucks to Smuggle Bootleg Whiskey",
+      "claim": "The host says Carey Hezekiah Falwell posed as a gas station operator but used his fuel trucks to smuggle bootleg whiskey during Prohibition, making him a smuggler and trafficker as well as a bootlegger.",
+      "anchored_artifacts": [
+        "A-1605.1"
+      ],
+      "related_nodes": [
+        "N-10400"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:18",
+      "investigative_direction": "Consult the Washington Post and Rolling Stone profiles of Falwell Sr.'s family and Lynchburg county records on Carey Falwell's businesses.",
+      "transcript_snippet": "in reality, he was using his fuel trucks to smuggle bootleg whiskey into America during the time of prohibition.",
+      "supports_claim_refs": [
+        "C-2044"
+      ],
+      "mentions_person_refs": [
+        "N-411",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8202",
+      "ref": "C-8202",
+      "label": "Host Says, Citing Rolling Stone, Carey Falwell Killed and Cooked an Employee's Cat",
+      "claim": "The host says Rolling Stone documented that Carey Hezekiah Falwell, angry that an employee stayed home sick, killed the man's cat, cooked it and delivered the remains to the employee's house for lunch.",
+      "anchored_artifacts": [
+        "A-1605.1"
+      ],
+      "related_nodes": [
+        "N-10400"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:40",
+      "investigative_direction": "Locate the Rolling Stone passage and its sourcing for the cat anecdote.",
+      "transcript_snippet": "and he killed the cat and then he cooked the cat and then he delivered the remains of the cat to the employee's house for lunch.",
+      "mentions_person_refs": [
+        "N-411"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8203",
+      "ref": "C-8203",
+      "label": "Host Says Carey Falwell Died in 1948 and His Son Converted the Same Year",
+      "claim": "The host says Carey Hezekiah died of cirrhosis in 1948, the year Israel became a nation, and his son Jerry Falwell Sr. immediately had a radical conversion to Christianity.",
+      "anchored_artifacts": [
+        "A-1605.1"
+      ],
+      "related_nodes": [
+        "N-10400"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:39",
+      "investigative_direction": "Check Falwell Sr.'s biographies for the year of his conversion and his father's death.",
+      "transcript_snippet": "In 1948, the very year that Israel became a nation, Carey Hezekiah died from cirrhosis of the liver",
+      "mentions_person_refs": [
+        "N-411",
+        "N-408"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8204",
+      "ref": "C-8204",
+      "label": "Host Says Falwell Sr. Founded Lynchburg College in 1971, Later Liberty University",
+      "claim": "The host says Jerry Falwell Sr. became a televangelist and established Lynchburg College in 1971, which later became Liberty University.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:39",
+      "investigative_direction": "Verify Liberty's founding date and original name from university history and Virginia charter records.",
+      "transcript_snippet": "He became a televangelist and he established Lynchburg College in 1971, which would eventually change its name to Liberty University",
+      "mentions_person_refs": [
+        "N-408"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8205",
+      "ref": "C-8205",
+      "label": "Host Says Menachem Begin Gifted Falwell Sr. a Learjet in 1979",
+      "claim": "The host says Jerry Falwell Sr. was gifted a Learjet in 1979 by Menachem Begin, then Prime Minister of Israel and founder of the Likud Party, and wonders what Israel wanted in exchange.",
+      "anchored_artifacts": [
+        "A-1601.1"
+      ],
+      "related_nodes": [
+        "N-10393"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:39",
+      "investigative_direction": "Check contemporaneous 1979 press reports and Falwell biographies on the Learjet gift.",
+      "transcript_snippet": "in 1979, Jerry Falwell Sr. was gifted a Learjet from the founder of the Likud Party, then Prime Minister of Israel, Menachem Begin.",
+      "supports_claim_refs": [
+        "C-2038"
+      ],
+      "mentions_person_refs": [
+        "N-408",
+        "N-410"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8206",
+      "ref": "C-8206",
+      "label": "Host Restates That Netanyahu Offered to Take TPUSA to the Next Level and Kirk Said No",
+      "claim": "The host says Benjamin Netanyahu offered to take Turning Point USA to the next level and that Charlie Kirk said no.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:28",
+      "investigative_direction": "Identify the host's sources for the offer and any documents, messages or witnesses confirming its terms.",
+      "transcript_snippet": "He offered to take Turning Point USA to the next level. Charlie Kirk said, \"No.\"",
+      "supports_claim_refs": [
+        "C-5012"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8207",
+      "ref": "C-8207",
+      "label": "Host Says Epstein Was Involved in the Iran-Contra Scandal",
+      "claim": "The host says that Jeffrey Epstein was involved in the Iran-Contra scandal and that, if the Mossad is to be believed, this is how they first brought him in, running weapons through South America.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10023"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:22",
+      "investigative_direction": "Compare with documented histories of Iran-Contra and with any record placing Epstein in the affair.",
+      "transcript_snippet": "Jeffrey Epstein was involved in the Iran-Contra scandal.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8208",
+      "ref": "C-8208",
+      "label": "Emailer Links Liberty University to the Fort Huachuca Drug-Smuggling Base",
+      "claim": "The host says the Iran-Contra email tipster's reason for writing was to ask how Liberty University might be connected to Fort Huachuca, which he describes as a drug smuggling military base.",
+      "anchored_artifacts": [
+        "A-1602.1"
+      ],
+      "related_nodes": [
+        "N-10739",
+        "N-11104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:44",
+      "investigative_direction": "Ask the host for the full email and its sources on a Liberty to Fort Huachuca link.",
+      "transcript_snippet": "And how Liberty University might be connected to the drug smuggling military base he's referring to Fort Huachuca",
+      "supports_claim_refs": [
+        "C-5388"
+      ],
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8209",
+      "ref": "C-8209",
+      "label": "Host Says the Egyptian Planes Were Tracking TPUSA Faith Pastors",
+      "claim": "The host says she will show that the Egyptian planes she has shown were tracking Turning Point USA Faith pastors.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10398"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:37",
+      "investigative_direction": "Compare the Egyptian aircraft tracking data with TPUSA Faith event calendars and pastor travel.",
+      "transcript_snippet": "I'm going to show you that these Egyptian planes I showed you in part were tracking Turning Point USA Faith, these pastors.",
+      "supports_claim_refs": [
+        "C-6702"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8210",
+      "ref": "C-8210",
+      "label": "Host Says Moon Declared Himself a Messiah and Compares It to Kirk's Treatment at AmFest",
+      "claim": "The host says Sun Myung Moon declared himself a Messiah and compares that to what she describes as efforts to establish Charlie Kirk as a messianic figure.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:36",
+      "investigative_direction": "Verify Moon's messianic claims in the Washington Post article and the AmFest program for messianic framing.",
+      "transcript_snippet": "he declared himself, just so you know, a Messiah.",
+      "mentions_person_refs": [
+        "N-409",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8211",
+      "ref": "C-8211",
+      "label": "Washington Post Says Moon-Linked Holdings Include The Washington Times and a Former Mormon Church",
+      "claim": "Reading the 1997 Washington Post article, the host says Moon's Washington holdings include The Washington Times newspaper, a video production firm and a stately old church once the pride of the Mormons on 16th Street Northwest.",
+      "anchored_artifacts": [
+        "A-2922.1"
+      ],
+      "related_nodes": [
+        "N-11169",
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:37",
+      "investigative_direction": "Retrieve the original 1997 Washington Post article and corporate property records for the cited holdings.",
+      "transcript_snippet": "Those include The Washington Times Washington Times newspaper a video production firm, a stately old church once the pride of the Mormons along 16th Street Northwest.",
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8212",
+      "ref": "C-8212",
+      "label": "Washington Post Says Moon Inc. Is a Sprawling Collection of Churches and Holding Companies",
+      "claim": "Reading the 1997 Washington Post article, the host says the vast multinational could be called Moon Inc., a sprawling collection of churches, nonprofit foundations and for-profit holding companies.",
+      "anchored_artifacts": [
+        "A-2922.2"
+      ],
+      "related_nodes": [
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:37",
+      "investigative_direction": "Retrieve the Washington Post article and compare with Unification Church corporate filings.",
+      "transcript_snippet": "This vast and bewildering multinational could be called Moon Inc.",
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8213",
+      "ref": "C-8213",
+      "label": "Washington Post Says Church-Linked Washington Property Is Worth Over $200 Million",
+      "claim": "Reading the 1997 Washington Post article, the host says Washington-area property owned by the church, its affiliated companies or senior church officials is worth more than $200 million according to property and corporate records.",
+      "anchored_artifacts": [
+        "A-2922.3"
+      ],
+      "related_nodes": [
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:46",
+      "investigative_direction": "Pull Washington-area property assessments for church-linked entities from 1997 records.",
+      "transcript_snippet": "Washington area property owned by the church, its affiliated companies or senior church officials is worth more than 200 million dollars, according to property and corporate records.",
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8214",
+      "ref": "C-8214",
+      "label": "Host Says TPUSA Is Getting Into Real Estate to Teach Young Conservatives to Buy Houses",
+      "claim": "The host says, according to a tip she has, Turning Point USA is getting into real estate because it is going to teach young conservatives how to buy houses, with Tyler Bowyer leading the charge.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:46",
+      "investigative_direction": "Look for TPUSA real estate programs, entities or announcements and the host's tip source.",
+      "transcript_snippet": "They're getting into real estate according to tip that I have because they're going to teach young conservatives how to buy houses",
+      "mentions_person_refs": [
+        "N-11",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8215",
+      "ref": "C-8215",
+      "label": "Washington Post Quotes Richard Rubenstein That Ideas Without Money Are Dreams",
+      "claim": "Reading the 1997 Washington Post article, the host quotes University of Bridgeport president Richard Rubenstein as saying, 'Ideas without the money to back them up are just dreams,' and that the corporate side is the engine that funds the church's mission.",
+      "anchored_artifacts": [
+        "A-2922.4"
+      ],
+      "related_nodes": [
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:28",
+      "investigative_direction": "Retrieve the Washington Post article and the Rubenstein quotation in context.",
+      "transcript_snippet": "Ideas without the money to back them up are just dreams",
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8216",
+      "ref": "C-8216",
+      "label": "Washington Post Says Moon-Linked Entities Rely on Cash Flow From the Far East",
+      "claim": "Reading the 1997 Washington Post article, the host says Moon-affiliated entities are linked by interlocking directorships and nurtured by a seemingly endless flow of cash from the Far East, and that The Washington Times has a circulation of 100,000.",
+      "anchored_artifacts": [
+        "A-2922.5"
+      ],
+      "related_nodes": [
+        "N-11169",
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:11",
+      "investigative_direction": "Retrieve the Washington Post article and compare with Washington Times circulation audits.",
+      "transcript_snippet": "Beyond The Times, Moon affiliated entities are linked by a complex web of interlocking directorships and nurtured by a seemingly endless flow of cash from the Far East.",
+      "supports_claim_refs": [
+        "C-2030"
+      ],
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8217",
+      "ref": "C-8217",
+      "label": "Washington Post Says Unification Executives Acknowledged Japanese and Korean Money Funds US Operations",
+      "claim": "Reading the 1997 Washington Post article, the host says executives of Unification-related entities acknowledged that money from Japan and Korea is fueling their US operations.",
+      "anchored_artifacts": [
+        "A-2922.5"
+      ],
+      "related_nodes": [
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:11",
+      "investigative_direction": "Retrieve the Washington Post article and the executives' original statements.",
+      "transcript_snippet": "Executives of Unification-related entities have acknowledged that money from Japan and Korea are fueling their US operations.",
+      "supports_claim_refs": [
+        "C-2037"
+      ],
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8218",
+      "ref": "C-8218",
+      "label": "Washington Post Says Source of Moon Payments Eluded Investigators on Three Continents",
+      "claim": "Reading the 1997 Washington Post article, the host says the magnitude, mechanism and exact sources of the payments have eluded investigators on three continents over three decades.",
+      "anchored_artifacts": [
+        "A-2922.6"
+      ],
+      "related_nodes": [
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:01",
+      "investigative_direction": "Retrieve the Washington Post article for the full sentence and cited investigators.",
+      "transcript_snippet": "have eluded investigators on three continents over the past three decades.",
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8219",
+      "ref": "C-8219",
+      "label": "Host Says Kirk's Last Trip Went From Korea to Japan",
+      "claim": "The host says that after Charlie Kirk went to Korea and met a pastor who was then arrested, he went to Japan, and she asks what Kirk had to do with Korea.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10397"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:01",
+      "investigative_direction": "Obtain Kirk's travel itinerary and event schedule for the Korea and Japan trip in September 2025.",
+      "transcript_snippet": "And then after he went to Korea, he went to Japan.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8220",
+      "ref": "C-8220",
+      "label": "Host Cites Article on South Korean Christian Zionists Opening a Holocaust Museum",
+      "claim": "The host shows an article headline reading that South Korean Christian Zionists open the country's first Holocaust Museum and says she should add it to her timeline.",
+      "anchored_artifacts": [
+        "A-2921.1"
+      ],
+      "related_nodes": [
+        "N-10397"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:52",
+      "investigative_direction": "Retrieve the article, its date and the sponsors of the museum.",
+      "transcript_snippet": "Yeah, South Korean Christian Zionists open the country's first Holocaust Museum.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8221",
+      "ref": "C-8221",
+      "label": "Washington Post Says Moon Sponsors Conferences for Opinion Shapers With Expenses Paid",
+      "claim": "Reading the 1997 Washington Post article, the host says Moon-sponsored groups stage conferences inviting professors, clergy and media executives with all expenses paid, which she compares to Turning Point USA Faith.",
+      "anchored_artifacts": [
+        "A-2922.7"
+      ],
+      "related_nodes": [
+        "N-10399",
+        "N-10398"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:47",
+      "investigative_direction": "Retrieve the Washington Post article and compare with TPUSA Faith pastor summit funding.",
+      "transcript_snippet": "inviting professors, clergy, media executives and other opinion shapers to meetings all expenses paid.",
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8222",
+      "ref": "C-8222",
+      "label": "Host Says TPUSA Faith Planned a Pastor Summit Led by Rob McCoy and Sean Feucht",
+      "claim": "The host says Turning Point USA Faith was embarking on a pastor summit, with Rob McCoy and Sean Feucht set to lead it, bringing in Christian Zionist influencers for training.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10398",
+        "N-10209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:47",
+      "investigative_direction": "Find the TPUSA Faith pastor summit schedule, speaker list and funding sources.",
+      "transcript_snippet": "They had a pastor summit um Rob McCoy, as I showed you that. Sean Feucht, they were going to lead this up.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-209",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8223",
+      "ref": "C-8223",
+      "label": "Washington Post Quotes Ex-Priest Bordelon That Moon Buys Credibility With Academics",
+      "claim": "Reading the 1997 Washington Post article, the host quotes a former Catholic priest, rendered Borderlin, as saying Moon holds conferences on religious founders like Buddha, Jesus and then Moon and gets credibility from academics who attend.",
+      "anchored_artifacts": [
+        "A-2922.7"
+      ],
+      "related_nodes": [
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:39",
+      "investigative_direction": "Retrieve the Washington Post article and identify the former priest by name.",
+      "transcript_snippet": "They'll have a conference on the essence of religious founders like Buddha, Jesus and then Moon who gets a room full of academics to sit there.",
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8224",
+      "ref": "C-8224",
+      "label": "Host Says the Daily Wire Offered Her International Fellowship of Christians and Jews Ad Reads",
+      "claim": "The host says that when she worked at the Daily Wire, the company brought her ad reads including the International Fellowship of Christians and Jews, which she was allowed to decline.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11170"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:25",
+      "investigative_direction": "Ask former Daily Wire staff or review sponsor lists for IFCJ ad placements during the host's tenure.",
+      "transcript_snippet": "when I worked for the Daily Wire, they used to bring me companies like ad reads and they brought me the International Fellowship of Christian and Jews to read ads for.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8225",
+      "ref": "C-8225",
+      "label": "Host Says She Declined the IFCJ Ad Read Because It Did Not Feel Like a Fellowship",
+      "claim": "The host says she looked at the IFCJ website, found it was basically what Christians can do for Jews, said it did not feel like a fellowship, and declined the ad read.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11170"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:07",
+      "investigative_direction": "Review the IFCJ's website and Form 990 for its stated programs and donors.",
+      "transcript_snippet": "This doesn't feel like a fellowship. So, no.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8226",
+      "ref": "C-8226",
+      "label": "Washington Post Says Moon Group Shares a Suite With Martial Arts Federation and Washington Times Aviation",
+      "claim": "Reading the 1997 Washington Post article, the host says the International Coalition for Religious Freedom, which a former employee said signs his checks, shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.",
+      "anchored_artifacts": [
+        "A-2922.8"
+      ],
+      "related_nodes": [
+        "N-11169",
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:49",
+      "investigative_direction": "Retrieve the Washington Post article and corporate registrations for the three entities.",
+      "transcript_snippet": "shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.",
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8227",
+      "ref": "C-8227",
+      "label": "Washington Post Quotes Paquette That Virtually None of Unification's US Operations Is Profitable",
+      "claim": "Reading the 1997 Washington Post article, the host says Paquette, who had access to financial information about church-related businesses, believed virtually none of the Unification Church's US operations is profitable.",
+      "anchored_artifacts": [
+        "A-2922.9"
+      ],
+      "related_nodes": [
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:41",
+      "investigative_direction": "Retrieve the Washington Post article and identify Paquette's role.",
+      "transcript_snippet": "said he believed that virtually none of the uni- Unification's US operations is profitable.",
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8228",
+      "ref": "C-8228",
+      "label": "Host Says Kirk Established DOGE to Find Where the Money Was Coming From",
+      "claim": "The host says that where the money is coming from and where it is going was one of Charlie Kirk's last questions before his death, and that he established DOGE (transcribed \"DOVE\") to determine the answer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11171",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:41",
+      "investigative_direction": "Find the internal TPUSA document or announcement of the \"internet DOGE\" effort (see C-1563) and what it examined.",
+      "transcript_snippet": "He established DOVE to determine that answer.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8229",
+      "ref": "C-8229",
+      "label": "Washington Post Says SEC Filings Trace Nostalgia Cash to Unification Church International",
+      "claim": "Reading the 1997 Washington Post article, the host says SEC filings show the cash for Nostalgia, one of the church's companies, comes through a chain of companies leading to the Unification Church International.",
+      "anchored_artifacts": [
+        "A-2922.10"
+      ],
+      "related_nodes": [
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:19",
+      "investigative_direction": "Pull the SEC filings referenced in the article for Nostalgia.",
+      "transcript_snippet": "SEC filings show that the cash uh for Nostalgia, that's one of their companies, comes through a chain of companies that lead to the Unification Church International.",
+      "supports_claim_refs": [
+        "C-2033"
+      ],
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8230",
+      "ref": "C-8230",
+      "label": "Washington Post Quotes Paquette on Bags of Cash From Korea and Japan",
+      "claim": "Reading the 1997 Washington Post article, the host says Paquette said Reverend Moon sent bags of cash, stacks of hundreds, from Korea and Japan to the Manhattan Center in New York, and that the answer to where it came from was the father.",
+      "anchored_artifacts": [
+        "A-2922.11"
+      ],
+      "related_nodes": [
+        "N-10399"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:03:13",
+      "investigative_direction": "Retrieve the Washington Post article and the Paquette statement in full.",
+      "transcript_snippet": "Rev Moon sent bags of cash, big fat bags, stacks and stacks of hundreds from Korea and Japan to Manhattan Center.",
+      "mentions_person_refs": [
+        "N-409"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8231",
+      "ref": "C-8231",
+      "label": "Host Says Kirk Was Told He Was in Japan Because Christian Faith Was Suppressed",
+      "claim": "The host says Charlie Kirk was told he was in Japan for reasons having to do with the Christian faith being suppressed and that she does not think that is why he was sent to Korea and Tokyo.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10397"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:00",
+      "investigative_direction": "Obtain the Japan itinerary, host organizations and stated purpose of Kirk's Tokyo stop.",
+      "transcript_snippet": "And he's being told that he's there for reasons that have to do with the Christian faith being suppressed.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8232",
+      "ref": "C-8232",
+      "label": "Host Says the McCoys Pushed Kirk to Go to Korea",
+      "claim": "The host says the way the Korea trip was pitched to Kirk was that Christians were suffering there, and that she does not think that is why the McCoys were pushing him to go.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10397"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:07:31",
+      "investigative_direction": "Find who invited Kirk to Build Up Korea and any correspondence between the McCoys and the organizers.",
+      "transcript_snippet": "But again, I don't think that's why the McCoys were pushing for Charlie to go to Korea because you know, they just got a Holocaust Museum.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8233",
+      "ref": "C-8233",
+      "label": "Host Says Kirk Was in Korea September 4 and 5 and Pastor Yoon Was Arrested September 9",
+      "claim": "The host says Pastor Yoon was arrested on September 9 and that Charlie Kirk was in Korea on September 4 and 5 for the Build Up Korea conference, so the arrest came days later.",
+      "anchored_artifacts": [
+        "A-1603.1"
+      ],
+      "related_nodes": [
+        "N-10397"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:07:31",
+      "investigative_direction": "Obtain the Build Up Korea program and Kirk's flight records and compare with the Korean court record for Yoon's arrest.",
+      "transcript_snippet": "He was arrested on September 9th. Now, to remind you, Charlie um was there on the 4th and the 5th for the Build Up Korea conference.",
+      "supports_claim_refs": [
+        "C-2040"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-412"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8234",
+      "ref": "C-8234",
+      "label": "Chan Yoon Says Kirk Pledged to Use His Platform for the Pastor's Case",
+      "claim": "In the CBN clip, Chan Yoon says Charlie Kirk made sure he would use his platform and voice to let the world and America know what was happening in South Korea, as an example of what happens if you do not speak for biblical truth.",
+      "anchored_artifacts": [
+        "A-1600.1"
+      ],
+      "related_nodes": [
+        "N-10397"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:10:00",
+      "investigative_direction": "Find Kirk's posts or shows after the Seoul trip in which he discussed Pastor Yoon.",
+      "transcript_snippet": "Charlie made sure that he will use his platform and his voice to let the whole world and America know that this is happening in South Korea",
+      "supports_claim_refs": [
+        "C-2041"
+      ],
+      "mentions_person_refs": [
+        "N-413",
+        "N-1",
+        "N-412"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8235",
+      "ref": "C-8235",
+      "label": "CBN Says Advocates for Faith and Freedom Launched a Petition for Pastor Yoon",
+      "claim": "In the CBN clip, the reporter says the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Yoon's case.",
+      "anchored_artifacts": [
+        "A-1600.1"
+      ],
+      "related_nodes": [
+        "N-10397"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:10:00",
+      "investigative_direction": "Locate the petition and the organization's registration and funding.",
+      "transcript_snippet": "the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son's case.",
+      "mentions_person_refs": [
+        "N-412"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8236",
+      "ref": "C-8236",
+      "label": "Host Gives Her Best Guess That Kirk Was Killed After an Offer to Become the Next Moon",
+      "claim": "The host says her best guess today as to why Charlie Kirk was assassinated is that an offer came to him to become the next Moon, growing Turning Point from a hundred-million-dollar organization into a multi-billion-dollar one in real estate and business, working with the military and top politicians.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11175",
+        "N-10342",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:12:10",
+      "investigative_direction": "Identify any documented offer, term sheet or donor proposal presented to Kirk and any witness to it.",
+      "transcript_snippet": "it's because an offer came to him uh to become the next Moon, to turn Turning Point, which is already a hundred million dollar organization into a multi-billion dollar um organization",
+      "supports_claim_refs": [
+        "C-5012"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8237",
+      "ref": "C-8237",
+      "label": "Host Says Kirk Turned the Offer Down and His Lieutenants Might Have Betrayed Him",
+      "claim": "The host says her best guess is that this is what Charlie Kirk said no to, and that his lieutenants, seeing a big payday, might betray him for it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11175"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:13:08",
+      "investigative_direction": "Identify who was told of any such offer and whether any financial gain accrued to TPUSA leaders after Kirk's death.",
+      "transcript_snippet": "I would imagine that if you're his lieutenants and you're thinking this is a lot of money, a big payday uh you might betray him.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8238",
+      "ref": "C-8238",
+      "label": "Host Says the Hand Signals and Sleeve Pull Were Not a Coincidence",
+      "claim": "Answering a viewer's question about Dan Flood's hand signals and a man in brown in the front row pulling his sleeves at the moment Kirk was shot, the host says she does not believe it was a coincidence and identifies the man as Rick Cutler.",
+      "anchored_artifacts": [
+        "A-2923.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:17:37",
+      "investigative_direction": "Review UVU footage timestamps of Flood's gestures and Cutler's movements relative to the shot.",
+      "transcript_snippet": "I don't believe it was a coincidence.",
+      "mentions_person_refs": [
+        "N-276",
+        "N-498",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8239",
+      "ref": "C-8239",
+      "label": "Host Says Rick Cutler Has a Complicated History Including DOD Ties",
+      "claim": "The host says Rick Cutler has a very complicated history, including a DOD history and a family history, that she has not yet gone into.",
+      "anchored_artifacts": [
+        "A-2923.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:17:37",
+      "investigative_direction": "Compile Cutler's employment, military and family background from public records.",
+      "transcript_snippet": "he has a very complicated history. We haven't even gone into him, uh his history of the DOD, his family's history.",
+      "mentions_person_refs": [
+        "N-498"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8240",
+      "ref": "C-8240",
+      "label": "Host Says an Operation to Assassinate Kirk Took Place and People Are Implicated",
+      "claim": "The host says she feels strongly that an operation to assassinate Charlie Kirk took place that day, that people are implicated, and that she believes she has discovered the why while the how remains under investigation.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:17:37",
+      "investigative_direction": "Seek the evidentiary record she relies on for coordination and the people implicated.",
+      "transcript_snippet": "I feel strongly that an operation to assassinate Charlie Kirk took place on that day and people are implicated.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8241",
+      "ref": "C-8241",
+      "label": "Host Says She Has Been Communicating With John Bray Behind the Scenes",
+      "claim": "Responding to a viewer comment, the host says she has seen John Bray's work, finds it compelling, and has been communicating with him behind the scenes.",
+      "anchored_artifacts": [
+        "A-2923.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:18:26",
+      "investigative_direction": "Review Bray's published work and his own account of any contact with the host.",
+      "transcript_snippet": "and I have been communicating with him behind the scenes.",
+      "mentions_person_refs": [
+        "N-696",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8242",
+      "ref": "C-8242",
+      "label": "Host Says She Will Not Produce a Theory of the How Until She Is Certain",
+      "claim": "The host says that until she feels totally certain about how the assassination was accomplished she does not want to produce a theory, because she is under scrutiny, though she feels certain about the why.",
+      "anchored_artifacts": [
+        "A-2923.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:18:26",
+      "investigative_direction": "Track whether the host later advances a specific method theory.",
+      "transcript_snippet": "until I feel totally certain about how it was accomplished, I don't want to produce a theory",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8243",
+      "ref": "C-8243",
+      "label": "Host Says She Suggested Trafficking From the Route of the Egyptian Planes",
+      "claim": "The host says she suggested the motive was trafficking when she looked at the route of the Egyptian planes tracking Turning Point USA Faith and pastors for years.",
+      "anchored_artifacts": [
+        "A-2923.2"
+      ],
+      "related_nodes": [
+        "N-10253",
+        "N-10398"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:18:26",
+      "investigative_direction": "Compare her earlier episodes on the Egyptian planes with the trafficking suggestion.",
+      "transcript_snippet": "I suggested uh that it was trafficking when I started looking at the route of the Egyptian planes",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8244",
+      "ref": "C-8244",
+      "label": "Host Says the TPUSA Faith Push Came on Suddenly",
+      "claim": "The host says the faith push at Turning Point USA came on very suddenly and was not what she and Charlie were doing when they talked about free markets and capitalism.",
+      "anchored_artifacts": [
+        "A-2923.2"
+      ],
+      "related_nodes": [
+        "N-10398"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:18:26",
+      "investigative_direction": "Compare TPUSA Faith's launch date with the organization's earlier messaging.",
+      "transcript_snippet": "this faith faith just came on very suddenly",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8245",
+      "ref": "C-8245",
+      "label": "Host Says Paul Vallely Is on the Turning Point USA Advisory Board",
+      "claim": "Responding to a viewer comment, the host says Paul Vallely is on the advisory board of Turning Point USA and that she has looked into it and it is true.",
+      "anchored_artifacts": [
+        "A-2923.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:20:03",
+      "investigative_direction": "Check TPUSA's website and archived board listings for Vallely.",
+      "transcript_snippet": "Cuz Paul Vallely is also on the advisory board of Turning Point USA.",
+      "mentions_person_refs": [
+        "N-815",
+        "N-10000"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8246",
+      "ref": "C-8246",
+      "label": "Host Says Vallely Co-Wrote Mind War With Michael Aquino, an Avowed Satanist",
+      "claim": "Reading a viewer comment, the host says retired Army intelligence officer Paul Vallely co-wrote the book Mind War with Michael Aquino, an Army psychological operations officer and avowed Satanist.",
+      "anchored_artifacts": [
+        "A-2923.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:20:03",
+      "investigative_direction": "Verify the authorship of Mind War and Vallely's and Aquino's military service.",
+      "transcript_snippet": "He co-wrote the book Mind War with Michael Aquino Aquino who was an army intel psychological operations officer and an avowed Satanist.",
+      "mentions_person_refs": [
+        "N-815",
+        "N-460"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8247",
+      "ref": "C-8247",
+      "label": "Host Believes Vallely Has a Fort Huachuca Connection",
+      "claim": "The host says she believes Paul Vallely has some connection to Fort Huachuca and will add him to her military connections list.",
+      "anchored_artifacts": [
+        "A-2923.3"
+      ],
+      "related_nodes": [
+        "N-10739"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:20:03",
+      "investigative_direction": "Check Vallely's biography for Fort Huachuca assignments or affiliations.",
+      "transcript_snippet": "I do believe that he has some connection to Fort Huachuca as well.",
+      "supports_claim_refs": [
+        "C-5388"
+      ],
+      "mentions_person_refs": [
+        "N-815",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8248",
+      "ref": "C-8248",
+      "label": "Host Says a Dream at 4 A.M. Told Her to Look Into the Wilks Brothers",
+      "claim": "The host says she woke at 4 a.m. after a vivid dream and told her husband they had to look into the Wilks brothers, and that Village Crazy Lady then messaged her about the Seven Mountain Mandate and the Wilks brothers.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11102",
+        "N-10242"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:22:28",
+      "investigative_direction": "Ask Village Crazy Lady for the timing of the message she says she sent.",
+      "transcript_snippet": "woke up at woke up at 4:00 a. m. in the morning and I said I just had a dream that we have to look into the Wilkes brothers.",
+      "mentions_person_refs": [
+        "N-66",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8249",
+      "ref": "C-8249",
+      "label": "Host Says the Wilks Brothers Fund PragerU and the Daily Wire",
+      "claim": "The host says the Wilks brothers fund PragerU and the Daily Wire, and fund megachurches.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11102",
+        "N-10131"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:23:09",
+      "investigative_direction": "Review Wilks family giving records and Form 990 disclosures for PragerU and Daily Wire.",
+      "transcript_snippet": "They do fund PragerU and they do fund the Daily Wire",
+      "supports_claim_refs": [
+        "C-6562"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8250",
+      "ref": "C-8250",
+      "label": "Host Says the Wilks Brothers Funded the Start of Rob McCoy's Church",
+      "claim": "The host says the Wilks brothers started Rob McCoy's church by funding it, and that she looked into it and found it true.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11102"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:23:09",
+      "investigative_direction": "Find Godspeak Calvary Chapel's founding documents and donor disclosures.",
+      "transcript_snippet": "They started Rob McCoy's church actually. They funded it.",
+      "supports_claim_refs": [
+        "C-6561"
+      ],
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8251",
+      "ref": "C-8251",
+      "label": "Host Says Kirk Had Visions in 2018 That He Was Going to Die",
+      "claim": "The host says she imagines this is what Charlie was going through in 2018 when he was having visions that he was going to die, comparing it to the vivid dreams she has had since his death.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:23:51",
+      "investigative_direction": "Find Kirk's own public statements about visions or premonitions in 2018.",
+      "transcript_snippet": "I imagine this is exactly what Charlie was going through in 2018 when when he was having visions that he was going to die.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-30",
+      "ref": "M-30",
+      "canonical_term": "Nothing to See Here",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 54,
+          "video_timestamp": "01:21:36",
+          "speaker_node_ref": "N-3",
+          "quote": "rded for that. Free our speech rights Turning Point USA. Nothing to see here. Yeah, never anything to see but pyrotechnics. Living for his glory da...",
+          "context": "Later reuse of Nothing to See Here in CKA seq 54.",
+          "confidence": "high",
+          "tags": [
+            "dismissal",
+            "official_line",
+            "sarcasm",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-77",
+      "ref": "M-77",
+      "canonical_term": "Operation Mocking Pastor",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 54,
+          "video_timestamp": "00:39:04",
+          "speaker_node_ref": "N-3",
+          "quote": "Operation Mocking Pastor we turned we termed it",
+          "context": "Host recalls her coinage for the veneer of Christianity ratcheted up after the assassination.",
+          "confidence": "high",
+          "tags": [
+            "mocking pastor",
+            "influence op"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-35",
+      "ref": "M-35",
+      "canonical_term": "Rabbit Hole",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 54,
+          "video_timestamp": "01:18:26",
+          "speaker_node_ref": "N-3",
+          "quote": "there are so many rabbit holes to go under",
+          "context": "Host says the investigation holds many rabbit holes about the how.",
+          "confidence": "high",
+          "tags": [
+            "rabbit hole"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 54,
+          "video_timestamp": "01:17:37",
+          "speaker_node_ref": "N-3",
+          "quote": "the offer from BB net Yahoo",
+          "context": "Host lists the offer from Netanyahu among elements that explain the why.",
+          "confidence": "high",
+          "tags": [
+            "netanyahu",
+            "pun"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 54,
+          "video_timestamp": "01:18:26",
+          "speaker_node_ref": "N-3",
+          "quote": "But Ben is still fake and gay.",
+          "context": "Host aside about Ben Shapiro while answering a viewer comment.",
+          "confidence": "high",
+          "tags": [
+            "fake and gay",
+            "shapiro"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-47",
+      "ref": "M-47",
+      "canonical_term": "Megachurches Look Funny",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 54,
+          "video_timestamp": "01:02:19",
+          "speaker_node_ref": "N-3",
+          "quote": "it's just so megachurch vibes",
+          "context": "Host jokes about money found behind a sink while reading about Moon's cash.",
+          "confidence": "high",
+          "tags": [
+            "megachurch",
+            "money"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-211",
+      "ref": "M-211",
+      "canonical_term": "Moon Inc.",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 54,
+          "video_timestamp": "01:04:00",
+          "speaker_node_ref": "N-3",
+          "quote": "Man, who took Moon Inc. to the next level?",
+          "context": "Host uses Moon Inc. as shorthand for Kirk's alleged offer and mocks Netanyahu's next-level language.",
+          "confidence": "high",
+          "tags": [
+            "moon inc",
+            "next level"
+          ]
+        },
+        {
+          "episode": 54,
+          "video_timestamp": "01:16:48",
+          "speaker_node_ref": "N-3",
+          "quote": "we are not receiving money from Moon Inc.",
+          "context": "Host plugs merch and jokes about funding.",
+          "confidence": "high",
+          "tags": [
+            "moon inc",
+            "merch"
+          ]
+        },
+        {
+          "episode": 54,
+          "video_timestamp": "01:18:26",
+          "speaker_node_ref": "N-3",
+          "quote": "I feel like Moon Inc. passed his prologue on that one.",
+          "context": "Host riffs on the episode title in her closing answer.",
+          "confidence": "high",
+          "tags": [
+            "moon inc",
+            "prologue"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-212",
+      "ref": "M-212",
+      "canonical_term": "Glitch Glitch",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 54,
+          "video_timestamp": "00:42:24",
+          "speaker_node_ref": "N-3",
+          "quote": "Glitch glitch. Oh, Josh Hammer's lying.",
+          "context": "Host mimics Christian influencers she says are glitching when the topic is Kirk or Israel.",
+          "confidence": "high",
+          "tags": [
+            "glitch",
+            "christian influencers"
+          ]
+        }
+      ]
+    }
+  ]
 }

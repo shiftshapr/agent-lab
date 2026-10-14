@@ -11,7 +11,8 @@
 - **Transcript SHA-256**: db9aacd73c214666d6ea30eb8af985ba56f6e0ed6eeeeaaef2eeae0d410df01e
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-10820, N-10821, N-10822, N-10823, N-10824, N-10825, N-10826
+  - Reused Nodes Appearing: N-10825
+ - New Nodes Introduced: N-10820, N-10821, N-10822, N-10823, N-10824, N-10826
  - Reused Nodes Appearing: N-375, N-435, N-503, N-516
  - (see registers)
 

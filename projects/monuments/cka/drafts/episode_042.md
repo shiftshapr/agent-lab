@@ -34,8 +34,8 @@ Episode 42 Ledger Summary
 
 - Artifact Families Introduced: A-1501, A-1502, A-1503, A-1504, A-1505, A-1506, A-1507, A-1508, A-1509, A-1510, A-1511, A-1512
 - Claim Range: C-1839–C-1861
-  - New Nodes Introduced: N-314, N-315, N-316, N-317, N-318, N-10312, N-10313, N-10314, N-10315
-  - Reused Nodes Appearing: N-2, N-10311
+  - New Nodes Introduced: N-315, N-316, N-318, N-10312, N-10313
+  - Reused Nodes Appearing: N-2, N-10311, N-317, N-10315, N-314, N-10314
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---

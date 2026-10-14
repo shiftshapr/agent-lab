@@ -1,0 +1,5 @@
+# Coverage notes, episode 161
+
+- Existing draft: 23 claims (C-3680..C-3700 plus the C-3775 and C-3776 revision claims), 8 artifacts, 14 memes. The earlier pass was strongest on the Pounds opener, the Atlantic headline facts, the Sept 15 drive and the Wayback finding.
+- Beats judged covered: about 20. Added: 53 claims, 4 artifact families (6 items), 3 new topic nodes, 2 new person nodes, 2 new memes and 3 M-12 occurrences.
+- Five most important missed beats: (1) vancekirk.com purchased Sept 12 and Erika CEO and chairman by then (00:53:20-00:53:40); (2) Blake Wynn beside Erika at the exit with Kash Patel and his public appearances (00:26:16-00:27:20); (3) Wynn says he talks regularly with Kash Patel and sat with Trump, Musk, White, Witkoff on election night (00:30:30-00:30:50); (4) Servius says the campaign began about a year earlier, i.e. Sept 2025 (00:17:50); (5) host's recall of Patel wanting to find archive.ph's operator and her suggestion someone ordered the Wayback "loading" (00:42:40-00:43:30).
