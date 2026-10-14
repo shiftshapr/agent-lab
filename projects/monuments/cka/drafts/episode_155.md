@@ -37,21 +37,21 @@
 - Claim Range: C-3513 – C-3530
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
 - New Nodes Introduced (investigation targets): N-10847, N-10848, N-10849, N-10850
-- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Go forth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turk, N-? Andrew Kolvit (transcript variant: "Kulevit")
+- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Go forth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turek, N-? Andrew Kolvit (transcript variant: "Kulevit")
 
 ---
 
 ## II. Executive Summary
 
-The episode advances two parallel threads. The first extends the host's ongoing scrutiny of the Sept 10 prosecution narrative by introducing footage artifacts displayed in the episode (parking garage stills depicting the "Maroon Boy" vehicle sitting at the top level for ~8 minutes, and TMZ timestamped 8:07 AM footage showing Robinson already parked off campus) and by formally logging the host's stated correction that prior-episode timeline data was sourced from the Sept 15 search warrant rather than Agent Hull's preliminary-hearing testimony. The second thread is the introduction of a new adversarial podcast pairing (Blake Neff / Jeremy Boring), anchored by their promotional photo, their pre-release promo clip, a separate Bobby Sausalito prediction clip played and endorsed as "almost spot on" by the host, and a Jeremy Boring X post read on air. Two additional clusters are introduced: Woodbury Building / Baugh family / N88 plane framing (host-stated research only, no displayed artifact) and a midterm-electability commentary cluster anchored by four read-aloud X posts and a JD Vance video clip. Structurally, the episode's evidentiary center of mass is the Neff/Boring interview material; investigative structural importance lies in the new Sept 10 footage and the formally logged warrant-vs-testimony narrative shift.
+The episode advances two parallel threads. The first extends the host's ongoing scrutiny of the Sept 10 prosecution narrative by introducing footage artifacts displayed in the episode (parking garage stills depicting the "Maroon Boy" vehicle sitting at the top level for ~8 minutes, and TMZ timestamped 8:07 AM footage showing Robinson already parked off campus) and by formally logging the host's stated correction that prior-episode timeline data was sourced from the Sept 15 search warrant rather than Agent Hull's preliminary-hearing testimony. The second thread is the introduction of a new adversarial podcast pairing (Blake Neff / Jeremy Boreing), anchored by their promotional photo, their pre-release promo clip, a separate Bobby Sausalito prediction clip played and endorsed as "almost spot on" by the host, and a Jeremy Boreing X post read on air. Two additional clusters are introduced: Woodbury Building / Baugh family / N88 plane framing (host-stated research only, no displayed artifact) and a midterm-electability commentary cluster anchored by four read-aloud X posts and a JD Vance video clip. Structurally, the episode's evidentiary center of mass is the Neff/Boring interview material; investigative structural importance lies in the new Sept 10 footage and the formally logged warrant-vs-testimony narrative shift.
 
 ---
 
 ## III. Artifact Register
 
-**A-2405** Blake Neff & Jeremy Boring Promotional Photo Bundle
+**A-2405** Blake Neff & Jeremy Boreing Promotional Photo Bundle
 
-**A-2405.1** Promotional photo of Blake Neff and Jeremy Boring (with a dog in the center) promoting their joint sitdown
+**A-2405.1** Promotional photo of Blake Neff and Jeremy Boreing (with a dog in the center) promoting their joint sitdown
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -91,9 +91,9 @@ Confidence Level: High
 
 ---
 
-**A-2408** Jeremy Boring X Post Bundle
+**A-2408** Jeremy Boreing X Post Bundle
 
-**A-2408.1** X post by Jeremy Boring asserting that Candace Owens does things "largely on purpose" and "all Candace cares about is fame and money"
+**A-2408.1** X post by Jeremy Boreing asserting that Candace Owens does things "largely on purpose" and "all Candace cares about is fame and money"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -463,7 +463,7 @@ Named by the host as demanding speech censorship.
 
 **N-371** Jeremy Boreing
 
-Former Daily Wire CEO ('Jeremy Boring' in the transcript); the host's account of his podcast, posts and lawsuits.
+Former Daily Wire CEO ('Jeremy Boreing' in the transcript); the host's account of his podcast, posts and lawsuits.
 
 *Related: C-11859, C-11898, C-11899, C-11901, C-11902, C-11903, C-11904, C-11907, C-11908, C-11915*
 
@@ -677,7 +677,7 @@ The host's commentary on prediction-market odds, X posts and critics of the part
 
 Claim Timestamp: 00:00:00–00:00:01
 
-Claim: Blake Neff and Jeremy Boring released promotional photo and audio/video promo clip announcing a joint podcast sitdown.
+Claim: Blake Neff and Jeremy Boreing released promotional photo and audio/video promo clip announcing a joint podcast sitdown.
 
 Anchored Artifacts: A-2405.1, A-2407.1
 Mentions: N-162
@@ -692,7 +692,7 @@ Investigative Direction: Obtain the full released episode and compare its conten
 
 Claim Timestamp: 00:33:23–00:36:12
 
-Claim: Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turk), and calls for lawsuits/jail time against the host.
+Claim: Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host.
 
 Anchored Artifacts: A-2406.1
 Mentions: N-22, N-3, N-194, N-2, N-7
@@ -766,7 +766,7 @@ Investigative Direction: Verify exact quote and context in the full Neff/Boring 
 
 Claim Timestamp: 00:31:47–00:32:21
 
-Claim: Jeremy Boring posted on X that Candace Owens "does this largely on purpose" and that "all Candace cares about is fame and money. Nothing is beneath her."
+Claim: Jeremy Boreing posted on X that Candace Owens "does this largely on purpose" and that "all Candace cares about is fame and money. Nothing is beneath her."
 
 Anchored Artifacts: A-2408.1
 Mentions: N-3
@@ -2041,7 +2041,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** Transcript renders the podcaster's name inconsistently – "Blake Neff" in the show title and at 36:51; "Blake Nef" elsewhere in the transcript body (e.g., 00:46, 29:12, 33:23, 40:52); "Blake Snuff" appears as Bobby Sausalito's pronunciation/joke (33:23). Title spelling "Neff" used here pending verification.
+- **Name uncertainty:** Transcript renders the podcaster's name inconsistently – "Blake Neff" in the show title and at 36:51; "Blake Neff" elsewhere in the transcript body (e.g., 00:46, 29:12, 33:23, 40:52); "Blake Snuff" appears as Bobby Sausalito's pronunciation/joke (33:23). Title spelling "Neff" used here pending verification.
 - **Name uncertainty:** "Erica Kirk" appears as "Erika Kirk" at multiple points (e.g., 31:12, 36:12). Both spellings preserved where appearing.
 - **Name uncertainty:** "Officer Go forth" appears with varying spacing/capitalization (sometimes "Goforth"). Preserved as transcribed.
 - **Name uncertainty:** "Andrew Kolvit" appears as "Andrew Kulevit" / "Kulvit" at varying points. Preserved as transcribed.

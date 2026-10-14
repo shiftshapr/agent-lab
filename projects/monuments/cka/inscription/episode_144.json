@@ -1748,8 +1748,8 @@
       "@type": "Claim",
       "@id": "C-3324",
       "ref": "C-3324",
-      "label": "Andrew Kolvet briefed Candace on Bill Aman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood",
-      "claim": "Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Aman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.",
+      "label": "Andrew Kolvet briefed Candace on Bill Ackman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood",
+      "claim": "Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Ackman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.",
       "anchored_artifacts": [
         "A-2308.1",
         "A-2308.2"
@@ -1772,8 +1772,8 @@
       "@type": "Claim",
       "@id": "C-3774",
       "ref": "C-3774",
-      "label": "Bill Ackman is the 'Bill Aman' of the summit named in C-3324 (revises C-3324)",
-      "claim": "C-3324 spells the summit host 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-37): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.",
+      "label": "Bill Ackman is the 'Bill Ackman' of the summit named in C-3324 (revises C-3324)",
+      "claim": "C-3324 spells the summit host 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.",
       "anchored_artifacts": [
         "A-2308.1",
         "A-2308.2"
@@ -1784,7 +1784,7 @@
       "tags": [],
       "claim_timestamp": "00:50:09",
       "investigative_direction": "Read with C-3324; match the text-message exports under the corrected spelling Bill Ackman.",
-      "transcript_snippet": "on the 12th, you were the one that was telling me about the Bill Aman summit.",
+      "transcript_snippet": "on the 12th, you were the one that was telling me about the Bill Ackman summit.",
       "confidence": "medium",
       "revises_claim_refs": [
         "C-3324"
@@ -1864,7 +1864,7 @@
       "tags": [],
       "claim_timestamp": "00:03:22",
       "investigative_direction": "Obtain Kolvet's original on-air statement about hats and compare it with Farnsworth's own explanation to the host.",
-      "transcript_snippet": "we were told by Andrew Kovette that he was worried about people stealing hats.",
+      "transcript_snippet": "we were told by Andrew Kolvet that he was worried about people stealing hats.",
       "supports_claim_refs": [
         "C-3294"
       ],
@@ -3042,7 +3042,7 @@
       "tags": [],
       "claim_timestamp": "00:50:09",
       "investigative_direction": "Review the call log and text exports for daily contact in September 2025.",
-      "transcript_snippet": "I was speaking to Andrew Kovette on the phone every single day and it was Andrew Kovette who was telling me and we were speaking about a potential foreign angle in Charlie's assassination.",
+      "transcript_snippet": "I was speaking to Andrew Kolvet on the phone every single day and it was Andrew Kolvet who was telling me and we were speaking about a potential foreign angle in Charlie's assassination.",
       "mentions_person_refs": [
         "N-14",
         "N-3",

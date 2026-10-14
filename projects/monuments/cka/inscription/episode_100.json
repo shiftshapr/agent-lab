@@ -757,7 +757,7 @@
       "ref": "N-215",
       "name": "Jesse Watters",
       "type": "person",
-      "description": "Transcript spelling \"Jesse Waters\". Erika Kirk's account to him of September 9 is contrasted with Kolvet's message.",
+      "description": "Transcript spelling \"Jesse Watters\". Erika Kirk's account to him of September 9 is contrasted with Kolvet's message.",
       "related_artifacts": [],
       "related_claims": [
         "C-3910"
@@ -792,7 +792,7 @@
       "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
-      "description": "Transcript spelling \"Sean Ryan\". Harpole's interview with him preceded Bednarz's theories.",
+      "description": "Transcript spelling \"Shawn Ryan\". Harpole's interview with him preceded Bednarz's theories.",
       "related_artifacts": [],
       "related_claims": [
         "C-3893"
@@ -934,7 +934,7 @@
       "ref": "N-371",
       "name": "Jeremy Boreing",
       "type": "person",
-      "description": "Transcript spelling \"Jeremy Boring\". Former Daily Wire CEO whose video amplifies the George Farmer allegations; his X reply, Pendragon, his podcast and his conduct toward the host and Brett Cooper are discussed.",
+      "description": "Transcript spelling \"Jeremy Boreing\". Former Daily Wire CEO whose video amplifies the George Farmer allegations; his X reply, Pendragon, his podcast and his conduct toward the host and Brett Cooper are discussed.",
       "related_artifacts": [
         "A-2551.1",
         "A-2552.1",
@@ -1451,7 +1451,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10681",
       "ref": "N-10681",
-      "name": "Sean Ryan Show Interview Clip Bundle",
+      "name": "Shawn Ryan Show Interview Clip Bundle",
       "type": "investigation_target",
       "description": "Harpole's Shawn Ryan interview, after which Bednarz began his theories.",
       "related_artifacts": [],
@@ -1655,7 +1655,7 @@
       "ref": "N-10910",
       "name": "Dhillon Law Group",
       "type": "organization",
-      "description": "Law firm (transcript spelling \"Dylan Law Group\") that the host says served the preservation order on Blake Bednarz. She says Harpole's lawyer is the same one the Daily Wire used against her.",
+      "description": "Law firm (transcript spelling \"Dhillon Law Group\") that the host says served the preservation order on Blake Bednarz. She says Harpole's lawyer is the same one the Daily Wire used against her.",
       "related_artifacts": [
         "A-2544.2"
       ],
@@ -1922,7 +1922,7 @@
       "tags": [],
       "claim_timestamp": "00:08:09",
       "investigative_direction": "Compare the publication date of Harpole's Shawn Ryan Show episode with the timestamps of Bednarz's first posts naming Harpole.",
-      "transcript_snippet": "The person he's referring to, a full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian's disastrous interview with Sean Ryan.",
+      "transcript_snippet": "The person he's referring to, a full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian's disastrous interview with Shawn Ryan.",
       "mentions_person_refs": [
         "N-608",
         "N-270",
@@ -1970,7 +1970,7 @@
       "tags": [],
       "claim_timestamp": "00:09:54",
       "investigative_direction": "Obtain the preservation letter served on Douglas Blake Bednarz, its date and signatory, and any later subpoena issued to him.",
-      "transcript_snippet": "I learned that Blake Bendaris had been served by Dylan Law Group. But not with the lawsuit, but with a simple preservation order because they think he might have something that might help to prosecute me in a defamation suit.",
+      "transcript_snippet": "I learned that Blake Bendaris had been served by Dhillon Law Group. But not with the lawsuit, but with a simple preservation order because they think he might have something that might help to prosecute me in a defamation suit.",
       "mentions_person_refs": [
         "N-608",
         "N-3"
@@ -2296,7 +2296,7 @@
       "tags": [],
       "claim_timestamp": "00:20:58",
       "investigative_direction": "Review the full Jesse Watters interview transcript for Erika Kirk's account of September 9.",
-      "transcript_snippet": "But Erika herself told Jesse Waters that Charlie was at the office all day and never said that she was with him.",
+      "transcript_snippet": "But Erika herself told Jesse Watters that Charlie was at the office all day and never said that she was with him.",
       "mentions_person_refs": [
         "N-2",
         "N-215",
@@ -2445,7 +2445,7 @@
       "tags": [],
       "claim_timestamp": "00:28:52",
       "investigative_direction": "Compare counsel of record in Harpole v. Owens with counsel in the Daily Wire v. Owens arbitration.",
-      "transcript_snippet": "This is the lawyer that Jeremy Boring and Ben and The Daily Wire worked with to pursue me for 2 years in court, uh just with the explicit goal of bankrupting me.",
+      "transcript_snippet": "This is the lawyer that Jeremy Boreing and Ben and The Daily Wire worked with to pursue me for 2 years in court, uh just with the explicit goal of bankrupting me.",
       "mentions_person_refs": [
         "N-371",
         "N-97",
@@ -2658,7 +2658,7 @@
       "tags": [],
       "claim_timestamp": "00:38:34",
       "investigative_direction": "Seek confirmation from the New York Post of any 2024 pitch about George Farmer and its source.",
-      "transcript_snippet": "It is The Daily Wire and Jeremy Boring and their affiliates that stumbled upon an instant report an instant report with George Farmer in the late summer of 2024.",
+      "transcript_snippet": "It is The Daily Wire and Jeremy Boreing and their affiliates that stumbled upon an instant report an instant report with George Farmer in the late summer of 2024.",
       "mentions_person_refs": [
         "N-371",
         "N-30"
@@ -2764,7 +2764,7 @@
       "@id": "C-3933",
       "ref": "C-3933",
       "label": "Shane Cashman called Boreing \"Ted Bundy doing a Mr. Rogers impression\"",
-      "claim": "The host reads a post by Shane Cashman on X that says \"Jeremy Boring is Ted Bundy doing a Mr. Rogers impression.\"",
+      "claim": "The host reads a post by Shane Cashman on X that says \"Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression.\"",
       "anchored_artifacts": [
         "A-2552.1"
       ],
@@ -2772,7 +2772,7 @@
       "tags": [],
       "claim_timestamp": "00:43:02",
       "investigative_direction": "Archive the Shane Cashman X post with its URL and timestamp.",
-      "transcript_snippet": "Shane Cashman said it best on X when he wrote this. He wrote, \"Jeremy Boring is Ted Bundy doing a Mr. Rogers impression.\"",
+      "transcript_snippet": "Shane Cashman said it best on X when he wrote this. He wrote, \"Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression.\"",
       "mentions_person_refs": [
         "N-612",
         "N-371"
@@ -2810,7 +2810,7 @@
       "tags": [],
       "claim_timestamp": "00:44:57",
       "investigative_direction": "Catalogue the titles and topics of every episode of Jeremy Boreing's podcast to date.",
-      "transcript_snippet": "Since launching his new podcast, Jeremy Boring has done 19 shows that nobody has watched. You should know that 17 of them have been about me and Tucker Carlson.",
+      "transcript_snippet": "Since launching his new podcast, Jeremy Boreing has done 19 shows that nobody has watched. You should know that 17 of them have been about me and Tucker Carlson.",
       "mentions_person_refs": [
         "N-371",
         "N-3",
@@ -3184,7 +3184,7 @@
           "episode": 100,
           "video_timestamp": "00:43:02",
           "speaker_node_ref": "N-3",
-          "quote": "Shane Cashman said it best on X when he wrote this. He wrote, \"Jeremy Boring is Ted Bundy doing a Mr. Rogers impression.\"",
+          "quote": "Shane Cashman said it best on X when he wrote this. He wrote, \"Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression.\"",
           "context": "Host reads Shane Cashman's line about Jeremy Boreing, which her team found the most accurate description.",
           "confidence": "high",
           "tags": [

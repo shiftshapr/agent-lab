@@ -39,7 +39,7 @@
 
 ## II. Executive Summary
 
-This episode presents several read-aloud or displayed external sources that anchor discrete investigative claims within the Bride of Charlie series. The host reads excerpts from Frank Turek's appearance on Nicholas Bowling's podcast (citing Exodus 22:22 and Deuteronomy 19 against her), displays a CNN September 11 article stating the screwdriver was found "near the recovered rifle," plays a clip of Officer Christopher Bagley trial testimony about his review (or non-review) of rooftop video, and presents a screenshot from Benny Johnson's show placing Andrew Kovat at the Asher Adams Hotel in Salt Lake City. The host also plays Sky News investigative footage regarding Tomahawk missile evidence in the Iran school bombing and a Mark Levin audio segment on arming Iranian protesters – artifacts that anchor geopolitical claims but do not advance the Charlie Kirk investigation directly. The episode also introduces a verbal-source claim (no displayed artifact) about a Sept 9 UVU campus scoping incident involving a person who claimed to be Senator Mike Lee's bodyguard.
+This episode presents several read-aloud or displayed external sources that anchor discrete investigative claims within the Bride of Charlie series. The host reads excerpts from Frank Turek's appearance on Nicholas Bowling's podcast (citing Exodus 22:22 and Deuteronomy 19 against her), displays a CNN September 11 article stating the screwdriver was found "near the recovered rifle," plays a clip of Officer Christopher Bagley trial testimony about his review (or non-review) of rooftop video, and presents a screenshot from Benny Johnson's show placing Andrew Kolvet at the Asher Adams Hotel in Salt Lake City. The host also plays Sky News investigative footage regarding Tomahawk missile evidence in the Iran school bombing and a Mark Levin audio segment on arming Iranian protesters – artifacts that anchor geopolitical claims but do not advance the Charlie Kirk investigation directly. The episode also introduces a verbal-source claim (no displayed artifact) about a Sept 9 UVU campus scoping incident involving a person who claimed to be Senator Mike Lee's bodyguard.
 
 The episode advances the following structural threads in the series: (1) the screwdriver-narrative evolution (now anchored to a primary CNN source); (2) the Officer Bagley testimony anomaly regarding rooftop video review; (3) the Turning Point hotel location, now confirmed via a screenshot artifact; (4) the black nitrile gloves / door compartment question, supported by an email artifact and host-verified; (5) a UVU pre-event scoping claim based on a verbal source. Non-Charlie segments on Iran function as rhetorical context for the host's broader claims about US government credibility but introduce two anchorable artifact claims (Sky News; Mark Levin).
 
@@ -127,9 +127,9 @@ Confidence Level: High (played audio)
 
 ---
 
-**A-2241** Andrew Kovat Hotel Screenshot Bundle
+**A-2241** Andrew Kolvet Hotel Screenshot Bundle
 
-**A-2241.1** Still image from Benny Johnson show (Sept 11) showing Andrew Kovat at Asher Adams Hotel
+**A-2241.1** Still image from Benny Johnson show (Sept 11) showing Andrew Kolvet at Asher Adams Hotel
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -765,11 +765,11 @@ Investigative Direction: Obtain trial transcripts or full video of Bagley's test
 
 ---
 
-**C-3215** Andrew Kovat appeared on Benny Johnson's show from a room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025
+**C-3215** Andrew Kolvet appeared on Benny Johnson's show from a room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025
 
 Claim Timestamp: 00:34:29
 
-Claim: A screenshot displayed from Benny Johnson's show on September 11, 2025 shows Andrew Kovat broadcasting from a room at the Asher Adams (Autograph Collection) Hotel in Salt Lake City.
+Claim: A screenshot displayed from Benny Johnson's show on September 11, 2025 shows Andrew Kolvet broadcasting from a room at the Asher Adams (Autograph Collection) Hotel in Salt Lake City.
 
 Anchored Artifacts: A-2241.1
 Mentions: N-89, N-14
@@ -900,7 +900,7 @@ Claim Timestamp: 00:00:01
 
 Claim: The host says Frank Turek is going viral and trending on X for seemingly using the Bible to message that she should be struck down, and that it is not the first time he has done so.
 
-Transcript Snippet: Frank Turk is actually going viral right now, trending on X for seemingly using the Bible to message that I should be struck down.
+Transcript Snippet: Frank Turek is actually going viral right now, trending on X for seemingly using the Bible to message that I should be struck down.
 
 Anchored Artifacts: 
 Mentions: N-7, N-3
@@ -2140,9 +2140,9 @@ Confidence: high
 
 - **Name uncertainty:** "Alan Robertson" (USU officer) – host clarifies spelling as A-L-A-N, distinct from "Allen" (A-L-L-E-N) and a verbal slip "Allan Robinson" appears at one point (autocorrected on air). Preservation: "Alan Robertson."
 - **Name uncertainty:** "Blake Neff" (Turning Point) – host uses both "Blake Neff" (in displayed X post text) and "Blakey Nef" (rhetorical). Preservation: "Blake Neff" per displayed artifact.
-- **Name uncertainty:** "Frank Turek" (commentator) – host uses both "Frank Turk" and "Frank Turek" interchangeably; standard spelling is "Turek." Preservation: "Frank Turek."
+- **Name uncertainty:** "Frank Turek" (commentator) – host uses both "Frank Turek" and "Frank Turek" interchangeably; standard spelling is "Turek." Preservation: "Frank Turek."
 - **Artifact verbally referenced but not shown:** UVU Sept 9 scoping incident (source described but no document/screenshot shown); Alan Robertson Brady list / San Bernardino emails (described but not displayed); Country music donor paying for Ian's rehab (described but no document shown).
-- **Spelling variant on hotel:** Host refers to "Andrew Kovette" (rhetorical) vs "Andrew Kovat" (proper name in screenshot context). Preservation: "Andrew Kovat."
+- **Spelling variant on hotel:** Host refers to "Andrew Kolvet" (rhetorical) vs "Andrew Kolvet" (proper name in screenshot context). Preservation: "Andrew Kolvet."
 - **Transcript ambiguity:** Host's auto-correction in real time at ~30:07 – possible transcription note for "Allan Robinson" verbal slip is intentional (not a typo).
 - **Possible transcription error:** Host says "Alfa says he didn't do that" (~21:54) – likely referring to Officer Bagley / defense attorney; surrounding context suggests this is a verbal aside rather than a named speaker.
 - **Claim failed admission test:** Host's broader interpretive claims about US government, Baal worship, Israel, and Iran policy are not inscribed as claims (no artifact anchor for the interpretive framing; Sky News / Levin clips anchor only the specific factual claims above).

@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1120, A-1121, A-1122, A-1123, A-1124, A-1125, A-1126, A-1127, A-1128, A-1129, A-1130, A-1131, A-1132, A-1133
   - Claim Range: C-1205-C-1227
-  - New Nodes Introduced: N-83, N-84, N-85, N-86, N-87, N-88, N-89, N-90, N-91, N-92, N-10065, N-10066, N-10067, N-10068, N-10069, N-10070, N-10071, N-10072, N-10073, N-10074, N-10075, N-10077, N-10078, N-10079, N-10080, N-10081
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-46, N-5, N-57, N-68, N-54, N-72, N-80, N-10000, N-10012, N-10026, N-10014, N-10076
+  - New Nodes Introduced: N-83, N-84, N-85, N-86, N-87, N-88, N-89, N-90, N-91, N-92, N-10065, N-10066, N-10067, N-10068, N-10069, N-10071, N-10072, N-10073, N-10074, N-10075, N-10078, N-10079, N-10080, N-10081
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-46, N-5, N-57, N-68, N-54, N-72, N-80, N-10000, N-10012, N-10026, N-10014, N-10076, N-10070, N-10077
 
 ## 2. Executive Summary
 
@@ -97,7 +97,7 @@ Confidence: high
 
 **A-1125** PBD Podcast Clip Bundle
 
-**A-1125.1** PBD podcast clip featuring Bill Aman and Andrew Kovit discussing Candace's TPUSA involvement
+**A-1125.1** PBD podcast clip featuring Bill Ackman and Andrew Kolvet discussing Candace's TPUSA involvement
 Video Timestamp: 00:25:57–00:27:32
 *Related: C-1212, C-1213, N-57, N-37, N-14, N-10000*
 Transcript Snippet: When's the last time you saw Candace Owens in person? 2015, 2016... she's not even invited
@@ -300,7 +300,7 @@ Self-identified TPUSA board member stating he last saw Candace in 2015/2016
 **N-57** Patrick Bet-David
 
 Node Type: Person
-Podcast host whose platform carried the Bill Aman/Kovit segment
+Podcast host whose platform carried the Bill Ackman/Kovit segment
 
 *Related: A-1125.1, C-1212, C-1213*
 
@@ -752,10 +752,10 @@ Investigative Direction: Verify headline and byline on the Daily Mail site and c
 
 ---
 
-**C-1212** Bill Aman stated Candace's credibility is failing
+**C-1212** Bill Ackman stated Candace's credibility is failing
 
 Claim Timestamp: 00:25:42
-Claim: On the PBD podcast, Bill Aman stated that Candace Owens' credibility is going 'down the tubes' because she has not brought receipts.
+Claim: On the PBD podcast, Bill Ackman stated that Candace Owens' credibility is going 'down the tubes' because she has not brought receipts.
 Transcript Snippet: her credibility, I mean, is going to go down the tubes because she needs to bring receipts
 Anchored Artifacts: A-1125.1
 Mentions: N-3, N-37, N-57
@@ -764,11 +764,11 @@ Investigative Direction: Obtain full PBD segment and verify exact quote against 
 
 ---
 
-**C-3772** The "bring receipts" line C-1212 attributes to Bill Aman is the PBD guest's; the guest cites Bill Ackman as having brought receipts
+**C-3772** The "bring receipts" line C-1212 attributes to Bill Ackman is the PBD guest's; the guest cites Bill Ackman as having brought receipts
 
 Claim Timestamp: 00:25:49
 
-Claim: In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going "down the tubes because she needs to bring receipts" is spoken by the PBD guest, who goes straight on to say Bill Ackman "brought receipts" and refers to him in the third person ("I think he was there in the room"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to "Bill Aman" (Bill Ackman, N-37) is contradicted.
+Claim: In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going "down the tubes because she needs to bring receipts" is spoken by the PBD guest, who goes straight on to say Bill Ackman "brought receipts" and refers to him in the third person ("I think he was there in the room"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to "Bill Ackman" (Bill Ackman, N-37) is contradicted.
 
 Transcript Snippet: Bill Ackman brought receipts. How long was that tweet? It's still going. I think he was there in the room.
 
@@ -781,10 +781,10 @@ Investigative Direction: Read with C-1212; identify the PBD guest from the full 
 
 ---
 
-**C-1213** Andrew Kovit claims last saw Candace at TPUSA in 2015/2016
+**C-1213** Andrew Kolvet claims last saw Candace at TPUSA in 2015/2016
 
 Claim Timestamp: 00:25:57
-Claim: On the PBD podcast, Andrew Kovit, identifying himself as a TPUSA board member, said he last saw Candace Owens in person in 2015 or 2016 and that she has not attended a TPUSA event in many years.
+Claim: On the PBD podcast, Andrew Kolvet, identifying himself as a TPUSA board member, said he last saw Candace Owens in person in 2015 or 2016 and that she has not attended a TPUSA event in many years.
 Transcript Snippet: When's the last time you saw Candace Owens in person? 2015, 2016
 Anchored Artifacts: A-1125.1
 Mentions: N-3, N-14, N-57

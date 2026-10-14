@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep113): N-10865
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-676, N-677, N-678, N-679, N-10961, N-10963, N-10964, N-10965, N-10966, N-10967
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-162, N-182, N-366, N-439, N-455, N-526, N-599, N-667, N-671, N-672, N-10000, N-10008, N-10026, N-10070, N-10367, N-10417, N-10472, N-10541, N-10628, N-10664, N-10671, N-10700, N-10899, N-10955, N-680, N-10962
+  - Tip-minted Nodes (skeleton): N-676, N-677, N-678, N-679, N-10961, N-10964, N-10965, N-10966, N-10967
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-162, N-182, N-366, N-439, N-455, N-526, N-599, N-667, N-671, N-672, N-10000, N-10008, N-10026, N-10070, N-10367, N-10417, N-10472, N-10541, N-10628, N-10664, N-10671, N-10700, N-10899, N-10955, N-680, N-10962, N-10963
   - Claim Range: C-4434–C-4482
   - (see registers)
 
@@ -304,7 +304,7 @@ His Fox and Friends remarks on Kharg Island and Venezuelan oil are played; the h
 
 **N-14** Andrew Kolvet
 
-Transcript spellings "Andrew Kolb" and "Andrew Kovacs" / "Kovacs". Says on the Charlie Kirk Show that TPUSA released the appointment video to "troll the trolls"; the host demands he state it is not doctored.
+Transcript spellings "Andrew Kolvet" and "Andrew Kovacs" / "Kovacs". Says on the Charlie Kirk Show that TPUSA released the appointment video to "troll the trolls"; the host demands he state it is not doctored.
 
 *Related: C-4465, C-4466, C-4468, C-4469, C-4476, A-2642.1, A-2643.3*
 
@@ -1529,7 +1529,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2645.1 (the Hansell FOIA request and response). The Daily Mail article on withholding the video and the host's prior-day naming of donors are referenced but not shown. A studio cutout of Laura Loomer holding a long "receipt" (25:19) is a comedy prop and is recorded only as meme context.
 - **Episode metadata**: the skeleton's Video Timestamp Range was 00:56:29; it is set to 00:47:48 from the transcript front matter.
-- **Name matching**: the host repeatedly says "Pete Buttigieg" (21:34) when she means Pete Hegseth; all are mapped to N-599. "Larry Loomer" is the host's running nickname for Laura Loomer (N-60). "Andrew Kolb", "Andrew Kovacs" and "Kovacs" are mapped to N-14 Andrew Kolvet. "Brad Hansell" is mapped to N-439 Bradley Hansell. "Prime Minister Rama" is assumed to be Edi Rama (N-672); the transcript gives only the surname. "Admiral Cooper, the commander of CENTCOM" (N-678) is likely Adm. Brad Cooper, but only the surname airs. "Brian knows that" in the Trump Fox and Friends clip is probably Brian Kilmeade, but he is not linked because only the first name airs. "Erika Frantz Paye" in a viewer comment is a variant of Erika Frantzve (N-2). "Nathaniel" and "Nathan Rothschild" are taken as Nat Rothschild (N-671).
+- **Name matching**: the host repeatedly says "Pete Buttigieg" (21:34) when she means Pete Hegseth; all are mapped to N-599. "Larry Loomer" is the host's running nickname for Laura Loomer (N-60). "Andrew Kolvet", "Andrew Kovacs" and "Kovacs" are mapped to N-14 Andrew Kolvet. "Brad Hansell" is mapped to N-439 Bradley Hansell. "Prime Minister Rama" is assumed to be Edi Rama (N-672); the transcript gives only the surname. "Admiral Cooper, the commander of CENTCOM" (N-678) is likely Adm. Brad Cooper, but only the surname airs. "Brian knows that" in the Trump Fox and Friends clip is probably Brian Kilmeade, but he is not linked because only the first name airs. "Erika Frantz Paye" in a viewer comment is a variant of Erika Frantzve (N-2). "Nathaniel" and "Nathan Rothschild" are taken as Nat Rothschild (N-671).
 - **Transcription ambiguities**: "Cezanne" (13:42) is Sazan; "Karg Island" is Kharg; "trolling at WLS" refers to YWLS; "Sam 702" is linked to N-10671 (SAM702). "in 1950 1959" is a self-correction, and 1959 is used.
 - **Possible host errors kept as spoken**: the host says "the Roman name for Pluto is Hades" (Hades is the Greek name); she calls Enver Hoxha "prime minister" (he was also First Secretary); she gives Iran's population as "150 million". C-4481 places the hotel sighting "on the base" on "the 8th"; prior claim C-1973 names the Candlewood Inn & Suites, so the two are consistent.
 - **Speaker ambiguity**: in A-2642.1 the transcript does not separate Kolvet's lines from Neff's; C-4465, C-4466 and C-4468 mention both.

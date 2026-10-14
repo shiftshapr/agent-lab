@@ -47,7 +47,7 @@
 
 ## II. Executive Summary
 
-This episode advances the Bride of Charlie series along three evidentiary tracks. First, host presents the Brian Harpole / Sean Ryan interview in which Harpole claims to have personally cut Charlie Kirk's "freedom shirt" off at the hospital; host contends this account is implausible and argues the shirt – a likely explosive-residue carrier – has been disposed of rather than preserved. Second, host walks through three successive media interviews given by front-row witness Sarah Tool, in which her account of the wound location shifts from "directly in the heart" to "in the neck," and her estimate of shooter distance grows in precision (Fox 13 → local media → ABC News), anchoring a contradiction node. Third, host reports that Judge Graff has denied the defense motion to compel Lance Twiggs's in-person testimony at the preliminary hearing, with Twiggs's recorded statement to be admitted instead, and frames this as hearsay-elimination failure.
+This episode advances the Bride of Charlie series along three evidentiary tracks. First, host presents the Brian Harpole / Shawn Ryan interview in which Harpole claims to have personally cut Charlie Kirk's "freedom shirt" off at the hospital; host contends this account is implausible and argues the shirt – a likely explosive-residue carrier – has been disposed of rather than preserved. Second, host walks through three successive media interviews given by front-row witness Sarah Tool, in which her account of the wound location shifts from "directly in the heart" to "in the neck," and her estimate of shooter distance grows in precision (Fox 13 → local media → ABC News), anchoring a contradiction node. Third, host reports that Judge Graff has denied the defense motion to compel Lance Twiggs's in-person testimony at the preliminary hearing, with Twiggs's recorded statement to be admitted instead, and frames this as hearsay-elimination failure.
 
 The episode also re-runs the Next Model Management / Erika Frantzve apartment-management thread with reference to a newly reported (but not on-camera) second witness, presents a viewer email and enhanced shard images supporting the exploding-microphone hypothesis, and includes a Tim Dillon parody reading of a JD Vance book excerpt. A signature-comparison visual is presented as evidence that Erika Kirk's signature has fundamentally changed since her Miss Arizona years, which the host interprets as symptomology consistent with dissociative identity disorder (interpretive, not inscribed as artifact-backed claim).
 
@@ -55,7 +55,7 @@ The episode also re-runs the Next Model Management / Erika Frantzve apartment-ma
 
 ## III. Artifact Register
 
-**A-2085** Sean Ryan Show Interview Clip Bundle
+**A-2085** Shawn Ryan Show Interview Clip Bundle
 
 **A-2085.1** Brian Harpole segment describing cutting Charlie Kirk's shirt off at the hospital
 
@@ -318,7 +318,7 @@ Confidence Level: High
 ## IV. Node Register
 
 
-**N-10681** Sean Ryan Show Interview Clip Bundle
+**N-10681** Shawn Ryan Show Interview Clip Bundle
 
 Node Type: topic
 
@@ -458,7 +458,7 @@ Subject of the host's claims about Next Model Management and trafficking via mod
 
 **N-14** Andrew Kolvet
 
-TPUSA spokesperson (rendered "Andrew Kolb" in the transcript); the host links him to the Project Constitution reply and the "Superman neck" tweet.
+TPUSA spokesperson (rendered "Andrew Kolvet" in the transcript); the host links him to the Project Constitution reply and the "Superman neck" tweet.
 
 *Related: C-5821, C-5850*
 
@@ -514,7 +514,7 @@ The host says he found surgical scrubs for Frank Turek at the hospital.
 
 **N-228** Shawn Ryan
 
-Podcast host (rendered "Shawn Ryan" and "Sean Ryan"); interviewed Brian Harpole.
+Podcast host (rendered "Shawn Ryan" and "Shawn Ryan"); interviewed Brian Harpole.
 
 *Related: C-5784*
 
@@ -530,7 +530,7 @@ TPUSA-linked camera operator (rendered "Teryl Farnsworth" in the transcript); th
 
 **N-270** Brian Harpole
 
-Security figure whose Sean Ryan interview account of the hospital the host disputes.
+Security figure whose Shawn Ryan interview account of the hospital the host disputes.
 
 *Related: C-5784, C-5785, C-5786, C-5788, C-5790, C-5791*
 
@@ -922,14 +922,14 @@ Persistent target: the host's comparison of Erika Kirk's January conference-call
 
 Claim Timestamp: 00:05:20
 
-Claim: Brian Harpole states in the Sean Ryan interview that he personally cut Charlie Kirk's white "freedom shirt" off at the hospital.
+Claim: Brian Harpole states in the Shawn Ryan interview that he personally cut Charlie Kirk's white "freedom shirt" off at the hospital.
 
 Anchored Artifacts: A-2085.1
 Mentions: N-270, N-1
 
 Related Nodes: N-10676
 
-Investigative Direction: Obtain Sean Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.
+Investigative Direction: Obtain Shawn Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.
 
 ---
 
@@ -1094,7 +1094,7 @@ Transcript Snippet: someone pointed out to me that Baron Coleman had already fur
 Anchored Artifacts:
 Mentions: N-334, N-1
 Related Nodes: N-10707
-Investigative Direction: Locate Coleman's early posts or videos on the shirt and compare them with Harpole's later Sean Ryan account.
+Investigative Direction: Locate Coleman's early posts or videos on the shirt and compare them with Harpole's later Shawn Ryan account.
 
 ---
 
@@ -1156,7 +1156,7 @@ Transcript Snippet: according to Brian Harpole, who joined Shawn Ryan for a car 
 Anchored Artifacts: A-2085.1
 Mentions: N-270, N-228, N-3
 Related Nodes: N-10651
-Investigative Direction: Obtain the complaint and identify which statements about the Sean Ryan interview are at issue.
+Investigative Direction: Obtain the complaint and identify which statements about the Shawn Ryan interview are at issue.
 
 ---
 
@@ -1164,7 +1164,7 @@ Investigative Direction: Obtain the complaint and identify which statements abou
 
 Claim Timestamp: 00:05:20
 
-Claim: In the Sean Ryan clip, Harpole says he put Charlie on a gurney, wheeled him into a room, began giving patient information to the staff, and cut the shirt off so they could put a defibrillator on him.
+Claim: In the Shawn Ryan clip, Harpole says he put Charlie on a gurney, wheeled him into a room, began giving patient information to the staff, and cut the shirt off so they could put a defibrillator on him.
 
 Transcript Snippet: We put him on a gurney, and then I wheel him into a room. I start uh giving um uh the patient information uh to the staff there.
 
@@ -1217,7 +1217,7 @@ Transcript Snippet: you told us that you didn't even do CPR. It was an 8-minute 
 Anchored Artifacts: A-2085.1
 Mentions: N-270
 Related Nodes: N-10687, N-10699
-Investigative Direction: Compare Harpole's earlier statements on CPR with the Sean Ryan transcript and Frank Turek's own account of the ride.
+Investigative Direction: Compare Harpole's earlier statements on CPR with the Shawn Ryan transcript and Frank Turek's own account of the ride.
 
 ---
 
@@ -2158,7 +2158,7 @@ Claim Timestamp: 00:56:42
 
 Claim: The host says Andrew Kolvet pressed send on a tweet about Charlie's "Superman neck" and that he eats good veggies.
 
-Transcript Snippet: was having Andrew Kolb press send on the Superman neck he eats good veggies tweet.
+Transcript Snippet: was having Andrew Kolvet press send on the Superman neck he eats good veggies tweet.
 
 Anchored Artifacts:
 Mentions: N-14
@@ -2366,7 +2366,7 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty**: Transcript renders the signature as "Erica Lane" at A-2091.1 reference (39:46). This may be a transcription artifact, a nickname, or an alternative spelling. Host references it as "her new signature, Erica Lane, the one that's scratched out." Preserved verbatim.
-- **Name uncertainty**: Host uses both "Shawn Ryan" and "Sean Ryan" for the same podcast host. Preserved both spellings as appearing.
+- **Name uncertainty**: Host uses both "Shawn Ryan" and "Shawn Ryan" for the same podcast host. Preserved both spellings as appearing.
 - **Name uncertainty**: Host uses both "Frank Cheric" and "Frank Turik" in reference to the same individual traveling with Charlie. Preserved both as appearing.
 - **Artifact verbally referenced but not shown**: A-2092.1 (Judge Graff ruling) – host summarizes the ruling but the underlying court document is not displayed on screen.
 - **Witness not shown in episode**: Host reports that "another person has come forward and confirmed" Erika Frantzve's role as apartment contact at Next Model Management; this witness is not shown speaking on this episode. Not inscribed as artifact-backed claim.

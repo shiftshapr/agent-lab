@@ -302,7 +302,7 @@ Investigative Pressure: Low
 
 **N-131** Ian Carroll
 
-Internet investigator whose video work is cited by host regarding Frank Turk's reaction and whose viewer comment is read aloud (A-1269.1). Described as among those "not letting this go."
+Internet investigator whose video work is cited by host regarding Frank Turek's reaction and whose viewer comment is read aloud (A-1269.1). Described as among those "not letting this go."
 
 Evidence Count: 1
 Claim Count: 1
@@ -812,11 +812,11 @@ Investigative Direction: Obtain authoritative transcript of Kirk's on-stage rema
 
 ---
 
-**C-1481** Frank Turk's Reaction Described as Normal Post-Shot Behavior
+**C-1481** Frank Turek's Reaction Described as Normal Post-Shot Behavior
 
 Claim Timestamp: 00:56:09–00:57:03
 
-Claim: Host and Ian Carroll characterize Frank Turk as the only person at the event who reacted normally – dropping to ground and crawling toward Kirk to assist.
+Claim: Host and Ian Carroll characterize Frank Turek as the only person at the event who reacted normally – dropping to ground and crawling toward Kirk to assist.
 
 Anchored Artifacts: None (assertion; no specific footage cited in episode for Turk's actions)
 Mentions: N-7, N-131
@@ -869,11 +869,11 @@ Investigative Direction: Corroborate viewer characterization against any indepen
 
 ---
 
-**C-1485** Andrew Kovett Did Not Respond to Comment Request
+**C-1485** Andrew Kolvet Did Not Respond to Comment Request
 
 Claim Timestamp: 00:13:46–00:14:46
 
-Claim: Host states she contacted both Mikey McCoy and Andrew Kovett for statement/comment and received no response.
+Claim: Host states she contacted both Mikey McCoy and Andrew Kolvet for statement/comment and received no response.
 
 Anchored Artifacts: None (host assertion)
 Mentions: N-14
@@ -977,7 +977,7 @@ Confidence: high
 - **Host inference treated as candidate investigation – "Mikey was already on a phone call at 12:23 p.m." (C-1462 framing):** The 12:23 p.m. figure is introduced by host as her own inference based on footage; the timestamp itself should be authenticated against the original footage's metadata clock.
 - **Claim failed admission test – C-1474:** Six-year college tour assertion is host testimonial without documentary anchor; inscribed as claim but with no artifact and low confidence.
 - **Claim failed admission test – C-1480:** "Charlie Kirk's last words" framed sarcastically; no documentary record provided; should not be treated as factual claim.
-- **Claim failed admission test – C-1481:** Frank Turk characterization is assertion based on host/Ian Carroll recollection; no specific footage cited.
+- **Claim failed admission test – C-1481:** Frank Turek characterization is assertion based on host/Ian Carroll recollection; no specific footage cited.
 - **Requires human verification – Charlie Kirk text messages (A-1266 family):** Authentication of message metadata, device origin, and chain of custody has not been independently established in this episode. Host notes Mikey McCoy has access to all of Kirk's messages and could verify; this remains a host assertion.
 
 ---

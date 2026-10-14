@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-900
-  - Hole-minted Nodes (reintro-ep093): N-347, N-352
+  - Hole-minted Nodes (reintro-ep093): N-352
   - Tip-minted Nodes (reintro-ep093): N-656
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11436–C-11491
   - New Nodes Introduced: N-10616, N-10617, N-10618, N-10619, N-10622
-  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621, N-5, N-9, N-14, N-19, N-28, N-33, N-36, N-40, N-47, N-54, N-66, N-97, N-241, N-274, N-282, N-506, N-602, N-667, N-715, N-898, N-10000, N-10023, N-10070, N-10110, N-10237, N-10340, N-10443, N-10539, N-10574, N-10598, N-10600, N-10601, N-10602, N-10607, N-10608, N-10613, N-10646, N-10694, N-10956, N-11054, N-11128, N-11182
+  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621, N-5, N-9, N-14, N-19, N-28, N-33, N-36, N-40, N-47, N-54, N-66, N-97, N-241, N-274, N-282, N-506, N-602, N-667, N-715, N-898, N-10000, N-10023, N-10070, N-10110, N-10237, N-10340, N-10443, N-10539, N-10574, N-10598, N-10600, N-10601, N-10602, N-10607, N-10608, N-10613, N-10646, N-10694, N-10956, N-11054, N-11128, N-11182, N-347
   - (see registers)
 
 ## 2. Executive Summary
@@ -175,7 +175,7 @@ Confidence: high
 
 **A-1981** CBS News Article Bundle (UGA Rally)
 
-**A-1981.1** CBS News article by Barry Weiss: "Secret Service determines no credible threats to UGA rally after Erika Kirk's cancellation, the source says"
+**A-1981.1** CBS News article by Bari Weiss: "Secret Service determines no credible threats to UGA rally after Erika Kirk's cancellation, the source says"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

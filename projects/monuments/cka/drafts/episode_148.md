@@ -51,7 +51,7 @@ Confidence: high
   - New Nodes Introduced: none
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-162, N-333, N-10000, N-363, N-36, N-55, N-97, N-167, N-215, N-241, N-247, N-372, N-436, N-492, N-715, N-10011, N-10012, N-10024, N-10058, N-10061, N-10062, N-10169, N-10201, N-10342, N-10657, N-10662, N-10715, N-10805, N-10888, N-10900, N-10905, N-10914, N-10968, N-11061
   - Hole-minted Nodes (wave1): N-354
-- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-162 Blake Neff, N-27 Kanye West (Ye), N-10000 Turning Point USA (TPUSA), N-7 Frank Turek, N-14 Andrew Kolvet (aired as Andrew Kolb), N-333 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
+- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-162 Blake Neff, N-27 Kanye West (Ye), N-10000 Turning Point USA (TPUSA), N-7 Frank Turek, N-14 Andrew Kolvet (aired as Andrew Kolvet), N-333 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
 
 ---
 
@@ -414,7 +414,7 @@ Confidence Level: High
 
 *Related: N-7, N-14, N-333*
 
-**A-2350.3** Ali Comment on Andrew Kolb and Fireworks / Sparkling Pantsuit
+**A-2350.3** Ali Comment on Andrew Kolvet and Fireworks / Sparkling Pantsuit
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -613,7 +613,7 @@ Frank Turek; named by the host as the source of the description of the Israeli o
 
 **N-14** Andrew Kolvet
 
-Andrew Kolvet (aired as Andrew Kolb); TPUSA spokesperson the host says relayed the Netanyahu offer and who is quoted on the memorial fireworks.
+Andrew Kolvet (aired as Andrew Kolvet); TPUSA spokesperson the host says relayed the Netanyahu offer and who is quoted on the memorial fireworks.
 
 *Related: C-7710, C-7734, C-7766*
 
@@ -653,7 +653,7 @@ Rabbi Pesach Wolicki; the host places him on the Zoom call.
 
 **N-215** Jesse Watters
 
-Jesse Watters (aired as Jesse Waters); the host says Erika's op-ed repeats her interview remarks to him.
+Jesse Watters (aired as Jesse Watters); the host says Erika's op-ed repeats her interview remarks to him.
 
 *Related: C-7747, C-7749, C-7750*
 
@@ -1926,7 +1926,7 @@ Claim Timestamp: 00:45:56
 
 Claim: The host says Erika's op-ed line that she is not angry at God repeats what she already said in the Jesse Watters interview.
 
-Transcript Snippet: She wants you to know she's not angry at God. Yes, we got all of this from the Jesse Waters interview.
+Transcript Snippet: She wants you to know she's not angry at God. Yes, we got all of this from the Jesse Watters interview.
 
 Anchored Artifacts: A-2348.1
 Mentions: N-2, N-215
@@ -2387,7 +2387,7 @@ Investigative Direction: Identify what offers are meant and any evidence of thei
 - **Name uncertainty (Erika Kirk vs. Erica Kirk):** The transcript consistently spells "Erika Kirk." Prior ledger entry may use "Erica Kirk" – preserved here exactly as the transcript presents it. Cross-episode ledger IDs are presumed stable.
 - **Possible transcription error (Frank Turek / Frank Turak):** The host says "as Frank Turak termed them" when referring to Israeli officials. The likely correct name is Frank Turek. Flagged for human verification.
 - **Name uncertainty ("Salem Media Waterstone" / "Waterstone"):** The viewer's comment reads "Salem Media Waterstone." The host interprets this as Water<|>stone (or a similarly named entity) acquiring Salem Media. Entity identification requires verification.
-- **Entity ambiguity (Andrew Kolb vs. Andrew Cooper):** These are treated as distinct persons in the transcript – Andrew Kolb is referenced via viewer comment regarding funeral fireworks, while Andrew Cooper is named by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office. Flagged for confirmation against prior ledger entries.
+- **Entity ambiguity (Andrew Kolvet vs. Andrew Cooper):** These are treated as distinct persons in the transcript – Andrew Kolvet is referenced via viewer comment regarding funeral fireworks, while Andrew Cooper is named by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office. Flagged for confirmation against prior ledger entries.
 - **Artifact verbally referenced but not visually shown (A-2341.1, A-2341.2, A-2341.3):** The host explicitly states she is "borrowing this footage of people on Instagram" and did not record any video herself. The clips are played but original source URLs are not provided in the transcript.
 - **Transcript ambiguity (A-2347.1 quote):** The host's read of the Deseret News article includes the phrase "Neff read a I guess it's supposed to be like a profile piece. Neff from members sitting in the waiting room..." – this transcription is garbled and the precise structure of Neff's quoted statement ("read from members" vs. "recounted to members") should be verified against the original article.
 - **Claim failed admission test – "Ye had not been back on stage in his hometown in over 6 years":** Host assertion without artifact support; not inscribed.

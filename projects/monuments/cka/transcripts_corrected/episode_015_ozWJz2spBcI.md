@@ -67,7 +67,7 @@ Catholics were hoping that he'd take the next step because he was praying the ro
 
 [08:42]
 
-He was not attending Pastor Rob McCoy's church. As I mentioned before, uh yes, he was praying the rosary. Charlie, in fact, was wearing the Saint Michael pendant when he died, okay? As has already been publicized, Erika took a Catholic bishop with her to pray over his body on the day that he died. These are all indisputable facts and it is also a fact, which was presented by Megan Kelly, uh that a few weeks before his death, Erika had a priest come over to pray over them when some witches thought it would be funny, whatever, uh to put a hex on him. Okay? That's a lot of things that were happening behind the scenes and the people at Turning Point USA knew those things to be true, okay? They knew everything that I just shared with you.
+He was not attending Pastor Rob McCoy's church. As I mentioned before, uh yes, he was praying the rosary. Charlie, in fact, was wearing the Saint Michael pendant when he died, okay? As has already been publicized, Erika took a Catholic bishop with her to pray over his body on the day that he died. These are all indisputable facts and it is also a fact, which was presented by Megyn Kelly, uh that a few weeks before his death, Erika had a priest come over to pray over them when some witches thought it would be funny, whatever, uh to put a hex on him. Okay? That's a lot of things that were happening behind the scenes and the people at Turning Point USA knew those things to be true, okay? They knew everything that I just shared with you.
 
 [09:29]
 

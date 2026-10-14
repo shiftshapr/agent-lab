@@ -1389,7 +1389,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10681",
       "ref": "N-10681",
-      "name": "Sean Ryan Show Interview Clip Bundle",
+      "name": "Shawn Ryan Show Interview Clip Bundle",
       "type": "investigation_target",
       "description": "Existing topic reused.",
       "related_artifacts": [],
@@ -3449,7 +3449,7 @@
       ],
       "claim_timestamp": "01:00:53",
       "investigative_direction": "Review Kelly's recent shows for which influencers she hosted and what they said about the footage.",
-      "transcript_snippet": "I did see people pinging me about Megan Kelly and saying she's hosting these people.",
+      "transcript_snippet": "I did see people pinging me about Megyn Kelly and saying she's hosting these people.",
       "mentions_person_refs": [
         "N-46",
         "N-3"

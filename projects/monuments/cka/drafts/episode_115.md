@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq115
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep115): N-10704, N-10705, N-10732
+  - Hole-minted Nodes (reintro-ep115): N-10704, N-10732
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-683, N-684, N-685, N-687, N-10971, N-10972, N-10973, N-10974, N-10976, N-10977, N-10978, N-10979, N-10980, N-10981, N-10982, N-10983
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-17, N-22, N-30, N-36, N-37, N-40, N-69, N-97, N-105, N-106, N-162, N-194, N-272, N-274, N-384, N-632, N-673, N-10000, N-10014, N-10015, N-10026, N-10027, N-10075, N-10202, N-10482, N-10495, N-10505, N-10588, N-10700, N-10724, N-10768, N-10888, N-10923, N-10694, N-686, N-10975
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-17, N-22, N-30, N-36, N-37, N-40, N-69, N-97, N-105, N-106, N-162, N-194, N-272, N-274, N-384, N-632, N-673, N-10000, N-10014, N-10015, N-10026, N-10027, N-10075, N-10202, N-10482, N-10495, N-10505, N-10588, N-10700, N-10724, N-10768, N-10888, N-10923, N-10694, N-686, N-10975, N-10705
   - Claim Range: C-4541–C-4591
   - (see registers)
 
@@ -246,7 +246,7 @@ Target of the Butler assassination attempt; the host says he received a golden p
 
 **N-14** Andrew Kolvet
 
-Transcript spelling "Andrew Kovette". The host says he implied the "emotional asset" email was made up.
+Transcript spelling "Andrew Kolvet". The host says he implied the "emotional asset" email was made up.
 
 *Related: C-4578*
 
@@ -276,7 +276,7 @@ Transcript spellings "BB Netanyahu" and "BB Netany and Yahoo". Gave Trump a gold
 
 **N-37** Bill Ackman
 
-Transcript spelling "Bill Aman". The host says Erika Kirk sat across from him at the Hamptons dinner.
+Transcript spelling "Bill Ackman". The host says Erika Kirk sat across from him at the Hamptons dinner.
 
 *Related: C-4585*
 
@@ -312,7 +312,7 @@ Transcript spellings "Corey Comparator" and "Cory Comparator". Described as Mark
 
 **N-162** Blake Neff
 
-Transcript spellings "Blake Nef" and "Blick Nef". Posted on X mocking the host's FOIA request.
+Transcript spellings "Blake Neff" and "Blick Nef". Posted on X mocking the host's FOIA request.
 
 *Related: C-4577, A-2663.1*
 
@@ -1160,7 +1160,7 @@ Claim Timestamp: 00:30:50
 
 Claim: The host says Andrew Kolvet implied her team made up the email calling Erika Kirk an "emotional asset," and that they filed and followed up on a FOIA request about it.
 
-Transcript Snippet: despite uh Andrew Kovette lying and trying uh to uh I guess allude to the idea that we made up the email where Erika was called an emotional asset. We filed an FOIA request.
+Transcript Snippet: despite uh Andrew Kolvet lying and trying uh to uh I guess allude to the idea that we made up the email where Erika was called an emotional asset. We filed an FOIA request.
 
 Anchored Artifacts: A-2666.1
 Mentions: N-14, N-2, N-3
@@ -1264,7 +1264,7 @@ Claim Timestamp: 00:41:09
 
 Claim: The host says that after the dinner with Tucker Carlson, Erika Kirk went with Charlie to the Hamptons and sat across from Bill Ackman at a dinner when Benjamin Netanyahu called.
 
-Transcript Snippet: She goes with him to the Hamptons and sits across uh from Bill Aman at a dinner when BB Netany and Yahoo is called.
+Transcript Snippet: She goes with him to the Hamptons and sits across uh from Bill Ackman at a dinner when BB Netany and Yahoo is called.
 
 Anchored Artifacts:
 Mentions: N-2, N-37, N-36, N-1
@@ -1526,7 +1526,7 @@ Confidence: high
 
 Video Timestamp: 00:41:09
 Speaker: N-3
-Quote: sits across uh from Bill Aman at a dinner when BB Netany and Yahoo is called.
+Quote: sits across uh from Bill Ackman at a dinner when BB Netany and Yahoo is called.
 Context: Host recounts the Hamptons dinner.
 Tags: netanyahu, wordplay, reuse
 Confidence: high
@@ -1611,7 +1611,7 @@ Confidence: medium
 
 - **Artifacts verbally referenced but not shown**: A-2666.1 (the Department of War / White House "emotional asset" email). A-2662.1 (FBI plane flight) is described in detail, but the transcript does not show whether flight data was on screen.
 - **DIA scan**: the only hit is "candace Owens. com" (51:13), a merch plug, so it is not a DIA beat. There are no tip requests or bounties; M-12 is not used.
-- **Name matching**: The skeleton's "Mark Liti" (transcript "Mark A. Leiti", "Mark Ley", "Mark Le", "Mark A. Ley", "Mark a lady") is minted as N-683. His brother is minted as N-684 under the transcript spelling "Chris Liti"; the surname may also be Liti. "Courtney Thief" (N-685, described as a former ATF agent) comes from a garbled sentence, so both the name and the role are uncertain. "Corey/Cory Comparator" is mapped to N-106 Corey Comperatore. "Cameron Haynes" is minted as N-687 Cameron Hanes. "James Kaddis" (N-673) and "Vladimir Putin" (N-632) reuse titles from staging episodes 112 and 105/111. "Blick Nef" is mapped to N-162, "Andrew Kovette" to N-14, "Dan Bonino" to N-384, "Bill Aman" to N-37 and "Rob McCoyy" to N-17. "The Crooks family" is linked to N-105 only as the family name.
+- **Name matching**: The skeleton's "Mark Liti" (transcript "Mark A. Leiti", "Mark Ley", "Mark Le", "Mark A. Ley", "Mark a lady") is minted as N-683. His brother is minted as N-684 under the transcript spelling "Chris Liti"; the surname may also be Liti. "Courtney Thief" (N-685, described as a former ATF agent) comes from a garbled sentence, so both the name and the role are uncertain. "Corey/Cory Comparator" is mapped to N-106 Corey Comperatore. "Cameron Haynes" is minted as N-687 Cameron Hanes. "James Kaddis" (N-673) and "Vladimir Putin" (N-632) reuse titles from staging episodes 112 and 105/111. "Blick Nef" is mapped to N-162, "Andrew Kolvet" to N-14, "Dan Bonino" to N-384, "Bill Ackman" to N-37 and "Rob McCoyy" to N-17. "The Crooks family" is linked to N-105 only as the family name.
 - **Meme title spellings**: The merch meme appears in staging as "Stop Anti-Candism" (112), "Stop Anti-Candaceism" (111) and "Anti-Candacism" (113). This episode uses the 112 spelling. "Punt the Chihuahua" (M-115) also aired in episodes 111 and 116 but has not been minted in staging before, so the integrator may need to merge it.
 - **Transcription ambiguities**: "PE TN", "PN", "PET and" and "PE10" all refer to PETN. "Ken Kiddening" and "Kittening" refer to Kittanning. "MSAD" is the transcript's spelling of Mossad. "306" is .30-06. "Sar Jafal" and "Hussein Teny" are survivors named in the pager clip; no nodes were made for them. X user "Crystal Smalland" is credited with finding the Charlie Kirk video and is treated as a handle, not a node.
 - **Garbled passage**: around 11:53–12:21 the transcript reads "Just 2. Months after the Butler shooting, um Cory Comparator loses his life" before turning to the pager attack "on September 17th. And on September 18th of 2024"; the sentence seems to have lost words and was not inscribed.

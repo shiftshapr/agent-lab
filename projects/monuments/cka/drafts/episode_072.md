@@ -1660,7 +1660,7 @@ Claim Timestamp: 00:14:42
 
 Claim: The host lists, among oddities, that Erika Kirk asserted to Bari Weiss that Jew hatred is wrong.
 
-Transcript Snippet: Erika asserting to Barry Weiss of all people that Jew hatred is wrong
+Transcript Snippet: Erika asserting to Bari Weiss of all people that Jew hatred is wrong
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-282
@@ -2313,7 +2313,7 @@ Claim Timestamp: 00:37:55
 
 Claim: The host says she tweeted at Andrew Kolvet for a statement about the man photographing the Lich home.
 
-Transcript Snippet: I certainly tweeted at Andrew Kolb for a statement on this.
+Transcript Snippet: I certainly tweeted at Andrew Kolvet for a statement on this.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-557

@@ -536,7 +536,7 @@ Named in the host's aside about a possible relation to Robert Graf.
 
 **N-14** Andrew Kolvet
 
-Subject of the host's rebuttal; poster of the Daily Mail allegation. Transcript spellings include Andrew Kolb, Klavan and Colberg.
+Subject of the host's rebuttal; poster of the Daily Mail allegation. Transcript spellings include Andrew Kolvet, Klavan and Colberg.
 
 *Related: C-5920, C-5959, C-5972, C-5977, C-5980, C-5982, C-5985, C-5986, C-5990, C-5991, C-5993, C-6005, A-2789.2*
 
@@ -1581,7 +1581,7 @@ Claim Timestamp: 00:24:10
 
 Claim: The host says the Andrew Charlie Kirk refers to in the clip is not Andrew Kolvet but the person who picks which stops he goes on.
 
-Transcript Snippet: he's not referring to Andrew Kolbe, he's referring to the person that picks what stops he goes on to.
+Transcript Snippet: he's not referring to Andrew Kolvet, he's referring to the person that picks what stops he goes on to.
 
 Anchored Artifacts: A-2787.1
 Mentions: N-14, N-1
@@ -1782,7 +1782,7 @@ Claim Timestamp: 00:28:19
 
 Claim: The host says Ben Shapiro and Blake Neff both admitted that Shapiro and Charlie Kirk were not friends, though Kolvet had tried to tell the public they were, and that she held back more text messages as a result.
 
-Transcript Snippet: Not even Ben Shapiro himself or Blake Neff could stomach the lie that Andrew Kolb tried to spin that Ben and Charlie were friends.
+Transcript Snippet: Not even Ben Shapiro himself or Blake Neff could stomach the lie that Andrew Kolvet tried to spin that Ben and Charlie were friends.
 
 Anchored Artifacts: 
 Mentions: N-97, N-162, N-14, N-1, N-3
@@ -1797,7 +1797,7 @@ Claim Timestamp: 00:28:19
 
 Claim: The host says Erika Kirk went on a Shabbat Shalom book tour immediately and sat down with Bari Weiss in New York Times and her and Charlie's home.
 
-Transcript Snippet: Erika then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Barry Weiss in New York Times and her and Charlie's home
+Transcript Snippet: Erika then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss in New York Times and her and Charlie's home
 
 Anchored Artifacts: 
 Mentions: N-2, N-282

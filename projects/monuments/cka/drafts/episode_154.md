@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: a4b004904bed5ceab067f894a05093601d086cf7f62b1dfdc6ccb961cbb2d709
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-11312, N-11313, N-11314
+  - Tip-minted Nodes (supplement_2026-10e): N-11313, N-11314
   - Hole-minted Nodes (reintro-ep154): N-10872, N-10873
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11804–C-11858
   - New Nodes Introduced: N-10841, N-10842, N-10843, N-10844, N-10845, N-10846
-  - Reused Nodes Appearing: N-2, N-14, N-22, N-162, N-25, N-10840, N-18, N-69, N-275, N-334, N-595, N-599, N-739, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246
+  - Reused Nodes Appearing: N-2, N-14, N-22, N-162, N-25, N-10840, N-18, N-69, N-275, N-334, N-595, N-599, N-739, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246, N-11312
 
 ---
 
@@ -36,7 +36,7 @@
 - **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404
 - **Claim Range:** C-3494–C-3512
 - **New Nodes Introduced:** N-10840, N-10841, N-10842, N-10843, N-10844, N-10845, N-10846
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-14 (Andrew Kolvet (variant spellings: Kovette/Kovat/Kovatte)), N-22 (Tucker Carlson), N-162 (Blake Neff (variant: Nef) – actual ledger IDs to be verified against global ledger)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-14 (Andrew Kolvet (variant spellings: Kolvet/Kovat/Kovatte)), N-22 (Tucker Carlson), N-162 (Blake Neff (variant: Nef) – actual ledger IDs to be verified against global ledger)
 
 ---
 
@@ -1409,7 +1409,7 @@ Claim Timestamp: 00:14:00
 
 Claim: The host says that in 2025 Kolvet repeated the narrative that Charlie feared Candace, which in 2019 he had told her and Charlie came from groyper blogs.
 
-Transcript Snippet: Fast forward to 2025 and Andrew Kovette is going to repeat this narrative
+Transcript Snippet: Fast forward to 2025 and Andrew Kolvet is going to repeat this narrative
 
 Anchored Artifacts: A-2394.1
 Mentions: N-14, N-1, N-3
@@ -1539,7 +1539,7 @@ Claim Timestamp: 00:35:33
 
 Claim: The host says, citing people with direct knowledge, that Andrew Kolvet should not have been doing public relations for Erika Kirk in August 2025 outside her involvement with TPUSA Faith.
 
-Transcript Snippet: Andrew Kovat should not have been doing public public relations for Erika Kirk in August of 2025.
+Transcript Snippet: Andrew Kolvet should not have been doing public public relations for Erika Kirk in August of 2025.
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
@@ -1652,7 +1652,7 @@ Claim Timestamp: 00:45:02
 
 Claim: The host says Tucker Carlson is the only reason Blake Neff got the job with Charlie Kirk, having made a phone call to help him after Neff had been floating around for years.
 
-Transcript Snippet: Tucker Carlson had a heart and makes a phone call to help Blake Nef get this job
+Transcript Snippet: Tucker Carlson had a heart and makes a phone call to help Blake Neff get this job
 
 Anchored Artifacts: 
 Mentions: N-22, N-162, N-1, N-3
@@ -1716,7 +1716,7 @@ Claim Timestamp: 00:47:43
 
 Claim: In the aired Tucker Carlson clip, Carlson says the "maximalist position on free speech" is the framing of Politico's author Ian Ward and not a Blake Neff quote.
 
-Transcript Snippet: that's not a Blake Nef quote.
+Transcript Snippet: that's not a Blake Neff quote.
 
 Anchored Artifacts: A-2400.2, A-2401.1
 Mentions: N-22, N-162
@@ -1956,7 +1956,7 @@ Investigative Direction: Compare Kolvet's 2019 groyper explanation with his 2025
 
 # XI. OPTIONAL FLAGS
 
-- **Name uncertainty (Kolvet):** Andrew appears in transcript under multiple spellings – "Kovette," "Kovat," "Kovatte," "Kolvet" (chapter heading). Primary spelling "Kolvet" used in this record. Actual ledger ID to be verified.
+- **Name uncertainty (Kolvet):** Andrew appears in transcript under multiple spellings – "Kolvet," "Kovat," "Kovatte," "Kolvet" (chapter heading). Primary spelling "Kolvet" used in this record. Actual ledger ID to be verified.
 - **Name uncertainty (Erica/Erika):** Mixed spelling throughout transcript – title uses "Erika," body uses both. "Erica" used to align with established ledger convention; flagged for verification.
 - **Name uncertainty (Neff/Nef):** Mixed spelling in transcript. "Neff" used as primary.
 - **Artifact verbally referenced but not shown:** Empress Films Instagram employee-shirt image ("slay the patriarchy") is described but not clearly displayed; Empress Films production catalog is verbally summarized rather than shown title-by-title.

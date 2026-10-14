@@ -1234,7 +1234,7 @@
       "@type": "Person",
       "@id": "N-118",
       "ref": "N-118",
-      "name": "Marissa Strait",
+      "name": "Marissa Streit",
       "type": "person",
       "description": "PragerU CEO the host says she stayed close to after leaving PragerU.",
       "related_artifacts": [],
@@ -1323,7 +1323,7 @@
       "ref": "N-371",
       "name": "Jeremy Boreing",
       "type": "person",
-      "description": "Daily Wire co-founder (transcribed Jeremy Boring); stepped down as co-CEO per Gupta's post, and the host blames him for the debt.",
+      "description": "Daily Wire co-founder (transcribed Jeremy Boreing); stepped down as co-CEO per Gupta's post, and the host blames him for the debt.",
       "related_artifacts": [],
       "related_claims": [
         "C-11503",
@@ -1758,7 +1758,7 @@
       "ref": "N-901",
       "name": "Bryan Freedman",
       "type": "person",
-      "description": "First named by the host at 00:55:14 in episode 98 (transcribed Brian Friedman). Lawyer the host congratulates for the Baldoni result.",
+      "description": "First named by the host at 00:55:14 in episode 98 (transcribed Bryan Freedman). Lawyer the host congratulates for the Baldoni result.",
       "related_artifacts": [],
       "related_claims": [
         "C-11555"
@@ -2453,8 +2453,8 @@
       "@type": "Claim",
       "@id": "C-11503",
       "ref": "C-11503",
-      "label": "Gupta post says Jeremy Boring stepped down as co-CEO in early 2025",
-      "claim": "In the Akash Gupta post the host reads, co-founder Jeremy Boring stepped down as co-CEO in early 2025 and launched a solo podcast outside the company, and Bentkey was shuttered that year with its whole team cut.",
+      "label": "Gupta post says Jeremy Boreing stepped down as co-CEO in early 2025",
+      "claim": "In the Akash Gupta post the host reads, co-founder Jeremy Boreing stepped down as co-CEO in early 2025 and launched a solo podcast outside the company, and Bentkey was shuttered that year with its whole team cut.",
       "anchored_artifacts": [
         "A-2031.1"
       ],
@@ -2466,7 +2466,7 @@
       ],
       "claim_timestamp": "00:11:30",
       "investigative_direction": "Verify the date of Boreing's change of role and the Bentkey shutdown from company announcements.",
-      "transcript_snippet": "Early 2025, co-founder Jeremy Boring stepped down as co-CEO and launched a solo podcast outside of the company that he co-founded.",
+      "transcript_snippet": "Early 2025, co-founder Jeremy Boreing stepped down as co-CEO and launched a solo podcast outside of the company that he co-founded.",
       "mentions_person_refs": [
         "N-371"
       ]
@@ -3412,8 +3412,8 @@
       "@type": "Claim",
       "@id": "C-11547",
       "ref": "C-11547",
-      "label": "Host says Daily Wire's last action against her was sent on Jeremy Boring's birthday",
-      "claim": "The host says the recent events were on her birthday and that the Daily Wire's earlier action against her was sent on Jeremy Boring's birthday, which she calls Daily Wire coded.",
+      "label": "Host says Daily Wire's last action against her was sent on Jeremy Boreing's birthday",
+      "claim": "The host says the recent events were on her birthday and that the Daily Wire's earlier action against her was sent on Jeremy Boreing's birthday, which she calls Daily Wire coded.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3421,7 +3421,7 @@
       ],
       "claim_timestamp": "00:48:19",
       "investigative_direction": "Compare dates of the earlier filing with Boreing's birthday.",
-      "transcript_snippet": "it was very Daily Wire coded cuz last time when they like sent it was like on Jeremy Boring's birthday.",
+      "transcript_snippet": "it was very Daily Wire coded cuz last time when they like sent it was like on Jeremy Boreing's birthday.",
       "mentions_person_refs": [
         "N-3",
         "N-371"
@@ -3432,7 +3432,7 @@
       "@id": "C-11548",
       "ref": "C-11548",
       "label": "Host says Boring's focus on himself and neglect of talent led the company into debt",
-      "claim": "The host says the reason the Daily Wire got into debt was Jeremy Boring, who she says stopped focusing on talent, thought he was the product and invested little in talent.",
+      "claim": "The host says the reason the Daily Wire got into debt was Jeremy Boreing, who she says stopped focusing on talent, thought he was the product and invested little in talent.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10900",
@@ -3583,8 +3583,8 @@
       "@type": "Claim",
       "@id": "C-11555",
       "ref": "C-11555",
-      "label": "Host congratulates Brian Friedman and PR professional Melissa Nathan",
-      "claim": "The host congratulates Brian Friedman (she was unsure of the lawyer's name, transcribed 'Friedman'; real name likely Bryan Freedman) and PR professional Melissa Nathan on the Baldoni side's result.",
+      "label": "Host congratulates Bryan Freedman and PR professional Melissa Nathan",
+      "claim": "The host congratulates Bryan Freedman (she was unsure of the lawyer's name, transcribed 'Friedman'; real name likely Bryan Freedman) and PR professional Melissa Nathan on the Baldoni side's result.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10661"
@@ -3594,7 +3594,7 @@
       ],
       "claim_timestamp": "00:55:14",
       "investigative_direction": "Docket entries listing counsel for Baldoni and Wayfarer.",
-      "transcript_snippet": "Brian Friedman, congratulations to you. Also to Melissa Nathan and the people that were the PR team",
+      "transcript_snippet": "Bryan Freedman, congratulations to you. Also to Melissa Nathan and the people that were the PR team",
       "mentions_person_refs": [
         "N-491",
         "N-901",

@@ -661,7 +661,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10681** Sean Ryan Show Interview Clip Bundle
+**N-10681** Shawn Ryan Show Interview Clip Bundle
 
 Existing topic reused for new claims in this episode.
 
@@ -1563,7 +1563,7 @@ Claim Timestamp: 00:32:32
 
 Claim: The host says Johnny Moore, Andrew Kolvet's old partner, was on NCRI's board when the Christ is King report was published and Charlie Kirk did not care.
 
-Transcript Snippet: Charlie didn't care that the NCRI had Johnny Moore on their board, Andrew Kolb's old partner Johnny Moore on the board of NCRI when the Crisis King report was published.
+Transcript Snippet: Charlie didn't care that the NCRI had Johnny Moore on their board, Andrew Kolvet's old partner Johnny Moore on the board of NCRI when the Crisis King report was published.
 
 Anchored Artifacts: 
 Mentions: N-443, N-14, N-1
@@ -1594,7 +1594,7 @@ Claim Timestamp: 00:32:32
 
 Claim: The host says Andrew Kolvet was pushing the NCRI Permission to Kill report.
 
-Transcript Snippet: I'm sure, even though Andrew Kolb was pushing this report, that he had no idea it was coming up.
+Transcript Snippet: I'm sure, even though Andrew Kolvet was pushing this report, that he had no idea it was coming up.
 
 Anchored Artifacts: A-2136.1
 Mentions: N-14
@@ -1608,14 +1608,14 @@ Investigative Direction: Kolvet's posts and broadcasts sharing the NCRI report, 
 
 Claim Timestamp: 00:33:25
 
-Claim: The host says many media groups reached out for comment on the NCRI report while she was away, including Politico, which asked about the report's point that her calling Erika Kirk a psychopath on the Sean Ryan show leads people to want to kill Erika.
+Claim: The host says many media groups reached out for comment on the NCRI report while she was away, including Politico, which asked about the report's point that her calling Erika Kirk a psychopath on the Shawn Ryan show leads people to want to kill Erika.
 
 Transcript Snippet: I got all of these emails, it wasn't just them, but tons of organizations while I was on I mean tons of media groups were reaching out asking me to comment on this.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10815, N-10681
-Investigative Direction: The press inquiries received by the host's team and the NCRI report passage on the Sean Ryan interview.
+Investigative Direction: The press inquiries received by the host's team and the NCRI report passage on the Shawn Ryan interview.
 
 ---
 
@@ -1681,7 +1681,7 @@ Claim Timestamp: 00:39:37
 
 Claim: The host says she has maintained since September or October that Andrew Kolvet called her and told her about the Netanyahu happenings, that Kolvet was her source, and that she has not changed her story.
 
-Transcript Snippet: I have maintained, I think since September, it might be October. I haven't changed my story once. That Andrew Kolb called me and he told me about the happenings.
+Transcript Snippet: I have maintained, I think since September, it might be October. I haven't changed my story once. That Andrew Kolvet called me and he told me about the happenings.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14
@@ -1712,7 +1712,7 @@ Claim Timestamp: 00:39:37
 
 Claim: The host says Andrew Kolvet told her that Benjamin Netanyahu offered to take Turning Point to the next level, which is different from Erika's explanation.
 
-Transcript Snippet: that's not what Andrew Kolb told me. He He me that BB offered to take Turning Point to the next level.
+Transcript Snippet: that's not what Andrew Kolvet told me. He He me that BB offered to take Turning Point to the next level.
 
 Anchored Artifacts: 
 Mentions: N-14, N-36, N-2
@@ -2025,7 +2025,7 @@ Confidence: high
 
 Video Timestamp: 00:39:37
 Speaker: N-3
-Quote: Andrew Kolb during his crash out
+Quote: Andrew Kolvet during his crash out
 Context: Host says Kolvet's tweet during his crash out conceded the Netanyahu call.
 Tags: crash out, Kolvet
 Confidence: high

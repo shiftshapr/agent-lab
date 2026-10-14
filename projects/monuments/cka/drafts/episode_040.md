@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 0fb4e3ded28d3185653763304cd5207553aba7096b0c1f6c7d7d26295daa5ee4
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-719, N-720, N-11013, N-11015
-  - Hole-minted Nodes (reintro-ep040): N-381, N-490, N-504, N-10387, N-10683
+  - Tip-minted Nodes (supplement_2026-10): N-719, N-720, N-11015
+  - Hole-minted Nodes (reintro-ep040): N-381, N-504, N-10387, N-10683
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5062–C-5146
   - New Nodes Introduced: N-306, N-307, N-308, N-10307, N-10308
-  - Reused Nodes Appearing: N-7, N-14, N-17, N-27, N-39, N-55, N-60, N-68, N-71, N-82, N-170, N-194, N-228, N-270, N-383, N-10000, N-10012, N-10064, N-10078, N-10087, N-10100, N-10132, N-10162, N-10198, N-10213, N-10232, N-10248, N-10253, N-10270, N-10290, N-10294, N-10316, N-10482, N-10862, N-721, N-10434, N-10465, N-10311, N-10451, N-10628, N-11014
+  - Reused Nodes Appearing: N-7, N-14, N-17, N-27, N-39, N-55, N-60, N-68, N-71, N-82, N-170, N-194, N-228, N-270, N-383, N-10000, N-10012, N-10064, N-10078, N-10087, N-10100, N-10132, N-10162, N-10198, N-10213, N-10232, N-10248, N-10253, N-10270, N-10290, N-10294, N-10316, N-10482, N-10862, N-721, N-10434, N-10465, N-10311, N-10451, N-10628, N-11014, N-490, N-11013
   - (see registers), N-11
 
 # Episode 40 – Ledger Summary
@@ -45,7 +45,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ## II. Executive Summary
 
-This episode is built around three artifact-anchored source bundles that the host reads, plays, or quotes in full. The primary artifact is Blake Nef's pre-recorded TPUSA video statement, which the host plays in full and responds to line-by-line. The statement enumerates allegations the host has previously made, denies financial impropriety, and culminates in a public invitation for the host to participate in an upcoming Phoenix livestream. The host formally accepts the invitation and proposes an immediate livestream with no conditions other than "no assassinations."
+This episode is built around three artifact-anchored source bundles that the host reads, plays, or quotes in full. The primary artifact is Blake Neff's pre-recorded TPUSA video statement, which the host plays in full and responds to line-by-line. The statement enumerates allegations the host has previously made, denies financial impropriety, and culminates in a public invitation for the host to participate in an upcoming Phoenix livestream. The host formally accepts the invitation and proposes an immediate livestream with no conditions other than "no assassinations."
 
 Two secondary artifact bundles carry the episode's remaining investigative and media-coverage material. A Pentagon press briefing clip shows newly-credentialed journalist Cam Higby asking Pentagon press secretary Kingsley Wilson whether the DoD has evidence of a French military plot to assassinate the host; Wilson responds that she is not aware of such evidence. An interview clip with rapper The Game discusses his upcoming mixtape track titled "The Assassination of Candace Owens," with The Game framing the title as metaphorical rather than literal. A Fortune article headline and quoted passage are also read aloud.
 
@@ -55,9 +55,9 @@ The episode's structural importance in the series is its function as a transitio
 
 ## III. Artifact Register
 
-**A-1489** Blake Nef Video Statement Bundle
+**A-1489** Blake Neff Video Statement Bundle
 
-**A-1489.1** Blake Nef pre-recorded TPUSA video statement, played in full on air
+**A-1489.1** Blake Neff pre-recorded TPUSA video statement, played in full on air
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -733,7 +733,7 @@ Persistent investigable target: the Pentagon's late-2025 press corps change, who
 
 Claim Timestamp: 00:28:38–00:29:32
 
-Claim: TPUSA, via Blake Nef's video statement, announced a planned Phoenix livestream and extended a public invitation to the host to participate.
+Claim: TPUSA, via Blake Neff's video statement, announced a planned Phoenix livestream and extended a public invitation to the host to participate.
 
 Anchored Artifacts: A-1489.1
 Mentions: N-162
@@ -898,9 +898,9 @@ Investigative Direction: Identify the public donor letters; the claim about leak
 
 Claim Timestamp: 00:02:31
 
-Claim: The host says Blake Nef is the producer and a rotating on-air talent of the Charlie Kirk Show, and that she expected TPUSA spokesperson Andrew Kolvet to deliver the response.
+Claim: The host says Blake Neff is the producer and a rotating on-air talent of the Charlie Kirk Show, and that she expected TPUSA spokesperson Andrew Kolvet to deliver the response.
 
-Transcript Snippet: Blake Nef, by the way, is the producer of the Charlie Kirk show.
+Transcript Snippet: Blake Neff, by the way, is the producer of the Charlie Kirk show.
 
 Anchored Artifacts: 
 Mentions: N-162, N-14, N-3
@@ -913,7 +913,7 @@ Investigative Direction: Check Blake Neff's and Andrew Kolvet's published TPUSA 
 
 Claim Timestamp: 00:03:12
 
-Claim: The host says Blake Nef has been defending the actions of Mikey McCoy on September 10, and that she senses he believes he is telling the truth.
+Claim: The host says Blake Neff has been defending the actions of Mikey McCoy on September 10, and that she senses he believes he is telling the truth.
 
 Transcript Snippet: He's been the only person that has been responding in a way that feels even remotely authentic when he defends the actions of Mikey McCoy on that day.
 
@@ -928,7 +928,7 @@ Investigative Direction: Collect Neff's prior public statements about McCoy's co
 
 Claim Timestamp: 00:04:35
 
-Claim: In the statement the host plays, Blake Nef says that Candace Owens suggested Michael is not Mikey McCoy's real name and that he has seen McCoy's birth certificate himself.
+Claim: In the statement the host plays, Blake Neff says that Candace Owens suggested Michael is not Mikey McCoy's real name and that he has seen McCoy's birth certificate himself.
 
 Transcript Snippet: She has suggested Michael is not his real name. It is I have seen his birth certificate myself.
 
@@ -942,7 +942,7 @@ Investigative Direction: Ask TPUSA whether the birth certificate can be shown; t
 
 Claim Timestamp: 00:04:35
 
-Claim: In the statement the host plays, Blake Nef says Mikey McCoy's wife works at TPUSA but does not work on campus events, and so did not plan the Utah event.
+Claim: In the statement the host plays, Blake Neff says Mikey McCoy's wife works at TPUSA but does not work on campus events, and so did not plan the Utah event.
 
 Transcript Snippet: She doesn't work on campus events.
 
@@ -1124,7 +1124,7 @@ Claim Timestamp: 00:09:19
 
 Claim: The host says Andrew Kolvet, sitting next to the TPUSA spokesperson, said the SD card was removed because people were stealing.
 
-Transcript Snippet: Andrew Kovette sat next to you and said it was because people were stealing.
+Transcript Snippet: Andrew Kolvet sat next to you and said it was because people were stealing.
 
 Anchored Artifacts: 
 Mentions: N-14
@@ -1198,9 +1198,9 @@ Investigative Direction: Unverified allegation from unnamed sources; seek indepe
 
 Claim Timestamp: 00:10:06
 
-Claim: In the statement the host plays, Blake Nef says Candace Owens suggested TPUSA Faith pastors including Frank Turek and Rob McCoy are part of a military infiltration of Turning Point.
+Claim: In the statement the host plays, Blake Neff says Candace Owens suggested TPUSA Faith pastors including Frank Turek and Rob McCoy are part of a military infiltration of Turning Point.
 
-Transcript Snippet: She has suggested that TPUSA faith affiliated pastors like theologian Frank Turk, who we'll have on in a moment, and pastor Rob McCoy, are part of a military quote infiltration of Turning Point
+Transcript Snippet: She has suggested that TPUSA faith affiliated pastors like theologian Frank Turek, who we'll have on in a moment, and pastor Rob McCoy, are part of a military quote infiltration of Turning Point
 
 Anchored Artifacts: A-1489.1
 Mentions: N-162, N-7, N-17, N-3
@@ -1286,7 +1286,7 @@ Investigative Direction: Retrieve the full original sentence and compare with TP
 
 Claim Timestamp: 00:13:27
 
-Claim: In the statement the host plays, Blake Nef says Charlie made sure TPUSA was audited by a third party every year.
+Claim: In the statement the host plays, Blake Neff says Charlie made sure TPUSA was audited by a third party every year.
 
 Transcript Snippet: Charlie made sure the organization was audited by a third party every year.
 
@@ -1348,7 +1348,7 @@ Investigative Direction: Test through the host's sources and the DOGE memo; seek
 
 Claim Timestamp: 00:16:50
 
-Claim: In the statement the host plays, Blake Nef lists allegations he says the host made, including French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, underground tunnels and suspicion of UVU soccer players in hoodies.
+Claim: In the statement the host plays, Blake Neff lists allegations he says the host made, including French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, underground tunnels and suspicion of UVU soccer players in hoodies.
 
 Transcript Snippet: Candace has made other stranger allegations involving French paratroopers in maroon shirts.
 
@@ -1438,7 +1438,7 @@ Investigative Direction: Follow later episodes for the unit identification and i
 
 Claim Timestamp: 00:18:52
 
-Claim: In the statement the host plays, Blake Nef says his friends have suffered more harassment from people stirred up by Candace Owens than from Antifa supporters who celebrate Charlie's murder.
+Claim: In the statement the host plays, Blake Neff says his friends have suffered more harassment from people stirred up by Candace Owens than from Antifa supporters who celebrate Charlie's murder.
 
 Transcript Snippet: we have suffered more harassment from these people than we have from Antifa supporters who overtly celebrate Charlie's murder.
 
@@ -1453,7 +1453,7 @@ Investigative Direction: Request examples and counts of the harassment TPUSA sta
 
 Claim Timestamp: 00:21:20
 
-Claim: In the statement the host plays, Blake Nef says that for months TPUSA received hundreds, perhaps thousands, of emails and calls asking it to respond.
+Claim: In the statement the host plays, Blake Neff says that for months TPUSA received hundreds, perhaps thousands, of emails and calls asking it to respond.
 
 Transcript Snippet: For months, we have received hundreds, thousands, I suspect, emails and calls asking us to respond.
 
@@ -1468,7 +1468,7 @@ Investigative Direction: Not independently verifiable; ask TPUSA for volume or e
 
 Claim Timestamp: 00:21:20
 
-Claim: In the statement the host plays, Blake Nef says TPUSA thought the host's allegations were so absurd that nobody would believe them and that it should not have to answer questions about secret tunnels or Egyptian Air Force planes.
+Claim: In the statement the host plays, Blake Neff says TPUSA thought the host's allegations were so absurd that nobody would believe them and that it should not have to answer questions about secret tunnels or Egyptian Air Force planes.
 
 Transcript Snippet: we shouldn't have to answer questions about secret tunnels or Egyptian Air Force planes.
 
@@ -1483,7 +1483,7 @@ Investigative Direction: Check whether TPUSA ever answered the Egyptian-plane qu
 
 Claim Timestamp: 00:21:20
 
-Claim: In the statement the host plays, Blake Nef says TPUSA also did not respond because Charlie always viewed Candace as a friend and TPUSA hoped she would return that friendship and stop.
+Claim: In the statement the host plays, Blake Neff says TPUSA also did not respond because Charlie always viewed Candace as a friend and TPUSA hoped she would return that friendship and stop.
 
 Transcript Snippet: Lastly, we didn't respond because Charlie always viewed Candace as a friend and we were holding out hope that she would return that friendship and stop what she was doing.
 
@@ -1497,7 +1497,7 @@ Investigative Direction: Compare with Charlie's own public remarks about Candace
 
 Claim Timestamp: 00:25:23
 
-Claim: In the statement the host plays, Blake Nef says the host is using falsehoods to enrich herself while dividing the conservative movement.
+Claim: In the statement the host plays, Blake Neff says the host is using falsehoods to enrich herself while dividing the conservative movement.
 
 Transcript Snippet: She's using these falsehoods to enrich herself while dividing the conservative movement at an absolutely critical time for this country.
 
@@ -1571,7 +1571,7 @@ Claim Timestamp: 00:26:31
 
 Claim: The host says Brigitte Macron was born a male and frames her investigation as exposing nations that collude to cover this up.
 
-Transcript Snippet: Sometimes it's Breijgit and why we are colluding uh with nations to cover the obvious fact that Breijgit was born a male.
+Transcript Snippet: Sometimes it's Brigitte and why we are colluding uh with nations to cover the obvious fact that Brigitte was born a male.
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
@@ -1584,7 +1584,7 @@ Investigative Direction: Review the public records and the Macron defamation fil
 
 Claim Timestamp: 00:27:33
 
-Claim: In the statement the host plays, Blake Nef says TPUSA's silence has never been, and will never be, equal to complacency or approval.
+Claim: In the statement the host plays, Blake Neff says TPUSA's silence has never been, and will never be, equal to complacency or approval.
 
 Transcript Snippet: Our silence has never been and it will never be equal to complacency or approval.
 
@@ -1885,7 +1885,7 @@ Claim Timestamp: 00:47:25
 
 Claim: The host says that in the Macron lawsuit she has paid over a quarter of a million dollars and has not yet had a day in court.
 
-Transcript Snippet: Thus far in the Breijit Mcronone lawsuit, we have paid over a quarter of a million dollars and we haven't even had our first day in court.
+Transcript Snippet: Thus far in the Brigitte Macron lawsuit, we have paid over a quarter of a million dollars and we haven't even had our first day in court.
 
 Anchored Artifacts: 
 Mentions: N-3, N-82, N-383
@@ -1900,7 +1900,7 @@ Claim Timestamp: 00:47:25
 
 Claim: The host says her team cannot find where Brigitte Macron was on the dates the Egyptian plane flew around America, citing a six-day gap.
 
-Transcript Snippet: we can't find the answer as to where Rajit Mcronone was on the dates of the Egyptian plane was flying around America just like a six-day gap in Braz
+Transcript Snippet: we can't find the answer as to where Rajit Macron was on the dates of the Egyptian plane was flying around America just like a six-day gap in Braz
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
@@ -1915,7 +1915,7 @@ Claim Timestamp: 00:47:25
 
 Claim: The host says a Trump-Macron phone call, recorded in Macron's released public calendar, took place an hour and a half before Charlie was assassinated.
 
-Transcript Snippet: an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emanuel Mcronone had a phone call that has been recorded in Emanuel Mcronone's public calendar which has been released.
+Transcript Snippet: an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar which has been released.
 
 Anchored Artifacts: A-1493.1
 Mentions: N-3, N-5, N-383, N-1
@@ -1931,7 +1931,7 @@ Claim Timestamp: 00:49:59
 
 Claim: The host says the call could be nothing and that there are many reasons, including Ukraine, why Macron and Trump could have had it, but wants a reporter to ask its nature.
 
-Transcript Snippet: we also know that there's been a lot of discussion about Ukraine, and there's a million reasons that Emanuel Mcronone and him could have had that poorly timed phone call.
+Transcript Snippet: we also know that there's been a lot of discussion about Ukraine, and there's a million reasons that Emmanuel Macron and him could have had that poorly timed phone call.
 
 Anchored Artifacts: A-1493.1
 Mentions: N-3, N-5, N-383
@@ -2333,6 +2333,6 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown (A-1493.1)**: Macron public calendar was referenced verbally by host but not directly displayed on air.
-- **Name uncertainty**: Host says "Andrew Kulvette" and later "Andrew Kovette" – preserve as heard; spelling not verified.
+- **Name uncertainty**: Host says "Andrew Kolvet" and later "Andrew Kolvet" – preserve as heard; spelling not verified.
 - **Transcript ambiguity**: Host transcript contains "Project Veraritoss" – likely "Project Veritas" but preserved as written.
 - **Requires human verification**: The Fortune article (A-1492.1) needs full-text retrieval beyond the headline and one quoted passage.

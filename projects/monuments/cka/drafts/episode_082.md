@@ -684,7 +684,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10701** Andrew Kolbenschlag EEOB Presence / Kash Patel Connection
+**N-10701** Andrew Kolvet EEOB Presence / Kash Patel Connection
 
 Existing topic reused for new claims in this episode.
 
@@ -1295,7 +1295,7 @@ Claim Timestamp: 00:24:05
 
 Claim: The host says that, relying on the text thread, Andrew Kolvet took two flights that day, neither equipped with Wi-Fi, which she says is why he was out of pocket.
 
-Transcript Snippet: Andrew Kolb that took two flights that day. And neither of those flights were equipped with Wi-Fi. And that's why he was out of pocket.
+Transcript Snippet: Andrew Kolvet that took two flights that day. And neither of those flights were equipped with Wi-Fi. And that's why he was out of pocket.
 
 Anchored Artifacts: A-1888.1
 Mentions: N-3, N-14, N-334

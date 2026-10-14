@@ -143,9 +143,9 @@ Confidence: high
 
 ---
 
-**A-1170** Bill Aman 959-Word Reply Essay
+**A-1170** Bill Ackman 959-Word Reply Essay
 
-**A-1170.1** Bill Aman essay response of 959 words referenced (not shown) in episode as a reply to Candace Owens' prior coverage of the Hamptons weekend and intervention pressure
+**A-1170.1** Bill Ackman essay response of 959 words referenced (not shown) in episode as a reply to Candace Owens' prior coverage of the Hamptons weekend and intervention pressure
 Video Timestamp: 00:03:05–00:03:46
 *Related: C-1295, N-37, N-10130*
 Transcript Snippet: Bill Ackman replies with an essay, college essay. 959 words to be precise was his response to me.
@@ -173,10 +173,10 @@ Video Timestamp: 00:05:05–00:05:25
 Transcript Snippet: Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.
 Confidence: medium
 
-**A-2520.2** Host identification of Marissa Strait in the PragerU video (verbal reference; no displayed artifact)
+**A-2520.2** Host identification of Marissa Streit in the PragerU video (verbal reference; no displayed artifact)
 Video Timestamp: 00:08:02–00:08:25
 *Related: C-3732, N-118*
-Transcript Snippet: I know Marissa Strait. This is I am looking at Marissa Strait right there.
+Transcript Snippet: I know Marissa Streit. This is I am looking at Marissa Streit right there.
 Confidence: medium
 
 **A-2520.3** Host shout out to Taylor Lorenz (verbal reference; no displayed artifact)
@@ -310,7 +310,7 @@ TPUSA spokesperson who has continued Charlie Kirk's show; host urges against tre
 
 ---
 
-**N-118** Marissa Strait
+**N-118** Marissa Streit
 
 Node Type: Person
 PragerU host noted in episode; mentioned as having worked for IDF intelligence and platform used by Xaviaer DuRousseau for Hamptons response video.
@@ -487,7 +487,7 @@ Organization that produced tribute video for Charlie Kirk, aired in episode.
 
 Node Type: Organization
 Organization Kind: media_org
-Media platform on which Xaviaer DuRousseau's Hamptons response video was published; employs Marissa Strait.
+Media platform on which Xaviaer DuRousseau's Hamptons response video was published; employs Marissa Streit.
 
 *Related: A-1165.1, A-1165.2*
 
@@ -771,10 +771,10 @@ Investigative Direction: Verify the tip with primary source; obtain the addition
 Tags: calls_for_tips, submissions_to_candace
 ---
 
-**C-1295** Bill Aman issued a 959-word essay response to Candace Owens' prior coverage
+**C-1295** Bill Ackman issued a 959-word essay response to Candace Owens' prior coverage
 
 Claim Timestamp: 00:03:05
-Claim: Host states that Bill Aman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation or the offer to take TPUSA to the next level financially.
+Claim: Host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation or the offer to take TPUSA to the next level financially.
 Transcript Snippet: Bill Ackman replies with an essay, college essay. 959 words to be precise was his response to me.
 Anchored Artifacts: A-1170.1
 Mentions: N-3, N-37
@@ -785,11 +785,11 @@ Investigative Direction: Obtain the full 959-word essay, confirm word count, and
 
 ---
 
-**C-3773** Bill Ackman is the person C-1295 calls 'Bill Aman' (revises C-1295)
+**C-3773** Bill Ackman is the person C-1295 calls 'Bill Ackman' (revises C-1295)
 
 Claim Timestamp: 00:03:05
 
-Claim: C-1295 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-37). The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation.
+Claim: C-1295 spells the name 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37). The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation.
 
 Transcript Snippet: And Bill Ackman replies with an essay, college essay.
 
@@ -856,15 +856,15 @@ Investigative Direction: Read with C-3731; corroborate the attendee list and the
 
 ---
 
-**C-3732** Host identifies Marissa Strait in the PragerU video
+**C-3732** Host identifies Marissa Streit in the PragerU video
 
 Claim Timestamp: 00:08:07
-Claim: The host, who previously worked for PragerU, says she knows Marissa Strait, identifies her in the PragerU video, and calls the video a PR operation that addresses the points without addressing them.
-Transcript Snippet: I know Marissa Strait. This is I am looking at Marissa Strait right there.
+Claim: The host, who previously worked for PragerU, says she knows Marissa Streit, identifies her in the PragerU video, and calls the video a PR operation that addresses the points without addressing them.
+Transcript Snippet: I know Marissa Streit. This is I am looking at Marissa Streit right there.
 Anchored Artifacts: A-2520.2
 Mentions: N-118
 Confidence: medium
-Investigative Direction: Confirm Marissa Strait's role in the PragerU video and her stated IDF intelligence background.
+Investigative Direction: Confirm Marissa Streit's role in the PragerU video and her stated IDF intelligence background.
 
 ---
 

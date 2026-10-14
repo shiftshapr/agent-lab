@@ -21,7 +21,7 @@
 
 ## 2. Executive Summary
 
-Episode 123 is structured as an "emergency update" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turk and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown – a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.
+Episode 123 is structured as an "emergency update" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turek and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown – a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.
 
 The episode then pivots to commentary on Turning Point USA's anticipated response, including a viral clip of Mikey McCoy appearing physically ill as Charlie's casket is moved at the hospital, and a prior interview clip of Charlie describing how Erika told him "God wants you to have your phone on" – directly relevant to the Butler shooting anecdote referenced earlier in the series. The host reiterates her position that Tyler Robinson did not fire the shot from the rooftop and supports John Bray's microphone-rigging theory.
 
@@ -761,16 +761,16 @@ Investigative Direction: Verify clip provenance; corroborate with hospital witne
 
 ---
 
-**C-2994** Frank Turk and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events
+**C-2994** Frank Turek and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events
 
 Claim Timestamp: 00:06:00–00:19:30
 
-Claim: Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turk and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.
+Claim: Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turek and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.
 
 Anchored Artifacts: None (claim relies on absence from prior retellings; absence-of-evidence style claim)
 Mentions: N-270, N-7
 Related Nodes: N-10705
-Investigative Direction: Obtain transcripts/video of all Frank Turk and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.
+Investigative Direction: Obtain transcripts/video of all Frank Turek and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.
 
 ---
 
@@ -816,7 +816,7 @@ Investigative Direction: Obtain official police scanner audio logs from the date
 
 Claim Timestamp: 00:29:24–00:30:20
 
-Claim: As of this episode, TPUSA (via spokesperson Andrew Kovat) has not publicly addressed how the road microphone shattered or why the glass ended up in the vehicle.
+Claim: As of this episode, TPUSA (via spokesperson Andrew Kolvet) has not publicly addressed how the road microphone shattered or why the glass ended up in the vehicle.
 
 Anchored Artifacts: None (claim is about absence of official response)
 Mentions: N-14
@@ -876,7 +876,7 @@ Claim Timestamp: 00:01:20
 
 Claim: The host says Brian Harpole and Frank Turek tell lies, and that this does not mean every person at Turning Point USA is implicated.
 
-Transcript Snippet: just because Frank Turk tells a lie, does not mean that every single person at Turning Point USA is implicated
+Transcript Snippet: just because Frank Turek tells a lie, does not mean that every single person at Turning Point USA is implicated
 
 Anchored Artifacts: 
 Mentions: N-270, N-7, N-3
@@ -892,7 +892,7 @@ Claim Timestamp: 00:02:43
 
 Claim: The host says Frank Turek's account of the car ride is told differently than Brian Harpole's account of it.
 
-Transcript Snippet: People like Frank Turk, his car ride, which is told differently than it is by Brian Harpole
+Transcript Snippet: People like Frank Turek, his car ride, which is told differently than it is by Brian Harpole
 
 Anchored Artifacts: 
 Mentions: N-7, N-270
@@ -1008,7 +1008,7 @@ Claim Timestamp: 00:06:11
 
 Claim: The host says she believes the bloodied Uber bag was most likely used to wipe hands and, given where Frank Turek was sitting, was probably his.
 
-Transcript Snippet: I think it's likely given where Frank Turk was sitting that that is him.
+Transcript Snippet: I think it's likely given where Frank Turek was sitting that that is him.
 
 Anchored Artifacts: A-2110.1
 Mentions: N-7
@@ -1057,7 +1057,7 @@ Claim Timestamp: 00:07:01
 
 Claim: The host says Frank Turek's story is that he changed clothes in part because he did not want Erika to see him bloodied, and asks why a bloody jacket of Charlie's would then be returned to her.
 
-Transcript Snippet: the story that Frank Turk tells us is he changed in part because he didn't want Erika to see him bloodied.
+Transcript Snippet: the story that Frank Turek tells us is he changed in part because he didn't want Erika to see him bloodied.
 
 Anchored Artifacts: 
 Mentions: N-7, N-2
@@ -1462,7 +1462,7 @@ Claim Timestamp: 00:39:49
 
 Claim: The host says Blake Neff, Graham Allen and Paramount Tactical tried to delude the public into an absurd story.
 
-Transcript Snippet: Did you really think Blake Nef, Graham Allen, and Paramount not so tactical? We're going to delude the public into the absurd story that you tried to spin.
+Transcript Snippet: Did you really think Blake Neff, Graham Allen, and Paramount not so tactical? We're going to delude the public into the absurd story that you tried to spin.
 
 Anchored Artifacts: 
 Mentions: N-162, N-614
@@ -1818,7 +1818,7 @@ Investigative Direction: Ask the host whether any tipster has been identified or
 
 Video Timestamp: 00:39:49
 Speaker: N-3
-Quote: Blake Nef, Graham Allen, and Paramount not so tactical?
+Quote: Blake Neff, Graham Allen, and Paramount not so tactical?
 Context: Host lumps Paramount Tactical in with Neff and Allen as deluding the public.
 Tags: paramount tactical, neff
 Confidence: high

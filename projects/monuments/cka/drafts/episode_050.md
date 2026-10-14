@@ -408,7 +408,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-Flag: Name transcribed as "Jeremy Boring"; flagged for possible transcription error (public record: Jeremy Boreing).
+Flag: Name transcribed as "Jeremy Boreing"; flagged for possible transcription error (public record: Jeremy Boreing).
 
 *Related: A-1563.1, C-1982, N-3*
 
@@ -1021,7 +1021,7 @@ Claim Timestamp: 00:02:09
 
 Claim: The host says Andrew Kolvet told her directly that Ben Shapiro was willing to spend an offensive amount of money to be a part of AmFest.
 
-Transcript Snippet: this is what was divulged to me from Andrew Kolb at the time, willing to spend an offensive amount of money to be a part of AmFest.
+Transcript Snippet: this is what was divulged to me from Andrew Kolvet at the time, willing to spend an offensive amount of money to be a part of AmFest.
 
 Anchored Artifacts: 
 Mentions: N-14, N-97, N-3
@@ -1030,13 +1030,13 @@ Investigative Direction: Obtain TPUSA sponsorship and advertising records for Am
 
 ---
 
-**C-5354** Host says Shapiro worked with Barry Weiss on an article that donors want her gone
+**C-5354** Host says Shapiro worked with Bari Weiss on an article that donors want her gone
 
 Claim Timestamp: 00:02:09
 
-Claim: The host says she knew Ben Shapiro was working with Barry Weiss to put out an article saying the donors and board of TPUSA wanted Candace gone.
+Claim: The host says she knew Ben Shapiro was working with Bari Weiss to put out an article saying the donors and board of TPUSA wanted Candace gone.
 
-Transcript Snippet: he was working with Barry Weiss to call and put an article out saying that the donors, the people on the board of TPUSA want Candace gone.
+Transcript Snippet: he was working with Bari Weiss to call and put an article out saying that the donors, the people on the board of TPUSA want Candace gone.
 
 Anchored Artifacts: 
 Mentions: N-97, N-282, N-3
@@ -1400,7 +1400,7 @@ Claim Timestamp: 00:19:58
 
 Claim: In the AmFest audio, Ben Shapiro says Megyn Kelly, whom he calls a friend, is shying away from condemning the host by calling her a young mother, and tells Tucker Carlson that going silent on her is no excuse.
 
-Transcript Snippet: The same holds true of Megan Kelly, a person I consider a friend, characterizing Candace as a young mother and thus shying away from condemning her actions
+Transcript Snippet: The same holds true of Megyn Kelly, a person I consider a friend, characterizing Candace as a young mother and thus shying away from condemning her actions
 
 Anchored Artifacts: A-1561.1
 Mentions: N-97, N-46, N-22
@@ -2216,7 +2216,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty / possible transcription error:** "Jeremy Boring" (A-1563.1, N-371) – public-record name is Jeremy Boreing.
+- **Name uncertainty / possible transcription error:** "Jeremy Boreing" (A-1563.1, N-371) – public-record name is Jeremy Boreing.
 - **Artifact verbally referenced but not shown:** A-1566.1, A-1567.1, A-1567.2, A-1567.3.
 - **Transcript ambiguity:** The phrase "Uh yes, we're that couple who gets painting lessons together" (around 00:44:30) appears to be transcriptions of on-screen social media not fully captured in the transcript.
 - **Claim failed admission test (artifact anchor):** C-1988 – Erika Kirk's original statement and the supporting social-media evidence are referenced but not directly captured in the transcript as displayed artifacts; claim inscribed with flag for human verification.

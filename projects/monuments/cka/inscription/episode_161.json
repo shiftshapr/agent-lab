@@ -1292,7 +1292,7 @@
       "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
-      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1841,7 +1841,7 @@
       "@id": "C-3680",
       "ref": "C-3680",
       "label": "Jennica Pounds posted anti-Candace DoD-week thread without disclosing hire",
-      "claim": "The host says Jennica Pounds (data republican), hired by the Department of War as a special government employee around the Tyler Robinson preliminary-hearing week in July, posted a long X thread attacking Candace and her audience's treatment of Erika, reinforcing the NCRI report and a 30-06 deer analogy, without disclosing she was working for DoD; the thread was boosted by Andrew Kolvet and Bill Aman as if organic.",
+      "claim": "The host says Jennica Pounds (data republican), hired by the Department of War as a special government employee around the Tyler Robinson preliminary-hearing week in July, posted a long X thread attacking Candace and her audience's treatment of Erika, reinforcing the NCRI report and a 30-06 deer analogy, without disclosing she was working for DoD; the thread was boosted by Andrew Kolvet and Bill Ackman as if organic.",
       "anchored_artifacts": [
         "A-2497.1"
       ],
@@ -1866,8 +1866,8 @@
       "@type": "Claim",
       "@id": "C-3775",
       "ref": "C-3775",
-      "label": "Bill Ackman is the 'Bill Aman' who boosted the thread in C-3680 (revises C-3680)",
-      "claim": "C-3680 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-37): the host says Jennica Pounds' thread was instantly boosted by Andrew Kolvet and Bill Ackman as if they had casually come across it.",
+      "label": "Bill Ackman is the 'Bill Ackman' who boosted the thread in C-3680 (revises C-3680)",
+      "claim": "C-3680 spells the name 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37): the host says Jennica Pounds' thread was instantly boosted by Andrew Kolvet and Bill Ackman as if they had casually come across it.",
       "anchored_artifacts": [
         "A-2497.1"
       ],
@@ -1877,7 +1877,7 @@
       "tags": [],
       "claim_timestamp": "00:01:42",
       "investigative_direction": "Read with C-3680; archive the boosting posts under the corrected spelling Bill Ackman.",
-      "transcript_snippet": "her thread was instantly boosted by the likes of Andrew Kovette and Bill Aman pretending to have casually stumbled upon it.",
+      "transcript_snippet": "her thread was instantly boosted by the likes of Andrew Kolvet and Bill Ackman pretending to have casually stumbled upon it.",
       "confidence": "medium",
       "revises_claim_refs": [
         "C-3680"
@@ -2245,7 +2245,7 @@
       "@id": "C-3696",
       "ref": "C-3696",
       "label": "Host restates Las Vegas Hughes-Adelson-Wynn-Patel money syndicate framing",
-      "claim": "Overlaying prior Mormon Mafia / Howard Hughes coverage, the host ties Blake Wynn's Erika Google Drive, Bill Aman's Hughes Inc board seat, Kash Patel's Las Vegas roots, and Miriam Adelson (\"Medson\") presidency-purchase jab into a Vegas syndicate with money for million-dollar anti-Candace / pro-Erika campaigns.",
+      "claim": "Overlaying prior Mormon Mafia / Howard Hughes coverage, the host ties Blake Wynn's Erika Google Drive, Bill Ackman's Hughes Inc board seat, Kash Patel's Las Vegas roots, and Miriam Adelson (\"Medson\") presidency-purchase jab into a Vegas syndicate with money for million-dollar anti-Candace / pro-Erika campaigns.",
       "anchored_artifacts": [
         "A-2500.1"
       ],
@@ -2270,8 +2270,8 @@
       "@type": "Claim",
       "@id": "C-3776",
       "ref": "C-3776",
-      "label": "Bill Ackman is the 'Bill Aman' on the Howard Hughes board in C-3696 (revises C-3696)",
-      "claim": "C-3696 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-37): the host ties Bill Ackman's seat on the board of Howard Hughes Inc. into her Las Vegas money-syndicate framing.",
+      "label": "Bill Ackman is the 'Bill Ackman' on the Howard Hughes board in C-3696 (revises C-3696)",
+      "claim": "C-3696 spells the name 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37): the host ties Bill Ackman's seat on the board of Howard Hughes Inc. into her Las Vegas money-syndicate framing.",
       "anchored_artifacts": [
         "A-2500.1"
       ],
@@ -2281,7 +2281,7 @@
       "tags": [],
       "claim_timestamp": "00:46:30",
       "investigative_direction": "Read with C-3696; confirm Bill Ackman's Howard Hughes board role from corporate filings.",
-      "transcript_snippet": "You had I told you Bill Aman who was on the board of Howard Hughes Inc. today.",
+      "transcript_snippet": "You had I told you Bill Ackman who was on the board of Howard Hughes Inc. today.",
       "confidence": "medium",
       "revises_claim_refs": [
         "C-3696"
@@ -3163,7 +3163,7 @@
       "@id": "C-10624",
       "ref": "C-10624",
       "label": "Host says Adelson and the Wynn family each got a piece of the Hughes empire",
-      "claim": "The host says that after Howard Hughes' company was chopped up, an Adelson (transcribed Adlesen) got a piece and the Wynn family took over the hotel he lived in.",
+      "claim": "The host says that after Howard Hughes' company was chopped up, an Adelson (transcribed Adelson) got a piece and the Wynn family took over the hotel he lived in.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10249"
@@ -3173,7 +3173,7 @@
       ],
       "claim_timestamp": "00:46:00",
       "investigative_direction": "Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.",
-      "transcript_snippet": "after his company got chopped up. Adlesen got a piece. The Wind family got a piece.",
+      "transcript_snippet": "after his company got chopped up. Adelson got a piece. The Wind family got a piece.",
       "mentions_person_refs": [
         "N-750"
       ]

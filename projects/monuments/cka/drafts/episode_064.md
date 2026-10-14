@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-863, N-11243, N-11244
-  - Hole-minted Nodes (reintro-ep064): N-503, N-10554, N-10561, N-10689
-  - Tip-minted Nodes (reintro-ep064): N-11000, N-11182
+  - Hole-minted Nodes (reintro-ep064): N-503, N-10561, N-10689
+  - Tip-minted Nodes (reintro-ep064): N-11000
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9913–C-10010
   - (see registers)
@@ -35,7 +35,7 @@
 - Artifact Families Introduced: A-1686, A-1687, A-1688, A-1689
 - Claim Range: C-2206–C-2224
   - New Nodes Introduced: N-502, N-10448, N-10449, N-10450
-  - Reused Nodes Appearing: N-10447, N-10446, N-14, N-22, N-36, N-97, N-199, N-205, N-225, N-235, N-366, N-476, N-499, N-10000, N-10027, N-10074, N-10238, N-10341, N-10342, N-10346, N-10416, N-10439, N-10452, N-10492, N-10548, N-10560, N-10899, N-10900, N-11014, N-11084, N-11092, N-11116, N-11180, N-11191
+  - Reused Nodes Appearing: N-10447, N-10446, N-14, N-22, N-36, N-97, N-199, N-205, N-225, N-235, N-366, N-476, N-499, N-10000, N-10027, N-10074, N-10238, N-10341, N-10342, N-10346, N-10416, N-10439, N-10452, N-10492, N-10548, N-10560, N-10899, N-10900, N-11014, N-11084, N-11092, N-11116, N-11180, N-11191, N-10554, N-11182
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-265 (Terrell Farnsworth)
 
 ## 6. Meme Register
@@ -1277,7 +1277,7 @@ Claim Timestamp: 00:03:39
 
 Claim: The host says she has confirmed Andrew Kolvet's account that Netanyahu offered to fund Turning Point to the next level with two people not related to Kolvet.
 
-Transcript Snippet: I have since confirmed what Andrew Kolbenschlag said with two people that are not related to Andrew Kolbenschlag at all.
+Transcript Snippet: I have since confirmed what Andrew Kolvet said with two people that are not related to Andrew Kolvet at all.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-36
@@ -1392,7 +1392,7 @@ Claim Timestamp: 00:06:09
 
 Claim: The host says Andrew Kolvet was caught live messaging something from Erika Kirk after Erika told her TPUSA was disappointed in Kolvet and that he would no longer be involved in PR.
 
-Transcript Snippet: him being caught live, Andrew Kolb at live messaging something from Erika after she told me that they were disappointed in Andrew, that he wasn't going to be involved in PR anymore.
+Transcript Snippet: him being caught live, Andrew Kolvet at live messaging something from Erika after she told me that they were disappointed in Andrew, that he wasn't going to be involved in PR anymore.
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
@@ -2574,7 +2574,7 @@ Claim Timestamp: 00:59:24
 
 Claim: The host says the biggest fib was Erika Kirk's consistent throwing of Andrew Kolvet under the bus and that she learned from other people that Kolvet told the truth.
 
-Transcript Snippet: the consistent throwing Andrew Kolb under the bus and then me learning that Andrew told the truth from other people.
+Transcript Snippet: the consistent throwing Andrew Kolvet under the bus and then me learning that Andrew told the truth from other people.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
@@ -2701,7 +2701,7 @@ Investigative Direction: Check the following episode's guest.
 
 - **Name uncertainty:** The spouse of Charlie Kirk is rendered "Erika Kirk" in the transcript. Existing ledger node is preserved as the N-2 series entry. No renumbering performed.
 - **Name uncertainty:** "Marina" referenced as TPUSA COO; host states "Marina Medvin" once but only "Marina, the COO" elsewhere. Full legal name and spelling unverified.
-- **Transcript ambiguity:** Andrew Kolvet is rendered inconsistently in the transcript as "Andrew Kolbint," "Andrew Kolbenschlag," "Andrew Kolvet," and "Andrew Kolvet." All appear to refer to the same TPUSA spokesperson.
+- **Transcript ambiguity:** Andrew Kolvet is rendered inconsistently in the transcript as "Andrew Kolbint," "Andrew Kolvet," "Andrew Kolvet," and "Andrew Kolvet." All appear to refer to the same TPUSA spokesperson.
 - **Timestamp uncertainty:** Exact event date for the Jeremy Boreing interview clip (A-1688 family) is unknown.
 - **Timestamp uncertainty:** Exact event date for The Bulwark podcast clip (A-1689.1) is unknown.
 - **Artifact verbally referenced but not shown:** Andrew Kolvet's tweet/post stating "Just got off the phone with the surgeon" is referenced by host but not displayed; treated as narration rather than artifact.

@@ -986,7 +986,7 @@ Claim Timestamp: 00:01:52
 
 Claim: The host says her investigation has been delayed because nobody outside the case has access to Charlie Kirk's phone, Erika Kirk's phone, Dan Flood's phone, Mikey McCoy's phone logs or Frank Turek's phone, and says a subpoena would probably have solved the case before the memorial.
 
-Transcript Snippet: we don't have access to Charlie's phone, Erika's phone, Dan Flood's phone, Mikey McCoy's phone logs, Frank Turk's phone.
+Transcript Snippet: we don't have access to Charlie's phone, Erika's phone, Dan Flood's phone, Mikey McCoy's phone logs, Frank Turek's phone.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2, N-274, N-194, N-7
@@ -1145,7 +1145,7 @@ Claim Timestamp: 00:07:30
 
 Claim: The host says she is told that Erika Kirk's initial speech, in which she used the phrase 'my Charlie', was written in large part by Blake Neff.
 
-Transcript Snippet: which was written in large part by Blake Nef, by the way, I'm told.
+Transcript Snippet: which was written in large part by Blake Neff, by the way, I'm told.
 
 Anchored Artifacts: A-2936.1
 Mentions: N-3, N-2, N-162
@@ -2268,7 +2268,7 @@ Confidence: high
 
 - **Name uncertainty (Carrie Prejean):** Transcript variants include "Carrie Prejean Bowler" (00:57, 26:59), "Carrie Peen" (00:57), "Carrie Preene Bowler" (34:48), and "Carrie Preaching Baller" (as preserved in Dan Patrick's own X post text). Inscribed as "Carrie Prejean Bowler" pending verification of canonical spelling. The actual surname appears to be "Boller"; transcription noise preserved as-is.
 
-- **Name uncertainty (Andrew Kovette):** Transcript spells "Andrew Kovette." The TPUSA spokesperson is generally known as Andrew Kolvet. Not used as a node here since no artifact anchor is presented for him in this episode; preserved as host commentary only.
+- **Name uncertainty (Andrew Kolvet):** Transcript spells "Andrew Kolvet." The TPUSA spokesperson is generally known as Andrew Kolvet. Not used as a node here since no artifact anchor is presented for him in this episode; preserved as host commentary only.
 
 - **Name uncertainty (Stacy Sheridan):** Appears only in host speculation ("In fact, it would be much more likely that Stacy Sheridan would have added that picture"). Preserved as host rhetoric; not inscribed as claim.
 

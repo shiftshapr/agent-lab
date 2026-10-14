@@ -38,7 +38,7 @@
 - Claim Range: C-2609–C-2625, C-3750
 - New People Nodes Introduced: none (Wave 2: local ids removed)
 - New Investigation Target Nodes Introduced: N-10569, N-10570, N-10571, N-10572
-- Existing Nodes Reused: Charlie Kirk, Erica Kirk, Candace Owens, Tyler Robinson, Tarro Farnsworth, Andrew Kolb, Dr. Lee Trotter, Justin Streiff, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
+- Existing Nodes Reused: Charlie Kirk, Erica Kirk, Candace Owens, Tyler Robinson, Tarro Farnsworth, Andrew Kolvet, Dr. Lee Trotter, Justin Streiff, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
 
 ---
 
@@ -46,7 +46,7 @@
 
 Episode 86 centers on the host's line-by-line review of a defense filing in *State of Utah v. Tyler Robinson* in which the defense moves to continue the May 2026 preliminary hearing due to outstanding discovery. The filing is presented as the structural core of the episode (00:17:27–00:49:51). The host extracts and reads three substantive items from the filing: the ATF's inability to identify the autopsy-recovered bullet to the rifle allegedly tied to Robinson; the FBI's announced second-pass comparative bullet analysis and bullet lead analysis; and the chronology of delayed production of the autopsy report and autopsy photographs to defense counsel.
 
-The host then returns to the chronology of Charlie Kirk's shooting, reading in full the September 20, 2025 X/Twitter post by Andrew Kolb attributing a quote to surgeon Dr. Lee Trotter regarding Charlie Kirk's bone density and the lack of an exit wound. The host challenges the tweet's medical plausibility as "not how serious trauma surgeons communicate." The host also plays an Atlanta local-news clip on the FBI's 2005 discontinuation of comparative bullet lead analysis.
+The host then returns to the chronology of Charlie Kirk's shooting, reading in full the September 20, 2025 X/Twitter post by Andrew Kolvet attributing a quote to surgeon Dr. Lee Trotter regarding Charlie Kirk's bone density and the lack of an exit wound. The host challenges the tweet's medical plausibility as "not how serious trauma surgeons communicate." The host also plays an Atlanta local-news clip on the FBI's 2005 discontinuation of comparative bullet lead analysis.
 
 Additional evidentiary items include a viewer email regarding the proximity of Long Beach Airport to the Joint Forces Air Base in Los Alamitos (in the context of a July 14, 2025 flight), and viewer comments including one by commenter Kim Haven asserting that Frank Turek's hospital account of publicly announcing Charlie Kirk's death is implausible.
 
@@ -68,9 +68,9 @@ Confidence Level: High (filing is shown on screen and read aloud at length)
 
 ---
 
-**A-1913** Andrew Kolb Tweet Bundle
+**A-1913** Andrew Kolvet Tweet Bundle
 
-**A-1913.1** Andrew Kolb X/Twitter Post, September 20, 2025 – "I want to address some of the discussion about the lack of an exit wound with Charlie..."
+**A-1913.1** Andrew Kolvet X/Twitter Post, September 20, 2025 – "I want to address some of the discussion about the lack of an exit wound with Charlie..."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -122,14 +122,14 @@ Confidence Level: High (text read aloud)
 
 *Related: C-2621, C-2622, C-2623*
 
-**A-1916.2** Han Solo Comment – asks investigative questions about pressure points, Andrew Kolb's role, and end-state of the case
+**A-1916.2** Han Solo Comment – asks investigative questions about pressure points, Andrew Kolvet's role, and end-state of the case
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:01:31–01:02:28
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-2, Andrew Kolb (existing)*
+*Related: N-2, Andrew Kolvet (existing)*
 
 **A-1916.3** Natty Nicole Comment – suggests defense utilize Ian Carroll to organize discovery files
 
@@ -211,7 +211,7 @@ Investigative Pressure: High
 
 **N-10085** Exit Wound / Bullet Trajectory Discrepancy
 
-Persistent inconsistency between Andrew Kolb's September 20, 2025 tweet (bullet found beneath skin), Andrew Kolb's reported September 23, 2025 verbal account (bullet traveled C2–C6, shattered in thorax), and Brian Harpool's later statement (fragmented in stomach/thorax).
+Persistent inconsistency between Andrew Kolvet's September 20, 2025 tweet (bullet found beneath skin), Andrew Kolvet's reported September 23, 2025 verbal account (bullet traveled C2–C6, shattered in thorax), and Brian Harpool's later statement (fragmented in stomach/thorax).
 
 Evidence Count: 1
 Claim Count: 2
@@ -789,11 +789,11 @@ Investigative Direction: Verify witness list filing and prosecution's stated int
 
 ---
 
-**C-2618** Andrew Kolb Tweet: Coroner Found Bullet Beneath Skin
+**C-2618** Andrew Kolvet Tweet: Coroner Found Bullet Beneath Skin
 
 Claim Timestamp: 00:11:24
 
-Claim: In a September 20, 2025 X/Twitter post, Andrew Kolb wrote that the coroner found the bullet just beneath Charlie Kirk's skin.
+Claim: In a September 20, 2025 X/Twitter post, Andrew Kolvet wrote that the coroner found the bullet just beneath Charlie Kirk's skin.
 
 Anchored Artifacts: A-1913.1
 Mentions: N-1, N-14
@@ -804,11 +804,11 @@ Investigative Direction: Obtain and verify the original X post timestamp, accoun
 
 ---
 
-**C-2619** Andrew Kolb Tweet: "Man of Steel" Surgeon Quote
+**C-2619** Andrew Kolvet Tweet: "Man of Steel" Surgeon Quote
 
 Claim Timestamp: 00:12:07
 
-Claim: In the same September 20, 2025 post, Andrew Kolb attributed a quote to a surgeon who worked on Charlie Kirk at the hospital stating that Kirk's bone density was so healthy that he was "like the man of steel" and that it was a miracle no one behind Kirk was struck.
+Claim: In the same September 20, 2025 post, Andrew Kolvet attributed a quote to a surgeon who worked on Charlie Kirk at the hospital stating that Kirk's bone density was so healthy that he was "like the man of steel" and that it was a miracle no one behind Kirk was struck.
 
 Anchored Artifacts: A-1913.1
 Mentions: N-1, N-14
@@ -896,7 +896,7 @@ Investigative Direction: Review any FBI lab protocol authorizing CBLA reintroduc
 
 Claim Timestamp: 00:09:57
 
-Claim: The host rejects the medical plausibility of Andrew Kolb's "man of steel"/bone-density framing in the September 20, 2025 tweet, asserting it is not how serious trauma surgeons communicate.
+Claim: The host rejects the medical plausibility of Andrew Kolvet's "man of steel"/bone-density framing in the September 20, 2025 tweet, asserting it is not how serious trauma surgeons communicate.
 
 Anchored Artifacts: A-1913.1
 Mentions: N-14
@@ -2005,9 +2005,9 @@ Confidence: high
 
 - **Artifact verbally referenced but not shown**: Frank Turek's actual hospital statement is referenced via Kim Haven's comment but is not displayed in this episode. (A-1916.1 frames the challenge but does not contain Turek's original text.)
 - **Artifact verbally referenced but not shown**: Elizabeth Lane's X post about the "other hospital and the strange lockdown" is referenced at 00:56:00 but is not displayed.
-- **Testimonial recount, no artifact displayed**: Andrew Kolb's reported September 23, 2025 verbal account to host (bullet traveled C2–C6, shattered in thorax) is not anchored to any artifact shown in this episode. Claim failure label: **Claim failed admission test**.
+- **Testimonial recount, no artifact displayed**: Andrew Kolvet's reported September 23, 2025 verbal account to host (bullet traveled C2–C6, shattered in thorax) is not anchored to any artifact shown in this episode. Claim failure label: **Claim failed admission test**.
 - **Testimonial recount, no artifact displayed**: Host's recounting of FBI calls to Justin Streiff and Frank Carney regarding the back-footage FaceTime recording is not artifact-anchored in this episode.
 - **Testimonial recount, no artifact displayed**: Host's recounting of the September 19, 2025 FaceTime with Tarro Farnsworth is not artifact-anchored in this episode.
 - **Transcript ambiguity**: The Atlanta news clip's air date and originating station are not specified; "Chris Nakamoto" is identified by name only.
-- **Name preservation**: "Tarro Farnsworth" appears consistently across the transcript; "Andrew Kolvats" and "Andrew Kolb" both appear; "Dr. Lee Trotter" appears consistently; preserved as written.
+- **Name preservation**: "Tarro Farnsworth" appears consistently across the transcript; "Andrew Kolvats" and "Andrew Kolvet" both appear; "Dr. Lee Trotter" appears consistently; preserved as written.
 - **Requires human verification**: Numerical specifics inside the defense filing (file counts, page counts, hours, dates) should be cross-verified against the filed PDF and any court docket entries before being treated as authoritative.

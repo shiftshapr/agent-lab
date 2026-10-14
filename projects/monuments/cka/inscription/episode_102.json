@@ -539,6 +539,196 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3236",
+      "family_ref": "A-3236",
+      "bundle_name": "Blake Neff Reply to Project Constitution Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3236.1",
+          "ref": "A-3236.1",
+          "description": "Host reads Blake Neff's X reply to Project Constitution",
+          "related_claims": [
+            "C-12972"
+          ],
+          "related_nodes": [
+            "N-10667",
+            "N-10897",
+            "N-162"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:02:41",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3237",
+      "family_ref": "A-3237",
+      "bundle_name": "Great American Race Audition Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3237.1",
+          "ref": "A-3237.1",
+          "description": "Host verbal reference to the Great American Race audition video Erika Kirk submitted (not shown)",
+          "related_claims": [
+            "C-12985",
+            "C-12986"
+          ],
+          "related_nodes": [
+            "N-10665",
+            "N-11248",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:17:23",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3238",
+      "family_ref": "A-3238",
+      "bundle_name": "Cuba Headline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3238.1",
+          "ref": "A-3238.1",
+          "description": "Host reads a headline from the previous day asking whether the US will invade Cuba (not clearly shown)",
+          "related_claims": [
+            "C-13005"
+          ],
+          "related_nodes": [
+            "N-10963"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:37:14",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3239",
+      "family_ref": "A-3239",
+      "bundle_name": "Moderator Marzi Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3239.1",
+          "ref": "A-3239.1",
+          "description": "Viewer comment from Moderator Marzi read aloud about The Quartering facing a potential lawsuit",
+          "related_claims": [
+            "C-13014"
+          ],
+          "related_nodes": [
+            "N-160",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:45:18",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3240",
+      "family_ref": "A-3240",
+      "bundle_name": "Mitch Snow Verification Evidence Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3240.1",
+          "ref": "A-3240.1",
+          "description": "Host verbal reference to Mitch's videos, hotel reservation and military ID tags (not shown)",
+          "related_claims": [
+            "C-13045",
+            "C-13046"
+          ],
+          "related_nodes": [
+            "N-10367",
+            "N-366"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:53:10",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3241",
+      "family_ref": "A-3241",
+      "bundle_name": "Harpole Lawsuit Filing Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3241.1",
+          "ref": "A-3241.1",
+          "description": "Host verbal reference to the Brian Harpole lawsuit filing and its statements about her (document not shown)",
+          "related_claims": [
+            "C-13048",
+            "C-13049",
+            "C-13050"
+          ],
+          "related_nodes": [
+            "N-10373",
+            "N-10862",
+            "N-228",
+            "N-270",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:54:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3242",
+      "family_ref": "A-3242",
+      "bundle_name": "Planned Document Website Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3242.1",
+          "ref": "A-3242.1",
+          "description": "Host verbal reference to a planned website with the documents, messages and her timeline (not yet published)",
+          "related_claims": [
+            "C-13055"
+          ],
+          "related_nodes": [
+            "N-10649",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:59:04",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -662,7 +852,22 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12974",
+        "C-12978",
+        "C-12980",
+        "C-12981",
+        "C-12982",
+        "C-12984",
+        "C-12992",
+        "C-12995",
+        "C-12996",
+        "C-13003",
+        "C-13007",
+        "C-13012",
+        "C-13013",
+        "C-13054"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -678,7 +883,42 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12970",
+        "C-12971",
+        "C-12977",
+        "C-12978",
+        "C-12982",
+        "C-12984",
+        "C-12985",
+        "C-12986",
+        "C-12987",
+        "C-12988",
+        "C-12989",
+        "C-12990",
+        "C-13003",
+        "C-13007",
+        "C-13008",
+        "C-13011",
+        "C-13012",
+        "C-13017",
+        "C-13019",
+        "C-13020",
+        "C-13021",
+        "C-13022",
+        "C-13023",
+        "C-13024",
+        "C-13032",
+        "C-13033",
+        "C-13039",
+        "C-13040",
+        "C-13041",
+        "C-13042",
+        "C-13043",
+        "C-13044",
+        "C-13053",
+        "C-13054"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -710,7 +950,9 @@
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-2886"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -753,7 +995,47 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12970",
+        "C-12973",
+        "C-12976",
+        "C-12990",
+        "C-12992",
+        "C-12995",
+        "C-12996",
+        "C-13002",
+        "C-13014",
+        "C-13015",
+        "C-13016",
+        "C-13021",
+        "C-13022",
+        "C-13023",
+        "C-13024",
+        "C-13025",
+        "C-13026",
+        "C-13027",
+        "C-13028",
+        "C-13029",
+        "C-13030",
+        "C-13031",
+        "C-13033",
+        "C-13034",
+        "C-13035",
+        "C-13036",
+        "C-13038",
+        "C-13039",
+        "C-13040",
+        "C-13041",
+        "C-13042",
+        "C-13043",
+        "C-13044",
+        "C-13047",
+        "C-13049",
+        "C-13050",
+        "C-13051",
+        "C-13053",
+        "C-13055"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -769,7 +1051,13 @@
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12973",
+        "C-13008",
+        "C-13042",
+        "C-13043",
+        "C-13044"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -785,7 +1073,12 @@
       "type": "person",
       "description": "Host of PBD Podcast; platform through which Sosnick segment was aired.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12995",
+        "C-12997",
+        "C-12999",
+        "C-13000"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -817,7 +1110,9 @@
       "type": "person",
       "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12980"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -831,9 +1126,13 @@
       "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
-      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12972",
+        "C-12975",
+        "C-12983"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -849,7 +1148,20 @@
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13017",
+        "C-13018",
+        "C-13019",
+        "C-13021",
+        "C-13028",
+        "C-13029",
+        "C-13032",
+        "C-13048",
+        "C-13049",
+        "C-13050",
+        "C-13051",
+        "C-13052"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -916,13 +1228,732 @@
       "type": "person",
       "description": "First named by the host at 00:42:41 in episode 92.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12979"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Vice President; the host says he lectured the audience when Erika did not attend.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13011"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Justin Streiff",
+      "type": "person",
+      "description": "TPUSA COO; the host says he emailed her team and asked when her show goes off air.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13025",
+        "C-13034"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Megyn Kelly; Erika told her an emotional story about the video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12977"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-131",
+      "ref": "N-131",
+      "name": "Ian Carroll",
+      "type": "person",
+      "description": "Ian Carroll; the host says he called her as Valhalla threatened her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13026"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-160",
+      "ref": "N-160",
+      "name": "The Quartering",
+      "type": "person",
+      "description": "The Quartering; subject of a viewer comment about a potential lawsuit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13014"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-217",
+      "ref": "N-217",
+      "name": "Nick Shirley",
+      "type": "person",
+      "description": "Nick Shirley; subject of the host's favela video skepticism.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12991",
+        "C-12992",
+        "C-12993",
+        "C-12994",
+        "C-12997",
+        "C-12998",
+        "C-12999",
+        "C-13000",
+        "C-13001",
+        "C-13004"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-228",
+      "ref": "N-228",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Shawn Ryan; host of the interview in which Harpole appeared.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13032",
+        "C-13050"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-271",
+      "ref": "N-271",
+      "name": "Tim Pool",
+      "type": "person",
+      "description": "Tim Pool; named among those backing Shirley.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12994"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-282",
+      "ref": "N-282",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Bari Weiss; interviewed Erika with the cut clip about the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13023",
+        "C-13024"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-366",
+      "ref": "N-366",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Mitch Snow; the Fort Huachuca eyewitness.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13016",
+        "C-13017",
+        "C-13018",
+        "C-13019",
+        "C-13026",
+        "C-13027",
+        "C-13028",
+        "C-13034",
+        "C-13035",
+        "C-13036",
+        "C-13037",
+        "C-13038",
+        "C-13045",
+        "C-13046",
+        "C-13047"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 15,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-490",
+      "ref": "N-490",
+      "name": "Blake Lively",
+      "type": "person",
+      "description": "Blake Lively; party in the dispute the host cites.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13015"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-491",
+      "ref": "N-491",
+      "name": "Justin Baldoni",
+      "type": "person",
+      "description": "Justin Baldoni; party in the dispute the host cites.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13015"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-587",
+      "ref": "N-587",
+      "name": "Thomas Massie",
+      "type": "person",
+      "description": "Thomas Massie; named in a viewer comment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13054"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-602",
+      "ref": "N-602",
+      "name": "Druski",
+      "type": "person",
+      "description": "Druski (spelled Druski and Drewski in the transcript); comedian whose skit mocked Erika.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13007",
+        "C-13008",
+        "C-13009",
+        "C-13010"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-807",
+      "ref": "N-807",
+      "name": "Harris Faulkner",
+      "type": "person",
+      "description": "Harris Faulkner; Fox host who interviewed Erika.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13022"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-901",
+      "ref": "N-901",
+      "name": "Bryan Freedman",
+      "type": "person",
+      "description": "Bryan Freedman; lawyer whose publish-it-all approach the host cites.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13015"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; withholds the video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12974",
+        "C-12976",
+        "C-13003"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10059",
+      "ref": "N-10059",
+      "name": "PBD Podcast",
+      "type": "investigation_target",
+      "description": "PBD Podcast; platform for the Shirley interview.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12995"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10349",
+      "ref": "N-10349",
+      "name": "Bari Weiss CBS Interview Question Selection",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Bari Weiss question.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13023",
+        "C-13024"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10367",
+      "ref": "N-10367",
+      "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Mitch eyewitness encounter.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13016",
+        "C-13017",
+        "C-13019",
+        "C-13021",
+        "C-13022",
+        "C-13035",
+        "C-13045",
+        "C-13046",
+        "C-13047"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10417",
+      "ref": "N-10417",
+      "name": "Fort Huachuca Erika Presence Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Erika's Fort Huachuca ties.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13020"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10538",
+      "ref": "N-10538",
+      "name": "Turning Point Action / Thomas Massie Disavowal Incident",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Massie disavowal.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13054"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10609",
+      "ref": "N-10609",
+      "name": "Marcus Wada Arms Trafficking and Biography Cluster",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Wada's background.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12979"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10649",
+      "ref": "N-10649",
+      "name": "Candace-Erika December 15 Private Meeting Revelations",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the December 15 meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13015",
+        "C-13030",
+        "C-13033",
+        "C-13034",
+        "C-13055"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10862",
+      "ref": "N-10862",
+      "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Harpole's statements.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13032",
+        "C-13048",
+        "C-13049",
+        "C-13050",
+        "C-13052"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10897",
+      "ref": "N-10897",
+      "name": "Project Constitution",
+      "type": "investigation_target",
+      "description": "Project Constitution; the X account Neff replied to.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12972"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical",
+      "type": "investigation_target",
+      "description": "Paramount Tactical; livestream account that read the alibi.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13026",
+        "C-13027",
+        "C-13031",
+        "C-13036",
+        "C-13037",
+        "C-13038",
+        "C-13039",
+        "C-13040",
+        "C-13041"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10936",
+      "ref": "N-10936",
+      "name": "Aspen CEO-Appointment Video Non-Release",
+      "type": "investigation_target",
+      "description": "Existing topic reused for non-release of the video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12974",
+        "C-12975",
+        "C-12983"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10963",
+      "ref": "N-10963",
+      "name": "Cuba",
+      "type": "investigation_target",
+      "description": "Cuba; subject of Shirley's trip and the headline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13004",
+        "C-13005",
+        "C-13006"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11001",
+      "ref": "N-11001",
+      "name": "Valhalla VFT",
+      "type": "investigation_target",
+      "description": "Valhalla VFT; account the host says threatened her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13026",
+        "C-13027",
+        "C-13036",
+        "C-13037",
+        "C-13038"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11104",
+      "ref": "N-11104",
+      "name": "Liberty University",
+      "type": "investigation_target",
+      "description": "Liberty University; Erika's master's.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12989"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11109",
+      "ref": "N-11109",
+      "name": "Andrew Kolvet Rogue-Actor Explanation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the rogue explanation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13044"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11182",
+      "ref": "N-11182",
+      "name": "TPUSA Crisis PR Team",
+      "type": "investigation_target",
+      "description": "TPUSA Crisis PR Team; the PR firm Erika mentioned.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13042",
+        "C-13043"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11248",
+      "ref": "N-11248",
+      "name": "Arizona State University",
+      "type": "investigation_target",
+      "description": "Arizona State University; Erika's claimed degree.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12986",
+        "C-12987"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11255",
+      "ref": "N-11255",
+      "name": "Hillsdale College",
+      "type": "investigation_target",
+      "description": "Hillsdale College; commencement and honorary doctorate.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12970",
+        "C-12984",
+        "C-13053"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11287",
+      "ref": "N-11287",
+      "name": "Tim Pool Dispute With Candace Owens",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Tim Pool dispute.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12994"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11312",
+      "ref": "N-11312",
+      "name": "Kolvet PR Role for Erika Kirk August 2025 Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Kolvet PR role.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13043"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11356",
+      "ref": "N-11356",
+      "name": "Druski Skit Mocking Erika Kirk Controversy",
+      "type": "topic",
+      "description": "The dispute over a Drewski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13007",
+        "C-13008",
+        "C-13009",
+        "C-13010"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -1389,7 +2420,2264 @@
         "N-270",
         "N-2"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12970",
+      "ref": "C-12970",
+      "label": "Host Says Erika Said She Needed to Go Home Before Appearing at Hillsdale",
+      "claim": "The host says Erika Kirk had said she wanted to go home and the audience endured a lecture about her needing to be home with her family, yet she then went to Michigan to give the Hillsdale College commencement speech.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11255"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Locate Erika Kirk's earlier public statements about going home to her family and compare them with the Hillsdale College commencement schedule.",
+      "transcript_snippet": "after saying she wanted to go home, us enduring a lecture about how she needed to go home to her family, she bounced over to to Michigan",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12971",
+      "ref": "C-12971",
+      "label": "Host Says Erika Cited Fear of Flying and Secret Service Gaps but Now Has No Secret Service",
+      "claim": "The host says Erika Kirk has been described as too scared to get on a plane by herself and as unprotectable by the Secret Service, and that she now has no Secret Service while appearing on stage at a school.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Obtain Erika Kirk's own statements on her protection status and any Secret Service or private security arrangements for the Hillsdale event.",
+      "transcript_snippet": "She's too scared to get on a plane by herself. Secret Service can't protect her. Oh, now she doesn't have Secret Service, and she's back on stage at a school, nonetheless.",
+      "supports_claim_refs": [
+        "C-8783"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12972",
+      "ref": "C-12972",
+      "label": "Neff Replied to Project Constitution That It Was Not Very Smart",
+      "claim": "The host reads a post in which Blake Neff replied to Project Constitution, writing that it is not very smart.",
+      "anchored_artifacts": [
+        "A-3236.1"
+      ],
+      "related_nodes": [
+        "N-10897",
+        "N-10667"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:41",
+      "investigative_direction": "Pull Blake Neff's X reply to Project Constitution and confirm its wording, time and the post it answered.",
+      "transcript_snippet": "Blake Neff jumped in. He wrote back to Project Constitution, you are not very smart, are you?",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12973",
+      "ref": "C-12973",
+      "label": "Host Says She Never Heard Kolvet Was Divorcing",
+      "claim": "The host says she has never heard that Andrew Kolvet is divorcing his wife and that rumors like this surface about public figures about once a week.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10667"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:03:41",
+      "investigative_direction": "Check Arizona court records for any divorce filing and the original Project Constitution post; this is a personal matter and the host only reports her own awareness.",
+      "transcript_snippet": "by the way have never heard that Andrew Kolvet is divorcing his wife.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12974",
+      "ref": "C-12974",
+      "label": "Host Says TPUSA Refuses to Release the Video of the Appointment Moment",
+      "claim": "The host says Turning Point USA is refusing to release video of the moment in which Charlie Kirk says he appoints his wife, and has not authoritatively responded that the donors are lying.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10936",
+        "N-10664",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:04",
+      "investigative_direction": "Ask TPUSA for the original camera footage and metadata of the Aspen presentation and whether any video of the statement exists.",
+      "transcript_snippet": "Turning Point for some reason is refusing to drop the video of that moment saying this of Charlie saying this.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12975",
+      "ref": "C-12975",
+      "label": "Host Says Neff Worried People Would Call the Video AI",
+      "claim": "The host says Blake Neff specifically expressed concern that if TPUSA released the video people would say it is AI.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10936",
+        "N-10664"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:04",
+      "investigative_direction": "Find Blake Neff's own public or private statement expressing this concern, including its date and audience.",
+      "transcript_snippet": "Blake has specifically expressed concern, you will recall, that if they do drop it, people will say it's AI.",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12976",
+      "ref": "C-12976",
+      "label": "Host Says TPUSA Itself Pointed Her Team to the Video",
+      "claim": "The host says Turning Point USA itself mentioned the appointment video to her team.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10664"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:34",
+      "investigative_direction": "Identify who at TPUSA mentioned the video to the host's team, when, and in what message or call.",
+      "transcript_snippet": "the video, which I would like to point out, Turning Point USA mentioned this video to us.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12977",
+      "ref": "C-12977",
+      "label": "Host Says Erika Told Megyn Kelly an Emotional Story About First Watching the Video",
+      "claim": "The host says Erika Kirk told Megyn Kelly an emotional story about what it felt like to watch the video of Charlie choosing her for the first time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:34",
+      "investigative_direction": "Review the Megyn Kelly interview with Erika Kirk for her account of watching the video and compare it with any released footage.",
+      "transcript_snippet": "Erika herself told Megyn Kelly an emotional story about what she felt like watching that video for the first time",
+      "mentions_person_refs": [
+        "N-2",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12978",
+      "ref": "C-12978",
+      "label": "Host Says the Appointment Contradicts Charlie's Public Statements About Women Working",
+      "claim": "The host says that Charlie choosing his wife violates every public statement he had made about women working and is a complete reversal of his prior positions.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:34",
+      "investigative_direction": "Compile Charlie Kirk's recorded statements on women and work and compare them with the appointment statement.",
+      "transcript_snippet": "violating suddenly his every public statement and sentiment that he had ever expressed in the past about women working, complete 180 from his prior positions.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12979",
+      "ref": "C-12979",
+      "label": "Host Calls Marcus Wada a Former Arms Dealer Now at TPUSA",
+      "claim": "The host describes Marcus Wada as a Turning Point employee who is a former arms dealer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10609"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:32",
+      "investigative_direction": "Review Wada's own TPUSA biography, his LinkedIn and any reporting on his past arms-related work to confirm the description.",
+      "transcript_snippet": "the Turning Point employee that's a rehabilitated former arms dealer.",
+      "supports_claim_refs": [
+        "C-11428"
+      ],
+      "mentions_person_refs": [
+        "N-430"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12980",
+      "ref": "C-12980",
+      "label": "Host Says John Mappin Introduced Charlie to His Biggest Donor",
+      "claim": "The host says John Mappin is the person who introduced Charlie Kirk to his biggest donor.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:50",
+      "investigative_direction": "Ask John Mappin or TPUSA donor records who the largest donor is and who made the introduction.",
+      "transcript_snippet": "John Mappin, who is the person who introduced Charlie to actually his biggest donor.",
+      "mentions_person_refs": [
+        "N-157",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12981",
+      "ref": "C-12981",
+      "label": "Host Says the Biggest Donor Was First on the List Called From the Hospital",
+      "claim": "The host says Charlie Kirk's biggest donor was first in line on a list of donors who received personal phone calls from the hospital on the day Charlie died.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:50",
+      "investigative_direction": "Obtain the donor call list and call records from the hospital day and identify who placed each call.",
+      "transcript_snippet": "A donor so big that that donor was first in line on a list of donors who received personal phone calls from the hospital the day that Charlie died.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12982",
+      "ref": "C-12982",
+      "label": "Host Describes Erika Walking Out at AmFest to Charlie's Voice in a Glittering Pantsuit",
+      "claim": "Describing a hypothetical in which the audio was AI, the host recounts that at AmFest Charlie's recorded voice passed the company to Erika while she wore a glittering pantsuit with fireworks behind her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:17",
+      "investigative_direction": "Review the AmFest 2025 stream and program for the audio cue, who cleared it, and its source file.",
+      "transcript_snippet": "\"The company is mine at Amfest while she wore glittering pants, glittering pant plant pantsuit and had fireworks going on behind her.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12983",
+      "ref": "C-12983",
+      "label": "Host Says Neff's Subway Killer Scenario Is TPUSA's Reason for Not Releasing the Video",
+      "claim": "The host says Blake Neff's subway killer scenario is the stated reason Turning Point USA will not release the video.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10936"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:53",
+      "investigative_direction": "Locate Blake Neff's original subway comparison and any TPUSA statement tying it to the non-release of the video.",
+      "transcript_snippet": "you guys can take your bets on whether you believe Blake Neff and his uh Subway killer scenario as the reason they won't release the video.",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12984",
+      "ref": "C-12984",
+      "label": "Host Says Erika Accepted a Posthumous Honorary Doctorate for Charlie",
+      "claim": "The host says Erika Kirk accepted a posthumous honorary doctorate on behalf of Charlie Kirk, in addition to one for herself.",
+      "anchored_artifacts": [
+        "A-2070.1"
+      ],
+      "related_nodes": [
+        "N-11255"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:43",
+      "investigative_direction": "Check Hillsdale College's commencement announcement for the list of honorary degrees conferred.",
+      "transcript_snippet": "she accepted a posthumous doctorate degree for Charlie uh honorary doctorate and also an honorary doctorate for herself.",
+      "supports_claim_refs": [
+        "C-2894"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12985",
+      "ref": "C-12985",
+      "label": "Host Says Erika Auditioned for the Great American Race With an Ex-Boyfriend",
+      "claim": "The host says Erika Kirk tried out for The Great American Race with an ex-boyfriend despite having said she had no boyfriend in the five years before Charlie.",
+      "anchored_artifacts": [
+        "A-3237.1"
+      ],
+      "related_nodes": [
+        "N-10665"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Obtain the audition video and any Erika Kirk interviews on her dating history to compare the statements.",
+      "transcript_snippet": "when she was trying out for the American race with her ex-boyfriend, she never said, you know, she never had a boyfriend before Charlie in the five years before Charlie, but she did.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12986",
+      "ref": "C-12986",
+      "label": "Host Says Erika Claimed ASU Magna Cum Laude in Her Audition Video",
+      "claim": "The host says that in the video Erika Kirk submitted for The Great American Race she said she graduated from ASU magna cum laude.",
+      "anchored_artifacts": [
+        "A-3237.1"
+      ],
+      "related_nodes": [
+        "N-10665",
+        "N-11248"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Obtain the audition video and ASU's records of degree and honors conferred on Erika Kirk.",
+      "transcript_snippet": "when they were trying out for the Great American Race in the video that she submitted, she said that she graduated from ASU magna laude.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12987",
+      "ref": "C-12987",
+      "label": "Host Says Erika Graduated With No Honors and No Double Degree",
+      "claim": "The host says Erika Kirk did not graduate magna cum laude or summa cum laude, graduated with no honors and did not earn a double degree.",
+      "anchored_artifacts": [
+        "A-2071.2"
+      ],
+      "related_nodes": [
+        "N-10665",
+        "N-11248"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:10",
+      "investigative_direction": "Request ASU's degree verification (National Student Clearinghouse) and the commencement program for Erika Kirk's class.",
+      "transcript_snippet": "she didn't graduate magna laude and she also didn't graduate summa laude. She didn't graduate with any honors and she did not graduate with a double degree.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12988",
+      "ref": "C-12988",
+      "label": "Host Says the Inflated Credentials Were Put in Official Bios",
+      "claim": "The host says Erika Kirk's inflated credentials were put in bios and were not a single mistake by an intern.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10665"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:10",
+      "investigative_direction": "Collect archived TPUSA and third-party bios of Erika Kirk and date each claimed credential.",
+      "transcript_snippet": "she's put it on bios, so this is not like, oh, this was one mistake and I had an intern that typed a button wrong.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12989",
+      "ref": "C-12989",
+      "label": "Host Says Erika Did Receive a Master's From Liberty University Online",
+      "claim": "The host says Erika Kirk did receive a master's degree from Liberty University online.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11104",
+        "N-10665"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:00",
+      "investigative_direction": "Verify the master's degree and field with Liberty University's registrar or degree verification service.",
+      "transcript_snippet": "she did receive her master's um from Liberty University online",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12990",
+      "ref": "C-12990",
+      "label": "Host Says Bride of Charlie Left Out Erika's Educational Background",
+      "claim": "The host says the Bride of Charlie series did not cover that Erika Kirk's whole educational background was made up, because there were too many lies to include.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10665"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:00",
+      "investigative_direction": "Compare the Bride of Charlie episodes with the later credential claims to confirm the topic was not covered.",
+      "transcript_snippet": "We never even covered that the whole educational background is made up",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12991",
+      "ref": "C-12991",
+      "label": "Host Says Critics Call Nick Shirley Fed Jacketed",
+      "claim": "The host says people online call Nick Shirley fed jacketed, meaning he is being created by the media, and that she stumbled into the beef by accident.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10666"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:42",
+      "investigative_direction": "Identify who is using the term and what they cite for the claim that Shirley is media-created.",
+      "transcript_snippet": "like he's this the term that they use here is fed jacketed. Like essentially, he's being created by the media.",
+      "mentions_person_refs": [
+        "N-217"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12992",
+      "ref": "C-12992",
+      "label": "Host Says She Covered Shirley on Her September 10 Show and Owned a Mistake",
+      "claim": "The host says she covered the person on her September 10 show while working through timelines, made a mistake that she owned, and spoke with him right after the assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10666"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:20",
+      "investigative_direction": "Review the host's September 10 show and her follow-up conversation with the person for what was said and corrected.",
+      "transcript_snippet": "That's the reason I covered him on the show on September 10th when I was trying to work through timelines and I made a mistake.",
+      "mentions_person_refs": [
+        "N-217",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12993",
+      "ref": "C-12993",
+      "label": "Host Says Shirley Is Known for Uncovering Somali Daycare Welfare Fraud",
+      "claim": "The host says the person is credited with uncovering massive welfare fraud in the Somali community in Minnesota, including daycare fraud, which she did not follow.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10666"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:20",
+      "investigative_direction": "Review the Minnesota daycare fraud reporting and the charging records that followed.",
+      "transcript_snippet": "they say, Nick Fuentes has uncovered massive welfare fraud in the Somalian community in Minnesota.",
+      "supports_claim_refs": [
+        "C-8531"
+      ],
+      "mentions_person_refs": [
+        "N-217"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12994",
+      "ref": "C-12994",
+      "label": "Host Says Her Remark Trended and Figures Like Tim Pool Backed Shirley",
+      "claim": "The host says that after she questioned the video it trended the next day and people she trusts least, including Tim Pool, wrote statements in support of Nick Shirley.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10666",
+        "N-11287"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:26:59",
+      "investigative_direction": "Collect the posts defending Shirley and their timing relative to the host's remark.",
+      "transcript_snippet": "it was like trending and all of these people, the people I trust the least, by the way. I mean, like Tim Pool, everyone's like writing these statements",
+      "mentions_person_refs": [
+        "N-217",
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12995",
+      "ref": "C-12995",
+      "label": "Host Says a PBD Guest Said She Had Not Spoken to Charlie Since 2019",
+      "claim": "The host says Patrick Bet-David hosted a person who said she had not spoken to Charlie since 2019, and acknowledges that she and Charlie had not spoken.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10059"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:59",
+      "investigative_direction": "Identify the guest and episode, and compare with the host's records of contact with Charlie Kirk after 2019.",
+      "transcript_snippet": "he notoriously hosted the person who said I didn't speak to Charlie since, you know, 2019. We hadn't spoken.",
+      "mentions_person_refs": [
+        "N-57",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12996",
+      "ref": "C-12996",
+      "label": "Host Says She and Charlie Were at War With Each Other",
+      "claim": "The host says she and Charlie Kirk were at war with each other during the period they did not speak.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:05",
+      "investigative_direction": "Compare with the host's other accounts of her relationship with Charlie Kirk and any messages from that period.",
+      "transcript_snippet": "We were at war with each other. Whatever. I don't care.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12997",
+      "ref": "C-12997",
+      "label": "Host Says PBD Feigned Ignorance of Her Remark About Shirley",
+      "claim": "The host says Patrick Bet-David pretended to have no idea about her remark and already knew she had said it, and calls the exchange contrived.",
+      "anchored_artifacts": [
+        "A-2073.2"
+      ],
+      "related_nodes": [
+        "N-10666"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:28:05",
+      "investigative_direction": "Review the full PBD interview and PBD's earlier statements about Shirley to see whether he had addressed the host's remark before.",
+      "transcript_snippet": "PBD's pretending he had no idea. He completely already knew I said this.",
+      "mentions_person_refs": [
+        "N-57",
+        "N-217"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12998",
+      "ref": "C-12998",
+      "label": "Host Says Shirley Made Videos Infiltrating Antifa and El Salvador at 23",
+      "claim": "The host says Nick Shirley has presented infiltrating antifa and infiltrating El Salvador at the age of 23, which she suggests implies a contact behind him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10666"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:29:35",
+      "investigative_direction": "Review Shirley's antifa and El Salvador videos for sourcing and the access he claims.",
+      "transcript_snippet": "whoever is your contact that has you infiltrating antifa and infiltrating El Salvador at the age of 23 years old",
+      "mentions_person_refs": [
+        "N-217"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12999",
+      "ref": "C-12999",
+      "label": "PBD Asks Whether Shirley Is Being Called a Handler's Asset",
+      "claim": "In the clip, Patrick Bet-David asks whether the host was suggesting Shirley has a handler or is representing somebody.",
+      "anchored_artifacts": [
+        "A-2073.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:30:15",
+      "investigative_direction": "Watch the PBD interview segment and transcribe the full exchange.",
+      "transcript_snippet": "Meaning your your handler or you're representing somebody?",
+      "mentions_person_refs": [
+        "N-57",
+        "N-217"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13000",
+      "ref": "C-13000",
+      "label": "Shirley Says Podcasters Should Leave Their Studios and Do Journalism",
+      "claim": "In the PBD clip, Nick Shirley says podcasters should leave their studios and do journalism so they would see that things sometimes just happen.",
+      "anchored_artifacts": [
+        "A-2073.2"
+      ],
+      "related_nodes": [
+        "N-10666"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:15",
+      "investigative_direction": "Obtain the PBD episode and confirm the quote and context.",
+      "transcript_snippet": "maybe if these podcasters would actually leave their podcast studios, no offense, Pat, uh they leave their podcast studios and go and like do journalism, like they'd actually see like stuff just sometimes just happens.",
+      "mentions_person_refs": [
+        "N-217",
+        "N-57"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13001",
+      "ref": "C-13001",
+      "label": "Host Calls Shirley a Mormon Kid From Utah",
+      "claim": "The host refers to Nick Shirley as a Mormon kid from Utah.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10666"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:31:38",
+      "investigative_direction": "Check Shirley's own statements about his religion and home state.",
+      "transcript_snippet": "A Mormon kid from Utah with the camera",
+      "supports_claim_refs": [
+        "C-8533"
+      ],
+      "mentions_person_refs": [
+        "N-217"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13002",
+      "ref": "C-13002",
+      "label": "Host Says She Lived in South America for Two Months to Learn Spanish",
+      "claim": "The host says she moved to South America for two months to learn Spanish and was told not to wear jewelry or makeup or look American.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:31:38",
+      "investigative_direction": "This is the host's own biography and could only be checked against her travel records.",
+      "transcript_snippet": "I moved down to South America for 2 months to learn Spanish with very strict instructions.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13003",
+      "ref": "C-13003",
+      "label": "Host Says Erika Laughed About Emojis on a Zoom Call Six Days After the Assassination",
+      "claim": "The host says Erika Kirk was on a Zoom call laughing about emojis six days after her husband was assassinated.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:48",
+      "investigative_direction": "Obtain the recording or leaked audio of the TPUSA staff Zoom call and locate the emoji exchange.",
+      "transcript_snippet": "it is not normal for a woman whose husband was assassinated in broad daylight to 6 days later be on a Zoom call laughing about emojis.",
+      "supports_claim_refs": [
+        "C-2206"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13004",
+      "ref": "C-13004",
+      "label": "Host Says Shirley Claims He Went to Cuba and Was Almost Taken Hostage",
+      "claim": "The host says Nick Shirley claims he went to Cuba and was almost taken hostage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10963",
+        "N-10666"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:34",
+      "investigative_direction": "Review Shirley's Cuba video and posts for what he says happened and when.",
+      "transcript_snippet": "He claims he he went to Cuba. He was almost taken hostage.",
+      "mentions_person_refs": [
+        "N-217"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13005",
+      "ref": "C-13005",
+      "label": "Headline Says US Spy Flights Over Cuba Are Surging and New Sanctions Are in Place",
+      "claim": "The host reads a headline from the previous day asking whether the US will invade Cuba, reporting that spy flights there are surging and there are new sanctions.",
+      "anchored_artifacts": [
+        "A-3238.1"
+      ],
+      "related_nodes": [
+        "N-10963"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:37:14",
+      "investigative_direction": "Find the headline and underlying article and the flight-tracking and sanctions data it cites.",
+      "transcript_snippet": "And of course, this headline from yesterday, \"Will the US invade Cuba?\" It tells us that spy flights there are surging. There are new sanctions."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13006",
+      "ref": "C-13006",
+      "label": "Host Says the CIA Is Involved in Cuba at This Moment",
+      "claim": "The host asserts that the CIA is involved in Cuba at this moment.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10963"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:37:14",
+      "investigative_direction": "No source is given on air; any reporting on current CIA activity in Cuba would be needed.",
+      "transcript_snippet": "And we all know the CIA is involved in Cuba at this moment."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13007",
+      "ref": "C-13007",
+      "label": "Host Says Charlie Would Have Laughed at the Drewski Skit but Erika Took It Seriously",
+      "claim": "The host says Charlie would have laughed at the Drewski skit mocking Erika, but Erika took it deadly seriously.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11356"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:55",
+      "investigative_direction": "Locate the Druski skit and Erika Kirk's or TPUSA's public response to it.",
+      "transcript_snippet": "Charlie would have laughed at that stuff, but we see that Erika has taken the Druski skit deadly serious for some reason.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-602"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13008",
+      "ref": "C-13008",
+      "label": "Host Says Kolvet and Others Tried to Make the Skit Racial",
+      "claim": "The host says people including Andrew Kolvet tried to turn the Drewski skit about Erika into a racial issue.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11356"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:41:46",
+      "investigative_direction": "Find Kolvet's and other TPUSA figures' posts characterizing the skit as racial.",
+      "transcript_snippet": "the people that were trying to turn that into something racial, like Andrew Kolvet, now do like black conservatives.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-602",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13009",
+      "ref": "C-13009",
+      "label": "Host Says Drewski Also Mocks Vietnamese People in a Nail Salon Skit",
+      "claim": "The host says Drewski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11356"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:41:46",
+      "investigative_direction": "Locate the nail salon skit and its date.",
+      "transcript_snippet": "He dressed up like he was Vietnamese person, did this whole nail salon thing.",
+      "mentions_person_refs": [
+        "N-602"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13010",
+      "ref": "C-13010",
+      "label": "Host Says Drewski Posted a Video Last Week Targeting Black British Actors",
+      "claim": "The host says Drewski posted a massive video the previous week that targeted black British actors.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11356"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:41:46",
+      "investigative_direction": "Locate the video and its date.",
+      "transcript_snippet": "just last week he dropped a massive video where he was targeting black British actors and it was hilarious and we just laughed at it.",
+      "mentions_person_refs": [
+        "N-602"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13011",
+      "ref": "C-13011",
+      "label": "Host Says JD Vance Lectured the Audience When Erika Did Not Show Up",
+      "claim": "The host says that when Erika Kirk did not show up to an event, JD Vance lectured the audience.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:01",
+      "investigative_direction": "Identify the event and review Vance's remarks and Erika Kirk's stated reason for not attending.",
+      "transcript_snippet": "she doesn't show up to an event and you have JD Vance lecture us.",
+      "supports_claim_refs": [
+        "C-11446"
+      ],
+      "mentions_person_refs": [
+        "N-4",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13012",
+      "ref": "C-13012",
+      "label": "Host Alleges Erika Made an AI Video of Charlie Saying He Wanted Her",
+      "claim": "The host alleges that Erika Kirk made a whole AI video saying her husband wanted her to lead, which she says everyone knows spiritually is untrue.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:01",
+      "investigative_direction": "Forensic audio analysis of the released clip and the original Aspen recording, and testimony from event staff and the donors present.",
+      "transcript_snippet": "you wanted to be Charlie Kirk so bad that you allegedly made a whole AI video saying your husband wanted you",
+      "supports_claim_refs": [
+        "C-2888"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13013",
+      "ref": "C-13013",
+      "label": "Host Says Charlie Did Not Change His Mind Two Weeks Before He Died",
+      "claim": "The host says Charlie did not change his mind about women two weeks before he died and that there are hours of footage of him saying women should stay home.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:51",
+      "investigative_direction": "Compile dated Charlie Kirk clips on women and work to test whether his stated position changed.",
+      "transcript_snippet": "Charlie didn't change his mind 2 weeks before he died. We know what he thought. We have hours and hours and hours and hours of footage of Charlie Kirk saying women should stay home.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13014",
+      "ref": "C-13014",
+      "label": "Comment Says The Quartering Faces a Potential Lawsuit Over False Flagging and Doxing",
+      "claim": "A comment read by the host says The Quartering is facing a potential lawsuit involving false flagging, deplatforming other YouTube channels, doxing and harassment; the host says she did not know about it.",
+      "anchored_artifacts": [
+        "A-3239.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:45:18",
+      "investigative_direction": "Search court dockets for any complaint against The Quartering and who is suing.",
+      "transcript_snippet": "the Quartering has messed with you on X and is now facing a potential lawsuit involving false flagging and deplatforming other YouTube channels, as well as for doxing and harassment.",
+      "mentions_person_refs": [
+        "N-160",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13015",
+      "ref": "C-13015",
+      "label": "Host Says She Is Considering Publishing Everything Online Like Bryan Freedman",
+      "claim": "The host says she is thinking of putting the whole record online, as Bryan Freedman did in the Lively and Baldoni dispute, because she has nothing to hide.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10649"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:45:18",
+      "investigative_direction": "Watch for the host's publication of the Fort Huachuca timeline, messages and documents.",
+      "transcript_snippet": "I'm thinking about doing the Bryan Freedman thing, which was obviously a lawyer Blake Lively Justin Baldoni, where he just put it all online cuz I have nothing to hide.",
+      "mentions_person_refs": [
+        "N-901",
+        "N-490",
+        "N-491",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13016",
+      "ref": "C-13016",
+      "label": "Host Says Mitch's Friend Emailed Her and She Called Mitch",
+      "claim": "The host says Mitch's friend emailed her, she called him, and he told his story.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:18",
+      "investigative_direction": "The host's original email and call log would show who made first contact.",
+      "transcript_snippet": "it was Mitch's friend that emailed me, and I called him, and he said his story.",
+      "mentions_person_refs": [
+        "N-366",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13017",
+      "ref": "C-13017",
+      "label": "Host Says Mitch Saw Erika on the 8th Not Leaving a Meeting",
+      "claim": "The host says Mitch was clear that he saw both Brian Harpole and Erika, and that he saw Erika on the 8th and she was not leaving a meeting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:18",
+      "investigative_direction": "Obtain Mitch's account with hotel and base records for September 8 and 9, 2025.",
+      "transcript_snippet": "He was clear that he saw Brian Harpole and he saw Erika. But, he said he saw Erika Kirk on the 8th, and she wasn't leaving a meeting.",
+      "supports_claim_refs": [
+        "C-1973",
+        "C-6761"
+      ],
+      "mentions_person_refs": [
+        "N-366",
+        "N-270",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13018",
+      "ref": "C-13018",
+      "label": "Host Says Mitch Saw Harpole Leaving the Meeting on the 9th When the Cops Were Called",
+      "claim": "The host says Mitch saw Brian Harpole on the 9th as he was leaving the meeting on the Fort Huachuca base, which was when the cops were called.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:46:33",
+      "investigative_direction": "Request Fort Huachuca police call logs for September 9, 2025.",
+      "transcript_snippet": "Brian Harpole he saw on the 9th, and he was leaving the meeting on Fort Huachuca base, and that was when the cops were called, all of that.",
+      "supports_claim_refs": [
+        "C-6758"
+      ],
+      "mentions_person_refs": [
+        "N-366",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13019",
+      "ref": "C-13019",
+      "label": "Host Says Mitch Saw Erika at a Hotel Not Tied to the Meeting and Not With Harpole",
+      "claim": "The host says Mitch saw Erika at a hotel, that sighting was not related to the meeting, and he did not see her with Brian Harpole.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:46:33",
+      "investigative_direction": "Candlewood hotel records and security footage for September 8, 2025.",
+      "transcript_snippet": "he saw her at a hotel. It wasn't related to the meeting. He didn't see her with Brian",
+      "mentions_person_refs": [
+        "N-366",
+        "N-2",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13020",
+      "ref": "C-13020",
+      "label": "Host Says Erika's Mother and Stepfather Have Government Contracts",
+      "claim": "The host says she knew Erika Kirk's mother and stepfather have contracts with the government, giving many other reasons Erika could have been at the Fort Huachuca airbase.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:33",
+      "investigative_direction": "Federal contract databases (SAM.gov, USAspending) for the mother's and stepfather's companies.",
+      "transcript_snippet": "I knew that her mom and her stepdad have contracts with the government.",
+      "supports_claim_refs": [
+        "C-6901"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13021",
+      "ref": "C-13021",
+      "label": "Host Says Her First Presentation Left Erika Out Entirely",
+      "claim": "The host says that when she first presented the story she told Mitch's background and said only that he saw Brian Harpole on the 9th, removing Erika from it entirely.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:46:33",
+      "investigative_direction": "Rewatch the host's first Mitch segment to confirm Erika was not named.",
+      "transcript_snippet": "I said he saw Brian Harpole on the 9th, right? Removed Erika from it entirely.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-270",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13022",
+      "ref": "C-13022",
+      "label": "Host Says Erika Went on Harris Faulkner the Next Day Fired Up About Conspiracy Theories",
+      "claim": "The host says that the day after her first presentation, Erika went on Harris Faulkner's Fox show and for the first time was fired up, telling people to stop conspiracy theories.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:28",
+      "investigative_direction": "Pull the Fox News broadcast and match its date to the host's first Mitch segment.",
+      "transcript_snippet": "Harris Faulkner, she went on that show and then she was all fired up for the first time and like stop conspiracy theories you need to stop. That was the very next day.",
+      "supports_claim_refs": [
+        "C-8066"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-807",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13023",
+      "ref": "C-13023",
+      "label": "Host Says the Bari Weiss Interview Clip Cut Erika Addressing the Podcaster Candace Owens",
+      "claim": "The host says that the day after the Faulkner interview Erika did Bari Weiss and they cut a clip of her answering what she has to say to the podcaster Candace Owens.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10349"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:28",
+      "investigative_direction": "Obtain the full CBS interview and the cut clip.",
+      "transcript_snippet": "Then the day after that she did Bari Weiss and they cut the clip of her saying, \"What do you have to say to the podcaster Candace Owens?\"",
+      "mentions_person_refs": [
+        "N-2",
+        "N-282",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13024",
+      "ref": "C-13024",
+      "label": "Host Says She Later Learned the Question Segment Was Planned",
+      "claim": "The host says she later found out that Erika's side had planned the question-and-answer segment about her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10349"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:28",
+      "investigative_direction": "Identify the source of the host's later information and any CBS or TPUSA communications about the question.",
+      "transcript_snippet": "I then would later find out that they had planned that the question answer segment",
+      "mentions_person_refs": [
+        "N-2",
+        "N-282",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13025",
+      "ref": "C-13025",
+      "label": "Host Says Justin Streiff Emailed Her Team While the Show Was Off for the Weekend",
+      "claim": "The host says Justin Streiff emailed her team while the show was off for the weekend, after the Bari Weiss segment.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:28",
+      "investigative_direction": "Obtain the Streiff email, its date and content.",
+      "transcript_snippet": "Justin Streiff emails us and we're off for the weekend",
+      "mentions_person_refs": [
+        "N-15",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13026",
+      "ref": "C-13026",
+      "label": "Host Says Ian Carroll Called as Valhalla Already Threatened Her Not to Interview Mitch",
+      "claim": "The host says Ian Carroll called her while the Valhalla YouTuber was already threatening her not to interview Mitch, and that she was threatened with a lawsuit before she even interviewed him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11001",
+        "N-10899"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:28",
+      "investigative_direction": "Obtain the threatening messages, the call record with Ian Carroll and the date of each.",
+      "transcript_snippet": "I get Ian Carroll calling me and he's got Paramount Tactical I mean uh Valhalla the YouTuber Green Beret basically already threatening me like don't don't interview Mitch.",
+      "mentions_person_refs": [
+        "N-131",
+        "N-366",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13027",
+      "ref": "C-13027",
+      "label": "Host Says She Was Threatened With a Lawsuit Before Interviewing Mitch",
+      "claim": "The host says she was threatened with a lawsuit before she had even interviewed Mitch.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11001",
+        "N-10899"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:28",
+      "investigative_direction": "Obtain the written threat and identify its sender.",
+      "transcript_snippet": "So I'm getting threatened with a lawsuit before I even interview Mitch and I'm like dude, what's up?",
+      "mentions_person_refs": [
+        "N-366",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13028",
+      "ref": "C-13028",
+      "label": "Host Says She Messaged Harpole Offering a Chance to Debunk Mitch",
+      "claim": "The host says she messaged Brian Harpole offering him the chance to debunk Mitch's account before the interview.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:53",
+      "investigative_direction": "Produce the host's message to Harpole and its timestamp.",
+      "transcript_snippet": "So I message Brian Harpole and I'm like, \"Hey, like I'm going to have this guy Mitch on but like we could I could also like if you want to debunk it I'm happy to do.",
+      "supports_claim_refs": [
+        "C-5398"
+      ],
+      "mentions_person_refs": [
+        "N-270",
+        "N-366",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13029",
+      "ref": "C-13029",
+      "label": "Host Says Harpole Did Not Answer Her Message",
+      "claim": "The host says Brian Harpole did not answer her message.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:53",
+      "investigative_direction": "The message thread would show delivery and any reply.",
+      "transcript_snippet": "I haven't yet had Mitch on. He doesn't answer.",
+      "supports_claim_refs": [
+        "C-6837"
+      ],
+      "mentions_person_refs": [
+        "N-270",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13030",
+      "ref": "C-13030",
+      "label": "Host Says the Erika Meeting Was Scheduled in Her Show Block With a Ceasefire",
+      "claim": "The host says Erika's side scheduled the meeting during the block when she would normally record her show and proposed a ceasefire in which no one would talk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10649"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:53",
+      "investigative_direction": "Obtain the scheduling messages for the December 15 meeting.",
+      "transcript_snippet": "They scheduled it during the block where I would normally have my show. They said let's have a ceasefire. No one's going to talk",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13031",
+      "ref": "C-13031",
+      "label": "Host Says TPUSA Boosted Paramount Tactical During Her Four-Hour Meeting",
+      "claim": "The host says that during the ceasefire TPUSA boosted Paramount Tactical to try to debunk her on the show while she was in a hotel for four hours.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:53",
+      "investigative_direction": "Review the broadcast and TPUSA's channels for the date and time Paramount Tactical was featured.",
+      "transcript_snippet": "and then they boosted Paramount Tactical basically trying to debunk me on the show while I was in a hotel for 4 hours.",
+      "supports_claim_refs": [
+        "C-9930"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13032",
+      "ref": "C-13032",
+      "label": "Host Says Erika Claimed a Communication Breakdown With Harpole and No Authorization for Shawn Ryan",
+      "claim": "The host says Erika told her TPUSA was very upset with Brian Harpole, had a communication breakdown with him and never authorized him to go on the Shawn Ryan show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10862"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:33",
+      "investigative_direction": "Compare with Harpole's statements about whether TPUSA approved his Shawn Ryan appearance.",
+      "transcript_snippet": "she said to me that they were very upset with Brian Harpole that they were not they had a communication breakdown with him. They never authorized him to go on the Shawn Ryan show",
+      "supports_claim_refs": [
+        "C-3997"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-270",
+        "N-228"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13033",
+      "ref": "C-13033",
+      "label": "Host Says She Clocked Erika in a Couple of Lies During the Meeting",
+      "claim": "The host says Erika had already told her a couple of lies by that point and that she noted them but chose to go easy so Erika would keep talking.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10649"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:50:10",
+      "investigative_direction": "The host's notes or recording of the meeting would identify the statements.",
+      "transcript_snippet": "At that point, she had already told me a couple of lies, so I was on the like, \"Okay, let's go easy.\" Clocked her on a couple of lies, but I didn't want her to stop talking.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13034",
+      "ref": "C-13034",
+      "label": "Host Says Justin Asked When Her Show Goes Off Air Before Christmas",
+      "claim": "The host says Justin Streiff asked when her show goes off air as Christmas approached, and she felt it was an attempt to get her not to interview Mitch.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10649"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:50:10",
+      "investigative_direction": "The host's notes and any witnesses to the question.",
+      "transcript_snippet": "\"When is your show off air?\" cuz we were coming up on Christmas, and I was like, \"Well, in a couple of days, actually.\"",
+      "mentions_person_refs": [
+        "N-15",
+        "N-3",
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13035",
+      "ref": "C-13035",
+      "label": "Host Says She Interviewed Mitch on the 18th",
+      "claim": "The host says she interviewed Mitch on the 18th, after Harpole did not respond and Erika's alibi did not cover him, and Mitch said he saw Erika on the 8th.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:50:57",
+      "investigative_direction": "The episode's air date and the host's publication log.",
+      "transcript_snippet": "And then I interviewed him. I did it on the 18th.",
+      "mentions_person_refs": [
+        "N-366",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13036",
+      "ref": "C-13036",
+      "label": "Host Says Valhalla Messages Threatened to Ruin Her Unless She Revoked Her Fort Huachuca Commentary",
+      "claim": "The host says messages from Valhalla explicitly threatened to bury her in everything Mitch has done in his past unless she revoked her Fort Huachuca commentary, saying he was talking to Mitch's ex-wife.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11001",
+        "N-10899"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:50:57",
+      "investigative_direction": "Obtain the Valhalla messages and their metadata.",
+      "transcript_snippet": "if she does not like basically revoke her commentary about Fort Huachuca, we're going to basically bury her in everything Mitch has done in his past.",
+      "supports_claim_refs": [
+        "C-9929"
+      ],
+      "mentions_person_refs": [
+        "N-366",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13037",
+      "ref": "C-13037",
+      "label": "Host Says Paramount Tactical and Valhalla Called Mitch and Played Good Cop",
+      "claim": "The host says Paramount Tactical and Valhalla called Mitch and played good cop, inviting him on as a fellow Green Beret.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899",
+        "N-11001"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:51:41",
+      "investigative_direction": "Obtain Mitch's account and any recording of the calls.",
+      "transcript_snippet": "They were like, \"Yeah, brother. Like uh we'd love to have have on the show, fellow green green beret.\"",
+      "supports_claim_refs": [
+        "C-6763"
+      ],
+      "mentions_person_refs": [
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13038",
+      "ref": "C-13038",
+      "label": "Host Says They Told Her It Was a Case of Stolen Valor",
+      "claim": "The host says Paramount Tactical and Valhalla told her the opposite of what they told Mitch, that it was a case of stolen valor.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899",
+        "N-11001"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:51:41",
+      "investigative_direction": "Compare their messages to the host with their calls to Mitch.",
+      "transcript_snippet": "they were telling me the opposite or trying to tell me the opposite that this is a a case of stolen valor.",
+      "mentions_person_refs": [
+        "N-366",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13039",
+      "ref": "C-13039",
+      "label": "Host Says Paramount Tactical Accidentally Read Erika's Alibi Live",
+      "claim": "The host says Paramount Tactical accidentally read Erika's alibi live on his show even though it said please don't share.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:51:41",
+      "investigative_direction": "Review the Paramount Tactical stream for the moment the message was read.",
+      "transcript_snippet": "accidentally Paramount Tactical read Erika's alibi um live on his show when it said please don't share.",
+      "supports_claim_refs": [
+        "C-3904"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13040",
+      "ref": "C-13040",
+      "label": "Host Says She Had Known the Photo's Children Were Not Erika's",
+      "claim": "The host says she knew the children in the alibi photo were not Erika's and did not share that she knew.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:51:41",
+      "investigative_direction": "Identify the host's source for the knowledge; do not identify the children.",
+      "transcript_snippet": "I didn't even share the fact that I knew that that was not her kids.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13041",
+      "ref": "C-13041",
+      "label": "Host Says They Could Have Texted Her Instead of Going Through YouTubers",
+      "claim": "The host says that because Erika and she had just sat down, they could have texted her the alibi, but instead went behind the scenes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:10",
+      "investigative_direction": "The host's phone and message records would show whether any text was sent.",
+      "transcript_snippet": "Erika and I had just sat down. So they could have just texted me and said hey just so you know",
+      "supports_claim_refs": [
+        "C-9928"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13042",
+      "ref": "C-13042",
+      "label": "Host Says Erika Told Her TPUSA Hired Crisis PR",
+      "claim": "The host says Erika Kirk told her TPUSA had hired crisis PR and were moving Andrew Kolvet out of PR.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11182"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:10",
+      "investigative_direction": "Identify the crisis PR firm and its contract date.",
+      "transcript_snippet": "after she told me that they had hired crisis PR, and they were moving Andrew out of out of PR.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13043",
+      "ref": "C-13043",
+      "label": "Host Says Erika Said Kolvet Was Moved Completely Off PR as an Unmitigated Disaster",
+      "claim": "The host says Erika told her TPUSA was moving Kolvet completely off PR because he had been an unmitigated disaster, though she cannot recall whether Erika said he would be fired.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11312",
+        "N-11182"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:10",
+      "investigative_direction": "Compare with Kolvet's public roles on TPUSA broadcasts after the meeting.",
+      "transcript_snippet": "she said they were moving him completely off of PR, full stop, and they had stopped using him because he had been an unmitigated disaster.",
+      "supports_claim_refs": [
+        "C-9931"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13044",
+      "ref": "C-13044",
+      "label": "Host Says Erika Lied About Andrew Going Rogue",
+      "claim": "The host says Erika was lying when she said Andrew went rogue, because Kolvet was coordinating the Paramount Tactical and Valhalla response.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11109"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:10",
+      "investigative_direction": "Compare Erika's rogue account with the Kolvet to Paramount Tactical messages.",
+      "transcript_snippet": "That was when she was lying about Andrew went rogue, Andrew went rogue.",
+      "supports_claim_refs": [
+        "C-5562"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13045",
+      "ref": "C-13045",
+      "label": "Host Says Mitch Had Videos Proving He Was There",
+      "claim": "The host says she fact-checked enough to know Mitch was there and that he had videos.",
+      "anchored_artifacts": [
+        "A-3240.1"
+      ],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:10",
+      "investigative_direction": "Obtain and authenticate Mitch's videos and metadata.",
+      "transcript_snippet": "I obviously fact-checked enough to know that Mitch was there. He had the videos.",
+      "supports_claim_refs": [
+        "C-1987"
+      ],
+      "mentions_person_refs": [
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13046",
+      "ref": "C-13046",
+      "label": "Host Says She Obtained Mitch's Hotel Reservation and Confirmed His ID Tags Were Real",
+      "claim": "The host says she had Mitch's hotel reservation and confirmed with a source that his military ID tags were real.",
+      "anchored_artifacts": [
+        "A-3240.1"
+      ],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:54:26",
+      "investigative_direction": "Candlewood reservation records and military ID tag verification.",
+      "transcript_snippet": "I had his hotel reservation. I had um I had confirmed with a source that his ID tags were real, the military ID tags.",
+      "supports_claim_refs": [
+        "C-1987",
+        "C-8102"
+      ],
+      "mentions_person_refs": [
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13047",
+      "ref": "C-13047",
+      "label": "Host Says the Reaction Moved Her From 40/60 or 30/70 Toward Believing Mitch",
+      "claim": "The host says the reaction she received moved her from 40/60, maybe 30/70, toward believing the Fort Huachuca account.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:54:26",
+      "investigative_direction": "The host's own earlier statements on her confidence levels.",
+      "transcript_snippet": "So, they took me from being 40/60, maybe even 30/70.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13048",
+      "ref": "C-13048",
+      "label": "Host Says Harpole's Lawsuit Contains Lies but Does Not Show He Was Not at Fort Huachuca",
+      "claim": "The host says the number of times Bryan Harpole lies in the lawsuit does not make her think he was not at Fort Huachuca.",
+      "anchored_artifacts": [
+        "A-3241.1"
+      ],
+      "related_nodes": [
+        "N-10862",
+        "N-10373"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:54:26",
+      "investigative_direction": "Compare the filing's factual statements with the record.",
+      "transcript_snippet": "And the amount of times that Bryan Harpole lies in this lawsuit on its face, to me, does not make me think he was not at Fort Huachuca.",
+      "mentions_person_refs": [
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13049",
+      "ref": "C-13049",
+      "label": "Host Says Harpole's Filing Claims She Had His Alibi, Which She Says Is Untrue",
+      "claim": "The host says Brian Harpole's filing claims she had his alibi and that the filers know that is objectively untrue.",
+      "anchored_artifacts": [
+        "A-3241.1"
+      ],
+      "related_nodes": [
+        "N-10862"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:54:26",
+      "investigative_direction": "Read the complaint paragraph on the alibi and compare with the host's account.",
+      "transcript_snippet": "Him saying Candace had his alibi, they know that is objectively not true.",
+      "mentions_person_refs": [
+        "N-270",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13050",
+      "ref": "C-13050",
+      "label": "Host Says Harpole's Filing Blames Her for His Shawn Ryan Appearance Though She Had Not Mentioned Him",
+      "claim": "The host says the filing says Harpole went on Shawn Ryan because of the grief she put him through, although she never mentioned him on her show until after the Ryan appearance.",
+      "anchored_artifacts": [
+        "A-3241.1"
+      ],
+      "related_nodes": [
+        "N-10862"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:55:19",
+      "investigative_direction": "Compare the airing dates of the host's first Harpole mention and the Shawn Ryan interview.",
+      "transcript_snippet": "Why are you saying he went on Shawn Ryan because of the grief that I put him through, knowing fully well that I never mentioned him on my show until post-Shawn Ryan?",
+      "supports_claim_refs": [
+        "C-2817",
+        "C-2816"
+      ],
+      "mentions_person_refs": [
+        "N-270",
+        "N-228",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13051",
+      "ref": "C-13051",
+      "label": "Host Says She Messaged Harpole Four Times",
+      "claim": "The host says she messaged Brian Harpole four times.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:55:19",
+      "investigative_direction": "The message thread would show the count; earlier episodes gave smaller numbers.",
+      "transcript_snippet": "I messaged him four times",
+      "mentions_person_refs": [
+        "N-270",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13052",
+      "ref": "C-13052",
+      "label": "Host Says Harpole Has Not Provided Receipts for the Morning of the 9th",
+      "claim": "The host says Harpole's side has still not provided receipts for his whereabouts on the morning of the 9th.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373",
+        "N-10862"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:55:19",
+      "investigative_direction": "Check the court docket for any submitted alibi evidence.",
+      "transcript_snippet": "They still have not provided any receipts as to his whereabouts on the morning of the 9th and I look forward to getting them.",
+      "mentions_person_refs": [
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13053",
+      "ref": "C-13053",
+      "label": "Host Says Hillsdale Students Messaged Her Upset About Erika Speaking",
+      "claim": "The host says she knew Erika would speak at Hillsdale and many students messaged her that they were upset about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11255"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:56:04",
+      "investigative_direction": "Collect the student messages and any Hillsdale student newspaper coverage.",
+      "transcript_snippet": "I had so many students messaging me that were upset about it.",
+      "supports_claim_refs": [
+        "C-10279"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13054",
+      "ref": "C-13054",
+      "label": "Host Says Erika Is Teaming Up With People Who Bullied Charlie",
+      "claim": "The host says people should hate those who bullied Charlie, and that Erika instead teams up with them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10538"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:56:48",
+      "investigative_direction": "Define who is meant by the bullies and list the joint appearances.",
+      "transcript_snippet": "You shouldn't be teaming up with them. But that's not how Erika lives.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-587"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13055",
+      "ref": "C-13055",
+      "label": "Host Says She Plans a Website With Documents, Messages and Her Timeline",
+      "claim": "The host says she plans to make a website where viewers can read the documents, the messages and the timeline she created of how everything went down.",
+      "anchored_artifacts": [
+        "A-3242.1"
+      ],
+      "related_nodes": [
+        "N-10649"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:59:04",
+      "investigative_direction": "Watch for the launch of the site and its contents.",
+      "transcript_snippet": "I do think we are going to do a website, so you guys can read the documents yourselves and read all the messages and the timeline that I created of how everything went down.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-53",
+      "ref": "M-53",
+      "canonical_term": "False Flag",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:45:18",
+          "speaker_node_ref": "N-3",
+          "quote": "messed with you on X and is now facing a potential lawsuit involving false flagging and deplatforming other YouTube channels, as well as for doxing...",
+          "context": "Later reuse of False Flag in CKA seq 102.",
+          "confidence": "high",
+          "tags": [
+            "staged",
+            "war",
+            "theory",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-226",
+      "ref": "M-226",
+      "canonical_term": "Subway Knife Psycho",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:04:13",
+          "speaker_node_ref": "N-3",
+          "quote": "which means that they do not view him as a psychopathic knife-wielding subway killer.",
+          "context": "Host sarcastically refers to the subway knife comparison.",
+          "confidence": "high",
+          "tags": [
+            "subway",
+            "neff"
+          ]
+        },
+        {
+          "episode": 102,
+          "video_timestamp": "00:13:53",
+          "speaker_node_ref": "N-3",
+          "quote": "Blake Neff and his uh Subway killer scenario",
+          "context": "Host returns to Neff's subway scenario.",
+          "confidence": "high",
+          "tags": [
+            "subway",
+            "neff"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-79",
+      "ref": "M-79",
+      "canonical_term": "Pass the Sniff Test",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:35:48",
+          "speaker_node_ref": "N-3",
+          "quote": "Doesn't pass the sniff test",
+          "context": "Host applies it to Shirley and the Zoom call.",
+          "confidence": "high",
+          "tags": [
+            "sniff test"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-91",
+      "ref": "M-91",
+      "canonical_term": "World of Make-Believe",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:22:45",
+          "speaker_node_ref": "N-3",
+          "quote": "we are kind of barreling toward a society of make-believe",
+          "context": "Host opens the Shirley segment.",
+          "confidence": "high",
+          "tags": [
+            "make-believe"
+          ]
+        },
+        {
+          "episode": 102,
+          "video_timestamp": "00:56:48",
+          "speaker_node_ref": "N-3",
+          "quote": "We're living in make-believe.",
+          "context": "Host answers a commenter.",
+          "confidence": "high",
+          "tags": [
+            "make-believe"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:26:59",
+          "speaker_node_ref": "N-3",
+          "quote": "we're beneath the level of fed slop with this, right?",
+          "context": "Host on the favela video.",
+          "confidence": "high",
+          "tags": [
+            "fed slop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:33:00",
+          "speaker_node_ref": "N-3",
+          "quote": "They're not even giving us good psyops anymore.",
+          "context": "Host on the Shirley video.",
+          "confidence": "high",
+          "tags": [
+            "psyop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:57:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king and genocide is always wrong.",
+          "context": "Host reads viewer Jane's comment.",
+          "confidence": "high",
+          "tags": [
+            "christ is king"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:57:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king and genocide is always wrong.",
+          "context": "Host reads viewer Jane's comment and affirms.",
+          "confidence": "high",
+          "tags": [
+            "genocide"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:57:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Go max.",
+          "context": "Host reads viewer Jane's comment.",
+          "confidence": "high",
+          "tags": [
+            "go max"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:43:01",
+          "speaker_node_ref": "N-3",
+          "quote": "you allegedly made a whole AI video saying your husband wanted you",
+          "context": "Host hedges the AI video accusation.",
+          "confidence": "high",
+          "tags": [
+            "allegedly"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:44:35",
+          "speaker_node_ref": "N-3",
+          "quote": "go away, and pretend to be a grieving widow.",
+          "context": "Host mocks the framing.",
+          "confidence": "high",
+          "tags": [
+            "grieving widow"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-307",
+      "ref": "M-307",
+      "canonical_term": "Dr. Erika Kirk",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:14:43",
+          "speaker_node_ref": "N-3",
+          "quote": "Erika Kirk is maybe she's now Dr. Erika Kirk.",
+          "context": "Host starts the Dr. Kirk bit.",
+          "confidence": "high",
+          "tags": [
+            "dr kirk"
+          ]
+        },
+        {
+          "episode": 102,
+          "video_timestamp": "00:20:00",
+          "speaker_node_ref": "N-3",
+          "quote": "I think we should call her Dr. Erika Kirk.",
+          "context": "Host leans into the bit.",
+          "confidence": "high",
+          "tags": [
+            "dr kirk"
+          ]
+        },
+        {
+          "episode": 102,
+          "video_timestamp": "00:57:26",
+          "speaker_node_ref": "N-3",
+          "quote": "not the magnificent Dr. Kirk.",
+          "context": "Host repeats the bit.",
+          "confidence": "high",
+          "tags": [
+            "dr kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-308",
+      "ref": "M-308",
+      "canonical_term": "Life's Tough, Get a Helmet",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:43:51",
+          "speaker_node_ref": "N-3",
+          "quote": "Life's tough, get a helmet, okay?",
+          "context": "Host to Erika about criticism.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "helmet"
+          ]
+        },
+        {
+          "episode": 102,
+          "video_timestamp": "00:57:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Life's tough, get a helmet.",
+          "context": "Viewer requests merch; host says it may exist.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "helmet"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-309",
+      "ref": "M-309",
+      "canonical_term": "I Dub Thee",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 102,
+          "video_timestamp": "00:43:51",
+          "speaker_node_ref": "N-3",
+          "quote": "I dub thee Erika Kirk, the CEO of Turning Point USA.",
+          "context": "Host mocks the appointment as a royal decree.",
+          "confidence": "high",
+          "tags": [
+            "dub thee",
+            "ceo"
+          ]
+        },
+        {
+          "episode": 102,
+          "video_timestamp": "00:44:35",
+          "speaker_node_ref": "N-3",
+          "quote": "we don't do the king and queen I dub thee stuff here.",
+          "context": "Host repeats.",
+          "confidence": "high",
+          "tags": [
+            "dub thee"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -108,7 +108,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2256",
       "family_ref": "A-2256",
-      "bundle_name": "Andrew Kovac X Post Bundle",
+      "bundle_name": "Andrew Kolvet X Post Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -132,7 +132,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2257",
       "family_ref": "A-2257",
-      "bundle_name": "Blake Nef X Post Bundle",
+      "bundle_name": "Blake Neff X Post Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -180,7 +180,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2259",
       "family_ref": "A-2259",
-      "bundle_name": "Lance Twigs Visual Handedness Evidence Bundle",
+      "bundle_name": "Lance Twiggs Visual Handedness Evidence Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -240,7 +240,7 @@
           "@type": "Artifact",
           "@id": "A-2259.4",
           "ref": "A-2259.4",
-          "description": "Childhood piano recital video (\"My name is Lance Twigs…\") – watch on right hand; left hand turns page",
+          "description": "Childhood piano recital video (\"My name is Lance Twiggs…\") – watch on right hand; left hand turns page",
           "related_claims": [
             "C-3246"
           ],
@@ -409,7 +409,7 @@
           "@type": "Artifact",
           "@id": "A-2262.6",
           "ref": "A-2262.6",
-          "description": "Blake Nef X post – WEF chart claiming US spends least on food",
+          "description": "Blake Neff X post – WEF chart claiming US spends least on food",
           "related_claims": [
             "C-3254"
           ],
@@ -473,13 +473,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2264",
       "family_ref": "A-2264",
-      "bundle_name": "Rabbi Schmoolie Iceland Encounter Video Bundle",
+      "bundle_name": "Rabbi Shmuley Iceland Encounter Video Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2264.1",
           "ref": "A-2264.1",
-          "description": "Video posted by Rabbi Schmoolie of Iceland street confrontation",
+          "description": "Video posted by Rabbi Shmuley of Iceland street confrontation",
           "related_claims": [
             "C-3256"
           ],
@@ -545,6 +545,104 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3252",
+      "family_ref": "A-3252",
+      "bundle_name": "Tip Line Verbal Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3252.1",
+          "ref": "A-3252.1",
+          "description": "Host verbal reference to a tip received on the show's tip line (no address given aloud)",
+          "related_claims": [
+            "C-13193"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-40",
+            "N-10786"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:00:02",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3253",
+      "family_ref": "A-3253",
+      "bundle_name": "UVU Parking Garage Route Map Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3253.1",
+          "ref": "A-3253.1",
+          "description": "Map shown on screen of the route taken through the parking garage versus an alternate street route",
+          "related_claims": [
+            "C-13234"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-40",
+            "N-10791"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:19:31",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3254",
+      "family_ref": "A-3254",
+      "bundle_name": "Viewer Comments Read on Air Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3254.1",
+          "ref": "A-3254.1",
+          "description": "Comment by Dan read aloud",
+          "related_claims": [
+            "C-13269"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-10000"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:55:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3254.2",
+          "ref": "A-3254.2",
+          "description": "Comment by Chewing the Void read aloud",
+          "related_claims": [
+            "C-13270"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:55:37",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -575,9 +673,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10787",
       "ref": "N-10787",
-      "name": "Lance Twigs Handedness Verification",
+      "name": "Lance Twiggs Handedness Verification",
       "type": "investigation_target",
-      "description": "Investigative target: persistent question of whether Lance Twigs is left-handed or ambidextrous, and whether this matches the handedness profile of the maroon-shirt person in the UVU staircase footage.",
+      "description": "Investigative target: persistent question of whether Lance Twiggs is left-handed or ambidextrous, and whether this matches the handedness profile of the maroon-shirt person in the UVU staircase footage.",
       "related_artifacts": [
         "A-2259.1",
         "A-2259.2",
@@ -626,7 +724,7 @@
       "ref": "N-10789",
       "name": "Grocery Affordability Public Debate (2026-08)",
       "type": "investigation_target",
-      "description": "Investigative target: cluster of X posts by Matt Walsh, Joel Barry, Dan Crenshaw, Blake Nef arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.",
+      "description": "Investigative target: cluster of X posts by Matt Walsh, Joel Barry, Dan Crenshaw, Blake Neff arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.",
       "related_artifacts": [
         "A-2262.1",
         "A-2262.2",
@@ -655,7 +753,7 @@
       "ref": "N-10790",
       "name": "Luna / Helluva Boss Cultural Connection",
       "type": "investigation_target",
-      "description": "Investigative target: persistent host theory linking the \"Luna\" hellhound character (furry fandom, pentagram necklace, Helluva Boss) to a persona allegedly associated with Lance Twigs, and connecting the IMP \"assassination company in hell\" premise to the Charlie Kirk case.",
+      "description": "Investigative target: persistent host theory linking the \"Luna\" hellhound character (furry fandom, pentagram necklace, Helluva Boss) to a persona allegedly associated with Lance Twiggs, and connecting the IMP \"assassination company in hell\" premise to the Charlie Kirk case.",
       "related_artifacts": [
         "A-2265.1",
         "A-2266.1"
@@ -680,7 +778,16 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13210",
+        "C-13217",
+        "C-13218",
+        "C-13219",
+        "C-13220",
+        "C-13221",
+        "C-13222",
+        "C-13223"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -696,7 +803,15 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13199",
+        "C-13202",
+        "C-13210",
+        "C-13214",
+        "C-13226",
+        "C-13270",
+        "C-13273"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -712,7 +827,24 @@
       "type": "person",
       "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13193",
+        "C-13227",
+        "C-13228",
+        "C-13229",
+        "C-13230",
+        "C-13231",
+        "C-13232",
+        "C-13234",
+        "C-13236",
+        "C-13238",
+        "C-13241",
+        "C-13243",
+        "C-13250",
+        "C-13251",
+        "C-13258",
+        "C-13259"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -728,7 +860,14 @@
       "type": "person",
       "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3238",
+        "C-3239",
+        "C-3240",
+        "C-3241",
+        "C-3242",
+        "C-3243"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -743,7 +882,88 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13193",
+        "C-13194",
+        "C-13195",
+        "C-13196",
+        "C-13197",
+        "C-13198",
+        "C-13199",
+        "C-13200",
+        "C-13201",
+        "C-13203",
+        "C-13204",
+        "C-13205",
+        "C-13206",
+        "C-13208",
+        "C-13209",
+        "C-13210",
+        "C-13211",
+        "C-13212",
+        "C-13213",
+        "C-13214",
+        "C-13215",
+        "C-13216",
+        "C-13217",
+        "C-13218",
+        "C-13219",
+        "C-13220",
+        "C-13221",
+        "C-13222",
+        "C-13223",
+        "C-13224",
+        "C-13225",
+        "C-13226",
+        "C-13228",
+        "C-13229",
+        "C-13230",
+        "C-13231",
+        "C-13232",
+        "C-13233",
+        "C-13234",
+        "C-13235",
+        "C-13236",
+        "C-13237",
+        "C-13238",
+        "C-13239",
+        "C-13240",
+        "C-13241",
+        "C-13242",
+        "C-13243",
+        "C-13244",
+        "C-13245",
+        "C-13246",
+        "C-13247",
+        "C-13248",
+        "C-13249",
+        "C-13250",
+        "C-13251",
+        "C-13252",
+        "C-13253",
+        "C-13254",
+        "C-13255",
+        "C-13256",
+        "C-13257",
+        "C-13258",
+        "C-13259",
+        "C-13260",
+        "C-13264",
+        "C-13266",
+        "C-13267",
+        "C-13268",
+        "C-13269",
+        "C-13270",
+        "C-13271",
+        "C-13272",
+        "C-13273",
+        "C-13274",
+        "C-13275",
+        "C-13276",
+        "C-13277",
+        "C-13278",
+        "C-13279"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -759,7 +979,28 @@
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13196",
+        "C-13235",
+        "C-13236",
+        "C-13237",
+        "C-13238",
+        "C-13239",
+        "C-13240",
+        "C-13241",
+        "C-13242",
+        "C-13245",
+        "C-13246",
+        "C-13247",
+        "C-13252",
+        "C-13253",
+        "C-13255",
+        "C-13256",
+        "C-13257",
+        "C-13258",
+        "C-13259",
+        "C-13260"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -775,7 +1016,10 @@
       "type": "person",
       "description": "Host on whose show Brendan Carr made FCC remarks",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13226",
+        "C-13227"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -789,9 +1033,13 @@
       "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
-      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13199",
+        "C-13214",
+        "C-13264"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -807,7 +1055,9 @@
       "type": "person",
       "description": "Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13261"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -823,13 +1073,937 @@
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13202",
+        "C-13205",
+        "C-13206",
+        "C-13207"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Frank Turek; the host lists him among TPUSA-linked people she has invited to discuss the case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13199"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host reads his post on working something out with Wilson.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13199",
+        "C-13214",
+        "C-13215"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Brigitte Macron; host's recurring aside about her untracked days.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13195"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Ben Shapiro; his post about the Daily Wire film is read.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13265"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-206",
+      "ref": "N-206",
+      "name": "Lindsay Clancy",
+      "type": "person",
+      "description": "Lindsay Clancy; subject of a viewer question the host answers.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13271",
+        "C-13272"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-245",
+      "ref": "N-245",
+      "name": "Joel Berry",
+      "type": "person",
+      "description": "Joel Barry (listed as Joel Berry in the node list); his burrito posts are read.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13262"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-274",
+      "ref": "N-274",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Dan Flood; the host says he pushed Kirk over to the side.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13221"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-784",
+      "ref": "N-784",
+      "name": "Matt Robinson",
+      "type": "person",
+      "description": "Matt Robinson; the host recounts the dog bed discovery and disputes that he believed his son guilty.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13241",
+        "C-13242",
+        "C-13243"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; alleged backer of Wilson and subject of the fundraiser claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13199",
+        "C-13200",
+        "C-13201",
+        "C-13209",
+        "C-13210",
+        "C-13216",
+        "C-13269",
+        "C-13273"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10011",
+      "ref": "N-10011",
+      "name": "TMZ",
+      "type": "investigation_target",
+      "description": "TMZ; its cameras captured the maroon-shirt person per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13229"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10013",
+      "ref": "N-10013",
+      "name": "Discord",
+      "type": "investigation_target",
+      "description": "Discord; platform where the host says avatar personas are encouraged.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13244"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "Federal Bureau of Investigation; subject of the SUV, footage-blur and raid claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13224",
+        "C-13254",
+        "C-13256",
+        "C-13278"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10022",
+      "ref": "N-10022",
+      "name": "Robinson Father Turn-In Narrative",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13243"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10034",
+      "ref": "N-10034",
+      "name": "Lance Twiggs Family Allegations",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13238",
+        "C-13239"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10041",
+      "ref": "N-10041",
+      "name": "Note Under Keyboard Disposal",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13247"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10043",
+      "ref": "N-10043",
+      "name": "Two-Person Theory (Maroon vs Stairs)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13229",
+        "C-13230",
+        "C-13231",
+        "C-13232"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10044",
+      "ref": "N-10044",
+      "name": "Lance Twiggs Protection Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13255",
+        "C-13256"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10063",
+      "ref": "N-10063",
+      "name": "Gaza",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13268"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10085",
+      "ref": "N-10085",
+      "name": "Exit Wound / Bullet Trajectory Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13218",
+        "C-13220",
+        "C-13222"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10112",
+      "ref": "N-10112",
+      "name": "Lone-Shooter Narrative Critique",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13217"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10143",
+      "ref": "N-10143",
+      "name": "Robinson Apartment Staging Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13241",
+        "C-13242"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10168",
+      "ref": "N-10168",
+      "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13229"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10183",
+      "ref": "N-10183",
+      "name": "Medical Examiner Inquiry – Weiss Amaro",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13244"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13195"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10294",
+      "ref": "N-10294",
+      "name": "Brigitte Macron Schedule Gap September 4–10, 2025",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13195"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10369",
+      "ref": "N-10369",
+      "name": "Charlie Kirk SUV Interior Black Plastic Fragmentation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13223"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10537",
+      "ref": "N-10537",
+      "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13219"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10598",
+      "ref": "N-10598",
+      "name": "Lance Twiggs Federal Asset Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13245",
+        "C-13246",
+        "C-13260"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10634",
+      "ref": "N-10634",
+      "name": "Tyler Robinson Roommate Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13257",
+        "C-13258",
+        "C-13259"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10660",
+      "ref": "N-10660",
+      "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13222"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10670",
+      "ref": "N-10670",
+      "name": "Gaza Humanitarian Foundation Leadership/Operational Pipeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13268"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10679",
+      "ref": "N-10679",
+      "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13260"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10692",
+      "ref": "N-10692",
+      "name": "911 Call Origin in Hospital Transport Vehicle",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13225"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10711",
+      "ref": "N-10711",
+      "name": "Tyler Robinson DNA Most Degraded Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13236"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10729",
+      "ref": "N-10729",
+      "name": "911 Call Identification Gap",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13225"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10740",
+      "ref": "N-10740",
+      "name": "SUV Interior Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13223",
+        "C-13224"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10750",
+      "ref": "N-10750",
+      "name": "911 Call Content Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13225"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10780",
+      "ref": "N-10780",
+      "name": "\"Protecting Mrs. Kirk\" Group Chat Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13273",
+        "C-13274",
+        "C-13279"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10791",
+      "ref": "N-10791",
+      "name": "Parking-Garage Subject Identity Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13233",
+        "C-13234"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10793",
+      "ref": "N-10793",
+      "name": "Tyler Robinson Handedness Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13250",
+        "C-13251"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical",
+      "type": "investigation_target",
+      "description": "Paramount Tactical; the host says he is one of the only men in the influencer chat.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13274"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11053",
+      "ref": "N-11053",
+      "name": "Charlie Kirk Handheld Microphone Custody",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13210"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11065",
+      "ref": "N-11065",
+      "name": "Preliminary Hearing Influencer Invitation Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13226"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11149",
+      "ref": "N-11149",
+      "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13228"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11262",
+      "ref": "N-11262",
+      "name": "Andrew Wilson TPUSA Debate Training Engagement",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13197",
+        "C-13201",
+        "C-13203",
+        "C-13209",
+        "C-13214",
+        "C-13215"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11308",
+      "ref": "N-11308",
+      "name": "TPUSA 4K Video Claim Dispute",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13196",
+        "C-13248",
+        "C-13249",
+        "C-13254",
+        "C-13276"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-934",
+      "ref": "N-934",
+      "name": "Brian Atlas",
+      "type": "person",
+      "description": "First named by the host at 00:02:12 in episode 139.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13197"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-935",
+      "ref": "N-935",
+      "name": "Dan Crenshaw",
+      "type": "person",
+      "description": "First named by the host at 00:41:20 in episode 139.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13263"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-936",
+      "ref": "N-936",
+      "name": "Rabbi Shmuley Boteach",
+      "type": "person",
+      "description": "First named by the host at 00:48:31 in episode 139.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13267"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Wilson Debate Offer and Counter-Terms",
+      "type": "topic",
+      "description": "The sequence of debate offers from Andrew Wilson and the Whatever podcast (50K, about 150K, 300K) and the host's counter-terms (500K, TPUSA on record, no smoking, live debate in her location).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13197",
+        "C-13198",
+        "C-13208",
+        "C-13209",
+        "C-13211",
+        "C-13212",
+        "C-13213",
+        "C-13214",
+        "C-13216",
+        "C-13275"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11362",
+      "ref": "N-11362",
+      "name": "Lance Twiggs DNA and Dremel Claims",
+      "type": "topic",
+      "description": "Host claims that Lance Twiggs's DNA is on the towel and rifle, is less degraded than Tyler Robinson's, and that the Dremel used on the bullets was his.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13235",
+        "C-13236",
+        "C-13237"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -935,8 +2109,8 @@
       "@type": "Claim",
       "@id": "C-3241",
       "ref": "C-3241",
-      "label": "Andrew Kovac states Wilson was paid for one day of debate training",
-      "claim": "Andrew Kovac stated on X that Andrew Wilson was paid for one day of debate training for TPUSA students and the campus debate team, denying he was being \"paid\" in a broader sense.",
+      "label": "Andrew Kolvet states Wilson was paid for one day of debate training",
+      "claim": "Andrew Kolvet stated on X that Andrew Wilson was paid for one day of debate training for TPUSA students and the campus debate team, denying he was being \"paid\" in a broader sense.",
       "anchored_artifacts": [
         "A-2256.1"
       ],
@@ -952,8 +2126,8 @@
       "@type": "Claim",
       "@id": "C-3242",
       "ref": "C-3242",
-      "label": "Blake Nef recommends Wilson's Rogan appearance",
-      "claim": "Blake Nef posted on X recommending Andrew Wilson's Joe Rogan appearance, stating Wilson \"does a great job\" dissecting conspiracy theories and answering Rogan's questions.",
+      "label": "Blake Neff recommends Wilson's Rogan appearance",
+      "claim": "Blake Neff posted on X recommending Andrew Wilson's Joe Rogan appearance, stating Wilson \"does a great job\" dissecting conspiracy theories and answering Rogan's questions.",
       "anchored_artifacts": [
         "A-2257.1"
       ],
@@ -988,8 +2162,8 @@
       "@type": "Claim",
       "@id": "C-3244",
       "ref": "C-3244",
-      "label": "Lance Twigs snowboarding photo shows left-hand landing",
-      "claim": "A displayed snowboarding photo shows Lance Twigs falling onto his left hand, consistent with left-handedness or ambidextercy.",
+      "label": "Lance Twiggs snowboarding photo shows left-hand landing",
+      "claim": "A displayed snowboarding photo shows Lance Twiggs falling onto his left hand, consistent with left-handedness or ambidextercy.",
       "anchored_artifacts": [
         "A-2259.1"
       ],
@@ -998,7 +2172,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:00–00:30:00",
-      "investigative_direction": "Obtain additional Lance Twigs photos/videos showing hand dominance across varied activities.",
+      "investigative_direction": "Obtain additional Lance Twiggs photos/videos showing hand dominance across varied activities.",
       "mentions_person_refs": [
         "N-54"
       ]
@@ -1007,8 +2181,8 @@
       "@type": "Claim",
       "@id": "C-3245",
       "ref": "C-3245",
-      "label": "Lance Twigs fuels with left hand in Texas photo",
-      "claim": "A displayed photo shows Lance Twigs fueling a vehicle with his left hand at a Texas gas station.",
+      "label": "Lance Twiggs fuels with left hand in Texas photo",
+      "claim": "A displayed photo shows Lance Twiggs fueling a vehicle with his left hand at a Texas gas station.",
       "anchored_artifacts": [
         "A-2259.2"
       ],
@@ -1026,8 +2200,8 @@
       "@type": "Claim",
       "@id": "C-3246",
       "ref": "C-3246",
-      "label": "Lance Twigs childhood piano video shows watch on right hand and left-hand page turn",
-      "claim": "A childhood piano recital video of Lance Twigs (\"My name is Lance Twigs. I am playing country concert for young pianists\") shows him wearing a watch on his right hand and turning the page with his left hand.",
+      "label": "Lance Twiggs childhood piano video shows watch on right hand and left-hand page turn",
+      "claim": "A childhood piano recital video of Lance Twiggs (\"My name is Lance Twiggs. I am playing country concert for young pianists\") shows him wearing a watch on his right hand and turning the page with his left hand.",
       "anchored_artifacts": [
         "A-2259.4"
       ],
@@ -1170,8 +2344,8 @@
       "@type": "Claim",
       "@id": "C-3254",
       "ref": "C-3254",
-      "label": "Blake Nef shared WEF chart claiming US spends least on food",
-      "claim": "Blake Nef shared a World Economic Forum chart on X claiming Americans spend less of their income on food than any other country on the planet.",
+      "label": "Blake Neff shared WEF chart claiming US spends least on food",
+      "claim": "Blake Neff shared a World Economic Forum chart on X claiming Americans spend less of their income on food than any other country on the planet.",
       "anchored_artifacts": [
         "A-2262.6"
       ],
@@ -1206,8 +2380,8 @@
       "@type": "Claim",
       "@id": "C-3256",
       "ref": "C-3256",
-      "label": "Rabbi Schmoolie Iceland video shows couple confronting him about Israel",
-      "claim": "A video posted by Rabbi Schmoolie shows a couple in Iceland confronting him with statements about Israel after initially approaching as fans.",
+      "label": "Rabbi Shmuley Iceland video shows couple confronting him about Israel",
+      "claim": "A video posted by Rabbi Shmuley shows a couple in Iceland confronting him with statements about Israel after initially approaching as fans.",
       "anchored_artifacts": [
         "A-2264.1"
       ],
@@ -1263,6 +2437,1928 @@
       "tags": [],
       "claim_timestamp": "00:25:03–00:25:30",
       "investigative_direction": "Verify Wikipedia entry at time of access; check edit history."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13193",
+      "ref": "C-13193",
+      "label": "Host Says Tip Line Received Tip on Non-Native English Author",
+      "claim": "The host says that the day before, her tip line received a tip about her insistence that the person who wrote the Tyler Robinson text messages was not a native English speaker.",
+      "anchored_artifacts": [
+        "A-3252.1"
+      ],
+      "related_nodes": [
+        "N-10786"
+      ],
+      "tags": [
+        "relevance:context",
+        "DIA",
+        "tip-line"
+      ],
+      "claim_timestamp": "00:00:02",
+      "investigative_direction": "Review the tip-line email and the forensic-linguistics basis for the non-native-speaker hypothesis about the disputed texts.",
+      "transcript_snippet": "we received a tip on our tip line regarding my insistence that the person who wrote those Tyler Robinson text messages was not a native English speaker.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13194",
+      "ref": "C-13194",
+      "label": "Host Says a French Detective Dog Term Literally Means Sniffer Pooch",
+      "claim": "The host says she looked up how the French describe a detective dog and found a word that literally translates to \"sniffer pooch\", which she takes as support for the French-translation hypothesis.",
+      "anchored_artifacts": [
+        "A-2254.1"
+      ],
+      "related_nodes": [
+        "N-10786"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:55",
+      "investigative_direction": "Check a French dictionary for the term the host means (rendered as \"herl\" in the transcript; see Doubts) and test whether it maps to \"sniffer pooch\".",
+      "transcript_snippet": "the way that they describe a canine, a detective dog, would be a herl, which literally translates into a sniffer pooch.",
+      "supports_claim_refs": [
+        "C-3236"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13195",
+      "ref": "C-13195",
+      "label": "Host Says Brigitte Macron Still Cannot Be Tracked on the Days of the Egyptian Planes",
+      "claim": "In a sarcastic aside, the host says Brigitte Macron's whereabouts are still missing for the days the Egyptian planes were in America and that she cannot track her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10294",
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:55",
+      "investigative_direction": "Treat as a recap of the host's earlier Macron schedule-gap research; verify against the Brigitte Macron September 4-10, 2025 schedule record and the Egyptian aircraft tracking data.",
+      "transcript_snippet": "you're still missing those days. Days the Egyptian planes were in America. We still cannot track Brigitte.",
+      "mentions_person_refs": [
+        "N-82",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13196",
+      "ref": "C-13196",
+      "label": "Host Says Episode Is Named for New Information on Lance the 4K Influencers Did Not Share",
+      "claim": "The host says the episode is titled Silence of the Lance because her team found interesting information about Lance and a tidbit that the 4K and HD courtroom influencers did not share with the public about what they saw.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11308"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:55",
+      "investigative_direction": "Identify which influencers saw the 4K footage and obtain their accounts of what it showed.",
+      "transcript_snippet": "we came across some very interesting information about him and an interesting tidbit that the 4K influencers, the HD courtroom influencers, actually didn't share with the public about what they saw.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13197",
+      "ref": "C-13197",
+      "label": "Host Says Whatever Podcast Host Brian Atlas Offered 50K Then About 150K for Her to Debate Wilson",
+      "claim": "The host says Brian Atlas, host of the Whatever podcast, contacted her PR representative Mitchell with an offer of 50K for her to debate Andrew Wilson and then raised it, she thinks to 150K initially.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11361",
+        "N-11262"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:12",
+      "investigative_direction": "Obtain the offer messages between Atlas and the host's PR representative and ask Atlas who proposed and who funded the amounts.",
+      "transcript_snippet": "a guy named Brian Atlas, reached out to my PR guy, Mitchell, with an offer of 50K for me to debate this person. And then he upped the amount, I think, to 150K initially.",
+      "mentions_person_refs": [
+        "N-934",
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13198",
+      "ref": "C-13198",
+      "label": "Host Says She Dismissed the Debate Offer and Had Never Heard of Wilson",
+      "claim": "The host says she immediately dismissed the offer, had never heard the name Andrew Wilson, and assumed it was a PR ploy by a rising influencer buying exposure.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11361"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:12",
+      "investigative_direction": "Compare with Wilson's account on the Rogan show of how the offer was made and whether the host responded.",
+      "transcript_snippet": "I immediately dismissed it. I I genuinely had never heard of the name Andrew Wilson before.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13199",
+      "ref": "C-13199",
+      "label": "Host Says She Has Asked Only for a Public Discussion With TPUSA, Not Money",
+      "claim": "The host says her side has not asked for money, only for a public discussion about the case with Turning Point USA or an affiliate such as Blake Neff, Andrew Kolvet, Erika Kirk, Frank Turek or someone who was on the scene.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:12",
+      "investigative_direction": "Collect the host's earlier public invitations to TPUSA figures and any replies.",
+      "transcript_snippet": "We have not been asking for money, just a public discussion with Turning Point USA, one of their affiliates regarding the case",
+      "mentions_person_refs": [
+        "N-162",
+        "N-14",
+        "N-2",
+        "N-7",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13200",
+      "ref": "C-13200",
+      "label": "Host Says She Has Offered TPUSA the Floor Repeatedly",
+      "claim": "The host says she has offered the Turning Point USA people the floor repeatedly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:25",
+      "investigative_direction": "List dated invitations from the host to TPUSA figures and any declines.",
+      "transcript_snippet": "We've offered them the floor repeatedly.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13201",
+      "ref": "C-13201",
+      "label": "Host Says Wilson Is Affiliated With TPUSA and Boosted by Its Orbit",
+      "claim": "The host says she had not appreciated until clips circulated that Andrew Wilson is sort of affiliated with Turning Point USA, another person in their orbit they are boosting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11262",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:25",
+      "investigative_direction": "Obtain TPUSA's description of Wilson's role and any payment or contract records for the debate training.",
+      "transcript_snippet": "he is sort of affiliated with Turning Point USA. another person in their orbit that they're boosting.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13202",
+      "ref": "C-13202",
+      "label": "Rogan Says It Would Have Been Better for Erika Kirk to Lay Low and Calls the Sparklers a Bad Idea",
+      "claim": "In the Rogan clip, Joe Rogan says that given the reaction it probably would have been better for Erika Kirk to lay low for a while and that going out with the sparklers was not a great idea because it seemed insane.",
+      "anchored_artifacts": [
+        "A-2255.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:00",
+      "investigative_direction": "Locate the Rogan episode and confirm the exchange, and identify the sparkler event Rogan means.",
+      "transcript_snippet": "I think it probably would have been better for her to like lay low for a little while.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-2",
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13203",
+      "ref": "C-13203",
+      "label": "Host Says Wilson Has a Manosphere Presence Debating Feminists",
+      "claim": "The host says that, as far as she can tell, Andrew Wilson had a presence in the manosphere debating feminists, which explains his appearances on the Whatever podcast.",
+      "anchored_artifacts": [
+        "A-2258.1"
+      ],
+      "related_nodes": [
+        "N-11262"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:52",
+      "investigative_direction": "Review Wilson's Whatever podcast appearances and his debate record.",
+      "transcript_snippet": "Andrew Wilson apparently had a presence in the manosphere uh debating feminists.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13204",
+      "ref": "C-13204",
+      "label": "Host Says Wilson Looks to Be About 50",
+      "claim": "The host says Andrew Wilson looks to be about 50 years old, the best she could do in finding his age.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:06:42",
+      "investigative_direction": "Confirm Wilson's age from a public record.",
+      "transcript_snippet": "Now, Andrew Wilson looks to be about 50 years old.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13205",
+      "ref": "C-13205",
+      "label": "Host Says Wilson Is Trending on X for Lying to Rogan",
+      "claim": "The host says Andrew Wilson was trending on X for having lied to Joe Rogan throughout the interview and that the comments mocked him.",
+      "anchored_artifacts": [
+        "A-2255.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:36",
+      "investigative_direction": "Capture the X trending data and the specific statements critics called false.",
+      "transcript_snippet": "Andrew Wilson currently trending on X, by the way, uh for having lied to Joe Rogan throughout this entire interview.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-272",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13206",
+      "ref": "C-13206",
+      "label": "Host Says Wilson Tied Her to a Leftist Tour She Has Never Spoken To",
+      "claim": "The host says Wilson tried to portray her as tangential to a leftist tour (rendered \"unf America\" in the transcript), which she says she has never so much as spoken to, and that he also lied about the tour's organizers.",
+      "anchored_artifacts": [
+        "A-2255.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:36",
+      "investigative_direction": "Find Wilson's exact words on the Rogan show about the tour and identify the tour by name.",
+      "transcript_snippet": "I've never so much as spoken to them, but then he also lied about them.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-272",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13207",
+      "ref": "C-13207",
+      "label": "Host Says Wilson Accused the Tour of Money Laundering on Rogan Without a Fact Check",
+      "claim": "The host says Wilson accused the tour's organizers of laundering money on Joe Rogan's platform without any fact check.",
+      "anchored_artifacts": [
+        "A-2255.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:48",
+      "investigative_direction": "Locate the Rogan segment and check whether any evidence was offered for the money-laundering accusation.",
+      "transcript_snippet": "He's accusing them of like laundering money and doing this on Joe Rogan's platform absent any fact check.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13208",
+      "ref": "C-13208",
+      "label": "Host Counter-Offers 500K to Wilson",
+      "claim": "The host says Wilson offered 300K and she counters with 500K for the debate.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11361"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:48",
+      "investigative_direction": "Record whether Wilson or TPUSA responds to the 500K counter-offer.",
+      "transcript_snippet": "Uh he says 300K. Let's make it 500K, right?",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13209",
+      "ref": "C-13209",
+      "label": "Host Has a Hunch TPUSA or Affiliates Are Backing Wilson's Debate Request",
+      "claim": "The host says she has a hunch, a gut instinct, that Wilson is backed by Turning Point USA or its affiliates in the debate request because he does not strike her as someone with 300K lying around.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11361",
+        "N-11262"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:48",
+      "investigative_direction": "Ask Wilson and TPUSA who funds the 300K offer and obtain any payment records between TPUSA and Wilson.",
+      "transcript_snippet": "I just have the hunch, this feeling, gut instinct that you're maybe being backed by Turning Point USA or their affiliates in this debate request.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13210",
+      "ref": "C-13210",
+      "label": "Host Says TPUSA Raised 40 Million in One Night and Encased Charlie's Bloody Microphone at the Fundraiser",
+      "claim": "The host says Turning Point USA raised $40 million in one night, literally encasing Charlie Kirk's bloody microphone at a fundraiser so that his widow could be filmed standing next to it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11053"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:48",
+      "investigative_direction": "Identify the fundraiser, obtain event footage showing the encased microphone and TPUSA's reported total.",
+      "transcript_snippet": "Turning Point USA has raised $40 million in one night off of Charlie's blood, literally encasing his bloody microphone at a fundraiser event",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13211",
+      "ref": "C-13211",
+      "label": "Host Says She Is Seven Months Pregnant and Wilson Must Travel to Her",
+      "claim": "The host states as a debate term that she is seven months pregnant, so Wilson would have to travel to her for a face-to-face debate.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11361"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:48",
+      "investigative_direction": "None needed beyond the host's own announced terms; record the venue if a debate is ever scheduled.",
+      "transcript_snippet": "I'm seven months pregnant. So, if you fancy a debate face to face, you're going to have to travel to me.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13212",
+      "ref": "C-13212",
+      "label": "Host Offers Live Debate With No Time Limit and Live Fact-Checking by Her Team",
+      "claim": "The host says the debate would have no time limit, would be live, and her team would bring up any documents or evidence Wilson mentions and pause so he can search for his own.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11361"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:48",
+      "investigative_direction": "Record the final agreed format if a debate is arranged.",
+      "transcript_snippet": "No time limit in the debates, don't worry. It will be live. We will bring up any documents or evidence that you mention as a part of this case.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13213",
+      "ref": "C-13213",
+      "label": "Host Bans Chain-Smoking at the Debate",
+      "claim": "The host says Wilson will not be chain smoking around her and must leave his cigarettes at home.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11361"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:10:16",
+      "investigative_direction": "None; stated debate condition.",
+      "transcript_snippet": "you're not going to be chain smoking around me, tough guy.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13214",
+      "ref": "C-13214",
+      "label": "Host Requires Nef, Kolvet or Erika Kirk to Publicly Claim Wilson First",
+      "claim": "The host says her key condition is that Blake Neff, Andrew Kolvet or Erika Kirk must publicly claim Wilson first, saying they are sending him to debate on their behalf about the Charlie Kirk case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11361",
+        "N-11262"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:16",
+      "investigative_direction": "Watch for public statements from Neff, Kolvet or Erika Kirk claiming or disavowing Wilson.",
+      "transcript_snippet": "Either Blake Neff or Andrew Kolvet or Erika Kirk must publicly claim you first.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-14",
+        "N-2",
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13215",
+      "ref": "C-13215",
+      "label": "Kolvet Posts That Perhaps TPUSA Should Work Something Out With Wilson",
+      "claim": "The host reads a post from Andrew Kolvet saying Wilson was not being paid beyond one day of debate training but that, given how much critics seem to hate the idea, maybe they should see if they can work something out.",
+      "anchored_artifacts": [
+        "A-2256.1"
+      ],
+      "related_nodes": [
+        "N-11262"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:00",
+      "investigative_direction": "Capture the original post with its date and check for any follow-up from Kolvet or TPUSA.",
+      "transcript_snippet": "He's not quote unquote being paid, but seeing how much they seem to hate um uh that idea, maybe we should see if we can work something out. Lol.",
+      "supports_claim_refs": [
+        "C-3241"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13216",
+      "ref": "C-13216",
+      "label": "Host Wants TPUSA On Record That Wilson Represents It in the Debate",
+      "claim": "Recapping her counter-terms, the host says she wants Turning Point USA on record saying that Wilson is representing it in the debate so it cannot later shirk responsibility.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11361"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:00",
+      "investigative_direction": "Watch for a TPUSA statement on Wilson's role.",
+      "transcript_snippet": "I want um Turning Point USA on record, just to recap, saying that you are representing them in this debate.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13217",
+      "ref": "C-13217",
+      "label": "Host Does Not Believe Kirk Was Killed by a Lone Gunman or That a Weapon Was Fired From the Losee Rooftop",
+      "claim": "The host says she does not believe Charlie Kirk was killed by a lone gunman and does not believe any weapon was fired from the Losee Center rooftop, based on what she observes in the footage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10112"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:30",
+      "investigative_direction": "Compare the host's reading with the prosecution's ballistic and trajectory evidence presented at the preliminary hearing.",
+      "transcript_snippet": "I do not believe that Charlie Kirk was killed by a lone gunman. Uh I do not believe that any weapon was fired from low sea rooftop.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13218",
+      "ref": "C-13218",
+      "label": "Host Says Kirk's Shirt Was the First Thing to Move, Upward and Across His Chest",
+      "claim": "The host says the first thing to move in the footage is Charlie Kirk's shirt, which moves upward and across his chest.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10085"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:13",
+      "investigative_direction": "Frame-by-frame review of the highest-quality footage of the moment of impact, ideally the 4K version.",
+      "transcript_snippet": "The odd trajectory of his shirt which is the first to move. It moves upward and across his chest.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13219",
+      "ref": "C-13219",
+      "label": "Host Says Kirk's Necklace Broke Before He Was Impacted",
+      "claim": "The host says Charlie Kirk's necklace broke immediately before he was impacted and moved upward.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10537"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:13",
+      "investigative_direction": "Frame-by-frame review of the necklace in the footage and the physical condition of the necklace as recovered.",
+      "transcript_snippet": "The immediate breaking of his necklace before Charlie is impacted and moves upward.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13220",
+      "ref": "C-13220",
+      "label": "Host Says Kirk Was Not Thrown Backward Despite Being Hit From the Front With 2,000 Pounds of Force",
+      "claim": "The host says it is unacceptable that Charlie Kirk was hit from the front with 2,000 pounds of force yet did not go backwards but moved up and then to the side.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10085"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:13",
+      "investigative_direction": "Consult independent ballistics experts on the 30-06 round's expected effect and compare with the recorded movement.",
+      "transcript_snippet": "the frankly unacceptable idea that Charlie got hit from the front with 2,000 pounds of force, but miraculously didn't go backwards.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13221",
+      "ref": "C-13221",
+      "label": "Host Says Dan Flood Pushed Kirk Over to the Side in the Same Motion",
+      "claim": "The host says Dan Flood continues Kirk's movement and pushes him over to the side in that same motion.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:13",
+      "investigative_direction": "Review the footage of Flood's movements at the moment of impact and ask Flood or TPUSA security for an account.",
+      "transcript_snippet": "And then Dan Flood continues him, pushes him over to the side in that same motion.",
+      "mentions_person_refs": [
+        "N-274",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13222",
+      "ref": "C-13222",
+      "label": "Host Says the Bullet Did Not Exit or Nearly Decapitate Kirk",
+      "claim": "The host says the 30-06 bullet did not go through Charlie Kirk and did not almost decapitate him as would have been expected.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10085",
+        "N-10660"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:50",
+      "investigative_direction": "Obtain the autopsy report and ballistic findings on wound track and exit.",
+      "transcript_snippet": "that bullet also didn't even go through. It didn't almost decapitate him which is what would have been expected.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13223",
+      "ref": "C-13223",
+      "label": "Host Says Black Shards Covered the Floor of the SUV That Took Kirk to the Hospital",
+      "claim": "The host says there were black shards all over the floor of the SUV that transported Charlie Kirk to the hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10369",
+        "N-10740"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:06",
+      "investigative_direction": "Obtain photographs, inventory and lab analysis of the shards, and the SUV's chain of custody.",
+      "transcript_snippet": "Then there are the black shards all over the floor of the SUV, uh, which transported him to the hospital",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13224",
+      "ref": "C-13224",
+      "label": "Host Says the FBI Rushed to Have the SUV Cleaned and Resold",
+      "claim": "The host says the FBI unusually rushed to have the SUV immediately cleaned and resold rather than holding it as evidence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014",
+        "N-10740"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:06",
+      "investigative_direction": "Obtain the SUV's title, sale and cleaning records and any FBI evidence-release paperwork.",
+      "transcript_snippet": "followed by the FBI's unusual rush to have that SUV immediately cleaned and resold.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13225",
+      "ref": "C-13225",
+      "label": "Host Says a 911 Call Was Purged in Which Someone Is Allegedly Heard Saying Get That Off of Him",
+      "claim": "The host says there was a mysteriously purged 911 call in which someone is allegedly heard saying \"Get that off of him.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10692",
+        "N-10750",
+        "N-10729"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:06",
+      "investigative_direction": "File a records request for the 911 call log and audio retention records and identify who made the call.",
+      "transcript_snippet": "the mysteriously purged 911 call where someone is allegedly heard saying, \"Get that off of him.\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13226",
+      "ref": "C-13226",
+      "label": "Host Says Erika Kirk Personally Invited Benny Johnson to the Preliminary Hearing",
+      "claim": "The host says Benny Johnson is one of the courtroom influencers whom Erika Kirk personally invited to attend the preliminary hearing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11065"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:07",
+      "investigative_direction": "Confirm the invitation with Erika Kirk's office, Johnson, or the court's attendee records.",
+      "transcript_snippet": "Benny Johnson, one of the courtroom influencers who Erika personally invited to attend the preliminary hearing.",
+      "mentions_person_refs": [
+        "N-89",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13227",
+      "ref": "C-13227",
+      "label": "Benny Johnson Says the Public Has Tyler Robinson's Texts and Family Interviews",
+      "claim": "In the clip, Benny Johnson says the public has Tyler Robinson's text messages and interviews with his family members, and that there is so much evidence.",
+      "anchored_artifacts": [
+        "A-2260.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:07",
+      "investigative_direction": "Locate the Benny Johnson Show episode and identify the family interviews he means.",
+      "transcript_snippet": "we have Tyler Robinson's text messages. We have interviews with Tyler Robinson's family members.",
+      "mentions_person_refs": [
+        "N-89",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13228",
+      "ref": "C-13228",
+      "label": "Host Says Nothing From Tyler's Parents Has Been Seen and the Evidence Was Not Mentioned at the Preliminary Hearing",
+      "claim": "Responding to Johnson's clip, the host says the public has not seen anything from Tyler Robinson's parents and that the supposedly overwhelming evidence was not even mentioned at the preliminary hearing.",
+      "anchored_artifacts": [
+        "A-2260.1"
+      ],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:57",
+      "investigative_direction": "Review the preliminary hearing transcript for any mention of statements from Tyler Robinson's parents.",
+      "transcript_snippet": "We've not seen anything from his parents.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13229",
+      "ref": "C-13229",
+      "label": "Host Says the Maroon-Shirt Person on the Stairs and in TMZ Footage Is Not Tyler Robinson",
+      "claim": "The host says she believes the person walking up the stairs in the maroon shirt, also captured on TMZ's cameras, is not Tyler Robinson.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10043",
+        "N-10168",
+        "N-10011"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:45",
+      "investigative_direction": "Compare the maroon-shirt person against verified images of Tyler Robinson and obtain the TMZ original footage.",
+      "transcript_snippet": "I've made it clear that I believe the person who is walking up the stairs in the maroon shirt is not Tyler Robinson.",
+      "supports_claim_refs": [
+        "C-1183"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13230",
+      "ref": "C-13230",
+      "label": "Host Maintains Tyler Robinson Never Stepped Onto the UVU Campus and Says Her Claim Is Not Debunked",
+      "claim": "The host says she still believes what she reported in October of last year, that Tyler Robinson never stepped foot onto the UVU campus, and that the claim has not been debunked.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10043"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:45",
+      "investigative_direction": "Obtain campus access, parking and vehicle records and verified imagery placing Tyler Robinson on campus on September 10, 2025.",
+      "transcript_snippet": "I still believe what I reported back in October of last year, uh, which is that Tyler Robinson never stepped foot onto UVU campus.",
+      "supports_claim_refs": [
+        "C-6719",
+        "C-9403"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13231",
+      "ref": "C-13231",
+      "label": "Host Says She Learned Tyler Was Around Campus That Day, Possibly Driving People",
+      "claim": "The host says that, as she said back then, she learned Tyler Robinson was around campus that day, which could mean he was driving people around, but she does not think he was either person who walked up the staircase.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10043"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:45",
+      "investigative_direction": "Identify the host's source for Robinson's presence near campus and any vehicle or phone-location records.",
+      "transcript_snippet": "I learned that he was around campus on that day. I don't know if that means he was driving people around.",
+      "qualifies_claim_refs": [
+        "C-13230"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13232",
+      "ref": "C-13232",
+      "label": "Host Believes the Maroon-Shirt and Later Black-Shirt Staircase Figures Are Two Different People",
+      "claim": "The host says she believes the person in the maroon shirt and the person in black later in the day are two different individuals.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10043"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:45",
+      "investigative_direction": "Side-by-side comparison of the two staircase figures' build, gait and clothing from the best available footage.",
+      "transcript_snippet": "I believe those are two different people that we're seeing. the maroon uh and then later in the day in the black.",
+      "supports_claim_refs": [
+        "C-1183"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13233",
+      "ref": "C-13233",
+      "label": "Host Says UVU Students Confirmed There Are No Cameras Outside the Parking Garage",
+      "claim": "The host says UVU students confirmed to her that there are no cameras outside the parking garage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10791"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:31",
+      "investigative_direction": "Obtain UVU's camera placement map and ask the students for a written or recorded account.",
+      "transcript_snippet": "the UVU students have confirmed to me that there are no cameras outside of the parking garage.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13234",
+      "ref": "C-13234",
+      "label": "Host Says the Garage Route Looks Chosen to Be Seen by Cameras, Shown on a Map",
+      "claim": "The host says that on the map, staying on the street instead of walking through the parking garage would have meant the cameras could not have captured him, so the garage route looks like wanting to be seen.",
+      "anchored_artifacts": [
+        "A-3253.1"
+      ],
+      "related_nodes": [
+        "N-10791"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:31",
+      "investigative_direction": "Overlay UVU's camera locations on the campus map and measure whether an alternate route avoided all cameras.",
+      "transcript_snippet": "If he had just walked outside of the garage and went around, there would have been no way for the cameras to capture him.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13235",
+      "ref": "C-13235",
+      "label": "Host Says Lance's DNA Is on the Towel and on the Rifle",
+      "claim": "The host says Lance Twiggs has his DNA on the towel and on the rifle.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:13",
+      "investigative_direction": "Obtain the lab reports and preliminary hearing testimony on DNA found on the towel and the rifle.",
+      "transcript_snippet": "Lance Twiggs has his DNA on the towel. Lance Twiggs has his DNA on the rifle.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13236",
+      "ref": "C-13236",
+      "label": "Host Says Lance's DNA on the Rifle Was Less Degraded and More Prominent Than Tyler's",
+      "claim": "The host says Lance Twiggs's DNA on Tyler's rifle was not as degraded as Tyler Robinson's DNA and was more prominent.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11362",
+        "N-10711"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:13",
+      "investigative_direction": "Obtain the DNA lab report quantifying degradation and contributor proportions for each profile.",
+      "transcript_snippet": "Lance Twiggs's DNA was not as degraded as Tyler Robinson's DNA was on Tyler's rifle.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13237",
+      "ref": "C-13237",
+      "label": "Host Says the Dremel Used to Carve the Bullets Belonged to Lance Twiggs",
+      "claim": "The host says she learned that the Dremel used to carve the bullets belonged to Lance Twiggs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11362"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:01",
+      "investigative_direction": "Obtain the search-warrant inventory and any purchase or ownership records for the Dremel.",
+      "transcript_snippet": "We learned that the Dremel that was used to carve the bullets belonged to Lance Twiggs.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13238",
+      "ref": "C-13238",
+      "label": "Host Says Lance Had Behavioral Problems and Was Removed From Home Multiple Times",
+      "claim": "The host says that, from background checks and talks with family and schoolmates, Tyler is described as quiet and kind while Lance dealt with anger and behavioral issues and was removed from his home multiple times, with relatives later kicking him out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10034"
+      ],
+      "tags": [
+        "relevance:tangential",
+        "personal-background"
+      ],
+      "claim_timestamp": "00:21:01",
+      "investigative_direction": "Seek on-record confirmation from family members; this is personal background about a private individual.",
+      "transcript_snippet": "He dealt with a multitude of anger and behavioral issues in his youth. So much so that he had to be removed from his home multiple times",
+      "supports_claim_refs": [
+        "C-1166"
+      ],
+      "mentions_person_refs": [
+        "N-54",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13239",
+      "ref": "C-13239",
+      "label": "Host Says Lance's Family Describes Dark Internet Interests and Alleged Overdoses",
+      "claim": "The host says Lance's own family members describe him as into dark internet material and, allegedly, as having had drug overdoses, which she says might get one caught up with the feds.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10034"
+      ],
+      "tags": [
+        "relevance:tangential",
+        "personal-background"
+      ],
+      "claim_timestamp": "00:22:01",
+      "investigative_direction": "Seek on-record confirmation; this is personal and medical background about a private individual.",
+      "transcript_snippet": "When your own family members are describing you as into dark internet stuff, saying that you've had drug overdoses, allegedly",
+      "supports_claim_refs": [
+        "C-1167"
+      ],
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13240",
+      "ref": "C-13240",
+      "label": "Host Says Lance Was Immersed in Furry Culture With a Persona Called Luna",
+      "claim": "The host says Lance was the one submerged in furry culture and had a persona she calls Luna, an avatar for his personality, which she says is actually a character spelled in a way the transcript renders \"L O N A\".",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10790"
+      ],
+      "tags": [
+        "relevance:tangential",
+        "personal-background"
+      ],
+      "claim_timestamp": "00:22:01",
+      "investigative_direction": "Identify the source of the persona claim; this is personal material about a private individual.",
+      "transcript_snippet": "Lance is the one that was submerged in the furry culture. Remember, he had a persona named Luna",
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13241",
+      "ref": "C-13241",
+      "label": "Host Says Matt Robinson Found a Dog Bed in Tyler's Room That Was Not Originally There",
+      "claim": "The host says Matt Robinson, on returning to the apartment Tyler shared with Lance, discovered that a dog bed had been placed in his son's room and suspected the feds had staged the room.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10143"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:55",
+      "investigative_direction": "Identify the source of the dog bed account and check search-warrant photographs of Tyler's room.",
+      "transcript_snippet": "Matt Robinson uh when he went back to the apartment that Tyler Robinson shared with Lance discovered that a bed that was not in his son's room, a dog bed was put into his son's room.",
+      "mentions_person_refs": [
+        "N-784",
+        "N-40",
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13242",
+      "ref": "C-13242",
+      "label": "Host Infers the Dog Bed Would Make More Sense as Lance's Bed",
+      "claim": "The host says that if Lance has a hellhound persona it would make more sense that the dog bed was Lance's, embodying that persona, rather than staging by the feds.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10143",
+        "N-10790"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:23:55",
+      "investigative_direction": "Compare the dog bed's location and any room photographs with the apartment layout; interview Matt Robinson.",
+      "transcript_snippet": "it would make more sense that this would be Lance's bed, Lance's big dog bed, that Lance was embodying this persona.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-784",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13243",
+      "ref": "C-13243",
+      "label": "Host Calls the Claim That Matt Robinson Believed His Son Guilty a Lie",
+      "claim": "The host says that, among things she learned in October, the idea that Matt Robinson believed his son was guilty is a lie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:55",
+      "investigative_direction": "Compare the host's source with public accounts of what Matt Robinson told investigators.",
+      "transcript_snippet": "this whole lie that Matt Robinson believed his son was guilty.",
+      "mentions_person_refs": [
+        "N-784",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13244",
+      "ref": "C-13244",
+      "label": "Host Says the Medical Examiner's Wife Encourages Online Avatar Personas on Discord",
+      "claim": "The host says the medical examiner's wife is encouraging people online and on Discord to lean into avatars as a dissociative character in their lives.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10013",
+        "N-10183"
+      ],
+      "tags": [
+        "relevance:tangential",
+        "personal-background"
+      ],
+      "claim_timestamp": "00:25:03",
+      "investigative_direction": "Verify the source for the claim; this concerns a private individual's online activity.",
+      "transcript_snippet": "you have people like the medical examiner's wife who is encouraging people online and on Discord to further lean into these avatars",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13245",
+      "ref": "C-13245",
+      "label": "Host Says Lance's September 10 Alibi Is That He Was Sleeping",
+      "claim": "The host says Lance Twiggs's alibi for September 10 is that he was sleeping.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10598"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:25:03",
+      "investigative_direction": "Obtain Lance's statements to investigators and any phone, camera or location records for September 10.",
+      "transcript_snippet": "Lance Twiggs's alibi, just to remind you, for September 10th, is I was sleeping.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13246",
+      "ref": "C-13246",
+      "label": "Host Says It Is Unclear the Feds Verified Lance's Sleeping Alibi",
+      "claim": "The host says she doubts anyone has tested Lance's sleeping alibi and says it could easily be checked through cameras, requests for camera footage and his phone activity.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10598"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:06",
+      "investigative_direction": "Ask investigators or the court record whether Lance's phone, location and camera data were reviewed.",
+      "transcript_snippet": "Has anyone prodded that narrative? The feds prod that narrative?",
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13247",
+      "ref": "C-13247",
+      "label": "Host Recounts That Lance Said He Photographed the Keyboard Note and Then Burned It",
+      "claim": "The host says Lance claims he found a handwritten note under his keyboard, took a picture of it, and then burned the note to hide the evidence, which she notes would not hide the evidence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10041"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:06",
+      "investigative_direction": "Obtain Lance's statement about the note and the chain of custody of the photograph.",
+      "transcript_snippet": "the note that was handwritten, which Lance claims he found under his keyboard and then took a picture of it, but then burned the note to hide the evidence",
+      "supports_claim_refs": [
+        "C-1177"
+      ],
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13248",
+      "ref": "C-13248",
+      "label": "Host Says the 4K Footage Shows the Maroon-Shirt Person Holding His Phone in His Left Hand and Pocketing It on the Left",
+      "claim": "The host says that in the 4K footage shown to influencers, the maroon-shirt person on the steps is on his phone and holds it in his left hand before slipping it into his left pocket.",
+      "anchored_artifacts": [
+        "A-2261.1"
+      ],
+      "related_nodes": [
+        "N-11308",
+        "N-10787"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:49",
+      "investigative_direction": "Obtain the 4K version from the influencers or the prosecution and review hand and pocket use.",
+      "transcript_snippet": "he's holding his phone in his left hand before he slips his phone into his left pocket.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13249",
+      "ref": "C-13249",
+      "label": "Host Says the Influencers Who Saw the 4K Footage Did Not Mention the Left-Hand Phone Detail",
+      "claim": "The host says that is what the influencers were shown in 4K and they did not mention it.",
+      "anchored_artifacts": [
+        "A-2261.1"
+      ],
+      "related_nodes": [
+        "N-11308"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:57",
+      "investigative_direction": "Ask the influencers who viewed the 4K footage what the maroon-shirt figure was doing with his phone.",
+      "transcript_snippet": "That's what they were shown in 4K and they didn't mention that.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13250",
+      "ref": "C-13250",
+      "label": "Host Says Tyler Robinson Is Not Left-Handed per His Legal Filings",
+      "claim": "The host says Tyler Robinson is definitively not left-handed and that this is spelled out in his legal filings.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10793"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:57",
+      "investigative_direction": "Find the specific legal filing that states Tyler Robinson's handedness.",
+      "transcript_snippet": "Tyler Robinson is definitively not left-handed. It is actually spelled out in his legal filings",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13251",
+      "ref": "C-13251",
+      "label": "Host Says Facebook Photos Posted by Tyler's Mother Show He Is Right-Handed",
+      "claim": "The host says that the many social media photos his mother posted to Facebook, from childhood through young adulthood, show Tyler Robinson to be right-handed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10793"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:57",
+      "investigative_direction": "Collect the public Facebook photos and catalog hand use.",
+      "transcript_snippet": "all of the many social media photos uh that are posted by his mother onto Facebook from a time he was a kid all through his young adulthood, he's he's right-handed.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13252",
+      "ref": "C-13252",
+      "label": "Host Says Public Photos Show Lance Is Left-Handed or Ambidextrous",
+      "claim": "The host says that across various public photos, Lance appears to be left-handed or at least without question ambidextrous.",
+      "anchored_artifacts": [
+        "A-2259.1",
+        "A-2259.2",
+        "A-2259.3"
+      ],
+      "related_nodes": [
+        "N-10787"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:57",
+      "investigative_direction": "Catalog a larger set of dated photos of Lance for hand use.",
+      "transcript_snippet": "Across various public photos of Lance, he appears to be left-handed or at least without question ambidextrous.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13253",
+      "ref": "C-13253",
+      "label": "Host Says Selfies of Lance Online Are Taken With His Left Hand",
+      "claim": "The host says there are selfie photos of Lance on the internet that he takes with his left hand.",
+      "anchored_artifacts": [
+        "A-2259.3"
+      ],
+      "related_nodes": [
+        "N-10787"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:04",
+      "investigative_direction": "Locate the selfies and confirm that the images are not mirrored.",
+      "transcript_snippet": "Uh there's also selfie photos of him on the internet. He is taking the selfies with his left hand.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13254",
+      "ref": "C-13254",
+      "label": "Host Says the Feds Wanted to Blur the Phone-and-Pocket Moment",
+      "claim": "The host says the feds wanted to blur the phone and left-pocket moment so the public could not see that it is a phone.",
+      "anchored_artifacts": [
+        "A-2261.1"
+      ],
+      "related_nodes": [
+        "N-11308",
+        "N-10014"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:33",
+      "investigative_direction": "Compare the public clip with the 4K original and identify who processed the public version.",
+      "transcript_snippet": "That little phone pocket thing which the feds wanted to blur so the public couldn't see that it's his phone.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13255",
+      "ref": "C-13255",
+      "label": "Host Says Police Offered Lance a Ride Home After Questioning and Dropped Him at His Parents' Residence",
+      "claim": "The host says that after the feds questioned Lance for a few hours they offered him a ride home and police dropped him off at his parents' residence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10044"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:33",
+      "investigative_direction": "Obtain police transport logs and Lance's statements on the night he was questioned.",
+      "transcript_snippet": "they offered him a ride back home. That's a fact. He was then dropped off by police at his parents' residence.",
+      "supports_claim_refs": [
+        "C-1181"
+      ],
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13256",
+      "ref": "C-13256",
+      "label": "Host Says the Feds Moved Lance and His Father Into a Safe House at Federal Expense",
+      "claim": "The host says the feds then moved Lance and his father into a safe house and paid for them to live somewhere unknown to the public.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10044",
+        "N-10014"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:33",
+      "investigative_direction": "Seek confirmation from the FBI, Lance's family or court filings about relocation costs.",
+      "transcript_snippet": "The feds then moved him and his father into a safe house. The feds paid for them to live somewhere unknown to the general public.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13257",
+      "ref": "C-13257",
+      "label": "Host Says Lance Moved Into the Family-Owned Apartment in July 2022",
+      "claim": "The host says Lance moved into the apartment, which is owned by his family, in July of 2022.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10634"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:34",
+      "investigative_direction": "Obtain lease and property records for the apartment.",
+      "transcript_snippet": "Lance moved in to that apartment which is owned by his family in July of 2022.",
+      "supports_claim_refs": [
+        "C-1170"
+      ],
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13258",
+      "ref": "C-13258",
+      "label": "Host Says Tyler Replaced a Departing Roommate in August 2023",
+      "claim": "The host says Lance first had two brothers as roommates, one of whom left a year later, and that Tyler Robinson took his place, beginning to live there in August 2023.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10634"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:34",
+      "investigative_direction": "Obtain lease records and roommate statements for 2022 to 2025.",
+      "transcript_snippet": "in 2023, Tyler Robinson took Caleb's place. So, in August of 2023, Tyler Robinson begins living there.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13259",
+      "ref": "C-13259",
+      "label": "Host Says a Military Roommate Left in Late 2024 and Tyler and Lance Lived Alone From Early 2025",
+      "claim": "The host says the remaining military roommate moved out at the end of 2024 citing a military obligation, leaving Tyler and Lance living alone from the beginning of 2025.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10634"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:34",
+      "investigative_direction": "Verify the roommate's move-out date and military obligation from lease or unit records.",
+      "transcript_snippet": "So, at the end of 2024, Bradley, the military guy, moved out, citing a military obligation. This left just Tyler and Lance living in that apartment alone beginning at the beginning of 2025.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13260",
+      "ref": "C-13260",
+      "label": "Host Suspects Lance Could Have Been a Federal Asset Mixed Up in Something in His Online Communities",
+      "claim": "The host says she has always suspected, even more after the preliminary hearing, that Lance could have been a federal asset who got mixed up in something in his online communities, allegedly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10598",
+        "N-10679"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:34",
+      "investigative_direction": "Seek any court, FOIA or source documentation of a relationship between Lance and a federal agency.",
+      "transcript_snippet": "I have always suspected and even more so after the preliminary hearing that Lance could have been a federal asset who got mixed up in something in his online communities allegedly.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13261",
+      "ref": "C-13261",
+      "label": "Matt Walsh Posts That Foreign Wars Should End and Grocery Prices Are Fueling Socialists",
+      "claim": "The host reads Matt Walsh's post saying elected leaders should end the stupid foreign wars and focus on grocery prices, which he says is one of the main reasons socialists are gaining power.",
+      "anchored_artifacts": [
+        "A-2262.1"
+      ],
+      "related_nodes": [
+        "N-10789"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:36:34",
+      "investigative_direction": "Verify the post text and date on X.",
+      "transcript_snippet": "end the stupid foreign wars and focus on this issue. It's one of the main reasons socialists are gaining power.",
+      "mentions_person_refs": [
+        "N-166"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13262",
+      "ref": "C-13262",
+      "label": "Joel Barry Posts That the Affordability Crisis Is Really a Cooking Crisis",
+      "claim": "The host reads a post from Joel Barry saying that after his wife made burritos for a family of eight for under $20, he is beginning to think the affordability crisis is an I-don't-know-how-to-cook crisis.",
+      "anchored_artifacts": [
+        "A-2262.2"
+      ],
+      "related_nodes": [
+        "N-10789"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:37:30",
+      "investigative_direction": "Verify the post text and date on X.",
+      "transcript_snippet": "I'm beginning to think the affordability crisis is really an I don't know how to cook crisis.",
+      "mentions_person_refs": [
+        "N-245"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13263",
+      "ref": "C-13263",
+      "label": "Dan Crenshaw Posts That the Market Sets Prices and Only Communists Care",
+      "claim": "The host reads a post by Dan Crenshaw saying that the market does not care what you think about what something should cost and that only communists care.",
+      "anchored_artifacts": [
+        "A-2262.5"
+      ],
+      "related_nodes": [
+        "N-10789"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:41:20",
+      "investigative_direction": "Verify the post text and date on X.",
+      "transcript_snippet": "The market doesn't care what you think. Something should cost. Only communists care.",
+      "mentions_person_refs": [
+        "N-935"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13264",
+      "ref": "C-13264",
+      "label": "Community Note Says Nef's Food-Spending Chart Relies on Pre-2020 Data",
+      "claim": "The host says Blake Neff's World Economic Forum chart drew a community note stating that the linked article uses pre-2020 data showing the US with the lowest food expenditure shares.",
+      "anchored_artifacts": [
+        "A-2262.6"
+      ],
+      "related_nodes": [
+        "N-10789"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:43:07",
+      "investigative_direction": "Capture the community note and the chart's underlying data and date.",
+      "transcript_snippet": "A linked article uses pre20 data showing the US the lowest food expenditure shares.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13265",
+      "ref": "C-13265",
+      "label": "Shapiro Calls the Daily Wire Film Its Biggest and Funniest Ever",
+      "claim": "The host reads Ben Shapiro's post saying the film is the biggest, most audacious, funniest and most kick-ass film the Daily Wire has ever released.",
+      "anchored_artifacts": [
+        "A-2263.1"
+      ],
+      "related_nodes": [
+        "N-10789"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:45:02",
+      "investigative_direction": "Verify the post text and the film's release details.",
+      "transcript_snippet": "Now we're saying the thing with the biggest, most audacious, funniest, and most kick-ass film The Daily Wire has ever released.",
+      "mentions_person_refs": [
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13266",
+      "ref": "C-13266",
+      "label": "Host Says the CIA and Israel Funded al-Qaeda",
+      "claim": "The host asserts, in reacting to the trailer, that the CIA and Israel funded al-Qaeda and asks whether the filmmakers know people know this.",
+      "anchored_artifacts": [
+        "A-2263.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:47:40",
+      "investigative_direction": "No specific source given; identify what documents the host is relying on.",
+      "transcript_snippet": "We know like about the CIA and Israel funding al-Qaeda funding alus, the MSAD motto",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13267",
+      "ref": "C-13267",
+      "label": "Host Says Rabbi Shmuley Constantly Harasses People and Threatens Lawsuits",
+      "claim": "The host describes Rabbi Shmuley Boteach (rendered \"Shmuley\" in the transcript) as constantly harassing people and threatening lawsuits.",
+      "anchored_artifacts": [
+        "A-2264.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:48:31",
+      "investigative_direction": "Identify the lawsuit threats the host refers to, if any, from court dockets or press reports.",
+      "transcript_snippet": "Constantly harassing people, threatening lawsuits.",
+      "mentions_person_refs": [
+        "N-936",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13268",
+      "ref": "C-13268",
+      "label": "Host Accuses the Gaza Humanitarian Fund of Playing Hunger Games With Gazans' Lives",
+      "claim": "The host says Israel and its backers mass-murdered women, children and civilians and played hunger games with their lives as the Gaza Humanitarian Fund did.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10670",
+        "N-10063"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:51:05",
+      "investigative_direction": "Consult reporting and UN or NGO records on the Gaza Humanitarian Foundation distribution sites.",
+      "transcript_snippet": "play hunger games with their lives as the Gaza Humanitarian Fund did",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13269",
+      "ref": "C-13269",
+      "label": "Viewer Comment Says TPUSA Is Yanking on Your Pocket and Banking on Your Faith",
+      "claim": "The host reads a viewer comment by Dan saying TPUSA's new business model is yanking on your pocket and banking on your faith, and agrees.",
+      "anchored_artifacts": [
+        "A-3254.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:55:00",
+      "investigative_direction": "None; opinion comment read on air.",
+      "transcript_snippet": "They are yanking on your pocket and banking on your faith. TPSA's new business model in a nutshell.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13270",
+      "ref": "C-13270",
+      "label": "Viewer Comment Says Erika's Inner Circle Includes a Man Explaining Toddler Cappy Heading Logistics",
+      "claim": "The host reads a comment by Chewing the Void saying it is weirder that Erika's inner circle includes a man who has to explain toddler cat-heading logistics on national television than that her pastor was asked a cat-beheading question, and the host agrees there is weirdness around Erika.",
+      "anchored_artifacts": [
+        "A-3254.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:55:37",
+      "investigative_direction": "Identify the television interview and the speaker the comment refers to.",
+      "transcript_snippet": "Erika's inner circle includes a man who has to explain toddler Cappy heading logistics on national television.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13271",
+      "ref": "C-13271",
+      "label": "Host Says Lindsay Clancy Is Not Guilty and the Doctors Should Be Imprisoned",
+      "claim": "The host says Lindsay Clancy is obviously not guilty and that a fleet of doctors who should be imprisoned for what they put her on.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:55:37",
+      "investigative_direction": "Review the court record, expert testimony and medication history in the Clancy case.",
+      "transcript_snippet": "Lindsay Clancy is obviously not guilty. There are a fleet of doctors who should be imprisoned for what they put her on.",
+      "mentions_person_refs": [
+        "N-206",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13272",
+      "ref": "C-13272",
+      "label": "Host Says Clancy Was on a Cocktail of 10 Pharmaceuticals",
+      "claim": "The host says the cocktail of 10 pharmaceuticals Lindsay Clancy was on is madness and that she was put into an intentional psychosis.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:56:49",
+      "investigative_direction": "Obtain the medication list from trial or medical records.",
+      "transcript_snippet": "And the cocktail of 10 pharmaceuticals that she was on is absolute madness.",
+      "mentions_person_refs": [
+        "N-206",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13273",
+      "ref": "C-13273",
+      "label": "Host Says a Chat of 92 Influencers Is Defending Erika Kirk",
+      "claim": "The host says there is a chat of 92 influencers, the defenders of Erika Kirk, with many of the people TPUSA is boosting in it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10780",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:58:22",
+      "investigative_direction": "Obtain the chat's membership list and screenshots from the host's source.",
+      "transcript_snippet": "Many of them in that chat of 92 influencers, the defenders of Erika Kirk.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13274",
+      "ref": "C-13274",
+      "label": "Host Says Paramount Tactical Is One of the Only Men in the Chat",
+      "claim": "The host says Paramount Tactical is one of the only men in that influencer chat and mocks him for wanting to gossip with the girls.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899",
+        "N-10780"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:58:22",
+      "investigative_direction": "Obtain the chat's membership list and screenshots from the host's source.",
+      "transcript_snippet": "Also was hilarious that Paramount Notso Tactical is like one of the only men in that chat.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13275",
+      "ref": "C-13275",
+      "label": "Host Says She Would Walk Into a Wilson Debate Trap",
+      "claim": "Reading a viewer comment that Wilson wants to trap her into a defamation claim, the host says it is a trap she is willing to walk into.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11361"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:58:22",
+      "investigative_direction": "Record whether Wilson responds to the host's counter-terms.",
+      "transcript_snippet": "Well, it's a trap I'm willing to walk into.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13276",
+      "ref": "C-13276",
+      "label": "Host Says Intentionally Degraded Footage Is Released to the Public While Influencers See 4K",
+      "claim": "The host says authorities seem to be releasing intentionally degraded footage and the clearer 4K only to influencers, so the public cannot put pieces together such as the phone going into his pocket.",
+      "anchored_artifacts": [
+        "A-2261.1"
+      ],
+      "related_nodes": [
+        "N-11308"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:01:16",
+      "investigative_direction": "Compare resolution and provenance of the public footage with the 4K version shown to influencers.",
+      "transcript_snippet": "Oh, because one is supposed to be for the public and it's supposed to be so that we can't put pieces together like that.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13277",
+      "ref": "C-13277",
+      "label": "Host Says She Will Release More Footage Soon",
+      "claim": "The host says she will certainly be releasing more footage in the near future.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:01:16",
+      "investigative_direction": "Watch for the footage release in subsequent episodes.",
+      "transcript_snippet": "Anyway, we will certainly be releasing uh more footage in the near future.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13278",
+      "ref": "C-13278",
+      "label": "Host Says Critics Are Screaming for the FBI to Raid Her",
+      "claim": "The host says that is why people are screaming for her to be raided by the FBI, because she says more power to the people if the evidence is so overwhelming.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:02:23",
+      "investigative_direction": "Identify who has publicly called for an FBI raid on the host.",
+      "transcript_snippet": "that's why they're screaming for me to be raided by the FBI because I just say more power to the people if it's so overwhelming.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13279",
+      "ref": "C-13279",
+      "label": "Host Says She Found a Group Chat That Is Together Posting Her Address",
+      "claim": "The host says a group chat she has landed upon is together posting her address, which she calls an extreme form of anti-Candaceism.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10780"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:02:23",
+      "investigative_direction": "Obtain screenshots of the chat and identify the participants.",
+      "transcript_snippet": "given this group chat that we have landed upon that is together posting my address.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": [
@@ -1285,6 +4381,333 @@
             "chat_elevate",
             "comparison",
             "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:00:02",
+          "speaker_node_ref": "N-3",
+          "quote": "we received a tip on our tip line regarding my insistence that the person who wrote those Tyler Robinson text messages was not a native English speaker.",
+          "context": "Host opens by reporting a tip-line tip on the French-calque theory.",
+          "confidence": "high",
+          "tags": [
+            "tip line",
+            "dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:00:02",
+          "speaker_node_ref": "N-3",
+          "quote": "The obvious and most stunning example of that in the Fed slop messages being, I hope that pooch has a bad sniffer.",
+          "context": "Host calls the alleged Tyler Robinson texts Fed slop messages.",
+          "confidence": "high",
+          "tags": [
+            "fed slop",
+            "texts"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-310",
+      "ref": "M-310",
+      "canonical_term": "Silence of the Lance",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:00:55",
+          "speaker_node_ref": "N-3",
+          "quote": "we named this episode Silence of the Lance",
+          "context": "Host explains the episode title, a pun on Lance Twiggs.",
+          "confidence": "high",
+          "tags": [
+            "episode title",
+            "lance"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-167",
+      "ref": "M-167",
+      "canonical_term": "Christian Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:07:36",
+          "speaker_node_ref": "N-3",
+          "quote": "the Erika Kirk slop, the Christian slop",
+          "context": "Host says nobody is buying the Erika Kirk slop or Christian slop in the Wilson comments.",
+          "confidence": "high",
+          "tags": [
+            "slop",
+            "erika"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-144",
+      "ref": "M-144",
+      "canonical_term": "The Preggo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:08:48",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm seven months pregnant.",
+          "context": "Host invokes her pregnancy as a debate term.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy",
+            "debate"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-74",
+      "ref": "M-74",
+      "canonical_term": "Believe Your Own Eyes",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:16:06",
+          "speaker_node_ref": "N-3",
+          "quote": "I routinely and intentionally disobey that Orwellian instruction.",
+          "context": "Host rejects the instruction to reject the evidence of one's eyes and ears.",
+          "confidence": "high",
+          "tags": [
+            "eyes and ears",
+            "orwell"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-188",
+      "ref": "M-188",
+      "canonical_term": "Overwhelmed by the Evidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:17:07",
+          "speaker_node_ref": "N-3",
+          "quote": "No matter how many influencers try to tell us that our eyes and our ears are being overwhelmed, I still feel pretty underwhelmed.",
+          "context": "Host mocks the claim that the evidence is overwhelming.",
+          "confidence": "high",
+          "tags": [
+            "overwhelming",
+            "influencers"
+          ]
+        },
+        {
+          "episode": 139,
+          "video_timestamp": "01:02:23",
+          "speaker_node_ref": "N-3",
+          "quote": "Let us be overwhelmed by that title wave of evidence that they keep promising and which never emerges.",
+          "context": "Host closes by asking for the promised flood of evidence.",
+          "confidence": "high",
+          "tags": [
+            "overwhelming",
+            "closer"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-311",
+      "ref": "M-311",
+      "canonical_term": "Think While It's Still Legal",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:31:34",
+          "speaker_node_ref": "N-3",
+          "quote": "Think while it's still legal.",
+          "context": "Host signs off her Lance Twiggs segment with the line.",
+          "confidence": "medium",
+          "tags": [
+            "sign-off"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-155",
+      "ref": "M-155",
+      "canonical_term": "Beavis and Butt-Head",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:42:06",
+          "speaker_node_ref": "N-3",
+          "quote": "We know Beas and Buttthead.",
+          "context": "Host introduces Blake Neff's chart as the next Beavis and Butt-Head move.",
+          "confidence": "high",
+          "tags": [
+            "beavis",
+            "neff"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-11",
+      "ref": "M-11",
+      "canonical_term": "MSAD",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:47:40",
+          "speaker_node_ref": "N-3",
+          "quote": "the MSAD motto, you know, that they're going to conquer the world through deception.",
+          "context": "Host uses MSAD for Mossad while reacting to the Daily Wire trailer.",
+          "confidence": "high",
+          "tags": [
+            "msad",
+            "mossad"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-312",
+      "ref": "M-312",
+      "canonical_term": "Big Viking Energy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:48:31",
+          "speaker_node_ref": "N-3",
+          "quote": "the guy here just had big Viking energy and told him to get out of his country.",
+          "context": "Host praises the Icelander in the Rabbi Shmuley video; repeated at 00:51:05.",
+          "confidence": "medium",
+          "tags": [
+            "viking",
+            "iceland"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-24",
+      "ref": "M-24",
+      "canonical_term": "Yanking and Banking",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:55:00",
+          "speaker_node_ref": "N-3",
+          "quote": "They are yanking on your pocket and banking on your faith.",
+          "context": "Host reads a viewer comment echoing the yanking-and-banking line.",
+          "confidence": "high",
+          "tags": [
+            "yanking",
+            "banking",
+            "comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-92",
+      "ref": "M-92",
+      "canonical_term": "Paramount Not So Tactical",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "00:58:22",
+          "speaker_node_ref": "N-3",
+          "quote": "Also was hilarious that Paramount Notso Tactical is like one of the only men in that chat.",
+          "context": "Host mocks Paramount Tactical for being one of few men in the influencer chat.",
+          "confidence": "high",
+          "tags": [
+            "paramount",
+            "chat"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-22",
+      "ref": "M-22",
+      "canonical_term": "Why Are You Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "01:02:23",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm wearing my um Emmanuel Macron, why are you gay? Shirts.",
+          "context": "Host plugs the merch shirt.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "macron"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-107",
+      "ref": "M-107",
+      "canonical_term": "Stop Anti-Candaceism",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 139,
+          "video_timestamp": "01:02:23",
+          "speaker_node_ref": "N-3",
+          "quote": "You can buy a stop anti-cannism cop.",
+          "context": "Host plugs the stop anti-Candaceism cap and ties it to the group chat posting her address.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "anti-candaceism"
           ]
         }
       ]

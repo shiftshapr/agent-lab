@@ -145,7 +145,7 @@ Confidence Level: Medium
 
 **A-2579.2** Times headline on Brigitte Macron slapping her husband over text messages to an actress (shown)
 
-Quoted text: "Breijit Mcronone slapped husband over text messages to an actress."
+Quoted text: "Brigitte Macron slapped husband over text messages to an actress."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:35:22
@@ -227,7 +227,7 @@ Transcript spelling "Don Trump Jr." / "Don Jr.". Named as co-founder of Winning 
 
 **N-82** Brigitte Macron
 
-Transcript spellings "Breijit Mcronone" / "Breit Mcronone". Subject of the Hanoi slap and the new Times explanation.
+Transcript spellings "Brigitte Macron" / "Brigitte Macron". Subject of the Hanoi slap and the new Times explanation.
 
 *Related: C-4100, C-4101, A-2579.1, A-2579.2*
 
@@ -444,7 +444,7 @@ Investigation target: the shifting explanations of Brigitte Macron's May 2025 Ha
 
 **N-383** Emmanuel Macron
 
-Transcript spelling "Emanuel Mcronone". Recipient of the slap; said to have received texts from the actress.
+Transcript spelling "Emmanuel Macron". Recipient of the slap; said to have received texts from the actress.
 
 *Related: C-4100, C-4101, A-2579.1, A-2579.2*
 
@@ -1027,7 +1027,7 @@ Claim Timestamp: 00:35:22
 
 Claim: The host shows a Times headline saying Brigitte Macron slapped her husband over text messages to an actress.
 
-Transcript Snippet: there's a new Times headline here that we can show you. Breijit Mcronone slapped husband over text messages to an actress.
+Transcript Snippet: there's a new Times headline here that we can show you. Brigitte Macron slapped husband over text messages to an actress.
 
 Anchored Artifacts: A-2579.2
 Mentions: N-82, N-383
@@ -1393,7 +1393,7 @@ Confidence: high
 - **Skeleton handling**: The existing N-16 and N-163 rows and the M-42 occurrence are kept with their ids and text; only their placeholder *Related:* lines were filled in. The N-163 description mentions an "Epstein situation-room attendee read", which does not appear in this transcript; it is kept verbatim from the skeleton. The skeleton's ledger line "Hole-minted Nodes (remap-ep104): N-163" was replaced by "(see registers)" per the spec. Its Video Timestamp Range (00:56:29) was corrected to the transcript duration, 49:46.
 - **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Nef" is N-162 Blake Neff. "Captain Adam Nef" / "Commander Nef" is N-323. "Sarah Seidner" is N-376 Sarah Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
 - **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-618 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-631, the host says she is "definitely not saying this name right" ("Gosh Farani", "Gosh Fani", "Farhani", "Verahani", "Verhani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
-- **Transcription ambiguities**: "rescend" / "resend" for rescind, and "plat platforms", are kept as written. "Breijit / Breijgit / Breit Mcronone" (Brigitte Macron), "Emanuel Mcronone", "capta" (CAPTCHA) and "Vavlla" (favela) are kept as written. The host says Strife "he's not just the CEO" (20:14) but elsewhere calls him COO; COO is used.
+- **Transcription ambiguities**: "rescend" / "resend" for rescind, and "plat platforms", are kept as written. "Brigitte / Brigitte / Brigitte Macron" (Brigitte Macron), "Emmanuel Macron", "capta" (CAPTCHA) and "Vavlla" (favela) are kept as written. The host says Strife "he's not just the CEO" (20:14) but elsewhere calls him COO; COO is used.
 - **Possible cross-episode links left out**: C-4064 was not linked to C-2791 (Washington Post: Secret Service fired at the WHCD suspect), because the host says the agents fired "at one another", a different proposition. C-4097–C-4099 were not linked to C-2901/C-2552 (Nick Shirley's own infiltration claims), because they concern teacher praise, not the infiltration. C-4081–C-4083 were not linked to C-2114 (Buckmans' $10 million gift), which is a different proposition.
 - **Not inscribed as claims (admission test)**: Several statements were not inscribed:
   - The host's multiple-choice "game" about September 10 priorities
@@ -1404,7 +1404,7 @@ Confidence: high
   - The warning to Blake Neff about a "background lead" (no content given)
   - The family-reunion and "gated communities" riffs at Nick Shirley
   - The "two birds one stone… Iran's oil" joke
-  - The claim that "everybody kind of knows Emanuel Mcronone's gay"
+  - The claim that "everybody kind of knows Emmanuel Macron's gay"
 - **Minor factual beats not inscribed**: The host says the clip was "a little over an hour after the shooting" in some places and "less than 20 minutes" after the Sidner upload in others; both are preserved where quoted. Other beats left out:
   - The top comment from "A Detto" about São Paulo police avoiding PCC turf
   - A viewer's report that Brazilian gangs run paid tours

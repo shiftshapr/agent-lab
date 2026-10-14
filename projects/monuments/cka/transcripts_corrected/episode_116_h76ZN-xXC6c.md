@@ -150,7 +150,7 @@ And what why do they need Why do they need to have an early conversation right a
 
 [24:11]
 
-An explosion uh is also compelling because it would go some way of explaining why Tara Farnsworth was instructed specifically to take the SD card from the camera that was behind Charlie's head because that was clearly the only video angle that would have revealed that Charlie did not die from a.30-06 bullet wound and that Man of Steel is not going to really cut it as some miraculous explanation. Also, people who believe that he zoomed in on the footage that he showed me, I want to let you know, uh great work. I think you are correct that he zoomed in on that that footage because it would have showed us more. I I think he he would have captured um a lot more in that footage if we're looking at comparing it to the past events where they suddenly started wanting to get that angle.
+An explosion uh is also compelling because it would go some way of explaining why Terrell Farnsworth was instructed specifically to take the SD card from the camera that was behind Charlie's head because that was clearly the only video angle that would have revealed that Charlie did not die from a.30-06 bullet wound and that Man of Steel is not going to really cut it as some miraculous explanation. Also, people who believe that he zoomed in on the footage that he showed me, I want to let you know, uh great work. I think you are correct that he zoomed in on that that footage because it would have showed us more. I I think he he would have captured um a lot more in that footage if we're looking at comparing it to the past events where they suddenly started wanting to get that angle.
 
 [25:01]
 
@@ -158,7 +158,7 @@ Then, and this is probably the most compelling piece of evidence in the explosiv
 
 [25:46]
 
-And what's strange, which needs reminding, is the speed at which the feds got rid of the car. They had it towed, cleaned, towed again, and resold or put up to be resold That is unimaginable. Unimaginable that any well-meaning police force would move to do that unless they were trying to get rid of evidence. Doesn't make sense. That that should be one of the biggest pieces of evidence as a that that that is a part that is a part of this court hearing. But rather, they contained it, got everything they needed at the hospital according to Frank Terrick, and then said, "All right, get rid of this car. Don't want it to see the light of day." And I was very lucky to get my hands on these photos, which reveal that there are certainly shards of something on the floor. Okay? And we're showing you these photos here. We can um keep going.
+And what's strange, which needs reminding, is the speed at which the feds got rid of the car. They had it towed, cleaned, towed again, and resold or put up to be resold That is unimaginable. Unimaginable that any well-meaning police force would move to do that unless they were trying to get rid of evidence. Doesn't make sense. That that should be one of the biggest pieces of evidence as a that that that is a part that is a part of this court hearing. But rather, they contained it, got everything they needed at the hospital according to Frank Turek, and then said, "All right, get rid of this car. Don't want it to see the light of day." And I was very lucky to get my hands on these photos, which reveal that there are certainly shards of something on the floor. Okay? And we're showing you these photos here. We can um keep going.
 
 [26:45]
 
@@ -222,7 +222,7 @@ His son, his family just stayed on FaceTime the entire time all through the hosp
 
 [37:19]
 
->> That was after we got to the hospital. >> Okay, then I got the first call from Mike cuz I was in the >> emergency room after we got Charlie there. >> I remember I called you. >> I remember what you were saying. >> Yeah. >> Oops. How'd you do that, Frank? Because here's you telling Megan Kelly that your phone was on FaceTime the entire time with your kids. Take a listen. >> I know you had your phone on and your son was hearing all of this, too. So I mean, he must he must have been traumatized just listening to it all. >> Yeah, he it was my son and daughter-in-law. I mean, he's 35 years old and I was just I was FaceTiming them because they love Charlie. I I was just well, first I I was FaceTiming my wife and then I said, "Let me call Spencer." And so I started FaceTiming him.
+>> That was after we got to the hospital. >> Okay, then I got the first call from Mike cuz I was in the >> emergency room after we got Charlie there. >> I remember I called you. >> I remember what you were saying. >> Yeah. >> Oops. How'd you do that, Frank? Because here's you telling Megyn Kelly that your phone was on FaceTime the entire time with your kids. Take a listen. >> I know you had your phone on and your son was hearing all of this, too. So I mean, he must he must have been traumatized just listening to it all. >> Yeah, he it was my son and daughter-in-law. I mean, he's 35 years old and I was just I was FaceTiming them because they love Charlie. I I was just well, first I I was FaceTiming my wife and then I said, "Let me call Spencer." And so I started FaceTiming him.
 
 [38:08]
 

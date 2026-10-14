@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq084
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep084): N-10582, N-10631, N-10641
+  - Hole-minted Nodes (reintro-ep084): N-10582, N-10631
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-602, N-603, N-604, N-605, N-606, N-10903, N-10904, N-10906
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-11, N-14, N-15, N-30, N-40, N-60, N-82, N-107, N-190, N-194, N-213, N-215, N-221, N-247, N-250, N-270, N-334, N-366, N-499, N-557, N-10000, N-10074, N-10108, N-10186, N-10203, N-10212, N-10367, N-10373, N-10378, N-10450, N-10478, N-10479, N-10483, N-10496, N-10508, N-10547, N-10548, N-10551, N-10554, N-10560, N-10905, N-10587
+  - Tip-minted Nodes (skeleton): N-602, N-603, N-604, N-606, N-10903, N-10904, N-10906
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-11, N-14, N-15, N-30, N-40, N-60, N-82, N-107, N-190, N-194, N-213, N-215, N-221, N-247, N-250, N-270, N-334, N-366, N-499, N-557, N-10000, N-10074, N-10108, N-10186, N-10203, N-10212, N-10367, N-10373, N-10378, N-10450, N-10478, N-10479, N-10483, N-10496, N-10508, N-10547, N-10548, N-10551, N-10554, N-10560, N-10905, N-10587, N-605, N-10641
   - Claim Range: C-3777–C-3826
   - (see registers)
 
@@ -299,7 +299,7 @@ Named on the scanner-based list of those escorted to Timpanogos Hospital with Er
 
 **N-14** Andrew Kolvet
 
-Transcript spelling "Andrew Kolb" / "Andrew Kolvets". The host theorizes he flew Santa Barbara to Scottsdale and hugged Erika Kirk there; his texts, recorded call, skit comment and Fort Huachuca messaging are cited.
+Transcript spelling "Andrew Kolvet" / "Andrew Kolvets". The host theorizes he flew Santa Barbara to Scottsdale and hugged Erika Kirk there; his texts, recorded call, skit comment and Fort Huachuca messaging are cited.
 
 *Related: C-3780, C-3781, C-3782, C-3783, C-3784, C-3785, C-3786, C-3787, C-3788, C-3789, C-3790, C-3792, C-3795, C-3800, C-3812, C-3814, C-3822, A-2526.1, A-2526.2, A-2527.1, A-2528.1, A-2533.4*
 
@@ -358,7 +358,7 @@ Host says Kolvet blames him for circulating the leaked text message.
 
 **N-215** Jesse Watters
 
-Transcript spelling "Jesse Waters". His interview with Erika Kirk is contrasted with the New York Times account.
+Transcript spelling "Jesse Watters". His interview with Erika Kirk is contrasted with the New York Times account.
 
 *Related: C-3808*
 
@@ -412,7 +412,7 @@ Named only as "Aubrey"; drafted the death statement and staff email per the host
 
 **N-602** Druski
 
-First named by the host at 00:00:46 in episode 084. Comedian whose viral skit mocking conservative women is played. Aliases: Drewski; Drew Ski; Jurski.
+First named by the host at 00:00:46 in episode 084. Comedian whose viral skit mocking conservative women is played. Aliases: Drewski; Druski; Jurski.
 
 *Related: C-3809, C-3811, A-2533.1, A-2533.3*
 
@@ -745,7 +745,7 @@ Claim Timestamp: 00:05:12
 
 Claim: The host states she is "very confident" Andrew Kolvet was aboard the Santa Barbara-to-Scottsdale flight that she says took off about five minutes after Charlie Kirk was shot, and says she will adjust if he denies it.
 
-Transcript Snippet: Andrew Kolb was aboard this flight. I feel very confident stating that.
+Transcript Snippet: Andrew Kolvet was aboard this flight. I feel very confident stating that.
 
 Anchored Artifacts: A-2528.1
 Mentions: N-14, N-1
@@ -760,7 +760,7 @@ Claim Timestamp: 00:05:12
 
 Claim: The host says she messaged Andrew Kolvet at 12:40 Mountain Time, "Please say he's okay," and that he replied, "I don't know. Shot for sure."
 
-Transcript Snippet: I messaged him at 12:40 Mountain Time, so a little under 20 minutes after Charlie got shot, and I said, "Please say he's okay." And Andrew Kolb replied and said, "I don't know. Shot for sure."
+Transcript Snippet: I messaged him at 12:40 Mountain Time, so a little under 20 minutes after Charlie got shot, and I said, "Please say he's okay." And Andrew Kolvet replied and said, "I don't know. Shot for sure."
 
 Anchored Artifacts: A-2526.1
 Mentions: N-3, N-14, N-1
@@ -1113,7 +1113,7 @@ Claim Timestamp: 00:27:22
 
 Claim: The host plays a viral skit by comedian Druski which she says mocks conservative women, namely Erika Kirk.
 
-Transcript Snippet: Here is Drew Ski Drew Ski uh mocking conservative women, namely Erika Kirk.
+Transcript Snippet: Here is Druski Druski uh mocking conservative women, namely Erika Kirk.
 
 Anchored Artifacts: A-2533.1
 Mentions: N-602, N-2
@@ -1155,7 +1155,7 @@ Claim Timestamp: 00:30:29
 
 Claim: The host shows Andrew Kolvet's comment on the Druski skit, "Now do conservative black women," which she believes refers to her.
 
-Transcript Snippet: the pettiest person who came in, person who was most upset by this, is Andrew Kolb. Look what Andrew Kolb commented. "Now do conservative black women."
+Transcript Snippet: the pettiest person who came in, person who was most upset by this, is Andrew Kolvet. Look what Andrew Kolvet commented. "Now do conservative black women."
 
 Anchored Artifacts: A-2533.4
 Mentions: N-14, N-3
@@ -1398,7 +1398,7 @@ Confidence: high
 
 Video Timestamp: 00:45:40
 Speaker: N-3
-Quote: Uh UFO writes, "Andrew Kolb at hahaha." Yeah, he's big mad. Go after black conservatives.
+Quote: Uh UFO writes, "Andrew Kolvet at hahaha." Yeah, he's big mad. Go after black conservatives.
 Context: Host reprises Big Mad about Andrew Kolvet while reading viewer comments.
 Tags: chat_elevate, roast, comedy, reuse
 Confidence: high
@@ -1423,7 +1423,7 @@ Confidence: high
 - **Artifacts verbally referenced but not shown**: A-2529.1 (TPUSA cease and desist), A-2531.1 (Erika Kirk's Instagram video of her mother), A-2534.1 (Scott Bessent letter) and A-2536.1 (online piece and insurance claim about the host's husband; the host says it will be shown next week).
 - **Date discrepancy**: the host dates Erika Kirk's frail-mother Instagram post to September 8 ("2 days before"), while prior claim C-2284 and node N-10479 date it September 7. C-3803 is linked as Supports C-2284 on the shared proposition; the date difference is preserved.
 - **Name matching**: "Elizabeth McCord" (19:56, 20:52) and "Elizabeth McCoy" (15:29) are both mapped to N-221 Eliza McCoy (alias Elizabeth McCoy). The context (the airport story and Mikey McCoy's wife) indicates the same person, but McCord may be a transcription error. "Cat" (14:28) and "Katherine Locastro" (15:29) are treated as one new person, N-605. Episodes 083, 085 and 086 spell her LoCastro, LaCastro and Low Castro, but she has no row in nodes.tsv, so the integrator should dedupe. "Marina Medvin" is matched to N-499 Marina (TPUSA CMO) through its alias.
-- **Transcription ambiguities**: The comedian is spelled "Drewski", "Drew Ski" and "Jurski"; these are kept as written and aliased to N-602 Druski. Kolvet appears as "Andrew Kolb" and "Andrew Kolvets". The tail number is first read as "N28 9 MM" and then corrected on air to N582MM. The scanner line "2J436 436" is a unit or cruiser identifier per the host. "Sergeant Dupey" spelling is unverified.
+- **Transcription ambiguities**: The comedian is spelled "Drewski", "Druski" and "Jurski"; these are kept as written and aliased to N-602 Druski. Kolvet appears as "Andrew Kolvet" and "Andrew Kolvets". The tail number is first read as "N28 9 MM" and then corrected on air to N582MM. The scanner line "2J436 436" is a unit or cruiser identifier per the host. "Sergeant Dupey" spelling is unverified.
 - **Timing ambiguity**: the host says Kolvet was "on the flight that landed at 4:30 p. m." (05:56) but elsewhere says "about 4:40 p. m." (02:15) and "4:36 plane" (14:28). All are preserved as spoken.
 - **Not inscribed as claims (admission test)**: Several statements fail falsifiability or rhetoric removal:
   - "Erika's always lying"

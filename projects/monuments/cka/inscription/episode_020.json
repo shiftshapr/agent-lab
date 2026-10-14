@@ -190,13 +190,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1275",
       "family_ref": "A-1275",
-      "bundle_name": "Andrew Kovett TPUSA Response Audio",
+      "bundle_name": "Andrew Kolvet TPUSA Response Audio",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1275.1",
           "ref": "A-1275.1",
-          "description": "Andrew Kovett statement on Mikey McCoy's post-shooting actions",
+          "description": "Andrew Kolvet statement on Mikey McCoy's post-shooting actions",
           "related_claims": [
             "C-1499",
             "C-1500"
@@ -220,13 +220,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1276",
       "family_ref": "A-1276",
-      "bundle_name": "Alex Marlo Breitbart Audio",
+      "bundle_name": "Alex Marlow Breitbart Audio",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1276.1",
           "ref": "A-1276.1",
-          "description": "Alex Marlo statement dismissing conspiracy claims",
+          "description": "Alex Marlow statement dismissing conspiracy claims",
           "related_claims": [
             "C-1501"
           ],
@@ -247,13 +247,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1277",
       "family_ref": "A-1277",
-      "bundle_name": "Frank Turk Audio",
+      "bundle_name": "Frank Turek Audio",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1277.1",
           "ref": "A-1277.1",
-          "description": "Frank Turk statement defending Mikey McCoy",
+          "description": "Frank Turek statement defending Mikey McCoy",
           "related_claims": [
             "C-1502"
           ],
@@ -409,6 +409,247 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3188",
+      "family_ref": "A-3188",
+      "bundle_name": "Charlie Reply to Cernovich Tweets Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3188.1",
+          "ref": "A-3188.1",
+          "description": "Text message read on air: Charlie replies that he felt it too and the dreams got darker",
+          "related_claims": [
+            "C-12153"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-193",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:46",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3189",
+      "family_ref": "A-3189",
+      "bundle_name": "Charlie Kirk Night-Before Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3189.1",
+          "ref": "A-3189.1",
+          "description": "Tweet from Charlie Kirk shown on air, posted the night before the Kanye tweet",
+          "related_claims": [
+            "C-12154"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-27",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:07:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3190",
+      "family_ref": "A-3190",
+      "bundle_name": "Kanye Distances Himself Headline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3190.1",
+          "ref": "A-3190.1",
+          "description": "2018 headline and statement shown on air: Kanye West distances himself from Blexit and Trump",
+          "related_claims": [
+            "C-12170",
+            "C-12171"
+          ],
+          "related_nodes": [
+            "N-27",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:34",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3191",
+      "family_ref": "A-3191",
+      "bundle_name": "Kanye Blexit Logo Photos Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3191.1",
+          "ref": "A-3191.1",
+          "description": "Host verbal reference to photos of Kanye directing the Blexit logo design (not shown)",
+          "related_claims": [
+            "C-12172"
+          ],
+          "related_nodes": [
+            "N-193",
+            "N-27",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:15:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3192",
+      "family_ref": "A-3192",
+      "bundle_name": "Simon Wiesenthal Center Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3192.1",
+          "ref": "A-3192.1",
+          "description": "Host verbal reference to a Simon Wiesenthal Center statement against her comments (not shown)",
+          "related_claims": [
+            "C-12179"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:19:58",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3193",
+      "family_ref": "A-3193",
+      "bundle_name": "Kolvet Surgeon Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3193.1",
+          "ref": "A-3193.1",
+          "description": "Host verbal reference to Andrew Kolvet's tweet quoting the surgeon (not shown)",
+          "related_claims": [
+            "C-12200"
+          ],
+          "related_nodes": [
+            "N-14",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:28:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3194",
+      "family_ref": "A-3194",
+      "bundle_name": "UVU System Entry Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3194.1",
+          "ref": "A-3194.1",
+          "description": "Host describes the UVU system entry for Charlie Kirk with birthday, age and MRN (shown or described, not clearly visible)",
+          "related_claims": [
+            "C-12217"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:34:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3195",
+      "family_ref": "A-3195",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3195.1",
+          "ref": "A-3195.1",
+          "description": "Host verbal reference to the tip email address (verbal call for tips)",
+          "related_claims": [
+            "C-12219"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3196",
+      "family_ref": "A-3196",
+      "bundle_name": "Mikey McCoy Event Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3196.1",
+          "ref": "A-3196.1",
+          "description": "Video of Mikey McCoy at the September 10 event discussed on air",
+          "related_claims": [
+            "C-12226",
+            "C-12227",
+            "C-12228",
+            "C-12229"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-14",
+            "N-194",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:05",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -539,7 +780,7 @@
       "@type": "Person",
       "@id": "N-195",
       "ref": "N-195",
-      "name": "Alex Marlo",
+      "name": "Alex Marlow",
       "type": "person",
       "description": "Breitbart News; subject of on-air clip dismissing conspiracy allegations against Mikey McCoy and characterizing online speculation as addictive.",
       "related_artifacts": [
@@ -604,7 +845,7 @@
       "ref": "N-82",
       "name": "Brigitte Macron",
       "type": "person",
-      "description": "Spouse of Emmanuel Macron (transcribed by host as \"Breijit Mcronone\"); subject of French tax-form reporting cited as showing \"Jean Michelle\" male registration.",
+      "description": "Spouse of Emmanuel Macron (transcribed by host as \"Brigitte Macron\"); subject of French tax-form reporting cited as showing \"Jean Michelle\" male registration.",
       "related_artifacts": [
         "A-1280.1"
       ],
@@ -867,7 +1108,44 @@
       "type": "person",
       "description": "Deceased founder of Turning Point USA; subject of financial concerns expressed one week before his death; subject of the assassination investigation.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12146",
+        "C-12147",
+        "C-12148",
+        "C-12149",
+        "C-12150",
+        "C-12151",
+        "C-12153",
+        "C-12154",
+        "C-12155",
+        "C-12156",
+        "C-12163",
+        "C-12164",
+        "C-12167",
+        "C-12168",
+        "C-12173",
+        "C-12174",
+        "C-12180",
+        "C-12188",
+        "C-12198",
+        "C-12199",
+        "C-12201",
+        "C-12204",
+        "C-12208",
+        "C-12210",
+        "C-12214",
+        "C-12215",
+        "C-12216",
+        "C-12217",
+        "C-12224",
+        "C-12227",
+        "C-12230",
+        "C-12234",
+        "C-12235",
+        "C-12238",
+        "C-12239",
+        "C-12260"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -883,7 +1161,9 @@
       "type": "person",
       "description": "Widow of Charlie Kirk, discussed in episode as new CEO/chairman of TPUSA. Host defends her against public criticism of fundraising emails.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12230"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -945,13 +1225,1094 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12146",
+        "C-12147",
+        "C-12148",
+        "C-12149",
+        "C-12150",
+        "C-12151",
+        "C-12153",
+        "C-12154",
+        "C-12155",
+        "C-12156",
+        "C-12157",
+        "C-12158",
+        "C-12159",
+        "C-12160",
+        "C-12161",
+        "C-12162",
+        "C-12163",
+        "C-12164",
+        "C-12166",
+        "C-12167",
+        "C-12168",
+        "C-12169",
+        "C-12170",
+        "C-12171",
+        "C-12172",
+        "C-12173",
+        "C-12174",
+        "C-12175",
+        "C-12176",
+        "C-12177",
+        "C-12178",
+        "C-12179",
+        "C-12180",
+        "C-12181",
+        "C-12182",
+        "C-12183",
+        "C-12184",
+        "C-12185",
+        "C-12186",
+        "C-12187",
+        "C-12188",
+        "C-12189",
+        "C-12190",
+        "C-12191",
+        "C-12192",
+        "C-12193",
+        "C-12194",
+        "C-12195",
+        "C-12196",
+        "C-12197",
+        "C-12198",
+        "C-12199",
+        "C-12200",
+        "C-12201",
+        "C-12202",
+        "C-12203",
+        "C-12204",
+        "C-12205",
+        "C-12206",
+        "C-12207",
+        "C-12208",
+        "C-12209",
+        "C-12210",
+        "C-12211",
+        "C-12212",
+        "C-12213",
+        "C-12214",
+        "C-12215",
+        "C-12216",
+        "C-12217",
+        "C-12218",
+        "C-12219",
+        "C-12220",
+        "C-12221",
+        "C-12222",
+        "C-12223",
+        "C-12224",
+        "C-12225",
+        "C-12226",
+        "C-12227",
+        "C-12228",
+        "C-12229",
+        "C-12230",
+        "C-12231",
+        "C-12232",
+        "C-12233",
+        "C-12234",
+        "C-12236",
+        "C-12237",
+        "C-12238",
+        "C-12239",
+        "C-12240",
+        "C-12241",
+        "C-12242",
+        "C-12243",
+        "C-12244",
+        "C-12245",
+        "C-12246",
+        "C-12247",
+        "C-12248",
+        "C-12249",
+        "C-12250",
+        "C-12251",
+        "C-12252",
+        "C-12253",
+        "C-12254",
+        "C-12255",
+        "C-12256",
+        "C-12257",
+        "C-12258",
+        "C-12259",
+        "C-12260",
+        "C-12261"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Donald Trump; the host discusses his invitation to Kash Patel and the Adelson donation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12256",
+        "C-12258",
+        "C-12259"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Tucker Carlson; attacked alongside the host by a woman the host links to Lila Rose.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12195"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "The host's husband; the host recounts meeting him in the UK and his past donations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12174",
+        "C-12254",
+        "C-12255"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-33",
+      "ref": "N-33",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Donald Trump Jr.; the host says he may have said he accepts the official narrative.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12257"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu; named in the host's TikTok remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12159"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Kash Patel; the host says Trump invited him to the Charlie holiday event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12256"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-118",
+      "ref": "N-118",
+      "name": "Marissa Streit",
+      "type": "person",
+      "description": "Marissa Streit (listed as Marissa Streit); PragerU CEO, said by the host to have IDF intelligence background.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12182",
+        "C-12183",
+        "C-12184",
+        "C-12192"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-131",
+      "ref": "N-131",
+      "name": "Ian Carroll",
+      "type": "person",
+      "description": "Ian Carroll; named as one of those who surfaced the Mikey McCoy video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12223"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-158",
+      "ref": "N-158",
+      "name": "Arena Mappin",
+      "type": "person",
+      "description": "Arena Mappin; with John Mappin arranged the host's UK event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12173"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-173",
+      "ref": "N-173",
+      "name": "Tate Brothers (Andrew and Tristan)",
+      "type": "person",
+      "description": "Tate Brothers; the host mentions a lawyer for one of Andrew Tate's accusers.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12194",
+        "C-12195"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-185",
+      "ref": "N-185",
+      "name": "Sam Parker",
+      "type": "person",
+      "description": "Sam Parker; named as one of those who surfaced the Mikey McCoy video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12223"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-186",
+      "ref": "N-186",
+      "name": "James Lee",
+      "type": "person",
+      "description": "James Lee; named as one of those who surfaced the Mikey McCoy video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12223"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-232",
+      "ref": "N-232",
+      "name": "Lila Rose",
+      "type": "person",
+      "description": "Lila Rose; the host links her to Marissa Streit's donors, the Christ is King jibe and a Tate-related guest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12192",
+        "C-12193",
+        "C-12194",
+        "C-12195"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-282",
+      "ref": "N-282",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Bari Weiss; the host mentions a story about her grandfather.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12196"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-302",
+      "ref": "N-302",
+      "name": "Miriam Adelson",
+      "type": "person",
+      "description": "Miriam Adelson; the host says she gave Trump $100 million tied to annexation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12258"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-363",
+      "ref": "N-363",
+      "name": "Kim Kardashian",
+      "type": "person",
+      "description": "Kim Kardashian; the host says she wanted nothing to do with Kanye's politics.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12166"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-383",
+      "ref": "N-383",
+      "name": "Emmanuel Macron",
+      "type": "person",
+      "description": "Emmanuel Macron; subject of two tangential host claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12243",
+        "C-12248"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-490",
+      "ref": "N-490",
+      "name": "Blake Lively",
+      "type": "person",
+      "description": "Blake Lively; the lawsuit in which the host says she was drafted.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12232"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-491",
+      "ref": "N-491",
+      "name": "Justin Baldoni",
+      "type": "person",
+      "description": "Justin Baldoni; the other party in that lawsuit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12232"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-526",
+      "ref": "N-526",
+      "name": "Rothschild Family",
+      "type": "person",
+      "description": "Rothschild family; named in the host's claim about Macron.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12243"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-715",
+      "ref": "N-715",
+      "name": "John F. Kennedy",
+      "type": "person",
+      "description": "John F. Kennedy; named in two historical assertions by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12207",
+        "C-12240"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; the host says it ran like a military operation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12185"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10004",
+      "ref": "N-10004",
+      "name": "Kanye Tweet About Candace Owens",
+      "type": "investigation_target",
+      "description": "Kanye Tweet About Candace Owens; manifested remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12146"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10112",
+      "ref": "N-10112",
+      "name": "Lone-Shooter Narrative Critique",
+      "type": "investigation_target",
+      "description": "Lone-Shooter Narrative Critique; the host rejects the lone-shooter account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12239"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10118",
+      "ref": "N-10118",
+      "name": "Candace UK Premonition / Husband Meeting",
+      "type": "investigation_target",
+      "description": "Candace UK Premonition / Husband Meeting; the host's pull to go to the UK.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12168",
+        "C-12174"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10131",
+      "ref": "N-10131",
+      "name": "PragerU",
+      "type": "investigation_target",
+      "description": "PragerU; offered the host a job in early 2019.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12181",
+        "C-12182",
+        "C-12183"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10139",
+      "ref": "N-10139",
+      "name": "Operation Mocking Pastor",
+      "type": "investigation_target",
+      "description": "Operation Mocking Pastor; the host's coinage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12236"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10149",
+      "ref": "N-10149",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Hospital Routing Discrepancy; ambulance, trauma level and missing footage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12211",
+        "C-12212",
+        "C-12213"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10183",
+      "ref": "N-10183",
+      "name": "Medical Examiner Inquiry – Weiss Amaro",
+      "type": "investigation_target",
+      "description": "Medical Examiner Inquiry – Weiss Amaro; new host statements.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12204",
+        "C-12205"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10202",
+      "ref": "N-10202",
+      "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+      "type": "investigation_target",
+      "description": "FBI Charlie Kirk Investigation Handling (Kash Patel); the holiday event remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12256"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10210",
+      "ref": "N-10210",
+      "name": "NAR (New Apostolic Reformation) Infiltration Question",
+      "type": "investigation_target",
+      "description": "NAR Infiltration Question; military and church infiltration remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12236"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10270",
+      "ref": "N-10270",
+      "name": "Macron Defamation Lawsuit Delaware Venue Question",
+      "type": "investigation_target",
+      "description": "Macron Defamation Lawsuit Delaware Venue Question; the host's remarks on the suit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12247",
+        "C-12248",
+        "C-12249",
+        "C-12250",
+        "C-12251"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10341",
+      "ref": "N-10341",
+      "name": "Andrew Kolvet Surgeon Bullet Description",
+      "type": "investigation_target",
+      "description": "Andrew Kolvet Surgeon Bullet Description; the moose quote.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12200"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10389",
+      "ref": "N-10389",
+      "name": "Charlie Kirk Premonition Dreams",
+      "type": "investigation_target",
+      "description": "Charlie Kirk Premonition Dreams; the host's account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12147",
+        "C-12148",
+        "C-12153",
+        "C-12260"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10447",
+      "ref": "N-10447",
+      "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+      "type": "investigation_target",
+      "description": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy; neck claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12199"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10589",
+      "ref": "N-10589",
+      "name": "Adelson–West Bank Annexation Meeting Verification",
+      "type": "investigation_target",
+      "description": "Adelson–West Bank Annexation Meeting Verification; Adelson donation remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12258",
+        "C-12259"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10660",
+      "ref": "N-10660",
+      "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Hospital \"No Neck Left\" Narrative Discrepancy; neck and 306 claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12198",
+        "C-12199"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10661",
+      "ref": "N-10661",
+      "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
+      "type": "investigation_target",
+      "description": "Blake Lively / Justin Baldoni Lawsuit Outcome; the host's collusion rebuttal.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12232"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10663",
+      "ref": "N-10663",
+      "name": "Mikey McCoy Witness Reliability Question",
+      "type": "investigation_target",
+      "description": "Mikey McCoy Witness Reliability Question; account comes from Kolvet not McCoy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12231"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10687",
+      "ref": "N-10687",
+      "name": "Frank Turek CPR Claim Verification",
+      "type": "investigation_target",
+      "description": "Frank Turek CPR Claim Verification; Turek's stated preparation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12235"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11071",
+      "ref": "N-11071",
+      "name": "Hitler Remark Clip Dispute",
+      "type": "investigation_target",
+      "description": "Hitler Remark Clip Dispute; the host's account of the 2019 clip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12175",
+        "C-12176",
+        "C-12177",
+        "C-12178",
+        "C-12180"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11103",
+      "ref": "N-11103",
+      "name": "TikTok",
+      "type": "investigation_target",
+      "description": "TikTok; the buyer-group remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12159"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11117",
+      "ref": "N-11117",
+      "name": "Kanye Condemnation Pressure and Contract Cut",
+      "type": "investigation_target",
+      "description": "Kanye Condemnation Pressure and Contract Cut; the October 2018 statement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12165",
+        "C-12169",
+        "C-12170",
+        "C-12171"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-912",
+      "ref": "N-912",
+      "name": "Eric Weinstein",
+      "type": "person",
+      "description": "Named by the host in episode 20 as someone who reached out after the 2018 Kanye tweet.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12161"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-913",
+      "ref": "N-913",
+      "name": "Rick Rubin",
+      "type": "person",
+      "description": "Music producer named by the host in episode 20 as getting involved after the 2018 Kanye tweet.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12162"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-914",
+      "ref": "N-914",
+      "name": "John Lewis",
+      "type": "person",
+      "description": "Named by the host in episode 20 as a former Daily Wire president who was a naval intelligence officer turned pastor (identity as stated on air, unverified).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12190"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-915",
+      "ref": "N-915",
+      "name": "MrBeast",
+      "type": "person",
+      "description": "YouTuber (transcribed \"Mr. Beast\") whose parents the host says are high up in the military.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12191",
+        "C-12197"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11322",
+      "ref": "N-11322",
+      "name": "Blexit",
+      "type": "organization",
+      "description": "Movement the host launched, whose logo she says Kanye West helped design.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12151",
+        "C-12169",
+        "C-12170",
+        "C-12172"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11323",
+      "ref": "N-11323",
+      "name": "Simon Wiesenthal Center",
+      "type": "organization",
+      "description": "Jewish human-rights organization that the host says issued a statement against her 2019 comments and that she visited with PragerU's CEO.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12179",
+        "C-12183",
+        "C-12184"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "organization",
+      "description": "Media company where the host worked after PragerU; the host says its president was a naval intelligence officer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12190"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11324",
+      "ref": "N-11324",
+      "name": "Raytheon",
+      "type": "organization",
+      "description": "Defense contractor, transcribed \"Rathon\", that the host says everyone is somehow attached to.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12197"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11218",
+      "ref": "N-11218",
+      "name": "Timpanogos Regional Hospital",
+      "type": "organization",
+      "description": "Hospital to which the host says Charlie Kirk was routed after the shooting (transcribed \"Timpanogos\").",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12211",
+        "C-12213",
+        "C-12221"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11325",
+      "ref": "N-11325",
+      "name": "Utah Valley Hospital",
+      "type": "organization",
+      "description": "Hospital the host says held an alleged Charlie Kirk medical file and which she says was closer to the event than Timpanogos.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12211",
+        "C-12214",
+        "C-12215",
+        "C-12216",
+        "C-12217",
+        "C-12220",
+        "C-12221"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11326",
+      "ref": "N-11326",
+      "name": "Breitbart News",
+      "type": "organization",
+      "description": "Media outlet run by Alex Marlow, guest on the Charlie Kirk Show in the clip played by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12233"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1117,15 +2478,15 @@
       "@type": "Claim",
       "@id": "C-1499",
       "ref": "C-1499",
-      "label": "Andrew Kovett states Charlie drilled an emergency-call protocol into Mikey McCoy",
-      "claim": "In TPUSA audio played on air, Andrew Kovett states Charlie repeatedly instructed Mikey that \"If anything ever happens to me, you call Erika,\" and that Mikey followed that protocol after the shot.",
+      "label": "Andrew Kolvet states Charlie drilled an emergency-call protocol into Mikey McCoy",
+      "claim": "In TPUSA audio played on air, Andrew Kolvet states Charlie repeatedly instructed Mikey that \"If anything ever happens to me, you call Erika,\" and that Mikey followed that protocol after the shot.",
       "anchored_artifacts": [
         "A-1275.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:46–00:44:30",
-      "investigative_direction": "Verify whether Mikey McCoy himself has publicly corroborated Kovett's account, and obtain any contemporaneous record of the alleged instruction.",
+      "investigative_direction": "Verify whether Mikey McCoy himself has publicly corroborated Kolvet's account, and obtain any contemporaneous record of the alleged instruction.",
       "mentions_person_refs": [
         "N-1",
         "N-2",
@@ -1137,15 +2498,15 @@
       "@type": "Claim",
       "@id": "C-1500",
       "ref": "C-1500",
-      "label": "Andrew Kovett states Mikey McCoy was capturing social video, not on the phone, at the moment of the shot",
-      "claim": "Kovett states Mikey was taking social-video clips for the TPUSA group chat at the time of the shot, with the phone in his hand only as he covered his ears due to the loud blast.",
+      "label": "Andrew Kolvet states Mikey McCoy was capturing social video, not on the phone, at the moment of the shot",
+      "claim": "Kolvet states Mikey was taking social-video clips for the TPUSA group chat at the time of the shot, with the phone in his hand only as he covered his ears due to the loud blast.",
       "anchored_artifacts": [
         "A-1275.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:39:46–00:44:30",
-      "investigative_direction": "Obtain the full video clip from which Kovett's narration derives, and time-stamp Mikey's actions frame-by-frame.",
+      "investigative_direction": "Obtain the full video clip from which Kolvet's narration derives, and time-stamp Mikey's actions frame-by-frame.",
       "mentions_person_refs": [
         "N-1",
         "N-14",
@@ -1156,8 +2517,8 @@
       "@type": "Claim",
       "@id": "C-1501",
       "ref": "C-1501",
-      "label": "Alex Marlo characterizes online conspiracy allegations against Mikey McCoy as akin to drug/pornography addiction",
-      "claim": "In Breitbart audio played on air, Alex Marlo characterizes suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as \"vile\" and likens the mindset fueling such claims to drug or pornography addiction.",
+      "label": "Alex Marlow characterizes online conspiracy allegations against Mikey McCoy as akin to drug/pornography addiction",
+      "claim": "In Breitbart audio played on air, Alex Marlow characterizes suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as \"vile\" and likens the mindset fueling such claims to drug or pornography addiction.",
       "anchored_artifacts": [
         "A-1276.1"
       ],
@@ -1174,8 +2535,8 @@
       "@type": "Claim",
       "@id": "C-1502",
       "ref": "C-1502",
-      "label": "Frank Turk defends Mikey McCoy and rebukes Candace for advancing unevidenced claims",
-      "claim": "Frank Turk states there is a \"difference between a possibility and evidence for a possibility,\" tells critics without evidence to \"shut up,\" and characterizes Mikey McCoy's actions on September 10, 2025 as heroic given his age (23) at the time.",
+      "label": "Frank Turek defends Mikey McCoy and rebukes Candace for advancing unevidenced claims",
+      "claim": "Frank Turek states there is a \"difference between a possibility and evidence for a possibility,\" tells critics without evidence to \"shut up,\" and characterizes Mikey McCoy's actions on September 10, 2025 as heroic given his age (23) at the time.",
       "anchored_artifacts": [
         "A-1277.1"
       ],
@@ -1387,6 +2748,2487 @@
       "mentions_person_refs": [
         "N-179"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12146",
+      "ref": "C-12146",
+      "label": "Host Says She and Charlie Were Convinced They Had Manifested the Kanye Tweet",
+      "claim": "The host says that when Kanye West tweeted that he loved the way Candace Owens thinks, she and Charlie were convinced they had somehow manifested it, a view some viewers objected to on theological grounds.",
+      "anchored_artifacts": [
+        "A-1272.1"
+      ],
+      "related_nodes": [
+        "N-10004"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:24",
+      "investigative_direction": "Compare with the host's earlier tribute video wording and the April 20 and 21, 2018 texts (A-1270.2, A-1270.3).",
+      "transcript_snippet": "Charlie and&nbsp; I freaked out because we were convinced that we&nbsp;&nbsp; had somehow manifested that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12147",
+      "ref": "C-12147",
+      "label": "Host Says Charlie Had Lifelong Dreams of Dying in a Tragic Quick Way",
+      "claim": "The host says Charlie Kirk told her he had dreams throughout his entire life that he was going to die in a really tragic, quick way.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:52",
+      "investigative_direction": "Find earlier statements by Kirk or those close to him about dreams of an early death, and the host's dated messages with him on the subject.",
+      "transcript_snippet": "Dreams that he said he had throughout&nbsp; his entire life that he was going to die in a&nbsp;&nbsp; really tragic quick way.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12148",
+      "ref": "C-12148",
+      "label": "Host Says Charlie Had Vivid Dreams in April 2018 That Something Big Was About to Happen",
+      "claim": "The host says that in April 2018, in the weeks before Kanye West's tweet, Charlie Kirk was having vivid dreams that something big was about to happen.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:59",
+      "investigative_direction": "Obtain the April 2018 message thread in which the host says they discussed the dreams and the \"energy shift\".",
+      "transcript_snippet": "But especially in April,&nbsp; he was having vivid dreams that something big was&nbsp;&nbsp; about to happen.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12149",
+      "ref": "C-12149",
+      "label": "Host Says She and Charlie Had Only Recently Got Together in the November Before April 2018",
+      "claim": "The host says that in April 2018 neither she nor Charlie was well known and that they had just kind of got together the November before.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:37",
+      "investigative_direction": "Establish when the host and Kirk first worked together (earliest messages, event records from late 2017).",
+      "transcript_snippet": "We had just kind of gotten together um the&nbsp;&nbsp; November before",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12150",
+      "ref": "C-12150",
+      "label": "Host Says She and Charlie Listened to Kanye Music Daily, Especially Power",
+      "claim": "The host says she and Charlie were listening to Kanye West music literally every day in early 2018, especially the song Power.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:42",
+      "investigative_direction": "Compare with the TPUSA tour use of Power as hype song and the host's earlier statements about it.",
+      "transcript_snippet": "we were&nbsp; listening to Kanye West music every day. I mean&nbsp;&nbsp; literally every day, especially the song Power.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12151",
+      "ref": "C-12151",
+      "label": "Host Says She Told Charlie They Had to Get to Kanye for Blexit",
+      "claim": "The host says she told Charlie that if they could get to Kanye West she thought he would join her Blexit movement.",
+      "anchored_artifacts": [
+        "A-1270.1"
+      ],
+      "related_nodes": [
+        "N-11322"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:02",
+      "investigative_direction": "Corroborate with the April 13, 2018 text (A-1270.1) and any Blexit launch-planning records.",
+      "transcript_snippet": "If we can get to Kanye, I&nbsp;&nbsp; think he'll join my Blexit movement.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12152",
+      "ref": "C-12152",
+      "label": "Host Says Mike Cernovich Has Since Deleted the Energy-Shift Tweets",
+      "claim": "The host says Mike Cernovich has since deleted the tweets about an energy shift that she shows, and invites viewers to ask him.",
+      "anchored_artifacts": [
+        "A-1271.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:48",
+      "investigative_direction": "Check web archives for the April 2018 Cernovich thread and ask Cernovich whether he deleted it.",
+      "transcript_snippet": "He has since deleted&nbsp; these tweets, but you can ask him",
+      "mentions_person_refs": [
+        "N-193"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12153",
+      "ref": "C-12153",
+      "label": "Charlie Texted Back \"Yep, We Felt It, Too\" About Darker Dreams After the Cernovich Tweets",
+      "claim": "The host reads a message in which Charlie, after she forwarded the Cernovich tweets, replied that he had felt it too and reminded her he had told her the dreams got darker.",
+      "anchored_artifacts": [
+        "A-3188.1"
+      ],
+      "related_nodes": [
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:46",
+      "investigative_direction": "Obtain the original message thread with device metadata for the April 16, 2018 exchange.",
+      "transcript_snippet": "Yep, we felt it, too. Remember&nbsp; I told you uh the dreams got darker.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-193"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12154",
+      "ref": "C-12154",
+      "label": "Charlie Posted a Night-Before Tweet About Listening to Kanye and the War Coming",
+      "claim": "The host shows what she describes as a tweet from Charlie the night before Kanye's tweet, reading: listening to Kanye and running his streets, \"Are you ready for the war that's coming? We're going to fight. We're going to win. They will lose.\"",
+      "anchored_artifacts": [
+        "A-3189.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:15",
+      "investigative_direction": "Locate the original post in Kirk's account history or a web archive and confirm its date.",
+      "transcript_snippet": "Let&nbsp;&nbsp; me show you that tweet night before I'm listening&nbsp; to Kanye and just running my streets. Are you&nbsp;&nbsp; ready for the war that's coming? We're going to&nbsp; fight. We're going to win. They will lose.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12155",
+      "ref": "C-12155",
+      "label": "Host Says She and Charlie Were Assigned Handlers From the Moment of the Kanye Tweet",
+      "claim": "The host says she believes, retrospectively, that from the moment of the Kanye tweet onward she and Charlie Kirk were assigned handlers.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:31",
+      "investigative_direction": "Ask the host to name the alleged handlers and give dated examples of events she says were engineered.",
+      "transcript_snippet": "from that moment onward&nbsp;&nbsp; Charlie and I were assigned handlers.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12156",
+      "ref": "C-12156",
+      "label": "Host Says Things Were Done Intentionally Since 2018 to Pull Her and Charlie Apart",
+      "claim": "The host says she now very much believes she has had handlers since 2018 and that things were done intentionally to pull her and Charlie apart.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:44",
+      "investigative_direction": "Identify the specific incidents she attributes to this effort and any records of who was involved.",
+      "transcript_snippet": "I&nbsp;&nbsp; now very much believe that I have had handlers um&nbsp; since 2018 and that things were done intentionally&nbsp;&nbsp; to pull me and Charlie apart.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12157",
+      "ref": "C-12157",
+      "label": "Host Says David Horowitz of the Freedom Center Contacted Her Before Kanye's People Did",
+      "claim": "The host says she replied to Kanye asking him to take a meeting and that, before hearing from his people, she heard from David Horowitz of the Freedom Center.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:56",
+      "investigative_direction": "Obtain the April 2018 tweet and Horowitz's message to the host.",
+      "transcript_snippet": "I tweeted back at Kanye and I said,&nbsp; \"Please take a meeting with us.\" And uh before I&nbsp;&nbsp; could hear directly from Kanye's people, I heard&nbsp; from David Horowitz of the of Freedom Center.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27",
+        "N-197"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12158",
+      "ref": "C-12158",
+      "label": "Host Says Horowitz Was the First to Invite Her to Speak at His Conference",
+      "claim": "The host says David Horowitz was the person who first invited her to speak at his conference when she was going viral on YouTube.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:11:07",
+      "investigative_direction": "Check Freedom Center conference programs for the host's first appearance.",
+      "transcript_snippet": "He's&nbsp;&nbsp; the one that first invited me when I was going&nbsp; viral on YouTube to speak at his conference.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-197"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12159",
+      "ref": "C-12159",
+      "label": "Host Says Horowitz's Son Is Wanted in the TikTok Buyer Group Because of Psychological Warfare",
+      "claim": "The host says that David Horowitz is the father of a man whom she renders \"Andre and Harowitz\" and that the group buying TikTok wants him in it because they think it important for psychological warfare in the future; the preceding sentence ties this to Benjamin Netanyahu.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11103"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:22",
+      "investigative_direction": "Check reporting on the TikTok buyer consortium for a Horowitz family member and any Netanyahu involvement.",
+      "transcript_snippet": "wants&nbsp; Andre and Harowitz to be a part of this group that&nbsp;&nbsp; buys Tik Tok because and this is relevant. They&nbsp; think it's important for warfare, psychological&nbsp;&nbsp; warfare in the future.",
+      "supports_claim_refs": [
+        "C-10803"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-197",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12160",
+      "ref": "C-12160",
+      "label": "Host Says Horowitz Offered to Facilitate a Meeting With Kanye Through His Son",
+      "claim": "The host quotes Horowitz's message to her saying his son knows Kanye and he would like to facilitate a meeting.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:36",
+      "investigative_direction": "Obtain the message from Horowitz and ask Kanye's representatives whether the meeting occurred.",
+      "transcript_snippet": "my son knows Kanye and I would like to facilitate&nbsp; that meeting.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-197",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12161",
+      "ref": "C-12161",
+      "label": "Host Says Eric Weinstein Reached Out After the Tweet and Pretended to Befriend Her",
+      "claim": "The host says that after the Kanye tweet Eric Weinstein got involved and reached out, and she says he pretended he wanted to be her friend.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:40",
+      "investigative_direction": "Obtain the 2018 messages between the host and Weinstein and ask Weinstein for his account.",
+      "transcript_snippet": "Suddenly, they get Eric Weinstein&nbsp;&nbsp; involved and he reaches out and he pretends that&nbsp; he wants to be a friend to me.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-912"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12162",
+      "ref": "C-12162",
+      "label": "Host Says Rick Rubin Also Got Involved to Facilitate Meetings",
+      "claim": "The host says music producer Rick Rubin also got into the mix after the Kanye tweet and wanted to facilitate certain meetings.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:06",
+      "investigative_direction": "Ask the host for her messages with Rubin or his representatives and the meetings proposed.",
+      "transcript_snippet": "Another player in this was Rick Rubin.&nbsp; Yeah, the big music industry. Rick Rubin also&nbsp;&nbsp; got into the mix and wanted to facilitate certain&nbsp; meetings.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-913"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12163",
+      "ref": "C-12163",
+      "label": "Host Says Tyler Bowyer Introduced Charlie to Every Person Charlie Knows",
+      "claim": "The host says Tyler Bowyer was the only person with Charlie before and introduced him to every person Charlie knows.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:30",
+      "investigative_direction": "Establish Bowyer's role in early introductions from Kirk-era donor and staff records.",
+      "transcript_snippet": "He introduced him to every every&nbsp; person that Charlie knows.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-11",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12164",
+      "ref": "C-12164",
+      "label": "Host Says Bowyer Started Hiring and Told Charlie to Hire Professional Fundraisers and PR People Like Kolvet",
+      "claim": "The host says Bowyer started hiring a bunch of people and told Charlie they needed bigger, more professional money raisers and PR people such as Andrew Kolvet.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:34",
+      "investigative_direction": "Check TPUSA hiring dates for Kolvet and the fundraising staff and who recommended them.",
+      "transcript_snippet": "he starts hiring a&nbsp;&nbsp; bunch of people, telling Charlie that we need to&nbsp; hire bigger and more professional money raisers,&nbsp;&nbsp; PR people like Andrew Kolvet, you name it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-11",
+        "N-1",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12165",
+      "ref": "C-12165",
+      "label": "Host Says Kanye's Handlers Told Him He Was Not Allowed in Politics",
+      "claim": "The host says Kanye West had a team of people telling him he was not allowed to be involved in politics, which made him angrier.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11117"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:53",
+      "investigative_direction": "Identify the team members and any contract or management communications on Kanye's political activity.",
+      "transcript_snippet": "Kanye's&nbsp;&nbsp; got a team of people telling him he's not allowed&nbsp; to be involved in politics.",
+      "mentions_person_refs": [
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12166",
+      "ref": "C-12166",
+      "label": "Host Says Kim Kardashian Wanted Nothing to Do With Kanye's Political Involvement",
+      "claim": "The host says that during that period Kim Kardashian wanted nothing to do with Kanye's political involvement and that the host had been to their house.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:13:01",
+      "investigative_direction": "Look for contemporaneous reporting on Kardashian's position on Kanye's 2018 politics.",
+      "transcript_snippet": "This&nbsp; is in the time of Kim Kardashian and Kanye. She&nbsp;&nbsp; wanted nothing to do with it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27",
+        "N-363"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12167",
+      "ref": "C-12167",
+      "label": "Host Says Political Friends Told Charlie and Her Not to Get Involved With Kanye",
+      "claim": "The host says political friends were telling her and Charlie not to get involved with Kanye because he is crazy, and she replied that they had dreamed of this.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:09",
+      "investigative_direction": "Ask the host who the political friends were and when they gave this advice.",
+      "transcript_snippet": "political friends are telling&nbsp;&nbsp; Charlie and I don't get involved with Kanye cuz&nbsp; he's crazy.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12168",
+      "ref": "C-12168",
+      "label": "Host Says She Had an Unexplained Spiritual Pull to Go to the UK Though They Had No Business There",
+      "claim": "The host says she got a spiritual pull to go to the UK although she and Charlie had no business there and no reason to go.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10118"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:34",
+      "investigative_direction": "Review the 2018 messages in which she proposed the UK trip and the event's planning timeline.",
+      "transcript_snippet": "I got this spiritual pull that I needed&nbsp; to go to the UK. Charlie and I had no business in&nbsp;&nbsp; the UK at all. There was no reason for us to go",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12169",
+      "ref": "C-12169",
+      "label": "Host Says Kanye Helped Design the Blexit Logo and Was Told in October He Would Lose Everything",
+      "claim": "The host says that in October 2018, after Kanye helped her start designing the Blexit logo, the pressure on him became too great and he was told he would lose everything, including his marriage, if he did not abstain from politics.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11322",
+        "N-11117"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:09",
+      "investigative_direction": "Corroborate with Blexit launch materials and statements by Kanye's representatives from October 2018.",
+      "transcript_snippet": "Kanye had helped me to start designing the logo&nbsp; for Blexit that Kanye's pressure cooker got too&nbsp;&nbsp; hot. And basically they told him that he would&nbsp; lose everything, his marriage",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12170",
+      "ref": "C-12170",
+      "label": "Host Shows a 2018 Headline: Kanye Distances Himself From Blexit and Trump",
+      "claim": "The host displays a 2018 headline reading that Kanye West distances himself from Blexit and Trump, in which he says he has been used to spread messages.",
+      "anchored_artifacts": [
+        "A-3190.1"
+      ],
+      "related_nodes": [
+        "N-11322",
+        "N-11117"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:34",
+      "investigative_direction": "Retrieve the 2018 article and Kanye's original statement to confirm the wording and date.",
+      "transcript_snippet": "Kanye West distances&nbsp; himself from Blexit and Trump. He says, \"I've been&nbsp;&nbsp; used to spread messages.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12171",
+      "ref": "C-12171",
+      "label": "Host Says Kanye Did Not Write the Statement and One of His Handlers Did",
+      "claim": "The host says Kanye never wrote the statement distancing himself from Blexit and Trump and that one of his handlers did.",
+      "anchored_artifacts": [
+        "A-3190.1"
+      ],
+      "related_nodes": [
+        "N-11117"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:40",
+      "investigative_direction": "Ask Kanye's former team who drafted the October 2018 statement.",
+      "transcript_snippet": "Kanye never wrote this&nbsp; statement. one of his handlers did",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12172",
+      "ref": "C-12172",
+      "label": "Host Says She Has Photos of Kanye Directing the Logo and Cernovich Advised Her Not to Post Them",
+      "claim": "The host says she called Cernovich, told him she has pictures of Kanye standing over the designer directing the Blexit logo, asked whether she should release them, and that Cernovich advised against it.",
+      "anchored_artifacts": [
+        "A-3191.1"
+      ],
+      "related_nodes": [
+        "N-11322"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:07",
+      "investigative_direction": "Ask the host to produce the photos and Cernovich to confirm the advice.",
+      "transcript_snippet": "I have&nbsp;&nbsp; pictures of him standing over the guy directing&nbsp; him on what he thought was cool with the logo.&nbsp;&nbsp; like should I drop them? And Cernovich gave me&nbsp; really sound advice and said don't.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27",
+        "N-193"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12173",
+      "ref": "C-12173",
+      "label": "Host Says Charlie Asked John and Arena Mappin to Arrange a UK Venue for Her",
+      "claim": "The host says Charlie reached out to John and Arena Mappin, asking for any place for her to speak, and they arranged the UK event.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:12",
+      "investigative_direction": "Confirm with the Mappins and the event organizers how the December 2018 UK event was arranged.",
+      "transcript_snippet": "that Charlie reached out to and said, \"Can you put&nbsp; together just any place for Candace I to speak at&nbsp;&nbsp; was John and Arena Mappen",
+      "supports_claim_refs": [
+        "C-1395"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-157",
+        "N-158"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12174",
+      "ref": "C-12174",
+      "label": "Host Says She Met Her Husband at the UK Event in December and Charlie Paid for the Flights",
+      "claim": "The host says she met her husband in December at the UK event and that she convinced Charlie, took his credit card and booked the flights.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10118"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:16:58",
+      "investigative_direction": "Check the dates of the UK trip and who paid for travel.",
+      "transcript_snippet": "that was in December that I met my husband uh&nbsp; that I convinced Charlie, took his credit card&nbsp;&nbsp; and booked the flights.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12175",
+      "ref": "C-12175",
+      "label": "Host Says She Believes Someone at BuzzFeed Cut a Clip From Her UK Q and A",
+      "claim": "The host says that about two months after the UK event, in February, someone she believes was at BuzzFeed cut a clip from the Q and A portion of that event and stripped out the question that had been asked.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11071"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:12",
+      "investigative_direction": "Trace the first publication of the Hitler clip and who cut it, and compare with the full event video.",
+      "transcript_snippet": "I believe it was someone at BuzzFeed,&nbsp;&nbsp; cut a clip of a video from the Q&amp; A portion of that&nbsp; UK event.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12176",
+      "ref": "C-12176",
+      "label": "Host Says She Answered That Hitler Was Not a Nationalist and Did Not Mention Jews",
+      "claim": "The host says that in answering a question about nationalism she said people wrongly attribute nationalism to Adolf Hitler, who was not a nationalist, and that she did not mention Jews at all.",
+      "anchored_artifacts": [
+        "A-1274.1"
+      ],
+      "related_nodes": [
+        "N-11071"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:50",
+      "investigative_direction": "Review the full Q and A audio (A-1274.1) for the question and her complete answer.",
+      "transcript_snippet": "wrongly attribute it to Adolf Hitler and he&nbsp; wasn't a nationalist. I didn't even mention&nbsp;&nbsp; Jews at all.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12177",
+      "ref": "C-12177",
+      "label": "Host Says the Online Campaign Against Her Was Inorganic, \"a Hit\"",
+      "claim": "The host says she knows the online campaigns over the Hitler clip were inorganic and that what happened was a hit.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11071"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:18",
+      "investigative_direction": "Look for evidence of coordination among the accounts and outlets that spread the clip.",
+      "transcript_snippet": "I know that these online&nbsp; campaigns are inorganic and that what actually&nbsp;&nbsp; happened was this was a hit.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12178",
+      "ref": "C-12178",
+      "label": "Host Says Articles Then Claimed She Supported Adolf Hitler",
+      "claim": "The host says that after the clip was pulled a number of articles said she supported Adolf Hitler.",
+      "anchored_artifacts": [
+        "A-1274.1"
+      ],
+      "related_nodes": [
+        "N-11071"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:26",
+      "investigative_direction": "Collect the February 2019 articles and compare their quotes with the full Q and A.",
+      "transcript_snippet": "pulled the clip and then a bunch of people were&nbsp;&nbsp; articles saying that I supported Adolf Hitler.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12179",
+      "ref": "C-12179",
+      "label": "Host Says the Simon Wiesenthal Center Issued a Statement Against Her Comments",
+      "claim": "The host says the Simon Wiesenthal Center issued a statement against her comments after the clip circulated.",
+      "anchored_artifacts": [
+        "A-3192.1"
+      ],
+      "related_nodes": [
+        "N-11323"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:58",
+      "investigative_direction": "Locate the Simon Wiesenthal Center statement from February 2019.",
+      "transcript_snippet": "the Simon Wiesenthal Center and this is&nbsp; again another interesting piece of this put me&nbsp;&nbsp; like issued a statement against my comments.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12180",
+      "ref": "C-12180",
+      "label": "Host Says the Aim Was to Pressure Charlie Through Donors and Leave Her Broken",
+      "claim": "The host says the campaign aimed to put pressure on Charlie so donors would tell him she was supporting Hitler, while she would be found broken and scared.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11071"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:26",
+      "investigative_direction": "Ask the host to identify donors who raised the clip with Kirk and look for messages to that effect.",
+      "transcript_snippet": "They wanted to&nbsp;&nbsp; put pressure on him. So donors would pressure&nbsp; him and be like, \"Hey, she's supporting Hitler.&nbsp;&nbsp; Such a bad look.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12181",
+      "ref": "C-12181",
+      "label": "Host Says PragerU Offered Her a Job in Early 2019",
+      "claim": "The host says that despite the controversy the hand that came out to her was PragerU, which offered her a job in early 2019.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10131"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:47",
+      "investigative_direction": "Confirm the offer and start dates with PragerU announcements from early 2019.",
+      "transcript_snippet": "the hand that came out to me and offered me&nbsp;&nbsp; a job was Prageru. Uh, Prageru offered me a job.&nbsp; This is early 2019.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12182",
+      "ref": "C-12182",
+      "label": "Host Says Marissa Streit Has Said She Worked Intelligence in the IDF",
+      "claim": "The host says PragerU CEO Marissa Streit has never shied from telling people she worked intelligence in the IDF in Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10131"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:04",
+      "investigative_direction": "Find Streit's own public statements about IDF service.",
+      "transcript_snippet": "Marissa&nbsp; Strait, the CEO, has never shied from telling&nbsp;&nbsp; people that she is, you know, in the IDF. She&nbsp; works she worked intelligence in the IDF, right,&nbsp;&nbsp; in Israel.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-118"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12183",
+      "ref": "C-12183",
+      "label": "Host Says Marissa Took Her to the Simon Wiesenthal Center in 2019",
+      "claim": "The host says one of the first things that happened after she joined PragerU was that Marissa took her to the Simon Wiesenthal Center.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11323",
+        "N-10131"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:35",
+      "investigative_direction": "Ask the host for the date of the visit and any record of the meeting.",
+      "transcript_snippet": "Marissa took me to the Simon&nbsp;&nbsp; Wiesenthal Center.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-118"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12184",
+      "ref": "C-12184",
+      "label": "Host Says a Rabbi-Like Figure and Marissa Spoke Hebrew and She Understood Nothing",
+      "claim": "The host says there was a chief-rabbi-looking character at the Wiesenthal Center who spoke in Hebrew with Marissa, that she did not understand a word, and that afterwards her reputation was temporarily restored.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11323"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:49",
+      "investigative_direction": "Identify who attended the 2019 meeting and any statement released afterward.",
+      "transcript_snippet": "there was like some chief rabbi looking&nbsp; character and him and her spoke in Hebrew. I&nbsp;&nbsp; didn't understand a word of what was said in front&nbsp; of me.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-118"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12185",
+      "ref": "C-12185",
+      "label": "Host Says She Told Conferences TPUSA Was Running Like a Military Operation",
+      "claim": "The host says she remembers telling TPUSA conferences that the organization was running like a military operation, efficient on time and tactical.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:22:14",
+      "investigative_direction": "Find video of those conference appearances for the exact phrasing.",
+      "transcript_snippet": "I remember&nbsp; speaking at their conferences and saying that&nbsp;&nbsp; they were now running like a military operation.&nbsp; It was so efficient on time. It was tactical.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12186",
+      "ref": "C-12186",
+      "label": "Host Says Frank Turek Is a Former US Navy Officer Turned Christian Apologist",
+      "claim": "The host says Frank Turek has been honest that he is a former officer in the US Navy who turned to Christian apologetics.",
+      "anchored_artifacts": [
+        "A-1282.1"
+      ],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:23:20",
+      "investigative_direction": "Check Turek's published biography and Navy service record for rank and dates.",
+      "transcript_snippet": "Frank Turek again has been honest&nbsp; former officer in the US Navy. And then he turned&nbsp;&nbsp; to Christian apologetics.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12187",
+      "ref": "C-12187",
+      "label": "Host Says Turek Has Two Sons in the Military Who Fly Planes and a Son's Spouse Also Serves",
+      "claim": "The host says Frank Turek has two sons in the military who fly planes, as well as one son's spouse who is in the military.",
+      "anchored_artifacts": [
+        "A-1282.1"
+      ],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:23:26",
+      "investigative_direction": "Check Turek's public statements about his family's service.",
+      "transcript_snippet": "He has two sons that&nbsp; are in the military fly planes as well as one of&nbsp;&nbsp; his son's spouses that's in the military.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12188",
+      "ref": "C-12188",
+      "label": "Host Says Neither She Nor Charlie Knew of Kolvet's Military Ties When He Was Hired",
+      "claim": "The host says she did not know about the military ties in Kolvet's family, does not think Charlie knew, and certainly not when Tyler brought him or when he was hired.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:23:38",
+      "investigative_direction": "Establish when Kolvet was hired and who vouched for him from TPUSA personnel files or accounts.",
+      "transcript_snippet": "I didn't know.&nbsp; I don't think Charlie knew. Certainly not&nbsp;&nbsp; when Tyler brought him or when he got hired.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-11",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12189",
+      "ref": "C-12189",
+      "label": "Host Says Kolvet's Brother and Cousin Are Military Captains",
+      "claim": "The host says Andrew Kolvet's brother, Captain Kurt Kolvet, is in the military and that his cousin, Captain Robert Kolvet, is high up in the military.",
+      "anchored_artifacts": [
+        "A-1282.1"
+      ],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:23:45",
+      "investigative_direction": "Verify the relatives' names, ranks and service through public military records and Kolvet family statements.",
+      "transcript_snippet": "brother, Captain Kurt Kolvet, is in the military.&nbsp;&nbsp; His cousin, Captain Robert Kolvet, is high up&nbsp; in the military.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12190",
+      "ref": "C-12190",
+      "label": "Host Says the Daily Wire President at the Time Was a Naval Intelligence Officer Turned Pastor, John Lewis",
+      "claim": "The host says the president of the Daily Wire at the time she went there was a naval intelligence officer who decided to become a pastor, whom she names as John Lewis.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900",
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:25",
+      "investigative_direction": "Check Daily Wire leadership listings for the period and the named person's career history.",
+      "transcript_snippet": "the&nbsp; president at the time of the Daily Wire was also&nbsp;&nbsp; a naval intelligence officer who decided to become&nbsp; a pastor that was John Lewis",
+      "mentions_person_refs": [
+        "N-3",
+        "N-914"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12191",
+      "ref": "C-12191",
+      "label": "Host Says MrBeast's Parents Are Both High Up in the Military",
+      "claim": "The host says that both of MrBeast's parents are high up in the military.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:25:51",
+      "investigative_direction": "Verify through public biographical sources.",
+      "transcript_snippet": "Mr. Beast, both of his parents high&nbsp;&nbsp; up in the military.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-915"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12192",
+      "ref": "C-12192",
+      "label": "Host Says She Met Lila Rose Through Marissa and the Same People Fund Both",
+      "claim": "The host says she met Lila Rose, whom the transcript renders \"Lila Rose\", through Marissa Streit and that it was kind of the same people funding both.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:26:26",
+      "investigative_direction": "Compare donor lists for Live Action and PragerU.",
+      "transcript_snippet": "I met her through Marissa uh kind&nbsp;&nbsp; of the same people funding both",
+      "mentions_person_refs": [
+        "N-3",
+        "N-232",
+        "N-118"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12193",
+      "ref": "C-12193",
+      "label": "Host Says Lila Rose Was the Lone Catholic Attacking \"Christ Is King\"",
+      "claim": "The host says she saw Lila Rose jump on attacking the phrase \"Christ is King\" or trying to rationalize why it should not be said all the time, as the lone Catholic doing so.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:26:34",
+      "investigative_direction": "Collect Rose's public posts and interviews on the phrase.",
+      "transcript_snippet": "jump on the attacking the Christ is king or&nbsp; trying to rationalize why we shouldn't say Christ&nbsp;&nbsp; is king all the time and she was like the lone&nbsp; Catholic that was doing that",
+      "mentions_person_refs": [
+        "N-3",
+        "N-232"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12194",
+      "ref": "C-12194",
+      "label": "Host Says Lila Rose Hosted a Lawyer for One of Andrew Tate's Accusers",
+      "claim": "The host says Lila Rose had on her show someone who was a lawyer for one of Andrew Tate's accusers, which the host says has nothing to do with the pro-life movement.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:26:50",
+      "investigative_direction": "Identify the episode of Rose's show and guest.",
+      "transcript_snippet": "she had someone on her show that&nbsp;&nbsp; was Andrew Tate's one of the accusers lawyers and&nbsp; I was like this is nothing to do with the pro-life&nbsp;&nbsp; movement.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-232",
+        "N-173"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12195",
+      "ref": "C-12195",
+      "label": "Host Says the Accuser Then Attacked Her and Tucker Carlson",
+      "claim": "The host says the woman concerned then attacked her and Tucker Carlson.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:27:02",
+      "investigative_direction": "Identify the woman and her public statements about the host and Carlson.",
+      "transcript_snippet": "that woman then attacked&nbsp;&nbsp; me and Tucker Carlson.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-232",
+        "N-22",
+        "N-173"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12196",
+      "ref": "C-12196",
+      "label": "Host Says a Bomb Was Thrown at Bari Weiss's Grandfather's House Tied to Casinos",
+      "claim": "The host says that in looking into Bari Weiss's grandfather she found a story of a bomb thrown at his house, she thinks in Philadelphia or Pittsburgh, which she says is related to casinos.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:27:40",
+      "investigative_direction": "Search newspaper archives for the incident and the family connection.",
+      "transcript_snippet": "A bomb thrown on uh at his house&nbsp; in I think it's in Philly or somewhere. Maybe it's&nbsp;&nbsp; Pittsburgh and that's related to the casinos.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-282"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12197",
+      "ref": "C-12197",
+      "label": "Host Says Everyone, Including MrBeast, Is Attached to \"Rathon\"",
+      "claim": "The host says that when you look, everyone is somehow attached to what the transcript renders \"Rathon\", presumably Raytheon, naming MrBeast among them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11324"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:27:52",
+      "investigative_direction": "Ask the host which Raytheon connections she means and verify.",
+      "transcript_snippet": "everyone's somehow attached to&nbsp; Rathon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Rathon in one way or the other.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-915"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12198",
+      "ref": "C-12198",
+      "label": "Host Says the Public Was Lied to About the 306",
+      "claim": "The host says that everyone can acknowledge the public was lied to about the .30-06 (the \"306\") account of the shooting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10660"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:12",
+      "investigative_direction": "Ask the host to specify which statement about the rifle or bullet she considers false and compare with official records.",
+      "transcript_snippet": "we were lied to about the 306, right?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12199",
+      "ref": "C-12199",
+      "label": "Host Says She Knows for a Fact That Charlie's Neck Was Not Destroyed",
+      "claim": "The host says she knows for a fact that Charlie's neck was not destroyed and says that if she is lying she can be sued for defamation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10660",
+        "N-10447"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:14",
+      "investigative_direction": "Compare with the autopsy findings and the surgeon and Kolvet descriptions of the wound.",
+      "transcript_snippet": "I know&nbsp;&nbsp; for a fact Charlie's neck was not destroyed.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12200",
+      "ref": "C-12200",
+      "label": "Host Recalls Kolvet's Tweet Quoting the Surgeon: He Would Have \"Taken Down a Moose\"",
+      "claim": "The host recalls Andrew Kolvet's tweet explaining his conversation with the surgeon, in which the surgeon says he would have taken down a moose, and says people rightly pointed out that describing the wound is a medical examiner's job.",
+      "anchored_artifacts": [
+        "A-3193.1"
+      ],
+      "related_nodes": [
+        "N-10341"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:26",
+      "investigative_direction": "Retrieve Kolvet's tweet and identify the surgeon quoted.",
+      "transcript_snippet": "tweet explaining the conversation with the surgeon&nbsp; especially interesting. you remember he's like,&nbsp;&nbsp; \"Oh.\" And the surgeon said, \"Well, I would have&nbsp; taken down a moose.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12201",
+      "ref": "C-12201",
+      "label": "Host Says the Doctor Who Worked on Charlie Was Dr. Lee Trotter",
+      "claim": "The host says the doctor who worked on Charlie was Dr. Lee Trotter.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:05",
+      "investigative_direction": "Confirm the treating surgeon's identity through hospital statements.",
+      "transcript_snippet": "the doctor who worked&nbsp;&nbsp; on Charlie was Dr. Lee Trotter.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12202",
+      "ref": "C-12202",
+      "label": "Host Says Trotter Completed a Residency at Keesler Air Force Medical Center",
+      "claim": "The host says Dr. Lee Trotter completed a residency at the Keesler Air Force Medical Center in Mississippi.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:13",
+      "investigative_direction": "Check Trotter's published training history or board certification.",
+      "transcript_snippet": "He completed a residency at the&nbsp; Keesler Air Force Medical Center in Mississippi",
+      "mentions_person_refs": [
+        "N-3",
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12203",
+      "ref": "C-12203",
+      "label": "Host Says a Person Matching Trotter's Name and Age Is in the Air Force and a Pilot",
+      "claim": "The host says that, although she cannot confirm it, there is a person who matches Trotter's name, age and description living where he lives who is in the Air Force and for a fact a pilot.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:26",
+      "investigative_direction": "Check Air Force or Reserve records and FAA airman registry for a matching individual before drawing any conclusion.",
+      "transcript_snippet": "there's a&nbsp; person who matches his name age description&nbsp;&nbsp; living where he's living uh who is actually in the&nbsp; air force and he also for a fact is a pilot",
+      "mentions_person_refs": [
+        "N-3",
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12204",
+      "ref": "C-12204",
+      "label": "Host Says Charlie Told Her in a Dream to Look Into the Medical Examiner",
+      "claim": "The host says that in a dream Charlie told her she should look into the medical examiner, Dr. Weiss Amaro.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10183"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:29:48",
+      "investigative_direction": "This is a reported dream and cannot be checked; look for independent records on the examiner's appointment.",
+      "transcript_snippet": "in my dream Charlie told me I should look&nbsp; into.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-179"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12205",
+      "ref": "C-12205",
+      "label": "Host Says Medical Examiner Weiss Amaro Is a Major in the Army",
+      "claim": "The host says the medical examiner, Dr. Deidra Weiss Amaro, is a major in the Army and is also from a major corporation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10183",
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:51",
+      "investigative_direction": "Check Army Reserve or Medical Corps listings for the medical examiner's rank and her biography.",
+      "transcript_snippet": "She's a major in the army. She's also&nbsp;&nbsp; from a major corporation.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-179"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12206",
+      "ref": "C-12206",
+      "label": "Host Says Weiss Amaro Is From the Ericson Family and Claims Descent From Leif Erikson",
+      "claim": "The host says the medical examiner is from the Ericson family, the Ericson Boyd Corporation is her family, and she tells people she is a direct descendant of Leif Erikson.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:29:57",
+      "investigative_direction": "Check the examiner's public biography and genealogical claims.",
+      "transcript_snippet": "The Ericson Boyd Corporation&nbsp;&nbsp; is her family. She tells people that she is a&nbsp; direct descendant of Leif Erikson.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-179"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12207",
+      "ref": "C-12207",
+      "label": "Host Says the Military-Industrial Complex Shot JFK to Maintain Power",
+      "claim": "The host says that the military-industrial complex that Eisenhower warned of shot JFK to maintain power and has created a veneer of reality for the public.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:30:38",
+      "investigative_direction": "This is a historical assertion with no evidence offered on air; check the JFK records released by the National Archives.",
+      "transcript_snippet": "the military-industrial complex&nbsp;&nbsp; that shot JFK to maintain power has created a&nbsp; veneer um of reality for us",
+      "mentions_person_refs": [
+        "N-3",
+        "N-715"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12208",
+      "ref": "C-12208",
+      "label": "Host Says Some Military-Type Actors Were There When Charlie Was Shot",
+      "claim": "The host says she thinks some military-type actors, as the transcript has it, were present when Charlie was shot.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:09",
+      "investigative_direction": "Ask the host to name who she means and compare with event staffing and security rosters.",
+      "transcript_snippet": "some of which I think were there when Charlie&nbsp; got shot.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12209",
+      "ref": "C-12209",
+      "label": "Host Says It Was Hard to Find a Student Who Spoke to Mainstream Media That Day",
+      "claim": "The host says that, among the first people booked, it was hard to find a student who spoke to a mainstream media news organization on that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:17",
+      "investigative_direction": "Compile the interviews given by UVU students on September 10 and their affiliations.",
+      "transcript_snippet": "It was hard to&nbsp; find a student that spoke to a mainstream media&nbsp;&nbsp; uh news organization on that day.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12210",
+      "ref": "C-12210",
+      "label": "Host Says the Military Players Around Charlie Were Not There Before 2018",
+      "claim": "The host says there are too many military players surrounding Charlie and that they were not there before 2018, appearing only after forces tried to pull her and Charlie apart.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:24",
+      "investigative_direction": "Build a dated list of TPUSA staff and advisers with service history and hire dates.",
+      "transcript_snippet": "There are too many military players that&nbsp;&nbsp; were surrounding Charlie and they weren't there&nbsp; before 2018.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12211",
+      "ref": "C-12211",
+      "label": "Host Says Timpanogos Was a Level 3 Trauma Center While the Closer Hospital Was UVU",
+      "claim": "The host says Timpanogos was a level three trauma center when the closer one was Utah Valley.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10149",
+        "N-11218",
+        "N-11325"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:55",
+      "investigative_direction": "Check the trauma-center designations and distances for both hospitals from the Orem campus.",
+      "transcript_snippet": "Timpanogos was&nbsp;&nbsp; like a level three trauma center when the closer&nbsp; one was UVU.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12212",
+      "ref": "C-12212",
+      "label": "Host Says the Ambulance Was Not There When Required by Law",
+      "claim": "The host says they never really understood why the ambulance was not present at the event when it was required by law.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10149"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:00",
+      "investigative_direction": "Check Utah event permits and the university's emergency-medical requirements for the September 10 event.",
+      "transcript_snippet": "We never really understood why the&nbsp;&nbsp; ambulance wasn't there when it was required by&nbsp; law.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12213",
+      "ref": "C-12213",
+      "label": "Host Says There Is No Footage or Indication of the Drive or Arrival at Timpanogos",
+      "claim": "The host says there is no footage or other indication of the drive to, or the arrival at, Timpanogos Hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10149",
+        "N-11218"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:11",
+      "investigative_direction": "Request hospital and traffic-camera footage and 911 logs for the route and arrival.",
+      "transcript_snippet": "we have no footage or any indication of the drive&nbsp;&nbsp; or the arrival at Timpanogos.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12214",
+      "ref": "C-12214",
+      "label": "Host Says a Tipster Reported Being Downstairs at UVU When Charlie Was Brought In",
+      "claim": "The host says a tipster told her they were downstairs at UVU when Charlie was brought in and that he was definitely at that hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10196",
+        "N-11325"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:20",
+      "investigative_direction": "Seek on-the-record confirmation from the tipster and from hospital staff on duty.",
+      "transcript_snippet": "I was downstairs at UVU when Charlie was brought&nbsp; in and uh I am telling you he was definitely at&nbsp;&nbsp; his hospital.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12215",
+      "ref": "C-12215",
+      "label": "Host Says Another Tipster Heard It Announced That Charlie Had Just Died Upstairs",
+      "claim": "The host says another tipster, receiving treatment at the hospital, told her someone came in and announced that Charlie had just died upstairs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10196",
+        "N-11325"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:35",
+      "investigative_direction": "Seek on-the-record confirmation and compare with the time of death announced publicly.",
+      "transcript_snippet": "we knew he was at this hospital and then somebody&nbsp;&nbsp; came in and announced that Charlie had just died&nbsp; upstairs.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12216",
+      "ref": "C-12216",
+      "label": "Host Says Medical Staff Emailed That Charlie Was at UVU and Has a Medical File",
+      "claim": "The host says she received an email from someone in the medical staff at UVU saying they are certain Charlie was there and that they have a medical file.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10196",
+        "N-11325"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:53",
+      "investigative_direction": "Verify the sender is real medical staff and request the hospital's response.",
+      "transcript_snippet": "we received an email from somebody in&nbsp;&nbsp; the medical staff at UVU saying I'm certain that&nbsp; he was here and I have a medical file",
+      "supports_claim_refs": [
+        "C-1504"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12217",
+      "ref": "C-12217",
+      "label": "Host Says the UVU System Entry for Charlie Kirk Had His Birthday, Age and an MRN",
+      "claim": "The host says the entry in the UVU system for Charlie Kirk had his right birthday, his age and a medical record number.",
+      "anchored_artifacts": [
+        "A-3194.1"
+      ],
+      "related_nodes": [
+        "N-10196",
+        "N-11325"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:08",
+      "investigative_direction": "Ask for the screenshot with metadata and the hospital's confirmation of whether a record exists.",
+      "transcript_snippet": "here was the entry in the UVU system for&nbsp; Charlie Kirk. It had his right birthday. It&nbsp;&nbsp; had his age. It had an MRN number.",
+      "supports_claim_refs": [
+        "C-1504"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12218",
+      "ref": "C-12218",
+      "label": "Host Says She Has Heard Trotter Works at Both Hospitals",
+      "claim": "The host says she has heard that Dr. Lee Trotter works at both hospitals, going back and forth, which could explain a file at the second.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10196"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:07",
+      "investigative_direction": "Check Trotter's hospital privileges at both facilities.",
+      "transcript_snippet": "Lee Trotter, which I have heard works at both&nbsp; limited surgeons going back and forth.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12219",
+      "ref": "C-12219",
+      "label": "Host Asks Medical Community to Email Tips on the Hospital Question",
+      "claim": "The host asks members of the medical community to email tips about the hospital question to a \"more tips\" address, rendered in the transcript as moretips@candowens.com.",
+      "anchored_artifacts": [
+        "A-3195.1"
+      ],
+      "related_nodes": [
+        "N-10196"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:30",
+      "investigative_direction": "Confirm the correct address is moretips@candaceowens.com and review what the host reports back.",
+      "transcript_snippet": "medical community, feel&nbsp; free to email us at more tips@candowens. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12220",
+      "ref": "C-12220",
+      "label": "Host Clarifies the File Was at Utah Valley Hospital Rather Than the University",
+      "claim": "The host says she misspoke earlier and meant Utah Valley Hospital, not the university, as the location of the file.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10196",
+        "N-11325"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:46",
+      "investigative_direction": "Identify the hospital system that holds the alleged record and request confirmation.",
+      "transcript_snippet": "I think I said UVU medical. I meant to say&nbsp; Utah Valley Hospital.",
+      "qualifies_claim_refs": [
+        "C-1504"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12221",
+      "ref": "C-12221",
+      "label": "Host Says People She Confirmed With Say the Two Hospitals' Systems Do Not Talk to Each Other",
+      "claim": "The host says that some people she confirmed with told her the two hospitals' systems do not speak to each other.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10196",
+        "N-11218",
+        "N-11325"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:57",
+      "investigative_direction": "Ask both hospitals and the Utah health-information exchange whether records are shared.",
+      "transcript_snippet": "some people that I confirmed with said that&nbsp; their two systems don't speak together.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12222",
+      "ref": "C-12222",
+      "label": "Host Says TPUSA Recorded Its Response Before Her Episode Aired",
+      "claim": "The host says that, to be fair, TPUSA did its episode before hers went out, so Kolvet's remarks were a response to the Mikey McCoy video going viral and not to her.",
+      "anchored_artifacts": [
+        "A-1275.1"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:20",
+      "investigative_direction": "Compare the airdate of the Charlie Kirk Show episode with the host's upload time.",
+      "transcript_snippet": "they did their episode before&nbsp; my episode went out. Charlie Kirk's show is before&nbsp;&nbsp; my show is, but it was their response to the Mikey&nbsp; McCoy video going viral.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12223",
+      "ref": "C-12223",
+      "label": "Host Says James Lee, Ian Carroll and Sam Parker Surfaced the Mikey McCoy Video",
+      "claim": "The host says the TPUSA response was to the Mikey McCoy video going viral and to people who discovered it over the weekend, such as James Lee, Ian Carroll and Sam Parker.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:40:34",
+      "investigative_direction": "Establish who first posted the video and when.",
+      "transcript_snippet": "who had discovered this&nbsp;&nbsp; over the weekend. So, like James Lee, Ian Carroll,&nbsp; Sam Parker.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-186",
+        "N-131",
+        "N-185"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12224",
+      "ref": "C-12224",
+      "label": "Host Says It Tracks That Mikey Would Film Behind the Scenes, Such as Charlie Throwing Hats",
+      "claim": "The host says it tracks that Mikey would take videos behind the scenes, for instance when Charlie first comes out and throws hats, and that this is a thing at Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:42:41",
+      "investigative_direction": "Look at TPUSA social media from earlier events for behind-the-scenes clips credited to McCoy.",
+      "transcript_snippet": "it tracks that Mikey would be&nbsp;&nbsp; taking videos behind like you know when Charlie&nbsp; first comes out of the event he's throwing hats.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12225",
+      "ref": "C-12225",
+      "label": "Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sarah Schmackenberger",
+      "claim": "The host says that before Mikey McCoy did the behind-the-scenes video role, it was done by a person she names Sarah Schmackenberger (spelling as transcribed).",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:42:56",
+      "investigative_direction": "Confirm the person's name and role with TPUSA staff listings.",
+      "transcript_snippet": "Before Mikey McCoy did this, it was Sarah&nbsp;&nbsp; Schmackenberger.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12226",
+      "ref": "C-12226",
+      "label": "Host Says Mikey's Position Does Not Fit Kolvet's Account of Filming Charlie Take a Question",
+      "claim": "The host says that in this particular video Mikey is not standing where you can get a view of Charlie asking a question, so Kolvet's excuse that he was filming social video does not make sense to her.",
+      "anchored_artifacts": [
+        "A-3196.1"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:05",
+      "investigative_direction": "Compare the camera geometry in the video with the known placement of the barrier, stage and questioner.",
+      "transcript_snippet": "he's not standing where you&nbsp; can get a view of Charlie asking a question. So,&nbsp;&nbsp; this this part is not tracking.",
+      "contradicts_claim_refs": [
+        "C-1500"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12227",
+      "ref": "C-12227",
+      "label": "Host Says Mikey Is Behind Charlie in the Video, Not Beside Him",
+      "claim": "The host says that in this video Mikey McCoy is not standing to the side of Charlie but is behind him.",
+      "anchored_artifacts": [
+        "A-3196.1"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:12",
+      "investigative_direction": "Use the full event video to fix Mikey's position relative to Charlie and the questioner.",
+      "transcript_snippet": "Mikey is not&nbsp; standing to the side of Charlie. He is behind.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12228",
+      "ref": "C-12228",
+      "label": "Host Says She Never Sees Mikey Take the Phone Down in the Video",
+      "claim": "The host says that in the video she never sees Mikey take his phone down, while allowing that he may and that it is not known for a fact.",
+      "anchored_artifacts": [
+        "A-3196.1"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:44:03",
+      "investigative_direction": "Frame-by-frame review of the available video for the phone's position.",
+      "transcript_snippet": "he just I&nbsp; never see him take that phone down.",
+      "qualifies_claim_refs": [
+        "C-1500"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12229",
+      "ref": "C-12229",
+      "label": "Host Says Holding the Ears All the Way Out Without Ducking Would Be Unlikely",
+      "claim": "The host says it would be unlikely that a person would keep holding their ears until they get all the way out without ducking down.",
+      "anchored_artifacts": [
+        "A-3196.1"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:44:17",
+      "investigative_direction": "Review the clip for how long the hands stay at the ears and whether he lowers his body.",
+      "transcript_snippet": "it would&nbsp;&nbsp; be unlikely that you would keep holding your&nbsp; ears until you get all the way out and that you&nbsp;&nbsp; wouldn't duck down.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12230",
+      "ref": "C-12230",
+      "label": "Host Says She Does Not Believe Charlie Said to Walk Away and Call Erika First if Shot",
+      "claim": "The host says that calling Erika is common sense as next of kin, but she does not believe Charlie said that if he were shot, people should not help him and should calmly walk away and call Erika first.",
+      "anchored_artifacts": [
+        "A-1275.1"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:44:49",
+      "investigative_direction": "Ask McCoy and other staff whether Kirk gave such instructions, and check the call log sequence.",
+      "transcript_snippet": "I don't believe that Charlie said, \"If I get shot,&nbsp;&nbsp; don't help me calmly walk away and call Erika&nbsp; first.",
+      "qualifies_claim_refs": [
+        "C-1499"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12231",
+      "ref": "C-12231",
+      "label": "Host Says the Account Comes From Kolvet and Not From Mikey McCoy Himself",
+      "claim": "The host says it is curious that TPUSA's account is coming from Andrew Kolvet and not from Mikey McCoy himself.",
+      "anchored_artifacts": [
+        "A-1275.1"
+      ],
+      "related_nodes": [
+        "N-10663"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:00",
+      "investigative_direction": "Check whether McCoy has since made any public statement on the sequence of events.",
+      "transcript_snippet": "I think it's curious that we're hearing this&nbsp;&nbsp; from Andrew and we're not hearing it from Mikey&nbsp; McCoy.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12232",
+      "ref": "C-12232",
+      "label": "Host Says She Live-Subpoenaed Her Own Phone to Rebut Collusion Claims in the Lively Case",
+      "claim": "The host says that, when accused of colluding with the team of Justin Baldoni in the Blake Lively lawsuit, she live-subpoenaed herself, held up her phone, searched Blake Lively and showed the only two times she had texted about her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:45:28",
+      "investigative_direction": "Review the host's livestream and the court filings alleging collusion.",
+      "transcript_snippet": "live subpoenaed myself, held up my&nbsp;&nbsp; phone, I typed in Blake Lively, and I showed you&nbsp; the only two times that I had ever texted about&nbsp;&nbsp; her in my phone at all",
+      "mentions_person_refs": [
+        "N-3",
+        "N-490",
+        "N-491"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12233",
+      "ref": "C-12233",
+      "label": "Host Says Alex Marlow of Breitbart Was TPUSA's Guest That Day",
+      "claim": "The host says Alex Marlow, who runs Breitbart News, was TPUSA's guest for the day on the show, the Charlie Kirk Show, where he made the remarks she plays.",
+      "anchored_artifacts": [
+        "A-1276.1"
+      ],
+      "related_nodes": [
+        "N-11326"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:22",
+      "investigative_direction": "Confirm the guest and date from the episode listing.",
+      "transcript_snippet": "Alex Marlow, who&nbsp; runs Breitbart News, was their guest for the day&nbsp;&nbsp; on the show",
+      "mentions_person_refs": [
+        "N-3",
+        "N-195"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12234",
+      "ref": "C-12234",
+      "label": "Host Says Susie Wiles Eulogizing Charlie Seems a Weird Pick",
+      "claim": "The host says it seems weird that Susie Wiles was the one to eulogize Charlie, noting that his parents are quite private people.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10199"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:03",
+      "investigative_direction": "Check the memorial program for the list of speakers and who selected them.",
+      "transcript_snippet": "why is Susie Wiles? I don't know. It just feels&nbsp;&nbsp; really weird like a weird pick for her to eulogize&nbsp; him.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-132",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12235",
+      "ref": "C-12235",
+      "label": "Turek Says in the Clip That He Decided in Advance What He Would Do if Charlie Were Shot",
+      "claim": "In the clip, Frank Turek says he was afraid somebody would take a shot at Charlie, and that he thought beforehand what he would do and decided in advance to do anything he could to save him.",
+      "anchored_artifacts": [
+        "A-1277.1"
+      ],
+      "related_nodes": [
+        "N-10687"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:50:32",
+      "investigative_direction": "Compare with Turek's later accounts of his actions on September 10 and the other witnesses.",
+      "transcript_snippet": "I was afraid somebody&nbsp; would take a shot at Charlie. And I thought to&nbsp;&nbsp; myself, if it does happen, what am I going to do?&nbsp; Decide now.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12236",
+      "ref": "C-12236",
+      "label": "Host Says There Has Been Military Infiltration Into the Churches, Which She Calls Operation Mocking Pastor",
+      "claim": "The host says there has been a military infiltration into the churches and that she has termed the operation Operation Mocking Pastor, in which they find scripture to justify their line.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10139",
+        "N-10210"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:51:56",
+      "investigative_direction": "Identify the churches and pastors the host means and document the claimed link to military services.",
+      "transcript_snippet": "there has&nbsp; been a military infiltration into the churches.&nbsp;&nbsp; I think we've covered that enough this year. I've&nbsp; termed that operation mocking pastor",
+      "mentions_person_refs": [
+        "N-3",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12237",
+      "ref": "C-12237",
+      "label": "Host Says Her Book Club Covers Frankism, the Cabala and Intentional Infiltration of Churches",
+      "claim": "The host says her book club is discussing Frankism, the Cabala and intentional infiltration into the churches as an aspect of the Frankist movement.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:52:54",
+      "investigative_direction": "No checkable event; review the book club reading list.",
+      "transcript_snippet": "We're&nbsp; talking about frankism. We're talking about the&nbsp;&nbsp; Cabala. talking about the infiltration uh into the&nbsp; churches intentional as an aspect of Frank of the&nbsp;&nbsp; Frankus movement",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12238",
+      "ref": "C-12238",
+      "label": "Host Says Her Book Club Remark Was About Charlie Being Honored With a Charlie Kirk Day in October",
+      "claim": "The host says that what upset the clippers was her remark that it was ridiculous to think Charlie is being honored because he got a Charlie Kirk day in October.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:53:48",
+      "investigative_direction": "Check the proclamation or resolution establishing the day and the host's book club remark.",
+      "transcript_snippet": "to think that Charlie is being honored because he&nbsp;&nbsp; got a Charlie Kirk day in October.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12239",
+      "ref": "C-12239",
+      "label": "Host Says Charlie Will Be Honored Once They Learn Who Killed Him, Not Buying the Lone Shooter",
+      "claim": "The host says she will feel Charlie is honored when it is figured out who killed him, because she is not buying the lone-shooter account.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10112"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:54",
+      "investigative_direction": "Compare with the charging documents and evidence presented against the accused.",
+      "transcript_snippet": "when we figure out&nbsp;&nbsp; who killed him because I'm not buying him a lone&nbsp; shooter shooter thing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12240",
+      "ref": "C-12240",
+      "label": "Host Says It Is a Typical Federal Maneuver to Kill Someone Like MLK or JFK and Then Grant a Holiday",
+      "claim": "The host says it is a typical federal maneuver to kill someone like Martin Luther King or JFK and then give them a holiday, a boulevard and so on.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:54:03",
+      "investigative_direction": "This is a historical assertion with no support given on air; check the records on the MLK and JFK investigations.",
+      "transcript_snippet": "it's a typical federal maneuver,&nbsp;&nbsp; by the way, to kill someone like Martin Luther&nbsp; King or JFK and then they get a holiday.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-715"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12241",
+      "ref": "C-12241",
+      "label": "Host Says You Cannot Disappear 30 Years of Your Life Without Pictures",
+      "claim": "The host says Brigitte Macron cannot just disappear 30 years of her life or say she did not take a picture for 30 years.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:55:32",
+      "investigative_direction": "Compile publicly available photos of Brigitte Trogneux by decade.",
+      "transcript_snippet": "You can't just disappear 30 years of your life.&nbsp; You can't just say, \"I didn't take a picture for&nbsp;&nbsp; 30 years.\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12242",
+      "ref": "C-12242",
+      "label": "Host Says Photos Provided Came From a Woman Facing Charges Over Falsified Pictures",
+      "claim": "The host says the pictures given to them came from a woman who she says is facing charges for falsifying pictures, and that there are about four photos of Brigitte's whole life.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:55:48",
+      "investigative_direction": "Identify the woman and any charges, and the photos supplied in the case.",
+      "transcript_snippet": "pictures that have been given&nbsp; to us from a woman who quite literally is facing&nbsp;&nbsp; charges for falsifying pictures. Like, we've got&nbsp; like four photos of the whole life.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12243",
+      "ref": "C-12243",
+      "label": "Host Says Emmanuel Macron Is, Like Israel, a Rothschild Creation",
+      "claim": "The host says Emmanuel Macron is in fact, like the state of Israel, a Rothschild creation.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:56:08",
+      "investigative_direction": "Check Macron's career at Rothschild and Cie against the host's sweeping statement.",
+      "transcript_snippet": "Emmanuel Macron is in fact just&nbsp;&nbsp; like the state of Israel, a Rothschild's creation",
+      "mentions_person_refs": [
+        "N-3",
+        "N-383",
+        "N-526"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12244",
+      "ref": "C-12244",
+      "label": "Host Says the Cabala Is the Reason for the Cultural Push for Transgenderism",
+      "claim": "The host says the Cabala is very much the reason for the push in culture for transgenderism.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:56:16",
+      "investigative_direction": "No checkable event; recorded as said.",
+      "transcript_snippet": "Cabala uh very&nbsp; much is the reason for this push in culture for&nbsp;&nbsp; transgenderism.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12245",
+      "ref": "C-12245",
+      "label": "Host Says the Alleged Hackers Have Not Been Arrested",
+      "claim": "The host says officials claim the name change was done by a team of hackers who have not been arrested.",
+      "anchored_artifacts": [
+        "A-1280.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:56:44",
+      "investigative_direction": "Look for any police report, arrests or official statement about the alleged hack.",
+      "transcript_snippet": "this was done by a team of hackers. Okay. hackers&nbsp; who they haven't arrested.",
+      "supports_claim_refs": [
+        "C-1508"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12246",
+      "ref": "C-12246",
+      "label": "Host Says the Change Happened Years Ago and Was Spotted by Someone Who Worked for Her",
+      "claim": "The host says the change happened years ago and was noticed by someone who worked for Brigitte Macron, who told her he was in her account and she was registered as a man named Jean Michel.",
+      "anchored_artifacts": [
+        "A-1280.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:56:49",
+      "investigative_direction": "Obtain the original French reporting on how and when the entry was found.",
+      "transcript_snippet": "this happened years ago, right? It was&nbsp; actually someone who worked for her who said, \"Oh,&nbsp;&nbsp; this is weird. Like, I'm in your account right&nbsp; now.\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12247",
+      "ref": "C-12247",
+      "label": "Host Says Brigitte Macron Was Born Jean-Michel Trogneux and Transitioned",
+      "claim": "The host alleges that Brigitte Macron was born Jean-Michel Trogneux, transitioned, and was put in a position of power; Brigitte Macron disputes this and is suing the host.",
+      "anchored_artifacts": [
+        "A-1280.1"
+      ],
+      "related_nodes": [
+        "N-10270"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:57:51",
+      "investigative_direction": "Review French civil-status records and the court record in the Delaware defamation case.",
+      "transcript_snippet": "you were born Jean-Michel Trogneux. You&nbsp; transitioned and you've been put in this&nbsp;&nbsp; position of power",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12248",
+      "ref": "C-12248",
+      "label": "Host Alleges Brigitte Macron Committed a Sexual Offense When Emmanuel Macron Was 14",
+      "claim": "The host alleges that Brigitte Macron got away with offending Emmanuel Macron when he was 14 years old, calling it a sexual offense; this is the host's allegation and Macron disputes the host's claims about her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10270"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:57:58",
+      "investigative_direction": "Check the French public record on the couple's history and the host's legal filings on this point.",
+      "transcript_snippet": "You got away with um offending Emanuel&nbsp;&nbsp; when he was 14 years old. Sexual offense.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82",
+        "N-383"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12249",
+      "ref": "C-12249",
+      "label": "Host Says the Macron Suit Is About Her Claim That Brigitte Stole Her Sister's Identity, Not Being Born Male",
+      "claim": "The host says that Brigitte Macron is not suing her over the claim that she was born male, but over the claim that she stole her sister's identity to transition.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10270"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:58:24",
+      "investigative_direction": "Read the complaint in the Delaware case to see which statements are pleaded.",
+      "transcript_snippet": "You're not even&nbsp;&nbsp; suing me for the claim that I said you were born&nbsp; a male. You're suing me for the claim that I said&nbsp;&nbsp; you stole your sister's identity to transition.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12250",
+      "ref": "C-12250",
+      "label": "Host Says Macron Has Never Offered Genetic Evidence Because the Hearing Has Not Reached That Stage",
+      "claim": "The host says Brigitte Macron has never offered genetic evidence in the case because the hearing has not got to that stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10270"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:58:37",
+      "investigative_direction": "Review the court docket for any evidentiary submissions.",
+      "transcript_snippet": "never offered genetic evidence because you didn't&nbsp;&nbsp; even get to that stage of the hearing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12251",
+      "ref": "C-12251",
+      "label": "Host Says the Case Has Not Reached Any Stage and Filings Are Preliminary",
+      "claim": "The host says the case has not got to any stage, with the back and forth of changing filings all very preliminary.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10270"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:58:42",
+      "investigative_direction": "Check the docket for the actual procedural posture.",
+      "transcript_snippet": "not gotten to any stage actually. It's like the&nbsp;&nbsp; back forth tit fortat changing the filings all&nbsp; very preliminary.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12252",
+      "ref": "C-12252",
+      "label": "Host Says She Wrote Every Word of the Book Outside the Matrix",
+      "claim": "The host says she wrote every word of her book herself, outside The Matrix, with no book publisher involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:03:39",
+      "investigative_direction": "No checkable event beyond the imprint.",
+      "transcript_snippet": "I wrote every word&nbsp;&nbsp; of this and I did it outside of The Matrix. So,&nbsp; there is no book publisher that is involved.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12253",
+      "ref": "C-12253",
+      "label": "Host Says She Self-Published Her Book With a Catholic Printer, No Mainstream Publisher",
+      "claim": "The host says she and her team decided to self-publish her book using a Catholic book printer, with no mainstream publisher involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:03:39",
+      "investigative_direction": "Check the book's imprint and printer.",
+      "transcript_snippet": "We decided&nbsp; to self-publish and we used actually an amazing&nbsp;&nbsp; um Catholic book printer to do this.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12254",
+      "ref": "C-12254",
+      "label": "Host Says Her Husband Used to Work With and Donate to Friends of Israel in the UK",
+      "claim": "The host says her husband used to work with and donate to groups like the Friends of Israel when he was in the UK, before he married her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:03:39",
+      "investigative_direction": "Check public donation records and group listings in the UK.",
+      "transcript_snippet": "husband used to work with and he used to donate&nbsp; to like the friends of Israel when he was in the",
+      "mentions_person_refs": [
+        "N-3",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12255",
+      "ref": "C-12255",
+      "label": "Host Says She Was Pro-Israel When She and Her Husband Met",
+      "claim": "The host says she would say she was pro-Israel when she and her husband met.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:03:39",
+      "investigative_direction": "Compare with her earlier public statements about Israel.",
+      "transcript_snippet": "I would say I was pro-Israel when we met",
+      "mentions_person_refs": [
+        "N-3",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12256",
+      "ref": "C-12256",
+      "label": "Host Says Trump Inviting Kash Patel to the Charlie Holiday Event Shows He Wants It Buried",
+      "claim": "The host says she holds no hope that the Trump administration will deliver justice, and that Trump inviting Kash Patel to the Charlie holiday event is proof to her that he wants the case buried.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10202"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:03:39",
+      "investigative_direction": "Check the event guest list and the White House schedule.",
+      "transcript_snippet": "the fact that Trump even invited Kash Patel&nbsp; to that uh Charlie holiday thing, which I'll get&nbsp;&nbsp; into tomorrow, uh we're establishing a holiday, I&nbsp; think is proof to me that he wants this buried.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12257",
+      "ref": "C-12257",
+      "label": "Host Says Don Jr. May Have Said He Accepts the Official Narrative",
+      "claim": "The host says she thinks Don Jr. may have said that he accepts the narrative and that she will dig up the clip to show next day.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:03:39",
+      "investigative_direction": "Locate any Don Jr. statement on the official narrative.",
+      "transcript_snippet": "Don Jr. may have even said that&nbsp; he accepts the narrative.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-33"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12258",
+      "ref": "C-12258",
+      "label": "Host Says Miriam Adelson Gave Trump $100 Million With an Explicit Understanding on West Bank Annexation",
+      "claim": "The host says Miriam Adelson gave Trump $100 million and was explicit that it meant he would allow them to annex not Gaza but the West Bank.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10589"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:03:39",
+      "investigative_direction": "Check FEC filings for Adelson contributions and public statements by Adelson on annexation.",
+      "transcript_snippet": "Miriam Adelson gave him $100&nbsp; million and she was explicit. the 100 million&nbsp;&nbsp; meant that he would allow them to enex not Gaza,&nbsp; the West Bank.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5",
+        "N-302"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12259",
+      "ref": "C-12259",
+      "label": "Host Says Trump Pre-Agreed to Annexation and Will Act on It",
+      "claim": "The host says Trump pre-agreed to the annexation and is going to make it on his pre-agreement.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10589"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:03:39",
+      "investigative_direction": "Track administration actions and statements on the West Bank.",
+      "transcript_snippet": "He pre-aggreed to that and he's going to make it&nbsp;&nbsp; on his pre-agreement.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12260",
+      "ref": "C-12260",
+      "label": "Host Says She Hates That Charlie Was Right About His Life",
+      "claim": "The host says she hates that Charlie was right about his life, in context of what she and Charlie had discussed about his dreams.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:03:39",
+      "investigative_direction": "Compare with the earlier accounts of Kirk's dreams.",
+      "transcript_snippet": "I hate that he was right about&nbsp;&nbsp; his life",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12261",
+      "ref": "C-12261",
+      "label": "Host Says Kanye Was Put on a Psychiatric 5150 Hold to Portray Him as Crazy",
+      "claim": "The host says that \"they\" did to Kanye what is done to people in Hollywood, putting him on a psychiatric 5150 hold to convince the world he is crazy.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:03:39",
+      "investigative_direction": "Check public reporting on Kanye's hospitalizations and who initiated them.",
+      "transcript_snippet": "You did it&nbsp;&nbsp; with Kanye. Uh you psych put him on a psych 5150&nbsp; hold.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
     }
   ],
   "memes": [
@@ -1493,6 +5335,154 @@
           "tags": [
             "reuse",
             "memelink_backfill"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-46",
+      "ref": "M-46",
+      "canonical_term": "Handler",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 20,
+          "video_timestamp": "00:10:31",
+          "speaker_node_ref": "N-3",
+          "quote": "from that moment onward&nbsp;&nbsp; Charlie and I were assigned handlers.",
+          "context": "Host says she and Charlie were assigned handlers after the Kanye tweet.",
+          "confidence": "high",
+          "tags": [
+            "handler",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-77",
+      "ref": "M-77",
+      "canonical_term": "Operation Mocking Pastor",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 20,
+          "video_timestamp": "00:52:02",
+          "speaker_node_ref": "N-3",
+          "quote": "I've&nbsp; termed that operation mocking pastor",
+          "context": "Host recalls her own coinage while discussing military infiltration of churches.",
+          "confidence": "high",
+          "tags": [
+            "mocking pastor",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 20,
+          "video_timestamp": "00:48:36",
+          "speaker_node_ref": "N-3",
+          "quote": "That, my friends,&nbsp; is a psychological operation.",
+          "context": "Host calls the addiction comparison a psychological operation.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 20,
+          "video_timestamp": "00:47:41",
+          "speaker_node_ref": "N-3",
+          "quote": "They're gaslighting you and then they're&nbsp;&nbsp; diagnosing you.",
+          "context": "Host says they gaslight and then diagnose the audience.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-127",
+      "ref": "M-127",
+      "canonical_term": "The Matrix",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 20,
+          "video_timestamp": "01:03:39",
+          "speaker_node_ref": "N-3",
+          "quote": "I did it outside of The Matrix.",
+          "context": "Host says she wrote her book outside The Matrix.",
+          "confidence": "high",
+          "tags": [
+            "matrix",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 20,
+          "video_timestamp": "01:03:39",
+          "speaker_node_ref": "N-3",
+          "quote": "We&nbsp;&nbsp; don't know no, but we know.",
+          "context": "Host plugs cups with the stand-cup slogan.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 20,
+          "video_timestamp": "00:35:30",
+          "speaker_node_ref": "N-3",
+          "quote": "medical community, feel&nbsp; free to email us at more tips@candowens. com.",
+          "context": "Host asks the medical community for tips by email.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "tip line"
           ]
         }
       ]

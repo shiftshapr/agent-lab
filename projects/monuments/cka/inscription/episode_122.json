@@ -517,7 +517,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10701",
       "ref": "N-10701",
-      "name": "Andrew Kolbenschlag EEOB Presence / Kash Patel Connection",
+      "name": "Andrew Kolvet EEOB Presence / Kash Patel Connection",
       "type": "investigation_target",
       "description": "Investigative target: verification of Kolbenschlag's location (EEOB vs Arizona) and meeting attendees on day of pre-recorded Kirk Show appearance.",
       "related_artifacts": [],
@@ -2580,8 +2580,8 @@
       "@type": "Claim",
       "@id": "C-2985",
       "ref": "C-2985",
-      "label": "Andrew Kolbenschlag was physically in the Executive Office Building in Washington D.C. while appearing \"live\" in Arizona on the Charlie Kirk Show",
-      "claim": "The host states Andrew Kolbenschlag appeared to be live in studio on the Charlie Kirk Show hosting Kash Patel, but was actually pre-recorded and physically located 5 hours away in the Executive Office Building in Washington D.C.",
+      "label": "Andrew Kolvet was physically in the Executive Office Building in Washington D.C. while appearing \"live\" in Arizona on the Charlie Kirk Show",
+      "claim": "The host states Andrew Kolvet appeared to be live in studio on the Charlie Kirk Show hosting Kash Patel, but was actually pre-recorded and physically located 5 hours away in the Executive Office Building in Washington D.C.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10701"
@@ -4582,7 +4582,7 @@
       ],
       "claim_timestamp": "00:45:23",
       "investigative_direction": "Track the Secret Service and DHS visitor-log FOIA responses for the date.",
-      "transcript_snippet": "Um we are also asking the Secret Service and the DHS for Andrew Kolbenschlag's White House meeting that we told you about",
+      "transcript_snippet": "Um we are also asking the Secret Service and the DHS for Andrew Kolvet's White House meeting that we told you about",
       "supports_claim_refs": [
         "C-4723"
       ],

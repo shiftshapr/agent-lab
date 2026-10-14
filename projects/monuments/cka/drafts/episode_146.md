@@ -12,11 +12,10 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-797, N-11148, N-11150
-  - Hole-minted Nodes (reintro-ep146): N-285, N-10885
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7599–C-7692
   - New Nodes Introduced: N-10819
-  - Reused Nodes Appearing: N-10818, N-5, N-7, N-9, N-17, N-22, N-54, N-55, N-89, N-97, N-107, N-118, N-162, N-221, N-265, N-372, N-491, N-510, N-512, N-575, N-614, N-673, N-10000, N-10013, N-10015, N-10019, N-10040, N-10048, N-10077, N-10131, N-10148, N-10169, N-10193, N-10198, N-10248, N-10264, N-10324, N-10398, N-10570, N-10679, N-10712, N-10715, N-10729, N-10888, N-10897, N-10969, N-11057, N-11065, N-11070, N-10817, N-11149
+  - Reused Nodes Appearing: N-10818, N-5, N-7, N-9, N-17, N-22, N-54, N-55, N-89, N-97, N-107, N-118, N-162, N-221, N-265, N-372, N-491, N-510, N-512, N-575, N-614, N-673, N-10000, N-10013, N-10015, N-10019, N-10040, N-10048, N-10077, N-10131, N-10148, N-10169, N-10193, N-10198, N-10248, N-10264, N-10324, N-10398, N-10570, N-10679, N-10712, N-10715, N-10729, N-10888, N-10897, N-10969, N-11057, N-11065, N-11070, N-10817, N-11149, N-285, N-10885
   - (see registers)
 
 # Episode 146 Ledger Summary
@@ -48,7 +47,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 This episode centers on two principal evidentiary threads. The first is the introduction of exclusive, never-before-seen UVU footage depicting Butch (Burton) Hibbs Jr. – brother of Calvary Chapel Chino Hills pastor Jack Hibbs – recorded immediately after the September 10th shooting. Host Candace Owens presents the footage as showing Hibbs calmly opening his camera app and filming multiple angles rather than rendering aid, fleeing, or making emergency calls. She also presents stills showing Hibbs on a phone call roughly five minutes after the shot, not visibly distressed, and walking behind news interviewees. Owens connects this footage to public statements by Jack Hibbs, including a Facebook video in which Jack claims to have learned of Charlie Kirk's death "from Israeli news service," and audio interviews Jack gave to Frank Churik and to Fox News' Todd Starns about his brother's last-minute UVU attendance and the post-shooting call sequence. Owens highlights apparent inconsistencies in Jack Hibbs's account, including his confusion between Charlie Kirk and "cousin Charlie," and the implausibly tight timeline between the shooting and the reported 12:30 PM FaceTime prayer chain.
 
-The second thread addresses the Tyler Robinson preliminary hearing decision day, where Judge Graph was expected to rule on the defense's motion to dismiss charges 1, 6, and 7 (aggravated murder, witness-tampering-via-Miranda-advice, and violent-offense-in-presence-of-a-child). Owens reviews the prosecution's reliance on Pennsylvania aggravated-murder jurisprudence despite Pennsylvania's active death-penalty moratorium. Courthouse attendee footage is presented identifying Andrew Kovat, Pastor James Cadis, Charlie Kirk's parents, Stacy Sheridan, and Tracy Martin arriving at the hearing. Erika Kirk was present but not captured on camera. The host also identifies an unidentified individual in a pink hat and blue shirt visible in UVU 9/10 photos and asks the audience to help identify them.
+The second thread addresses the Tyler Robinson preliminary hearing decision day, where Judge Graph was expected to rule on the defense's motion to dismiss charges 1, 6, and 7 (aggravated murder, witness-tampering-via-Miranda-advice, and violent-offense-in-presence-of-a-child). Owens reviews the prosecution's reliance on Pennsylvania aggravated-murder jurisprudence despite Pennsylvania's active death-penalty moratorium. Courthouse attendee footage is presented identifying Andrew Kolvet, Pastor James Cadis, Charlie Kirk's parents, Stacy Sheridan, and Tracy Martin arriving at the hearing. Erika Kirk was present but not captured on camera. The host also identifies an unidentified individual in a pink hat and blue shirt visible in UVU 9/10 photos and asks the audience to help identify them.
 
 ---
 
@@ -259,7 +258,7 @@ Confidence Level: High
 
 *Related: C-3356, N-2*
 
-**A-2326.3** Footage of Andrew Kovat walking into the courthouse
+**A-2326.3** Footage of Andrew Kolvet walking into the courthouse
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -267,7 +266,7 @@ Video Timestamp: 00:03:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3356, N-[existing] Andrew Kovat*
+*Related: C-3356, N-[existing] Andrew Kolvet*
 
 **A-2326.4** Footage of Pastor James Cadis on a mobility scooter at the courthouse
 
@@ -403,9 +402,9 @@ Ted Cruz; named as a politician the host says the Wilks brothers fund.
 
 ---
 
-**N-118** Marissa Strait
+**N-118** Marissa Streit
 
-Marissa Strait; PragerU CEO the host says introduced her to Jack Hibbs.
+Marissa Streit; PragerU CEO the host says introduced her to Jack Hibbs.
 
 *Related: C-7611, C-7612*
 
@@ -1002,11 +1001,11 @@ Investigative Direction: Compare timestamps across all Calvary Chapel-linked cal
 
 ---
 
-**C-3356** Erika Kirk, Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kovat, and Pastor James Cadis were present at the courthouse on the decision day
+**C-3356** Erika Kirk, Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis were present at the courthouse on the decision day
 
 Claim Timestamp: 00:02:52
 
-Claim: Courthouse footage captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kovat, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision; Erika Kirk was present but not captured on camera.
+Claim: Courthouse footage captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision; Erika Kirk was present but not captured on camera.
 
 Anchored Artifacts: A-2326.1, A-2326.2, A-2326.3, A-2326.4
 Mentions: N-1, N-2, N-190, N-14, N-551
@@ -1210,11 +1209,11 @@ Investigative Direction: Check Utah and California records for Burton Hibbs Jr. 
 
 ---
 
-**C-7611** Host Says She First Heard of Jack Hibbs From Marissa Strait, Who Suggested Him as a Guest
+**C-7611** Host Says She First Heard of Jack Hibbs From Marissa Streit, Who Suggested Him as a Guest
 
 Claim Timestamp: 00:06:01
 
-Claim: The host says she first heard of Pastor Jack Hibbs from Marissa Strait, whom she calls the MSAD agent turned PragerU CEO, who suggested she have him on her podcast; the host does not think it ever happened.
+Claim: The host says she first heard of Pastor Jack Hibbs from Marissa Streit, whom she calls the MSAD agent turned PragerU CEO, who suggested she have him on her podcast; the host does not think it ever happened.
 
 Transcript Snippet: she had suggested to me that I have him on my podcast. I don't believe it ever happened
 
@@ -1226,11 +1225,11 @@ Investigative Direction: Check the host's own correspondence or booking records 
 
 ---
 
-**C-7612** Host Says Marissa Strait Was in Unit 8200 and Has Not Hidden It
+**C-7612** Host Says Marissa Streit Was in Unit 8200 and Has Not Hidden It
 
 Claim Timestamp: 00:06:01
 
-Claim: The host says Marissa Strait served in Unit 8200 and has never hidden that fact, and calls her an MSAD agent (the transcript's spelling of Mossad).
+Claim: The host says Marissa Streit served in Unit 8200 and has never hidden that fact, and calls her an MSAD agent (the transcript's spelling of Mossad).
 
 Transcript Snippet: She was in unit 8200. She's never hidden that fact, so we're not exactly revealing or bringing any news there
 
@@ -1508,7 +1507,7 @@ Claim Timestamp: 00:13:30
 
 Claim: The host says it is unclear to her whether Jack Hibbs spoke to his brother Butch before or after he took a FaceTime call from Frank Turek at the hospital.
 
-Transcript Snippet: it remains somewhat unclear to me whether Jack spoke to his brother Butch before or after he has a FaceTime session with Frank Turk from the hospital.
+Transcript Snippet: it remains somewhat unclear to me whether Jack spoke to his brother Butch before or after he has a FaceTime session with Frank Turek from the hospital.
 
 Anchored Artifacts: A-2323.1, A-2322.2
 Mentions: N-212, N-250, N-7
@@ -1524,7 +1523,7 @@ Claim Timestamp: 00:13:30
 
 Claim: The host says Frank Turek managed to FaceTime Jack Hibbs from Timpanogos hospital.
 
-Transcript Snippet: Yes, Frank Turk manages to FaceTime Jack from Tempanogus.
+Transcript Snippet: Yes, Frank Turek manages to FaceTime Jack from Tempanogus.
 
 Anchored Artifacts: A-2322.2
 Mentions: N-7, N-212
@@ -1963,13 +1962,13 @@ Investigative Direction: Read Utah Rule of Evidence 1102 and Utah Const. art. I,
 
 ---
 
-**C-7657** Host Says Lance Twigs Could Submit Video Testimony Without Cross-Examination by the Defense
+**C-7657** Host Says Lance Twiggs Could Submit Video Testimony Without Cross-Examination by the Defense
 
 Claim Timestamp: 00:31:24
 
-Claim: The host says it is permitted for Lance Twigs to submit video testimony and that the defense is not able to cross-examine him.
+Claim: The host says it is permitted for Lance Twiggs to submit video testimony and that the defense is not able to cross-examine him.
 
-Transcript Snippet: perfectly acceptable under Utah's constitution for Lance Twigs to submit a video testimony. The prosecution uh sorry, the defense is not able to cross-examine him
+Transcript Snippet: perfectly acceptable under Utah's constitution for Lance Twiggs to submit a video testimony. The prosecution uh sorry, the defense is not able to cross-examine him
 
 Anchored Artifacts: 
 Mentions: N-54, N-40
@@ -2687,13 +2686,13 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty – "Judge Graph"**: Likely a transcript rendering of the presiding magistrate's name; verify against Utah Fourth District Court records.
-- **Name uncertainty – "Frank Churik" / "Frank Turk"**: Transcript alternates between "Churik" and "Turk"; host also references him as "the Yankin and Bankan Franken Turk." Confirm full legal name.
-- **Name uncertainty – "Marissa Strait"**: Likely intended reference to a PragerU executive publicly associated with Unit 8200 background; preserve as transcribed.
+- **Name uncertainty – "Frank Churik" / "Frank Turek"**: Transcript alternates between "Churik" and "Turk"; host also references him as "the Yankin and Bankan Franken Turk." Confirm full legal name.
+- **Name uncertainty – "Marissa Streit"**: Likely intended reference to a PragerU executive publicly associated with Unit 8200 background; preserve as transcribed.
 - **Name uncertainty – "James Cadis" / "Cadiz"**: Transcript primarily renders as "Cadis"; verify against Calvary Chapel Signal Hill staff listings.
 - **Name uncertainty – "Todd Starns"**: Possibly intended as "Todd Starnes" (Fox News contributor); preserve as transcribed.
-- **Name uncertainty – "Lance Twigs"**: Short reference in transcript; likely a transcript rendering error of a different surname; verify.
+- **Name uncertainty – "Lance Twiggs"**: Short reference in transcript; likely a transcript rendering error of a different surname; verify.
 - **Possible transcription error – "FAR filing docks"**: Likely refers to "FARA" (Foreign Agents Registration Act) filings; flag for verification.
-- **Name uncertainty – "Bill Aman"**: Likely refers to Bill Ackman; preserve as transcribed.
+- **Name uncertainty – "Bill Ackman"**: Likely refers to Bill Ackman; preserve as transcribed.
 - **Artifact referenced but not shown**: The dismissal motion and prosecution response filings in the Tyler Robinson preliminary hearing are referenced and discussed by host but not displayed in this episode.
 - **Artifact referenced but not shown**: Mikey McCoy's call logs (12:24–12:44 window) are referenced but were presented in a prior episode, not displayed here.
 - **Unsupported Allegation (not inscribed)**: Host's claims that the Wilks brothers fund Calvary Chapel, PragerU, Daily Wire, and Ted Cruz, and fly Israeli flags in Texas, are stated as "just facts" without displayed artifacts in this episode.

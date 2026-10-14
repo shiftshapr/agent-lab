@@ -436,6 +436,136 @@
           "confidence": "low"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3202",
+      "family_ref": "A-3202",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3202.1",
+          "ref": "A-3202.1",
+          "description": "Host verbal call for tips at the host's tip address about the N560TW flight (verbal reference; not shown)",
+          "related_claims": [
+            "C-12383"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-10255"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:26:19",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3202.2",
+          "ref": "A-3202.2",
+          "description": "Host verbal call for UVU students to send photos of the four rental cars to the tip address (verbal reference; not shown)",
+          "related_claims": [
+            "C-12384"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-10256"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:28:32",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3202.3",
+          "ref": "A-3202.3",
+          "description": "Host verbal call for more tips at the tip address while reading viewer comments (verbal reference; not shown)",
+          "related_claims": [
+            "C-12412"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-10256"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3203",
+      "family_ref": "A-3203",
+      "bundle_name": "Friend's Daylight Saving Time Text Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3203.1",
+          "ref": "A-3203.1",
+          "description": "Host verbal reference to a text from a friend correcting the UTC offset to minus 6 for September (text not shown)",
+          "related_claims": [
+            "C-12406"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-11334"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:46:58",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3204",
+      "family_ref": "A-3204",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3204.1",
+          "ref": "A-3204.1",
+          "description": "Viewer comment from Emma White about Baker Tilly preparing the 990s, read aloud",
+          "related_claims": [
+            "C-12414"
+          ],
+          "related_nodes": [
+            "N-10896"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3204.2",
+          "ref": "A-3204.2",
+          "description": "Viewer comment from BC asking whether the host has seen the new Shawn Ryan episode with the security detail, read aloud",
+          "related_claims": [
+            "C-12413"
+          ],
+          "related_nodes": [
+            "N-228"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -737,9 +867,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10258",
       "ref": "N-10258",
-      "name": "Andrew Kovat Hospital Threat Disclosure Question",
+      "name": "Andrew Kolvet Hospital Threat Disclosure Question",
       "type": "investigation_target",
-      "description": "Investigation target tracking host's verbal claim that Andrew Kovat disclosed a credible threat against Candace Owens and Tucker Carlson while in the hospital on September 10, and that no federal agency has since followed up directly with her.",
+      "description": "Investigation target tracking host's verbal claim that Andrew Kolvet disclosed a credible threat against Candace Owens and Tucker Carlson while in the hospital on September 10, and that no federal agency has since followed up directly with her.",
       "related_artifacts": [],
       "related_claims": [
         "C-1724"
@@ -758,7 +888,26 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12353",
+        "C-12356",
+        "C-12357",
+        "C-12359",
+        "C-12361",
+        "C-12363",
+        "C-12365",
+        "C-12366",
+        "C-12367",
+        "C-12368",
+        "C-12369",
+        "C-12372",
+        "C-12374",
+        "C-12391",
+        "C-12393",
+        "C-12404",
+        "C-12408",
+        "C-12416"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -774,7 +923,14 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12355",
+        "C-12358",
+        "C-12359",
+        "C-12360",
+        "C-12369",
+        "C-12371"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -790,7 +946,63 @@
       "type": "person",
       "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12350",
+        "C-12351",
+        "C-12352",
+        "C-12353",
+        "C-12354",
+        "C-12355",
+        "C-12356",
+        "C-12357",
+        "C-12358",
+        "C-12359",
+        "C-12360",
+        "C-12361",
+        "C-12362",
+        "C-12363",
+        "C-12364",
+        "C-12365",
+        "C-12366",
+        "C-12367",
+        "C-12368",
+        "C-12369",
+        "C-12370",
+        "C-12371",
+        "C-12372",
+        "C-12374",
+        "C-12375",
+        "C-12376",
+        "C-12377",
+        "C-12378",
+        "C-12379",
+        "C-12380",
+        "C-12381",
+        "C-12382",
+        "C-12383",
+        "C-12384",
+        "C-12385",
+        "C-12386",
+        "C-12387",
+        "C-12388",
+        "C-12389",
+        "C-12391",
+        "C-12392",
+        "C-12393",
+        "C-12394",
+        "C-12395",
+        "C-12403",
+        "C-12404",
+        "C-12405",
+        "C-12406",
+        "C-12407",
+        "C-12408",
+        "C-12409",
+        "C-12412",
+        "C-12413",
+        "C-12415",
+        "C-12416"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -836,6 +1048,598 @@
         "N-10254"
       ],
       "organization_kind": "company"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11331",
+      "ref": "N-11331",
+      "name": "Turning Point Endowment",
+      "type": "organization",
+      "description": "Turning Point USA affiliate described in the Wolves and Finance video as an endowment that received millions of dollars of transfers from TPUSA until 2021, held $61 million in assets as of fiscal year 2023, and whose fiscal year 2024 Form 990 is described as missing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12397",
+        "C-12398",
+        "C-12401",
+        "C-12405"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11332",
+      "ref": "N-11332",
+      "name": "America's Turning Point",
+      "type": "organization",
+      "description": "Turning Point USA affiliate that the Wolves and Finance video says received $8,560,625 from TPUSA in fiscal year 2024, reports zero employees and has no fiscal year 2024 Form 990 posted.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12396",
+        "C-12397",
+        "C-12399",
+        "C-12400",
+        "C-12401"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11333",
+      "ref": "N-11333",
+      "name": "Charlie Kirk Salt Lake City Diversion Question",
+      "type": "topic",
+      "description": "Persistent question raised by the host about why Charlie Kirk flew into Salt Lake City at 9:23 a.m. on September 10 rather than the closer Provo airport, and who arranged the interview that she says explained the detour.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12365",
+        "C-12368"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11334",
+      "ref": "N-11334",
+      "name": "SUBND Transponder Time Zone Offset Question",
+      "type": "topic",
+      "description": "Dispute over whether the SUBND transponder windows on September 10 should be converted from UTC with minus 7 hours (as presented on air) or minus 6 hours (Mountain Daylight Time), and whether the host's first October 11 plane post had a time-zone error.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12353",
+        "C-12354",
+        "C-12374",
+        "C-12406"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in the book club audio in which the host says she lost faith in him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12356"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "TPUSA figure whose audit statements are cited by the host and by the Wolves and Finance video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12390",
+        "C-12392"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host addresses him about his Provo tarmac account and the hospital threat warning.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12378",
+        "C-12379",
+        "C-12380",
+        "C-12381"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Named by the host as co-subject of a warned threat and of Israel-linked cancellation demands.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12379",
+        "C-12380",
+        "C-12382",
+        "C-12385"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Named by the host as namechecking her and Tucker Carlson.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12385"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Named by the host as an influencer who allegedly lied about her while TPUSA stayed silent.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12370"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Named by the host as sent out to repeat the alleged Erika accusation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12360"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Named by the host as an influencer who allegedly lied about her and as saying the audit happens every year.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12370",
+        "C-12392"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-228",
+      "ref": "N-228",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Podcaster whose episode with Charlie's security detail a viewer asks the host about.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12413"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-478",
+      "ref": "N-478",
+      "name": "Zack Gregorio (Wolves and Finance)",
+      "type": "person",
+      "description": "Wolves and Finance YouTube channel whose TPUSA filings report is played on air.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12390",
+        "C-12396",
+        "C-12397",
+        "C-12398",
+        "C-12399",
+        "C-12400",
+        "C-12401",
+        "C-12402",
+        "C-12415"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization at the centre of the missing-filings, silence and plane-awareness claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12359",
+        "C-12370",
+        "C-12377",
+        "C-12388",
+        "C-12389",
+        "C-12394",
+        "C-12395",
+        "C-12396",
+        "C-12404",
+        "C-12405"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Campus where the host asks students to check photos for the four rental cars.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12384"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Place named in the host's claims about threats, legislation and the USS Liberty.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12382",
+        "C-12385",
+        "C-12386",
+        "C-12387"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10061",
+      "ref": "N-10061",
+      "name": "CIA Operation Mockingbird",
+      "type": "investigation_target",
+      "description": "Program the host invokes in her opening history.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12350"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Airport and city where the Egyptian planes and Kolvet's tarmac arrival are located.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12353",
+        "C-12378"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10100",
+      "ref": "N-10100",
+      "name": "TPUSA SD Card Removal",
+      "type": "investigation_target",
+      "description": "Topic on which the Farnsworth SD card claims bear.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12362",
+        "C-12363",
+        "C-12364"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10132",
+      "ref": "N-10132",
+      "name": "TPUSA DOGE Department / Financial Audit",
+      "type": "investigation_target",
+      "description": "Topic for the internal DOGE audit discussed with the Wolves video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12391",
+        "C-12392",
+        "C-12393"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10139",
+      "ref": "N-10139",
+      "name": "Operation Mocking Pastor",
+      "type": "investigation_target",
+      "description": "Host's framing of the McCoy clip as an influence operation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12351"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10162",
+      "ref": "N-10162",
+      "name": "SD Card Removal Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Topic on which the Farnsworth SD card claims bear.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12362",
+        "C-12364"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10167",
+      "ref": "N-10167",
+      "name": "Tyler Bowyer X Defense Pattern",
+      "type": "investigation_target",
+      "description": "Topic for Bowyer's X posts pointing to the annual audit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12390"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10208",
+      "ref": "N-10208",
+      "name": "SUBND (Egyptian military aircraft) Flight Tracking Question",
+      "type": "investigation_target",
+      "description": "Aircraft whose September 10 behaviour is described.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12372"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10237",
+      "ref": "N-10237",
+      "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
+      "type": "investigation_target",
+      "description": "Topic for the dispute over what Shapiro attributed to the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12360"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10299",
+      "ref": "N-10299",
+      "name": "TPUSA Egyptian Plane Story Suppression Attempt",
+      "type": "investigation_target",
+      "description": "Topic on TPUSA's silence about the planes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12352",
+        "C-12370",
+        "C-12377"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10434",
+      "ref": "N-10434",
+      "name": "Charlie Kirk DOGE Pre-Death Establishment",
+      "type": "investigation_target",
+      "description": "Topic for the claim that Charlie wanted to establish a DOGE a week before his death.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12391",
+        "C-12393"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10451",
+      "ref": "N-10451",
+      "name": "USS Liberty Incident Cover-up Investigation",
+      "type": "investigation_target",
+      "description": "Topic the host invokes by analogy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12387"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10488",
+      "ref": "N-10488",
+      "name": "Egyptian Plane Communication Investigation",
+      "type": "investigation_target",
+      "description": "Topic for the encrypted communications hypothesis.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12376"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10810",
+      "ref": "N-10810",
+      "name": "SD Card Chain-of-Custody Investigation",
+      "type": "investigation_target",
+      "description": "Topic on which the Farnsworth SD card claims bear.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12364"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10925",
+      "ref": "N-10925",
+      "name": "Turning Point Action",
+      "type": "investigation_target",
+      "description": "TPUSA affiliate named among the entities audited by Baker Tilly.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12401"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1005,15 +1809,15 @@
       "@type": "Claim",
       "@id": "C-1724",
       "ref": "C-1724",
-      "label": "Andrew Kovat Reportedly Disclosed Hospital Threat to Host",
-      "claim": "Host states that Andrew Kovat, while in the hospital on September 10, told her that there was a \"credible threat\" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.",
+      "label": "Andrew Kolvet Reportedly Disclosed Hospital Threat to Host",
+      "claim": "Host states that Andrew Kolvet, while in the hospital on September 10, told her that there was a \"credible threat\" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10258"
       ],
       "tags": [],
       "claim_timestamp": "00:23:51–00:25:54",
-      "investigative_direction": "Obtain corroborating testimony from Andrew Kovat, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning.",
+      "investigative_direction": "Obtain corroborating testimony from Andrew Kolvet, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning.",
       "mentions_person_refs": [
         "N-1",
         "N-2",
@@ -1290,6 +2094,1500 @@
         "N-1",
         "N-268"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12350",
+      "ref": "C-12350",
+      "label": "Host Says the CIA Created Operation Mockingbird After the JFK Assassination",
+      "claim": "The host says that after the 1963 killing of President JFK the CIA established Operation Mockingbird, spending heavily to control the press and the narrative so that the public would stop asking questions about Dallas.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10061"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "Check declassified CIA records and the 1975-76 Church Committee findings on press relationships to test the host's account of Operation Mockingbird.",
+      "transcript_snippet": "It was after the public execution of sitting president JFK in 1963 that the CIA established operation mockingb bird.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12351",
+      "ref": "C-12351",
+      "label": "Host Says Rob McCoy Is Tied to Naval Psychological Intelligence",
+      "claim": "The host says Pastor Rob McCoy is 'the spawn of naval psychological intelligence', which she describes as psychological campaigns upon the public, before playing his sermon clip.",
+      "anchored_artifacts": [
+        "A-1415.1"
+      ],
+      "related_nodes": [
+        "N-10139"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:23",
+      "investigative_direction": "Ask the host what 'spawn of' means here (personal service, family service or ministry) and check McCoy's published biography for any naval or psychological-operations role.",
+      "transcript_snippet": "he's the spawn of naval psychological intelligence, psychological campaigns upon the public.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12352",
+      "ref": "C-12352",
+      "label": "Host Says Her Adversaries Began Panicking When She Discovered the Egyptian Planes",
+      "claim": "The host says her gut told her that the people attacking her suddenly began panicking when she discovered the Egyptian planes, and that their over-reaction (which she calls 'pre-bunking') foreshadows something they do not want known.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10299"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:21",
+      "investigative_direction": "Compare the date of the host's first plane post with the dates of the first Crowder, Shapiro and other attack videos to test whether the reaction followed the plane discovery.",
+      "transcript_snippet": "And my gut started to tell me that they suddenly began panicking when I discovered the Egyptian planes.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12353",
+      "ref": "C-12353",
+      "label": "Host Says She Tweeted on October 11 About the Egyptian Plane Leaving Provo and Got the Time Zone Wrong",
+      "claim": "The host says that on October 11 she tweeted about an Egyptian military plane that left Provo on the morning of Charlie Kirk's assassination and that she got the time zone wrong by a couple of hours.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10074",
+        "N-11334"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:21",
+      "investigative_direction": "Retrieve the host's October 11 post and its edit history, and compare the stated departure time with ADS-B Exchange records for the plane.",
+      "transcript_snippet": "On October 11th when I infamously tweeted about the Egyptian military plane that left Provo on the morning of Charlie Kirk's assassination, I got the time zone wrong by a couple of hours",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12354",
+      "ref": "C-12354",
+      "label": "Host Says an Account That Did Not Exist Posted the Time-Zone Error and It Trended as an Official Debunk",
+      "claim": "The host says an account that did not previously exist posted that her time zone was wrong, that the post trended, and that critics pretended the plane story had been officially debunked just because the departure time was wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-11334"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:59",
+      "investigative_direction": "Identify the account that posted the time-zone correction (creation date, follower history) and the trending record on X for that day.",
+      "transcript_snippet": "Next thing you know, it was trending and uh they pretended it had been officially debunked just because the departure time was wrong.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12355",
+      "ref": "C-12355",
+      "label": "Host Says Undercover Operatives Joined Her Private Tuesday Book Club and Clipped It",
+      "claim": "The host says that while she was off air on a two-week break, undercover operatives signed up for her private Tuesday book club, took a clip from it and accused her of accusing Erika Kirk of murdering her husband.",
+      "anchored_artifacts": [
+        "A-1417.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:59",
+      "investigative_direction": "Trace who first posted the book club clip and how they obtained it; compare against the host's membership and recording policy.",
+      "transcript_snippet": "They sent undercover operatives to sign up for my private book club that I kept on Tuesday and then they took out a clip of that book club",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12356",
+      "ref": "C-12356",
+      "label": "Host Says in Her Book Club Audio That Charlie Was Truly Betrayed and She Lost Faith in Trump",
+      "claim": "In the book club audio played on air the host says everyone just knows Charlie was truly betrayed in one of the most egregious ways she has seen and that this has made her fully lose faith in Trump.",
+      "anchored_artifacts": [
+        "A-1417.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:45",
+      "investigative_direction": "Obtain the full book club recording and compare the played segment against the full session to confirm wording and context.",
+      "transcript_snippet": "We just know that he was truly betrayed in one of the most egregious ways that I think I've ever seen. It has made me lose faith in politics. It has made me fully lose faith in Trump.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12357",
+      "ref": "C-12357",
+      "label": "Host Says in Her Book Club Audio That a Boulevard and a Holiday Mean They Definitely Killed You",
+      "claim": "In the book club audio the host says that as soon as people give you a boulevard and a holiday 'they definitely killed you', and that a Charlie Kirk Boulevard would not be on a nice side of town.",
+      "anchored_artifacts": [
+        "A-1417.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:45",
+      "investigative_direction": "Compare the audio with the full recording to establish who 'they' is in context, since the host later says her remarks were not about Erika Kirk.",
+      "transcript_snippet": "It's like as soon as they give you a boulevard and a holiday holiday, they definitely killed you.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12358",
+      "ref": "C-12358",
+      "label": "Crowder Says Candace Owens' Language Puts Erika Kirk in the Crosshairs and No Evidence Has Been Presented",
+      "claim": "In the clip played, Steven Crowder says outrageous claims require outrageous evidence, that none has been presented, and that Candace Owens' language puts Charlie Kirk's wife Erika in the crosshairs.",
+      "anchored_artifacts": [
+        "A-1416.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:45",
+      "investigative_direction": "Obtain the full Crowder video and date it relative to the host's book club audio; check what claim he treated as the 'outrageous' one.",
+      "transcript_snippet": "outrageous claims and this is an outrageous claim require outrageous evidence of course as is par for the course. Um, none has been presented.",
+      "mentions_person_refs": [
+        "N-263",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12359",
+      "ref": "C-12359",
+      "label": "Host Says Erika Kirk Was Not a TPUSA Employee Leading Up to Charlie's Death",
+      "claim": "The host says that when she said people at Turning Point USA betrayed Charlie, she was not referring to Erika Kirk because Erika was not an employee of Turning Point USA leading up to his death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:00",
+      "investigative_direction": "Check TPUSA filings, payroll or board records for any role held by Erika Kirk before September 10, 2025.",
+      "transcript_snippet": "people at Turning Point USA betrayed him, which Erika Kirk was not an employee of leading up to his death.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12360",
+      "ref": "C-12360",
+      "label": "Host Says Ben Shapiro Was Sent Out to Make the Same Alleged Accusation About Erika",
+      "claim": "The host says that after her plane work, TPUSA-aligned influencers 'sent mother mocking bird out, Ben Shapiro' to allege that she had said something specifically about Erika when she had not.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10237"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Locate Shapiro's on-stage remarks and check whether he named Erika Kirk or attributed an accusation to the host; compare with the host's book club audio.",
+      "transcript_snippet": "they sent mother mocking bird out, Ben Shapiro, to make the exact same wild allegation out of thin air that I said something specifically about Erika when I had not.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12361",
+      "ref": "C-12361",
+      "label": "Host Says She Earlier Showed a Document Indicating the Egyptian Planes Were Tracking Charlie",
+      "claim": "The host says that after the Crowder episode she discovered the Egyptian planes had been tracking Charlie, and that her team created and showed a document organizing SUBND (blue plane) and SUBTT (yellow plane).",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Retrieve the earlier plane document the host refers to and compare its stated basis for 'tracking Charlie' with the later claim that the planes tracked Erika.",
+      "transcript_snippet": "I discovered that the planes had been tracking Charlie. We showed you guys this, right? We created this document and we organized it.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12362",
+      "ref": "C-12362",
+      "label": "Host Says Terrell Farnsworth Does Not Normally Work College Campus Events",
+      "claim": "The host says Terrell Farnsworth, who takes out the SD cards, does not do college campus events, only the big events such as SAS and AmFest, so his presence at the UVU event was one of her earliest alarms.",
+      "anchored_artifacts": [
+        "A-1424.1"
+      ],
+      "related_nodes": [
+        "N-10100",
+        "N-10162"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Compare Farnsworth's event assignments across other 2025 campus tour stops using TPUSA event staffing records, photos and travel records.",
+      "transcript_snippet": "Terrell does not do college campus events. He doesn't do that. He's at the top of the company. He does the big events, the SAS, the Afest.",
+      "mentions_person_refs": [
+        "N-265",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12363",
+      "ref": "C-12363",
+      "label": "Host Says Farnsworth Told Her TPUSA Was Trying Something New and He Was Absent at the Next Event",
+      "claim": "The host says Farnsworth told her they were trying something new that day, and that he was not at the next event after Charlie died.",
+      "anchored_artifacts": [
+        "A-1424.1"
+      ],
+      "related_nodes": [
+        "N-10100"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Ask Farnsworth or TPUSA for the staffing roster of the first events after September 10 to test whether he was absent.",
+      "transcript_snippet": "he told me they were trying something new that day and it must have been so new that it was over by the next event after Charlie died because he wasn't there again.",
+      "mentions_person_refs": [
+        "N-265",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12364",
+      "ref": "C-12364",
+      "label": "Host Says Farnsworth Was at the Event and Secured the SD Cards",
+      "claim": "The host says Farnsworth was 'out of the blue' at the UVU event and that he secured the SD cards.",
+      "anchored_artifacts": [
+        "A-1424.1"
+      ],
+      "related_nodes": [
+        "N-10100",
+        "N-10162",
+        "N-10810"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Obtain TPUSA's chain-of-custody record for the SD cards and the names of anyone who handled them on September 10.",
+      "transcript_snippet": "So, he just out of the blue was at this event and then he wasn't and he secured the SD cards.",
+      "mentions_person_refs": [
+        "N-265",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12365",
+      "ref": "C-12365",
+      "label": "Host Says Interview Guests Usually Travel to Charlie, So the Salt Lake City Detour Was an Oddity",
+      "claim": "The host says that for a podcast interview people travel to Charlie, that he would go out of his way only for a big donor or major political figure, and that she felt at the time that he was diverted to Salt Lake City for a reason.",
+      "anchored_artifacts": [
+        "A-1424.2"
+      ],
+      "related_nodes": [
+        "N-11333",
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:12",
+      "investigative_direction": "Obtain Charlie's September 10 itinerary and the scheduling emails for the Andrew K. Smith interview to see who requested the Salt Lake City stop and why.",
+      "transcript_snippet": "Otherwise, for the sake of a podcast, people travel to Charlie. Okay? If you if you want to get Charlie, you're gonna travel to Charlie to make that happen.",
+      "supports_claim_refs": [
+        "C-3735"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-268",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12366",
+      "ref": "C-12366",
+      "label": "Host Says Charlie Was Obsessed With Planes",
+      "claim": "The host says Charlie Kirk was obsessed with planes and knew far too many facts about every aircraft he boarded.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:12",
+      "investigative_direction": "Seek corroboration of Charlie's interest in aircraft from staff, pilots and his own broadcasts.",
+      "transcript_snippet": "Something else you should know about Charlie is Charlie was obsessed with planes.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12367",
+      "ref": "C-12367",
+      "label": "Host Says Charlie Had a Photographic Memory for Donors",
+      "claim": "The host says Charlie Kirk had a photographic memory for donor names, emails and numbers and could say who worked for whom and what each had given.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:12",
+      "investigative_direction": "Corroborate through TPUSA donor-relations staff and past interviews; the host presents this as personal knowledge.",
+      "transcript_snippet": "Charlie had a photographic memory. He did. Donor names, emails, numbers.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12368",
+      "ref": "C-12368",
+      "label": "Host Says Charlie Landed in Salt Lake City at 9:23 a.m. Local Time",
+      "claim": "The host says Charlie Kirk landed in Salt Lake City at 9:23 a.m. local time on September 10.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11333"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:51",
+      "investigative_direction": "Check FAA/ADS-B records for the Kirk charter's arrival time and airport, and compare with TPUSA's published itinerary.",
+      "transcript_snippet": "So, you have to remember that Charlie landed into Salt Lake City at 9:23 a. m. local time.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12369",
+      "ref": "C-12369",
+      "label": "Host Says the Mommy Sleuth Found After 15 Hours of Research That the Planes Tracked Erika, Not Charlie",
+      "claim": "The host says a pregnant 'mommy sleuth' emailed that the host was only partially right about the planes tracking Charlie and that after 15 more hours of research the person the planes tracked for years was Erika, which the host says turned out to be correct.",
+      "anchored_artifacts": [
+        "A-1419.2"
+      ],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:51",
+      "investigative_direction": "Review the sleuth's email and method (kept anonymous by the host) and test the overlaps against independent flight and location records.",
+      "transcript_snippet": "she had done an additional 15 hours of research and was able to discern that the person the planes were actually tracking for years was Erika, not Charlie",
+      "mentions_person_refs": [
+        "N-267",
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12370",
+      "ref": "C-12370",
+      "label": "Host Says Turning Point Never Steps Forward to Say She Is Telling the Truth About the Planes",
+      "claim": "The host says that when influencers such as Josh Hammer and Alex Clark lie about her, Turning Point stays silent, and nobody at Turning Point ever clarifies that she is telling the truth or never acknowledged that the plane was familiar to them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10299"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:49",
+      "investigative_direction": "Survey TPUSA statements on the Egyptian planes since October 2025 to confirm whether it ever addressed them.",
+      "transcript_snippet": "Nobody at Turning Point ever just steps to clarify that I'm on to something or I'm telling the truth about something.",
+      "mentions_person_refs": [
+        "N-55",
+        "N-99",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12371",
+      "ref": "C-12371",
+      "label": "Host Says the Egyptian Plane Also Tracked Erika Overseas",
+      "claim": "The host says the Egyptian plane was not just with Erika in America but was also tracking her overseas.",
+      "anchored_artifacts": [
+        "A-1419.1"
+      ],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:42",
+      "investigative_direction": "Ask the host for the non-US rows of the spreadsheet and verify each against foreign flight records and Erika Kirk's published travel.",
+      "transcript_snippet": "Like I said, this plane was not just with her in America. It was also tracking her overseas as well.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12372",
+      "ref": "C-12372",
+      "label": "Host Says the Yellow Plane Took Off the Morning of the Assassination but the Blue Plane Did Not",
+      "claim": "The host says that on the day of the assassination the yellow plane took off in the morning but the blue plane, SUBND, did not, though it powered on.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10208"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:42",
+      "investigative_direction": "Compare ADS-B Exchange and FlightAware departures for SU-BTT and SU-BND on September 10, 2025.",
+      "transcript_snippet": "On the day of Charlie's assassination, we know the yellow plane took off in the morning, but the blue plane did not take off in the morning.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12373",
+      "ref": "C-12373",
+      "label": "Director Mark Says Flight Sites Show Only Airborne Planes but ADS-B Exchange Shows Raw Ground Transponder Data",
+      "claim": "Director Mark says common flight-tracking sites only show a plane when it is airborne, but a plane on the ground still transmits ADS-B transponder data, which ADS-B Exchange publishes as raw data.",
+      "anchored_artifacts": [
+        "A-1418.1"
+      ],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:57",
+      "investigative_direction": "Reproduce the lookup on ADS-B Exchange for SU-BND on September 10 and check what other aggregators record for ground transponder activity.",
+      "transcript_snippet": "all the flight radar websites only show when the plane is actually in the air. But if the plane is on the ground and transmitting that data from the ADSB transponder still goes out.",
+      "mentions_person_refs": [
+        "N-67"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12374",
+      "ref": "C-12374",
+      "label": "Host Says the Blue Plane's Transponder Came Back On 17 Minutes After Charlie Was Shot",
+      "claim": "The host says the SUBND transponder was turned back on at 12:40 p.m. and 53 seconds, just 17 minutes after Charlie was shot, and stayed on until 1:29 p.m. and 40 seconds.",
+      "anchored_artifacts": [
+        "A-1418.1"
+      ],
+      "related_nodes": [
+        "N-10253",
+        "N-11334"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:58",
+      "investigative_direction": "Resolve the UTC-to-local conversion (see the daylight-saving correction later in the episode) and compare with the official time of the shot, about 12:23 p.m. local.",
+      "transcript_snippet": "The transponder was turned back on just 17 minutes after Charlie was shot at 12:40 p. m. and 53 seconds",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12375",
+      "ref": "C-12375",
+      "label": "Host Says Duncan Aviation Offers Maintenance and the Plane May Simply Have Run Maintenance Checks",
+      "claim": "The host says Duncan Aviation offers maintenance repairs, so it is possible the plane simply ran maintenance checks at an unfortunate time.",
+      "anchored_artifacts": [
+        "A-1418.1"
+      ],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:54",
+      "investigative_direction": "Ask Duncan Aviation Provo whether it holds a work order for SU-BND on September 10, 2025.",
+      "transcript_snippet": "Duncan Aviation does offer maintenance repairs. It's therefore possible that it just chose to run some maintenance checks at an unfortunate time.",
+      "mentions_person_refs": [
+        "N-264",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12376",
+      "ref": "C-12376",
+      "label": "Host Floats That a Foreign Military Jet Could Be Used for Untraceable Encrypted Calls",
+      "claim": "The host floats that a foreign military jet would likely carry encrypted satellite communications and that, if someone wanted an untraceable phone call, only the NSA could intercept it from such an aircraft.",
+      "anchored_artifacts": [
+        "A-1418.1"
+      ],
+      "related_nodes": [
+        "N-10488",
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:54",
+      "investigative_direction": "Consult aviation-communications experts on the Gulfstream IV avionics fit used by Egyptian government aircraft; the host frames this as a possibility, not a finding.",
+      "transcript_snippet": "a military jet, particularly one from a foreign country, would likely be equipped with encrypted satellite-based communications capabilities.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12377",
+      "ref": "C-12377",
+      "label": "Host Says the Egyptian Planes Were Known to Turning Point USA",
+      "claim": "The host says the Egyptian planes were known to Turning Point USA and that TPUSA chose to stay silent about why they were on the ground on the day of the assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10299",
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:44",
+      "investigative_direction": "Ask TPUSA to state whether anyone in the organization knew of or dealt with the Egyptian aircraft, and identify the basis for the host's statement.",
+      "transcript_snippet": "my point is that these planes were known to Turning Point USA and we all deserve to know why they were on the ground on that day",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12378",
+      "ref": "C-12378",
+      "label": "Host Says Kolvet Told Her Something About the Provo Tarmac That Does Not Add Up",
+      "claim": "The host says Andrew Kolvet told her something very specific about what happened when he arrived at the Provo tarmac on September 10, and that it keeps playing in her mind and does not add up.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:51",
+      "investigative_direction": "Compare Kolvet's later public accounts of arriving at Provo with what the host says he told her that day.",
+      "transcript_snippet": "Because there is something very specific, Andrew, that you told me that happened when you arrived into Provo on the tarmac that day and it is now playing over and over and over again in my mind and it isn't adding up.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12379",
+      "ref": "C-12379",
+      "label": "Host Says Kolvet Told Her in the Hospital That She and Tucker Were on a List and Should Lay Low",
+      "claim": "The host says Andrew Kolvet told her at the hospital that she and Tucker Carlson were on a list and that, as a friend, he was telling her they should lay low.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10258"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:51",
+      "investigative_direction": "Ask Kolvet and Tucker Carlson to confirm the conversation, and request call logs for the host and Kolvet on September 10.",
+      "transcript_snippet": "You told me that me and Tucker Carlson were on a list and that you were just telling me as a friend that me and Tucker should lay low.",
+      "supports_claim_refs": [
+        "C-1724"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12380",
+      "ref": "C-12380",
+      "label": "Host Says She Immediately Called Tucker Carlson and Told Him They Had to Lay Low",
+      "claim": "The host says that after her call with Kolvet she immediately called Tucker Carlson, terrified, and told him they had to lay low because of a credible threat.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10258"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:51",
+      "investigative_direction": "Ask Tucker Carlson to confirm the call and its timing; phone records for September 10 would fix the sequence.",
+      "transcript_snippet": "I ended our phone call and I immediately called Tucker Carlson and I said, \"Hey.\"",
+      "mentions_person_refs": [
+        "N-22",
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12381",
+      "ref": "C-12381",
+      "label": "Host Says Kolvet Did Not Say Who the Threat Came From and She Assumes the Feds",
+      "claim": "The host says Kolvet did not tell her who the threat came from, that she assumes the feds told him, and she asks why the feds would not call her directly if there was a threat against her life.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10258"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:51",
+      "investigative_direction": "Ask Kolvet which agency or person passed on the warning; request any FBI or Utah DPS threat notification related to the host or Tucker Carlson.",
+      "transcript_snippet": "it is now really living inside me that you did not tell me who that threat was from. I assume the feds told you",
+      "supports_claim_refs": [
+        "C-1724"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12382",
+      "ref": "C-12382",
+      "label": "Host Says People Tied to Israel Are Making Threats Against Her and Tucker Carlson and Demanding They Be Cancelled",
+      "claim": "The host says people tied to Israel are making threats on every stage against her and Tucker Carlson and demanding that they be cancelled, and that none of those making videos about them are Egyptians.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:50",
+      "investigative_direction": "Identify the specific statements the host means and distinguish public calls for cancellation from threats of violence.",
+      "transcript_snippet": "People that are tied to Israel are making threats against me and Tucker Carlson, demanding that we be cancelled.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12383",
+      "ref": "C-12383",
+      "label": "Host Asks the Public to Email More Tips About the N560TW Flight",
+      "claim": "The host asks anyone who worked at an airport or saw something on the morning of September 10 to email more tips at her tip address about the N560TW flight she is interested in.",
+      "anchored_artifacts": [
+        "A-3202.1"
+      ],
+      "related_nodes": [
+        "N-10255"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:19",
+      "investigative_direction": "Decentralized Intelligence Agency tip call: review the tip inbox for submissions about N560TW and corroborate any named witnesses before publication.",
+      "transcript_snippet": "somebody saw something and I'm asking you to email us more tips at candacewowens. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12384",
+      "ref": "C-12384",
+      "label": "Host Asks UVU Students to Check Photos for the Four Rental Cars and Email Tips",
+      "claim": "The host asks UVU students to check their phone photos, hotel and gas station records for the four rental cars on September 10 and to send anything to her tip address.",
+      "anchored_artifacts": [
+        "A-3202.2"
+      ],
+      "related_nodes": [
+        "N-10256",
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:32",
+      "investigative_direction": "Decentralized Intelligence Agency tip call: collect and authenticate any photos or footage showing the four plates near UVU on or before September 10.",
+      "transcript_snippet": "And of course, the email address to send it to is more tips@candice. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12385",
+      "ref": "C-12385",
+      "label": "Host Says Netanyahu Is Namechecking Her and Tucker Carlson",
+      "claim": "The host says Benjamin Netanyahu is namechecking her and Tucker Carlson and that his fans are on stage calling them out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:03",
+      "investigative_direction": "Find the Netanyahu public remarks that mention the host or Tucker Carlson by name, with dates.",
+      "transcript_snippet": "Bibi Netanyahu is namechecking me and Tucker Carlson.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12386",
+      "ref": "C-12386",
+      "label": "Host Says Israel Is Advancing Legislation to Censor Speech and Take Over Social Media Campaigns",
+      "claim": "The host says Israel is growing increasingly alarming in the legislation it is trying to get passed, trying to censor speech and take over social media campaigns.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:03",
+      "investigative_direction": "Identify the specific legislation the host means and which legislature is considering it.",
+      "transcript_snippet": "Israel is growing increasingly alarming in terms of legislation that they're trying to get past, trying to censor our speech, trying to take over social media campaigns.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12387",
+      "ref": "C-12387",
+      "label": "Host Says the Egyptian Narrative Echoes the USS Liberty, Which She Says Israel Attacked",
+      "claim": "The host says the last time a narrative blaming Egypt ran was probably the USS Liberty, when the plan was to make Americans think Egypt had attacked the ship although she says Israel attacked it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10451",
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:32:03",
+      "investigative_direction": "Historical question: the 1967 USS Liberty inquiries and declassified NSA and Navy records; this has no direct bearing on the September 10 evidence.",
+      "transcript_snippet": "You know, the last time that narrative ran was probably the USS Liberty. That was the plan, right? To make us think Egypt had attacked us. But it wasn't actually Egypt that attacked that ship. It was Israel.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12388",
+      "ref": "C-12388",
+      "label": "Host Says TPUSA Missed Its Tax Deadline for the First Time",
+      "claim": "The host says an organization of Turning Point USA's size missing its tax deadline for the first time is a little weird.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10254"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:33:21",
+      "investigative_direction": "Check IRS Tax Exempt Organization Search for Form 990 filing dates for TPUSA and affiliates in prior years.",
+      "transcript_snippet": "an organization of that size that misses their deadline, their tax deadline for the first time, that's a little weird.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12389",
+      "ref": "C-12389",
+      "label": "Host Says TPUSA Filed for an Extension and Then Missed the Extension Deadline",
+      "claim": "The host says that Turning Point USA filed for an extension and then missed the extension deadline to file.",
+      "anchored_artifacts": [
+        "A-1420.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10254"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:21",
+      "investigative_direction": "Obtain Form 8868 extension filings and the IRS filing status for the three missing returns.",
+      "transcript_snippet": "not just they filed for an extension and then miss the extension deadline to file?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12390",
+      "ref": "C-12390",
+      "label": "Wolves and Finance Says Tyler Bowyer Pointed to the Annual Audit While the Financial Statements Are Missing",
+      "claim": "The Wolves and Finance video says Tyler Bowyer is telling people on X to go look at the annual financial audit, but the financial audit is missing from last year for three of the four organizations.",
+      "anchored_artifacts": [
+        "A-1420.1"
+      ],
+      "related_nodes": [
+        "N-10254",
+        "N-10167"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:07",
+      "investigative_direction": "Locate Bowyer's X posts about the annual audit and compare them with the IRS record of filed returns (the video appears to conflate the audit with Form 990 filings).",
+      "transcript_snippet": "So Tyler Bowyer is being snarky on X. com and telling people to go look at the annual financial audit, but the financial audit is missing from last year for three of the four organizations.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-478"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12391",
+      "ref": "C-12391",
+      "label": "Host Says Charlie Said Seven Days Before He Died That He Wanted to Establish DOGE",
+      "claim": "The host says that seven days before Charlie died he said he wanted to establish a DOGE at Turning Point.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10434",
+        "N-10132"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:11",
+      "investigative_direction": "Locate the source of Charlie's statement about a TPUSA DOGE and its date, and compare with the September 2, 2025 internal memo.",
+      "transcript_snippet": "it was unusual that seven days before Charlie died, he said that he wanted to establish Doge, right?",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12392",
+      "ref": "C-12392",
+      "label": "Host Says Bowyer Called the Audit Totally Regular and Alex Clark Said It Happens Every Year",
+      "claim": "The host says that Tyler Bowyer said the audit was 'just totally regular' and that Alex Clark said every year since she has been there this is what they do, and the host calls Bowyer's answer a lie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:11",
+      "investigative_direction": "Retrieve the Bowyer and Clark statements and check whether they addressed the new DOGE audit or only TPUSA's routine annual audit.",
+      "transcript_snippet": "Tyler came out and lied and he said, \"This is just totally regular.\" And uh Alex Clark said, \"Oh, every year since I've been here, this is what we do.\"",
+      "supports_claim_refs": [
+        "C-1368"
+      ],
+      "mentions_person_refs": [
+        "N-11",
+        "N-99",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12393",
+      "ref": "C-12393",
+      "label": "Host Says Charlie Was Concerned About Where TPUSA's Money Was Coming From, Not Only Where It Was Going",
+      "claim": "The host says Charlie was not just concerned about where TPUSA's money was going but about where it was coming from.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132",
+        "N-10434"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:11",
+      "investigative_direction": "Identify the host's basis (conversations with Charlie, messages) and any written evidence that Charlie asked for tracing of donor funds.",
+      "transcript_snippet": "he was not just concerned about where the money was going. He was concerned about where it was coming from.",
+      "supports_claim_refs": [
+        "C-1563"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12394",
+      "ref": "C-12394",
+      "label": "Host Says the Extension Deadline Was October 15 and TPUSA Missed Both Deadlines",
+      "claim": "The host says that the tax extension deadline was probably October 15, that big companies normally file for an extension, but TPUSA missed both the regular and the extension deadline, which she calls completely abnormal.",
+      "anchored_artifacts": [
+        "A-1420.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10254"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:11",
+      "investigative_direction": "Confirm TPUSA's fiscal year end and the corresponding Form 990 and extended due dates, and whether the returns were filed after the episode (November 17, 2025).",
+      "transcript_snippet": "I think that was October 15th was a tax extension deadline. They have missed them both and that is completely abnormal.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12395",
+      "ref": "C-12395",
+      "label": "Host Says TPUSA Previously Filed All Its Returns at the Same Time",
+      "claim": "The host says that in TPUSA's earlier filings they always filed all of them at the same time, so leaving off three is unusual.",
+      "anchored_artifacts": [
+        "A-1420.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10254"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:11",
+      "investigative_direction": "Compare IRS filing dates for TPUSA, Action, Endowment and America's Turning Point across several prior years.",
+      "transcript_snippet": "If you go back and you look at Turning Point USA's filings before they always file all of them at the same time.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12396",
+      "ref": "C-12396",
+      "label": "Wolves and Finance Calls America's Turning Point TPUSA's Own Shell Company",
+      "claim": "The Wolves and Finance video says the $8,560,625 was sent to America's Turning Point, which the narrator calls TPUSA's own shell company, and says this is not necessarily illegal but the recipient's financial statement is missing.",
+      "anchored_artifacts": [
+        "A-1420.2"
+      ],
+      "related_nodes": [
+        "N-11332",
+        "N-10000",
+        "N-10254"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:37:29",
+      "investigative_direction": "Check state and IRS records for America's Turning Point (entity type, officers, exempt status) to test the 'shell company' description.",
+      "transcript_snippet": "They are sending it to their own shell company. Now, this is not necessarily illegal except for the fact that the financial statement for the other organization is missing.",
+      "mentions_person_refs": [
+        "N-478"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12397",
+      "ref": "C-12397",
+      "label": "Wolves and Finance Says TPUSA Stopped Sending Millions to Its Endowment in 2021 and Shifted to America's Turning Point",
+      "claim": "The Wolves and Finance video says TPUSA used to transfer millions of dollars to Turning Point Endowment, that this stopped in 2021 and it started ramping up transfers to America's Turning Point.",
+      "anchored_artifacts": [
+        "A-1420.2"
+      ],
+      "related_nodes": [
+        "N-11331",
+        "N-11332",
+        "N-10254"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:29",
+      "investigative_direction": "Check Schedule I of TPUSA's Forms 990 for 2019 through 2024 and compare the grant recipients year by year.",
+      "transcript_snippet": "This stopped in 2021 and they started ramping up sending money to America's Turning Point.",
+      "mentions_person_refs": [
+        "N-478"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12398",
+      "ref": "C-12398",
+      "label": "Wolves and Finance Says the Endowment Held $61 Million in Assets in FY2023, Earning $1.9 Million a Year",
+      "claim": "The Wolves and Finance video says that as of fiscal year 2023 Turning Point Endowment had $61 million of assets generating $1.9 million a year of investment income.",
+      "anchored_artifacts": [
+        "A-1420.2"
+      ],
+      "related_nodes": [
+        "N-11331",
+        "N-10254"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:29",
+      "investigative_direction": "Verify the figures on the Turning Point Endowment Form 990 for fiscal year 2023.",
+      "transcript_snippet": "As of fiscal year 2023, they had $61 million of assets in the endowment, which was generating $1.9 million a year of investment income.",
+      "mentions_person_refs": [
+        "N-478"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12399",
+      "ref": "C-12399",
+      "label": "Wolves and Finance Says America's Turning Point Reports Zero Employees Yet Spent Mostly on Salaries and Wages",
+      "claim": "The Wolves and Finance video says that in the prior year the majority of America's Turning Point's money was spent on other salaries and wages even though the organization reports zero employees.",
+      "anchored_artifacts": [
+        "A-1420.2"
+      ],
+      "related_nodes": [
+        "N-11332",
+        "N-10254"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:37",
+      "investigative_direction": "Pull America's Turning Point's prior-year Form 990 (Part VII, Part IX and Schedule O) to check employee count and salary expense, including payments to a related staffing entity.",
+      "transcript_snippet": "If we look at the prior year, the majority of the money was spent on other salaries and wages. How is this possible when America's Turning Point reports zero employees?",
+      "mentions_person_refs": [
+        "N-478"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12400",
+      "ref": "C-12400",
+      "label": "Wolves and Finance Narrator Speculates There Are Fake People on the Payroll",
+      "claim": "The Wolves and Finance narrator says that, in his opinion, he thinks there are fake people on the payroll and that paychecks are sent to people who do not really exist; this is his speculation, not a finding.",
+      "anchored_artifacts": [
+        "A-1420.2"
+      ],
+      "related_nodes": [
+        "N-11332",
+        "N-10254"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:37",
+      "investigative_direction": "No evidence is presented for this speculation; only audited payroll records or an enforcement finding could confirm or refute it.",
+      "transcript_snippet": "I think there are fake people on the payroll.",
+      "mentions_person_refs": [
+        "N-478"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12401",
+      "ref": "C-12401",
+      "label": "Wolves and Finance Says Baker Tilly Audited TPUSA, Action, Endowment, America's Turning Point and TPUSA Merch",
+      "claim": "The Wolves and Finance video says the annual financial audit for Turning Point USA, Inc. and its affiliates was performed by Baker Tilly, which in its notes audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point and TPUSA merch, and gave a clean opinion.",
+      "anchored_artifacts": [
+        "A-1420.3"
+      ],
+      "related_nodes": [
+        "N-10896",
+        "N-10925",
+        "N-11331",
+        "N-11332"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:41:11",
+      "investigative_direction": "Obtain the Baker Tilly audit report and notes for fiscal year 2024 and confirm the entities covered and the opinion type.",
+      "transcript_snippet": "they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA merch.",
+      "mentions_person_refs": [
+        "N-478"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12402",
+      "ref": "C-12402",
+      "label": "Wolves and Finance Says Baker Tilly's Opinion Letter Was Signed After TPUSA Missed the IRS Filing Date",
+      "claim": "The Wolves and Finance video says Baker Tilly's audit opinion letter was signed after Turning Point missed the filing date with the IRS, so Baker Tilly had no excuse for not mentioning the missing returns.",
+      "anchored_artifacts": [
+        "A-1420.3"
+      ],
+      "related_nodes": [
+        "N-10896",
+        "N-10254"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:41:57",
+      "investigative_direction": "Check the signature date on the audit opinion letter against the original and extended Form 990 due dates.",
+      "transcript_snippet": "Baker Tilly's audit opinion letter is signed after Turning Point missed the filing date with the IRS.",
+      "mentions_person_refs": [
+        "N-478"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12403",
+      "ref": "C-12403",
+      "label": "Host Floats That the Outside Auditor Was Shown All Documents and TPUSA Then Decided Not to File",
+      "claim": "The host says it is possible, though she thinks low probability, that the outside auditor was shown all documentation and gave a clean bill of health and that Turning Point then decided not to file, while the missed filing extension deadline is a fact.",
+      "anchored_artifacts": [
+        "A-1420.3"
+      ],
+      "related_nodes": [
+        "N-10896",
+        "N-10254"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:43:01",
+      "investigative_direction": "Ask Baker Tilly and TPUSA for the engagement timeline and the date financial statements were delivered.",
+      "transcript_snippet": "it is possible that when they used that outside auditor, that they showed them all of the documentation and then they gave him a clean bill of health and then for whatever reason, Turning Point decided not to file.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12404",
+      "ref": "C-12404",
+      "label": "Host Says TPUSA Cleared Over $70 Million in the First Couple of Weeks After the Assassination",
+      "claim": "The host says Turning Point USA cleared over $70 million in the first couple of weeks after Charlie was assassinated.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:43:57",
+      "investigative_direction": "Look for TPUSA statements, donor disclosures or press reports giving the amount raised after September 10, 2025.",
+      "transcript_snippet": "they cleared over $70 million in the first couple of weeks after Charlie was assassinated.",
+      "supports_claim_refs": [
+        "C-9629"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12405",
+      "ref": "C-12405",
+      "label": "Host Says TPUSA Routes a Lot of Donor Money Into Its Endowment Fund",
+      "claim": "The host says well-meaning donors are now learning that Turning Point USA routes a lot of their money, though not the bulk, into its endowment fund.",
+      "anchored_artifacts": [
+        "A-1420.2"
+      ],
+      "related_nodes": [
+        "N-11331",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:43:57",
+      "investigative_direction": "Tabulate annual transfers to Turning Point Endowment on TPUSA's Forms 990 as a share of contributions.",
+      "transcript_snippet": "who are now learning how this organization functions by routing the bulk of their money or to a lot of their money rather, not the bulk of it into their endowment fund, right?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12406",
+      "ref": "C-12406",
+      "label": "Host Relays a Friend's Correction That September Times Are UTC Minus 6, Not Minus 7",
+      "claim": "The host reads a text from a friend saying that because of daylight saving time the September 10 conversion should be UTC minus 6, not minus 7, so the transponder times should be adjusted one hour forward.",
+      "anchored_artifacts": [
+        "A-3203.1"
+      ],
+      "related_nodes": [
+        "N-11334",
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:46:58",
+      "investigative_direction": "Utah was on Mountain Daylight Time on September 10, 2025 (UTC minus 6); recompute the SUBND windows from the raw UTC values and re-test the '17 minutes after the shot' statement.",
+      "transcript_snippet": "it was UTC minus 6, not minus 7. So, for those times, you're going to adjust them 1 hour forward.",
+      "contradicts_claim_refs": [
+        "C-1734",
+        "C-1719"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12407",
+      "ref": "C-12407",
+      "label": "Host Says Military Bots Are Running an Operation on X",
+      "claim": "The host says that people are definitely running an operation on X and that it is obviously military bots that make her mistakes trend for days.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:48:53",
+      "investigative_direction": "Seek platform or third-party bot analysis of the accounts amplifying her time-zone error.",
+      "transcript_snippet": "Yeah, they are definitely running an operation on X. It's obviously military bots.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12408",
+      "ref": "C-12408",
+      "label": "Host Says Her Opponents Tried to Deny She Had a Relationship With Charlie During Her Grief",
+      "claim": "The host says the first thing her opponents did during her grief stage was to pretend that she and Charlie did not even have a relationship, because they knew she would be the one to defend him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:42",
+      "investigative_direction": "Identify the specific public statements in September 2025 that minimized the host's relationship with Charlie.",
+      "transcript_snippet": "the first thing they had to do was when I was in my grief stage was to try to pretend Charlie and I didn't even have a relationship",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12409",
+      "ref": "C-12409",
+      "label": "Host Says Others Tried to Incentivize Her Before",
+      "claim": "The host says her opponents had tried to incentivize her with money and reputation before, but she had already said she did not care about the money, the reputation or the headlines.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:42",
+      "investigative_direction": "Ask the host who offered what and when; any written offers would be the best evidence.",
+      "transcript_snippet": "cuz they tried to incentivize me with all these things before.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12410",
+      "ref": "C-12410",
+      "label": "Viewer Comment Says Anyone Can FOIA Flock Camera Locations and Data",
+      "claim": "A viewer comment read on air says anyone can use FOIA to obtain all Flock license plate camera locations and data points.",
+      "anchored_artifacts": [
+        "A-1423.1"
+      ],
+      "related_nodes": [
+        "N-10257"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:52:35",
+      "investigative_direction": "Check state public-records law and Flock's contract terms; FOIA access to Flock data varies by agency and state and may be restricted.",
+      "transcript_snippet": "I was today today years old when I learned that anyone can FOIA all flock license plate cameras, locations, and data points."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12411",
+      "ref": "C-12411",
+      "label": "Producer Says Flock Runs a Network of Automated License Plate Readers in Nearly Every US Town",
+      "claim": "An off-camera producer says Flock is a company running a network of automated license plate readers dotted through pretty much every town in the United States.",
+      "anchored_artifacts": [
+        "A-1423.1"
+      ],
+      "related_nodes": [
+        "N-10257"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:52:35",
+      "investigative_direction": "Review Flock's published coverage figures and the transparency portals of Utah County agencies.",
+      "transcript_snippet": "There's a a network run by a company called Flock of Automated license plate readers that are dotted throughout pretty much every town in the United States."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12412",
+      "ref": "C-12412",
+      "label": "Host Says the Feds Are Trying to Cover Everything and Asks for More Tips",
+      "claim": "The host says the feds are trying to cover everything and asks the audience for tips at her tip address, saying somebody saw something and has the license plate numbers.",
+      "anchored_artifacts": [
+        "A-3202.3"
+      ],
+      "related_nodes": [
+        "N-10256",
+        "N-10257"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:52:35",
+      "investigative_direction": "Decentralized Intelligence Agency tip call: log submissions that reference the four plates and corroborate through Flock or other records before any publication.",
+      "transcript_snippet": "More tips at canowens. com. We have to be faster than them, smarter than them.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12413",
+      "ref": "C-12413",
+      "label": "Host Says She Has Not Seen the Shawn Ryan Episode With Charlie's Security Detail and Will Give Feedback This Week",
+      "claim": "A viewer asks whether the host has seen the new Shawn Ryan interview with the security detail that took care of Charlie, and the host says she has not seen it yet but will watch it and give feedback this week.",
+      "anchored_artifacts": [
+        "A-3204.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:52:35",
+      "investigative_direction": "Identify the Shawn Ryan episode and guests, and track the host's later feedback.",
+      "transcript_snippet": "I have not seen it yet, but I intend to watch it and I will give feedback on it um this week without question.",
+      "mentions_person_refs": [
+        "N-228",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12414",
+      "ref": "C-12414",
+      "label": "Viewer Comment Says Baker Tilly Also Prepares the 990s and Its Audits Are Not Considered Valid",
+      "claim": "A viewer who says she runs operations for a nonprofit comments that Baker Tilly is also the company listed as preparing the 990s on the first page and that its audits are not considered valid because a separate company has to do an independent audit.",
+      "anchored_artifacts": [
+        "A-3204.1"
+      ],
+      "related_nodes": [
+        "N-10896"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:52:35",
+      "investigative_direction": "Check the preparer block on TPUSA's filed Form 990; separately check independence rules for a firm that both prepares returns and audits.",
+      "transcript_snippet": "Baker Tilly also is the company that files their 990s per the first page. Their audits are not considered valid. a separate company has to do an independent audit."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12415",
+      "ref": "C-12415",
+      "label": "Host Says the Wolves Video Went Deeper Into Lawsuits Baker Tilly Faced for Not Auditing Correctly",
+      "claim": "The host says, while stressing that it is an allegation, that the Wolves and Finance video went deeper into lawsuits the accounting firm was facing for not auditing things correctly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10896"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:55:00",
+      "investigative_direction": "Search court dockets for suits naming Baker Tilly US, LLP over audit quality and confirm which suits the video cites.",
+      "transcript_snippet": "that video went deeper into some lawsuits that Baker Tilly was facing for not auditing things correctly.",
+      "mentions_person_refs": [
+        "N-478",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12416",
+      "ref": "C-12416",
+      "label": "Host Says Charlie Told Her in a Dream That He Was Betrayed",
+      "claim": "The host says she felt it spiritually and that Charlie told her in a dream that he was betrayed.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:55:00",
+      "investigative_direction": "Dream report with no documentary anchor; recorded as said.",
+      "transcript_snippet": "I told you. I felt it spiritually. Charlie told me he was betrayed in a dream.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     }
   ],
   "memes": [
@@ -1322,6 +3620,286 @@
           "tags": [
             "reuse",
             "memelink_backfill"
+          ]
+        },
+        {
+          "episode": 33,
+          "video_timestamp": "00:48:53",
+          "speaker_node_ref": "N-3",
+          "quote": "I want to just encourage all the YouTubers and all the mommy sleuths.",
+          "context": "Host encourages tipsters to keep emailing, calling it project mommy sleuth.",
+          "confidence": "high",
+          "tags": [
+            "mommy sleuth",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 33,
+          "video_timestamp": "00:48:53",
+          "speaker_node_ref": "N-3",
+          "quote": "...emails and we are going to solve this thing. The decentralized intelligence agency is going to solve this thing and like I said when I tell you what I know tomorrow it it's just we'r...",
+          "context": "DIA / DCIA brand line from corrected transcript (CKA seq 33).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "brand_joke",
+            "transcript_backfill"
+          ]
+        },
+        {
+          "episode": 33,
+          "video_timestamp": "00:14:51",
+          "speaker_node_ref": "N-3",
+          "quote": "...I consider her obviously and all of you to be my decentralized intelligence agents. Anyway, she sent me a rather urgent email and I'm obviously protecting her identity for for, you know, reasons that are clear...",
+          "context": "M-12 alias \"decentralized intelligence agents\" crediting the mommy sleuth tipster and the audience (CKA seq 33).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "brand_joke",
+            "transcript_backfill"
+          ]
+        },
+        {
+          "episode": 33,
+          "video_timestamp": "00:26:19",
+          "speaker_node_ref": "N-3",
+          "quote": "somebody saw something and I'm asking you to email us more tips at candacewowens. com.",
+          "context": "Tip call about the N560TW flight (DIA beat).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia_beat"
+          ]
+        },
+        {
+          "episode": 33,
+          "video_timestamp": "00:28:32",
+          "speaker_node_ref": "N-3",
+          "quote": "And of course, the email address to send it to is more tips@candice. com.",
+          "context": "Tip call to UVU students about the four rental cars (DIA beat).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia_beat"
+          ]
+        },
+        {
+          "episode": 33,
+          "video_timestamp": "00:52:35",
+          "speaker_node_ref": "N-3",
+          "quote": "More tips at canowens. com. We have to be faster than them, smarter than them.",
+          "context": "Tip call after the Flock FOIA discussion (DIA beat).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "dia_beat"
+          ]
+        },
+        {
+          "episode": 33,
+          "video_timestamp": "00:55:00",
+          "speaker_node_ref": "N-3",
+          "quote": "No one has ever decentralized the intelligence.",
+          "context": "Host reflects on crowd-sourced investigation as historic while reading comments.",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "brand_joke"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-34",
+      "ref": "M-34",
+      "canonical_term": "Deep State",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 33,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "esident JFK in 1963 that the CIA established operation mockingb bird. Deep state assassinations require deep state solutions. They spent an offensi...",
+          "context": "Later reuse of Deep State in CKA seq 33.",
+          "confidence": "high",
+          "tags": [
+            "intel",
+            "media",
+            "host_refrain",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 33,
+          "video_timestamp": "00:21:54",
+          "speaker_node_ref": "N-3",
+          "quote": "it's pretty obvious that the deep state doesn't seem particularly interested in the assassination of Charlie Kirk",
+          "context": "Host says the deep state is not interested in the assassination while discussing encrypted comms.",
+          "confidence": "high",
+          "tags": [
+            "deep state",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 33,
+          "video_timestamp": "00:01:35",
+          "speaker_node_ref": "N-3",
+          "quote": "for which you have no evidence. Challenge accepted. Frank Turek, let's go Max today. Welcome back to Candace. ## Operation-mocking plane. Pastor Rob...",
+          "context": "Go Max battle cry. (CKA seq 33)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
+          ]
+        },
+        {
+          "episode": 33,
+          "video_timestamp": "00:14:51",
+          "speaker_node_ref": "N-3",
+          "quote": "She is the person that in this regard went max for Charlie when I missed something.",
+          "context": "Host credits the mommy sleuth with going max for Charlie.",
+          "confidence": "high",
+          "tags": [
+            "go max",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 33,
+          "video_timestamp": "00:46:58",
+          "speaker_node_ref": "N-3",
+          "quote": "you can buy our book, Make Him a Sandwich",
+          "context": "Host plugs the signed book during the comments segment.",
+          "confidence": "high",
+          "tags": [
+            "book plug",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 33,
+          "video_timestamp": "00:35:11",
+          "speaker_node_ref": "N-3",
+          "quote": "So, to be clear, that was another point that they gas lit me on",
+          "context": "Host says TPUSA gaslit her on the DOGE audit timing.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-189",
+      "ref": "M-189",
+      "canonical_term": "Mockingbirds",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 33,
+          "video_timestamp": "00:10:59",
+          "speaker_node_ref": "N-3",
+          "quote": "That seems to have struck even more fear into the nest of mocking birds.",
+          "context": "Host calls the influencers a nest of mocking birds.",
+          "confidence": "high",
+          "tags": [
+            "mockingbird",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 33,
+          "video_timestamp": "00:10:59",
+          "speaker_node_ref": "N-3",
+          "quote": "they sent mother mocking bird out, Ben Shapiro",
+          "context": "Host calls Ben Shapiro mother mocking bird.",
+          "confidence": "high",
+          "tags": [
+            "mockingbird",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-301",
+      "ref": "M-301",
+      "canonical_term": "Pre-Bunking",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 33,
+          "video_timestamp": "00:04:21",
+          "speaker_node_ref": "N-3",
+          "quote": "They did what we now term um a pre-bunking, right?",
+          "context": "Host coins pre-bunking for an over-the-top response that lies about what she said.",
+          "confidence": "high",
+          "tags": [
+            "pre-bunking",
+            "coinage"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-302",
+      "ref": "M-302",
+      "canonical_term": "Those Darn Egyptians",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 33,
+          "video_timestamp": "00:27:30",
+          "speaker_node_ref": "N-3",
+          "quote": "you know those darn Egyptians are at it again. Those darn Egyptians.",
+          "context": "Host sarcastically presents the four rental plates as Egyptians at it again.",
+          "confidence": "high",
+          "tags": [
+            "egyptians",
+            "sarcasm"
           ]
         }
       ]

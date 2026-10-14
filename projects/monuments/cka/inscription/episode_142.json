@@ -13,7 +13,7 @@
     "transcript_sha256": "8fa969dba43042db5893cc29c3f2e01cf24703d976572f4015d20142f83e6dab",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode centers on the September 10, 2025 evidence-handling behavior of Terrell Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kulvette's Tucker Carlson appearance explaining the SD-card removal as protection against \"evil people.\" The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.\n\nThe episode advances several investigative questions: (1) whether Farnsworth's claimed Google-hacking fear was a lie, given his same-day Google Drive transmission; (2) whether footage from behind Charlie Kirk's head was specifically clipped and zoomed in; (3) whether FBI involvement in a state-level Utah homicide is procedurally anomalous, supported by a clip of former CIA officer John Kirraou. The episode also presents a Joe Rogan Experience clip in which panelists discuss apparent perspective distortion in a published Tyler Robinson identification photo, and a WearForbidden parody video.\n\nStructurally, this episode functions as evidence-chain and chain-of-custody consolidation prior to the next development in the series.\n\n---",
+  "executive_summary": "This episode centers on the September 10, 2025 evidence-handling behavior of Terrell Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kolvet's Tucker Carlson appearance explaining the SD-card removal as protection against \"evil people.\" The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.\n\nThe episode advances several investigative questions: (1) whether Farnsworth's claimed Google-hacking fear was a lie, given his same-day Google Drive transmission; (2) whether footage from behind Charlie Kirk's head was specifically clipped and zoomed in; (3) whether FBI involvement in a state-level Utah homicide is procedurally anomalous, supported by a clip of former CIA officer John Kirraou. The episode also presents a Joe Rogan Experience clip in which panelists discuss apparent perspective distortion in a published Tyler Robinson identification photo, and a WearForbidden parody video.\n\nStructurally, this episode functions as evidence-chain and chain-of-custody consolidation prior to the next development in the series.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -117,13 +117,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2287",
       "family_ref": "A-2287",
-      "bundle_name": "Andrew Kulvette Tucker Carlson Interview Bundle",
+      "bundle_name": "Andrew Kolvet Tucker Carlson Interview Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2287.1",
           "ref": "A-2287.1",
-          "description": "Kulvette Audio Clip – \"Because I know people can be evil\" Explanation",
+          "description": "Kolvet Audio Clip – \"Because I know people can be evil\" Explanation",
           "related_claims": [
             "C-3294"
           ],
@@ -673,7 +673,7 @@
       "ref": "N-10804",
       "name": "TPUSA Debate PR Strategy",
       "type": "investigation_target",
-      "description": "Investigation target: Turning Point USA's choice to deploy Andrew Kulvette in a public debate format.",
+      "description": "Investigation target: Turning Point USA's choice to deploy Andrew Kolvet in a public debate format.",
       "related_artifacts": [
         "A-2292.1",
         "A-2292.2",
@@ -693,7 +693,7 @@
       "ref": "N-10805",
       "name": "Debate Israel Focus",
       "type": "investigation_target",
-      "description": "Investigation target: observation that Andrew Kulvette's debate opening statement pivoted to Israel focus.",
+      "description": "Investigation target: observation that Andrew Kolvet's debate opening statement pivoted to Israel focus.",
       "related_artifacts": [
         "A-2293.5"
       ],
@@ -1746,8 +1746,8 @@
       "@type": "Claim",
       "@id": "C-3294",
       "ref": "C-3294",
-      "label": "Andrew Kulvette Publicly Defended SD-Card Removal as Protection Against \"Evil People\"",
-      "claim": "Kulvette stated on Tucker Carlson that Farnsworth removed the SD cards \"because I know people can be evil,\" and described witnessing theft of hats from the table after the incident.",
+      "label": "Andrew Kolvet Publicly Defended SD-Card Removal as Protection Against \"Evil People\"",
+      "claim": "Kolvet stated on Tucker Carlson that Farnsworth removed the SD cards \"because I know people can be evil,\" and described witnessing theft of hats from the table after the incident.",
       "anchored_artifacts": [
         "A-2287.1"
       ],
@@ -1765,8 +1765,8 @@
       "@type": "Claim",
       "@id": "C-3743",
       "ref": "C-3743",
-      "label": "Andrew Kolvet is the 'Kulvette' of C-3294 (revises C-3294)",
-      "claim": "C-3294 spells the speaker 'Andrew Kulvette' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-265) removed the SD cards \"because I know people can be evil,\" and described witnessing theft of hats from the table after the incident.",
+      "label": "Andrew Kolvet is the 'Kolvet' of C-3294 (revises C-3294)",
+      "claim": "C-3294 spells the speaker 'Andrew Kolvet' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-265) removed the SD cards \"because I know people can be evil,\" and described witnessing theft of hats from the table after the incident.",
       "anchored_artifacts": [
         "A-2287.1"
       ],

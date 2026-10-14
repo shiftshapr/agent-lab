@@ -638,7 +638,7 @@
       "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
-      "description": "Transcript spellings \"Andrew Kovette\" and \"Andrew Kovets\". The host says Trump spoke in front of him and Charlie Kirk, and that Erika told her Kolvet \"went rogue.\"",
+      "description": "Transcript spellings \"Andrew Kolvet\" and \"Andrew Kovets\". The host says Trump spoke in front of him and Charlie Kirk, and that Erika told her Kolvet \"went rogue.\"",
       "related_artifacts": [],
       "related_claims": [
         "C-4493",
@@ -715,7 +715,7 @@
       "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
-      "description": "Transcript spelling \"Bill Aman\". Tucker Carlson questioned the source of his wealth at SAS; the host says he sponsored the Hamptons retreat.",
+      "description": "Transcript spelling \"Bill Ackman\". Tucker Carlson questioned the source of his wealth at SAS; the host says he sponsored the Hamptons retreat.",
       "related_artifacts": [],
       "related_claims": [
         "C-4502",
@@ -734,7 +734,7 @@
       "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
-      "description": "Transcript spelling \"Megan Kelly\". Named in the New York Times article among the supporters Trump was unhappy with.",
+      "description": "Transcript spelling \"Megyn Kelly\". Named in the New York Times article among the supporters Trump was unhappy with.",
       "related_artifacts": [
         "A-2648.1"
       ],
@@ -943,7 +943,7 @@
       "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
-      "description": "Transcript spelling \"Barry Weiss\". The host says Erika Kirk appeared on stage with her saying those who do not support Israel have \"brain rot.\"",
+      "description": "Transcript spelling \"Bari Weiss\". The host says Erika Kirk appeared on stage with her saying those who do not support Israel have \"brain rot.\"",
       "related_artifacts": [],
       "related_claims": [
         "C-4517",
@@ -961,7 +961,7 @@
       "ref": "N-302",
       "name": "Miriam Adelson",
       "type": "person",
-      "description": "Transcript spelling \"Miriam Adlesen\". Cited in the host's Israel theme for Trump.",
+      "description": "Transcript spelling \"Miriam Adelson\". Cited in the host's Israel theme for Trump.",
       "related_artifacts": [],
       "related_claims": [
         "C-4495"
@@ -2001,7 +2001,7 @@
       "tags": [],
       "claim_timestamp": "00:10:28",
       "investigative_direction": "Ask Andrew Kolvet whether such a remark was made and when.",
-      "transcript_snippet": "you willy-nilly said in front of Charlie Kirk and Andrew Kovette that you were going to take somebody's money and then f them over",
+      "transcript_snippet": "you willy-nilly said in front of Charlie Kirk and Andrew Kolvet that you were going to take somebody's money and then f them over",
       "mentions_person_refs": [
         "N-5",
         "N-1",
@@ -2129,7 +2129,7 @@
       "tags": [],
       "claim_timestamp": "00:16:11",
       "investigative_direction": "Seek confirmation from the article's sources or White House aides present.",
-      "transcript_snippet": "Trump told aids that he was very unhappy with some of his most influential supporters, including Charlie Kirk, Tucker Carlson, and Megan Kelly",
+      "transcript_snippet": "Trump told aids that he was very unhappy with some of his most influential supporters, including Charlie Kirk, Tucker Carlson, and Megyn Kelly",
       "mentions_person_refs": [
         "N-5",
         "N-1",
@@ -2190,7 +2190,7 @@
       "tags": [],
       "claim_timestamp": "00:17:29",
       "investigative_direction": "Seek testimony from TPUSA staff or donors on post-speech demands.",
-      "transcript_snippet": "They wanted him to cancel Tucker. Um they were angry that um in particular that he had Tucker Carlson had asked where Bill Aman's money comes from.",
+      "transcript_snippet": "They wanted him to cancel Tucker. Um they were angry that um in particular that he had Tucker Carlson had asked where Bill Ackman's money comes from.",
       "mentions_person_refs": [
         "N-1",
         "N-22",
@@ -2230,7 +2230,7 @@
       "tags": [],
       "claim_timestamp": "00:18:45",
       "investigative_direction": "Review the full video of Carlson's July 11, 2025 SAS speech.",
-      "transcript_snippet": "He says that the people who serve in foreign armies should be stripped of their citizenship and he muses about where Bill Aman's wealth comes from.",
+      "transcript_snippet": "He says that the people who serve in foreign armies should be stripped of their citizenship and he muses about where Bill Ackman's wealth comes from.",
       "mentions_person_refs": [
         "N-22",
         "N-1",
@@ -2504,7 +2504,7 @@
       "tags": [],
       "claim_timestamp": "00:28:47",
       "investigative_direction": "Review the CBS / Bari Weiss town hall transcript for the remark.",
-      "transcript_snippet": "as soon as Charlie passes away, she's up on stage with Barry Weiss saying anybody who doesn't support Israel has brain rot.",
+      "transcript_snippet": "as soon as Charlie passes away, she's up on stage with Bari Weiss saying anybody who doesn't support Israel has brain rot.",
       "mentions_person_refs": [
         "N-2",
         "N-282"
@@ -2628,7 +2628,7 @@
       "tags": [],
       "claim_timestamp": "00:39:05",
       "investigative_direction": "Establish the date and context of the host's meeting with Erika Kirk and Kolvet's subsequent statements.",
-      "transcript_snippet": "The ability to lie to my face in the way that she lied to my face about saying that Andrew Kovette went rogue.",
+      "transcript_snippet": "The ability to lie to my face in the way that she lied to my face about saying that Andrew Kolvet went rogue.",
       "mentions_person_refs": [
         "N-2",
         "N-14",

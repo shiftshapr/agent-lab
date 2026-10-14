@@ -146,7 +146,7 @@
           "@type": "Artifact",
           "@id": "A-1498.1",
           "ref": "A-1498.1",
-          "description": "Frank Turk audio/video clip asserting Charlie Kirk told him Blake Neff was \"the smartest man I know\" / \"secret weapon\"",
+          "description": "Frank Turek audio/video clip asserting Charlie Kirk told him Blake Neff was \"the smartest man I know\" / \"secret weapon\"",
           "related_claims": [
             "C-1837"
           ],
@@ -602,7 +602,7 @@
       "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
-      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
       "related_claims": [
         "C-5152",
@@ -1107,8 +1107,8 @@
       "@type": "Claim",
       "@id": "C-1837",
       "ref": "C-1837",
-      "label": "Frank Turk Testimonial on Blake Neff",
-      "claim": "Frank Turk states in a video testimonial that the night before Charlie Kirk's death, Kirk told him that Blake Neff was Kirk's \"secret weapon\" and \"the smartest man I know.\"",
+      "label": "Frank Turek Testimonial on Blake Neff",
+      "claim": "Frank Turek states in a video testimonial that the night before Charlie Kirk's death, Kirk told him that Blake Neff was Kirk's \"secret weapon\" and \"the smartest man I know.\"",
       "anchored_artifacts": [
         "A-1498.1"
       ],
@@ -1326,7 +1326,7 @@
       "tags": [],
       "claim_timestamp": "00:07:19",
       "investigative_direction": "Check the December 4, 2025 episode of the TPUSA show for Kolvet appearing remotely.",
-      "transcript_snippet": "In fact, today on their show, they had Andrew Kovette joining them virtually.",
+      "transcript_snippet": "In fact, today on their show, they had Andrew Kolvet joining them virtually.",
       "mentions_person_refs": [
         "N-14",
         "N-3"
@@ -1364,7 +1364,7 @@
       "tags": [],
       "claim_timestamp": "00:10:28",
       "investigative_direction": "Identify the pastors and the broadcasts or posts in which they used that language about the host.",
-      "transcript_snippet": "All Blake Nef did was name call yesterday. All the pastors have been doing it's demonic. It's possessed.",
+      "transcript_snippet": "All Blake Neff did was name call yesterday. All the pastors have been doing it's demonic. It's possessed.",
       "mentions_person_refs": [
         "N-162",
         "N-3"

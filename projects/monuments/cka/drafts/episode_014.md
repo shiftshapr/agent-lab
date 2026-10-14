@@ -13,12 +13,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-800, N-801, N-802, N-803, N-11154, N-11155, N-11156, N-11157
-  - Hole-minted Nodes (reintro-ep014): N-314, N-10270, N-10315, N-10324, N-10662
+  - Hole-minted Nodes (reintro-ep014): N-314, N-10315, N-10324, N-10662
   - Tip-minted Nodes (reintro-ep014): N-715, N-11011, N-11059, N-11130
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-7836–C-7910
   - New Nodes Introduced: N-146, N-147, N-148, N-149, N-150, N-151, N-152, N-10161
-  - Reused Nodes Appearing: N-6, N-9, N-42, N-46, N-50, N-61, N-75, N-82, N-93, N-119, N-133, N-134, N-10000, N-10012, N-10014, N-10025, N-10026, N-10056, N-10060, N-10095, N-10110, N-10129, N-10144, N-10148, N-10153, N-10158, N-10159, N-10160, N-10406, N-11153
+  - Reused Nodes Appearing: N-6, N-9, N-42, N-46, N-50, N-61, N-75, N-82, N-93, N-119, N-133, N-134, N-10000, N-10012, N-10014, N-10025, N-10026, N-10056, N-10060, N-10095, N-10110, N-10129, N-10144, N-10148, N-10153, N-10158, N-10159, N-10160, N-10406, N-11153, N-10270
 - Channel / creator: @RealCandaceO · Candace Owens
 - Episode date: 2025-10-02
 - Source used for analysis: Transcript (cleaned YouTube captions, video context)
@@ -378,7 +378,7 @@ Commentator the host says is being pressured over her stance on the host.
 
 **N-50** Sigmund Freud
 
-Rendered 'Sigman Freud'; the host ties him to B'nai B'rith and abuse cover-ups.
+Rendered 'Sigmund Freud'; the host ties him to B'nai B'rith and abuse cover-ups.
 
 *Related: C-7839, C-7840*
 
@@ -1149,7 +1149,7 @@ Claim Timestamp: 00:01:15
 
 Claim: The host says Sigmund Freud was a member of B'nai B'rith and ties him to the book club reading The Assault on Truth.
 
-Transcript Snippet: but Sigman Freud was a member of Bonai Barith.
+Transcript Snippet: but Sigmund Freud was a member of Bonai Barith.
 
 Anchored Artifacts: A-2905.1
 Mentions: N-50, N-3
@@ -1905,7 +1905,7 @@ Claim Timestamp: 00:34:45
 
 Claim: The host says Brigitte Macron has hired former federal prosecutors and is hiring a firm here in order to bankrupt her.
 
-Transcript Snippet: Breit Mcronone has hired feds federal former federal prosecutors and she's hiring a firm here.
+Transcript Snippet: Brigitte Macron has hired feds federal former federal prosecutors and she's hiring a firm here.
 
 Anchored Artifacts: 
 Mentions: N-82, N-3
@@ -2209,7 +2209,7 @@ Claim Timestamp: 00:50:02
 
 Claim: The host says she predicted pressure on Megyn Kelly yesterday and that articles appeared afterward, as the hornets nest has been kicked.
 
-Transcript Snippet: It's starting. The hornets nest has been kicked. The bees are buzzing around Megan Kelly.
+Transcript Snippet: It's starting. The hornets nest has been kicked. The bees are buzzing around Megyn Kelly.
 
 Anchored Artifacts: 
 Mentions: N-46, N-3
@@ -2272,7 +2272,7 @@ Claim Timestamp: 00:52:35
 
 Claim: The host says Mrs. Macron is going to bankrupt her for exposing it.
 
-Transcript Snippet: Mrs. Mcronone's got some pretty big balls. She's going to bankrupt me for exposing it.
+Transcript Snippet: Mrs. Macron's got some pretty big balls. She's going to bankrupt me for exposing it.
 
 Anchored Artifacts: 
 Mentions: N-82, N-3

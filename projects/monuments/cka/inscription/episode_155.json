@@ -19,13 +19,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2405",
       "family_ref": "A-2405",
-      "bundle_name": "Blake Neff & Jeremy Boring Promotional Photo Bundle",
+      "bundle_name": "Blake Neff & Jeremy Boreing Promotional Photo Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2405.1",
           "ref": "A-2405.1",
-          "description": "Promotional photo of Blake Neff and Jeremy Boring (with a dog in the center) promoting their joint sitdown",
+          "description": "Promotional photo of Blake Neff and Jeremy Boreing (with a dog in the center) promoting their joint sitdown",
           "related_claims": [
             "C-3513"
           ],
@@ -95,13 +95,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2408",
       "family_ref": "A-2408",
-      "bundle_name": "Jeremy Boring X Post Bundle",
+      "bundle_name": "Jeremy Boreing X Post Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2408.1",
           "ref": "A-2408.1",
-          "description": "X post by Jeremy Boring asserting that Candace Owens does things \"largely on purpose\" and \"all Candace cares about is fame and money\"",
+          "description": "X post by Jeremy Boreing asserting that Candace Owens does things \"largely on purpose\" and \"all Candace cares about is fame and money\"",
           "related_claims": [
             "C-3519"
           ],
@@ -698,7 +698,7 @@
       "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
-      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
       "related_claims": [
         "C-11859",
@@ -989,7 +989,7 @@
       "ref": "N-371",
       "name": "Jeremy Boreing",
       "type": "person",
-      "description": "Former Daily Wire CEO ('Jeremy Boring' in the transcript); the host's account of his podcast, posts and lawsuits.",
+      "description": "Former Daily Wire CEO ('Jeremy Boreing' in the transcript); the host's account of his podcast, posts and lawsuits.",
       "related_artifacts": [],
       "related_claims": [
         "C-11859",
@@ -1436,7 +1436,7 @@
       "@id": "C-3513",
       "ref": "C-3513",
       "label": "Neff/Boring Joint Podcast Announced via Promotional Materials",
-      "claim": "Blake Neff and Jeremy Boring released promotional photo and audio/video promo clip announcing a joint podcast sitdown.",
+      "claim": "Blake Neff and Jeremy Boreing released promotional photo and audio/video promo clip announcing a joint podcast sitdown.",
       "anchored_artifacts": [
         "A-2405.1",
         "A-2407.1"
@@ -1454,7 +1454,7 @@
       "@id": "C-3514",
       "ref": "C-3514",
       "label": "Sausalito Predicted Podcast Content Pre-Release",
-      "claim": "Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turk), and calls for lawsuits/jail time against the host.",
+      "claim": "Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host.",
       "anchored_artifacts": [
         "A-2406.1"
       ],
@@ -1545,7 +1545,7 @@
       "@id": "C-3519",
       "ref": "C-3519",
       "label": "Boring X Post Claimed Owens Acts for Fame",
-      "claim": "Jeremy Boring posted on X that Candace Owens \"does this largely on purpose\" and that \"all Candace cares about is fame and money. Nothing is beneath her.\"",
+      "claim": "Jeremy Boreing posted on X that Candace Owens \"does this largely on purpose\" and that \"all Candace cares about is fame and money. Nothing is beneath her.\"",
       "anchored_artifacts": [
         "A-2408.1"
       ],

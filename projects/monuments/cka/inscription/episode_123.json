@@ -13,7 +13,7 @@
     "transcript_sha256": "93abb119e30ffeee11218fa72b1be08579d89ea15f3f784ace8d3604332d4554",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 123 is structured as an \"emergency update\" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turk and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown – a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.\n\nThe episode then pivots to commentary on Turning Point USA's anticipated response, including a viral clip of Mikey McCoy appearing physically ill as Charlie's casket is moved at the hospital, and a prior interview clip of Charlie describing how Erika told him \"God wants you to have your phone on\" – directly relevant to the Butler shooting anecdote referenced earlier in the series. The host reiterates her position that Tyler Robinson did not fire the shot from the rooftop and supports John Bray's microphone-rigging theory.\n\nStructurally, this episode advances the evidentiary record by introducing specific visual artifacts (car interior photos) that anchor ongoing contradictions between witness retellings and physical evidence. It also widens the lens to include institutional accountability questions directed at TPUSA.\n\n---",
+  "executive_summary": "Episode 123 is structured as an \"emergency update\" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turek and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown – a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.\n\nThe episode then pivots to commentary on Turning Point USA's anticipated response, including a viral clip of Mikey McCoy appearing physically ill as Charlie's casket is moved at the hospital, and a prior interview clip of Charlie describing how Erika told him \"God wants you to have your phone on\" – directly relevant to the Butler shooting anecdote referenced earlier in the series. The host reiterates her position that Tyler Robinson did not fire the shot from the rooftop and supports John Bray's microphone-rigging theory.\n\nStructurally, this episode advances the evidentiary record by introducing specific visual artifacts (car interior photos) that anchor ongoing contradictions between witness retellings and physical evidence. It also widens the lens to include institutional accountability questions directed at TPUSA.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -1460,15 +1460,15 @@
       "@type": "Claim",
       "@id": "C-2994",
       "ref": "C-2994",
-      "label": "Frank Turk and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events",
-      "claim": "Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turk and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.",
+      "label": "Frank Turek and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events",
+      "claim": "Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turek and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10705"
       ],
       "tags": [],
       "claim_timestamp": "00:06:00–00:19:30",
-      "investigative_direction": "Obtain transcripts/video of all Frank Turk and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.",
+      "investigative_direction": "Obtain transcripts/video of all Frank Turek and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.",
       "mentions_person_refs": [
         "N-270",
         "N-7"
@@ -1534,7 +1534,7 @@
       "@id": "C-2998",
       "ref": "C-2998",
       "label": "TPUSA Has Not Publicly Explained How Microphone Glass Ended Up in Vehicle",
-      "claim": "As of this episode, TPUSA (via spokesperson Andrew Kovat) has not publicly addressed how the road microphone shattered or why the glass ended up in the vehicle.",
+      "claim": "As of this episode, TPUSA (via spokesperson Andrew Kolvet) has not publicly addressed how the road microphone shattered or why the glass ended up in the vehicle.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10705",
@@ -1616,7 +1616,7 @@
       ],
       "claim_timestamp": "00:01:20",
       "investigative_direction": "List the specific statements by Harpole and Turek the host says are false and the records that would refute them.",
-      "transcript_snippet": "just because Frank Turk tells a lie, does not mean that every single person at Turning Point USA is implicated",
+      "transcript_snippet": "just because Frank Turek tells a lie, does not mean that every single person at Turning Point USA is implicated",
       "mentions_person_refs": [
         "N-270",
         "N-7",
@@ -1638,7 +1638,7 @@
       ],
       "claim_timestamp": "00:02:43",
       "investigative_direction": "Compare the transcripts of Turek's and Harpole's interviews point by point on duration, CPR and who did what in the vehicle.",
-      "transcript_snippet": "People like Frank Turk, his car ride, which is told differently than it is by Brian Harpole",
+      "transcript_snippet": "People like Frank Turek, his car ride, which is told differently than it is by Brian Harpole",
       "mentions_person_refs": [
         "N-7",
         "N-270"
@@ -1794,7 +1794,7 @@
       ],
       "claim_timestamp": "00:06:11",
       "investigative_direction": "Compare seating positions from Harpole and Turek accounts and test the bag for blood sources.",
-      "transcript_snippet": "I think it's likely given where Frank Turk was sitting that that is him.",
+      "transcript_snippet": "I think it's likely given where Frank Turek was sitting that that is him.",
       "supports_claim_refs": [
         "C-2956"
       ],
@@ -1858,7 +1858,7 @@
       ],
       "claim_timestamp": "00:07:01",
       "investigative_direction": "Locate the Turek statement about changing clothes and compare with the jacket's return to Erika's apartment.",
-      "transcript_snippet": "the story that Frank Turk tells us is he changed in part because he didn't want Erika to see him bloodied.",
+      "transcript_snippet": "the story that Frank Turek tells us is he changed in part because he didn't want Erika to see him bloodied.",
       "mentions_person_refs": [
         "N-7",
         "N-2"
@@ -2389,7 +2389,7 @@
       ],
       "claim_timestamp": "00:39:49",
       "investigative_direction": "List the specific public statements by each that the host says are false.",
-      "transcript_snippet": "Did you really think Blake Nef, Graham Allen, and Paramount not so tactical? We're going to delude the public into the absurd story that you tried to spin.",
+      "transcript_snippet": "Did you really think Blake Neff, Graham Allen, and Paramount not so tactical? We're going to delude the public into the absurd story that you tried to spin.",
       "mentions_person_refs": [
         "N-162",
         "N-614"
@@ -2838,7 +2838,7 @@
           "episode": 123,
           "video_timestamp": "00:39:49",
           "speaker_node_ref": "N-3",
-          "quote": "Blake Nef, Graham Allen, and Paramount not so tactical?",
+          "quote": "Blake Neff, Graham Allen, and Paramount not so tactical?",
           "context": "Host lumps Paramount Tactical in with Neff and Allen as deluding the public.",
           "confidence": "high",
           "tags": [

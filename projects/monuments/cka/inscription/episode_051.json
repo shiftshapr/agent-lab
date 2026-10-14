@@ -13,7 +13,7 @@
     "transcript_sha256": "027972826917e7ed3d60ede399594503c96a505a5fc947c067de3c3bc5488af4",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 51, the 2026 season opener of the Bride of Charlie series (Candace Ep 284, uploaded 2026-01-05), functions as a status update and escalation. The host recaps three off-air developments: (1) the public reaction to AmFest including a tent recreation of the site where Charlie Kirk was killed; (2) the Daily Wire's re-release of her old 2021 joining trailer on her social channels; and (3) the Fort Huachuca/Mitch Snow saga, where coordinated efforts to discredit the witness are alleged.\n\nThe evidentiary material consists of nine distinct clip families: three Tim Dillon comedy segments, a CBS reporter description of the AmFest tent recreation, the Barry Weiss / Hunter Cosgrove CBS moment, an October 2024 Charlie Kirk interview with Justice Smith on MK Ultra, an Alex Jones InfoWars declaration of war against Candace, a Paramount Tactical Valhalla livestream that accidentally exposes instructions from Andrew Kolbet, an interview with Mitch Snow's son that inadvertently confirms Fort Huachuca access protocols, and a 2021 Daily Wire trailer re-released on Candace's social channels. Two top fan comments from the prior episode are read aloud as supporting artifacts.\n\nStructurally, the episode advances several investigative threads: the approval chain for the AmFest tent recreation; the alleged coordination by Andrew Kolbet with attackers of Mitch Snow; Erica Kirk's alleged presence at Fort Huachuca on September 8; and the host's declaration that she will \"sentence\" Andrew Kolbet \"to truth.\" Future episodes are teased to address Cabot Phillips, Mark Amaday, and Brian Harpole.\n\n---",
+  "executive_summary": "Episode 51, the 2026 season opener of the Bride of Charlie series (Candace Ep 284, uploaded 2026-01-05), functions as a status update and escalation. The host recaps three off-air developments: (1) the public reaction to AmFest including a tent recreation of the site where Charlie Kirk was killed; (2) the Daily Wire's re-release of her old 2021 joining trailer on her social channels; and (3) the Fort Huachuca/Mitch Snow saga, where coordinated efforts to discredit the witness are alleged.\n\nThe evidentiary material consists of nine distinct clip families: three Tim Dillon comedy segments, a CBS reporter description of the AmFest tent recreation, the Bari Weiss / Hunter Cosgrove CBS moment, an October 2024 Charlie Kirk interview with Justice Smith on MK Ultra, an Alex Jones InfoWars declaration of war against Candace, a Paramount Tactical Valhalla livestream that accidentally exposes instructions from Andrew Kolbet, an interview with Mitch Snow's son that inadvertently confirms Fort Huachuca access protocols, and a 2021 Daily Wire trailer re-released on Candace's social channels. Two top fan comments from the prior episode are read aloud as supporting artifacts.\n\nStructurally, the episode advances several investigative threads: the approval chain for the AmFest tent recreation; the alleged coordination by Andrew Kolbet with attackers of Mitch Snow; Erica Kirk's alleged presence at Fort Huachuca on September 8; and the host's declaration that she will \"sentence\" Andrew Kolbet \"to truth.\" Future episodes are teased to address Cabot Phillips, Mark Amaday, and Brian Harpole.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -112,13 +112,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1570",
       "family_ref": "A-1570",
-      "bundle_name": "Barry Weiss CBS Hunter Cosgrove Clip",
+      "bundle_name": "Bari Weiss CBS Hunter Cosgrove Clip",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1570.1",
           "ref": "A-1570.1",
-          "description": "Barry Weiss introduces Hunter Cosgrove to ask Erica Kirk a question on the CBS stage, noting he was \"the last person that Charlie ever spoke to\"",
+          "description": "Bari Weiss introduces Hunter Cosgrove to ask Erica Kirk a question on the CBS stage, noting he was \"the last person that Charlie ever spoke to\"",
           "related_claims": [
             "C-1994"
           ],
@@ -536,7 +536,7 @@
       "ref": "N-374",
       "name": "Hunter Cosgrove (UVU student)",
       "type": "person",
-      "description": "Utah Valley University student identified by Barry Weiss as the last person Charlie Kirk spoke to before being shot; name also rendered \"Hunter Kozak\" in host narration.",
+      "description": "Utah Valley University student identified by Bari Weiss as the last person Charlie Kirk spoke to before being shot; name also rendered \"Hunter Kozak\" in host narration.",
       "related_artifacts": [
         "A-1570.1"
       ],
@@ -689,7 +689,7 @@
       "ref": "N-10377",
       "name": "Hunter Cosgrove / Kozak Identity Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent target verifying the correct spelling and identity of the UVU student introduced by Barry Weiss.",
+      "description": "Persistent target verifying the correct spelling and identity of the UVU student introduced by Bari Weiss.",
       "related_artifacts": [
         "A-1570.1"
       ],
@@ -1792,8 +1792,8 @@
       "@type": "Claim",
       "@id": "C-1994",
       "ref": "C-1994",
-      "label": "Barry Weiss clip introduces Hunter Cosgrove as the last person Charlie Kirk spoke to before his death, brought on stage to ask Erica Kirk a question",
-      "claim": "A Barry Weiss CBS segment played on air introduces Hunter Cosgrove as the last person Charlie Kirk ever spoke to and brings him on stage to ask Erica Kirk a question.",
+      "label": "Bari Weiss clip introduces Hunter Cosgrove as the last person Charlie Kirk spoke to before his death, brought on stage to ask Erica Kirk a question",
+      "claim": "A Bari Weiss CBS segment played on air introduces Hunter Cosgrove as the last person Charlie Kirk ever spoke to and brings him on stage to ask Erica Kirk a question.",
       "anchored_artifacts": [
         "A-1570.1"
       ],
@@ -2086,7 +2086,7 @@
       "@id": "C-6747",
       "ref": "C-6747",
       "label": "Host Says CBS Chose to Bring Hunter Kozak On Stage to Question Erika and Asks Who Approved It",
-      "claim": "The host says the worst part of the Barry Weiss interview was CBS's decision to bring Hunter Kozak (Cosgrove) on stage to ask Erika Kirk a question, and says she wants to know who approved the idea.",
+      "claim": "The host says the worst part of the Bari Weiss interview was CBS's decision to bring Hunter Kozak (Cosgrove) on stage to ask Erika Kirk a question, and says she wants to know who approved the idea.",
       "anchored_artifacts": [
         "A-1570.1"
       ],
@@ -2828,7 +2828,7 @@
       ],
       "claim_timestamp": "00:50:03",
       "investigative_direction": "Compare TPUSA's statement with Kolvet's public posts; ask TPUSA to clarify what Kolvet did without authorization.",
-      "transcript_snippet": "I was left under the impression after my meeting with Erika that Andrew Kolb had gone rogue, right?",
+      "transcript_snippet": "I was left under the impression after my meeting with Erika that Andrew Kolvet had gone rogue, right?",
       "mentions_person_refs": [
         "N-14",
         "N-2",
@@ -2851,7 +2851,7 @@
       ],
       "claim_timestamp": "00:50:58",
       "investigative_direction": "Obtain the text and Erika's account of when she saw Kirk's phone; compare with TPUSA's public statement.",
-      "transcript_snippet": "Andrew Kolb had did receive that text from Charlie the night before, and Charlie was worried that he was going to be killed. But, you know, Erika didn't know this information",
+      "transcript_snippet": "Andrew Kolvet had did receive that text from Charlie the night before, and Charlie was worried that he was going to be killed. But, you know, Erika didn't know this information",
       "supports_claim_refs": [
         "C-1926"
       ],
@@ -2900,7 +2900,7 @@
       ],
       "claim_timestamp": "00:51:52",
       "investigative_direction": "Obtain call records for the three-way call and the surgeon's account via a representative.",
-      "transcript_snippet": "But he answered Andrew Kolbe's questions because Erika was on the phone and that the Superman quotation came from her.",
+      "transcript_snippet": "But he answered Andrew Kolvet's questions because Erika was on the phone and that the Superman quotation came from her.",
       "supports_claim_refs": [
         "C-5403"
       ],
@@ -3024,7 +3024,7 @@
       ],
       "claim_timestamp": "00:54:59",
       "investigative_direction": "Ask Kolvet whether he told the host this; look for contemporaneous messages.",
-      "transcript_snippet": "It was Andrew Kolb it who told me that Bibi Netanyahu offered to take Turning Point to the next level and that Charlie Kirk said, \"No.\"",
+      "transcript_snippet": "It was Andrew Kolvet it who told me that Bibi Netanyahu offered to take Turning Point to the next level and that Charlie Kirk said, \"No.\"",
       "supports_claim_refs": [
         "C-1938"
       ],
@@ -3050,7 +3050,7 @@
       ],
       "claim_timestamp": "00:54:59",
       "investigative_direction": "Only the host can test this source; seek other attendees of the dinner.",
-      "transcript_snippet": "a source that was not related to Andrew Kolb it who confirmed that very same thing and there's no way Andrew would have known anything about that source.",
+      "transcript_snippet": "a source that was not related to Andrew Kolvet it who confirmed that very same thing and there's no way Andrew would have known anything about that source.",
       "supports_claim_refs": [
         "C-1937"
       ],
@@ -3546,7 +3546,7 @@
           "episode": 51,
           "video_timestamp": "00:53:00",
           "speaker_node_ref": "N-3",
-          "quote": "So, we have to sentence Andrew Kolbe to more truth.",
+          "quote": "So, we have to sentence Andrew Kolvet to more truth.",
           "context": "Host repeats the sentencing after the alibi recap.",
           "confidence": "high",
           "tags": [

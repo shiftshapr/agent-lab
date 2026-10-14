@@ -1600,7 +1600,7 @@ Claim Timestamp: 00:30:08
 
 Claim: The host says the first moment she thought something was very wrong was when Ben Shapiro became the defender of Charlie Kirk and pressed Megyn Kelly while pretending to care about him, and that this told her Israel was involved.
 
-Transcript Snippet: Why is Ben pressing Megan Kelly pretending that he he cares about Charlie Kirk?
+Transcript Snippet: Why is Ben pressing Megyn Kelly pretending that he he cares about Charlie Kirk?
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-46, N-1
@@ -1808,7 +1808,7 @@ Claim Timestamp: 00:45:38
 
 Claim: The host says that whether or not the messages existed, Dan Flood and Andrew Kolvet would have told Erika Kirk about the text message they received.
 
-Transcript Snippet: Dan Flood and Andrew Kovette would have told her that.
+Transcript Snippet: Dan Flood and Andrew Kolvet would have told her that.
 
 Anchored Artifacts: A-2933.1
 Mentions: N-3, N-274, N-14, N-2

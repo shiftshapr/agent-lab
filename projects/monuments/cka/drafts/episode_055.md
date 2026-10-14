@@ -37,7 +37,7 @@
 - **Claim Range:** C-2047–C-2072
 - **New Nodes Introduced (people):**, N-443, N-444, N-445, N-446, N-447, N-448, N-449, N-450
 - **New Nodes Introduced (investigation targets):** N-10402, N-10403, N-10404, N-10405, N-10406, N-10407, N-10408
-- **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erica Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dylan, Jerry Falwell Jr. (referenced by name without new ID)
+- **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erica Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dillon, Jerry Falwell Jr. (referenced by name without new ID)
 
 ---
 
@@ -157,7 +157,7 @@ Confidence Level: Low (anonymous social commentary)
 
 *Related: C-2061, Erica Kirk, N-10403*
 
-**A-1613.2** Comment from user "Natty Nicole": expressing being heartbroken and asking how Andrew Kovette sleeps at night
+**A-1613.2** Comment from user "Natty Nicole": expressing being heartbroken and asking how Andrew Kolvet sleeps at night
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -725,7 +725,7 @@ Investigative Direction: Requires corroboration through independent sources docu
 
 Claim Timestamp: 00:47:35–00:48:56
 
-Claim: A commenter expressed being "heartbroken and filled with rage" and asked "How does Andrew Kovette sleep at night?"
+Claim: A commenter expressed being "heartbroken and filled with rage" and asked "How does Andrew Kolvet sleep at night?"
 
 Anchored Artifacts: A-1613.2
 Mentions: N-14
@@ -909,7 +909,7 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty – "Sun Myung Moon":** Transcript renders the name as "Sunyong Moon," "Sun Young Moon," and "Sun Myung Moon." Preserved most plausible reading as Sun Myung Moon; flag for verification.
-- **Name uncertainty – "Andrew Kolbett":** Transcript renders the name as "Andrew Colbett's," "Andrew Kovette," "Andrew Kovac," "Andrew Kovat," and "Andrew Kovvet." Preserved as "Andrew Kolbett" as most plausible reading; flag.
+- **Name uncertainty – "Andrew Kolbett":** Transcript renders the name as "Andrew Colbett's," "Andrew Kolvet," "Andrew Kolvet," "Andrew Kolvet," and "Andrew Kolvet." Preserved as "Andrew Kolbett" as most plausible reading; flag.
 - **Name uncertainty – "Falwell Center":** Transcript renders the name as "Fall Kirk Center," "Falerk Center," and "Fallerk Center." Preserved as "Falwell Center" as most plausible reading; flag.
 - **Name uncertainty – "Jerry Falwell Jr.":** Transcript renders as "Jerry Fwell Jr." Preserved as Jerry Falwell Jr.; flag.
 - **Artifact verbally referenced but not shown:** Pre-born PSA statistics (A-1615.1), Nimi Skincare product claims (A-1616.1) – both shown via host read-aloud only; primary documents not presented.

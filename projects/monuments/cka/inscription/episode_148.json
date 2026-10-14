@@ -336,7 +336,7 @@
           "@type": "Artifact",
           "@id": "A-2350.3",
           "ref": "A-2350.3",
-          "description": "Ali Comment on Andrew Kolb and Fireworks / Sparkling Pantsuit",
+          "description": "Ali Comment on Andrew Kolvet and Fireworks / Sparkling Pantsuit",
           "related_claims": [],
           "related_nodes": [
             "N-2",
@@ -838,7 +838,7 @@
       "ref": "N-215",
       "name": "Jesse Watters",
       "type": "person",
-      "description": "Jesse Watters (aired as Jesse Waters); the host says Erika's op-ed repeats her interview remarks to him.",
+      "description": "Jesse Watters (aired as Jesse Watters); the host says Erika's op-ed repeats her interview remarks to him.",
       "related_artifacts": [],
       "related_claims": [
         "C-7747",
@@ -2787,7 +2787,7 @@
       ],
       "claim_timestamp": "00:45:56",
       "investigative_direction": "Compare the op-ed text with the Watters interview transcript.",
-      "transcript_snippet": "She wants you to know she's not angry at God. Yes, we got all of this from the Jesse Waters interview.",
+      "transcript_snippet": "She wants you to know she's not angry at God. Yes, we got all of this from the Jesse Watters interview.",
       "supports_claim_refs": [
         "C-3401"
       ],

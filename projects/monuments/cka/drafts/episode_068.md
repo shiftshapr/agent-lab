@@ -496,7 +496,7 @@ Investigative Pressure: Low
 ---
 
 **N-10477** Erika Kirk Sept 8, 2025 Alibi Verification
-Persistent target: the host asserts she cannot obtain or confirm a coherent Sept 8, 2025 alibi for Erika Kirk, that Frank Turk states Charlie was "dealing with the kids," and that witnesses at the residence did not see Erika on Sept 8 but did see her on Sept 9.
+Persistent target: the host asserts she cannot obtain or confirm a coherent Sept 8, 2025 alibi for Erika Kirk, that Frank Turek states Charlie was "dealing with the kids," and that witnesses at the residence did not see Erika on Sept 8 but did see her on Sept 9.
 Evidence Count: 1
 Claim Count: 0 (claim admission test currently failing due to lack of clear opposing artifact for Erika's Sept 8 location)
 Episode Count: 1
@@ -595,7 +595,7 @@ TPUSA figure the host says knows Erika's mother.
 
 **N-50** Sigmund Freud
 
-Quoted by the host (rendered 'Sigman Freud') as having said he had to be Satan.
+Quoted by the host (rendered 'Sigmund Freud') as having said he had to be Satan.
 
 *Related: C-10057*
 
@@ -1328,7 +1328,7 @@ Claim Timestamp: 00:29:33
 
 Claim: The host says Frank Turek's statement that Charlie was dealing with the kids makes her think Erika was not around on September 8.
 
-Transcript Snippet: because of Frank Turk's statement where he says Charlie was dealing with the kids
+Transcript Snippet: because of Frank Turek's statement where he says Charlie was dealing with the kids
 
 Anchored Artifacts: 
 Mentions: N-7, N-1, N-2
@@ -1656,7 +1656,7 @@ Claim Timestamp: 00:50:17
 
 Claim: The host says Sigmund Freud outwardly said he had to be Satan and Lucifer.
 
-Transcript Snippet: Sigman Freud outwardly said, "I have to be Satan. I have to be Lucifer.
+Transcript Snippet: Sigmund Freud outwardly said, "I have to be Satan. I have to be Lucifer.
 
 Anchored Artifacts: 
 Mentions: N-50
@@ -1695,7 +1695,7 @@ Investigative Direction: Ask Finkelstein or find his published account of any co
 - **Name uncertainty:** "Gorg Fastbinder" likely transcription of "Georg Fastbinder"; "Helmet Becker" likely transcription of "Helmut Becker."
 - **Name uncertainty:** "Justin Streiff" appears in the transcript; may be a phonetic capture of "Justin Stiefel" or similar.
 - **Artifact verbally referenced but not shown:** A-1727.1 (April 2022 post), A-1728.1 (NYT article – name only, no image), A-1731.2 (German geophysicists headline – host says "I'm going to show you this headline" but no image present in source), A-1735.1 (text messages described, not displayed), A-1737.1 (Kevin Sorbo tweet referenced, not displayed).
-- **Transcript ambiguity:** Several instances of "Frank Turk" – context suggests it may be "Frank Turek" but preserved as "Frank Turk" per transcript.
+- **Transcript ambiguity:** Several instances of "Frank Turek" – context suggests it may be "Frank Turek" but preserved as "Frank Turek" per transcript.
 - **Possible transcription error:** "Air base," "so State Arm," "Fastinder" vs. "Fastbinder" (BBC report vs. German geophysicist name); preserved as appearing in transcript.
 - **Name uncertainty:** "Robkea" preserved verbatim per viewer email as read; could be a pseudonym or phonetic capture.
 - **Requires human verification:** A-1736.1 – host reads a viewer comment that initially contains a wrong name ("Bill Richardson") and then corrects to "William Stevenson"; the underlying article was located on-air but not externally verified within this analysis.

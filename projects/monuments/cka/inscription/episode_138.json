@@ -297,7 +297,7 @@
           "@type": "Artifact",
           "@id": "A-2253.2",
           "ref": "A-2253.2",
-          "description": "Comment: \"Blake Nef's anger single-handedly makes the entire TPUSA look completely guilty.\"",
+          "description": "Comment: \"Blake Neff's anger single-handedly makes the entire TPUSA look completely guilty.\"",
           "related_claims": [],
           "related_nodes": [
             "N-10782"
@@ -1192,7 +1192,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10091",
       "ref": "N-10091",
-      "name": "Dr. Frank Turk Suspicion",
+      "name": "Dr. Frank Turek Suspicion",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -2739,8 +2739,8 @@
       "@type": "Claim",
       "@id": "C-9094",
       "ref": "C-9094",
-      "label": "Host Says Kolvet Admitted Bill Aman Did Not Pay $1 Million and the Father Did Not Turn Tyler In",
-      "claim": "The host says Bill Aman tweeted he would award the father $1 million, and says she believes Andrew Kolvet admitted that Aman did not give $1 million and that Matt Robinson did not turn his son in.",
+      "label": "Host Says Kolvet Admitted Bill Ackman Did Not Pay $1 Million and the Father Did Not Turn Tyler In",
+      "claim": "The host says Bill Ackman tweeted he would award the father $1 million, and says she believes Andrew Kolvet admitted that Aman did not give $1 million and that Matt Robinson did not turn his son in.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10022",
@@ -2751,7 +2751,7 @@
       ],
       "claim_timestamp": "00:05:40",
       "investigative_direction": "Locate Kolvet's on-air or written statement and Ackman's original reward tweet.",
-      "transcript_snippet": "I believe Andrew Kovette admitted that Bill Aman did not give him $1 million and Matt Robinson, his father did not turn him in.",
+      "transcript_snippet": "I believe Andrew Kolvet admitted that Bill Ackman did not give him $1 million and Matt Robinson, his father did not turn him in.",
       "mentions_person_refs": [
         "N-3",
         "N-37",
@@ -3799,7 +3799,7 @@
       ],
       "claim_timestamp": "00:43:47",
       "investigative_direction": "Locate Piers Morgan's tweet.",
-      "transcript_snippet": "Piers Morgan interviewed Victor Marks and tweeted that it was one of the most bizarre interviews of his career.",
+      "transcript_snippet": "Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career.",
       "mentions_person_refs": [
         "N-3",
         "N-208",
@@ -3887,7 +3887,7 @@
       ],
       "claim_timestamp": "00:48:07",
       "investigative_direction": "Locate the Turek statement the host refers to.",
-      "transcript_snippet": "You got Frank Turk hoping you saying signaling that I should be struck down.",
+      "transcript_snippet": "You got Frank Turek hoping you saying signaling that I should be struck down.",
       "mentions_person_refs": [
         "N-3",
         "N-7"

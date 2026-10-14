@@ -688,13 +688,13 @@ Investigative Direction: Archive the original tweet and any associated image; ve
 
 Claim Timestamp: 00:43:33–00:50:47
 
-Claim: Commenter "AO" states there is a clip of Erika speaking to Megan Kelly that confirms Candace Owens' recollection of lights flickering near Charlie Kirk.
+Claim: Commenter "AO" states there is a clip of Erika speaking to Megyn Kelly that confirms Candace Owens' recollection of lights flickering near Charlie Kirk.
 
 Anchored Artifacts: A-1762.1
 Mentions: N-1, N-2, N-3, N-46
 
 
-Investigative Direction: Locate the referenced clip of Erika Kirk speaking to Megan Kelly.
+Investigative Direction: Locate the referenced clip of Erika Kirk speaking to Megyn Kelly.
 
 ---
 
@@ -728,7 +728,7 @@ Investigative Direction: Verify through any other public statements from Charlie
 
 ## VI. Optional Flags
 
-- **Name uncertainty (A-1758.1, A-1760.1, A-1760.2)**: Transcript renders "Seth Dylan" / "Dylan" – most likely Seth Dillon (Babylon Bee). Preserved as written. Probable transcription error.
+- **Name uncertainty (A-1758.1, A-1760.1, A-1760.2)**: Transcript renders "Seth Dillon" / "Dylan" – most likely Seth Dillon (Babylon Bee). Preserved as written. Probable transcription error.
 - **Name uncertainty (A-1760.2)**: Transcript renders "Carrie Peen Bowler" – most likely Carrie Prejean Bowler. Preserved as written. Probable transcription error.
 - **Name uncertainty (A-1750.1, A-1751.1)**: Transcript renders "Neielson" – most likely Nielsen. Preserved as written. Probable transcription error.
 - **Name uncertainty (A-1751.1)**: Transcript renders "Andrew Kovvat" / "Andrew Coat" – most likely Andrew Kolvet. Preserved as written. Probable transcription error.

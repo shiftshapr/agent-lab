@@ -17,7 +17,7 @@
     "candace_ep_number": 235,
     "kind": "numbered_show"
   },
-  "executive_summary": "CKA seq 2 presents host commentary on the Charlie Kirk assassination investigation and surrounding narratives. Primary artifacts include clips of Erika Kirk's widow remarks, Benjamin Netanyahu's Fox News interview, Charlie Kirk's Megan Kelly interview, Greta Van Susteren's interview with Netanyahu, Michael Savage commentary, and surveillance/press materials from TMZ, Governor Cox, and Discord. Claims focus on alleged misrepresentations of a May 2 letter, a Hamptons intervention by Bill Ackman, a Netanyahu phone invitation, and investigative timeline inconsistencies (outfit changes, weapon handling, confession timing). Epistemic flags raised: transcript names 'Aman' likely Bill Ackman, 'Galain' likely Ghislaine Maxwell, 'MSAD' likely Mossad.",
+  "executive_summary": "CKA seq 2 presents host commentary on the Charlie Kirk assassination investigation and surrounding narratives. Primary artifacts include clips of Erika Kirk's widow remarks, Benjamin Netanyahu's Fox News interview, Charlie Kirk's Megyn Kelly interview, Greta Van Susteren's interview with Netanyahu, Michael Savage commentary, and surveillance/press materials from TMZ, Governor Cox, and Discord. Claims focus on alleged misrepresentations of a May 2 letter, a Hamptons intervention by Bill Ackman, a Netanyahu phone invitation, and investigative timeline inconsistencies (outfit changes, weapon handling, confession timing). Epistemic flags raised: transcript names 'Aman' likely Bill Ackman, 'Galain' likely Ghislaine Maxwell, 'MSAD' likely Mossad.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -106,13 +106,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1084",
       "family_ref": "A-1084",
-      "bundle_name": "Charlie Kirk Megan Kelly Interview Clip",
+      "bundle_name": "Charlie Kirk Megyn Kelly Interview Clip",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1084.1",
           "ref": "A-1084.1",
-          "description": "Clip of Charlie Kirk speaking with Megan Kelly ~1 month before his death, describing pressure regarding Israel criticism and event guest lists.",
+          "description": "Clip of Charlie Kirk speaking with Megyn Kelly ~1 month before his death, describing pressure regarding Israel criticism and event guest lists.",
           "related_claims": [
             "C-1127"
           ],
@@ -426,13 +426,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1092",
       "family_ref": "A-1092",
-      "bundle_name": "Candace Owens Text Exchange with Seth Dylan",
+      "bundle_name": "Candace Owens Text Exchange with Seth Dillon",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1092.1",
           "ref": "A-1092.1",
-          "description": "Text messages sent by Candace Owens to Seth Dylan about the Hamptons meeting, described by host as shown on screen.",
+          "description": "Text messages sent by Candace Owens to Seth Dillon about the Hamptons meeting, described by host as shown on screen.",
           "related_claims": [
             "C-1137"
           ],
@@ -2023,7 +2023,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:53",
-      "investigative_direction": "Verify exact date of Megan Kelly interview and guest list complaints.",
+      "investigative_direction": "Verify exact date of Megyn Kelly interview and guest list complaints.",
       "transcript_snippet": "My moral character is now being put into question… they were threatening to pull out money.",
       "confidence": "high",
       "mentions_person_refs": [
@@ -2049,7 +2049,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:24",
-      "investigative_direction": "Identify attendees and obtain statements from Seth Dylan and any other Hamptons meeting witnesses.",
+      "investigative_direction": "Identify attendees and obtain statements from Seth Dillon and any other Hamptons meeting witnesses.",
       "transcript_snippet": "An intervention was staged by Bill Ackman because Charlie's thoughts, Charlie's rational thoughts about Israel were a no no.",
       "confidence": "medium",
       "uncertainty_note": "Host says she was told; she directly challenges Ackman to dispute. No independent confirmation shown.",
@@ -2255,8 +2255,8 @@
       "@type": "Claim",
       "@id": "C-1137",
       "ref": "C-1137",
-      "label": "Seth Dylan and Bill Ackman Have Not Publicly Disputed Hamptons Narrative",
-      "claim": "Seth Dylan and Bill Ackman have not publicly disputed host's framing of the Hamptons meeting; Seth Dylan did not respond to direct text outreach.",
+      "label": "Seth Dillon and Bill Ackman Have Not Publicly Disputed Hamptons Narrative",
+      "claim": "Seth Dillon and Bill Ackman have not publicly disputed host's framing of the Hamptons meeting; Seth Dillon did not respond to direct text outreach.",
       "anchored_artifacts": [
         "A-1091.1",
         "A-1092.1"
@@ -2266,7 +2266,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:22",
-      "investigative_direction": "Independently verify non-response by reaching out to Seth Dylan and Bill Ackman.",
+      "investigative_direction": "Independently verify non-response by reaching out to Seth Dillon and Bill Ackman.",
       "transcript_snippet": "Seth Dillon who was normally very quick with a response has not yet been able to respond.",
       "confidence": "high",
       "mentions_person_refs": [

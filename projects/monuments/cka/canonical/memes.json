@@ -2,7 +2,7 @@
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2013 shared across monuments",
   "updated": "2026-10-08T19:40:19Z",
-  "next_id": 299,
+  "next_id": 314,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -2597,6 +2597,126 @@
       "definition": "Host refuses to urge voting, adopting a critic's insult.",
       "context": "cka",
       "first_episode": 155
+    },
+    "M-299": {
+      "canonical_term": "(meme) Blitzkrieg Week",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host explains her name for the run of releases; the transcript mis-spells the German word.",
+      "context": "cka",
+      "first_episode": 16
+    },
+    "M-300": {
+      "canonical_term": "(meme) Rehab Phone Call From Bibi",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host compares the Hamptons meeting to a reality-show intervention.",
+      "context": "cka",
+      "first_episode": 23
+    },
+    "M-301": {
+      "canonical_term": "(meme) Pre-Bunking",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host coins pre-bunking for an over-the-top response that lies about what she said.",
+      "context": "cka",
+      "first_episode": 33
+    },
+    "M-302": {
+      "canonical_term": "(meme) Those Darn Egyptians",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host sarcastically presents the four rental plates as Egyptians at it again.",
+      "context": "cka",
+      "first_episode": 33
+    },
+    "M-303": {
+      "canonical_term": "(meme) Operation Mockingbird 2.0",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host says the media posture mirrors Mockingbird after JFK.",
+      "context": "cka",
+      "first_episode": 43
+    },
+    "M-304": {
+      "canonical_term": "(meme) No Gangs",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host frames refusing elites as the choice Charlie allegedly faced.",
+      "context": "cka",
+      "first_episode": 43
+    },
+    "M-305": {
+      "canonical_term": "(meme) Shoot My Shot",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes that as a board member she would raise the pastors on TPUSA's stage.",
+      "context": "cka",
+      "first_episode": 56
+    },
+    "M-306": {
+      "canonical_term": "(meme) LBJ USA",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's nickname for Turning Point USA after what she calls its takeover and reversal of Charlie's positions.",
+      "context": "cka",
+      "first_episode": 78
+    },
+    "M-307": {
+      "canonical_term": "(meme) Dr. Erika Kirk",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's running bit of addressing Erika Kirk as Dr. Kirk after the honorary doctorate.",
+      "context": "cka",
+      "first_episode": 102
+    },
+    "M-308": {
+      "canonical_term": "(meme) Life's Tough, Get a Helmet",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's retort to Erika over criticism, requested as merch by a viewer.",
+      "context": "cka",
+      "first_episode": 102
+    },
+    "M-309": {
+      "canonical_term": "(meme) I Dub Thee",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's mock of the CEO appointment as a royal decree.",
+      "context": "cka",
+      "first_episode": 102
+    },
+    "M-310": {
+      "canonical_term": "(meme) Silence of the Lance",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host explains the episode title, a pun on Lance Twigs.",
+      "context": "cka",
+      "first_episode": 139
+    },
+    "M-311": {
+      "canonical_term": "(meme) Think While It's Still Legal",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host signs off her Lance Twigs segment with the line.",
+      "context": "cka",
+      "first_episode": 139
+    },
+    "M-312": {
+      "canonical_term": "(meme) Big Viking Energy",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host praises the Icelander in the Rabbi Shmuley video; repeated at 00:51:05.",
+      "context": "cka",
+      "first_episode": 139
+    },
+    "M-313": {
+      "canonical_term": "(meme) Lying a Lot Era",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host riffs on the Eras Tour while describing Turning Point's conduct.",
+      "context": "cka",
+      "first_episode": 94
     }
   },
   "types": {

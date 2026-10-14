@@ -1463,7 +1463,7 @@
       "@type": "Person",
       "@id": "N-118",
       "ref": "N-118",
-      "name": "Marissa Strait",
+      "name": "Marissa Streit",
       "type": "person",
       "description": "Named by the host as the sender of a text resembling Kisin's tweet.",
       "related_artifacts": [],
@@ -2568,7 +2568,7 @@
       ],
       "claim_timestamp": "00:00:00",
       "investigative_direction": "Collect the public posts demanding that Megyn Kelly denounce Candace Owens and Tucker Carlson and establish whether the accounts are coordinated.",
-      "transcript_snippet": "the agents like I think of them as like Mr. Smith in the Matrix have around I guess they're surrounding Megan Kelly and demanding that she makes a statement against me and Tucker Carlson.",
+      "transcript_snippet": "the agents like I think of them as like Mr. Smith in the Matrix have around I guess they're surrounding Megyn Kelly and demanding that she makes a statement against me and Tucker Carlson.",
       "mentions_person_refs": [
         "N-3",
         "N-46",
@@ -3353,7 +3353,7 @@
       ],
       "claim_timestamp": "00:34:10",
       "investigative_direction": "Locate Kelly's original post and the reply chain.",
-      "transcript_snippet": "Megan Kelly tweeted her episode and said, \"Listen to Charlie in his own words about what he was going through.\"",
+      "transcript_snippet": "Megyn Kelly tweeted her episode and said, \"Listen to Charlie in his own words about what he was going through.\"",
       "mentions_person_refs": [
         "N-46",
         "N-1",
@@ -3410,8 +3410,8 @@
       "@type": "Claim",
       "@id": "C-10810",
       "ref": "C-10810",
-      "label": "Host says Kissen's argument is nearly verbatim a text from Marissa Strait",
-      "claim": "The host says Konstantin Kisin's tweet is almost verbatim a text message she received from Marissa Strait after she retweeted Max Blumenthal.",
+      "label": "Host says Kissen's argument is nearly verbatim a text from Marissa Streit",
+      "claim": "The host says Konstantin Kisin's tweet is almost verbatim a text message she received from Marissa Streit after she retweeted Max Blumenthal.",
       "anchored_artifacts": [
         "A-1203.1"
       ],

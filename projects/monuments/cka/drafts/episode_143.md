@@ -334,9 +334,9 @@ Confidence Level: Low
 
 **A-2892** Viewer Comments Bundle
 
-**A-2892.1** Host reads viewer comment saying Tara Farnsworth could be guilty of evidence tampering and obstruction
+**A-2892.1** Host reads viewer comment saying Terrell Farnsworth could be guilty of evidence tampering and obstruction
 
-Quoted text: "Sounds like Tara Farnsworth could be guilty of evidence tampering and obstruction of justice."
+Quoted text: "Sounds like Terrell Farnsworth could be guilty of evidence tampering and obstruction of justice."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:45:12

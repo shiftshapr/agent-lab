@@ -211,7 +211,7 @@
           "@type": "Artifact",
           "@id": "A-1125.1",
           "ref": "A-1125.1",
-          "description": "PBD podcast clip featuring Bill Aman and Andrew Kovit discussing Candace's TPUSA involvement",
+          "description": "PBD podcast clip featuring Bill Ackman and Andrew Kolvet discussing Candace's TPUSA involvement",
           "related_claims": [
             "C-1212",
             "C-1213"
@@ -722,7 +722,7 @@
       "ref": "N-57",
       "name": "Patrick Bet-David",
       "type": "person",
-      "description": "Podcast host whose platform carried the Bill Aman/Kovit segment",
+      "description": "Podcast host whose platform carried the Bill Ackman/Kovit segment",
       "related_artifacts": [
         "A-1125.1"
       ],
@@ -1604,8 +1604,8 @@
       "@type": "Claim",
       "@id": "C-1212",
       "ref": "C-1212",
-      "label": "Bill Aman stated Candace's credibility is failing",
-      "claim": "On the PBD podcast, Bill Aman stated that Candace Owens' credibility is going 'down the tubes' because she has not brought receipts.",
+      "label": "Bill Ackman stated Candace's credibility is failing",
+      "claim": "On the PBD podcast, Bill Ackman stated that Candace Owens' credibility is going 'down the tubes' because she has not brought receipts.",
       "anchored_artifacts": [
         "A-1125.1"
       ],
@@ -1625,8 +1625,8 @@
       "@type": "Claim",
       "@id": "C-3772",
       "ref": "C-3772",
-      "label": "The \"bring receipts\" line C-1212 attributes to Bill Aman is the PBD guest's; the guest cites Bill Ackman as having brought receipts",
-      "claim": "In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going \"down the tubes because she needs to bring receipts\" is spoken by the PBD guest, who goes straight on to say Bill Ackman \"brought receipts\" and refers to him in the third person (\"I think he was there in the room\"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to \"Bill Aman\" (Bill Ackman, N-37) is contradicted.",
+      "label": "The \"bring receipts\" line C-1212 attributes to Bill Ackman is the PBD guest's; the guest cites Bill Ackman as having brought receipts",
+      "claim": "In the PBD clip the host replays at 00:25:42–00:25:55, the line that Candace Owens' credibility is going \"down the tubes because she needs to bring receipts\" is spoken by the PBD guest, who goes straight on to say Bill Ackman \"brought receipts\" and refers to him in the third person (\"I think he was there in the room\"). Bill Ackman is cited in the clip, not speaking, so C-1212's attribution of the line to \"Bill Ackman\" (Bill Ackman, N-37) is contradicted.",
       "anchored_artifacts": [
         "A-1125.1"
       ],
@@ -1650,8 +1650,8 @@
       "@type": "Claim",
       "@id": "C-1213",
       "ref": "C-1213",
-      "label": "Andrew Kovit claims last saw Candace at TPUSA in 2015/2016",
-      "claim": "On the PBD podcast, Andrew Kovit, identifying himself as a TPUSA board member, said he last saw Candace Owens in person in 2015 or 2016 and that she has not attended a TPUSA event in many years.",
+      "label": "Andrew Kolvet claims last saw Candace at TPUSA in 2015/2016",
+      "claim": "On the PBD podcast, Andrew Kolvet, identifying himself as a TPUSA board member, said he last saw Candace Owens in person in 2015 or 2016 and that she has not attended a TPUSA event in many years.",
       "anchored_artifacts": [
         "A-1125.1"
       ],

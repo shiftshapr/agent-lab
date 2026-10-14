@@ -63,7 +63,7 @@ Confidence Level: Medium
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
-Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnny Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansel confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Ginan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Catis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dylan Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
+Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnny Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansel confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Ginan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Catis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dhillon Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -293,7 +293,7 @@ Investigative Pressure: High
 
 **N-10673** Hamptons August 5–7 Intervention Event
 
-Persistent investigation target: per host, weekend intervention where Charlie Kirk was pressured regarding Israel; followed by Megan Kelly podcast appearance where Kirk expressed upset about being called anti-Semitic.
+Persistent investigation target: per host, weekend intervention where Charlie Kirk was pressured regarding Israel; followed by Megyn Kelly podcast appearance where Kirk expressed upset about being called anti-Semitic.
 
 Evidence Count: 1
 Claim Count: 0

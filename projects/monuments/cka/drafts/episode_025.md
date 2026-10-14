@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-764, N-11102, N-11104, N-11105
-  - Hole-minted Nodes (reintro-ep025): N-10243, N-10253, N-10495, N-10675, N-10717
+  - Hole-minted Nodes (reintro-ep025): N-10243, N-10495, N-10675, N-10717
   - Tip-minted Nodes (reintro-ep025): N-11009
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6552–C-6596
-  - New Nodes Introduced: N-221, N-222, N-223, N-10218, N-10219, N-10220, N-10221, N-10222, N-10223
-  - Reused Nodes Appearing: N-36, N-37, N-40, N-66, N-10000, N-10012, N-10048, N-10083, N-10131, N-10324, N-224, N-10840, N-10900, N-11103
+  - New Nodes Introduced: N-221, N-222, N-223, N-10219, N-10220, N-10221, N-10222, N-10223
+  - Reused Nodes Appearing: N-36, N-37, N-40, N-66, N-10000, N-10012, N-10048, N-10083, N-10131, N-10324, N-224, N-10840, N-10900, N-11103, N-10218, N-10253
   - (see registers)
 
 # Episode 25 Analysis – Bride of Charlie Investigation
@@ -1128,9 +1128,9 @@ Investigative Direction: Check county property records for Rob McCoy's holdings 
 
 Claim Timestamp: 00:15:47
 
-Claim: The host says that in his July 11 speech Tucker Carlson said people who serve in foreign armies should be stripped of their citizenship and mused about where Bill Aman's wealth comes from.
+Claim: The host says that in his July 11 speech Tucker Carlson said people who serve in foreign armies should be stripped of their citizenship and mused about where Bill Ackman's wealth comes from.
 
-Transcript Snippet: he says that people who serve in foreign armies should be stripped of their citizenship. He muses about where Bill Aman's wealth comes from.
+Transcript Snippet: he says that people who serve in foreign armies should be stripped of their citizenship. He muses about where Bill Ackman's wealth comes from.
 
 Anchored Artifacts: A-2824.1
 Mentions: N-22, N-37, N-3
@@ -1752,7 +1752,7 @@ Confidence: high
 - **Requires human verification:** The Eliza McCoy Instagram post (A-1324.1) is read aloud from host's prepared material; original post should be independently confirmed against the live Instagram account.
 - **Requires human verification:** The George Zinn hospital statement (A-1331.1, C-1593) rests on a single anonymous source per host; corroborating documentation is not displayed.
 - **Possible transcription error:** "Mira Epstein" – name does not appear in this transcript and may be a confusion with another reference; not inscribed as a node.
-- **Possible transcription error:** "Bill Aman" (likely Bill Ackman) referenced at 15:47; preserved as it appears in transcript.
+- **Possible transcription error:** "Bill Ackman" (likely Bill Ackman) referenced at 15:47; preserved as it appears in transcript.
 - **Name uncertainty:** "Sam Parker" (N-185) is identified by host as source of the July 18 finding; full identity not corroborated in this episode.
 - **AI-generated source:** Grock response (A-1332.1) is AI-generated and should be treated as secondary; primary corroboration required.
 - **Transcript ambiguity:** The timing of the Faith Forward Show appearance (A-1322.1) is referenced but exact publication date is not given.

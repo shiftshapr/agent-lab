@@ -839,7 +839,7 @@
       "ref": "N-10477",
       "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
       "type": "investigation_target",
-      "description": "Persistent target: the host asserts she cannot obtain or confirm a coherent Sept 8, 2025 alibi for Erika Kirk, that Frank Turk states Charlie was \"dealing with the kids,\" and that witnesses at the residence did not see Erika on Sept 8 but did see her on Sept 9.",
+      "description": "Persistent target: the host asserts she cannot obtain or confirm a coherent Sept 8, 2025 alibi for Erika Kirk, that Frank Turek states Charlie was \"dealing with the kids,\" and that witnesses at the residence did not see Erika on Sept 8 but did see her on Sept 9.",
       "related_artifacts": [
         "A-1735.1"
       ],
@@ -1145,7 +1145,7 @@
       "ref": "N-50",
       "name": "Sigmund Freud",
       "type": "person",
-      "description": "Quoted by the host (rendered 'Sigman Freud') as having said he had to be Satan.",
+      "description": "Quoted by the host (rendered 'Sigmund Freud') as having said he had to be Satan.",
       "related_artifacts": [],
       "related_claims": [
         "C-10057"
@@ -2378,7 +2378,7 @@
       ],
       "claim_timestamp": "00:29:33",
       "investigative_direction": "Obtain Turek's original statement and its date.",
-      "transcript_snippet": "because of Frank Turk's statement where he says Charlie was dealing with the kids",
+      "transcript_snippet": "because of Frank Turek's statement where he says Charlie was dealing with the kids",
       "mentions_person_refs": [
         "N-7",
         "N-1",
@@ -2815,7 +2815,7 @@
       ],
       "claim_timestamp": "00:50:17",
       "investigative_direction": "Locate any Freud quote matching this.",
-      "transcript_snippet": "Sigman Freud outwardly said, \"I have to be Satan. I have to be Lucifer.",
+      "transcript_snippet": "Sigmund Freud outwardly said, \"I have to be Satan. I have to be Lucifer.",
       "mentions_person_refs": [
         "N-50"
       ]

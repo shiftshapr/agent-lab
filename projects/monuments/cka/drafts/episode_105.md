@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep105): N-10814
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-632, N-633, N-634, N-635, N-636, N-637, N-638, N-10930, N-10931, N-10932, N-10933, N-10935
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-40, N-69, N-162, N-163, N-194, N-284, N-376, N-379, N-551, N-622, N-628, N-629, N-10000, N-10070, N-10075, N-10125, N-10197, N-10312, N-10318, N-10472, N-10515, N-10637, N-10638, N-10652, N-10888, N-10899, N-10923, N-10934, N-10929
+  - Tip-minted Nodes (skeleton): N-633, N-634, N-635, N-636, N-637, N-638, N-10930, N-10931, N-10932, N-10933, N-10935
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-40, N-69, N-162, N-163, N-194, N-284, N-376, N-379, N-551, N-622, N-628, N-629, N-10000, N-10070, N-10075, N-10125, N-10197, N-10312, N-10318, N-10472, N-10515, N-10637, N-10638, N-10652, N-10888, N-10899, N-10923, N-10934, N-10929, N-632
   - Claim Range: C-4108–C-4162
   - (see registers)
 
@@ -240,7 +240,7 @@ Said by the host to have survived three shooting attempts in under two years; su
 
 **N-14** Andrew Kolvet
 
-Transcript spellings "Andrew Kovvat", "Andrew Kovette", "Andrew Kovat". Co-host of the May 8 sponsor clip; host assumes he accompanied Erika Kirk to the West Wing and says he orchestrated the Fort Huachuca alibi.
+Transcript spellings "Andrew Kovvat", "Andrew Kolvet", "Andrew Kolvet". Co-host of the May 8 sponsor clip; host assumes he accompanied Erika Kirk to the West Wing and says he orchestrated the Fort Huachuca alibi.
 
 *Related: C-4113, C-4148, C-4149, C-4152, C-4162, A-2586.1, A-2587.2*
 
@@ -264,7 +264,7 @@ Described in a headline as a hero for telling people to get down during the WHCD
 
 **N-162** Blake Neff
 
-Transcript spelling "Blake Nef". Co-host of the May 8 Charlie Kirk Show clip on Preborn and emailing sponsors.
+Transcript spelling "Blake Neff". Co-host of the May 8 Charlie Kirk Show clip on Preborn and emailing sponsors.
 
 *Related: C-4148, C-4149, A-2586.1*
 
@@ -1181,7 +1181,7 @@ Claim Timestamp: 00:37:06
 
 Claim: The host says an earlier clip showed Erika Kirk and Andrew Kolvet orchestrating the Fort Huachuca alibi behind the scenes, and that Paramount Tactical accidentally read out the alibi and showed the picture.
 
-Transcript Snippet: we showed you the clip, the now famed clip of Erika and Andrew Kovette orchestrating this Fort Huachuca non-alibi behind the scenes
+Transcript Snippet: we showed you the clip, the now famed clip of Erika and Andrew Kolvet orchestrating this Fort Huachuca non-alibi behind the scenes
 
 Anchored Artifacts: A-2587.2
 Mentions: N-2, N-14, N-622
@@ -1319,7 +1319,7 @@ Claim Timestamp: 00:47:33
 
 Claim: Asking who filmed the Erika Kirk clip, the host says she does not think it was Andrew Kolvet. She asks whether it could have been Matthew Shupe, whom she describes as a PR agent for Harmeet Dhillon and Dhillon Law Group who was with Kolvet.
 
-Transcript Snippet: Could it have been the other PR agent Andrew Kovat was with Matthew Shupe? Matthew Shupe who does PR for Harit Dylan. Um Dylan Law Group.
+Transcript Snippet: Could it have been the other PR agent Andrew Kolvet was with Matthew Shupe? Matthew Shupe who does PR for Harit Dylan. Um Dhillon Law Group.
 
 Anchored Artifacts:
 Mentions: N-638, N-379, N-14, N-2
@@ -1334,7 +1334,7 @@ Claim Timestamp: 00:47:33
 
 Claim: The host says she knows Harmeet Dhillon was sitting with Andrew Kolvet.
 
-Transcript Snippet: I know Harit was sitting with sitting with Andrew Kovette.
+Transcript Snippet: I know Harit was sitting with sitting with Andrew Kolvet.
 
 Anchored Artifacts:
 Mentions: N-379, N-14
@@ -1619,7 +1619,7 @@ Confidence: high
 - **DIA beats**: a scan for the required tip/bounty phrases found no hits (the only "tip" match is inside "multiple" in a sponsor read). No DIA claim, artifact or M-12 occurrence was inscribed, and M-14 does not air.
 - **Artifacts verbally referenced but not shown**: A-2587.2 (earlier Paramount Tactical stream clip, not replayed) and A-2588.1 (Tracy Martin's statement). Sara Sidner's CNN upload of the Erika Kirk clip is referenced but not re-shown, so no artifact was made for it. The host says the email shown (A-2581.1) is her own retyping, not the original document.
 - **Duration discrepancy**: the skeleton meta gave 00:56:29; the transcript front matter gives 53:39, which is used here.
-- **Name matching**: "Sydney Sidner" is mapped to N-376 Sarah Sidner (CNN). "Steven Chong" is mapped to N-163 Steven Cheung. "Harit Dylan" and "Dylan Law Group" are mapped to N-379 Harmeet Dhillon and N-10652. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kovvat", "Kovette" and "Kovat" are mapped to N-14. The email recipients "Richard Smaly", "Gustav Anderly", "Ryan Rippeon" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin Olirri", "Olyri" and "Kevin Liry" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-622) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.
+- **Name matching**: "Sydney Sidner" is mapped to N-376 Sarah Sidner (CNN). "Steven Chong" is mapped to N-163 Steven Cheung. "Harit Dylan" and "Dhillon Law Group" are mapped to N-379 Harmeet Dhillon and N-10652. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kovvat", "Kolvet" and "Kovat" are mapped to N-14. The email recipients "Richard Smaly", "Gustav Anderly", "Ryan Rippeon" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin Olirri", "Olyri" and "Kevin Liry" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-622) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.
 - **Transcription ambiguities**: "White House Correspondence Agency" in the read quote (09:00) is taken to mean the White House Communications Agency. "acidic"/"acetic" Jews is kept as written and read as Hasidic. "Fort Huachuca" means Fort Huachuca. "Charlie Cook" (26:33, 35:20) is read as Charlie Kirk. The host says "Department of Justice" at 12:19 where context suggests Defense. "SCOPS" and "scops" are probably "psyops."
 - **Factual caveat**: C-4110 records the host's statement that Putin has been president for 22 years as spoken, without correction.
 - **Not inscribed as claims (admission test)**: "We are living inside of an episode of Black Mirror"; "operation mockingbird on steroids"; "We, all of us, we were the actual targets"; Erika Kirk as "a piece of military technology" or "Israeli tech"; "she socially engineered Charlie"; the military controlling X and trends; the aim of data centers being a surveillance state; Trump as "the ultimate Trojan horse"; the Charlie Kirk Show hosts "maybe kind of hate Charlie Kirk"; Erika Kirk having trouble producing real tears; the ballroom "surrogates" gut feeling; and rhetorical questions about Erika's West Wing visit.

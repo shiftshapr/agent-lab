@@ -25,7 +25,7 @@
 
 ## 2. Executive Summary
 
-CKA seq 2 presents host commentary on the Charlie Kirk assassination investigation and surrounding narratives. Primary artifacts include clips of Erika Kirk's widow remarks, Benjamin Netanyahu's Fox News interview, Charlie Kirk's Megan Kelly interview, Greta Van Susteren's interview with Netanyahu, Michael Savage commentary, and surveillance/press materials from TMZ, Governor Cox, and Discord. Claims focus on alleged misrepresentations of a May 2 letter, a Hamptons intervention by Bill Ackman, a Netanyahu phone invitation, and investigative timeline inconsistencies (outfit changes, weapon handling, confession timing). Epistemic flags raised: transcript names 'Aman' likely Bill Ackman, 'Galain' likely Ghislaine Maxwell, 'MSAD' likely Mossad.
+CKA seq 2 presents host commentary on the Charlie Kirk assassination investigation and surrounding narratives. Primary artifacts include clips of Erika Kirk's widow remarks, Benjamin Netanyahu's Fox News interview, Charlie Kirk's Megyn Kelly interview, Greta Van Susteren's interview with Netanyahu, Michael Savage commentary, and surveillance/press materials from TMZ, Governor Cox, and Discord. Claims focus on alleged misrepresentations of a May 2 letter, a Hamptons intervention by Bill Ackman, a Netanyahu phone invitation, and investigative timeline inconsistencies (outfit changes, weapon handling, confession timing). Epistemic flags raised: transcript names 'Aman' likely Bill Ackman, 'Galain' likely Ghislaine Maxwell, 'MSAD' likely Mossad.
 
 ## 3. Artifact Register
 
@@ -62,9 +62,9 @@ Confidence: high
 
 ---
 
-**A-1084** Charlie Kirk Megan Kelly Interview Clip
+**A-1084** Charlie Kirk Megyn Kelly Interview Clip
 
-**A-1084.1** Clip of Charlie Kirk speaking with Megan Kelly ~1 month before his death, describing pressure regarding Israel criticism and event guest lists.
+**A-1084.1** Clip of Charlie Kirk speaking with Megyn Kelly ~1 month before his death, describing pressure regarding Israel criticism and event guest lists.
 Event Timestamp: 2025-08
 Video Timestamp: 00:10:51–00:12:33
 *Related: C-1127, N-1, N-46, N-22, N-39*
@@ -187,9 +187,9 @@ Uncertainty: Transcript spells 'Aman'; flag for likely Bill Ackman (billionaire 
 
 ---
 
-**A-1092** Candace Owens Text Exchange with Seth Dylan
+**A-1092** Candace Owens Text Exchange with Seth Dillon
 
-**A-1092.1** Text messages sent by Candace Owens to Seth Dylan about the Hamptons meeting, described by host as shown on screen.
+**A-1092.1** Text messages sent by Candace Owens to Seth Dillon about the Hamptons meeting, described by host as shown on screen.
 Event Timestamp: 2025-09
 Video Timestamp: 00:18:41–00:19:36
 *Related: C-1137, N-3, N-38, N-37, N-36, N-10016, N-10018*
@@ -971,7 +971,7 @@ Anchored Artifacts: A-1084.1
 Mentions: N-1, N-22, N-39, N-46
 Related Nodes: N-10025
 Confidence: high
-Investigative Direction: Verify exact date of Megan Kelly interview and guest list complaints.
+Investigative Direction: Verify exact date of Megyn Kelly interview and guest list complaints.
 
 ---
 
@@ -985,7 +985,7 @@ Mentions: N-1, N-3, N-37, N-38, N-49
 Related Nodes: N-10000, N-10016, N-10027
 Confidence: medium
 Uncertainty: Host says she was told; she directly challenges Ackman to dispute. No independent confirmation shown.
-Investigative Direction: Identify attendees and obtain statements from Seth Dylan and any other Hamptons meeting witnesses.
+Investigative Direction: Identify attendees and obtain statements from Seth Dillon and any other Hamptons meeting witnesses.
 
 ---
 
@@ -1099,16 +1099,16 @@ Investigative Direction: Cross-reference official timeline and autopsy report.
 Tags: open_source_investigation
 ---
 
-**C-1137** Seth Dylan and Bill Ackman Have Not Publicly Disputed Hamptons Narrative
+**C-1137** Seth Dillon and Bill Ackman Have Not Publicly Disputed Hamptons Narrative
 
 Claim Timestamp: 00:18:22
-Claim: Seth Dylan and Bill Ackman have not publicly disputed host's framing of the Hamptons meeting; Seth Dylan did not respond to direct text outreach.
+Claim: Seth Dillon and Bill Ackman have not publicly disputed host's framing of the Hamptons meeting; Seth Dillon did not respond to direct text outreach.
 Transcript Snippet: Seth Dillon who was normally very quick with a response has not yet been able to respond.
 Anchored Artifacts: A-1091.1, A-1092.1
 Mentions: N-3, N-37, N-38
 Related Nodes: N-10016
 Confidence: high
-Investigative Direction: Independently verify non-response by reaching out to Seth Dylan and Bill Ackman.
+Investigative Direction: Independently verify non-response by reaching out to Seth Dillon and Bill Ackman.
 
 ---
 

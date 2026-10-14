@@ -1,22 +1,479 @@
 {
   "_doc": "Transcription errors in names, corrected everywhere: transcripts_corrected, drafts (snippets and meme quotes included) and inscriptions. Ruling (Daveed 2026-10-14): a mis-transcribed name is not an alias and must not survive in snippets or quotes; only spellings the host actually says are aliases. Patterns are Python regexes applied in order; keep them word-bounded.",
   "corrections": [
-    ["\\bFort Wuka\\b", "Fort Huachuca"],
-    ["\\bWuka\\b", "Huachuca"],
-    ["\\bSaucelito\\b", "Sausalito"],
-    ["\\bIke Promoter\\b", "Ike Perlmutter"],
-    ["\\bDon Oro\\b", "Don Orrico"],
-    ["\\bDavid (?:Fraudsham|Rodsham|Frodshem)\\b", "David Frodsham"],
-    ["\\bFraudsham\\b", "Frodsham"],
-    ["\\bEric Bowling\\b", "Eric Bolling"],
-    ["\\bBrendan Tatum\\b", "Brandon Tatum"],
-    ["\\bPhil Turney\\b", "Phil Tourney"],
-    ["\\bPaul (?:E\\. )?Vall?i\\b", "Paul Vallely"],
-    ["\\bIan Carol\\b", "Ian Carroll"],
-    ["\\b(?:Rob|Bob) Koy\\b", "Bob Coy"],
-    ["\\bKaye McAney\\b", "Kayleigh McEnany"],
-    ["\\bKaylee Mcaney\\b", "Kayleigh McEnany"],
-    ["\\bConstantin(?:e)? Kiss(?:en|in)\\b", "Konstantin Kisin"],
-    ["\\bJustin (?:Strife|Stripe|Streif|Strieff)\\b", "Justin Streiff"]
+    [
+      "\\bFort Wuka\\b",
+      "Fort Huachuca"
+    ],
+    [
+      "\\bWuka\\b",
+      "Huachuca"
+    ],
+    [
+      "\\bSaucelito\\b",
+      "Sausalito"
+    ],
+    [
+      "\\bIke Promoter\\b",
+      "Ike Perlmutter"
+    ],
+    [
+      "\\bDon Oro\\b",
+      "Don Orrico"
+    ],
+    [
+      "\\bDavid (?:Fraudsham|Rodsham|Frodshem)\\b",
+      "David Frodsham"
+    ],
+    [
+      "\\bFraudsham\\b",
+      "Frodsham"
+    ],
+    [
+      "\\bEric Bowling\\b",
+      "Eric Bolling"
+    ],
+    [
+      "\\bBrendan Tatum\\b",
+      "Brandon Tatum"
+    ],
+    [
+      "\\bPhil Turney\\b",
+      "Phil Tourney"
+    ],
+    [
+      "\\bPaul (?:E\\. )?Vall?i\\b",
+      "Paul Vallely"
+    ],
+    [
+      "\\bIan Carol\\b",
+      "Ian Carroll"
+    ],
+    [
+      "\\b(?:Rob|Bob) Koy\\b",
+      "Bob Coy"
+    ],
+    [
+      "\\bKaye McAney\\b",
+      "Kayleigh McEnany"
+    ],
+    [
+      "\\bKaylee Mcaney\\b",
+      "Kayleigh McEnany"
+    ],
+    [
+      "\\bConstantin(?:e)? Kiss(?:en|in)\\b",
+      "Konstantin Kisin"
+    ],
+    [
+      "\\bJustin (?:Strife|Stripe|Streif|Strieff)\\b",
+      "Justin Streiff"
+    ],
+    [
+      "\\bAndrew (?:Kolburt|Kulvat|Kovette|Kovett|Kovvet|Kulvette|Kovit|Kolbenschlag|Colvette|Kolbe|Kolb|Kovat|Kovac|Kovet|Kov)\\b",
+      "Andrew Kolvet"
+    ],
+    [
+      "\\b(?:Kovette|Kulvette|Kovvet|Kovett)\\b",
+      "Kolvet"
+    ],
+    [
+      "\\b(?:Breit|Breijit|Breijgit|Bridget) Mcronone\\b",
+      "Brigitte Macron"
+    ],
+    [
+      "\\bEmanuel (?:Mcronone|McRone)\\b",
+      "Emmanuel Macron"
+    ],
+    [
+      "\\bMcronone\\b",
+      "Macron"
+    ],
+    [
+      "\\bBreij(?:g)?it\\b",
+      "Brigitte"
+    ],
+    [
+      "\\bMegan Kelly\\b",
+      "Megyn Kelly"
+    ],
+    [
+      "\\bBarry Weiss\\b",
+      "Bari Weiss"
+    ],
+    [
+      "\\bSigman Freud\\b",
+      "Sigmund Freud"
+    ],
+    [
+      "\\bPeter Teal\\b",
+      "Peter Thiel"
+    ],
+    [
+      "\\b(?:Lorie Fonfe|Lori Frandsen|Lori France Faye)\\b",
+      "Lori Frantzve"
+    ],
+    [
+      "\\bErika Fronsve\\b",
+      "Erika Frantzve"
+    ],
+    [
+      "\\b(?:Phil|Jeff) Leman\\b",
+      "Phil Lyman"
+    ],
+    [
+      "\\bGlenbeck\\b",
+      "Glenn Beck"
+    ],
+    [
+      "\\bBob (?:Shulman|Shuman|Schman|Showman)\\b",
+      "Bob Shillman"
+    ],
+    [
+      "\\bCash Patel\\b",
+      "Kash Patel"
+    ],
+    [
+      "\\bRemnant Angels\\b",
+      "Romanian Angels"
+    ],
+    [
+      "\\bJesse Waters\\b",
+      "Jesse Watters"
+    ],
+    [
+      "\\bJeremy Boring\\b",
+      "Jeremy Boreing"
+    ],
+    [
+      "\\bFrank (?:Tarik|Turick|Terrick|Turk)\\b",
+      "Frank Turek"
+    ],
+    [
+      "\\bSean Ryan\\b",
+      "Shawn Ryan"
+    ],
+    [
+      "\\bJames Caddy\\b",
+      "James Kaddis"
+    ],
+    [
+      "\\bFort Watuka\\b",
+      "Fort Huachuca"
+    ],
+    [
+      "\\bTara Farnsworth\\b",
+      "Terrell Farnsworth"
+    ],
+    [
+      "\\bCarrie Prejean Baller\\b",
+      "Carrie Prejean Bowler"
+    ],
+    [
+      "\\bGary Jab(?:itch|ach)\\b",
+      "Gary Javitch"
+    ],
+    [
+      "\\bDavid Jabach\\b",
+      "David Javitch"
+    ],
+    [
+      "\\bPro Rodeo cause\\b",
+      "pro-Israel cause"
+    ],
+    [
+      "\\bAdam Snicknick\\b",
+      "Adam Sosnick"
+    ],
+    [
+      "\\bBlake (?:Nef|Naff)\\b",
+      "Blake Neff"
+    ],
+    [
+      "\\bCharlie (?:Coach|Cook|Cro)('s)? assassination\\b",
+      "Charlie Kirk\\1 assassination"
+    ],
+    [
+      "\\bSeth Dylan\\b",
+      "Seth Dillon"
+    ],
+    [
+      "\\bLance (?:Twigs|Wiggs)\\b",
+      "Lance Twiggs"
+    ],
+    [
+      "\\bSchmoolie\\b",
+      "Shmuley"
+    ],
+    [
+      "\\bKrenshaw\\b",
+      "Crenshaw"
+    ],
+    [
+      "\\bJoseph Gerbles\\b",
+      "Joseph Goebbels"
+    ],
+    [
+      "\\bAbbe Shinszo\\b",
+      "Shinzo Abe"
+    ],
+    [
+      "\\bAnton Leave\\b",
+      "Anton LaVey"
+    ],
+    [
+      "\\bAlistister Crowley\\b",
+      "Aleister Crowley"
+    ],
+    [
+      "\\b(?:Habsgard|Havscard|Havsgard|Hascgard)\\b",
+      "Havsgaard"
+    ],
+    [
+      "\\bGalain Maxwell\\b",
+      "Ghislaine Maxwell"
+    ],
+    [
+      "\\bAnthony Aguular\\b",
+      "Anthony Aguilar"
+    ],
+    [
+      "\\bTim Dylan\\b",
+      "Tim Dillon"
+    ],
+    [
+      "\\bDylan Law Group\\b",
+      "Dhillon Law Group"
+    ],
+    [
+      "\\bHabas Media\\b",
+      "Havas Media"
+    ],
+    [
+      "\\bJustin (?:Strahm|Streck)\\b",
+      "Justin Streiff"
+    ],
+    [
+      "\\bBrian Friedman\\b",
+      "Bryan Freedman"
+    ],
+    [
+      "\\bBrian Harpold\\b",
+      "Brian Harpole"
+    ],
+    [
+      "\\bAlex Marlo\\b",
+      "Alex Marlow"
+    ],
+    [
+      "\\bMarissa Strait\\b",
+      "Marissa Streit"
+    ],
+    [
+      "\\bL{1,2}aya Rose\\b",
+      "Lila Rose"
+    ],
+    [
+      "\\b(?:Whisinthal|Whisinthaw|Weisenthal)\\b",
+      "Wiesenthal"
+    ],
+    [
+      "\\bJean Michichelle Trogau\\b",
+      "Jean-Michel Trogneux"
+    ],
+    [
+      "\\bLeaf Ericson\\b",
+      "Leif Erikson"
+    ],
+    [
+      "\\bTemp[eo]nogos\\b",
+      "Timpanogos"
+    ],
+    [
+      "\\bAdlesen\\b",
+      "Adelson"
+    ],
+    [
+      "\\bJustin Baldon\\b",
+      "Justin Baldoni"
+    ],
+    [
+      "\\bVictor Marks\\b",
+      "Victor Marx"
+    ],
+    [
+      "\\bBaker Chile\\b",
+      "Baker Tilly"
+    ],
+    [
+      "\\bToyota Camera\\b",
+      "Toyota Camry"
+    ],
+    [
+      "\\bDrew Ski\\b",
+      "Druski"
+    ],
+    [
+      "\\bParamount tacked\\b",
+      "Paramount Tactical"
+    ],
+    [
+      "\\bBill Aman\\b",
+      "Bill Ackman"
+    ],
+    [
+      "\\bAcman\\b",
+      "Ackman"
+    ],
+    [
+      "\\bGreg Lorie?\\b",
+      "Greg Laurie"
+    ],
+    [
+      "\\bAli Sucky\\b",
+      "Allie Stuckey"
+    ],
+    [
+      "\\bFrank Church\\b",
+      "Frank Turek",
+      [
+        121
+      ]
+    ],
+    [
+      "\\bSemaphore\\b",
+      "Semafor",
+      [
+        121
+      ]
+    ],
+    [
+      "\\bRoad Mic\\b",
+      "Rode mic",
+      [
+        121
+      ]
+    ],
+    [
+      "\\b(?:Kirk|Tyler) Carlson\\b",
+      "Tucker Carlson",
+      [
+        5
+      ]
+    ],
+    [
+      "\\bMe and Kelly\\b",
+      "Megyn Kelly",
+      [
+        5
+      ]
+    ],
+    [
+      "\\bscientists\\b",
+      "Zionists",
+      [
+        5
+      ]
+    ],
+    [
+      "\\bKenneth Owens\\b",
+      "Candace Owens",
+      [
+        20
+      ]
+    ],
+    [
+      "\\bJordan Kasparian\\b",
+      "Jacob Kasparian",
+      [
+        42
+      ]
+    ],
+    [
+      "\\bEric Kirk\\b",
+      "Erika Kirk",
+      [
+        42,
+        102
+      ]
+    ],
+    [
+      "\\b(?:Paul E\\. Valerie|Py Valley|Valerie)\\b",
+      "Paul Vallely",
+      [
+        56
+      ]
+    ],
+    [
+      "\\bMikey McCormick\\b",
+      "Mikey McCoy",
+      [
+        91
+      ]
+    ],
+    [
+      "\\bJudge (?:Lyman|Leeman)\\b",
+      "Judge Liman",
+      [
+        88,
+        99
+      ]
+    ],
+    [
+      "\\bBaron-Cohen\\b",
+      "Baron Coleman",
+      [
+        99
+      ]
+    ],
+    [
+      "\\bTaral\\b",
+      "Terrell",
+      [
+        78
+      ]
+    ],
+    [
+      "\\bAlan Alexander\\b",
+      "Alon Alexander",
+      [
+        78
+      ]
+    ],
+    [
+      "\\bDeb Netanyahu\\b",
+      "Bibi Netanyahu",
+      [
+        33
+      ]
+    ],
+    [
+      "\\bRob O'Neal\\b",
+      "Robert O'Neill",
+      [
+        16
+      ]
+    ],
+    [
+      "\\bTV USA\\b",
+      "TPUSA",
+      [
+        16
+      ]
+    ],
+    [
+      "\\bAndrew Klavan is out the gate\\b",
+      "Andrew Kolvet is out the gate",
+      [
+        131
+      ]
+    ],
+    [
+      "\\bAndrew Breitbart didn't get the email\\b",
+      "Andrew Kolvet didn't get the email",
+      [
+        131
+      ]
+    ]
   ]
 }

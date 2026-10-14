@@ -674,9 +674,9 @@ Producer the host says Erika floated around and who ran The Apprentice.
 
 **N-495** Lori Frantzve
 
-Transcribed Lori France Faye; the host says Charlie met her at a clinic appointment on September 8.
+Transcribed Lori Frantzve; the host says Charlie met her at a clinic appointment on September 8.
 
-Aliases: Lori France Faye (transcript spelling)
+Aliases: Lori Frantzve (transcript spelling)
 
 *Related: C-10287*
 
@@ -1394,7 +1394,7 @@ Claim Timestamp: 00:12:14
 
 Claim: The host says viewers who work at the White House emailed that Andrew Kolvet, Mikey McVoy and women who looked like McVoy's wife were in the West Wing while Kolvet was presented as live on the Kirk Show with Kash Patel.
 
-Transcript Snippet: Andrew Kolb Mikey McVoy and a couple of women uh look like Mikey McVoy's wife. They were in the West Wing.
+Transcript Snippet: Andrew Kolvet Mikey McVoy and a couple of women uh look like Mikey McVoy's wife. They were in the West Wing.
 
 Anchored Artifacts: A-3065.1
 Mentions: N-14, N-194, N-69, N-3
@@ -2105,7 +2105,7 @@ Claim Timestamp: 00:34:25
 
 Claim: The host says Frank Turek claimed Charlie had dinner with his family but did not mention Erika or say his wife.
 
-Transcript Snippet: Frank Turick does make the claim that Charlie had dinner with his family, but he doesn't mention Erika. He doesn't say his wife
+Transcript Snippet: Frank Turek does make the claim that Charlie had dinner with his family, but he doesn't mention Erika. He doesn't say his wife
 
 Anchored Artifacts: 
 Mentions: N-7, N-2, N-1
@@ -2169,9 +2169,9 @@ Investigative Direction: Review Erika's posting history on X before September 8.
 
 Claim Timestamp: 00:38:58
 
-Claim: The host says that at 10:45 a.m. Lori France Faye had a clinic appointment that Charlie allegedly accompanied, and appointments run about an hour.
+Claim: The host says that at 10:45 a.m. Lori Frantzve had a clinic appointment that Charlie allegedly accompanied, and appointments run about an hour.
 
-Transcript Snippet: At 10:45 a. m. Lori France Faye has an appointment at the clinic and Charlie allegedly meets up with her, accompanies her.
+Transcript Snippet: At 10:45 a. m. Lori Frantzve has an appointment at the clinic and Charlie allegedly meets up with her, accompanies her.
 
 Anchored Artifacts: A-3071.1
 Mentions: N-495, N-1
@@ -2519,8 +2519,8 @@ Confidence: high
 
 ### Name Uncertainty
 - **Mikey McCoy vs. Mikey McVoy:** Transcript contains both spellings (A-1810.1 references "Mikey McVoy"; later text reads "Mikey McCoy"). The Candace Owens tweet itself spells "McCoy." Preservation: both spellings retained; N-194 uses "McCoy" pending verification.
-- **Andrew Kolb vs. Andrew Kolvet:** Transcript and prior context use "Kolvet." Both spellings appear in source text.
-- **Frank Turick vs. Frank Turek:** Transcript uses "Turick" in several instances; the public figure is Frank Turek. Flag preserved.
+- **Andrew Kolvet vs. Andrew Kolvet:** Transcript and prior context use "Kolvet." Both spellings appear in source text.
+- **Frank Turek vs. Frank Turek:** Transcript uses "Turick" in several instances; the public figure is Frank Turek. Flag preserved.
 - **Andrew Colebat vs. Andrew Cole that:** Transcript introduces both. "Andrew Colebat" appears to be intended (per prior Candace Owens episode context).
 - **Colonel Otto Boucher vs. Otto Buscher:** Transcript varies; both appear.
 - **Lori France vs. Lori Faye:** Transcript contains both. "Lori Faye" appears in the timeline reconstruction at 00:39:30.
@@ -2537,7 +2537,7 @@ Confidence: high
 
 ### Possible Transcription Error
 - "Andrew Cole that" at 00:28:26 likely transcription artifact for "Andrew Colebat."
-- "Frank Turick" likely "Frank Turek."
+- "Frank Turek" likely "Frank Turek."
 
 ### Claim Failed Admission Test (Not Inscribed)
 - Host statement that Erika "pathologically lies" (00:44:00) – no per-claim artifact anchor; framing.

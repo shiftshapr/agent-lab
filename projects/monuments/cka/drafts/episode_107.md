@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 674d0b2cf0cf17f8e31242dcb7734af97349b70ba3193f8f1aef68b988aa35f5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-732, N-733, N-734, N-735, N-736, N-11047, N-11048, N-11049, N-11050, N-11051, N-11052
+  - Tip-minted Nodes (supplement_2026-10): N-735, N-736, N-11047, N-11048, N-11049, N-11050, N-11051, N-11052
   - Hole-minted Nodes (reintro-ep107): N-10700, N-10785
   - Tip-minted Nodes (reintro-ep107): N-10942
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5665–C-5778
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-3, N-7, N-212, N-345, N-346, N-10601, N-10622, N-9, N-228, N-10000, N-10006, N-10026, N-10063, N-10398, N-10604, N-10605, N-10618, N-10923, N-347, N-352
-  - Hole-minted Nodes (wave1): N-348, N-349, N-350, N-351, N-353
+  - Reused Nodes Appearing: N-3, N-7, N-212, N-345, N-346, N-10601, N-10622, N-9, N-228, N-10000, N-10006, N-10026, N-10063, N-10398, N-10604, N-10605, N-10618, N-10923, N-347, N-352, N-348, N-353, N-732, N-733, N-734
+  - Hole-minted Nodes (wave1): N-349, N-350, N-351
   - Tip-minted Nodes (wave1): N-10893
   - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-3702..C-3716 and A-2505..A-2512. Persons and the topic minted into free holes are listed on the Hole-minted line (batch wave1); Victor Marx and Corby Hall were first introduced in ep92.
   - (see registers)

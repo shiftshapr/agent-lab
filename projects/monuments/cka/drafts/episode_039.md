@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-886, N-11281
-  - Hole-minted Nodes (reintro-ep039): N-10397, N-10456
-  - Tip-minted Nodes (reintro-ep039): N-11129, N-11202
+  - Hole-minted Nodes (reintro-ep039): N-10397
+  - Tip-minted Nodes (reintro-ep039): N-11202
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-10949–C-11030
   - New Nodes Introduced: N-295, N-296, N-297, N-298, N-299, N-300, N-301, N-303, N-304, N-10298, N-10300, N-10301, N-10302, N-10304, N-10305, N-10306
-  - Reused Nodes Appearing: N-1, N-11, N-37, N-10299, N-10303, N-5, N-7, N-8, N-9, N-17, N-22, N-36, N-82, N-231, N-232, N-283, N-10012, N-10132, N-10134, N-10224, N-10253, N-10265, N-10266, N-10269, N-10270, N-10273, N-10276, N-10279, N-10285, N-10286, N-10288, N-10289, N-10290, N-10291, N-10295, N-10342, N-10434, N-10870, N-11008, N-11235, N-11278
+  - Reused Nodes Appearing: N-1, N-11, N-37, N-10299, N-10303, N-5, N-7, N-8, N-9, N-17, N-22, N-36, N-82, N-231, N-232, N-283, N-10012, N-10132, N-10134, N-10224, N-10253, N-10265, N-10266, N-10269, N-10270, N-10273, N-10276, N-10279, N-10285, N-10286, N-10288, N-10289, N-10290, N-10291, N-10295, N-10342, N-10434, N-10870, N-11008, N-11235, N-11278, N-10456, N-11129
   - (see registers)
 
 # Episode 39 Analysis
@@ -623,7 +623,7 @@ Benjamin Netanyahu (BB Net and Yahoo); the host recounts the offer to take TPUSA
 
 **N-82** Brigitte Macron
 
-Brigitte Macron; the transcript spells it Breijit; her lawyers are placed at 919 North Market Street.
+Brigitte Macron; the transcript spells it Brigitte; her lawyers are placed at 919 North Market Street.
 
 *Related: C-10964*
 
@@ -1426,7 +1426,7 @@ Investigative Direction: Check New Castle County property records and GSA lease 
 
 Claim Timestamp: 00:10:39
 
-Claim: The host says that Breijit Lawyers are at 919 North Market Street and that Stacy Sheridan of Turning Point USA also has her registered agent in that building.
+Claim: The host says that Brigitte Lawyers are at 919 North Market Street and that Stacy Sheridan of Turning Point USA also has her registered agent in that building.
 
 Transcript Snippet: Also in that building happens to be um Stacy Sheridan's registered agent.
 
@@ -1606,7 +1606,7 @@ Claim Timestamp: 00:17:14
 
 Claim: The host says that when Tucker Carlson spoke at Turning Point USA's conference on July 11 the donors freaked out, and that he called out Jeffrey Epstein, said people who serve in foreign armies should be stripped of their citizenship, and mused about Bill Ackman's wealth.
 
-Transcript Snippet: He calls out Jeffrey Epstein. He says that people who serve in foreign armies should be stripped of their citizenship. He muses about Bill Aman's wealth and where it comes from.
+Transcript Snippet: He calls out Jeffrey Epstein. He says that people who serve in foreign armies should be stripped of their citizenship. He muses about Bill Ackman's wealth and where it comes from.
 
 Anchored Artifacts: A-3114.1
 Mentions: N-22, N-9, N-37
@@ -1806,7 +1806,7 @@ Claim Timestamp: 00:20:36
 
 Claim: The host says that the influencers at the Hamptons retreat were paid for by Bill Ackman, which she does not consider a big deal.
 
-Transcript Snippet: And we know that the influencers were paid for by Bill Aman, but I don't think that that's particularly a big deal.
+Transcript Snippet: And we know that the influencers were paid for by Bill Ackman, but I don't think that that's particularly a big deal.
 
 Anchored Artifacts: A-3114.1
 Mentions: N-37
@@ -2116,7 +2116,7 @@ Claim Timestamp: 00:33:15
 
 Claim: The host says a very close family friend of Andrew Kolvet had messaged her early on saying they felt Andrew Kolvet was acting weird.
 
-Transcript Snippet: they had said that they felt that Andrew Kovette was acting weird.
+Transcript Snippet: they had said that they felt that Andrew Kolvet was acting weird.
 
 Anchored Artifacts: A-1488.1
 Mentions: N-14, N-3
@@ -2673,7 +2673,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty**: "Andrew Kolvet" / "Andrew Kovette" – host uses both spellings in the same episode; spelling not confirmed against primary source.
+- **Name uncertainty**: "Andrew Kolvet" / "Andrew Kolvet" – host uses both spellings in the same episode; spelling not confirmed against primary source.
 - **Artifact verbally referenced but not shown**: TPUSA sources' communications, federal source tip, Andrew Kolvet family friend written tip, "proof" of Tyler Bowyer real-estate conversation – claimed by host but not displayed on screen.
 - **Source timestamp uncertainty**: Vanity Fair article publication date not stated by host; described as a current article but exact date unspecified.
 - **Requires human verification**: All TPUSA insider tips and the Pierre Dupont donor identification depend on host's secondary characterization of her sources; primary documentation not yet published.

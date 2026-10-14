@@ -103,7 +103,7 @@ I'm going
 
 [25:02]
 
-Could now I have the same question that you have because I don't I I've looked and it does seem that and I never even questioned this whether or not it's potential that Blake Nef has military connections as well. I guess that kind of like I just thought this is a producer of a Charlie Kirk show. But it is interesting that somebody um and this would be a brother cousin. I don't know. This is the person that interrogated him and eventually he says was a person that had a heart and realized that he was not a part of any spy network and uh eventually escorted him off of the base and onto his way. That's a lot of coincidence for me. Now he says uh to me communicated this to me very clearly. said, "Canis, I I know how these meetings work. These are the meetings that are had um ahead of an operation.
+Could now I have the same question that you have because I don't I I've looked and it does seem that and I never even questioned this whether or not it's potential that Blake Neff has military connections as well. I guess that kind of like I just thought this is a producer of a Charlie Kirk show. But it is interesting that somebody um and this would be a brother cousin. I don't know. This is the person that interrogated him and eventually he says was a person that had a heart and realized that he was not a part of any spy network and uh eventually escorted him off of the base and onto his way. That's a lot of coincidence for me. Now he says uh to me communicated this to me very clearly. said, "Canis, I I know how these meetings work. These are the meetings that are had um ahead of an operation.
 
 [25:49]
 

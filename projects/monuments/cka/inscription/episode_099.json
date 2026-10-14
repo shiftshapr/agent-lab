@@ -498,6 +498,114 @@
           "discovery_timestamp": "00:00:00–00:00:01"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3232",
+      "family_ref": "A-3232",
+      "bundle_name": "Charlie Kirk Night-Before Text Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3232.1",
+          "ref": "A-3232.1",
+          "description": "Host verbal reference to Kirk's text messages to Andrew Kolvet and Dan Flood saying they were going to kill him (not shown in this episode)",
+          "related_claims": [
+            "C-12899",
+            "C-12900"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-14",
+            "N-274"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:04:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3233",
+      "family_ref": "A-3233",
+      "bundle_name": "Trump Post of Kirk With Flags Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3233.1",
+          "ref": "A-3233.1",
+          "description": "Host verbal reference to Donald Trump's post of a photo of Charlie Kirk hugging an Israeli flag and an American flag (not shown in this episode)",
+          "related_claims": [
+            "C-12911"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-1",
+            "N-11352"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:19:56",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3234",
+      "family_ref": "A-3234",
+      "bundle_name": "Group Text Messages With Hammer and Rabbi Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3234.1",
+          "ref": "A-3234.1",
+          "description": "Host verbal reference to the group text messages she released earlier, which Josh Hammer and an Israeli-based rabbi were part of (not shown in this episode)",
+          "related_claims": [
+            "C-12917"
+          ],
+          "related_nodes": [
+            "N-55",
+            "N-3",
+            "N-10187"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:22:23",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3235",
+      "family_ref": "A-3235",
+      "bundle_name": "Deadpool Tie-In Book Artwork Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3235.1",
+          "ref": "A-3235.1",
+          "description": "Host verbal reference to the featured artwork of the Deadpool tie-in book with a passage about Nice Pool (described, not clearly shown)",
+          "related_claims": [
+            "C-12943"
+          ],
+          "related_nodes": [
+            "N-491",
+            "N-10661"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:50:04",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -772,7 +880,7 @@
       "ref": "N-10901",
       "name": "Havas Media",
       "type": "organization",
-      "description": "French advertising company (host, 14:54 and 43:14); per the FARA filings, contracted Show Faith by Works and Clock Tower X on behalf of the Israeli Ministry of Foreign Affairs. The transcript renders it \"Habas Media\" at 16:50 and 36:54.",
+      "description": "French advertising company (host, 14:54 and 43:14); per the FARA filings, contracted Show Faith by Works and Clock Tower X on behalf of the Israeli Ministry of Foreign Affairs. The transcript renders it \"Havas Media\" at 16:50 and 36:54.",
       "related_artifacts": [
         "A-2048.1",
         "A-2049.1"
@@ -797,7 +905,14 @@
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12899",
+        "C-12922",
+        "C-12923",
+        "C-12926",
+        "C-12927",
+        "C-12949"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -813,7 +928,11 @@
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12906",
+        "C-12926",
+        "C-12927"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -829,7 +948,9 @@
       "type": "person",
       "description": "News host on which Netanyahu reportedly lied about contents of a May letter from Charlie Kirk.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12906"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -845,7 +966,13 @@
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12955",
+        "C-12956",
+        "C-12957",
+        "C-12958",
+        "C-12959"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -879,13 +1006,1095 @@
       "type": "person",
       "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12928"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12896",
+        "C-12897",
+        "C-12898",
+        "C-12899",
+        "C-12900",
+        "C-12903",
+        "C-12904",
+        "C-12905",
+        "C-12906",
+        "C-12908",
+        "C-12909",
+        "C-12912",
+        "C-12913",
+        "C-12914",
+        "C-12915",
+        "C-12916",
+        "C-12917",
+        "C-12919",
+        "C-12920",
+        "C-12921",
+        "C-12922",
+        "C-12923",
+        "C-12924",
+        "C-12925",
+        "C-12926",
+        "C-12927",
+        "C-12928",
+        "C-12934",
+        "C-12936",
+        "C-12937",
+        "C-12938",
+        "C-12939",
+        "C-12940",
+        "C-12948",
+        "C-12949",
+        "C-12950",
+        "C-12951",
+        "C-12952",
+        "C-12953",
+        "C-12954",
+        "C-12955",
+        "C-12956",
+        "C-12957",
+        "C-12958",
+        "C-12959",
+        "C-12960",
+        "C-12961",
+        "C-12962",
+        "C-12963",
+        "C-12964",
+        "C-12966",
+        "C-12967",
+        "C-12968",
+        "C-12969"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 54,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-334",
+      "ref": "N-334",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Baron Coleman; the host plays his audio clip and cites his Spotify rank.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12896",
+        "C-12901",
+        "C-12902"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10722",
+      "ref": "N-10722",
+      "name": "Clock Tower X / Israeli Influence Operation",
+      "type": "investigation_target",
+      "description": "Clock Tower X / Israeli Influence Operation; existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12897",
+        "C-12909",
+        "C-12910",
+        "C-12960"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the assassination; the host reports his night-before texts, his show ownership and his shifting views on Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12898",
+        "C-12899",
+        "C-12900",
+        "C-12901",
+        "C-12902",
+        "C-12904",
+        "C-12905",
+        "C-12909",
+        "C-12911",
+        "C-12912",
+        "C-12914",
+        "C-12915",
+        "C-12916",
+        "C-12920",
+        "C-12921",
+        "C-12922",
+        "C-12925",
+        "C-12926",
+        "C-12927",
+        "C-12928",
+        "C-12931",
+        "C-12932",
+        "C-12950",
+        "C-12951",
+        "C-12952",
+        "C-12953",
+        "C-12965",
+        "C-12967",
+        "C-12968"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 29,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10415",
+      "ref": "N-10415",
+      "name": "Charlie Kirk Premonition Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Kirk premonition pattern.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12898"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-274",
+      "ref": "N-274",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Dan Flood; recipient of Kirk's night-before text.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12899"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10340",
+      "ref": "N-10340",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the night-before texts to Kolvet and Flood.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12899",
+        "C-12900",
+        "C-12932"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-270",
+      "ref": "N-270",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Brian Harpole; the host hopes his lawsuit will show who Kirk meant by the night-before text.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12900"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10651",
+      "ref": "N-10651",
+      "name": "Brian Harpole Lawsuit Coordination Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Harpole lawsuit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12900"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11258",
+      "ref": "N-11258",
+      "name": "Harpole Lawsuit Subpoena and Discovery Opportunity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Harpole discovery.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12900"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10148",
+      "ref": "N-10148",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Kirk's Israel position claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12901",
+        "C-12912",
+        "C-12915"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Tucker Carlson; the host says she spoke with him on the day of the shooting and he spoke of spells controlling Trump.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12903",
+        "C-12915",
+        "C-12949",
+        "C-12950"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Donald Trump; the host cites his post of Kirk with an Israeli flag and says Tucker Carlson spoke of spells controlling him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12903",
+        "C-12911"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11351",
+      "ref": "N-11351",
+      "name": "Salem Media Group",
+      "type": "organization",
+      "description": "Media company that distributes the Charlie Kirk Show and, per the host, the Josh Hammer show; the host links it to Clock Tower X's FARA filing, Brad Parscale's role, the Trump Jr. deal and its alleged financial difficulties.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12904",
+        "C-12905",
+        "C-12910",
+        "C-12918",
+        "C-12919",
+        "C-12920",
+        "C-12921",
+        "C-12933"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11300",
+      "ref": "N-11300",
+      "name": "Charlie Kirk Show LLC",
+      "type": "investigation_target",
+      "description": "Charlie Kirk Show LLC; organization reused for ownership and building claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12904",
+        "C-12920",
+        "C-12921",
+        "C-12922",
+        "C-12923",
+        "C-12924",
+        "C-12925"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-31",
+      "ref": "N-31",
+      "name": "Rush Limbaugh",
+      "type": "person",
+      "description": "Rush Limbaugh; the host says Kirk idolized him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12905"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10914",
+      "ref": "N-10914",
+      "name": "Show Faith by Works LLC",
+      "type": "investigation_target",
+      "description": "Show Faith by Works LLC; organization reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12907",
+        "C-12935"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10653",
+      "ref": "N-10653",
+      "name": "Turning Point Geofencing / Show Faith by Works Link",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the geofencing link.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12907"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-715",
+      "ref": "N-715",
+      "name": "John F. Kennedy",
+      "type": "person",
+      "description": "John F. Kennedy; the host's LBJ remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12908"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11352",
+      "ref": "N-11352",
+      "name": "Trump Post of Kirk With Israeli Flag",
+      "type": "topic",
+      "description": "The host's recurring point that Donald Trump tweeted a photo of Charlie Kirk hugging an Israeli and an American flag when Kirk died.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12911"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Megyn Kelly; the host says she was attacked for telling the truth about Kirk's views and was a target of bots.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12913",
+        "C-12914",
+        "C-12915",
+        "C-12961"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Tyler Robinson; the host says she does not think he did it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12913",
+        "C-12965",
+        "C-12966"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10406",
+      "ref": "N-10406",
+      "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the attacks on Megyn Kelly.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12913",
+        "C-12914"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Josh Hammer; the host says he denied Kirk's message, was on the group chat and got a Salem show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12916",
+        "C-12917",
+        "C-12918",
+        "C-12931",
+        "C-12933"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10187",
+      "ref": "N-10187",
+      "name": "Josh Hammer Text Messages Context",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Hammer's text messages.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12916",
+        "C-12917"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11353",
+      "ref": "N-11353",
+      "name": "Charlie Kirk Show Equity Stakes Question",
+      "type": "topic",
+      "description": "The host's account, from Kirk and a Kolvet family source, that Kirk and Andrew Kolvet held stakes in the Charlie Kirk Show and that Kolvet allegedly lost millions when Kirk refused Netanyahu.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12920",
+        "C-12922",
+        "C-12923",
+        "C-12927"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Blake Neff; the host says he is paid at least in part by the Charlie Kirk Show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12923"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow and TPUSA CEO; the host mentions her office, her first speech and the memorial forgiveness line.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12925",
+        "C-12955"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10027",
+      "ref": "N-10027",
+      "name": "The Hamptons",
+      "type": "investigation_target",
+      "description": "The Hamptons; place of the alleged Kirk refusal of Netanyahu.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12926"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10456",
+      "ref": "N-10456",
+      "name": "Charlie Kirk BB Netanyahu Show Refusal",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Kirk's refusal of Netanyahu.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12926"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10495",
+      "ref": "N-10495",
+      "name": "BB Netanyahu Hamptons Dinner Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Hamptons dinner allegation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12926"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10305",
+      "ref": "N-10305",
+      "name": "Andrew Kolvet \"Lost Millions\" Tip Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Kolvet lost-millions tip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12927"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Netanyahu TPUSA funding offer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12927"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "Pam Bondi; the host reads the DOJ order on the FARA Unit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12930"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10169",
+      "ref": "N-10169",
+      "name": "Josh Hammer Pre-Death Zoom Call Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Hammer pre-death Zoom call.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12931",
+        "C-12932"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11221",
+      "ref": "N-11221",
+      "name": "Newsweek",
+      "type": "investigation_target",
+      "description": "Newsweek; distribution partner for the Hammer show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12933"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10910",
+      "ref": "N-10910",
+      "name": "Dhillon Law Group",
+      "type": "investigation_target",
+      "description": "Dhillon Law Group; organization reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12934"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-490",
+      "ref": "N-490",
+      "name": "Blake Lively",
+      "type": "person",
+      "description": "Blake Lively; party in the lawsuit the host discusses.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12936",
+        "C-12939",
+        "C-12941",
+        "C-12942",
+        "C-12944",
+        "C-12945",
+        "C-12947"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-257",
+      "ref": "N-257",
+      "name": "Courtney Love",
+      "type": "person",
+      "description": "Courtney Love; the host cites her claim of a Hollywood gang taking publishing rights.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12937"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11121",
+      "ref": "N-11121",
+      "name": "Hollywood Gang Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Hollywood gang claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12937",
+        "C-12938"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-230",
+      "ref": "N-230",
+      "name": "Harvey Weinstein",
+      "type": "person",
+      "description": "Harvey Weinstein; the host mentions his sale of his company.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12938"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-491",
+      "ref": "N-491",
+      "name": "Justin Baldoni",
+      "type": "person",
+      "description": "Justin Baldoni; party in the lawsuit the host discusses.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12939",
+        "C-12940",
+        "C-12943",
+        "C-12944",
+        "C-12945",
+        "C-12946",
+        "C-12947"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-901",
+      "ref": "N-901",
+      "name": "Bryan Freedman",
+      "type": "person",
+      "description": "Bryan Freedman; Baldoni's lawyer who published his response on a website.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12940"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-928",
+      "ref": "N-928",
+      "name": "Judge Liman",
+      "type": "person",
+      "description": "First named by the host at 00:48:28 in episode 99 (spelled Lyman and Leeman in the transcript). Judge who dismissed 10 of 13 Lively claims; described in the Community Notes text the host reads.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12941",
+        "C-12942"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-492",
+      "ref": "N-492",
+      "name": "Taylor Swift",
+      "type": "person",
+      "description": "Taylor Swift; the host says Lively lost her friendship.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12947"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Daily Wire; organization reused for the court-system and Crain & Co claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12948",
+        "C-12961",
+        "C-12963"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10416",
+      "ref": "N-10416",
+      "name": "Daily Wire Stalking Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Daily Wire pattern against the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12948"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Justin Streiff",
+      "type": "person",
+      "description": "Justin Streiff; the host says he spoke to her husband on the day and told her he organized the planes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12949",
+        "C-12958"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10300",
+      "ref": "N-10300",
+      "name": "Justin Streiff Post-Assassination Phone Call",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Justin Streiff's post-assassination phone call.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12949"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-265",
+      "ref": "N-265",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "Terrell Farnsworth; the host credits him, as 'Terrell Farnsworth', with exposing the no-neck story.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12954"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10198",
+      "ref": "N-10198",
+      "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Mikey McCoy's behavior on September 10.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12956",
+        "C-12957"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11354",
+      "ref": "N-11354",
+      "name": "Israeli Bot Campaign Claim",
+      "type": "topic",
+      "description": "The host's claim that Israel's propaganda spending includes bot armies, fake accounts and mass emails used to flood comment sections and event hosts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12960",
+        "C-12961",
+        "C-12962"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11304",
+      "ref": "N-11304",
+      "name": "Erika Kirk Memorial Forgiveness Statement",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Erika's forgiveness statement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12965"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10110",
+      "ref": "N-10110",
+      "name": "Tyler Robinson Evidence Gaps",
+      "type": "investigation_target",
+      "description": "Tyler Robinson Evidence Gaps; existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12966"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11355",
+      "ref": "N-11355",
+      "name": "Charlie Kirk Faked Death Theory",
+      "type": "topic",
+      "description": "The viewer theory that Charlie Kirk faked his death, which the host rejects based on one source and the amount of blood in the car.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12967",
+        "C-12968"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1412,7 +2621,1799 @@
         "N-14",
         "N-194"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12896",
+      "ref": "C-12896",
+      "label": "Host Says Baron Coleman Is Number 33 on a Spotify Chart",
+      "claim": "The host says she is hearing that Baron Coleman is number 33 on a Spotify chart.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Check the Spotify podcast chart for the date of the episode (2026-05-05) to confirm Coleman's rank.",
+      "transcript_snippet": "I'm also hearing that Baron Coleman is number 33 on a Spotify chart.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-334"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12897",
+      "ref": "C-12897",
+      "label": "Host Says Israel Will Raise Its US Propaganda Spend to Almost a Billion Dollars This Year",
+      "claim": "The host says Israel is going to increase its spending on American propaganda to almost a billion dollars this year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10722"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:53",
+      "investigative_direction": "Find the primary reporting or budget document behind the figure (the episode chapter title says $730 million, which is not spoken in the transcript) and compare it to Israeli Ministry of Foreign Affairs and FARA disclosures.",
+      "transcript_snippet": "They are going to be upping their spend on American propaganda to almost a billion dollars this year.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12898",
+      "ref": "C-12898",
+      "label": "Host Says She Pulled Her Kids From School the Week Before Kirk's Death",
+      "claim": "The host says that in the week leading up to Charlie Kirk's death she had a terrifying, overwhelming feeling that led her to pull her kids out of school because she sensed danger coming to a school.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10415"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:49",
+      "investigative_direction": "Look for a contemporaneous message, post or witness from the week of September 3 to 10, 2025 that records the host acting on the feeling; this is self-reported.",
+      "transcript_snippet": "the terrifying overwhelming feeling I had in the week leading up leading up to Charlie's death, which led me to pull my kids out of school cuz I sensed danger coming to a school.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12899",
+      "ref": "C-12899",
+      "label": "Host Says Kirk Texted Kolvet and Flood the Night Before That They Were Going to Kill Him",
+      "claim": "The host says that the night before his death Charlie Kirk texted Andrew Kolvet and Dan Flood, the security people she says were meant to protect him, and wrote 'They are going to kill me.'",
+      "anchored_artifacts": [
+        "A-3232.1"
+      ],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:15",
+      "investigative_direction": "Obtain the text thread from Kolvet's and Flood's phones (or the Harpole lawsuit discovery) and confirm date, time and exact wording.",
+      "transcript_snippet": "He texted Andrew Kolvet, he texted Dan Flood, and he said, \"They are going to kill me.\"",
+      "supports_claim_refs": [
+        "C-11109"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-14",
+        "N-274",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12900",
+      "ref": "C-12900",
+      "label": "Host Says TPUSA Wants Public to Believe Kirk Meant a Trans Person and Hopes the Harpole Lawsuit Will Show Who He Meant",
+      "claim": "The host says TPUSA wants the public to believe that Kirk's 'they are going to kill me' text referred to a trans person, and that she hopes the lawsuit with Brian Harpole will show whether he meant that.",
+      "anchored_artifacts": [
+        "A-3232.1"
+      ],
+      "related_nodes": [
+        "N-10340",
+        "N-10651",
+        "N-11258"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:15",
+      "investigative_direction": "Review TPUSA's public explanation of the text and the Harpole case docket for any production of the thread.",
+      "transcript_snippet": "they want us to believe that he meant a trans person. Okay. We'll see. Hopefully we'll be able to see in this lawsuit with Brian Harpole if he meant a trans person.",
+      "mentions_person_refs": [
+        "N-270",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12901",
+      "ref": "C-12901",
+      "label": "Coleman Clip Says Kirk Recognized the Side He Supported Was Dark and Was Trying to Distance Himself When Killed",
+      "claim": "In the Baron Coleman audio clip, Coleman says he believes Charlie Kirk recognized that the side he had been supporting was dark and evil, was trying to distance himself from it, and was killed for it.",
+      "anchored_artifacts": [
+        "A-2046.1"
+      ],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:20",
+      "investigative_direction": "Compare with Kirk's own written statements about leaving the pro-Israel cause; Coleman did not know Kirk and states a belief, not evidence.",
+      "transcript_snippet": "He recognized the side he had been supporting was demonic and dark and evil and he was trying to distance himself from it and they killed him.",
+      "mentions_person_refs": [
+        "N-334",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12902",
+      "ref": "C-12902",
+      "label": "Coleman Clip Says Kirk Was Killed for Turning His Back on the Prince of Darkness",
+      "claim": "In the Coleman audio clip, Coleman says the 'why' behind Kirk's killing is satanic: Kirk was turning his back on the prince of darkness and was killed by supporters of the prince of darkness.",
+      "anchored_artifacts": [
+        "A-2046.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:09:36",
+      "investigative_direction": "None available beyond Coleman's stated belief; record as the clip's claim only.",
+      "transcript_snippet": "Charlie was turning his back on the prince of darkness. And he was removed for it. He was killed. By supporters of the prince of darkness, by the people doing his bidding.",
+      "mentions_person_refs": [
+        "N-334",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12903",
+      "ref": "C-12903",
+      "label": "Host Says Tucker Carlson Used Words Like Spells About What Controls Trump",
+      "claim": "The host says Tucker Carlson talked about what is controlling Donald Trump using words like spells, and that critics mocked him for it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:09:36",
+      "investigative_direction": "Locate the Carlson segment and his exact wording.",
+      "transcript_snippet": "You see Tucker talking about that, and they're making fun of him where he's he's talking about what it is that is controlling uh Trump, and he's using words like spells",
+      "mentions_person_refs": [
+        "N-22",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12904",
+      "ref": "C-12904",
+      "label": "Host Says the Charlie Kirk Show Is Hosted on Salem Media",
+      "claim": "The host says the Charlie Kirk Show is hosted by Salem Media and that Kirk was excited about that deal.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11351",
+        "N-11300"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:03",
+      "investigative_direction": "Confirm the distribution agreement between the Charlie Kirk Show and Salem Media Group from Salem's SEC filings and the show's own announcements.",
+      "transcript_snippet": "So, you should know that the Charlie Kirk show is hosted It's like a a Salem medium a Salem media, pardon me.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12905",
+      "ref": "C-12905",
+      "label": "Host Says Kirk Told Her He Adored Rush Limbaugh and Wanted to Host Three Hours of Radio Daily",
+      "claim": "The host says Kirk told her he adored Rush Limbaugh, listened to him on the way to school every day as a boy, and wanted to host three hours of radio a day, which the Charlie Kirk Show let him do.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11351"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:12:03",
+      "investigative_direction": "Check Kirk's public interviews for statements about Limbaugh's influence; the private conversation is host testimony.",
+      "transcript_snippet": "He adored Rush Limbaugh. He listened to Rush Limbaugh on the way to school every day when he was young. He told me that.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-31",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12906",
+      "ref": "C-12906",
+      "label": "Host Says a Tip Said Netanyahu's Office Asked Van Susteren's Team to Pose the Kirk Question",
+      "claim": "The host says she received a tip, which she did not run at the time, that Benjamin Netanyahu's office requested that Greta Van Susteren's team ask him whether Israel was behind Kirk's murder, so the question came from his side.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:49",
+      "investigative_direction": "Ask Van Susteren and her producers whether the question was pre-arranged and obtain the booking correspondence; the tip source is unnamed.",
+      "transcript_snippet": "the individual that Benjamin Netanyahu's office actually requested Greta's team to ask that question. So, that question came from them",
+      "mentions_person_refs": [
+        "N-36",
+        "N-44",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12907",
+      "ref": "C-12907",
+      "label": "Host Says Show Faith by Works Filing Includes Anti-Palestinian Messaging and October 7th Experiences in Church Parking Lots",
+      "claim": "The host says the Show Faith by Works arrangement would give people pro-Israel and anti-Palestinian messages plus an October 7th experience in church parking lots.",
+      "anchored_artifacts": [
+        "A-2048.1",
+        "A-2048.2"
+      ],
+      "related_nodes": [
+        "N-10914",
+        "N-10653"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:49",
+      "investigative_direction": "Read the Show Faith by Works FARA exhibit to confirm the scope of messaging and the October 7th event component.",
+      "transcript_snippet": "they're going to give you pro-Israel and anti-Palestinian messages, plus this weird October 7th uh experience in church parking lots.",
+      "supports_claim_refs": [
+        "C-2862"
+      ],
+      "mentions_person_refs": [
+        "N-10653"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12908",
+      "ref": "C-12908",
+      "label": "Host Says LBJ Reversed Every JFK Policy Against Israel After Taking Office",
+      "claim": "The host says that after presidents who pressed Israel on FARA registration, LBJ assumed office and reversed course on every policy JFK had pursued against Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:16:06",
+      "investigative_direction": "Historical question outside the case; compare with standard histories of the Kennedy and Johnson administrations and the 1963 FARA dispute over the American Zionist Council.",
+      "transcript_snippet": "LBJ assumed office and reversed course on every policy that JFK was pursuing against Israel.",
+      "mentions_person_refs": [
+        "N-715",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12909",
+      "ref": "C-12909",
+      "label": "Host Says She First Met Brad Parscale at Lunch With Charlie Kirk",
+      "claim": "The host says she first met Brad Parscale over lunch with Charlie Kirk at a private club in Washington, DC, where she says he treated her and Kirk like nobodies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10722"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:06",
+      "investigative_direction": "No document needed; host recollection of a private lunch.",
+      "transcript_snippet": "I actually met him for the first time with Charlie, over lunch.",
+      "mentions_person_refs": [
+        "N-436",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12910",
+      "ref": "C-12910",
+      "label": "Host Says Salem's Documents Show a Financial Relationship Structured to Benefit Israel",
+      "claim": "The host says it is appropriate to state that Salem Media is working as a foreign agent of Israel, and that the filings show Salem has a financial relationship structured to benefit Israel.",
+      "anchored_artifacts": [
+        "A-2049.1",
+        "A-2049.2"
+      ],
+      "related_nodes": [
+        "N-10657",
+        "N-11351",
+        "N-10722"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:18:15",
+      "investigative_direction": "Read the Clock Tower X FARA exhibits for any contract naming Salem and compare Salem's own statements on whether it is a party or a platform.",
+      "transcript_snippet": "these documents show you that they have a financial relationship that is structured to benefit Israel.",
+      "mentions_person_refs": [
+        "N-11351",
+        "N-10722"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12911",
+      "ref": "C-12911",
+      "label": "Host Says Trump Tweeted a Photo of Kirk Hugging an Israeli and an American Flag When He Died",
+      "claim": "The host says that when Charlie Kirk died, Donald Trump tweeted out a photo of Kirk hugging an Israeli flag and an American flag instead of a photo of him with the American flag.",
+      "anchored_artifacts": [
+        "A-3233.1"
+      ],
+      "related_nodes": [
+        "N-11352"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:56",
+      "investigative_direction": "Pull Trump's September 10, 2025 post and its image from Truth Social or X archives.",
+      "transcript_snippet": "He instead when Charlie died decided to tweet out a photo of Charlie hugging an Israel flag and an American flag.",
+      "supports_claim_refs": [
+        "C-10654"
+      ],
+      "mentions_person_refs": [
+        "N-5",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12912",
+      "ref": "C-12912",
+      "label": "Host Says Kirk Changing His Mind on Israel Was a Secret They Were Desperate to Protect",
+      "claim": "The host says it is a fact that Charlie Kirk changed his mind on Israel in the end, and that this was a secret others were desperate to protect.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:45",
+      "investigative_direction": "Compare the group text of September 9 and other witness accounts of Kirk's stated position.",
+      "transcript_snippet": "the fact, and it is a fact, that Charlie changed his mind on Israel in the end, that was very clearly a secret that they were desperate to protect",
+      "supports_claim_refs": [
+        "C-9309"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12913",
+      "ref": "C-12913",
+      "label": "Host Says Megyn Kelly Was Pro-Israel and Said Tyler Robinson on a Rooftop Looked Possible",
+      "claim": "The host says Megyn Kelly was pro-Israel, never thought Israel did it, and said that Tyler Robinson on a rooftop looked possible and that documents were needed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:45",
+      "investigative_direction": "Check Kelly's broadcast and social posts from September 2025 for these positions.",
+      "transcript_snippet": "Megyn Kelly was like, \"Tyler Robinson on a rooftop, this looks possible to me. We don't know what else happened. We need the documents.\"",
+      "mentions_person_refs": [
+        "N-46",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12914",
+      "ref": "C-12914",
+      "label": "Host Says Kelly Was Attacked for Telling the Truth About Kirk's Shifting Views on Israel",
+      "claim": "The host says Megyn Kelly told the truth about Charlie Kirk's shifting viewpoints on Israel and that the host is convinced this is what led to the attacks on Kelly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:45",
+      "investigative_direction": "Compare the timing of attacks on Kelly with her statements about Kirk's views; the motive is the host's inference.",
+      "transcript_snippet": "She told the truth about Charlie's shifting viewpoints on Israel. And that is what led to attacks on Megyn Kelly, I'm convinced.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12915",
+      "ref": "C-12915",
+      "label": "Host Says Only Tucker Carlson and Megyn Kelly Backed Her Account That Kirk Changed His Mind on Israel",
+      "claim": "The host says that of all the people in Kirk's circle, she had effectively only two, Tucker Carlson and Megyn Kelly, willing to back her up that Kirk had long conversations with them and changed his mind on Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10148"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:45",
+      "investigative_direction": "Compare Carlson's and Kelly's own on-air statements describing conversations with Kirk.",
+      "transcript_snippet": "I had effectively two people that were willing to back me up. Of all the front Charlie made, two people that were willing to back me up",
+      "supports_claim_refs": [
+        "C-6474"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-46",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12916",
+      "ref": "C-12916",
+      "label": "Host Says Josh Hammer Vociferously Denied Kirk's Message in the Days After His Death",
+      "claim": "The host says Josh Hammer vociferously denied, in the days after Charlie Kirk's death, that Kirk had abandoned the pro-Israel cause, instantly proclaiming it was not true before he knew the message would get out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10187"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:45",
+      "investigative_direction": "Collect Hammer's posts and interviews from September 10 to 20, 2025 and compare with the group text.",
+      "transcript_snippet": "vociferously denied in the days that followed Charlie's death, instantly proclaiming it wasn't true.",
+      "mentions_person_refs": [
+        "N-55",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12917",
+      "ref": "C-12917",
+      "label": "Host Says Hammer and an Israel-Based Rabbi Were in the Group Chat and Lied Explicitly",
+      "claim": "The host says Josh Hammer and an Israeli-based rabbi were part of the group text messages she released, were privy to them, and lied explicitly about them.",
+      "anchored_artifacts": [
+        "A-3234.1"
+      ],
+      "related_nodes": [
+        "N-10187"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:23",
+      "investigative_direction": "Obtain the group chat participant list from the screenshots the host published and compare with Hammer's public denials.",
+      "transcript_snippet": "which both both Josh Hammer and an Israeli-based rabbi were part of. They were privy to those messages. They lied. They lied explicitly",
+      "supports_claim_refs": [
+        "C-1377"
+      ],
+      "mentions_person_refs": [
+        "N-55",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12918",
+      "ref": "C-12918",
+      "label": "Host Says Josh Hammer Was Announced October 15 as Getting a Show on the Salem Podcast Network",
+      "claim": "The host says that on October 15th it was announced that Josh Hammer was given a show on the Salem Podcast Network, the same network that hosts the Charlie Kirk Show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11351",
+        "N-10658"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:23:12",
+      "investigative_direction": "Find the Salem or Newsweek announcement of the Hammer show and its date.",
+      "transcript_snippet": "And somehow on October 15th, he's given a a a show on the Salem Podcast Network. The same network that hosts the Charlie Kirk show.",
+      "mentions_person_refs": [
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12919",
+      "ref": "C-12919",
+      "label": "Host Says She Recalls Salem Media Struggling Financially and Looking for a Buyer",
+      "claim": "The host says she remembers learning years ago that Salem Media was struggling financially and was looking for a buyer or a deal.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11351"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:57",
+      "investigative_direction": "Review Salem Media Group's SEC filings and press coverage of its finances and any sale process.",
+      "transcript_snippet": "I remember learning that that Salem was struggling financially. That they they were not able to like they were looking for a buyer, looking for a deal",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12920",
+      "ref": "C-12920",
+      "label": "Host Says Kirk Told Her He Would Own Part of His Show Under the Salem Deal",
+      "claim": "The host says Charlie Kirk told her his Salem deal was fantastic and that he was going to be a part owner and own his show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11351",
+        "N-11300",
+        "N-11353"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:26:52",
+      "investigative_direction": "Obtain the Charlie Kirk Show LLC ownership records and the Salem distribution agreement.",
+      "transcript_snippet": "He was going to be a part owner uh of He was going to own his show.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12921",
+      "ref": "C-12921",
+      "label": "Host Says Kirk Told Her His Was the Most Profitable Show at Salem",
+      "claim": "The host says Kirk told her, perhaps once upon a time, that his was the only truly profitable or the most profitable show at the Salem network, which was in trouble.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11351",
+        "N-11300"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:26:52",
+      "investigative_direction": "Compare with Salem's segment financials; the host herself says the statement may be dated.",
+      "transcript_snippet": "he also told me, and maybe this was once upon a time, that his was the only truly profitable show at the network or the most profitable show at the network",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12922",
+      "ref": "C-12922",
+      "label": "Host Says Kirk Told Her Kolvet Owned a Stake in the Charlie Kirk Show",
+      "claim": "The host says Charlie Kirk told her specifically that Andrew Kolvet owned a stake in the Charlie Kirk Show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11300",
+        "N-11353"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:47",
+      "investigative_direction": "Obtain Charlie Kirk Show LLC ownership or profit-interest records and ask Kolvet whether he holds a stake.",
+      "transcript_snippet": "Andrew Kolvet, Charlie told me specifically, owned a stake in the Charlie Kirk show.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12923",
+      "ref": "C-12923",
+      "label": "Host Says Blake Neff and Kolvet Are Paid at Least in Part by the Charlie Kirk Show",
+      "claim": "The host says that Blake Neff and Andrew Kolvet do not technically work for Turning Point USA and are paid at least in part by the Charlie Kirk Show, and that she thinks Neff said he was paid entirely by the show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11300",
+        "N-11353"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:47",
+      "investigative_direction": "Find Neff's statement about who pays him and payroll or contractor records for the show.",
+      "transcript_snippet": "Blake Neff, Andrew Kolvet, they are paid, at least in part, by the Charlie Kirk show.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12924",
+      "ref": "C-12924",
+      "label": "Host Says the Charlie Kirk Show Team Has Its Own Building on the TPUSA Campus",
+      "claim": "The host says the Charlie Kirk Show staff have their own separate building on the property of the Turning Point USA campus.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11300"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:47",
+      "investigative_direction": "Check property records and campus descriptions for the show's studio building.",
+      "transcript_snippet": "They even have their own separate building on the property of the Turning Point USA campus.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12925",
+      "ref": "C-12925",
+      "label": "Host Says Erika Kirk Took an Office in the Show's Building Before Charlie Died",
+      "claim": "The host says that, if she remembers correctly, Erika Kirk took an office in the Charlie Kirk Show building before Charlie died and would go there sometimes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11300"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:47",
+      "investigative_direction": "Ask TPUSA when Erika first used an office in the building; the host hedges with 'if I remember correctly'.",
+      "transcript_snippet": "I think Erika Kirk took an office in that building before uh Charlie died.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12926",
+      "ref": "C-12926",
+      "label": "Host Says a Family Source Reports Kolvet Told His Family Kirk Said No to Netanyahu in the Hamptons",
+      "claim": "The host says that according to a source in Andrew Kolvet's family, Kolvet told his family orbit that Charlie Kirk said no to Benjamin Netanyahu in the Hamptons shortly before he died; the host was unsure of the date and asked her producer to check the timeline.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10027",
+        "N-10456",
+        "N-10495"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:36",
+      "investigative_direction": "Identify the family source; compare the date with the Hamptons retreat dates in earlier episodes and TPUSA's itinerary.",
+      "transcript_snippet": "Andrew Kolvet, according to a family source of his, so this was a source that came to me, uh told people in his family and his family orbit that when Charlie said no to Bibi Netanyahu in the Hamptons",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12927",
+      "ref": "C-12927",
+      "label": "Host Says Kolvet Told Family and Friends He Lost Millions When Kirk Refused Netanyahu",
+      "claim": "The host says, allegedly, that Andrew Kolvet told his close orbit of family and friends in Santa Barbara that he lost millions when Charlie Kirk said no to taking Turning Point USA to the next level, and she now ties this to Kolvet's stake in the Kirk show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10305",
+        "N-10342",
+        "N-11353"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:32",
+      "investigative_direction": "Identify the family and friends who heard it; compare with earlier tips and with any documents on Kolvet's income or equity.",
+      "transcript_snippet": "Andrew told allegedly, I'll say allegedly here, told his close orbit of family and friends back in Santa Barbara that he lost money. He lost millions when Charlie said no to taking Turning Point USA to the next level.",
+      "supports_claim_refs": [
+        "C-5518",
+        "C-6787"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12928",
+      "ref": "C-12928",
+      "label": "Host Says Donald Trump Jr. Had an Almost Non-Reaction to Kirk's Death",
+      "claim": "The host says Donald Trump Jr. showed an almost non-reaction to Charlie Kirk's death and did not fight the way she expected, even when the .30-06 narrative came out.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:23",
+      "investigative_direction": "Collect Trump Jr.'s public posts and interviews from September 10 to 30, 2025.",
+      "transcript_snippet": "broke my heart with his almost non-reaction to Charlie's death, not fighting in the way that I thought he would fight",
+      "mentions_person_refs": [
+        "N-33",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12929",
+      "ref": "C-12929",
+      "label": "Ian Carroll Says the Knesset Had a 2018 Plan to Skirt FARA",
+      "claim": "In the Ian Carroll segment the host plays, Carroll says the Foreign Influence Task Force's disbanding ensured that the Knesset's 2018 plan to skirt FARA could proceed with minimal risk of prosecution.",
+      "anchored_artifacts": [
+        "A-2052.1"
+      ],
+      "related_nodes": [
+        "N-10659"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:17",
+      "investigative_direction": "Identify the Knesset 2018 plan Carroll refers to (and any published source) and compare with FARA enforcement data after February 2025.",
+      "transcript_snippet": "ensuring that the Knesset's 2018 plan to skirt FARA could proceed with min- minimal risk of prosecution.",
+      "mentions_person_refs": [
+        "N-131"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12930",
+      "ref": "C-12930",
+      "label": "DOJ Order Says the FARA Unit Shall Focus on Civil Enforcement, Regulatory Initiatives and Public Guidance",
+      "claim": "The DOJ text read in the segment says the Counterintelligence and Export Control Section, including the FARA Unit, shall focus on civil enforcement, regulatory initiatives, and public guidance with respect to FARA and 18 U.S.C. 951.",
+      "anchored_artifacts": [
+        "A-2053.1"
+      ],
+      "related_nodes": [
+        "N-10659"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:09",
+      "investigative_direction": "Pull the February 5, 2025 Attorney General memorandum and verify this sentence.",
+      "transcript_snippet": "the Counterintelligence and Export Control Section, including the FARA Unit, shall focus on civil enforcement, regulatory initiatives, and public guidance.",
+      "mentions_person_refs": [
+        "N-85"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12931",
+      "ref": "C-12931",
+      "label": "Host's Timeline Says Kirk Had a Zoom Call With Josh Hammer and an Israeli Rabbi After the September 9 Message",
+      "claim": "The host's timeline says that after sending the September 9 message declaring he had left the pro-Israel cause, Charlie Kirk had a Zoom call with Josh Hammer and a rabbi from Israel.",
+      "anchored_artifacts": [
+        "A-2054.1"
+      ],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:37:55",
+      "investigative_direction": "Obtain Hammer's account of the call, the Zoom invitation and calendar records, and Rabbi Wolicki's statements (compare episodes 16 and 17).",
+      "transcript_snippet": "Afterward, he has a Zoom call with Josh Hammer and a rabbi from Israel.",
+      "supports_claim_refs": [
+        "C-9324"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12932",
+      "ref": "C-12932",
+      "label": "Host's Timeline Says Kirk Sent Messages a Couple of Hours Later Saying They Were Going to Kill Him",
+      "claim": "The host's timeline says that sometime later that evening, a couple of hours after the Zoom call, Charlie Kirk sent messages declaring that they were going to kill him.",
+      "anchored_artifacts": [
+        "A-2054.1"
+      ],
+      "related_nodes": [
+        "N-10340",
+        "N-10169"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:37:55",
+      "investigative_direction": "Obtain message timestamps from the recipients' phones to fix the interval between the Zoom call and the texts.",
+      "transcript_snippet": "Sometime later that evening, couple hours later, he's going to send messages declaring that an unknown they are going to kill him.",
+      "supports_claim_refs": [
+        "C-9358",
+        "C-11109"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12933",
+      "ref": "C-12933",
+      "label": "Host Says the Josh Hammer Show Joined the Salem Podcast Network October 23 Through a Newsweek Partnership",
+      "claim": "The host's timeline says that on October 23rd the Josh Hammer Show joined the Salem Podcast Network through a new distribution partnership with Newsweek, in contrast with the October 15 announcement date she gave earlier.",
+      "anchored_artifacts": [
+        "A-2054.1"
+      ],
+      "related_nodes": [
+        "N-11351",
+        "N-11221",
+        "N-10658"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:37:55",
+      "investigative_direction": "Compare the Salem and Newsweek press releases for the announcement date (October 15) and the launch date (October 23).",
+      "transcript_snippet": "And on October 23rd, the Josh Hammer Show joins the Salem Podcast Network through a new distribution partnership with Newspeak with Newsweek.",
+      "mentions_person_refs": [
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12934",
+      "ref": "C-12934",
+      "label": "Host Says Dhillon Law Group Has Been Privately Suing Her for Two Years",
+      "claim": "The host says the law firm she calls 'Dhillon Law Group', which she identifies with the Dhillon Law Group, has been privately suing her for two years, and that some would say this is on behalf of Israel while she calls that a gratuitous understanding.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10910"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:40",
+      "investigative_direction": "Search federal and state dockets for matters against the host where Dhillon Law Group appears as counsel, and compare with the firm's FARA filings.",
+      "transcript_snippet": "the Dhillon Law Group firm, uh which has been privately suing me for 2 years.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12935",
+      "ref": "C-12935",
+      "label": "Host Says Show Faith by Works Will Target Churches and Schools",
+      "claim": "The host says the breakdown graphic shows that Show Faith by Works LLC will target churches and schools.",
+      "anchored_artifacts": [
+        "A-2055.1"
+      ],
+      "related_nodes": [
+        "N-10914"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:40",
+      "investigative_direction": "Read the Show Faith by Works filing scope for any reference to schools.",
+      "transcript_snippet": "Show Faith by Works LLC is going to target the churches, they're going to target the schools."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12936",
+      "ref": "C-12936",
+      "label": "Host Says Lively Brought In a Crisis PR Firm With a Former CIA Agent",
+      "claim": "The host says that in the Lively case a PR crisis firm was brought in that included a former CIA agent who left the agency and opened a crisis PR firm.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:43:34",
+      "investigative_direction": "Identify which firm and which person the host means (the sentence is ambiguous about who hired the firm) and check public court filings and press reports.",
+      "transcript_snippet": "she even brought in a PR crisis firm that had a former CIA agent then like left the CIA and opened a PR crisis firm.",
+      "mentions_person_refs": [
+        "N-490",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12937",
+      "ref": "C-12937",
+      "label": "Host Relays Courtney Love's Claim of a Hollywood Gang Taking Publishing Rights",
+      "claim": "The host says she subscribes to what Courtney Love told her, that there is a gang operating in Hollywood that takes publishing rights.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11121"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:43:34",
+      "investigative_direction": "Compare with Love's public statements and the host's earlier episode with her.",
+      "transcript_snippet": "what Courtney Love told me that there is like a gang operating in Hollywood and they just take publishing rights.",
+      "mentions_person_refs": [
+        "N-257",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12938",
+      "ref": "C-12938",
+      "label": "Host Says the Weinstein Case May Have Involved Publishing Rights and He Had to Sell His Company",
+      "claim": "The host says she covered the Harvey Weinstein case, that it could have had something to do with publishing rights, and that Weinstein had to sell his entire company.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11121"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:43:34",
+      "investigative_direction": "Check the 2018 sale of the Weinstein Company and the host's earlier coverage; the publishing-rights motive is the host's inference.",
+      "transcript_snippet": "I think could have had something to do with publishing rights, for sure. He had to end up selling his entire company.",
+      "mentions_person_refs": [
+        "N-230",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12939",
+      "ref": "C-12939",
+      "label": "Host Says Lively First Filed a California Civil Rights Employment-Type Complaint",
+      "claim": "The host says Blake Lively's initial filing was a civil-rights, employee-type complaint in California, not really a court case, and that Lively did not expect the public to read the documents.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:45:00",
+      "investigative_direction": "Obtain the California Civil Rights Department complaint and its filing date.",
+      "transcript_snippet": "this like civil rights employee type filing that she initially did in California.",
+      "mentions_person_refs": [
+        "N-490",
+        "N-491",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12940",
+      "ref": "C-12940",
+      "label": "Host Says Freedman Published His Response Filing on a Website",
+      "claim": "The host says Bryan Freedman, Justin Baldoni's lawyer, filed his response and created an entire website that let the public read it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:45:45",
+      "investigative_direction": "Locate Freedman's response filing and the associated website.",
+      "transcript_snippet": "Bryan Freedman, the lawyer did the greatest thing you could possibly do when he filed his response, he created an entire website and allowed us to read it",
+      "mentions_person_refs": [
+        "N-901",
+        "N-491",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12941",
+      "ref": "C-12941",
+      "label": "Community Notes Text Says the Judge Did Not Find Lively an Independent Contractor Under Title VII",
+      "claim": "The Community Notes text the host reads says Judge Liman did not state that Lively was an independent contractor and therefore not entitled to bring claims under Title VII.",
+      "anchored_artifacts": [
+        "A-2057.1"
+      ],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:48:28",
+      "investigative_direction": "Read Judge Liman's April 2 opinion on the Title VII and independent-contractor questions.",
+      "transcript_snippet": "Although Judge Liman did not state Miss Lively was an independent independent contractor and uh therefore she's not entitled under Title VII to bring claims.",
+      "mentions_person_refs": [
+        "N-490",
+        "N-928"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12942",
+      "ref": "C-12942",
+      "label": "Community Notes Text Says the Conduct Was Not Beyond What Might Be Expected Between Two Characters",
+      "claim": "The Community Notes text the host reads says the judge stated the conduct was not so far beyond what might reasonably be expected to take place between two characters.",
+      "anchored_artifacts": [
+        "A-2057.1"
+      ],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:48:28",
+      "investigative_direction": "Read the relevant passage of the April 2 order and compare it with the note's paraphrase.",
+      "transcript_snippet": "he continues to state that the conduct was not so far beyond what might reasonably be expected to take place between two characters.",
+      "mentions_person_refs": [
+        "N-490",
+        "N-928"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12943",
+      "ref": "C-12943",
+      "label": "Host Says the Book Artwork for the Deadpool Film Included a Passive-Aggressive Passage About Nice Pool",
+      "claim": "The host says the featured artwork for the book created to go with the Deadpool movie included a passive-aggressive passage and description regarding Nice Pool, which she says is about Justin Baldoni.",
+      "anchored_artifacts": [
+        "A-3235.1"
+      ],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:50:04",
+      "investigative_direction": "Obtain the artwork and the passage text from the film's tie-in book.",
+      "transcript_snippet": "Even in the featured artwork for the book that they created to go along with the movie, they included this passive-aggressive passage and a description regarding nice pool.",
+      "mentions_person_refs": [
+        "N-491"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12944",
+      "ref": "C-12944",
+      "label": "Host Says Reynolds Used an It Ends With Us Promo to Mock Baldoni With Hugh Jackman",
+      "claim": "The host says Ryan Reynolds joined the It Ends With Us promotion that was not truly a promo, and used it with Hugh Jackman to make fun of Justin Baldoni.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:51:02",
+      "investigative_direction": "Find the promotional video and review its content.",
+      "transcript_snippet": "Ryan then jumped into Blake Lively and Justin Baldoni's movie uh appearing to do a movie promo of It Ends With Us, but it wasn't actually a movie promo.",
+      "mentions_person_refs": [
+        "N-381",
+        "N-382",
+        "N-491",
+        "N-490"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12945",
+      "ref": "C-12945",
+      "label": "Host Says Lively Said She Could Not Be in the Same Theater as Baldoni at His Premiere",
+      "claim": "The host says that at the It Ends With Us premiere Blake Lively was saying she could not be in the same room as Justin Baldoni, which is why he watched from the basement.",
+      "anchored_artifacts": [
+        "A-2059.1"
+      ],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:51:57",
+      "investigative_direction": "Check premiere reporting and the lawsuit record for seating arrangements and who requested separation.",
+      "transcript_snippet": "Blake Lively at that moment was saying she couldn't even be in the same room as him.",
+      "mentions_person_refs": [
+        "N-490",
+        "N-491"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12946",
+      "ref": "C-12946",
+      "label": "Host Says She Thinks Baldoni Ended Up in the Hospital From the Stress",
+      "claim": "The host says she thinks Justin Baldoni did end up in the hospital from all the stress of the case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:51:57",
+      "investigative_direction": "Look for a statement from Baldoni or his representatives; the host hedges with 'I think'.",
+      "transcript_snippet": "I think he did it he did actually end up in the hospital from all the stress of it.",
+      "supports_claim_refs": [
+        "C-11146"
+      ],
+      "mentions_person_refs": [
+        "N-491"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12947",
+      "ref": "C-12947",
+      "label": "Host Says the Lively Lawsuit Settled About Two Weeks Before the Scheduled Trial",
+      "claim": "The host says the Lively and Baldoni dispute was settled just two weeks before the scheduled trial dates, and that Lively lost both Taylor Swift and the respect of the public.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:52:46",
+      "investigative_direction": "Check the docket for the settlement notice date against the scheduled trial date.",
+      "transcript_snippet": "Just two weeks before the scheduled trial dates, they legal dispute.",
+      "mentions_person_refs": [
+        "N-490",
+        "N-491",
+        "N-492"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12948",
+      "ref": "C-12948",
+      "label": "Host Says She Has Experienced Private Harassment Through the Courts From the Daily Wire",
+      "claim": "The host says she has gone through harassment privately with the Daily Wire throughout the court system, and that she is glad some of it is now spilling into public view.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900",
+        "N-10416"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:53:40",
+      "investigative_direction": "Identify the arbitration and court proceedings between the host and the Daily Wire and which filings are public.",
+      "transcript_snippet": "the harassment that I have gone through privately with the Daily Wire throughout the court system that now I'm actually kind of happy some of this is spilling into public",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12949",
+      "ref": "C-12949",
+      "label": "Host Says Her Husband Spoke to Justin Streiff While She Spoke to Kolvet and Tucker Carlson on the Day",
+      "claim": "The host says that on the day of the shooting her husband spoke to Justin Streiff, she was speaking to Andrew Kolvet, and she was also speaking to Tucker Carlson about what Kolvet told her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10300"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:03",
+      "investigative_direction": "Compare call logs for the host, her husband, Streiff, Kolvet and Carlson on September 10, 2025.",
+      "transcript_snippet": "He spoke to Justin Streiff. I was speaking to Andrew Kolvet. I was also, I told you guys, speaking to Tucker Carlson",
+      "mentions_person_refs": [
+        "N-15",
+        "N-14",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12950",
+      "ref": "C-12950",
+      "label": "Host Says She and Her Husband Were Told Kirk Had No Neck Left",
+      "claim": "The host says that when Charlie Kirk was in the hospital she and others were told repeatedly that he had no neck left.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10660"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:03",
+      "investigative_direction": "Establish who told her and her husband, and when, from call logs and messages; ask Carlson what he was told.",
+      "transcript_snippet": "we were told when Charlie was in the hospital that he had no neck left. This was a repeated thing that everybody was told.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12951",
+      "ref": "C-12951",
+      "label": "Host Says Kirk Had Mainly an Entry Wound in the Front That Hit an Artery",
+      "claim": "The host says Charlie Kirk basically only had the entry point in the front, which looked terrible because it hit the artery and caused the bleeding.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10660"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:47",
+      "investigative_direction": "Compare with the autopsy summary and the Utah medical examiner's findings.",
+      "transcript_snippet": "He basically only had um that entry point um in the front and the reason why it it visually looked so terrible was because it hit that artery",
+      "supports_claim_refs": [
+        "C-6680"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12952",
+      "ref": "C-12952",
+      "label": "Host Says Kirk's Neck Was Completely Fine and That Is Why the Casket Was Open",
+      "claim": "The host says that Charlie Kirk's neck was completely fine and that is why the casket was open, so the no-neck story was false.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10660"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:47",
+      "investigative_direction": "Confirm open-casket viewing from memorial attendees and compare to the no-neck account.",
+      "transcript_snippet": "his neck was completely fine. That's why it was it was open casket.",
+      "supports_claim_refs": [
+        "C-6680"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12953",
+      "ref": "C-12953",
+      "label": "Host Says the No-Neck Story Looks Like an Intentional Talking Point Prepared for the .30-06 Narrative",
+      "claim": "The host says it seems weird that the no-neck account was an intentional talking point, and she feels it was prepared so they could say the .30-06 went through and completely destroyed his neck.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10660"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:47",
+      "investigative_direction": "Ask the people who relayed the account where it came from; the intent attribution is the host's inference.",
+      "transcript_snippet": "they were prepared to give and I feel like it's because they were going to tell us that.30-06 went through and and completely destroyed his neck",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12954",
+      "ref": "C-12954",
+      "label": "Host Says the No-Neck Lie Would Have Gone Unchallenged but for Terrell Farnsworth",
+      "claim": "The host says nobody would have known the no-neck account was false had it not been for 'Terrell Farnsworth', whom she calls an unexpected hero because he could not get his lie straight.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10660"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:47",
+      "investigative_direction": "Review Farnsworth's statements and camera footage disclosures; the host does not say which lie she means.",
+      "transcript_snippet": "nobody would have known any different had it not been for for Terrell Farnsworth.",
+      "mentions_person_refs": [
+        "N-265",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12955",
+      "ref": "C-12955",
+      "label": "Host Says Erika Kirk Called Mikey McCoy Amazing in Her First Speech",
+      "claim": "The host says TPUSA never said Mikey McCoy's name without an adjective, such as amazing or stupendous, and that Erika Kirk said Mikey was amazing in her first speech.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10663"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:58:40",
+      "investigative_direction": "Find the transcript of Erika Kirk's first public speech and the exact words about McCoy.",
+      "transcript_snippet": "Mikey was amazing. Erika said that in her first speech.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12956",
+      "ref": "C-12956",
+      "label": "Host Says the Story That Mikey Flew Into Action Is Not True",
+      "claim": "The host says TPUSA lied when it said Mikey McCoy flew into action and directed everything at the hospital, and that he did not suddenly see, call and direct things.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10198",
+        "N-10663"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:59:24",
+      "investigative_direction": "Compare Blake Neff's and TPUSA's accounts of McCoy's actions with hospital and call records.",
+      "transcript_snippet": "They lied when they said Mikey flew into action and did all That's not true.",
+      "contradicts_claim_refs": [
+        "C-9554"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12957",
+      "ref": "C-12957",
+      "label": "Host Says Her Sources Say Mikey McCoy Was a Mess at the Hospital",
+      "claim": "The host says that according to her sources Mikey McCoy was an absolute mess at the hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10198",
+        "N-10663"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:59:24",
+      "investigative_direction": "Identify hospital witnesses and compare with other accounts of McCoy's condition.",
+      "transcript_snippet": "According to my sources, Mikey was a mess at the hospital.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12958",
+      "ref": "C-12958",
+      "label": "Host Says Justin Streiff Told Her to Her Face He Organized All the Planes",
+      "claim": "The host says Justin Streiff told her to her face that he was the one who organized all the planes.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:59:24",
+      "investigative_direction": "Obtain flight manifests and booking records for the planes used on September 10, 2025 and ask Streiff.",
+      "transcript_snippet": "Justin Streiff told me to my face, he was the one that organized all the planes.",
+      "supports_claim_refs": [
+        "C-11330"
+      ],
+      "mentions_person_refs": [
+        "N-15",
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12959",
+      "ref": "C-12959",
+      "label": "Host Says She Has It on Good Notice That Mikey McCoy Is Discussing Real Estate Deals",
+      "claim": "The host says she has it on good notice that Mikey McCoy is talking about real estate deals and that people around him are telling him about money.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10663"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:00:10",
+      "investigative_direction": "Identify the source; check property transactions involving McCoy.",
+      "transcript_snippet": "I have, you know, it on good notice that you're talking about real estate deals and they're telling you money, money, money, money, money.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12960",
+      "ref": "C-12960",
+      "label": "Host Says Israel's Roughly One-Billion-Dollar Propaganda Budget Includes Bot Campaigns and Fake Accounts",
+      "claim": "The host says Israel's propaganda increase to about a billion dollars includes bot campaigns and fake accounts used to flood comment sections.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11354",
+        "N-10722"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:01:01",
+      "investigative_direction": "Find reporting or contracts documenting bot spending (for example FARA disclosures or journalistic investigations) and compare with the host's 'Israeli bot armies' claim.",
+      "transcript_snippet": "They are in fact using bot campaigns. They use fake accounts. Their idea is to flood the zone in comment section",
+      "supports_claim_refs": [
+        "C-6550"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12961",
+      "ref": "C-12961",
+      "label": "Host Says She Found Israeli Bot Armies in Megyn Kelly's Instagram Comments After Leaving the Daily Wire",
+      "claim": "The host says she observed bots in Megyn Kelly's Instagram comment section after she was let go from the Daily Wire and found out they were literally Israeli bot armies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11354",
+        "N-10900"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:01:01",
+      "investigative_direction": "Ask the host for the analysis that identified the accounts as bots and as Israeli.",
+      "transcript_snippet": "I observed this in Megyn Kelly's comment section on Instagram because I lived through it after I got fired from Daily Wire and I found out that they were bots, and they were literally Israeli bot armies.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12962",
+      "ref": "C-12962",
+      "label": "Host Says Israeli-Linked Companies Can Send Thousands of Bot Emails to Event Hosts",
+      "claim": "The host says Israeli companies can send 3,000 emails on a dime to anyone hosting an event, using bots that make it look like individual residents are objecting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11354"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:01:01",
+      "investigative_direction": "Collect examples of identical email campaigns against events and trace sender infrastructure.",
+      "transcript_snippet": "They can also send uh 3,000 emails on a dime if you have an event.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12963",
+      "ref": "C-12963",
+      "label": "Host Corrects That Crain & Co Left the Daily Wire on Its Own",
+      "claim": "The host says that after learning more she was wrong yesterday, because the sports company Crain & Co did not get shut down at the Daily Wire but opted to leave on its own.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:02:16",
+      "investigative_direction": "Check Crain & Company's own announcement of its departure from the Daily Wire.",
+      "transcript_snippet": "Crain & Co actually opted to to leave on their own and now they are Crain & Co.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12964",
+      "ref": "C-12964",
+      "label": "Host Says Yesterday Was Her Top Merchandise Sales Day",
+      "claim": "The host says the previous day was the number one day of top merchandise sales, which she presents as a reply to a boycott.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:04:06",
+      "investigative_direction": "Ask the host's merchandise provider for the sales data.",
+      "transcript_snippet": "we did have the number one day our our top sales merchandising sales yesterday.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12965",
+      "ref": "C-12965",
+      "label": "Host Says TPUSA Wanted the Story to End With 'I Forgive Him' on September 21",
+      "claim": "The host says that Charlie Kirk keeps trending and that they wanted the story to end on September 21st with an 'I forgive him'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11304"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:06:23",
+      "investigative_direction": "Compare with the memorial's content and TPUSA's communications plans.",
+      "transcript_snippet": "and they wanted this story to end on September 21st with an I forgive him.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12966",
+      "ref": "C-12966",
+      "label": "Host Says She Does Not Think Tyler Robinson Did It",
+      "claim": "The host says she could probably get to forgiving Tyler Robinson too, because she does not think he did it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:06:23",
+      "investigative_direction": "Compare with the evidence gaps tracked on the Robinson node; this is the host's opinion stated as belief.",
+      "transcript_snippet": "I could probably get to forgiving Tyler Robinson, too, cuz I don't think he did it.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12967",
+      "ref": "C-12967",
+      "label": "Host Says She Knows Kirk Faking His Death Is Not True Because of One of Her Sources",
+      "claim": "The host says she knows the theory that Charlie Kirk faked his death and is still alive is not true because of one of her sources, and that she hoped it was true before she went to Wyoming.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11355"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:07:20",
+      "investigative_direction": "The source is unnamed; confirm against medical and funeral records.",
+      "transcript_snippet": "I just literally know it's not true because of one of my sources.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12968",
+      "ref": "C-12968",
+      "label": "Host Cites the Amount of Blood in the Car Against the Faked-Death Theory",
+      "claim": "The host says she does not think the faked-death theory fits the car and the amount of blood that was in it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11355"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:07:20",
+      "investigative_direction": "Review any photographs or reports of the vehicle; the host does not say how she knows the amount of blood.",
+      "transcript_snippet": "but not with the car and the even even the amount of blood that was in that car, you know.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12969",
+      "ref": "C-12969",
+      "label": "Host Says Whitney Houston's Daughter and Brittany Murphy Died Drowning in Bathtubs",
+      "claim": "The host says that Whitney Houston's daughter died drowning in a bathtub and that Brittany Murphy died drowning in a bathtub.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:08:10",
+      "investigative_direction": "Check the medical examiners' reports; the host hedges with 'I think'.",
+      "transcript_snippet": "I think her daughter died drowning in a bathtub. I think Brittany Murphy died drowning in a bathtub.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-30",
+      "ref": "M-30",
+      "canonical_term": "Nothing to See Here",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 99,
+          "video_timestamp": "00:00:53",
+          "speaker_node_ref": "N-3",
+          "quote": "But there's nothing to see, you guys, because Benjamin Netanyahu already said it.",
+          "context": "Host sarcastically opens by saying there is nothing to see because Netanyahu already denied Israel's involvement.",
+          "confidence": "high",
+          "tags": [
+            "nothing to see",
+            "sarcasm"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-45",
+      "ref": "M-45",
+      "canonical_term": "Spiritual Warfare",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 99,
+          "video_timestamp": "00:08:20",
+          "speaker_node_ref": "N-334",
+          "quote": "This is a spiritual war.",
+          "context": "In the clip the host plays, Coleman frames Kirk's death as a casualty of a spiritual war.",
+          "confidence": "high",
+          "tags": [
+            "spiritual war",
+            "Coleman clip"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-5",
+      "ref": "M-5",
+      "canonical_term": "happy coincidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 99,
+          "video_timestamp": "00:38:54",
+          "speaker_node_ref": "N-3",
+          "quote": "It's just it's a coincidence. It's all very interesting.",
+          "context": "Host sarcastically dismisses the timeline's alignment as coincidence.",
+          "confidence": "high",
+          "tags": [
+            "coincidence",
+            "sarcasm"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-43",
+      "ref": "M-43",
+      "canonical_term": "Community Notes for the Win",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 99,
+          "video_timestamp": "00:48:28",
+          "speaker_node_ref": "N-3",
+          "quote": "I love that it got community noted.",
+          "context": "Host celebrates the Community Note on Lively's statement.",
+          "confidence": "high",
+          "tags": [
+            "community notes"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 99,
+          "video_timestamp": "00:29:32",
+          "speaker_node_ref": "N-3",
+          "quote": "I'll say allegedly here",
+          "context": "Host hedges the Kolvet family-source claim.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
+          ]
+        },
+        {
+          "episode": 99,
+          "video_timestamp": "00:59:24",
+          "speaker_node_ref": "N-3",
+          "quote": "This is my opinion, allegedly, allegedly.",
+          "context": "Host hedges her opinion on Mikey McCoy.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-153",
+      "ref": "M-153",
+      "canonical_term": "Sentencing TPUSA to More Truth",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 99,
+          "video_timestamp": "01:06:23",
+          "speaker_node_ref": "N-3",
+          "quote": "I love the truth she's sentencing people to.",
+          "context": "Host reads a viewer comment praising the truth she is 'sentencing people to'.",
+          "confidence": "high",
+          "tags": [
+            "sentencing",
+            "viewer comment"
+          ]
+        }
+      ]
+    }
+  ]
 }

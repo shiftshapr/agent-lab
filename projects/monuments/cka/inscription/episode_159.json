@@ -13,7 +13,7 @@
     "transcript_sha256": "a00b5df7209a7d2176cb96203718b03c467301aebcd1dcedd5b1d5a062ff4588",
     "analysis_date": "2026-10-02"
   },
-  "executive_summary": "Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Why Refi (Y Refi) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)–timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Why Refi, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnny Moore–Kovette Chyros links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam–plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.\n\n---",
+  "executive_summary": "Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Why Refi (Y Refi) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)–timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Why Refi, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnny Moore–Kolvet Chyros links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam–plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -692,9 +692,9 @@
       "@type": "Person",
       "@id": "N-98",
       "ref": "N-98",
-      "name": "Bob Shulman",
+      "name": "Robert Shillman",
       "type": "person",
-      "description": "Named among donors pulling millions after SAS/Tucker Epstein remarks (host “Bob Showman” pronunciation).",
+      "description": "Named among donors pulling millions after SAS/Tucker Epstein remarks (host “Bob Shillman” pronunciation).",
       "related_artifacts": [],
       "related_claims": [
         "C-3610",
@@ -811,7 +811,7 @@
       "ref": "N-443",
       "name": "Johnny Moore",
       "type": "person",
-      "description": "Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kovette/Chyros partnership.",
+      "description": "Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kolvet/Chyros partnership.",
       "related_artifacts": [],
       "related_claims": [
         "C-3611"
@@ -2781,7 +2781,7 @@
       "@id": "C-3616",
       "ref": "C-3616",
       "label": "Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account",
-      "claim": "Viewer note + host source claim that Charlie had two Telegram accounts–one American-flag shared account and one personal–and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.",
+      "claim": "Viewer note + host source claim that Charlie had two Telegram accounts–one American-flag shared account and one personal–and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kolvet/friendly media.",
       "anchored_artifacts": [
         "A-2473.1",
         "A-2466.1"
@@ -3049,8 +3049,8 @@
       "@type": "Claim",
       "@id": "C-6363",
       "ref": "C-6363",
-      "label": "Host says Zionist donors pulled out in July over Charlie's shifting Israel stance, including Bob Shulman for millions",
-      "claim": "The host says Zionist donors pulled out in July because of Charlie's shifting stance on Israel, that Bob Shulman pulled millions, that others also pulled millions, and that Charlie wanted to make up the money elsewhere.",
+      "label": "Host says Zionist donors pulled out in July over Charlie's shifting Israel stance, including Bob Shillman for millions",
+      "claim": "The host says Zionist donors pulled out in July because of Charlie's shifting stance on Israel, that Bob Shillman pulled millions, that others also pulled millions, and that Charlie wanted to make up the money elsewhere.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10036",
@@ -3059,7 +3059,7 @@
       "tags": [],
       "claim_timestamp": "00:07:32",
       "investigative_direction": "Identify the donors, amounts and dates of withdrawn gifts through TPUSA or Turning Point Action filings and donor-side confirmation.",
-      "transcript_snippet": "when Bob Showman pulled millions, and he wasn't the only one who pulled millions, others did as well, Charlie was wanting to make up that money elsewhere.",
+      "transcript_snippet": "when Bob Shillman pulled millions, and he wasn't the only one who pulled millions, others did as well, Charlie was wanting to make up that money elsewhere.",
       "supports_claim_refs": [
         "C-1559"
       ],
@@ -3102,7 +3102,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
-      "investigative_direction": "Compare the timing of Bob Shulman's withdrawal with the July 25, 2025 addendum payment schedule and wire records.",
+      "investigative_direction": "Compare the timing of Bob Shillman's withdrawal with the July 25, 2025 addendum payment schedule and wire records.",
       "transcript_snippet": "the company Y Refi came in with a ton a ton of extra money and they had also, you know, in this nice offer to make up some of the lost revenue.",
       "supports_claim_refs": [
         "C-6363"
@@ -3530,7 +3530,7 @@
       "tags": [],
       "claim_timestamp": "00:23:22",
       "investigative_direction": "Verify chapter reactivation and the Turek event date via university and TPUSA chapter records.",
-      "transcript_snippet": "February 11th, we have that TPUSA reopens their shuttered chapter at the University of Nebraska. Lincoln. February 12th, Frank Turk speaks at the University of Nebraska Lincoln.",
+      "transcript_snippet": "February 11th, we have that TPUSA reopens their shuttered chapter at the University of Nebraska. Lincoln. February 12th, Frank Turek speaks at the University of Nebraska Lincoln.",
       "mentions_person_refs": [
         "N-7"
       ]
@@ -3550,7 +3550,7 @@
       "tags": [],
       "claim_timestamp": "00:23:22",
       "investigative_direction": "Obtain the host's message or call records from February 24, 2025 and Macron's White House visit schedule.",
-      "transcript_snippet": "February 24th, Charlie Kirk contacts Canace and says Emanuel Mcronone has asked the White House for her to stop discussing Breijgit.",
+      "transcript_snippet": "February 24th, Charlie Kirk contacts Canace and says Emmanuel Macron has asked the White House for her to stop discussing Brigitte.",
       "mentions_person_refs": [
         "N-1",
         "N-3",
@@ -3573,7 +3573,7 @@
       "tags": [],
       "claim_timestamp": "00:23:22",
       "investigative_direction": "Obtain the host's call log and any contemporaneous messages or witnesses; ask Gor's office to confirm or deny the call.",
-      "transcript_snippet": "February 25th, Sergio Gor, one that Erika is going to see off to India following Charlie's assassination, calls Candace and asks her to stop discussing Breijgit Mcronone as a favor to President Trump.",
+      "transcript_snippet": "February 25th, Sergio Gor, one that Erika is going to see off to India following Charlie's assassination, calls Candace and asks her to stop discussing Brigitte Macron as a favor to President Trump.",
       "mentions_person_refs": [
         "N-16",
         "N-3",
@@ -3595,7 +3595,7 @@
       "tags": [],
       "claim_timestamp": "00:23:22",
       "investigative_direction": "Obtain the host's call records for February 26, 2025 and any contemporaneous message or witness.",
-      "transcript_snippet": "February 26th, the Trump calls Candace and asks her to stop speaking about Breijgit Mcronone.",
+      "transcript_snippet": "February 26th, the Trump calls Candace and asks her to stop speaking about Brigitte Macron.",
       "mentions_person_refs": [
         "N-5",
         "N-3",
@@ -3769,7 +3769,7 @@
       "@id": "C-6398",
       "ref": "C-6398",
       "label": "Host says Charlie told Tucker Carlson to go max on Epstein at the Student Action Summit and Zionist donors freaked out",
-      "claim": "The host says that at the July 11 Student Action Summit Charlie told Tucker Carlson to go max on Epstein and the Zionist owners freaked out, with Bob Shulman and others pulling millions.",
+      "claim": "The host says that at the July 11 Student Action Summit Charlie told Tucker Carlson to go max on Epstein and the Zionist owners freaked out, with Bob Shillman and others pulling millions.",
       "anchored_artifacts": [
         "A-2469.1"
       ],
@@ -3804,7 +3804,7 @@
       "tags": [],
       "claim_timestamp": "00:27:34",
       "investigative_direction": "Review the July 11, 2025 Tucker Carlson SAS speech video and transcript.",
-      "transcript_snippet": "He says that people who serve in foreign armies should be stripped of their citizenship. He muses about where Bill Aman's wealth comes from.",
+      "transcript_snippet": "He says that people who serve in foreign armies should be stripped of their citizenship. He muses about where Bill Ackman's wealth comes from.",
       "supports_claim_refs": [
         "C-1559"
       ],
@@ -3827,7 +3827,7 @@
       "tags": [],
       "claim_timestamp": "00:28:21",
       "investigative_direction": "Check Wayback Machine captures of Turek's site around July 11, 2025.",
-      "transcript_snippet": "July 11th, we've noted that Frank Turk deletes his website, frank. com.",
+      "transcript_snippet": "July 11th, we've noted that Frank Turek deletes his website, frank. com.",
       "mentions_person_refs": [
         "N-7"
       ]
@@ -4245,7 +4245,7 @@
       "tags": [],
       "claim_timestamp": "00:34:39",
       "investigative_direction": "Review the August 6, 2025 Megyn Kelly Show episode.",
-      "transcript_snippet": "August 6th, obviously Charlie goes on Megan Kelly show where he explains what happened or alludes to what happened in the Hamptons and says that people are calling him an anti-semite.",
+      "transcript_snippet": "August 6th, obviously Charlie goes on Megyn Kelly show where he explains what happened or alludes to what happened in the Hamptons and says that people are calling him an anti-semite.",
       "mentions_person_refs": [
         "N-1",
         "N-46"

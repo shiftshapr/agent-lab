@@ -302,7 +302,7 @@ Placed by the host on the Superfeed board with Lori Frantzve.
 
 **N-14** Andrew Kolvet
 
-Transcript spellings "Andrew Colbet", "Andrew Cole" and "Andrew Kolb". The host says he coordinated Erika Kirk's Fort Huachuca alibi with Gary Melton and said TPUSA declined deepfake offers.
+Transcript spellings "Andrew Colbet", "Andrew Cole" and "Andrew Kolvet". The host says he coordinated Erika Kirk's Fort Huachuca alibi with Gary Melton and said TPUSA declined deepfake offers.
 
 *Related: C-4039, C-4040, C-4042, C-4043, C-4053, C-4057, A-2570.2, A-2570.3, A-2572.3*
 
@@ -319,7 +319,7 @@ The host dates Charlie Kirk's use of plane N582MM to after McCoy became chief of
 
 **N-215** Jesse Watters
 
-Transcript spelling "Jesse Waters". Erika Kirk's interview with him is cited for the Colorado State University plan and for Charlie Kirk being in the office on September 9.
+Transcript spelling "Jesse Watters". Erika Kirk's interview with him is cited for the Colorado State University plan and for Charlie Kirk being in the office on September 9.
 
 *Related: C-4020, C-4043, A-2570.2*
 
@@ -783,7 +783,7 @@ Claim Timestamp: 00:09:26
 
 Claim: The host says that after Charis Bible College, Charlie Kirk was due to meet Erika Kirk at Colorado State University in Fort Collins, which she says Erika Kirk confirmed to Jesse Watters.
 
-Transcript Snippet: Charlie was due to meet up as we learned with Erika at Colorado State University, which is situated at Fort Collins. Um Erika confirmed that in her sit-down with Jesse Waters.
+Transcript Snippet: Charlie was due to meet up as we learned with Erika at Colorado State University, which is situated at Fort Collins. Um Erika confirmed that in her sit-down with Jesse Watters.
 
 Anchored Artifacts:
 Mentions: N-1, N-2, N-215
@@ -1124,7 +1124,7 @@ Claim Timestamp: 00:30:57
 
 Claim: The host says Erika Kirk has never publicly claimed she was at the office with Charlie Kirk on September 9; she told Jesse Watters that Charlie Kirk was in the office all day. The host says she texted Kolvet and Justin Streiff about the discrepancy.
 
-Transcript Snippet: She has never made that claim publicly. Actually, the exact opposite thing is what she tells Jesse Waters, that Charlie was in the office all day.
+Transcript Snippet: She has never made that claim publicly. Actually, the exact opposite thing is what she tells Jesse Watters, that Charlie was in the office all day.
 
 Anchored Artifacts: A-2570.2
 Mentions: N-2, N-215, N-1, N-14, N-15, N-3
@@ -1276,7 +1276,7 @@ Claim Timestamp: 00:42:46
 
 Claim: The host says Andrew Kolvet acknowledged that TPUSA met with people who said they could make deepfakes of Charlie Kirk and that TPUSA declined.
 
-Transcript Snippet: Andrew Kolb did say they met with people that said they could do all these deep fakes of Charlie and they declined.
+Transcript Snippet: Andrew Kolvet did say they met with people that said they could do all these deep fakes of Charlie and they declined.
 
 Anchored Artifacts:
 Mentions: N-14, N-1
@@ -1525,7 +1525,7 @@ Confidence: high
 - **Artifacts referenced but not shown**: Victor Marx's Instagram reply to the host (01:59) and his video announcing Charlie Kirk's death are mentioned only. Trump's Time magazine post (00:01) is described, not shown. The September 10 flight data for N582MM (A-2568.1) is described with "you can see", but no on-screen text is read, so it carries Medium confidence. The Evergreen sheriff's document release and October 10 update are described, not shown.
 - **Possible duplicate node**: N-10903 (N582MM TPUSA-Associated Plane Flight Pattern) matches N-10903 in staged episode 084, which also tracked N582MM's Pierre–Chicago–Provo route on September 10. That node has no global id in nodes.tsv yet, so the integrator should merge the two. Ep 084's placeholder claims on the same route (Baron Coleman's tracking) cannot be linked as Supports until they have global ids.
 - **Inconsistency in the host's account**: she says Charlie Kirk used N582MM for "basically all of 2023" and then "all through 2025" (09:26–10:19). The tail number is first read as "9582 MM" and later as "N582 MM". Both are preserved as spoken.
-- **Name matching**: "Andrew Colbet", "Andrew Cole" and "Andrew Kolb" are mapped to N-14 Andrew Kolvet. "Justin Streiff" maps to N-15 (alias). "Jesse Waters" maps to N-215. Gary Melton is also transcribed "Gary Moulton" and "Gary Mountain" and is minted as N-622; Paramount Tactical is matched to the org N-10899 Paramount Tactical Valhalla. "Colby Hall" (22:06) is taken as Corby Hall but is not cited. "Victor Marks" (22:50) is Victor Marx. "Larry Loomer" (00:01) is presumably Laura Loomer, but she is not cited. "Dick Shirley" (45:48) is presumably Nick Shirley, also not cited. "Ericka" is Erika Kirk.
+- **Name matching**: "Andrew Colbet", "Andrew Cole" and "Andrew Kolvet" are mapped to N-14 Andrew Kolvet. "Justin Streiff" maps to N-15 (alias). "Jesse Watters" maps to N-215. Gary Melton is also transcribed "Gary Moulton" and "Gary Mountain" and is minted as N-622; Paramount Tactical is matched to the org N-10899 Paramount Tactical Valhalla. "Colby Hall" (22:06) is taken as Corby Hall but is not cited. "Victor Marx" (22:50) is Victor Marx. "Larry Loomer" (00:01) is presumably Laura Loomer, but she is not cited. "Dick Shirley" (45:48) is presumably Nick Shirley, also not cited. "Ericka" is Erika Kirk.
 - **Name correction**: the host says "Jessica Garza" ("I believe her name was"); the Aurora victim who survived the 2012 Toronto Eaton Centre food-court shooting is Jessica Ghawi (Redfield), already node N-484 from episode 60. Transcript spelling kept in snippets; "Jessica Garza" is an alias.
 - **Transcription ambiguities**: "Fort Wat Chuca" is Fort Huachuca. "Smith & Wesson.38" is kept as written. "Deshaun Holly" and "Holly Desmond Holly" refer to Desmond Holly. "Matthew Stone" (18:49) is taken as Matthew Silverstone. "Delmer Martinez" is Delmer Martinez. The email address is transcribed "more tips@canasown. com". "Pride of Charlie" (50:23) is probably the Bride of Charlie series. "they act Superfeed" is garbled.
 - **DIA scan**: one real hit, "more tips@canasown. com" at 53:58 (C-4059, A-2573.1, M-12). The 04:29 remark "I received a few tips into our inbox" relays tips already received rather than asking for or paying off a tip, and matches none of the scan phrases, so it is recorded only as C-4012, not as a DIA beat. The Candace Intelligence Agency merch phrase does not air (no M-14).

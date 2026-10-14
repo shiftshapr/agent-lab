@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-1596.1",
           "ref": "A-1596.1",
-          "description": "Sean Ryan interview segment with Brian Herpolsheimer discussing pre-planning and intelligence-gathering timelines (the 24th of month prior, decentralized command model)",
+          "description": "Shawn Ryan interview segment with Brian Herpolsheimer discussing pre-planning and intelligence-gathering timelines (the 24th of month prior, decentralized command model)",
           "related_claims": [
             "C-2026"
           ],
@@ -839,7 +839,7 @@
       "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
-      "description": "Security contractor interviewed by Sean Ryan about pre-planning for Charlie Kirk events. Name appears inconsistently in the episode as both \"Harpole\" and \"Herpolsheimer.\"",
+      "description": "Security contractor interviewed by Shawn Ryan about pre-planning for Charlie Kirk events. Name appears inconsistently in the episode as both \"Harpole\" and \"Herpolsheimer.\"",
       "related_artifacts": [
         "A-1596.1"
       ],
@@ -1392,7 +1392,7 @@
       "ref": "N-10401",
       "name": "Romania / Eastern Europe Trafficking Cluster",
       "type": "investigation_target",
-      "description": "Persistent investigation target aggregating Tyler Bowyer's 2011 Romania trip, Romanian Angels project (Lori Frandsen charity), Colonel Otto Buscher brothel allegations, Greg Laurie's Harvest Church, and Andrew Piscatello's Ukrainian trafficking warnings.",
+      "description": "Persistent investigation target aggregating Tyler Bowyer's 2011 Romania trip, Romanian Angels project (Lori Frantzve charity), Colonel Otto Buscher brothel allegations, Greg Laurie's Harvest Church, and Andrew Piscatello's Ukrainian trafficking warnings.",
       "related_artifacts": [
         "A-1597.1"
       ],
@@ -1722,7 +1722,7 @@
       "@type": "Person",
       "@id": "N-118",
       "ref": "N-118",
-      "name": "Marissa Strait",
+      "name": "Marissa Streit",
       "type": "person",
       "description": "PragerU CEO who introduced the host to Operation Underground.",
       "related_artifacts": [],
@@ -1861,7 +1861,7 @@
       "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
-      "description": "Podcast host who interviewed Brian Herpolsheimer; the clip is replayed (spelled Sean Ryan in the transcript).",
+      "description": "Podcast host who interviewed Brian Herpolsheimer; the clip is replayed (spelled Shawn Ryan in the transcript).",
       "related_artifacts": [],
       "related_claims": [
         "C-8126",
@@ -2530,7 +2530,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10681",
       "ref": "N-10681",
-      "name": "Sean Ryan Show Interview Clip Bundle",
+      "name": "Shawn Ryan Show Interview Clip Bundle",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -2951,7 +2951,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:30",
-      "investigative_direction": "Obtain the full Sean Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.",
+      "investigative_direction": "Obtain the full Shawn Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.",
       "mentions_person_refs": [
         "N-270",
         "N-1"

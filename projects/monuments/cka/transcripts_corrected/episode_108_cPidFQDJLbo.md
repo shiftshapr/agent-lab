@@ -119,7 +119,7 @@ Learned that I hadn't shared. I actually learned this some time ago, but today f
 
 [17:28]
 
-Like I said, I trust the sources on this one. So, how are we to interpret that? Okay, we have we have two options here. Neither one of them is particularly a positive outcome for Erika, I might add. Option one is that Erika was lying when she shared this information, okay? Perhaps, that's totally plausible. She said it out of insecurity, feeling that people might wonder why she was taking over his entire company. Right? But remarkably, despite having the ability to present that in his will, a corporate will, his personal will, to say I express this is my desire, Charlie hadn't particularly documented that desire, or else we would have been told that. So, this would sort of rank similar to her telling Megan Kelly that Charlie had only just expressed an aspirin three weeks before his untimely death.
+Like I said, I trust the sources on this one. So, how are we to interpret that? Okay, we have we have two options here. Neither one of them is particularly a positive outcome for Erika, I might add. Option one is that Erika was lying when she shared this information, okay? Perhaps, that's totally plausible. She said it out of insecurity, feeling that people might wonder why she was taking over his entire company. Right? But remarkably, despite having the ability to present that in his will, a corporate will, his personal will, to say I express this is my desire, Charlie hadn't particularly documented that desire, or else we would have been told that. So, this would sort of rank similar to her telling Megyn Kelly that Charlie had only just expressed an aspirin three weeks before his untimely death.
 
 [18:19]
 
@@ -147,7 +147,7 @@ If Erika is telling the truth, I cannot think of a life event that would have wa
 
 [23:50]
 
-Right? Were his communications being monitored? He tried to carve out an appointment because he was fearful of some death event, as he expressed. And did he try to to radically then shift learning that he had suspected somebody was taking money, siphoning money out of Turning Point USA, that his life was not what he thought it was? He's asking, "I want Candace back." Why? Why does he want Candace back? Because I told him not to trust any of those people. All of the people that the world now sees are the snakes that were in Charlie's garden. I saw them first, and I warned Charlie about those people. So, what happened? Were they monitoring? I think they were. I I believe I know everyone had access to everything. Andrew Kolb was running his Twitter.
+Right? Were his communications being monitored? He tried to carve out an appointment because he was fearful of some death event, as he expressed. And did he try to to radically then shift learning that he had suspected somebody was taking money, siphoning money out of Turning Point USA, that his life was not what he thought it was? He's asking, "I want Candace back." Why? Why does he want Candace back? Because I told him not to trust any of those people. All of the people that the world now sees are the snakes that were in Charlie's garden. I saw them first, and I warned Charlie about those people. So, what happened? Were they monitoring? I think they were. I I believe I know everyone had access to everything. Andrew Kolvet was running his Twitter.
 
 [24:28]
 

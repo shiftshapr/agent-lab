@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-860, N-861, N-862, N-11237, N-11238, N-11239, N-11240, N-11241, N-11242
+  - Tip-minted Nodes (supplement_2026-10d): N-860, N-861, N-862, N-11237, N-11239, N-11240, N-11241, N-11242
   - Hole-minted Nodes (reintro-ep058): N-535, N-10428, N-10472
   - Tip-minted Nodes (reintro-ep058): N-731, N-779, N-11126
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9830–C-9912
   - New Nodes Introduced: N-465, N-466, N-467, N-468, N-469, N-470, N-471, N-472, N-473, N-474, N-475, N-10418, N-10419, N-10420, N-10421, N-10423
-  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-241, N-282, N-329, N-366, N-456, N-457, N-462, N-760, N-808, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167
+  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-241, N-282, N-329, N-366, N-456, N-457, N-462, N-760, N-808, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167, N-11238
   - (see registers)
 
 ## 2. Executive Summary
@@ -1793,7 +1793,7 @@ Investigative Direction: Publish the chart nodes with sources so each strand can
 
 Claim Timestamp: 00:14:50
 
-Claim: The host says Turning Point Faith works with Pastor Greg Laurie, whose church is accused of trafficking children from Romania, and that pastor Paul Habsgard is accused of having helped facilitate it in a case still moving through court.
+Claim: The host says Turning Point Faith works with Pastor Greg Laurie, whose church is accused of trafficking children from Romania, and that pastor Paul Havsgaard is accused of having helped facilitate it in a case still moving through court.
 
 Transcript Snippet: Turning Point Faith working with this Pastor Greg Laurie, whose church is being accused of trafficking children from Romania.
 
@@ -1995,7 +1995,7 @@ Claim Timestamp: 00:23:20
 
 Claim: The host says she did not know who the donor was but knew they were also feeding information to Bari Weiss.
 
-Transcript Snippet: I knew that they were um feeding information also to Barry Weiss
+Transcript Snippet: I knew that they were um feeding information also to Bari Weiss
 
 Anchored Artifacts: 
 Mentions: N-282, N-3

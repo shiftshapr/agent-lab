@@ -69,7 +69,7 @@ Confidence: high
 
 Video Timestamp: 00:07:25
 Speaker: N-3
-Quote: Jeremy Boring is Ted Bundy doing a Mr. Rogers impression
+Quote: Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression
 Context: Host repeats Shane Cashman (N-612) line about Boreing.
 Tags: boreing, daily_wire
 Confidence: high
@@ -186,7 +186,7 @@ Episode 151 is a multi-segment episode anchored on the one-year anniversary of t
 
 The episode also registers a cluster of Turning Point USA and adjacent social-media artifacts posted in response to the alleged September 13, 2026 vandalism of a Charlie Kirk statue at TPUSA headquarters, including statements from Andrew Kolvet, Tyler Bowyer, and Erica Kirk that pivot toward fundraising via TP Action's Commit 100 / ballot-chasing program. Candace rejects the partisan attribution and the fundraising pivot, and demands the release of on-campus surveillance footage.
 
-Investigatively, the episode advances three open threads: (1) the Farnsworth timeline and alleged post-event digital activity; (2) the CPR discrepancy and Frank Turek's shifting characterization of his own account; (3) emerging Tempenogos Hospital allegations, including a still-unnamed doctor said to have recused himself and a nurse-claim that a chest saw was requested. None of the Tempenogos medical claims is anchored to a displayed artifact in this episode; they are flagged for verification.
+Investigatively, the episode advances three open threads: (1) the Farnsworth timeline and alleged post-event digital activity; (2) the CPR discrepancy and Frank Turek's shifting characterization of his own account; (3) emerging Timpanogos Hospital allegations, including a still-unnamed doctor said to have recused himself and a nurse-claim that a chest saw was requested. None of the Timpanogos medical claims is anchored to a displayed artifact in this episode; they are flagged for verification.
 
 ---
 
@@ -497,9 +497,9 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10828** Tempenogos Doctor Recusal Mystery
+**N-10828** Timpanogos Doctor Recusal Mystery
 
-Investigation target referenced from prior episode: an unnamed doctor said to have been present during surgery on Charlie at Tempenogos and to have recused himself from files due to an in-room event. Host is still seeking a second corroborating source.
+Investigation target referenced from prior episode: an unnamed doctor said to have been present during surgery on Charlie at Timpanogos and to have recused himself from files due to an in-room event. Host is still seeking a second corroborating source.
 
 Evidence Count: 0 (in this episode)
 Claim Count: 0 (in this episode)
@@ -510,9 +510,9 @@ Investigative Pressure: High
 
 ---
 
-**N-10829** Tempenogos Nurse "Chest Saw" Allegation
+**N-10829** Timpanogos Nurse "Chest Saw" Allegation
 
-Investigation target: an alleged Tempenogos nurse who reports that an out-of-norm request was made for a chest saw during the Charlie Kirk ER episode. Host explicitly tags as "allegedly" and notes she is still working to verify.
+Investigation target: an alleged Timpanogos nurse who reports that an out-of-norm request was made for a chest saw during the Charlie Kirk ER episode. Host explicitly tags as "allegedly" and notes she is still working to verify.
 
 Evidence Count: 0 (in this episode)
 Claim Count: 0 (in this episode)
@@ -1562,7 +1562,7 @@ Claim Timestamp: 00:24:10
 
 Claim: The host says her questions about what took place at the hospital and why people were wearing scrubs when they returned include Frank Turek, whose memory-lapse story she does not buy.
 
-Transcript Snippet: what took place at the hospital and why people were wearing scrubs when they returned. And that includes Frank Turk
+Transcript Snippet: what took place at the hospital and why people were wearing scrubs when they returned. And that includes Frank Turek
 
 Anchored Artifacts: 
 Mentions: N-7
@@ -1892,8 +1892,8 @@ Investigative Direction: Find witnesses or messages in which Kirk questioned TPU
 
 ## VI. Optional Flags
 
-- Name uncertainty: "Blake Harif" vs "Blake Hariff" used inconsistently within the same segment; "Temponogus Hospital" / "Tempenogos" / "Tempenogo PD" appear interchangeably; "Erica Kirk" vs "Erika Kirk" used interchangeably by host.
-- Artifact verbally referenced but not shown: the Tempenogos nurse's email regarding a chest saw request; the viewer emails identifying the matching security-detail shoes as electrical-hazard models; the unnamed doctor's recusal referenced as carry-over from prior episode; the original SD-card / thumb-drive chain-of-custody record.
+- Name uncertainty: "Blake Harif" vs "Blake Hariff" used inconsistently within the same segment; "Temponogus Hospital" / "Timpanogos" / "Tempenogo PD" appear interchangeably; "Erica Kirk" vs "Erika Kirk" used interchangeably by host.
+- Artifact verbally referenced but not shown: the Timpanogos nurse's email regarding a chest saw request; the viewer emails identifying the matching security-detail shoes as electrical-hazard models; the unnamed doctor's recusal referenced as carry-over from prior episode; the original SD-card / thumb-drive chain-of-custody record.
 - Transcript ambiguity: host repeatedly references "agencies" and "the feds" without specifying FBI vs ATF vs other; "SBI" referenced in prior episodes – not re-identified in this episode.
 - Requires human verification: timestamps on displayed footage (e.g., ~11:53 AM, ~1:00 PM) are host characterizations; provenance and metadata of the "enhanced" footage was not disclosed in this episode.
 - Claim failed admission test (flagged, not inscribed): host statements characterizing TPUSA as "grifting," "fundraising off vandalism," or "lying" were not inscribed as claims because they are framing/interpretive commentary; the host's rejection of the partisan attribution is captured under C-3428 / C-3436 / C-3442 as the specific content being rejected rather than as a separate rhetorical claim.

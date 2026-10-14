@@ -13,11 +13,11 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11294, N-11295
   - Hole-minted Nodes (reintro-ep079): N-10544, N-10674
-  - Tip-minted Nodes (reintro-ep079): N-11057, N-11145
+  - Tip-minted Nodes (reintro-ep079): N-11145
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11235–C-11294
-  - New Nodes Introduced: N-597, N-598, N-600, N-10542
-  - Reused Nodes Appearing: N-102, N-5, N-383, N-10539, N-10540, N-599, N-601, N-10541, N-10543, N-2, N-4, N-9, N-37, N-40, N-46, N-182, N-208, N-248, N-272, N-396, N-526, N-10000, N-10082, N-10083, N-10132, N-10236, N-10237, N-10268, N-10386, N-10391, N-10406, N-10900, N-10962, N-11064, N-11096, N-11103, N-11128, N-11228
+  - New Nodes Introduced: N-597, N-600, N-10542
+  - Reused Nodes Appearing: N-102, N-5, N-383, N-10539, N-10540, N-599, N-601, N-10541, N-10543, N-2, N-4, N-9, N-37, N-40, N-46, N-182, N-208, N-248, N-272, N-396, N-526, N-10000, N-10082, N-10083, N-10132, N-10236, N-10237, N-10268, N-10386, N-10391, N-10406, N-10900, N-10962, N-11064, N-11096, N-11103, N-11128, N-11228, N-598, N-11057
   - (see registers)
 
 ## 6. Meme Register

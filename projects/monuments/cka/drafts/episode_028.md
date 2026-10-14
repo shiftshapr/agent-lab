@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-857, N-11231
-  - Hole-minted Nodes (reintro-ep028): N-380, N-10424, N-10451
+  - Hole-minted Nodes (reintro-ep028): N-380, N-10451
   - Tip-minted Nodes (reintro-ep028): N-11159
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9647–C-9697
@@ -75,7 +75,7 @@ Confidence: high
 
 Video Timestamp: 00:14:04
 Speaker: N-3
-Quote: he's now trying to struggle session Megan Kelly
+Quote: he's now trying to struggle session Megyn Kelly
 Context: Host's verb for coordinated pressure to make someone disavow or recant.
 Tags: new, running bit
 Confidence: high
@@ -142,16 +142,16 @@ Confidence: high
 - Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363
 - Claim Range: C-1636 – C-1651
   - New Nodes Introduced: N-238, N-239, N-10237, N-10238
-  - Reused Nodes Appearing: N-34, N-36, N-148, N-182, N-226, N-233, N-371, N-667, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boring, Marjorie Taylor Greene, Eric Trump, Laura Trump, Ron Paul, Seth Dylan (node IDs to be reconciled against full ledger)
+  - Reused Nodes Appearing: N-34, N-36, N-148, N-182, N-226, N-233, N-371, N-667, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boreing, Marjorie Taylor Greene, Eric Trump, Laura Trump, Ron Paul, Seth Dillon (node IDs to be reconciled against full ledger)
 
 ---
 
 ## II. Executive Summary
 
-This episode centers on Candace Owens' response to Ben Shapiro's public criticism of her during a Megyn Kelly stage appearance in Florida. The evidentiary material presented includes multiple audio clips played on air: Ben Shapiro's stage statements characterizing Owens' investigation as "evil" and asserting she accused Erika Kirk and Seth Dylan of involvement in Charlie Kirk's death; Tucker Carlson with Marjorie Taylor Greene discussing Zohran Mamdani's NYC mayoral primary win; a previously aired HuffPost article and corresponding audio of then-Daily Wire CEO Jeremy Boring praising Nick Fuentes on X Space; Candace Owens' own text-message exchange with Charlie Kirk (read aloud) discussing Shapiro's behind-the-scenes campaign against them; an audio clip from YWLS 2024 in which Owens identified a Daily Wire intern sent to record her; a CNN interview clip with Elle Reeve; and an audio segment of Eric and Laura Trump fielding a student question about Israel at a post-Charlie TPUSA event at Auburn University.
+This episode centers on Candace Owens' response to Ben Shapiro's public criticism of her during a Megyn Kelly stage appearance in Florida. The evidentiary material presented includes multiple audio clips played on air: Ben Shapiro's stage statements characterizing Owens' investigation as "evil" and asserting she accused Erika Kirk and Seth Dillon of involvement in Charlie Kirk's death; Tucker Carlson with Marjorie Taylor Greene discussing Zohran Mamdani's NYC mayoral primary win; a previously aired HuffPost article and corresponding audio of then-Daily Wire CEO Jeremy Boreing praising Nick Fuentes on X Space; Candace Owens' own text-message exchange with Charlie Kirk (read aloud) discussing Shapiro's behind-the-scenes campaign against them; an audio clip from YWLS 2024 in which Owens identified a Daily Wire intern sent to record her; a CNN interview clip with Elle Reeve; and an audio segment of Eric and Laura Trump fielding a student question about Israel at a post-Charlie TPUSA event at Auburn University.
 
-The episode advances several investigative threads relevant to the Bride of Charlie record: the characterization of Owens' TPUSA inquiry as "accusations of murder" against Erika Kirk and Seth Dylan (which she denies); the pattern of pro-Israel lobby figures appearing publicly to pressure neutral commentators (Megyn Kelly) into disavowals; and the broader claim that coordinated, non-organic audience operations are being deployed at conservative events. Structural importance is high because the episode introduces direct documentary material (text messages with Charlie Kirk, the YWLS intern callout, prior Shapiro statements) that intersects with the central Bride of Charlie line of inquiry into Erika Kirk and Turning Point USA.
+The episode advances several investigative threads relevant to the Bride of Charlie record: the characterization of Owens' TPUSA inquiry as "accusations of murder" against Erika Kirk and Seth Dillon (which she denies); the pattern of pro-Israel lobby figures appearing publicly to pressure neutral commentators (Megyn Kelly) into disavowals; and the broader claim that coordinated, non-organic audience operations are being deployed at conservative events. Structural importance is high because the episode introduces direct documentary material (text messages with Charlie Kirk, the YWLS intern callout, prior Shapiro statements) that intersects with the central Bride of Charlie line of inquiry into Erika Kirk and Turning Point USA.
 
 ---
 
@@ -222,7 +222,7 @@ Confidence Level: High (read aloud by named sender)
 
 ---
 
-### A-1358 HuffPost Article (Jeremy Boring / Nick Fuentes)
+### A-1358 HuffPost Article (Jeremy Boreing / Nick Fuentes)
 
 **A-1358.1** HuffPost article: "Daily Wire CEO tells white supremacist Nick Fuentes that he's talented and he's very funny"
 
@@ -231,19 +231,19 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (article read aloud in full excerpt)
-*Related: C-1640, C-1641, N-Jeremy Boring (existing), N-Nick Fuentes (existing), N-Daily Wire (existing institution)*
+*Related: C-1640, C-1641, N-Jeremy Boreing (existing), N-Nick Fuentes (existing), N-Daily Wire (existing institution)*
 
 ---
 
-### A-1359 Jeremy Boring / Nick Fuentes X Space Audio
+### A-1359 Jeremy Boreing / Nick Fuentes X Space Audio
 
-**A-1359.1** Audio clip: Jeremy Boring speaking with Nick Fuentes on X Space, hosted by Lauren Chen
+**A-1359.1** Audio clip: Jeremy Boreing speaking with Nick Fuentes on X Space, hosted by Lauren Chen
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:45
 Confidence Level: High (audio played on air)
-*Related: C-1640, C-1641, N-Jeremy Boring (existing), N-Nick Fuentes (existing), N-Daily Wire (existing)*
+*Related: C-1640, C-1641, N-Jeremy Boreing (existing), N-Nick Fuentes (existing), N-Daily Wire (existing)*
 
 ---
 
@@ -411,7 +411,7 @@ Investigative Pressure: Medium
 
 **N-10237** Shapiro Statement Accuracy Re: Owens' Accusations
 
-Verification target: whether Ben Shapiro's stage characterization that Candace Owens accused Erika Kirk and Seth Dylan of involvement in Charlie Kirk's murder is accurate. Owens denies the characterization in the same episode.
+Verification target: whether Ben Shapiro's stage characterization that Candace Owens accused Erika Kirk and Seth Dillon of involvement in Charlie Kirk's murder is accurate. Owens denies the characterization in the same episode.
 
 Evidence Count: 2
 Claim Count: 2
@@ -755,18 +755,18 @@ Investigative Direction: Pull transcripts of all Owens episodes cited by him and
 
 ---
 
-**C-1639** Shapiro Claims Owens Accused Seth Dylan of Murder Involvement
+**C-1639** Shapiro Claims Owens Accused Seth Dillon of Murder Involvement
 
 Claim Timestamp: 00:09:56–00:10:33
 
-Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing TPUSA insiders, including Seth Dylan, of being involved in Charlie Kirk's murder.
+Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing TPUSA insiders, including Seth Dillon, of being involved in Charlie Kirk's murder.
 
 Anchored Artifacts: A-1356.1
 Mentions: N-3, N-1, N-46, N-97, N-38
 
 Related Nodes: N-10237
 
-Investigative Direction: Identify the specific Owens episodes in which she discusses Seth Dylan and assess whether she characterizes him as involved in the killing versus as having lied or pressured Charlie.
+Investigative Direction: Identify the specific Owens episodes in which she discusses Seth Dillon and assess whether she characterizes him as involved in the killing versus as having lied or pressured Charlie.
 
 ---
 
@@ -774,7 +774,7 @@ Investigative Direction: Identify the specific Owens episodes in which she discu
 
 Claim Timestamp: 00:14:04
 
-Claim: According to the read-aloud HuffPost article, on March 25, 2025, then-Daily Wire CEO Jeremy Boring joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism.
+Claim: According to the read-aloud HuffPost article, on March 25, 2025, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism.
 
 Anchored Artifacts: A-1358.1, A-1359.1
 Mentions: N-205
@@ -789,7 +789,7 @@ Investigative Direction: Verify the original X Space audio against the HuffPost 
 
 Claim Timestamp: 00:14:04–00:15:45
 
-Claim: According to the read-aloud HuffPost article and corresponding audio, Jeremy Boring stated on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.
+Claim: According to the read-aloud HuffPost article and corresponding audio, Jeremy Boreing stated on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.
 
 Anchored Artifacts: A-1358.1, A-1359.1
 Mentions: N-205
@@ -951,7 +951,7 @@ Claim Timestamp: 00:02:12
 
 Claim: The host says that on stage with Megyn Kelly in Florida, Ben Shapiro set out to peer pressure Kelly into disavowing the host and Tucker Carlson by asking her to respond to things neither of them did or said.
 
-Transcript Snippet: I'm going to peer pressure Megan Kelly myself. I'm going to make her disavow me. Make her disavow Candace Owens.
+Transcript Snippet: I'm going to peer pressure Megyn Kelly myself. I'm going to make her disavow me. Make her disavow Candace Owens.
 
 Anchored Artifacts: A-1356.1
 Mentions: N-97, N-46, N-3, N-22
@@ -1076,9 +1076,9 @@ Investigative Direction: Compare with Kelly's later public statements on the Owe
 
 Claim Timestamp: 00:10:33
 
-Claim: The host says she never once accused Seth Dylan of murdering Charlie Kirk.
+Claim: The host says she never once accused Seth Dillon of murdering Charlie Kirk.
 
-Transcript Snippet: I never once accused Seth Dylan of murdering Charlie Kirk.
+Transcript Snippet: I never once accused Seth Dillon of murdering Charlie Kirk.
 
 Anchored Artifacts: A-1356.1
 Mentions: N-3, N-38, N-1
@@ -1093,9 +1093,9 @@ Investigative Direction: Search the host's episode transcripts for any statement
 
 Claim Timestamp: 00:10:33
 
-Claim: The host says that what she actually said about Seth Dylan is that he lied about the Hamptons meeting and was pressuring Charlie Kirk about the topic of Israel.
+Claim: The host says that what she actually said about Seth Dillon is that he lied about the Hamptons meeting and was pressuring Charlie Kirk about the topic of Israel.
 
-Transcript Snippet: Seth Dylan, I told the truth that Seth Dylan lied about the Hampton's meeting and that he was pushing uh he was pressuring Charlie about the topic of Israel.
+Transcript Snippet: Seth Dillon, I told the truth that Seth Dillon lied about the Hampton's meeting and that he was pushing uh he was pressuring Charlie about the topic of Israel.
 
 Anchored Artifacts: 
 Mentions: N-3, N-38, N-1
@@ -1126,9 +1126,9 @@ Investigative Direction: Review the host's earlier episodes for coverage of Erik
 
 Claim Timestamp: 00:12:33
 
-Claim: The host says Jeremy Boring, then CEO of the Daily Wire, joined an X Space hosted by Lauren Chen during the week she was fired from the Daily Wire.
+Claim: The host says Jeremy Boreing, then CEO of the Daily Wire, joined an X Space hosted by Lauren Chen during the week she was fired from the Daily Wire.
 
-Transcript Snippet: I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boring, jumped onto an Xspace hosted by Lauren Chen
+Transcript Snippet: I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an Xspace hosted by Lauren Chen
 
 Anchored Artifacts: A-1359.1
 Mentions: N-3, N-371, N-857
@@ -1301,7 +1301,7 @@ Investigative Direction: Find the date and transcript of Shapiro's Netanyahu int
 
 Claim Timestamp: 00:20:35
 
-Claim: The host says Nick Fuentes was an 18-year-old who started asking questions about Israel and was artificially pushed out of the market, and that she heard the backstory in Jeremy Boring's conversation with Fuentes.
+Claim: The host says Nick Fuentes was an 18-year-old who started asking questions about Israel and was artificially pushed out of the market, and that she heard the backstory in Jeremy Boreing's conversation with Fuentes.
 
 Transcript Snippet: He started asking questions about Israel and he got artificially pushed out of the market when he had his whole life ahead of him.
 

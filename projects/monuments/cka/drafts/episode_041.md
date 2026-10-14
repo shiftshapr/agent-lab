@@ -53,7 +53,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk)
 
 Episode 41 advances two of the series' core threads. First, the TPUSA/Candace debate exchange: Candace presents and reads in full two successive tweets from Blake Neff (TPUSA) – one issuing a midnight debate announcement with a 24-hour countdown for December 15 in Phoenix, and one declaring that TPUSA will "proceed without" Candace after she offered virtual participation. A shown text exchange with executive producer Skyler establishes the timeline of her learning about the announcement. Second, the "Egyptian planes" investigation advances materially: Candace introduces a new individual – "Wedi Machmood" – alleged to have been one of four passengers on the "yellow plane" SU-BND on September 10, 2025, and to have flown on a separate Egyptian military plane (SU-BTU) into Provo on May 27, 2025. She cites a tweet from researcher "Project Constitution" (read in its entirety) reporting that the Egyptian presidency website confirms President El-Sisi flew SU-BTU on April 3, 2023, and verbally references photographic evidence placing El-Sisi in Egypt on September 10 (ruling him out as the September 10 passenger).
 
-Secondary threads include: an audio clip of Pentagon correspondent Cam Higby asking the Pentagon press secretary about a French military plot to assassinate Candace (asserted by host to be on TPUSA payroll since August 2025); an audio clip of Ben Shapiro making a French-intelligence joke on Greg Gutfeld's show; an audio clip of Frank Turk asserting Charlie called Blake Neff "the smartest man I know"; and a Tim Pool clip calling Candace a "scumbag" and warning of midterm losses. The episode structurally consolidates the host's framing of TPUSA as engaged in a coordinated cover-up, while pressing the Egyptian-planes line toward a specific identity attribution question (Wedi Machmood).
+Secondary threads include: an audio clip of Pentagon correspondent Cam Higby asking the Pentagon press secretary about a French military plot to assassinate Candace (asserted by host to be on TPUSA payroll since August 2025); an audio clip of Ben Shapiro making a French-intelligence joke on Greg Gutfeld's show; an audio clip of Frank Turek asserting Charlie called Blake Neff "the smartest man I know"; and a Tim Pool clip calling Candace a "scumbag" and warning of midterm losses. The episode structurally consolidates the host's framing of TPUSA as engaged in a coordinated cover-up, while pressing the Egyptian-planes line toward a specific identity attribution question (Wedi Machmood).
 
 ---
 
@@ -125,9 +125,9 @@ Confidence Level: High (clip played on air)
 
 ---
 
-### A-1498 Frank Turk Testimonial Clip Bundle
+### A-1498 Frank Turek Testimonial Clip Bundle
 
-**A-1498.1** Frank Turk audio/video clip asserting Charlie Kirk told him Blake Neff was "the smartest man I know" / "secret weapon"
+**A-1498.1** Frank Turek audio/video clip asserting Charlie Kirk told him Blake Neff was "the smartest man I know" / "secret weapon"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -135,7 +135,7 @@ Video Timestamp: 00:28:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-1837, N-7 (Frank Turk, if not already existing)*
+*Related: C-1837, N-7 (Frank Turek, if not already existing)*
 
 ---
 
@@ -623,11 +623,11 @@ Investigative Direction: Verify clip against original Gutfeld show broadcast; co
 
 ---
 
-**C-1837** Frank Turk Testimonial on Blake Neff
+**C-1837** Frank Turek Testimonial on Blake Neff
 
 Claim Timestamp: 00:28:02
 
-Claim: Frank Turk states in a video testimonial that the night before Charlie Kirk's death, Kirk told him that Blake Neff was Kirk's "secret weapon" and "the smartest man I know."
+Claim: Frank Turek states in a video testimonial that the night before Charlie Kirk's death, Kirk told him that Blake Neff was Kirk's "secret weapon" and "the smartest man I know."
 
 Anchored Artifacts: A-1498.1
 Mentions: N-1, N-7, N-162
@@ -781,7 +781,7 @@ Claim Timestamp: 00:07:19
 
 Claim: The host says that on the TPUSA show that same day they had Andrew Kolvet joining them virtually, so they have the technical capability for a virtual guest.
 
-Transcript Snippet: In fact, today on their show, they had Andrew Kovette joining them virtually.
+Transcript Snippet: In fact, today on their show, they had Andrew Kolvet joining them virtually.
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
@@ -811,7 +811,7 @@ Claim Timestamp: 00:10:28
 
 Claim: The host says that Blake Neff name-called and that the pastors in TPUSA's orbit have been saying her questions are demonic and possessed.
 
-Transcript Snippet: All Blake Nef did was name call yesterday. All the pastors have been doing it's demonic. It's possessed.
+Transcript Snippet: All Blake Neff did was name call yesterday. All the pastors have been doing it's demonic. It's possessed.
 
 Anchored Artifacts: 
 Mentions: N-162, N-3

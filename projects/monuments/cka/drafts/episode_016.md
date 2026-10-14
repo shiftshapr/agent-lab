@@ -12,8 +12,13 @@
 - **Transcript SHA-256**: a67d2c57c7c81de9731b935fd270a362febe1186dc3ae158635d449cb863c772
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10f): N-911, N-11321
+  - Hole-minted Nodes (reintro-ep016): N-173, N-10176, N-10187, N-10206, N-10389, N-10424, N-10554, N-10598, N-10628, N-10641, N-10702, N-10735, N-10769
+  - Tip-minted Nodes (reintro-ep016): N-873, N-11013, N-11158
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10f): C-12061–C-12145
   - New Nodes Introduced: N-157, N-158, N-159, N-160, N-162, N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
-  - Reused Nodes Appearing: N-156
+  - Reused Nodes Appearing: N-156, N-4, N-5, N-11, N-27, N-30, N-38, N-46, N-49, N-50, N-82, N-99, N-119, N-126, N-205, N-208, N-10013, N-10018, N-10019, N-10032, N-10034, N-10041, N-10043, N-10044, N-10051, N-10056, N-10077, N-10085, N-10107, N-10118, N-10126, N-10133, N-10139, N-10143, N-10148, N-10151, N-10167, N-10270, N-10406
 - **Episode Number:** Monument Episode 16 (Batch 6, Candace Ep 249)
 - **Channel / Creator:** @RealCandaceO (Candace Owens)
 - **Episode Date:** 2025-10-07
@@ -34,13 +39,13 @@
 
 ## II. Executive Summary
 
-The episode is anchored by a major confirmation event: Turning Point USA spokesperson **Andrew Kovette**, appearing on the Charlie Kirk Show, publicly stated that the text-message chain previously released by Candace Owens is authentic and consistent with Kirk's private frustrations about Israel. Kovette's statement upgrades a previously contested private artifact to a TPUSA-internally-confirmed record, while also opening an internal contradiction: Kovette's "complicated/wrestle" framing of Kirk's Israel position directly conflicts with public statements from Josh Hammer, Laura Loomer, and Nick Fuentes asserting Kirk was firmly pro-Israel to his death.
+The episode is anchored by a major confirmation event: Turning Point USA spokesperson **Andrew Kolvet**, appearing on the Charlie Kirk Show, publicly stated that the text-message chain previously released by Candace Owens is authentic and consistent with Kirk's private frustrations about Israel. Kolvet's statement upgrades a previously contested private artifact to a TPUSA-internally-confirmed record, while also opening an internal contradiction: Kolvet's "complicated/wrestle" framing of Kirk's Israel position directly conflicts with public statements from Josh Hammer, Laura Loomer, and Nick Fuentes asserting Kirk was firmly pro-Israel to his death.
 
 A second evidentiary track is introduced through a **Piers Morgan interview with former Navy SEAL Robert J. O'Neill**, who questions the visible wound (exit vs. entry), the right-to-left shirt movement, and the rapid teardown/paving of the crime scene – three independent forensic-flag claims audio-anchored in the episode.
 
 A third track is the **John and Arena Mappin public letter** (TPUSA donors who helped launch Turning Point UK), read in full on air. The letter functions both as documentary evidence of donor-level dissent from TPUSA's public posture and as an artifact-anchored claim that senior Republicans and TPUSA donors privately agree with Candace but are afraid to speak publicly.
 
-Candace also delivers a series of **verbal testimonial reports** about: Lance Twiggs' raid/release timeline, illegal lock-change on the Tyler/Lance apartment, George Zinn's medical-staff payment statements, and Charlie's pre-death prediction of being killed (three unnamed witnesses + Frank Turk's podcast, the latter surfaced via a fan comment). These are inscribed as testimonial artifacts but flagged for follow-up verification.
+Candace also delivers a series of **verbal testimonial reports** about: Lance Twiggs' raid/release timeline, illegal lock-change on the Tyler/Lance apartment, George Zinn's medical-staff payment statements, and Charlie's pre-death prediction of being killed (three unnamed witnesses + Frank Turek's podcast, the latter surfaced via a fan comment). These are inscribed as testimonial artifacts but flagged for follow-up verification.
 
 The episode's structural importance in the Bride of Charlie series is the move from contested screenshot to TPUSA-internally-confirmed text record, plus the introduction of an independent (non-TPUSA-affiliated) former military witness questioning the forensic record.
 
@@ -106,7 +111,7 @@ Video Timestamp: 00:12:01
 Discovery Timestamp: 00:00:00–00:00:01
 *Related: C-1390, N-160*
 
-**A-1227.8** Misfit Patriot tweet offering "every shekele" if texts are fake, with Community Notes update citing Andrew Kovette's confirmation of the screen grab
+**A-1227.8** Misfit Patriot tweet offering "every shekele" if texts are fake, with Community Notes update citing Andrew Kolvet's confirmation of the screen grab
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -116,9 +121,9 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ---
 
-**A-1228** Andrew Kovette – Charlie Kirk Show Audio (2025-10-07)
+**A-1228** Andrew Kolvet – Charlie Kirk Show Audio (2025-10-07)
 
-**A-1228.1** Kovette confirms the text-message screen grab is authentic ("a text grab…that I had shared with people. So it is authentic")
+**A-1228.1** Kolvet confirms the text-message screen grab is authentic ("a text grab…that I had shared with people. So it is authentic")
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -126,7 +131,7 @@ Video Timestamp: 00:14:00
 Discovery Timestamp: 00:00:00–00:00:01
 *Related: C-1380, N-14*
 
-**A-1228.2** Kovette states he shared the screen grab with "some people in government" within the first 33 hours and "didn't know where it went from there"
+**A-1228.2** Kolvet states he shared the screen grab with "some people in government" within the first 33 hours and "didn't know where it went from there"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -142,7 +147,7 @@ Video Timestamp: 00:16:13
 Discovery Timestamp: 00:00:00–00:00:01
 *Related: C-1383, N-162*
 
-**A-1228.4** Kovette describes Charlie's feelings about Israel as "complicated," "nuanced," and a "wrestle that was going on for months," located between the BB Netanyahu letter and the text chain
+**A-1228.4** Kolvet describes Charlie's feelings about Israel as "complicated," "nuanced," and a "wrestle that was going on for months," located between the BB Netanyahu letter and the text chain
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -220,14 +225,14 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
-Confidence Level: High (Kovette-confirmed)
+Confidence Level: High (Kolvet-confirmed)
 *Related: C-1380, C-1382, N-14, N-1*
 
 ---
 
-**A-1233** Luna YouTube Comment Referencing Frank Turk Podcast
+**A-1233** Luna YouTube Comment Referencing Frank Turek Podcast
 
-**A-1233.1** Comment by user "Luna" stating Charlie told Dr. Frank Turk "they want him dead" shortly before his death, and that Frank shared this on his podcast following Kirk's death
+**A-1233.1** Comment by user "Luna" stating Charlie told Dr. Frank Turek "they want him dead" shortly before his death, and that Frank shared this on his podcast following Kirk's death
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -296,6 +301,112 @@ Video Timestamp: 00:36:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (tip-stage)
 *Related: C-1403, N-3, George Zinn (existing node), N-10170*
+
+---
+
+**A-3181** Host 2023 Producer Text Chain Bundle
+
+**A-3181.1** Text chain from 2023 between the host and her then-producer, shown on air as proof of a vivid dream
+
+Quoted text: "You texted me June 16th and I think I got pregnant June 26th. This is crazy."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:02:30
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-12063, N-3*
+
+---
+
+**A-3182** Ashton Forbes X Post Bundle
+
+**A-3182.1** X post by Ashton Forbes (shown with a reply by Mel) saying Candace has no credibility, calling Telegram chats scams and calling her audience a cult
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:07:45
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-12068, C-12069, C-12070, N-1, N-3, N-40, N-911, N-119, N-10206, N-11158*
+
+---
+
+**A-3183** Nick Fuentes Epiphany Post Bundle
+
+**A-3183.1** X post by Nick Fuentes saying Kirk had no choice but to lead the pro-Israel cause after a Jewish donor stopped giving millions
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:12:15
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-12080, N-1, N-205, N-10206*
+
+---
+
+**A-3184** Josh Hammer Letter Remarks Bundle
+
+**A-3184.1** Audio of Josh Hammer on a show describing Kirk's letter to Netanyahu and reading its opening line
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:24:50
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-12098, C-12099, N-1, N-36, N-55, N-10018*
+
+---
+
+**A-3185** Host Life-Insurance Package Bundle
+
+**A-3185.1** Host verbal reference to the package of messages and documents she sent to trusted people (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:26:25
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-12100, C-12101, C-12103, C-12104, C-12105, N-3, N-49, N-173, N-10176*
+
+---
+
+**A-3186** Viewer Comments Bundle
+
+**A-3186.1** Viewer comment from Jennifer asking about the security team, drones and drill run-through
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:57:55
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-12140, N-1, N-3, N-11321*
+
+---
+
+**A-3186.2** Viewer comment from Maheen Sadiki about the term Judeo-Christian
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:00:55
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-12142, N-3*
+
+---
+
+**A-3187** Decentralized Intelligence Agency Recruitment Bundle
+
+**A-3187.1** Host verbal reference to her decentralized 'CIA' network of viewers (verbal call to join)
+
+Quoted text: "joined our CIA, the decentralized, which is more of a threat, by the way."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:03:45
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-12144, N-3*
 
 ---
 
@@ -496,25 +607,538 @@ Investigative Pressure: High
 
 ---
 
-## V. Claim Register
+**N-1** Charlie Kirk
 
-**C-1380** Kovette confirmed text chain authentic
+Charlie Kirk; subject of the texts, the dream and the premonition accounts.
 
-Claim Timestamp: 00:14:00
-
-Claim: Turning Point USA spokesperson Andrew Kovette, on the Charlie Kirk Show, confirmed the text-message screen grab released by Candace Owens is authentic and was originally shared by him with others.
-
-Anchored Artifacts: A-1228.1, A-1227.8
-Mentions: N-1, N-3, N-14
-Investigative Direction: Obtain the full Charlie Kirk Show segment audio/video; cross-reference Kovette's stated timeline of sharing with "people in government" against any subsequent investigative filings.
+*Related: C-12062, C-12064, C-12066, C-12069, C-12080, C-12081, C-12084, C-12085, C-12087, C-12088, C-12089, C-12090, C-12092, C-12093, C-12094, C-12096, C-12097, C-12098, C-12099, C-12106, C-12107, C-12108, C-12111, C-12112, C-12113, C-12114, C-12130, C-12131, C-12134, C-12137, C-12138, C-12139, C-12140, C-12143*
 
 ---
 
-**C-1381** Kovette shared screen grab with government figures within 33 hours
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-12061, C-12062, C-12063, C-12064, C-12065, C-12066, C-12067, C-12068, C-12070, C-12073, C-12074, C-12075, C-12076, C-12077, C-12079, C-12081, C-12082, C-12083, C-12090, C-12091, C-12092, C-12094, C-12095, C-12096, C-12097, C-12100, C-12101, C-12102, C-12103, C-12104, C-12105, C-12110, C-12111, C-12112, C-12113, C-12114, C-12115, C-12117, C-12118, C-12119, C-12120, C-12122, C-12124, C-12126, C-12127, C-12128, C-12129, C-12130, C-12132, C-12133, C-12136, C-12137, C-12138, C-12139, C-12140, C-12141, C-12142, C-12144, C-12145*
+
+---
+
+**N-4** JD Vance
+
+JD Vance; named in the Mappin letter as the vice presidential nominee Kirk worked for.
+
+*Related: C-12134*
+
+---
+
+**N-5** Donald Trump
+
+Donald Trump; the host says his non-reaction upsets her.
+
+*Related: C-12130*
+
+---
+
+**N-11** Tyler Bowyer
+
+Tyler Bowyer; the host says he impugns people asking questions.
+
+*Related: C-12093*
+
+---
+
+**N-27** Kanye West
+
+Kanye West; the host says he was right about what it takes to leave.
+
+*Related: C-12102*
+
+---
+
+**N-30** George (Candace's husband)
+
+The host's husband George, named in her account of when she first learned Kirk was betrayed and where she first saw him.
+
+*Related: C-12066, C-12132*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Benjamin Netanyahu; recipient of the letter Hammer describes.
+
+*Related: C-12098, C-12099*
+
+---
+
+**N-38** Seth Dillon
+
+Seth Dillon; the host says Britta used to work for him.
+
+*Related: C-12071*
+
+---
+
+**N-40** Tyler Robinson
+
+Tyler Robinson; subject of the host's decoy and clothing-change theory.
+
+*Related: C-12069, C-12109, C-12116, C-12117, C-12118, C-12119, C-12121, C-12122, C-12123, C-12124, C-12129*
+
+---
+
+**N-41** Spencer Cox
+
+Governor Spencer Cox; the host says his press conference misdescribed Lance's cooperation.
+
+*Related: C-12122*
+
+---
+
+**N-42** George Zinn
+
+George Zinn; one of the four decoys in the host's theory.
+
+*Related: C-12091, C-12115, C-12127*
+
+---
+
+**N-46** Megyn Kelly
+
+Megyn Kelly; the host says she is being abused over the host's content.
+
+*Related: C-12076*
+
+---
+
+**N-49** Max Blumenthal
+
+Max Blumenthal; named as a recipient of the host's package.
+
+*Related: C-12105*
+
+---
+
+**N-50** Sigmund Freud
+
+Sigmund Freud; subject of the host's book club book.
+
+*Related: C-12145*
+
+---
+
+**N-54** Lance Twiggs
+
+Lance Twiggs; the host's maroon shirt and federal asset hypotheses.
+
+*Related: C-12116, C-12121, C-12122, C-12125*
+
+---
+
+**N-55** Josh Hammer
+
+Josh Hammer; the host says he spread lies about Kirk and Israel, and is heard describing Kirk's letter.
+
+*Related: C-12083, C-12096, C-12097, C-12098, C-12099*
+
+---
+
+**N-82** Brigitte Macron
+
+Brigitte Macron; named in Loomer's post about lawsuits.
+
+*Related: C-12073*
+
+---
+
+**N-99** Alex Clark
+
+Alex Clark; named with Bowyer in the host's call for the free-speech memo.
+
+*Related: C-12093*
+
+---
+
+**N-119** Elon Musk
+
+Elon Musk; named by the host and by Forbes.
+
+*Related: C-12061, C-12068*
+
+---
+
+**N-126** Mike Mitchell
+
+Mike Mitchell; the detective whose tip the host says drove the raid.
+
+*Related: C-12123*
+
+---
+
+**N-173** Tate Brothers (Andrew and Tristan)
+
+Tate Brothers; Andrew Tate named as a recipient of the host's package.
+
+*Related: C-12105*
+
+---
+
+**N-205** Nick Fuentes
+
+Nick Fuentes; author of posts the host reads.
+
+*Related: C-12078, C-12079, C-12080, C-12081, C-12095*
+
+---
+
+**N-208** Piers Morgan
+
+Piers Morgan; host of the show on which O'Neill appeared.
+
+*Related: C-12106*
+
+---
+
+**N-873** Britta Widener
+
+Britta Widener; author of posts the host reads.
+
+*Related: C-12071, C-12075*
+
+---
+
+**N-10013** Discord
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12121*
+
+---
+
+**N-10018** Netanyahu Israel Invitation Phone Call
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12099*
+
+---
+
+**N-10019** Robinson Outfit Change Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12117*
+
+---
+
+**N-10032** Decoy Boy Operation Analysis
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12091, C-12115*
+
+---
+
+**N-10034** Lance Twiggs Family Allegations
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12122*
+
+---
+
+**N-10041** Note Under Keyboard Disposal
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12124*
+
+---
+
+**N-10043** Two-Person Theory (Maroon vs Stairs)
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12113, C-12126*
+
+---
+
+**N-10044** Lance Twiggs Protection Allegation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12121, C-12125*
+
+---
+
+**N-10051** Dairy Queen 6:38 Photo Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12118, C-12119, C-12120*
+
+---
+
+**N-10056** Kirk-Israel Narrative Dispute
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12090*
+
+---
+
+**N-10077** Robinson-Lance Text Chain Authenticity
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12109*
+
+---
+
+**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12107, C-12108*
+
+---
+
+**N-10107** Crime Scene Pavers
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12135*
+
+---
+
+**N-10118** Candace UK Premonition / Husband Meeting
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12132*
+
+---
+
+**N-10126** London / UK
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12132*
+
+---
+
+**N-10133** Federal Investigation Conduct Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12085, C-12110, C-12128, C-12129*
+
+---
+
+**N-10139** Operation Mocking Pastor
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12141*
+
+---
+
+**N-10143** Robinson Apartment Staging Allegation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12124*
+
+---
+
+**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12088, C-12089*
+
+---
+
+**N-10151** Mike Mitchell Undercover Role Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12123*
+
+---
+
+**N-10167** Tyler Bowyer X Defense Pattern
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12093*
+
+---
+
+**N-10176** Candace Kill Switch / Dead Man Switch
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12100, C-12103, C-12104, C-12105*
+
+---
+
+**N-10187** Josh Hammer Text Messages Context
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12096, C-12097*
+
+---
+
+**N-10206** TPUSA Text Chain Authenticity Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12067, C-12068, C-12069, C-12079, C-12080, C-12083, C-12084, C-12095*
+
+---
+
+**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12073*
+
+---
+
+**N-10389** Charlie Kirk Premonition Dreams
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12064*
+
+---
+
+**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12076*
+
+---
+
+**N-10424** Nick Fuentes Federal Informant Allegation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12078*
+
+---
+
+**N-10554** Andrew Kolvet 9/10 Flight Itinerary
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12086*
+
+---
+
+**N-10598** Lance Twiggs Federal Asset Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12121*
+
+---
+
+**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12072*
+
+---
+
+**N-10641** Andrew Kolvet Text Message Full Context Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12084*
+
+---
+
+**N-10702** Lance Twiggs Maroon Shirt Identification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12116*
+
+---
+
+**N-10735** Rooftop Clothing Change Narrative
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12117*
+
+---
+
+**N-10769** Lozi Center Gun Verification Gap
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12114*
+
+---
+
+**N-11013** Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12094, C-12143*
+
+---
+
+**N-11158** Cult Accusation Against Candace Owens Audience
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12070*
+
+---
+
+**N-911** Ashton Forbes
+
+First named by the host at 00:07:45 in episode 16. Online commentator whose X post the host reads, saying she has no credibility, that Telegram group chat scams exist, and that she is building a cult.
+
+*Related: C-12068, C-12069, C-12070*
+
+---
+
+**N-11321** Kirk Security Team Name Identification
+
+Node Type: Topic
+Investigation target: the host's statement that she holds the names of everyone on Charlie Kirk's security team, including people the earlier investigation could not identify.
+
+*Related: C-12140*
+
+---
+
+## V. Claim Register
+
+**C-1380** Kolvet confirmed text chain authentic
+
+Claim Timestamp: 00:14:00
+
+Claim: Turning Point USA spokesperson Andrew Kolvet, on the Charlie Kirk Show, confirmed the text-message screen grab released by Candace Owens is authentic and was originally shared by him with others.
+
+Anchored Artifacts: A-1228.1, A-1227.8
+Mentions: N-1, N-3, N-14
+Investigative Direction: Obtain the full Charlie Kirk Show segment audio/video; cross-reference Kolvet's stated timeline of sharing with "people in government" against any subsequent investigative filings.
+
+---
+
+**C-1381** Kolvet shared screen grab with government figures within 33 hours
 
 Claim Timestamp: 00:15:24
 
-Claim: Andrew Kovette stated he shared the text-message screen grab with "a few people in government" within the first 33 hours after Kirk's death, before the suspect was publicly identified.
+Claim: Andrew Kolvet stated he shared the text-message screen grab with "a few people in government" within the first 33 hours after Kirk's death, before the suspect was publicly identified.
 
 Anchored Artifacts: A-1228.2
 Mentions: N-14
@@ -522,15 +1146,15 @@ Investigative Direction: Identify which government figures received the screen g
 
 ---
 
-**C-1382** Kovette describes Kirk's Israel position as complicated / ongoing wrestle
+**C-1382** Kolvet describes Kirk's Israel position as complicated / ongoing wrestle
 
 Claim Timestamp: 00:17:46
 
-Claim: Andrew Kovette characterized Kirk's feelings about Israel as "complicated" and "nuanced," stating a "wrestle" had been ongoing for months, located between the BB Netanyahu letter and the text chain.
+Claim: Andrew Kolvet characterized Kirk's feelings about Israel as "complicated" and "nuanced," stating a "wrestle" had been ongoing for months, located between the BB Netanyahu letter and the text chain.
 
 Anchored Artifacts: A-1228.4, A-1232.1
 Mentions: N-1, N-14, N-36
-Investigative Direction: Compare Kovette's "wrestle" framing against contemporaneous private communications from Kirk to determine the duration and scope of the position shift.
+Investigative Direction: Compare Kolvet's "wrestle" framing against contemporaneous private communications from Kirk to determine the duration and scope of the position shift.
 
 ---
 
@@ -590,7 +1214,7 @@ Claim: A user identified as Britta publicly accused Candace Owens of posting fak
 
 Anchored Artifacts: A-1227.1, A-1227.2
 Mentions: N-3
-Investigative Direction: Cross-reference the Britta accusation against the Kovette confirmation (C-1380) to determine whether Britta publicly retracted or updated her position.
+Investigative Direction: Cross-reference the Britta accusation against the Kolvet confirmation (C-1380) to determine whether Britta publicly retracted or updated her position.
 
 ---
 
@@ -602,7 +1226,7 @@ Claim: Laura Loomer publicly dismissed Candace Owens's text-messages reporting a
 
 Anchored Artifacts: A-1227.4
 Mentions: N-3, N-60
-Investigative Direction: Track whether Loomer issued any post-Kovette-confirmation update acknowledging the texts' authenticity.
+Investigative Direction: Track whether Loomer issued any post-Kolvet-confirmation update acknowledging the texts' authenticity.
 
 ---
 
@@ -630,15 +1254,15 @@ Investigative Direction: Evaluate the substance of the "what does it prove" crit
 
 ---
 
-**C-1391** Community Notes confirmed Kovette's screen-grab confirmation
+**C-1391** Community Notes confirmed Kolvet's screen-grab confirmation
 
 Claim Timestamp: 00:12:48
 
-Claim: Per the Misfit Patriot tweet displayed, Community Notes added an update stating Andrew Kovette confirmed the screen grab was real.
+Claim: Per the Misfit Patriot tweet displayed, Community Notes added an update stating Andrew Kolvet confirmed the screen grab was real.
 
 Anchored Artifacts: A-1227.8
 Mentions: N-14
-Investigative Direction: Pull the Community Notes entry directly for the source post to verify the wording of the Kovette-attributed confirmation.
+Investigative Direction: Pull the Community Notes entry directly for the source post to verify the wording of the Kolvet-attributed confirmation.
 
 ---
 
@@ -722,19 +1346,19 @@ Claim: Candace Owens states three unnamed people (two with written communication
 
 Anchored Artifacts: A-1235.1
 Mentions: N-1, N-3
-Investigative Direction: Encourage the named tipsters to come forward publicly; cross-reference against A-1233.1 (Frank Turk) and any other contemporaneous sources for Kirk premonition statements.
+Investigative Direction: Encourage the named tipsters to come forward publicly; cross-reference against A-1233.1 (Frank Turek) and any other contemporaneous sources for Kirk premonition statements.
 
 ---
 
-**C-1399** Frank Turk reported Kirk said "they want him dead"
+**C-1399** Frank Turek reported Kirk said "they want him dead"
 
 Claim Timestamp: 01:02:44
 
-Claim: Per a Luna fan comment on the episode, Dr. Frank Turk reported on his podcast that Charlie Kirk, in a conversation about upping his security, said "they want him dead."
+Claim: Per a Luna fan comment on the episode, Dr. Frank Turek reported on his podcast that Charlie Kirk, in a conversation about upping his security, said "they want him dead."
 
 Anchored Artifacts: A-1233.1
 Mentions: N-1, N-7
-Investigative Direction: Identify and timestamp the Frank Turk podcast episode containing the statement; obtain the original audio.
+Investigative Direction: Identify and timestamp the Frank Turek podcast episode containing the statement; obtain the original audio.
 
 ---
 
@@ -789,6 +1413,1352 @@ Investigative Direction: Identify which federal department is implicated; obtain
 
 ---
 
+**C-12061** Host Says Musk Gave X to the Military and Military Bot Farms Push War With Iran
+
+Claim Timestamp: 00:00:10
+
+Claim: The host says Elon Musk has clearly given X away to the military, and that users must now suffer military bot farms calling for war with Iran.
+
+Transcript Snippet: I think Elon Musk clearly gave it away to the military and we now have to suffer these military bot farms calling for war with Iran.
+
+Anchored Artifacts: 
+Mentions: N-119, N-3
+Tags: relevance:tangential
+Investigative Direction: Look for X ownership or moderation disclosures and bot-network analyses showing military-linked accounts; the host offers no evidence on air.
+
+---
+
+**C-12062** Host Says She Has No Interest in Inheriting Kirk's Turning Point Empire
+
+Claim Timestamp: 00:01:43
+
+Claim: The host says she has zero interest in Charlie Kirk's empire or in carrying on his torch, contrasting herself with the heirs of the TV show Succession.
+
+Transcript Snippet: I have a 0% interest in Charlie's empire. I am not motivated by the idea of carrying on his torch.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:context
+Investigative Direction: Compare with any TPUSA leadership offer or succession discussion naming the host; ask TPUSA whether she was ever approached.
+
+---
+
+**C-12063** Host Shows 2023 Text Chain With Her Then-Producer as Proof of a Prior Vivid Dream
+
+Claim Timestamp: 00:02:30
+
+Claim: The host says a text chain from 2023 with her then-producer shows she texted that the producer was pregnant before the producer knew, and offers it as an example of a vivid dream coming true.
+
+Transcript Snippet: You texted me June 16th and I think I got pregnant June 26th. This is crazy.
+
+Anchored Artifacts: A-3181.1
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Personal matter involving a private individual; nothing to verify for the case beyond the host's own text chain, which she displayed.
+
+---
+
+**C-12064** Host Says a Weekend Dream Told Her Charlie Was Betrayed
+
+Claim Timestamp: 00:03:54
+
+Claim: The host says that after a very vivid dream over the weekend she believes Charlie Kirk came to her and told her he was betrayed, though she does not know by whom.
+
+Transcript Snippet: Charlie came to me and he told me that he was betrayed.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10389
+Tags: relevance:context
+Investigative Direction: A dream cannot be checked; compare with the host's later statements naming who she thinks betrayed Kirk and with any witness accounts of Kirk's last days.
+
+---
+
+**C-12065** Host Predicts the Truth Will Soon Come Out With International Consequences
+
+Claim Timestamp: 00:04:10
+
+Claim: The host says she felt in the dream that it is inevitable and soon will be revealed that the truth will come out and that it will have international consequences, and tells viewers to quote her.
+
+Transcript Snippet: it is soon going to be revealed that it's actually inevitable that it is going to be revealed that there is nothing and no one that is going to stop the truth from coming out
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:context
+Investigative Direction: Track whether any named disclosure or document later released by the host or others matches this prediction.
+
+---
+
+**C-12066** Host Says She Told Her Husband Through Tears That Charlie Was Betrayed
+
+Claim Timestamp: 00:06:30
+
+Claim: The host says that almost from the moment she learned Charlie Kirk would not survive, she told her husband George through tears that Kirk had been betrayed.
+
+Transcript Snippet: I said to George through tears that he was betrayed.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3, N-30
+Tags: relevance:context
+Investigative Direction: Ask the host when and where she said this; no outside record is expected, so treat as a first-person account.
+
+---
+
+**C-12067** Host Says X Users Made Fake Messages to Argue Her Texts Could Be Faked
+
+Claim Timestamp: 00:07:10
+
+Claim: The host says that after she released the text message, some X users tried to bargain with reality by creating fake messages themselves to show how easy it is to fake one.
+
+Transcript Snippet: They were making fake messages themselves.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10206
+Tags: relevance:context
+Investigative Direction: Collect the fake-message posts and compare with Andrew Kolvet's later confirmation that the screen grab was authentic.
+
+---
+
+**C-12068** Ashton Forbes Posted That Candace Has No Credibility and Telegram Chats Are Scams
+
+Claim Timestamp: 00:07:45
+
+Claim: The host reads a post by Ashton Forbes saying Candace Owens has no credibility, that Telegram group chat scams claim to be real people, and that he was briefly in touch with one 'Elon Musk'.
+
+Transcript Snippet: First off, Candace has no credibility. Second, there's a bunch of Telegram group chat scams that claim to be real people.
+
+Anchored Artifacts: A-3182.1
+Mentions: N-911, N-3, N-119
+Related Nodes: N-10206
+Tags: relevance:context
+Investigative Direction: Pull the original Forbes post and its timestamp; check whether he later acknowledged the texts were authenticated by Andrew Kolvet.
+
+---
+
+**C-12069** Ashton Forbes Posted That Even Real Texts Mean Nothing About Charlie's Death
+
+Claim Timestamp: 00:08:15
+
+Claim: The host reads Ashton Forbes writing that, even if the text messages were real, they mean literally nothing related to Charlie's death, and that doubting the Tyler Robinson texts means these cannot be taken at face value.
+
+Transcript Snippet: Lastly, even if the text messages were real, they mean literally nothing related to Charlie's death.
+
+Anchored Artifacts: A-3182.1
+Mentions: N-911, N-1, N-40
+Related Nodes: N-10206
+Tags: relevance:context
+Investigative Direction: Pull the original post; compare with Andrew Kolvet's statement (C-1380 and C-1382) that the chain fits Kirk's known frustrations about Israel.
+
+---
+
+**C-12070** Ashton Forbes Posted That Candace Is Building a Literal Cult
+
+Claim Timestamp: 00:08:30
+
+Claim: The host reads Ashton Forbes writing that he finds it scary how Candace Owens is building a literal cult and that followers will soon be drinking Kool-Aid.
+
+Transcript Snippet: I find it scary how Candace is building a literal cult. Soon they'll be drinking Kool-Aid in sync
+
+Anchored Artifacts: A-3182.1
+Mentions: N-911, N-3
+Related Nodes: N-11158
+Tags: relevance:context
+Investigative Direction: Pull the original post and any replies; this is an opinion attributed to Forbes and is recorded only as said.
+
+---
+
+**C-12071** Host Says Britta Used to Work for Seth Dillon
+
+Claim Timestamp: 00:08:55
+
+Claim: The host says that Britta, who she says posted that Candace was using fake group chat screenshots, used to work for Seth Dillon.
+
+Transcript Snippet: She wrote and by the way she used to work for Seth Dillon.
+
+Anchored Artifacts: 
+Mentions: N-873, N-38
+Tags: relevance:context
+Investigative Direction: Check Britta's public employment history with Seth Dillon's company; the host says it only as context for her posts.
+
+---
+
+**C-12072** Host Says Laura Loomer Is Legally Not Allowed to Own a Gun
+
+Claim Timestamp: 00:09:30
+
+Claim: The host says Laura Loomer is legally not allowed to own a gun, and calls her a lunatic.
+
+Transcript Snippet: who is legally just, you know, not allowed to own a gun because she's a literal lunatic
+
+Anchored Artifacts: 
+Mentions: N-60
+Related Nodes: N-10628
+Tags: relevance:context
+Investigative Direction: Look for court records of any firearm prohibition or involuntary hold concerning Loomer; the host cites none on air.
+
+---
+
+**C-12073** Loomer Posted That Candace Will Be Sued by TPUSA and Macron's Wife
+
+Claim Timestamp: 00:09:50
+
+Claim: The host reads a Laura Loomer post saying it will be hilarious when Candace Owens is sued by TPUSA in addition to Macron's wife.
+
+Transcript Snippet: It's going to be hilarious when she is sued by TPUSA in addition to Macron's wife.
+
+Anchored Artifacts: A-1227.4
+Mentions: N-60, N-82, N-3
+Related Nodes: N-10270
+Tags: relevance:context
+Investigative Direction: Pull the original Loomer post and check for any TPUSA legal filing against the host; the Macron suit is a separate matter.
+
+---
+
+**C-12074** Host Says She Called Her Release Week Blitzkrieg Week
+
+Claim Timestamp: 00:10:25
+
+Claim: The host says she named her run of releases 'Blitzkrieg week' because she was dropping a bunch of bombs, and notes the term is used widely, including by an NFL team.
+
+Transcript Snippet: I called it Blitzgree egg week because we're just dropping a bunch of bombs.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Find the host's earlier episodes using the phrase; this is the host's own framing, not a checkable event.
+
+---
+
+**C-12075** Britta Posted That Candace Uses Nazi Terminology While Inciting Harassment of TPUSA Staff
+
+Claim Timestamp: 00:10:40
+
+Claim: The host reads a Britta post saying Candace thinks it is cute to use Nazi terminology and a Turning Point pun while inciting harassment of TPUSA employees by implicating them in Charlie's death.
+
+Transcript Snippet: Candace thinks it's cute to use Nazi terminology and make a turning point pun while she incites further harassment of TPUSA employees by implicating them in Charlie's death.
+
+Anchored Artifacts: A-1227.5
+Mentions: N-873, N-3
+Tags: relevance:context
+Investigative Direction: Pull the original post; the host denies the characterization and says the word simply means a bombardment.
+
+---
+
+**C-12076** Host Says Megyn Kelly Is Being Abused Over the Host's Content
+
+Claim Timestamp: 00:10:55
+
+Claim: The host says a poster told Megyn Kelly to stop making excuses for the host's behavior, and she says she does not know why Kelly is being abused.
+
+Transcript Snippet: I have no idea while why why Megyn Kelly is being just abused.
+
+Anchored Artifacts: 
+Mentions: N-46, N-3
+Related Nodes: N-10406
+Tags: relevance:context
+Investigative Direction: Compare with the host's earlier claim (C-10771) that agents press Kelly to denounce her; find the original post.
+
+---
+
+**C-12077** Host Says the Washington Post Uses the Word Blitzkrieg for White House Events
+
+Claim Timestamp: 00:11:40
+
+Claim: The host says the Washington Post uses the terminology blitzkrieg when describing events at the White House.
+
+Transcript Snippet: Washington Post certainly does when they're describing things that's happening at the White House.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Search Washington Post coverage of the White House for use of the word blitzkrieg.
+
+---
+
+**C-12078** Host Calls Nick Fuentes a Routine Federal Informant
+
+Claim Timestamp: 00:11:45
+
+Claim: The host calls Nick Fuentes 'our routine federal informant' while introducing his post about the delay in releasing the texts.
+
+Transcript Snippet: Nick Fuentes, our uh uh routine federal informant wrote writes this
+
+Anchored Artifacts: A-1227.6
+Mentions: N-205
+Related Nodes: N-10424
+Tags: relevance:context
+Investigative Direction: The host gives no evidence; look for any court or FOIA record or named source on the allegation, and treat it as unproven.
+
+---
+
+**C-12079** Fuentes Asked Why She Censored the Other Names in the Chat
+
+Claim Timestamp: 00:11:55
+
+Claim: The host reads Nick Fuentes asking why she sat on the texts for four weeks and then censored the other names in the chat.
+
+Transcript Snippet: why did she sit on this for four weeks and then censor the other names?
+
+Anchored Artifacts: A-1227.6
+Mentions: N-205, N-3
+Related Nodes: N-10206
+Tags: relevance:context
+Investigative Direction: Obtain the uncensored chain from the host or from Kolvet's shared screen grab to see who was in it; compare with C-1377 (Josh Hammer named).
+
+---
+
+**C-12080** Fuentes Posted That Kirk Led the Pro-Israel Cause After a Donor Stopped Giving Millions
+
+Claim Timestamp: 00:12:15
+
+Claim: The host reads a Nick Fuentes post saying Charlie Kirk said he had no choice but to lead the pro-Israel cause because a Jewish donor stopped giving him millions, and that his epiphany about Israel came after the payments stopped.
+
+Transcript Snippet: Charlie Kirk said he had no choice to lead the pro-Israel cause because a Jewish donor stopped giving him millions of dollars.
+
+Anchored Artifacts: A-3183.1
+Mentions: N-205, N-1
+Related Nodes: N-10206
+Supports: C-1375
+Tags: relevance:context
+Investigative Direction: Pull the original Fuentes post and compare with the text chain wording on the lost donor money; identify the donor.
+
+---
+
+**C-12081** Host Says Fuentes Is Paid to Shill
+
+Claim Timestamp: 00:12:30
+
+Claim: The host says she took none of Fuentes's attempt to eulogize Kirk seriously because, she alleges, he is paid to shill.
+
+Transcript Snippet: Speaking of paying people to shill, it's why I didn't take one minute or one sentence rather of him uh trying to uligize Charlie Kirk seriously
+
+Anchored Artifacts: 
+Mentions: N-205, N-1, N-3
+Tags: relevance:tangential
+Investigative Direction: The host offers no evidence of payment; find any named funder or disclosure, otherwise treat as characterization.
+
+---
+
+**C-12082** Misfit Patriot Offered Every Shekel if the Texts Were Proven Real
+
+Claim Timestamp: 00:12:55
+
+Claim: The host shows a post by an account called the misfit patriot offering to give Candace every single shekel Israel paid him for his posts if she could prove the text messages were real.
+
+Transcript Snippet: I will give Candace every single shekele. Israel has paid me for my posts if she can prove those text messages are real.
+
+Anchored Artifacts: A-1227.8
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Pull the original post and the Community Note; the account holder's claim of Israeli payment is unverified.
+
+---
+
+**C-12083** Host Says She Did Not Manufacture the Text Messages
+
+Claim Timestamp: 00:13:10
+
+Claim: The host says she would have to be the dumbest person ever to try to manufacture text messages that would get her sued by every person not in the chat, and says she is not inclined toward tech.
+
+Transcript Snippet: First off, I'm not even inclined towards tech, but also would have to be an absolute a to try to figure out how to manufacture text messages
+
+Anchored Artifacts: A-1232.1
+Mentions: N-3, N-55
+Related Nodes: N-10206
+Supports: C-1380
+Tags: relevance:core
+Investigative Direction: Kolvet's confirmation (C-1380) already authenticates the screen grab; ask him or TPUSA whether the full chain matches the one the host released.
+
+---
+
+**C-12084** Kolvet Says He Did Not Share the Screen Grab Publicly Because It Was a Private Exchange
+
+Claim Timestamp: 00:14:30
+
+Claim: Andrew Kolvet says on the Charlie Kirk Show that he did not share the screen grab publicly because it was a private exchange that did not necessarily fit what was already public, and he did not want to betray his friend's trust.
+
+Transcript Snippet: I first want to say the reason I have I didn't share that screen grab publicly is because it was a private it was a private exchange
+
+Anchored Artifacts: A-1228.1
+Mentions: N-14, N-1
+Related Nodes: N-10206, N-10641
+Tags: relevance:core
+Investigative Direction: Obtain the Charlie Kirk Show audio and date; ask Kolvet why he judged the exchange inconsistent with Kirk's public position.
+
+---
+
+**C-12085** Kolvet Acknowledges Criticism That TPUSA Is Not Investigating Every Lead
+
+Claim Timestamp: 00:15:40
+
+Claim: Andrew Kolvet says one criticism TPUSA has received is that it does not care and is not investigating every lead, and says TPUSA wants justice for Charlie and no stone unturned.
+
+Transcript Snippet: one of the criticisms we've been we've received is that we don't care. We're not investigating every lead.
+
+Anchored Artifacts: A-1228.2
+Mentions: N-14, N-1
+Related Nodes: N-10133
+Tags: relevance:core
+Investigative Direction: Ask TPUSA to list the leads it has pursued and any investigators it hired; compare with the host's account of TPUSA hostility to her inquiries.
+
+---
+
+**C-12086** Kolvet Says He Was Not an Eyewitness and Flew to Utah Immediately
+
+Claim Timestamp: 00:16:30
+
+Claim: Andrew Kolvet says he was not an eyewitness, was not there, and flew to Utah immediately to be with the family and the team.
+
+Transcript Snippet: I wasn't an eyewitness. I was not there. I flew to Utah immediately uh to be with the family and the team, but I was not an eyewitness.
+
+Anchored Artifacts: A-1228.3
+Mentions: N-14, N-162
+Related Nodes: N-10554
+Tags: relevance:core
+Investigative Direction: Compare with flight and itinerary records for Kolvet on September 10 and 11, 2025 and with his later tarmac account.
+
+---
+
+**C-12087** Kolvet Says He Will Not Impugn Anyone Asking Questions and Free Speech Is the North Star
+
+Claim Timestamp: 00:16:55
+
+Claim: Andrew Kolvet says he is not personally going to impugn anybody's character who is asking questions and looking for answers, and that free speech must be TPUSA's north star.
+
+Transcript Snippet: I am not personally going to impugn anybody's character who is asking questions and looking for answers.
+
+Anchored Artifacts: A-1228.3
+Mentions: N-14, N-1
+Tags: relevance:core
+Investigative Direction: Compare with later statements from Kolvet and other TPUSA staff about people who question the official account.
+
+---
+
+**C-12088** Kolvet Says the Text Chain Is Consistent With Frustrations Kirk Voiced Publicly
+
+Claim Timestamp: 00:17:20
+
+Claim: Andrew Kolvet says the text chain is consistent with public frustrations Kirk voiced many times and with what Kirk told friends in the wider movement.
+
+Transcript Snippet: I will say that that text chain is consistent with public frustrations that he voiced many times.
+
+Anchored Artifacts: A-1228.4
+Mentions: N-14, N-1
+Related Nodes: N-10148
+Tags: relevance:core
+Investigative Direction: List the public occasions where Kirk voiced these frustrations and compare with the dated texts.
+
+---
+
+**C-12089** Kolvet Says He and Blake Workshopped Kirk's Israel Answers for the Tour
+
+Claim Timestamp: 00:17:30
+
+Claim: Andrew Kolvet says he and Blake Neff were in the trenches workshopping how Kirk would handle questions about Israel on the tour.
+
+Transcript Snippet: Blake, you were in the trenches on a lot of this stuff because we were workshopping how we were going to do the tour
+
+Anchored Artifacts: A-1228.4
+Mentions: N-14, N-162, N-1
+Related Nodes: N-10148
+Tags: relevance:core
+Investigative Direction: Ask Kolvet and Neff for the tour prep notes or messages about the Israel question.
+
+---
+
+**C-12090** Host Says She Never Stated That Israel Killed Charlie
+
+Claim Timestamp: 00:19:20
+
+Claim: The host says the text message concerns people's feeling that Kirk's legacy is intentionally being hijacked by Israel, and that she never stated Israel killed Charlie.
+
+Transcript Snippet: Uh it has to do with the broader question of people feeling that Charlie's legacy is intentionally being hijacked by Israel. I never stated that Israel killed Charlie.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10056
+Tags: relevance:core
+Investigative Direction: Search the host's prior episodes for any statement attributing the killing to Israel; this is the host's own account of her position.
+
+---
+
+**C-12091** Host Says No Israeli Name Has Surfaced and Only One Jewish Person, George Zinn
+
+Claim Timestamp: 00:19:40
+
+Claim: The host says no Israeli name has popped up in the investigation and that the only Jewish person who has, she thinks, is George Zinn, the decoy boy.
+
+Transcript Snippet: I mean, there hasn't even been an Israeli name that has popped up in this investigation. There's only been one Jewish person, I think, that's popped up thus far in this investigation, which is George Zinn, Decoy Boy.
+
+Anchored Artifacts: 
+Mentions: N-42, N-3
+Related Nodes: N-10032
+Tags: relevance:context
+Investigative Direction: Check whether the host's later episodes name any Israeli person; the claim about Zinn's background is the host's, unverified.
+
+---
+
+**C-12092** Host Says an Underground Movement of Truth Tellers Includes Donors and Government Employees
+
+Claim Timestamp: 00:20:00
+
+Claim: The host says an underground movement of truth tellers is working together to bring justice for Charlie, ranging from mom sleuths to government employees, personal assistants and Turning Point USA donors.
+
+Transcript Snippet: There is an underground movement of knights all around the world from mom sleuths to government employees like he said to personal assistants to turning point USA donors
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:core
+Investigative Direction: Ask the host for named, on-the-record members of each group; compare with the Mappin letter (C-1393).
+
+---
+
+**C-12093** Host Says Bowyer Impugns Critics and Asks Kolvet to Send Bowyer and Alex Clark the Free-Speech Memo
+
+Claim Timestamp: 00:20:50
+
+Claim: The host says TPUSA executives, naming Tyler Bowyer, would rather impugn the character of people doing what Kirk would have done, and asks Kolvet to make sure Bowyer and Alex Clark get the internal memo about free speech.
+
+Transcript Snippet: make sure that Tyler Bowyer and Alex Clark get the internal memo about free speech.
+
+Anchored Artifacts: 
+Mentions: N-11, N-99, N-14, N-1
+Related Nodes: N-10167
+Tags: relevance:core
+Investigative Direction: Collect Bowyer and Clark posts from the days before to see whether they attacked people asking questions.
+
+---
+
+**C-12094** Host Says Kirk Had Not Told Her Himself and Her Sources Spoke Off the Record
+
+Claim Timestamp: 00:21:40
+
+Claim: The host says Charlie Kirk had not expressed to her that he thought he would be killed, and that she is relying on the testimony of three people whose conversations were off the record.
+
+Transcript Snippet: He had not expressed that to me. So I am telling you this based off the testimony of three people
+
+Anchored Artifacts: A-1235.1
+Mentions: N-1, N-3
+Related Nodes: N-11013
+Supports: C-1398
+Tags: relevance:core
+Investigative Direction: Ask the three sources, through the host, to go on the record or produce the written communication two of them reportedly hold.
+
+---
+
+**C-12095** Host Says She Waited to Release the Texts Deliberately and Has More
+
+Claim Timestamp: 00:22:15
+
+Claim: The host says she waited to reveal the text messages because she is not a child and has self-control, that time is on the side of truth, and that she has a lot more.
+
+Transcript Snippet: the reason that I waited to reveal the text messages is because I'm not a child. Okay? Like I said, I have a lot more.
+
+Anchored Artifacts: A-1227.6
+Mentions: N-3, N-205
+Related Nodes: N-10206
+Tags: relevance:core
+Investigative Direction: Establish the date the host received the chain; the host has not published it on air. Compare with Fuentes's four-week question (C-1389).
+
+---
+
+**C-12096** Host Says Josh Hammer Spread Lies That Charlie Never Flinched on Israel
+
+Claim Timestamp: 00:23:25
+
+Claim: The host says that since Charlie was shot, Josh Hammer has been spreading lies saying that Charlie never flinched on Israel, and that he did so hours before she released the chat.
+
+Transcript Snippet: He has been spreading lies, saying that Charlie never flinched on Israel.
+
+Anchored Artifacts: A-1234.1
+Mentions: N-55, N-1, N-3
+Related Nodes: N-10187
+Tags: relevance:context
+Investigative Direction: Collect Hammer's public statements since September 10 and compare with the chain in which he is a participant (C-1377).
+
+---
+
+**C-12097** Host Says the Group Chat With Josh Hammer Dates to About 48 Hours Before Kirk's Death
+
+Claim Timestamp: 00:24:10
+
+Claim: The host says that Josh Hammer was on the text thread 48 hours before Kirk's death, while he was continuing the line that Kirk never flinched on Israel.
+
+Transcript Snippet: 48 hours before Josh Hammer was on that text thread.
+
+Anchored Artifacts: A-1232.1
+Mentions: N-55, N-1, N-3
+Related Nodes: N-10187
+Supports: C-1377
+Tags: relevance:core
+Investigative Direction: Establish the dates of the messages in the chain; the host's phrasing is ambiguous, so confirm what the 48 hours measures.
+
+---
+
+**C-12098** Hammer Said He Read Kirk's Letter to Netanyahu in June or July
+
+Claim Timestamp: 00:24:50
+
+Claim: In the clip Josh Hammer says he read the letter Kirk wrote to the prime minister back in June or July.
+
+Transcript Snippet: This letter that he wrote to the prime minister, Chris, I read back in June or July or so.
+
+Anchored Artifacts: A-3184.1
+Mentions: N-55, N-1, N-36
+Tags: relevance:core
+Investigative Direction: Compare with the claim that Netanyahu's office released the letter weeks after Kirk's death (C-1331); ask Hammer how he read it in June or July.
+
+---
+
+**C-12099** Hammer Said the Letter Opens With Kirk Defending the State of Israel
+
+Claim Timestamp: 00:25:05
+
+Claim: In the clip Josh Hammer says the first sentence of Kirk's letter to Netanyahu reads, in close paraphrase, that as a Christian one of his greatest joys is making friendships with the Jewish people and defending the state of Israel.
+
+Transcript Snippet: As a Christian, one of my greatest joys in life is making friendships with the Jewish people and defending the state of Israel.
+
+Anchored Artifacts: A-3184.1
+Mentions: N-55, N-1, N-36
+Related Nodes: N-10018
+Tags: relevance:core
+Investigative Direction: Obtain the authenticated letter and check its opening line; compare with C-1331 and C-9305, which question its provenance.
+
+---
+
+**C-12100** Host Says She Sent a Life-Insurance Package to Trusted People
+
+Claim Timestamp: 00:26:25
+
+Claim: The host says she sent a package of text messages, emails, private communications, videos and private legal documents to people she trusts, as a life insurance policy so that her enemies are known if anything happens to her.
+
+Transcript Snippet: I went ahead this week and sent around a life insurance policy of sorts of sorts, a package rather to people that I trust.
+
+Anchored Artifacts: A-3185.1
+Mentions: N-3
+Related Nodes: N-10176
+Tags: relevance:context
+Investigative Direction: Ask the host for the date and the number of recipients; the contents were not shown, and the package cannot be checked without them.
+
+---
+
+**C-12101** Host Says People Are Trying to Bankrupt Her and Threatening Suits
+
+Claim Timestamp: 00:26:50
+
+Claim: The host says people are trying to bankrupt her and her family and are threatening to sue.
+
+Transcript Snippet: People that are trying to bankrupt me, trying to bankrupt me and my family that are threatening us to sue us.
+
+Anchored Artifacts: A-3185.1
+Mentions: N-3
+Tags: relevance:context
+Investigative Direction: Identify the filed suits and threat letters against the host; compare with the Macron suit and any TPUSA letters.
+
+---
+
+**C-12102** Host Says Kanye West Was Right About What It Takes to Leave
+
+Claim Timestamp: 00:27:05
+
+Claim: The host says that looking back she now believes Kanye was right in what he said about fighting for custody of your own soul.
+
+Transcript Snippet: Everything that Kanye said was so real. Okay, I'm now at that point where you look back and you go, man, Kanye was right.
+
+Anchored Artifacts: 
+Mentions: N-27, N-3
+Tags: relevance:tangential
+Investigative Direction: Opinion about Kanye West's past statements; nothing to verify beyond which statements she means.
+
+---
+
+**C-12103** Host Says She Gave Recipients Explicit Permission to Release Everything
+
+Claim Timestamp: 00:27:15
+
+Claim: The host says that if anything happens to her the recipients of her package have her explicit permission to release it all.
+
+Transcript Snippet: if anything happens to me, they have my explicit permission to release it all. Detonate it all.
+
+Anchored Artifacts: A-3185.1
+Mentions: N-3
+Related Nodes: N-10176
+Tags: relevance:context
+Investigative Direction: Nothing to verify until a release occurs; ask the host whether the recipients are named.
+
+---
+
+**C-12104** Host Urges Everyone With a Platform to Do the Same
+
+Claim Timestamp: 00:27:35
+
+Claim: The host recommends that every person with a platform who is scared do the same, sending everything to about eight trusted people.
+
+Transcript Snippet: I highly recommend every single person that is out there that has a platform and is going through things and is scared do the same.
+
+Anchored Artifacts: A-3185.1
+Mentions: N-3
+Related Nodes: N-10176
+Tags: relevance:tangential
+Investigative Direction: A recommendation that cannot be verified; recorded to track the dead man switch theme.
+
+---
+
+**C-12105** Host Says She Sent Material to Journalists From Max Blumenthal to Andrew Tate
+
+Claim Timestamp: 00:27:50
+
+Claim: The host says she sent text messages and screenshots to journalists and others, ranging from Max Blumenthal to Andrew Tate, who will not know where they came from.
+
+Transcript Snippet: I sent it to journalists, text messages, and screenshots to people ranging from Max Blumenthal to Andrew Tate.
+
+Anchored Artifacts: A-3185.1
+Mentions: N-3, N-49, N-173
+Related Nodes: N-10176
+Tags: relevance:context
+Investigative Direction: Ask Blumenthal and Tate or their staff whether they received the material; the host does not say what was sent to whom.
+
+---
+
+**C-12106** O'Neill Said Kirk Was Obviously Dead Before He Hit the Ground
+
+Claim Timestamp: 00:28:35
+
+Claim: Former Navy SEAL Robert J. O'Neill says on the Piers Morgan show that when he watched the video, Charlie Kirk was obviously dead before he hit the ground.
+
+Transcript Snippet: he was obviously dead before he hit the ground.
+
+Anchored Artifacts: A-1229.1
+Mentions: N-156, N-1, N-208
+Tags: relevance:core
+Investigative Direction: Obtain the autopsy or surgeon account of the time of death and the hospital records; O'Neill's remark is a lay reading of the video.
+
+---
+
+**C-12107** O'Neill Said Kirk Was Not Wearing Body Armor and the Shot Would Not Deflect That Way
+
+Claim Timestamp: 00:29:20
+
+Claim: Robert J. O'Neill says Kirk was not wearing body armor and that a shot would not deflect off body armor that way.
+
+Transcript Snippet: he wasn't wearing body armor. And two, it doesn't deflect like that off of body armor.
+
+Anchored Artifacts: A-1229.2
+Mentions: N-156, N-1
+Related Nodes: N-10085
+Tags: relevance:core
+Investigative Direction: Compare with TPUSA and Kolvet accounts of whether Kirk wore a vest; compare with the host's claim that he did not (C-9291).
+
+---
+
+**C-12108** O'Neill Said Interviewed Witnesses Described Right-to-Left Shots and Were Shut Down
+
+Claim Timestamp: 00:29:30
+
+Claim: Robert J. O'Neill asks why people interviewed who said the shot came from their left to right, his right to left, were immediately shut down.
+
+Transcript Snippet: people being interviewed saying, "Yeah, they came from my left to right, from his right to left, immediately shut down."
+
+Anchored Artifacts: A-1229.2
+Mentions: N-156, N-1
+Related Nodes: N-10085
+Tags: relevance:core
+Investigative Direction: Identify the interviewed witnesses and the outlets that dropped their accounts; compare with the shirt-movement claim (C-1385).
+
+---
+
+**C-12109** O'Neill Said 22-Year-Olds Do Not Send Their Lovers Soliloquies of Texts
+
+Claim Timestamp: 00:29:40
+
+Claim: Robert J. O'Neill refers to the soliloquy of text messages that 22-year-olds do not send their transgender lover as another reason the official story needs investigating.
+
+Transcript Snippet: saliloquy of text messages that 22-year-olds don't send their translover
+
+Anchored Artifacts: A-1229.2
+Mentions: N-156, N-40
+Related Nodes: N-10077
+Supports: C-1175
+Tags: relevance:core
+Investigative Direction: Compare the indictment text with Robinson's other messages and with linguistic analysis of the chain.
+
+---
+
+**C-12110** Host Says the Feds Only Lie to Cover Their Own Tracks and Protect Their Bosses
+
+Claim Timestamp: 00:30:20
+
+Claim: The host says the feds are lying and that they only lie to cover their own tracks, protecting themselves and their bosses.
+
+Transcript Snippet: The feds only lie to cover their own tracks. They are protecting themselves and their bosses.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10133
+Supports: C-6449
+Tags: relevance:core
+Investigative Direction: The host names no specific lie in this passage; map it to the specific statements she disputes later in the episode.
+
+---
+
+**C-12111** Host Says She Believes It Was a Military Hit With Foreign Actors and Literal Actors
+
+Claim Timestamp: 00:35:05
+
+Claim: The host says she maintains that the killing was a military hit involving foreign actors and literal actors.
+
+Transcript Snippet: I actually believe that this was a military hit that involved foreign actors and also literal actors.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10172
+Tags: relevance:core
+Investigative Direction: The host presents it as a belief; look for any evidence she cites later and compare with her C-10791 hunch about a military operation by people from overseas.
+
+---
+
+**C-12112** Host Says the Day Ran Like the JFK Assassination With Multiple Decoys
+
+Claim Timestamp: 00:35:25
+
+Claim: The host says she believes the day ran like something akin to the JFK assassination and that there were multiple decoys on the ground.
+
+Transcript Snippet: I believe that that day ran uh something akin to JFK's assassination. I believe that there were therefore multiple decoys on the ground.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10172
+Tags: relevance:core
+Investigative Direction: Identify the decoy persons and the footage she relies on; the host calls this a theory and a hunch.
+
+---
+
+**C-12113** Host Says the Stairs Man Did Not Kill Charlie and the Stairs Photo May Be From Another Day
+
+Claim Timestamp: 00:35:40
+
+Claim: The host says she does not believe the person walking up the stairs killed Charlie, and suspects that the photo was not even taken on the same day.
+
+Transcript Snippet: I do not believe, just so I'm clear here, that the person who was walking up the stairs killed Charlie. In fact, my suspicion is that that photo was not even shot on the same day.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10043, N-10172
+Tags: relevance:core
+Investigative Direction: Obtain the FBI release metadata for the stairs photo and any earlier-dated copies.
+
+---
+
+**C-12114** Host Says the Rooftop Runner Was Another Decoy and the Shot Did Not Come From the Losee Center
+
+Claim Timestamp: 00:35:55
+
+Claim: The host says she does not believe the person who ran across the Losee Center rooftop killed Charlie, that this was another decoy, and that she does not believe the shot came from the Losee Center at all.
+
+Transcript Snippet: I do not believe that the person who ran across Lozi rooftop killed Charlie. I think it was another decoy. I do not believe that shot came from a Lozi Center at all.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10172, N-10769
+Tags: relevance:core
+Investigative Direction: Obtain the rooftop footage, the ballistics trajectory report and the scene survey; compare with the rooftop-runner witness claims in episode 10.
+
+---
+
+**C-12115** Host Says There Were Four Decoys: Zinn, Staircase Guy, Maroon Shirt Guy and Losee Center Guy
+
+Claim Timestamp: 00:36:20
+
+Claim: The host says that her view implies a total of four decoys, George Zinn, staircase guy, maroon shirt guy and Losee Center guy, none of whom she believes pulled the trigger.
+
+Transcript Snippet: there are thus for a total of four decoys like George Zinn, staircase guy, maroon shirt guy, and Lozi center guy.
+
+Anchored Artifacts: 
+Mentions: N-42, N-3
+Related Nodes: N-10172, N-10032
+Tags: relevance:core
+Investigative Direction: Ask the host to identify each decoy by footage time and to say who she thinks fired; verify each against official release materials.
+
+---
+
+**C-12116** Host Says Lance Twiggs Is Likely the Maroon Shirt Walker, Thinner Than Robinson
+
+Claim Timestamp: 00:36:40
+
+Claim: The host says it is much more likely that Lance Twiggs is the one walking in the maroon shirt, because his build is thinner and nothing like Tyler Robinson's, and that she is speculating.
+
+Transcript Snippet: I think it's much more likely that Lance Twiggs is the one that is walking in that maroon shirt. His build is nothing like Tyler Robinson's build.
+
+Anchored Artifacts: 
+Mentions: N-54, N-40
+Related Nodes: N-10168, N-10702
+Tags: relevance:core
+Investigative Direction: Compare heights and builds from known photographs of Twiggs and Robinson with the maroon-shirt footage, and confirm Twiggs's whereabouts that morning.
+
+---
+
+**C-12117** Host Speculates Robinson Was Driving Around Campus Assisting Costume Changes
+
+Claim Timestamp: 00:36:55
+
+Claim: The host speculates that Tyler Robinson was involved and was driving around campus that day, assisting in costume changes and likely picking up clothing.
+
+Transcript Snippet: I believe Tyler Robinson was involved and he was in fact driving around campus on that day, therefore assisting in the costume changes, likely picking up clothing.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10735, N-10019
+Tags: relevance:core
+Investigative Direction: Obtain vehicle, license plate reader and campus camera records for Robinson's movements on September 10.
+
+---
+
+**C-12118** Host Says Robinson Was Seen at Dairy Queen Dumping Clothing in the Cemetery
+
+Claim Timestamp: 00:37:05
+
+Claim: The host says Tyler Robinson was seen at Dairy Queen and was seen dumping clothing in the cemetery beside it, as she says she previously reported.
+
+Transcript Snippet: Tyler was seen at Dairy Queen and what was he seen doing? As I told you, dumping clothing in the cemetery beside that Dairy Queen.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10051
+Tags: relevance:core
+Investigative Direction: Identify the source of the dumping sighting and any Dairy Queen or cemetery camera footage and receipts.
+
+---
+
+**C-12119** Host Says a First-Time Killer Would Not Sit Down for Dairy Queen After an Adrenaline Surge
+
+Claim Timestamp: 00:37:30
+
+Claim: The host argues it makes no sense biologically that someone who had never killed would be high on adrenaline after a kill and decide to eat at Dairy Queen and write poetic text messages.
+
+Transcript Snippet: Uh it's completely a nonsense to think that a person who had never killed anyone was high on adrenaline after a kill and decided to eat Dairy Queen.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10051
+Tags: relevance:context
+Investigative Direction: This is the host's inference; compare with the Dairy Queen photo time (C-1186) and any physiology expert comment.
+
+---
+
+**C-12120** Host Says Officials Are Freaking Out About the Dairy Queen Leak Because It Disrupts Their Narrative
+
+Claim Timestamp: 00:37:55
+
+Claim: The host says the Dairy Queen leak is one of many things that disrupt the official narrative and that this is why officials are freaking out about it.
+
+Transcript Snippet: It's why they are freaking out about that Dairy Queen leak because it disrupts their narrative.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10051
+Tags: relevance:context
+Investigative Direction: Identify who the host means by officials and whether any agency reaction to the leak is documented.
+
+---
+
+**C-12121** Host Guesses Lance Twiggs Is a Federal Asset, Perhaps Through Discord Work
+
+Claim Timestamp: 00:38:10
+
+Claim: The host says she thinks Tyler Robinson's roommate, Lance Twiggs, is federally protected and ventures a guess that he is a federal asset of some description, perhaps through his online work on Discord chats.
+
+Transcript Snippet: So, I feel confident, or I shouldn't say completely confident, but I feel like it's okay to venture a guess that he is a federal asset of some description.
+
+Anchored Artifacts: 
+Mentions: N-54, N-40
+Related Nodes: N-10598, N-10044, N-10013
+Tags: relevance:core
+Investigative Direction: Look for records of any federal contact with Twiggs; the host labels this a guess and offers no document.
+
+---
+
+**C-12122** Host Says the Government Lied That Lance Came In Peacefully and Handed Over Everything
+
+Claim Timestamp: 00:38:30
+
+Claim: The host says the government, implicating Governor Cox and others at the press conference the morning after Robinson was apprehended, lied when it said Lance came in peacefully and handed over everything.
+
+Transcript Snippet: the government lied when they said, uh, Lance, you know, I'm obviously paraphrasing here, he came in peacefully. He handed over everything.
+
+Anchored Artifacts: A-1235.2
+Mentions: N-41, N-54, N-40, N-3
+Related Nodes: N-10034
+Contradicts: C-10702
+Tags: relevance:core
+Investigative Direction: Obtain the press conference transcript, the search warrant return and bodycam or interview logs showing what Lance handed over and when he was released.
+
+---
+
+**C-12123** Host Says Investigators Were Going Off Mike Mitchell's Tip and Had No Confession
+
+Claim Timestamp: 00:39:15
+
+Claim: The host says authorities were going off the tip from the mysterious detective Mike Mitchell and had no confession when they raided.
+
+Transcript Snippet: They were going off of Mike, the mysterious detective Mike Mitchell's tip. They had no confession.
+
+Anchored Artifacts: 
+Mentions: N-126, N-40
+Related Nodes: N-10151
+Tags: relevance:core
+Investigative Direction: Compare with episode 11 accounts of a retired detective's call and with the warrant affidavit and its timeline.
+
+---
+
+**C-12124** Host Says the Feds Are Staging the Whole Operation, Including the Note Under the Keyboard
+
+Claim Timestamp: 00:39:45
+
+Claim: The host says the feds are staging the entire operation, and that to get a conviction they need to say they found something in his house, such as the note under the keyboard that she says was destroyed after being photographed.
+
+Transcript Snippet: Now, the feds are staging this entire operation. So, that would follow that if you're trying to get a conviction, you got to be like, "And we found this in his house."
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10143, N-10041
+Tags: relevance:core
+Investigative Direction: Obtain the search warrant inventory and any chain of custody for the note, the photo metadata and the iCloud record.
+
+---
+
+**C-12125** Host Says Lance Has Been in an Unknown Location Since the Raid
+
+Claim Timestamp: 00:40:45
+
+Claim: The host says Lance Twiggs has been in an unknown location since the raid, that she would imagine he was in witness protection for a bit, and that he has not contacted his family.
+
+Transcript Snippet: Lance has similarly been in an unknown known location since the raid.
+
+Anchored Artifacts: A-1235.3
+Mentions: N-54
+Related Nodes: N-10044
+Tags: relevance:core
+Investigative Direction: Check public sightings of Twiggs and any family statements about contact since the raid; compare with the family's account (C-1400).
+
+---
+
+**C-12126** Host Says She Never Thought the Maroon Shirt Person Was the Person With the Limp
+
+Claim Timestamp: 00:41:05
+
+Claim: The host says she never for a second thought the person in the maroon shirt was the same as the person walking with the limp, and that the government has distracted the public with photos of different people.
+
+Transcript Snippet: I never for a second thought the person that was in the maroon shirt was the same as the person that was walking with the limp.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10043, N-10168
+Supports: C-1183
+Tags: relevance:core
+Investigative Direction: Compare gait, build and clothing in the maroon-shirt footage and the limping-person footage.
+
+---
+
+**C-12127** Host Says It Would Be Interesting If the Feds Were Paying George Zinn
+
+Claim Timestamp: 00:42:30
+
+Claim: The host says it would be very interesting if the feds were going to pay George Zinn, though she is not saying they are, and asks why Zinn would not know where the payment was coming from.
+
+Transcript Snippet: it would be very interesting if the feds were going to pay George. I'm not saying they are.
+
+Anchored Artifacts: 
+Mentions: N-42, N-3
+Related Nodes: N-10173, N-10170
+Supports: C-1402
+Tags: relevance:core
+Investigative Direction: Obtain any records of payment to Zinn and the tip source for his federal connections; the host says she has not yet confirmed the tip.
+
+---
+
+**C-12128** Host Says the Feds Questioned Other People They Have Not Disclosed
+
+Claim Timestamp: 00:42:55
+
+Claim: The host says the feds questioned other people whom they did not disclose, and that these people have been told to be quiet about everything.
+
+Transcript Snippet: Other people that they were questioning that they did not share. People that similarly have been told to be quiet about everything.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10133
+Tags: relevance:core
+Investigative Direction: Ask the host for the number of such people and her sources; compare with FBI and county witness lists.
+
+---
+
+**C-12129** Host Says the Silence Orders Are Because the Feds Do Not Want to Get Caught
+
+Claim Timestamp: 00:43:00
+
+Claim: The host says the people being told to be silent are not being silenced to seek a conviction against Tyler Robinson but because the feds do not want to get caught.
+
+Transcript Snippet: they are not asking everyone to be silent because they are seeking a conviction against Tyler Robinson. They are telling everybody to be silent because they don't want to get caught.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10133
+Supports: C-6449
+Tags: relevance:core
+Investigative Direction: Identify any gag order, non-disclosure request or agency instruction to witnesses and compare with court dockets.
+
+---
+
+**C-12130** Host Says Trump's Non-Reaction and Lack of Demands for Truth Upsets Her
+
+Claim Timestamp: 00:43:35
+
+Claim: The host says Donald Trump has not reacted or made any demands for truth regarding the investigation, and that this deeply upsets her.
+
+Transcript Snippet: even Donald Trump's non-reaction not making any demands um for truth regarding this investigation deeply upsets me.
+
+Anchored Artifacts: 
+Mentions: N-5, N-1, N-3
+Tags: relevance:context
+Investigative Direction: Review Trump's public statements since September 10 for any demand about the investigation.
+
+---
+
+**C-12131** Host Says the Mappin Donor Unlocked Another Level of Donations for Kirk
+
+Claim Timestamp: 00:44:15
+
+Claim: The host says the donor behind the public letter, John Mappin, unlocked a whole other level of donations for Charlie Kirk through introductions he made for him.
+
+Transcript Snippet: a donor that actually then unlocked a whole another level of donations for Charlie Kirk through introductions that he made for Charlie
+
+Anchored Artifacts: 
+Mentions: N-157, N-158, N-1
+Tags: relevance:context
+Investigative Direction: Identify the donors introduced by Mappin and any TPUSA donor records; ask Mappin through the host.
+
+---
+
+**C-12132** Host Says the Turning Point UK Event Was Where She First Saw Her Husband George
+
+Claim Timestamp: 00:44:50
+
+Claim: The host says that the Turning Point UK event arranged through the donor was where she first laid eyes on George, her husband, and not when she spoke to him.
+
+Transcript Snippet: And that event was when I first laid eyes on George. Not when I spoke to him, but when I actually first laid eyes on him.
+
+Anchored Artifacts: 
+Mentions: N-30, N-157, N-3
+Related Nodes: N-10118, N-10126
+Tags: relevance:context
+Investigative Direction: Compare with episode 9 claims on the UK trip and husband meeting (C-1267, C-1268). Note that draft claim C-1395 reads George here as Zinn, which the context does not support.
+
+---
+
+**C-12133** Host Says Mappin Will Be the First of Many Donors to Make a Public Statement
+
+Claim Timestamp: 00:45:05
+
+Claim: The host says she thinks the donor who issued the statement will be the first of many donors who might make a public statement.
+
+Transcript Snippet: I think he will be the first of many donors that might make a public statement.
+
+Anchored Artifacts: 
+Mentions: N-157, N-3
+Tags: relevance:context
+Investigative Direction: Track later statements by named TPUSA donors; the host offers no names.
+
+---
+
+**C-12134** Mappin Letter Says Kirk Went Days Without Sleep to Make Vance the Vice Presidential Nominee
+
+Claim Timestamp: 00:46:00
+
+Claim: The Mappin letter says Charlie Kirk did not sleep for several days and nights to ensure that JD Vance became the vice presidential nominee, a job promotion in contrast to investigating a friend's death.
+
+Transcript Snippet: Charlie did not sleep for several days and several nights just to ensure that JD Vance became the vice presidential nominee.
+
+Anchored Artifacts: A-1231.1
+Mentions: N-1, N-4, N-157, N-158
+Tags: relevance:context
+Investigative Direction: Compare with reporting on Kirk's role in the 2024 Vance selection.
+
+---
+
+**C-12135** Mappin Letter Says the Crime Scene Was Apparently Destroyed in Days
+
+Claim Timestamp: 00:46:20
+
+Claim: The Mappin letter says the crime scene appears to have been completely destroyed in days and that plenty of evidence does not add up.
+
+Transcript Snippet: a crime scene apparently completely destroyed in days and plenty of evidence that simply does not add up.
+
+Anchored Artifacts: A-1231.1
+Mentions: N-157, N-158
+Related Nodes: N-10107
+Supports: C-1386
+Tags: relevance:core
+Investigative Direction: Obtain UVU work orders and photographs of the site showing when cleanup and paving occurred.
+
+---
+
+**C-12136** Mappin Letter Calls for Authorities to Share Everything With Candace and Her Team
+
+Claim Timestamp: 00:48:20
+
+Claim: The Mappin letter says the official investigation should be immediately ordered by the appropriate legal authority to proactively share everything it knows with Candace and her selected team.
+
+Transcript Snippet: the official investigation should be immediately ordered by the appropriate legal authority to proactively share everything they know with Candace and her selected team.
+
+Anchored Artifacts: A-1231.1
+Mentions: N-157, N-158, N-3
+Tags: relevance:context
+Investigative Direction: Check whether any authority responded to or acknowledged the letter.
+
+---
+
+**C-12137** Mappin Letter Says Candace Is One of the Only Public Voices From Kirk's Closest Friends
+
+Claim Timestamp: 00:49:15
+
+Claim: The Mappin letter says Candace's point that hers has been one of the only public voices from Charlie's closest friends questioning the communications and demanding clarity is well made.
+
+Transcript Snippet: hers has so far been one of the only public voices from Charlie's closest friends questioning the absurdity of some of the communications
+
+Anchored Artifacts: A-1231.2
+Mentions: N-157, N-158, N-3, N-1
+Tags: relevance:context
+Investigative Direction: Compare with statements by other Kirk friends, such as those reported in episodes 12 to 15.
+
+---
+
+**C-12138** Host Says She Told Viewers Charlie's Life Was Like the Truman Show
+
+Claim Timestamp: 00:53:40
+
+Claim: The host says that she previously told viewers she felt Charlie's life was like the Truman Show.
+
+Transcript Snippet: when I expressed to you that I felt that Charlie's life was like the Truman Show
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:tangential
+Investigative Direction: Locate the earlier episode where the host said this; it is a metaphor, not a factual claim.
+
+---
+
+**C-12139** Host Says Critics Tried to Wipe Away Her Friendship With Kirk by Claiming They Had Not Spoken Since 2015
+
+Claim Timestamp: 00:54:25
+
+Claim: The host says critics tried to erase her friendship with Charlie by saying she had not spoken to him since 2015.
+
+Transcript Snippet: when they even tried to wipe away my friendship, like she hasn't spoken to him since 2015.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:core
+Investigative Direction: Identify who made the 2015 claim; compare with the host's dated texts with Kirk (C-1222) and the Mappin letter's description of their friendship.
+
+---
+
+**C-12140** Host Says She Has the Names of the Security Team, Including People Not Yet Identified
+
+Claim Timestamp: 00:58:00
+
+Claim: In answer to a viewer asking about Kirk's security team, the host says she has everybody's names, including the people the investigation could not identify.
+
+Transcript Snippet: I do. I have everybody's names, the people that we couldn't identify.
+
+Anchored Artifacts: A-3186.1
+Mentions: N-3, N-1
+Related Nodes: N-11321
+Tags: relevance:core
+Investigative Direction: Ask the host to publish the roster or give it to a named reviewer; compare against the security firm and personnel lists in episodes 13 and 60.
+
+---
+
+**C-12141** Host Says Pastors Have Been Part of Spreading the Lies, as She Showed the Day Before
+
+Claim Timestamp: 01:00:40
+
+Claim: The host says that, as she showed the previous day, pastors have been part of spreading these lies, and that it is not okay for pastors to use the Bible to lie.
+
+Transcript Snippet: as I showed you yesterday, you know, pastors that have been a part of this like part of spreading these lies
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10139
+Supports: C-1378
+Tags: relevance:context
+Investigative Direction: Review the pastor sermon clips from the prior episode and identify the pastors.
+
+---
+
+**C-12142** Host Agrees Judeo-Christian Is a Convenient Word for Israel and Values Are Not Shared
+
+Claim Timestamp: 01:01:00
+
+Claim: The host reads a viewer comment saying the term Judeo-Christian seems a convenient word for Israel and that core values and views on Jesus are not shared, and says 'It definitively is not.'
+
+Transcript Snippet: It seems to be a very convenient word for Israel. I don't think any of the core values or their views on Jesus are shared." It definitively is not.
+
+Anchored Artifacts: A-3186.2
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Opinion on religious terminology; compare with C-6466 on the Judeo-Christian chart the host says she sent Kirk.
+
+---
+
+**C-12143** Host Agrees Kirk Knew He Was Going to Be Killed
+
+Claim Timestamp: 01:03:00
+
+Claim: After a viewer comment that Frank Turek said Kirk told him 'they want him dead' and that this makes four sources, the host says Kirk knew he was going to be killed.
+
+Transcript Snippet: He knew. He would know. He knew he was going to be killed.
+
+Anchored Artifacts: A-1233.1
+Mentions: N-1, N-7
+Related Nodes: N-11013
+Supports: C-1398
+Tags: relevance:core
+Investigative Direction: Obtain the Turek podcast clip and the three sources' written communication; compare dates against the claim that Kirk feared being killed the day before.
+
+---
+
+**C-12144** Host Urges Viewers to Join the CIA, the Decentralized Network, Which She Calls More of a Threat
+
+Claim Timestamp: 01:03:45
+
+Claim: The host thanks viewers who signed up on her site, bought merchandise or joined 'our CIA, the decentralized,' and says a decentralized network is a bigger threat because it cannot be whacked the way a centralized one can.
+
+Transcript Snippet: joined our CIA, the decentralized, which is more of a threat, by the way. If it's centralized, you can just whack it. If it's decentralized, it's everywhere.
+
+Anchored Artifacts: A-3187.1
+Mentions: N-3
+Tags: relevance:context
+Investigative Direction: Not a factual claim about the case; recorded as a DIA beat to track the host's decentralized intelligence recruitment theme.
+
+---
+
+**C-12145** Host Says the Freud Book Club Book Is One They Will Not Reprint
+
+Claim Timestamp: 01:04:28
+
+Claim: The host says that tonight's book club begins an introduction to Sigmund Freud and the Jewish Mystical Tradition, a book she says they will not reprint but is a must read.
+
+Transcript Snippet: this book which they will not reprint but is a must readad Sigmund Freud and the Jewish mystical tradition.
+
+Anchored Artifacts: 
+Mentions: N-50, N-3
+Supports: C-6506
+Tags: relevance:tangential
+Investigative Direction: Check the book's print status with the publisher; the host asserts it will not be reprinted.
+
+---
+
 ## 6. Meme Register
 
 **M-82** (meme) Make That Make Sense
@@ -827,13 +2797,117 @@ Confidence: high
 
 ---
 
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:03:45
+Speaker: N-3
+Quote: If it's centralized, you can just whack it. If it's decentralized, it's everywhere.
+Context: Host thanks viewers who joined her network and says a decentralized structure is a bigger threat than a centralized one.
+Tags: dia, decentralized
+Confidence: high
+
+---
+
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:03:45
+Speaker: N-3
+Quote: joined our CIA, the decentralized, which is more of a threat, by the way.
+Context: Host invokes the CIA merch phrase for her viewer network.
+Tags: cia, merch, dia
+Confidence: high
+
+---
+
+**M-16** (meme) Mommy Sleuth
+
+### Occurrence 1
+
+Video Timestamp: 00:20:00
+Speaker: N-3
+Quote: from mom sleuths to government employees
+Context: Host lists mom sleuths among the underground movement of truth tellers.
+Tags: sleuths, dia
+Confidence: medium
+
+---
+
+**M-27** (meme) Shill
+
+### Occurrence 1
+
+Video Timestamp: 00:12:30
+Speaker: N-3
+Quote: Speaking of paying people to shill
+Context: Host accuses Nick Fuentes of being paid to shill.
+Tags: shill, fuentes
+Confidence: high
+
+---
+
+**M-33** (meme) Just Asking Questions
+
+### Occurrence 1
+
+Video Timestamp: 00:08:55
+Speaker: N-873
+Quote: I'm just asking questions.
+Context: Host reads Britta's post and mocks the phrase; the quoted phrase is Britta's.
+Tags: britta, x
+Confidence: medium
+
+---
+
+**M-30** (meme) Nothing to See Here
+
+### Occurrence 1
+
+Video Timestamp: 00:29:51
+Speaker: N-3
+Quote: They paved over it. Nothing to see here.
+Context: Host reacts to O'Neill saying the crime scene was paved over.
+Tags: crime scene, paved
+Confidence: high
+
+---
+
+**M-40** (meme) Truman Show
+
+### Occurrence 1
+
+Video Timestamp: 00:53:40
+Speaker: N-3
+Quote: I felt that Charlie's life was like the Truman Show
+Context: Host recalls telling viewers Charlie's life felt like the Truman Show.
+Tags: truman show
+Confidence: high
+
+---
+
+**M-299** (meme) Blitzkrieg Week
+
+### Occurrence 1
+
+Video Timestamp: 00:10:25
+Speaker: N-3
+Quote: I called it Blitzgree egg week because we're just dropping a bunch of bombs.
+Context: Host explains her name for the run of releases; the transcript mis-spells the German word.
+Tags: blitzkrieg, releases
+Confidence: medium
+
+---
+
 ## VI. Optional Flags
 
 - **Name uncertainty – N-158 (Arena Mappin):** The transcript renders the Mappin wife's name under multiple spellings/pronunciations – "Arena" (introduction and letter attribution),"Reena" (Candace post-reading),"Aarina" (one letter-attribution variant). Most likely transcription ambiguity for a single individual; preserved as "Arena Mappin" pending verification. The surname "Mappin" is given only by Candace, not in the letter itself, which signs off as "John and Arena."
-- **Artifact verbally referenced but not shown – A-1233.1 / N-7 (Frank Turk podcast):** The Frank Turk podcast containing Charlie Kirk's "they want him dead" statement is referenced via a YouTube comment (Luna) and not directly played or displayed. Verification requires locating the original podcast episode.
+- **Artifact verbally referenced but not shown – A-1233.1 / N-7 (Frank Turek podcast):** The Frank Turek podcast containing Charlie Kirk's "they want him dead" statement is referenced via a YouTube comment (Luna) and not directly played or displayed. Verification requires locating the original podcast episode.
 - **Artifact read-aloud but audio playback unverified – A-1234.1 (Josh Hammer show appearance):** The Josh Hammer Zoom-call statement is rendered by Candace in quotes but no audio playback markers (>>) appear; cannot confirm whether the original show audio was played.
 - **Claim failed admission test – none formally:** All inscribed claims passed the artifact-anchor, falsifiability, and rhetoric-removal tests. Several host framing statements (e.g., "this is a military hit that involved foreign actors," "they are protecting themselves and their bosses") were excluded as failing the rhetoric-removal test.
-- **Contradiction noted but not dual-inscribed:** Charlie Kirk's Israel-position framing now has artifact-anchored opposing sides – (a) Hammer/Loomer/Fuentes public posture of unwavering pro-Israel commitment to death (A-1227.4, A-1227.6, A-1234.1) versus (b) Kovette "complicated/wrestle" + text chain (A-1228.4, A-1232.1). Both sides artifact-anchored; not split into a separate "Contradiction" register per protocol but cross-referenced through C-1382 / C-1397.
+- **Contradiction noted but not dual-inscribed:** Charlie Kirk's Israel-position framing now has artifact-anchored opposing sides – (a) Hammer/Loomer/Fuentes public posture of unwavering pro-Israel commitment to death (A-1227.4, A-1227.6, A-1234.1) versus (b) Kolvet "complicated/wrestle" + text chain (A-1228.4, A-1232.1). Both sides artifact-anchored; not split into a separate "Contradiction" register per protocol but cross-referenced through C-1382 / C-1397.
 - **Transcript ambiguity – "Jed Arena":** Candace later jokes "you can be angry at Jed Arena for writing that"; appears to be wordplay on "Arena." Flagged for potential transcription or rhetorical confusion.
 
 ---

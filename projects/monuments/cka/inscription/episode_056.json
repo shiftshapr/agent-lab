@@ -109,7 +109,7 @@
           "@type": "Artifact",
           "@id": "A-1620.1",
           "ref": "A-1620.1",
-          "description": "Host-narrated reference to Paul Vallely (Valerie) as a Turning Point USA board member, described as former military commander of the 7th Psychological Operations Group, with two Vietnam combat tours and postings in Japan, Korea, Iraq, Israel, and Europe.",
+          "description": "Host-narrated reference to Paul Vallely (Paul Vallely) as a Turning Point USA board member, described as former military commander of the 7th Psychological Operations Group, with two Vietnam combat tours and postings in Japan, Korea, Iraq, Israel, and Europe.",
           "related_claims": [
             "C-2081"
           ],
@@ -256,7 +256,7 @@
           "@type": "Artifact",
           "@id": "A-1624.2",
           "ref": "A-1624.2",
-          "description": "Reference to original September lawsuit by two men against former Harvest pastor/missionary Paul Hascgard (Habsgard) alleging abuse at the Romanian children's shelter, including children tied to radiators, kneeling on walnut shells, inappropriate touching, and sex trafficking.",
+          "description": "Reference to original September lawsuit by two men against former Harvest pastor/missionary Paul Havsgaard (Havsgaard) alleging abuse at the Romanian children's shelter, including children tied to radiators, kneeling on walnut shells, inappropriate touching, and sex trafficking.",
           "related_claims": [
             "C-2088"
           ],
@@ -357,6 +357,153 @@
           "tags": [],
           "video_timestamp": "00:44:19",
           "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3213",
+      "family_ref": "A-3213",
+      "bundle_name": "Lindsey Graham Venezuela Aftermath Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3213.1",
+          "ref": "A-3213.1",
+          "description": "Clip of Lindsey Graham addressing the people and leaders of Iran after Venezuela, played within the Tucker Carlson segment",
+          "related_claims": [
+            "C-12533"
+          ],
+          "related_nodes": [
+            "N-10962",
+            "N-458",
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:07:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3214",
+      "family_ref": "A-3214",
+      "bundle_name": "Master Timeline May 13 to June 24 Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3214.1",
+          "ref": "A-3214.1",
+          "description": "Host's master timeline graphic covering May 13 to June 24, 2025, shown with the SUBTU plane entries and the Kirk versus Netanyahu period",
+          "related_claims": [
+            "C-12534",
+            "C-12535",
+            "C-12536",
+            "C-12537",
+            "C-12538",
+            "C-12541"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10074",
+            "N-10309",
+            "N-10310",
+            "N-10539",
+            "N-11079",
+            "N-3",
+            "N-309"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:09:14",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3215",
+      "family_ref": "A-3215",
+      "bundle_name": "Make Heaven Crowded Tour Event Page Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3215.1",
+          "ref": "A-3215.1",
+          "description": "TPUSA Faith event listing on the website, as described by the host, showing Erika Kirk speaking with Harvest Orange County Church on the Make Heaven Crowded tour",
+          "related_claims": [
+            "C-12566"
+          ],
+          "related_nodes": [
+            "N-10398",
+            "N-10411",
+            "N-11203",
+            "N-14",
+            "N-2",
+            "N-456",
+            "N-11340"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:32:12",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3216",
+      "family_ref": "A-3216",
+      "bundle_name": "Sparkle Misili Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3216.1",
+          "ref": "A-3216.1",
+          "description": "Viewer comment from Sparkle Misili read aloud about Israel naming American citizens as enemies",
+          "related_claims": [
+            "C-12578"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:41:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3217",
+      "family_ref": "A-3217",
+      "bundle_name": "Jessica High Five Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3217.1",
+          "ref": "A-3217.1",
+          "description": "Viewer comment from Jessica High Five read aloud about generational farms in rural Virginia being willed over",
+          "related_claims": [
+            "C-12584"
+          ],
+          "related_nodes": [
+            "N-10408",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:50:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
         }
       ]
     }
@@ -716,7 +863,7 @@
       "ref": "N-10411",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
       "type": "investigation_target",
-      "description": "Persistent investigation target: cluster of twelve (rising to twenty-three expected) lawsuits against Harvest Christian Fellowship/Greg Laurie/Paul Hascgard alleging abuse of children at a Romanian shelter.",
+      "description": "Persistent investigation target: cluster of twelve (rising to twenty-three expected) lawsuits against Harvest Christian Fellowship/Greg Laurie/Paul Havsgaard alleging abuse of children at a Romanian shelter.",
       "related_artifacts": [
         "A-1624.1",
         "A-1624.2",
@@ -783,12 +930,715 @@
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-2080"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow and TPUSA CEO; the host ties her to the June 19 Instagram purge, the Fort Huachuca sighting account and a Harvest church speaking engagement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12542",
+        "C-12564",
+        "C-12566",
+        "C-12567"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12524",
+        "C-12525",
+        "C-12526",
+        "C-12527",
+        "C-12528",
+        "C-12531",
+        "C-12532",
+        "C-12534",
+        "C-12535",
+        "C-12537",
+        "C-12538",
+        "C-12539",
+        "C-12540",
+        "C-12542",
+        "C-12543",
+        "C-12544",
+        "C-12545",
+        "C-12546",
+        "C-12547",
+        "C-12548",
+        "C-12549",
+        "C-12553",
+        "C-12557",
+        "C-12559",
+        "C-12560",
+        "C-12562",
+        "C-12563",
+        "C-12564",
+        "C-12565",
+        "C-12567",
+        "C-12569",
+        "C-12571",
+        "C-12572",
+        "C-12573",
+        "C-12574",
+        "C-12575",
+        "C-12576",
+        "C-12577",
+        "C-12578",
+        "C-12579",
+        "C-12580",
+        "C-12581",
+        "C-12582",
+        "C-12583",
+        "C-12584",
+        "C-12585",
+        "C-12586"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 47,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; the host says Kirk lobbied him on Iran and plays a Graham clip invoking him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12527",
+        "C-12533",
+        "C-12578"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Named by the host as an example of someone the government protected.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12582"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host calls him Erika Kirk's PR and notes his local ties to the Harvest area.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12566",
+        "C-12567",
+        "C-12569"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor; the host says the McCoys are from the Riverside area where Harvest is based.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12569"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Israeli prime minister; the host says Kirk went head to head with him in June 2025 and that the assassination benefited his Iran ambitions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12526",
+        "C-12544",
+        "C-12546"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Financier; the host says he confirmed giving a presentation urging younger people not to own property.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12524"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-47",
+      "ref": "N-47",
+      "name": "Ghislaine Maxwell",
+      "type": "person",
+      "description": "Used by the host as the model for a recruiter posing as a casting director.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12574"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-173",
+      "ref": "N-173",
+      "name": "Tate Brothers (Andrew and Tristan)",
+      "type": "person",
+      "description": "Discussed in a viewer comment and the host's reply about their treatment by media and government.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12581",
+        "C-12582",
+        "C-12583"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-270",
+      "ref": "N-270",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Subject of Mitch Snow's reported Fort Huachuca sighting as recounted by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12564"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-366",
+      "ref": "N-366",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Eyewitness whose Fort Huachuca account the host now describes as a psychological operation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12564"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-443",
+      "ref": "N-443",
+      "name": "Johnny Moore",
+      "type": "person",
+      "description": "Named by the host as discussed by Anthony Aguilar in relation to Gaza humanitarian aid.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12579"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-450",
+      "ref": "N-450",
+      "name": "Shinzō Abe",
+      "type": "person",
+      "description": "Former Japanese prime minister; the host recounts his assassin's stated motive.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12549"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12548",
+        "C-12565",
+        "C-12575",
+        "C-12576"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12534",
+        "C-12535",
+        "C-12537",
+        "C-12539",
+        "C-12540"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10309",
+      "ref": "N-10309",
+      "name": "Wedi Machmood Identity Verification Question",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12536"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10310",
+      "ref": "N-10310",
+      "name": "SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12534",
+        "C-12535",
+        "C-12536",
+        "C-12537",
+        "C-12538"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10373",
+      "ref": "N-10373",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12564"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10398",
+      "ref": "N-10398",
+      "name": "Turning Point USA Faith Structure",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12547",
+        "C-12566",
+        "C-12576"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10399",
+      "ref": "N-10399",
+      "name": "Unification Church / Moon Inc. Financial Structure",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12547",
+        "C-12549"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10401",
+      "ref": "N-10401",
+      "name": "Romania / Eastern Europe Trafficking Cluster",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12572",
+        "C-12573"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10402",
+      "ref": "N-10402",
+      "name": "Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12547"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10408",
+      "ref": "N-10408",
+      "name": "Turning Point USA Estate Planning Solicitation",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12548",
+        "C-12584",
+        "C-12585"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10413",
+      "ref": "N-10413",
+      "name": "Project Looking Glass Allegation",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12586"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10417",
+      "ref": "N-10417",
+      "name": "Fort Huachuca Erika Presence Investigation",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12564"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10539",
+      "ref": "N-10539",
+      "name": "Charlie Kirk Iran War Opposition (June 2025)",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12526",
+        "C-12527",
+        "C-12528",
+        "C-12541",
+        "C-12544",
+        "C-12546"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10670",
+      "ref": "N-10670",
+      "name": "Gaza Humanitarian Foundation Leadership/Operational Pipeline",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12579"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10962",
+      "ref": "N-10962",
+      "name": "Venezuela",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12533"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11079",
+      "ref": "N-11079",
+      "name": "Operation Midnight Hammer",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12541",
+        "C-12543"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11182",
+      "ref": "N-11182",
+      "name": "TPUSA Crisis PR Team",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12567"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11203",
+      "ref": "N-11203",
+      "name": "Make Heaven Crowded Tour",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12566"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11238",
+      "ref": "N-11238",
+      "name": "Temple of Set",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12558",
+        "C-12559"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-11338",
+      "ref": "N-11338",
+      "name": "Fort Huachuca",
+      "type": "place",
+      "description": "Army intelligence installation in Arizona that the host repeatedly returns to: she says Michael Aquino trained there, calls it the hub for intel operations, and links it to the Mitch Snow sighting account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12562",
+        "C-12563",
+        "C-12564"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11339",
+      "ref": "N-11339",
+      "name": "Military Base Recruitment and Prosecution-Immunity Allegation",
+      "type": "topic",
+      "description": "The host's account of what unnamed military sources told her: that foreign bases shield personnel from prosecution under government deals and that a woman recruiter posing as a casting director brings young women onto bases.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12573",
+        "C-12574"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11340",
+      "ref": "N-11340",
+      "name": "Harvest Christian Fellowship",
+      "type": "organization",
+      "description": "California megachurch founded by Greg Laurie, the defendant in lawsuits over alleged abuse at a Romanian children's home and the host of the TPUSA Faith Make Heaven Crowded event that Erika Kirk is to join.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12566",
+        "C-12568",
+        "C-12569",
+        "C-12570",
+        "C-12571",
+        "C-12577"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -911,7 +1761,7 @@
       "@id": "C-2081",
       "ref": "C-2081",
       "label": "Paul Vallely Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group",
-      "claim": "Paul Vallely (Valerie) is identified as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.",
+      "claim": "Paul Vallely (Paul Vallely) is identified as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.",
       "anchored_artifacts": [
         "A-1620.1"
       ],
@@ -1046,7 +1896,7 @@
       "@id": "C-2088",
       "ref": "C-2088",
       "label": "Allegations Include Specific Abuse Categories at Romanian Shelter",
-      "claim": "Allegations against Paul Hascgard at the Bucharest children's shelter include children being tied to radiators, made to kneel on walnut shells, touched inappropriately, and pimped out for sex.",
+      "claim": "Allegations against Paul Havsgaard at the Bucharest children's shelter include children being tied to radiators, made to kneel on walnut shells, touched inappropriately, and pimped out for sex.",
       "anchored_artifacts": [
         "A-1624.2"
       ],
@@ -1055,7 +1905,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:34:03",
-      "investigative_direction": "Obtain original complaint; verify specificity of allegations; confirm Hascgard's status (former pastor/missionary).",
+      "investigative_direction": "Obtain original complaint; verify specificity of allegations; confirm Havsgaard's status (former pastor/missionary).",
       "mentions_person_refs": [
         "N-457"
       ]
@@ -1179,7 +2029,1620 @@
       "mentions_person_refs": [
         "N-309"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12524",
+      "ref": "C-12524",
+      "label": "Host Says Ackman Confirmed His Presentation Urging Young People Not to Own Property",
+      "claim": "The host says that when she spoke to influencers at a retreat, Bill Ackman (transcribed as \"Bill Ackman\") confirmed that he gave a presentation encouraging younger generations not to own property.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:19",
+      "investigative_direction": "Identify the retreat and the influencers present; obtain a recording, slides or an Ackman statement confirming the presentation.",
+      "transcript_snippet": "Bill Ackman confirmed it that he gave this presentation to encourage younger generations not to own property.",
+      "supports_claim_refs": [
+        "C-1161"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-37"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12525",
+      "ref": "C-12525",
+      "label": "Host Says Private Equity and Unnatural Disasters Are Feeding a Global Land Grab",
+      "claim": "The host says private equity is buying up large amounts of land and that unnatural disasters then make land very cheap, as part of a global land grab accompanied by war.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:02:07",
+      "investigative_direction": "Compare property-transfer and private-equity purchase filings in areas hit by named disasters; the host offers no specific case here.",
+      "transcript_snippet": "private equity buying a bunch of land. Then you have these unnatural disasters and suddenly land super cheap",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12526",
+      "ref": "C-12526",
+      "label": "Host Says Per Tucker Carlson That Kirk Went Head to Head With Netanyahu in June 2025",
+      "claim": "The host says that during June 2025, according to Tucker Carlson and others who have spoken about it, Charlie Kirk went head to head with Benjamin Netanyahu.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:50",
+      "investigative_direction": "Locate Tucker Carlson's own accounts of his June 2025 conversations with Kirk and any message records between Kirk and Trump circle figures.",
+      "transcript_snippet": "because we know that during the month of June, according to Tucker Carlson and other people who have come out and spoken about this, Charlie goes head to head with BBNet and Yahoo.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-22",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12527",
+      "ref": "C-12527",
+      "label": "Host Says Kirk Lobbied Trump in June to Limit Action to Iran's Nuclear Sites",
+      "claim": "The host says Kirk lobbied President Trump in June not to get involved in Israel's war with Iran, saying any action should be limited to taking out the nuclear sites.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:50",
+      "investigative_direction": "Seek contemporaneous reporting, Kirk show audio from June 2025, or Trump-circle accounts of Kirk's advice before the strikes.",
+      "transcript_snippet": "He lobbies in the month of June for President Trump not to get involved in Israel's war with Iran. He says just limit it to taking out their nuclear sites.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12528",
+      "ref": "C-12528",
+      "label": "Host Says Kirk Was Adamant a War With Iran Would Not Benefit Trump or the American People",
+      "claim": "The host says Kirk was adamant that a war with Iran would not benefit the Trump campaign or the American people.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:10",
+      "investigative_direction": "Compare against the dated Kirk audio the host plays and against other recorded Kirk statements on Iran.",
+      "transcript_snippet": "Charlie was adamant that uh war with Iran would not benefit the Trump campaign and it would not benefit but would not benefit the American people.",
+      "supports_claim_refs": [
+        "C-2075"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12529",
+      "ref": "C-12529",
+      "label": "Graham Clip Says It Is Time to Close the Chapter on the Iranian Ayatollah",
+      "claim": "In the audio the host plays, a clip of Lindsey Graham says it is time to close the chapter on the Iranian Ayatollah and his henchmen and start a new chapter in the Middle East.",
+      "anchored_artifacts": [
+        "A-1617.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:58",
+      "investigative_direction": "Locate the original Graham remarks and their date to confirm the wording and the context in which Kirk replayed them.",
+      "transcript_snippet": "It's time for us to close the chapter on the Iranian Ayatollah and his henchmen and start a new chapter in the Middle East.",
+      "mentions_person_refs": [
+        "N-458"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12530",
+      "ref": "C-12530",
+      "label": "Tucker Says Voters Should Not Want Emotionally Incontinent People on Foreign Payrolls Deciding for an Empire",
+      "claim": "In the clip the host plays, Tucker Carlson says an empire should not have flighty, emotionally incontinent, silly people on the payroll of foreign nations making its decisions, and gives Lindsey Graham as an example.",
+      "anchored_artifacts": [
+        "A-1618.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:51",
+      "investigative_direction": "Locate the original Tucker Carlson segment to verify date, outlet and exact wording.",
+      "transcript_snippet": "What you don't want are flighty, emotionally incontinent, silly people on the payroll of foreign nations making the decisions in an empire cuz that's how you get in trouble.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-458"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12531",
+      "ref": "C-12531",
+      "label": "Host Speculates Israel Holds a Blackmail File on Lindsey Graham",
+      "claim": "The host says she personally thinks Lindsey Graham has the largest blackmail file and that whatever Israel has on him is terrifying; she offers this as speculation, with no document shown.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:51",
+      "investigative_direction": "No evidence is shown. Any public record or named source supporting the existence of such a file would be needed; treat as the host's opinion until then.",
+      "transcript_snippet": "I think personally he's got the largest blackmail file. Whatever Israel has on him, it is terrifying.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-458"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12532",
+      "ref": "C-12532",
+      "label": "Host Says Male Escorts Alleged a Sophisticated Blackmail Ring in DC",
+      "claim": "The host says male escorts have come forward and made allegations that they were running a pretty sophisticated blackmail ring in DC, which she raises while discussing what Lindsey Graham probably gets up to.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:51",
+      "investigative_direction": "Identify the escorts and the public reporting or court records behind the allegations; no names or sources are given on air.",
+      "transcript_snippet": "We've had some male hookers come out come out and make some allegations, but they were running a pretty sophisticated blackmail ring in DC.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-458"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12533",
+      "ref": "C-12533",
+      "label": "Graham Clip Says Trump Will Kill the Ayatollahs if They Keep Killing Their People",
+      "claim": "In a clip the host plays, Lindsey Graham tells the Ayatollahs that if they keep killing people who are demanding a better life, Donald J. Trump is going to kill them; the clip is introduced as coming in the aftermath of Venezuela.",
+      "anchored_artifacts": [
+        "A-3213.1"
+      ],
+      "related_nodes": [
+        "N-10962"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:20",
+      "investigative_direction": "Locate the original Graham post or broadcast and its date to confirm the wording and that it followed the Venezuela operation.",
+      "transcript_snippet": "you need to understand if you keep killing your people who are demanding a better life, Donald J. Trump is going to kill you.",
+      "mentions_person_refs": [
+        "N-458",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12534",
+      "ref": "C-12534",
+      "label": "Host Says Egyptian Planes Follow a Pattern of an Advance Plane Arriving Before the VIP Plane",
+      "claim": "The host says that from the pattern she sees with the Egyptian planes, an anchor plane arrives before the plane carrying the important passenger, possibly to scope the place first.",
+      "anchored_artifacts": [
+        "A-3214.1"
+      ],
+      "related_nodes": [
+        "N-10310",
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:14",
+      "investigative_direction": "Compare arrival dates of the SUBND and SUBTU aircraft at Provo and other U.S. stops across 2022 to 2025 flight data.",
+      "transcript_snippet": "in terms of the patterns that I'm seeing with the Egyptian planes, it gets there before their uh their A-lister arrives",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12535",
+      "ref": "C-12535",
+      "label": "Host Says Flight Radar Would Show SUBTU Circling Cairo Rather Than Flying to Provo",
+      "claim": "The host says that on a flight radar lookup the tail number SUBTU would appear to be flying around in circles in Cairo and the trip to Provo would not be visible.",
+      "anchored_artifacts": [
+        "A-3214.1"
+      ],
+      "related_nodes": [
+        "N-10310",
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:14",
+      "investigative_direction": "Pull ADS-B Exchange and Flightradar24 history for SU-BTU for May and June 2025 and compare with any Provo airport logs.",
+      "transcript_snippet": "It's going to look to you like this tail number SUBTU is just flying around in circles in Cairo.",
+      "supports_claim_refs": [
+        "C-5161"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12536",
+      "ref": "C-12536",
+      "label": "Host Says Wed Machmood on SUBTU Is the Same Name Later on the Yellow Plane on the Assassination Day",
+      "claim": "The host says the Wed Machmood who was aboard SUBTU flying into Provo is the same name that will be on the yellow plane on the day of Charlie Kirk's assassination.",
+      "anchored_artifacts": [
+        "A-3214.1"
+      ],
+      "related_nodes": [
+        "N-10310",
+        "N-10309"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:14",
+      "investigative_direction": "Obtain the manifests or FBO records for both flights and the exact spelling of the passenger name on each.",
+      "transcript_snippet": "That's an important name because that's going to be the same Wed Makmoud that's going to be on our yellow plane on the day of Charlie Kirk's assassination.",
+      "supports_claim_refs": [
+        "C-5160",
+        "C-5161"
+      ],
+      "mentions_person_refs": [
+        "N-309",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12537",
+      "ref": "C-12537",
+      "label": "Host Says She Has Confirmed Those Planes Were in Provo",
+      "claim": "The host says that although the planes did not transpond, she has confirmed that those planes were in fact in Provo.",
+      "anchored_artifacts": [
+        "A-3214.1"
+      ],
+      "related_nodes": [
+        "N-10074",
+        "N-10310"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Ask the host for the confirming source; compare with Provo airport and FBO records.",
+      "transcript_snippet": "but I have confirmed that those planes were in fact in Provo.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12538",
+      "ref": "C-12538",
+      "label": "Host Speculates the Departing SUBTU Could Have Gone to DC Instead of Cairo",
+      "claim": "The host says that because the plane did not transpond on departure it might have gone to DC rather than back to Cairo, and says she should not even say it went back to Cairo.",
+      "anchored_artifacts": [
+        "A-3214.1"
+      ],
+      "related_nodes": [
+        "N-10310"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Look for arrival records at DC-area airports for an Egyptian-registered aircraft between June 2 and June 4, 2025.",
+      "transcript_snippet": "Maybe it went to DC. That plane could have actually gone to DC.",
+      "qualifies_claim_refs": [
+        "C-2094"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12539",
+      "ref": "C-12539",
+      "label": "Host Says Provo Basically Has a City Underground and Would Suit Moving a VIP Out of Israel in Wartime",
+      "claim": "The host says she has learned that Provo basically has a city underground, and she speculates it would be a good place to send a very important person out of Israel during wartime.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Identify the host's source for the underground facility; look for public documentation of such a facility near Provo.",
+      "transcript_snippet": "I've learned Provo basically has a city underground.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12540",
+      "ref": "C-12540",
+      "label": "Host Says There Were Strange Government Cancellations in Provo at That Time",
+      "claim": "The host says there were some strange government cancellations in Provo during that period and defers the detail to a later Egyptian planes episode.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Ask the host to specify which government events or flights were cancelled and obtain the corresponding schedules.",
+      "transcript_snippet": "And there were some strange cancellations, but again, I'm going to save that uh government cancellations in Provo at that time",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12541",
+      "ref": "C-12541",
+      "label": "Host Says Kirk Lobbied for No More Involvement Between June 14 and June 21 Before Midnight Hammer",
+      "claim": "The host says that between June 14 and June 21, leading up to Operation Midnight Hammer, Charlie Kirk was lobbying and saying there should be no more involvement.",
+      "anchored_artifacts": [
+        "A-3214.1"
+      ],
+      "related_nodes": [
+        "N-11079",
+        "N-10539"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:59",
+      "investigative_direction": "Find dated Kirk show segments or messages from June 14 to 21, 2025 that show his position before the strikes.",
+      "transcript_snippet": "between June 14th and June 21st leading up to our operation midnight hammer, which is when we send uh out the planes to bomb for DAO. Charlie's lobbying and saying no more involvement.",
+      "supports_claim_refs": [
+        "C-12527"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12542",
+      "ref": "C-12542",
+      "label": "Host Speculates Kirk May Have Asked Erika to Purge Her Instagram Because He Felt Threatened",
+      "claim": "Tying the June 19 deletion of 126 Instagram posts to the period of Kirk's Iran lobbying, the host speculates that Charlie may have said he felt threatened and did not want people knowing where they were going.",
+      "anchored_artifacts": [
+        "A-1626.1"
+      ],
+      "related_nodes": [
+        "N-10412"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:24",
+      "investigative_direction": "Obtain the Social Blade history and any archived copies of the deleted posts; look for dated travel by the Kirks around June 19.",
+      "transcript_snippet": "So I don't know maybe Charlie saying I feel threatened. I don't want people knowing where we're going.",
+      "supports_claim_refs": [
+        "C-2091"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12543",
+      "ref": "C-12543",
+      "label": "Host Says the U.S. Carried Out a Limited Bombing and Commentators Declared the Iran War Over",
+      "claim": "The host says the U.S. decided to bomb in a limited military exercise, after which everyone said the war with Iran was over and the people predicting a wider war were wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11079"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:24",
+      "investigative_direction": "Cite contemporaneous coverage of Operation Midnight Hammer and statements declaring the war over.",
+      "transcript_snippet": "we decide to bomb for a limited uh military exercise and everyone says the war with Iran is over.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12544",
+      "ref": "C-12544",
+      "label": "Host Says the Pause Ended and Pressure for More Involvement Is Back",
+      "claim": "The host says that because Netanyahu wants what he wants, the June strikes were just a pause, and that people are now demanding the U.S. get more involved in Iran.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:18",
+      "investigative_direction": "Track current official statements and media coverage calling for more U.S. involvement in Iran against the host's January 2026 framing.",
+      "transcript_snippet": "We weren't wrong but BB wants BB gets. So this just means we're hitting pause and now we're here.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12545",
+      "ref": "C-12545",
+      "label": "Host Says the Iranian Street Protests Are a Color Revolution Run by the CIA and a Second Agency",
+      "claim": "The host says the Iranian protests are a color revolution presented as organic, naming the CIA and a second agency that the transcript renders as \"MSA\", though she adds she does not believe at all that the protests are organic.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:18",
+      "investigative_direction": "Ask the host which agency she meant and what evidence she has; compare with reporting on the origin of the Iranian protests.",
+      "transcript_snippet": "they're taking to the streets demanding freedom really CIA and MSA if you haven't done this literally in every country",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12546",
+      "ref": "C-12546",
+      "label": "Host Says Kirk's Assassination Was Obviously a Good Thing for Netanyahu's Iran War Ambitions",
+      "claim": "The host asserts that Charlie Kirk's assassination was obviously a good thing for Benjamin Netanyahu's war ambitions in Iran; she states a benefit and does not say here that Netanyahu was involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:58",
+      "investigative_direction": "This is an inference about who benefited; compare with documented Kirk and Netanyahu exchanges and with the host's earlier claims on Netanyahu's offer to Kirk.",
+      "transcript_snippet": "which was obviously a good thing for BB Netanyahu, his war ambitions in Iran.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12547",
+      "ref": "C-12547",
+      "label": "Host Says She Speculated TPUSA Faith Was Created in the Image of the Moonies",
+      "claim": "The host says that in the previous episode she speculated, because she is an enemy of the faith division, that TPUSA Faith was created in the image of the Moonies, which she calls a Korean cult.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10398",
+        "N-10402",
+        "N-10399"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:58",
+      "investigative_direction": "Compare with the Washington Post and congressional material on the Unification Church cited in episodes 54 and 55 and with any TPUSA Faith founding records.",
+      "transcript_snippet": "I speculated uh because I am enemies with their faith division that it was in fact created in the image of the Mooney's cult, a Korean cult.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12548",
+      "ref": "C-12548",
+      "label": "Host Says TPUSA Used to Ask for Donations and Now Asks Supporters to Include It in Their Wills",
+      "claim": "The host says that after she questioned TPUSA's expansion into estate planning for the elderly, TPUSA used to want just a donation and now wants supporters to put it in their wills.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10408",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:58",
+      "investigative_direction": "Obtain TPUSA's planned-giving and estate-planning webpages and archived copies to date when bequest solicitation began.",
+      "transcript_snippet": "They used to just want a donation. Now they kind of want you to put them in your wills.",
+      "supports_claim_refs": [
+        "C-2074"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12549",
+      "ref": "C-12549",
+      "label": "Host Recounts Abe's Assassin Blaming Him Over His Mother's Gifts to the Unification Church",
+      "claim": "The host recounts that the assassin of former Japanese prime minister Shinzo Abe (transcribed \"Shinzo Abe\") said Abe was to blame because the assassin's mother gave all her money to the Unification Church, leaving the family without enough to eat.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10399"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:58",
+      "investigative_direction": "Cite the court record or reporting on the assassin's stated motive.",
+      "transcript_snippet": "We don't even have enough money to eat because my mother gave all of her money to this church, the unification church.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-450"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12550",
+      "ref": "C-12550",
+      "label": "Host Says the Petition Alleges Jennings Showed Cognitive Decline in 2020 and Hired a Caretaker in 2021",
+      "claim": "The host says that per the lawsuit, Alton Jennings began showing cognitive decline in 2020 and in 2021 hired a caretaker named Mitch Manley Senior; she stresses these are allegations.",
+      "anchored_artifacts": [
+        "A-1619.1"
+      ],
+      "related_nodes": [
+        "N-10409"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:58",
+      "investigative_direction": "Obtain the December 2024 petition and confirm the pleaded dates for the decline and the caretaker's hiring.",
+      "transcript_snippet": "Per the lawsuit, Alton began showing signs of a cognitive decline in 2020. And at that time, a year later rather, in 2021, he hired a caretaker.",
+      "supports_claim_refs": [
+        "C-2077"
+      ],
+      "mentions_person_refs": [
+        "N-451",
+        "N-452"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12551",
+      "ref": "C-12551",
+      "label": "Host Says the Grandson Alleges Manley Senior Isolated Jennings and Seized Control of His Finances",
+      "claim": "The host says the lawsuit, filed by Jennings's grandson, alleges that Mitch Manley Senior isolated the declining man from his friends and family and seized control of his finances.",
+      "anchored_artifacts": [
+        "A-1619.1"
+      ],
+      "related_nodes": [
+        "N-10409"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:20",
+      "investigative_direction": "Obtain the petition and any response from Manley Senior or the recipients; confirm the case outcome.",
+      "transcript_snippet": "he the grandson alleges that thereafter Mitch Manley senior isolated uh his declining grandfather from his friends, from his family, and he seized control of his finances.",
+      "supports_claim_refs": [
+        "C-2077"
+      ],
+      "mentions_person_refs": [
+        "N-451",
+        "N-452"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12552",
+      "ref": "C-12552",
+      "label": "Host Says Jennings's Family Only Discovered the Will Change After His Death",
+      "claim": "The host says that when Jennings died less than three years after the caretaker was hired, at age 95, the family discovered that he had changed his will.",
+      "anchored_artifacts": [
+        "A-1619.1"
+      ],
+      "related_nodes": [
+        "N-10409"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:20",
+      "investigative_direction": "Obtain probate filings showing the date the family learned of the new will and the earlier estate plan.",
+      "transcript_snippet": "when the elderly man died less than 3 years later at the age of 95, the family discovered that he had changed his will.",
+      "supports_claim_refs": [
+        "C-2078"
+      ],
+      "mentions_person_refs": [
+        "N-451"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12553",
+      "ref": "C-12553",
+      "label": "Host Says Bots Never Argue Against War and Thinks Social Media Is Run by the Military",
+      "claim": "The host says she half-subscribes to the dead internet theory, thinks X is obviously run by the military, and has never seen bots argue that the US should not go to war.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:19:39",
+      "investigative_direction": "No evidence is offered; bot-network research on X and military influence operations would be the relevant records.",
+      "transcript_snippet": "I've never seen the bots say we shouldn't go to war ever.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12554",
+      "ref": "C-12554",
+      "label": "Host Says Aquino Worked Under Vallely and Became His Research and Analysis Team Leader",
+      "claim": "The host says Paul Vallely collaborated with a major working under him, Michael Aquino, who became his official research and analysis team leader.",
+      "anchored_artifacts": [
+        "A-1621.1"
+      ],
+      "related_nodes": [
+        "N-10410"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:42",
+      "investigative_direction": "Check Army records and the foreword or biography in Mind War for Aquino's and Vallely's units and roles.",
+      "transcript_snippet": "he collaborated with a major that was working under him.",
+      "mentions_person_refs": [
+        "N-808",
+        "N-455"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12555",
+      "ref": "C-12555",
+      "label": "Host Says Aquino Was an Intelligence Officer, Psychological Warfare Expert and Open Satanist",
+      "claim": "The host says that besides being an intelligence officer and psychological warfare expert, Michael Aquino was an open Satanist.",
+      "anchored_artifacts": [
+        "A-1621.1"
+      ],
+      "related_nodes": [
+        "N-10410"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:42",
+      "investigative_direction": "Cross-check Aquino's published biography and Army service record.",
+      "transcript_snippet": "Aside from being an intelligence officer and an expert of psychological warfare, just like Paul Vallely, uh, doing this on behalf of our military, he's also an open Satanist.",
+      "mentions_person_refs": [
+        "N-455",
+        "N-808"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12556",
+      "ref": "C-12556",
+      "label": "Host Says Aquino Became Magister Caverns IV, Editor of The Cloven Hoof and a Member of the Council of Nine",
+      "claim": "The host says that after joining the Church of Satan in 1969 Aquino rose to Magister Caverns of the fourth degree, became editor of The Cloven Hoof and sat on the governing Council of Nine.",
+      "anchored_artifacts": [
+        "A-1622.2"
+      ],
+      "related_nodes": [
+        "N-10410"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:42",
+      "investigative_direction": "Consult Church of Satan publications and Aquino's own writings for the dates and titles.",
+      "transcript_snippet": "rose through the ranks of that church as the magister caverns of of the fourth degree within the church hierarchy. He became the editor of the publication the cloven hoof and he sat on the governing council of the nine.",
+      "supports_claim_refs": [
+        "C-2083"
+      ],
+      "mentions_person_refs": [
+        "N-455"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12557",
+      "ref": "C-12557",
+      "label": "Host Says the Moon Landing and the Manson Murders in 1969 Were All Military Operations",
+      "claim": "The host says that in 1969 the military was spiking the ball with psychological operations, naming the moon landing and the Manson murders, and calls them all military.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:21:42",
+      "investigative_direction": "The host offers no evidence for military authorship of either event; any supporting document would need to be produced.",
+      "transcript_snippet": "psychological operations, moonlanding, whenever you're ready. Uh, the Manson murders, whenever you're ready. All military.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12558",
+      "ref": "C-12558",
+      "label": "Aquino Interview Says the Temple of Set Explores the Self Through Ancient Egyptian Religion",
+      "claim": "In the interview audio, Aquino says the Temple of Set exists to explore the self and personality through ancient Egyptian religion, with no agenda toward good or evil, so that a member is in effect a god responsible for his own moral decisions.",
+      "anchored_artifacts": [
+        "A-1622.1"
+      ],
+      "related_nodes": [
+        "N-11238",
+        "N-10410"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:03",
+      "investigative_direction": "Identify the original interview, its date and interviewer, and compare with Temple of Set published doctrine.",
+      "transcript_snippet": "So the temple of set exists to uh explore the self the personality and we do this through the media of ancient Egyptian religion which we found to be the most sophisticated.",
+      "mentions_person_refs": [
+        "N-455"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12559",
+      "ref": "C-12559",
+      "label": "Host Says Setians Follow the Egyptian Book of the Dead and Their Rituals Include Harming the Innocent",
+      "claim": "The host says the group Aquino describes follows the Egyptian Book of the Dead and believes it can make itself godlike by violating nature, and says part of their ritual is to harm the innocent because that is unnatural.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11238"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:26:53",
+      "investigative_direction": "This is a sweeping claim about a religious group with no source given; Temple of Set texts and any documented criminal cases would be needed.",
+      "transcript_snippet": "So, part of their ritual is to harm the innocent because that's unnatural.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-455"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12560",
+      "ref": "C-12560",
+      "label": "Host Says Satanic Networks Have Always Been in Power, Backed by Bankers and in Charge of Military Psyops",
+      "claim": "The host says the people behind these practices have always been in power, have been backed by the bankers and are in charge of the military's psychological operations.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10410"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:26:53",
+      "investigative_direction": "No source is given; this sweeping group claim cannot be checked as stated.",
+      "transcript_snippet": "These people have always been in power. They've been backed by the bankers.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12561",
+      "ref": "C-12561",
+      "label": "Host Says Police Believed the 1987 Girl but Closed the Aquino Case for Insufficient Evidence",
+      "claim": "The host says that after a girl identified Aquino in 1987 and described the house she was taken to, police believed she was telling the truth but had to close the case for insufficient evidence.",
+      "anchored_artifacts": [
+        "A-1623.2"
+      ],
+      "related_nodes": [
+        "N-10410"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:54",
+      "investigative_direction": "Obtain SFPD records or contemporaneous press for the 1987 case, including whether police stated they believed the girl.",
+      "transcript_snippet": "The police believed she was telling the truth, but they had to close the case because of insufficient evidence that was found",
+      "supports_claim_refs": [
+        "C-2086"
+      ],
+      "mentions_person_refs": [
+        "N-455"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12562",
+      "ref": "C-12562",
+      "label": "Host Says Aquino Was Trained at Fort Huachuca",
+      "claim": "The host says Michael Aquino was trained at Fort Huachuca.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11338",
+        "N-10410"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:54",
+      "investigative_direction": "Check Aquino's Army training history and assignment records for Fort Huachuca.",
+      "transcript_snippet": "Now, it's worth noting that Michael Aquino was trained at Fort Huachuca.",
+      "mentions_person_refs": [
+        "N-455",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12563",
+      "ref": "C-12563",
+      "label": "Host Says Fort Huachuca Is the Hub for Intel Operations and Has Had Many Scandals",
+      "claim": "The host says Fort Huachuca is the hub for intelligence operations and that many scandals have happened there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11338"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:54",
+      "investigative_direction": "Compile documented Fort Huachuca incidents and investigations; the host does not list them here.",
+      "transcript_snippet": "Fort Huachuca, as we've now establish, is the hub for intel operations. And there have been a lot of scandals that have happened at Fort Huachuca.",
+      "supports_claim_refs": [
+        "C-1969"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12564",
+      "ref": "C-12564",
+      "label": "Host Describes the Mitch Snow Account of Seeing Harpole and Erika at Fort Huachuca as a Psychological Operation",
+      "claim": "The host says that her audience endured and survived a psychological operation when Mitch Snow said he saw Brian Harpole and Erika Kirk at Fort Huachuca on different days in the days before the assassination, which she links to the internet screaming at them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373",
+        "N-10417",
+        "N-11338"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:54",
+      "investigative_direction": "Clarify whether the host now regards the Snow account as disinformation or a coordinated pile-on; compare with her earlier statements on Snow's credibility and any corroboration of the sightings.",
+      "transcript_snippet": "man, did we all endure and survive a psychological operation when Mitch Snow came and told us that he saw Brian Harpole and he saw Erika Kirk at Fort Huachuca in the days leading up to Charlie's assassination.",
+      "supports_claim_refs": [
+        "C-6756"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-366",
+        "N-270",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12565",
+      "ref": "C-12565",
+      "label": "Host Says TPUSA Is Discussing Whether to Let Tucker Speak on Its Stage",
+      "claim": "The host says people at Turning Point USA are having discussions about whether they should let Tucker Carlson speak on the stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:29:06",
+      "investigative_direction": "Identify who at TPUSA is discussing this and any scheduled Carlson appearance.",
+      "transcript_snippet": "where they're having discussions about whether or not they should let Tucker speak on the stage",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12566",
+      "ref": "C-12566",
+      "label": "Host Says Erika Kirk Will Speak With Greg Laurie's Harvest Church on the Make Heaven Crowded Tour",
+      "claim": "The host says Erika Kirk is soon going to speak with Greg Laurie's Harvest Church for Turning Point USA Faith's Make Heaven Crowded tour, with the event at Harvest Orange County Church.",
+      "anchored_artifacts": [
+        "A-3215.1"
+      ],
+      "related_nodes": [
+        "N-11203",
+        "N-11340",
+        "N-10411",
+        "N-10398"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:12",
+      "investigative_direction": "Archive the TPUSA Faith tour page and Harvest event listing; confirm the date, venue and whether the event occurred.",
+      "transcript_snippet": "she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded tour.",
+      "supports_claim_refs": [
+        "C-8151"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-456",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12567",
+      "ref": "C-12567",
+      "label": "Host Says Kolvet Is Erika Kirk's PR and Has Been Caught Live-Texting and Acting Behind the Scenes",
+      "claim": "The host says Erika Kirk has Andrew Kolvet as her PR, and describes him as live-texting people and getting caught doing things behind the scenes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11182"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:12",
+      "investigative_direction": "Confirm Kolvet's formal PR role for Erika Kirk and identify the incidents the host refers to.",
+      "transcript_snippet": "she's got Andrew Kolvet as your PR and he's like really smart, you know, live texting people, getting caught doing stuff behind the scenes.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12568",
+      "ref": "C-12568",
+      "label": "Host Says the Original Lawsuit Was Filed in September by Two Men Against Paul Havsgaard",
+      "claim": "The host says the original lawsuit was filed in September by two men claiming that Paul Havsgaard, a former pastor and missionary at Harvest Christian Fellowship in Riverside, California, abused them.",
+      "anchored_artifacts": [
+        "A-1624.2"
+      ],
+      "related_nodes": [
+        "N-10411",
+        "N-11340"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:12",
+      "investigative_direction": "Obtain the September complaint (court, case number, plaintiffs) and Havsgaard's employment history with Harvest.",
+      "transcript_snippet": "The original lawsuit was filed in September by two men claiming that Paul Havsgaard. He is a former pastor and a missionary at Harvest Christian Fellowship in Riverside, California.",
+      "supports_claim_refs": [
+        "C-7944"
+      ],
+      "mentions_person_refs": [
+        "N-457",
+        "N-456"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12569",
+      "ref": "C-12569",
+      "label": "Host Says Kolvet Is From the Same Area and the McCoys Are From There",
+      "claim": "The host says that Kolvet is from that area (she names Santa Barbara) and that the McCoys are from there as well, in the context of the Riverside, California Harvest church.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11340"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:03",
+      "investigative_direction": "Verify Kolvet's and the McCoys' hometowns and any ties to Harvest Christian Fellowship.",
+      "transcript_snippet": "You know, Kolvet's from there, that area. He's from Santa Barbara actually. Um uh McCoys are from there.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12570",
+      "ref": "C-12570",
+      "label": "Host Says Court Documents Claim Harvest and Laurie Funded Havsgaard and Negligently Supervised Him",
+      "claim": "The host says the court documents claim that Greg Laurie and Harvest Christian Fellowship sent funding to Havsgaard and were negligent in supervising him despite reports of abuse.",
+      "anchored_artifacts": [
+        "A-1624.1"
+      ],
+      "related_nodes": [
+        "N-10411",
+        "N-11340"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:03",
+      "investigative_direction": "Obtain the complaints and any Harvest response; confirm the funding transfers and the alleged prior reports.",
+      "transcript_snippet": "The court documents claim that Greg Laurie and the Harvest Christian Fellowship uh sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there, despite reports of abuse.",
+      "mentions_person_refs": [
+        "N-456",
+        "N-457"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12571",
+      "ref": "C-12571",
+      "label": "Host Says Harvest's Response Is That Havsgaard Was One Funded Pastor and Not the Entire Church",
+      "claim": "The host says the Harvest side argues that Havsgaard was a pastor they were funding, that it is not the entire church, and that it is unfair to go after the whole church for what he is alleged to have done.",
+      "anchored_artifacts": [
+        "A-1624.1"
+      ],
+      "related_nodes": [
+        "N-10411",
+        "N-11340"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:00",
+      "investigative_direction": "Obtain Harvest's public statement or court response to confirm it says this.",
+      "transcript_snippet": "It's not the entire church. You know, it's not fair to come after the whole church for what Paul Havsgaard is being alleged to have done.",
+      "mentions_person_refs": [
+        "N-456",
+        "N-457",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12572",
+      "ref": "C-12572",
+      "label": "Host Says South Korean Women Have Filed a Lawsuit Against the U.S. Military Over a Brothel Near Its Bases",
+      "claim": "The host says a group of South Korean women has filed an unprecedented lawsuit against the United States military over running a brothel where its forces are stationed in South Korea.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10401"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:00",
+      "investigative_direction": "Identify the lawsuit (court, case number, plaintiffs, filing date).",
+      "transcript_snippet": "a bunch of South Korean women have filed a unprecedented lawsuit against United States military for the same thing for running a brothel where they are stationed in South in South Korea.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12573",
+      "ref": "C-12573",
+      "label": "Host Says Her Military Sources Describe a Deal That Leaves People on Bases Immune to Prosecution",
+      "claim": "The host says people on foreign military bases are quite immune to prosecution because of a deal struck between governments allowing them to do what they want on base; she attributes this to people she reached out to.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11339",
+        "N-10401"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:00",
+      "investigative_direction": "Review the status-of-forces agreements for the relevant host nations and identify the host's sources.",
+      "transcript_snippet": "they're quite immune uh to prosecution because that's the deal that gets struck that is struck up between the governments is like you can do whatever you want on your base",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12574",
+      "ref": "C-12574",
+      "label": "Host Says Her Sources Describe Bases Sending a Woman Recruiter Posing as a Casting Director",
+      "claim": "The host says her military sources told her bases typically send out a woman, like Ghislaine Maxwell, who finds young women who can be manipulated and describes herself as a casting director to bring them onto the base.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11339"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:06",
+      "investigative_direction": "Identify the host's sources and documented cases of recruiters posing as casting directors for military base access.",
+      "transcript_snippet": "they will typically send someone out uh who will be a woman so think of like a Ghislaine Maxwell uh to go out and to find them their interests their tastes young women that can be manipulated",
+      "mentions_person_refs": [
+        "N-3",
+        "N-47"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12575",
+      "ref": "C-12575",
+      "label": "Host Says Tucker Carlson Is Speaking at Turning Point USA",
+      "claim": "The host says Tucker Carlson, who believes the US should not get involved in wars as Charlie did, is speaking at Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:06",
+      "investigative_direction": "Confirm Carlson's TPUSA speaking date and event from TPUSA's schedule.",
+      "transcript_snippet": "Tucker Carlson, who just believes that we shouldn't get involved in wars just like Charlie believed, is speaking at Turning Point USA.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12576",
+      "ref": "C-12576",
+      "label": "Host Says Pastors Who Seem to Be Rehabilitating Pedophiles Are Welcomed by Turning Point",
+      "claim": "The host says she is concerned about why pastors who seem to be rehabilitating pedophiles are welcomed at Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10398"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:06",
+      "investigative_direction": "The host names no pastors in this sentence; the TPUSA Faith pastor roster and any documented abuse allegations against them would be needed.",
+      "transcript_snippet": "I am kind of concerned why all of these pastors who seem to be rehabilitating pedophiles are welcomed.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12577",
+      "ref": "C-12577",
+      "label": "Host Says Greg Laurie Is Not Denying That the Alleged Abuse Happened",
+      "claim": "The host says it is interesting that Greg Laurie is not saying the abuse did not happen, but rather saying it was one pastor and not the whole church.",
+      "anchored_artifacts": [
+        "A-1624.1"
+      ],
+      "related_nodes": [
+        "N-10411",
+        "N-11340"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:37:25",
+      "investigative_direction": "Obtain Laurie's and Harvest's public statements and court responses to compare with the host's characterization.",
+      "transcript_snippet": "because it's interesting that he's not saying it didn't happen. He's saying well it's not the whole church just this pastor.",
+      "mentions_person_refs": [
+        "N-456",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12578",
+      "ref": "C-12578",
+      "label": "Viewer Comment Says Israel Is Calling Out Named U.S. Citizens as Enemies",
+      "claim": "A viewer comment read by the host, from Sparkle Misili, says Israel naming American citizens and labeling them enemies is disturbing and that President Trump must put an end to it.",
+      "anchored_artifacts": [
+        "A-3216.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:41:25",
+      "investigative_direction": "Locate the Israeli statement the commenter refers to; the host links it to the Likud speech discussed in episode 55.",
+      "transcript_snippet": "Israel calling out citizens in America by their name and labeling them their enemy is so disturbing.",
+      "supports_claim_refs": [
+        "C-2057"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12579",
+      "ref": "C-12579",
+      "label": "Host Says Aguilar Went on Tucker's Show and Spoke About Johnny Moore and Fake Gaza Aid",
+      "claim": "The host says Anthony Aguilar went on Tucker Carlson's show, was attacked, and spoke about Johnny Moore and fake Gaza humanitarian aid that she says let Palestinian children and women be murdered.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10670"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:43:18",
+      "investigative_direction": "Review Aguilar's Tucker Carlson interview for his exact statements about Johnny Moore and the aid sites.",
+      "transcript_snippet": "He went on Tucker Carlson's show and then he was attacked and he spoke about Johnny Moore and the fake Gazin humanitarian aid that was really just kind of letting Palestinian children and uh women be murdered",
+      "mentions_person_refs": [
+        "N-3",
+        "N-459",
+        "N-22",
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12580",
+      "ref": "C-12580",
+      "label": "Host Says They Prefer to Kill People With Vaccines, Illness, Polluted Air and Chemicals",
+      "claim": "The host says that because it would be hard to murder all 370 million Americans, \"they\" prefer vaccines, making people sick, and polluting the air and with chemicals.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:43:18",
+      "investigative_direction": "No source is given; the host does not say who \"they\" are.",
+      "transcript_snippet": "That's why they prefer the method of vaccines and making us sick and uh polluting the air and chemicals and things of that nature.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12581",
+      "ref": "C-12581",
+      "label": "Host Says Israel-Aligned Actors Wanted the Tate Brothers Jailed With No Charges in the U.S.",
+      "claim": "The host says that as soon as the Tate brothers landed on American soil, Zionists (transcribed \"ionists\") wanted to put them in prison even though there were no charges in America.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:49:20",
+      "investigative_direction": "Check U.S. court records for any charges against the Tate brothers after their arrival, and identify who the host means.",
+      "transcript_snippet": "as soon as they landed on American soil, these ionists wanted to put him in prison by having no charges in America.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-173"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12582",
+      "ref": "C-12582",
+      "label": "Host Says the Tates Are Attacked by the Media Apparatus and Would Be Protected if They Worked for the Government",
+      "claim": "The host says the government protects its own, as it did Jeffrey Epstein, so the Tate brothers would be protected if they were working for it, and that they are being attacked by the media apparatus because they are not part of it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:49:20",
+      "investigative_direction": "This is the host's inference; compare with documented government action on the Tate brothers and on Epstein.",
+      "transcript_snippet": "The people that are attacked are being attacked by the media apparatus because they're not with the media apparatus.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-173",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12583",
+      "ref": "C-12583",
+      "label": "Host Says the Tate Brothers Have Talked Extensively About Being in the Webcam Business",
+      "claim": "The host says the Tate brothers have talked extensively about being in the webcam business, while saying she opposes pornography as a Catholic.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:26",
+      "investigative_direction": "Cite the Tate brothers' own public statements about the webcam business.",
+      "transcript_snippet": "they've talked about this extensively of webcam stuff.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-173"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12584",
+      "ref": "C-12584",
+      "label": "Viewer Comment Says Generational Farms in Rural Virginia Have Been Quietly Willed Over",
+      "claim": "A viewer comment read by the host, from Jessica High Five, says generational farms in her rural Virginia area have quietly been willed over in recent years, often without the families being aware; the host answers that this is happening.",
+      "anchored_artifacts": [
+        "A-3217.1"
+      ],
+      "related_nodes": [
+        "N-10408"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:26",
+      "investigative_direction": "Identify the farms and recipients through county probate and deed records; the commenter gives no names.",
+      "transcript_snippet": "Generational farms have been quietly willed over the past few years, often without families even aware.",
+      "supports_claim_refs": [
+        "C-2074"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12585",
+      "ref": "C-12585",
+      "label": "Host Tells Viewers Not to Put Relatives in Homes Because the Homes Know What They Are Doing",
+      "claim": "The host says people are not supposed to put their relatives in a home because these homes know what they are doing, and tells viewers to pay attention to relatives being cared for by caretakers.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10408"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:50:26",
+      "investigative_direction": "No specific facility or case is cited; elder-care abuse and bequest records would be needed.",
+      "transcript_snippet": "You're not supposed to put them up in a home because these homes know what they're doing, okay?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12586",
+      "ref": "C-12586",
+      "label": "Host Says the CIA Stole Sumerian Technology Under Project Looking Glass That Stopped Working in 2012",
+      "claim": "The host says the CIA's Project Looking Glass used stolen Sumerian technology that allowed them to predict outcomes and that the technology stopped working in 2012, a topic she promises to cover the next day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10413"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:51:53",
+      "investigative_direction": "No source is given; the host defers to a later episode.",
+      "transcript_snippet": "they stole some Samrian technology that allowed them to predict outcomes. And that technology stopped working in 2012.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-259",
+      "ref": "M-259",
+      "canonical_term": "Candace Owens Was Right Jar",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 56,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "it certainly puts another coin in the Candace was right jar.",
+          "context": "Host opens by saying the Harvest lawsuit adds another coin to her vindication jar.",
+          "confidence": "high",
+          "tags": [
+            "candace was right",
+            "opener"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 56,
+          "video_timestamp": "00:02:50",
+          "speaker_node_ref": "N-3",
+          "quote": "Charlie goes head to head with BBNet and Yahoo.",
+          "context": "Host's Netanyahu nickname while describing Kirk's June clash.",
+          "confidence": "high",
+          "tags": [
+            "netanyahu",
+            "iran"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-83",
+      "ref": "M-83",
+      "canonical_term": "Lo and Behold",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 56,
+          "video_timestamp": "00:16:20",
+          "speaker_node_ref": "N-3",
+          "quote": "lo and behold, when the elderly man died less than 3 years later at the age of 95",
+          "context": "Host ironic reveal as she reaches the Jennings will change.",
+          "confidence": "high",
+          "tags": [
+            "lo and behold",
+            "jennings"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 56,
+          "video_timestamp": "00:25:03",
+          "speaker_node_ref": "N-3",
+          "quote": "there's been so much gaslighting.",
+          "context": "Host says people are gaslit when told what is happening in Hollywood and the military.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "satanism"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 56,
+          "video_timestamp": "00:27:54",
+          "speaker_node_ref": "N-3",
+          "quote": "man, did we all endure and survive a psychological operation when Mitch Snow came and told us",
+          "context": "Host calls the Mitch Snow Fort Huachuca account a psychological operation.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "mitch snow"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-305",
+      "ref": "M-305",
+      "canonical_term": "Shoot My Shot",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 56,
+          "video_timestamp": "00:29:06",
+          "speaker_node_ref": "N-3",
+          "quote": "Shoot my shot.",
+          "context": "Host jokes that as a board member she would raise the pastors on TPUSA's stage.",
+          "confidence": "high",
+          "tags": [
+            "shoot my shot",
+            "board"
+          ]
+        },
+        {
+          "episode": 56,
+          "video_timestamp": "00:37:25",
+          "speaker_node_ref": "N-3",
+          "quote": "here I'll shoot my shot.",
+          "context": "Host offers to do Turning Point's PR for pay.",
+          "confidence": "high",
+          "tags": [
+            "shoot my shot",
+            "pr"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-283",
+      "ref": "M-283",
+      "canonical_term": "Hire Me",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 56,
+          "video_timestamp": "00:37:25",
+          "speaker_node_ref": "N-3",
+          "quote": "But if you would like me to do your PR too, here I'll shoot my shot. You can pay me.",
+          "context": "Host offers to do Turning Point's PR after criticizing its Harvest partnership.",
+          "confidence": "high",
+          "tags": [
+            "pr",
+            "tpusa"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 56,
+          "video_timestamp": "00:41:25",
+          "speaker_node_ref": "N-3",
+          "quote": "Make him a sandwich and blackout.",
+          "context": "Host mentions the new merch line.",
+          "confidence": "high",
+          "tags": [
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 56,
+          "video_timestamp": "00:45:48",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king.",
+          "context": "Host closes a segment on truth with the refrain.",
+          "confidence": "high",
+          "tags": [
+            "christ is king",
+            "faith"
+          ]
+        }
+      ]
+    }
+  ]
 }

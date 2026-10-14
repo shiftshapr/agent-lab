@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-2115.1",
           "ref": "A-2115.1",
-          "description": "Composite screenshot displayed on-screen of social media posts (Graham, Steve D, \"Paramount not so tactical,\" Gunther Eagleman, Jack quoting Don Trump Jr., Ali Beth Stucky, Mike Lee, Andrew Kovat, \"Brent,\" \"Susie,\" Clay Travis) all using the word \"overwhelming\" to describe evidence against Tyler Robinson.",
+          "description": "Composite screenshot displayed on-screen of social media posts (Graham, Steve D, \"Paramount not so tactical,\" Gunther Eagleman, Jack quoting Don Trump Jr., Ali Beth Stucky, Mike Lee, Andrew Kolvet, \"Brent,\" \"Susie,\" Clay Travis) all using the word \"overwhelming\" to describe evidence against Tyler Robinson.",
           "related_claims": [
             "C-3000"
           ],
@@ -125,7 +125,7 @@
           "@type": "Artifact",
           "@id": "A-2117.4",
           "ref": "A-2117.4",
-          "description": "Host's on-air account that Bill Ackman (\"Bill Aman\" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for turning in his son (verbal reference; no displayed artifact)",
+          "description": "Host's on-air account that Bill Ackman (\"Bill Ackman\" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for turning in his son (verbal reference; no displayed artifact)",
           "related_claims": [
             "C-3770"
           ],
@@ -146,13 +146,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2118",
       "family_ref": "A-2118",
-      "bundle_name": "Lance Twigs Courtroom Testimony Audio Bundle",
+      "bundle_name": "Lance Twiggs Courtroom Testimony Audio Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2118.1",
           "ref": "A-2118.1",
-          "description": "Audio of Lance Twigs on witness stand identifying Robinson by generic clothing features (shoes, sunglasses, hat, jeans), stating he could not be 100% certain from camera quality alone but that \"the bottom, the last two definitely do look like him.\"",
+          "description": "Audio of Lance Twiggs on witness stand identifying Robinson by generic clothing features (shoes, sunglasses, hat, jeans), stating he could not be 100% certain from camera quality alone but that \"the bottom, the last two definitely do look like him.\"",
           "related_claims": [
             "C-3003"
           ],
@@ -168,7 +168,7 @@
           "@type": "Artifact",
           "@id": "A-2118.2",
           "ref": "A-2118.2",
-          "description": "Audio of Lance Twigs stating Tyler Robinson was not political, did not discuss Charlie Kirk, and engaged with politics primarily via radio during carpool.",
+          "description": "Audio of Lance Twiggs stating Tyler Robinson was not political, did not discuss Charlie Kirk, and engaged with politics primarily via radio during carpool.",
           "related_claims": [
             "C-3004"
           ],
@@ -324,7 +324,7 @@
           "@type": "Artifact",
           "@id": "A-2123.1",
           "ref": "A-2123.1",
-          "description": "On-screen display of text messages between Tyler Robinson and Lance Twigs, including lines about \"drop everything and look under your keyboard,\" \"I am stuck in Orem for a little while longer yet,\" \"if I'm able to grab my rifle unseen,\" and \"Some hate just can't be negotiated out.\"",
+          "description": "On-screen display of text messages between Tyler Robinson and Lance Twiggs, including lines about \"drop everything and look under your keyboard,\" \"I am stuck in Orem for a little while longer yet,\" \"if I'm able to grab my rifle unseen,\" and \"Some hate just can't be negotiated out.\"",
           "related_claims": [
             "C-3016"
           ],
@@ -517,7 +517,7 @@
           "@type": "Artifact",
           "@id": "A-2128.2",
           "ref": "A-2128.2",
-          "description": "Read-aloud viewer comment by \"Truth Prevail\" characterizing Lance Twigs as \"MK Ultra OP\" and referencing limp-switching observation.",
+          "description": "Read-aloud viewer comment by \"Truth Prevail\" characterizing Lance Twiggs as \"MK Ultra OP\" and referencing limp-switching observation.",
           "related_claims": [
             "C-3004"
           ],
@@ -1552,7 +1552,7 @@
       "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
-      "description": "TPUSA spokesperson; the host cites his statement that it was supposed to be her and his reported revival of the Lance Twigs angle.",
+      "description": "TPUSA spokesperson; the host cites his statement that it was supposed to be her and his reported revival of the Lance Twiggs angle.",
       "related_artifacts": [],
       "related_claims": [
         "C-7250",
@@ -1661,7 +1661,7 @@
       "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
-      "description": "Bari Weiss (captioned Barry Weiss); interviewed Erika Kirk.",
+      "description": "Bari Weiss (captioned Bari Weiss); interviewed Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
         "C-7208"
@@ -1913,8 +1913,8 @@
       "@type": "Claim",
       "@id": "C-3003",
       "ref": "C-3003",
-      "label": "Lance Twigs identified Tyler Robinson only by generic clothing items",
-      "claim": "Lance Twigs testified that he could recognize Robinson only by generic clothing features (jeans, similar shoes, sunglasses, hat), stating he could not be 100% certain from camera quality alone.",
+      "label": "Lance Twiggs identified Tyler Robinson only by generic clothing items",
+      "claim": "Lance Twiggs testified that he could recognize Robinson only by generic clothing features (jeans, similar shoes, sunglasses, hat), stating he could not be 100% certain from camera quality alone.",
       "anchored_artifacts": [
         "A-2118.1"
       ],
@@ -1931,8 +1931,8 @@
       "@type": "Claim",
       "@id": "C-3004",
       "ref": "C-3004",
-      "label": "Lance Twigs testified Tyler Robinson was not political",
-      "claim": "Lance Twigs testified that Tyler Robinson was not political, had not discussed Charlie Kirk with him, and engaged with politics primarily via radio during carpool.",
+      "label": "Lance Twiggs testified Tyler Robinson was not political",
+      "claim": "Lance Twiggs testified that Tyler Robinson was not political, had not discussed Charlie Kirk with him, and engaged with politics primarily via radio during carpool.",
       "anchored_artifacts": [
         "A-2118.2"
       ],
@@ -2128,7 +2128,7 @@
       ],
       "tags": [],
       "claim_timestamp": "01:01:37",
-      "investigative_direction": "Identify the person in Charlie's vehicle who provided the updates; verify against witness accounts of Brian Harpole, Rick Cutler, Frank Turk, Dan Flood, and Justin Davis.",
+      "investigative_direction": "Identify the person in Charlie's vehicle who provided the updates; verify against witness accounts of Brian Harpole, Rick Cutler, Frank Turek, Dan Flood, and Justin Davis.",
       "mentions_person_refs": [
         "N-1",
         "N-97",
@@ -2141,7 +2141,7 @@
       "@id": "C-3016",
       "ref": "C-3016",
       "label": "Tyler-Lance text messages displayed including specific phrases",
-      "claim": "Text messages displayed on-screen between Tyler Robinson and Lance Twigs included lines such as \"I am stuck in Orem for a little while longer yet,\" \"if I'm able to grab my rifle unseen,\" and \"Some hate just can't be negotiated out.\"",
+      "claim": "Text messages displayed on-screen between Tyler Robinson and Lance Twiggs included lines such as \"I am stuck in Orem for a little while longer yet,\" \"if I'm able to grab my rifle unseen,\" and \"Some hate just can't be negotiated out.\"",
       "anchored_artifacts": [
         "A-2123.1"
       ],
@@ -2202,7 +2202,7 @@
       "@id": "C-3770",
       "ref": "C-3770",
       "label": "Host says Bill Ackman immediately pledged $1 million to Tyler Robinson's father, Matt Robinson",
-      "claim": "Recapping the pre-hearing narrative that Tyler Robinson's parents turned him in, the host says Bill Ackman (\"Bill Aman\" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for \"the brave act\" of turning in his son, and says someone should check on that $1 million.",
+      "claim": "Recapping the pre-hearing narrative that Tyler Robinson's parents turned him in, the host says Bill Ackman (\"Bill Ackman\" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for \"the brave act\" of turning in his son, and says someone should check on that $1 million.",
       "anchored_artifacts": [
         "A-2117.4"
       ],
@@ -2210,7 +2210,7 @@
       "tags": [],
       "claim_timestamp": "00:06:50",
       "investigative_direction": "Locate Bill Ackman's original pledge post and any record of payment to Matt Robinson.",
-      "transcript_snippet": "In fact, Bill Aman, King of the Hamptons, immediately pledged $1 million to Tyler Robinson's father, Matt Robinson.",
+      "transcript_snippet": "In fact, Bill Ackman, King of the Hamptons, immediately pledged $1 million to Tyler Robinson's father, Matt Robinson.",
       "confidence": "medium",
       "uncertainty_note": "Host account; the pledge itself is not shown. Matt Robinson has no person node (person band full, awaiting Daveed).",
       "mentions_person_refs": [
@@ -2293,15 +2293,15 @@
       "@id": "C-7206",
       "ref": "C-7206",
       "label": "Host Recaps Narrative That Robinson Acted in Rage Over Trans Rights",
-      "claim": "The host recaps the pre-hearing narrative that Tyler Robinson killed Charlie Kirk in broad daylight in a burning rage over LGBTQ and trans rights, because he has a trans furry boyfriend named Lance Twigs.",
+      "claim": "The host recaps the pre-hearing narrative that Tyler Robinson killed Charlie Kirk in broad daylight in a burning rage over LGBTQ and trans rights, because he has a trans furry boyfriend named Lance Twiggs.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
         "relevance:core"
       ],
       "claim_timestamp": "00:09:27",
-      "investigative_direction": "Compare the motive narrative against the indictment, the charging documents and Lance Twigs's hearing testimony on politics.",
-      "transcript_snippet": "in a burning rage over LGBTQ rights, particularly trans rights because he has a trans furry boyfriend named Lance Twigs.",
+      "investigative_direction": "Compare the motive narrative against the indictment, the charging documents and Lance Twiggs's hearing testimony on politics.",
+      "transcript_snippet": "in a burning rage over LGBTQ rights, particularly trans rights because he has a trans furry boyfriend named Lance Twiggs.",
       "mentions_person_refs": [
         "N-3",
         "N-40",
@@ -2333,7 +2333,7 @@
       "@id": "C-7208",
       "ref": "C-7208",
       "label": "Host Says Erika Told Viewers She Had Seen the Evidence and Was Convinced",
-      "claim": "The host says Erika Kirk told viewers back in November or December that she had seen the evidence and was convinced it was Tyler Robinson, and that by her interview with Barry Weiss her mind was made up.",
+      "claim": "The host says Erika Kirk told viewers back in November or December that she had seen the evidence and was convinced it was Tyler Robinson, and that by her interview with Bari Weiss her mind was made up.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2428,7 +2428,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:11:24",
-      "investigative_direction": "Pull voter registration and donation records for the Robinson household and compare with Lance Twigs's testimony.",
+      "investigative_direction": "Pull voter registration and donation records for the Robinson household and compare with Lance Twiggs's testimony.",
       "transcript_snippet": "Um, I also expressed to you that Tyler Robinson was not political, crucial, and that he came from a family of Trumpers.",
       "supports_claim_refs": [
         "C-3004"
@@ -2483,8 +2483,8 @@
       "@type": "Claim",
       "@id": "C-7215",
       "ref": "C-7215",
-      "label": "Host Says Lance Twigs Is a Federal Asset Who Gathered Tyler's Belongings and Is Blackmailed",
-      "claim": "The host says she has suggested from the beginning that Lance Twigs is a federal asset who gathered Tyler's belongings to pin the crime on him, and that she suspects Lance is heavily blackmailed because he was into some dark web stuff.",
+      "label": "Host Says Lance Twiggs Is a Federal Asset Who Gathered Tyler's Belongings and Is Blackmailed",
+      "claim": "The host says she has suggested from the beginning that Lance Twiggs is a federal asset who gathered Tyler's belongings to pin the crime on him, and that she suspects Lance is heavily blackmailed because he was into some dark web stuff.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10598",
@@ -2494,8 +2494,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:11:24",
-      "investigative_direction": "Look for court filings or records on any agreement with Lance Twigs and on the alleged dark web activity; no document has been shown on air.",
-      "transcript_snippet": "I also have suggested heavily from the beginning that Lance Twigs is a federal asset who gathered Tyler's belongings to pin the crime on him.",
+      "investigative_direction": "Look for court filings or records on any agreement with Lance Twiggs and on the alleged dark web activity; no document has been shown on air.",
+      "transcript_snippet": "I also have suggested heavily from the beginning that Lance Twiggs is a federal asset who gathered Tyler's belongings to pin the crime on him.",
       "mentions_person_refs": [
         "N-3",
         "N-54",
@@ -2506,8 +2506,8 @@
       "@type": "Claim",
       "@id": "C-7216",
       "ref": "C-7216",
-      "label": "Host Says Lance Twigs Got Immunity and Was Not Cross-Examined Despite Hearsay Objections",
-      "claim": "The host says every piece of evidence the influencers push relies on Lance Twigs, who she says was immediately granted immunity by the feds and was not allowed to be cross-examined at this hearing even though arguments were made that his testimony amounted to hearsay.",
+      "label": "Host Says Lance Twiggs Got Immunity and Was Not Cross-Examined Despite Hearsay Objections",
+      "claim": "The host says every piece of evidence the influencers push relies on Lance Twiggs, who she says was immediately granted immunity by the feds and was not allowed to be cross-examined at this hearing even though arguments were made that his testimony amounted to hearsay.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10679",
@@ -2517,7 +2517,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:11:24",
-      "investigative_direction": "Obtain the immunity or cooperation agreement and the hearing transcript rulings on hearsay and cross-examination of Lance Twigs.",
+      "investigative_direction": "Obtain the immunity or cooperation agreement and the hearing transcript rulings on hearsay and cross-examination of Lance Twiggs.",
       "transcript_snippet": "who for some reason was immediately granted immunity by the feds and was not allowed to even be cross-examined at this stage for this hearing.",
       "mentions_person_refs": [
         "N-3",
@@ -2715,7 +2715,7 @@
       "@id": "C-7225",
       "ref": "C-7225",
       "label": "Host Says the Tyler-Lance Messages Were Not Timestamped",
-      "claim": "The host says the Tyler Robinson and Lance Twigs messages presented at the hearing are not timestamped, which is why they are problematic.",
+      "claim": "The host says the Tyler Robinson and Lance Twiggs messages presented at the hearing are not timestamped, which is why they are problematic.",
       "anchored_artifacts": [
         "A-2123.1"
       ],
@@ -2860,8 +2860,8 @@
       "@type": "Claim",
       "@id": "C-7231",
       "ref": "C-7231",
-      "label": "Host Says Testimony Showed Lance Twigs's Prints on the Towel, the Gun and the Dremel",
-      "claim": "The host says there was plenty of testimony that Lance Twigs's prints were on everything, including the towel, the gun and the Dremel used to carve out the messages on the cartridges.",
+      "label": "Host Says Testimony Showed Lance Twiggs's Prints on the Towel, the Gun and the Dremel",
+      "claim": "The host says there was plenty of testimony that Lance Twiggs's prints were on everything, including the towel, the gun and the Dremel used to carve out the messages on the cartridges.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10598"
@@ -2870,8 +2870,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:27:09",
-      "investigative_direction": "Obtain the latent print and DNA reports itemizing the items on which Lance Twigs's prints or DNA were found.",
-      "transcript_snippet": "there was plenty of testimony regarding how Lance Twigs's prints were on everything. The towel, the gun, the Dremel that was used to carve out the messages on the cartridges.",
+      "investigative_direction": "Obtain the latent print and DNA reports itemizing the items on which Lance Twiggs's prints or DNA were found.",
+      "transcript_snippet": "there was plenty of testimony regarding how Lance Twiggs's prints were on everything. The towel, the gun, the Dremel that was used to carve out the messages on the cartridges.",
       "mentions_person_refs": [
         "N-3",
         "N-54"
@@ -2882,7 +2882,7 @@
       "@id": "C-7232",
       "ref": "C-7232",
       "label": "Host Says Lance Claims He Slept Until 1 p.m. on September 10",
-      "claim": "The host says Lance Twigs claims he slept in until 1 p.m. on September 10, 37 minutes after Charlie Kirk was hit at 12:23.",
+      "claim": "The host says Lance Twiggs claims he slept in until 1 p.m. on September 10, 37 minutes after Charlie Kirk was hit at 12:23.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10598"
@@ -2951,8 +2951,8 @@
       "@type": "Claim",
       "@id": "C-7235",
       "ref": "C-7235",
-      "label": "Host Says Oliver Confirmed a Minimum of Five Sets of DNA With Lance Twigs and Matt Robinson Among the Prints",
-      "claim": "The host says Oliver confirmed there was a minimum of five sets of DNA on some of the mixed samples, and that prints on the gun included Lance Twigs and Tyler's father Matt Robinson.",
+      "label": "Host Says Oliver Confirmed a Minimum of Five Sets of DNA With Lance Twiggs and Matt Robinson Among the Prints",
+      "claim": "The host says Oliver confirmed there was a minimum of five sets of DNA on some of the mixed samples, and that prints on the gun included Lance Twiggs and Tyler's father Matt Robinson.",
       "anchored_artifacts": [
         "A-2124.2"
       ],
@@ -2964,7 +2964,7 @@
       ],
       "claim_timestamp": "00:34:22",
       "investigative_direction": "Obtain the DNA report listing contributor counts and any reference samples compared, including the father's.",
-      "transcript_snippet": "which of course included Lance Twigs. Uh it also included Matt Robinson, Tyler's father.",
+      "transcript_snippet": "which of course included Lance Twiggs. Uh it also included Matt Robinson, Tyler's father.",
       "mentions_person_refs": [
         "N-3",
         "N-782",
@@ -3026,7 +3026,7 @@
       "@id": "C-7238",
       "ref": "C-7238",
       "label": "Host Argues Rapid DNA Degradation Does Not Fit Recent Handling and Fits Lance Setting Up the Heirloom Gun",
-      "claim": "The host argues that DNA can stay on an object for decades and degrades with humidity or dust, that it would not seem to degrade immediately after a shooting and disposal of the gun, and that this registers to her as evidence that Lance Twigs took the family heirloom gun and helped the feds set Robinson up.",
+      "claim": "The host argues that DNA can stay on an object for decades and degrades with humidity or dust, that it would not seem to degrade immediately after a shooting and disposal of the gun, and that this registers to her as evidence that Lance Twiggs took the family heirloom gun and helped the feds set Robinson up.",
       "anchored_artifacts": [
         "A-2124.3"
       ],
@@ -3297,8 +3297,8 @@
       "@type": "Claim",
       "@id": "C-7249",
       "ref": "C-7249",
-      "label": "Host Says Lance Twigs Has More DNA on the Gun Than Tyler and Is Not Treated as a Suspect",
-      "claim": "The host says someone must explain why Lance Twigs is not considered a suspect when his DNA is on everything, with more of his DNA than Tyler's on the gun.",
+      "label": "Host Says Lance Twiggs Has More DNA on the Gun Than Tyler and Is Not Treated as a Suspect",
+      "claim": "The host says someone must explain why Lance Twiggs is not considered a suspect when his DNA is on everything, with more of his DNA than Tyler's on the gun.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10598",
@@ -3308,8 +3308,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:54:18",
-      "investigative_direction": "Obtain the DNA report quantifying each contributor's share and any statement of the prosecution on Lance Twigs's status.",
-      "transcript_snippet": "Somebody's going to have to explain why Lance Twigs is not being considered a suspect when his DNA is on everything more of his DNA than Tyler's on the gun.",
+      "investigative_direction": "Obtain the DNA report quantifying each contributor's share and any statement of the prosecution on Lance Twiggs's status.",
+      "transcript_snippet": "Somebody's going to have to explain why Lance Twiggs is not being considered a suspect when his DNA is on everything more of his DNA than Tyler's on the gun.",
       "mentions_person_refs": [
         "N-3",
         "N-54",
@@ -3730,7 +3730,7 @@
       ],
       "claim_timestamp": "01:08:31",
       "investigative_direction": "Establish who arranged the call, its date and length, from phone records and attendees; the transcript here is garbled.",
-      "transcript_snippet": "Really, Bill Aman? put BB9 and Yahoo on the phone and he's just like, \"Hey, I got your letter.",
+      "transcript_snippet": "Really, Bill Ackman? put BB9 and Yahoo on the phone and he's just like, \"Hey, I got your letter.",
       "mentions_person_refs": [
         "N-3",
         "N-37",
@@ -3788,8 +3788,8 @@
       "@type": "Claim",
       "@id": "C-7270",
       "ref": "C-7270",
-      "label": "Host Echoes a Comment That Kolvet Is Reviving the Lance Twigs Angle",
-      "claim": "Reading a viewer comment and saying she saw it too, the host says Andrew Kolvet is reviving the Lance angle, throwing Lance Twigs to the wolves because support for Tyler Robinson is growing.",
+      "label": "Host Echoes a Comment That Kolvet Is Reviving the Lance Twiggs Angle",
+      "claim": "Reading a viewer comment and saying she saw it too, the host says Andrew Kolvet is reviving the Lance angle, throwing Lance Twiggs to the wolves because support for Tyler Robinson is growing.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10598"
@@ -3798,8 +3798,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "01:16:57",
-      "investigative_direction": "Find the Kolvet statements about Lance Twigs the commenter refers to.",
-      "transcript_snippet": "Now, Andrew Kulat is reviving it, likely due to growing support for Tyler Robinson throwing Lance Twigs to the wolves. Yeah, I saw that, too.",
+      "investigative_direction": "Find the Kolvet statements about Lance Twiggs the commenter refers to.",
+      "transcript_snippet": "Now, Andrew Kulat is reviving it, likely due to growing support for Tyler Robinson throwing Lance Twiggs to the wolves. Yeah, I saw that, too.",
       "mentions_person_refs": [
         "N-3",
         "N-14",

@@ -314,7 +314,7 @@ Transcript spelling "Frank Chirico". Marx says he knows him; the host says he an
 
 **N-14** Andrew Kolvet
 
-Transcript spelling "Andrew Kolb". His September 10 texts with the host are read aloud; the host says he ran Charlie Kirk's Twitter and learned of the death shortly after Marx posted.
+Transcript spelling "Andrew Kolvet". His September 10 texts with the host are read aloud; the host says he ran Charlie Kirk's Twitter and learned of the death shortly after Marx posted.
 
 *Related: C-4223, C-4224, C-4239, C-4264, A-2601.1, A-2608.2*
 
@@ -326,7 +326,7 @@ Accused shooter whose defense seeks to have preliminary-hearing evidence sealed 
 
 **N-46** Megyn Kelly
 
-Transcript spelling "Megan Kelly". The host says Erika Kirk told her that Charlie only expressed his succession wish three weeks before his death.
+Transcript spelling "Megyn Kelly". The host says Erika Kirk told her that Charlie only expressed his succession wish three weeks before his death.
 
 *Related: C-4233*
 
@@ -879,7 +879,7 @@ Claim Timestamp: 00:17:28
 
 Claim: The host says Erika Kirk told Megyn Kelly that Charlie Kirk had only expressed the aspiration for her to lead three weeks before his death.
 
-Transcript Snippet: this would sort of rank similar to her telling Megan Kelly that Charlie had only just expressed an aspirin three weeks before his untimely death.
+Transcript Snippet: this would sort of rank similar to her telling Megyn Kelly that Charlie had only just expressed an aspirin three weeks before his untimely death.
 
 Anchored Artifacts:
 Mentions: N-2, N-46, N-1
@@ -969,7 +969,7 @@ Claim Timestamp: 00:23:50
 
 Claim: The host says Andrew Kolvet was running Charlie Kirk's Twitter account, as part of her point that people around Kirk had access to everything.
 
-Transcript Snippet: I believe I know everyone had access to everything. Andrew Kolb was running his Twitter.
+Transcript Snippet: I believe I know everyone had access to everything. Andrew Kolvet was running his Twitter.
 
 Anchored Artifacts:
 Mentions: N-14, N-1
@@ -1586,7 +1586,7 @@ Confidence: high
 
 - **DIA beats**: no qualifying hits. The only keyword hit is "CandaceOwens. com" (55:53), a merch plug rather than a tip request, so no M-12 occurrence was added. The host's invitations to investigators to contact her for the names of the people Erika Kirk told (21:59, 27:25) offer information rather than ask for tips, so they were not treated as DIA beats.
 - **Artifacts verbally referenced but not shown**: A-2602.1 (Marx preservation letter), A-2602.2 (Paramount preservation letter), A-2603.1 (the host's evidence and sources on the September 15 appointment), A-2605.1 (the "emotional asset" communication) and A-2605.2 (the FOIA request). The host also cites a Daily Mail article on a TPUSA board member and the AI video without showing it.
-- **Name matching**: "Frank Chirico" (11:12) is mapped to N-7 Frank Turek, as he and the security team drove Kirk to the hospital; the alias list includes "Frank Churik." "Dan" (12:44) is mapped to N-274 Dan Flood from context (named with Brian Harpole as security). "Ed Gallrein" (52:19, 55:09) is minted as N-645 in the transcript spelling; context (Massie's loss, victory party) suggests Massie's primary opponent, possibly Ed Gallrein, but this is unconfirmed and the integrator should check. "Victor Mark"/"Victor March" are mapped to N-345; "Bryan Harpold" to N-270; "Andrew Kolb" to N-14; "Megan Kelly" to N-46.
+- **Name matching**: "Frank Chirico" (11:12) is mapped to N-7 Frank Turek, as he and the security team drove Kirk to the hospital; the alias list includes "Frank Churik." "Dan" (12:44) is mapped to N-274 Dan Flood from context (named with Brian Harpole as security). "Ed Gallrein" (52:19, 55:09) is minted as N-645 in the transcript spelling; context (Massie's loss, victory party) suggests Massie's primary opponent, possibly Ed Gallrein, but this is unconfirmed and the integrator should check. "Victor Mark"/"Victor March" are mapped to N-345; "Bryan Harpold" to N-270; "Andrew Kolvet" to N-14; "Megyn Kelly" to N-46.
 - **Reused staging titles**: N-10916 uses the episode 104 title "Thomas Massie Kentucky Primary Outside Spending". N-10923 and M-95 use the episode 105 titles "White House Military Office Erika Kirk Amplification Email" and "Emotional Response Asset". M-92 uses the episodes 103/105 title "Paramount Not So Tactical". Episode 104 names the same email "White House Military Office "I Want to Go Home" Amplification Email", so the integrator should reconcile the two.
 - **Transcription ambiguities**: "an aspirin three weeks before" (17:28) is likely "an aspiration"; kept as transcribed. "Eric Richens" vs "Kouri Richins" and "Kouri D. Richins" kept as spoken. "in combat minutes" (06:34) is unclear. The 28:40–30:40 and 46:20–47:58 gaps are breaks with no transcript.
 - **Duration**: the skeleton meta gave 00:56:29; the range was reset to the transcript front-matter duration 57:23.

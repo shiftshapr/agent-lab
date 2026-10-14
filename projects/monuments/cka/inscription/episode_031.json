@@ -13,7 +13,7 @@
     "transcript_sha256": "c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 31 advances two principal evidentiary threads: (1) a documentary case linking Rob McCoy and the Calvary Chapel network to the post-conviction rehabilitation and child-access placement of Thomas Michael Camino (a 1995 California sex-offense convict), and (2) public-comment follow-up from the prior episode. The Camino thread is anchored by a 1995 LA Times article read on air, an email from a victim, and audio clips from a podcast appearance on the \"Bryce Eddie show\" where McCoy introduces Camino and Camino asserts his innocence. The Frank Turk interview on CBN News is read on air, producing two artifact-backed claims regarding prosecution-process objections and a reference to Detective Jay Warner Wallace.\n\nThe second half of the episode pivots to rhetorical display of two external media clips: Tucker Carlson refusing to denounce Owens during a foreign-press interview, and Tim Dillon's comedy commentary on Kash Patel's girlfriend. A lengthy YouTube-comment reading segment produces several artifact-backed claims, most notably a commenter alleging security-guard coordination at the Charlie Kirk event and another describing a Calvary Chapel pastor calling for the burning of Bibles depicting Palestine. The episode does not introduce new documentary evidence on the Charlie Kirk assassination timeline itself; instead it advances character-network allegations against the TPUSA Faith organizational sphere.\n\n---",
+  "executive_summary": "Episode 31 advances two principal evidentiary threads: (1) a documentary case linking Rob McCoy and the Calvary Chapel network to the post-conviction rehabilitation and child-access placement of Thomas Michael Camino (a 1995 California sex-offense convict), and (2) public-comment follow-up from the prior episode. The Camino thread is anchored by a 1995 LA Times article read on air, an email from a victim, and audio clips from a podcast appearance on the \"Bryce Eddie show\" where McCoy introduces Camino and Camino asserts his innocence. The Frank Turek interview on CBN News is read on air, producing two artifact-backed claims regarding prosecution-process objections and a reference to Detective Jay Warner Wallace.\n\nThe second half of the episode pivots to rhetorical display of two external media clips: Tucker Carlson refusing to denounce Owens during a foreign-press interview, and Tim Dillon's comedy commentary on Kash Patel's girlfriend. A lengthy YouTube-comment reading segment produces several artifact-backed claims, most notably a commenter alleging security-guard coordination at the Charlie Kirk event and another describing a Calvary Chapel pastor calling for the burning of Bibles depicting Palestine. The episode does not introduce new documentary evidence on the Charlie Kirk assassination timeline itself; instead it advances character-network allegations against the TPUSA Faith organizational sphere.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -51,7 +51,7 @@
           "@type": "Artifact",
           "@id": "A-1391.1",
           "ref": "A-1391.1",
-          "description": "CBN News Interview: Frank Turk on Candace Owens' Investigation",
+          "description": "CBN News Interview: Frank Turek on Candace Owens' Investigation",
           "related_claims": [
             "C-1682",
             "C-1683"
@@ -228,7 +228,7 @@
           "@type": "Artifact",
           "@id": "A-1397.1",
           "ref": "A-1397.1",
-          "description": "Top Comment #1 (Yesterday): \"Terra Observer\" – Question on Jewish Donor Funding of Christian Organizations; Names \"Bob Showman\"",
+          "description": "Top Comment #1 (Yesterday): \"Terra Observer\" – Question on Jewish Donor Funding of Christian Organizations; Names \"Bob Shillman\"",
           "related_claims": [],
           "related_nodes": [
             "N-10246"
@@ -342,7 +342,7 @@
           "@type": "Artifact",
           "@id": "A-1398.5",
           "ref": "A-1398.5",
-          "description": "Today's Comment: \"Mint Julip\" – Inquiry About Lady Donor Who Yelled at Charlie; Names \"Miriam Adlesen\"",
+          "description": "Today's Comment: \"Mint Julip\" – Inquiry About Lady Donor Who Yelled at Charlie; Names \"Miriam Adelson\"",
           "related_claims": [],
           "related_nodes": [
             "N-1"
@@ -1085,9 +1085,9 @@
       "@type": "Person",
       "@id": "N-98",
       "ref": "N-98",
-      "name": "Bob Shulman",
+      "name": "Robert Shillman",
       "type": "person",
-      "description": "Donor the host names (spelled Bob Showman) when she asks why millions came from one person.",
+      "description": "Donor the host names (spelled Bob Shillman) when she asks why millions came from one person.",
       "related_artifacts": [],
       "related_claims": [
         "C-6666"
@@ -1870,8 +1870,8 @@
       "@type": "Claim",
       "@id": "C-1682",
       "ref": "C-1682",
-      "label": "Frank Turk Stated Candace Is Launching Accusations Without Evidence",
-      "claim": "In a CBN News interview aired in the episode, Frank Turk stated that Candace Owens is making suggestions \"without evidence\" and that \"as soon as you start launching accusations\" the situation becomes painful for people.",
+      "label": "Frank Turek Stated Candace Is Launching Accusations Without Evidence",
+      "claim": "In a CBN News interview aired in the episode, Frank Turek stated that Candace Owens is making suggestions \"without evidence\" and that \"as soon as you start launching accusations\" the situation becomes painful for people.",
       "anchored_artifacts": [
         "A-1391.1"
       ],
@@ -1889,15 +1889,15 @@
       "@type": "Claim",
       "@id": "C-1683",
       "ref": "C-1683",
-      "label": "Frank Turk Invited Jay Warner Wallace onto His Podcast Two Weeks After Kirk's Death",
-      "claim": "In the same CBN News interview, Frank Turk stated he had invited \"Detective Jay Warner Wallace\" onto his podcast two weeks after \"Charlie's martyrdom\" to explain how murder prosecutions work.",
+      "label": "Frank Turek Invited Jay Warner Wallace onto His Podcast Two Weeks After Kirk's Death",
+      "claim": "In the same CBN News interview, Frank Turek stated he had invited \"Detective Jay Warner Wallace\" onto his podcast two weeks after \"Charlie's martyrdom\" to explain how murder prosecutions work.",
       "anchored_artifacts": [
         "A-1391.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:02:06",
-      "investigative_direction": "Locate and verify Frank Turk's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case.",
+      "investigative_direction": "Locate and verify Frank Turek's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case.",
       "mentions_person_refs": [
         "N-7"
       ]
@@ -2245,7 +2245,7 @@
       ],
       "claim_timestamp": "00:03:56",
       "investigative_direction": "Ask the host's team for the invitation and any reply from Turek, and check whether he accepted or declined.",
-      "transcript_snippet": "So, here's what I did. I personally invited Frank Turk onto the show because we legitimately want answers.",
+      "transcript_snippet": "So, here's what I did. I personally invited Frank Turek onto the show because we legitimately want answers.",
       "mentions_person_refs": [
         "N-7",
         "N-3"
@@ -2331,7 +2331,7 @@
       ],
       "claim_timestamp": "00:05:19",
       "investigative_direction": "Compare with earlier episodes that questioned Turek's account (for example the CPR and hospital claims) to see whether this characterization holds.",
-      "transcript_snippet": "I don't think we've ever covered Frank Turk. He hasn't really come up in this investigation. He hasn't been caught in any lies certainly.",
+      "transcript_snippet": "I don't think we've ever covered Frank Turek. He hasn't really come up in this investigation. He hasn't been caught in any lies certainly.",
       "mentions_person_refs": [
         "N-7",
         "N-3"
@@ -3424,7 +3424,7 @@
       ],
       "claim_timestamp": "00:39:45",
       "investigative_direction": "Locate Kelly's own accounts of any such ultimatum and the people who delivered it.",
-      "transcript_snippet": "Uh Megan Kelly, it's your career or it's Tucker Carlson. You decide, right?",
+      "transcript_snippet": "Uh Megyn Kelly, it's your career or it's Tucker Carlson. You decide, right?",
       "mentions_person_refs": [
         "N-46",
         "N-22",
@@ -3601,7 +3601,7 @@
       ],
       "claim_timestamp": "00:49:22",
       "investigative_direction": "Check the Macron complaint's list of defendants and quoted statements to see whether Dillon is named or cited.",
-      "transcript_snippet": "Apparently the president of France watches um Tim Dylan and we talked about the Breij case and so he's drafted in there.",
+      "transcript_snippet": "Apparently the president of France watches um Tim Dillon and we talked about the Breij case and so he's drafted in there.",
       "mentions_person_refs": [
         "N-281",
         "N-82",
@@ -3612,8 +3612,8 @@
       "@type": "Claim",
       "@id": "C-6666",
       "ref": "C-6666",
-      "label": "Host Asks Why Millions of Dollars Came from One Person, Bob Showman",
-      "claim": "Reading the top comment, the host says it is a good question why millions of dollars came from just one person, whom she names Bob Showman, to fund a Christian organization.",
+      "label": "Host Asks Why Millions of Dollars Came from One Person, Bob Shillman",
+      "claim": "Reading the top comment, the host says it is a good question why millions of dollars came from just one person, whom she names Bob Shillman, to fund a Christian organization.",
       "anchored_artifacts": [
         "A-1397.1"
       ],
@@ -3625,7 +3625,7 @@
       ],
       "claim_timestamp": "00:52:57",
       "investigative_direction": "Establish the donor identity (the transcript spells him Showman) and the amounts given to TPUSA, using disclosed donor records.",
-      "transcript_snippet": "Why millions of dollars from just one person, Bob Showman?",
+      "transcript_snippet": "Why millions of dollars from just one person, Bob Shillman?",
       "mentions_person_refs": [
         "N-98",
         "N-3"

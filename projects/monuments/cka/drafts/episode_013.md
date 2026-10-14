@@ -766,7 +766,7 @@ One of the commentators the host says she would debate.
 
 ---
 
-**N-118** Marissa Strait
+**N-118** Marissa Streit
 
 Named by the host as the sender of a text resembling Kisin's tweet.
 
@@ -1373,7 +1373,7 @@ Claim Timestamp: 00:00:00
 
 Claim: The host says that, for no apparent reason, "agents" she compares to Mr. Smith in the Matrix are surrounding Megyn Kelly and demanding that Kelly make a statement against the host and Tucker Carlson.
 
-Transcript Snippet: the agents like I think of them as like Mr. Smith in the Matrix have around I guess they're surrounding Megan Kelly and demanding that she makes a statement against me and Tucker Carlson.
+Transcript Snippet: the agents like I think of them as like Mr. Smith in the Matrix have around I guess they're surrounding Megyn Kelly and demanding that she makes a statement against me and Tucker Carlson.
 
 Anchored Artifacts: 
 Mentions: N-3, N-46, N-22
@@ -1945,7 +1945,7 @@ Claim Timestamp: 00:34:10
 
 Claim: The host says Megyn Kelly tweeted her episode saying to listen to Charlie in his own words, and that Florida Dab replied by demanding she separate from the host.
 
-Transcript Snippet: Megan Kelly tweeted her episode and said, "Listen to Charlie in his own words about what he was going through."
+Transcript Snippet: Megyn Kelly tweeted her episode and said, "Listen to Charlie in his own words about what he was going through."
 
 Anchored Artifacts: A-1201.1
 Mentions: N-46, N-1, N-140, N-3
@@ -1987,11 +1987,11 @@ Investigative Direction: Capture the full original Kelly post.
 
 ---
 
-**C-10810** Host says Kissen's argument is nearly verbatim a text from Marissa Strait
+**C-10810** Host says Kissen's argument is nearly verbatim a text from Marissa Streit
 
 Claim Timestamp: 00:35:51
 
-Claim: The host says Konstantin Kisin's tweet is almost verbatim a text message she received from Marissa Strait after she retweeted Max Blumenthal.
+Claim: The host says Konstantin Kisin's tweet is almost verbatim a text message she received from Marissa Streit after she retweeted Max Blumenthal.
 
 Transcript Snippet: almost verbatim a text message that I received from Marissa Stright when I like retweeted Max Blumenthal
 

@@ -15,10 +15,10 @@
   - Hole-minted Nodes (reintro-ep090): N-10679, N-10703
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8689–C-8754
-  - New Nodes Introduced: N-10593, N-10595, N-10596, N-10597, N-10598
+  - New Nodes Introduced: N-10593, N-10595, N-10596, N-10597
   - Hole-minted Nodes (wave3): N-426, N-427
   - Tip-minted Nodes (skeleton-caleb): N-611
-  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-135, N-5, N-38, N-46, N-60, N-97, N-126, N-162, N-166, N-208, N-248, N-276, N-366, N-369, N-371, N-384, N-781, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594, N-10954
+  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-135, N-5, N-38, N-46, N-60, N-97, N-126, N-162, N-166, N-208, N-248, N-276, N-366, N-369, N-371, N-384, N-781, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594, N-10954, N-10598
   - (see registers)
 
 # EVOLUTION 90 ANALYSIS
@@ -1314,7 +1314,7 @@ Claim Timestamp: 00:18:07
 
 Claim: The host says Jeremy Boreing, the former CEO of Daily Wire, on his Candace tour appearance on Piers Morgan, hedged and tried to make it sound good that Charlie and Ben did not get along.
 
-Transcript Snippet: even Jeremy Boring when he went on his like Candace tour, uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on Piers Morgan.
+Transcript Snippet: even Jeremy Boreing when he went on his like Candace tour, uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on Piers Morgan.
 
 Anchored Artifacts: 
 Mentions: N-3, N-371, N-208, N-1, N-97

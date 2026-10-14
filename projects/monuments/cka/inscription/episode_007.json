@@ -410,7 +410,7 @@
           "@type": "Artifact",
           "@id": "A-1145.2",
           "ref": "A-1145.2",
-          "description": "Comment expressing suspicion re Dr. Frank Turk",
+          "description": "Comment expressing suspicion re Dr. Frank Turek",
           "related_claims": [
             "C-1244"
           ],
@@ -419,7 +419,7 @@
           ],
           "tags": [],
           "video_timestamp": "00:54:58–00:55:55",
-          "transcript_snippet": "Something about Dr. Frank Turk isn't sitting right with me."
+          "transcript_snippet": "Something about Dr. Frank Turek isn't sitting right with me."
         },
         {
           "@type": "Artifact",
@@ -930,7 +930,7 @@
       "@type": "Person",
       "@id": "N-98",
       "ref": "N-98",
-      "name": "Bob Shulman",
+      "name": "Robert Shillman",
       "type": "person",
       "description": "Donor alleged to have withdrawn millions from TPUSA.",
       "related_artifacts": [
@@ -1202,9 +1202,9 @@
       "@type": "Topic",
       "@id": "N-10091",
       "ref": "N-10091",
-      "name": "Dr. Frank Turk Suspicion",
+      "name": "Dr. Frank Turek Suspicion",
       "type": "topic",
-      "description": "Viewer-raised suspicion about Dr. Frank Turk's memorial speech and possible guilt.",
+      "description": "Viewer-raised suspicion about Dr. Frank Turek's memorial speech and possible guilt.",
       "related_artifacts": [
         "A-1145.2"
       ],
@@ -2151,8 +2151,8 @@
       "@type": "Claim",
       "@id": "C-1244",
       "ref": "C-1244",
-      "label": "Dr. Frank Turk raised viewer suspicion after memorial speech",
-      "claim": "A viewer reports persistent unease about Dr. Frank Turk following his memorial speech, citing possible guilt over inaction.",
+      "label": "Dr. Frank Turek raised viewer suspicion after memorial speech",
+      "claim": "A viewer reports persistent unease about Dr. Frank Turek following his memorial speech, citing possible guilt over inaction.",
       "anchored_artifacts": [
         "A-1145.2"
       ],
@@ -2161,8 +2161,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:54:58",
-      "investigative_direction": "Obtain the full Frank Turk memorial speech and biographical background.",
-      "transcript_snippet": "Something about Dr. Frank Turk isn't sitting right with me.",
+      "investigative_direction": "Obtain the full Frank Turek memorial speech and biographical background.",
+      "transcript_snippet": "Something about Dr. Frank Turek isn't sitting right with me.",
       "confidence": "high",
       "mentions_person_refs": [
         "N-7"
@@ -3196,7 +3196,7 @@
       ],
       "claim_timestamp": "00:55:31",
       "investigative_direction": "Compare with later claims the host makes about Turek.",
-      "transcript_snippet": "He gave the speech that he wanted to give and nothing in my research has come up about thus far has come up about Frank Turk.",
+      "transcript_snippet": "He gave the speech that he wanted to give and nothing in my research has come up about thus far has come up about Frank Turek.",
       "mentions_person_refs": [
         "N-3",
         "N-7"
@@ -3430,8 +3430,8 @@
       "@type": "Claim",
       "@id": "C-10770",
       "ref": "C-10770",
-      "label": "Host says Bob Shulman took millions from TPUSA, wanted his name off the building, then reversed",
-      "claim": "The host says she was told the donor who took away millions of dollars from Turning Point, wanted his name taken off the building and then did a 180 when Charlie died was Bob Shulman, as she said the week before.",
+      "label": "Host says Bob Shillman took millions from TPUSA, wanted his name off the building, then reversed",
+      "claim": "The host says she was told the donor who took away millions of dollars from Turning Point, wanted his name taken off the building and then did a 180 when Charlie died was Bob Shillman, as she said the week before.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10036",
@@ -3442,7 +3442,7 @@
       ],
       "claim_timestamp": "00:59:11",
       "investigative_direction": "Check donor filings and building naming records for the donor and dates.",
-      "transcript_snippet": "whether he lost money, which he did. Um I was told that individual was Bob Schman.",
+      "transcript_snippet": "whether he lost money, which he did. Um I was told that individual was Bob Shillman.",
       "confidence": "high",
       "supports_claim_refs": [
         "C-1174"

@@ -248,7 +248,7 @@ Confidence Level: High
 
 **A-2598.1** Viewer comment (Ali) on Erika Kirk's CEO role and Bari Weiss (read aloud)
 
-Quoted text: "The excuse for her being CEO was quote to honor her husband's legacy. If I wanted to dishonor his legacy, I would sit down with Barry Weiss and affirm his support for Israel after he was sick of their bullying and abandoned them and play dumb on Iran."
+Quoted text: "The excuse for her being CEO was quote to honor her husband's legacy. If I wanted to dishonor his legacy, I would sit down with Bari Weiss and affirm his support for Israel after he was sick of their bullying and abandoned them and play dumb on Iran."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:44:29
@@ -304,7 +304,7 @@ The host cites a betrayal by the Trump administration as a reason she is done vo
 
 **N-14** Andrew Kolvet
 
-Transcript spellings "Andrew Kolbatz" and "Andrew Kolb". Named as promoting the Axios denial alongside Blake Neff and Graham Allen.
+Transcript spellings "Andrew Kolbatz" and "Andrew Kolvet". Named as promoting the Axios denial alongside Blake Neff and Graham Allen.
 
 *Related: C-4195, A-2595.2*
 
@@ -322,7 +322,7 @@ Referred to as "Eric"; named among those the host says betrayed Charlie Kirk.
 
 **N-46** Megyn Kelly
 
-Transcript spelling "Megan Kelly" at 00:20:47. Erika Kirk described the Aspen video to her in an interview.
+Transcript spelling "Megyn Kelly" at 00:20:47. Erika Kirk described the Aspen video to her in an interview.
 
 *Related: C-4172, C-4185, A-2592.1*
 
@@ -358,7 +358,7 @@ Transcript spelling "Bryan Hubble". The host says he chose Paramount Tactical fo
 
 **N-282** Bari Weiss
 
-Transcript spelling "Barry Weiss". Mentioned in a viewer comment read on air.
+Transcript spelling "Bari Weiss". Mentioned in a viewer comment read on air.
 
 *Related: A-2598.1*
 
@@ -851,7 +851,7 @@ Claim Timestamp: 00:20:47
 
 Claim: The host says Turning Point USA rolled out the Aspen story to Megyn Kelly and then used the audio as Erika Kirk's walkout music when she took Charlie Kirk's role at AmFest.
 
-Transcript Snippet: I'm not the one who told you to roll out the sad story to Megan Kelly, and then to have it be her walk out music as she accepted the glory of taking his role at AmFest.
+Transcript Snippet: I'm not the one who told you to roll out the sad story to Megyn Kelly, and then to have it be her walk out music as she accepted the glory of taking his role at AmFest.
 
 Anchored Artifacts: 
 Mentions: N-46, N-2
@@ -1426,7 +1426,7 @@ Confidence: high
 
 - **DIA beats**: no hits for any DIA trigger phrase (tips, tip line, candaceowens.com, send us an email, decentralized intelligence, DCIA, bounty) in this transcript, so no M-12 or M-14 occurrence was added.
 - **Artifacts verbally referenced but not shown**: the original WHCD email and the host's retyped post of it; Erika Kirk's first Charlie Kirk Show appearance (C-4187); Paramount Tactical's website (C-4207); the Built contract records (C-4208). The Megyn Kelly interview (A-2592.1) appears to be on screen ("look at the tears in her eye"), but the exact clip is unclear, hence Medium confidence.
-- **Name matching**: "Bryan Hubble" (37:55) is matched to N-270 Brian Harpole from context: the person who gave an interview to Paramount Tactical, in line with C-2906/C-2907. "Andrew Kolbatz"/"Andrew Kolb" map to N-14, and "Laky Neff"/"Blakey fake and F" map to N-162 Blake Neff. "Eric and Kirk" (33:08) is read as Erika Kirk. "Ryan Rippeon" (35:13) and "Ryan Rippey" (36:27) are treated as one new person, N-628, with spelling unverified. "Gary" and "Gary Melton" are treated as the Paramount Tactical operator (N-622). Paramount Tactical is mapped to the existing organization N-10899 "Paramount Tactical Valhalla". Prior claim C-2907 names Paramount Tactical and Valhalla separately, so the integrator should confirm this node covers Paramount Tactical itself.
+- **Name matching**: "Bryan Hubble" (37:55) is matched to N-270 Brian Harpole from context: the person who gave an interview to Paramount Tactical, in line with C-2906/C-2907. "Andrew Kolbatz"/"Andrew Kolvet" map to N-14, and "Laky Neff"/"Blakey fake and F" map to N-162 Blake Neff. "Eric and Kirk" (33:08) is read as Erika Kirk. "Ryan Rippeon" (35:13) and "Ryan Rippey" (36:27) are treated as one new person, N-628, with spelling unverified. "Gary" and "Gary Melton" are treated as the Paramount Tactical operator (N-622). Paramount Tactical is mapped to the existing organization N-10899 "Paramount Tactical Valhalla". Prior claim C-2907 names Paramount Tactical and Valhalla separately, so the integrator should confirm this node covers Paramount Tactical itself.
 - **Decoy boy number two**: the host does not name him or his father; C-4208 links to N-10577/N-10578 and Supports C-2632 (Built Inc. Air Force/Navy awards) on the shared proposition. Mentions of Ahmed Qureshi were left out because he is not named on air.
 - **Transcription ambiguities**: "Brigitte doll" (00:00:01, 03:44) is kept as spoken and not matched to any node. "pointing her ICO" (48:43) is presumably "appointing her CEO". "Hollywood companies that specialize in IA" is kept as spoken. "Phil Tourney" is named only as the host's top-ranked interview, so no claim cites him.
 - **Cross-episode links left out**: the WHCD email story itself was first broken in an earlier episode ("last week"), but no matching claim appears in claims_index.tsv (episodes 103–105 have no indexed claims), so C-4192/C-4193 carry no Supports link. C-4198 (the Military Office may not have sent the email) may qualify the host's earlier attribution; it is left unlinked for the same reason. C-4175 (TPUSA released the audio) relates to C-2889 but is not the same proposition.

@@ -19,7 +19,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2085",
       "family_ref": "A-2085",
-      "bundle_name": "Sean Ryan Show Interview Clip Bundle",
+      "bundle_name": "Shawn Ryan Show Interview Clip Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -489,7 +489,7 @@
       "@type": "Topic",
       "@id": "N-10681",
       "ref": "N-10681",
-      "name": "Sean Ryan Show Interview Clip Bundle",
+      "name": "Shawn Ryan Show Interview Clip Bundle",
       "type": "topic",
       "description": "",
       "related_artifacts": [],
@@ -842,7 +842,7 @@
       "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
-      "description": "TPUSA spokesperson (rendered \"Andrew Kolb\" in the transcript); the host links him to the Project Constitution reply and the \"Superman neck\" tweet.",
+      "description": "TPUSA spokesperson (rendered \"Andrew Kolvet\" in the transcript); the host links him to the Project Constitution reply and the \"Superman neck\" tweet.",
       "related_artifacts": [],
       "related_claims": [
         "C-5821",
@@ -947,7 +947,7 @@
       "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
-      "description": "Podcast host (rendered \"Shawn Ryan\" and \"Sean Ryan\"); interviewed Brian Harpole.",
+      "description": "Podcast host (rendered \"Shawn Ryan\" and \"Shawn Ryan\"); interviewed Brian Harpole.",
       "related_artifacts": [],
       "related_claims": [
         "C-5784"
@@ -1818,7 +1818,7 @@
       "@id": "C-2935",
       "ref": "C-2935",
       "label": "Harpole Claims He Cut Charlie Kirk's Shirt Off at Hospital",
-      "claim": "Brian Harpole states in the Sean Ryan interview that he personally cut Charlie Kirk's white \"freedom shirt\" off at the hospital.",
+      "claim": "Brian Harpole states in the Shawn Ryan interview that he personally cut Charlie Kirk's white \"freedom shirt\" off at the hospital.",
       "anchored_artifacts": [
         "A-2085.1"
       ],
@@ -1827,7 +1827,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
-      "investigative_direction": "Obtain Sean Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.",
+      "investigative_direction": "Obtain Shawn Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.",
       "mentions_person_refs": [
         "N-270",
         "N-1"
@@ -2041,7 +2041,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:12",
-      "investigative_direction": "Locate Coleman's early posts or videos on the shirt and compare them with Harpole's later Sean Ryan account.",
+      "investigative_direction": "Locate Coleman's early posts or videos on the shirt and compare them with Harpole's later Shawn Ryan account.",
       "transcript_snippet": "someone pointed out to me that Baron Coleman had already furnished the answer to it as well as other people a long time ago actually in his early days of covering the case.",
       "mentions_person_refs": [
         "N-334",
@@ -2122,7 +2122,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:26",
-      "investigative_direction": "Obtain the complaint and identify which statements about the Sean Ryan interview are at issue.",
+      "investigative_direction": "Obtain the complaint and identify which statements about the Shawn Ryan interview are at issue.",
       "transcript_snippet": "according to Brian Harpole, who joined Shawn Ryan for a car crash interview, for which I'm being sued over.",
       "mentions_person_refs": [
         "N-270",
@@ -2135,7 +2135,7 @@
       "@id": "C-5785",
       "ref": "C-5785",
       "label": "Harpole says he put Charlie on a gurney, gave patient information and cut the shirt for the defibrillator",
-      "claim": "In the Sean Ryan clip, Harpole says he put Charlie on a gurney, wheeled him into a room, began giving patient information to the staff, and cut the shirt off so they could put a defibrillator on him.",
+      "claim": "In the Shawn Ryan clip, Harpole says he put Charlie on a gurney, wheeled him into a room, began giving patient information to the staff, and cut the shirt off so they could put a defibrillator on him.",
       "anchored_artifacts": [
         "A-2085.1"
       ],
@@ -2208,7 +2208,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:30",
-      "investigative_direction": "Compare Harpole's earlier statements on CPR with the Sean Ryan transcript and Frank Turek's own account of the ride.",
+      "investigative_direction": "Compare Harpole's earlier statements on CPR with the Shawn Ryan transcript and Frank Turek's own account of the ride.",
       "transcript_snippet": "you told us that you didn't even do CPR. It was an 8-minute car ride. Now you're you're you want to defibrillate and bring his heart back online.",
       "mentions_person_refs": [
         "N-270"
@@ -3420,7 +3420,7 @@
       "tags": [],
       "claim_timestamp": "00:56:42",
       "investigative_direction": "Locate the original tweet, its author and posting account.",
-      "transcript_snippet": "was having Andrew Kolb press send on the Superman neck he eats good veggies tweet.",
+      "transcript_snippet": "was having Andrew Kolvet press send on the Superman neck he eats good veggies tweet.",
       "mentions_person_refs": [
         "N-14"
       ]

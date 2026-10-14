@@ -27,7 +27,7 @@
 
 ## 2. Executive Summary
 
-CKA seq 4 dissects the alleged text messages between Tyler Robinson and Lance Twigs released with the indictment. Candace Owens argues the language ('retrieve', 'vehicle'), the absence of timestamps, and the timing relative to press conferences expose a federal-level fabrication. She pivots to claims that the maroon-shirt person on TMZ footage may differ from the stairs person, that Lance was suspiciously released, and that Governor Cox lied about a 33-hour same-outfit timeline. The second half features Tucker Carlson and Megan Kelly clips alleging donor intimidation over Charlie's pro-Candace stance, plus a clash with Charlie's pastor Rob McCoy.
+CKA seq 4 dissects the alleged text messages between Tyler Robinson and Lance Twiggs released with the indictment. Candace Owens argues the language ('retrieve', 'vehicle'), the absence of timestamps, and the timing relative to press conferences expose a federal-level fabrication. She pivots to claims that the maroon-shirt person on TMZ footage may differ from the stairs person, that Lance was suspiciously released, and that Governor Cox lied about a 33-hour same-outfit timeline. The second half features Tucker Carlson and Megyn Kelly clips alleging donor intimidation over Charlie's pro-Candace stance, plus a clash with Charlie's pastor Rob McCoy.
 
 ## 3. Artifact Register
 
@@ -162,7 +162,7 @@ Confidence: medium
 
 ---
 
-**A-1107** Tucker Carlson and Megan Kelly Clip Bundle
+**A-1107** Tucker Carlson and Megyn Kelly Clip Bundle
 
 **A-1107.1** Tucker Carlson clip criticizing Netanyahu's reaction to Charlie's death as ghoulish and political.
 Event Timestamp: 2026-03-17
@@ -178,7 +178,7 @@ Video Timestamp: 00:45:45
 Transcript Snippet: two days before he died, he lost a $2 million donation… to bring me to the next Turning Point conference.
 Confidence: high
 
-**A-1107.3** Megan Kelly clip corroborating donor pressure tactics against pro-Candace voices.
+**A-1107.3** Megyn Kelly clip corroborating donor pressure tactics against pro-Candace voices.
 Event Timestamp: 2026-03-17
 Video Timestamp: 00:52:17
 *Related: C-1185, N-46, N-1*
@@ -389,7 +389,7 @@ Node Type: Person
 
 ---
 
-**N-54** Lance Twigs
+**N-54** Lance Twiggs
 
 Node Type: Person
 22-year-old boyfriend/roommate of Tyler Robinson; received the keyboard note; central to host's 'Lance being protected' thesis.
@@ -499,7 +499,7 @@ Production staff member operating timeline/graphics during episode.
 
 ---
 
-**N-70** Lance Twigs's Mother
+**N-70** Lance Twiggs's Mother
 
 Node Type: Person
 Allegedly holds Bachelor of Science from Stanford University in psychology; flagged by host as 'running theme'.
@@ -606,7 +606,7 @@ Host hypothesis that the maroon-shirt person at 8:07 AM differs from the person 
 
 ---
 
-**N-10044** Lance Twigs Protection Allegation
+**N-10044** Lance Twiggs Protection Allegation
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -734,7 +734,7 @@ Office Cox says received the family friend's information.
 
 ---
 
-**N-10034** Lance Twigs Family Allegations
+**N-10034** Lance Twiggs Family Allegations
 
 Existing topic on what Lance's family says; reused here.
 
@@ -874,7 +874,7 @@ Tags: open_source_investigation
 **C-1177** Keyboard Note Destroyed After Photographing
 
 Claim Timestamp: 00:05:27
-Claim: The note Lance Twigs found under Tyler's keyboard was destroyed after he photographed it; the photo was shown to the feds but not the public.
+Claim: The note Lance Twiggs found under Tyler's keyboard was destroyed after he photographed it; the photo was shown to the feds but not the public.
 Transcript Snippet: even though he destroyed the note, he took a picture of it… we're not going to be able to see either anyways.
 Anchored Artifacts: A-1104.1
 Mentions: N-40, N-54
@@ -924,16 +924,16 @@ Investigative Direction: Cross-reference text account with forensic recovery loc
 Tags: open_source_investigation
 ---
 
-**C-1181** Lance Twigs Released Suspiciously Fast After Apartment Raid
+**C-1181** Lance Twiggs Released Suspiciously Fast After Apartment Raid
 
 Claim Timestamp: 00:26:12
-Claim: Lance Twigs was released back to his parents the same night his apartment was raided and electronics seized, which Candace argues is procedurally anomalous.
+Claim: Lance Twiggs was released back to his parents the same night his apartment was raided and electronics seized, which Candace argues is procedurally anomalous.
 Transcript Snippet: Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?
 Anchored Artifacts: A-1104.9, A-1104.10, A-1105.3
 Mentions: N-54
 Related Nodes: N-10044
 Confidence: medium
-Investigative Direction: Obtain the arrest/release log for Lance Twigs and the inventory of seized devices; compare with standard 24-hour detention practice.
+Investigative Direction: Obtain the arrest/release log for Lance Twiggs and the inventory of seized devices; compare with standard 24-hour detention practice.
 
 ---
 
@@ -965,10 +965,10 @@ Investigative Direction: Release full unedited video from both camera angles; fo
 
 ---
 
-**C-1184** Lance Twigs's Mother Holds Stanford BS in Psychology
+**C-1184** Lance Twiggs's Mother Holds Stanford BS in Psychology
 
 Claim Timestamp: 00:36:23
-Claim: Lance Twigs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.
+Claim: Lance Twiggs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.
 Transcript Snippet: I already don't like that mom… received a bachelor of science from Stanford University in psychology.
 Anchored Artifacts: 
 Mentions: N-70, N-54
@@ -1484,9 +1484,9 @@ Investigative Direction: Obtain the search warrant return and the booking and re
 
 Claim Timestamp: 00:25:21
 
-Claim: The host says Lance Twigs was brought in for questioning at around 11:00 p.m. and that the apartment was raided overnight into the early hours of the morning.
+Claim: The host says Lance Twiggs was brought in for questioning at around 11:00 p.m. and that the apartment was raided overnight into the early hours of the morning.
 
-Transcript Snippet: m. ish, we'll tell you around 11:00 p. m. Lance Twigs is brought in for questioning.
+Transcript Snippet: m. ish, we'll tell you around 11:00 p. m. Lance Twiggs is brought in for questioning.
 
 Anchored Artifacts: 
 Mentions: N-54, N-40
@@ -1696,7 +1696,7 @@ Investigative Direction: Request the original video and still resolution from th
 
 Claim Timestamp: 00:41:28
 
-Claim: The host says she now believes there is a federal level of corruption and conspiracy involved in the murder, citing unanswered questions from George Zinn to Lance Twigs.
+Claim: The host says she now believes there is a federal level of corruption and conspiracy involved in the murder, citing unanswered questions from George Zinn to Lance Twiggs.
 
 Transcript Snippet: I now believe there is a federal level of corruption and conspiracy involved in this murder.
 
@@ -1729,7 +1729,7 @@ Claim Timestamp: 00:42:51
 
 Claim: The host says Tucker Carlson spoke about what Charlie was going through because he saw him very shortly before the assassination.
 
-Transcript Snippet: He also brought in Megan Kelly and other people and he spoke about what Charlie was going through because he saw him uh very shortly before his assassination.
+Transcript Snippet: He also brought in Megyn Kelly and other people and he spoke about what Charlie was going through because he saw him uh very shortly before his assassination.
 
 Anchored Artifacts: A-1107.1
 Mentions: N-22, N-1, N-46

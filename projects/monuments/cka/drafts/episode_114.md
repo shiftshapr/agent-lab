@@ -87,7 +87,7 @@ Confidence Level: High
 
 **A-2648.1** New York Times article "inside the White House freakout over the Epstein files" (read aloud)
 
-Quoted text: "On July 12th, the president took to Truth Social to defend Pam Bondi against criticism and to urge his boys and gals to stop wasting time and energy on Jeffrey Epstein, somebody that nobody cares about." out. Trump told aids that he was very unhappy with some of his most influential supporters, including Charlie Kirk, Tucker Carlson, and Megan Kelly, all of whom were publicly urging the administration to come clean. Kirk had held a Turning Point USA event the previous day that turned into an Epstein grievance fest with one speaker after another bashing Bondi over her handling of the situation. Trump had called Kirk and scolded him."
+Quoted text: "On July 12th, the president took to Truth Social to defend Pam Bondi against criticism and to urge his boys and gals to stop wasting time and energy on Jeffrey Epstein, somebody that nobody cares about." out. Trump told aids that he was very unhappy with some of his most influential supporters, including Charlie Kirk, Tucker Carlson, and Megyn Kelly, all of whom were publicly urging the administration to come clean. Kirk had held a Turning Point USA event the previous day that turned into an Epstein grievance fest with one speaker after another bashing Bondi over her handling of the situation. Trump had called Kirk and scolded him."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:16:11
@@ -291,7 +291,7 @@ The host says he worked for Israel; Trump's Truth Social post told supporters to
 
 **N-14** Andrew Kolvet
 
-Transcript spellings "Andrew Kovette" and "Andrew Kovets". The host says Trump spoke in front of him and Charlie Kirk, and that Erika told her Kolvet "went rogue."
+Transcript spellings "Andrew Kolvet" and "Andrew Kovets". The host says Trump spoke in front of him and Charlie Kirk, and that Erika told her Kolvet "went rogue."
 
 *Related: C-4493, C-4518, C-4523*
 
@@ -309,13 +309,13 @@ Referred to as "BB"; the host says he called Charlie Kirk offering to take Turni
 
 **N-37** Bill Ackman
 
-Transcript spelling "Bill Aman". Tucker Carlson questioned the source of his wealth at SAS; the host says he sponsored the Hamptons retreat.
+Transcript spelling "Bill Ackman". Tucker Carlson questioned the source of his wealth at SAS; the host says he sponsored the Hamptons retreat.
 
 *Related: C-4502, C-4504, C-4519*
 
 **N-46** Megyn Kelly
 
-Transcript spelling "Megan Kelly". Named in the New York Times article among the supporters Trump was unhappy with.
+Transcript spelling "Megyn Kelly". Named in the New York Times article among the supporters Trump was unhappy with.
 
 *Related: C-4499, C-4537, A-2648.1*
 
@@ -381,13 +381,13 @@ The host says she reached out to him for evidence and received a lawsuit instead
 
 **N-282** Bari Weiss
 
-Transcript spelling "Barry Weiss". The host says Erika Kirk appeared on stage with her saying those who do not support Israel have "brain rot."
+Transcript spelling "Bari Weiss". The host says Erika Kirk appeared on stage with her saying those who do not support Israel have "brain rot."
 
 *Related: C-4517, C-4524*
 
 **N-302** Miriam Adelson
 
-Transcript spelling "Miriam Adlesen". Cited in the host's Israel theme for Trump.
+Transcript spelling "Miriam Adelson". Cited in the host's Israel theme for Trump.
 
 *Related: C-4495*
 
@@ -813,7 +813,7 @@ Claim Timestamp: 00:10:28
 
 Claim: The host speculates that Trump may have said in front of Charlie Kirk and Andrew Kolvet that he was going to take somebody's money and then cross them, and that this got back to some people.
 
-Transcript Snippet: you willy-nilly said in front of Charlie Kirk and Andrew Kovette that you were going to take somebody's money and then f them over
+Transcript Snippet: you willy-nilly said in front of Charlie Kirk and Andrew Kolvet that you were going to take somebody's money and then f them over
 
 Anchored Artifacts: 
 Mentions: N-5, N-1, N-14
@@ -902,7 +902,7 @@ Claim Timestamp: 00:16:11
 
 Claim: According to the New York Times, Trump told aides he was very unhappy with influential supporters including Charlie Kirk, Tucker Carlson and Megyn Kelly, who were publicly urging the administration to come clean.
 
-Transcript Snippet: Trump told aids that he was very unhappy with some of his most influential supporters, including Charlie Kirk, Tucker Carlson, and Megan Kelly
+Transcript Snippet: Trump told aids that he was very unhappy with some of his most influential supporters, including Charlie Kirk, Tucker Carlson, and Megyn Kelly
 
 Anchored Artifacts: A-2648.1
 Mentions: N-5, N-1, N-22, N-46
@@ -946,7 +946,7 @@ Claim Timestamp: 00:17:29
 
 Claim: The host says donors wanted Charlie Kirk to cancel Tucker Carlson and were particularly angry that Carlson asked where Bill Ackman's money comes from.
 
-Transcript Snippet: They wanted him to cancel Tucker. Um they were angry that um in particular that he had Tucker Carlson had asked where Bill Aman's money comes from.
+Transcript Snippet: They wanted him to cancel Tucker. Um they were angry that um in particular that he had Tucker Carlson had asked where Bill Ackman's money comes from.
 
 Anchored Artifacts: 
 Mentions: N-1, N-22, N-37
@@ -975,7 +975,7 @@ Claim Timestamp: 00:18:45
 
 Claim: The host says Charlie Kirk told Tucker Carlson to "go Max" despite donor alarm, and that Carlson called out Epstein, said people serving in foreign armies should be stripped of citizenship and mused about Bill Ackman's wealth.
 
-Transcript Snippet: He says that the people who serve in foreign armies should be stripped of their citizenship and he muses about where Bill Aman's wealth comes from.
+Transcript Snippet: He says that the people who serve in foreign armies should be stripped of their citizenship and he muses about where Bill Ackman's wealth comes from.
 
 Anchored Artifacts: A-2649.1
 Mentions: N-22, N-1, N-37, N-9
@@ -1167,7 +1167,7 @@ Claim Timestamp: 00:28:47
 
 Claim: The host says that soon after Charlie Kirk's death Erika Kirk was on stage with Bari Weiss saying anyone who does not support Israel has "brain rot."
 
-Transcript Snippet: as soon as Charlie passes away, she's up on stage with Barry Weiss saying anybody who doesn't support Israel has brain rot.
+Transcript Snippet: as soon as Charlie passes away, she's up on stage with Bari Weiss saying anybody who doesn't support Israel has brain rot.
 
 Anchored Artifacts: 
 Mentions: N-2, N-282
@@ -1257,7 +1257,7 @@ Claim Timestamp: 00:39:05
 
 Claim: The host says Erika Kirk lied to her face by saying Andrew Kolvet "went rogue."
 
-Transcript Snippet: The ability to lie to my face in the way that she lied to my face about saying that Andrew Kovette went rogue.
+Transcript Snippet: The ability to lie to my face in the way that she lied to my face about saying that Andrew Kolvet went rogue.
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3

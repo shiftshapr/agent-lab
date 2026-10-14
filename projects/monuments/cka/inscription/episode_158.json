@@ -13,7 +13,7 @@
     "transcript_sha256": "022d4f12740713037a1e34d8c7a3f460558cfd3ae1badcd1d4c1565a058eb7cf",
     "analysis_date": "2026-10-02"
   },
-  "executive_summary": "This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kovette not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.\n\n---",
+  "executive_summary": "This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kolvet not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -154,7 +154,7 @@
           "@type": "Artifact",
           "@id": "A-2463.1",
           "ref": "A-2463.1",
-          "description": "Carlson quotes in the profile: TPUSA leadership “wholly focused on Candace Owens”; advice to Andrew Kovette not to focus on her; and that Erika was privately more critical of Israel / interventionism than Charlie.",
+          "description": "Carlson quotes in the profile: TPUSA leadership “wholly focused on Candace Owens”; advice to Andrew Kolvet not to focus on her; and that Erika was privately more critical of Israel / interventionism than Charlie.",
           "related_claims": [
             "C-3602",
             "C-3603"
@@ -1492,8 +1492,8 @@
       "@type": "Claim",
       "@id": "C-3602",
       "ref": "C-3602",
-      "label": "Tucker Carlson told Andrew Kovette not to focus on Candace; leadership is “wholly focused” on her",
-      "claim": "Vanity Fair quotes Carlson that TPUSA leadership is wholly focused on Candace Owens and that he advised Kovette not to focus on her if they dislike her.",
+      "label": "Tucker Carlson told Andrew Kolvet not to focus on Candace; leadership is “wholly focused” on her",
+      "claim": "Vanity Fair quotes Carlson that TPUSA leadership is wholly focused on Candace Owens and that he advised Kolvet not to focus on her if they dislike her.",
       "anchored_artifacts": [
         "A-2463.1"
       ],
@@ -1922,7 +1922,7 @@
       "tags": [],
       "claim_timestamp": "00:22:21",
       "investigative_direction": "Build a dated plate from video stills of each named appearance.",
-      "transcript_snippet": "Jesse Waters interview on November 5th. She was wearing a green suit.",
+      "transcript_snippet": "Jesse Watters interview on November 5th. She was wearing a green suit.",
       "supports_claim_refs": [
         "C-3600"
       ],
@@ -2194,7 +2194,7 @@
       "tags": [],
       "claim_timestamp": "00:28:36",
       "investigative_direction": "Obtain the host's dated message or call record with Kolvet and any TPUSA statement of the vote date.",
-      "transcript_snippet": "And I knew because Andrew Kovette told me, even though he denies some of this stuff",
+      "transcript_snippet": "And I knew because Andrew Kolvet told me, even though he denies some of this stuff",
       "supports_claim_refs": [
         "C-3607",
         "C-3325",
@@ -2325,7 +2325,7 @@
       "tags": [],
       "claim_timestamp": "00:36:47",
       "investigative_direction": "Read the review's pages on Harpole and the Shawn Ryan appearance and compare to the podcast transcript.",
-      "transcript_snippet": "they dedicate pages to debunking Brian Harpull's narrative on uh Sean Ryan's podcast where he pretends that he the fake message meaning it was not his message.",
+      "transcript_snippet": "they dedicate pages to debunking Brian Harpull's narrative on uh Shawn Ryan's podcast where he pretends that he the fake message meaning it was not his message.",
       "supports_claim_refs": [
         "C-3589"
       ],
@@ -2408,7 +2408,7 @@
       "tags": [],
       "claim_timestamp": "00:39:21",
       "investigative_direction": "Find Kolvet's original statement and its date; compare with the host's account of Charlie's final months.",
-      "transcript_snippet": "this was Andrew Kovette, was because I just was getting too crazy on the Jewish stuff, right?",
+      "transcript_snippet": "this was Andrew Kolvet, was because I just was getting too crazy on the Jewish stuff, right?",
       "mentions_person_refs": [
         "N-14",
         "N-1",
@@ -2792,7 +2792,7 @@
       "tags": [],
       "claim_timestamp": "00:50:25",
       "investigative_direction": "Date the Ackman and Hamptons meeting against the archive timestamp.",
-      "transcript_snippet": "Why is Bill Aman in particular interested in this thing that happened to be archived when Charlie was with Bill Aman?",
+      "transcript_snippet": "Why is Bill Ackman in particular interested in this thing that happened to be archived when Charlie was with Bill Ackman?",
       "supports_claim_refs": [
         "C-1160"
       ],
