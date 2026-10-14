@@ -12,9 +12,9 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (reintro-ep136): N-764
-  - New Nodes Introduced: N-10771, N-10772, N-10773, N-10774, N-10775
+  - New Nodes Introduced: N-10771, N-10774, N-10775
   - Hole-minted Nodes (wave3): N-568
-  - Reused Nodes Appearing: N-388, N-518
+  - Reused Nodes Appearing: N-388, N-518, N-10772, N-10773
   - (see registers)
 
 # Episode 136 Analysis Record

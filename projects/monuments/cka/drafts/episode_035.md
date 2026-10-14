@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 1ad209fbac97054099e9ed002c95c5fad552959675fdc3534eced317ed9c4aab
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-271, N-274, N-10265, N-10266, N-10268, N-10269
-  - Reused Nodes Appearing: N-2, N-272, N-273, N-10267
+  - New Nodes Introduced: N-271, N-274, N-10265, N-10266, N-10269
+  - Reused Nodes Appearing: N-2, N-272, N-273, N-10267, N-10268
   - (see registers)
 
 # Episode Analysis: Monument Ep 35 / Candace Ep 268

@@ -423,6 +423,173 @@
           "video_timestamp": "00:56:21"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2846",
+      "family_ref": "A-2846",
+      "bundle_name": "Email From Dinner Attendee Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2846.1",
+          "ref": "A-2846.1",
+          "description": "Host verbal reference to an email from someone who attended the September 22 private dinner, saying the group was in joyous spirits (email not shown)",
+          "related_claims": [
+            "C-6996",
+            "C-7052"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-2",
+            "N-221",
+            "N-194"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:09:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2847",
+      "family_ref": "A-2847",
+      "bundle_name": "Tipster Message on Barts and Montgomery Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2847.1",
+          "ref": "A-2847.1",
+          "description": "Host verbal reference to a tip she received about Helen Barts, Bill and Edith Montgomery, the academy's founding and Shaklee employment (message not shown)",
+          "related_claims": [
+            "C-7020",
+            "C-7021",
+            "C-7022",
+            "C-7023"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-781",
+            "N-782",
+            "N-467",
+            "N-481"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:29:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2848",
+      "family_ref": "A-2848",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2848.1",
+          "ref": "A-2848.1",
+          "description": "Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for tips about Edith Walker Montgomery)",
+          "related_claims": [
+            "C-7028"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-782"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:33:24",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2849",
+      "family_ref": "A-2849",
+      "bundle_name": "Brave Report Identification Posts Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2849.1",
+          "ref": "A-2849.1",
+          "description": "Host verbal reference to posts by the Brave Report account identifying the author of the threat message as Lorie Cardardoza Moore (posts not shown)",
+          "related_claims": [
+            "C-7032"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-507"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:36:41",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2850",
+      "family_ref": "A-2850",
+      "bundle_name": "Stanley Clark Moore Wikipedia Page Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2850.1",
+          "ref": "A-2850.1",
+          "description": "Host verbal reference to a Wikipedia page for Stanley Clark Moore describing an Air Force background and brief NASA work (page not shown)",
+          "related_claims": [
+            "C-7035",
+            "C-7036"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-507",
+            "N-784"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:41:47",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2851",
+      "family_ref": "A-2851",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle 2",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2851.1",
+          "ref": "A-2851.1",
+          "description": "Host verbal reference to the tip email address candaceowens.com (verbal call for tips about Stanley Clark Moore's Air Force base)",
+          "related_claims": [
+            "C-7037"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-784"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -593,13 +760,815 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6983",
+        "C-6984",
+        "C-6985",
+        "C-6986",
+        "C-6987",
+        "C-6988",
+        "C-6989",
+        "C-6990",
+        "C-6991",
+        "C-6992",
+        "C-6994",
+        "C-6995",
+        "C-6996",
+        "C-6997",
+        "C-7005",
+        "C-7009",
+        "C-7010",
+        "C-7011",
+        "C-7012",
+        "C-7013",
+        "C-7014",
+        "C-7015",
+        "C-7016",
+        "C-7017",
+        "C-7018",
+        "C-7019",
+        "C-7020",
+        "C-7021",
+        "C-7022",
+        "C-7023",
+        "C-7024",
+        "C-7025",
+        "C-7026",
+        "C-7027",
+        "C-7028",
+        "C-7029",
+        "C-7030",
+        "C-7031",
+        "C-7032",
+        "C-7035",
+        "C-7036",
+        "C-7037",
+        "C-7038",
+        "C-7039",
+        "C-7040",
+        "C-7041",
+        "C-7042",
+        "C-7043",
+        "C-7044",
+        "C-7045",
+        "C-7046",
+        "C-7047",
+        "C-7048",
+        "C-7049",
+        "C-7050",
+        "C-7051",
+        "C-7052"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Speaker on the leaked September 22 corporate Zoom call; the subject of the host's series on her background.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6983",
+        "C-6984",
+        "C-6986",
+        "C-6988",
+        "C-6991",
+        "C-6992",
+        "C-6993",
+        "C-6996",
+        "C-6998",
+        "C-6999",
+        "C-7000",
+        "C-7001",
+        "C-7002",
+        "C-7003",
+        "C-7004",
+        "C-7005",
+        "C-7006",
+        "C-7007",
+        "C-7008",
+        "C-7009",
+        "C-7043",
+        "C-7044",
+        "C-7045",
+        "C-7046",
+        "C-7051",
+        "C-7052"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 26,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host says he was caught with the Paramount Tactical tweet and questions whether he told Erika about Charlie's night-before messages. Transcript spellings: Kovette, Kovat.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7045",
+        "C-7051"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Justin Strife",
+      "type": "person",
+      "description": "TPUSA COO; named by Erika Kirk on the call as the person Charlie worked with on Vision 2030 and with whom the board and she are implementing the plans. Transcript renders only 'Justin'.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7006",
+        "C-7007"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Subject of Lorie Cardardoza Moore's rant about his speech at the Tampa TPUSA conference.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7033",
+        "C-7034"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-27",
+      "ref": "N-27",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Subject of the host's Wall Street Journal ad and Vanity Fair apology discussion.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7040",
+        "C-7041",
+        "C-7042"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-190",
+      "ref": "N-190",
+      "name": "Stacy Sheridan",
+      "type": "person",
+      "description": "Named by the host as TPUSA's head of fundraising who, per fired employees, spent each day in the office with Erika.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7009"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Named among the McCoys at the September 22 private dinner.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6996"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-221",
+      "ref": "N-221",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Named as Elizabeth McCoy among the McCoys at the September 22 private dinner.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6996"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-276",
+      "ref": "N-276",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Named by the host as having been in position to tell Erika about Charlie's night-before messages and as a relative of Robert Flood.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7023",
+        "C-7051"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-481",
+      "ref": "N-481",
+      "name": "Robert Eugene Flood",
+      "type": "person",
+      "description": "Named by a tipster as having worked with the Montgomerys at Shaklee; the host places him in Dan Flood's family.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7023"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-781",
+      "ref": "N-781",
+      "name": "Helen Barts",
+      "type": "person",
+      "description": "First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helen Arts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7019",
+        "C-7020",
+        "C-7022",
+        "C-7026"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-782",
+      "ref": "N-782",
+      "name": "Edith Walker Montgomery",
+      "type": "person",
+      "description": "First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goes by Edith Walker; alleged immigrant from Germany and psychiatric nurse. Alias: Edith Marie Walker, Edith Walker.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7020",
+        "C-7021",
+        "C-7022",
+        "C-7023",
+        "C-7028"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-783",
+      "ref": "N-783",
+      "name": "Michelle Bachmann",
+      "type": "person",
+      "description": "First named by Lorie Cardardoza Moore in the audio at 00:39:08 in episode 063. Spoke for five minutes at the TPUSA Tampa conference per Moore.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7033",
+        "C-7034"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-784",
+      "ref": "N-784",
+      "name": "Stanley Clark Moore",
+      "type": "person",
+      "description": "First named by the host at 00:41:47 in episode 063. Husband of Lorie Cardardoza Moore with an Air Force background per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7035",
+        "C-7036",
+        "C-7037"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11122",
+      "ref": "N-11122",
+      "name": "Creative Children's Academy / Quest Academy",
+      "type": "organization",
+      "description": "Gifted school for preschool through eighth grade, opened in 1982 and renamed Quest Academy in 1999 per the host, who calls it Charlie Kirk's 'X-Men school'; near Palatine, Illinois.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7015",
+        "C-7016",
+        "C-7017",
+        "C-7018",
+        "C-7019",
+        "C-7020",
+        "C-7022",
+        "C-7026",
+        "C-7027"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11123",
+      "ref": "N-11123",
+      "name": "Northrop Grumman",
+      "type": "organization",
+      "description": "Aerospace and defense contractor the host says is a stone's throw from the academy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7018"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11124",
+      "ref": "N-11124",
+      "name": "Shaklee Corporation",
+      "type": "organization",
+      "description": "Supplement company (transcribed 'Shackley') the host says employed Helen Barts, with an evangelical sales force and a long NASA contract.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7023",
+        "C-7024",
+        "C-7025",
+        "C-7026"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11125",
+      "ref": "N-11125",
+      "name": "NASA",
+      "type": "organization",
+      "description": "Agency the host connects to the Shaklee contract, the moon landing and mass poisoning theories.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7025",
+        "C-7030",
+        "C-7036",
+        "C-7050"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11126",
+      "ref": "N-11126",
+      "name": "Operation Paperclip",
+      "type": "topic",
+      "description": "Post-WWII program the host says brought German scientists to the US; invoked in her moon-landing and mind-control commentary.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7029",
+        "C-7030"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11127",
+      "ref": "N-11127",
+      "name": "Kanye West Public Apology",
+      "type": "topic",
+      "description": "Kanye West's full-page Wall Street Journal ad and Vanity Fair answers apologizing for harm he caused, as discussed by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7040",
+        "C-7041",
+        "C-7042"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6983",
+        "C-6984",
+        "C-6985",
+        "C-6986",
+        "C-6987",
+        "C-6988",
+        "C-6990",
+        "C-6997",
+        "C-6998",
+        "C-6999",
+        "C-7000",
+        "C-7001",
+        "C-7002",
+        "C-7003",
+        "C-7004",
+        "C-7005",
+        "C-7007",
+        "C-7008",
+        "C-7009",
+        "C-7012",
+        "C-7028",
+        "C-7037",
+        "C-7038",
+        "C-7047",
+        "C-7048"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 25,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10001",
+      "ref": "N-10001",
+      "name": "MK Ultra",
+      "type": "organization",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7031"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10002",
+      "ref": "N-10002",
+      "name": "Charlie Kirk Death and Memorial",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6994",
+        "C-6995",
+        "C-6996",
+        "C-7001",
+        "C-7052"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10197",
+      "ref": "N-10197",
+      "name": "TPUSA Military-Personnel Network",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7038"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10209",
+      "ref": "N-10209",
+      "name": "TPUSA Faith / Christian Zionist Infiltration Question",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7032",
+        "C-7033",
+        "C-7034"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10211",
+      "ref": "N-10211",
+      "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7014"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10323",
+      "ref": "N-10323",
+      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6989",
+        "C-6990",
+        "C-6994"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10340",
+      "ref": "N-10340",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7051"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10413",
+      "ref": "N-10413",
+      "name": "Project Looking Glass Allegation",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7010"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10419",
+      "ref": "N-10419",
+      "name": "Erika China Residence Discrepancy",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7043"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10422",
+      "ref": "N-10422",
+      "name": "GATE / Gifted Education Program Investigation",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7010",
+        "C-7016",
+        "C-7027"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10428",
+      "ref": "N-10428",
+      "name": "Erica Kirk China Timeline Discrepancy",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7043"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10439",
+      "ref": "N-10439",
+      "name": "TPUSA Termination Cause Investigation",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6986",
+        "C-6999",
+        "C-7009",
+        "C-7046"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10492",
+      "ref": "N-10492",
+      "name": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6986"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical",
+      "type": "organization",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7045"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10905",
+      "ref": "N-10905",
+      "name": "New York Times Erika Kirk Interview Account Discrepancies",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6991",
+        "C-6992",
+        "C-6993"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10968",
+      "ref": "N-10968",
+      "name": "The New York Times",
+      "type": "organization",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6992",
+        "C-6993"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11033",
+      "ref": "N-11033",
+      "name": "Project Monarch",
+      "type": "topic",
+      "description": "Reused existing node; cited by the new claims in this supplement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7031"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -837,6 +1806,1418 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6983",
+      "ref": "C-6983",
+      "label": "Host Says Erika Led the Call About 12 Days After the Assassination",
+      "claim": "The host says Erika Kirk, installed as the new CEO and chairman, headed up a conference call about 12 days after Charlie Kirk was assassinated, just after the memorial event.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:51",
+      "investigative_direction": "Confirm the call date and invitee list through TPUSA internal calendar invitations or the leaked recording's metadata.",
+      "transcript_snippet": "She headed up this conference call about 12 days after Charlie was assassinated, just after the memorial event.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6984",
+      "ref": "C-6984",
+      "label": "Host Commits to a Multi-Episode Series on Erika Kirk's Background",
+      "claim": "The host says she is committing to a couple of episodes, possibly a three-part series, to separate fact from fiction about the background of Erika Kirk, whom she describes as the new chairman and CEO of a charity.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:23",
+      "investigative_direction": "Track the subsequent episodes in the series and compare each stated background fact against primary records.",
+      "transcript_snippet": "We are doing a couple of episodes to separate fact from fiction when it comes to the background of Erika Kirk because the public deserves to know",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6985",
+      "ref": "C-6985",
+      "label": "Host Says TPUSA Raised Over a Quarter Billion Dollars After the Assassination",
+      "claim": "The host says Turning Point USA is a charitable organization that raised over a quarter of a billion dollars following the assassination of its founder.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:23",
+      "investigative_direction": "Compare the figure against TPUSA and Turning Point Action donation disclosures, Form 990 filings and any public statements by the organization.",
+      "transcript_snippet": "a charitable organization which happened to have raised over a quarter of a billion dollars following the assassination of its founder",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6986",
+      "ref": "C-6986",
+      "label": "Host Says Employees Who Worked 20-Hour Days Were Fired Without a Clear Reason",
+      "claim": "The host says a group of employees who factually worked 20-hour days were then fired without being given a clear reason, which she says Erika confirms on the call about the long days, and that the firings came in the new year with a message of moving in a different direction.",
+      "anchored_artifacts": [
+        "A-1676.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10439",
+        "N-10492"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:47",
+      "investigative_direction": "Obtain termination notices or severance paperwork for staff who worked on the memorial and check the stated reasons and dates.",
+      "transcript_snippet": "especially the recent bout of paranoia where we had a bunch of employees who factually worked 20our days.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6987",
+      "ref": "C-6987",
+      "label": "Host Says TPUSA Has Sent a Bunch of Cease and Desist Letters",
+      "claim": "The host says Turning Point USA, as a 501(c)(3) charity accountable to the public, has sent out a bunch of cease and desist letters to people asking questions.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:44",
+      "investigative_direction": "Obtain copies of any cease and desist letters from TPUSA or its counsel and identify the recipients.",
+      "transcript_snippet": "They are allowed to ask questions even if you want to send out a bunch of cease and desist letters.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6988",
+      "ref": "C-6988",
+      "label": "Host Says the Leaked Zoom Call Took Place on Monday, September 22",
+      "claim": "The host says her team obtained an audio recording of a corporate-wide Zoom call that took place on Monday, September 22, which she describes as 11 days (less than two weeks) after Charlie Kirk was publicly assassinated.",
+      "anchored_artifacts": [
+        "A-1676.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:44",
+      "investigative_direction": "Verify the call date from recording metadata or the Zoom invitation and identify who recorded and leaked it.",
+      "transcript_snippet": "So for clarity, this call took took place on Monday, uh, September 22nd.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6989",
+      "ref": "C-6989",
+      "label": "Host Says the Call Came About 48 Hours After a Private Catholic Funeral Mass",
+      "claim": "The host says the call came about 48 hours after Charlie Kirk's private Catholic funeral mass, which the public was not privy to.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10323"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:44",
+      "investigative_direction": "Establish the date, venue and attendee list of the funeral mass through the church or TPUSA statements.",
+      "transcript_snippet": "it's also less than 48 hours about 48 hours after his uh private Catholic funeral mass which the public was not privy to.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6990",
+      "ref": "C-6990",
+      "label": "Host Says Top-Paying Donors Were Privy to the Funeral Mass",
+      "claim": "The host says top-paying donors were privy to the private funeral mass even though the public was not, and calls that odd.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10323",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:44",
+      "investigative_direction": "Identify which donors attended the funeral mass and how invitations were issued.",
+      "transcript_snippet": "Um but top paying donors were that's also odd.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6991",
+      "ref": "C-6991",
+      "label": "Host Says She Went Away to Wyoming After the Assassination",
+      "claim": "The host says she had to go away to Wyoming just to breathe after the assassination, and that she was away for two weeks, so she did not catch until later that Erika's New York Times interview was in person.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10905"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:53",
+      "investigative_direction": "Check the host's own timeline of travel and posting during September 2025 against public posts.",
+      "transcript_snippet": "You remember I had to go away to Wyoming just to breathe.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6992",
+      "ref": "C-6992",
+      "label": "NYT Article Quotes Erika Saying the President's Tone Was Soft and Embracing",
+      "claim": "The host reads from the New York Times profile of Erika Kirk, which quotes her as saying President Trump's tone on phone calls was soft and embracing and that she could tell he wanted to hug her.",
+      "anchored_artifacts": [
+        "A-1679.1"
+      ],
+      "related_nodes": [
+        "N-10905",
+        "N-10968"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:45",
+      "investigative_direction": "Locate the original New York Times article and confirm the wording and the date of the interview.",
+      "transcript_snippet": "The president's tone she said was soft and embracing. I could tell he wanted to hug me.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6993",
+      "ref": "C-6993",
+      "label": "NYT Article Describes Erika Left to Care for a Three-Year-Old Daughter and a One-Year-Old Son",
+      "claim": "The host reads that the New York Times describes Erika Kirk as now left to care for a three-year-old daughter and a one-year-old son.",
+      "anchored_artifacts": [
+        "A-1679.1"
+      ],
+      "related_nodes": [
+        "N-10905",
+        "N-10968"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:45",
+      "investigative_direction": "Confirm the children's ages in the published article and against other reporting.",
+      "transcript_snippet": "now left to care for a three-year-old daughter and a one-year-old son.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6994",
+      "ref": "C-6994",
+      "label": "Host Places the Funeral Mass on September 20 at 11 a.m.",
+      "claim": "The host says the funeral mass was held on the 20th at a church at 11:00 a.m., as part of the timeline she is building around the call.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10323",
+        "N-10002"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:30",
+      "investigative_direction": "Confirm the funeral mass date, time and venue through the church or contemporaneous reporting.",
+      "transcript_snippet": "On the 20th, we have the funeral mass which is held at a church at 11:00 a. m.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6995",
+      "ref": "C-6995",
+      "label": "Host Places the Public Memorial at State Farm Stadium on September 21",
+      "claim": "The host says the public memorial event was held on the 21st at State Farm Stadium.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10002"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:30",
+      "investigative_direction": "Verify against stadium and event records and contemporaneous coverage (publicly documented).",
+      "transcript_snippet": "On the 21st is the public memorial event that is held at State Farm Stadium.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6996",
+      "ref": "C-6996",
+      "label": "Host Says Erika Attended a Private Dinner with the McCoys on September 22",
+      "claim": "The host says that on the 22nd there was a private dinner, at a restaurant she declines to name, attended by the McCoys (Elizabeth, Mikey) and Erika, who were, per an email from someone who was there, in joyous spirits.",
+      "anchored_artifacts": [
+        "A-2846.1"
+      ],
+      "related_nodes": [
+        "N-10002"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:30",
+      "investigative_direction": "Identify the restaurant and attendees via receipts, reservations or the host's email source.",
+      "transcript_snippet": "There's a private dinner. Not going to mention what restaurant it's at, but the McCoys are there. Elizabeth, Mikey, Erika, uh, and they're in joyous spirits",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-221",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6997",
+      "ref": "C-6997",
+      "label": "Host Says the Full Call Is 15 Minutes and She Is Not Playing All of It",
+      "claim": "The host says the entire call is 15 minutes long, that she is not playing all of it, and that she will work out how to post it on her X feed, adding that she is not cutting it for drama.",
+      "anchored_artifacts": [
+        "A-1676.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:16",
+      "investigative_direction": "Obtain the full 15-minute recording and compare the aired excerpts against it for context.",
+      "transcript_snippet": "Now, the entirety of this call, which we're not going to play, is 15 minutes long.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6998",
+      "ref": "C-6998",
+      "label": "Erika Says Thousands Registered to Vote and Merch Sales Passed 200,000",
+      "claim": "On the call, Erika Kirk says thousands were registered to vote and that merch sales were at over 200,000, adding that people should not quote her because the figure keeps bumping up.",
+      "anchored_artifacts": [
+        "A-1676.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:24",
+      "investigative_direction": "Compare the stated voter registration and merch figures with TPUSA sales data and later disclosures.",
+      "transcript_snippet": "We had thousands that were registered to vote. I think we're at like over 200,000 for merch sales. Don't quote me on that",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6999",
+      "ref": "C-6999",
+      "label": "Erika Says Several Staff Did Not Even Sleep During Memorial Preparation",
+      "claim": "On the call, Erika Kirk says she knows several staff members who did not even sleep while working on the memorial.",
+      "anchored_artifacts": [
+        "A-1676.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10439"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:42",
+      "investigative_direction": "Interview staff who worked on the memorial about hours and sleep, and compare with payroll or badge records.",
+      "transcript_snippet": "I know several staff that didn't even sleep.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7000",
+      "ref": "C-7000",
+      "label": "Erika Tells Staff to Put Grievances to Rest and Says Her Husband Is Dead",
+      "claim": "On the call, Erika Kirk urges staff to put to rest any beef with each other, saying that her husband is dead and that life is short.",
+      "anchored_artifacts": [
+        "A-1676.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:37",
+      "investigative_direction": "Establish whether internal TPUSA conflicts existed at the time and who the message was aimed at.",
+      "transcript_snippet": "I don't care if any of you have beef with each other from the past",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7001",
+      "ref": "C-7001",
+      "label": "Erika Says She Insisted on Paying Flights for Staff Spouses",
+      "claim": "On the call, Erika Kirk says she was adamant that TPUSA pay for staff members' spouses to fly in to be there, saying no one is supposed to grieve alone.",
+      "anchored_artifacts": [
+        "A-1676.2"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10002"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:47",
+      "investigative_direction": "Obtain travel and expense records showing who flew in for the memorial and who paid.",
+      "transcript_snippet": "I was I was really adamant about making sure that we paid for your flights for your spouses to be there.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7002",
+      "ref": "C-7002",
+      "label": "Erika Says Charlie Would Want Staff Back at Work and TPUSA Will Steam Ahead",
+      "claim": "On the call, Erika Kirk says that Turning Point USA and Turning Point Action will steam ahead and that Charlie would want them to get back to work, which she says is what they did with the memorial.",
+      "anchored_artifacts": [
+        "A-1676.2"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:47",
+      "investigative_direction": "Compare the call's stated work pace with TPUSA event and staffing records after September 10.",
+      "transcript_snippet": "Charlie would want us to get back to work and that's what we're doing and that's what we did with the memorial",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7003",
+      "ref": "C-7003",
+      "label": "Erika Says TPUSA Has 100,000 Chapter Requests and 300,000 New Donors Since the Assassination",
+      "claim": "On the call, Erika Kirk says that since Charlie's assassination TPUSA has 100,000 chapter requests and 300,000 new donors.",
+      "anchored_artifacts": [
+        "A-1676.2"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:47",
+      "investigative_direction": "Compare the claimed chapter requests and new donors with TPUSA's own later statements, filings and donor-platform data.",
+      "transcript_snippet": "since his assassination, uh, we have 100,000 chapter 100,000 chapter requests. Uh, we have 300,000 new donors.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7004",
+      "ref": "C-7004",
+      "label": "Erika Says 50,000 Hat Orders and Over 20,000 AmFest Registrations",
+      "claim": "On the call, Erika Kirk says there are 50,000 plus hat orders to fulfill and over 20,000 AmFest registrations.",
+      "anchored_artifacts": [
+        "A-1676.2"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:49",
+      "investigative_direction": "Compare with TPUSA merchandise fulfillment records and AmFest registration counts reported later.",
+      "transcript_snippet": "I think we have 50,000 plus hat orders to fulfill.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7005",
+      "ref": "C-7005",
+      "label": "Host Says Employees Told Her the Call Left Them Feeling Strange About Taking Time Off",
+      "claim": "The host says employees told her that after exhausting work on the memorial they heard 'use your paid time off if you need to grieve' while the wife of the founder said she was full steam ahead, which left them wondering whether they were weird for wanting to grieve.",
+      "anchored_artifacts": [
+        "A-1676.2"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10443"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:49",
+      "investigative_direction": "Interview employees who were on the call, preferably on the record, about how the paid time off message was received.",
+      "transcript_snippet": "So basically what the employees said to me was that they got onto this call and you know everyone's exhausted",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7006",
+      "ref": "C-7006",
+      "label": "Erika Says Charlie and Justin Talked Plans on Night Walk Phone Calls",
+      "claim": "On the call, Erika Kirk says Justin had been appointed COO because Charlie worked closely with him on vision 2030, and she recalls phone calls at 10:00 at night during her and Charlie's night walks in which the two talked about the plans.",
+      "anchored_artifacts": [
+        "A-1676.3"
+      ],
+      "related_nodes": [
+        "N-10444"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:47",
+      "investigative_direction": "Ask Justin Streiff and TPUSA board members to confirm the 2030 planning conversations and the timing of his COO appointment.",
+      "transcript_snippet": "I remember phone calls when Charlie and I would take our night walks and it would be 10:00 at night and him and Justin would just be talking about the plans.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-15"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7007",
+      "ref": "C-7007",
+      "label": "Erika Says the Board and She Are Working With Justin to Implement the 2030 Plans",
+      "claim": "On the call, Erika Kirk says the board and she are working with Justin and the executive leadership teams to make sure the plans come into effect for 2030 and beyond.",
+      "anchored_artifacts": [
+        "A-1676.3"
+      ],
+      "related_nodes": [
+        "N-10444",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:52",
+      "investigative_direction": "Obtain board minutes and executive team announcements on the 2030 plan.",
+      "transcript_snippet": "the board and I are working with Justin and the executive leadership teams to make sure that all of those plans come into effect 2030 and beyond.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-15"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7008",
+      "ref": "C-7008",
+      "label": "Erika Says It Is Weird to Say She Is Excited but It Comes From Peace",
+      "claim": "On the call, Erika Kirk says it is weird to say she is excited and that she hesitates saying it, but that it comes from a space of peace, knowing God is using this and that they are witnessing the gospel in real time.",
+      "anchored_artifacts": [
+        "A-1676.3"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10443"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:52",
+      "investigative_direction": "Compare Erika's tone on this call with her public statements from the same period.",
+      "transcript_snippet": "And it's weird to say I'm excited. I I really hesitate saying that.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7009",
+      "ref": "C-7009",
+      "label": "Host Says Fired Employees Say Erika Was in the Office Daily With Stacy Sheridan",
+      "claim": "The host says now-fired employees tell her that, contrary to the host's earlier assumption that Erika could not get out of bed, Erika was in the office every day, running around and taking phone calls with Stacy Sheridan, whom the host describes as head of fundraising for TPUSA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10439"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:32",
+      "investigative_direction": "Interview former staff about Erika's office attendance in September 2025, and check badge or calendar records and Sheridan's role at TPUSA.",
+      "transcript_snippet": "She was in the office every day with Stacy Sheridan, running around with Stacy Sheridan, taking phone calls with Stacy Sheridan.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-190"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7010",
+      "ref": "C-7010",
+      "label": "Host Says She Posited the Military Was Watching Gifted Children, Possibly Including Charlie",
+      "claim": "The host says that on her earlier episode she posited that the military kept its eye on 'gate' (gifted) children, and that Charlie Kirk's life may therefore have been a literal Truman Show once they realized he was extraordinarily gifted.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10422",
+        "N-10413"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:45",
+      "investigative_direction": "Identify any documentation that a military or intelligence program tracked GATE or gifted children in the Chicago area; the host presents this as a theory.",
+      "transcript_snippet": "On my episode, I posited that the military was keeping its eye on quote unquote gate children",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7011",
+      "ref": "C-7011",
+      "label": "Host Says Street Lights Used to Go Out When Charlie Ran",
+      "claim": "The host says she previously told viewers that street lights used to go out when Charlie ran, that there is a term for it, and that commenters said many people experience it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:45",
+      "investigative_direction": "Ask people close to Charlie Kirk to confirm or deny the anecdote; the host reports it second-hand.",
+      "transcript_snippet": "I told you guys also that street lights used to go out when he ran.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7012",
+      "ref": "C-7012",
+      "label": "Host Says the Public Founding Story Is That Charlie Did Not Get Into West Point",
+      "claim": "The host says the story the public knows and she was told is that Charlie was a teenager who did not get into West Point and who was speaking at a conference where Bill Montgomery happened to be in attendance.",
+      "anchored_artifacts": [
+        "A-1678.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:33",
+      "investigative_direction": "Compare with published founding accounts of TPUSA and Charlie Kirk's own statements on West Point.",
+      "transcript_snippet": "The story the public knows and the story that I was told is that Charlie was this teenager, didn't get into West Point.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-467"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7013",
+      "ref": "C-7013",
+      "label": "Host Says Bill Montgomery Has Passed and That She Met Him",
+      "claim": "The host says Bill Montgomery has since passed, that she met him and that he was very kind to her, and that she is raising his role only because she is now interested in the TPUSA origin story.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:27:32",
+      "investigative_direction": "Confirm Montgomery's death date and obituary details.",
+      "transcript_snippet": "He has since passed. I've met Bill Montgomery. He's very kind to me.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-467"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7014",
+      "ref": "C-7014",
+      "label": "Host Says Bill Montgomery Was in the Air Force Reserves and From Lincoln, Nebraska",
+      "claim": "The host says Bill Montgomery was in the Air Force reserves and was also from Lincoln, Nebraska, and that many people in this story are tied to Lincoln, Nebraska.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10211"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:36",
+      "investigative_direction": "Obtain Montgomery's military service record, obituary and Nebraska residence history.",
+      "transcript_snippet": "Bill Montgomery was Air Force. He's in the Air Force reserves. Uh, Bill Montgomery also happened to be from Lincoln, Nebraska.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-467"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7015",
+      "ref": "C-7015",
+      "label": "Host Says Montgomery Moved to the Chicago Area, Where Charlie's School Was",
+      "claim": "The host says not much is known about what Montgomery did in the military, but that he moved to the Chicago area afterward, the area where Charlie's gifted school was.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11122"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:36",
+      "investigative_direction": "Establish when and why Montgomery moved to the Chicago area using public records and obituaries.",
+      "transcript_snippet": "we do know that he moved to the Chicago area thereafter, which obviously in the area where Charlie's X-Men School was.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-467",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7016",
+      "ref": "C-7016",
+      "label": "Host Says Charlie's Gifted School Was Creative Children's Academy, Renamed Quest Academy",
+      "claim": "The host says Charlie's 'X-Men School' was Creative Children's Academy, which opened in 1982 for the academically gifted from preschool through eighth grade and officially changed its name to Quest Academy in 1999.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11122",
+        "N-10422"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:36",
+      "investigative_direction": "Confirm the school's founding year, rename and Charlie Kirk's enrollment through school records, state filings or alumni statements.",
+      "transcript_snippet": "was actually called Creative Children's Academy. It opened in 1982 for the academically gifted.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7017",
+      "ref": "C-7017",
+      "label": "Host Says the Academy Receives Corporate and Private Funding From Unnamed Sources",
+      "claim": "The host says a past article states that the academy receives corporate and private funding, and that she wants to know which corporations funded it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11122"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:36",
+      "investigative_direction": "Locate the article and the school's tax filings and donor lists to identify corporate funders.",
+      "transcript_snippet": "It tells us uh on its website or I'm sorry, in a past article that it receives corporate and private funding from who?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7018",
+      "ref": "C-7018",
+      "label": "Host Says the Academy Is a Stone's Throw From Northrop Grumman",
+      "claim": "The host says the academy is a stone's throw from Northrop Grumman, the aerospace and defense contractor with federal contracts dating back to World War II, that it came up when she researched the area in Palatine, Illinois, and that it may mean nothing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11122",
+        "N-11123"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:53",
+      "investigative_direction": "Map the academy's address against Northrop Grumman facilities and check for any funding or personnel link.",
+      "transcript_snippet": "What we do know is that it's a stones throw from Northrup Grumman",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7019",
+      "ref": "C-7019",
+      "label": "Host Says Helen Barts Founded the Academy and Her Husband Is Rev. Robert Barts",
+      "claim": "The host says Creative Children's Academy was founded by a woman named Helen Barts, whose husband is Reverend Robert Barts of Arlington Heights.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11122"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:53",
+      "investigative_direction": "Verify the founders through Illinois corporation filings and school history sources.",
+      "transcript_snippet": "was founded by a woman named Helen Barts. Okay. Her husband is a Reverend Robert Barts of Arlington Heights.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-781"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7020",
+      "ref": "C-7020",
+      "label": "Host Says a Tipster Reports Helen Barts Was Friends With Bill and Edith Montgomery",
+      "claim": "The host says a tip she received, which she says she was able to confirm, is that Helen Barts was good friends with Bill Montgomery and his wife Edith Walker Montgomery, who goes by Edith Walker.",
+      "anchored_artifacts": [
+        "A-2847.1"
+      ],
+      "related_nodes": [
+        "N-11122"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:53",
+      "investigative_direction": "Obtain independent corroboration, such as church, business or social records, linking Barts and the Montgomerys.",
+      "transcript_snippet": "Helen Barts was actually good friends with Bill Montgomery and his wife Edith Montgomery.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-781",
+        "N-467",
+        "N-782"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7021",
+      "ref": "C-7021",
+      "label": "Host Says Edith Walker Immigrated From Germany After WWII and Was an Adolescent Psychiatric Nurse",
+      "claim": "The host says Edith Walker, who she has since learned immigrated from Germany after World War II and about whom she can find little else, became, and the host says this is correct, an adolescent psychiatric nurse.",
+      "anchored_artifacts": [
+        "A-2847.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:53",
+      "investigative_direction": "Search immigration, nursing licensure and employment records for Edith Marie Walker; the host asks viewers for help.",
+      "transcript_snippet": "Edith Walker, who I've since learned immigrated from Germany after World War II, and I can't really find much else about her",
+      "mentions_person_refs": [
+        "N-3",
+        "N-782"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7022",
+      "ref": "C-7022",
+      "label": "Tipster Claims Edith Walker Started the School With Helen Barts and Has Been Wiped From the Record",
+      "claim": "The host relays that the tipster claims Edith Walker started the school with Helen Barts and that she has since been virtually wiped from public record.",
+      "anchored_artifacts": [
+        "A-2847.1"
+      ],
+      "related_nodes": [
+        "N-11122"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:53",
+      "investigative_direction": "Compare school founding documents and archived web pages for any mention of Edith Walker.",
+      "transcript_snippet": "she was actually the person that started the school with Helen Arts and that's has since virtually been wiped from public record.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-782",
+        "N-781"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7023",
+      "ref": "C-7023",
+      "label": "Tipster Claims the Montgomerys and Robert Flood All Worked for Shaklee Before the School",
+      "claim": "The host relays that the tipster says Bill Montgomery, his wife and a certain Robert Flood, whom the host describes as in Dan Flood's family, knew each other before the school started and all worked for the evangelical sales company the Shaklee Corporation (transcribed 'Shackley').",
+      "anchored_artifacts": [
+        "A-2847.1"
+      ],
+      "related_nodes": [
+        "N-11124"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:53",
+      "investigative_direction": "Seek Shaklee employment records or distributor histories for Montgomery, his wife and Robert Flood, and confirm any family link to Dan Flood.",
+      "transcript_snippet": "The person claims that Bill and his wife and a certain Robert Flood who is in Dan Flood's family, this is what they claim",
+      "mentions_person_refs": [
+        "N-3",
+        "N-467",
+        "N-782",
+        "N-481",
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7024",
+      "ref": "C-7024",
+      "label": "Host Says Shaklee Created the First Multivitamin in America",
+      "claim": "The host says the Shaklee Corporation (transcribed 'Shackley'), which still exists, was the first company that ever created a multivitamin in America and commanded an evangelical sales force.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11124"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:47",
+      "investigative_direction": "Check Shaklee's corporate history for the multivitamin claim.",
+      "transcript_snippet": "The Shackley Corporation was the first company that ever created a multivitamin in America.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7025",
+      "ref": "C-7025",
+      "label": "Host Says Shaklee Had a 25-Year NASA Contract for Space Supplements",
+      "claim": "The host says Shaklee grew into a massive company that engaged in a 25-year contract with NASA for supplements that astronauts could take to space.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11124",
+        "N-11125"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:47",
+      "investigative_direction": "Search NASA contract archives and Shaklee corporate history for any 25-year supplement contract.",
+      "transcript_snippet": "it grew to be a massive company that engaged in a 25-year contract with NASA.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7026",
+      "ref": "C-7026",
+      "label": "Host Says She Confirmed Helen Barts Ran the Shaklee Center in Arlington Heights",
+      "claim": "The host says she was able to confirm that Helen Barts, before starting the school, worked at Shaklee and actually ran the Shaklee Center in Arlington Heights.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11124",
+        "N-11122"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:47",
+      "investigative_direction": "Request the host's confirming source and look for Shaklee distributor or center records in Arlington Heights.",
+      "transcript_snippet": "I confirmed that she did indeed prior to worked at Shackley. She actually ran the Shackley Center in Arlington Heights.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-781"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7027",
+      "ref": "C-7027",
+      "label": "Host Says Charlie Told Her His Mother Refused to Let Them Drug Him as a Child",
+      "claim": "The host says Charlie told her the story that they wanted to drug him when he was a kid, but his mother said no, and that instead his mother put him into the special school.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11122",
+        "N-10422"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:47",
+      "investigative_direction": "Seek confirmation from Charlie's family or school records; the host relays a private conversation.",
+      "transcript_snippet": "Charlie told me the story that they wanted to drug him when he was a kid, but his mom said no.",
+      "supports_claim_refs": [
+        "C-5426"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7028",
+      "ref": "C-7028",
+      "label": "Host Asks Viewers to Email Tips About Edith Walker Montgomery",
+      "claim": "The host asks viewers with more information to email moretips@candaceowens.com, saying she is particularly interested in Edith Walker Montgomery, where she came from in Germany and who her family is.",
+      "anchored_artifacts": [
+        "A-2848.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:24",
+      "investigative_direction": "Review incoming tip responses to the request; this is a call for crowd research.",
+      "transcript_snippet": "email, send us an email at more tips@canacewowens. com.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-782"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7029",
+      "ref": "C-7029",
+      "label": "Host Says Operation Paperclip Brought Nazi Scientists to the US Under the CIA",
+      "claim": "The host says Operation Paperclip was when the US brought scientists, whom she calls Nazis, from Germany, and that the CIA did this on the justification that it led to the Apollo program.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11126"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:41",
+      "investigative_direction": "Operation Paperclip is historically documented; verify any link to the specific people discussed against primary records.",
+      "transcript_snippet": "Operation Paperclip was when we went over and we got these quote unquote scientists scientist Nazis from Germany and we brought him here",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7030",
+      "ref": "C-7030",
+      "label": "Host Says She Does Not Believe the Moon Landing Happened",
+      "claim": "The host says she does not believe the US went to the moon, and wonders what the imported scientists were actually brought over for.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11125",
+        "N-11126"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:41",
+      "investigative_direction": "Host's stated belief; contrary to extensive public documentation of the Apollo missions.",
+      "transcript_snippet": "because I don't believe we went to the moon",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7031",
+      "ref": "C-7031",
+      "label": "Host Says Project Monarch Was the Precursor to MK Ultra and Intentionally Harmed Children",
+      "claim": "The host says Project Monarch was the precursor to MK Ultra, in which children were intentionally harmed to abuse people into compliance and mind control, and that she believes people who are mind-controlled slaves are among us.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11033",
+        "N-10001"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:41",
+      "investigative_direction": "Project Monarch is contested in the historical record; verify against declassified MKUltra documents.",
+      "transcript_snippet": "project Monarch which was the precursor to MK Ultra",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7032",
+      "ref": "C-7032",
+      "label": "Host Credits the Brave Report With Identifying Lorie Cardardoza Moore as an Evangelical Zionist Who Learned She Is Jewish",
+      "claim": "The host says a small account, the Brave Report, pulled up Lorie Cardardoza Moore as an evangelical Zionist who said she learned later in life that she is Jewish but remains an evangelical, which the host sets against the threat message she displayed earlier.",
+      "anchored_artifacts": [
+        "A-2849.1"
+      ],
+      "related_nodes": [
+        "N-10445",
+        "N-10209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:41",
+      "investigative_direction": "Locate the Brave Report posts and Moore's own statements on her background.",
+      "transcript_snippet": "Lorie Cardardoza Moore The Brave Report pulled up as an evangelical Zionist who said that she then learned later on that she's Jewish but she is still an evangelical.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-507"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7033",
+      "ref": "C-7033",
+      "label": "Moore Says Three Couples Told Her They Were Horrified by Tucker Carlson at the Tampa Conference",
+      "claim": "In the audio, Lorie Cardardoza Moore says three couples who attended the Turning Point USA conference in Tampa told her they were horrified by Tucker Carlson's speech, which she describes as condemning Israel and praising Qatar, and that Michelle Bachmann followed with five minutes to argue for standing with Israel and was booed.",
+      "anchored_artifacts": [
+        "A-1681.1"
+      ],
+      "related_nodes": [
+        "N-10445",
+        "N-10209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:08",
+      "investigative_direction": "Identify the date of the Tampa conference and compare the account with video of Carlson's and Bachmann's sessions.",
+      "transcript_snippet": "I had three couples reach out to me who had been to the Turning Point USA conference and this was in Tampa a couple weeks ago.",
+      "mentions_person_refs": [
+        "N-507",
+        "N-22",
+        "N-783"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7034",
+      "ref": "C-7034",
+      "label": "Moore Says Bachmann Told Her 10% of the Room Walked Out and Charlie Did Not Respond",
+      "claim": "In the audio, Lorie Cardardoza Moore says Michelle Bachmann told her personally that 10% of the room got up and walked out, and that Charlie Kirk, who was responsible for the event, did not condemn Tucker, defend Bachmann or explain why they stand with Israel.",
+      "anchored_artifacts": [
+        "A-1681.1"
+      ],
+      "related_nodes": [
+        "N-10445",
+        "N-10209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:07",
+      "investigative_direction": "Review the Tampa conference footage for the booing, walkouts and any remarks by Charlie Kirk afterward.",
+      "transcript_snippet": "She said 10% in the room got up and walked out on her.",
+      "mentions_person_refs": [
+        "N-507",
+        "N-783",
+        "N-1",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7035",
+      "ref": "C-7035",
+      "label": "Host Says Lorie Moore Is Married to Stanley Clark Moore, With an Air Force Background",
+      "claim": "The host says Lorie Cardardoza Moore is married to a man named Stanley Clark Moore, who has an Air Force background, grew up on Air Force bases and graduated from high school in Humble, Texas, and she says she wants to know about his father.",
+      "anchored_artifacts": [
+        "A-2850.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:41:47",
+      "investigative_direction": "Search public records and the Wikipedia article for Stanley Clark Moore's biography and family.",
+      "transcript_snippet": "married to a man named Stanley Clark Moore. He has an Air Force background.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-507",
+        "N-784"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7036",
+      "ref": "C-7036",
+      "label": "Host Says Stanley Clark Moore Worked for NASA Briefly if His Wikipedia Is to Be Believed",
+      "claim": "The host says that, if his Wikipedia page is to be believed, Stanley Clark Moore also went to work for NASA for a little bit, but that little else is known about him.",
+      "anchored_artifacts": [
+        "A-2850.1"
+      ],
+      "related_nodes": [
+        "N-11125"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:47",
+      "investigative_direction": "Read the Wikipedia article and its sources for the NASA employment claim.",
+      "transcript_snippet": "Uh, also went to go work for NASA if if his Wikipedia is to be believed for a little bit.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-784"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7037",
+      "ref": "C-7037",
+      "label": "Host Asks Viewers to Message Tips on Stanley Clark Moore's Air Force Base",
+      "claim": "The host asks viewers to message more tips at candaceowens.com about which Air Force base Stanley Clark Moore's family was tied to.",
+      "anchored_artifacts": [
+        "A-2851.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:01",
+      "investigative_direction": "Review incoming tip responses; this is a call for crowd research.",
+      "transcript_snippet": "Message us more tips at candacewowens. com.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-784"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7038",
+      "ref": "C-7038",
+      "label": "Host Says Turning Point Is Shooting a Super Bowl Commercial in Nashville With a Company Whose CEO Is From Lockheed Martin",
+      "claim": "The host says someone messaged her that Turning Point is shooting its Super Bowl commercial in Nashville, Tennessee, working with a company whose CEO is from Lockheed Martin.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:01",
+      "investigative_direction": "Identify the production company and its CEO's biography; confirm TPUSA's Super Bowl advertising plans.",
+      "transcript_snippet": "Turning Point is, you know, shooting their Super Bowl commercial here in Tennessee in Nashville",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7039",
+      "ref": "C-7039",
+      "label": "Host Says the Military Cult Has Been in Power Since LBJ Helped Murder JFK",
+      "claim": "The host says she feels the military cult has been in power since LBJ helped murder JFK and put in his own people in the military.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:01",
+      "investigative_direction": "Host's stated belief; historical sources on the JFK assassination would be the test.",
+      "transcript_snippet": "the military cult has been in power since LBJ helped murder uh JFK set him up and then um I think cleaned house",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7040",
+      "ref": "C-7040",
+      "label": "Host Says Kanye West Took Out a Full-Page Wall Street Journal Ad to Apologize",
+      "claim": "The host says Kanye West took out a full page in the Wall Street Journal to apologize.",
+      "anchored_artifacts": [
+        "A-1683.1"
+      ],
+      "related_nodes": [
+        "N-11127"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:58",
+      "investigative_direction": "Locate the Wall Street Journal ad and confirm its date and text.",
+      "transcript_snippet": "about Kanye taking out a full page in the Wall Street Journal to apologize",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7041",
+      "ref": "C-7041",
+      "label": "Host Says Kanye Told Vanity Fair About His Bipolar Episode and New Meds",
+      "claim": "The host says Kanye answered questions for Vanity Fair about the apology, speaking about his bipolar episode, saying he is on new meds, that 2025 (or 2024) was a tough year, that this is not a PR move and that he is sorry to the people he hurt.",
+      "anchored_artifacts": [
+        "A-1684.1"
+      ],
+      "related_nodes": [
+        "N-11127"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:58",
+      "investigative_direction": "Obtain the Vanity Fair piece and check the quoted statements.",
+      "transcript_snippet": "He speaks about his bipolar episode. Said that he is on new meds",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7042",
+      "ref": "C-7042",
+      "label": "Host Says Ye's Apology Does Not Change Her Views on Israel and She Will Support Him",
+      "claim": "The host says Ye is like a brother to her, that she will support him in what he does and speak to him directly if she does not, and that his apology has nothing to do with her viewpoints on Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11127"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:40",
+      "investigative_direction": "Host's stated position; compare against her prior statements about Ye.",
+      "transcript_snippet": "this has nothing to do with my viewpoints whatsoever on Israel",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7043",
+      "ref": "C-7043",
+      "label": "Host Says Erika Said She Lived in China and Never Did",
+      "claim": "The host says Erika Kirk has said things that are simply not true, giving the example 'I lived in China', and says she never lived in China.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10419",
+        "N-10428"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:20",
+      "investigative_direction": "Compare Erika's recorded statements about China with her documented residences; the host presents this as a lie.",
+      "transcript_snippet": "I lived in China. No, I didn't live I never lived in China.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7044",
+      "ref": "C-7044",
+      "label": "Host Says Erika Said She Did Not Date for Five Years and That Defenders Reframed It",
+      "claim": "The host says Erika said she did not date anybody for five years, that people then cleaned it up as meaning in New York City, and that she finds the reframing ridiculous and says the claim is just not true.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:20",
+      "investigative_direction": "Locate Erika's original statement and any clarification; test it against known relationships in the period.",
+      "transcript_snippet": "you don't say, I didn't date for five years if you did date for five years.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7045",
+      "ref": "C-7045",
+      "label": "Host Says Andrew Kolvet Was Caught Holding the Paramount Tactical Tweet",
+      "claim": "The host says that her team caught Andrew Kolvet with the Paramount Tactical tweet, and that this is when it became obvious to her that Erika is orchestrating a lot behind the scenes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:20",
+      "investigative_direction": "Review the earlier episode on the Paramount Tactical tweet and Kolvet's response.",
+      "transcript_snippet": "since we caught Andrew Kovette with the parent tact parent paramount tactical tweet",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7046",
+      "ref": "C-7046",
+      "label": "Host Says Fired Employees Reported Having No Access to Erika and That She Did Not Feel Like Charlie",
+      "claim": "The host says the fired employees' feedback was that they had no access to Erika and that she did not feel like Charlie, who she says felt accessible.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10439"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:20",
+      "investigative_direction": "Interview former employees about access to Erika; the host relays second-hand accounts.",
+      "transcript_snippet": "They had no access to her. It didn't feel like Charlie.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7047",
+      "ref": "C-7047",
+      "label": "Host Says Charlie Declined to Buy Himself a Suit From a Tailor to Be a Good Steward",
+      "claim": "The host says Charlie was not an elitist and, even when he had the money, did not just buy himself a suit from a tailor because he wanted to be a good steward of TPUSA's money.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:45",
+      "investigative_direction": "Anecdote from the host's own acquaintance with Charlie; hard to verify externally.",
+      "transcript_snippet": "even when he had the money, just buy himself a suit, go to a tailor, and things of that nature",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7048",
+      "ref": "C-7048",
+      "label": "Host Says the Majority of TPUSA's Money Comes From Small-Pocket Donors",
+      "claim": "The host says the majority of the money coming in to TPUSA comes from small-pocket donors and that every effort now seems aimed at going after people trying to find out what happened to Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:45",
+      "investigative_direction": "Compare with TPUSA's donor breakdown in Form 990 filings and public disclosures.",
+      "transcript_snippet": "obviously the majority of the money comes from small pocket donors",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7049",
+      "ref": "C-7049",
+      "label": "Host Says Her Book Now Ships to Canada",
+      "claim": "The host says her book now ships to Canada, in reply to a viewer comment.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:45",
+      "investigative_direction": "Check the store listing for Canadian shipping; promotional statement.",
+      "transcript_snippet": "We now ship to Canada.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7050",
+      "ref": "C-7050",
+      "label": "Host Says the Korean War Spraying Experiments Are the True Reason NASA Came Together",
+      "claim": "The host says that during the Korean War, as she learned in a book she calls the chaos book, the US was experimenting with spraying people and products, and that she believes the true reason NASA came together was mass poisoning of people.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11125"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:26",
+      "investigative_direction": "Host's stated belief; test against historical records of NASA's founding.",
+      "transcript_snippet": "the true reason that NASA came together, mass poisoning people.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7051",
+      "ref": "C-7051",
+      "label": "Host Says It Is Less Believable That Kolvet and Flood Did Not Tell Erika Afterward",
+      "claim": "The host says she is less inclined to believe that Andrew Kolvet and Dan Flood did not tell Erika afterward that she had to rely on Charlie's text messages, since the feds would have asked whether Charlie had fears and informed the next of kin, and since Erika as chairman and CEO could presumably read the texts herself.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:45",
+      "investigative_direction": "Ask Kolvet, Flood and the FBI when Erika was told of Charlie's night-before messages and fears.",
+      "transcript_snippet": "I'm less inclined to believe that Andrew Kovat and Dan Flood didn't tell her afterward that she had to rely on his text messages.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-276",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7052",
+      "ref": "C-7052",
+      "label": "Host Relays That a Source Said the Group Was Joyous and Giddy at Charlie's Favorite Restaurant",
+      "claim": "The host says the person who was at the post-memorial dinner said the group was joyous and giddy at Charlie's favorite restaurant, which she chose not to name.",
+      "anchored_artifacts": [
+        "A-2846.1"
+      ],
+      "related_nodes": [
+        "N-10002"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:45",
+      "investigative_direction": "Identify the restaurant and the host's source for the account of the dinner.",
+      "transcript_snippet": "when that person said they were joyous and giddy at Charlie's favorite restaurant which I chose not to name.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
     }
   ],
   "memes": [
@@ -857,6 +3238,48 @@
           "tags": [
             "reuse",
             "memelink_backfill"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 63,
+          "video_timestamp": "00:40:07",
+          "speaker_node_ref": "N-3",
+          "quote": "the DCIA, the decentralized intelligence agency, is moving quicker.",
+          "context": "Host credits DCIA crowd research on Lori Cardoza Moore background.",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "brand_joke"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 63,
+          "video_timestamp": "00:51:25",
+          "speaker_node_ref": "N-3",
+          "quote": "Geoengineering has become really fake and gay.",
+          "context": "Viewer Joel comment elevated on air using Fake and Gay.",
+          "confidence": "high",
+          "tags": [
+            "viewer_refrain",
+            "catchphrase"
           ]
         }
       ]

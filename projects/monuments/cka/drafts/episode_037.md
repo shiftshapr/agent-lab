@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-279, N-280, N-281, N-282, N-283, N-284, N-285, N-286, N-10273, N-10274, N-10275, N-10276, N-10277, N-10278, N-10279, N-10280, N-10281, N-10282
-  - Reused Nodes Appearing: N-1
+  - New Nodes Introduced: N-279, N-280, N-281, N-282, N-284, N-285, N-286, N-10273, N-10274, N-10275, N-10276, N-10277, N-10278, N-10279, N-10280, N-10281, N-10282
+  - Reused Nodes Appearing: N-1, N-283
   - (see registers)
 
 # Episode 37 Analysis Record

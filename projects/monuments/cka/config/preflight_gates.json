@@ -173,6 +173,41 @@
         "claim": "C-5136",
         "node": "N-27",
         "reason": "claim text: \"friends with Ye\" (Kanye West)"
+      },
+      {
+        "claim": "C-6901",
+        "node": "N-500",
+        "reason": "role reference: \"Erika's mother\""
+      },
+      {
+        "claim": "C-6902",
+        "node": "N-500",
+        "reason": "role reference: \"her mother\""
+      },
+      {
+        "claim": "C-7007",
+        "node": "N-15",
+        "reason": "Erika on the call says \"working with Justin\" (TPUSA COO Justin Streiff)"
+      },
+      {
+        "claim": "C-7565",
+        "node": "N-4",
+        "reason": "role reference: \"the vice president\""
+      },
+      {
+        "claim": "C-7719",
+        "node": "N-27",
+        "reason": "claim text: \"Ye\" (Kanye West)"
+      },
+      {
+        "claim": "C-7720",
+        "node": "N-27",
+        "reason": "claim text: \"Ye\" (Kanye West)"
+      },
+      {
+        "claim": "C-6996",
+        "node": "N-221",
+        "reason": "claim text: \"the McCoys (Elizabeth, Mikey)\""
       }
     ],
     "first_name_ok": [

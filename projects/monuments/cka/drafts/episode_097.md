@@ -11,6 +11,7 @@
 - **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (reintro-ep097): N-800
   - Reused Nodes Appearing: N-10643, N-10645, N-10646
  - New Nodes Introduced: N-10644, N-10647, N-10648, N-10649, N-10650
  - Hole-minted Nodes (wave3): N-437, N-438
@@ -303,9 +304,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2828, C-2829, N-3*
-
----
+*Related: C-2828, C-2829, N-3, N-800*---
 
 ### **A-2024** Lawler-Gottheimer House Resolution Bundle
 
@@ -404,6 +403,14 @@ Confidence Level: Medium
 ---
 
 ## IV. Node Register
+
+**N-800** Hasan Piker
+
+Streamer; first named in A-2023.1.
+
+*Related: A-2023.1*
+
+---
 
 **N-438** Josh Gottheimer
 

@@ -35,10 +35,10 @@ import dia_preflight as dp  # noqa: E402
 TYPE_MAP = {"topic": "topic", "organization": "organization", "organisation": "organization", "org": "organization",
             "place": "place", "event": "topic", "thing": "topic"}
 SECTION = {
-    "art": r"^## (?:3\.|III\.)\s*Artifact Register.*$",
-    "node": r"^## (?:4\.|IV\.)\s*Node Register.*$",
-    "claim": r"^## (?:5\.|V\.)\s*Claim Register.*$",
-    "meme": r"^## (?:6\.|VI\.)\s*Meme Register.*$",
+    "art": r"^#{1,3} (?:3\.|III\.)?\s*Artifact Register.*$",
+    "node": r"^#{1,3} (?:4\.|IV\.)?\s*Node Register.*$",
+    "claim": r"^#{1,3} (?:5\.|V\.)?\s*Claim Register.*$",
+    "meme": r"^#{1,3} (?:6\.|VI\.)?\s*Meme Register.*$",
 }
 
 
@@ -56,7 +56,7 @@ def section(text: str, key: str) -> str:
     m = re.search(SECTION[key], text, re.M)
     if not m:
         return ""
-    nxt = re.search(r"^## ", text[m.end():], re.M)
+    nxt = re.search(r"^#{1,3} ", text[m.end():], re.M)
     return text[m.end(): m.end() + nxt.start()] if nxt else text[m.end():]
 
 
@@ -68,7 +68,7 @@ def insert_at_section_end(text: str, key: str, block: str, fallback_header: str)
         anchor = re.search(r"^## (?:7\.|VI\.|VII\.)\s*(?:Optional Flags|Output Quality).*$", text, re.M)
         pos = anchor.start() if anchor else len(text)
         return text[:pos] + f"{fallback_header}\n\n{block.strip()}\n\n" + text[pos:]
-    nxt = re.search(r"^## ", text[m.end():], re.M)
+    nxt = re.search(r"^#{1,3} ", text[m.end():], re.M)
     pos = m.end() + nxt.start() if nxt else len(text)
     before = text[:pos].rstrip("\n")
     return before + "\n\n" + block.strip() + "\n\n" + text[pos:]

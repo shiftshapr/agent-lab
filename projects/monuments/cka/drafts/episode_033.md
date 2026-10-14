@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: b7672eebc7c5ab411aa950afd3d3a2a493c93fe1cc77ff7576fff21c34e89159
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-265, N-266, N-267, N-269, N-270, N-10253, N-10254, N-10255, N-10256, N-10257, N-10258
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-265, N-266, N-267, N-269, N-270, N-10254, N-10255, N-10256, N-10257, N-10258
+  - Reused Nodes Appearing: N-10253
   - Tip-minted Nodes (wave2): N-10896
   N-41
 

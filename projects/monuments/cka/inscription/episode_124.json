@@ -530,6 +530,82 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2863",
+      "family_ref": "A-2863",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2863.1",
+          "ref": "A-2863.1",
+          "description": "Host verbal reference to the tips email address for information on K9 timing (spoken request, no on-screen display)",
+          "related_claims": [
+            "C-7229"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:25:33",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2864",
+      "family_ref": "A-2864",
+      "bundle_name": "Penguitch Steak Receipt Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2864.1",
+          "ref": "A-2864.1",
+          "description": "Host verbal reference to a receipt for Tyler Robinson's steak payment at 9:47 p.m. in Penguitch (receipt not shown)",
+          "related_claims": [
+            "C-7223"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:21:42",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2865",
+      "family_ref": "A-2865",
+      "bundle_name": "Cardboard Piece Tip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2865.1",
+          "ref": "A-2865.1",
+          "description": "Host verbal reference to an unbelievable tip about a cardboard-like piece in the back of the car (tip not shown)",
+          "related_claims": [
+            "C-7268",
+            "C-7269"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:09:21",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -638,7 +714,28 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7203",
+        "C-7206",
+        "C-7213",
+        "C-7222",
+        "C-7232",
+        "C-7239",
+        "C-7242",
+        "C-7250",
+        "C-7252",
+        "C-7256",
+        "C-7257",
+        "C-7258",
+        "C-7259",
+        "C-7263",
+        "C-7264",
+        "C-7265",
+        "C-7266",
+        "C-7267",
+        "C-7272",
+        "C-7276"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -654,7 +751,17 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7203",
+        "C-7204",
+        "C-7208",
+        "C-7243",
+        "C-7245",
+        "C-7252",
+        "C-7266",
+        "C-7278",
+        "C-7279"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -670,7 +777,44 @@
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7205",
+        "C-7206",
+        "C-7207",
+        "C-7208",
+        "C-7209",
+        "C-7210",
+        "C-7211",
+        "C-7212",
+        "C-7213",
+        "C-7214",
+        "C-7215",
+        "C-7217",
+        "C-7218",
+        "C-7219",
+        "C-7221",
+        "C-7223",
+        "C-7224",
+        "C-7225",
+        "C-7227",
+        "C-7228",
+        "C-7229",
+        "C-7230",
+        "C-7233",
+        "C-7234",
+        "C-7235",
+        "C-7236",
+        "C-7237",
+        "C-7238",
+        "C-7240",
+        "C-7241",
+        "C-7242",
+        "C-7243",
+        "C-7246",
+        "C-7249",
+        "C-7270",
+        "C-7277"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -686,7 +830,21 @@
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7206",
+        "C-7215",
+        "C-7216",
+        "C-7224",
+        "C-7225",
+        "C-7226",
+        "C-7231",
+        "C-7232",
+        "C-7235",
+        "C-7238",
+        "C-7249",
+        "C-7270",
+        "C-7277"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -718,7 +876,17 @@
       "type": "person",
       "description": "Host on whose show Brendan Carr made FCC remarks",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7203",
+        "C-7204",
+        "C-7242",
+        "C-7243",
+        "C-7244",
+        "C-7245",
+        "C-7246",
+        "C-7247",
+        "C-7248"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -734,7 +902,18 @@
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7250",
+        "C-7251",
+        "C-7252",
+        "C-7253",
+        "C-7254",
+        "C-7255",
+        "C-7256",
+        "C-7263",
+        "C-7264",
+        "C-7275"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -767,7 +946,9 @@
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7258"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -783,7 +964,77 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7203",
+        "C-7204",
+        "C-7206",
+        "C-7207",
+        "C-7208",
+        "C-7209",
+        "C-7210",
+        "C-7211",
+        "C-7212",
+        "C-7213",
+        "C-7214",
+        "C-7215",
+        "C-7216",
+        "C-7217",
+        "C-7218",
+        "C-7219",
+        "C-7220",
+        "C-7221",
+        "C-7222",
+        "C-7223",
+        "C-7224",
+        "C-7225",
+        "C-7226",
+        "C-7227",
+        "C-7228",
+        "C-7229",
+        "C-7230",
+        "C-7231",
+        "C-7232",
+        "C-7233",
+        "C-7234",
+        "C-7235",
+        "C-7237",
+        "C-7238",
+        "C-7239",
+        "C-7240",
+        "C-7246",
+        "C-7247",
+        "C-7248",
+        "C-7249",
+        "C-7250",
+        "C-7251",
+        "C-7252",
+        "C-7253",
+        "C-7254",
+        "C-7255",
+        "C-7257",
+        "C-7258",
+        "C-7259",
+        "C-7260",
+        "C-7261",
+        "C-7262",
+        "C-7263",
+        "C-7264",
+        "C-7265",
+        "C-7266",
+        "C-7267",
+        "C-7268",
+        "C-7269",
+        "C-7270",
+        "C-7271",
+        "C-7272",
+        "C-7273",
+        "C-7274",
+        "C-7275",
+        "C-7276",
+        "C-7277",
+        "C-7278",
+        "C-7279"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -831,13 +1082,776 @@
       "type": "person",
       "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7230",
+        "C-7267"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; where staff and leadership are discussed throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7222",
+        "C-7252"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Utah Valley University; the hearing and the Loy Center are tied to it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7217",
+        "C-7218",
+        "C-7220",
+        "C-7221",
+        "C-7241"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10018",
+      "ref": "N-10018",
+      "name": "Netanyahu Israel Invitation Phone Call",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Netanyahu call.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7266"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10022",
+      "ref": "N-10022",
+      "name": "Robinson Father Turn-In Narrative",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claim that Robinson's parents turned him in.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7205",
+        "C-7210",
+        "C-7211",
+        "C-7230"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10027",
+      "ref": "N-10027",
+      "name": "The Hamptons",
+      "type": "investigation_target",
+      "description": "The Hamptons; location of the gathering with the Netanyahu call.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7267"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10028",
+      "ref": "N-10028",
+      "name": "Utah Valley University Campus",
+      "type": "investigation_target",
+      "description": "Campus where Robinson's movements and the Loy Center are placed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7218",
+        "C-7219",
+        "C-7220",
+        "C-7241",
+        "C-7277"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10051",
+      "ref": "N-10051",
+      "name": "Dairy Queen 6:38 Photo Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's belief Robinson was at the Dairy Queen.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7277"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10077",
+      "ref": "N-10077",
+      "name": "Robinson-Lance Text Chain Authenticity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Tyler-Lance texts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7224",
+        "C-7225",
+        "C-7226",
+        "C-7227",
+        "C-7228",
+        "C-7229"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10381",
+      "ref": "N-10381",
+      "name": "Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Penguitch steak claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7223",
+        "C-7224",
+        "C-7271"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10386",
+      "ref": "N-10386",
+      "name": "Ben Shapiro Hostile Takeover Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Charlie-Shapiro relationship.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7250"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10389",
+      "ref": "N-10389",
+      "name": "Charlie Kirk Premonition Dreams",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the dreams.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7272"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10495",
+      "ref": "N-10495",
+      "name": "BB Netanyahu Hamptons Dinner Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Netanyahu call allegation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7265",
+        "C-7266",
+        "C-7267"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10572",
+      "ref": "N-10572",
+      "name": "ATF Bullet-to-Gun Inconclusive Finding",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the gun and bullet linkage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7213",
+        "C-7240"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10598",
+      "ref": "N-10598",
+      "name": "Lance Twiggs Federal Asset Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the federal asset claim about Lance.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7215",
+        "C-7216",
+        "C-7231",
+        "C-7232",
+        "C-7249",
+        "C-7270"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10679",
+      "ref": "N-10679",
+      "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for limits on Lance's testimony and cross-examination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7216",
+        "C-7249"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10692",
+      "ref": "N-10692",
+      "name": "911 Call Origin in Hospital Transport Vehicle",
+      "type": "investigation_target",
+      "description": "Existing topic reused for 911 and transport vehicle events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7262",
+        "C-7273",
+        "C-7276"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10703",
+      "ref": "N-10703",
+      "name": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the set-up theory.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7215",
+        "C-7238"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10729",
+      "ref": "N-10729",
+      "name": "911 Call Identification Gap",
+      "type": "investigation_target",
+      "description": "Existing topic reused for who called 911.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7262"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10748",
+      "ref": "N-10748",
+      "name": "Ben Shapiro 9/10 Lunch Meeting Identification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for who Shapiro was with at lunch.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7256",
+        "C-7263"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Daily Wire; Shapiro's company, discussed in the lawsuit and donation claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7252",
+        "C-7253",
+        "C-7254",
+        "C-7255"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10975",
+      "ref": "N-10975",
+      "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+      "type": "investigation_target",
+      "description": "ATF; the source of the DNA and ballistics testimony.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7233",
+        "C-7234",
+        "C-7235",
+        "C-7236",
+        "C-7239"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11017",
+      "ref": "N-11017",
+      "name": "TPUSA Influencer Payment Campaign Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's pay allegation about influencers.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7248",
+        "C-7269"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11065",
+      "ref": "N-11065",
+      "name": "Preliminary Hearing Influencer Invitation Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the invitation of influencers to the hearing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7203",
+        "C-7204",
+        "C-7242",
+        "C-7245",
+        "C-7246",
+        "C-7247"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-126",
+      "ref": "N-126",
+      "name": "Mike Mitchell",
+      "type": "person",
+      "description": "Former undercover detective, family friend and scout leader whom the host says brought Robinson in.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7211"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host cites his statement that it was supposed to be her and his reported revival of the Lance Twigs angle.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7250",
+        "C-7265",
+        "C-7270"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Blake Neff; the host says his memory of the evening is fuzzy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7222"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-166",
+      "ref": "N-166",
+      "name": "Matt Walsh",
+      "type": "person",
+      "description": "Matt Walsh; the host recalls a December phone call with him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7253"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-228",
+      "ref": "N-228",
+      "name": "Brandon Tatum",
+      "type": "person",
+      "description": "Brandon Tatum; an influencer the host says was invited to the courthouse.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7203"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Brian Harpole; in the transport car and plaintiff against the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7254",
+        "C-7257",
+        "C-7259",
+        "C-7273",
+        "C-7274",
+        "C-7275"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-276",
+      "ref": "N-276",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Dan Flood; one of the two remaining candidates in the host's elimination of who updated Shapiro's security.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7262"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-284",
+      "ref": "N-284",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Bari Weiss (captioned Barry Weiss); interviewed Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7208"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu; the host discusses the phone call in the Hamptons.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7266",
+        "C-7267"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-373",
+      "ref": "N-373",
+      "name": "Diligent Dennison",
+      "type": "person",
+      "description": "Researcher the host credits with speaking to the waiter in Penguitch.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7271"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-620",
+      "ref": "N-620",
+      "name": "Graham Allen",
+      "type": "person",
+      "description": "Graham Allen; an influencer the host says was invited to the courthouse.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7203"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Frank Turek; the host weighs his CPR and FaceTime accounts in the transport car.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7259",
+        "C-7261"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-789",
+      "ref": "N-789",
+      "name": "Caitlyn Oliver",
+      "type": "person",
+      "description": "First named by the host at 00:30:07 in episode 124. ATF forensic biologist who testified on DNA at the preliminary hearing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7233",
+        "C-7234",
+        "C-7235",
+        "C-7236",
+        "C-7237"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-790",
+      "ref": "N-790",
+      "name": "Samantha Carner",
+      "type": "person",
+      "description": "First named by the host at 00:37:36 in episode 124. ATF ballistics expert who testified on day four about bullet fragment 6A.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7239",
+        "C-7240"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-791",
+      "ref": "N-791",
+      "name": "Matt Robinson",
+      "type": "person",
+      "description": "First named by the host at 00:06:50 in episode 124. Tyler Robinson's father, whose prints the host says were on the gun. Aliases: Matt Robinson.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7235"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11135",
+      "ref": "N-11135",
+      "name": "Bullet Fragment Chain-of-Custody Question",
+      "type": "topic",
+      "description": "The host's point that seven fragments were reportedly taken from Charlie's body, but the ATF examiner testified she received four, found three unusable and examined one, labeled 6A.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7239"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11136",
+      "ref": "N-11136",
+      "name": "Transport Car Cardboard-Like Piece Tip",
+      "type": "topic",
+      "description": "A tip the host says she received about a piece that looked like cardboard in the back of the transport vehicle.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7268",
+        "C-7269"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11137",
+      "ref": "N-11137",
+      "name": "Harpole Team Medical Response Competence Dispute",
+      "type": "topic",
+      "description": "The dispute over whether the first aid given in the transport vehicle, including CPR, neck stabilization and Harpole's EMT credential, was competent, which underlies the lawsuit against the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7273",
+        "C-7274",
+        "C-7275",
+        "C-7276"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -1204,6 +2218,1635 @@
         "N-37",
         "N-40"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7203",
+      "ref": "C-7203",
+      "label": "Host Says Erika Invited Influencers to the Courthouse but Not to the Private Funeral Mass",
+      "claim": "The host says Erika Kirk extended an invitation to influencers including Benny Johnson, Graham Allen and Brandon Tatum to come to the courthouse, although she did not invite them to Charlie Kirk's private funeral mass.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:50",
+      "investigative_direction": "Obtain the hearing attendance and seating list and any invitation messages from Erika Kirk's office to the named influencers.",
+      "transcript_snippet": "did not choose to invite to Charlie's private funeral mass, but extended an invitation for them to come to the courthouse.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-89",
+        "N-620",
+        "N-228",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7204",
+      "ref": "C-7204",
+      "label": "Host Says Benny Johnson Announced That Erika Asked Him to Be at the Hearing",
+      "claim": "The host says Benny Johnson said at the outset that Erika Kirk asked him to be at the preliminary hearing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:00",
+      "investigative_direction": "Locate Benny Johnson's original post or video stating that Erika Kirk asked him to attend.",
+      "transcript_snippet": "Benny Johnson came right out of the gate and said, \"Erika asked me to be here.\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-89",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7205",
+      "ref": "C-7205",
+      "label": "Commentator Cites Three Confessions by Robinson",
+      "claim": "In a clip the host plays, an unnamed commentator says there are three confessions by Tyler Robinson: one to his parents, one to his roommate and one on Discord.",
+      "anchored_artifacts": [
+        "A-2117.3"
+      ],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:31",
+      "investigative_direction": "Identify the commentator and compare each claimed confession against what was actually entered into evidence at the hearing.",
+      "transcript_snippet": "So, we have three confessions here. one to his parents, one to his roommate, and one on Discord.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7206",
+      "ref": "C-7206",
+      "label": "Host Recaps Narrative That Robinson Acted in Rage Over Trans Rights",
+      "claim": "The host recaps the pre-hearing narrative that Tyler Robinson killed Charlie Kirk in broad daylight in a burning rage over LGBTQ and trans rights, because he has a trans furry boyfriend named Lance Twigs.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:09:27",
+      "investigative_direction": "Compare the motive narrative against the indictment, the charging documents and Lance Twigs's hearing testimony on politics.",
+      "transcript_snippet": "in a burning rage over LGBTQ rights, particularly trans rights because he has a trans furry boyfriend named Lance Twigs.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-54",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7207",
+      "ref": "C-7207",
+      "label": "Host Recalls Promise That Footage of the Shot Would Be Released Later",
+      "claim": "The host says that before the hearing the public was constantly reminded that there was footage of Tyler Robinson taking the shot, and that it had simply not been presented to the public yet.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:09:27",
+      "investigative_direction": "Collect the official statements promising footage of the shot and check whether any such footage was entered as an exhibit.",
+      "transcript_snippet": "we were constantly reminded uh that there was going to be footage also of Tyler Robinson taking that shot, that it had simply not been presented to the public yet",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7208",
+      "ref": "C-7208",
+      "label": "Host Says Erika Told Viewers She Had Seen the Evidence and Was Convinced",
+      "claim": "The host says Erika Kirk told viewers back in November or December that she had seen the evidence and was convinced it was Tyler Robinson, and that by her interview with Barry Weiss her mind was made up.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:09:27",
+      "investigative_direction": "Review the Erika Kirk interview with Bari Weiss and any earlier Erika Kirk statements about having seen evidence.",
+      "transcript_snippet": "Erika herself told us back in November or December that she had seen the evidence and she was convinced it was Tyler Robinson.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-284",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7209",
+      "ref": "C-7209",
+      "label": "Host Says Narrative Presented Robinson's Prints and DNA on the Gun Exclusively",
+      "claim": "The host says the public was told Tyler Robinson's fingerprints and DNA were found on the gun, that this was presented rather exclusively, and that other prints were never mentioned.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10711"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:16",
+      "investigative_direction": "Compare earlier official and media statements about prints and DNA with the ATF laboratory reports.",
+      "transcript_snippet": "Now, we were also told that Tyler's fingerprints and his DNA were found on the gun and that was presented rather exclusively.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7210",
+      "ref": "C-7210",
+      "label": "Host Says Parents Did Not Turn Robinson In",
+      "claim": "The host says she maintained that Tyler Robinson's parents did not turn him in, and calls the parents-turned-him-in story a mainstreamed lie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:16",
+      "investigative_direction": "Obtain the Washington County Sheriff's Office arrest narrative and search warrant records on how and with whom Robinson arrived.",
+      "transcript_snippet": "I maintained that Tyler Robinson's parents did parents did not turn him in. Okay, that was a mainstreamed lie.",
+      "supports_claim_refs": [
+        "C-5291"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7211",
+      "ref": "C-7211",
+      "label": "Host Says Mike Mitchell Told the Robinsons They Could Do It the Easy Way or the Hard Way",
+      "claim": "The host says Mike Mitchell, a former undercover detective, family friend and Tyler Robinson's boy scout leader, was told Robinson would be brought in and told the parents to do it the easy way or the hard way, so Robinson agreed to come in willfully without confessing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:16",
+      "investigative_direction": "Interview Mike Mitchell or the Robinson family about the surrender; obtain police records of who contacted the family before Robinson went in.",
+      "transcript_snippet": "I said rather he was peer pressured to come in by Mike Mitchell, the former undercover detective with the police force and also a family friend of the Robinsons",
+      "mentions_person_refs": [
+        "N-3",
+        "N-126",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7212",
+      "ref": "C-7212",
+      "label": "Host Says Robinson Was Not Political and Came From a Family of Trump Supporters",
+      "claim": "The host says she told viewers that Tyler Robinson was not political and came from a family of Trump supporters.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:24",
+      "investigative_direction": "Pull voter registration and donation records for the Robinson household and compare with Lance Twigs's testimony.",
+      "transcript_snippet": "Um, I also expressed to you that Tyler Robinson was not political, crucial, and that he came from a family of Trumpers.",
+      "supports_claim_refs": [
+        "C-3004"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7213",
+      "ref": "C-7213",
+      "label": "Host Says the Gun Was Robinson's but Was Not Fired That Day",
+      "claim": "The host says she has never denied the gun found was Tyler Robinson's, but asserts it was not fired that day and was not used to kill Charlie Kirk, and that he had inherited it as a family heirloom as the firstborn son.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10572"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:24",
+      "investigative_direction": "Obtain ATF test-fire and bullet comparison reports and the chain of custody for the rifle.",
+      "transcript_snippet": "I have never denied that the gun found was indeed Tyler Robinson's gun, but rather I have asserted that the gun was not fired on that day and was not used to kill Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7214",
+      "ref": "C-7214",
+      "label": "Host Says Robinson Was a Fisherman and His Brothers Were the Hunters",
+      "claim": "The host says Tyler Robinson was more of a fisherman, and that it was his brothers who were the hunters.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:24",
+      "investigative_direction": "Seek licensing records or family testimony on who in the Robinson household hunted and used the rifle.",
+      "transcript_snippet": "but that Tyler himself was actually more of a fisherman. His brothers were the hunters.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7215",
+      "ref": "C-7215",
+      "label": "Host Says Lance Twigs Is a Federal Asset Who Gathered Tyler's Belongings and Is Blackmailed",
+      "claim": "The host says she has suggested from the beginning that Lance Twigs is a federal asset who gathered Tyler's belongings to pin the crime on him, and that she suspects Lance is heavily blackmailed because he was into some dark web stuff.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10598",
+        "N-10703"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:24",
+      "investigative_direction": "Look for court filings or records on any agreement with Lance Twigs and on the alleged dark web activity; no document has been shown on air.",
+      "transcript_snippet": "I also have suggested heavily from the beginning that Lance Twigs is a federal asset who gathered Tyler's belongings to pin the crime on him.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-54",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7216",
+      "ref": "C-7216",
+      "label": "Host Says Lance Twigs Got Immunity and Was Not Cross-Examined Despite Hearsay Objections",
+      "claim": "The host says every piece of evidence the influencers push relies on Lance Twigs, who she says was immediately granted immunity by the feds and was not allowed to be cross-examined at this hearing even though arguments were made that his testimony amounted to hearsay.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10679",
+        "N-10598"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:24",
+      "investigative_direction": "Obtain the immunity or cooperation agreement and the hearing transcript rulings on hearsay and cross-examination of Lance Twigs.",
+      "transcript_snippet": "who for some reason was immediately granted immunity by the feds and was not allowed to even be cross-examined at this stage for this hearing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7217",
+      "ref": "C-7217",
+      "label": "Host Says Feds Flooded the Zone With Brunette Decoys She Calls Maroon Boys",
+      "claim": "The host says she suggested the feds intentionally flooded the zone with multiple brunette young men in similar outfits, whom she termed the maroon boys or decoys, and that she showed footage of many such men on campus.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:24",
+      "investigative_direction": "Compare the host's published decoy footage with campus video entered at the hearing to count distinct individuals in similar clothing.",
+      "transcript_snippet": "we suggested that the feds intentionally flooded the zone with multiple decoys, different young men, all brunette, all wearing similar outfits. We termed these our maroon boys, right?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7218",
+      "ref": "C-7218",
+      "label": "Host Says Her Biggest Claim Was That Robinson Did Not Step Onto Campus",
+      "claim": "The host says her biggest claim was that Tyler Robinson did not step foot onto campus that day, which is what he told his family, namely that he was around campus but not physically on it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10028"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:24",
+      "investigative_direction": "Establish Robinson's movements through campus access logs, parking records and phone location data.",
+      "transcript_snippet": "was that Tyler Robinson did not step foot onto campus on that day.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7219",
+      "ref": "C-7219",
+      "label": "Host Says No Clear Photo of Robinson on Campus Was Presented",
+      "claim": "The host says the state needed only one clear photo of Tyler Robinson on campus to prove her wrong and instead presented footage of unidentifiable brunette males walking up and down the Loy Center steps at various points in the day.",
+      "anchored_artifacts": [
+        "A-2121.1"
+      ],
+      "related_nodes": [
+        "N-10028"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:07",
+      "investigative_direction": "Review Exhibit 12.4 frame by frame and any other exhibit offered to place Robinson on campus.",
+      "transcript_snippet": "What we got instead was footage of unidentifiable brunette males, brunette males walking up and down the Loy Center steps at various points throughout the day.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7220",
+      "ref": "C-7220",
+      "label": "Host Says the Top Floor of the Loy Center Houses UVU's Military-Affiliated MASH Center",
+      "claim": "The host says that on the top floor of the Loy Center is UVU's military-affiliated student hub known as the MASH center, a dedicated center for student veterans and their families.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10028"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:22",
+      "investigative_direction": "Check UVU building directories for the MASH center location and its relationship to the Loy Center.",
+      "transcript_snippet": "on the top floor of the Loy Center of all things, it's uh UVU's military affiliated student hub known as their MASH center.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7221",
+      "ref": "C-7221",
+      "label": "Host Says a Witness Saw a Bald Driver in the Gray Challenger at 12:47 a.m.",
+      "claim": "The host says a witness confirmed seeing someone else driving a gray Challenger, a bald man, late at 12:47 a.m., captured on a Nest video as the car returned to campus.",
+      "anchored_artifacts": [
+        "A-2119.1"
+      ],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:00",
+      "investigative_direction": "Obtain the Nest and Ring video with metadata and the police interview with the woman who captured it.",
+      "transcript_snippet": "a witness confirmed that they saw someone else driving a gray Challenger, particularly uh a bald guy driving the Challenger late at 12:47 a. m.",
+      "supports_claim_refs": [
+        "C-3005"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7222",
+      "ref": "C-7222",
+      "label": "Host Says Blake Neff Has Fuzzy Memory of the Evening and TPUSA Staff Went Out That Night",
+      "claim": "The host says Blake Neff did an X live in which his memory is fuzzy about the evening of September 10, and that a few people at Turning Point USA went out later that night and do not recall what they were doing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:42",
+      "investigative_direction": "Review the Blake Neff X live and compare his account of September 10 with receipts, photos and location records.",
+      "transcript_snippet": "Apparently, a few of the people at Turning Point USA, despite Charlie dying, went out later that night and don't necessarily recall what they were doing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-162",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7223",
+      "ref": "C-7223",
+      "label": "Host Says Robinson Paid for a Steak in Penguitch at 9:47 p.m. by Debit Card",
+      "claim": "The host says her team broke the story that Tyler Robinson was eating a steak in Penguitch and paid at 9:47 p.m. with his debit card, and says there is a literal receipt, which timestamps him three hours from campus.",
+      "anchored_artifacts": [
+        "A-2864.1"
+      ],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:42",
+      "investigative_direction": "Obtain the Penguitch restaurant receipt and card transaction record and the establishment's own timestamps.",
+      "transcript_snippet": "because we broke the story that Tyler was eating a steak down in Penguitch. He concluded and and paid at 9:47 p. m.",
+      "supports_claim_refs": [
+        "C-2004"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7224",
+      "ref": "C-7224",
+      "label": "Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Penguitch Timeline",
+      "claim": "The host says that if Tyler Robinson left Penguitch nearly at 10 p.m., he could not have been babysitting the campus and texting Lance after 11 p.m., unless he failed to mention being pulled over by a police officer around 12:30.",
+      "anchored_artifacts": [
+        "A-2123.1"
+      ],
+      "related_nodes": [
+        "N-10077",
+        "N-10381"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:55",
+      "investigative_direction": "Obtain the full carrier and device records for both phones to establish where each handset was when each message was sent.",
+      "transcript_snippet": "He could not have been doing what he said he was doing, texting Lance after 11 p. m.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7225",
+      "ref": "C-7225",
+      "label": "Host Says the Tyler-Lance Messages Were Not Timestamped",
+      "claim": "The host says the Tyler Robinson and Lance Twigs messages presented at the hearing are not timestamped, which is why they are problematic.",
+      "anchored_artifacts": [
+        "A-2123.1"
+      ],
+      "related_nodes": [
+        "N-10077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:55",
+      "investigative_direction": "Obtain the extraction report and native message database showing time fields for each message.",
+      "transcript_snippet": "The messages are problematic, and that's why they're not timestamped.",
+      "supports_claim_refs": [
+        "C-1155",
+        "C-1176"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7226",
+      "ref": "C-7226",
+      "label": "Host Says the Lance Messages Were Extracted by a Company Based in Tel Aviv",
+      "claim": "The host says the messages were apparently extracted by a company based in Tel Aviv, and remarks that Israel is taking care of the Lance messages.",
+      "anchored_artifacts": [
+        "A-2123.1"
+      ],
+      "related_nodes": [
+        "N-10713",
+        "N-10077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:55",
+      "investigative_direction": "Identify the extraction vendor and the examiner named in the forensic report; the host names no company.",
+      "transcript_snippet": "the messages were apparently extracted uh by a company based in Tel Aviv. Israel is taking care of the Lance messages.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7227",
+      "ref": "C-7227",
+      "label": "Host Says the Old Age Line Conflicts With the Suicidal Narrative",
+      "claim": "The host says the text in which Robinson says he had hoped to keep the secret until he died of old age is odd because the official narrative is that he was suicidal.",
+      "anchored_artifacts": [
+        "A-2123.1"
+      ],
+      "related_nodes": [
+        "N-10077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:20",
+      "investigative_direction": "Compare the message text with other statements about Robinson's state of mind from family and the roommate.",
+      "transcript_snippet": "He shouldn't have said old age because um the fed narrative is that he was suicidal.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7228",
+      "ref": "C-7228",
+      "label": "Host Says the Messages Read Like Translation by a Non-Native American English Speaker",
+      "claim": "The host says the text phrasing, including 'if I'm able to grab my rifle unseen,' feels like a person who is not native to American English translating, and later repeats that it reads like someone new to a language being too formal.",
+      "anchored_artifacts": [
+        "A-2123.1"
+      ],
+      "related_nodes": [
+        "N-10077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:33",
+      "investigative_direction": "Have independent linguists compare the messages with Robinson's known writing; obtain the authentic original message database.",
+      "transcript_snippet": "this feels to me like a person who is not native to speaking English, American English, is translating.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7229",
+      "ref": "C-7229",
+      "label": "Host Asks for Tips on When the K9 Officers Were Brought to the Scene",
+      "claim": "The host asks viewers who know when the canines were brought on scene to email the tips address, saying the timing could be exculpatory because the messages say Robinson was watching the canines go back and forth.",
+      "anchored_artifacts": [
+        "A-2863.1"
+      ],
+      "related_nodes": [
+        "N-10077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:33",
+      "investigative_direction": "Collect tip-line submissions and agency records on the K9 deployment time at the scene for comparison with message content.",
+      "transcript_snippet": "if you have information related to when the kines were brought on to the scene, please email us tips at kennace. com.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7230",
+      "ref": "C-7230",
+      "label": "Host Says No Testimony Supported the Parents Turning Their Son In",
+      "claim": "The host says that noticeably missing from the hearing was any of the shock testimony about Tyler Robinson's parents' statements turning their son in.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:09",
+      "investigative_direction": "Review the hearing witness list and transcripts for any testimony by deputies or family on the first statements.",
+      "transcript_snippet": "Anyway, uh noticeably missing was any of that shock testimony regarding Tyler's parents' statements turning their son in.",
+      "supports_claim_refs": [
+        "C-5291"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-37"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7231",
+      "ref": "C-7231",
+      "label": "Host Says Testimony Showed Lance Twigs's Prints on the Towel, the Gun and the Dremel",
+      "claim": "The host says there was plenty of testimony that Lance Twigs's prints were on everything, including the towel, the gun and the Dremel used to carve out the messages on the cartridges.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10598"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:09",
+      "investigative_direction": "Obtain the latent print and DNA reports itemizing the items on which Lance Twigs's prints or DNA were found.",
+      "transcript_snippet": "there was plenty of testimony regarding how Lance Twigs's prints were on everything. The towel, the gun, the Dremel that was used to carve out the messages on the cartridges.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7232",
+      "ref": "C-7232",
+      "label": "Host Says Lance Claims He Slept Until 1 p.m. on September 10",
+      "claim": "The host says Lance Twigs claims he slept in until 1 p.m. on September 10, 37 minutes after Charlie Kirk was hit at 12:23.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10598"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:09",
+      "investigative_direction": "Check the roommate's phone, building access and other records for activity before 1 p.m. that day.",
+      "transcript_snippet": "Lance claims that he slept in until 100 p. m.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-54",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7233",
+      "ref": "C-7233",
+      "label": "Host Says Influencers Pushed 4K Footage Claims to Overcome Caitlyn Oliver's Testimony",
+      "claim": "The host says her view is that the influencers claimed to have seen 4K HD video of Robinson on the roof in order to overcome the testimony of ATF forensic biologist Caitlyn Oliver, which she calls devastating to the prosecution.",
+      "anchored_artifacts": [
+        "A-2124.1"
+      ],
+      "related_nodes": [
+        "N-10975"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:07",
+      "investigative_direction": "Compare the dates of the influencer videos with Oliver's testimony and the court's rulings on release of video.",
+      "transcript_snippet": "I believe that the reason they did it, the reason why they went insane was to overcome the testimony of Caitlyn Oliver.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-789",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7234",
+      "ref": "C-7234",
+      "label": "Host Says Robinson's Lawyer Said Mixed Samples Have Not Been Relied On Since 1996",
+      "claim": "The host says Tyler Robinson's lawyer explained at length why, since 1996, labs do not rely on mixed samples, because they confuse matters, and that the media misconstrued the ATF report by relying on a sample where Robinson was the major contributor of a mixed sample.",
+      "anchored_artifacts": [
+        "A-2124.2"
+      ],
+      "related_nodes": [
+        "N-10975"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:59",
+      "investigative_direction": "Read the cross-examination transcript and the ATF DNA report to see whether this statement was made and what it applied to.",
+      "transcript_snippet": "since 1996 they actually don't rely on mixed samples for that very reason because it confuses matters.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-789"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7235",
+      "ref": "C-7235",
+      "label": "Host Says Oliver Confirmed a Minimum of Five Sets of DNA With Lance Twigs and Matt Robinson Among the Prints",
+      "claim": "The host says Oliver confirmed there was a minimum of five sets of DNA on some of the mixed samples, and that prints on the gun included Lance Twigs and Tyler's father Matt Robinson.",
+      "anchored_artifacts": [
+        "A-2124.2"
+      ],
+      "related_nodes": [
+        "N-10975"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:22",
+      "investigative_direction": "Obtain the DNA report listing contributor counts and any reference samples compared, including the father's.",
+      "transcript_snippet": "which of course included Lance Twigs. Uh it also included Matt Robinson, Tyler's father.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-789",
+        "N-54",
+        "N-791",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7236",
+      "ref": "C-7236",
+      "label": "Oliver Testified the Trigger and Trigger Guard Were Swabbed Together",
+      "claim": "In the audio played, ATF biologist Caitlyn Oliver testifies that the trigger and trigger guard swabs were swabbed together, so she cannot say which part the DNA came from.",
+      "anchored_artifacts": [
+        "A-2124.3"
+      ],
+      "related_nodes": [
+        "N-10975",
+        "N-10711"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:20",
+      "investigative_direction": "Obtain the evidence photographs, collection notes and the identity of who performed the swabs.",
+      "transcript_snippet": "So, they were swabbed together. So, I wouldn't be able to say um where the DNA came from.",
+      "mentions_person_refs": [
+        "N-789",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7237",
+      "ref": "C-7237",
+      "label": "Host Says Media Claimed DNA on the Trigger but Oliver Admitted It Could Be the Trigger Guard",
+      "claim": "The host says the media kept saying Robinson's DNA was on the trigger, while Oliver is admitting it could be the trigger guard, the cover for the trigger.",
+      "anchored_artifacts": [
+        "A-2124.3"
+      ],
+      "related_nodes": [
+        "N-10711"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:46",
+      "investigative_direction": "Collect the original media and official statements about DNA on the trigger and compare with the laboratory report wording.",
+      "transcript_snippet": "because they kept saying that his DNA was on the trigger. And she's admitting it could be the trigger guard.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-789",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7238",
+      "ref": "C-7238",
+      "label": "Host Argues Rapid DNA Degradation Does Not Fit Recent Handling and Fits Lance Setting Up the Heirloom Gun",
+      "claim": "The host argues that DNA can stay on an object for decades and degrades with humidity or dust, that it would not seem to degrade immediately after a shooting and disposal of the gun, and that this registers to her as evidence that Lance Twigs took the family heirloom gun and helped the feds set Robinson up.",
+      "anchored_artifacts": [
+        "A-2124.3"
+      ],
+      "related_nodes": [
+        "N-10711",
+        "N-10703"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:36",
+      "investigative_direction": "Ask independent forensic DNA experts to review the degradation finding and storage and handling conditions of the rifle.",
+      "transcript_snippet": "It does not seem to me that DNA would suddenly degrade immediately after someone shoots a person, jumps off a rooftop, and tosses the gun into a nearby bush.",
+      "supports_claim_refs": [
+        "C-3012"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-54",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7239",
+      "ref": "C-7239",
+      "label": "Host Says Samantha Carner Received Only Four of Seven Fragments Taken From Charlie's Body",
+      "claim": "The host says it was weird that seven bullet fragments were reportedly taken from Charlie's body, but ATF ballistics expert Samantha Carner testified she received only four in a manila envelope, three were unusable and she was left with one, labeled 6A.",
+      "anchored_artifacts": [
+        "A-2125.1"
+      ],
+      "related_nodes": [
+        "N-11135",
+        "N-10975",
+        "N-10710"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:36",
+      "investigative_direction": "Obtain the medical examiner's evidence log and the ATF receipt for fragments to reconcile seven recovered with four received.",
+      "transcript_snippet": "it was weird off the bat that they said they took seven bullet uh seven fragments from Charlie's body. She testifies that she only received four of them in an envelope",
+      "mentions_person_refs": [
+        "N-3",
+        "N-790",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7240",
+      "ref": "C-7240",
+      "label": "Host Says a .30-06 Bullet Begins at .308 So the 6A Fragment Is Too Small for Robinson's Rifle",
+      "claim": "The host says the 6A fragment range of .286 to .301 is too small for Tyler's .30-06, because a .30-06 bullet begins at .308 and goes upward, so she says Carner is basically admitting it is not Tyler Robinson's gun.",
+      "anchored_artifacts": [
+        "A-2125.1"
+      ],
+      "related_nodes": [
+        "N-10710",
+        "N-10572"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:31",
+      "investigative_direction": "Check SAAMI specifications and Carner's report on whether fragment diameter ranges permit a .30-06 bullet.",
+      "transcript_snippet": "The reason why that matters is because it's too small for Tyler's 306.",
+      "supports_claim_refs": [
+        "C-3013"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-790",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7241",
+      "ref": "C-7241",
+      "label": "Hearing Testimony Described Exhibit 12.4 as Movements by Vehicle and on Foot",
+      "claim": "In the testimony played, the witness says the 12.4 compilation shows the believed Robinson arriving and leaving in a vehicle, arriving and leaving on foot, returning, and attempting to gain access again in a vehicle.",
+      "anchored_artifacts": [
+        "A-2121.1"
+      ],
+      "related_nodes": [
+        "N-10012",
+        "N-10028"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:26",
+      "investigative_direction": "Review Exhibit 12.4 and the witness's notes to see the basis for identifying each movement as Robinson.",
+      "transcript_snippet": "Uh arriving and leaving in a vehicle, arriving and leaving on foot, and then returning and leaving, and then attempting to gain access again in a vehicle.",
+      "supports_claim_refs": [
+        "C-3007"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7242",
+      "ref": "C-7242",
+      "label": "Benny Johnson Said the Judge Ruled the Public Cannot See the 4K Video",
+      "claim": "Benny Johnson says in his post-court video that the judge ruled the public cannot see the high-definition 4K video, but that the influencers saw it, played on giant screens inside the courthouse.",
+      "anchored_artifacts": [
+        "A-2126.1"
+      ],
+      "related_nodes": [
+        "N-11065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:12",
+      "investigative_direction": "Obtain the court order on public release of the video and the hearing record of what was shown in the gallery.",
+      "transcript_snippet": "And the judge ruled that you can't see the highdefin quality video 4K of Tyler Robinson committing the murder of Charlie Kirk, but we saw it",
+      "supports_claim_refs": [
+        "C-3014"
+      ],
+      "mentions_person_refs": [
+        "N-89",
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7243",
+      "ref": "C-7243",
+      "label": "Benny Johnson Described Robinson and Erika Kirk in the Courtroom",
+      "claim": "Benny Johnson says Erika Kirk was sobbing in the arms of Charlie's mother, and that Tyler Robinson, pale, sallow and emaciated, stared at the floor, twitched, and refused to watch the video or make eye contact with the family.",
+      "anchored_artifacts": [
+        "A-2126.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:12",
+      "investigative_direction": "Compare with courtroom sketch, pool reporter and Court TV accounts of Robinson's demeanor and the gallery.",
+      "transcript_snippet": "Erika Kirk was sobbing in the arms of her mother-in-law, Charlie's mother, Mrs. Kirk, feet away as Tyler Robinson, pale, salow, bony, emaciated, staring at the floor the whole time",
+      "mentions_person_refs": [
+        "N-89",
+        "N-2",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7244",
+      "ref": "C-7244",
+      "label": "Benny Johnson Said the Court Played 20 Minutes of High-Definition Security Footage",
+      "claim": "Benny Johnson says the judge played all 20 minutes of the high-definition security footage and the whole courthouse gasped when it was over.",
+      "anchored_artifacts": [
+        "A-2126.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:50:12",
+      "investigative_direction": "Check the hearing record for a 20 minute exhibit and compare with the Exhibit 12.1 runtime and Court TV coverage.",
+      "transcript_snippet": "The judge played all 20 minutes of the highde security footage and the whole courthouse gasped when it was over.",
+      "supports_claim_refs": [
+        "C-3014"
+      ],
+      "mentions_person_refs": [
+        "N-89"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7245",
+      "ref": "C-7245",
+      "label": "Benny Johnson Said Erika Kirk Asked Them to Urge Prayer for a Speedy Trial",
+      "claim": "Benny Johnson says in the video that Erika Kirk asked them to ask viewers to pray for a speedy trial and for justice for the widow.",
+      "anchored_artifacts": [
+        "A-2126.1"
+      ],
+      "related_nodes": [
+        "N-11065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:12",
+      "investigative_direction": "Find any message or statement from Erika Kirk's team requesting the influencers' public messaging.",
+      "transcript_snippet": "Please pray. Erika Kirk asked us to do this.",
+      "mentions_person_refs": [
+        "N-89",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7246",
+      "ref": "C-7246",
+      "label": "Host Says Influencers Backtracked to Say the Video Shows Robinson Getting Into a Prone Position",
+      "claim": "The host says the influencers later backtracked, saying the video does not show him getting shot but shows him getting into the prone position.",
+      "anchored_artifacts": [
+        "A-2126.1"
+      ],
+      "related_nodes": [
+        "N-11065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:50",
+      "investigative_direction": "Collect the later statements by Benny Johnson and others describing the footage and compare with their first posts.",
+      "transcript_snippet": "being like oh no it doesn't actually show him gets shot but it shows him getting into the prone position",
+      "mentions_person_refs": [
+        "N-3",
+        "N-89",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7247",
+      "ref": "C-7247",
+      "label": "Host Says Only Influencers Saw the 4K Footage at the End of the Hearing",
+      "claim": "The host says everyone else spent nine hours a day watching the hearing, but the 4K HD footage was held back to give the same influencers at the very end of day five.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11065"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:34",
+      "investigative_direction": "Determine who attended the day five viewing and whether the footage shown in the gallery matches any filed exhibit.",
+      "transcript_snippet": "Everyone else was spending nine hours a day watching every day of the hearing, but they waited till the end to give this gift to the same influencers",
+      "supports_claim_refs": [
+        "C-3014"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-89"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7248",
+      "ref": "C-7248",
+      "label": "Host Says People Are Getting Paid and Suggests FARA Filing Explains It",
+      "claim": "The host says the influencer campaign is a psychological operation requiring an unbelievable amount of money, that she now understands why they had to file for FARA, and that people are getting paid.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11017"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:34",
+      "investigative_direction": "Search FARA registrations and payment records for the influencers named; no document is cited on air.",
+      "transcript_snippet": "And now I get why they had to file for FAR, right? Like I mean, people are getting paid.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-89"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7249",
+      "ref": "C-7249",
+      "label": "Host Says Lance Twigs Has More DNA on the Gun Than Tyler and Is Not Treated as a Suspect",
+      "claim": "The host says someone must explain why Lance Twigs is not considered a suspect when his DNA is on everything, with more of his DNA than Tyler's on the gun.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10598",
+        "N-10679"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:18",
+      "investigative_direction": "Obtain the DNA report quantifying each contributor's share and any statement of the prosecution on Lance Twigs's status.",
+      "transcript_snippet": "Somebody's going to have to explain why Lance Twigs is not being considered a suspect when his DNA is on everything more of his DNA than Tyler's on the gun.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-54",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7250",
+      "ref": "C-7250",
+      "label": "Host Says Charlie Kirk Did Not Like Ben Shapiro Because Shapiro Tried to Stop His Rise",
+      "claim": "The host says anybody who knows Charlie Kirk knows he did not like Ben Shapiro because Shapiro attempted to stop Charlie from rising, and that Kolvet was going to say they were friends.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10386"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:00",
+      "investigative_direction": "Collect statements from Kirk's associates and past exchanges between Kirk and Shapiro to test the relationship claim.",
+      "transcript_snippet": "Anybody who knows Charlie Kirk knows that he did not like Ben Shapiro because Ben Shapiro attempted to stop Charlie from rising.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-97",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7251",
+      "ref": "C-7251",
+      "label": "Host Says Shapiro's Father Controls Accounts and Writes Flattering Content Under Pen Names",
+      "claim": "The host says that apparently Ben Shapiro's father controls accounts, uses pen names to write nice stuff about his son, and follows him wherever he works.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:59:57",
+      "investigative_direction": "Identify any accounts or bylines the host attributes to the father; no source is cited on air.",
+      "transcript_snippet": "apparently it has a lot to do with his father who controls accounts and uses um pen names to write nice stuff about his son and follows him wherever he works.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7252",
+      "ref": "C-7252",
+      "label": "Host Says Shapiro Raced to Give a Million Dollars to TPUSA While His Company Is Suffering",
+      "claim": "The host says Ben Shapiro raced to give a million dollars to Turning Point USA even though his company is suffering, and that Erika allowed him to open despite knowing her husband did not like him at AmFest.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:57",
+      "investigative_direction": "Look for TPUSA donor records or announcements of a Shapiro or Daily Wire gift and its date.",
+      "transcript_snippet": "He races to give a million dollars. The com his company is suffering, but he's giving a million dollars Turning Point USA.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-97",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7253",
+      "ref": "C-7253",
+      "label": "Host Says Her December Call With Matt Walsh Occurred While Shapiro Was in Town",
+      "claim": "The host says she had a strange phone call with Matt Walsh in December and did not know that Ben Shapiro was in town on that date, and told her team Daily Wire was somehow more involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:57",
+      "investigative_direction": "Establish Shapiro's whereabouts and Walsh's call timing for the date; the host defers details to another episode.",
+      "transcript_snippet": "Then there was this really strange phone call that I had with Matt Walsh and I did not know that Ben Shapiro was in town on this date when I had the phone call.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-166",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7254",
+      "ref": "C-7254",
+      "label": "Host Says Harpole Is Suing Her Using Shapiro's Lawyers and Brother-in-Law",
+      "claim": "The host says Brian Harpole is suing her using Ben Shapiro's lawyers and Ben Shapiro's brother-in-law.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:00",
+      "investigative_direction": "Review the complaint's signature block for counsel of record and their relationship to Shapiro.",
+      "transcript_snippet": "which Brian Harpole is suing me over and using Ben Shapiro's lawyers and Ben Shapiro's brother-in-law to do so.",
+      "supports_claim_refs": [
+        "C-2851",
+        "C-2810"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7255",
+      "ref": "C-7255",
+      "label": "Host Says Shapiro's Lawyers Have Sued Her and Her Family for Years",
+      "claim": "The host says Ben Shapiro's lawyers have been suing her and her family for years, and that he uses the courts to threaten suits over a non-disparagement violation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:37",
+      "investigative_direction": "Pull the dockets for the Daily Wire and Owens litigation and identify counsel and plaintiffs.",
+      "transcript_snippet": "Ben Shapiro lawyers, who have been suing me and my family for years because he can't earn.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7256",
+      "ref": "C-7256",
+      "label": "Shapiro Said He Was in Los Angeles at a Breakfast or Lunch Meeting When Charlie Was Shot",
+      "claim": "In the clip, Ben Shapiro says he was in Los Angeles at a breakfast-lunch meeting with somebody when he learned that Charlie had been shot, and that his security was on the phone with Charlie's security.",
+      "anchored_artifacts": [
+        "A-2127.1"
+      ],
+      "related_nodes": [
+        "N-10748",
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:37",
+      "investigative_direction": "Establish where Shapiro was and with whom at the time; compare with his schedule and the host's bounty request.",
+      "transcript_snippet": "I was in Los Angeles. I had sort of a breakfast slunch meeting with somebody",
+      "supports_claim_refs": [
+        "C-3015"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7257",
+      "ref": "C-7257",
+      "label": "Host Says Harpole Stipulates He Was Packing About 40 Feet of Gauze Into Charlie's Neck",
+      "claim": "The host says Brian Harpole stipulates that he could not have been providing the updates because he was packing about 40 feet of gauze into Charlie's neck.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:37",
+      "investigative_direction": "Compare Harpole's account of treatment with his lawsuit filing, interviews and any photographs or video from the vehicle.",
+      "transcript_snippet": "Brian Harpole stipulates that it couldn't have been him that was providing those updates because he was just packing like 40 feet of gauze into Charlie's neck.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7258",
+      "ref": "C-7258",
+      "label": "Host Says Rick Cutler Could Not Have Made the Calls Because He Was Holding Charlie",
+      "claim": "The host says Rick Cutler could not have been the one providing updates because he was holding Charlie, and saw the tattoo, with the door wide open because Charlie is so tall.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:37",
+      "investigative_direction": "Interview Cutler and review vehicle video or photographs to confirm his position and use of his phone.",
+      "transcript_snippet": "And it couldn't have been Rick Cutler because Rick Cutler had him.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-498",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7259",
+      "ref": "C-7259",
+      "label": "Host Says Frank Turek Claims He Started CPR While Harpole Says No CPR Took Place",
+      "claim": "The host says Frank Turek says he started CPR, but Brian Harpole says no such thing took place because CPR would have been the wrong thing to do while Charlie was bleeding.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:03:20",
+      "investigative_direction": "Compare Frank Turek's and Brian Harpole's recorded accounts of what was done in the vehicle.",
+      "transcript_snippet": "Frank says that he started CPR, but Brian Harpell says no such thing took place because CPR would have been the wrong thing to do uh while he was bleeding.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-7",
+        "N-272",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7260",
+      "ref": "C-7260",
+      "label": "Host Says Justin Davis Was Driving Up to 100 Miles Per Hour",
+      "claim": "The host says Justin Davis was driving upwards of 100 miles per hour and would not have answered a call from Shapiro's security because he was focused on the road.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:03:20",
+      "investigative_direction": "Obtain vehicle telematics, GPS or dashcam data for the transport and Davis's phone records.",
+      "transcript_snippet": "Justin Davis was driving upwards to 100 miles per hour.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-503"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7261",
+      "ref": "C-7261",
+      "label": "Host Says Frank Turek Left His Kids on FaceTime While Praying Aloud",
+      "claim": "The host says Frank Turek's kids were left on the phone on FaceTime while he was praying out loud, so he could not have been the one updating Shapiro's security.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:18",
+      "investigative_direction": "Ask Turek for his call log and statement about the FaceTime call during the transport.",
+      "transcript_snippet": "Remember his phone. He just didn't even realize while he was praying out loud. His kids were just left on the phone on FaceTime because that's what he was doing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7262",
+      "ref": "C-7262",
+      "label": "Host Says the Released 911 Calls Show Neither Dan Flood Nor Justin Davis Called 911",
+      "claim": "The host says nobody has said who called 911, and that the released 911 calls show neither Dan Flood nor Justin Davis called 911, and asks whether a 911 call is missing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10729",
+        "N-10692"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:18",
+      "investigative_direction": "Obtain the CAD log and all 911 audio for the incident and match callers to numbers.",
+      "transcript_snippet": "Which one of you guys called 911? Because they've never said who called 911 because the 911 calls that were released show that neither of them called 911.",
+      "supports_claim_refs": [
+        "C-3828",
+        "C-4031"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-276",
+        "N-503"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7263",
+      "ref": "C-7263",
+      "label": "Host Says Ben Shapiro Knew Before the Public Learned at About 12:38 p.m.",
+      "claim": "The host says someone called 911 and then called or answered Ben's security so that Ben knew what was happening before the rest of the world learned around 12:38 p.m., when the video began circulating on X.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10712",
+        "N-10748"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:11",
+      "investigative_direction": "Establish the timestamp of the first Shapiro-side call and compare it with the first public posts of the video.",
+      "transcript_snippet": "so Ben knew what was happening before the rest of the world found out around 12:38 p. m.",
+      "supports_claim_refs": [
+        "C-3015"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-97",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7264",
+      "ref": "C-7264",
+      "label": "Host Describes Shapiro's Security as a Former IDF Team",
+      "claim": "The host asks who on Ben Shapiro's security team, which she describes as Israeli, former IDF, was receiving updates about Charlie's condition and why.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:07:02",
+      "investigative_direction": "Identify Shapiro's security provider and personnel and their backgrounds from licensing or public records.",
+      "transcript_snippet": "So, who on Ben's IDF Israeli Msad Security apparatus team, former IDF, was receiving updates about Charlie's condition and why?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-97",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7265",
+      "ref": "C-7265",
+      "label": "Host Refers to Kolvet's Statement That It Was Supposed to Be Her on Tour With Charlie",
+      "claim": "The host refers to a statement from Andrew Kolvet that it was supposed to be her, and asks whether Charlie refusing something made him a liability.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10495"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:07:02",
+      "investigative_direction": "Pin down the exact Kolvet statement and when it was made; the host's follow-up questions are speculation.",
+      "transcript_snippet": "the statement from Andrew Colbeat it was supposed to be you",
+      "supports_claim_refs": [
+        "C-4977"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7266",
+      "ref": "C-7266",
+      "label": "Host Says Erika Acknowledged the Netanyahu Call and Described It as a Follow-Up on Charlie's May Letter",
+      "claim": "The host says people present do not want to acknowledge the phone call from Netanyahu, and that only Erika, in person, acknowledged it, saying he was just following up on a letter Charlie wrote in May.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10495",
+        "N-10018"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:08:31",
+      "investigative_direction": "Obtain statements from others present at the Hamptons gathering and records of the call.",
+      "transcript_snippet": "I only got an acknowledgement that it happened from Erika in person who then said, \"Oh, he was just following up on a letter that Charlie wrote in May.\"",
+      "supports_claim_refs": [
+        "C-1164"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7267",
+      "ref": "C-7267",
+      "label": "Host Says Bill Ackman Put Netanyahu on the Phone With Charlie in the Hamptons",
+      "claim": "The host says Bill Ackman put Netanyahu on the phone with Charlie when Charlie was in the Hamptons.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10495",
+        "N-10027"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:08:31",
+      "investigative_direction": "Establish who arranged the call, its date and length, from phone records and attendees; the transcript here is garbled.",
+      "transcript_snippet": "Really, Bill Aman? put BB9 and Yahoo on the phone and he's just like, \"Hey, I got your letter.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-37",
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7268",
+      "ref": "C-7268",
+      "label": "Host Says She Received an Unbelievable Tip About a Cardboard-Like Piece in the Back of the Car",
+      "claim": "The host says her team received an unbelievable tip about a piece that looked like cardboard in the back of the vehicle.",
+      "anchored_artifacts": [
+        "A-2865.1"
+      ],
+      "related_nodes": [
+        "N-11136",
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:09:21",
+      "investigative_direction": "Publish the tip and the underlying photo or witness; identify which image the host is describing.",
+      "transcript_snippet": "We got an unbelievable tip about that piece which we describe as looking like cardboard that was in the back.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7269",
+      "ref": "C-7269",
+      "label": "Host Says the Cardboard Tip Caused the Mass Panic and Influencer Attacks",
+      "claim": "The host says she believes that tip is what caused the mass panic, the reports, and the influencers attacking and naming her.",
+      "anchored_artifacts": [
+        "A-2865.1"
+      ],
+      "related_nodes": [
+        "N-11136",
+        "N-11017"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:09:21",
+      "investigative_direction": "Establish timing of the tip and the first attacks on the host to test any causal link.",
+      "transcript_snippet": "I believe this is what has caused the mass panic, the reports, the influencers attacking, naming me.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7270",
+      "ref": "C-7270",
+      "label": "Host Echoes a Comment That Kolvet Is Reviving the Lance Twigs Angle",
+      "claim": "Reading a viewer comment and saying she saw it too, the host says Andrew Kolvet is reviving the Lance angle, throwing Lance Twigs to the wolves because support for Tyler Robinson is growing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10598"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:16:57",
+      "investigative_direction": "Find the Kolvet statements about Lance Twigs the commenter refers to.",
+      "transcript_snippet": "Now, Andrew Kulat is reviving it, likely due to growing support for Tyler Robinson throwing Lance Twigs to the wolves. Yeah, I saw that, too.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-54",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7271",
+      "ref": "C-7271",
+      "label": "Host Says Diligent Dennison Spoke to the Waiter in Penguitch",
+      "claim": "The host says Diligent Dennison went and spoke to the waiter in Penguitch and that more was going to come out about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10381"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:16:57",
+      "investigative_direction": "Obtain the waiter's account and the restaurant's order and payment times.",
+      "transcript_snippet": "Diligent Dennison went and spoke to the waiter uh down at in Penguish. More was going to be coming out about that.",
+      "supports_claim_refs": [
+        "C-2004"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-373"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7272",
+      "ref": "C-7272",
+      "label": "Host Says She Had Vivid Dreams After Charlie Was Taken Out and Charlie Had Them in 2018",
+      "claim": "The host says that Charlie had vivid dreams in 2018, that she began having vivid dreams right after he was taken out, and that she is not ashamed of them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10389"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:17:50",
+      "investigative_direction": "No external record is available for the dreams; compare with her earlier on-air accounts of them.",
+      "transcript_snippet": "Dreams he was having in 2018 that were vivid. I started having vivid dreams right after he was taken out.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7273",
+      "ref": "C-7273",
+      "label": "Host Agrees Correct Emergency Order Was to Call 911, Stop Bleeding and Stabilize the Neck",
+      "claim": "Responding to a viewer comment, the host says the correct order should have been to call 911, stop the bleeding and stabilize the neck, and that anything else would be criminal medical malpractice.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11137",
+        "N-10692"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:18:37",
+      "investigative_direction": "Get an independent trauma or EMS opinion on first-aid priorities for such an injury.",
+      "transcript_snippet": "Yep, we mentioned that the order should have been call 911 and stop bleeding, stabilize the neck.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7274",
+      "ref": "C-7274",
+      "label": "Host Says a Viewer Reported Harpole's EMT License Dated From 1996 and Should Be State-Registered",
+      "claim": "The host says someone emailed that they dug up Brian Harpole's EMT credential, which was from about 1996 and that he should have had one in the state of Utah, though she says she does not know whether any of it is true.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11137"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:18:37",
+      "investigative_direction": "Check Utah EMS licensing records and the National Registry for Harpole's credential history.",
+      "transcript_snippet": "I think somebody emailed me and said they dug up Brian's and it was from like 1996 and that he should have had one in the state of Utah.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7275",
+      "ref": "C-7275",
+      "label": "Host Says She Is Being Sued for Calling the Team's Actions Incompetent",
+      "claim": "The host says she is being sued for saying what Harpole and the others did was incompetent, and that the added call to Ben Shapiro's security team gives her a pretty strong case of incompetence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11137"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:18:37",
+      "investigative_direction": "Review the complaint's causes of action and the host's answer for the incompetence statements at issue.",
+      "transcript_snippet": "Obviously, I'm being sued for saying that what they did was incompetent.",
+      "supports_claim_refs": [
+        "C-2810"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-272",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7276",
+      "ref": "C-7276",
+      "label": "Host Says Photos Show They Did Not Hold Charlie's Neck and Held His Shirt",
+      "claim": "The host says that from the photos the team did not hold Charlie's neck at all, because she thinks they were trying to hold his shirt.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11137",
+        "N-10692"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:18:37",
+      "investigative_direction": "Identify the specific photographs and have a medical expert assess hand placement.",
+      "transcript_snippet": "Just looking at the photos of how they didn't hold his neck at all because I think they were trying to hold his shirt.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7277",
+      "ref": "C-7277",
+      "label": "Host Says She Believes Robinson Was Around Campus, at Dairy Queen, Depositing Clothes",
+      "claim": "The host says she believes Tyler Robinson was around campus that day, was at the Dairy Queen and was depositing clothes, perhaps at Lance's direction.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10051",
+        "N-10028"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:19:42",
+      "investigative_direction": "Compare the host's statement with her earlier positions on the Dairy Queen photo and the campus presence.",
+      "transcript_snippet": "I do believe that Tyler Robinson was around campus on that day. I I do believe he was at the Dairy Queen, that he was depositing clothes",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7278",
+      "ref": "C-7278",
+      "label": "Host Says She Has Never Called for Harm to Erika Kirk",
+      "claim": "The host says she does not want any harm to come to Erika Kirk and has never called for people to harm her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:20:56",
+      "investigative_direction": "Review the host's past statements on Erika Kirk for any call to harm; the record is her own broadcasts.",
+      "transcript_snippet": "I don't want any harm to happen to Erika Kirk. I have never call called for people to harm Erika Kirk.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7279",
+      "ref": "C-7279",
+      "label": "Host Says It Is Possible Erika Could Be Harmed and the Host Blamed",
+      "claim": "Answering a question, the host says it is possible that people could try to harm Erika Kirk and then blame the host, saying desperate feds take desperate measures and that she would want her own security if she were Erika.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:21:38",
+      "investigative_direction": "This is host speculation; no document or source is cited on air.",
+      "transcript_snippet": "Yeah, it is possible. Desperate feds, desperate measures. So, if I was Erika, I wouldn't be trusting the people around me.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
     }
   ],
   "memes": [
@@ -1226,6 +3869,29 @@
             "tips_network",
             "dia_tip_line",
             "transcript_backfill"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-59",
+      "ref": "M-59",
+      "canonical_term": "Sus",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 124,
+          "video_timestamp": "01:19:42",
+          "speaker_node_ref": "N-3",
+          "quote": "like how the kid with a limped with the limp switched legs. Lance is sus and he seems like a MK Ultra OP. Keep going, Max. I personally think that ...",
+          "context": "Later reuse of Sus in CKA seq 124.",
+          "confidence": "high",
+          "tags": [
+            "slang",
+            "suspicion",
+            "comedy",
+            "reuse"
           ]
         }
       ]

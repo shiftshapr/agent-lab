@@ -432,6 +432,86 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2898",
+      "family_ref": "A-2898",
+      "bundle_name": "Host Archive Release Plan Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2898.1",
+          "ref": "A-2898.1",
+          "description": "Host verbal reference to Charlie and Candace archive material she will share on September 10 (nothing shown)",
+          "related_claims": [
+            "C-7718"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:12",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2899",
+      "family_ref": "A-2899",
+      "bundle_name": "Released Text Messages Recap Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2899.1",
+          "ref": "A-2899.1",
+          "description": "Host verbal reference to text messages released in the previous episode showing Charlie messaging that they would kill him during a Zoom call with Israeli officials (not shown)",
+          "related_claims": [
+            "C-7754"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2900",
+      "family_ref": "A-2900",
+      "bundle_name": "Foreign Agent Filings Verbal Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2900.1",
+          "ref": "A-2900.1",
+          "description": "Host verbal reference to foreign agent (FARA) filings involving Salem Media, Show Faith by Works LLC and the Israeli foreign minister, discussed in an earlier episode (not shown)",
+          "related_claims": [
+            "C-7771",
+            "C-7772",
+            "C-7773"
+          ],
+          "related_nodes": [
+            "N-440",
+            "N-10657"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:56:42",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -563,7 +643,11 @@
       "type": "person",
       "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7710",
+        "C-7734",
+        "C-7766"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -590,6 +674,699 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout and is named in the Neff, Daily Wire and travel claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7693",
+        "C-7694",
+        "C-7695",
+        "C-7696",
+        "C-7697",
+        "C-7698",
+        "C-7699",
+        "C-7700",
+        "C-7701",
+        "C-7703",
+        "C-7706",
+        "C-7707",
+        "C-7708",
+        "C-7709",
+        "C-7712",
+        "C-7713",
+        "C-7714",
+        "C-7716",
+        "C-7717",
+        "C-7718",
+        "C-7719",
+        "C-7720",
+        "C-7721",
+        "C-7725",
+        "C-7726",
+        "C-7727",
+        "C-7729",
+        "C-7730",
+        "C-7732",
+        "C-7735",
+        "C-7736",
+        "C-7758",
+        "C-7762",
+        "C-7768"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 34,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "JD Vance; named in the host's AmFest remark about Erika.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7745"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Frank Turek; named by the host as the source of the description of the Israeli officials on the Zoom call (transcribed Turak).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7754",
+        "C-7755",
+        "C-7765"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu (aired as BB); the host says he offered to take Turning Point to the next level.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7710"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Josh Hammer; the host places him on the Zoom call and cites his remark about his book.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7756",
+        "C-7764",
+        "C-7765"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Ben Shapiro; named in the host's account of the Daily Wire statement pressure.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7706",
+        "C-7707"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-167",
+      "ref": "N-167",
+      "name": "Rabbi Pesach Wolicki",
+      "type": "person",
+      "description": "Rabbi Pesach Wolicki; the host places him on the Zoom call.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7756"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-215",
+      "ref": "N-215",
+      "name": "Jesse Watters",
+      "type": "person",
+      "description": "Jesse Watters (aired as Jesse Waters); the host says Erika's op-ed repeats her interview remarks to him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7747",
+        "C-7749",
+        "C-7750"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-242",
+      "ref": "N-242",
+      "name": "Glenn Beck",
+      "type": "person",
+      "description": "Glenn Beck; the host guesses he may speak at the UVU anniversary event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7753"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-248",
+      "ref": "N-248",
+      "name": "Grok",
+      "type": "person",
+      "description": "Grok; the host cites a critic's Grok exchange about the concert.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7694"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-336",
+      "ref": "N-336",
+      "name": "Tulsi Gabbard",
+      "type": "person",
+      "description": "Tulsi Gabbard; the host says her office was given the Zoom call conversation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7760"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-375",
+      "ref": "N-375",
+      "name": "Danny Philip",
+      "type": "person",
+      "description": "Danny Philip; the host says he drove the second Denali with Neff and that Neff will not name him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7722",
+        "C-7723",
+        "C-7724",
+        "C-7733"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-440",
+      "ref": "N-440",
+      "name": "Brad Parscale",
+      "type": "person",
+      "description": "Brad Parscale; the host says he was a Salem Media executive who brought the filings forward.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7773"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-497",
+      "ref": "N-497",
+      "name": "Taylor Swift",
+      "type": "person",
+      "description": "Taylor Swift; the host compares Ye's tour to her Eras Tour.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7693"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-722",
+      "ref": "N-722",
+      "name": "John F. Kennedy",
+      "type": "person",
+      "description": "John F. Kennedy; named in the host's Operation Mockingbird aside.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7751"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; subject of the host's claims about honesty, the Department of War and the anniversary events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7710",
+        "C-7727",
+        "C-7728",
+        "C-7741",
+        "C-7744",
+        "C-7753"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10011",
+      "ref": "N-10011",
+      "name": "TMZ",
+      "type": "investigation_target",
+      "description": "TMZ; source of the interview in which Ye introduced the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7719",
+        "C-7720"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Utah Valley University; site of the September 10 event and the planned Thursday anniversary event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7753",
+        "C-7762"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10024",
+      "ref": "N-10024",
+      "name": "Kirk Assassination Investigation Timeline",
+      "type": "investigation_target",
+      "description": "Kirk Assassination Investigation Timeline; existing topic reused for the host's summary of the official account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7735"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10058",
+      "ref": "N-10058",
+      "name": "BBC",
+      "type": "investigation_target",
+      "description": "BBC; broadcaster of the 2013 Kanye interview clip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7702"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10061",
+      "ref": "N-10061",
+      "name": "CIA Operation Mockingbird",
+      "type": "investigation_target",
+      "description": "CIA Operation Mockingbird; the host says the New York Times was involved.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7751"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10062",
+      "ref": "N-10062",
+      "name": "Orem, Utah",
+      "type": "investigation_target",
+      "description": "Orem, Utah; location of the hospital waiting room in the Deseret News account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7729",
+        "C-7732"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10169",
+      "ref": "N-10169",
+      "name": "Josh Hammer Pre-Death Zoom Call Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Zoom call claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7754",
+        "C-7755",
+        "C-7756",
+        "C-7757",
+        "C-7759",
+        "C-7763",
+        "C-7764",
+        "C-7765"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10201",
+      "ref": "N-10201",
+      "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the funeral fireworks claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7695",
+        "C-7696",
+        "C-7766",
+        "C-7767"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Netanyahu offer claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7710",
+        "C-7711"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10657",
+      "ref": "N-10657",
+      "name": "Salem Media Foreign Agent Registration Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Salem Media claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7769",
+        "C-7770",
+        "C-7771",
+        "C-7772",
+        "C-7773",
+        "C-7774"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10662",
+      "ref": "N-10662",
+      "name": "2025 FARA Propaganda Timeline Convergence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the foreign agent filing claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7771",
+        "C-7772"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10715",
+      "ref": "N-10715",
+      "name": "Blake Neff September 10th Movement Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Denali and whereabouts claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7722",
+        "C-7723",
+        "C-7724",
+        "C-7733"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10805",
+      "ref": "N-10805",
+      "name": "Debate Israel Focus",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the debate-help explanation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7763"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10888",
+      "ref": "N-10888",
+      "name": "Department of War",
+      "type": "investigation_target",
+      "description": "Department of War; named in the host's claims about TPUSA and revenge.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7704",
+        "C-7717",
+        "C-7741"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Daily Wire; the host's former employer in the Kanye statement and contract claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7706",
+        "C-7707",
+        "C-7708",
+        "C-7713"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10905",
+      "ref": "N-10905",
+      "name": "New York Times Erika Kirk Interview Account Discrepancies",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the New York Times apartment interview claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7738"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10914",
+      "ref": "N-10914",
+      "name": "Show Faith by Works LLC",
+      "type": "investigation_target",
+      "description": "Show Faith by Works LLC; named by the host as a FARA registrant.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7771",
+        "C-7774"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10968",
+      "ref": "N-10968",
+      "name": "The New York Times",
+      "type": "investigation_target",
+      "description": "The New York Times; publisher of Erika Kirk's op-ed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7737",
+        "C-7738",
+        "C-7739",
+        "C-7740",
+        "C-7751"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11061",
+      "ref": "N-11061",
+      "name": "Restaurantology Event Green Room Attendance Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Restaurantology attendance claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7723"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-805",
+      "ref": "N-805",
+      "name": "Ebro Darden",
+      "type": "person",
+      "description": "First named by the host (as Ebro) at 00:28:04 in episode 148. Radio host named in Ye's TMZ clip, who Ye says declined to have the host on his show. Aliases: Ebro.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7720"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -827,6 +1604,1643 @@
       "tags": [],
       "claim_timestamp": "00:56:42",
       "investigative_direction": "Verify the documentary's existence via official Salem Media and \"Waterstone\" press releases; confirm the title, release date, and the existence of any unreleased interview footage.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7693",
+      "ref": "C-7693",
+      "label": "Host Says Ye Is Selling Out 70,000 to 100,000 Seat Stadiums Worldwide",
+      "claim": "The host says Ye has been touring and selling out stadiums of 70,000 to 100,000 seats around the world, a tour she compares to Taylor Swift's Eras Tour, amid what she calls a media blackout.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:32",
+      "investigative_direction": "Check announced attendance and ticketing figures for Ye's 2026 stadium dates against the host's range.",
+      "transcript_snippet": "he has been touring and he has been selling out stadiums that are between 70,000-100,000 seats all over the world",
+      "mentions_person_refs": [
+        "N-27",
+        "N-497",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7694",
+      "ref": "C-7694",
+      "label": "Host Says Critics Posted Grok Answer on Concert Safety at 8 Months Pregnant",
+      "claim": "The host says one critic posted a conversation with Grok about whether it was safe for her to attend a concert at 8 months pregnant, and that Grok answered that the baby could be startled by the music.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:32",
+      "investigative_direction": "Locate the posted Grok exchange to confirm the wording and that it was generated as described.",
+      "transcript_snippet": "I saw one person posted their conversation with Grok about whether it's safe for me to go to a concert at 8 months pregnant.",
+      "mentions_person_refs": [
+        "N-248",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7695",
+      "ref": "C-7695",
+      "label": "Host Says Critics Who Excused Funeral Fireworks Condemned Ye Concert Happiness",
+      "claim": "The host says the same people who told the audience that overwhelming happiness and fireworks at Charlie Kirk's funeral were normal then argued that happiness and fireworks at a Ye concert a year later were unacceptable.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:32",
+      "investigative_direction": "Collect the posts defending funeral fireworks and the posts criticizing the Ye concert to see whether the same accounts made both arguments.",
+      "transcript_snippet": "And then I saw the same people who told us that overwhelming happiness and fireworks displayed at a funeral was perfectly normal stuff, right?",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7696",
+      "ref": "C-7696",
+      "label": "Host Says Defenders Excused Funeral Fireworks by Saying Charlie Loved Pyrotechnics",
+      "claim": "The host says the excuse offered for the fireworks at Charlie Kirk's funeral was that Charlie loved pyrotechnics, and she calls that a bizarre way to argue that people were wrong to feel uneasy about the celebratory tone.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:07",
+      "investigative_direction": "Find the TPUSA statements explaining the memorial fireworks and who authorized the pyrotechnic display.",
+      "transcript_snippet": "They were like, \"Charlie loved pyrotechnics.\" Yeah, I'm sure he did when he was celebrating.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7697",
+      "ref": "C-7697",
+      "label": "Host Says Charlie Was From Chicago, Loved Kanye and the Song Homecoming",
+      "claim": "The host says Charlie Kirk was from Chicago and proud of it, that he loved Kanye thanks to her, and that he especially loved the song Homecoming, Kanye's ode to Chicago.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:39",
+      "investigative_direction": "Confirm from Kirk's own posts or interviews that he named Homecoming as a favorite song.",
+      "transcript_snippet": "you guys know Charlie was from Chicago. He's very proud of that. He loved Kanye.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-27",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7698",
+      "ref": "C-7698",
+      "label": "Host Says Ye's Team Refused Payment and Hosted Her at the Chicago Show",
+      "claim": "The host says she began planning months ago to attend Ye's Chicago show, offered to pay, and was told by Ye's team \"Absolutely not\" as they went above and beyond for her party.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:39",
+      "investigative_direction": "Not independently checkable beyond the host's account; note as hospitality disclosure relevant to her coverage of Ye.",
+      "transcript_snippet": "We were willing, of course, to pay ourselves to go, but Ye's team was like, \"Absolutely not.\"",
+      "mentions_person_refs": [
+        "N-27",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7699",
+      "ref": "C-7699",
+      "label": "Host Says Kim Kardashian Was in Chicago for North West's Show the Next Night",
+      "claim": "The host says Kim Kardashian, whom she saw in the hotel lobby, turned out to be in town for a show that North West had the following night.",
+      "anchored_artifacts": [
+        "A-2349.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:08:41",
+      "investigative_direction": "Check coverage of North West's Chicago show date to confirm it fell the night after the Ye concert.",
+      "transcript_snippet": "Turns out she was actually in town for a show that Northwest had the following night.",
+      "mentions_person_refs": [
+        "N-366",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7700",
+      "ref": "C-7700",
+      "label": "Host Says She Went Down to Crowd Surf at 8 Months Pregnant",
+      "claim": "The host says she went down to the floor of the arena and crowd surfed at 8 months pregnant.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:08:41",
+      "investigative_direction": "None beyond the host's own account; recorded for the pregnancy timeline (maternity leave announced at 00:55:33).",
+      "transcript_snippet": "I was down to crowd surf at 8 months pregnant. It's just who I am.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7701",
+      "ref": "C-7701",
+      "label": "Host Says She Introduced Charlie to Ye's Music on a Denver Rental-Car Drive",
+      "claim": "The host says that on a three-hour drive in a rental car picked up at Denver Airport she found Charlie did not know Kanye West's music, took him through it, and turned him into a big Ye fan who ran 10 miles a day to the music.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:10:28",
+      "investigative_direction": "Look for texts between the host and Kirk about Ye's music and for the date of the Denver trip.",
+      "transcript_snippet": "turned Charlie into a big Ye fan. He would then run 10 miles a day to his music and we would text about it all the time",
+      "mentions_person_refs": [
+        "N-1",
+        "N-27",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7702",
+      "ref": "C-7702",
+      "label": "Kanye in 2013 BBC Clip Says His Fans Are Fans of Themselves",
+      "claim": "In a 2013 BBC interview clip played by the host, Kanye West says his music is the codes of self-esteem and that a Kanye West fan is not a fan of him but a fan of themselves.",
+      "anchored_artifacts": [
+        "A-2342.1"
+      ],
+      "related_nodes": [
+        "N-10058"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:16",
+      "investigative_direction": "Identify the original 2013 BBC interview and confirm the quoted passage.",
+      "transcript_snippet": "If you're a Kanye West fan, you're not a fan of me, you're a fan of yourself.",
+      "mentions_person_refs": [
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7703",
+      "ref": "C-7703",
+      "label": "Host Says Her College Debt Cost About $150,000 in Student Loans",
+      "claim": "The host says that signing up for college out of peer pressure and insecurity cost her about $150,000 in student loans.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:24",
+      "investigative_direction": "Personal biographical statement; no external record needed.",
+      "transcript_snippet": "That's peer pressure and insecurity which cost me about $150,000 in student loans",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7704",
+      "ref": "C-7704",
+      "label": "Host Says the Media Could Create and Delete People With a Department of Defense Level Budget",
+      "claim": "The host says that for a long time the media had the power to create and delete people with what seemed like a Department of Defense level budget, and that the media operated as digital assassins until Ye.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10888"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:43",
+      "investigative_direction": "Opinion about media power; no specific budget or program is identified on air.",
+      "transcript_snippet": "the media had the power to create and to delete people with what seemed like a Department of Defense level budget.",
+      "mentions_person_refs": [
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7705",
+      "ref": "C-7705",
+      "label": "Host Says Ye's Adidas and Gap Deals Were Worth Billions and Required Silence on Politics",
+      "claim": "The host says Ye's Adidas and Gap deals were worth billions and that all he had to do to keep them was stay quiet about politics, and later that he lost them and his billionaire status when they were pulled.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:35",
+      "investigative_direction": "Check Adidas and Gap termination announcements and reported deal values.",
+      "transcript_snippet": "And then came even bigger offers, the Adidas and the Gap deals, and they were worth billions. And all Ye had to do to maintain that was to shut up about politics.",
+      "mentions_person_refs": [
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7706",
+      "ref": "C-7706",
+      "label": "Host Says She Was Pressed at the Daily Wire to Condemn Kanye's Defcon 3 Tweet",
+      "claim": "The host says that after Kanye tweeted he would go Defcon 3 on some Jewish people, everyone with a platform was pressed to condemn him, and her Daily Wire colleagues needed her in particular to make a statement because they knew she was his friend.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:21",
+      "investigative_direction": "Seek corroboration of the conference-room meeting and the proposed statement text from Daily Wire staff or contemporaneous messages.",
+      "transcript_snippet": "they needed me to make that statement because they knew I was friends with him.",
+      "supports_claim_refs": [
+        "C-1681"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-27",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7707",
+      "ref": "C-7707",
+      "label": "Host Says the Daily Wire Co-CEO Banged His Fists Demanding a Statement for Ben",
+      "claim": "The host says a Daily Wire co-CEO banged his fists in a heated conference and asked why she would not make a statement, asking whether she realized how hard it was for Ben that she would not.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:21",
+      "investigative_direction": "Identify attendees of the meeting and whether any record or recollection confirms the exchange.",
+      "transcript_snippet": "literally the co-CEO banged his fists. He was like, \"Why won't you do this for us? Don't you realize how hard this is for Ben that you won't make a statement?\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7708",
+      "ref": "C-7708",
+      "label": "Host Says Daily Wire Changed Her Contract and She Lost Millions Over Kanye",
+      "claim": "The host says she held the line on not condemning Kanye, lost millions because of it, and that the Daily Wire edited her contract with a different clause because of what Kanye said.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:38",
+      "investigative_direction": "Obtain the pre- and post-incident contract language and the amendment date.",
+      "transcript_snippet": "I lost millions because of it. Yeah, they changed my contract because of it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7709",
+      "ref": "C-7709",
+      "label": "Host Says the Ask of Her Is to Stay Silent or Pretend the Lone-Gunman Evidence Is Overwhelming",
+      "claim": "The host says that at her level the ask is to say nothing about Charlie Kirk's assassination, or to say something and pretend to be overwhelmed by the evidence that one person did it alone, in exchange for money, and adds \"I think people are doing it for a lot less.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:20:38",
+      "investigative_direction": "The host names no payer or recipient; ask her to identify any offer made to her or others and any documentation of it.",
+      "transcript_snippet": "the ask is simply um say nothing about Charlie Kirk's assassination or say something and pretend to be overwhelmed by the evidence that this one person did it and act alone.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7710",
+      "ref": "C-7710",
+      "label": "Host Says Kolvet Told Her Bibi Offered to Take Turning Point to the Next Level",
+      "claim": "The host says that she knows what Andrew told her, namely that Bibi Netanyahu offered to take Turning Point to the next level.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:30",
+      "investigative_direction": "Confirm with Kolvet or the other sources the host has cited in earlier episodes what exactly was offered and when.",
+      "transcript_snippet": "I know what Andrew told me. BB offered to take Turning Point to the next level.",
+      "supports_claim_refs": [
+        "C-1938",
+        "C-5012"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7711",
+      "ref": "C-7711",
+      "label": "Host Says Charlie Faced Offers at a Table in His Final Weeks and Said No",
+      "claim": "The host says Charlie Kirk was at a table in his final weeks where offers were made to him and that she thinks everyone knows he said no, as Ye did.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:30",
+      "investigative_direction": "Identify the table, attendees and date of the meeting where offers were allegedly made (the host elsewhere points to the Hamptons retreat).",
+      "transcript_snippet": "when he was at a table and offers were made to him and I think we all know that he said no.",
+      "supports_claim_refs": [
+        "C-5012"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7712",
+      "ref": "C-7712",
+      "label": "Host Says Ye Told Her He Was Finally Free Within Hours of Adidas Ending the Deal",
+      "claim": "The host says she spoke to Ye by phone within hours of Adidas's public announcement and that, rather than being upset, he said he was finally free.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:22:33",
+      "investigative_direction": "Date the Adidas announcement and match it to the host's recollection of the call.",
+      "transcript_snippet": "I will never forget what he said. He said I'm finally free.",
+      "mentions_person_refs": [
+        "N-27",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7713",
+      "ref": "C-7713",
+      "label": "Host Says She Tweeted the Rumors Are True I Am Finally Free on Leaving the Daily Wire",
+      "claim": "The host says that about a year and a half later, when her departure from the Daily Wire (which she calls being fired) was announced, she tweeted \"The rumors are true. I am finally free.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:33",
+      "investigative_direction": "Retrieve the original tweet and its date to confirm the wording and timing relative to the Adidas call.",
+      "transcript_snippet": "I tweeted, \"The rumors are true. I am finally free.\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7714",
+      "ref": "C-7714",
+      "label": "Host Says a Zionist Lobby Got Her Banned From Australia",
+      "claim": "The host says she was banned from Australia after what she calls the Zionist lobby of Australia sought it, because in politics you have to be pro-Israel or get destroyed.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:22:33",
+      "investigative_direction": "Australian government visa decision records and the advocacy campaign that preceded it.",
+      "transcript_snippet": "Ban me from Australia after that Zionist lobby of Australia getting me banned like I'm some threat to society",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7715",
+      "ref": "C-7715",
+      "label": "Host Says Ye Shared a Fan-Made Avengers Meme of His Chicago Return",
+      "claim": "The host says Ye shared a meme created by one of his fans framing his return to Chicago, with many artists brought on stage or in the audience, in Avengers style.",
+      "anchored_artifacts": [
+        "A-2343.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:23:48",
+      "investigative_direction": "Find Ye's original post of the meme.",
+      "transcript_snippet": "Ye actually shared this meme which was created by one of his fans online",
+      "mentions_person_refs": [
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7716",
+      "ref": "C-7716",
+      "label": "Host Says She Would Still Sit Down With the Characters in Charlie's Life She Finds Suspicious",
+      "claim": "The host says she is no longer angry but would still sit down with all of the characters in Charlie's life who she thinks are moving suspiciously.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:45",
+      "investigative_direction": "Ask which individuals she means and whether she has made specific invitations.",
+      "transcript_snippet": "I still would sit down with all of the characters in Charlie's life who I think are moving suspiciously.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7717",
+      "ref": "C-7717",
+      "label": "Host Says the Department of War Is Seeking Revenge on Her Side",
+      "claim": "The host says that she and others working for the truth know that the Department of War is seeking revenge on them for doing so, and that revenge will not beat the truth.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10888"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:45",
+      "investigative_direction": "The host cites no specific action by the department; identify any official steps taken against her or her guests.",
+      "transcript_snippet": "the Department of War is seeking revenge on us for doing so.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7718",
+      "ref": "C-7718",
+      "label": "Host Says She Will Share Charlie and Candace Archive Material on September 10",
+      "claim": "The host says she is bringing up material from the archives of her time with Charlie and will share it on September 10.",
+      "anchored_artifacts": [
+        "A-2898.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:27:12",
+      "investigative_direction": "Check what is published on September 10 against this stated plan.",
+      "transcript_snippet": "Too many great moments. Um a lot that I'm bringing up from the archives and I'll be sharing on September 10th.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7719",
+      "ref": "C-7719",
+      "label": "Host Says Charlie Was Present When She Met Ye and Appears in the Ye Documentary and TMZ Interview",
+      "claim": "The host says Charlie was with her when she met Ye, appears in the background of the TMZ interview in which Ye introduced her, and made it into the Ye documentary released last year.",
+      "anchored_artifacts": [
+        "A-2344.1"
+      ],
+      "related_nodes": [
+        "N-10011"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:12",
+      "investigative_direction": "Review the full TMZ interview and the documentary for Kirk's appearance and date.",
+      "transcript_snippet": "He was with me when I met Ye. He was by my side. He made it into the Ye documentary that was released last year.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-27",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7720",
+      "ref": "C-7720",
+      "label": "Ye in TMZ Clip Says Ebro Declined to Have Candace on Because She Is Mean",
+      "claim": "In the TMZ clip played by the host, Ye says he FaceTimed Ebro with Candace present, that Candace chopped Ebro's head off with facts, and that when he asked whether Ebro would have her on his show Ebro said no because she is mean.",
+      "anchored_artifacts": [
+        "A-2344.1"
+      ],
+      "related_nodes": [
+        "N-10011"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:04",
+      "investigative_direction": "Identify the date of the TMZ interview and Ebro Darden's account, if any, of the exchange.",
+      "transcript_snippet": "I said, \"Yo, you going to have Candace on your show?\" He's like, \"Nah, I'm not. She's mean.\"",
+      "mentions_person_refs": [
+        "N-27",
+        "N-3",
+        "N-805"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7721",
+      "ref": "C-7721",
+      "label": "Host Says No Former Employer Created Her and Rejects Credit Claims",
+      "claim": "The host says some corporations and former executives she worked with claim to have helped create her, and she denies that any of them contributed to creating her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:28:48",
+      "investigative_direction": "Identify the specific people who have made the claim; none is named on air.",
+      "transcript_snippet": "No, no, none of you created me. None of you contributed to creating me.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7722",
+      "ref": "C-7722",
+      "label": "Host Says Neff Got Into a Second Rental Denali With Danny Philip After Landing in Salt Lake City",
+      "claim": "The host says that although Neff flew into Salt Lake City with Charlie aboard Charlie's jets on September 10, he got into the second rental, a Denali, with Danny Philip and perhaps others, and then arrived at the event from the back seat as if someone else had been in the front.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:58",
+      "investigative_direction": "Rental agreement, vehicle GPS or security footage showing who rode in the second vehicle.",
+      "transcript_snippet": "we know that Blake got into the second rental, a Denali, with Danny Philip and perhaps some other people",
+      "supports_claim_refs": [
+        "C-3095",
+        "C-3020"
+      ],
+      "mentions_person_refs": [
+        "N-162",
+        "N-375",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7723",
+      "ref": "C-7723",
+      "label": "Host Says Neither Danny Philip Nor Neff Attended the Restaurantology Event",
+      "claim": "The host says neither Danny Philip nor Blake Neff attended the Restaurantology event that morning where Charlie gave an interview.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11061",
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:58",
+      "investigative_direction": "Event attendee list, green-room footage and the restaurant's own video of the morning.",
+      "transcript_snippet": "We know that neither Danny or Blake attend the restaurantology event that morning where Charlie gave an interview.",
+      "mentions_person_refs": [
+        "N-375",
+        "N-162",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7724",
+      "ref": "C-7724",
+      "label": "Host Says Neff Could Not Account for His Whereabouts and Had to Be Reminded Danny Was Driving",
+      "claim": "The host says Neff cannot account for where he was, says he was keeping time, did not remember who he was with, and had to be reminded that he was with Danny, who was driving the vehicle.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:58",
+      "investigative_direction": "Compare Neff's own audio account with phone location records and Philip's statements.",
+      "transcript_snippet": "He didn't even remember who he was with. He had to be reminded that he was with Danny who was driving the vehicle.",
+      "supports_claim_refs": [
+        "C-3019",
+        "C-3020",
+        "C-5865"
+      ],
+      "mentions_person_refs": [
+        "N-162",
+        "N-375"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7725",
+      "ref": "C-7725",
+      "label": "Host Says Neff Posted That She Cannot Imagine Someone Liking Work",
+      "claim": "The host says Neff tweeted over the last couple of days that she finds it implausible that Charlie would be excited about his largest campus tour because it was his job, calling her seven vacations a year Owens.",
+      "anchored_artifacts": [
+        "A-2346.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:48",
+      "investigative_direction": "Locate the original Neff post and its timestamp.",
+      "transcript_snippet": "Candace finds it implausible and ridiculous that Charlie would be excited about his largest campus tour ever because it was also his job.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7726",
+      "ref": "C-7726",
+      "label": "Host Says She Has Taken Three Vacations This Year: Spain, Russia and Iceland",
+      "claim": "The host says she has taken three vacations this year, a family holiday to Spain, a partial family trip to Russia without the youngest because of the flight, and a 7-year anniversary fishing trip to Iceland with her husband, which she offers as a correction to Neff's seven vacations.",
+      "anchored_artifacts": [
+        "A-2346.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:42",
+      "investigative_direction": "Travel records for the host's 2026 trips would confirm or refute the count.",
+      "transcript_snippet": "Thus far this year, we've taken a total of three vacations, our family holiday to Spain, our partial family trip to Russia",
+      "contradicts_claim_refs": [
+        "C-3397"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7727",
+      "ref": "C-7727",
+      "label": "Host Says Charlie Rarely Took Time Off and Was Hardly Home",
+      "claim": "The host says Charlie rarely took time off, that she and her team tracked all of his dates and appearances, and that he was hardly home because he gave everything to build the organization.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:42",
+      "investigative_direction": "Compare against Kirk's public 2025 schedule and tour dates.",
+      "transcript_snippet": "Charlie rarely took time off. We have obviously tracked all of his dates, all of his appearances. He was hardly home.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7728",
+      "ref": "C-7728",
+      "label": "Host Says TPUSA Has Not Been Honest About What Charlie Was Up Against in His Final Days",
+      "claim": "The host says the organization Charlie built now seeks to lie about who he was and has not been honest or forthcoming about what he was up against in his final days, what his struggles were and who he was fighting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:42",
+      "investigative_direction": "Compare TPUSA's public accounts of Kirk's final weeks with the text messages and timelines the host has aired.",
+      "transcript_snippet": "They've not been honest or forthcoming about what he was up against in his final days, what his struggles were, who he was fighting.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7729",
+      "ref": "C-7729",
+      "label": "Neff Quoted Saying Someone in the Waiting Room Predicted Candace's Extreme Reaction",
+      "claim": "In the passage the host reads from the Deseret News profile, Neff is quoted saying that someone said Candace was going to have an extreme reaction and that he instantly agreed she would.",
+      "anchored_artifacts": [
+        "A-2347.1"
+      ],
+      "related_nodes": [
+        "N-10062"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:23",
+      "investigative_direction": "Obtain the Deseret News article and identify who the unnamed speaker was.",
+      "transcript_snippet": "Someone said, \"Candace is going to have an extreme reaction to this.\" And instantly I was like, \"Yeah, yeah, she will.\"",
+      "supports_claim_refs": [
+        "C-3393"
+      ],
+      "mentions_person_refs": [
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7730",
+      "ref": "C-7730",
+      "label": "Host Says She Has Never Met Blake Neff",
+      "claim": "The host says she does not know Blake Neff and has never met him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:36",
+      "investigative_direction": "Neff has said the same; confirm no meeting at TPUSA or Daily Wire events.",
+      "transcript_snippet": "I don't know this creature. I've never met Blake Neff.",
+      "supports_claim_refs": [
+        "C-6128"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7731",
+      "ref": "C-7731",
+      "label": "Host Says Neff Himself Says He Joined Charlie's Team in Mid-2023",
+      "claim": "The host says Neff himself says he did not join Charlie's team until what she recalls as mid-2023 and that he therefore spent the least time with Charlie of anyone in the story.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:36",
+      "investigative_direction": "Neff's own statement of his hire date versus the 2022 hire date reported earlier; check Fox News departure and TPUSA records.",
+      "transcript_snippet": "He himself says that he didn't join Charlie's team until what was it, in mid-2023?",
+      "contradicts_claim_refs": [
+        "C-5857"
+      ],
+      "mentions_person_refs": [
+        "N-162",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7732",
+      "ref": "C-7732",
+      "label": "Host Says the Waiting-Room Talk Happened Mid-Manhunt When Nobody Knew Anything",
+      "claim": "The host says the waiting-room conversation about how she would react took place in the middle of the manhunt, when nobody knew anything, and asks why the staffers were discussing her reaction rather than who could have done it.",
+      "anchored_artifacts": [
+        "A-2347.1"
+      ],
+      "related_nodes": [
+        "N-10062"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:36",
+      "investigative_direction": "Establish the timing of the waiting-room conversation against the hospital pronouncement and the manhunt timeline.",
+      "transcript_snippet": "This is in the middle of the manhunt. Nobody knew anything.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7733",
+      "ref": "C-7733",
+      "label": "Host Speculates Neff Will Not Name the Waiting-Room Speaker Because It Is Usually Danny Philip",
+      "claim": "The host says Neff will not name the person he was talking to in the waiting room, that when he develops this amnesia it is usually about Danny Philip, and adds that she does not know that for a fact.",
+      "anchored_artifacts": [
+        "A-2347.1"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:16",
+      "investigative_direction": "Ask Neff or the Deseret News who was in the waiting room.",
+      "transcript_snippet": "He won't name the person which makes me think usually when he develops this amnesia it's usually about Danny Philip for some reason.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-375"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7734",
+      "ref": "C-7734",
+      "label": "Host Says Neff Could Have Said Andrew Told Him Charlie Feared Being Killed",
+      "claim": "Posing what Neff might have said in the waiting room, the host says he could have said that Andrew says Charlie was worried someone was going to kill him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:05",
+      "investigative_direction": "Establish what Kolvet told colleagues on September 9 and 10 about Kirk's fears; the host's 'Andrew' is read here as Kolvet.",
+      "transcript_snippet": "Blake, why didn't you say, oh, well, Andrew says that Charlie was worried someone was going to kill him.",
+      "supports_claim_refs": [
+        "C-5912"
+      ],
+      "mentions_person_refs": [
+        "N-162",
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7735",
+      "ref": "C-7735",
+      "label": "Host Summarizes the Official Account as One Shot by a Shooter With No Criminal Record",
+      "claim": "The host characterizes the official account as a person with no prior crimes who climbed onto a rooftop and took just one shot out of pure confidence rather than several to make sure of a hit.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10024"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:05",
+      "investigative_direction": "Compare with charging documents on Robinson's record and the number of shots and casings recovered.",
+      "transcript_snippet": "someone climbed on a rooftop who had never committed any even petty crimes in their life who took just one shot out of just pure confidence",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7736",
+      "ref": "C-7736",
+      "label": "Host Infers Neff Was Confident She Would Not Trust the Science on the Assassination",
+      "claim": "The host infers from Neff's admission that he and others were worried about her reaction because they knew she would not bend the knee to the cookie-cutter story and would not trust the science.",
+      "anchored_artifacts": [
+        "A-2347.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:05",
+      "investigative_direction": "Inference only; the unnamed waiting-room speaker would need to be identified to test it.",
+      "transcript_snippet": "It it it it's starting to feel like Blake for some reason had confidence and knew that I would not trust the science on Charlie's assassination.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7737",
+      "ref": "C-7737",
+      "label": "Host Says Erika's Op-Ed Is Behind the New York Times Paywall",
+      "claim": "The host says Erika Kirk's one-year look-back is in the New York Times and is behind a paywall, which she calls a poor choice for a piece about grief.",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [
+        "N-10968"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:40",
+      "investigative_direction": "Confirm the paywall status and publication date of the op-ed.",
+      "transcript_snippet": "Let's start with the fact that she's even doing this in the New York Times. Like and it's behind a paywall.",
+      "supports_claim_refs": [
+        "C-3398"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7738",
+      "ref": "C-7738",
+      "label": "Host Says the New York Times Was the First Publication Erika Partnered With, Days After the Assassination",
+      "claim": "The host says the New York Times was the first publication Erika partnered with and that she opened the family's apartment to an in-person interview about two days after Charlie's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10905",
+        "N-10968"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:40",
+      "investigative_direction": "Date the New York Times interview and confirm the location and that it was the first such interview.",
+      "transcript_snippet": "This was the first publication she partnered with. She opened their apartment to an in-person interview and sat down with them.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7739",
+      "ref": "C-7739",
+      "label": "Host Says Charlie Never Wrote an Op-Ed for the New York Times",
+      "claim": "The host says Charlie never wrote an op-ed for the New York Times, that his opinion of the paper is documented throughout his career, and that he regarded it as a fixture of the deep state apparatus and read it to know its perspective.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10968"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:30",
+      "investigative_direction": "Search New York Times opinion archives for any byline by Kirk.",
+      "transcript_snippet": "Charlie never wrote an op-ed for the New York Times. His opinion of them is long documented all throughout his career.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7740",
+      "ref": "C-7740",
+      "label": "Charlie in Clip Says He Reads the New York Times to Know What the Intelligentsia Is Saying",
+      "claim": "In the clip played by the host, Charlie Kirk says he reads the New York Times every morning because he wants to know what the intelligentsia is saying and that people should know what the other side is saying.",
+      "anchored_artifacts": [
+        "A-2345.1"
+      ],
+      "related_nodes": [
+        "N-10968"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:13",
+      "investigative_direction": "Identify the original show episode and date of the clip.",
+      "transcript_snippet": "Cuz I I want to know what the intelligentsia is saying. It's also the the I think it has the most circulation of any newspaper in the country.",
+      "supports_claim_refs": [
+        "C-3404"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7741",
+      "ref": "C-7741",
+      "label": "Host Says TPUSA Now Works With the Department of War and Treats Erika as an Emotional Asset",
+      "claim": "The host says that Turning Point 2.0 works with the Department of War and the deep state apparatus and that Erika is their emotional asset.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10888",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:52",
+      "investigative_direction": "Identify any formal agreements or events between TPUSA and the Department of War.",
+      "transcript_snippet": "You work with the Department of War. You work with the deep state apparatus. You are their emotional asset.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7742",
+      "ref": "C-7742",
+      "label": "Op-Ed Says Erika Landed in Phoenix From Utah the Day After the Shooting",
+      "claim": "In the op-ed passage the host reads, Erika Kirk writes that on September 11, 2025 the past 24 hours felt like a fever dream as she landed in Phoenix from Utah, and that her children ran into her arms.",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:25",
+      "investigative_direction": "Compare with flight records and other accounts of when Erika left Utah and arrived in Phoenix.",
+      "transcript_snippet": "The past 24 hours feel like a fever dream as I land in Phoenix from Utah and return home.",
+      "supports_claim_refs": [
+        "C-3398"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7743",
+      "ref": "C-7743",
+      "label": "Op-Ed Says Charlie Watched the Cubs on the Couch With the Kids Two Nights Earlier",
+      "claim": "In the op-ed passage, Erika Kirk writes that she sits on the couch where Charlie sat two nights ago watching the Cubs with their kids.",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:25",
+      "investigative_direction": "Check the Cubs schedule for the evening of September 9, 2025 and other accounts of Kirk's last night at home.",
+      "transcript_snippet": "I sit on the couch where Charlie sat two nights ago watching the Cubs with our kids.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7744",
+      "ref": "C-7744",
+      "label": "Host Says the 15 Minutes Line Was Already in Erika's First Speech and a TPUSA Conference Call",
+      "claim": "The host says the Usha Vance 15 minutes advice is already seared into the first speech Erika gave and into the conference call she held at Turning Point USA, so the op-ed repeats it a third time.",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:17",
+      "investigative_direction": "Compare the transcripts of Erika's first speech and the TPUSA conference call with the op-ed passage.",
+      "transcript_snippet": "They're seared into the first speech that you gave. They're seared into the conference call that you said at Turning Point USA.",
+      "supports_claim_refs": [
+        "C-3400"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-357"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7745",
+      "ref": "C-7745",
+      "label": "Host Says Erika Opened AmFest Saying We Have to Get Vance Elected",
+      "claim": "The host says Erika opened AmFest and said they had to get Vance elected.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:18",
+      "investigative_direction": "Check the AmFest opening remarks transcript for the Vance statement.",
+      "transcript_snippet": "You you opened AmFest and said we got to get Vance elected.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7746",
+      "ref": "C-7746",
+      "label": "Host Says Charlie Traveled Private to All of His Events",
+      "claim": "The host says Charlie traveled private to all of his events and that this makes a private-plane anecdote an unrelatable thing to share.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:56",
+      "investigative_direction": "Flight records and TPUSA travel disclosures for Kirk's 2025 events.",
+      "transcript_snippet": "Charlie was traveling private to all of his events, right? We know this.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7747",
+      "ref": "C-7747",
+      "label": "Host Says the Op-Ed Repeats Her Not-Angry-at-God Statements From the Jesse Watters Interview",
+      "claim": "The host says Erika's op-ed line that she is not angry at God repeats what she already said in the Jesse Watters interview.",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:56",
+      "investigative_direction": "Compare the op-ed text with the Watters interview transcript.",
+      "transcript_snippet": "She wants you to know she's not angry at God. Yes, we got all of this from the Jesse Waters interview.",
+      "supports_claim_refs": [
+        "C-3401"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-215"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7748",
+      "ref": "C-7748",
+      "label": "Host Says the Op-Ed Language Regurgitates Erika's Stage Speech",
+      "claim": "The host says that Erika's op-ed lines about her husband being one of one and understanding his assignment on Earth repeat the speech she gave on stage.",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:35",
+      "investigative_direction": "Compare the op-ed with the memorial speech transcript.",
+      "transcript_snippet": "Again, this is a regurgitation of the speech that she gave on stage.",
+      "supports_claim_refs": [
+        "C-3401"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7749",
+      "ref": "C-7749",
+      "label": "Host Says Erika Was Laughing at Emojis on a Zoom Call Within Six Days",
+      "claim": "The host says that within six days of the shooting Erika was laughing at emojis on a Zoom call, which she contrasts with the op-ed's account of needing to survive 15 minutes at a time.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:35",
+      "investigative_direction": "Identify the Zoom call and obtain the recording or attendee accounts.",
+      "transcript_snippet": "You were living within 6 days laughing at emojis. You're laughing at emojis on a Zoom call.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-215"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7750",
+      "ref": "C-7750",
+      "label": "Host Says Erika Told Jesse Watters She Did Not Need a Sleeping Pill",
+      "claim": "The host says Erika told the Jesse Watters interview that she did not even need a sleeping pill or melatonin and simply fell asleep because she knew God had her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:35",
+      "investigative_direction": "Check the Watters interview transcript for the sleep remarks.",
+      "transcript_snippet": "you didn't even need a sleeping pill. You didn't even need to take melatonin.",
+      "supports_claim_refs": [
+        "C-5608"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-215"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7751",
+      "ref": "C-7751",
+      "label": "Host Says the New York Times Was Involved in Operation Mockingbird and JFK-Era Events",
+      "claim": "The host says that the New York Times was involved in Operation Mockingbird, after what she calls a different state assassination, the assassination of JFK.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10061",
+        "N-10968"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:27",
+      "investigative_direction": "Cite the Church Committee findings on press relationships; the host gives no source on air.",
+      "transcript_snippet": "Operation Mockingbird. The New York Times was involved in that. After they committed another a different state assassination. Assassination of JFK.",
+      "mentions_person_refs": [
+        "N-722",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7752",
+      "ref": "C-7752",
+      "label": "Op-Ed Closes Saying the Grief Is Always There but So Is the Beautiful Gift of Life",
+      "claim": "In the closing lines of the op-ed the host reads, Erika Kirk writes that one day the 15 minutes may hold more than grief and that the grief is always there but so is the beautiful gift of life.",
+      "anchored_artifacts": [
+        "A-2348.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:10",
+      "investigative_direction": "Confirm the final paragraph in the published op-ed.",
+      "transcript_snippet": "The grief is there always, but so is the beautiful gift of life.",
+      "supports_claim_refs": [
+        "C-3402"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7753",
+      "ref": "C-7753",
+      "label": "Host Says TPUSA Has a UVU Event Planned for Thursday and Is Unsure Who Speaks",
+      "claim": "The host says TPUSA has an event planned at UVU on Thursday, that she does not know who is listed as speaking, thinks Glenn Beck might be, and does not know whether Erika is speaking.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:52",
+      "investigative_direction": "Check the official anniversary event program for speakers and date.",
+      "transcript_snippet": "I guess that I don't know who's been listed as speaking at that event. I think Glenn Beck. Is Erika speaking there?",
+      "mentions_person_refs": [
+        "N-242",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7754",
+      "ref": "C-7754",
+      "label": "Host Says Released Texts Show Charlie Messaged They Were Going to Kill Him During a Zoom With Israeli Officials",
+      "claim": "The host recaps the previous episode, saying released text messages revealed Charlie was sending messages that they were going to kill him while on a Zoom call with Israeli officials, as Frank Turek termed them.",
+      "anchored_artifacts": [
+        "A-2899.1"
+      ],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:40",
+      "investigative_direction": "Obtain the released text messages and Zoom call logs to confirm message times against the call.",
+      "transcript_snippet": "Charlie was sending messages that they're going to kill him when he was on this Zoom call with Israel with Israeli officials, as Frank Turak termed them.",
+      "supports_claim_refs": [
+        "C-1397"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7755",
+      "ref": "C-7755",
+      "label": "Host Says Turek Was the Source for There Being Two Israeli Officials on the Call",
+      "claim": "The host says the description of the call participants came from Frank Turek and that there were two Israeli officials on it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:40",
+      "investigative_direction": "Find Turek's public description of the call and identify the two officials.",
+      "transcript_snippet": "That came from Frank Turak. There were two Israeli officials.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7756",
+      "ref": "C-7756",
+      "label": "Host Says Rabbi Wolicki and Josh Hammer Were Also on the Zoom Call",
+      "claim": "The host says Rabbi Wolicki was on the call, correcting herself that it was a Zoom call rather than FaceTime because he was in Arizona, and that Josh Hammer was on it too.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:40",
+      "investigative_direction": "Obtain attendee lists or invitations for the call from the participants.",
+      "transcript_snippet": "Rabbi Wolicki was on FaceTime call. Uh sorry, I'm saying FaceTime. I meant Zoom call because he was in Arizona at the time. Uh we've got Josh Hammer",
+      "supports_claim_refs": [
+        "C-1397"
+      ],
+      "mentions_person_refs": [
+        "N-167",
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7757",
+      "ref": "C-7757",
+      "label": "Host Says the Call Came Two Hours After Charlie Said He Was Abandoning the Pro-Israel Cause",
+      "claim": "The host says the Zoom call came just two hours after Charlie said he was abandoning the pro-Israel cause, and that he was not kidding or speaking tongue in cheek.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:40",
+      "investigative_direction": "Compare timestamps of Kirk's pro-Israel message with the Zoom start time.",
+      "transcript_snippet": "which came on the heels to just 2 hours after Charlie said he was abandoning the pro-Israel cause.",
+      "supports_claim_refs": [
+        "C-5908",
+        "C-5964"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7758",
+      "ref": "C-7758",
+      "label": "Host Says Erika Never Said Charlie Was Kidding When She Spoke to Her About the Remark",
+      "claim": "The host says she spoke to Erika about the remark and Erika never said he was kidding or that it was tongue in cheek, and that Erika admitted it happened.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:40",
+      "investigative_direction": "Date the host's conversation with Erika and compare it with Erika's later public accounts.",
+      "transcript_snippet": "because I spoke to his wife about it. And she never said that he was kidding or that it was tongue in cheek.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7759",
+      "ref": "C-7759",
+      "label": "Host Says Erika Was Getting Her Nails Done During the Call and the Story Is Now Changing",
+      "claim": "The host says Erika was getting her nails done while the call was going on and that the story about it is now changing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:42",
+      "investigative_direction": "Compare Erika's earlier and later accounts of where she was and what she knew during the call.",
+      "transcript_snippet": "She was getting her nails done uh when this was going on. That story is now changing.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7760",
+      "ref": "C-7760",
+      "label": "Host Says Andrew Cooper Gave the Conversation to Tulsi Gabbard's Office",
+      "claim": "The host says that it was not tongue in cheek because Andrew Cooper gave that conversation to Tulsi Gabbard's office, which she reads as showing he thought it should be explored.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:53:42",
+      "investigative_direction": "Identify Andrew Cooper, whom the host names only by this spelling, and confirm what he provided to the DNI's office.",
+      "transcript_snippet": "We know it wasn't tongue-in-cheek because Andrew Cooper gave that conversation to Tulsi Gabbard's office.",
+      "mentions_person_refs": [
+        "N-336"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7761",
+      "ref": "C-7761",
+      "label": "Host Says Erika Told Interviewers Charlie Was Excited the Night Before",
+      "claim": "The host says that when Erika gave interviews after the shooting she said Charlie was just excited the night before, which the host finds odd next to his fear of dying.",
+      "anchored_artifacts": [
+        "A-2350.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:53:42",
+      "investigative_direction": "Collect Erika's interview statements about Kirk's mood on September 9.",
+      "transcript_snippet": "Erika, when she gave interviews thereafter, uh said that Charlie was just excited the night before.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7762",
+      "ref": "C-7762",
+      "label": "Host Says Charlie Had Done UVU Stops Many Times and Was Not That Excited About This One",
+      "claim": "The host says that, having traveled with Charlie, she does not believe he was so excited about a UVU event that it kept him from sleeping, since he had done UVU stops multiple times in his career.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:36",
+      "investigative_direction": "List Kirk's prior UVU appearances and dates.",
+      "transcript_snippet": "I've traveled with him too much to believe that he was that excited about something that he's always done",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7763",
+      "ref": "C-7763",
+      "label": "Host Doubts Charlie Had to Speak to Israeli Officials at 4 a.m. Their Time for Debate Help",
+      "claim": "The host says it does not register as true that Charlie had to speak to Israeli officials at 4:00 a.m. their time to help him with debate, since he was good at debating.",
+      "anchored_artifacts": [
+        "A-2350.2"
+      ],
+      "related_nodes": [
+        "N-10805",
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:36",
+      "investigative_direction": "Establish the call time in Israel and who said it was debate preparation.",
+      "transcript_snippet": "it certainly does not register as true to me that Charlie had to speak to Israeli officials at 4:00 a. m. in the morning their time to help him with debate.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7764",
+      "ref": "C-7764",
+      "label": "Host Says Hammer Said Charlie Was Interested in His Book",
+      "claim": "The host says Josh Hammer said Charlie was just really interested in Hammer's book and wanted to know more about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:33",
+      "investigative_direction": "Find Hammer's public statement describing the call and its purpose.",
+      "transcript_snippet": "he like Josh Hammer said, he just was really interested in Josh Hammer's book. He just he wanted to know more about that.",
+      "mentions_person_refs": [
+        "N-55",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7765",
+      "ref": "C-7765",
+      "label": "Host Notes Frank Turek Was on the Call and Doubts That Many People Were Giving Debate Tips",
+      "claim": "The host says Frank Turek was on the call and questions why so many people would be giving Charlie debate tips, including Hammer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10169"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:33",
+      "investigative_direction": "Ask Turek and Hammer what advice was given on the call.",
+      "transcript_snippet": "Frank Turek's on the call. Like what is he is he some grand debater?",
+      "mentions_person_refs": [
+        "N-7",
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7766",
+      "ref": "C-7766",
+      "label": "Comment Says Kolvet Excused the Memorial Fireworks as a Team Decision Erika Did Not Know About",
+      "claim": "A viewer comment read aloud says Andrew Kolvet tried to excuse the fireworks at the memorial by saying the team set that up and Erika did not know.",
+      "anchored_artifacts": [
+        "A-2350.3"
+      ],
+      "related_nodes": [
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:33",
+      "investigative_direction": "Find Kolvet's original statement about who arranged the fireworks.",
+      "transcript_snippet": "Andrew Judas Kolb that tried to make an excuse for the fireworks at the memorial and said, 'The team set that up and Erika didn't know.'",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7767",
+      "ref": "C-7767",
+      "label": "Host Says Erika Chose Her Sparkling Pantsuit in Line With the Event Theme",
+      "claim": "Responding to the comment, the host says Erika got the message and the theme and chose her attire accordingly, rather than being forced to wear a sparkling pantsuit.",
+      "anchored_artifacts": [
+        "A-2350.3"
+      ],
+      "related_nodes": [
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:33",
+      "investigative_direction": "Identify who selected the outfit and the program planned for the memorial.",
+      "transcript_snippet": "Yeah, I think she got the message and the theme and she chose her attire accordingly.",
+      "supports_claim_refs": [
+        "C-1990"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7768",
+      "ref": "C-7768",
+      "label": "Host Says She Will Name Her Maternity Leave Replacement Next Week",
+      "claim": "The host says she will soon announce who will take over her show three days a week during her maternity leave and will announce the choice next week.",
+      "anchored_artifacts": [
+        "A-2350.4"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:55:33",
+      "investigative_direction": "Check the announcement made the following week.",
+      "transcript_snippet": "I will be announcing soon who is going to take over my show three days a week while I am on maternity leave. I will make my announcement next week.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7769",
+      "ref": "C-7769",
+      "label": "Host Says the Can You Hear Me Now Documentary Is Slated for September 10",
+      "claim": "The host repeats that the Salem Media and Waterstone Charlie Kirk documentary is coming out on September 10 of this year.",
+      "anchored_artifacts": [
+        "A-2350.5"
+      ],
+      "related_nodes": [
+        "N-10657"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:42",
+      "investigative_direction": "Confirm the release date from the producers.",
+      "transcript_snippet": "On September 10th of this year. Yes, Salem Media and Waterstone, they are acquiring Salem Media.",
+      "supports_claim_refs": [
+        "C-3405"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7770",
+      "ref": "C-7770",
+      "label": "Host Says Waterstone Is Acquiring Salem Media",
+      "claim": "The host says Salem Media and Waterstone are in an acquisition in which Waterstone is acquiring Salem Media.",
+      "anchored_artifacts": [
+        "A-2350.5"
+      ],
+      "related_nodes": [
+        "N-10657"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:42",
+      "investigative_direction": "Check SEC filings and press releases on any acquisition of Salem Media Group.",
+      "transcript_snippet": "On September 10th of this year. Yes, Salem Media and Waterstone, they are acquiring Salem Media."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7771",
+      "ref": "C-7771",
+      "label": "Host Says Salem Media Is Behind the Foreign-Agent Filings Made Right After Charlie Died",
+      "claim": "The host says Salem Media is behind the foreign agent filings made immediately after Charlie died, which she says were covered in an earlier episode.",
+      "anchored_artifacts": [
+        "A-2900.1"
+      ],
+      "related_nodes": [
+        "N-10657",
+        "N-10662",
+        "N-10914"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:42",
+      "investigative_direction": "FARA database entries for Clock Tower X and Show Faith by Works naming Salem outlets as targets.",
+      "transcript_snippet": "we know that Salem Media is behind or the the paradox, the filings immediately after Charlie died.",
+      "supports_claim_refs": [
+        "C-2865"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7772",
+      "ref": "C-7772",
+      "label": "Host Says the Israeli Foreign Minister Is Spending Money in America to Tether Christians",
+      "claim": "The host says the Israeli foreign minister got involved in spending money in America to give Americans an October 7th experience in order to tether Christians further, and that Salem Media was the apparatus.",
+      "anchored_artifacts": [
+        "A-2900.1"
+      ],
+      "related_nodes": [
+        "N-10662",
+        "N-10657"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:42",
+      "investigative_direction": "FARA filings naming the Israeli Ministry of Foreign Affairs as principal and the contract amounts.",
+      "transcript_snippet": "The Israeli foreign minister getting involved in spending money in America to give us the October 7th experience to tether Christians further."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7773",
+      "ref": "C-7773",
+      "label": "Host Says Brad Parscale Was an Executive at Salem Media Who Brought This Forward",
+      "claim": "The host says she believes Brad Parscale was on the board of Salem Media or at least an executive there, and that he brought the filings forward.",
+      "anchored_artifacts": [
+        "A-2900.1"
+      ],
+      "related_nodes": [
+        "N-10657"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:42",
+      "investigative_direction": "Salem Media officer listings and Parscale's role in the Clock Tower X filings.",
+      "transcript_snippet": "Brad Parscale, I believe, was on the of Salem Media, or he was at least um an executive at Salem Media, who brought this forward.",
+      "supports_claim_refs": [
+        "C-2866"
+      ],
+      "mentions_person_refs": [
+        "N-440"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7774",
+      "ref": "C-7774",
+      "label": "Host Assumes the Documentary Will Be Israeli Propaganda Based on the FARA Filings",
+      "claim": "The host says she will assume the documentary will be Israeli propaganda, judging by the FARA documents, Show Faith by Works LLC and the like.",
+      "anchored_artifacts": [
+        "A-2350.5"
+      ],
+      "related_nodes": [
+        "N-10914",
+        "N-10657"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:42",
+      "investigative_direction": "Review the documentary's funding disclosures once released.",
+      "transcript_snippet": "So, I will assume that that is going to be Israeli propaganda, just judging by the far docs, Faith by Works LLC and the like."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7775",
+      "ref": "C-7775",
+      "label": "Host Says Charlie Said No to Whatever He Was Offered",
+      "claim": "The host says Charlie died with his soul intact because she knows that whatever he was offered, he said no to.",
+      "anchored_artifacts": [
+        "A-2350.6"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:57:49",
+      "investigative_direction": "Identify what offers are meant and any evidence of their refusal.",
+      "transcript_snippet": "he died with his soul intact, cuz I know whatever he was offered, he said no to.",
+      "supports_claim_refs": [
+        "C-5012"
+      ],
       "mentions_person_refs": [
         "N-1"
       ]

@@ -2,7 +2,7 @@
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2013 shared across monuments",
   "updated": "2026-10-08T19:40:19Z",
-  "next_id": 165,
+  "next_id": 201,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -1525,6 +1525,294 @@
       "definition": "Host introduces the Telegram group name.",
       "context": "cka",
       "first_episode": 159
+    },
+    "M-165": {
+      "canonical_term": "(meme) David Hoggins",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 15
+    },
+    "M-166": {
+      "canonical_term": "(meme) Old Man on the Cracker Barrel Logo",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 15
+    },
+    "M-167": {
+      "canonical_term": "(meme) Christian Slop",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 15
+    },
+    "M-168": {
+      "canonical_term": "(meme) The Stupendous Tucker Carlson",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 25
+    },
+    "M-169": {
+      "canonical_term": "(meme) Country the Size of New Jersey",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 25
+    },
+    "M-170": {
+      "canonical_term": "(meme) I Wish I Was Born Yesterday",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 25
+    },
+    "M-171": {
+      "canonical_term": "(meme) Judas Culture",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 31
+    },
+    "M-172": {
+      "canonical_term": "(meme) I'm Sticking with the Dream",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 31
+    },
+    "M-173": {
+      "canonical_term": "(meme) Sentinels",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 51
+    },
+    "M-174": {
+      "canonical_term": "(meme) Crazy Ex Stalker",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 51
+    },
+    "M-175": {
+      "canonical_term": "(meme) Case Closed, Giddy Up",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 52
+    },
+    "M-176": {
+      "canonical_term": "(meme) Ten Toes Down",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 52
+    },
+    "M-177": {
+      "canonical_term": "(meme) Psycho Ex-Boyfriend",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 52
+    },
+    "M-178": {
+      "canonical_term": "(meme) Left a Gang",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 53
+    },
+    "M-179": {
+      "canonical_term": "(meme) Formidable Friend",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 53
+    },
+    "M-180": {
+      "canonical_term": "(meme) Preemptive Peace",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 75
+    },
+    "M-181": {
+      "canonical_term": "(meme) Miracle Spin",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 123
+    },
+    "M-182": {
+      "canonical_term": "(meme) Long Live Erika Frantzve",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 123
+    },
+    "M-183": {
+      "canonical_term": "(meme) Overwhelming",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 124
+    },
+    "M-184": {
+      "canonical_term": "(meme) Dark Game of Guess Who",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 124
+    },
+    "M-185": {
+      "canonical_term": "(meme) Amnesia",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 127
+    },
+    "M-186": {
+      "canonical_term": "(meme) Squishmallow",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 127
+    },
+    "M-187": {
+      "canonical_term": "(meme) Chick-fil-A Sandwich",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 133
+    },
+    "M-188": {
+      "canonical_term": "(meme) Overwhelmed by the Evidence",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 133
+    },
+    "M-189": {
+      "canonical_term": "(meme) Mockingbirds",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 134
+    },
+    "M-190": {
+      "canonical_term": "(meme) Superman Neck",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 134
+    },
+    "M-191": {
+      "canonical_term": "(meme) Laws of the Widow",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 134
+    },
+    "M-192": {
+      "canonical_term": "(meme) Here to Help",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 137
+    },
+    "M-193": {
+      "canonical_term": "(meme) October Surprise",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 143
+    },
+    "M-194": {
+      "canonical_term": "(meme) Arya Stark",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 143
+    },
+    "M-195": {
+      "canonical_term": "(meme) Shady Bunch",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 146
+    },
+    "M-196": {
+      "canonical_term": "(meme) Just Likes the Mountains",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 146
+    },
+    "M-197": {
+      "canonical_term": "(meme) Your Terms Are Unacceptable",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 146
+    },
+    "M-198": {
+      "canonical_term": "(meme) Coldest Story Ever Told",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 148
+    },
+    "M-199": {
+      "canonical_term": "(meme) Are We Still Talking About the Midterms",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 156
+    },
+    "M-200": {
+      "canonical_term": "(meme) Make Israel Great Again",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 156
     }
   },
   "types": {

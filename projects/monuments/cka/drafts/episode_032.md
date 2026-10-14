@@ -30,8 +30,8 @@
 - **Episode Ledger Summary:**
   - Artifact Families Introduced: A-1399, A-1400, A-1401, A-1402, A-1403, A-1404, A-1405, A-1406, A-1407, A-1408, A-1409, A-1410, A-1411, A-1412, A-1413, A-1414
   - Claim Range: C-1695–C-1715
-  - New Nodes Introduced: N-255, N-256, N-257, N-258, N-259, N-260, N-261, N-262, N-263, N-264, N-10248, N-10249, N-10250, N-10251, N-10252
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-255, N-256, N-257, N-258, N-259, N-260, N-261, N-262, N-263, N-264, N-10248, N-10249, N-10250
+  - Reused Nodes Appearing: N-10251, N-10252
   - Hole-minted Nodes (wave1b): N-366
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 

@@ -12,9 +12,9 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10611, N-10612, N-10613, N-10614, N-10615
-  - Reused Nodes Appearing: N-2, N-14, N-4
+  - Reused Nodes Appearing: N-2, N-14, N-4, N-332
   - Hole-minted Nodes (wave3): N-434
-  - Hole-minted Nodes (wave1): N-332, N-348, N-349
+  - Hole-minted Nodes (wave1): N-348, N-349
   - (see registers)
 
 ## 6. Meme Register

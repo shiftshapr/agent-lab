@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-319, N-320, N-321, N-322, N-323, N-324, N-10317, N-10318, N-10319, N-10320, N-10321, N-10322, N-10323, N-10325
-  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10316, N-10324
+  - New Nodes Introduced: N-319, N-320, N-321, N-322, N-323, N-324, N-10317, N-10318, N-10320, N-10321, N-10322, N-10325
+  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10316, N-10324, N-10319, N-10323
   - (see registers)
 
 ---

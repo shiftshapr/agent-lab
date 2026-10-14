@@ -29,10 +29,10 @@
 - **Ledger continuation summary:**
   - Artifact Families Introduced: A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, A-2055, A-2056, A-2057, A-2058, A-2059, A-2060, A-2061
   - Claim Range: C-2856–C-2883
-  - New Nodes Introduced: N-10657, N-10658, N-10659, N-10660, N-10661, N-10663
-  - Reused Nodes Appearing: N-385, N-10662
+  - New Nodes Introduced: N-10657, N-10658, N-10659, N-10660, N-10663
+  - Reused Nodes Appearing: N-385, N-10662, N-384, N-10661
   - Hole-minted Nodes (wave3): N-440
-  - Hole-minted Nodes (wave2): N-382, N-383, N-384, N-386
+  - Hole-minted Nodes (wave2): N-382, N-383, N-386
   - Tip-minted Nodes (wave2): N-10901
   - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump
 

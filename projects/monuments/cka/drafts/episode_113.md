@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep113): N-10865
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-683, N-684, N-685, N-686, N-687, N-10961, N-10962, N-10963, N-10964, N-10965, N-10966, N-10967
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-162, N-182, N-369, N-443, N-460, N-532, N-605, N-674, N-678, N-679, N-10000, N-10008, N-10026, N-10070, N-10367, N-10417, N-10472, N-10541, N-10628, N-10664, N-10671, N-10700, N-10899, N-10955
+  - Tip-minted Nodes (skeleton): N-683, N-684, N-685, N-686, N-10961, N-10963, N-10964, N-10965, N-10966, N-10967
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-162, N-182, N-369, N-443, N-460, N-532, N-605, N-674, N-678, N-679, N-10000, N-10008, N-10026, N-10070, N-10367, N-10417, N-10472, N-10541, N-10628, N-10664, N-10671, N-10700, N-10899, N-10955, N-687, N-10962
   - Claim Range: C-4434–C-4482
   - (see registers)
 

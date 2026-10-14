@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 7b329950d516234dfe924015e2ae2ceece2c1cacc9476909544e66ce23744a8b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-563, N-10492, N-10493, N-10494, N-10495
-  - Reused Nodes Appearing: N-10496
+  - New Nodes Introduced: N-563, N-10494
+  - Reused Nodes Appearing: N-10496, N-10492, N-10493, N-10495
   - (see registers)
 
 ## 2. Executive Summary

@@ -457,6 +457,174 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2825",
+      "family_ref": "A-2825",
+      "bundle_name": "Camino 1990 Probation Record Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2825.1",
+          "ref": "A-2825.1",
+          "description": "Host verbal reference to a 1990 record of Thomas Camino's no-contest plea and probation for lewd conduct in Manhattan Beach (no record shown)",
+          "related_claims": [
+            "C-6608"
+          ],
+          "related_nodes": [
+            "N-254",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:17",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2826",
+      "family_ref": "A-2826",
+      "bundle_name": "Calvary Chapel Abuse Cases Reports Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2826.1",
+          "ref": "A-2826.1",
+          "description": "Host verbal reference to news reports and a lawsuit on abuse cases at Calvary Chapel churches in Florida, Texas, Minnesota, Idaho, Virginia and Oregon (none shown)",
+          "related_claims": [
+            "C-6619",
+            "C-6620",
+            "C-6621",
+            "C-6622",
+            "C-6623",
+            "C-6624",
+            "C-6625",
+            "C-6626",
+            "C-6627",
+            "C-6628",
+            "C-6629"
+          ],
+          "related_nodes": [
+            "N-10246",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:21",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2827",
+      "family_ref": "A-2827",
+      "bundle_name": "Potter's Fields Whistleblower Quotes Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2827.1",
+          "ref": "A-2827.1",
+          "description": "Host reads quotations attributed to a former Potter's Fields Ignite student named Kenny about the number of children served and altered donor letters",
+          "related_claims": [
+            "C-6634"
+          ],
+          "related_nodes": [
+            "N-10247",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:25:58",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2828",
+      "family_ref": "A-2828",
+      "bundle_name": "Sean Feucht Mismanagement Article Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2828.1",
+          "ref": "A-2828.1",
+          "description": "Host verbal reference to a September 30 article accusing Sean Feucht of mismanagement of funds (not shown)",
+          "related_claims": [
+            "C-6647"
+          ],
+          "related_nodes": [
+            "N-209",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:31:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2829",
+      "family_ref": "A-2829",
+      "bundle_name": "Wilkins Lawsuit Against Elijah Schaefer Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2829.1",
+          "ref": "A-2829.1",
+          "description": "Host verbal reference to the lawsuit filed against Elijah Schaefer over a joke and the lawsuit's reference to his anti-Israel rhetoric (not shown)",
+          "related_claims": [
+            "C-6664"
+          ],
+          "related_nodes": [
+            "N-252",
+            "N-216",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:45:12",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2830",
+      "family_ref": "A-2830",
+      "bundle_name": "Security Guard Footage Review Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2830.1",
+          "ref": "A-2830.1",
+          "description": "Host verbal reference to slow multi-angle footage of security guards after the shot, reviewed with Mark (not shown)",
+          "related_claims": [
+            "C-6670",
+            "C-6671"
+          ],
+          "related_nodes": [
+            "N-67",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:55:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -540,7 +708,7 @@
       "ref": "N-10246",
       "name": "Calvary Chapel Institutional Abuse Pattern",
       "type": "investigation_target",
-      "description": "Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Rob Koy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North County Chapel Post Falls (Anthony Eglacius, Robert Davis), Virginia (Doug Deandria), Fort Lauderdale (2019), North Thirsten Oregon (Jeffrey Keon Ziz).",
+      "description": "Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Bob Coy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North County Chapel Post Falls (Anthony Eglacius, Robert Davis), Virginia (Doug Deandria), Fort Lauderdale (2019), North Thirsten Oregon (Jeffrey Keon Ziz).",
       "related_artifacts": [
         "A-1394.1",
         "A-1398.11"
@@ -582,7 +750,22 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6597",
+        "C-6598",
+        "C-6599",
+        "C-6604",
+        "C-6605",
+        "C-6606",
+        "C-6639",
+        "C-6642",
+        "C-6643",
+        "C-6646",
+        "C-6656",
+        "C-6660",
+        "C-6667",
+        "C-6673"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -613,7 +796,77 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6597",
+        "C-6598",
+        "C-6599",
+        "C-6601",
+        "C-6602",
+        "C-6603",
+        "C-6604",
+        "C-6605",
+        "C-6606",
+        "C-6607",
+        "C-6608",
+        "C-6611",
+        "C-6612",
+        "C-6619",
+        "C-6620",
+        "C-6621",
+        "C-6622",
+        "C-6623",
+        "C-6624",
+        "C-6625",
+        "C-6626",
+        "C-6627",
+        "C-6628",
+        "C-6629",
+        "C-6630",
+        "C-6631",
+        "C-6632",
+        "C-6633",
+        "C-6634",
+        "C-6635",
+        "C-6636",
+        "C-6637",
+        "C-6638",
+        "C-6639",
+        "C-6640",
+        "C-6641",
+        "C-6642",
+        "C-6644",
+        "C-6645",
+        "C-6646",
+        "C-6647",
+        "C-6648",
+        "C-6649",
+        "C-6650",
+        "C-6651",
+        "C-6652",
+        "C-6653",
+        "C-6654",
+        "C-6655",
+        "C-6656",
+        "C-6657",
+        "C-6658",
+        "C-6660",
+        "C-6661",
+        "C-6662",
+        "C-6663",
+        "C-6664",
+        "C-6665",
+        "C-6666",
+        "C-6667",
+        "C-6668",
+        "C-6669",
+        "C-6670",
+        "C-6671",
+        "C-6672",
+        "C-6673",
+        "C-6674",
+        "C-6675",
+        "C-6676"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -629,7 +882,14 @@
       "type": "person",
       "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6611",
+        "C-6612",
+        "C-6613",
+        "C-6620",
+        "C-6635",
+        "C-6637"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -645,7 +905,14 @@
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6638",
+        "C-6640",
+        "C-6643",
+        "C-6657",
+        "C-6658",
+        "C-6659"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -661,13 +928,941 @@
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6661",
+        "C-6664"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named by the host in connection with the Epstein emails and the 'what files' remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6649"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Convicted sex offender; the host links Kirk's Epstein segments, the released emails and modeling agencies to him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6642",
+        "C-6643",
+        "C-6645",
+        "C-6649",
+        "C-6650"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-27",
+      "ref": "N-27",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Named by the host regarding pressure to denounce him and his claims about Diddy being blackmailed by the feds.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6631",
+        "C-6655"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "The host says he is being tried for crimes against humanity.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6651"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "The accused shooter; the host says she does not believe he acted alone.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6605"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "The host presents her as pressed to choose between her career and Tucker Carlson.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6657"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "The host's lawsuit co-party; the host says Tim Dillon is included in it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6644",
+        "C-6665"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "The host says Bondi called the Epstein matter a Democrat hoax.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6650"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Bob Shulman",
+      "type": "person",
+      "description": "Donor the host names (spelled Bob Showman) when she asks why millions came from one person.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6666"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "The host says releasing his call logs would not endanger the case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6604"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-209",
+      "ref": "N-209",
+      "name": "Sean Feucht",
+      "type": "person",
+      "description": "Transcript renders him as Sean Fo; the host cites a September 30 article on mismanagement of funds.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6647"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-212",
+      "ref": "N-212",
+      "name": "Jack Hibbs",
+      "type": "person",
+      "description": "Calvary Chapel pastor the host says hosts 5 a.m. calls against her and Tucker Carlson.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6639",
+        "C-6640"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-232",
+      "ref": "N-232",
+      "name": "Allie Beth Stuckey",
+      "type": "person",
+      "description": "The host says she posted a video about not having dreams and called the host a liar in her own way.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6602",
+        "C-6660"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-251",
+      "ref": "N-251",
+      "name": "Butch Hibbs",
+      "type": "person",
+      "description": "Jack Hibbs' brother, whom the host says was everywhere before and after the assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6639"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-252",
+      "ref": "N-252",
+      "name": "Elijah Schaefer",
+      "type": "person",
+      "description": "Defendant in the lawsuit the host says concerns a joke.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6664"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-283",
+      "ref": "N-283",
+      "name": "Tim Dillon",
+      "type": "person",
+      "description": "Comedian whose clip is played; the host says he is included in her Macron lawsuit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6665"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-305",
+      "ref": "N-305",
+      "name": "Miriam Adelson",
+      "type": "person",
+      "description": "A commenter asks if she was the donor who yelled at Charlie; the host says no and that she is trying to remove Massie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6673",
+        "C-6674"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-387",
+      "ref": "N-387",
+      "name": "Emmanuel Macron",
+      "type": "person",
+      "description": "Named by the host in the Macron investigation passage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6644"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-593",
+      "ref": "N-593",
+      "name": "Thomas Massie",
+      "type": "person",
+      "description": "The host says Miriam Adelson is trying to remove him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6674"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-627",
+      "ref": "N-627",
+      "name": "Cardi B",
+      "type": "person",
+      "description": "The host says her book starts and ends with Cardi B.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6669"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-728",
+      "ref": "N-728",
+      "name": "Chuck Smith",
+      "type": "person",
+      "description": "The host names him as the founder of Calvary Chapel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6641"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "description": "TPUSA; the host calls it an $80 million company and links a donor to it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6601",
+        "C-6606",
+        "C-6654",
+        "C-6666"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10004",
+      "ref": "N-10004",
+      "name": "Kanye Tweet About Candace Owens",
+      "type": "topic",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6655"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10107",
+      "ref": "N-10107",
+      "name": "Crime Scene Pavers",
+      "type": "topic",
+      "description": "Existing topic reused for the host's pavers remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6672"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10139",
+      "ref": "N-10139",
+      "name": "Operation Mocking Pastor",
+      "type": "topic",
+      "description": "Existing topic reused for the host's Calvary Chapel remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6638"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10166",
+      "ref": "N-10166",
+      "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
+      "type": "topic",
+      "description": "Existing topic reused for the McCoy lies claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6637"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10193",
+      "ref": "N-10193",
+      "name": "Mikey McCoy Call Log Verification",
+      "type": "topic",
+      "description": "Existing topic reused for the call log claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6604"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10209",
+      "ref": "N-10209",
+      "name": "TPUSA Faith / Christian Zionist Infiltration Question",
+      "type": "topic",
+      "description": "Existing topic reused for the infiltration claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6636"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10245",
+      "ref": "N-10245",
+      "name": "Alexis Wilkins Honeypot Allegation Lawsuit",
+      "type": "topic",
+      "description": "Existing topic reused for the Wilkins and Schaefer claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6661",
+        "C-6664"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10251",
+      "ref": "N-10251",
+      "name": "TPUSA Faith-Angle Investigation",
+      "type": "topic",
+      "description": "Existing topic reused for the TPUSA Faith pivot claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6636"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10252",
+      "ref": "N-10252",
+      "name": "Potter's Fields Hostile Takeover Allegation",
+      "type": "topic",
+      "description": "Existing topic reused for the McCoy CFO claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6635"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "topic",
+      "description": "Existing topic reused for the Egyptian planes announcement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6652"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10264",
+      "ref": "N-10264",
+      "name": "Calvary Chapel Pro-Israel Coordination",
+      "type": "topic",
+      "description": "Existing topic reused for the Calvary Chapel founding remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6676"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10268",
+      "ref": "N-10268",
+      "name": "AmFest Speaker Removal Pattern",
+      "type": "topic",
+      "description": "Existing topic reused for the donor demand claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6656"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10270",
+      "ref": "N-10270",
+      "name": "Macron Defamation Lawsuit Delaware Venue Question",
+      "type": "topic",
+      "description": "Existing topic reused for the Macron lawsuit claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6644",
+        "C-6665"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "topic",
+      "description": "Existing topic reused for the Epstein emails claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6649",
+        "C-6650"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10398",
+      "ref": "N-10398",
+      "name": "Turning Point USA Faith Structure",
+      "type": "topic",
+      "description": "Existing topic reused for the TPUSA Faith claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6636",
+        "C-6646"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10406",
+      "ref": "N-10406",
+      "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+      "type": "topic",
+      "description": "Existing topic reused for the Kelly claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6657"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10434",
+      "ref": "N-10434",
+      "name": "Charlie Kirk DOGE Pre-Death Establishment",
+      "type": "topic",
+      "description": "Existing topic reused for the DOGE committee claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6604"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10465",
+      "ref": "N-10465",
+      "name": "Calvary Chapel Church CIA Connection Question",
+      "type": "topic",
+      "description": "Existing topic reused for the Chuck Smith claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6641"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10817",
+      "ref": "N-10817",
+      "name": "Butch Hibbs UVU Recording Behavior",
+      "type": "topic",
+      "description": "Existing topic reused for the Butch Hibbs claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6639"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10818",
+      "ref": "N-10818",
+      "name": "Jack Hibbs Sequence-of-Events Discrepancy",
+      "type": "topic",
+      "description": "Existing topic reused for the Jack Hibbs claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6640"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10916",
+      "ref": "N-10916",
+      "name": "Thomas Massie Kentucky Primary Outside Spending",
+      "type": "topic",
+      "description": "Existing topic reused for the Adelson and Massie claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6674"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10989",
+      "ref": "N-10989",
+      "name": "Soter Global Ministries",
+      "type": "organization",
+      "description": "Existing organization reused for the orphanage remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6626"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-772",
+      "ref": "N-772",
+      "name": "Bob Coy",
+      "type": "person",
+      "description": "First named by the host at 00:19:19 in episode 31. Pompo Beach, Florida Calvary Chapel founder accused of molesting a 4-year-old; the host stresses he is not Rob McCoy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6620"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-773",
+      "ref": "N-773",
+      "name": "Jason James Taylor",
+      "type": "person",
+      "description": "First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel Solid Rock in Minnesota, named by the host as one of six arrested in a sting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6624"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-774",
+      "ref": "N-774",
+      "name": "Anthony Eglacius",
+      "type": "person",
+      "description": "First named by the host at 00:19:19 in episode 31. Named by the host (spelled Anthony Eglacius) as a predator the Post Falls church allegedly concealed; she says he is serving time in Idaho.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6625"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-775",
+      "ref": "N-775",
+      "name": "Robert Davis",
+      "type": "person",
+      "description": "First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of North County Chapel in Post Falls, Idaho, whom the lawsuit alleges made the Thailand remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6625"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-776",
+      "ref": "N-776",
+      "name": "Doug Deandria",
+      "type": "person",
+      "description": "First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor in Virginia the host says pleaded guilty to child sex abuse.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6627"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-777",
+      "ref": "N-777",
+      "name": "Jeffrey Keon Ziz",
+      "type": "person",
+      "description": "First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor the host says confessed to misconduct with his daughters and later committed a murder (name as rendered in the transcript).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6629"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-778",
+      "ref": "N-778",
+      "name": "Diddy",
+      "type": "person",
+      "description": "First named by the host at 00:22:47 in episode 31. Referred to by the host as Diddy in the passage on the man who said the feds run a cartel operation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6630",
+        "C-6631"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-779",
+      "ref": "N-779",
+      "name": "Kenny",
+      "type": "person",
+      "description": "First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kenny and Kenny in the transcript).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6634"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11106",
+      "ref": "N-11106",
+      "name": "Camino Conviction Narrative Dispute",
+      "type": "topic",
+      "description": "Dispute between Thomas Camino's podcast account of a false conviction and the 1995 LA Times report, the host's account of a 1990 probation and the victim's email.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6608",
+        "C-6609",
+        "C-6610",
+        "C-6614",
+        "C-6615",
+        "C-6616",
+        "C-6617",
+        "C-6618"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -907,7 +2102,1658 @@
       "tags": [],
       "claim_timestamp": "00:58:13",
       "investigative_direction": "Identify the specific Calvary Chapel and pastor; locate the original broadcast or YouTube URL referenced."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6597",
+      "ref": "C-6597",
+      "label": "Host Describes Frank Turek as Pastor Next to Charlie at the Shooting",
+      "claim": "The host says Frank Turek is the pastor friend who was next to Charlie Kirk when he was assassinated, wearing the white hat, that he ducked down, helped get Kirk to the vehicle and was at the hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:20",
+      "investigative_direction": "Compare the host's description with UVU event video and with Turek's own accounts of where he stood, who he helped move and when he reached the hospital.",
+      "transcript_snippet": "he is the pastor friend who was next to Charlie actually when he was assassinated.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6598",
+      "ref": "C-6598",
+      "label": "Turek Says Charlie Named Candace as Someone He Mentored and Never Spoke Ill of Her",
+      "claim": "In the CBN News clip, Frank Turek says that when he first met Charlie Kirk, Kirk named Candace Owens among the people he had mentored, and that Kirk would never speak ill of anybody privately unless he had first spoken to that person and tried to correct them, adding that Kirk never said anything bad about her.",
+      "anchored_artifacts": [
+        "A-1391.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:06",
+      "investigative_direction": "Obtain the full CBN News interview and ask Turek when and where he first met Kirk and what exactly Kirk said about Candace Owens.",
+      "transcript_snippet": "Charlie would never speak ill of anybody um privately, uh unless he spoke to that person first and tried to correct them.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6599",
+      "ref": "C-6599",
+      "label": "Turek Says Claims Such as a Dream That Charlie Told Her Something Are Not Evidence",
+      "claim": "In the CBN News clip, Frank Turek says that statements such as that TPUSA betrayed Charlie or that she had a dream in which Charlie told her something are not evidence, though he allows that she may be right.",
+      "anchored_artifacts": [
+        "A-1391.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:06",
+      "investigative_direction": "Obtain the full CBN News interview to confirm Turek's wording and what episode of the host's show he is referring to.",
+      "transcript_snippet": "I had a dream that that Charlie told me this, that's not evidence.",
+      "supports_claim_refs": [
+        "C-1682"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6600",
+      "ref": "C-6600",
+      "label": "Turek Says Prosecutors Rarely Reveal What They Have",
+      "claim": "In the CBN News clip, Frank Turek says people do not understand how murder prosecutions work and that the prosecution rarely tells you anything it has, much less everything it has.",
+      "anchored_artifacts": [
+        "A-1391.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:01",
+      "investigative_direction": "Obtain the Turek and Wallace podcast episode and compare its claims about prosecutorial disclosure with the Utah County charging documents and discovery to date.",
+      "transcript_snippet": "The prosecution rarely tells you anything they have, much less everything they have.",
+      "supports_claim_refs": [
+        "C-1683"
+      ],
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6601",
+      "ref": "C-6601",
+      "label": "Host Says She Has Presented Second-by-Second Timelines, Webs of People and a List of TPUSA Lies",
+      "claim": "The host says that in the evidence she has presented she has done second-by-second and minute-by-minute timelines, presented webs of people and their connections, and presented a list of how many times Turning Point USA lied, and that critics who have not watched fix on one episode in which she mentioned a dream.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:56",
+      "investigative_direction": "Compile the host's published timelines and her list of TPUSA discrepancies and check each against the primary records she cites.",
+      "transcript_snippet": "I have done second by-c timelines. I have done minute-by-minute timelines. I have presented webs of people and their connections.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6602",
+      "ref": "C-6602",
+      "label": "Host Says Stuckey Posted a Video Saying She Does Not Have Dreams Like Candace",
+      "claim": "The host says Allie Beth Stuckey just did a video in which she said she does not have these dreams, and later says Stuckey did a video the day before saying she does not get dreams like Candace.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:56",
+      "investigative_direction": "Locate Stuckey's video from the days before 2025-11-13 and confirm the wording about dreams.",
+      "transcript_snippet": "By Stucky just did this, too. She did a video and was like, I don't I don't have these dreams.",
+      "mentions_person_refs": [
+        "N-232",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6603",
+      "ref": "C-6603",
+      "label": "Host Says She Personally Invited Frank Turek onto Her Show",
+      "claim": "The host says she personally invited Frank Turek onto her show because she wants answers, and that she wants to hear from his friends rather than the prosecution.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:56",
+      "investigative_direction": "Ask the host's team for the invitation and any reply from Turek, and check whether he accepted or declined.",
+      "transcript_snippet": "So, here's what I did. I personally invited Frank Turk onto the show because we legitimately want answers.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6604",
+      "ref": "C-6604",
+      "label": "Host Says Releasing Mikey McCoy's Call Logs Would Not Endanger the Case",
+      "claim": "The host says the case would not be put at risk if Mikey McCoy shared his call logs, or if friends answered questions about why Charlie Kirk wanted to put together the DOGE committee.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10193",
+        "N-10434"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:19",
+      "investigative_direction": "Request Mikey McCoy's call logs for September 10, 2025 and ask TPUSA to describe the DOGE committee Kirk reportedly planned.",
+      "transcript_snippet": "We should not pretend like somehow the case would be put at risk if Mikey McCoy shared his call logs.",
+      "supports_claim_refs": [
+        "C-1563"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6605",
+      "ref": "C-6605",
+      "label": "Host Says She Does Not Believe Tyler Robinson Acted Alone",
+      "claim": "The host says she and her team are not feeling that Tyler Robinson acted alone or is a lone shooter, and that they care less about the case than about why Kirk's friends seem to have lied to the public.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:19",
+      "investigative_direction": "Test the lone-shooter account against the Utah charging documents, rifle forensics and Robinson's surveillance record.",
+      "transcript_snippet": "we're not feeling like Tyler Tyler Robinson acted alone and he's a lone shooter",
+      "mentions_person_refs": [
+        "N-40",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6606",
+      "ref": "C-6606",
+      "label": "Host Says She Has Found Lies by Kirk's Friends and They Refuse to Respond",
+      "claim": "The host says that her team has found lies told to the public by Charlie Kirk's friends, that those lies cannot be undone, and that the friends are refusing to respond; she says her dream gave her intuition and the facts now back her claim that they are betraying him by not answering simple questions.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:19",
+      "investigative_direction": "List the specific statements the host calls lies and match each against the record she cites.",
+      "transcript_snippet": "but we deeply care about whether or not and why his friends seem to have been lying to the public. Like, we have we have found these lies.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6607",
+      "ref": "C-6607",
+      "label": "Host Says Turek Has Not Come Up in the Investigation or Been Caught in Any Lies",
+      "claim": "The host says she does not think she has ever covered Frank Turek, that he has not really come up in the investigation, and that he has not been caught in any lies.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:19",
+      "investigative_direction": "Compare with earlier episodes that questioned Turek's account (for example the CPR and hospital claims) to see whether this characterization holds.",
+      "transcript_snippet": "I don't think we've ever covered Frank Turk. He hasn't really come up in this investigation. He hasn't been caught in any lies certainly.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6608",
+      "ref": "C-6608",
+      "label": "Host Says Camino Was Placed on Probation in 1990 After a No-Contest Plea",
+      "claim": "The host says that in 1990 Thomas Camino was placed on probation after pleading no contest to lewd conduct involving children in Manhattan Beach, which she calls Orange County, and that years later he tried to lure young girls in a different county.",
+      "anchored_artifacts": [
+        "A-2825.1"
+      ],
+      "related_nodes": [
+        "N-11106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:17",
+      "investigative_direction": "Pull the 1990 California court record for Camino; note that Manhattan Beach is in Los Angeles County, not Orange County, and confirm the plea and probation terms.",
+      "transcript_snippet": "In 1990, uh, Camino was placed on probation for pleading no contest to lewd conduct involving children in Manhattan Beach.",
+      "mentions_person_refs": [
+        "N-254",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6609",
+      "ref": "C-6609",
+      "label": "LA Times Article Says Camino's Lawyer Reported He Was Now Admitting Guilt",
+      "claim": "The host reads from the 1995 LA Times article that Camino's lawyer said his client, who had previously maintained his innocence, was now admitting his guilt, and that the lawyer sought a six-year sentence rather than the maximum.",
+      "anchored_artifacts": [
+        "A-1393.1"
+      ],
+      "related_nodes": [
+        "N-11106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:22",
+      "investigative_direction": "Retrieve the 1995 LA Times article and the sentencing transcript to check the lawyer's statement and whether Camino pleaded or went to trial.",
+      "transcript_snippet": "Kamino's lawyer said his client, who had previously maintained his innocence, was now admitting his guilt.",
+      "contradicts_claim_refs": [
+        "C-1688"
+      ],
+      "mentions_person_refs": [
+        "N-254"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6610",
+      "ref": "C-6610",
+      "label": "Article Says Prosecutors Described Camino Luring Girls to a Riverbed and a Basement",
+      "claim": "The host reads from the article that Camino terrorized a Dana Point neighborhood for more than four months and that prosecutors said he lured young girls into secluded spots such as a riverbed and the basement of a house by asking them to find his cat.",
+      "anchored_artifacts": [
+        "A-1393.1"
+      ],
+      "related_nodes": [
+        "N-11106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:22",
+      "investigative_direction": "Retrieve the article and the Orange County Superior Court file for the 1994 incidents.",
+      "transcript_snippet": "Prosecutors said he approached young girls, lured them into secluded spots such as a riverbed and the basement of a house by asking them to find his cat.",
+      "supports_claim_refs": [
+        "C-1684"
+      ],
+      "mentions_person_refs": [
+        "N-254"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6611",
+      "ref": "C-6611",
+      "label": "Host Says Mothers Raised Objections Online in 2022 to Camino's Home Fellowship Access",
+      "claim": "The host says Rob McCoy placed Camino in the home fellowship program, which put him inside children's homes, and that he almost got away with it until mothers went online in 2022, remembered what had happened and objected.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:11",
+      "investigative_direction": "Find the 2022 online posts by the mothers and any Calvary Chapel Chino Hills statement on the home fellowship program.",
+      "transcript_snippet": "until some mothers went online remembered exactly what had happened and raised hell about it in 2022.",
+      "supports_claim_refs": [
+        "C-1687"
+      ],
+      "mentions_person_refs": [
+        "N-17",
+        "N-254",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6612",
+      "ref": "C-6612",
+      "label": "Host Suggests Rob McCoy's Father Worked in Navy Intelligence",
+      "claim": "The host says Rob McCoy did not apologize after the 2022 objections and instead used psychological gaslighting tactics, and adds that maybe he learned this from his father who did this for Navy intelligence.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:11",
+      "investigative_direction": "Verify Rob McCoy's father's career and any Navy intelligence service through biographical sources or military records.",
+      "transcript_snippet": "Maybe he learned this from his father who did this for Navy intelligence, right?",
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6613",
+      "ref": "C-6613",
+      "label": "McCoy Says He Pulled an Advertisement for the Home Fellowship",
+      "claim": "In the played clip, Rob McCoy says he personally made the call to protect Camino's family, and says he pulled an advertisement for the home fellowship, adding that this is done for all the home fellowships.",
+      "anchored_artifacts": [
+        "A-1394.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:54",
+      "investigative_direction": "Locate the pulled home fellowship advertisement and compare its dates with the 2022 objections.",
+      "transcript_snippet": "So I pulled that um I guess I guess it was a advertisement for the home fellowship which we do for all the home fellowships.",
+      "supports_claim_refs": [
+        "C-1689"
+      ],
+      "mentions_person_refs": [
+        "N-17",
+        "N-254"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6614",
+      "ref": "C-6614",
+      "label": "Camino Says the Key Girl Was Filmed Being Asked Leading Questions",
+      "claim": "In the played clip, Thomas Camino says a girl was filmed in an interview in which she did not seem upset and was asked leading question after leading question, and that she eventually said there was some inappropriate touching, which he says was all the police needed.",
+      "anchored_artifacts": [
+        "A-1394.2"
+      ],
+      "related_nodes": [
+        "N-11106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:49",
+      "investigative_direction": "Obtain the trial transcript and the recorded interview to check Camino's description of how the child's statement was elicited.",
+      "transcript_snippet": "And then they just keep asking her leading question after leading question and the kid's not giving them what they want.",
+      "mentions_person_refs": [
+        "N-254"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6615",
+      "ref": "C-6615",
+      "label": "Camino Says Police Lined Up 16 Men and Searched His Home for 17 Items",
+      "claim": "In the played clip, Camino says police lined up about 16 men of a certain look, that he was one of those under surveillance, and that a search warrant listed 17 specific items of which police took 11, which he says sounds worse than it was.",
+      "anchored_artifacts": [
+        "A-1394.2"
+      ],
+      "related_nodes": [
+        "N-11106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:49",
+      "investigative_direction": "Obtain the search warrant return from the Orange County court file and the list of items seized.",
+      "transcript_snippet": "They get 11 of them, which kind sounds kind of bad until you read what it is.",
+      "mentions_person_refs": [
+        "N-254"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6616",
+      "ref": "C-6616",
+      "label": "Camino Says His Lawyer Cited Footprints and a Palm Print and Urged a Plea Deal",
+      "claim": "In the played clip, Camino says his lawyer told him police had footprints and a palm print lifted from a scene and wanted him to take a plea bargain before a pre-trial hearing, and that a jury then returned a guilty verdict.",
+      "anchored_artifacts": [
+        "A-1394.2"
+      ],
+      "related_nodes": [
+        "N-11106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:45",
+      "investigative_direction": "Obtain the trial exhibits and forensic reports to check the footprint and palm print evidence and any plea offer.",
+      "transcript_snippet": "they say they have footprints, forensic evidence, footprints and a palm print of yours that they lifted from a scene",
+      "mentions_person_refs": [
+        "N-254"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6617",
+      "ref": "C-6617",
+      "label": "Camino Says He Had No Record Before the Conviction",
+      "claim": "In the played clip, Camino says he did not have a record before the eight-year sentence, which conflicts with the host's reading that he was placed on probation in 1990 for a no-contest plea to lewd conduct.",
+      "anchored_artifacts": [
+        "A-1394.2"
+      ],
+      "related_nodes": [
+        "N-11106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:45",
+      "investigative_direction": "Compare Camino's statement with the 1990 Manhattan Beach court record.",
+      "transcript_snippet": "didn't have a record.",
+      "contradicts_claim_refs": [
+        "C-6608"
+      ],
+      "mentions_person_refs": [
+        "N-254"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6618",
+      "ref": "C-6618",
+      "label": "Camino Says the Appeals Court Found Two Legal Violations but Dismissed as Harmless",
+      "claim": "In the played clip, Camino says the appellate court agreed that the law was broken twice on three points and that his rights were violated, but said it did not see how that affected the outcome and dismissed the appeal.",
+      "anchored_artifacts": [
+        "A-1394.2"
+      ],
+      "related_nodes": [
+        "N-11106"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:45",
+      "investigative_direction": "Retrieve the California Court of Appeal opinion in People v. Camino and read its harmless-error holding.",
+      "transcript_snippet": "Yes, we agree. They broke the law twice out of out of the three points and they violated your rights.",
+      "mentions_person_refs": [
+        "N-254"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6619",
+      "ref": "C-6619",
+      "label": "Host Says Calvary Chapel Has a Long History of Claims of Placing Pedophiles in Positions of Power",
+      "claim": "The host says Calvary Chapel has a long history of claims of intentionally putting pedophiles in positions of power and giving them access to children, and says she is listing only a few examples and not an exhaustive list.",
+      "anchored_artifacts": [
+        "A-2826.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:21",
+      "investigative_direction": "Compile court records, lawsuits and press reports on each Calvary Chapel case the host names and test whether concealment, rather than isolated misconduct, is documented.",
+      "transcript_snippet": "Calvary Chapel Full Stop has a long history of claims of intentionally putting pedophiles in positions of power, giving them access to children.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6620",
+      "ref": "C-6620",
+      "label": "Host Says Calvary Chapel Pompano Beach Founder Bob Coy Was Accused of Molesting a 4-Year-Old",
+      "claim": "The host says the founder of Calvary Chapel in Pompo Beach, Florida was a pastor named Bob Coy (transcribed as Rob Koy), a former Las Vegas casino entertainment director, who was accused of molesting a 4-year-old girl, and she stresses he is not Rob McCoy.",
+      "anchored_artifacts": [
+        "A-2826.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:19",
+      "investigative_direction": "Search Florida court and news records for the accusation against Bob Coy and its outcome.",
+      "transcript_snippet": "Then he got accused of molesting a 4-year-old girl.",
+      "mentions_person_refs": [
+        "N-772",
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6621",
+      "ref": "C-6621",
+      "label": "Host Says a Calvary Chapel Woodlands Lead Pastor Was Arrested in 2024 in a Sting",
+      "claim": "The host says that in 2024 the lead pastor of Calvary Chapel of Woodlands was arrested after a sting operation into online sex abuse against children.",
+      "anchored_artifacts": [
+        "A-2826.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:19",
+      "investigative_direction": "Identify the pastor and arrest report and check the charges and case status.",
+      "transcript_snippet": "In 2024, a lead pastor was arrested after a sting operation into online sex abuse against children.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6622",
+      "ref": "C-6622",
+      "label": "Host Says a Calvary Chapel Carrie Lead Pastor Resigned Amid Incest and Fund-Misuse Allegations",
+      "claim": "The host says the lead pastor of Calvary Chapel Carrie resigned amid allegations of incest with his own son, bullying, drug addiction and misuse of funds.",
+      "anchored_artifacts": [
+        "A-2826.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:19",
+      "investigative_direction": "Identify the church and pastor (the transcript renders it as Carrie) and locate the resignation announcement and reports.",
+      "transcript_snippet": "the lead pastor, resigned amid allegations of incest with his own son, bullying, drug addiction, and the misuse of funds.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6623",
+      "ref": "C-6623",
+      "label": "Host Says the Lead Pastor of Calvary Chapel Mission Viejo Was Convicted of Abusing Two Girls",
+      "claim": "The host says the lead pastor of Calvary Chapel in Orange County, in Mission Viejo, was convicted of abusing two girls.",
+      "anchored_artifacts": [
+        "A-2826.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:19",
+      "investigative_direction": "Identify the pastor and locate the Orange County conviction records.",
+      "transcript_snippet": "Calvary Chapel in Orange County, the lead pastor named Mission Viejo, was convicted of abusing two girls.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6624",
+      "ref": "C-6624",
+      "label": "Host Says Calvary Chapel Solid Rock Pastor Jason James Taylor Was Arrested in a Trafficking Sting",
+      "claim": "The host says Jason James Taylor, lead pastor of Calvary Chapel Solid Rock in Minnesota near the Wisconsin border, was among six people arrested after a solicitation-of-minors sting led by Minnesota's human trafficking investigators task force.",
+      "anchored_artifacts": [
+        "A-2826.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:19",
+      "investigative_direction": "Locate Minnesota task force press releases and court records naming Jason James Taylor and the case outcome.",
+      "transcript_snippet": "He was among six people who were arrested following a solicitation of minors.",
+      "mentions_person_refs": [
+        "N-773",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6625",
+      "ref": "C-6625",
+      "label": "Host Says a Post Falls, Idaho Lawsuit Alleges Calvary Chapel Concealed a Known Predator",
+      "claim": "The host says the North County Chapel in Post Falls, Idaho is being sued by victims alleging it concealed a known predator, Anthony Eglacius, now serving time in an Idaho prison, and that the lawsuit alleges Reverend Robert Davis told the parents they knew his history and had pulled him out of Thailand, an orphanage program.",
+      "anchored_artifacts": [
+        "A-2826.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:19",
+      "investigative_direction": "Retrieve the Idaho civil complaint and the criminal judgment against Eglacius and check the quoted allegation.",
+      "transcript_snippet": "Yeah, we knew that's why we pulled him out of Thailand.",
+      "mentions_person_refs": [
+        "N-774",
+        "N-775",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6626",
+      "ref": "C-6626",
+      "label": "Host Says Calvary Chapel Churches Keep Getting Involved in Orphanages",
+      "claim": "The host says that for some reason these churches are involved in orphanages everywhere and that there are a lot of abuse scandals.",
+      "anchored_artifacts": [
+        "A-2826.1"
+      ],
+      "related_nodes": [
+        "N-10246",
+        "N-10989"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:14",
+      "investigative_direction": "Map Calvary Chapel affiliated orphanage programs and any associated abuse reports, and compare with the Soter Global Ministries and Eastern Europe links raised in other episodes.",
+      "transcript_snippet": "Orphanages everywhere. For some reason, these churchs are getting involved in orphanages.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6627",
+      "ref": "C-6627",
+      "label": "Host Says a Former Calvary Chapel Pastor in Virginia, Doug Deandria, Pleaded Guilty to Child Sex Abuse",
+      "claim": "The host says a former Calvary Chapel pastor in Virginia named Doug Deandria pleaded guilty to child sex abuse and is serving time on multiple charges.",
+      "anchored_artifacts": [
+        "A-2826.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:14",
+      "investigative_direction": "Locate the Virginia court records for the pastor (the transcript spells the name Deandria) and the sentence.",
+      "transcript_snippet": "The former Calvary uh pastor's name was Doug Deandria. He is currently serving time in jail in Virginia on multiple charges related to child sex abuse.",
+      "mentions_person_refs": [
+        "N-776",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6628",
+      "ref": "C-6628",
+      "label": "Host Says a Calvary Chapel Fort Lauderdale Employee Was Arrested in 2019 Over Child Abuse Images",
+      "claim": "The host says a Calvary Chapel Fort Lauderdale employee, not the lead pastor, was arrested in 2019 after authorities said they found numerous downloaded images and videos of child pornography on his home computer.",
+      "anchored_artifacts": [
+        "A-2826.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:14",
+      "investigative_direction": "Identify the 2019 arrest record for the Fort Lauderdale employee.",
+      "transcript_snippet": "This is not the lead pastor, but an employee who was arrested after authorities say they found numerous downloaded images and videos of child pornography in his home computer.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6629",
+      "ref": "C-6629",
+      "label": "Host Says an Oregon Calvary Chapel Pastor Confessed to Abusing His Daughters and Later Murdered an 82-Year-Old",
+      "claim": "The host says the lead pastor of a Calvary Chapel in North Thirsten, Oregon, Jeffrey Keon Ziz, confessed to sexual misconduct involving his three daughters over two years, served 11 months, and after release murdered an 82-year-old woman and poured concrete over her body.",
+      "anchored_artifacts": [
+        "A-2826.1"
+      ],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:14",
+      "investigative_direction": "Identify the pastor (the transcript spells the name Jeffrey Keon Ziz) and the Oregon conviction and homicide case records.",
+      "transcript_snippet": "He went to prison for 11 months. And then when he got out, he murdered an 80year-old and poured concrete.",
+      "mentions_person_refs": [
+        "N-777",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6630",
+      "ref": "C-6630",
+      "label": "Host Recounts a Man Who Said the Feds Run a Cartel and Was Diddy's Sex Slave",
+      "claim": "The host says a man who shot up the Trump Miami Doral, killing no one, said at sentencing that the feds run a cartel operation and that he had been one of Diddy's and Cassie's sex slaves, and that Cassie later verified on the stand that she knew who he was and that he had been invited to the parties.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:22:47",
+      "investigative_direction": "Identify the man and the shooting incident the host means and check the Combs trial testimony for any reference to him.",
+      "transcript_snippet": "Cassie then verified on the stand that she knew who this man was um and that he had been invited to these parties.",
+      "mentions_person_refs": [
+        "N-778",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6631",
+      "ref": "C-6631",
+      "label": "Host Says Kanye Said Diddy Was Blackmailed by the Feds to Keep Others in Line",
+      "claim": "The host says Kanye West said, in an episode now hard to find online, that Diddy had been blackmailed by the feds and that part of his deal was to keep certain other people in line, like Kanye, and that the feds blackmail certain people and run drugs.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:23:32",
+      "investigative_direction": "Locate the Kanye West interview or episode the host describes and confirm his words about Diddy and the feds.",
+      "transcript_snippet": "that Diddy had been blackmailed by the feds and that part of his deal was that he had to keep certain other people in line like Kanye.",
+      "mentions_person_refs": [
+        "N-27",
+        "N-778",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6632",
+      "ref": "C-6632",
+      "label": "Host Says the Calvary Church Association Funded Potter's Fields Ministries in Whitefish, Montana",
+      "claim": "The host says Potter's Field is an area in Whitefish, Montana where the Calvary Church Association funded a ministry that became Potter's Fields Ministries, with a hunting ground, a camp for kids, a student program called Ignite and a burger chain.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10247"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:32",
+      "investigative_direction": "Retrieve Montana nonprofit filings and Form 990s for Potter's Fields Ministries and its funders.",
+      "transcript_snippet": "the Calvary Church Association funded a ministry which came to be known as Potter's Fields Ministries.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6633",
+      "ref": "C-6633",
+      "label": "Host Says Potter's Fields Came Under a 2019 Scandal Over Where Donor Money Went",
+      "claim": "The host says that in 2019 Potter's Fields Ministries came under a scandal with reports of financial and psychological abuse, and that Calvary Chapel members were funding it believing the money fed and clothed children in Uganda, Cambodia, Costa Rica and Guatemala.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10247"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:32",
+      "investigative_direction": "Locate the 2019 local press coverage of the Potter's Fields scandal and the ministry's response.",
+      "transcript_snippet": "in 2019, the ministry came under a scandal with reports of financial abuse, psychological abuse.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6634",
+      "ref": "C-6634",
+      "label": "Host Reads a Whistleblower's Estimate That About 500 Children Were in the Potter's Fields Program",
+      "claim": "The host reads quotes attributed to a former Ignite student named Kenny, who handled Potter's Fields finances, that a very high guess of children in the program was 500 across five countries, that she worked with about 20 kids weekly, that videos of hundreds of fed children came from infrequent conferences, and that workers photoshopped old letters and cut off dates before mailing them to donors.",
+      "anchored_artifacts": [
+        "A-2827.1"
+      ],
+      "related_nodes": [
+        "N-10247"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:58",
+      "investigative_direction": "Locate the original news report quoting Kenny and the ministry's response, and check the donor mailings.",
+      "transcript_snippet": "I would say maybe like 500. And that would be between all five countries,\" Kenny said.",
+      "mentions_person_refs": [
+        "N-779",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6635",
+      "ref": "C-6635",
+      "label": "Host Says Potter's Fields Brought In Rob McCoy as CFO and Its Money Went into His Church",
+      "claim": "The host says that after announcing it was shutting down in 2019, Potter's Fields Ministry brought in Pastor Rob McCoy as CFO, and that the money was transferred into his church, which she says was done above board with the people notified.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10247",
+        "N-10252"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:02",
+      "investigative_direction": "Obtain Potter's Fields dissolution filings and Calvary Chapel Chino Hills records showing the transfer of funds and McCoy's role.",
+      "transcript_snippet": "They shut down in 2019 and they brought in Pastor Rob McCoy as a CFO to help steer the ship of their finances.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6636",
+      "ref": "C-6636",
+      "label": "Host Says TPUSA Faith Reads Like an Infiltration after the Organization Pivoted to Faith",
+      "claim": "The host says TPUSA Faith reads to her like an infiltration, that an organization about free markets and capitalism suddenly became all about faith, and that the pastors involved feel sleazy and dishonest to her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10209",
+        "N-10251",
+        "N-10398"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:02",
+      "investigative_direction": "Establish dates for TPUSA Faith's formation, leadership and funding and compare with TPUSA's earlier programming.",
+      "transcript_snippet": "The organization that was about free markets and capitalism suddenly became faith faith faith faith faith faith faith.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6637",
+      "ref": "C-6637",
+      "label": "Host Says She Has Caught Rob McCoy in Multiple Lies",
+      "claim": "The host says she has caught Rob McCoy in multiple lies and therefore does not see him as a person to steward faith.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10166"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:02",
+      "investigative_direction": "List the specific McCoy statements the host says are false and the records that contradict them.",
+      "transcript_snippet": "We have caught Rob McCoy in multiple lies.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6638",
+      "ref": "C-6638",
+      "label": "Host Says Calvary Chapel Pastors Were the Number One Offenders in Operation Mocking Pastor",
+      "claim": "The host says Calvary Chapel churches were the number one offenders when pastors got on stage in what she calls Operation Mocking Pastor, all saying the same thing about her and Tucker Carlson.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10139"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:02",
+      "investigative_direction": "Collect the pastors' sermons and statements about Owens and Carlson and test the claim that Calvary Chapel pastors were the most frequent critics.",
+      "transcript_snippet": "they were the number one offenders. I am not kidding.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6639",
+      "ref": "C-6639",
+      "label": "Host Says Butch Hibbs Was Everywhere before and after the Assassination",
+      "claim": "The host says Jack Hibbs' brother Butch Hibbs was everywhere before and after Charlie Kirk's assassination and that there is footage of him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:18",
+      "investigative_direction": "Gather UVU event footage and photographs of Butch Hibbs from September 10 and the days after and log where and when he appears.",
+      "transcript_snippet": "his brother Butch Hibbs, who was just everywhere um uh before and after Charlie's assassination.",
+      "supports_claim_refs": [
+        "C-1674"
+      ],
+      "mentions_person_refs": [
+        "N-212",
+        "N-251",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6640",
+      "ref": "C-6640",
+      "label": "Host Says Jack Hibbs Is Hosting 5 A.M. Calls Against Her and Tucker Carlson",
+      "claim": "The host says she received emails saying Pastor Jack Hibbs has gone masked down and is hosting 5 a.m. calls against her and Tucker Carlson.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10818"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:18",
+      "investigative_direction": "Obtain the 5 a.m. call invitations or recordings and the emailers' accounts.",
+      "transcript_snippet": "He's hosting 500 a. m. calls against me and Tucker Carlson",
+      "mentions_person_refs": [
+        "N-212",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6641",
+      "ref": "C-6641",
+      "label": "Host Points to CIA Implications in the Origins of Calvary Chapel under Chuck Smith",
+      "claim": "The host says there are CIA implications in who started Calvary Chapel, which became an offshoot of the hippie movement, and names Chuck Smith as the founder.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10465"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:18",
+      "investigative_direction": "Review documented histories of Chuck Smith and the Jesus Movement for any intelligence-agency link; none is shown on air.",
+      "transcript_snippet": "the CIA implications of who exactly started the Calvary Chapel",
+      "mentions_person_refs": [
+        "N-728",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6642",
+      "ref": "C-6642",
+      "label": "Host Says Kirk Was Hitting Hard on Epstein and Sensed Pressure from High Up to Stop",
+      "claim": "The host says Charlie Kirk was hitting hard on his show about Jeffrey Epstein near the end of his life, that he was exasperated, and that she could sense from high up that he was being told to stop speaking about Epstein and was pushing back.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:12",
+      "investigative_direction": "Review Kirk's Epstein segments in the months before September 2025 and any messages indicating pressure to stop.",
+      "transcript_snippet": "And you could sense that from high up he was being told to stop speaking about Jeffrey Epstein and he was pushing back on that.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6643",
+      "ref": "C-6643",
+      "label": "Host Says Kirk Told Tucker Carlson to Go Max against Epstein",
+      "claim": "The host says Charlie Kirk then told Tucker Carlson to go max against Jeffrey Epstein.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:12",
+      "investigative_direction": "Find the message or recording in which Kirk told Carlson to go max on Epstein and date it.",
+      "transcript_snippet": "He then tells Tucker Carlson to go max against Jeffrey Epstein.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-22",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6644",
+      "ref": "C-6644",
+      "label": "Host Says the Macron Investigation Includes a Fed-Level Coverup and a Never-Before-Seen Lawsuit",
+      "claim": "The host says her investigation into Brigitte Macron and her relationship with Emmanuel Macron involves a federal-level coverup that includes a never-before-seen lawsuit meant as propaganda to make people think there is nothing there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:06",
+      "investigative_direction": "Obtain the Delaware complaint and compare its filing, venue and claims with the host's description of a coverup.",
+      "transcript_snippet": "the Fed level coverup, uh, which includes a never-before-seen lawsuit, which is just meant to be propagandists to make people think of there's nothing here",
+      "mentions_person_refs": [
+        "N-82",
+        "N-387",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6645",
+      "ref": "C-6645",
+      "label": "Host Says Epstein Had Financial Tentacles in Modeling and Movie Agencies",
+      "claim": "The host says Jeffrey Epstein had his financial tentacles involved in modeling agencies and movie agencies, anywhere people could be cast, which she presents as a way to traffic individuals.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:08",
+      "investigative_direction": "Review released Epstein financial records and court filings for payments to modeling and casting agencies.",
+      "transcript_snippet": "Jeffrey Epstein had his financial tentacles involved in modeling agencies, right?",
+      "mentions_person_refs": [
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6646",
+      "ref": "C-6646",
+      "label": "Host Says TPUSA Faith Took Off as Kirk Spoke Daily about Trafficking of Children in Ukraine",
+      "claim": "The host says that Turning Point Faith ratcheted up when Charlie Kirk was going day in and day out speaking about Ukraine and the trafficking of kids there, which she says was part of her timeline, and that he was tweeting about it every day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10398"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:08",
+      "investigative_direction": "Pull Kirk's posts and show segments on Ukraine and TPUSA Faith's launch and growth dates to test the claimed sequence.",
+      "transcript_snippet": "That's when you really start to see Turning Point Faith ratchet up is when Charlie is going day in and day out speaking about what goes on in Ukraine",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6647",
+      "ref": "C-6647",
+      "label": "Host Says a September 30 Article Accused Sean Feucht of Mismanaging Funds",
+      "claim": "The host says that among Turning Point Faith figures with shady backgrounds is Sean Fo (apparently Sean Feucht), and that a September 30 article accuses him of mismanagement of funds.",
+      "anchored_artifacts": [
+        "A-2828.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:08",
+      "investigative_direction": "Identify the September 30 article, confirm the person is Sean Feucht and review the funds allegations and any response.",
+      "transcript_snippet": "including Sean Fo, there's like an article from September 30th talking about the mismanagement of funds, accusing him of the mismanagement of funds.",
+      "mentions_person_refs": [
+        "N-209",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6648",
+      "ref": "C-6648",
+      "label": "Host Says the Churches Involved Have Too Many Military Men from Powerful Military Families",
+      "claim": "The host says the churches she is questioning have way too many military men who come from a long line of powerful military families.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:08",
+      "investigative_direction": "Compile staff and board biographies for the named churches and test the military-background claim.",
+      "transcript_snippet": "all of these churches which have way too many military men who come from a long line of powerful military families",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6649",
+      "ref": "C-6649",
+      "label": "Host Says the Trump Administration Seems to Have Been Hiding Epstein Emails",
+      "claim": "The host says that, as she will detail the next day, the Trump administration seems to have been hiding emails she calls completely indefensible, and that she was done with MAGA when Trump asked what files.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:26",
+      "investigative_direction": "Review the Epstein email releases around November 12-13, 2025 and compare the host's tomorrow episode with the documents.",
+      "transcript_snippet": "The Trump administration seems to have been hiding these emails.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6650",
+      "ref": "C-6650",
+      "label": "Host Says Pam Bondi Called the Epstein Matter a Democrat Hoax",
+      "claim": "The host says Pam Bondi said the Epstein matter was a Democrat hoax, and that she suspects the whole nation has been hoaxed by Republicans and Democrats and by elites at the top.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:26",
+      "investigative_direction": "Locate Bondi's statements calling the Epstein matter a hoax and their dates.",
+      "transcript_snippet": "Pam Bondi said it was a Democrat hoax.",
+      "mentions_person_refs": [
+        "N-85",
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6651",
+      "ref": "C-6651",
+      "label": "Host Says Netanyahu Is Being Tried for Crimes Against Humanity",
+      "claim": "The host says people who will not speak about Netanyahu's crimes against humanity somehow have the energy to attack her, and says he is being tried for crimes against humanity.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:27",
+      "investigative_direction": "Check the status of ICC proceedings against Netanyahu; the host says he is being tried, while the ICC has issued arrest warrants and no trial is under way.",
+      "transcript_snippet": "he's being tried for crimes against humanity",
+      "mentions_person_refs": [
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6652",
+      "ref": "C-6652",
+      "label": "Host Says Her Egyptian Planes Findings Were Taken to Government First",
+      "claim": "The host says that what her team has discovered about the Egyptian planes is so big that she had to go through proper channels to get the information to the government first, and that she had to work out who in government could be trusted, so the segment was delayed until the next day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:27",
+      "investigative_direction": "Ask the host which agency or office received the material and when; compare the next episode's Egyptian plane disclosures with the flight records in earlier episodes.",
+      "transcript_snippet": "What we have discovered is actually so big that I had to go through the proper channels to get this information to government first.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6653",
+      "ref": "C-6653",
+      "label": "Host Says the Government Seems Implicated in Trying to Stop Her from Getting the Truth",
+      "claim": "The host says it feels like the government is implicated in trying to stop her team from getting the truth about what happened on the day of the shooting.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:27",
+      "investigative_direction": "Identify the specific instances of government obstruction the host refers to and any requests that were refused.",
+      "transcript_snippet": "It kind of feels like the government is implicated in trying to stop us from getting the truth about what happened on that day.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6654",
+      "ref": "C-6654",
+      "label": "Host Says TPUSA Is an $80 Million Company",
+      "claim": "The host says Turning Point USA is an $80 million company and that financial incentive is the first thing to question in any murder.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:24",
+      "investigative_direction": "Check TPUSA's Form 990 revenue figures and net assets for 2024 and 2025 against the $80 million figure.",
+      "transcript_snippet": "Yes, this is an $80 million company.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6655",
+      "ref": "C-6655",
+      "label": "Host Says She Was Pressed to Call Kanye Hitler and an Anti-Semite and Refused",
+      "claim": "The host says people tried to pressure her to make a statement against Kanye West by calling him Adolf Hitler and an anti-Semite, and that she refused.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10004"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:58",
+      "investigative_direction": "Identify who pressed the host on Kanye and when, and compare with the Kanye tweet episodes.",
+      "transcript_snippet": "Call him Adolf Hitler. Call him anti-semite. No, thank you. I said no.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6656",
+      "ref": "C-6656",
+      "label": "Host Says Donors Demanded Charlie Not Let Her Speak at AmFest and He Said No",
+      "claim": "The host says donors told Charlie Kirk they demanded he not let her speak at AmFest and that he make a statement against her, and that Charlie said no.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:58",
+      "investigative_direction": "Identify the donors and the communication in which they made the demand, and compare with AmFest 2024 speaker lists.",
+      "transcript_snippet": "We demand as donors that you do not let her speak at Afest.",
+      "supports_claim_refs": [
+        "C-1185"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6657",
+      "ref": "C-6657",
+      "label": "Host Presents Megyn Kelly as Pressed to Choose between Her Career and Tucker Carlson",
+      "claim": "The host presents Megyn Kelly as someone told it was her career or Tucker Carlson, with a so-called friend urging her to distance herself from Carlson, and says Kelly said no.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:45",
+      "investigative_direction": "Locate Kelly's own accounts of any such ultimatum and the people who delivered it.",
+      "transcript_snippet": "Uh Megan Kelly, it's your career or it's Tucker Carlson. You decide, right?",
+      "mentions_person_refs": [
+        "N-46",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6658",
+      "ref": "C-6658",
+      "label": "Tucker Carlson Says He Loves Candace and That Getting to the Truth Is His Animating Motive",
+      "claim": "In the played clip, Tucker Carlson says that, not about Candace, whom he loves, but about all people, getting to the truth is the most important thing and has been his animating motive.",
+      "anchored_artifacts": [
+        "A-1395.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:41:21",
+      "investigative_direction": "Identify the original interview (outlet, date and interviewer) and confirm the quote in full.",
+      "transcript_snippet": "not about Candace, whom I love, comma, but about all people, getting to the truth is the most important thing.",
+      "supports_claim_refs": [
+        "C-1690"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6659",
+      "ref": "C-6659",
+      "label": "Tucker Carlson Says He Will Not Accept a Government Statement without Asking Questions",
+      "claim": "In the played clip, Tucker Carlson says he rejects being told that because the US government or a law enforcement agency issues a statement he must accept it morally and ask no questions.",
+      "anchored_artifacts": [
+        "A-1395.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:14",
+      "investigative_direction": "Identify the statement Carlson refers to and the interview context.",
+      "transcript_snippet": "If you're telling me that because the US government or some law enforcement agency issues a statement that doesn't even make sense that I'm required somehow morally to accept that and not ask any questions",
+      "mentions_person_refs": [
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6660",
+      "ref": "C-6660",
+      "label": "Host Says Stuckey Called Her a Liar in Her Own Way and Said Prying Is Not Biblical",
+      "claim": "The host says Allie Beth Stuckey fundamentally called her a liar in her own way, pretended to be an injured bird when the host responded nicely, and tried to say it is not biblical to pry into the Charlie Kirk assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:17",
+      "investigative_direction": "Locate Stuckey's video and the host's earlier response and compare with the host's characterization.",
+      "transcript_snippet": "trying to tell it's not biblical for you to pry into what's happened to the Charlie Kirk assassination place.",
+      "mentions_person_refs": [
+        "N-232",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6661",
+      "ref": "C-6661",
+      "label": "Host Says Alexis Wilkins Comes from a Family of Freemasons with a Spotty Background",
+      "claim": "The host says she does not believe Alexis Wilkins, who she says comes from a family of Freemasons and has a spotty background, simply loves Kash Patel for him, and that nobody knows what she was doing in Switzerland.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10245"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:12",
+      "investigative_direction": "Locate biographical sources on Wilkins' family and any time in Switzerland; the host cites none.",
+      "transcript_snippet": "who comes from a family of Freemasons and who's got a spotty background.",
+      "mentions_person_refs": [
+        "N-216",
+        "N-69",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6662",
+      "ref": "C-6662",
+      "label": "Host Says Alexis Wilkins Is a Member of Calvary Chapel in Chino Hills",
+      "claim": "The host says Alexis Wilkins is also a member of the Calvary Chapel Church in Chino Hills, California.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:12",
+      "investigative_direction": "Confirm Wilkins' church membership through church records or her own public statements.",
+      "transcript_snippet": "She's also a member of the Calvary Chapel Church in California, Chino Hills.",
+      "supports_claim_refs": [
+        "C-1691"
+      ],
+      "mentions_person_refs": [
+        "N-216",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6663",
+      "ref": "C-6663",
+      "label": "Host Says the Babylon Bee Guy Is Also Involved in Calvary Chapel",
+      "claim": "The host says the Babylon Bee guy, whose name she cannot recall, is also involved in Calvary Chapel, and that she thinks Calvary Chapel needs to be looked into.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:12",
+      "investigative_direction": "Identify the person (the host does not name him) and verify any Calvary Chapel affiliation.",
+      "transcript_snippet": "Uh, also the Babylon B guy, I can't think of his name right now, is also involved in the Calvary Chapel.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6664",
+      "ref": "C-6664",
+      "label": "Host Says the Lawsuit against Elijah Schaefer Is About a Joke and Cites His Anti-Israel Rhetoric",
+      "claim": "The host says Elijah Schaefer's lawsuit, which she says Kash Patel is backing for his girlfriend, is about a joke, and that the lawsuit itself talks about Schaefer's anti-Israel rhetoric.",
+      "anchored_artifacts": [
+        "A-2829.1"
+      ],
+      "related_nodes": [
+        "N-10245"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:12",
+      "investigative_direction": "Retrieve the complaint against Schaefer and check what statements it quotes and whether it cites his views on Israel.",
+      "transcript_snippet": "that's what Elijah Schaefer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric.",
+      "mentions_person_refs": [
+        "N-252",
+        "N-216",
+        "N-69",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6665",
+      "ref": "C-6665",
+      "label": "Host Says Tim Dillon Is Already Included in Her Lawsuit with Brigitte Macron",
+      "claim": "The host says Tim Dillon is already included in her lawsuit with Brigitte Macron because he and she discussed the Brigitte case and apparently the president of France watches Dillon, so he is drafted in there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:22",
+      "investigative_direction": "Check the Macron complaint's list of defendants and quoted statements to see whether Dillon is named or cited.",
+      "transcript_snippet": "Apparently the president of France watches um Tim Dylan and we talked about the Breij case and so he's drafted in there.",
+      "mentions_person_refs": [
+        "N-283",
+        "N-82",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6666",
+      "ref": "C-6666",
+      "label": "Host Asks Why Millions of Dollars Came from One Person, Bob Showman",
+      "claim": "Reading the top comment, the host says it is a good question why millions of dollars came from just one person, whom she names Bob Showman, to fund a Christian organization.",
+      "anchored_artifacts": [
+        "A-1397.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:57",
+      "investigative_direction": "Establish the donor identity (the transcript spells him Showman) and the amounts given to TPUSA, using disclosed donor records.",
+      "transcript_snippet": "Why millions of dollars from just one person, Bob Showman?",
+      "mentions_person_refs": [
+        "N-98",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6667",
+      "ref": "C-6667",
+      "label": "Host Says Everyone Else Sold Charlie T-Shirts",
+      "claim": "The host says she thinks she should not put Go Max on a t-shirt because critics would say she is grifting off Charlie's death even though, she says, everyone else sold t-shirts.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:53:46",
+      "investigative_direction": "Compile merchandise sold by TPUSA and others after September 10, 2025.",
+      "transcript_snippet": "they're going to say like, \"Oh, she's trying to grift off of his death even though everyone else sold t-shirts.\"",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6668",
+      "ref": "C-6668",
+      "label": "Host Says Vietnam Was Kissinger's War and Always a War against Christians",
+      "claim": "Replying to a Vietnam veteran's comment, the host says Vietnam was Henry Kissinger's war and that the truth about it is that it was always a war against Christians.",
+      "anchored_artifacts": [
+        "A-1397.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:53:46",
+      "investigative_direction": "Historical claim recorded as said; test against standard histories of the Vietnam War and Kissinger's role.",
+      "transcript_snippet": "that's Henry Kenry Kissinger's war. And um the truth about that, it's always been a war against Christians.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6669",
+      "ref": "C-6669",
+      "label": "Host Says Her Book Starts and Ends with Cardi B and Pre-Orders Have Shipped",
+      "claim": "The host says her book Make Him a Sandwich starts with Cardi B and ends with Cardi B, and that although the site says pre-order it will ship because pre-orders have already shipped out.",
+      "anchored_artifacts": [
+        "A-1398.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:54:48",
+      "investigative_direction": "Check the book's table of contents and shipping status.",
+      "transcript_snippet": "It starts with Cardi B and it ends with Cardi B.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-627"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6670",
+      "ref": "C-6670",
+      "label": "Host Says the Guards Do Not Actually Hand Anything Off on Clear Footage",
+      "claim": "The host says that she and Mark Herman looked very slowly at clear footage and from different angles, and that the security guards seem to be handing something off but actually are not, and instead appear to be hitting each other as if coordinating.",
+      "anchored_artifacts": [
+        "A-2830.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:55:40",
+      "investigative_direction": "Obtain the multi-angle footage and run a frame-by-frame review of the guards' hands in the first seconds after the shot.",
+      "transcript_snippet": "So, we actually did look really close on clear footage and it looks like they're handing something off, but they actually don't.",
+      "contradicts_claim_refs": [
+        "C-1692"
+      ],
+      "mentions_person_refs": [
+        "N-67",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6671",
+      "ref": "C-6671",
+      "label": "Host Says It Is Unclear What the Guards Are Doing When Hidden on the Ground",
+      "claim": "The host says what is compelling is that when the guards are on the ground they cannot be seen, and it is not clear to her what they are doing there.",
+      "anchored_artifacts": [
+        "A-2830.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:55:40",
+      "investigative_direction": "Find footage from other angles that shows the guards at ground level and identify them from the event security roster.",
+      "transcript_snippet": "What's compelling is when you can't see them when they're on the ground.",
+      "mentions_person_refs": [
+        "N-67",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6672",
+      "ref": "C-6672",
+      "label": "Host Says Pavers Were Put Down Almost Immediately and the Area Releveled",
+      "claim": "The host says that authorities put down pavers almost immediately and releveled the area, which she finds quite shady.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10107"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:40",
+      "investigative_direction": "Obtain the UVU construction and paving records, dates and contractor invoices for the courtyard work.",
+      "transcript_snippet": "we know they then put down pavers almost immediately and releveled that that area.",
+      "supports_claim_refs": [
+        "C-1263"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6673",
+      "ref": "C-6673",
+      "label": "Host Says the Donor Who Yelled at Charlie Was Not Miriam Adelson",
+      "claim": "Responding to a comment, the host says the lady donor who yelled at Charlie Kirk after a TPUSA show was not Miriam Adelson, who she says is too high up to have been that person on the ground and was someone else.",
+      "anchored_artifacts": [
+        "A-1398.5"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:57:01",
+      "investigative_direction": "Identify the donor who confronted Kirk; the host says the name is saved in her phone, so ask her to disclose it.",
+      "transcript_snippet": "No, it was not her.",
+      "mentions_person_refs": [
+        "N-305",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6674",
+      "ref": "C-6674",
+      "label": "Host Says Miriam Adelson Is Trying to Remove Thomas Massie",
+      "claim": "The host says Miriam Adelson is trying to remove Thomas Massie, whom she calls Senator Massie.",
+      "anchored_artifacts": [
+        "A-1398.5"
+      ],
+      "related_nodes": [
+        "N-10916"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:01",
+      "investigative_direction": "Check federal election filings for Adelson-linked spending against Massie; note that Massie is a US Representative, not a Senator.",
+      "transcript_snippet": "Uh, she's trying to remove Senator Massie.",
+      "mentions_person_refs": [
+        "N-305",
+        "N-593",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6675",
+      "ref": "C-6675",
+      "label": "Host Says the Donor's Name Is Saved in Her Phone",
+      "claim": "The host says she needs to refresh her memory of the donor's last name because it is saved in her phone, and she does not want to misfire.",
+      "anchored_artifacts": [
+        "A-1398.5"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:57:01",
+      "investigative_direction": "Ask the host to disclose the donor's name on the follow-up she promised, and identify the incident.",
+      "transcript_snippet": "I actually need to to refresh myself on her last name because it's uh saved in my phone.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6676",
+      "ref": "C-6676",
+      "label": "Host Says the Calvary Church Was Born after JFK Was Killed and Filled with LBJ's Military Men",
+      "claim": "The host says that after they killed JFK, suddenly the Calvary Church was born and filled with military men she calls LBJ's military men who are focused on Israel.",
+      "anchored_artifacts": [
+        "A-1398.11"
+      ],
+      "related_nodes": [
+        "N-10246",
+        "N-10264"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:18",
+      "investigative_direction": "Historical claim recorded as said; compare with the founding date of Calvary Chapel and its founders' backgrounds.",
+      "transcript_snippet": "Then they killed JFK and suddenly the Calvary Church is born and you got all these military men",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-37",
+      "ref": "M-37",
+      "canonical_term": "Grifter",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 31,
+          "video_timestamp": "00:54:48",
+          "speaker_node_ref": "N-3",
+          "quote": "e a t-shirt, but then they're going to say like, \"Oh, she's trying to grift off of his death even though everyone else sold t-shirts.\" And so I fee...",
+          "context": "Later reuse of Grifter in CKA seq 31.",
+          "confidence": "high",
+          "tags": [
+            "monetize",
+            "loyalty_performance",
+            "residual",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 31,
+          "video_timestamp": "00:58:13",
+          "speaker_node_ref": "N-3",
+          "quote": "laimed number one fan. Thanks for converting him. Keep outshining the fake and gay. Uh happy birthday, Tim. Hope you have a fantastic day and I'm s...",
+          "context": "Fake and gay dismissal refrain. (CKA seq 31)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 31,
+          "video_timestamp": "00:29:12",
+          "speaker_node_ref": "N-3",
+          "quote": "tein and he was pushing back on that. He then tells Tucker Carlson to go max against Jeffrey Epstein. For whatever reason, this guy similar to thes...",
+          "context": "Go Max battle cry. (CKA seq 31)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
+          ]
+        }
+      ]
+    }
+  ]
 }

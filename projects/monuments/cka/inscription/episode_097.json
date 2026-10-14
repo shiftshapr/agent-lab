@@ -437,7 +437,8 @@
             "C-2829"
           ],
           "related_nodes": [
-            "N-3"
+            "N-3",
+            "N-800"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -736,9 +737,9 @@
       "type": "investigation_target",
       "description": "Whether the Lawler-Gottheimer resolution accurately characterizes Candace's prior statements about Israel, satanic pedophiles, Josef Mengele, and Christian children.",
       "related_artifacts": [
+        "A-2022.1",
         "A-2023.1",
-        "A-2024.1",
-        "A-2022.1"
+        "A-2024.1"
       ],
       "related_claims": [
         "C-2828",
@@ -989,6 +990,23 @@
       "tags": [],
       "evidence_count": 0,
       "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-800",
+      "ref": "N-800",
+      "name": "Hasan Piker",
+      "type": "person",
+      "description": "Streamer; first named in A-2023.1.",
+      "related_artifacts": [
+        "A-2023.1"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
     }

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 24dc527071bb4996347a4421cf2c9457ed4da7b0f003289f3d1967ed8acdf2bd
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-499, N-500, N-501, N-502, N-504, N-505, N-10438, N-10439, N-10440, N-10441, N-10442
-  - Reused Nodes Appearing: N-2, N-11
+  - New Nodes Introduced: N-499, N-501, N-502, N-504, N-505, N-10438, N-10439, N-10440, N-10441, N-10442
+  - Reused Nodes Appearing: N-2, N-11, N-500
   - (see registers)
 
 # Episode Analysis: Monument Ep 62

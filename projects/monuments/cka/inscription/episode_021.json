@@ -223,6 +223,139 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2818",
+      "family_ref": "A-2818",
+      "bundle_name": "Trump Truth Social AI Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2818.1",
+          "ref": "A-2818.1",
+          "description": "Host verbal reference to Trump's Truth Social post of an AI photo of himself and Charlie Kirk with a Star of David in the background (not shown)",
+          "related_claims": [
+            "C-6518"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-1",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:11:02",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2819",
+      "family_ref": "A-2819",
+      "bundle_name": "Trump Memorial Speech Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2819.1",
+          "ref": "A-2819.1",
+          "description": "Host verbal reference to Trump's memorial speech story about Charlie interviewing fourth grader Breland Holland (not shown)",
+          "related_claims": [
+            "C-6523"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-1",
+            "N-770"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2820",
+      "family_ref": "A-2820",
+      "bundle_name": "Charlie Kirk Close-Up Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2820.1",
+          "ref": "A-2820.1",
+          "description": "Host verbal reference to close-up videos of Charlie Kirk being carried after the shooting without first aid (not shown)",
+          "related_claims": [
+            "C-6529"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:36",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2821",
+      "family_ref": "A-2821",
+      "bundle_name": "Alex Clark Interview With Kolvet and Erika Kirk Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2821.1",
+          "ref": "A-2821.1",
+          "description": "Host verbal reference to an Alex Clark interview with Andrew Kolvet and Erika Kirk about whether Charlie was Catholic (not shown)",
+          "related_claims": [
+            "C-6530"
+          ],
+          "related_nodes": [
+            "N-99",
+            "N-14",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:29:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2822",
+      "family_ref": "A-2822",
+      "bundle_name": "Viewer Comment on Maxwell Textbooks Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2822.1",
+          "ref": "A-2822.1",
+          "description": "Host reads a viewer comment about Maxwell textbooks",
+          "related_claims": [
+            "C-6548"
+          ],
+          "related_nodes": [
+            "N-47",
+            "N-48"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:53:20",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -372,7 +505,29 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6512",
+        "C-6513",
+        "C-6514",
+        "C-6515",
+        "C-6516",
+        "C-6518",
+        "C-6519",
+        "C-6520",
+        "C-6523",
+        "C-6524",
+        "C-6525",
+        "C-6528",
+        "C-6529",
+        "C-6530",
+        "C-6531",
+        "C-6532",
+        "C-6534",
+        "C-6535",
+        "C-6545",
+        "C-6546",
+        "C-6547"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -388,7 +543,10 @@
       "type": "person",
       "description": "Person Susie Wiles (N-132).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1520",
+        "C-1526"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -403,7 +561,32 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6512",
+        "C-6513",
+        "C-6515",
+        "C-6518",
+        "C-6521",
+        "C-6522",
+        "C-6523",
+        "C-6526",
+        "C-6529",
+        "C-6531",
+        "C-6532",
+        "C-6534",
+        "C-6535",
+        "C-6539",
+        "C-6541",
+        "C-6542",
+        "C-6543",
+        "C-6544",
+        "C-6545",
+        "C-6546",
+        "C-6547",
+        "C-6549",
+        "C-6550",
+        "C-6551"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -435,7 +618,14 @@
       "type": "person",
       "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6535",
+        "C-6536",
+        "C-6537",
+        "C-6538",
+        "C-6539",
+        "C-6540"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -451,13 +641,490 @@
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-6524",
+        "C-6525"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10025",
+      "ref": "N-10025",
+      "name": "Israel Lobby Pressure on Conservative Figures",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6519",
+        "C-6534",
+        "C-6540"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10047",
+      "ref": "N-10047",
+      "name": "Donor Intimidation of Charlie Kirk",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6533",
+        "C-6534",
+        "C-6547"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10081",
+      "ref": "N-10081",
+      "name": "Israel Influence on US Politics",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6550"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10139",
+      "ref": "N-10139",
+      "name": "Operation Mocking Pastor",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6531"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10166",
+      "ref": "N-10166",
+      "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6517"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10319",
+      "ref": "N-10319",
+      "name": ".30-06 Forensic Narrative Validity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6520"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10323",
+      "ref": "N-10323",
+      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6532"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10350",
+      "ref": "N-10350",
+      "name": "Charlie Kirk Catholicism Journey",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6530"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10353",
+      "ref": "N-10353",
+      "name": "Rob McCoy Wikipedia TPUSA Faith Entry",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6514"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host relays his account of Charlie's instructions and the Alex Clark interview.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6527",
+        "C-6528",
+        "C-6530",
+        "C-6533"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-182",
+      "ref": "N-182",
+      "name": "Jared Kushner",
+      "type": "person",
+      "description": "Named by the host regarding Israel investments.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6540"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Host says he is missing from the Charlie Kirk Show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6527",
+        "C-6528"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow and TPUSA CEO; named in the Don Jr. clip and in the Wikipedia timing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6516",
+        "C-6530",
+        "C-6536"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-213",
+      "ref": "N-213",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "Official whose inquiry the host urges to continue.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6526"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Named in a viewer comment about the Wikipedia creator.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6549"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-336",
+      "ref": "N-336",
+      "name": "Tulsi Gabbard",
+      "type": "person",
+      "description": "DNI named alongside Joe Kent.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6526"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Charged suspect; the host disputes that he acted alone.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6519",
+        "C-6520"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-47",
+      "ref": "N-47",
+      "name": "Ghislaine Maxwell",
+      "type": "person",
+      "description": "Named in the viewer comment on Maxwell textbooks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6548"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-48",
+      "ref": "N-48",
+      "name": "Robert Maxwell",
+      "type": "person",
+      "description": "Ghislaine Maxwell's father, discussed regarding textbook publishing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6548"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "President; subject of the AI photo, memorial speech story and Epstein remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6518",
+        "C-6523",
+        "C-6538"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-674",
+      "ref": "N-674",
+      "name": "Ivanka Trump",
+      "type": "person",
+      "description": "Named by the host regarding Israel investments.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6540"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Named in the host's remarks about Don Jr., Trump and the Maxwell textbook comment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6538",
+        "C-6548"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Bob Shulman",
+      "type": "person",
+      "description": "Donor the host says withdrew 2 million dollars from TPUSA (transcript: Bob Showman).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6533"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Interviewer of Kolvet and Erika Kirk, per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6530"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11100",
+      "ref": "N-11100",
+      "name": "Charlie Kirk Post-Shooting First Aid Question",
+      "type": "topic",
+      "description": "The host's claims that Kirk received no first aid after being shot and her account of Kolvet's explanation that Kirk had told them not to help him if shot in the neck.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6528",
+        "C-6529"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11101",
+      "ref": "N-11101",
+      "name": "TPUSA Wikipedia Cleanup Operative Claim",
+      "type": "topic",
+      "description": "The host's recollection that Charlie Kirk told her TPUSA had found a person to clean up Wikipedia pages, and her question who made the McCoy edit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6515"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-770",
+      "ref": "N-770",
+      "name": "Breland Holland",
+      "type": "person",
+      "description": "First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6523"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -706,6 +1373,767 @@
         "N-203",
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6512",
+      "ref": "C-6512",
+      "label": "Host Says Charlie Was a Gifted Child Whose Parents Refused ADHD Medication",
+      "claim": "The host says that as a child Charlie Kirk was so hyperactive that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:24",
+      "investigative_direction": "Ask the Kirk family or early associates to confirm the childhood schooling and the ADHD medication decision; look for school records or biographies that mention it.",
+      "transcript_snippet": "of course doctors immediately wanted to put him on ADHD medicine because well why is he so hyperactive?",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6513",
+      "ref": "C-6513",
+      "label": "Host Believes Charlie Was Assigned Life Handlers After Gifted Schooling",
+      "claim": "The host says she truly believes Charlie Kirk was probably assigned 'life handlers' from the time he entered a school for gifted children, and speculates that standardized tests exist so the government can track high performers.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:24",
+      "investigative_direction": "No document is cited; the claim is speculation and would need records of any monitoring programme tied to Kirk's schooling.",
+      "transcript_snippet": "I truly believe that he was probably assigned like life handlers from that moment on.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6514",
+      "ref": "C-6514",
+      "label": "Wikipedia Entry Text Says McCoy Co-Chaired TPUSA Faith and Inspired Kirk",
+      "claim": "The host reads the new Wikipedia entry as saying McCoy is co-chairman of TPUSA Faith, is a Pentecostal pastor in the Calvary Chapel Association, and inspired Kirk to amalgamate Christianity and social conservatism.",
+      "anchored_artifacts": [
+        "A-1283.2"
+      ],
+      "related_nodes": [
+        "N-10353"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:03",
+      "investigative_direction": "Pull the revision of the TPUSA Wikipedia article saved on 11 September 2025 and compare the exact wording and cited sources with what the host read.",
+      "transcript_snippet": "McCoy is the co-chairman of TPUs faith, aligned with the Christian right, McCoy inspired Kirk to amalgamate Christianity and social conservatism.",
+      "supports_claim_refs": [
+        "C-1514"
+      ],
+      "mentions_person_refs": [
+        "N-17",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6515",
+      "ref": "C-6515",
+      "label": "Host Says Charlie Told Her TPUSA Had Found Someone to Clean Up Wikipedia Pages",
+      "claim": "The host says Charlie Kirk told her that Turning Point USA had found a person who could clean up Wikipedia pages, that organizations pay people to do this full time, and that she cannot yet recall who the person was.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11101",
+        "N-10200"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:48",
+      "investigative_direction": "Search the host's saved messages with Charlie Kirk for the Wikipedia-cleanup contact, and compare Wikipedia edit histories of TPUSA pages for paid-editor disclosures.",
+      "transcript_snippet": "I know he told me that they Turning Point USA's organization had found a guy that could help clean up the Wikipedia pages.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6516",
+      "ref": "C-6516",
+      "label": "Host Says Erika Kirk Had Not Yet Been Announced as Chair and CEO When the Edit Was Made",
+      "claim": "The host says that less than 36 hours after the shooting she does not think TPUSA had yet announced Erika Kirk as chairman and CEO, and does not think Charlie's body had returned to Arizona, yet someone had already added McCoy to Wikipedia.",
+      "anchored_artifacts": [
+        "A-1283.2"
+      ],
+      "related_nodes": [
+        "N-10200"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:58",
+      "investigative_direction": "Compare the Wikipedia edit timestamp of 10:34 PM ET on 11 September 2025 with the TPUSA announcement of Erika Kirk as CEO and with the date Kirk's body returned to Arizona.",
+      "transcript_snippet": "I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-17",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6517",
+      "ref": "C-6517",
+      "label": "Host Says McCoy Is Paid by TPUSA Faith for Upcoming Pastor Summits",
+      "claim": "The host says Rob McCoy was one of the advisers on the TPUSA Faith advisory board, that he gets paid by TPUSA Faith for its upcoming pastor summits, and that he would benefit financially from the direction the division was taking.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10166"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:58",
+      "investigative_direction": "Request TPUSA Faith contracts, speaker agreements or IRS Form 990 compensation disclosures showing payments to McCoy.",
+      "transcript_snippet": "I know that he gets paid um by TP US faith upcoming uh pastor summits",
+      "mentions_person_refs": [
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6518",
+      "ref": "C-6518",
+      "label": "Host Says Trump Posted an AI Photo of Himself and Charlie With a Star of David",
+      "claim": "The host says that when Charlie Kirk died, Trump rushed to post on Truth Social an AI image of himself and Charlie with a Star of David in the background, and that she knew then the investigation was over.",
+      "anchored_artifacts": [
+        "A-2818.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:02",
+      "investigative_direction": "Locate the original Truth Social post, its date and the image, and verify whether the image is AI generated and contains a Star of David.",
+      "transcript_snippet": "when Trump rushed to tweet out that or social truth social out that photo, that AI photo of him and Charlie with the star of David in the background.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6519",
+      "ref": "C-6519",
+      "label": "Host Says Pro-Israel Figures Were the Most Insistent That Questions About Charlie's Death Stop",
+      "claim": "The host says the people most insistent from the early hours that others stop asking about Charlie Kirk's death were those dedicated to the Israel lobby, and challenges viewers to find one pro-Israel person with a platform who says Tyler Robinson did not kill Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:02",
+      "investigative_direction": "Survey public statements by prominent pro-Israel commentators on the Robinson case to test the host's challenge.",
+      "transcript_snippet": "Find me one, just one real life pro-Israel individual who is expressing that they don't believe that Charlie Kirk was killed by Tyler Robinson.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6520",
+      "ref": "C-6520",
+      "label": "Host Says the Evidence Is Overwhelming That Robinson Did Not Act Alone, Fire the Shot or Use a .30-06",
+      "claim": "The host says the evidence is overwhelming that Tyler Robinson did not act alone, did not fire the shot and did not use a .30-06 rifle.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10319"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:02",
+      "investigative_direction": "Compare the host's cited evidence with the charging documents, the ballistics report and the recovered rifle record.",
+      "transcript_snippet": "The evidence is overwhelming that Tyler Robinson didn't act alone, that Tyler Robinson didn't fire the shot, that Tyler Robinson didn't use a 30 odd six.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6521",
+      "ref": "C-6521",
+      "label": "Host Says TPUSA Clears About a Hundred Million Dollars a Year",
+      "claim": "The host says Turning Point USA is clearing about a hundred million dollars a year and still asks the public to give more.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:10",
+      "investigative_direction": "Check TPUSA's Form 990 filings for total annual revenue and compare with the host's later figure of 70 million in the last year.",
+      "transcript_snippet": "Clearing like a hundred million a year. They don't have enough.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6522",
+      "ref": "C-6522",
+      "label": "Host Says the Feds Probably Killed Martin Luther King Jr.",
+      "claim": "The host says that when the feds line up to give someone a holiday it is never good, and that she thinks the feds definitely killed Martin Luther King Jr.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:10",
+      "investigative_direction": "Off-topic historical assertion recorded as said; no document is cited.",
+      "transcript_snippet": "I think maybe the feds definitely killed Martin Luther King Jr.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6523",
+      "ref": "C-6523",
+      "label": "Host Says Trump Told a Memorial Story About Charlie and Breland Holland Although Trump Was Not There",
+      "claim": "The host says Trump, in his speech at Charlie Kirk's memorial, told a story about Charlie interviewing a fourth grader named Breland Holland, that Trump was not present and that she herself was next to Charlie at that interview.",
+      "anchored_artifacts": [
+        "A-2819.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:15",
+      "investigative_direction": "Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Breland Holland to see who attended.",
+      "transcript_snippet": "Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Breland Holland?",
+      "mentions_person_refs": [
+        "N-5",
+        "N-1",
+        "N-3",
+        "N-770"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6524",
+      "ref": "C-6524",
+      "label": "Host Says Kash Patel Attended Charlie's Memorial",
+      "claim": "The host says Kash Patel showed his face at Charlie Kirk's memorial, and says she would have died of shame before attending as Patel.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:09",
+      "investigative_direction": "Check the memorial attendee list and event footage for Patel.",
+      "transcript_snippet": "I would pass away right immediately from shame before I would show up to that event if I was Kash Patel.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6525",
+      "ref": "C-6525",
+      "label": "Host Says Patel Limits the Kirk Case to a Very Small Team at the FBI",
+      "claim": "The host says Kash Patel has a very small team of people at the FBI who are allowed to touch anything pertaining to the Charlie Kirk case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10202"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:58",
+      "investigative_direction": "Request FBI organizational records or congressional testimony describing who has access to the Kirk case file.",
+      "transcript_snippet": "he's got a very small team of people at the FBI that are allowed to touch anything pertaining to the Charlie Kirk case",
+      "mentions_person_refs": [
+        "N-69",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6526",
+      "ref": "C-6526",
+      "label": "Host Says She Suspects Foreign Entities Were Involved and Is Getting Close",
+      "claim": "The host says she and her team are getting very close to what happened on the day, that she is getting the suspicion that foreign entities were involved, and asks Joe Kent and Tulsi Gabbard to keep going.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10202"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:45",
+      "investigative_direction": "Ask the host to identify the evidence behind the suspicion of foreign involvement, and compare with the Kent inquiry reported by the New York Times.",
+      "transcript_snippet": "I'm getting the suspicion that there were some foreign entities involved.",
+      "mentions_person_refs": [
+        "N-213",
+        "N-336",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6527",
+      "ref": "C-6527",
+      "label": "Host Says Mikey McCoy and Kolvet Were Absent From the Charlie Kirk Show",
+      "claim": "The host says Mikey McCoy, who took the seat after Charlie, is missing from the Charlie Kirk Show and that Andrew Kolvet was missing from the episode of that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:26:49",
+      "investigative_direction": "Check the Charlie Kirk Show episode listing and host roster for the date of this episode.",
+      "transcript_snippet": "Mikey McCoy is missing um from the Charlie Kirk show.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6528",
+      "ref": "C-6528",
+      "label": "Host Relays Kolvet's Account That Charlie Said Not to Help Him If Shot in the Neck",
+      "claim": "The host says Andrew Kolvet told people Charlie was explicit that if he was ever shot at an event in the left side of the neck, the first thing he wanted was for people not to help him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11100"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:49",
+      "investigative_direction": "Find Kolvet's original statement and who heard Charlie say it; ask security and staff whether any such instruction existed.",
+      "transcript_snippet": "Charlie said, \"If I ever get shot at an event, the left side of my neck, the first thing I want you to do is not help me.\"",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6529",
+      "ref": "C-6529",
+      "label": "Host Says Charlie Was Given No First Aid and the Wound Was Not Secured",
+      "claim": "The host says Charlie Kirk was not administered any first aid, that she has close-up videos of this, and that no gauze was applied and the wound was not secured as they carried him to the hospital.",
+      "anchored_artifacts": [
+        "A-2820.1"
+      ],
+      "related_nodes": [
+        "N-11100"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:36",
+      "investigative_direction": "Review the close-up videos and medical records and interview the security team on first aid steps taken before transport.",
+      "transcript_snippet": "He was not administered any first aid. I have the close-up videos of that.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6530",
+      "ref": "C-6530",
+      "label": "Host Says Alex Clark Released an Interview in Which Kolvet Said Charlie and Erika Were Committed Evangelicals",
+      "claim": "The host says Alex Clark released an interview with Andrew Kolvet and Erika Kirk days after the memorial in which they said Charlie and Erika were committed evangelicals who liked the smells and bells but not the substance of Catholicism.",
+      "anchored_artifacts": [
+        "A-2821.1"
+      ],
+      "related_nodes": [
+        "N-10350"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:08",
+      "investigative_direction": "Locate the Alex Clark interview and check what Kolvet and Erika Kirk said about Catholicism.",
+      "transcript_snippet": "Alex Clark released that interview with her and Andrew Kovette and they struggle sessioned through that.",
+      "supports_claim_refs": [
+        "C-1255"
+      ],
+      "mentions_person_refs": [
+        "N-99",
+        "N-14",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6531",
+      "ref": "C-6531",
+      "label": "Host Says Operation Mocking Pastor Figures Denied the Catholic Point",
+      "claim": "The host says that after she mildly said Charlie was close to converting, accounts she calls Operation Mocking Pastor or mocking evangelical influencers went out saying it was not true.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10139"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:08",
+      "investigative_direction": "Collect the public denials from evangelical influencers and compare dates with the host's earlier statements.",
+      "transcript_snippet": "operation mocking pastor or mocking evangelical influencer went out and they all were like, \"That's not true.",
+      "supports_claim_refs": [
+        "C-1255"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6532",
+      "ref": "C-6532",
+      "label": "Host Says Charlie Had a Catholic Funeral Mass and Is Buried in a Catholic Cemetery",
+      "claim": "The host says the reason there has been no burial coverage is that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10323",
+        "N-10201"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:08",
+      "investigative_direction": "Check parish and cemetery records, the funeral program and public notices for the rite and burial location.",
+      "transcript_snippet": "Charlie had a Catholic funeral mass and he is buried in a Catholic cemetery.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6533",
+      "ref": "C-6533",
+      "label": "Host Says Bob Showman Took $2 Million Away and TPUSA Brought In 70 Million Last Year",
+      "claim": "The host says donor Bob Showman took 2 million dollars away from Turning Point USA and that, by her account, the organization brought in 70 million dollars last year, questioning whether the donors Kolvet called a small portion cut the bigger checks.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10047"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:22",
+      "investigative_direction": "Obtain TPUSA's Form 990 and donor records for the year and verify the 70 million total and the 2 million withdrawal.",
+      "transcript_snippet": "Like Bob Showman took $2 million away. That's got to mean something.",
+      "mentions_person_refs": [
+        "N-98",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6534",
+      "ref": "C-6534",
+      "label": "Host Says Donors Are Pressuring TPUSA Staff to Maintain That Charlie Died Pro-Israel",
+      "claim": "The host says she thinks donors have insisted and are pressuring TPUSA people, as she is hearing, to maintain the idea that Charlie died pro-Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10047",
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:22",
+      "investigative_direction": "Identify the sources the host says she is hearing from and any messages from donors asking TPUSA to maintain a pro-Israel framing.",
+      "transcript_snippet": "I think they insisted and are pressuring them as we are hearing to maintain the idea that Charlie died pro-Israel.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6535",
+      "ref": "C-6535",
+      "label": "Host Says Don Jr. Helped Build Turning Point USA and Did Campus Events With Her and Charlie",
+      "claim": "The host says Donald Trump Jr. helped build Turning Point USA, did many college campus events with her and Charlie, and was the most committed Trump family member to TPUSA's early story.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:32:12",
+      "investigative_direction": "Check TPUSA campus event schedules and photos from 2016 to 2018 for Don Jr. appearances.",
+      "transcript_snippet": "Don Jr., by the way, I would say was one of the people who very much helped to build Turning Point USA.",
+      "mentions_person_refs": [
+        "N-33",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6536",
+      "ref": "C-6536",
+      "label": "Don Jr. Says He Has Spoken to Erika and Others and Does Have Confidence",
+      "claim": "In the Megyn Kelly clip Don Jr. says he has spoken to everyone around, including Erika, and that he does have confidence in the FBI investigation.",
+      "anchored_artifacts": [
+        "A-1287.1"
+      ],
+      "related_nodes": [
+        "N-10202"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:50",
+      "investigative_direction": "Obtain the unedited Kelly interview and ask Don Jr. which people and what information he based his confidence on.",
+      "transcript_snippet": "but I've spoken to everyone, you know, around and, you know, Erika and like like I I I do have confidence",
+      "mentions_person_refs": [
+        "N-33",
+        "N-46",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6537",
+      "ref": "C-6537",
+      "label": "Don Jr. Says a Cottage Industry Profiteers Off Conspiracy Theories",
+      "claim": "In the same clip Don Jr. says there is a cottage industry of clicks and people happy to profiteer off conspiracy theories, that some of it goes off the rails, and that it has been used by the other side as a distraction.",
+      "anchored_artifacts": [
+        "A-1287.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:48",
+      "investigative_direction": "Obtain the full clip and ask which accounts or claims Don Jr. meant by the cottage industry.",
+      "transcript_snippet": "there there is a cottage industry of just clicks and people that are more than happy to you know to profiteer you know off of that.",
+      "mentions_person_refs": [
+        "N-33",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6538",
+      "ref": "C-6538",
+      "label": "Host Says Don Jr. Was Vocal About the Epstein Files Until His Father Asked If They Were Still Talking About Epstein",
+      "claim": "The host says Don Jr. was one of the most vocal people about the Jeffrey Epstein files until his father said, 'Are we still talking about Jeffrey Epstein?'",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:31",
+      "investigative_direction": "Compare Don Jr.'s public posts on the Epstein files over time with Trump's remarks.",
+      "transcript_snippet": "He was actually one of the people that was the most vocal about the Jeffrey Epste files until dad said, \"Are we still talking about Jeffrey Epstein?\"",
+      "mentions_person_refs": [
+        "N-33",
+        "N-5",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6539",
+      "ref": "C-6539",
+      "label": "Host Recounts Fishing With Don Jr. in British Columbia",
+      "claim": "The host says her favorite fishing experience was with Don Jr., fighting back sea lions or seals in British Columbia, and that he taught her about hunting and the wild.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:46",
+      "investigative_direction": "Personal anecdote recorded as said; trip dates would be needed to verify.",
+      "transcript_snippet": "my favorite fishing experience is actually with you, right? fighting back uh the sea lions or the seals in British Columbia.",
+      "mentions_person_refs": [
+        "N-33",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6540",
+      "ref": "C-6540",
+      "label": "Host Says Jared and Ivanka's Israel Investments Explain Trump Family Silence",
+      "claim": "The host says the Trump family understands Jared, Ivanka and their investments in Israel and the pressure from Zionists to be quiet, and says Don Jr. does not truly believe the official account.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:46",
+      "investigative_direction": "Review disclosures of Kushner and Ivanka Trump investments in Israel and any contact with Don Jr. on the Kirk case.",
+      "transcript_snippet": "They understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet",
+      "mentions_person_refs": [
+        "N-182",
+        "N-674",
+        "N-33"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6541",
+      "ref": "C-6541",
+      "label": "Host Says Finkelstein Interview Will Be Released on Friday",
+      "claim": "The host says she sat down with Norman Finkelstein for an interview, just over two hours long, to be released on Friday.",
+      "anchored_artifacts": [
+        "A-1288.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:19",
+      "investigative_direction": "Compare the release date of the Finkelstein interview with the host's stated Friday.",
+      "transcript_snippet": "have a conversation which we will be releasing on Friday uh with Norman Finkelestein.",
+      "mentions_person_refs": [
+        "N-203",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6542",
+      "ref": "C-6542",
+      "label": "Host Says She Had Finkelstein on Her Show After October 7 While at the Daily Wire",
+      "claim": "The host says Norman Finkelstein was the reason she had him on her show shortly after October 7, when she worked at the Daily Wire, and what he told her pushed her to learn more about Gaza.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:40:13",
+      "investigative_direction": "Locate the Daily Wire episode with Finkelstein and check its date.",
+      "transcript_snippet": "was the reason I had him on my show right after October 7th, sometime shortly thereafter when I was at the Daily Wire.",
+      "mentions_person_refs": [
+        "N-203",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6543",
+      "ref": "C-6543",
+      "label": "Host Says She and Her Husband Travel With Priests",
+      "claim": "The host says that when they were in Wyoming her family traveled with priests, something she and her husband began doing a year or two ago, and explains the new relic behind her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:07",
+      "investigative_direction": "Personal statement recorded as said; no document is cited.",
+      "transcript_snippet": "when we were in Wyoming, we traveled with priests.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6544",
+      "ref": "C-6544",
+      "label": "Host Says a TPUSA Employee Dreamed of Six Snakes Around a Colleague Before the Shooting",
+      "claim": "The host says a young woman at Turning Point emailed her that the week before the assassination she had a vivid dream of six snakes around a colleague, and that many people dreamed of the number six.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:45",
+      "investigative_direction": "Anecdote from unnamed email recorded as said; unverifiable without the email.",
+      "transcript_snippet": "I had a very vivid dream about so and so at the company and six snakes that were around him.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6545",
+      "ref": "C-6545",
+      "label": "Host Says Dreams Suggest Six People Betrayed Charlie",
+      "claim": "The host says she is going by a vibe that six people may have betrayed Charlie because there were so many dreams involving the number six.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:42",
+      "investigative_direction": "Speculation from dreams recorded as said; no evidentiary basis offered.",
+      "transcript_snippet": "I'm kind of going by a vibe that there may be six people who betrayed him by the end of this",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6546",
+      "ref": "C-6546",
+      "label": "Host Says Charlie Knew His Life Would Be Short and That She Would Defend Him",
+      "claim": "The host says Charlie knew his life was going to be short and knew that she would be the only one to defend him publicly and go to war with everyone.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:50:36",
+      "investigative_direction": "Look for Charlie's messages or recorded remarks indicating he expected a short life and expected the host's defense.",
+      "transcript_snippet": "he knew his life was going to be short.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6547",
+      "ref": "C-6547",
+      "label": "Host Says the Big Jewish Donors at TPUSA Pressured Charlie",
+      "claim": "The host says she is not supported by the big donors, including the Jewish donors at Turning Point USA who were pressuring Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10047"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:23",
+      "investigative_direction": "Compare with Charlie's own messages about donor pressure referenced in earlier episodes, and TPUSA donor records.",
+      "transcript_snippet": "the big donors, the Jewish donors at Turning Point USA who are pressuring Charlie",
+      "supports_claim_refs": [
+        "C-1258"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6548",
+      "ref": "C-6548",
+      "label": "Host Says Ghislaine Maxwell's Father Began Maxwell Macmillan, Which Published Textbooks",
+      "claim": "Reading a viewer comment about Maxwell-published textbooks, the host says Ghislaine Maxwell's father began alongside Macmillan, publishing school textbooks, which she calls coming from the Jeffrey Epstein empire.",
+      "anchored_artifacts": [
+        "A-2822.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:53:20",
+      "investigative_direction": "Verify Robert Maxwell's ownership of Macmillan Publishers and the textbook imprints published under it; the host says 'don't quote me'.",
+      "transcript_snippet": "Gileian Maxwell's father did indeed uh begin alongside I think it was McMillan, don't quote me, uh it was like Maxwell McMillan publishing our textbooks",
+      "mentions_person_refs": [
+        "N-47",
+        "N-48",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6549",
+      "ref": "C-6549",
+      "label": "Host Says a Clip Showed an Israeli Leader Training People to Edit Wikipedia",
+      "claim": "Responding to a viewer comment that Tucker Carlson interviewed Wikipedia's creator, the host says a clip she has shown before has someone, before he became prime minister of Israel, showing how people were trained to edit Wikipedia to favor the Zionist cause.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10200"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:20",
+      "investigative_direction": "Identify the clip the host refers to and the speaker, then verify what the clip actually shows.",
+      "transcript_snippet": "he showed how they were training people to edit articles in Wikipedia so that it favored Zionist and the Zionist cause",
+      "mentions_person_refs": [
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6550",
+      "ref": "C-6550",
+      "label": "Host Says Israel Is Buying Bots and Wants TikTok to Isolate Opinion",
+      "claim": "The host says Israel is buying many bots on the internet, that this is why it wants TikTok, and that the aim is to isolate people so they feel everyone disagrees.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10081"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:40",
+      "investigative_direction": "Identify the reporting the host refers to when she says 'as we learned' about bot buying.",
+      "transcript_snippet": "Uh they're buying so many bots on the internet. It's a stake that Israel is taking.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6551",
+      "ref": "C-6551",
+      "label": "Host Says Feminism Was a Government Initiative Sponsored by Children of Bolsheviks",
+      "claim": "While promoting her book, the host says the feminist movement had nothing to do with supporting women and was a government initiative sponsored by the children of Bolsheviks.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:55:42",
+      "investigative_direction": "Historical assertion recorded as said; see the sources in the host's book.",
+      "transcript_snippet": "it was a government initiative uh sponsored by the children of Bolsheviks obviously",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": [
@@ -726,6 +2154,29 @@
           "tags": [
             "reuse",
             "memelink_backfill"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-46",
+      "ref": "M-46",
+      "canonical_term": "Handler",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 21,
+          "video_timestamp": "00:03:03",
+          "speaker_node_ref": "N-3",
+          "quote": "mind, because I truly believe that he was probably assigned like life handlers from that moment on. Something probably takes place. If you go to a ...",
+          "context": "Later reuse of Handler in CKA seq 21.",
+          "confidence": "high",
+          "tags": [
+            "intel",
+            "operators",
+            "theory",
+            "reuse"
           ]
         }
       ]

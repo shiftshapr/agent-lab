@@ -12,6 +12,7 @@
 - **Transcript SHA-256**: abf411b35a1c49c8915e52ea39f1d73231f7b5aadc58d672dbdeebbe68b7d8d3
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (reintro-ep012): N-799
   - New Nodes Introduced: N-133, N-134, N-135, N-10146, N-10147, N-10148, N-10149, N-10150, N-10151
   - Reused Nodes Appearing: 
 
@@ -161,9 +162,7 @@ Video Timestamp: 00:06:43–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1328, N-61, N-133*
-
----
+*Related: C-1328, N-61, N-133, N-799*---
 
 **A-1193** Gernot Omer LinkedIn profile
 
@@ -210,6 +209,14 @@ Confidence Level: Low
 ## 4. Node Register
 
 ### People
+
+**N-799** Mike Lee
+
+US Senator from Utah; first named in A-1192.2.
+
+*Related: A-1192.2*
+
+---
 
 **N-133** Shainer Broderick
 

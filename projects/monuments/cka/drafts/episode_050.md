@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-730, N-11024, N-11025, N-11026
-  - Hole-minted Nodes (reintro-ep050): N-587, N-10393, N-10406, N-10416, N-10447
+  - Hole-minted Nodes (reintro-ep050): N-587, N-10393
   - Tip-minted Nodes (reintro-ep050): N-10912
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5349–C-5419
@@ -35,7 +35,7 @@
   - Artifact Families Introduced: A-1561, A-1562, A-1563, A-1564, A-1565, A-1566, A-1567
   - Claim Range: C-1980–C-1988
   - New Nodes Introduced: N-372, N-373, N-374, N-10370, N-10371, N-10372, N-10374
-  - Reused Nodes Appearing: N-14, N-27, N-32, N-36, N-46, N-64, N-111, N-164, N-166, N-205, N-265, N-284, N-326, N-10000, N-10008, N-10015, N-10026, N-10238, N-10253, N-10268, N-10326, N-10333, N-10341, N-10451, N-10373
+  - Reused Nodes Appearing: N-14, N-27, N-32, N-36, N-46, N-64, N-111, N-164, N-166, N-205, N-265, N-284, N-326, N-10000, N-10008, N-10015, N-10026, N-10238, N-10253, N-10268, N-10326, N-10333, N-10341, N-10451, N-10373, N-10406, N-10416, N-10447
   - Existing Nodes Reused: N-1, N-2, N-11
 
 ---

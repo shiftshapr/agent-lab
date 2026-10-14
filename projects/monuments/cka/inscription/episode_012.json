@@ -291,8 +291,9 @@
             "C-1328"
           ],
           "related_nodes": [
+            "N-133",
             "N-61",
-            "N-133"
+            "N-799"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -699,6 +700,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-799",
+      "ref": "N-799",
+      "name": "Mike Lee",
+      "type": "person",
+      "description": "US Senator from Utah; first named in A-1192.2.",
+      "related_artifacts": [
+        "A-1192.2"
+      ],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -987,5 +1005,70 @@
       ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "00:46:56",
+          "speaker_node_ref": "N-3",
+          "quote": "We don't know no, but we know is the new stand is cup. That just dropped is pretty good. We don't know no, but we know.",
+          "context": "Merch drop productizes the catchphrase on a stand cup.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "catchphrase"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "00:43:23",
+          "speaker_node_ref": "N-3",
+          "quote": "No matter what videos I've seen from people on the left or right calling you crazy, I call it fake and gay.",
+          "context": "Viewer comment elevated; host affirms truth-vs-campaign framing.",
+          "confidence": "high",
+          "tags": [
+            "viewer_refrain",
+            "catchphrase"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-40",
+      "ref": "M-40",
+      "canonical_term": "Truman Show",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 12,
+          "video_timestamp": "00:37:42",
+          "speaker_node_ref": "N-3",
+          "quote": "wondering whether Charlie's entire life was the Truman Show.",
+          "context": "Host disgust-frame: surrounding behavior feels scripted like Truman Show.",
+          "confidence": "high",
+          "tags": [
+            "staged",
+            "metaphor",
+            "deferred_pass1"
+          ]
+        }
+      ]
+    }
+  ]
 }

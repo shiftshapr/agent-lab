@@ -367,6 +367,135 @@
           "video_timestamp": "~44:22"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2873",
+      "family_ref": "A-2873",
+      "bundle_name": "White House Meeting Source Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2873.1",
+          "ref": "A-2873.1",
+          "description": "Host verbal reference to a White House employee who confirmed a Kolvet White House meeting (nothing shown)",
+          "related_claims": [
+            "C-7352",
+            "C-7353"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:00:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2874",
+      "family_ref": "A-2874",
+      "bundle_name": "Curtis Family Biography Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2874.1",
+          "ref": "A-2874.1",
+          "description": "Host verbal reference to names and biography of the rookie officer and his father obtained from sleuths (nothing shown)",
+          "related_claims": [
+            "C-7374",
+            "C-7375"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:21:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2875",
+      "family_ref": "A-2875",
+      "bundle_name": "Richmond Inspector General Local News Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2875.1",
+          "ref": "A-2875.1",
+          "description": "Host verbal reference to June 2025 local news reports on Richmond's inspector general firing (nothing shown)",
+          "related_claims": [
+            "C-7377",
+            "C-7378"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:22:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2876",
+      "family_ref": "A-2876",
+      "bundle_name": "CIA Crew Neck Merch Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2876.1",
+          "ref": "A-2876.1",
+          "description": "Host verbal reference to the CIA crew neck merchandise on her website",
+          "related_claims": [
+            "C-7399"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:54:39",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2877",
+      "family_ref": "A-2877",
+      "bundle_name": "Preliminary Hearing Firearm Evidence Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2877.1",
+          "ref": "A-2877.1",
+          "description": "Host verbal reference to preliminary hearing testimony on the dusty barrel and the degraded fingerprints (not shown)",
+          "related_claims": [
+            "C-7368",
+            "C-7369"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:17:12",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -480,7 +609,15 @@
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7361",
+        "C-7362",
+        "C-7388",
+        "C-7389",
+        "C-7390",
+        "C-7392",
+        "C-7394"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -496,7 +633,12 @@
       "type": "person",
       "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7363",
+        "C-7386",
+        "C-7387",
+        "C-7388"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -512,7 +654,11 @@
       "type": "person",
       "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7382",
+        "C-7383",
+        "C-7384"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -528,13 +674,888 @@
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-7361",
+        "C-7364",
+        "C-7365",
+        "C-7368",
+        "C-7369",
+        "C-7396"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Existing organization reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7354",
+        "C-7388",
+        "C-7396"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10061",
+      "ref": "N-10061",
+      "name": "CIA Operation Mockingbird",
+      "type": "investigation_target",
+      "description": "Existing organization reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7397"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Existing place reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7356"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10075",
+      "ref": "N-10075",
+      "name": "White House",
+      "type": "investigation_target",
+      "description": "Existing place reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7352",
+        "C-7353"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10082",
+      "ref": "N-10082",
+      "name": "CIA",
+      "type": "investigation_target",
+      "description": "Existing organization reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7398"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10132",
+      "ref": "N-10132",
+      "name": "TPUSA DOGE Department / Financial Audit",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10229",
+      "ref": "N-10229",
+      "name": "Autopsy Report and Evidence Access Asymmetry",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7392"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10314",
+      "ref": "N-10314",
+      "name": "Roof Shooter Video Witness Follow-up",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7359",
+        "C-7360",
+        "C-7366"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10316",
+      "ref": "N-10316",
+      "name": "France / Macron Couple Involvement in Kirk Assassination",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7390"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10318",
+      "ref": "N-10318",
+      "name": "Operation Mockingbird 2.0 Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7397"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7382"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10337",
+      "ref": "N-10337",
+      "name": "Tyler Robinson Prosecution Evidence Base",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7361",
+        "C-7368",
+        "C-7369"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10343",
+      "ref": "N-10343",
+      "name": "Tyler Robinson Rooftop Access Timeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7364",
+        "C-7365"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10434",
+      "ref": "N-10434",
+      "name": "Charlie Kirk DOGE Pre-Death Establishment",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10524",
+      "ref": "N-10524",
+      "name": "Faith Kates – Epstein Relationship Scope",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7385",
+        "C-7386"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10719",
+      "ref": "N-10719",
+      "name": "Prosecution Non-Call of Rooftop Eyewitness",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7360"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10752",
+      "ref": "N-10752",
+      "name": "TPUSA White House Meeting Coordination with Netanyahu Trip",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7352",
+        "C-7353"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10975",
+      "ref": "N-10975",
+      "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+      "type": "investigation_target",
+      "description": "Existing organization reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7368",
+        "C-7369"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11018",
+      "ref": "N-11018",
+      "name": "Pleasant Grove Sheriff's Department",
+      "type": "investigation_target",
+      "description": "Existing organization reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7374"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11019",
+      "ref": "N-11019",
+      "name": "Freya Canine Scent Trace",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7372"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11054",
+      "ref": "N-11054",
+      "name": "Bomb Dog Deployment at the Crime Scene",
+      "type": "investigation_target",
+      "description": "Existing topic reused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7370",
+        "C-7371",
+        "C-7372",
+        "C-7393"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; subject of the host's claims about a cancelled White House meeting and his statements about Charlie's July mood.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7352",
+        "C-7353",
+        "C-7354",
+        "C-7389"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Justin Strife",
+      "type": "person",
+      "description": "TPUSA chief operating officer named by the host as scheduled for the White House meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7352"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7352",
+        "C-7353",
+        "C-7354",
+        "C-7355",
+        "C-7356",
+        "C-7357",
+        "C-7358",
+        "C-7359",
+        "C-7360",
+        "C-7361",
+        "C-7362",
+        "C-7363",
+        "C-7364",
+        "C-7365",
+        "C-7366",
+        "C-7367",
+        "C-7368",
+        "C-7369",
+        "C-7370",
+        "C-7371",
+        "C-7372",
+        "C-7373",
+        "C-7374",
+        "C-7375",
+        "C-7376",
+        "C-7377",
+        "C-7378",
+        "C-7379",
+        "C-7380",
+        "C-7381",
+        "C-7382",
+        "C-7383",
+        "C-7384",
+        "C-7385",
+        "C-7386",
+        "C-7387",
+        "C-7388",
+        "C-7389",
+        "C-7390",
+        "C-7391",
+        "C-7392",
+        "C-7393",
+        "C-7394",
+        "C-7395",
+        "C-7396",
+        "C-7397",
+        "C-7398",
+        "C-7399"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 48,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-33",
+      "ref": "N-33",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Host says he has attended the courthouse with Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7387"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Host notes he was in town the same day or week as the alleged White House meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7352"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-360",
+      "ref": "N-360",
+      "name": "Steve Wynn",
+      "type": "person",
+      "description": "Named by the host as a billionaire guest at the Aspen fundraiser.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7381"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-384",
+      "ref": "N-384",
+      "name": "Ian Carroll",
+      "type": "person",
+      "description": "Host says he built a website on the case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7391"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "One of two people the host says were detained.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7357"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-420",
+      "ref": "N-420",
+      "name": "Zachariah Karashy",
+      "type": "person",
+      "description": "Man the host says was detained and released after the shooting; she raises his father's military app.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7356",
+        "C-7357",
+        "C-7358"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-440",
+      "ref": "N-440",
+      "name": "Brad Parscale",
+      "type": "person",
+      "description": "Host recalls meeting him years ago.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7395"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named by the host re Phelan appointment, fundraiser, manifest release and the Brigitte request.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7380",
+        "C-7381",
+        "C-7382",
+        "C-7390"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-504",
+      "ref": "N-504",
+      "name": "Marina (TPUSA CMO)",
+      "type": "person",
+      "description": "TPUSA chief marketing officer named by the host as scheduled for the White House meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7352"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-505",
+      "ref": "N-505",
+      "name": "\"Frank\" (TPUSA General Counsel)",
+      "type": "person",
+      "description": "In-house legal counsel named by the host as scheduled for the White House meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7352"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-541",
+      "ref": "N-541",
+      "name": "Jean-Luc Brunel",
+      "type": "person",
+      "description": "Epstein associate whom the host describes in her Phelan manifest discussion.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7383",
+        "C-7384",
+        "C-7385"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-582",
+      "ref": "N-582",
+      "name": "Faith Kates",
+      "type": "person",
+      "description": "Head of the modeling firm the host ties to Brunel and Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7385",
+        "C-7386"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Host blames the feds' conduct on his DOJ.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7393"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Subject of the request the host says Trump made through Charlie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7390"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-795",
+      "ref": "N-795",
+      "name": "Mitchell Curtis",
+      "type": "person",
+      "description": "First named by the host at 00:21:00 in episode 133; she says he is a Pleasant Grove officer and 2025 UVU graduate who found the gun.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7374",
+        "C-7375",
+        "C-7379"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-796",
+      "ref": "N-796",
+      "name": "Foster Curtis",
+      "type": "person",
+      "description": "First named by the host at 00:21:00 in episode 133; she says he is Mitchell Curtis's father, a 21-year NCIS veteran.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7375",
+        "C-7377",
+        "C-7378",
+        "C-7379"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-797",
+      "ref": "N-797",
+      "name": "James Osuna",
+      "type": "person",
+      "description": "First named by the host at 00:22:40 in episode 133; she says he was Richmond's inspector general for six years before being fired.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7378"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-798",
+      "ref": "N-798",
+      "name": "John C. Phelan",
+      "type": "person",
+      "description": "First named by the host at 00:27:47 in episode 133 (transcript spelling 'felon failen'); Secretary of the Navy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7380",
+        "C-7381",
+        "C-7382"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11139",
+      "ref": "N-11139",
+      "name": "Manhunt Blurry Still Image Release Question",
+      "type": "topic",
+      "description": "The host's question why the feds released a blurry stairwell still during the 33-hour manhunt when clearer footage existed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7355"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11140",
+      "ref": "N-11140",
+      "name": "Naval Criminal Investigative Service (NCIS)",
+      "type": "organization",
+      "description": "Federal agency the host describes as employing Foster Curtis for 21 years and reporting to the Secretary of the Navy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7375",
+        "C-7376",
+        "C-7377",
+        "C-7380"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11141",
+      "ref": "N-11141",
+      "name": "Foster Curtis Richmond Inspector General Transition",
+      "type": "topic",
+      "description": "The host's account of Foster Curtis leaving NCIS in June 2025 to be Richmond's interim inspector general after the firing of James Osuna.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7377",
+        "C-7378",
+        "C-7379"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11142",
+      "ref": "N-11142",
+      "name": "Zachariah Karashy Detention and Release Question",
+      "type": "topic",
+      "description": "The host's questions about why Zachariah Karashy was arrested and interrogated and then released, and about his father's military app.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7356",
+        "C-7357",
+        "C-7358"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -748,6 +1769,985 @@
       "tags": [],
       "claim_timestamp": "00:51:51",
       "investigative_direction": "Forensic review of the flash frame-by-frame; compare with published time-to-adjust-sights benchmarks for similar firearms."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7352",
+      "ref": "C-7352",
+      "label": "Host Says White House Employee Confirmed a Kolvet White House Meeting",
+      "claim": "The host says a White House employee confirmed to her that a White House meeting was on the books for Andrew Kolvet, the TPUSA chief marketing officer, the chief operating officer Justin Strife and in-house counsel Frank, and that it fell on or near the day Benjamin Netanyahu was in town.",
+      "anchored_artifacts": [
+        "A-2873.1"
+      ],
+      "related_nodes": [
+        "N-10752",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Obtain the White House visitor or scheduling records for the week of the Netanyahu visit and ask TPUSA and the White House to confirm or deny the meeting.",
+      "transcript_snippet": "I was also able to confirm with a White House employee that there certainly was a White House meeting on the books for Andrew Kovette",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-504",
+        "N-15",
+        "N-505",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7353",
+      "ref": "C-7353",
+      "label": "Host Says Meeting Was Cancelled Before Kolvet Denied It",
+      "claim": "The host says a White House source corroborated the meeting, then told her the meeting was suddenly cancelled, after which Andrew Kolvet publicly said he had no White House meeting.",
+      "anchored_artifacts": [
+        "A-2873.1"
+      ],
+      "related_nodes": [
+        "N-10752",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:01",
+      "investigative_direction": "Compare Kolvet's public denial with White House scheduling records and any cancellation notice for the meeting.",
+      "transcript_snippet": "Then today they told me the meeting was suddenly cancelled. And suddenly Andrew Kovett emerges from his 20 25 hour silence and says I have no meeting at the White House.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7354",
+      "ref": "C-7354",
+      "label": "Host Says She Has a Source in Kolvet's Inner Circle",
+      "claim": "The host says she has a source in Andrew Kolvet's inner circle, which she says he does not believe.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:01",
+      "investigative_direction": "Only testable through the host's source; ask TPUSA staff whether the host's reporting matched internal knowledge.",
+      "transcript_snippet": "I did tell you that I have a source in your inner circle. You don't believe me, but it's true.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7355",
+      "ref": "C-7355",
+      "label": "Host Says Feds Released a Blurry Stairwell Still Though Clearer Footage Existed",
+      "claim": "The host says that during the 33-hour manhunt the feds chose to release an extremely blurry still of a man in a stairwell, although she says they had access to the much clearer footage later shown in court.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11139"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:41",
+      "investigative_direction": "Compare the still released during the manhunt with the court exhibit footage and ask the FBI when the clearer footage was available.",
+      "transcript_snippet": "the feds during this manhunt released chose to release an extremely blurry still image of a man in a stairwell.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7356",
+      "ref": "C-7356",
+      "label": "Host Says Zachariah Karashy Was Arrested, Interrogated and Released",
+      "claim": "The host says local police went to Zachariah Karashy's apartment in Provo, he was brought in and interrogated by the feds, and then released, and she asks what evidence led to his arrest and why he was let go.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11142",
+        "N-10074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:41",
+      "investigative_direction": "Obtain Provo and Utah County police records, any search or arrest warrant, and FBI interview records for the Karashy detention.",
+      "transcript_snippet": "the local police decided to go to Zachariah Kareshi's apartment in Provo, whereupon he was then brought in and interrogated by the feds and then released.",
+      "supports_claim_refs": [
+        "C-2629"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-420"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7357",
+      "ref": "C-7357",
+      "label": "Host Says Only Two People Were Detained, Zinn and Karashy",
+      "claim": "The host says only two people were detained after the shooting, George Zinn, whom she says was detained because he said he did it, and Zachariah Karashy, who was released without explanation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11142"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:08",
+      "investigative_direction": "Request the full list of detentions and arrests from Utah County and federal agencies for September 10 to 12, 2025.",
+      "transcript_snippet": "There was only two people that were detained. The first was George Zinn.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-42",
+        "N-420"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7358",
+      "ref": "C-7358",
+      "label": "Host Says Karashy's Father Owns a Military App Tied to Fort Huachuca",
+      "claim": "The host says Zachariah Karashy's father is a career military man who owns and operates a military app tied to operations and Fort Huachuca and received a lot of money from the Department of Defense.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11142"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:08",
+      "investigative_direction": "Check DoD contract awards, SAM.gov and company filings for the Karashy family's app company and any Fort Huachuca work.",
+      "transcript_snippet": "this kid who has got a father who is a career military man who owns and operates a military app tied to operations, tied to Fort Wuka, got a bunch of money from the DoD.",
+      "supports_claim_refs": [
+        "C-2655"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-420"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7359",
+      "ref": "C-7359",
+      "label": "Host Recaps Witness Saying the Rooftop Figure Looked Like a Professional",
+      "claim": "The host recaps that the only person who captured the figure on the Losee Center rooftop recorded it on his iPhone, reported it to police, and said the person looked professional, with military or tactical training and a military crawl.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10314",
+        "N-10754"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:48",
+      "investigative_direction": "Obtain the witness's police report and original iPhone file, and the exhibit list from the preliminary hearing.",
+      "transcript_snippet": "He said that the person looked to him like it was a professional.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7360",
+      "ref": "C-7360",
+      "label": "Host Says the Rooftop Witness Was Not Called by Prosecution or Defense",
+      "claim": "The host says authorities did not contact the rooftop witness, that the prosecution was not interested in his testimony, that the defense at the preliminary hearing stage was not either, and that his footage was never shown in court.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10719",
+        "N-10314"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:48",
+      "investigative_direction": "Check the preliminary hearing witness lists and exhibits, and ask the witness whether investigators contacted him.",
+      "transcript_snippet": "Strangely, they didn't contact him. They weren't curious for him to testify. The prosecution wasn't interested.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7361",
+      "ref": "C-7361",
+      "label": "Host Says Tyler and His Partner Never Discussed Politics, Charlie or LGBTQ Issues",
+      "claim": "The host says that under the official account Tyler Robinson acted for his lover even though they never discussed politics, Charlie Kirk in particular, or LGBTQ issues.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10337"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:43",
+      "investigative_direction": "Review the released Robinson text exchanges and the charging documents for any discussion of politics, Kirk or LGBTQ topics.",
+      "transcript_snippet": "they never discussed politics and they never discussed Charlie Kirk um in particular and they never discussed LGBTQ issues.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7362",
+      "ref": "C-7362",
+      "label": "Host Says an Underground Movement of Insiders Is Supplying Information",
+      "claim": "The host says an underground movement for Charlie has built up over ten months, including people in government, and is how she has obtained exclusive information, footage and photos.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:57",
+      "investigative_direction": "Only testable through the host's sources; ask her to identify provenance for the footage and photos she has aired.",
+      "transcript_snippet": "There is in fact an underground movement for Charlie that has been built over these last 10 months",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7363",
+      "ref": "C-7363",
+      "label": "Host Says Erika Told Her the Preliminary Hearing Would Be Forthcoming",
+      "claim": "The host says she held the rooftop footage because she was told, by Erika Kirk, that the preliminary hearing would be forthcoming about anything and everything they had.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10754"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:57",
+      "investigative_direction": "Ask Erika Kirk or her representatives what she told the host about the hearing; compare with the host's earlier accounts.",
+      "transcript_snippet": "I was told that at the preliminary hearing they would be forthcoming about anything and everything that they had. Was told that actually by Erika.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7364",
+      "ref": "C-7364",
+      "label": "Host Says Skinny Jeans, a 3'6\" Gun and a Right-Pocket Phone Do Not Fit the Official Account",
+      "claim": "The host says the gun is a minimum of 3'6\" fully assembled, that Tyler Robinson's phone is visible in his right pocket, and that carrying the gun in his skinny jeans onto the roof does not pass the sniff test.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:13",
+      "investigative_direction": "Obtain the rifle's specifications and exhibit photos, and test whether such a rifle could be carried in the jeans shown in court footage.",
+      "transcript_snippet": "The gun is minimum 3'6 in fully assembled. We can see his phone in his right pocket.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7365",
+      "ref": "C-7365",
+      "label": "Host Says Robinson's Limp Disappears Once He Reaches the Rooftop",
+      "claim": "The host says that in the footage Robinson's limp is gone once he reaches the rooftop and he is suddenly able to sprint.",
+      "anchored_artifacts": [
+        "A-2198.1"
+      ],
+      "related_nodes": [
+        "N-10343"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:08",
+      "investigative_direction": "Compare gait before and after the rooftop frame by frame, with an independent gait or biomechanics expert.",
+      "transcript_snippet": "once he hits that rooftop, he is suddenly able to sprint and this limp that he has in the footage is completely removed.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7366",
+      "ref": "C-7366",
+      "label": "Host Says the Witness Reported No Recoil",
+      "claim": "The host says the person who recorded the footage told investigators he saw no recoil, which she argues would be impossible for the alleged model of rifle.",
+      "anchored_artifacts": [
+        "A-2198.4"
+      ],
+      "related_nodes": [
+        "N-10755",
+        "N-10314"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:10",
+      "investigative_direction": "Obtain the witness's police statement and audio the host previously aired, and a firearms expert opinion on recoil visible at that distance.",
+      "transcript_snippet": "will recall that the guy who recorded the footage specifically said, told us that he saw no recoil.",
+      "supports_claim_refs": [
+        "C-3152"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7367",
+      "ref": "C-7367",
+      "label": "Host Says the Rifle Is a German 98 Mauser Family Heirloom",
+      "claim": "The host says the gun is supposed to be a German 98 Mauser family heirloom used in World War I and World War II that would take the shooter's shoulder out when fired.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10755"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:10",
+      "investigative_direction": "Check the charging documents and ATF records for the make, model and provenance of the recovered rifle.",
+      "transcript_snippet": "this is supposed to be a German 98 Mouser family heirloom gun uh used during World War I and World War II.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7368",
+      "ref": "C-7368",
+      "label": "Host Says the Rifle Had Dust in the Barrel at the Preliminary Hearing",
+      "claim": "The host says that as shown at the preliminary hearing the recovered rifle had dust in the barrel indicating non-usage.",
+      "anchored_artifacts": [
+        "A-2877.1"
+      ],
+      "related_nodes": [
+        "N-10337",
+        "N-10975"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:12",
+      "investigative_direction": "Read the preliminary hearing transcript for the firearms examiner's testimony on barrel condition.",
+      "transcript_snippet": "it had dust in the barrel indicating non-usage",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7369",
+      "ref": "C-7369",
+      "label": "Host Says ATF Described Robinson's Prints as the Most Degraded on the Gun",
+      "claim": "The host says ATF testimony described Robinson's fingerprints as the most degraded among five other sets of prints on the gun, and asks how that is possible unless somebody planted his gun.",
+      "anchored_artifacts": [
+        "A-2877.1"
+      ],
+      "related_nodes": [
+        "N-10337",
+        "N-10975"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:12",
+      "investigative_direction": "Read the ATF latent print testimony and report from the preliminary hearing, including the identification of the five other print sets.",
+      "transcript_snippet": "his were the most degraded amongst five other sets of prints on this gun.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7370",
+      "ref": "C-7370",
+      "label": "Host Says Dogs Were Given a Scent and Sent Toward the Amphitheater",
+      "claim": "The host says dogs brought to the Losee Center were given a scent to chase and were allowed to run near the amphitheater, which she calls a wild goose chase if the person was not there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11054",
+        "N-10756"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:07",
+      "investigative_direction": "Obtain K9 deployment logs and handler reports from the Pleasant Grove and Utah County agencies.",
+      "transcript_snippet": "The dogs that that were brought to Losi center, right, where the person jumped off were given a scent, a scent to go chase.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7371",
+      "ref": "C-7371",
+      "label": "Host Says Two Explosives Dogs Searched the Gun Field and Found Nothing",
+      "claim": "The host says two other dogs were looking for explosives, went near the field where the gun was found, and came up empty.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11054",
+        "N-10756"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:07",
+      "investigative_direction": "Obtain K9 search logs, times and areas searched on September 10, 2025.",
+      "transcript_snippet": "two dogs were actually looking for explosives. They are the ones that went near the field where the gun was actually found and came up empty.",
+      "supports_claim_refs": [
+        "C-5280"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7372",
+      "ref": "C-7372",
+      "label": "Host Names the Dogs Loki and Freya and Says Freya Had a Broken Nose",
+      "claim": "The host says she is told the dog given a scent near the amphitheater was Loki and the bomb dog searching the field was Freya, who she is told had a broken nose that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11019",
+        "N-10756",
+        "N-11054"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:07",
+      "investigative_direction": "Request the dogs' names, health and handler logs and compare with the host's earlier episode 48 claims about Freya.",
+      "transcript_snippet": "Freya was the bomb dog. I am told that she's the one who had a broken nose that day.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7373",
+      "ref": "C-7373",
+      "label": "Host Says Feds Had Two Brand-New Rookie Cops Search Again Where Freya Failed",
+      "claim": "The host says one of the feds instructed two brand-new rookie cops to look again where Freya had failed, and they found the gun.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10756",
+        "N-10757"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:08",
+      "investigative_direction": "Obtain the incident reports and body-camera footage of the gun recovery and the identity of the federal agent who gave the instruction.",
+      "transcript_snippet": "one of the feds instructed these two rookie cops who literally were brand new and said just go look again where Freya had failed.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7374",
+      "ref": "C-7374",
+      "label": "Host Names Rookie Officer Mitchell Curtis as a 2025 UVU Graduate Who Found the Gun",
+      "claim": "The host says she was given two names for the rookie cops and is told one is Mitchell Curtis of Pleasant Grove Police, a 2025 graduate who found the gun.",
+      "anchored_artifacts": [
+        "A-2874.1"
+      ],
+      "related_nodes": [
+        "N-10757",
+        "N-11018"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:00",
+      "investigative_direction": "Obtain the police report identifying the discovering officers and Pleasant Grove police hiring records.",
+      "transcript_snippet": "I'm told Mitchell Curtis of Pleasant Grove Police, 2025 graduate, very young buck.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-795"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7375",
+      "ref": "C-7375",
+      "label": "Host Says Mitchell Curtis's Father Foster Curtis Spent 21 Years at NCIS",
+      "claim": "The host says Mitchell Curtis's father is Foster Curtis of Virginia, who she says spent 21 years with NCIS, rising from special agent to division chief in the Office of Inspector General, and that sleuths helped identify him.",
+      "anchored_artifacts": [
+        "A-2874.1"
+      ],
+      "related_nodes": [
+        "N-10757",
+        "N-11140"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:00",
+      "investigative_direction": "Verify Foster Curtis's NCIS and Inspector General career through public records, and confirm the father-son relationship.",
+      "transcript_snippet": "His father's name is Foster Curtis. Foster lives in Virginia. Foster spent 21 years with NCIS, starting as a special agent",
+      "mentions_person_refs": [
+        "N-3",
+        "N-795",
+        "N-796"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7376",
+      "ref": "C-7376",
+      "label": "Host Describes NCIS Reach and Jurisdiction",
+      "claim": "The host says NCIS has a presence in more than 41 countries and on US Navy vessels, that half its personnel are civilians, and that it investigates major criminal activity involving the Navy and Marine Corps, which she says would include an assassination planned by the military.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11140"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:00",
+      "investigative_direction": "Check NCIS published figures on countries, staffing and jurisdiction.",
+      "transcript_snippet": "They have a presence in more than 41 countries and on US Navy vessels.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7377",
+      "ref": "C-7377",
+      "label": "Host Says Foster Curtis Left NCIS on June 2, 2025 to Be Richmond's Interim Inspector General",
+      "claim": "The host says that on June 2, 2025, after 21 years, Foster Curtis left his NCIS division chief position to become Richmond, Virginia's interim inspector general.",
+      "anchored_artifacts": [
+        "A-2875.1"
+      ],
+      "related_nodes": [
+        "N-11141",
+        "N-11140"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:40",
+      "investigative_direction": "Check City of Richmond announcements and local news from June 2025 on the interim inspector general appointment.",
+      "transcript_snippet": "Foster Curtis after 21 years decided to leave his position as a division chief and to be Richmond, Virginia's interim inspector general.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-796"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7378",
+      "ref": "C-7378",
+      "label": "Host Says Richmond Fired Inspector General James Osuna Amid NDAs",
+      "claim": "The host says Richmond fired its inspector general James Osuna after six years, that local news asked why, and that the city said no comments would be made on personnel matters and that NDAs were signed.",
+      "anchored_artifacts": [
+        "A-2875.1"
+      ],
+      "related_nodes": [
+        "N-11141"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:40",
+      "investigative_direction": "Find the June 2025 Richmond local news reports and city statements on Osuna's departure.",
+      "transcript_snippet": "No comments will be made on personnel matters and NDAs were signed.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-797",
+        "N-796"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7379",
+      "ref": "C-7379",
+      "label": "Host Adds Mitch and Foster Curtis to Her Tree of Brand-New Utah Personnel",
+      "claim": "The host says Foster Curtis's job change came a couple of months before his son found the gun, and adds the two to her spreadsheet of brand-new people in Utah.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10757",
+        "N-11141"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:40",
+      "investigative_direction": "Compare dates of the Curtis job changes with the gun discovery and with the host's list of new personnel.",
+      "transcript_snippet": "We can now add Mitch and Foster.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-795",
+        "N-796"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7380",
+      "ref": "C-7380",
+      "label": "Host Says NCIS Reports to the Secretary of the Navy, Whom Trump Appointed With No Military Experience",
+      "claim": "The host says NCIS reports to the Secretary of the Navy, and that Trump appointed John C. Phelan, a banker from Goldman Sachs and Merrill Lynch, with literally zero military experience.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11140",
+        "N-10758"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:47",
+      "investigative_direction": "Check Phelan's official biography and the NCIS organizational chart.",
+      "transcript_snippet": "Trump appointed a guy with literally zero military experience into that position.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-798",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7381",
+      "ref": "C-7381",
+      "label": "Host Says Phelan Hosted a Private Trump Fundraiser in Aspen",
+      "claim": "The host says Phelan helped Trump raise money before his second term by hosting a private fundraiser in Aspen with billionaire guests such as Steve Wynn.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10758"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:47",
+      "investigative_direction": "Check press coverage and FEC filings for the Aspen fundraiser and its host.",
+      "transcript_snippet": "by hosting this private fundraiser for Trump in Aspen, which featured billionaire guests like Steve Win in attendance.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-798",
+        "N-5",
+        "N-360"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7382",
+      "ref": "C-7382",
+      "label": "Host Says Six Names Are Redacted on the Released Phelan Flight Manifest",
+      "claim": "The host says six names are redacted on the version of the manifest released in October 2025 by the House Committee, the release she says Trump fought against.",
+      "anchored_artifacts": [
+        "A-2200.3"
+      ],
+      "related_nodes": [
+        "N-10758",
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:41",
+      "investigative_direction": "Obtain the October 2025 House Committee manifest release and check the redactions.",
+      "transcript_snippet": "And six peoples whose names are redacted on the version of the manifest that was released in October 2025 by the United States House Committee",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9",
+        "N-5",
+        "N-798"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7383",
+      "ref": "C-7383",
+      "label": "Host Says Brunel Died Hanged in Prison",
+      "claim": "The host says Jean-Luc Brunel is the second Epstein associate who probably did not kill himself but ended up hanged in a prison.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10758"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:41",
+      "investigative_direction": "Check French judicial records on Brunel's death in custody in February 2022.",
+      "transcript_snippet": "he's the second one who probably didn't kill himself, but did end up hung in a prison.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-541",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7384",
+      "ref": "C-7384",
+      "label": "Host Says Epstein Invested in Brunel's Modeling Business and Brunel Sent Him Triplets",
+      "claim": "The host says Epstein invested in Brunel's modeling business and that Brunel sent Epstein triplets for his birthday, unsure whether they were 8 or 10 years old.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10758"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:41",
+      "investigative_direction": "Check court filings and published reporting on Epstein's investment in MC2 and on the birthday allegation; the host herself is unsure of details.",
+      "transcript_snippet": "sent Jeffrey Epstein, I think is it 8-year-old triplets for his birthday?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-541",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7385",
+      "ref": "C-7385",
+      "label": "Host Says Brunel Co-Founded the Firm Run by Faith Kates",
+      "claim": "The host says Jean-Luc Brunel was also one of the founders of the firm run by Faith Kates.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10524"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:41",
+      "investigative_direction": "Check corporate and press histories of Next Model Management and its founders.",
+      "transcript_snippet": "also happened to start um be one of the founders of that firm that was run by Faith Kates",
+      "mentions_person_refs": [
+        "N-3",
+        "N-541",
+        "N-582"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7386",
+      "ref": "C-7386",
+      "label": "Host Says Her Team Sought Comment from Erika Kirk Over a Modeling Apartments Allegation and Got Nothing",
+      "claim": "The host says her team went to Erika Kirk for comment on a claim about managing modeling apartments, that the host would have instantly denied such a claim, and that the sources are certain it is true and no comment came back.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10524"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:35",
+      "investigative_direction": "Obtain the comment request and any reply, and the former Next staff accounts of Erika Kirk's role.",
+      "transcript_snippet": "We went out to Erika for comment. something that I would instantly want to remove myself from and say no that's absolutely not true.",
+      "supports_claim_refs": [
+        "C-4729"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-582"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7387",
+      "ref": "C-7387",
+      "label": "Host Says Don Trump Jr. Has Been Entering the Courthouse With Erika",
+      "claim": "The host says Donald Trump Jr. has been going into the courthouse with Erika Kirk, and says she would like his comment on the rooftop video.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:55",
+      "investigative_direction": "Check court attendance reports and photographs of the hearings for Trump Jr.'s presence.",
+      "transcript_snippet": "Don Trump Jr. actually has been heading into the courthouse with Erika.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-33",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7388",
+      "ref": "C-7388",
+      "label": "Host Says Charlie Wanted to Trace the Money and Set Up a DOGE Audit His Successor Cancelled",
+      "claim": "The host says Charlie Kirk looked into his organization to learn where the money was coming from and going, established a DOGE audit, and that the new leader of Turning Point USA cancelled it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10434",
+        "N-10132",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:18",
+      "investigative_direction": "Obtain the September 2, 2025 internal memo on the audit, any engagement records, and TPUSA's statement on its status.",
+      "transcript_snippet": "wanted to know where the money was coming from and where it was going to established a Doge audit, which well, the new leader of Turning Point USA obviously canled.",
+      "supports_claim_refs": [
+        "C-5092",
+        "C-5093",
+        "C-4236"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7389",
+      "ref": "C-7389",
+      "label": "Host Says Kolvet Claims Charlie Was Unhappy With Her in July",
+      "claim": "The host says Andrew Kolvet is saying Charlie Kirk was not happy with her in July, and that she does not doubt it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:12",
+      "investigative_direction": "Locate Kolvet's public statement and any dated messages between the host and Charlie Kirk from that period.",
+      "transcript_snippet": "Apparently July, Charlie was not happy with me. That's what Andrew says.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7390",
+      "ref": "C-7390",
+      "label": "Host Says Charlie Relayed Trump's Private Request That She Stop Speaking About Brigitte Macron",
+      "claim": "The host says that Charlie Kirk 'would not have revealed the private conversation with Trump asking me to stop speaking about Breijit', calling it a fact; the transcript wording is ambiguous but she presents it as evidence in the dispute over their friendship.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10316"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:12",
+      "investigative_direction": "Ask the host for the dated message or call record in which Charlie conveyed the request, and ask the White House about it.",
+      "transcript_snippet": "Charlie would not have revealed the private conversation with Trump asking me to stop speaking about Breijit. That's a fact, actually.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-5",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7391",
+      "ref": "C-7391",
+      "label": "Host Says Ian Carroll Built a Website on the Case",
+      "claim": "The host says Ian Carroll put together an entire website about the case.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:58",
+      "investigative_direction": "Identify the website and its authorship.",
+      "transcript_snippet": "Ian Carol put together um an entire website.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-384"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7392",
+      "ref": "C-7392",
+      "label": "Host Says a Fed Was Overseeing the Autopsy",
+      "claim": "The host says there was a fed overseeing the autopsy and says the feds were involved far too early.",
+      "anchored_artifacts": [
+        "A-2204.4"
+      ],
+      "related_nodes": [
+        "N-10229"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:04",
+      "investigative_direction": "Obtain the autopsy chain of custody and attendee list from the Utah medical examiner.",
+      "transcript_snippet": "And we do know that there was a fed overseeing the autopsy. That's part of the problem.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7393",
+      "ref": "C-7393",
+      "label": "Host Says Police Divisions Told Her Feds Sent Them on Wild Goose Hunts",
+      "claim": "The host says every police division she has spoken to told her the feds were sending people on wild goose hunts, including SWAT teams searching buildings, marshals, and dogs chasing scents.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11054"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:04",
+      "investigative_direction": "Obtain dispatch and tasking logs for SWAT, marshals and K9 units on September 10, 2025.",
+      "transcript_snippet": "Every police division that I've spoken to said that the feds were sending everybody on wild goose hunts",
+      "supports_claim_refs": [
+        "C-5223"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7394",
+      "ref": "C-7394",
+      "label": "Host Says She Toured and Had a Contract With Charlie",
+      "claim": "The host says she did tours for Charlie Kirk and had a contract with him, and that she has come to see elements of his life, and of her own beginning in politics, as a lie.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:42",
+      "investigative_direction": "Obtain the contract and tour records referenced by the host.",
+      "transcript_snippet": "I did tours. I had a contract with Charlie.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7395",
+      "ref": "C-7395",
+      "label": "Host Says She Met Brad Parscale Years Ago and Had a Friendly Relationship",
+      "claim": "The host says she met Brad Parscale many moons ago and had a friendly relationship, though he came off as brash and did not believe she would be anything.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:50:04",
+      "investigative_direction": "Only the host can confirm the history of the relationship.",
+      "transcript_snippet": "Brad and I had a friendly relationship.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-440"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7396",
+      "ref": "C-7396",
+      "label": "Host Says a Turning Point Employee Will Testify Tyler Robinson Approached Them",
+      "claim": "The host says a Turning Point employee will testify that Tyler Robinson came up to him or her, that she has a hunch who it is, and that she waits for the other side to disclose before she does.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:50",
+      "investigative_direction": "Check prosecution witness lists for any Turning Point employee who reports contact with Robinson.",
+      "transcript_snippet": "I can't wait until we find out who the Turning Point employee was who is going to testify and say that Tyler Robinson came up to him or her.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7397",
+      "ref": "C-7397",
+      "label": "Host Says Influencers Repeating Overwhelmed by Evidence Are Operation Mockingbird",
+      "claim": "The host says influencers all saying they are overwhelmed with evidence are part of Operation Mockingbird, launched again for the same reason as in the JFK era.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10061",
+        "N-10318"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:43",
+      "investigative_direction": "Compare the language across the influencers' posts and look for documentary evidence of coordination.",
+      "transcript_snippet": "That's why they launched Operation Mockingbird then and why they launched it again this time.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7398",
+      "ref": "C-7398",
+      "label": "Host Describes a CIA Experiment With 26 Agents and a Banana",
+      "claim": "The host says a literal CIA experiment took place in which all but one person in a room of agents were told to call a picture of a banana an apple, to see what the last person would say.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10082"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:34",
+      "investigative_direction": "The host admits mixing up the details; identify any CIA experiment of this kind, which may be a conflation with the Asch conformity studies.",
+      "transcript_snippet": "a literal CIA experiment, by the way, that had took place.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-7399",
+      "ref": "C-7399",
+      "label": "Host Promotes the CIA Crew Neck Merchandise",
+      "claim": "The host promotes her merchandise including the CIA crew neck, 'Canada intelligent agency', as a way to support her independence.",
+      "anchored_artifacts": [
+        "A-2876.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:54:39",
+      "investigative_direction": "Merch page for the CIA crew neck.",
+      "transcript_snippet": "Of course, the CIA crew neck, Canada intelligent agency is how we got here.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": []
