@@ -32,7 +32,7 @@
           "related_nodes": [
             "N-10875",
             "N-3",
-            "N-268"
+            "N-266"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -134,9 +134,9 @@
           ],
           "related_nodes": [
             "N-7",
-            "N-277",
-            "N-276",
-            "N-228",
+            "N-275",
+            "N-274",
+            "N-58",
             "N-10839"
           ],
           "tags": [],
@@ -220,7 +220,7 @@
           ],
           "related_nodes": [
             "N-10879",
-            "N-337",
+            "N-334",
             "N-3"
           ],
           "tags": [],
@@ -557,7 +557,7 @@
       "@type": "Person",
       "@id": "N-131",
       "ref": "N-131",
-      "name": "Ian Carol",
+      "name": "Ian Carroll",
       "type": "person",
       "description": "Credited for Las Vegas 2017 conspiracy research the host points viewers toward.",
       "related_artifacts": [],
@@ -592,8 +592,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Security lead whose long hospital story (no CPR in car) conflicts with Turek and with the review's fire-captain CPR.",
@@ -613,8 +613,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
@@ -632,8 +632,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-277",
-      "ref": "N-277",
+      "@id": "N-275",
+      "ref": "N-275",
       "name": "Jeff Long",
       "type": "person",
       "description": "UVU police chief; Turek recounts Long saying he was thrown under the bus and arguing only the bridge roof was covered.",
@@ -654,8 +654,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -676,8 +676,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-371",
+      "ref": "N-371",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Mentioned in a viewer comment the host answers dismissively.",
@@ -844,7 +844,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-272",
+        "N-270",
         "N-7"
       ]
     },
@@ -996,7 +996,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-3",
-        "N-268",
+        "N-266",
         "N-10867"
       ]
     },
@@ -1093,7 +1093,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-337",
+        "N-334",
         "N-3"
       ]
     },
@@ -1259,8 +1259,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-58",
+      "ref": "N-58",
       "name": "Brandon Tatum",
       "type": "person",
       "description": "Podcast host of the Frank Turek interview clip in which Turek recounts confronting Jeff Long about roof coverage.",
@@ -1281,8 +1281,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-230",
-      "ref": "N-230",
+      "@id": "N-229",
+      "ref": "N-229",
       "name": "Steven Paddock",
       "type": "person",
       "description": "Named by investigators as the lone Las Vegas 2017 gunman who died by suicide before police entry; host uses the unresolved case as the template for media distraction via MeToo.",
@@ -1298,8 +1298,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-231",
-      "ref": "N-231",
+      "@id": "N-230",
+      "ref": "N-230",
       "name": "Harvey Weinstein",
       "type": "person",
       "description": "Subject of the New York Times MeToo explosion the host says displaced Las Vegas coverage within five days of the shooting.",
@@ -1315,8 +1315,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Lisa Nose",
       "type": "person",
       "description": "X poster whose nanny/NDA mansion tweet the host reads as the week's Candyland attack; Nose cites Jessica Reed Kraus as original reporter.",
@@ -1388,8 +1388,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-287",
-      "ref": "N-287",
+      "@id": "N-285",
+      "ref": "N-285",
       "name": "Jennica Pounds",
       "type": "person",
       "description": "Reused node cited by new claims in this episode.",
@@ -1760,8 +1760,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-849",
-      "ref": "N-849",
+      "@id": "N-842",
+      "ref": "N-842",
       "name": "Macklemore",
       "type": "person",
       "description": "First named by the host at 00:44:26 in episode 160 (spelled McLemore in the transcript). Rapper the host says said Free Palestine on stage at the Gillette Stadium Ed Sheeran show.",
@@ -1777,8 +1777,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-850",
-      "ref": "N-850",
+      "@id": "N-843",
+      "ref": "N-843",
       "name": "Ed Sheeran",
       "type": "person",
       "description": "First named by the host at 00:44:26 in episode 160. Singer whose Gillette Stadium show Macklemore opened and whose attendance record the host says Zach Bryan broke.",
@@ -1884,7 +1884,7 @@
       "investigative_direction": "Preserve the original Nose and Kraus posts; seek any primary employment/immigration evidence rather than rumor chains.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-266"
       ]
     },
     {
@@ -1914,7 +1914,7 @@
       "@id": "C-3619",
       "ref": "C-3619",
       "label": "Las Vegas 2017 coverage displaced within five days by MeToo / Weinstein",
-      "claim": "The host states the October 2017 Las Vegas mass shooting (60 dead, 869 injured; investigators cited 24 firearms in Steven Paddock's suite and no clear motive) disappeared from the media cycle in less than a week because five days later the New York Times Harvey Weinstein MeToo story broke and dominated coverage. She points to Ian Carol and others for military/Israel/Saudi conspiracy research she does not develop here.",
+      "claim": "The host states the October 2017 Las Vegas mass shooting (60 dead, 869 injured; investigators cited 24 firearms in Steven Paddock's suite and no clear motive) disappeared from the media cycle in less than a week because five days later the New York Times Harvey Weinstein MeToo story broke and dominated coverage. She points to Ian Carroll and others for military/Israel/Saudi conspiracy research she does not develop here.",
       "anchored_artifacts": [
         "A-2475.1"
       ],
@@ -1924,8 +1924,8 @@
       "investigative_direction": "Verify the five-day media-shift claim against contemporary news indexes; treat Paddock/motive facts as investigator claims, not settled.",
       "mentions_person_refs": [
         "N-131",
-        "N-230",
-        "N-231"
+        "N-229",
+        "N-230"
       ]
     },
     {
@@ -2015,7 +2015,7 @@
         "N-1",
         "N-7",
         "N-212",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2054,9 +2054,9 @@
       "investigative_direction": "Preserve full Tatum interview; compare Turek's roofs claims to the published UVU review findings and Flood text metadata.",
       "mentions_person_refs": [
         "N-7",
-        "N-228",
-        "N-276",
-        "N-277"
+        "N-58",
+        "N-274",
+        "N-275"
       ]
     },
     {
@@ -2142,7 +2142,7 @@
       "investigative_direction": "Archive the trend posts and primary interview clips being recirculated; separate verified past statements from smear packaging.",
       "mentions_person_refs": [
         "N-3",
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -2225,7 +2225,7 @@
       "transcript_snippet": "Remember the second mansion that Laura Luma reported on?",
       "mentions_person_refs": [
         "N-3",
-        "N-268",
+        "N-266",
         "N-60"
       ]
     },
@@ -2290,7 +2290,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-231"
+        "N-230"
       ]
     },
     {
@@ -2652,7 +2652,7 @@
         "C-3547"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-7"
       ]
     },
@@ -2673,7 +2673,7 @@
       "investigative_direction": "Compare Harpole's interview wording with hospital staff and bodycam accounts.",
       "transcript_snippet": "He grabs a gurnie. He hops on top of that gurnie. He cuts off Charlie's Kirk. He's prepping Charlie uh for a defibrillator before he's uh talking through the medications that Charlie is going to need.",
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-1"
       ]
     },
@@ -2699,7 +2699,7 @@
       "mentions_person_refs": [
         "N-7",
         "N-212",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2854,7 +2854,7 @@
         "C-4942"
       ],
       "mentions_person_refs": [
-        "N-277"
+        "N-275"
       ]
     },
     {
@@ -2880,7 +2880,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-277",
+        "N-275",
         "N-1"
       ]
     },
@@ -2904,7 +2904,7 @@
       "transcript_snippet": "Well, they got here the day of. They should have been here the day before.",
       "mentions_person_refs": [
         "N-7",
-        "N-277",
+        "N-275",
         "N-1"
       ]
     },
@@ -3133,8 +3133,8 @@
         "C-3458"
       ],
       "mentions_person_refs": [
-        "N-849",
-        "N-850"
+        "N-842",
+        "N-843"
       ]
     },
     {
@@ -3217,7 +3217,7 @@
       "investigative_direction": "Verify the resignation and any employer statement.",
       "transcript_snippet": "we got to talk about uh the resignation of data Republican who was literally hired to go after me.",
       "mentions_person_refs": [
-        "N-287",
+        "N-285",
         "N-68"
       ]
     },

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: a5bff101f5406cc545238101be4cd19cc555a0c068fccc2dca23c05ae7f6ae04
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-448, N-450, N-451, N-452, N-453, N-454, N-10402, N-10403, N-10404, N-10405, N-10407, N-10408
-  - Reused Nodes Appearing: N-10406, N-447, N-449
+  - New Nodes Introduced: N-444, N-446, N-447, N-448, N-449, N-450, N-10402, N-10403, N-10404, N-10405, N-10407, N-10408
+  - Reused Nodes Appearing: N-10406, N-443, N-445
   - (see registers)
 
 # Episode 55 – Analysis Record
@@ -35,7 +35,7 @@
 
 - **Artifact Families Introduced:** A-1607, A-1608, A-1609, A-1610, A-1611, A-1612, A-1613, A-1614, A-1615, A-1616
 - **Claim Range:** C-2047–C-2072
-- **New Nodes Introduced (people):**, N-447, N-448, N-449, N-450, N-451, N-452, N-453, N-454
+- **New Nodes Introduced (people):**, N-443, N-444, N-445, N-446, N-447, N-448, N-449, N-450
 - **New Nodes Introduced (investigation targets):** N-10402, N-10403, N-10404, N-10405, N-10406, N-10407, N-10408
 - **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erica Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dylan, Jerry Falwell Jr. (referenced by name without new ID)
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:23:45–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2049, C-2050, N-447, N-449, N-10402*
+*Related: C-2049, C-2050, N-443, N-445, N-10402*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:12:48–00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2051, N-454*
+*Related: C-2051, N-450*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:21:30–00:22:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2052, C-2053, N-447, N-10402*
+*Related: C-2052, C-2053, N-443, N-10402*
 
 **A-1610.2** Johnny Moore audio clip: "I know the state of Israel is strong… we are committed to building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism"
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:22:43–00:23:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2054, N-447, N-10402*
+*Related: C-2054, N-443, N-10402*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:34:41–00:35:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (named speakers, identifiable speech content)
 
-*Related: C-2057, N-451, N-10407*
+*Related: C-2057, N-447, N-10407*
 
 ---
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:25:34–00:26:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2055, C-2056, N-448, N-409, N-10402*
+*Related: C-2055, C-2056, N-444, N-405, N-10402*
 
 ---
 
@@ -287,7 +287,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-447** Johnny Moore
+**N-443** Johnny Moore
 
 Former Liberty University lead pastor (left 2014); founder of Chyros Company; claimed in this episode to be a disciple of Ron Godwin. Self-identifies in audio as involved with ADL and Aspen Institute.
 
@@ -296,11 +296,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1608.1, A-1610.1, A-1610.2, C-2049, C-2050, C-2052, C-2053, C-2054, N-448, N-409, N-10402*
+*Related: A-1608.1, A-1610.1, A-1610.2, C-2049, C-2050, C-2052, C-2053, C-2054, N-444, N-405, N-10402*
 
 ---
 
-**N-448** Ron Godwin
+**N-444** Ron Godwin
 
 Identified in this episode as Johnny Moore's mentor and as a declared disciple of Sun Myung Moon; retired from Liberty University in October 2014.
 
@@ -309,11 +309,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1614.1, C-2055, N-447, N-409, N-10402*
+*Related: A-1614.1, C-2055, N-443, N-405, N-10402*
 
 ---
 
-**N-409** Sun Myung Moon
+**N-405** Sun Myung Moon
 
 Founder of the Unification Church (transcript spells inconsistently as "Sunyong Moon" / "Sun Young Moon" / "Sun Myung Moon"); source of the three disciples quotation.
 
@@ -322,11 +322,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1614.1, C-2055, C-2056, N-448, N-10402*
+*Related: A-1614.1, C-2055, C-2056, N-444, N-10402*
 
 ---
 
-**N-449** Jerry Falwell Jr.
+**N-445** Jerry Falwell Jr.
 
 Identified in this episode as ousted from Liberty University; co-established the Falwell Center with Charlie Kirk in 2021; replaced by Jerry Prevo.
 
@@ -335,11 +335,11 @@ Claim Count: 0 (artifacts about him are indirectly tied to Liberty University op
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1608.1, N-452, N-10402*
+*Related: A-1608.1, N-448, N-10402*
 
 ---
 
-**N-450** Mark Burnett
+**N-446** Mark Burnett
 
 Reality TV producer named in this episode as Johnny Moore's employer in Hollywood (post-2015) and chairperson of MGM (acquired Summerhouse).
 
@@ -348,11 +348,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2071, C-2072, N-447, Erica Kirk*
+*Related: C-2071, C-2072, N-443, Erica Kirk*
 
 ---
 
-**N-451** Unnamed Likud Knesset Speaker
+**N-447** Unnamed Likud Knesset Speaker
 
 Knesset member who delivered the speech declaring Tucker Carlson and Candace Owens enemies of Israel; name not stated in episode.
 
@@ -365,7 +365,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-452** Jerry Prevo
+**N-448** Jerry Prevo
 
 Identified in this episode as named successor to Jerry Falwell Jr. at Liberty University; first act allegedly was firing Charlie Kirk and reinstating Johnny Moore on a monthly retainer.
 
@@ -374,11 +374,11 @@ Claim Count: 0 (host-stated, no artifact)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-449, N-447*
+*Related: N-445, N-443*
 
 ---
 
-**N-453** Tetsuya Yamagami
+**N-449** Tetsuya Yamagami
 
 Identified in this episode as the 41-year-old assassin of Shinzō Abe; stated to have been driven to destitution by the Unification Church's influence on his mother.
 
@@ -387,11 +387,11 @@ Claim Count: 0 (host narrative, NYT artifact references the broader pattern)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-454, N-409*
+*Related: N-450, N-405*
 
 ---
 
-**N-454** Shinzō Abe
+**N-450** Shinzō Abe
 
 Longtime Prime Minister of Japan; assassinated; family identified as having long-running ties to the Unification Church.
 
@@ -400,7 +400,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1609.1, N-453*
+*Related: A-1609.1, N-449*
 
 ---
 
@@ -413,7 +413,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1608.1, A-1610.1, A-1610.2, A-1614.1, C-2049, C-2050, C-2055, C-2056, N-14, N-447, N-448, N-409*
+*Related: A-1608.1, A-1610.1, A-1610.2, A-1614.1, C-2049, C-2050, C-2055, C-2056, N-14, N-443, N-444, N-405*
 
 ---
 
@@ -478,7 +478,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1611.1, C-2057, N-451, N-10408*
+*Related: A-1611.1, C-2057, N-447, N-10408*
 
 ---
 
@@ -534,7 +534,7 @@ Claim Timestamp: 00:23:45–00:24:10
 Claim: Christianity Today published that "Johnny Moore was only 14 when he first stayed in the dorms at Liberty University" and that he had remained at the school founded by Jerry Falwell Senior.
 
 Anchored Artifacts: A-1608.1
-Mentions: N-447, N-449
+Mentions: N-443, N-445
 
 Related Nodes: N-10402
 
@@ -549,7 +549,7 @@ Claim Timestamp: 00:23:45–00:24:10
 Claim: Christianity Today reported that Moore and his single-mother family briefly lived in Liberty University dorms after his parents' divorce and a temporary stretch of homelessness.
 
 Anchored Artifacts: A-1608.1
-Mentions: N-447
+Mentions: N-443
 
 Related Nodes: N-10402
 
@@ -564,7 +564,7 @@ Claim Timestamp: 00:12:48–00:13:40
 Claim: The New York Times reported that an internal audit by Japan's Liberal Democratic Party found approximately 180 elected lawmakers (almost half of the party's parliamentary membership) had accepted donations from or attended events of the Unification Church and related organizations.
 
 Anchored Artifacts: A-1609.1
-Mentions: N-409, N-454
+Mentions: N-405, N-450
 
 
 Investigative Direction: Locate the cited New York Times article; verify exact figures and any subsequent party responses.
@@ -578,7 +578,7 @@ Claim Timestamp: 00:21:30–00:22:43
 Claim: In audio played on the episode, Johnny Moore stated he is "a part of the ADL and Aspen Institute civil society… in fellowship."
 
 Anchored Artifacts: A-1610.1
-Mentions: N-447
+Mentions: N-443
 
 Related Nodes: N-10402
 
@@ -593,7 +593,7 @@ Claim Timestamp: 00:21:30–00:22:43
 Claim: Johnny Moore stated in the audio clip that he is on the advisory board for the Aspen Institute and ADL civil society fellowship.
 
 Anchored Artifacts: A-1610.1
-Mentions: N-447
+Mentions: N-443
 
 Related Nodes: N-10402
 
@@ -608,7 +608,7 @@ Claim Timestamp: 00:22:43–00:23:15
 Claim: Johnny Moore stated in audio that he is committed to "building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism."
 
 Anchored Artifacts: A-1610.2
-Mentions: N-447
+Mentions: N-443
 
 Related Nodes: N-10402
 
@@ -623,7 +623,7 @@ Claim Timestamp: 00:25:34–00:26:20
 Claim: The host presented a Sun Myung Moon quotation declaring Ron Godwin to be one of three disciples, charged with multiplying their own disciples.
 
 Anchored Artifacts: A-1614.1
-Mentions: N-409, N-448
+Mentions: N-405, N-444
 
 Related Nodes: N-10402
 
@@ -638,7 +638,7 @@ Claim Timestamp: 00:25:34–00:26:20
 Claim: The host presented a Sun Myung Moon quotation stating: "Each one of you will put yourself in Jesus's position and multiply three disciples of your own."
 
 Anchored Artifacts: A-1614.1
-Mentions: N-409, N-448
+Mentions: N-405, N-444
 
 Related Nodes: N-10402
 
@@ -653,7 +653,7 @@ Claim Timestamp: 00:34:41–00:35:36
 Claim: An unidentified Likud party member, speaking in the Knesset, declared Tucker Carlson and Candace Owens "a new enemy rising from within" the West and accused them of "intellectual vandalism."
 
 Anchored Artifacts: A-1611.1
-Mentions: N-451, N-22, N-3
+Mentions: N-447, N-22, N-3
 
 Related Nodes: N-10407
 
@@ -841,7 +841,7 @@ Claim Timestamp: 00:19:23–00:20:09
 Claim: The host stated that Johnny Moore went to Hollywood in 2015 to work with Mark Burnett.
 
 Anchored Artifacts: (none – host statement)
-Mentions: N-447, N-450
+Mentions: N-443, N-446
 
 
 Investigative Direction: Verify employment relationship through public records or business registries. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*
@@ -855,7 +855,7 @@ Claim Timestamp: 00:20:09
 Claim: The host stated that when Mark Burnett took over MGM as chairperson, the company acquired Summerhouse.
 
 Anchored Artifacts: (none – host statement)
-Mentions: N-450
+Mentions: N-446
 
 
 Investigative Direction: Verify MGM chairmanship and Summerhouse acquisition through public corporate records. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*

@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-50",
-            "N-530"
+            "N-525"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -61,9 +61,9 @@
             "C-2258"
           ],
           "related_nodes": [
-            "N-531",
+            "N-526",
             "N-9",
-            "N-539",
+            "N-534",
             "N-47"
           ],
           "tags": [],
@@ -92,9 +92,9 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-536",
+            "N-531",
             "N-186",
-            "N-545"
+            "N-540"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -123,7 +123,7 @@
           "related_nodes": [
             "N-97",
             "N-22",
-            "N-546"
+            "N-541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -150,8 +150,8 @@
             "C-2264"
           ],
           "related_nodes": [
-            "N-535",
-            "N-546"
+            "N-530",
+            "N-541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -177,8 +177,8 @@
             "C-2265"
           ],
           "related_nodes": [
-            "N-533",
-            "N-534"
+            "N-528",
+            "N-529"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -206,8 +206,8 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-532",
-            "N-538"
+            "N-527",
+            "N-533"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -291,9 +291,9 @@
             "C-2272"
           ],
           "related_nodes": [
-            "N-541",
-            "N-542",
-            "N-543"
+            "N-536",
+            "N-537",
+            "N-538"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -363,8 +363,8 @@
             "C-2277"
           ],
           "related_nodes": [
-            "N-544",
-            "N-543"
+            "N-539",
+            "N-538"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -454,7 +454,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-276",
+            "N-274",
             "N-10470"
           ],
           "tags": [],
@@ -530,13 +530,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-530"
+        "N-525"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-530",
-      "ref": "N-530",
+      "@id": "N-525",
+      "ref": "N-525",
       "name": "Wilhelm Fliess",
       "type": "person",
       "description": "German physician and Freud's intimate correspondent; recipient of the 1897 ritual scene letter; alleged perpetrator of childhood sexual abuse against his son Robert.",
@@ -555,8 +555,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-531",
-      "ref": "N-531",
+      "@id": "N-526",
+      "ref": "N-526",
       "name": "Rothschild Family",
       "type": "person",
       "description": "European banking dynasty; referenced in Epstein email per host (\"Epstein works on behalf of the Rothschilds\") and discussed in the Frankist cult / Morocco flag framing.",
@@ -596,22 +596,22 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-532",
+        "N-527",
         "N-4",
-        "N-534",
-        "N-536",
+        "N-529",
+        "N-531",
         "N-186",
         "N-47",
-        "N-539",
-        "N-540",
+        "N-534",
+        "N-535",
         "N-48",
         "N-10474"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-532",
-      "ref": "N-532",
+      "@id": "N-527",
+      "ref": "N-527",
       "name": "Peter Thiel",
       "type": "person",
       "description": "Tech billionaire and JD Vance political patron; identified in Epstein emails and discussed on Rogan regarding his Epstein relationship.",
@@ -630,7 +630,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-4",
-        "N-538",
+        "N-533",
         "N-10475"
       ]
     },
@@ -651,7 +651,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-532",
+        "N-527",
         "N-10475"
       ]
     },
@@ -677,8 +677,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Conservative podcaster (\"The Weiss Reports\"); named as defender of Alan Dershowitz and as B'nai B'rith descendant (host claim).",
@@ -691,13 +691,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-3",
-        "N-545"
+        "N-540"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-533",
-      "ref": "N-533",
+      "@id": "N-528",
+      "ref": "N-528",
       "name": "Nicki Minaj",
       "type": "person",
       "description": "Hip-hop artist; posted on X about satanic cult practices in context of Jay-Z naming.",
@@ -713,13 +713,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-534"
+        "N-529"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-534",
-      "ref": "N-534",
+      "@id": "N-529",
+      "ref": "N-529",
       "name": "Jay-Z",
       "type": "person",
       "description": "Hip-hop artist; mentioned in Epstein emails per host (in context of Harvey Weinstein watching an assault); named in Nicki Minaj X post.",
@@ -735,14 +735,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-533",
+        "N-528",
         "N-9"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-535",
-      "ref": "N-535",
+      "@id": "N-530",
+      "ref": "N-530",
       "name": "Naftali Bennett",
       "type": "person",
       "description": "Former Israeli Prime Minister; issued on-camera denial that Mossad ran Epstein.",
@@ -776,13 +776,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-535"
+        "N-530"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-536",
-      "ref": "N-536",
+      "@id": "N-531",
+      "ref": "N-531",
       "name": "Susan Hamblin",
       "type": "person",
       "description": "Financial advisor and founder of Kids-to-Families adoption agency; alleged sender of \"I give you permission to kill him\" email to Epstein (per James Lee analysis); previously sued News Group Newspapers.",
@@ -800,7 +800,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-9",
-        "N-545"
+        "N-540"
       ]
     },
     {
@@ -820,7 +820,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-536"
+        "N-531"
       ]
     },
     {
@@ -867,15 +867,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-276",
+        "N-274",
         "N-1",
         "N-10473"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Charlie Kirk associate; named recipient of \"they're going to kill me\" text per host's source; format of the text (iMessage vs Telegram) is in dispute.",
@@ -921,8 +921,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-538",
-      "ref": "N-538",
+      "@id": "N-533",
+      "ref": "N-533",
       "name": "Reid Hoffman",
       "type": "person",
       "description": "LinkedIn co-founder; per Peter Thiel, introduced Thiel to Jeffrey Epstein around 2014.",
@@ -938,14 +938,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-532",
+        "N-527",
         "N-9"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-539",
-      "ref": "N-539",
+      "@id": "N-534",
+      "ref": "N-534",
       "name": "Maria Farmer",
       "type": "person",
       "description": "Epstein victim; stated Ghislaine Maxwell described Epstein's place as \"a Jewish country club.\"",
@@ -984,14 +984,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-539",
+        "N-534",
         "N-9"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-540",
-      "ref": "N-540",
+      "@id": "N-535",
+      "ref": "N-535",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "French modeling agent; named in connection with Epstein's modeling recruitment pipeline (M Model Management, Victoria's Secret, Miss Universe per host).",
@@ -1008,8 +1008,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-541",
-      "ref": "N-541",
+      "@id": "N-536",
+      "ref": "N-536",
       "name": "Katherine Tate",
       "type": "person",
       "description": "Sender of pizza-referencing email to John Podesta released via WikiLeaks.",
@@ -1025,13 +1025,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-542"
+        "N-537"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-542",
-      "ref": "N-542",
+      "@id": "N-537",
+      "ref": "N-537",
       "name": "John Podesta",
       "type": "person",
       "description": "Clinton campaign chair; recipient of pizza-referencing emails per WikiLeaks.",
@@ -1047,13 +1047,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-541"
+        "N-536"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-543",
-      "ref": "N-543",
+      "@id": "N-538",
+      "ref": "N-538",
       "name": "Julian Assange",
       "type": "person",
       "description": "WikiLeaks founder; referenced as publisher of Podesta emails; named by commenter in context of pizza-code discussion.",
@@ -1067,14 +1067,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-541",
-        "N-542"
+        "N-536",
+        "N-537"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-544",
-      "ref": "N-544",
+      "@id": "N-539",
+      "ref": "N-539",
       "name": "Hillary Clinton",
       "type": "person",
       "description": "Former Secretary of State; named by commenter regarding WikiLeaks email to Obama about being careful around Assange; separately cited for seeking Gilgamesh's tomb in Iraq pre-invasion.",
@@ -1088,13 +1088,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-543"
+        "N-538"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-545",
-      "ref": "N-545",
+      "@id": "N-540",
+      "ref": "N-540",
       "name": "Alan Dershowitz",
       "type": "person",
       "description": "Attorney and Epstein associate; cited as having recounted a massage from a woman named \"Olga\" at Epstein's place; defended by Mark Levin and Barry Weiss.",
@@ -1108,8 +1108,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-284",
-        "N-249"
+        "N-282",
+        "N-248"
       ]
     },
     {
@@ -1132,8 +1132,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-248",
+      "ref": "N-248",
       "name": "Mark Levin",
       "type": "person",
       "description": "Conservative commentator; named as defender of Alan Dershowitz.",
@@ -1145,13 +1145,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-545"
+        "N-540"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-546",
-      "ref": "N-546",
+      "@id": "N-541",
+      "ref": "N-541",
       "name": "Todd Blanche",
       "type": "person",
       "description": "Deputy Attorney General; named by host as stating DOJ is \"sparing us the videos.\"",
@@ -1252,7 +1252,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-276"
+        "N-274"
       ]
     },
     {
@@ -1328,7 +1328,7 @@
         "N-1",
         "N-14",
         "N-7",
-        "N-276",
+        "N-274",
         "N-98"
       ]
     },
@@ -1355,8 +1355,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-9",
-        "N-532",
-        "N-538"
+        "N-527",
+        "N-533"
       ]
     },
     {
@@ -1376,7 +1376,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-532",
+        "N-527",
         "N-4"
       ]
     },
@@ -1439,8 +1439,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
@@ -1455,8 +1455,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-280",
-      "ref": "N-280",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Jonathan Pollard",
       "type": "person",
       "description": "Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.",
@@ -1504,7 +1504,7 @@
       "investigative_direction": "Obtain the full Freud-Fliess correspondence from standard critical editions to verify the quote in full context.",
       "mentions_person_refs": [
         "N-50",
-        "N-530"
+        "N-525"
       ]
     },
     {
@@ -1575,7 +1575,7 @@
       "mentions_person_refs": [
         "N-9",
         "N-47",
-        "N-539"
+        "N-534"
       ]
     },
     {
@@ -1591,7 +1591,7 @@
       "investigative_direction": "Identify the specific Epstein email in DOJ releases containing the Rothschild reference.",
       "mentions_person_refs": [
         "N-9",
-        "N-531"
+        "N-526"
       ]
     },
     {
@@ -1610,7 +1610,7 @@
       "mentions_person_refs": [
         "N-9",
         "N-186",
-        "N-536"
+        "N-531"
       ]
     },
     {
@@ -1627,7 +1627,7 @@
       "claim_timestamp": "00:16:29",
       "investigative_direction": "Verify the litigation through court records (UK).",
       "mentions_person_refs": [
-        "N-536",
+        "N-531",
         "N-186"
       ]
     },
@@ -1682,7 +1682,7 @@
       "investigative_direction": "Obtain the full Bennett interview recording.",
       "mentions_person_refs": [
         "N-9",
-        "N-535"
+        "N-530"
       ]
     },
     {
@@ -1699,8 +1699,8 @@
       "claim_timestamp": "00:20:38",
       "investigative_direction": "Verify Bennett's claim against declassified or publicly known Mossad operations post-1987.",
       "mentions_person_refs": [
-        "N-535",
-        "N-280"
+        "N-530",
+        "N-278"
       ]
     },
     {
@@ -1717,8 +1717,8 @@
       "claim_timestamp": "00:22:23",
       "investigative_direction": "Locate Minaj's original post on X; identify which artist she is referencing (context suggests Jay-Z).",
       "mentions_person_refs": [
-        "N-533",
-        "N-534"
+        "N-528",
+        "N-529"
       ]
     },
     {
@@ -1736,9 +1736,9 @@
       "investigative_direction": "Confirm date and circumstances against any released Thiel email metadata with Hoffman.",
       "mentions_person_refs": [
         "N-9",
-        "N-532",
-        "N-538",
-        "N-274"
+        "N-527",
+        "N-533",
+        "N-272"
       ]
     },
     {
@@ -1756,7 +1756,7 @@
       "investigative_direction": "Compare Thiel's Rogan account to the volume and content of his released emails with Epstein.",
       "mentions_person_refs": [
         "N-9",
-        "N-532"
+        "N-527"
       ]
     },
     {
@@ -1857,9 +1857,9 @@
       "claim_timestamp": "00:14:46",
       "investigative_direction": "Verify the email against the WikiLeaks Podesta archive; identify context and any related communications.",
       "mentions_person_refs": [
-        "N-541",
-        "N-542",
-        "N-543"
+        "N-536",
+        "N-537",
+        "N-538"
       ]
     },
     {
@@ -1879,7 +1879,7 @@
       "investigative_direction": "Obtain device forensic records for Dan Flood's phone; obtain any receipts or carrier records; cross-check against Telegram server logs (Telegram messages are not auto-cleared by default).",
       "mentions_person_refs": [
         "N-14",
-        "N-276",
+        "N-274",
         "N-2",
         "N-3"
       ]
@@ -1901,7 +1901,7 @@
       "investigative_direction": "Obtain corroborating testimony from Andrew Kolvet; cross-reference with Dan Flood's device records.",
       "mentions_person_refs": [
         "N-14",
-        "N-276",
+        "N-274",
         "N-1",
         "N-3"
       ]
@@ -1959,8 +1959,8 @@
       "claim_timestamp": "00:57:34",
       "investigative_direction": "Verify the underlying WikiLeaks document.",
       "mentions_person_refs": [
-        "N-543",
-        "N-544"
+        "N-538",
+        "N-539"
       ]
     },
     {

@@ -450,7 +450,7 @@ Claim Timestamp: 00:03:25–00:04:12
 Claim: On the Joe Rogan Experience, Andrew Wilson stated he offered Candace Owens $300,000 to debate him regarding the Charlie Kirk case.
 
 Anchored Artifacts: A-2255.1
-Mentions: N-18, N-3, N-1, N-274
+Mentions: N-18, N-3, N-1, N-272
 
 Related Nodes:
 
@@ -465,7 +465,7 @@ Claim Timestamp: 00:04:12–00:05:52
 Claim: On the Joe Rogan Experience, Andrew Wilson stated that during a visit to TPUSA HQ he spoke briefly with Erica Kirk and hugged her, expressing sympathy for her loss.
 
 Anchored Artifacts: A-2255.2
-Mentions: N-2, N-18, N-274
+Mentions: N-2, N-18, N-272
 
 Related Nodes:
 
@@ -480,7 +480,7 @@ Claim Timestamp: 00:03:25–00:04:59
 Claim: On the Joe Rogan Experience, Andrew Wilson stated that Candace Owens has never presented a single shred of evidence for her theory that Israel/TPUSA/Erica Kirk conspired in Charlie Kirk's death, and that the position evolved after Erica Kirk publicly called for the conspiracy talk to stop.
 
 Anchored Artifacts: A-2255.3
-Mentions: N-1, N-2, N-18, N-3, N-274
+Mentions: N-1, N-2, N-18, N-3, N-272
 
 Related Nodes:
 
@@ -510,7 +510,7 @@ Claim Timestamp: 00:13:00
 Claim: Blake Nef posted on X recommending Andrew Wilson's Joe Rogan appearance, stating Wilson "does a great job" dissecting conspiracy theories and answering Rogan's questions.
 
 Anchored Artifacts: A-2257.1
-Mentions: N-18, N-162, N-274
+Mentions: N-18, N-162, N-272
 
 Related Nodes:
 

@@ -927,8 +927,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -943,8 +943,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "AV / camera operator (Terrell / Tara / Taro / Teo Farnsworth ASR variants). Credited for Frank Turek trunk-entry video in this episode; first ledger intro ep33.",
@@ -960,8 +960,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-498",
-      "ref": "N-498",
+      "@id": "N-493",
+      "ref": "N-493",
       "name": "Rick Cutler",
       "type": "person",
       "description": "First named by the host at 00:10:43 in episode 121.",
@@ -1013,7 +1013,7 @@
       "claim_timestamp": "00:06:20–00:07:24",
       "investigative_direction": "Obtain full unedited Brian Harpole interview transcript; corroborate against any ER surveillance footage (if not destroyed) and ER staff testimony.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -1032,8 +1032,8 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.",
       "mentions_person_refs": [
-        "N-272",
-        "N-498"
+        "N-270",
+        "N-493"
       ]
     },
     {
@@ -1052,7 +1052,7 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Cross-reference with traffic-cam and police-body-cam timestamps to estimate actual travel speed.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -1072,7 +1072,7 @@
       "claim_timestamp": "00:13:09–00:13:30",
       "investigative_direction": "Compare dressing count against visible dressing/pack debris in car interior photos; obtain medical supply packaging for roll length verification.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -1092,7 +1092,7 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Obtain Frank Turek's own account of his activity during the ride; identify any audio recording that could capture in-car speech.",
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-7"
       ]
     },
@@ -1112,8 +1112,8 @@
       "claim_timestamp": "00:11:31–00:12:26",
       "investigative_direction": "Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.",
       "mentions_person_refs": [
-        "N-272",
-        "N-498"
+        "N-270",
+        "N-493"
       ]
     },
     {
@@ -1171,7 +1171,7 @@
       "investigative_direction": "Obtain the original unedited Tara Farnsworth video; preserve metadata for chain-of-custody purposes.",
       "mentions_person_refs": [
         "N-7",
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -1227,7 +1227,7 @@
       "claim_timestamp": "00:16:18–00:16:50",
       "investigative_direction": "High-resolution review of car floor photos for additional packaging remnants; obtain official product dimensions for verification.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -1350,7 +1350,7 @@
       "claim_timestamp": "00:51:15–00:51:45",
       "investigative_direction": "Independent verification of ER protocols from additional medical professionals; obtain hospital incident logs.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -1369,7 +1369,7 @@
       "claim_timestamp": "00:51:57",
       "investigative_direction": "Same as C-2964.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -1424,7 +1424,7 @@
       "claim_timestamp": "00:13:09–00:14:33",
       "investigative_direction": "Obtain full Brian Harpole interview transcript; cross-reference with hospital intake records regarding initial pulse detection.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     }
   ],

@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11804–C-11858
   - New Nodes Introduced: N-10841, N-10842, N-10843, N-10844, N-10845, N-10846
-  - Reused Nodes Appearing: N-2, N-14, N-22, N-162, N-25, N-10840, N-18, N-69, N-277, N-337, N-600, N-604, N-745, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246
+  - Reused Nodes Appearing: N-2, N-14, N-22, N-162, N-25, N-10840, N-18, N-69, N-275, N-334, N-595, N-599, N-739, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246
 
 ---
 
@@ -380,7 +380,7 @@ Video Timestamp: 00:55:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11851, N-337, N-3, N-11313*
+*Related: C-11851, N-334, N-3, N-11313*
 
 ---
 
@@ -542,7 +542,7 @@ Host; speaks for herself throughout.
 
 ---
 
-**N-337** Baron Coleman
+**N-334** Baron Coleman
 
 Baron Coleman; the host says he will take over her show while she is on leave.
 
@@ -550,7 +550,7 @@ Baron Coleman; the host says he will take over her show while she is on leave.
 
 ---
 
-**N-277** Jeff Long
+**N-275** Jeff Long
 
 Utah Valley University police chief; quoted in the ABC article on attendance and officer numbers.
 
@@ -574,7 +574,7 @@ Kash Patel; named in the host's sarcastic list of TPUSA 2.0 connections.
 
 ---
 
-**N-604** Pete Hegseth
+**N-599** Pete Hegseth
 
 Pete Hegseth; named in the host's sarcastic list of TPUSA 2.0 connections (transcribed "Hegsmith").
 
@@ -590,7 +590,7 @@ Ghislaine Maxwell; subject of an Empress Films documentary the host says critics
 
 ---
 
-**N-745** Stu Peters
+**N-739** Stu Peters
 
 Stu Peters; the host says Blake Neff worked for him before the Charlie Kirk show job.
 
@@ -606,7 +606,7 @@ Charged suspect in the Kirk shooting; named in the host's remark about footage r
 
 ---
 
-**N-600** Matt Tardio
+**N-595** Matt Tardio
 
 Matt Tardio; the host says TPUSA welcomes him despite his conduct near ICE facilities.
 
@@ -1152,7 +1152,7 @@ Claim: The host reads that Chief Jeff Long told reporters over 3,000 people atte
 Transcript Snippet: noting that they had six officers working at the event and Kirk had his own security team.
 
 Anchored Artifacts: A-2393.1
-Mentions: N-277, N-1, N-3
+Mentions: N-275, N-1, N-3
 Related Nodes: N-10012, N-10840
 Tags: relevance:core
 Investigative Direction: Obtain the UVU police staffing plan and the press conference recording.
@@ -1493,7 +1493,7 @@ Claim: The host says, in describing the new TPUSA 2.0 leadership, that they know
 Transcript Snippet: We know Kash Patel. We know Pete Hegsmith. We got We got the Exec office on speed dial.
 
 Anchored Artifacts: 
-Mentions: N-69, N-604, N-3
+Mentions: N-69, N-599, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify documented TPUSA contacts with the Patel FBI, Hegseth Pentagon and White House.
@@ -1671,7 +1671,7 @@ Claim: The host says Blake Neff was working for Stu Peters before he got the Cha
 Transcript Snippet: He was actually working for Stu Peters and he calls in effectively a favor to get him this job with Charlie Kirk.
 
 Anchored Artifacts: 
-Mentions: N-162, N-745, N-22, N-1
+Mentions: N-162, N-739, N-22, N-1
 Related Nodes: N-11057
 Tags: relevance:context
 Investigative Direction: Check Neff's employment history between leaving Fox and joining TPUSA.
@@ -1833,7 +1833,7 @@ Claim: The host says, joking about how TPUSA would react to her leave, that she 
 Transcript Snippet: They were probably so excited. Like she's gone for like eight weeks.
 
 Anchored Artifacts: A-3169.1
-Mentions: N-337, N-3
+Mentions: N-334, N-3
 Related Nodes: N-11313
 Tags: relevance:context
 Investigative Direction: Host's own announcement; confirm leave dates and fill-in schedule from the show.
@@ -1914,7 +1914,7 @@ Claim: The host says TPUSA has Matt Tardio on its show and lets him on as long a
 Transcript Snippet: while you are chasing young women down alleys in front of ICE facilities.
 
 Anchored Artifacts: 
-Mentions: N-600, N-2, N-3
+Mentions: N-595, N-2, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify the incident involving Tardio and ICE facilities and the TPUSA appearances referred to.

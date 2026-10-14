@@ -15,8 +15,8 @@
   - Hole-minted Nodes (remap-ep104): N-163
   - Hole-minted Nodes (reintro-ep104): N-10888
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-633, N-634, N-635, N-636, N-10923, N-10924, N-10926, N-10927, N-10928
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-16, N-33, N-82, N-119, N-132, N-162, N-326, N-369, N-379, N-387, N-500, N-623, N-10000, N-10075, N-10132, N-10194, N-10300, N-10388, N-10493, N-10530, N-10637, N-10638, N-10666, N-10899, N-10900, N-10925, N-217
+  - Tip-minted Nodes (skeleton): N-628, N-629, N-630, N-631, N-10923, N-10924, N-10926, N-10927, N-10928
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-16, N-33, N-82, N-119, N-132, N-162, N-323, N-366, N-376, N-383, N-495, N-618, N-10000, N-10075, N-10132, N-10194, N-10300, N-10388, N-10493, N-10530, N-10637, N-10638, N-10666, N-10899, N-10900, N-10925, N-217
   - Claim Range: C-4062–C-4107
   - (see registers)
 
@@ -24,7 +24,7 @@
 
 The host says the White House Military Office sent a communications email at about 9:49 p.m. Eastern on the night of the White House Correspondents' Dinner shooting, and that the White House then tried to rescind it. She dates the shooting to 8:36 p.m. and says Sarah Sidner of CNN was the first to post Erika Kirk's "I just want to go home" clip, at 9:25 p.m., citing Instagram metadata (A-2575.1). She reads the part of the email that calls the clip the incident's "strongest emotional response" asset and recommends that all channels and "approved surrogates" amplify it overnight (A-2574.1). The host does not show the email. She says the Department of Defense uses a "canary" watermarking tactic to trace leakers, and she names three people she says were copied: Steven Cheung, Ryan Rippeon and Gustav Anderly of the White House Communications Agency. She adds that, according to her sources, the recall failed and recipients were ordered to delete the email (A-2574.2).
 
-The host then relays a tips-line story she says was verified with receipts (A-2576.1). According to the host, Justin Strife, who had been promoted to TPUSA chief operating officer seven days before the assassination, allegedly called a book printer on September 10 to at least double the order for Charlie Kirk's book "Stop in the Name of God", after getting Erika Kirk's approval. She repeats an outside source's and an insider's accounts that about $10 million was missing from Turning Point Action. She also says Strife runs Winning Team Publishing, which Sergio Gor and Donald Trump Jr. founded. She relays a rumor that Gor left his White House deputy chief of staff role after clashing with Elon Musk, including over Jared Isaacman's appointment, and over an alleged relationship. She plays Erika Kirk's remarks at Gor's ambassador-to-India ceremony (A-2577.1).
+The host then relays a tips-line story she says was verified with receipts (A-2576.1). According to the host, Justin Streiff, who had been promoted to TPUSA chief operating officer seven days before the assassination, allegedly called a book printer on September 10 to at least double the order for Charlie Kirk's book "Stop in the Name of God", after getting Erika Kirk's approval. She repeats an outside source's and an insider's accounts that about $10 million was missing from Turning Point Action. She also says Strife runs Winning Team Publishing, which Sergio Gor and Donald Trump Jr. founded. She relays a rumor that Gor left his White House deputy chief of staff role after clashing with Elon Musk, including over Jared Isaacman's appointment, and over an alleged relationship. She plays Erika Kirk's remarks at Gor's ambassador-to-India ceremony (A-2577.1).
 
 In later segments the host mocks Jessica Reed Kraus's posts relaying praise from Nick Shirley's elementary school teachers, together with Shirley's reply (A-2578). She shows a Times headline saying Brigitte Macron slapped her husband over text messages to an Iranian actress (A-2579). In the comments she says Captain Adam Nef was found and confirmed questioning Mitch Snow. She also says TPUSA is now paying chapter leaders not to close chapters and that her merch had its highest sales day after the "boycott advertisers" campaign.
 
@@ -41,7 +41,7 @@ Video Timestamp: 00:06:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4062, C-4066, C-4067, C-4069, C-4070, C-4071, C-4072, C-4076, N-10923, N-2, N-163, N-633, N-634*
+*Related: C-4062, C-4066, C-4067, C-4069, C-4070, C-4071, C-4072, C-4076, N-10923, N-2, N-163, N-628, N-629*
 
 **A-2574.2** Host verbal reference to the follow-up emails ordering recipients to delete the original (not shown)
 
@@ -63,13 +63,13 @@ Video Timestamp: 00:02:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4065, N-379, N-2, N-10638*
+*Related: C-4065, N-376, N-2, N-10638*
 
 ---
 
 **A-2576** Tips Line Bundle
 
-**A-2576.1** Host verbal reference to a tips-line story on Justin Strife's September 10 book-printer call, which she says was verified with receipts (receipts not shown)
+**A-2576.1** Host verbal reference to a tips-line story on Justin Streiff's September 10 book-printer call, which she says was verified with receipts (receipts not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:14:41
@@ -106,7 +106,7 @@ Video Timestamp: 00:30:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4097, N-623, N-217, N-3*
+*Related: C-4097, N-618, N-217, N-3*
 
 **A-2578.2** Nick Shirley reply to Jessica Reed Kraus (shown and read)
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:30:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4099, N-623, N-217, N-3, N-1*
+*Related: C-4099, N-618, N-217, N-3, N-1*
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:34:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4101, N-82, N-387, N-10928*
+*Related: C-4101, N-82, N-383, N-10928*
 
 **A-2579.2** Times headline on Brigitte Macron slapping her husband over text messages to an actress (shown)
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:35:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4100, C-4101, N-82, N-387, N-636, N-10928*
+*Related: C-4100, C-4101, N-82, N-383, N-631, N-10928*
 
 ---
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:40:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4102, C-4103, N-162, N-326*
+*Related: C-4102, C-4103, N-162, N-323*
 
 ---
 
@@ -208,7 +208,7 @@ The host recalls him calling her, when they were friends, to ask whether she was
 *Related: C-4105*
 
 **N-15** Justin Streiff
-Transcript spellings "Justin Strife" and "Justin Streiff" (chapter title). TPUSA COO promoted seven days before the assassination. He allegedly called "Pierre" and a book printer on September 10 and also runs Winning Team Publishing.
+Transcript spellings "Justin Streiff" and "Justin Streiff" (chapter title). TPUSA COO promoted seven days before the assassination. He allegedly called "Pierre" and a book printer on September 10 and also runs Winning Team Publishing.
 
 *Related: C-4063, C-4077, C-4078, C-4079, C-4080, C-4082, C-4085, C-4086, C-4087, C-4089, C-4090, A-2576.1*
 
@@ -262,25 +262,25 @@ Subject of Jessica Reed Kraus's teacher-praise posts; his reply on keeping in to
 
 *Related: C-4097, C-4098, C-4099, A-2578.1, A-2578.2, A-2578.3*
 
-**N-326** Captain Adam Nef
+**N-323** Captain Adam Nef
 
 Host says the team found him and confirmed he questioned Mitch Snow as Snow described.
 
 *Related: C-4102, C-4103, A-2580.1*
 
-**N-369** Mitch Snow
+**N-366** Mitch Snow
 
 His Fort Huachuca account is said to have checked out through Captain Adam Nef.
 
 *Related: C-4102*
 
-**N-379** Sarah Sidner
+**N-376** Sarah Sidner
 
 Transcript spellings "Sarah Sidner" / "Sarah Seidner". CNN anchor the host says first posted the "I want to go home" clip, at 9:25 p.m. Eastern.
 
 *Related: C-4065, C-4073, A-2575.1*
 
-**N-500** Lori Frantzve
+**N-495** Lori Frantzve
 
 Erika Kirk's mother; the host says the Turning Point Action "super feed" back door pays her.
 
@@ -310,7 +310,7 @@ Host says the decision on Erika Kirk taking over the board and CEO role was made
 
 *Related: C-4088*
 
-**N-10300** Justin Strife Post-Assassination Phone Call
+**N-10300** Justin Streiff Post-Assassination Phone Call
 
 Restated (Pierre) and extended with the alleged book-printer call.
 
@@ -370,31 +370,31 @@ The host says she had agreed to a private court process with the Daily Wire.
 
 *Related: C-4104*
 
-**N-633** Ryan Rippeon
+**N-628** Ryan Rippeon
 
 First named by the host at 00:04:55 in episode 104. Named as copied on the White House Military Office email.
 
 *Related: C-4069, A-2574.1*
 
-**N-634** Gustav Anderly
+**N-629** Gustav Anderly
 
 First named by the host at 00:04:55 in episode 104. Copied on the email; described as information systems manager at the White House Communications Agency in Arlington, Virginia.
 
 *Related: C-4069, C-4070, A-2574.1*
 
-**N-635** Jared Isaacman
+**N-630** Jared Isaacman
 
 First named by the host at 00:22:23 in episode 104. Described as Elon Musk's pick whose appointment Sergio Gor allegedly blocked.
 
 *Related: C-4093*
 
-**N-623** Jessica Reed Kraus
+**N-618** Jessica Reed Kraus
 
 First named by the host at 00:29:22 in episode 104. Writer whose posts relayed praise from Nick Shirley's teachers. Aliases: Jessica Reed Krauss; House and Drinking Habit.
 
 *Related: C-4097, C-4099, A-2578.1, A-2578.3*
 
-**N-636** Golshifteh Farahani
+**N-631** Golshifteh Farahani
 
 First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named in the Times account of the Macron slap. Aliases: Gosh Farani; Gosh Fani; Farhani; Verahani; Verhani.
 
@@ -405,12 +405,12 @@ First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named
 Node Type: Topic
 Investigation target: a White House Military Office communications email sent at about 9:49 p.m. Eastern on the night of the WHCD shooting. The host says it described an "Amendment to the Erika Kirk video clip" and recommended that all channels, digital partners and "approved surrogates" amplify the clip overnight. She says it was copied to Steven Cheung, Ryan Rippeon and Gustav Anderly (White House Communications Agency), carried canary watermarks, and that the White House tried to recall it and then ordered recipients to delete it.
 
-*Related: C-4062, C-4066, C-4067, C-4069, C-4070, C-4071, C-4072, C-4074, C-4075, C-4076, A-2574.1, A-2574.2, N-163, N-633, N-634*
+*Related: C-4062, C-4066, C-4067, C-4069, C-4070, C-4071, C-4072, C-4074, C-4075, C-4076, A-2574.1, A-2574.2, N-163, N-628, N-629*
 
-**N-10924** Justin Strife September 10 Book-Printer Call
+**N-10924** Justin Streiff September 10 Book-Printer Call
 
 Node Type: Topic
-Investigation target: a tip, which the host says was verified with receipts, that on September 10, 2025 Justin Strife called a printer (a former US Army interrogator). According to the tip, he arranged to at least double a planned 25,000–50,000 order of Charlie Kirk's book "Stop in the Name of God" after getting Erika Kirk's approval.
+Investigation target: a tip, which the host says was verified with receipts, that on September 10, 2025 Justin Streiff called a printer (a former US Army interrogator). According to the tip, he arranged to at least double a planned 25,000–50,000 order of Charlie Kirk's book "Stop in the Name of God" after getting Erika Kirk's approval.
 
 *Related: C-4077, C-4085, C-4086, C-4087, A-2576.1, N-15, N-2*
 
@@ -424,7 +424,7 @@ TPUSA's political affiliate, which the host says is headed by Tyler Bowyer. The 
 **N-10926** Winning Team Publishing
 
 Node Type: Organization
-Conservative book publisher that the host says was founded by Sergio Gor and Donald Trump Jr. She says Justin Strife also runs it, which she calls a possible conflict of interest.
+Conservative book publisher that the host says was founded by Sergio Gor and Donald Trump Jr. She says Justin Streiff also runs it, which she calls a possible conflict of interest.
 
 *Related: C-4089, C-4090, N-15, N-16, N-33*
 
@@ -440,9 +440,9 @@ Investigation target: the host's rumor that Sergio Gor, then White House deputy 
 Node Type: Topic
 Investigation target: the shifting explanations of Brigitte Macron's May 2025 Hanoi airport slap. The latest is a Times report that she was angry over text messages to Emmanuel Macron from an exiled Iranian actress, who denied any affair.
 
-*Related: C-4100, C-4101, A-2579.1, A-2579.2, N-82, N-387, N-636*
+*Related: C-4100, C-4101, A-2579.1, A-2579.2, N-82, N-383, N-631*
 
-**N-387** Emmanuel Macron
+**N-383** Emmanuel Macron
 
 Transcript spelling "Emanuel Mcronone". Recipient of the slap; said to have received texts from the actress.
 
@@ -465,11 +465,11 @@ Investigative Direction: Obtain White House Military Office email server recall 
 
 ---
 
-**C-4063** Justin Strife allegedly phoned "Pierre" on September 10
+**C-4063** Justin Streiff allegedly phoned "Pierre" on September 10
 
 Claim Timestamp: 00:00:01
 
-Claim: The host restates that Justin Strife is the person who allegedly phoned "the mysterious Pierre" on the day Charlie Kirk died.
+Claim: The host restates that Justin Streiff is the person who allegedly phoned "the mysterious Pierre" on the day Charlie Kirk died.
 
 Transcript Snippet: he's the person who allegedly phoned the mysterious Pierre on that day.
 
@@ -477,7 +477,7 @@ Anchored Artifacts:
 Mentions: N-15, N-1
 Related Nodes: N-10300, N-10493
 Supports: C-1814, C-1815
-Investigative Direction: Obtain Justin Strife's September 10, 2025 call records and identify the "Pierre" he allegedly called.
+Investigative Direction: Obtain Justin Streiff's September 10, 2025 call records and identify the "Pierre" he allegedly called.
 
 ---
 
@@ -504,7 +504,7 @@ Claim: The host says CNN's Sarah Sidner was the first person on social media to 
 Transcript Snippet: Sarah Sidner, you will recall, of CNN, uh she became the first person on social media to upload the now infamous I I want to go home video, Erika Kirk.
 
 Anchored Artifacts: A-2575.1
-Mentions: N-379, N-2
+Mentions: N-376, N-2
 Related Nodes: N-10638, N-10637
 Supports: C-2793
 Investigative Direction: Pull the Instagram post's server timestamp and check for any earlier upload of the clip on other platforms.
@@ -565,7 +565,7 @@ Claim: The host says Steven Cheung, Ryan Rippeon and Gustav Anderly were among t
 Transcript Snippet: Uh Steven Cheung was copied on the email. Um, Ryan Ripian was copied on the email and gentleman named Gustav Anderly was copied on the email.
 
 Anchored Artifacts: A-2574.1
-Mentions: N-163, N-633, N-634, N-3
+Mentions: N-163, N-628, N-629, N-3
 Related Nodes: N-10923
 Investigative Direction: Ask the named recipients or their press offices to confirm receipt of the 9:49 p.m. email.
 
@@ -580,7 +580,7 @@ Claim: The host says Gustav Anderly is listed as information systems manager at 
 Transcript Snippet: it just says he's the information systems manager um at the White House communications agency in Arlington, Virginia.
 
 Anchored Artifacts: A-2574.1
-Mentions: N-634
+Mentions: N-629
 Related Nodes: N-10923
 Investigative Direction: Verify Gustav Anderly's title through White House Communications Agency staff directories or public profiles.
 
@@ -625,7 +625,7 @@ Claim: The host says she is told the "I want to go home" video was not recorded 
 Transcript Snippet: I am told um that this was not a video recorded by Sarah Seidner and that instead it was distributed to Sarah Seidner and that they had operatives record that moment.
 
 Anchored Artifacts:
-Mentions: N-379, N-2
+Mentions: N-376, N-2
 Related Nodes: N-10638
 Investigative Direction: Ask CNN and Sidner for the original file's metadata and its source, and identify the device that recorded the clip.
 
@@ -673,11 +673,11 @@ Investigative Direction: Compare the full email with official WHMO and White Hou
 
 ---
 
-**C-4077** Tips-line story on Justin Strife was verified with receipts
+**C-4077** Tips-line story on Justin Streiff was verified with receipts
 
 Claim Timestamp: 00:14:41
 
-Claim: The host says her tips line supplied a story about Justin Strife's September 10 phone calls that her team verified because the tipster provided receipts.
+Claim: The host says her tips line supplied a story about Justin Streiff's September 10 phone calls that her team verified because the tipster provided receipts.
 
 Transcript Snippet: we learned another totally wacky story um from our tips line that we were able to verify because they provided receipts.
 
@@ -688,11 +688,11 @@ Investigative Direction: Identify the receipts (invoices, messages or call logs)
 
 ---
 
-**C-4078** Justin Strife was promoted to COO seven days before Charlie Kirk was assassinated
+**C-4078** Justin Streiff was promoted to COO seven days before Charlie Kirk was assassinated
 
 Claim Timestamp: 00:15:31
 
-Claim: The host says Justin Strife's chief operating officer position at Turning Point USA was new, and that he was promoted to it just seven days before Charlie Kirk was assassinated.
+Claim: The host says Justin Streiff's chief operating officer position at Turning Point USA was new, and that he was promoted to it just seven days before Charlie Kirk was assassinated.
 
 Transcript Snippet: That's a new position to which he was promoted just 7 days before Charlie Kirk was assassinated.
 
@@ -704,11 +704,11 @@ Investigative Direction: Obtain the September 2025 TPUSA internal memo announcin
 
 ---
 
-**C-4079** Erika Kirk brought Justin Strife to the 4-hour sitdown with the host
+**C-4079** Erika Kirk brought Justin Streiff to the 4-hour sitdown with the host
 
 Claim Timestamp: 00:15:31
 
-Claim: The host says Justin Strife was the person Erika Kirk brought with her to their four-hour sitdown meeting, and that she asked him there about the TPUSA audit.
+Claim: The host says Justin Streiff was the person Erika Kirk brought with her to their four-hour sitdown meeting, and that she asked him there about the TPUSA audit.
 
 Transcript Snippet: He was, as you will recall, also the person that Erika brought with her for our 4-hour sitdown meeting.
 
@@ -718,11 +718,11 @@ Investigative Direction: Confirm attendees of the meeting through calendars or s
 
 ---
 
-**C-4080** Charlie Kirk announced the audit at the same time he promoted Justin Strife
+**C-4080** Charlie Kirk announced the audit at the same time he promoted Justin Streiff
 
 Claim Timestamp: 00:15:31
 
-Claim: The host says Charlie Kirk announced the TPUSA audit in the same email in which he promoted Justin Strife.
+Claim: The host says Charlie Kirk announced the TPUSA audit in the same email in which he promoted Justin Streiff.
 
 Transcript Snippet: The the audit that Charlie announced at the same time that he promoted Justin, remember that was one email
 
@@ -749,11 +749,11 @@ Investigative Direction: Obtain Turning Point Action and America's Turning Point
 
 ---
 
-**C-4082** Insider says Justin Strife was overheard yelling about money missing from Turning Point Action
+**C-4082** Insider says Justin Streiff was overheard yelling about money missing from Turning Point Action
 
 Claim Timestamp: 00:16:26
 
-Claim: The host says a source inside the organization told her Justin Strife was overheard on the phone yelling that all of the money was missing from Turning Point Action; she labels it alleged.
+Claim: The host says a source inside the organization told her Justin Streiff was overheard on the phone yelling that all of the money was missing from Turning Point Action; she labels it alleged.
 
 Transcript Snippet: they uh said Justin was actually overheard on the phone yelling about missing money that all of the money was missing from Turning Point Action.
 
@@ -773,7 +773,7 @@ Claim: The host says Turning Point Action is headed by Tyler Bowyer and that the
 Transcript Snippet: Turning Point Action is headed up by Tyler Bowyer and we have already explained to you that they have built that super feed back door which pays Lori Frantzve, Erika Kirk's mom.
 
 Anchored Artifacts:
-Mentions: N-11, N-500
+Mentions: N-11, N-495
 Related Nodes: N-10925, N-10530, N-10388
 Investigative Direction: Obtain Super Feed Inc. ownership and payment records and Turning Point Action vendor disbursements.
 
@@ -795,11 +795,11 @@ Investigative Direction: Obtain DOGE team charter documents and staff assignment
 
 ---
 
-**C-4085** Justin Strife allegedly called a former US Army interrogator turned book printer on September 10
+**C-4085** Justin Streiff allegedly called a former US Army interrogator turned book printer on September 10
 
 Claim Timestamp: 00:17:23
 
-Claim: The host says that on the day Charlie Kirk died, Justin Strife allegedly made another phone call, to a former US Army interrogator turned book printer.
+Claim: The host says that on the day Charlie Kirk died, Justin Streiff allegedly made another phone call, to a former US Army interrogator turned book printer.
 
 Transcript Snippet: He allegedly, I'll say allegedly, called a former US Army interrogator turned book printer.
 
@@ -816,7 +816,7 @@ Claim Timestamp: 00:18:19
 
 Claim: The host says that hours after Charlie Kirk died, Strife allegedly told the printer they would need to at least double a previously planned order of roughly 25,000–50,000 copies of Charlie's upcoming book "Stop in the Name of God."
 
-Transcript Snippet: Justin Strife allegedly apparently reached out to the printer and said that uh let's order some more books. I'm going to ask Erika and I'm and I'll call you back but we're going to need to at least double that order.
+Transcript Snippet: Justin Streiff allegedly apparently reached out to the printer and said that uh let's order some more books. I'm going to ask Erika and I'm and I'll call you back but we're going to need to at least double that order.
 
 Anchored Artifacts: A-2576.1
 Mentions: N-15, N-2, N-1
@@ -855,26 +855,26 @@ Investigative Direction: Obtain TPUSA board minutes and resolutions from Septemb
 
 ---
 
-**C-4089** Justin Strife also runs Winning Team Publishing, founded by Sergio Gor and Don Jr.
+**C-4089** Justin Streiff also runs Winning Team Publishing, founded by Sergio Gor and Don Jr.
 
 Claim Timestamp: 00:20:14
 
-Claim: The host says Justin Strife also runs Winning Team Publishing, a conservative book publisher started by Sergio Gor and Donald Trump Jr., as a second full-time job.
+Claim: The host says Justin Streiff also runs Winning Team Publishing, a conservative book publisher started by Sergio Gor and Donald Trump Jr., as a second full-time job.
 
 Transcript Snippet: He's also running um Winning Team Publishing. If that sounds familiar to you, that's that book publishing, conservative book publishing company that was started by Sergio Gor and Don Trump Jr.
 
 Anchored Artifacts:
 Mentions: N-15, N-16, N-33
 Related Nodes: N-10926
-Investigative Direction: Check Winning Team Publishing corporate filings and officer listings for Justin Strife.
+Investigative Direction: Check Winning Team Publishing corporate filings and officer listings for Justin Streiff.
 
 ---
 
-**C-4090** Justin Strife receives money from Winning Team Publishing
+**C-4090** Justin Streiff receives money from Winning Team Publishing
 
 Claim Timestamp: 00:21:13
 
-Claim: The host says Justin Strife receives money from Winning Team Publishing and would stand to benefit from high book sales, which she calls a possible conflict of interest.
+Claim: The host says Justin Streiff receives money from Winning Team Publishing and would stand to benefit from high book sales, which she calls a possible conflict of interest.
 
 Transcript Snippet: Justin is also receiving money from winning team publishing uh and would I would imagine stand to benefit greatly uh from high book sales.
 
@@ -924,7 +924,7 @@ Claim: The host relays a rumor that Sergio Gor had it out for Elon Musk, was see
 Transcript Snippet: Sergio Gor personally put a stop to Elon Musk's guy uh Jared Isaacman being appointed.
 
 Anchored Artifacts:
-Mentions: N-16, N-119, N-635, N-5
+Mentions: N-16, N-119, N-630, N-5
 Related Nodes: N-10927
 Investigative Direction: Review reporting on the withdrawal of Jared Isaacman's NASA nomination and White House personnel office involvement.
 
@@ -985,7 +985,7 @@ Claim: The host shows a post by Jessica Reed Kraus saying two of Nick Shirley's 
 Transcript Snippet: Two of Nick Shirley's elementary school teachers reached out to me recently to praise Nick, recounting what a smart, sweet, kind kid he was throughout his early years.
 
 Anchored Artifacts: A-2578.1
-Mentions: N-623, N-217
+Mentions: N-618, N-217
 Related Nodes: N-10666
 Investigative Direction: Archive the post with its date and URL.
 
@@ -1015,7 +1015,7 @@ Claim: The host shows a follow-up post by Jessica Reed Kraus sharing teacher DMs
 Transcript Snippet: It's why Candace Owens is targeting him now. Nick is wildly respected. wildly widely respected, pardon me, among conservative media, carrying forward what Charlie Kirk led
 
 Anchored Artifacts: A-2578.3
-Mentions: N-623, N-217, N-3, N-1
+Mentions: N-618, N-217, N-3, N-1
 Related Nodes: N-10666
 Investigative Direction: Archive the post and any screenshots of the DMs it includes.
 
@@ -1030,7 +1030,7 @@ Claim: The host shows a Times headline saying Brigitte Macron slapped her husban
 Transcript Snippet: there's a new Times headline here that we can show you. Breijit Mcronone slapped husband over text messages to an actress.
 
 Anchored Artifacts: A-2579.2
-Mentions: N-82, N-387
+Mentions: N-82, N-383
 Related Nodes: N-10928
 Investigative Direction: Archive the Times article, its date and its sourcing.
 
@@ -1045,7 +1045,7 @@ Claim: The host says the new account attributes the May 2025 Hanoi airport incid
 Transcript Snippet: what you guys actually saw at the Hanoi airport in May of 2025, um, is actually the fact that the first lady was angry.
 
 Anchored Artifacts: A-2579.1, A-2579.2
-Mentions: N-82, N-387, N-636
+Mentions: N-82, N-383, N-631
 Related Nodes: N-10928
 Investigative Direction: Locate the actress's published denial and compare the earlier Élysée explanations.
 
@@ -1060,7 +1060,7 @@ Claim: The host says her team found Captain Adam Nef and determined that he did 
 Transcript Snippet: Yeah, we did find him and we determined that he was did actually uh question Mitch as he said as the story checked out
 
 Anchored Artifacts: A-2580.1
-Mentions: N-326, N-369, N-162, N-3
+Mentions: N-323, N-366, N-162, N-3
 Related Nodes: N-10899
 Supports: C-1907
 Investigative Direction: Obtain Fort Huachuca records of the encounter or a statement from Captain Adam Nef.
@@ -1076,7 +1076,7 @@ Claim: The host says Blake Neff posted on X asking whether she ever found "Comma
 Transcript Snippet: then he said that C Adam Nef was harassed by my cultists and I but he doesn't know he doesn't know Adam Nef, but he was harassed.
 
 Anchored Artifacts: A-2580.1
-Mentions: N-162, N-326
+Mentions: N-162, N-323
 Investigative Direction: Archive Blake Neff's X posts with timestamps.
 
 ---
@@ -1161,7 +1161,7 @@ Confidence: high
 Video Timestamp: 00:14:41
 Speaker: N-3
 Quote: we learned another totally wacky story um from our tips line that we were able to verify because they provided receipts.
-Context: Host credits the tips line, with receipts, for the Justin Strife book-printer story.
+Context: Host credits the tips line, with receipts, for the Justin Streiff book-printer story.
 Tags: tips, crowd_sourcing, dia, reuse
 Confidence: high
 
@@ -1221,8 +1221,8 @@ Confidence: high
 
 Video Timestamp: 00:14:41
 Speaker: N-3
-Quote: But Justin Strife, just to jog your memory here, he is the chief operating officer of Turning Point US Turning Point USA.
-Context: Host reintroduces Justin Strife.
+Quote: But Justin Streiff, just to jog your memory here, he is the chief operating officer of Turning Point US Turning Point USA.
+Context: Host reintroduces Justin Streiff.
 Tags: recap, reuse
 Confidence: high
 
@@ -1391,8 +1391,8 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2574.1 (the White House Military Office email is read aloud but deliberately not shown, which the host attributes to canary watermarking), A-2574.2 (deletion-order emails), A-2576.1 (tips-line receipts) and A-2580.1 (Blake Neff's X posts).
 - **Skeleton handling**: The existing N-16 and N-163 rows and the M-42 occurrence are kept with their ids and text; only their placeholder *Related:* lines were filled in. The N-163 description mentions an "Epstein situation-room attendee read", which does not appear in this transcript; it is kept verbatim from the skeleton. The skeleton's ledger line "Hole-minted Nodes (remap-ep104): N-163" was replaced by "(see registers)" per the spec. Its Video Timestamp Range (00:56:29) was corrected to the transcript duration, 49:46.
-- **Name matching**: "Justin Strife" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Nef" is N-162 Blake Neff. "Captain Adam Nef" / "Commander Nef" is N-326. "Sarah Seidner" is N-379 Sarah Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
-- **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-623 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-636, the host says she is "definitely not saying this name right" ("Gosh Farani", "Gosh Fani", "Farhani", "Verahani", "Verhani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
+- **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Nef" is N-162 Blake Neff. "Captain Adam Nef" / "Commander Nef" is N-323. "Sarah Seidner" is N-376 Sarah Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
+- **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-618 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-631, the host says she is "definitely not saying this name right" ("Gosh Farani", "Gosh Fani", "Farhani", "Verahani", "Verhani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
 - **Transcription ambiguities**: "rescend" / "resend" for rescind, and "plat platforms", are kept as written. "Breijit / Breijgit / Breit Mcronone" (Brigitte Macron), "Emanuel Mcronone", "capta" (CAPTCHA) and "Vavlla" (favela) are kept as written. The host says Strife "he's not just the CEO" (20:14) but elsewhere calls him COO; COO is used.
 - **Possible cross-episode links left out**: C-4064 was not linked to C-2791 (Washington Post: Secret Service fired at the WHCD suspect), because the host says the agents fired "at one another", a different proposition. C-4097–C-4099 were not linked to C-2901/C-2552 (Nick Shirley's own infiltration claims), because they concern teacher praise, not the infiltration. C-4081–C-4083 were not linked to C-2114 (Buckmans' $10 million gift), which is a different proposition.
 - **Not inscribed as claims (admission test)**: Several statements were not inscribed:

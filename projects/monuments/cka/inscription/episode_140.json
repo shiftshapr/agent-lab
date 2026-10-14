@@ -314,7 +314,7 @@
             "C-3272"
           ],
           "related_nodes": [
-            "N-572",
+            "N-567",
             "N-18"
           ],
           "tags": [],
@@ -407,7 +407,7 @@
           "description": "Lady Di comment: requests Rachel Wilson not attend the upcoming debate",
           "related_claims": [],
           "related_nodes": [
-            "N-572"
+            "N-567"
           ],
           "tags": [],
           "video_timestamp": "00:54:01",
@@ -558,7 +558,7 @@
             "C-10472"
           ],
           "related_nodes": [
-            "N-572"
+            "N-567"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -575,7 +575,7 @@
             "C-10473"
           ],
           "related_nodes": [
-            "N-572"
+            "N-567"
           ],
           "tags": [],
           "video_timestamp": "00:37:15",
@@ -591,7 +591,7 @@
             "C-10474"
           ],
           "related_nodes": [
-            "N-572"
+            "N-567"
           ],
           "tags": [],
           "video_timestamp": "00:37:56",
@@ -863,8 +863,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-572",
-      "ref": "N-572",
+      "@id": "N-567",
+      "ref": "N-567",
       "name": "Rachel Wilson",
       "type": "person",
       "description": "First named by the host at 00:39:29 in episode 140.",
@@ -1033,8 +1033,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Podcaster on whose show the host says she first learned of Andrew Wilson.",
@@ -1050,8 +1050,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-371",
+      "ref": "N-371",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Daily Wire co-founder (transcribed Jeremy Boring); the host says he worked through Britta Widener.",
@@ -1067,8 +1067,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-375",
-      "ref": "N-375",
+      "@id": "N-372",
+      "ref": "N-372",
       "name": "Danny Philip",
       "type": "person",
       "description": "Danny Phillip in the transcript; the host says McCoy was on a 10-minute call with him.",
@@ -1454,8 +1454,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-877",
-      "ref": "N-877",
+      "@id": "N-870",
+      "ref": "N-870",
       "name": "Agent Hoole",
       "type": "person",
       "description": "First named by the host at 00:17:43 in episode 140. Investigator whose court testimony about a vehicle is played and analysed.",
@@ -1472,8 +1472,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-878",
-      "ref": "N-878",
+      "@id": "N-871",
+      "ref": "N-871",
       "name": "Officer Goforth",
       "type": "person",
       "description": "First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hoole's testimony as the officer a vehicle made contact with.",
@@ -1490,8 +1490,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-879",
-      "ref": "N-879",
+      "@id": "N-872",
+      "ref": "N-872",
       "name": "Haim Braverman",
       "type": "person",
       "description": "First named by the host at 00:29:36 in episode 140. Man the host says was arrested and pled guilty after plotting against her from a group chat.",
@@ -1507,8 +1507,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-880",
-      "ref": "N-880",
+      "@id": "N-873",
+      "ref": "N-873",
       "name": "Britta Widener",
       "type": "person",
       "description": "First named by the host at 00:31:45 in episode 140 (spelled Britta Whitener and Brita in the transcript). Owner of the No Soup For You / No Soup for Noels X account.",
@@ -1835,7 +1835,7 @@
       "investigative_direction": "Obtain the full debate recording and date; verify whether this was a sanctioned call-in.",
       "mentions_person_refs": [
         "N-18",
-        "N-572"
+        "N-567"
       ]
     },
     {
@@ -2351,7 +2351,7 @@
       ],
       "mentions_person_refs": [
         "N-40",
-        "N-877"
+        "N-870"
       ]
     },
     {
@@ -2373,8 +2373,8 @@
       "investigative_direction": "Obtain the exhibit map and video Hoole was describing and the full transcript of this testimony.",
       "transcript_snippet": "that vehicle is now pulling away and heading east on 800 South.",
       "mentions_person_refs": [
-        "N-877",
-        "N-878"
+        "N-870",
+        "N-871"
       ]
     },
     {
@@ -2396,7 +2396,7 @@
       "investigative_direction": "Request the security officer's body-camera footage and report for the contact.",
       "transcript_snippet": "We've not seen any footage from that.",
       "mentions_person_refs": [
-        "N-878"
+        "N-871"
       ]
     },
     {
@@ -2673,7 +2673,7 @@
       "investigative_direction": "Search federal court dockets and DOJ press releases for a plea by Haim Braverman and the sentence.",
       "transcript_snippet": "he got arrested, he pled guilty, his name is Haim Braverman, and he is in prison, you can look that up.",
       "mentions_person_refs": [
-        "N-879",
+        "N-872",
         "N-3"
       ]
     },
@@ -2755,8 +2755,8 @@
       "investigative_direction": "Look for coordination evidence between the account and Daily Wire staff or PR, such as shared posts, direct messages or timings.",
       "transcript_snippet": "obviously I knew that their PR agent and Jeremy Boring were working through her",
       "mentions_person_refs": [
-        "N-880",
-        "N-374",
+        "N-873",
+        "N-371",
         "N-3"
       ]
     },
@@ -2778,7 +2778,7 @@
       "investigative_direction": "Compile the April posts about the host's husband and identify which accounts amplified them.",
       "transcript_snippet": "she's been going after my family, my husband. She was part of people perpetuating the lies about my husband",
       "mentions_person_refs": [
-        "N-880",
+        "N-873",
         "N-3"
       ]
     },
@@ -2798,7 +2798,7 @@
       "transcript_snippet": "I think I showed you a couple of weeks ago that like Laura Loomer sent like 1,800 tweets about me",
       "mentions_person_refs": [
         "N-60",
-        "N-880",
+        "N-873",
         "N-3"
       ]
     },
@@ -2952,7 +2952,7 @@
       "transcript_snippet": "you can't smoke cigarettes in my home",
       "mentions_person_refs": [
         "N-18",
-        "N-572",
+        "N-567",
         "N-3"
       ]
     },
@@ -2975,7 +2975,7 @@
       "investigative_direction": "Obtain the original post or message from Rachel Wilson.",
       "transcript_snippet": "typical woman nonsense. I'm surprised she hasn't me too'd anyone.",
       "mentions_person_refs": [
-        "N-572",
+        "N-567",
         "N-3"
       ]
     },
@@ -2998,7 +2998,7 @@
       "investigative_direction": "Obtain the original post from Rachel Wilson.",
       "transcript_snippet": "Yeah, who clutches their pearls about smoking? Zoomer soy boys maybe or the type of woman who reports everything to HR.",
       "mentions_person_refs": [
-        "N-572",
+        "N-567",
         "N-3"
       ]
     },
@@ -3021,7 +3021,7 @@
       "investigative_direction": "Locate the photos Rachel Wilson posted and their dates.",
       "transcript_snippet": "She just kept going and going. Then she was like showing photos of me pregnant while I was doing backstage with the Daily Wire.",
       "mentions_person_refs": [
-        "N-572",
+        "N-567",
         "N-3"
       ]
     },
@@ -3045,7 +3045,7 @@
         "C-3272"
       ],
       "mentions_person_refs": [
-        "N-572",
+        "N-567",
         "N-18"
       ]
     },
@@ -3066,7 +3066,7 @@
       "investigative_direction": "Search public court records for the earlier marriage and any case referenced; treat as the speaker's own account.",
       "transcript_snippet": "because he uh beat the crap out of me and was being pursued by the law and left the state",
       "mentions_person_refs": [
-        "N-572"
+        "N-567"
       ]
     },
     {
@@ -3086,7 +3086,7 @@
       "investigative_direction": "Treat as the speaker's own account; no external verification is needed for the case.",
       "transcript_snippet": "The first one was my high school boyfriend who I knew my whole life, who I was with for 5 years. We had two children.",
       "mentions_person_refs": [
-        "N-572"
+        "N-567"
       ]
     },
     {
@@ -3106,7 +3106,7 @@
       "investigative_direction": "Identify the speaker and the show from the full debate clip.",
       "transcript_snippet": "If she had slept with three men, but had aborted all of the children, would she still be promiscuous?",
       "mentions_person_refs": [
-        "N-572"
+        "N-567"
       ]
     },
     {
@@ -3129,7 +3129,7 @@
         "C-3272"
       ],
       "mentions_person_refs": [
-        "N-572",
+        "N-567",
         "N-18"
       ]
     },
@@ -3150,7 +3150,7 @@
       "investigative_direction": "Obtain the exchange in which the host made the remark.",
       "transcript_snippet": "To be fair, I did tell his wife to I suggested she should shut up.",
       "mentions_person_refs": [
-        "N-572",
+        "N-567",
         "N-3"
       ]
     },
@@ -3169,7 +3169,7 @@
       "investigative_direction": "Run a tweet count on Rachel Wilson's account.",
       "transcript_snippet": "why are you online authoring 37,000 tweets and finding photos of me trying to pretend that I'm a hypocrite.",
       "mentions_person_refs": [
-        "N-572",
+        "N-567",
         "N-3"
       ]
     },
@@ -3191,7 +3191,7 @@
       "transcript_snippet": "And uh he did not try to negotiate being able to smoke cigarettes",
       "mentions_person_refs": [
         "N-18",
-        "N-572"
+        "N-567"
       ]
     },
     {
@@ -3210,7 +3210,7 @@
       "transcript_snippet": "I knew nothing about this guy until he went on Joe Rogan",
       "mentions_person_refs": [
         "N-18",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -3318,7 +3318,7 @@
       "transcript_snippet": "And then he's like on the phone with Danny Phillip for 10 minutes, but they should be together, but now we're thinking actually they went into two different cars to the hospital.",
       "mentions_person_refs": [
         "N-194",
-        "N-375"
+        "N-372"
       ]
     },
     {
@@ -3532,7 +3532,7 @@
       "investigative_direction": "Check the final debate terms for any limits on who attends.",
       "transcript_snippet": "I am not going to be putting up any boundaries at all.",
       "mentions_person_refs": [
-        "N-572",
+        "N-567",
         "N-3"
       ]
     },

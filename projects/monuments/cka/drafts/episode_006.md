@@ -420,7 +420,7 @@ Commentator referenced alongside Megan in text discussion
 
 ---
 
-**N-72** Eric Bowling
+**N-72** Eric Bolling
 
 Node Type: Person
 Commentator referenced as having a theory about PBD/Israel coordination

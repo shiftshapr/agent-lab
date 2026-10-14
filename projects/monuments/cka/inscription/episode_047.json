@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-1539.1",
           "ref": "A-1539.1",
-          "description": "Private 4-hour-30-minute meeting between Candace Owens, Erika Kolfage, Justin Streif, George (Candace's husband, opening portion), and cousin Mia",
+          "description": "Private 4-hour-30-minute meeting between Candace Owens, Erika Kolfage, Justin Streiff, George (Candace's husband, opening portion), and cousin Mia",
           "related_claims": [
             "C-1924",
             "C-1925",
@@ -224,7 +224,7 @@
           ],
           "related_nodes": [
             "N-46",
-            "N-338",
+            "N-335",
             "N-10343"
           ],
           "tags": [],
@@ -268,7 +268,7 @@
             "C-1945"
           ],
           "related_nodes": [
-            "N-273",
+            "N-271",
             "N-10344"
           ],
           "tags": [],
@@ -377,7 +377,7 @@
             "C-1949"
           ],
           "related_nodes": [
-            "N-335",
+            "N-332",
             "N-213"
           ],
           "tags": [],
@@ -428,7 +428,7 @@
           "description": "Curbster super chat: prayer-support message",
           "related_claims": [],
           "related_nodes": [
-            "N-343"
+            "N-340"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -456,7 +456,7 @@
           "description": "Zachary Loft super chat: questions on lack of livestream and Brandon Tatum IG follow",
           "related_claims": [],
           "related_nodes": [
-            "N-344"
+            "N-341"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -471,7 +471,7 @@
           "description": "Mr. Bruce Lee super chat: botted chat observation",
           "related_claims": [],
           "related_nodes": [
-            "N-345"
+            "N-342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -486,7 +486,7 @@
           "description": "Will Wallace super chat: security-support donation",
           "related_claims": [],
           "related_nodes": [
-            "N-346"
+            "N-343"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -514,7 +514,7 @@
           "description": "Isabella Mazzone super chat: request for elaboration on Charlie's Catholicism journey",
           "related_claims": [],
           "related_nodes": [
-            "N-342"
+            "N-339"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -529,7 +529,7 @@
           "description": "Lamp super chat: question on Qatar's role in media criticism",
           "related_claims": [],
           "related_nodes": [
-            "N-347"
+            "N-344"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -696,8 +696,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-273",
-      "ref": "N-273",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Tim Pool",
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
@@ -742,8 +742,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-335",
-      "ref": "N-335",
+      "@id": "N-332",
+      "ref": "N-332",
       "name": "Turkey Tom",
       "type": "person",
       "description": "Produced video authenticating Tyler Robinson Discord chat messaging style.",
@@ -808,8 +808,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-336",
-      "ref": "N-336",
+      "@id": "N-333",
+      "ref": "N-333",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -852,8 +852,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Produced video on Camp Wa Chuka and charred-hands electrocution theory.",
@@ -916,8 +916,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-338",
-      "ref": "N-338",
+      "@id": "N-335",
+      "ref": "N-335",
       "name": "Andrew Seifer",
       "type": "person",
       "description": "Identified on Charlie Kirk Show as TPUSA head of field.",
@@ -938,8 +938,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-339",
-      "ref": "N-339",
+      "@id": "N-336",
+      "ref": "N-336",
       "name": "Greg Schaefer",
       "type": "person",
       "description": "Operated Shafer Security; Charlie Kirk's initial security company employing Dan Flood and Brian Harpole.",
@@ -982,8 +982,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-340",
-      "ref": "N-340",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Viva Frey",
       "type": "person",
       "description": "Commentator who discussed Turkey Tom video and Tyler Robinson text-message authenticity on the show.",
@@ -1002,8 +1002,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-341",
-      "ref": "N-341",
+      "@id": "N-338",
+      "ref": "N-338",
       "name": "Marissa",
       "type": "person",
       "description": "Named PragerU contact (per host).",
@@ -1022,8 +1022,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-342",
-      "ref": "N-342",
+      "@id": "N-339",
+      "ref": "N-339",
       "name": "Isabella Mazzone",
       "type": "person",
       "description": "Donor; raised Charlie Kirk Catholicism question.",
@@ -1042,8 +1042,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-343",
-      "ref": "N-343",
+      "@id": "N-340",
+      "ref": "N-340",
       "name": "Curbster",
       "type": "person",
       "description": "Donor; prayer-support message.",
@@ -1059,8 +1059,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-344",
-      "ref": "N-344",
+      "@id": "N-341",
+      "ref": "N-341",
       "name": "Zachary Loft",
       "type": "person",
       "description": "Donor; asked about lack of livestream.",
@@ -1076,8 +1076,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-345",
-      "ref": "N-345",
+      "@id": "N-342",
+      "ref": "N-342",
       "name": "Mr. Bruce Lee",
       "type": "person",
       "description": "Donor; raised botted-chat observation.",
@@ -1093,8 +1093,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-346",
-      "ref": "N-346",
+      "@id": "N-343",
+      "ref": "N-343",
       "name": "Will Wallace",
       "type": "person",
       "description": "Donor; security-support donation.",
@@ -1110,8 +1110,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-347",
-      "ref": "N-347",
+      "@id": "N-344",
+      "ref": "N-344",
       "name": "Lamp",
       "type": "person",
       "description": "Donor; raised Qatar-role question.",
@@ -1286,7 +1286,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-338"
+        "N-335"
       ]
     },
     {
@@ -1313,8 +1313,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-273",
-        "N-339"
+        "N-271",
+        "N-336"
       ]
     },
     {
@@ -1438,7 +1438,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-342"
+        "N-339"
       ]
     },
     {
@@ -1480,7 +1480,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -1545,7 +1545,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-69",
-        "N-336",
+        "N-333",
         "N-213"
       ]
     },
@@ -1689,8 +1689,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -1705,8 +1705,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -1742,8 +1742,8 @@
       "@type": "Claim",
       "@id": "C-1924",
       "ref": "C-1924",
-      "label": "Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes",
-      "claim": "A private meeting between Candace Owens, Erika Kolfage, and Justin Streif, with George present at the opening and cousin Mia in attendance, lasted approximately 4 hours and 30 minutes.",
+      "label": "Private meeting with Erika and Justin Streiff lasted 4 hours 30 minutes",
+      "claim": "A private meeting between Candace Owens, Erika Kolfage, and Justin Streiff, with George present at the opening and cousin Mia in attendance, lasted approximately 4 hours and 30 minutes.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -1816,7 +1816,7 @@
       "investigative_direction": "Obtain original Dan Flood message through his records or testimony.",
       "mentions_person_refs": [
         "N-2",
-        "N-276",
+        "N-274",
         "N-1"
       ]
     },
@@ -2042,7 +2042,7 @@
       "@id": "C-3741",
       "ref": "C-3741",
       "label": "Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU",
-      "claim": "The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and \"too many\" are paid by PragerU, and that she knows Marissa (N-341) there.",
+      "claim": "The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and \"too many\" are paid by PragerU, and that she knows Marissa (N-338) there.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10131"
@@ -2054,7 +2054,7 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3",
-        "N-341"
+        "N-338"
       ]
     },
     {
@@ -2094,7 +2094,7 @@
       "investigative_direction": "Verify TPUSA's documented livestream policy and Farnsworth's specific authority on incident day.",
       "mentions_person_refs": [
         "N-2",
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2155,7 +2155,7 @@
       "claim_timestamp": "00:44:36",
       "investigative_direction": "Verify the earlier Tim Pool statement against his show archive.",
       "mentions_person_refs": [
-        "N-273",
+        "N-271",
         "N-3"
       ]
     },
@@ -2175,7 +2175,7 @@
       "claim_timestamp": "00:45:27",
       "investigative_direction": "Verify the current claim against any documented security employment records.",
       "mentions_person_refs": [
-        "N-273",
+        "N-271",
         "N-3",
         "N-1",
         "N-2"
@@ -2198,11 +2198,11 @@
       "investigative_direction": "Verify Greg Shafer's public statement and Shafer Security's documented client list.",
       "mentions_person_refs": [
         "N-2",
-        "N-339",
-        "N-272",
+        "N-336",
+        "N-270",
         "N-3",
         "N-1",
-        "N-276"
+        "N-274"
       ]
     },
     {
@@ -2299,8 +2299,8 @@
       "investigative_direction": "Verify Turkey Tom's claimed Discord membership through chat logs or other participants.",
       "mentions_person_refs": [
         "N-213",
-        "N-335",
-        "N-340",
+        "N-332",
+        "N-337",
         "N-40"
       ]
     },
@@ -2341,7 +2341,7 @@
       "mentions_person_refs": [
         "N-69",
         "N-213",
-        "N-336"
+        "N-333"
       ]
     },
     {
@@ -2401,7 +2401,7 @@
       "claim_timestamp": "00:51:02",
       "investigative_direction": "Verify Andrew Seifer's official TPUSA title.",
       "mentions_person_refs": [
-        "N-338"
+        "N-335"
       ]
     },
     {
@@ -2420,7 +2420,7 @@
       "claim_timestamp": "00:51:02",
       "investigative_direction": "Verify the specific August 27 post referenced.",
       "mentions_person_refs": [
-        "N-338"
+        "N-335"
       ]
     },
     {

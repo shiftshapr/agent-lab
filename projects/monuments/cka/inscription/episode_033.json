@@ -58,7 +58,7 @@
             "C-1718"
           ],
           "related_nodes": [
-            "N-265",
+            "N-263",
             "N-2",
             "N-3"
           ],
@@ -266,7 +266,7 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-266",
+            "N-264",
             "N-10256"
           ],
           "tags": [],
@@ -286,7 +286,7 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-266",
+            "N-264",
             "N-10256"
           ],
           "tags": [],
@@ -306,7 +306,7 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-266",
+            "N-264",
             "N-10256"
           ],
           "tags": [],
@@ -326,7 +326,7 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-266",
+            "N-264",
             "N-10256"
           ],
           "tags": [],
@@ -380,7 +380,7 @@
             "C-1733"
           ],
           "related_nodes": [
-            "N-269",
+            "N-267",
             "N-10257"
           ],
           "tags": [],
@@ -405,7 +405,7 @@
           "description": "Host's verbal account that Terrell Farnsworth attended the UVU campus event on September 10 (described as unusual because he typically handles larger TPUSA events), and that he secured the SD cards afterward",
           "related_claims": [],
           "related_nodes": [
-            "N-267",
+            "N-265",
             "N-1"
           ],
           "tags": [],
@@ -425,7 +425,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-270",
+            "N-268",
             "N-10253"
           ],
           "tags": [],
@@ -463,8 +463,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-265",
-      "ref": "N-265",
+      "@id": "N-263",
+      "ref": "N-263",
       "name": "Steven Crowder",
       "type": "person",
       "description": "Host's primary example of influencer narratives allegedly misrepresenting her remarks. Matters as anchor for the Erika-murder interpretation dispute.",
@@ -511,8 +511,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-266",
-      "ref": "N-266",
+      "@id": "N-264",
+      "ref": "N-264",
       "name": "Duncan Aviation",
       "type": "person",
       "description": "Fixed-base operator (FBO) at Provo where SUBND transponder activity is recorded on September 10 and where rental cars were sourced. Matters as institutional locus of pre-event activity.",
@@ -539,8 +539,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "TPUSA personnel described by host as attending the UVU event and securing the SD cards. Matters because his presence is flagged as atypical by host.",
@@ -559,8 +559,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-269",
-      "ref": "N-269",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Mommy Sleuth (Nellie)",
       "type": "person",
       "description": "Pseudonymous contributor referenced by host as the source of the 15-hour research identifying Erika-tracking overlap pattern. Identity protected by host.",
@@ -583,8 +583,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Andrew K. Smith",
       "type": "person",
       "description": "Host-described \"managing director of a restaurant fund\" who conducted the \"restaurantology\" interview with Charlie Kirk on the morning of September 10.",
@@ -632,7 +632,7 @@
         "N-1",
         "N-2",
         "N-67",
-        "N-269"
+        "N-267"
       ]
     },
     {
@@ -710,7 +710,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-266"
+        "N-264"
       ]
     },
     {
@@ -875,7 +875,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-265",
+        "N-263",
         "N-1"
       ]
     },
@@ -896,7 +896,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-265"
+        "N-263"
       ]
     },
     {
@@ -918,7 +918,7 @@
         "N-1",
         "N-2",
         "N-67",
-        "N-266"
+        "N-264"
       ]
     },
     {
@@ -940,7 +940,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-269"
+        "N-267"
       ]
     },
     {
@@ -1057,7 +1057,7 @@
       "claim_timestamp": "00:27:30–00:29:31",
       "investigative_direction": "Obtain rental records from Duncan Aviation or the rental companies directly; verify renter identities and dates.",
       "mentions_person_refs": [
-        "N-266"
+        "N-264"
       ]
     },
     {
@@ -1079,7 +1079,7 @@
       "claim_timestamp": "00:27:30–00:29:31",
       "investigative_direction": "Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records.",
       "mentions_person_refs": [
-        "N-266"
+        "N-264"
       ]
     },
     {
@@ -1213,7 +1213,7 @@
       "investigative_direction": "Verify the UTC-to-local conversion; see flag re daylight saving time. Cross-reference against FBI/event timeline documents.",
       "mentions_person_refs": [
         "N-67",
-        "N-266"
+        "N-264"
       ]
     },
     {
@@ -1248,7 +1248,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-269"
+        "N-267"
       ]
     },
     {
@@ -1266,7 +1266,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-269"
+        "N-267"
       ]
     },
     {
@@ -1288,7 +1288,7 @@
       "confidence": "low",
       "mentions_person_refs": [
         "N-1",
-        "N-270"
+        "N-268"
       ]
     }
   ],

@@ -32,7 +32,7 @@
             "C-2024"
           ],
           "related_nodes": [
-            "N-398",
+            "N-394",
             "N-10385"
           ],
           "tags": [],
@@ -59,7 +59,7 @@
             "C-2018"
           ],
           "related_nodes": [
-            "N-398",
+            "N-394",
             "N-10385"
           ],
           "tags": [],
@@ -86,7 +86,7 @@
             "C-2017"
           ],
           "related_nodes": [
-            "N-398",
+            "N-394",
             "N-10385"
           ],
           "tags": [],
@@ -114,11 +114,11 @@
             "C-2025"
           ],
           "related_nodes": [
+            "N-396",
+            "N-397",
+            "N-398",
+            "N-399",
             "N-400",
-            "N-401",
-            "N-402",
-            "N-403",
-            "N-404",
             "N-10386",
             "N-10391"
           ],
@@ -146,8 +146,8 @@
             "C-2020"
           ],
           "related_nodes": [
-            "N-399",
-            "N-400",
+            "N-395",
+            "N-396",
             "N-10386"
           ],
           "tags": [],
@@ -175,7 +175,7 @@
             "C-2022"
           ],
           "related_nodes": [
-            "N-405",
+            "N-401",
             "N-10387",
             "N-10390"
           ],
@@ -204,7 +204,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-406",
+            "N-402",
             "N-10389"
           ],
           "tags": [],
@@ -304,8 +304,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-272",
-            "N-276",
+            "N-270",
+            "N-274",
             "N-3"
           ],
           "tags": [],
@@ -332,7 +332,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-398"
+            "N-394"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -372,8 +372,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-398",
-      "ref": "N-398",
+      "@id": "N-394",
+      "ref": "N-394",
       "name": "Maggie Wagner",
       "type": "person",
       "description": "Person who received a Daily Wire audition approach to host a show mocking Candace Owens and Tucker Carlson; declined the role. Provided email, text message, and AI video sample as artifacts.",
@@ -399,8 +399,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-399",
-      "ref": "N-399",
+      "@id": "N-395",
+      "ref": "N-395",
       "name": "Steve Bannon",
       "type": "person",
       "description": "Former Breitbart chairman referenced via Amfest audio clip describing Ben Shapiro's pattern of attempted hostile takeovers of conservative organizations.",
@@ -416,14 +416,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-400",
+        "N-396",
         "N-10386"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-400",
-      "ref": "N-400",
+      "@id": "N-396",
+      "ref": "N-396",
       "name": "Andrew Breitbart",
       "type": "person",
       "description": "Founder of Breitbart News; died March 1, 2012. Subject of Bannon's account and Shapiro's own resignation statement referencing mentorship and editor-at-large role.",
@@ -441,15 +441,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-399",
+        "N-395",
         "N-10386",
         "N-10391"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-401",
-      "ref": "N-401",
+      "@id": "N-397",
+      "ref": "N-397",
       "name": "Jamie Weinstein",
       "type": "person",
       "description": "Named in host's recounting (not from artifact) as the alleged co-conspirator with Ben Shapiro in the Breitbart/Fields affair and identified as Michelle Fields' husband at the time. No displayed artifact anchors this; tracked here for potential cross-episode verification.",
@@ -461,15 +461,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-402",
+        "N-398",
         "N-10386",
         "N-10391"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-402",
-      "ref": "N-402",
+      "@id": "N-398",
+      "ref": "N-398",
       "name": "Michelle Fields",
       "type": "person",
       "description": "Breitbart reporter who alleged assault by Corey Lewandowski; central figure in the 2016 Breitbart scandal referenced in Shapiro's resignation statement.",
@@ -485,15 +485,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-401",
-        "N-403",
+        "N-397",
+        "N-399",
         "N-10391"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-403",
-      "ref": "N-403",
+      "@id": "N-399",
+      "ref": "N-399",
       "name": "Corey Lewandowski",
       "type": "person",
       "description": "Former Trump campaign manager alleged to have assaulted Michelle Fields at a 2016 event; named in Shapiro's resignation statement.",
@@ -509,14 +509,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-402",
+        "N-398",
         "N-10391"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-404",
-      "ref": "N-404",
+      "@id": "N-400",
+      "ref": "N-400",
       "name": "Austin Smith",
       "type": "person",
       "description": "Former Arizona state representative and Turning Point Action leader, age 30. Sentenced for petition signature fraud including forging a dead woman's signature.",
@@ -539,8 +539,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-405",
-      "ref": "N-405",
+      "@id": "N-401",
+      "ref": "N-401",
       "name": "Michael Cormier",
       "type": "person",
       "description": "Forensic technician (age 61) referenced by host as involved in Andrew Breitbart's autopsy who allegedly died from \"military-grade arsenic poisoning.\" Claim presented via host recounting only; no artifact displayed.",
@@ -552,13 +552,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-400"
+        "N-396"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-406",
-      "ref": "N-406",
+      "@id": "N-402",
+      "ref": "N-402",
       "name": "Charlie Kirk's \"Oracle\" Figure",
       "type": "person",
       "description": "Older Jewish man described in Charlie Kirk's text messages as someone Charlie visited for spiritual reasons regarding his premonitions of dying young. Identity not disclosed; described as having met Charlie through a gifted school in Chicago.",
@@ -620,7 +620,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-398"
+        "N-394"
       ]
     },
     {
@@ -645,11 +645,11 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-395",
+        "N-396",
+        "N-397",
+        "N-398",
         "N-399",
-        "N-400",
-        "N-401",
-        "N-402",
-        "N-403",
         "N-46",
         "N-10391"
       ]
@@ -671,7 +671,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-404",
+        "N-400",
         "N-10390"
       ]
     },
@@ -713,7 +713,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-406"
+        "N-402"
       ]
     },
     {
@@ -736,7 +736,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-404",
+        "N-400",
         "N-10387"
       ]
     },
@@ -757,10 +757,10 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-400",
-        "N-401",
-        "N-402",
-        "N-403",
+        "N-396",
+        "N-397",
+        "N-398",
+        "N-399",
         "N-10386"
       ]
     },
@@ -1036,8 +1036,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Named with Dan Flood in the host's account of Charlie's early security.",
@@ -1053,8 +1053,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Named with Brian Harpole in the host's account of Charlie's early security.",
@@ -1070,8 +1070,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-371",
+      "ref": "N-371",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Former Daily Wire CEO, named for the town hall and the Kanye conference room.",
@@ -1090,8 +1090,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-385",
-      "ref": "N-385",
+      "@id": "N-381",
+      "ref": "N-381",
       "name": "Ryan Reynolds",
       "type": "person",
       "description": "Named in the host's reading of the Baldoni lawsuit.",
@@ -1107,8 +1107,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
+      "@id": "N-490",
+      "ref": "N-490",
       "name": "Blake Lively",
       "type": "person",
       "description": "Named in the host's reading of the Baldoni lawsuit.",
@@ -1124,8 +1124,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-496",
-      "ref": "N-496",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Subject of the host's reading of his lawsuit.",
@@ -1141,8 +1141,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-751",
-      "ref": "N-751",
+      "@id": "N-745",
+      "ref": "N-745",
       "name": "Michael Jackson",
       "type": "person",
       "description": "Subject of the Daily Wire episode the host cites as a firing reason.",
@@ -1539,7 +1539,7 @@
       "claim_timestamp": "00:06:31",
       "investigative_direction": "Verify the timeline of the Amfest speech and confirm the producer's identity (protected in this episode); obtain any additional documentation Maggie may have referenced.",
       "mentions_person_refs": [
-        "N-398",
+        "N-394",
         "N-22",
         "N-3",
         "N-97"
@@ -1562,7 +1562,7 @@
       "claim_timestamp": "00:07:36",
       "investigative_direction": "Obtain and verify the full audition script and AI video; confirm the producer's statements directly via call recordings referenced by Maggie.",
       "mentions_person_refs": [
-        "N-398",
+        "N-394",
         "N-3"
       ]
     },
@@ -1582,7 +1582,7 @@
       "claim_timestamp": "00:11:04",
       "investigative_direction": "Verify the text message thread against phone records and identify the producer's account.",
       "mentions_person_refs": [
-        "N-398"
+        "N-394"
       ]
     },
     {
@@ -1602,9 +1602,9 @@
       "claim_timestamp": "00:24:45",
       "investigative_direction": "Cross-reference the resignation statement against contemporaneous Breitbart News coverage and internal communications.",
       "mentions_person_refs": [
-        "N-400",
-        "N-402",
-        "N-403",
+        "N-396",
+        "N-398",
+        "N-399",
         "N-97"
       ]
     },
@@ -1624,8 +1624,8 @@
       "claim_timestamp": "00:18:09",
       "investigative_direction": "Obtain the full Amfest Bannon speech and verify the complete context; cross-reference Bannon's prior public statements about Shapiro.",
       "mentions_person_refs": [
-        "N-399",
-        "N-400",
+        "N-395",
+        "N-396",
         "N-197",
         "N-97"
       ]
@@ -1647,7 +1647,7 @@
       "claim_timestamp": "00:48:50",
       "investigative_direction": "Obtain the court docket and judgment from the Arizona sentencing court; confirm Austin Smith's exact dates of employment at Turning Point Action.",
       "mentions_person_refs": [
-        "N-404"
+        "N-400"
       ]
     },
     {
@@ -1666,7 +1666,7 @@
       "claim_timestamp": "00:49:14",
       "investigative_direction": "Obtain the plea agreement and charging documents from the Arizona court.",
       "mentions_person_refs": [
-        "N-404"
+        "N-400"
       ]
     },
     {
@@ -1686,7 +1686,7 @@
       "investigative_direction": "Obtain the original text message thread for verification; investigate the identity of the \"oracle\" figure and his connection to the gifted school.",
       "mentions_person_refs": [
         "N-1",
-        "N-406"
+        "N-402"
       ]
     },
     {
@@ -1705,7 +1705,7 @@
       "claim_timestamp": "00:06:31",
       "investigative_direction": "Verify the timeline of the show's conception against internal Daily Wire communications if obtainable.",
       "mentions_person_refs": [
-        "N-398"
+        "N-394"
       ]
     },
     {
@@ -1725,7 +1725,7 @@
       "claim_timestamp": "00:25:28",
       "investigative_direction": "Verify the exact date of Shapiro's hiring through Breitbart employment records or contemporaneous reporting.",
       "mentions_person_refs": [
-        "N-400",
+        "N-396",
         "N-97"
       ]
     },
@@ -1827,7 +1827,7 @@
       "transcript_snippet": "Of course, he too was hired by Tyler Bowyer because I, as I have been telling you guys from the very beginning, Tyler Bowyer is the lynch pin.",
       "mentions_person_refs": [
         "N-11",
-        "N-404",
+        "N-400",
         "N-3"
       ]
     },
@@ -2033,7 +2033,7 @@
       "investigative_direction": "Verify against the original, unredacted email and the people Maggie says advised her.",
       "transcript_snippet": "I even tried to rewrite it in a way that was true to me, but I couldn't do it. It just felt like high school bullies.",
       "mentions_person_refs": [
-        "N-398"
+        "N-394"
       ]
     },
     {
@@ -2056,7 +2056,7 @@
       "investigative_direction": "Establish who told Maggie not to share the video and when, using the call receipts she says she supplied.",
       "transcript_snippet": "I was told not to share the AI video the day after you announced on your show that you knew about the show that they were planning to launch.",
       "mentions_person_refs": [
-        "N-398",
+        "N-394",
         "N-3"
       ]
     },
@@ -2079,7 +2079,7 @@
       "investigative_direction": "Request the attachments and call logs and check dates and metadata.",
       "transcript_snippet": "Attached below is the AI video that they sent me and the text that I sent the producer and also proof of the call.",
       "mentions_person_refs": [
-        "N-398"
+        "N-394"
       ]
     },
     {
@@ -2172,7 +2172,7 @@
         "C-2018"
       ],
       "mentions_person_refs": [
-        "N-398",
+        "N-394",
         "N-3"
       ]
     },
@@ -2196,7 +2196,7 @@
       "transcript_snippet": "We can make you a star, but you have to be willing to attack Candace Owens. That's what we are casting for.",
       "mentions_person_refs": [
         "N-3",
-        "N-398"
+        "N-394"
       ]
     },
     {
@@ -2220,7 +2220,7 @@
         "C-1982"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -2245,7 +2245,7 @@
         "C-1982"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -2268,7 +2268,7 @@
       "transcript_snippet": "I insinuated in an episode that I had done while I was at the Daily Wire when I was speaking about Michael Jackson that it's plausible that Hollywood is being run by a gang.",
       "mentions_person_refs": [
         "N-3",
-        "N-751"
+        "N-745"
       ]
     },
     {
@@ -2308,9 +2308,9 @@
       "investigative_direction": "Read the Baldoni and Lively court filings and rulings to test the host's takeover reading.",
       "transcript_snippet": "Even Justin Baldoni actually when I read the lawsuit and I realized they were trying to stage a hostile takeover of the rights to his movie.",
       "mentions_person_refs": [
-        "N-496",
-        "N-495",
-        "N-385"
+        "N-491",
+        "N-490",
+        "N-381"
       ]
     },
     {
@@ -2397,7 +2397,7 @@
       "investigative_direction": "Compare Bannon's statement with Shapiro's account that he resigned, and with contemporaneous Breitbart reporting.",
       "transcript_snippet": "He tried to take over Breitbart and I ran him out of there.",
       "mentions_person_refs": [
-        "N-399",
+        "N-395",
         "N-97"
       ]
     },
@@ -2421,7 +2421,7 @@
       "investigative_direction": "Obtain the full Amfest Bannon speech and any corroborating statements by those who knew Kirk and Shapiro.",
       "transcript_snippet": "he will make a move on Turning Point because he's always been envious of Charlie Kirk.",
       "mentions_person_refs": [
-        "N-399",
+        "N-395",
         "N-97",
         "N-1",
         "N-3"
@@ -2466,7 +2466,7 @@
       "investigative_direction": "Obtain the Los Angeles County coroner's report for Breitbart's death.",
       "transcript_snippet": "It was March 1st of 2012 when Andrew Breitbart dropped dead from an apparent heart attack.",
       "mentions_person_refs": [
-        "N-400"
+        "N-396"
       ]
     },
     {
@@ -2486,7 +2486,7 @@
       "investigative_direction": "Identify what information Breitbart said he had, using his public statements from early 2012.",
       "transcript_snippet": "he's starting to step on some toes, saying he has some information. Next thing you know, he's dead.",
       "mentions_person_refs": [
-        "N-400"
+        "N-396"
       ]
     },
     {
@@ -2506,8 +2506,8 @@
       "investigative_direction": "Search for a death record, news report or coroner finding for Michael Cormier; no artifact was shown.",
       "transcript_snippet": "a forensic technician that was involved with the autopsy also wound up dead from militarygrade arsenic poisoning.",
       "mentions_person_refs": [
-        "N-405",
-        "N-400"
+        "N-401",
+        "N-396"
       ]
     },
     {
@@ -2527,7 +2527,7 @@
       "investigative_direction": "Find any published statement by Cormier's family.",
       "transcript_snippet": "And his wife says no, that's not what's he wouldn't just poison himself with military arsenic poisoning.",
       "mentions_person_refs": [
-        "N-405"
+        "N-401"
       ]
     },
     {
@@ -2547,8 +2547,8 @@
       "investigative_direction": "Review reporting on Breitbart News leadership disputes in 2012.",
       "transcript_snippet": "There was an internal war that waged about what the direction of this healthy conservative company would be.",
       "mentions_person_refs": [
-        "N-400",
-        "N-399"
+        "N-396",
+        "N-395"
       ]
     },
     {
@@ -2594,7 +2594,7 @@
       "transcript_snippet": "So on March 13th, 2016, Ben and Michelle Fields doubly decided that they were going to leave Breitbart",
       "mentions_person_refs": [
         "N-97",
-        "N-402"
+        "N-398"
       ]
     },
     {
@@ -2617,7 +2617,7 @@
       "transcript_snippet": "I met Andrew when I was 17 years old and remained his friend until his tragic death.",
       "mentions_person_refs": [
         "N-97",
-        "N-400"
+        "N-396"
       ]
     },
     {
@@ -2640,8 +2640,8 @@
       "transcript_snippet": "Indeed, Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew's legacy.",
       "mentions_person_refs": [
         "N-97",
-        "N-399",
-        "N-400"
+        "N-395",
+        "N-396"
       ]
     },
     {
@@ -2663,8 +2663,8 @@
       "investigative_direction": "Verify against the published statement and the contemporaneous Washington Post reporting.",
       "transcript_snippet": "That story was backed by audio tape, eyewitness testimony from the Washington Post's Ben Terrace, physical bruises, and a videotape.",
       "mentions_person_refs": [
-        "N-402",
-        "N-403"
+        "N-398",
+        "N-399"
       ]
     },
     {
@@ -2686,8 +2686,8 @@
       "investigative_direction": "Retrieve the Breitbart News article from March 2016 and the dates it ran.",
       "transcript_snippet": "they undermined Michelle completely by running a poorly evidence conspiracy theory as their lead story in which Michelle and Terrace had somehow misidentified Luwendowski.",
       "mentions_person_refs": [
-        "N-402",
-        "N-403"
+        "N-398",
+        "N-399"
       ]
     },
     {
@@ -2753,7 +2753,7 @@
       "transcript_snippet": "So he and his best friend Jaime Weinstein decided to cook up a scandal.",
       "mentions_person_refs": [
         "N-97",
-        "N-401"
+        "N-397"
       ]
     },
     {
@@ -2773,8 +2773,8 @@
       "investigative_direction": "Check public marriage and biographical records for Weinstein and Fields (they are widely reported to have been married).",
       "transcript_snippet": "the more relevant fact that was told to me is that Jaime Weinstein is Michelle Field's husband.",
       "mentions_person_refs": [
-        "N-401",
-        "N-402"
+        "N-397",
+        "N-398"
       ]
     },
     {
@@ -2794,8 +2794,8 @@
       "investigative_direction": "Review the released tape and the charges and outcome in the Lewandowski matter against the host's account.",
       "transcript_snippet": "which was later proved that her bruises could not have been from Cory Luwendowski because the bruises that she showed were not where Cory Luwendowski when the tape finally got released where he touched her.",
       "mentions_person_refs": [
-        "N-402",
-        "N-403"
+        "N-398",
+        "N-399"
       ]
     },
     {
@@ -3038,7 +3038,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-27",
-        "N-374"
+        "N-371"
       ]
     },
     {
@@ -3060,7 +3060,7 @@
       "transcript_snippet": "we're going to change the contract and instead of being paid x amount of years, you are going to only get this.",
       "mentions_person_refs": [
         "N-3",
-        "N-374",
+        "N-371",
         "N-27"
       ]
     },
@@ -3183,8 +3183,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-276",
-        "N-272"
+        "N-274",
+        "N-270"
       ]
     },
     {
@@ -3212,7 +3212,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-406"
+        "N-402"
       ]
     },
     {
@@ -3236,7 +3236,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-406"
+        "N-402"
       ]
     },
     {
@@ -3262,7 +3262,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-406"
+        "N-402"
       ]
     },
     {
@@ -3330,7 +3330,7 @@
       "investigative_direction": "Check Arizona legislature and secretary of state records for Smith's term and resignation date.",
       "transcript_snippet": "Smith represented an Arizona House district in the Phoenix suburbs for one term before dropping his re-election bid in 2024 when questions arose about signatures on his nominating petitions.",
       "mentions_person_refs": [
-        "N-404"
+        "N-400"
       ]
     },
     {
@@ -3354,7 +3354,7 @@
       "investigative_direction": "Obtain the original article and confirm Smith's dates at Turning Point Action.",
       "transcript_snippet": "So this was happening while he was at TurningPoint Action, the campaign arm of Turning Point USA, which has become a major force in Arizona Republican politics.",
       "mentions_person_refs": [
-        "N-404"
+        "N-400"
       ]
     },
     {
@@ -3446,7 +3446,7 @@
       "investigative_direction": "Confirm the handle on Instagram.",
       "transcript_snippet": "this is her Instagram page. It's Mags Wgner.",
       "mentions_person_refs": [
-        "N-398",
+        "N-394",
         "N-3"
       ]
     },

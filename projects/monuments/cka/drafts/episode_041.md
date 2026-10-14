@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 9947ad085576510d0eca9efc0f90646427ab1e5b19ec6460512b87a70d7be827
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-728, N-11016, N-11017
+  - Tip-minted Nodes (supplement_2026-10): N-722, N-11016, N-11017
   - Hole-minted Nodes (reintro-ep041): N-10340, N-10567, N-10804
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5147–C-5184
-  - New Nodes Introduced: N-312, N-313, N-10309, N-10310
-  - Reused Nodes Appearing: N-162, N-5, N-11, N-14, N-55, N-68, N-266, N-10064, N-10074, N-10208, N-10253, N-10316, N-10324
+  - New Nodes Introduced: N-309, N-310, N-10309, N-10310
+  - Reused Nodes Appearing: N-162, N-5, N-11, N-14, N-55, N-68, N-264, N-10064, N-10074, N-10208, N-10253, N-10316, N-10324
   - Tip-minted Nodes (wave2): N-10897
   - (see registers)
 
@@ -28,7 +28,7 @@ Artifact Families Introduced: A-1494, A-1495, A-1496, A-1497, A-1498, A-1499, A-
 
 Claim Range: C-1831–C-1838, C-3747
 
-New Nodes Introduced:  N-312, N-313, N-10309, N-10310
+New Nodes Introduced:  N-309, N-310, N-10309, N-10310
 
 Existing Nodes Reused: N-1 (Charlie Kirk)
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:02:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air; date of briefing not specified in transcript)
 
-*Related: C-1831, N-309*
+*Related: C-1831, N-306*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbally referenced; not shown in episode)
 
-*Related: C-1835, N-313, N-10897*
+*Related: C-1835, N-310, N-10897*
 
 **A-1500.2** Egyptian Presidency website record confirming El-Sisi aboard SU-BTU on April 3, 2023 (Riadh → Saudi Crown Prince MBS meeting)
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:42:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5181, C-5182, N-10897, N-273, N-3*
+*Related: C-5181, C-5182, N-10897, N-271, N-3*
 
 ---
 
@@ -248,7 +248,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-309** Cam Higby
+**N-306** Cam Higby
 
 Pentagon correspondent whose question to the Pentagon press secretary regarding a "French military plot to assassinate Candace Owens" is presented in the episode. Host asserts he has been on TPUSA payroll since August 2025.
 
@@ -261,7 +261,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-312** Wed Mahmoud
+**N-309** Wed Mahmoud
 
 Person using this name on board the "yellow plane" SU-BND on September 10, 2025 (one of four passengers). Host asserts same individual flew on SU-BTU ("purple plane") into Provo on May 27, 2025. Identity verification target.
 
@@ -274,7 +274,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-313** Sara Zaafarani
+**N-310** Sara Zaafarani
 
 Tunisian Prime Minister. Photographed with President El-Sisi in Egypt on September 10, 2025, per host assertion; used as alibi for El-Sisi.
 
@@ -325,7 +325,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-312, N-10310*
+*Related: N-309, N-10310*
 
 ---
 
@@ -338,7 +338,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-312, N-10309*
+*Related: N-309, N-10309*
 
 ---
 
@@ -412,7 +412,7 @@ TPUSA figure whose posts set the debate terms; quoted in Turek clip.
 
 ---
 
-**N-266** Duncan Aviation
+**N-264** Duncan Aviation
 
 FBO where the host says SU-BND was transponding on September 10.
 
@@ -420,7 +420,7 @@ FBO where the host says SU-BND was transponding on September 10.
 
 ---
 
-**N-273** Tim Pool
+**N-271** Tim Pool
 
 Commentator whose clip and alleged bot use are discussed.
 
@@ -508,7 +508,7 @@ Existing topic reused for the debate-terms claims.
 
 ---
 
-**N-728** Abdel Fattah el-Sisi
+**N-722** Abdel Fattah el-Sisi
 
 First named by the host as the Egyptian president (transcript spelling Elsis, Elsisi) at 00:17:13 in episode 41.
 Aliases: Elsisi; Elsis; LCC (transcript read of a post)
@@ -544,7 +544,7 @@ Claim Timestamp: 00:02:11
 Claim: Pentagon correspondent Cam Higby asked the Pentagon press secretary whether the Department of Defense had any evidence of a "French military plot to assassinate Candace Owens."
 
 Anchored Artifacts: A-1494.1
-Mentions: N-309, N-3
+Mentions: N-306, N-3
 
 
 Investigative Direction: Verify the original Pentagon press briefing transcript and date; confirm Higby's professional affiliations at the time.
@@ -601,7 +601,7 @@ Claim Timestamp: 00:17:13
 Claim: President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which the host cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.
 
 Anchored Artifacts: A-1500.1 (verbally referenced; not displayed)
-Mentions: N-313
+Mentions: N-310
 Related Nodes: N-10897
 
 
@@ -644,7 +644,7 @@ Claim Timestamp: 00:31:39
 Claim: Tim Pool states in a video that Candace Owens is a "scumbag" who is dividing conservatives and risks losing the midterms and 2028 by continuing to question the official Kirk narrative.
 
 Anchored Artifacts: A-1499.1
-Mentions: N-3, N-273
+Mentions: N-3, N-271
 
 Related Nodes:
 
@@ -692,7 +692,7 @@ Claim: In the clip played by the host, the Pentagon press secretary answers Cam 
 Transcript Snippet: That is an interesting question. Um, not that I'm aware of. Uh, but, you know, interesting question. I can try to find out and maybe let you know.
 
 Anchored Artifacts: A-1494.1
-Mentions: N-309
+Mentions: N-306
 Related Nodes: N-10064
 Supports: C-1825
 Investigative Direction: Obtain the Pentagon press briefing transcript to confirm the exchange and its date.
@@ -723,7 +723,7 @@ Claim: The host says Cam Higby has been on the payroll of Turning Point USA begi
 Transcript Snippet: Well, Cam Higgby is on the payroll of Turning Point USA beginning in August of this year.
 
 Anchored Artifacts: 
-Mentions: N-309, N-3
+Mentions: N-306, N-3
 Related Nodes: N-10000, N-11016
 Investigative Direction: Obtain employment, contractor or payment records, or a TPUSA staff announcement, showing whether and when Higby was engaged by TPUSA.
 
@@ -845,7 +845,7 @@ Transcript Snippet: That's SUB BND, which was the one that was transponding on t
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-266, N-10208, N-10074
+Related Nodes: N-264, N-10208, N-10074
 Supports: C-1719
 Investigative Direction: Pull the September 10, 2025 ADS-B and FBO records for SU-BND to confirm the ground transponder pings and the lack of departure.
 
@@ -876,7 +876,7 @@ Claim: The host says she can confirm that one of the four people on the yellow p
 Transcript Snippet: But the name that one of those individuals was using is Wedi Machmood. Okay. Wid Makmood.
 
 Anchored Artifacts: 
-Mentions: N-3, N-312
+Mentions: N-3, N-309
 Related Nodes: N-10309, N-10253
 Investigative Direction: Obtain the manifest or customs entry showing the name used, and test it against Egyptian official or aircrew rosters.
 
@@ -891,7 +891,7 @@ Claim: The host says Wedi Machmood had been in Provo before, arriving on May 27,
 Transcript Snippet: Wed Makmood came in and uh we can also confirm that if you look up the plane that he was on, there is no transponder data which reflects that trip.
 
 Anchored Artifacts: 
-Mentions: N-3, N-312
+Mentions: N-3, N-309
 Related Nodes: N-10310, N-10074
 Investigative Direction: Request Provo airport arrival logs and FBO fuel or handling records for late May 2025.
 
@@ -906,7 +906,7 @@ Claim: The host says the plane she labels purple, tail number SU-BTU, was not th
 Transcript Snippet: Purple plane was not there on day Charlie's assassination, but we now have a person that was on that purple plane uh at the end of May.
 
 Anchored Artifacts: 
-Mentions: N-3, N-312
+Mentions: N-3, N-309
 Related Nodes: N-10310, N-10074
 Investigative Direction: Check SU-BTU movement history for September 2025 against Provo airport records.
 
@@ -921,7 +921,7 @@ Claim: The host says SU-BTU flew into Provo May 27, departed June 2 and was not 
 Transcript Snippet: May 27th, SUBTU flies into Provo with Wii Makmoud aboard. Maybe it's a pilot. I don't know. Uh then we've got it departs on June 2nd and it is not transponding.
 
 Anchored Artifacts: 
-Mentions: N-3, N-312
+Mentions: N-3, N-309
 Related Nodes: N-10310, N-10074
 Investigative Direction: Seek non-ADS-B sources such as FAA flight plans, Provo tower logs or Customs records for June 2, 2025.
 
@@ -968,7 +968,7 @@ Claim: The host says President El-Sisi can also be ruled out as the individual i
 Transcript Snippet: We can also rule him out as having been the individual that was in Provo back in May because he was again photographed multiple times throughout that week in Egypt.
 
 Anchored Artifacts: 
-Mentions: N-3, N-728
+Mentions: N-3, N-722
 Related Nodes: N-10310
 Supports: C-1835
 Investigative Direction: Collect dated Egyptian presidency photographs and press reports for the week of May 27, 2025.
@@ -984,7 +984,7 @@ Claim: The host infers that Wedi Machmood is not the Egyptian president but is a
 Transcript Snippet: But he is almost certainly well acquainted with the president of Egypt because planes that fly presidents around uh military planes are not going to
 
 Anchored Artifacts: 
-Mentions: N-3, N-312, N-728
+Mentions: N-3, N-309, N-722
 Related Nodes: N-10309
 Investigative Direction: Identify who held the name Wedi Machmood and any link to Egyptian presidential staff, aircrew or family.
 
@@ -1101,7 +1101,7 @@ Claim: In the clip, Tim Pool says the host continually insinuates that Turning P
 Transcript Snippet: She continually crosses the line every day insinuating that Turning Point literally killed the guy who made them all rich.
 
 Anchored Artifacts: A-1499.1
-Mentions: N-273, N-3, N-1
+Mentions: N-271, N-3, N-1
 Related Nodes: N-10000
 Investigative Direction: Review the full Tim Pool broadcast for exact wording and what host statements he refers to.
 
@@ -1191,7 +1191,7 @@ Claim: The host reads a chat message from Project Constitution saying he now has
 Transcript Snippet: I have proof now that Tim P uses bots. Stay tuned. Receipts dropping in the next few weeks.
 
 Anchored Artifacts: A-2736.1
-Mentions: N-273
+Mentions: N-271
 Related Nodes: N-10897
 Investigative Direction: Watch for Project Constitution's promised release and verify the bot evidence.
 

@@ -30,7 +30,7 @@
             "C-1652"
           ],
           "related_nodes": [
-            "N-245"
+            "N-244"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,7 +56,7 @@
             "C-1653"
           ],
           "related_nodes": [
-            "N-245"
+            "N-244"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -108,9 +108,9 @@
             "C-1655"
           ],
           "related_nodes": [
+            "N-240",
             "N-241",
             "N-242",
-            "N-243",
             "N-10241"
           ],
           "tags": [],
@@ -137,8 +137,8 @@
             "C-1656"
           ],
           "related_nodes": [
+            "N-242",
             "N-243",
-            "N-244",
             "N-10241"
           ],
           "tags": [],
@@ -165,7 +165,7 @@
             "C-1657"
           ],
           "related_nodes": [
-            "N-247"
+            "N-246"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -243,7 +243,7 @@
             "C-1660"
           ],
           "related_nodes": [
-            "N-246"
+            "N-245"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -269,7 +269,7 @@
             "C-1661"
           ],
           "related_nodes": [
-            "N-248"
+            "N-247"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -295,7 +295,7 @@
             "C-1662"
           ],
           "related_nodes": [
-            "N-232"
+            "N-231"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -321,7 +321,7 @@
             "C-1663"
           ],
           "related_nodes": [
-            "N-249",
+            "N-248",
             "N-22"
           ],
           "tags": [],
@@ -348,7 +348,7 @@
             "C-1664"
           ],
           "related_nodes": [
-            "N-250"
+            "N-249"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -490,8 +490,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-241",
-      "ref": "N-241",
+      "@id": "N-240",
+      "ref": "N-240",
       "name": "Steve Baker",
       "type": "person",
       "description": "Reporter / editor credited with the five-year investigation identifying the alleged January 6 pipe-bomb dropper.",
@@ -509,8 +509,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-242",
-      "ref": "N-242",
+      "@id": "N-241",
+      "ref": "N-241",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Host of the broadcast where Steve Baker's pipe-bomb findings were aired and played in this episode.",
@@ -528,8 +528,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-243",
-      "ref": "N-243",
+      "@id": "N-242",
+      "ref": "N-242",
       "name": "Shauni Kerkhoff",
       "type": "person",
       "description": "Person identified by Steve Baker (as \"Kirkup\") and by CIA spokesperson Liz Lyons (as \"Kirkhoff\") in connection with the January 6 pipe bombs; spelling discrepancy is preserved.",
@@ -552,8 +552,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-244",
-      "ref": "N-244",
+      "@id": "N-243",
+      "ref": "N-243",
       "name": "Liz Lyons",
       "type": "person",
       "description": "CIA spokeswoman cited in the episode as the source of the statement on Capitol Police Campus Security employment.",
@@ -571,8 +571,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-245",
-      "ref": "N-245",
+      "@id": "N-244",
+      "ref": "N-244",
       "name": "Lance Wallnau",
       "type": "person",
       "description": "NAR preacher; proponent of the seven mountain mandate; alleged (via anonymous Turning Point sources) to have directed funds into Turning Point USA Faith.",
@@ -633,8 +633,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-246",
-      "ref": "N-246",
+      "@id": "N-245",
+      "ref": "N-245",
       "name": "Joel Berry",
       "type": "person",
       "description": "Babylon Bee writer whose tweet criticizing Candace/Tucker was read aloud in the episode.",
@@ -652,8 +652,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-247",
-      "ref": "N-247",
+      "@id": "N-246",
+      "ref": "N-246",
       "name": "Frank McCormick",
       "type": "person",
       "description": "X user who posted the AI-analysis claim challenging the authenticity of the Charlie Kirk text messages.",
@@ -671,8 +671,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-232",
-      "ref": "N-232",
+      "@id": "N-231",
+      "ref": "N-231",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Commentator whose audio clip warning against asking questions without \"hard evidence\" was played in the episode.",
@@ -690,8 +690,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-248",
-      "ref": "N-248",
+      "@id": "N-247",
+      "ref": "N-247",
       "name": "Grok",
       "type": "person",
       "description": "X platform AI whose public statement about Candace/TPUSA/Marcus Hale was read aloud in the episode.",
@@ -709,8 +709,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-248",
+      "ref": "N-248",
       "name": "Mark Levin",
       "type": "person",
       "description": "Radio host whose on-air response declining Tucker Carlson's debate request was played in the episode.",
@@ -747,8 +747,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-250",
-      "ref": "N-250",
+      "@id": "N-249",
+      "ref": "N-249",
       "name": "Keri Smith",
       "type": "person",
       "description": "Host of the Deprogrammed podcast whose audio characterizing Candace Owens as exhibiting \"cult tactics\" and \"cluster B personality disorder behavior\" was played in the episode.",
@@ -823,7 +823,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-243"
+        "N-242"
       ]
     },
     {
@@ -847,7 +847,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-245"
+        "N-244"
       ]
     },
     {
@@ -1113,8 +1113,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-230",
-      "ref": "N-230",
+      "@id": "N-229",
+      "ref": "N-229",
       "name": "Steven Paddock",
       "type": "person",
       "description": "Las Vegas 2017 shooter per official account.",
@@ -1130,8 +1130,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-234",
-      "ref": "N-234",
+      "@id": "N-233",
+      "ref": "N-233",
       "name": "Alyssa Cordova",
       "type": "person",
       "description": "Person the host says Allie Beth Stuckey is working with.",
@@ -1147,8 +1147,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-239",
-      "ref": "N-239",
+      "@id": "N-238",
+      "ref": "N-238",
       "name": "Elle Reeve",
       "type": "person",
       "description": "CNN interviewer, transcribed L Reeves.",
@@ -1164,8 +1164,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-462",
-      "ref": "N-462",
+      "@id": "N-457",
+      "ref": "N-457",
       "name": "Paul Havsgaard",
       "type": "person",
       "description": "Named as a former megachurch pastor accused of trafficking children from Romania (transcribed Paul Havsgard).",
@@ -1706,8 +1706,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-810",
-      "ref": "N-810",
+      "@id": "N-804",
+      "ref": "N-804",
       "name": "Loren Cunningham",
       "type": "person",
       "description": "Founder of Youth With A Mission; first named in the Wallnau clip at 00:13:31 in episode 29.",
@@ -1723,8 +1723,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-811",
-      "ref": "N-811",
+      "@id": "N-805",
+      "ref": "N-805",
       "name": "Bill Bright",
       "type": "person",
       "description": "Named in the Wallnau clip at 00:13:31 in episode 29 as the other party to the 2000 conversation.",
@@ -1740,8 +1740,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-812",
-      "ref": "N-812",
+      "@id": "N-806",
+      "ref": "N-806",
       "name": "Carl Wallnau",
       "type": "person",
       "description": "Father of Lance Wallnau; first named by the host at 00:17:09 in episode 29.",
@@ -1829,7 +1829,7 @@
       "claim_timestamp": "00:12:07",
       "investigative_direction": "Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot.",
       "mentions_person_refs": [
-        "N-245"
+        "N-244"
       ]
     },
     {
@@ -1848,7 +1848,7 @@
       "claim_timestamp": "00:13:31–00:14:22",
       "investigative_direction": "Retrieve the full source video to verify exact wording, context, and date.",
       "mentions_person_refs": [
-        "N-245"
+        "N-244"
       ]
     },
     {
@@ -1884,9 +1884,9 @@
       "claim_timestamp": "00:08:09–00:09:40",
       "investigative_direction": "Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting.",
       "mentions_person_refs": [
+        "N-240",
         "N-241",
-        "N-242",
-        "N-243"
+        "N-242"
       ]
     },
     {
@@ -1905,8 +1905,8 @@
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Retrieve the original CIA press statement or statement of record to verify wording and confirm whether \"Kirkhoff\" and \"Kirkup\" refer to the same individual.",
       "mentions_person_refs": [
-        "N-243",
-        "N-244"
+        "N-242",
+        "N-243"
       ]
     },
     {
@@ -1923,7 +1923,7 @@
       "claim_timestamp": "00:30:25–00:31:24",
       "investigative_direction": "Retrieve the original X post and the underlying AI analysis to assess methodology and reliability.",
       "mentions_person_refs": [
-        "N-247",
+        "N-246",
         "N-3",
         "N-1"
       ]
@@ -1978,7 +1978,7 @@
       "claim_timestamp": "00:29:06",
       "investigative_direction": "Retrieve and verify the original tweet on Joel Berry's X account.",
       "mentions_person_refs": [
-        "N-246"
+        "N-245"
       ]
     },
     {
@@ -1995,7 +1995,7 @@
       "claim_timestamp": "00:36:53–00:37:53",
       "investigative_direction": "Retrieve the original Grok/X post and compare against Candace Owens' contemporaneous statements on the show.",
       "mentions_person_refs": [
-        "N-248",
+        "N-247",
         "N-3",
         "N-1"
       ]
@@ -2014,7 +2014,7 @@
       "claim_timestamp": "00:33:55–00:34:48",
       "investigative_direction": "Retrieve the full source video to verify exact wording and full context.",
       "mentions_person_refs": [
-        "N-232",
+        "N-231",
         "N-3"
       ]
     },
@@ -2033,7 +2033,7 @@
       "investigative_direction": "Retrieve the full Mark Levin broadcast to verify exact wording and any additional context.",
       "mentions_person_refs": [
         "N-22",
-        "N-249"
+        "N-248"
       ]
     },
     {
@@ -2050,7 +2050,7 @@
       "claim_timestamp": "00:44:50–00:46:29",
       "investigative_direction": "Retrieve the full Deprogrammed episode to verify exact wording and complete reasoning.",
       "mentions_person_refs": [
-        "N-250",
+        "N-249",
         "N-3"
       ]
     },
@@ -2281,9 +2281,9 @@
         "C-1655"
       ],
       "mentions_person_refs": [
+        "N-240",
         "N-241",
-        "N-242",
-        "N-243"
+        "N-242"
       ]
     },
     {
@@ -2326,8 +2326,8 @@
       "investigative_direction": "Ask Blaze News whether its editor visited the address and whether a police contact was recorded; request the local police log.",
       "transcript_snippet": "The Blaze News editor-in-chief decided to pull up to her house to just kind of see if any action was happening at her home. And then he instantly got stopped by local police before they allowed him to leave.",
       "mentions_person_refs": [
-        "N-243",
-        "N-244"
+        "N-242",
+        "N-243"
       ]
     },
     {
@@ -2393,7 +2393,7 @@
       "investigative_direction": "Identify the publication and author of the article, confirm its title and whether Wallnau and Feucht are named.",
       "transcript_snippet": "There's an article about that. The new apostolic reformation drove the January 6th riots. So, why was it overlooked by the House Select Committee?",
       "mentions_person_refs": [
-        "N-245",
+        "N-244",
         "N-209"
       ]
     },
@@ -2415,7 +2415,7 @@
       "transcript_snippet": "I would say like he became mesmerized by the seven mountain mandate. He became friends with Lance Wallnau.",
       "mentions_person_refs": [
         "N-1",
-        "N-245"
+        "N-244"
       ]
     },
     {
@@ -2440,9 +2440,9 @@
         "C-1653"
       ],
       "mentions_person_refs": [
-        "N-245",
-        "N-810",
-        "N-811"
+        "N-244",
+        "N-804",
+        "N-805"
       ]
     },
     {
@@ -2508,7 +2508,7 @@
       "investigative_direction": "Check Wallnau's published biography for the academy and graduation year.",
       "transcript_snippet": "Lance Wallnau, he's no different. He graduated from a military academy.",
       "mentions_person_refs": [
-        "N-245"
+        "N-244"
       ]
     },
     {
@@ -2528,8 +2528,8 @@
       "investigative_direction": "Locate Carl Wallnau's service record or obituary and any Standard Oil employment record.",
       "transcript_snippet": "His father, Carl Wallnau, was a major in the United States Air Force, okay? Wallnau served under General Patton. After the war, he then continued his adventures as a field engineer for Standard Oil",
       "mentions_person_refs": [
-        "N-245",
-        "N-812"
+        "N-244",
+        "N-806"
       ]
     },
     {
@@ -2597,7 +2597,7 @@
       "investigative_direction": "Obtain donor or ministry records, Turning Point Faith budgets, or testimony from the faith-department sources.",
       "transcript_snippet": "Sources within Turning Point's faith department tell me that Lance was running the show behind the scenes through funding.",
       "mentions_person_refs": [
-        "N-245",
+        "N-244",
         "N-17",
         "N-3"
       ]
@@ -2619,7 +2619,7 @@
       "investigative_direction": "Check tour announcements for Turning Point Faith stops featuring Wallnau and public statements by Wallnau about Kirk.",
       "transcript_snippet": "He's friends with Rob Rob McCoy, um and he eventually did tour stops with Turning Point Faith. And he knew Charlie. He said Charlie was his friend.",
       "mentions_person_refs": [
-        "N-245",
+        "N-244",
         "N-17",
         "N-1"
       ]
@@ -2662,7 +2662,7 @@
       "investigative_direction": "Compare with the official casualty figures from the Las Vegas investigation record.",
       "transcript_snippet": "58 people were murdered. More than 600 others were injured. And they told us that it was just a lone shooter, Stephen Paddock",
       "mentions_person_refs": [
-        "N-230"
+        "N-229"
       ]
     },
     {
@@ -2829,7 +2829,7 @@
         "C-7943"
       ],
       "mentions_person_refs": [
-        "N-462"
+        "N-457"
       ]
     },
     {
@@ -2892,7 +2892,7 @@
       "investigative_direction": "Identify the specific Berry posts the host is characterising and compare their wording.",
       "transcript_snippet": "I am never on the side of people that cheer on kids being killed and uh churches being bombed and and insinuate as he did that even the Christians in Gaza should uh aren't really human beings",
       "mentions_person_refs": [
-        "N-246"
+        "N-245"
       ]
     },
     {
@@ -2965,7 +2965,7 @@
         "C-1657"
       ],
       "mentions_person_refs": [
-        "N-247",
+        "N-246",
         "N-3"
       ]
     },
@@ -3004,8 +3004,8 @@
       "investigative_direction": "Check Stuckey's and Cordova's public collaborations and dates.",
       "transcript_snippet": "I'm very surprised she's working with Alyssa Cordova",
       "mentions_person_refs": [
-        "N-232",
-        "N-234",
+        "N-231",
+        "N-233",
         "N-3"
       ]
     },
@@ -3026,7 +3026,7 @@
       "investigative_direction": "Compare the published timeline's sources with the tip submissions the host refers to.",
       "transcript_snippet": "I did all the work um and people sent me stuff, and then we put together a timeline.",
       "mentions_person_refs": [
-        "N-232",
+        "N-231",
         "N-3"
       ]
     },
@@ -3139,7 +3139,7 @@
         "C-1661"
       ],
       "mentions_person_refs": [
-        "N-248",
+        "N-247",
         "N-3"
       ]
     },
@@ -3181,7 +3181,7 @@
       "transcript_snippet": "Turning Point USA, credit to them, said, \"We are not canceling Tucker Carlson.\"",
       "mentions_person_refs": [
         "N-22",
-        "N-249",
+        "N-248",
         "N-3"
       ]
     },
@@ -3207,7 +3207,7 @@
         "C-1663"
       ],
       "mentions_person_refs": [
-        "N-249",
+        "N-248",
         "N-22"
       ]
     },
@@ -3228,7 +3228,7 @@
       "investigative_direction": "Identify the stepson and the Carlson remarks Levin refers to.",
       "transcript_snippet": "You stabbed him in the back while he's serving President Trump on his second tour, while he's in safe rooms",
       "mentions_person_refs": [
-        "N-249",
+        "N-248",
         "N-22"
       ]
     },
@@ -3270,7 +3270,7 @@
       "investigative_direction": "Check Smith's Deprogrammed episode for her stated background and which episodes she says she watched.",
       "transcript_snippet": "she was formerly of a cult mindset and so she's an expert on this. And she has now watched 10 episodes of this show.",
       "mentions_person_refs": [
-        "N-250",
+        "N-249",
         "N-3"
       ]
     },
@@ -3293,7 +3293,7 @@
       "investigative_direction": "Place the statement in the Deprogrammed episode and what it says she watched.",
       "transcript_snippet": "what happened to me was that I I saw Charlie Kirk get shot in the throat",
       "mentions_person_refs": [
-        "N-250",
+        "N-249",
         "N-1"
       ]
     },
@@ -3316,7 +3316,7 @@
       "investigative_direction": "Watch the Deprogrammed episode and list each sign Smith gives.",
       "transcript_snippet": "And she listed all of the reasons, the signs that I was in a cult.",
       "mentions_person_refs": [
-        "N-250",
+        "N-249",
         "N-3"
       ]
     },
@@ -3479,7 +3479,7 @@
         "C-7933"
       ],
       "mentions_person_refs": [
-        "N-245",
+        "N-244",
         "N-3"
       ]
     },
@@ -3567,7 +3567,7 @@
       "transcript_snippet": "L Reeves did not even get to my book at all",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-239",
+        "N-238",
         "N-82",
         "N-3"
       ]

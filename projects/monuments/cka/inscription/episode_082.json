@@ -897,8 +897,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -1153,8 +1153,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-507",
-      "ref": "N-507",
+      "@id": "N-502",
+      "ref": "N-502",
       "name": "Doug DeGroot",
       "type": "person",
       "description": "TPUSA board member the host guesses was the donor (transcribed Doug De Root).",
@@ -1170,8 +1170,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-562",
-      "ref": "N-562",
+      "@id": "N-557",
+      "ref": "N-557",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former TPUSA PR manager in the text thread with Justin and Andrew.",
@@ -1188,8 +1188,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-703",
-      "ref": "N-703",
+      "@id": "N-697",
+      "ref": "N-697",
       "name": "Laura Ingraham",
       "type": "person",
       "description": "Fox host whose show Andrew Kolvet is said to have discussed with Aubrey.",
@@ -1503,8 +1503,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-821",
-      "ref": "N-821",
+      "@id": "N-814",
+      "ref": "N-814",
       "name": "Ross Douthat",
       "type": "person",
       "description": "First named by the host at 00:30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.",
@@ -1521,8 +1521,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-822",
-      "ref": "N-822",
+      "@id": "N-815",
+      "ref": "N-815",
       "name": "Michael Shellenberger",
       "type": "person",
       "description": "First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.",
@@ -1538,8 +1538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-823",
-      "ref": "N-823",
+      "@id": "N-816",
+      "ref": "N-816",
       "name": "Pat Buchanan",
       "type": "person",
       "description": "First named by the host at 00:58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.",
@@ -1868,7 +1868,7 @@
       "claim_timestamp": "00:03:02",
       "investigative_direction": "Verify the Baron Coleman clip is preserved as a discrete artifact; clarify node for Baron Coleman.",
       "mentions_person_refs": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -1906,7 +1906,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -1928,7 +1928,7 @@
       "investigative_direction": "Locate the Alo jumpsuit exchange and any TPUSA or Erika Kirk response to it; compare with responses to the Santa Barbara departure allegation.",
       "transcript_snippet": "That's when you choose to come in and answer the accusations? Are you serious?",
       "mentions_person_refs": [
-        "N-337",
+        "N-334",
         "N-2"
       ]
     },
@@ -1951,7 +1951,7 @@
       "investigative_direction": "Review Coleman's three shows and check whether TPUSA, Andrew Kolvet or Erika Kirk publicly addressed the Santa Barbara departure allegation.",
       "transcript_snippet": "But I do three shows accusing you of leaving Santa Barbara before Charlie got shot or banged or whatever happened to him? And you're just dead silent?",
       "mentions_person_refs": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -2145,7 +2145,7 @@
         "N-3",
         "N-14",
         "N-2",
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -2215,7 +2215,7 @@
       "transcript_snippet": "And Justin jumps in on the text it and he says that uh, \"It's up to Andrew.\" And Andrew doesn't answer",
       "mentions_person_refs": [
         "N-3",
-        "N-562",
+        "N-557",
         "N-15",
         "N-14",
         "N-1"
@@ -2266,8 +2266,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-562",
-        "N-703"
+        "N-557",
+        "N-697"
       ]
     },
     {
@@ -2312,7 +2312,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -2408,7 +2408,7 @@
         "N-1",
         "N-14",
         "N-97",
-        "N-821"
+        "N-814"
       ]
     },
     {
@@ -2432,7 +2432,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-821"
+        "N-814"
       ]
     },
     {
@@ -2739,7 +2739,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-213",
-        "N-822",
+        "N-815",
         "N-40"
       ]
     },
@@ -3147,7 +3147,7 @@
       "transcript_snippet": "He coined the phrase Israel's amen corner in the early 90s.",
       "mentions_person_refs": [
         "N-3",
-        "N-823",
+        "N-816",
         "N-39"
       ]
     },
@@ -3190,7 +3190,7 @@
       "transcript_snippet": "My guess would be off the bat Doug De Root on the um he's on the board and I think he's a donor.",
       "mentions_person_refs": [
         "N-3",
-        "N-507"
+        "N-502"
       ]
     },
     {

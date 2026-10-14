@@ -61,7 +61,7 @@
           "related_nodes": [
             "N-5",
             "N-85",
-            "N-388",
+            "N-384",
             "N-10324"
           ],
           "tags": [],
@@ -87,7 +87,7 @@
             "C-4740"
           ],
           "related_nodes": [
-            "N-443",
+            "N-439",
             "N-10671",
             "N-10700",
             "N-10888"
@@ -135,9 +135,9 @@
             "C-4742"
           ],
           "related_nodes": [
-            "N-604",
-            "N-705",
-            "N-443",
+            "N-599",
+            "N-699",
+            "N-439",
             "N-10888"
           ],
           "tags": [],
@@ -165,8 +165,8 @@
             "C-4751"
           ],
           "related_nodes": [
-            "N-708",
-            "N-709",
+            "N-702",
+            "N-703",
             "N-10993",
             "N-10995"
           ],
@@ -562,8 +562,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Mitch Snow believes he saw him at the Fort Huachuca meeting; the host says he has not given a clear alibi.",
@@ -580,8 +580,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Fort Huachuca eyewitness whose sightings of Harpole and Erika Kirk are restated.",
@@ -599,8 +599,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-388",
-      "ref": "N-388",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "Dan Bongino",
       "type": "person",
       "description": "The host believes he was an obvious source for the New York Times article.",
@@ -618,8 +618,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
+      "@id": "N-439",
+      "ref": "N-439",
       "name": "Bradley Hansell",
       "type": "person",
       "description": "Transcript \"Bradley Hantel\", \"Bradley Hansel\" and \"Bradley Hansell\". Under Secretary of Defense for Intelligence whose office the host says organized SAM 702.",
@@ -644,8 +644,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-581",
-      "ref": "N-581",
+      "@id": "N-576",
+      "ref": "N-576",
       "name": "Faith Kates",
       "type": "person",
       "description": "Described as a close Epstein friend who ran Next Model Management and supported him after his 2009 arrest.",
@@ -662,8 +662,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-604",
-      "ref": "N-604",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Secretary of Defense (War) at the top of the org chart; the host mentions rumors that he might be fired.",
@@ -1120,8 +1120,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-704",
-      "ref": "N-704",
+      "@id": "N-698",
+      "ref": "N-698",
       "name": "Virginia Giuffre",
       "type": "person",
       "description": "First named by the host at 00:02:29 in episode 118 (as \"Virginia\"; full name at 00:06:38). Party to the defamation lawsuit with Ghislaine Maxwell; Trump says he employed her at Mar-a-Lago.",
@@ -1139,8 +1139,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-705",
-      "ref": "N-705",
+      "@id": "N-699",
+      "ref": "N-699",
       "name": "Stephen Feinberg",
       "type": "person",
       "description": "First named by the host at 00:11:06 in episode 118. Aliases: Steven Feinberg. Deputy Secretary of Defense, co-founder of Cerberus Capital Management.",
@@ -1164,8 +1164,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-706",
-      "ref": "N-706",
+      "@id": "N-700",
+      "ref": "N-700",
       "name": "Betsy DeVos",
       "type": "person",
       "description": "First named by the host at 00:16:00 in episode 118. Trump's first-term Secretary of Education and sister of Erik Prince.",
@@ -1181,8 +1181,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-707",
-      "ref": "N-707",
+      "@id": "N-701",
+      "ref": "N-701",
       "name": "Erik Prince",
       "type": "person",
       "description": "First named by the host at 00:16:00 in episode 118. Founder of Blackwater.",
@@ -1198,8 +1198,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-708",
-      "ref": "N-708",
+      "@id": "N-702",
+      "ref": "N-702",
       "name": "Kathryn Bolkovac",
       "type": "person",
       "description": "First named by the host at 00:17:45 in episode 118. Aliases: Catherine Bolkovac. DynCorp investigator in Bosnia who exposed the trafficking scandal.",
@@ -1221,8 +1221,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-709",
-      "ref": "N-709",
+      "@id": "N-703",
+      "ref": "N-703",
       "name": "Ben Johnston",
       "type": "person",
       "description": "First named by the host at 00:18:41 in episode 118. DynCorp employee who filed similar reports and was fired.",
@@ -1240,8 +1240,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-710",
-      "ref": "N-710",
+      "@id": "N-704",
+      "ref": "N-704",
       "name": "Emily Ratajkowski",
       "type": "person",
       "description": "First named by the host at 00:33:21 in episode 118. Author of the essay \"Mother Effer\" in The Cut.",
@@ -1279,7 +1279,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-705",
+        "N-699",
         "N-10993"
       ]
     },
@@ -1331,7 +1331,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-707"
+        "N-701"
       ]
     },
     {
@@ -1358,8 +1358,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-708",
-        "N-709",
+        "N-702",
+        "N-703",
         "N-10993"
       ]
     },
@@ -1381,8 +1381,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-443",
-        "N-705"
+        "N-439",
+        "N-699"
       ]
     },
     {
@@ -1502,7 +1502,7 @@
         "N-2",
         "N-9",
         "N-47",
-        "N-704"
+        "N-698"
       ]
     },
     {
@@ -1520,7 +1520,7 @@
       "mentions_person_refs": [
         "N-9",
         "N-47",
-        "N-704"
+        "N-698"
       ]
     },
     {
@@ -1559,7 +1559,7 @@
       "transcript_snippet": "we discovered she was hanging around at the Next Model Management offices, which was a talent agency that was run by close Jeffrey Epstein friend Faith Kates",
       "mentions_person_refs": [
         "N-2",
-        "N-581",
+        "N-576",
         "N-9"
       ]
     },
@@ -1598,7 +1598,7 @@
       "investigative_direction": "Epstein estate emails and flight records involving Kates and Next models.",
       "transcript_snippet": "Faith Kates, I should mention, never turned her back on Jeffrey Epstein. She supported him even after that 2009 arrest.",
       "mentions_person_refs": [
-        "N-581",
+        "N-576",
         "N-9"
       ]
     },
@@ -1635,7 +1635,7 @@
       "mentions_person_refs": [
         "N-5",
         "N-9",
-        "N-704"
+        "N-698"
       ]
     },
     {
@@ -1674,7 +1674,7 @@
       "investigative_direction": "ADS-B flight data and Air Force mission records for SAM 702 on September 8–9, 2025.",
       "transcript_snippet": "the plane that flew to Tucson, Arizona on September 8th, 2 days before Charlie's assassination, landed and hung out in Tucson for about 4 hours before it carried on to the Intel base in Fort Huachuca, Arizona, where it stayed overnight.",
       "mentions_person_refs": [
-        "N-369",
+        "N-366",
         "N-1"
       ]
     },
@@ -1697,7 +1697,7 @@
         "C-2909"
       ],
       "mentions_person_refs": [
-        "N-443"
+        "N-439"
       ]
     },
     {
@@ -1719,7 +1719,7 @@
         "C-2930"
       ],
       "mentions_person_refs": [
-        "N-443",
+        "N-439",
         "N-28",
         "N-36"
       ]
@@ -1740,8 +1740,8 @@
       "investigative_direction": "Fort Huachuca visitor and meeting records for September 9, 2025; Harpole's travel records.",
       "transcript_snippet": "And the meeting in which Mitch Snow believes that he saw Brian Harpole.",
       "mentions_person_refs": [
-        "N-369",
-        "N-272"
+        "N-366",
+        "N-270"
       ]
     },
     {
@@ -1760,9 +1760,9 @@
       "investigative_direction": "Base lodging registers and gate logs for September 8, 2025.",
       "transcript_snippet": "They saw her in that lobby on the 8th leaving, jumping into a green pickup truck, and her eyes reminded him of an ex-girlfriend's eyes, and that's why he clocked her.",
       "mentions_person_refs": [
-        "N-369",
+        "N-366",
         "N-2",
-        "N-443"
+        "N-439"
       ]
     },
     {
@@ -1786,7 +1786,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-2",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -1808,8 +1808,8 @@
       "investigative_direction": "The FOIA acknowledgment letter and tracking number.",
       "transcript_snippet": "They need to coordinate with multiple departments, and we're number 3,500 to hear back.",
       "mentions_person_refs": [
-        "N-443",
-        "N-604"
+        "N-439",
+        "N-599"
       ]
     },
     {
@@ -1829,9 +1829,9 @@
       "investigative_direction": "The official Department of War organizational chart.",
       "transcript_snippet": "There is one man in between Bradley and Pete Hegseth. A man named Stephen Feinberg who occupies the position of Deputy Secretary of Defense.",
       "mentions_person_refs": [
-        "N-443",
-        "N-604",
-        "N-705"
+        "N-439",
+        "N-599",
+        "N-699"
       ]
     },
     {
@@ -1851,7 +1851,7 @@
       "investigative_direction": "Feinberg's financial disclosure filings and published net-worth estimates.",
       "transcript_snippet": "What we can state definitively is that he is the wealthiest person in the Trump administration.",
       "mentions_person_refs": [
-        "N-705",
+        "N-699",
         "N-5"
       ]
     },
@@ -1870,7 +1870,7 @@
       "investigative_direction": "Cerberus corporate history and SEC Form ADV filings.",
       "transcript_snippet": "Well, in 1992 he co-founded uh Cerberus Capital Management.",
       "mentions_person_refs": [
-        "N-705"
+        "N-699"
       ]
     },
     {
@@ -1921,8 +1921,8 @@
       "investigative_direction": "Public biographies of DeVos and Prince.",
       "transcript_snippet": "And Betsy DeVos' brother is a man named Erik Prince, who is the founder of Blackwater.",
       "mentions_person_refs": [
-        "N-706",
-        "N-707",
+        "N-700",
+        "N-701",
         "N-5"
       ]
     },
@@ -1942,7 +1942,7 @@
       "investigative_direction": "DynCorp ownership filings and Feinberg's 2017 Intelligence Advisory Board appointment.",
       "transcript_snippet": "Stephen Feinberg outright owning a military mercenary group um from 2010 through to 2020, he joined Trump administration in 2017 the first go around",
       "mentions_person_refs": [
-        "N-705",
+        "N-699",
         "N-5"
       ]
     },
@@ -1983,7 +1983,7 @@
       "investigative_direction": "Bolkovac's book and the UK employment tribunal ruling in Bolkovac v. DynCorp.",
       "transcript_snippet": "Catherine Bolkovac, um a a DynCorp investigator in Bosnia discovered that several DynCorp employees were involved in purchasing underage women and facilitating sex trafficking.",
       "mentions_person_refs": [
-        "N-708"
+        "N-702"
       ]
     },
     {
@@ -2004,8 +2004,8 @@
       "investigative_direction": "Johnston's lawsuit filings in Texas and the Bolkovac tribunal record.",
       "transcript_snippet": "Another employee, Ben Johnston, filed similar reports. Both were then fired by the company",
       "mentions_person_refs": [
-        "N-709",
-        "N-708"
+        "N-703",
+        "N-702"
       ]
     },
     {
@@ -2026,7 +2026,7 @@
       "investigative_direction": "Bolkovac's book and UN/OSCE trafficking reports on Bosnia.",
       "transcript_snippet": "the trafficked underage women were coming from Ukraine, Croatia, Bosnia, and of course Romania.",
       "mentions_person_refs": [
-        "N-708"
+        "N-702"
       ]
     },
     {
@@ -2064,7 +2064,7 @@
       "investigative_direction": "Status of Forces agreements for Bosnia and DynCorp federal contract history after 2002.",
       "transcript_snippet": "So, in the end, DynCorp got off scot-free and just continued their relationship with the United States government.",
       "mentions_person_refs": [
-        "N-708"
+        "N-702"
       ]
     },
     {
@@ -2083,8 +2083,8 @@
       "investigative_direction": "The 2010 Cerberus–DynCorp acquisition filing and the 2020 sale to Amentum.",
       "transcript_snippet": "Now, when her movie about the scandal came out in 2010, DynCorp sold to Stephen Feinberg's Cerberus. It was owned by Cerberus for the next 10 years.",
       "mentions_person_refs": [
-        "N-705",
-        "N-708"
+        "N-699",
+        "N-702"
       ]
     },
     {
@@ -2104,7 +2104,7 @@
       "investigative_direction": "The New York Times article's attributions; Bongino's public statements.",
       "transcript_snippet": "I believe the New York Times article was very well sourced and I believe that one of their obvious sources to me as I read the article seemed like it was Dan Bongino.",
       "mentions_person_refs": [
-        "N-388",
+        "N-384",
         "N-5"
       ]
     },
@@ -2123,8 +2123,8 @@
       "investigative_direction": "Feinberg's ethics agreement and OGE Form 278 disclosures.",
       "transcript_snippet": "I know since uh Stephen Feinberg has said that he has divested um from Cerberus Capital",
       "mentions_person_refs": [
-        "N-705",
-        "N-443"
+        "N-699",
+        "N-439"
       ]
     },
     {
@@ -2163,9 +2163,9 @@
       "transcript_snippet": "were orchestrating messaging to artificially boost Erika. They wanted her as the number one trend by morning.",
       "mentions_person_refs": [
         "N-2",
-        "N-443",
-        "N-705",
-        "N-604"
+        "N-439",
+        "N-699",
+        "N-599"
       ]
     },
     {
@@ -2238,7 +2238,7 @@
       "investigative_direction": "Public reporting on Ratajkowski's separation and divorce filing dates.",
       "transcript_snippet": "Uh she gave birth, they were separated uh within a year, I believe",
       "mentions_person_refs": [
-        "N-710"
+        "N-704"
       ]
     },
     {
@@ -2274,7 +2274,7 @@
       "investigative_direction": "Compare with the published text in The Cut.",
       "transcript_snippet": "the character that I had learned to embody after my divorce in my period of compulsively dating was a villain.",
       "mentions_person_refs": [
-        "N-710"
+        "N-704"
       ]
     },
     {
@@ -2292,7 +2292,7 @@
       "investigative_direction": "Compare with the published text in The Cut.",
       "transcript_snippet": "my friend said after watching me in shorts and lip liner navigate the the clickish politics of school drop-off.",
       "mentions_person_refs": [
-        "N-710"
+        "N-704"
       ]
     },
     {

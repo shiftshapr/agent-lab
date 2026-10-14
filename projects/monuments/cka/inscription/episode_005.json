@@ -17,7 +17,7 @@
     "candace_ep_number": 238,
     "kind": "numbered_show"
   },
-  "executive_summary": "CKA seq 5 advances the Candace Kirk Archive investigation around Tyler Robinson, presenting a purported 6:38 p.m. Dairy Queen photo, the doorbell-cam footage released via TMZ, witness statements from Sherry Steel (BBC) and the Steel family children (Good Morning America), Netanyahu's second denial video, the PBD Eric Bowling clip, Bill Aman's text messages, the pre-event Amazon book, and a Utah artist's 'Charlie Kirk Dead at 31' song. The episode juxtaposes official-fed timeline claims against host-asserted inconsistencies and pushes the local 'vacant house / decoy' theory. Netanyahu's statement is read in full and reframed as Jewish/Christian identity politics. No new physical evidence is shown for the text-message wording claims.",
+  "executive_summary": "CKA seq 5 advances the Candace Kirk Archive investigation around Tyler Robinson, presenting a purported 6:38 p.m. Dairy Queen photo, the doorbell-cam footage released via TMZ, witness statements from Sherry Steel (BBC) and the Steel family children (Good Morning America), Netanyahu's second denial video, the PBD Eric Bolling clip, Bill Aman's text messages, the pre-event Amazon book, and a Utah artist's 'Charlie Kirk Dead at 31' song. The episode juxtaposes official-fed timeline claims against host-asserted inconsistencies and pushes the local 'vacant house / decoy' theory. Netanyahu's statement is read in full and reframed as Jewish/Christian identity politics. No new physical evidence is shown for the text-message wording claims.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -186,13 +186,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1116",
       "family_ref": "A-1116",
-      "bundle_name": "PBD Podcast Eric Bowling Clip Bundle",
+      "bundle_name": "PBD Podcast Eric Bolling Clip Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1116.1",
           "ref": "A-1116.1",
-          "description": "Clip from the PBD Podcast in which Eric Bowling states Candace Owens has not been at TPUSA events in years and characterises the relationship between Kirk and Owens as a quiet breakup.",
+          "description": "Clip from the PBD Podcast in which Eric Bolling states Candace Owens has not been at TPUSA events in years and characterises the relationship between Kirk and Owens as a quiet breakup.",
           "related_claims": [
             "C-1193",
             "C-1204"
@@ -479,7 +479,7 @@
       "@type": "Person",
       "@id": "N-72",
       "ref": "N-72",
-      "name": "Eric Bowling",
+      "name": "Eric Bolling",
       "type": "person",
       "description": "PBD Podcast guest who claimed Owens has not been at TPUSA events for years and described a 'quiet breakup' with Kirk.",
       "related_artifacts": [
@@ -1027,7 +1027,7 @@
       "ref": "N-10059",
       "name": "PBD Podcast",
       "type": "organization",
-      "description": "Carried the Eric Bowling segment contradicting Owens's account of TPUSA involvement.",
+      "description": "Carried the Eric Bolling segment contradicting Owens's account of TPUSA involvement.",
       "related_artifacts": [
         "A-1116.1"
       ],
@@ -1367,7 +1367,7 @@
       "@id": "C-1193",
       "ref": "C-1193",
       "label": "Bowling said Owens no longer speaks at TPUSA events",
-      "claim": "Eric Bowling stated on PBD Podcast that Candace Owens had not attended or spoken at Turning Point USA events in years and described her separation from Kirk as a quiet breakup.",
+      "claim": "Eric Bolling stated on PBD Podcast that Candace Owens had not attended or spoken at Turning Point USA events in years and described her separation from Kirk as a quiet breakup.",
       "anchored_artifacts": [
         "A-1116.1"
       ],
@@ -1641,7 +1641,7 @@
       "@id": "C-1204",
       "ref": "C-1204",
       "label": "Bowling described 'quiet breakup' between Kirk and Owens",
-      "claim": "Eric Bowling on PBD Podcast stated that Candace Owens would have been 'the logical heir to the TPUSA throne' absent a 'very quiet breakup where she got too rabbit hole for him'.",
+      "claim": "Eric Bolling on PBD Podcast stated that Candace Owens would have been 'the logical heir to the TPUSA throne' absent a 'very quiet breakup where she got too rabbit hole for him'.",
       "anchored_artifacts": [
         "A-1116.1"
       ],

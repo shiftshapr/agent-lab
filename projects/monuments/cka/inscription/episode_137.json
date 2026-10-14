@@ -326,7 +326,7 @@
             "N-1",
             "N-3",
             "N-40",
-            "N-798"
+            "N-792"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -356,8 +356,8 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-517",
-            "N-763"
+            "N-512",
+            "N-757"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -383,8 +383,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-517",
-            "N-763"
+            "N-512",
+            "N-757"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -421,7 +421,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-517"
+            "N-512"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -722,8 +722,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-517",
-      "ref": "N-517",
+      "@id": "N-512",
+      "ref": "N-512",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
@@ -881,8 +881,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-248",
+      "ref": "N-248",
       "name": "Mark Levin",
       "type": "person",
       "description": "Mark Levin; his Iran remarks and the host's claim Trump follows him.",
@@ -898,8 +898,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-375",
-      "ref": "N-375",
+      "@id": "N-372",
+      "ref": "N-372",
       "name": "Danny Philip",
       "type": "person",
       "description": "Danny Philip; named as the person with Neff in Salt Lake City.",
@@ -915,8 +915,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-388",
-      "ref": "N-388",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Dan Bongino; named in the screwdriver clarification and transparency promises.",
@@ -933,8 +933,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-604",
-      "ref": "N-604",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Pete Hegseth; his statements on the Iran school strike.",
@@ -951,8 +951,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-695",
-      "ref": "N-695",
+      "@id": "N-689",
+      "ref": "N-689",
       "name": "Jon Bray",
       "type": "person",
       "description": "Jon Bray; credited with showing the road mic glass is sticky.",
@@ -968,8 +968,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-763",
-      "ref": "N-763",
+      "@id": "N-757",
+      "ref": "N-757",
       "name": "Allan Robertson",
       "type": "person",
       "description": "Allan Robertson; USU officer on the rooftop, subject of the Brady and threat-assessment update.",
@@ -1377,8 +1377,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-798",
-      "ref": "N-798",
+      "@id": "N-792",
+      "ref": "N-792",
       "name": "Mike Lee",
       "type": "person",
       "description": "First named by the host at 00:09:13 in episode 137 (spelled Mike Shamway Lee in the transcript). Utah senator the host says was slated to attend the Sept 10 UVU event and whose name was used as a cover story.",
@@ -1512,7 +1512,7 @@
       "claim_timestamp": "00:19:22",
       "investigative_direction": "Obtain trial transcripts or full video of Bagley's testimony to confirm wording and any clarification given.",
       "mentions_person_refs": [
-        "N-517"
+        "N-512"
       ]
     },
     {
@@ -1727,7 +1727,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-517",
+        "N-512",
         "N-162"
       ]
     },
@@ -1961,7 +1961,7 @@
       "investigative_direction": "Review John Bray's earlier demonstration and the microphone's materials to see whether the adhesive claim holds.",
       "transcript_snippet": "Remember John Bray showed us that that glass for the road mic is very, very, very sticky.",
       "mentions_person_refs": [
-        "N-695",
+        "N-689",
         "N-3"
       ]
     },
@@ -1985,7 +1985,7 @@
       "investigative_direction": "Ask Senator Lee's office and TPUSA for the event invitation list and whether Lee was ever confirmed as an attendee.",
       "transcript_snippet": "Senator Lee was actually slated to attend the Charlie Kirk event at UVU on September 10th.",
       "mentions_person_refs": [
-        "N-798",
+        "N-792",
         "N-1",
         "N-3"
       ]
@@ -2009,7 +2009,7 @@
       "investigative_direction": "Check the Senate schedule and NDAA floor votes for the week of September 8, 2025 and any Lee office statement about the cancellation.",
       "transcript_snippet": "that week the senator had to cancel very early on in the week due to the National Defense Authorization Act",
       "mentions_person_refs": [
-        "N-798"
+        "N-792"
       ]
     },
     {
@@ -2027,7 +2027,7 @@
       "investigative_direction": "Check Lee's official biography for his birthplace and his father's role at BYU Law.",
       "transcript_snippet": "His father was actually the founding dean of BYU's law school program.",
       "mentions_person_refs": [
-        "N-798"
+        "N-792"
       ]
     },
     {
@@ -2050,7 +2050,7 @@
       "investigative_direction": "Ask UVU police and Senator Lee's office whether Lee's office was contacted after September 10, 2025 about a campus incident and what was said.",
       "transcript_snippet": "I've got a source that UVU tells me that after the assassination of Charlie, Mike Lee was contacted due to something unusual that took place on campus the day before the shooting.",
       "mentions_person_refs": [
-        "N-798",
+        "N-792",
         "N-1",
         "N-3"
       ]
@@ -2075,7 +2075,7 @@
       "investigative_direction": "Request UVU security and police incident logs, radio traffic and any field-contact record for September 9, 2025.",
       "transcript_snippet": "he told the campus security that he was Senator Mike Lee's bodyguard, scoping out the area to ensure that the senator was going to be safe ahead of the event.",
       "mentions_person_refs": [
-        "N-798",
+        "N-792",
         "N-3"
       ]
     },
@@ -2098,7 +2098,7 @@
       "investigative_direction": "Ask Lee's Senate office whether any staff or security accompanied him to Utah events in September 2025.",
       "transcript_snippet": "And I have done some digging and it also appears that Mike Lee is pretty down to earth. He doesn't actually have a security apparatus, a security team.",
       "mentions_person_refs": [
-        "N-798",
+        "N-792",
         "N-3"
       ]
     },
@@ -2230,7 +2230,7 @@
       "investigative_direction": "Collect each named person's public transparency statements and test them against what has been released.",
       "transcript_snippet": "Dan Bonino, Kash Patel, Erika Kirk, Turning Point USA. We didn't edit the videos. We don't lie about what was on the footage.",
       "mentions_person_refs": [
-        "N-388",
+        "N-384",
         "N-69",
         "N-2",
         "N-3"
@@ -2287,7 +2287,7 @@
       ],
       "mentions_person_refs": [
         "N-69",
-        "N-388",
+        "N-384",
         "N-3"
       ]
     },
@@ -2312,7 +2312,7 @@
         "C-3042"
       ],
       "mentions_person_refs": [
-        "N-517",
+        "N-512",
         "N-3"
       ]
     },
@@ -2338,7 +2338,7 @@
         "C-3044"
       ],
       "mentions_person_refs": [
-        "N-517"
+        "N-512"
       ]
     },
     {
@@ -2363,7 +2363,7 @@
         "C-3214"
       ],
       "mentions_person_refs": [
-        "N-517"
+        "N-512"
       ]
     },
     {
@@ -2386,7 +2386,7 @@
       "investigative_direction": "Obtain rooftop video between the jump and 12:44 p.m. and identify anyone who appears on the Losee roof before Bagley.",
       "transcript_snippet": "I can exclusively tell you guys that the answer to that question is yes. Yes, somebody did get on that rooftop before you, didn't he, Officer Bagley?",
       "mentions_person_refs": [
-        "N-517",
+        "N-512",
         "N-3"
       ]
     },
@@ -2408,7 +2408,7 @@
       "investigative_direction": "Establish a time-stamped chain of custody for the screwdriver and who was on the roof before it was logged.",
       "transcript_snippet": "it's plausible that this unknown person could have planted the screwdriver.",
       "mentions_person_refs": [
-        "N-517",
+        "N-512",
         "N-3"
       ]
     },
@@ -2434,7 +2434,7 @@
         "C-3203"
       ],
       "mentions_person_refs": [
-        "N-763",
+        "N-757",
         "N-3"
       ]
     },
@@ -2460,7 +2460,7 @@
         "C-3199"
       ],
       "mentions_person_refs": [
-        "N-763",
+        "N-757",
         "N-1",
         "N-3"
       ]
@@ -2487,8 +2487,8 @@
         "C-3196"
       ],
       "mentions_person_refs": [
-        "N-517",
-        "N-763",
+        "N-512",
+        "N-757",
         "N-3"
       ]
     },
@@ -2507,7 +2507,7 @@
       "investigative_direction": "Review Bagley's personnel and disciplinary history through records requests to UVU police.",
       "transcript_snippet": "there were not many people or any people in our inbox that were defending Christopher Bagley, which is interesting.",
       "mentions_person_refs": [
-        "N-517",
+        "N-512",
         "N-3"
       ]
     },
@@ -2530,8 +2530,8 @@
       "investigative_direction": "Check the trial recording for the moment Bagley says 'Allen' and the question asked.",
       "transcript_snippet": "he actually does slip and say Allen at one point, so he definitely knew who the person was.",
       "mentions_person_refs": [
-        "N-517",
-        "N-763",
+        "N-512",
+        "N-757",
         "N-3"
       ]
     },
@@ -2557,7 +2557,7 @@
         "C-3203"
       ],
       "mentions_person_refs": [
-        "N-763",
+        "N-757",
         "N-3"
       ]
     },
@@ -2651,7 +2651,7 @@
       ],
       "mentions_person_refs": [
         "N-162",
-        "N-375",
+        "N-372",
         "N-3"
       ]
     },
@@ -2752,7 +2752,7 @@
       "transcript_snippet": "At first, Trump actually came out and he said, \"No, we didn't do it. It was Iran.\" Pete Hexth followed up with the same message.",
       "mentions_person_refs": [
         "N-5",
-        "N-604",
+        "N-599",
         "N-3"
       ]
     },
@@ -2798,7 +2798,7 @@
       "transcript_snippet": "My opinion, based on what I've seen, that was done by Iran.",
       "mentions_person_refs": [
         "N-5",
-        "N-604"
+        "N-599"
       ]
     },
     {
@@ -2920,7 +2920,7 @@
       "transcript_snippet": "Whose call was he taking? Who is he retweeting? Psychos like actual psychopaths like Mark Levvin",
       "mentions_person_refs": [
         "N-5",
-        "N-249",
+        "N-248",
         "N-3"
       ]
     },

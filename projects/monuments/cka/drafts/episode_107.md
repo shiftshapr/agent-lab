@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 674d0b2cf0cf17f8e31242dcb7734af97349b70ba3193f8f1aef68b988aa35f5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-738, N-739, N-740, N-741, N-742, N-11047, N-11048, N-11049, N-11050, N-11051, N-11052
+  - Tip-minted Nodes (supplement_2026-10): N-732, N-733, N-734, N-735, N-736, N-11047, N-11048, N-11049, N-11050, N-11051, N-11052
   - Hole-minted Nodes (reintro-ep107): N-10700, N-10785
   - Tip-minted Nodes (reintro-ep107): N-10942
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5665–C-5778
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-3, N-7, N-212, N-348, N-349, N-10601, N-10622, N-9, N-229, N-10000, N-10006, N-10026, N-10063, N-10398, N-10604, N-10605, N-10618, N-10923, N-350, N-355
-  - Hole-minted Nodes (wave1): N-351, N-352, N-353, N-354, N-356
+  - Reused Nodes Appearing: N-3, N-7, N-212, N-345, N-346, N-10601, N-10622, N-9, N-228, N-10000, N-10006, N-10026, N-10063, N-10398, N-10604, N-10605, N-10618, N-10923, N-347, N-352
+  - Hole-minted Nodes (wave1): N-348, N-349, N-350, N-351, N-353
   - Tip-minted Nodes (wave1): N-10893
   - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-3702..C-3716 and A-2505..A-2512. Persons and the topic minted into free holes are listed on the Hole-minted line (batch wave1); Victor Marx and Corby Hall were first introduced in ep92.
   - (see registers)
@@ -40,7 +40,7 @@ Video Timestamp: 00:01:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (host recount; post not displayed in transcript)
 
-*Related: C-3702, C-3703, N-348, N-350, N-10622*
+*Related: C-3702, C-3703, N-345, N-347, N-10622*
 
 ---
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:06:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (audio played on air)
 
-*Related: C-3704, C-3709, N-348, N-356*
+*Related: C-3704, C-3709, N-345, N-353*
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:11:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (audio played on air)
 
-*Related: C-3705, N-352, N-348*
+*Related: C-3705, N-349, N-345*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:11:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (post read aloud)
 
-*Related: C-3706, N-354, N-353, N-348*
+*Related: C-3706, N-351, N-350, N-345*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:10:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (described by host)
 
-*Related: C-3707, N-348*
+*Related: C-3707, N-345*
 
 **A-2509.2** Website text shown on air: "a high-risk humanitarian who has rescued more than 45,000 women and children."
 
@@ -101,7 +101,7 @@ Video Timestamp: 01:13:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (text read on air)
 
-*Related: C-3708, C-3716, N-348, N-10893*
+*Related: C-3708, C-3716, N-345, N-10893*
 
 ---
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:16:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (live interview audio)
 
-*Related: C-3709, C-3710, C-3711, C-3712, C-3713, C-3714, C-3715, C-3716, N-348*
+*Related: C-3709, C-3710, C-3711, C-3712, C-3713, C-3714, C-3715, C-3716, N-345*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:30:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (stated on air; film not shown)
 
-*Related: C-3709, N-348*
+*Related: C-3709, N-345*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:23:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (stated on air)
 
-*Related: C-3710, N-348*
+*Related: C-3710, N-345*
 
 ---
 
@@ -315,55 +315,55 @@ Named by Victor Marx in his account of the 9/10 death announcement.
 
 *Related: C-3713*
 
-**N-348** Victor Marx
+**N-345** Victor Marx
 
 Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.
 
 *Related: A-2505.1, A-2506.1, A-2507.1, A-2508.1, A-2509.1, A-2509.2, A-2510.1, A-2512.1, C-3702, C-3703, C-3704, C-3705, C-3706, C-3707, C-3708, C-3709, C-3710, C-3711, C-3712, C-3713, C-3714, C-3715, C-3716*
 
-**N-350** Eileen Marx
+**N-347** Eileen Marx
 
 Victor's wife; described as second-mother figure to Erika Kirk.
 
 *Related: A-2505.1, C-3703*
 
-**N-349** Corby Hall
+**N-346** Corby Hall
 
 Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.
 
 *Related: C-3709*
 
-**N-351** Melody Hall
+**N-348** Melody Hall
 
 Corby Hall's wife; named by Victor Marx as someone he prayed for.
 
 *Related: C-3711*
 
-**N-352** Holly Chalmers
+**N-349** Holly Chalmers
 
 Accuser of Victor Marx; alleges kidnapping across state lines and exploitation.
 
 *Related: A-2507.1, C-3705*
 
-**N-353** Victor Marx's son
+**N-350** Victor Marx's son
 
 Wrote a letter to the board accusing his father of abusing him and his sister.
 
 *Related: A-2508.1, C-3706*
 
-**N-354** Victor Marx's daughter
+**N-351** Victor Marx's daughter
 
 Posted on social media about abuse; later recanted; friends allege pressure.
 
 *Related: A-2508.1, C-3706*
 
-**N-355** Amir Safari
+**N-352** Amir Safari
 
 Pastor named by the host as also posting early about Charlie Kirk's death.
 
 *Related: C-3713*
 
-**N-356** Gloyce Dean Kennedy
+**N-353** Gloyce Dean Kennedy
 
 Victor Marx's stepfather, named by the host; subject of Victor's childhood abuse narrative.
 
@@ -418,7 +418,7 @@ Named by the host as an early poster who took down a video saying an Israel chan
 
 ---
 
-**N-229** Shawn Ryan
+**N-228** Shawn Ryan
 
 Named when the host asks whether Marx said 45,000 on the Shawn Ryan show.
 
@@ -538,7 +538,7 @@ Topic for Marx's account of the text reassuring Erika Kirk that they only wanted
 
 ---
 
-**N-738** Mike Kennedy
+**N-732** Mike Kennedy
 
 First named by the host at 00:03:25 in episode 107. Described as Victor Marx's brother who pled guilty as a co-conspirator and took a plea deal for testifying against the stepfather.
 
@@ -546,7 +546,7 @@ First named by the host at 00:03:25 in episode 107. Described as Victor Marx's b
 
 ---
 
-**N-739** Karl Marx (Victor Marx's father)
+**N-733** Karl Marx (Victor Marx's father)
 
 First named by the host at 00:03:25 in episode 107. Described as Victor Marx's biological father, a pimp, drug dealer and martial arts expert who spent time in a mental hospital.
 
@@ -554,7 +554,7 @@ First named by the host at 00:03:25 in episode 107. Described as Victor Marx's b
 
 ---
 
-**N-740** Kenneth Brining
+**N-734** Kenneth Brining
 
 First named by the host at 00:05:19 in episode 107. Described as Eileen Marx's brother who tried to shoot Victor Marx in 2023 and later killed his girlfriend.
 
@@ -562,7 +562,7 @@ First named by the host at 00:05:19 in episode 107. Described as Eileen Marx's b
 
 ---
 
-**N-741** James Dobson
+**N-735** James Dobson
 
 First named by Victor Marx at 00:51:20 in episode 107. Marx says he worked for Dr. James Dobson as an assistant.
 
@@ -570,7 +570,7 @@ First named by Victor Marx at 00:51:20 in episode 107. Marx says he worked for D
 
 ---
 
-**N-742** Dave Eubank
+**N-736** Dave Eubank
 
 First named by Victor Marx at 00:51:20 in episode 107. Marx says Eubank invited him to Burma.
 
@@ -640,7 +640,7 @@ Claim Timestamp: 00:01:24
 Claim: Episode presents that Victor Marx was the first to publicly announce Charlie Kirk's passing via Instagram, approximately 1.5 hours before the U.S. president's announcement.
 Transcript Snippet: first that we could find to publicly announce that Charlie Kirk had passed away on September 10th
 Anchored Artifacts: A-2505.1
-Mentions: N-1, N-348
+Mentions: N-1, N-345
 Related Nodes: N-10622
 Investigative Direction: Verify Instagram timestamp via archived captures; cross-check against family notification logs.
 
@@ -651,7 +651,7 @@ Investigative Direction: Verify Instagram timestamp via archived captures; cross
 Claim Timestamp: 00:01:24
 Claim: Episode presents that Victor Marx and his wife Eileen were among the small circle welcomed into Erika Kirk's home after Charlie's body was brought back aboard Air Force 2.
 Anchored Artifacts: A-2505.1
-Mentions: N-2, N-348, N-350
+Mentions: N-2, N-345, N-347
 Investigative Direction: Verify via photographic evidence and corroboration from family/close associates.
 
 ---
@@ -661,7 +661,7 @@ Investigative Direction: Verify via photographic evidence and corroboration from
 Claim Timestamp: 00:06:15
 Claim: Episode plays Victor Marx audio clip narrating that his stepfather forced him to behead a cat at age 3 and to shoot a man at age 7.
 Anchored Artifacts: A-2506.1
-Mentions: N-348, N-356
+Mentions: N-345, N-353
 Investigative Direction: Cross-reference with documentary content, family corroboration, and Mississippi cold-case records.
 
 ---
@@ -672,7 +672,7 @@ Claim Timestamp: 00:11:03
 Claim: Episode plays audio of Holly Chalmers stating she believes Victor Marx is a trafficker himself.
 Transcript Snippet: I believe that he's a trafficker himself
 Anchored Artifacts: A-2507.1
-Mentions: N-348, N-352
+Mentions: N-345, N-349
 Investigative Direction: Obtain HSI/human trafficking specialist records referenced by Victor; verify Holly's allegations via law enforcement.
 
 ---
@@ -682,7 +682,7 @@ Investigative Direction: Obtain HSI/human trafficking specialist records referen
 Claim Timestamp: 00:11:03
 Claim: Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; later recanted under alleged pressure.
 Anchored Artifacts: A-2508.1
-Mentions: N-348, N-354, N-353
+Mentions: N-345, N-351, N-350
 Investigative Direction: Obtain original social media posts via archived captures; verify timeline of board letter and retraction.
 
 ---
@@ -692,7 +692,7 @@ Investigative Direction: Obtain original social media posts via archived capture
 Claim Timestamp: 00:10:09
 Claim: Episode presents that Victor Marx's website previously listed him as 'husband, father, US Marine, pastor,' quietly removed.
 Anchored Artifacts: A-2509.1
-Mentions: N-348
+Mentions: N-345
 Investigative Direction: Retrieve archived versions of Victor Marx's website via Wayback Machine.
 
 ---
@@ -703,7 +703,7 @@ Claim Timestamp: 01:14:27
 Claim: Episode displays victor2026.com website text stating Victor Marx 'rescued more than 45,000 women and children.'
 Transcript Snippet: a high-risk humanitarian who has rescued more than 45,000 women and children
 Anchored Artifacts: A-2509.2
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10893
 Investigative Direction: Verify archived website content; cross-check against organization's audited reports.
 
@@ -715,7 +715,7 @@ Claim Timestamp: 00:23:09
 Claim: During the interview, Victor Marx confirmed he stands by his narrative of being forced to behead a cat at age 3.
 Transcript Snippet: Of course I do
 Anchored Artifacts: A-2506.1, A-2510.1, A-2511.1
-Mentions: N-348, N-356, N-349
+Mentions: N-345, N-353, N-346
 Investigative Direction: Cross-reference with statements from family members and law enforcement records.
 
 ---
@@ -726,7 +726,7 @@ Claim Timestamp: 00:23:58
 Claim: Victor Marx states he served 3 years in the Marine Corps, correcting prior '2 years' framing, citing his DD-214.
 Transcript Snippet: it was three years and it was on the DD-214
 Anchored Artifacts: A-2510.1, A-2512.1
-Mentions: N-348
+Mentions: N-345
 Investigative Direction: Obtain certified DD-214 to verify service length and dates.
 
 ---
@@ -736,7 +736,7 @@ Investigative Direction: Obtain certified DD-214 to verify service length and da
 Claim Timestamp: 00:42:11
 Claim: Victor Marx confirms he prayed for Charlie Kirk and three other people at Turning Point USA HQ offices.
 Anchored Artifacts: A-2510.1
-Mentions: N-1, N-348, N-351
+Mentions: N-1, N-345, N-348
 Investigative Direction: Verify with Turning Point USA personnel and any session records or correspondence.
 
 ---
@@ -746,7 +746,7 @@ Investigative Direction: Verify with Turning Point USA personnel and any session
 Claim Timestamp: 01:09:11
 Claim: Victor Marx asserts he entered Gaza by virtue of special operations teams to pray and assist Palestinian children injured.
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10601
 Investigative Direction: Cross-reference with IDF/nonprofit invitation records and travel documentation.
 
@@ -758,7 +758,7 @@ Claim Timestamp: 00:46:02
 Claim: Victor Marx states he watched the Charlie Kirk shooting video once and knew instantly Kirk would not survive, based on prior combat experience.
 Transcript Snippet: Charlie wouldn't live from that…there's no way he could have survived that
 Anchored Artifacts: A-2510.1
-Mentions: N-1, N-348, N-7, N-355, N-212
+Mentions: N-1, N-345, N-7, N-352, N-212
 Related Nodes: N-10622
 Investigative Direction: Reconcile timeline of when Marx actually viewed the video relative to announcement timing.
 
@@ -769,7 +769,7 @@ Investigative Direction: Reconcile timeline of when Marx actually viewed the vid
 Claim Timestamp: 01:09:11
 Claim: Victor Marx states that IDF friends told him the Israeli government took six hours to send reinforcements during Oct 7 attacks.
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Investigative Direction: Verify against official Israeli inquiry findings and IDF operational records.
 
 ---
@@ -779,7 +779,7 @@ Investigative Direction: Verify against official Israeli inquiry findings and ID
 Claim Timestamp: 01:09:11
 Claim: Victor Marx asserts his team helped 6,000 children affected by the Hamas-Israel war via invitation from an Israel-based nonprofit.
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Investigative Direction: Verify against partner nonprofit documentation and beneficiary records.
 
 ---
@@ -790,7 +790,7 @@ Claim Timestamp: 00:56:05
 Claim: Victor Marx denies ever stating or writing that 45,000 were rescued; asserts organization 'helped' rather than 'rescued' that number.
 Transcript Snippet: Nowhere…have I ever declared…that I ever rescued 45,000 women or children
 Anchored Artifacts: A-2509.2, A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10893
 Investigative Direction: Compare original website text against archived snapshots; reconcile with prior show clip.
 
@@ -835,7 +835,7 @@ Claim: The host says she is informed that Victor Marx presented Erika Kirk with 
 Transcript Snippet: I am also informed that he presented her with a bulletproof car, transportation.
 
 Anchored Artifacts: 
-Mentions: N-348, N-2
+Mentions: N-345, N-2
 Related Nodes: N-10605
 Investigative Direction: Ask Marx and Erika Kirk's team whether a vehicle was provided; check the Instagram post's wording and any vehicle records.
 
@@ -850,7 +850,7 @@ Claim: The host says Victor Marx announced he was running for governor of Colora
 Transcript Snippet: Victor Marx announced that he was running for a governor of Colorado, a calling that he felt came from God in the wake of Charlie's assassination.
 
 Anchored Artifacts: 
-Mentions: N-348, N-1
+Mentions: N-345, N-1
 Supports: C-4013
 Investigative Direction: Compare Marx's campaign filing date and his own statements about the calling.
 
@@ -865,7 +865,7 @@ Claim: The host says Victor Marx's real birth name is Von Victor Kennedy and tha
 Transcript Snippet: I've already told you his real name is Von Victor Kennedy. That's his birth name, at least.
 
 Anchored Artifacts: 
-Mentions: N-348, N-356
+Mentions: N-345, N-353
 Related Nodes: N-10785
 Investigative Direction: Obtain birth or name-change records and compare with Marx's own account.
 
@@ -880,7 +880,7 @@ Claim: The host says Gloyce Dean Kennedy served in the army doing counterintelli
 Transcript Snippet: Gloyce did serve in the army doing counterintelligence. He then pled guilty to a conspiracy to running an an international drug smuggling ring, marijuana out of Jamaica.
 
 Anchored Artifacts: 
-Mentions: N-356
+Mentions: N-353
 Related Nodes: N-10785
 Investigative Direction: Pull federal court records for the Kennedy marijuana conspiracy plea and Army service records.
 
@@ -895,7 +895,7 @@ Claim: The host says Victor Marx's brother Mike Kennedy also pled guilty as a co
 Transcript Snippet: Victor's brother, Mike Kennedy, also pled guilty as a co-conspirator, but he took a plea deal in exchange for testifying against his his stepfather.
 
 Anchored Artifacts: 
-Mentions: N-738, N-356, N-348
+Mentions: N-732, N-353, N-345
 Related Nodes: N-10785
 Investigative Direction: Locate the case docket and plea agreement naming Mike Kennedy and any trial testimony.
 
@@ -910,7 +910,7 @@ Claim: The host says Victor Marx's biological father was Karl Marx, whom she des
 Transcript Snippet: Victor Marx's biological dad was Karl Marx. What a name. He was a pimp, a drug dealer, and a world-famous martial arts expert.
 
 Anchored Artifacts: 
-Mentions: N-739, N-348
+Mentions: N-733, N-345
 Related Nodes: N-10785
 Investigative Direction: Find public records, martial arts directories or interviews identifying Karl Marx and his criminal history.
 
@@ -925,7 +925,7 @@ Claim: The host says Marx's biological father spent time in a mental hospital fo
 Transcript Snippet: his biological father spent time in a mental hospital for homicidal tendencies
 
 Anchored Artifacts: 
-Mentions: N-739, N-348
+Mentions: N-733, N-345
 Related Nodes: N-10785
 Investigative Direction: Look for commitment or hospital records, or Marx's own statements about his father's confinement.
 
@@ -940,7 +940,7 @@ Claim: The host says Victor Marx's grandfather killed his grandmother in a publi
 Transcript Snippet: So, his grandfather killed his grandmother in a public murder-suicide.
 
 Anchored Artifacts: 
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Investigative Direction: Search local news archives and death records for the incident.
 
@@ -955,7 +955,7 @@ Claim: The host says that by age 17 Marx had lived in 17 homes and attended 14 s
 Transcript Snippet: By the time he was 17, he had lived in 17 homes and attended 14 schools
 
 Anchored Artifacts: 
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Investigative Direction: Compare with Marx's book and documentary accounts and school records.
 
@@ -970,7 +970,7 @@ Claim: The host says that at 18 Victor Marx joined the Marine Corps and served f
 Transcript Snippet: At 18, Victor joined the Marine Corps, served for 2 years before he was discharged.
 
 Anchored Artifacts: 
-Mentions: N-348, N-3
+Mentions: N-345, N-3
 Related Nodes: N-10785
 Investigative Direction: Obtain Marx's DD-214 for enlistment and separation dates.
 
@@ -985,7 +985,7 @@ Claim: The host says Marx married Eileen Brining Marx at age 23 and that they we
 Transcript Snippet: At 23, Victor married his wife Eileen, Eileen Brining Marx, and they went on to have five kids and grandkids.
 
 Anchored Artifacts: 
-Mentions: N-348, N-350
+Mentions: N-345, N-347
 Related Nodes: N-10785
 Investigative Direction: Check marriage records and Marx's published biography.
 
@@ -1000,7 +1000,7 @@ Claim: The host says that in 2003 Victor Marx and his brother began All Things P
 Transcript Snippet: In 2003, um he and his brother began All Things Possible Ministries.
 
 Anchored Artifacts: 
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11047
 Investigative Direction: Check IRS Form 990 and state incorporation filings for All Things Possible Ministries.
 
@@ -1015,7 +1015,7 @@ Claim: The host says that in 2023 Eileen's brother, Kenneth Brining, tried to sh
 Transcript Snippet: In 2023, Eileen's brother, Kenneth Brining, tried to shoot Victor Marx on Victor's property.
 
 Anchored Artifacts: 
-Mentions: N-740, N-350, N-348
+Mentions: N-734, N-347, N-345
 Investigative Direction: Obtain the sheriff's incident report and court file for the 2023 shooting.
 
 ---
@@ -1029,7 +1029,7 @@ Claim: The host says Eileen's brother would go on to kill his own girlfriend.
 Transcript Snippet: but Eileen's brother would go on to kill his own girlfriend.
 
 Anchored Artifacts: 
-Mentions: N-740, N-350
+Mentions: N-734, N-347
 Investigative Direction: Obtain the homicide case record naming Kenneth Brining and the victim.
 
 ---
@@ -1043,7 +1043,7 @@ Claim: The host says Marx announced his candidacy for governor of Colorado on Oc
 Transcript Snippet: he began teasing that run at memorial service for Charlie Kirk just 4 days after Charlie's death.
 
 Anchored Artifacts: 
-Mentions: N-348, N-1
+Mentions: N-345, N-1
 Supports: C-4013
 Investigative Direction: Check Marx's campaign filing date and the memorial service remarks.
 
@@ -1058,7 +1058,7 @@ Claim: In the played audio, Victor Marx says he remembers being tied to a chair 
 Transcript Snippet: But I remember being at a morgue again wrapped to a chair and watching them dismember a corpse.
 
 Anchored Artifacts: A-2506.1
-Mentions: N-348, N-356
+Mentions: N-345, N-353
 Related Nodes: N-10785
 Investigative Direction: Identify the source interview and test the account against any morgue or coroner records.
 
@@ -1073,7 +1073,7 @@ Claim: In the played audio, Victor Marx says he has dealt with thousands of demo
 Transcript Snippet: And I've dealt with thousands of demons now, thousands. Easily.
 
 Anchored Artifacts: A-2506.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11048
 Investigative Direction: Identify the source of the audio and any recordings of the sessions he describes.
 
@@ -1088,7 +1088,7 @@ Claim: In an audio clip played on air, Victor Marx says that over 100 missions c
 Transcript Snippet: Over 100 missions complete. Uh with trauma care help over 45,000 women children.
 
 Anchored Artifacts: A-2772.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10893
 Investigative Direction: Identify the source recording of the clip and compare its wording ('help' versus 'rescue') with Marx's later explanation.
 
@@ -1103,7 +1103,7 @@ Claim: In the same clip, Marx says that because of their access and relationship
 Transcript Snippet: because of our access and our relationships with the special operations community in the IDF, they took us into places no one could go.
 
 Anchored Artifacts: A-2772.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10618
 Supports: C-4011
 Investigative Direction: Identify the IDF units and dates of the visits Marx describes.
@@ -1119,7 +1119,7 @@ Claim: In a played audio clip, a speaker the host identifies as Victor Marx says
 Transcript Snippet: They diagnosed me with bipolar 2 ultra-rapid cycler and put me on a lot of meds.
 
 Anchored Artifacts: A-2772.2
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Investigative Direction: Confirm the speaker and source of the clip; medical records are private, so look for Marx's own published statements.
 
@@ -1134,7 +1134,7 @@ Claim: In the clip, the speaker says that on medications he was suicidal and pro
 Transcript Snippet: On the medications I was I was suicidal and probably more homicidal.
 
 Anchored Artifacts: A-2772.2
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Investigative Direction: Identify the original recording and its date.
 
@@ -1149,7 +1149,7 @@ Claim: The host says that Corby Hall claimed Victor Marx was attempting deals on
 Transcript Snippet: we hosted Corby Hall who claimed that Victor Marx was doing some deals or attempting to do some deals on behalf of the IDF.
 
 Anchored Artifacts: 
-Mentions: N-349, N-348
+Mentions: N-346, N-345
 Related Nodes: N-10601
 Supports: C-2708
 Investigative Direction: Review the messages and documents Hall provided on the 50,000-gun request and any ATF or FFL records.
@@ -1165,7 +1165,7 @@ Claim: The host says she has confirmed that Marx conducts a 'retooling' prayer i
 Transcript Snippet: we have also confirmed that Victor Marx conducts this {quote} "retooling" prayer where he claims that he is able to summon demons into a room out of a person's body
 
 Anchored Artifacts: 
-Mentions: N-348, N-349, N-351
+Mentions: N-345, N-346, N-348
 Related Nodes: N-11048
 Supports: C-2700
 Investigative Direction: Identify the other people prayed for and obtain any recordings Marx says he keeps of each session.
@@ -1181,7 +1181,7 @@ Claim: The host says she is told Victor Marx was once conducting such prayers at
 Transcript Snippet: In fact, I am told that he was once conducting such prayers at the Turning Point USA headquarter office.
 
 Anchored Artifacts: 
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10000, N-11048
 Investigative Direction: Identify TPUSA staff who attended the sessions and any building or scheduling records.
 
@@ -1196,7 +1196,7 @@ Claim: The host says Corby Hall is one of many people who have accused Victor Ma
 Transcript Snippet: Victor Marx always rebuts them with the same line, that the person making the allegations is troubled.
 
 Anchored Artifacts: 
-Mentions: N-348, N-349
+Mentions: N-345, N-346
 Related Nodes: N-10785
 Investigative Direction: List the accusers and the dates and venues of each allegation; compare Marx's responses.
 
@@ -1211,7 +1211,7 @@ Claim: The host says a young woman named Holly Chalmers accused Marx of kidnappi
 Transcript Snippet: a young woman named Holly Chalmers or Chalmers accused him of kidnapping her across state lines and of exploiting her.
 
 Anchored Artifacts: 
-Mentions: N-352, N-348
+Mentions: N-349, N-345
 Related Nodes: N-11049
 Investigative Direction: Obtain any police or court filings by Holly Chalmers and the border records for her crossing.
 
@@ -1226,7 +1226,7 @@ Claim: The host says Marx claims he was actually rescuing Holly Chalmers from he
 Transcript Snippet: Victor Marx claims that he was actually rescuing her from her pedophile boyfriend.
 
 Anchored Artifacts: 
-Mentions: N-352, N-348
+Mentions: N-349, N-345
 Related Nodes: N-11049
 Investigative Direction: Compare Marx's account with Canadian police records on the boyfriend and Holly's own statements.
 
@@ -1241,7 +1241,7 @@ Claim: The host says Victor Marx's own son wrote a letter to the board of a comp
 Transcript Snippet: Victor Marx's own son wrote a letter to the board on a company that Victor was a part of accusing his father of abusing both him and his sister.
 
 Anchored Artifacts: 
-Mentions: N-353, N-348, N-354
+Mentions: N-350, N-345, N-351
 Related Nodes: N-10785
 Investigative Direction: Identify the board and obtain the letter; ask the board whether it received one.
 
@@ -1256,7 +1256,7 @@ Claim: Reading the daughter's post, the host reports that Marx's CEO offered her
 Transcript Snippet: offering me $55,000 as essentially be quiet money. I declined the offer
 
 Anchored Artifacts: A-2508.1
-Mentions: N-354, N-348
+Mentions: N-351, N-345
 Related Nodes: N-10785
 Investigative Direction: Obtain the original post and ask the organization whether any payment was offered.
 
@@ -1271,7 +1271,7 @@ Claim: Reading the daughter's post, the host reports that a letter was sent to h
 Transcript Snippet: My parents did not handle this letter well and immediately requested the requests in the letter to be retracted or there would be {quote} consequences.
 
 Anchored Artifacts: A-2508.1
-Mentions: N-354, N-348
+Mentions: N-351, N-345
 Related Nodes: N-10785
 Investigative Direction: Obtain the daughter's original social media post and the letter's date.
 
@@ -1286,7 +1286,7 @@ Claim: The host says the show was contacted by Marx's family members who claim h
 Transcript Snippet: He was not forced to kill anybody, that there are no bodies in the backyards of their farms
 
 Anchored Artifacts: A-2773.1
-Mentions: N-356, N-348
+Mentions: N-353, N-345
 Related Nodes: N-10785, N-10604
 Investigative Direction: Identify and interview the family members and obtain any written statements.
 
@@ -1301,7 +1301,7 @@ Claim: The host says the show invited Marx to appear with Corby Hall so they cou
 Transcript Snippet: We did invite you to come on the show with Corby, which we asked you to do because that made the most sense
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-349, N-3
+Mentions: N-345, N-346, N-3
 Related Nodes: N-11050
 Supports: C-2735, C-3883
 Investigative Direction: Obtain the invitation messages sent to Marx and his declination.
@@ -1317,7 +1317,7 @@ Claim: Victor Marx says he clearly told the host and her staff not to have Corby
 Transcript Snippet: I clearly communicated to you and your staff, do not have him on, do your research because he's unstable.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-349
+Mentions: N-345, N-346
 Related Nodes: N-11050
 Investigative Direction: Compare Marx's claimed communications with the show's message logs and the DM thread referenced in earlier episodes.
 
@@ -1332,7 +1332,7 @@ Claim: Victor Marx says the person who platformed Corby Hall for the show, whom 
 Transcript Snippet: has filled out a statement both with local authorities and FBI that he is homicidal, and he told her and her husband that he had plans to kill me.
 
 Anchored Artifacts: A-2774.1
-Mentions: N-348, N-349
+Mentions: N-345, N-346
 Related Nodes: N-11050
 Investigative Direction: Locate the statement Marx cites and any corresponding El Paso County Sheriff or FBI report.
 
@@ -1347,7 +1347,7 @@ Claim: Asked whether he still has homicidal thoughts, Victor Marx says that was 
 Transcript Snippet: That was a long time ago and I'm thankful I didn't.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Supports: C-5687
 Investigative Direction: Compare with Marx's published accounts of when the thoughts occurred.
@@ -1363,7 +1363,7 @@ Claim: Victor Marx says Corby Hall is being sought by the FBI and the El Paso Co
 Transcript Snippet: this gentleman is being sought by the FBI and El Paso County Sheriff Department
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-349
+Mentions: N-345, N-346
 Related Nodes: N-11050
 Investigative Direction: Ask the FBI and El Paso County Sheriff's Office to confirm whether any inquiry or warrant exists for Hall.
 
@@ -1378,7 +1378,7 @@ Claim: The host says the show received only a message from Corey that she got a 
 Transcript Snippet: We received only a message from Corey that she got a phone call from the FBI and that they were investigating you for gun running.
 
 Anchored Artifacts: A-2774.2
-Mentions: N-348, N-3
+Mentions: N-345, N-3
 Related Nodes: N-10601, N-11050
 Investigative Direction: Obtain the message from Corey and ask the FBI whether it made such a call.
 
@@ -1393,7 +1393,7 @@ Claim: The host says she has spoken with Marx's family in Martinsville and that 
 Transcript Snippet: I've spoken with your family in Martinsville and they claim that your stories are fantastical.
 
 Anchored Artifacts: A-2773.1
-Mentions: N-3, N-348
+Mentions: N-3, N-345
 Related Nodes: N-10785, N-10604
 Investigative Direction: Identify which relatives spoke to the show and obtain their statements.
 
@@ -1408,7 +1408,7 @@ Claim: Victor Marx says he is happy to give the host the name of the FBI agent i
 Transcript Snippet: But we're happy to give you the FBI's agent's name who is in charge of the investigation to move to here.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11050
 Investigative Direction: Request the agent's name from Marx and verify with the FBI field office.
 
@@ -1423,7 +1423,7 @@ Claim: The host says the show said Marx served two years, that he says three, an
 Transcript Snippet: We said 2 years and he says it's three.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-3, N-348
+Mentions: N-3, N-345
 Related Nodes: N-10785
 Supports: C-3710
 Revises: C-5676
@@ -1440,7 +1440,7 @@ Claim: The host says Marx's family disputes his account and noted there are no n
 Transcript Snippet: They also noted that there are no news stories that would even back up that a man was missing.
 
 Anchored Artifacts: A-2773.1
-Mentions: N-348, N-3
+Mentions: N-345, N-3
 Related Nodes: N-11051
 Investigative Direction: Search local newspapers and missing-persons databases for the relevant county and period.
 
@@ -1455,7 +1455,7 @@ Claim: Asked whether he did not grow up in Martinsville, Mississippi, Victor Mar
 Transcript Snippet: Where did you you didn't grow up in Martinville, Mississippi? No, I did not.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Investigative Direction: Ask Marx where he lived at ages 3 to 7 and compare with school and census records.
 
@@ -1470,7 +1470,7 @@ Claim: Asked for the name of the man he says he was forced to shoot, Victor Marx
 Transcript Snippet: I didn't know who he was.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11051
 Investigative Direction: Check the sheriff's department for any record of the call and what it describes.
 
@@ -1485,7 +1485,7 @@ Claim: Victor Marx says he did not walk into a police station but called the she
 Transcript Snippet: So, no, I did not walk into a police station. I called the sheriff department and made the claim many years later.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11051
 Supports: C-2718
 Investigative Direction: Request any call log or case record from the sheriff's department Marx names.
@@ -1501,7 +1501,7 @@ Claim: Asked whether he was ever physically or sexually abused as a child, Victo
 Transcript Snippet: No, I have not suffered any [clears throat] sexual abuse.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Investigative Direction: Compare with Marx's book and documentary descriptions of the abuse he suffered.
 
@@ -1516,7 +1516,7 @@ Claim: Victor Marx says he has shared his story as an adult of the abuse he suff
 Transcript Snippet: I've shared my story as an adult regarding my childhood and the abuse that I suffered from 3 to 7 years old.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Investigative Direction: Compare the 3-to-7 timeline with his book, documentary and sheriff's call.
 
@@ -1531,7 +1531,7 @@ Claim: Victor Marx says his family has never refuted his account, that his siste
 Transcript Snippet: my sister was on my documentary film, The Victor Marc Story, which folks can watch.
 
 Anchored Artifacts: A-2511.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Investigative Direction: Watch the documentary and identify the sister and her statements.
 
@@ -1546,7 +1546,7 @@ Claim: Victor Marx says Charmaine is his half sister, the daughter of Gloyce Dea
 Transcript Snippet: she is my half sister who is the daughter of the abuser
 
 Anchored Artifacts: A-2510.1
-Mentions: N-356, N-348
+Mentions: N-353, N-345
 Related Nodes: N-10785
 Investigative Direction: Identify Charmaine and ask whether she has spoken publicly.
 
@@ -1561,7 +1561,7 @@ Claim: Victor Marx says members of ICAC, attorney general staff, investigators, 
 Transcript Snippet: we've got analysts and detectives that come here to our training center for a retreat.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11047
 Investigative Direction: Request the MOUs and ask the agencies named to confirm.
 
@@ -1576,7 +1576,7 @@ Claim: Victor Marx says it is a cold case about 40 years old, that he does not k
 Transcript Snippet: it was 40 years old, we don't know where the house is, we don't know where he was buried, we don't know who the victim was.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-356
+Mentions: N-345, N-353
 Related Nodes: N-11051
 Supports: C-2718
 Investigative Direction: Ask the sheriff's department whether a cold-case file exists and when Marx reported it.
@@ -1592,7 +1592,7 @@ Claim: Victor Marx says he was brought there at night at age 7 lying in the back
 Transcript Snippet: Uh there were two towns or sister towns, Mendenhall and McGee. It was in one of those. Yeah, in Simpson County, Mississippi.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11051
 Investigative Direction: Contact the Simpson County Sheriff's Department about any call or report from Marx and any missing-person cases.
 
@@ -1607,7 +1607,7 @@ Claim: Victor Marx says he was in ministry and tried being a pastor but was not 
 Transcript Snippet: I was in ministry and I tried being a pastor, but I wasn't called to it.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Investigative Direction: Compare with older website text and ordination or church records.
 
@@ -1622,7 +1622,7 @@ Claim: Victor Marx says Christ gave believers authority to trample serpents and 
 Transcript Snippet: He said, "I give you authority to trample serpents, to cast out demons." And I actually believe it.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11048
 Investigative Direction: Obtain Marx's films and teaching materials describing the practice.
 
@@ -1637,7 +1637,7 @@ Claim: Victor Marx says that when he prayed for youth in prisons many manifested
 Transcript Snippet: they would often manifest demonic influence or oppression. And the Lord taught me how to pray with authority.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11048
 Investigative Direction: Identify the facilities, dates and chaplaincy approvals for his youth prison ministry.
 
@@ -1652,7 +1652,7 @@ Claim: Victor Marx says his ministry does not charge people to set them free and
 Transcript Snippet: we don't charge people to set them free. We do this out of love.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11048, N-11047
 Investigative Direction: Ask to inspect the letters and the ministry's donation records.
 
@@ -1667,7 +1667,7 @@ Claim: Victor Marx says, in response to Melody Hall's account, that prayer sessi
 Transcript Snippet: We're talking 10, 15 minutes is the average time of prayer. It's not dramatic.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-351
+Mentions: N-345, N-348
 Related Nodes: N-11048
 Investigative Direction: Compare with Melody Hall's own description of the prayer.
 
@@ -1682,7 +1682,7 @@ Claim: Victor Marx says the film he made on authority in Christ and setting peop
 Transcript Snippet: It's the Unseen War. And churches use that.
 
 Anchored Artifacts: A-2775.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11048
 Investigative Direction: Watch the film and compare its claims with Marx's on-air account.
 
@@ -1697,7 +1697,7 @@ Claim: Victor Marx says his ministry records every prayer session on audio or vi
 Transcript Snippet: We record every session on audio or video so that they can have it, so there's no miscommunication.
 
 Anchored Artifacts: A-2775.2
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11048
 Investigative Direction: Ask for the recordings of the sessions with Corby and Melody Hall and with TPUSA staff.
 
@@ -1712,7 +1712,7 @@ Claim: Victor Marx says he prayed for Charlie Kirk in his office at Charlie's re
 Transcript Snippet: Just Charlie. He asked me to.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-1, N-2
+Mentions: N-345, N-1, N-2
 Related Nodes: N-10000, N-11048
 Supports: C-3711
 Investigative Direction: Ask TPUSA staff who the three others were and whether sessions were recorded.
@@ -1728,7 +1728,7 @@ Claim: Victor Marx says he met Charlie Kirk at a small Hispanic church in Califo
 Transcript Snippet: I was speaking at an event at a small Hispanic church in California.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-1
+Mentions: N-345, N-1
 Related Nodes: N-10605
 Investigative Direction: Identify the church and event date through event listings or social media.
 
@@ -1743,7 +1743,7 @@ Claim: Victor Marx says that when he first met Charlie Kirk, Charlie was already
 Transcript Snippet: Yes, he he he was already married to Erika.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-1, N-2
+Mentions: N-345, N-1, N-2
 Related Nodes: N-10605
 Investigative Direction: Date the meeting against the Kirks' wedding date.
 
@@ -1758,7 +1758,7 @@ Claim: Victor Marx says he and Charlie Kirk never had a falling out.
 Transcript Snippet: Yeah. No, we never had a falling out.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-1
+Mentions: N-345, N-1
 Related Nodes: N-10605
 Contradicts: C-4009
 Investigative Direction: Ask TPUSA sources who relayed the falling-out account and compare with the Instagram follow history.
@@ -1774,7 +1774,7 @@ Claim: Victor Marx says that Charlie Kirk's Instagram account still follows him 
 Transcript Snippet: He still follows me. He was following me.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-1
+Mentions: N-345, N-1
 Related Nodes: N-10605
 Contradicts: C-4009
 Investigative Direction: Check archived captures of Charlie Kirk's Instagram following list.
@@ -1790,7 +1790,7 @@ Claim: The host says Marx's video was posted about an hour and twenty minutes be
 Transcript Snippet: it would have been it to the you know, to the minute about the time that his family found out that he had passed away.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-3, N-348, N-1
+Mentions: N-3, N-345, N-1
 Related Nodes: N-10622
 Supports: C-3702
 Investigative Direction: Reconstruct the hospital notification time and the Instagram post time from archives.
@@ -1806,7 +1806,7 @@ Claim: Victor Marx says someone texted him that his son was at Charlie's event a
 Transcript Snippet: My son is at Charlie's event and Charlie was just shot
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-1
+Mentions: N-345, N-1
 Related Nodes: N-10622
 Investigative Direction: Identify the texter and obtain the message and its timestamp.
 
@@ -1821,7 +1821,7 @@ Claim: Victor Marx says that his team, many of them former special operations me
 Transcript Snippet: my team uh many who are former special operations guys in combat minutes, lots of experience, they viewed it multiple times cuz I wouldn't.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-1
+Mentions: N-345, N-1
 Related Nodes: N-10622
 Supports: C-3713
 Investigative Direction: Ask Marx to identify the team members and when each viewed the video.
@@ -1837,7 +1837,7 @@ Claim: Victor Marx says he posted that Charlie had passed, knowing Frank Turek a
 Transcript Snippet: I thought it was premature and I I pulled it down cuz it just felt wrong that I would post it.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-1, N-7
+Mentions: N-345, N-1, N-7
 Related Nodes: N-10622
 Supports: C-3702
 Investigative Direction: Compare with the archived post and with the host's account of two posts.
@@ -1853,7 +1853,7 @@ Claim: Victor Marx says he texted Erika Kirk telling her nobody was going to kil
 Transcript Snippet: I just told her, it nobody's going to kill you. You're safe, you and the kids. No one's coming after you. They just wanted Charlie.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-2, N-1
+Mentions: N-345, N-2, N-1
 Related Nodes: N-10942
 Investigative Direction: Obtain the text with its timestamp from Marx or Erika Kirk and compare against the post timing.
 
@@ -1868,7 +1868,7 @@ Claim: The host says Marx made a post initially saying Charlie had been shot and
 Transcript Snippet: you did make a post initially saying he had been shot, pray for him, and then you did uh a follow-up and then said, you know, Charlie Charlie has passed on and said pray for Erika.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-3, N-348, N-1, N-2
+Mentions: N-3, N-345, N-1, N-2
 Related Nodes: N-10622
 Supports: C-3702
 Investigative Direction: Pull archived copies of both posts with their timestamps.
@@ -1884,7 +1884,7 @@ Claim: The host says Jack Hibbs and Amir Safari also posted early and that Jack 
 Transcript Snippet: Jack Hibbs took down a video saying that actually there was an Israel channel that reported it first and had the information before anybody else.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-3, N-212, N-355, N-348
+Mentions: N-3, N-212, N-352, N-345
 Related Nodes: N-10622, N-10026
 Supports: C-3713
 Investigative Direction: Obtain Jack Hibbs's removed video and identify the Israeli channel and time of its report.
@@ -1900,7 +1900,7 @@ Claim: Victor Marx says the first post he made asked for prayer, that his gut le
 Transcript Snippet: Well, the first post I made was asked for prayer and I I knew I just my gut level from watching it, he's not going to make it.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-1
+Mentions: N-345, N-1
 Related Nodes: N-10622
 Investigative Direction: Compare with his earlier statement that he posted Charlie had passed and with the archived posts.
 
@@ -1915,7 +1915,7 @@ Claim: Victor Marx says he brought his team immediately to give relief to the fi
 Transcript Snippet: We brought our team immediately to help give relief for the first security team who I knew when I was in contact with and they were suffering trauma and exhaustion.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-350
+Mentions: N-345, N-347
 Related Nodes: N-10605
 Investigative Direction: Identify the security team members and Marx's team members present and the dates.
 
@@ -1930,7 +1930,7 @@ Claim: Victor Marx says that Eileen is like a second mom to Erika Kirk, that man
 Transcript Snippet: And Eileen's like a I don't know perhaps a second mom to Erika.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-350, N-2
+Mentions: N-345, N-347, N-2
 Related Nodes: N-10605
 Investigative Direction: Ask Erika Kirk's office to confirm the relationship and dates.
 
@@ -1945,7 +1945,7 @@ Claim: Asked whether he ever went into Eastern Europe, Victor Marx says no, not 
 Transcript Snippet: Yeah, no, not uh physically. We didn't do physical operations there.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11047
 Investigative Direction: Compare with his travel disclosures and ministry reports.
 
@@ -1960,7 +1960,7 @@ Claim: Victor Marx says that a couple of decades before starting his ministry he
 Transcript Snippet: I worked for Dr. James Dobson as an assistant.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-741
+Mentions: N-345, N-735
 Related Nodes: N-10785
 Investigative Direction: Ask Focus on the Family or Dobson's organization to confirm employment and dates.
 
@@ -1975,7 +1975,7 @@ Claim: Victor Marx says his time in the Marine Corps was served on the President
 Transcript Snippet: my time in the Marine Corps was I served on the President Reagan.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Investigative Direction: Check Marx's DD-214 for his unit and assignment; the transcript is unclear what 'the President Reagan' refers to.
 
@@ -1990,7 +1990,7 @@ Claim: Victor Marx says he was invited to go to Burma by Dave Eubank, whom he ca
 Transcript Snippet: I was invited to go to Burma by Dave Eubank, who I consider kind of the the godfather of high-risk missions work.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-742
+Mentions: N-345, N-736
 Related Nodes: N-11047
 Investigative Direction: Ask Eubank's organization to confirm the invitation and dates.
 
@@ -2005,7 +2005,7 @@ Claim: Victor Marx says the Kurdistan government gave his team access, placement
 Transcript Snippet: we had an invitation by the Kurdistan government.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11052
 Investigative Direction: Request the invitation documentation from Marx's ministry or the Kurdistan Regional Government.
 
@@ -2020,7 +2020,7 @@ Claim: Victor Marx says his team first went to Iraq in the early part of 2015 an
 Transcript Snippet: We went there the first time in 2015, the early part, and it was a very hot zone.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11052
 Investigative Direction: Compare with travel records, photos and ministry reports from 2015.
 
@@ -2035,7 +2035,7 @@ Claim: Victor Marx says a girl held captive, a Yazidi, gave his wife Eileen a ph
 Transcript Snippet: This is from ISIS Emir in the house I was held captive. And I hope it helps y'all find more.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-350
+Mentions: N-345, N-347
 Related Nodes: N-11052
 Investigative Direction: Ask Marx where the phone went and to whom it was turned over.
 
@@ -2050,7 +2050,7 @@ Claim: Victor Marx says his ministry never took any governmental funding and tha
 Transcript Snippet: and never did we take any governmental funding.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11047
 Investigative Direction: Review the ministry's Form 990s and grant disclosures.
 
@@ -2065,7 +2065,7 @@ Claim: Victor Marx says it was not their focus to rescue women and children at a
 Transcript Snippet: It wasn't our focus to rescue women and children at at all.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10893, N-11052
 Investigative Direction: Compare with the 45,000 'rescued' figure on the campaign website and the played clip.
 
@@ -2080,7 +2080,7 @@ Claim: The host says she is pretty sure Marx said 45,000 in a clip from the Shaw
 Transcript Snippet: I'm pretty sure you said 45,000.
 
 Anchored Artifacts: A-2776.1
-Mentions: N-3, N-348, N-229
+Mentions: N-3, N-345, N-228
 Related Nodes: N-10893
 Contradicts: C-3716
 Investigative Direction: Watch the Shawn Ryan interview and check the exact phrasing Marx used about 45,000.
@@ -2096,7 +2096,7 @@ Claim: Victor Marx says his organization has helped and provided trauma relief a
 Transcript Snippet: We've helped. We've provided trauma relief and some we've definitely rescued because it's part of what we do.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10893, N-11047
 Contradicts: C-3716
 Investigative Direction: Ask for documented counts of persons rescued versus assisted.
@@ -2112,7 +2112,7 @@ Claim: Victor Marx says his group would never declare the total number of people
 Transcript Snippet: we would never declare the total number of people we've rescued for both security and safety reasons
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10893
 Investigative Direction: Ask for any anonymized or audited count.
 
@@ -2127,7 +2127,7 @@ Claim: Victor Marx says that on the last mission he and his wife were on they re
 Transcript Snippet: that was a rescue of a mom who had been held captive 9 years.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-350
+Mentions: N-345, N-347
 Related Nodes: N-11052
 Investigative Direction: Ask Marx for the documentation and the safe-house photos and videos he says exist.
 
@@ -2142,7 +2142,7 @@ Claim: Victor Marx says there is no doubt in his mind that there are organizatio
 Transcript Snippet: there's no doubt in my mind that there are organizations that are actually traffickers that pose as counter trafficking.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-9
+Mentions: N-345, N-9
 Related Nodes: N-11047
 Investigative Direction: Ask Marx which organizations he means.
 
@@ -2157,7 +2157,7 @@ Claim: Victor Marx says he has a list of operators who did security and intellig
 Transcript Snippet: who either still have or did have the highest level of clearance in the US that worked for the CIA or Joint Task Force or Delta.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11047, N-11052
 Investigative Direction: Ask Marx to name the operators and verify through them.
 
@@ -2172,7 +2172,7 @@ Claim: Victor Marx says that when he says CIA he means former agency personnel a
 Transcript Snippet: I work around the governments, but I've never been paid by any of them.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11047
 Investigative Direction: Review the ministry's financial filings for government grants or contracts.
 
@@ -2187,7 +2187,7 @@ Claim: Victor Marx says one of his safe houses in Southeast Asia sent him a vide
 Transcript Snippet: we just got a video from Southeast Asia I didn't ask for, but one of our safe houses there they were so hurt and disgusted by the false allegations against me
 
 Anchored Artifacts: A-2777.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-11047
 Investigative Direction: Obtain the video from Marx's social media and check its metadata.
 
@@ -2202,7 +2202,7 @@ Claim: Victor Marx offers to put the host on a team in the Middle East if she ac
 Transcript Snippet: if you'll accept the risk, I'll give you my word that you can be on a team, we'll take you there
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-3
+Mentions: N-345, N-3
 Related Nodes: N-11047
 Investigative Direction: Ask whether the host accepts the invitation and the terms.
 
@@ -2217,7 +2217,7 @@ Claim: Victor Marx says his group met with an HSI human trafficking specialist a
 Transcript Snippet: we met with an HSI human trafficking specialist at the border who approved us to get through from Canada to the US and gave her temporary status.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-352
+Mentions: N-345, N-349
 Related Nodes: N-11049
 Investigative Direction: Ask HSI and CBP for records of the crossing and any parole documentation.
 
@@ -2232,7 +2232,7 @@ Claim: Victor Marx says the Canadian couple who were his agents of hope have a v
 Transcript Snippet: have video that they just posted yesterday of Holly telling the truth about what we did to help her.
 
 Anchored Artifacts: A-2777.2
-Mentions: N-348, N-352
+Mentions: N-345, N-349
 Related Nodes: N-11049
 Investigative Direction: Locate the couple's video and check its post date.
 
@@ -2247,7 +2247,7 @@ Claim: Victor Marx alleges that Holly's boyfriend groomed her from age 13, had s
 Transcript Snippet: it was Holly's pedophile who groomed this girl since she was 13, had sex with her at 15.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-352
+Mentions: N-345, N-349
 Related Nodes: N-11049
 Investigative Direction: Check Canadian court and police records on the boyfriend; no named allegation should be treated as established here.
 
@@ -2262,7 +2262,7 @@ Claim: Victor Marx says he was told that people trying to discredit him told Hol
 Transcript Snippet: you'll be able to make millions.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-352
+Mentions: N-345, N-349
 Related Nodes: N-11049
 Investigative Direction: Ask Marx for the source of this report and any documents of such a suit.
 
@@ -2277,7 +2277,7 @@ Claim: Victor Marx says he told people he was under psychiatric care, with 123 v
 Transcript Snippet: I told people I was under psychiatric care, 123 visits to a trauma specialist.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10785
 Investigative Direction: Compare with his book and talks where he gives the figure.
 
@@ -2292,7 +2292,7 @@ Claim: The host says Marx went on Charlie Kirk's show after October 7th and said
 Transcript Snippet: You went on Charlie Kirk's show after October 7th. You've said you fostered a relationship with them.
 
 Anchored Artifacts: A-2778.1
-Mentions: N-3, N-348, N-1
+Mentions: N-3, N-345, N-1
 Related Nodes: N-10618
 Supports: C-4010, C-4011
 Investigative Direction: Retrieve the Charlie Kirk Show episode and compare Marx's remarks.
@@ -2308,7 +2308,7 @@ Claim: Victor Marx says he went into the West Bank and into Gaza by virtue of sp
 Transcript Snippet: I went into the West Bank and yes, I did go into Gaza by virtue of these special operations teams.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10063
 Supports: C-3712
 Investigative Direction: Check travel records and the IDF coordination Marx describes.
@@ -2324,7 +2324,7 @@ Claim: Victor Marx says it is a 20-minute flight by helicopter and a 45-minute d
 Transcript Snippet: It's a 20-minute flight by helicopter. It's a 45-minute drive to send troops down there.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10026
 Supports: C-3714
 Investigative Direction: Check Israeli military timelines and the official inquiry findings on response times.
@@ -2340,7 +2340,7 @@ Claim: Victor Marx says that while his team was on the Israeli side they had ove
 Transcript Snippet: we had over 2,000 rockets launched at us.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10026
 Investigative Direction: Compare with rocket-fire logs for the dates and areas of his visit.
 
@@ -2355,7 +2355,7 @@ Claim: Asked whether Gaza is a genocide, Victor Marx says it has turned into one
 Transcript Snippet: I would say this, it has turned into a genocide
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10063
 Investigative Direction: Compare with Marx's prior public statements on Gaza.
 
@@ -2370,7 +2370,7 @@ Claim: Victor Marx says he said from the beginning online and on Fox that Hamas 
 Transcript Snippet: I put it online. I was on Fox.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10006, N-10063
 Investigative Direction: Find the Fox News appearance and Marx's online posts.
 
@@ -2385,7 +2385,7 @@ Claim: Victor Marx says he has an FFL, only buys equipment for his own training,
 Transcript Snippet: I have an FFL. I only buy stuff for our self for our training.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-349
+Mentions: N-345, N-346
 Related Nodes: N-10601
 Supports: C-2749
 Contradicts: C-2708
@@ -2402,7 +2402,7 @@ Claim: Victor Marx says authorities contacted him and asked whether he knows whe
 Transcript Snippet: Do you know where he is? Do you know where he would be?" And I'm like, "I do not."
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-349
+Mentions: N-345, N-346
 Related Nodes: N-11050
 Investigative Direction: Ask the agencies named to confirm contacting Marx and Hall.
 
@@ -2417,7 +2417,7 @@ Claim: Victor Marx says the FBI has contacted his team, that it is an open inves
 Transcript Snippet: The FBI has contacted us. It's an open investigation.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-349
+Mentions: N-345, N-346
 Related Nodes: N-11050
 Investigative Direction: Ask the FBI and El Paso County Sheriff's Office to confirm an open investigation and its subject.
 
@@ -2432,7 +2432,7 @@ Claim: Victor Marx tells the host to do a short study on voodoo and voodoo ritua
 Transcript Snippet: do a short study on voodoo and understand voodoo voodoo rituals against boys.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-3
+Mentions: N-345, N-3
 Related Nodes: N-10785
 Investigative Direction: Ask Marx whether the abuse he describes involved ritual practices and where.
 
@@ -2447,7 +2447,7 @@ Claim: Victor Marx suggests the host may be getting paid by somebody to discoura
 Transcript Snippet: I actually removed myself from politics all altogether after Charlie got killed. I'm not working for anybody.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-3, N-348, N-1
+Mentions: N-3, N-345, N-1
 Investigative Direction: Compare the host's statements and funding disclosures.
 
 ---
@@ -2490,7 +2490,7 @@ Claim: The host says that Erika Kirk was the one driving Turning Point Faith and
 Transcript Snippet: She was the one who was driving home Turning Point Faith.
 
 Anchored Artifacts: A-2778.2
-Mentions: N-3, N-2, N-350
+Mentions: N-3, N-2, N-347
 Related Nodes: N-10398, N-10605
 Investigative Direction: Review TPUSA Faith leadership and event records for Erika Kirk's role.
 
@@ -2505,7 +2505,7 @@ Claim: The host says her view is that Erika Kirk brought these people around and
 Transcript Snippet: I think it was Erika who brought these people around and pushed Charlie to have relationships with them.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-1, N-348
+Mentions: N-3, N-2, N-1, N-345
 Related Nodes: N-10398, N-10605
 Investigative Direction: Seek TPUSA staff or Kirk family accounts of who introduced Marx and gave him an office.
 
@@ -2553,7 +2553,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:25:47
-Speaker: N-348
+Speaker: N-345
 Quote: it's not another Teemu TMZ approach.
 Context: Marx uses the jab against the show; the host notes he has said it twice.
 Tags: running_bit, insult, interview

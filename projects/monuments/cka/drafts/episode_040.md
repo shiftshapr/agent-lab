@@ -11,19 +11,19 @@
 - **Transcript SHA-256**: 0fb4e3ded28d3185653763304cd5207553aba7096b0c1f6c7d7d26295daa5ee4
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-725, N-726, N-11013, N-11015
-  - Hole-minted Nodes (reintro-ep040): N-385, N-495, N-509, N-10387, N-10683
+  - Tip-minted Nodes (supplement_2026-10): N-719, N-720, N-11013, N-11015
+  - Hole-minted Nodes (reintro-ep040): N-381, N-490, N-504, N-10387, N-10683
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5062–C-5146
-  - New Nodes Introduced: N-309, N-310, N-311, N-10307, N-10308
-  - Reused Nodes Appearing: N-7, N-14, N-17, N-27, N-39, N-55, N-60, N-68, N-71, N-82, N-170, N-194, N-229, N-272, N-387, N-10000, N-10012, N-10064, N-10078, N-10087, N-10100, N-10132, N-10162, N-10198, N-10213, N-10232, N-10248, N-10253, N-10270, N-10290, N-10294, N-10316, N-10482, N-10862, N-727, N-10434, N-10465, N-10311, N-10451, N-10628, N-11014
+  - New Nodes Introduced: N-306, N-307, N-308, N-10307, N-10308
+  - Reused Nodes Appearing: N-7, N-14, N-17, N-27, N-39, N-55, N-60, N-68, N-71, N-82, N-170, N-194, N-228, N-270, N-383, N-10000, N-10012, N-10064, N-10078, N-10087, N-10100, N-10132, N-10162, N-10198, N-10213, N-10232, N-10248, N-10253, N-10270, N-10290, N-10294, N-10316, N-10482, N-10862, N-721, N-10434, N-10465, N-10311, N-10451, N-10628, N-11014
   - (see registers), N-11
 
 # Episode 40 – Ledger Summary
 
 Artifact Families Introduced: A-1489, A-1490, A-1491, A-1492, A-1493
 Claim Range: C-1820–C-1830
-New Nodes Introduced:  N-309, N-310, N-311, N-10307, N-10308
+New Nodes Introduced:  N-306, N-307, N-308, N-10307, N-10308
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -84,7 +84,7 @@ Confidence Level: High
 
 Clip shows Cam Higby asking Pentagon press secretary Kingsley Wilson whether the Department of Defense has any evidence of a French military plot to assassinate Candace Owens; Wilson responds "not that I'm aware of" and suggests it may be more of a law enforcement matter. Self-introduction by Wilson confirms setting as Pentagon briefing room.
 
-*Related: C-1824, C-1825, N-309, N-310*
+*Related: C-1824, C-1825, N-306, N-307*
 
 ---
 
@@ -100,7 +100,7 @@ Confidence Level: High
 
 Interviewer questions The Game about a track titled "The Assassination of Candace Owens"; The Game states the song is not about Candace personally, that she "self-admitted" feeling people were conspiring against her, and that the title uses her as a metaphor about "assassination of the character."
 
-*Related: C-1826, C-1827, N-311*
+*Related: C-1826, C-1827, N-308*
 
 ---
 
@@ -203,7 +203,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-309** Cam Higby
+**N-306** Cam Higby
 
 Pentagon-credentialed journalist who asked the press secretary about a French military plot to assassinate Candace Owens at the December 3 briefing.
 
@@ -216,7 +216,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-310** Kingsley Wilson
+**N-307** Kingsley Wilson
 
 Pentagon press secretary who answered Cam Higby's question at the December 3 briefing.
 
@@ -229,7 +229,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-311** The Game
+**N-308** The Game
 
 Rapper with an upcoming mixtape containing "The Assassination of Candace Owens" track.
 
@@ -546,7 +546,7 @@ Erika Kirk, discussed as a subject of aircraft movements and Charlie's alleged w
 
 ---
 
-**N-229** Shawn Ryan
+**N-228** Shawn Ryan
 
 Shawn Ryan, host of the interview in which Harpole discussed first aid.
 
@@ -562,7 +562,7 @@ Kanye West (Ye), described by the host as a friend.
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 Brian Harpole, security figure whose Shawn Ryan statement is cited.
 
@@ -578,7 +578,7 @@ Host; speaks for herself throughout.
 
 ---
 
-**N-385** Ryan Reynolds
+**N-381** Ryan Reynolds
 
 Ryan Reynolds, named by the host with Blake Lively.
 
@@ -586,7 +586,7 @@ Ryan Reynolds, named by the host with Blake Lively.
 
 ---
 
-**N-387** Emmanuel Macron
+**N-383** Emmanuel Macron
 
 Emmanuel Macron, party to the September 10 call with Trump.
 
@@ -602,7 +602,7 @@ Dave Smith, whose debate invitation by Charlie the host says Loomer attacked.
 
 ---
 
-**N-495** Blake Lively
+**N-490** Blake Lively
 
 Blake Lively, named by the host among her prior investigations.
 
@@ -618,9 +618,9 @@ Donald Trump, party to the September 10 phone call with Macron per the host.
 
 ---
 
-**N-509** Phil Turney
+**N-504** Phil Tourney
 
-Phil Turney, USS Liberty interview guest the host praises.
+Phil Tourney, USS Liberty interview guest the host praises.
 
 *Related: C-5144*
 
@@ -674,7 +674,7 @@ Brigitte Macron, subject of the host's lawsuit and schedule-gap questions.
 
 ---
 
-**N-725** Kamala Harris
+**N-719** Kamala Harris
 
 First named by the host (as 'Camala') at 00:26:31 in episode 40.
 Aliases: Camala
@@ -683,7 +683,7 @@ Aliases: Camala
 
 ---
 
-**N-726** Russell Brand
+**N-720** Russell Brand
 
 First named by the host (as 'Russell Brandon') at 00:57:05 in episode 40.
 Aliases: Russell Brandon
@@ -692,7 +692,7 @@ Aliases: Russell Brandon
 
 ---
 
-**N-727** Chuck Smith
+**N-721** Chuck Smith
 
 First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder whose history she cites.
 
@@ -785,7 +785,7 @@ Claim Timestamp: 00:41:49
 Claim: At the Pentagon briefing on December 3, newly-credentialed journalist Cam Higby asked Pentagon press secretary Kingsley Wilson whether the DoD has any evidence of a French military plot to assassinate Candace Owens.
 
 Anchored Artifacts: A-1490.1
-Mentions: N-309, N-310, N-3
+Mentions: N-306, N-307, N-3
 Investigative Direction: Confirm the briefing date and credentialing record; obtain full transcript of the briefing exchange.
 
 ---
@@ -797,7 +797,7 @@ Claim Timestamp: 00:43:00
 Claim: Pentagon press secretary Kingsley Wilson responded "not that I'm aware of" to the question of whether DoD had evidence of a French military plot to assassinate Candace Owens, and suggested it might be more of a law enforcement matter.
 
 Anchored Artifacts: A-1490.1
-Mentions: N-310, N-3
+Mentions: N-307, N-3
 Investigative Direction: Track any follow-up statement from DoD or law enforcement regarding the underlying allegation.
 
 ---
@@ -809,7 +809,7 @@ Claim Timestamp: 00:50:53–00:51:42
 Claim: The Game is releasing a mixtape that contains a track titled "The Assassination of Candace Owens."
 
 Anchored Artifacts: A-1491.1
-Mentions: N-311, N-3
+Mentions: N-308, N-3
 Investigative Direction: Verify the track listing against the released mixtape; obtain the song lyrics and release date.
 
 ---
@@ -821,7 +821,7 @@ Claim Timestamp: 00:51:42–00:52:23
 Claim: The Game stated in the interview that the song is not about Candace personally and that he used the title because she "self-admitted" feeling targeted, framing it as a metaphor about "assassination of the character."
 
 Anchored Artifacts: A-1491.1
-Mentions: N-311
+Mentions: N-308
 Investigative Direction: Confirm the artist's stated intent against the released song lyrics.
 
 ---
@@ -1112,7 +1112,7 @@ Claim: The host says that in a sitdown with Shawn Ryan, Brian Harpole said no fi
 Transcript Snippet: In a sitdown with Shawn Ryan, Brian Harpole said it was because of the severity of the injury.
 
 Anchored Artifacts: 
-Mentions: N-272, N-229
+Mentions: N-270, N-228
 Related Nodes: N-10862
 Investigative Direction: Check the Shawn Ryan interview for the exact Harpole statement on first aid.
 
@@ -1218,7 +1218,7 @@ Claim: The host says she believes the evidence shows Calvary Chapel's history un
 Transcript Snippet: I do believe the Calvary Chapel uh their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Christian faith
 
 Anchored Artifacts: 
-Mentions: N-3, N-727
+Mentions: N-3, N-721
 Related Nodes: N-10465, N-10248
 Investigative Direction: Identify the documents or historical sources for a CIA role in Calvary Chapel's founding.
 
@@ -1560,7 +1560,7 @@ Claim: The host lists prior investigations: Kamala Harris's genealogy, Blake Liv
 Transcript Snippet: Sometimes it's Blake Lively and Ryan Reynolds when they try to destroy a man's life who's not even on my quote unquote political team.
 
 Anchored Artifacts: 
-Mentions: N-3, N-495, N-385, N-725, N-82
+Mentions: N-3, N-490, N-381, N-719, N-82
 Investigative Direction: Cross-check the host's earlier episodes on Harris, Lively and Reynolds.
 
 ---
@@ -1799,7 +1799,7 @@ Claim: The host says Laura Loomer shared, with glee, the news that Cam Higby, al
 Transcript Snippet: she was beside herself with Glee this morning sharing news that another Zionist influencer named Cam Higgby, who has also now been credentialed by the Pentagon
 
 Anchored Artifacts: A-1490.1
-Mentions: N-3, N-60, N-309
+Mentions: N-3, N-60, N-306
 Related Nodes: N-10064
 Investigative Direction: Locate Loomer's post sharing the Higby clip and its time.
 
@@ -1829,7 +1829,7 @@ Claim: In the Pentagon clip, Kingsley Wilson says she can try to find out and ma
 Transcript Snippet: I can try to find out and maybe let you know.
 
 Anchored Artifacts: A-1490.1
-Mentions: N-310, N-309
+Mentions: N-307, N-306
 Investigative Direction: Track whether the Pentagon later sent a follow-up answer.
 
 ---
@@ -1858,7 +1858,7 @@ Claim: The host says that, allegedly, the president of France paid $1.5 million 
 Transcript Snippet: because the president played of France allegedly paid $1.5 million for my assassination.
 
 Anchored Artifacts: 
-Mentions: N-3, N-387
+Mentions: N-3, N-383
 Related Nodes: N-10316
 Investigative Direction: The host must identify the source and the accounts; no evidence is shown. Treat as an unverified allegation.
 
@@ -1888,7 +1888,7 @@ Claim: The host says that in the Macron lawsuit she has paid over a quarter of a
 Transcript Snippet: Thus far in the Breijit Mcronone lawsuit, we have paid over a quarter of a million dollars and we haven't even had our first day in court.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-387
+Mentions: N-3, N-82, N-383
 Related Nodes: N-10270
 Investigative Direction: Review the Delaware docket and the host's disclosures on legal costs.
 
@@ -1918,7 +1918,7 @@ Claim: The host says a Trump-Macron phone call, recorded in Macron's released pu
 Transcript Snippet: an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emanuel Mcronone had a phone call that has been recorded in Emanuel Mcronone's public calendar which has been released.
 
 Anchored Artifacts: A-1493.1
-Mentions: N-3, N-5, N-387, N-1
+Mentions: N-3, N-5, N-383, N-1
 Related Nodes: N-10308
 Supports: C-1830
 Investigative Direction: Locate Macron's released calendar entry for September 10 and compare against the time of the shooting.
@@ -1934,7 +1934,7 @@ Claim: The host says the call could be nothing and that there are many reasons, 
 Transcript Snippet: we also know that there's been a lot of discussion about Ukraine, and there's a million reasons that Emanuel Mcronone and him could have had that poorly timed phone call.
 
 Anchored Artifacts: A-1493.1
-Mentions: N-3, N-5, N-387
+Mentions: N-3, N-5, N-383
 Related Nodes: N-10308
 Qualifies: C-1830
 Investigative Direction: Ask the Elysee and the White House for the call readout.
@@ -1950,7 +1950,7 @@ Claim: The host says The Assassination of Candace Owens is song number 13 on The
 Transcript Snippet: Why is it got to be song number 13?
 
 Anchored Artifacts: 
-Mentions: N-3, N-311
+Mentions: N-3, N-308
 Supports: C-1826
 Investigative Direction: Check the album's published track listing.
 
@@ -1965,7 +1965,7 @@ Claim: In the interview clip, The Game says Candace Owens said people were tryin
 Transcript Snippet: she said that people were trying to assassinate her. So, all I did was say it too.
 
 Anchored Artifacts: A-1491.1
-Mentions: N-311, N-3
+Mentions: N-308, N-3
 Supports: C-1827
 Investigative Direction: Verify the quote against the full interview.
 
@@ -2008,7 +2008,7 @@ Claim: The host says she spoke at length with Russell Brand on his show, which s
 Transcript Snippet: I spoke about it more at length with Russell Brandon uh on his show. So that should be coming out soon.
 
 Anchored Artifacts: 
-Mentions: N-3, N-726
+Mentions: N-3, N-720
 Investigative Direction: Find the Russell Brand episode featuring the host and its air date.
 
 ---
@@ -2085,18 +2085,18 @@ Investigative Direction: Review TPUSA's own acknowledgements of the host's work.
 
 ---
 
-**C-5144** Host Says the USS Liberty Interview With Phil Turney Was the Best She Has Given
+**C-5144** Host Says the USS Liberty Interview With Phil Tourney Was the Best She Has Given
 
 Claim Timestamp: 01:03:36
 
-Claim: The host says the interview with Phil Turney of the USS Liberty was the best interview they have ever given.
+Claim: The host says the interview with Phil Tourney of the USS Liberty was the best interview they have ever given.
 
-Transcript Snippet: you could feel a spiritual movement in this room when we interviewed Phil Turney of the USS Liberty.
+Transcript Snippet: you could feel a spiritual movement in this room when we interviewed Phil Tourney of the USS Liberty.
 
 Anchored Artifacts: 
-Mentions: N-3, N-509
+Mentions: N-3, N-504
 Related Nodes: N-10451
-Investigative Direction: Find the Phil Turney interview episode and its view count.
+Investigative Direction: Find the Phil Tourney interview episode and its view count.
 
 ---
 

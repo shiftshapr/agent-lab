@@ -69,7 +69,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-703",
+            "N-697",
             "N-2",
             "N-1"
           ],
@@ -145,8 +145,8 @@
             "C-4660"
           ],
           "related_nodes": [
-            "N-697",
-            "N-698",
+            "N-691",
+            "N-692",
             "N-10107"
           ],
           "tags": [],
@@ -219,7 +219,7 @@
             "C-4700"
           ],
           "related_nodes": [
-            "N-267",
+            "N-265",
             "N-3",
             "N-10991"
           ],
@@ -276,8 +276,8 @@
           ],
           "related_nodes": [
             "N-185",
-            "N-699",
-            "N-267",
+            "N-693",
+            "N-265",
             "N-7",
             "N-1",
             "N-10987"
@@ -305,8 +305,8 @@
             "C-4677"
           ],
           "related_nodes": [
-            "N-700",
-            "N-699"
+            "N-694",
+            "N-693"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -324,7 +324,7 @@
             "C-4683"
           ],
           "related_nodes": [
-            "N-700",
+            "N-694",
             "N-10989"
           ],
           "tags": [],
@@ -380,11 +380,11 @@
             "N-2",
             "N-11",
             "N-17",
-            "N-461",
+            "N-456",
             "N-14",
-            "N-702",
-            "N-471",
-            "N-700",
+            "N-696",
+            "N-466",
+            "N-694",
             "N-10401",
             "N-10186"
           ],
@@ -448,7 +448,7 @@
             "C-4709"
           ],
           "related_nodes": [
-            "N-272",
+            "N-270",
             "N-7",
             "N-10737"
           ],
@@ -1020,8 +1020,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Transcript spellings \"Tara Farnsworth\", \"Taro Farnsworth\", \"Carol Farnsworth\", \"Turrell Farnsworth\" and \"Terrel\". CEO of Visual Impulse and head of the AV team; the host relays his phone statements on the live stream and the mic redundancy.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Transcript spelling \"Ryan Harpole\" (55:02). Says no CPR was done in the car; his filing against the host asserts a 911 call.",
@@ -1069,8 +1069,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-338",
-      "ref": "N-338",
+      "@id": "N-335",
+      "ref": "N-335",
       "name": "Andrew Seifer",
       "type": "person",
       "description": "Transcript spelling \"Andrew Cypher\". Named among TPUSA staff who the host says did not call 911.",
@@ -1086,8 +1086,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-348",
-      "ref": "N-348",
+      "@id": "N-345",
+      "ref": "N-345",
       "name": "Victor Marx",
       "type": "person",
       "description": "Said to describe his wife Eileen as a mentor to Erika Kirk.",
@@ -1103,8 +1103,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-350",
-      "ref": "N-350",
+      "@id": "N-347",
+      "ref": "N-347",
       "name": "Eileen Marx",
       "type": "person",
       "description": "Described by Victor Marx as a mentor to Erika Kirk.",
@@ -1120,8 +1120,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-450",
-      "ref": "N-450",
+      "@id": "N-446",
+      "ref": "N-446",
       "name": "Mark Burnett",
       "type": "person",
       "description": "His production company is named in the Alex Clark dating-show claim.",
@@ -1137,8 +1137,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-461",
-      "ref": "N-461",
+      "@id": "N-456",
+      "ref": "N-456",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Pastor whose Harvest church the host says is in court over trafficking accusations from Romania; toured with Erika Kirk.",
@@ -1156,8 +1156,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-471",
-      "ref": "N-471",
+      "@id": "N-466",
+      "ref": "N-466",
       "name": "Nelda Buckman",
       "type": "person",
       "description": "Called TPUSA's biggest donor and said to be extensively involved in anti-trafficking work.",
@@ -1175,8 +1175,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-531",
-      "ref": "N-531",
+      "@id": "N-526",
+      "ref": "N-526",
       "name": "Rothschild Family",
       "type": "person",
       "description": "Named as the people Epstein said in his emails he worked for.",
@@ -1192,8 +1192,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-697",
-      "ref": "N-697",
+      "@id": "N-691",
+      "ref": "N-691",
       "name": "Dan Merrill",
       "type": "person",
       "description": "First named by the host at 00:06:08 in episode 117. The professional paver brought in to pave the crime scene, interviewed by Jimmy Rex.",
@@ -1212,8 +1212,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-698",
-      "ref": "N-698",
+      "@id": "N-692",
+      "ref": "N-692",
       "name": "Jimmy Rex",
       "type": "person",
       "description": "First named by the host at 00:06:08 in episode 117. Interviewer of paver Dan Merrill.",
@@ -1232,8 +1232,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-699",
-      "ref": "N-699",
+      "@id": "N-693",
+      "ref": "N-693",
       "name": "Philip Goldsberry Jr.",
       "type": "person",
       "description": "First named by the host at 00:14:08 in episode 117. Member of Terrell Farnsworth's AV team whom the host identifies as the person who mic'd Charlie Kirk on September 10. Aliases: Philip Goldsberry; Phillips Goldsberry.",
@@ -1256,8 +1256,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-700",
-      "ref": "N-700",
+      "@id": "N-694",
+      "ref": "N-694",
       "name": "Dr. Philip Goldsberry",
       "type": "person",
       "description": "First named by the host at 00:17:32 in episode 117. Arizona pastor, father of Philip Goldsberry Jr., co-founder and board chairman of Soter Global Ministries. Aliases: Philip Goldsberry Sr.; Phil Goldsberry.",
@@ -1280,8 +1280,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-701",
-      "ref": "N-701",
+      "@id": "N-695",
+      "ref": "N-695",
       "name": "Otto Busher",
       "type": "person",
       "description": "First named by the host at 00:18:27 in episode 117. Transcript spelling \"Colonel Otto Busher\"; a US military colonel the host says partnered with Erika Kirk's Romanian Angels and was accused online of trafficking. The correct spelling is unverified.",
@@ -1298,8 +1298,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-702",
-      "ref": "N-702",
+      "@id": "N-696",
+      "ref": "N-696",
       "name": "Curtis Kolvet",
       "type": "person",
       "description": "First named by the host at 00:24:24 in episode 117. Andrew Kolvet's brother (\"Andrew Corbett's brother, Curtis\"), said to be a lieutenant colonel stationed in Romania. Surname inferred from the brother relationship.",
@@ -1317,8 +1317,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-703",
-      "ref": "N-703",
+      "@id": "N-697",
+      "ref": "N-697",
       "name": "Laura Ingraham",
       "type": "person",
       "description": "First named by the host at 00:38:48 in episode 117 (transcript spelling \"Laura Ingram\"). Host of the show on which the Kolvet necklace clip aired.",
@@ -1973,8 +1973,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-699",
-        "N-267"
+        "N-693",
+        "N-265"
       ]
     },
     {
@@ -2023,7 +2023,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-700"
+        "N-694"
       ]
     },
     {
@@ -2045,7 +2045,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-701"
+        "N-695"
       ]
     },
     {
@@ -2068,7 +2068,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2134,7 +2134,7 @@
       "investigative_direction": "Obtain UVU and police video of the stage area after the shooting, and Farnsworth's selfie video with its file metadata, to fix when the camera was removed and when the video was recorded.",
       "transcript_snippet": "Terrell Farnsworth racing to take down the camera behind Charlie's head minutes after he died, also that little selfie he recorded of himself declaring that Charlie was dead seconds after he died",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-1"
       ]
     },
@@ -2267,8 +2267,8 @@
       "investigative_direction": "Obtain UVU facilities and contractor records for the excavation and paving, including which agency or contractor removed the soil and where it was taken.",
       "transcript_snippet": "just a few days later, they had sent another government team to go in and to dig out all of the soil. 8 to 10 in of soil.",
       "mentions_person_refs": [
-        "N-697",
-        "N-698"
+        "N-691",
+        "N-692"
       ]
     },
     {
@@ -2288,8 +2288,8 @@
       "investigative_direction": "Obtain Merrill's photographs with metadata and compare them with UVU's records of the site work.",
       "transcript_snippet": "When I showed up, I took pictures of what it looked like. They had taken out about 10 in of the dirt around the whole place.",
       "mentions_person_refs": [
-        "N-697",
-        "N-698"
+        "N-691",
+        "N-692"
       ]
     },
     {
@@ -2373,7 +2373,7 @@
       "investigative_direction": "Obtain police body-camera footage and evidence logs covering the back camera and the handling of its SD card.",
       "transcript_snippet": "it would also explain why Tara Farnsworth violated the crime scene immediately, quite boldly, to remove the SD card from that back footage",
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2472,7 +2472,7 @@
       "investigative_direction": "Review footage of Charlie Kirk's campus events before and after fall 2024 to date when the wireless mic first appears.",
       "transcript_snippet": "that is when it seems the team began to introduce the redundancy of the wireless road mic. Again, that was also admitted to me by Terrell Farnsworth on the phone.",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-3",
         "N-1"
       ]
@@ -2533,7 +2533,7 @@
       "investigative_direction": "Check Visual Impulse's corporate filings and TPUSA vendor payments for the length of the relationship, and public records on the families' ties.",
       "transcript_snippet": "We know Taro Farnsworth is running this team. He has for over 10 years.",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-11"
       ]
     },
@@ -2574,8 +2574,8 @@
       "investigative_direction": "Confirm the technician's identity from event crew lists, Visual Impulse staffing records and UVU credentialing.",
       "transcript_snippet": "And that answer is uh the answer is a young man named Philip Goldsberry Jr., okay?",
       "mentions_person_refs": [
-        "N-699",
-        "N-267",
+        "N-693",
+        "N-265",
         "N-185",
         "N-1"
       ]
@@ -2598,8 +2598,8 @@
       "transcript_snippet": "This is how we know it's the Rode Wireless Pro microphone because it comes with the dual charging cases and and docking stations.",
       "mentions_person_refs": [
         "N-185",
-        "N-699",
-        "N-267",
+        "N-693",
+        "N-265",
         "N-7"
       ]
     },
@@ -2621,7 +2621,7 @@
       "investigative_direction": "Frame-by-frame analysis of the mic-up and shooting footage to locate the transmitter relative to the necklace.",
       "transcript_snippet": "And here you can see that Philip Goldsberry secured it under Charlie's shirt next to the necklace.",
       "mentions_person_refs": [
-        "N-699",
+        "N-693",
         "N-185",
         "N-1"
       ]
@@ -2643,8 +2643,8 @@
       "investigative_direction": "Verify Dr. Goldsberry's ministry, credentials and family relationship through church and public records.",
       "transcript_snippet": "his name is Dr. Philip Goldsberry. So, they have obviously the same name. That's his dad right there. He is a pastor in Arizona",
       "mentions_person_refs": [
-        "N-700",
-        "N-699"
+        "N-694",
+        "N-693"
       ]
     },
     {
@@ -2684,7 +2684,7 @@
       "investigative_direction": "Obtain Soter Global Ministries' founding documents, IRS filings and board history.",
       "transcript_snippet": "Dr. Philip Goldsberry co-founded a charitable organization which began doing work in Eastern Europe.",
       "mentions_person_refs": [
-        "N-700"
+        "N-694"
       ]
     },
     {
@@ -2705,7 +2705,7 @@
       "investigative_direction": "Review Soter Global Ministries' annual reports and Form 990s for program locations and partner orphanages.",
       "transcript_snippet": "The organization would come to be known as Soder Global Ministries. And of course, they were in Ukraine. And of course, they were in Romania helping to provide medical care to orphanages.",
       "mentions_person_refs": [
-        "N-700"
+        "N-694"
       ]
     },
     {
@@ -2748,7 +2748,7 @@
       "transcript_snippet": "This is what landed Erika's Romanian Angels in some hot water online when they realized she was partnering with Colonel Auto Buscher",
       "mentions_person_refs": [
         "N-2",
-        "N-701"
+        "N-695"
       ]
     },
     {
@@ -2768,8 +2768,8 @@
       "investigative_direction": "Check archived versions of the Soter website and its current board listing in state and IRS filings.",
       "transcript_snippet": "So, today Dr. Goldsberry is the chairman of the board of Soter Global Ministries.",
       "mentions_person_refs": [
-        "N-700",
-        "N-699"
+        "N-694",
+        "N-693"
       ]
     },
     {
@@ -2888,7 +2888,7 @@
       "transcript_snippet": "In late 2012, we all we know uh that Erika begins her Romanian Angels Project",
       "mentions_person_refs": [
         "N-2",
-        "N-701"
+        "N-695"
       ]
     },
     {
@@ -2954,7 +2954,7 @@
         "C-2087"
       ],
       "mentions_person_refs": [
-        "N-461",
+        "N-456",
         "N-2"
       ]
     },
@@ -2976,7 +2976,7 @@
       "transcript_snippet": "Andrew Corbett's brother, Curtis, is currently stationed in Romania as a lieutenant colonel.",
       "mentions_person_refs": [
         "N-14",
-        "N-702"
+        "N-696"
       ]
     },
     {
@@ -3039,7 +3039,7 @@
       "investigative_direction": "Review Buckman's foundation filings and TPUSA donor disclosures to confirm her giving and her anti-trafficking involvement.",
       "transcript_snippet": "their biggest donor of Turning Point USA, Nelda Buckman, extensively involved in rescuing children from being sexually abused and trafficked.",
       "mentions_person_refs": [
-        "N-471"
+        "N-466"
       ]
     },
     {
@@ -3057,8 +3057,8 @@
       "investigative_direction": "Locate the Victor Marx statement and any public appearances of Eileen Marx with Erika Kirk.",
       "transcript_snippet": "People like Victor Marx, who tells us his wife Eileen is like a mentor to her.",
       "mentions_person_refs": [
-        "N-348",
-        "N-350",
+        "N-345",
+        "N-347",
         "N-2"
       ]
     },
@@ -3080,7 +3080,7 @@
       "investigative_direction": "Obtain Visual Impulse's event staffing logs for 2024–2025 to show when Farnsworth began attending events in person.",
       "transcript_snippet": "His assertion to me that they were trying something new, that's why he started going to these sorts of events that required him to oversee the audio division.",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-3",
         "N-1"
       ]
@@ -3102,7 +3102,7 @@
       "investigative_direction": "Seek any recording or notes of the call and Farnsworth's own account of why he did not share the file.",
       "transcript_snippet": "His absurd claim, patently absurd claim, that he did not know how to send a video file, which then transformed into him expressing a bizarre fear that he didn't want to send it because he thought Google was going to hack him.",
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -3123,7 +3123,7 @@
       "investigative_direction": "Obtain streaming-platform logs and network records for the event feed to establish its destination and viewers.",
       "transcript_snippet": "they were live-streaming the event to the ops back in Phoenix. That's a direct quote, the ops back in Phoenix.",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-1"
       ]
     },
@@ -3237,7 +3237,7 @@
       "transcript_snippet": "Jeffrey Epstein operated a global trafficking ring. And he worked, according to him and his emails, for the Rothschilds.",
       "mentions_person_refs": [
         "N-9",
-        "N-531"
+        "N-526"
       ]
     },
     {
@@ -3299,7 +3299,7 @@
       "investigative_direction": "Set Harpole's interview against Turek's statements and any medical records from arrival at the hospital.",
       "transcript_snippet": "You know, no, because um right now I got to stop that bleeding.",
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-7"
       ]
     },
@@ -3323,7 +3323,7 @@
       "mentions_person_refs": [
         "N-17",
         "N-7",
-        "N-272",
+        "N-270",
         "N-1"
       ]
     },
@@ -3459,7 +3459,7 @@
       "investigative_direction": "Compare the complaint's 911 allegation with the full set of 911 recordings and call logs from Utah County dispatch.",
       "transcript_snippet": "Ryan Harpole asserted I think he asserted that he called 911 or someone called 911. That I have not seen that in the released 911 recordings.",
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-3"
       ]
     },
@@ -3481,7 +3481,7 @@
       "mentions_person_refs": [
         "N-194",
         "N-162",
-        "N-338",
+        "N-335",
         "N-1"
       ]
     },
@@ -3540,7 +3540,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-99",
-        "N-450"
+        "N-446"
       ]
     }
   ],

@@ -1341,8 +1341,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-289",
-      "ref": "N-289",
+      "@id": "N-72",
+      "ref": "N-72",
       "name": "Eric Bolling",
       "type": "person",
       "description": "Eric Bolling; the host says he claimed a breakup and had interviewed her in 2020.",
@@ -2656,10 +2656,10 @@
       ],
       "claim_timestamp": "00:28:56",
       "investigative_direction": "Pull the Bolling broadcast and the 2020 interview to check both dates.",
-      "transcript_snippet": "Right. Eric Bowling did this. He said I even I don't know if if he was even sober on that program because he said he hadn't seen me.",
+      "transcript_snippet": "Right. Eric Bolling did this. He said I even I don't know if if he was even sober on that program because he said he hadn't seen me.",
       "mentions_person_refs": [
         "N-3",
-        "N-289",
+        "N-72",
         "N-1"
       ]
     },

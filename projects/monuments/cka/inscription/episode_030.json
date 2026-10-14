@@ -142,7 +142,7 @@
           "related_nodes": [
             "N-7",
             "N-212",
-            "N-251"
+            "N-250"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -162,7 +162,7 @@
           "related_nodes": [
             "N-7",
             "N-212",
-            "N-251",
+            "N-250",
             "N-1"
           ],
           "tags": [],
@@ -217,7 +217,7 @@
           ],
           "related_nodes": [
             "N-216",
-            "N-252",
+            "N-251",
             "N-69"
           ],
           "tags": [],
@@ -236,7 +236,7 @@
             "C-1678"
           ],
           "related_nodes": [
-            "N-253"
+            "N-252"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -254,7 +254,7 @@
             "C-1679"
           ],
           "related_nodes": [
-            "N-252",
+            "N-251",
             "N-216",
             "N-69"
           ],
@@ -584,8 +584,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-251",
-      "ref": "N-251",
+      "@id": "N-250",
+      "ref": "N-250",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "Identified as the \"old man talking to a bush\" at the UVU venue pre-event; brother of Pastor Jack Hibbs; photographed with Charlie Kirk approximately 20 minutes before the shooting.",
@@ -657,8 +657,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-252",
-      "ref": "N-252",
+      "@id": "N-251",
+      "ref": "N-251",
       "name": "Elijah Schaefer",
       "type": "person",
       "description": "Content creator defendant in the Alexis Wilkins lawsuit; posted photograph of Wilkins and Patel in response to Hen Mazig X post.",
@@ -678,8 +678,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-253",
-      "ref": "N-253",
+      "@id": "N-252",
+      "ref": "N-252",
       "name": "Hen Mazig",
       "type": "person",
       "description": "Ex-user (X account holder) who published the September 14, 2025 post describing female Mossad agents in Israeli intelligence operations against Iran.",
@@ -755,7 +755,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -782,8 +782,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-216",
-        "N-252",
-        "N-253"
+        "N-251",
+        "N-252"
       ]
     },
     {
@@ -1699,8 +1699,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-232",
-      "ref": "N-232",
+      "@id": "N-231",
+      "ref": "N-231",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Transcribed Ali Stucky; mentioned among critics who tried to debunk the host.",
@@ -1716,8 +1716,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "The AV staffer in the camera and SD card items.",
@@ -1734,8 +1734,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-329",
+      "ref": "N-329",
       "name": "Tim Ballard",
       "type": "person",
       "description": "Former head of Operation Underground, introduced to the host via Streit.",
@@ -1769,8 +1769,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-865",
-      "ref": "N-865",
+      "@id": "N-858",
+      "ref": "N-858",
       "name": "Austin Erickson",
       "type": "person",
       "description": "First named by the host at 00:22:40 in episode 30 (spelled Austin Ericson in the transcript). TPUSA staffer addressed with Dylan Erickson.",
@@ -1978,7 +1978,7 @@
       "investigative_direction": "Obtain the full Frank Turk interview, including any prior segments establishing his presence at the event.",
       "mentions_person_refs": [
         "N-7",
-        "N-251",
+        "N-250",
         "N-1"
       ]
     },
@@ -1997,7 +1997,7 @@
       "investigative_direction": "Obtain independent genealogical or institutional records (Calvary Chapel directories) confirming the sibling relationship.",
       "mentions_person_refs": [
         "N-212",
-        "N-251",
+        "N-250",
         "N-7"
       ]
     },
@@ -2017,7 +2017,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-7",
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2073,7 +2073,7 @@
       "mentions_person_refs": [
         "N-69",
         "N-216",
-        "N-252"
+        "N-251"
       ]
     },
     {
@@ -2090,7 +2090,7 @@
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Verify the original Hen Mazig post via archived snapshots and any subsequent posts by Mazig on the same topic.",
       "mentions_person_refs": [
-        "N-253"
+        "N-252"
       ]
     },
     {
@@ -2109,8 +2109,8 @@
       "mentions_person_refs": [
         "N-69",
         "N-216",
-        "N-252",
-        "N-253"
+        "N-251",
+        "N-252"
       ]
     },
     {
@@ -2581,7 +2581,7 @@
         "C-1366"
       ],
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-11",
         "N-3"
       ]
@@ -2607,7 +2607,7 @@
         "C-1369"
       ],
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-14"
       ]
     },
@@ -2697,7 +2697,7 @@
       "transcript_snippet": "I was on tour every single semester, okay, up until June of 2024",
       "mentions_person_refs": [
         "N-3",
-        "N-232",
+        "N-231",
         "N-1"
       ]
     },
@@ -2909,7 +2909,7 @@
       "transcript_snippet": "I have known every word that you have said about me, okay? And I have been investigating you guys for two months straight.",
       "mentions_person_refs": [
         "N-20",
-        "N-865",
+        "N-858",
         "N-3"
       ]
     },
@@ -2932,7 +2932,7 @@
       "transcript_snippet": "your involvement with bringing that sponsor on. Things got a little different once they were brought on. Demands got interesting.",
       "mentions_person_refs": [
         "N-20",
-        "N-865",
+        "N-858",
         "N-1"
       ]
     },
@@ -2958,7 +2958,7 @@
       ],
       "mentions_person_refs": [
         "N-20",
-        "N-865",
+        "N-858",
         "N-38",
         "N-3"
       ]
@@ -3184,7 +3184,7 @@
       ],
       "mentions_person_refs": [
         "N-212",
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -3205,7 +3205,7 @@
       "investigative_direction": "Review arrival footage at the UVU drop-off area to confirm who was beside and behind Kirk.",
       "transcript_snippet": "he's behind Charlie when he gets out of the car. Like Charlie comes out of his car, arrives for the event. He's with the amazing Mikey McCoy.",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-1",
         "N-194"
       ]
@@ -3229,7 +3229,7 @@
       "mentions_person_refs": [
         "N-7",
         "N-1",
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -3249,7 +3249,7 @@
       "investigative_direction": "Search military service records for any Hibbs family members.",
       "transcript_snippet": "Hibs are from a military family. Okay. Uh Butch senior was in the Navy.",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-212"
       ]
     },
@@ -3293,7 +3293,7 @@
       "investigative_direction": "Confirm the introduction timeline between PragerU, Streit and Ballard from the host's records.",
       "transcript_snippet": "also was introduced to me by Visha Stray.",
       "mentions_person_refs": [
-        "N-332",
+        "N-329",
         "N-118",
         "N-3"
       ]
@@ -3370,7 +3370,7 @@
         "C-1679"
       ],
       "mentions_person_refs": [
-        "N-252",
+        "N-251",
         "N-216"
       ]
     },
@@ -3571,7 +3571,7 @@
       "transcript_snippet": "who have intimately let me know the things that the Ericson brothers are doing and saying and texting, and I I just have a file of all of it because of people at Turning Point USA",
       "mentions_person_refs": [
         "N-20",
-        "N-865",
+        "N-858",
         "N-3",
         "N-1"
       ]

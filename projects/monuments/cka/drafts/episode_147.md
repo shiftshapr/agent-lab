@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Reused Nodes Appearing: N-10825, N-10820
  - New Nodes Introduced: N-10821, N-10822, N-10823, N-10824, N-10826
- - Reused Nodes Appearing: N-375, N-435, N-503, N-515
+ - Reused Nodes Appearing: N-372, N-431, N-498, N-510
  - (see registers)
 
 ---
@@ -265,7 +265,7 @@ Confidence: medium
 
 ## IV. Node Register
 
-**N-503** Justin Davis
+**N-498** Justin Davis
 
 Named by the host at 00:12:13 in episode 147; first introduced in episode 124.
 
@@ -273,7 +273,7 @@ Named by the host at 00:12:13 in episode 147; first introduced in episode 124.
 
 
 
-**N-375** Danny Philip
+**N-372** Danny Philip
 
 Footage discussed by the host shows Danny Phillip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.
 
@@ -463,7 +463,7 @@ Claim Timestamp: 00:20:06
 Claim: In the post-shot sequence, Justin Davis (driver of the Lincoln Navigator) sprinted to and opened the passenger-side door of a vehicle he had not arrived in, alongside Blake Neff, who was also not a passenger of that vehicle.
 
 Anchored Artifacts: A-2329.1
-Mentions: N-162, N-503
+Mentions: N-162, N-498
 
 Related Nodes: N-10822
 
@@ -476,7 +476,7 @@ Claim Timestamp: 00:21:00
 Claim: Footage shows Mikey McCoy and Danny Phillip running, meeting, and "ducking down" together in front of Kirk's vehicle, in what the host characterizes as a coordinated sequence.
 
 Anchored Artifacts: A-2329.2
-Mentions: N-375, N-194, N-503
+Mentions: N-372, N-194, N-498
 
 Related Nodes: N-10820
 
@@ -502,7 +502,7 @@ Claim Timestamp: 00:22:38
 Claim: As Kirk's vehicle departed for the hospital, a backpack fell from or was tossed from the trunk. Host speculates it is "Chris's bag" but states "not 100% certain."
 
 Anchored Artifacts: A-2329.3
-Mentions: N-503
+Mentions: N-498
 
 Related Nodes: N-10822
 
@@ -515,7 +515,7 @@ Claim Timestamp: 00:16:16
 Claim: Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him – a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.
 
 Anchored Artifacts: A-2329 (host narration; no audio or document displayed in this episode presenting the prior communication)
-Mentions: N-1, N-2, N-503
+Mentions: N-1, N-2, N-498
 
 Related Nodes:
 
@@ -528,7 +528,7 @@ Claim Timestamp: 00:17:03
 Claim: Christopher (Kirk's main security person / driver) and Nate Walker were observed walking toward the Sorensen building, upstairs, in the minutes before the shot.
 
 Anchored Artifacts: A-2329.4
-Mentions: N-515
+Mentions: N-510
 
 Related Nodes: N-10821
 
@@ -566,7 +566,7 @@ Claim Timestamp: 00:12:54
 Claim: The two security vehicles (black Jeep Wagoneer and Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., before Charlie Kirk's arrival in Salt Lake City for the restaurantology event.
 
 Anchored Artifacts: A-2330 (diagram only; times based on host narrative)
-Mentions: N-1, N-503
+Mentions: N-1, N-498
 
 Related Nodes: N-10820
 
@@ -617,7 +617,7 @@ Claim Timestamp: 00:40:25
 Claim: Viva Frei sent a tweet echoing the "lawyer justifying political assassination" framing. Host states she has blocked him.
 
 Anchored Artifacts: A-2333
-Mentions: N-340
+Mentions: N-337
 
 Related Nodes: N-10824
 
@@ -643,7 +643,7 @@ Claim Timestamp: 00:40:50
 Claim: Blake Neff and Brandon Tatum sent an identical X post accusing defense attorney Richard Novac of "trashing Charlie" by stating that Kirk "spoke hatefully about people who were not heterosexual or had sex outside of marriage."
 
 Anchored Artifacts: A-2335
-Mentions: N-162, N-435
+Mentions: N-162, N-431
 
 Related Nodes: N-10824
 
@@ -656,7 +656,7 @@ Claim Timestamp: 00:42:00
 Claim: Defense counsel Richard Novac, in his probable-cause-hearing argument, was not advancing a personal thesis that political assassinations are acceptable; he was citing the state's own theory to argue that the state had failed to satisfy its burden even on its own framing.
 
 Anchored Artifacts: A-2336, A-2337
-Mentions: N-40, N-435
+Mentions: N-40, N-431
 
 Related Nodes: N-10824, N-10825
 
@@ -761,7 +761,7 @@ Claim Timestamp: 01:04:00
 Claim: Brian Harpole, in a conversation with Shawn Ryan, stated that there were no threats the night before September 10 – a statement the host identifies as in tension with Kirk's prior-night communication of fear.
 
 Anchored Artifacts: A-2340 (host narrative; Shawn Ryan interview not displayed in this episode)
-Mentions: N-1, N-272, N-229
+Mentions: N-1, N-270, N-228
 
 Related Nodes:
 

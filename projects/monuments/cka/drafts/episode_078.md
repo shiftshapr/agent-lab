@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 087c555f00ceb818cad608ff21e33df7adf9a91188c74d073eebdf7ac801be48
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-593, N-594, N-595, N-596, N-597, N-598, N-599, N-601, N-10531, N-10533, N-10534, N-10535, N-10536, N-10537, N-10538
-  - Reused Nodes Appearing: N-592, N-10532
+  - New Nodes Introduced: N-588, N-589, N-590, N-591, N-592, N-593, N-594, N-596, N-10531, N-10533, N-10534, N-10535, N-10536, N-10537, N-10538
+  - Reused Nodes Appearing: N-587, N-10532
   - (see registers)
 
 # Meta-Data
@@ -35,7 +35,7 @@
 
 - **Artifact Families Introduced:** A-1835, A-1836, A-1837, A-1838, A-1839, A-1840, A-1841, A-1842, A-1843, A-1844, A-1845, A-2523
 - **Claim Range:** C-2453–C-2471
-- **New People Nodes Introduced:** N-592, N-593, N-594, N-595, N-596, N-597, N-598, N-599, N-41, N-279, N-182, N-581, N-601
+- **New People Nodes Introduced:** N-587, N-588, N-589, N-590, N-591, N-592, N-593, N-594, N-41, N-277, N-182, N-576, N-596
 - **New Investigation Target Nodes Introduced:** N-10531, N-10532, N-10533, N-10534, N-10535, N-10536, N-10537
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:03:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2453, C-2454, C-2455, N-2, N-594, N-10531, N-10532*
+*Related: C-2453, C-2454, C-2455, N-2, N-589, N-10531, N-10532*
 
 ---
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:08:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2456, N-597, N-598, N-599, N-182*
+*Related: C-2456, N-592, N-593, N-594, N-182*
 
 ---
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:13:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2457, N-2, N-593, N-279, N-10533*
+*Related: C-2457, N-2, N-588, N-277, N-10533*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:17:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2458, C-2471, N-2, N-595, N-10534*
+*Related: C-2458, C-2471, N-2, N-590, N-10534*
 
 **A-1838.2** Erica Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:16:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2459, N-2, N-595, N-10534*
+*Related: C-2459, N-2, N-590, N-10534*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:18:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2460, C-2470, C-2475, N-595, N-596, N-10534*
+*Related: C-2460, C-2470, C-2475, N-590, N-591, N-10534*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:21:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2461, N-601, N-596, N-10534*
+*Related: C-2461, N-596, N-591, N-10534*
 
 ---
 
@@ -235,7 +235,7 @@ Video Timestamp: 00:42:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2466, C-2469, N-1, N-592*
+*Related: C-2466, C-2469, N-1, N-587*
 
 ---
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2467, N-592, N-41, N-10538*
+*Related: C-2467, N-587, N-41, N-10538*
 
 **A-1844.2** X community note fact-checking TP Action's Massie tweet: "Rep. Thomas Massie was one of Charlie Kirk's favorite congressman"
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2468, N-592, N-10538*
+*Related: C-2468, N-587, N-10538*
 
 ---
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:44:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2469, C-2474, N-592, N-10538*
+*Related: C-2469, C-2474, N-587, N-10538*
 
 ---
 
@@ -294,7 +294,7 @@ Confidence Level: High
 # Node Register
 
 
-**N-592** Thomas Massie
+**N-587** Thomas Massie
 
 Kentucky congressman; central to Turning Point Action disavowal incident; displayed video shows Charlie Kirk naming him a favorite congressman on multiple occasions.
 
@@ -307,7 +307,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-593** Sarah Huckabee Sanders
+**N-588** Sarah Huckabee Sanders
 
 Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.
 
@@ -316,11 +316,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1837.1, C-2457, N-279, N-10533*
+*Related: A-1837.1, C-2457, N-277, N-10533*
 
 ---
 
-**N-594** Mark Epstein
+**N-589** Mark Epstein
 
 Jeffrey Epstein's brother; named by host as owner of building matching the white-building description and as inheritor of Jeffrey Epstein's wealth (host attribution, not cited within displayed NY Post article text).
 
@@ -333,7 +333,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-595** Renee Crossman
+**N-590** Renee Crossman
 
 President of United Hands Romania Association; partner of Erica Kirk on the Remnant/Romanian Angels project; per displayed Romanian investigative article, originated from the Children of God / The Family religious sect.
 
@@ -346,7 +346,7 @@ Investigative Pressure: High
 
 ---
 
-**N-596** David Berg
+**N-591** David Berg
 
 Founder of Children of God / The Family; historical figure named in displayed Romanian investigative article as advocate of sexual relations with minors including his own daughter at age 12.
 
@@ -359,7 +359,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-597** Oren Alexander
+**N-592** Oren Alexander
 
 Real-estate broker; per displayed news clip, found guilty on all 10 counts including sex trafficking in Manhattan federal trial.
 
@@ -372,7 +372,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-598** Tal Alexander
+**N-593** Tal Alexander
 
 Real-estate broker; per displayed news clip, found guilty of sex trafficking and sex trafficking of a minor.
 
@@ -385,7 +385,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-599** Alon Alexander
+**N-594** Alon Alexander
 
 Private security executive; per displayed news clip, found guilty of sex trafficking of a minor and sexual abuse.
 
@@ -398,7 +398,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-279** Mike Huckabee
+**N-277** Mike Huckabee
 
 Father of Sarah Huckabee Sanders; named by host as contextually relevant to Israel theme.
 
@@ -407,7 +407,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-593, N-10533*
+*Related: N-588, N-10533*
 
 ---
 
@@ -420,11 +420,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1836.1, N-597, N-598, N-599*
+*Related: A-1836.1, N-592, N-593, N-594*
 
 ---
 
-**N-581** Faith Kates
+**N-576** Faith Kates
 
 Founder of Next Model Management, the Rothschild spin-out modeling agency with which Erica Kirk is alleged to have dealt.
 
@@ -437,7 +437,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-601** Christina Babin
+**N-596** Christina Babin
 
 Former Children of God member interviewed by Megyn Kelly in 2018; described childhood sexual instruction by adult cult members.
 
@@ -446,7 +446,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1840.1, C-2461, N-596*
+*Related: A-1840.1, C-2461, N-591*
 
 ---
 
@@ -459,7 +459,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1835.1, C-2453, C-2454, C-2455, N-2, N-594, N-10532*
+*Related: A-1835.1, C-2453, C-2454, C-2455, N-2, N-589, N-10532*
 
 ---
 
@@ -472,7 +472,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1835.1, N-2, N-581, N-10531*
+*Related: A-1835.1, N-2, N-576, N-10531*
 
 ---
 
@@ -485,7 +485,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1837.1, C-2457, N-2, N-593, N-279*
+*Related: A-1837.1, C-2457, N-2, N-588, N-277*
 
 ---
 
@@ -498,7 +498,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1838.1, A-1838.2, A-1839.1, A-1840.1, C-2458, C-2459, C-2460, C-2470, N-595, N-596, N-601*
+*Related: A-1838.1, A-1838.2, A-1839.1, A-1840.1, C-2458, C-2459, C-2460, C-2470, N-590, N-591, N-596*
 
 ---
 
@@ -550,7 +550,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-2466, C-2467, C-2468, C-2469, C-2474, N-1, N-592, N-41*
+*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-2466, C-2467, C-2468, C-2469, C-2474, N-1, N-587, N-41*
 
 ---
 
@@ -601,7 +601,7 @@ Claim Timestamp: 00:08:25
 Claim: Per the displayed news clip, a federal jury in Manhattan found Tal, Oren, and Alon Alexander guilty of all 10 counts, including sex trafficking; Tal and Alon also convicted of sex trafficking a minor; Oren and Alon also convicted of sexual abuse. Sentencing scheduled for August.
 
 Anchored Artifacts: A-1836.1
-Mentions: N-182, N-597, N-598, N-599
+Mentions: N-182, N-592, N-593, N-594
 Investigative Direction: Obtain federal court docket for the Southern District of New York case, cross-reference Epstein-file redaction entries, and document Kushner/White House visit records for the brothers.
 
 ---
@@ -613,7 +613,7 @@ Claim Timestamp: 00:13:44
 Claim: Per the displayed clip, Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erica Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program).
 
 Anchored Artifacts: A-1837.1
-Mentions: N-2, N-593
+Mentions: N-2, N-588
 Related Nodes: N-10533
 Investigative Direction: Obtain the official proclamation text and any associated Arkansas Department of Education guidance; verify whether the proclamation is symbolic or carries operational force.
 
@@ -626,7 +626,7 @@ Claim Timestamp: 00:17:48
 Claim: Per the displayed 2017 article, Erica Kirk stated: "I am happy to collaborate with United Hands Romania Association and Renee Crossman, the president of this organization, but also with the representatives of the Antonio Placement Center."
 
 Anchored Artifacts: A-1838.1
-Mentions: N-2, N-595
+Mentions: N-2, N-590
 Related Nodes: N-10534
 Investigative Direction: Locate original 2017 article source and verify the Antonio Placement Center in Constanta; cross-check Romanian nonprofit registration records for United Hands Romania.
 
@@ -639,7 +639,7 @@ Claim Timestamp: 00:16:04
 Claim: Per the displayed interview clip, Erica Kirk stated that Romanian children associated with the orphanage program did not trust the woman running United Hands, even when offered gifts.
 
 Anchored Artifacts: A-1838.2
-Mentions: N-2, N-595
+Mentions: N-2, N-590
 Related Nodes: N-10534
 Investigative Direction: Identify the interview source and date; obtain statements from orphanage staff or volunteers regarding Crossman's access to children.
 
@@ -652,7 +652,7 @@ Claim Timestamp: 00:18:27
 Claim: Per the displayed Romanian investigative article, Children of God founder David Berg claimed incest and sex involving minors were permitted; the article states Berg made his daughter Faithy a sexual partner when she reached age 12.
 
 Anchored Artifacts: A-1839.1
-Mentions: N-596
+Mentions: N-591
 Related Nodes: N-10534
 Investigative Direction: Cross-reference with established historical documentation of the Children of God / The Family movement's teachings on minor sexual activity.
 
@@ -665,7 +665,7 @@ Claim Timestamp: 00:21:19
 Claim: Per the displayed Megyn Kelly interview clip, Christina Babin described being taken by an adult couple in the night as a child and shown how to have sex, attributing the instruction to a letter sent by cult leader David Berg.
 
 Anchored Artifacts: A-1840.1
-Mentions: N-596, N-601, N-46
+Mentions: N-591, N-596, N-46
 Related Nodes: N-10534
 Investigative Direction: Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's "sexual sharing" directive.
 
@@ -729,7 +729,7 @@ Claim Timestamp: 00:42:41
 Claim: Per the displayed video clip, Charlie Kirk names Rep. Thomas Massie as one of his favorite members of Congress and welcomes him to discuss the new Church Committee.
 
 Anchored Artifacts: A-1843.1
-Mentions: N-1, N-592
+Mentions: N-1, N-587
 Related Nodes: N-10538
 Investigative Direction: Identify date and program of the clip; corroborate via multiple Charlie Kirk video instances praising Massie (per host, spanning 2016 through 2023).
 
@@ -742,7 +742,7 @@ Claim Timestamp: 00:43:29
 Claim: Per the displayed Turning Point Action tweet, the organization characterized Massie as a "rhino" who needed to be replaced.
 
 Anchored Artifacts: A-1844.1
-Mentions: N-592
+Mentions: N-587
 Related Nodes: N-10538
 Investigative Direction: Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work.
 
@@ -755,7 +755,7 @@ Claim Timestamp: 00:43:29
 Claim: Per the displayed X community note, the Massie tweet from Turning Point Action was fact-checked with the statement: "Rep. Thomas Massie was one of Charlie Kirk's favorite congressman."
 
 Anchored Artifacts: A-1844.2
-Mentions: N-592, N-1
+Mentions: N-587, N-1
 Related Nodes: N-10538
 Investigative Direction: Preserve community note metadata; identify raters and any subsequent updates to the note.
 
@@ -768,7 +768,7 @@ Claim Timestamp: 00:44:27
 Claim: Per the displayed video instances cited in Massie's reply tweet and host commentary, Charlie Kirk identified Massie as a favorite congressman on multiple occasions from at least 2016 through 2023.
 
 Anchored Artifacts: A-1843.1, A-1845.1
-Mentions: N-1, N-592
+Mentions: N-1, N-587
 Related Nodes: N-10538
 Investigative Direction: Compile and date-stamp all public Charlie Kirk video appearances praising Massie; document the platform and audience of each.
 
@@ -781,7 +781,7 @@ Claim Timestamp: 00:18:27
 Claim: Per the displayed Romanian investigative article, Renee Crossman is identified by the Romanian investigative team as originating from the Children of God religious sect (now called The Family).
 
 Anchored Artifacts: A-1839.1
-Mentions: N-595
+Mentions: N-590
 Related Nodes: N-10534
 Investigative Direction: Locate the full investigative article; verify Crossman's documented affiliation independently; examine United Hands Romania registration and operational history.
 
@@ -794,7 +794,7 @@ Claim Timestamp: 00:17:48
 Claim: Per the displayed 2017 article, Erica Kirk's partnership for the benefit of Romanian children was conducted with both the Antonio Placement Center in Constanta and Renee Crossman's United Hands Romania Association.
 
 Anchored Artifacts: A-1838.1
-Mentions: N-2, N-595
+Mentions: N-2, N-590
 Related Nodes: N-10534
 Investigative Direction: Verify Antonio Placement Center in Constanta exists as documented; obtain Romanian-language records and Constantine base access logs referenced by Kirk.
 
@@ -820,7 +820,7 @@ Claim Timestamp: 00:31:14
 Claim: Per the host's framing of the displayed van photos (corroborating analysis by Baron Coleman referenced by host), the photos do not depict the circumstances in which Brian Harpole was described as "hanging out of the SUV."
 
 Anchored Artifacts: A-1841.1, A-1841.2
-Mentions: N-272, N-337
+Mentions: N-270, N-334
 Related Nodes: N-10536
 Investigative Direction: Obtain official TPUSA narrative statements regarding Harpole's posture and timing; compare to multiple displayed photo angles.
 
@@ -833,7 +833,7 @@ Claim Timestamp: 00:44:27
 Claim: Per the displayed Massie reply tweet, Massie directly asked Turning Point USA what had "gotten into y'all" in response to their tweet targeting him.
 
 Anchored Artifacts: A-1845.1
-Mentions: N-592
+Mentions: N-587
 Related Nodes: N-10538
 Investigative Direction: Preserve full reply-tweet thread; identify any subsequent TPUSA responses and document the public dispute timeline.
 
@@ -846,7 +846,7 @@ Claim Timestamp: 00:19:11
 Claim: Per the displayed Romanian investigative article, the Children of God / The Family cult was subsequently instructed to disperse and hide themselves within the world of nonprofit organizations.
 
 Anchored Artifacts: A-1839.1
-Mentions: N-596
+Mentions: N-591
 Related Nodes: N-10534
 Investigative Direction: Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members.
 

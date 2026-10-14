@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Merge duplicate person nodes into a kept node, then close the id holes in the person band.
 
-Each pair OLD:KEEP folds OLD into KEEP: OLD's aliases (and its canonical name) and episodes join KEEP, OLD's
+Each pair OLD:KEEP folds OLD into KEEP (choose as KEEP the id introduced first, so no introduction moves): OLD's aliases (and its canonical name) and episodes join KEEP, OLD's
 register rows and intro-ledger entries are removed, and every other reference to OLD becomes KEEP. Person ids
 above each removed id then shift down so the band stays dense (N-1..N-<p>, no holes). Topic/org/place ids
 (N-10000+) are untouched.
@@ -67,6 +67,7 @@ def main() -> int:
 
     id_map = {n: shift(n) for n in persons if shift(n) != n}
 
+    nodes_before = json.loads(raw)["nodes"]
     # 1. canonical: fold OLD into KEEP before any renumbering
     for o, k in merge.items():
         so, sk = nodes[f"N-{o}"], nodes[f"N-{k}"]
@@ -83,8 +84,11 @@ def main() -> int:
     for p in sorted((CKA / "drafts").glob("episode_*.md")):
         t = p.read_bytes().decode("utf-8")
         o_t = t
-        for o in merge:
-            t = re.sub(rf"^\*\*N-{o}\*\*[^\n]*\n.*?(?=^\*\*[NCAM]-|^#{{1,3}} |\Z)", "", t, flags=re.M | re.S)
+        for o, k in merge.items():
+            if re.search(rf"^\*\*N-{k}\*\*", t, re.M):
+                t = re.sub(rf"^\*\*N-{o}\*\*[^\n]*\n.*?(?=^\*\*[NCAM]-|^#{{1,3}} |\Z)", "", t, flags=re.M | re.S)
+            else:  # the episode only has OLD's row: it becomes KEEP's row
+                t = re.sub(rf"^\*\*N-{o}\*\*[^\n]*$", f"**N-{k}** {nodes_before[f'N-{k}']['canonical_name']}", t, flags=re.M)
             t = INTRO_RE.sub(lambda m: m.group(1) + ", ".join(x for x in (s.strip() for s in m.group(2).split(","))
                                                                if x and x.split(" ")[0] != f"N-{o}"), t)
         t = TOKEN_RE.sub(lambda m: f"N-{shift(int(m.group(1)))}", t)

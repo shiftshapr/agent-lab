@@ -30,14 +30,14 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
   - Claim Range: C-1924–C-1959, C-3741
-  - New Nodes Introduced: N-335, N-337, N-338, N-339, N-340, N-341, N-342, N-343, N-344, N-345, N-346, N-347, N-10339, N-10344, N-10347, N-10348, N-10351, N-10352, N-10354, N-10356, N-10357
-  - Reused Nodes Appearing: N-336, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341
+  - New Nodes Introduced: N-332, N-334, N-335, N-336, N-337, N-338, N-339, N-340, N-341, N-342, N-343, N-344, N-10339, N-10344, N-10347, N-10348, N-10351, N-10352, N-10354, N-10356, N-10357
+  - Reused Nodes Appearing: N-333, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341
 
 ---, N-11
 
 ## II. Executive Summary
 
-This episode documents a private 4.5-hour sit-down between Candace Owens, Erika Kolfage (referred to as "Erika" throughout), and Turning Point USA executive Justin Streif, with her husband George present for the opening portion and cousin Mia attending. The meeting produced three principal pieces of documentary evidence: (1) corroboration by Erika that pre-incident text messages to Andrew Kolvet and Dan Flood were authentic, (2) Mikey McCoy's post-incident phone call logs showing his first call was to his wife Elizabeth McCoy (not to Erika as previously recounted), and (3) a briefing from a lawyer involved in the Tyler Robinson prosecution indicating the case rests only on the affidavit-stage evidence, with a probable cause hearing scheduled for May.
+This episode documents a private 4.5-hour sit-down between Candace Owens, Erika Kolfage (referred to as "Erika" throughout), and Turning Point USA executive Justin Streiff, with her husband George present for the opening portion and cousin Mia attending. The meeting produced three principal pieces of documentary evidence: (1) corroboration by Erika that pre-incident text messages to Andrew Kolvet and Dan Flood were authentic, (2) Mikey McCoy's post-incident phone call logs showing his first call was to his wife Elizabeth McCoy (not to Erika as previously recounted), and (3) a briefing from a lawyer involved in the Tyler Robinson prosecution indicating the case rests only on the affidavit-stage evidence, with a probable cause hearing scheduled for May.
 
 The episode also presents Candace's response to a New York Post profile article, an audio clip of Tim Pool making contradictory security allegations, and a Charlie Kirk Show segment that she contests regarding the date the UVU courtyard location was first publicly disclosed. Multiple artifact-backed contradictions emerge between publicly circulated narratives (Blake Neff, Tim Pool, Charlie Kirk Show) and documentary evidence presented by TPUSA during the meeting.
 
@@ -49,7 +49,7 @@ The structural importance of this episode is high: it is the first direct, artif
 
 **A-1539** Candace-Erika Private Meeting Bundle
 
-**A-1539.1** Private 4-hour-30-minute meeting between Candace Owens, Erika Kolfage, Justin Streif, George (Candace's husband, opening portion), and cousin Mia
+**A-1539.1** Private 4-hour-30-minute meeting between Candace Owens, Erika Kolfage, Justin Streiff, George (Candace's husband, opening portion), and cousin Mia
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -143,7 +143,7 @@ Video Timestamp: 00:49:48–00:52:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1941, C-1954, C-1956, C-1957, N-46, N-338, N-10343*
+*Related: C-1941, C-1954, C-1956, C-1957, N-46, N-335, N-10343*
 
 ---
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:45:27–00:46:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1942, C-1943, C-1944, C-1945, N-273, N-10344*
+*Related: C-1942, C-1943, C-1944, C-1945, N-271, N-10344*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:53:11–00:53:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced by host, not displayed)
 
-*Related: C-1949, N-335, N-213*
+*Related: C-1949, N-332, N-213*
 
 ---
 
@@ -248,7 +248,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:01:08–01:02:32
 Confidence Level: High
 
-*Related: N-343*
+*Related: N-340*
 
 **A-1551.2** Central848 super chat: electrocution theory citing Baron Coleman video of charred hands
 
@@ -264,7 +264,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:05:19–01:07:06
 Confidence Level: High
 
-*Related: N-344*
+*Related: N-341*
 
 **A-1551.4** Mr. Bruce Lee super chat: botted chat observation
 
@@ -273,7 +273,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:07:06–01:07:49
 Confidence Level: High
 
-*Related: N-345*
+*Related: N-342*
 
 **A-1551.5** Will Wallace super chat: security-support donation
 
@@ -282,7 +282,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:07:49–01:08:42
 Confidence Level: High
 
-*Related: N-346*
+*Related: N-343*
 
 **A-1551.6** Real Base super chat: questions on Erika/feds and night-before messages
 
@@ -298,7 +298,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:10:54–01:12:01
 Confidence Level: High
 
-*Related: N-342*
+*Related: N-339*
 
 **A-1551.8** Lamp super chat: question on Qatar's role in media criticism
 
@@ -307,7 +307,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:12:01–01:13:35
 Confidence Level: High
 
-*Related: N-347*
+*Related: N-344*
 
 ---
 
@@ -393,7 +393,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-273** Tim Pool
+**N-271** Tim Pool
 
 Made two contradictory statements about Candace's security within one week.
 
@@ -419,7 +419,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-335** Turkey Tom
+**N-332** Turkey Tom
 
 Produced video authenticating Tyler Robinson Discord chat messaging style.
 
@@ -458,7 +458,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-336** Tulsi Gabbard
+**N-333** Tulsi Gabbard
 
 Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.
 
@@ -484,7 +484,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-337** Baron Coleman
+**N-334** Baron Coleman
 
 Produced video on Camp Wa Chuka and charred-hands electrocution theory.
 
@@ -523,7 +523,7 @@ Investigative Pressure: High
 
 ---
 
-**N-338** Andrew Seifer
+**N-335** Andrew Seifer
 
 Identified on Charlie Kirk Show as TPUSA head of field.
 
@@ -536,7 +536,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-339** Greg Schaefer
+**N-336** Greg Schaefer
 
 Operated Shafer Security; Charlie Kirk's initial security company employing Dan Flood and Brian Harpole.
 
@@ -562,7 +562,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-340** Viva Frey
+**N-337** Viva Frey
 
 Commentator who discussed Turkey Tom video and Tyler Robinson text-message authenticity on the show.
 
@@ -591,7 +591,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-341** Marissa
+**N-338** Marissa
 
 Named PragerU contact (per host).
 
@@ -604,7 +604,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-342** Isabella Mazzone
+**N-339** Isabella Mazzone
 
 Donor; raised Charlie Kirk Catholicism question.
 
@@ -617,7 +617,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-343** Curbster
+**N-340** Curbster
 
 Donor; prayer-support message.
 
@@ -630,7 +630,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-344** Zachary Loft
+**N-341** Zachary Loft
 
 Donor; asked about lack of livestream.
 
@@ -643,7 +643,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-345** Mr. Bruce Lee
+**N-342** Mr. Bruce Lee
 
 Donor; raised botted-chat observation.
 
@@ -656,7 +656,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-346** Will Wallace
+**N-343** Will Wallace
 
 Donor; security-support donation.
 
@@ -669,7 +669,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-347** Lamp
+**N-344** Lamp
 
 Donor; raised Qatar-role question.
 
@@ -771,7 +771,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1544.2, A-1547.1, A-1548.1, C-1956, C-1957, C-1958, N-338*
+*Related: A-1544.2, A-1547.1, A-1548.1, C-1956, C-1957, C-1958, N-335*
 
 ---
 
@@ -784,7 +784,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, A-1545.1, A-1545.2, C-1942, C-1943, C-1944, C-1945, N-273, N-339*
+*Related: A-1539.1, A-1545.1, A-1545.2, C-1942, C-1943, C-1944, C-1945, N-271, N-336*
 
 ---
 
@@ -862,7 +862,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, A-1551.7, C-1952, N-2, N-342*
+*Related: A-1539.1, A-1551.7, C-1952, N-2, N-339*
 
 ---
 
@@ -888,7 +888,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1551.2, N-337*
+*Related: A-1551.2, N-334*
 
 ---
 
@@ -927,7 +927,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1951, N-69, N-336, N-213*
+*Related: A-1539.1, C-1951, N-69, N-333, N-213*
 
 ---
 
@@ -968,11 +968,11 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ## V. Claim Register
 
-**C-1924** Private meeting with Erika and Justin Streif lasted 4 hours 30 minutes
+**C-1924** Private meeting with Erika and Justin Streiff lasted 4 hours 30 minutes
 
 Claim Timestamp: 00:02:34
 
-Claim: A private meeting between Candace Owens, Erika Kolfage, and Justin Streif, with George present at the opening and cousin Mia in attendance, lasted approximately 4 hours and 30 minutes.
+Claim: A private meeting between Candace Owens, Erika Kolfage, and Justin Streiff, with George present at the opening and cousin Mia in attendance, lasted approximately 4 hours and 30 minutes.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-2, N-3, N-15, N-30
@@ -1019,7 +1019,7 @@ Claim Timestamp: 00:06:18
 Claim: Erika Kolfage stated that the message Dan Flood received from Charlie Kirk the night before read "the left is going to kill me."
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-276, N-1
+Mentions: N-2, N-274, N-1
 
 Related Nodes: N-10340
 
@@ -1193,10 +1193,10 @@ Investigative Direction: Verify Andrew Kolb's specific statement; clarify whethe
 **C-3741** Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU
 
 Claim Timestamp: 00:32:14
-Claim: The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and "too many" are paid by PragerU, and that she knows Marissa (N-341) there.
+Claim: The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and "too many" are paid by PragerU, and that she knows Marissa (N-338) there.
 Transcript Snippet: too many are being paid by PragerU, which is upsetting to me because I know Marissa, and it's just dirty.
 Anchored Artifacts: 
-Mentions: N-3, N-341
+Mentions: N-3, N-338
 Related Nodes: N-10131
 Confidence: medium
 Investigative Direction: Identify the named paid accounts and any PragerU or PR-firm payment records the host says she holds.
@@ -1225,7 +1225,7 @@ Claim Timestamp: 00:09:23
 Claim: TPUSA defended Terrell Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-267
+Mentions: N-2, N-265
 
 Related Nodes: N-10346
 
@@ -1270,7 +1270,7 @@ Claim Timestamp: 00:44:36
 Claim: Approximately one week prior, Tim Pool stated Candace Owens had no security beyond one guard and a 4-foot wall at a suburban residence.
 
 Anchored Artifacts: A-1545.1
-Mentions: N-273, N-3
+Mentions: N-271, N-3
 
 Related Nodes: N-10344
 
@@ -1285,7 +1285,7 @@ Claim Timestamp: 00:45:27
 Claim: Tim Pool currently states Candace Owens has used the same security personnel and security companies as Charlie and Erika Kirk.
 
 Anchored Artifacts: A-1545.2
-Mentions: N-273, N-3, N-1, N-2
+Mentions: N-271, N-3, N-1, N-2
 
 Related Nodes: N-10344
 
@@ -1300,7 +1300,7 @@ Claim Timestamp: 00:46:06
 Claim: Candace Owens retained separate security from Charlie Kirk's from the beginning; Charlie's initial security was Shafer Security, operated by Greg Shafer, employing Dan Flood and Brian Harpole.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-339, N-272, N-3, N-1, N-276
+Mentions: N-2, N-336, N-270, N-3, N-1, N-274
 
 Related Nodes: N-10344
 
@@ -1375,7 +1375,7 @@ Claim Timestamp: 00:53:11
 Claim: Turkey Tom produced a video asserting that he was in Discord chats with Tyler Robinson and that the published message style is authentic.
 
 Anchored Artifacts: A-1549.1
-Mentions: N-213, N-335, N-340, N-40
+Mentions: N-213, N-332, N-337, N-40
 
 
 Investigative Direction: Verify Turkey Tom's claimed Discord membership through chat logs or other participants.
@@ -1404,7 +1404,7 @@ Claim Timestamp: 00:56:14
 Claim: Per Candace, Kash Patel expressed anger at Tulsi Gabbard and Joe Kent for investigating a potential terrorist angle to the Kirk case.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-69, N-213, N-336
+Mentions: N-69, N-213, N-333
 
 Related Nodes: N-10355
 
@@ -1449,7 +1449,7 @@ Claim Timestamp: 00:51:02
 Claim: On the Charlie Kirk Show, Andrew Seifer was identified as TPUSA's head of field.
 
 Anchored Artifacts: A-1544.2
-Mentions: N-338
+Mentions: N-335
 
 Related Nodes: N-10343
 
@@ -1464,7 +1464,7 @@ Claim Timestamp: 00:51:02
 Claim: On the Charlie Kirk Show, a speaker stated that TPUSA had posted the UVU courtyard location on its website as early as August 27.
 
 Anchored Artifacts: A-1544.2
-Mentions: N-338
+Mentions: N-335
 
 Related Nodes: N-10343
 
@@ -1542,7 +1542,7 @@ Investigative Direction: Verify the quotation against the cited Charlie Kirk sou
 - **Name inconsistency:** "Rob McCoy" and "Robin McCoy" both appear; presumed same individual.
 - **Name inconsistency:** "Andrew Kolvet" and "Andrew Kolb" both appear in transcript; unclear whether same individual. Preserved both as written.
 - **Name inconsistency:** "Brian Harpole" and "Brian Harpool" both appear; presumed same individual.
-- **Name inconsistency:** "Justin Streif" and "Justin Stripe" both appear; presumed same individual.
+- **Name inconsistency:** "Justin Streiff" and "Justin Streiff" both appear; presumed same individual.
 - **Name inconsistency:** "Wachuka" and "Wa Chuka" both appear; presumed same location.
 - **Artifact verbally referenced but not shown:** A-1547.1, A-1548.1, A-1549.1 are referenced by host but not displayed in episode.
 - **Transcript ambiguity:** Danny McCoy reference initially made, then corrected on air to a different "Danny" who is a Charlie Kirk assistant – flagged for downstream review.

@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 6e756e4348b0394d7192565879b6931826d6ba20924657099ff19f450d9aa60d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-857, N-858, N-859, N-860, N-861, N-11226, N-11227
-  - Hole-minted Nodes (reintro-ep026): N-606, N-10338, N-10482, N-10587, N-10628, N-10630, N-10715
+  - Tip-minted Nodes (supplement_2026-10d): N-850, N-851, N-852, N-853, N-854, N-11226, N-11227
+  - Hole-minted Nodes (reintro-ep026): N-601, N-10338, N-10482, N-10587, N-10628, N-10630, N-10715
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9513–C-9583
-  - New Nodes Introduced: N-225, N-227, N-229, N-10224, N-10225, N-10226, N-10227
+  - New Nodes Introduced: N-225, N-227, N-228, N-10224, N-10225, N-10226, N-10227
   - Reused Nodes Appearing: N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-102, N-120, N-132, N-184, N-205, N-215, N-221, N-10002, N-10012, N-10064, N-10073, N-10124, N-10149, N-10193, N-10194, N-10198, N-10199, N-10202, N-10217, N-10218, N-10222, N-10324, N-10917, N-11100, N-226
   - (see registers)
 
@@ -38,7 +38,7 @@
 
 - **Artifact Families Introduced:** A-1333, A-1334, A-1335, A-1336, A-1337, A-1338, A-1339, A-1340, A-1341, A-1342, A-1343, A-1344
 - **Claim Range:** C-1598–C-1616
-- **New People Nodes Introduced:** N-225, N-194, N-162, N-107, N-226, N-227, N-60, N-14, N-56, N-229, N-17
+- **New People Nodes Introduced:** N-225, N-194, N-162, N-107, N-226, N-227, N-60, N-14, N-56, N-228, N-17
 - **New Investigation Target Nodes Introduced:** N-10224, N-10225, N-10226, N-10227
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:24:28–00:25:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1608, N-225, N-229*
+*Related: C-1608, N-225, N-228*
 
 ---
 
@@ -376,7 +376,7 @@ Claim Count: 7
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1336.1, A-1336.2, A-1337.1, A-1337.2, A-1338.1, C-1602, C-1603, C-1604, C-1605, C-1606, C-1607, C-1608, N-107, N-226, N-56, N-229*
+*Related: A-1336.1, A-1336.2, A-1337.1, A-1337.2, A-1338.1, C-1602, C-1603, C-1604, C-1605, C-1606, C-1607, C-1608, N-107, N-226, N-56, N-228*
 
 **N-194** Mikey McCoy
 
@@ -455,7 +455,7 @@ Investigative Pressure: Low
 
 *Related: A-1337.1, C-1606, N-225*
 
-**N-229** Shawn Ryan
+**N-228** Shawn Ryan
 
 Host of the Shawn Ryan Show, on which Brett Cooper appeared.
 
@@ -708,7 +708,7 @@ Eliza McCoy (host says "Elizabeth McCoy"); Mikey McCoy's wife in the host's thre
 
 ---
 
-**N-606** Jordan Peterson
+**N-601** Jordan Peterson
 
 Jordan Peterson; subject of a viewer comment.
 
@@ -900,7 +900,7 @@ Existing topic reused for the first-aid claims.
 
 ---
 
-**N-857** Andrew Cuomo
+**N-850** Andrew Cuomo
 
 First named by the host at 00:09:05 in episode 26. Former New York governor who ran against Zohran Mamdani in the 2025 NYC mayoral race; the host says Republicans earlier called him corrupt.
 
@@ -910,7 +910,7 @@ Aliases: Kuomo
 
 ---
 
-**N-858** Michael Bloomberg
+**N-851** Michael Bloomberg
 
 First named by the host at 00:10:00 in episode 26. Billionaire the host says gave $8.3 million to a Cuomo-affiliated super PAC opposing Mamdani.
 
@@ -918,7 +918,7 @@ First named by the host at 00:10:00 in episode 26. Billionaire the host says gav
 
 ---
 
-**N-859** Joe Gebbia
+**N-852** Joe Gebbia
 
 First named by the host at 00:10:00 in episode 26 as the Airbnb co-founder "Joseph Gbia", whom she says gave $3.1 million against Mamdani.
 
@@ -928,7 +928,7 @@ Aliases: Joseph Gbia
 
 ---
 
-**N-860** Jeffrey Moussaieff Masson
+**N-853** Jeffrey Moussaieff Masson
 
 First named by the host at 00:56:15 in episode 26 (transcribed "Jeffrey Mason" and "Jeffrey Mone"). Author of The Assault on Truth, whom the host cites on Freud and the Freud archives.
 
@@ -938,7 +938,7 @@ Aliases: Jeffrey Mason; Jeffrey Mone
 
 ---
 
-**N-861** Theodor Herzl
+**N-854** Theodor Herzl
 
 First named by the host at 00:54:27 in episode 26 (transcribed "Theodore Herzel"). Founder of political Zionism whom the host links to Freud.
 
@@ -1119,7 +1119,7 @@ Claim Timestamp: 00:24:28–00:25:20
 Claim: Brett Cooper appeared on the Shawn Ryan Show and discussed her mother's visits to mediums following the death of her twin brother.
 
 Anchored Artifacts: A-1338.1
-Mentions: N-225, N-229
+Mentions: N-225, N-228
 
 
 Investigative Direction: Locate the full Shawn Ryan Show episode for complete context and date verification.
@@ -1429,7 +1429,7 @@ Claim: The host says Zohran Mamdani won pretty handily against Andrew Cuomo desp
 Transcript Snippet: He won pretty handily against Andrew Cuomo, which like 5 minutes ago, the Republican party was telling us he was unbelievably corrupt and that he should be in prison.
 
 Anchored Artifacts: 
-Mentions: N-227, N-857, N-3
+Mentions: N-227, N-850, N-3
 Related Nodes: N-11226
 Tags: relevance:context
 Investigative Direction: Check certified NYC mayoral results and the dated Republican statements about Cuomo.
@@ -1461,7 +1461,7 @@ Claim: The host says Michael Bloomberg gave $8.3 million to a Cuomo-affiliated s
 Transcript Snippet: He gave $8.3 million to Stop Mand Donnie and it didn't matter.
 
 Anchored Artifacts: 
-Mentions: N-858, N-859, N-227
+Mentions: N-851, N-852, N-227
 Related Nodes: N-11226
 Tags: relevance:context
 Investigative Direction: Check NYC Campaign Finance Board and super PAC filings for each donor's contribution.
@@ -1477,7 +1477,7 @@ Claim: In the debate clip, Andrew Cuomo says that, given hostility and anti-semi
 Transcript Snippet: given the hostility and the anti-semitism that has been uh shown in New York, I would go to Israel.
 
 Anchored Artifacts: A-1334.1
-Mentions: N-857
+Mentions: N-850
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the unedited mayoral debate video and confirm which candidate gave each answer.
@@ -1733,7 +1733,7 @@ Claim: In the Shawn Ryan clip, Brett Cooper says her mother visited multiple med
 Transcript Snippet: she was able to speak to Don, her first husband, to hear from him.
 
 Anchored Artifacts: A-1338.1
-Mentions: N-225, N-229
+Mentions: N-225, N-228
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Locate the full Shawn Ryan episode featuring Cooper.
@@ -1749,7 +1749,7 @@ Claim: The host says Brett Cooper told on the Shawn Ryan Show that one of her tw
 Transcript Snippet: one of her twin brothers dropped dead from a heart attack unexpectedly.
 
 Anchored Artifacts: A-1338.1
-Mentions: N-225, N-229
+Mentions: N-225, N-228
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Locate the full Shawn Ryan episode and confirm what Cooper said about her brothers.
@@ -2249,7 +2249,7 @@ Claim: The host recommends starting with Jeffrey Masson's The Assault on Truth a
 Transcript Snippet: I would start with the assault on truth from by Jeffrey Mason and then move on to this most critical book uh which is Sigman Freud in the Jewish Mystical Tradition.
 
 Anchored Artifacts: 
-Mentions: N-860, N-50, N-861, N-3
+Mentions: N-853, N-50, N-854, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: None: reading recommendation recorded as said on air.
@@ -2265,7 +2265,7 @@ Claim: The host says Sigmund Freud mainstreamed gaslighting people he harmed, wh
 Transcript Snippet: That is why they celebrate Sigman Freud is because he mainstreamed gaslighting people that they harmed.
 
 Anchored Artifacts: 
-Mentions: N-50, N-860
+Mentions: N-50, N-853
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check Masson's published work on Freud and his role at the Freud Archives.
@@ -2281,7 +2281,7 @@ Claim: The host says she did not know Jordan Peterson got sick while in Israel, 
 Transcript Snippet: I did not know that he got sick while he was in Israel.
 
 Anchored Artifacts: A-3020.2
-Mentions: N-606, N-3
+Mentions: N-601, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: None: host states no knowledge; a viewer comment prompted it.

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 47a250b4a7d456b87206c9f6ac24514ef27c6643b47dd4ad849208b1da6b7ce1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-770, N-11102, N-11104, N-11105
+  - Tip-minted Nodes (supplement_2026-10b): N-764, N-11102, N-11104, N-11105
   - Hole-minted Nodes (reintro-ep025): N-10243, N-10253, N-10495, N-10675, N-10717
   - Tip-minted Nodes (reintro-ep025): N-11009
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -671,7 +671,7 @@ Existing topic reused for the viewer comment and the host's identification.
 
 ---
 
-**N-770** Glenn Greenwald
+**N-764** Glenn Greenwald
 
 First named in the Tucker Carlson clip at 00:35:17 in episode 25. Journalist Tucker Carlson says he once hated and now counts a favorite.
 
@@ -1427,7 +1427,7 @@ Claim: In the clip played, Tucker Carlson says he hated Glenn Greenwald and now 
 Transcript Snippet: I hated Glenn Greenwald. Now I think he's one of my favorite people in the world
 
 Anchored Artifacts: A-1329.1
-Mentions: N-22, N-770
+Mentions: N-22, N-764
 Tags: relevance:tangential
 Investigative Direction: Check Tucker Carlson's earlier public statements about Glenn Greenwald.
 

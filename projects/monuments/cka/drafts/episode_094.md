@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-10623, N-10625, N-10626, N-10627, N-10629, N-10632, N-10633, N-10634, N-10636
-  - Hole-minted Nodes (wave3): N-435, N-436
+  - Hole-minted Nodes (wave3): N-431, N-432
   - Reused Nodes Appearing: N-10631, N-10628, N-10635, N-10630, N-10624
   - (see registers)
 
@@ -314,7 +314,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:00:40
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-348 (Victor Marx), N-10636*
+*Related: N-345 (Victor Marx), N-10636*
 
 **A-2005.10** Comment by user "Queen Saxi" raising Tyler Robinson's roommate as potential suspect
 
@@ -343,13 +343,13 @@ Confidence Level: Low – Artifact verbally referenced but not shown
 
 ## 4. Node Register
 
-**N-435** Richard Novak
+**N-431** Richard Novak
 
 First named by the host at 00:10:02 in episode 94. Aliases: Richard Novac.
 
 *Related: C-2767*
 
-**N-436** Alan Jacoby
+**N-432** Alan Jacoby
 
 First named by the host at 00:41:44 in episode 94.
 
@@ -592,7 +592,7 @@ Claim Timestamp: 00:10:02
 Claim: Defense attorney Richard Novak states the defense has not received the data files (electronic quantification/digitization of physical evidence) from ATF/FBI forensic examiners needed to analyze statistical results.
 
 Anchored Artifacts: A-1994.1
-Mentions: N-435
+Mentions: N-431
 
 Related Nodes: N-10623, N-10624
 
@@ -768,7 +768,7 @@ Claim Timestamp: 00:41:44
 Claim: Alan Jacoby publicly alleged Laura Loomer groped him at Bedminster while watching a golf tournament with President Trump.
 
 Anchored Artifacts: A-1998.1
-Mentions: N-60, N-436
+Mentions: N-60, N-432
 
 Related Nodes: N-10629
 

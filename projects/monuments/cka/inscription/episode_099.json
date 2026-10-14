@@ -54,7 +54,7 @@
             "C-2858"
           ],
           "related_nodes": [
-            "N-337"
+            "N-334"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -213,7 +213,7 @@
             "C-2869"
           ],
           "related_nodes": [
-            "N-383"
+            "N-380"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -239,7 +239,7 @@
             "C-2871"
           ],
           "related_nodes": [
-            "N-384"
+            "N-131"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -296,7 +296,7 @@
             "C-2875"
           ],
           "related_nodes": [
-            "N-382"
+            "N-379"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -345,8 +345,8 @@
             "C-2878"
           ],
           "related_nodes": [
-            "N-495",
-            "N-496"
+            "N-490",
+            "N-491"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -371,7 +371,7 @@
             "C-2879"
           ],
           "related_nodes": [
-            "N-495"
+            "N-490"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -396,8 +396,8 @@
             "C-2880"
           ],
           "related_nodes": [
-            "N-496",
-            "N-495"
+            "N-491",
+            "N-490"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -414,7 +414,7 @@
             "C-2881"
           ],
           "related_nodes": [
-            "N-496"
+            "N-491"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -439,8 +439,8 @@
             "C-2882"
           ],
           "related_nodes": [
-            "N-496",
-            "N-495"
+            "N-491",
+            "N-490"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -614,8 +614,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-495",
-        "N-496"
+        "N-490",
+        "N-491"
       ]
     },
     {
@@ -676,8 +676,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-382",
-      "ref": "N-382",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Harmeet Dhillon",
       "type": "person",
       "description": "Assistant Attorney General for Civil Rights, sworn in April 7, 2025 per the host's timeline (36:54); the host says both FARA-registered companies worked with \"Harmeet Dhillon's Dhillon Law Group firm\" (19:09).",
@@ -695,8 +695,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-383",
-      "ref": "N-383",
+      "@id": "N-380",
+      "ref": "N-380",
       "name": "Lara Trump",
       "type": "person",
       "description": "Named (31:21) in the Salem Media announcement of a landmark deal with Donald Trump Jr. and Lara Trump (\"that's Eric Trump's wife\").",
@@ -714,8 +714,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Commentator whose show segment on Pam Bondi disbanding the FBI Foreign Influence Task Force is played (33:16).",
@@ -733,8 +733,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-385",
-      "ref": "N-385",
+      "@id": "N-381",
+      "ref": "N-381",
       "name": "Ryan Reynolds",
       "type": "person",
       "description": "Actor, Blake Lively's husband; named (46:25, 49:08) as having developed the Deadpool character that mocks Justin Baldoni.",
@@ -750,8 +750,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-386",
-      "ref": "N-386",
+      "@id": "N-382",
+      "ref": "N-382",
       "name": "Hugh Jackman",
       "type": "person",
       "description": "Actor in Deadpool & Wolverine; named by the host (49:08, 51:02), including arriving at the It Ends With Us premiere.",
@@ -855,8 +855,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-440",
-      "ref": "N-440",
+      "@id": "N-436",
+      "ref": "N-436",
       "name": "Brad Parscale",
       "type": "person",
       "description": "First named by the host at 00:16:06 in episode 99.",
@@ -937,7 +937,7 @@
       "claim_timestamp": "00:06:41",
       "investigative_direction": "Obtain full unedited Coleman segment; verify no other named attribution in original show notes.",
       "mentions_person_refs": [
-        "N-337",
+        "N-334",
         "N-1"
       ]
     },
@@ -1048,7 +1048,7 @@
       "claim_timestamp": "00:16:57",
       "investigative_direction": "Verify corporate registration records for Clock Tower X LLC.",
       "mentions_person_refs": [
-        "N-440"
+        "N-436"
       ]
     },
     {
@@ -1084,7 +1084,7 @@
       "claim_timestamp": "00:16:57",
       "investigative_direction": "Cross-check Salem press releases and LinkedIn / corporate filings for Parscale's title and dates.",
       "mentions_person_refs": [
-        "N-440"
+        "N-436"
       ]
     },
     {
@@ -1123,7 +1123,7 @@
       "investigative_direction": "Obtain Salem's official press release and SEC / corporate disclosures.",
       "mentions_person_refs": [
         "N-33",
-        "N-383"
+        "N-380"
       ]
     },
     {
@@ -1165,7 +1165,7 @@
       "investigative_direction": "Obtain DOJ memorandum directly; confirm effective date and operative language.",
       "mentions_person_refs": [
         "N-85",
-        "N-384"
+        "N-131"
       ]
     },
     {
@@ -1203,7 +1203,7 @@
       "claim_timestamp": "00:36:54",
       "investigative_direction": "Confirm via DOJ announcement and Senate confirmation records.",
       "mentions_person_refs": [
-        "N-382"
+        "N-379"
       ]
     },
     {
@@ -1295,8 +1295,8 @@
       "claim_timestamp": "00:47:29",
       "investigative_direction": "Obtain the actual April 2 court order; verify which claims survived and on what grounds.",
       "mentions_person_refs": [
-        "N-495",
-        "N-496"
+        "N-490",
+        "N-491"
       ]
     },
     {
@@ -1315,7 +1315,7 @@
       "claim_timestamp": "00:47:29",
       "investigative_direction": "Verify against Lively's official public statement archive.",
       "mentions_person_refs": [
-        "N-495"
+        "N-490"
       ]
     },
     {
@@ -1334,7 +1334,7 @@
       "claim_timestamp": "00:48:28",
       "investigative_direction": "Obtain screenshot of the Community Notes annotation; capture timestamp and full text.",
       "mentions_person_refs": [
-        "N-495"
+        "N-490"
       ]
     },
     {
@@ -1351,10 +1351,10 @@
       "claim_timestamp": "00:50:04",
       "investigative_direction": "Verify via official film credits and supplementary marketing material; confirm Baldoni-as-target framing.",
       "mentions_person_refs": [
-        "N-495",
-        "N-496",
-        "N-385",
-        "N-386"
+        "N-490",
+        "N-491",
+        "N-381",
+        "N-382"
       ]
     },
     {
@@ -1371,7 +1371,7 @@
       "claim_timestamp": "00:50:30",
       "investigative_direction": "Obtain deleted scene footage or trade press reporting on cut material.",
       "mentions_person_refs": [
-        "N-496"
+        "N-491"
       ]
     },
     {
@@ -1388,9 +1388,9 @@
       "claim_timestamp": "00:51:57",
       "investigative_direction": "Obtain independent eyewitness corroboration and any press coverage of the premiere seating arrangement.",
       "mentions_person_refs": [
-        "N-495",
-        "N-496",
-        "N-386"
+        "N-490",
+        "N-491",
+        "N-382"
       ]
     },
     {

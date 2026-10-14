@@ -150,7 +150,7 @@
             "C-1776"
           ],
           "related_nodes": [
-            "N-285",
+            "N-283",
             "N-10276"
           ],
           "tags": [],
@@ -177,8 +177,8 @@
             "C-1777"
           ],
           "related_nodes": [
-            "N-279",
-            "N-281"
+            "N-277",
+            "N-279"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -204,8 +204,8 @@
             "C-1778"
           ],
           "related_nodes": [
-            "N-279",
-            "N-280"
+            "N-277",
+            "N-278"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -231,9 +231,9 @@
             "C-1779"
           ],
           "related_nodes": [
-            "N-279",
-            "N-280",
-            "N-286"
+            "N-277",
+            "N-278",
+            "N-284"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,7 +260,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-282",
+            "N-280",
             "N-10281"
           ],
           "tags": [],
@@ -286,8 +286,8 @@
           "related_claims": [],
           "related_nodes": [
             "N-3",
-            "N-283",
-            "N-284",
+            "N-281",
+            "N-282",
             "N-10282"
           ],
           "tags": [],
@@ -318,7 +318,7 @@
             "C-9781"
           ],
           "related_nodes": [
-            "N-285",
+            "N-283",
             "N-22",
             "N-1"
           ],
@@ -346,7 +346,7 @@
             "C-9800"
           ],
           "related_nodes": [
-            "N-314",
+            "N-311",
             "N-1"
           ],
           "tags": [],
@@ -408,8 +408,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-274",
-            "N-384"
+            "N-272",
+            "N-131"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -527,8 +527,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-277",
+      "ref": "N-277",
       "name": "Mike Huckabee",
       "type": "person",
       "description": "U.S. Ambassador to Israel; subject of Jerusalem performance video and Pollard meeting coverage.",
@@ -548,15 +548,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-280",
-        "N-281",
-        "N-286"
+        "N-278",
+        "N-279",
+        "N-284"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-280",
-      "ref": "N-280",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Jonathan Pollard",
       "type": "person",
       "description": "Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.",
@@ -574,13 +574,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-279"
+        "N-277"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-281",
-      "ref": "N-281",
+      "@id": "N-279",
+      "ref": "N-279",
       "name": "David Friedman",
       "type": "person",
       "description": "Former U.S. Ambassador to Israel; co-performer with Huckabee at Jerusalem event.",
@@ -596,13 +596,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-279"
+        "N-277"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-282",
-      "ref": "N-282",
+      "@id": "N-280",
+      "ref": "N-280",
       "name": "Ashley Rinzberg",
       "type": "person",
       "description": "Free Press writer; sent email to host requesting comment on multiple shows.",
@@ -624,8 +624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-283",
-      "ref": "N-283",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Independent commentator; provided audio clip characterizing Bari Weiss at CBS News.",
@@ -640,13 +640,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-3",
-        "N-284"
+        "N-282"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Editor-in-chief / CBS News installation (per host and Tim Dylan clip); co-owner of The Free Press.",
@@ -660,14 +660,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-283",
+        "N-281",
         "N-10282"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-285",
-      "ref": "N-285",
+      "@id": "N-283",
+      "ref": "N-283",
       "name": "Bob Evan",
       "type": "person",
       "description": "Nebraska Secretary of State; announced Egypt trade mission per news clip.",
@@ -688,8 +688,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-286",
-      "ref": "N-286",
+      "@id": "N-284",
+      "ref": "N-284",
       "name": "Karoline Leavitt",
       "type": "person",
       "description": "White House Press Secretary; quoted on Huckabee–Pollard meeting.",
@@ -705,8 +705,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-279",
-        "N-280"
+        "N-277",
+        "N-278"
       ]
     },
     {
@@ -797,7 +797,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-285"
+        "N-283"
       ]
     },
     {
@@ -891,8 +891,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-282",
-        "N-284"
+        "N-280",
+        "N-282"
       ]
     },
     {
@@ -914,7 +914,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-282"
+        "N-280"
       ]
     },
     {
@@ -934,7 +934,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -1189,8 +1189,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-251",
-      "ref": "N-251",
+      "@id": "N-250",
+      "ref": "N-250",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "Brother of Pastor Jack Hibbs; the host says he attended after a phone call to Charlie.",
@@ -1206,8 +1206,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Subject of a viewer comment about self-censorship on Israel.",
@@ -1223,8 +1223,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-314",
-      "ref": "N-314",
+      "@id": "N-311",
+      "ref": "N-311",
       "name": "Jacob Kasparian",
       "type": "person",
       "description": "Person the host identifies as having emerged from behind the bush.",
@@ -1244,11 +1244,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Ian Carroll",
       "type": "person",
-      "description": "Guest the host says Rogan had on to discuss Israel (transcribed Ian Carol).",
+      "description": "Guest the host says Rogan had on to discuss Israel (transcribed Ian Carroll).",
       "related_artifacts": [],
       "related_claims": [
         "C-9829"
@@ -1750,8 +1750,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-866",
-      "ref": "N-866",
+      "@id": "N-859",
+      "ref": "N-859",
       "name": "Amber Robinson",
       "type": "person",
       "description": "First named by the host at 00:17:18 in episode 37. Tyler Robinson's mother, per the host's reference to photos of her visiting an uncle Mitchell.",
@@ -1956,7 +1956,7 @@
       "claim_timestamp": "00:12:13",
       "investigative_direction": "Locate the original announcement on the Nebraska Secretary of State website or press release archive; identify participating delegates.",
       "mentions_person_refs": [
-        "N-285"
+        "N-283"
       ]
     },
     {
@@ -1973,8 +1973,8 @@
       "claim_timestamp": "00:26:00",
       "investigative_direction": "Identify the event organizer, venue, and date.",
       "mentions_person_refs": [
-        "N-279",
-        "N-281"
+        "N-277",
+        "N-279"
       ]
     },
     {
@@ -1991,8 +1991,8 @@
       "claim_timestamp": "00:26:15",
       "investigative_direction": "Identify the headline outlet and obtain the underlying interview/transcript from Pollard.",
       "mentions_person_refs": [
-        "N-279",
-        "N-280"
+        "N-277",
+        "N-278"
       ]
     },
     {
@@ -2009,9 +2009,9 @@
       "claim_timestamp": "00:28:14",
       "investigative_direction": "Locate full White House briefing transcript or video.",
       "mentions_person_refs": [
-        "N-279",
-        "N-280",
-        "N-286"
+        "N-277",
+        "N-278",
+        "N-284"
       ]
     },
     {
@@ -2032,7 +2032,7 @@
       "investigative_direction": "Confirm whether the article was published and whether Rinzberg is correctly identified by the outlet's masthead.",
       "mentions_person_refs": [
         "N-3",
-        "N-282",
+        "N-280",
         "N-1"
       ]
     },
@@ -2351,7 +2351,7 @@
         "C-1776"
       ],
       "mentions_person_refs": [
-        "N-285"
+        "N-283"
       ]
     },
     {
@@ -2376,7 +2376,7 @@
         "C-1776"
       ],
       "mentions_person_refs": [
-        "N-285"
+        "N-283"
       ]
     },
     {
@@ -2640,7 +2640,7 @@
         "C-1673"
       ],
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-212",
         "N-1"
       ]
@@ -2681,7 +2681,7 @@
       "transcript_snippet": "Tyler Robinson is a boy scout whose uncle Mitchell may be related. People have pulled this off of the internet, and I don't have a photo for you today.",
       "mentions_person_refs": [
         "N-40",
-        "N-866"
+        "N-859"
       ]
     },
     {
@@ -2783,7 +2783,7 @@
       "investigative_direction": "Verify the identification through event footage and ask Kasparian to account for his position; the host does not allege wrongdoing.",
       "transcript_snippet": "His name is this person that was behind the bush is Jacob Kasparian.",
       "mentions_person_refs": [
-        "N-314"
+        "N-311"
       ]
     },
     {
@@ -2805,7 +2805,7 @@
       "investigative_direction": "Capture the archived September 10 post and later posts by Kasparian and family members.",
       "transcript_snippet": "they had posted on September 10th about uh their bulletproof skateboard",
       "mentions_person_refs": [
-        "N-314",
+        "N-311",
         "N-1"
       ]
     },
@@ -2826,7 +2826,7 @@
       "investigative_direction": "Verify the father's LDS temple role through Church records or announcements.",
       "transcript_snippet": "president of uh the Mormon temple in Los Angeles.",
       "mentions_person_refs": [
-        "N-314"
+        "N-311"
       ]
     },
     {
@@ -2844,7 +2844,7 @@
       "investigative_direction": "Request the host's sourcing on the father's alleged Middle East ties.",
       "transcript_snippet": "And then it just kind of becomes like a dark hole trying to figure out his father and his father's connections to the Middle East.",
       "mentions_person_refs": [
-        "N-314"
+        "N-311"
       ]
     },
     {
@@ -2865,7 +2865,7 @@
       "investigative_direction": "Confirm via footage the shirt color and the person's identity.",
       "transcript_snippet": "But yes, he as well was wearing a maroon shirt.",
       "mentions_person_refs": [
-        "N-314"
+        "N-311"
       ]
     },
     {
@@ -3003,7 +3003,7 @@
         "C-1778"
       ],
       "mentions_person_refs": [
-        "N-280",
+        "N-278",
         "N-36"
       ]
     },
@@ -3025,7 +3025,7 @@
       "investigative_direction": "Check corporate records of The Free Press ownership and the date of its acquisition or change.",
       "transcript_snippet": "Barry Weiss started and is a part owner at least of the free press before before she went on to CBS News.",
       "mentions_person_refs": [
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -3047,7 +3047,7 @@
       "investigative_direction": "Verify Rinzberg's residence from his public bios and bylines.",
       "transcript_snippet": "Are you shocked if I tell you that Ashley Rinsberg, he happens to live in Tel Aviv?",
       "mentions_person_refs": [
-        "N-282"
+        "N-280"
       ]
     },
     {
@@ -3066,7 +3066,7 @@
       "transcript_snippet": "I make one slight mention joke about Alexis Wilkins, referring to Tim Dylan's content and us getting a strike, and she goes on a rant against me, not against Tim Dylan.",
       "mentions_person_refs": [
         "N-216",
-        "N-283",
+        "N-281",
         "N-3"
       ]
     },
@@ -3091,7 +3091,7 @@
       ],
       "mentions_person_refs": [
         "N-82",
-        "N-283",
+        "N-281",
         "N-3"
       ]
     },
@@ -3115,8 +3115,8 @@
       "investigative_direction": "Treat as satirical commentary; compare with Weiss's own statements on her CBS mandate.",
       "transcript_snippet": "I'm here to make it a vessel of state propaganda. Which state? Well, we know which state. It's not America.",
       "mentions_person_refs": [
-        "N-283",
-        "N-284"
+        "N-281",
+        "N-282"
       ]
     },
     {
@@ -3138,8 +3138,8 @@
       "investigative_direction": "Check reporting on who recommended or hired Weiss at CBS (Paramount Skydance leadership).",
       "transcript_snippet": "She knows it. We know it. Larry Ellison hired her to do it.",
       "mentions_person_refs": [
-        "N-283",
-        "N-284",
+        "N-281",
+        "N-282",
         "N-143"
       ]
     },
@@ -3162,7 +3162,7 @@
       "investigative_direction": "Look for reporting on any Paramount blacklist of actors.",
       "transcript_snippet": "They've already got a blacklist of actors who will never work at Paramount.",
       "mentions_person_refs": [
-        "N-283"
+        "N-281"
       ]
     },
     {
@@ -3398,8 +3398,8 @@
       "investigative_direction": "Check the Rogan episode with Ian Carroll and Rogan's on-air mentions of the host.",
       "transcript_snippet": "Uh yeah, Joe Rogan has definitely taken a lot of risks. I haven't seen it and he definitely has shouted out this podcast",
       "mentions_person_refs": [
-        "N-274",
-        "N-384",
+        "N-272",
+        "N-131",
         "N-3"
       ]
     }

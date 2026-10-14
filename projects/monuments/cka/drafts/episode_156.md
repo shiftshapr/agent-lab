@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-805, N-11151, N-11152
+  - Tip-minted Nodes (supplement_2026-10b): N-799, N-11151, N-11152
   - Hole-minted Nodes (reintro-ep156): N-10860
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7776–C-7835
   - New Nodes Introduced: N-10851, N-10852, N-10854, N-10855
-  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10853, N-5, N-22, N-36, N-46, N-54, N-162, N-192, N-337, N-10000, N-10051, N-10090, N-10168, N-10381, N-10417, N-10541, N-10598, N-10625, N-10811, N-10850, N-10977, N-10980, N-11091
+  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10853, N-5, N-22, N-36, N-46, N-54, N-162, N-192, N-334, N-10000, N-10051, N-10090, N-10168, N-10381, N-10417, N-10541, N-10598, N-10625, N-10811, N-10850, N-10977, N-10980, N-11091
   - (see registers)
 
 # Episode 156 Analysis
@@ -386,7 +386,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 
 ---
 
-**N-337** Baron Coleman
+**N-334** Baron Coleman
 
 Co-investigator the host says she will hand the show to before maternity leave and make a sizzle reel with.
 
@@ -410,7 +410,7 @@ Widow and TPUSA CEO; the host criticizes her video release, donation email and p
 
 ---
 
-**N-805** Angel Castro
+**N-799** Angel Castro
 
 First named by the host at 00:01:40 in episode 156 (spelled "Angel Castro Castro" in the transcript). Person the host places near the van in the tent footage.
 
@@ -820,7 +820,7 @@ Claim: The host says she spoke with Baron Coleman that day and that the two of t
 Transcript Snippet: I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot
 
 Anchored Artifacts: 
-Mentions: N-3, N-337
+Mentions: N-3, N-334
 Tags: relevance:context
 Investigative Direction: Check whether a combined chronological footage compilation from the host and Coleman was later published and whether it matches the clips already aired.
 
@@ -851,7 +851,7 @@ Claim: The host says the person standing by the van near Angel Castro was wearin
 Transcript Snippet: He was wearing red that day.
 
 Anchored Artifacts: A-2416.1
-Mentions: N-3, N-10, N-805
+Mentions: N-3, N-10, N-799
 Related Nodes: N-10860
 Supports: C-3531
 Tags: relevance:core
@@ -914,7 +914,7 @@ Claim: The host says she will hand everything over to Baron Coleman before going
 Transcript Snippet: Obviously, I'll be handing over everything to Baron
 
 Anchored Artifacts: 
-Mentions: N-3, N-337
+Mentions: N-3, N-334
 Tags: relevance:context
 Investigative Direction: Confirm any handover arrangement for the show and investigation between the host and Coleman.
 
@@ -1381,7 +1381,7 @@ Claim: The host says she needs to sit down, assemble the timeline and list clear
 Transcript Snippet: I really think that I need to sit down, get this timeline together, and have a clear list of questions
 
 Anchored Artifacts: 
-Mentions: N-3, N-337
+Mentions: N-3, N-334
 Tags: relevance:context
 Investigative Direction: Check for the promised timeline and question list.
 
@@ -1626,7 +1626,7 @@ Claim Timestamp: 00:45:44
 
 Claim: The host says that, if Erika Kirk felt she had to show the footage to prove she was not at Fort Huachuca, she should have done so in a sit-down with figures such as Megyn Kelly or Tucker Carlson.
 
-Transcript Snippet: to prove a point that you weren't at Fort Wuka
+Transcript Snippet: to prove a point that you weren't at Fort Huachuca
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-46, N-22

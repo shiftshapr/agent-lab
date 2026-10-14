@@ -207,7 +207,7 @@ Confidence Level: Low (promotional context; underlying sources not authenticated
 
 **A-1269** Viewer Comments Bundle (Candace Episode 252)
 
-**A-1269.1** Ian Carol comment: "Fishing takes time. You got to set the bait. It's so good to have you back, Candace."
+**A-1269.1** Ian Carroll comment: "Fishing takes time. You got to set the bait. It's so good to have you back, Candace."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -289,18 +289,18 @@ Investigative Pressure: High
 
 **N-7** Frank Turek
 
-Individual at the UVU event identified by host (and Ian Carol) as the only person who reacted normally – dropping to ground and crawling toward Charlie Kirk before helping escort him to the waiting car.
+Individual at the UVU event identified by host (and Ian Carroll) as the only person who reacted normally – dropping to ground and crawling toward Charlie Kirk before helping escort him to the waiting car.
 
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1481, N-Ian Carol (N-131)*
+*Related: C-1481, N-Ian Carroll (N-131)*
 
 ---
 
-**N-131** Ian Carol
+**N-131** Ian Carroll
 
 Internet investigator whose video work is cited by host regarding Frank Turk's reaction and whose viewer comment is read aloud (A-1269.1). Described as among those "not letting this go."
 
@@ -816,7 +816,7 @@ Investigative Direction: Obtain authoritative transcript of Kirk's on-stage rema
 
 Claim Timestamp: 00:56:09–00:57:03
 
-Claim: Host and Ian Carol characterize Frank Turk as the only person at the event who reacted normally – dropping to ground and crawling toward Kirk to assist.
+Claim: Host and Ian Carroll characterize Frank Turk as the only person at the event who reacted normally – dropping to ground and crawling toward Kirk to assist.
 
 Anchored Artifacts: None (assertion; no specific footage cited in episode for Turk's actions)
 Mentions: N-7, N-131
@@ -826,11 +826,11 @@ Investigative Direction: Locate video evidence corroborating Turk's specific mov
 
 ---
 
-**C-1482** Ian Carol Commented on Host's Return
+**C-1482** Ian Carroll Commented on Host's Return
 
 Claim Timestamp: 00:51:43
 
-Claim: Ian Carol commented: "Fishing takes time. You got to set the bait. It's so good to have you back, Candace."
+Claim: Ian Carroll commented: "Fishing takes time. You got to set the bait. It's so good to have you back, Candace."
 
 Anchored Artifacts: A-1269.1
 Mentions: N-131
@@ -977,7 +977,7 @@ Confidence: high
 - **Host inference treated as candidate investigation – "Mikey was already on a phone call at 12:23 p.m." (C-1462 framing):** The 12:23 p.m. figure is introduced by host as her own inference based on footage; the timestamp itself should be authenticated against the original footage's metadata clock.
 - **Claim failed admission test – C-1474:** Six-year college tour assertion is host testimonial without documentary anchor; inscribed as claim but with no artifact and low confidence.
 - **Claim failed admission test – C-1480:** "Charlie Kirk's last words" framed sarcastically; no documentary record provided; should not be treated as factual claim.
-- **Claim failed admission test – C-1481:** Frank Turk characterization is assertion based on host/Ian Carol recollection; no specific footage cited.
+- **Claim failed admission test – C-1481:** Frank Turk characterization is assertion based on host/Ian Carroll recollection; no specific footage cited.
 - **Requires human verification – Charlie Kirk text messages (A-1266 family):** Authentication of message metadata, device origin, and chain of custody has not been independently established in this episode. Host notes Mikey McCoy has access to all of Kirk's messages and could verify; this remains a host assertion.
 
 ---

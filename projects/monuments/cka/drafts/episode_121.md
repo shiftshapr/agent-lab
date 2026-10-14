@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-10682, N-10686, N-10691, N-10693
-  - Reused Nodes Appearing: N-10685, N-10687, N-10688, N-10689, N-10694, N-10683, N-10684, N-10690, N-10692, N-498, N-10695
+  - Reused Nodes Appearing: N-10685, N-10687, N-10688, N-10689, N-10694, N-10683, N-10684, N-10690, N-10692, N-493, N-10695
   - (see registers)
 
 ---
@@ -338,7 +338,7 @@ Confidence Level: High
 
 
 
-**N-498** Rick Cutler
+**N-493** Rick Cutler
 
 First named by the host at 00:10:43 in episode 121.
 
@@ -519,7 +519,7 @@ Claim Timestamp: 00:06:20–00:07:24
 Claim: Brian Harpole states in his account that he jumped on top of Charlie on a gurney in the ER and cut his white "Freedom" shirt off with scissors to enable defibrillator placement.
 
 Anchored Artifacts: A-2094.1
-Mentions: N-272
+Mentions: N-270
 Related Nodes: N-10683, N-10684
 Investigative Direction: Obtain full unedited Brian Harpole interview transcript; corroborate against any ER surveillance footage (if not destroyed) and ER staff testimony.
 
@@ -530,7 +530,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that the car door behind him remained open during the hospital ride because Charlie's leg was hanging out, and that Rick Cutler physically held Brian in place to prevent him from falling out.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-272, N-498
+Mentions: N-270, N-493
 Related Nodes: N-10686
 Investigative Direction: Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.
 
@@ -541,7 +541,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states they were traveling "60, 80, 100" mph while weaving through traffic on the way to the hospital.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-272
+Mentions: N-270
 Related Nodes: N-10686
 Investigative Direction: Cross-reference with traffic-cam and police-body-cam timestamps to estimate actual travel speed.
 
@@ -552,7 +552,7 @@ Claim Timestamp: 00:13:09–00:13:30
 Claim: Brian Harpole states he applied approximately 36 ft (12 yd) of dressing, four 4x4s, and two hemostatic 4x4s to Charlie's neck wound during the short ride.
 
 Anchored Artifacts: A-2094.3, A-2094.4
-Mentions: N-272
+Mentions: N-270
 Related Nodes: N-10695
 Investigative Direction: Compare dressing count against visible dressing/pack debris in car interior photos; obtain medical supply packaging for roll length verification.
 
@@ -563,7 +563,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that Frank Turek was praying out loud in the backseat during the hospital ride and did not assist with medical care.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-272, N-7
+Mentions: N-270, N-7
 Related Nodes: N-10686, N-10687
 Investigative Direction: Obtain Frank Turek's own account of his activity during the ride; identify any audio recording that could capture in-car speech.
 
@@ -574,7 +574,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that Rick Cutler reached across and held onto him so he would not fall out of the moving SUV while he attended to Charlie.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-272, N-498
+Mentions: N-270, N-493
 Related Nodes: N-10686
 Investigative Direction: Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.
 
@@ -607,7 +607,7 @@ Claim Timestamp: 00:19:32–00:20:25
 Claim: A video credited to Tara Farnsworth shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.
 
 Anchored Artifacts: A-2103.1
-Mentions: N-7, N-267
+Mentions: N-7, N-265
 Related Nodes: N-10685
 Investigative Direction: Obtain the original unedited Tara Farnsworth video; preserve metadata for chain-of-custody purposes.
 
@@ -638,7 +638,7 @@ Claim Timestamp: 00:16:18–00:16:50
 Claim: The car floor photos show one opened 4x4 EMS quick clot dressing pack, consistent in size and shape with the product image displayed; no additional opened packs are visible despite Brian Harpole's claimed use of multiple packs.
 
 Anchored Artifacts: A-2094.4, A-2096.1, A-2097.1
-Mentions: N-272
+Mentions: N-270
 Related Nodes: N-10685, N-10695
 Investigative Direction: High-resolution review of car floor photos for additional packaging remnants; obtain official product dimensions for verification.
 
@@ -712,7 +712,7 @@ Claim Timestamp: 00:51:15–00:51:45
 Claim: Judith Bronco (retired ER nurse, married to a retired ER doctor) submits a comment stating that Brian Harpole's story could not happen in a real ER and that interference from visitors in trauma rooms is strictly forbidden.
 
 Anchored Artifacts: A-2102.1
-Mentions: N-272
+Mentions: N-270
 Related Nodes: N-10683
 Investigative Direction: Independent verification of ER protocols from additional medical professionals; obtain hospital incident logs.
 
@@ -723,7 +723,7 @@ Claim Timestamp: 00:51:57
 Claim: Gina Schubert (22-year hospital nurse) submits a comment stating that Brian Harpole did not wheel Charlie into a room, jump on him, and cut off his clothes, and that the described events do not occur in any ER.
 
 Anchored Artifacts: A-2102.2
-Mentions: N-272
+Mentions: N-270
 Related Nodes: N-10683
 Investigative Direction: Same as C-2964.
 
@@ -755,7 +755,7 @@ Claim Timestamp: 00:13:09–00:14:33
 Claim: Brian Harpole states he was unsure if Charlie had a pulse and that his primary focus was bleed control with dressing rather than CPR.
 
 Anchored Artifacts: A-2094.3
-Mentions: N-272
+Mentions: N-270
 Related Nodes: N-10687
 Investigative Direction: Obtain full Brian Harpole interview transcript; cross-reference with hospital intake records regarding initial pulse detection.
 

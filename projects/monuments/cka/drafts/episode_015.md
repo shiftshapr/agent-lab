@@ -18,7 +18,7 @@
   - Claim Range (supplement_2026-10b): C-6449–C-6511
   - New Nodes Introduced: N-10162, N-10163, N-10164, N-10166, N-10167
   - Reused Nodes Appearing: N-1, N-2, N-11, N-10165, N-5, N-15, N-36, N-40, N-46, N-50, N-51, N-102, N-10000, N-10016, N-10025, N-10026, N-10100, N-10104, N-10117, N-10132, N-10139, N-10662, N-10350, N-11096
-  - Hole-minted Nodes (wave3): N-388
+  - Hole-minted Nodes (wave3): N-384
 
 ## 2. Executive Summary
 
@@ -379,7 +379,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-388** Dan Bongino
+**N-384** Dan Bongino
 
 First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.
 
@@ -863,7 +863,7 @@ Claim Timestamp: 00:38:03
 Claim: The same WSJ article quotes Alex Clark as praising FBI director Kash Patel and deputy Dan Bongino for their leadership in the suspect hunt, stating "we have them in office because of Charlie."
 
 Anchored Artifacts: A-1222.1
-Mentions: N-99, N-69, N-388
+Mentions: N-99, N-69, N-384
 
 Related Nodes: N-10166
 
@@ -1710,7 +1710,7 @@ Claim Timestamp: 00:39:45
 
 Claim: The host says that when she showed Charlie's internal email she read everything related to the DOJ department but not the paragraph where he announced that Justin Streiff would be COO.
 
-Transcript Snippet: I didn't read the paragraph where he announced that Justin Stripe would be the COO
+Transcript Snippet: I didn't read the paragraph where he announced that Justin Streiff would be the COO
 
 Anchored Artifacts: 
 Mentions: N-15, N-1, N-3

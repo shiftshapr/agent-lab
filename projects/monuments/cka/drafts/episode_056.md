@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: cd9e59e9564d3269c2ae61263c05f67dbccdca4b58de59c5ca01c69abc42da57
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-455, N-456, N-457, N-459, N-463, N-464, N-10409, N-10410, N-10412
-  - Reused Nodes Appearing: N-2, N-11, N-460, N-461, N-462, N-10411
+  - New Nodes Introduced: N-451, N-452, N-453, N-458, N-459, N-10409, N-10410, N-10412
+  - Reused Nodes Appearing: N-2, N-11, N-455, N-456, N-457, N-10411
   - (see registers)
 
 # Episode 56 Analysis Record
@@ -31,7 +31,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1617, A-1618, A-1619, A-1620, A-1621, A-1622, A-1623, A-1624, A-1625, A-1626, A-1627
   - Claim Range: C-2075 – C-2096
-  - New Person Nodes Introduced: N-455 through N-464
+  - New Person Nodes Introduced: N-451 through N-459
   - New Investigation Targets Introduced: N-10409, N-10410, N-10411, N-10412
   - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk
 
@@ -39,7 +39,7 @@
 
 ## II. Executive Summary
 
-Episode 56 presents three discrete evidentiary blocks. First, a re-presentation of Charlie Kirk's pre-death audio arguing against broader US military involvement in Iran, framed against current tensions and alleged flight/timeline anomalies involving a plane (SUBTU) linked to a "Wed Mahmoud." Second, a court petition filed in December 2024 challenging the will of Alton C. Jennings – a 95-year-old decedent whose $25M estate was reportedly redirected to Turning Point Action and YAF – introduced through host narration citing the underlying filing. Third, a profile of TPUSA board member Paul E. Valli (Valerie), former commander of the 7th Psychological Operations Group, and his co-authorship with Michael Aquino of *Mind War* (1980), tied to an audio interview clip of Aquino discussing the Temple of Set. A fourth block presents a public news reference to twelve lawsuits against Harvest Christian Fellowship/Greg Laurie alleging abuse at a Romanian children's home.
+Episode 56 presents three discrete evidentiary blocks. First, a re-presentation of Charlie Kirk's pre-death audio arguing against broader US military involvement in Iran, framed against current tensions and alleged flight/timeline anomalies involving a plane (SUBTU) linked to a "Wed Mahmoud." Second, a court petition filed in December 2024 challenging the will of Alton C. Jennings – a 95-year-old decedent whose $25M estate was reportedly redirected to Turning Point Action and YAF – introduced through host narration citing the underlying filing. Third, a profile of TPUSA board member Paul Vallely (Valerie), former commander of the 7th Psychological Operations Group, and his co-authorship with Michael Aquino of *Mind War* (1980), tied to an audio interview clip of Aquino discussing the Temple of Set. A fourth block presents a public news reference to twelve lawsuits against Harvest Christian Fellowship/Greg Laurie alleging abuse at a Romanian children's home.
 
 The episode's structural importance lies in expanding the investigation into TPUSA institutional architecture (board composition, estate-acquisition patterns, faith-division partnerships) and into alleged Romanian/US-military trafficking corridors.
 
@@ -56,7 +56,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:04:58
 Confidence Level: High
 
-*Related: C-2075, C-2076, N-1, N-463*
+*Related: C-2075, C-2076, N-1, N-458*
 
 **A-1618** Tucker Carlson Audio Bundle
 
@@ -65,7 +65,7 @@ Confidence Level: High
 Video Timestamp: 00:07:08
 Confidence Level: High
 
-*Related: C-2092, N-22, N-463*
+*Related: C-2092, N-22, N-458*
 
 **A-1619** Court Filing Bundle – Alton C. Jennings Will Challenge
 
@@ -77,25 +77,25 @@ Video Timestamp: 00:13:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host characterizes filing as allegations)
 
-*Related: C-2077, C-2078, C-2079, C-2080, N-455, N-456, N-457, N-41, N-10409*
+*Related: C-2077, C-2078, C-2079, C-2080, N-451, N-452, N-453, N-41, N-10409*
 
 **A-1620** TPUSA Board Member Profile Bundle
 
-**A-1620.1** Host-narrated reference to Paul E. Valli (Valerie) as a Turning Point USA board member, described as former military commander of the 7th Psychological Operations Group, with two Vietnam combat tours and postings in Japan, Korea, Iraq, Israel, and Europe.
+**A-1620.1** Host-narrated reference to Paul Vallely (Valerie) as a Turning Point USA board member, described as former military commander of the 7th Psychological Operations Group, with two Vietnam combat tours and postings in Japan, Korea, Iraq, Israel, and Europe.
 
 Video Timestamp: 00:18:40
 Confidence Level: Medium
 
-*Related: C-2081, N-459, N-10410*
+*Related: C-2081, N-808, N-10410*
 
 **A-1621** Mind War Book Reference Bundle
 
-**A-1621.1** Reference to the 1980 book *Mind War* co-authored by Paul Valli and Major Michael Aquino.
+**A-1621.1** Reference to the 1980 book *Mind War* co-authored by Paul Vallely and Major Michael Aquino.
 
 Video Timestamp: 00:21:42
 Confidence Level: Medium
 
-*Related: C-2082, N-459, N-460, N-10410*
+*Related: C-2082, N-808, N-455, N-10410*
 
 **A-1622** Michael Aquino Interview / Background Bundle
 
@@ -104,14 +104,14 @@ Confidence Level: Medium
 Video Timestamp: 00:22:54
 Confidence Level: High
 
-*Related: C-2084, N-460*
+*Related: C-2084, N-455*
 
 **A-1622.2** Host-narrated reference to Aquino joining the Church of Satan in 1969, rising to Magister Caverns of the fourth degree, editing *The Cloven Hoof*, and leaving in 1975 to found the Temple of Set after the LaVey/schism.
 
 Video Timestamp: 00:22:47
 Confidence Level: Medium
 
-*Related: C-2083, C-2084, N-460*
+*Related: C-2083, C-2084, N-455*
 
 **A-1623** San Francisco Police Investigation Bundle
 
@@ -122,7 +122,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:27:54
 Confidence Level: Medium
 
-*Related: C-2085, N-460*
+*Related: C-2085, N-455*
 
 **A-1623.2** Reference to a 1987 victim identification of Aquino; case closed for insufficient evidence despite victim describing the house involved.
 
@@ -131,7 +131,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:27:54
 Confidence Level: Medium
 
-*Related: C-2086, N-460*
+*Related: C-2086, N-455*
 
 **A-1624** Harvest Christian Fellowship Lawsuit Bundle
 
@@ -140,21 +140,21 @@ Confidence Level: Medium
 Video Timestamp: 00:32:12
 Confidence Level: Medium
 
-*Related: C-2087, N-461, N-462, N-10411*
+*Related: C-2087, N-456, N-457, N-10411*
 
 **A-1624.2** Reference to original September lawsuit by two men against former Harvest pastor/missionary Paul Hascgard (Habsgard) alleging abuse at the Romanian children's shelter, including children tied to radiators, kneeling on walnut shells, inappropriate touching, and sex trafficking.
 
 Video Timestamp: 00:34:03
 Confidence Level: Medium (allegations)
 
-*Related: C-2088, N-462, N-10411*
+*Related: C-2088, N-457, N-10411*
 
 **A-1624.3** Reference to law firm news release stating twenty-three former residents of the home are expected to bring complaints; most recent complaints filed November (year implicit in context).
 
 Video Timestamp: 00:35:00
 Confidence Level: Medium
 
-*Related: C-2089, N-462, N-10411*
+*Related: C-2089, N-457, N-10411*
 
 **A-1625** Scott Adams Death News Bundle
 
@@ -185,7 +185,7 @@ Confidence Level: Medium (verbally referenced; host states "we have that somewhe
 Video Timestamp: 00:44:19
 Confidence Level: Medium
 
-*Related: C-2093, N-464*
+*Related: C-2093, N-459*
 
 ---
 
@@ -201,7 +201,7 @@ Investigative Pressure: High
 
 *Related: A-1617.1, C-2075, C-2076*
 
-**N-455** Alton C. Jennings
+**N-451** Alton C. Jennings
 
 Decedent, age 95, whose $25M estate is the subject of a December 2024 will challenge naming TPUSA and YAF as recipients.
 
@@ -212,7 +212,7 @@ Investigative Pressure: Medium
 
 *Related: A-1619.1, C-2077, C-2078, N-10409*
 
-**N-456** Mitch Manley Sr.
+**N-452** Mitch Manley Sr.
 
 Caretaker hired by Alton C. Jennings in 2021; named in will-challenge petition as having isolated decedent from family.
 
@@ -223,7 +223,7 @@ Investigative Pressure: Medium
 
 *Related: A-1619.1, C-2077, N-10409*
 
-**N-457** Mitch Manley Jr.
+**N-453** Mitch Manley Jr.
 
 Son of Mitch Manley Sr.; described as working for Turning Point USA on Charlie Kirk's show during the period the Jennings estate was redirected.
 
@@ -232,9 +232,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1619.1, C-2079, N-456, N-10409*
+*Related: A-1619.1, C-2079, N-452, N-10409*
 
-**N-459** Paul Valli
+**N-808** Paul Vallely
 
 Turning Point USA board member; former military commander of the 7th Psychological Operations Group; co-author of *Mind War* (1980) with Michael Aquino.
 
@@ -243,9 +243,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1620.1, A-1621.1, C-2081, C-2082, N-460, N-10410*
+*Related: A-1620.1, A-1621.1, C-2081, C-2082, N-455, N-10410*
 
-**N-460** Michael Aquino
+**N-455** Michael Aquino
 
 Former US Army Major; intelligence officer; co-author of *Mind War* (1980); member of Church of Satan from 1969; founder of Temple of Set (1975); subject of 1986–1987 San Francisco child-abuse investigation (insufficient evidence).
 
@@ -254,9 +254,9 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2082, C-2083, C-2084, C-2085, C-2086, N-459, N-10410*
+*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2082, C-2083, C-2084, C-2085, C-2086, N-808, N-10410*
 
-**N-461** Greg Laurie
+**N-456** Greg Laurie
 
 Founder of Harvest Christian Fellowship; named defendant in twelve lawsuits alleging abuse at affiliated Romanian children's home.
 
@@ -265,9 +265,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1624.1, C-2087, N-462, N-10411*
+*Related: A-1624.1, C-2087, N-457, N-10411*
 
-**N-462** Paul Havsgaard
+**N-457** Paul Havsgaard
 
 Former Harvest Christian Fellowship pastor/missionary; named defendant in original September lawsuit alleging abuse of children at Romanian shelter.
 
@@ -276,7 +276,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1624.2, A-1624.3, C-2088, C-2089, N-461, N-10411*
+*Related: A-1624.2, A-1624.3, C-2088, C-2089, N-456, N-10411*
 
 **N-191** Scott Adams
 
@@ -300,7 +300,7 @@ Investigative Pressure: Low
 
 *Related: A-1618.1, C-2092*
 
-**N-463** Lindsey Graham
+**N-458** Lindsey Graham
 
 US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.
 
@@ -311,7 +311,7 @@ Investigative Pressure: Low
 
 *Related: A-1617.1, A-1618.1, C-2076, C-2092*
 
-**N-312** Wed Mahmoud
+**N-309** Wed Mahmoud
 
 Referenced by host as a name appearing both on the SUBTU plane into Provo and on the "yellow plane" on the day of Charlie Kirk's assassination (timeline build).
 
@@ -322,7 +322,7 @@ Investigative Pressure: Medium (timeline target)
 
 *Related: C-2094, C-2095*
 
-**N-464** Andrew Aguilar
+**N-459** Andrew Aguilar
 
 Self-identified former Green Beret; claims arrest at US Capitol for calling out AIPAC.
 
@@ -342,18 +342,18 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1619.1, C-2077, C-2078, C-2080, N-455, N-456, N-457, N-41*
+*Related: A-1619.1, C-2077, C-2078, C-2080, N-451, N-452, N-453, N-41*
 
 **N-10410** TPUSA Board Member Military–Satanism Connection
 
-Persistent investigation target: link between a TPUSA board member (Paul Valli) and military psychological-operations / Satanist / Temple of Set networks (Michael Aquino).
+Persistent investigation target: link between a TPUSA board member (Paul Vallely) and military psychological-operations / Satanist / Temple of Set networks (Michael Aquino).
 
 Evidence Count: 4
 Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1620.1, A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2081, C-2082, C-2083, C-2084, C-2085, C-2086, N-459, N-460*
+*Related: A-1620.1, A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-2081, C-2082, C-2083, C-2084, C-2085, C-2086, N-808, N-455*
 
 **N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
@@ -364,7 +364,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1624.1, A-1624.2, A-1624.3, C-2087, C-2088, C-2089, N-461, N-462*
+*Related: A-1624.1, A-1624.2, A-1624.3, C-2087, C-2088, C-2089, N-456, N-457*
 
 **N-10412** Erica Kirk June 19 Instagram Purge
 
@@ -407,7 +407,7 @@ Claim Timestamp: 00:04:58
 Claim: Charlie Kirk criticized Lindsey Graham's call for regime change in Iran as analogous to Hillary Clinton's Libya intervention.
 
 Anchored Artifacts: A-1617.1
-Mentions: N-1, N-463
+Mentions: N-1, N-458
 Investigative Direction: Obtain primary recording; verify exact phrasing.
 
 **C-2077** Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF
@@ -417,7 +417,7 @@ Claim Timestamp: 00:13:58
 Claim: A court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging the last will and trust on the grounds of cognitive decline and undue influence by caretaker Mitch Manley Sr.
 
 Anchored Artifacts: A-1619.1
-Mentions: N-455, N-456
+Mentions: N-451, N-452
 Related Nodes: N-10409
 Investigative Direction: Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.
 
@@ -428,7 +428,7 @@ Claim Timestamp: 00:16:20
 Claim: Alton C. Jennings's estate was valued at $25 million, and his will was reportedly changed in November 2023 – approximately four months before his death at age 95.
 
 Anchored Artifacts: A-1619.1
-Mentions: N-455
+Mentions: N-451
 Related Nodes: N-10409
 Investigative Direction: Obtain probate court filings; verify valuation and date of will execution.
 
@@ -439,7 +439,7 @@ Claim Timestamp: 00:16:20
 Claim: Mitch Manley Jr. (son of caretaker Mitch Manley Sr.) was employed by Turning Point USA on Charlie Kirk's show during the period his father was serving as Alton Jennings's caretaker.
 
 Anchored Artifacts: A-1619.1
-Mentions: N-456, N-457, N-1
+Mentions: N-452, N-453, N-1
 Related Nodes: N-10409
 Investigative Direction: Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.
 
@@ -454,14 +454,14 @@ Mentions: N-11
 Related Nodes: N-10409
 Investigative Direction: Obtain probate records reflecting beneficiary designations; verify allocation.
 
-**C-2081** Paul Valli Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group
+**C-2081** Paul Vallely Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group
 
 Claim Timestamp: 00:18:40
 
-Claim: Paul E. Valli (Valerie) is identified as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.
+Claim: Paul Vallely (Valerie) is identified as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.
 
 Anchored Artifacts: A-1620.1
-Mentions: N-459
+Mentions: N-808
 Related Nodes: N-10410
 Investigative Direction: Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.
 
@@ -469,10 +469,10 @@ Investigative Direction: Verify TPUSA board membership via official TPUSA disclo
 
 Claim Timestamp: 00:21:42
 
-Claim: Paul Valli and Major Michael Aquino co-authored the book *Mind War* in 1980.
+Claim: Paul Vallely and Major Michael Aquino co-authored the book *Mind War* in 1980.
 
 Anchored Artifacts: A-1621.1
-Mentions: N-459, N-460
+Mentions: N-808, N-455
 Related Nodes: N-10410
 Investigative Direction: Obtain bibliographic record (publisher, ISBN); verify authorship.
 
@@ -483,7 +483,7 @@ Claim Timestamp: 00:22:47
 Claim: Michael Aquino joined the Church of Satan in 1969 and rose within its hierarchy.
 
 Anchored Artifacts: A-1622.2
-Mentions: N-460
+Mentions: N-455
 Related Nodes: N-10410
 Investigative Direction: Cross-check Aquino's published biographical statements; consult Church of Satan archives.
 
@@ -494,7 +494,7 @@ Claim Timestamp: 00:22:47
 Claim: Michael Aquino left the Church of Satan in 1975 and founded the Temple of Set after a doctrinal dispute over whether Satan was literal or metaphorical.
 
 Anchored Artifacts: A-1622.1, A-1622.2
-Mentions: N-460
+Mentions: N-455
 Related Nodes: N-10410
 Investigative Direction: Verify founding documents; cross-check Temple of Set records.
 
@@ -505,7 +505,7 @@ Claim Timestamp: 00:27:54
 Claim: In 1986, San Francisco police opened an investigation into Michael Aquino in connection with allegations of sexual abuse at the Army's Child Development Center in San Francisco.
 
 Anchored Artifacts: A-1623.1
-Mentions: N-460
+Mentions: N-455
 Related Nodes: N-10410
 Investigative Direction: Obtain SFPD case records (case number); verify closure status and stated reason.
 
@@ -516,7 +516,7 @@ Claim Timestamp: 00:27:54
 Claim: In 1987, a girl came forward identifying Aquino as the perpetrator, but the case was closed for insufficient evidence, despite the victim reportedly describing the house where abuse occurred.
 
 Anchored Artifacts: A-1623.2
-Mentions: N-460
+Mentions: N-455
 Related Nodes: N-10410
 Investigative Direction: Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available.
 
@@ -527,7 +527,7 @@ Claim Timestamp: 00:32:12
 Claim: Twelve lawsuits have been filed against Harvest Christian Fellowship and Greg Laurie alleging abuse of young men at a children's home in Romania.
 
 Anchored Artifacts: A-1624.1
-Mentions: N-461
+Mentions: N-456
 Related Nodes: N-10411
 Investigative Direction: Obtain court filings (case numbers, jurisdiction); verify plaintiff count.
 
@@ -538,7 +538,7 @@ Claim Timestamp: 00:34:03
 Claim: Allegations against Paul Hascgard at the Bucharest children's shelter include children being tied to radiators, made to kneel on walnut shells, touched inappropriately, and pimped out for sex.
 
 Anchored Artifacts: A-1624.2
-Mentions: N-462
+Mentions: N-457
 Related Nodes: N-10411
 Investigative Direction: Obtain original complaint; verify specificity of allegations; confirm Hascgard's status (former pastor/missionary).
 
@@ -549,7 +549,7 @@ Claim Timestamp: 00:35:00
 Claim: The law firm representing survivors has stated that twenty-three former residents of the home are expected to bring complaints; most recent complaints were filed in November.
 
 Anchored Artifacts: A-1624.3
-Mentions: N-462
+Mentions: N-457
 Related Nodes: N-10411
 Investigative Direction: Obtain law firm press release; track complaint filings in docket.
 
@@ -581,7 +581,7 @@ Claim Timestamp: 00:07:08
 Claim: Tucker Carlson, in his own recorded words, compared Lindsey Graham's foreign-policy behavior to a drunk girlfriend screaming at a cop during a DUI stop.
 
 Anchored Artifacts: A-1618.1
-Mentions: N-22, N-463
+Mentions: N-22, N-458
 Investigative Direction: Locate original clip; verify date and outlet.
 
 **C-2093** Andrew Aguilar Claims Arrest at US Capitol on September 3 for Calling Out AIPAC
@@ -591,7 +591,7 @@ Claim Timestamp: 00:44:19
 Claim: Andrew (Anthony) Aguilar, self-identified as a Gaza-whistleblower Green Beret, states he was arrested on September 3 at Congress for calling out AIPAC.
 
 Anchored Artifacts: A-1627.1
-Mentions: N-464
+Mentions: N-459
 Investigative Direction: Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals.
 
 **C-2094** Plane SUBTU Traveled to Provo May 23 with Follow-Up May 27, Hosting Wed Mahmoud
@@ -601,7 +601,7 @@ Claim Timestamp: 00:09:14
 Claim: Host states, per her master timeline, that plane SUBTU arrived in Provo on May 23 (anchor plane) with a follow-up arrival May 27 carrying Wed Mahmoud, and departed June 2; transponders reportedly manipulated to obscure actual flight path.
 
 Anchored Artifacts: (no direct artifact displayed in this episode – host references her previously shown timeline)
-Mentions: N-312
+Mentions: N-309
 Investigative Direction: Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**
 
 **C-2095** Host Asserts Iran–Israel 12-Day War Commenced June 13 Following Plane Departures
@@ -611,7 +611,7 @@ Claim Timestamp: 00:10:59
 Claim: Host asserts that the Iran–Israel 12-day war commenced on June 13, immediately following the SUBTU plane's reported departure from Provo on June 2.
 
 Anchored Artifacts: (host assertion referencing publicly known conflict dates; no specific artifact shown)
-Mentions: N-312
+Mentions: N-309
 Investigative Direction: Verify conflict onset date via public news records; cross-check host's timeline against flight records.
 
 ---
@@ -621,9 +621,9 @@ Investigative Direction: Verify conflict onset date via public news records; cro
 - **A-1626.1** – *Artifact verbally referenced but not shown*: Host states "according to social blade and we have that somewhere so you can see that" without displaying Social Blade screenshot in the transcript.
 - **A-1624.1** – *Artifact verbally referenced but not shown*: Article about Harvest Christian Fellowship lawsuits is referenced as "here's an article which tells us" but the article itself is not displayed in the transcript.
 - **C-2094** – *Claim failed anchor test for this episode*: Plane SUBTU timeline claim references host's "master timeline" previously shown in earlier episodes; not artifact-anchored within this episode. Inscribed with low confidence and flag.
-- **N-312** Wed Mahmoud – *Name uncertainty*: Host spells name phonetically as "Wed Machmood / Wed Makmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
-- **N-462** Paul Havsgaard – *Name uncertainty*: Host spells surname both as "Habsgard" and "Havsgard" within the same passage; flag for verification against court filings.
-- **N-459** Paul Valli – *Name uncertainty*: Host spells name both as "Vali" and "Valerie"; flag for verification.
+- **N-309** Wed Mahmoud – *Name uncertainty*: Host spells name phonetically as "Wed Machmood / Wed Makmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
+- **N-457** Paul Havsgaard – *Name uncertainty*: Host spells surname both as "Habsgard" and "Havsgard" within the same passage; flag for verification against court filings.
+- **N-808** Paul Vallely – *Name uncertainty*: Host spells name both as "Vali" and "Valerie"; flag for verification.
 
 ---
 

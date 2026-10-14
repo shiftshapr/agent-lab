@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: a00c93c3de8fb9fe25ca93a10cae28c73ff062257c969ca7726819b14b4093e7
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-791, N-792, N-793, N-11138
+  - Tip-minted Nodes (supplement_2026-10b): N-785, N-786, N-787, N-11138
   - Hole-minted Nodes (reintro-ep127): N-10736, N-10772, N-10773, N-10778
-  - Tip-minted Nodes (reintro-ep127): N-752
+  - Tip-minted Nodes (reintro-ep127): N-746
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7280–C-7351
   - New Nodes Introduced: N-10725, N-10726, N-10727, N-10728, N-10731
-  - Reused Nodes Appearing: N-388, N-516, N-10729, N-10730, N-11, N-14, N-22, N-27, N-40, N-50, N-69, N-97, N-162, N-212, N-229, N-236, N-332, N-337, N-374, N-440, N-696, N-751, N-10000, N-10012, N-10014, N-10021, N-10024, N-10026, N-10064, N-10090, N-10131, N-10177, N-10209, N-10447, N-10566, N-10681, N-10692, N-10712, N-10717, N-10818, N-10888, N-11017, N-11065, N-10754
-  - Hole-minted Nodes (wave3): N-517
+  - Reused Nodes Appearing: N-384, N-511, N-10729, N-10730, N-11, N-14, N-22, N-27, N-40, N-50, N-69, N-97, N-162, N-212, N-228, N-235, N-329, N-334, N-371, N-436, N-690, N-745, N-10000, N-10012, N-10014, N-10021, N-10024, N-10026, N-10064, N-10090, N-10131, N-10177, N-10209, N-10447, N-10566, N-10681, N-10692, N-10712, N-10717, N-10818, N-10888, N-11017, N-11065, N-10754
+  - Hole-minted Nodes (wave3): N-512
   - (see registers)
 
 ## 2. Executive Summary
@@ -380,13 +380,13 @@ Confidence Level: Low
 
 ## 4. Node Register
 
-**N-517** Christopher Bagley
+**N-512** Christopher Bagley
 
 First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.
 
 *Related: C-3042, C-3043, C-3044*
 
-**N-388** Dan Bongino
+**N-384** Dan Bongino
 
 Named by the host at 00:45:58 in episode 127; first introduced in episode 15.
 
@@ -584,7 +584,7 @@ Pastor Turek says he called to pray after the hospital.
 
 ---
 
-**N-229** Shawn Ryan
+**N-228** Shawn Ryan
 
 Host's interviewer in the 6 million view episode.
 
@@ -592,7 +592,7 @@ Host's interviewer in the 6 million view episode.
 
 ---
 
-**N-236** Andrew Klavan
+**N-235** Andrew Klavan
 
 Named by the host over his Christ is King video.
 
@@ -600,7 +600,7 @@ Named by the host over his Christ is King video.
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 Car occupant whose hospital-arrival statement the host plays.
 
@@ -608,7 +608,7 @@ Car occupant whose hospital-arrival statement the host plays.
 
 ---
 
-**N-332** Tim Ballard
+**N-329** Tim Ballard
 
 Named by the host in re-examining her PragerU contacts.
 
@@ -616,7 +616,7 @@ Named by the host in re-examining her PragerU contacts.
 
 ---
 
-**N-337** Baron Coleman
+**N-334** Baron Coleman
 
 Flagged the Felomina and Baker segment to the host.
 
@@ -624,7 +624,7 @@ Flagged the Felomina and Baker segment to the host.
 
 ---
 
-**N-374** Jeremy Boreing
+**N-371** Jeremy Boreing
 
 Hosted Mark Meckler according to the host.
 
@@ -632,7 +632,7 @@ Hosted Mark Meckler according to the host.
 
 ---
 
-**N-440** Brad Parscale
+**N-436** Brad Parscale
 
 Named in a viewer comment on Sound of Freedom.
 
@@ -640,7 +640,7 @@ Named in a viewer comment on Sound of Freedom.
 
 ---
 
-**N-516** Jennifer Faumuina
+**N-511** Jennifer Faumuina
 
 Sergeant Jennifer Felomina of the Utah Bureau of Investigations.
 
@@ -648,7 +648,7 @@ Sergeant Jennifer Felomina of the Utah Bureau of Investigations.
 
 ---
 
-**N-696** Spencer (Frank Turek's son)
+**N-690** Spencer (Frank Turek's son)
 
 Turek's son named as FaceTiming during the event.
 
@@ -656,7 +656,7 @@ Turek's son named as FaceTiming during the event.
 
 ---
 
-**N-751** Michael Jackson
+**N-745** Michael Jackson
 
 Cited in the host's account of her Daily Wire firing.
 
@@ -664,7 +664,7 @@ Cited in the host's account of her Daily Wire firing.
 
 ---
 
-**N-752** Harley Pasternak
+**N-746** Harley Pasternak
 
 Named by the host as the trainer in the Kanye 5150 account.
 
@@ -880,7 +880,7 @@ Existing topic reused for influencers at the hearing.
 
 ---
 
-**N-791** Amanda Baker
+**N-785** Amanda Baker
 
 First named by the host at 00:19:25 in episode 127. FBI agent who testified about exhibit nine, the backpack.
 
@@ -888,7 +888,7 @@ First named by the host at 00:19:25 in episode 127. FBI agent who testified abou
 
 ---
 
-**N-792** Zach Turek
+**N-786** Zach Turek
 
 First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Frank Zachary Turek, Pentagon Zack.
 
@@ -896,7 +896,7 @@ First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Fran
 
 ---
 
-**N-793** Mark Meckler
+**N-787** Mark Meckler
 
 First named by the host at 00:47:56 in episode 127. Convention of States figure, called the snake-ler by the host.
 
@@ -922,7 +922,7 @@ Claim Timestamp: 00:05:36–00:06:28
 Claim: Officer Bagley testified that his Axon body-cam footage ended at 12:44 p.m. while he was still on the Losee Center roof, lasting 27 minutes and 35 seconds, and he stated the battery simply "went dead."
 
 Anchored Artifacts: A-2146.1
-Mentions: N-517
+Mentions: N-512
 
 Related Nodes: N-10725
 
@@ -937,7 +937,7 @@ Claim Timestamp: 00:09:06–00:10:43
 Claim: Officer Bagley testified that he was accompanied on the Losee Center rooftop by an unidentified individual in plain clothes with a badge and a handgun, whose agency he did not know and did not verify.
 
 Anchored Artifacts: A-2146.2
-Mentions: N-517
+Mentions: N-512
 
 Related Nodes: N-10726
 
@@ -952,7 +952,7 @@ Claim Timestamp: 00:10:05–00:11:27
 Claim: Officer Bagley testified that he did not review the body-cam or surveillance footage between the time the suspect jumped from the roof and his arrival to determine whether anyone else had been on the rooftop in that window.
 
 Anchored Artifacts: A-2146.2
-Mentions: N-517
+Mentions: N-512
 
 Related Nodes: N-10726
 
@@ -981,7 +981,7 @@ Claim Timestamp: 00:15:19–00:16:23
 Claim: Sergeant Jennifer Felomina of the Utah Bureau of Investigations testified that officers canvassing the scene found unattended items – a backpack, jacket, and gloves – at the Fulton Library bus stop, which was determined to be on the shooter's route.
 
 Anchored Artifacts: A-2148.1
-Mentions: N-516
+Mentions: N-511
 
 Related Nodes: N-10727
 
@@ -1096,7 +1096,7 @@ Claim Timestamp: 00:46:07–00:47:07
 Claim: Host describes watching Dan Bongino state on Megyn Kelly's show on September 15, 2025, that the screwdriver rooftop footage was too grainy for the FBI's tools to clarify, establishing a baseline against later influencer characterizations of the same footage as "crystal clear."
 
 Anchored Artifacts: A-2152.1
-Mentions: N-46, N-388
+Mentions: N-46, N-384
 
 Related Nodes: N-10731
 
@@ -1143,7 +1143,7 @@ Claim Timestamp: 00:26:17–00:27:13
 Claim: Brian Harpole, in on-record statements, references a 911 call collectively ("we called 911") without identifying the specific individual who placed the call.
 
 Anchored Artifacts: (no on-air displayed artifact in this episode beyond host's description of Harpole's prior statements)
-Mentions: N-272
+Mentions: N-270
 
 Related Nodes: N-10729
 
@@ -1178,7 +1178,7 @@ Claim: The host says Baron Coleman flagged to her over the weekend a part of the
 Transcript Snippet: the preliminary hearing that Baron Coleman flagged to me over the weekend because we were sharing notes
 
 Anchored Artifacts: 
-Mentions: N-337, N-3
+Mentions: N-334, N-3
 Related Nodes: N-10727
 Tags: relevance:core
 Investigative Direction: Review the preliminary hearing transcript for the Felomina and Baker testimony Coleman flagged and compare with the host's reading.
@@ -1226,7 +1226,7 @@ Claim: The host says Officer Bagley raced to the Losee Center roof, was there at
 Transcript Snippet: He's up there at 12:44 p. m. and he finds that screwdriver.
 
 Anchored Artifacts: 
-Mentions: N-517, N-3
+Mentions: N-512, N-3
 Related Nodes: N-10090, N-10731
 Tags: relevance:core
 Investigative Direction: Obtain Bagley's report and evidence log for the screwdriver recovery time and location, and the footage the influencers say they saw.
@@ -1242,7 +1242,7 @@ Claim: Officer Bagley testified that officers usually dock the body cam but that
 Transcript Snippet: Usually dock it, but no, I didn't go back.
 
 Anchored Artifacts: A-2146.1
-Mentions: N-517
+Mentions: N-512
 Related Nodes: N-10725
 Supports: C-3042
 Tags: relevance:core
@@ -1259,7 +1259,7 @@ Claim: The host says the Axon cameras store their data, so it will eventually be
 Transcript Snippet: it stores that data, and so we will be able to find out eventually um how that battery died so quickly or if it was manually turned off
 
 Anchored Artifacts: A-2147.1
-Mentions: N-517, N-3
+Mentions: N-512, N-3
 Related Nodes: N-10725, N-10773
 Supports: C-3045
 Tags: relevance:core
@@ -1276,7 +1276,7 @@ Claim: Officer Bagley testified that he had somebody with him to back him up as 
 Transcript Snippet: I had somebody with me to back me up as I ran up the stairs to make sure I had somebody with me.
 
 Anchored Artifacts: A-2146.2
-Mentions: N-517
+Mentions: N-512
 Related Nodes: N-10726, N-10772
 Supports: C-3043
 Tags: relevance:core
@@ -1293,7 +1293,7 @@ Claim: Officer Bagley testified that people were up on the building looking for 
 Transcript Snippet: there was people up there looking for an individual that ran that way because when I first got told the individual ran heading north
 
 Anchored Artifacts: A-2146.2
-Mentions: N-517
+Mentions: N-512
 Related Nodes: N-10778, N-10726
 Qualifies: C-3044
 Tags: relevance:core
@@ -1310,7 +1310,7 @@ Claim: The host says a ton of influencers confirmed that for the rooftop Bagley 
 Transcript Snippet: A ton of influencers just confirmed that that very rooftop that you were on, they are now able to get 4K HD footage.
 
 Anchored Artifacts: 
-Mentions: N-517, N-3
+Mentions: N-512, N-3
 Related Nodes: N-10731, N-11065
 Tags: relevance:core
 Investigative Direction: Identify which influencers attended the hearing and what footage they say they saw; compare with the exhibit list and the footage actually entered into evidence.
@@ -1358,7 +1358,7 @@ Claim: The host says she earlier called Sergeant Felomina a UVU sergeant but mea
 Transcript Snippet: I think I said she was UVU Sergeant. I meant to say she's from the Utah Bureau of Investigations
 
 Anchored Artifacts: 
-Mentions: N-516, N-3
+Mentions: N-511, N-3
 Related Nodes: N-10012
 Tags: relevance:context
 Investigative Direction: Confirm Felomina's employing agency and title from the preliminary hearing record.
@@ -1374,7 +1374,7 @@ Claim: Sergeant Felomina answered yes when asked whether nine of the reports in 
 Transcript Snippet: nine of those reports in that larger body of reports was written by you, correct? >> Yes.
 
 Anchored Artifacts: A-2148.1
-Mentions: N-516
+Mentions: N-511
 Related Nodes: N-10727
 Supports: C-3046
 Tags: relevance:core
@@ -1391,7 +1391,7 @@ Claim: Sergeant Felomina testified that while canvassing the shooter's route off
 Transcript Snippet: they determined that the Fulton Library stood out because there were um unattended items there at the bus stops that were away from the courtyard area.
 
 Anchored Artifacts: A-2148.1
-Mentions: N-516
+Mentions: N-511
 Related Nodes: N-10727, N-10717
 Supports: C-3046
 Tags: relevance:core
@@ -1408,7 +1408,7 @@ Claim: Sergeant Felomina testified that when the items had already been sent, in
 Transcript Snippet: Um at the time when it was already sent, we didn't have more information as far as whether or not uh whe- or not the evidence that were collected there were probative.
 
 Anchored Artifacts: A-2148.2
-Mentions: N-516
+Mentions: N-511
 Related Nodes: N-10727
 Supports: C-3048
 Tags: relevance:core
@@ -1425,7 +1425,7 @@ Claim: Sergeant Felomina agreed it would be fair to say the items were eventuall
 Transcript Snippet: Yeah, that would be fair. >> Okay, so the relevant thing is she doesn't remember communicating that, but she's saying the SLED determination was that it was not relevant to this case.
 
 Anchored Artifacts: A-2148.2
-Mentions: N-516, N-3
+Mentions: N-511, N-3
 Related Nodes: N-10727
 Supports: C-3048
 Tags: relevance:core
@@ -1458,7 +1458,7 @@ Claim: FBI agent Amanda Baker testified that initially there was no information 
 Transcript Snippet: Not having any information from the investigators, we processed them for DNA.
 
 Anchored Artifacts: A-2149.1
-Mentions: N-791
+Mentions: N-785
 Related Nodes: N-10727, N-10014
 Supports: C-3049
 Tags: relevance:core
@@ -1475,7 +1475,7 @@ Claim: The host says Baker asserted that they initially thought the items were a
 Transcript Snippet: similarly that they initially thought that it was abandoned by the rooftop shooter, which means that they found this along the route that the alleged rooftop shooter took, right?
 
 Anchored Artifacts: A-2149.1
-Mentions: N-791, N-3
+Mentions: N-785, N-3
 Related Nodes: N-10727
 Supports: C-3046
 Tags: relevance:core
@@ -1558,7 +1558,7 @@ Claim: The host says that although Brian Harpole and Frank Church (Turek) loved 
 Transcript Snippet: nobody wants to take credits for calling 911.
 
 Anchored Artifacts: 
-Mentions: N-272, N-7, N-3
+Mentions: N-270, N-7, N-3
 Related Nodes: N-10729
 Supports: C-3057
 Tags: relevance:core
@@ -1575,7 +1575,7 @@ Claim: In a clip the host plays, Brian Harpole says he felt bad for the hospital
 Transcript Snippet: Well, I feel bad for the hospital staff cuz we showed up looking like that and and they didn't know we were coming.
 
 Anchored Artifacts: A-2866.1, A-2866.1
-Mentions: N-272
+Mentions: N-270
 Related Nodes: N-10728, N-10692
 Supports: C-3056
 Tags: relevance:core
@@ -1592,7 +1592,7 @@ Claim: The host says Harpole was busy with gauze and his brother with the tattoo
 Transcript Snippet: You were busy with 9,000 ft of gauze. Your brother with the tattoo was holding you. Somebody was on the phone with Ben Shapiro's security.
 
 Anchored Artifacts: A-2866.1, A-2866.1
-Mentions: N-272, N-97
+Mentions: N-270, N-97
 Related Nodes: N-10712, N-10729
 Tags: relevance:core
 Investigative Direction: Identify who in the vehicle was on the phone with Shapiro's security and obtain the phone records for the ride.
@@ -1707,7 +1707,7 @@ Claim: The host says Frank Turek's grown sons include two who served as captains
 Transcript Snippet: Frank's grown adult male children, two of whom I should mention served as captains in the Air Force, one of whom, I don't know if you know this, um served particularly in intelligence
 
 Anchored Artifacts: 
-Mentions: N-7, N-696, N-3
+Mentions: N-7, N-690, N-3
 Related Nodes: N-11138, N-10730
 Tags: relevance:context
 Investigative Direction: Confirm each son's rank, branch and assignment from public military records or professional profiles.
@@ -1739,7 +1739,7 @@ Claim: In the interview clip Frank Turek says his son is 35, that he FaceTimed h
 Transcript Snippet: First I I was FaceTiming my wife and then I said, "Ah, let me call Spencer." And so, I started FaceTiming him.
 
 Anchored Artifacts: A-2150.1
-Mentions: N-7, N-696
+Mentions: N-7, N-690
 Related Nodes: N-10730
 Supports: C-3052
 Tags: relevance:core
@@ -1756,7 +1756,7 @@ Claim: The host says Frank Turek's son Zach (Frank Zachary Turek) was working at
 Transcript Snippet: Zach was working at the Pentagon. He is today employed in Washington, D. C. at the Pentagon serving as the deputy division chief of the Joint Staff.
 
 Anchored Artifacts: A-2150.1
-Mentions: N-792, N-7
+Mentions: N-786, N-7
 Related Nodes: N-10064, N-11138
 Tags: relevance:core
 Investigative Direction: Verify Zachary Turek's Joint Staff title and dates from Department of Defense directories or biographies.
@@ -1788,7 +1788,7 @@ Claim: The host says Turek did not call 911 and did not think to phone his son w
 Transcript Snippet: Frank didn't call 911, nor did he think to phone his son who works for the most powerful, most funded, and most corrupt division of our government, the Department of Defense?
 
 Anchored Artifacts: 
-Mentions: N-7, N-792, N-3
+Mentions: N-7, N-786, N-3
 Related Nodes: N-10729, N-10888
 Supports: C-7304
 Tags: relevance:core
@@ -1805,7 +1805,7 @@ Claim: The host says Spencer Turek works as a branch chief pilot for the Air For
 Transcript Snippet: He works as a branch chief pilot for the Air Force.
 
 Anchored Artifacts: 
-Mentions: N-696, N-3
+Mentions: N-690, N-3
 Related Nodes: N-11138
 Tags: relevance:context
 Investigative Direction: Verify Spencer Turek's role, location and duty schedule from public profiles or Air Force records.
@@ -1821,7 +1821,7 @@ Claim: The host says that at 2:23 p.m. East Coast time on a Wednesday Spencer wa
 Transcript Snippet: So, why at 2:23 p. m. in the afternoon is he with his wife clearing out his military schedule to make availability to watch Charlie Kirk answer questions
 
 Anchored Artifacts: A-2150.1
-Mentions: N-696, N-1, N-3
+Mentions: N-690, N-1, N-3
 Related Nodes: N-10730
 Tags: relevance:core
 Investigative Direction: Obtain the call-detail records and duty rosters that would show where Spencer and his wife were and what they were doing at 2:23 p.m. Eastern.
@@ -1837,7 +1837,7 @@ Claim: The host says Frank Turek and his son Zach wrote a book together titled H
 Transcript Snippet: Frank and his son Zack, Pentagon Zack, actually wrote a book together entitled Hollywood Heroes.
 
 Anchored Artifacts: 
-Mentions: N-7, N-792, N-3
+Mentions: N-7, N-786, N-3
 Related Nodes: N-11138
 Tags: relevance:context
 Investigative Direction: Check the book's publication record for authorship and date.
@@ -1918,7 +1918,7 @@ Claim: The host says that if Dan Bongino said the footage was too grainy five da
 Transcript Snippet: That sounds to me like it was tampered with.
 
 Anchored Artifacts: A-2152.1
-Mentions: N-388, N-3
+Mentions: N-384, N-3
 Related Nodes: N-10731
 Supports: C-3054
 Tags: relevance:core
@@ -1935,7 +1935,7 @@ Claim: The host says Jeremy Boreing hosted Mark Meckler, who told an obscure sto
 Transcript Snippet: he's particularly hosted this guy Mark Meckler and I had such a giggle about Mark Meckler telling this obscure story um that I was like mean to him.
 
 Anchored Artifacts: 
-Mentions: N-374, N-793, N-3
+Mentions: N-371, N-787, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the Boreing and Meckler appearance and compare Meckler's story with the host's message archive.
@@ -1951,7 +1951,7 @@ Claim: The host says Mark Meckler was working on getting donors to force Charlie
 Transcript Snippet: telling donors to like force Charlie to uh just attach Convention of the States to Turning Point USA.
 
 Anchored Artifacts: A-2870.1, A-2870.1
-Mentions: N-793, N-1, N-3
+Mentions: N-787, N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Review the host's messages with Charlie, TPUSA donor communications and Convention of the States records for the proposed attachment.
@@ -1967,7 +1967,7 @@ Claim: The host says all of her messages with Charlie, which she still has, refe
 Transcript Snippet: Charlie and me literally all of our messages which I still have of course were just just referred to him as the snake-ler instead of Meckler
 
 Anchored Artifacts: A-2870.1, A-2870.1
-Mentions: N-1, N-793, N-3
+Mentions: N-1, N-787, N-3
 Related Nodes: N-10177
 Tags: relevance:context
 Investigative Direction: Obtain the message thread for forensic confirmation of the nickname, dates and contents.
@@ -1999,7 +1999,7 @@ Claim: The host says Tyler Bowyer is also in the chats because they would also c
 Transcript Snippet: by the way Tyler Bowyer is even that the chats cuz we would also chat about Mark Meckler
 
 Anchored Artifacts: A-2870.1, A-2870.1
-Mentions: N-11, N-793, N-3
+Mentions: N-11, N-787, N-3
 Related Nodes: N-10177
 Tags: relevance:context
 Investigative Direction: Review the group chats with Bowyer for the dates and content of the Meckler discussions.
@@ -2064,7 +2064,7 @@ Claim: The host says her Shawn Ryan interview is the most successful Shawn Ryan 
 Transcript Snippet: I do believe it's also the most successful Shawn Ryan episode ever in terms of just raw numbers it climbing to like 6 million views in what? A week already?
 
 Anchored Artifacts: A-2869.1, A-2869.1
-Mentions: N-229, N-3
+Mentions: N-228, N-3
 Related Nodes: N-10681
 Tags: relevance:context
 Investigative Direction: Check the YouTube view count and publication date of the Shawn Ryan episode.
@@ -2096,7 +2096,7 @@ Claim: The host says Kanye West was put on a 5150 hold after his trainer Harley 
 Transcript Snippet: Harley Pasternak, your gym trainer says so and they do a cocktail that can cause you to then have mental issues for life.
 
 Anchored Artifacts: 
-Mentions: N-27, N-752, N-3
+Mentions: N-27, N-746, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check Los Angeles reporting and hospital records, if public, on the 2016 hospitalization of Kanye West.
@@ -2112,7 +2112,7 @@ Claim: The host says Michael Jackson said "Jew me, screw me" in his songs and la
 Transcript Snippet: What did he say? "Jew me, screw me" in his songs.
 
 Anchored Artifacts: 
-Mentions: N-751, N-3
+Mentions: N-745, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check the lyric source (They Don't Care About Us), the 1996 controversy and Jackson's own statements about it.
@@ -2128,7 +2128,7 @@ Claim: The host says one reason she was fired from Daily Wire was for suggesting
 Transcript Snippet: One of the reasons I was fired from Daily Wire was for suggesting that Michael Jackson could have been telling the truth
 
 Anchored Artifacts: 
-Mentions: N-3, N-751
+Mentions: N-3, N-745
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Compare with Daily Wire's and the host's other accounts of the firing reasons.
@@ -2160,7 +2160,7 @@ Claim: The host says Andrew Klavan's Christ is King video made as an obscure poi
 Transcript Snippet: even Andrew Klavan's Christ is King video because one of the more obscure points was he was upset that I mentioned Sigmund Freud
 
 Anchored Artifacts: 
-Mentions: N-236, N-50, N-3
+Mentions: N-235, N-50, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Watch the Klavan video and check whether he objects to the Freud mention.
@@ -2289,7 +2289,7 @@ Claim: The host reads a viewer comment saying the first movie pushed by Influent
 Transcript Snippet: First movie pushed by Influential was Sound of Freedom, the same messaging as Frank's book.
 
 Anchored Artifacts: 
-Mentions: N-440, N-7, N-332, N-3
+Mentions: N-436, N-7, N-329, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check Influential's and Parscale's roles in promoting Sound of Freedom.
@@ -2305,7 +2305,7 @@ Claim: The host says she has a lot to think about regarding Tim Ballard, since s
 Transcript Snippet: Yeah, I have a lot to think now about Tim Ballard, how I met all of these people sort of through PragerU and I reconsider that.
 
 Anchored Artifacts: 
-Mentions: N-332, N-3
+Mentions: N-329, N-3
 Related Nodes: N-10131
 Tags: relevance:context
 Investigative Direction: Identify which of the people she met through PragerU she means and the dates.

@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq112
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton): N-674, N-675, N-676, N-677, N-678, N-679, N-680, N-681, N-10955, N-10957, N-10958, N-10959, N-10960
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-9, N-14, N-15, N-99, N-162, N-182, N-213, N-283, N-284, N-443, N-461, N-556, N-592, N-604, N-619, N-634, N-638, N-639, N-671, N-10000, N-10008, N-10068, N-10083, N-10194, N-10350, N-10411, N-10496, N-10519, N-10541, N-10637, N-10700, N-10888, N-10899, N-10916, N-10923, N-673, N-10956
+  - Tip-minted Nodes (skeleton): N-668, N-669, N-670, N-671, N-672, N-673, N-674, N-675, N-10955, N-10957, N-10958, N-10959, N-10960
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-9, N-14, N-15, N-99, N-162, N-182, N-213, N-281, N-282, N-439, N-456, N-551, N-587, N-599, N-614, N-629, N-633, N-634, N-665, N-10000, N-10008, N-10068, N-10083, N-10194, N-10350, N-10411, N-10496, N-10519, N-10541, N-10637, N-10700, N-10888, N-10899, N-10916, N-10923, N-667, N-10956
   - Claim Range: C-4385–C-4433
   - (see registers)
 
@@ -21,7 +21,7 @@
 
 The host opens with Dana Loesch, whom she says posted more than 23 times on X after claiming she did not care that people mocked her "widow" scripture speech at the Young Women's Leadership Summit (A-2628.1). The host says her sources told her that Erika Kirk cut her own speech short after an attendee called her a "pedophile protector" and then left the summit without closing it out. She plays a Dana Loesch audio clip saying Erika "wasn't there for the whole weekend" (A-2628.2). The host contrasts this with Charlie Kirk's habit of facing hecklers (A-2629.1). She alleges that Erika invented a Secret Service threat to avoid an event with JD Vance, that Erika partners with people such as Greg Laurie who are accused of trafficking, and that Erika personally phoned clergy and attendees to discourage them from attending the host's Catholics for Catholics event in March. She also alleges that Erika directed Andrew Kolvet's statement that Charlie only liked Catholic architecture.
 
-The host then reads two follow-up emails (A-2630.1, A-2630.2) that she sent to Justin Strife, Andrew Kolvet and the TPUSA lawyer. The emails ask for an on-record yes or no on whether the WLS video in which Charlie Kirk appears to appoint Erika to run Turning Point USA is authentic. She says the only reply was a TPUSA X account post sharing her email (A-2630.3). She names the donors who asked the question as Julie and Arthur Fields of North Carolina, saying this removes TPUSA's stated reason for withholding the full video. According to the host, a donor source says the video is doctored, and Charlie told the donors at a later dinner only that the board would figure out succession. On the "emotional asset" email, the host says the NSA redirected her FOIA request to the Department of War (A-2631.1). She says the Department of War called the request too burdensome (A-2631.2), and that her office then narrowed it to named recipients including Bradley Hansel, Richard Smaly, Gustav Anderly and Michaela Mott (A-2631.3).
+The host then reads two follow-up emails (A-2630.1, A-2630.2) that she sent to Justin Streiff, Andrew Kolvet and the TPUSA lawyer. The emails ask for an on-record yes or no on whether the WLS video in which Charlie Kirk appears to appoint Erika to run Turning Point USA is authentic. She says the only reply was a TPUSA X account post sharing her email (A-2630.3). She names the donors who asked the question as Julie and Arthur Fields of North Carolina, saying this removes TPUSA's stated reason for withholding the full video. According to the host, a donor source says the video is doctored, and Charlie told the donors at a later dinner only that the board would figure out succession. On the "emotional asset" email, the host says the NSA redirected her FOIA request to the Department of War (A-2631.1). She says the Department of War called the request too burdensome (A-2631.2), and that her office then narrowed it to named recipients including Bradley Hansel, Richard Smaly, Gustav Anderly and Michaela Mott (A-2631.3).
 
 In the second segment the host plays Ivanka Trump on David Senra's podcast saying she and Jared Kushner found a 1,400-hectare Mediterranean island while swimming from a friend's boat (A-2632.1). The host identifies the island as Sazan Island off Albania and says the friend was Nat Rothschild. A news report (A-2633.1) describes a fourth day of protests in Tirana against the Affinity Partners resort project, Prime Minister Edi Rama's statement that the investment will not stop, and an investigation opened by Albania's anti-corruption agency. A Tim Dillon clip (A-2634.1) criticizes the Trump family as "Tsarists."
 
@@ -38,7 +38,7 @@ Video Timestamp: 00:05:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4385, N-671*
+*Related: C-4385, N-665*
 
 **A-2628.2** Audio clip from Dana Loesch's show on Erika Kirk's attendance at the summit
 
@@ -49,7 +49,7 @@ Video Timestamp: 00:05:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4388, N-671, N-2, N-10008*
+*Related: C-4388, N-665, N-2, N-10008*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:20:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4408, C-4409, N-10888, N-604*
+*Related: C-4408, C-4409, N-10888, N-599*
 
 **A-2631.3** Host's office follow-up email to the Department of War naming specific recipients (read aloud)
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:21:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4410, N-443, N-638, N-634, N-639, N-10888*
+*Related: C-4410, N-439, N-633, N-629, N-634, N-10888*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:31:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4414, C-4415, C-4416, N-673, N-676, N-182, N-10955*
+*Related: C-4414, C-4415, C-4416, N-667, N-670, N-182, N-10955*
 
 ---
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:38:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4419, C-4420, C-4421, C-4422, C-4423, C-4424, N-182, N-678, N-10955, N-10958, N-10959*
+*Related: C-4419, C-4420, C-4421, C-4422, C-4423, C-4424, N-182, N-672, N-10955, N-10958, N-10959*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:40:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4425, N-283, N-5*
+*Related: C-4425, N-281, N-5*
 
 ---
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:43:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4426, C-4427, C-4428, C-4429, C-4430, N-10960, N-556, N-679, N-2, N-3*
+*Related: C-4426, C-4427, C-4428, C-4429, C-4430, N-10960, N-551, N-673, N-2, N-3*
 
 ---
 
@@ -269,127 +269,127 @@ The host says Erika Kirk directed attacks on him for wanting to examine a foreig
 
 *Related: C-4413*
 
-**N-283** Tim Dillon
+**N-281** Tim Dillon
 
 Transcript spelling "Tim Dylan". Comedian whose clip on the Trump family is played.
 
 *Related: C-4425, A-2634.1*
 
-**N-284** Bari Weiss
+**N-282** Bari Weiss
 
 Transcript spelling "Barry Weiss". Named by the host as being installed to control mainstream media.
 
 *Related: C-4412*
 
-**N-443** Bradley Hansell
+**N-439** Bradley Hansell
 
 Transcript spelling "Bradley Hansel". Named in the host's narrowed FOIA request as a Department of War recipient.
 
 *Related: C-4410, A-2631.3*
 
-**N-461** Greg Laurie
+**N-456** Greg Laurie
 
 Transcript spelling "Greg Lori". The host says he is accused in court of trafficking people from Romania.
 
 *Related: C-4392*
 
-**N-556** Tracy Martin
+**N-551** Tracy Martin
 
 Described by the host as Erika Kirk's best friend; quoted in the US Weekly story as saying Charlie Kirk was scared of the host.
 
 *Related: C-4428, A-2635.1*
 
-**N-592** Thomas Massie
+**N-587** Thomas Massie
 
 The host says AIPAC effectively ousted him.
 
 *Related: C-4411*
 
-**N-604** Pete Hegseth
+**N-599** Pete Hegseth
 
 Transcript spelling "Pete Hegsath". Named as head of the Department of War, to which the host's FOIA request was redirected.
 
 *Related: C-4408, A-2631.2*
 
-**N-671** Dana Loesch
+**N-665** Dana Loesch
 
 First named by the host at 00:00:01 in episode 112. Transcript spelling "Dana Lash". Gave the "widow" scripture speech at the Young Women's Leadership Summit and later confirmed on her show that Erika Kirk did not stay the whole weekend.
 
 *Related: C-4385, C-4388, A-2628.1, A-2628.2*
 
-**N-673** Ivanka Trump
+**N-667** Ivanka Trump
 
 First named by the host at 00:00:51 in episode 112. Described on David Senra's podcast how she and Jared Kushner found the island they are developing off Albania.
 
 *Related: C-4414, C-4415, C-4416, C-4417, C-4418, A-2632.1*
 
-**N-619** Graham Allen
+**N-614** Graham Allen
 
 First named by the host at 00:16:45 in episode 112. The host says he does not work for TPUSA and was hosted by Andrew Kolvet to claim the WHCD email was fake.
 
 *Related: C-4401, C-4405*
 
-**N-674** Julie Fields
+**N-668** Julie Fields
 
 First named by the host at 00:16:45 in episode 112. Named by the host as the donor who asked Charlie Kirk the succession question that prompted the WLS video moment.
 
 *Related: C-4402*
 
-**N-675** Arthur Fields
+**N-669** Arthur Fields
 
 First named by the host at 00:17:54 in episode 112. Named with Julie Fields as the North Carolina donors who asked the question.
 
 *Related: C-4402*
 
-**N-638** Richard Smaly
+**N-633** Richard Smaly
 
 First named by the host at 00:21:10 in episode 112. Transcript spelling "Richard Smallley". Named in the host's narrowed FOIA request as a Department of War recipient.
 
 *Related: C-4410, A-2631.3*
 
-**N-634** Gustav Anderly
+**N-629** Gustav Anderly
 
 First named by the host at 00:21:10 in episode 112. Named in the host's narrowed FOIA request as a Department of War recipient.
 
 *Related: C-4410, A-2631.3*
 
-**N-639** Michaela Mott
+**N-634** Michaela Mott
 
 First named by the host at 00:21:10 in episode 112. Transcript spelling "Michaela Mott Marzuka". Named in the host's narrowed FOIA request as a Department of War recipient.
 
 *Related: C-4410, A-2631.3*
 
-**N-676** David Senra
+**N-670** David Senra
 
 First named by the host at 00:30:03 in episode 112. Podcast host who interviewed Ivanka Trump about the island project.
 
 *Related: C-4415, A-2632.1*
 
-**N-677** Nat Rothschild
+**N-671** Nat Rothschild
 
 First named by the host at 00:33:19 in episode 112. Aliases "Nathan Rothschild" and "Nat Rothschild". The host says it was his boat that Ivanka Trump swam from when she "found" the island.
 
 *Related: C-4417*
 
-**N-678** Edi Rama
+**N-672** Edi Rama
 
 First named by the host at 00:39:21 in episode 112. Transcript spelling "Ed Rama". Albanian prime minister quoted in the news report as saying the investment will not stop.
 
 *Related: C-4423, A-2633.1*
 
-**N-679** James Kaddis
+**N-673** James Kaddis
 
 First named by the host at 00:43:36 in episode 112. Transcript spelling kept. Described by the host as running the TPUSA faith department and as quoted in the US Weekly story.
 
 *Related: C-4427, A-2635.1*
 
-**N-680** Ariana Grande
+**N-674** Ariana Grande
 
 First named by the host at 00:46:27 in episode 112. Singer whose split from Ethan Slater the host discusses.
 
 *Related: C-4431, C-4432*
 
-**N-681** Ethan Slater
+**N-675** Ethan Slater
 
 First named by the host at 00:46:27 in episode 112. Actor whose relationship with Ariana Grande ended.
 
@@ -512,7 +512,7 @@ Related prior topic on how and when TPUSA's succession plan was disclosed.
 Node Type: Topic
 Outside spending against Representative Thomas Massie in his Kentucky Republican primary. In this episode the host says AIPAC effectively ousted him.
 
-*Related: C-4411, N-592, N-10083*
+*Related: C-4411, N-587, N-10083*
 
 **N-10958** Affinity Partners
 
@@ -546,7 +546,7 @@ Claim: The host says Dana Loesch claimed on X that she did not care about people
 Transcript Snippet: She took to X to claim that and no big deal, I don't care. but then proceeded to author more than 23 tweets in response to people calling her out.
 
 Anchored Artifacts: A-2628.1
-Mentions: N-671
+Mentions: N-665
 Related Nodes: N-10008
 Investigative Direction: Archive Dana Loesch's X posts from June 9, 2026 and count her replies on the speech.
 
@@ -591,7 +591,7 @@ Claim: In a clip played by the host, Dana Loesch says Erika Kirk was scheduled t
 Transcript Snippet: She wasn't there for the whole weekend. She was scheduled to be there for the whole weekend, but who would want to endure that?
 
 Anchored Artifacts: A-2628.2
-Mentions: N-671, N-2
+Mentions: N-665, N-2
 Related Nodes: N-10008
 Investigative Direction: Locate the full Dana Loesch show episode and the published WLS 2026 schedule for Erika Kirk.
 
@@ -651,7 +651,7 @@ Claim: The host says Erika Kirk partners on faith work with people credibly accu
 Transcript Snippet: who are credibly accused one way or the other in the court of law as Greg Lori is of trafficking people from Romania.
 
 Anchored Artifacts:
-Mentions: N-461, N-2
+Mentions: N-456, N-2
 Related Nodes: N-10411
 Investigative Direction: Pull the court filings in the Harvest Christian Fellowship Romanian lawsuits and check whether Greg Laurie is a named defendant.
 
@@ -751,9 +751,9 @@ Investigative Direction: Obtain an on-record TPUSA statement and the original un
 
 Claim Timestamp: 00:14:20
 
-Claim: The host says she addressed her email asking whether the video was doctored to COO Justin Strife, spokesperson Andrew Kolvet and TPUSA's lawyer. She says they declined to respond officially and that the TPUSA X account shared the email instead.
+Claim: The host says she addressed her email asking whether the video was doctored to COO Justin Streiff, spokesperson Andrew Kolvet and TPUSA's lawyer. She says they declined to respond officially and that the TPUSA X account shared the email instead.
 
-Transcript Snippet: So, I intentionally addressed my email where I asked, "Was this doctorred to Justin Strife, who is the COO, to Andrew Kovette, who is the official spokesperson of Turning Point USA, and to their lawyer?"
+Transcript Snippet: So, I intentionally addressed my email where I asked, "Was this doctorred to Justin Streiff, who is the COO, to Andrew Kovette, who is the official spokesperson of Turning Point USA, and to their lawyer?"
 
 Anchored Artifacts: A-2630.3
 Mentions: N-15, N-14, N-3
@@ -786,7 +786,7 @@ Claim: The host says Blake Neff and Graham Allen, who have spoken on the video, 
 Transcript Snippet: And to be clear, Blake Nef does not work for Turning Point USA. Graham Allen does not work for Turning Point USA.
 
 Anchored Artifacts:
-Mentions: N-162, N-619
+Mentions: N-162, N-614
 Related Nodes: N-10000
 Investigative Direction: Check TPUSA staff listings, Form 990 compensation schedules and the two men's stated affiliations.
 
@@ -801,7 +801,7 @@ Claim: The host says TPUSA withheld the full video to protect the donor. She nam
 Transcript Snippet: Why would they have to protect the donor from that? The donor who asked the question was Julie Fields.
 
 Anchored Artifacts:
-Mentions: N-674, N-675, N-1
+Mentions: N-668, N-669, N-1
 Related Nodes: N-10957, N-10000
 Investigative Direction: Confirm the Fields family's attendance at the event and ask them directly about the exchange.
 
@@ -847,7 +847,7 @@ Claim: The host says Andrew Kolvet hosted Graham Allen to claim that the White H
 Transcript Snippet: Most notorious is when he hosted Graham Allen to claim that the White House correspondents internal email that I shared was fake.
 
 Anchored Artifacts:
-Mentions: N-14, N-619
+Mentions: N-14, N-614
 Related Nodes: N-10923
 Investigative Direction: Locate the Kolvet-hosted segment with Graham Allen and compare with any FOIA production of the email.
 
@@ -892,7 +892,7 @@ Claim: The host says the Department of War, which she notes is Pete Hegseth's de
 Transcript Snippet: The Department of War has since replied informing us that the burden was too heavy uh regarding our request because it was not specific enough.
 
 Anchored Artifacts: A-2631.2
-Mentions: N-604
+Mentions: N-599
 Related Nodes: N-10888, N-10700, N-10923
 Investigative Direction: Obtain the Department of War FOIA response letter and case number.
 
@@ -922,7 +922,7 @@ Claim: The host says her office's follow-up to the Department of War gave dates 
 Transcript Snippet: we named specific Department of War recipients uh who could be included in that. Bradley Hansel, Richard Smallley, Gustav Anderly, Michaela Mott Marzuka.
 
 Anchored Artifacts: A-2631.3
-Mentions: N-443, N-638, N-634, N-639
+Mentions: N-439, N-633, N-629, N-634
 Related Nodes: N-10888, N-10700, N-10923
 Investigative Direction: Track the Department of War's response to the narrowed request and verify each named recipient's position.
 
@@ -937,7 +937,7 @@ Claim: The host says AIPAC effectively ousted Thomas Massie in Kentucky. She par
 Transcript Snippet: the fact that they just keep on going because they have enough money, uh, Apac uh, effectively ousting Thomas Massie
 
 Anchored Artifacts:
-Mentions: N-592, N-5
+Mentions: N-587, N-5
 Related Nodes: N-10083, N-10916, N-10541
 Investigative Direction: Check the Kentucky primary result and FEC outside-spending records, and locate Trump's statement on Iranian bridges.
 
@@ -952,7 +952,7 @@ Claim: The host alleges Charlie Kirk was not killed by "a random leftist" but in
 Transcript Snippet: We know that this is deep state. We know that we are looking at an assassination akin to JFK. And we know that the subject matter is Israel.
 
 Anchored Artifacts:
-Mentions: N-1, N-284
+Mentions: N-1, N-282
 Related Nodes:
 Investigative Direction: Compare with the charging documents and evidence in the Tyler Robinson prosecution.
 
@@ -982,7 +982,7 @@ Claim: The host says Ivanka Trump discussed her plans for Sazan Island ("Saison 
 Transcript Snippet: discussing her plans for Saison Island, which is off the coast of Albania. Uh, it's actually Albania's largest island.
 
 Anchored Artifacts: A-2632.1
-Mentions: N-673, N-182
+Mentions: N-667, N-182
 Related Nodes: N-10955
 Investigative Direction: Confirm the island's identity and size from Albanian land records and the Affinity Partners project filings.
 
@@ -997,7 +997,7 @@ Claim: In the David Senra podcast clip, Ivanka Trump says the island is a 1,400-
 Transcript Snippet: Well, it's an unbelievable, beautiful 1,400 hectare private island in the middle of the Mediterranean. We were on a friend's boat and we stopped for a swim. Effectively, that's how we found it.
 
 Anchored Artifacts: A-2632.1
-Mentions: N-673, N-676, N-182
+Mentions: N-667, N-670, N-182
 Related Nodes: N-10955
 Investigative Direction: Compare with prior reporting on how the Sazan Island deal originated, including any earlier Kushner proposals.
 
@@ -1012,7 +1012,7 @@ Claim: Ivanka Trump says the project includes, besides the island, five miles of
 Transcript Snippet: We not only the island, but we have five miles of beachfront directly across from the island.
 
 Anchored Artifacts: A-2632.1
-Mentions: N-673, N-182
+Mentions: N-667, N-182
 Related Nodes: N-10955
 Investigative Direction: Review the Albanian government agreement for the land parcels included in the project.
 
@@ -1027,7 +1027,7 @@ Claim: The host says the "friend's boat" Ivanka Trump refers to belongs to Nat R
 Transcript Snippet: And when she says her friend's boat, okay, she's talking about Nathan Rothschild.
 
 Anchored Artifacts:
-Mentions: N-677, N-673
+Mentions: N-671, N-667
 Related Nodes:
 Investigative Direction: Locate reporting or photographs placing Ivanka Trump and Jared Kushner on Nat Rothschild's yacht off Albania.
 
@@ -1042,7 +1042,7 @@ Claim: Speaking sarcastically, the host says the Kushners had already tried to d
 Transcript Snippet: you tried to do this already in Serbia and we said maybe we can do this one instead. That didn't happen.
 
 Anchored Artifacts:
-Mentions: N-673, N-182
+Mentions: N-667, N-182
 Related Nodes: N-10958
 Investigative Direction: Check reporting on Affinity Partners' Belgrade project and its status.
 
@@ -1117,7 +1117,7 @@ Claim: In the news report the prime minister, whom the host names as Edi Rama ("
 Transcript Snippet: There is no chance that this investment will stop as long as I am here.
 
 Anchored Artifacts: A-2633.1
-Mentions: N-678
+Mentions: N-672
 Related Nodes: N-10958, N-10959
 Investigative Direction: Locate the full statement and any disclosures about financial ties between Albanian officials and the project.
 
@@ -1147,7 +1147,7 @@ Claim: In the clip, Tim Dillon says that when acts pulled out of the concert cel
 Transcript Snippet: You know when this concert he's going to do this concert to celebrate America's 250th anniversary and all these acts pulled out.
 
 Anchored Artifacts: A-2634.1
-Mentions: N-283, N-5
+Mentions: N-281, N-5
 Related Nodes:
 Investigative Direction: Check reporting on the America 250 concert lineup and withdrawals, and Trump's statement.
 
@@ -1177,7 +1177,7 @@ Claim: The host says the story quotes Erika Kirk's friends Tracy Martin and Jame
 Transcript Snippet: Tracy Martin, James Catis, who runs the faith department, the most despicable department at Turning Point USA.
 
 Anchored Artifacts: A-2635.1
-Mentions: N-556, N-679
+Mentions: N-551, N-673
 Related Nodes: N-10960
 Investigative Direction: Check the published US Weekly article for the named sources and confirm James Kaddis's TPUSA role.
 
@@ -1192,7 +1192,7 @@ Claim: According to the US Weekly email, Tracy Martin says Charlie Kirk was scar
 Transcript Snippet: She says that Charlie was Charlie was scared of me. He was scared to answer my calls.
 
 Anchored Artifacts: A-2635.1
-Mentions: N-556, N-1, N-3
+Mentions: N-551, N-1, N-3
 Related Nodes: N-10960
 Investigative Direction: Compare Charlie Kirk's call and text logs with the host.
 
@@ -1237,7 +1237,7 @@ Claim: The host says Ariana Grande announced her split from Ethan Slater, which 
 Transcript Snippet: I did get a lot of people texting me about Ariana Grande uh announcing the most obvious split of all time because I called this very early.
 
 Anchored Artifacts:
-Mentions: N-680, N-681
+Mentions: N-674, N-675
 Related Nodes:
 Investigative Direction: Check entertainment-press reporting on the June 2026 announcement.
 
@@ -1252,7 +1252,7 @@ Claim: The host says Ethan Slater was married to his high school sweetheart and 
 Transcript Snippet: Ethan Slater was married to his high school sweetheart they had just had their first baby.
 
 Anchored Artifacts:
-Mentions: N-681, N-680
+Mentions: N-675, N-674
 Related Nodes:
 Investigative Direction: Check public reporting on Ethan Slater's marriage and divorce timeline.
 
@@ -1493,7 +1493,7 @@ Confidence: high
 - **A-2629.1**: the heckling clip at 07:05 is untranscribed apart from "Hey, come over here." Its content is inferred from the host's lead-in, so confidence is Low.
 - **Duration**: the skeleton gave 00:56:29; the transcript front matter gives 58:30, which is used here.
 - **Existing meme occurrence**: the skeleton's M-41 occurrence (stamped 00:46:24) is kept verbatim. The quoted words appear in the [44:57] paragraph.
-- **Name matching**: "Dana Lash" is taken to be Dana Loesch (N-671; no node in nodes.tsv). "Andrew Kovette/Kovett" is matched to N-14, "Greg Lori" to N-461 Greg Laurie, "Blake Nef" to N-162, "Bradley Hansel" to N-443, "Pete Hegsath" to N-604, "Tim Dylan" to N-283 and "Barry Weiss" to N-284. "Richard Smallley" and "Michaela Mott Marzuka" use the staging titles Richard Smaly and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
+- **Name matching**: "Dana Lash" is taken to be Dana Loesch (N-665; no node in nodes.tsv). "Andrew Kovette/Kovett" is matched to N-14, "Greg Lori" to N-456 Greg Laurie, "Blake Nef" to N-162, "Bradley Hansel" to N-439, "Pete Hegsath" to N-599, "Tim Dylan" to N-281 and "Barry Weiss" to N-282. "Richard Smallley" and "Michaela Mott Marzuka" use the staging titles Richard Smaly and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
 - **Topic reuse**: two staging titles exist for the WHCD email (episode 104 "White House Military Office 'I Want to Go Home' Amplification Email" and episode 105 "White House Military Office Erika Kirk Amplification Email"). N-10923 uses the episode 105 title, and the integrator should merge the two. M-95 reuses the staging meme title "Emotional Response Asset", and M-92 reuses "Paramount Not So Tactical".
 - **Cross-episode link**: C-4403 Supports C-2888 (episode 102, donors assert the "I appoint my wife" clip was faked). Episode 102 places the donors at Aspen, while this episode refers to "your WLS event" and a later donor dinner, so the venue mapping is uncertain. C-2982 (episode 122, pending FOIA requests including NSA) is later and is not linked. The JD Vance "empty crowd" claim (C-4390) may relate to the existing topic "TPUSA UGA Event Crowd-Size Failure", but the event is not named, so it is not linked.
 - **Not inscribed as claims (admission test)**:

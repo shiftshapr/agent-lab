@@ -89,7 +89,7 @@
           "related_nodes": [
             "N-3",
             "N-97",
-            "N-374"
+            "N-371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,7 +115,7 @@
             "C-1983"
           ],
           "related_nodes": [
-            "N-371",
+            "N-368",
             "N-10371"
           ],
           "tags": [],
@@ -142,8 +142,8 @@
             "C-1984"
           ],
           "related_nodes": [
-            "N-371",
-            "N-373",
+            "N-368",
+            "N-370",
             "N-10371"
           ],
           "tags": [],
@@ -170,8 +170,8 @@
             "C-1985"
           ],
           "related_nodes": [
-            "N-372",
             "N-369",
+            "N-366",
             "N-10372"
           ],
           "tags": [],
@@ -198,7 +198,7 @@
             "C-1987"
           ],
           "related_nodes": [
-            "N-369",
+            "N-366",
             "N-10370"
           ],
           "tags": [],
@@ -217,7 +217,7 @@
             "C-1986"
           ],
           "related_nodes": [
-            "N-272",
+            "N-270",
             "N-10370",
             "N-10373"
           ],
@@ -237,7 +237,7 @@
             "C-1987"
           ],
           "related_nodes": [
-            "N-369",
+            "N-366",
             "N-10370"
           ],
           "tags": [],
@@ -502,8 +502,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-371",
-      "ref": "N-371",
+      "@id": "N-368",
+      "ref": "N-368",
       "name": "Mark Amodei",
       "type": "person",
       "description": "U.S. Representative (NV); subject of contradictory public-record claims regarding his whereabouts on September 9, 2025.",
@@ -526,8 +526,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Charlie Kirk's security officer; travel logs referenced as supporting the possibility he attended the Fort Huachuca morning meeting.",
@@ -550,8 +550,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-372",
-      "ref": "N-372",
+      "@id": "N-369",
+      "ref": "N-369",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Daily Wire / Morning Wire contributor; identified by Mitch from a photograph as a person seen at Fort Huachuca; subject of a separate dating-history claim involving Erika Kirk.",
@@ -574,8 +574,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-373",
-      "ref": "N-373",
+      "@id": "N-370",
+      "ref": "N-370",
       "name": "Diligent Dennison",
       "type": "person",
       "description": "X poster; author of the read-aloud post analyzing Mark Amodei's alibi and identifying missed roll calls.",
@@ -591,14 +591,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-371",
+        "N-368",
         "N-10371"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-371",
+      "ref": "N-371",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Then-CEO of the Daily Wire; conducted the town hall–style firing of Candace Owens captured in A-1563.1.",
@@ -619,8 +619,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Fort Huachuca witness; his access, NDA-related lawsuit paperwork, and direction-request video are referenced as verified by the host.",
@@ -665,10 +665,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-371",
-        "N-272",
-        "N-372",
-        "N-369"
+        "N-368",
+        "N-270",
+        "N-369",
+        "N-366"
       ]
     },
     {
@@ -692,8 +692,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-371",
-        "N-373"
+        "N-368",
+        "N-370"
       ]
     },
     {
@@ -715,8 +715,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-372",
-        "N-369"
+        "N-369",
+        "N-366"
       ]
     },
     {
@@ -738,7 +738,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-272",
+        "N-270",
         "N-10370"
       ]
     },
@@ -760,7 +760,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-372"
+        "N-369"
       ]
     },
     {
@@ -1098,8 +1098,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-265",
-      "ref": "N-265",
+      "@id": "N-263",
+      "ref": "N-263",
       "name": "Steven Crowder",
       "type": "person",
       "description": "Named as having obtained the town hall video.",
@@ -1115,8 +1115,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Named as the journalist the host says Shapiro worked with.",
@@ -1132,8 +1132,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-326",
-      "ref": "N-326",
+      "@id": "N-323",
+      "ref": "N-323",
       "name": "Captain Adam Nef",
       "type": "person",
       "description": "Named by the host as the Army captain who questioned Mitch.",
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-586",
-      "ref": "N-586",
+      "@id": "N-581",
+      "ref": "N-581",
       "name": "Nicole Rothstein",
       "type": "person",
       "description": "Named as Erika Kirk's cousin commenting that Erika is half Jewish.",
@@ -1449,8 +1449,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-729",
-      "ref": "N-729",
+      "@id": "N-723",
+      "ref": "N-723",
       "name": "Hank Berrien",
       "type": "person",
       "description": "First named by the host at 00:22:56 in episode 050. Pen name the host says Ben Shapiro's father uses for Daily Wire and earlier Breitbart articles.",
@@ -1575,7 +1575,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-374"
+        "N-371"
       ]
     },
     {
@@ -1594,7 +1594,7 @@
       "claim_timestamp": "00:35:44",
       "investigative_direction": "Retrieve the original X post URL; cross-reference with the House Appropriations Committee's published September 9 video and the House roll call record.",
       "mentions_person_refs": [
-        "N-371"
+        "N-368"
       ]
     },
     {
@@ -1613,8 +1613,8 @@
       "claim_timestamp": "00:36:36",
       "investigative_direction": "Independently verify against the official House roll call vote record for September 9, 2025; verify flight routing feasibility for Amodei to have been at Fort Huachuca that morning and back in D.C. for the third roll call.",
       "mentions_person_refs": [
-        "N-371",
-        "N-373"
+        "N-368",
+        "N-370"
       ]
     },
     {
@@ -1633,8 +1633,8 @@
       "claim_timestamp": "00:41:56 – 00:43:14",
       "investigative_direction": "Corroborate through independent identification sources; verify Cabot Phillips's whereabouts between September 4 and 10, 2025 (including Morning Wire appearance records); await response from Cabot Phillips to host's outreach.",
       "mentions_person_refs": [
-        "N-369",
-        "N-372"
+        "N-366",
+        "N-369"
       ]
     },
     {
@@ -1654,7 +1654,7 @@
       "claim_timestamp": "00:37:30",
       "investigative_direction": "Obtain or display the actual travel logs; corroborate against airline / charter records; await response from Brian Harpole to host's iMessage outreach.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -1674,7 +1674,7 @@
       "claim_timestamp": "00:33:21 – 00:34:20",
       "investigative_direction": "Display or publish the underlying verification documents; obtain third-party corroboration beyond host's assertions.",
       "mentions_person_refs": [
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -1692,7 +1692,7 @@
       "investigative_direction": "Locate the original Erika Kirk statement (interview, podcast, or social-media post); obtain screenshots of the cited social-media evidence (painting lessons, family interactions); obtain corroboration from family members including Nicole Rothstein.",
       "mentions_person_refs": [
         "N-2",
-        "N-372",
+        "N-369",
         "N-1"
       ]
     },
@@ -1817,7 +1817,7 @@
       "transcript_snippet": "he was working with Barry Weiss to call and put an article out saying that the donors, the people on the board of TPUSA want Candace gone.",
       "mentions_person_refs": [
         "N-97",
-        "N-284",
+        "N-282",
         "N-3"
       ]
     },
@@ -2067,8 +2067,8 @@
         "C-1982"
       ],
       "mentions_person_refs": [
-        "N-265",
-        "N-374"
+        "N-263",
+        "N-371"
       ]
     },
     {
@@ -2086,7 +2086,7 @@
       "investigative_direction": "Retrieve the Rubin and host exchange on X from November 2023 and compare with Boreing's quoted text.",
       "transcript_snippet": "So when Dave Rubin came to the exact same conclusion as the anti-Semites only instead of cheering for Candace found it vile and rebuked her",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-32",
         "N-3"
       ]
@@ -2106,7 +2106,7 @@
       "investigative_direction": "Check the host's X likes history or archived copies for the November 2023 like cited by Boreing.",
       "transcript_snippet": "Within 24 hours Candace liked a post calling Israeli Prime Minister Benjamin Netanyahu a war criminal.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-36",
         "N-3"
       ]
@@ -2126,7 +2126,7 @@
       "investigative_direction": "Review archived replies to the February 28, 2024 post to test the characterization.",
       "transcript_snippet": "Her replies were immediately flooded with anti-Semites cheering her for the question",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -2385,7 +2385,7 @@
       "transcript_snippet": "How many more articles is his father going to write under a pen name, Hank Berrien of the Daily Wire, under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart",
       "mentions_person_refs": [
         "N-97",
-        "N-729"
+        "N-723"
       ]
     },
     {
@@ -2507,7 +2507,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2530,8 +2530,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-326",
-        "N-369"
+        "N-323",
+        "N-366"
       ]
     },
     {
@@ -2554,7 +2554,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2573,7 +2573,7 @@
       "transcript_snippet": "You can support Mitch at givesendgo. com/candacepodcast.",
       "mentions_person_refs": [
         "N-3",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2595,7 +2595,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-371"
+        "N-368"
       ]
     },
     {
@@ -2613,7 +2613,7 @@
       "investigative_direction": "Ask Amodei's office or local press whether constituent calls were received and what the office said.",
       "transcript_snippet": "Mark Amodei apparently received a ton of phone calls from his constituents who wanted to know where he was.",
       "mentions_person_refs": [
-        "N-371"
+        "N-368"
       ]
     },
     {
@@ -2676,8 +2676,8 @@
         "C-1984"
       ],
       "mentions_person_refs": [
-        "N-373",
-        "N-371"
+        "N-370",
+        "N-368"
       ]
     },
     {
@@ -2701,7 +2701,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2720,7 +2720,7 @@
       "transcript_snippet": "There was one person who we are vetting who believes that they have evidence that the people that Mitch saw were in fact on that base on that date.",
       "mentions_person_refs": [
         "N-3",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2742,8 +2742,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-369",
-        "N-371"
+        "N-366",
+        "N-368"
       ]
     },
     {
@@ -2765,8 +2765,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-369",
-        "N-371"
+        "N-366",
+        "N-368"
       ]
     },
     {
@@ -2789,7 +2789,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-372",
+        "N-369",
         "N-2"
       ]
     },
@@ -2835,8 +2835,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-369",
-        "N-372"
+        "N-366",
+        "N-369"
       ]
     },
     {
@@ -2855,7 +2855,7 @@
       "transcript_snippet": "I messaged Cabot Cabot Phillips twice today, actually, and asked him if he wanted to have an off-the-record conversation",
       "mentions_person_refs": [
         "N-3",
-        "N-372"
+        "N-369"
       ]
     },
     {
@@ -2874,7 +2874,7 @@
       "transcript_snippet": "he is missing from September 4th to September 10th on that show.",
       "mentions_person_refs": [
         "N-3",
-        "N-372"
+        "N-369"
       ]
     },
     {
@@ -2896,9 +2896,9 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-372",
+        "N-369",
         "N-2",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2915,7 +2915,7 @@
       "transcript_snippet": "a pretty big guy, you know, uh taking a lot of money from the Adelsons, and definitely a neocon.",
       "mentions_person_refs": [
         "N-3",
-        "N-372"
+        "N-369"
       ]
     },
     {
@@ -2940,7 +2940,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-372"
+        "N-369"
       ]
     },
     {
@@ -2959,7 +2959,7 @@
       "transcript_snippet": "Nicole Rothstein was like, \"I'm her cousin. She's half Jewish.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-586",
+        "N-581",
         "N-2"
       ]
     },
@@ -3060,7 +3060,7 @@
       "transcript_snippet": "that's why we open you guys to this investigation to send us tips",
       "mentions_person_refs": [
         "N-3",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -3100,7 +3100,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-369"
+        "N-366"
       ]
     },
     {

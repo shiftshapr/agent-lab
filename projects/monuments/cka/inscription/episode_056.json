@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-463"
+            "N-458"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-22",
-            "N-463"
+            "N-458"
           ],
           "tags": [],
           "video_timestamp": "00:07:08",
@@ -84,9 +84,9 @@
             "C-2080"
           ],
           "related_nodes": [
-            "N-455",
-            "N-456",
-            "N-457",
+            "N-451",
+            "N-452",
+            "N-453",
             "N-41",
             "N-10409"
           ],
@@ -109,12 +109,12 @@
           "@type": "Artifact",
           "@id": "A-1620.1",
           "ref": "A-1620.1",
-          "description": "Host-narrated reference to Paul E. Valli (Valerie) as a Turning Point USA board member, described as former military commander of the 7th Psychological Operations Group, with two Vietnam combat tours and postings in Japan, Korea, Iraq, Israel, and Europe.",
+          "description": "Host-narrated reference to Paul Vallely (Valerie) as a Turning Point USA board member, described as former military commander of the 7th Psychological Operations Group, with two Vietnam combat tours and postings in Japan, Korea, Iraq, Israel, and Europe.",
           "related_claims": [
             "C-2081"
           ],
           "related_nodes": [
-            "N-459",
+            "N-808",
             "N-10410"
           ],
           "tags": [],
@@ -133,13 +133,13 @@
           "@type": "Artifact",
           "@id": "A-1621.1",
           "ref": "A-1621.1",
-          "description": "Reference to the 1980 book *Mind War* co-authored by Paul Valli and Major Michael Aquino.",
+          "description": "Reference to the 1980 book *Mind War* co-authored by Paul Vallely and Major Michael Aquino.",
           "related_claims": [
             "C-2082"
           ],
           "related_nodes": [
-            "N-459",
-            "N-460",
+            "N-808",
+            "N-455",
             "N-10410"
           ],
           "tags": [],
@@ -163,7 +163,7 @@
             "C-2084"
           ],
           "related_nodes": [
-            "N-460"
+            "N-455"
           ],
           "tags": [],
           "video_timestamp": "00:22:54",
@@ -179,7 +179,7 @@
             "C-2084"
           ],
           "related_nodes": [
-            "N-460"
+            "N-455"
           ],
           "tags": [],
           "video_timestamp": "00:22:47",
@@ -202,7 +202,7 @@
             "C-2085"
           ],
           "related_nodes": [
-            "N-460"
+            "N-455"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -219,7 +219,7 @@
             "C-2086"
           ],
           "related_nodes": [
-            "N-460"
+            "N-455"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,8 +244,8 @@
             "C-2087"
           ],
           "related_nodes": [
-            "N-461",
-            "N-462",
+            "N-456",
+            "N-457",
             "N-10411"
           ],
           "tags": [],
@@ -261,7 +261,7 @@
             "C-2088"
           ],
           "related_nodes": [
-            "N-462",
+            "N-457",
             "N-10411"
           ],
           "tags": [],
@@ -277,7 +277,7 @@
             "C-2089"
           ],
           "related_nodes": [
-            "N-462",
+            "N-457",
             "N-10411"
           ],
           "tags": [],
@@ -352,7 +352,7 @@
             "C-2093"
           ],
           "related_nodes": [
-            "N-464"
+            "N-459"
           ],
           "tags": [],
           "video_timestamp": "00:44:19",
@@ -384,8 +384,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-455",
-      "ref": "N-455",
+      "@id": "N-451",
+      "ref": "N-451",
       "name": "Alton C. Jennings",
       "type": "person",
       "description": "Decedent, age 95, whose $25M estate is the subject of a December 2024 will challenge naming TPUSA and YAF as recipients.",
@@ -407,8 +407,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-456",
-      "ref": "N-456",
+      "@id": "N-452",
+      "ref": "N-452",
       "name": "Mitch Manley Sr.",
       "type": "person",
       "description": "Caretaker hired by Alton C. Jennings in 2021; named in will-challenge petition as having isolated decedent from family.",
@@ -429,8 +429,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-457",
-      "ref": "N-457",
+      "@id": "N-453",
+      "ref": "N-453",
       "name": "Mitch Manley Jr.",
       "type": "person",
       "description": "Son of Mitch Manley Sr.; described as working for Turning Point USA on Charlie Kirk's show during the period the Jennings estate was redirected.",
@@ -446,15 +446,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-456",
+        "N-452",
         "N-10409"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-459",
-      "ref": "N-459",
-      "name": "Paul Valli",
+      "@id": "N-808",
+      "ref": "N-808",
+      "name": "Paul Vallely",
       "type": "person",
       "description": "Turning Point USA board member; former military commander of the 7th Psychological Operations Group; co-author of *Mind War* (1980) with Michael Aquino.",
       "related_artifacts": [
@@ -471,14 +471,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-460",
+        "N-455",
         "N-10410"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-460",
-      "ref": "N-460",
+      "@id": "N-455",
+      "ref": "N-455",
       "name": "Michael Aquino",
       "type": "person",
       "description": "Former US Army Major; intelligence officer; co-author of *Mind War* (1980); member of Church of Satan from 1969; founder of Temple of Set (1975); subject of 1986–1987 San Francisco child-abuse investigation (insufficient evidence).",
@@ -502,14 +502,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-459",
+        "N-808",
         "N-10410"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-461",
-      "ref": "N-461",
+      "@id": "N-456",
+      "ref": "N-456",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Founder of Harvest Christian Fellowship; named defendant in twelve lawsuits alleging abuse at affiliated Romanian children's home.",
@@ -525,14 +525,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-462",
+        "N-457",
         "N-10411"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-462",
-      "ref": "N-462",
+      "@id": "N-457",
+      "ref": "N-457",
       "name": "Paul Havsgaard",
       "type": "person",
       "description": "Former Harvest Christian Fellowship pastor/missionary; named defendant in original September lawsuit alleging abuse of children at Romanian shelter.",
@@ -550,7 +550,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-461",
+        "N-456",
         "N-10411"
       ]
     },
@@ -594,8 +594,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-463",
-      "ref": "N-463",
+      "@id": "N-458",
+      "ref": "N-458",
       "name": "Lindsey Graham",
       "type": "person",
       "description": "US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.",
@@ -615,8 +615,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-312",
-      "ref": "N-312",
+      "@id": "N-309",
+      "ref": "N-309",
       "name": "Wed Mahmoud",
       "type": "person",
       "description": "Referenced by host as a name appearing both on the SUBTU plane into Provo and on the \"yellow plane\" on the day of Charlie Kirk's assassination (timeline build).",
@@ -633,8 +633,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-464",
-      "ref": "N-464",
+      "@id": "N-459",
+      "ref": "N-459",
       "name": "Andrew Aguilar",
       "type": "person",
       "description": "Self-identified former Green Beret; claims arrest at US Capitol for calling out AIPAC.",
@@ -671,9 +671,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-455",
-        "N-456",
-        "N-457",
+        "N-451",
+        "N-452",
+        "N-453",
         "N-41"
       ]
     },
@@ -683,7 +683,7 @@
       "ref": "N-10410",
       "name": "TPUSA Board Member Military–Satanism Connection",
       "type": "investigation_target",
-      "description": "Persistent investigation target: link between a TPUSA board member (Paul Valli) and military psychological-operations / Satanist / Temple of Set networks (Michael Aquino).",
+      "description": "Persistent investigation target: link between a TPUSA board member (Paul Vallely) and military psychological-operations / Satanist / Temple of Set networks (Michael Aquino).",
       "related_artifacts": [
         "A-1620.1",
         "A-1621.1",
@@ -706,8 +706,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-459",
-        "N-460"
+        "N-808",
+        "N-455"
       ]
     },
     {
@@ -733,8 +733,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-461",
-        "N-462"
+        "N-456",
+        "N-457"
       ]
     },
     {
@@ -824,7 +824,7 @@
       "investigative_direction": "Obtain primary recording; verify exact phrasing.",
       "mentions_person_refs": [
         "N-1",
-        "N-463"
+        "N-458"
       ]
     },
     {
@@ -843,8 +843,8 @@
       "claim_timestamp": "00:13:58",
       "investigative_direction": "Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.",
       "mentions_person_refs": [
-        "N-455",
-        "N-456"
+        "N-451",
+        "N-452"
       ]
     },
     {
@@ -863,7 +863,7 @@
       "claim_timestamp": "00:16:20",
       "investigative_direction": "Obtain probate court filings; verify valuation and date of will execution.",
       "mentions_person_refs": [
-        "N-455"
+        "N-451"
       ]
     },
     {
@@ -882,8 +882,8 @@
       "claim_timestamp": "00:16:20",
       "investigative_direction": "Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.",
       "mentions_person_refs": [
-        "N-456",
-        "N-457",
+        "N-452",
+        "N-453",
         "N-1"
       ]
     },
@@ -910,8 +910,8 @@
       "@type": "Claim",
       "@id": "C-2081",
       "ref": "C-2081",
-      "label": "Paul Valli Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group",
-      "claim": "Paul E. Valli (Valerie) is identified as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.",
+      "label": "Paul Vallely Is a TPUSA Board Member and Former Commander of the 7th PSYOP Group",
+      "claim": "Paul Vallely (Valerie) is identified as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.",
       "anchored_artifacts": [
         "A-1620.1"
       ],
@@ -922,7 +922,7 @@
       "claim_timestamp": "00:18:40",
       "investigative_direction": "Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.",
       "mentions_person_refs": [
-        "N-459"
+        "N-808"
       ]
     },
     {
@@ -930,7 +930,7 @@
       "@id": "C-2082",
       "ref": "C-2082",
       "label": "Valli and Aquino Co-Authored *Mind War* in 1980",
-      "claim": "Paul Valli and Major Michael Aquino co-authored the book *Mind War* in 1980.",
+      "claim": "Paul Vallely and Major Michael Aquino co-authored the book *Mind War* in 1980.",
       "anchored_artifacts": [
         "A-1621.1"
       ],
@@ -941,8 +941,8 @@
       "claim_timestamp": "00:21:42",
       "investigative_direction": "Obtain bibliographic record (publisher, ISBN); verify authorship.",
       "mentions_person_refs": [
-        "N-459",
-        "N-460"
+        "N-808",
+        "N-455"
       ]
     },
     {
@@ -961,7 +961,7 @@
       "claim_timestamp": "00:22:47",
       "investigative_direction": "Cross-check Aquino's published biographical statements; consult Church of Satan archives.",
       "mentions_person_refs": [
-        "N-460"
+        "N-455"
       ]
     },
     {
@@ -981,7 +981,7 @@
       "claim_timestamp": "00:22:47",
       "investigative_direction": "Verify founding documents; cross-check Temple of Set records.",
       "mentions_person_refs": [
-        "N-460"
+        "N-455"
       ]
     },
     {
@@ -1000,7 +1000,7 @@
       "claim_timestamp": "00:27:54",
       "investigative_direction": "Obtain SFPD case records (case number); verify closure status and stated reason.",
       "mentions_person_refs": [
-        "N-460"
+        "N-455"
       ]
     },
     {
@@ -1019,7 +1019,7 @@
       "claim_timestamp": "00:27:54",
       "investigative_direction": "Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available.",
       "mentions_person_refs": [
-        "N-460"
+        "N-455"
       ]
     },
     {
@@ -1038,7 +1038,7 @@
       "claim_timestamp": "00:32:12",
       "investigative_direction": "Obtain court filings (case numbers, jurisdiction); verify plaintiff count.",
       "mentions_person_refs": [
-        "N-461"
+        "N-456"
       ]
     },
     {
@@ -1057,7 +1057,7 @@
       "claim_timestamp": "00:34:03",
       "investigative_direction": "Obtain original complaint; verify specificity of allegations; confirm Hascgard's status (former pastor/missionary).",
       "mentions_person_refs": [
-        "N-462"
+        "N-457"
       ]
     },
     {
@@ -1076,7 +1076,7 @@
       "claim_timestamp": "00:35:00",
       "investigative_direction": "Obtain law firm press release; track complaint filings in docket.",
       "mentions_person_refs": [
-        "N-462"
+        "N-457"
       ]
     },
     {
@@ -1130,7 +1130,7 @@
       "investigative_direction": "Locate original clip; verify date and outlet.",
       "mentions_person_refs": [
         "N-22",
-        "N-463"
+        "N-458"
       ]
     },
     {
@@ -1147,7 +1147,7 @@
       "claim_timestamp": "00:44:19",
       "investigative_direction": "Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals.",
       "mentions_person_refs": [
-        "N-464"
+        "N-459"
       ]
     },
     {
@@ -1162,7 +1162,7 @@
       "claim_timestamp": "00:09:14",
       "investigative_direction": "Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**",
       "mentions_person_refs": [
-        "N-312"
+        "N-309"
       ]
     },
     {
@@ -1177,7 +1177,7 @@
       "claim_timestamp": "00:10:59",
       "investigative_direction": "Verify conflict onset date via public news records; cross-check host's timeline against flight records.",
       "mentions_person_refs": [
-        "N-312"
+        "N-309"
       ]
     }
   ],

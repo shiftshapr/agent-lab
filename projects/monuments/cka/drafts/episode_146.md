@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-803, N-11148, N-11150
-  - Hole-minted Nodes (reintro-ep146): N-287, N-10885
+  - Tip-minted Nodes (supplement_2026-10b): N-797, N-11148, N-11150
+  - Hole-minted Nodes (reintro-ep146): N-285, N-10885
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7599–C-7692
   - New Nodes Introduced: N-10819
-  - Reused Nodes Appearing: N-10818, N-5, N-7, N-9, N-17, N-22, N-54, N-55, N-89, N-97, N-107, N-118, N-162, N-221, N-267, N-375, N-496, N-515, N-517, N-580, N-619, N-679, N-10000, N-10013, N-10015, N-10019, N-10040, N-10048, N-10077, N-10131, N-10148, N-10169, N-10193, N-10198, N-10248, N-10264, N-10324, N-10398, N-10570, N-10679, N-10712, N-10715, N-10729, N-10888, N-10897, N-10969, N-11057, N-11065, N-11070, N-10817, N-11149
+  - Reused Nodes Appearing: N-10818, N-5, N-7, N-9, N-17, N-22, N-54, N-55, N-89, N-97, N-107, N-118, N-162, N-221, N-265, N-372, N-491, N-510, N-512, N-575, N-614, N-673, N-10000, N-10013, N-10015, N-10019, N-10040, N-10048, N-10077, N-10131, N-10148, N-10169, N-10193, N-10198, N-10248, N-10264, N-10324, N-10398, N-10570, N-10679, N-10712, N-10715, N-10729, N-10888, N-10897, N-10969, N-11057, N-11065, N-11070, N-10817, N-11149
   - (see registers)
 
 # Episode 146 Ledger Summary
@@ -451,7 +451,7 @@ Elizabeth McCoy; on Mikey McCoy's call log.
 
 ---
 
-**N-251** Butch Hibbs
+**N-250** Butch Hibbs
 
 Butch Hibbs; subject of the UVU footage and presence claims.
 
@@ -459,7 +459,7 @@ Butch Hibbs; subject of the UVU footage and presence claims.
 
 ---
 
-**N-267** Terrell Farnsworth
+**N-265** Terrell Farnsworth
 
 Terrell Farnsworth; the host restates his selfie video and SD card handling.
 
@@ -467,7 +467,7 @@ Terrell Farnsworth; the host restates his selfie video and SD card handling.
 
 ---
 
-**N-287** Jennica Pounds
+**N-285** Jennica Pounds
 
 Jennica Pounds (Data Republican); named in the host's opening resemblance remark.
 
@@ -475,7 +475,7 @@ Jennica Pounds (Data Republican); named in the host's opening resemblance remark
 
 ---
 
-**N-375** Danny Philip
+**N-372** Danny Philip
 
 Danny Phillip; Charlie's assistant on the call log and at the tent.
 
@@ -483,7 +483,7 @@ Danny Phillip; Charlie's assistant on the call log and at the tent.
 
 ---
 
-**N-496** Justin Baldoni
+**N-491** Justin Baldoni
 
 Justin Baldoni; named in the mathematician email and kombucha aside.
 
@@ -491,7 +491,7 @@ Justin Baldoni; named in the mathematician email and kombucha aside.
 
 ---
 
-**N-515** Nate Walker
+**N-510** Nate Walker
 
 Nate Walker; Charlie's assistant named in the 911 claim.
 
@@ -499,7 +499,7 @@ Nate Walker; Charlie's assistant named in the 911 claim.
 
 ---
 
-**N-517** Christopher Bagley
+**N-512** Christopher Bagley
 
 Officer Christopher Bagley (host says Baggley); hearing testimony relayed by hearsay.
 
@@ -507,7 +507,7 @@ Officer Christopher Bagley (host says Baggley); hearing testimony relayed by hea
 
 ---
 
-**N-556** Tracy Martin
+**N-551** Tracy Martin
 
 Tracy Martin; named in the courthouse segment as Erika's PR.
 
@@ -515,7 +515,7 @@ Tracy Martin; named in the courthouse segment as Erika's PR.
 
 ---
 
-**N-580** David Hull
+**N-575** David Hull
 
 David Hull; officer named in the hearing hearsay example.
 
@@ -523,7 +523,7 @@ David Hull; officer named in the hearing hearsay example.
 
 ---
 
-**N-619** Graham Allen
+**N-614** Graham Allen
 
 Graham Allen; named as absent and as a Department of War consultant.
 
@@ -531,7 +531,7 @@ Graham Allen; named as absent and as a Department of War consultant.
 
 ---
 
-**N-679** James Kaddis
+**N-673** James Kaddis
 
 James Cadis (James Kaddis); pastor spotted at the courthouse.
 
@@ -763,7 +763,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-803** Todd Starns
+**N-797** Todd Starns
 
 First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Starnes). Fox News figure who interviewed Jack Hibbs on audio.
 
@@ -844,7 +844,7 @@ Claim Timestamp: 00:13:30
 Claim: In a Fox News audio interview, Jack Hibbs stated that his brother Butch received a front-row seat to the UVU event directly from Charlie Kirk.
 
 Anchored Artifacts: A-2323.1, A-2322.1
-Mentions: N-1, N-251, N-212
+Mentions: N-1, N-250, N-212
 
 Related Nodes:
 
@@ -889,7 +889,7 @@ Claim Timestamp: 00:22:23
 Claim: Never-before-seen footage shows Butch Hibbs dipping down to open his camera app and recording multiple angles of the scene within seconds of the shot being fired, while remaining in place near the tent.
 
 Anchored Artifacts: A-2324.1
-Mentions: N-251
+Mentions: N-250
 
 Related Nodes: N-10817
 
@@ -949,7 +949,7 @@ Claim Timestamp: 00:24:18
 Claim: A still from UVU footage shows Butch Hibbs on what appears to be a phone call approximately five minutes after the shot, without visible signs of distress.
 
 Anchored Artifacts: A-2324.2
-Mentions: N-251
+Mentions: N-250
 
 Related Nodes: N-10817
 
@@ -964,7 +964,7 @@ Claim Timestamp: 00:09:43
 Claim: Jack Hibbs in interview identifies his brother Butch as 74 years old; UVU event photography shows him wearing a plaid shirt in the security detail area.
 
 Anchored Artifacts: A-2322.1, A-2325.1
-Mentions: N-251, N-212
+Mentions: N-250, N-212
 
 Related Nodes:
 
@@ -994,7 +994,7 @@ Claim Timestamp: 00:09:43
 Claim: Jack Hibbs's account suggests multiple Calvary Chapel-affiliated individuals (Mikey McCoy, Frank Churik via FaceTime, Butch Hibbs via phone) were in communication within minutes of the shooting, consistent with a coordinated prayer-chain response beginning around 12:30 PM.
 
 Anchored Artifacts: A-2322.1, A-2322.2, A-2323.1, A-2324.2
-Mentions: N-194, N-251, N-212
+Mentions: N-194, N-250, N-212
 
 Related Nodes: N-10818
 
@@ -1009,7 +1009,7 @@ Claim Timestamp: 00:02:52
 Claim: Courthouse footage captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kovat, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision; Erika Kirk was present but not captured on camera.
 
 Anchored Artifacts: A-2326.1, A-2326.2, A-2326.3, A-2326.4
-Mentions: N-1, N-2, N-190, N-14, N-556
+Mentions: N-1, N-2, N-190, N-14, N-551
 
 Related Nodes:
 
@@ -1026,7 +1026,7 @@ Claim: The host reads an email from a self-described mathematician who estimates
 Transcript Snippet: It's an approximate the probability about one in 80 million chance that you met Justin Baldoni and his wife.
 
 Anchored Artifacts: A-2320.1
-Mentions: N-3, N-496
+Mentions: N-3, N-491
 Tags: relevance:tangential
 Investigative Direction: Locate the host's prior-episode question and the original email; the odds figure is the correspondent's estimate and is not independently checkable.
 
@@ -1041,7 +1041,7 @@ Claim: The host says Data Republican (Jennica Pounds) looks very much like Tyler
 Transcript Snippet: I have no positive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU.
 
 Anchored Artifacts: 
-Mentions: N-3, N-287, N-40
+Mentions: N-3, N-285, N-40
 Related Nodes: N-10885
 Tags: relevance:tangential
 Investigative Direction: Compare Pounds' documented whereabouts on September 10, 2025 with the UVU campus timeline; the host offers no affirmative evidence that Pounds was present.
@@ -1057,7 +1057,7 @@ Claim: The host says the Turning Point USA influencers, such as Graham Allen and
 Transcript Snippet: No Graham Allen, no Benny Johnson to tell us how overwhelmed we should be.
 
 Anchored Artifacts: 
-Mentions: N-3, N-619, N-89
+Mentions: N-3, N-614, N-89
 Related Nodes: N-10000, N-11065
 Tags: relevance:core
 Investigative Direction: Compare courtroom pool footage and attendee lists from decision day against the July preliminary hearing sign-in or press seating.
@@ -1073,7 +1073,7 @@ Claim: The host says Stacy Sheridan is the head of Turning Point USA donations a
 Transcript Snippet: Head of Turning Point USA donations and gifts, always there. Tracy Martin, I'm counting that as dad. She does Erika's PR dirty work.
 
 Anchored Artifacts: A-2326.2
-Mentions: N-190, N-556, N-2
+Mentions: N-190, N-551, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff and org records for Sheridan's title and Martin's contracted or informal PR role for Erika Kirk.
@@ -1089,7 +1089,7 @@ Claim: The host says Pastor James Cadis is the senior pastor of Calvary Chapel i
 Transcript Snippet: He's the senior pastor of Calvary Chapel in Signal Hill, California. He is also one of Erika Kirk's many problematic TPUSA faith pastors.
 
 Anchored Artifacts: A-2326.4
-Mentions: N-679, N-2
+Mentions: N-673, N-2
 Related Nodes: N-10398, N-10264
 Tags: relevance:context
 Investigative Direction: Check Calvary Chapel Signal Hill staff listings and TPUSA Faith advisory rosters for Cadis (transcript spelling).
@@ -1105,7 +1105,7 @@ Claim: The host says Cadis hosts a show with Erika Kirk tied to her fashion bran
 Transcript Snippet: He also hosts a show with her with that like fledgling, you know, fashion brand that she has, Bible and 365.
 
 Anchored Artifacts: A-2326.4
-Mentions: N-679, N-2
+Mentions: N-673, N-2
 Tags: relevance:context
 Investigative Direction: Identify the show and brand by name and confirm Cadis' role from the brand's own channels.
 
@@ -1154,7 +1154,7 @@ Claim: The host says Mikey McCoy, on arriving at UVU with Charlie Kirk, met up w
 Transcript Snippet: Mikey McCoy, when he arrived at UVU with Charlie, also met up with a man named Butch Hibbs. They walked Charlie in together.
 
 Anchored Artifacts: A-2325.1
-Mentions: N-194, N-251, N-1
+Mentions: N-194, N-250, N-1
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Review UVU arrival and walk-in video to confirm Butch Hibbs' position relative to Charlie Kirk and Mikey McCoy.
@@ -1170,7 +1170,7 @@ Claim: The host says online chatter speculated that Butch Hibbs was undercover a
 Transcript Snippet: a lot of conspiracies that were drummed up regarding whether or not he was in fact undercover, particularly whether or not, as some people speculated, he may have been carrying a road microphone in his top pocket.
 
 Anchored Artifacts: A-2325.1
-Mentions: N-251, N-3
+Mentions: N-250, N-3
 Related Nodes: N-10817
 Tags: relevance:context
 Investigative Direction: Zoom on the high-resolution pre-event photo of Butch Hibbs' shirt pocket; the host attributes the theory to others and disclaims it.
@@ -1186,7 +1186,7 @@ Claim: The host says many people looked into where Butch Hibbs lives and a fligh
 Transcript Snippet: There were a lot of people looking into where he lives in Hebrew City, a flight that was potentially taken to Tennessee.
 
 Anchored Artifacts: 
-Mentions: N-251, N-3
+Mentions: N-250, N-3
 Related Nodes: N-10817
 Tags: relevance:tangential
 Investigative Direction: Verify any public flight or residence record only if it can be sourced; the host explicitly sets these aside.
@@ -1202,7 +1202,7 @@ Claim: The host says Butch Hibbs was born Burton Hibbs Jr., comes from a militar
 Transcript Snippet: Butch Hibbs, born Burton Hibbs, Jr., he is from a military family. His brother is Pastor Jack Hibbs, another senior pastor at Calvary Chapel Church.
 
 Anchored Artifacts: A-2325.1
-Mentions: N-251, N-212
+Mentions: N-250, N-212
 Related Nodes: N-10817
 Supports: C-1673
 Tags: relevance:core
@@ -1348,7 +1348,7 @@ Claim: In the Jack Hibbs interview clip, Frank Turek says Butch Hibbs introduced
 Transcript Snippet: your brother was there and he goes, I'm Jack Hib's brother. That's why they security wanted to throw him out.
 
 Anchored Artifacts: A-2322.1
-Mentions: N-7, N-212, N-251
+Mentions: N-7, N-212, N-250
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Ask UVU or TPUSA security staff whether Butch Hibbs was challenged at the event and what credential he held.
@@ -1364,7 +1364,7 @@ Claim: In the interview clip, a speaker (the transcript does not label which man
 Transcript Snippet: some people would say that he is a covert military operative for the CIA >> and in conjunction with the MSAD.
 
 Anchored Artifacts: A-2322.1
-Mentions: N-212, N-251
+Mentions: N-212, N-250
 Related Nodes: N-10015, N-10817
 Tags: relevance:context
 Investigative Direction: Listen to the original interview audio to attribute the line to a speaker; it is delivered as a joke about what others say.
@@ -1380,7 +1380,7 @@ Claim: In the interview clip, Jack Hibbs says his brother Butch had months to as
 Transcript Snippet: he had months to reach out to me to say, "Hey, can you give me a chance to meet Charlie and to to get a a decent seat?" >> But no, he calls me the night before.
 
 Anchored Artifacts: A-2322.1
-Mentions: N-212, N-251, N-1
+Mentions: N-212, N-250, N-1
 Related Nodes: N-10817
 Supports: C-3347
 Tags: relevance:core
@@ -1479,7 +1479,7 @@ Claim: The host says Butch Hibbs is very much involved in Calvary Chapel in Utah
 Transcript Snippet: And Butch Hibbs, by the way, is um very much involved in the Calvary Chapel uh Utah.
 
 Anchored Artifacts: 
-Mentions: N-251
+Mentions: N-250
 Related Nodes: N-10264, N-10248
 Tags: relevance:context
 Investigative Direction: Check Calvary Chapel Utah church listings and filings for Butch or Burton Hibbs.
@@ -1495,7 +1495,7 @@ Claim: In an audio-only Fox News interview with Todd Starns, Jack Hibbs says his
 Transcript Snippet: my brother's calling me and I can hear people screaming and yelling and I can hear my brother telling me, "Charlie's just been shot.
 
 Anchored Artifacts: A-2323.1
-Mentions: N-212, N-251, N-803, N-1
+Mentions: N-212, N-250, N-797, N-1
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Obtain the full Starns audio and Butch Hibbs' phone records to establish when the call was placed and its duration.
@@ -1511,7 +1511,7 @@ Claim: The host says it is unclear to her whether Jack Hibbs spoke to his brothe
 Transcript Snippet: it remains somewhat unclear to me whether Jack spoke to his brother Butch before or after he has a FaceTime session with Frank Turk from the hospital.
 
 Anchored Artifacts: A-2323.1, A-2322.2
-Mentions: N-212, N-251, N-7
+Mentions: N-212, N-250, N-7
 Related Nodes: N-10818
 Tags: relevance:core
 Investigative Direction: Reconcile Jack Hibbs' phone log against the two accounts to fix the order of the Butch and Turek calls.
@@ -1595,7 +1595,7 @@ Claim: In the clip, Jack Hibbs says that when his brother told him Charlie Kirk 
 Transcript Snippet: And he couldn't he just broke down. I actually hung up on him and I started making calls.
 
 Anchored Artifacts: A-2322.2
-Mentions: N-212, N-251, N-1
+Mentions: N-212, N-250, N-1
 Related Nodes: N-10818
 Tags: relevance:core
 Investigative Direction: Obtain Jack Hibbs' outgoing call list for the minutes after Butch's call to see who he phoned.
@@ -1611,7 +1611,7 @@ Claim: The host says Mikey McCoy's call logs show him on the phone from 12:24 th
 Transcript Snippet: remember we had Mikey's call logs. He was on the phone from 12:24 all the way through to 12:44 with Elizabeth McCoy, with Erika, with his father, and then with Danny Phillip for 10 minutes.
 
 Anchored Artifacts: A-2895.1
-Mentions: N-194, N-221, N-2, N-17, N-375
+Mentions: N-194, N-221, N-2, N-17, N-372
 Related Nodes: N-10193
 Supports: C-3092
 Tags: relevance:core
@@ -1660,7 +1660,7 @@ Claim: The host says Terrell prematurely announced Charlie's death to himself an
 Transcript Snippet: Terrell prematurely announcing Charlie's death to himself. He chose to record himself rather than to call 911. Selfie vid.
 
 Anchored Artifacts: 
-Mentions: N-267, N-1
+Mentions: N-265, N-1
 Related Nodes: N-11070
 Supports: C-3829, C-6100
 Tags: relevance:core
@@ -1677,7 +1677,7 @@ Claim: The host says that after the selfie video Terrell jumped down, was not cr
 Transcript Snippet: starts removing SD cards and seemingly plausibly toying around with the footage, sticking the SD card into his computer, looking around, looking shady, and getting to work.
 
 Anchored Artifacts: 
-Mentions: N-267
+Mentions: N-265
 Related Nodes: N-11070
 Supports: C-3303
 Tags: relevance:core
@@ -1711,7 +1711,7 @@ Claim: The host says that, to her knowledge, neither Danny Phillip nor Nate Walk
 Transcript Snippet: Danny Phillip, to our knowledge, did not call 911. Neither did Nate Walker.
 
 Anchored Artifacts: 
-Mentions: N-375, N-515
+Mentions: N-372, N-510
 Related Nodes: N-10729
 Supports: C-3828
 Tags: relevance:core
@@ -1762,7 +1762,7 @@ Claim: The host says Butch Hibbs walked in with Charlie Kirk and was standing ju
 Transcript Snippet: He's standing just to the right of Charlie and the tent when the explosive goes off.
 
 Anchored Artifacts: A-2324.1
-Mentions: N-251, N-1
+Mentions: N-250, N-1
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Locate Butch Hibbs in pre-shot frames from multiple angles to check his position relative to Charlie and the tent.
@@ -1778,7 +1778,7 @@ Claim: The host says Butch Hibbs was standing next to Danny Phillip, Charlie's a
 Transcript Snippet: He's standing next to Danny Phillip, Charlie's assistant, who's wearing a a very heavy backpack.
 
 Anchored Artifacts: A-2324.1
-Mentions: N-251, N-375
+Mentions: N-250, N-372
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Determine from video the backpack's size and contents if later opened or searched; the host only wonders what was in it.
@@ -1794,7 +1794,7 @@ Claim: The host says that if she did not know better she would think the people 
 Transcript Snippet: I mean, if I didn't know any better, I would think that they were all told to gather footage from different angles and different points.
 
 Anchored Artifacts: A-2324.1
-Mentions: N-251, N-3
+Mentions: N-250, N-3
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Look for any instruction, message or planning document directing staff or guests to film; the host calls this speculation.
@@ -1810,7 +1810,7 @@ Claim: The host says that in the clip Butch Hibbs is not running for his life or
 Transcript Snippet: not in a phone call with his brother, not running for his life, not running toward the action to help Charlie Kirk, just calmly looking around and recording
 
 Anchored Artifacts: A-2324.1
-Mentions: N-251, N-1, N-212
+Mentions: N-250, N-1, N-212
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the full Butch Hibbs clip, plus his phone's call and recording metadata.
@@ -1826,7 +1826,7 @@ Claim: The host says the footage shows Butch Hibbs still recording well into the
 Transcript Snippet: Oh, still recording. And he is just recording. I'm sorry, guys. He's still recording.
 
 Anchored Artifacts: A-2324.1
-Mentions: N-251
+Mentions: N-250
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Obtain the unedited clip and note total recording duration and any pause.
@@ -1874,7 +1874,7 @@ Claim: The host says her tracking found Butch Hibbs, not looking visibly upset, 
 Transcript Snippet: we did also find him, again, not looking visibly upset, creeping behind people who are speaking to the news stations about what they witnessed.
 
 Anchored Artifacts: A-2324.3
-Mentions: N-251
+Mentions: N-250
 Related Nodes: N-10817
 Supports: C-1712
 Tags: relevance:core
@@ -1891,7 +1891,7 @@ Claim: In the news-interview clip behind which Butch Hibbs stands, an unnamed wi
 Transcript Snippet: It sounded like a higher caliber, like a 9 millimeter. It didn't sound like a 45 or anything, but I don't know.
 
 Anchored Artifacts: A-2324.3
-Mentions: N-251
+Mentions: N-250
 Related Nodes: N-10048
 Tags: relevance:context
 Investigative Direction: Identify the witness and compare the described sound with the forensic caliber determination on the recovered bullet.
@@ -1907,7 +1907,7 @@ Claim: In the same clip, an interviewee says the shot did not sound that deep an
 Transcript Snippet: It didn't sound that deep to me. >> It almost sounded like a cherry bomb.
 
 Anchored Artifacts: A-2324.3
-Mentions: N-251
+Mentions: N-250
 Related Nodes: N-10048
 Tags: relevance:context
 Investigative Direction: Identify both interviewees and obtain the full interview audio and times.
@@ -1923,7 +1923,7 @@ Claim: The host says she searched the internet and could not find any mention by
 Transcript Snippet: Because Jack, we prowled the internet. We could not find any mention of him saying that his brother had captured this amazingly close footage.
 
 Anchored Artifacts: A-2324.1
-Mentions: N-212, N-251, N-3
+Mentions: N-212, N-250, N-3
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Ask Jack and Butch Hibbs directly whether the recording exists and has been shared with law enforcement.
@@ -2004,7 +2004,7 @@ Claim: The host says officers can testify at this stage to what they were told, 
 Transcript Snippet: when officer Baggley gets up there or officer Hull gets up there and says he was told by someone that this happened, that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates.
 
 Anchored Artifacts: 
-Mentions: N-517, N-580, N-40
+Mentions: N-512, N-575, N-40
 Related Nodes: N-11149
 Tags: relevance:core
 Investigative Direction: Read the hearing transcript of Bagley and Hull's testimony for the roadside-vehicle statement and its source.
@@ -2327,7 +2327,7 @@ Claim: The host says Graham Allen was working as a consultant for the Department
 Transcript Snippet: Even Graham Allen, I told you that he's uh he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them.
 
 Anchored Artifacts: 
-Mentions: N-619, N-3
+Mentions: N-614, N-3
 Related Nodes: N-10888, N-10000
 Tags: relevance:core
 Investigative Direction: Look for Department of War contracts or disclosure forms naming Allen and TPUSA payroll or contract records.

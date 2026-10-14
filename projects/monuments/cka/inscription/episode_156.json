@@ -749,8 +749,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Co-investigator the host says she will hand the show to before maternity leave and make a sizzle reel with.",
@@ -787,8 +787,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-805",
-      "ref": "N-805",
+      "@id": "N-799",
+      "ref": "N-799",
       "name": "Angel Castro",
       "type": "person",
       "description": "First named by the host at 00:01:40 in episode 156 (spelled \"Angel Castro Castro\" in the transcript). Person the host places near the van in the tent footage.",
@@ -1495,7 +1495,7 @@
       "transcript_snippet": "I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot",
       "mentions_person_refs": [
         "N-3",
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -1545,7 +1545,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-10",
-        "N-805"
+        "N-799"
       ]
     },
     {
@@ -1629,7 +1629,7 @@
       "transcript_snippet": "Obviously, I'll be handing over everything to Baron",
       "mentions_person_refs": [
         "N-3",
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -2287,7 +2287,7 @@
       "transcript_snippet": "I really think that I need to sit down, get this timeline together, and have a clear list of questions",
       "mentions_person_refs": [
         "N-3",
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -2622,7 +2622,7 @@
       ],
       "claim_timestamp": "00:45:44",
       "investigative_direction": "Check whether the Wilson video was offered as evidence of where Erika was on September 9.",
-      "transcript_snippet": "to prove a point that you weren't at Fort Wuka",
+      "transcript_snippet": "to prove a point that you weren't at Fort Huachuca",
       "mentions_person_refs": [
         "N-3",
         "N-2",

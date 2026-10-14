@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-CKA seq 5 advances the Candace Kirk Archive investigation around Tyler Robinson, presenting a purported 6:38 p.m. Dairy Queen photo, the doorbell-cam footage released via TMZ, witness statements from Sherry Steel (BBC) and the Steel family children (Good Morning America), Netanyahu's second denial video, the PBD Eric Bowling clip, Bill Aman's text messages, the pre-event Amazon book, and a Utah artist's 'Charlie Kirk Dead at 31' song. The episode juxtaposes official-fed timeline claims against host-asserted inconsistencies and pushes the local 'vacant house / decoy' theory. Netanyahu's statement is read in full and reframed as Jewish/Christian identity politics. No new physical evidence is shown for the text-message wording claims.
+CKA seq 5 advances the Candace Kirk Archive investigation around Tyler Robinson, presenting a purported 6:38 p.m. Dairy Queen photo, the doorbell-cam footage released via TMZ, witness statements from Sherry Steel (BBC) and the Steel family children (Good Morning America), Netanyahu's second denial video, the PBD Eric Bolling clip, Bill Aman's text messages, the pre-event Amazon book, and a Utah artist's 'Charlie Kirk Dead at 31' song. The episode juxtaposes official-fed timeline claims against host-asserted inconsistencies and pushes the local 'vacant house / decoy' theory. Netanyahu's statement is read in full and reframed as Jewish/Christian identity politics. No new physical evidence is shown for the text-message wording claims.
 
 ## 3. Artifact Register
 
@@ -88,9 +88,9 @@ Confidence: high
 
 ---
 
-**A-1116** PBD Podcast Eric Bowling Clip Bundle
+**A-1116** PBD Podcast Eric Bolling Clip Bundle
 
-**A-1116.1** Clip from the PBD Podcast in which Eric Bowling states Candace Owens has not been at TPUSA events in years and characterises the relationship between Kirk and Owens as a quiet breakup.
+**A-1116.1** Clip from the PBD Podcast in which Eric Bolling states Candace Owens has not been at TPUSA events in years and characterises the relationship between Kirk and Owens as a quiet breakup.
 Event Timestamp: 2025-09 (post-assassination)
 Video Timestamp: 00:40:13–00:41:49
 *Related: C-1193, C-1204, N-72, N-1, N-22, N-10059, N-10000, N-10056, N-10057*
@@ -210,7 +210,7 @@ Released text messages with Kirk to rebut Owens's Hamptons claims; host notes me
 
 ---
 
-**N-72** Eric Bowling
+**N-72** Eric Bolling
 
 Node Type: Person
 PBD Podcast guest who claimed Owens has not been at TPUSA events for years and described a 'quiet breakup' with Kirk.
@@ -476,7 +476,7 @@ Published Sherry Steel witness account and withheld a video she provided.
 
 Node Type: Organization
 Organization Kind: media_outlet
-Carried the Eric Bowling segment contradicting Owens's account of TPUSA involvement.
+Carried the Eric Bolling segment contradicting Owens's account of TPUSA involvement.
 
 *Related: A-1116.1, C-1193*
 
@@ -664,7 +664,7 @@ Investigative Direction: Obtain Netanyahu's first denial video and the unedited 
 **C-1193** Bowling said Owens no longer speaks at TPUSA events
 
 Claim Timestamp: 00:39:27
-Claim: Eric Bowling stated on PBD Podcast that Candace Owens had not attended or spoken at Turning Point USA events in years and described her separation from Kirk as a quiet breakup.
+Claim: Eric Bolling stated on PBD Podcast that Candace Owens had not attended or spoken at Turning Point USA events in years and described her separation from Kirk as a quiet breakup.
 Transcript Snippet: When's the last time she was at a Turning Point event? Uh, not in many years.
 Anchored Artifacts: A-1116.1
 Mentions: N-3, N-72
@@ -831,7 +831,7 @@ Investigative Direction: Pull county recorder data for the parcel to confirm own
 **C-1204** Bowling described 'quiet breakup' between Kirk and Owens
 
 Claim Timestamp: 00:39:34
-Claim: Eric Bowling on PBD Podcast stated that Candace Owens would have been 'the logical heir to the TPUSA throne' absent a 'very quiet breakup where she got too rabbit hole for him'.
+Claim: Eric Bolling on PBD Podcast stated that Candace Owens would have been 'the logical heir to the TPUSA throne' absent a 'very quiet breakup where she got too rabbit hole for him'.
 Transcript Snippet: a very quiet breakup where she got too rabbit hole for him.
 Anchored Artifacts: A-1116.1
 Mentions: N-3, N-14, N-22, N-72

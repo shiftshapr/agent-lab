@@ -500,8 +500,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-328",
+      "ref": "N-328",
       "name": "Father Ripperger",
       "type": "person",
       "description": "Catholic priest whose audio clip on \"the revealing of the method\" is presented by the host as documentary support for an occult-influence thesis applied to Charlie Kirk's assassination and subsequent TPUSA behavior.",
@@ -519,8 +519,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-283",
-      "ref": "N-283",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian whose on-camera segment speculating that Erika Kirk functioned as a \"Mossad handler\" for Charlie Kirk is presented by the host as confirming public intuition.",
@@ -704,8 +704,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-286",
-      "ref": "N-286",
+      "@id": "N-284",
+      "ref": "N-284",
       "name": "Karoline Leavitt",
       "type": "person",
       "description": "White House Press Secretary; quoted on Huckabee–Pollard meeting.",
@@ -1101,8 +1101,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; the host says Erika offered him a raise.",
@@ -1118,8 +1118,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-305",
-      "ref": "N-305",
+      "@id": "N-302",
+      "ref": "N-302",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Miriam Adelson; subject of Trump's remark and the host's donation claim.",
@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-565",
-      "ref": "N-565",
+      "@id": "N-560",
+      "ref": "N-560",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Carrie Prejean Bowler; the host says Trump removed her from the religious committee.",
@@ -1153,8 +1153,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-686",
-      "ref": "N-686",
+      "@id": "N-680",
+      "ref": "N-680",
       "name": "Nicolás Maduro",
       "type": "person",
       "description": "Nicolas Maduro; removed by the US operation the host cites.",
@@ -1493,8 +1493,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-784",
-      "ref": "N-784",
+      "@id": "N-778",
+      "ref": "N-778",
       "name": "Marina Abramovic",
       "type": "person",
       "description": "First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performance artist the host cites for spirit cooking and a 1974 pentagram performance.",
@@ -1511,8 +1511,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-785",
-      "ref": "N-785",
+      "@id": "N-779",
+      "ref": "N-779",
       "name": "Aleister Crowley",
       "type": "person",
       "description": "First named by the host at 00:13:52 in episode 75. Occultist the host says wrote books of pentacles meant to summon spirits.",
@@ -1546,8 +1546,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-786",
-      "ref": "N-786",
+      "@id": "N-780",
+      "ref": "N-780",
       "name": "Benny Gantz",
       "type": "person",
       "description": "First named by the host at 00:46:20 in episode 75. Israeli politician whose interview clip the host plays on boots on the ground in Iran.",
@@ -1564,8 +1564,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-787",
-      "ref": "N-787",
+      "@id": "N-781",
+      "ref": "N-781",
       "name": "Paula White",
       "type": "person",
       "description": "First named by the host at 01:01:46 in episode 75. Pastor the host groups with Christian Zionists surrounding Trump.",
@@ -1780,7 +1780,7 @@
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Identify the full source interview (date, program, outlet) and review for context outside the excerpt.",
       "mentions_person_refs": [
-        "N-331"
+        "N-328"
       ]
     },
     {
@@ -1991,7 +1991,7 @@
       "investigative_direction": "Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.",
       "mentions_person_refs": [
         "N-5",
-        "N-286"
+        "N-284"
       ]
     },
     {
@@ -2009,7 +2009,7 @@
       "investigative_direction": "Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited.",
       "mentions_person_refs": [
         "N-2",
-        "N-283",
+        "N-281",
         "N-1"
       ]
     },
@@ -2108,7 +2108,7 @@
       "investigative_direction": "Check the leaked email set the host refers to for the spirit cooking references and who attended the events named.",
       "transcript_snippet": "She does spirit cooking, literally. That was what was in those emails. Marina Abramović.",
       "mentions_person_refs": [
-        "N-784",
+        "N-778",
         "N-3"
       ]
     },
@@ -2127,7 +2127,7 @@
       "investigative_direction": "Check the performance record for the date, title and wording of Abramovic's 1974 petroleum-soaked star piece against the host's description.",
       "transcript_snippet": "Performances like in 1974 when she sought to, quote, re-evoke the energy of extreme bodily pain using a large petroleum-drenched pentagram.",
       "mentions_person_refs": [
-        "N-784"
+        "N-778"
       ]
     },
     {
@@ -2490,7 +2490,7 @@
       "investigative_direction": "Check Crowley's published works and the history of Thelema; the host does not link him to any named current official.",
       "transcript_snippet": "Aleister Crowley was master cultist created an entire religion around this, put together a series of books, a series of pentacles that are meant to summon various spirits.",
       "mentions_person_refs": [
-        "N-785",
+        "N-779",
         "N-3"
       ]
     },
@@ -2511,7 +2511,7 @@
       "investigative_direction": "Identify the book and edition shown; Crowley's earliest books are not known by this title, so check bibliographic records.",
       "transcript_snippet": "First book he wrote was called the book of evil spirits. Wow, look at that star of David all over it.",
       "mentions_person_refs": [
-        "N-785",
+        "N-779",
         "N-3"
       ]
     },
@@ -2556,7 +2556,7 @@
         "C-3570"
       ],
       "mentions_person_refs": [
-        "N-331",
+        "N-328",
         "N-1",
         "N-3"
       ]
@@ -2578,7 +2578,7 @@
       "investigative_direction": "Obtain the original recording and check what 'the thing' refers to in Ripperger's own answer.",
       "transcript_snippet": "it can be connected to a curse. They could like they could curse this so that it has a more so that it's distribution becomes more extensive",
       "mentions_person_refs": [
-        "N-331"
+        "N-328"
       ]
     },
     {
@@ -2806,7 +2806,7 @@
       "transcript_snippet": "offer a raise to Dan Flood, the security guard who failed Charlie in every possible manner and way on September 10th.",
       "mentions_person_refs": [
         "N-2",
-        "N-276",
+        "N-274",
         "N-1",
         "N-3"
       ]
@@ -3015,7 +3015,7 @@
       "investigative_direction": "Identify the event Dillon means and compare its date with the Charlie Kirk memorial and AmFest dates.",
       "transcript_snippet": "3 weeks after the guy's dead, she's out there with sparklers, you know, they're doing Cirque du Soleil.",
       "mentions_person_refs": [
-        "N-283",
+        "N-281",
         "N-2"
       ]
     },
@@ -3041,7 +3041,7 @@
         "C-3583"
       ],
       "mentions_person_refs": [
-        "N-283",
+        "N-281",
         "N-2",
         "N-1"
       ]
@@ -3068,7 +3068,7 @@
         "C-3583"
       ],
       "mentions_person_refs": [
-        "N-283"
+        "N-281"
       ]
     },
     {
@@ -3216,7 +3216,7 @@
       "transcript_snippet": "the person that he took a hundred million, two hundred million dollars from, I think in the end, loves Israel more than she loves America.",
       "mentions_person_refs": [
         "N-5",
-        "N-305",
+        "N-302",
         "N-3"
       ]
     },
@@ -3237,7 +3237,7 @@
       "investigative_direction": "Check Adelson's biography for her Israeli military service; the played clip does not contain this statement.",
       "transcript_snippet": "She served in the IDF. That's what he's saying to you.",
       "mentions_person_refs": [
-        "N-305",
+        "N-302",
         "N-5",
         "N-3"
       ]
@@ -3328,7 +3328,7 @@
       "transcript_snippet": "until Bibi Netanyahu said, \"Venezuela's anti-Semitic.\" Then we took out Maduro, and guess who benefited from that?",
       "mentions_person_refs": [
         "N-36",
-        "N-686",
+        "N-680",
         "N-3"
       ]
     },
@@ -3592,7 +3592,7 @@
         "C-3581"
       ],
       "mentions_person_refs": [
-        "N-786",
+        "N-780",
         "N-3"
       ]
     },
@@ -3615,7 +3615,7 @@
       "investigative_direction": "Identify the interviewer, outlet and date of the full interview.",
       "transcript_snippet": "Currently, we are neutralizing Iran's uh command and control system and Iran capacity to influence the region",
       "mentions_person_refs": [
-        "N-786"
+        "N-780"
       ]
     },
     {
@@ -3640,7 +3640,7 @@
         "C-3582"
       ],
       "mentions_person_refs": [
-        "N-286",
+        "N-284",
         "N-5",
         "N-3"
       ]
@@ -3664,7 +3664,7 @@
       "investigative_direction": "Pull the White House briefing transcript and date.",
       "transcript_snippet": "It's not part of the current plan right now, but the president again wisely keeps his options on the table.",
       "mentions_person_refs": [
-        "N-286",
+        "N-284",
         "N-5"
       ]
     },
@@ -3687,7 +3687,7 @@
       "investigative_direction": "Check the Department of War or White House announcement naming Operation Epic Fury and its start date.",
       "transcript_snippet": "that's why he took this historic action by launching Operation Epic Fury.",
       "mentions_person_refs": [
-        "N-286",
+        "N-284",
         "N-5"
       ]
     },
@@ -3710,7 +3710,7 @@
       "investigative_direction": "Compare with Department of Defense casualty figures attributed to Iran-backed attacks.",
       "transcript_snippet": "They have killed and maimed thousands of American soldiers.",
       "mentions_person_refs": [
-        "N-286"
+        "N-284"
       ]
     },
     {
@@ -3792,7 +3792,7 @@
         "C-2370"
       ],
       "mentions_person_refs": [
-        "N-565",
+        "N-560",
         "N-5",
         "N-3"
       ]
@@ -3910,7 +3910,7 @@
       "investigative_direction": "No source is cited; compare historians' accounts of Frankism with the host's analogy.",
       "transcript_snippet": "similarly you had this movement of people similar to the Christian Zionists that are like unhinged looking at Paula White, the pastors that are surrounding Trump",
       "mentions_person_refs": [
-        "N-787",
+        "N-781",
         "N-3"
       ]
     },

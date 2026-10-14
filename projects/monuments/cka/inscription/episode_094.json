@@ -534,7 +534,7 @@
           "description": "Comment by user \"A Trice Trish Magestus\" re: \"first person to leak the death of Charlie Kirk is a licensed gun dealer with a shady past\"",
           "related_claims": [],
           "related_nodes": [
-            "N-348",
+            "N-345",
             "N-10636"
           ],
           "tags": [],
@@ -1035,8 +1035,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-435",
-      "ref": "N-435",
+      "@id": "N-431",
+      "ref": "N-431",
       "name": "Richard Novak",
       "type": "person",
       "description": "First named by the host at 00:10:02 in episode 94. Aliases: Richard Novac.",
@@ -1052,8 +1052,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-436",
-      "ref": "N-436",
+      "@id": "N-432",
+      "ref": "N-432",
       "name": "Alan Jacoby",
       "type": "person",
       "description": "First named by the host at 00:41:44 in episode 94.",
@@ -1141,7 +1141,7 @@
       "claim_timestamp": "00:10:02",
       "investigative_direction": "Confirm whether data files have subsequently been produced; review any docket entries reflecting discovery status.",
       "mentions_person_refs": [
-        "N-435"
+        "N-431"
       ]
     },
     {
@@ -1361,7 +1361,7 @@
       "investigative_direction": "Verify Jacoby's tweet directly; check for any legal filings or counter-statements.",
       "mentions_person_refs": [
         "N-60",
-        "N-436"
+        "N-432"
       ]
     },
     {

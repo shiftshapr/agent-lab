@@ -31,7 +31,7 @@
             "C-1990"
           ],
           "related_nodes": [
-            "N-283",
+            "N-281",
             "N-1",
             "N-2",
             "N-10376"
@@ -52,7 +52,7 @@
             "C-1992"
           ],
           "related_nodes": [
-            "N-283"
+            "N-281"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -70,7 +70,7 @@
             "C-1993"
           ],
           "related_nodes": [
-            "N-283"
+            "N-281"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -123,8 +123,8 @@
             "C-1994"
           ],
           "related_nodes": [
-            "N-284",
-            "N-377",
+            "N-282",
+            "N-374",
             "N-2",
             "N-1",
             "N-10377"
@@ -154,7 +154,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-380"
+            "N-377"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -235,8 +235,8 @@
             "C-1998"
           ],
           "related_nodes": [
-            "N-369",
-            "N-272",
+            "N-366",
+            "N-270",
             "N-10375"
           ],
           "tags": [],
@@ -366,7 +366,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-369"
+            "N-366"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -393,7 +393,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-369",
+            "N-366",
             "N-10327"
           ],
           "tags": [],
@@ -414,7 +414,7 @@
           "@type": "Artifact",
           "@id": "A-2838.1",
           "ref": "A-2838.1",
-          "description": "Host verbal reference to a message about dinner between Erika and Charlie Kirk that Justin Strife sent her, with the contact name blacked out (not shown)",
+          "description": "Host verbal reference to a message about dinner between Erika and Charlie Kirk that Justin Streiff sent her, with the contact name blacked out (not shown)",
           "related_claims": [
             "C-6790",
             "C-6791",
@@ -489,8 +489,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-283",
-      "ref": "N-283",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Source of three artifact-anchored comedy clips played on air.",
@@ -513,8 +513,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
       "description": "On-camera CBS interviewer who introduced Hunter Cosgrove to Erica Kirk at the AmFest / CBS stage event.",
@@ -532,8 +532,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-377",
-      "ref": "N-377",
+      "@id": "N-374",
+      "ref": "N-374",
       "name": "Hunter Cosgrove (UVU student)",
       "type": "person",
       "description": "Utah Valley University student identified by Barry Weiss as the last person Charlie Kirk spoke to before being shot; name also rendered \"Hunter Kozak\" in host narration.",
@@ -573,8 +573,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.",
@@ -595,8 +595,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Named in host discussion of Mitch Snow's Fort Huachuca sightings; referenced in the son's interview clip regarding the September 9 contact.",
@@ -615,8 +615,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-380",
-      "ref": "N-380",
+      "@id": "N-377",
+      "ref": "N-377",
       "name": "Justice Smith",
       "type": "person",
       "description": "Interviewer in the October 2024 Charlie Kirk MK Ultra clip.",
@@ -653,8 +653,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-369",
-        "N-272"
+        "N-366",
+        "N-270"
       ]
     },
     {
@@ -702,7 +702,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-377"
+        "N-374"
       ]
     },
     {
@@ -946,7 +946,7 @@
       "ref": "N-15",
       "name": "Justin Streiff",
       "type": "person",
-      "description": "Justin Strife; the host says he spoke with her and offered a message as Erika's alibi.",
+      "description": "Justin Streiff; the host says he spoke with her and offered a message as Erika's alibi.",
       "related_artifacts": [],
       "related_claims": [
         "C-6789",
@@ -1086,8 +1086,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; the host says she has also reached out to him.",
@@ -1103,8 +1103,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-371",
-      "ref": "N-371",
+      "@id": "N-368",
+      "ref": "N-368",
       "name": "Mark Amodei",
       "type": "person",
       "description": "Mark Amodei (spelled Mark Amaday in the transcript); congressman the host now says Mitch did not see.",
@@ -1121,8 +1121,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-372",
-      "ref": "N-372",
+      "@id": "N-369",
+      "ref": "N-369",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Cabot Phillips; person Mitch's descriptions were matched to.",
@@ -1140,8 +1140,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Ian Carroll; the host says he called her to urge a statement against Mitch.",
@@ -1158,8 +1158,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-396",
-      "ref": "N-396",
+      "@id": "N-392",
+      "ref": "N-392",
       "name": "Maddie (Daily Wire host)",
       "type": "person",
       "description": "Maddie (Daily Wire host); the host calls her Madison Brandford and says the Daily Wire is launching a show with her.",
@@ -1176,8 +1176,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-686",
-      "ref": "N-686",
+      "@id": "N-680",
+      "ref": "N-680",
       "name": "Nicolás Maduro",
       "type": "person",
       "description": "Nicolas Maduro; subject of a viewer comment and the host's remarks on the operation.",
@@ -1193,8 +1193,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-721",
-      "ref": "N-721",
+      "@id": "N-715",
+      "ref": "N-715",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; named in the Charlie Kirk clip.",
@@ -1299,7 +1299,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10300",
       "ref": "N-10300",
-      "name": "Justin Strife Post-Assassination Phone Call",
+      "name": "Justin Streiff Post-Assassination Phone Call",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1713,7 +1713,7 @@
       "claim_timestamp": "00:04:47",
       "investigative_direction": "Verify Tim Dillon's segment against the original recording and timestamp the exact quoted phrases.",
       "mentions_person_refs": [
-        "N-283"
+        "N-281"
       ]
     },
     {
@@ -1731,7 +1731,7 @@
       "investigative_direction": "Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erica Kirk's stage appearance.",
       "mentions_person_refs": [
         "N-2",
-        "N-283",
+        "N-281",
         "N-1"
       ]
     },
@@ -1768,7 +1768,7 @@
       "claim_timestamp": "00:14:17",
       "investigative_direction": "Verify the segment against the source recording and identify which text leaks are being referenced.",
       "mentions_person_refs": [
-        "N-283"
+        "N-281"
       ]
     },
     {
@@ -1785,7 +1785,7 @@
       "claim_timestamp": "00:21:38",
       "investigative_direction": "Verify the segment against the source recording; assess whether the host's framing of this clip as investigative commentary is supported by the artifact.",
       "mentions_person_refs": [
-        "N-283"
+        "N-281"
       ]
     },
     {
@@ -1805,8 +1805,8 @@
       "investigative_direction": "Verify the spelling \"Cosgrove\" against the original CBS broadcast and against public identification of the UVU student; confirm the timeline and question content.",
       "mentions_person_refs": [
         "N-2",
-        "N-284",
-        "N-377",
+        "N-282",
+        "N-374",
         "N-1"
       ]
     },
@@ -1825,7 +1825,7 @@
       "investigative_direction": "Verify the clip against the original October 2024 interview recording; identify the publication or platform where the original interview was published.",
       "mentions_person_refs": [
         "N-1",
-        "N-380"
+        "N-377"
       ]
     },
     {
@@ -1844,7 +1844,7 @@
       "mentions_person_refs": [
         "N-93",
         "N-3",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -1884,8 +1884,8 @@
       "claim_timestamp": "00:45:37",
       "investigative_direction": "Identify the interviewer and platform; obtain the unedited interview recording to assess whether the son's statements corroborate or contradict Mitch Snow's account.",
       "mentions_person_refs": [
-        "N-272",
-        "N-369"
+        "N-270",
+        "N-366"
       ]
     },
     {
@@ -1966,7 +1966,7 @@
       "investigative_direction": "Obtain additional communication between Andrew Kolbet and the involved accounts; verify whether the \"rogue\" narrative was authorized at higher TPUSA levels.",
       "mentions_person_refs": [
         "N-14",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2105,8 +2105,8 @@
         "C-1994"
       ],
       "mentions_person_refs": [
-        "N-377",
-        "N-284",
+        "N-374",
+        "N-282",
         "N-2",
         "N-3"
       ]
@@ -2130,7 +2130,7 @@
       "investigative_direction": "Review UVU event video of the question-and-answer exchange to confirm the topic of Cosgrove's question and its timing relative to the shot.",
       "transcript_snippet": "he's the last person on Earth that tried to stress out Charlie Kirk, right? Asking him a stupid question about transgenderism, and then Charlie died.",
       "mentions_person_refs": [
-        "N-377",
+        "N-374",
         "N-1",
         "N-3"
       ]
@@ -2218,7 +2218,7 @@
         "C-1999"
       ],
       "mentions_person_refs": [
-        "N-396",
+        "N-392",
         "N-3"
       ]
     },
@@ -2240,7 +2240,7 @@
       "investigative_direction": "Confirm Brandford's role and the show's title and format from Daily Wire publicity or the channel itself once it airs.",
       "transcript_snippet": "she's apparently an intern at the Daily Wire and she's they're basically dropping like an an iCarly type Nickelodeon feel show where she's going to make fun of me and the show is entitled In the Know",
       "mentions_person_refs": [
-        "N-396",
+        "N-392",
         "N-3"
       ]
     },
@@ -2268,7 +2268,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-380"
+        "N-377"
       ]
     },
     {
@@ -2290,7 +2290,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-5",
-        "N-721"
+        "N-715"
       ]
     },
     {
@@ -2314,8 +2314,8 @@
         "C-1971"
       ],
       "mentions_person_refs": [
-        "N-369",
-        "N-272",
+        "N-366",
+        "N-270",
         "N-2",
         "N-1",
         "N-3"
@@ -2343,9 +2343,9 @@
         "C-1973"
       ],
       "mentions_person_refs": [
-        "N-369",
+        "N-366",
         "N-2",
-        "N-372"
+        "N-369"
       ]
     },
     {
@@ -2371,8 +2371,8 @@
         "C-5395"
       ],
       "mentions_person_refs": [
-        "N-369",
-        "N-272"
+        "N-366",
+        "N-270"
       ]
     },
     {
@@ -2396,9 +2396,9 @@
         "C-1985"
       ],
       "mentions_person_refs": [
+        "N-366",
         "N-369",
-        "N-372",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2423,7 +2423,7 @@
         "C-1987"
       ],
       "mentions_person_refs": [
-        "N-369",
+        "N-366",
         "N-3"
       ]
     },
@@ -2448,7 +2448,7 @@
         "C-6757"
       ],
       "mentions_person_refs": [
-        "N-369",
+        "N-366",
         "N-2"
       ]
     },
@@ -2476,7 +2476,7 @@
       "mentions_person_refs": [
         "N-93",
         "N-3",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2497,7 +2497,7 @@
       "transcript_snippet": "So, you had this Paramount Tactical account in Valhalla who called up Mitch and pretended to be a brother, like a brother in arms.",
       "mentions_person_refs": [
         "N-10899",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2517,8 +2517,8 @@
       "investigative_direction": "Ask Ian Carroll to confirm or deny the call and its content; obtain any call logs or messages from the host.",
       "transcript_snippet": "they had Ian Carroll calling me and Ian Carroll was being a friend and he's hey, you should get on the phone with them and you should come out against Mitch because Mitch is a fraud and Mitch was never in the military",
       "mentions_person_refs": [
-        "N-384",
-        "N-369",
+        "N-131",
+        "N-366",
         "N-3"
       ]
     },
@@ -2539,7 +2539,7 @@
       "investigative_direction": "Identify the third party and any legal correspondence; confirm whether any cease and desist letter was received.",
       "transcript_snippet": "I explained to Ian Carroll. I was like, \"Ian, this is not how lawsuits work. They didn't send me a cease and desist.",
       "mentions_person_refs": [
-        "N-384",
+        "N-131",
         "N-3"
       ]
     },
@@ -2560,7 +2560,7 @@
       "investigative_direction": "Obtain Mitch Snow's military service record and the streams in which his past was discussed.",
       "transcript_snippet": "He was never in the military and then they had to admit that no, actually Mitch was in the military, but they were ashamed because he was a really bad dude who abused women in the past",
       "mentions_person_refs": [
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2586,7 +2586,7 @@
         "C-1889"
       ],
       "mentions_person_refs": [
-        "N-369",
+        "N-366",
         "N-3"
       ]
     },
@@ -2609,7 +2609,7 @@
       "investigative_direction": "Compare the report's license number format with Washington state license formats and request the official report.",
       "transcript_snippet": "So, then they pivoted and they said the police report was fake. It There were some points of it looked fake because it had typos and this didn't look like a real driver's license number for what driver driver's license for Washington state.",
       "mentions_person_refs": [
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2634,7 +2634,7 @@
         "C-1998"
       ],
       "mentions_person_refs": [
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2657,7 +2657,7 @@
       "investigative_direction": "Compare this description with the incident report and Mitch's own account of the canine and bomb-threat encounter.",
       "transcript_snippet": "Or if he does walk into the joint task force staff duty, he might end up detained and outside getting the canines called on him as per this report, which again, I don't even know if this report is real or not.",
       "mentions_person_refs": [
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2682,7 +2682,7 @@
         "C-1971"
       ],
       "mentions_person_refs": [
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -3110,8 +3110,8 @@
       "@type": "Claim",
       "@id": "C-6789",
       "ref": "C-6789",
-      "label": "Host Says She Told Justin Strife the Alibi Stream Violated Their Ceasefire",
-      "claim": "The host says she had a phone call with Justin Strife rather than Kolvet and told him she viewed the obscure-YouTuber alibi as a violation of their ceasefire.",
+      "label": "Host Says She Told Justin Streiff the Alibi Stream Violated Their Ceasefire",
+      "claim": "The host says she had a phone call with Justin Streiff rather than Kolvet and told him she viewed the obscure-YouTuber alibi as a violation of their ceasefire.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10300"
@@ -3151,7 +3151,7 @@
         "N-15",
         "N-2",
         "N-1",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -3223,9 +3223,9 @@
         "C-5400"
       ],
       "mentions_person_refs": [
+        "N-366",
         "N-369",
-        "N-372",
-        "N-371",
+        "N-368",
         "N-3"
       ]
     },
@@ -3251,8 +3251,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-371",
-        "N-369"
+        "N-368",
+        "N-366"
       ]
     },
     {
@@ -3274,7 +3274,7 @@
       "transcript_snippet": "Israel is always good to come right out and say, \"Yay, this was good for us.\" Netanyahu was calling him anti-Semitic.",
       "mentions_person_refs": [
         "N-36",
-        "N-686",
+        "N-680",
         "N-3"
       ]
     },
@@ -3359,8 +3359,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-272",
-        "N-276"
+        "N-270",
+        "N-274"
       ]
     },
     {
@@ -3386,7 +3386,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-272",
+        "N-270",
         "N-14"
       ]
     }

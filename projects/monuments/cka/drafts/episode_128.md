@@ -13,8 +13,8 @@
 - **Episode Ledger Summary**:
   - Reused Nodes Appearing: N-10732, N-10737, N-10739, N-10736
  - New Nodes Introduced: N-10732, N-10733, N-10734, N-10735, N-10737, N-10738, N-10739
- - Hole-minted Nodes (wave3): N-518, N-519, N-520, N-521
- - Reused Nodes Appearing: N-10149, N-388, N-516
+ - Hole-minted Nodes (wave3): N-513, N-514, N-515, N-516
+ - Reused Nodes Appearing: N-10149, N-384, N-511
  - (see registers)
 
 ---
@@ -317,36 +317,36 @@ Confidence Level: High (read aloud on air)
 
 ## IV. Node Register
 
-**N-388** Dan Bongino
+**N-384** Dan Bongino
 
 Reused; first introduced in episode 15.
 
 
-**N-518** Beau Mason
+**N-513** Beau Mason
 
 First named by the host at 00:08:44 in episode 128. Aliases: Bo Mason, Beau "Bo" Mason.
 
 *Related: C-3061, C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3071, C-3076*
 
-**N-516** Jennifer Faumuina
+**N-511** Jennifer Faumuina
 
 Named by the host at 00:15:24 in episode 128; first introduced in episode 126.
 
 *Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3071, C-3076, C-3077*
 
-**N-520** Misiona Faumuina
+**N-515** Misiona Faumuina
 
 First named by the host at 00:23:06 in episode 128.
 
 *Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3076, C-3077, C-3078*
 
-**N-519** Sapena Faumuina
+**N-514** Sapena Faumuina
 
 First named by the host at 00:23:06 in episode 128.
 
 *Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3076, C-3077*
 
-**N-521** Sid Rosen
+**N-516** Sid Rosen
 
 First named by the host at 00:24:14 in episode 128.
 
@@ -513,7 +513,7 @@ Claim Timestamp: 00:09:39
 Claim: Neither Kash Patel nor Beau Mason interrupted or corrected Governor Cox during his statement about rooftop clothing changes at the September 12, 2025 briefing.
 
 Anchored Artifacts: A-2154.1
-Mentions: N-41, N-69, N-518
+Mentions: N-41, N-69, N-513
 
 Related Nodes:
 
@@ -528,7 +528,7 @@ Claim Timestamp: 00:12:43
 Claim: On September 15, 2025, FBI Deputy Director Dan Bongino told Megyn Kelly that the rooftop video was "very grainy" and cited lab enhancement as ongoing.
 
 Anchored Artifacts: A-2155.1
-Mentions: N-46, N-388
+Mentions: N-46, N-384
 
 Related Nodes: N-10736
 
@@ -543,7 +543,7 @@ Claim Timestamp: 00:16:37
 Claim: Jennifer Faumuina is presented on Season 2 Episode 1 of Netflix's *Worst Roommate Ever* stating she had been with the Utah State Bureau of Investigation for 8 years and was assigned full-time to the FBI's Joint Terrorism Task Force.
 
 Anchored Artifacts: A-2156.1
-Mentions: N-518, N-516, N-520, N-519
+Mentions: N-513, N-511, N-515, N-514
 
 Related Nodes: N-10738
 
@@ -558,7 +558,7 @@ Claim Timestamp: 00:17:38
 Claim: A 2003 image shows Jennifer Faumuina playing basketball at a private school in Hawaii.
 
 Anchored Artifacts: A-2157.1
-Mentions: N-518, N-516, N-520, N-519
+Mentions: N-513, N-511, N-515, N-514
 
 Related Nodes:
 
@@ -573,7 +573,7 @@ Claim Timestamp: 00:17:38
 Claim: Jennifer Faumuina studied criminal justice at Weber State University and graduated in 2008.
 
 Anchored Artifacts: A-2157.2
-Mentions: N-518, N-516, N-520, N-519
+Mentions: N-513, N-511, N-515, N-514
 
 Related Nodes:
 
@@ -588,7 +588,7 @@ Claim Timestamp: 00:20:19
 Claim: Jennifer Faumuina appears in a Utah Department of Public Safety post-training photo dated May 20, 2013, alongside Bo Mason.
 
 Anchored Artifacts: A-2157.3
-Mentions: N-518, N-516, N-520, N-519
+Mentions: N-513, N-511, N-515, N-514
 
 Related Nodes:
 
@@ -603,7 +603,7 @@ Claim Timestamp: 00:18:29
 Claim: A 2016 article lists Jennifer Faumuina among volunteer Utah troopers who provided crowd control at the Republican National Convention in Ohio.
 
 Anchored Artifacts: A-2157.4
-Mentions: N-518, N-516, N-520, N-519
+Mentions: N-513, N-511, N-515, N-514
 
 Related Nodes:
 
@@ -618,7 +618,7 @@ Claim Timestamp: 00:18:29
 Claim: Public records show Jennifer Faumuina as a paid officer with the Utah Department of Public Safety from 2018 onward.
 
 Anchored Artifacts: A-2157.5
-Mentions: N-518, N-516, N-520, N-519
+Mentions: N-513, N-511, N-515, N-514
 
 Related Nodes:
 
@@ -633,7 +633,7 @@ Claim Timestamp: 00:20:19
 Claim: Jennifer Faumuina and Bo Mason appear together in a May 20, 2013 Utah DPS post-training photo.
 
 Anchored Artifacts: A-2157.3
-Mentions: N-518, N-516, N-520, N-519
+Mentions: N-513, N-511, N-515, N-514
 
 Related Nodes:
 
@@ -648,7 +648,7 @@ Claim Timestamp: 00:20:19
 Claim: Jennifer Faumuina and Bo Mason appear together in a 2023 photograph marking Faumuina's promotion to sergeant.
 
 Anchored Artifacts: A-2157.5
-Mentions: N-518, N-516, N-520, N-519
+Mentions: N-513, N-511, N-515, N-514
 
 Related Nodes:
 
@@ -663,7 +663,7 @@ Claim Timestamp: 00:19:15
 Claim: Beau "Bo" Mason was appointed Commissioner of the Utah Department of Public Safety on June 19, 2025 by Governor Cox.
 
 Anchored Artifacts: A-2158.1
-Mentions: N-41, N-518, N-516
+Mentions: N-41, N-513, N-511
 
 Related Nodes: N-10733
 
@@ -738,7 +738,7 @@ Claim Timestamp: 00:24:14
 Claim: Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.
 
 Anchored Artifacts: A-2160.1
-Mentions: N-518, N-516, N-520, N-519
+Mentions: N-513, N-511, N-515, N-514
 
 Related Nodes:
 
@@ -753,7 +753,7 @@ Claim Timestamp: 00:24:14
 Claim: The 1995 press coverage of Misiona Faumuina's death described him as a devout Mormon attending the Maquilo Ward in Waipahu, with his brother Sapena noting he was preparing for a mission.
 
 Anchored Artifacts: A-2160.1
-Mentions: N-516, N-520, N-519
+Mentions: N-511, N-515, N-514
 
 Related Nodes:
 
@@ -768,7 +768,7 @@ Claim Timestamp: 00:25:35
 Claim: A 1995 article names Sid Rosen as the head of "Adult Friends for Youth," an organization referenced in coverage of Misiona Faumuina's death.
 
 Anchored Artifacts: A-2160.2
-Mentions: N-520, N-521
+Mentions: N-515, N-516
 
 Related Nodes:
 
@@ -783,7 +783,7 @@ Claim Timestamp: 00:31:07
 Claim: Frank Turek stated on the Shawn Ryan Show that Brian Harpole's "no CPR" account and his own account of attempting CPR for 20–30 seconds at the end of the ride are not contradictory but rather emphasize different details.
 
 Anchored Artifacts: A-2161.1
-Mentions: N-272, N-7
+Mentions: N-270, N-7
 
 Related Nodes: N-10737
 

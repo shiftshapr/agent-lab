@@ -17,7 +17,7 @@
     "candace_ep_number": 243,
     "kind": "numbered_show"
   },
-  "executive_summary": "CKA seq 10 advances three threads: (1) TPUSA financial concerns raised by Charlie Kirk one week before his death, anchored by an internal memo dated September 2, 2025 elevating Justin Strife to COO and announcing a DOGE-style efficiency audit; (2) federal investigation conduct, anchored by direct testimonials from two rooftop-footage witnesses claiming the feds did not contact them until September 15; (3) technical engagement with viral Range Day Bro YouTube analysis, where the host partially debunks the blood-splatter claim (identifies it as Charlie's necklace chain) and partially corroborates the suspicious-bush claim using ground photographs. Side threads cover the Hamptons weekend narrative, a new doorbell-footage tip alleging Tyler Robinson changed clothes with an unidentified woman, and a defense of Erika Kirk against public criticism.",
+  "executive_summary": "CKA seq 10 advances three threads: (1) TPUSA financial concerns raised by Charlie Kirk one week before his death, anchored by an internal memo dated September 2, 2025 elevating Justin Streiff to COO and announcing a DOGE-style efficiency audit; (2) federal investigation conduct, anchored by direct testimonials from two rooftop-footage witnesses claiming the feds did not contact them until September 15; (3) technical engagement with viral Range Day Bro YouTube analysis, where the host partially debunks the blood-splatter claim (identifies it as Charlie's necklace chain) and partially corroborates the suspicious-bush claim using ground photographs. Side threads cover the Hamptons weekend narrative, a new doorbell-footage tip alleging Tyler Robinson changed clothes with an unidentified woman, and a defense of Erika Kirk against public criticism.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -29,7 +29,7 @@
           "@type": "Artifact",
           "@id": "A-1162.1",
           "ref": "A-1162.1",
-          "description": "Internal memo signed by Charlie Kirk dated September 2, 2025, read aloud in episode, elevating Justin Strife to COO and announcing an organizational-wide DOGE efficiency effort",
+          "description": "Internal memo signed by Charlie Kirk dated September 2, 2025, read aloud in episode, elevating Justin Streiff to COO and announcing an organizational-wide DOGE efficiency effort",
           "related_claims": [
             "C-3632",
             "C-1286"
@@ -933,7 +933,7 @@
       "ref": "N-10000",
       "name": "Turning Point USA",
       "type": "organization",
-      "description": "Subject organization of the financial concerns Charlie Kirk allegedly raised one week before his death; received internal memo elevating Justin Strife to COO and announcing DOGE audit.",
+      "description": "Subject organization of the financial concerns Charlie Kirk allegedly raised one week before his death; received internal memo elevating Justin Streiff to COO and announcing DOGE audit.",
       "related_artifacts": [
         "A-1162.1"
       ],
@@ -1251,8 +1251,8 @@
       "@type": "Claim",
       "@id": "C-3632",
       "ref": "C-3632",
-      "label": "TPUSA internal memo of September 2, 2025 elevated Justin Strife to COO and announced organizational-wide DOGE efficiency audit",
-      "claim": "An internal TPUSA memo signed by Charlie Kirk on September 2, 2025 announced Justin Strife's elevation to COO and tasked him with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.",
+      "label": "TPUSA internal memo of September 2, 2025 elevated Justin Streiff to COO and announced organizational-wide DOGE efficiency audit",
+      "claim": "An internal TPUSA memo signed by Charlie Kirk on September 2, 2025 announced Justin Streiff's elevation to COO and tasked him with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.",
       "anchored_artifacts": [
         "A-1162.1"
       ],

@@ -154,7 +154,7 @@ Uh the server has been has given an interview. There is a receipt. If you're try
 
 [31:25]
 
-There is a report made. It happened. I'm so sorry you guys, but it happened. Now, is it possible if if they weren't being absurd, they would just say, "Okay, yeah, I hear you, but Candace, is it possible that the server just misidentified him?" And then I'd say, "Yeah, of course. There's always a possibility that people truly believe that they see someone Allah Nick uh Mitch Snow and we did the Fort Wuka thing. We can verify that this person um was at the restaurant. We can verify that they called the FBI. We can verify that the owner pulled the receipt. We can verify what the person ate, that there is a receipt, and that it was paid for on a debit card. Asking me to go to the Visa merchant is absurd and insane.
+There is a report made. It happened. I'm so sorry you guys, but it happened. Now, is it possible if if they weren't being absurd, they would just say, "Okay, yeah, I hear you, but Candace, is it possible that the server just misidentified him?" And then I'd say, "Yeah, of course. There's always a possibility that people truly believe that they see someone Allah Nick uh Mitch Snow and we did the Fort Huachuca thing. We can verify that this person um was at the restaurant. We can verify that they called the FBI. We can verify that the owner pulled the receipt. We can verify what the person ate, that there is a receipt, and that it was paid for on a debit card. Asking me to go to the Visa merchant is absurd and insane.
 
 [32:05]
 

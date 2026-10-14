@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11143
   - Claim Range (supplement_2026-10b): C-7400–C-7473
-  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-190, N-221, N-375, N-517, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764
+  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-190, N-221, N-372, N-512, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764
  - (see registers)
 
 ## I. Meta-Data
@@ -429,7 +429,7 @@ Broadcaster whose tweet about the Lozi footage prompted replies from Neff and Ti
 
 ---
 
-**N-273** Tim Pool
+**N-271** Tim Pool
 
 Commentator who tweeted that the Lozi footage counters the exploding mic claims.
 
@@ -469,7 +469,7 @@ Previously named by the host as the person who recorded the casket footage; the 
 
 ---
 
-**N-375** Danny Philip
+**N-372** Danny Philip
 
 Person the host says Blake Neff excludes from his account of Sept 10 driving.
 
@@ -477,7 +477,7 @@ Person the host says Blake Neff excludes from his account of Sept 10 driving.
 
 ---
 
-**N-517** Christopher Bagley
+**N-512** Christopher Bagley
 
 Officer Bagley; the host sarcastically references his body-cam footage and the screwdriver.
 
@@ -778,7 +778,7 @@ Claim Timestamp: 00:06:39
 Claim: Tim Pool tweeted in response to Alex Jones that the Lozi rooftop footage "serves as a counter to the exploding Mike claims."
 
 Anchored Artifacts: A-2211.1
-Mentions: N-93, N-273
+Mentions: N-93, N-271
 
 Related Nodes:
 
@@ -951,7 +951,7 @@ Claim: The host says her video shows the person on the Lozi roof was a decoy who
 Transcript Snippet: Effectively, we were saying this person was a decoy and never fired a shot.
 
 Anchored Artifacts: A-2211.1
-Mentions: N-3, N-273, N-93
+Mentions: N-3, N-271, N-93
 Related Nodes: N-10172, N-10769
 Tags: relevance:core
 Investigative Direction: Compare the rooftop footage frame by frame with the position, angle and timing of the fatal shot.
@@ -1646,7 +1646,7 @@ Claim: Speaking sarcastically, the host suggests Officer Bagley's body-camera fo
 Transcript Snippet: Officer Bagley, oh just it just it went off. I don't know. I don't know what happened to my body cam footage
 
 Anchored Artifacts: 
-Mentions: N-517, N-162
+Mentions: N-512, N-162
 Related Nodes: N-10725, N-11143
 Tags: relevance:core
 Investigative Direction: Obtain Bagley's body-cam records and activation logs for that day.
@@ -1889,7 +1889,7 @@ Claim: The host says Blake Neff shows convenient amnesia about events that day a
 Transcript Snippet: why Blake seems to have this convenient amnesia about certain events that day and why he continues to exclude Danny Philip from the equation.
 
 Anchored Artifacts: 
-Mentions: N-162, N-375, N-3
+Mentions: N-162, N-372, N-3
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Review Neff's accounts of Sept 10 against vehicle and driver records.
@@ -2182,7 +2182,7 @@ Confidence: high
 - **Undisplayed referenced text messages**: Host references text messages from "the people that would have knowledge of" the mock burial, but no text message image or quote is displayed in the episode.
 - **Unnamed source / Hunted tip**: The mock-burial allegation (N-10760) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.
 - **Screwdriver reference**: Host paraphrases Skyhorse courtroom commentary about the defendant using a screwdriver (citing exhibits 12.1 and 12.4); no artifact displayed; not inscribed.
-- **Wave 1 reconciliation**: Andrew Kolvet is N-14, Blake Neff is N-162 and Tim Pool is N-273; the Lisa Knows account has no CKA person node. The topic ids N-10141.. never denoted these people.
+- **Wave 1 reconciliation**: Andrew Kolvet is N-14, Blake Neff is N-162 and Tim Pool is N-271; the Lisa Knows account has no CKA person node. The topic ids N-10141.. never denoted these people.
 - **Unnamed priest**: The priest said to have officiated the Catholic funeral mass, coordinated Erika's travel after the shooting, and traveled with her to the Ole Miss Turning Point event on Oct 29 is referenced but not named and not tied to any displayed artifact.
 - **Frank Turek**: Referenced by host as saying Charlie had no pulse; no artifact displayed.
 - **Danny Philip**: Referenced in passing by host re: Blake's "convenient amnesia"; no artifact displayed.

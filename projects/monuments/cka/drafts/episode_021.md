@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-769, N-11100, N-11101
-  - Hole-minted Nodes (reintro-ep021): N-213, N-336, N-10319, N-10323, N-10353
-  - Tip-minted Nodes (reintro-ep021): N-673
+  - Tip-minted Nodes (supplement_2026-10b): N-763, N-11100, N-11101
+  - Hole-minted Nodes (reintro-ep021): N-213, N-333, N-10319, N-10323, N-10353
+  - Tip-minted Nodes (reintro-ep021): N-667
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6512–C-6551
   - (see registers)
@@ -231,7 +231,7 @@ Video Timestamp: 00:18:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6523, N-5, N-1, N-769*
+*Related: C-6523, N-5, N-1, N-763*
 
 ---
 
@@ -499,7 +499,7 @@ Subject of the Megyn Kelly clip and the host's open address.
 
 ---
 
-**N-336** Tulsi Gabbard
+**N-333** Tulsi Gabbard
 
 DNI named alongside Joe Kent.
 
@@ -539,7 +539,7 @@ President; subject of the AI photo, memorial speech story and Epstein remark.
 
 ---
 
-**N-673** Ivanka Trump
+**N-667** Ivanka Trump
 
 Named by the host regarding Israel investments.
 
@@ -597,7 +597,7 @@ The host's recollection that Charlie Kirk told her TPUSA had found a person to c
 
 ---
 
-**N-769** Breland Holland
+**N-763** Breland Holland
 
 First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.
 
@@ -980,7 +980,7 @@ Claim: The host says Trump, in his speech at Charlie Kirk's memorial, told a sto
 Transcript Snippet: Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Breland Holland?
 
 Anchored Artifacts: A-2819.1
-Mentions: N-5, N-1, N-3, N-769
+Mentions: N-5, N-1, N-3, N-763
 Tags: relevance:context
 Investigative Direction: Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Breland Holland to see who attended.
 
@@ -1026,7 +1026,7 @@ Claim: The host says she and her team are getting very close to what happened on
 Transcript Snippet: I'm getting the suspicion that there were some foreign entities involved.
 
 Anchored Artifacts: 
-Mentions: N-213, N-336, N-3
+Mentions: N-213, N-333, N-3
 Related Nodes: N-10202
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the evidence behind the suspicion of foreign involvement, and compare with the Kent inquiry reported by the New York Times.
@@ -1247,7 +1247,7 @@ Claim: The host says the Trump family understands Jared, Ivanka and their invest
 Transcript Snippet: They understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet
 
 Anchored Artifacts: 
-Mentions: N-182, N-673, N-33
+Mentions: N-182, N-667, N-33
 Related Nodes: N-10025
 Tags: relevance:context
 Investigative Direction: Review disclosures of Kushner and Ivanka Trump investments in Israel and any contact with Don Jr. on the Kirk case.

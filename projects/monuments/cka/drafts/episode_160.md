@@ -15,8 +15,8 @@
   - Tip-minted Nodes (supplement_2026-10c): N-11213, N-11214, N-11215, N-11216
   - Claim Range (supplement_2026-10c): C-9211–C-9257
   - New Nodes Introduced: N-10874, N-10875, N-10876, N-10877, N-10878, N-10879
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-14, N-68, N-69, N-82, N-85, N-131, N-212, N-272, N-276, N-277, N-337, N-374, N-10324, N-10559, N-10666, N-10687, N-10699, N-10737, N-10839, N-10859, N-10867, N-10872, N-8, N-10, N-25, N-217, N-231, N-228, N-40, N-47, N-60, N-287, N-10000, N-10015, N-10026, N-10056, N-10064, N-10074, N-10082, N-10083, N-10110, N-10243, N-10646, N-10730, N-10885, N-10887, N-10888, N-10898, N-11020, N-11087, N-11096, N-11103, N-168, N-230, N-198, N-849, N-850
-  - Hole-minted Nodes (seq160): N-175, N-180, N-206, N-210, N-268
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-14, N-68, N-69, N-82, N-85, N-131, N-212, N-270, N-274, N-275, N-334, N-371, N-10324, N-10559, N-10666, N-10687, N-10699, N-10737, N-10839, N-10859, N-10867, N-10872, N-8, N-10, N-25, N-217, N-230, N-58, N-40, N-47, N-60, N-285, N-10000, N-10015, N-10026, N-10056, N-10064, N-10074, N-10082, N-10083, N-10110, N-10243, N-10646, N-10730, N-10885, N-10887, N-10888, N-10898, N-11020, N-11087, N-11096, N-11103, N-168, N-229, N-198, N-842, N-843
+  - Hole-minted Nodes (seq160): N-175, N-180, N-206, N-210, N-266
   - (see registers)
   - Person band: new persons at N-168 and above. No person id in the topic band (one thousand through nine thousand nine hundred ninety-nine). Mark Herman (show director) does not appear by name in this episode; N-67 not cited. Sponsor reads (PreBorn, Beekeepers Naturals, PureTalk, Nimi, American Financing) treated as non-claim.
 
@@ -42,7 +42,7 @@ Video Timestamp: 00:01:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (tweet as read on air); Low (underlying rumor truth)
 
-*Related: C-3617, N-10875, N-3, N-268*
+*Related: C-3617, N-10875, N-3, N-266*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:35:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (clip as aired)
 
-*Related: C-3625, N-7, N-277, N-276, N-228, N-10839*
+*Related: C-3625, N-7, N-275, N-274, N-58, N-10839*
 
 ---
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:47:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (trend/headline as characterized on air)
 
-*Related: C-3629, N-10879, N-337, N-3*
+*Related: C-3629, N-10879, N-334, N-3*
 
 ---
 
@@ -320,7 +320,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-131** Ian Carol
+**N-131** Ian Carroll
 
 Credited for Las Vegas 2017 conspiracy research the host points viewers toward.
 
@@ -344,7 +344,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 Security lead whose long hospital story (no CPR in car) conflicts with Turek and with the review's fire-captain CPR.
 
@@ -356,7 +356,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-276** Dan Flood
+**N-274** Dan Flood
 
 Security teammate; Turek says Flood showed the "I got you covered" roofs text (timing corrected mid-story).
 
@@ -368,7 +368,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-277** Jeff Long
+**N-275** Jeff Long
 
 UVU police chief; Turek recounts Long saying he was thrown under the bus and arguing only the bridge roof was covered.
 
@@ -380,7 +380,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-337** Baron Coleman
+**N-334** Baron Coleman
 
 Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.
 
@@ -392,7 +392,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-374** Jeremy Boreing
+**N-371** Jeremy Boreing
 
 Mentioned in a viewer comment the host answers dismissively.
 
@@ -499,7 +499,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3623, N-272, N-7*
+*Related: C-3623, N-270, N-7*
 
 ---
 
@@ -585,7 +585,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3617, A-2474.1, N-3, N-268, N-10867*
+*Related: C-3617, A-2474.1, N-3, N-266, N-10867*
 
 ---
 
@@ -637,7 +637,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3629, A-2480.1, N-337, N-3*
+*Related: C-3629, A-2480.1, N-334, N-3*
 
 ---
 
@@ -704,7 +704,7 @@ Independent journalist; host revisits him as relatively unknown figure pushed on
 
 ---
 
-**N-228** Brandon Tatum
+**N-58** Brandon Tatum
 
 Node Type: Person
 Podcast host of the Frank Turek interview clip in which Turek recounts confronting Jeff Long about roof coverage.
@@ -713,7 +713,7 @@ Podcast host of the Frank Turek interview clip in which Turek recounts confronti
 
 ---
 
-**N-230** Steven Paddock
+**N-229** Steven Paddock
 
 Node Type: Person
 Named by investigators as the lone Las Vegas 2017 gunman who died by suicide before police entry; host uses the unresolved case as the template for media distraction via MeToo.
@@ -722,7 +722,7 @@ Named by investigators as the lone Las Vegas 2017 gunman who died by suicide bef
 
 ---
 
-**N-231** Harvey Weinstein
+**N-230** Harvey Weinstein
 
 Node Type: Person
 Subject of the New York Times MeToo explosion the host says displaced Las Vegas coverage within five days of the shooting.
@@ -731,7 +731,7 @@ Subject of the New York Times MeToo explosion the host says displaced Las Vegas 
 
 ---
 
-**N-268** Lisa Nose
+**N-266** Lisa Nose
 
 Node Type: Person
 X poster whose nanny/NDA mansion tweet the host reads as the week's Candyland attack; Nose cites Jessica Reed Kraus as original reporter.
@@ -764,7 +764,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-287** Jennica Pounds
+**N-285** Jennica Pounds
 
 Reused node cited by new claims in this episode.
 
@@ -932,7 +932,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-849** Macklemore
+**N-842** Macklemore
 
 Node Type: Person
 First named by the host at 00:44:26 in episode 160 (spelled McLemore in the transcript). Rapper the host says said Free Palestine on stage at the Gillette Stadium Ed Sheeran show.
@@ -942,7 +942,7 @@ Aliases: McLemore
 
 ---
 
-**N-850** Ed Sheeran
+**N-843** Ed Sheeran
 
 Node Type: Person
 First named by the host at 00:44:26 in episode 160. Singer whose Gillette Stadium show Macklemore opened and whose attendance record the host says Zach Bryan broke.
@@ -994,7 +994,7 @@ Claim that Candace Owens and Charlie Kirk unfollowed each other over a rift, whi
 Claim Timestamp: 00:01:13
 Claim: On air the host reads a Lisa Nose X post claiming Candace Owens keeps eight nannies (two per child) living in a second mansion, hires nannies who are in the country illegally via an elite Jewish nanny agency, underpays them, and binds them with NDAs so they cannot speak; Nose says Jessica Reed Kraus originally reported it and that Nose confirmed via three people who know Candace.
 Anchored Artifacts: A-2474.1
-Mentions: N-3, N-268
+Mentions: N-3, N-266
 Related Nodes: N-10867, N-10875
 Investigative Direction: Preserve the original Nose and Kraus posts; seek any primary employment/immigration evidence rather than rumor chains.
 
@@ -1014,9 +1014,9 @@ Investigative Direction: Map amplification graphs (Mace, NY Post, Libs) against 
 **C-3619** Las Vegas 2017 coverage displaced within five days by MeToo / Weinstein
 
 Claim Timestamp: 00:05:42
-Claim: The host states the October 2017 Las Vegas mass shooting (60 dead, 869 injured; investigators cited 24 firearms in Steven Paddock's suite and no clear motive) disappeared from the media cycle in less than a week because five days later the New York Times Harvey Weinstein MeToo story broke and dominated coverage. She points to Ian Carol and others for military/Israel/Saudi conspiracy research she does not develop here.
+Claim: The host states the October 2017 Las Vegas mass shooting (60 dead, 869 injured; investigators cited 24 firearms in Steven Paddock's suite and no clear motive) disappeared from the media cycle in less than a week because five days later the New York Times Harvey Weinstein MeToo story broke and dominated coverage. She points to Ian Carroll and others for military/Israel/Saudi conspiracy research she does not develop here.
 Anchored Artifacts: A-2475.1
-Mentions: N-131, N-230, N-231
+Mentions: N-131, N-229, N-230
 Investigative Direction: Verify the five-day media-shift claim against contemporary news indexes; treat Paddock/motive facts as investigator claims, not settled.
 
 ---
@@ -1059,7 +1059,7 @@ Investigative Direction: Identify Station 2 captain on duty 2025-09-10 via offic
 Claim Timestamp: 00:22:00
 Claim: Combining Frank Turek's claim of late-ride back-seat CPR with Brian Harpole's claim that CPR was not administered in the car (and Harpole's long hospital narrative through defibrillator prep and door guard), the host says neither man ever featured a fire captain who met them at the hospital and began CPR, which she calls an impossible dual omission given the review text.
 Anchored Artifacts: A-2476.1
-Mentions: N-1, N-7, N-212, N-272
+Mentions: N-1, N-7, N-212, N-270
 Related Nodes: N-10687, N-10699, N-10737, N-10874
 Investigative Direction: Align Turek, Harpole, and review timelines minute-by-minute; seek hospital/EMS records naming the captain.
 
@@ -1081,7 +1081,7 @@ Investigative Direction: Obtain original Provo/Orem dispatch recordings and unit
 Claim Timestamp: 00:35:11
 Claim: In a Brandon Tatum podcast clip, Frank Turek recounts a March 2026 UVU confrontation with Chief Jeff Long in which Turek cites a Dan Flood text ("I got you covered") as proof Long had the roofs, then mid-story corrects that Flood showed him the text days after the hospital rather than at the hospital; the host says Turek is still repeating roofs talking points after the independent review undercut TPUSA's security narrative.
 Anchored Artifacts: A-2477.1
-Mentions: N-7, N-228, N-276, N-277
+Mentions: N-7, N-58, N-274, N-275
 Related Nodes: N-10839
 Investigative Direction: Preserve full Tatum interview; compare Turek's roofs claims to the published UVU review findings and Flood text metadata.
 
@@ -1125,7 +1125,7 @@ Investigative Direction: Verify Kraft/Macklemore cancellation, Bryan set dates, 
 Claim Timestamp: 00:47:22
 Claim: After announcing Baron Coleman would take over her show during maternity leave, the host says critics immediately dug up 20-year-old interviews and trended lines casting him as abusive, with headlines such as "Baron Coleman faces online criticism before guest spot on Candace Owens," which she frames as an attempt to get him dropped.
 Anchored Artifacts: A-2480.1
-Mentions: N-3, N-337
+Mentions: N-3, N-334
 Related Nodes: N-10879
 Investigative Direction: Archive the trend posts and primary interview clips being recirculated; separate verified past statements from smear packaging.
 
@@ -1183,7 +1183,7 @@ Claim: In the Lisa Nose post the host reads aloud, Nose says Laura Loomer (trans
 Transcript Snippet: Remember the second mansion that Laura Luma reported on?
 
 Anchored Artifacts: A-2474.1
-Mentions: N-3, N-268, N-60
+Mentions: N-3, N-266, N-60
 Related Nodes: N-10875
 Tags: relevance:context
 Investigative Direction: Locate any Loomer post or report about a second Owens property and the original Nose and Kraus posts.
@@ -1231,7 +1231,7 @@ Claim: The host says that within five days of the Weinstein story nobody was spe
 Transcript Snippet: within five days nobody was speaking about the Las Vegas shooting which appeared to be a CIA MSAD operation.
 
 Anchored Artifacts: 
-Mentions: N-3, N-231
+Mentions: N-3, N-230
 Related Nodes: N-10887, N-10015, N-10082
 Supports: C-3619
 Tags: relevance:tangential
@@ -1493,7 +1493,7 @@ Claim: The host says Brian Harpole said CPR was not administered in the car "or 
 Transcript Snippet: Brian Harpole said that um CPR actually was not administered in the car or anywhere else for that matter
 
 Anchored Artifacts: A-2476.1
-Mentions: N-272, N-7
+Mentions: N-270, N-7
 Related Nodes: N-10699, N-10737
 Supports: C-3547
 Contradicts: C-3622
@@ -1511,7 +1511,7 @@ Claim: The host recounts Harpole's story as grabbing a gurney, hopping on it, cu
 Transcript Snippet: He grabs a gurnie. He hops on top of that gurnie. He cuts off Charlie's Kirk. He's prepping Charlie uh for a defibrillator before he's uh talking through the medications that Charlie is going to need.
 
 Anchored Artifacts: 
-Mentions: N-272, N-1
+Mentions: N-270, N-1
 Related Nodes: N-10699
 Tags: relevance:core
 Investigative Direction: Compare Harpole's interview wording with hospital staff and bodycam accounts.
@@ -1527,7 +1527,7 @@ Claim: The host says that on the basis of the stories both men told, Frank Turek
 Transcript Snippet: We are to assume that Frank was facetiming Jack Hibbs on the basis of the story that they both told.
 
 Anchored Artifacts: 
-Mentions: N-7, N-212, N-272
+Mentions: N-7, N-212, N-270
 Related Nodes: N-10730
 Supports: C-7630
 Tags: relevance:core
@@ -1641,7 +1641,7 @@ Claim: The host says Turning Point has been trying to shift the narrative to bla
 Transcript Snippet: how despicable it is that Turning Point has been trying to shift the narrative to blame Chief Jeff Long um for the absence of what they deem to be acceptable security
 
 Anchored Artifacts: 
-Mentions: N-277
+Mentions: N-275
 Related Nodes: N-10000, N-10646
 Supports: C-4942
 Tags: relevance:core
@@ -1658,7 +1658,7 @@ Claim: In the clip, Frank Turek says Chief Long explained that when he said he h
 Transcript Snippet: Well, that bridge that was above you, that roof above, we had that cuz we didn't want people throwing stuff down on Charlie.
 
 Anchored Artifacts: A-2477.1
-Mentions: N-7, N-277, N-1
+Mentions: N-7, N-275, N-1
 Related Nodes: N-10646
 Supports: C-3472
 Tags: relevance:core
@@ -1675,7 +1675,7 @@ Claim: In the clip, Frank Turek relays Long saying Charlie's team arrived the da
 Transcript Snippet: Well, they got here the day of. They should have been here the day before.
 
 Anchored Artifacts: A-2477.1
-Mentions: N-7, N-277, N-1
+Mentions: N-7, N-275, N-1
 Related Nodes: N-10646
 Tags: relevance:core
 Investigative Direction: Check the team's actual arrival and advance-visit timeline against the review.
@@ -1836,7 +1836,7 @@ Claim: The host says Ed Sheeran knew what he was getting into when he offered Ma
 Transcript Snippet: Ed Sheeran knew what he was getting into when he offered for McLemore, who he has been friends with for a long time, to open for him.
 
 Anchored Artifacts: 
-Mentions: N-849, N-850
+Mentions: N-842, N-843
 Related Nodes: N-10878
 Supports: C-3458
 Tags: relevance:context
@@ -1901,7 +1901,7 @@ Claim: The host says the Data Republican resigned and was "literally hired to go
 Transcript Snippet: we got to talk about uh the resignation of data Republican who was literally hired to go after me.
 
 Anchored Artifacts: 
-Mentions: N-287, N-68
+Mentions: N-285, N-68
 Related Nodes: N-10885, N-10888
 Tags: relevance:context
 Investigative Direction: Verify the resignation and any employer statement.

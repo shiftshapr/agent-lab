@@ -34,8 +34,8 @@ Episode 42 Ledger Summary
 
 - Artifact Families Introduced: A-1501, A-1502, A-1503, A-1504, A-1505, A-1506, A-1507, A-1508, A-1509, A-1510, A-1511, A-1512
 - Claim Range: C-1839–C-1861
-  - New Nodes Introduced: N-315, N-316, N-318, N-10312, N-10313
-  - Reused Nodes Appearing: N-2, N-10311, N-317, N-10315, N-314, N-10314
+  - New Nodes Introduced: N-312, N-313, N-315, N-10312, N-10313
+  - Reused Nodes Appearing: N-2, N-10311, N-314, N-10315, N-311, N-10314
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -62,7 +62,7 @@ Video Timestamp: 00:04:20–00:05:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1839, C-1840, N-318, N-162, N-2, N-10313*
+*Related: C-1839, C-1840, N-315, N-162, N-2, N-10313*
 
 **A-1501.2** Segment: Blake Nef response – Erika Kirk direction and in-person rationale
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:34:18–00:37:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1843, N-311, N-2*
+*Related: C-1843, N-308, N-2*
 
 **A-1504** John McCain Ukraine Speech Clip Bundle
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:20:45–00:21:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1844, C-1847, N-10311, N-314, N-315*
+*Related: C-1844, C-1847, N-10311, N-311, N-312*
 
 **A-1505.2** Footage segment: Jacob Kasparian not ducking after shot
 
@@ -130,7 +130,7 @@ Video Timestamp: 00:24:00–00:24:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1848, C-1849, N-314, N-10311*
+*Related: C-1848, C-1849, N-311, N-10311*
 
 **A-1505.3** Footage segment: Jacob Kasparian recording (grainy superimposition)
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:25:00–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1849, N-314, N-10311*
+*Related: C-1849, N-311, N-10311*
 
 **A-1505.4** Jacob Kasparian earlier-day social media post (dyed blue shirt)
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:24:50–00:25:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1850, N-314, N-10311*
+*Related: C-1850, N-311, N-10311*
 
 **A-1505.5** Adam Bartholomew live-stream footage (full event)
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:26:30–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1851, C-1852, C-1853, N-315, N-316, N-10311*
+*Related: C-1851, C-1852, C-1853, N-312, N-313, N-10311*
 
 **A-1505.6** Video segment: a person holding a maroon shirt
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:32:42–00:33:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1856, N-317, N-10315*
+*Related: C-1856, N-314, N-10315*
 
 **A-1509** Roof Shooter Video Follow-up Bundle
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:27:30–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1852, N-316, N-315, N-10311*
+*Related: C-1852, N-313, N-312, N-10311*
 
 **A-1512** Audience Comment Bundle
 
@@ -294,7 +294,7 @@ Investigative Pressure: Medium
 
 *Related: A-1501.1, A-1501.2, N-162, N-10313*
 
-**N-311** The Game
+**N-308** The Game
 
 Recording artist whose track "The Assassination of Candace Owens" is presented in the episode.
 
@@ -305,7 +305,7 @@ Investigative Pressure: Low
 
 *Related: A-1503.1, C-1843, N-1*
 
-**N-314** Jacob Kasparian
+**N-311** Jacob Kasparian
 
 Individual identified in UVU September 10 footage by host; subject of non-ducking, recording, and clothing-change observations. Spelled "Jordan Kasparian" once in transcript – see Optional Flags.
 
@@ -316,7 +316,7 @@ Investigative Pressure: Medium
 
 *Related: A-1505.2, A-1505.3, A-1505.4, C-1848, C-1849, C-1850, N-10311*
 
-**N-315** Adam Bartholomew
+**N-312** Adam Bartholomew
 
 Live-streamer of the UVU event; identified in host's footage analysis.
 
@@ -325,9 +325,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.5, C-1851, C-1853, N-316, N-10311*
+*Related: A-1505.5, C-1851, C-1853, N-313, N-10311*
 
-**N-316** Carrie Bartholomew
+**N-313** Carrie Bartholomew
 
 Spouse of Adam Bartholomew; confirmed in her own social media post as being in the courtyard during the shot.
 
@@ -336,9 +336,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1511.1, C-1852, N-315, N-10311*
+*Related: A-1511.1, C-1852, N-312, N-10311*
 
-**N-317** Emmanuel Beerer
+**N-314** Emmanuel Beerer
 
 Eyewitness featured in PBS interview clip; host notes his selection by mainstream media.
 
@@ -349,7 +349,7 @@ Investigative Pressure: Medium
 
 *Related: A-1508.1, C-1856, N-10315*
 
-**N-318** "Gina" (Charlie Kirk Show caller)
+**N-315** "Gina" (Charlie Kirk Show caller)
 
 Caller who posed question to Blake Nef regarding invitation mechanics.
 
@@ -369,7 +369,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.1, A-1505.2, A-1505.3, A-1505.4, A-1505.5, A-1505.6, A-1510.1, A-1511.1, C-1844, C-1847, C-1848, C-1849, C-1850, C-1851, C-1852, C-1853, C-1854, C-1860, N-314, N-315, N-316*
+*Related: A-1505.1, A-1505.2, A-1505.3, A-1505.4, A-1505.5, A-1505.6, A-1510.1, A-1511.1, C-1844, C-1847, C-1848, C-1849, C-1850, C-1851, C-1852, C-1853, C-1854, C-1860, N-311, N-312, N-313*
 
 **N-10312** Charlie Kirk Show Apple Podcasts Ranking Decline
 
@@ -391,7 +391,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-1839, C-1840, C-1841, C-1842, C-1854, C-1861, N-162, N-14, N-318, N-2*
+*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-1839, C-1840, C-1841, C-1842, C-1854, C-1861, N-162, N-14, N-315, N-2*
 
 **N-10314** Roof Shooter Video Witness Follow-up
 
@@ -413,7 +413,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1508.1, C-1856, N-317*
+*Related: A-1508.1, C-1856, N-314*
 
 ---
 
@@ -471,7 +471,7 @@ Claim Timestamp: 00:34:18
 Claim: The Game's song "The Assassination of Candace Owens" (audio excerpt and lyric read) includes the line "Who really killed Charlie Kirk?"
 
 Anchored Artifacts: A-1503.1
-Mentions: N-1, N-311, N-3
+Mentions: N-1, N-308, N-3
 
 
 Investigative Direction: Obtain the full released track and verify publication date, distribution platform, and producer credits.
@@ -499,7 +499,7 @@ Claim Timestamp: 00:20:45–00:21:55
 Claim: Footage from UVU on September 10 shows multiple young men attending alone and wearing maroon shirts.
 
 Anchored Artifacts: A-1505.1, A-1505.6
-Mentions: N-314
+Mentions: N-311
 
 Related Nodes: N-10311
 
@@ -543,7 +543,7 @@ Claim Timestamp: 00:32:42–00:33:55
 Claim: PBS (and other networks, per host) featured Emmanuel Beerer as an eyewitness, with the interview conducted in Salt Lake City rather than at UVU.
 
 Anchored Artifacts: A-1508.1
-Mentions: N-317
+Mentions: N-314
 
 Related Nodes: N-10315
 
@@ -558,7 +558,7 @@ Claim Timestamp: 00:24:00–00:24:45
 Claim: UVU footage shows Jacob Kasparian remaining upright and not ducking after the shot, briefly handling his phone and walking away.
 
 Anchored Artifacts: A-1505.2
-Mentions: N-314
+Mentions: N-311
 
 Related Nodes: N-10311
 
@@ -573,7 +573,7 @@ Claim Timestamp: 00:25:00–00:25:35
 Claim: Footage and a grainy superimposed image depict Jacob Kasparian recording the event on his phone.
 
 Anchored Artifacts: A-1505.3
-Mentions: N-314
+Mentions: N-311
 
 Related Nodes: N-10311
 
@@ -588,7 +588,7 @@ Claim Timestamp: 00:24:50–00:25:25
 Claim: Jacob Kasparian posted himself earlier on September 10 wearing a dyed blue shirt rather than the maroon shirt worn at UVU.
 
 Anchored Artifacts: A-1505.4
-Mentions: N-314
+Mentions: N-311
 
 Related Nodes: N-10311
 
@@ -603,7 +603,7 @@ Claim Timestamp: 00:26:30–00:28:00
 Claim: Adam Bartholomew live-streamed the entire UVU event on September 10.
 
 Anchored Artifacts: A-1505.5
-Mentions: N-315, N-316
+Mentions: N-312, N-313
 
 Related Nodes: N-10311
 
@@ -618,7 +618,7 @@ Claim Timestamp: 00:27:30–00:28:00
 Claim: Carrie Bartholomew posted a tweet and accompanying photo confirming she was in the courtyard near the bush when the shot occurred.
 
 Anchored Artifacts: A-1511.1, A-1505.5
-Mentions: N-315, N-316
+Mentions: N-312, N-313
 
 Related Nodes: N-10311
 
@@ -633,7 +633,7 @@ Claim Timestamp: 00:27:51–00:28:00
 Claim: In his livestream footage, Adam Bartholomew did not interrupt the broadcast to check on or locate his wife immediately after the shot.
 
 Anchored Artifacts: A-1505.5
-Mentions: N-315, N-316
+Mentions: N-312, N-313
 
 Related Nodes: N-10311
 

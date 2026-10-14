@@ -18,7 +18,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9324–C-9398
   - New Nodes Introduced: N-164, N-165, N-166, N-167, N-169, N-170, N-171, N-172, N-173, N-174, N-176, N-10174, N-10175, N-10176, N-10177, N-10178, N-10179
-  - Reused Nodes Appearing: N-36, N-46, N-71, N-102, N-141, N-157, N-158, N-384, N-10000, N-10015, N-10018, N-10025, N-10027, N-10056, N-10106, N-10125, N-10163, N-10169, N-11099, N-10345
+  - Reused Nodes Appearing: N-36, N-46, N-71, N-102, N-141, N-157, N-158, N-131, N-10000, N-10015, N-10018, N-10025, N-10027, N-10056, N-10106, N-10125, N-10163, N-10169, N-11099, N-10345
 
 **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk – referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-11
 
@@ -771,7 +771,7 @@ Michael Knowles; named in the JTV discussion of commentators.
 ---
 
 **N-141** Konstantin Kisin
-Konstantin Kisin (transcribed Constantin Kissin); the host says he told Megyn Kelly to make a statement against Candace and Tucker.
+Konstantin Kisin (transcribed Konstantin Kisin); the host says he told Megyn Kelly to make a statement against Candace and Tucker.
 
 *Related: C-9397*
 
@@ -801,7 +801,7 @@ Sam Parker; the account Ali says the host quote tweeted.
 
 ---
 
-**N-384** Ian Carroll
+**N-131** Ian Carroll
 
 Ian Carroll; named by the JTV host and Hammer.
 
@@ -1556,7 +1556,7 @@ Claim: On the JTV audio, Hammer says Ian Carroll and the host have chosen to hij
 Transcript Snippet: she's chosen to hijack his death right now to blame it on Israel. I mean, it's just so disturbing. But then you have the people
 
 Anchored Artifacts: A-1242.1
-Mentions: N-55, N-3, N-384, N-174
+Mentions: N-55, N-3, N-131, N-174
 Related Nodes: N-10056
 Tags: relevance:context
 Investigative Direction: Review the full JTV episode for Hammer's exact wording and date.
@@ -2432,13 +2432,13 @@ Investigative Direction: Review Australian visa decisions and the stated grounds
 
 ---
 
-**C-9397** Host Says Constantin Kissin Urged Megyn Kelly to Make a Statement Against Candace and Tucker
+**C-9397** Host Says Konstantin Kisin Urged Megyn Kelly to Make a Statement Against Candace and Tucker
 
 Claim Timestamp: 01:12:42
 
-Claim: The host says Constantin Kissin told Megyn Kelly she needed to make a statement against Candace and Tucker, and that someone else told Kelly Candace doesn't even hate the left anymore.
+Claim: The host says Konstantin Kisin told Megyn Kelly she needed to make a statement against Candace and Tucker, and that someone else told Kelly Candace doesn't even hate the left anymore.
 
-Transcript Snippet: Constantin Kissin, when he was like, "You need to make a statement against Candace and Tucker." Um somebody else was saying to her, "Candace doesn't
+Transcript Snippet: Konstantin Kisin, when he was like, "You need to make a statement against Candace and Tucker." Um somebody else was saying to her, "Candace doesn't
 
 Anchored Artifacts: 
 Mentions: N-141, N-46, N-3, N-22

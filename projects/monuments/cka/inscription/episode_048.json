@@ -30,7 +30,7 @@
             "C-1960"
           ],
           "related_nodes": [
-            "N-367",
+            "N-364",
             "N-199",
             "N-10358"
           ],
@@ -85,7 +85,7 @@
             "C-1966"
           ],
           "related_nodes": [
-            "N-337",
+            "N-334",
             "N-10363",
             "N-10364",
             "N-10365"
@@ -111,7 +111,7 @@
             "C-1967"
           ],
           "related_nodes": [
-            "N-272",
+            "N-270",
             "N-10365",
             "N-10366"
           ],
@@ -328,8 +328,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-367",
-      "ref": "N-367",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Andrew Colberg",
       "type": "person",
       "description": "X user whose attributed \"man of steel\" quotation post is contested by host sources as not being a direct surgeon statement.",
@@ -395,8 +395,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Video creator whose segment on SAM call signs and August 25–26 flight logs is played on air.",
@@ -421,8 +421,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Security contractor named as having begun UVU event intel gathering on August 24 per his own statement; named by an unnamed eyewitness (\"Elvis guy\") as allegedly observed at a September 9 meeting.",
@@ -443,8 +443,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-368",
-      "ref": "N-368",
+      "@id": "N-365",
+      "ref": "N-365",
       "name": "Harry",
       "type": "person",
       "description": "Producer/investigator on host's team referenced by name regarding Fort Huachuca inquiry and the upcoming eyewitness testimony segment.",
@@ -478,7 +478,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-367",
+        "N-364",
         "N-199"
       ]
     },
@@ -571,7 +571,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -594,7 +594,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -615,9 +615,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-337",
-        "N-272",
-        "N-368"
+        "N-334",
+        "N-270",
+        "N-365"
       ]
     },
     {
@@ -639,7 +639,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -835,8 +835,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-388",
-      "ref": "N-388",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Reused; first introduced in episode 15.",
@@ -1068,8 +1068,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Interviewer in the Harpole clip played on air.",
@@ -1085,8 +1085,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-273",
-      "ref": "N-273",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Tim Pool",
       "type": "person",
       "description": "Named among those saying Candace is over.",
@@ -1485,7 +1485,7 @@
       "investigative_direction": "Obtain original Colberg post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.",
       "mentions_person_refs": [
         "N-199",
-        "N-367",
+        "N-364",
         "N-1"
       ]
     },
@@ -1543,7 +1543,7 @@
       "claim_timestamp": "00:36:19",
       "investigative_direction": "Cross-check against USAF flight plan records and ATC telephonic call sign logs.",
       "mentions_person_refs": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -1563,7 +1563,7 @@
       "claim_timestamp": "00:38:14",
       "investigative_direction": "Obtain raw flight plan and ATC records to verify origin, call sign, and destination.",
       "mentions_person_refs": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -1583,7 +1583,7 @@
       "claim_timestamp": "00:39:24",
       "investigative_direction": "Obtain radar track records and ADS-B exchange logs for August 26 to verify route and transponder gap.",
       "mentions_person_refs": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -1602,7 +1602,7 @@
       "claim_timestamp": "00:39:24",
       "investigative_direction": "Cross-reference the call sign change with any known VIP boarding or deboarding records at Colorado Springs on August 26.",
       "mentions_person_refs": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -1622,7 +1622,7 @@
       "claim_timestamp": "00:41:47",
       "investigative_direction": "Corroborate against any contemporaneous operational records and against the Operation Valhalla Strike timeline.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -1679,7 +1679,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-388",
+        "N-384",
         "N-5"
       ]
     },
@@ -1699,7 +1699,7 @@
       "transcript_snippet": "I was told that Andrew Colberg was allegedly flying blind when he tweeted out the conversation that he had with the surgeon.",
       "mentions_person_refs": [
         "N-3",
-        "N-367"
+        "N-364"
       ]
     },
     {
@@ -1718,7 +1718,7 @@
       "transcript_snippet": "me doing the the show and saying, \"Oh, I saw the back footage and there was no blood.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-367"
+        "N-364"
       ]
     },
     {
@@ -1740,7 +1740,7 @@
       ],
       "mentions_person_refs": [
         "N-199",
-        "N-367",
+        "N-364",
         "N-1"
       ]
     },
@@ -1801,7 +1801,7 @@
       ],
       "mentions_person_refs": [
         "N-199",
-        "N-367",
+        "N-364",
         "N-3"
       ]
     },
@@ -1823,7 +1823,7 @@
         "C-1960"
       ],
       "mentions_person_refs": [
-        "N-367",
+        "N-364",
         "N-3"
       ]
     },
@@ -2288,7 +2288,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-388"
+        "N-384"
       ]
     },
     {
@@ -2310,7 +2310,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-388"
+        "N-384"
       ]
     },
     {
@@ -2530,7 +2530,7 @@
       "transcript_snippet": "And then we were able to verify his story. People that are currently stationed there.",
       "mentions_person_refs": [
         "N-3",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2550,7 +2550,7 @@
       "investigative_direction": "Obtain the tail number's operator and mission history from Air Mobility Command records.",
       "transcript_snippet": "That key piece of evidence is a jet that's used exclusively by very few people.",
       "mentions_person_refs": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -2574,7 +2574,7 @@
         "C-1905"
       ],
       "mentions_person_refs": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -2592,7 +2592,7 @@
       "investigative_direction": "Verify with flight-tracking history for the aircraft in early July 2025.",
       "transcript_snippet": "that jet had recently flown for example President Trump's family back from their summer home in Bedminster, New Jersey.",
       "mentions_person_refs": [
-        "N-337",
+        "N-334",
         "N-5"
       ]
     },
@@ -2611,7 +2611,7 @@
       "investigative_direction": "Check Air Force and FAA call sign conventions for filed versus radio call signs.",
       "transcript_snippet": "When the president is on board, the radio call sign instantly becomes Air Force One.",
       "mentions_person_refs": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -2635,7 +2635,7 @@
         "C-1964"
       ],
       "mentions_person_refs": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -2655,7 +2655,7 @@
       "investigative_direction": "Verify call-sign usage rules with Air Mobility Command documentation.",
       "transcript_snippet": "the special air mission designation is usually when there's very high ranking or very important people on board.",
       "mentions_person_refs": [
-        "N-337",
+        "N-334",
         "N-3"
       ]
     },
@@ -2676,7 +2676,7 @@
       "investigative_direction": "Check military airlift call-sign documentation for Venus.",
       "transcript_snippet": "the other call sign we've seen is Venus, which is a designator for an empty flight except for the pilots.",
       "mentions_person_refs": [
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -2699,8 +2699,8 @@
         "C-1967"
       ],
       "mentions_person_refs": [
-        "N-272",
-        "N-229"
+        "N-270",
+        "N-228"
       ]
     },
     {
@@ -2718,7 +2718,7 @@
       "investigative_direction": "Request the company's operational plan and app logs for the UVU event, if obtainable.",
       "transcript_snippet": "It's a decentralized command model for the company.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2739,7 +2739,7 @@
       "transcript_snippet": "It also happens to be the exact date that Operation Valhalla Strike begins between civilians and the military. It happened on August 24th and ended on August 27th.",
       "mentions_person_refs": [
         "N-3",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2759,7 +2759,7 @@
       "transcript_snippet": "He said that there was an an undercover fed or he said it could have been an undercover secret serviceman.",
       "mentions_person_refs": [
         "N-3",
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -2781,7 +2781,7 @@
         "C-1886"
       ],
       "mentions_person_refs": [
-        "N-368",
+        "N-365",
         "N-3"
       ]
     },
@@ -2803,7 +2803,7 @@
       "transcript_snippet": "Everything he has said has checked out. I am telling you we have multiple emails from people that are currently stationed there.",
       "mentions_person_refs": [
         "N-3",
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -2848,7 +2848,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -2867,7 +2867,7 @@
       "transcript_snippet": "just gets out of his 25-year long NDA and stumbles into another what could be, we're keeping this open, another federal operation.",
       "mentions_person_refs": [
         "N-3",
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -2886,7 +2886,7 @@
       "transcript_snippet": "Do you want to come on and tell your story? And he has said, yes.",
       "mentions_person_refs": [
         "N-3",
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -2906,7 +2906,7 @@
       "transcript_snippet": "He actually lands into Los Angeles on a direct flight from Tokyo landing into Los Angeles at 6:45 p. m. on the 7th before continuing down to Dallas",
       "mentions_person_refs": [
         "N-3",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2926,7 +2926,7 @@
       "transcript_snippet": "It is possible for Brian Harpole to be able to meet to to make that meeting. Fort Huachuca, it is just possible.",
       "mentions_person_refs": [
         "N-3",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -3002,7 +3002,7 @@
       "transcript_snippet": "And then when you see like Tim Pool and Nick Fuentes, Candace is over.",
       "mentions_person_refs": [
         "N-3",
-        "N-273",
+        "N-271",
         "N-205"
       ]
     },
@@ -3352,7 +3352,7 @@
         "N-3",
         "N-4",
         "N-5",
-        "N-337"
+        "N-334"
       ]
     },
     {
@@ -3373,7 +3373,7 @@
       "transcript_snippet": "that he believes he saw coming out of that meeting did happen to be a Las Vegas congressman.",
       "mentions_person_refs": [
         "N-3",
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -3394,7 +3394,7 @@
       "transcript_snippet": "Again, I can't confirm that because I wasn't these aren't my eyes.",
       "mentions_person_refs": [
         "N-3",
-        "N-368"
+        "N-365"
       ]
     }
   ],

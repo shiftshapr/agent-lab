@@ -316,7 +316,7 @@
           "@type": "Artifact",
           "@id": "A-2293.2",
           "ref": "A-2293.2",
-          "description": "Comment by Alicia Switzer – Ian Carol 6-hour reaction video",
+          "description": "Comment by Alicia Switzer – Ian Carroll 6-hour reaction video",
           "related_claims": [],
           "related_nodes": [],
           "tags": [],
@@ -727,7 +727,7 @@
       "ref": "N-10807",
       "name": "Independent Investigator Network",
       "type": "investigation_target",
-      "description": "Investigation target: collaborative group of independent investigators including Nissi, Baron Coleman, Ian Carol, Coach Colin.",
+      "description": "Investigation target: collaborative group of independent investigators including Nissi, Baron Coleman, Ian Carroll, Coach Colin.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -818,8 +818,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -857,8 +857,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
@@ -877,8 +877,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-580",
-      "ref": "N-580",
+      "@id": "N-575",
+      "ref": "N-575",
       "name": "David Hull",
       "type": "person",
       "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
@@ -1018,9 +1018,9 @@
       "@type": "Person",
       "@id": "N-131",
       "ref": "N-131",
-      "name": "Ian Carol",
+      "name": "Ian Carroll",
       "type": "person",
-      "description": "Ian Carol; named among independent investigators.",
+      "description": "Ian Carroll; named among independent investigators.",
       "related_artifacts": [],
       "related_claims": [
         "C-9198"
@@ -1069,8 +1069,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Shawn Ryan; podcast where the host says the case was discussed.",
@@ -1086,8 +1086,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-242",
-      "ref": "N-242",
+      "@id": "N-241",
+      "ref": "N-241",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Glenn Beck; interviewer in Erika's night-before denial per the host.",
@@ -1103,8 +1103,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-265",
-      "ref": "N-265",
+      "@id": "N-263",
+      "ref": "N-263",
       "name": "Steven Crowder",
       "type": "person",
       "description": "Steven Crowder; named in the playroom and bug-sweep claims.",
@@ -1121,8 +1121,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole; plaintiff the host says is suing her.",
@@ -1138,8 +1138,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Baron Coleman; named among independent investigators.",
@@ -1155,8 +1155,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-714",
-      "ref": "N-714",
+      "@id": "N-708",
+      "ref": "N-708",
       "name": "Robert Golow",
       "type": "person",
       "description": "Robert Golow; operator of the front-left camera per the host.",
@@ -1513,8 +1513,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-842",
-      "ref": "N-842",
+      "@id": "N-835",
+      "ref": "N-835",
       "name": "Jordan Wilson",
       "type": "person",
       "description": "First named by the host at 00:08:20 in episode 142. Camera operator the host says ran the blue-circled camera at the UVU event.",
@@ -1530,8 +1530,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-843",
-      "ref": "N-843",
+      "@id": "N-836",
+      "ref": "N-836",
       "name": "Kathy Nester",
       "type": "person",
       "description": "First named in this episode by the host at 00:24:49 (transcribed Kathy Netor). Defense attorney in the Tyler Robinson case, as recorded in episode 94.",
@@ -1547,8 +1547,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-844",
-      "ref": "N-844",
+      "@id": "N-837",
+      "ref": "N-837",
       "name": "John Kiriakou",
       "type": "person",
       "description": "First named by the host at 00:31:29 in episode 142 (transcribed Kirao, Kuraku). Former CIA officer and whistleblower shown on the Danny Jones podcast.",
@@ -1565,8 +1565,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-845",
-      "ref": "N-845",
+      "@id": "N-838",
+      "ref": "N-838",
       "name": "Danny Jones",
       "type": "person",
       "description": "First named by the host at 00:31:29 in episode 142. Podcast host on whose show Kirraou questions the FBI role.",
@@ -1582,8 +1582,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-846",
-      "ref": "N-846",
+      "@id": "N-839",
+      "ref": "N-839",
       "name": "Mark Normand",
       "type": "person",
       "description": "First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.",
@@ -1599,8 +1599,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-847",
-      "ref": "N-847",
+      "@id": "N-840",
+      "ref": "N-840",
       "name": "Shane Gillis",
       "type": "person",
       "description": "First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.",
@@ -1616,8 +1616,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-848",
-      "ref": "N-848",
+      "@id": "N-841",
+      "ref": "N-841",
       "name": "Ari Shaffir",
       "type": "person",
       "description": "First named by the host at 00:34:33 in episode 142 (spelled Ari Schaefer in the transcript). Comedian the host names as a Rogan guest.",
@@ -1685,7 +1685,7 @@
       "claim_timestamp": "00:05:47",
       "investigative_direction": "Verify the existence and timestamps of the four Google Drive videos referenced in the 1102 statement; obtain authenticated copy of the statement.",
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -1704,7 +1704,7 @@
       "claim_timestamp": "00:04:56",
       "investigative_direction": "Obtain the September 18 phone-call recording or contemporaneous notes; compare with the September 10 Google Drive transmission timestamp.",
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -1723,7 +1723,7 @@
       "claim_timestamp": "00:12:35",
       "investigative_direction": "Obtain certified preliminary-hearing transcript; confirm whether SD cards were ever handed over directly and to whom.",
       "mentions_person_refs": [
-        "N-580"
+        "N-575"
       ]
     },
     {
@@ -1766,7 +1766,7 @@
       "@id": "C-3743",
       "ref": "C-3743",
       "label": "Andrew Kolvet is the 'Kulvette' of C-3294 (revises C-3294)",
-      "claim": "C-3294 spells the speaker 'Andrew Kulvette' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-267) removed the SD cards \"because I know people can be evil,\" and described witnessing theft of hats from the table after the incident.",
+      "claim": "C-3294 spells the speaker 'Andrew Kulvette' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-265) removed the SD cards \"because I know people can be evil,\" and described witnessing theft of hats from the table after the incident.",
       "anchored_artifacts": [
         "A-2287.1"
       ],
@@ -1783,7 +1783,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-22",
-        "N-267"
+        "N-265"
       ],
       "transcript_snippet": "He said, \"Because I know people can be evil.\""
     },
@@ -1852,7 +1852,7 @@
       "investigative_direction": "Identify the original source of the published Robinson photo; obtain metadata and EXIF data; compare with independently sourced photographs of Robinson.",
       "mentions_person_refs": [
         "N-40",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -1921,7 +1921,7 @@
       "transcript_snippet": "having the permanent creep Steven Crowder sneak his CEO into my home to join uh Steven's show from my children's playroom without my consent, without my knowledge.",
       "mentions_person_refs": [
         "N-3",
-        "N-265"
+        "N-263"
       ]
     },
     {
@@ -1946,7 +1946,7 @@
         "C-6475"
       ],
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-1"
       ]
     },
@@ -1967,7 +1967,7 @@
       "investigative_direction": "Obtain Farnsworth's self-recorded announcement and its metadata; sequence it against the camera-removal video.",
       "transcript_snippet": "We know he went up uh and he recorded himself. He announced that Charlie was dead. He went down and he began removing that camera in particular.",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-1"
       ]
     },
@@ -1989,7 +1989,7 @@
       "transcript_snippet": "I knew Terl. You'll recall this, right? I reached out to him. I've known him for years",
       "mentions_person_refs": [
         "N-3",
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2010,7 +2010,7 @@
       "transcript_snippet": "and he said he didn't want to share it because he didn't want Erika to see Charlie get hit in 4K.",
       "mentions_person_refs": [
         "N-3",
-        "N-267",
+        "N-265",
         "N-2",
         "N-1"
       ]
@@ -2037,7 +2037,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2063,7 +2063,7 @@
         "C-3293"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2086,7 +2086,7 @@
       "investigative_direction": "Obtain the 1102 and ask SBI which version of each video it received and how authenticity was assessed.",
       "transcript_snippet": "These videos as they were provided to SBI are a true and correct representation of what took place at UVU.",
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2108,7 +2108,7 @@
       "investigative_direction": "Identify the source of each of the four videos and the operator of any moving camera at the event.",
       "transcript_snippet": "Now, let's understand that first portion first. He says that there are four videos that he sent to them. He says that there are three cameras.",
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2131,7 +2131,7 @@
       "investigative_direction": "Confirm camera operator assignments with Visual Impulse crew records or with Golow directly.",
       "transcript_snippet": "Now, we have one to the front left side of Charlie that is being operated by Robert Golo.",
       "mentions_person_refs": [
-        "N-714"
+        "N-708"
       ]
     },
     {
@@ -2155,7 +2155,7 @@
       "transcript_snippet": "Right? That's the one that was being operated by uh Jordan Wilson. In other words, if I were trying to gather evidence very quickly within minutes of Charlie Kirk being shot, I'd go blue.",
       "mentions_person_refs": [
         "N-1",
-        "N-842"
+        "N-835"
       ]
     },
     {
@@ -2206,7 +2206,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2232,8 +2232,8 @@
         "C-3292"
       ],
       "mentions_person_refs": [
-        "N-267",
-        "N-580"
+        "N-265",
+        "N-575"
       ]
     },
     {
@@ -2258,7 +2258,7 @@
         "C-5079"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2359,7 +2359,7 @@
       "investigative_direction": "Obtain the 1102 and the four source files; compare durations and metadata with the 80704 clip.",
       "transcript_snippet": "One is 26 minutes, another one is 26 minutes, another is 26 minutes, and a fourth one is 23 minutes.",
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2384,7 +2384,7 @@
         "C-3295"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2430,7 +2430,7 @@
         "C-3295"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2456,7 +2456,7 @@
         "C-6475"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2482,7 +2482,7 @@
         "C-6480"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2504,7 +2504,7 @@
       "investigative_direction": "Review the video frame by frame to document where Farnsworth looks and what is in his sight line.",
       "transcript_snippet": "And he looks around. He wants to see who's looking at him.",
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2554,7 +2554,7 @@
         "C-3296"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2583,7 +2583,7 @@
         "C-6692"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2603,8 +2603,8 @@
       "investigative_direction": "Obtain the preliminary-hearing transcript for Nester's questions about editing of the Visual Impulse footage.",
       "transcript_snippet": "The questions that Kathy Netor asked thereafter um things that she asserted about they don't know whether or not that footage was edited.",
       "mentions_person_refs": [
-        "N-267",
-        "N-843"
+        "N-265",
+        "N-836"
       ]
     },
     {
@@ -2626,7 +2626,7 @@
       "transcript_snippet": "But I need that footage. I'm being sued by Brian Harpole.",
       "mentions_person_refs": [
         "N-3",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2648,7 +2648,7 @@
       "transcript_snippet": "why did Terl tell me that he spoke with Erika about that footage specifically?",
       "mentions_person_refs": [
         "N-3",
-        "N-267",
+        "N-265",
         "N-2"
       ]
     },
@@ -2673,7 +2673,7 @@
         "C-3297"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2720,8 +2720,8 @@
         "C-3297"
       ],
       "mentions_person_refs": [
-        "N-844",
-        "N-845",
+        "N-837",
+        "N-838",
         "N-69"
       ]
     },
@@ -2745,7 +2745,7 @@
       "investigative_direction": "Obtain Patel's travel records and the number of FBI personnel deployed to Utah in September 2025.",
       "transcript_snippet": "You don't have the FBI director fly out there with a with a plane load of FBI agents. It's not a federal case.",
       "mentions_person_refs": [
-        "N-844",
+        "N-837",
         "N-69"
       ]
     },
@@ -2835,11 +2835,11 @@
       "investigative_direction": "Identify the Rogan episode number and date and verify its guest list.",
       "transcript_snippet": "whether that's Shawn Ryan or more recently Joe Rogan who had a laugh alongside his guests Mark Normand, Shane Gillis and Ari Schaefer",
       "mentions_person_refs": [
-        "N-229",
-        "N-274",
-        "N-846",
-        "N-847",
-        "N-848",
+        "N-228",
+        "N-272",
+        "N-839",
+        "N-840",
+        "N-841",
         "N-40",
         "N-2"
       ]
@@ -2862,7 +2862,7 @@
       "transcript_snippet": "The more the more time goes on, the more I'm leaning towards Candace Owens.",
       "mentions_person_refs": [
         "N-3",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -2885,7 +2885,7 @@
         "C-7098"
       ],
       "mentions_person_refs": [
-        "N-274",
+        "N-272",
         "N-2"
       ]
     },
@@ -2968,7 +2968,7 @@
       "@id": "C-9198",
       "ref": "C-9198",
       "label": "Host Says the Independent Investigators May Have Made Errors but Not Knowingly",
-      "claim": "The host says that when she says we she means independent investigators including Nissi, Baron Coleman, Ian Carol and Coach Colin, and that they have likely made some errors but not knowingly, and wish to correct them.",
+      "claim": "The host says that when she says we she means independent investigators including Nissi, Baron Coleman, Ian Carroll and Coach Colin, and that they have likely made some errors but not knowingly, and wish to correct them.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10807"
@@ -2981,7 +2981,7 @@
       "transcript_snippet": "Sure, I'm sure we have made some errors, but we did not make them knowingly.",
       "mentions_person_refs": [
         "N-3",
-        "N-337",
+        "N-334",
         "N-131"
       ]
     },
@@ -3090,7 +3090,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-30",
-        "N-265"
+        "N-263"
       ]
     },
     {
@@ -3228,7 +3228,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-242"
+        "N-241"
       ]
     },
     {

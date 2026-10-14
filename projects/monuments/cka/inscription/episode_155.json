@@ -43,13 +43,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2406",
       "family_ref": "A-2406",
-      "bundle_name": "Bobby Saucelito Prediction Audio Bundle",
+      "bundle_name": "Bobby Sausalito Prediction Audio Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2406.1",
           "ref": "A-2406.1",
-          "description": "Audio clip of Bobby Saucelito delivering pre-release predictions about the Neff/Boring podcast, played on air",
+          "description": "Audio clip of Bobby Sausalito delivering pre-release predictions about the Neff/Boring podcast, played on air",
           "related_claims": [
             "C-3514",
             "C-3515"
@@ -368,7 +368,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-374"
+            "N-371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -386,7 +386,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-374"
+            "N-371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-580",
-      "ref": "N-580",
+      "@id": "N-575",
+      "ref": "N-575",
       "name": "David Hull",
       "type": "person",
       "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
@@ -968,8 +968,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-248",
+      "ref": "N-248",
       "name": "Mark Levin",
       "type": "person",
       "description": "Named by the host as demanding speech censorship.",
@@ -985,8 +985,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-371",
+      "ref": "N-371",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Former Daily Wire CEO ('Jeremy Boring' in the transcript); the host's account of his podcast, posts and lawsuits.",
@@ -1011,8 +1011,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-592",
-      "ref": "N-592",
+      "@id": "N-587",
+      "ref": "N-587",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Congressman the host says critics attacked and removed.",
@@ -1028,8 +1028,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-851",
-      "ref": "N-851",
+      "@id": "N-844",
+      "ref": "N-844",
       "name": "Casey Baugh",
       "type": "person",
       "description": "Alleged UVU donor and partial owner of the N88 plane.",
@@ -1046,8 +1046,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-878",
-      "ref": "N-878",
+      "@id": "N-871",
+      "ref": "N-871",
       "name": "Officer Goforth",
       "type": "person",
       "description": "Officer the host says was approached by the Dodge Challenger after midnight.",
@@ -1322,8 +1322,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-915",
-      "ref": "N-915",
+      "@id": "N-908",
+      "ref": "N-908",
       "name": "Agent Mortensson",
       "type": "person",
       "description": "First named by the host at 00:18:34 in episode 155. Investigator whose review of UVU security video the September 15 warrant describes.",
@@ -1339,8 +1339,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-916",
-      "ref": "N-916",
+      "@id": "N-909",
+      "ref": "N-909",
       "name": "Miss Noble",
       "type": "person",
       "description": "First named by the host at 00:07:25 in episode 155. Neighbor who with her husband reported a Dodge Challenger driven by a bald person with two others in the back seat.",
@@ -1357,9 +1357,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-914",
-      "ref": "N-914",
-      "name": "Bobby Saucelito",
+      "@id": "N-907",
+      "ref": "N-907",
+      "name": "Bobby Sausalito",
       "type": "person",
       "description": "First named by the host at 00:00:46 in episode 155. Comedian and political commentator whose pre-release predictions about the Neff and Boreing podcast the host plays.",
       "related_artifacts": [],
@@ -1376,8 +1376,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-917",
-      "ref": "N-917",
+      "@id": "N-910",
+      "ref": "N-910",
       "name": "Chelsea Baugh",
       "type": "person",
       "description": "First named by the host at 00:25:06 in episode 155. Named with Casey Baugh as a UVU donor and partial owner of the N88 plane.",
@@ -1444,7 +1444,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Obtain the full released episode and compare its content against Saucelito's pre-release predictions and the host's commentary.",
+      "investigative_direction": "Obtain the full released episode and compare its content against Sausalito's pre-release predictions and the host's commentary.",
       "mentions_person_refs": [
         "N-162"
       ]
@@ -1453,15 +1453,15 @@
       "@type": "Claim",
       "@id": "C-3514",
       "ref": "C-3514",
-      "label": "Saucelito Predicted Podcast Content Pre-Release",
-      "claim": "Bobby Saucelito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turk), and calls for lawsuits/jail time against the host.",
+      "label": "Sausalito Predicted Podcast Content Pre-Release",
+      "claim": "Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turk), and calls for lawsuits/jail time against the host.",
       "anchored_artifacts": [
         "A-2406.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:23–00:36:12",
-      "investigative_direction": "Compare Saucelito's specific predictions against the released episode segment-by-segment.",
+      "investigative_direction": "Compare Sausalito's specific predictions against the released episode segment-by-segment.",
       "mentions_person_refs": [
         "N-22",
         "N-3",
@@ -1474,8 +1474,8 @@
       "@type": "Claim",
       "@id": "C-3515",
       "ref": "C-3515",
-      "label": "Host Concurs Saucelito's Predictions Were \"Almost Spot On\"",
-      "claim": "The host explicitly concurs that Saucelito's pre-release predictions were \"almost spot on\" relative to the released promo clip.",
+      "label": "Host Concurs Sausalito's Predictions Were \"Almost Spot On\"",
+      "claim": "The host explicitly concurs that Sausalito's pre-release predictions were \"almost spot on\" relative to the released promo clip.",
       "anchored_artifacts": [
         "A-2406.1",
         "A-2407.1"
@@ -1483,7 +1483,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:12",
-      "investigative_direction": "Document the host's specific concurrence with each item of Saucelito's prediction list once the full episode is available."
+      "investigative_direction": "Document the host's specific concurrence with each item of Sausalito's prediction list once the full episode is available."
     },
     {
       "@type": "Claim",
@@ -1720,7 +1720,7 @@
       "claim_timestamp": "00:19:42–00:21:12",
       "investigative_direction": "Obtain the preliminary hearing transcript and audio/video to verify the specific omissions and re-orderings between the warrant narrative and Hull's testimony.",
       "mentions_person_refs": [
-        "N-580"
+        "N-575"
       ]
     },
     {
@@ -1792,7 +1792,7 @@
       "mentions_person_refs": [
         "N-22",
         "N-162",
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -1908,7 +1908,7 @@
       "transcript_snippet": "All we got from the pre preliminary hearing is that Maroon Boy parked went up to a Turning Point USA employee and asked her if this is where the event was going to be held.",
       "mentions_person_refs": [
         "N-3",
-        "N-580"
+        "N-575"
       ]
     },
     {
@@ -1932,7 +1932,7 @@
       "transcript_snippet": "Yesterday, we wrongly showed you on the timeline um that this was during a time where he then went and visited a wooded area off campus.",
       "mentions_person_refs": [
         "N-3",
-        "N-580"
+        "N-575"
       ]
     },
     {
@@ -1980,7 +1980,7 @@
       "investigative_direction": "Check the hearing transcript for any testimony on tracking the Challenger after 9:33 a.m. and for any off-campus license-plate-reader hits.",
       "transcript_snippet": "Agent Hull doesn't even so much as try to suggest that they tracked Maroon Boy Dodge Challenger off campus.",
       "mentions_person_refs": [
-        "N-580",
+        "N-575",
         "N-40",
         "N-3"
       ]
@@ -2022,7 +2022,7 @@
       "investigative_direction": "Request Goforth's bodycam and dispatch records for the after-midnight contact and confirm whether any recording exists.",
       "transcript_snippet": "They've never indicated that he had on body cam footage.",
       "mentions_person_refs": [
-        "N-878",
+        "N-871",
         "N-3"
       ]
     },
@@ -2045,7 +2045,7 @@
       "investigative_direction": "Compare Hull's narration line by line with the released footage and note each point where the spoken description and the video disagree.",
       "transcript_snippet": "at times we went back and realized those two things were in conflict with one another",
       "mentions_person_refs": [
-        "N-580",
+        "N-575",
         "N-3"
       ]
     },
@@ -2319,7 +2319,7 @@
         "C-3530"
       ],
       "mentions_person_refs": [
-        "N-916",
+        "N-909",
         "N-3"
       ]
     },
@@ -2386,7 +2386,7 @@
       "transcript_snippet": "In the video, Robinson is seen wearing a ball cap, a red t-shirt, light colored shorts, and Converse style tennis shoes.",
       "mentions_person_refs": [
         "N-40",
-        "N-915",
+        "N-908",
         "N-3"
       ]
     },
@@ -2412,7 +2412,7 @@
         "C-10436"
       ],
       "mentions_person_refs": [
-        "N-580",
+        "N-575",
         "N-40",
         "N-3"
       ]
@@ -2439,7 +2439,7 @@
         "C-10438"
       ],
       "mentions_person_refs": [
-        "N-580",
+        "N-575",
         "N-40",
         "N-3"
       ]
@@ -2486,7 +2486,7 @@
       "investigative_direction": "Compare the Challenger-at-Noble-house time in each of the three warrants and the surveillance footage timestamp.",
       "transcript_snippet": "That time gets adjusted three times across three different warrants.",
       "mentions_person_refs": [
-        "N-916",
+        "N-909",
         "N-3"
       ]
     },
@@ -2633,8 +2633,8 @@
       "investigative_direction": "Verify the donation amount, date and recipient through UVU foundation announcements and gift agreements.",
       "transcript_snippet": "Chelsea and Casey Ba B A U G H donated $5 million to UVU.",
       "mentions_person_refs": [
-        "N-851",
-        "N-917",
+        "N-844",
+        "N-910",
         "N-3"
       ]
     },
@@ -2661,8 +2661,8 @@
         "C-9402"
       ],
       "mentions_person_refs": [
-        "N-851",
-        "N-917",
+        "N-844",
+        "N-910",
         "N-3"
       ]
     },
@@ -2707,7 +2707,7 @@
       "investigative_direction": "Tabulate Boreing's show topics and guests against the host's show dates for a quantitative comparison.",
       "transcript_snippet": "He will then host someone to talk about the topic I'm covering and u take a position on it that is opposite of mine and call me a demon.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3",
         "N-22"
       ]
@@ -2734,7 +2734,7 @@
         "C-3519"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -2742,8 +2742,8 @@
       "@type": "Claim",
       "@id": "C-11900",
       "ref": "C-11900",
-      "label": "Saucelito Says Charlie Called Neff His Secret Weapon",
-      "claim": "In the clip the host plays, Bobby Saucelito says there is a reason Charlie called Blake Neff his secret weapon, joking that a weapon is supposed to damage the other person and not yourself.",
+      "label": "Sausalito Says Charlie Called Neff His Secret Weapon",
+      "claim": "In the clip the host plays, Bobby Sausalito says there is a reason Charlie called Blake Neff his secret weapon, joking that a weapon is supposed to damage the other person and not yourself.",
       "anchored_artifacts": [
         "A-2406.1"
       ],
@@ -2755,7 +2755,7 @@
       "investigative_direction": "Find any Kirk statement in which he called Neff a secret weapon, with date and context.",
       "transcript_snippet": "So, there's a reason Charlie called him his secret weapon.",
       "mentions_person_refs": [
-        "N-914",
+        "N-907",
         "N-1",
         "N-162"
       ]
@@ -2764,8 +2764,8 @@
       "@type": "Claim",
       "@id": "C-11901",
       "ref": "C-11901",
-      "label": "Saucelito Predicts Boreing Is Securing the Bag From Turning Point",
-      "claim": "In the clip the host plays, Saucelito predicts that Boreing wants to continue getting paid by Turning Point, so he needs to run cover for everything they say and rebrand their speakers.",
+      "label": "Sausalito Predicts Boreing Is Securing the Bag From Turning Point",
+      "claim": "In the clip the host plays, Sausalito predicts that Boreing wants to continue getting paid by Turning Point, so he needs to run cover for everything they say and rebrand their speakers.",
       "anchored_artifacts": [
         "A-2406.1"
       ],
@@ -2779,16 +2779,16 @@
       "investigative_direction": "Seek any contract, sponsorship or payment record between Boreing's company and Turning Point USA.",
       "transcript_snippet": "Germs wants to get paid by Turning Point.",
       "mentions_person_refs": [
-        "N-914",
-        "N-374"
+        "N-907",
+        "N-371"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-11902",
       "ref": "C-11902",
-      "label": "Host Says Saucelito Got Only the Motive Wrong, Saying Boreing Is Not Doing It for Money",
-      "claim": "The host says that the only thing Saucelito got wrong is that Boreing is not doing it for money, and that Boreing is a deranged man stalking her instead.",
+      "label": "Host Says Sausalito Got Only the Motive Wrong, Saying Boreing Is Not Doing It for Money",
+      "claim": "The host says that the only thing Sausalito got wrong is that Boreing is not doing it for money, and that Boreing is a deranged man stalking her instead.",
       "anchored_artifacts": [
         "A-2406.1"
       ],
@@ -2805,8 +2805,8 @@
         "C-11901"
       ],
       "mentions_person_refs": [
-        "N-914",
-        "N-374",
+        "N-907",
+        "N-371",
         "N-3"
       ]
     },
@@ -2826,7 +2826,7 @@
       "transcript_snippet": "Charlie never liked him. He never liked Charlie.",
       "mentions_person_refs": [
         "N-1",
-        "N-374",
+        "N-371",
         "N-2",
         "N-3"
       ]
@@ -2848,7 +2848,7 @@
       "investigative_direction": "Reconcile with the host's other accounts of how she left the Daily Wire and the termination or separation paperwork.",
       "transcript_snippet": "I am the employee that he fired, but he cannot let go.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -2912,7 +2912,7 @@
       "investigative_direction": "Identify the Daily Wire v. Owens case numbers and filings on the court docket.",
       "transcript_snippet": "But the calls to sue me, like he sued me privately for years throughout court.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -2939,7 +2939,7 @@
         "N-2",
         "N-194",
         "N-14",
-        "N-374"
+        "N-371"
       ]
     },
     {
@@ -3008,7 +3008,7 @@
       "investigative_direction": "Find Levin's and the second named person's statements calling for state action or lawsuits against the host.",
       "transcript_snippet": "Uh speech censorship that's being platformed, demanded by people like Mark Levin, Andrew Type, people that are asking for the state to get involved um in lawsuits.",
       "mentions_person_refs": [
-        "N-249",
+        "N-248",
         "N-3"
       ]
     },
@@ -3029,7 +3029,7 @@
       "investigative_direction": "Check Massie's primary result and outside spending against him as documented in FEC filings.",
       "transcript_snippet": "You attack Thomas Massie. Got him out of there.",
       "mentions_person_refs": [
-        "N-592",
+        "N-587",
         "N-3"
       ]
     },
@@ -3090,7 +3090,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-374"
+        "N-371"
       ]
     }
   ],

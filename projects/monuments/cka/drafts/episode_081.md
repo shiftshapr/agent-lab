@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11295–C-11374
   - New Nodes Introduced: N-10547, N-10550, N-10551, N-10552
-  - Reused Nodes Appearing: N-10548, N-10549, N-11, N-15, N-17, N-46, N-55, N-69, N-167, N-190, N-194, N-221, N-266, N-388, N-562, N-603, N-10056, N-10082, N-10093, N-10148, N-10163, N-10193, N-10195, N-10202, N-10206, N-10253, N-10340, N-10355, N-10403, N-10539, N-10546, N-10554, N-10560, N-10956, N-11114
+  - Reused Nodes Appearing: N-10548, N-10549, N-11, N-15, N-17, N-46, N-55, N-69, N-167, N-190, N-194, N-221, N-264, N-384, N-557, N-598, N-10056, N-10082, N-10093, N-10148, N-10163, N-10193, N-10195, N-10202, N-10206, N-10253, N-10340, N-10355, N-10403, N-10539, N-10546, N-10554, N-10560, N-10956, N-11114
   - (see registers)
 
 # Episode 81 Analysis
@@ -492,7 +492,7 @@ Transcribed Elizabeth McCoy; named among reported passengers.
 
 ---
 
-**N-266** Duncan Aviation
+**N-264** Duncan Aviation
 
 FBO the host calls unusual and military-leaning.
 
@@ -500,7 +500,7 @@ FBO the host calls unusual and military-leaning.
 
 ---
 
-**N-274** Joe Rogan
+**N-272** Joe Rogan
 
 Podcast host whose segment on Erika is played.
 
@@ -508,7 +508,7 @@ Podcast host whose segment on Erika is played.
 
 ---
 
-**N-388** Dan Bongino
+**N-384** Dan Bongino
 
 Named in a viewer comment as trying to link the host and Kent.
 
@@ -516,7 +516,7 @@ Named in a viewer comment as trying to link the host and Kent.
 
 ---
 
-**N-504** Marina (TPUSA CMO)
+**N-499** Marina (TPUSA CMO)
 
 TPUSA chief marketing officer (transcribed Marina Minnez, Mina's); handled the statement drafting.
 
@@ -524,7 +524,7 @@ TPUSA chief marketing officer (transcribed Marina Minnez, Mina's); handled the s
 
 ---
 
-**N-562** Aubrey Lech
+**N-557** Aubrey Lech
 
 Staffer who drafted the death statement and was later fired (host says over an Uber driver conversation).
 
@@ -532,7 +532,7 @@ Staffer who drafted the death statement and was later fired (host says over an U
 
 ---
 
-**N-603** Bret Weinstein
+**N-598** Bret Weinstein
 
 The host says he released messages about Iran.
 
@@ -878,7 +878,7 @@ Claim Timestamp: 00:24:14
 Claim: At approximately 2:05 p.m. Utah time on Sept 10, Marina Medvin called Aubrey and asked her to draft the staff death statement because Andrew was on a plane.
 
 Anchored Artifacts: A-1881.1
-Mentions: N-504
+Mentions: N-499
 
 Related Nodes: N-10547, N-10552
 
@@ -893,7 +893,7 @@ Claim Timestamp: 00:25:31
 Claim: Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Medvin reportedly overheard.
 
 Anchored Artifacts: A-1881.1 (contextual); primary artifact not displayed.
-Mentions: N-504
+Mentions: N-499
 
 Related Nodes: N-10552
 
@@ -955,7 +955,7 @@ Claim Timestamp: 00:40:59
 Claim: On his podcast, Joe Rogan discussed Erika Kirk's appearance in what he characterized as a CIA documentary, her pageant background, and speculation she was "Charlie's handler."
 
 Anchored Artifacts: A-1883.1
-Mentions: N-2, N-274
+Mentions: N-2, N-272
 
 Related Nodes:
 
@@ -970,7 +970,7 @@ Claim Timestamp: 00:43:46
 Claim: Mark Levin tweeted asking whether Erika's video was "some AI production" and, if not, called it "a total disgrace."
 
 Anchored Artifacts: A-1884.1
-Mentions: N-249
+Mentions: N-248
 
 Related Nodes:
 
@@ -985,7 +985,7 @@ Claim Timestamp: 00:43:46
 Claim: Eton Fishberger tweeted that Joe Rogan's segment was "some sick stuff" given what Erika "hasn't been through already."
 
 Anchored Artifacts: A-1884.2
-Mentions: N-274
+Mentions: N-272
 
 Related Nodes:
 
@@ -1388,7 +1388,7 @@ Claim: The host says Bret Weinstein has released his messages about Iran.
 Transcript Snippet: Bret Weinstein has released his messages about Iran.
 
 Anchored Artifacts: 
-Mentions: N-603
+Mentions: N-598
 Related Nodes: N-10539
 Tags: relevance:context
 Investigative Direction: Locate Weinstein's release of messages and check what they say about Charlie Kirk and Iran.
@@ -1466,7 +1466,7 @@ Claim Timestamp: 00:14:26
 
 Claim: The host says that on September 5, while Charlie was away in Asia, Rabbi Pesach Wolicki had a call with Justin Streiff and Andrew Kolvet.
 
-Transcript Snippet: On September 5th, while Charlie was away in Asia, that Rabbi Wolicki um and with Rabbi Pesach Wolicki, who was the one who Charlie to be out, he had a a call with Justin Streif and Andrew Kolvet.
+Transcript Snippet: On September 5th, while Charlie was away in Asia, that Rabbi Wolicki um and with Rabbi Pesach Wolicki, who was the one who Charlie to be out, he had a a call with Justin Streiff and Andrew Kolvet.
 
 Anchored Artifacts: 
 Mentions: N-167, N-15, N-14, N-1
@@ -1578,7 +1578,7 @@ Claim Timestamp: 00:17:28
 
 Claim: The host says Justin Streiff told her he booked the planes, that Andrew's wife was supposed to be on the plane but he did not know if she got on it, and that he would double-check.
 
-Transcript Snippet: Justin Stripe told me that he he booked the planes. He said, "Yeah, I booked the planes."
+Transcript Snippet: Justin Streiff told me that he he booked the planes. He said, "Yeah, I booked the planes."
 
 Anchored Artifacts: 
 Mentions: N-15, N-14, N-3
@@ -1723,10 +1723,10 @@ Claim Timestamp: 00:21:46
 
 Claim: The host says the PR group chat consisted of Justin Streiff, Andrew Kolvet, Marina (the chief marketing officer) and Aubrey, who she says was later fired over an Uber ride that Marina overheard.
 
-Transcript Snippet: In this group we have Justin Strieff, we have Andrew Kolvet, we have Marina Minnez, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears.
+Transcript Snippet: In this group we have Justin Streiff, we have Andrew Kolvet, we have Marina Minnez, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears.
 
 Anchored Artifacts: A-1881.1
-Mentions: N-15, N-14, N-504, N-562
+Mentions: N-15, N-14, N-499, N-557
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Verify the member list from the chat export.
@@ -1822,7 +1822,7 @@ Claim: The host says Marina told Aubrey that Andrew was on a plane and that she 
 Transcript Snippet: because Andrew's currently on a plane and I don't have it within me to draft the statement.
 
 Anchored Artifacts: A-1881.1
-Mentions: N-504, N-562, N-14
+Mentions: N-499, N-557, N-14
 Related Nodes: N-10552, N-10547
 Tags: relevance:core
 Investigative Direction: Ask Aubrey or Marina for the call content; the wording is the host's paraphrase.
@@ -1838,7 +1838,7 @@ Claim: The host says Aubrey, a 26-year-old, was made responsible for drafting th
 Transcript Snippet: Essentially, Aubrey, the what 26-year-old, is now responsible for the unbelievably emotionally heavy statement
 
 Anchored Artifacts: A-1881.1
-Mentions: N-562
+Mentions: N-557
 Related Nodes: N-10552
 Tags: relevance:context
 Investigative Direction: Confirm Aubrey's age and role with her or with employment records.
@@ -1854,7 +1854,7 @@ Claim: The host says TPUSA made Aubrey work insane hours through weekends and th
 Transcript Snippet: make her work insane hours and then fire her. Through weekends, everything, and then fire her and her fiance because they had a conversation with an Uber driver. And she wasn't loyal to Erika.
 
 Anchored Artifacts: 
-Mentions: N-562, N-2
+Mentions: N-557, N-2
 Related Nodes: N-10552
 Supports: C-9967
 Tags: relevance:core
@@ -1871,7 +1871,7 @@ Claim: The host says TPUSA fired Aubrey and her fiance without even giving them 
 Transcript Snippet: only to then fire them and not even give them a bonus after they took in that much money.
 
 Anchored Artifacts: 
-Mentions: N-562
+Mentions: N-557
 Related Nodes: N-10552
 Tags: relevance:context
 Investigative Direction: Request payroll or severance records through Aubrey and compare with TPUSA's reported post-assassination revenue.
@@ -1903,7 +1903,7 @@ Claim: The host says that at 3:49 p.m. Utah time Aubrey asked her unavailable bo
 Transcript Snippet: At 3:49 Utah time, she's going to ask her boss, who's been unavailable, "Should I confirm or deny?"
 
 Anchored Artifacts: A-3127.1
-Mentions: N-562, N-14
+Mentions: N-557, N-14
 Related Nodes: N-10547, N-10552
 Tags: relevance:core
 Investigative Direction: Check the full chat export for the 3:49 message and its recipient.
@@ -1997,7 +1997,7 @@ Claim Timestamp: 00:33:30
 
 Claim: The host says that in the second part of the chat Justin Streiff wrote that they may need to wait until AK is on the ground, followed by Kolvet saying his internet just came back on.
 
-Transcript Snippet: Justin Strife says, "You you may need to wait until AK is on the ground."
+Transcript Snippet: Justin Streiff says, "You you may need to wait until AK is on the ground."
 
 Anchored Artifacts: A-3127.1
 Mentions: N-15, N-14
@@ -2033,7 +2033,7 @@ Transcript Snippet: Duncan Aviation is not where you fly into. Usually you you f
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-266, N-10549
+Related Nodes: N-264, N-10549
 Tags: relevance:context
 Investigative Direction: Check Duncan Aviation's Provo services and who arrived there on September 10.
 
@@ -2080,7 +2080,7 @@ Claim: The host says Aubrey had to write all of this, work seven-hour days witho
 Transcript Snippet: then work like 7-hour days, not sleep, only to then not get a raise and to be fired because Marina Mina's spoke to an Uber driver.
 
 Anchored Artifacts: 
-Mentions: N-562, N-504
+Mentions: N-557, N-499
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Obtain Aubrey's pay and schedule records and the account of what Marina said to the driver.
@@ -2096,7 +2096,7 @@ Claim: The host says Aubrey said she never vented to the Uber driver, whereas th
 Transcript Snippet: and she said she never did vent to the Uber driver. Uber driver says they vent.
 
 Anchored Artifacts: 
-Mentions: N-562
+Mentions: N-557
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Locate the Uber driver and any statement from him; ask Aubrey for her account.
@@ -2112,7 +2112,7 @@ Claim: In the played Joe Rogan clip, one speaker says Erika Kirk was on a realit
 Transcript Snippet: She seems she's having a good time. Well, she was on a reality show.
 
 Anchored Artifacts: A-1883.1
-Mentions: N-2, N-274
+Mentions: N-2, N-272
 Related Nodes: 
 Supports: C-10116
 Tags: relevance:context
@@ -2129,7 +2129,7 @@ Claim: In the Rogan clip, a speaker says there is a video of Erika making demon 
 Transcript Snippet: There's a video of her making demon eyes, and every time she makes the eyes, the music
 
 Anchored Artifacts: A-1883.1
-Mentions: N-2, N-274
+Mentions: N-2, N-272
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Find the compilation video and its source; this is recorded as said, not as a verified fact.
@@ -2145,7 +2145,7 @@ Claim: The host says that although the CIA denied producing the documentary, the
 Transcript Snippet: Okay, yes, but the head of the CIA is in it. Okay, you got to get approval from the CIA to be in a CIA documentary.
 
 Anchored Artifacts: A-1883.1
-Mentions: N-2, N-274
+Mentions: N-2, N-272
 Related Nodes: N-10082, N-10403
 Tags: relevance:core
 Investigative Direction: Identify the documentary, its producer, who appears in it and any CIA statement on its production.
@@ -2275,7 +2275,7 @@ Claim: A viewer comment read by the host says it is sad to see Dan Bongino becom
 Transcript Snippet: It is sad to see Bongino become a little man trying to link Candace and Joe.
 
 Anchored Artifacts: 
-Mentions: N-388, N-3, N-213
+Mentions: N-384, N-3, N-213
 Related Nodes: N-10551
 Tags: relevance:context
 Investigative Direction: Find Bongino's on-air or posted remarks tying the host to Kent.

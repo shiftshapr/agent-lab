@@ -34,7 +34,7 @@ e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
 
 This episode advances the host's investigation into the Charlie Kirk shooting by introducing a vetted anonymous source who provides alternative narrative claims about Tyler Robinson's conduct around the time of his surrender. The host presents video artifacts including 2022 police bodycam footage of Tyler Robinson (used to challenge the authenticity of the "vehicle" language in the federal text messages), Brooksby's press-conference statements (used to identify an internal contradiction regarding Robinson's purported suicidality), and Lance's Instagram posts (used to substantiate the romantic relationship).
 
-The episode also introduces a new investigative thread centered on Utah politician Phil Lyman. Citing Phil Lyman's on-camera statements to Kaye McAney, Alex Jones, a local Utah outlet, and his own Instagram video, the host documents his repeated proximity to the scene and engages a new source – a 20-year-old UVU student ("Nick") who worked on Lyman's gubernatorial campaign – to recount an in-person visit by Lyman to Nick's home and a subsequent refusal to share imagery.
+The episode also introduces a new investigative thread centered on Utah politician Phil Lyman. Citing Phil Lyman's on-camera statements to Kayleigh McEnany, Alex Jones, a local Utah outlet, and his own Instagram video, the host documents his repeated proximity to the scene and engages a new source – a 20-year-old UVU student ("Nick") who worked on Lyman's gubernatorial campaign – to recount an in-person visit by Lyman to Nick's home and a subsequent refusal to share imagery.
 
 A separate artifact family is opened around former Washington County Detective Mike Mitchell, whose identity Brooksby declined to disclose at press conference but who was located via a single retirement-celebration post from the Washington County Sheriff's Office. The host flags this as an investigative anomaly given the official's 24+ year career.
 
@@ -146,9 +146,9 @@ Confidence Level: High
 
 *Related: C-1307, C-1314, N-61, N-10144*
 
-### A-1177 Phil Lyman Kaye McAney Interview Bundle
+### A-1177 Phil Lyman Kayleigh McEnany Interview Bundle
 
-**A-1177.1** Audio/video clip of Phil Lyman speaking to Kaye McAney about his aunt's driveway being in the TMZ footage, his gray CRV being parked there ~10 minutes before the shooter walked by, and his return to the house with a friend afterward; describes family ownership of approximately twelve homes on the street.
+**A-1177.1** Audio/video clip of Phil Lyman speaking to Kayleigh McEnany about his aunt's driveway being in the TMZ footage, his gray CRV being parked there ~10 minutes before the shooter walked by, and his return to the house with a friend afterward; describes family ownership of approximately twelve homes on the street.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -335,7 +335,7 @@ Investigative Pressure: Low
 
 *Related: A-1177.1, C-1307, N-61*
 
-**N-131** Ian Carol
+**N-131** Ian Carroll
 
 Independent investigator conducting parallel Utah-based investigation; reportedly offered a tour by Phil Lyman.
 
@@ -504,7 +504,7 @@ Investigative Direction: Seek clarification from Brooksby or from the Washington
 **C-1307** Phil Lyman's vehicle was in the driveway of the TMZ footage location 10–19 minutes before the shooter walked by
 
 Claim Timestamp: 00:28:00–00:29:30
-Claim: In his Kaye McAney interview, Phil Lyman stated that his aunt's driveway (visible in the TMZ footage) is where he parked his gray CRV approximately 10 minutes before the shooter walked past; Lyman separately described the driveway as being 19 minutes away from the shooter's walk-by.
+Claim: In his Kayleigh McEnany interview, Phil Lyman stated that his aunt's driveway (visible in the TMZ footage) is where he parked his gray CRV approximately 10 minutes before the shooter walked past; Lyman separately described the driveway as being 19 minutes away from the shooter's walk-by.
 Anchored Artifacts: A-1176.1, A-1177.1
 Mentions: N-61, N-130
 Related Nodes: N-10144
@@ -513,7 +513,7 @@ Investigative Direction: Timestamp the TMZ footage independently and reconcile w
 **C-1308** Phil Lyman's family owns approximately twelve homes on the relevant street
 
 Claim Timestamp: 00:29:30–00:30:00
-Claim: In the Kaye McAney interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; host counts approximately twelve homes as owned by the Lyman family in the area.
+Claim: In the Kayleigh McEnany interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; host counts approximately twelve homes as owned by the Lyman family in the area.
 Anchored Artifacts: A-1177.1
 Mentions: N-61, N-130
 Related Nodes: N-10144
@@ -574,14 +574,14 @@ Related Nodes: N-10144
 Investigative Direction: Obtain any corroborating records (Ring/doorbell footage, phone logs, text screenshots) and a contemporaneous written statement from Nick.
 *Optional Flag: Source testimony only; not visually or auditorily corroborated in-episode.*
 
-**C-1315** Phil Lyman offered independent investigator Ian Carol a tour of the area
+**C-1315** Phil Lyman offered independent investigator Ian Carroll a tour of the area
 
 Claim Timestamp: 00:38:30–00:39:00
-Claim: Per Nick's account, Phil Lyman offered a tour of the area to Ian Carol, who was conducting a separate on-the-ground investigation; Nick found this "weird" given that Lyman lives four hours away.
+Claim: Per Nick's account, Phil Lyman offered a tour of the area to Ian Carroll, who was conducting a separate on-the-ground investigation; Nick found this "weird" given that Lyman lives four hours away.
 Anchored Artifacts: (Host-relayed source testimony; no artifact presented in this episode.)
 Mentions: N-61, N-131
 Related Nodes: N-10144
-Investigative Direction: Confirm via Ian Carol's own public statements and any travel/timeline records.
+Investigative Direction: Confirm via Ian Carroll's own public statements and any travel/timeline records.
 *Optional Flag: Source testimony only; not visually or auditorily corroborated in-episode.*
 
 **C-1316** Nick supplied the black-suit food-court photo to host
@@ -660,7 +660,7 @@ Confidence: high
 
 - **Transcript ambiguity – "Shamway"**: A person on the same street is transcribed as "Shamway." Name uncertain; preserved as transcribed.
 
-- **Transcript ambiguity – "Ian Carol"**: Likely refers to independent journalist Ian Caroll. Name preserved as transcribed; flagged as a possible transcription variant.
+- **Transcript ambiguity – "Ian Carroll"**: Likely refers to independent journalist Ian Carrolll. Name preserved as transcribed; flagged as a possible transcription variant.
 
 - **Transcript ambiguity – "Tiffany Peterson Barker"**: Witness referenced as such in the transcript; preserved exactly.
 
@@ -684,6 +684,6 @@ Confidence: high
 - [x] People nodes use the global people ledger (new IDs N-126–N-131).
 - [x] Non-person investigation targets use the 1000 series (new IDs N-10141–N-10145).
 - [x] No speculative claims inscribed as evidence-backed claims (host assertions from anonymous sources excluded; flagged separately).
-- [x] Names preserved exactly or uncertainty noted (L0y Center, Kaye Mcaney, Shamway, Ian Carol flagged).
+- [x] Names preserved exactly or uncertainty noted (L0y Center, Kaye Mcaney, Shamway, Ian Carroll flagged).
 - [x] Formatting consistent.
 - [x] Cross-referencing present throughout.

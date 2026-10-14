@@ -31,7 +31,7 @@
             "C-3681"
           ],
           "related_nodes": [
-            "N-287",
+            "N-285",
             "N-10885",
             "N-10888",
             "N-10815",
@@ -68,7 +68,7 @@
             "N-10013",
             "N-10000",
             "N-18",
-            "N-308",
+            "N-305",
             "N-3"
           ],
           "tags": [],
@@ -97,8 +97,8 @@
           ],
           "related_nodes": [
             "N-10889",
-            "N-361",
             "N-358",
+            "N-355",
             "N-10886",
             "N-14",
             "N-10000"
@@ -129,10 +129,10 @@
           "related_nodes": [
             "N-10891",
             "N-10882",
+            "N-356",
             "N-359",
-            "N-362",
-            "N-363",
-            "N-364",
+            "N-360",
+            "N-361",
             "N-2",
             "N-10887"
           ],
@@ -187,8 +187,8 @@
             "C-3692"
           ],
           "related_nodes": [
-            "N-359",
-            "N-360",
+            "N-356",
+            "N-357",
             "N-2"
           ],
           "tags": [],
@@ -269,7 +269,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-358",
+            "N-355",
             "N-10880",
             "N-10881",
             "N-103"
@@ -298,7 +298,7 @@
             "C-10609"
           ],
           "related_nodes": [
-            "N-359",
+            "N-356",
             "N-2",
             "N-69",
             "N-11266"
@@ -405,7 +405,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-358",
+        "N-355",
         "N-10881"
       ]
     },
@@ -431,7 +431,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10880",
-        "N-358"
+        "N-355"
       ]
     },
     {
@@ -454,7 +454,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-359",
+        "N-356",
         "N-10887"
       ]
     },
@@ -524,7 +524,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-287",
+        "N-285",
         "N-10888"
       ]
     },
@@ -547,7 +547,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-358"
+        "N-355"
       ]
     },
     {
@@ -591,8 +591,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-287",
-        "N-604"
+        "N-285",
+        "N-599"
       ]
     },
     {
@@ -616,7 +616,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-361"
+        "N-358"
       ]
     },
     {
@@ -689,8 +689,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-287",
-      "ref": "N-287",
+      "@id": "N-285",
+      "ref": "N-285",
       "name": "Jennica Pounds",
       "type": "person",
       "description": "X personality \"data republican\"; host says she was a DoD special government employee who posted an anti-Candace thread without disclosure, then resigned.",
@@ -713,8 +713,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-358",
-      "ref": "N-358",
+      "@id": "N-355",
+      "ref": "N-355",
       "name": "Matt Servius",
       "type": "person",
       "description": "Latvian operator promoting Elephant Clipping under Monster Lab / Clippet trade names; LinkedIn framed as running not owning.",
@@ -739,8 +739,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-359",
-      "ref": "N-359",
+      "@id": "N-356",
+      "ref": "N-356",
       "name": "Blake Wynn",
       "type": "person",
       "description": "Enclave and Key CEO; Steve Wynn's nephew; framed as Erika Kirk close friend supplying/adjacent to early Erika clip drives and public appearances.",
@@ -761,13 +761,13 @@
       "related_nodes": [
         "N-10882",
         "N-2",
-        "N-360"
+        "N-357"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-360",
-      "ref": "N-360",
+      "@id": "N-357",
+      "ref": "N-357",
       "name": "Steve Wynn",
       "type": "person",
       "description": "Billionaire conservative mega-donor; uncle of Blake Wynn; non-response to Atlantic comment request noted.",
@@ -782,14 +782,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-359",
+        "N-356",
         "N-10887"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-361",
-      "ref": "N-361",
+      "@id": "N-358",
+      "ref": "N-358",
       "name": "Ali Breland",
       "type": "person",
       "description": "Atlantic journalist credited for the elephant-clipping investigation the host walks through.",
@@ -810,8 +810,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-362",
-      "ref": "N-362",
+      "@id": "N-359",
+      "ref": "N-359",
       "name": "Jules Katz",
       "type": "person",
       "description": "Enclave and Key chief of staff; Atlantic says company-email uploads to campaign Google Drives.",
@@ -832,8 +832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-360",
+      "ref": "N-360",
       "name": "Benjamin Goodman",
       "type": "person",
       "description": "Enclave VP of operations; Atlantic says he reposted drive files after deletions using a non-Enclave email.",
@@ -855,8 +855,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-361",
+      "ref": "N-361",
       "name": "Jack O'Hara",
       "type": "person",
       "description": "Head of media production at an Enclave subsidiary; Atlantic says company and personal emails appear on drive uploads.",
@@ -877,8 +877,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-305",
-      "ref": "N-305",
+      "@id": "N-302",
+      "ref": "N-302",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Host \"Miriam Medson\" ASR jab about purchasing the presidency for $300M; Vegas/Adelson thread.",
@@ -897,8 +897,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-365",
-      "ref": "N-365",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Robert F. Kennedy Jr.",
       "type": "person",
       "description": "Named among Elephant Clipping banned subjects (with Megyn Kelly, Nick Fuentes, Tucker Carlson, Riley Gaines); host also jokes big-pharma wealth may explain the RFK ban.",
@@ -919,8 +919,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-308",
-      "ref": "N-308",
+      "@id": "N-305",
+      "ref": "N-305",
       "name": "Dean Withers",
       "type": "person",
       "description": "Listed with Candace as a non-approved figure in the August TPUSA clipping instructions.",
@@ -981,7 +981,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10891",
-        "N-359"
+        "N-356"
       ]
     },
     {
@@ -1043,7 +1043,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-359"
+        "N-356"
       ]
     },
     {
@@ -1084,7 +1084,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10000",
-        "N-359"
+        "N-356"
       ]
     },
     {
@@ -1195,7 +1195,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-359"
+        "N-356"
       ]
     },
     {
@@ -1248,7 +1248,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-359"
+        "N-356"
       ]
     },
     {
@@ -1365,8 +1365,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-265",
-      "ref": "N-265",
+      "@id": "N-263",
+      "ref": "N-263",
       "name": "Steven Crowder",
       "type": "person",
       "description": "Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives; producer sneak-in for Wilson debate recalled.",
@@ -1385,8 +1385,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -1405,8 +1405,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-283",
-      "ref": "N-283",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Host joke about booking Theo Von and Tim Dillon when super pregnant.",
@@ -1420,8 +1420,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-336",
-      "ref": "N-336",
+      "@id": "N-333",
+      "ref": "N-333",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Extra-money sub-campaigns and Instagram photos with Kirks/Wynn noted.",
@@ -1435,13 +1435,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-359"
+        "N-356"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-565",
-      "ref": "N-565",
+      "@id": "N-560",
+      "ref": "N-560",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Traveling with Candace in Spain when coordinated smear wave hit.",
@@ -1460,8 +1460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-604",
-      "ref": "N-604",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Pounds resignation praises Hegseth leadership; DoW framing.",
@@ -1599,7 +1599,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-287"
+        "N-285"
       ]
     },
     {
@@ -1619,7 +1619,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-272",
+        "N-270",
         "N-7"
       ]
     },
@@ -1679,8 +1679,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-885",
-      "ref": "N-885",
+      "@id": "N-878",
+      "ref": "N-878",
       "name": "Dana White",
       "type": "person",
       "description": "First named by the host at 00:30:50 in episode 161 (reading the Atlantic article). UFC CEO listed among those Blake Wynn says sat near Trump at Mar-a-Lago on election night 2024.",
@@ -1696,8 +1696,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-886",
-      "ref": "N-886",
+      "@id": "N-879",
+      "ref": "N-879",
       "name": "Steve Witkoff",
       "type": "person",
       "description": "First named by the host at 00:30:50 in episode 161 (transcribed \"Steve Witco\"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.",
@@ -1768,8 +1768,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-756",
-      "ref": "N-756",
+      "@id": "N-750",
+      "ref": "N-750",
       "name": "Howard Hughes",
       "type": "person",
       "description": "Las Vegas billionaire whose company the host says was chopped up.",
@@ -1854,7 +1854,7 @@
       "claim_timestamp": "00:01:42",
       "investigative_direction": "Archive the thread + employment paperwork dates; compare boost graph to paid clipping windows.",
       "mentions_person_refs": [
-        "N-287",
+        "N-285",
         "N-3",
         "N-2",
         "N-14",
@@ -1885,7 +1885,7 @@
       "mentions_person_refs": [
         "N-37",
         "N-14",
-        "N-287"
+        "N-285"
       ]
     },
     {
@@ -1905,8 +1905,8 @@
       "claim_timestamp": "00:04:02",
       "investigative_direction": "Preserve resignation post; confirm SGE appointment dates vs thread timestamps.",
       "mentions_person_refs": [
-        "N-287",
-        "N-604"
+        "N-285",
+        "N-599"
       ]
     },
     {
@@ -1954,7 +1954,7 @@
       "investigative_direction": "Hash-preserve campaign screenshots and Discord message IDs.",
       "mentions_person_refs": [
         "N-3",
-        "N-308",
+        "N-305",
         "N-1"
       ]
     },
@@ -2003,16 +2003,16 @@
       "claim_timestamp": "00:14:10",
       "investigative_direction": "Preserve Atlantic article + Servius promo videos; map budget months to Candace harassment windows.",
       "mentions_person_refs": [
-        "N-361",
         "N-358",
-        "N-365",
+        "N-355",
+        "N-362",
         "N-46",
         "N-205",
         "N-24",
         "N-120",
-        "N-336",
+        "N-333",
         "N-97",
-        "N-265",
+        "N-263",
         "N-22"
       ]
     },
@@ -2083,10 +2083,10 @@
       "mentions_person_refs": [
         "N-2",
         "N-1",
+        "N-356",
         "N-359",
-        "N-362",
-        "N-363",
-        "N-364"
+        "N-360",
+        "N-361"
       ]
     },
     {
@@ -2107,12 +2107,12 @@
       "claim_timestamp": "00:28:58",
       "investigative_direction": "Timeline deletions vs reporter emails; recover drive revisions from recipients.",
       "mentions_person_refs": [
+        "N-356",
+        "N-357",
         "N-359",
         "N-360",
-        "N-362",
-        "N-363",
-        "N-364",
-        "N-361"
+        "N-361",
+        "N-358"
       ]
     },
     {
@@ -2172,9 +2172,9 @@
       "claim_timestamp": "00:27:17",
       "investigative_direction": "Preserve full Fargo Talks episode; map Blake-Erika public appearances list.",
       "mentions_person_refs": [
-        "N-359",
+        "N-356",
         "N-2",
-        "N-360"
+        "N-357"
       ]
     },
     {
@@ -2259,11 +2259,11 @@
       "claim_timestamp": "00:45:09",
       "investigative_direction": "Map corporate ownership links among Enclave, Hughes remnants, and Adelson/Wynn entities.",
       "mentions_person_refs": [
-        "N-359",
+        "N-356",
         "N-37",
         "N-69",
-        "N-305",
-        "N-360"
+        "N-302",
+        "N-357"
       ]
     },
     {
@@ -2426,7 +2426,7 @@
       "transcript_snippet": "You remember um I was away in Spain. That's why it was even more odd. The show was off air two weeks and despite this I was being inundated from every direction with these sorts of attacks.",
       "mentions_person_refs": [
         "N-3",
-        "N-565"
+        "N-560"
       ]
     },
     {
@@ -2452,7 +2452,7 @@
         "C-3336"
       ],
       "mentions_person_refs": [
-        "N-287"
+        "N-285"
       ]
     },
     {
@@ -2519,7 +2519,7 @@
       "investigative_direction": "Count campaign creators on the Monster Lab site and confirm Servius's account in Discord.",
       "transcript_snippet": "He is also the number one person that is creating these campaigns on the website.",
       "mentions_person_refs": [
-        "N-358"
+        "N-355"
       ]
     },
     {
@@ -2583,7 +2583,7 @@
       "investigative_direction": "Read the published Atlantic article and its sourcing note.",
       "transcript_snippet": "a journalist over at the Atlantic did a deep dive after they also received a tip. In addition, they received access because this group is closed on Discord by someone who wanted to expose what was happening.",
       "mentions_person_refs": [
-        "N-361"
+        "N-358"
       ]
     },
     {
@@ -2627,8 +2627,8 @@
       "investigative_direction": "View Servius's recruitment video and quote it in full.",
       "transcript_snippet": "If you're not from the USA, like what the f is even Republicans like me, then simply go to Gemini or chat GPT.",
       "mentions_person_refs": [
-        "N-358",
-        "N-361"
+        "N-355",
+        "N-358"
       ]
     },
     {
@@ -2650,7 +2650,7 @@
       "investigative_direction": "Search for LLC or DBA filings behind Monster Lab and Clipit.",
       "transcript_snippet": "we cannot confirm that this is his company. And the website itself makes it clear that Clippet is not the true company name, but rather the trade name",
       "mentions_person_refs": [
-        "N-358"
+        "N-355"
       ]
     },
     {
@@ -2673,7 +2673,7 @@
       "investigative_direction": "Confirm with the reporter how access was granted and what was visible.",
       "transcript_snippet": "I was able to access its Discord server and other related political clipping campaign chats chats just by clicking join",
       "mentions_person_refs": [
-        "N-361"
+        "N-358"
       ]
     },
     {
@@ -2696,8 +2696,8 @@
       "investigative_direction": "Locate the Servius video and its upload date.",
       "transcript_snippet": "Discord records for Elephant Clipping's budget go back only to April, but the campaign has been going on for about a year now, Cervius said in a video posted that month.",
       "mentions_person_refs": [
+        "N-355",
         "N-358",
-        "N-361",
         "N-1"
       ]
     },
@@ -2770,8 +2770,8 @@
       "investigative_direction": "Check Nevada corporate filings for Enclave and Key officers.",
       "transcript_snippet": "Enclave Keys CEO and founder is Blake Wyn, the 26-year-old nephew of the billionaire and conservative mega donor Steve Wyn.",
       "mentions_person_refs": [
-        "N-359",
-        "N-360"
+        "N-356",
+        "N-357"
       ]
     },
     {
@@ -2793,7 +2793,7 @@
       "investigative_direction": "Request the specific inaccuracies and the full Enclave and Key statement.",
       "transcript_snippet": "he responded, quote, \"There are a number of inaccuracies,\" end quote, but declined to offer further clarification",
       "mentions_person_refs": [
-        "N-359"
+        "N-356"
       ]
     },
     {
@@ -2816,7 +2816,7 @@
       "investigative_direction": "Collect photos and guest lists for each event.",
       "transcript_snippet": "uh Turning Point USA's annual winter gala. Uh she was he was there as well also for the opening of Club America in Little Rock, Arkansas March 11th, 2026.",
       "mentions_person_refs": [
-        "N-359",
+        "N-356",
         "N-2"
       ]
     },
@@ -2840,7 +2840,7 @@
       "investigative_direction": "Identify everyone visible in the exit video and who recorded it.",
       "transcript_snippet": "He was there by her side walking out with her holding her bag next to Kash Patel and they were outside by the cars.",
       "mentions_person_refs": [
-        "N-359",
+        "N-356",
         "N-2",
         "N-69"
       ]
@@ -2864,7 +2864,7 @@
       "investigative_direction": "Watch the Bring the Juice interview and request any Patel contact logs.",
       "transcript_snippet": "he said that he and Enclave and Key do a lot of work in politics. Wyn also said that he regularly speaks with FBI director Kash Patel and that he was good friends with Kirk.",
       "mentions_person_refs": [
-        "N-359",
+        "N-356",
         "N-69",
         "N-1"
       ]
@@ -2888,11 +2888,11 @@
       "investigative_direction": "Verify seating accounts in the Bring the Juice interview.",
       "transcript_snippet": "recounted sitting next to Trump at Mara Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witco, Trump's friend and special envoy.",
       "mentions_person_refs": [
-        "N-359",
+        "N-356",
         "N-5",
         "N-119",
-        "N-885",
-        "N-886"
+        "N-878",
+        "N-879"
       ]
     },
     {
@@ -2914,10 +2914,10 @@
       "investigative_direction": "Archive the Instagram posts with dates.",
       "transcript_snippet": "he's posted pictures of himself on Instagram at small gatherings, the White House, and at Mara Lago alongside the Kirks and Tulsi Gabbard, the former director of national intelligence.",
       "mentions_person_refs": [
-        "N-359",
+        "N-356",
         "N-1",
         "N-2",
-        "N-336"
+        "N-333"
       ]
     },
     {
@@ -2962,7 +2962,7 @@
       "investigative_direction": "Ask Crowder and Shapiro representatives about the campaigns.",
       "transcript_snippet": "And Crowder's campaign also links to Enclave and Key connected to the Google Drive.",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-97"
       ]
     },
@@ -2982,7 +2982,7 @@
       "transcript_snippet": "You guys have been on a private plane before together. Feel like you guys know each other.",
       "mentions_person_refs": [
         "N-14",
-        "N-359"
+        "N-356"
       ]
     },
     {
@@ -3002,7 +3002,7 @@
       "investigative_direction": "Check Romanian company registries for Enclave and Key entities.",
       "transcript_snippet": "Romania. Romania. I kid you not. I kid you not.",
       "mentions_person_refs": [
-        "N-359"
+        "N-356"
       ]
     },
     {
@@ -3040,7 +3040,7 @@
       "investigative_direction": "Identify the producer and the debate-day arrival list.",
       "transcript_snippet": "Steven Crowder, we told you he uh effectively snuck in his producer, wouldn't tell us who was coming into my house to back up Andrew Wilson.",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-18"
       ]
     },
@@ -3150,9 +3150,9 @@
       "investigative_direction": "Check whether Trump and Vance appear in the Atlantic article or only in the host's chart.",
       "transcript_snippet": "People in the campaign we learned the article Tulsi Gabbard, Ben Shapiro, Steven Crowder, Vik Ramoswami, President Trump, JD Vance.",
       "mentions_person_refs": [
-        "N-336",
+        "N-333",
         "N-97",
-        "N-265",
+        "N-263",
         "N-120",
         "N-5",
         "N-4"
@@ -3175,7 +3175,7 @@
       "investigative_direction": "Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.",
       "transcript_snippet": "after his company got chopped up. Adlesen got a piece. The Wind family got a piece.",
       "mentions_person_refs": [
-        "N-756"
+        "N-750"
       ]
     },
     {
@@ -3193,7 +3193,7 @@
       "investigative_direction": "None beyond the banned-subject list.",
       "transcript_snippet": "I guess that's why they can't clip RFK because, you know, big pharma is a big piece of that wealth.",
       "mentions_person_refs": [
-        "N-365"
+        "N-362"
       ]
     },
     {
@@ -3360,7 +3360,7 @@
         "C-3056"
       ],
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -3702,7 +3702,7 @@
         {
           "episode": 161,
           "video_timestamp": "00:28:06",
-          "speaker_node_ref": "N-359",
+          "speaker_node_ref": "N-356",
           "quote": "but then there's this much more rare bucket Erika Kirk fits into it you fit into it and a couple other people fit into it which is that I look up to you guys as human beings.",
           "context": "Blake Wynn Fargo Talks clip; host echoes \"rare bucket\" description of Erika.",
           "confidence": "high",

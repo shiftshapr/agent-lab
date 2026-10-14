@@ -294,7 +294,7 @@
           "@type": "Artifact",
           "@id": "A-1203.1",
           "ref": "A-1203.1",
-          "description": "X post by Constantine Kissen addressed to Megyn Kelly: expresses concern with Kelly's refusal to separate from Candace Owens and Tucker Carlson; characterizes their behavior as \"extreme and so deranged\"",
+          "description": "X post by Konstantin Kisin addressed to Megyn Kelly: expresses concern with Kelly's refusal to separate from Candace Owens and Tucker Carlson; characterizes their behavior as \"extreme and so deranged\"",
           "related_claims": [
             "C-1349"
           ],
@@ -313,7 +313,7 @@
           "@type": "Artifact",
           "@id": "A-1203.2",
           "ref": "A-1203.2",
-          "description": "X reply by Megyn Kelly to Constantine Kissen: \"The more one insists that I say what one demands me to, the more committed I get in my refusal.\" (and follow-up: \"Your response proves the opposite of what it purports to.\")",
+          "description": "X reply by Megyn Kelly to Konstantin Kisin: \"The more one insists that I say what one demands me to, the more committed I get in my refusal.\" (and follow-up: \"Your response proves the opposite of what it purports to.\")",
           "related_claims": [
             "C-1348"
           ],
@@ -1482,7 +1482,7 @@
       "ref": "N-130",
       "name": "Kayleigh McEnany",
       "type": "person",
-      "description": "Fox News host the host names (transcribed Kaylee Mcaney, likely Kayleigh McEnany) in the Lyman interview recollection.",
+      "description": "Fox News host the host names (transcribed Kayleigh McEnany, likely Kayleigh McEnany) in the Lyman interview recollection.",
       "related_artifacts": [],
       "related_claims": [
         "C-10783"
@@ -1512,8 +1512,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-58",
+      "ref": "N-58",
       "name": "Brandon Tatum",
       "type": "person",
       "description": "Commentator the host says she would not debate.",
@@ -2429,7 +2429,7 @@
       "@id": "C-1348",
       "ref": "C-1348",
       "label": "Megyn Kelly publicly refused to condemn Candace Owens or Tucker Carlson in the thread",
-      "claim": "Megyn Kelly publicly replied to Florida Dab and to Constantine Kissen that she would not separate from or condemn Candace Owens or Tucker Carlson, characterizing the demand as one she would resist.",
+      "claim": "Megyn Kelly publicly replied to Florida Dab and to Konstantin Kisin that she would not separate from or condemn Candace Owens or Tucker Carlson, characterizing the demand as one she would resist.",
       "anchored_artifacts": [
         "A-1202.1",
         "A-1203.2"
@@ -2450,8 +2450,8 @@
       "@type": "Claim",
       "@id": "C-1349",
       "ref": "C-1349",
-      "label": "Constantine Kissen joined the X pressure thread against Megyn Kelly",
-      "claim": "Constantine Kissen posted on X to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as \"extreme and so deranged\" and questioning why Kelly was not confronting them.",
+      "label": "Konstantin Kisin joined the X pressure thread against Megyn Kelly",
+      "claim": "Konstantin Kisin posted on X to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as \"extreme and so deranged\" and questioning why Kelly was not confronting them.",
       "anchored_artifacts": [
         "A-1203.1",
         "A-1203.2"
@@ -2833,7 +2833,7 @@
       ],
       "claim_timestamp": "00:14:45",
       "investigative_direction": "Pull the Fox News segment and compare Lyman's statements about where he was with the footage timeline.",
-      "transcript_snippet": "You were watching it live with Kaylee Mcaney on Fox News. That's what you said during that segment, right?",
+      "transcript_snippet": "You were watching it live with Kayleigh McEnany on Fox News. That's what you said during that segment, right?",
       "mentions_person_refs": [
         "N-3",
         "N-61",
@@ -3647,7 +3647,7 @@
       "mentions_person_refs": [
         "N-97",
         "N-57",
-        "N-228",
+        "N-58",
         "N-3"
       ]
     },

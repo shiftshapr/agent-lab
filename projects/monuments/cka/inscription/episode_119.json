@@ -31,9 +31,9 @@
             "C-4777"
           ],
           "related_nodes": [
-            "N-229",
-            "N-272",
-            "N-267",
+            "N-228",
+            "N-270",
+            "N-265",
             "N-2"
           ],
           "tags": [],
@@ -59,7 +59,7 @@
             "C-4783"
           ],
           "related_nodes": [
-            "N-267",
+            "N-265",
             "N-2"
           ],
           "tags": [],
@@ -82,12 +82,12 @@
             "C-4791"
           ],
           "related_nodes": [
-            "N-267",
-            "N-699",
-            "N-711",
-            "N-712",
-            "N-713",
-            "N-714",
+            "N-265",
+            "N-693",
+            "N-705",
+            "N-706",
+            "N-707",
+            "N-708",
             "N-10991"
           ],
           "tags": [],
@@ -256,11 +256,11 @@
             "C-4811"
           ],
           "related_nodes": [
-            "N-715",
-            "N-716",
-            "N-717",
-            "N-718",
-            "N-305",
+            "N-709",
+            "N-710",
+            "N-711",
+            "N-712",
+            "N-302",
             "N-2",
             "N-11000"
           ],
@@ -292,8 +292,8 @@
           "related_nodes": [
             "N-17",
             "N-3",
-            "N-272",
-            "N-719",
+            "N-270",
+            "N-713",
             "N-10887"
           ],
           "tags": [],
@@ -427,7 +427,7 @@
             "C-4792"
           ],
           "related_nodes": [
-            "N-714",
+            "N-708",
             "N-10998"
           ],
           "tags": [],
@@ -454,8 +454,8 @@
             "C-4834"
           ],
           "related_nodes": [
-            "N-272",
-            "N-229",
+            "N-270",
+            "N-228",
             "N-10997"
           ],
           "tags": [],
@@ -865,8 +865,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "The host recorded a long interview at his studio. His team says Brian Harpole offered him the bloodied bag and that an Erika Kirk booking went through Terrell Farnsworth.",
@@ -888,8 +888,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Transcript spellings \"Taral\", \"Terrell\", \"Tarrou\" and \"Taro\". Visual Impulse owner who announced the death on camera and removed the SD card. Said to have arranged an Erika Kirk booking and to have been removed from Charlie's building in July.",
@@ -919,8 +919,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Transcript spellings \"Bryan Harpole\" and \"Bryan Harp\". He is suing the host. Said to have offered Shawn Ryan Charlie Kirk's bloodied bag, and he is referenced in Rob McCoy's sermon.",
@@ -943,8 +943,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-305",
-      "ref": "N-305",
+      "@id": "N-302",
+      "ref": "N-302",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Cited by ChatGPT as a widow successor; the host says she inherited shares and was never CEO.",
@@ -962,8 +962,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Named as working on audio about TPUSA staff doubts over Tyler Robinson.",
@@ -979,8 +979,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-348",
-      "ref": "N-348",
+      "@id": "N-345",
+      "ref": "N-345",
       "name": "Victor Marx",
       "type": "person",
       "description": "Named as one of the pastors Erika Kirk brought into TPUSA Faith.",
@@ -996,8 +996,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-372",
-      "ref": "N-372",
+      "@id": "N-369",
+      "ref": "N-369",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Host says he accosted her on a toddler playground during her early pregnancy.",
@@ -1013,8 +1013,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-390",
-      "ref": "N-390",
+      "@id": "N-386",
+      "ref": "N-386",
       "name": "Eddie Farnsworth",
       "type": "person",
       "description": "Said to have helped bring Lori Frantzve into Arizona government contracts.",
@@ -1030,8 +1030,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-397",
-      "ref": "N-397",
+      "@id": "N-393",
+      "ref": "N-393",
       "name": "Larry Guinta",
       "type": "person",
       "description": "Transcript spelling \"Larry Ginta\". Lori Frantzve's husband and Erika Kirk's stepfather, said to appear with her on the Arizona House floor.",
@@ -1047,8 +1047,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-500",
-      "ref": "N-500",
+      "@id": "N-495",
+      "ref": "N-495",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Transcript spelling \"Lori Fran Slay\". Erika Kirk's mother; said to have been brought into Arizona government contracts by the Farnsworths.",
@@ -1064,8 +1064,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-562",
-      "ref": "N-562",
+      "@id": "N-557",
+      "ref": "N-557",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Named only as \"Aubrey\"; said to have told Andrew Kolvet when she was fired that \"Nobody knows who she is.\"",
@@ -1081,8 +1081,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-699",
-      "ref": "N-699",
+      "@id": "N-693",
+      "ref": "N-693",
       "name": "Philip Goldsberry Jr.",
       "type": "person",
       "description": "First named by the host at 00:09:55 in episode 119. Visual Impulse team member on September 10; the host says his father is a pastor who started Global Ministries in Romania. Aliases: Philip Goldsberry.",
@@ -1100,8 +1100,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-711",
-      "ref": "N-711",
+      "@id": "N-705",
+      "ref": "N-705",
       "name": "Brian Farnsworth",
       "type": "person",
       "description": "First named by the host at 00:09:55 in episode 119. Terrell Farnsworth's brother, shown on the Visual Impulse team graphic.",
@@ -1119,8 +1119,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-712",
-      "ref": "N-712",
+      "@id": "N-706",
+      "ref": "N-706",
       "name": "Parker Edwards",
       "type": "person",
       "description": "First named by the host at 00:10:49 in episode 119. Visual Impulse team member who went to the same high school as Terrell Farnsworth.",
@@ -1139,8 +1139,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-713",
-      "ref": "N-713",
+      "@id": "N-707",
+      "ref": "N-707",
       "name": "Aaron Edwards",
       "type": "person",
       "description": "First named by the host at 00:11:31 in episode 119. Parker Edwards's brother; said to have worked for Visual Impulse and attended Arizona State University.",
@@ -1158,8 +1158,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-714",
-      "ref": "N-714",
+      "@id": "N-708",
+      "ref": "N-708",
       "name": "Robert Golow",
       "type": "person",
       "description": "First named by the host at 00:11:31 in episode 119. Visual Impulse camera operator from Liberia, hired in 2024; said to have stood next to Terrell Farnsworth when Charlie Kirk was hit.",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-715",
-      "ref": "N-715",
+      "@id": "N-709",
+      "ref": "N-709",
       "name": "Ellen Gordon",
       "type": "person",
       "description": "First named by the host at 00:24:13 in episode 119. Tootsie Roll Industries executive cited by ChatGPT as a widow successor.",
@@ -1199,8 +1199,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-716",
-      "ref": "N-716",
+      "@id": "N-710",
+      "ref": "N-710",
       "name": "Katharine Graham",
       "type": "person",
       "description": "First named by the host at 00:24:13 in episode 119. Washington Post publisher cited by ChatGPT as a widow successor. Aliases: Katharine Meyer Graham.",
@@ -1218,8 +1218,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-717",
-      "ref": "N-717",
+      "@id": "N-711",
+      "ref": "N-711",
       "name": "Eugene Meyer",
       "type": "person",
       "description": "First named by the host at 00:26:09 in episode 119. Katharine Graham's father, who the host says bought the Washington Post out of bankruptcy.",
@@ -1237,8 +1237,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-718",
-      "ref": "N-718",
+      "@id": "N-712",
+      "ref": "N-712",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "First named by the host at 00:26:09 in episode 119. Miriam Adelson's late husband; the host says Miriam inherited his shares on his death in 2021.",
@@ -1256,8 +1256,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-719",
-      "ref": "N-719",
+      "@id": "N-713",
+      "ref": "N-713",
       "name": "Increase Mather",
       "type": "person",
       "description": "First named by the host at 00:37:29 in episode 119 (in Rob McCoy's sermon clip). Named by McCoy as the minister who ended the Salem witch trials.",
@@ -1275,8 +1275,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-607",
-      "ref": "N-607",
+      "@id": "N-602",
+      "ref": "N-602",
       "name": "Druski",
       "type": "person",
       "description": "First named by the host at 00:58:50 in episode 119. Comedian whom the host says Erika Kirk called out for a joke. Aliases: Drewski.",
@@ -1775,8 +1775,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-272",
-        "N-229"
+        "N-270",
+        "N-228"
       ]
     },
     {
@@ -1804,12 +1804,12 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-267",
-        "N-699",
-        "N-711",
-        "N-712",
-        "N-713",
-        "N-714"
+        "N-265",
+        "N-693",
+        "N-705",
+        "N-706",
+        "N-707",
+        "N-708"
       ]
     },
     {
@@ -1833,7 +1833,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-714"
+        "N-708"
       ]
     },
     {
@@ -1885,11 +1885,11 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-715",
-        "N-716",
-        "N-717",
-        "N-718",
-        "N-305"
+        "N-709",
+        "N-710",
+        "N-711",
+        "N-712",
+        "N-302"
       ]
     }
   ],
@@ -1923,7 +1923,7 @@
       "investigative_direction": "Locate any video or posts by Cabot Phillips of the playground encounter and its date.",
       "transcript_snippet": "I was pregnant, truly a victim, when my foot was broken and Cabot Phillips accosted me on a toddler playground.",
       "mentions_person_refs": [
-        "N-372",
+        "N-369",
         "N-3"
       ]
     },
@@ -1956,7 +1956,7 @@
       "investigative_direction": "Confirm the release date of the Shawn Ryan Show episode with the host.",
       "transcript_snippet": "I was actually on Friday um recording at Shawn Ryan's studio, his podcast studio, and um he lives down the road from me",
       "mentions_person_refs": [
-        "N-229",
+        "N-228",
         "N-3"
       ]
     },
@@ -1978,8 +1978,8 @@
         "C-2817"
       ],
       "mentions_person_refs": [
-        "N-272",
-        "N-229",
+        "N-270",
+        "N-228",
         "N-3"
       ]
     },
@@ -2000,8 +2000,8 @@
       "investigative_direction": "Ask Shawn Ryan and his production staff to confirm the offer, and establish whether the bag was ever logged as evidence.",
       "transcript_snippet": "He offered that bag with the blood still on it to Shawn Ryan. And it was declined.",
       "mentions_person_refs": [
-        "N-272",
-        "N-229",
+        "N-270",
+        "N-228",
         "N-1"
       ]
     },
@@ -2020,9 +2020,9 @@
       "investigative_direction": "Obtain booking correspondence between the Shawn Ryan Show and Erika Kirk's representatives.",
       "transcript_snippet": "What I thought was odd was that they were in communication to book that with Taral Farnsworth.",
       "mentions_person_refs": [
-        "N-229",
+        "N-228",
         "N-2",
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2044,7 +2044,7 @@
         "C-1465"
       ],
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-1"
       ]
     },
@@ -2063,7 +2063,7 @@
       "investigative_direction": "Check Chandler-area high school yearbooks and alumni records for the Farnsworth and Bowyer families.",
       "transcript_snippet": "the Farnsworth family clan is a bit like a little deep Mormon mafia, you know, grew up with Tyler Bowyer's family, Chandler, Arizona. They all went to high school together",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-11"
       ]
     },
@@ -2085,9 +2085,9 @@
         "C-2010"
       ],
       "mentions_person_refs": [
-        "N-390",
-        "N-500",
-        "N-397",
+        "N-386",
+        "N-495",
+        "N-393",
         "N-2",
         "N-1"
       ]
@@ -2128,7 +2128,7 @@
       "investigative_direction": "Obtain TPUSA facilities and lease records and staff testimony on the July 2025 move.",
       "transcript_snippet": "On July 24th, Terrell's team, at Charlie's request, was removed from the building.",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-1"
       ]
     },
@@ -2152,7 +2152,7 @@
         "C-2220"
       ],
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-2",
         "N-1"
       ]
@@ -2173,7 +2173,7 @@
       "investigative_direction": "Obtain the SD card footage from the camera behind Charlie Kirk and the chain-of-custody record.",
       "transcript_snippet": "Um I spoke to Erika. I didn't want her to relive Charlie dying. That's what he said. Then we find out that there was nothing gory on that particular film because the bullet didn't go through.",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-2",
         "N-1"
       ]
@@ -2211,8 +2211,8 @@
       "investigative_direction": "Confirm the September 10 crew roster with Visual Impulse or event staffing records.",
       "transcript_snippet": "So we know Tarrou, he's there at the top. Brian Farnsworth is his is his uh brother.",
       "mentions_person_refs": [
-        "N-267",
-        "N-711"
+        "N-265",
+        "N-705"
       ]
     },
     {
@@ -2233,7 +2233,7 @@
       "investigative_direction": "Look up the charity's registration and officers in US and Romanian nonprofit records.",
       "transcript_snippet": "His father is the pastor who, of course, started a charity, Global Ministries in Romania, because why wouldn't he?",
       "mentions_person_refs": [
-        "N-699"
+        "N-693"
       ]
     },
     {
@@ -2254,8 +2254,8 @@
       "investigative_direction": "Check high school alumni records for Parker Edwards and Terrell Farnsworth.",
       "transcript_snippet": "Parker Edwards, we just dug into this guy, and it turns out that he went to the same high school as Tarrou Farnsworth.",
       "mentions_person_refs": [
-        "N-712",
-        "N-267"
+        "N-706",
+        "N-265"
       ]
     },
     {
@@ -2276,8 +2276,8 @@
       "investigative_direction": "Check Visual Impulse employment records and ASU enrollment confirmation.",
       "transcript_snippet": "also his brother Aaron Edwards worked for Visual Impulse as well, went to the same high school, also went to Arizona State University.",
       "mentions_person_refs": [
-        "N-713",
-        "N-712"
+        "N-707",
+        "N-706"
       ]
     },
     {
@@ -2299,9 +2299,9 @@
       "investigative_direction": "Obtain Visual Impulse hiring records for Golow and the date TPUSA introduced the second microphone.",
       "transcript_snippet": "He was brought on, I am told, of course after I stopped touring with Charlie, when they started doing the redundancy of the microphone in 2024. He's actually from Liberia",
       "mentions_person_refs": [
-        "N-714",
+        "N-708",
         "N-1",
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2322,8 +2322,8 @@
       "investigative_direction": "Review September 10 crowd video for the camera position and Golow's movements, and check his current employment.",
       "transcript_snippet": "But he's the one that's next to him, and then he runs off, and he was a new hire, uh so to speak, um within the year before Charlie died.",
       "mentions_person_refs": [
-        "N-714",
-        "N-267",
+        "N-708",
+        "N-265",
         "N-1"
       ]
     },
@@ -2344,7 +2344,7 @@
       "investigative_direction": "Follow up on tips received about Golow's background and his September 10 role.",
       "transcript_snippet": "But if you know anything about Robert Golow, um and his involvement, we would love to hear from you. More tips at candaceowens. com.",
       "mentions_person_refs": [
-        "N-714",
+        "N-708",
         "N-3"
       ]
     },
@@ -2525,7 +2525,7 @@
         "C-1369"
       ],
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-14"
       ]
     },
@@ -2627,7 +2627,7 @@
       "investigative_direction": "Check Tootsie Roll Industries SEC filings on ownership and executive history.",
       "transcript_snippet": "She took over Tootsie Roll Industries after her husband Melvin Gordon died at But actually no, not mentioned is the fact that it was her family's company.",
       "mentions_person_refs": [
-        "N-715"
+        "N-709"
       ]
     },
     {
@@ -2667,7 +2667,7 @@
       "investigative_direction": "Consult Washington Post corporate history for ownership at the time of Philip Graham's death.",
       "transcript_snippet": "Katharine Meyer Graham, sure enough she did take over for her husband Philip Graham as the publisher of the Washington Post after he died, but again it doesn't count because actually it was her family's company.",
       "mentions_person_refs": [
-        "N-716"
+        "N-710"
       ]
     },
     {
@@ -2687,8 +2687,8 @@
       "investigative_direction": "Check the 1933 bankruptcy auction record of the Washington Post and Federal Reserve leadership history.",
       "transcript_snippet": "Eugene Meyer was her father, like I said, who purchased Washington Post um right out of bankruptcy.",
       "mentions_person_refs": [
-        "N-717",
-        "N-716"
+        "N-711",
+        "N-710"
       ]
     },
     {
@@ -2728,8 +2728,8 @@
       "investigative_direction": "Check Las Vegas Sands SEC filings on ownership and executive officers after January 2021.",
       "transcript_snippet": "it was actually them together that had a controlling interest. It's a publicly traded company and she simply inherited his shares.",
       "mentions_person_refs": [
-        "N-305",
-        "N-718"
+        "N-302",
+        "N-712"
       ]
     },
     {
@@ -2748,7 +2748,7 @@
       "investigative_direction": "Obtain the recording of Aubrey Lech's termination meeting.",
       "transcript_snippet": "You remember even when Aubrey got fired, she had said to Andrew Colvert, \"Nobody knows who she is.",
       "mentions_person_refs": [
-        "N-562",
+        "N-557",
         "N-14",
         "N-2"
       ]
@@ -2811,7 +2811,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-348",
+        "N-345",
         "N-17"
       ]
     },
@@ -2872,7 +2872,7 @@
       "transcript_snippet": "She's going to go bankrupt. This next one Charlie's chief of of security Brian this this she's done.",
       "mentions_person_refs": [
         "N-17",
-        "N-272",
+        "N-270",
         "N-3"
       ]
     },
@@ -2892,7 +2892,7 @@
       "transcript_snippet": "we ended the Salem witch trials in 1692 in America. And it was a minister who ended them. His name was Increase Mather.",
       "mentions_person_refs": [
         "N-17",
-        "N-719"
+        "N-713"
       ]
     },
     {
@@ -2995,7 +2995,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -3038,7 +3038,7 @@
       "transcript_snippet": "some audio is going to show that the majority of people at Turning Point USA don't believe Tyler Robinson did it or acted alone.",
       "mentions_person_refs": [
         "N-40",
-        "N-337",
+        "N-334",
         "N-162"
       ]
     },
@@ -3174,7 +3174,7 @@
       "transcript_snippet": "The microphone didn't go into evidence. It went you know for a photo op with Erika in front of donors as she raised $40 million at Mar-a-Lago.",
       "mentions_person_refs": [
         "N-2",
-        "N-272",
+        "N-270",
         "N-1"
       ]
     },
@@ -3253,7 +3253,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-2",
-        "N-607",
+        "N-602",
         "N-40",
         "N-3"
       ]

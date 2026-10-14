@@ -34,7 +34,7 @@
           "related_nodes": [
             "N-2",
             "N-190",
-            "N-267"
+            "N-265"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -106,7 +106,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-507"
+            "N-502"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,7 +132,7 @@
             "C-2215"
           ],
           "related_nodes": [
-            "N-374"
+            "N-371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
             "C-2221"
           ],
           "related_nodes": [
-            "N-374"
+            "N-371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -170,7 +170,7 @@
             "C-2222"
           ],
           "related_nodes": [
-            "N-374"
+            "N-371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -189,7 +189,7 @@
             "C-2223"
           ],
           "related_nodes": [
-            "N-374"
+            "N-371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -216,7 +216,7 @@
             "C-2224"
           ],
           "related_nodes": [
-            "N-374",
+            "N-371",
             "N-10449"
           ],
           "tags": [],
@@ -334,8 +334,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-371",
+      "ref": "N-371",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Former CEO of The Daily Wire. Subject of multiple artifact-anchored claims in this episode regarding his characterization of Candace Owens and his management of the company's Hungarian production.",
@@ -387,8 +387,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-507",
-      "ref": "N-507",
+      "@id": "N-502",
+      "ref": "N-502",
       "name": "Doug DeGroot",
       "type": "person",
       "description": "TPUSA board member. Author of the September 17, 2025 board letter (A-1687.1) announcing Erika Kirk as CEO and Chair of Turning Point USA.",
@@ -488,7 +488,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-374"
+        "N-371"
       ]
     },
     {
@@ -704,8 +704,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Identified by host during playback of the September 16 Zoom call as audible in the background of the recording.",
@@ -1336,8 +1336,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-236",
-      "ref": "N-236",
+      "@id": "N-235",
+      "ref": "N-235",
       "name": "Andrew Klavan",
       "type": "person",
       "description": "Daily Wire host whose episode Boreing allegedly reviewed.",
@@ -1372,8 +1372,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Likely subject of 'Mitch's entire past' as dug into by Paramount Tactical (transcribed with McConnell).",
@@ -1389,8 +1389,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-481",
-      "ref": "N-481",
+      "@id": "N-476",
+      "ref": "N-476",
       "name": "Robert Eugene Flood",
       "type": "person",
       "description": "Chicago-area man the host says was wrongly pictured as Bob Ferguson in the prior episode.",
@@ -1406,8 +1406,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-504",
-      "ref": "N-504",
+      "@id": "N-499",
+      "ref": "N-499",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Host calls her Marina, the COO, and Marina Medvin; accused of loyalty-test firings.",
@@ -1424,8 +1424,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-508",
-      "ref": "N-508",
+      "@id": "N-503",
+      "ref": "N-503",
       "name": "Bassem Youssef",
       "type": "person",
       "description": "Next-day guest; Daily Wire allegedly denied the host's request to host him.",
@@ -1460,8 +1460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-870",
-      "ref": "N-870",
+      "@id": "N-863",
+      "ref": "N-863",
       "name": "Bob Ferguson",
       "type": "person",
       "description": "First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in the prior episode as Bob Flood; the host says he has nothing to do with the story and apologizes.",
@@ -1674,7 +1674,7 @@
       "claim_timestamp": "00:09:08",
       "investigative_direction": "Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.",
       "mentions_person_refs": [
-        "N-507",
+        "N-502",
         "N-2"
       ]
     },
@@ -1692,7 +1692,7 @@
       "claim_timestamp": "00:09:08",
       "investigative_direction": "Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.",
       "mentions_person_refs": [
-        "N-507"
+        "N-502"
       ]
     },
     {
@@ -1709,7 +1709,7 @@
       "claim_timestamp": "00:39:00",
       "investigative_direction": "Identify the source podcast and episode date; verify Boreing's full context for the statement.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -1727,7 +1727,7 @@
       "claim_timestamp": "00:40:30",
       "investigative_direction": "Identify source podcast and date; verify exact quote and surrounding context.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -1745,7 +1745,7 @@
       "claim_timestamp": "00:41:59",
       "investigative_direction": "Identify source podcast and date; verify quote against full unedited clip.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -1763,7 +1763,7 @@
       "claim_timestamp": "00:44:36",
       "investigative_direction": "Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization.",
       "mentions_person_refs": [
-        "N-374"
+        "N-371"
       ]
     },
     {
@@ -1782,7 +1782,7 @@
       "claim_timestamp": "00:47:50",
       "investigative_direction": "Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.",
       "mentions_person_refs": [
-        "N-374"
+        "N-371"
       ]
     },
     {
@@ -1799,7 +1799,7 @@
       "claim_timestamp": "00:16:46",
       "investigative_direction": "Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.",
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -1816,7 +1816,7 @@
       "claim_timestamp": "00:40:30",
       "investigative_direction": "Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -1834,7 +1834,7 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -1852,7 +1852,7 @@
       "claim_timestamp": "00:44:36",
       "investigative_direction": "Compare Boreing's account against any other contemporaneous documentation of the alleged conversations.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -1872,7 +1872,7 @@
       "claim_timestamp": "00:48:28",
       "investigative_direction": "Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -1916,7 +1916,7 @@
       "investigative_direction": "Locate the Boreing podcast interview and check whether he used the word antifa about the host and Carlson.",
       "transcript_snippet": "publicly attacking Tucker Carlson and yours truly, correlating us to antifa thugs. And also this show to pornography.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-22",
         "N-3"
       ]
@@ -1936,8 +1936,8 @@
       "investigative_direction": "Compare the removed segment of the prior episode with the corrected version and confirm the image is gone from all uploads.",
       "transcript_snippet": "His name was actually Bob Fergus- Ferguson. He's from Iowa. He has nothing to do with the story.",
       "mentions_person_refs": [
-        "N-481",
-        "N-870",
+        "N-476",
+        "N-863",
         "N-3"
       ]
     },
@@ -2275,7 +2275,7 @@
       "investigative_direction": "Confirm which Mitch is meant (Mitch Snow is the likely reference) and review Paramount Tactical's videos about him.",
       "transcript_snippet": "that was the same YouTuber despite, you know, also going into Mitch's entire past",
       "mentions_person_refs": [
-        "N-369",
+        "N-366",
         "N-3"
       ]
     },
@@ -2773,7 +2773,7 @@
         "C-2220"
       ],
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-3"
       ]
     },
@@ -3157,7 +3157,7 @@
         "C-6986"
       ],
       "mentions_person_refs": [
-        "N-504",
+        "N-499",
         "N-3"
       ]
     },
@@ -3226,7 +3226,7 @@
       "investigative_direction": "Identify the podcast and date and view the full clip.",
       "transcript_snippet": "I had misgivings about Candace, but I it wasn't a completely cynical decision.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3247,7 +3247,7 @@
       "investigative_direction": "Verify wording against the full source interview.",
       "transcript_snippet": "Candace is the most talented person I've ever met, not just in conservative media, but in in any media.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3271,7 +3271,7 @@
         "C-2216"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3295,7 +3295,7 @@
         "C-2217"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3319,7 +3319,7 @@
         "C-2217"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3366,7 +3366,7 @@
         "C-2218"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3387,7 +3387,7 @@
       "investigative_direction": "Seek accounts from former Daily Wire staff on grooming and office routines.",
       "transcript_snippet": "Making talent, people who had shows, wait outside while you close the room. Had people wash your hair, do your makeup, and style you.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3409,7 +3409,7 @@
       "investigative_direction": "Seek Daily Wire expense records or former finance staff accounts.",
       "transcript_snippet": "Hundreds of thousands of dollars on a clothing rack so you could go sit in the office and take phone calls like a CEO.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3434,7 +3434,7 @@
         "C-2224"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3456,7 +3456,7 @@
       "investigative_direction": "Seek budget documents or credible reporting on the production cost.",
       "transcript_snippet": "I am told last number I heard was $67 million spent on a high school dream.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3477,7 +3477,7 @@
       "investigative_direction": "Seek confirmation from Daily Wire insiders or financial filings.",
       "transcript_snippet": "he had to borrow, empty his savings account, borrow money personally from Ben Shapiro to make ends meet",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-97",
         "N-3"
       ]
@@ -3504,7 +3504,7 @@
         "C-2219"
       ],
       "mentions_person_refs": [
-        "N-374"
+        "N-371"
       ]
     },
     {
@@ -3524,7 +3524,7 @@
       "investigative_direction": "Check distribution announcements or buyer statements about the project.",
       "transcript_snippet": "realizing this failed, nobody wanted to buy it and nobody wanted anything to do with it",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3546,7 +3546,7 @@
       "transcript_snippet": "When she came to me 8 and 1/2 months pregnant, hands open, and willing to discuss and fix things or agree to amicably go our separate ways if we couldn't",
       "mentions_person_refs": [
         "N-3",
-        "N-374"
+        "N-371"
       ]
     },
     {
@@ -3587,7 +3587,7 @@
       "investigative_direction": "Seek the host's contemporaneous messages or witnesses to the suspicion.",
       "transcript_snippet": "they suspected that I might have been secretly working with Nick Fuentes and Tucker Carlson",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-205",
         "N-22",
         "N-3"
@@ -3610,7 +3610,7 @@
       "investigative_direction": "Seek Daily Wire internal communications from the weeks before the firing.",
       "transcript_snippet": "My next big plan is to do what we did to Breitbart. We'll create a fake scandal.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3636,7 +3636,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-374"
+        "N-371"
       ]
     },
     {
@@ -3656,8 +3656,8 @@
       "investigative_direction": "Identify the Klavan episode and seek editorial approval records.",
       "transcript_snippet": "Jeremy actually personally reviewed Andrew Klavan's episode before it went out",
       "mentions_person_refs": [
-        "N-374",
-        "N-236",
+        "N-371",
+        "N-235",
         "N-3"
       ]
     },
@@ -3703,7 +3703,7 @@
         "C-5351"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3728,7 +3728,7 @@
         "C-9991"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3753,7 +3753,7 @@
         "C-9992"
       ],
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3775,7 +3775,7 @@
       "investigative_direction": "Seek Brett Cooper's own account of the conversation.",
       "transcript_snippet": "sitting her down and telling her that she should she shouldn't do that because you had big plans and you were going to turn her into a star cuz you're the magic.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-225",
         "N-3"
       ]
@@ -3798,7 +3798,7 @@
       "investigative_direction": "Seek the maid of honor's account and any contract or offer documents.",
       "transcript_snippet": "offering an obscene amount of money to her maid of honor at that wedding that you didn't want her to have, to hurt her.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-225",
         "N-3"
       ]
@@ -3821,7 +3821,7 @@
       "investigative_direction": "Locate the articles or posts that attacked Cooper over the like and trace their sources.",
       "transcript_snippet": "to try to smear her, the friendly pop culture young girl, as an anti-Semite, over an Instagram like because she liked a year-end roundup of my podcast.",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-225",
         "N-3"
       ]
@@ -3844,7 +3844,7 @@
       "investigative_direction": "Search court dockets for the Daily Wire suit against the host.",
       "transcript_snippet": "And when you sued me for that, for standing up for Brett Cooper",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-225",
         "N-3"
       ]
@@ -3866,7 +3866,7 @@
       "investigative_direction": "Seek corroboration from Daily Wire staff present in Hungary.",
       "transcript_snippet": "You admitted to me that you had a mental break in Hungary. You didn't sleep for days",
       "mentions_person_refs": [
-        "N-374",
+        "N-371",
         "N-3"
       ]
     },
@@ -3912,7 +3912,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-190",
-        "N-504",
+        "N-499",
         "N-3"
       ]
     },
@@ -4045,7 +4045,7 @@
       "transcript_snippet": "If you tell anybody what we're doing to you, we'll bankrupt you.",
       "mentions_person_refs": [
         "N-3",
-        "N-374"
+        "N-371"
       ]
     },
     {
@@ -4109,7 +4109,7 @@
       "transcript_snippet": "The Daily Wire denied my request while I was there to have him on my show.",
       "mentions_person_refs": [
         "N-3",
-        "N-508"
+        "N-503"
       ]
     },
     {
@@ -4128,7 +4128,7 @@
       "transcript_snippet": "Bassem Youssef is going to be joining me live",
       "mentions_person_refs": [
         "N-3",
-        "N-508"
+        "N-503"
       ]
     }
   ],

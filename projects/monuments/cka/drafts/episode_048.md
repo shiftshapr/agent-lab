@@ -15,8 +15,8 @@
   - Hole-minted Nodes (reintro-ep048): N-10368, N-10643
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5185–C-5271
-  - New Nodes Introduced: N-367, N-10359, N-10360, N-10361, N-10362, N-10363, N-10364, N-10365
-  - Reused Nodes Appearing: N-162, N-3, N-1, N-388, N-5, N-4, N-22, N-36, N-40, N-46, N-69, N-82, N-119, N-194, N-205, N-208, N-229, N-273, N-10000, N-10012, N-10014, N-10026, N-10083, N-10202, N-10239, N-10253, N-10290, N-10344, N-10347, N-368, N-10367, N-10373, N-10887, N-10358, N-10366, N-11020
+  - New Nodes Introduced: N-364, N-10359, N-10360, N-10361, N-10362, N-10363, N-10364, N-10365
+  - Reused Nodes Appearing: N-162, N-3, N-1, N-384, N-5, N-4, N-22, N-36, N-40, N-46, N-69, N-82, N-119, N-194, N-205, N-208, N-228, N-271, N-10000, N-10012, N-10014, N-10026, N-10083, N-10202, N-10239, N-10253, N-10290, N-10344, N-10347, N-365, N-10367, N-10373, N-10887, N-10358, N-10366, N-11020
   - (see registers)
 
 ## 2. Executive Summary
@@ -215,7 +215,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Read aloud on air by the host. Contains attributed quotation: "Absolutely, the bullet should have gone through... His bone was so healthy and the density was so, so impressive that he's like the man of steel." Quotation framed as having come from "the surgeon."
 
-*Related: C-1960, N-367, N-199, N-10358*
+*Related: C-1960, N-364, N-199, N-10358*
 
 ---
 
@@ -241,7 +241,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Video clip played on air. Coleman defines SAM (Special Air Mission) call signs, states SAM000 is rarely used and indicates highly sensitive VIP manifests. Displayed on screen: flight landing Las Vegas at 4:48 p.m. local time on August 25 with SAM000 call sign; RCH658 flight departing Las Vegas at 3:14 p.m. on August 26 with missing transponder data; landing in Colorado Springs; subsequent SAM658 return flight to Joint Base Andrews. Coleman states SAM000 on August 25 flew "from Joint Base Andrews to Colorado Springs."
 
-*Related: C-1963, C-1964, C-1965, C-1966, N-337, N-10363, N-10364, N-10365*
+*Related: C-1963, C-1964, C-1965, C-1966, N-334, N-10363, N-10364, N-10365*
 
 ---
 
@@ -254,7 +254,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Audio clip played on air. Harpole states: "the 24th of the month prior... that first information came in on the 24th and then the information share starts." Host frames this as the same date Operation Valhalla Strike began (Aug 24).
 
-*Related: C-1967, N-272, N-10365, N-10366*
+*Related: C-1967, N-270, N-10365, N-10366*
 
 ---
 
@@ -379,7 +379,7 @@ Confidence Level: High
 ## 4. Node Register
 
 
-**N-367** Andrew Colberg
+**N-364** Andrew Colberg
 
 X user whose attributed "man of steel" quotation post is contested by host sources as not being a direct surgeon statement.
 
@@ -418,7 +418,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-337** Baron Coleman
+**N-334** Baron Coleman
 
 Video creator whose segment on SAM call signs and August 25–26 flight logs is played on air.
 
@@ -431,7 +431,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 Security contractor named as having begun UVU event intel gathering on August 24 per his own statement; named by an unnamed eyewitness ("Elvis guy") as allegedly observed at a September 9 meeting.
 
@@ -444,7 +444,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-368** Harry
+**N-365** Harry
 
 Producer/investigator on host's team referenced by name regarding Fort Huachuca inquiry and the upcoming eyewitness testimony segment.
 
@@ -492,7 +492,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1552.1, C-1960, N-367, N-199*
+*Related: A-1552.1, C-1960, N-364, N-199*
 
 ---
 
@@ -557,7 +557,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1554.1, C-1964, N-337*
+*Related: A-1554.1, C-1964, N-334*
 
 ---
 
@@ -570,7 +570,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1554.1, C-1965, C-1966, N-337*
+*Related: A-1554.1, C-1965, C-1966, N-334*
 
 ---
 
@@ -583,7 +583,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1554.1, A-1555.1, N-337, N-272, N-368*
+*Related: A-1554.1, A-1555.1, N-334, N-270, N-365*
 
 ---
 
@@ -596,7 +596,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1555.1, C-1967, N-272*
+*Related: A-1555.1, C-1967, N-270*
 
 ---
 
@@ -720,7 +720,7 @@ Host's interview earlier that day; his JFK and Brigitte Macron views.
 
 ---
 
-**N-229** Shawn Ryan
+**N-228** Shawn Ryan
 
 Interviewer in the Harpole clip played on air.
 
@@ -728,7 +728,7 @@ Interviewer in the Harpole clip played on air.
 
 ---
 
-**N-273** Tim Pool
+**N-271** Tim Pool
 
 Named among those saying Candace is over.
 
@@ -736,7 +736,7 @@ Named among those saying Candace is over.
 
 ---
 
-**N-388** Dan Bongino
+**N-384** Dan Bongino
 
 Subject of the host's comments on his departure from the FBI.
 
@@ -925,7 +925,7 @@ Claim Timestamp: 00:03:52
 Claim: Andrew Colberg's X post contains a quotation attributed to "the surgeon" describing Charlie Kirk's neck bone as "so healthy and the density was so, so impressive that he's like the man of steel," and stating the bullet "should have just gone through and through."
 
 Anchored Artifacts: A-1552.1
-Mentions: N-199, N-367, N-1
+Mentions: N-199, N-364, N-1
 
 Related Nodes: N-10358
 
@@ -970,7 +970,7 @@ Claim Timestamp: 00:36:19
 Claim: Baron Coleman states that SAM000 is a rarely used Special Air Mission call sign reserved for highly sensitive passenger manifests where the White House or US Air Force wish to be deliberately vague about who is aboard.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-337
+Mentions: N-334
 
 Related Nodes: N-10363
 
@@ -985,7 +985,7 @@ Claim Timestamp: 00:38:14
 Claim: Baron Coleman states that on August 25, 2025, a flight using the SAM000 call sign operated from Joint Base Andrews toward Colorado Springs, the location of the 10th Special Forces Group.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-337
+Mentions: N-334
 
 Related Nodes: N-10363, N-10365
 
@@ -1000,7 +1000,7 @@ Claim Timestamp: 00:39:24
 Claim: Baron Coleman displays a flight log showing an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-337
+Mentions: N-334
 
 Related Nodes: N-10363, N-10364
 
@@ -1015,7 +1015,7 @@ Claim Timestamp: 00:39:24
 Claim: Baron Coleman displays a flight log showing the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-337
+Mentions: N-334
 
 Related Nodes: N-10364
 
@@ -1030,7 +1030,7 @@ Claim Timestamp: 00:41:47
 Claim: Brian Harpole states in an interview that the intelligence gathering and preparation process for the UVU event began on August 24, with information sharing and conference calls commencing that date.
 
 Anchored Artifacts: A-1555.1
-Mentions: N-272
+Mentions: N-270
 
 Related Nodes: N-10365, N-10366
 
@@ -1076,7 +1076,7 @@ Claim: The host says she has never seen a more extreme cover-up than the Charlie
 Transcript Snippet: I have never seen one more extreme than this Charlie Kirk cover-up that the feds are engaged in.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-388, N-5
+Mentions: N-3, N-1, N-384, N-5
 Related Nodes: N-10048
 Investigative Direction: Track Bongino's departure announcement and any statement he makes on the Kirk investigation.
 
@@ -1091,7 +1091,7 @@ Claim: The host says she was told that Andrew Colberg was allegedly flying blind
 Transcript Snippet: I was told that Andrew Colberg was allegedly flying blind when he tweeted out the conversation that he had with the surgeon.
 
 Anchored Artifacts: 
-Mentions: N-3, N-367
+Mentions: N-3, N-364
 Related Nodes: N-10358
 Investigative Direction: Identify the host's source and obtain Colberg's own account of how and when he spoke with the surgeon.
 
@@ -1106,7 +1106,7 @@ Claim: The host says the Colberg tweet about Superman neck came very quickly aft
 Transcript Snippet: me doing the the show and saying, "Oh, I saw the back footage and there was no blood."
 
 Anchored Artifacts: 
-Mentions: N-3, N-367
+Mentions: N-3, N-364
 Related Nodes: N-10358
 Investigative Direction: Compare the broadcast timestamp of the host's remark with the posting time of Colberg's tweet.
 
@@ -1121,7 +1121,7 @@ Claim: The host says that, per a source she trusts, Dr. Lee Trotter never once s
 Transcript Snippet: never once did Dr. Lee Trotter say that Charlie's neck was stopped uh Charlie's neck stopped a.30-06 bullet.
 
 Anchored Artifacts: 
-Mentions: N-199, N-367, N-1
+Mentions: N-199, N-364, N-1
 Related Nodes: N-10358
 Qualifies: C-1960
 Investigative Direction: Obtain a direct statement from Dr. Trotter or his representatives, and any hospital communications record of what he told Colberg.
@@ -1167,7 +1167,7 @@ Claim: The host says she was told that Dr. Lee Trotter, who hunts, communicated 
 Transcript Snippet: What he communicated is that it was likely a frangible bullet that was used.
 
 Anchored Artifacts: 
-Mentions: N-199, N-367, N-3
+Mentions: N-199, N-364, N-3
 Related Nodes: N-10358
 Qualifies: C-1960
 Investigative Direction: Ask Colberg and the surgeon's circle what exactly was said about bullet type, and compare with the autopsy and ballistics record.
@@ -1183,7 +1183,7 @@ Claim: The host says Colberg also told the audience that the bullet ricocheted, 
 Transcript Snippet: Well, Andrew also told us that the bullet did ricochet. So, what we have here is a conflict of statements.
 
 Anchored Artifacts: 
-Mentions: N-367, N-3
+Mentions: N-364, N-3
 Related Nodes: N-10358
 Qualifies: C-1960
 Investigative Direction: Quote Colberg's exact wording on ricochet from his X thread and compare with the wound description in any official report.
@@ -1546,7 +1546,7 @@ Claim: The host says Trump said he thinks Dan Bongino wants to get back to his s
 Transcript Snippet: Trump said that he thinks that Dan wants to get back to his show.
 
 Anchored Artifacts: 
-Mentions: N-3, N-5, N-388
+Mentions: N-3, N-5, N-384
 Related Nodes: N-10048
 Supports: C-3758
 Investigative Direction: Locate Trump's remark and Bongino's own announcement for the stated reason for leaving.
@@ -1562,7 +1562,7 @@ Claim: The host says Dan Bongino has been effectively silent on the Charlie Kirk
 Transcript Snippet: I have been wondering why Dan has been silent I would say effectively silent on the Charlie Kirk situation.
 
 Anchored Artifacts: 
-Mentions: N-3, N-388
+Mentions: N-3, N-384
 Related Nodes: N-10048
 Supports: C-3758
 Investigative Direction: Review Bongino's public statements and show transcripts since September 10 for mentions of the Kirk case.
@@ -1743,7 +1743,7 @@ Claim: The host says that although some thought someone might be pulling her leg
 Transcript Snippet: And then we were able to verify his story. People that are currently stationed there.
 
 Anchored Artifacts: 
-Mentions: N-3, N-272
+Mentions: N-3, N-270
 Related Nodes: N-10367, N-10365
 Investigative Direction: Obtain the verifying personnel's statements or documents on the building and meeting.
 
@@ -1758,7 +1758,7 @@ Claim: In the clip, Baron Coleman says the jet in question is used exclusively b
 Transcript Snippet: That key piece of evidence is a jet that's used exclusively by very few people.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-337
+Mentions: N-334
 Related Nodes: N-10365
 Investigative Direction: Obtain the tail number's operator and mission history from Air Mobility Command records.
 
@@ -1773,7 +1773,7 @@ Claim: In the clip, Baron Coleman says the special air mission jet was present a
 Transcript Snippet: That particular jet was present at the location of this alleged meeting on the morning of September 9th, one day before the neutralization of Charlie Kirk.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-337
+Mentions: N-334
 Related Nodes: N-10365, N-10367
 Supports: C-1905
 Investigative Direction: Pull ADS-B and flight-plan records for the aircraft on September 8 to 10.
@@ -1789,7 +1789,7 @@ Claim: In the clip, Baron Coleman says the jet had recently flown President Trum
 Transcript Snippet: that jet had recently flown for example President Trump's family back from their summer home in Bedminster, New Jersey.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-337, N-5
+Mentions: N-334, N-5
 Investigative Direction: Verify with flight-tracking history for the aircraft in early July 2025.
 
 ---
@@ -1803,7 +1803,7 @@ Claim: In the clip, Baron Coleman says that when the president is aboard the rad
 Transcript Snippet: When the president is on board, the radio call sign instantly becomes Air Force One.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-337
+Mentions: N-334
 Investigative Direction: Check Air Force and FAA call sign conventions for filed versus radio call signs.
 
 ---
@@ -1817,7 +1817,7 @@ Claim: In the clip, Baron Coleman displays a flight log showing the aircraft fle
 Transcript Snippet: So on August 25th, it flies into Las Vegas, lands at 4:48 p. m. local time as SAM000.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-337
+Mentions: N-334
 Related Nodes: N-10363, N-10887
 Supports: C-1964
 Investigative Direction: Pull the raw flight log for the aircraft on August 25 and compare with Coleman's stated route from Andrews to Colorado Springs.
@@ -1833,7 +1833,7 @@ Claim: In the clip, a respondent to the host's question, apparently Coleman, say
 Transcript Snippet: the special air mission designation is usually when there's very high ranking or very important people on board.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-337, N-3
+Mentions: N-334, N-3
 Related Nodes: N-10364
 Investigative Direction: Verify call-sign usage rules with Air Mobility Command documentation.
 
@@ -1848,7 +1848,7 @@ Claim: In the clip, a respondent apparently Coleman says another call sign they 
 Transcript Snippet: the other call sign we've seen is Venus, which is a designator for an empty flight except for the pilots.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-337
+Mentions: N-334
 Related Nodes: N-10364
 Investigative Direction: Check military airlift call-sign documentation for Venus.
 
@@ -1863,7 +1863,7 @@ Claim: In the clip, Brian Harpole says the process started before the 24th with 
 Transcript Snippet: it started before that with the the intelligence gathering and and all that, but the hard conversations, the sharing of information, the conference calls, the the data sheets.
 
 Anchored Artifacts: A-1555.1
-Mentions: N-272, N-229
+Mentions: N-270, N-228
 Related Nodes: N-10365
 Qualifies: C-1967
 Investigative Direction: Ask Harpole's firm for the date of the first intelligence product and the first conference call.
@@ -1879,7 +1879,7 @@ Claim: In the clip, Brian Harpole says his company uses an app timeline on which
 Transcript Snippet: It's a decentralized command model for the company.
 
 Anchored Artifacts: A-1555.1
-Mentions: N-272
+Mentions: N-270
 Investigative Direction: Request the company's operational plan and app logs for the UVU event, if obtainable.
 
 ---
@@ -1893,7 +1893,7 @@ Claim: The host says Operation Valhalla Strike begins between civilians and the 
 Transcript Snippet: It also happens to be the exact date that Operation Valhalla Strike begins between civilians and the military. It happened on August 24th and ended on August 27th.
 
 Anchored Artifacts: A-2740.1
-Mentions: N-3, N-272
+Mentions: N-3, N-270
 Related Nodes: N-10366
 Investigative Direction: Find the official exercise announcement or unit records naming dates and participants.
 
@@ -1908,7 +1908,7 @@ Claim: The host says that when she asked Harry whether the person could be a hig
 Transcript Snippet: He said that there was an an undercover fed or he said it could have been an undercover secret serviceman.
 
 Anchored Artifacts: 
-Mentions: N-3, N-368
+Mentions: N-3, N-365
 Related Nodes: N-10365, N-10367
 Investigative Direction: Obtain Harry's on-camera account and any corroborating incident report.
 
@@ -1923,7 +1923,7 @@ Claim: The host says Harry said he saw this many O-6s and lieutenant colonels, w
 Transcript Snippet: He was like I had this many 06s, lieutenant colonels signifies to be that this is like a Pentagon level meeting.
 
 Anchored Artifacts: 
-Mentions: N-368, N-3
+Mentions: N-365, N-3
 Related Nodes: N-10365, N-10367
 Supports: C-1886
 Investigative Direction: Ask Harry for the number and insignia observed and compare with the Fort Huachuca JTF-SB attendance.
@@ -1939,7 +1939,7 @@ Claim: The host says everything Harry has said has checked out and that she has 
 Transcript Snippet: Everything he has said has checked out. I am telling you we have multiple emails from people that are currently stationed there.
 
 Anchored Artifacts: A-2741.1
-Mentions: N-3, N-368
+Mentions: N-3, N-365
 Related Nodes: N-10367
 Investigative Direction: Review the emails and verify the senders' standing as personnel without exposing them.
 
@@ -1969,7 +1969,7 @@ Claim: The host says stationed personnel confirmed the building that Harry descr
 Transcript Snippet: They confirmed that building that he said
 
 Anchored Artifacts: A-2741.1
-Mentions: N-3, N-368
+Mentions: N-3, N-365
 Related Nodes: N-10367
 Supports: C-1885
 Investigative Direction: Ask the personnel for on-record confirmation of the temporary JTF-SB headquarters location.
@@ -1985,7 +1985,7 @@ Claim: The host says the eyewitness got out of a 25-year NDA and then stumbled i
 Transcript Snippet: just gets out of his 25-year long NDA and stumbles into another what could be, we're keeping this open, another federal operation.
 
 Anchored Artifacts: 
-Mentions: N-3, N-368
+Mentions: N-3, N-365
 Related Nodes: N-10367
 Investigative Direction: Compare with the 1990 to May 2025 NDA period reported earlier and obtain the NDA document.
 
@@ -2000,7 +2000,7 @@ Claim: The host says she asked the eyewitness whether he would come on and tell 
 Transcript Snippet: Do you want to come on and tell your story? And he has said, yes.
 
 Anchored Artifacts: 
-Mentions: N-3, N-368
+Mentions: N-3, N-365
 Related Nodes: N-10367
 Investigative Direction: Check the next episode for the interview and compare it with earlier accounts.
 
@@ -2015,7 +2015,7 @@ Claim: The host says she now knows Brian Harpole's flight back from Tokyo, a dir
 Transcript Snippet: He actually lands into Los Angeles on a direct flight from Tokyo landing into Los Angeles at 6:45 p. m. on the 7th before continuing down to Dallas
 
 Anchored Artifacts: 
-Mentions: N-3, N-272
+Mentions: N-3, N-270
 Related Nodes: N-10643, N-10373
 Investigative Direction: Obtain the flight numbers and manifest or boarding records to confirm the itinerary.
 
@@ -2030,7 +2030,7 @@ Claim: The host says that, given the flight timing, it is possible for Brian Har
 Transcript Snippet: It is possible for Brian Harpole to be able to meet to to make that meeting. Fort Huachuca, it is just possible.
 
 Anchored Artifacts: 
-Mentions: N-3, N-272
+Mentions: N-3, N-270
 Related Nodes: N-10643, N-10373
 Investigative Direction: Build the Harpole travel timeline from the 8th to the 9th with receipts, location data and flight records.
 
@@ -2090,7 +2090,7 @@ Claim: The host says that, amid what she calls a botted wave saying she sold out
 Transcript Snippet: And then when you see like Tim Pool and Nick Fuentes, Candace is over.
 
 Anchored Artifacts: 
-Mentions: N-3, N-273, N-205
+Mentions: N-3, N-271, N-205
 Related Nodes: N-11020
 Investigative Direction: Collect the actual statements by Pool and Fuentes and compare their wording.
 
@@ -2353,7 +2353,7 @@ Claim: The host says that, when Baron Coleman asked where Trump and Vance were, 
 Transcript Snippet: I found J. D. Vance with Donald Trump at a restaurant that evening in D. C. I think it was about uh like 6:00.
 
 Anchored Artifacts: 
-Mentions: N-3, N-4, N-5, N-337
+Mentions: N-3, N-4, N-5, N-334
 Investigative Direction: Locate the photographs and confirm date and venue.
 
 ---
@@ -2367,7 +2367,7 @@ Claim: The host says the person that Harry believes he saw coming out of the For
 Transcript Snippet: that he believes he saw coming out of that meeting did happen to be a Las Vegas congressman.
 
 Anchored Artifacts: 
-Mentions: N-3, N-368
+Mentions: N-3, N-365
 Related Nodes: N-11021, N-10887, N-10365
 Investigative Direction: Ask Harry on air to identify the person and check the congressman's public schedule for September 9.
 
@@ -2382,7 +2382,7 @@ Claim: The host wonders whether, when the flight turned back to Reach, the plane
 Transcript Snippet: Again, I can't confirm that because I wasn't these aren't my eyes.
 
 Anchored Artifacts: 
-Mentions: N-3, N-368
+Mentions: N-3, N-365
 Related Nodes: N-11021, N-10887, N-10364
 Investigative Direction: Cross-check the Las Vegas landing records with the congressman's travel on the relevant dates.
 

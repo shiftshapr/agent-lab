@@ -587,8 +587,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-447",
-      "ref": "N-447",
+      "@id": "N-443",
+      "ref": "N-443",
       "name": "Johnny Moore",
       "type": "person",
       "description": "Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kovette/Chyros partnership.",
@@ -603,8 +603,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-444",
-      "ref": "N-444",
+      "@id": "N-440",
+      "ref": "N-440",
       "name": "Christoph Schweizer",
       "type": "person",
       "description": "First named by the host at 00:18:28 in episode 110. Aliases: Kristoff Schweizer, Kristoff Schweiser.",
@@ -626,8 +626,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-458",
-      "ref": "N-458",
+      "@id": "N-454",
+      "ref": "N-454",
       "name": "Leola Anderson",
       "type": "person",
       "description": "First named by the host at 00:37:13 in episode 110.",
@@ -644,8 +644,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
+      "@id": "N-439",
+      "ref": "N-439",
       "name": "Bradley Hansell",
       "type": "person",
       "description": "First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansel, Brad Hansel, Brad Hansell.",
@@ -684,7 +684,7 @@
       "claim_timestamp": "00:13:30",
       "investigative_direction": "Verify the Department of War website listing for Bradley Hansel; cross-check Senate confirmation record and July 25, 2025 swearing-in.",
       "mentions_person_refs": [
-        "N-443"
+        "N-439"
       ]
     },
     {
@@ -702,7 +702,7 @@
       "claim_timestamp": "00:13:30",
       "investigative_direction": "Verify Senate roll-call vote and swearing-in date via official Senate records.",
       "mentions_person_refs": [
-        "N-443"
+        "N-439"
       ]
     },
     {
@@ -719,7 +719,7 @@
       "claim_timestamp": "00:13:45",
       "investigative_direction": "Verify service record via official DoD / Army Special Forces sources.",
       "mentions_person_refs": [
-        "N-443"
+        "N-439"
       ]
     },
     {
@@ -738,7 +738,7 @@
       "claim_timestamp": "00:14:00",
       "investigative_direction": "Verify NSC roster for Trump's first term.",
       "mentions_person_refs": [
-        "N-443"
+        "N-439"
       ]
     },
     {
@@ -758,7 +758,7 @@
       "claim_timestamp": "00:14:10",
       "investigative_direction": "Verify BCG alumni records and LinkedIn-style biographies.",
       "mentions_person_refs": [
-        "N-443"
+        "N-439"
       ]
     },
     {
@@ -863,7 +863,7 @@
       "claim_timestamp": "00:18:30",
       "investigative_direction": "Confirm dismissals and audit via BCG press releases or FT follow-up reporting.",
       "mentions_person_refs": [
-        "N-444"
+        "N-440"
       ]
     },
     {
@@ -882,7 +882,7 @@
       "claim_timestamp": "00:18:30",
       "investigative_direction": "Locate Schweizer's original statement in Financial Times coverage.",
       "mentions_person_refs": [
-        "N-444"
+        "N-440"
       ]
     },
     {
@@ -902,8 +902,8 @@
       "claim_timestamp": "00:20:00",
       "investigative_direction": "Verify appointment date and tenure length (host states Moore \"eventually abandoned the project November\").",
       "mentions_person_refs": [
-        "N-447",
-        "N-444"
+        "N-443",
+        "N-440"
       ]
     },
     {
@@ -922,7 +922,7 @@
       "claim_timestamp": "00:20:00",
       "investigative_direction": "Verify Jake Wood's resignation date and public statement.",
       "mentions_person_refs": [
-        "N-444"
+        "N-440"
       ]
     },
     {
@@ -942,7 +942,7 @@
       "claim_timestamp": "00:18:30",
       "investigative_direction": "Verify BCG-GHF operational scope via FT reporting or leaked BCG documents.",
       "mentions_person_refs": [
-        "N-444"
+        "N-440"
       ]
     },
     {
@@ -977,7 +977,7 @@
       "investigative_direction": "Cross-check NYT article with contemporaneous French press; verify date.",
       "mentions_person_refs": [
         "N-28",
-        "N-458"
+        "N-454"
       ]
     },
     {
@@ -994,7 +994,7 @@
       "claim_timestamp": "00:39:00",
       "investigative_direction": "Cross-check name and role against French archival records; note host's claim that some Mormons believe the priest may have been inebriated but \"that assertion could not be confirmed.\"",
       "mentions_person_refs": [
-        "N-458"
+        "N-454"
       ]
     },
     {
@@ -1110,7 +1110,7 @@
       "claim_timestamp": "00:22:00",
       "investigative_direction": "Verify Orbis involvement via FT reporting or leaked BCG documents.",
       "mentions_person_refs": [
-        "N-444"
+        "N-440"
       ]
     },
     {
@@ -1146,7 +1146,7 @@
       "claim_timestamp": "00:22:00",
       "investigative_direction": "Verify Phil Riley's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting.",
       "mentions_person_refs": [
-        "N-444"
+        "N-440"
       ]
     }
   ],

@@ -268,7 +268,7 @@
           "related_nodes": [
             "N-5",
             "N-1",
-            "N-769"
+            "N-763"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -919,8 +919,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-336",
-      "ref": "N-336",
+      "@id": "N-333",
+      "ref": "N-333",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "DNI named alongside Joe Kent.",
@@ -1007,8 +1007,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-673",
-      "ref": "N-673",
+      "@id": "N-667",
+      "ref": "N-667",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Named by the host regarding Israel investments.",
@@ -1111,8 +1111,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-769",
-      "ref": "N-769",
+      "@id": "N-763",
+      "ref": "N-763",
       "name": "Breland Holland",
       "type": "person",
       "description": "First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.",
@@ -1624,7 +1624,7 @@
         "N-5",
         "N-1",
         "N-3",
-        "N-769"
+        "N-763"
       ]
     },
     {
@@ -1685,7 +1685,7 @@
       "transcript_snippet": "I'm getting the suspicion that there were some foreign entities involved.",
       "mentions_person_refs": [
         "N-213",
-        "N-336",
+        "N-333",
         "N-3"
       ]
     },
@@ -1992,7 +1992,7 @@
       "transcript_snippet": "They understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet",
       "mentions_person_refs": [
         "N-182",
-        "N-673",
+        "N-667",
         "N-33"
       ]
     },

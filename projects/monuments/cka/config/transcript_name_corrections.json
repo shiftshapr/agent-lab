@@ -1,0 +1,22 @@
+{
+  "_doc": "Transcription errors in names, corrected everywhere: transcripts_corrected, drafts (snippets and meme quotes included) and inscriptions. Ruling (Daveed 2026-10-14): a mis-transcribed name is not an alias and must not survive in snippets or quotes; only spellings the host actually says are aliases. Patterns are Python regexes applied in order; keep them word-bounded.",
+  "corrections": [
+    ["\\bFort Wuka\\b", "Fort Huachuca"],
+    ["\\bWuka\\b", "Huachuca"],
+    ["\\bSaucelito\\b", "Sausalito"],
+    ["\\bIke Promoter\\b", "Ike Perlmutter"],
+    ["\\bDon Oro\\b", "Don Orrico"],
+    ["\\bDavid (?:Fraudsham|Rodsham|Frodshem)\\b", "David Frodsham"],
+    ["\\bFraudsham\\b", "Frodsham"],
+    ["\\bEric Bowling\\b", "Eric Bolling"],
+    ["\\bBrendan Tatum\\b", "Brandon Tatum"],
+    ["\\bPhil Turney\\b", "Phil Tourney"],
+    ["\\bPaul (?:E\\. )?Vall?i\\b", "Paul Vallely"],
+    ["\\bIan Carol\\b", "Ian Carroll"],
+    ["\\b(?:Rob|Bob) Koy\\b", "Bob Coy"],
+    ["\\bKaye McAney\\b", "Kayleigh McEnany"],
+    ["\\bKaylee Mcaney\\b", "Kayleigh McEnany"],
+    ["\\bConstantin(?:e)? Kiss(?:en|in)\\b", "Konstantin Kisin"],
+    ["\\bJustin (?:Strife|Stripe|Streif|Strieff)\\b", "Justin Streiff"]
+  ]
+}

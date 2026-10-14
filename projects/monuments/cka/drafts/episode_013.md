@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11269, N-11270, N-11271, N-11272, N-11273, N-11274
-  - Hole-minted Nodes (reintro-ep013): N-197, N-228, N-10158, N-10159, N-10160, N-10209, N-10406
+  - Hole-minted Nodes (reintro-ep013): N-197, N-10158, N-10159, N-10160, N-10209, N-10406
   - Tip-minted Nodes (reintro-ep013): N-11096, N-11103, N-11153, N-11170
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-10771–C-10836
@@ -43,7 +43,7 @@
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
 
-Fourth, a video clip of Benjamin Netanyahu meeting influencer Deborah Lee is read/played, with Netanyahu naming TikTok and X – and Elon Musk – as the principal platforms in a described influence "battle." Fifth, host-read/displayed tweets between Megyn Kelly, "Florida Dab," and Constantine Kissen are used as artifacts to frame pressure on Kelly. Sixth, a producer-supplied note identifying a former IDF soldier as TikTok's new Public Policy Manager of Hate Speech is read aloud.
+Fourth, a video clip of Benjamin Netanyahu meeting influencer Deborah Lee is read/played, with Netanyahu naming TikTok and X – and Elon Musk – as the principal platforms in a described influence "battle." Fifth, host-read/displayed tweets between Megyn Kelly, "Florida Dab," and Konstantin Kisin are used as artifacts to frame pressure on Kelly. Sixth, a producer-supplied note identifying a former IDF soldier as TikTok's new Public Policy Manager of Hate Speech is read aloud.
 
 The episode also contains extensive speculation about overseas "military operation" framing, "Robbie Hild" identity skepticism, and a rumored Tyler Robinson / Mike Mitchell connection; these are recorded here only under Optional Flags for failure to meet the Claim Admission Test.
 
@@ -189,9 +189,9 @@ Confidence Level: High
 
 ---
 
-### A-1203 Constantine Kissen Tweet Bundle
+### A-1203 Konstantin Kisin Tweet Bundle
 
-**A-1203.1** X post by Constantine Kissen addressed to Megyn Kelly: expresses concern with Kelly's refusal to separate from Candace Owens and Tucker Carlson; characterizes their behavior as "extreme and so deranged"
+**A-1203.1** X post by Konstantin Kisin addressed to Megyn Kelly: expresses concern with Kelly's refusal to separate from Candace Owens and Tucker Carlson; characterizes their behavior as "extreme and so deranged"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -201,7 +201,7 @@ Confidence Level: High
 
 *Related: C-1349, N-141, N-46 (Megyn Kelly)*
 
-**A-1203.2** X reply by Megyn Kelly to Constantine Kissen: "The more one insists that I say what one demands me to, the more committed I get in my refusal." (and follow-up: "Your response proves the opposite of what it purports to.")
+**A-1203.2** X reply by Megyn Kelly to Konstantin Kisin: "The more one insists that I say what one demands me to, the more committed I get in my refusal." (and follow-up: "Your response proves the opposite of what it purports to.")
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -775,7 +775,7 @@ Named by the host as the sender of a text resembling Kisin's tweet.
 ---
 
 **N-130** Kayleigh McEnany
-Fox News host the host names (transcribed Kaylee Mcaney, likely Kayleigh McEnany) in the Lyman interview recollection.
+Fox News host the host names (transcribed Kayleigh McEnany, likely Kayleigh McEnany) in the Lyman interview recollection.
 
 *Related: C-10783*
 
@@ -789,7 +789,7 @@ Named by the host as the father of a Horowitz linked to the TikTok deal.
 
 ---
 
-**N-228** Brandon Tatum
+**N-58** Brandon Tatum
 
 Commentator the host says she would not debate.
 
@@ -1272,7 +1272,7 @@ Investigative Direction: Archive the original post; identify the account's opera
 
 Claim Timestamp: 00:35:51
 
-Claim: Megyn Kelly publicly replied to Florida Dab and to Constantine Kissen that she would not separate from or condemn Candace Owens or Tucker Carlson, characterizing the demand as one she would resist.
+Claim: Megyn Kelly publicly replied to Florida Dab and to Konstantin Kisin that she would not separate from or condemn Candace Owens or Tucker Carlson, characterizing the demand as one she would resist.
 
 Anchored Artifacts: A-1202.1, A-1203.2
 Mentions: N-140, N-141, N-46, N-22, N-3
@@ -1282,11 +1282,11 @@ Investigative Direction: Capture full thread context including replies not quote
 
 ---
 
-**C-1349** Constantine Kissen joined the X pressure thread against Megyn Kelly
+**C-1349** Konstantin Kisin joined the X pressure thread against Megyn Kelly
 
 Claim Timestamp: 00:35:51
 
-Claim: Constantine Kissen posted on X to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as "extreme and so deranged" and questioning why Kelly was not confronting them.
+Claim: Konstantin Kisin posted on X to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as "extreme and so deranged" and questioning why Kelly was not confronting them.
 
 Anchored Artifacts: A-1203.1, A-1203.2
 Mentions: N-141, N-22, N-3, N-46
@@ -1564,7 +1564,7 @@ Claim Timestamp: 00:14:45
 
 Claim: The host says Phil Lyman said on a Fox News segment with Kaylee McEnany that he was at a cousin's house watching live and seeing the footage for the first time, while the cousin had already given footage to TMZ.
 
-Transcript Snippet: You were watching it live with Kaylee Mcaney on Fox News. That's what you said during that segment, right?
+Transcript Snippet: You were watching it live with Kayleigh McEnany on Fox News. That's what you said during that segment, right?
 
 Anchored Artifacts: 
 Mentions: N-3, N-61, N-130
@@ -2153,7 +2153,7 @@ Claim: The host says she would debate Patrick Bet-David and Ben Shapiro but not 
 Transcript Snippet: I would debate PBD. I would debate Ben Shapiro. I wouldn't de debate Brandon Tatum because I love Brandon Tatum like a brother.
 
 Anchored Artifacts: A-3103.1
-Mentions: N-97, N-57, N-228, N-3
+Mentions: N-97, N-57, N-58, N-3
 Tags: relevance:context
 Investigative Direction: None needed beyond the audio; check whether any debate was later scheduled.
 

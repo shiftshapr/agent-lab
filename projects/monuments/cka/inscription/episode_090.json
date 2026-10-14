@@ -370,7 +370,7 @@
             "N-3",
             "N-40",
             "N-69",
-            "N-388"
+            "N-384"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -452,7 +452,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-430"
+            "N-426"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -868,8 +868,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-430",
-      "ref": "N-430",
+      "@id": "N-426",
+      "ref": "N-426",
       "name": "Pope Leo XIV",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 90. Aliases: Pope Leo, Pope Leo the 14th, His Holiness Pope Leo, Leo XIV.",
@@ -888,8 +888,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-431",
-      "ref": "N-431",
+      "@id": "N-427",
+      "ref": "N-427",
       "name": "Doug Terry",
       "type": "person",
       "description": "First named by the host at 00:33:31 in episode 90.",
@@ -960,8 +960,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-616",
-      "ref": "N-616",
+      "@id": "N-611",
+      "ref": "N-611",
       "name": "Caleb Robinson",
       "type": "person",
       "description": "Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (ADF board seat).",
@@ -1148,8 +1148,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-248",
+      "ref": "N-248",
       "name": "Mark Levin",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1165,8 +1165,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-278",
-      "ref": "N-278",
+      "@id": "N-276",
+      "ref": "N-276",
       "name": "Nate Brooksby",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1184,8 +1184,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1201,8 +1201,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-372",
-      "ref": "N-372",
+      "@id": "N-369",
+      "ref": "N-369",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Daily Wire employee the host describes as Erika's ex-boyfriend and the subject of the playground encounter.",
@@ -1221,8 +1221,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-371",
+      "ref": "N-371",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1238,8 +1238,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-388",
-      "ref": "N-388",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1255,8 +1255,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-787",
-      "ref": "N-787",
+      "@id": "N-781",
+      "ref": "N-781",
       "name": "Paula White",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-826",
-      "ref": "N-826",
+      "@id": "N-819",
+      "ref": "N-819",
       "name": "Mike Smith",
       "type": "person",
       "description": "Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby's call about Mike Mitchell).",
@@ -1690,8 +1690,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-827",
-      "ref": "N-827",
+      "@id": "N-820",
+      "ref": "N-820",
       "name": "Bishop Barron",
       "type": "person",
       "description": "Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula White during the prayer). Transcript spelling: Bishop Barron.",
@@ -1724,7 +1724,7 @@
       "investigative_direction": "Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records.",
       "mentions_person_refs": [
         "N-40",
-        "N-431"
+        "N-427"
       ]
     },
     {
@@ -1742,7 +1742,7 @@
       "investigative_direction": "Verify attorney representation records and the authenticity of the cited interview timestamp.",
       "mentions_person_refs": [
         "N-40",
-        "N-431"
+        "N-427"
       ]
     },
     {
@@ -1839,7 +1839,7 @@
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure.",
       "mentions_person_refs": [
-        "N-616"
+        "N-611"
       ]
     },
     {
@@ -1856,7 +1856,7 @@
       "claim_timestamp": "00:52:54",
       "investigative_direction": "Retrieve the original Truth Social post and engagement metrics.",
       "mentions_person_refs": [
-        "N-430"
+        "N-426"
       ]
     },
     {
@@ -1873,7 +1873,7 @@
       "claim_timestamp": "00:57:23",
       "investigative_direction": "Obtain the original Vatican source video and transcript.",
       "mentions_person_refs": [
-        "N-430"
+        "N-426"
       ]
     },
     {
@@ -1890,7 +1890,7 @@
       "claim_timestamp": "00:59:24",
       "investigative_direction": "Verify clip against White House press transcript.",
       "mentions_person_refs": [
-        "N-430"
+        "N-426"
       ]
     },
     {
@@ -1987,7 +1987,7 @@
       "claim_timestamp": "00:51:46–00:58:29",
       "investigative_direction": "Cross-reference dates with Vatican liturgical calendar and Truth Social post timestamps.",
       "mentions_person_refs": [
-        "N-430"
+        "N-426"
       ]
     },
     {
@@ -2048,9 +2048,9 @@
       "transcript_snippet": "Erika's ex-boyfriend, one of the many, uh current Daily Wire employee, who was featured on my podcast when Mitch gave a description of the guy that he believed that he saw with Erika at Fort Huachuca",
       "mentions_person_refs": [
         "N-3",
-        "N-372",
+        "N-369",
         "N-2",
-        "N-369"
+        "N-366"
       ]
     },
     {
@@ -2071,7 +2071,7 @@
       "transcript_snippet": "You will recall that I texted Cabot Phillips before we mentioned him on the podcast, looking for a simple yes or no response.",
       "mentions_person_refs": [
         "N-3",
-        "N-372"
+        "N-369"
       ]
     },
     {
@@ -2090,7 +2090,7 @@
       "transcript_snippet": "he goes, oh, really? Because of you, people don't believe that he is my son. Okay.",
       "mentions_person_refs": [
         "N-3",
-        "N-372"
+        "N-369"
       ]
     },
     {
@@ -2109,7 +2109,7 @@
       "transcript_snippet": "I want to also state that I believe that that is Cabot Phillips' child. I never made the claim otherwise",
       "mentions_person_refs": [
         "N-3",
-        "N-372"
+        "N-369"
       ]
     },
     {
@@ -2472,7 +2472,7 @@
       "transcript_snippet": "even Jeremy Boring when he went on his like Candace tour, uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on Piers Morgan.",
       "mentions_person_refs": [
         "N-3",
-        "N-374",
+        "N-371",
         "N-208",
         "N-1",
         "N-97"
@@ -2545,7 +2545,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-616",
+        "N-611",
         "N-166",
         "N-14",
         "N-1"
@@ -2648,7 +2648,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-616"
+        "N-611"
       ]
     },
     {
@@ -2676,7 +2676,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-616"
+        "N-611"
       ]
     },
     {
@@ -2717,7 +2717,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-46",
-        "N-249",
+        "N-248",
         "N-97"
       ]
     },
@@ -2904,7 +2904,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-69",
-        "N-388",
+        "N-384",
         "N-40"
       ]
     },
@@ -2980,7 +2980,7 @@
       "transcript_snippet": "then we have uh Sheriff Broxby, which we will get from a a later press conference. He will say that that's when he received the phone call from Mike Mitchell",
       "mentions_person_refs": [
         "N-3",
-        "N-278",
+        "N-276",
         "N-126",
         "N-40"
       ]
@@ -3003,8 +3003,8 @@
       "transcript_snippet": "And um then Sheriff Broxby calls the Utah County Sheriff Mike Smith to tell him about the call that he just got from Mike Mitchell.",
       "mentions_person_refs": [
         "N-3",
-        "N-278",
-        "N-826",
+        "N-276",
+        "N-819",
         "N-126"
       ]
     },
@@ -3028,7 +3028,7 @@
       "transcript_snippet": "They tell us that 9:00 that Tyler arrives at the police station. That's according to the press conference that is given by Sheriff Nate Broxby.",
       "mentions_person_refs": [
         "N-3",
-        "N-278",
+        "N-276",
         "N-40",
         "N-69"
       ]
@@ -3373,7 +3373,7 @@
         "N-3",
         "N-60",
         "N-5",
-        "N-787"
+        "N-781"
       ]
     },
     {
@@ -3398,7 +3398,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-430"
+        "N-426"
       ]
     },
     {
@@ -3423,7 +3423,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-430"
+        "N-426"
       ]
     },
     {
@@ -3442,8 +3442,8 @@
       "transcript_snippet": "Bishop Barron standing beside Paula White during that prayer, and his excuse is why he was there.",
       "mentions_person_refs": [
         "N-3",
-        "N-827",
-        "N-787",
+        "N-820",
+        "N-781",
         "N-5"
       ]
     },
@@ -3466,7 +3466,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-430"
+        "N-426"
       ]
     },
     {
@@ -3488,7 +3488,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-430"
+        "N-426"
       ]
     },
     {

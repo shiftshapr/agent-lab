@@ -797,8 +797,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -830,8 +830,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-388",
-      "ref": "N-388",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Reused; first introduced in episode 15.",
@@ -847,8 +847,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-518",
-      "ref": "N-518",
+      "@id": "N-513",
+      "ref": "N-513",
       "name": "Beau Mason",
       "type": "person",
       "description": "First named by the host at 00:08:44 in episode 128. Aliases: Bo Mason, Beau \"Bo\" Mason.",
@@ -874,8 +874,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-516",
-      "ref": "N-516",
+      "@id": "N-511",
+      "ref": "N-511",
       "name": "Jennifer Faumuina",
       "type": "person",
       "description": "Named by the host at 00:15:24 in episode 128; first introduced in episode 126.",
@@ -901,8 +901,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-520",
-      "ref": "N-520",
+      "@id": "N-515",
+      "ref": "N-515",
       "name": "Misiona Faumuina",
       "type": "person",
       "description": "First named by the host at 00:23:06 in episode 128.",
@@ -928,8 +928,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-519",
-      "ref": "N-519",
+      "@id": "N-514",
+      "ref": "N-514",
       "name": "Sapena Faumuina",
       "type": "person",
       "description": "First named by the host at 00:23:06 in episode 128.",
@@ -954,8 +954,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-521",
-      "ref": "N-521",
+      "@id": "N-516",
+      "ref": "N-516",
       "name": "Sid Rosen",
       "type": "person",
       "description": "First named by the host at 00:24:14 in episode 128.",
@@ -1044,7 +1044,7 @@
       "mentions_person_refs": [
         "N-41",
         "N-69",
-        "N-518"
+        "N-513"
       ]
     },
     {
@@ -1064,7 +1064,7 @@
       "investigative_direction": "Compare the publicly released footage metadata against Bongino's \"grainy\" characterization and review any subsequent enhanced-release footage for consistency.",
       "mentions_person_refs": [
         "N-46",
-        "N-388"
+        "N-384"
       ]
     },
     {
@@ -1083,10 +1083,10 @@
       "claim_timestamp": "00:16:37",
       "investigative_direction": "Confirm the Netflix episode metadata, Faumuina's on-screen identification, and the period of her JTTF assignment against official FBI or Utah SBI records.",
       "mentions_person_refs": [
-        "N-518",
-        "N-516",
-        "N-520",
-        "N-519"
+        "N-513",
+        "N-511",
+        "N-515",
+        "N-514"
       ]
     },
     {
@@ -1103,10 +1103,10 @@
       "claim_timestamp": "00:17:38",
       "investigative_direction": "Identify the specific school and roster, and cross-reference yearbook or athletics records.",
       "mentions_person_refs": [
-        "N-518",
-        "N-516",
-        "N-520",
-        "N-519"
+        "N-513",
+        "N-511",
+        "N-515",
+        "N-514"
       ]
     },
     {
@@ -1123,10 +1123,10 @@
       "claim_timestamp": "00:17:38",
       "investigative_direction": "Confirm against Weber State graduation records or alumni listings.",
       "mentions_person_refs": [
-        "N-518",
-        "N-516",
-        "N-520",
-        "N-519"
+        "N-513",
+        "N-511",
+        "N-515",
+        "N-514"
       ]
     },
     {
@@ -1143,10 +1143,10 @@
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Verify through DPS academy records and class photographs.",
       "mentions_person_refs": [
-        "N-518",
-        "N-516",
-        "N-520",
-        "N-519"
+        "N-513",
+        "N-511",
+        "N-515",
+        "N-514"
       ]
     },
     {
@@ -1163,10 +1163,10 @@
       "claim_timestamp": "00:18:29",
       "investigative_direction": "Confirm the original article, deployment list, and credentialing records.",
       "mentions_person_refs": [
-        "N-518",
-        "N-516",
-        "N-520",
-        "N-519"
+        "N-513",
+        "N-511",
+        "N-515",
+        "N-514"
       ]
     },
     {
@@ -1183,10 +1183,10 @@
       "claim_timestamp": "00:18:29",
       "investigative_direction": "Request Utah state salary records to verify employment dates and rank progression.",
       "mentions_person_refs": [
-        "N-518",
-        "N-516",
-        "N-520",
-        "N-519"
+        "N-513",
+        "N-511",
+        "N-515",
+        "N-514"
       ]
     },
     {
@@ -1203,10 +1203,10 @@
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Verify the photograph and underlying academy/class record.",
       "mentions_person_refs": [
-        "N-518",
-        "N-516",
-        "N-520",
-        "N-519"
+        "N-513",
+        "N-511",
+        "N-515",
+        "N-514"
       ]
     },
     {
@@ -1223,10 +1223,10 @@
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Confirm the date and ceremony through Utah DPS press releases.",
       "mentions_person_refs": [
-        "N-518",
-        "N-516",
-        "N-520",
-        "N-519"
+        "N-513",
+        "N-511",
+        "N-515",
+        "N-514"
       ]
     },
     {
@@ -1246,8 +1246,8 @@
       "investigative_direction": "Verify appointment through the official Utah governor's office announcement or Senate confirmation record.",
       "mentions_person_refs": [
         "N-41",
-        "N-518",
-        "N-516"
+        "N-513",
+        "N-511"
       ]
     },
     {
@@ -1338,10 +1338,10 @@
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Obtain original Honolulu-area news archives and Hawaii court records for the criminal case.",
       "mentions_person_refs": [
-        "N-518",
-        "N-516",
-        "N-520",
-        "N-519"
+        "N-513",
+        "N-511",
+        "N-515",
+        "N-514"
       ]
     },
     {
@@ -1358,9 +1358,9 @@
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Retrieve original newspaper articles and any LDS Church ward records.",
       "mentions_person_refs": [
-        "N-516",
-        "N-520",
-        "N-519"
+        "N-511",
+        "N-515",
+        "N-514"
       ]
     },
     {
@@ -1377,8 +1377,8 @@
       "claim_timestamp": "00:25:35",
       "investigative_direction": "Verify the organization and Rosen's role through Hawaii nonprofit filings.",
       "mentions_person_refs": [
-        "N-520",
-        "N-521"
+        "N-515",
+        "N-516"
       ]
     },
     {
@@ -1397,7 +1397,7 @@
       "claim_timestamp": "00:31:07",
       "investigative_direction": "Obtain the unedited podcast audio and any hospital records documenting arrival time, condition, and treatment.",
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-7"
       ]
     },

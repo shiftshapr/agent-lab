@@ -62,7 +62,7 @@ It was a disastrous PR campaign altogether that week, which ended with her along
 
 [06:19]
 
-Um you know, it's just it's she's kind of just more kind of be the icon, and Justin Streif is probably going to be running things behind the scenes. So, I was very caught off guard and surprised when during our meeting, out of nowhere, they pulled out a piece of paper, which they had printed out, and they said, "Oh, this is a transcript, a transcript of what Charlie said when he named Erika, said that he wanted Erika to take over for him in the event that he dies." I was like, "Huh?" And they were they were they were going to hand me the transcript. I was like, "I I mean I I I haven't even talked about this at all on my show. I don't need that." And I was surprised because I didn't ask for it. I didn't ask for proof of that.
+Um you know, it's just it's she's kind of just more kind of be the icon, and Justin Streiff is probably going to be running things behind the scenes. So, I was very caught off guard and surprised when during our meeting, out of nowhere, they pulled out a piece of paper, which they had printed out, and they said, "Oh, this is a transcript, a transcript of what Charlie said when he named Erika, said that he wanted Erika to take over for him in the event that he dies." I was like, "Huh?" And they were they were they were going to hand me the transcript. I was like, "I I mean I I I haven't even talked about this at all on my show. I don't need that." And I was surprised because I didn't ask for it. I didn't ask for proof of that.
 
 [07:00]
 

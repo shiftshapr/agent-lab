@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-10668, N-10669
-  - Hole-minted Nodes (wave3): N-443, N-444, N-458
+  - Hole-minted Nodes (wave3): N-439, N-440, N-454
   - Reused Nodes Appearing: N-28, N-10671, N-10675, N-10670, N-10672, N-10673, N-10674
   - (see registers)
 
@@ -37,7 +37,7 @@
 
 ## II. Executive Summary
 
-This episode presents the host's announcement that Bradley Hansel, the Under Secretary of War for Intelligence and Security, has been identified as a VIP aboard the Air Force designation SAM702 on the morning of September 9, 2025, departing Fort Huachuca (transcribed as "Fort Wuka") for El Paso, Texas. Hansel's prior career at the Boston Consulting Group (BCG) is positioned alongside the host's prior assertions that Mitt Romney and Benjamin Netanyahu both worked at BCG, and Bain Capital was seeded by Robert Maxwell.
+This episode presents the host's announcement that Bradley Hansel, the Under Secretary of War for Intelligence and Security, has been identified as a VIP aboard the Air Force designation SAM702 on the morning of September 9, 2025, departing Fort Huachuca (transcribed as "Fort Huachuca") for El Paso, Texas. Hansel's prior career at the Boston Consulting Group (BCG) is positioned alongside the host's prior assertions that Mitt Romney and Benjamin Netanyahu both worked at BCG, and Bain Capital was seeded by Robert Maxwell.
 
 The host reads at length from a website summarizing Financial Times reporting on BCG's "Project Aurora" – a consultancy for the Gaza Humanitarian Foundation that produced relocation models for Palestinians (totaling $2.5–5 billion) – and references a Times of Israel article on Johnny Moore's appointment to chair the foundation after Jake Wood's resignation and BCG's withdrawal. A displayed connection graphic and an internal working timeline (June–September 2025) accompany the discussion, the latter anchoring dates such as Erika Kirk's June 19 Instagram purge of 126 posts and Palantir's July 30 announcement of a $10B military software deal with Fort Huachuca stationing. Mitt Romney's June 16, 1968 France car crash is presented via a NYT article, and a viewer comment referencing Romney's "Pierre Deleto" burner X account is read.
 
@@ -127,7 +127,7 @@ Confidence Level: High (government source)
 
 **A-2080.1** Article (host references "elsewhere"): $10B Palantir military software enterprise deal and stationing at Fort Huachuca
 
-Host reads/quote-marks: "Big shakeup in software buying practices starting with a new $10 billion enterprise deal with Palantir. And it tells us elsewhere that they will be moving on to Fort Wuka's base."
+Host reads/quote-marks: "Big shakeup in software buying practices starting with a new $10 billion enterprise deal with Palantir. And it tells us elsewhere that they will be moving on to Fort Huachuca's base."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -205,19 +205,19 @@ Confidence Level: Low (host acknowledges no independent confirmation)
 
 ## IV. Node Register
 
-**N-443** Bradley Hansell
+**N-439** Bradley Hansell
 
 First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansel, Brad Hansel, Brad Hansell.
 
 *Related: C-2909, C-2910, C-2911, C-2912, C-2913, A-2076.1, A-2079.1*
 
-**N-444** Christoph Schweizer
+**N-440** Christoph Schweizer
 
 First named by the host at 00:18:28 in episode 110. Aliases: Kristoff Schweizer, Kristoff Schweiser.
 
 *Related: C-2919, C-2920, C-2921, C-2922, C-2923, C-2932, C-2934*
 
-**N-458** Leola Anderson
+**N-454** Leola Anderson
 
 First named by the host at 00:37:13 in episode 110.
 
@@ -348,7 +348,7 @@ Claim Timestamp: 00:13:30
 Claim: Per the Department of War website, Bradley Hansel exercises authority, direction, and control over all intelligence and security organizations in the Department of War on behalf of the Secretary of War.
 
 Anchored Artifacts: A-2079.1
-Mentions: N-443
+Mentions: N-439
 
 Related Nodes: N-10668
 
@@ -363,7 +363,7 @@ Claim Timestamp: 00:13:30
 Claim: Per host, Hansel was nominated by Trump and confirmed by the Senate, then sworn in on July 25, 2025.
 
 Anchored Artifacts: A-2076.2, A-2079.1
-Mentions: N-443
+Mentions: N-439
 
 Related Nodes:
 
@@ -378,7 +378,7 @@ Claim Timestamp: 00:13:45
 Claim: Per host, after serving in the Navy and Army Special Forces Airborne Division, Hansel went to work for the Boston Consulting Group.
 
 Anchored Artifacts: A-2079.1
-Mentions: N-443
+Mentions: N-439
 
 Related Nodes:
 
@@ -393,7 +393,7 @@ Claim Timestamp: 00:14:00
 Claim: Per host, Hansel was picked to work under Trump's first administration as a member of the National Security Council as Special Assistant to President Donald J. Trump for National Security Affairs.
 
 Anchored Artifacts: A-2079.1
-Mentions: N-443
+Mentions: N-439
 
 Related Nodes: N-10668
 
@@ -408,7 +408,7 @@ Claim Timestamp: 00:14:10
 Claim: Per host, Hansel worked at the Boston Consulting Group both after his military service and after Trump's first term (returning as a principal of the firm).
 
 Anchored Artifacts: A-2076.1, A-2079.1
-Mentions: N-443
+Mentions: N-439
 
 Related Nodes: N-10668
 
@@ -493,7 +493,7 @@ Claim Timestamp: 00:18:30
 Claim: Per host reading, BCG dismissed two partners and launched an external audit in July 2025 after the Financial Times story.
 
 Anchored Artifacts: A-2077.1
-Mentions: N-444
+Mentions: N-440
 
 Related Nodes: N-10669
 
@@ -508,7 +508,7 @@ Claim Timestamp: 00:18:30
 Claim: Per host reading, BCG CEO Kristoff Schweizer described the Project Aurora episode as "reputationally very damaging."
 
 Anchored Artifacts: A-2077.1
-Mentions: N-444
+Mentions: N-440
 
 Related Nodes: N-10669
 
@@ -523,7 +523,7 @@ Claim Timestamp: 00:20:00
 Claim: Per Times of Israel article referenced by host, Johnny Moore was appointed executive chairman of the Gaza Humanitarian Foundation after Jake Wood's resignation and BCG's withdrawal.
 
 Anchored Artifacts: A-2076.2, A-2078.1
-Mentions: N-447, N-444
+Mentions: N-443, N-440
 
 Related Nodes: N-10670
 
@@ -538,7 +538,7 @@ Claim Timestamp: 00:20:00
 Claim: Per Times of Israel article referenced by host, GHF's previous CEO Jake Wood quit prior to BCG's withdrawal from the project.
 
 Anchored Artifacts: A-2078.1
-Mentions: N-444
+Mentions: N-440
 
 Related Nodes: N-10670
 
@@ -553,7 +553,7 @@ Claim Timestamp: 00:18:30
 Claim: Per host, BCG helped develop the logistics, the organizational structure, and the pricing for paying and equipping private security contractors to operate the food distribution hubs in Gaza for the GHF.
 
 Anchored Artifacts: A-2076.1, A-2077.1
-Mentions: N-444
+Mentions: N-440
 
 Related Nodes: N-10670
 
@@ -582,7 +582,7 @@ Claim Timestamp: 00:37:50
 Claim: Per NYT article, on June 16, 1968, Mitt Romney was driving a car in southern France that was hit head-on; H. Dwayne Anderson's wife Leola was killed.
 
 Anchored Artifacts: A-2081.1
-Mentions: N-28, N-458
+Mentions: N-28, N-454
 
 Related Nodes:
 
@@ -597,7 +597,7 @@ Claim Timestamp: 00:39:00
 Claim: Per NYT article, the driver of the car that struck Romney's was a 46-year-old man, Albert Marie, a Catholic priest.
 
 Anchored Artifacts: A-2081.1
-Mentions: N-458
+Mentions: N-454
 
 Related Nodes:
 
@@ -687,7 +687,7 @@ Claim Timestamp: 00:22:00
 Claim: Per the displayed on-screen graphic and host description, Orbis – a Washington-area security contractor – initially engaged BCG to help with a feasibility study for a new aid project.
 
 Anchored Artifacts: A-2076.1
-Mentions: N-444
+Mentions: N-440
 
 Related Nodes: N-10670
 
@@ -716,7 +716,7 @@ Claim Timestamp: 00:22:00
 Claim: Per the displayed on-screen graphic and host description, BCG was chosen as Project Aurora consultant because of its long-standing relationship with Phil Riley, an ex-CIA operative who worked for Orbis.
 
 Anchored Artifacts: A-2076.1
-Mentions: N-444
+Mentions: N-440
 
 Related Nodes: N-10670
 
@@ -741,7 +741,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-1. **Name uncertainty – "Fort Wuka" / "Fort Huachuca":** Host consistently transcribes Fort Huachuca as "Fort Wuka." Preserved as "Fort Wuka" where quoting host; standard spelling used elsewhere.
+1. **Name uncertainty – "Fort Huachuca" / "Fort Huachuca":** Host consistently transcribes Fort Huachuca as "Fort Huachuca." Preserved as "Fort Huachuca" where quoting host; standard spelling used elsewhere.
 
 2. **Name uncertainty – "Pete Hexath" / "Pete Hexths":** Host transcribes Pete Hegseth as "Pete Hexath" / "Pete Hexths." Preserved with flag; standard spelling Pete Hegseth used for node name with notation.
 

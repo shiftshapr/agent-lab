@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
  - New Nodes Introduced: N-10599, N-10600, N-10601, N-10602, N-10603, N-10604, N-10605, N-10606
- - Hole-minted Nodes (wave3): N-432, N-433
+ - Hole-minted Nodes (wave3): N-428, N-429
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
  - (see registers)
 
@@ -161,13 +161,13 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ## IV. Node Register
 
-**N-432** Jimmy Cherizier
+**N-428** Jimmy Cherizier
 
 First named by the host at 00:27:14 in episode 91.
 
 *Related: C-2705, C-2716*
 
-**N-433** Daniel Horner
+**N-429** Daniel Horner
 
 First named by the host at 00:32:24 in episode 91.
 
@@ -387,7 +387,7 @@ Claim Timestamp: 00:27:14
 Claim: Corby Hall's written statement documents that Victor Marx stated his team was going to capture or execute Jimmy Barbecue, then the top gang leader of Haiti.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-432
+Mentions: N-428
 
 Related Nodes: N-10602
 
@@ -402,7 +402,7 @@ Claim Timestamp: 00:33:10
 Claim: Corby Hall's written statement documents that Victor Marx stated he was discussing the acquisition of Fold AR with Sig Sauer, and that Sig Sauer's top shooter Daniel Horner had tested the Fold AR and given a "thumbs up."
 
 Anchored Artifacts: A-1958.1
-Mentions: N-433
+Mentions: N-429
 
 Related Nodes: N-10600
 
@@ -545,7 +545,7 @@ Claim Timestamp: 00:28:28
 Claim: CBN News aired a report stating that Victor Marx met with Haitian gang leader Jimmy Barbecue (Cherizier), who subsequently pledged to protect orphanages and Christian workers; Marx is shown praying with him and the FAA is reported to have banned US flights to Haiti after three planes were hit by gunfire.
 
 Anchored Artifacts: A-1960.1
-Mentions: N-432
+Mentions: N-428
 
 Related Nodes: N-10602
 

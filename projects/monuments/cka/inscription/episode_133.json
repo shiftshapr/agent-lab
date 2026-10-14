@@ -1197,8 +1197,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-360",
-      "ref": "N-360",
+      "@id": "N-357",
+      "ref": "N-357",
       "name": "Steve Wynn",
       "type": "person",
       "description": "Named by the host as a billionaire guest at the Aspen fundraiser.",
@@ -1214,8 +1214,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Host says he built a website on the case.",
@@ -1248,8 +1248,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-420",
-      "ref": "N-420",
+      "@id": "N-416",
+      "ref": "N-416",
       "name": "Zachariah Karashy",
       "type": "person",
       "description": "Man the host says was detained and released after the shooting; she raises his father's military app.",
@@ -1267,8 +1267,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-440",
-      "ref": "N-440",
+      "@id": "N-436",
+      "ref": "N-436",
       "name": "Brad Parscale",
       "type": "person",
       "description": "Host recalls meeting him years ago.",
@@ -1304,8 +1304,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-504",
-      "ref": "N-504",
+      "@id": "N-499",
+      "ref": "N-499",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "TPUSA chief marketing officer named by the host as scheduled for the White House meeting.",
@@ -1321,8 +1321,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-505",
-      "ref": "N-505",
+      "@id": "N-500",
+      "ref": "N-500",
       "name": "\"Frank\" (TPUSA General Counsel)",
       "type": "person",
       "description": "In-house legal counsel named by the host as scheduled for the White House meeting.",
@@ -1338,8 +1338,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-540",
-      "ref": "N-540",
+      "@id": "N-535",
+      "ref": "N-535",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Epstein associate whom the host describes in her Phelan manifest discussion.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-581",
-      "ref": "N-581",
+      "@id": "N-576",
+      "ref": "N-576",
       "name": "Faith Kates",
       "type": "person",
       "description": "Head of the modeling firm the host ties to Brunel and Erika Kirk.",
@@ -1409,8 +1409,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-794",
-      "ref": "N-794",
+      "@id": "N-788",
+      "ref": "N-788",
       "name": "Mitchell Curtis",
       "type": "person",
       "description": "First named by the host at 00:21:00 in episode 133; she says he is a Pleasant Grove officer and 2025 UVU graduate who found the gun.",
@@ -1428,8 +1428,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-795",
-      "ref": "N-795",
+      "@id": "N-789",
+      "ref": "N-789",
       "name": "Foster Curtis",
       "type": "person",
       "description": "First named by the host at 00:21:00 in episode 133; she says he is Mitchell Curtis's father, a 21-year NCIS veteran.",
@@ -1448,8 +1448,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-796",
-      "ref": "N-796",
+      "@id": "N-790",
+      "ref": "N-790",
       "name": "James Osuna",
       "type": "person",
       "description": "First named by the host at 00:22:40 in episode 133; she says he was Richmond's inspector general for six years before being fired.",
@@ -1465,8 +1465,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-797",
-      "ref": "N-797",
+      "@id": "N-791",
+      "ref": "N-791",
       "name": "John C. Phelan",
       "type": "person",
       "description": "First named by the host at 00:27:47 in episode 133 (transcript spelling 'felon failen'); Secretary of the Navy.",
@@ -1682,7 +1682,7 @@
       "claim_timestamp": "00:30:41–00:31:35",
       "investigative_direction": "Verify against released October 2025 House Committee manifest documents and cross-reference Brunel's known 2006 travel.",
       "mentions_person_refs": [
-        "N-540"
+        "N-535"
       ]
     },
     {
@@ -1775,7 +1775,7 @@
       "@id": "C-7352",
       "ref": "C-7352",
       "label": "Host Says White House Employee Confirmed a Kolvet White House Meeting",
-      "claim": "The host says a White House employee confirmed to her that a White House meeting was on the books for Andrew Kolvet, the TPUSA chief marketing officer, the chief operating officer Justin Strife and in-house counsel Frank, and that it fell on or near the day Benjamin Netanyahu was in town.",
+      "claim": "The host says a White House employee confirmed to her that a White House meeting was on the books for Andrew Kolvet, the TPUSA chief marketing officer, the chief operating officer Justin Streiff and in-house counsel Frank, and that it fell on or near the day Benjamin Netanyahu was in town.",
       "anchored_artifacts": [
         "A-2873.1"
       ],
@@ -1792,9 +1792,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-504",
+        "N-499",
         "N-15",
-        "N-505",
+        "N-500",
         "N-36"
       ]
     },
@@ -1885,7 +1885,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-420"
+        "N-416"
       ]
     },
     {
@@ -1907,7 +1907,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-42",
-        "N-420"
+        "N-416"
       ]
     },
     {
@@ -1925,13 +1925,13 @@
       ],
       "claim_timestamp": "00:04:08",
       "investigative_direction": "Check DoD contract awards, SAM.gov and company filings for the Karashy family's app company and any Fort Huachuca work.",
-      "transcript_snippet": "this kid who has got a father who is a career military man who owns and operates a military app tied to operations, tied to Fort Wuka, got a bunch of money from the DoD.",
+      "transcript_snippet": "this kid who has got a father who is a career military man who owns and operates a military app tied to operations, tied to Fort Huachuca, got a bunch of money from the DoD.",
       "supports_claim_refs": [
         "C-2655"
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-420"
+        "N-416"
       ]
     },
     {
@@ -2285,7 +2285,7 @@
       "transcript_snippet": "I'm told Mitchell Curtis of Pleasant Grove Police, 2025 graduate, very young buck.",
       "mentions_person_refs": [
         "N-3",
-        "N-794"
+        "N-788"
       ]
     },
     {
@@ -2309,8 +2309,8 @@
       "transcript_snippet": "His father's name is Foster Curtis. Foster lives in Virginia. Foster spent 21 years with NCIS, starting as a special agent",
       "mentions_person_refs": [
         "N-3",
-        "N-794",
-        "N-795"
+        "N-788",
+        "N-789"
       ]
     },
     {
@@ -2354,7 +2354,7 @@
       "transcript_snippet": "Foster Curtis after 21 years decided to leave his position as a division chief and to be Richmond, Virginia's interim inspector general.",
       "mentions_person_refs": [
         "N-3",
-        "N-795"
+        "N-789"
       ]
     },
     {
@@ -2377,8 +2377,8 @@
       "transcript_snippet": "No comments will be made on personnel matters and NDAs were signed.",
       "mentions_person_refs": [
         "N-3",
-        "N-796",
-        "N-795"
+        "N-790",
+        "N-789"
       ]
     },
     {
@@ -2400,8 +2400,8 @@
       "transcript_snippet": "We can now add Mitch and Foster.",
       "mentions_person_refs": [
         "N-3",
-        "N-794",
-        "N-795"
+        "N-788",
+        "N-789"
       ]
     },
     {
@@ -2423,7 +2423,7 @@
       "transcript_snippet": "Trump appointed a guy with literally zero military experience into that position.",
       "mentions_person_refs": [
         "N-3",
-        "N-797",
+        "N-791",
         "N-5"
       ]
     },
@@ -2445,9 +2445,9 @@
       "transcript_snippet": "by hosting this private fundraiser for Trump in Aspen, which featured billionaire guests like Steve Win in attendance.",
       "mentions_person_refs": [
         "N-3",
-        "N-797",
+        "N-791",
         "N-5",
-        "N-360"
+        "N-357"
       ]
     },
     {
@@ -2473,7 +2473,7 @@
         "N-3",
         "N-9",
         "N-5",
-        "N-797"
+        "N-791"
       ]
     },
     {
@@ -2494,7 +2494,7 @@
       "transcript_snippet": "he's the second one who probably didn't kill himself, but did end up hung in a prison.",
       "mentions_person_refs": [
         "N-3",
-        "N-540",
+        "N-535",
         "N-9"
       ]
     },
@@ -2516,7 +2516,7 @@
       "transcript_snippet": "sent Jeffrey Epstein, I think is it 8-year-old triplets for his birthday?",
       "mentions_person_refs": [
         "N-3",
-        "N-540",
+        "N-535",
         "N-9"
       ]
     },
@@ -2538,8 +2538,8 @@
       "transcript_snippet": "also happened to start um be one of the founders of that firm that was run by Faith Kates",
       "mentions_person_refs": [
         "N-3",
-        "N-540",
-        "N-581"
+        "N-535",
+        "N-576"
       ]
     },
     {
@@ -2564,7 +2564,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-581"
+        "N-576"
       ]
     },
     {
@@ -2672,10 +2672,10 @@
       ],
       "claim_timestamp": "00:45:58",
       "investigative_direction": "Identify the website and its authorship.",
-      "transcript_snippet": "Ian Carol put together um an entire website.",
+      "transcript_snippet": "Ian Carroll put together um an entire website.",
       "mentions_person_refs": [
         "N-3",
-        "N-384"
+        "N-131"
       ]
     },
     {
@@ -2760,7 +2760,7 @@
       "transcript_snippet": "Brad and I had a friendly relationship.",
       "mentions_person_refs": [
         "N-3",
-        "N-440"
+        "N-436"
       ]
     },
     {

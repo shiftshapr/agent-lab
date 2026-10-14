@@ -202,10 +202,10 @@ Video Timestamp: 00:56:04–00:56:22
 Transcript Snippet: I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,
 Confidence: medium
 
-**A-2516.2** Host statement that Netanyahu appeared on Patrick Bet-David's, Brendan Tatum's and the Nelk Boys' podcasts but not the Charlie Kirk Show (verbal reference; no displayed artifact)
+**A-2516.2** Host statement that Netanyahu appeared on Patrick Bet-David's, Brandon Tatum's and the Nelk Boys' podcasts but not the Charlie Kirk Show (verbal reference; no displayed artifact)
 Video Timestamp: 00:57:59–00:58:24
 *Related: C-3722, N-1, N-36, N-57, N-58, N-59*
-Transcript Snippet: He went on to Brendan Tatum's podcast. He went on to the Nel Boys podcast.
+Transcript Snippet: He went on to Brandon Tatum's podcast. He went on to the Nel Boys podcast.
 Confidence: medium
 
 **A-2516.3** Host recollection of the Sarah Stockton ring debate among Hamptons attendees (verbal reference; no displayed artifact)
@@ -371,7 +371,7 @@ Podcaster Netanyahu appeared on.
 
 ---
 
-**N-58** Brendan Tatum
+**N-58** Brandon Tatum
 
 Node Type: Person
 Podcaster Netanyahu appeared on.
@@ -1064,8 +1064,8 @@ Investigative Direction: Locate the Brian Mast remarks the tweet responded to an
 **C-3722** Netanyahu podcast blitz skipped the Charlie Kirk Show
 
 Claim Timestamp: 00:58:04
-Claim: The host says Netanyahu did a podcast blitz in America, appearing on Patrick Bet-David's, Brendan Tatum's and the Nelk Boys' podcasts, and asks why he did not appear on the Charlie Kirk Show.
-Transcript Snippet: He went on to Brendan Tatum's podcast. He went on to the Nel Boys podcast.
+Claim: The host says Netanyahu did a podcast blitz in America, appearing on Patrick Bet-David's, Brandon Tatum's and the Nelk Boys' podcasts, and asks why he did not appear on the Charlie Kirk Show.
+Transcript Snippet: He went on to Brandon Tatum's podcast. He went on to the Nel Boys podcast.
 Anchored Artifacts: A-2516.2
 Mentions: N-1, N-36, N-57, N-58, N-59
 Confidence: medium

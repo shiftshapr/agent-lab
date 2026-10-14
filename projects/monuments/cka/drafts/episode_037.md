@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-866, N-11236
-  - Hole-minted Nodes (reintro-ep037): N-314, N-10290, N-10303, N-10314, N-10334, N-10358, N-10366
+  - Tip-minted Nodes (supplement_2026-10d): N-859, N-11236
+  - Hole-minted Nodes (reintro-ep037): N-311, N-10290, N-10303, N-10314, N-10334, N-10358, N-10366
   - Tip-minted Nodes (reintro-ep037): N-11191
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9765–C-9829
-  - New Nodes Introduced: N-279, N-280, N-281, N-282, N-284, N-285, N-286, N-10273, N-10275, N-10276, N-10278, N-10279, N-10280, N-10281, N-10282
-  - Reused Nodes Appearing: N-1, N-283, N-7, N-14, N-17, N-22, N-36, N-82, N-126, N-143, N-179, N-199, N-212, N-216, N-251, N-274, N-384, N-10012, N-10031, N-10074, N-10094, N-10098, N-10137, N-10141, N-10151, N-10183, N-10197, N-10244, N-10253, N-10260, N-10265, N-10266, N-10270, N-10284, N-10817, N-11008, N-10274, N-10277, N-10311
+  - New Nodes Introduced: N-277, N-278, N-279, N-280, N-282, N-283, N-284, N-10273, N-10275, N-10276, N-10278, N-10279, N-10280, N-10281, N-10282
+  - Reused Nodes Appearing: N-1, N-281, N-7, N-14, N-17, N-22, N-36, N-82, N-126, N-143, N-179, N-199, N-212, N-216, N-250, N-272, N-131, N-10012, N-10031, N-10074, N-10094, N-10098, N-10137, N-10141, N-10151, N-10183, N-10197, N-10244, N-10253, N-10260, N-10265, N-10266, N-10270, N-10284, N-10817, N-11008, N-10274, N-10277, N-10311
   - (see registers)
 
 # Episode 37 Analysis Record
@@ -218,7 +218,7 @@ Video Timestamp: 00:12:13–00:13:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (news clip played; exact source outlet not specified)
 
-*Related: C-1776, N-285, N-10276*
+*Related: C-1776, N-283, N-10276*
 
 ---
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:26:00–00:28:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1777, N-279, N-281*
+*Related: C-1777, N-277, N-279*
 
 ---
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:26:15–00:28:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (specific outlet not named in transcript)
 
-*Related: C-1778, N-279, N-280*
+*Related: C-1778, N-277, N-278*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:28:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1779, N-279, N-280, N-286*
+*Related: C-1779, N-277, N-278, N-284*
 
 ---
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:29:33–00:31:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (email content read verbatim)
 
-*Related: C-1780, N-3, N-282, N-10281*
+*Related: C-1780, N-3, N-280, N-10281*
 
 ---
 
@@ -288,7 +288,7 @@ Video Timestamp: 00:32:36–00:34:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-3, N-283, N-284, N-10282*
+*Related: N-3, N-281, N-282, N-10282*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:10:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9776, C-9777, C-9778, C-9780, C-9781, N-285, N-22, N-1*
+*Related: C-9776, C-9777, C-9778, C-9780, C-9781, N-283, N-22, N-1*
 
 ---
 
@@ -314,7 +314,7 @@ Video Timestamp: 00:19:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9799, C-9800, N-314, N-1*
+*Related: C-9799, C-9800, N-311, N-1*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:45:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9828, C-9829, N-3, N-274, N-384*
+*Related: C-9828, C-9829, N-3, N-272, N-131*
 
 ---
 
@@ -414,7 +414,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-279** Mike Huckabee
+**N-277** Mike Huckabee
 
 U.S. Ambassador to Israel; subject of Jerusalem performance video and Pollard meeting coverage.
 
@@ -423,11 +423,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1456.1, A-1457.1, A-1458.1, C-1777, C-1778, C-1779, N-280, N-281, N-286*
+*Related: A-1456.1, A-1457.1, A-1458.1, C-1777, C-1778, C-1779, N-278, N-279, N-284*
 
 ---
 
-**N-280** Jonathan Pollard
+**N-278** Jonathan Pollard
 
 Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.
 
@@ -436,11 +436,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1457.1, A-1458.1, C-1778, C-1779, N-279*
+*Related: A-1457.1, A-1458.1, C-1778, C-1779, N-277*
 
 ---
 
-**N-281** David Friedman
+**N-279** David Friedman
 
 Former U.S. Ambassador to Israel; co-performer with Huckabee at Jerusalem event.
 
@@ -449,11 +449,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1456.1, C-1777, N-279*
+*Related: A-1456.1, C-1777, N-277*
 
 ---
 
-**N-282** Ashley Rinzberg
+**N-280** Ashley Rinzberg
 
 Free Press writer; sent email to host requesting comment on multiple shows.
 
@@ -466,7 +466,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-283** Tim Dillon
+**N-281** Tim Dillon
 
 Independent commentator; provided audio clip characterizing Bari Weiss at CBS News.
 
@@ -475,11 +475,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1460.1, N-3, N-284*
+*Related: A-1460.1, N-3, N-282*
 
 ---
 
-**N-284** Bari Weiss
+**N-282** Bari Weiss
 
 Editor-in-chief / CBS News installation (per host and Tim Dylan clip); co-owner of The Free Press.
 
@@ -488,11 +488,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1460.1, N-283, N-10282*
+*Related: A-1460.1, N-281, N-10282*
 
 ---
 
-**N-285** Bob Evan
+**N-283** Bob Evan
 
 Nebraska Secretary of State; announced Egypt trade mission per news clip.
 
@@ -505,7 +505,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-286** Karoline Leavitt
+**N-284** Karoline Leavitt
 
 White House Press Secretary; quoted on Huckabee–Pollard meeting.
 
@@ -514,7 +514,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1458.1, C-1779, N-279, N-280*
+*Related: A-1458.1, C-1779, N-277, N-278*
 
 ---
 
@@ -566,7 +566,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1455.1, C-1776, N-285*
+*Related: A-1455.1, C-1776, N-283*
 
 ---
 
@@ -618,7 +618,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1459.1, C-1780, N-282, N-284*
+*Related: A-1459.1, C-1780, N-280, N-282*
 
 ---
 
@@ -631,7 +631,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1459.1, C-1780, N-282*
+*Related: A-1459.1, C-1780, N-280*
 
 ---
 
@@ -644,7 +644,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1460.1, N-284*
+*Related: A-1460.1, N-282*
 
 ---
 
@@ -760,7 +760,7 @@ Named in the host's joke and her reaction.
 
 ---
 
-**N-251** Butch Hibbs
+**N-250** Butch Hibbs
 
 Brother of Pastor Jack Hibbs; the host says he attended after a phone call to Charlie.
 
@@ -768,7 +768,7 @@ Brother of Pastor Jack Hibbs; the host says he attended after a phone call to Ch
 
 ---
 
-**N-274** Joe Rogan
+**N-272** Joe Rogan
 
 Subject of a viewer comment about self-censorship on Israel.
 
@@ -776,7 +776,7 @@ Subject of a viewer comment about self-censorship on Israel.
 
 ---
 
-**N-314** Jacob Kasparian
+**N-311** Jacob Kasparian
 
 Person the host identifies as having emerged from behind the bush.
 
@@ -784,9 +784,9 @@ Person the host identifies as having emerged from behind the bush.
 
 ---
 
-**N-384** Ian Carroll
+**N-131** Ian Carroll
 
-Guest the host says Rogan had on to discuss Israel (transcribed Ian Carol).
+Guest the host says Rogan had on to discuss Israel (transcribed Ian Carroll).
 
 *Related: C-9829*
 
@@ -1008,7 +1008,7 @@ Existing organization reused for the sponsor read.
 
 ---
 
-**N-866** Amber Robinson
+**N-859** Amber Robinson
 
 First named by the host at 00:17:18 in episode 37. Tyler Robinson's mother, per the host's reference to photos of her visiting an uncle Mitchell.
 
@@ -1150,7 +1150,7 @@ Claim Timestamp: 00:12:13
 Claim: On or around July 22, 2025, Nebraska Secretary of State Bob Evan announced a trade and investment mission to Egypt scheduled for October 26 through November 2.
 
 Anchored Artifacts: A-1455.1
-Mentions: N-285
+Mentions: N-283
 
 Related Nodes: N-10276
 
@@ -1165,7 +1165,7 @@ Claim Timestamp: 00:26:00
 Claim: Mike Huckabee and former U.S. Ambassador David Friedman performed "Sweet Home Alabama" (variation "Sweet Home Jerusalem") on stage in Jerusalem in October 2025.
 
 Anchored Artifacts: A-1456.1
-Mentions: N-279, N-281
+Mentions: N-277, N-279
 
 
 Investigative Direction: Identify the event organizer, venue, and date.
@@ -1179,7 +1179,7 @@ Claim Timestamp: 00:26:15
 Claim: Mike Huckabee met with Jonathan Pollard, a convicted Israeli spy who served 30 years in U.S. prison; Huckabee had previously advocated for Pollard's release.
 
 Anchored Artifacts: A-1457.1
-Mentions: N-279, N-280
+Mentions: N-277, N-278
 
 
 Investigative Direction: Identify the headline outlet and obtain the underlying interview/transcript from Pollard.
@@ -1193,7 +1193,7 @@ Claim Timestamp: 00:28:14
 Claim: White House Press Secretary Karoline Leavitt stated at a briefing that the White House was not aware of the Huckabee–Pollard meeting in advance, but that the President stands by the ambassador.
 
 Anchored Artifacts: A-1458.1
-Mentions: N-279, N-280, N-286
+Mentions: N-277, N-278, N-284
 
 
 Investigative Direction: Locate full White House briefing transcript or video.
@@ -1207,7 +1207,7 @@ Claim Timestamp: 00:29:33
 Claim: Ashley Rinzberg, writing for The Free Press, emailed Candace Owens requesting comment on a piece about the "economics of high engagement political content on YouTube and podcast platforms," specifically referencing claims about Israel, the death of Charlie Kirk, and the Becoming Breit series, along with five business-metric questions.
 
 Anchored Artifacts: A-1459.1
-Mentions: N-3, N-282, N-1
+Mentions: N-3, N-280, N-1
 
 Related Nodes: N-10280, N-10281
 
@@ -1444,7 +1444,7 @@ Claim: The host says that during SU-BTT's roughly six-day Nebraska stretch, on J
 Transcript Snippet: during this stretch on July 22nd, the Nebraskan Secretary of State Bob Evan announced that they were going to put together a trade and investment delegation to Cairo, Egypt.
 
 Anchored Artifacts: A-1455.1, A-3030.1
-Mentions: N-285
+Mentions: N-283
 Related Nodes: N-10276
 Supports: C-1776
 Tags: relevance:core
@@ -1461,7 +1461,7 @@ Claim: The host says she suspects the Nebraska-to-Cairo trade mission idea may b
 Transcript Snippet: and it happens to line up with this plane that comes in um uh at literally comes in at the on the exact same day.
 
 Anchored Artifacts: A-1455.1
-Mentions: N-285
+Mentions: N-283
 Related Nodes: N-10276
 Supports: C-1776
 Tags: relevance:core
@@ -1667,7 +1667,7 @@ Claim: The host says Burton "Butch" Hibbs is the brother of Pastor Jack Hibbs, a
 Transcript Snippet: Burton Hibbs, Butch, the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie.
 
 Anchored Artifacts: 
-Mentions: N-251, N-212, N-1
+Mentions: N-250, N-212, N-1
 Related Nodes: N-10817
 Supports: C-1673
 Tags: relevance:core
@@ -1699,7 +1699,7 @@ Claim: The host says Tyler Robinson was a Boy Scout and that photos circulating 
 Transcript Snippet: Tyler Robinson is a boy scout whose uncle Mitchell may be related. People have pulled this off of the internet, and I don't have a photo for you today.
 
 Anchored Artifacts: 
-Mentions: N-40, N-866
+Mentions: N-40, N-859
 Related Nodes: N-126
 Tags: relevance:core
 Investigative Direction: Locate the photos and verify the identity of the uncle and his relationship to the Robinson family.
@@ -1777,7 +1777,7 @@ Claim: The host says she identified the person who emerged from behind the bush 
 Transcript Snippet: His name is this person that was behind the bush is Jacob Kasparian.
 
 Anchored Artifacts: A-3031.1
-Mentions: N-314
+Mentions: N-311
 Related Nodes: N-10137, N-10244
 Tags: relevance:core
 Investigative Direction: Verify the identification through event footage and ask Kasparian to account for his position; the host does not allege wrongdoing.
@@ -1793,7 +1793,7 @@ Claim: The host says Kasparian posted on September 10 about his bulletproof skat
 Transcript Snippet: they had posted on September 10th about uh their bulletproof skateboard
 
 Anchored Artifacts: A-3031.1
-Mentions: N-314, N-1
+Mentions: N-311, N-1
 Related Nodes: N-10137
 Tags: relevance:core
 Investigative Direction: Capture the archived September 10 post and later posts by Kasparian and family members.
@@ -1809,7 +1809,7 @@ Claim: The host says Kasparian's father is, or was, president of the Mormon temp
 Transcript Snippet: president of uh the Mormon temple in Los Angeles.
 
 Anchored Artifacts: 
-Mentions: N-314
+Mentions: N-311
 Related Nodes: N-10094
 Tags: relevance:core
 Investigative Direction: Verify the father's LDS temple role through Church records or announcements.
@@ -1825,7 +1825,7 @@ Claim: The host says that trying to figure out Kasparian's father and his connec
 Transcript Snippet: And then it just kind of becomes like a dark hole trying to figure out his father and his father's connections to the Middle East.
 
 Anchored Artifacts: 
-Mentions: N-314
+Mentions: N-311
 Tags: relevance:core
 Investigative Direction: Request the host's sourcing on the father's alleged Middle East ties.
 
@@ -1840,7 +1840,7 @@ Claim: The host says Kasparian, the person behind the bush, was also wearing a m
 Transcript Snippet: But yes, he as well was wearing a maroon shirt.
 
 Anchored Artifacts: 
-Mentions: N-314
+Mentions: N-311
 Related Nodes: N-10275, N-10311
 Tags: relevance:core
 Investigative Direction: Confirm via footage the shirt color and the person's identity.
@@ -1948,7 +1948,7 @@ Claim: The host says that when Jonathan Pollard was released he was welcomed in 
 Transcript Snippet: I think BB Netanyahu met him met met him on the runway like you did you served us well
 
 Anchored Artifacts: A-1457.1
-Mentions: N-280, N-36
+Mentions: N-278, N-36
 Supports: C-1778
 Tags: relevance:context
 Investigative Direction: Check news reports of Pollard's 2020 arrival in Israel for who greeted him.
@@ -1964,7 +1964,7 @@ Claim: The host says Bari Weiss started and is at least a part owner of The Free
 Transcript Snippet: Barry Weiss started and is a part owner at least of the free press before before she went on to CBS News.
 
 Anchored Artifacts: 
-Mentions: N-284
+Mentions: N-282
 Related Nodes: N-10280, N-10282
 Tags: relevance:context
 Investigative Direction: Check corporate records of The Free Press ownership and the date of its acquisition or change.
@@ -1980,7 +1980,7 @@ Claim: The host says Free Press writer Ashley Rinzberg, who sent her the email, 
 Transcript Snippet: Are you shocked if I tell you that Ashley Rinsberg, he happens to live in Tel Aviv?
 
 Anchored Artifacts: A-1459.1
-Mentions: N-282
+Mentions: N-280
 Related Nodes: N-10280
 Tags: relevance:context
 Investigative Direction: Verify Rinzberg's residence from his public bios and bylines.
@@ -1996,7 +1996,7 @@ Claim: The host says she made one slight joke mentioning Alexis Wilkins, referri
 Transcript Snippet: I make one slight mention joke about Alexis Wilkins, referring to Tim Dylan's content and us getting a strike, and she goes on a rant against me, not against Tim Dylan.
 
 Anchored Artifacts: 
-Mentions: N-216, N-283, N-3
+Mentions: N-216, N-281, N-3
 Tags: relevance:context
 Investigative Direction: Locate the host's remark, Wilkins's response and the YouTube strike notice.
 
@@ -2011,7 +2011,7 @@ Claim: The host says that Brigitte Macron's lawsuit mentions Tim Dillon but sues
 Transcript Snippet: Breashit sues me, not Tim Dylan, who she mentions in the lawsuit.
 
 Anchored Artifacts: 
-Mentions: N-82, N-283, N-3
+Mentions: N-82, N-281, N-3
 Related Nodes: N-10270
 Supports: C-6665
 Tags: relevance:core
@@ -2028,7 +2028,7 @@ Claim: In the clip, Tim Dillon, speaking sarcastically in Weiss's voice, says Ba
 Transcript Snippet: I'm here to make it a vessel of state propaganda. Which state? Well, we know which state. It's not America.
 
 Anchored Artifacts: A-1460.1
-Mentions: N-283, N-284
+Mentions: N-281, N-282
 Related Nodes: N-10282, N-10334
 Tags: relevance:context
 Investigative Direction: Treat as satirical commentary; compare with Weiss's own statements on her CBS mandate.
@@ -2044,7 +2044,7 @@ Claim: In the clip, Tim Dillon says Weiss is there to deliver Israeli propaganda
 Transcript Snippet: She knows it. We know it. Larry Ellison hired her to do it.
 
 Anchored Artifacts: A-1460.1
-Mentions: N-283, N-284, N-143
+Mentions: N-281, N-282, N-143
 Related Nodes: N-10282
 Tags: relevance:context
 Investigative Direction: Check reporting on who recommended or hired Weiss at CBS (Paramount Skydance leadership).
@@ -2060,7 +2060,7 @@ Claim: In the clip, Tim Dillon says Paramount already has a blacklist of actors 
 Transcript Snippet: They've already got a blacklist of actors who will never work at Paramount.
 
 Anchored Artifacts: A-1460.1
-Mentions: N-283
+Mentions: N-281
 Related Nodes: N-10282
 Tags: relevance:tangential
 Investigative Direction: Look for reporting on any Paramount blacklist of actors.
@@ -2243,7 +2243,7 @@ Claim: Replying to a viewer who said Rogan seemed to self-censor about Israel, t
 Transcript Snippet: Uh yeah, Joe Rogan has definitely taken a lot of risks. I haven't seen it and he definitely has shouted out this podcast
 
 Anchored Artifacts: A-3032.3
-Mentions: N-274, N-384, N-3
+Mentions: N-272, N-131, N-3
 Tags: relevance:context
 Investigative Direction: Check the Rogan episode with Ian Carroll and Rogan's on-air mentions of the host.
 

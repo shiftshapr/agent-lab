@@ -13,8 +13,8 @@
 - **Episode Ledger Summary**:
   - Reused Nodes Appearing: N-10567, N-10566
  - New Nodes Introduced: N-10568
- - Hole-minted Nodes (wave3): N-407, N-418, N-419
- - Reused Nodes Appearing: N-1, N-2, N-278
+ - Hole-minted Nodes (wave3): N-403, N-414, N-415
+ - Reused Nodes Appearing: N-1, N-2, N-276
  - (see registers)
 
 ## 6. Meme Register
@@ -204,19 +204,19 @@ Confidence Level: Medium
 
 # Node Register
 
-**N-419** Daniel Balou
+**N-415** Daniel Balou
 
 First named by the host at 00:10:32 in episode 85.
 
 *Related: C-2587, C-2588*
 
-**N-418** Frederick Vaglio
+**N-414** Frederick Vaglio
 
 First named by the host at 00:10:32 in episode 85.
 
 *Related: C-2587, C-2588*
 
-**N-407** Jean-Luc Baguer
+**N-403** Jean-Luc Baguer
 
 First named by the host at 00:10:32 in episode 85.
 
@@ -369,7 +369,7 @@ Claim Timestamp: 00:10:32
 Claim: Jean-Luc Baguer is identified as a ringleader of the alleged conspiracy, alongside co-conspirators Frederick Vaglio and Daniel Balou.
 
 Anchored Artifacts: A-1903.1
-Mentions: N-419, N-418, N-407
+Mentions: N-415, N-414, N-403
 Related Nodes: N-10568
 Investigative Direction: Verify role assignments via French court documents.
 
@@ -382,7 +382,7 @@ Claim Timestamp: 00:11:16
 Claim: Daniel Balou, a retired intelligence officer, attempted suicide while in prison, impairing his ability to testify.
 
 Anchored Artifacts: A-1903.1
-Mentions: N-419, N-418, N-407
+Mentions: N-415, N-414, N-403
 Related Nodes: N-10568
 Investigative Direction: Verify incident via French press reporting or court records.
 
@@ -395,7 +395,7 @@ Claim Timestamp: 00:17:32
 Claim: In an interview with Bari Weiss, Erika Kirk stated "Yes, I do" in response to the question of whether she believes Tyler Robinson murdered her husband.
 
 Anchored Artifacts: A-1904.1
-Mentions: N-1, N-2, N-40, N-284
+Mentions: N-1, N-2, N-40, N-282
 Investigative Direction: Cross-check with the published version of the Bari Weiss interview.
 
 ---
@@ -595,7 +595,7 @@ Claim Timestamp: 00:28:15
 Claim: Sheriff Nate Brooksby resigned from the Washington County Sheriff's Office.
 
 Anchored Artifacts: A-1910.1
-Mentions: N-278
+Mentions: N-276
 Related Nodes:
 Investigative Direction: Obtain official Washington County Commission statement and any press release explaining the resignation.
 
@@ -620,7 +620,7 @@ Claim Timestamp: 00:29:07
 Claim: A statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.
 
 Anchored Artifacts: A-1910.1
-Mentions: N-278
+Mentions: N-276
 Related Nodes:
 Investigative Direction: Obtain the full Commission statement.
 
@@ -654,7 +654,7 @@ These two artifact-anchored accounts cannot comfortably coexist. Cox's framing p
 - **Possible transcription error:** Transcript uses both "Frank Churik" and "Frank Turek"; chapter title uses "Frank Turek." Treating as transcription error; canonical name is Frank Turek.
 - **Name variation:** Transcript uses "Erika Kirk" while the existing ledger node is "Erica Kirk" (N-2). Preserving transcript spelling in this episode's text but flagging the variation for cross-referencing.
 - **Name canonicalization:** Transcript uses "Governor Cox" without first name; canonical name is Spencer Cox.
-- **Possible existing nodes not in ledger view:** Tyler Robinson, Joe Kent, Kash Patel, Spencer Cox, Nate Brooksby, and Andrew Kolb are referenced in this episode and likely have existing node IDs from prior episodes. Wave 1 reconciliation: Nate Brooksby is N-278 and Spencer Cox is N-41; the draft placeholders and never denoted these people and were retargeted.
+- **Possible existing nodes not in ledger view:** Tyler Robinson, Joe Kent, Kash Patel, Spencer Cox, Nate Brooksby, and Andrew Kolb are referenced in this episode and likely have existing node IDs from prior episodes. Wave 1 reconciliation: Nate Brooksby is N-276 and Spencer Cox is N-41; the draft placeholders and never denoted these people and were retargeted.
 - **Artifact verbally referenced but not shown:** The host references several items without showing or reading them in this episode, including: Joe Kent's statements about Kash Patel blocking international investigation; Kash Patel's press conference using "33"; the "witch article" from the Philippines; the DeMolay club historical background; the "tunnels at Disney" stories; the "spell" website. None are inscribed as claims because they are not artifact-presented in this episode.
 - **Host assertion lacking artifact:** The host asserts that Erika Kirk's lawyer admitted they had no more evidence than the public has seen. This claim is not anchored to any artifact in this episode and is therefore not inscribed as a Claim. Flagging as Host Assertion Without Artifact.
 - **Host assertion lacking artifact:** The host asserts that "the feds planted the gun" and that the bomb dogs could not locate it. This claim is sourced only to anonymous "people with first-hand intimate knowledge"; no artifact supports it in this episode. Flagging as Host Assertion Without Artifact.
