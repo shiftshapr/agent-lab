@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 11b9571e5a76ba6e7d757602ee3753595b7175b02db0aab97660730731ff688c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-822, N-823, N-824, N-11189, N-11190
+  - Tip-minted Nodes (supplement_2026-10c): N-821, N-822, N-823, N-11189, N-11190
   - Hole-minted Nodes (reintro-ep082): N-217, N-10621, N-10649, N-10701, N-10866
-  - Tip-minted Nodes (reintro-ep082): N-704, N-11149
+  - Tip-minted Nodes (reintro-ep082): N-703, N-11149
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-221, N-508, N-563, N-10094, N-10149, N-10324, N-10337, N-10355, N-10360, N-10386, N-10387, N-10546, N-10548, N-10551, N-11012, N-10554
+  - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-221, N-507, N-562, N-10094, N-10149, N-10324, N-10337, N-10355, N-10360, N-10386, N-10387, N-10546, N-10548, N-10551, N-11012, N-10554
   - Claim Range (supplement_2026-10c): C-8505–C-8562
  - (see registers)
 
@@ -477,8 +477,7 @@ TPUSA spokesperson; subject of the flight, blackout and live-show claims.
 
 ---
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 TPUSA COO, rendered Justin in the text thread; told Aubrey it was up to Andrew.
 
 *Related: C-8519*
@@ -557,7 +556,7 @@ Co-investigator and podcaster whose clip the host plays.
 
 ---
 
-**N-508** Doug DeGroot
+**N-507** Doug DeGroot
 
 TPUSA board member the host guesses was the donor (transcribed Doug De Root).
 
@@ -565,7 +564,7 @@ TPUSA board member the host guesses was the donor (transcribed Doug De Root).
 
 ---
 
-**N-563** Aubrey Lech
+**N-562** Aubrey Lech
 
 Former TPUSA PR manager in the text thread with Justin and Andrew.
 
@@ -573,7 +572,7 @@ Former TPUSA PR manager in the text thread with Justin and Andrew.
 
 ---
 
-**N-704** Laura Ingraham
+**N-703** Laura Ingraham
 
 Fox host whose show Andrew Kolvet is said to have discussed with Aubrey.
 
@@ -717,7 +716,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-822** Ross Douthat
+**N-821** Ross Douthat
 
 First named by the host at 00:30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.
 
@@ -725,7 +724,7 @@ First named by the host at 00:30:36 in episode 82. New York Times reporter who i
 
 ---
 
-**N-823** Michael Shellenberger
+**N-822** Michael Shellenberger
 
 First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.
 
@@ -733,7 +732,7 @@ First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.
 
 ---
 
-**N-824** Pat Buchanan
+**N-823** Pat Buchanan
 
 First named by the host at 00:58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.
 
@@ -1234,7 +1233,7 @@ Claim: The host says that in a text chain Aubrey asked whether she should confir
 Transcript Snippet: And Justin jumps in on the text it and he says that uh, "It's up to Andrew." And Andrew doesn't answer
 
 Anchored Artifacts: A-1889.2
-Mentions: N-3, N-563, N-15, N-14, N-1
+Mentions: N-3, N-562, N-15, N-14, N-1
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Obtain the full Aubrey/Justin thread with carrier timestamps and the company-wide email it refers to.
@@ -1266,7 +1265,7 @@ Claim: The host says Andrew Kolvet answered Aubrey on a separate Telegram channe
 Transcript Snippet: we learned that he did answer Aubrey um, on a separate Telegram channel uh, before he went dark. He answered her about the press, about Laura Ingraham's show. He called her, too.
 
 Anchored Artifacts: A-2939.1
-Mentions: N-3, N-14, N-563, N-704
+Mentions: N-3, N-14, N-562, N-703
 Related Nodes: N-10554
 Revises: C-2533
 Tags: relevance:core
@@ -1363,7 +1362,7 @@ Claim: The host says Andrew Kolvet's clip effectively admits that Charlie Kirk c
 Transcript Snippet: He's going to effectively admit that Charlie couldn't stand Ben Shapiro uh and was annoyed that he had to interview him the day before because Andrew's the one that booked him
 
 Anchored Artifacts: A-1890.1
-Mentions: N-3, N-1, N-14, N-97, N-822
+Mentions: N-3, N-1, N-14, N-97, N-821
 Related Nodes: N-10556
 Supports: C-2556
 Tags: relevance:core
@@ -1380,7 +1379,7 @@ Claim: In the clip, Andrew Kolvet says the show had a pre-record for hour two an
 Transcript Snippet: we had a pre-record for hour two, actually. So, it it's probably too in the weeds, but he's texting me on his way and he's going over talking points about polygamy
 
 Anchored Artifacts: A-1890.1
-Mentions: N-14, N-1, N-822
+Mentions: N-14, N-1, N-821
 Related Nodes: N-10556
 Tags: relevance:core
 Investigative Direction: Obtain Kolvet's text thread with Charlie Kirk for the morning of September 10, 2025 and the hour-two pre-record.
@@ -1588,7 +1587,7 @@ Claim: The host says Joe Kent, asked by Michael Shellenberger whether his statem
 Transcript Snippet: And of course Joe Kent says, "That wasn't my goal. My goal was just to tell the truth."
 
 Anchored Artifacts: A-1892.1
-Mentions: N-3, N-213, N-823, N-40
+Mentions: N-3, N-213, N-822, N-40
 Related Nodes: N-10546
 Tags: relevance:context
 Investigative Direction: Obtain the full Shellenberger interview and compare Kent's wording.
@@ -1866,7 +1865,7 @@ Claim: The host says Pat Buchanan coined the phrase Israel's amen corner in the 
 Transcript Snippet: He coined the phrase Israel's amen corner in the early 90s.
 
 Anchored Artifacts: A-2944.2
-Mentions: N-3, N-824, N-39
+Mentions: N-3, N-823, N-39
 Tags: relevance:tangential
 Investigative Direction: Check the first appearance of the phrase in print.
 
@@ -1896,7 +1895,7 @@ Claim: The host guesses the donor was Doug DeGroot, whom she says sits on the TP
 Transcript Snippet: My guess would be off the bat Doug De Root on the um he's on the board and I think he's a donor.
 
 Anchored Artifacts: 
-Mentions: N-3, N-508
+Mentions: N-3, N-507
 Tags: relevance:core
 Investigative Direction: Check board and donor records and the call log for Erika Kirk.
 

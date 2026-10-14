@@ -1096,8 +1096,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-767",
-      "ref": "N-767",
+      "@id": "N-766",
+      "ref": "N-766",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "UVU president (also transcribed \"Tumz\"); first named in C-1711.",
@@ -1308,8 +1308,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-888",
-      "ref": "N-888",
+      "@id": "N-887",
+      "ref": "N-887",
       "name": "Britney Spears",
       "type": "person",
       "description": "First named by the host at 00:00:44 in episode 32. Singer whose 2008 conservatorship the host connects to Lou Taylor and Calvary Chapel.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-889",
-      "ref": "N-889",
+      "@id": "N-888",
+      "ref": "N-888",
       "name": "Jamie Lynn Spears",
       "type": "person",
       "description": "First named by the host (reading Brett Cooper) at 00:06:05 in episode 32. Britney Spears's younger sister, whom Lou Taylor was first hired to help manage.",
@@ -1427,8 +1427,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-890",
-      "ref": "N-890",
+      "@id": "N-889",
+      "ref": "N-889",
       "name": "Tony Blair",
       "type": "person",
       "description": "First named at 00:15:42 in episode 32 in an email read by the host. Former UK prime minister linked in the email to the house where Britney Spears was held in 2019.",
@@ -1497,8 +1497,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-752",
-      "ref": "N-752",
+      "@id": "N-751",
+      "ref": "N-751",
       "name": "Michael Jackson",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1516,8 +1516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-891",
-      "ref": "N-891",
+      "@id": "N-890",
+      "ref": "N-890",
       "name": "Paris Jackson",
       "type": "person",
       "description": "First named by the host at 00:23:46 in episode 32. Daughter of Michael Jackson, said to have lost in court over his legacy.",
@@ -1533,8 +1533,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-884",
-      "ref": "N-884",
+      "@id": "N-883",
+      "ref": "N-883",
       "name": "Justin Bieber",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1607,8 +1607,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-892",
-      "ref": "N-892",
+      "@id": "N-891",
+      "ref": "N-891",
       "name": "Spencer Pratt",
       "type": "person",
       "description": "First named by the host at 00:35:52 in episode 32. Reality-TV figure the host praises for work on the Malibu fires.",
@@ -2033,7 +2033,7 @@
       "investigative_direction": "Locate the published Samir / Tuminez interview and review sourcing/conditions.",
       "mentions_person_refs": [
         "N-264",
-        "N-767"
+        "N-766"
       ]
     },
     {
@@ -2120,7 +2120,9 @@
       "related_nodes": [
         "N-10001"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:44",
       "investigative_direction": "Count MK Ultra references in the Macron complaint as filed.",
       "transcript_snippet": "They brought it up 18 times in the lawsuit against me.",
@@ -2141,7 +2143,9 @@
         "N-10001",
         "N-10116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:02:23",
       "investigative_direction": "Obtain hospital or legal records of any 2016 or later involuntary hold on Kanye West, or his own public account.",
       "transcript_snippet": "They put him on a psych 5150 hold which is one of their strategies and effectively he had been MK ultraed",
@@ -2160,7 +2164,9 @@
       "related_nodes": [
         "N-11275"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:03:16",
       "investigative_direction": "Trace ownership changes at Miramax and The Weinstein Company after the 2017 allegations.",
       "transcript_snippet": "It was very weird that they took out Harvey Weinstein. That is a fact. Via the Me Too movement. And I had posited to the audiences that that movement may have been about hostile takeovers of companies.",
@@ -2180,13 +2186,15 @@
         "N-11276",
         "N-10248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:16",
       "investigative_direction": "Obtain the viewer emails and conservatorship filings showing any Calvary Chapel role.",
       "transcript_snippet": "telling me to stay the course because the Calvary Chapel was also involved in Britney Spears's conservatorship.",
       "mentions_person_refs": [
         "N-3",
-        "N-888"
+        "N-887"
       ]
     },
     {
@@ -2199,14 +2207,16 @@
       "related_nodes": [
         "N-11276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:16",
       "investigative_direction": "Check Britney Spears's court statements and the 2021 LA Times emails for Lou Taylor's role.",
       "transcript_snippet": "Lou Taylor uh apparently was very much involved. That is what has been heavily insinuated and even by Britney Spears herself.",
       "mentions_person_refs": [
         "N-3",
         "N-255",
-        "N-888"
+        "N-887"
       ]
     },
     {
@@ -2221,15 +2231,17 @@
       "related_nodes": [
         "N-11276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:05",
       "investigative_direction": "Check 2007 to 2008 press coverage and the Spears family accounts for when Lou Taylor was hired.",
       "transcript_snippet": "Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jaime Lynn Spears.",
       "mentions_person_refs": [
         "N-225",
         "N-255",
-        "N-888",
-        "N-889"
+        "N-887",
+        "N-888"
       ]
     },
     {
@@ -2244,7 +2256,9 @@
       "related_nodes": [
         "N-11276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:47",
       "investigative_direction": "Check the passage in Lynn Spears's memoir Through the Storm.",
       "transcript_snippet": "her mom stated in her memoir, Through the Storm, that Lou and Britney's father had discussed putting her in a conservatorship shortly after that happened.",
@@ -2252,7 +2266,7 @@
         "N-225",
         "N-255",
         "N-257",
-        "N-888"
+        "N-887"
       ]
     },
     {
@@ -2267,7 +2281,9 @@
       "related_nodes": [
         "N-11276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:47",
       "investigative_direction": "Look for bankruptcy filings and loan records for Jamie Spears and Lou Taylor's firm around 2007 and 2008.",
       "transcript_snippet": "Jaime Senior had around this time allegedly filed for bankruptcy. He had done this multiple times, and Lou Taylor's firm gave Britney's dad a loan of $40,000.",
@@ -2289,14 +2305,16 @@
       "related_nodes": [
         "N-11276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:12",
       "investigative_direction": "Check conservatorship accountings for Circus tour gross and Tri Star fees.",
       "transcript_snippet": "Tristar, that is L. Taylor's company, was hired to serve as the tour's business manager, handling its finances and accounting. And the tour grossed an estimated $130 million.",
       "mentions_person_refs": [
         "N-225",
         "N-255",
-        "N-888"
+        "N-887"
       ]
     },
     {
@@ -2309,7 +2327,9 @@
       "related_nodes": [
         "N-10247"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:21",
       "investigative_direction": "Locate the press articles and Montana filings on Potter's Field leadership and dissolution.",
       "transcript_snippet": "Rob McCoy steps in as the CFO and there's articles about it and essentially this organization sort of disappears overnight.",
@@ -2332,7 +2352,9 @@
         "N-10252",
         "N-10247"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:21",
       "investigative_direction": "Review the source's emails and backup and Potter's Field board minutes and financial filings.",
       "transcript_snippet": "until Rob McCoy got involved and then he intentionally scandalized it and staged an effective hostile takeover with a few other board members.",
@@ -2352,7 +2374,9 @@
         "N-11276",
         "N-10248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Interview the two sources and obtain client agreements or payment records showing tithing and undisclosed investments.",
       "transcript_snippet": "two other people reached out to me who worked with Lou Taylor and described exactly what she's referring to.",
@@ -2373,7 +2397,9 @@
       "related_nodes": [
         "N-11276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:42",
       "investigative_direction": "Ask the email's author for the basis; search Epstein and Maxwell records for Lou Taylor.",
       "transcript_snippet": "I've also heard that Lou has connections and ties to Glen Maxwell and Epstein, etc.",
@@ -2396,14 +2422,16 @@
       "related_nodes": [
         "N-11276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:42",
       "investigative_direction": "Identify the reporter and the property and check ownership records.",
       "transcript_snippet": "they told me that the house that Britney was being held out in 2019 was tied to Epstein somehow via Tony Blair.",
       "mentions_person_refs": [
         "N-3",
-        "N-888",
-        "N-890",
+        "N-887",
+        "N-889",
         "N-9"
       ]
     },
@@ -2419,7 +2447,9 @@
       "related_nodes": [
         "N-10248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:42",
       "investigative_direction": "Check Ventura County property records and any McCoy and Taylor connection.",
       "transcript_snippet": "I know Lou Taylor built a house there and would find it very hard to believe that she does not know Rob McCoy, seeing that he was the mayor of Thousand Oaks",
@@ -2442,7 +2472,9 @@
         "N-10248",
         "N-10246"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:42",
       "investigative_direction": "Check Calvary Chapel Fort Lauderdale and Brentwood church histories for the Taylors and Coy.",
       "transcript_snippet": "they lived in Fort Lauderdale, Florida and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Koy.",
@@ -2463,7 +2495,9 @@
       "related_nodes": [
         "N-10248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:48",
       "investigative_direction": "Verify the date McCoy left Calvary Chapel Thousand Oaks and who succeeded him.",
       "transcript_snippet": "he's been pastoring that church up until July of this year for a very long time.",
@@ -2483,7 +2517,9 @@
       "related_nodes": [
         "N-11117"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:12",
       "investigative_direction": "Ask Kanye West or others present to corroborate; compare with the host's earlier accounts of that visit.",
       "transcript_snippet": "Adidas was cancelling him and Gap was cancelling him. He was like, \"Are you an OP 2? Are you an OP 2?\"",
@@ -2504,7 +2540,9 @@
       "related_nodes": [
         "N-11275"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:53",
       "investigative_direction": "Obtain the Courtney Love messages and ask Love to confirm what she meant.",
       "transcript_snippet": "when companies or individuals get too big and become too powerful, they send their agents to control them",
@@ -2524,7 +2562,9 @@
         "N-11275",
         "N-10116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:23:03",
       "investigative_direction": "Obtain hospital or court records, or statements from Kardashian or West on the 2016 hospitalization.",
       "transcript_snippet": "Britney's been put on a psych 5150 hold. Kanye, he said he was just reading a Bible and Harley Pastnic and we got into his backstory and MK Ultra. uh suddenly puts him in a hospital on a psych 5150 hold and somehow his wife I guess was cool with that",
@@ -2533,7 +2573,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-888",
+        "N-887",
         "N-27",
         "N-366"
       ]
@@ -2548,7 +2588,9 @@
       "related_nodes": [
         "N-11275"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:03",
       "investigative_direction": "Review the legal actions against Elijah Schaefer and their funding.",
       "transcript_snippet": "another way that they accomplish this is via lawfare, they will bankrupt you. Okay, this is why what's happening to Elijah Schaefer, this is relevant.",
@@ -2567,13 +2609,15 @@
       "related_nodes": [
         "N-11275"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:23:46",
       "investigative_direction": "Review the history of the Sony/ATV catalog and Michael Jackson's finances at death.",
       "transcript_snippet": "Michael Jackson, despite the fact that he was beating Sony, he was owning his own catalog and almost owned the Beatles catalog.",
       "mentions_person_refs": [
         "N-3",
-        "N-752"
+        "N-751"
       ]
     },
     {
@@ -2584,14 +2628,16 @@
       "claim": "The host says Paris Jackson was in the news that day, had lost in court and is still fighting over her father's legacy.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:23:46",
       "investigative_direction": "Check the court ruling reported on or about 2025-11-14 involving Paris Jackson.",
       "transcript_snippet": "I saw Paris Jackson was in the news today. She's lost in court and she's still fighting over her father's legacy.",
       "mentions_person_refs": [
         "N-3",
-        "N-891",
-        "N-752"
+        "N-890",
+        "N-751"
       ]
     },
     {
@@ -2604,14 +2650,16 @@
       "related_nodes": [
         "N-11275"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:28",
       "investigative_direction": "Treat as a theory: check who gained control of TPUSA, and of the other listed estates, after each death.",
       "transcript_snippet": "the last way that they can hostly take over your company is with an untimely death, Kurt Cobain, uh, Prince, Michael Jackson, Charlie Kirk, and I should also mention Bob Brier.",
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-752",
+        "N-751",
         "N-263"
       ]
     },
@@ -2627,7 +2675,9 @@
       "related_nodes": [
         "N-11276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:30",
       "investigative_direction": "Check Church Home's incorporation and board records for Lou Taylor.",
       "transcript_snippet": "It looks like she owns or sat on the bar board of church home.",
@@ -2635,7 +2685,7 @@
         "N-3",
         "N-255",
         "N-258",
-        "N-884"
+        "N-883"
       ]
     },
     {
@@ -2651,7 +2701,9 @@
         "N-10249",
         "N-10094"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:28:30",
       "investigative_direction": "Confirm Lou Taylor's religious background from public interviews or records.",
       "transcript_snippet": "Christian, non-denominational, but she's LDS, born and raised, LDS.",
@@ -2674,7 +2726,9 @@
         "N-10249",
         "N-10094"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:29:46",
       "investigative_direction": "Check LDS Church leadership rosters for any R. Todd Nielsen or Nielson.",
       "transcript_snippet": "he had to then go be one of the 12 apostle apostles to the new prophet in Salt Lake",
@@ -2695,7 +2749,9 @@
         "N-10465",
         "N-10248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:46",
       "investigative_direction": "Document the claimed CIA link of Calvary Chapel's origins with named sources.",
       "transcript_snippet": "now of course we learn that this church that Lou Taylor's husband is a is a pastor at has this background that involves the CIA.",
@@ -2716,7 +2772,9 @@
         "N-10465",
         "N-10001"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:30:33",
       "investigative_direction": "Cite historical sources on CIA involvement in the 1960s counterculture.",
       "transcript_snippet": "Well, the hippie movement was not organic. It was not real. It was a psychological operation. That is a fact.",
@@ -2735,7 +2793,9 @@
         "N-10248",
         "N-10465"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:33",
       "investigative_direction": "Identify which Calvary Chapel leaders the host means and document their family military service.",
       "transcript_snippet": "a lot of these people that are heading these churches have military ties, high up familial military ties.",
@@ -2753,7 +2813,9 @@
       "related_nodes": [
         "N-10246"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:33",
       "investigative_direction": "Identify the person and any public statements by McCoy supporting them.",
       "transcript_snippet": "Rob McCoy's up here uh trying to I I guess you could say like launder the reputation of somebody who spent years in prison uh for abusing children.",
@@ -2773,7 +2835,9 @@
         "N-10251",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:33",
       "investigative_direction": "Compare TPUSA mission statements and programming over time, and identify the memorial speaker.",
       "transcript_snippet": "it was just so strange that everything was about faith. But like Turning Point USA was originally remarketing capitalism.",
@@ -2790,13 +2854,15 @@
       "claim": "The host says she has not looked into cloud seeding or the Malibu home fires but thinks Spencer Pratt did fantastic work showing it was a government conspiracy, followed by buying property cheaply.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:35:52",
       "investigative_direction": "Check the official Malibu fire investigation findings and Pratt's evidence.",
       "transcript_snippet": "Spencer Pratt from The Hills did some fantastic work showing up. This was actually government conspiracy.",
       "mentions_person_refs": [
         "N-3",
-        "N-892"
+        "N-891"
       ]
     },
     {
@@ -2807,7 +2873,9 @@
       "claim": "The host says that after the clip, media moved in to rewrite history and convince the masses that Charlie Kirk and she were not friends, and that people who were not his friends pretended to be his supporters.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:38",
       "investigative_direction": "Collect media statements disputing the friendship and compare with messages or appearances showing it.",
       "transcript_snippet": "They moved in to try to rewrite history and convince basses that Charlie Kirk and I weren't friends.",
@@ -2826,7 +2894,9 @@
       "related_nodes": [
         "N-10137"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:22",
       "investigative_direction": "Identify the eyewitnesses and match their accounts to video of Butch Hibbs at the bush.",
       "transcript_snippet": "We see him near the bush by himself. We have no evidence to show that he was actually talking to the bush. This is these are eyewitness accounts on that day.",
@@ -2847,7 +2917,9 @@
       "related_nodes": [
         "N-10250"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:22",
       "investigative_direction": "Match the clip's face and clothing to event attendee lists and viewer tips.",
       "transcript_snippet": "I have tried to discern through private means who this individual is, and I have had no luck. So, I'm going to ask the public for help",
@@ -2865,7 +2937,9 @@
       "related_nodes": [
         "N-10137"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:29",
       "investigative_direction": "Review multi-angle video of the seconds after the shot for who directed the crowd.",
       "transcript_snippet": "many of you guys emailed us and pointed to the fact that when the shooting happens, there's suddenly people on the side that are directing you saying go, go, go.",
@@ -2885,7 +2959,9 @@
       "related_nodes": [
         "N-10137"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:10",
       "investigative_direction": "Identify the people in the clip and the clip's source and timecode.",
       "transcript_snippet": "see right there on the side, you got people on the side there standing, pointing away.",
@@ -2904,7 +2980,9 @@
         "N-10250",
         "N-10311"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:58",
       "investigative_direction": "Obtain UVU police dispatch or BOLO records mentioning a maroon shirt.",
       "transcript_snippet": "I know that the police were looking for someone in a maroon shirt immediately after because somebody shared text messages with me that I did not publicize cuz I didn't want to.",
@@ -2922,7 +3000,9 @@
       "related_nodes": [
         "N-10250"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:58",
       "investigative_direction": "Check Samir's public posts and the first outlets that aired his footage.",
       "transcript_snippet": "he was not a Charlie Kirk fan. He somehow has a lot of footage and somehow immediately gave this footage to the media.",
@@ -2943,7 +3023,10 @@
       "related_nodes": [
         "N-10250"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia"
+      ],
       "claim_timestamp": "00:44:05",
       "investigative_direction": "Review incoming tips and any identification of the man in the maroon shirt.",
       "transcript_snippet": "he might know if there was some activity in that bush, please email more tips@candice. com.",
@@ -2963,7 +3046,10 @@
       "related_nodes": [
         "N-10250"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia"
+      ],
       "claim_timestamp": "00:44:51",
       "investigative_direction": "Check the tip inbox volume and outcome for the maroon-shirt appeal.",
       "transcript_snippet": "More tips at candacewowens. com. Okay, moving on from the person in the maroon shirt",
@@ -2984,7 +3070,9 @@
         "N-10137",
         "N-10250"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:51",
       "investigative_direction": "Identify the second man in the photo and its time and source.",
       "transcript_snippet": "But he wasn't the only person, by the way, who was in that bush before the event.",
@@ -3003,7 +3091,9 @@
       "related_nodes": [
         "N-10137"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:51",
       "investigative_direction": "Compile the post-shooting videos with timestamps and ask UVU police who authorized entry.",
       "transcript_snippet": "we got a flurry of videos of him after this shooting takes place. He's kind of just like crawling the area.",
@@ -3027,7 +3117,9 @@
       "related_nodes": [
         "N-10180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:56",
       "investigative_direction": "Identify the interviewee and the outlet; compare with acoustic analysis of the recorded shot.",
       "transcript_snippet": "It sounded like a higher caliber, like a 9 millimeter. It didn't sound like a 45 or anything, but I don't know.",
@@ -3045,7 +3137,9 @@
       "related_nodes": [
         "N-10248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:28",
       "investigative_direction": "Verify the number and locations of Calvary Chapel churches near Huntington Beach.",
       "transcript_snippet": "Did you see that there are seven Calvary Chapel churches near Huntington Beach, California?",
@@ -3061,7 +3155,9 @@
       "claim": "The host says critics take her out of context and pretend she is doing all of this on the basis of a dream and never had evidence, which she says shows they are fearful.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:14",
       "investigative_direction": "Compare critics' statements with the host's cited evidence.",
       "transcript_snippet": "pretending that we're doing all of this on the basis of a dream and that we never had any evidence.",
@@ -3079,7 +3175,9 @@
       "related_nodes": [
         "N-10094"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:30",
       "investigative_direction": "Not independently checkable without the host's sources.",
       "transcript_snippet": "has been because of Mormons that have been willing to go on the ground to ask questions, to get me information, to get me phone numbers.",
@@ -3097,7 +3195,9 @@
       "related_nodes": [
         "N-10246"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:30",
       "investigative_direction": "Not independently checkable without the email.",
       "transcript_snippet": "someone sent us an email and said because I discussed Calvary Chapel's abuse history, they would no longer support us.",
@@ -3117,7 +3217,9 @@
         "N-10164",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:30",
       "investigative_direction": "List the specific TPUSA statements about Kirk's Catholic interest and compare with evidence.",
       "transcript_snippet": "so many of them surround the topic of faith, which is very strange. Like he wasn't allowed to be Catholic. he wasn't allowed to be interested in Catholicism.",
@@ -3136,7 +3238,9 @@
         "N-10251",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:56:03",
       "investigative_direction": "Catalog the TPUSA statements the host calls lies and her debunking of each.",
       "transcript_snippet": "I recognized that as a clue, and that's what told me that I needed to hyperfocus on the faith angle because the lies were unnecessary.",
@@ -3154,7 +3258,9 @@
         "A-1412.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:56:52",
       "investigative_direction": "Check the Daily Mail and WSJ articles' wording and Erika Kirk's formal TPUSA titles.",
       "transcript_snippet": "she quite literally was the heir to Turning Point USA. Like she became the chairman.",
@@ -3174,7 +3280,9 @@
       "related_nodes": [
         "N-11223"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:58:20",
       "investigative_direction": "Review Afghan opium production data and Purdue and Sackler settlement findings.",
       "transcript_snippet": "our boys were guarding the poppy fields and them in Afghanistan and then we got an opioid crisis and the Sackler family uh seems to be the only ones that benefited from that opioid crisis.",
@@ -3190,7 +3298,9 @@
       "claim": "The host says she promised to address who yelled at Charlie, forgot the person's last name until she saw the notes, and promises she will have it on Monday.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:20",
       "investigative_direction": "Watch the next episode for the named donor and compare with the earlier claims.",
       "transcript_snippet": "I also said to you that I would address who yelled at Charlie and I totally forgot to get the last name of that person until I saw in the notes just now",

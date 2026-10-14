@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-14T17:16:22Z",
+  "generated_at": "2026-10-14T18:12:11Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -21,7 +21,7 @@
     "contradicts": 85,
     "isCorroboratedBy": 1660,
     "isMemberOf": 16143,
-    "isQualifiedBy": 94,
+    "isQualifiedBy": 95,
     "isSupportedBy": 6669
   },
   "revises_candidate_count": 3366,
@@ -22092,7 +22092,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2193",
-      "label": "A TPUSA employee was terminated at her home by the general counsel during a Zoom meeting, with her work computer retrieved",
+      "label": "A part-time TPUSA employee was terminated at her home by the general counsel during a fake Zoom meeting, with her work computer retrieved",
       "node_kind": "claim",
       "episode": 62
     },
@@ -65205,7 +65205,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8379",
-      "label": "Host Says Charlie Met Ike at Mar-a-Lago in a Concealed Fundraising Meeting",
+      "label": "Host Says Charlie Met Ike Perlmutter at Mar-a-Lago in a Concealed Fundraising Meeting",
       "node_kind": "claim",
       "episode": 70
     },
@@ -65324,7 +65324,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8396",
-      "label": "Host Says Pierre Spoke by Phone With Justin Streiff and Don Oro in Tampa",
+      "label": "Host Says Pierre Spoke by Phone With Justin Streiff and Don Orrico in Tampa",
       "node_kind": "claim",
       "episode": 70
     },
@@ -196374,6 +196374,14 @@
       "to": "A-2947.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
+      "episode": 88
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3804",
+      "to": "C-8598",
+      "relationship": "isQualifiedBy",
+      "explanation": "Host narrows or conditions prior claim",
       "episode": 88
     },
     {

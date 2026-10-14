@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-732, N-733, N-11035, N-11036, N-11037, N-11038, N-11039
+  - Tip-minted Nodes (supplement_2026-10): N-731, N-732, N-11035, N-11036, N-11037, N-11038, N-11039
   - Hole-minted Nodes (reintro-ep060): N-10437, N-10548, N-10560, N-10664, N-10694
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5485–C-5571
   - New Nodes Introduced:  N-487, N-488, N-489, N-490, N-10430, N-10431
-  - Reused Nodes Appearing: N-17, N-22, N-27, N-36, N-37, N-46, N-82, N-118, N-194, N-276, N-533, N-10000, N-10004, N-10027, N-10117, N-10122, N-10131, N-10139, N-10149, N-10267, N-10340, N-10341, N-10342, N-10358, N-10367, N-10370, N-10417, N-10422, N-10426, N-10436
+  - Reused Nodes Appearing: N-17, N-22, N-27, N-36, N-37, N-46, N-82, N-118, N-194, N-276, N-532, N-10000, N-10004, N-10027, N-10117, N-10122, N-10131, N-10139, N-10149, N-10267, N-10340, N-10341, N-10342, N-10358, N-10367, N-10370, N-10417, N-10422, N-10426, N-10436
   - (see registers), N-11
 
 ## 2. Executive Summary
@@ -350,7 +350,7 @@ Video Timestamp: 00:33:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5521, C-5522, C-5523, N-3, N-32, N-533, N-27, N-10004*
+*Related: C-5521, C-5522, C-5523, N-3, N-32, N-532, N-27, N-10004*
 
 ---
 
@@ -488,8 +488,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 Associate of Erika Kirk referenced in connection with verification of Andrew Kolvet's flight arrangements and tarmac arrival sequence.
 
 Evidence Count: 0
@@ -650,7 +649,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-732** Bill Cooper
+**N-731** Bill Cooper
 
 First named by the host at 00:14:50 in episode 60. Author the host calls the original conspiracy theorist who predicted military-linked mass shootings.
 
@@ -698,7 +697,7 @@ Marissa Strait, PragerU CEO, said by the host to be working on a documentary.
 
 ---
 
-**N-733** Shabbos Kestenbaum
+**N-732** Shabbos Kestenbaum
 
 First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Strait.
 
@@ -714,7 +713,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-533** Peter Thiel
+**N-532** Peter Thiel
 
 Peter Thiel; subject of Rubin's photo post and the alleged bridge loan.
 
@@ -1473,7 +1472,7 @@ Claim: The host says Bill Cooper, whom she calls the original conspiracy theoris
 Transcript Snippet: Bill Cooper had made a lot of predictions who was supposed to be the original conspiracy theorist who before there were any mass shootings was speaking about the military
 
 Anchored Artifacts: 
-Mentions: N-3, N-732
+Mentions: N-3, N-731
 Investigative Direction: Locate Cooper's recorded lectures and the dates and wording of any statement about future mass shootings.
 
 ---
@@ -1578,7 +1577,7 @@ Claim: The host says Marissa Strait, the Prager University CEO, is working on a 
 Transcript Snippet: And uh he's going around telling everybody it's going to be a takedown of Candace Owens and that's what her new focus is at Prager University
 
 Anchored Artifacts: 
-Mentions: N-3, N-118, N-733
+Mentions: N-3, N-118, N-732
 Related Nodes: N-10131
 Investigative Direction: Ask PragerU and the filmmaker to confirm the project's existence and subject; the host spells the name variously.
 
@@ -1607,7 +1606,7 @@ Claim: The host says Dave Rubin posted a picture of himself and her with a capti
 Transcript Snippet: He posts a picture of me and him and he says, "And as long as we are doing this, here we are at Peter Thiel's house in LA.
 
 Anchored Artifacts: A-2758.1
-Mentions: N-3, N-32, N-533
+Mentions: N-3, N-32, N-532
 Investigative Direction: Capture Rubin's post and the photo's metadata to confirm date and location.
 
 ---
@@ -1636,7 +1635,7 @@ Claim: The host says she did not know Peter Thiel before then, that Eric Weinste
 Transcript Snippet: I don't know Peter Thiel. I literally don't know Peter Thiel. So I met him at his LA he was having a party or whatever.
 
 Anchored Artifacts: A-2758.1
-Mentions: N-3, N-533, N-27
+Mentions: N-3, N-532, N-27
 Investigative Direction: Check photographs and other attendee accounts of the 2018 gathering.
 
 ---
@@ -1695,7 +1694,7 @@ Claim: The host says that story is the reason she stopped being friends with Dav
 Transcript Snippet: That's the reason I stopped being friends with Dave Rubin. I never shared that story until the audacity of this person who has told me about how he's done drugs with Peter Thiel.
 
 Anchored Artifacts: 
-Mentions: N-3, N-32, N-533
+Mentions: N-3, N-32, N-532
 Related Nodes: N-11037
 Investigative Direction: Compare with earlier episodes in which the host described her break with Rubin.
 
@@ -1724,7 +1723,7 @@ Claim: The host says Dave Rubin asked billionaire Peter Thiel for $5 million to 
 Transcript Snippet: he went to his friend, billionaire Peter Thiel, and asked for $5 million and they wrote it as like a bridge loan or whatever.
 
 Anchored Artifacts: 
-Mentions: N-3, N-32, N-533
+Mentions: N-3, N-32, N-532
 Investigative Direction: Check property and lien records for Rubin's purchase and ask either party to confirm or deny the loan terms.
 
 ---

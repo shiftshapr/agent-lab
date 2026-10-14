@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-581",
-      "ref": "N-581",
+      "@id": "N-580",
+      "ref": "N-580",
       "name": "David Hull",
       "type": "person",
       "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
@@ -1011,8 +1011,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-593",
-      "ref": "N-593",
+      "@id": "N-592",
+      "ref": "N-592",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Congressman the host says critics attacked and removed.",
@@ -1028,8 +1028,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-852",
-      "ref": "N-852",
+      "@id": "N-851",
+      "ref": "N-851",
       "name": "Casey Baugh",
       "type": "person",
       "description": "Alleged UVU donor and partial owner of the N88 plane.",
@@ -1046,8 +1046,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-879",
-      "ref": "N-879",
+      "@id": "N-878",
+      "ref": "N-878",
       "name": "Officer Goforth",
       "type": "person",
       "description": "Officer the host says was approached by the Dodge Challenger after midnight.",
@@ -1322,8 +1322,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-916",
-      "ref": "N-916",
+      "@id": "N-915",
+      "ref": "N-915",
       "name": "Agent Mortensson",
       "type": "person",
       "description": "First named by the host at 00:18:34 in episode 155. Investigator whose review of UVU security video the September 15 warrant describes.",
@@ -1339,8 +1339,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-917",
-      "ref": "N-917",
+      "@id": "N-916",
+      "ref": "N-916",
       "name": "Miss Noble",
       "type": "person",
       "description": "First named by the host at 00:07:25 in episode 155. Neighbor who with her husband reported a Dodge Challenger driven by a bald person with two others in the back seat.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-915",
-      "ref": "N-915",
+      "@id": "N-914",
+      "ref": "N-914",
       "name": "Bobby Saucelito",
       "type": "person",
       "description": "First named by the host at 00:00:46 in episode 155. Comedian and political commentator whose pre-release predictions about the Neff and Boreing podcast the host plays.",
@@ -1376,8 +1376,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-918",
-      "ref": "N-918",
+      "@id": "N-917",
+      "ref": "N-917",
       "name": "Chelsea Baugh",
       "type": "person",
       "description": "First named by the host at 00:25:06 in episode 155. Named with Casey Baugh as a UVU donor and partial owner of the N88 plane.",
@@ -1720,7 +1720,7 @@
       "claim_timestamp": "00:19:42–00:21:12",
       "investigative_direction": "Obtain the preliminary hearing transcript and audio/video to verify the specific omissions and re-orderings between the warrant narrative and Hull's testimony.",
       "mentions_person_refs": [
-        "N-581"
+        "N-580"
       ]
     },
     {
@@ -1783,7 +1783,9 @@
         "A-2405.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Locate Carlson's original post or remark about the photo and confirm his wording and date.",
       "transcript_snippet": "Tucker Carlson said, just look at the photo.",
@@ -1806,7 +1808,9 @@
       "related_nodes": [
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:31",
       "investigative_direction": "Compare the towed vehicle's make, year, trim and body photographs with the admin-lot footage frames, ideally with an independent automotive identification.",
       "transcript_snippet": "there is a difference in the body on the Dodge Challenger uh which was towed and has since been identified as Tyler Robinson's Dodge Challenger",
@@ -1828,7 +1832,9 @@
         "N-10847",
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:41",
       "investigative_direction": "Measure the driver's proportions in the admin-lot footage against known heights of persons of interest, if the original footage is released.",
       "transcript_snippet": "And he has exceptionally tall legs and he looks to me like he's shaped like Waluigi.",
@@ -1849,7 +1855,9 @@
         "N-10847",
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:41",
       "investigative_direction": "Obtain simultaneous timestamps from the garage and admin-lot cameras to show whether both subjects were on camera at the same moment.",
       "transcript_snippet": "We do not think that the person who gets out of this car is the same person that is in the garage at the same time.",
@@ -1871,7 +1879,9 @@
         "N-10850",
         "N-10040"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:41",
       "investigative_direction": "Request the full UVU campus camera archive for 8:30 to 10:00 a.m. covering both vehicles and their occupants.",
       "transcript_snippet": "we have actually no idea what either of these two people did for an approximate hour and a half on campus",
@@ -1890,13 +1900,15 @@
         "N-10040",
         "N-11149"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:41",
       "investigative_direction": "Read the preliminary hearing transcript for Hull's testimony on the TPUSA representative exchange and identify the employee asked.",
       "transcript_snippet": "All we got from the pre preliminary hearing is that Maroon Boy parked went up to a Turning Point USA employee and asked her if this is where the event was going to be held.",
       "mentions_person_refs": [
         "N-3",
-        "N-581"
+        "N-580"
       ]
     },
     {
@@ -1912,13 +1924,15 @@
       "related_nodes": [
         "N-10848"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:41",
       "investigative_direction": "Compare the show's published timeline against both the September 15 warrant narrative and the hearing transcript to document which source supplied each entry.",
       "transcript_snippet": "Yesterday, we wrongly showed you on the timeline um that this was during a time where he then went and visited a wooded area off campus.",
       "mentions_person_refs": [
         "N-3",
-        "N-581"
+        "N-580"
       ]
     },
     {
@@ -1934,7 +1948,9 @@
         "N-10847",
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:41",
       "investigative_direction": "Pull garage exit and admin-lot exit camera timestamps for both vehicles to confirm the near-simultaneous departures.",
       "transcript_snippet": "he's going to leave 17 minutes later at about 9 9:50",
@@ -1957,12 +1973,14 @@
       "related_nodes": [
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:41",
       "investigative_direction": "Check the hearing transcript for any testimony on tracking the Challenger after 9:33 a.m. and for any off-campus license-plate-reader hits.",
       "transcript_snippet": "Agent Hull doesn't even so much as try to suggest that they tracked Maroon Boy Dodge Challenger off campus.",
       "mentions_person_refs": [
-        "N-581",
+        "N-580",
         "N-40",
         "N-3"
       ]
@@ -1977,7 +1995,9 @@
       "related_nodes": [
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:25",
       "investigative_direction": "Search discovery and neighborhood camera releases for any frame of the Challenger parked near campus on September 10.",
       "transcript_snippet": "There are no photos or videos of an identifiable Dodge Challenger parked off campus.",
@@ -1995,12 +2015,14 @@
       "related_nodes": [
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:25",
       "investigative_direction": "Request Goforth's bodycam and dispatch records for the after-midnight contact and confirm whether any recording exists.",
       "transcript_snippet": "They've never indicated that he had on body cam footage.",
       "mentions_person_refs": [
-        "N-879",
+        "N-878",
         "N-3"
       ]
     },
@@ -2016,12 +2038,14 @@
       "related_nodes": [
         "N-10848"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:34",
       "investigative_direction": "Compare Hull's narration line by line with the released footage and note each point where the spoken description and the video disagree.",
       "transcript_snippet": "at times we went back and realized those two things were in conflict with one another",
       "mentions_person_refs": [
-        "N-581",
+        "N-580",
         "N-3"
       ]
     },
@@ -2038,7 +2062,9 @@
         "N-10850",
         "N-10040"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:50",
       "investigative_direction": "Obtain the full eight-minute top-level garage footage at native resolution for independent frame review.",
       "transcript_snippet": "there's only one time where I observe what and I'm going to show you that what looks to me like he's I don't know maybe picking up something down by his feet",
@@ -2059,7 +2085,9 @@
         "N-10011",
         "N-10040"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:00",
       "investigative_direction": "Check the preliminary hearing exhibit list and Hull's testimony for any use of the TMZ 8:07 a.m. footage.",
       "transcript_snippet": "The TMZ footage, which they, for some reason, omitted, actually shows him earlier.",
@@ -2084,7 +2112,9 @@
         "N-10032",
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:00",
       "investigative_direction": "Establish who selected the parking structure and arrival time, using Robinson's phone location data and campus gate or parking records.",
       "transcript_snippet": "they needed that crucial footage of the Dodge Challenger captured onto camera at a specific pre-planned time",
@@ -2106,7 +2136,9 @@
         "N-10032",
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:44",
       "investigative_direction": "Identify who drove the Challenger into the structure and test the decoy theory against Robinson's phone, purchase and message records.",
       "transcript_snippet": "That was the decoy boy's literal job was to make sure that this car gets captured on camera throughout the parking structure.",
@@ -2124,7 +2156,9 @@
       "related_nodes": [
         "N-10051"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:50",
       "investigative_direction": "Search the cemetery and nearby trash receptacles for records of recovered clothing and obtain Dairy Queen camera footage and receipts.",
       "transcript_snippet": "we broke the story that Tyler Robinson was seen at the Dairy Queen and what was communicated was that he was throwing out clothes in the cemetery nearby",
@@ -2144,7 +2178,9 @@
       "claim": "The host says she has always maintained that Robinson played a role and was around campus, that she does not believe he had anything to do with the actual killing of Charlie Kirk, and that he could be guilty of tampering with evidence.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:50",
       "investigative_direction": "Compare the host's tampering theory against the charging documents and any evidence-tampering counts or investigative reports.",
       "transcript_snippet": "I do not believe he had anything to do with the actual killing of Charlie Kirk, but I reckon that he could be guilty of uh tampering with evidence.",
@@ -2166,7 +2202,10 @@
       "related_nodes": [
         "N-10051"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "DIA"
+      ],
       "claim_timestamp": "00:16:38",
       "investigative_direction": "Record tip volume and any follow-up in later episodes where the host cites emailed tips.",
       "transcript_snippet": "Please email us more tips@canniswowens. com.",
@@ -2184,7 +2223,9 @@
       "related_nodes": [
         "N-10168"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:38",
       "investigative_direction": "Match Lance Twiggs' phone location and activity records on September 10 against the campus vehicle footage.",
       "transcript_snippet": "possibly driven by his boyfriend, Lance.",
@@ -2205,7 +2246,9 @@
         "N-10019",
         "N-10343"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:38",
       "investigative_direction": "Request the clothing evidence inventory and chain of custody for the black flag shirt and compare it to footage of the person who returned to campus.",
       "transcript_snippet": "I do not believe a Tyler Robinson ever changed on September 10th into a black long sleeve shirt shirt featuring an American flag.",
@@ -2224,7 +2267,9 @@
       "related_nodes": [
         "N-10019"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:38",
       "investigative_direction": "Obtain the footwear evidence report and any survey of other Converse-wearing individuals on campus footage.",
       "transcript_snippet": "I certainly do not believe that the Converse sneakers are convincing enough evidence to put somebody to death.",
@@ -2244,7 +2289,9 @@
         "N-11315",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:38",
       "investigative_direction": "Obtain UVU room reservations, access logs and calendars for the morning of September 10 to see whether any meeting occurred.",
       "transcript_snippet": "I think there could have been a morning meeting that happened at UVU ahead of what was in my opinion a very carefully planned assassination.",
@@ -2262,7 +2309,9 @@
       "related_nodes": [
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:38",
       "investigative_direction": "Obtain Miss Noble's statement, 911 or tip-line record and the neighborhood surveillance referenced in the warrants.",
       "transcript_snippet": "I think Miss Noble, uh, the neighbor and her husband were telling the truth when she said that she saw a bald man and two other people in a Dodge Challenger",
@@ -2270,7 +2319,7 @@
         "C-3530"
       ],
       "mentions_person_refs": [
-        "N-917",
+        "N-916",
         "N-3"
       ]
     },
@@ -2284,7 +2333,9 @@
       "related_nodes": [
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:20",
       "investigative_direction": "Check rental agency records for grey Dodge Challengers rented around Salt Lake and Utah counties for September 9 to 11.",
       "transcript_snippet": "I suspect that those people were driving a rental car",
@@ -2303,7 +2354,9 @@
         "N-10019",
         "N-10343"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:34",
       "investigative_direction": "Collect the dated early law-enforcement statements and later filings on clothing change location and screwdriver recovery location.",
       "transcript_snippet": "Clothes in the rooftop, that the screwdriver was found with the gun in the woods, not on the rooftop. That got changed.",
@@ -2325,13 +2378,15 @@
         "N-10848",
         "N-10019"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:42",
       "investigative_direction": "Obtain the filed September 15 warrant affidavit to verify the clothing description and compare it with the maroon-shirt reporting.",
       "transcript_snippet": "In the video, Robinson is seen wearing a ball cap, a red t-shirt, light colored shorts, and Converse style tennis shoes.",
       "mentions_person_refs": [
         "N-40",
-        "N-916",
+        "N-915",
         "N-3"
       ]
     },
@@ -2347,7 +2402,9 @@
       "related_nodes": [
         "N-10848"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:42",
       "investigative_direction": "Obtain the hearing transcript and any Chick-fil-A transaction or camera records for the 10:09 a.m. to 11:00 a.m. window.",
       "transcript_snippet": "And he heads to Chick-fil-A, sits down, he eats Chick-fil-A, and then he goes to walk around campus to the wooded area where the gun will eventually be found.",
@@ -2355,7 +2412,7 @@
         "C-10436"
       ],
       "mentions_person_refs": [
-        "N-581",
+        "N-580",
         "N-40",
         "N-3"
       ]
@@ -2372,7 +2429,9 @@
       "related_nodes": [
         "N-10848"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:42",
       "investigative_direction": "Compare the 11:28 message metadata and device location against the claimed off-campus timeline.",
       "transcript_snippet": "He plays Wordle off campus, sends that score to his friends at 11:28 and then he changes back into his clothes.",
@@ -2380,7 +2439,7 @@
         "C-10438"
       ],
       "mentions_person_refs": [
-        "N-581",
+        "N-580",
         "N-40",
         "N-3"
       ]
@@ -2398,7 +2457,9 @@
         "N-10019",
         "N-10848"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:12",
       "investigative_direction": "Request any camera footage of Robinson's vehicle or person off campus between 11:00 a.m. and the return to campus.",
       "transcript_snippet": "And then he changes into that black shirt with an American flag again. Use your imagination. We have no evidence of that.",
@@ -2418,12 +2479,14 @@
         "N-10848",
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:12",
       "investigative_direction": "Compare the Challenger-at-Noble-house time in each of the three warrants and the surveillance footage timestamp.",
       "transcript_snippet": "That time gets adjusted three times across three different warrants.",
       "mentions_person_refs": [
-        "N-917",
+        "N-916",
         "N-3"
       ]
     },
@@ -2438,7 +2501,9 @@
         "N-10447",
         "N-10974"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:12",
       "investigative_direction": "Obtain the autopsy report, ballistics and explosives-residue analysis, and the wound description from the treating surgeon.",
       "transcript_snippet": "Actually, we can just assert that he simply was not shot by a 300 6. He potentially was not even shot at all.",
@@ -2460,7 +2525,9 @@
         "N-10849",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:51",
       "investigative_direction": "Collect named eyewitness accounts and any photographs or video of the Woodbury building roof from September 10.",
       "transcript_snippet": "There was a lot of people who early on kept saying that they thought that they saw things happening on top of the Woodberry built building.",
@@ -2480,7 +2547,9 @@
       "related_nodes": [
         "N-10849"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:51",
       "investigative_direction": "Identify the arrest through UVU police or Orem and Provo booking records for September 11 and the stated charge.",
       "transcript_snippet": "There was also that person that was arrested who was taking photos outside of the Woodbury building that nobody really talks about anymore uh the very next day who was wearing a medical coat",
@@ -2501,7 +2570,9 @@
         "N-11168",
         "N-10849"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:33",
       "investigative_direction": "Retrieve the Maxfield statement text and FAA registration history for the N88 aircraft including the Romania registration.",
       "transcript_snippet": "It was their plane. They had to come out and give a statement.",
@@ -2527,7 +2598,9 @@
         "N-10849",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:33",
       "investigative_direction": "Check FAA registration and any LLC ownership filings for the aircraft to confirm co-owners.",
       "transcript_snippet": "they actually shared ownership of that plane uh with a couple last name B Aum Bomb who had given $5 million to UVU",
@@ -2553,13 +2626,15 @@
         "N-10849",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:06",
       "investigative_direction": "Verify the donation amount, date and recipient through UVU foundation announcements and gift agreements.",
       "transcript_snippet": "Chelsea and Casey Ba B A U G H donated $5 million to UVU.",
       "mentions_person_refs": [
-        "N-852",
-        "N-918",
+        "N-851",
+        "N-917",
         "N-3"
       ]
     },
@@ -2576,7 +2651,9 @@
         "N-10849",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:06",
       "investigative_direction": "Confirm the institute's naming and location in UVU records and the Baughs' status in the aircraft ownership records.",
       "transcript_snippet": "they have an entrepreneurship institute that was located in the Woodbury building and they were partial owners of that plane",
@@ -2584,8 +2661,8 @@
         "C-9402"
       ],
       "mentions_person_refs": [
-        "N-852",
-        "N-918",
+        "N-851",
+        "N-917",
         "N-3"
       ]
     },
@@ -2601,7 +2678,10 @@
       "related_nodes": [
         "N-10849"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "DIA"
+      ],
       "claim_timestamp": "00:25:06",
       "investigative_direction": "Record tip volume and any follow-up in later episodes where the host cites emailed tips.",
       "transcript_snippet": "reach back out to us at more tips@candis. com.",
@@ -2620,7 +2700,9 @@
         "N-10416",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:12",
       "investigative_direction": "Tabulate Boreing's show topics and guests against the host's show dates for a quantitative comparison.",
       "transcript_snippet": "He will then host someone to talk about the topic I'm covering and u take a position on it that is opposite of mine and call me a demon.",
@@ -2642,7 +2724,9 @@
       "related_nodes": [
         "N-10416"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:12",
       "investigative_direction": "Locate Boreing's original post and the live-show clip it references to confirm the connection.",
       "transcript_snippet": "apparently it sounded like I said selfesteem as opposed to self esteem. And so he pulls this second on the show and creates a diagnosis for me.",
@@ -2664,12 +2748,14 @@
         "A-2406.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:23",
       "investigative_direction": "Find any Kirk statement in which he called Neff a secret weapon, with date and context.",
       "transcript_snippet": "So, there's a reason Charlie called him his secret weapon.",
       "mentions_person_refs": [
-        "N-915",
+        "N-914",
         "N-1",
         "N-162"
       ]
@@ -2686,12 +2772,14 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:27",
       "investigative_direction": "Seek any contract, sponsorship or payment record between Boreing's company and Turning Point USA.",
       "transcript_snippet": "Germs wants to get paid by Turning Point.",
       "mentions_person_refs": [
-        "N-915",
+        "N-914",
         "N-374"
       ]
     },
@@ -2707,7 +2795,9 @@
       "related_nodes": [
         "N-10416"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:12",
       "investigative_direction": "Compare Boreing's podcast sponsorship and TPUSA ties against the host's stalking characterization.",
       "transcript_snippet": "The only thing that he got wrong in that assessment is that he's not doing it for money.",
@@ -2715,7 +2805,7 @@
         "C-11901"
       ],
       "mentions_person_refs": [
-        "N-915",
+        "N-914",
         "N-374",
         "N-3"
       ]
@@ -2728,7 +2818,9 @@
       "claim": "The host says Charlie Kirk never liked Boreing and Boreing never liked Charlie, and that Boreing does not care about Erika Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:12",
       "investigative_direction": "Look for dated communications or public statements between Kirk and Boreing that show their relationship.",
       "transcript_snippet": "Charlie never liked him. He never liked Charlie.",
@@ -2749,7 +2841,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:12",
       "investigative_direction": "Reconcile with the host's other accounts of how she left the Daily Wire and the termination or separation paperwork.",
       "transcript_snippet": "I am the employee that he fired, but he cannot let go.",
@@ -2768,7 +2862,9 @@
         "A-2407.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:51",
       "investigative_direction": "Review the speaker's prior public statements about platform bans of the host to test the statement.",
       "transcript_snippet": "I have never once said YouTube should ban Candace.",
@@ -2787,7 +2883,9 @@
         "A-2407.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:44",
       "investigative_direction": "Ask the speaker for the date and medium of that private exchange and for the text or email.",
       "transcript_snippet": "The last communication I had with Tucker was Tucker, just privately, can you ask your brother to just stop pushing this Candace stuff?",
@@ -2807,7 +2905,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:44",
       "investigative_direction": "Identify the Daily Wire v. Owens case numbers and filings on the court docket.",
       "transcript_snippet": "But the calls to sue me, like he sued me privately for years throughout court.",
@@ -2828,7 +2928,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:44",
       "investigative_direction": "Identify the episode and speaker of the clip and any pending defamation filings naming those parties.",
       "transcript_snippet": "Candace Owens has engaged in the worst act of public defamation probably in American history.",
@@ -2852,7 +2954,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:07",
       "investigative_direction": "Review the cited statements against the actual malice standard in any filed complaint.",
       "transcript_snippet": "andor I'm not sure which, but certainly Candace has crossed all those lines.",
@@ -2874,7 +2978,9 @@
       "related_nodes": [
         "N-11316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:52",
       "investigative_direction": "Check the Polymarket midterm contract's price history around the date of this episode.",
       "transcript_snippet": "Poly Market basically dropped odds and said that Democrats are surging to record high.",
@@ -2895,7 +3001,9 @@
       "related_nodes": [
         "N-11316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:52",
       "investigative_direction": "Find Levin's and the second named person's statements calling for state action or lawsuits against the host.",
       "transcript_snippet": "Uh speech censorship that's being platformed, demanded by people like Mark Levin, Andrew Type, people that are asking for the state to get involved um in lawsuits.",
@@ -2914,12 +3022,14 @@
       "related_nodes": [
         "N-11316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:43",
       "investigative_direction": "Check Massie's primary result and outside spending against him as documented in FEC filings.",
       "transcript_snippet": "You attack Thomas Massie. Got him out of there.",
       "mentions_person_refs": [
-        "N-593",
+        "N-592",
         "N-3"
       ]
     },
@@ -2933,7 +3043,9 @@
       "related_nodes": [
         "N-11316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:43",
       "investigative_direction": "Locate the original Loomer post using the post archive and confirm wording and date.",
       "transcript_snippet": "like um Laura Loomer referring to me as a ghetto black",
@@ -2950,7 +3062,9 @@
       "claim": "The host says her agenda is to find out who killed Charlie Kirk and why people close to him are lying about everything.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:06",
       "investigative_direction": "Track which specific statements by people close to Kirk the host identifies as lies across later episodes.",
       "transcript_snippet": "I'd like to find out who killed Charlie Kirk and why people that are close to him are lying about everything.",
@@ -2967,7 +3081,9 @@
       "claim": "The host says she has lawsuits going on and lawsuits pending, and that if Jeremy gets his way somebody else will sue her.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:47",
       "investigative_direction": "Identify the active and pending suits involving the host on court dockets.",
       "transcript_snippet": "I got lawsuits going on and lawsuits pending.",

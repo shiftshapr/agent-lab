@@ -849,8 +849,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-592",
-      "ref": "N-592",
+      "@id": "N-591",
+      "ref": "N-591",
       "name": "Mark Bricker",
       "type": "person",
       "description": "First named by the host at 00:18:29 in episode 144.",
@@ -883,8 +883,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-581",
-      "ref": "N-581",
+      "@id": "N-580",
+      "ref": "N-580",
       "name": "David Hull",
       "type": "person",
       "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
@@ -1418,8 +1418,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-764",
-      "ref": "N-764",
+      "@id": "N-763",
+      "ref": "N-763",
       "name": "Allan Robertson",
       "type": "person",
       "description": "First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terrell Farnsworth to get the footage.",
@@ -1435,8 +1435,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-765",
-      "ref": "N-765",
+      "@id": "N-764",
+      "ref": "N-764",
       "name": "Andrea Birkhart",
       "type": "person",
       "description": "First named by a speaker on the Kolvet/Neff show at 00:29:09 in episode 144. Described as an apolitical person asked whether a defense would present exculpatory evidence at a preliminary hearing; spelled Birkhart in the transcript.",
@@ -1552,7 +1552,7 @@
       "mentions_person_refs": [
         "N-267",
         "N-1",
-        "N-581"
+        "N-580"
       ]
     },
     {
@@ -1594,7 +1594,7 @@
       "mentions_person_refs": [
         "N-267",
         "N-207",
-        "N-581"
+        "N-580"
       ]
     },
     {
@@ -1613,7 +1613,7 @@
       "claim_timestamp": "00:18:30–00:19:30",
       "investigative_direction": "Obtain the preliminary-hearing transcript and confirm testimony verbatim.",
       "mentions_person_refs": [
-        "N-581"
+        "N-580"
       ]
     },
     {
@@ -1633,7 +1633,7 @@
       "claim_timestamp": "00:18:30–00:19:30",
       "investigative_direction": "Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel.",
       "mentions_person_refs": [
-        "N-592"
+        "N-591"
       ]
     },
     {
@@ -1688,7 +1688,7 @@
       "claim_timestamp": "00:19:30–00:20:30",
       "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit.",
       "mentions_person_refs": [
-        "N-592"
+        "N-591"
       ]
     },
     {
@@ -1991,7 +1991,7 @@
       "investigative_direction": "Check the preliminary hearing transcript for Hull's stated arrival time.",
       "transcript_snippet": "who were on the scene, who arrived on the scene around 1:30, I believe he said.",
       "mentions_person_refs": [
-        "N-581",
+        "N-580",
         "N-3"
       ]
     },
@@ -2104,7 +2104,7 @@
         "C-3199"
       ],
       "mentions_person_refs": [
-        "N-764",
+        "N-763",
         "N-267",
         "N-3"
       ]
@@ -2325,8 +2325,8 @@
       "investigative_direction": "Obtain the preliminary hearing transcript for Hull's chain-of-custody testimony on surveillance collection.",
       "transcript_snippet": "Sergeant Mark Bricker of the SBI was put in charge of gathering all of the surveillance on campus at UVU.",
       "mentions_person_refs": [
-        "N-581",
-        "N-592",
+        "N-580",
+        "N-591",
         "N-3"
       ]
     },
@@ -2372,7 +2372,7 @@
       "investigative_direction": "Ask Birkhart on record and compare with the defense's stated reasons for not presenting evidence at the hearing.",
       "transcript_snippet": "If they had exculpatory evidence, whether it's the parents that actually, you know, think he's innocent or they have some steakhouse receipt, would they not present that at the preliminary hearing?",
       "mentions_person_refs": [
-        "N-765",
+        "N-764",
         "N-14"
       ]
     },

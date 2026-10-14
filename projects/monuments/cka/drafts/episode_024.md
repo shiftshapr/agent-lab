@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: b16f4980388370185d291129aae2198b32071168c9d782f7764725d6e49bf14e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-853, N-854, N-855, N-856, N-857, N-11223, N-11224, N-11225
+  - Tip-minted Nodes (supplement_2026-10d): N-852, N-853, N-854, N-855, N-856, N-11223, N-11224, N-11225
   - Hole-minted Nodes (reintro-ep024): N-224, N-226, N-274, N-387, N-10236, N-10336, N-10337, N-10543
-  - Tip-minted Nodes (reintro-ep024): N-719, N-724, N-10917, N-11092, N-11107
+  - Tip-minted Nodes (reintro-ep024): N-718, N-723, N-10917, N-11092, N-11107
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9447–C-9512
   - New Nodes Introduced: N-214, N-215, N-216, N-218, N-219, N-220, N-10216, N-10217
@@ -505,8 +505,7 @@ Host; speaks for herself throughout.
 
 ---
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 Justin Streiff; transcribed as Stripe. The host thinks he was the CEO before Erika Kirk.
 
 *Related: C-9490*
@@ -633,7 +632,7 @@ Emmanuel Macron; subject of a claim in the aired clip.
 
 ---
 
-**N-719** Sheldon Adelson
+**N-718** Sheldon Adelson
 
 Sheldon Adelson; founder of the gambling empire the host cites.
 
@@ -641,7 +640,7 @@ Sheldon Adelson; founder of the gambling empire the host cites.
 
 ---
 
-**N-724** Volodymyr Zelensky
+**N-723** Volodymyr Zelensky
 
 Volodymyr Zelensky; listed in the aired clip.
 
@@ -825,7 +824,7 @@ Erika Kirk Interview Campaign Talking Points; topic reused.
 
 ---
 
-**N-853** Emma Goldman
+**N-852** Emma Goldman
 
 First named by the host at 00:11:28 in episode 24. Historical anarchist the host credits with bringing feminism to America.
 
@@ -833,7 +832,7 @@ First named by the host at 00:11:28 in episode 24. Historical anarchist the host
 
 ---
 
-**N-854** Al Goldstein
+**N-853** Al Goldstein
 
 First named by the host at 00:12:45 in episode 24. Pornography publisher the host quotes on why Jews are in pornography.
 
@@ -841,7 +840,7 @@ First named by the host at 00:12:45 in episode 24. Pornography publisher the hos
 
 ---
 
-**N-855** Samuel Roth
+**N-854** Samuel Roth
 
 First named by the host at 00:12:45 in episode 24. Publisher the host says fought in court for the decision making pornography free speech.
 
@@ -849,7 +848,7 @@ First named by the host at 00:12:45 in episode 24. Publisher the host says fough
 
 ---
 
-**N-856** Magnus Hirschfeld
+**N-855** Magnus Hirschfeld
 
 First named by the host at 00:13:28 in episode 24. Sexologist the host credits as the origin of transgenderism.
 
@@ -857,7 +856,7 @@ First named by the host at 00:13:28 in episode 24. Sexologist the host credits a
 
 ---
 
-**N-857** Adam Lanza
+**N-856** Adam Lanza
 
 First named by the host at 00:45:55 in episode 24. Sandy Hook shooter the host cites in a pattern theory about standardized testing and government contact.
 
@@ -1352,7 +1351,7 @@ Claim: The clip aired in Shapiro's segment has the host listing Trudeau, Obama, 
 Transcript Snippet: Emmanuel Macron, gay and married to a trans man who molested him when he was a child.
 
 Anchored Artifacts: A-3012.1
-Mentions: N-3, N-387, N-724, N-82
+Mentions: N-3, N-387, N-723, N-82
 Tags: relevance:tangential
 Investigative Direction: Identify the original source episode; Macron legal filings and public records on the claims about Brigitte Macron.
 
@@ -1382,7 +1381,7 @@ Claim: The host says that feminism and modern psychology were brought to and fou
 Transcript Snippet: people like Emma Goldman on feminism. Sigmund Freud, the father of modern psychology.
 
 Anchored Artifacts: 
-Mentions: N-3, N-853, N-50
+Mentions: N-3, N-852, N-50
 Tags: relevance:tangential
 Investigative Direction: Historical record on Goldman's and Freud's activities; this is the host's sweeping characterization of a group's role.
 
@@ -1397,7 +1396,7 @@ Claim: The host says the gambling empire is where the Adelson empire wealth come
 Transcript Snippet: The gambling empire uh is where the Adelson empire wealth comes from. Uh as are many pharmaceuticals like the Sackler family.
 
 Anchored Artifacts: 
-Mentions: N-3, N-719
+Mentions: N-3, N-718
 Related Nodes: N-11223
 Tags: relevance:tangential
 Investigative Direction: Corporate and philanthropic records on the Adelson and Sackler fortunes.
@@ -1429,7 +1428,7 @@ Claim: The host quotes Al Goldstein as having notoriously said the only reason J
 Transcript Snippet: He's the one who notoriously said, "The only reason that Jews are in pornography is that we think Christ sucks. Catholicism sucks.
 
 Anchored Artifacts: 
-Mentions: N-3, N-854
+Mentions: N-3, N-853
 Tags: relevance:tangential
 Investigative Direction: Locate the original Al Goldstein interview or publication containing the quoted words.
 
@@ -1444,7 +1443,7 @@ Claim: The host says pornography became considered free speech because Jewish in
 Transcript Snippet: That's because Jewish individuals in America fought for that. Samuel Roth, actually.
 
 Anchored Artifacts: 
-Mentions: N-3, N-855
+Mentions: N-3, N-854
 Tags: relevance:tangential
 Investigative Direction: Court record of Roth v. United States and Roth's role in it.
 
@@ -1459,7 +1458,7 @@ Claim: The host says that if one traces where transgenderism came from, Magnus H
 Transcript Snippet: Transgenderism, go back and and try to figure out where that came from. Magnus Hirschfeld was the doctor and the sexologist.
 
 Anchored Artifacts: 
-Mentions: N-3, N-856
+Mentions: N-3, N-855
 Tags: relevance:tangential
 Investigative Direction: Historical record of Hirschfeld's work; this is the host's attribution of a modern movement to one person.
 
@@ -2086,7 +2085,7 @@ Claim: The host says that a Connecticut shooter, whom she thinks is Adam Lanza, 
 Transcript Snippet: He somehow hacked the government system, and then the FBI showed up at his door, and then he was a part of some Yale program. I think it's Adam Lanza that I'm thinking of.
 
 Anchored Artifacts: A-1320.5
-Mentions: N-3, N-857
+Mentions: N-3, N-856
 Supports: C-1580
 Tags: relevance:tangential
 Investigative Direction: Sandy Hook investigative records (Connecticut State Attorney report) on Lanza's education and any government contact; the host herself is unsure of the name.

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 7bb121d0ec2fb6f7ef5f449856c387ad97b4f7d167aa9b95601e197b3fa147dc
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-914, N-915, N-11310, N-11311
+  - Tip-minted Nodes (supplement_2026-10e): N-913, N-914, N-11310, N-11311
   - Hole-minted Nodes (reintro-ep151): N-10864
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11757–C-11803
@@ -34,7 +34,7 @@
   - Artifact Families Introduced: A-2362, A-2363, A-2364, A-2365, A-2366, A-2367, A-2368, A-2369, A-2370, A-2371, A-2372, A-2373, A-2521
   - Claim Range: C-3426–C-3444, C-3746
   - New Nodes Introduced: N-10827, N-10828, N-10829, N-10830
-  - Reused Nodes Appearing: N-11, N-518, N-251, N-3, N-60, N-374, N-618, N-624, N-10000, N-10014, N-10040, N-10043, N-10100, N-10104, N-10107, N-10164, N-10172, N-10398, N-10416, N-10447, N-10537, N-10573, N-10651, N-10699, N-10737, N-10797, N-10810, N-10900, N-10925, N-10974, N-11053
+  - Reused Nodes Appearing: N-11, N-517, N-251, N-3, N-60, N-374, N-617, N-623, N-10000, N-10014, N-10040, N-10043, N-10100, N-10104, N-10107, N-10164, N-10172, N-10398, N-10416, N-10447, N-10537, N-10573, N-10651, N-10699, N-10737, N-10797, N-10810, N-10900, N-10925, N-10974, N-11053
   - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harif/Hariff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
 ---
@@ -70,7 +70,7 @@ Confidence: high
 Video Timestamp: 00:07:25
 Speaker: N-3
 Quote: Jeremy Boring is Ted Bundy doing a Mr. Rogers impression
-Context: Host repeats Shane Cashman (N-618) line about Boreing.
+Context: Host repeats Shane Cashman (N-617) line about Boreing.
 Tags: boreing, daily_wire
 Confidence: high
 
@@ -81,7 +81,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:11:11
-Speaker: N-915
+Speaker: N-914
 Quote: he so desperately wanted to say yanking and baking right there
 Context: Bobby Saucelito, in the clip, jokes about Turek's phrase.
 Tags: turek, cpr
@@ -328,7 +328,7 @@ Video Timestamp: 00:16:28–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (enhancement applied; host's frame-by-frame interpretations are interpretive)
 
-*Related: C-3437, C-3438, C-3439, C-3441, N-518*
+*Related: C-3437, C-3438, C-3439, C-3441, N-517*
 
 ---
 
@@ -801,7 +801,7 @@ Tyler Robinson; the black-shirt figure is compared with him.
 
 ---
 
-**N-518** Christopher Bagley
+**N-517** Christopher Bagley
 
 Officer Bagley; his testimony linking the black-shirt and maroon figures.
 
@@ -817,13 +817,13 @@ Laura Loomer; the host says Boreing called her a national treasure.
 
 ---
 
-**N-618** Shane Cashman
+**N-617** Shane Cashman
 
 Shane Cashman; source of the Ted Bundy line the host repeats.
 
 ---
 
-**N-624** Jessica Reed Kraus
+**N-623** Jessica Reed Kraus
 
 Jessica Reed Kraus; the host says Boreing compared her to the host.
 
@@ -847,7 +847,7 @@ Alex Clark; trailer, blocking of commenters and the Catholic-remark episode.
 
 ---
 
-**N-914** Blake Hariff
+**N-913** Blake Hariff
 
 First named by the host at 00:01:49 in episode 151 (spelled Harif, Hariff and Heriff in the transcript). Member of Charlie Kirk's security detail on September 10.
 
@@ -855,7 +855,7 @@ First named by the host at 00:01:49 in episode 151 (spelled Harif, Hariff and He
 
 ---
 
-**N-915** Bobby Saucelito
+**N-914** Bobby Saucelito
 
 First named by the host at 00:07:25 in episode 151. Commentator (Instagram handle take.naps) whose clip about Turek the host plays.
 
@@ -916,7 +916,7 @@ Claim Timestamp: 00:43:46
 Claim: Andrew Kolvet tweeted asking why Katie Hobbs or "anyone with a D next to their name" had not commented on the alleged statue vandalism, asserting TPUSA was working with law enforcement and "pulling video from neighboring buildings."
 
 Anchored Artifacts: A-2366.1
-Mentions: N-14, N-590
+Mentions: N-14, N-589
 Related Nodes: N-10827
 Investigative Direction: Pull original tweet; verify which "neighboring buildings"; confirm whether on-campus surveillance footage is or is not in TPUSA possession.
 
@@ -1164,7 +1164,7 @@ Claim: The host says Blake Hariff, a member of Charlie Kirk's security detail on
 Transcript Snippet: we discovered that rather mysteriously uh he's wearing scrubs from Temponogus Hospital. Presumably by nighttime he's wearing hospital scrubs.
 
 Anchored Artifacts: A-3158.1
-Mentions: N-914, N-7, N-3
+Mentions: N-913, N-7, N-3
 Related Nodes: N-11310
 Supports: C-3552, C-3551, C-3550
 Tags: relevance:core
@@ -1181,7 +1181,7 @@ Claim: The host says that, per stories shared by Frank Turek, everybody was bein
 Transcript Snippet: on the basis of the stories that have been shared by Frank Couturk. Everybody they were just handing these scrubs out.
 
 Anchored Artifacts: 
-Mentions: N-7, N-914
+Mentions: N-7, N-913
 Related Nodes: N-11310
 Tags: relevance:core
 Investigative Direction: Find Turek's original statement about scrubs being handed out and ask Timpanogos Hospital whether scrubs were given to non-patients that day.
@@ -1197,7 +1197,7 @@ Claim: The host argues the feds would not have taken Blake Hariff's blood-free s
 Transcript Snippet: why would the feds collect Blake Heriff's shirt, which had no blood in it, but not collect Charlie Kirk's bloodied necklace and the bloodied microphone.
 
 Anchored Artifacts: 
-Mentions: N-1, N-914
+Mentions: N-1, N-913
 Related Nodes: N-10537, N-11053, N-10014
 Tags: relevance:core
 Investigative Direction: Obtain the FBI evidence inventory for the necklace, the microphone and clothing items collected on September 10.
@@ -1229,7 +1229,7 @@ Claim: The host relays viewers' suggestion that Hariff's clothing was taken out 
 Transcript Snippet: Blake when he slid across the table may have got some explosive residue on him.
 
 Anchored Artifacts: 
-Mentions: N-914
+Mentions: N-913
 Related Nodes: N-10107, N-10974, N-11310
 Tags: relevance:core
 Investigative Direction: Ask which agency collected clothing from people near Charlie and whether swabs for residue were taken.
@@ -1292,7 +1292,7 @@ Claim: The host says Boreing referred to Laura Loomer as a national treasure and
 Transcript Snippet: he's referred to Laura Loomer as a national treasure in this pursuit. He told House in habit like Jessica Reed Krauss that she has all the same natural talents as Candace.
 
 Anchored Artifacts: 
-Mentions: N-374, N-60, N-624
+Mentions: N-374, N-60, N-623
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Find the Boreing episodes or posts with the Loomer and Kraus remarks.
@@ -1371,7 +1371,7 @@ Claim: In the clip the host plays, Bobby Saucelito asks how Frank Turek could ha
 Transcript Snippet: If you were in the trunk, how did you do that? And how would Brian not remember you jumping over the seat to do it?
 
 Anchored Artifacts: A-2368.1, A-2369.1
-Mentions: N-915, N-7, N-272
+Mentions: N-914, N-7, N-272
 Related Nodes: N-10699
 Supports: C-3546, C-3547
 Tags: relevance:core
@@ -1436,7 +1436,7 @@ Claim: The host says Officer Bagley testified that the figure in the black Ameri
 Transcript Snippet: Officer Bagley testifies. He knows this is the same person as the person that's in the maroon because they're both wearing sneakers.
 
 Anchored Artifacts: 
-Mentions: N-518, N-40
+Mentions: N-517, N-40
 Related Nodes: N-10043, N-10172
 Tags: relevance:core
 Investigative Direction: Pull Bagley's preliminary hearing testimony on how he linked the two figures.

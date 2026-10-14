@@ -944,7 +944,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "Justin Strife; the host says he spoke with her and offered a message as Erika's alibi.",
       "related_artifacts": [],
@@ -1176,8 +1176,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-687",
-      "ref": "N-687",
+      "@id": "N-686",
+      "ref": "N-686",
       "name": "Nicolás Maduro",
       "type": "person",
       "description": "Nicolas Maduro; subject of a viewer comment and the host's remarks on the operation.",
@@ -1193,8 +1193,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-722",
-      "ref": "N-722",
+      "@id": "N-721",
+      "ref": "N-721",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; named in the Charlie Kirk clip.",
@@ -1980,7 +1980,9 @@
         "N-10379",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:00",
       "investigative_direction": "Obtain YouTube and Instagram channel ownership and access logs to see who reactivated the accounts and when, and ask the Daily Wire to state whether it had permission.",
       "transcript_snippet": "And no, of course, it did not happen because I said it could. It did not have my permission.",
@@ -1998,7 +2000,9 @@
       "related_nodes": [
         "N-10378"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:23",
       "investigative_direction": "Obtain the messages or calls between Kolvet and the YouTubers or Alex Jones that the host says exist, and ask Kolvet and TPUSA to confirm or deny the contact.",
       "transcript_snippet": "Andrew Kolbect, the spokesperson of Turning Point USA, who has been working behind the scenes to have me smeared.",
@@ -2017,7 +2021,9 @@
       "related_nodes": [
         "N-10376"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:28",
       "investigative_direction": "Check the AmFest 2025 speaker schedule for Shapiro's slot and TPUSA donor disclosures for any Shapiro or Daily Wire contribution and its date.",
       "transcript_snippet": "Ben Shapiro didn't really like Charlie when he was alive, but he gave us a million dollars, so he's going to be at AmFest",
@@ -2040,7 +2046,9 @@
       "related_nodes": [
         "N-10376"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:15",
       "investigative_direction": "Identify the TPUSA insiders the host messaged and obtain the exchange; ask TPUSA and Elizabeth McCoy who approved displaying the tent at AmFest.",
       "transcript_snippet": "the answer that I got, you're not going to believe this or you will believe this, that the person who approved this tent was the amazing Elizabeth McCoy.",
@@ -2061,7 +2069,9 @@
       "related_nodes": [
         "N-10376"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:46",
       "investigative_direction": "Ask TPUSA what Erika Kirk knew about the tent display and when; look for AmFest planning emails or approvals involving Elizabeth McCoy.",
       "transcript_snippet": "So, there's no way that they can come out and pretend like Erika didn't know this was happening cuz she's very close with Elizabeth McCoy.",
@@ -2085,7 +2095,9 @@
         "N-10377",
         "N-10282"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:22",
       "investigative_direction": "Ask CBS and the event producers who proposed and approved the Hunter Cosgrove segment and obtain the run-of-show for the interview.",
       "transcript_snippet": "the most effed up part about that interview was CBS's decision to bring Hunter Kozak to ask Erika a question.",
@@ -2111,7 +2123,9 @@
       "related_nodes": [
         "N-10377"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:32",
       "investigative_direction": "Review UVU event video of the question-and-answer exchange to confirm the topic of Cosgrove's question and its timing relative to the shot.",
       "transcript_snippet": "he's the last person on Earth that tried to stress out Charlie Kirk, right? Asking him a stupid question about transgenderism, and then Charlie died.",
@@ -2129,7 +2143,9 @@
       "claim": "The host says that as a headline of the day, Brigitte Macron successfully secured a conviction against 11 people in France for cyberbullying, and that the media is presenting this as proof that she is a woman.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:44",
       "investigative_direction": "Check French court records and news reports for the case, the date of the verdict and the number of defendants convicted.",
       "transcript_snippet": "has successfully secured a conviction against 11 people in France for cyberbullying.",
@@ -2146,7 +2162,9 @@
       "claim": "The host alleges that Brigitte Macron was born male and, under the then French law, committed statutory rape against a 14-year-old student; this is the host's allegation and is not established by the clip.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:44",
       "investigative_direction": "Review the French court judgments and public records in the cyberbullying case for how they treat Mrs. Macron's sex and the relationship with her former student.",
       "transcript_snippet": "Brigitte Macron who is quite literally born a male and who quite literally committed statutory rape under the then French law against a 14-year-old student",
@@ -2166,7 +2184,9 @@
         "N-10416",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:38",
       "investigative_direction": "Identify the events and organizers the host says were contacted and obtain any communications or filings by the Daily Wire.",
       "transcript_snippet": "You should not then have them follow you to events, calling people, try to get you canceled from speaking events, putting pressure on people, lawsuits.",
@@ -2188,7 +2208,9 @@
         "N-10385",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:47",
       "investigative_direction": "Look for a Daily Wire announcement of the Brandford show and check its launch date against the account reactivation.",
       "transcript_snippet": "the reason they're doing this and doing it on my channel is because they are trying to hard launch a young woman named Madison Brandford.",
@@ -2211,7 +2233,9 @@
         "N-10385",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:30",
       "investigative_direction": "Confirm Brandford's role and the show's title and format from Daily Wire publicity or the channel itself once it airs.",
       "transcript_snippet": "she's apparently an intern at the Daily Wire and she's they're basically dropping like an an iCarly type Nickelodeon feel show where she's going to make fun of me and the show is entitled In the Know",
@@ -2233,7 +2257,9 @@
         "N-10001",
         "N-10116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:58",
       "investigative_direction": "Locate the original October 2024 Justice Smith interview and verify the quoted words and context.",
       "transcript_snippet": "we have a super government that exists above Congress of the Department of Defense, which is the Pentagon, the Central Intelligence Agency",
@@ -2255,14 +2281,16 @@
         "A-1571.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:42",
       "investigative_direction": "Verify the passage against the original interview recording.",
       "transcript_snippet": "Because Trump was the first candidate since JFK to actually want to declare war on the intel agencies and bring the power back to the sovereign. And both him and uh Kennedy got shot.",
       "mentions_person_refs": [
         "N-1",
         "N-5",
-        "N-722"
+        "N-721"
       ]
     },
     {
@@ -2276,7 +2304,9 @@
         "N-10375",
         "N-10367"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:32",
       "investigative_direction": "Verify Mitch Snow's base access and the dates through gate, hotel and incident records; test each identification independently.",
       "transcript_snippet": "I was contacted by someone claiming that he was very certain that he saw two people at Fort Huachuca in the days leading up to Charlie Kirk's assassination.",
@@ -2303,7 +2333,9 @@
         "N-10333",
         "N-10477"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:32",
       "investigative_direction": "Obtain Candlewood Suites registration and security footage for September 8 and Erika Kirk's own whereabouts records for that date.",
       "transcript_snippet": "he saw, to be clear, Erika Kirk on the 8th leaving the Candlewood um Inn Hotel on the base on Fort Huachuca.",
@@ -2328,7 +2360,9 @@
         "N-10373",
         "N-10326"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:28",
       "investigative_direction": "Compare Harpole's travel records and phone location data for the morning of September 9 with the JTF building meeting window.",
       "transcript_snippet": "basically 100% certain he saw Brian Harpool at this top brass meeting that took place on the morning of the 9th",
@@ -2352,7 +2386,9 @@
         "N-10372",
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:28",
       "investigative_direction": "Check Cabot Phillips's whereabouts, work schedule and travel on September 8 and 9 against Mitch's description.",
       "transcript_snippet": "he sees that Cab Phillips looking special force type person the next day with Brian Harpool",
@@ -2377,7 +2413,9 @@
       "related_nodes": [
         "N-10375"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:28",
       "investigative_direction": "Ask the host to publish or independently authenticate the receipts, hotel booking and base-access records.",
       "transcript_snippet": "He sent me all of the receipts to back this up.",
@@ -2400,7 +2438,9 @@
         "N-10375",
         "N-10477"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:28",
       "investigative_direction": "Test the Erika identification separately from the Harpole identification, using hotel and security records.",
       "transcript_snippet": "he did not see Erika at the meeting on the morning of the 9th. He saw her the night before, allegedly, obviously.",
@@ -2424,7 +2464,9 @@
       "related_nodes": [
         "N-10378"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:50",
       "investigative_direction": "Review the host's past coverage of Alex Jones and the date of the InfoWars segment; ask Jones's team what prompted it.",
       "transcript_snippet": "Quite literally, Alex Jones went on to his show and declared war on me. I've never said a bad word about Alex Jones ever.",
@@ -2447,7 +2489,9 @@
       "related_nodes": [
         "N-10378"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:37",
       "investigative_direction": "Obtain Mitch's account and any recording of the call; ask Paramount Tactical to state what was said.",
       "transcript_snippet": "So, you had this Paramount Tactical account in Valhalla who called up Mitch and pretended to be a brother, like a brother in arms.",
@@ -2466,7 +2510,9 @@
       "related_nodes": [
         "N-10378"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:37",
       "investigative_direction": "Ask Ian Carroll to confirm or deny the call and its content; obtain any call logs or messages from the host.",
       "transcript_snippet": "they had Ian Carroll calling me and Ian Carroll was being a friend and he's hey, you should get on the phone with them and you should come out against Mitch because Mitch is a fraud and Mitch was never in the military",
@@ -2486,7 +2532,9 @@
       "related_nodes": [
         "N-10378"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:06",
       "investigative_direction": "Identify the third party and any legal correspondence; confirm whether any cease and desist letter was received.",
       "transcript_snippet": "I explained to Ian Carroll. I was like, \"Ian, this is not how lawsuits work. They didn't send me a cease and desist.",
@@ -2505,7 +2553,9 @@
       "related_nodes": [
         "N-10378"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:06",
       "investigative_direction": "Obtain Mitch Snow's military service record and the streams in which his past was discussed.",
       "transcript_snippet": "He was never in the military and then they had to admit that no, actually Mitch was in the military, but they were ashamed because he was a really bad dude who abused women in the past",
@@ -2526,7 +2576,9 @@
         "N-10327",
         "N-10375"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:03",
       "investigative_direction": "Obtain incident report 861-1-2025-MPC446 through FOIA and authenticate it with the Fort Huachuca provost office.",
       "transcript_snippet": "So, I then dropped the military police reports, the actual incident reports from what happened on the base on that day, which proves that Mitch told the truth.",
@@ -2550,7 +2602,9 @@
       "related_nodes": [
         "N-10327"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:03",
       "investigative_direction": "Compare the report's license number format with Washington state license formats and request the official report.",
       "transcript_snippet": "So, then they pivoted and they said the police report was fake. It There were some points of it looked fake because it had typos and this didn't look like a real driver's license number for what driver driver's license for Washington state.",
@@ -2570,7 +2624,9 @@
       "related_nodes": [
         "N-10375"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:47",
       "investigative_direction": "Identify the stream and the son and obtain the unedited interview to check what he said about the September 9 call.",
       "transcript_snippet": "His son, who he has not spoken to since his son was 2 years old and who is now an adult man, they were going to bring his son onto the show to speak about about Mitch",
@@ -2594,7 +2650,9 @@
         "N-10375",
         "N-10327"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:25",
       "investigative_direction": "Compare this description with the incident report and Mitch's own account of the canine and bomb-threat encounter.",
       "transcript_snippet": "Or if he does walk into the joint task force staff duty, he might end up detained and outside getting the canines called on him as per this report, which again, I don't even know if this report is real or not.",
@@ -2614,7 +2672,9 @@
       "related_nodes": [
         "N-10375"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:20",
       "investigative_direction": "Corroborate the son's September 9 call with military police records and phone logs.",
       "transcript_snippet": "everything he told us happened that morning on the 9th happened",
@@ -2638,7 +2698,9 @@
         "N-10380",
         "N-10477"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:20",
       "investigative_direction": "Watch the full stream and compare the dates in the alibi material with the dates in Mitch's allegation.",
       "transcript_snippet": "hosting a stream to rather gloriously and definitively declare that Erika had an airtight alibi on the 8th or at least they were confused about days and didn't realize that we were speaking about the 8th",
@@ -2659,7 +2721,9 @@
       "related_nodes": [
         "N-10380"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:18",
       "investigative_direction": "Obtain the unedited stream and the original notes; cross-check the day's schedule with TPUSA and Fox records.",
       "transcript_snippet": "The internet's gone saying she woke up next to Charlie on the ninth. Went to the office with Charlie all day. Woke him up from a nap before Fox hit. Went to dinner with Charlie.",
@@ -2684,7 +2748,9 @@
       "related_nodes": [
         "N-10380"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:18",
       "investigative_direction": "Obtain the image and its metadata and test the timestamp, time zone and date.",
       "transcript_snippet": "the next one, proof she was with her kids at 8:33 a. m. Pacific time, which again and September Arizona's on specific time Pacific time.",
@@ -2708,7 +2774,9 @@
       "related_nodes": [
         "N-10378"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:10",
       "investigative_direction": "Obtain Jones's statement and any messages between Jones and Kolvet; ask both to confirm contact.",
       "transcript_snippet": "also Alex said that he was in communication with Turning Point USA. The spokesperson is Andrew, obviously, and I confirmed that Andrew had been communicating with Alex Jones directly.",
@@ -2734,7 +2802,9 @@
         "N-10380",
         "N-10477"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:03",
       "investigative_direction": "Compare Mitch's allegation (the 8th, evening) with the dates the alibi material addresses.",
       "transcript_snippet": "Nobody accused Erika of being anywhere on the 9th, but yet we see her finger in there. We see that she is showing uh that she's with her kids on the morning of the 9th.",
@@ -2753,7 +2823,9 @@
       "related_nodes": [
         "N-11109"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:03",
       "investigative_direction": "Compare TPUSA's statement with Kolvet's public posts; ask TPUSA to clarify what Kolvet did without authorization.",
       "transcript_snippet": "I was left under the impression after my meeting with Erika that Andrew Kolb had gone rogue, right?",
@@ -2774,7 +2846,9 @@
         "N-10340",
         "N-11109"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:58",
       "investigative_direction": "Obtain the text and Erika's account of when she saw Kirk's phone; compare with TPUSA's public statement.",
       "transcript_snippet": "Andrew Kolb had did receive that text from Charlie the night before, and Charlie was worried that he was going to be killed. But, you know, Erika didn't know this information",
@@ -2799,7 +2873,9 @@
         "N-10341",
         "N-11109"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:52",
       "investigative_direction": "Obtain Erika's statements on the surgeon call and any hospital privacy review.",
       "transcript_snippet": "Erika claims Andrew went rogue and also the surgeon went rogue and violated HIPAA.",
@@ -2819,7 +2895,9 @@
         "N-10447",
         "N-10341"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:52",
       "investigative_direction": "Obtain call records for the three-way call and the surgeon's account via a representative.",
       "transcript_snippet": "But he answered Andrew Kolbe's questions because Erika was on the phone and that the Superman quotation came from her.",
@@ -2841,7 +2919,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:52",
       "investigative_direction": "Nothing to verify beyond the host's statement; compare with her earlier episode on the surgeon quote.",
       "transcript_snippet": "that's why I just abstained from telling the public that because I thought maybe she needed to believe that.",
@@ -2861,7 +2941,9 @@
         "N-10134",
         "N-10446"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:00",
       "investigative_direction": "Obtain the attendee list and any photos from the August 2025 Hamptons retreat.",
       "transcript_snippet": "Well, the Hampton's debacle came up when I sat down with Erika and she conceded that she was there.",
@@ -2886,7 +2968,9 @@
         "N-10342",
         "N-10446"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:54",
       "investigative_direction": "Seek independent confirmation of the call from Netanyahu's office or other attendees.",
       "transcript_snippet": "and then she said, \"Yeah, I was there when Bibi Netanyahu called.\"",
@@ -2910,7 +2994,9 @@
         "N-10342",
         "N-10446"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:54",
       "investigative_direction": "Compare Erika's denial with the host's three sources and any donor accounts.",
       "transcript_snippet": "She said, \"Yeah, I don't know who your source is on that, but that part's not true. He did call, but that part's not true.\"",
@@ -2933,7 +3019,9 @@
       "related_nodes": [
         "N-10342"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:59",
       "investigative_direction": "Ask Kolvet whether he told the host this; look for contemporaneous messages.",
       "transcript_snippet": "It was Andrew Kolb it who told me that Bibi Netanyahu offered to take Turning Point to the next level and that Charlie Kirk said, \"No.\"",
@@ -2957,7 +3045,9 @@
       "related_nodes": [
         "N-10342"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:59",
       "investigative_direction": "Only the host can test this source; seek other attendees of the dinner.",
       "transcript_snippet": "a source that was not related to Andrew Kolb it who confirmed that very same thing and there's no way Andrew would have known anything about that source.",
@@ -2980,7 +3070,9 @@
         "N-10342",
         "N-10305"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:42",
       "investigative_direction": "Ask Kolvet and those close to him about any financial interest tied to the offer.",
       "transcript_snippet": "And then I confirmed it for a third time with somebody that is very close to Andrew Kolbintz that he said that he lost a lot of money when Charlie said no to Bibi Netanyahu.",
@@ -3003,7 +3095,9 @@
       "related_nodes": [
         "N-10378"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:42",
       "investigative_direction": "Ask TPUSA to confirm the outreach and obtain the messages.",
       "transcript_snippet": "I reached out to Andrew Kolbintz directly and I reached out to the COO",
@@ -3022,7 +3116,9 @@
       "related_nodes": [
         "N-10300"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:56:35",
       "investigative_direction": "Ask Strife and TPUSA to confirm the call and the existence of a ceasefire.",
       "transcript_snippet": "and I explained to him that I was now pissed off. Um that I viewed this to be a violation of our ceasefire, okay?",
@@ -3045,7 +3141,9 @@
         "N-10477",
         "N-10380"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:57:21",
       "investigative_direction": "Obtain the message with metadata unredacted and check its timestamp against Mitch's allegation.",
       "transcript_snippet": "this was a conversation between her and uh Charlie about dinner, about them making dinner during that time frame when Mitch believes that he saw her on Fort Huachuca",
@@ -3068,7 +3166,9 @@
       "related_nodes": [
         "N-10477"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:57:21",
       "investigative_direction": "Request the unredacted message or screen recording and have the contact identified.",
       "transcript_snippet": "He did send me that message, but the contact name was blacked out.",
@@ -3090,7 +3190,9 @@
       "related_nodes": [
         "N-10477"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:23",
       "investigative_direction": "Ask TPUSA to supply the unredacted alibi message and its metadata.",
       "transcript_snippet": "I followed up about four times. I still have not received that. So, I cannot confirm that conversation took place between her and Charlie.",
@@ -3111,7 +3213,9 @@
         "N-10372",
         "N-10382"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:23",
       "investigative_direction": "Obtain the photo lineup sets and how many faces were shown to test for suggestion.",
       "transcript_snippet": "I was not contacted about them initially. He gave me descriptions of the people that he saw and I started sending him faces.",
@@ -3136,7 +3240,9 @@
         "N-10371",
         "N-10382"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:05",
       "investigative_direction": "Ask the host to name the congressman she believes it was; test that person's schedule for September 9.",
       "transcript_snippet": "I do think that I do know who he saw that was a congressman and it was not Mark Amaday.",
@@ -3160,13 +3266,15 @@
         "N-10962",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:03:23",
       "investigative_direction": "Check Netanyahu's statements about Maduro and Israeli government comments on the operation.",
       "transcript_snippet": "Israel is always good to come right out and say, \"Yay, this was good for us.\" Netanyahu was calling him anti-Semitic.",
       "mentions_person_refs": [
         "N-36",
-        "N-687",
+        "N-686",
         "N-3"
       ]
     },
@@ -3180,7 +3288,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:03:23",
       "investigative_direction": "Assess against Israeli government statements and the record of violence against Christians in post-Assad Syria.",
       "transcript_snippet": "Israel wanted Assad gone cuz they want to expand their borders for the greater Israel project.",
@@ -3198,7 +3308,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:04:07",
       "investigative_direction": "Review published reporting on Israeli contacts with Syrian rebel groups and the evidence for cooperation.",
       "transcript_snippet": "Israel had been working with Al-Qaeda or Al-Qaeda adjacent group. It's Al-Nusra is the name of the of the group",
@@ -3214,7 +3326,9 @@
       "claim": "Responding to a viewer comment, the host says she believes Charlie Kirk woke up at the very end and saw what was happening.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:07:16",
       "investigative_direction": "Look for Kirk's final private messages or conversations that would reflect his state of mind.",
       "transcript_snippet": "I do believe he woke up at the very end, and he saw what was happening.",
@@ -3234,7 +3348,9 @@
         "N-10373",
         "N-10643"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:08:44",
       "investigative_direction": "Ask Harpole and Flood for proof of their location on the morning of September 9.",
       "transcript_snippet": "I have reached out to Brian Harpole now four times. I've also reached out to Dan Flood.",
@@ -3258,7 +3374,9 @@
         "N-10373",
         "N-10643"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:08:44",
       "investigative_direction": "Obtain Harpole's travel and location records for September 9.",
       "transcript_snippet": "I feel like it was. I feel at this stage that it was. I otherwise cannot make sense of Andrew Colberg's actions.",

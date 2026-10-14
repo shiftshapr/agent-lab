@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-877, N-11258
+  - Tip-minted Nodes (supplement_2026-10d): N-876, N-11258
   - Hole-minted Nodes (reintro-ep097): N-442, N-10651, N-10695
   - Tip-minted Nodes (reintro-ep097): N-11137
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10354–C-10422
-  - Tip-minted Nodes (reintro-ep097): N-800
-  - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-194, N-199, N-213, N-229, N-267, N-277, N-284, N-286, N-326, N-563, N-613, N-10012, N-10023, N-10083, N-10272, N-10341, N-10358, N-10373, N-10437, N-10546, N-10552, N-10641, N-10664, N-10681, N-10812, N-10840, N-10862, N-10899, N-10900, N-11001, N-11013, N-10650
+  - Tip-minted Nodes (reintro-ep097): N-799
+  - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-194, N-199, N-213, N-229, N-267, N-277, N-284, N-286, N-326, N-562, N-612, N-10012, N-10023, N-10083, N-10272, N-10341, N-10358, N-10373, N-10437, N-10546, N-10552, N-10641, N-10664, N-10681, N-10812, N-10840, N-10862, N-10899, N-10900, N-11001, N-11013, N-10650
  - New Nodes Introduced: N-10644, N-10648
  - Hole-minted Nodes (wave3): N-437, N-438
  - Reused Nodes Appearing: N-2, N-389, N-3, N-272
@@ -309,7 +309,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2828, C-2829, N-3, N-800*---
+*Related: C-2828, C-2829, N-3, N-799*---
 
 ### **A-2024** Lawler-Gottheimer House Resolution Bundle
 
@@ -437,7 +437,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-800** Hasan Piker
+**N-799** Hasan Piker
 
 Streamer; first named in A-2023.1.
 
@@ -769,7 +769,7 @@ Kim Klacik; the host recounts her earlier lawsuit against the host.
 
 ---
 
-**N-563** Aubrey Lech
+**N-562** Aubrey Lech
 
 Aubrey Lech; the host says Kolvet cannot show what Lech gave her.
 
@@ -777,7 +777,7 @@ Aubrey Lech; the host says Kolvet cannot show what Lech gave her.
 
 ---
 
-**N-613** Melania Trump
+**N-612** Melania Trump
 
 Melania Trump; author of the post criticizing Kimmel.
 
@@ -969,7 +969,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-877** Matt Slauson
+**N-876** Matt Slauson
 
 First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.
 
@@ -2102,7 +2102,7 @@ Claim: The host says the message urging her to look more into Andrew Kolvet came
 Transcript Snippet: It was Mikey McCoy. Mikey McCoy got a message out to me uh via a third-party person that I should look more into Andrew Kolbatz.
 
 Anchored Artifacts: 
-Mentions: N-3, N-194, N-14, N-563
+Mentions: N-3, N-194, N-14, N-562
 Related Nodes: N-10649
 Tags: relevance:core
 Investigative Direction: Identify the third-party intermediary and obtain the message; ask McCoy to confirm or deny.
@@ -2118,7 +2118,7 @@ Claim: The host says Kolvet cannot produce the information he claims Aubrey Lech
 Transcript Snippet: you can still cannot produce the information that you are claiming that Aubrey Lich gave to me that I share on this platform. You were my number one source, Andrew, in the beginning.
 
 Anchored Artifacts: 
-Mentions: N-3, N-14, N-563
+Mentions: N-3, N-14, N-562
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Ask Kolvet to specify the information attributed to Aubrey Lech and compare it against the host's published material.
@@ -2262,7 +2262,7 @@ Claim: The host says Melania Trump tweeted that Jimmy Kimmel's joke, made before
 Transcript Snippet: Melania Trump she tweeted and said this about Jimmy Kimmel. Jimmy Kimmel's vote of joke that happened before the shooting. That it was hateful and violent rhetoric intended to divide our country.
 
 Anchored Artifacts: A-2026.1
-Mentions: N-613, N-87
+Mentions: N-612, N-87
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Retrieve the original Melania Trump post and its date.
@@ -2328,7 +2328,7 @@ Claim: The host says Harpole's attorney, Matt Slauson, definitively was retweeti
 Transcript Snippet: this lawyer, Matt Slauson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.
 
 Anchored Artifacts: 
-Mentions: N-3, N-877, N-60
+Mentions: N-3, N-876, N-60
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Review the lawyer's public posting history for Loomer retweets and their dates relative to the filing.

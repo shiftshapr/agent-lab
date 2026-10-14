@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-804, N-11148, N-11150
+  - Tip-minted Nodes (supplement_2026-10b): N-803, N-11148, N-11150
   - Hole-minted Nodes (reintro-ep146): N-287, N-10885
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7599–C-7692
   - New Nodes Introduced: N-10819
-  - Reused Nodes Appearing: N-10818, N-5, N-7, N-9, N-17, N-22, N-54, N-55, N-89, N-97, N-107, N-118, N-162, N-221, N-267, N-375, N-496, N-516, N-518, N-581, N-620, N-680, N-10000, N-10013, N-10015, N-10019, N-10040, N-10048, N-10077, N-10131, N-10148, N-10169, N-10193, N-10198, N-10248, N-10264, N-10324, N-10398, N-10570, N-10679, N-10712, N-10715, N-10729, N-10888, N-10897, N-10969, N-11057, N-11065, N-11070, N-10817, N-11149
+  - Reused Nodes Appearing: N-10818, N-5, N-7, N-9, N-17, N-22, N-54, N-55, N-89, N-97, N-107, N-118, N-162, N-221, N-267, N-375, N-496, N-515, N-517, N-580, N-619, N-679, N-10000, N-10013, N-10015, N-10019, N-10040, N-10048, N-10077, N-10131, N-10148, N-10169, N-10193, N-10198, N-10248, N-10264, N-10324, N-10398, N-10570, N-10679, N-10712, N-10715, N-10729, N-10888, N-10897, N-10969, N-11057, N-11065, N-11070, N-10817, N-11149
   - (see registers)
 
 # Episode 146 Ledger Summary
@@ -491,7 +491,7 @@ Justin Baldoni; named in the mathematician email and kombucha aside.
 
 ---
 
-**N-516** Nate Walker
+**N-515** Nate Walker
 
 Nate Walker; Charlie's assistant named in the 911 claim.
 
@@ -499,7 +499,7 @@ Nate Walker; Charlie's assistant named in the 911 claim.
 
 ---
 
-**N-518** Christopher Bagley
+**N-517** Christopher Bagley
 
 Officer Christopher Bagley (host says Baggley); hearing testimony relayed by hearsay.
 
@@ -507,7 +507,7 @@ Officer Christopher Bagley (host says Baggley); hearing testimony relayed by hea
 
 ---
 
-**N-557** Tracy Martin
+**N-556** Tracy Martin
 
 Tracy Martin; named in the courthouse segment as Erika's PR.
 
@@ -515,7 +515,7 @@ Tracy Martin; named in the courthouse segment as Erika's PR.
 
 ---
 
-**N-581** David Hull
+**N-580** David Hull
 
 David Hull; officer named in the hearing hearsay example.
 
@@ -523,7 +523,7 @@ David Hull; officer named in the hearing hearsay example.
 
 ---
 
-**N-620** Graham Allen
+**N-619** Graham Allen
 
 Graham Allen; named as absent and as a Department of War consultant.
 
@@ -531,7 +531,7 @@ Graham Allen; named as absent and as a Department of War consultant.
 
 ---
 
-**N-680** James Kaddis
+**N-679** James Kaddis
 
 James Cadis (James Kaddis); pastor spotted at the courthouse.
 
@@ -763,7 +763,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-804** Todd Starns
+**N-803** Todd Starns
 
 First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Starnes). Fox News figure who interviewed Jack Hibbs on audio.
 
@@ -1009,7 +1009,7 @@ Claim Timestamp: 00:02:52
 Claim: Courthouse footage captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kovat, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision; Erika Kirk was present but not captured on camera.
 
 Anchored Artifacts: A-2326.1, A-2326.2, A-2326.3, A-2326.4
-Mentions: N-1, N-2, N-190, N-14, N-557
+Mentions: N-1, N-2, N-190, N-14, N-556
 
 Related Nodes:
 
@@ -1057,7 +1057,7 @@ Claim: The host says the Turning Point USA influencers, such as Graham Allen and
 Transcript Snippet: No Graham Allen, no Benny Johnson to tell us how overwhelmed we should be.
 
 Anchored Artifacts: 
-Mentions: N-3, N-620, N-89
+Mentions: N-3, N-619, N-89
 Related Nodes: N-10000, N-11065
 Tags: relevance:core
 Investigative Direction: Compare courtroom pool footage and attendee lists from decision day against the July preliminary hearing sign-in or press seating.
@@ -1073,7 +1073,7 @@ Claim: The host says Stacy Sheridan is the head of Turning Point USA donations a
 Transcript Snippet: Head of Turning Point USA donations and gifts, always there. Tracy Martin, I'm counting that as dad. She does Erika's PR dirty work.
 
 Anchored Artifacts: A-2326.2
-Mentions: N-190, N-557, N-2
+Mentions: N-190, N-556, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff and org records for Sheridan's title and Martin's contracted or informal PR role for Erika Kirk.
@@ -1089,7 +1089,7 @@ Claim: The host says Pastor James Cadis is the senior pastor of Calvary Chapel i
 Transcript Snippet: He's the senior pastor of Calvary Chapel in Signal Hill, California. He is also one of Erika Kirk's many problematic TPUSA faith pastors.
 
 Anchored Artifacts: A-2326.4
-Mentions: N-680, N-2
+Mentions: N-679, N-2
 Related Nodes: N-10398, N-10264
 Tags: relevance:context
 Investigative Direction: Check Calvary Chapel Signal Hill staff listings and TPUSA Faith advisory rosters for Cadis (transcript spelling).
@@ -1105,7 +1105,7 @@ Claim: The host says Cadis hosts a show with Erika Kirk tied to her fashion bran
 Transcript Snippet: He also hosts a show with her with that like fledgling, you know, fashion brand that she has, Bible and 365.
 
 Anchored Artifacts: A-2326.4
-Mentions: N-680, N-2
+Mentions: N-679, N-2
 Tags: relevance:context
 Investigative Direction: Identify the show and brand by name and confirm Cadis' role from the brand's own channels.
 
@@ -1170,7 +1170,7 @@ Claim: The host says online chatter speculated that Butch Hibbs was undercover a
 Transcript Snippet: a lot of conspiracies that were drummed up regarding whether or not he was in fact undercover, particularly whether or not, as some people speculated, he may have been carrying a road microphone in his top pocket.
 
 Anchored Artifacts: A-2325.1
-Mentions: N-251,N-3
+Mentions: N-251, N-3
 Related Nodes: N-10817
 Tags: relevance:context
 Investigative Direction: Zoom on the high-resolution pre-event photo of Butch Hibbs' shirt pocket; the host attributes the theory to others and disclaims it.
@@ -1495,7 +1495,7 @@ Claim: In an audio-only Fox News interview with Todd Starns, Jack Hibbs says his
 Transcript Snippet: my brother's calling me and I can hear people screaming and yelling and I can hear my brother telling me, "Charlie's just been shot.
 
 Anchored Artifacts: A-2323.1
-Mentions: N-212, N-251, N-804, N-1
+Mentions: N-212, N-251, N-803, N-1
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Obtain the full Starns audio and Butch Hibbs' phone records to establish when the call was placed and its duration.
@@ -1711,7 +1711,7 @@ Claim: The host says that, to her knowledge, neither Danny Phillip nor Nate Walk
 Transcript Snippet: Danny Phillip, to our knowledge, did not call 911. Neither did Nate Walker.
 
 Anchored Artifacts: 
-Mentions: N-375, N-516
+Mentions: N-375, N-515
 Related Nodes: N-10729
 Supports: C-3828
 Tags: relevance:core
@@ -2004,7 +2004,7 @@ Claim: The host says officers can testify at this stage to what they were told, 
 Transcript Snippet: when officer Baggley gets up there or officer Hull gets up there and says he was told by someone that this happened, that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates.
 
 Anchored Artifacts: 
-Mentions: N-518, N-581, N-40
+Mentions: N-517, N-580, N-40
 Related Nodes: N-11149
 Tags: relevance:core
 Investigative Direction: Read the hearing transcript of Bagley and Hull's testimony for the roadside-vehicle statement and its source.
@@ -2327,7 +2327,7 @@ Claim: The host says Graham Allen was working as a consultant for the Department
 Transcript Snippet: Even Graham Allen, I told you that he's uh he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them.
 
 Anchored Artifacts: 
-Mentions: N-620, N-3
+Mentions: N-619, N-3
 Related Nodes: N-10888, N-10000
 Tags: relevance:core
 Investigative Direction: Look for Department of War contracts or disclosure forms naming Allen and TPUSA payroll or contract records.
@@ -2407,7 +2407,7 @@ Claim: The host says Blake Neff posted today that never before has more informat
 Transcript Snippet: For example, I saw Blake pushing today. He's like, "Look, look at all the terabytes that was that were given. Never before has more information been given in this case to the defense."
 
 Anchored Artifacts: A-2896.1
-Mentions: N-162,N-3
+Mentions: N-162, N-3
 Related Nodes: N-10570
 Tags: relevance:context
 Investigative Direction: Retrieve Neff's post and compare its terabyte figure with the figures in court filings.

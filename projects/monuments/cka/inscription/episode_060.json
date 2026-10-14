@@ -222,7 +222,7 @@
           "related_nodes": [
             "N-3",
             "N-32",
-            "N-533",
+            "N-532",
             "N-27",
             "N-10004"
           ],
@@ -473,7 +473,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "Associate of Erika Kirk referenced in connection with verification of Andrew Kolvet's flight arrangements and tarmac arrival sequence.",
       "related_artifacts": [],
@@ -989,8 +989,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-732",
-      "ref": "N-732",
+      "@id": "N-731",
+      "ref": "N-731",
       "name": "Bill Cooper",
       "type": "person",
       "description": "First named by the host at 00:14:50 in episode 60. Author the host calls the original conspiracy theorist who predicted military-linked mass shootings.",
@@ -1094,8 +1094,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-733",
-      "ref": "N-733",
+      "@id": "N-732",
+      "ref": "N-732",
       "name": "Shabbos Kestenbaum",
       "type": "person",
       "description": "First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Strait.",
@@ -1129,8 +1129,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-533",
-      "ref": "N-533",
+      "@id": "N-532",
+      "ref": "N-532",
       "name": "Peter Thiel",
       "type": "person",
       "description": "Peter Thiel; subject of Rubin's photo post and the alleged bridge loan.",
@@ -2285,7 +2285,7 @@
       "transcript_snippet": "Bill Cooper had made a lot of predictions who was supposed to be the original conspiracy theorist who before there were any mass shootings was speaking about the military",
       "mentions_person_refs": [
         "N-3",
-        "N-732"
+        "N-731"
       ]
     },
     {
@@ -2428,7 +2428,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-118",
-        "N-733"
+        "N-732"
       ]
     },
     {
@@ -2465,7 +2465,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-32",
-        "N-533"
+        "N-532"
       ]
     },
     {
@@ -2506,7 +2506,7 @@
       "transcript_snippet": "I don't know Peter Thiel. I literally don't know Peter Thiel. So I met him at his LA he was having a party or whatever.",
       "mentions_person_refs": [
         "N-3",
-        "N-533",
+        "N-532",
         "N-27"
       ]
     },
@@ -2585,7 +2585,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-32",
-        "N-533"
+        "N-532"
       ]
     },
     {
@@ -2621,7 +2621,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-32",
-        "N-533"
+        "N-532"
       ]
     },
     {

@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep089): N-10741
-  - Tip-minted Nodes (reintro-ep089): N-693
+  - Tip-minted Nodes (reintro-ep089): N-692
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8635–C-8688
   - New Nodes Introduced: N-10588, N-10589, N-10590, N-10591, N-10592
   - Hole-minted Nodes (wave3): N-429
-  - Reused Nodes Appearing: N-5, N-10587, N-9, N-97, N-148, N-182, N-249, N-305, N-10006, N-10026, N-10063, N-10282, N-10324, N-10541, N-10628, N-10962, N-11128, N-11133, N-168, N-719, N-10630, N-11191, N-11192, N-11145
+  - Reused Nodes Appearing: N-5, N-10587, N-9, N-97, N-148, N-182, N-249, N-305, N-10006, N-10026, N-10063, N-10282, N-10324, N-10541, N-10628, N-10962, N-11128, N-11133, N-168, N-718, N-10630, N-11191, N-11192, N-11145
   - (see registers)
 
 ## 2. Executive Summary
@@ -431,7 +431,7 @@ Miriam Adelson, the donor in the host's account of the alleged meeting.
 
 ---
 
-**N-693** Joe Biden
+**N-692** Joe Biden
 
 Joe Biden, discussed in the host's comment on dementia.
 
@@ -439,7 +439,7 @@ Joe Biden, discussed in the host's comment on dementia.
 
 ---
 
-**N-719** Sheldon Adelson
+**N-718** Sheldon Adelson
 
 Sheldon Adelson, whose gambling fortune the host references.
 
@@ -1284,7 +1284,7 @@ Claim: The host wonders whether it got back to the Adelsons that Trump said he w
 Transcript Snippet: If it maybe got back to the Adelsons that Trump said that. You don't take $100 million from a uh a family of I would say gangsters, right?
 
 Anchored Artifacts: A-1944.1
-Mentions: N-719, N-305, N-5, N-3
+Mentions: N-718, N-305, N-5, N-3
 Related Nodes: N-10588
 Tags: relevance:core
 Investigative Direction: This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.
@@ -1535,7 +1535,7 @@ Claim: The host says she genuinely believes Joe Biden had dementia, that Trump d
 Transcript Snippet: I genuinely believe that Joe Biden had dementia, and at least he can say that.
 
 Anchored Artifacts: 
-Mentions: N-693, N-5, N-3
+Mentions: N-692, N-5, N-3
 Tags: relevance:tangential
 Investigative Direction: Opinion about two public figures; no medical record is cited.
 

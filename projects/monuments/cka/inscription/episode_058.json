@@ -1269,7 +1269,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from \"basketball game\" to \"football game.\"",
       "related_artifacts": [],
@@ -1697,8 +1697,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-815",
-      "ref": "N-815",
+      "@id": "N-814",
+      "ref": "N-814",
       "name": "Paul Vallely",
       "type": "person",
       "description": "Retired Army general on the TPUSA advisory board.",
@@ -1877,8 +1877,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-767",
-      "ref": "N-767",
+      "@id": "N-766",
+      "ref": "N-766",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "UVU president; the host says she stepped down and was absent on September 10.",
@@ -1932,8 +1932,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-541",
-      "ref": "N-541",
+      "@id": "N-540",
+      "ref": "N-540",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Modeling agent linked to Epstein; the host says he flew 12-year-old triplets to him.",
@@ -1967,8 +1967,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-738",
-      "ref": "N-738",
+      "@id": "N-737",
+      "ref": "N-737",
       "name": "Jack Parsons",
       "type": "person",
       "description": "Rocket scientist and occultist the host cites as a Crowley student.",
@@ -1984,8 +1984,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-786",
-      "ref": "N-786",
+      "@id": "N-785",
+      "ref": "N-785",
       "name": "Aleister Crowley",
       "type": "person",
       "description": "Occultist cited by the host.",
@@ -2035,8 +2035,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-868",
-      "ref": "N-868",
+      "@id": "N-867",
+      "ref": "N-867",
       "name": "Pete McCormick",
       "type": "person",
       "description": "First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Payton McCormick.",
@@ -2052,8 +2052,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-869",
-      "ref": "N-869",
+      "@id": "N-868",
+      "ref": "N-868",
       "name": "Allan McCormick",
       "type": "person",
       "description": "First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Payton McCormick.",
@@ -2069,8 +2069,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-870",
-      "ref": "N-870",
+      "@id": "N-869",
+      "ref": "N-869",
       "name": "Myron Gaines",
       "type": "person",
       "description": "First named by the host at 01:02:10 in episode 58 as the interviewer in an interview with her dropping the next day.",
@@ -2565,7 +2565,9 @@
         "N-10472",
         "N-10417"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:30",
       "investigative_direction": "Obtain Erika's or TPUSA's on-record denial of the sighting and the specific content of what is disputed.",
       "transcript_snippet": "I can tell you Erika disputes that narrative.",
@@ -2585,7 +2587,9 @@
         "N-10417",
         "N-10418"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:45",
       "investigative_direction": "Locate the teaser footage and verify filming locations against production records for November Renaissance.",
       "transcript_snippet": "Erika is definitively aware and familiar with the Fort Huachuca base, intel base, because once upon a time she shot a teaser for a short film there or around there",
@@ -2605,7 +2609,9 @@
         "N-10472",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:55",
       "investigative_direction": "Collect the TPUSA-side posts and statements about Mitch Snow's personal life and compare their dates with the first Fort Huachuca coverage.",
       "transcript_snippet": "They were bringing out Mitch's baby mama drama, sons, everything to say this never happened",
@@ -2625,7 +2631,9 @@
         "N-10368",
         "N-10209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:10",
       "investigative_direction": "Obtain the course syllabus or first-hand accounts of the Fort Huachuca class on infiltrating Christian organizations.",
       "transcript_snippet": "how they were uh teaching courses to their agents on how to pretend that they're Christians and to be inserted within Christian organizations",
@@ -2646,7 +2654,9 @@
       "related_nodes": [
         "N-10472"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:45",
       "investigative_direction": "Retrieve Kolvet's actual on-air or posted statement and quote it in full to test the host's characterization.",
       "transcript_snippet": "Erika wasn't at some fort. Okay. Okay, Andrew Kolvet, little too much.",
@@ -2669,7 +2679,9 @@
         "N-10472",
         "N-10380"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:30",
       "investigative_direction": "Identify the post, its date and the date metadata on the photo, and compare with the Sept 8 to Sept 10 alibi window.",
       "transcript_snippet": "Andrew's all like, \"Here's a picture of her with her babies on the wrong date.",
@@ -2690,7 +2702,9 @@
         "N-10417",
         "N-10418"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:45",
       "investigative_direction": "Obtain the sources' names or documents showing the 2010 to 2013 production timeline; compare with the Kickstarter dates.",
       "transcript_snippet": "reached out to me to inform me that they knew Erika uh and that Erika definitely knows the base because a bunch of people from the base were uh were affiliated and had worked with her from about 2010 until around 2013",
@@ -2709,7 +2723,9 @@
       "related_nodes": [
         "N-10418"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:40",
       "investigative_direction": "Check Erika's pageant and acting credits in public biographies and archived pageant results.",
       "transcript_snippet": "Uh we know that she was pursuing the stage, obviously. Uh she was involved in pageants.",
@@ -2728,7 +2744,9 @@
       "related_nodes": [
         "N-10418"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:00",
       "investigative_direction": "Ask the sources for the basis of the closeness claim; look for Haugen and Erika in joint photos, posts or cast lists.",
       "transcript_snippet": "The person they said she was really close to was Clayton Haugen.",
@@ -2749,7 +2767,9 @@
         "N-11237",
         "N-10418"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:30",
       "investigative_direction": "Verify Haugen's employment through LinkedIn or company records; note the firm's spelling (Dillon Aerospace).",
       "transcript_snippet": "And he does marketing for the defense contracting firm Dillon Aero Space.",
@@ -2768,7 +2788,9 @@
         "N-10417",
         "N-10418"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:50",
       "investigative_direction": "Check Frye's published biography for the Sierra Vista school and Fort Huachuca judo program.",
       "transcript_snippet": "he actually graduated from high school in Sierra Vista and then trained in judo at Fort Huachuca",
@@ -2787,14 +2809,16 @@
         "N-10417",
         "N-10418"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:05",
       "investigative_direction": "Confirm the family relationships and Allan McCormick's Fort Huachuca assignment through Army records or public obituaries.",
       "transcript_snippet": "Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
       "mentions_person_refs": [
         "N-474",
-        "N-868",
-        "N-869"
+        "N-867",
+        "N-868"
       ]
     },
     {
@@ -2807,7 +2831,9 @@
       "related_nodes": [
         "N-10418"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:20",
       "investigative_direction": "Check Miss Teen USA 2006 titleholder records; the transcript's title and name attribution look garbled and may be wrong.",
       "transcript_snippet": "Payton was also, by the way, Miss Teen USA in 2006, Priscilla Ann Nu'ul",
@@ -2827,7 +2853,9 @@
         "N-10418",
         "N-10417"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:35",
       "investigative_direction": "Identify Thuy's father and verify the IBM employment claim; no Fort Huachuca link was shown.",
       "transcript_snippet": "we can tell you that her dad worked for an artificial intelligence for IBM",
@@ -2846,7 +2874,9 @@
       "related_nodes": [
         "N-10418"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:50",
       "investigative_direction": "Public 5150 holds are confidential medical events; look for any news report before treating this as established.",
       "transcript_snippet": "that Price Mitchum, that just gets dark. I mean, that young man or older man got put in a psych 5150 hold",
@@ -2866,7 +2896,9 @@
         "N-10417",
         "N-10472"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:20",
       "investigative_direction": "Find Kolvet's original statement about Erika's familiarity with the base and test it against the poster and Kickstarter evidence.",
       "transcript_snippet": "The point is is that they told me there's absolutely no way that she's not familiar with Fort Huachuca.",
@@ -2888,7 +2920,9 @@
       "related_nodes": [
         "N-10418"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:30",
       "investigative_direction": "Archive the Kickstarter comment thread and delivery estimate from the Wayback Machine.",
       "transcript_snippet": "They promised to deliver it in 2013. That didn't happen.",
@@ -2909,7 +2943,9 @@
       "related_nodes": [
         "N-10418"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:40",
       "investigative_direction": "Capture the dated Kickstarter update log to confirm the last update year.",
       "transcript_snippet": "this project was never released despite posting updates up to 2017",
@@ -2929,7 +2965,9 @@
         "N-10417",
         "N-10472"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:55",
       "investigative_direction": "Seek on-record confirmation from the sources; their friendship with Erika is asserted only through the host.",
       "transcript_snippet": "these people who gave this to us were our friends with Erika, they know her, they say she knows about this space",
@@ -2950,7 +2988,9 @@
         "N-10417",
         "N-10365"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:35",
       "investigative_direction": "Recover the deleted post from archives or screenshots and confirm the date of the sighting it described.",
       "transcript_snippet": "she had seen Erika the day before, which would have been September 9th, by the way, not the 8th.",
@@ -2970,7 +3010,9 @@
         "N-10417",
         "N-10367"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:00",
       "investigative_direction": "Ask the host to disclose how independence from Mitch Snow was established; compare the two accounts' details.",
       "transcript_snippet": "This person has absolutely nothing to do with Mitch Snow.",
@@ -2990,7 +3032,9 @@
         "N-10417",
         "N-10365"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:25",
       "investigative_direction": "Identify the chat and the order; check Fort Huachuca airspace or UAS notices for September 9, 2025.",
       "transcript_snippet": "and that there was an order to lower drones on that day.",
@@ -3010,7 +3054,9 @@
         "N-10417",
         "N-10375"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:55",
       "investigative_direction": "Request documentation of the verification method, such as duty verification, which the host has not shown.",
       "transcript_snippet": "I did my due diligence to confirm that those people are real and that those people are in fact stationed at Fort Huachuca",
@@ -3032,7 +3078,9 @@
         "N-10472",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:20",
       "investigative_direction": "Obtain the video Erika sent and the host's example request; check metadata to date the footage.",
       "transcript_snippet": "through um one of the Turning Point executives, Erika did send a video that I have been asking for regarding the Fort Huachuca alibi",
@@ -3055,7 +3103,9 @@
         "N-10401",
         "N-10032"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:30",
       "investigative_direction": "Publish the chart nodes with sources so each strand can be checked individually.",
       "transcript_snippet": "We are finding this Liberty University strand, the Eastern uh Europe strand, the trafficking and sex abuse strand",
@@ -3077,7 +3127,9 @@
         "N-10411",
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:50",
       "investigative_direction": "Pull the court docket of the Harvest Christian Fellowship Romania litigation for the allegations and status.",
       "transcript_snippet": "Turning Point Faith working with this Pastor Greg Laurie, whose church is being accused of trafficking children from Romania.",
@@ -3100,7 +3152,9 @@
         "A-3037"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Locate the McCoy interview and the offender's court record referenced earlier in the series.",
       "transcript_snippet": "We had Rob McCoy trying to rehabilitate um a person who had abused children in the past.",
@@ -3125,7 +3179,9 @@
         "N-11167",
         "N-10144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:20",
       "investigative_direction": "Corroborate Lyman's meeting with Ballard on September 11, 2025 through schedules, photos or statements.",
       "transcript_snippet": "We talked about Tim Ballard, Operation Underground, how Phil Lyman went to see him the next day.",
@@ -3150,7 +3206,9 @@
       "related_nodes": [
         "N-11167"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:25",
       "investigative_direction": "Review the public filings and lawsuits against Operation Underground and Beck's reported funding.",
       "transcript_snippet": "Glenn Beck had funded that Operation Under Underground, which for Tim Ballard ended in scandal",
@@ -3172,7 +3230,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:40",
       "investigative_direction": "Check the TPUSA advisory board listing for Vallely and archived versions of the site.",
       "transcript_snippet": "I think on that episode I said he was on the board, I meant to say he's on the advisory board.",
@@ -3180,7 +3240,7 @@
         "C-8245"
       ],
       "mentions_person_refs": [
-        "N-815",
+        "N-814",
         "N-3"
       ]
     },
@@ -3194,7 +3254,9 @@
       "related_nodes": [
         "N-11238"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:55",
       "investigative_direction": "Verify Vallely's psychological operations command history and the book's co-author credit.",
       "transcript_snippet": "We got this retired Army general who actually ran psychological operations and happened to co-write a book with this guy who was an avowed Satanist and started his own kind of Church of Satan called the Temple of Set",
@@ -3202,7 +3264,7 @@
         "C-8246"
       ],
       "mentions_person_refs": [
-        "N-815",
+        "N-814",
         "N-3"
       ]
     },
@@ -3216,7 +3278,9 @@
       "related_nodes": [
         "N-11238"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:08",
       "investigative_direction": "Obtain the police report and the declination decision for the Army child development center case.",
       "transcript_snippet": "they didn't bring charges against him because they felt they didn't have enough evidence uh of harming a child.",
@@ -3237,7 +3301,9 @@
         "N-11166",
         "N-10428"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:00",
       "investigative_direction": "Check Everyday Heroes Foundation incorporation, filings and fund allocation against Erika's description.",
       "transcript_snippet": "I decided to create something called Everyday Heroes Like You",
@@ -3257,7 +3323,9 @@
       "related_nodes": [
         "N-10421"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:15",
       "investigative_direction": "Treat the plane movements as unproven wrongdoing; the open question is the donors' other ties.",
       "transcript_snippet": "going to see your biggest donor wouldn't exactly be a scandal",
@@ -3282,7 +3350,9 @@
         "N-10421",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:20",
       "investigative_direction": "Retrieve the Daily Wire Plus interview text to confirm the quotation and date.",
       "transcript_snippet": "Erika and I talked about womanhood and what our culture has been teaching our young women",
@@ -3303,7 +3373,9 @@
         "N-10268",
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:45",
       "investigative_direction": "Find Charlie Kirk's public post of support on the day of the firing and Shapiro's reaction.",
       "transcript_snippet": "he was really upset uh that I had called him out on stage and that Charlie had my back when I got fired",
@@ -3323,7 +3395,9 @@
       "related_nodes": [
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:05",
       "investigative_direction": "Obtain the text messages or the donor's identity the host says Charlie referred to; only Charlie's account via the host is offered.",
       "transcript_snippet": "that Ben started putting pressure on Charlie's donors uh and trying to get him not to let me speak at AmFest.",
@@ -3346,7 +3420,9 @@
       "related_nodes": [
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:20",
       "investigative_direction": "Ask the host for the source of the Weiss information flow; look for corroborating donor communications.",
       "transcript_snippet": "I knew that they were um feeding information also to Barry Weiss",
@@ -3366,7 +3442,9 @@
         "N-10268",
         "N-10423"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:30",
       "investigative_direction": "Locate AmFest 2024 speaker lists and any sponsorship terms; Kolvet's call is documented only by the host.",
       "transcript_snippet": "hey, letting you know that we're going to allow Ben to effectively buy a place at AmFest.",
@@ -3386,7 +3464,9 @@
       "related_nodes": [
         "N-10423"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:50",
       "investigative_direction": "Find the Kirk and Shapiro interview tied to Identity Crisis and its date relative to the AmFest speaker decision.",
       "transcript_snippet": "he said, Charlie has to do this interview now with um with uh Ben and that's what's happening.",
@@ -3408,7 +3488,9 @@
         "N-10421",
         "N-10423"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:58",
       "investigative_direction": "No evidence offered linking Buckman to the donor pressure; identify the donor before drawing a link.",
       "transcript_snippet": "I'm not saying that she necessarily was the person who put the pressure on it",
@@ -3431,7 +3513,9 @@
         "N-11239",
         "N-10420"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:24:25",
       "investigative_direction": "Check National Angels board and donor listings for Buckman.",
       "transcript_snippet": "Nelda works with National Angels, so it's like there's all these different regions, Austin Angels, New Jersey Angels.",
@@ -3452,7 +3536,9 @@
       "related_nodes": [
         "N-10420"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:05",
       "investigative_direction": "Verify Courage House donor listings and filings for Buckman gifts; the host hedges that she might be the largest.",
       "transcript_snippet": "Nelda is one of the largest donors, she might even be the largest donor to Courage House Nevada",
@@ -3474,7 +3560,9 @@
         "N-10420",
         "N-11240"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:20",
       "investigative_direction": "Obtain the Washoe County deed and sale date for the 40-acre parcel and the buyer entity.",
       "transcript_snippet": "per its website in April 2025, it purchased a 40-acre property in Washoe County, Nevada",
@@ -3494,7 +3582,9 @@
       "related_nodes": [
         "N-10420"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:48",
       "investigative_direction": "Check Nevada licensing records for the facility's PRTF license and conditions.",
       "transcript_snippet": "this is a psychiatric residential treatment facility",
@@ -3514,7 +3604,9 @@
       "related_nodes": [
         "N-10420"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:15",
       "investigative_direction": "Check the permit documents for the number and type of buildings and licensed bed capacity.",
       "transcript_snippet": "it has the capacity for 18 as colleges are are being built.",
@@ -3534,7 +3626,9 @@
       "related_nodes": [
         "N-10420"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:55",
       "investigative_direction": "Confirm through the Washoe County deed that the address is public record regardless of the facility's claim.",
       "transcript_snippet": "the Courage House is report reportedly located in a confidential secure location",
@@ -3556,7 +3650,9 @@
         "N-10420",
         "N-11240"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:10",
       "investigative_direction": "Retrieve the local news report to read the founder's full quotation in context.",
       "transcript_snippet": "it quote, where it's hard for them to leave or for someone to find them.",
@@ -3577,7 +3673,9 @@
       "related_nodes": [
         "N-10420"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:50",
       "investigative_direction": "Capture the website text and compare with the facility's licensed age range.",
       "transcript_snippet": "they're implying throughout the website that these girls can be as young as 4 to 6 years old",
@@ -3597,7 +3695,9 @@
       "related_nodes": [
         "N-10420"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:05",
       "investigative_direction": "Verify the Nevada statute on extended foster-care age and its effective date.",
       "transcript_snippet": "Nevada has changed its laws uh which means that they don't have to leave on their 18th birthday.",
@@ -3615,7 +3715,9 @@
       "related_nodes": [
         "N-11167"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:40",
       "investigative_direction": "Host's own giving record; no outside verification needed beyond her statement.",
       "transcript_snippet": "I used to give, just annually, just so you guys know, to Operation Underground, which was run by Tim Ballard.",
@@ -3632,7 +3734,9 @@
       "claim": "The host says Jeffrey Epstein donated a lot of money to schools, that his charities should be revisited, and that she is certain some were sex trafficking charities.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:50",
       "investigative_direction": "Pull Epstein's foundation filings and recipients list and screen them for child-welfare charities.",
       "transcript_snippet": "we know how Jeffrey Epstein also gave to schools, he donated to schools, he donated a lot of money, actually",
@@ -3652,7 +3756,9 @@
         "N-10001",
         "N-11126"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:30:25",
       "investigative_direction": "Historians' accounts of MK Ultra and Paperclip place the program in 1953; test the claimed lineage against declassified CIA records.",
       "transcript_snippet": "the precursor to MK Ultra, uh which actually took place with Nazi scientists that were then brought over here with Operation Paperclip",
@@ -3668,7 +3774,9 @@
       "claim": "The host says she believes there are, as an analogy, White Walkers among us: people harmed as children and turned into a kind of program, a pattern like gang pledging and hazing.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:10",
       "investigative_direction": "Opinion presented as belief; no checkable record offered.",
       "transcript_snippet": "I think there are, to use obviously an analogy here, White Walkers among us. I really do believe that.",
@@ -3686,12 +3794,14 @@
       "related_nodes": [
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:40",
       "investigative_direction": "Check the UVU announcement and its date.",
       "transcript_snippet": "who by the way has just stepped down from Utah Valley University. It was just announced",
       "mentions_person_refs": [
-        "N-767",
+        "N-766",
         "N-3"
       ]
     },
@@ -3706,12 +3816,14 @@
         "N-10012",
         "N-10028"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:50",
       "investigative_direction": "Obtain Tuminez's September 10, 2025 whereabouts and travel; previously claimed absences can be compared.",
       "transcript_snippet": "she was not there on the day of Charlie's assassination.",
       "mentions_person_refs": [
-        "N-767",
+        "N-766",
         "N-1",
         "N-3"
       ]
@@ -3726,12 +3838,14 @@
       "related_nodes": [
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:00",
       "investigative_direction": "Check Tuminez's published biography and memoir for her childhood and career; the CIA work claim has no cited source.",
       "transcript_snippet": "Looks like she was involved in some color revolution stuff for the CIA. She was a fostered child, was rescued from the Philippines.",
       "mentions_person_refs": [
-        "N-767",
+        "N-766",
         "N-3"
       ]
     },
@@ -3743,7 +3857,9 @@
       "claim": "The host says Hollywood's founding story is that it imported Viennese directors who had been engaging in pedophilia in Vienna, where it was rampant.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:35:40",
       "investigative_direction": "Film historians' accounts of Vienna emigre directors; the pedophilia claim has no cited source.",
       "transcript_snippet": "they largely imported a bunch of Viennese directors who had been engaging in pedophilia over in Vienna",
@@ -3759,13 +3875,15 @@
       "claim": "The host says Epstein, for his own birthday, found 12-year-old triplets who were dirt poor, and that his friend Jean-Luc Brunel flew them from Paris to Epstein.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:40",
       "investigative_direction": "Search the unsealed Giuffre and Maxwell filings and the Brunel investigation for the triplets allegation.",
       "transcript_snippet": "his friend uh Jean-Luc Brunel in Paris flew these 12-year-old triplets to Jeffrey Epstein",
       "mentions_person_refs": [
         "N-9",
-        "N-541",
+        "N-540",
         "N-3"
       ]
     },
@@ -3782,7 +3900,9 @@
         "N-10023",
         "N-10424"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:30",
       "investigative_direction": "Obtain the unedited source stream for Fuentes's wording and date.",
       "transcript_snippet": "the issue is that Epstein is a Jewish spy, probably working with Israel",
@@ -3801,7 +3921,9 @@
       "related_nodes": [
         "N-10424"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:25",
       "investigative_direction": "Trace the Bitcoin donation and the suicide letter through reporting on the donor.",
       "transcript_snippet": "I just got a quarter million in in Bitcoin from France from a guy who's wrote killed himself and published a letter 24 hours after he was dead",
@@ -3820,7 +3942,9 @@
       "related_nodes": [
         "N-10424"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:45",
       "investigative_direction": "Find the interview in which the lawyer was asked and the exact response.",
       "transcript_snippet": "his lawyer wants to go off record when he's asked directly about whether or not he is a a federal informant",
@@ -3842,7 +3966,9 @@
         "N-10023",
         "N-10424"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:45",
       "investigative_direction": "Source the original Fuentes stream, then compare with open-source reporting on Epstein and Israeli intelligence.",
       "transcript_snippet": "The story is someone was trafficking girls to acquire blackmail to sell to Israel.",
@@ -3862,7 +3988,9 @@
       "related_nodes": [
         "N-10424"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:50",
       "investigative_direction": "Find Greene's statement Fuentes refers to and its date.",
       "transcript_snippet": "I saw Marjorie Green say this is about female victims.",
@@ -3883,7 +4011,9 @@
       "related_nodes": [
         "N-10424"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:50",
       "investigative_direction": "Confirm the clip's exact text and date from the source broadcast.",
       "transcript_snippet": "This whole movement of Gen X idiots that are obsessed with satanic pedophile elite and psycho conspiracy cookery that doesn't even make sense",
@@ -3901,7 +4031,9 @@
       "related_nodes": [
         "N-10424"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:20",
       "investigative_direction": "Check the host's interview with Fuentes for the exchange.",
       "transcript_snippet": "the kid who sat across from me and said that people that are sub-Saharan just don't have a high IQ",
@@ -3918,13 +4050,15 @@
       "claim": "The host asks whether Jack Parsons, whom she says established the Apollo program at NASA, was conducting occult sexual rituals to establish a moon child, as a student of Aleister Crowley.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:45:10",
       "investigative_direction": "Parsons is documented as a JPL co-founder and Thelema follower; historians do not credit him with founding the Apollo program.",
       "transcript_snippet": "Did Jackson did Jack Parsons exist the who established the Apollo program at NASA? Was he similarly conducting occult sexual rituals to establish a moon child?",
       "mentions_person_refs": [
-        "N-738",
-        "N-786",
+        "N-737",
+        "N-785",
         "N-3"
       ]
     },
@@ -3940,7 +4074,9 @@
       "related_nodes": [
         "N-10424"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:20",
       "investigative_direction": "Check the source of the shouting clip and date to see whether it responds to the host's question.",
       "transcript_snippet": "This is this is actually was was his reply to me for asking him about whether he wanted to get married one day.",
@@ -3959,7 +4095,9 @@
       "related_nodes": [
         "N-10413"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:25",
       "investigative_direction": "No documentation offered; look for declassified or primary records on any Project Looking Glass.",
       "transcript_snippet": "how dare she talk about Project Looking Glass, which was real.",
@@ -3982,7 +4120,9 @@
       "related_nodes": [
         "N-10422"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:15",
       "investigative_direction": "Commenter claim; Fort Hood hospital records would be needed.",
       "transcript_snippet": "Dad was a doctor doing residency adjacent to a bio lab at the army hospital.",
@@ -4002,7 +4142,9 @@
       "related_nodes": [
         "N-10422"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:54:10",
       "investigative_direction": "Commenter anecdote; not verifiable.",
       "transcript_snippet": "Lights break above my head when I flipped a switch, cabinets slam when I get mad enough",
@@ -4020,7 +4162,9 @@
       "related_nodes": [
         "N-10422"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:50",
       "investigative_direction": "Re-read the text messages the host has cited and any record of Charlie's schooling.",
       "transcript_snippet": "He said he thought he was a time traveler. He went to a special school.",
@@ -4042,7 +4186,9 @@
       "related_nodes": [
         "N-10422"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:35",
       "investigative_direction": "Host's own schooling record; the program name could be checked with her district.",
       "transcript_snippet": "we'd like to put her in what was called the Extraordinary Learners Program",
@@ -4061,7 +4207,9 @@
         "N-10422",
         "N-11241"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:50",
       "investigative_direction": "Host's anecdote; check King Low Heywood Thomas School's gifted-program outreach in the 1990s.",
       "transcript_snippet": "they then said to my mom that we would like to pay for her to go all expenses to this academy, King Low Heywood Private School.",
@@ -4079,7 +4227,9 @@
       "related_nodes": [
         "N-10422"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:56:40",
       "investigative_direction": "Speculative; FOIA GATE program records could test it.",
       "transcript_snippet": "They probably want you to work for the government. They probably want to make sure that they can track you",
@@ -4097,7 +4247,9 @@
       "related_nodes": [
         "N-11242"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:55",
       "investigative_direction": "Check Camp Century history; the 1959 Project Iceworm scheme was cancelled and the base was not a launch base.",
       "transcript_snippet": "I had no idea that we had this military base, underground military base that was established there, particularly to launch missiles during the Cold War.",
@@ -4115,7 +4267,9 @@
         "A-3039"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:25",
       "investigative_direction": "Retrieve the text message(s) from the earlier episode and read the missile reference verbatim.",
       "transcript_snippet": "it was a part of Charlie's predictions. Not only was he going to die, but he felt that there was some devastation coming pertaining to a missile a war involving missiles.",
@@ -4136,7 +4290,9 @@
       "related_nodes": [
         "N-10422"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:00:45",
       "investigative_direction": "Find Wallace's public statements and any DARPA documentation of the biosonar tests.",
       "transcript_snippet": "she was a child who claims DARPA tested biosonar on her and other children in the 80s and 90s",
@@ -4154,7 +4310,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:01:00",
       "investigative_direction": "Ask the host to produce the proof of military tracking she says exists; no DARPA testing record has been shown.",
       "transcript_snippet": "I do think that Charlie was DARPA tested I think he was obviously we can prove that he was tracked by the military",
@@ -4173,7 +4331,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:01:15",
       "investigative_direction": "Check Montgomery's military service record and TPUSA founding documents.",
       "transcript_snippet": "turning point was established in part by Bill Montgomery who was Air Force involved with the Air Force I think we read that yesterday was on the reserves",
@@ -4197,7 +4357,9 @@
       "related_nodes": [
         "N-10472"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:01:45",
       "investigative_direction": "Watch the Monday live episode for the promised update and any video from Erika.",
       "transcript_snippet": "again I will pursue that alibi in earnest I'm going to send them a video saying I know what I'm talking about",
@@ -4218,7 +4380,9 @@
       "related_nodes": [
         "N-10417"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:02:00",
       "investigative_direction": "Check that incoming tips are logged and followed up on subsequent episodes.",
       "transcript_snippet": "if you have more information about Fort Huachuca more tips at Candace Owens. com",
@@ -4234,12 +4398,14 @@
       "claim": "The host says an interview between her and Myron Gaines drops the next day, covering feminism and her book Make Me a Sandwich, and that advertisers asked for it to go on her platform.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:02:10",
       "investigative_direction": "Check the release of the interview on the following day.",
       "transcript_snippet": "we have an interview dropping tomorrow between me and Myron Gaines",
       "mentions_person_refs": [
-        "N-870",
+        "N-869",
         "N-3"
       ]
     }

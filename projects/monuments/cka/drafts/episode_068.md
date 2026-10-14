@@ -15,8 +15,8 @@
   - Tip-minted Nodes (reintro-ep068): N-10922, N-10956
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10011–C-10058
-  - New Nodes Introduced: N-548, N-549, N-551, N-552, N-553, N-555, N-556, N-10478, N-10479, N-10480, N-10481, N-10483, N-10484
-  - Reused Nodes Appearing: N-10482, N-10477, N-3, N-9, N-11, N-50, N-203, N-374, N-509, N-546, N-10000, N-10197, N-10268, N-10397, N-10416, N-10435, N-10440, N-10441, N-10472, N-10473, N-10653, N-10900, N-10968, N-11099, N-11180, N-550, N-554
+  - New Nodes Introduced: N-547, N-548, N-550, N-551, N-552, N-554, N-555, N-10478, N-10479, N-10480, N-10481, N-10483, N-10484
+  - Reused Nodes Appearing: N-10482, N-10477, N-3, N-9, N-11, N-50, N-203, N-374, N-508, N-545, N-10000, N-10197, N-10268, N-10397, N-10416, N-10435, N-10440, N-10441, N-10472, N-10473, N-10653, N-10900, N-10968, N-11099, N-11180, N-549, N-553
   - (see registers)
 
 # Episode 68 Analysis – Bride of Charlie
@@ -72,7 +72,7 @@ Confidence: high
 
 - **Artifact Families Introduced:** A-1727, A-1728, A-1729, A-1730, A-1731, A-1732, A-1733, A-1734, A-1735, A-1736, A-1737
 - **Claim Range:** C-2283 – C-2297
-- **New People Nodes Introduced:** N-548, N-549, N-500, N-194, N-15, N-97, N-550, N-551, N-552, N-553, N-554, N-7, N-555, N-556
+- **New People Nodes Introduced:** N-547, N-548, N-500, N-194, N-15, N-97, N-549, N-550, N-551, N-552, N-553, N-7, N-554, N-555
 - **New Investigation Target Nodes Introduced:** N-10477, N-10478, N-10479, N-10480, N-10481, N-10482, N-10483, N-10484
 - **Existing Nodes Reused:** None specified in transcript for this episode; references to recurring figures (Charlie Kirk, Erika Kirk, Candace Owens, etc.) handled through the global people ledger (N-1 series per protocol)
 
@@ -167,7 +167,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:05:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (verbatim read)
-*Related: C-2286, N-553, N-10480, N-10484*
+*Related: C-2286, N-552, N-10480, N-10484*
 
 ---
 
@@ -207,7 +207,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2290, N-548, N-10484*
+*Related: C-2290, N-547, N-10484*
 
 **A-1731.2** Headline(s) describing German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 – early 2003
 Event Timestamp: 00:00:00–00:00:01
@@ -215,7 +215,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host claims to display headline; specific publication not identified)
-*Related: C-2291, N-548, N-549*
+*Related: C-2291, N-547, N-548*
 
 ---
 
@@ -227,7 +227,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2292, N-550*
+*Related: C-2292, N-549*
 
 ---
 
@@ -275,7 +275,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:46:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read from viewer comment; host pulls up article details)
-*Related: C-2296, N-551, N-555, N-556*
+*Related: C-2296, N-550, N-554, N-555*
 
 ---
 
@@ -287,7 +287,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host paraphrase)
-*Related: C-2297, N-552*
+*Related: C-2297, N-551*
 
 ---
 
@@ -381,7 +381,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-548** Gorg Fastbinder
+**N-547** Gorg Fastbinder
 German geophysicist (Bavarian State Conservation Office, Munich) credited in the episode with discovering Gilgamesh's tomb via magnetic mapping between May 2002 and early 2003; subject of BBC follow-up coverage.
 Evidence Count: 1
 Claim Count: 2
@@ -389,7 +389,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1731.1, A-1731.2, C-2290, C-2291*
 
-**N-549** Helmut Becker
+**N-548** Helmut Becker
 German geophysicist working alongside Gorg Fastbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.
 Evidence Count: 1
 Claim Count: 1
@@ -413,7 +413,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1728.1, A-1734.1, C-2285, C-2294, N-10482*
 
-**N-15** Justin Strife
+**N-15** Justin Streiff
 TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from "basketball game" to "football game."
 Evidence Count: 1
 Claim Count: 1
@@ -429,7 +429,7 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1733.1, C-2293*
 
-**N-550** Colin Powell
+**N-549** Colin Powell
 Former U.S. Secretary of State; subject of Feb 5, 2003 UN Security Council address cited in the episode.
 Evidence Count: 1
 Claim Count: 1
@@ -437,15 +437,15 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1732.1, C-2292*
 
-**N-551** William Stevenson
+**N-550** William Stevenson
 77-year-old Wilmington resident, ex-husband of Jill Biden (1970–1975); indicted for first-degree murder of his ex-wife per news referenced in episode.
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1736.1, C-2296, N-555, N-556*
+*Related: A-1736.1, C-2296, N-554, N-555*
 
-**N-552** Kevin Sorbo
+**N-551** Kevin Sorbo
 Actor referenced via tweet about leaving Hollywood because participants were pedophiles.
 Evidence Count: 1
 Claim Count: 1
@@ -453,7 +453,7 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1737.1, C-2297*
 
-**N-553** Robkea
+**N-552** Robkea
 Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets.
 Evidence Count: 1
 Claim Count: 1
@@ -461,7 +461,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1729.1, C-2286, N-10480, N-10484*
 
-**N-554** Bella Hadid
+**N-553** Bella Hadid
 Public figure referenced re: Lyme disease treatment options overseas.
 Evidence Count: 0
 Claim Count: 0
@@ -477,21 +477,21 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: N-10477, N-10482*
 
-**N-555** Amber Thurman (Victim in Stevenson case)
+**N-554** Amber Thurman (Victim in Stevenson case)
 Per host's read of article, the ex-wife of William Stevenson whose body was found unresponsive in the living room (Stevenson indicted for first-degree murder).
 Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1736.1, C-2296, N-551*
+*Related: A-1736.1, C-2296, N-550*
 
-**N-556** Jill Biden
+**N-555** Jill Biden
 Subject of William Stevenson connection (Stevenson was her ex-husband, 1970–1975); declined to comment per host's read.
 Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1736.1, C-2296, N-551*
+*Related: A-1736.1, C-2296, N-550*
 
 ---
 
@@ -525,7 +525,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1729.1, C-2286, N-553*
+*Related: A-1729.1, C-2286, N-552*
 
 **N-10481** Babylon Military Camp Activities
 Camp Alpha / coalition use of Babylon (April 2003 – December 2004); helicopter pad, sandbags filled with archaeological fragments, helicopter-induced roof collapse, museum looting; British Museum comparison to Great Pyramid / Stonehenge.
@@ -549,7 +549,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1735.1, C-2295, N-500, N-15, N-554*
+*Related: A-1735.1, C-2295, N-500, N-15, N-553*
 
 **N-10484** Babylon Library / Tablet Loss Discrepancy
 UN article acknowledges contents from Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed; viewer email asserts tablets concerning reincarnation and the Nephilim were specifically excluded from what the military retrieved.
@@ -557,7 +557,7 @@ Evidence Count: 2
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1729.1, A-1730.1, C-2286, C-2287, N-553*
+*Related: A-1729.1, A-1730.1, C-2286, C-2287, N-552*
 
 ---
 
@@ -617,7 +617,7 @@ Subject of a moderator comment praised by the host.
 
 ---
 
-**N-546** Alan Dershowitz
+**N-545** Alan Dershowitz
 
 Transcribed 'Duruit' in the moderator comment read on air.
 
@@ -633,7 +633,7 @@ Daily Wire co-founder, named as present when staff kept a clip file.
 
 ---
 
-**N-509** Bassem Youssef
+**N-508** Bassem Youssef
 
 Transcribed 'Bassim Ysef'; subject of a remark in the Shapiro clip.
 
@@ -820,7 +820,7 @@ Investigative Direction: Locate and quote the exact NYT passage to confirm wordi
 Claim Timestamp: 00:05:54
 Claim: A viewer email read on air asserted that Robkea's research documented: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was "raided"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.
 Anchored Artifacts: A-1729.1
-Mentions: N-553
+Mentions: N-552
 Related Nodes: N-10480, N-10484
 Investigative Direction: Locate Robkea's published work ("Babylon Rising" et al.) and verify each factual component independently.
 
@@ -857,7 +857,7 @@ Investigative Direction: Locate the British Museum report and confirm quoted lan
 Claim Timestamp: 00:09:00
 Claim: The BBC reported that Gorg Fastinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.
 Anchored Artifacts: A-1731.1
-Mentions: N-548
+Mentions: N-547
 Related Nodes: N-10484
 Investigative Direction: Locate the specific BBC report and confirm date.
 
@@ -867,7 +867,7 @@ Investigative Direction: Locate the specific BBC report and confirm date.
 Claim Timestamp: 00:07:30
 Claim: German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.
 Anchored Artifacts: A-1731.2
-Mentions: N-548, N-549
+Mentions: N-547, N-548
 Investigative Direction: Locate primary publications or institutional releases confirming the timeline.
 
 ---
@@ -876,7 +876,7 @@ Investigative Direction: Locate primary publications or institutional releases c
 Claim Timestamp: 00:09:03
 Claim: Colin Powell publicly stated at the United Nations Security Council on Feb 5, 2003 that Iraq possessed weapons of mass destruction.
 Anchored Artifacts: A-1732.1
-Mentions: N-550
+Mentions: N-549
 Investigative Direction: Reference the UN Security Council record / transcript.
 
 ---
@@ -914,7 +914,7 @@ Investigative Direction: Obtain copies of the underlying text messages and verif
 Claim Timestamp: 00:46:39
 Claim: William Stevenson, 77, of Wilmington, Delaware – ex-husband of Jill Biden (married 1970–1975) – was indicted for first-degree murder of his ex-wife, whose body was reportedly found unresponsive in the living room with life-saving measures unsuccessful.
 Anchored Artifacts: A-1736.1
-Mentions: N-551, N-556
+Mentions: N-550, N-555
 Investigative Direction: Verify via Delaware court records and contemporaneous news coverage.
 
 ---
@@ -923,7 +923,7 @@ Investigative Direction: Verify via Delaware court records and contemporaneous n
 Claim Timestamp: 00:44:50
 Claim: Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles.
 Anchored Artifacts: A-1737.1
-Mentions: N-552
+Mentions: N-551
 Investigative Direction: Locate the tweet and verify exact wording and date.
 
 ---
@@ -966,7 +966,7 @@ Claim: The host says the US military made its base at the exact location where F
 Transcript Snippet: they happen to make their b their military base at that exact location
 
 Anchored Artifacts: 
-Mentions: N-548
+Mentions: N-547
 Related Nodes: N-10481, N-10480
 Supports: C-2290
 Tags: relevance:context
@@ -1552,7 +1552,7 @@ Claim: In the clip, Shapiro says Candace interviewed Bassem Youssef and told him
 Transcript Snippet: Candace also interviewed Bassim Ysef and told him she thinks something bad happened in your childhood because you fixated and lack empathy.
 
 Anchored Artifacts: A-1733.1
-Mentions: N-97, N-509, N-3
+Mentions: N-97, N-508, N-3
 Tags: relevance:context
 Investigative Direction: Check the host's interview with Youssef for the childhood remark.
 
@@ -1674,7 +1674,7 @@ Claim: The host reads a moderator's comment that Epstein and Dershowitz ('Duruit
 Transcript Snippet: Epstein and Duruit contacted Finkelestein, but he called them pedophiles and threatened to hurt them.
 
 Anchored Artifacts: A-3049.1
-Mentions: N-203, N-9, N-546
+Mentions: N-203, N-9, N-545
 Tags: relevance:context
 Investigative Direction: Ask Finkelstein or find his published account of any contact.
 
@@ -1684,7 +1684,7 @@ Investigative Direction: Ask Finkelstein or find his published account of any co
 
 - Every claim (C-2283 – C-2297) carries at least one Anchored Artifact and at least one Related Node.
 - Every artifact family (A-1727 – A-1737) carries Related claims and Related nodes.
-- Every People Node (N-548 – N-556) and Investigation Target Node (N-10477 – N-10484) carries Related artifacts and Related claims.
+- Every People Node (N-547 – N-555) and Investigation Target Node (N-10477 – N-10484) carries Related artifacts and Related claims.
 - No episode-wide artifact bundle was created.
 - No speculative claims were inscribed; rhetoric-only statements about "muggles," "Babylonian magic," "Project Looking Glass," "Epstein," "Ben Shapiro secretly hates her," "God is real," etc., were excluded as framing premises / interpretive commentary.
 
@@ -1709,7 +1709,7 @@ Investigative Direction: Ask Finkelstein or find his published account of any co
 - [x] Every artifact has a Related line.
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle exists.
-- [x] People nodes use the global people ledger (N-548 onward per ledger continuation).
+- [x] People nodes use the global people ledger (N-547 onward per ledger continuation).
 - [x] Non-person investigation targets use the 1000-series (N-10477 onward per ledger continuation).
 - [x] No speculative claims inscribed as evidence-backed claims.
 - [x] Names preserved exactly per transcript; uncertainties flagged.

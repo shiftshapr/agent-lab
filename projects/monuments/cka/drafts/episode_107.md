@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 674d0b2cf0cf17f8e31242dcb7734af97349b70ba3193f8f1aef68b988aa35f5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-739, N-740, N-741, N-742, N-743, N-11047, N-11048, N-11049, N-11050, N-11051, N-11052
+  - Tip-minted Nodes (supplement_2026-10): N-738, N-739, N-740, N-741, N-742, N-11047, N-11048, N-11049, N-11050, N-11051, N-11052
   - Hole-minted Nodes (reintro-ep107): N-10700, N-10785
   - Tip-minted Nodes (reintro-ep107): N-10942
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -538,7 +538,7 @@ Topic for Marx's account of the text reassuring Erika Kirk that they only wanted
 
 ---
 
-**N-739** Mike Kennedy
+**N-738** Mike Kennedy
 
 First named by the host at 00:03:25 in episode 107. Described as Victor Marx's brother who pled guilty as a co-conspirator and took a plea deal for testifying against the stepfather.
 
@@ -546,7 +546,7 @@ First named by the host at 00:03:25 in episode 107. Described as Victor Marx's b
 
 ---
 
-**N-740** Karl Marx (Victor Marx's father)
+**N-739** Karl Marx (Victor Marx's father)
 
 First named by the host at 00:03:25 in episode 107. Described as Victor Marx's biological father, a pimp, drug dealer and martial arts expert who spent time in a mental hospital.
 
@@ -554,7 +554,7 @@ First named by the host at 00:03:25 in episode 107. Described as Victor Marx's b
 
 ---
 
-**N-741** Kenneth Brining
+**N-740** Kenneth Brining
 
 First named by the host at 00:05:19 in episode 107. Described as Eileen Marx's brother who tried to shoot Victor Marx in 2023 and later killed his girlfriend.
 
@@ -562,7 +562,7 @@ First named by the host at 00:05:19 in episode 107. Described as Eileen Marx's b
 
 ---
 
-**N-742** James Dobson
+**N-741** James Dobson
 
 First named by Victor Marx at 00:51:20 in episode 107. Marx says he worked for Dr. James Dobson as an assistant.
 
@@ -570,7 +570,7 @@ First named by Victor Marx at 00:51:20 in episode 107. Marx says he worked for D
 
 ---
 
-**N-743** Dave Eubank
+**N-742** Dave Eubank
 
 First named by Victor Marx at 00:51:20 in episode 107. Marx says Eubank invited him to Burma.
 
@@ -895,7 +895,7 @@ Claim: The host says Victor Marx's brother Mike Kennedy also pled guilty as a co
 Transcript Snippet: Victor's brother, Mike Kennedy, also pled guilty as a co-conspirator, but he took a plea deal in exchange for testifying against his his stepfather.
 
 Anchored Artifacts: 
-Mentions: N-739, N-356, N-348
+Mentions: N-738, N-356, N-348
 Related Nodes: N-10785
 Investigative Direction: Locate the case docket and plea agreement naming Mike Kennedy and any trial testimony.
 
@@ -910,7 +910,7 @@ Claim: The host says Victor Marx's biological father was Karl Marx, whom she des
 Transcript Snippet: Victor Marx's biological dad was Karl Marx. What a name. He was a pimp, a drug dealer, and a world-famous martial arts expert.
 
 Anchored Artifacts: 
-Mentions: N-740, N-348
+Mentions: N-739, N-348
 Related Nodes: N-10785
 Investigative Direction: Find public records, martial arts directories or interviews identifying Karl Marx and his criminal history.
 
@@ -925,7 +925,7 @@ Claim: The host says Marx's biological father spent time in a mental hospital fo
 Transcript Snippet: his biological father spent time in a mental hospital for homicidal tendencies
 
 Anchored Artifacts: 
-Mentions: N-740, N-348
+Mentions: N-739, N-348
 Related Nodes: N-10785
 Investigative Direction: Look for commitment or hospital records, or Marx's own statements about his father's confinement.
 
@@ -1015,7 +1015,7 @@ Claim: The host says that in 2023 Eileen's brother, Kenneth Brining, tried to sh
 Transcript Snippet: In 2023, Eileen's brother, Kenneth Brining, tried to shoot Victor Marx on Victor's property.
 
 Anchored Artifacts: 
-Mentions: N-741, N-350, N-348
+Mentions: N-740, N-350, N-348
 Investigative Direction: Obtain the sheriff's incident report and court file for the 2023 shooting.
 
 ---
@@ -1029,7 +1029,7 @@ Claim: The host says Eileen's brother would go on to kill his own girlfriend.
 Transcript Snippet: but Eileen's brother would go on to kill his own girlfriend.
 
 Anchored Artifacts: 
-Mentions: N-741, N-350
+Mentions: N-740, N-350
 Investigative Direction: Obtain the homicide case record naming Kenneth Brining and the victim.
 
 ---
@@ -1960,7 +1960,7 @@ Claim: Victor Marx says that a couple of decades before starting his ministry he
 Transcript Snippet: I worked for Dr. James Dobson as an assistant.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-742
+Mentions: N-348, N-741
 Related Nodes: N-10785
 Investigative Direction: Ask Focus on the Family or Dobson's organization to confirm employment and dates.
 
@@ -1990,7 +1990,7 @@ Claim: Victor Marx says he was invited to go to Burma by Dave Eubank, whom he ca
 Transcript Snippet: I was invited to go to Burma by Dave Eubank, who I consider kind of the the godfather of high-risk missions work.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-348, N-743
+Mentions: N-348, N-742
 Related Nodes: N-11047
 Investigative Direction: Ask Eubank's organization to confirm the invitation and dates.
 

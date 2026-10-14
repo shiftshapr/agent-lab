@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 56d0f23b17a0cf753736039d602659d87c37358b53687d087f88f5fff2bdc3c5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-878, N-879, N-880, N-881, N-11259, N-11260, N-11261, N-11262
+  - Tip-minted Nodes (supplement_2026-10d): N-877, N-878, N-879, N-880, N-11259, N-11260, N-11261, N-11262
   - Tip-minted Nodes (reintro-ep140): N-11066, N-11067
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10423–C-10499
   - New Nodes Introduced: N-10791, N-10792, N-10793
   - Reused Nodes Appearing: N-2, N-18, N-9, N-14, N-60, N-102, N-162, N-274, N-374, N-375, N-10000, N-10011, N-10012, N-10051, N-10052, N-10062, N-10077, N-10097, N-10139, N-10198, N-10338, N-10381, N-10416, N-10780, N-10787, N-10899, N-10900, N-11182
-  - Hole-minted Nodes (wave3): N-573
+  - Hole-minted Nodes (wave3): N-572
   - (see registers)
 
 # Episode 140 – Analysis Record
@@ -210,7 +210,7 @@ Video Timestamp: 00:39:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3272, Andrew Wilson node, N-573, N-18*
+*Related: C-3272, Andrew Wilson node, N-572, N-18*
 
 ---
 
@@ -262,7 +262,7 @@ Video Timestamp: 00:54:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: Andrew Wilson node, N-573*
+*Related: Andrew Wilson node, N-572*
 
 **A-2275.7** Strada comment: TPUSA figures "look 10 years older"
 
@@ -352,7 +352,7 @@ Video Timestamp: 00:36:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10472, N-573*
+*Related: C-10472, N-572*
 
 **A-3081.2** Host reads a message from Rachel Wilson about who clutches their pearls over smoking
 
@@ -362,7 +362,7 @@ Video Timestamp: 00:37:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10473, N-573*
+*Related: C-10473, N-572*
 
 **A-3081.3** Host verbal reference to photos of her pregnant backstage at the Daily Wire shown by Rachel Wilson (not displayed)
 
@@ -370,7 +370,7 @@ Video Timestamp: 00:37:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10474, N-573*
+*Related: C-10474, N-572*
 
 ---
 
@@ -406,7 +406,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-573** Rachel Wilson
+**N-572** Rachel Wilson
 
 First named by the host at 00:39:29 in episode 140.
 
@@ -745,7 +745,7 @@ Existing topic reused for the PR agent claim.
 
 ---
 
-**N-878** Agent Hoole
+**N-877** Agent Hoole
 
 First named by the host at 00:17:43 in episode 140. Investigator whose court testimony about a vehicle is played and analysed.
 
@@ -753,7 +753,7 @@ First named by the host at 00:17:43 in episode 140. Investigator whose court tes
 
 ---
 
-**N-879** Officer Goforth
+**N-878** Officer Goforth
 
 First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hoole's testimony as the officer a vehicle made contact with.
 
@@ -761,7 +761,7 @@ First named by the host at 00:18:42 in episode 140. Security-detail officer iden
 
 ---
 
-**N-880** Haim Braverman
+**N-879** Haim Braverman
 
 First named by the host at 00:29:36 in episode 140. Man the host says was arrested and pled guilty after plotting against her from a group chat.
 
@@ -769,7 +769,7 @@ First named by the host at 00:29:36 in episode 140. Man the host says was arrest
 
 ---
 
-**N-881** Britta Widener
+**N-880** Britta Widener
 
 First named by the host at 00:31:45 in episode 140 (spelled Britta Whitener and Brita in the transcript). Owner of the No Soup For You / No Soup for Noels X account.
 
@@ -999,7 +999,7 @@ Claim Timestamp: 00:39:29
 Claim: In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel Wilson called in to debate on his behalf; the host characterizes this as a recurring pattern.
 
 Anchored Artifacts: A-2274.1
-Mentions: N-18, N-573
+Mentions: N-18, N-572
 
 
 Investigative Direction: Obtain the full debate recording and date; verify whether this was a sanctioned call-in.
@@ -1394,7 +1394,7 @@ Claim: The host says she wrongly assumed Robinson had been pulled over, but afte
 Transcript Snippet: I wrongly assumed that he had been pulled over.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-40, N-878
+Mentions: N-40, N-877
 Related Nodes: N-11261
 Supports: C-3266
 Tags: relevance:core
@@ -1411,7 +1411,7 @@ Claim: In the testimony audio the host plays, Agent Hoole says the vehicle is no
 Transcript Snippet: that vehicle is now pulling away and heading east on 800 South.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-878, N-879
+Mentions: N-877, N-878
 Related Nodes: N-11261
 Tags: relevance:core
 Investigative Direction: Obtain the exhibit map and video Hoole was describing and the full transcript of this testimony.
@@ -1427,7 +1427,7 @@ Claim: The host says no footage has been shown of the vehicle's contact with the
 Transcript Snippet: We've not seen any footage from that.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-879
+Mentions: N-878
 Related Nodes: N-11261
 Tags: relevance:core
 Investigative Direction: Request the security officer's body-camera footage and report for the contact.
@@ -1638,7 +1638,7 @@ Claim: The host says that after the FBI became involved the group member, whom s
 Transcript Snippet: he got arrested, he pled guilty, his name is Haim Braverman, and he is in prison, you can look that up.
 
 Anchored Artifacts: 
-Mentions: N-880, N-3
+Mentions: N-879, N-3
 Tags: relevance:context
 Investigative Direction: Search federal court dockets and DOJ press releases for a plea by Haim Braverman and the sentence.
 
@@ -1701,7 +1701,7 @@ Claim: The host says Britta, a Daily Wire super fan, attacked her with the Crisi
 Transcript Snippet: obviously I knew that their PR agent and Jeremy Boring were working through her
 
 Anchored Artifacts: 
-Mentions: N-881, N-374, N-3
+Mentions: N-880, N-374, N-3
 Related Nodes: N-10900, N-11182
 Tags: relevance:context
 Investigative Direction: Look for coordination evidence between the account and Daily Wire staff or PR, such as shared posts, direct messages or timings.
@@ -1717,7 +1717,7 @@ Claim: The host says Britta Widener went after her family and husband and was pa
 Transcript Snippet: she's been going after my family, my husband. She was part of people perpetuating the lies about my husband
 
 Anchored Artifacts: 
-Mentions: N-881, N-3
+Mentions: N-880, N-3
 Related Nodes: N-10780, N-10416
 Tags: relevance:context
 Investigative Direction: Compile the April posts about the host's husband and identify which accounts amplified them.
@@ -1733,7 +1733,7 @@ Claim: The host says that a couple of weeks earlier she showed that Laura Loomer
 Transcript Snippet: I think I showed you a couple of weeks ago that like Laura Loomer sent like 1,800 tweets about me
 
 Anchored Artifacts: 
-Mentions: N-60, N-881, N-3
+Mentions: N-60, N-880, N-3
 Tags: relevance:context
 Investigative Direction: Obtain the tweet-counter output shown in the earlier episode and re-run the count on Loomer's account.
 
@@ -1845,7 +1845,7 @@ Claim: The host says the dispute with Wilson's side came down to her telling the
 Transcript Snippet: you can't smoke cigarettes in my home
 
 Anchored Artifacts: 
-Mentions: N-18, N-573, N-3
+Mentions: N-18, N-572, N-3
 Related Nodes: N-11067
 Tags: relevance:context
 Investigative Direction: Review the debate terms for the studio smoking rule and the messages about it.
@@ -1861,7 +1861,7 @@ Claim: The host says that after being told there was no smoking Rachel Wilson wr
 Transcript Snippet: typical woman nonsense. I'm surprised she hasn't me too'd anyone.
 
 Anchored Artifacts: A-3081.1
-Mentions: N-573, N-3
+Mentions: N-572, N-3
 Related Nodes: N-11067
 Tags: relevance:tangential
 Investigative Direction: Obtain the original post or message from Rachel Wilson.
@@ -1877,7 +1877,7 @@ Claim: The host says Rachel Wilson wrote that those who clutch their pearls abou
 Transcript Snippet: Yeah, who clutches their pearls about smoking? Zoomer soy boys maybe or the type of woman who reports everything to HR.
 
 Anchored Artifacts: A-3081.2
-Mentions: N-573, N-3
+Mentions: N-572, N-3
 Related Nodes: N-11067
 Tags: relevance:tangential
 Investigative Direction: Obtain the original post from Rachel Wilson.
@@ -1893,7 +1893,7 @@ Claim: The host says Rachel Wilson kept going and showed photos of the host whil
 Transcript Snippet: She just kept going and going. Then she was like showing photos of me pregnant while I was doing backstage with the Daily Wire.
 
 Anchored Artifacts: A-3081.3
-Mentions: N-573, N-3
+Mentions: N-572, N-3
 Related Nodes: N-10900
 Tags: relevance:tangential
 Investigative Direction: Locate the photos Rachel Wilson posted and their dates.
@@ -1909,7 +1909,7 @@ Claim: In the clip, a woman identified by the host as Rachel Wilson says she has
 Transcript Snippet: I've spent my entire adult life only in three long-term committed relationships
 
 Anchored Artifacts: A-2274.1
-Mentions: N-573, N-18
+Mentions: N-572, N-18
 Supports: C-3272
 Tags: relevance:tangential
 Investigative Direction: Verify the marriage and relationship timeline through public records and the full debate clip.
@@ -1925,7 +1925,7 @@ Claim: In the clip, Rachel Wilson says her earlier four-year marriage ended beca
 Transcript Snippet: because he uh beat the crap out of me and was being pursued by the law and left the state
 
 Anchored Artifacts: A-2274.1
-Mentions: N-573
+Mentions: N-572
 Tags: relevance:tangential
 Investigative Direction: Search public court records for the earlier marriage and any case referenced; treat as the speaker's own account.
 
@@ -1940,7 +1940,7 @@ Claim: In the clip, Rachel Wilson says her first relationship was with her high 
 Transcript Snippet: The first one was my high school boyfriend who I knew my whole life, who I was with for 5 years. We had two children.
 
 Anchored Artifacts: A-2274.1
-Mentions: N-573
+Mentions: N-572
 Tags: relevance:tangential
 Investigative Direction: Treat as the speaker's own account; no external verification is needed for the case.
 
@@ -1955,7 +1955,7 @@ Claim: In the clip, a male voice asks whether Rachel Wilson would still be promi
 Transcript Snippet: If she had slept with three men, but had aborted all of the children, would she still be promiscuous?
 
 Anchored Artifacts: A-2274.1
-Mentions: N-573
+Mentions: N-572
 Tags: relevance:tangential
 Investigative Direction: Identify the speaker and the show from the full debate clip.
 
@@ -1970,7 +1970,7 @@ Claim: The host says that in the clip Rachel Wilson jumps in and speaks on behal
 Transcript Snippet: And she jumps right in and she speaks on behalf of her husband. He tells her to shut up.
 
 Anchored Artifacts: A-2274.1
-Mentions: N-573, N-18
+Mentions: N-572, N-18
 Supports: C-3272
 Tags: relevance:tangential
 Investigative Direction: Review the full clip to attribute the shut-up lines to a specific speaker.
@@ -1986,7 +1986,7 @@ Claim: The host says she herself suggested that Andrew Wilson's wife should shut
 Transcript Snippet: To be fair, I did tell his wife to I suggested she should shut up.
 
 Anchored Artifacts: 
-Mentions: N-573, N-3
+Mentions: N-572, N-3
 Related Nodes: N-11067
 Tags: relevance:tangential
 Investigative Direction: Obtain the exchange in which the host made the remark.
@@ -2002,7 +2002,7 @@ Claim: The host says Rachel Wilson has authored 37,000 tweets and has been findi
 Transcript Snippet: why are you online authoring 37,000 tweets and finding photos of me trying to pretend that I'm a hypocrite.
 
 Anchored Artifacts: 
-Mentions: N-573, N-3
+Mentions: N-572, N-3
 Tags: relevance:tangential
 Investigative Direction: Run a tweet count on Rachel Wilson's account.
 
@@ -2017,7 +2017,7 @@ Claim: The host says Andrew Wilson himself did not try to negotiate being able t
 Transcript Snippet: And uh he did not try to negotiate being able to smoke cigarettes
 
 Anchored Artifacts: 
-Mentions: N-18, N-573
+Mentions: N-18, N-572
 Related Nodes: N-11067
 Tags: relevance:tangential
 Investigative Direction: Compare the negotiation messages for any smoking request by Andrew Wilson.
@@ -2272,7 +2272,7 @@ Claim: The host says she is not going to put up any boundaries at all about Rach
 Transcript Snippet: I am not going to be putting up any boundaries at all.
 
 Anchored Artifacts: 
-Mentions: N-573, N-3
+Mentions: N-572, N-3
 Related Nodes: N-11067
 Tags: relevance:context
 Investigative Direction: Check the final debate terms for any limits on who attends.

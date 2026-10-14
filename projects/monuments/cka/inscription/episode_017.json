@@ -2317,7 +2317,9 @@
       "related_nodes": [
         "N-10169"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:00",
       "investigative_direction": "Obtain Hammer's own public statements and any call logs or invitations for the pre-assassination call with Kirk.",
       "transcript_snippet": "he and a rabbi in Israel had a long talk with Charlie the night before he died, something he was very proud",
@@ -2341,7 +2343,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:20",
       "investigative_direction": "Collect Hammer's post-assassination posts and interviews making the claim, and compare them with Kirk's own recorded statements on Israel.",
       "transcript_snippet": "Charlie Kirk was his friend, he claimed, rather maniacally, uh that Charlie never once flinched on the topic of Israel. He died just loving Israel. It was like,",
@@ -2362,7 +2366,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:20",
       "investigative_direction": "Retrieve the original Hammer posts from his X archive and confirm dates and wording.",
       "transcript_snippet": "There is a repulsive op right now to hijack Charlie Kirk's legacy. Uh there is a repulsive op right now desecrating Charlie's memory by trying to posthumously convert him to",
@@ -2383,7 +2389,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:20",
       "investigative_direction": "Find the Hammer post, identify which letter he meant (compare the May letter attributed to Kirk), and establish who gave him access and when.",
       "transcript_snippet": "I was given access to this letter a few months ago, and I read it at that time. Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel. [03:10] Candace",
@@ -2404,7 +2412,9 @@
         "N-10178",
         "N-10027"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:58",
       "investigative_direction": "Compare Hammer's public account of the Hamptons meeting with attendee statements, photos and event records.",
       "transcript_snippet": "He lied about the Hamptons meeting. I've told you the truth from day one. Seth Dillon and Josh were personally upset with Charlie's defiance against the state of Israel. Seth Dillon was the more vocal of",
@@ -2425,7 +2435,9 @@
         "N-10345",
         "N-10027"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:58",
       "investigative_direction": "Interview Hamptons attendees and obtain any messages in which Dillon or Hammer pressed Kirk on Israel.",
       "transcript_snippet": "Seth Dillon and Josh were personally upset with Charlie's defiance against the state of Israel. Seth Dillon was the more vocal of the two parties in the Hamptons, as I said, in terms of actually pressing Charlie, but both of",
@@ -2449,7 +2461,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:53",
       "investigative_direction": "Identify Hammer's own statements and the call or messages that show he knew Kirk's views were shifting.",
       "transcript_snippet": "the truth is that it is now an established fact, like I said, that Josh Hammer knew that Charlie Kirk's perspectives on Israel were",
@@ -2469,7 +2483,9 @@
         "A-1237.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:41",
       "investigative_direction": "Ask the host for the basis of the claim and check Ali's disclosed clients and any public contracts or filings.",
       "transcript_snippet": "quite literally paid to do PR for Zionists. I know this personally.",
@@ -2489,7 +2505,9 @@
         "N-10179",
         "N-10174"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:48",
       "investigative_direction": "Identify the X user and compare the post time with the first release of the footage.",
       "transcript_snippet": "another user then jumped on that and tried to establish a non-fact that the footage of Iryna's murder was released on that day, on the 9th, and that's why Josh tweeted that.",
@@ -2513,7 +2531,9 @@
       "related_nodes": [
         "N-10174"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:48",
       "investigative_direction": "Retrieve the host's quote tweet, the Sam Parker post it quoted and Ali's reply to confirm order and wording.",
       "transcript_snippet": "Candace Owens quote tweeted notorious neo-Nazi Sam Parker, who pointed out that Josh Hammer, who is Jewish and was a friend of Charlie Kirk's, elevated",
@@ -2535,7 +2555,9 @@
         "N-10174",
         "N-10179"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:44",
       "investigative_direction": "Search Hammer's show transcripts, media appearances and posts from August 22 to September 9 for death penalty or public execution language.",
       "transcript_snippet": "Josh, at no point that I could determine, whether he was on the news, whether he was on his own show, or anywhere else, did he speak about the death",
@@ -2559,7 +2581,9 @@
         "N-10179",
         "N-10174"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:44",
       "investigative_direction": "Pull Hammer's posts from September 5 to 9 about the Zhuravska case and check whether any mention punishment.",
       "transcript_snippet": "Josh himself sent multiple tweets regarding the homicide, as everyone did, because, like I said, it was trending. Um",
@@ -2581,7 +2605,9 @@
         "N-10174",
         "N-10169"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:50",
       "investigative_direction": "Verify the exact post times from Hammer's archive and compare them with the reported start time of the Zoom call.",
       "transcript_snippet": "5:59 p. m., he tweets uh a promotion of his media appearance regarding a Supreme Court decision. And then there's this 3-hour break. He put his phone down, maybe. Maybe",
@@ -2606,7 +2632,9 @@
       "related_nodes": [
         "N-10174"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:45",
       "investigative_direction": "Locate the Walsh show segment and confirm what he said about the post.",
       "transcript_snippet": "So, Matt Walsh then went on his show and further explained that already contextualized tweet, and he explained how men have a visceral response when you see somebody uh being victimized, a woman being victimized in",
@@ -2628,7 +2656,9 @@
         "A-1239.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:05",
       "investigative_direction": "Confirm Hammer's current Newsweek title and any Newsweek response to the post.",
       "transcript_snippet": "editor-at-large at Newsweek. What are you going to do? Yeah, it's fine. You can hate white people. We all know that. It's fine. Totally fine.\" Anyways, that's what he thinks about you",
@@ -2650,7 +2680,9 @@
         "N-10025",
         "N-10106"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:05",
       "investigative_direction": "Obtain the group chat messages and any Hammer-to-Kirk communications from August and September 2025.",
       "transcript_snippet": "pressure that Charlie was under, pressure which Josh Hammer was a part of applying in the weeks and then in the hours leading up to Charlie Kirk's death.",
@@ -2675,7 +2707,9 @@
       "related_nodes": [
         "N-10169"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:06",
       "investigative_direction": "Obtain the Zoom invitation, attendee list and duration, and the account of any Kirk producers on the call.",
       "transcript_snippet": "He bragged that he and Rabbi Wolicki had a Zoom call with Charlie. Why? Because they said Charlie wanted to help him with his talking points about Israel. [19:56] Now,",
@@ -2700,7 +2734,9 @@
       "related_nodes": [
         "N-10169"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:50",
       "investigative_direction": "Identify the producers and the friend on the call and ask each to confirm the participants and the agenda.",
       "transcript_snippet": "We had a Zoom call, a friend of mine, him, a couple of his producers. It was it was a small call. We were literally talking above all about the anti-Israel questions",
@@ -2722,7 +2758,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:58",
       "investigative_direction": "Review the full JTV episode for Hammer's exact wording and date.",
       "transcript_snippet": "she's chosen to hijack his death right now to blame it on Israel. I mean, it's just so disturbing. But then you have the people",
@@ -2743,7 +2781,9 @@
         "A-1242.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:58",
       "investigative_direction": "Review the full JTV episode for the exact wording.",
       "transcript_snippet": "I think a lot of folks are kind of just trying to take their commentary to where they see the perceived momentum, especially among the younger generation there. But so, I think a lot of it is trying to kind",
@@ -2764,7 +2804,9 @@
         "A-1242.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:56",
       "investigative_direction": "Locate the Gaetz OAN segment on Hammer's book and compare dates with Gaetz's later remarks.",
       "transcript_snippet": "He had me on his show back in March when my book came out. Ali, he referred to my book as a battle map to save Western Civilization. It was",
@@ -2783,7 +2825,9 @@
         "A-1242.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:24:35",
       "investigative_direction": "Review the full JTV episode for the exact wording.",
       "transcript_snippet": "I think it's just profound cynicism. It's trying to kind of just play for clicks, play for money and trying to kind of just generate some viral clips to appease",
@@ -2804,7 +2848,9 @@
       "related_nodes": [
         "N-10169"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:09",
       "investigative_direction": "Verify the call duration and time against Zoom records, phone logs and the New York Post report.",
       "transcript_snippet": "would he have had on me and our friend Rabbi Pesach Wolicki literally the night before his death to spend an entire hour talking about how to respond to anti-Israel",
@@ -2830,7 +2876,9 @@
         "N-10206",
         "N-10178"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:00",
       "investigative_direction": "Obtain the participant list and messages of the group chat and confirm Wolicki's membership.",
       "transcript_snippet": "that rabbi, Rabbi Wolicki, was also on the now infamous text chain. So, this means that both of those individuals knew exactly where Charlie was at on the topic of Israel and how he felt",
@@ -2855,7 +2903,9 @@
       "related_nodes": [
         "N-10018"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:00",
       "investigative_direction": "Re-read the released letter text for any statement about contact details, and obtain call records for the invitation call.",
       "transcript_snippet": "whose number, according to the released letter, he didn't even have in May. So, what's he calling him about? [28:17] They obviously weren't close if he didn't have his number,",
@@ -2875,7 +2925,9 @@
       "related_nodes": [
         "N-10018"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:17",
       "investigative_direction": "Obtain Netanyahu's office and Kirk-side accounts of the invitation call, dates and any follow-up.",
       "transcript_snippet": "Why is he inviting Charlie to Israel 2 weeks before he dies, right? Nobody will address that Charlie said no. He did. He said no. He didn't flinch. He didn't",
@@ -2901,7 +2953,9 @@
       "related_nodes": [
         "N-10169"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:05",
       "investigative_direction": "Ask Wolicki for the form and volume of that contact (calls, messages) and corroborate with Kirk-side records.",
       "transcript_snippet": "I was in touch with Charlie on an almost daily basis for months. And he certainly had uh some disagreements with Israeli policy and he criticized Israel where",
@@ -2920,7 +2974,9 @@
         "A-1243.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:17",
       "investigative_direction": "Compare against Q&A transcripts from earlier Kirk campus events to estimate the share of Israel questions.",
       "transcript_snippet": "between 40 and 50% of all of the questions and and challenges that he would get on these campus tours were usually about Israel. Cuz the campuses, of course, have a lot of anti-Israel sentiment, and Charlie was known as",
@@ -2941,7 +2997,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:17",
       "investigative_direction": "Obtain the invitation list for the meeting and the account of each attendee.",
       "transcript_snippet": "If he was turning on Israel, he would have had Candace Owens and Tucker Carlson in the meeting planning to throw Israel under the bus. The entire premise of the",
@@ -2966,7 +3024,9 @@
         "N-10177",
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:32",
       "investigative_direction": "Request the text messages in full, with metadata, for independent authentication.",
       "transcript_snippet": "I told you he was particularly worried uh that Israel was infringing upon speech in America. I have text messages to that effect. Okay? So, there's there's no undoing that.",
@@ -2988,7 +3048,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:32",
       "investigative_direction": "Collect Kirk statements and messages from summer 2025 touching on Israel's public image.",
       "transcript_snippet": "He was aware that they had lost the PR war and it was weighing on him that he was seen, as Rabbi Wolicki accurately states, as this person who just defends Israel, especially when what they are doing is so",
@@ -3008,7 +3070,9 @@
         "N-10163",
         "N-10106"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:17",
       "investigative_direction": "Examine the original chat messages and verify the wording attributed to Kirk.",
       "transcript_snippet": "I think, as I've said, he was genuinely over it towards the end because of Jewish behavior, his words, not mine, leaning into the stereotypes of Jewish behavior. Okay? He",
@@ -3031,7 +3095,9 @@
         "N-10163",
         "N-10206"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:17",
       "investigative_direction": "Obtain the chat export and verify the exact date and time of the message.",
       "transcript_snippet": "less than 48 hours before he died, Charlie announces that, he announces that he has no choice but to abandon the pro-Israel cause because of Jewish donors and their behavior",
@@ -3056,7 +3122,9 @@
         "N-10163",
         "N-10169"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:07",
       "investigative_direction": "Reconcile the chat timeline with the Zoom time and the identity of the two participants.",
       "transcript_snippet": "he decided to have that smaller audience with two Jewish individuals who were on that chat and were aware that he was angry, but this",
@@ -3082,7 +3150,9 @@
         "N-10177",
         "N-10650"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:57",
       "investigative_direction": "Identify the recipients and obtain the texts with timestamps.",
       "transcript_snippet": "in that exact same day, he was texting people saying they are going to kill me. On the same day that he's on this Zoom call, this is a fact,",
@@ -3102,7 +3172,9 @@
       "related_nodes": [
         "N-10169"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:57",
       "investigative_direction": "Find the New York Post report and Hammer's statement giving the call time.",
       "transcript_snippet": "as as Josh says it it was at night and or the New York Post reported, I think, right, that it was at at night. That at the same time,",
@@ -3121,7 +3193,9 @@
       "related_nodes": [
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:50",
       "investigative_direction": "Find Kelly's statements about Kirk's pressure and ask her which individuals she meant.",
       "transcript_snippet": "and Megyn even spoke about it herself. By the way, Megyn, uh you should probably tell people who those individuals are. Um we never once said that Israel killed Charlie",
@@ -3144,7 +3218,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:50",
       "investigative_direction": "Review the host's and Carlson's past episodes for any statements asserting Israeli involvement.",
       "transcript_snippet": "we never once said that Israel killed Charlie Kirk. I've never said that because on the basis of the facts that you guys are following on the show, I don't have any evidence of that. It doesn't serve",
@@ -3165,7 +3241,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:55",
       "investigative_direction": "Catalogue the specific statements by Netanyahu and allies that the host regards as lies.",
       "transcript_snippet": "That has been almost the only compelling argument that Israel had anything to do with it is the way they're acting right now. Like Bibi Netanyahu, the propaganda, the lies,",
@@ -3185,7 +3263,9 @@
         "N-10056",
         "N-10125"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:55",
       "investigative_direction": "Identify the Netanyahu statement and its time and compare with the time of Kirk's death.",
       "transcript_snippet": "no Mormon presidents coming out and saying, I just want to be clear that um we didn't kill Charlie Kirk 24 hours after he died? Cuz that's what Bibi did. How come",
@@ -3207,7 +3287,9 @@
       "related_nodes": [
         "N-10175"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:02",
       "investigative_direction": "Compare the highlighted section with the UVU courtyard layout and collect any received footage.",
       "transcript_snippet": "all on the side, when the shots rang out or just before, you know, maybe in the 10 minutes before so I can see who was around or what happened when those shots rang out. It is weird. There's just",
@@ -3228,7 +3310,9 @@
       "related_nodes": [
         "N-10175"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:03",
       "investigative_direction": "Record the volume and usefulness of emailed UVU footage in later episodes where the host cites it.",
       "transcript_snippet": "Uh you can send that, by the way, to uh tips@candaceowens. com. We also have more tips@candaceowens. com. And please just put um in the subject line footage@uvu. That would be very easy. It would help us sort things. We've",
@@ -3249,7 +3333,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:57",
       "investigative_direction": "Ask whether any staff will go on record and document what information has been provided.",
       "transcript_snippet": "This investigation is being assisted by Turning Point USA. Not the execs, but Turning Point people on the ground, people that they don't even think about, smaller employees. Like, they",
@@ -3268,7 +3354,9 @@
         "A-1245.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:48:42",
       "investigative_direction": "Find D'Souza's follow-up post and check wording and time.",
       "transcript_snippet": "And he's like, \"Well, I meant that as a joke.\" You didn't mean it as a joke. You meant it seriously and it was weird. It got weird very quickly. And we learned more about you than we learned about",
@@ -3288,7 +3376,9 @@
       "claim": "The host says she wants D'Souza's opinion of her, not what is on his laptop and how they \"maybe blackmailed\" him. She offers no evidence in the transcript, and the claim is her insinuation.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:48:42",
       "investigative_direction": "Ask the host for any basis for the insinuation; none is presented on air.",
       "transcript_snippet": "you want to know your opinion on me, not what's on your laptop and how they maybe blackmailed you, okay? That's not what we're interested",
@@ -3307,7 +3397,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:42",
       "investigative_direction": "Compare against the prosecution's stated motive and the evidence offered for it.",
       "transcript_snippet": "I do not accept, and you do you guys that Charlie Kirk lost his life because he really pissed off the trans lobby. [49:47] It terrifies me to think that on the day that Charlie died, I got multiple phone",
@@ -3326,7 +3418,9 @@
       "related_nodes": [
         "N-11010"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:47",
       "investigative_direction": "Ask the host to identify, or at least describe, the callers and who they said was the source.",
       "transcript_snippet": "I got multiple phone calls from people uh who said that me and Char- me and Tucker should lay low because we're also on the list. And they never told us who specifically told them that, by the way. Now",
@@ -3346,7 +3440,9 @@
       "related_nodes": [
         "N-11010"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:47",
       "investigative_direction": "Ask Carlson to confirm the call and what was said.",
       "transcript_snippet": "I called Tucker. I'm like, \"I'm hearing Are you hearing me say anything? I'm hearing that they're saying that we're next.\" And now I go, \"Was that supposed to be a threat",
@@ -3365,7 +3461,9 @@
       "related_nodes": [
         "N-11010"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:36",
       "investigative_direction": "Ask the host which agencies, if any, the callers named.",
       "transcript_snippet": "Did the feds say this? Who said this specifically? Because why aren't they calling me and Tucker? Why are Why am I calling Tucker and",
@@ -3384,7 +3482,9 @@
       "related_nodes": [
         "N-11010"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:36",
       "investigative_direction": "Treat as the host's interpretation; examine the autopsy and ballistics record for the wound location.",
       "transcript_snippet": "To to send a signal to shoot him in the throat. Right? To say, \"We took out his voice and we will take yours out, too.\" And that's terrifying and",
@@ -3404,7 +3504,9 @@
       "related_nodes": [
         "N-10176"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:07",
       "investigative_direction": "Review the October 7 episode for the host's first description of the kill switch.",
       "transcript_snippet": "What I wanted to do, as I discussed yesterday, and which got picked up, was to create a kill switch, right? To realize that Kanye",
@@ -3423,7 +3525,9 @@
       "claim": "The host says she has no doubt that the same people who were torturing Kanye West were torturing Charlie Kirk. She does not name them in the transcript.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:07",
       "investigative_direction": "Ask the host to name the people and to supply the supporting messages she says Kanye gave her.",
       "transcript_snippet": "I have no doubt that the same people that were torturing Kanye, it's the same people that were torturing Charlie",
@@ -3443,7 +3547,9 @@
       "related_nodes": [
         "N-10176"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:50",
       "investigative_direction": "Ask the host whether and when the messages will be published and how they were authenticated.",
       "transcript_snippet": "Kanye sent me all of the messages of people who were threatening him. I have them all. To information share uh with",
@@ -3462,7 +3568,9 @@
       "related_nodes": [
         "N-10176"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:50",
       "investigative_direction": "Ask recipients to confirm they hold the package and its release conditions.",
       "transcript_snippet": "To information share uh with Max Blumenthal, with people Village I mean people all over the place. To send a package and say, \"If anything happens to me and it looks suspicious, release it all.\" You know? It's not even",
@@ -3486,7 +3594,9 @@
       "related_nodes": [
         "N-10177"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:52",
       "investigative_direction": "Identify which text Jones means and when it was released.",
       "transcript_snippet": "And so she let him say that for a few weeks and then released it. The text. And then she said, \"Yeah, he was really upset with the Israel lobby and said he was breaking",
@@ -3509,7 +3619,9 @@
         "N-10177",
         "N-10650"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:52",
       "investigative_direction": "Request the texts with metadata and confirm dates.",
       "transcript_snippet": "So she released those two days ago. And now she says she has the proof and it's text messages. That he feared for his life in the two days and the day before he was killed. And predictably they're already",
@@ -3531,7 +3643,9 @@
       "related_nodes": [
         "N-10176"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:25",
       "investigative_direction": "Ask Jones's team to confirm he did not receive the package.",
       "transcript_snippet": "Well, I'm trying to get it on for weeks. I'm a little bummed out she didn't send it to me. Cuz I'd like to stand",
@@ -3555,7 +3669,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:25",
       "investigative_direction": "Identify the security personnel's employer and the origin of the Israeli-detail rumor.",
       "transcript_snippet": "You know, they said his security detail was Israeli. They weren't. It was just the first knee-jerk reaction. I said,",
@@ -3577,7 +3693,9 @@
         "N-10056",
         "N-10177"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:56:10",
       "investigative_direction": "Ask Jones for his source and compare with the texts the host says she holds.",
       "transcript_snippet": "And the word is he specifically thought Israel was going to kill him. [56:57] Even Michael Savage first few months ago said that, you know, who needs to go on",
@@ -3598,7 +3716,9 @@
       "related_nodes": [
         "N-10015"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:56:57",
       "investigative_direction": "Locate the Jones show broadcast with the break audio and confirm wording.",
       "transcript_snippet": "Even Michael Savage first few months ago said that, you know, who needs to go on my show. During the break he goes, \"Man, I hope Mossad doesn't kill me.\" Crucial. It's on the feed. He",
@@ -3619,7 +3739,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:12",
       "investigative_direction": "Compare against TPUSA's own claims on voter turnout and independent estimates.",
       "transcript_snippet": "He got over 2 and 1/2 million people to vote conservatively for Trump. Was moving the needle big time, more than anybody",
@@ -3639,7 +3761,9 @@
         "A-1246.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:12",
       "investigative_direction": "Identify the posts or people and the date and place Jones refers to.",
       "transcript_snippet": "He had like six Trantifa. Say, \"Charlie will be dead tomorrow.\" And they said, \"See, we told you.\" And that was in the town. So, you know, we got Trantifa",
@@ -3658,7 +3782,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:57:12",
       "investigative_direction": "Catalogue the specific acts of cover-up and lying the host cites in earlier episodes.",
       "transcript_snippet": "genuinely we had no proof and no rhyme or reason to think or suspect Israel whatsoever. It's really just been this insane behavior of covering up and lying that makes us question things. [58:13] Like that's the reality. And by",
@@ -3677,7 +3803,9 @@
         "N-11219",
         "N-10646"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:05:49",
       "investigative_direction": "Check corporate and procurement records for the security contractor's ownership and Kirk's or TPUSA's stake.",
       "transcript_snippet": "Charlie owned the security company. So that security company you see that's around him, he owned it. He actually outright purchased a security company and it didn't matter and they didn't do anything. Clearly it was an act of vanity.",
@@ -3697,7 +3825,9 @@
         "N-11219",
         "N-10646"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:05:49",
       "investigative_direction": "Obtain the security plan, contracts and event site sweep records for the Utah Valley University event.",
       "transcript_snippet": "The amount that he was paying for that security for them to not check rooftops. You could have someone actually requiring that you have access to rooftops. You could have",
@@ -3718,7 +3848,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:07:16",
       "investigative_direction": "Locate the Mappins' published letter and compare it with the letter described in earlier episodes.",
       "transcript_snippet": "I think John and Arena Mapel in that beautiful letter they wrote yesterday said it way more eloquently than I ever could. Which is if you if you actually continue",
@@ -3739,7 +3871,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:07:16",
       "investigative_direction": "Compare against the host's TPUSA employment and role history.",
       "transcript_snippet": "I never attacked Turning Point USA cuz I came from Turning Point USA and I saw what it took to build that company because I was a part of building that company. But to the",
@@ -3757,7 +3891,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:08:35",
       "investigative_direction": "Find TPUSA public statements describing cooperation with federal investigators.",
       "transcript_snippet": "They're not working with the fighters. It feels like they're working with the feds. They've said explicitly they're working with the feds. So I don't know what to make of",
@@ -3773,7 +3909,9 @@
       "claim": "The host says Charlie Kirk would call Tucker Carlson or her and say what to hit and where to go hard, like a maestro coordinating a symphony.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:08:35",
       "investigative_direction": "Ask Carlson and others to corroborate examples of such calls.",
       "transcript_snippet": "he'd call like Tucker or me and say you hit this, you go hard, you do this. I mean, he was as someone put put it today, he",
@@ -3793,7 +3931,9 @@
       "related_nodes": [
         "N-10125"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:09:20",
       "investigative_direction": "Ask for examples of Utah residents' assistance and note the contrast with other groups she names.",
       "transcript_snippet": "I do want to say shout out to the Mormon community for never accusing me of being anti Utah, anti Mormon, I don't know what, anti Latter-Day Saint. Sorry, I know nothing",
@@ -3813,7 +3953,9 @@
       "related_nodes": [
         "N-10106"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:10:16",
       "investigative_direction": "Establish who tried to block the host's AmFest slot and obtain Kirk-side messages about it.",
       "transcript_snippet": "Charlie wanted you on stage AmFest. They tried to stop him, but in doing so, he made sure that you had an even bigger stage. He knew pulling back the",
@@ -3833,7 +3975,9 @@
       "claim": "The host says she once retweeted Max Blumenthal and that they made her think she was the worst human, and that she took them at their word before realizing it was sinister.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:10:16",
       "investigative_direction": "Identify the tweet and the backlash the host refers to.",
       "transcript_snippet": "Like I once retweeted Max Blumenthal, and they made me think I was like the worst human. Um and I took them at their word before I realized it was",
@@ -3852,7 +3996,9 @@
       "related_nodes": [
         "N-11099"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:11:05",
       "investigative_direction": "Review Australian visa decisions and the stated grounds for the refusal.",
       "transcript_snippet": "I was going to speak about homeschooling and children and my backstory and race issues, and they were like you Okay, but you can still download my podcast on Spotify? I don't I don't understand.",
@@ -3868,7 +4014,9 @@
       "claim": "The host says Constantin Kissin told Megyn Kelly she needed to make a statement against Candace and Tucker, and that someone else told Kelly Candace doesn't even hate the left anymore.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:12:42",
       "investigative_direction": "Find Kissin's public statements and any reporting of his exchange with Kelly.",
       "transcript_snippet": "Constantin Kissin, when he was like, \"You need to make a statement against Candace and Tucker.\" Um somebody else was saying to her, \"Candace doesn't",
@@ -3887,7 +4035,9 @@
       "claim": "The host announces she will take next week off, about 10 days, to mourn Charlie Kirk, and says she will still post occasional Instagram updates.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:13:32",
       "investigative_direction": "Compare against the actual publication schedule after October 8.",
       "transcript_snippet": "I am going to take uh next week off. I'm going to take about 10 days off, actually. I'll give you more details about that tomorrow, but you know, I",

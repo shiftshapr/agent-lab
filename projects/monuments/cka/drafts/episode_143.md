@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: ee5af5b0f78b7603290afbdc0a52db7cee4a8308f326d1886be1cf5da8aee5e5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-801, N-802, N-803, N-11146
+  - Tip-minted Nodes (supplement_2026-10b): N-800, N-801, N-802, N-11146
   - Tip-minted Nodes (reintro-ep143): N-11091
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7535–C-7598
   - New Nodes Introduced: N-10809
-  - Reused Nodes Appearing: N-2, N-162, N-126, N-267, N-10808, N-4, N-9, N-14, N-18, N-36, N-39, N-69, N-82, N-229, N-242, N-272, N-278, N-495, N-496, N-791, N-10000, N-10022, N-10100, N-10151, N-10270, N-10324, N-10340, N-10544, N-10651, N-10661, N-10741, N-10795, N-10799, N-10810, N-10862, N-11065, N-11068, N-800, N-11147
+  - Reused Nodes Appearing: N-2, N-162, N-126, N-267, N-10808, N-4, N-9, N-14, N-18, N-36, N-39, N-69, N-82, N-229, N-242, N-272, N-278, N-495, N-496, N-790, N-10000, N-10022, N-10100, N-10151, N-10270, N-10324, N-10340, N-10544, N-10651, N-10661, N-10741, N-10795, N-10799, N-10810, N-10862, N-11065, N-11068, N-799, N-11147
   - (see registers)
 
 # Episode 143 Analysis – Bride of Charlie
@@ -745,7 +745,7 @@ The Epstein files discussed as a Republican fault line.
 
 ---
 
-**N-800** Hasan Piker
+**N-799** Hasan Piker
 
 Streamer whose praise of the host is played in the episode. First named by the host at 00:01:32 in episode 143.
 Aliases: Hasan
@@ -754,7 +754,7 @@ Aliases: Hasan
 
 ---
 
-**N-801** Lane Schamberger
+**N-800** Lane Schamberger
 
 Man visible washing his hands in the footage who the host says helped carry Charlie. First named by the host at 00:09:43 in episode 143.
 
@@ -762,7 +762,7 @@ Man visible washing his hands in the footage who the host says helped carry Char
 
 ---
 
-**N-791** Matt Robinson
+**N-790** Matt Robinson
 
 Tyler Robinson's father, whom the host's source says did not think his son was guilty. First named by the host at 00:30:06 in episode 143.
 
@@ -770,7 +770,7 @@ Tyler Robinson's father, whom the host's source says did not think his son was g
 
 ---
 
-**N-802** Brian Davis
+**N-801** Brian Davis
 
 Person the host says signed off the charging document. First named by the host at 00:30:06 in episode 143.
 
@@ -778,7 +778,7 @@ Person the host says signed off the charging document. First named by the host a
 
 ---
 
-**N-803** Brandi Zadrozny
+**N-802** Brandi Zadrozny
 
 Journalist whose article the host paraphrases. First named by the host at 00:36:06 in episode 143.
 
@@ -967,7 +967,7 @@ Claim: The host says Turning Point USA figures are now pushing the talking point
 Transcript Snippet: They're also now pushing the same talking point that I'm now somehow working in coordination or support of I guess the aims of Hasan
 
 Anchored Artifacts: 
-Mentions: N-3, N-800
+Mentions: N-3, N-799
 Related Nodes: N-10000, N-11146
 Tags: relevance:context
 Investigative Direction: Collect the TPUSA-side statements and articles that make the Hasan-coordination claim and compare their wording with the Piker clip.
@@ -1081,7 +1081,7 @@ Claim: The host says Lane Schamberger is visible on the side washing his hands i
 Transcript Snippet: yes, some people might be noting that Lane Schamberger is on the side washing his hands. That makes sense. Don't think too hard about it. He did help carry Charlie into the car.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-3, N-801, N-1
+Mentions: N-3, N-800, N-1
 Related Nodes: N-10808
 Tags: relevance:core
 Investigative Direction: Confirm Schamberger's role in carrying Charlie to the vehicle from other video and witness accounts.
@@ -1517,7 +1517,7 @@ Claim: The host says she had a source within the Robinson family orbit who was v
 Transcript Snippet: I had a source uh within the Robinson family orbit who was very clear on this, that it was not true, that Matt Robinson did not think his son was guilty
 
 Anchored Artifacts: 
-Mentions: N-3, N-791, N-126
+Mentions: N-3, N-790, N-126
 Related Nodes: N-10022
 Supports: C-5041
 Tags: relevance:core
@@ -1534,7 +1534,7 @@ Claim: The host says the charging document, which used the statement that the fa
 Transcript Snippet: and the charging document rather, which was signed off by Brian Davis.
 
 Anchored Artifacts: 
-Mentions: N-802
+Mentions: N-801
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Pull the charging document and confirm the signing prosecutor.
@@ -1600,7 +1600,7 @@ Claim: In the clip played, Hasan Piker says he cannot like her tweets because sh
 Transcript Snippet: I can't like her tweets cuz she blocked me many, many years ago. This is before she became our hero.
 
 Anchored Artifacts: A-2297.1
-Mentions: N-800, N-3
+Mentions: N-799, N-3
 Related Nodes: N-11146
 Tags: relevance:context
 Investigative Direction: Verify the full Piker stream and whether the host's account blocked him.
@@ -1616,7 +1616,7 @@ Claim: The host says the running theme of Brandi Zadrozny's article is that Cand
 Transcript Snippet: the running themes of what we are seeing in Brandi Zadrozny's article is that essentially they are saying Candace ruined an opportunity to pin this on the left
 
 Anchored Artifacts: A-2888.1
-Mentions: N-3, N-803
+Mentions: N-3, N-802
 Related Nodes: N-11146
 Tags: relevance:context
 Investigative Direction: Obtain the Zadrozny article and compare its wording with the host's paraphrase.
@@ -1679,7 +1679,7 @@ Claim: The host says the left took the bait on an earlier event that could alleg
 Transcript Snippet: we had an event that could potentially, I'll say allegedly, be coordinated by the Feds, which was meant to cause a left-right war.
 
 Anchored Artifacts: 
-Mentions: N-3, N-800
+Mentions: N-3, N-799
 Related Nodes: N-11147
 Tags: relevance:tangential
 Investigative Direction: Review the January 6 investigation findings on any federal informants or provocateurs.

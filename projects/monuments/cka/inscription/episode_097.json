@@ -438,7 +438,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-800"
+            "N-799"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-800",
-      "ref": "N-800",
+      "@id": "N-799",
+      "ref": "N-799",
       "name": "Hasan Piker",
       "type": "person",
       "description": "Streamer; first named in A-2023.1.",
@@ -1499,8 +1499,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-563",
-      "ref": "N-563",
+      "@id": "N-562",
+      "ref": "N-562",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Aubrey Lech; the host says Kolvet cannot show what Lech gave her.",
@@ -1517,8 +1517,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-613",
-      "ref": "N-613",
+      "@id": "N-612",
+      "ref": "N-612",
       "name": "Melania Trump",
       "type": "person",
       "description": "Melania Trump; author of the post criticizing Kimmel.",
@@ -1945,8 +1945,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-877",
-      "ref": "N-877",
+      "@id": "N-876",
+      "ref": "N-876",
       "name": "Matt Slauson",
       "type": "person",
       "description": "First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.",
@@ -2460,7 +2460,9 @@
       "related_nodes": [
         "N-10647"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Locate Erika Kirk's April 29 statement and compare its exact wording to the host's prior published statements.",
       "transcript_snippet": "She essentially put a target on my back by wrongly asserting that I accused her of murdering her husband.",
@@ -2484,7 +2486,9 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:23",
       "investigative_direction": "Obtain the pre-filing email and the host's lawyers' correspondence log to confirm that no earlier retraction request exists.",
       "transcript_snippet": "You never communicated with me, you never spoke, you never issued any sort of retraction demand, you never answered me when I reached out.",
@@ -2507,7 +2511,9 @@
         "N-10900",
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:22",
       "investigative_direction": "Compare counsel of record in the Harpole complaint with counsel in the Daily Wire arbitration.",
       "transcript_snippet": "Brian Harpold is using the same lawyer the Daily Wire used to sue me in arbitration for 2 years straight.",
@@ -2529,7 +2535,9 @@
         "N-10840",
         "N-11137"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:44",
       "investigative_direction": "Collect event run-of-show or medical-staffing documents from prior TPUSA events and the UVU event to compare ambulance provisions.",
       "transcript_snippet": "at each and every one of my many events that I have done with Turning Point USA during a time period when Brian Harpold was always a member of the security team, we had an ambulance on standby.",
@@ -2551,7 +2559,9 @@
         "N-10650",
         "N-11013"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:44",
       "investigative_direction": "Obtain the night-before text thread and its recipients; ask security leadership to confirm or deny receipt.",
       "transcript_snippet": "texts you guys the night before and says, \"I think I'm going to be killed.\"",
@@ -2574,7 +2584,9 @@
         "A-2015.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:52",
       "investigative_direction": "Search the episode transcripts cited in the complaint for the phrase 'criminal negligence' or equivalent wording.",
       "transcript_snippet": "Um I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.",
@@ -2593,7 +2605,9 @@
         "A-2015.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:04",
       "investigative_direction": "Review the full episode transcript for any reference to Harpole or the security detail.",
       "transcript_snippet": "In that particular episode, we never mentioned Brian Harpold or referred to him even once.",
@@ -2615,7 +2629,9 @@
       "related_nodes": [
         "N-10812"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:04",
       "investigative_direction": "Obtain Farnsworth's selfie video with its original upload time and compare it to the shot time and first official confirmation.",
       "transcript_snippet": "it was Terrell Farmsworth who notoriously announced in a selfie video that Charlie Kirk was dead like 2 minutes after Charlie went down",
@@ -2634,7 +2650,9 @@
         "A-2015.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:04",
       "investigative_direction": "Identify any video in which Mikey McCoy announces the death and compare timing to first confirmation.",
       "transcript_snippet": "They were already filming themselves prematurely announcing Charlie is dead, when not a single person could have known that Charlie Kirk was dead.",
@@ -2656,7 +2674,9 @@
       "related_nodes": [
         "N-10695"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:16",
       "investigative_direction": "Compare the quoted line with the full 'The Great Exodus from Utah' transcript.",
       "transcript_snippet": "Brian is the one who then runs over to Charlie and again you recognize him because he kind of has that uh small supposed to be medical bag over him.",
@@ -2678,7 +2698,9 @@
       "related_nodes": [
         "N-10645"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:55",
       "investigative_direction": "Obtain the original Turek interview audio and the drone footage or text messages he describes.",
       "transcript_snippet": "we're driving in, Megan, and his team has drones up um looking at the crowd from above and they they text him some video.",
@@ -2702,7 +2724,9 @@
       "related_nodes": [
         "N-10645"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:55",
       "investigative_direction": "Check FAA Part 107 airspace authorization records for the UVU campus and any waiver requests filed for the event.",
       "transcript_snippet": "Yeah, you can't fly in Provo airspace meaning around airports. You would have to get clearance. You can't fly uh near hangars. But you can fly drones in Provo.",
@@ -2723,7 +2747,9 @@
         "A-2015.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:40",
       "investigative_direction": "Read the opening paragraphs and exhibits of the complaint to confirm the Israel references and the image.",
       "transcript_snippet": "he begins the lawsuit and I'm talking like the first few pages with strong support for Israel.",
@@ -2743,7 +2769,9 @@
         "A-2015.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:12:40",
       "investigative_direction": "Read paragraph 19 of the complaint to confirm the moon-landing reference.",
       "transcript_snippet": "I don't believe the moon landing. Guilty as charged. Guilty as charged. I I think the moon landing was fake.",
@@ -2763,7 +2791,9 @@
       "related_nodes": [
         "N-10644"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:36",
       "investigative_direction": "Have a defamation lawyer assess Harpole's status under Tennessee or Utah limited-purpose public figure case law.",
       "transcript_snippet": "private citizens can indeed become limited purpose public figures when they voluntarily thrust themselves into the forefront of a particular public controversy to influence its outcome.",
@@ -2786,7 +2816,9 @@
         "A-2016.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:25",
       "investigative_direction": "Obtain the host's phone log and the text exchange with Kolvet from that day.",
       "transcript_snippet": "And Andrew asked me if I would be willing to say something publicly on my podcast to that effect because they were getting hammered and I said, \"Of course I will.\"",
@@ -2808,7 +2840,9 @@
         "A-2018.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:25",
       "investigative_direction": "Audit September 2025 episodes for any naming of Harpole or Flood.",
       "transcript_snippet": "I went through great lengths to defend both Brian Harpole and Dan Flood without mentioning their names cuz I didn't want the public to find them",
@@ -2831,7 +2865,9 @@
         "A-2018.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:25",
       "investigative_direction": "Identify the original posts that circulated the hand-signal theories and their dates.",
       "transcript_snippet": "Frank Turek's doing hand signals. It looks like Dan Flood's doing hand signals. It looks like Brian Harpole is doing hand signals behind his back and they're all looped in.",
@@ -2853,7 +2889,9 @@
         "N-10862",
         "N-10681"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:10",
       "investigative_direction": "Compare the Shawn Ryan interview statements with the independent review findings and the host's first on-air reaction.",
       "transcript_snippet": "it was because of his behavior and what he said on Sean Ryan's show, which I found to be unconvincing",
@@ -2873,7 +2911,9 @@
       "related_nodes": [
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:00",
       "investigative_direction": "Locate the episode that first mentioned the Fort Huachuca sighting and reconcile its date with the host's statement that she first named Harpole on November 19.",
       "transcript_snippet": "on November 8th, I had first mentioned that there was someone who thought that they saw Brian Harpole at Fort Huachuca that I, you know, examined the person's documents, whatever.",
@@ -2893,7 +2933,9 @@
       "related_nodes": [
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:00",
       "investigative_direction": "Confirm the air date of the solo episode and the sequence relative to the Mitch Snow interview.",
       "transcript_snippet": "It was a solo episode on December 9th and if you recall, it caused mass panic.",
@@ -2914,7 +2956,9 @@
         "N-11001",
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:46",
       "investigative_direction": "Obtain the messages the host received from the intermediaries and ask Paramount Tactical and Valhalla VFT whether they relayed a Harpole warning.",
       "transcript_snippet": "this was coming through Paramount Tactical and the Valhalla guy and they were saying, \"If you do this if if you interview Mitch, Mitch wasn't even in the military.",
@@ -2934,7 +2978,9 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:29",
       "investigative_direction": "Identify the intermediaries and any written message conveying the lawsuit threat, with dates.",
       "transcript_snippet": "So, before I even got to do the interview, Brian Harpole was telling people to say that if I interview this guy, I'm going to sue you.",
@@ -2954,7 +3000,9 @@
         "A-2015.8"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:29",
       "investigative_direction": "Obtain the full message log to Harpole and Flood and compare the count with the three messages quoted on air.",
       "transcript_snippet": "I sent Brian Harpole I think a total of four messages and I also sent Dan Flood a message.",
@@ -2978,7 +3026,9 @@
         "A-2017.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:03",
       "investigative_direction": "Read points 54 to 59 of the complaint to confirm the acknowledgment of receipt.",
       "transcript_snippet": "He's acknowledging he received these messages and he chose not to respond.",
@@ -3000,7 +3050,9 @@
         "A-2015.7"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:05",
       "investigative_direction": "Compare the host's outreach messages with the complaint's exclusive-content rationale.",
       "transcript_snippet": "It would have put an end to me covering the story beyond. So, actually by not responding before I hosted Mitch, it didn't allow me didn't stop me from hosting Mitch.",
@@ -3022,7 +3074,9 @@
       "related_nodes": [
         "N-10272"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:54",
       "investigative_direction": "Compare the Shawn Ryan audio with the Flood and Long messages to find the exact wording used.",
       "transcript_snippet": "You presented this text chain as if it was yours. In fact, you explicitly say I.",
@@ -3049,7 +3103,9 @@
       "related_nodes": [
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:39",
       "investigative_direction": "Compile every on-air statement by the host on whether Harpole was identified and compare them to the complaint's characterization.",
       "transcript_snippet": "I went through a great many pains to repeatedly assert publicly that I could not confirm that he saw Harpole",
@@ -3074,7 +3130,9 @@
       "related_nodes": [
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:07",
       "investigative_direction": "Obtain the full Mitch Snow interview and verify the clip is in context and its date.",
       "transcript_snippet": "I obviously can't confirm that you saw who you say you saw. I obviously can't confirm that you saw who you say you saw.",
@@ -3098,7 +3156,9 @@
       "related_nodes": [
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:07",
       "investigative_direction": "Obtain the metadata files and the identities of the Fort Huachuca sources used to confirm the location.",
       "transcript_snippet": "I confirmed the location with other people that are that are on uh Fort Huachuca currently. I can confirm everything with metadata.",
@@ -3119,7 +3179,9 @@
       "related_nodes": [
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:59",
       "investigative_direction": "Obtain the incident report and any base logs naming Captain Neff on the morning described.",
       "transcript_snippet": "Remember, Mitch said he was at first taken outside by Captain Neff and questioned for a long time.",
@@ -3140,7 +3202,9 @@
       "claim": "The host says a lawsuit filing by Brigitte Macron's side asserted that she is a dual citizen of the UK, and that she is not.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:04",
       "investigative_direction": "Locate the Macron filing language on citizenship and the host's citizenship records.",
       "transcript_snippet": "case in point, Brigitte said I was a dual citizen of the UK.",
@@ -3157,7 +3221,9 @@
       "claim": "The host says Kim Klacik sued after the host called her a former stripper, took it to discovery, then folded and wanted to walk away when the host began presenting evidence from strippers who knew her.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:15",
       "investigative_direction": "Pull the docket and any settlement or dismissal record from the Klacik case.",
       "transcript_snippet": "she took it to discovery and then she folded. Right? She folded and wanted to sign an agreement and say, let's let's walk away and not talk about it",
@@ -3176,7 +3242,9 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:47",
       "investigative_direction": "Ask the host's counsel for correspondence with Harpole's lawyer over the past two years.",
       "transcript_snippet": "You're dealing with a lawyer that has full access to my lawyers in the state of Tennessee, has been in communication with them for 2 years. He never raises a single issue until the end of April?",
@@ -3196,7 +3264,9 @@
       "related_nodes": [
         "N-11258"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:47",
       "investigative_direction": "Check the docket filing time and the service record against the host's account.",
       "transcript_snippet": "I obviously just received this lawsuit a couple of hours ago and I am not therefore at liberty to assert what we will or will not do",
@@ -3216,7 +3286,9 @@
         "N-11258",
         "N-10812"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:51",
       "investigative_direction": "Seek the footage through discovery or a subpoena in the Harpole action and identify its custodians.",
       "transcript_snippet": "Terrell Farnsworth actually has footage the public has never seen from every angle.",
@@ -3239,7 +3311,9 @@
         "N-10641",
         "N-10647"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:04",
       "investigative_direction": "Obtain the full text exchange and its recipient, and Erika Kirk's statement referencing it.",
       "transcript_snippet": "I saw a text message where she was joking around with a friend and she even put a laughing face on it.",
@@ -3259,7 +3333,9 @@
       "related_nodes": [
         "N-10546"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:39",
       "investigative_direction": "Collect posts by Erika Kirk's team attacking Joe Kent and compare to his public remarks on foreign influence.",
       "transcript_snippet": "her team is attacking Joe Kent for asking that question.",
@@ -3279,7 +3355,9 @@
       "related_nodes": [
         "N-10358"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:35",
       "investigative_direction": "Compare Erika Kirk's attributions to Dr. Trotter with his own statements.",
       "transcript_snippet": "Her lying about Dr. Lee Trotter's words. That is significant.",
@@ -3303,7 +3381,9 @@
         "N-10341",
         "N-10358"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:35",
       "investigative_direction": "Obtain the host's December 15 meeting notes or recording and Kolvet's drafting records for the statement.",
       "transcript_snippet": "Colluding with Andrew Kolbatz on an absurd man of steel statement and then flatly denying to my face that she did that.",
@@ -3324,7 +3404,9 @@
         "N-10664",
         "N-10437"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:35",
       "investigative_direction": "Identify the donors present at the Aspen event and obtain on-record statements about whether Kirk named Erika.",
       "transcript_snippet": "Donors literally telling me that she is lying about the audio clip that she presented at AmFest.",
@@ -3347,7 +3429,9 @@
       "related_nodes": [
         "N-10664"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:23",
       "investigative_direction": "Request the original recording with metadata and the venue and date of capture from TPUSA.",
       "transcript_snippet": "They have not yet released the video to answer the claims being made by the donors that were in attendance.",
@@ -3367,7 +3451,9 @@
       "related_nodes": [
         "N-10641"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:23",
       "investigative_direction": "Obtain the full private chat between the host and Kolvet and its date.",
       "transcript_snippet": "pretending that that little private correspondence where we we mocked Barry Weiss's insinuations that that that somehow counted to me making a statement.",
@@ -3387,7 +3473,9 @@
       "related_nodes": [
         "N-10641"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:14",
       "investigative_direction": "Request that Kolvet or TPUSA publish the full chat and verify its completeness.",
       "transcript_snippet": "Like I said, release the entire chat. I you have my full permission.",
@@ -3406,7 +3494,9 @@
       "related_nodes": [
         "N-10649"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:14",
       "investigative_direction": "Obtain the December 15 meeting notes and any recording, plus Kolvet's statement making the insinuation.",
       "transcript_snippet": "since what you are attempting to falsely insinuate is that I went into that conversation with Erika on December 15th already convinced of her guilt, which is patently untrue.",
@@ -3426,7 +3516,9 @@
       "related_nodes": [
         "N-10649"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:00",
       "investigative_direction": "Ask Erika Kirk whether the host made this disclosure on December 15 and identify the third party.",
       "transcript_snippet": "someone at Turning Point USA got a message out to me. And that message was that I need to look further into Andrew Kolbatz.",
@@ -3446,7 +3538,9 @@
       "related_nodes": [
         "N-10649"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:52",
       "investigative_direction": "Identify the third-party intermediary and obtain the message; ask McCoy to confirm or deny.",
       "transcript_snippet": "It was Mikey McCoy. Mikey McCoy got a message out to me uh via a third-party person that I should look more into Andrew Kolbatz.",
@@ -3454,7 +3548,7 @@
         "N-3",
         "N-194",
         "N-14",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -3467,14 +3561,16 @@
       "related_nodes": [
         "N-10552"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:52",
       "investigative_direction": "Ask Kolvet to specify the information attributed to Aubrey Lech and compare it against the host's published material.",
       "transcript_snippet": "you can still cannot produce the information that you are claiming that Aubrey Lich gave to me that I share on this platform. You were my number one source, Andrew, in the beginning.",
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -3490,7 +3586,9 @@
         "N-10083",
         "N-10648"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:10",
       "investigative_direction": "Check FEC and OpenSecrets records for AIPAC-linked contributions to Lawler and Gottheimer.",
       "transcript_snippet": "these two people I I both of them brought this forward take more than a million dollars from AIPAC.",
@@ -3512,7 +3610,9 @@
       "related_nodes": [
         "N-10648"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:10",
       "investigative_direction": "Obtain the full resolution text and its cited sources for each recital.",
       "transcript_snippet": "Government promoting false claims that that Jews are taught by ancient religious texts to hate non-Jews and casting doubt on the truth of Holocaust survivors.",
@@ -3534,7 +3634,9 @@
       "related_nodes": [
         "N-10648"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:50",
       "investigative_direction": "Locate the host's original statement and compare it with the resolution's paraphrase.",
       "transcript_snippet": "Satanic pedophiles working for Israel, we're talking about Epstein and everyone who has defended the Epstein class, okay?",
@@ -3553,7 +3655,9 @@
       "related_nodes": [
         "N-10023"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:50",
       "investigative_direction": "Identify public records on Epstein's alleged intelligence ties; the host offers no document on air.",
       "transcript_snippet": "That a satanic pedophile like Jeffrey Epstein worked for Israel. These are This is abundantly true.",
@@ -3570,7 +3674,9 @@
       "claim": "The host says Donald Trump asked 'What are we still talking about Jeffrey Epstein?' and that this is when he lost her entirely.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:50",
       "investigative_direction": "Locate the Trump remark and its date and context.",
       "transcript_snippet": "When Donald Trump said, \"What are we still talking about Jeffrey Epstein?\" That is when he lost me entirely.",
@@ -3592,7 +3698,9 @@
       "related_nodes": [
         "N-10648"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:42",
       "investigative_direction": "Search the host's transcripts for the alleged statement and for the source the resolution cites.",
       "transcript_snippet": "It then goes on and says um that I repeated false claims that Jews are chil- killing Christian children.",
@@ -3610,7 +3718,9 @@
       "claim": "The host says police in Florida are showing up at people's doors asking if they sent a tweet.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:59",
       "investigative_direction": "Identify specific Florida cases of police visits over social media posts.",
       "transcript_snippet": "They want Europe. They want what's already happening in Florida. Police showing up on your door asking you if you sent a tweet.",
@@ -3628,7 +3738,9 @@
         "A-2025.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:58:44",
       "investigative_direction": "Obtain the White House briefing transcript with date.",
       "transcript_snippet": "This political violence stems from a systemic demonization of him and his supporters by commentators, yes, by elected members of the Democrat Party, and even some in the media.",
@@ -3646,12 +3758,14 @@
         "A-2026.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:59:40",
       "investigative_direction": "Retrieve the original Melania Trump post and its date.",
       "transcript_snippet": "Melania Trump she tweeted and said this about Jimmy Kimmel. Jimmy Kimmel's vote of joke that happened before the shooting. That it was hateful and violent rhetoric intended to divide our country.",
       "mentions_person_refs": [
-        "N-613",
+        "N-612",
         "N-87"
       ]
     },
@@ -3663,7 +3777,9 @@
       "claim": "The host says Charlie Kirk notoriously laughed when South Park dedicated an entire episode referring to him as the master debater.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:01:07",
       "investigative_direction": "Locate the South Park episode and Kirk's public reaction.",
       "transcript_snippet": "Charlie laughed at people when they made jokes of him, notoriously laughed when South Park dedicated an entire episode referring to him as the master debater.",
@@ -3680,7 +3796,9 @@
       "claim": "The host says the US randomly dropped a bomb on 150 schoolgirls in Iran and then lied about it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:06:42",
       "investigative_direction": "Check official US and Iranian accounts of the strike and the later statements about it.",
       "transcript_snippet": "when you guys just like randomly dropped a bomb on 150 schoolgirls in Iran and then lied to us about it.",
@@ -3700,7 +3818,9 @@
       "claim": "The host says Laura Loomer said the host was hiding money in a trust, including from Brigitte Macron, which the host calls completely untrue.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:08:34",
       "investigative_direction": "Locate Loomer's posts on the trust claim and the host's financial structure records.",
       "transcript_snippet": "This was like Laura Loomer hiding money in a trust. She She She said I was hiding money in a trust. Completely untrue.",
@@ -3723,13 +3843,15 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:08:34",
       "investigative_direction": "Review the lawyer's public posting history for Loomer retweets and their dates relative to the filing.",
       "transcript_snippet": "this lawyer, Matt Slauson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.",
       "mentions_person_refs": [
         "N-3",
-        "N-877",
+        "N-876",
         "N-60"
       ]
     },
@@ -3743,7 +3865,9 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:09:37",
       "investigative_direction": "Find the Trump remarks urging lawsuits and whether they referenced Erika Kirk.",
       "transcript_snippet": "And Trump was signaling you should sue people to to Erika.",
@@ -3763,7 +3887,9 @@
       "related_nodes": [
         "N-11258"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:09:37",
       "investigative_direction": "Ask the host's counsel for a budget estimate; the figure is her husband's stated expectation.",
       "transcript_snippet": "these lawsuits to get to that phase is hundred hundreds of thousands of dollars.",
@@ -3785,7 +3911,9 @@
         "N-10645",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:11:10",
       "investigative_direction": "Request the UVU drone authorization form records for the event under GRAMA.",
       "transcript_snippet": "UVU just requires you to fill out a form which is titled request for authorization to operate a drone with the office of risk management.",
@@ -3804,7 +3932,9 @@
         "N-10643",
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:11:50",
       "investigative_direction": "Ask Harpole's counsel for dated receipts, location data or travel records for the morning of September 9.",
       "transcript_snippet": "But I have thus far not been given an alibi for the morning of September 9th despite you asserting that in the lawsuit.",
@@ -3826,7 +3956,9 @@
         "N-10643",
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:11:50",
       "investigative_direction": "Obtain the flight records the host refers to and verify the times, routes and the source of the records.",
       "transcript_snippet": "The flights were for what? 2:19, 1:19, 1:39 in the afternoon from Dallas.",
@@ -3848,7 +3980,9 @@
         "N-10643",
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:11:50",
       "investigative_direction": "Identify the specific flights the host means and check them against Harpole's travel records.",
       "transcript_snippet": "Mitch says the meeting concluded at 7:30 a. m. There were flights that left Fort Huachuca and got back into Dallas by 10:00 a. m.",
@@ -3867,7 +4001,9 @@
       "related_nodes": [
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:12:38",
       "investigative_direction": "Compare this statement with her September 2025 defense of the security team and with later episodes on Harpole.",
       "transcript_snippet": "I was sympathetic to you and I was wrong about you is what I will say. I was deeply wrong about you.",
@@ -3887,7 +4023,9 @@
       "claim": "The host says that in 2023 to 2024 she was smeared and people tried to stop her from being able to travel to Australia.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:13:25",
       "investigative_direction": "Review Australian visa decisions and related correspondence; the host gives no documents on air.",
       "transcript_snippet": "they smeared me, tried to stop me from being able to travel to Australia.",

@@ -12,11 +12,11 @@
 - **Model Version**: claude-manual-extract-seq100
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton-gary): N-628
+  - Tip-minted Nodes (skeleton-gary): N-627
   - Hole-minted Nodes (reintro-ep100): N-10768
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-614, N-615, N-618, N-619, N-10909
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-15, N-22, N-30, N-60, N-97, N-162, N-166, N-215, N-225, N-229, N-234, N-272, N-276, N-337, N-369, N-374, N-384, N-10000, N-10126, N-10238, N-10367, N-10373, N-10375, N-10378, N-10385, N-10416, N-10417, N-10437, N-10449, N-10450, N-10472, N-10631, N-10643, N-10651, N-10898, N-10899, N-10900, N-11001, N-617, N-10912, N-616, N-10681, N-10911, N-10689, N-10910
+  - Tip-minted Nodes (skeleton): N-613, N-614, N-617, N-618, N-10909
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-15, N-22, N-30, N-60, N-97, N-162, N-166, N-215, N-225, N-229, N-234, N-272, N-276, N-337, N-369, N-374, N-384, N-10000, N-10126, N-10238, N-10367, N-10373, N-10375, N-10378, N-10385, N-10416, N-10417, N-10437, N-10449, N-10450, N-10472, N-10631, N-10643, N-10651, N-10898, N-10899, N-10900, N-11001, N-616, N-10912, N-615, N-10681, N-10911, N-10689, N-10910
   - Claim Range: C-3884–C-3948
   - (see registers)
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:09:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3895, N-614, N-10909, N-10910*
+*Related: C-3895, N-613, N-10909, N-10910*
 
 ---
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:06:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3891, C-3892, N-337, N-614, N-272, N-10909*
+*Related: C-3891, C-3892, N-337, N-613, N-272, N-10909*
 
 ---
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:08:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3893, C-3894, N-614, N-272, N-1, N-10768*
+*Related: C-3893, C-3894, N-613, N-272, N-1, N-10768*
 
 **A-2546.2** Video clip of Blake Bednarz making his accusations against Harpole (played)
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:09:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3894, N-614, N-272*
+*Related: C-3894, N-613, N-272*
 
 ---
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:43:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3933, N-618, N-374*
+*Related: C-3933, N-617, N-374*
 
 ---
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:53:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3944, N-374, N-619, N-10912*
+*Related: C-3944, N-374, N-618, N-10912*
 
 **A-2553.4** Boreing X post closing section on the invitation and his safety (read aloud)
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:47:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3936, C-3939, N-619, N-10912*
+*Related: C-3936, C-3939, N-618, N-10912*
 
 ---
 ## 4. Node Register
@@ -302,8 +302,7 @@ Transcript spelling "Andrew Colvin" in the comments. The host says he relayed Fo
 
 *Related: C-3904, C-3905, C-3906, C-3907, C-3909, C-3912, A-2549.2, A-2550.1*
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 Transcript spelling "Justin Stripe". Co-recipient of the host's December 27 group text on Fort Huachuca.
 
 *Related: C-3907, A-2549.2*
@@ -404,37 +403,37 @@ Harpole's lawyers sought his address; the host says he guest-hosted during her m
 
 *Related: C-3885, C-3886, C-3887, C-3889, A-2544.1*
 
-**N-614** Douglas Blake Bednarz
+**N-613** Douglas Blake Bednarz
 
 First named by the host at 00:06:29 in episode 100 (in a Baron Coleman clip). He publicly accuses Brian Harpole of detonating a charge that killed Charlie Kirk; per the host he was served a preservation order rather than sued, and earlier offered her UVU footage. Aliases: Blake Bednarz; Blake Bendaris.
 
 *Related: C-3891, C-3892, C-3893, C-3894, C-3895, C-3897, C-3898, C-3899, C-3948, A-2544.2, A-2545.1, A-2546.1, A-2546.2*
 
-**N-615** Father Klein
+**N-614** Father Klein
 
 First named by the host at 00:21:38 in episode 100. The host says the Kirks' September 9 dinner was with him.
 
 *Related: C-3911*
 
-**N-616** Ian Miles Cheong
+**N-615** Ian Miles Cheong
 
 First named by the host at 00:28:52 in episode 100. The host alleges he received material from Alyssa Cordova to attack Boreing's enemies.
 
 *Related: C-3916*
 
-**N-617** Caleb Robinson
+**N-616** Caleb Robinson
 
 First named by the host at 00:37:43 in episode 100. Named as the Daily Wire's interim CEO who traveled to London with George Farmer to meet investors (transcript spelling; see Optional Flags).
 
 *Related: C-3925*
 
-**N-618** Shane Cashman
+**N-617** Shane Cashman
 
 First named by the host at 00:43:02 in episode 100. Posted on X that Boreing is "Ted Bundy doing a Mr. Rogers impression."
 
 *Related: C-3933, A-2552.1*
 
-**N-619** Zachary Lewis
+**N-618** Zachary Lewis
 
 First named by the host at 00:46:20 in episode 100. Former Daily Wire camera operator in the kids department; arrested and accused (not convicted) of child sexual abuse material offenses, with six felony counts pending per the host. Aliases: Zach Lewis.
 
@@ -575,7 +574,7 @@ Military-commentary YouTube channel ("the Valhalla guy"), distinct from Gary Mel
 
 ---
 
-**N-628** Gary Melton
+**N-627** Gary Melton
 
 Runs the Paramount Tactical YouTube channel (N-10899); named by first name in episode 100 ("Andrew messaged Gary, that's Paramount Tactical").
 
@@ -600,7 +599,7 @@ The host's former employer, whose finances, Pendragon, alleged stalking, the 202
 Node Type: Topic
 Investigation target: why the Harpole plaintiffs served Douglas Blake Bednarz – who explicitly and repeatedly accused Harpole of killing Charlie Kirk – with a preservation order rather than suing him, along with the host's earlier contacts with Bednarz and a new lead the host says she received about him.
 
-*Related: C-3890, C-3891, C-3892, C-3894, C-3895, C-3897, C-3898, C-3899, C-3948, A-2544.2, A-2545.1, N-614, N-272*
+*Related: C-3890, C-3891, C-3892, C-3894, C-3895, C-3897, C-3898, C-3899, C-3948, A-2544.2, A-2545.1, N-613, N-272*
 
 **N-10910** Dhillon Law Group
 
@@ -621,7 +620,7 @@ The federal department Laura Loomer is tagging to investigate George Farmer's ci
 Node Type: Topic
 Investigation target: the pending child sexual abuse material case against former Daily Wire (Bentkey kids department) camera operator Zachary Lewis, arrested in May of the previous year. Includes when he was dismissed, what leadership knew, and whether parents were notified. Allegations only; no conviction.
 
-*Related: C-3936, C-3937, C-3938, C-3939, C-3940, C-3944, A-2553.3, A-2554.1, N-619*
+*Related: C-3936, C-3937, C-3938, C-3939, C-3940, C-3944, A-2553.3, A-2554.1, N-618*
 
 ## 5. Claim Register
 
@@ -739,7 +738,7 @@ Claim: In a podcast clip played by the host, Baron Coleman says Blake Bednarz ac
 Transcript Snippet: Blake Bednarz basically accuses by name Brian Harpole every single day of murdering Charlie Kirk. Like frame by frame. He has a whole video called Judas Harpole.
 
 Anchored Artifacts: A-2545.1
-Mentions: N-337, N-614, N-272, N-1
+Mentions: N-337, N-613, N-272, N-1
 Related Nodes: N-10909
 Investigative Direction: Archive Blake Bednarz's X, YouTube and X Spaces output, including the "Judas Harpole" video, with dates.
 
@@ -754,7 +753,7 @@ Claim: Baron Coleman says Blake Bednarz is not listed in Harpole's lawsuit, even
 Transcript Snippet: And yet, no, this Blake Bednarz's character is not listed in this lawsuit.
 
 Anchored Artifacts: A-2545.1
-Mentions: N-337, N-614, N-272
+Mentions: N-337, N-613, N-272
 Related Nodes: N-10909, N-10651
 Investigative Direction: Review the full Harpole complaint and its exhibits for any reference to Blake Bednarz or his posts, and check the list of named defendants.
 
@@ -769,7 +768,7 @@ Claim: The host identifies the person Coleman refers to as Douglas Blake Bednarz
 Transcript Snippet: The person he's referring to, a full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian's disastrous interview with Sean Ryan.
 
 Anchored Artifacts: A-2546.1
-Mentions: N-614, N-272, N-229
+Mentions: N-613, N-272, N-229
 Related Nodes: N-10681
 Investigative Direction: Compare the publication date of Harpole's Shawn Ryan Show episode with the timestamps of Bednarz's first posts naming Harpole.
 
@@ -784,7 +783,7 @@ Claim: According to tweets read aloud by the host, Blake Bednarz posted that Bri
 Transcript Snippet: This is who squeezed the trigger to initiate the detonation under Charlie's shirt. Brian Judas Harpole was wearing the controls under his clothes. I am 1 trillion percent certain.
 
 Anchored Artifacts: A-2546.1, A-2546.2
-Mentions: N-614, N-272, N-1
+Mentions: N-613, N-272, N-1
 Related Nodes: N-10909, N-10768
 Investigative Direction: Archive the original Bednarz posts with URLs and timestamps, and compare the allegation with the autopsy and ballistics evidence in the Tyler Robinson case.
 
@@ -799,7 +798,7 @@ Claim: The host says Blake Bednarz contacted her and told her that Dhillon Law G
 Transcript Snippet: I learned that Blake Bendaris had been served by Dylan Law Group. But not with the lawsuit, but with a simple preservation order because they think he might have something that might help to prosecute me in a defamation suit.
 
 Anchored Artifacts: A-2544.2
-Mentions: N-614, N-3
+Mentions: N-613, N-3
 Related Nodes: N-10909, N-10910, N-10651
 Investigative Direction: Obtain the preservation letter served on Douglas Blake Bednarz, its date and signatory, and any later subpoena issued to him.
 
@@ -828,7 +827,7 @@ Claim: The host says a friend introduced her to Bednarz, who claimed to have nev
 Transcript Snippet: there's this guy who is purporting to have never before seen footage from the UVU event.
 
 Anchored Artifacts:
-Mentions: N-614, N-3
+Mentions: N-613, N-3
 Related Nodes: N-10909
 Investigative Direction: Obtain the host's message history with Bednarz and any footage or links he sent, and identify the UVU contact he cited.
 
@@ -843,7 +842,7 @@ Claim: The host says Bednarz never sent the long footage he promised. She says t
 Transcript Snippet: My spidey senses went up in December. Right around the time that we began discussing Fort Huachuca when he suddenly shifted gears and began sending me stuff about Brian Harpole.
 
 Anchored Artifacts:
-Mentions: N-614, N-272, N-3
+Mentions: N-613, N-272, N-3
 Related Nodes: N-10909
 Investigative Direction: Review the dated message thread between the host and Bednarz for November–December 2025.
 
@@ -858,7 +857,7 @@ Claim: The host says that from mid-December she stopped responding to Bednarz be
 Transcript Snippet: I'm just not going to reply to you beginning in mid-December.
 
 Anchored Artifacts:
-Mentions: N-614, N-3
+Mentions: N-613, N-3
 Related Nodes: N-10909
 Investigative Direction: Confirm from the message thread the date of the host's last reply to Bednarz.
 
@@ -1012,7 +1011,7 @@ Claim: The host says Andrew Kolvet messaged Gary of Paramount Tactical that Erik
 Transcript Snippet: Andrew messaged Gary, that's Paramount Tactical, saying that Erika was with Charlie on the 9th at the office all day.
 
 Anchored Artifacts: A-2549.2
-Mentions: N-14, N-2, N-1, N-628
+Mentions: N-14, N-2, N-1, N-627
 Related Nodes: N-10899, N-10472
 Investigative Direction: Obtain Kolvet's messages to the Paramount Tactical host and TPUSA office access logs for September 9, 2025.
 
@@ -1042,7 +1041,7 @@ Claim: The host says she knows the Kirks had dinner together on the night of Sep
 Transcript Snippet: Dinner that night together, which I am aware of because it was with Father Klein.
 
 Anchored Artifacts: A-2549.2
-Mentions: N-615, N-2, N-1, N-3
+Mentions: N-614, N-2, N-1, N-3
 Investigative Direction: Confirm the September 9, 2025 dinner and its location with Father Klein.
 
 ---
@@ -1056,7 +1055,7 @@ Claim: The host says Gary of Paramount Tactical confirmed to her that Andrew Kol
 Transcript Snippet: Gary has confirmed to me that Andrew's messages are related to Erika's schedule on the 9th and not the 8th.
 
 Anchored Artifacts: A-2549.2
-Mentions: N-14, N-2, N-628
+Mentions: N-14, N-2, N-627
 Related Nodes: N-10899, N-10472
 Investigative Direction: Obtain the Paramount Tactical host's statement and the dated Kolvet messages.
 
@@ -1116,7 +1115,7 @@ Claim: The host alleges that while she was at the Daily Wire, Jeremy Boreing use
 Transcript Snippet: he used Alyssa Cordova, uh who would send things to Ian Miles Cheong, who's generally speaking very gross, uh to go after his enemies.
 
 Anchored Artifacts:
-Mentions: N-374, N-234, N-616
+Mentions: N-374, N-234, N-615
 Related Nodes: N-10900
 Investigative Direction: Seek communications between Alyssa Cordova and Ian Miles Cheong, and compare the timing with Cheong's posts about Daily Wire critics.
 
@@ -1251,7 +1250,7 @@ Claim: The host says her husband traveled to London with the Daily Wire's interi
 Transcript Snippet: They went to London, him and the co-CEO or the just the CEO at that time, the interim full CEO. Kayla Robinson, George introduced them to all of his circle of investor friends
 
 Anchored Artifacts:
-Mentions: N-30, N-617
+Mentions: N-30, N-616
 Related Nodes: N-10126, N-10900
 Investigative Direction: Obtain Daily Wire travel records and investor-meeting records for the London trip.
 
@@ -1371,7 +1370,7 @@ Claim: The host reads a post by Shane Cashman on X that says "Jeremy Boring is T
 Transcript Snippet: Shane Cashman said it best on X when he wrote this. He wrote, "Jeremy Boring is Ted Bundy doing a Mr. Rogers impression."
 
 Anchored Artifacts: A-2552.1
-Mentions: N-618, N-374
+Mentions: N-617, N-374
 Investigative Direction: Archive the Shane Cashman X post with its URL and timestamp.
 
 ---
@@ -1415,7 +1414,7 @@ Claim: The host says Zachary Lewis, a long-time Daily Wire camera operator, was 
 Transcript Snippet: he's been accused of distributing pornography of pre-pubescent kids in the process of soliciting other minors.
 
 Anchored Artifacts: A-2554.1
-Mentions: N-619
+Mentions: N-618
 Related Nodes: N-10912, N-10900
 Investigative Direction: Obtain the arrest record, charging documents and docket for Zachary Lewis.
 
@@ -1430,7 +1429,7 @@ Claim: The host says Lewis worked in the Daily Wire's kids department (Bentkey),
 Transcript Snippet: this now former employee, Zachary Lewis, happens to have worked in The Daily Wire Kids department, where they filmed kids' shows with kids.
 
 Anchored Artifacts:
-Mentions: N-619
+Mentions: N-618
 Related Nodes: N-10912, N-10900
 Investigative Direction: Check Bentkey production credits and Daily Wire employment records for Zachary Lewis's role.
 
@@ -1445,7 +1444,7 @@ Claim: The host says she has been told, which she labels an allegation, that Lew
 Transcript Snippet: I am told that he was not immediately dismissed from The Daily Wire, allegedly.
 
 Anchored Artifacts:
-Mentions: N-619, N-374
+Mentions: N-618, N-374
 Related Nodes: N-10912, N-10900
 Investigative Direction: Establish Lewis's termination date from Daily Wire records or statements and compare it with his arrest date.
 
@@ -1460,7 +1459,7 @@ Claim: The host says six felony counts are pending against Lewis before a judge,
 Transcript Snippet: There are currently six felony counts pending before the judge. I dropped the details of the case against him on my X feed.
 
 Anchored Artifacts: A-2554.1
-Mentions: N-619
+Mentions: N-618
 Related Nodes: N-10912
 Investigative Direction: Confirm the number and nature of the counts on the court docket.
 
@@ -1475,7 +1474,7 @@ Claim: The host says she has been told the Daily Wire did not hold a public staf
 Transcript Snippet: I have been informed that they did not build a stage to gloriously fire Zach Lewis and to publicly hang him before the employees like they did with me.
 
 Anchored Artifacts:
-Mentions: N-619, N-3
+Mentions: N-618, N-3
 Related Nodes: N-10912, N-10900
 Investigative Direction: Seek accounts from Daily Wire employees on how Lewis's departure was announced internally.
 
@@ -1533,7 +1532,7 @@ Claim: In his X post, Boreing says the accusation that a Daily Wire employee was
 Transcript Snippet: But while that accusation is terrible, it has nothing to do with me.
 
 Anchored Artifacts: A-2553.3
-Mentions: N-374, N-619
+Mentions: N-374, N-618
 Related Nodes: N-10912
 Investigative Direction: Establish what Daily Wire leadership knew about the Lewis case and when, and Boreing's role over the kids department at the time.
 
@@ -1593,7 +1592,7 @@ Claim: The host says her team received an interesting lead about Blake Bednarz t
 Transcript Snippet: Actually, we had an interesting lead today about Blake Bednarz. So we'll follow that.
 
 Anchored Artifacts:
-Mentions: N-614, N-3
+Mentions: N-613, N-3
 Related Nodes: N-10909
 Investigative Direction: Track any follow-up the host publishes on the Bednarz lead.
 
@@ -1788,8 +1787,8 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2544.1 (preservation orders and the lawyers' email requesting Ian Carroll's address), A-2544.2 (the preservation order served on Bednarz), A-2547.1 (the earlier tips-email request) and A-2554.1 (the Zachary Lewis case details the host says she posted on X). The Harpole complaint itself is described but not shown in this episode.
 - **DIA beat**: the only keyword hit is the recalled request "please send it to us tips@kcsun. com" (00:11:02). It was treated as a DIA beat (C-3896, A-2547.1, M-12), although it is a retrospective account of an earlier call for footage rather than a new request. The address is kept as transcribed and is likely a caption error for the show's tips address. The "interesting lead today about Blake Bednarz" (01:06:06) is a tip received but matched no keyword; it is recorded as C-3948 without an M-12 occurrence. M-14 does not air.
-- **Name matching**: Harpole is transcribed as "Bryan Harsin" (00:00:01, 00:01:19), "Brian Hopple", "Bryant Harpole", "Brett Harrelson", "Brian Hurlbut", "Brian Harpool" and "Brian Harp"; all are mapped to N-272 from context. "Barron"/"Baron Cohen" is mapped to N-337 Baron Coleman, and "Andrew Colvin" (comments) to N-14. "Blake Bendaris" and "Blake Bednarz" are treated as the same new person, N-614 Douglas Blake Bednarz. "Dylan Law Group" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic "Dhillon Law Group / Show Faith by Works Connection".
-- **Uncertain identities**: "Caleb Robinson" (N-617), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. "Father Klein" (N-615) could not be matched to any existing node. "Gary" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Ham node is a different person, a pastor). "Mark Meadows, the Secretary of Homeland Security" (C-3932) is kept as transcribed; the name is likely wrong and no person node was minted. "Matt Saracens" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Slauson, who appears in prior claim C-2850. It is not inscribed.
+- **Name matching**: Harpole is transcribed as "Bryan Harsin" (00:00:01, 00:01:19), "Brian Hopple", "Bryant Harpole", "Brett Harrelson", "Brian Hurlbut", "Brian Harpool" and "Brian Harp"; all are mapped to N-272 from context. "Barron"/"Baron Cohen" is mapped to N-337 Baron Coleman, and "Andrew Colvin" (comments) to N-14. "Blake Bendaris" and "Blake Bednarz" are treated as the same new person, N-613 Douglas Blake Bednarz. "Dylan Law Group" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic "Dhillon Law Group / Show Faith by Works Connection".
+- **Uncertain identities**: "Caleb Robinson" (N-616), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. "Father Klein" (N-614) could not be matched to any existing node. "Gary" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Ham node is a different person, a pastor). "Mark Meadows, the Secretary of Homeland Security" (C-3932) is kept as transcribed; the name is likely wrong and no person node was minted. "Matt Saracens" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Slauson, who appears in prior claim C-2850. It is not inscribed.
 - **Internal inconsistency**: Coleman's clip says Bednarz "is not listed in this lawsuit" (00:07:17), but at 00:11:02 the host says "They're listing him in the lawsuit." This may mean the complaint shows his material without naming him as a defendant; it is preserved as spoken.
 - **Defamation safety**: Bednarz's accusations against Harpole (C-3891, C-3894), the YouTuber's allegations about Mitch Snow's past (C-3901), the George Farmer arrest allegations (C-3920, C-3921, C-3930) and the Zachary Lewis charges (C-3936 to C-3940; not convicted) are all attributed and none is stated as fact.
 - **Not inscribed as claims (admission test)**: The following were excluded as characterizations, opinions or rhetoric:

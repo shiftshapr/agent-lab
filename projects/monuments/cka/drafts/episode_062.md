@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-11176, N-11177, N-11178, N-11179, N-11181
   - Hole-minted Nodes (reintro-ep062): N-10869
-  - Tip-minted Nodes (reintro-ep062): N-783, N-10984
+  - Tip-minted Nodes (reintro-ep062): N-782, N-10984
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8252–C-8316
   - New Nodes Introduced: N-499, N-501, N-502, N-504, N-505, N-10438, N-10439, N-10440, N-10441, N-10442
@@ -448,7 +448,7 @@ Referenced via a viewer's comparison to the host's Brigitte Macron series.
 
 ---
 
-**N-783** Michelle Bachmann
+**N-782** Michelle Bachmann
 
 Michele Bachmann; named in the donor text as booed at the Tampa event (the transcript spells it Michele).
 
@@ -833,18 +833,18 @@ Investigative Direction: Identify the CMO named and obtain any internal investig
 
 ---
 
-**C-2193** A TPUSA employee was terminated at her home by the general counsel during a Zoom meeting, with her work computer retrieved
+**C-2193** A part-time TPUSA employee was terminated at her home by the general counsel during a fake Zoom meeting, with her work computer retrieved
 
 Claim Timestamp: 00:32:06
 
-Claim: Marina Minas allegedly received non-stop calls from an unrecognized number while on a Zoom meeting, and upon answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with warning that deletions would be detected).
+Claim: The host alleges that a part-time TPUSA employee (unnamed) was put into a fake Zoom meeting, received non-stop calls from an unrecognized number, and on answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with a warning that deletions would be detected). The host names Marina Minas separately as someone involved in the firings; Minas is not the employee in this account.
 
 Anchored Artifacts: A-1675.2
-Mentions: N-504, N-505
+Mentions: N-505
 
 Related Nodes: N-10439
 
-Investigative Direction: Obtain direct on-record confirmation from Marina Minas; obtain any contemporaneous communications (texts, voicemails) memorializing the home-visit termination.
+Investigative Direction: Identify the part-time employee and obtain on-record confirmation and contemporaneous communications (texts, voicemails) of the home-visit termination; Marina Minas (N-504) is discussed in C-8304.
 
 ---
 
@@ -1057,7 +1057,7 @@ Claim: As read by the host, the donor's message says the TPUSA Tampa event was a
 Transcript Snippet: Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.
 
 Anchored Artifacts: A-1669.1
-Mentions: N-783
+Mentions: N-782
 Related Nodes: N-11080, N-10438
 Tags: relevance:context
 Investigative Direction: Check video and attendee accounts of Michele Bachmann's July 2025 Tampa appearance for booing and walkouts.

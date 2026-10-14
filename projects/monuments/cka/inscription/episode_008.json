@@ -1299,7 +1299,9 @@
       "related_nodes": [
         "N-10096"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:05:18",
       "investigative_direction": "Compare the children's GMA statements against the video metadata and any device footage.",
       "transcript_snippet": "I saw blood everywhere and it hit his artery and then I just we fell to the ground",
@@ -1368,7 +1370,9 @@
       "related_nodes": [
         "N-10097"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Cross-check the walking-clip frame-by-frame against law-enforcement timeline records.",
       "transcript_snippet": "his pants fall down by themselves... a young man comes by to try to assist him",
@@ -1412,7 +1416,9 @@
         "N-10093",
         "N-10101"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:17:18",
       "investigative_direction": "Identify the blue-shirted Wirefy individual; request their cell metadata; confirm sponsorship ledger.",
       "transcript_snippet": "Wirefy, you will notice in the clips of the event, is the backdrop advertiser that's behind Charlie",
@@ -1455,7 +1461,10 @@
         "N-10014",
         "N-10099"
       ],
-      "tags": [],
+      "tags": [
+        "calls_for_tips",
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:23:36",
       "investigative_direction": "Obtain the original FBI 302 or tip-line intake record; corroborate via metadata and witness interview.",
       "transcript_snippet": "this person was dressed in tactical gear and he was wearing a face mask",

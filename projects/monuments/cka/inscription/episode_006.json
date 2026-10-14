@@ -1451,7 +1451,9 @@
       "related_nodes": [
         "N-10076"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:03:50",
       "investigative_direction": "Identify both individuals via facial recognition, witness statements, and cross-reference against footage metadata.",
       "transcript_snippet": "that same individual appears alongside another individual and he moves Charlie's chair",
@@ -1474,7 +1476,9 @@
       "related_nodes": [
         "N-10076"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:03:35",
       "investigative_direction": "Obtain full-resolution copy of wide-angle clip; cross-reference timing against crowd movement logs.",
       "transcript_snippet": "that person appears to be calmly talking into their phone. It's like a circus around them",
@@ -1654,7 +1658,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:25:57",
       "investigative_direction": "Cross-reference Kovit's claimed timeline against TPUSA event attendee records and verify his board role.",
       "transcript_snippet": "When's the last time you saw Candace Owens in person? 2015, 2016",
@@ -1786,7 +1792,9 @@
         "N-10073",
         "N-10081"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:35:46",
       "investigative_direction": "Verify Churchill's APAC affiliation via APAC event registrations and public photo metadata.",
       "confidence": "low",
@@ -1851,7 +1859,9 @@
         "A-1129.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:32:59",
       "investigative_direction": "Verify the text message screenshot metadata and timestamp.",
       "transcript_snippet": "speech censorship is coming to America... the date here is May 22nd of this year",
@@ -1874,7 +1884,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:27:53",
       "investigative_direction": "Cross-reference TPUSA website archive and event recordings; verify dates.",
       "transcript_snippet": "Here is me speaking on Turning Point USA's stage last year... Live free tour. Charlie Kirk and Candace Owens",
@@ -1900,7 +1912,9 @@
         "N-10014",
         "N-10077"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:44:30",
       "investigative_direction": "Verify authenticity of released text chain via independent forensic analysis and metadata.",
       "transcript_snippet": "ridiculous madeup text chain between Tyler Robinson and his lover Lance",

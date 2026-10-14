@@ -33,7 +33,7 @@
 - **Ledger continuation summary:**
   - Artifact Families Introduced: A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
   - Claim Range: C-1862–C-1879
-  - New Nodes Introduced (people):  through 
+  - New Nodes Introduced (people):  through
   - New Nodes Introduced (investigation targets): N-10316 through N-10325
   - Existing Nodes Reused: N-3
 

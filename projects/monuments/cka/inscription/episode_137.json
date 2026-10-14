@@ -326,7 +326,7 @@
             "N-1",
             "N-3",
             "N-40",
-            "N-799"
+            "N-798"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -356,8 +356,8 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-518",
-            "N-764"
+            "N-517",
+            "N-763"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -383,8 +383,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-518",
-            "N-764"
+            "N-517",
+            "N-763"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -421,7 +421,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-518"
+            "N-517"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -722,8 +722,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-518",
-      "ref": "N-518",
+      "@id": "N-517",
+      "ref": "N-517",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
@@ -933,8 +933,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-604",
+      "ref": "N-604",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Pete Hegseth; his statements on the Iran school strike.",
@@ -951,8 +951,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-696",
-      "ref": "N-696",
+      "@id": "N-695",
+      "ref": "N-695",
       "name": "Jon Bray",
       "type": "person",
       "description": "Jon Bray; credited with showing the road mic glass is sticky.",
@@ -968,8 +968,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-764",
-      "ref": "N-764",
+      "@id": "N-763",
+      "ref": "N-763",
       "name": "Allan Robertson",
       "type": "person",
       "description": "Allan Robertson; USU officer on the rooftop, subject of the Brady and threat-assessment update.",
@@ -1377,8 +1377,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-799",
-      "ref": "N-799",
+      "@id": "N-798",
+      "ref": "N-798",
       "name": "Mike Lee",
       "type": "person",
       "description": "First named by the host at 00:09:13 in episode 137 (spelled Mike Shamway Lee in the transcript). Utah senator the host says was slated to attend the Sept 10 UVU event and whose name was used as a cover story.",
@@ -1512,7 +1512,7 @@
       "claim_timestamp": "00:19:22",
       "investigative_direction": "Obtain trial transcripts or full video of Bagley's testimony to confirm wording and any clarification given.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -1675,7 +1675,9 @@
       "claim": "The host says Frank Turek is going viral and trending on X for seemingly using the Bible to message that she should be struck down, and that it is not the first time he has done so.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Capture the Turek post or podcast clip and X trending data for 2026-08-03 to 2026-08-04 to confirm the trend and the wording.",
       "transcript_snippet": "Frank Turk is actually going viral right now, trending on X for seemingly using the Bible to message that I should be struck down.",
@@ -1692,7 +1694,9 @@
       "claim": "The host says Blake Neff claims she is putting innocent lives at risk, and she replies that he does so himself by continually calling for Tyler Robinson's conviction in the absence of evidence.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Locate Neff's X post making the 'innocent lives at risk' statement and compare it with his public statements on the Robinson case.",
       "transcript_snippet": "But no, Blakey says I'm putting innocent lives at risk. Really? How?",
@@ -1712,7 +1716,9 @@
       "related_nodes": [
         "N-10772"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Compare the host's identification of the companion in episode 136 with Bagley's testimony and the 12:47 PM bystander footage.",
       "transcript_snippet": "for having solved the mystery of who was on the rooftop at Loy Center with Officer Bagley.",
@@ -1721,7 +1727,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-518",
+        "N-517",
         "N-162"
       ]
     },
@@ -1733,7 +1739,9 @@
       "claim": "In a sarcastic list of the public-relations story the host says she is being asked to accept, she states that Erika Kirk took over the entire company and was on a corporate Zoom call laughing at emojis within six days of her husband's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:27",
       "investigative_direction": "Obtain the video or screenshots of the TPUSA corporate Zoom call and its date to test the six-day claim.",
       "transcript_snippet": "is on a corporate Zoom call laughing at emojis within six days of her husband's public assassination?",
@@ -1753,7 +1761,9 @@
         "A-2236.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:17",
       "investigative_direction": "Obtain the full Nicholas Bowling podcast audio to confirm the wording and who spoke each line.",
       "transcript_snippet": "This is spiritual warfare. This is demonic activity. >> Yeah. I'm talking about Candace Owens.",
@@ -1773,7 +1783,9 @@
         "A-2236.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:09",
       "investigative_direction": "Compare Turek's characterization with the host's actual statements about named individuals across the series.",
       "transcript_snippet": "You don't accuse people of murder without evidence, but that's what she's doing left and right. She's insinuating it left and right.",
@@ -1792,7 +1804,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:58",
       "investigative_direction": "Review the preliminary hearing exhibit list and discovery for any footage of the shooting or evidence linking the rifle to the scene.",
       "transcript_snippet": "All they had to do uh, was show us the video of him taking the shot. All they had to do was somehow connect the gun to the crime scene.",
@@ -1812,7 +1826,9 @@
       "related_nodes": [
         "N-10151"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:54",
       "investigative_direction": "Check court filings and the Washington County statements for the surrender sequence and for who contacted Robinson's parents and the pastor.",
       "transcript_snippet": "Nothing they have said since the very beginning. Tyler Robinson's parents turned them in. Had they showed us that? Nope.",
@@ -1830,7 +1846,9 @@
       "claim": "The host says people have lied about Tyler Robinson at every stage, including by describing him as transgender or in a relationship with a transgender person, and that this has not checked out.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:54",
       "investigative_direction": "Compare official statements and hearing testimony about Robinson's relationship with the host's characterization.",
       "transcript_snippet": "including by describing him as a a transgendered or or being in a relationship with somebody that's transgendered. That hasn't checked out.",
@@ -1849,7 +1867,9 @@
       "related_nodes": [
         "N-10634"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:54",
       "investigative_direction": "Obtain the preliminary hearing transcript of the roommate or partner testimony and check the exact words on politics and Kirk.",
       "transcript_snippet": "We heard testimony from his boyfriend who says, \"No, he wasn't into politics. We never discussed Charlie Kirk ever in our relationship.",
@@ -1867,7 +1887,9 @@
       "claim": "The host says that, from where she sits, there is currently more evidence that Charlie Kirk was killed by an exploding microphone than that he was shot from the Losee rooftop by Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:32",
       "investigative_direction": "List the host's evidence for the microphone theory and the prosecution's exhibits for the rooftop shot and compare them side by side.",
       "transcript_snippet": "there is currently more evidence that Charlie Kirk was killed from an exploding mic than there is that he was shot from uh Loy Rooftop by Tyler Robinson.",
@@ -1887,7 +1909,9 @@
       "related_nodes": [
         "N-10779"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:14",
       "investigative_direction": "Find Turek's original interview or retelling and confirm the exact words about his fingers and the blood.",
       "transcript_snippet": "Frank told us he stuck his fingers right into Charlie's neck. He had blood all over him. He could taste it in his mouth.",
@@ -1907,7 +1931,9 @@
       "related_nodes": [
         "N-10779"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:14",
       "investigative_direction": "Obtain the 911 call audio and CAD record from Utah County dispatch and check for the phrase and the speakers.",
       "transcript_snippet": "We've also broke the story that the 911 call, which is yet to be released. They hear them in the back saying, \"Get that off of him.",
@@ -1928,12 +1954,14 @@
       "related_nodes": [
         "N-10779"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:14",
       "investigative_direction": "Review John Bray's earlier demonstration and the microphone's materials to see whether the adhesive claim holds.",
       "transcript_snippet": "Remember John Bray showed us that that glass for the road mic is very, very, very sticky.",
       "mentions_person_refs": [
-        "N-696",
+        "N-695",
         "N-3"
       ]
     },
@@ -1950,12 +1978,14 @@
         "N-10012",
         "N-10776"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:13",
       "investigative_direction": "Ask Senator Lee's office and TPUSA for the event invitation list and whether Lee was ever confirmed as an attendee.",
       "transcript_snippet": "Senator Lee was actually slated to attend the Charlie Kirk event at UVU on September 10th.",
       "mentions_person_refs": [
-        "N-799",
+        "N-798",
         "N-1",
         "N-3"
       ]
@@ -1972,12 +2002,14 @@
       "related_nodes": [
         "N-10776"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:13",
       "investigative_direction": "Check the Senate schedule and NDAA floor votes for the week of September 8, 2025 and any Lee office statement about the cancellation.",
       "transcript_snippet": "that week the senator had to cancel very early on in the week due to the National Defense Authorization Act",
       "mentions_person_refs": [
-        "N-799"
+        "N-798"
       ]
     },
     {
@@ -1988,12 +2020,14 @@
       "claim": "The host says Mike Lee was born in Arizona, spent most of his upbringing in Utah and comes from a well-to-do family, with a father who was founding dean of BYU's law school program.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:09:13",
       "investigative_direction": "Check Lee's official biography for his birthplace and his father's role at BYU Law.",
       "transcript_snippet": "His father was actually the founding dean of BYU's law school program.",
       "mentions_person_refs": [
-        "N-799"
+        "N-798"
       ]
     },
     {
@@ -2009,12 +2043,14 @@
         "N-10776",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:13",
       "investigative_direction": "Ask UVU police and Senator Lee's office whether Lee's office was contacted after September 10, 2025 about a campus incident and what was said.",
       "transcript_snippet": "I've got a source that UVU tells me that after the assassination of Charlie, Mike Lee was contacted due to something unusual that took place on campus the day before the shooting.",
       "mentions_person_refs": [
-        "N-799",
+        "N-798",
         "N-1",
         "N-3"
       ]
@@ -2032,12 +2068,14 @@
         "N-10776",
         "N-10028"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:58",
       "investigative_direction": "Request UVU security and police incident logs, radio traffic and any field-contact record for September 9, 2025.",
       "transcript_snippet": "he told the campus security that he was Senator Mike Lee's bodyguard, scoping out the area to ensure that the senator was going to be safe ahead of the event.",
       "mentions_person_refs": [
-        "N-799",
+        "N-798",
         "N-3"
       ]
     },
@@ -2053,12 +2091,14 @@
       "related_nodes": [
         "N-10776"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:58",
       "investigative_direction": "Ask Lee's Senate office whether any staff or security accompanied him to Utah events in September 2025.",
       "transcript_snippet": "And I have done some digging and it also appears that Mike Lee is pretty down to earth. He doesn't actually have a security apparatus, a security team.",
       "mentions_person_refs": [
-        "N-799",
+        "N-798",
         "N-3"
       ]
     },
@@ -2074,7 +2114,9 @@
       "related_nodes": [
         "N-10776"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:58",
       "investigative_direction": "Identify who at TPUSA, UVU and campus clubs had access to the attendee list before September 9.",
       "transcript_snippet": "there was only a small group of people who would have been privy to that knowledge, who would have been privy of the attendee list.",
@@ -2095,7 +2137,9 @@
       "related_nodes": [
         "N-10776"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:30",
       "investigative_direction": "Ask UVU for camera coverage of the September 9 contact and a list of everyone who received the VIP attendee list.",
       "transcript_snippet": "Certainly Turning Point USA event staff would have known. Club students would have known.",
@@ -2114,7 +2158,9 @@
         "A-2243.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:19",
       "investigative_direction": "Locate Neff's exact X post to confirm the sergeant and move-date wording.",
       "transcript_snippet": "suggests that is suspiciously timed that he moved to Utah a year before Charlie's shooting",
@@ -2134,7 +2180,9 @@
       "claim": "The host says people on TPUSA's platform are calling for her home to be raided for sharing the video of the man on the rooftop who looks like he has military experience.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:31",
       "investigative_direction": "Identify the specific posts calling for a raid of the host's home and who amplified them.",
       "transcript_snippet": "posting people on your platform that are calling for my home to be raided for sharing the video of the guy who certainly looks like he's got some military experience on the rooftop.",
@@ -2154,7 +2202,9 @@
       "related_nodes": [
         "N-10070"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:31",
       "investigative_direction": "Obtain the Daily Mail request email to confirm date, sender and the full question list.",
       "transcript_snippet": "we actually received a press request from the Daily Mail yesterday regarding the footage that we released of the rooftop man",
@@ -2173,7 +2223,9 @@
       "claim": "The host says the consistent public messaging from Dan Bongino, Kash Patel, Erika Kirk and Turning Point USA was that they wanted nothing but transparency, did not edit the videos and did not lie about the footage.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:33",
       "investigative_direction": "Collect each named person's public transparency statements and test them against what has been released.",
       "transcript_snippet": "Dan Bonino, Kash Patel, Erika Kirk, Turning Point USA. We didn't edit the videos. We don't lie about what was on the footage.",
@@ -2197,7 +2249,9 @@
         "N-10777",
         "N-10090"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:02",
       "investigative_direction": "Identify the September 11, 2025 reports and their anonymous law-enforcement sources, and compare them with later official accounts.",
       "transcript_snippet": "We learned about the screwdriver because someone in law enforcement leaked information to the press.",
@@ -2222,7 +2276,9 @@
         "N-10777",
         "N-10731"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:01",
       "investigative_direction": "Retrieve the September 15, 2025 Patel and Bongino statements and compare them with the September 11 CNN wording.",
       "transcript_snippet": "4 days later we hear from Kash Patel and Dan Bonino and they clarify that you know the footage is grainy uh but the screwdriver was actually found on the rooftop",
@@ -2246,7 +2302,9 @@
         "N-10725",
         "N-10773"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:01",
       "investigative_direction": "Obtain the body cam model's warning-behavior specification and the Axon audit log for Bagley's device.",
       "transcript_snippet": "his body cam dies seemingly without warning at exactly the right time. And there's a ton of warning that should have been happening.",
@@ -2254,7 +2312,7 @@
         "C-3042"
       ],
       "mentions_person_refs": [
-        "N-518",
+        "N-517",
         "N-3"
       ]
     },
@@ -2270,7 +2328,9 @@
       "related_nodes": [
         "N-10778"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:22",
       "investigative_direction": "Obtain the full trial transcript of Bagley's cross-examination and the police department video he reviewed.",
       "transcript_snippet": "it wasn't until I went to the PD and actually saw him jump off of the building that I knew he was off the building.",
@@ -2278,7 +2338,7 @@
         "C-3044"
       ],
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -2293,7 +2353,9 @@
       "related_nodes": [
         "N-10778"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:18",
       "investigative_direction": "Compare this exchange with the court record to confirm Bagley's final answer.",
       "transcript_snippet": "So, you did not review the video to see if there was someone between you that individual jumping off and you coming on",
@@ -2301,7 +2363,7 @@
         "C-3214"
       ],
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -2317,12 +2379,14 @@
         "N-10772",
         "N-10778"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:54",
       "investigative_direction": "Obtain rooftop video between the jump and 12:44 p.m. and identify anyone who appears on the Losee roof before Bagley.",
       "transcript_snippet": "I can exclusively tell you guys that the answer to that question is yes. Yes, somebody did get on that rooftop before you, didn't he, Officer Bagley?",
       "mentions_person_refs": [
-        "N-518",
+        "N-517",
         "N-3"
       ]
     },
@@ -2337,12 +2401,14 @@
         "N-10777",
         "N-10772"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:54",
       "investigative_direction": "Establish a time-stamped chain of custody for the screwdriver and who was on the roof before it was logged.",
       "transcript_snippet": "it's plausible that this unknown person could have planted the screwdriver.",
       "mentions_person_refs": [
-        "N-518",
+        "N-517",
         "N-3"
       ]
     },
@@ -2358,7 +2424,9 @@
       "related_nodes": [
         "N-10774"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Obtain Robertson's San Bernardino employment separation records and the Brady list entry details.",
       "transcript_snippet": "He said he abs absolutely was not let go or transferred over any conduct issues.",
@@ -2366,7 +2434,7 @@
         "C-3203"
       ],
       "mentions_person_refs": [
-        "N-764",
+        "N-763",
         "N-3"
       ]
     },
@@ -2382,7 +2450,9 @@
       "related_nodes": [
         "N-11144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Obtain the USU police event-planning records and request logs for the planned USU Kirk event and the officers' September 10 assignment.",
       "transcript_snippet": "They were there because they were doing a threat assessment for their event that was 10 days later.",
@@ -2390,7 +2460,7 @@
         "C-3199"
       ],
       "mentions_person_refs": [
-        "N-764",
+        "N-763",
         "N-1",
         "N-3"
       ]
@@ -2407,7 +2477,9 @@
       "related_nodes": [
         "N-10772"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Request the USU and UVU police reports from September 10 and the bystander video showing communication with the UVU chief.",
       "transcript_snippet": "So it's just very odd that officer Bagley is pretending he couldn't find out who these officers were when they were in communication with his chief.",
@@ -2415,8 +2487,8 @@
         "C-3196"
       ],
       "mentions_person_refs": [
-        "N-518",
-        "N-764",
+        "N-517",
+        "N-763",
         "N-3"
       ]
     },
@@ -2428,12 +2500,14 @@
       "claim": "The host says that among the many emails about Christopher Bagley and his history none defended him, and her gut tells her he could have answered more questions on the stand if he had wanted to.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Review Bagley's personnel and disciplinary history through records requests to UVU police.",
       "transcript_snippet": "there were not many people or any people in our inbox that were defending Christopher Bagley, which is interesting.",
       "mentions_person_refs": [
-        "N-518",
+        "N-517",
         "N-3"
       ]
     },
@@ -2449,13 +2523,15 @@
       "related_nodes": [
         "N-10772"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:07",
       "investigative_direction": "Check the trial recording for the moment Bagley says 'Allen' and the question asked.",
       "transcript_snippet": "he actually does slip and say Allen at one point, so he definitely knew who the person was.",
       "mentions_person_refs": [
-        "N-518",
-        "N-764",
+        "N-517",
+        "N-763",
         "N-3"
       ]
     },
@@ -2471,7 +2547,9 @@
       "related_nodes": [
         "N-10774"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:07",
       "investigative_direction": "Confirm through a San Bernardino records request that his separation was voluntary and why a Brady entry exists.",
       "transcript_snippet": "by all accounts, it seems like he left by on his own valition and he just he has young kids and wanted to leave the city life.",
@@ -2479,7 +2557,7 @@
         "C-3203"
       ],
       "mentions_person_refs": [
-        "N-764",
+        "N-763",
         "N-3"
       ]
     },
@@ -2495,7 +2573,9 @@
       "related_nodes": [
         "N-10344"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:05",
       "investigative_direction": "This can only be confirmed through the host's team; ask for confirmation of the arrangement.",
       "transcript_snippet": "We had a person reach out who is in the country music world who does not want to be named or get any credit and he is going to pay for the entire thing",
@@ -2515,7 +2595,9 @@
       "related_nodes": [
         "N-10344"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:05",
       "investigative_direction": "Ask the host's team for the date and nature of the incident in Russia and the hospital records, if shared.",
       "transcript_snippet": "also to Russia's Ministry of Health, how grateful we are, everybody that was involved in this",
@@ -2534,7 +2616,9 @@
         "N-10715",
         "N-10732"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Re-listen to Neff's original statements and compare his Orem and Salt Lake City versions with hotel records.",
       "transcript_snippet": "He at first thought he stayed in Orum, then said he maybe misspoke. Then he remembered that actually no, he stayed in Salt Lake City.",
@@ -2556,7 +2640,9 @@
       "related_nodes": [
         "N-10715"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Ask Neff and Philip for their September 10 itinerary and transportation records.",
       "transcript_snippet": "He didn't even remember that he was with Danny Phillip or where him and Danny Phillip went, how they got the whole thing is crazy.",
@@ -2582,7 +2668,9 @@
         "N-10732",
         "N-10715"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Obtain hotel registration or invoice records for the TPUSA party on September 10, 2025.",
       "transcript_snippet": "We were able to determine that the some members at least of the Turning Point USA team stayed at the Asher Adams um autograph collection hotel in Salt Lake City.",
@@ -2607,7 +2695,9 @@
       "related_nodes": [
         "N-10732"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Review the original sleuth post that matched the room background and what it says about Bowyer.",
       "transcript_snippet": "Internet Slooh's got him and Tyler Bowyer. And here's the Asher Adams Hotel.",
@@ -2632,7 +2722,9 @@
         "N-11145",
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:45",
       "investigative_direction": "Compare casualty figures for the school strike across Iranian, UN and Western reports; the host's 156 differs from the 175 in the played Sky clip.",
       "transcript_snippet": "156 people were murdered, including 120 students and 26 teachers.",
@@ -2652,13 +2744,15 @@
       "related_nodes": [
         "N-11145"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:17",
       "investigative_direction": "Collect the dated Trump and Hegseth statements on the school strike and the formal investigation announcement.",
       "transcript_snippet": "At first, Trump actually came out and he said, \"No, we didn't do it. It was Iran.\" Pete Hexth followed up with the same message.",
       "mentions_person_refs": [
         "N-5",
-        "N-605",
+        "N-604",
         "N-3"
       ]
     },
@@ -2674,7 +2768,9 @@
       "related_nodes": [
         "N-11145"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:53",
       "investigative_direction": "Obtain the Sky News investigation and the official US statements about missiles beneath the school to compare.",
       "transcript_snippet": "Sky News did an entire investigation. You should watch the entire piece. They debunked every attempt that uh the US tried to put out.",
@@ -2694,13 +2790,15 @@
       "related_nodes": [
         "N-11145"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:35",
       "investigative_direction": "Retrieve the original press-conference recordings for both quotes.",
       "transcript_snippet": "My opinion, based on what I've seen, that was done by Iran.",
       "mentions_person_refs": [
         "N-5",
-        "N-605"
+        "N-604"
       ]
     },
     {
@@ -2715,7 +2813,9 @@
       "related_nodes": [
         "N-11145"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:34",
       "investigative_direction": "Review the full Sky News report and any DoD inquiry findings about the 2019 analyst note.",
       "transcript_snippet": "One analyst reviewing intelligence on potential targets did reportedly spot the school in 2019."
@@ -2730,7 +2830,9 @@
       "related_nodes": [
         "N-11145"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:35",
       "investigative_direction": "Review the DoD formal investigation findings once released for the target-selection chain.",
       "transcript_snippet": "They knew every body that was moving in that school and they chose to bomb it.",
@@ -2749,7 +2851,9 @@
         "N-11145",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:35",
       "investigative_direction": "Treat as the host's stated religious belief; no records exist to confirm or refute it.",
       "transcript_snippet": "My honest belief, my honest belief is because we are looking at people who worship Bal and it was a sacrifice to demons.",
@@ -2767,7 +2871,9 @@
       "related_nodes": [
         "N-11145"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:35",
       "investigative_direction": "Treat as the host's analogy; compare government denials in both matters against dated records.",
       "transcript_snippet": "if you think that people that lie like that would not be capable of hiding up the murder of Charlie Kirk, they just killed 150 kids and didn't blink when they lied to you.",
@@ -2786,7 +2892,9 @@
       "related_nodes": [
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:35",
       "investigative_direction": "Check humanitarian and UN reports on strikes against Iranian bridges and water infrastructure.",
       "transcript_snippet": "bombing their bridges and striking their water so they can't drink water",
@@ -2804,7 +2912,9 @@
         "A-2240.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:27",
       "investigative_direction": "Review Trump's reposts and Levin communications during the Iran war to check the host's characterization.",
       "transcript_snippet": "Whose call was he taking? Who is he retweeting? Psychos like actual psychopaths like Mark Levvin",
@@ -2826,7 +2936,9 @@
       "related_nodes": [
         "N-11057"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:08",
       "investigative_direction": "Collect public evidence of Kirk's working relationship with Neff, such as texts, show credits and on-air mentions.",
       "transcript_snippet": "I don't believe anything about Charlie being close to Blake.",
@@ -2847,7 +2959,9 @@
         "N-11057",
         "N-10006"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:02",
       "investigative_direction": "Verify Neff's departure from Fox News and any Tucker Carlson role in his hiring.",
       "transcript_snippet": "the only reason he's sitting there is because Tucker Carlson uh did what he could to help him after he got let go from the from Fox",
@@ -2870,7 +2984,9 @@
         "N-10751",
         "N-10323"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:02",
       "investigative_direction": "Obtain burial or cremation records and funeral home statements for Charlie Kirk's funeral arrangements.",
       "transcript_snippet": "That's what's odd about the entire thing and why we covered um this idea of a mock funeral that was done and potentially him being cremated.",
@@ -2893,7 +3009,9 @@
       "related_nodes": [
         "N-10754"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:05",
       "investigative_direction": "Collect the TPUSA-aligned posts reacting to the footage and the 'baby could do that crawl' comment.",
       "transcript_snippet": "Their first thing to do when we release the footage rather than saying thank you is to try to debunk it. Like, oh, a baby could do that crawl.",
@@ -2916,7 +3034,9 @@
       "related_nodes": [
         "N-10725"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:22",
       "investigative_direction": "Ask UVU and USU police which officers on the rooftop wore body cams and obtain their footage logs.",
       "transcript_snippet": "Kate Grand Rapids writes, \"Uh, no other rooftop officers had body cam.\"",
@@ -2932,7 +3052,9 @@
       "claim": "The host says Frank Turek has used similar rhetoric before, including a segment asking why the Mossad had not killed Candace Owens and Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:11",
       "investigative_direction": "Find the earlier Turek segment with the Mossad remark and confirm the wording.",
       "transcript_snippet": "Like he did this whole thing where he was like, \"Why hasn't the MSAD killed Candace and Tucker Carlson?\"",

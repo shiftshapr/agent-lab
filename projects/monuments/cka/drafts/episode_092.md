@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: cd44ed40636c60c09236975a1e80639d46ee6820f268322c974d2c67580290dd
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-905, N-906, N-907, N-11297, N-11298
+  - Tip-minted Nodes (supplement_2026-10e): N-904, N-905, N-906, N-11297, N-11298
   - Hole-minted Nodes (reintro-ep092): N-10751
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11375–C-11435
   - New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10612, N-10613, N-10614, N-10615
-  - Reused Nodes Appearing: N-2, N-14, N-4, N-332, N-17, N-33, N-40, N-42, N-82, N-94, N-204, N-213, N-242, N-286, N-430, N-459, N-460, N-461, N-471, N-612, N-702, N-816, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611
+  - Reused Nodes Appearing: N-2, N-14, N-4, N-332, N-17, N-33, N-40, N-42, N-82, N-94, N-204, N-213, N-242, N-286, N-430, N-459, N-460, N-461, N-471, N-611, N-701, N-815, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611
   - Hole-minted Nodes (wave3): N-434
   - Hole-minted Nodes (wave1): N-348, N-349
   - (see registers)
@@ -685,7 +685,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-905** Savannah Hernandez
+**N-904** Savannah Hernandez
 
 First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.
 
@@ -733,7 +733,7 @@ Engaged to Bettina Anderson, per the host.
 
 ---
 
-**N-906** Bettina Anderson
+**N-905** Bettina Anderson
 
 First named by the host at 00:16:56 in episode 92 (spelled Betina). Fiancee of Donald Trump Jr. whose bridal shower the host says Erika Kirk attended.
 
@@ -773,7 +773,7 @@ Named in the host's list of Trump remarks.
 
 ---
 
-**N-612** Scott Bessent
+**N-611** Scott Bessent
 
 Treasury Secretary the host says issued a letter on demand.
 
@@ -822,7 +822,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-907** David J. Harris
+**N-906** David J. Harris
 
 First named by the host at 00:40:01 in episode 92 (David Harris). Business partner in the Marx supplements, per the host.
 
@@ -854,7 +854,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-702** Otto Busher
+**N-701** Otto Busher
 
 Colonel the host links to Fort Huachuca and Romanian Angels.
 
@@ -902,7 +902,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-816** Andrew Piscatello
+**N-815** Andrew Piscatello
 
 Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms.
 
@@ -1437,7 +1437,7 @@ Claim: On Fox News, Andrew Kolvet said that cancelling Erika Kirk's appearance w
 Transcript Snippet: which I think is the first time that we've ever had to make that decision in Turning Point history.
 
 Anchored Artifacts: A-1967.1
-Mentions: N-14, N-905, N-2
+Mentions: N-14, N-904, N-2
 Related Nodes: N-10607
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News segment and reporting on the Savannah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances.
@@ -1617,7 +1617,7 @@ Claim: The host says Erika Kirk was at the White House over the weekend and at t
 Transcript Snippet: She was at Betina Betina at Mara Lago, the one who's marrying Don Trump Jr., she was at her bridal shower.
 
 Anchored Artifacts: 
-Mentions: N-2, N-33, N-906
+Mentions: N-2, N-33, N-905
 Related Nodes: N-10607
 Tags: relevance:context
 Investigative Direction: Check reporting and guest accounts of the bridal shower and Erika Kirk's White House visit that weekend.
@@ -1698,7 +1698,7 @@ Claim: In the clip played, JD Vance says critics should go after the left-wing r
 Transcript Snippet: not the left-wing radicals who are assaulting Savannah or not the people who shot Charlie Kirk
 
 Anchored Artifacts: A-1966.2
-Mentions: N-4, N-1, N-905
+Mentions: N-4, N-1, N-904
 Related Nodes: N-10607
 Tags: relevance:core
 Investigative Direction: Obtain the full Vance remarks and check whether the plural was scripted or an error.
@@ -1776,7 +1776,7 @@ Claim: The host says Erika Kirk can get Treasury Secretary Scott Bessent to issu
 Transcript Snippet: She can get uh the Secretary Scott Bessence to issue a letter on demand demanding you stop looking into their finances.
 
 Anchored Artifacts: 
-Mentions: N-2, N-612, N-3
+Mentions: N-2, N-611, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the Bessent letter and its recipient and date, and any Treasury statement about TPUSA finances.
@@ -1968,7 +1968,7 @@ Claim: The host says that Victor Marx had a supplement venture with David Harris
 Transcript Snippet: You had supplements that you were doing with David Harris.
 
 Anchored Artifacts: 
-Mentions: N-348, N-907, N-3
+Mentions: N-348, N-906, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the supplement brand and its ownership records.
@@ -1984,7 +1984,7 @@ Claim: The host says it was said that proceeds from the Marx and David Harris su
 Transcript Snippet: David Harris calls God Papa. I don't know. And he like you guys said that like proceed the supplements were going to help human sex trafficking victims.
 
 Anchored Artifacts: 
-Mentions: N-348, N-907, N-3
+Mentions: N-348, N-906, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Obtain the supplement marketing claims and any charity disbursement records.
@@ -2067,7 +2067,7 @@ Claim: The host says Colonel Otto Busher, the civilian commander stationed at Fo
 Transcript Snippet: he worked with Romanian Angels which was her charity uh the civilian commander stationed at Fort Wuka charged with running a child sex abuse ring
 
 Anchored Artifacts: A-3132.1
-Mentions: N-702, N-2, N-3
+Mentions: N-701, N-2, N-3
 Related Nodes: N-11165, N-10401
 Tags: relevance:core
 Investigative Direction: Obtain Army and court records for the charge against Busher and any Romanian Angels staff or board listing.
@@ -2116,7 +2116,7 @@ Claim: The host says Andrew Piscatello, who was detained that day, works to rais
 Transcript Snippet: Andrew Pascadlo, uh that was the person who was detained that day, uh works to ring the alarm on military Ukrainian sex trafficking in the United States.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-816, N-3
+Mentions: N-815, N-3
 Related Nodes: N-10325
 Supports: C-8161
 Tags: relevance:core

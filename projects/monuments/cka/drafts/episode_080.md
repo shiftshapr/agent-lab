@@ -489,7 +489,7 @@ Claim Timestamp: 00:15:58
 Claim: Alan Dershowitz publicly referred to Kent as a "neo-Nazi Jew hating Israel basher" who had quit the administration.
 
 Anchored Artifacts: A-1866.1
-Mentions: N-546
+Mentions: N-545
 
 Related Nodes: N-10546
 
@@ -735,7 +735,7 @@ Claim Timestamp: 00:31:39
 Claim: Erica Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.
 
 Anchored Artifacts: A-1869.1
-Mentions: N-2, N-594
+Mentions: N-2, N-593
 
 Related Nodes: N-10545
 
@@ -750,7 +750,7 @@ Claim Timestamp: 00:31:39
 Claim: Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.
 
 Anchored Artifacts: A-1869.1
-Mentions: N-2, N-594
+Mentions: N-2, N-593
 
 Related Nodes: N-10545
 

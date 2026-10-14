@@ -812,8 +812,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-533",
-      "ref": "N-533",
+      "@id": "N-532",
+      "ref": "N-532",
       "name": "Peter Thiel",
       "type": "person",
       "description": "Named by the host (as 'Peter Teal') as giving interviews about the Antichrist.",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-544",
-      "ref": "N-544",
+      "@id": "N-543",
+      "ref": "N-543",
       "name": "Julian Assange",
       "type": "person",
       "description": "Named in the Pompeo and CIA discussion.",
@@ -1011,8 +1011,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-731",
-      "ref": "N-731",
+      "@id": "N-730",
+      "ref": "N-730",
       "name": "Kathy O'Brien",
       "type": "person",
       "description": "First named by the host at 00:51:51 in episode 57, reading a comment recommending her and her book Transformation of America.",
@@ -1894,7 +1894,7 @@
       "investigative_direction": "Locate Peter Thiel's recorded lectures and interviews on the Antichrist, with dates, and see how the host characterizes them.",
       "transcript_snippet": "Maybe like people like Peter Teal, he's like going around giving interviews asking about the Antichrist.",
       "mentions_person_refs": [
-        "N-533"
+        "N-532"
       ]
     },
     {
@@ -2246,7 +2246,7 @@
         "N-3",
         "N-22",
         "N-466",
-        "N-544"
+        "N-543"
       ]
     },
     {
@@ -2268,7 +2268,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-466",
-        "N-544"
+        "N-543"
       ]
     },
     {
@@ -2502,7 +2502,7 @@
       "transcript_snippet": "I know about Project Monarch. We've spoken about it on this show um as being the precursor to what the Nazis did here",
       "mentions_person_refs": [
         "N-3",
-        "N-731"
+        "N-730"
       ]
     },
     {

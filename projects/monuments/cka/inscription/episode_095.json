@@ -32,7 +32,7 @@
             "C-3832"
           ],
           "related_nodes": [
-            "N-576",
+            "N-575",
             "N-267",
             "N-1",
             "N-10799",
@@ -91,7 +91,7 @@
             "C-3844"
           ],
           "related_nodes": [
-            "N-576",
+            "N-575",
             "N-1",
             "N-10908"
           ],
@@ -473,7 +473,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "Transcript spelling \"Justin Streiff\". Named in the host's account of pressure to call her husband about whether she recorded the footage.",
       "related_artifacts": [],
@@ -870,8 +870,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-576",
-      "ref": "N-576",
+      "@id": "N-575",
+      "ref": "N-575",
       "name": "Nicey (YouTuber)",
       "type": "person",
       "description": "Transcript spellings \"Nicci\" and \"Niecy\". Her analysis argues the back-camera footage was zoomed or cropped and documents the platform setup.",
@@ -892,8 +892,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-613",
-      "ref": "N-613",
+      "@id": "N-612",
+      "ref": "N-612",
       "name": "Melania Trump",
       "type": "person",
       "description": "First named by the host at 00:36:45 in episode 095. Referred to as \"Melania\"; people in her circle are said to have called Laura Loomer the person most likely to harm Donald Trump.",
@@ -1481,7 +1481,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-576"
+        "N-575"
       ]
     }
   ],
@@ -1562,7 +1562,7 @@
       "investigative_direction": "Obtain the original, unedited SD-card file and compare its frame dimensions and metadata with the version shown on FaceTime.",
       "transcript_snippet": "Nicci discovered that the camera footage which was shown to me on FaceTime was likely edited.",
       "mentions_person_refs": [
-        "N-576",
+        "N-575",
         "N-267",
         "N-3",
         "N-1"
@@ -1586,7 +1586,7 @@
       "investigative_direction": "Collect TPUSA livestream archives for each 2025 tour stop and compare back-camera framing.",
       "transcript_snippet": "On February 28th, 2025, the American Comeback Tour did a stop at Florida State University and here is the back camera shot.",
       "mentions_person_refs": [
-        "N-576"
+        "N-575"
       ]
     },
     {
@@ -1790,7 +1790,7 @@
       "investigative_direction": "Subpoena the native back-camera file and compare its field of view with the FaceTime version.",
       "transcript_snippet": "So yes, Niecy, I I agree with you um that it is very likely that he zoomed in on that footage and I believe the reason he did that was to obscure our view of the ground",
       "mentions_person_refs": [
-        "N-576",
+        "N-575",
         "N-267"
       ]
     },
@@ -2322,7 +2322,7 @@
       "investigative_direction": "Identify any on-record source from Melania Trump's staff or associates.",
       "transcript_snippet": "as I understand it, Melania is in her circle, have said this, that she would be the most likely person to harm Donald Trump.",
       "mentions_person_refs": [
-        "N-613",
+        "N-612",
         "N-60",
         "N-5"
       ]

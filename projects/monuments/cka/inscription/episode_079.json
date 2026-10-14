@@ -74,7 +74,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-603"
+            "N-602"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -102,7 +102,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-604",
+            "N-603",
             "N-5",
             "N-10539"
           ],
@@ -159,7 +159,7 @@
             "C-2482"
           ],
           "related_nodes": [
-            "N-603",
+            "N-602",
             "N-3"
           ],
           "tags": [],
@@ -243,7 +243,7 @@
             "C-2485"
           ],
           "related_nodes": [
-            "N-605",
+            "N-604",
             "N-5",
             "N-10541"
           ],
@@ -435,7 +435,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-606",
+            "N-605",
             "N-10541"
           ],
           "tags": [],
@@ -518,7 +518,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-607",
+            "N-606",
             "N-10543"
           ],
           "tags": [],
@@ -917,8 +917,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-603",
-      "ref": "N-603",
+      "@id": "N-602",
+      "ref": "N-602",
       "name": "Meghan McCain",
       "type": "person",
       "description": "Author of X post A-1849.1 and subject of Charlie Kirk text A-1846.3.",
@@ -942,8 +942,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-604",
-      "ref": "N-604",
+      "@id": "N-603",
+      "ref": "N-603",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Co-party to text exchange A-1847.1 with Charlie Kirk regarding Iran war.",
@@ -1036,8 +1036,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-604",
+      "ref": "N-604",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Speaker in audio clip A-1852.1 regarding Strait of Hormuz.",
@@ -1088,8 +1088,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-606",
-      "ref": "N-606",
+      "@id": "N-605",
+      "ref": "N-605",
       "name": "Georgia Meloni",
       "type": "person",
       "description": "Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.",
@@ -1110,8 +1110,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-607",
-      "ref": "N-607",
+      "@id": "N-606",
+      "ref": "N-606",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Quoted by host in article A-1856.1.",
@@ -1174,7 +1174,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-604",
+        "N-603",
         "N-5"
       ]
     },
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-532",
-      "ref": "N-532",
+      "@id": "N-531",
+      "ref": "N-531",
       "name": "Rothschild Family",
       "type": "person",
       "description": "Family the host asserts created Israel and Macron.",
@@ -2088,7 +2088,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-603"
+        "N-602"
       ]
     },
     {
@@ -2109,7 +2109,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-5",
-        "N-604"
+        "N-603"
       ]
     },
     {
@@ -2129,7 +2129,7 @@
       "investigative_direction": "Verify original message; cross-reference with contemporaneous public statements.",
       "mentions_person_refs": [
         "N-1",
-        "N-604"
+        "N-603"
       ]
     },
     {
@@ -2166,7 +2166,7 @@
       "investigative_direction": "Direct retrieval of the original X post via archive.",
       "mentions_person_refs": [
         "N-3",
-        "N-603"
+        "N-602"
       ]
     },
     {
@@ -2224,7 +2224,7 @@
       "investigative_direction": "Obtain the full press exchange transcript and date.",
       "mentions_person_refs": [
         "N-5",
-        "N-605"
+        "N-604"
       ]
     },
     {
@@ -2293,7 +2293,7 @@
       "mentions_person_refs": [
         "N-5",
         "N-387",
-        "N-606"
+        "N-605"
       ]
     },
     {
@@ -2389,7 +2389,7 @@
       "investigative_direction": "Retrieve the original published article (Substack or platform); verify publication date.",
       "mentions_person_refs": [
         "N-3",
-        "N-607"
+        "N-606"
       ]
     },
     {
@@ -2403,7 +2403,9 @@
         "N-10541",
         "N-11295"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Capture the White House or official social accounts' Iran-war meme posts with dates to confirm the Mortal Kombat style content.",
       "transcript_snippet": "Uh the White House can keep posting their super fake and gay Mortal Kombat type memes. Like, finish him. Scorpion. We did this in Iran.",
@@ -2421,7 +2423,9 @@
       "related_nodes": [
         "N-10540"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:53",
       "investigative_direction": "Collect Levin's and allied commentators' public calls to jail Carlson, and any White House statement on the CIA referral.",
       "transcript_snippet": "Trump has apparently allowed Mark Levin's special class of psychos to go after Tucker Carlson. They want to They want to imprison him. They are explicit in that demand.",
@@ -2444,7 +2448,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:02",
       "investigative_direction": "Retrieve Shapiro's original X posts about Kelly and Morgan from the weekend before 2026-03-16 and compare the wording.",
       "transcript_snippet": "Meghan is a coward. Piers Morgan is a click whore.",
@@ -2467,7 +2473,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:02",
       "investigative_direction": "Retrieve Kelly's original reply post and check whether the host's reading is complete and in order.",
       "transcript_snippet": "Why have they been stalking and harassing Megyn Kelly? Nobody knows.",
@@ -2489,7 +2497,9 @@
       "related_nodes": [
         "N-10237"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:01",
       "investigative_direction": "Retrieve Shapiro's original reply post and check whether it names the host or the accusation she is said to have made.",
       "transcript_snippet": "You won't even protect Charlie Kirk's widow from the monster accusing her of murdering Charlie.",
@@ -2512,7 +2522,9 @@
         "N-10386",
         "N-11064"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:43",
       "investigative_direction": "Identify the journalists and pieces the host alleges were commissioned and obtain her contemporaneous messages with Kirk about them.",
       "transcript_snippet": "Ben operated behind the scenes to try to stop his rise the same way he's treating Megyn Kelly.",
@@ -2539,7 +2551,9 @@
       "related_nodes": [
         "N-10543"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:35",
       "investigative_direction": "Ask Yiannopoulos for the original post and the messages he says Kirk showed him; verify against Kirk's phone records.",
       "transcript_snippet": "all he talked about was how was how amazing Candace was and how effing evil Ben is.",
@@ -2564,7 +2578,9 @@
         "N-10543",
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:35",
       "investigative_direction": "Compare Kirk's pre-2025 and 2025 public statements on Israel and the host's private texts to date the alleged shift.",
       "transcript_snippet": "I'm going to attack his friends over the topic of Israel, a topic which Charlie had actually changed his mind on.",
@@ -2586,7 +2602,9 @@
       "related_nodes": [
         "N-10543"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:50",
       "investigative_direction": "Obtain device-level forensic verification of the thread and its date relative to the Shapiro table incident.",
       "transcript_snippet": "Stand for truth. The people are with you. Thank you, Charlie.",
@@ -2608,7 +2626,9 @@
       "related_nodes": [
         "N-10543"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:50",
       "investigative_direction": "Match the text's timestamp to the Shapiro table/couch incident the host describes and verify the thread forensically.",
       "transcript_snippet": "And he then laughs and wrote, \"BTW, he was standing on a couch.\" And I wrote, \"Haha, so good.\"",
@@ -2628,7 +2648,9 @@
       "related_nodes": [
         "N-10543"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:50",
       "investigative_direction": "Request a count and an independent forensic export of the thread; compare with earlier counts the host has given.",
       "transcript_snippet": "I have about 300 messages between me and Charlie to that effect, okay?",
@@ -2650,7 +2672,9 @@
         "N-10543",
         "N-11064"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:46",
       "investigative_direction": "Collect TPUSA statements and speeches since September 2025 that describe Kirk's views on Shapiro and the Talmud.",
       "transcript_snippet": "they are now trying to package to us as like a faithful Talmudic Jew who was friends with Ben Shapiro.",
@@ -2674,7 +2698,9 @@
         "N-10000",
         "N-10543"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Review TPUSA leadership communications under Erika Kirk on Kirk's Israel and Shapiro positions.",
       "transcript_snippet": "A reversal made infinitely more evil by the fact that his wife is at the helm of the company. She could stop that.",
@@ -2697,7 +2723,9 @@
         "N-10539",
         "N-10674"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Establish what direct contact, if any, Kirk had with Netanyahu in June 2025 and what Trump decided after the two White House days.",
       "transcript_snippet": "back when Charlie went toe-to-toe with Bibi Netanyahu and won.",
@@ -2708,7 +2736,7 @@
         "N-1",
         "N-36",
         "N-5",
-        "N-604"
+        "N-603"
       ]
     },
     {
@@ -2724,12 +2752,14 @@
         "N-10539",
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Obtain Weinstein's original post and date; ask him what basis exists beyond the timing of Kirk's opposition.",
       "transcript_snippet": "it is reasonable to wonder if his refusal to back down from his steadfast opposition somehow resulted in his murder.",
       "mentions_person_refs": [
-        "N-604",
+        "N-603",
         "N-1",
         "N-5"
       ]
@@ -2746,12 +2776,14 @@
       "related_nodes": [
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:38",
       "investigative_direction": "Obtain Weinstein's full post and identify which investigative product he judges inadequate.",
       "transcript_snippet": "A good investigation could have settled the matter. What we got only increases the reason for concern.",
       "mentions_person_refs": [
-        "N-604",
+        "N-603",
         "N-1"
       ]
     },
@@ -2767,12 +2799,14 @@
       "related_nodes": [
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:38",
       "investigative_direction": "Find Kirk's recorded or texted worries about his own safety and about the Iran decision to test Weinstein's final phrase.",
       "transcript_snippet": "the timing of his death removed him from the equation and likely changed the course of history.",
       "mentions_person_refs": [
-        "N-604",
+        "N-603",
         "N-1"
       ]
     },
@@ -2788,13 +2822,15 @@
       "related_nodes": [
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Verify the full June 18 thread, which the host says she reads in part.",
       "transcript_snippet": "driving real-time mass public opinion yet. The neocons are.",
       "mentions_person_refs": [
         "N-1",
-        "N-604"
+        "N-603"
       ]
     },
     {
@@ -2809,7 +2845,9 @@
       "related_nodes": [
         "N-10543"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:29",
       "investigative_direction": "Retrieve Neff's original post and verify Shapiro's 2024 primary endorsement and Kirk's endorsement date.",
       "transcript_snippet": "Ben supported Ron DeSantis in the 2024 primary while Charlie was all in for Trump from the start.",
@@ -2832,7 +2870,9 @@
       "related_nodes": [
         "N-11057"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:27",
       "investigative_direction": "Establish Neff's start date at TPUSA and compare with the founding timeline Kirk described.",
       "transcript_snippet": "Blake was not even around for the building of Turning Point.",
@@ -2854,7 +2894,9 @@
         "N-10900",
         "N-10391"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:07",
       "investigative_direction": "Ask the host what scandal she means and compare with the Daily Wire founding narrative.",
       "transcript_snippet": "Ben Shapiro was trying to take Andrew Breitbart's legacy and recreate it by manufacturing a scandal with The Daily Wire.",
@@ -2876,7 +2918,9 @@
         "N-10386",
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:07",
       "investigative_direction": "Identify the donors and the speakers the host says Shapiro tried to bar, with dated messages or call logs.",
       "transcript_snippet": "he went behind the scenes with his connections to the donors and started squeezing Charlie and trying to control who he could speak to.",
@@ -2901,7 +2945,9 @@
         "N-10000",
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:34",
       "investigative_direction": "Obtain the AmFest 2025 program and the video of the opening remarks and the invitation chain for Shapiro.",
       "transcript_snippet": "they allowed Charlie's rival to open AmFest by dissing Charlie's friends.",
@@ -2924,7 +2970,9 @@
       "related_nodes": [
         "N-10236"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:31",
       "investigative_direction": "Obtain the video of the Kelly tour stop where Shapiro appeared and its date.",
       "transcript_snippet": "That's what he initially did to Megyn Kelly on her tour, no less, on stage.",
@@ -2947,7 +2995,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:31",
       "investigative_direction": "Locate the video of the table moment and the date of the host's genocide tweet.",
       "transcript_snippet": "He infamously stood up on that table while I was employed by a company that he was a part owner of.",
@@ -2967,7 +3017,9 @@
       "claim": "The host says Michael Knowles is the godfather to her daughter, which she calls a literal spiritual connection.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:11",
       "investigative_direction": "Confirm through a baptismal record or a Knowles statement.",
       "transcript_snippet": "Michael Knowles is the godfather to my daughter, okay?",
@@ -2987,7 +3039,9 @@
         "A-1851.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:54",
       "investigative_direction": "Obtain the full video of the public discussion with its date and venue.",
       "transcript_snippet": "I I think that it's wrong to attack Erika Curren.",
@@ -3013,7 +3067,9 @@
       "related_nodes": [
         "N-10543"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:51",
       "investigative_direction": "Request the complete thread to compare with the excerpt read on air.",
       "transcript_snippet": "Yes, it's real. And I actually shortened it.",
@@ -3022,7 +3078,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-603",
+        "N-602",
         "N-1"
       ]
     },
@@ -3036,7 +3092,9 @@
       "related_nodes": [
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:48",
       "investigative_direction": "Check EIA or IEA transit figures for the Strait of Hormuz.",
       "transcript_snippet": "roughly 25% of the global liquid petroleum moves through this tiny little choke point",
@@ -3056,7 +3114,9 @@
       "related_nodes": [
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:10",
       "investigative_direction": "Check shipping-traffic data and Iranian statements on the strait's status on the broadcast date.",
       "transcript_snippet": "Iran's just like, \"We're going to shut that down because we can.\"",
@@ -3074,7 +3134,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:52",
       "investigative_direction": "Compare the intelligence and diplomatic record before the strike with Netanyahu's public and private requests.",
       "transcript_snippet": "Nothing was happening other than BB wanted the fight with Iran",
@@ -3094,7 +3156,9 @@
       "related_nodes": [
         "N-11145"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:52",
       "investigative_direction": "Compare casualty counts and US statements on the Minab school strike with the host's figure.",
       "transcript_snippet": "We also randomly bombed 200 schoolgirls in Iran, and then we lied about it.",
@@ -3113,7 +3177,9 @@
       "related_nodes": [
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:35",
       "investigative_direction": "Obtain the Trump statement or order the host refers to and force-readiness reporting.",
       "transcript_snippet": "Trump is now demanding ground troops that he doesn't have, okay?",
@@ -3132,7 +3198,9 @@
       "related_nodes": [
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:35",
       "investigative_direction": "Collect Trump administration requests to allies for ships or troops for Hormuz operations.",
       "transcript_snippet": "So, Trump is now reduced to going around and asking or demanding other countries to get involved.",
@@ -3152,13 +3220,15 @@
       "claim": "The host says Macron is saying what the Rothschilds told him to say because the Rothschilds are Israel, created Israel and created Emmanuel Macron.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:28:13",
       "investigative_direction": "No primary record offered; ask the host for any document linking the Rothschild family to Macron's career or to Israel's founding.",
       "transcript_snippet": "the Rothschilds are Israel, they created Israel, and they created Emmanuel Macron.",
       "mentions_person_refs": [
         "N-387",
-        "N-532",
+        "N-531",
         "N-3"
       ]
     },
@@ -3172,7 +3242,9 @@
       "related_nodes": [
         "N-10544"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:13",
       "investigative_direction": "Compile Netanyahu's dated public appearances in March 2026 and forensic analysis of the videos in question.",
       "transcript_snippet": "Nobody knows where Bibi Netanyahu is or why these weird videos look so AI when he's speaking.",
@@ -3191,7 +3263,9 @@
       "related_nodes": [
         "N-10544"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:05",
       "investigative_direction": "Obtain proof-of-life reporting and Israeli government statements on his whereabouts.",
       "transcript_snippet": "So, I think he's dead, I don't know.",
@@ -3213,7 +3287,9 @@
       "related_nodes": [
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:21",
       "investigative_direction": "Collect regional allies' public statements before the strike and compare with Trump's claim of allies.",
       "transcript_snippet": "They've all said don't do this except for Israel.",
@@ -3237,7 +3313,9 @@
       "related_nodes": [
         "N-10542"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:14",
       "investigative_direction": "Check the embassy compound's size against published figures and the dates of attacks on it.",
       "transcript_snippet": "It's bigger than Vatican City.",
@@ -3255,7 +3333,9 @@
       "related_nodes": [
         "N-11294"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:39",
       "investigative_direction": "Identify the specific polls and their methodology and compare with independent polling.",
       "transcript_snippet": "Right before we went to Iran, they started faking polls in such an egregious manner.",
@@ -3274,7 +3354,9 @@
       "related_nodes": [
         "N-11294"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:39",
       "investigative_direction": "Use platform bot-detection or academic studies of Iran-war comment activity.",
       "transcript_snippet": "they have these bots now in every comment section and nobody they're just sock puppets telling you everyone loves like wants to bomb Iran.",
@@ -3294,13 +3376,15 @@
       "related_nodes": [
         "N-11294"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:50",
       "investigative_direction": "Ask the host for the studies or documents behind the 'millions of bots' figure.",
       "transcript_snippet": "They have purchased views, influencers and journalists. They have activated millions of online bots.",
       "mentions_person_refs": [
         "N-3",
-        "N-607"
+        "N-606"
       ]
     },
     {
@@ -3316,7 +3400,9 @@
         "N-11103",
         "N-11096"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:50",
       "investigative_direction": "Compare with the record of the TikTok divestiture and its new ownership.",
       "transcript_snippet": "They even went so far as to stage an open takeover of TikTok when they grew incensed that the youth was sympathetic to Palestine.",
@@ -3337,7 +3423,9 @@
         "N-11128",
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:36",
       "investigative_direction": "Seek polling on public belief about the motive for Kirk's killing.",
       "transcript_snippet": "the overwhelming majority of people in the world sense that Charlie Kirk was murdered for opposing this war and that Israel's hands are not clean in the story.",
@@ -3359,7 +3447,9 @@
         "A-1856.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:15",
       "investigative_direction": "Ask the host which specific murders and lawsuits she means.",
       "transcript_snippet": "Zionists continue to use tactics of slander, deception, lawfare, and yes, murder to force their perspectives.",
@@ -3377,7 +3467,9 @@
       "related_nodes": [
         "N-11228"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:13",
       "investigative_direction": "Check the chart provider and date of the ranking the host cites.",
       "transcript_snippet": "me and Joe Rogan are in a three-way tie with one other podcast uh for the top podcasts.",
@@ -3396,7 +3488,9 @@
       "related_nodes": [
         "N-11228"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:13",
       "investigative_direction": "Compare podcast-ranking data with disclosed ad spending, if any.",
       "transcript_snippet": "They're buying those things through ads. It's fake. The numbers are not real.",
@@ -3419,7 +3513,9 @@
         "N-10541",
         "N-11295"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:49",
       "investigative_direction": "Identify the original social posts in the clip and the account that posted them.",
       "transcript_snippet": "This is what they're posting on social media. They think we're this dumb that they were going to take down Iran.",
@@ -3443,7 +3539,9 @@
         "N-10540",
         "N-10082"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:23",
       "investigative_direction": "Ask Carlson or the CIA how the texts were obtained and under what authority.",
       "transcript_snippet": "Well, talking to people in Iran before the war. They read my texts.",
@@ -3466,7 +3564,9 @@
       "related_nodes": [
         "N-10540"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:06",
       "investigative_direction": "Examine Carlson's financial disclosures and any FARA filings or inquiries.",
       "transcript_snippet": "I've also never taken money from anybody. Don't need it, don't want it and that's provable.",
@@ -3487,7 +3587,9 @@
         "N-10540",
         "N-10082"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:47",
       "investigative_direction": "Review prior leaks of investigations of Carlson and any inspector general review.",
       "transcript_snippet": "the main reason they do it is to leak the existence of the investigation, such as it is, to the media and then humiliate and terrify the subjects of this op",
@@ -3503,7 +3605,9 @@
       "claim": "The host says Bill Ackman was retweeting accounts attacking her after she said people should conscientiously object to this war, including accounts claiming a federal statute could send her to prison.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:44",
       "investigative_direction": "Retrieve Ackman's retweets and the original host post.",
       "transcript_snippet": "he was retweeting when I said people should conscientiously object to this war because they should.",
@@ -3524,7 +3628,9 @@
       "related_nodes": [
         "N-10540"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:22",
       "investigative_direction": "Check Loomer's accounts for any published list and any DOJ confirmation of receiving it.",
       "transcript_snippet": "She keeps alluding to it, but she never published.",
@@ -3546,7 +3652,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:20",
       "investigative_direction": "This is the host's characterization; test it against polling on belief in the official account.",
       "transcript_snippet": "this hypnosis of us saying having people repeat that it was Tyler Robinson doesn't seem to be working.",
@@ -3565,7 +3673,9 @@
       "related_nodes": [
         "N-10962"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:13",
       "investigative_direction": "Check tanker-tracking and Venezuelan export records for shipments to Israel.",
       "transcript_snippet": "as we're sending barrels of oil from Venezuela to Israel.",
@@ -3587,7 +3697,9 @@
         "N-10132",
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:39",
       "investigative_direction": "Find Kirk's own recorded statements on each of the three positions, particularly the TPUSA audit.",
       "transcript_snippet": "Three things that Charlie Kirk was for: no war with Iran, release the Epstein files, and audit to TPUSA.",
@@ -3607,7 +3719,9 @@
       "related_nodes": [
         "N-11145"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:09",
       "investigative_direction": "Ask the host for any evidentiary basis; treat as rhetorical assertion.",
       "transcript_snippet": "These Israel worship it's it's ball worship. I mean, they they have to sacrifice children.",
@@ -3627,7 +3741,9 @@
       "related_nodes": [
         "N-11145"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:07",
       "investigative_direction": "Compare with official and independent casualty counts for the Minab school strike; the host herself said 200 earlier.",
       "transcript_snippet": "175 schoolgirls are dead and there's no apology.",
@@ -3649,7 +3765,9 @@
         "N-10540",
         "N-10082"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:07",
       "investigative_direction": "Check the DOJ FARA registry and past DOJ rulings on AIPAC's registration status.",
       "transcript_snippet": "CIA targeting Tucker for talking to Iranians while AIPAC walks free as an unregistered foreign agent.",
@@ -3666,7 +3784,9 @@
       "claim": "The host says that this is what happens when Jared Kushner is running the White House with his father who is in Paris.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:07",
       "investigative_direction": "Document Kushner's official or informal role in the administration in March 2026.",
       "transcript_snippet": "This is what happens when Jared Kushner um is running the White House uh with his father who is in Paris.",

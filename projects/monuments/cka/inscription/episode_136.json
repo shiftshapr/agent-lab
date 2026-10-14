@@ -485,7 +485,7 @@
           ],
           "related_nodes": [
             "N-10772",
-            "N-764"
+            "N-763"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -512,7 +512,7 @@
           "related_nodes": [
             "N-10774",
             "N-3",
-            "N-764"
+            "N-763"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -784,8 +784,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-568",
-      "ref": "N-568",
+      "@id": "N-567",
+      "ref": "N-567",
       "name": "Christopher Hawk",
       "type": "person",
       "description": "First named by the host at 00:17:52 in episode 136.",
@@ -819,8 +819,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-518",
-      "ref": "N-518",
+      "@id": "N-517",
+      "ref": "N-517",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-764",
-      "ref": "N-764",
+      "@id": "N-763",
+      "ref": "N-763",
       "name": "Allan Robertson",
       "type": "person",
       "description": "Named by the host as the red-hat man on the Losee rooftop (C-3199).",
@@ -1521,7 +1521,7 @@
       "claim_timestamp": "00:12:18",
       "investigative_direction": "Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -1540,7 +1540,7 @@
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -1560,7 +1560,7 @@
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -1579,8 +1579,8 @@
       "claim_timestamp": "00:15:40",
       "investigative_direction": "Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.",
       "mentions_person_refs": [
-        "N-568",
-        "N-518"
+        "N-567",
+        "N-517"
       ]
     },
     {
@@ -1600,8 +1600,8 @@
       "claim_timestamp": "00:16:47",
       "investigative_direction": "Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.",
       "mentions_person_refs": [
-        "N-568",
-        "N-764"
+        "N-567",
+        "N-763"
       ]
     },
     {
@@ -1621,7 +1621,7 @@
       "claim_timestamp": "00:18:43",
       "investigative_direction": "Verify Hawk's presence and role through credential records and follow-up witness interviews.",
       "mentions_person_refs": [
-        "N-568"
+        "N-567"
       ]
     },
     {
@@ -1791,7 +1791,7 @@
       "claim_timestamp": "00:18:43",
       "investigative_direction": "Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -1805,7 +1805,9 @@
         "N-10000",
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:49",
       "investigative_direction": "Compare TPUSA's current public statements with Kirk's dated on-air statements to identify which positions were reversed.",
       "transcript_snippet": "Turning Point USA, they've been experiencing a lot of pregnancy brain when it comes to the positions that Charlie held throughout his entire career, which they've just reversed course on.",
@@ -1826,7 +1828,9 @@
       "related_nodes": [
         "N-10771"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:55",
       "investigative_direction": "Obtain the original photograph of the door compartment and the SUV's evidence inventory to establish what the object is.",
       "transcript_snippet": "Do not forget that in the SUV that transported Charlie to the hospital, there were black gloves that were left in the left side door right in the back.",
@@ -1848,7 +1852,9 @@
       "related_nodes": [
         "N-10219"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:55",
       "investigative_direction": "Obtain McCoy's full recording set for the week of September 10 and its metadata to establish provenance and filming dates.",
       "transcript_snippet": "turns out that the amazing Mikey McCoy who was suddenly recording Charlie's last moments in the weeks leading up as well.",
@@ -1869,7 +1875,9 @@
         "N-10771",
         "N-10737"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:21",
       "investigative_direction": "Establish the seating chart of the SUV from the occupants' own accounts and any interior photographs.",
       "transcript_snippet": "Brian was definitively not sitting on that side of the car and he was already covered in blood.",
@@ -1891,7 +1899,9 @@
       "related_nodes": [
         "N-10737"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:21",
       "investigative_direction": "Locate the Harpole interview where the nurse account is given and identify the nurse and hospital staff present.",
       "transcript_snippet": "He tells a story about how the nurse wiped it off of his face.",
@@ -1911,7 +1921,9 @@
       "related_nodes": [
         "N-10737"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:31",
       "investigative_direction": "Compare Harpole's and Cutler's own recorded accounts of who did what during the ride.",
       "transcript_snippet": "And we were told that Rick Cutler didn't do nothing but hold Brian Harpole with a tattoo.",
@@ -1933,7 +1945,9 @@
       "related_nodes": [
         "N-10688"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:31",
       "investigative_direction": "Ask hospital staff and the group to confirm who changed clothes, and obtain any hospital security video of the entrance.",
       "transcript_snippet": "Now, we also told you that Rick was among those who allegedly stripped down his clothes at the hospital.",
@@ -1953,7 +1967,9 @@
         "N-10688",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:31",
       "investigative_direction": "Request FBI evidence-receipt records for clothing taken from Cutler and others at the hospital.",
       "transcript_snippet": "we uh were also told that the feds were the ones who allegedly took those clothes thereafter down to his boxer briefs allegedly.",
@@ -1972,7 +1988,9 @@
       "related_nodes": [
         "N-10737"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:24",
       "investigative_direction": "Obtain ER staff statements and the hospital's trauma-bay record for who treated Kirk on arrival.",
       "transcript_snippet": "Particularly the portion where Brian Harpole grabs a gurnie, jumps on top of Charlie in the ER, and begins cutting his shirt while the staff looks on for further instructions",
@@ -1997,7 +2015,9 @@
         "N-10681",
         "N-10737"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:10",
       "investigative_direction": "Pull the Sean Ryan interview and transcribe Harpole's exact words about the medical response.",
       "transcript_snippet": "Even when he describes things in that Sean Ryan interview, he's like, \"We're doing the medical.",
@@ -2016,7 +2036,9 @@
       "related_nodes": [
         "N-10679"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:23",
       "investigative_direction": "Review the FBI DNA report on the screwdriver (listed in sealed exhibits) for the contributor profiles.",
       "transcript_snippet": "We do know it has Lance Twigs's DNA alongside Tyler Robinson's DNA.",
@@ -2036,7 +2058,9 @@
       "related_nodes": [
         "N-10343"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:23",
       "investigative_direction": "Obtain the rifle's disassembly specifications and the exhibit photographs of the screwdriver and screw heads.",
       "transcript_snippet": "we still don't know um if that screwdriver even if a screwdriver even works for that particular gun.",
@@ -2057,7 +2081,9 @@
       "related_nodes": [
         "N-10343"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:18",
       "investigative_direction": "Compare the 12:44 arrival with the 12:47 bystander clip and with the preliminary-hearing transcript.",
       "transcript_snippet": "he gets on to Losi building at 12:44. He discovers that screwdriver 10 to 15 ft past the railing in the gravel.",
@@ -2065,7 +2091,7 @@
         "C-7284"
       ],
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -2081,7 +2107,9 @@
         "N-10772",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:11",
       "investigative_direction": "Obtain the scene access log and FBI arrival documents to test who was authorized on the rooftop at 12:44.",
       "transcript_snippet": "I want to underscore that officer Baggley went onto Losi rooftop after the feds had arrived and had secured and began securing the scene.",
@@ -2089,7 +2117,7 @@
         "C-3194"
       ],
       "mentions_person_refs": [
-        "N-518",
+        "N-517",
         "N-69"
       ]
     },
@@ -2106,7 +2134,9 @@
         "N-10014",
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:11",
       "investigative_direction": "Obtain FBI office addresses and the dispatch/arrival logs for September 10 to test the 16-minute figure.",
       "transcript_snippet": "That is remarkably fast given the FBI um office is actually located in Salt Lake City. That's a 50-minute drive.",
@@ -2129,7 +2159,9 @@
         "N-10014",
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:11",
       "investigative_direction": "Confirm the Provo FBI resident-agency headcount and location through FBI records or FOIA.",
       "transcript_snippet": "They have a little office in a building in Provo nearby that has apparently four agents.",
@@ -2149,13 +2181,15 @@
       "related_nodes": [
         "N-10772"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:58",
       "investigative_direction": "Ask the host for the original submission, sender and metadata of the 12:47 bystander clip.",
       "transcript_snippet": "I went combing through all the footage that was sent to me on September 10th",
       "mentions_person_refs": [
         "N-3",
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -2170,12 +2204,14 @@
       "related_nodes": [
         "N-10772"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:47",
       "investigative_direction": "Review the early scene footage for Robertson giving directions and compare to the incident command roster.",
       "transcript_snippet": "Alan Robertson, as we're going through all that early footage, he actually seems like he's the person that's immediately in charge.",
       "mentions_person_refs": [
-        "N-764",
+        "N-763",
         "N-3"
       ]
     },
@@ -2192,12 +2228,14 @@
       "related_nodes": [
         "N-10772"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:43",
       "investigative_direction": "Obtain the livestream source and review it for the red-hat man's phone use and any other officers' behavior.",
       "transcript_snippet": "You see him walking around and texting and making calls.",
       "mentions_person_refs": [
-        "N-764"
+        "N-763"
       ]
     },
     {
@@ -2213,12 +2251,14 @@
         "N-10725",
         "N-10773"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:43",
       "investigative_direction": "Obtain the UVU police body-camera model specifications and the device's battery and docking logs.",
       "transcript_snippet": "He says the battery died, but the camera had only been running for 27 minutes and these body cameras are supposed to last around 10 hours.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -2233,14 +2273,16 @@
       "related_nodes": [
         "N-10772"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:23",
       "investigative_direction": "Interview officers at the scene about who directed the rooftop response and obtain the command roster.",
       "transcript_snippet": "there seems to be an immediate understanding that this Alan Robertson character who shall not be named is calling the shots.",
       "mentions_person_refs": [
-        "N-764",
+        "N-763",
         "N-267",
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -2255,12 +2297,14 @@
       "related_nodes": [
         "N-10774"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Obtain Robertson's San Bernardino PD employment dates through a California public records request.",
       "transcript_snippet": "But he was also a police officer just before going to Utah in San Bernardino, California.",
       "mentions_person_refs": [
-        "N-764"
+        "N-763"
       ]
     },
     {
@@ -2275,7 +2319,9 @@
       "related_nodes": [
         "N-11309"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Verify the Brady List website's own description of what its entries mean and who maintains them.",
       "transcript_snippet": "it's a uh a database of law enforcement officers who have a documented history of misconduct, dishonesty, or integrity violations.",
@@ -2296,12 +2342,14 @@
         "N-11309",
         "N-10774"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Search the Brady List site for officers from other departments to confirm that not all officers are listed.",
       "transcript_snippet": "I searched online and said nope that's not what they do.",
       "mentions_person_refs": [
-        "N-764"
+        "N-763"
       ]
     },
     {
@@ -2314,12 +2362,14 @@
       "related_nodes": [
         "N-10774"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:55",
       "investigative_direction": "Review public reporting, DOJ findings and court records about San Bernardino PD misconduct.",
       "transcript_snippet": "Obviously, you guys also know there's a lot of corruption in the San Bernardino, California Police Department.",
       "mentions_person_refs": [
-        "N-764",
+        "N-763",
         "N-3"
       ]
     },
@@ -2335,12 +2385,14 @@
       "related_nodes": [
         "N-10774"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:55",
       "investigative_direction": "Obtain USU hiring and lateral-transfer paperwork showing Robertson's start date and prior employer.",
       "transcript_snippet": "he decided to go in August 2024 despite the fact that his entire life has been in California.",
       "mentions_person_refs": [
-        "N-764",
+        "N-763",
         "N-3"
       ]
     },
@@ -2356,12 +2408,14 @@
       "related_nodes": [
         "N-10774"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:55",
       "investigative_direction": "Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.",
       "transcript_snippet": "it is definitely what I would assert is a plausibility uh that Alan E. Robertson was involved in something in San Bernardino.",
       "mentions_person_refs": [
-        "N-764",
+        "N-763",
         "N-3"
       ]
     },
@@ -2377,13 +2431,16 @@
       "related_nodes": [
         "N-10774"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "DIA"
+      ],
       "claim_timestamp": "00:24:30",
       "investigative_direction": "Review incoming tips about Robertson for named, checkable sources and corroborate before relying on them.",
       "transcript_snippet": "please send us tips to more tips at candacewowens. com",
       "mentions_person_refs": [
         "N-3",
-        "N-764"
+        "N-763"
       ]
     },
     {
@@ -2396,7 +2453,10 @@
         "A-3156.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "DIA"
+      ],
       "claim_timestamp": "00:25:07",
       "investigative_direction": "Not applicable beyond tracking tip volume and follow-up on the Robertson thread.",
       "transcript_snippet": "Email us more tips at Candace, sorry, Candace Owens. com.",
@@ -2417,12 +2477,14 @@
         "N-10772",
         "N-10774"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:22",
       "investigative_direction": "Ask prosecutors whether Robertson is on any witness list and obtain the chain of custody for who recovered the screwdriver.",
       "transcript_snippet": "I think it's plausible that the person who actually found the screwdriver was Alan Robertson.",
       "mentions_person_refs": [
-        "N-764",
+        "N-763",
         "N-3"
       ]
     },
@@ -2436,7 +2498,9 @@
       "related_nodes": [
         "N-11306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:29:32",
       "investigative_direction": "Not independently verifiable beyond the host's account; hospital records would need the guard's consent.",
       "transcript_snippet": "he had a a very severe stroke, had to have brain surgery to remove the clot in the back of his um head",
@@ -2454,7 +2518,9 @@
       "related_nodes": [
         "N-11306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:29:32",
       "investigative_direction": "VA wait-time and appointment records for the veteran, with his consent.",
       "transcript_snippet": "is trying to get an appointment for over 5 years to the VA",
@@ -2472,7 +2538,9 @@
       "related_nodes": [
         "N-11306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:30:31",
       "investigative_direction": "Obtain the hospital's billing statement or Ministry of Health confirmation with the guard's consent.",
       "transcript_snippet": "It's been taken care of by the Ministry of Health.",
@@ -2490,7 +2558,9 @@
       "related_nodes": [
         "N-11306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:10",
       "investigative_direction": "Medical records for the veteran with his consent.",
       "transcript_snippet": "his eyesight came back it's like a miracle once the clot was removed",
@@ -2509,7 +2579,9 @@
         "N-11306",
         "N-11307"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:32:38",
       "investigative_direction": "Confirm the institute's address, program cost and any charity that has offered funding.",
       "transcript_snippet": "this international institute of brain enhancement that is in Delray, Florida.",
@@ -2530,7 +2602,9 @@
         "N-10775",
         "N-10964"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:33",
       "investigative_direction": "Obtain the CNN article and test the two sourcing paths and the email's date.",
       "transcript_snippet": "A second source also said that a senior US military officer sent the message last week soliciting new ideas for how to deal with Iran.",
@@ -2549,7 +2623,9 @@
         "N-11128",
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:33",
       "investigative_direction": "This is an inference; it would need documentary evidence of a link between Kirk's Iran stance and the shooting.",
       "transcript_snippet": "we know that Charlie was the first casualty of the Iranian war.",
@@ -2571,7 +2647,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:33",
       "investigative_direction": "Look for reporting on Netanyahu's private assessments to Trump before the Iran war.",
       "transcript_snippet": "Listened to a pitch by BBNet and Yahoo saying we can take Persia in a week.",
@@ -2591,7 +2669,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:33",
       "investigative_direction": "Count Trump's posts claiming victory over Iran and compare with battlefield reporting.",
       "transcript_snippet": "We've beat Iran about 55 times um according to Trump's tweets.",
@@ -2613,7 +2693,9 @@
         "N-10539",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:43",
       "investigative_direction": "Locate Neff's statement (platform and date) and quote it in full.",
       "transcript_snippet": "Uh actually Blake, I think said Charlie would support Trump with the Iran war.",
@@ -2637,7 +2719,9 @@
         "N-10000",
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:43",
       "investigative_direction": "Locate the original appearance and confirm the quote and date.",
       "transcript_snippet": "And you know, it's frustrating when you have people speaking for him.",
@@ -2658,7 +2742,9 @@
       "related_nodes": [
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:45",
       "investigative_direction": "Source the original clip (date, outlet) and confirm context.",
       "transcript_snippet": "Make sure we don't go to war against Iran, which would be a profound mistake for our country.",
@@ -2678,7 +2764,9 @@
       "related_nodes": [
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:45",
       "investigative_direction": "Source the original clip and confirm the date and surrounding remarks.",
       "transcript_snippet": "And yet here in 2025, they do not have a nuclear bomb. So why should we trust the American intelligence without verifying it?",
@@ -2698,7 +2786,9 @@
       "related_nodes": [
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:45",
       "investigative_direction": "Source the original clip and confirm the date.",
       "transcript_snippet": "We're going to go make this a regional mess and try to get as many people involved as possible.",
@@ -2716,7 +2806,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:31",
       "investigative_direction": "Compare the prosecution's exhibits placing Robinson on campus and any gender-identity evidence against the host's assertion.",
       "transcript_snippet": "a trans furry who it turns out is not trans and um they can't even prove was on campus that day.",
@@ -2737,7 +2829,9 @@
       "claim": "The host asserts that Israel's agency (spelled 'MSAD') finances campaigns for people to run over borders into territories Israel is bombing, to eradicate Europeans through deception while blaming Arabs.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:33",
       "investigative_direction": "No evidence offered; would need documentary funding records.",
       "transcript_snippet": "as is the MSAD motto, blaming the Arabs as they finance campaigns for them to run over borders in territories that Israel is bombing for Israel's expansion.",
@@ -2753,7 +2847,9 @@
       "claim": "The host says in Iran they are making Lego videos about the Epstein class and about Charlie's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:33",
       "investigative_direction": "Locate the Lego videos and confirm their origin and content.",
       "transcript_snippet": "Think about the fact that in Iran they're making Lego videos talking about the Epstein class, talking about uh Charlie's assassination.",
@@ -2772,7 +2868,9 @@
       "related_nodes": [
         "N-10747"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:02",
       "investigative_direction": "Identify the specific individuals and statements the host means; her named claims across episodes are the testable ones.",
       "transcript_snippet": "Charlie was betrayed and we are completely being lied to and people in his inner core and circle are a part and parcel of those lies.",
@@ -2789,7 +2887,9 @@
       "claim": "The host says that after the preliminary hearing she did not have to recant even one statement she had made previously.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:02",
       "investigative_direction": "Compare the host's pre-hearing claims with the hearing transcript.",
       "transcript_snippet": "We did not have to recant on even one statement that we had made previously.",
@@ -2807,7 +2907,9 @@
       "related_nodes": [
         "N-11308"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:02",
       "investigative_direction": "Obtain the preliminary-hearing exhibit list and transcript for any video depicting the shot.",
       "transcript_snippet": "surely when we get to the preliminary hearing, they're just going to show us an actual 4K HD video of him taking the shot.\" Nope. We got nothing. Nada.",
@@ -2830,7 +2932,9 @@
       "related_nodes": [
         "N-11308"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:08",
       "investigative_direction": "Gather the original statements by influencers and TPUSA about the 4K footage and compare their wording.",
       "transcript_snippet": "Now they're moving the goalpost and they're like well we meant there was 4K video of him else where",
@@ -2851,7 +2955,9 @@
       "related_nodes": [
         "N-11308"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:08",
       "investigative_direction": "Locate the original posts or broadcasts with the 4K claim and quote the speaker verbatim.",
       "transcript_snippet": "you said literally the words that came out of your mouth was it was 4K footage of him taking the shot.",
@@ -2873,7 +2979,9 @@
       "related_nodes": [
         "N-11308"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:08",
       "investigative_direction": "Identify which video the host means and its source.",
       "transcript_snippet": "I mean this recent video that I revealed that's the 4K video.",
@@ -2891,7 +2999,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:49:13",
       "investigative_direction": "No evidence offered; would need the release of the files in question.",
       "transcript_snippet": "there's somebody in those files and there's some videos that exist that have allowed him to be completely run over by the Epstein files.",
@@ -2912,7 +3022,9 @@
         "N-10732",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:13",
       "investigative_direction": "Use the hotel registration and booking records the host says she has; test them against Neff's statements.",
       "transcript_snippet": "we did find out what hotel um TPUSA staff stayed into at Andrew Kovat and everybody else.",

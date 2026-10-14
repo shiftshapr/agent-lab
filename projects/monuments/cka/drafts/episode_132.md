@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 0c6891ad36263abc11507dbd0ee8c311c57724a7637f1dad75f8f5da6bc40c1e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-837, N-838, N-11203, N-11204, N-11205, N-11206
+  - Tip-minted Nodes (supplement_2026-10c): N-836, N-837, N-11203, N-11204, N-11205, N-11206
   - Claim Range (supplement_2026-10c): C-9007–C-9086
-  - Reused Nodes Appearing: N-10751, N-5, N-7, N-27, N-36, N-40, N-82, N-179, N-194, N-272, N-463, N-504, N-505, N-649, N-724, N-752, N-814, N-10000, N-10003, N-10004, N-10006, N-10012, N-10021, N-10022, N-10070, N-10075, N-10094, N-10139, N-10369, N-10385, N-10398, N-10483, N-10537, N-10641, N-10692, N-10705, N-10729, N-10740, N-10743, N-10944, N-11053, N-11149, N-11202
+  - Reused Nodes Appearing: N-10751, N-5, N-7, N-27, N-36, N-40, N-82, N-179, N-194, N-272, N-463, N-504, N-505, N-648, N-723, N-751, N-813, N-10000, N-10003, N-10004, N-10006, N-10012, N-10021, N-10022, N-10070, N-10075, N-10094, N-10139, N-10369, N-10385, N-10398, N-10483, N-10537, N-10641, N-10692, N-10705, N-10729, N-10740, N-10743, N-10944, N-11053, N-11149, N-11202
  - New Nodes Introduced: N-10749, N-10750, N-10751, N-10752, N-10753
- - Hole-minted Nodes (wave3): N-538
+ - Hole-minted Nodes (wave3): N-537
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-498, N-503
  - (see registers)
 
@@ -431,7 +431,7 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
-**N-538** Pastor Russell
+**N-537** Pastor Russell
 
 First named by the host at 00:23:26 in episode 132. Aliases: Pastor Russ.
 
@@ -642,7 +642,7 @@ Frank, TPUSA in-house lawyer; named in the host's White House tip.
 
 ---
 
-**N-649** Kouri Richins
+**N-648** Kouri Richins
 
 Kouri Richins; mentioned in the host's remark about Utah wives.
 
@@ -650,7 +650,7 @@ Kouri Richins; mentioned in the host's remark about Utah wives.
 
 ---
 
-**N-724** Volodymyr Zelensky
+**N-723** Volodymyr Zelensky
 
 Volodymyr Zelensky; mentioned alongside Netanyahu's trip.
 
@@ -658,7 +658,7 @@ Volodymyr Zelensky; mentioned alongside Netanyahu's trip.
 
 ---
 
-**N-752** Michael Jackson
+**N-751** Michael Jackson
 
 Michael Jackson; named in the host's remark about psychological pressure.
 
@@ -866,7 +866,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-814** Harris Faulkner
+**N-813** Harris Faulkner
 
 Fox News host who interviewed Erika Kirk about the burial location; first named by the host at 00:12:01 in episode 132.
 
@@ -874,7 +874,7 @@ Fox News host who interviewed Erika Kirk about the burial location; first named 
 
 ---
 
-**N-837** Vivian Kubrick
+**N-836** Vivian Kubrick
 
 Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowded event on X; first named by the host at 00:26:09 in episode 132.
 
@@ -882,7 +882,7 @@ Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowde
 
 ---
 
-**N-838** Devante West
+**N-837** Devante West
 
 Instagram account holder whose clip mocking Christian speak the host plays; first named by the host at 00:30:12 in episode 132 (spelled Devonte West once).
 
@@ -988,7 +988,7 @@ Claim Timestamp: 00:24:17
 Claim: Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounced "vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities" and framed himself as finishing Charlie Kirk's foundation.
 
 Anchored Artifacts: A-2192.2
-Mentions: N-1, N-2, N-538
+Mentions: N-1, N-2, N-537
 Related Nodes:
 Investigative Direction: Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith.
 
@@ -1517,7 +1517,7 @@ Claim: The host says that on her book tour Erika Kirk was set up by Harris Faulk
 Transcript Snippet: a book tour where Harris Faulkner on Fox News set her up with a question about how dark it would be.
 
 Anchored Artifacts: A-2191.1
-Mentions: N-814, N-2, N-1
+Mentions: N-813, N-2, N-1
 Related Nodes: N-10006, N-10751
 Tags: relevance:core
 Investigative Direction: Obtain the full Fox News segment and any pre-interview arrangements.
@@ -1780,7 +1780,7 @@ Claim: The host says the sermon clip she plays is from Pastor Russell at Pursuit
 Transcript Snippet: We are about to go to Pursuit Church in Washington state. I'm ready. We've got Pastor Russell.
 
 Anchored Artifacts: A-2192.1
-Mentions: N-538, N-2, N-3
+Mentions: N-537, N-2, N-3
 Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Confirm the church, sermon date and pastor's full name and denomination.
@@ -1796,7 +1796,7 @@ Claim: In the clip, Pastor Russell says to beware of talking-head personalities 
 Transcript Snippet: Beware of talking head personalities who pedal conspiracy theories to their room temperature IQ audiences in hopes of generating a few more clicks
 
 Anchored Artifacts: A-2192.1
-Mentions: N-538
+Mentions: N-537
 Related Nodes: N-10139
 Tags: relevance:context
 Investigative Direction: Obtain the full sermon recording to see whether any person is named.
@@ -1812,7 +1812,7 @@ Claim: In the clip, Pastor Russell says to beware of modern-day Ahabs and Jezebe
 Transcript Snippet: Beware of modern-day Ahabs and Jezebels who sit behind microphones in air-conditioned studios running their podcasts, monetizing tragedy
 
 Anchored Artifacts: A-2192.2
-Mentions: N-538
+Mentions: N-537
 Related Nodes: N-10139
 Tags: relevance:context
 Investigative Direction: Obtain the full sermon recording and any coordinated messaging with other TPUSA Faith pastors.
@@ -1828,7 +1828,7 @@ Claim: The host says Pastor Russell is one of Erika Kirk's favorite pastors.
 Transcript Snippet: Look at this. This is one of Erika's favorite pastors. Look at that.
 
 Anchored Artifacts: A-2192.1
-Mentions: N-538, N-2
+Mentions: N-537, N-2
 Tags: relevance:context
 Investigative Direction: Find Erika's public statements about Pastor Russell or joint appearances.
 
@@ -1843,7 +1843,7 @@ Claim: The host says the Pursuit Church event with Pastor Russell was a Turning 
 Transcript Snippet: Of course, it's a Turning Point Faith event. I'm sorry, guys. I tricked you. Close your Bibles.
 
 Anchored Artifacts: A-2192.1
-Mentions: N-538
+Mentions: N-537
 Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Check the event listing and organizer for the Make Heaven Crowded tour stop.
@@ -1859,7 +1859,7 @@ Claim: The host says Erika Kirk spoke at the Pursuit Church event because it was
 Transcript Snippet: Anyway, Erika spoke at this event because this is the Make Kevin Crowded tour.
 
 Anchored Artifacts: A-2193.1
-Mentions: N-2, N-538
+Mentions: N-2, N-537
 Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Obtain the tour schedule and the event recording.
@@ -1875,7 +1875,7 @@ Claim: The host says Vivian Kubrick, Stanley Kubrick's daughter, posted on X tha
 Transcript Snippet: I was very happy to see Stanley Kubrick's daughter Vivian Kubrick actually. She's been amazing on X and she just took this event and was like no one knows what these people are saying.
 
 Anchored Artifacts: 
-Mentions: N-837, N-3
+Mentions: N-836, N-3
 Related Nodes: N-11203
 Tags: relevance:tangential
 Investigative Direction: Retrieve Vivian Kubrick's X post.
@@ -1907,7 +1907,7 @@ Claim: The host says the Instagram account holder Devante West mocks the new cul
 Transcript Snippet: The account holder on Instagram is Devante West and he just mocks broadly speaking. So this is not about Erika.
 
 Anchored Artifacts: A-2195.1
-Mentions: N-838, N-2
+Mentions: N-837, N-2
 Tags: relevance:tangential
 Investigative Direction: Retrieve the Instagram post and confirm the account holder's name.
 
@@ -2083,7 +2083,7 @@ Claim: The host says Netanyahu is flying in for the same reason Zelensky is, whi
 Transcript Snippet: Bibi Netanyahu is saying that he is flying in for the same reason Zelensky is flying in.
 
 Anchored Artifacts: 
-Mentions: N-36, N-724, N-3
+Mentions: N-36, N-723, N-3
 Related Nodes: N-10752
 Tags: relevance:tangential
 Investigative Direction: Check each leader's announced purpose and meetings.
@@ -2148,7 +2148,7 @@ Claim: The host says "they" try to psychologically break people to drive them cr
 Transcript Snippet: They they try to psychologically break you. That's what they did to Michael Jackson. It's what they did to Kanye West.
 
 Anchored Artifacts: 
-Mentions: N-752, N-27, N-3
+Mentions: N-751, N-27, N-3
 Tags: relevance:tangential
 Investigative Direction: No checkable record; recorded as stated.
 
@@ -2196,7 +2196,7 @@ Claim: The host refers to "that Kouri Richins girl who killed her husband" as an
 Transcript Snippet: You know, we had that Kouri Richins girl who killed her husband. And people have questions.
 
 Anchored Artifacts: 
-Mentions: N-649, N-3
+Mentions: N-648, N-3
 Related Nodes: N-10944
 Tags: relevance:tangential
 Investigative Direction: Consult the court record in the Kouri Richins case for the current legal status.
@@ -2212,7 +2212,7 @@ Claim: The host says Pastor Russell obviously works for pro-Israel Christians Un
 Transcript Snippet: he's obviously works for every pro-Israel Christians United for Israel. Like, this is actually him. Like, all he cares about is Israel and that's why Erika's partnered with him
 
 Anchored Artifacts: A-2192.2
-Mentions: N-538, N-2
+Mentions: N-537, N-2
 Related Nodes: N-11205
 Tags: relevance:context
 Investigative Direction: Check CUFI staff and affiliate listings for Pastor Russell and Pursuit Church.

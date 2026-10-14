@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 5eb7035303a9a0f0c01956d1da545d902c17401379f1f211ba96808ff60e689b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-909, N-910, N-911, N-11299
+  - Tip-minted Nodes (supplement_2026-10e): N-908, N-909, N-910, N-11299
   - Hole-minted Nodes (reintro-ep098): N-382, N-440
   - Tip-minted Nodes (reintro-ep098): N-10910, N-10914
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11492–C-11560
   - New Nodes Introduced: N-10652, N-10654, N-10655, N-10656
   - Hole-minted Nodes (wave3): N-439
-  - Reused Nodes Appearing: N-10900, N-10653, N-10651, N-5, N-22, N-30, N-36, N-40, N-46, N-85, N-102, N-118, N-166, N-236, N-276, N-374, N-495, N-496, N-877, N-10000, N-10002, N-10131, N-10238, N-10379, N-10385, N-10406, N-10416, N-10487, N-10631, N-10637, N-10640, N-10661, N-10689, N-10694, N-11116
+  - Reused Nodes Appearing: N-10900, N-10653, N-10651, N-5, N-22, N-30, N-36, N-40, N-46, N-85, N-102, N-118, N-166, N-236, N-276, N-374, N-495, N-496, N-876, N-10000, N-10002, N-10131, N-10238, N-10379, N-10385, N-10406, N-10416, N-10487, N-10631, N-10637, N-10640, N-10661, N-10689, N-10694, N-11116
   - (see registers)
 
 ## 2. Executive Summary
@@ -808,7 +808,7 @@ Party to the settled lawsuit the host discusses.
 
 ---
 
-**N-877** Matt Slauson
+**N-876** Matt Slauson
 
 Lawyer who sent the Harpole lawsuit and the host's long-time arbitration opponent.
 
@@ -968,7 +968,7 @@ Existing topic reused for the Klavan claim.
 
 ---
 
-**N-909** Bryan Freedman
+**N-908** Bryan Freedman
 
 First named by the host at 00:55:14 in episode 98 (transcribed Brian Friedman). Lawyer the host congratulates for the Baldoni result.
 Aliases: Brian Friedman
@@ -977,7 +977,7 @@ Aliases: Brian Friedman
 
 ---
 
-**N-910** Melissa Nathan
+**N-909** Melissa Nathan
 
 First named by the host at 00:55:14 in episode 98. PR professional the host congratulates.
 
@@ -985,7 +985,7 @@ First named by the host at 00:55:14 in episode 98. PR professional the host cong
 
 ---
 
-**N-911** Zalman Shapiro
+**N-910** Zalman Shapiro
 
 First named by the host at 00:56:47 in episode 98. The host asks if he is Ben Shapiro's uncle who took uranium to Israel.
 
@@ -1347,7 +1347,7 @@ Claim: The host says the Brian Harpole lawsuit was sent by Matt Slauson, the sam
 Transcript Snippet: it's been sent from the same lawyer who had already been suing me nonstop in arbitration on Ben Shapiro's behalf for 2 years.
 
 Anchored Artifacts: 
-Mentions: N-3, N-97, N-877, N-272
+Mentions: N-3, N-97, N-876, N-272
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Compare counsel of record on the Harpole filing with counsel in the host's Daily Wire arbitration filings.
@@ -1838,7 +1838,7 @@ Claim: The host says she was standing in the Charlotte airport when she received
 Transcript Snippet: but I was standing in the Charlotte airport when I received that email.
 
 Anchored Artifacts: A-2039.1
-Mentions: N-3, N-877
+Mentions: N-3, N-876
 Related Nodes: N-10656
 Supports: C-2849
 Tags: relevance:core
@@ -1855,7 +1855,7 @@ Claim: The host says Matt Slauson's firm first sent a demand saying a lawsuit wo
 Transcript Snippet: they had first sent this like I don't know demand thing at first and said we are filing this lawsuit in 4 days
 
 Anchored Artifacts: 
-Mentions: N-3, N-877
+Mentions: N-3, N-876
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Obtain the demand letter and its date.
@@ -1871,7 +1871,7 @@ Claim: The host alleges that Loomer's apparent knowledge of the email suggests c
 Transcript Snippet: That signals that there's some coordination between Matt Slauson, Ben Shapiro's lawyer, um and Laura Loomer.
 
 Anchored Artifacts: A-2039.1
-Mentions: N-877, N-97, N-60
+Mentions: N-876, N-97, N-60
 Related Nodes: N-10656, N-10651
 Tags: relevance:core
 Investigative Direction: Look for communications, payments or contacts between Loomer, Slauson and the person who allegedly tried to hire a photographer.
@@ -2314,7 +2314,7 @@ Claim: The host congratulates Brian Friedman (she was unsure of the lawyer's nam
 Transcript Snippet: Brian Friedman, congratulations to you. Also to Melissa Nathan and the people that were the PR team
 
 Anchored Artifacts: 
-Mentions: N-496, N-909, N-910
+Mentions: N-496, N-908, N-909
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Docket entries listing counsel for Baldoni and Wayfarer.
@@ -2330,7 +2330,7 @@ Claim: The host asks whether Ben Shapiro's uncle Zalman Shapiro was the one who 
 Transcript Snippet: What was his uncle Zalman Shapiro? Am I correct that he's the one that took all of the uranium to Israel?
 
 Anchored Artifacts: 
-Mentions: N-97, N-911
+Mentions: N-97, N-910
 Related Nodes: N-10654
 Tags: relevance:tangential
 Investigative Direction: Check the family relationship and the NUMEC records.
@@ -2346,7 +2346,7 @@ Claim: The host says she does not think Zalman Shapiro was ever found guilty and
 Transcript Snippet: I don't think he ever actually was found guilty because they I think he played like anti-Semitism or something like that.
 
 Anchored Artifacts: 
-Mentions: N-911
+Mentions: N-910
 Related Nodes: N-10654
 Tags: relevance:tangential
 Investigative Direction: Check the outcome of the NUMEC investigation.

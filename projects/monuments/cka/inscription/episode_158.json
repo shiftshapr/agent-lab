@@ -131,7 +131,7 @@
           ],
           "related_nodes": [
             "N-10218",
-            "N-508",
+            "N-507",
             "N-194",
             "N-1",
             "N-2"
@@ -625,8 +625,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-508",
-      "ref": "N-508",
+      "@id": "N-507",
+      "ref": "N-507",
       "name": "Doug DeGroot",
       "type": "person",
       "description": "Board member / couple’s financial adviser quoted on will appointment and on media pressure driving 48-hour CEO vote.",
@@ -1034,8 +1034,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-534",
-      "ref": "N-534",
+      "@id": "N-533",
+      "ref": "N-533",
       "name": "Nicki Minaj",
       "type": "person",
       "description": "Named by the host among Erika Kirk's December appearances.",
@@ -1485,7 +1485,7 @@
         "N-1",
         "N-2",
         "N-194",
-        "N-508"
+        "N-507"
       ]
     },
     {
@@ -1610,7 +1610,7 @@
       "investigative_direction": "Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced.",
       "mentions_person_refs": [
         "N-2",
-        "N-508"
+        "N-507"
       ]
     },
     {
@@ -1978,7 +1978,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-10",
-        "N-534"
+        "N-533"
       ]
     },
     {
@@ -2091,7 +2091,7 @@
       "investigative_direction": "Identify the pastor and the security team's written recommendations; compare with Charlie not wearing a vest on September 10.",
       "transcript_snippet": "The night before Charlie was killed, he had been discussing with Erika and their pastor recommendations from his security team, which included bulletproof glass shields and vests.",
       "mentions_person_refs": [
-        "N-508",
+        "N-507",
         "N-1",
         "N-2"
       ]
@@ -2223,7 +2223,7 @@
       "investigative_direction": "Confirm the quote in the published profile and request board minutes on the succession decision.",
       "transcript_snippet": "Degrroot says Erika saved Turning Point two or three years of searching for and training a new CEO from outside the organization.",
       "mentions_person_refs": [
-        "N-508",
+        "N-507",
         "N-2"
       ]
     },
@@ -2240,7 +2240,7 @@
       "investigative_direction": "Identify the earlier episode where the host first said this and any messages from DeGroot to media contacts.",
       "transcript_snippet": "he was, I told you early on, one of the people that was like crazy behind the scenes and wanting me to be crushed in the media.",
       "mentions_person_refs": [
-        "N-508",
+        "N-507",
         "N-3"
       ]
     },

@@ -1297,8 +1297,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-771",
-      "ref": "N-771",
+      "@id": "N-770",
+      "ref": "N-770",
       "name": "Glenn Greenwald",
       "type": "person",
       "description": "First named in the Tucker Carlson clip at 00:35:17 in episode 25. Journalist Tucker Carlson says he once hated and now counts a favorite.",
@@ -1631,7 +1631,9 @@
       "related_nodes": [
         "N-10218"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:42",
       "investigative_direction": "Compare the shooting-day footage of Mikey McCoy's location and movements with the host's statement.",
       "transcript_snippet": "I don't think that I know that Mikey McCoy did not kill Charlie Kirk. We watch him in those moments.",
@@ -1651,7 +1653,9 @@
       "related_nodes": [
         "N-10218"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:42",
       "investigative_direction": "Collect the memorial speeches and TPUSA announcements naming Mikey McCoy's future role and test whether the language was coordinated.",
       "transcript_snippet": "But it's also becoming pretty apparent to me that the stage was being set for Mikey to become the new Charlie.",
@@ -1677,7 +1681,9 @@
       "related_nodes": [
         "N-10218"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:16",
       "investigative_direction": "Obtain the full Faith Forward Show recording and check the question asked and the answer given in sequence.",
       "transcript_snippet": "Is he trying to make us believe but not explicitly state but kind of explicitly state or maybe implicitly state that Charlie's future or rather Mikey McCoy's future was written by Charlie in one of these journal",
@@ -1702,7 +1708,9 @@
         "N-10218",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:16",
       "investigative_direction": "Identify the insiders through the host's sources and ask TPUSA staff who worked with Mikey McCoy after September 10 to confirm or deny.",
       "transcript_snippet": "Mikey McCoy appeared to have like an extra spring in his step that made them all a little bit uncomfortable in the aftermath",
@@ -1723,7 +1731,9 @@
         "N-10218",
         "N-11104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:16",
       "investigative_direction": "Check Liberty University convocation and event listings for Mikey McCoy appearances and who invited him.",
       "transcript_snippet": "Look, he's already speaking at Liberty University. Why? Because he made some phone calls.",
@@ -1742,7 +1752,9 @@
       "related_nodes": [
         "N-10218"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:16",
       "investigative_direction": "This is the host's inference; test it against Turning Point USA succession communications and statements by those who spoke to Mikey McCoy.",
       "transcript_snippet": "I think Mikey was promised or told or encouraged that he would become the new Charlie.",
@@ -1767,7 +1779,9 @@
       "related_nodes": [
         "N-10219"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:01",
       "investigative_direction": "Ask AV staff and prior trip organizers who miced Charlie on earlier trips and who was on the Korea trip.",
       "transcript_snippet": "I've traveled with Charlie everywhere. Very strange. The person that mics is always the AV person.",
@@ -1790,7 +1804,9 @@
       "related_nodes": [
         "N-10219"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:45",
       "investigative_direction": "Identify who filmed the viral clip through its first posting and metadata, and confirm that the McCoys shot it.",
       "transcript_snippet": "Fortunately, the McCoys were the ones that captured that footage.",
@@ -1815,7 +1831,9 @@
       "related_nodes": [
         "N-10219"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:45",
       "investigative_direction": "Obtain the original upload date and file metadata of the family footage and the date range of the joint summer trip.",
       "transcript_snippet": "thankfully the McCoys were on hand in what looks like mid July or early August into early August. According to my source, my sources, we will nail down these specific dates in the future.",
@@ -1838,7 +1856,9 @@
         "N-11102",
         "N-11105"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:45",
       "investigative_direction": "Check church filings and public giving records for Wilks family donations to Godspeak Calvary Chapel.",
       "transcript_snippet": "he was funded, his church was funded by the Wilks brothers down in Texas.",
@@ -1859,7 +1879,9 @@
         "N-10900",
         "N-10131"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:45",
       "investigative_direction": "Check Daily Wire and PragerU donor disclosures and press reports on the Wilks family's investments.",
       "transcript_snippet": "The Wilks brothers are the ones that fund Daily Wire.",
@@ -1878,7 +1900,9 @@
         "N-11102",
         "N-11105"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:45",
       "investigative_direction": "Identify who describes the church as a cult online and on what basis; this is a rumor the host asks viewers to research.",
       "transcript_snippet": "they are part of what is described online as a cult.",
@@ -1899,7 +1923,9 @@
         "N-10220",
         "N-11105"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:45",
       "investigative_direction": "Check the January 2025 church announcement and the Ventura County Star article for the exact dates.",
       "transcript_snippet": "after 17 years as the head pastor of that church, Rob McCoy, it was publicly announced in January of this year that he would be stepping down",
@@ -1923,7 +1949,9 @@
       "related_nodes": [
         "N-10220"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:47",
       "investigative_direction": "Check county property records for Rob McCoy's holdings in Thousand Oaks, Coronado and the Phoenix area.",
       "transcript_snippet": "now he said that he bought a different place in Thousand Oaks. He also owns a home in Coronado near San Diego.",
@@ -1944,7 +1972,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:47",
       "investigative_direction": "Review the video of Tucker Carlson's July 11, 2025 TPUSA speech for the remarks about foreign armies and Ackman.",
       "transcript_snippet": "he says that people who serve in foreign armies should be stripped of their citizenship. He muses about where Bill Aman's wealth comes from.",
@@ -1971,7 +2001,9 @@
         "N-10675",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:47",
       "investigative_direction": "Request UVU and TPUSA correspondence dated mid-July 2025 and the tour scheduling documents showing when UVU became stop one.",
       "transcript_snippet": "receives a request from UVU for Charlie to hold an event at Utah Valley. Not only do they instantly accept this request, but they also make it his first stop",
@@ -1997,7 +2029,9 @@
         "N-10221",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:57",
       "investigative_direction": "Follow the Fox 13 records appeal and the state records ruling on the UVU security plan.",
       "transcript_snippet": "The campus also has expressed concern that the records could interfere in any investigation and someone's right to a fair trial.",
@@ -2019,7 +2053,9 @@
         "N-10221",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:57",
       "investigative_direction": "Compare the UVU form with University of Utah event application forms and the UVU records request log.",
       "transcript_snippet": "That's a standard inquiry at, for example, University of Utah events.",
@@ -2043,7 +2079,9 @@
         "N-10221",
         "N-10675"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:57",
       "investigative_direction": "Compare typical lead times between request and event across prior tour stops using TPUSA's own scheduling records.",
       "transcript_snippet": "A a request going in that late being honored and becoming stop number one within a couple of weeks. I'm going to say that's never happened.",
@@ -2062,7 +2100,9 @@
       "related_nodes": [
         "N-10840"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:57",
       "investigative_direction": "Check the Utah statute or UVU policy on standby medical services for large events and UVU's records on EMS staffing.",
       "transcript_snippet": "as everybody has noticed, there was no ambulance on standby. And that's against Utah law.",
@@ -2082,7 +2122,9 @@
       "related_nodes": [
         "N-10221"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:57",
       "investigative_direction": "Pursue the Fox 13 appeal and any court-ordered release of the security plan to test whether one existed.",
       "transcript_snippet": "I'm pretty sure this was an extraordinary first time thing where they didn't have a security plan.",
@@ -2100,7 +2142,9 @@
       "related_nodes": [
         "N-10243"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:57",
       "investigative_direction": "Check UVU room reservations and event booking records for an indoor venue for September 10 before the move outdoors.",
       "transcript_snippet": "I had received a tip and I do want to check this out by the way that they also had initially slated for this event to be inside but it was moved.",
@@ -2120,7 +2164,9 @@
       "related_nodes": [
         "N-10222"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:12",
       "investigative_direction": "Locate Yiannopoulos's original tweet and confirm its exact wording and date.",
       "transcript_snippet": "I saw like Milo Yiannopoulos tweeted, I think is now I think Israel did it",
@@ -2141,7 +2187,9 @@
       "related_nodes": [
         "N-10222"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:12",
       "investigative_direction": "Compare the Israeli War Room report of the award with statements from the award organizers and Erika Kirk's office.",
       "transcript_snippet": "he was tweeting about the bizarre lie of them saying Erika Kirk was accepting this award and they completely fictionalized it.",
@@ -2161,7 +2209,9 @@
       "related_nodes": [
         "N-10495"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:12",
       "investigative_direction": "Compile Netanyahu's interviews and posts from September 10-12 and record exactly what he denied and in response to what question.",
       "transcript_snippet": "BBNet and Yahoo doing propaganda rounds uh denying that he had anything to do with the assassination of Charlie Kirk.",
@@ -2182,7 +2232,9 @@
       "claim": "The host says Kash Patel has been crying about mean tweets on the internet regarding his sensational singing girlfriend.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:20:12",
       "investigative_direction": "Review Patel's posts defending his girlfriend and the criticism that prompted them.",
       "transcript_snippet": "if Kash Patel is done crying about the mean tweets on the internet regarding his sensational singing girlfriend",
@@ -2204,7 +2256,9 @@
       "related_nodes": [
         "N-10222"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:12",
       "investigative_direction": "Find the Village Crazy Lady post and its date and compare its details with the host's.",
       "transcript_snippet": "I've been telling you to follow her village crazy lady over on X. She was actually very early with this reporting",
@@ -2226,7 +2280,9 @@
       "related_nodes": [
         "N-10222"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:12",
       "investigative_direction": "Ask the FBI, NSA and White House press office whether they will confirm or deny the existence of 12 Israel-opened phone accounts at UVU on September 10.",
       "transcript_snippet": "I can publicly challenge the very Zionist occupied Trump administration who is aware of this to deny it.",
@@ -2248,7 +2304,9 @@
       "related_nodes": [
         "N-10048"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:29",
       "investigative_direction": "Obtain the autopsy findings and ballistic evidence on wound track, exit wound and bullet recovery.",
       "transcript_snippet": "Until you acknowledge that a 30 six did not go through his neck, did not get stopped rather by his neck.",
@@ -2270,7 +2328,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:10",
       "investigative_direction": "Compare administration transparency pledges with the actual Epstein file releases to date.",
       "transcript_snippet": "We're going to be the most transparent thing administration that you've ever seen. Except on those Epstein files.",
@@ -2288,7 +2348,9 @@
         "A-1328.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:25",
       "investigative_direction": "Compile statements by Israeli ministers about collective punishment and check Tucker Carlson's wording on the Dave Smith show.",
       "transcript_snippet": "of the Israeli government and of a couple of its ministers, which they say this out loud all the time, is that everybody who's related to a terrorist shares in his guilt.",
@@ -2307,7 +2369,9 @@
       "claim": "The host says that Christian Zionists would worship the way Netanyahu does even when he kills tens of thousands of kids.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:17",
       "investigative_direction": "Check UN and health-ministry casualty counts for children in Gaza.",
       "transcript_snippet": "even if when he kills tens of thousands of kids.",
@@ -2326,13 +2390,15 @@
         "A-1329.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:35:17",
       "investigative_direction": "Check Tucker Carlson's earlier public statements about Glenn Greenwald.",
       "transcript_snippet": "I hated Glenn Greenwald. Now I think he's one of my favorite people in the world",
       "mentions_person_refs": [
         "N-22",
-        "N-771"
+        "N-770"
       ]
     },
     {
@@ -2347,7 +2413,9 @@
       "related_nodes": [
         "N-10223"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:52",
       "investigative_direction": "Collect Zinn's prior Salt Lake City event disruption incidents and arrests.",
       "transcript_snippet": "I know he was a habitual Salt Lake City event disruptor, but what are the chances his reflex is to take the blame voluntarily?",
@@ -2371,7 +2439,9 @@
       "related_nodes": [
         "N-10223"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:52",
       "investigative_direction": "Obtain hospital intake records and arrest and booking photographs showing injuries.",
       "transcript_snippet": "He went to Utah Valley Hospital uh after this event to treat some of his like mild injuries from being dragged",
@@ -2391,7 +2461,9 @@
       "claim": "The host says there is more proof against the idea that these people are the original people of the Holy Land, and that textbooks pointing to Turkey, the Ashkenaz tribe and Yiddish have stopped being printed.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:52",
       "investigative_direction": "Unsupported historical assertion recorded as said; no case figure involved. Check against academic histories of Ashkenazi Jewish origins.",
       "transcript_snippet": "way more uh proof to the contrary which they stopped printing even their own textbooks",
@@ -2407,7 +2479,9 @@
       "claim": "The host says there was a conscious movement at the turn of the century, around the time dinosaur bones were being found, to make people invest in scientism, which she frames through C.S. Lewis.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:44:53",
       "investigative_direction": "Off-topic historical assertion recorded as said; no case link.",
       "transcript_snippet": "there was a conscious movement as I said at the end at the turn of the century same time they started going oh we found dinosaur uh bone",
@@ -2423,7 +2497,9 @@
       "claim": "The host says she does not believe the moon landings happened.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:45:47",
       "investigative_direction": "Off-topic assertion recorded as said; no case link.",
       "transcript_snippet": "I also don't believe the moon landings happened, so you can cut that clip because they didn't happen.",
@@ -2443,7 +2519,9 @@
       "related_nodes": [
         "N-10083"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:47",
       "investigative_direction": "Review AIPAC and affiliated PAC contribution records for the Congress members in question.",
       "transcript_snippet": "People who support Israel give Apac money to give our government uh to give to our government to vote the way Israel wants.",
@@ -2463,7 +2541,9 @@
       "related_nodes": [
         "N-10253"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:51",
       "investigative_direction": "Check US foreign aid totals by country and the history of the Egypt and Israel aid agreement.",
       "transcript_snippet": "country A that gets most of our money is Israel, B is Egypt, and there is a reason for that.",
@@ -2486,7 +2566,9 @@
       "related_nodes": [
         "N-11009"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:35",
       "investigative_direction": "Find the student's Facebook reel and verify its date, location and who was in the room.",
       "transcript_snippet": "A college student posted an FB real of her experience? She ran into a building where the room was filled with uniformed people and a bunch of different flags.",
@@ -2506,7 +2588,9 @@
       "related_nodes": [
         "N-11009"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:35",
       "investigative_direction": "Obtain UVU building schedules and access logs for the Hall of Flags on September 10.",
       "transcript_snippet": "That's the Hall of Flags that's behind Charlie's head.",
@@ -2528,7 +2612,9 @@
         "N-11009",
         "N-10717"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:35",
       "investigative_direction": "Identify the videographer and the vantage point of the running-figure footage and confirm the building location.",
       "transcript_snippet": "the person who filmed the footage, the only footage um that we have of of the uh person running across who they say is the shooter running across uh the Lozi Center",
@@ -2547,7 +2633,9 @@
         "N-11103",
         "N-10253"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:35",
       "investigative_direction": "Request the TikTok enforcement notices and moderation reasons for the flagged videos.",
       "transcript_snippet": "Tik Tok is hitting us for videos talking about the Egyptian planes. That's very strange.",
@@ -2566,7 +2654,9 @@
         "N-11103",
         "N-10253"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:35",
       "investigative_direction": "Verify the TikTok policy manager's service record and Netanyahu's statements on TikTok.",
       "transcript_snippet": "Israel's moderator served in the IDF, we know, and they BB wants Tik Tok secured for Israel's future.",

@@ -1750,8 +1750,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-867",
-      "ref": "N-867",
+      "@id": "N-866",
+      "ref": "N-866",
       "name": "Amber Robinson",
       "type": "person",
       "description": "First named by the host at 00:17:18 in episode 37. Tyler Robinson's mother, per the host's reference to photos of her visiting an uncle Mitchell.",
@@ -2063,7 +2063,9 @@
       "related_nodes": [
         "N-11008"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:00",
       "investigative_direction": "Identify who at Satis the tipsters name and obtain the Satis hangar lease and any work orders for the Wilmington facility.",
       "transcript_snippet": "It seems that that company, Satis, that French company. The angle has opened up a whole new level of possibilities here in this Charlie Kirk assassination story.",
@@ -2087,7 +2089,9 @@
         "N-10253",
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:30",
       "investigative_direction": "Compare the exercise dates and Minot AFB transient records with the SU-BTT September 4 flight log.",
       "transcript_snippet": "rather we've learned that just before Charlie's assassination, there was actually this joint military exercise which was taking place uh related exactly to where the Egyptian yellow plane landed on its way to Provo.",
@@ -2106,7 +2110,9 @@
       "claim": "The host says Julius Caesar was stabbed 23 times by senators, including Brutus, whom some reports say he viewed as a son.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:03:36",
       "investigative_direction": "Check standard histories of Caesar's assassination (Suetonius, Plutarch) for the stab count and the Brutus-as-son tradition.",
       "transcript_snippet": "23 times Julius Caesar was stabbed by senators and of course Brutus leading to the famed Shakespearean expression and etu brute etu you as well"
@@ -2121,7 +2127,9 @@
       "related_nodes": [
         "N-10253"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:50",
       "investigative_direction": "Identify the government sources or offices the host's informant refers to; look for any official acknowledgement of internal discussion on the planes.",
       "transcript_snippet": "I can tell you that right now in government, there is real panic. There is real discussion happening regarding the Egyptian planes."
@@ -2136,7 +2144,9 @@
       "related_nodes": [
         "N-10253"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:55",
       "investigative_direction": "Lay out what the planes' flights prove or disprove relative to the September 10 timeline.",
       "transcript_snippet": "because I'm getting the sense that they hold the key to solving Charlie's assassination.",
@@ -2157,7 +2167,9 @@
         "N-10266",
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:10",
       "investigative_direction": "Obtain passenger and ground-transport records for the SU-BTT September 10 Wilmington arrival and any visitor log for 920 North King Street.",
       "transcript_snippet": "We are going to figure out who that foreign dignitary was who went to 920 North King on the morning of Charlie's assassination.",
@@ -2181,7 +2193,9 @@
         "N-10277",
         "N-10274"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:00",
       "investigative_direction": "Ask the host for the sources used to verify the email claims; cross-check Minot AFB and FBI field office listings.",
       "transcript_snippet": "And so we investigated that and that fact checked true, right?",
@@ -2199,7 +2213,9 @@
       "related_nodes": [
         "N-10277"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:30",
       "investigative_direction": "Check Census figures for Minot and the base's published personnel numbers.",
       "transcript_snippet": "Approximately 750,000 people statewide. Okay. And in May not there are just 45,000 people and that includes 5,000 people who are stationed there at the May not air force"
@@ -2214,7 +2230,9 @@
       "related_nodes": [
         "N-10277"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:50",
       "investigative_direction": "Verify the Air Force Global Strike Command footprint at Minot and any foreign participation in joint exercises in August 2025.",
       "transcript_snippet": "it is home as he indicated to a global command strike center which has participations between various countries on joint exercises."
@@ -2232,7 +2250,9 @@
         "N-10278",
         "N-10277"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:50",
       "investigative_direction": "Compare the headcount with the official 91st Missile Wing fact sheet.",
       "transcript_snippet": "a squadron of more than 250 dedicated airmen and civilians supporting the 91st Missile Wings Global Deterrence misses mission"
@@ -2250,7 +2270,9 @@
         "N-10031",
         "N-10273"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:53",
       "investigative_direction": "Compare the full press conference transcript with the 33-hour surrender timeline and ask the FBI the source of the Valhalla phrasing.",
       "transcript_snippet": "he was signaling to other people who were like in the club to know what they needed to understand about what happened.",
@@ -2274,7 +2296,9 @@
         "N-10276",
         "N-10253"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:55",
       "investigative_direction": "Pull ADS-B and FAA records for SU-BTT's July 2025 Omaha and Lincoln movements.",
       "transcript_snippet": "It stayed in Nebraska for the longest stretch yet, departing um uh from Nebraska, from Lincoln, Nebraska in particular.",
@@ -2294,7 +2318,9 @@
       "related_nodes": [
         "N-10266"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:05",
       "investigative_direction": "Check flight-tracking logs for the actual Wilmington arrival and departure dates on the July trip.",
       "transcript_snippet": "I think yesterday I said that it stayed in Wilmington for six days. Uh no, it only stayed in Wilmington for one night.",
@@ -2315,7 +2341,9 @@
       "related_nodes": [
         "N-10276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:30",
       "investigative_direction": "Match the announcement date to SU-BTT's Nebraska dates and request the Nebraska Secretary of State's meeting calendar for July 2025.",
       "transcript_snippet": "during this stretch on July 22nd, the Nebraskan Secretary of State Bob Evan announced that they were going to put together a trade and investment delegation to Cairo, Egypt.",
@@ -2338,7 +2366,9 @@
       "related_nodes": [
         "N-10276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:50",
       "investigative_direction": "Obtain the Nebraska delegation schedule and meetings with Egyptian officials in July 2025.",
       "transcript_snippet": "and it happens to line up with this plane that comes in um uh at literally comes in at the on the exact same day.",
@@ -2359,7 +2389,9 @@
         "A-3030.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:10",
       "investigative_direction": "Confirm the date of Carlson's Turning Point speech against the event program and video.",
       "transcript_snippet": "I also minor correction I think yesterday I said that Tucker spoke on July 18th. He actually spoke on July 11th.",
@@ -2383,7 +2415,9 @@
         "N-10366",
         "N-10273"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:40",
       "investigative_direction": "Establish whether the 891st had any link to Utah, Wilmington or Provo; the date gap alone proves no causation.",
       "transcript_snippet": "We are talking about a tminus 12 days until Charlie Kirk is going to be assassinated.",
@@ -2404,7 +2438,9 @@
       "related_nodes": [
         "N-10290"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:55",
       "investigative_direction": "Seek documentation of Foreign Legion personnel or exercises in the United States in August and September 2025.",
       "transcript_snippet": "we had been receiving tips I had ignored previously that the French Foreign Legion was involved somehow in this assassination."
@@ -2417,7 +2453,9 @@
       "claim": "The host says she has begun sharing information with other content creators she trusts rather than holding it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:10",
       "investigative_direction": "Ask which creators received material and whether any published it.",
       "transcript_snippet": "we have begun the process of sharing information with other content creators"
@@ -2433,7 +2471,9 @@
         "N-10197",
         "N-10358"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:57",
       "investigative_direction": "Check medical licensing and residency records for Dr. Lee Trotter.",
       "transcript_snippet": "This is our guy who happened to be a pilot who did his residency at an Air Force base.",
@@ -2452,7 +2492,9 @@
         "N-10197",
         "N-10183"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Verify Dr. Amaro's reserve or active-duty military status and rank.",
       "transcript_snippet": "Dr. Dedra Amaro, is the medical examiner, Charlie's medical examiner, who they've curiously not wanted to address publicly. Yeah, I told you she's also a major in the military.",
@@ -2470,7 +2512,9 @@
       "related_nodes": [
         "N-10197"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:30",
       "investigative_direction": "Verify the rank and service of Kolvet's brother and cousin via military records or statements.",
       "transcript_snippet": "Andrew Kulvette, obviously his brother and his cousin are captains in the military. That's a fact.",
@@ -2488,7 +2532,9 @@
       "related_nodes": [
         "N-10197"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:40",
       "investigative_direction": "Verify Turek's Navy service and his sons' service records.",
       "transcript_snippet": "Frank Turk, who was there for the assassination, is a naval flight officer. His sons are in the Air Force. That's a fact.",
@@ -2506,7 +2552,9 @@
       "related_nodes": [
         "N-10197"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:50",
       "investigative_direction": "Check the McCoy family's naval service records and any ship names; reconcile with the host's earlier statement that his father ran psychological operations.",
       "transcript_snippet": "McCoyy's naval intelligence background in psychological operations because of granddad and famed actually is Grand Theoys famed.",
@@ -2524,7 +2572,9 @@
       "related_nodes": [
         "N-10098"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:00",
       "investigative_direction": "Have a firearms or biomechanics expert time the movement frame by frame.",
       "transcript_snippet": "you can't go from a crouching position to a full sprint in a split second."
@@ -2540,7 +2590,9 @@
         "N-10098",
         "N-10314"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:15",
       "investigative_direction": "Trace the upload chain of the running video to its first public post and identify the filmer.",
       "transcript_snippet": "Very strange. They didn't want to be involved and sent it through three people to release onto the internet.",
@@ -2558,7 +2610,9 @@
       "related_nodes": [
         "N-10098"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:25",
       "investigative_direction": "Identify the filmer of the pre-shot video and confirm any military or instructor background.",
       "transcript_snippet": "That also was recorded by a person in the military who actually teaches shooting.",
@@ -2576,7 +2630,9 @@
       "related_nodes": [
         "N-10817"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:40",
       "investigative_direction": "Ask Jack Hibbs or TPUSA whether the call occurred and when; compare with Butch Hibbs's own account.",
       "transcript_snippet": "Burton Hibbs, Butch, the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie.",
@@ -2600,7 +2656,9 @@
         "N-11236",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:55",
       "investigative_direction": "Obtain UVU and TPUSA promotion records, poster dates and ticketing data to see when and how the event was announced.",
       "transcript_snippet": "Probably because they barely advertised this event for a reason. Obviously, I think they wanted to control who was there."
@@ -2615,13 +2673,15 @@
       "related_nodes": [
         "N-126"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:30",
       "investigative_direction": "Locate the photos and verify the identity of the uncle and his relationship to the Robinson family.",
       "transcript_snippet": "Tyler Robinson is a boy scout whose uncle Mitchell may be related. People have pulled this off of the internet, and I don't have a photo for you today.",
       "mentions_person_refs": [
         "N-40",
-        "N-867"
+        "N-866"
       ]
     },
     {
@@ -2635,7 +2695,9 @@
         "N-10141",
         "N-10151"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Establish whether Mike Mitchell is related to the Robinson family and what, if any, Ukraine connection he has.",
       "transcript_snippet": "Is this the Mitchell that allegedly convinced him to turn himself in uh who's working? He he's very much involved in the military. I I believe with shooting in Ukraine of all places.",
@@ -2655,7 +2717,9 @@
         "N-10253",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:15",
       "investigative_direction": "Compile FAA flight data for aircraft over Orem on September 10 and check operators and contracts.",
       "transcript_snippet": "every plane that seems to be flying over UV UVU that day is somehow military contracted planes."
@@ -2671,7 +2735,9 @@
         "N-10275",
         "N-10311"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:45",
       "investigative_direction": "Catalog the maroon-shirted individuals in crowd footage and identify them; compare with a baseline of shirt colors.",
       "transcript_snippet": "As if they were told to wear a maroon shirt to identify each other.",
@@ -2690,7 +2756,9 @@
         "N-10275",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:20",
       "investigative_direction": "Check UVU's official color palette and merchandise.",
       "transcript_snippet": "And he told me, \"No, it's not maroon.\""
@@ -2708,7 +2776,9 @@
         "N-10137",
         "N-10244"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:45",
       "investigative_direction": "Verify the identification through event footage and ask Kasparian to account for his position; the host does not allege wrongdoing.",
       "transcript_snippet": "His name is this person that was behind the bush is Jacob Kasparian.",
@@ -2728,7 +2798,9 @@
       "related_nodes": [
         "N-10137"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:55",
       "investigative_direction": "Capture the archived September 10 post and later posts by Kasparian and family members.",
       "transcript_snippet": "they had posted on September 10th about uh their bulletproof skateboard",
@@ -2747,7 +2819,9 @@
       "related_nodes": [
         "N-10094"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:10",
       "investigative_direction": "Verify the father's LDS temple role through Church records or announcements.",
       "transcript_snippet": "president of uh the Mormon temple in Los Angeles.",
@@ -2763,7 +2837,9 @@
       "claim": "The host says that trying to figure out Kasparian's father and his connections to the Middle East becomes a dark hole, which she is still working on.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:33",
       "investigative_direction": "Request the host's sourcing on the father's alleged Middle East ties.",
       "transcript_snippet": "And then it just kind of becomes like a dark hole trying to figure out his father and his father's connections to the Middle East.",
@@ -2782,7 +2858,9 @@
         "N-10275",
         "N-10311"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:40",
       "investigative_direction": "Confirm via footage the shirt color and the person's identity.",
       "transcript_snippet": "But yes, he as well was wearing a maroon shirt.",
@@ -2800,7 +2878,9 @@
       "related_nodes": [
         "N-11236"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:50",
       "investigative_direction": "Collect dated photographs and social posts showing when promotion began.",
       "transcript_snippet": "the reason we waited till the very last second to put up posters about this event was because you didn't because you actually did want to control who went there that day."
@@ -2816,7 +2896,9 @@
         "N-11236",
         "N-10197"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:05",
       "investigative_direction": "Identify each livestream account at the event and research the operators' backgrounds.",
       "transcript_snippet": "Uh I I I even think and I I'll have to check this that the people that were live streaming that day had military uh backgrounds as well."
@@ -2832,7 +2914,9 @@
         "N-10284",
         "N-10265"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:50",
       "investigative_direction": "Request the host's verification trail for the 920 North King claim.",
       "transcript_snippet": "I told you I had run that up the chain for weeks to make sure everything was legit about that location and it is 1,000% legit"
@@ -2849,7 +2933,9 @@
         "N-10260",
         "N-10265"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:20",
       "investigative_direction": "Obtain Satis hangar logs and any escort records for foreign aircraft at Wilmington.",
       "transcript_snippet": "The Egyptian planes definitively were pulled into Satis uh and that person was then escorted for whatever reason.",
@@ -2868,7 +2954,9 @@
         "N-10265",
         "N-10284"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:40",
       "investigative_direction": "Confirm which agencies are tenants at 920 North King Street and 1 Rodney Square.",
       "transcript_snippet": "where they have joint operations going on between the DHS and the DOJ uh being the Secret Service and the FBI and the DEA."
@@ -2885,7 +2973,9 @@
       "related_nodes": [
         "N-11191"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:23:04",
       "investigative_direction": "Compare the $28 figure with Pre-Born's published cost per ultrasound.",
       "transcript_snippet": "For just $28, that's what it costs to give a free ultrasound to a woman that is in crisis and considering an abortion.",
@@ -2903,7 +2993,9 @@
         "A-1457.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:20",
       "investigative_direction": "Check news reports of Pollard's 2020 arrival in Israel for who greeted him.",
       "transcript_snippet": "I think BB Netanyahu met him met met him on the runway like you did you served us well",
@@ -2926,7 +3018,9 @@
         "N-10280",
         "N-10282"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:47",
       "investigative_direction": "Check corporate records of The Free Press ownership and the date of its acquisition or change.",
       "transcript_snippet": "Barry Weiss started and is a part owner at least of the free press before before she went on to CBS News.",
@@ -2946,7 +3040,9 @@
       "related_nodes": [
         "N-10280"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:33",
       "investigative_direction": "Verify Rinzberg's residence from his public bios and bylines.",
       "transcript_snippet": "Are you shocked if I tell you that Ashley Rinsberg, he happens to live in Tel Aviv?",
@@ -2962,7 +3058,9 @@
       "claim": "The host says she made one slight joke mentioning Alexis Wilkins, referring to Tim Dillon's content and a YouTube strike, and that Wilkins went on a rant against her rather than against Dillon.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:50",
       "investigative_direction": "Locate the host's remark, Wilkins's response and the YouTube strike notice.",
       "transcript_snippet": "I make one slight mention joke about Alexis Wilkins, referring to Tim Dylan's content and us getting a strike, and she goes on a rant against me, not against Tim Dylan.",
@@ -2982,7 +3080,9 @@
       "related_nodes": [
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:20",
       "investigative_direction": "Read the Delaware complaint for references to Dillon and the named defendants.",
       "transcript_snippet": "Breashit sues me, not Tim Dylan, who she mentions in the lawsuit.",
@@ -3008,7 +3108,9 @@
         "N-10282",
         "N-10334"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:45",
       "investigative_direction": "Treat as satirical commentary; compare with Weiss's own statements on her CBS mandate.",
       "transcript_snippet": "I'm here to make it a vessel of state propaganda. Which state? Well, we know which state. It's not America.",
@@ -3029,7 +3131,9 @@
       "related_nodes": [
         "N-10282"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:50",
       "investigative_direction": "Check reporting on who recommended or hired Weiss at CBS (Paramount Skydance leadership).",
       "transcript_snippet": "She knows it. We know it. Larry Ellison hired her to do it.",
@@ -3051,7 +3155,9 @@
       "related_nodes": [
         "N-10282"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:34:15",
       "investigative_direction": "Look for reporting on any Paramount blacklist of actors.",
       "transcript_snippet": "They've already got a blacklist of actors who will never work at Paramount.",
@@ -3067,7 +3173,9 @@
       "claim": "The host says she was physically sick from watching the assassination, then physically sick from being told she was on a short list of people they were going to try to murder, and that people tried to delete her life.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:40",
       "investigative_direction": "Identify who told her about the list and when; compare with Kolvet's reported September 10 warning.",
       "transcript_snippet": "I was physically sick from then being told that I was on this short list that they were going to move to um try to murder me as well.",
@@ -3089,7 +3197,9 @@
         "A-3032.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:10",
       "investigative_direction": "Specify which Patel statements the host considers false and test each against the record.",
       "transcript_snippet": "like Kash Patel, the leaders of our government are lying to us and telling us not to believe our own eyes.",
@@ -3107,7 +3217,9 @@
         "A-3032.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:35",
       "investigative_direction": "Cross-check with the autopsy, hospital and funeral records the host cites.",
       "transcript_snippet": "I can tell you that that is not at all what happened.",
@@ -3125,7 +3237,9 @@
       "related_nodes": [
         "N-10366"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:42:50",
       "investigative_direction": "Check whether any New Zealand program named Valhalla exists.",
       "transcript_snippet": "I know people were saying that like Valhalla used to be a program out in New Zealand."
@@ -3138,7 +3252,9 @@
       "claim": "The host says she had to contend with the fact that Kirk's death is real, largely because her contacts saw Charlie's body and cannot deny it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:10",
       "investigative_direction": "Ask the host to specify whom she means by contacts who viewed the body, within source-protection limits.",
       "transcript_snippet": "And that was obviously in large part due to uh my contacts that saw Charlie's body and can't deny that.",
@@ -3154,7 +3270,9 @@
       "claim": "A viewer comment read by the host says she lost the cringe challenge, and the host responds asking whether she did not like Sweet Home Jerusalem.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:20",
       "investigative_direction": "None; recorded for continuity with the Huckabee-Friedman clip.",
       "transcript_snippet": "L of the Wanger writes, I lost the cringe challenge. What? You didn't like sweet home Jerusalem? No. Weird."
@@ -3172,7 +3290,9 @@
         "N-10284",
         "N-10303"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:40",
       "investigative_direction": "Identify who Kittis is and which law firm occupies the office; compare with the Richards Layton & Finger connection.",
       "transcript_snippet": "to their like false debunking where they said, \"Kittis' lawyer is in this office.\""
@@ -3189,7 +3309,9 @@
       "related_nodes": [
         "N-10284"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:55",
       "investigative_direction": "Ask the host which parts were withheld and why, and obtain the full letter.",
       "transcript_snippet": "there were parts of the letter that I did not read for a very specific reason."
@@ -3207,7 +3329,9 @@
         "N-10270",
         "N-10303"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:15",
       "investigative_direction": "Review Delaware court filings for counsel of record and local-counsel arrangements.",
       "transcript_snippet": "my lawyer, as you guys know, watching the show has always been Noah.",
@@ -3227,7 +3351,9 @@
       "related_nodes": [
         "N-10303"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:45",
       "investigative_direction": "Compare the host's filings in other states for the same pattern.",
       "transcript_snippet": "in every lawsuit that I've been involved in, you will see that it's not it's never Noah that's actually filing or listing on any of the paperwork for that reason.",
@@ -3245,7 +3371,9 @@
         "A-3032.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:45:40",
       "investigative_direction": "Not checkable as stated; record only.",
       "transcript_snippet": "Bloodlines are ruling the world.\" That's kind of been my conclusion after this year.",
@@ -3263,7 +3391,9 @@
         "A-3032.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:10",
       "investigative_direction": "Check the Rogan episode with Ian Carroll and Rogan's on-air mentions of the host.",
       "transcript_snippet": "Uh yeah, Joe Rogan has definitely taken a lot of risks. I haven't seen it and he definitely has shouted out this podcast",

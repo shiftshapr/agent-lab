@@ -1141,8 +1141,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-752",
-      "ref": "N-752",
+      "@id": "N-751",
+      "ref": "N-751",
       "name": "Michael Jackson",
       "type": "person",
       "description": "Subject of the Daily Wire episode the host cites as a firing reason.",
@@ -1773,7 +1773,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Locate the original Kanye West tweet and its date to confirm the wording the host paraphrases.",
       "transcript_snippet": "And he told us that when he woke up, he was a little bit sleepy tonight, but when he woke up, he had plans cuz he was going to go deathcon 3 on Jewish people.",
@@ -1796,7 +1798,9 @@
         "N-10900",
         "N-10416"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Compare the host's account with the court filings and public statements in the Daily Wire dispute.",
       "transcript_snippet": "it's now been two years, two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job.",
@@ -1815,7 +1819,9 @@
         "N-10925",
         "N-10387"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:03",
       "investigative_direction": "Obtain Turning Point Action employment records for Austin Smith and who approved his hiring.",
       "transcript_snippet": "Of course, he too was hired by Tyler Bowyer because I, as I have been telling you guys from the very beginning, Tyler Bowyer is the lynch pin.",
@@ -1836,7 +1842,9 @@
         "N-10000",
         "N-10387"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:45",
       "investigative_direction": "Map the hiring chain of Charlie Kirk's staff and security against Bowyer's role using TPUSA org charts and former staff accounts.",
       "transcript_snippet": "He is the person who has been running Turning Point USA. He staffed nearly everyone that was surrounding Charlie and I think he needs to be investigated more thoroughly.",
@@ -1856,7 +1864,9 @@
         "N-10385",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Compare the previous episode's report with any Daily Wire announcement of the show.",
       "transcript_snippet": "It was yesterday, just yesterday, that we scooped the Daily Wire's cringe news show designed quite literally with the intention to mock me and Tucker Carlson.",
@@ -1878,7 +1888,9 @@
       "related_nodes": [
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:57",
       "investigative_direction": "Review public and private Shapiro-Kirk communications and joint appearances to test the host's characterisation.",
       "transcript_snippet": "Charlie Kirk's assassination has catalyzed a certain derangement in Ben Shapiro. Ben was not a friend of Charlie Kirk.",
@@ -1898,7 +1910,9 @@
         "N-10386",
         "N-10004"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:57",
       "investigative_direction": "Identify messages, donor contacts or witnesses showing Shapiro's behind-the-scenes efforts, which the host has not specified here.",
       "transcript_snippet": "Ben got to work behind the scenes trying to complicate and stop Charlie's rise and my rise.",
@@ -1922,7 +1936,9 @@
         "N-10385",
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:43",
       "investigative_direction": "Obtain further casting emails or payment offers like Maggie Wagner's to see whether a pattern exists.",
       "transcript_snippet": "his strategy is to find Christians and to pressure them usually through financial means to go after other Christians when he gets angry in particular.",
@@ -1940,7 +1956,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:43",
       "investigative_direction": "Review video of Shapiro's appearance on Kelly's tour and Kelly's own account of what he asked of her.",
       "transcript_snippet": "Ben stepped onto Megan Kelly stage while she was on tour and he demanded her allegiance against me and Tucker.",
@@ -1961,7 +1979,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:43",
       "investigative_direction": "Identify the accounts or outlets attacking Kelly and any evidence linking them to Shapiro; the host offers none here.",
       "transcript_snippet": "she has been under attack by his stooges since. Okay, Ben is directing that from behind the scenes.",
@@ -1981,7 +2001,9 @@
         "N-10268",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:43",
       "investigative_direction": "Obtain the Amfest speaker schedule and any sponsorship or payment records for Shapiro's appearance.",
       "transcript_snippet": "Ben quite literally paid money for a prime speaking spot speaking slot uh at Amfest hitting the stage just after Erika Kirk opening opened",
@@ -2004,7 +2026,9 @@
       "related_nodes": [
         "N-10385"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:14",
       "investigative_direction": "Verify against the original, unredacted email and the people Maggie says advised her.",
       "transcript_snippet": "I even tried to rewrite it in a way that was true to me, but I couldn't do it. It just felt like high school bullies.",
@@ -2025,7 +2049,9 @@
         "N-10385",
         "N-10416"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:14",
       "investigative_direction": "Establish who told Maggie not to share the video and when, using the call receipts she says she supplied.",
       "transcript_snippet": "I was told not to share the AI video the day after you announced on your show that you knew about the show that they were planning to launch.",
@@ -2046,7 +2072,9 @@
       "related_nodes": [
         "N-10385"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:14",
       "investigative_direction": "Request the attachments and call logs and check dates and metadata.",
       "transcript_snippet": "Attached below is the AI video that they sent me and the text that I sent the producer and also proof of the call.",
@@ -2066,7 +2094,9 @@
       "related_nodes": [
         "N-10385"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:24",
       "investigative_direction": "Identify who produced and distributed the AI sample and whether Shapiro directed it; the host gives no direct evidence of his role here.",
       "transcript_snippet": "this is an AI video sample of the show that Ben wanted sent around following Amfest.",
@@ -2087,7 +2117,9 @@
       "related_nodes": [
         "N-10385"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:24",
       "investigative_direction": "Obtain the original video file to confirm the show title and character name as spoken.",
       "transcript_snippet": "Hey noowers, welcome back to The More You Know No. I'm your host Gossy Gossworthy.",
@@ -2108,7 +2140,9 @@
         "N-10385",
         "N-10113"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:16",
       "investigative_direction": "Compare the AI sample's lines with the bee-code texts the host previously aired to see what is being parodied.",
       "transcript_snippet": "Bees die when they sting. Kyle Robinson is alive. So, how could he be the bee that did the stinging?",
@@ -2128,7 +2162,9 @@
       "related_nodes": [
         "N-10385"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:01",
       "investigative_direction": "Confirm with Maggie Wagner that she was not offered the role and obtain the producer's reply.",
       "transcript_snippet": "she didn't get the job because she went back to them and she wrote and said, 'I feel uncomfortable doing this.",
@@ -2152,7 +2188,9 @@
       "related_nodes": [
         "N-10385"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:04",
       "investigative_direction": "Seek additional casting emails or scripts from other candidates to test whether the condition was stated.",
       "transcript_snippet": "We can make you a star, but you have to be willing to attack Candace Owens. That's what we are casting for.",
@@ -2172,7 +2210,9 @@
         "N-10900",
         "N-11116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:59",
       "investigative_direction": "Obtain the full town hall video and transcript and compare Boreing's stated reasons with the host's account.",
       "transcript_snippet": "the clearly immoral and impractical stance that I publicly expressed that genocide is always wrong was revealed by Jeremy Boring in that town hall as a reason why I was fired.",
@@ -2195,7 +2235,9 @@
         "N-10900",
         "N-11116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:59",
       "investigative_direction": "Obtain the town hall transcript and check what Boreing said about pornography.",
       "transcript_snippet": "pornography is harming men. That was another reason that was expressed by then CEO Jeremy in the companywide town",
@@ -2218,13 +2260,15 @@
         "N-10900",
         "N-11116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:59",
       "investigative_direction": "Identify the Daily Wire episode and obtain the town hall record of whether it was cited.",
       "transcript_snippet": "I insinuated in an episode that I had done while I was at the Daily Wire when I was speaking about Michael Jackson that it's plausible that Hollywood is being run by a gang.",
       "mentions_person_refs": [
         "N-3",
-        "N-752"
+        "N-751"
       ]
     },
     {
@@ -2237,7 +2281,9 @@
       "related_nodes": [
         "N-11121"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:15:23",
       "investigative_direction": "Check historians' accounts of organised crime involvement in early Hollywood against this sweeping characterisation.",
       "transcript_snippet": "Actually, factually speaking, Hollywood was started by gangs. Yes, there were Jewish mafiosos, bootleggers.",
@@ -2255,7 +2301,9 @@
       "related_nodes": [
         "N-10661"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:15:23",
       "investigative_direction": "Read the Baldoni and Lively court filings and rulings to test the host's takeover reading.",
       "transcript_snippet": "Even Justin Baldoni actually when I read the lawsuit and I realized they were trying to stage a hostile takeover of the rights to his movie.",
@@ -2275,7 +2323,9 @@
       "related_nodes": [
         "N-10385"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:14",
       "investigative_direction": "This is the host's inference; identify any statement by Charlie Kirk that he wanted to leave a group or arrangement.",
       "transcript_snippet": "He's dead now. What he wanted out, he was killed.",
@@ -2294,7 +2344,9 @@
       "related_nodes": [
         "N-11118"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:14",
       "investigative_direction": "The host offers no specific evidence here; seek any communications or meetings of Shapiro on or after September 10, 2025 (see also the lunch-meeting topic).",
       "transcript_snippet": "Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may know more than the public knows about Charlie Kirk's death.",
@@ -2315,7 +2367,9 @@
         "N-11118",
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:14",
       "investigative_direction": "Look for concrete Shapiro actions toward TPUSA after September 10, 2025 (offers, donor outreach, statements) that support the host's reading.",
       "transcript_snippet": "He's behaving as though Charlie's company was promised to him 3,000 years ago. Okay? Like he assumed that he would somehow benefit off of his death.",
@@ -2336,7 +2390,9 @@
       "related_nodes": [
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:19",
       "investigative_direction": "Compare Bannon's statement with Shapiro's account that he resigned, and with contemporaneous Breitbart reporting.",
       "transcript_snippet": "He tried to take over Breitbart and I ran him out of there.",
@@ -2358,7 +2414,9 @@
         "N-10386",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:19",
       "investigative_direction": "Obtain the full Amfest Bannon speech and any corroborating statements by those who knew Kirk and Shapiro.",
       "transcript_snippet": "he will make a move on Turning Point because he's always been envious of Charlie Kirk.",
@@ -2380,7 +2438,9 @@
         "N-10416",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:19",
       "investigative_direction": "Obtain the pleadings in the Daily Wire litigation against the host and their dates.",
       "transcript_snippet": "The lawsuit just going to bankrupt us before we could even get started.",
@@ -2399,7 +2459,9 @@
       "related_nodes": [
         "N-11119"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:19:22",
       "investigative_direction": "Obtain the Los Angeles County coroner's report for Breitbart's death.",
       "transcript_snippet": "It was March 1st of 2012 when Andrew Breitbart dropped dead from an apparent heart attack.",
@@ -2417,7 +2479,9 @@
       "related_nodes": [
         "N-11119"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:19:22",
       "investigative_direction": "Identify what information Breitbart said he had, using his public statements from early 2012.",
       "transcript_snippet": "he's starting to step on some toes, saying he has some information. Next thing you know, he's dead.",
@@ -2435,7 +2499,9 @@
       "related_nodes": [
         "N-11119"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:19:22",
       "investigative_direction": "Search for a death record, news report or coroner finding for Michael Cormier; no artifact was shown.",
       "transcript_snippet": "a forensic technician that was involved with the autopsy also wound up dead from militarygrade arsenic poisoning.",
@@ -2454,7 +2520,9 @@
       "related_nodes": [
         "N-11119"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:20:35",
       "investigative_direction": "Find any published statement by Cormier's family.",
       "transcript_snippet": "And his wife says no, that's not what's he wouldn't just poison himself with military arsenic poisoning.",
@@ -2472,7 +2540,9 @@
       "related_nodes": [
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:31",
       "investigative_direction": "Review reporting on Breitbart News leadership disputes in 2012.",
       "transcript_snippet": "There was an internal war that waged about what the direction of this healthy conservative company would be.",
@@ -2492,7 +2562,9 @@
         "N-10391",
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:15",
       "investigative_direction": "Ask the host to name the Breitbart executives and the retreat; seek any other attendee of the New Mexico retreat.",
       "transcript_snippet": "This story was directly told to me and Charlie Kirk. We were in New Mexico at a corporate retreat and we heard it straight from the chiefs at Breitbart.",
@@ -2514,7 +2586,9 @@
       "related_nodes": [
         "N-10391"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:37",
       "investigative_direction": "Check Fields's own resignation date and statement against March 13, 2016.",
       "transcript_snippet": "So on March 13th, 2016, Ben and Michelle Fields doubly decided that they were going to leave Breitbart",
@@ -2535,7 +2609,9 @@
       "related_nodes": [
         "N-10391"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:24:45",
       "investigative_direction": "Verify against Shapiro's published March 2016 resignation statement.",
       "transcript_snippet": "I met Andrew when I was 17 years old and remained his friend until his tragic death.",
@@ -2556,7 +2632,9 @@
       "related_nodes": [
         "N-10391"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:28",
       "investigative_direction": "Verify against Shapiro's published March 2016 resignation statement.",
       "transcript_snippet": "Indeed, Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew's legacy.",
@@ -2578,7 +2656,9 @@
       "related_nodes": [
         "N-10391"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:28",
       "investigative_direction": "Verify against the published statement and the contemporaneous Washington Post reporting.",
       "transcript_snippet": "That story was backed by audio tape, eyewitness testimony from the Washington Post's Ben Terrace, physical bruises, and a videotape.",
@@ -2599,7 +2679,9 @@
       "related_nodes": [
         "N-10391"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:32",
       "investigative_direction": "Retrieve the Breitbart News article from March 2016 and the dates it ran.",
       "transcript_snippet": "they undermined Michelle completely by running a poorly evidence conspiracy theory as their lead story in which Michelle and Terrace had somehow misidentified Luwendowski.",
@@ -2621,7 +2703,9 @@
         "N-10391",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:32",
       "investigative_direction": "Compare Daily Wire traffic and launch announcements for March 2016.",
       "transcript_snippet": "And and the very next day, he then promotes the Daily Wire. And guess what? It worked.",
@@ -2640,7 +2724,9 @@
         "N-10391",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:25",
       "investigative_direction": "Check the Daily Wire's incorporation and launch dates and the executives' accounts.",
       "transcript_snippet": "begun quietly building Daily Wire um at the end of 2015, but didn't have enough gumption behind it.",
@@ -2659,7 +2745,9 @@
         "N-10391",
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:25",
       "investigative_direction": "Seek firsthand evidence from the unnamed Breitbart executives or contemporaneous communications.",
       "transcript_snippet": "So he and his best friend Jaime Weinstein decided to cook up a scandal.",
@@ -2678,7 +2766,9 @@
       "related_nodes": [
         "N-10391"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:25",
       "investigative_direction": "Check public marriage and biographical records for Weinstein and Fields (they are widely reported to have been married).",
       "transcript_snippet": "the more relevant fact that was told to me is that Jaime Weinstein is Michelle Field's husband.",
@@ -2697,7 +2787,9 @@
       "related_nodes": [
         "N-10391"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:22",
       "investigative_direction": "Review the released tape and the charges and outcome in the Lewandowski matter against the host's account.",
       "transcript_snippet": "which was later proved that her bruises could not have been from Cory Luwendowski because the bruises that she showed were not where Cory Luwendowski when the tape finally got released where he touched her.",
@@ -2717,7 +2809,9 @@
         "N-10000",
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:22",
       "investigative_direction": "Identify the specific appointments, donors or actions the host regards as a takeover.",
       "transcript_snippet": "neocons are staging a hostile takeover of his legacy and of his brand.",
@@ -2735,7 +2829,9 @@
       "related_nodes": [
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:19",
       "investigative_direction": "Identify donors who contacted Kirk or TPUSA about the host, and obtain any messages the host holds.",
       "transcript_snippet": "the very person who blackalled me through his contact list having donors put pressure on Charlie Kirk because that's how he moves.",
@@ -2758,7 +2854,9 @@
       "related_nodes": [
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:19",
       "investigative_direction": "Ask Horowitz Freedom Center and Babylon Bee principals about any takeover attempts.",
       "transcript_snippet": "He is telling you the truth about what happened with David Har, which is Freedom Center, me, the Babylon B.",
@@ -2781,7 +2879,9 @@
       "related_nodes": [
         "N-11117"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:19",
       "investigative_direction": "Only the host can confirm the conversation; look for any public Kanye statement to that effect.",
       "transcript_snippet": "I understand why Kanye after he burned everything to the ground said to me, \"I feel like I'm finally free.\"",
@@ -2801,7 +2901,9 @@
         "N-10416",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:46",
       "investigative_direction": "Document specific contacts to sponsors and donors with names, dates and the docket of each proceeding.",
       "transcript_snippet": "They shouldn't be following you, uh chasing you in the courtroom from every infraction, trying to bankrupt you, calling people, uh reaching out to donors, uh trying to stop business relationships getting in the way of sponsorships.",
@@ -2822,7 +2924,9 @@
       "related_nodes": [
         "N-11121"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:34",
       "investigative_direction": "This is a sweeping characterisation; ask the host which of these tactics she says were used against her.",
       "transcript_snippet": "their goal is to emotionally break you, to make you uh psych 5150 you like they did to Britney, right?",
@@ -2840,7 +2944,9 @@
       "related_nodes": [
         "N-11117"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:16",
       "investigative_direction": "Compare the host's Daily Wire contract terms before and after December 2022.",
       "transcript_snippet": "What I can tell you is that that tweet cost me many millions of dollars.",
@@ -2859,7 +2965,9 @@
       "related_nodes": [
         "N-11117"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:16",
       "investigative_direction": "Check the host's X activity from the time of the tweet.",
       "transcript_snippet": "I was not with Kanye when he tweeted it. I did not retweet Kanye. I did not like did not push a like when Kanye tweeted it",
@@ -2879,7 +2987,9 @@
         "N-11117",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:16",
       "investigative_direction": "Seek the other attendees of the conference room meeting and the contract documents.",
       "transcript_snippet": "I sure as hell got peer pressured um and employer pressured to put out a statement against Kanye.",
@@ -2898,7 +3008,9 @@
       "related_nodes": [
         "N-11117"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:25",
       "investigative_direction": "Check news reports on Adidas ending its partnership and the Gap ending its partnership with Kanye West.",
       "transcript_snippet": "He lost his Adidas contract. He lost his Gap contract.",
@@ -2917,7 +3029,9 @@
         "N-11117",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:25",
       "investigative_direction": "Obtain contemporaneous accounts or notes from the meeting from Daily Wire staff.",
       "transcript_snippet": "I said I'm not going to come out and condemn Kanye because I wasn't there.",
@@ -2938,7 +3052,9 @@
         "N-11117",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:18",
       "investigative_direction": "Obtain the original and amended contract terms; the host has not shown them.",
       "transcript_snippet": "we're going to change the contract and instead of being paid x amount of years, you are going to only get this.",
@@ -2959,7 +3075,9 @@
         "N-10389",
         "N-10385"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:17",
       "investigative_direction": "Compare the show's content with the host's dream account to see what is being mocked.",
       "transcript_snippet": "this whole strategy seems to be mocking me for having a dream that Charlie was betrayed.",
@@ -2983,7 +3101,9 @@
       "related_nodes": [
         "N-10389"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:17",
       "investigative_direction": "Obtain the full thread of messages with Charlie Kirk about dreams.",
       "transcript_snippet": "It's insane how many messages I have with Charlie Kirk about his dreams.",
@@ -3004,7 +3124,9 @@
       "related_nodes": [
         "N-10389"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:23",
       "investigative_direction": "Identify the priest and what he advised; the host gives no name here.",
       "transcript_snippet": "I did consult a priest. I felt like I needed spiritual guidance because I don't know everything.",
@@ -3026,7 +3148,9 @@
         "N-10389",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:23",
       "investigative_direction": "Obtain the messages showing Kirk linking his expected death to Turning Point.",
       "transcript_snippet": "just telling me that repeatedly he was going to die young and that Turning Point was going to be involved as I showed you.",
@@ -3050,7 +3174,9 @@
       "related_nodes": [
         "N-11034"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:23",
       "investigative_direction": "Obtain the text and its date, and identify who arranged Kirk's security in TPUSA's early years.",
       "transcript_snippet": "Charlie writing to me ha like I'm not allowed to go anywhere without security",
@@ -3074,7 +3200,9 @@
         "N-10389",
         "N-10422"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:56",
       "investigative_direction": "Obtain the texts from early 2018 and any identification of the older man.",
       "transcript_snippet": "This was in 2018, early 2018. Okay.",
@@ -3099,7 +3227,9 @@
       "related_nodes": [
         "N-10389"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:37",
       "investigative_direction": "Locate the earlier message the host says she showed viewers and the one containing the prisms of light account.",
       "transcript_snippet": "he was like a time traveler and he had to come back and he had to find me for some reason.",
@@ -3121,7 +3251,9 @@
       "related_nodes": [
         "N-10389"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:48",
       "investigative_direction": "Obtain the original text thread and date.",
       "transcript_snippet": "He won't tell you what he saw. He hasn't told me intentionally, just that I'm there and it's bad.",
@@ -3143,7 +3275,9 @@
       "related_nodes": [
         "N-10389"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:48",
       "investigative_direction": "The host offers no specific betrayal here; identify any documentary evidence that the people closest to Kirk acted against him.",
       "transcript_snippet": "I feel as strongly about the dream that I had that Charlie was betrayed by people closest to him.",
@@ -3166,7 +3300,9 @@
         "N-10387",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:47",
       "investigative_direction": "Identify the source and obtain the written account and any messages showing a job offer tied to a favor.",
       "transcript_snippet": "one person told me on record that he would also offer bribes to people like I'll get you a job at Turning Point USA if you do this for me.",
@@ -3187,7 +3323,9 @@
       "related_nodes": [
         "N-10390"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:51",
       "investigative_direction": "Check Arizona legislature and secretary of state records for Smith's term and resignation date.",
       "transcript_snippet": "Smith represented an Arizona House district in the Phoenix suburbs for one term before dropping his re-election bid in 2024 when questions arose about signatures on his nominating petitions.",
@@ -3209,7 +3347,9 @@
         "N-10000",
         "N-10390"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:14",
       "investigative_direction": "Obtain the original article and confirm Smith's dates at Turning Point Action.",
       "transcript_snippet": "So this was happening while he was at TurningPoint Action, the campaign arm of Turning Point USA, which has become a major force in Arizona Republican politics.",
@@ -3229,7 +3369,9 @@
         "N-10388",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:55",
       "investigative_direction": "Compare Turning Point Action's FEC and IRS filings with the tipster's claim; the host says it is not yet confirmed.",
       "transcript_snippet": "One of the early tips that we got from somebody inside of Turning Point USA was that a lot of money was missing from Turning Point Action.",
@@ -3248,7 +3390,9 @@
         "N-10000",
         "N-10388"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:55",
       "investigative_direction": "Obtain the September 2025 internal memo and DOGE records.",
       "transcript_snippet": "And we know Charlie was establishing this Doge.",
@@ -3269,7 +3413,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:50",
       "investigative_direction": "Identify what Kirk learned in the days before September 10, 2025, via staff accounts and his communications.",
       "transcript_snippet": "I think Charlie found something out about his organization very shortly before he died.",
@@ -3293,7 +3439,9 @@
       "related_nodes": [
         "N-10385"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:47",
       "investigative_direction": "Confirm the handle on Instagram.",
       "transcript_snippet": "this is her Instagram page. It's Mags Wgner.",
@@ -3314,7 +3462,9 @@
       "related_nodes": [
         "N-11120"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:56:19",
       "investigative_direction": "Check French agriculture ministry announcements on lumpy skin disease culls.",
       "transcript_snippet": "Have you heard about the culling of cattle and herds called cattle depopulation here supposedly to eliminate lumpy skin disease"
@@ -3331,7 +3481,9 @@
       "related_nodes": [
         "N-11120"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:56:19",
       "investigative_direction": "Identify the specific US actions and policies the host means.",
       "transcript_snippet": "They don't want us to be able to feed our families and that's why the the farmers, the ranchers, they're fighting the government right now.",
@@ -3351,7 +3503,9 @@
       "related_nodes": [
         "N-11120"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:57:00",
       "investigative_direction": "The host is unsure of the company; find the Daily Wire segment she says she covered.",
       "transcript_snippet": "There was also a story years ago about how they had poisoned the chicken feed, which I totally believe that happened and all of these hens were not laying.",
@@ -3370,7 +3524,9 @@
         "N-10270",
         "N-10316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:41",
       "investigative_direction": "The statement is the host's allegation about Brigitte Macron; refer to the Delaware filings and any evidence of the alleged crimes.",
       "transcript_snippet": "Like Mcronone is suing people for knowing the truth about crimes that she committed when she was a man.",
@@ -3389,7 +3545,9 @@
         "A-1595.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:41",
       "investigative_direction": "Ask the host to identify the people and charity she means and any record of the alleged connection.",
       "transcript_snippet": "There are This story has way too much child sex trafficking in it. Charlie Kirk story, me looking into different people.",
@@ -3408,7 +3566,9 @@
         "A-2845"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:32",
       "investigative_direction": "Catalogue which tips have been independently verified and which findings came from them.",
       "transcript_snippet": "is what is solving the mystery of what happened to Charlie Kirk on September 10th.",

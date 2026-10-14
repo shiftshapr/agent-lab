@@ -354,7 +354,7 @@
             "N-60",
             "N-205",
             "N-381",
-            "N-563"
+            "N-562"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -374,7 +374,7 @@
           "related_nodes": [
             "N-3",
             "N-60",
-            "N-563"
+            "N-562"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -1182,8 +1182,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-563",
-      "ref": "N-563",
+      "@id": "N-562",
+      "ref": "N-562",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
@@ -1752,8 +1752,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-608",
-      "ref": "N-608",
+      "@id": "N-607",
+      "ref": "N-607",
       "name": "Druski",
       "type": "person",
       "description": "Druski; named by Erika Kirk in her statement.",
@@ -1806,8 +1806,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-829",
-      "ref": "N-829",
+      "@id": "N-828",
+      "ref": "N-828",
       "name": "Dan Scavino",
       "type": "person",
       "description": "First named by the host at 00:23:21 in episode 096, as the person who sent Trump's tweets during his first term.",
@@ -1823,8 +1823,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-830",
-      "ref": "N-830",
+      "@id": "N-829",
+      "ref": "N-829",
       "name": "Natalie Harp",
       "type": "person",
       "description": "First named by the host at 00:23:21 in episode 096, as the person widely reported to send Trump's Truth Social posts.",
@@ -2202,7 +2202,7 @@
         "N-60",
         "N-205",
         "N-381",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -2287,7 +2287,9 @@
       "related_nodes": [
         "N-10587"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:43",
       "investigative_direction": "Pull Trump's Truth Social posts mentioning Candace Owens for the two weeks before April 29, 2026 and count them.",
       "transcript_snippet": "Yeah, this is actually the fourth tweet about me in the span of 2 weeks from the leader of the free world.",
@@ -2306,7 +2308,9 @@
       "related_nodes": [
         "N-10587"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:43",
       "investigative_direction": "Locate the earlier Trump posts or remarks calling the host low IQ and comparing her appearance to Brigitte Macron's.",
       "transcript_snippet": "He called me low IQ. He's already asserted that I was uglier than Brigitte, that actually between the two of us it's not even close.",
@@ -2324,7 +2328,9 @@
       "claim": "The host says Washington, D.C. runs on blackmail and secrets, with operators sent to find embarrassing secrets and offer targets a choice between complying and exposure.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:03:41",
       "investigative_direction": "No documentary test; the host gives no named case in this passage. Treat as a sweeping characterization.",
       "transcript_snippet": "By now, you are plenty aware that Washington, D. C. runs on blackmail and secrets, right?",
@@ -2342,7 +2348,9 @@
       "related_nodes": [
         "N-10640"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:25",
       "investigative_direction": "Compare the photo in Trump's post with the host's original 2019 post to confirm it is unaltered.",
       "transcript_snippet": "the photo he shared of me, to be clear with you guys, it is real. It is not AI.",
@@ -2361,7 +2369,9 @@
       "related_nodes": [
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:12",
       "investigative_direction": "Review Laura Loomer's X posts from the days before April 29, 2026 for the AI photos, hit-and-run story and trust claim.",
       "transcript_snippet": "4 days of his top advisor, Laura Loomer, sharing AI photos, illusory stories about drunken hit-and-runs, and fairy tales about secret trusts to hide money from the Macron",
@@ -2378,7 +2388,9 @@
       "claim": "The host says that during her 2016 illness she had two asthma attacks that landed her in the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:06:45",
       "investigative_direction": "Medical records, if the host chooses to release them; otherwise a personal account only.",
       "transcript_snippet": "I had two asthma attacks that landed me in the hospital and I had no idea what was happening.",
@@ -2394,7 +2406,9 @@
       "claim": "The host says a doctor told her the only way to beat the infection was a very strict candidiasis diet with no sugar, including fruit sugar.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:31",
       "investigative_direction": "Personal medical account; no record cited on air.",
       "transcript_snippet": "It's a very strict, uh, candidiasis diet and um, okay, I said, this is just what my life is going to have to be.",
@@ -2410,7 +2424,9 @@
       "claim": "The host says that in August 2019 she started her political YouTube channel for the first time, and that her cousin Mia filmed her and helped upload the first video.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:06",
       "investigative_direction": "Check the upload date of the first video on the host's YouTube channel.",
       "transcript_snippet": "in August of 2019, I started for the first time my political YouTube channel, having no idea how successful it would be.",
@@ -2428,7 +2444,9 @@
       "related_nodes": [
         "N-10640"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:12",
       "investigative_direction": "Obtain the cover image Trump shared and confirm its wording and whether it was AI-generated or an authentic Time cover.",
       "transcript_snippet": "Candace Owens lies, lies, lies, and uses rich white men.",
@@ -2445,7 +2463,9 @@
       "claim": "The host says that because of immigration law her husband was not allowed to work until he got a green card, so her income alone supported the household for almost two years of engagement and marriage.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:11",
       "investigative_direction": "Immigration timeline and work-authorization dates for George Farmer, if disclosed.",
       "transcript_snippet": "we were entirely supported by my income, because he was not allowed to work until he got a green card",
@@ -2462,7 +2482,9 @@
       "claim": "The host says she had no debts and a million-dollar book deal when she met her husband, and that about 800,000 copies of her first book were moved.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:11",
       "investigative_direction": "Publisher contract and sales data (Nielsen BookScan or publisher statements) for the host's first book.",
       "transcript_snippet": "I had a million-dollar book deal when I met him. I think we moved 800,000 copies of my first book.",
@@ -2479,7 +2501,9 @@
       "claim": "The host says her mother did not graduate high school, her father was a plumber for most of his life, and that her husband's family has generational wealth.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:16:56",
       "investigative_direction": "Personal biography; no document cited on air.",
       "transcript_snippet": "my mother did not even graduate high school. My father was a plumber for most most of his life.",
@@ -2498,7 +2522,9 @@
       "related_nodes": [
         "N-10590"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:55",
       "investigative_direction": "Identify the host's source and any third party who heard Loomer's comments about the WHCD.",
       "transcript_snippet": "she was ranting ranting to people uh because this is when she was deep in the throes of her psychosis about how she wasn't invited to the White House Correspondents Dinner",
@@ -2518,7 +2544,9 @@
         "N-10640",
         "N-10590"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:55",
       "investigative_direction": "Corroborate through White House staff, Loomer's own statements, or Truth Social posting logs.",
       "transcript_snippet": "she demanded a tweet of support from Trump. In fact, that is what does explain the hint of racism behind the tweet.",
@@ -2541,7 +2569,9 @@
         "A-2012.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:54",
       "investigative_direction": "Compare Loomer's audio source (the voice on the recording) against the host's school and residence history.",
       "transcript_snippet": "who's going to the club in high school I've never in my life actually been out in Greenwich Connecticut.",
@@ -2563,7 +2593,9 @@
       "related_nodes": [
         "N-10640"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:54",
       "investigative_direction": "Identify the host's source and seek confirmation from White House staff.",
       "transcript_snippet": "I am told specifically that Susie Wiles was staunchly opposed to credit to Susie Wiles.",
@@ -2583,7 +2615,9 @@
       "related_nodes": [
         "N-10590"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:21:40",
       "investigative_direction": "No evidence offered; any real test would require identifying the rumor's origin and Loomer's Air Force One travel record.",
       "transcript_snippet": "There has been of course a very long standing rumor that it's because she has blackmail on him a rumor but I'm reticent to believe right because it's Laura Loomer",
@@ -2603,7 +2637,9 @@
       "related_nodes": [
         "N-10590"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:32",
       "investigative_direction": "Find the Loomer statement being paraphrased and the people it was aimed at.",
       "transcript_snippet": "I won't stop I'll post your grandkids your mother your father I'll I won't stop until I get what I want",
@@ -2623,7 +2659,9 @@
         "N-10590",
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:32",
       "investigative_direction": "Line up the dates of Trump's posts about Carlson and Kelly against Loomer's posts on the same targets.",
       "transcript_snippet": "why did he send out this crazy tweet about Tucker Carlson or Megyn Kelly? If you go on to Laura Loomer's feed, you will see that it's her focus of the week.",
@@ -2644,14 +2682,16 @@
       "related_nodes": [
         "N-10640"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Identify who operates the Truth Social account (reporting on Harp and Scavino) and who posted the April 2026 message.",
       "transcript_snippet": "Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term.",
       "mentions_person_refs": [
         "N-5",
-        "N-829",
-        "N-830"
+        "N-828",
+        "N-829"
       ]
     },
     {
@@ -2667,7 +2707,9 @@
       "related_nodes": [
         "N-10637"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:18",
       "investigative_direction": "Official incident report, ballistic findings and the Washington Post surveillance footage.",
       "transcript_snippet": "a man stormed a security check at the White House Correspondents Dinner, and then Secret Service agents, and only Secret Service agents began firing their weapons.",
@@ -2688,7 +2730,9 @@
       "related_nodes": [
         "N-10637"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Attendee accounts and ballroom audio or video from the dinner.",
       "transcript_snippet": "the majority of the people uh could not that were inside could not even hear or distinguish the sound of what was going on.",
@@ -2706,7 +2750,9 @@
       "related_nodes": [
         "N-10637"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Locate Kolvet's on-air or posted account of the WHCD and compare wording.",
       "transcript_snippet": "who, when he recounted the story, uh was actually honest. He said he heard a sound. He honestly did not know what it was.",
@@ -2728,7 +2774,9 @@
         "N-10637",
         "N-10638"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:09",
       "investigative_direction": "Obtain the full Coleman show segment and the hotel and press camera positions in the corridor.",
       "transcript_snippet": "I just want to go home, and she just happened to say that right as she crossed the only camera that captured her leaving.",
@@ -2750,7 +2798,9 @@
       "related_nodes": [
         "N-10637"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:08",
       "investigative_direction": "Check WHCD attendance records for Charlie Kirk and for Trump's presidential terms.",
       "transcript_snippet": "An event that did not in any way require her presence, one which not even Charlie Kirk had ever attended.",
@@ -2770,7 +2820,9 @@
       "related_nodes": [
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:56",
       "investigative_direction": "Locate the Vance remarks about Erika Kirk's safety around the UGA cancellation.",
       "transcript_snippet": "Suddenly we got the Vice President lecturing us about not keeping Erika safe, right?",
@@ -2791,7 +2843,9 @@
       "related_nodes": [
         "N-10639"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:46",
       "investigative_direction": "Pull Erika Kirk's post and the show schedule for that week.",
       "transcript_snippet": "I need to spend time with my family, and then I will be on the Charlie Kirk show on Wednesday.",
@@ -2812,7 +2866,9 @@
       "related_nodes": [
         "N-10639"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:46",
       "investigative_direction": "Production metadata from the video and identification of the writer.",
       "transcript_snippet": "Second thing is that it was pre-recorded, okay? It was straight from the teleprompter and it was very clearly not written by her.",
@@ -2835,7 +2891,9 @@
         "N-10607",
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:35",
       "investigative_direction": "Compare TPUSA's UGA cancellation statements with Erika Kirk's WHCD attendance.",
       "transcript_snippet": "You literally just said you couldn't do your UGA commitment because there were credible threats and you couldn't trust the Secret Service to absolve them.",
@@ -2854,7 +2912,9 @@
       "related_nodes": [
         "N-10637"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:35",
       "investigative_direction": "Find Charlie Kirk show segments or posts mocking the WHCD.",
       "transcript_snippet": "That actually Charlie hated. He always made fun of the White House Correspondents Dinner.",
@@ -2878,7 +2938,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:12",
       "investigative_direction": "Obtain video of the Leavitt and Erika Kirk stage conversation and compare statements.",
       "transcript_snippet": "when she sat down with Karoline Leavitt on stage at Turning Point event, she says that she doesn't like she didn't read the headlines, she doesn't care",
@@ -2897,7 +2959,9 @@
       "related_nodes": [
         "N-10637"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:21",
       "investigative_direction": "Find the posted pre-party photos or video and their time and location.",
       "transcript_snippet": "she even went to a pre-party, I believe, right? That was posted as well.",
@@ -2918,13 +2982,15 @@
       "related_nodes": [
         "N-10639"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:37",
       "investigative_direction": "Review the full statement transcript for the Druski reference.",
       "transcript_snippet": "she name-dropped Drewski and she name-dropped me",
       "mentions_person_refs": [
         "N-2",
-        "N-608",
+        "N-607",
         "N-3"
       ]
     },
@@ -2940,7 +3006,9 @@
       "related_nodes": [
         "N-10639"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:37",
       "investigative_direction": "Identify who drafted the statement through script files, metadata or staff accounts.",
       "transcript_snippet": "this is why she's got to stop working with Blake Neff. It's giving Blakey Neff wrote it.",
@@ -2962,7 +3030,9 @@
       "related_nodes": [
         "N-10639"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:25",
       "investigative_direction": "Review the statement video and identify the whiteface comedy referenced.",
       "transcript_snippet": "I have comedians dressing up in whiteface. I have people saying I'm not fit to be CEO and I have Candace Owens claiming I murdered my husband",
@@ -2986,7 +3056,9 @@
       "related_nodes": [
         "N-10647"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:26",
       "investigative_direction": "Search the host's full archive for any explicit statement that Erika Kirk killed or arranged Charlie Kirk's death.",
       "transcript_snippet": "Candace Owens never once made the explicit claim that you murdered your husband. All she has accused you of is being a liar and a fraud.",
@@ -3010,7 +3082,9 @@
       "related_nodes": [
         "N-10647"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:21",
       "investigative_direction": "Locate Blake Neff's post making this argument.",
       "transcript_snippet": "Blake Neff came out and said, \"Well, Candace didn't say it, but she implied it.\"",
@@ -3032,7 +3106,9 @@
       "related_nodes": [
         "N-10647"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:21",
       "investigative_direction": "Identify the earlier episode and confirm the wording.",
       "transcript_snippet": "She implied it in the episode where I said that the police should drag Erika in for questioning.",
@@ -3055,7 +3131,9 @@
         "N-10641",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:01",
       "investigative_direction": "Trace how the screenshot reached Kolvet and who at TPUSA had access to the thread.",
       "transcript_snippet": "I'm assuming employees passed this around and now kind of explains why so many people got fired.",
@@ -3080,7 +3158,9 @@
         "N-10349",
         "N-10641"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:52",
       "investigative_direction": "Compare the date on the text message with the Erika Kirk and Bari Weiss CBS interview date.",
       "transcript_snippet": "this was during the week where Erika was going viral for her interview with Barry Weiss for a number of very funny reasons",
@@ -3105,7 +3185,9 @@
       "related_nodes": [
         "N-10641"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:52",
       "investigative_direction": "Compare with Erika Kirk's or Justin Streiff's account of the meeting and the host's recordings or notes.",
       "transcript_snippet": "because when I met up with Erika I never asked this question",
@@ -3127,12 +3209,14 @@
       "related_nodes": [
         "N-10552"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:58",
       "investigative_direction": "Aubrey Lech's own account, and a comparison of the host's reporting against what Lech could have known.",
       "transcript_snippet": "I've had many conversations with her, but nothing was leaked to me about their that I presented on this show about anything that was going on internal.",
       "mentions_person_refs": [
-        "N-563",
+        "N-562",
         "N-3",
         "N-14"
       ]
@@ -3147,7 +3231,9 @@
       "related_nodes": [
         "N-10647"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:58",
       "investigative_direction": "Identify which statements the host says were lies and test them against records.",
       "transcript_snippet": "I thought that I was going to get straight answers and then she lied to my face.",
@@ -3166,7 +3252,9 @@
       "related_nodes": [
         "N-10664"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:58",
       "investigative_direction": "Obtain the original Aspen recording and have its provenance and audio forensically examined.",
       "transcript_snippet": "I am saying that donors are telling us that that was an AI video or an AI audio that you presented of Charlie Kirk.",
@@ -3186,7 +3274,9 @@
       "related_nodes": [
         "N-10664"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:54",
       "investigative_direction": "Identify the donors and event; request the unreleased video from TPUSA.",
       "transcript_snippet": "I spoke to multiple donors that were at that event. It is strange that you will not release that video.",
@@ -3207,7 +3297,9 @@
       "related_nodes": [
         "N-10647"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:54",
       "investigative_direction": "Cross-check the host's past episodes for any claim that Erika Kirk shot or arranged the killing.",
       "transcript_snippet": "No, I'm not accusing you of shooting your husband. What I am accusing that I have been open about on this show is that it reeks of dishonesty",
@@ -3232,7 +3324,9 @@
       "related_nodes": [
         "N-10202"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:56:41",
       "investigative_direction": "Event photos of Erika Kirk and Kash Patel at the WHCD and the status of discovery requests in the Robinson case.",
       "transcript_snippet": "you're standing next to the FBI director that's holding up your case.",
@@ -3253,7 +3347,9 @@
         "N-10447",
         "N-10358"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:56:41",
       "investigative_direction": "The surgeon's account of the call, phone records, and Erika Kirk's and Kolvet's statements.",
       "transcript_snippet": "The surgeon went rogue. Andrew Kolb went rogue. I wasn't a part of the conversation. You lied about that, Erika.",
@@ -3278,7 +3374,9 @@
         "N-10664",
         "N-10194"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:57:33",
       "investigative_direction": "Identify the donors and the event; compare their accounts with the Aspen audio.",
       "transcript_snippet": "you lying allegedly, according to donors that were present, about Charlie saying",
@@ -3303,7 +3401,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:58:23",
       "investigative_direction": "Obtain the Coleman clip and the list of falsehoods he regards as documented.",
       "transcript_snippet": "There's no requirement I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods.",
@@ -3326,7 +3426,9 @@
       "related_nodes": [
         "N-10647"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:17",
       "investigative_direction": "Compare Neff's and Kolvet's posts side by side.",
       "transcript_snippet": "you can't get on board with the same messaging. Blake Neff already gave a different excuse.",
@@ -3350,7 +3452,9 @@
         "N-10447",
         "N-10358"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:01:47",
       "investigative_direction": "Phone records of the call and testimony from participants.",
       "transcript_snippet": "to claim that you weren't on the phone when you were, and you facilitated that entire conversation.",
@@ -3371,7 +3475,9 @@
       "claim": "The host says Laura Loomer claimed the host and her husband live separately in two houses and that she has dual citizenship, and says none of it is true.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:02:34",
       "investigative_direction": "Loomer's original posts and public records on residence and citizenship.",
       "transcript_snippet": "according to Laura Loomer we were we were living separate and in two different houses, and I had dual citizenship. Of course, none of that is true.",
@@ -3389,7 +3495,9 @@
       "claim": "The host says Laura Loomer claimed George Farmer was in a secret gay relationship with Milo Yiannopoulos, offering an AI photo of him in a silk shirt as proof.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:02:34",
       "investigative_direction": "Loomer's original post and the image used.",
       "transcript_snippet": "Then it was George is in a secret gay relationship with Milo.",
@@ -3408,7 +3516,9 @@
       "claim": "The host says George Farmer had never met Milo at all, not once in London, until the day she interviewed Milo at the house.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:02:34",
       "investigative_direction": "Date of the host's interview with Milo Yiannopoulos and testimony from Farmer or Yiannopoulos.",
       "transcript_snippet": "George had never even met Milo at all, not once in London, until the day that I interviewed him here in this house.",
@@ -3430,7 +3540,9 @@
       "related_nodes": [
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:04:10",
       "investigative_direction": "Court docket for the Macron suit showing any withdrawal of counsel and Loomer's original post.",
       "transcript_snippet": "I reported her Zionist Jewish lawyer dropping her ahead of an important deadline in her lawsuit with the Macrons next week.",
@@ -3453,7 +3565,9 @@
       "related_nodes": [
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:04:10",
       "investigative_direction": "Loomer's original post and any property or trust records.",
       "transcript_snippet": "Remember I exposed her secret trust where she's hiding nearly 12 million dollars in real estate among other assets.",
@@ -3472,12 +3586,14 @@
         "A-2012.4"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:05:54",
       "investigative_direction": "Aubrey Lech's original post.",
       "transcript_snippet": "An obvious AI photo joke from Aubrey saying, \"Happy birthday, Candace.\"",
       "mentions_person_refs": [
-        "N-563",
+        "N-562",
         "N-3"
       ]
     },
@@ -3491,7 +3607,9 @@
         "A-2013.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:05:54",
       "investigative_direction": "Travel bookings and the March announcement of the confirmation date.",
       "transcript_snippet": "no, this was not an abrupt trip, but a completely planned, as it is when you have children.",
@@ -3513,7 +3631,9 @@
         "A-2012.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:07:45",
       "investigative_direction": "Travel records or statements from the three named people.",
       "transcript_snippet": "No, I did not see Aubrey. I did not see Nick Fuentes. I did not see David Axelrod.",
@@ -3521,7 +3641,7 @@
         "C-2806"
       ],
       "mentions_person_refs": [
-        "N-563",
+        "N-562",
         "N-205",
         "N-381",
         "N-3"
@@ -3535,7 +3655,9 @@
       "claim": "The host says part of the reason she had no response to Trump was that she told her priest she would stay calm, and he was present at the confirmation.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:07:45",
       "investigative_direction": "Personal account; the priest's confirmation would be needed.",
       "transcript_snippet": "that was part of the reason why I had no response to Trump. Uh cuz I told my priest I would chill",
@@ -3554,7 +3676,9 @@
       "related_nodes": [
         "N-10613"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:08:32",
       "investigative_direction": "Compare the recording date of the Corby Hall episode with the host's travel dates.",
       "transcript_snippet": "we recorded the Corby Hall episode because we were trying to cover for Thursday",
@@ -3575,7 +3699,9 @@
       "related_nodes": [
         "N-10601"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:12:06",
       "investigative_direction": "The Corby Hall episode and any correspondence about the 50,000-gun offer.",
       "transcript_snippet": "he gets an offer to sell 50,000 guns and he turns it down on principle.",
@@ -3594,7 +3720,9 @@
       "related_nodes": [
         "N-10613"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:12:06",
       "investigative_direction": "The host's Instagram messages and Marx's response, if any.",
       "transcript_snippet": "He never replied uh to my Instagram at all and I followed up",
@@ -3613,7 +3741,9 @@
         "A-2013.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:12:40",
       "investigative_direction": "Host's confirmation records.",
       "transcript_snippet": "for my confirmation name I picked a Saint Joan.",
@@ -3632,7 +3762,9 @@
       "claim": "The host says she did not meet the Pope and only toured the Vatican with her children.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:14:42",
       "investigative_direction": "Public schedule of Pope Leo XIV audiences versus the host's travel dates.",
       "transcript_snippet": "I did not meet the Pope.",

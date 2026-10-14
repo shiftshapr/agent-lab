@@ -1163,8 +1163,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-604",
+      "ref": "N-604",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Pete Hegseth; named in the host's sarcastic list of TPUSA 2.0 connections (transcribed \"Hegsmith\").",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-746",
-      "ref": "N-746",
+      "@id": "N-745",
+      "ref": "N-745",
       "name": "Stu Peters",
       "type": "person",
       "description": "Stu Peters; the host says Blake Neff worked for him before the Charlie Kirk show job.",
@@ -1197,8 +1197,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-601",
-      "ref": "N-601",
+      "@id": "N-600",
+      "ref": "N-600",
       "name": "Matt Tardio",
       "type": "person",
       "description": "Matt Tardio; the host says TPUSA welcomes him despite his conduct near ICE facilities.",
@@ -1939,7 +1939,9 @@
       "related_nodes": [
         "N-11313"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Host's own statement; the planned leave is covered by the later comment claim.",
       "transcript_snippet": "First and foremost, I'm I'm very pregnant, so I'm just feeling chubby.",
@@ -1961,7 +1963,9 @@
         "N-10071",
         "N-10840"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:15",
       "investigative_direction": "Obtain the UVU event request form and its submission metadata to confirm the date.",
       "transcript_snippet": "TPUSA in mid July to be precise on July 18th uh filled out a form to host this event",
@@ -1982,7 +1986,9 @@
         "N-10071",
         "N-10840"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:06",
       "investigative_direction": "Obtain the ABC News article and University of Utah April 2024 event attendance records.",
       "transcript_snippet": "the last time Charlie Kirk had been to Utah uh was in April of 2024 and he was at the University of Utah and they had 200 people show up.",
@@ -2005,7 +2011,9 @@
         "N-10012",
         "N-10840"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:06",
       "investigative_direction": "Review TPUSA and UVU promotion records for the September 10 event, including social posts and flyers.",
       "transcript_snippet": "3,000 people show up for this event, which was barely advertised.",
@@ -2028,7 +2036,9 @@
         "N-10071",
         "N-10840"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:04",
       "investigative_direction": "Compare the early July and July 18 dates against the UVU form record and TPUSA's statement to ABC.",
       "transcript_snippet": "on an online form submitted in early July, a TPUSA UVU chapter member selected 200 plus as the max attendance option available on the school's online form.",
@@ -2052,7 +2062,9 @@
         "N-10012",
         "N-10840"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:04",
       "investigative_direction": "Obtain the UVU police staffing plan and the press conference recording.",
       "transcript_snippet": "noting that they had six officers working at the event and Kirk had his own security team.",
@@ -2072,7 +2084,9 @@
       "related_nodes": [
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:04",
       "investigative_direction": "Compare crowd footage from September 10 with footage of the host's earlier UVU event; seek attendee demographics.",
       "transcript_snippet": "And I noted right away it was a crowd of adults. This did not look to me like a typical Turning Point USA event.",
@@ -2094,7 +2108,9 @@
         "N-10012",
         "N-10028"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:04",
       "investigative_direction": "Obtain the unredacted UVU email and the reply to learn who suggested the move and why it was not adopted.",
       "transcript_snippet": "someone with a UVU email address whose name was redacted by the school suggested that the event be held elsewhere on campus.",
@@ -2116,7 +2132,9 @@
         "N-10071",
         "N-10840"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:21",
       "investigative_direction": "Ask UVU for the identities and deployment of the two medical personnel and their incident log.",
       "transcript_snippet": "told ABC News that there were two UVU emergency medical personnel on site but not an ambulance.",
@@ -2141,7 +2159,9 @@
         "N-10071",
         "N-10840"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:21",
       "investigative_direction": "Obtain the TPUSA security roster and equipment list for September 10 and compare to the reported 12.",
       "transcript_snippet": "Because TPUSA's safety team staffed up for the event to 12 security on site, up from the usual 8 to9, a team comprised of ex-military and law enforcement personnel trained and equipped with a full emergency medical kit",
@@ -2162,7 +2182,9 @@
         "N-11314",
         "N-10840"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:21",
       "investigative_direction": "Compare the November 2025 ABC statement with the language of the current filing.",
       "transcript_snippet": "Now all of a sudden this filing, they're no longer equipped.",
@@ -2186,7 +2208,9 @@
         "N-11314",
         "N-10840"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:52",
       "investigative_direction": "Obtain the filing and its date, defendants and the exact ambulance allegation.",
       "transcript_snippet": "now the Kirk family lawyer is filing a document that the decision not to have an ambulance on standby was negligent and amounted to a wrongful death.",
@@ -2204,7 +2228,9 @@
       "related_nodes": [
         "N-10003"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:45",
       "investigative_direction": "Locate Kolvet's public statements on the end of the friendship and their dates.",
       "transcript_snippet": "Also recall that recently Andrew has been trying to spin to the public that Charlie and me were not friends since 2018.",
@@ -2224,7 +2250,9 @@
       "related_nodes": [
         "N-10003"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:45",
       "investigative_direction": "Wedding guest lists, photos and travel records for August 2019.",
       "transcript_snippet": "Charlie and Erika came to my wedding in August of 2019, which was a year beyond 2018.",
@@ -2248,7 +2276,9 @@
         "N-10003",
         "N-10075"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:45",
       "investigative_direction": "White House event records and coverage of the October 2019 summit.",
       "transcript_snippet": "we hosted the Black Leadership Summit together, me and Charlie, in October of 2019 at the White House.",
@@ -2273,7 +2303,9 @@
         "N-10003",
         "N-10842"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:45",
       "investigative_direction": "Authenticate the November 2019 Charlie-Candace texts the host refers to.",
       "transcript_snippet": "it became very obvious to me and Charlie who were speaking daily that people were trying to force either me or him to make a statement about one another.",
@@ -2290,7 +2322,9 @@
       "claim": "The host says 2019 is when Charlie began dating Erika Frantzve fully in public.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:45",
       "investigative_direction": "Public records and posts showing when Charlie and Erika's relationship became public.",
       "transcript_snippet": "this is when he begins dating Erika Frantzve fully in public.",
@@ -2311,7 +2345,9 @@
       "related_nodes": [
         "N-10842"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:45",
       "investigative_direction": "Examine the screenshot's date format and any Telegram export from November 2019 for the forwarded message.",
       "transcript_snippet": "we are pretty confident that this means he's he copied it from Telegram.",
@@ -2333,7 +2369,9 @@
       "related_nodes": [
         "N-10842"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:45",
       "investigative_direction": "Obtain the full text thread and trace the original source of the message Kolvet forwarded.",
       "transcript_snippet": "He writes, \"The Graers on their walls.\"",
@@ -2354,7 +2392,9 @@
       "related_nodes": [
         "N-10842"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:00",
       "investigative_direction": "Confirm from the thread that \"Charlie's girlfriend\" is Erika Frantzve and how she came to the posts.",
       "transcript_snippet": "And he says, \"Charlie's girlfriend found it.\"",
@@ -2376,7 +2416,9 @@
       "related_nodes": [
         "N-10842"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:00",
       "investigative_direction": "Review the full thread timestamps for the gap between her question and his reply.",
       "transcript_snippet": "So I say where though and then he ghosts me.",
@@ -2398,7 +2440,9 @@
         "N-10003",
         "N-10842"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:00",
       "investigative_direction": "Match Kolvet's 2025 statements to the 2019 forwarded text wording.",
       "transcript_snippet": "Fast forward to 2025 and Andrew Kovette is going to repeat this narrative",
@@ -2424,7 +2468,9 @@
       "related_nodes": [
         "N-10842"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:00",
       "investigative_direction": "Retrieve the Vox article from November 2019 and check every outbound link for the 4plebs thread.",
       "transcript_snippet": "I am not mentioned in the article at all. And the article does not link to this post.",
@@ -2447,7 +2493,9 @@
         "N-10533",
         "N-10841"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:36",
       "investigative_direction": "Locate the Newsweek letter and the school newsletter wording.",
       "transcript_snippet": "they called it secret because the the high school told them",
@@ -2469,7 +2517,9 @@
         "N-10533",
         "N-10841"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:36",
       "investigative_direction": "Compare TPUSA's donor-facing attendance figures with school attendance records for school assemblies.",
       "transcript_snippet": "so that you could lie to donors about attendance numbers.",
@@ -2490,7 +2540,9 @@
         "N-10533",
         "N-10841"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:24:37",
       "investigative_direction": "Obtain the weekly newsletter and any TPUSA or school statements on promotion.",
       "transcript_snippet": "were told that neither Turning Point USA nor the school would be posting about it across their socials.",
@@ -2509,13 +2561,15 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:09",
       "investigative_direction": "Identify documented TPUSA contacts with the Patel FBI, Hegseth Pentagon and White House.",
       "transcript_snippet": "We know Kash Patel. We know Pete Hegsmith. We got We got the Exec office on speed dial.",
       "mentions_person_refs": [
         "N-69",
-        "N-605",
+        "N-604",
         "N-3"
       ]
     },
@@ -2531,7 +2585,9 @@
       "related_nodes": [
         "N-10533"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:10",
       "investigative_direction": "Obtain the full Aspen audio and verify this passage against the recording.",
       "transcript_snippet": "What we are trying to do is try to have full occupation where it's not a question of, hey, do you have a Club America chapter?",
@@ -2554,7 +2610,9 @@
         "N-10533",
         "N-10841"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:54",
       "investigative_direction": "Seek any donation or fee records tied to the Nampa Christian School visit.",
       "transcript_snippet": "the parents were wondering, are we paying for this?",
@@ -2572,7 +2630,9 @@
       "related_nodes": [
         "N-11312"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:33",
       "investigative_direction": "Identify TPUSA staff who can say who handled Erika's media in August 2025 and under what role.",
       "transcript_snippet": "Andrew Kovat should not have been doing public public relations for Erika Kirk in August of 2025.",
@@ -2592,7 +2652,9 @@
       "related_nodes": [
         "N-11312"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:33",
       "investigative_direction": "Talk to former TPUSA communications staff about the media policy for Erika Kirk and TPUSA Faith.",
       "transcript_snippet": "I am told that in that capacity they would handle her media.",
@@ -2615,7 +2677,9 @@
       "related_nodes": [
         "N-11246"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:33",
       "investigative_direction": "Business filings, sales and tax records for Proclaim 365 and its relation to Proclaim Streetwear.",
       "transcript_snippet": "called Proclaim 365, which by the way, that deserves an episode in and of itself because for the life of me, I cannot figure out how it functions or if it functions as a profitable business.",
@@ -2637,7 +2701,9 @@
       "related_nodes": [
         "N-10846"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:28",
       "investigative_direction": "Collect the published reviews of Ghislaine Maxwell: Epstein's Shadow.",
       "transcript_snippet": "Most notably, people were criticizing it for being too soft on Galain.",
@@ -2658,7 +2724,9 @@
       "related_nodes": [
         "N-10846"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:00",
       "investigative_direction": "Obtain the Variety review and verify the quotation.",
       "transcript_snippet": "explicitly states that Monroe was not murdered.",
@@ -2678,7 +2746,9 @@
       "related_nodes": [
         "N-10846"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:05",
       "investigative_direction": "Check Empress Films' Dando documentary credits and the sourcing of the theory.",
       "transcript_snippet": "many people who claim that she was actually investigating a pedophile network at the BBC, which included Jimmy Savile.",
@@ -2699,7 +2769,9 @@
         "N-10846",
         "N-10844"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:05",
       "investigative_direction": "Identify the source of the staff photo and confirm the shirt wording.",
       "transcript_snippet": "proud feminists at the Empress films.",
@@ -2719,7 +2791,9 @@
       "related_nodes": [
         "N-11057"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:02",
       "investigative_direction": "Ask Carlson, Neff and TPUSA how Neff was hired and who recommended him.",
       "transcript_snippet": "Tucker Carlson had a heart and makes a phone call to help Blake Nef get this job",
@@ -2740,13 +2814,15 @@
       "related_nodes": [
         "N-11057"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:02",
       "investigative_direction": "Check Neff's employment history between leaving Fox and joining TPUSA.",
       "transcript_snippet": "He was actually working for Stu Peters and he calls in effectively a favor to get him this job with Charlie Kirk.",
       "mentions_person_refs": [
         "N-162",
-        "N-746",
+        "N-745",
         "N-22",
         "N-1"
       ]
@@ -2761,7 +2837,9 @@
       "related_nodes": [
         "N-11057"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:02",
       "investigative_direction": "Check contemporaneous reporting on the Neff scandal.",
       "transcript_snippet": "Blake Knap was involved in this racism scandal for being a total creep online",
@@ -2782,7 +2860,9 @@
       "related_nodes": [
         "N-10845"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:28",
       "investigative_direction": "Obtain the Politico article and compare its headline and subtitle with the host's quotation.",
       "transcript_snippet": "Charlie Kirk's lieutenant has second thoughts.",
@@ -2804,7 +2884,9 @@
       "related_nodes": [
         "N-10845"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:43",
       "investigative_direction": "Check the full Carlson segment and the Politico text to see where Ward wrote the phrase.",
       "transcript_snippet": "that's not a Blake Nef quote.",
@@ -2825,7 +2907,9 @@
       "related_nodes": [
         "N-10845"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:43",
       "investigative_direction": "Verify the clip against the original Tucker Carlson broadcast.",
       "transcript_snippet": "there's no maximalist position on free speech anymore than there is on pregnancy.",
@@ -2846,7 +2930,9 @@
       "related_nodes": [
         "N-10845"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:43",
       "investigative_direction": "Verify the clip against the original Tucker Carlson broadcast.",
       "transcript_snippet": "Probably because they spend way too much time on social media and they read every attack on themselves and they get more paranoid.",
@@ -2867,7 +2953,9 @@
       "related_nodes": [
         "N-10845"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:15",
       "investigative_direction": "Check the full Neff quotation in the Politico profile.",
       "transcript_snippet": "We got what we wanted on speech and that means we also have to endure a lot of things that were tamped down on before.",
@@ -2889,7 +2977,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:04",
       "investigative_direction": "Collect the legal letters sent to critics and identify who signed or sent them.",
       "transcript_snippet": "They are either sending out legal letters like they believe now that speech needs to be fought",
@@ -2913,7 +3003,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:04",
       "investigative_direction": "Review the debate record for the claims made and any link to TPUSA.",
       "transcript_snippet": "They want def trying to walk people into defamation claims as you guys saw when I did my debate with Andrew Wilson.",
@@ -2933,7 +3025,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:34",
       "investigative_direction": "Identify specific hit pieces or lawsuits and whether TPUSA or its officers paid for or ordered them.",
       "transcript_snippet": "You'll make a person publish a hit piece. You've got money you can spend to have somebody attacked. You'll launch lawsuits to shut people up.",
@@ -2953,7 +3047,9 @@
       "related_nodes": [
         "N-11313"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:56",
       "investigative_direction": "Host's own announcement; confirm leave dates and fill-in schedule from the show.",
       "transcript_snippet": "They were probably so excited. Like she's gone for like eight weeks.",
@@ -2972,7 +3068,9 @@
       "related_nodes": [
         "N-10872"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:56:57",
       "investigative_direction": "Find the Tucker Carlson interview with the Cole family and check what exactly they say.",
       "transcript_snippet": "And actually now Brian Cole's parents are speaking out. They're actually going on Tucker Carlson to say that it was a federal operation.",
@@ -2992,7 +3090,9 @@
         "N-10872",
         "N-10873"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:56:57",
       "investigative_direction": "Identify the reporters and release dates of the Cole traffic-stop footage and the Robinson footage.",
       "transcript_snippet": "And what did they do? They immediately released old footage of Brian Cole being pulled over.",
@@ -3015,7 +3115,9 @@
         "N-11147",
         "N-10872"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:56:57",
       "investigative_direction": "The host offers no evidence here; see January 6 federal coordination records.",
       "transcript_snippet": "January 6th was a fed operation.",
@@ -3035,7 +3137,9 @@
         "N-10872",
         "N-10873"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:57:59",
       "investigative_direction": "The host offers no documents; compare the retention practice for the Cole and Robinson footage with ordinary retention rules.",
       "transcript_snippet": "they're keeping them in a file in case the feds need to commit a crime and pin it on them.",
@@ -3054,12 +3158,14 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:58:57",
       "investigative_direction": "Identify the incident involving Tardio and ICE facilities and the TPUSA appearances referred to.",
       "transcript_snippet": "while you are chasing young women down alleys in front of ICE facilities.",
       "mentions_person_refs": [
-        "N-601",
+        "N-600",
         "N-2",
         "N-3"
       ]
@@ -3077,7 +3183,9 @@
         "N-10003",
         "N-10842"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:02:19",
       "investigative_direction": "Check the 2019 thread to see who first attributed the posts to the Groypers.",
       "transcript_snippet": "And then we have this outside person at the time, Erika Frantzve, being like, \"Oh, it's the Grapers.\"",
@@ -3100,7 +3208,9 @@
       "related_nodes": [
         "N-10003"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:03:02",
       "investigative_direction": "Compare Kolvet's 2019 groyper explanation with his 2025 public statements.",
       "transcript_snippet": "Did Charlie and I stop being friends in 2019? Or do the Grapers make that up? It can't be both.",

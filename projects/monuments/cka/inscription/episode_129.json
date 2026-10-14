@@ -1054,8 +1054,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-516",
-      "ref": "N-516",
+      "@id": "N-515",
+      "ref": "N-515",
       "name": "Nate Walker",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
@@ -1094,7 +1094,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "Justin Streiff (spelled Strife), TPUSA COO; the host says he and Erika gave her the Danny Philip call account.",
       "related_artifacts": [],
@@ -1271,8 +1271,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-557",
-      "ref": "N-557",
+      "@id": "N-556",
+      "ref": "N-556",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Tracy Martin; the host's guess for the Daily Mail family friend.",
@@ -2054,7 +2054,7 @@
         "N-5",
         "N-194",
         "N-162",
-        "N-516"
+        "N-515"
       ]
     },
     {
@@ -2300,7 +2300,9 @@
         "N-10741",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:51",
       "investigative_direction": "Collect TPUSA and Charlie Kirk Show statements that use the Sandy Hook comparison, with dates, and check whether any legal action has been threatened or filed against the host.",
       "transcript_snippet": "They are signaling, again, if you are paying attention, that they want people, or maybe just one particular person, to be bankrupted for asking mean- meaningful questions about their founder's death.",
@@ -2319,7 +2321,9 @@
       "related_nodes": [
         "N-11218"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:46",
       "investigative_direction": "Compare the 911 call and dispatch times, the vehicle's departure and arrival times, and the hospital's intake log to fix the length of the ride.",
       "transcript_snippet": "that increasingly complicated approximately 7-minute ride to the hospital, approximate 7 minutes, right?",
@@ -2340,7 +2344,9 @@
         "N-10771",
         "N-10740"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:20",
       "investigative_direction": "Obtain the full-resolution original of the door photograph and the photographer's identity; ask a forensic photographer to assess the stain pattern on the door and handle.",
       "transcript_snippet": "the only place that we could see blood on this door was just there at the handle.",
@@ -2361,7 +2367,9 @@
         "N-10771",
         "N-10362"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:20",
       "investigative_direction": "Check the EXIF data and the photo's source to date it; compare with the vehicle's later cleaning and resale record.",
       "transcript_snippet": "And again, this is in the immediate aftermath. This is not after the car's cleaned up",
@@ -2380,7 +2388,9 @@
         "N-10684",
         "N-10707"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:11",
       "investigative_direction": "Locate Harpole's own statement on who cut the shirt and with what; ask the hospital and investigators whether scissors were collected.",
       "transcript_snippet": "He cut He said he cut the shirt. Whose scissors did he use?",
@@ -2399,7 +2409,9 @@
       "related_nodes": [
         "N-10362"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:02",
       "investigative_direction": "Obtain the rental company, tow and resale records for the SUV and any law enforcement release or hold documents.",
       "transcript_snippet": "I don't know why the feds would want this car immediately released, towed, cleaned up, and resold so fast.",
@@ -2415,7 +2427,9 @@
       "claim": "The host says Danny Philip was new at Turning Point USA, having started working full-time in May after he graduated, and that she had assumed Danny was someone Mikey McCoy phoned back in Arizona.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:36",
       "investigative_direction": "Check Philip's graduation date and TPUSA hiring paperwork or payroll start date.",
       "transcript_snippet": "New as in started working full-time in May after he graduated out of school.",
@@ -2438,7 +2452,9 @@
       "related_nodes": [
         "N-11061"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Obtain the rental agreements for both SUVs and the passenger assignments for each leg of the day.",
       "transcript_snippet": "So two SUVs were rented by Mikey McCoy in Salt Lake City.",
@@ -2449,7 +2465,7 @@
         "N-194",
         "N-162",
         "N-375",
-        "N-516",
+        "N-515",
         "N-1"
       ]
     },
@@ -2463,7 +2479,9 @@
       "related_nodes": [
         "N-10715"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Ask Neff and Philip for their movements that morning and check vehicle GPS or toll records for the second SUV.",
       "transcript_snippet": "Blake Neff doesn't remember where they went in Salt Lake City.",
@@ -2480,7 +2498,9 @@
       "claim": "The host says she believes Danny Philip was driving the second SUV, that she feels she saw it somewhere, and that she did not fact-check it herself.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Identify the source of the driver detail and check it against the rental agreement and any footage of the second SUV.",
       "transcript_snippet": "Now I believe that Danny was driving the SUV. I feel like I saw that somewhere.",
@@ -2497,7 +2517,9 @@
       "claim": "The host says Danny Philip stood next to Butch Hibbs on Charlie's right side while Blake Neff stood next to Mikey McCoy on Charlie's left, on opposite sides of the tent when the sound of the explosive rang out.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:29",
       "investigative_direction": "Verify each man's position against the stage footage and the seating and standing diagram of the tent.",
       "transcript_snippet": "What we do know is that Danny and Blake were standing on opposite sides of the tent when the sound of the explosive rang out.",
@@ -2521,7 +2543,9 @@
       "related_nodes": [
         "N-10338"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:29",
       "investigative_direction": "Obtain authenticated call detail records for Mikey McCoy's phone for 12:23 to 12:35 Utah time.",
       "transcript_snippet": "Mikey, as we know, immediately presses his phone to his ear and walks away and calls his wife, Elizabeth.",
@@ -2545,7 +2569,9 @@
         "N-10905",
         "N-10968"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:29",
       "investigative_direction": "Obtain the New York Times interview text and compare its call timing with the call detail records.",
       "transcript_snippet": "said that at 11:23, obviously adjusting for time, 12:23 I guess, uh in uh local time Utah, 11:23 her time, she was looking at her phone and within seconds Mikey called her.",
@@ -2567,7 +2593,9 @@
         "N-10338",
         "N-10742"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:40",
       "investigative_direction": "Obtain the call detail record showing when the merge to Erika's number occurred.",
       "transcript_snippet": "Um then we found out months later that actually no, Mikey called his own wife first and Erika was added to that phone call 3 minutes later.",
@@ -2593,7 +2621,9 @@
       "related_nodes": [
         "N-10715"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:40",
       "investigative_direction": "Obtain footage placing Neff and McCoy together at 12:25 and compare with their recorded call times.",
       "transcript_snippet": "So, just 2 minutes after Charlie's hit at 12:25, Blake and Mikey are back together and they're speaking and coordinating.",
@@ -2615,7 +2645,9 @@
       "related_nodes": [
         "N-10742"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:48",
       "investigative_direction": "Obtain Neff's phone records for the call to his mother and compare its time and length with Mikey McCoy's call sequence.",
       "transcript_snippet": "around the same time I pull out my phone and I call my mom just to say",
@@ -2636,7 +2668,9 @@
       "related_nodes": [
         "N-10338"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:44",
       "investigative_direction": "Verify the length of the Mikey-to-Erika call in the call detail records.",
       "transcript_snippet": "Mikey's discussion with Erika, we know lasted less than 2 minutes.",
@@ -2657,7 +2691,9 @@
         "N-10905",
         "N-10968"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:44",
       "investigative_direction": "Check the Jesse Watters interview and the New York Times article for the exact words Erika used.",
       "transcript_snippet": "That's what she tells, I believe, Jesse Watters. That's certainly what she told the New York Times.",
@@ -2678,7 +2714,9 @@
       "related_nodes": [
         "N-10742"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:34",
       "investigative_direction": "Obtain the call detail record showing which number placed the Philip-McCoy call and when it started and ended.",
       "transcript_snippet": "And then Danny calls Mikey. And they stay on the phone for 10 minutes.",
@@ -2700,7 +2738,9 @@
         "N-10742",
         "N-10820"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:26",
       "investigative_direction": "Resolve which SUV each man entered using footage and statements, since the host elsewhere has Mikey in the SUV carrying Charlie.",
       "transcript_snippet": "Danny, Blake, and Mikey all run the same direction direction. They get into the same car. Their cars are parked right next to one another's.",
@@ -2720,7 +2760,9 @@
       "related_nodes": [
         "N-10300"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:26",
       "investigative_direction": "Identify what Streiff and Erika told the host about this call and compare with the call records.",
       "transcript_snippet": "Maybe Justin Strife and Erika lied to me and it wasn't Danny Philip that he was on the phone with.",
@@ -2744,7 +2786,9 @@
       "related_nodes": [
         "N-11208"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:26",
       "investigative_direction": "Compare Neff's stated 25-minute estimate with the broadcast time stamp and the 911 and hospital arrival logs.",
       "transcript_snippet": "Blake says they arrived 25 minutes later. I'm going to forgive him that.",
@@ -2767,7 +2811,9 @@
       "related_nodes": [
         "N-11208"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:17",
       "investigative_direction": "Obtain the unedited newsroom feed and review the men's demeanor and pace on entry.",
       "transcript_snippet": "because they don't seem to be shaken. They're all just kind of walking uh casually",
@@ -2776,7 +2822,7 @@
         "N-162",
         "N-375",
         "N-194",
-        "N-516"
+        "N-515"
       ]
     },
     {
@@ -2789,7 +2835,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:05",
       "investigative_direction": "Identify the specific digital assassin articles the host refers to and their authors and publication dates.",
       "transcript_snippet": "Reverend Johnny Moore is working corporate dropping digital assassin articles aimed at me blaming his competitors.",
@@ -2808,7 +2856,9 @@
       "related_nodes": [
         "N-10956"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:00",
       "investigative_direction": "Identify the priests contacted and obtain their accounts of the calls.",
       "transcript_snippet": "She's nasty behind the scenes. She calls people's priests.",
@@ -2829,7 +2879,9 @@
       "related_nodes": [
         "N-10956"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:00",
       "investigative_direction": "Ask Catholics for Catholics organizers and Walsh's team when and why his appearance changed and who communicated it.",
       "transcript_snippet": "She personally took credit for having Matt Walsh cancel his in-person appearance at the Catholic prayer event for Catholic for Catholics just because I was attending.",
@@ -2849,7 +2901,9 @@
       "related_nodes": [
         "N-10956"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:49",
       "investigative_direction": "Obtain the event program showing Walsh's original and final format and any messages explaining the change.",
       "transcript_snippet": "He transformed what was supposed to be his appearance into a video message instead because Erika was upset that I was going to be present.",
@@ -2869,7 +2923,9 @@
       "related_nodes": [
         "N-10956"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:49",
       "investigative_direction": "Ask the event organizers and recipients of calls who called and from which office.",
       "transcript_snippet": "White House was making phone calls because she doesn't like me.",
@@ -2888,7 +2944,9 @@
       "related_nodes": [
         "N-10956"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:49",
       "investigative_direction": "Identify the people Erika told and obtain their accounts or messages using the phrase.",
       "transcript_snippet": "She explicitly told people that it was, and I quote, a woke Reich event.",
@@ -2906,7 +2964,9 @@
       "related_nodes": [
         "N-10342"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:37",
       "investigative_direction": "Find the recording or witnesses of Netanyahu using the phrase and search Kirk's archive for any use of it.",
       "transcript_snippet": "That's a term that I first heard come out of Bibi Netanyahu's mouth for clarity.",
@@ -2926,7 +2986,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:37",
       "investigative_direction": "Obtain messages or accounts from people who received direction from Erika or Kolvet to attack the host.",
       "transcript_snippet": "She watches me and she has been directing the attacks against me since the beginning. Alongside Andrew Kolb, who's now gone mask down.",
@@ -2947,7 +3009,9 @@
         "N-10000",
         "N-10934"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:33",
       "investigative_direction": "Identify advertisers who received calls and the TPUSA people who made them.",
       "transcript_snippet": "one that makes personal and public calls to my advertisers to be dropped.",
@@ -2965,7 +3029,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:24:33",
       "investigative_direction": "This is a denial that could only be tested through the testimony of influencers and event attendees.",
       "transcript_snippet": "I have never made personal phone calls and asked influencers to support me. I've never asked people to not attend any Turning Point events.",
@@ -2985,7 +3051,9 @@
         "N-10664",
         "N-10936"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:02",
       "investigative_direction": "Obtain the Daily Mail's Aspen article and ask the reporter and TPUSA how and when the clip was shown.",
       "transcript_snippet": "They gave them special access to see the unedited clip that the public still has not seen.",
@@ -3007,7 +3075,9 @@
         "N-10664",
         "N-10070"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:02",
       "investigative_direction": "Compare the Daily Mail's description with the audio, the date of the Aspen retreat and the host's earlier account.",
       "transcript_snippet": "Charlie really did pick Erika to run the company in the event of his untimely death.",
@@ -3029,7 +3099,9 @@
         "N-10743",
         "N-10745"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:48",
       "investigative_direction": "Compare each attribution in the article text to determine whether one or two sources are quoted.",
       "transcript_snippet": "And they list a family friend as a source initially and then elsewhere in the article they say a family member."
@@ -3046,12 +3118,14 @@
       "related_nodes": [
         "N-10743"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:48",
       "investigative_direction": "Treat as the host's speculation; ask the Daily Mail reporter whether the source can be confirmed or denied.",
       "transcript_snippet": "My guess would be Tracy Martin because she's also been the driver behind other wacky pieces, that Us Magazine one, but who knows?",
       "mentions_person_refs": [
-        "N-557",
+        "N-556",
         "N-3"
       ]
     },
@@ -3067,7 +3141,9 @@
       "related_nodes": [
         "N-10336"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:34",
       "investigative_direction": "Check court records and courtroom reporting for the date of Erika's first appearance in the same room as Robinson.",
       "transcript_snippet": "It was the first time she had come face-to-face with Tyler Robinson, the man accused of assassinating Charlie Kirk at the speaking event",
@@ -3086,7 +3162,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:33",
       "investigative_direction": "Compare against the evidence disclosed at the preliminary hearing and the prosecution's filings.",
       "transcript_snippet": "I haven't seen any convincing evidence that Tyler Robinson committed this crime.",
@@ -3105,7 +3183,9 @@
       "related_nodes": [
         "N-10334"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:57",
       "investigative_direction": "Check the CBS town hall transcript for Erika's statement on certainty and access to evidence.",
       "transcript_snippet": "She was wholly confident that this man killed her husband because she has access to the evidence.",
@@ -3127,7 +3207,9 @@
       "related_nodes": [
         "N-10743"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:57",
       "investigative_direction": "Verify the quotation in the original Daily Mail article and the attribution to a family member.",
       "transcript_snippet": "That bridge is burned between Erika and Candace. It's more than burned. It's been blown up.",
@@ -3148,7 +3230,9 @@
       "related_nodes": [
         "N-10743"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:57",
       "investigative_direction": "Verify the quotation in the original Daily Mail article.",
       "transcript_snippet": "Candace decided to make this her identity. It's a grab for attention, building her name and her brand and making some money off of it. That's what Erika thinks.",
@@ -3167,7 +3251,9 @@
       "related_nodes": [
         "N-11014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:48",
       "investigative_direction": "Search USPTO records for trademark applications by Erika Kirk with filing dates in late September 2025.",
       "transcript_snippet": "It took just 3 weeks after Charlie's assassination for Erika to file for three trademarks granting her the right to his name on t-shirts, tote bags, any and all clothing.",
@@ -3190,7 +3276,9 @@
         "N-11300",
         "N-11014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:48",
       "investigative_direction": "Obtain the seller of record for the shirts, the LLC's accounts and TPUSA's Form 990 for the relevant year.",
       "transcript_snippet": "those were not sold through the charitable arm, okay? Former employees have confirmed to me that those profits profits went straight to Charlie Kirk Show LLC.",
@@ -3208,7 +3296,9 @@
       "related_nodes": [
         "N-11300"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:38",
       "investigative_direction": "Check Utah and Arizona business filings for the LLC's members and any ownership disclosures.",
       "transcript_snippet": "Once upon a time Charlie told me Andrew Kolburt owned a piece of that company, too.",
@@ -3230,7 +3320,9 @@
       "related_nodes": [
         "N-10743"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:38",
       "investigative_direction": "Verify the quotation in the original Daily Mail article.",
       "transcript_snippet": "Erika is really offended that Candace would use her husband's death to make a buck, to get attention, to get clout, whatever it is.",
@@ -3249,7 +3341,9 @@
       "related_nodes": [
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:38",
       "investigative_direction": "Check the Delaware court docket for the Macron filing date against September 2025.",
       "transcript_snippet": "I was already being sued by the president of France.",
@@ -3268,7 +3362,9 @@
       "claim": "The host says that when Charlie died her advertising agreements were already signed through Q1 of the following year, so not a single additional advertiser was added and no existing advertiser had its rates raised.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:47",
       "investigative_direction": "Only the host's ad contracts could confirm this; the claim is a rebuttal to the article's profit allegation.",
       "transcript_snippet": "not a single additional advertiser was brought onto this platform and no existing advertisers had their rates raised.",
@@ -3287,7 +3383,9 @@
       "related_nodes": [
         "N-11014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:29",
       "investigative_direction": "Check the show's merchandise store archive for the period after September 10, 2025.",
       "transcript_snippet": "we sold nothing with Charlie's face. No memorabilia.",
@@ -3304,7 +3402,9 @@
       "claim": "The host says that in her tribute episode to Charlie, her biggest episode by views ever, she sold and read zero ads.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:29",
       "investigative_direction": "Watch the tribute episode for ad reads and check platform ad insertion records.",
       "transcript_snippet": "our biggest episode by views ever, we sold um and consequently read zero ads. Zero.",
@@ -3326,7 +3426,9 @@
       "related_nodes": [
         "N-10312"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:29",
       "investigative_direction": "Check podcast chart history for August 2025 and YouTube view counts across 2024 and 2025 episodes.",
       "transcript_snippet": "Our show before Charlie died was already in the top 10 globally, sitting above the Charlie Kirk podcast.",
@@ -3343,7 +3445,9 @@
       "claim": "The host says Erika Kirk started doing pageants when she was about 12, maybe sixth grade, and has not stopped wanting to be in the spotlight.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:14",
       "investigative_direction": "Check Erika's pageant history records and the earlier episode where the host showed them.",
       "transcript_snippet": "You started doing pageants, I think we showed, when you were like 12.",
@@ -3359,7 +3463,9 @@
       "claim": "The host says Erika walked out in a white pantsuit with sparklers behind her at the memorial, which the host describes as the moment she got the spotlight she wanted.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:14",
       "investigative_direction": "Review memorial footage and photographs for Erika's entrance and clothing.",
       "transcript_snippet": "When you walked out in a white pantsuit with sparklers behind you, and you sucked all of that in, that was it.",
@@ -3375,7 +3481,9 @@
       "claim": "The host says Erika and the group clinked glasses, went to a restaurant and celebrated after the memorial, and that she has never seen such glee in photos of people at the memorial.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:14",
       "investigative_direction": "Locate the photographs and dated reports of the post-memorial dinner and who attended.",
       "transcript_snippet": "You clinked glasses, you guys then went to a restaurant, you celebrated.",
@@ -3394,7 +3502,9 @@
         "N-11300",
         "N-11014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:02",
       "investigative_direction": "Identify the Zoom call, its date and attendees, and obtain a recording or notes.",
       "transcript_snippet": "The sales have been crazy. 50,000 shirts sold, and kicked back into the LLC that me and the Charlie Kirk Show people own.",
@@ -3413,7 +3523,9 @@
       "related_nodes": [
         "N-10741"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:49",
       "investigative_direction": "Build a dated list of influencer posts invoking Sandy Hook against the date of the first Robinson hearing.",
       "transcript_snippet": "Suddenly, as soon as the Tyler Robinson trial began, these same influencers who have been attacking me are all raising the matter of Sandy Hook.",
@@ -3434,7 +3546,9 @@
       "related_nodes": [
         "N-10741"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:35",
       "investigative_direction": "Obtain the full Twitter Space recording and its date and speakers.",
       "transcript_snippet": "target random family members of theirs as happened at times, for 10 months in pursuit of a conspiracy theory that has literally never had anything to back it up.",
@@ -3454,7 +3568,9 @@
       "related_nodes": [
         "N-10741"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:17",
       "investigative_direction": "Identify the guests and broadcasts that made the Erika-as-Sandy-Hook-parent comparison, with dates.",
       "transcript_snippet": "they're also putting people on their show to say, you know, Erika's just like the parents at um Sandy Hook.",
@@ -3473,7 +3589,9 @@
       "related_nodes": [
         "N-10741"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:17",
       "investigative_direction": "Find Jones's public apology statements and dates.",
       "transcript_snippet": "He said something, which he has apologized before and said was wrong.",
@@ -3491,7 +3609,9 @@
       "related_nodes": [
         "N-10741"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:17",
       "investigative_direction": "Check the Connecticut and Texas judgments against the $1.4 billion figure and the bankruptcy filing.",
       "transcript_snippet": "and they sued him and won for $1.4 billion, effectively ending his InfoWars platform, suing him into bankruptcy.",
@@ -3511,7 +3631,9 @@
       "related_nodes": [
         "N-10741"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:42",
       "investigative_direction": "Obtain the full Charlie Kirk Show segment with its date and Viva Frei's complete remarks.",
       "transcript_snippet": "But to go from there to say that it's exploding microphones, Israel did it, and not that Israel might not Israel might have had a hand in this.",
@@ -3531,7 +3653,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:42",
       "investigative_direction": "Obtain the segment and the specific issues Viva Frei refers to.",
       "transcript_snippet": "I appreciate there are some issues with the prosecution. There's some issues with the investigation, and there's some issues with the evidence.",
@@ -3551,7 +3675,9 @@
       "related_nodes": [
         "N-10741"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:51:27",
       "investigative_direction": "Check the OAN v. Maddow ruling and its date and grounds.",
       "transcript_snippet": "Rachel Maddow accused One America News Network of being funded by the Russian government and a judge tossed that away because under free speech provisions.",
@@ -3571,7 +3697,9 @@
       "related_nodes": [
         "N-10741"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:17",
       "investigative_direction": "Obtain the full broadcast with its date to confirm the quote and context.",
       "transcript_snippet": "If your favorite conservative commentator is silent on Alex Jones, that is very telling.",
@@ -3593,7 +3721,9 @@
         "N-10741",
         "N-10968"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:17",
       "investigative_direction": "Find the original New York Times article quoted by Kirk.",
       "transcript_snippet": "Lawyers for the Sandy Hook families say a verdict will send a signal to other conspiracy purveyors about the cost of online lies",
@@ -3614,7 +3744,9 @@
       "related_nodes": [
         "N-10741"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:20",
       "investigative_direction": "Confirm the post on Kirk's X account and its date, and the underlying bankruptcy motion.",
       "transcript_snippet": "The lawyers behind the sham billion-dollar verdict against Alex Jones are now trying to seize his personal social media accounts in bankruptcy.",
@@ -3633,7 +3765,9 @@
         "A-3142.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:57:02",
       "investigative_direction": "Check broadcast histories for the documentary's scheduled 1994 Discovery airing and its withdrawal.",
       "transcript_snippet": "watch the 1993 documentary entitled Conspiracy of Silence. It was supposed to air on the Discovery Channel but was pulled from the schedule."
@@ -3646,7 +3780,9 @@
       "claim": "The host says that black magic is extraordinarily real and that for a very long time Hollywood had people thinking it was just hocus pocus.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:57:02",
       "investigative_direction": "Not independently checkable; recorded as an assertion by the host.",
       "transcript_snippet": "It is it is extraordinarily real. And for a very long time Hollywood had people thinking it was just hocus pocus.",
@@ -3664,7 +3800,9 @@
         "A-3143.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:59:46",
       "investigative_direction": "Count Loomer's posts mentioning the host over a defined period using X's archive.",
       "transcript_snippet": "Here's 591 Laura Loomer posts talking about @realcandaceo.",
@@ -3685,7 +3823,9 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:46",
       "investigative_direction": "Check the docket of the Harpole filing for counsel of record and compare with counsel in the Shapiro matter.",
       "transcript_snippet": "This is the person that's then retweeted by Ben Shapiro's lawyer who's been suing me for 3 years, who's now suing me on behalf of Bryan Harpole.",
@@ -3704,7 +3844,9 @@
       "claim": "The host says she has had to up her security and that she gets death threats.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:00:38",
       "investigative_direction": "Only the host's security arrangements and any police reports could confirm this.",
       "transcript_snippet": "Have I had to up my security? Absolutely.",
@@ -3723,7 +3865,9 @@
         "N-11218",
         "N-10765"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:02:06",
       "investigative_direction": "Ask the hospital and its IT provider for network or outage logs for September 10, 2025, and seek the staff in question.",
       "transcript_snippet": "We are now hearing from um people who worked in other parts of the hospital saying that their computers were shut down for 6 hours.",
@@ -3743,7 +3887,9 @@
       "related_nodes": [
         "N-11218"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:02:06",
       "investigative_direction": "Review the tip inbox for submissions about Timpanogos photographs and timeline.",
       "transcript_snippet": "more tips at candaceowens. com. If you know anything, uh have more photos that we can display",
@@ -3763,7 +3909,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:02:06",
       "investigative_direction": "Review the tip inbox for submissions from TPUSA employees.",
       "transcript_snippet": "If you are hearing the rumblings about anything, about what's going on there, and you've seen enough, reach out to us.",

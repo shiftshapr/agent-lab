@@ -1411,8 +1411,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-877",
-      "ref": "N-877",
+      "@id": "N-876",
+      "ref": "N-876",
       "name": "Matt Slauson",
       "type": "person",
       "description": "Lawyer who sent the Harpole lawsuit and the host's long-time arbitration opponent.",
@@ -1754,8 +1754,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-909",
-      "ref": "N-909",
+      "@id": "N-908",
+      "ref": "N-908",
       "name": "Bryan Freedman",
       "type": "person",
       "description": "First named by the host at 00:55:14 in episode 98 (transcribed Brian Friedman). Lawyer the host congratulates for the Baldoni result.",
@@ -1771,8 +1771,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-910",
-      "ref": "N-910",
+      "@id": "N-909",
+      "ref": "N-909",
       "name": "Melissa Nathan",
       "type": "person",
       "description": "First named by the host at 00:55:14 in episode 98. PR professional the host congratulates.",
@@ -1788,8 +1788,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-911",
-      "ref": "N-911",
+      "@id": "N-910",
+      "ref": "N-910",
       "name": "Zalman Shapiro",
       "type": "person",
       "description": "First named by the host at 00:56:47 in episode 98. The host asks if he is Ben Shapiro's uncle who took uranium to Israel.",
@@ -2225,7 +2225,9 @@
       "related_nodes": [
         "N-10631"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Identify the original posts making the doxing, money-hiding and hit-and-run accusations and any police or court record of the alleged incident.",
       "transcript_snippet": "accusing my husband of hiding a hit-and-run, having hit a man named Tracy Robinson.",
@@ -2244,7 +2246,9 @@
       "related_nodes": [
         "N-10640"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Locate the Truth Social post, its date and time, and the photo's source.",
       "transcript_snippet": "The president posts a photo of me sick. I wasn't even speaking about him. I was over in Italy.",
@@ -2263,14 +2267,16 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:48",
       "investigative_direction": "Compare counsel of record on the Harpole filing with counsel in the host's Daily Wire arbitration filings.",
       "transcript_snippet": "it's been sent from the same lawyer who had already been suing me nonstop in arbitration on Ben Shapiro's behalf for 2 years.",
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-877",
+        "N-876",
         "N-272"
       ]
     },
@@ -2285,7 +2291,9 @@
         "N-10238",
         "N-10416"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:01:55",
       "investigative_direction": "Match to the earlier intern recording episodes and any documents on the intern's travel and instructions.",
       "transcript_snippet": "it's fine that we sent an intern to follow her at her event after we followed her.",
@@ -2305,7 +2313,9 @@
         "N-10416",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:10",
       "investigative_direction": "Obtain the arbitration or court filing that cites a liked tweet as a violation.",
       "transcript_snippet": "Like they were monitoring my likes back when you could see likes on X.",
@@ -2324,7 +2334,9 @@
         "N-10900",
         "N-10689"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:10",
       "investigative_direction": "Check Tennessee WARN notices and dated reports on the layoffs.",
       "transcript_snippet": "regarding The Daily Wire layoffs, which began, I am told, on Thursday, actually continued through Friday.",
@@ -2343,7 +2355,9 @@
         "N-10900",
         "N-10689"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:10",
       "investigative_direction": "Compare against named departures reported by trade press and executive pages on the company site.",
       "transcript_snippet": "I'm talking entire departments, big people at the firm, lawyers at the firm, uh the chief operating officer, the executive vice president, virtually the entire marketing department",
@@ -2361,7 +2375,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:01",
       "investigative_direction": "Reconcile the host's count with the WARN filing and with reporting of the layoff size.",
       "transcript_snippet": "I have counted approximately 54 people who lost their jobs from top to bottom.",
@@ -2381,7 +2397,9 @@
         "N-10900",
         "N-10689"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:49",
       "investigative_direction": "Identify the investor and the date and terms of the investment in public filings or financing announcements.",
       "transcript_snippet": "Uh we knew that they had brought in private equity uh sometime ago, last 2 years.",
@@ -2399,7 +2417,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:57",
       "investigative_direction": "Check dated announcements or reports on the Bentkey shutdown and the end of the sports programming.",
       "transcript_snippet": "first they shuttered Ben Key Kids, which was obviously massive layoffs that were done. Then they quietly got rid of their sports department.",
@@ -2419,7 +2439,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:57",
       "investigative_direction": "Compare the DC staff list before and after the layoffs against the company's statement that it added production staff in DC.",
       "transcript_snippet": "Um people in DC also got fired, so it's not because they're suddenly pivoting and building in DC.",
@@ -2439,7 +2461,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:30",
       "investigative_direction": "Verify the date of Boreing's change of role and the Bentkey shutdown from company announcements.",
       "transcript_snippet": "Early 2025, co-founder Jeremy Boring stepped down as co-CEO and launched a solo podcast outside of the company that he co-founded.",
@@ -2459,7 +2483,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:30",
       "investigative_direction": "Check subscriber history on a third-party analytics service.",
       "transcript_snippet": "Another 60,000 subscribers gone in the last 90 days alone.",
@@ -2477,7 +2503,9 @@
         "A-2031.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:30",
       "investigative_direction": "Verify the February view count on a third-party analytics service.",
       "transcript_snippet": "Megyn Kelly's network drew 138 million YouTube views in February alone.",
@@ -2498,7 +2526,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:45",
       "investigative_direction": "Check 2024 documentary box-office rankings.",
       "transcript_snippet": "Matt Walsh's Am I Racist? was a top-grossing documentary of 2024, but most of it didn't.",
@@ -2517,7 +2547,9 @@
         "N-10000",
         "N-10131"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:09",
       "investigative_direction": "Obtain the host's contract with Turning Point and its end date.",
       "transcript_snippet": "I went on to work with Turning Point all the way through until this year, actually, uh contractually.",
@@ -2537,7 +2569,9 @@
         "N-10379",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:04",
       "investigative_direction": "Compare the dates the Daily Wire reactivated the channels with its posts about the host.",
       "transcript_snippet": "They brought back my social channels to mock me.",
@@ -2556,7 +2590,9 @@
         "N-10385",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:04",
       "investigative_direction": "Identify the show and its dates of release and the date the last legal action ended.",
       "transcript_snippet": "they attempted to create an entire show dedicated to making fun of this show.",
@@ -2574,7 +2610,9 @@
       "related_nodes": [
         "N-11116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:44",
       "investigative_direction": "Identify the Klavan video and compare its date with the host's firing and the Christ is King dispute.",
       "transcript_snippet": "I wish Andrew Klavan never made the Crisis King video.",
@@ -2593,7 +2631,9 @@
         "A-3138.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:31",
       "investigative_direction": "Locate the original Shapiro show episode and timestamp.",
       "transcript_snippet": "Theo Von is a low-IQ conspiracist. He has himself routinely propped up Candace Owens, has lent credence to her insanity.",
@@ -2613,7 +2653,9 @@
         "A-3138.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:31",
       "investigative_direction": "Locate the original Shapiro show episode and timestamp and any follow-up from Erika Kirk's side.",
       "transcript_snippet": "And yes, Erika Kirk absolutely should sue the living hell out of Candace Owens for this sort of stuff.",
@@ -2633,7 +2675,9 @@
         "A-3138.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:31",
       "investigative_direction": "Locate the original interview with Knowles and compare with Shapiro's earlier use of the word evil.",
       "transcript_snippet": "I think that what Candace Owens is doing right now is evil.",
@@ -2656,7 +2700,9 @@
         "A-3138.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:11",
       "investigative_direction": "Locate the original Shapiro-Knowles exchange and its date.",
       "transcript_snippet": "I'm not going to dance like a puppet for the podcast wars.",
@@ -2679,7 +2725,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:47",
       "investigative_direction": "Identify the speaker and original program for the clip.",
       "transcript_snippet": "So, no, Tucker Carlson, it is not an excuse to go silent on Candace's targeting of TPUSA",
@@ -2700,7 +2748,9 @@
         "N-10900",
         "N-10689"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:30",
       "investigative_direction": "Check Shapiro's ownership stake and board position in company filings.",
       "transcript_snippet": "we can reasonably assume that Ben, who's a part owner of the company, knew months ahead.",
@@ -2717,7 +2767,9 @@
       "claim": "The host says Ben Shapiro spent time trying to destroy Charlie Kirk behind the scenes and then flipped as soon as Kirk died.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:31",
       "investigative_direction": "Compare with the host's texts from Kirk about Shapiro and with Shapiro's public statements.",
       "transcript_snippet": "You can spend uh trying to destroy someone behind the scenes like Ben did to Charlie Kirk, and then boop, just flip on the dime as soon as he dies",
@@ -2739,7 +2791,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:31",
       "investigative_direction": "Identify any payment, donation or sponsorship from Shapiro or the Daily Wire to Turning Point after the assassination.",
       "transcript_snippet": "slither into his studio and and throw a million dollars trying to purchase his legacy.",
@@ -2760,7 +2814,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:19",
       "investigative_direction": "Review the Friday show episode for any mention of the layoffs.",
       "transcript_snippet": "what did Ben do instead of addressing his employees? Instead, he made his show about me.",
@@ -2779,7 +2835,9 @@
         "A-3139.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:24:13",
       "investigative_direction": "Locate Loomer's tweet and its date.",
       "transcript_snippet": "Because it says the new call, get rid of Candace's merch.",
@@ -2798,7 +2856,9 @@
         "A-3139.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:24:25",
       "investigative_direction": "Property and vehicle registrations would confirm or refute the claims.",
       "transcript_snippet": "It's It's so beyond untrue. It's crazy. Living in two homes, also untrue.",
@@ -2819,7 +2879,9 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:25",
       "investigative_direction": "Seek communications between Shapiro's side, Erika Kirk's side and the Harpole lawyers.",
       "transcript_snippet": "after working behind the scenes to encourage and in front of the scenes, as you saw, to encourage Erika Kirk to sue me, he likely landed upon Brian Harpole",
@@ -2841,7 +2903,9 @@
       "claim": "The host says Ben Shapiro (the transcript reads 'Ben Shap- uh uh Bibi Netanyahu') hosts Bibi Netanyahu on his platform while cheering on what she calls a genocide.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:13",
       "investigative_direction": "Identify the Shapiro-Netanyahu interview and its date.",
       "transcript_snippet": "while he unflinchingly hosts Ben Shap- uh uh Bibi Netanyahu on his platform.",
@@ -2864,7 +2928,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:24",
       "investigative_direction": "Seek audit, advertiser or former-employee records on paid view acquisition at the Daily Wire.",
       "transcript_snippet": "the buying of the views, everybody in YouTube world knew Ben Ben is buying he's buying views.",
@@ -2885,7 +2951,9 @@
       "related_nodes": [
         "N-10656"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:50",
       "investigative_direction": "Check the email's timestamp and the host's flight records against the commenter's account.",
       "transcript_snippet": "but I was standing in the Charlotte airport when I received that email.",
@@ -2894,7 +2962,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-877"
+        "N-876"
       ]
     },
     {
@@ -2907,13 +2975,15 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:30",
       "investigative_direction": "Obtain the demand letter and its date.",
       "transcript_snippet": "they had first sent this like I don't know demand thing at first and said we are filing this lawsuit in 4 days",
       "mentions_person_refs": [
         "N-3",
-        "N-877"
+        "N-876"
       ]
     },
     {
@@ -2929,12 +2999,14 @@
         "N-10656",
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:50",
       "investigative_direction": "Look for communications, payments or contacts between Loomer, Slauson and the person who allegedly tried to hire a photographer.",
       "transcript_snippet": "That signals that there's some coordination between Matt Slauson, Ben Shapiro's lawyer, um and Laura Loomer.",
       "mentions_person_refs": [
-        "N-877",
+        "N-876",
         "N-97",
         "N-60"
       ]
@@ -2949,7 +3021,9 @@
         "A-2041.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Locate the Loomer post and any police or court record of the incident.",
       "transcript_snippet": "Laura Loomer uh asserting that my immigrant husband My husband is not an immigrant, thank you.",
@@ -2968,7 +3042,9 @@
       "related_nodes": [
         "N-10910"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:19",
       "investigative_direction": "DOJ biography and confirmation records.",
       "transcript_snippet": "Dhillon Law Group is Harmeet Dhillon's law firm. She currently works for the Department of Justice.",
@@ -2986,7 +3062,9 @@
       "related_nodes": [
         "N-10910"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:19",
       "investigative_direction": "Ethics disclosures and state business filings for the firm.",
       "transcript_snippet": "I think uh transferred the stake in her in the company to her brother while she's currently serving the Department of Justice.",
@@ -3002,7 +3080,9 @@
       "claim": "The host says Harmeet Dhillon is the frontrunner to replace Pam Bondi as Attorney General of the United States.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:19",
       "investigative_direction": "News reporting on the attorney general succession.",
       "transcript_snippet": "She's also the frontrunner to replace Pam Bondi for Attorney General of the United States.",
@@ -3021,7 +3101,9 @@
       "related_nodes": [
         "N-10910"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:11",
       "investigative_direction": "FARA and court dockets listing the firm's clients.",
       "transcript_snippet": "but her law firm is heavily involved in a lot of legal um issues on behalf of Israel, right?",
@@ -3042,7 +3124,9 @@
         "N-10914",
         "N-10652"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:57",
       "investigative_direction": "Retrieve the FARA registration and its principal field.",
       "transcript_snippet": "Uh the principal of the company, to be clear, is Israel's Ministry of Foreign Affairs.",
@@ -3063,7 +3147,9 @@
         "N-10914",
         "N-10653"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:57",
       "investigative_direction": "Retrieve the FARA registration statement and its scope-of-work.",
       "transcript_snippet": "Their stated purpose is to target Christians in the United States with anti-Palestinian and pro-Israel messaging.",
@@ -3083,7 +3169,9 @@
       "related_nodes": [
         "N-10914"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:02",
       "investigative_direction": "Retrieve the Times of Israel article and the FARA exhibit.",
       "transcript_snippet": "will execute what it bills as the quote largest Christian church geofencing campaign in US history."
@@ -3100,7 +3188,9 @@
       "related_nodes": [
         "N-10914"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:02",
       "investigative_direction": "Retrieve the FARA exhibit describing the mobile experience.",
       "transcript_snippet": "while dispatching a mobile quote October 7th experience to church parking lots."
@@ -3115,7 +3205,9 @@
         "A-2035.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:09",
       "investigative_direction": "FARA filing for the Parscale contract.",
       "transcript_snippet": "complementing a $1.5 million per a month contract for AI-driven social media activity with former Trump campaign strategist Brad Parscale",
@@ -3135,7 +3227,9 @@
       "related_nodes": [
         "N-11299"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:09",
       "investigative_direction": "FARA filing for Bridge Partners.",
       "transcript_snippet": "a contract with a firm called Bridge Partners to create an influencer network called the Esther project."
@@ -3150,7 +3244,9 @@
         "A-2035.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:09",
       "investigative_direction": "Israeli budget documents and the cited article.",
       "transcript_snippet": "after the Foreign Ministry was allocated $150 million in this year's budget for public relations efforts."
@@ -3165,7 +3261,9 @@
       "related_nodes": [
         "N-10002"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:15",
       "investigative_direction": "Find Erika Kirk's own statements using that phrase.",
       "transcript_snippet": "Funeral described by some people, his wife, as the event of the century.",
@@ -3187,7 +3285,9 @@
         "N-10653",
         "N-10914"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:35",
       "investigative_direction": "Ask Turning Point who supplied the memorial geotagging data.",
       "transcript_snippet": "He didn't name who his partners were. Um so we don't know if it was Show Faith by Works.",
@@ -3208,7 +3308,9 @@
       "related_nodes": [
         "N-10637"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:35",
       "investigative_direction": "Obtain the WHCD seating chart and table assignments.",
       "transcript_snippet": "Andrew Kolvet, who happened to actually be sitting with Harmeet Dhillon at the recent White House Correspondents Dinner shooting",
@@ -3230,7 +3332,9 @@
         "N-10914",
         "N-10653"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:16",
       "investigative_direction": "Retrieve the FARA exhibit listing target markets.",
       "transcript_snippet": "they specifically note that they are going to be doing that geofencing and targeting in Tucson, Phoenix, and Las Vegas.",
@@ -3249,7 +3353,9 @@
         "N-10653",
         "N-10914"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:40",
       "investigative_direction": "Identify the vendor Turning Point used for the memorial geotagging and compare with the FARA filing.",
       "transcript_snippet": "I would be very surprised if this was not the company that was working with one of the partners of Turning Point USA.",
@@ -3269,7 +3375,9 @@
       "related_nodes": [
         "N-10487"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:40",
       "investigative_direction": "Dream City Church event calendar and Kirk's speaking dates.",
       "transcript_snippet": "including the Dream City Church where Charlie spoke at once a month",
@@ -3289,7 +3397,10 @@
       "related_nodes": [
         "N-10653"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context",
+        "dia"
+      ],
       "claim_timestamp": "00:44:40",
       "investigative_direction": "Review incoming tips on the geofencing vendor.",
       "transcript_snippet": "email us tips@candaceowens. com, more tips@candaceowens. com, and we will keep running that narrative",
@@ -3305,7 +3416,9 @@
       "claim": "The host says the recent events were on her birthday and that the Daily Wire's earlier action against her was sent on Jeremy Boring's birthday, which she calls Daily Wire coded.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:48:19",
       "investigative_direction": "Compare dates of the earlier filing with Boreing's birthday.",
       "transcript_snippet": "it was very Daily Wire coded cuz last time when they like sent it was like on Jeremy Boring's birthday.",
@@ -3325,7 +3438,9 @@
         "N-10900",
         "N-10689"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:19",
       "investigative_direction": "Daily Wire financing disclosures.",
       "transcript_snippet": "the reason they got into debt, he was just like maniacal.",
@@ -3345,7 +3460,9 @@
         "N-10651",
         "N-10694"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:43",
       "investigative_direction": "Review the host's earlier statements about Harpole and Flood and her outreach message to Harpole.",
       "transcript_snippet": "I genuinely did not believe that Brian Harpole or Dan Flood were involved when this went down. I defended them on this platform.",
@@ -3363,7 +3480,9 @@
       "claim": "The host says she had worked with Brian Harpole and generally can think of few security people she does not get along with.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:43",
       "investigative_direction": "Identify events or work where the host's team and Harpole's security overlapped.",
       "transcript_snippet": "because like I said I had worked with him.",
@@ -3382,7 +3501,9 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:30",
       "investigative_direction": "Check discovery requests in the Harpole docket.",
       "transcript_snippet": "have access to his phone, have access to Dan Flood's phone, have access even to Erika's phone on that day, to have access to the footage.",
@@ -3403,7 +3524,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:30",
       "investigative_direction": "Request the footage or confirm its custody with Turning Point and law enforcement.",
       "transcript_snippet": "great thing there's footage in 4K that Turning Point USA is in possession of.",
@@ -3423,7 +3546,9 @@
       "claim": "The host says the day was on track to be the biggest day in her merch sales history on her website, a response to calls for a merch boycott.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:51:12",
       "investigative_direction": "None; self-reported commercial figure.",
       "transcript_snippet": "we are on track for this to be the biggest day in our merch sale history on the website.",
@@ -3443,7 +3568,9 @@
       "related_nodes": [
         "N-10661"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:54:14",
       "investigative_direction": "Court docket entry of dismissal or settlement.",
       "transcript_snippet": "I know that settlement means like the case is over. And yes, they're going to keep settlement details quiet but it's a win for Justin Baldoni.",
@@ -3462,14 +3589,16 @@
       "related_nodes": [
         "N-10661"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:55:14",
       "investigative_direction": "Docket entries listing counsel for Baldoni and Wayfarer.",
       "transcript_snippet": "Brian Friedman, congratulations to you. Also to Melissa Nathan and the people that were the PR team",
       "mentions_person_refs": [
         "N-496",
-        "N-909",
-        "N-910"
+        "N-908",
+        "N-909"
       ]
     },
     {
@@ -3482,13 +3611,15 @@
       "related_nodes": [
         "N-10654"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:56:47",
       "investigative_direction": "Check the family relationship and the NUMEC records.",
       "transcript_snippet": "What was his uncle Zalman Shapiro? Am I correct that he's the one that took all of the uranium to Israel?",
       "mentions_person_refs": [
         "N-97",
-        "N-911"
+        "N-910"
       ]
     },
     {
@@ -3501,12 +3632,14 @@
       "related_nodes": [
         "N-10654"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:57:40",
       "investigative_direction": "Check the outcome of the NUMEC investigation.",
       "transcript_snippet": "I don't think he ever actually was found guilty because they I think he played like anti-Semitism or something like that.",
       "mentions_person_refs": [
-        "N-911"
+        "N-910"
       ]
     },
     {
@@ -3519,7 +3652,9 @@
       "related_nodes": [
         "N-10655"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:57:40",
       "investigative_direction": "Review the evidence record in the Robinson prosecution.",
       "transcript_snippet": "we're definitely going to find out who was really behind the Charlie Kirk murder because we all know it wasn't Tyler Robinson alone on a rooftop.",
@@ -3539,7 +3674,9 @@
       "claim": "The host says she had her confirmation in Italy, that her husband was her sponsor and gave her two relics of Saint Joan as a confirmation gift.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:59:13",
       "investigative_direction": "None; personal religious event.",
       "transcript_snippet": "Congratulations on your confirmation. It is Saint Joan. Yes, two relics. My husband got it for as a confirmation gift. Obviously he was my sponsor.",
@@ -3558,7 +3695,9 @@
       "related_nodes": [
         "N-10640"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:59:13",
       "investigative_direction": "Compare the post's time with the confirmation date.",
       "transcript_snippet": "that he posted that picture of me.",

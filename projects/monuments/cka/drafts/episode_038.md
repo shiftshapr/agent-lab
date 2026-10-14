@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: aad9b594be730478a8051e834c8dd3ae3c76a0895b472f75831b8b225046f268
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-893, N-11277, N-11278, N-11279, N-11280
+  - Tip-minted Nodes (supplement_2026-10e): N-892, N-11277, N-11278, N-11279, N-11280
   - Claim Range (supplement_2026-10e): C-10891–C-10948
   - New Nodes Introduced: N-288, N-291, N-292, N-293, N-294, N-295, N-296, N-297, N-10283, N-10285, N-10286, N-10287, N-10288, N-10291, N-10292, N-10293, N-10295, N-10296
   - Reused Nodes Appearing: none, N-290, N-387, N-10284, N-10294, N-10289, N-10290, N-5, N-14, N-22, N-10001, N-10003, N-10012, N-10014, N-10015, N-10059, N-10074, N-10075, N-10088, N-10116, N-10145, N-10150, N-10204, N-10222, N-10265, N-10266, N-10269, N-10270, N-10273, N-10277, N-10279, N-10316, N-10900, N-11008, N-11010, N-11011, N-289, N-10297
@@ -835,7 +835,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-893** Jean-Michel Trogneux
+**N-892** Jean-Michel Trogneux
 
 First named by the host at 00:00:01 in episode 38. The name the host uses for Brigitte Macron's alleged earlier male identity; the host asserts, without a document shown, that this person was born male. All claims here are the host's allegations.
 
@@ -1437,7 +1437,7 @@ Claim: The host asserts that Brigitte Macron, whom she calls Jean-Michel Trogneu
 Transcript Snippet: Imagine being so protected that you force multiple nation-states to collude to hide the obvious fact that you were born with a penis, right?
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-893
+Mentions: N-3, N-82, N-892
 Supports: C-1507
 Tags: relevance:context
 Investigative Direction: Obtain Brigitte Macron's birth and civil records and the Trogneux family registry entries; the host presents no document in this episode.
@@ -1709,7 +1709,7 @@ Claim: The host says the military will not release the military file of Jean-Mic
 Transcript Snippet: the military won't release your file, and we don't know what you were doing in the military as Jean-Michel Trogneux.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-893
+Mentions: N-3, N-82, N-892
 Tags: relevance:context
 Investigative Direction: Obtain any French military records request and denial concerning Jean-Michel Trogneux; the host cites no specific request here.
 
@@ -2049,7 +2049,7 @@ Claim: The host says she feels she was set up by the federal government in the l
 Transcript Snippet: I feel like I was set up by the federal government in terms of this lawsuit.
 
 Anchored Artifacts: A-1476.1
-Mentions: N-3, N-82, N-893
+Mentions: N-3, N-82, N-892
 Related Nodes: N-11277, N-10270
 Tags: relevance:context
 Investigative Direction: Review the Delaware docket for the timing of filing and any federal involvement; the host offers no direct evidence of agency coordination.
@@ -2065,7 +2065,7 @@ Claim: The host says Brigitte Macron says Jean-Michel Trogneux was in America in
 Transcript Snippet: because Brigitte says he was in America, we know Brigitte was in America in the '60s at least for the moon landing.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-893
+Mentions: N-3, N-82, N-892
 Tags: relevance:tangential
 Investigative Direction: Find the original statement by Brigitte Macron about being in America and the moon landing and check its wording.
 
@@ -2336,7 +2336,7 @@ Claim: The host says the Trogneux family claim of running a chocolatier factory 
 Transcript Snippet: They just ran this this chocolatier factory from like the 1880s all the way through to now. Not possible. Nazis uh did an aerial bombardment. They occupied the city of Amiens.
 
 Anchored Artifacts: 
-Mentions: N-3, N-893
+Mentions: N-3, N-892
 Tags: relevance:context
 Investigative Direction: Check Amiens municipal and Trogneux company records for wartime operations and dates.
 
@@ -2351,7 +2351,7 @@ Claim: The host says she thinks the Trogneux identity was created for the family
 Transcript Snippet: This seems to me to be an identity that was just created and materialized for this family, and that the true family is a very powerful family
 
 Anchored Artifacts: 
-Mentions: N-3, N-893, N-82
+Mentions: N-3, N-892, N-82
 Tags: relevance:tangential
 Investigative Direction: Speculation with no document; genealogical and civil records are the only test.
 

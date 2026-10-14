@@ -409,7 +409,7 @@
           "related_nodes": [
             "N-8",
             "N-277",
-            "N-766"
+            "N-765"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -528,7 +528,7 @@
             "C-6231"
           ],
           "related_nodes": [
-            "N-518",
+            "N-517",
             "N-1"
           ],
           "tags": [],
@@ -1660,8 +1660,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-518",
-      "ref": "N-518",
+      "@id": "N-517",
+      "ref": "N-517",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "Officer Bagley, named in the review passage on the first suggestion to go up to the Losee Center roof.",
@@ -1680,8 +1680,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-547",
-      "ref": "N-547",
+      "@id": "N-546",
+      "ref": "N-546",
       "name": "Todd Blanche",
       "type": "person",
       "description": "Named by Charlie Kirk in the July 14 clip among officials he trusts.",
@@ -1697,8 +1697,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-680",
-      "ref": "N-680",
+      "@id": "N-679",
+      "ref": "N-679",
       "name": "James Kaddis",
       "type": "person",
       "description": "Named as the Calvary Chapel pastor hosting Erika's July 14 speech (transcript spelling James Catis).",
@@ -2317,8 +2317,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-766",
-      "ref": "N-766",
+      "@id": "N-765",
+      "ref": "N-765",
       "name": "Robin Emer",
       "type": "person",
       "description": "First named by the host at 00:36:24 in episode 157 as UVU's director of emergency management and safety who expressed reservations at the August 25 MEAC meeting.",
@@ -2334,8 +2334,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-767",
-      "ref": "N-767",
+      "@id": "N-766",
+      "ref": "N-766",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "First named by the host at 00:23:46 in episode 157 as UVU President, in the transcript spelling Tumz.",
@@ -2351,8 +2351,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-768",
-      "ref": "N-768",
+      "@id": "N-767",
+      "ref": "N-767",
       "name": "Alana Minton",
       "type": "person",
       "description": "First named by the host at 01:11:03 in episode 157 as the Canyon County prosecuting attorney who told the judge the classroom door may have been locked.",
@@ -2368,8 +2368,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-769",
-      "ref": "N-769",
+      "@id": "N-768",
+      "ref": "N-768",
       "name": "Claire Ginan",
       "type": "person",
       "description": "First named by the host at 01:27:40 in episode 157 as the writer of a June 26 Jezebel article with no prior writing profile.",
@@ -3322,7 +3322,7 @@
       "investigative_direction": "Obtain the president's office request and the response it received.",
       "transcript_snippet": "UVU President Tumz requested updates regarding event planning on the 31st.",
       "mentions_person_refs": [
-        "N-767"
+        "N-766"
       ]
     },
     {
@@ -3706,7 +3706,7 @@
       "transcript_snippet": "She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix.",
       "mentions_person_refs": [
         "N-8",
-        "N-766"
+        "N-765"
       ]
     },
     {
@@ -4011,7 +4011,7 @@
       "investigative_direction": "Obtain Bagley's report and dispatch audio showing when he made the suggestion.",
       "transcript_snippet": "Officer Bagley identified the elevated roof area of the Loy Center as a possible source location of the asalent.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -4031,7 +4031,7 @@
       "investigative_direction": "Obtain the evidence log and photographs of the screwdriver and gravel location.",
       "transcript_snippet": "he locates a screwdriver and an area of disturbed gravel on the roof that appeared consistent with a possible prone shooting position.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -4051,7 +4051,7 @@
       "investigative_direction": "Obtain Bagley's testimony and UVUPD body camera inventory and battery records.",
       "transcript_snippet": "Officer Bagley, whose body cam footage went off, um lost the battery.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -4071,7 +4071,7 @@
       "investigative_direction": "Verify Bagley's assignment history and the other officers' backgrounds from personnel records.",
       "transcript_snippet": "They're all, they all kind of have this background history in sex crimes.",
       "mentions_person_refs": [
-        "N-518",
+        "N-517",
         "N-1"
       ]
     },
@@ -4359,7 +4359,7 @@
         "N-69",
         "N-388",
         "N-85",
-        "N-547"
+        "N-546"
       ]
     },
     {
@@ -4403,7 +4403,7 @@
       "transcript_snippet": "On the 14th, Erika travels aboard a private flight to Long Beach, California.",
       "mentions_person_refs": [
         "N-2",
-        "N-680"
+        "N-679"
       ]
     },
     {
@@ -4424,7 +4424,7 @@
       "transcript_snippet": "she gives a speech that's pro-Israel about a call to arms despite what Charlie's going through.",
       "mentions_person_refs": [
         "N-2",
-        "N-680",
+        "N-679",
         "N-1"
       ]
     },
@@ -4858,7 +4858,7 @@
       "investigative_direction": "Obtain the hearing transcript and dismissal order from the Canyon County court.",
       "transcript_snippet": "the Canyon County prosecuting attorney Alana Minton told the judge that a new piece of information came to light",
       "mentions_person_refs": [
-        "N-768",
+        "N-767",
         "N-12"
       ]
     },
@@ -5204,7 +5204,7 @@
       "investigative_direction": "Check Ginan's byline history and the publication date of the Jezebel article.",
       "transcript_snippet": "on June 26th is when suddenly Claire Ginan writes her first article for Jezebel.",
       "mentions_person_refs": [
-        "N-769"
+        "N-768"
       ]
     }
   ],

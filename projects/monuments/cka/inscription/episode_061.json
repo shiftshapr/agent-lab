@@ -273,7 +273,7 @@
           "related_nodes": [
             "N-3",
             "N-492",
-            "N-899"
+            "N-898"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -548,7 +548,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "TPUSA executive reported by host as participating in a sit-down with Owens and Erica Kirk to discuss Owens's allegations. First-name spelling uncertain.",
       "related_artifacts": [
@@ -1032,8 +1032,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-554",
-      "ref": "N-554",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Bella Hadid",
       "type": "person",
       "description": "Bella Hadid; named as the sister of Anwar Hadid.",
@@ -1260,8 +1260,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-897",
-      "ref": "N-897",
+      "@id": "N-896",
+      "ref": "N-896",
       "name": "Tree Paine",
       "type": "person",
       "description": "First named by the host at 00:24:22 in episode 61 (as 'Tree', Taylor Swift's publicist/agent). Surname inferred; the transcript gives only the first name.",
@@ -1277,8 +1277,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-898",
-      "ref": "N-898",
+      "@id": "N-897",
+      "ref": "N-897",
       "name": "Marc Anthony",
       "type": "person",
       "description": "First named by the host at 00:43:16 in episode 61 (transcribed 'Mark Anthony'). Singer the host says performed the late-night set at the Beckham wedding.",
@@ -1294,8 +1294,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-899",
-      "ref": "N-899",
+      "@id": "N-898",
+      "ref": "N-898",
       "name": "Marty Singer",
       "type": "person",
       "description": "First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola Peltz hired to sue a dog-grooming company.",
@@ -1311,8 +1311,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-900",
-      "ref": "N-900",
+      "@id": "N-899",
+      "ref": "N-899",
       "name": "Nelson Peltz",
       "type": "person",
       "description": "First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Pelts'). Father of Nicola Peltz; the host says he sued over a wedding contract.",
@@ -1328,8 +1328,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-901",
-      "ref": "N-901",
+      "@id": "N-900",
+      "ref": "N-900",
       "name": "Justin Anderson",
       "type": "person",
       "description": "First named by the host at 00:50:27 in episode 61. Hair stylist the host says called Nicola Peltz awful.",
@@ -1345,8 +1345,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-902",
-      "ref": "N-902",
+      "@id": "N-901",
+      "ref": "N-901",
       "name": "Selena Gomez",
       "type": "person",
       "description": "First named by the host at 00:51:35 in episode 61. The host says her friendship with Nicola Peltz fell apart.",
@@ -1362,8 +1362,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-903",
-      "ref": "N-903",
+      "@id": "N-902",
+      "ref": "N-902",
       "name": "Anwar Hadid",
       "type": "person",
       "description": "First named by the host at 00:51:35 in episode 61 (transcribed 'Anoir Hadid'). The host says he dated Nicola Peltz.",
@@ -1893,7 +1893,9 @@
         "N-10434",
         "N-10132"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:39",
       "investigative_direction": "Obtain the internal TPUSA memo or email that requested the DOGE and its date, and compare with the host's earlier reporting.",
       "transcript_snippet": "So we obviously broke the story about Charlie establishing a Doge 7 days before he died",
@@ -1918,7 +1920,9 @@
         "N-11180",
         "N-10432"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:17",
       "investigative_direction": "Obtain the executed speaking agreement and the termination correspondence to confirm who terminated, when, and the original term.",
       "transcript_snippet": "we moved to terminate that agreement which was supposed to go on for another couple of years.",
@@ -1939,7 +1943,9 @@
         "N-11180",
         "N-10432"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Obtain the December 15, 2025 exchange in which the statement was allegedly made.",
       "transcript_snippet": "she has stated that she quote doesn't feel any differently about people that she mentioned on the show and she thinks that there are shady people at Turning Point USA.",
@@ -1959,7 +1965,9 @@
       "related_nodes": [
         "N-11180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Obtain the date, attendees and any notes or recording of the Owens, Erika Kirk and Streiff meeting.",
       "transcript_snippet": "I sat down with Erika and Justin Strife, but that I was supposed to come out and say they're amazing",
@@ -1981,7 +1989,9 @@
       "related_nodes": [
         "N-11180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:12",
       "investigative_direction": "Identify which specific points the host says were conceded and obtain any notes or recording of the meeting.",
       "transcript_snippet": "I came out and I told the truth and things that were answered and actually what ended up happening was you conceded points to me.",
@@ -2008,7 +2018,9 @@
         "N-10432",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:12",
       "investigative_direction": "Obtain any damages calculation or demand TPUSA later serves, and compare with the letter's claim of substantial and continuing injury.",
       "transcript_snippet": "We are currently working to calculate the full extent to date of the still acrewing damages."
@@ -2027,7 +2039,9 @@
         "N-10432",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:53",
       "investigative_direction": "Compare the letter's description with the actual non-disparagement clause text in the executed agreement.",
       "transcript_snippet": "not to make any disparaging, false, misleading, or otherwise defamatory comments about Turning Point USA and/or its employees, agents, directors, officers, affiliate programs, or services."
@@ -2046,7 +2060,9 @@
         "N-10432",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:53",
       "investigative_direction": "Obtain call, text and meeting logs between Owens and TPUSA executives for December 2025 to January 2026.",
       "transcript_snippet": "Turning Point USA's executives have repeatedly made themselves available via phone, text, and in-person meetings to provide information and documentation."
@@ -2063,7 +2079,9 @@
       "related_nodes": [
         "N-11180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:50",
       "investigative_direction": "Obtain the host's communications log with TPUSA and identify the single contact and the one meeting.",
       "transcript_snippet": "That's just not true. I mean, I'm speaking to one person at Turning Point USA, and we had that sit down",
@@ -2087,7 +2105,9 @@
         "N-11180",
         "N-10432"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:50",
       "investigative_direction": "Identify the specific statements TPUSA considers reckless and intentional breaches.",
       "transcript_snippet": "she has continued to make statements in violation of her contractual obligations in a manner that is reckless, knowing, and intentional.",
@@ -2108,7 +2128,9 @@
         "N-11180",
         "N-10432"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:31",
       "investigative_direction": "Compile the host's published list of lies and TPUSA's responses to each item, with dates.",
       "transcript_snippet": "Which lie on our Turning Point USA list of lies did they correct? Nothing. They gave an excuse for the lies.",
@@ -2133,7 +2155,9 @@
         "N-10267",
         "N-10427"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:31",
       "investigative_direction": "Compile each TPUSA statement on drones with its date and speaker and compare them side by side.",
       "transcript_snippet": "They have conflicting answers about the drones. Brian Harpole says this, Andrew Kovette says this, their lawyer says that.",
@@ -2155,7 +2179,9 @@
       "related_nodes": [
         "N-10340"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:31",
       "investigative_direction": "Obtain the Erika Kirk interview with Glenn Beck and the exact words used about Charlie's night-before messages.",
       "transcript_snippet": "\"Charlie, I had his phone. He never said the night before that he was afraid he was gonna die.\"",
@@ -2177,7 +2203,9 @@
       "related_nodes": [
         "N-10340"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:24",
       "investigative_direction": "Obtain the night-before messages themselves, the app used and TPUSA's written explanation of why it was not disclosed earlier.",
       "transcript_snippet": "Yeah. No, he did. I didn't know cuz it was in a special, you know, app. Yeah. He also messaged Dan Fly.",
@@ -2206,7 +2234,9 @@
       "related_nodes": [
         "N-11180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:24",
       "investigative_direction": "Identify the evidence behind the host's characterization and any records TPUSA could cite to rebut it.",
       "transcript_snippet": "I specifically said Tyler Bowyer was a sexual deviant. I stand by that. It's the truth.",
@@ -2231,7 +2261,9 @@
         "N-11180",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:24",
       "investigative_direction": "Ask the host which individuals she means and what documents support the statement.",
       "transcript_snippet": "Yes, I do know there are people at Turning Point USA who are not good people. I stand by that.",
@@ -2252,7 +2284,9 @@
         "N-10417",
         "N-10435"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:19",
       "investigative_direction": "Obtain the dated request messages and TPUSA's replies to establish the sequence of requests and responses.",
       "transcript_snippet": "I said that I requested this multiple times over weeks and each time I was given an excuse.",
@@ -2274,7 +2308,9 @@
         "N-10417",
         "N-10435"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:10",
       "investigative_direction": "Obtain the exact request wording and what TPUSA sent instead.",
       "transcript_snippet": "But to date, they haven't sent me what I asked for. So I told the truth.",
@@ -2297,7 +2333,9 @@
         "N-10000",
         "N-10925"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:10",
       "investigative_direction": "Locate the on-air or written admission the letter refers to as a flood of allegations.",
       "transcript_snippet": "Miss Owens Farmers has not put an end to what she has expressly admitted to be a flood of allegations against people at Turning Point USA.",
@@ -2315,7 +2353,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Compile the specific statements the host classes as lies and the documents that show each is false.",
       "transcript_snippet": "So because Turning Point USA is lying, it is a totally fair and reasonable assessment that they are engaged in a cover up.",
@@ -2334,7 +2374,9 @@
         "N-10433",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:11",
       "investigative_direction": "Compare with TPUSA Form 990 filings and audited financials if the host later covers finances in depth.",
       "transcript_snippet": "I'm not saying that's case turning point USA. We've barely covered their finances actually",
@@ -2353,7 +2395,9 @@
         "N-10000",
         "N-11180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:21",
       "investigative_direction": "Identify which individuals she regards as taking over TPUSA and the records she has used on their backgrounds.",
       "transcript_snippet": "The thrust of this is looking into the people that are taking over Turning Point USA, their backgrounds, and I'm going to continue to be honest about that.",
@@ -2372,7 +2416,9 @@
         "N-11180",
         "N-10432"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:21",
       "investigative_direction": "Obtain the contract's governing-law and force majeure provisions and the host's counsel's formal response.",
       "transcript_snippet": "when I signed an agreement to go on tour with Charlie Kirk, I think it it would be fair to argue that his assassination, his public assassination was an unforeseeable circumstance.",
@@ -2392,7 +2438,9 @@
         "N-11180",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:39",
       "investigative_direction": "Obtain counsel's reply to the cease and desist letter and any settlement communications.",
       "transcript_snippet": "But I told my lawyer, \"Here's what you do. Go back to them and say, \"How much money do you want?\"",
@@ -2411,7 +2459,9 @@
         "N-11180",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:45",
       "investigative_direction": "Watch for any GoFundMe launch and TPUSA's response to the price offer.",
       "transcript_snippet": "I'm going to go online, start a GoFundMe, and raise it overnight.",
@@ -2429,7 +2479,9 @@
       "related_nodes": [
         "N-10661"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:24:22",
       "investigative_direction": "Check the book chapter text for the claims about Swift referenced here.",
       "transcript_snippet": "If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.",
@@ -2450,7 +2502,9 @@
       "related_nodes": [
         "N-10661"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:24:22",
       "investigative_direction": "Look for reporting or court exhibits showing Swift's team's communications with Lively's team.",
       "transcript_snippet": "Tree, her agent, is like, \"Nope, cut that friend off. We're going to save you.\"",
@@ -2458,7 +2512,7 @@
         "N-3",
         "N-497",
         "N-495",
-        "N-897"
+        "N-896"
       ]
     },
     {
@@ -2469,7 +2523,9 @@
       "claim": "The host says Kanye West had video of his call with Taylor Swift about the song lyric and that Kim Kardashian released the receipts after Swift's side denied it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:26:30",
       "investigative_direction": "Review the 2020 call footage released by Kim Kardashian and Swift's public statements.",
       "transcript_snippet": "turns out that Kanye had video of it and Kim Kardashian, who I don't even like, just started dropping the receipts.",
@@ -2488,7 +2544,9 @@
       "claim": "The host says Swift's statement asked 'where is the video of Kanye telling me that he was going to call me that in his song,' and that the host found it not honest.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:26:30",
       "investigative_direction": "Compare Swift's 2016 statement text with the released call footage.",
       "transcript_snippet": "where is the video of Kanye telling me that he was going to call me that in his song?",
@@ -2510,7 +2568,9 @@
       "related_nodes": [
         "N-10661"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:27:10",
       "investigative_direction": "Review the message exhibits in the Lively and Baldoni docket for what Swift was told and when.",
       "transcript_snippet": "And she knew that Blake Lively was going to file um that sexual harassment complaints to get these publishing rights, take over the movie.",
@@ -2533,7 +2593,9 @@
       "related_nodes": [
         "N-10661"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:27:10",
       "investigative_direction": "Review the message exhibits for the timing and wording of the Lively to Swift script texts.",
       "transcript_snippet": "Blake did text her over the script, the scene that she wanted to be replaced.",
@@ -2555,7 +2617,9 @@
       "related_nodes": [
         "N-10661"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:27:10",
       "investigative_direction": "Locate the specific message exhibit containing the joke about Swift's fans.",
       "transcript_snippet": "this is basically going to give us an effective majority if Taylor Swift is involved because Taylor Swift has a lot of fans.",
@@ -2578,7 +2642,9 @@
       "related_nodes": [
         "N-10661"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:29:09",
       "investigative_direction": "Look for public reporting or filings about Baldoni's hospitalization.",
       "transcript_snippet": "We knew that he ended up in a hospital. He was so stressed out by everything.",
@@ -2599,7 +2665,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:42",
       "investigative_direction": "Check public reporting on the Beckham family unfollows and blocks.",
       "transcript_snippet": "Brooklyn Beckham doesn't speak to his two brothers. He doesn't speak to his sister who's 14 by the way.",
@@ -2620,7 +2688,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:42",
       "investigative_direction": "Check reporting on the dress designer and the 2022 wedding.",
       "transcript_snippet": "Nicola wanted her dress allegedly to be designed by Victoria Beckham.",
@@ -2642,7 +2712,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:42",
       "investigative_direction": "Check reporting on the vow renewal and its guest list.",
       "transcript_snippet": "Last August he decided to have a secondary wedding without any of the Beckhams.",
@@ -2664,7 +2736,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:14",
       "investigative_direction": "Identify the receipt, who produced it, and what it documents about the dress commission.",
       "transcript_snippet": "Somebody then pulled up a receipt and her dress was in the making for a year.",
@@ -2690,7 +2764,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:37:33",
       "investigative_direction": "Identify the agreement, the parties and any payment terms tied to the name rights.",
       "transcript_snippet": "He said they were adamant on me signing before my wedding date.",
@@ -2713,7 +2789,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:22",
       "investigative_direction": "Review wedding seating plans or guest accounts.",
       "transcript_snippet": "Both of our parents had their own table equally adjacent to ours.",
@@ -2734,7 +2812,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:39:09",
       "investigative_direction": "Find guests who could confirm or rebut the alleged remarks.",
       "transcript_snippet": "The night before our wedding, members of my family told me that Nicola was not blood and not family.",
@@ -2756,7 +2836,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:27",
       "investigative_direction": "Identify the press items and social posts Brooklyn refers to.",
       "transcript_snippet": "I've received endless attacks from my parents both privately and publicly that were sent to the press on their orders. No evidence of that.",
@@ -2777,7 +2859,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:27",
       "investigative_direction": "Review any wedding video of the dance.",
       "transcript_snippet": "she danced very inappropriately on me in front of everyone.",
@@ -2799,7 +2883,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:23",
       "investigative_direction": "Compare the Vogue sequence with wedding video to establish the order of the dances.",
       "transcript_snippet": "I'll tell you what's going on, guys. This was actually their third dance.",
@@ -2824,7 +2910,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:42:09",
       "investigative_direction": "Check the Vogue article text for the speeches paragraph.",
       "transcript_snippet": "In addition to traditional speeches, including those from Brooklyn, best men, his brothers, Romeo and Cruz, the father of the groom, David Beckham, delivered a heartfelt tribute",
@@ -2846,7 +2934,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:16",
       "investigative_direction": "Identify the attendees and any video that establishes the order.",
       "transcript_snippet": "they had their first dance and then she had a dance with her father and then her and Brooklyn had some other dance and then late night started at 11:00 p. m.",
@@ -2868,7 +2958,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:16",
       "investigative_direction": "Review wedding video of Marc Anthony's late-night set.",
       "transcript_snippet": "Mark Anthony said, \"Now inviting the most beautiful woman to the floor.\" And then he said, \"Victoria Beckham.\"",
@@ -2877,7 +2969,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-898",
+        "N-897",
         "N-493"
       ]
     },
@@ -2893,7 +2985,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:44:56",
       "investigative_direction": "Identify the woman and the events referred to.",
       "transcript_snippet": "My mom has repeatedly invited women from my past into our lives in ways that clearly were intended to make us both uncomfortable.",
@@ -2915,7 +3009,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:45:59",
       "investigative_direction": "Check reporting on the timing of David Beckham's 50th birthday and the family's London schedule.",
       "transcript_snippet": "we still traveled to London for my dad's birthday and we were rejected for a week as we waited in in our hotel room trying to plan quality time with him.",
@@ -2938,7 +3034,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:11",
       "investigative_direction": "Identify Nicola's LA fire dog effort and any request made to Victoria Beckham.",
       "transcript_snippet": "But the one time that my wife asked for my mom's support to save displaced dogs during the LA fires, my mom refused.",
@@ -2961,7 +3059,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:48:01",
       "investigative_direction": "Look for reporting on the legal letter and its sender.",
       "transcript_snippet": "He apparently sent his family uh maybe a cease and desist, whatever you want to call it, a legal letter telling them",
@@ -2982,14 +3082,16 @@
       "related_nodes": [
         "N-11290"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:49:30",
       "investigative_direction": "Obtain the complaint and docket in the grooming company lawsuit.",
       "transcript_snippet": "she hired Marty Singer to sue this little company because her Chihuahua died.",
       "mentions_person_refs": [
         "N-3",
         "N-492",
-        "N-899"
+        "N-898"
       ]
     },
     {
@@ -3004,7 +3106,9 @@
       "related_nodes": [
         "N-11290"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:49:30",
       "investigative_direction": "Obtain the autopsy report from the court file.",
       "transcript_snippet": "They got the autopsy. It turns out the dog had what Chihuahua get a lot of, which is fluid in the brains in the brain.",
@@ -3023,14 +3127,16 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:50:27",
       "investigative_direction": "Search court dockets for the wedding contract suits involving Nelson Peltz.",
       "transcript_snippet": "She went through three different wedding contracts. One of which her father sued and they sued back",
       "mentions_person_refs": [
         "N-3",
         "N-492",
-        "N-900"
+        "N-899"
       ]
     },
     {
@@ -3041,14 +3147,16 @@
       "claim": "The host says Nicola Peltz's hair stylist from the Transformers movie, Justin Anderson, said she was awful and the worst client he had worked with.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:50:27",
       "investigative_direction": "Locate Anderson's original statement and its context.",
       "transcript_snippet": "Her hair stylist from when her dad put her in the Transformers movie, Justin Anderson, said she's awful.",
       "mentions_person_refs": [
         "N-3",
         "N-492",
-        "N-901"
+        "N-900"
       ]
     },
     {
@@ -3059,14 +3167,16 @@
       "claim": "The host says Nicola Peltz's relationship with Selena Gomez has fallen apart.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:51:35",
       "investigative_direction": "Check public reporting on the Peltz and Gomez friendship.",
       "transcript_snippet": "Her relationship with Selena Gomez has fallen apart.",
       "mentions_person_refs": [
         "N-3",
         "N-492",
-        "N-902"
+        "N-901"
       ]
     },
     {
@@ -3077,15 +3187,17 @@
       "claim": "The host says Nicola Peltz was dating Anwar Hadid, that he stopped talking to his family, and that they were relieved when the couple broke up.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:51:35",
       "investigative_direction": "Check reporting on the relationship and the Hadid family's reaction.",
       "transcript_snippet": "She was dating Anoir Hadid, Bella Hadid's brother",
       "mentions_person_refs": [
         "N-3",
         "N-492",
-        "N-903",
-        "N-554"
+        "N-902",
+        "N-553"
       ]
     },
     {
@@ -3098,7 +3210,9 @@
       "related_nodes": [
         "N-11289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:43",
       "investigative_direction": "Ask the host for the date, venue and who was present.",
       "transcript_snippet": "But he stood up at this dinner. And he gave a toast. You should know this, Brooklyn, cuz there were no cameras there.",
@@ -3120,7 +3234,9 @@
       "related_nodes": [
         "N-11180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:58:14",
       "investigative_direction": "Capture the X trending topic page for that date.",
       "transcript_snippet": "I just live saw that this is trending on X.",
@@ -3141,7 +3257,9 @@
         "N-11035",
         "N-10432"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:55",
       "investigative_direction": "Ask the host which new sources have come forward and what documents they have supplied.",
       "transcript_snippet": "And we have a lot that we are getting and researching uh because more people are now speaking because that's not the best solution.",
@@ -3161,7 +3279,9 @@
       "related_nodes": [
         "N-11035"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:55",
       "investigative_direction": "Obtain TPUSA headcount or termination records for the period.",
       "transcript_snippet": "I will say I did not hear that it was 40 people, but I did hear that it was a lot of people.",
@@ -3181,7 +3301,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:01:13",
       "investigative_direction": "Record any acceptance or refusal of the invitation by Neff or Kolvet.",
       "transcript_snippet": "I have said Blake Nef, if you would like to come, you can.",
@@ -3203,7 +3325,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:01:13",
       "investigative_direction": "Obtain the texts Kolvet allegedly sent to third parties about the host.",
       "transcript_snippet": "I would love for the spokesperson for Turning Point USA to stop texting people to do his dirty work",
@@ -3224,7 +3348,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:01:13",
       "investigative_direction": "Obtain notes or a recording of the meeting.",
       "transcript_snippet": "\"Yeah, yeah, no, you were kind of right about a lot of that stuff, but here's why this happened.\"",
@@ -3245,7 +3371,9 @@
         "A-1667.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:02:43",
       "investigative_direction": "No specific record is identifiable; treat as general opinion.",
       "transcript_snippet": "The politics is all about who you can blackmail, who you can lie on, stepping on someone's head to get ahead.",
@@ -3263,7 +3391,9 @@
         "A-1667.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:04:23",
       "investigative_direction": "Review the prior episode's Dave Rubin segment.",
       "transcript_snippet": "And the Dave Rubin thing yesterday really proved that for me.",
@@ -3284,7 +3414,9 @@
       "related_nodes": [
         "N-11180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:05:14",
       "investigative_direction": "Watch any filed suit for discovery requests to TPUSA custodians.",
       "transcript_snippet": "Could you imagine all of the text messages I would have access to, the timeline that I could put together?",
@@ -3304,7 +3436,9 @@
       "related_nodes": [
         "N-11180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:06:18",
       "investigative_direction": "Verify Elizabeth McCoy's current role at TPUSA and any involvement in the letter.",
       "transcript_snippet": "Or you know by conspiracy Elizabeth McCoy, she's coming up in the ranks.",
@@ -3326,7 +3460,9 @@
         "N-11180",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:06:18",
       "investigative_direction": "Obtain counsel's reply letter and TPUSA's response.",
       "transcript_snippet": "which is we're happy to pay you since you care about money.",

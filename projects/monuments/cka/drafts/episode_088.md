@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: fd62017fc03da5f558a7a5932524ae356911ad85bc96f8539a17038700b77b76
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-825, N-826
+  - Tip-minted Nodes (supplement_2026-10c): N-824, N-825
   - Hole-minted Nodes (reintro-ep088): N-10594, N-10620, N-10710, N-10729
   - Tip-minted Nodes (reintro-ep088): N-10936, N-11135, N-11142
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -414,8 +414,7 @@ Jeffrey Epstein; the host discusses the December 23 release, the deepfake video 
 
 ---
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 Justin Streiff, TPUSA COO; the host says she expected him to run things behind the scenes.
 
 *Related: C-8571*
@@ -854,7 +853,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-825** Eric Swalwell
+**N-824** Eric Swalwell
 
 First named by the host at 00:46:55 in episode 88. Congressman the host says Trump believed Bondi tipped off about an FBI inquiry into his relationship with Christine Fang.
 
@@ -862,7 +861,7 @@ First named by the host at 00:46:55 in episode 88. Congressman the host says Tru
 
 ---
 
-**N-826** Christine Fang
+**N-825** Christine Fang
 
 First named by the host at 00:46:55 in episode 88. Woman the host calls the Chinese spy girl in her account of Swalwell's relationship and the FBI documents.
 
@@ -1067,7 +1066,7 @@ Claim Timestamp: 00:44:55–00:46:02
 Claim: Trump's statement named Deputy Attorney General Todd Blanche to serve as Acting Attorney General.
 
 Anchored Artifacts: A-1935.1
-Mentions: N-547
+Mentions: N-546
 Related Nodes: N-10586
 Investigative Direction: Verify the formal appointment and any subsequent Senate-confirmation process.
 
@@ -1677,8 +1676,9 @@ Transcript Snippet: she went in for a treatment 2 days earlier on September 8th 
 Anchored Artifacts: A-2947.1
 Mentions: N-3, N-2, N-500
 Related Nodes: N-10483
+Qualifies: C-3804
 Tags: relevance:core
-Investigative Direction: Authenticate the records through lawful channels; compare with earlier claims about her whereabouts Sept 8 to 10.
+Investigative Direction: Flag (clinic vs hospital): C-3804 (ep84) says Erika's mother was not in the hospital Sept 8-10; this claim places her at a treatment facility on Sept 8, and ep68/ep76 call it a Lyme-treatment clinic (C-10031, C-10287). Read as clinic, not hospital, so linked Qualifies rather than Contradicts. Authenticate the records through lawful channels.
 
 ---
 
@@ -1982,7 +1982,7 @@ Claim: The host says reports indicate Trump fired Bondi because he believes she 
 Transcript Snippet: he believes that she is the one that tipped off Eric Swalwell
 
 Anchored Artifacts: 
-Mentions: N-3, N-5, N-85, N-825
+Mentions: N-3, N-5, N-85, N-824
 Related Nodes: N-10586
 Tags: relevance:context
 Investigative Direction: Locate the articles the host says contain this account and verify who sourced it.
@@ -1998,7 +1998,7 @@ Claim: The host says the FBI was apparently preparing documents on Swalwell's re
 Transcript Snippet: the FBI was sort of preparing um, a bunch of documents relating to his relationship with Christine Fang
 
 Anchored Artifacts: 
-Mentions: N-3, N-825, N-826
+Mentions: N-3, N-824, N-825
 Related Nodes: N-10586
 Tags: relevance:context
 Investigative Direction: Check public reporting on the FBI's handling of the Fang file.
@@ -2414,3 +2414,6 @@ Confidence: high
 
 ---
 
+## Optional Flags
+
+- **Clinic vs hospital (C-8598 / C-3804):** C-8598 says Erika's mother had a treatment on Sept 8 at a facility; C-3804 (ep84) says she was not in the hospital Sept 8-10. Treated as a clinic visit (ep68 C-10031, ep76 C-10287), so the edge is Qualifies, not Contradicts. Revisit if the records show a hospital.

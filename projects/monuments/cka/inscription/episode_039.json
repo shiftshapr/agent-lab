@@ -969,7 +969,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "Elevated to COO of Turning Point USA on September 2, 2025 per internal memo; tasked with leading DOGE-style efficiency audit.",
       "related_artifacts": [],
@@ -1806,8 +1806,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-894",
-      "ref": "N-894",
+      "@id": "N-893",
+      "ref": "N-893",
       "name": "Eric Dupond-Moretti",
       "type": "person",
       "description": "First named by the host at 00:05:25 in episode 39. Transcribed Eric Dupond Moretti and Eric Dupon Moretti; the host says he made an argument for happy incest.",
@@ -2237,7 +2237,9 @@
       "related_nodes": [
         "N-11129"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:02:41",
       "investigative_direction": "Identify the priest through the host; this is a historical opinion and can only be checked against the historical record of Freemason membership among the founders.",
       "transcript_snippet": "You Americans know nothing of your own history. Your country was founded by Freemasons.",
@@ -2255,7 +2257,9 @@
       "related_nodes": [
         "N-11129"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:03:44",
       "investigative_direction": "Historical claim with no document shown; compare against standard histories of the European revolutions and Masonic involvement.",
       "transcript_snippet": "Freemasons who caused all of those revolutions against really the Christian Empire across Europe.",
@@ -2275,7 +2279,9 @@
         "N-10289",
         "N-10306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:36",
       "investigative_direction": "Obtain the underlying Wilmington tip email from the host and check property records for the buildings housing FBI suites.",
       "transcript_snippet": "was asserting that the FBI had these offices, these kind of hidden offices, maybe kind of in buildings that appeared to be in part controlled by French American families",
@@ -2294,7 +2300,9 @@
         "N-10288",
         "N-10306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:25",
       "investigative_direction": "Obtain the tip emails from Delaware and check property, hospital and school ownership records for DuPont family entities.",
       "transcript_snippet": "people in Wilmington saying, uh, yeah, no, they own kind of everything, like everything, hospitals, schools, buildings, you name it, it is theirs.",
@@ -2310,12 +2318,14 @@
       "claim": "The host says that before her Becoming Brigitte season 2 was interrupted she had been discussing Eric Dupond-Moretti, whom she says made a name for himself by making an argument for happy incest.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:05:25",
       "investigative_direction": "Check the Becoming Brigitte season 2 episode where Dupond-Moretti was discussed and the source of the happy-incest characterization.",
       "transcript_snippet": "we were speaking about how he was kind of known a name for himself making an argument for happy incest.",
       "mentions_person_refs": [
-        "N-894",
+        "N-893",
         "N-3"
       ]
     },
@@ -2331,7 +2341,9 @@
       "related_nodes": [
         "N-10306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:45",
       "investigative_direction": "Obtain the Vanity Fair article and the Delaware sentencing record to see who the critics were and whether the characterization holds.",
       "transcript_snippet": "Critics have since noted that such treatment is usually offered only to drug addicts or those in possession of child pornography, not convicted rapists.",
@@ -2352,7 +2364,9 @@
       "related_nodes": [
         "N-10306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:45",
       "investigative_direction": "Pull the New Castle County deed for the Greenville property and the civil docket for the ex-wife's damages suit.",
       "transcript_snippet": "Richards, who is unemployed and supported by a trust fund, owns a 5800 ft mansion in Greenville that he bought for $1.8 million in 2005.",
@@ -2372,7 +2386,9 @@
       "related_nodes": [
         "N-10306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:45",
       "investigative_direction": "Verify the genealogy against Richards family and DuPont family records and the cited registry entry.",
       "transcript_snippet": "his great-grandfather is the DuPont family patriarch Dupont and his father is Robert H.",
@@ -2392,7 +2408,9 @@
         "N-10303",
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:36",
       "investigative_direction": "Check the Delaware court docket for counsel of record in Macron v. Owens and confirm the firm's name against the filings.",
       "transcript_snippet": "Hey Candace, is that the law firm that's filing the paperwork for you? And the answer to that is yes.",
@@ -2414,7 +2432,9 @@
         "N-10303",
         "N-10306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:36",
       "investigative_direction": "Compare the firm's founding history and partner roster with Richards and du Pont family genealogy; note the host's remark is inferential.",
       "transcript_snippet": "the founding partner of that firm who's since retired is DuPont. It's the DuPont family.",
@@ -2433,7 +2453,9 @@
       "related_nodes": [
         "N-10306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:09:20",
       "investigative_direction": "Compare DuPont company defense contracts and historical munitions production with the host's characterization.",
       "transcript_snippet": "that is what they specialize in, chemicals, chemicals that are used in war.",
@@ -2453,7 +2475,9 @@
       "related_nodes": [
         "N-10306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:20",
       "investigative_direction": "Obtain the Delaware bail order and plea agreement in the Richards case.",
       "transcript_snippet": "was instead released on a $60,000 bail and eventually cpped a plea deal that involved him admitting that he had abused his children",
@@ -2471,7 +2495,9 @@
       "related_nodes": [
         "N-10306"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:39",
       "investigative_direction": "Identify which documented Epstein ties to France the host means; compare with public reporting on Epstein's French contacts.",
       "transcript_snippet": "we've got Jeffrey Epstein's ties to France.",
@@ -2488,7 +2514,9 @@
       "claim": "The host says she found out, by the grace of God, that there was a plot to murder her, and that the accumulating coincidences feel to her like a conspiracy.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:39",
       "investigative_direction": "Ask the host which source or document revealed the alleged plot and whether it has been reported to law enforcement.",
       "transcript_snippet": "you find out really by the grace of God that there was this plot to murder me, okay?",
@@ -2512,7 +2540,9 @@
         "N-10289",
         "N-10288"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:39",
       "investigative_direction": "Check New Castle County property records and GSA lease records for 500 Delaware Avenue.",
       "transcript_snippet": "we've got this FBI suite in this building that's actually owned by the Wilmington Trust at 500 Delaware Avenue.",
@@ -2536,7 +2566,9 @@
         "N-10304",
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:39",
       "investigative_direction": "Pull Delaware Division of Corporations registered-agent filings for Sheridan's LLCs and identify the occupants of 919 North Market Street.",
       "transcript_snippet": "Also in that building happens to be um Stacy Sheridan's registered agent.",
@@ -2558,7 +2590,9 @@
         "N-10285",
         "N-10286"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:14",
       "investigative_direction": "Confirm the tenant, address and CEO of the Bracebridge complex development; the transcript spells the company Insight, likely Incyte.",
       "transcript_snippet": "this red crane at 1100 North King Street and that's BRC Bridge complex which is supposed to house Insight headquarters and they've got a French CEO.",
@@ -2576,7 +2610,9 @@
       "related_nodes": [
         "N-10304"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:14",
       "investigative_direction": "Search Delaware corporate records for Cloverstone Ventures, its registered agent and members, and match payments against TPUSA filings.",
       "transcript_snippet": "which she was getting paid through. It could all be above board. I don't really know. But the one I'm speaking about is Cloverstone Ventures.",
@@ -2593,7 +2629,9 @@
       "claim": "The host says Stacy Sheridan is the senior advancement director at Turning Point USA and was brought in specifically by Tyler Bowyer to raise money and take Turning Point to the next level.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:23",
       "investigative_direction": "Check TPUSA staff announcements and LinkedIn history for Sheridan's title and hiring date.",
       "transcript_snippet": "She was brought in specifically by Tyler Bowyer to raise money and to take Turning Point to the next level.",
@@ -2613,7 +2651,9 @@
       "claim": "The host says that Donald Trump pardoned Tyler Bowyer a couple of weeks before the episode.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:23",
       "investigative_direction": "Check the DOJ pardon attorney's list of clemency grants for Tyler Bowyer and the date of any grant.",
       "transcript_snippet": "Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago",
@@ -2630,7 +2670,9 @@
       "claim": "The host says she disliked Sheridan from the start and told Charlie Kirk to his face when Sheridan was hired that he could not go down this path with money.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:23",
       "investigative_direction": "Look for contemporaneous messages or witnesses to the host's warning and for Sheridan's hiring date.",
       "transcript_snippet": "I expressed that to Charlie to his face when she was hired. That's when I kind of notoriously said to him, you can't go down this path with money, okay?",
@@ -2650,7 +2692,9 @@
       "related_nodes": [
         "N-11202"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:23",
       "investigative_direction": "Identify the photographer of the widely shared casket footage and the account that first posted it.",
       "transcript_snippet": "Stacy Sheridan is the one that was filming.",
@@ -2669,7 +2713,9 @@
       "related_nodes": [
         "N-11202"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:23",
       "investigative_direction": "Confirm Sheridan's role in the memorial program and the White House observance from event programs and video.",
       "transcript_snippet": "She's eulogizing Charlie Kirk on stage. She is capturing intimate photos of his casket.",
@@ -2690,7 +2736,9 @@
         "N-11008",
         "N-10269"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:16",
       "investigative_direction": "Obtain Satis shareholder registers or filings and verify ACE Partners' stake and ownership.",
       "transcript_snippet": "We learn about this French and Israeli uh ACE Partners being the second largest shareholder of Satis.",
@@ -2709,7 +2757,9 @@
         "N-11008",
         "N-10269"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:16",
       "investigative_direction": "Check airport authority lease terms and any FAA or federal approval requirement for the hangar.",
       "transcript_snippet": "We learn that that requires federal approval because it sits on federal airways",
@@ -2728,7 +2778,9 @@
       "claim": "The host says she asked Tucker Carlson what inspired his July 11 speech at Turning Point and he told her he had no plan to say it and it just came out of his mouth.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:06",
       "investigative_direction": "Ask Carlson to confirm; compare with the speech video and any prepared remarks.",
       "transcript_snippet": "I asked Tucker what made you say that and he said I had no plan to say it just came out of my mouth",
@@ -2750,7 +2802,9 @@
       "related_nodes": [
         "N-11235"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:14",
       "investigative_direction": "Review the full video of the July 11 speech and contemporaneous donor reactions.",
       "transcript_snippet": "He calls out Jeffrey Epstein. He says that people who serve in foreign armies should be stripped of their citizenship. He muses about Bill Aman's wealth and where it comes from.",
@@ -2776,7 +2830,9 @@
         "N-10012",
         "N-10224"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:14",
       "investigative_direction": "Obtain the TPUSA and UVU event request correspondence with timestamps.",
       "transcript_snippet": "it was 7 days later that the request came from uh to Turning Point USA from UVU UVU's chapter for Charlie to have this event.",
@@ -2801,7 +2857,9 @@
         "N-10276",
         "N-10253"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:14",
       "investigative_direction": "Compare flight-tracking records for the Lincoln landing with the Nebraska announcement date.",
       "transcript_snippet": "right after that, our Egyptian yellow plane flies to Lincoln, Nebraska. And two days later, it is announced in Nebraska that they're going to be doing a trade and investment trip with Egypt.",
@@ -2824,7 +2882,9 @@
       "related_nodes": [
         "N-10276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:14",
       "investigative_direction": "File a Nebraska public-records request for the meeting calendar, attendee list and trade mission planning documents.",
       "transcript_snippet": "who were these professionals that met with Secretary of State Bob Evan? Why is this meeting somehow off record?",
@@ -2848,7 +2908,9 @@
         "N-10266",
         "N-10276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:14",
       "investigative_direction": "Check flight-tracking logs for the Nebraska to Wilmington to Cairo legs of SU-BTT.",
       "transcript_snippet": "then uh it departs Nebraska, the our yellow plains, and it heads to Wilmington, and then it gets it goes back to Cairo.",
@@ -2869,7 +2931,9 @@
         "A-3114.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:49",
       "investigative_direction": "Obtain the McCoys' and Kirk family's posts and travel dates for the Maine trip.",
       "transcript_snippet": "Charlie vacations up to Maine for a couple of weeks to be with his family, goes off radar. We've got Mikey McCoy and his wife uh Eliza that join them for the first time.",
@@ -2894,7 +2958,9 @@
       "related_nodes": [
         "N-10870"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:49",
       "investigative_direction": "Obtain the sponsorship contract and addendum and the date the tour sponsorship was announced.",
       "transcript_snippet": "Why Rei comes in as the number one sponsor of the Charlie Kirk fall tour.",
@@ -2914,7 +2980,9 @@
       "related_nodes": [
         "N-10870"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:49",
       "investigative_direction": "Compare tour announcement dates for past TPUSA tours with the fall 2025 tour.",
       "transcript_snippet": "they are planning them at least a semester ahead and then it was like mass panic.",
@@ -2930,7 +2998,9 @@
       "claim": "The host says that Lila Rose and Allie Beth Stuckey, whom she says have never headlined their tour, publicly said her claim about how tours are planned was not true.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:49",
       "investigative_direction": "Find the posts by Rose and Stuckey disputing the host and compare with their tour histories.",
       "transcript_snippet": "I got like Llaya Rose and Ally Stucky who have never headlined their tour suddenly saying that's not true.",
@@ -2953,7 +3023,9 @@
         "N-10012",
         "N-10224"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:36",
       "investigative_direction": "Obtain the venue site-visit communications between TPUSA, UVU and event staff in early August.",
       "transcript_snippet": "Turning Point USA insisted upon that, the person that was orchestrating um that event, Maycee Crofts, was saying",
@@ -2974,7 +3046,9 @@
       "related_nodes": [
         "N-10290"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:36",
       "investigative_direction": "Check French Army and US Army statements on the August 2025 Foreign Legion exercise in California.",
       "transcript_snippet": "August 2nd is when we have our French legionnaires arriving in America for a 3-week training session in California which is going to end on the 25th.",
@@ -2994,7 +3068,9 @@
       "related_nodes": [
         "N-10134"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:36",
       "investigative_direction": "Collect accounts from attendees and any messages from Kirk describing the retreat.",
       "transcript_snippet": "that Hampton's retreat which Charlie Kirk himself described as an intervention as an Israel intervention.",
@@ -3017,7 +3093,9 @@
       "related_nodes": [
         "N-10134"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:36",
       "investigative_direction": "Check attendee disclosures and Ackman statements on who paid for travel and lodging.",
       "transcript_snippet": "And we know that the influencers were paid for by Bill Aman, but I don't think that that's particularly a big deal.",
@@ -3038,7 +3116,9 @@
         "N-10302",
         "N-10342"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:04",
       "investigative_direction": "Seek call logs, Netanyahu office statements and TPUSA donor records; ask Kolvet or Erika Kirk to confirm or deny.",
       "transcript_snippet": "BBNet and Yahoo calling Charlie and offering to take Turning Point to the next level.",
@@ -3063,7 +3143,9 @@
         "N-10302",
         "N-10456"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:51",
       "investigative_direction": "Check for any public denial by TPUSA, Netanyahu's office or the Hamptons attendees since the claim first aired.",
       "transcript_snippet": "No one has denied that that this took place and Charlie declined.",
@@ -3088,7 +3170,9 @@
         "N-10266",
         "N-10276"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:51",
       "investigative_direction": "Verify SU-BTT landings in Lincoln, Omaha and Wilmington against flight-tracking data.",
       "transcript_snippet": "planes come back out and they're flying to Lincoln again. They're going to Omaha. They're going to Wilmington. They stay for one night.",
@@ -3111,7 +3195,9 @@
       "related_nodes": [
         "N-10266"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:40",
       "investigative_direction": "Verify SU-BTT's August 24 departure path against flight-tracking data.",
       "transcript_snippet": "We have our yellow planes then returning on the 24th again always through Wilmington to Egypt.",
@@ -3132,7 +3218,9 @@
         "N-10273",
         "N-10279"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:40",
       "investigative_direction": "Check the exercise dates and participants against organizer and Minnesota National Guard statements; the host's stated date range differs from earlier reporting.",
       "transcript_snippet": "operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley.",
@@ -3153,7 +3241,9 @@
         "N-10012",
         "N-10224"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:40",
       "investigative_direction": "Retrieve the August 27 social media graphic and its post timestamps from TPUSA, UVU and BYU chapter accounts.",
       "transcript_snippet": "TPUSA, UVU, and a local BYU chapter share a graphic announcing that Charlie is coming to UVU, but there are no location details mentioned on that graphic.",
@@ -3173,7 +3263,9 @@
       "related_nodes": [
         "N-10291"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:40",
       "investigative_direction": "Check CENTCOM and Egyptian Armed Forces statements for Bright Star 2025 start and end dates.",
       "transcript_snippet": "On the 29th, we have Operation Brightar, which commences that joint operation that we told you about",
@@ -3194,7 +3286,9 @@
         "N-10132",
         "N-10434"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:50",
       "investigative_direction": "Obtain the September 2 internal memo and its distribution list.",
       "transcript_snippet": "On September 2nd, Charlie sends out the email asking for a Doge audit of his company and he announces that Justin Strife is going to be the new COO taking over for Tyler Bowyer who was the COO.",
@@ -3219,7 +3313,9 @@
       "related_nodes": [
         "N-10224"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:50",
       "investigative_direction": "Find the earliest local news item on the courtyard event and its publication time.",
       "transcript_snippet": "we have the first known public going out in local media that Charlie's coming to town and that it is going to take place in the courtyard.",
@@ -3239,7 +3335,9 @@
       "related_nodes": [
         "N-10397"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:50",
       "investigative_direction": "Check Kirk's Korea itinerary and return flight times against TPUSA schedule records.",
       "transcript_snippet": "Charlie is in Korea for a couple of days. He comes back on September 10th and he gets assassinated.",
@@ -3259,7 +3357,9 @@
       "related_nodes": [
         "N-10291"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:50",
       "investigative_direction": "Confirm the closing ceremony date of Bright Star 2025 in official statements.",
       "transcript_snippet": "And that's also happens to be the same day that that Operation Bright Star, that Cairo joint operation formally ends.",
@@ -3281,7 +3381,9 @@
         "N-10434",
         "N-10302"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:50",
       "investigative_direction": "Ask whoever drafted the DOGE audit memo and TPUSA finance staff what prompted it; no evidence of the link was offered.",
       "transcript_snippet": "I'm wondering if Charlie put together the Doge account, and I want to be clear of this part of speculation because something that he maybe learned when BB asked to take it to the next level made him think maybe I should look through Turning Point's finances",
@@ -3298,7 +3400,9 @@
       "claim": "The host says many Turning Point USA people were venting in her tip box after the assassination, telling her they did not like the way management was acting and that things were weird.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:04",
       "investigative_direction": "Review the host's tip box submissions and corroborate with named former or current employees.",
       "transcript_snippet": "we had so many people from Turning Point USA that were just venting in our tip box and telling us that they didn't like the way management was acting and things were weird.",
@@ -3318,7 +3422,9 @@
       "related_nodes": [
         "N-10300"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:14",
       "investigative_direction": "Obtain the responses the host received through the tip box and check them against TPUSA donor records.",
       "transcript_snippet": "I'd like to know more about that. Can everybody try to figure out what donor that was?",
@@ -3337,7 +3443,9 @@
       "related_nodes": [
         "N-10298"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:17",
       "investigative_direction": "Check TPUSA public statements and filings for the post-assassination fundraising total.",
       "transcript_snippet": "or like the $90 million that Turning Point USA raised in the first couple of weeks following Charlie's assassination.",
@@ -3356,7 +3464,9 @@
         "N-10298",
         "N-10300"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:17",
       "investigative_direction": "Interview donations staff and the host's sources about who knew of the arrangement.",
       "transcript_snippet": "just a handful of people were allowed to even know about this that this was happening.",
@@ -3375,7 +3485,9 @@
         "N-10298",
         "N-10300"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:22",
       "investigative_direction": "Ask the sources what conversation they mean and how it was overheard or recorded.",
       "transcript_snippet": "people began to find out about this because of just an unfortunate conversation that had been left unattended to.",
@@ -3393,7 +3505,9 @@
       "related_nodes": [
         "N-10298"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:22",
       "investigative_direction": "Check the date of the host's messages with her sources against her Wyoming trip.",
       "transcript_snippet": "this happened so early following the assassination. I am talking before I even went to Wyoming.",
@@ -3413,7 +3527,9 @@
       "related_nodes": [
         "N-10305"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:15",
       "investigative_direction": "Preserve the written tip and identify the family friend through the host's inbox.",
       "transcript_snippet": "they had said that they felt that Andrew Kovette was acting weird.",
@@ -3435,7 +3551,9 @@
       "related_nodes": [
         "N-10298"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:11",
       "investigative_direction": "Review TPUSA's next Form 990 and Schedule B donor disclosures for the relevant period.",
       "transcript_snippet": "Obviously, it wouldn't be on this year's taxes. You're not going to find those on on this year's taxes, but they would be on next year's, but we can ask now.",
@@ -3451,7 +3569,9 @@
       "claim": "The host says that when Charlie was assassinated she knew instantly that he had been betrayed, and that Charlie had told her that he was betrayed, which people laughed at as a dream.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:15",
       "investigative_direction": "Ask the host when and how Charlie said this and whether any message preserves it.",
       "transcript_snippet": "Charlie told me that he was betrayed.",
@@ -3468,7 +3588,9 @@
       "claim": "The host says she often told Charlie she felt like an alien in politics and that Charlie always said he felt like a time traveler.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:29",
       "investigative_direction": "Personal recollection; no document anchored.",
       "transcript_snippet": "Charlie always said he felt like he was a time traveler.",
@@ -3487,7 +3609,9 @@
         "A-1481.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:09",
       "investigative_direction": "Obtain the original April 2018 message thread and verify the wording and timing.",
       "transcript_snippet": "He didn't just say that he was going to die. He didn't just say that Turning Point was going to be the death of him",
@@ -3508,7 +3632,9 @@
         "A-1481.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:09",
       "investigative_direction": "Ask the host for the full 2018 thread and the earlier episodes where she shared the other messages.",
       "transcript_snippet": "there was more that were in those now seemingly prophetic text messages that I was unwilling to share at that time. But I am going to share that now.",
@@ -3529,7 +3655,9 @@
       "related_nodes": [
         "N-11281"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:09",
       "investigative_direction": "Check the April 13 and 14, 2018 US, UK and French strike announcements and the official chemical attack rationale.",
       "transcript_snippet": "the United States and France were carrying out a series of military strikes involving an aircraft and these ship-based missiles against multimate multiple government sites in Syria."
@@ -3546,7 +3674,9 @@
       "related_nodes": [
         "N-11281"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:42:09",
       "investigative_direction": "Compare the OPCW investigation of the Douma incident with the host's account; this is the host's belief, not a documented finding.",
       "transcript_snippet": "if Assad was telling the truth, and I believe he was, because I think there is a war on Christians that's happening, then the West and the United States were implicated in part by a false flag attack"
@@ -3563,7 +3693,9 @@
       "related_nodes": [
         "N-11281"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:56",
       "investigative_direction": "Check French presidency and foreign ministry statements of April 14, 2018.",
       "transcript_snippet": "France had said in a statement on that morning on April 14th that France's red line had been crossed."
@@ -3580,7 +3712,9 @@
       "related_nodes": [
         "N-11281"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:56",
       "investigative_direction": "Obtain the original 2018 text to confirm the exact wording, since the host paraphrases it.",
       "transcript_snippet": "This is not the thing that's coming, but this is a preview of the thing that's coming.",
@@ -3596,7 +3730,9 @@
       "claim": "The host says she felt the dread leading up to Charlie's assassination and pulled her children out of school.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:51",
       "investigative_direction": "Ask the host for the date she removed her children and the reason given.",
       "transcript_snippet": "I felt it leading up to Charlie's assassination. I pulled my children out of school.",
@@ -3613,7 +3749,9 @@
       "claim": "The host says she had dreams and visions about bees and about an organization happening in America in the period before the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:51",
       "investigative_direction": "Ask the host when the dreams occurred and whether she recorded them in messages or notes.",
       "transcript_snippet": "I was having uh this dreams and visions about bees and organization that was happening in America.",
@@ -3629,7 +3767,9 @@
       "claim": "The host says she has a sense of dread that inexplicable events such as the Malibu fires and the Texas floods are not happening by accident.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:44:51",
       "investigative_direction": "No evidence offered; compare with official cause-of-fire and flood investigations.",
       "transcript_snippet": "these inexplicable events like the Malibu fires, these sort of coastal events, uh the Texas floods, that this is not happening by accident.",
@@ -3645,7 +3785,9 @@
       "claim": "The host says she feels the country is headed toward war, that they want war by any means necessary, and that wars are planned in boardrooms.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:44:51",
       "investigative_direction": "General prediction with no documentary support in this episode.",
       "transcript_snippet": "I feel that we are headed toward war. That they want war by any means necessary",
@@ -3663,7 +3805,9 @@
       "related_nodes": [
         "N-10301"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:01",
       "investigative_direction": "Identify the brother by name and check TPUSA or affiliate payroll and housing-program records.",
       "transcript_snippet": "Tyler Bowyer has a younger brother who for 10 years has worked in dental sales until Charlie died because a unique opportunity presented itself at Turning Point USA",
@@ -3683,7 +3827,9 @@
       "related_nodes": [
         "N-10301"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:12",
       "investigative_direction": "Find the public statements by Turek and McCoy describing the plan and the notebooks.",
       "transcript_snippet": "Uh or was it Rob McCoy? Rob McCoy said that I think I think they all said it honestly, but Rob McCoy did say that he kept this in his notebooks.",
@@ -3701,7 +3847,9 @@
       "claim": "The host says that Bolsheviks are here in America, having quietly woven themselves in while the country fought left and right, and compares them to the White Walkers building an army in Game of Thrones.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:51:46",
       "investigative_direction": "Sweeping assertion with no named persons or documents; record as said.",
       "transcript_snippet": "I think these bullshiks are here in America.",
@@ -3717,7 +3865,9 @@
       "claim": "The host says the Bolsheviks she means believe murder is their right, hate Christians and believe in infiltration.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:53:01",
       "investigative_direction": "Sweeping group claim; no named persons or documents.",
       "transcript_snippet": "And they are Bolsheviks and they believe uh murder is their right.",
@@ -3733,7 +3883,9 @@
       "claim": "The host says Charlie knew he was going to die and intimated to her that he had to take that option so that people would wake up.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:01",
       "investigative_direction": "Ask the host when Charlie said this and whether any message or witness records it.",
       "transcript_snippet": "that he felt as he intimated uh intimated to me that he had to take that option so that people would wake up.",
@@ -3753,7 +3905,9 @@
         "N-10300",
         "N-10298"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:01",
       "investigative_direction": "Ask TPUSA and Erika Kirk whether the post-assassination call and the donor arrangement occurred; watch for any statement.",
       "transcript_snippet": "I am hopeful that Erika Kirk will issue a statement. I I think in this new capacity uh CEO and chairman that we deserve an answer about that check um that phone call.",
@@ -3772,7 +3926,9 @@
       "related_nodes": [
         "N-10295"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:38",
       "investigative_direction": "No evidence of federal direction offered; compare with the litigation record in the Macron suit.",
       "transcript_snippet": "I think the federal government is trying to bankrupt me a thousand different ways.",
@@ -3788,7 +3944,9 @@
       "claim": "The host says Turning Point has given no clear answers so far, only more attacks on her, including from people who claim to be Christians using scripture.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:56:05",
       "investigative_direction": "Review TPUSA statements responding to the host's questions on the donor and the planes.",
       "transcript_snippet": "maybe Turning Point will have some very clear answers. They haven't given us any thus far.",
@@ -3804,7 +3962,9 @@
       "claim": "The host says that Netanyahu (BB) said on camera that America is something you can move very easily with money.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:40",
       "investigative_direction": "Locate the on-camera Netanyahu recording the host means and verify the wording and date.",
       "transcript_snippet": "which is what BB said on camera. You know, America is something you can move very easily with money.",
@@ -3823,7 +3983,9 @@
         "A-1484.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:40",
       "investigative_direction": "Likely a viewer joke on a Candace Intelligence Agency; the transcript reads Canada's, so check the live chat.",
       "transcript_snippet": "I voted for my taxpayer funds to go from the CIA towards the Canada's Intelligence Agency for all of her investigative work",
@@ -3841,7 +4003,9 @@
       "related_nodes": [
         "N-10299"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:40",
       "investigative_direction": "Ask the host which federal sources she counts as part of this movement; no individuals are named.",
       "transcript_snippet": "there are some good feds. There is an underground movement that is happening",

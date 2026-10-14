@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-566",
-      "ref": "N-566",
+      "@id": "N-565",
+      "ref": "N-565",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Carrie Prejean Bowler; the host says Trump removed her from the religious committee.",
@@ -1153,8 +1153,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-687",
-      "ref": "N-687",
+      "@id": "N-686",
+      "ref": "N-686",
       "name": "Nicolás Maduro",
       "type": "person",
       "description": "Nicolas Maduro; removed by the US operation the host cites.",
@@ -1493,8 +1493,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-785",
-      "ref": "N-785",
+      "@id": "N-784",
+      "ref": "N-784",
       "name": "Marina Abramovic",
       "type": "person",
       "description": "First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performance artist the host cites for spirit cooking and a 1974 pentagram performance.",
@@ -1511,8 +1511,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-786",
-      "ref": "N-786",
+      "@id": "N-785",
+      "ref": "N-785",
       "name": "Aleister Crowley",
       "type": "person",
       "description": "First named by the host at 00:13:52 in episode 75. Occultist the host says wrote books of pentacles meant to summon spirits.",
@@ -1546,8 +1546,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-787",
-      "ref": "N-787",
+      "@id": "N-786",
+      "ref": "N-786",
       "name": "Benny Gantz",
       "type": "person",
       "description": "First named by the host at 00:46:20 in episode 75. Israeli politician whose interview clip the host plays on boots on the ground in Iran.",
@@ -1564,8 +1564,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-788",
-      "ref": "N-788",
+      "@id": "N-787",
+      "ref": "N-787",
       "name": "Paula White",
       "type": "person",
       "description": "First named by the host at 01:01:46 in episode 75. Pastor the host groups with Christian Zionists surrounding Trump.",
@@ -2023,7 +2023,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:00",
       "investigative_direction": "Locate Ackman's posts from the weekend before March 9, 2026 and check whether he called for her prosecution or only shared others' posts.",
       "transcript_snippet": "Bill Ackman wants me imprisoned, apparently, for suggesting that American sons and daughters should object to being slaughtered for Israel.",
@@ -2042,7 +2044,9 @@
       "related_nodes": [
         "N-10858"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:53",
       "investigative_direction": "Compare with Erika Kirk's own public statements on running for office and any on-record answers to questions about a political future.",
       "transcript_snippet": "it is completely obvious to anyone that is paying attention that Erika's desire was to become the president one day.",
@@ -2061,7 +2065,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:02:02",
       "investigative_direction": "No checkable record is offered; ask the host which named officials or groups she means and what practices she can document.",
       "transcript_snippet": "People that practice occult magic are in this moment pushing for World War III.",
@@ -2077,7 +2083,9 @@
       "claim": "The host says people in charge of Western governments are in essence pagan and could be making literal blood sacrifices to various demons.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:02:02",
       "investigative_direction": "No named officials or documents are cited; any support would have to come from named participants or documentary evidence of such rites.",
       "transcript_snippet": "there are people that are in charge of Western governments that are in essence really pagan and could be making literal blood sacrifices to various demons.",
@@ -2093,12 +2101,14 @@
       "claim": "The host says artist Marina Abramovic literally does spirit cooking, that this is what was in the emails, and that she performs in front of the most powerful people in the world.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:04:00",
       "investigative_direction": "Check the leaked email set the host refers to for the spirit cooking references and who attended the events named.",
       "transcript_snippet": "She does spirit cooking, literally. That was what was in those emails. Marina Abramović.",
       "mentions_person_refs": [
-        "N-785",
+        "N-784",
         "N-3"
       ]
     },
@@ -2110,12 +2120,14 @@
       "claim": "The host says that in 1974 Marina Abramovic performed using a large petroleum-drenched pentagram that the artist lit on fire, in order to re-evoke the energy of extreme bodily pain.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:04:00",
       "investigative_direction": "Check the performance record for the date, title and wording of Abramovic's 1974 petroleum-soaked star piece against the host's description.",
       "transcript_snippet": "Performances like in 1974 when she sought to, quote, re-evoke the energy of extreme bodily pain using a large petroleum-drenched pentagram.",
       "mentions_person_refs": [
-        "N-785"
+        "N-784"
       ]
     },
     {
@@ -2130,7 +2142,9 @@
       "related_nodes": [
         "N-10414"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:04:59",
       "investigative_direction": "Identify the source and date of the video or image and CERN's own statement about the 2016 staged ritual and the Shiva statue.",
       "transcript_snippet": "when the world's leading nuclear physicists are caught cloaked before a statue of Shiva stabbing a woman in an occult ceremony for CERN",
@@ -2151,7 +2165,9 @@
       "related_nodes": [
         "N-11129"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:04:59",
       "investigative_direction": "Check historians of science and Masonic history for any organized effort of this kind; no source is offered on air.",
       "transcript_snippet": "that began because of a long organized Freemasonic effort to remove humanity from our innate spiritual understanding.",
@@ -2167,7 +2183,9 @@
       "claim": "The host says that when her manager Savannah came downstairs and told her Charlie had been shot, she went to her husband's office, cried and immediately told him Charlie was betrayed; she says her husband replied that they did not know anything yet.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:55",
       "investigative_direction": "Ask Savannah and the host's husband to confirm the exchange and its timing on September 10, 2025.",
       "transcript_snippet": "when Savannah, my manager, came down the stairs and delivered the news that Charlie had been shot, I went into my husband's office and I cried and I immediately said to him, he was betrayed.",
@@ -2186,7 +2204,9 @@
       "related_nodes": [
         "N-10113"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:55",
       "investigative_direction": "Compare with the dated Aug 30 to Sep 2 texts the host has cited and her husband's or staff's recollection of that week.",
       "transcript_snippet": "no one can explain why or how I had the sense of dread in the very week leading up to Charlie's assassination.",
@@ -2208,7 +2228,9 @@
       "related_nodes": [
         "N-10113"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:55",
       "investigative_direction": "Check publication dates of her show in the week before September 10, 2025 and ask the security contractor and school for dates.",
       "transcript_snippet": "Why the feeling was so overwhelming that I hired extra security and took my podcast off air and pulled my children out of school.",
@@ -2231,7 +2253,9 @@
         "N-10415",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:44",
       "investigative_direction": "Obtain the dated messages or recordings in which Charlie said this and compare with the 2018 texts aired earlier in the series.",
       "transcript_snippet": "He said he knew from the moment he signed on the dotted line that he was going to die young.",
@@ -2252,7 +2276,9 @@
       "related_nodes": [
         "N-11129"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:08:40",
       "investigative_direction": "Check Freud biographies for the Philippson or Jakob Freud family Bible and whether it is a Masonic book.",
       "transcript_snippet": "because of my studying Sigmund Freud and looking into the fact that he had inherited one from his father.",
@@ -2273,7 +2299,9 @@
       "related_nodes": [
         "N-10857"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:40",
       "investigative_direction": "Obtain the handwritten letter and envelope, identify the estate and auction, and ask the sender for the chain of custody.",
       "transcript_snippet": "a 33rd degree Freemason out in Oklahoma died, and all of his belongings were left in a home that was eventually auctioned off",
@@ -2293,7 +2321,9 @@
       "related_nodes": [
         "N-10857"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:26",
       "investigative_direction": "Interview the sender, request photographs of the book's cover, title page and publisher imprint, and corroborate the account.",
       "transcript_snippet": "they went in and they burnt everything in it effectively, uh thinking uh that it was obviously just carrying bad spirits.",
@@ -2313,7 +2343,9 @@
       "related_nodes": [
         "N-10857"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:12",
       "investigative_direction": "Have independent Masonic historians read the page and say whether the 'Place of sacrifice or worship' label refers to a sacrifice or to a temple altar.",
       "transcript_snippet": "it illustrates that a sacrifice must be made in the center of a pentagon. That's a pentagon.",
@@ -2333,7 +2365,9 @@
       "related_nodes": [
         "N-10856"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:12",
       "investigative_direction": "Obtain a to-scale layout of the Utah Valley University courtyard, tent, stage and seating on September 10, 2025 and test whether it forms a five-sided figure around his seat.",
       "transcript_snippet": "how curious that Charlie was indeed seated in the center of a pentagon when he was killed.",
@@ -2352,7 +2386,9 @@
       "related_nodes": [
         "N-11130"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:14",
       "investigative_direction": "No evidence is offered on air; check the organization's published history and membership against the claim of control.",
       "transcript_snippet": "B'nai B'rith, the Jewish Freemason group, who I believe have been running our country since at least the Civil War.",
@@ -2369,7 +2405,9 @@
       "claim": "The host says the satanic panic was real and that children have been harmed in occult ceremonies for a very long time.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:14",
       "investigative_direction": "Check court records and historians' accounts of the 1980s satanic panic; the host cites no specific case here.",
       "transcript_snippet": "The satanic panic that happened was real. Children are being harmed. They have been harmed in occult ceremonies for a very long time.",
@@ -2387,7 +2425,9 @@
         "A-2437.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:12:04",
       "investigative_direction": "Compare with the same Wikipedia article and scholarship on the history of the hexagram in Jewish and other traditions.",
       "transcript_snippet": "The star of David, as they term it, is in fact an occult symbol meant to represent King Solomon's ring.",
@@ -2405,7 +2445,9 @@
         "A-2437.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:12:58",
       "investigative_direction": "Pull the Wikipedia page and revision history and check the sentence about the two flags.",
       "transcript_snippet": "the seal of Solomon was once featured on the flag of Nigeria and the flag of Morocco.",
@@ -2423,7 +2465,9 @@
       "related_nodes": [
         "N-11129"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:12:58",
       "investigative_direction": "Check published Masonic ritual and Grand Lodge statements on the role of Solomon in the craft.",
       "transcript_snippet": "Freemasons worship Solomon as the master architect. They believe that he gave them the keys to build and therefore control societies.",
@@ -2439,12 +2483,14 @@
       "claim": "The host says Aleister Crowley created an entire religion around this, wrote a series of books and pentacles meant to summon various spirits, and that they are intentionally summoning demons.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:13:52",
       "investigative_direction": "Check Crowley's published works and the history of Thelema; the host does not link him to any named current official.",
       "transcript_snippet": "Aleister Crowley was master cultist created an entire religion around this, put together a series of books, a series of pentacles that are meant to summon various spirits.",
       "mentions_person_refs": [
-        "N-786",
+        "N-785",
         "N-3"
       ]
     },
@@ -2458,12 +2504,14 @@
         "A-2854.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:13:52",
       "investigative_direction": "Identify the book and edition shown; Crowley's earliest books are not known by this title, so check bibliographic records.",
       "transcript_snippet": "First book he wrote was called the book of evil spirits. Wow, look at that star of David all over it.",
       "mentions_person_refs": [
-        "N-786",
+        "N-785",
         "N-3"
       ]
     },
@@ -2477,7 +2525,9 @@
       "related_nodes": [
         "N-11131"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:52",
       "investigative_direction": "This is a belief without cited evidence; any support would need evidence of who planned the event and why it was broadcast.",
       "transcript_snippet": "I believe that the manner of Charlie's death Charlie's death was also intended to cast a spell.",
@@ -2496,7 +2546,9 @@
         "A-2438.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:43",
       "investigative_direction": "Identify the full Ripperger interview and confirm the date and subject discussed before the excerpt and after it.",
       "transcript_snippet": "he's not saying this to be clear in the context of Charlie Kirk.",
@@ -2519,7 +2571,9 @@
         "A-2438.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:43",
       "investigative_direction": "Obtain the original recording and check what 'the thing' refers to in Ripperger's own answer.",
       "transcript_snippet": "it can be connected to a curse. They could like they could curse this so that it has a more so that it's distribution becomes more extensive",
@@ -2540,7 +2594,9 @@
         "N-10857",
         "N-10113"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:23",
       "investigative_direction": "Compare with standard Masonic symbolism references to see whether these definitions match published sources.",
       "transcript_snippet": "A square is in Freemasonry an emblem or a symbol of morality. A plumb line, the the symbol of rectitude and the beehive as a symbol of industry.",
@@ -2556,7 +2612,9 @@
       "claim": "The host says Kash Patel continually stressing 33 hours was not random, did not feel subtle, and seemed to her and many others to be a form of signaling.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:23",
       "investigative_direction": "Collect Patel's dated statements and posts that use the 33 hours figure and check the capture-to-surrender timeline.",
       "transcript_snippet": "Kash Patel continually stressing 33 hours was not random. It did not feel subtle.",
@@ -2573,7 +2631,9 @@
       "claim": "The host says Tyler Bowyer is a dear friend of Erika Kirk whom Erika cannot remember how she met.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:17",
       "investigative_direction": "Find Erika Kirk's own statement about how she met Bowyer and compare it with the host's earlier cited interviews.",
       "transcript_snippet": "who she can't remember how she met.",
@@ -2593,7 +2653,9 @@
       "related_nodes": [
         "N-10858"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:17",
       "investigative_direction": "Collect all TPUSA-side remarks about Erika's political future dated in the first weeks after September 10, 2025.",
       "transcript_snippet": "There was an ultimate goal of raising Erika's political profile as a potential presidential candidate down the line, actually.",
@@ -2614,7 +2676,9 @@
       "claim": "The host says Erika Kirk said she stayed back from the September 10 event because Charlie said home needs you, and that this is why she was not at the Utah event.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:18",
       "investigative_direction": "Find Erika Kirk's own account of why she did not travel to Utah and compare it with her itinerary and the tour schedule.",
       "transcript_snippet": "Erika said she stayed back cuz Charlie said home needs you. That's why she didn't go to the September 10th event.",
@@ -2636,7 +2700,9 @@
       "related_nodes": [
         "N-10858"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:18",
       "investigative_direction": "Obtain the full Bowyer interview and check whether he said anything about CEO or chairman succession.",
       "transcript_snippet": "I want her to be president and to be also the CEO and chairman in the event of my death.",
@@ -2665,7 +2731,9 @@
       "related_nodes": [
         "N-10858"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:58",
       "investigative_direction": "Identify the full October 7 program and check the context of Turek's remark about the 2028 ticket.",
       "transcript_snippet": "I don't know if you want to take it cuz I don't think you're going to have the same effect as the president of Turning Point USA.",
@@ -2686,7 +2754,9 @@
       "related_nodes": [
         "N-10858"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:43",
       "investigative_direction": "Identify the program and date of the McQuaid clip and the speaker who prompted him.",
       "transcript_snippet": "I definitely thought maybe there would be a Vance Kirk ticket. Maybe there will still will be a Vance Kirk ticket.",
@@ -2705,7 +2775,9 @@
       "related_nodes": [
         "N-10505"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:31",
       "investigative_direction": "Find Elizabeth Lane's original statement and its date and context.",
       "transcript_snippet": "I think Elizabeth Lane read Erika correctly when she posited that she may be a psychopath",
@@ -2726,7 +2798,9 @@
         "N-10694",
         "N-10505"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:31",
       "investigative_direction": "Obtain TPUSA payroll or personnel records or a TPUSA statement on Flood's pay and title after September 10, 2025.",
       "transcript_snippet": "offer a raise to Dan Flood, the security guard who failed Charlie in every possible manner and way on September 10th.",
@@ -2749,7 +2823,9 @@
         "N-10968",
         "N-10505"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:31",
       "investigative_direction": "Locate the published Times interview and its date and compare with the September 18, 2025 date noted earlier.",
       "transcript_snippet": "offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.",
@@ -2771,7 +2847,9 @@
       "related_nodes": [
         "N-10968"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:52",
       "investigative_direction": "Collect Charlie Kirk's recorded public statements about the Times.",
       "transcript_snippet": "The New York Times, a publication who her husband hated.",
@@ -2792,7 +2870,9 @@
         "N-10905",
         "N-10505"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:52",
       "investigative_direction": "Read the Times interview text for the exact quote and context.",
       "transcript_snippet": "the least traumatizing part was the idea of raising her children without a father.",
@@ -2814,7 +2894,9 @@
       "related_nodes": [
         "N-10505"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:52",
       "investigative_direction": "Ask TPUSA staff and check dated posts or reports of Erika Kirk's office appearances in the week after September 10, 2025.",
       "transcript_snippet": "she felt compelled to go into the office the same week and to bring her kids every day",
@@ -2833,7 +2915,9 @@
       "related_nodes": [
         "N-10505"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:52",
       "investigative_direction": "Pull the Fox News interview and check the exact words and date.",
       "transcript_snippet": "she told Jesse Waters that she had zero fear. None at all.",
@@ -2853,7 +2937,9 @@
       "related_nodes": [
         "N-10505"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:46",
       "investigative_direction": "Compare the memorial date of the forgiveness statement with when charging documents and evidence were made public.",
       "transcript_snippet": "she forgave the person who allegedly murdered her husband before she even saw evidence of his guilt.",
@@ -2877,7 +2963,9 @@
         "N-10447",
         "N-10505"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:46",
       "investigative_direction": "Find Erika Kirk's dated public remarks on the wound and bullet and compare with the medical or ballistic record when released.",
       "transcript_snippet": "Erika is so godly that she even helped to validate the implausible parts of the narrative regarding Tyler Robinson.",
@@ -2897,7 +2985,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:29",
       "investigative_direction": "Trace which person first stated in public that the neck stopped the bullet, with dates and recordings.",
       "transcript_snippet": "She came up and crafted the Superman steel neck and all.",
@@ -2918,7 +3008,9 @@
       "related_nodes": [
         "N-10403"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:15",
       "investigative_direction": "Identify the event Dillon means and compare its date with the Charlie Kirk memorial and AmFest dates.",
       "transcript_snippet": "3 weeks after the guy's dead, she's out there with sparklers, you know, they're doing Cirque du Soleil.",
@@ -2939,7 +3031,9 @@
       "related_nodes": [
         "N-10403"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:43",
       "investigative_direction": "Dillon frames this as a hypothetical; any support would need records of TPUSA funds Charlie may have traced.",
       "transcript_snippet": "This guy found all the laundered money and now he knows I'm his handler and he thinks that invalidates the marriage.",
@@ -2964,7 +3058,9 @@
       "related_nodes": [
         "N-10403"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:43",
       "investigative_direction": "Obtain the full Tim Dillon episode and confirm the disclaimers on either side of the excerpt.",
       "transcript_snippet": "And I'm not saying any of that happened. I'm saying that's more reasonable than what kind of we're being told.",
@@ -2983,7 +3079,9 @@
       "claim": "In a paid sponsor read, the host says the United States has officially added silver to its critical minerals list.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:30:46",
       "investigative_direction": "Check the USGS or Interior critical minerals list for the date silver was added.",
       "transcript_snippet": "The United States has officially added silver to its critical minerals list",
@@ -3001,7 +3099,9 @@
       "related_nodes": [
         "N-11132"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:04",
       "investigative_direction": "Pull Trump's Truth Social and X posts from September 10 to 20, 2025 and identify the post with the AI image and its date.",
       "transcript_snippet": "one of those tweets that he dedicates Charlie Kirk is an AI image of Charlie hugging an Israeli flag.",
@@ -3024,7 +3124,9 @@
       "related_nodes": [
         "N-11132"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:04",
       "investigative_direction": "Compile all Trump posts and public statements mentioning Charlie Kirk from September 10 to 30, 2025, noting any call for an investigation.",
       "transcript_snippet": "Trump dedicates a total of two two tweets, three tweets at most to demanding and he'd never demanded investigation",
@@ -3044,7 +3146,9 @@
       "related_nodes": [
         "N-11132"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:16",
       "investigative_direction": "Compare dates and volume of Trump's posts on the balding story with his statements on the Kirk investigation.",
       "transcript_snippet": "Trump has shown more interest in debunking the mainstream media narrative about whether or not he's balding than he showed any interest in investigating who murdered a person who was supposed to be his dear friend.",
@@ -3064,7 +3168,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:06",
       "investigative_direction": "Check campaign statements and current national gas price data.",
       "transcript_snippet": "he promised low gas prices, that he promised no more forever wars, no more involvement in Middle East conflict",
@@ -3081,7 +3187,9 @@
       "claim": "The host says there is a new IHRA definition of anti-Semitism that includes accusing Jewish citizens of being more loyal to Israel than to their own nations, and that the administration has worked to erode First Amendment protections on college campuses.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:54",
       "investigative_direction": "Check the executive order or agency guidance that adopts the IHRA definition and compare its wording with the host's quotation.",
       "transcript_snippet": "Accusing Jewish citizens of being more loyal to Israel or to the alleged priorities of Jews worldwide than to the interest of their own nations.",
@@ -3100,7 +3208,9 @@
         "A-2443.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:23",
       "investigative_direction": "Check FEC filings for Adelson contributions to Trump committees and super PACs.",
       "transcript_snippet": "the person that he took a hundred million, two hundred million dollars from, I think in the end, loves Israel more than she loves America.",
@@ -3120,7 +3230,9 @@
         "A-2443.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:23",
       "investigative_direction": "Check Adelson's biography for her Israeli military service; the played clip does not contain this statement.",
       "transcript_snippet": "She served in the IDF. That's what he's saying to you.",
@@ -3140,7 +3252,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:23",
       "investigative_direction": "Compile the dated administration statements and the release schedule of the files.",
       "transcript_snippet": "Trump's administration then delayed the release of and then gaslit us over the Epstein files. He called the files a Democratic hoax.",
@@ -3160,7 +3274,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:23",
       "investigative_direction": "Locate the video of Trump's remark and verify whether the second sentence was his or the host's addition.",
       "transcript_snippet": "He asked us famously, \"Are we still talking about the Epstein files? Are we still talking about children being harmed?\"",
@@ -3181,7 +3297,9 @@
       "claim": "The host says Jeffrey Epstein was an occultist Jewish pedophile.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:37:23",
       "investigative_direction": "Epstein's conviction and the released files can be checked for his religion and any occult activity; the host cites no source for the occult claim.",
       "transcript_snippet": "that's what Jeffrey Epstein was, an occultist Jewish pedophile.",
@@ -3202,13 +3320,15 @@
       "related_nodes": [
         "N-10962"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:28",
       "investigative_direction": "Find any Netanyahu statement about Venezuela before January 2026 and the dates of the operation against Maduro.",
       "transcript_snippet": "until Bibi Netanyahu said, \"Venezuela's anti-Semitic.\" Then we took out Maduro, and guess who benefited from that?",
       "mentions_person_refs": [
         "N-36",
-        "N-687",
+        "N-686",
         "N-3"
       ]
     },
@@ -3224,7 +3344,9 @@
       "related_nodes": [
         "N-10962"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:28",
       "investigative_direction": "Check the shipment headline's date and publication against the date of the operation.",
       "transcript_snippet": "your tax-paying dollars were sent to support the military operation in Venezuela, which has thus far benefited Israel.",
@@ -3240,7 +3362,9 @@
       "claim": "The host says her best guess for the real reason Trump is obsessed with acquiring Greenland is that it has untapped crude oil, an estimated 31 billion barrels, which she says would help Israel.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:28",
       "investigative_direction": "Check geological survey estimates of Greenland oil resources against the 31 billion barrel figure.",
       "transcript_snippet": "the real reason why Trump is obsessed with acquiring Greenland. Because they do have untapped crude oil, an estimated 31 billion barrels worth.",
@@ -3261,7 +3385,9 @@
       "related_nodes": [
         "N-11133"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:32",
       "investigative_direction": "Check IARC, EPA and court findings on glyphosate and cancer risk; this is a contested scientific claim.",
       "transcript_snippet": "That is the cancer-causing agents that is in the weed killer. We know it causes cancer.",
@@ -3282,7 +3408,9 @@
       "related_nodes": [
         "N-11133"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:38",
       "investigative_direction": "Identify the headline's publisher and date and any rights-group findings about white phosphorus in southern Lebanon.",
       "transcript_snippet": "guess Guess what is being used right now in Lebanon. Check out this headline.",
@@ -3305,7 +3433,9 @@
       "related_nodes": [
         "N-11133"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:38",
       "investigative_direction": "Check US arms transfer records for white phosphorus munitions to Israel and Bayer's role, if any.",
       "transcript_snippet": "I wonder where they're getting that from. Probably from the pro-peace ticket.",
@@ -3324,7 +3454,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:26",
       "investigative_direction": "Look for reporting on Netanyahu-Trump communications before the June 2025 strikes and the 2026 campaign.",
       "transcript_snippet": "BB instructed Trump to bomb Iran almost immediately.",
@@ -3345,7 +3477,9 @@
         "N-10539",
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:26",
       "investigative_direction": "Compare the June 2025 strike scope with Charlie Kirk's stated opposition and any reporting on internal debate.",
       "transcript_snippet": "because Charlie Kirk was alive at that time, it was at first limited to just hitting their nuclear sites.",
@@ -3365,7 +3499,9 @@
         "N-10539",
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:26",
       "investigative_direction": "No evidence of motive is offered; test against the actual investigation record into the shooting.",
       "transcript_snippet": "the obstacle of Charlie Kirk was then subsequently removed, and now where are we, right?",
@@ -3384,7 +3520,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:59",
       "investigative_direction": "Check Iranian, UN and independent reporting on a strike on a girls' school, with casualty count and date.",
       "transcript_snippet": "We just murdered 150 Iranian schoolgirls between the ages of 7 and 12 preemptively.",
@@ -3402,7 +3540,9 @@
       "related_nodes": [
         "N-10063"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:38",
       "investigative_direction": "Check Finkelstein's published statements on the doctrine; the term is commonly used for periodic military operations, not random killings to limit population.",
       "transcript_snippet": "Norm Finkelstein informing me that Israel had a literal and actual government policy known as mowing the lawn in Gaza",
@@ -3421,7 +3561,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:45:27",
       "investigative_direction": "Identify the specific documents in the released files and read the context of those conversations.",
       "transcript_snippet": "making our way through the Jeffrey Epstein files, effectively having conversations openly openly about how in the future people won't even be able to reproduce on their own.",
@@ -3440,7 +3582,9 @@
         "A-2449.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:20",
       "investigative_direction": "Check Gantz's office at the date of the interview and the interview's actual date; the host does not date the clip.",
       "transcript_snippet": "Here is Israel's defense minister, Benny Gantz, discussing that he's not going to exclude that need.",
@@ -3448,7 +3592,7 @@
         "C-3581"
       ],
       "mentions_person_refs": [
-        "N-787",
+        "N-786",
         "N-3"
       ]
     },
@@ -3464,12 +3608,14 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Identify the interviewer, outlet and date of the full interview.",
       "transcript_snippet": "Currently, we are neutralizing Iran's uh command and control system and Iran capacity to influence the region",
       "mentions_person_refs": [
-        "N-787"
+        "N-786"
       ]
     },
     {
@@ -3484,7 +3630,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:11",
       "investigative_direction": "Read the full briefing transcript for whether Leavitt addressed a draft directly.",
       "transcript_snippet": "we have Karoline Leavitt signaling that a a draft is not off the table because Trump is smart.",
@@ -3509,7 +3657,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:46",
       "investigative_direction": "Pull the White House briefing transcript and date.",
       "transcript_snippet": "It's not part of the current plan right now, but the president again wisely keeps his options on the table.",
@@ -3530,7 +3680,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:46",
       "investigative_direction": "Check the Department of War or White House announcement naming Operation Epic Fury and its start date.",
       "transcript_snippet": "that's why he took this historic action by launching Operation Epic Fury.",
@@ -3551,7 +3703,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:46",
       "investigative_direction": "Compare with Department of Defense casualty figures attributed to Iran-backed attacks.",
       "transcript_snippet": "They have killed and maimed thousands of American soldiers.",
@@ -3569,7 +3723,9 @@
       "related_nodes": [
         "N-10451"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:48",
       "investigative_direction": "Compare with the historical record and official inquiries on the Lavon Affair (1954) and the USS Liberty attack (1967).",
       "transcript_snippet": "Israel got to get away with the Lavon Affair. Only Israel is allowed to get away with what they did at the USS Liberty.",
@@ -3587,7 +3743,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:48",
       "investigative_direction": "Compile dated administration statements on the limits of Operation Midnight Hammer and the later campaign.",
       "transcript_snippet": "Just Operation Midnight Hammer. That's it. Now it's suddenly, oh, no, we need to do a little bit more preemptively.",
@@ -3605,7 +3763,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:40",
       "investigative_direction": "Capture Ackman's X activity from March 7 to 9, 2026 and check the relevant federal statute.",
       "transcript_snippet": "Bill was retweeting people who were stipulating that it's actually federal crime to tell people apparently not to sign up for the military.",
@@ -3622,7 +3782,9 @@
       "claim": "The host says Trump recently fired Carrie Prejean Boller from the religious committee because Zionists did not like her Catholic perspectives.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:35",
       "investigative_direction": "Check the removal notice from the Religious Liberty Commission and any stated reason.",
       "transcript_snippet": "Trump recently firing Carrie Prejean Boller from the religious committee because Zionists didn't like her Catholic perspectives.",
@@ -3630,7 +3792,7 @@
         "C-2370"
       ],
       "mentions_person_refs": [
-        "N-566",
+        "N-565",
         "N-5",
         "N-3"
       ]
@@ -3646,7 +3808,9 @@
         "N-10436",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:43",
       "investigative_direction": "Obtain the cease and desist letter and read its text on the infiltration claim.",
       "transcript_snippet": "when they sent me that cease and desist, they they wrote uh for saying that Turning Point is like militarily got infiltrated",
@@ -3668,7 +3832,9 @@
         "N-10436",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:43",
       "investigative_direction": "Compile the named pastors' and Erika's mother's documented military or defense ties with sources.",
       "transcript_snippet": "I pointed out the background of all of these pastors and Turning Point Faith and Erika's mother. It just seems like a lot of military people arrived very quickly.",
@@ -3692,7 +3858,9 @@
       "related_nodes": [
         "N-10505"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:59:43",
       "investigative_direction": "Locate the GiveSendGo campaign, its organizer, total raised and stated purpose.",
       "transcript_snippet": "many of us gave thousands of dollars through GiveSendGo so that Erika could stay at home with her babies.",
@@ -3713,7 +3881,9 @@
       "related_nodes": [
         "N-10505"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:00:36",
       "investigative_direction": "Check the GiveSendGo donor list or Musk's public statements on a gift to the Kirk family.",
       "transcript_snippet": "I think someone pointed out that I even missed that Elon Musk donated money to them.",
@@ -3733,12 +3903,14 @@
       "related_nodes": [
         "N-10209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:01:46",
       "investigative_direction": "No source is cited; compare historians' accounts of Frankism with the host's analogy.",
       "transcript_snippet": "similarly you had this movement of people similar to the Christian Zionists that are like unhinged looking at Paula White, the pastors that are surrounding Trump",
       "mentions_person_refs": [
-        "N-788",
+        "N-787",
         "N-3"
       ]
     },
@@ -3753,7 +3925,9 @@
         "N-10063",
         "N-10209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:02:39",
       "investigative_direction": "Ask the host for the source; check reporting on any Gaza development plans naming pastors.",
       "transcript_snippet": "For property that was promised to a lot of these pastors by the way, property in Gaza.",
@@ -3769,7 +3943,9 @@
       "claim": "The host says she did the Kamala Chronicles series and has been off the hardcore MAGA Trump train for a while.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:04:10",
       "investigative_direction": "Check the dates of the Kamala Chronicles and the host's earlier public endorsements of Trump.",
       "transcript_snippet": "I did the Kamala Chronicles, but I've been off that like hardcore MAGA Trump train for a while actually.",
@@ -3791,7 +3967,9 @@
         "N-10000",
         "N-11072"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:05:49",
       "investigative_direction": "Ask venues and organizers for cancelled Erika Kirk bookings from fall 2025 through March 2026 and the reasons given.",
       "transcript_snippet": "have it on very good authority that they have had to cancel uh events that Erika was intended to speak at because there has been a backlash.",
@@ -3810,7 +3988,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:08:12",
       "investigative_direction": "Compile recent attacks on Kelly by named outlets or figures and their dates.",
       "transcript_snippet": "make sure you pray for Megyn Kelly. They've been attacking her really hard.",

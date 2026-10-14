@@ -1021,7 +1021,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "TPUSA COO, rendered Justin in the text thread; told Aubrey it was up to Andrew.",
       "related_artifacts": [],
@@ -1153,8 +1153,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-508",
-      "ref": "N-508",
+      "@id": "N-507",
+      "ref": "N-507",
       "name": "Doug DeGroot",
       "type": "person",
       "description": "TPUSA board member the host guesses was the donor (transcribed Doug De Root).",
@@ -1170,8 +1170,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-563",
-      "ref": "N-563",
+      "@id": "N-562",
+      "ref": "N-562",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former TPUSA PR manager in the text thread with Justin and Andrew.",
@@ -1188,8 +1188,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-704",
-      "ref": "N-704",
+      "@id": "N-703",
+      "ref": "N-703",
       "name": "Laura Ingraham",
       "type": "person",
       "description": "Fox host whose show Andrew Kolvet is said to have discussed with Aubrey.",
@@ -1503,8 +1503,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-822",
-      "ref": "N-822",
+      "@id": "N-821",
+      "ref": "N-821",
       "name": "Ross Douthat",
       "type": "person",
       "description": "First named by the host at 00:30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.",
@@ -1521,8 +1521,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-823",
-      "ref": "N-823",
+      "@id": "N-822",
+      "ref": "N-822",
       "name": "Michael Shellenberger",
       "type": "person",
       "description": "First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.",
@@ -1538,8 +1538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-824",
-      "ref": "N-824",
+      "@id": "N-823",
+      "ref": "N-823",
       "name": "Pat Buchanan",
       "type": "person",
       "description": "First named by the host at 00:58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.",
@@ -1897,7 +1897,9 @@
       "claim": "The host says someone unrelated to her investigation or to Baron Coleman released an audio clip claiming it was Erika Kirk, that it was not Erika Kirk, and that the releaser was \"extraordinarily\" wrong.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:41",
       "investigative_direction": "Identify the released audio clip, who first posted it and the evidence that the voice was or was not Erika Kirk.",
       "transcript_snippet": "somebody released it, claimed it was Erika Kirk. And was it Erika Kirk? No. Was the person who released that wrong? Yes, extraordinarily so.",
@@ -1919,7 +1921,9 @@
       "related_nodes": [
         "N-10866"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:47",
       "investigative_direction": "Locate the Alo jumpsuit exchange and any TPUSA or Erika Kirk response to it; compare with responses to the Santa Barbara departure allegation.",
       "transcript_snippet": "That's when you choose to come in and answer the accusations? Are you serious?",
@@ -1940,7 +1944,9 @@
       "related_nodes": [
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:26",
       "investigative_direction": "Review Coleman's three shows and check whether TPUSA, Andrew Kolvet or Erika Kirk publicly addressed the Santa Barbara departure allegation.",
       "transcript_snippet": "But I do three shows accusing you of leaving Santa Barbara before Charlie got shot or banged or whatever happened to him? And you're just dead silent?",
@@ -1958,7 +1964,9 @@
       "related_nodes": [
         "N-10555"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:15",
       "investigative_direction": "Because the source is withheld, corroborate through independent records (Hopkinson staff, FBO logs) rather than the source.",
       "transcript_snippet": "I simply cannot reveal to you how I came across this information. In other words, what I'm saying to be is there's no way for me to protect the source.",
@@ -1976,7 +1984,9 @@
       "related_nodes": [
         "N-10553"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:15",
       "investigative_direction": "Canvass for witnesses, CCTV and phone records at each location Erika Kirk has said she visited on September 10, 2025.",
       "transcript_snippet": "Nobody's come forward at least to say that they saw Erika on the day of the assassination in the places, the very public places that she claims to be.",
@@ -1995,7 +2005,9 @@
       "related_nodes": [
         "N-10553"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:56",
       "investigative_direction": "Identify the clinic or hospital and parking lot, request security footage and any 911 or ambulance record for September 10, 2025.",
       "transcript_snippet": "she collapsed in a parking lot after her mother uh help she was with her mother getting treatment and she collapsed in a parking lot. Curiously, no witnesses.",
@@ -2014,7 +2026,9 @@
       "related_nodes": [
         "N-10553"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:49",
       "investigative_direction": "Identify the priest and entourage members and obtain terminal sign-in, ramp or CCTV records from Scottsdale FBOs.",
       "transcript_snippet": "Then we know that at some point she had to have raced to the airport with an entourage, an entourage which included a priest.",
@@ -2033,7 +2047,9 @@
       "related_nodes": [
         "N-10553"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:34",
       "investigative_direction": "Locate Elizabeth McCoy's post and the date and wording of Erika Kirk's own account of where she took the doctor's call.",
       "transcript_snippet": "Erika told me to my face, also Elizabeth McCoy wrote a long post and she confirmed this um that Erika got the news right before they flew to Provo.",
@@ -2055,7 +2071,9 @@
       "related_nodes": [
         "N-10555"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Check Hopkinson's business registration, Arizona and Canadian corporate filings and the address it publishes.",
       "transcript_snippet": "it's a a luxury aircraft brokerage. Like where you go to buy planes. They're brokers for planes. Uh they have locations in Canada and in Scottsdale.",
@@ -2076,7 +2094,9 @@
         "N-10555",
         "N-11189"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:21",
       "investigative_direction": "Verify the tenants and building footprints at 14600 N Aircraft Drive through Scottsdale Airport leasing and county parcel records.",
       "transcript_snippet": "Hopkinson Aircraft Sales uh also with Atlantic Aviation and then also this Ross Aviation.",
@@ -2094,7 +2114,9 @@
       "related_nodes": [
         "N-10553"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:52",
       "investigative_direction": "Identify where and to whom Erika Kirk said this and whether any recording or witness account exists.",
       "transcript_snippet": "Even though she did actually say when he got shot, I effing knew it. That was the sentence that came out of her mouth.",
@@ -2113,7 +2135,9 @@
       "related_nodes": [
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:13",
       "investigative_direction": "Obtain FAA/ADSB records for Santa Barbara and Scottsdale departures on September 10, 2025 and manifests or charter invoices for each leg.",
       "transcript_snippet": "we believe that neither of those flights are the alleged much later 3:19 p. m. Mountain Standard Time flight that Erika told me that he was aboard",
@@ -2136,7 +2160,9 @@
       "related_nodes": [
         "N-10557"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Compare Erika Kirk's account to the host with any on-record statement by Andrew Kolvet naming the plane he took.",
       "transcript_snippet": "Andrew himself has never said that he took the 3:19 Santa Barbara flight, tail number N8724A. Erika made that claim to my face.",
@@ -2158,7 +2184,9 @@
       "related_nodes": [
         "N-10557"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Find Kolvet's public statement describing a massive plane to himself and match it to a tail number.",
       "transcript_snippet": "Andrew described a plane as a massive plane to me multiple times. He also, I think, said it publicly on a show he had this massive plane to himself",
@@ -2179,13 +2207,15 @@
       "related_nodes": [
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:39",
       "investigative_direction": "Obtain the full Aubrey/Justin thread with carrier timestamps and the company-wide email it refers to.",
       "transcript_snippet": "And Justin jumps in on the text it and he says that uh, \"It's up to Andrew.\" And Andrew doesn't answer",
       "mentions_person_refs": [
         "N-3",
-        "N-563",
+        "N-562",
         "N-15",
         "N-14",
         "N-1"
@@ -2201,7 +2231,9 @@
       "related_nodes": [
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:35",
       "investigative_direction": "Obtain the original message with its timestamp and compare its wording with the 3:26 p.m. \"on the plane\" message.",
       "transcript_snippet": "He says, \"My internet just came back on.\" Different from I'm on a plane or I just got service.",
@@ -2222,7 +2254,9 @@
       "related_nodes": [
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:10",
       "investigative_direction": "Obtain the Telegram messages and call log between Aubrey and Andrew Kolvet for the afternoon of September 10, 2025.",
       "transcript_snippet": "we learned that he did answer Aubrey um, on a separate Telegram channel uh, before he went dark. He answered her about the press, about Laura Ingraham's show. He called her, too.",
@@ -2232,8 +2266,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-563",
-        "N-704"
+        "N-562",
+        "N-703"
       ]
     },
     {
@@ -2246,7 +2280,9 @@
       "related_nodes": [
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:03",
       "investigative_direction": "Test with an aviation connectivity expert whether messages arrive at a given altitude or only on a Wi-Fi or cell link.",
       "transcript_snippet": "when your plane gets low enough, you suddenly start to receive all of your messages at once.",
@@ -2267,7 +2303,9 @@
         "N-10554",
         "N-10557"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:05",
       "investigative_direction": "Establish the tail numbers and Wi-Fi equipment of each plane Kolvet flew on September 10, 2025.",
       "transcript_snippet": "Andrew Kolb that took two flights that day. And neither of those flights were equipped with Wi-Fi. And that's why he was out of pocket.",
@@ -2289,7 +2327,9 @@
       "related_nodes": [
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:37",
       "investigative_direction": "Ask the aircraft owner or operator whether the G5 had a Wi-Fi subscription active on September 10, 2025.",
       "transcript_snippet": "it was a G5. It definitely has Wi-Fi capabilities, therefore, but I don't know, nor do I believe that Charlie would have ever used that",
@@ -2308,7 +2348,9 @@
       "related_nodes": [
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:37",
       "investigative_direction": "Check published price ranges for business-jet satellite Wi-Fi installation and monthly service.",
       "transcript_snippet": "It costs, just so you understand, $300,000 just to install Wi-Fi aboard a jet. And then you're looking at an approximate uh, 30 to 50,000 dollars a month to run it.",
@@ -2328,7 +2370,10 @@
       "related_nodes": [
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "DIA"
+      ],
       "claim_timestamp": "00:25:37",
       "investigative_direction": "Review the tips inbox for responses from past passengers about the G5's Wi-Fi.",
       "transcript_snippet": "Somebody may have flown with Charlie on that plane. If If so, please email us.",
@@ -2349,7 +2394,9 @@
       "related_nodes": [
         "N-10556"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:36",
       "investigative_direction": "Identify the guest interviewed on September 9, 2025 and confirm from the show archive whether it was Ben Shapiro.",
       "transcript_snippet": "He's going to effectively admit that Charlie couldn't stand Ben Shapiro uh and was annoyed that he had to interview him the day before because Andrew's the one that booked him",
@@ -2361,7 +2408,7 @@
         "N-1",
         "N-14",
         "N-97",
-        "N-822"
+        "N-821"
       ]
     },
     {
@@ -2376,14 +2423,16 @@
       "related_nodes": [
         "N-10556"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:34",
       "investigative_direction": "Obtain Kolvet's text thread with Charlie Kirk for the morning of September 10, 2025 and the hour-two pre-record.",
       "transcript_snippet": "we had a pre-record for hour two, actually. So, it it's probably too in the weeds, but he's texting me on his way and he's going over talking points about polygamy",
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-822"
+        "N-821"
       ]
     },
     {
@@ -2398,7 +2447,9 @@
       "related_nodes": [
         "N-10556"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:29",
       "investigative_direction": "Compare message timestamps with the 12:23 p.m. shooting time and review whether the hour-two content addressed monogamy.",
       "transcript_snippet": "And that was about uh I think I had it it was like 33 minutes before he was killed.",
@@ -2420,7 +2471,9 @@
         "N-10324",
         "N-10556"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:27",
       "investigative_direction": "Obtain White House visitor logs and the broadcast file for the Patel interview and compare its timestamp and location data.",
       "transcript_snippet": "Andrew visited the White House the day before the Epstein files were released, but he pretended that he was in Arizona live on the Charlie Kirk Show interviewing Kash Patel.",
@@ -2442,7 +2495,9 @@
       "related_nodes": [
         "N-10559"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:19",
       "investigative_direction": "Confirm Shirley's age and the date of the day care video relative to September 10, 2025.",
       "transcript_snippet": "In the weeks afterward, he goes really viral for discovering fraud in Somalian day care.",
@@ -2465,7 +2520,9 @@
         "N-10559",
         "N-11190"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:47",
       "investigative_direction": "Review the Brazil favela footage, dates and any local reporting about Shirley's access.",
       "transcript_snippet": "I just I don't like stupid. That did not happen, okay? That did not just happen.",
@@ -2485,7 +2542,9 @@
         "N-10094",
         "N-10559"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:34",
       "investigative_direction": "Confirm Shirley's home state and religious affiliation from his own statements.",
       "transcript_snippet": "the LDS Church. And he also happens to be from Utah.",
@@ -2506,7 +2565,9 @@
       "related_nodes": [
         "N-10556"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:12",
       "investigative_direction": "Check whether Shirley responded publicly or privately and compare with the show's upload and live-stream records.",
       "transcript_snippet": "I have not yet heard back from him. I sent it this morning, so it might take him some time to see my message on X.",
@@ -2527,7 +2588,10 @@
       "related_nodes": [
         "N-10556"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "DIA"
+      ],
       "claim_timestamp": "00:38:12",
       "investigative_direction": "Review the tip line for responses about the September 10 live show.",
       "transcript_snippet": "If you have any information regarding this, please email us at moretips@candaceowens. com.",
@@ -2547,7 +2611,9 @@
       "related_nodes": [
         "N-10387"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:35",
       "investigative_direction": "Obtain Bowyer's travel records and a first-person account of his September 10 location.",
       "transcript_snippet": "I do believe Erika Kirk flew with Tyler Bowyer. And another person told us Tyler Bowyer was in earlier that day and had taken a meeting in Utah",
@@ -2569,7 +2635,9 @@
       "related_nodes": [
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:05",
       "investigative_direction": "Obtain the manifest for Charlie Kirk's plane for September 10, 2025.",
       "transcript_snippet": "enough evidence to at least suggest um suggest that Andrew Colvert flew on that plane alone",
@@ -2593,7 +2661,9 @@
         "N-10557",
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:55",
       "investigative_direction": "Pull ADSB arrival data for the Santa Barbara-to-Provo flight and compare with Erika Kirk's account of when Andrew arrived.",
       "transcript_snippet": "this one is going to land into Provo at 4:36 p. m. Way too late.",
@@ -2614,7 +2684,9 @@
         "N-10149",
         "N-10548"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:39",
       "investigative_direction": "Compare the sources of the host's entrance account with hospital staff and security accounts.",
       "transcript_snippet": "Andrew went to the front and Erika went through some private back door entrance.",
@@ -2634,7 +2706,9 @@
       "related_nodes": [
         "N-10546"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:30",
       "investigative_direction": "Locate the Trump remark and the date of Kent's remarriage.",
       "transcript_snippet": "by saying, \"Oh, he he married pretty quickly pretty quickly.\" He married 5 years later.",
@@ -2656,14 +2730,16 @@
       "related_nodes": [
         "N-10546"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:38",
       "investigative_direction": "Obtain the full Shellenberger interview and compare Kent's wording.",
       "transcript_snippet": "And of course Joe Kent says, \"That wasn't my goal. My goal was just to tell the truth.\"",
       "mentions_person_refs": [
         "N-3",
         "N-213",
-        "N-823",
+        "N-822",
         "N-40"
       ]
     },
@@ -2679,7 +2755,9 @@
       "related_nodes": [
         "N-10337"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:31",
       "investigative_direction": "Obtain the lab reports on DNA, caliber and casings from the case file.",
       "transcript_snippet": "There is a murder weapon that was found near the site of the shooting. It was owned by Tyler Robinson's family.",
@@ -2702,7 +2780,9 @@
       "related_nodes": [
         "N-11012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:31",
       "investigative_direction": "Obtain the sheriff's, family friend and parents' accounts of the surrender.",
       "transcript_snippet": "Tyler Robinson's parents see that photo and think, \"That looks like Tyler.\"",
@@ -2730,7 +2810,9 @@
       "related_nodes": [
         "N-11012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:13",
       "investigative_direction": "Obtain the charging documents describing the digital messages and any parental statements.",
       "transcript_snippet": "There's digital confessions, but also his parents are out there. They have never stepped forward and said this is a lie.",
@@ -2752,7 +2834,9 @@
       "related_nodes": [
         "N-11149"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:55",
       "investigative_direction": "Compare the May hearing exhibits with what Neff described.",
       "transcript_snippet": "there is going to be even more evidence that is presented to the public in May at the evidentiary hearing, okay?",
@@ -2773,7 +2857,9 @@
       "related_nodes": [
         "N-10546"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:55",
       "investigative_direction": "Identify which officials have said this on the record and to which journalists.",
       "transcript_snippet": "you have government officials that are now saying on the record to journalists they are willing to testify on behalf of the defense",
@@ -2795,7 +2881,9 @@
       "related_nodes": [
         "N-11012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:50",
       "investigative_direction": "Check the court docket for arraignment status and request the surrender recording.",
       "transcript_snippet": "He hasn't even been arraigned yet. He hasn't even pled guilty. They keep telling us he he confessed, but they lost the tape of when he turned himself in.",
@@ -2820,7 +2908,9 @@
       "related_nodes": [
         "N-10621"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:50",
       "investigative_direction": "Obtain the ATF and lab findings on whether the rifle was fired and the bomb dog search records.",
       "transcript_snippet": "The part they're not telling you is that they cannot prove that weapon was fired. They can't prove it was fired. The bomb dogs could not find the weapon.",
@@ -2843,7 +2933,9 @@
         "N-10621",
         "N-10360"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:38",
       "investigative_direction": "Obtain the officers' reports on who found the rifle and what directions they were given.",
       "transcript_snippet": "He touched this gun that the feds then pointed to where the bomb dogs failed and put some rookie cops and said, \"Look over there. We didn't just drop that there.\"",
@@ -2865,7 +2957,9 @@
       "related_nodes": [
         "N-11149"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:38",
       "investigative_direction": "Check the docket for the motion to disqualify a prosecutor and the ruling.",
       "transcript_snippet": "He failed, but tried to get one of the prosecutors dropped.",
@@ -2886,7 +2980,9 @@
       "related_nodes": [
         "N-10649"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:41",
       "investigative_direction": "Compare Erika Kirk's statements in the December meeting with later statements by TPUSA about new evidence.",
       "transcript_snippet": "Erika told me that she had no more evidence than the public had.",
@@ -2908,7 +3004,9 @@
       "related_nodes": [
         "N-10546"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:12",
       "investigative_direction": "Verify Kent's deployments and his wife's death from military records.",
       "transcript_snippet": "She writes, \"Imagine being called a coward after you've been deployed 11 times, lost your wife to an IED explosion,",
@@ -2928,7 +3026,9 @@
       "claim": "The host invites Blake Neff to come on her show to present his evidence, saying she has made the offer before.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:26",
       "investigative_direction": "Track whether Neff responds or appears.",
       "transcript_snippet": "Come do that, Blake. Take me up on my offer, Blake.",
@@ -2947,7 +3047,9 @@
       "related_nodes": [
         "N-10355"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:26",
       "investigative_direction": "Compare with Kent's own account of the NCTC investigation being halted.",
       "transcript_snippet": "at the very least that Kash Patel stopped Joe Kent.",
@@ -2970,7 +3072,9 @@
       "related_nodes": [
         "N-10649"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:16",
       "investigative_direction": "Document the date of the meeting and any evidence TPUSA later publishes.",
       "transcript_snippet": "I don't believe that they have suddenly, since I met with Erika on December 15th, found all of this evidence",
@@ -2990,7 +3094,9 @@
       "related_nodes": [
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:58:07",
       "investigative_direction": "Look for Charlie Kirk's public and private statements about Shapiro.",
       "transcript_snippet": "Worst kept secret in the history of the world is that Charlie Kirk couldn't stand Ben.",
@@ -3010,7 +3116,9 @@
       "related_nodes": [
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:58:07",
       "investigative_direction": "Clarify which event or agreement the host means.",
       "transcript_snippet": "They were just going to let Ben take over Turning Point or something.",
@@ -3031,13 +3139,15 @@
         "A-2944.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:58:49",
       "investigative_direction": "Check the first appearance of the phrase in print.",
       "transcript_snippet": "He coined the phrase Israel's amen corner in the early 90s.",
       "mentions_person_refs": [
         "N-3",
-        "N-824",
+        "N-823",
         "N-39"
       ]
     },
@@ -3051,7 +3161,9 @@
         "A-2944.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:32",
       "investigative_direction": "Find the original statement by a TPUSA spokesperson in the days after September 10 and the donor identity.",
       "transcript_snippet": "a large donor called Erika right after Charlie Kirk was shot and asked if she knew everything about Turning Point USA and she said yes and he decided that she would replace him.",
@@ -3070,13 +3182,15 @@
       "claim": "The host guesses the donor was Doug DeGroot, whom she says sits on the TPUSA board and is a donor, while saying she does not know.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:32",
       "investigative_direction": "Check board and donor records and the call log for Erika Kirk.",
       "transcript_snippet": "My guess would be off the bat Doug De Root on the um he's on the board and I think he's a donor.",
       "mentions_person_refs": [
         "N-3",
-        "N-508"
+        "N-507"
       ]
     },
     {
@@ -3089,7 +3203,9 @@
       "related_nodes": [
         "N-10551"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:00:42",
       "investigative_direction": "Document which critics made the claim.",
       "transcript_snippet": "Which by the way makes me laugh even more when they suggest that Joe Kent was trying to set up Erika.",
@@ -3110,7 +3226,9 @@
       "claim": "The host says she did not think Erika Kirk guilty until the emojis, the Zoom call and the merch hats, and wishes she could go back to that earlier view.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:00:42",
       "investigative_direction": "Identify which emoji messages, Zoom call and merch the host means.",
       "transcript_snippet": "Now I got giggly ooh emojis, Zoom call and uh merch with hats and it just it just I wish I could go back.",

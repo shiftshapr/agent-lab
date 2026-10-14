@@ -542,7 +542,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "Elevated to COO of Turning Point USA on September 2, 2025 per internal memo; tasked with leading DOGE-style efficiency audit.",
       "related_artifacts": [
@@ -1330,7 +1330,9 @@
         "A-1163.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:27:54",
       "investigative_direction": "Obtain high-resolution frame-by-frame footage from multiple angles to confirm chain trajectory versus ballistic entry.",
       "transcript_snippet": "that's actually not blood splatter. And I was very surprised by this. It's his necklace.",
@@ -1396,7 +1398,9 @@
         "N-10133",
         "N-10062"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:15:24",
       "investigative_direction": "Cross-reference Orem PD intake records, witness identity, and federal contact logs dated September 15.",
       "transcript_snippet": "He walked in and gave the footage to the Orum Police Department… the feds never reached out to him until the 15th.",
@@ -1520,7 +1524,10 @@
       "related_nodes": [
         "N-10135"
       ],
-      "tags": [],
+      "tags": [
+        "calls_for_tips",
+        "submissions_to_candace"
+      ],
       "claim_timestamp": "00:31:20",
       "investigative_direction": "Verify the tip with primary source; obtain the additional footage; identify the unnamed woman.",
       "transcript_snippet": "there was more footage which showed the person that they allege is Tyler Robinson walking with a woman… and that he changes clothes.",

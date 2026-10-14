@@ -987,8 +987,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-693",
-      "ref": "N-693",
+      "@id": "N-692",
+      "ref": "N-692",
       "name": "Joe Biden",
       "type": "person",
       "description": "Joe Biden, discussed in the host's comment on dementia.",
@@ -1004,8 +1004,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-719",
-      "ref": "N-719",
+      "@id": "N-718",
+      "ref": "N-718",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "Sheldon Adelson, whose gambling fortune the host references.",
@@ -1554,7 +1554,9 @@
       "claim": "The host says she was supposed to be off this week but came back to address President Trump directly.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Compare the show schedule and break announcement with the episode's upload date.",
       "transcript_snippet": "I'm obviously supposed to be off this week, but obviously I needed to come back",
@@ -1571,7 +1573,9 @@
       "claim": "The host says whoever decided to kill Charlie Kirk was correct that he was a threat because he could command a crowd, and that seven months after his death the crowd still moves on his behalf.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:36",
       "investigative_direction": "Ask the host which evidence supports a decision-maker acting on Kirk's influence; this is an inference, not a documented motive.",
       "transcript_snippet": "whoever it was that made the decision to kill him was correct in their assessment that he was indeed a threat because Charlie Kirk could command a crowd",
@@ -1592,7 +1596,9 @@
       "related_nodes": [
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:12",
       "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading.",
       "transcript_snippet": "they think it is wonderful for Iran, the number one state sponsor of terror, to have a nuclear weapon",
@@ -1614,7 +1620,9 @@
         "A-1939.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:12",
       "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading. Check which of the four lost TV shows and when.",
       "transcript_snippet": "They've all been thrown off television, lost their shows, and aren't even invited on TV because nobody cares about them.",
@@ -1638,7 +1646,9 @@
       "related_nodes": [
         "N-10006"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:19",
       "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading.",
       "transcript_snippet": "He was a broken man when he got fired from Fox and he's never been the same. Perhaps he should see a good psychiatrist.",
@@ -1655,7 +1665,9 @@
       "claim": "The host says Charlie Kirk did not go to college, as part of her answer to the post's jab that Tucker Carlson did not finish college.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:10",
       "investigative_direction": "Check Kirk's published biography for his education history.",
       "transcript_snippet": "Do you know who else didn't go to college? Um Charlie Kirk didn't go to college.",
@@ -1675,7 +1687,9 @@
         "A-1939.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:01",
       "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading.",
       "transcript_snippet": "crazy Candace Owens who accuses the highly respected first lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.",
@@ -1701,7 +1715,9 @@
       "related_nodes": [
         "N-10741"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:25",
       "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading.",
       "transcript_snippet": "Or bankrupt Alex Jones, who says some of the dumbest things and lost his entire fortune as he should have.",
@@ -1720,7 +1736,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:25",
       "investigative_direction": "Compare dated polling and social-media sentiment on the Epstein files release with the host's description of a base revolt.",
       "transcript_snippet": "Did you connect that dot when we revolted against you saying, \"What about the Epstein files?\"",
@@ -1739,7 +1757,9 @@
         "A-1939.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:20",
       "investigative_direction": "Obtain the archived Truth Social post and compare the wording with the on-air reading. Ask the four named critics whether and when they called.",
       "transcript_snippet": "As president President, I could get them on my side anytime I want, but when they call, I don't return their calls because I'm too busy on world and country affairs.",
@@ -1759,7 +1779,9 @@
         "N-11145",
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:28",
       "investigative_direction": "Compare the host's figure with official and independent casualty counts for the Minab school strike.",
       "transcript_snippet": "Because we just killed 150 schoolgirls for no reason?",
@@ -1778,7 +1800,9 @@
         "N-10282",
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:28",
       "investigative_direction": "Find the CBS News report and the official statements on the deaths to test the host's account of a lie and a leak.",
       "transcript_snippet": "Because you guys just lied about six of our servicemen who died? And they had to leak that to CBS News that you were lying about what was happening.",
@@ -1794,7 +1818,9 @@
       "claim": "The host says Trump belongs to the Epstein class and that this is now his legacy.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:22",
       "investigative_direction": "This is characterization; ask the host what Trump-Epstein documents she relies on.",
       "transcript_snippet": "You belong to the Epstein class. That is your legacy now.",
@@ -1813,7 +1839,9 @@
       "related_nodes": [
         "N-10063"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:22",
       "investigative_direction": "Identify any public reporting on a Kushner-linked Gaza development plan and compare it with the host's allusion.",
       "transcript_snippet": "whatever was agreed upon in those boardrooms with Jared Kushner, uh Trump Gaza hotel, whatever you tweeted so crass.",
@@ -1834,7 +1862,9 @@
         "N-10592",
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:05",
       "investigative_direction": "Find the official situation-room photographs and attendee records for the Iran briefing.",
       "transcript_snippet": "suddenly reduced to sitting on the side in the situation room at the White House while the leader of a foreign country, Benjamin Netanyahu, stands above him",
@@ -1857,7 +1887,9 @@
       "related_nodes": [
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:57",
       "investigative_direction": "This is the host's characterization; look for documented policy requests by either figure to Trump.",
       "transcript_snippet": "Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall",
@@ -1878,7 +1910,9 @@
         "A-2953.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:14",
       "investigative_direction": "Identify the clip's speaker and source video.",
       "transcript_snippet": "Half of the people that I grew up with in this movement are not on Ben Shapiro and Mark Levin's team, okay?",
@@ -1898,7 +1932,9 @@
         "A-2953.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:14",
       "investigative_direction": "Identify the speaker; check the insider-trading reporting the clip alludes to.",
       "transcript_snippet": "I don't want to be at your cool, corrupt kid, Howard Lutnick, Jeffrey Epstein class table.",
@@ -1920,7 +1956,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:18:18",
       "investigative_direction": "Identify the speaker; treat the JFK remark as the speaker's opinion.",
       "transcript_snippet": "the last president to tell that little country no was JFK. And we all know what happened to him.",
@@ -1937,7 +1975,9 @@
       "claim": "The host says that when no media company would have Trump on, Alex Jones had him on his show.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:06",
       "investigative_direction": "Find Trump's early appearances on Alex Jones's show and dates.",
       "transcript_snippet": "when no media company would have you on, Alex Jones had you on on show.",
@@ -1960,7 +2000,9 @@
         "N-10324",
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:06",
       "investigative_direction": "Locate the original replies on Truth Social.",
       "transcript_snippet": "you are just going against everyone that fought for him to win just because of the Epstein files and being at war with Iran for Israel",
@@ -1979,7 +2021,9 @@
         "A-1946.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:19:06",
       "investigative_direction": "Locate the original replies on Truth Social.",
       "transcript_snippet": "Time to resign, Donald, or face the 25th. You are mentally and emotionally unfit to be POTUS.",
@@ -2000,7 +2044,9 @@
       "related_nodes": [
         "N-11191"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:21:03",
       "investigative_direction": "Check Pre-Born's published annual figures against the sponsor-read number.",
       "transcript_snippet": "last year Pre-Born helped to rescue over 80,000 babies",
@@ -2021,7 +2067,9 @@
         "N-10541",
         "N-10962"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:24:40",
       "investigative_direction": "Compile Trump's 2024 campaign statements on new wars and gas prices for comparison.",
       "transcript_snippet": "promising no new wars, right? No new wars in the Middle East, we're going to lower gas prices",
@@ -2042,7 +2090,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:31",
       "investigative_direction": "Retrieve the original letter and test each listed tactic against documented cases; the letter gives none.",
       "transcript_snippet": "Dark money, campaign contributions, extortion, physical threats, and even assassination.",
@@ -2064,7 +2114,9 @@
         "N-10026",
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:13",
       "investigative_direction": "Retrieve the original letter; identify what Operation Epic Fury names.",
       "transcript_snippet": "Israel's current top priority is making sure Operation Epic Fury does not stop.",
@@ -2085,7 +2137,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:13",
       "investigative_direction": "Retrieve the original letter; the letter itself marks this as unestablished.",
       "transcript_snippet": "That could mean Clinton-style blackmail against Trump or something far more morbid. We do not know for sure whether that is happening",
@@ -2108,7 +2162,9 @@
         "A-1942.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:09",
       "investigative_direction": "Confirm the letter's publication time against the post's time.",
       "transcript_snippet": "We decided to write this after Trump published a Truth Social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones",
@@ -2132,7 +2188,9 @@
         "A-1944.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:16",
       "investigative_direction": "Ask Kolvet to confirm or deny that he told the host this account.",
       "transcript_snippet": "obviously things are not the same between me and Andrew Kolb at because I I don't believe him.",
@@ -2154,7 +2212,9 @@
       "related_nodes": [
         "N-10589"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:16",
       "investigative_direction": "Check FEC filings and press reports for the date and amount of Adelson-linked contributions in 2024.",
       "transcript_snippet": "before where was announced that Miriam Adelson gave Trump $100 million. This was I think it was announced in July or just before July of 2024.",
@@ -2179,7 +2239,9 @@
       "related_nodes": [
         "N-10589"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:06",
       "investigative_direction": "Check the host's own messages or notes from spring 2024 for the date of the discussion.",
       "transcript_snippet": "And the reason that Charlie told me the story and again I could go back and try to figure out when exactly the discussion happened. I want to say it was May.",
@@ -2204,7 +2266,9 @@
       "related_nodes": [
         "N-10589"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:06",
       "investigative_direction": "Only the two named witnesses are asserted present; ask Kolvet directly.",
       "transcript_snippet": "That nobody else was there but Andrew and Charlie when Trump when Trump said this.",
@@ -2230,7 +2294,9 @@
       "related_nodes": [
         "N-10588"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:16",
       "investigative_direction": "Reconcile the host's date of May with the public July 13, 2024 rally date.",
       "transcript_snippet": "A few weeks later um there was the Butler attempted assassination.",
@@ -2249,7 +2315,9 @@
       "related_nodes": [
         "N-10588"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:16",
       "investigative_direction": "Collect Trump's public statements and executive actions on the Butler investigation.",
       "transcript_snippet": "I find it very strange that Donald Trump is not interested or has appeared to be completely disinterested in determining who fired that shot.",
@@ -2270,12 +2338,14 @@
       "related_nodes": [
         "N-10588"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:11",
       "investigative_direction": "This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.",
       "transcript_snippet": "If it maybe got back to the Adelsons that Trump said that. You don't take $100 million from a uh a family of I would say gangsters, right?",
       "mentions_person_refs": [
-        "N-719",
+        "N-718",
         "N-305",
         "N-5",
         "N-3"
@@ -2291,7 +2361,9 @@
       "related_nodes": [
         "N-10588"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:11",
       "investigative_direction": "Define the shift and compare Trump's positions before and after July 2024.",
       "transcript_snippet": "I do think that we have all noted this shift in him since Butler, Pennsylvania.",
@@ -2310,7 +2382,9 @@
       "related_nodes": [
         "N-10628"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:08",
       "investigative_direction": "Look for court or medical records; none was shown.",
       "transcript_snippet": "she has been committed multiple times uh by her own family.",
@@ -2327,7 +2401,9 @@
       "claim": "The host says Laura Loomer once chained herself to Twitter headquarters and wore a yellow star.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:08",
       "investigative_direction": "Find contemporaneous news coverage of the protest.",
       "transcript_snippet": "she once chained herself to X to to Twitter headquarters. It was actually Twitter when she did this um and wore a yellow star.",
@@ -2349,7 +2425,9 @@
       "related_nodes": [
         "N-10630"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:08",
       "investigative_direction": "Ask Loomer about her religion; the host offers no record.",
       "transcript_snippet": "If you ask her to produce a photo of her bat mitzvah she cannot because she was not bat mitzvahed and she's not Jewish.",
@@ -2368,7 +2446,9 @@
         "A-1943.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:58",
       "investigative_direction": "Retrieve the original Loomer video to confirm her wording.",
       "transcript_snippet": "you're going to cause the Democrats to take the House and the Senate and you are endangering our national security by whitewashing this barbaric death cult ideology known as Islam",
@@ -2388,7 +2468,9 @@
         "A-1943.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:23",
       "investigative_direction": "Compare to the post text read earlier, which says the four have third-rate podcasts.",
       "transcript_snippet": "Even President Trump today called him out and said he's like a third rate podcaster.",
@@ -2409,7 +2491,9 @@
         "N-11133",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:11",
       "investigative_direction": "Check the executive order on glyphosate and white phosphorus and any reporting linking it to Israel or Lebanon.",
       "transcript_snippet": "Oh, Trump went back on phosphorus and Monsanto. Well, that was because Israel needed it uh to poison people in Lebanon.",
@@ -2428,7 +2512,9 @@
       "related_nodes": [
         "N-11192"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:11",
       "investigative_direction": "Ask the host for the messages or senders; none was shown.",
       "transcript_snippet": "rabbis even who write me and say you are right about Sabbatianism and Frankism",
@@ -2446,7 +2532,9 @@
       "related_nodes": [
         "N-11192"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:37:09",
       "investigative_direction": "This is a sweeping group assertion; ask the host who is meant and what she relies on.",
       "transcript_snippet": "there is a cult that is claiming to be Jewish and they are not and that they are emerging.",
@@ -2465,7 +2553,9 @@
         "N-10541",
         "N-11128"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:09",
       "investigative_direction": "The host labels this her opinion; ask what record ties the killing to the Iran conflict, which began after his death.",
       "transcript_snippet": "I will forever maintain that the first casualty of the Iranian war was Charlie Kirk. I believe he was sacrificed by this death death cult.",
@@ -2482,7 +2572,9 @@
       "claim": "The host says she is going to stick to her opinion despite many threats to sue.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:55",
       "investigative_direction": "Identify the threatened suits; none was named.",
       "transcript_snippet": "It's my opinion and I am going to stick to that and despite the many threats to sue.",
@@ -2500,7 +2592,9 @@
         "A-2955.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:09",
       "investigative_direction": "Check the merch listing for the product name.",
       "transcript_snippet": "it actually says m a c a because I feel like that's the direction.",
@@ -2518,7 +2612,9 @@
         "A-2955.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:58",
       "investigative_direction": "Check the merch listing for the corrected spelling.",
       "transcript_snippet": "We are the the four horsemen of MAGA. That should be the app.",
@@ -2538,7 +2634,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:36",
       "investigative_direction": "The host marks this as speculation; the release status of the files is the relevant record.",
       "transcript_snippet": "I don't know what is in those files that has him so scared. But it's got to be something.",
@@ -2557,7 +2655,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:43",
       "investigative_direction": "Sweeping assertion; no data given. Compare to lobbying and campaign-finance disclosures.",
       "transcript_snippet": "they so they can send money overseas, wash it, and give it back to themselves. They are beholden to foreign countries, the majority of them to Israel.",
@@ -2573,12 +2673,14 @@
       "claim": "The host says she genuinely believes Joe Biden had dementia, that Trump did not, and that Trump betrayed his supporters in his right mind for money and deals.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:45:19",
       "investigative_direction": "Opinion about two public figures; no medical record is cited.",
       "transcript_snippet": "I genuinely believe that Joe Biden had dementia, and at least he can say that.",
       "mentions_person_refs": [
-        "N-693",
+        "N-692",
         "N-5",
         "N-3"
       ]
@@ -2591,7 +2693,9 @@
       "claim": "The host says Charlie Kirk was betrayed, she believes by the people closest to him, people he helped put into power, and that she sees more and more of that.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Ask the host which specific people are meant; none was named here.",
       "transcript_snippet": "This This man was betrayed, and I believe by the people clo- closest to him, people that he helped to put into power.",
@@ -2608,7 +2712,9 @@
       "claim": "The host says her team did incredible research this week and that what they are discovering adds weight to every observation, with inklings now being converted into fact, which she will save for next week.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Check the following episode for the findings she says she is holding back.",
       "transcript_snippet": "We've done incredible research this week, and the things that we are discovering um I think just add weight to every ob- observation that we've had, every inkling and feeling that we have is is now being converted into fact.",
@@ -2626,7 +2732,9 @@
       "related_nodes": [
         "N-10006"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:29",
       "investigative_direction": "Opinion about advisers' conduct; no examples are given.",
       "transcript_snippet": "They will instead produce more fake polls, and show him Fox News",

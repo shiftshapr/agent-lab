@@ -761,8 +761,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-696",
-      "ref": "N-696",
+      "@id": "N-695",
+      "ref": "N-695",
       "name": "Jon Bray",
       "type": "person",
       "description": "Jon Bray (transcribed John Bray); cited in the anesthesiologist's email as supporting the exploding mic theory.",
@@ -1372,8 +1372,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-912",
-      "ref": "N-912",
+      "@id": "N-911",
+      "ref": "N-911",
       "name": "Andrew Guajardo",
       "type": "person",
       "description": "First named by the host at 00:00:50 in episode 135 as Dr. Andrew Guajardo, the deputy chief medical examiner who signed off on Charlie Kirk's autopsy. Transcript spellings: Gohardo, Gerhardt, Guajardo.",
@@ -1394,8 +1394,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-913",
-      "ref": "N-913",
+      "@id": "N-912",
+      "ref": "N-912",
       "name": "Ashley Brown Guajardo",
       "type": "person",
       "description": "First named by the host at 00:05:07 in episode 135 as Dr. Ashley Brown Guajardo, a sociologist and game-culture researcher married to Dr. Andrew Guajardo. Transcript also spells her Kowhardo.",
@@ -1841,7 +1841,9 @@
       "related_nodes": [
         "N-10217"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Collect Erika Kirk's and TPUSA's public statements and court filings on transparency and sealing since September 2025 and compare them with the positions taken in the case.",
       "transcript_snippet": "for 10 months straight we were told that all the widow wants is transparency. Erika just wants transparency.",
@@ -1860,7 +1862,9 @@
       "related_nodes": [
         "N-10767"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:50",
       "investigative_direction": "Obtain the Utah Office of the Medical Examiner intake, start and finish times for the autopsy from the report or defense discovery.",
       "transcript_snippet": "Fastest autopsy ever. Just in the middle of the night, couple of hours, he's done.",
@@ -1879,7 +1883,9 @@
         "N-10749",
         "N-10183"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:50",
       "investigative_direction": "Confirm Dr. Deidra Weiss Amaro's resignation date and stated reason from Utah state announcements.",
       "transcript_snippet": "Now we've got the chief medical examiner resigning.",
@@ -1897,12 +1903,14 @@
       "related_nodes": [
         "N-10183"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:50",
       "investigative_direction": "Check the signature block of the Kirk autopsy report (once released) for the signing pathologist.",
       "transcript_snippet": "The person who signed off on it though is one that we are going to be speaking about, Dr. Andrew Guajardo.",
       "mentions_person_refs": [
-        "N-912",
+        "N-911",
         "N-1"
       ]
     },
@@ -1917,7 +1925,9 @@
         "N-10688",
         "N-10766"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:50",
       "investigative_direction": "Ask the hospital for scrub issue records and the security team members for a statement on how they obtained scrubs and who supplied them.",
       "transcript_snippet": "They were covered in blood. The amazing Mikey McCoy got them scrubs.",
@@ -1937,7 +1947,9 @@
         "N-11039",
         "N-10765"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:37",
       "investigative_direction": "Seek independent paperwork (shuttle bookings, Intermountain intake logs, staff testimony) that would confirm or refute the 10:00 a.m. emergency-room evacuation.",
       "transcript_snippet": "And if true, it very much implies foreknowledge of Charlie's assassination.",
@@ -1955,12 +1967,14 @@
       "related_nodes": [
         "N-10183"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Verify Guajardo's employment history through Utah state personnel records or his published CV.",
       "transcript_snippet": "He is from New York. He moved to Utah in 2018 and was working as an assistant at the medical examiner's office.",
       "mentions_person_refs": [
-        "N-912"
+        "N-911"
       ]
     },
     {
@@ -1973,13 +1987,15 @@
       "related_nodes": [
         "N-10183"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Check Utah Department of Health and Human Services announcements for the 2024 appointment of a deputy chief medical examiner.",
       "transcript_snippet": "she decided to select him as her deputy, so he was promoted in 2024 when she got there to the role of deputy chief examiner.",
       "mentions_person_refs": [
         "N-179",
-        "N-912"
+        "N-911"
       ]
     },
     {
@@ -1990,7 +2006,9 @@
       "claim": "The host says there is still no proof that Tyler Robinson was trans or into trans furries beyond the influencers who were immediately sent out to push an LGBTQ narrative.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Look for any court filing, discovery item or witness statement that documents Robinson's gender identity or furry involvement.",
       "transcript_snippet": "I do want to say there's still no proof of him being trans or into trans furries beyond the influencers that were immediately sent out",
@@ -2011,7 +2029,9 @@
         "N-10013",
         "N-10021"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:14",
       "investigative_direction": "Compare the read messages with the Discord records entered in the preliminary hearing and with Discord's own statements on the server.",
       "transcript_snippet": "Hey guys, I have bad news for you all. It was me at UVU yesterday. I'm sorry for all of this.",
@@ -2027,7 +2047,9 @@
       "claim": "The host says Lance Twiggs indicated in his interview that Tyler Robinson was very into gaming and not politics.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:14",
       "investigative_direction": "Obtain the Twiggs interview recording or transcript and check the exact wording on gaming versus politics.",
       "transcript_snippet": "has indicated in his interview that Tyler was very into gaming, not politics, he said, but gaming.",
@@ -2047,7 +2069,9 @@
         "N-10703",
         "N-10013"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:07",
       "investigative_direction": "Review the preliminary hearing testimony on Discord account ownership and device access.",
       "transcript_snippet": "after listening to the preliminary hearing, we suspect that Tyler plausible could have been set up by Lance. His prints are everywhere.",
@@ -2067,7 +2091,9 @@
         "N-10621",
         "N-11055"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:07",
       "investigative_direction": "Obtain the firearms examiner report and the preliminary hearing testimony on barrel condition and test-firing.",
       "transcript_snippet": "which had dust in the barrel, so likely wasn't even fired.",
@@ -2085,13 +2111,15 @@
       "related_nodes": [
         "N-11303"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:05:07",
       "investigative_direction": "Confirm the marriage through public records or the couple's own biographies.",
       "transcript_snippet": "He's married to a woman named Dr. Ashley Brown Guajardo.",
       "mentions_person_refs": [
-        "N-912",
-        "N-913"
+        "N-911",
+        "N-912"
       ]
     },
     {
@@ -2106,13 +2134,15 @@
       "related_nodes": [
         "N-11303"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:05:07",
       "investigative_direction": "Locate the original posts or video the host showed and establish date, account and whether the person shown is Dr. Ashley Brown Guajardo.",
       "transcript_snippet": "he's married to someone who encourages, supports, works with, and propagates the culture of furries, and occasionally dresses up as one herself.",
       "mentions_person_refs": [
-        "N-912",
-        "N-913"
+        "N-911",
+        "N-912"
       ]
     },
     {
@@ -2127,12 +2157,14 @@
       "related_nodes": [
         "N-11303"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:06:16",
       "investigative_direction": "Find the original social media post, its date and the account that published it.",
       "transcript_snippet": "she was dancing as a furry, and she was promoting uh her book, and she used the hashtag, you know, furry.",
       "mentions_person_refs": [
-        "N-913"
+        "N-912"
       ]
     },
     {
@@ -2145,12 +2177,14 @@
         "A-3147.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:07:46",
       "investigative_direction": "Check her published CV or university profile for degrees and institutions.",
       "transcript_snippet": "she then earned her PhD in sociology overseas at the University of Manchester and then she became a teacher.",
       "mentions_person_refs": [
-        "N-913"
+        "N-912"
       ]
     },
     {
@@ -2163,12 +2197,14 @@
         "A-3147.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:07:46",
       "investigative_direction": "Compare against her university faculty page and CV.",
       "transcript_snippet": "previously Dr. Kowhardo was faculty at Brunel University in London and then the University of Utah.",
       "mentions_person_refs": [
-        "N-913"
+        "N-912"
       ]
     },
     {
@@ -2183,12 +2219,14 @@
       "related_nodes": [
         "N-11303"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:07:46",
       "investigative_direction": "Find the Twitch channel and verify the start date and the content of the streams.",
       "transcript_snippet": "Since 2017, she's hosted a weekly educational Twitch stream on games user research models.",
       "mentions_person_refs": [
-        "N-913"
+        "N-912"
       ]
     },
     {
@@ -2203,12 +2241,14 @@
       "related_nodes": [
         "N-11302"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:08:43",
       "investigative_direction": "Check the organizations' leadership pages and archived rosters for her titles and dates.",
       "transcript_snippet": "She was vice president of the Global Game Jam conference, co-director of IGDA's games user research special interest group.",
       "mentions_person_refs": [
-        "N-913"
+        "N-912"
       ]
     },
     {
@@ -2223,12 +2263,14 @@
       "related_nodes": [
         "N-11301"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:08:43",
       "investigative_direction": "Check the association's website and filings for its current officers.",
       "transcript_snippet": "And currently serves as the president of the Digital Games Research Association.",
       "mentions_person_refs": [
-        "N-913"
+        "N-912"
       ]
     },
     {
@@ -2243,12 +2285,14 @@
       "related_nodes": [
         "N-11303"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:08:43",
       "investigative_direction": "Check publisher and library catalogs for her authored titles and announced forthcoming book.",
       "transcript_snippet": "and she's currently working on a book which explores how fantasy can shape your sexual desire.",
       "mentions_person_refs": [
-        "N-913"
+        "N-912"
       ]
     },
     {
@@ -2262,7 +2306,9 @@
         "N-10790",
         "N-10679"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:36",
       "investigative_direction": "Check the preliminary hearing transcript for the exact exchange on the name Luna.",
       "transcript_snippet": "you guys remember when Lance was testifying and he said that the preliminary hearing that he goes by Luna?",
@@ -2281,12 +2327,14 @@
         "N-10013",
         "N-11303"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:54",
       "investigative_direction": "Find the Discord server and syllabi or posts where students were invited, and compare membership against names in the Robinson case.",
       "transcript_snippet": "encouraging her students and her gamers to join her on her Discord, to follow her Twitch, her streamer account.",
       "mentions_person_refs": [
-        "N-913"
+        "N-912"
       ]
     },
     {
@@ -2300,7 +2348,9 @@
         "N-10749",
         "N-11305"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:50",
       "investigative_direction": "Confirm Amaro's departure date and new position through Utah state announcements.",
       "transcript_snippet": "Dr. Amara has left uh the building. She's no longer at Utah.",
@@ -2320,13 +2370,15 @@
       "related_nodes": [
         "N-11305"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:50",
       "investigative_direction": "Check New York City announcements of the chief medical examiner appointment and NYU faculty listings.",
       "transcript_snippet": "Now, he's going to be the chief medical examiner in New York, and she's going to be teaching at NYU.",
       "mentions_person_refs": [
-        "N-912",
-        "N-913"
+        "N-911",
+        "N-912"
       ]
     },
     {
@@ -2341,12 +2393,14 @@
       "related_nodes": [
         "N-11305"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:12:50",
       "investigative_direction": "Check the NYU faculty directory and her LinkedIn history for titles and dates.",
       "transcript_snippet": "Now she's the assistant arts professor at NYU full-time.",
       "mentions_person_refs": [
-        "N-913"
+        "N-912"
       ]
     },
     {
@@ -2359,7 +2413,9 @@
       "related_nodes": [
         "N-10688"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:57",
       "investigative_direction": "Find Turek's original account of the scrubs and ask the hospital whether it issues scrubs to visitors.",
       "transcript_snippet": "Remember how Frank Turek described them receiving scrubs from the hospital?",
@@ -2377,7 +2433,9 @@
       "related_nodes": [
         "N-10699"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:57",
       "investigative_direction": "Obtain Harpole's preliminary hearing testimony and Turek's and Cutler's separate accounts and compare who did CPR.",
       "transcript_snippet": "he was doing all of the work while Rob Cutler was holding him, while Frank was praying in the back.",
@@ -2399,7 +2457,9 @@
         "N-10687",
         "N-10737"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:57",
       "investigative_direction": "Compare Turek's public statements with Harpole's testimony on who performed CPR in the vehicle.",
       "transcript_snippet": "where Frank says he did CPR and Brian says he didn't?",
@@ -2418,7 +2478,9 @@
       "related_nodes": [
         "N-10699"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:48",
       "investigative_direction": "Locate Turek's statement on the distraction explanation and the vehicle ride duration from dashcam or 911 timelines.",
       "transcript_snippet": "Frank says Brian was distracted and just didn't realize what he had done for the last 30 seconds.",
@@ -2439,7 +2501,9 @@
         "N-10362",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:40",
       "investigative_direction": "Obtain the tow, impound and sale records for the transport vehicle and any evidence-hold notation.",
       "transcript_snippet": "the feds immediately had the car towed, sent away, wanted it cleaned and resold.",
@@ -2458,7 +2522,9 @@
         "N-10766",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:40",
       "investigative_direction": "Defense discovery would show whether the clothing appears on any evidence inventory or chain-of-custody log.",
       "transcript_snippet": "In my mind, they likely took their clothes and had them destroyed. That's in my mind. I don't know that for certain.",
@@ -2477,7 +2543,9 @@
         "N-10573",
         "N-10765"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:23",
       "investigative_direction": "Identify the Timpanogos ER staff and patients present on September 10 and ask whether anyone observed Harpole's conduct.",
       "transcript_snippet": "many of us have noted how odd it is that there were no eyewitnesses to the extremely erratic, chaotic, and utterly improbable ER scene",
@@ -2496,7 +2564,9 @@
         "N-10765",
         "N-10770"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:00",
       "investigative_direction": "Seek Intermountain and Timpanogos transfer logs and electronic record audit trails for September 10, 2025.",
       "transcript_snippet": "All of the emergency room patients and all of their files were then transferred to Intermountain.",
@@ -2514,7 +2584,9 @@
       "related_nodes": [
         "N-10239"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:00",
       "investigative_direction": "Ask Timpanogos Hospital and the FBI whether footage was taken, when and under what legal process.",
       "transcript_snippet": "which have been conveniently seized by Kash Patel's office, of these patients ever having been at Timpanogos Hospital.",
@@ -2536,7 +2608,9 @@
         "N-11039",
         "N-10765"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:11",
       "investigative_direction": "Obtain shuttle company bookings, Google satellite imagery, Intermountain intake records and staff testimony for the morning of September 10.",
       "transcript_snippet": "if we are able to prove that this took place beyond a shadow of a doubt with paperwork, then I would say foreknowledge of Charlie's assassination can no longer be disputed.",
@@ -2554,7 +2628,9 @@
         "A-3149.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:11",
       "investigative_direction": "Track whether any emailed tip about the shuttle is cited in later episodes.",
       "transcript_snippet": "More tips at CandaceOwens. com, because if we are able to prove that this took place",
@@ -2572,7 +2648,9 @@
         "A-3149.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:08",
       "investigative_direction": "Track tip follow-up in later episodes.",
       "transcript_snippet": "So again, please email us more tips at Candace Owens. com.",
@@ -2590,7 +2668,9 @@
       "related_nodes": [
         "N-10765"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:08",
       "investigative_direction": "Source credibility can only be tested by corroborating records; request the paperwork the host says would prove it.",
       "transcript_snippet": "Now I can tell you I trust very much that this information is accurate."
@@ -2606,7 +2686,9 @@
         "N-10770",
         "N-10196"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:08",
       "investigative_direction": "Re-examine the October 28 hospital message screenshot and identify its author and recipients.",
       "transcript_snippet": "they were specifically instructing people um not to touch or open that file.",
@@ -2630,7 +2712,9 @@
         "N-10770",
         "N-10196"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:02",
       "investigative_direction": "Have a records expert assess the re-displayed screenshot for authenticity and the fields shown.",
       "transcript_snippet": "it had Charlie's personal details, even his like home address back in Illinois, which is not available to the public",
@@ -2654,7 +2738,9 @@
         "N-10770",
         "N-10765"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:54",
       "investigative_direction": "Compare the Epic audit trail on the Utah Valley record creation with the claimed September 10 bulk transfer.",
       "transcript_snippet": "All emergency room files on September 10th, which included Charlie's, were transferred out, electronic files were transferred out to Utah Valley.",
@@ -2674,7 +2760,9 @@
       "related_nodes": [
         "N-10770"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:48",
       "investigative_direction": "Obtain the unredacted screenshot metadata and the list of other patient entries from the original leaker.",
       "transcript_snippet": "And other people were also in the system. So, we were we're looking at Utah Valley's system, and Charlie was a patient on September 10th.",
@@ -2696,7 +2784,9 @@
         "N-10229",
         "N-10155"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:11",
       "investigative_direction": "Obtain the prosecution filing and identify which autopsy findings it disclosed.",
       "transcript_snippet": "the little bit that was published by the prosecution in their filing yesterday.",
@@ -2716,12 +2806,14 @@
       "related_nodes": [
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:16",
       "investigative_direction": "Verify the emailer's board certification and obtain the full email.",
       "transcript_snippet": "I agree with you and John Bray that the exploding mic theory is the best explanation of what we could grasp from the limited footage available.",
       "mentions_person_refs": [
-        "N-696",
+        "N-695",
         "N-1"
       ]
     },
@@ -2737,7 +2829,9 @@
       "related_nodes": [
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:16",
       "investigative_direction": "Review frame-by-frame footage of the moment of impact with a trauma physician and ballistics expert.",
       "transcript_snippet": "However, there is no evidence that he was shot from behind. Three, if Charlie was hit from the front, momentum from the bullet would have sent his torso backwards.",
@@ -2758,7 +2852,9 @@
         "N-10768",
         "N-10761"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:08",
       "investigative_direction": "Compare against the thoracic findings in the autopsy report once released.",
       "transcript_snippet": "The projectile would have almost certainly damaged both lungs and possibly his heart.",
@@ -2778,7 +2874,9 @@
         "N-10572",
         "N-11135"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:48",
       "investigative_direction": "Check the preliminary hearing transcript for the ATF analyst's testimony on fragment count and usability.",
       "transcript_snippet": "The the ATF testified I think that they received five fragments. Four were unusable unusable and one was big enough for them to use.",
@@ -2799,7 +2897,9 @@
       "related_nodes": [
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:41",
       "investigative_direction": "Obtain EMS and hospital records on resuscitation attempts and compare with the security team's accounts of CPR.",
       "transcript_snippet": "None of that was initiated at the scene and would have been nearly impossible to perform in the back of an SUV.",
@@ -2819,7 +2919,9 @@
       "related_nodes": [
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:25",
       "investigative_direction": "Verify the email's author and compare the claim with security team statements and scene video.",
       "transcript_snippet": "his security team did their best in a highly rehearsed fashion to get him the hell out of there before anybody could see what happened.",
@@ -2838,7 +2940,9 @@
         "N-10769",
         "N-10754"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:25",
       "investigative_direction": "Seek rooftop scene evidence, the recovered-rifle chain of custody and identification of the runner.",
       "transcript_snippet": "I think that the there was no gun on the rooftop. There was a person who was told to run and so that they could blame another decoy.",
@@ -2859,7 +2963,9 @@
         "N-10768",
         "N-10761"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:15",
       "investigative_direction": "Verify the writer's role and ask trauma surgeons whether thoracic hemorrhage can accompany neck gunshot wounds; compare with the autopsy report.",
       "transcript_snippet": "I've never seen thoracic trauma or hemorrhaging for that matter in a gunshot wound to the head or neck.",
@@ -2879,7 +2985,9 @@
       "related_nodes": [
         "N-10767"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:15",
       "investigative_direction": "Obtain morgue intake and transport logs for September 10-11 from the Utah medical examiner's office.",
       "transcript_snippet": "And that's if his body was ever taken to the morgue.",
@@ -2898,7 +3006,9 @@
       "related_nodes": [
         "N-10767"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:03",
       "investigative_direction": "Ask forensic pathologists and the Utah OME for its written cooling protocol.",
       "transcript_snippet": "it is true that the protocol is to bring the body down to 40° in the morgue.",
@@ -2919,7 +3029,9 @@
       "related_nodes": [
         "N-10767"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:50",
       "investigative_direction": "Cite forensic pathology references for decomposition onset and the OME's own autopsy timing practice.",
       "transcript_snippet": "12 hours before they start to get decomposition. We were looking that up, so the body wouldn't have decomposed, but it's just not what they usually do.",
@@ -2941,7 +3053,9 @@
         "N-10987",
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:50",
       "investigative_direction": "Find the Project Constitution podcast segment and compare with photographs of Charlie's mic pack placement.",
       "transcript_snippet": "I heard a a podcaster, Project Constitution, say that Charlie was also wearing a road transmitter at his left waist.",
@@ -2962,7 +3076,9 @@
         "N-10754",
         "N-10769"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:10",
       "investigative_direction": "Cite the analysis the host refers to and compare with the full witness recording.",
       "transcript_snippet": "if he observed a person military crawling, which has been true proven true, and he saw this person gets down and into a position",
@@ -2980,7 +3096,9 @@
       "related_nodes": [
         "N-10621"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:18",
       "investigative_direction": "Check the latent print and DNA reports for the rifle and the quality ranking of prints.",
       "transcript_snippet": "Tyler Robinson's gun, which has dust on the barrel and his prints as the most degraded that was on that rooftop.",
@@ -2998,7 +3116,9 @@
       "related_nodes": [
         "N-10621"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:18",
       "investigative_direction": "Obtain the firearm identification and make and model from the charging documents and ATF trace.",
       "transcript_snippet": "But a German 98 Mauser, a it's completely ridiculous.",
@@ -3019,7 +3139,9 @@
         "N-10751",
         "N-10759"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:22",
       "investigative_direction": "Obtain a copy of the fundraising mailer and the date and sender.",
       "transcript_snippet": "We can be mailed private love letters that Charlie wrote to Erika that he expected no one to see as a fundraiser material.",
@@ -3039,7 +3161,9 @@
         "N-11304",
         "N-10002"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:15",
       "investigative_direction": "Review the memorial transcript and video for the exact words and any evidence Erika had been shown by that date.",
       "transcript_snippet": "In retrospect, what Erika was doing was so evil. She was actually saying, \"I convict him.\"",
@@ -3061,7 +3185,9 @@
       "related_nodes": [
         "N-11304"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:36",
       "investigative_direction": "Ask Erika Kirk's representatives and law enforcement what briefing, if any, she received before the memorial.",
       "transcript_snippet": "She didn't have any idea that he had done it. We had him. He wasn't She hadn't seen any evidence um that herself.",
@@ -3078,7 +3204,9 @@
       "claim": "The host says she broke her foot on Friday the 13th at about the time she found out she was pregnant.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:48:12",
       "investigative_direction": "Personal claim, checkable only by the host.",
       "transcript_snippet": "Then, I actually broke my foot like actually on Friday the 13th. Uh like the same around the same time that like I found out that I was pregnant.",
@@ -3096,7 +3224,9 @@
       "related_nodes": [
         "N-10640"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:32",
       "investigative_direction": "Locate the Truth Social or X post and its date.",
       "transcript_snippet": "the president of the United States like tweets my face. It's like vile's most person most vile person of the year for no reason.",
@@ -3115,7 +3245,9 @@
       "related_nodes": [
         "N-10344"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:49:32",
       "investigative_direction": "Ask the host for details and any medical or travel records of the incident.",
       "transcript_snippet": "And then I get to Russia and my security security member literally almost dies.",
@@ -3131,7 +3263,9 @@
       "claim": "The host says she had a thyroid cancer scare that turned into further testing and is now fine.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:49:32",
       "investigative_direction": "Personal claim, checkable only by the host.",
       "transcript_snippet": "It was for thyroid, so it's also a very survivable cancer.",

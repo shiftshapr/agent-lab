@@ -12,10 +12,10 @@
 - **Model Version**: grok-manual-extract-seq161
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-886, N-887, N-11266, N-11267, N-11268
+  - Tip-minted Nodes (supplement_2026-10d): N-885, N-886, N-11266, N-11267, N-11268
   - Claim Range (supplement_2026-10d): C-10590–C-10642
   - New Nodes Introduced: N-10880, N-10881, N-10882, N-10883, N-10884, N-10886, N-10889, N-10890, N-10891, N-10892
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-103, N-119, N-120, N-149, N-162, N-173, N-194, N-205, N-265, N-272, N-283, N-37, N-336, N-566, N-605, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-305, N-10887, N-10888, N-359, N-360, N-287, N-10885, N-757, N-10566, N-10728, N-10923
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-103, N-119, N-120, N-149, N-162, N-173, N-194, N-205, N-265, N-272, N-283, N-37, N-336, N-565, N-604, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-305, N-10887, N-10888, N-359, N-360, N-287, N-10885, N-756, N-10566, N-10728, N-10923
   - Hole-minted Nodes (seq161): N-308
   - Hole-minted Nodes (wave1): N-358, N-361, N-362, N-363, N-364, N-365
   - (see registers)
@@ -322,7 +322,7 @@ Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 
-*Related: C-3680, C-3681, N-287, N-605*
+*Related: C-3680, C-3681, N-287, N-604*
 
 ---
 
@@ -693,7 +693,7 @@ Extra-money sub-campaigns and Instagram photos with Kirks/Wynn noted.
 
 ---
 
-**N-566** Carrie Prejean Bowler
+**N-565** Carrie Prejean Bowler
 
 Traveling with Candace in Spain when coordinated smear wave hit.
 
@@ -701,7 +701,7 @@ Traveling with Candace in Spain when coordinated smear wave hit.
 
 ---
 
-**N-605** Pete Hegseth
+**N-604** Pete Hegseth
 
 Pounds resignation praises Hegseth leadership; DoW framing.
 
@@ -773,7 +773,7 @@ Opening satire of commenters volunteering as nannies after yesterday's Candyland
 
 ---
 
-**N-886** Dana White
+**N-885** Dana White
 
 First named by the host at 00:30:50 in episode 161 (reading the Atlantic article). UFC CEO listed among those Blake Wynn says sat near Trump at Mar-a-Lago on election night 2024.
 
@@ -781,7 +781,7 @@ First named by the host at 00:30:50 in episode 161 (reading the Atlantic article
 
 ---
 
-**N-887** Steve Witkoff
+**N-886** Steve Witkoff
 
 First named by the host at 00:30:50 in episode 161 (transcribed "Steve Witco"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.
 
@@ -818,7 +818,7 @@ The host's statement that the domain vancekirk.com was purchased on September 12
 
 ---
 
-**N-757** Howard Hughes
+**N-756** Howard Hughes
 
 Las Vegas billionaire whose company the host says was chopped up.
 
@@ -885,7 +885,7 @@ Investigative Direction: Read with C-3680; archive the boosting posts under the 
 Claim Timestamp: 00:04:02
 Claim: The host reads Pounds's X resignation from the Department of War (honoring Hegseth leadership; stepping back for book tour and midterms) and calls her a fraud for not revealing the DoD role, adding a joking "where were you on 9/10" jab.
 Anchored Artifacts: A-2497.1
-Mentions: N-287, N-605
+Mentions: N-287, N-604
 Related Nodes: N-10885, N-10888
 Investigative Direction: Preserve resignation post; confirm SGE appointment dates vs thread timestamps.
 
@@ -1151,7 +1151,7 @@ Claim: The host says she was in Spain with the show off air for two weeks during
 Transcript Snippet: You remember um I was away in Spain. That's why it was even more odd. The show was off air two weeks and despite this I was being inundated from every direction with these sorts of attacks.
 
 Anchored Artifacts:
-Mentions: N-3, N-566
+Mentions: N-3, N-565
 Related Nodes: N-10883
 Tags: relevance:context
 Investigative Direction: Compare the dates of the show hiatus with the Discord campaign windows and the volume of anti-Candace posts that week.
@@ -1473,7 +1473,7 @@ Claim: The host reads that Blake Wynn recounted sitting next to Trump at Mar-a-L
 Transcript Snippet: recounted sitting next to Trump at Mara Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witco, Trump's friend and special envoy.
 
 Anchored Artifacts: A-2500.1
-Mentions: N-359, N-5, N-119, N-886, N-887
+Mentions: N-359, N-5, N-119, N-885, N-886
 Related Nodes: N-10882
 Tags: relevance:context
 Investigative Direction: Verify seating accounts in the Bring the Juice interview.
@@ -1683,7 +1683,7 @@ Claim: The host says that after Howard Hughes' company was chopped up, an Adelso
 Transcript Snippet: after his company got chopped up. Adlesen got a piece. The Wind family got a piece.
 
 Anchored Artifacts:
-Mentions: N-757
+Mentions: N-756
 Related Nodes: N-10249
 Tags: relevance:tangential
 Investigative Direction: Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.

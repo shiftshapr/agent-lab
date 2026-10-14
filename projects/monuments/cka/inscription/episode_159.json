@@ -145,7 +145,7 @@
             "N-4",
             "N-69",
             "N-85",
-            "N-547",
+            "N-546",
             "N-5"
           ],
           "tags": [],
@@ -867,8 +867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-508",
-      "ref": "N-508",
+      "@id": "N-507",
+      "ref": "N-507",
       "name": "Doug DeGroot",
       "type": "person",
       "description": "Opening callback: board-member claim that media pressure forced rapid Erika CEO naming.",
@@ -907,8 +907,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-547",
-      "ref": "N-547",
+      "@id": "N-546",
+      "ref": "N-546",
       "name": "Todd Blanche",
       "type": "person",
       "description": "Named Epstein situation-room attendee; host revisits “files are mostly child pornography” DOJ posture.",
@@ -1939,8 +1939,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-541",
-      "ref": "N-541",
+      "@id": "N-540",
+      "ref": "N-540",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Named by the host as the founder of the modeling-apartments company.",
@@ -1956,8 +1956,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-581",
+      "ref": "N-581",
       "name": "Faith Kates",
       "type": "person",
       "description": "Named by the host in connection with the modeling group tied to Brunel.",
@@ -1973,8 +1973,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-680",
-      "ref": "N-680",
+      "@id": "N-679",
+      "ref": "N-679",
       "name": "James Kaddis",
       "type": "person",
       "description": "Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Catis).",
@@ -2708,7 +2708,7 @@
         "N-155",
         "N-161",
         "N-163",
-        "N-547",
+        "N-546",
         "N-286"
       ]
     },
@@ -2859,7 +2859,7 @@
       "investigative_direction": "Obtain DeGroot's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.",
       "transcript_snippet": "according to Doug Degroot, the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie.",
       "mentions_person_refs": [
-        "N-508",
+        "N-507",
         "N-2"
       ]
     },
@@ -2883,7 +2883,7 @@
         "C-6353"
       ],
       "mentions_person_refs": [
-        "N-508",
+        "N-507",
         "N-3"
       ]
     },
@@ -3893,7 +3893,7 @@
       "transcript_snippet": "Erika Kirk travels aboard a private flight to Long Beach, California, and she speaks at James Catis' Calvary Chapel Church for the Women's Summer of Psalms retreat.",
       "mentions_person_refs": [
         "N-2",
-        "N-680"
+        "N-679"
       ]
     },
     {
@@ -4558,8 +4558,8 @@
       "transcript_snippet": "we asked Turning Point USA explicitly why we have people that worked there saying that Erika was in control of the modeling apartments company that John Luke Brunell started",
       "mentions_person_refs": [
         "N-2",
-        "N-541",
-        "N-582"
+        "N-540",
+        "N-581"
       ]
     },
     {

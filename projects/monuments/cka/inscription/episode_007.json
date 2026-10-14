@@ -1899,7 +1899,9 @@
       "related_nodes": [
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:15:24",
       "investigative_direction": "Retrieve the original Patel tweet and archive; cross-reference FBI press releases.",
       "transcript_snippet": "The full weight of America's law enforcement agencies are actively following the evidence.",
@@ -2011,7 +2013,9 @@
       "related_nodes": [
         "N-10089"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:30:06",
       "investigative_direction": "Verify the actual date of the messages via metadata or forensic analysis of screenshots.",
       "transcript_snippet": "A close friend of Charlie Kirk shared these messages.",
@@ -2034,7 +2038,9 @@
       "related_nodes": [
         "N-10089"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:31:08",
       "investigative_direction": "Cross-reference the content with public 2023 events; obtain metadata from screenshots.",
       "transcript_snippet": "It's from 2023. He then writes 'It doesn't come natural to her...'",
@@ -2227,7 +2233,9 @@
       "claim": "The host says she tweeted, and meant seriously, that Erika Kirk's speech at the memorial was the most consequential speech in American history.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:53",
       "investigative_direction": "Archive the host's tweet about Erika Kirk's speech and its date.",
       "transcript_snippet": "And I was being serious when I tweeted that I think it was the most consequential speech in American history.",
@@ -2244,7 +2252,9 @@
       "claim": "The host says Charlie Kirk, who was falling for Erika, invited her to meet Erika at Del Frisco's in New York City, and that she found Erika lovely and told Charlie to go for it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:51",
       "investigative_direction": "Ask the host for the date of the New York meeting; check any public photos or messages from it.",
       "transcript_snippet": "Come meet her at Del Frisco's in New York City and I came there and she was just lovely.",
@@ -2264,7 +2274,9 @@
         "A-1134.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:19",
       "investigative_direction": "Obtain the full video of Erika Kirk's memorial speech and compare the wording about Charlie not suffering with the medical account.",
       "transcript_snippet": "But specifically, the part that she shared that provided me with so much peace and I needed to hear it truly was when she explained that Charlie did not suffer",
@@ -2284,7 +2296,9 @@
       "related_nodes": [
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:04",
       "investigative_direction": "Check the host's later episodes for the promised timeline and compare it with official and video-derived timestamps.",
       "transcript_snippet": "In fact, I'm now currently working on a minuteby minute timeline, which I will have for you guys later this week,",
@@ -2305,7 +2319,9 @@
       "related_nodes": [
         "N-10032"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:19",
       "investigative_direction": "Obtain the viewer photo and the video showing Zinn on the pathway; map his route against the transport car location.",
       "transcript_snippet": "as I asked over the weekend, locate George Zinn in the crowd. It seems a bit suspicious to me how far he was.",
@@ -2325,7 +2341,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:59",
       "investigative_direction": "Identify who the host means; look for her later documents, sources or named employees supporting the betrayal claim.",
       "transcript_snippet": "I am relieved that Erika Kirk is at the head of Turning Point USA because just like I alluded to last week and which I will double down on now I believe that people within that company betrayed Charlie.",
@@ -2346,7 +2364,9 @@
         "N-83",
         "N-10076"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:06",
       "investigative_direction": "Identify the man, obtain the footage he showed the host and the Friday episode's description of it.",
       "transcript_snippet": "Everybody thought that it was very suspicious. I recognized the individual and reached out,",
@@ -2369,7 +2389,9 @@
       "related_nodes": [
         "N-10085"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:50",
       "investigative_direction": "Obtain the behind-camera footage and have a forensic pathologist assess blood visible on the back of the neck and the left hand.",
       "transcript_snippet": "And that is a fact. I did not see any blood. In fact, the only blood that I did see at all,",
@@ -2394,7 +2416,9 @@
         "N-10341",
         "N-10085"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:35",
       "investigative_direction": "Obtain Kolvet's original post and any coroner or autopsy record stating where the bullet was recovered.",
       "transcript_snippet": "It should have just gone through and through. It likely would have killed those standing behind him,",
@@ -2414,7 +2438,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:19",
       "investigative_direction": "Ask prosecutors whether the original note is in evidence, and obtain the chain of custody and the photograph.",
       "transcript_snippet": "just a miracle that he happened to leave this letter that has since been disappeared.",
@@ -2435,7 +2461,9 @@
       "related_nodes": [
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:50",
       "investigative_direction": "Retrieve Patel's original post and ask the FBI for any record about the hand-gesture line of inquiry.",
       "transcript_snippet": "how the weapon was transported, hand gestures observed as potential signals near Charlie at the time of his assassination,",
@@ -2456,7 +2484,9 @@
         "N-10053",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:11",
       "investigative_direction": "Pull county property records for the house, its ownership and occupancy history.",
       "transcript_snippet": "Because once we began learning about that house next door that's been vacant and is owned by UVU and once we began looking into the witnesses",
@@ -2475,7 +2505,9 @@
         "N-10054",
         "N-10011"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:27",
       "investigative_direction": "Check corporate filings for the company, its ownership, and the witness's role and relation to the company.",
       "transcript_snippet": "that witness whose uh footage ended up in the hands of TMZ runs an engineering company uh that is has a presence worldwide and they specialize in making these valves.",
@@ -2496,7 +2528,9 @@
       "related_nodes": [
         "N-10080"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:19:42",
       "investigative_direction": "Identify the sources who told the host and any documentation of government valve-supply contracts.",
       "transcript_snippet": "I started thinking once people told me that valves historically have a connection to the government and the deep state um about how important those valves were to warfare",
@@ -2520,7 +2554,10 @@
         "N-10087",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "DIA"
+      ],
       "claim_timestamp": "00:20:58",
       "investigative_direction": "Obtain the tip messages and UVU utility and site plans showing hatches or access boxes near the seating area.",
       "transcript_snippet": "And to your right, I went into my tips line and I saw that somebody had messaged me about this.",
@@ -2543,7 +2580,9 @@
         "N-10087",
         "N-10085"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:48",
       "investigative_direction": "Obtain the autopsy wound trajectory and any ground-penetrating or site survey ruling out an access point.",
       "transcript_snippet": "So, I'm wondering if the federal government has explored the possibility that somebody could have been under Charlie and done that while everyone's looking around and thinking that a shot went off from here.",
@@ -2563,7 +2602,9 @@
         "N-10012",
         "N-10087"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:35",
       "investigative_direction": "Obtain UVU irrigation plans for the amphitheater area.",
       "transcript_snippet": "And I saw that actually where he was sitting, there's a whole irrigation system that's managed by the university.",
@@ -2587,7 +2628,9 @@
         "N-10082",
         "N-10088"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:36",
       "investigative_direction": "Ask the host whether any agency contacted her and who filed the reports.",
       "transcript_snippet": "But over the weekend, somebody reported me to the FBI and the CIA.",
@@ -2608,7 +2651,9 @@
       "related_nodes": [
         "N-10297"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:56",
       "investigative_direction": "Pull the Bolling broadcast and the 2020 interview to check both dates.",
       "transcript_snippet": "Right. Eric Bowling did this. He said I even I don't know if if he was even sober on that program because he said he hadn't seen me.",
@@ -2628,7 +2673,9 @@
       "related_nodes": [
         "N-10089"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:15",
       "investigative_direction": "Compare the host's and Kirk's public appearances and messages across 2023 to 2025.",
       "transcript_snippet": "I never had a falling out with Charlie Kirk.",
@@ -2651,7 +2698,9 @@
         "N-10027",
         "N-10134"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:20",
       "investigative_direction": "Identify the attendee list of the Hamptons gathering and the person behind the account.",
       "transcript_snippet": "Awesome Jew, who I heard was also in the Hamptons with Bill Ackman and that group of people who went out there,",
@@ -2674,7 +2723,9 @@
         "N-10089",
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:01",
       "investigative_direction": "Obtain the full unredacted thread with dates and sender identity.",
       "transcript_snippet": "that donors and Zionists were attempting to control his speech, my speech, and who he platformed.",
@@ -2693,7 +2744,9 @@
         "A-1141.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:13",
       "investigative_direction": "Ask the Awesome Jew account holder or the two named men whether they supplied the messages; treat as speculation.",
       "transcript_snippet": "I'm going to guess it's either Seth Dillon or Josh Hammer.",
@@ -2717,7 +2770,9 @@
         "N-10089",
         "N-10063"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:35",
       "investigative_direction": "Obtain the original screenshots and verify authenticity, sender names and dates.",
       "transcript_snippet": "I watched the podcast. Candace needs to say two things and this will stop in its tracks.",
@@ -2736,7 +2791,9 @@
         "A-1142.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:08",
       "investigative_direction": "Find the Mast statement in the Congressional record or video and the tweet's date.",
       "transcript_snippet": "\"There's no such thing as an innocent Palestinian life.\" That was grotesque. So, I then started getting peer pressured to correct the tweets,",
@@ -2760,7 +2817,9 @@
       "related_nodes": [
         "N-10089"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:43",
       "investigative_direction": "Identify the guest and episode and date it against the messages.",
       "transcript_snippet": "And that's what he's referring to. The conversation that I had uh with Ammy Kak.",
@@ -2780,7 +2839,9 @@
         "N-10000",
         "N-10089"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:00",
       "investigative_direction": "Check TPUSA event schedules and recordings for the 2024 tour and conference.",
       "transcript_snippet": "because obviously I went on tour with Charlie at the beginning of 2024 and I spoke at their conference in the summer of 2024",
@@ -2803,7 +2864,9 @@
       "related_nodes": [
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:25",
       "investigative_direction": "Obtain messages or witnesses about AmFest speaker lineup changes in 2024.",
       "transcript_snippet": "rather what happened was Charlie was peer pressured by these same individuals um that I you know for me not to speak at Amfest",
@@ -2820,7 +2883,9 @@
       "claim": "The host says, attributing it to Megyn Kelly, that you cannot find anybody under 30 who supports Israel, and calls it a fact.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:33:58",
       "investigative_direction": "Find polling on support for Israel among under-30 Americans and the Megyn Kelly statement.",
       "transcript_snippet": "she you can't find anybody beneath the age of 30 that supports Israel. That's a fact.",
@@ -2841,7 +2906,9 @@
         "N-11116",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:16",
       "investigative_direction": "Compare with the host's other accounts of her Daily Wire exit.",
       "transcript_snippet": "I I was my livelihood was being threatened. And then eventually obviously I lost my job behind the scenes telling me what I had to say",
@@ -2861,7 +2928,9 @@
       "related_nodes": [
         "N-10083"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:58",
       "investigative_direction": "Watch the full July 2025 town hall to confirm the speaker and the date.",
       "transcript_snippet": "I think increase because that means any supporter of Tucker Carlson's statement therefore makes them anti-semit and association 100%.",
@@ -2883,7 +2952,9 @@
       "related_nodes": [
         "N-10083"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:14",
       "investigative_direction": "Watch the full town hall.",
       "transcript_snippet": "which is I love Israel. I visited there. My wife and I had the best experiences ever.",
@@ -2904,7 +2975,9 @@
       "related_nodes": [
         "N-10083"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:48",
       "investigative_direction": "Watch the full town hall to confirm the speaker and the wording.",
       "transcript_snippet": "I actually think there's probably like 20 representatives between Senate and House who I think are actually fully doing the work of the American people",
@@ -2923,7 +2996,9 @@
       "related_nodes": [
         "N-10083"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:37",
       "investigative_direction": "Check the historical record on the pressure on the AIPAC precursor to register under FARA and its timing; the president is implied, not named.",
       "transcript_snippet": "suggesting that the precursor to AIPAC, which became AIPAC, um should register under Farara.",
@@ -2945,7 +3020,9 @@
       "related_nodes": [
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:53",
       "investigative_direction": "Collect Charlie's public and private statements about pressure in 2025.",
       "transcript_snippet": "what I went through beginning at in the beginning of 2024 seems to be what Charlie was going through in 2025",
@@ -2962,7 +3039,9 @@
       "claim": "The host says she believes more people are involved who are in need of forgiveness, that she has found out a lot more and will release it methodically, and that they chose the wrong person to take out.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:07",
       "investigative_direction": "Track which individuals or claims the host later names as involved.",
       "transcript_snippet": "But it is also my belief that there are more people involved that are in need of forgiveness.",
@@ -2981,7 +3060,10 @@
         "A-3098.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "DIA"
+      ],
       "claim_timestamp": "00:45:40",
       "investigative_direction": "The tip inbox itself; check the later episodes for tips the host says paid off.",
       "transcript_snippet": "send me tips at canowens. com if you have any more information that you'd like to share with me.",
@@ -3004,7 +3086,9 @@
       "related_nodes": [
         "N-10060"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:55",
       "investigative_direction": "Obtain the Good Morning America segment and note any coaching or pre-interview.",
       "transcript_snippet": "Also, the children that spoke yesterday sounded highly rehearsed on their quote unquote experience.",
@@ -3020,7 +3104,9 @@
       "claim": "The host tells viewers to watch the series she calls Becoming Breit (as transcribed), says a lot of people are hooked, and says of the subject 'she's a dude'.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:50:38",
       "investigative_direction": "Treat as the host's assertion about Brigitte Macron; the legal record in the Macron defamation case would address it.",
       "transcript_snippet": "It's a really good one and she's a dude. That's it.",
@@ -3039,7 +3125,9 @@
       "related_nodes": [
         "N-10063"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:00",
       "investigative_direction": "Compare with campus polling and TPUSA campus program data.",
       "transcript_snippet": "\"I am pro-Israel.\" And he actually was somebody who had a presence across all of these universities.",
@@ -3059,7 +3147,9 @@
         "N-10087",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:26",
       "investigative_direction": "Obtain the official timeline of the rifle's recovery and any survey of UVU tunnels.",
       "transcript_snippet": "Nobody knows, but I would like to see the tunnel network.",
@@ -3078,7 +3168,9 @@
         "N-10012",
         "N-10087"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:15",
       "investigative_direction": "Capture the UVU facilities webpage and its maintenance contacts.",
       "transcript_snippet": "They have a whole thing on their website on UVU about how the irrigation is maintained and who's in charge of it.",
@@ -3099,7 +3191,9 @@
         "A-1145.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:31",
       "investigative_direction": "Compare with later claims the host makes about Turek.",
       "transcript_snippet": "He gave the speech that he wanted to give and nothing in my research has come up about thus far has come up about Frank Turk.",
@@ -3118,7 +3212,9 @@
       "related_nodes": [
         "N-10070"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:42",
       "investigative_direction": "Retrieve the Daily Mail article and compare with the host's account.",
       "transcript_snippet": "and as the Daily Mail pointed out I raged and raged about that.",
@@ -3143,7 +3239,9 @@
         "N-10094",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:56:07",
       "investigative_direction": "Find sources for LDS and UVU recruitment by intelligence agencies.",
       "transcript_snippet": "That is a fact. Latterday Saints, Church of Latter Day Saints. And apparently they recruit from that particular campus,",
@@ -3161,7 +3259,9 @@
         "A-3099.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:56:17",
       "investigative_direction": "Ask for the ballistics and chain of custody for the recovered rifle.",
       "transcript_snippet": "Yeah, I think we're looking for a totally different weapon.",
@@ -3179,7 +3279,9 @@
         "A-3099.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:57:01",
       "investigative_direction": "Find the Charlie Kirk Show episode where Kolvet said this and verify the quote.",
       "transcript_snippet": "On a Charlie Kirk show last week, Andrew said someone powerful called Erika and asked how much she knows,",
@@ -3198,7 +3300,9 @@
         "A-3099.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:57:13",
       "investigative_direction": "Compare with Erika's later statements on what she knew.",
       "transcript_snippet": "I think she knows everything. She's his wife.",
@@ -3218,7 +3322,9 @@
       "related_nodes": [
         "N-10342"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:57:38",
       "investigative_direction": "Watch the Alex Clark interview and see how Erika addresses the offer.",
       "transcript_snippet": "I saw people that were going, \"Erika Kirk is going on I think Alex Clark's show and they were tweeting it at me.",
@@ -3241,7 +3347,9 @@
         "N-10139",
         "N-11004"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:06",
       "investigative_direction": "Identify the host's source and any financial record of the funding.",
       "transcript_snippet": "I said $150 million I was told BB gave for Operation Mocking Pastor.",
@@ -3264,7 +3372,9 @@
       "related_nodes": [
         "N-10342"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:22",
       "investigative_direction": "Ask Kirk's circle, Netanyahu's office and the Hamptons attendees about any offer.",
       "transcript_snippet": "I definitively made the statement that BB Netanyahu offered Charlie Kirk uh boatload of money and he rejected it.",
@@ -3284,7 +3394,9 @@
       "related_nodes": [
         "N-10104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:58:45",
       "investigative_direction": "Check baptism or church records and statements by Charlie on conversion.",
       "transcript_snippet": "Uh he obviously didn't convert but also the nastiness towards Catholics just needs to stop.",
@@ -3303,7 +3415,9 @@
       "related_nodes": [
         "N-10104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:58:49",
       "investigative_direction": "Check Erika Kirk's biography and church affiliation.",
       "transcript_snippet": "I mean, Erika Kirk was raised in a Catholic family, so that was a strange thing to have people react so crazy.",
@@ -3323,7 +3437,9 @@
         "N-10036",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:11",
       "investigative_direction": "Check donor filings and building naming records for the donor and dates.",
       "transcript_snippet": "whether he lost money, which he did. Um I was told that individual was Bob Schman.",

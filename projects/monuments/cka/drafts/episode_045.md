@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 33f8430dc8f4892645295e48cc30c6fac74bf7345b2f004f77e9048a964d135e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-814, N-11162
+  - Tip-minted Nodes (supplement_2026-10c): N-813, N-11162
   - Hole-minted Nodes (reintro-ep045): N-368, N-10367, N-10373, N-10540
   - Tip-minted Nodes (reintro-ep045): N-10968
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -368,7 +368,7 @@ Widow and TPUSA CEO whose Fox interview, town hall remarks and public appearance
 
 ---
 
-**N-814** Harris Faulkner
+**N-813** Harris Faulkner
 
 First named by the host at 00:00:00 in episode 45 (transcript spells it Harris Falner and Harris Faulner). Fox News anchor who interviewed Erika Kirk.
 
@@ -818,7 +818,7 @@ Claim: The host says Erika Kirk gave a live interview with Harris Faulkner on Fo
 Transcript Snippet: she just gave an interview live with Harris Falner on Fox News where she finally addressed the quote unquote conspiracy theories.
 
 Anchored Artifacts: 
-Mentions: N-814, N-2, N-3
+Mentions: N-813, N-2, N-3
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News broadcast date, transcript and video of the Faulkner interview.
@@ -850,7 +850,7 @@ Claim: The host says Milo Yiannopoulos and a few others have asserted with absol
 Transcript Snippet: Milo Yiannopoulos and a few others have asserted with absolute certainty that Charlie has not yet been buried.
 
 Anchored Artifacts: 
-Mentions: N-224, N-1, N-814
+Mentions: N-224, N-1, N-813
 Related Nodes: N-10201
 Tags: relevance:context
 Investigative Direction: Obtain Yiannopoulos's posts and any claimed proof, and compare with cemetery or funeral records.
@@ -1575,7 +1575,7 @@ Mentions: N-3
 Related Nodes: N-10332
 Qualifies: C-1905
 Tags: relevance:core
-Investigative Direction: Reconcile the 11:43 a.m. and 12:31 p.m. times against ADS-B and FAA records.
+Investigative Direction: Both times come from the same tipster email: at 00:44:18 the host reads "at 12:31 p.m. on September 9th, it flies from Fort Wuka to El Paso"; at 00:47:10 the email's conclusion gives "leaving at 11:43 a.m.". A Fort Huachuca to El Paso Gulfstream V hop is about 45-50 minutes, so 11:43 is most likely the departure and 12:31 the El Paso arrival (or the tracker's leg time), not two conflicting departures. Confirm against ADS-B Exchange history for 99-044.
 
 ---
 

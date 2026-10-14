@@ -1779,8 +1779,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-721",
-      "ref": "N-721",
+      "@id": "N-720",
+      "ref": "N-720",
       "name": "Joyce Churnick",
       "type": "person",
       "description": "First named by the host at 00:45:45 in episode 34 (spelled Churnick in the transcript). Donor the host says yelled and took away a million dollars after Tucker Carlson's speech.",
@@ -1830,8 +1830,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-722",
-      "ref": "N-722",
+      "@id": "N-721",
+      "ref": "N-721",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "First named by the host at 00:49:25 in episode 34 (as JFK). Cited in the host's remark about the Israel exception to foreign-agent registration.",
@@ -3169,7 +3169,7 @@
       "investigative_direction": "Confirm the donor's name spelling and the donation amount through TPUSA donor records and the audio the host says exists.",
       "transcript_snippet": "I told you about a woman who yelled um and took away a million dollars because of the Tucker Carlson speech. That woman was Joyce Churnick.",
       "mentions_person_refs": [
-        "N-721",
+        "N-720",
         "N-22",
         "N-1",
         "N-3"
@@ -3214,7 +3214,7 @@
       "investigative_direction": "Review historical records of the Kennedy administration's FARA actions against Israel-related organizations and their outcome.",
       "transcript_snippet": "when JFK tried to put an end to that uh well I guess rather put an end to the Israel exception that we now have by making them sign up and acknowled uh they shot him.",
       "mentions_person_refs": [
-        "N-722",
+        "N-721",
         "N-3"
       ]
     },

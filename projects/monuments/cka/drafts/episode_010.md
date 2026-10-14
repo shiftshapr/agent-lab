@@ -240,8 +240,7 @@ Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging 
 
 ---
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 Node Type: Person
 Elevated to COO of Turning Point USA on September 2, 2025 per internal memo; tasked with leading DOGE-style efficiency audit.
 

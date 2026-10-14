@@ -4,7 +4,7 @@
     "contradicts": 85,
     "isCorroboratedBy": 1660,
     "isMemberOf": 16143,
-    "isQualifiedBy": 94,
+    "isQualifiedBy": 95,
     "isSupportedBy": 6669
   },
   "bridges": [
@@ -83347,6 +83347,14 @@
       "to": "A-2947.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
+      "episode": 88
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3804",
+      "to": "C-8598",
+      "relationship": "isQualifiedBy",
+      "explanation": "Host narrows or conditions prior claim",
       "episode": 88
     },
     {

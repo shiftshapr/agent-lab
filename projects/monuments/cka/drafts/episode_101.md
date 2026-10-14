@@ -13,8 +13,8 @@
 
 - **Episode Ledger Summary**:
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-620, N-621, N-622, N-623, N-624, N-625, N-626, N-10913, N-10915, N-10918, N-10919
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-30, N-69, N-162, N-197, N-216, N-224, N-226, N-229, N-272, N-379, N-593, N-603, N-616, N-10000, N-10026, N-10070, N-10081, N-10083, N-10194, N-10341, N-10447, N-10583, N-10637, N-10638, N-10651, N-10662, N-10664, N-305, N-10862, N-627, N-10916, N-10917, N-10914
+  - Tip-minted Nodes (skeleton): N-619, N-620, N-621, N-622, N-623, N-624, N-625, N-10913, N-10915, N-10918, N-10919
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-30, N-69, N-162, N-197, N-216, N-224, N-226, N-229, N-272, N-379, N-592, N-602, N-615, N-10000, N-10026, N-10070, N-10081, N-10083, N-10194, N-10341, N-10447, N-10583, N-10637, N-10638, N-10651, N-10662, N-10664, N-305, N-10862, N-626, N-10916, N-10917, N-10914
   - Claim Range: C-3949–C-4004
   - (see registers)
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:07:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3959, N-620, N-2*
+*Related: C-3959, N-619, N-2*
 
 **A-2559.2** Mikhaila Peterson post on the video (read aloud)
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:07:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3960, N-621, N-2*
+*Related: C-3960, N-620, N-2*
 
 **A-2559.3** Ian Miles Cheong post blaming the host (read aloud)
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:07:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3961, N-616, N-2, N-3*
+*Related: C-3961, N-615, N-2, N-3*
 
 **A-2559.4** "Bible in Context" account post blaming the host and Tucker Carlson (read aloud)
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:16:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3973, N-603, N-10915*
+*Related: C-3973, N-602, N-10915*
 
 ---
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:22:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3976, C-3977, C-3978, C-3979, C-3980, N-593, N-22, N-305, N-622, N-623, N-10083, N-10916, N-10917, N-10918*
+*Related: C-3976, C-3977, C-3978, C-3979, C-3980, N-592, N-22, N-305, N-621, N-622, N-10083, N-10916, N-10917, N-10918*
 
 ---
 
@@ -281,7 +281,7 @@ Video Timestamp: 00:28:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3986, C-3987, N-624, N-30, N-224*
+*Related: C-3986, C-3987, N-623, N-30, N-224*
 
 ---
 
@@ -296,7 +296,7 @@ Video Timestamp: 00:29:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3988, C-3989, C-3990, C-3991, C-3992, C-3993, N-10070, N-624, N-626*
+*Related: C-3988, C-3989, C-3990, C-3991, C-3992, C-3993, N-10070, N-623, N-625*
 
 ---
 
@@ -418,67 +418,67 @@ Transcript spelling "Sara Sidner". The CNN reporter who first posted the exit vi
 
 *Related: C-3970, A-2558.2*
 
-**N-593** Thomas Massie
+**N-592** Thomas Massie
 
 Kentucky congressman who says $10 million, mostly from the Israeli lobby, has been spent against him.
 
 *Related: C-3975, C-3976, C-3977, C-3978, C-3979, C-3980, A-2562.1*
 
-**N-603** Meghan McCain
+**N-602** Meghan McCain
 
 Posted the ballroom line after the WHCD shooting.
 
 *Related: C-3973, A-2561.3*
 
-**N-620** Graham Allen
+**N-619** Graham Allen
 
 First named by the host at 00:07:24 in episode 101. Posted that viewers could hear Erika Kirk say she wanted to go home and asked people to pray for her.
 
 *Related: C-3959, A-2559.1*
 
-**N-621** Mikhaila Peterson
+**N-620** Mikhaila Peterson
 
 First named by the host at 00:07:24 in episode 101. Posted that the Erika Kirk video showed "what PTSD looks like." Aliases: Michaela Peterson.
 
 *Related: C-3960, A-2559.2*
 
-**N-616** Ian Miles Cheong
+**N-615** Ian Miles Cheong
 
 First named by the host at 00:07:24 in episode 101. Posted that the host's "conspiracy theorizing and attacks on Erika Kirk" led to the incident.
 
 *Related: C-3961, A-2559.3*
 
-**N-622** Paul Singer
+**N-621** Paul Singer
 
 First named by the host at 00:23:39 in episode 101. Named by Thomas Massie as one of three funders of the MAGA Kentucky PAC.
 
 *Related: C-3979, A-2562.1*
 
-**N-623** John Paulson
+**N-622** John Paulson
 
 First named by the host at 00:23:39 in episode 101. Named by Thomas Massie as one of three funders of the MAGA Kentucky PAC.
 
 *Related: C-3979, A-2562.1*
 
-**N-624** Jessica Reed Kraus
+**N-623** Jessica Reed Kraus
 
 First named by the host at 00:26:58 in episode 101. Influencer known as House Inhabit. The host says she works with Andrew Kolvet, posted an AI photo of the host's husband, and is the subject of a Daily Mail article on her marriage. Aliases: House In Habit; house and habit; House Inhabit.
 
 *Related: C-3981, C-3986, C-3988, C-3989, C-3990, C-3991, C-3992, C-3993, A-2563.1, A-2564.1*
 
-**N-625** Dennis Prager
+**N-624** Dennis Prager
 
 First named by the host at 00:26:58 in episode 101. The host says he wrote publicly about her and then fell down the stairs.
 
 *Related: C-3983*
 
-**N-626** Ashley St. Clair
+**N-625** Ashley St. Clair
 
 First named by the host at 00:29:01 in episode 101. Former friend of Jessica Reed Kraus who described being present when Kraus found her husband's number on an escort-review site.
 
 *Related: C-3989, C-3990, A-2564.1*
 
-**N-627** Cardi B
+**N-626** Cardi B
 
 First named by the host at 00:46:47 in episode 101. Rapper whose X exchange with the host the host says inspired her book "Make Him a Sandwich."
 
@@ -593,14 +593,14 @@ FARA-registered entity that the host describes as a propaganda arm of the Israel
 Node Type: Topic
 Investigation target: the near-simultaneous posts by Randy Fine, Andrew Kolvet, Meghan McCain and others after the White House Correspondents' Dinner shooting, each saying the shooting showed why President Trump needs a White House ballroom. The host argues the uniform messaging suggests coordination.
 
-*Related: C-3971, C-3972, C-3973, A-2561.1, A-2561.2, A-2561.3, N-226, N-14, N-603*
+*Related: C-3971, C-3972, C-3973, A-2561.1, A-2561.2, A-2561.3, N-226, N-14, N-602*
 
 **N-10916** Thomas Massie Kentucky Primary Outside Spending
 
 Node Type: Topic
 Investigation target: the roughly $10 million spent against Representative Thomas Massie in his Republican primary in Kentucky. Massie says at least 95% of it came from the Israeli lobby, including the RJC, AIPAC and a PAC called MAGA Kentucky funded by Miriam Adelson, Paul Singer and John Paulson. He says the race has narrowed to a single-point lead.
 
-*Related: C-3975, C-3976, C-3977, C-3978, C-3979, A-2562.1, N-593*
+*Related: C-3975, C-3976, C-3977, C-3978, C-3979, A-2562.1, N-592*
 
 **N-10917** Republican Jewish Coalition
 
@@ -614,14 +614,14 @@ Named by Thomas Massie as one of the Israeli-lobby proxies funding opposition to
 Node Type: Organization
 PAC that Thomas Massie says was funded jointly by Miriam Adelson, Paul Singer and John Paulson to oppose him, and that he calls "neither MAGA nor Kentucky."
 
-*Related: C-3979, A-2562.1, N-305, N-622, N-623*
+*Related: C-3979, A-2562.1, N-305, N-621, N-622*
 
 **N-10919** Andrew Kolvet / House Inhabit PR Collaboration Question
 
 Node Type: Topic
 Investigation target: the host's allegation that Andrew Kolvet works with Jessica Reed Kraus (House Inhabit) and other YouTubers, using them as part of TPUSA's PR effort. She says Kraus is one of the people attacking her husband.
 
-*Related: C-3981, C-3986, N-14, N-624*
+*Related: C-3981, C-3986, N-14, N-623*
 
 ## 5. Claim Register
 
@@ -782,7 +782,7 @@ Claim: The host reads a post by Graham Allen saying Erika Kirk could be heard sa
 Transcript Snippet: You can hear Erika Kirk say, 'I just want to go home. PRAY FOR HER. PRAY FOR OUR CHILDREN. HOW MUCH HORROR SHOULD ONE WOMAN have to be exposed to?
 
 Anchored Artifacts: A-2559.1
-Mentions: N-620, N-2
+Mentions: N-619, N-2
 Investigative Direction: Archive Graham Allen's post with its timestamp relative to the clip's first upload.
 
 ---
@@ -796,7 +796,7 @@ Claim: The host reads a post by Mikhaila Peterson saying that the video of Erika
 Transcript Snippet: I don't want to share the video of Erika Kirk last night, but that is what PTSD looks like.
 
 Anchored Artifacts: A-2559.2
-Mentions: N-621, N-2
+Mentions: N-620, N-2
 Investigative Direction: Archive Mikhaila Peterson's post with its date.
 
 ---
@@ -810,7 +810,7 @@ Claim: The host reads a post by Ian Miles Cheong saying that "the endless conspi
 Transcript Snippet: All the endless conspiracy theorizing and attacks on Erika Kirk by Candace Owens led to this.
 
 Anchored Artifacts: A-2559.3
-Mentions: N-616, N-2, N-3
+Mentions: N-615, N-2, N-3
 Investigative Direction: Archive Ian Miles Cheong's post with its timestamp.
 
 ---
@@ -987,7 +987,7 @@ Claim: The host reads Meghan McCain's post after the shooting: "I don't want to 
 Transcript Snippet: I don't want to hear one more thing about Trump's new ballroom at the White House.
 
 Anchored Artifacts: A-2561.3
-Mentions: N-603, N-5
+Mentions: N-602, N-5
 Related Nodes: N-10915
 Investigative Direction: Archive McCain's post and compare its timing with the other ballroom posts.
 
@@ -1017,7 +1017,7 @@ Claim: The host says President Trump is openly teaming up with AIPAC to unseat T
 Transcript Snippet: Trump has made he's very vocal. He's teaming up with AIPAC to unseat an actually America First candidate.
 
 Anchored Artifacts:
-Mentions: N-5, N-593
+Mentions: N-5, N-592
 Related Nodes: N-10083, N-10916, N-10081
 Investigative Direction: Review Trump's public statements and endorsements in the Kentucky primary and AIPAC-affiliated expenditures in the race.
 
@@ -1032,7 +1032,7 @@ Claim: In the clip played by the host, Thomas Massie tells Tucker Carlson that h
 Transcript Snippet: It's a single point lead for me. Um it's not very fluid. They've spent $10 million against me.
 
 Anchored Artifacts: A-2562.1
-Mentions: N-593, N-22
+Mentions: N-592, N-22
 Related Nodes: N-10916
 Investigative Direction: Check FEC independent-expenditure reports for the race and public polling at the time.
 
@@ -1047,7 +1047,7 @@ Claim: In the clip, Tucker Carlson says Massie's earlier Republican primaries in
 Transcript Snippet: So it was 81% margin, 76, 75, like full-on blowouts in the Republican primary in your district in Kentucky
 
 Anchored Artifacts: A-2562.1
-Mentions: N-22, N-593
+Mentions: N-22, N-592
 Related Nodes: N-10916
 Investigative Direction: Compare with certified Kentucky primary results for Massie's prior races.
 
@@ -1062,7 +1062,7 @@ Claim: Thomas Massie says at least 95% of the money spent against him came from 
 Transcript Snippet: it 95% of it, at least 95% has come from the Israeli lobby.
 
 Anchored Artifacts: A-2562.1
-Mentions: N-593, N-305
+Mentions: N-592, N-305
 Related Nodes: N-10916, N-10917, N-10083, N-10081, N-10026
 Investigative Direction: Total FEC-reported independent expenditures in the race by source.
 
@@ -1077,7 +1077,7 @@ Claim: Thomas Massie says Miriam Adelson, Paul Singer and John Paulson together 
 Transcript Snippet: Miriam Adelson, Paul Singer, and John Paulson went together. They funded a PAC called MAGA Kentucky, which is neither MAGA nor Kentucky
 
 Anchored Artifacts: A-2562.1
-Mentions: N-305, N-622, N-623, N-593
+Mentions: N-305, N-621, N-622, N-592
 Related Nodes: N-10918, N-10916
 Investigative Direction: Pull MAGA Kentucky's FEC filings for its donor list and expenditures.
 
@@ -1092,7 +1092,7 @@ Claim: Thomas Massie says Miriam Adelson has given over $200 million to the pres
 Transcript Snippet: she's given over 200 million dollars to the president. He puts her on the stage.
 
 Anchored Artifacts: A-2562.1
-Mentions: N-305, N-5, N-593
+Mentions: N-305, N-5, N-592
 Related Nodes: N-10916
 Investigative Direction: Total Adelson's FEC-reported contributions to Trump-aligned committees.
 
@@ -1107,7 +1107,7 @@ Claim: The host alleges that Andrew Kolvet works with YouTubers and influencers,
 Transcript Snippet: One of these people being House In Habit, Jessica Reed Kraus, right? Uh she's been working with her.
 
 Anchored Artifacts:
-Mentions: N-14, N-624
+Mentions: N-14, N-623
 Related Nodes: N-10919, N-10000
 Investigative Direction: Identify the earlier revelation the host refers to and any messages or payments between Kolvet/TPUSA and Kraus.
 
@@ -1136,7 +1136,7 @@ Claim: The host says Kolvet was referring to Dennis Prager, who she says wrote p
 Transcript Snippet: Dennis Prager, I think it was specifically who had written this whole thing about me publicly and then he fell down the stairs.
 
 Anchored Artifacts:
-Mentions: N-625, N-3, N-14
+Mentions: N-624, N-3, N-14
 Investigative Direction: Date Prager's published piece about the host and the reported fall.
 
 ---
@@ -1178,7 +1178,7 @@ Claim: The host says Jessica Reed Kraus (House Inhabit), who has been attacking 
 Transcript Snippet: She is the one that posted that totally freakish, obviously fake AI photo of George wearing a silk shirt.
 
 Anchored Artifacts: A-2563.1
-Mentions: N-624, N-30, N-224
+Mentions: N-623, N-30, N-224
 Related Nodes: N-10919
 Investigative Direction: Archive the post and run AI-image provenance analysis on the photo.
 
@@ -1207,7 +1207,7 @@ Claim: The host says the Daily Mail published a large article headlined to the e
 Transcript Snippet: they wrote MAGA influencer house and habits marriage secrets revealed insiders blow the lid on explosive escort claims
 
 Anchored Artifacts: A-2564.1
-Mentions: N-624
+Mentions: N-623
 Related Nodes: N-10070
 Investigative Direction: Archive the Daily Mail article with its publication date and exact headline.
 
@@ -1222,7 +1222,7 @@ Claim: The host says the Daily Mail story arose after Jessica Reed Kraus attacke
 Transcript Snippet: It's 3:00 a. m. and she just randomly decides to attack someone. And that someone, her name is that she attacked was Ashley St. Clair.
 
 Anchored Artifacts: A-2564.1
-Mentions: N-624, N-626
+Mentions: N-623, N-625
 Investigative Direction: Archive Kraus's posts about St. Clair with timestamps.
 
 ---
@@ -1236,7 +1236,7 @@ Claim: The host says Ashley St. Clair publicly recounted being with Jessica Reed
 Transcript Snippet: Ashley decide to to just come out and tell the story about how she was with Jessica Reed Kraus when she found out that her husband was on some hooker websites.
 
 Anchored Artifacts: A-2564.1
-Mentions: N-626, N-624
+Mentions: N-625, N-623
 Investigative Direction: Archive St. Clair's public account and her statement to the Daily Mail.
 
 ---
@@ -1250,7 +1250,7 @@ Claim: The host says the Daily Mail confirmed that the review was real and that 
 Transcript Snippet: So, the Daily Hit Mail did their due diligence. They went ahead and confirmed that the review was real, that it was his number.
 
 Anchored Artifacts: A-2564.1
-Mentions: N-624
+Mentions: N-623
 Related Nodes: N-10070
 Investigative Direction: Review the Daily Mail's stated verification method and the archived review.
 
@@ -1265,7 +1265,7 @@ Claim: The host reads that Kraus did not deny the incident to the Daily Mail but
 Transcript Snippet: Jessica Reed Kraus did not deny the incident, but she disputed the characterization of it
 
 Anchored Artifacts: A-2564.1
-Mentions: N-624
+Mentions: N-623
 Related Nodes: N-10070
 Investigative Direction: Obtain Kraus's full statement to the Daily Mail and the wedding evidence she cites.
 
@@ -1280,7 +1280,7 @@ Claim: The host says Kraus's husband told the Daily Mail that the number was his
 Transcript Snippet: He said the number was his, but he wasn't really certain how it ended up on the Mr. Number app.
 
 Anchored Artifacts: A-2564.1
-Mentions: N-624
+Mentions: N-623
 Related Nodes: N-10070
 Investigative Direction: Confirm the husband's quoted statement in the Daily Mail article.
 
@@ -1428,7 +1428,7 @@ Claim: The host says her book "Make Him a Sandwich" grew out of a spat with Card
 Transcript Snippet: it starts with this weird rap battle I had one time with Cardi B on X
 
 Anchored Artifacts:
-Mentions: N-627, N-3
+Mentions: N-626, N-3
 Investigative Direction: Archive the original X exchange between the host and Cardi B.
 
 ---
@@ -1673,7 +1673,7 @@ Confidence: high
 
 - **DIA beats**: five beats received the full treatment (claim, verbal-reference artifact, M-12 occurrence): 00:00:54 (C-3951, A-2556.1), 00:05:41 (C-3956, A-2556.2), 00:11:18 (C-3964, A-2556.3), 00:20:38–00:21:21 (C-3974, A-2556.4; "More tips at candaceowens. com" at 21:21) and 00:47:36–00:48:17 (C-4004, A-2556.5; "More tips at candaceowens. com" at 48:17). The 21:21 and 48:17 tip-line hits are each treated as part of the offer they close, not as separate beats. The "10K bounty" mention at 11:18 ("So, we put out that 10K bounty") is in the same beat as the payoff. Related beats without a keyword hit were not given an M-12 occurrence: the host's possible partial payment to the second tipster (13:49, "I might be out a couple of thousand dollars") and the viewer comment "let's gamble" with the host's reply (39:44–40:21). The CIA / Candace Intelligence Agency phrase does not air, so M-14 is not used.
 - **Artifacts verbally referenced but not shown**: A-2556.1–A-2556.5 (bounty and tip-line beats) and A-2560.1 (the first tipster's account; the operative's name is withheld). A-2560.2 (second tipster's still) may have been shown; the transcript only says it was sent and checked.
-- **Name matching**: "Andrew Cole" (14:37), "Andrew Kolvats" (16:21), "Andrew Kolb that"/"Andrew Kolb" (26:58 onward) and "Andrew Kolvet" (32:44) are all mapped to N-14. "Sara Sidner" maps to N-379 Sarah Sidner. "Michaela Peterson" ("vilified for her father") is taken to be Mikhaila Peterson (N-621); her father (Jordan Peterson) is not named, so he is not cited. "House In Habit"/"house and habit" is kept as written and aliased to N-624 Jessica Reed Kraus (House Inhabit). "Milo" is matched to N-224 Milo Yiannopoulos. "Taro" (17:46, "Get the camera behind Charlie's head") is probably the existing node for Taro Farnsworth, but the line is sarcasm, so it is not inscribed. "General Flynn" (26:58) is not matched to any node (nodes.tsv has only Conrad Flynn and David Flynn) and is not cited. "Ian" and "Baron" in a viewer comment (40:21) are probably Ian Carroll and Baron Coleman but are not cited.
+- **Name matching**: "Andrew Cole" (14:37), "Andrew Kolvats" (16:21), "Andrew Kolb that"/"Andrew Kolb" (26:58 onward) and "Andrew Kolvet" (32:44) are all mapped to N-14. "Sara Sidner" maps to N-379 Sarah Sidner. "Michaela Peterson" ("vilified for her father") is taken to be Mikhaila Peterson (N-620); her father (Jordan Peterson) is not named, so he is not cited. "House In Habit"/"house and habit" is kept as written and aliased to N-623 Jessica Reed Kraus (House Inhabit). "Milo" is matched to N-224 Milo Yiannopoulos. "Taro" (17:46, "Get the camera behind Charlie's head") is probably the existing node for Taro Farnsworth, but the line is sarcasm, so it is not inscribed. "General Flynn" (26:58) is not matched to any node (nodes.tsv has only Conrad Flynn and David Flynn) and is not cited. "Ian" and "Baron" in a viewer comment (40:21) are probably Ian Carroll and Baron Coleman but are not cited.
 - **Transcription ambiguities**: "this Tommy Robinson story" and "Katie Hopkins trying to free Tommy Robinson" (26:16) probably refer to Tyler Robinson and the official Charlie Kirk case narrative. They are kept as written and not inscribed. "Mercel's and hot cells" (14:37) is unclear. "Daily Hit Mail" (30:36) is kept as written. "Standis cup" (36:02) is presumably a Stanley-style merch cup. "Dr. Stephanie Van Watson" is in a sponsor read and is excluded.
 - **Not inscribed as claims (admission test)**: the host's speculation that Andrew Kolvet might have texted someone to get the shot and that "someone sold her grief" (14:37); "my every instinct is that the video was staged" (opinion, though the tipster allegations are inscribed); the forecast that proof of staging would be "really bad" for MAGA (18:34); the question of why Trump needs a ballroom when he holds events at Mar-a-Lago and did not need one after Butler (17:05); "Israel is at war with American minds"/"America's occupied" (21:42, 25:30); the host's call to vote for Massie; Massie's description of Christians United for Israel as "another wing of AIPAC and RJC" (characterization); insults of Graham Allen, Jessica Reed Kraus and Blake Neff ("Chex Mix maniac" was Neff's insult of the host); the Matilda Wormwood and "nobody puts baby in the corner" bits; the claim that Kraus's co-workers called her a "manic drunk" (attributed hearsay without an artifact); the host's statement that she is "completely embarrassed" to have supported Trump; and grief reflections about Charlie Kirk.
 - **Possible cross-episode links left out**: C-3998 (steel neck "lie") is related to C-1941/C-2619 (Kolvet posted the surgeon "man of steel" quote) but does not contradict that the post existed, so it is not linked. C-4000 (donors say the video is AI) may be in tension with C-2181 (ep 61, an Aspen donor recalls Charlie saying Erika would "know what to do"), but it is not the same proposition, so it is not linked. C-3975–C-3980 (Massie primary) are related to the ep 78 Turning Point Action / Massie claims (C-2467, C-2474) but make different propositions. C-3995 (Erika said lawsuits against Harpole were being prepared) is the reverse of C-2810 (Harpole's suit against the host) and is not linked.

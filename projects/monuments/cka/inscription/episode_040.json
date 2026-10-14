@@ -1263,8 +1263,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-510",
-      "ref": "N-510",
+      "@id": "N-509",
+      "ref": "N-509",
       "name": "Phil Turney",
       "type": "person",
       "description": "Phil Turney, USS Liberty interview guest the host praises.",
@@ -1391,8 +1391,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-726",
-      "ref": "N-726",
+      "@id": "N-725",
+      "ref": "N-725",
       "name": "Kamala Harris",
       "type": "person",
       "description": "First named by the host (as 'Camala') at 00:26:31 in episode 40.",
@@ -1408,8 +1408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-727",
-      "ref": "N-727",
+      "@id": "N-726",
+      "ref": "N-726",
       "name": "Russell Brand",
       "type": "person",
       "description": "First named by the host (as 'Russell Brandon') at 00:57:05 in episode 40.",
@@ -1425,8 +1425,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-728",
-      "ref": "N-728",
+      "@id": "N-727",
+      "ref": "N-727",
       "name": "Chuck Smith",
       "type": "person",
       "description": "First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder whose history she cites.",
@@ -2171,7 +2171,7 @@
       "transcript_snippet": "I do believe the Calvary Chapel uh their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Christian faith",
       "mentions_person_refs": [
         "N-3",
-        "N-728"
+        "N-727"
       ]
     },
     {
@@ -2623,7 +2623,7 @@
         "N-3",
         "N-495",
         "N-385",
-        "N-726",
+        "N-725",
         "N-82"
       ]
     },
@@ -3223,7 +3223,7 @@
       "transcript_snippet": "I spoke about it more at length with Russell Brandon uh on his show. So that should be coming out soon.",
       "mentions_person_refs": [
         "N-3",
-        "N-727"
+        "N-726"
       ]
     },
     {
@@ -3333,7 +3333,7 @@
       "transcript_snippet": "you could feel a spiritual movement in this room when we interviewed Phil Turney of the USS Liberty.",
       "mentions_person_refs": [
         "N-3",
-        "N-510"
+        "N-509"
       ]
     },
     {

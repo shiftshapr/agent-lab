@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 35b1a7b16ba70042ea415c7ad92b025f859141e457801a624a03258614a87ceb
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-795, N-796, N-797, N-798, N-11139, N-11140, N-11141
+  - Tip-minted Nodes (supplement_2026-10b): N-794, N-795, N-796, N-797, N-11139, N-11140, N-11141
   - Claim Range (supplement_2026-10b): C-7352–C-7399
-  - Reused Nodes Appearing: N-10756, N-3, N-5, N-15, N-33, N-36, N-42, N-69, N-82, N-360, N-384, N-420, N-440, N-504, N-505, N-582, N-10000, N-10061, N-10074, N-10075, N-10082, N-10132, N-10229, N-10314, N-10316, N-10318, N-10324, N-10337, N-10343, N-10434, N-10524, N-10719, N-10752, N-10975, N-11018, N-11019, N-11054, N-10754, N-10755, N-11142
+  - Reused Nodes Appearing: N-10756, N-3, N-5, N-15, N-33, N-36, N-42, N-69, N-82, N-360, N-384, N-420, N-440, N-504, N-505, N-581, N-10000, N-10061, N-10074, N-10075, N-10082, N-10132, N-10229, N-10314, N-10316, N-10318, N-10324, N-10337, N-10343, N-10434, N-10524, N-10719, N-10752, N-10975, N-11018, N-11019, N-11054, N-10754, N-10755, N-11142
  - New Nodes Introduced: N-10756, N-10757, N-10758
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
  - (see registers)
@@ -466,8 +466,7 @@ TPUSA spokesperson; subject of the host's claims about a cancelled White House m
 
 ---
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 TPUSA chief operating officer named by the host as scheduled for the White House meeting.
 
 *Related: C-7352*
@@ -578,7 +577,7 @@ In-house legal counsel named by the host as scheduled for the White House meetin
 
 ---
 
-**N-541** Jean-Luc Brunel
+**N-540** Jean-Luc Brunel
 
 Epstein associate whom the host describes in her Phelan manifest discussion.
 
@@ -586,7 +585,7 @@ Epstein associate whom the host describes in her Phelan manifest discussion.
 
 ---
 
-**N-582** Faith Kates
+**N-581** Faith Kates
 
 Head of the modeling firm the host ties to Brunel and Erika Kirk.
 
@@ -618,7 +617,7 @@ Subject of the manifest and Brunel claims.
 
 ---
 
-**N-795** Mitchell Curtis
+**N-794** Mitchell Curtis
 
 First named by the host at 00:21:00 in episode 133; she says he is a Pleasant Grove officer and 2025 UVU graduate who found the gun.
 
@@ -626,7 +625,7 @@ First named by the host at 00:21:00 in episode 133; she says he is a Pleasant Gr
 
 ---
 
-**N-796** Foster Curtis
+**N-795** Foster Curtis
 
 First named by the host at 00:21:00 in episode 133; she says he is Mitchell Curtis's father, a 21-year NCIS veteran.
 
@@ -634,7 +633,7 @@ First named by the host at 00:21:00 in episode 133; she says he is Mitchell Curt
 
 ---
 
-**N-797** James Osuna
+**N-796** James Osuna
 
 First named by the host at 00:22:40 in episode 133; she says he was Richmond's inspector general for six years before being fired.
 
@@ -642,7 +641,7 @@ First named by the host at 00:22:40 in episode 133; she says he was Richmond's i
 
 ---
 
-**N-798** John C. Phelan
+**N-797** John C. Phelan
 
 First named by the host at 00:27:47 in episode 133 (transcript spelling 'felon failen'); Secretary of the Navy.
 
@@ -824,7 +823,7 @@ Investigative Direction: Verify against the released October 2025 House Committe
 Claim Timestamp: 00:30:41–00:31:35
 Claim: The Wikipedia article states that Phelan flew on Epstein's plane on March 3, 2006, from London to New York, with twelve other passengers including modeling agent Jean-Luc Brunel, per the released manifest.
 Anchored Artifacts: A-2200.3
-Mentions: N-541
+Mentions: N-540
 Related Nodes: N-10758
 Investigative Direction: Verify against released October 2025 House Committee manifest documents and cross-reference Brunel's known 2006 travel.
 
@@ -1248,7 +1247,7 @@ Claim: The host says she was given two names for the rookie cops and is told one
 Transcript Snippet: I'm told Mitchell Curtis of Pleasant Grove Police, 2025 graduate, very young buck.
 
 Anchored Artifacts: A-2874.1
-Mentions: N-3, N-795
+Mentions: N-3, N-794
 Related Nodes: N-10757, N-11018
 Tags: relevance:core
 Investigative Direction: Obtain the police report identifying the discovering officers and Pleasant Grove police hiring records.
@@ -1264,7 +1263,7 @@ Claim: The host says Mitchell Curtis's father is Foster Curtis of Virginia, who 
 Transcript Snippet: His father's name is Foster Curtis. Foster lives in Virginia. Foster spent 21 years with NCIS, starting as a special agent
 
 Anchored Artifacts: A-2874.1
-Mentions: N-3, N-795, N-796
+Mentions: N-3, N-794, N-795
 Related Nodes: N-10757, N-11140
 Tags: relevance:core
 Investigative Direction: Verify Foster Curtis's NCIS and Inspector General career through public records, and confirm the father-son relationship.
@@ -1296,7 +1295,7 @@ Claim: The host says that on June 2, 2025, after 21 years, Foster Curtis left hi
 Transcript Snippet: Foster Curtis after 21 years decided to leave his position as a division chief and to be Richmond, Virginia's interim inspector general.
 
 Anchored Artifacts: A-2875.1
-Mentions: N-3, N-796
+Mentions: N-3, N-795
 Related Nodes: N-11141, N-11140
 Tags: relevance:core
 Investigative Direction: Check City of Richmond announcements and local news from June 2025 on the interim inspector general appointment.
@@ -1312,7 +1311,7 @@ Claim: The host says Richmond fired its inspector general James Osuna after six 
 Transcript Snippet: No comments will be made on personnel matters and NDAs were signed.
 
 Anchored Artifacts: A-2875.1
-Mentions: N-3, N-797, N-796
+Mentions: N-3, N-796, N-795
 Related Nodes: N-11141
 Tags: relevance:core
 Investigative Direction: Find the June 2025 Richmond local news reports and city statements on Osuna's departure.
@@ -1328,7 +1327,7 @@ Claim: The host says Foster Curtis's job change came a couple of months before h
 Transcript Snippet: We can now add Mitch and Foster.
 
 Anchored Artifacts: 
-Mentions: N-3, N-795, N-796
+Mentions: N-3, N-794, N-795
 Related Nodes: N-10757, N-11141
 Tags: relevance:core
 Investigative Direction: Compare dates of the Curtis job changes with the gun discovery and with the host's list of new personnel.
@@ -1344,7 +1343,7 @@ Claim: The host says NCIS reports to the Secretary of the Navy, and that Trump a
 Transcript Snippet: Trump appointed a guy with literally zero military experience into that position.
 
 Anchored Artifacts: 
-Mentions: N-3, N-798, N-5
+Mentions: N-3, N-797, N-5
 Related Nodes: N-11140, N-10758
 Tags: relevance:context
 Investigative Direction: Check Phelan's official biography and the NCIS organizational chart.
@@ -1360,7 +1359,7 @@ Claim: The host says Phelan helped Trump raise money before his second term by h
 Transcript Snippet: by hosting this private fundraiser for Trump in Aspen, which featured billionaire guests like Steve Win in attendance.
 
 Anchored Artifacts: 
-Mentions: N-3, N-798, N-5, N-360
+Mentions: N-3, N-797, N-5, N-360
 Related Nodes: N-10758
 Tags: relevance:context
 Investigative Direction: Check press coverage and FEC filings for the Aspen fundraiser and its host.
@@ -1376,7 +1375,7 @@ Claim: The host says six names are redacted on the version of the manifest relea
 Transcript Snippet: And six peoples whose names are redacted on the version of the manifest that was released in October 2025 by the United States House Committee
 
 Anchored Artifacts: A-2200.3
-Mentions: N-3, N-9, N-5, N-798
+Mentions: N-3, N-9, N-5, N-797
 Related Nodes: N-10758, N-10324
 Tags: relevance:context
 Investigative Direction: Obtain the October 2025 House Committee manifest release and check the redactions.
@@ -1392,7 +1391,7 @@ Claim: The host says Jean-Luc Brunel is the second Epstein associate who probabl
 Transcript Snippet: he's the second one who probably didn't kill himself, but did end up hung in a prison.
 
 Anchored Artifacts: 
-Mentions: N-3, N-541, N-9
+Mentions: N-3, N-540, N-9
 Related Nodes: N-10758
 Tags: relevance:context
 Investigative Direction: Check French judicial records on Brunel's death in custody in February 2022.
@@ -1408,7 +1407,7 @@ Claim: The host says Epstein invested in Brunel's modeling business and that Bru
 Transcript Snippet: sent Jeffrey Epstein, I think is it 8-year-old triplets for his birthday?
 
 Anchored Artifacts: 
-Mentions: N-3, N-541, N-9
+Mentions: N-3, N-540, N-9
 Related Nodes: N-10758
 Tags: relevance:context
 Investigative Direction: Check court filings and published reporting on Epstein's investment in MC2 and on the birthday allegation; the host herself is unsure of details.
@@ -1424,7 +1423,7 @@ Claim: The host says Jean-Luc Brunel was also one of the founders of the firm ru
 Transcript Snippet: also happened to start um be one of the founders of that firm that was run by Faith Kates
 
 Anchored Artifacts: 
-Mentions: N-3, N-541, N-582
+Mentions: N-3, N-540, N-581
 Related Nodes: N-10524
 Tags: relevance:context
 Investigative Direction: Check corporate and press histories of Next Model Management and its founders.
@@ -1440,7 +1439,7 @@ Claim: The host says her team went to Erika Kirk for comment on a claim about ma
 Transcript Snippet: We went out to Erika for comment. something that I would instantly want to remove myself from and say no that's absolutely not true.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-582
+Mentions: N-3, N-2, N-581
 Related Nodes: N-10524
 Supports: C-4729
 Tags: relevance:core
@@ -1801,7 +1800,7 @@ Confidence: high
 
 **Claim Range:** C-3150–C-3161
 
-**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10141..N-10145 are topic ids, not these people. Andrew Kolvet is N-14 and Jean-Luc Brunel is N-541; Mitchell Curtis, Foster Curtis and John C. Phelan have no CKA person node.
+**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10141..N-10145 are topic ids, not these people. Andrew Kolvet is N-14 and Jean-Luc Brunel is N-540; Mitchell Curtis, Foster Curtis and John C. Phelan have no CKA person node.
 
 **New Investigation Target Nodes Introduced:** N-10754 (Rooftop Movement Tactical Analysis), N-10755 (Weapon Discharge Visual Indicators), N-10756 (K9 Scent Tracking Discrepancy), N-10757 (Weapon Recovery Officer Chain and NCIS Connection), N-10758 (Secretary of the Navy Phelan Epstein Flight Connection)
 

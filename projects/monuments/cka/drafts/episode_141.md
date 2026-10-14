@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4c78ee14b1a99d8405861d22611f7b5723b201c8c1fb81c34bfdf476935d17f3
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-763, N-11069
+  - Tip-minted Nodes (supplement_2026-10): N-762, N-11069
   - Hole-minted Nodes (reintro-ep141): N-10805
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-6008–C-6090
@@ -42,7 +42,7 @@
 - Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283
 - Claim Range: C-3277–C-3289
   - New Nodes Introduced: N-10794, N-10795, N-10796
-  - Reused Nodes Appearing: N-18, N-573, N-14, N-54, N-57, N-102, N-114, N-162, N-208, N-242, N-274, N-276, N-336, N-518, N-10000, N-10026, N-10090, N-10102, N-10290, N-10337, N-10381, N-10507, N-10593, N-10725, N-10816, N-11068, N-11066, N-11067
+  - Reused Nodes Appearing: N-18, N-572, N-14, N-54, N-57, N-102, N-114, N-162, N-208, N-242, N-274, N-276, N-336, N-517, N-10000, N-10026, N-10090, N-10102, N-10290, N-10337, N-10381, N-10507, N-10593, N-10725, N-10816, N-11068, N-11066, N-11067
 - Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)
 
 ---
@@ -249,7 +249,7 @@ Video Timestamp: 00:35:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6050, C-6051, C-6052, N-2, N-3, N-518*
+*Related: C-6050, C-6051, C-6052, N-2, N-3, N-517*
 
 ---
 
@@ -310,7 +310,7 @@ Video Timestamp: 00:09:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6020, C-6021, C-6029, C-6055, N-3, N-18, N-763*
+*Related: C-6020, C-6021, C-6029, C-6055, N-3, N-18, N-762*
 
 ---
 
@@ -512,7 +512,7 @@ Named as the office to which the host says she handed the Foreign Legion threat 
 
 ---
 
-**N-518** Christopher Bagley
+**N-517** Christopher Bagley
 
 Officer named in the played Q&A about the body cam and the screwdriver.
 
@@ -520,7 +520,7 @@ Officer named in the played Q&A about the body cam and the screwdriver.
 
 ---
 
-**N-573** Rachel Wilson
+**N-572** Rachel Wilson
 
 Named in the earpiece claims and as having spoken to TPUSA executives according to Wilson.
 
@@ -624,7 +624,7 @@ Topic tied to the content of the September 9 message.
 
 ---
 
-**N-763** Gerald Morgan
+**N-762** Gerald Morgan
 
 First named by the host at 00:13:18 in episode 141. Named as the person from Steven Crowder's team whom Wilson brought and who did a live call-in from the host's children's playroom.
 
@@ -763,7 +763,7 @@ Claim Timestamp: 01:08:14
 Claim: Rachel Wilson posted on X stating, in effect, that Candace Owens would naturally know the case details better than Andrew Wilson, citing Wilson's approximately six days of preparation.
 
 Anchored Artifacts: A-2280.2
-Mentions: N-18, N-3, N-573
+Mentions: N-18, N-3, N-572
 
 Related Nodes:
 
@@ -776,7 +776,7 @@ Claim Timestamp: 01:04:09
 Claim: Rachel Wilson posted on X questioning whether Candace Owens's in-ear monitor had been used to receive outside assistance during the debate.
 
 Anchored Artifacts: A-2280.1
-Mentions: N-3, N-573
+Mentions: N-3, N-572
 
 Related Nodes:
 
@@ -1095,7 +1095,7 @@ Claim: The host says Wilson turned up with Steven Crowder's team, naming Gerald 
 Transcript Snippet: he shows up with Steven Crowder's team.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-265, N-763
+Mentions: N-3, N-18, N-265, N-762
 Related Nodes: N-11067
 Investigative Direction: Confirm the identities of the four-person party with Crowder's company and the debate's security or visitor list.
 
@@ -1125,7 +1125,7 @@ Claim: The host says Gerald decided to do a live call-in from her children's pla
 Transcript Snippet: Gerald decided to do a live callin from my kids' playroom just outside the studio.
 
 Anchored Artifacts: 
-Mentions: N-3, N-763
+Mentions: N-3, N-762
 Related Nodes: N-11067
 Investigative Direction: Check Crowder's channel for any live call-in on debate day and its time.
 
@@ -1154,7 +1154,7 @@ Claim: The host says one term of the contract stipulated no filming outside the 
 Transcript Snippet: one thing the contract did stipulate was no filming outside of this studio.
 
 Anchored Artifacts: A-2795.2
-Mentions: N-3, N-763
+Mentions: N-3, N-762
 Related Nodes: N-11067
 Investigative Direction: Obtain the contract and read the filming clause.
 
@@ -1468,7 +1468,7 @@ Claim: In a played exchange, the host says she does not buy Officer Bagley's tes
 Transcript Snippet: It's at least plausible that the the uh screwdriver was planted.
 
 Anchored Artifacts: A-2792.2
-Mentions: N-3, N-518
+Mentions: N-3, N-517
 Related Nodes: N-10090, N-10725
 Investigative Direction: Compare with Bagley's preliminary-hearing testimony on rooftop checks and chain of custody for the screwdriver.
 
@@ -1483,7 +1483,7 @@ Claim: In a played exchange, the host says Officer Bagley's body cam died at jus
 Transcript Snippet: What I can say strongly is that his uh cam died at just the right time.
 
 Anchored Artifacts: A-2792.2
-Mentions: N-3, N-518
+Mentions: N-3, N-517
 Related Nodes: N-10725
 Supports: C-3042
 Investigative Direction: Obtain body-cam metadata and the battery or recording-end logs for Bagley's camera.
@@ -1778,7 +1778,7 @@ Claim: The host says the in-ear monitors do not work beyond about 15 feet from t
 Transcript Snippet: these earpieces do not work beyond 15 ft out of out of the um control room.
 
 Anchored Artifacts: A-2280.1
-Mentions: N-3, N-18, N-573
+Mentions: N-3, N-18, N-572
 Related Nodes: N-10102
 Investigative Direction: Ask the production team for the equipment model and range specification.
 
@@ -1793,7 +1793,7 @@ Claim: The host says she texted nobody during the debate, sent one tweet during 
 Transcript Snippet: I texted nobody during the entire debate because I I was focused.
 
 Anchored Artifacts: A-2280.1
-Mentions: N-3, N-18, N-573
+Mentions: N-3, N-18, N-572
 Related Nodes: N-10102
 Investigative Direction: Check the host's X post timestamp and phone logs for the debate window.
 
@@ -1822,7 +1822,7 @@ Claim: The host says the earpieces she and Wilson shared carried only the produc
 Transcript Snippet: we all heard the exact same thing and PBD had a direct line to them.
 
 Anchored Artifacts: A-2280.1
-Mentions: N-3, N-18, N-57, N-573
+Mentions: N-3, N-18, N-57, N-572
 Related Nodes: N-10102
 Investigative Direction: Ask Bet-David's and the host's producers what the feed carried.
 
@@ -1955,7 +1955,7 @@ Claim: The host says Wilson said on a stream that his wife went in and spoke to 
 Transcript Snippet: he said on some stream that his wife went in and spoke to the executives at Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-573
+Mentions: N-3, N-18, N-572
 Related Nodes: N-10000
 Investigative Direction: Locate the stream where Wilson said this.
 

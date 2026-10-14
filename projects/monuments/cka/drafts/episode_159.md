@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-11093, N-11094, N-11095
   - Claim Range (supplement_2026-10): C-6351–C-6448
-  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-194, N-277, N-221, N-447, N-272, N-7, N-508, N-276, N-547, N-387, N-162, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-132, N-153, N-163, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-290, N-372, N-388, N-429, N-443, N-504, N-541, N-582, N-680, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-155, N-10872, N-10873
+  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-194, N-277, N-221, N-447, N-272, N-7, N-507, N-276, N-546, N-387, N-162, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-132, N-153, N-163, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-290, N-372, N-388, N-429, N-443, N-504, N-540, N-581, N-679, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-155, N-10872, N-10873
   - Hole-minted Nodes (remap-ep159): N-128, N-154, N-161
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dylan stays N-283 and N-283. Karoline Leavitt stays N-286. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
@@ -359,7 +359,7 @@ Video Timestamp: 00:29:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (as attributed to NYT); verify against primary article/book
 
-*Related: C-3612, N-10871, N-10324, N-4, N-69, N-85, N-547, N-29*
+*Related: C-3612, N-10871, N-10324, N-4, N-69, N-85, N-546, N-29*
 
 ---
 
@@ -777,7 +777,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-508** Doug DeGroot
+**N-507** Doug DeGroot
 
 Opening callback: board-member claim that media pressure forced rapid Erika CEO naming.
 
@@ -801,7 +801,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-547** Todd Blanche
+**N-546** Todd Blanche
 
 Named Epstein situation-room attendee; host revisits “files are mostly child pornography” DOJ posture.
 
@@ -1346,7 +1346,7 @@ TPUSA CMO named as involved in organizing the August 14 photo shoot.
 
 ---
 
-**N-541** Jean-Luc Brunel
+**N-540** Jean-Luc Brunel
 
 Named by the host as the founder of the modeling-apartments company.
 
@@ -1354,7 +1354,7 @@ Named by the host as the founder of the modeling-apartments company.
 
 ---
 
-**N-582** Faith Kates
+**N-581** Faith Kates
 
 Named by the host in connection with the modeling group tied to Brunel.
 
@@ -1362,7 +1362,7 @@ Named by the host in connection with the modeling group tied to Brunel.
 
 ---
 
-**N-680** James Kaddis
+**N-679** James Kaddis
 
 Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Catis).
 
@@ -1703,7 +1703,7 @@ Claim Timestamp: 00:29:19
 Claim: Citing New York Times reporting by Maggie Haberman and Jonathan Swan, host lists mid-July and August meetings on Epstein files with JD Vance, Susie Wiles, David Warrington, Todd Blanche, Steven Cheung, Karoline Leavitt, Taylor Budowich, James Blair, Stanley Woodward, Kash Patel, and Pam Bondi; notes Trump’s absence and temporal adjacency to Candace Epstein episodes and Charlie’s walk-back/scolding.
 
 Anchored Artifacts: A-2470.1
-Mentions: N-4, N-9, N-29, N-69, N-85, N-128, N-132, N-153, N-154, N-155, N-161, N-163, N-547, N-286
+Mentions: N-4, N-9, N-29, N-69, N-85, N-128, N-132, N-153, N-154, N-155, N-161, N-163, N-546, N-286
 
 Related Nodes: N-10324, N-10871
 
@@ -1800,7 +1800,7 @@ Claim: The host says board member and financial adviser Doug DeGroot attributes 
 Transcript Snippet: according to Doug Degroot, the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie.
 
 Anchored Artifacts: A-2809.1
-Mentions: N-508, N-2
+Mentions: N-507, N-2
 Related Nodes: N-11092, N-10194
 Investigative Direction: Obtain DeGroot's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.
 
@@ -1815,7 +1815,7 @@ Claim: The host says she fact-checked DeGroot's account with the person directly
 Transcript Snippet: I fact checked that with the person who was directly responsible for fielding the PR request, the same person who had to write the death statement uh to hand over to the media.
 
 Anchored Artifacts: A-2809.1
-Mentions: N-508, N-3
+Mentions: N-507, N-3
 Related Nodes: N-11092
 Contradicts: C-6353
 Investigative Direction: Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroot's account.
@@ -2557,7 +2557,7 @@ Claim: The host says that on July 14 Erika Kirk traveled aboard a private flight
 Transcript Snippet: Erika Kirk travels aboard a private flight to Long Beach, California, and she speaks at James Catis' Calvary Chapel Church for the Women's Summer of Psalms retreat.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-2, N-680
+Mentions: N-2, N-679
 Related Nodes: N-10571
 Investigative Direction: Obtain the retreat program, flight records and any video of Erika's speech.
 
@@ -3025,7 +3025,7 @@ Claim: The host says her team asked Turning Point USA why people who worked ther
 Transcript Snippet: we asked Turning Point USA explicitly why we have people that worked there saying that Erika was in control of the modeling apartments company that John Luke Brunell started
 
 Anchored Artifacts: 
-Mentions: N-2, N-541, N-582
+Mentions: N-2, N-540, N-581
 Related Nodes: N-10519, N-10524
 Investigative Direction: Establish the company's corporate records and any role of Erika Kirk; identify the former staff and request TPUSA's response.
 

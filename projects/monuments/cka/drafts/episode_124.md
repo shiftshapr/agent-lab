@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 448a8189da2e8602111e8248d8480ad1e223b659b46e8eae9f2d0987ad1dd63b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-789, N-790, N-11136
+  - Tip-minted Nodes (supplement_2026-10b): N-788, N-789, N-11136
   - Hole-minted Nodes (reintro-ep124): N-10748
   - Tip-minted Nodes (reintro-ep124): N-11065
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7203–C-7279
   - New Nodes Introduced: N-10709, N-10712, N-10713
-  - Reused Nodes Appearing: N-498, N-3, N-273, N-374, N-97, N-1, N-40, N-7, N-14, N-36, N-126, N-162, N-166, N-272, N-276, N-284, N-373, N-620, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10051, N-10077, N-10381, N-10386, N-10389, N-10495, N-10572, N-10598, N-10679, N-10692, N-10703, N-10729, N-10900, N-10975, N-11017, N-10710, N-10711, N-11135, N-791, N-11137, N-228
+  - Reused Nodes Appearing: N-498, N-3, N-273, N-374, N-97, N-1, N-40, N-7, N-14, N-36, N-126, N-162, N-166, N-272, N-276, N-284, N-373, N-619, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10051, N-10077, N-10381, N-10386, N-10389, N-10495, N-10572, N-10598, N-10679, N-10692, N-10703, N-10729, N-10900, N-10975, N-11017, N-10710, N-10711, N-11135, N-790, N-11137, N-228
   - Hole-minted Nodes (wave3): N-503
   - (see registers)
 
@@ -999,7 +999,7 @@ Lance Twigs, Robinson's roommate and hearing witness, whom the host calls a fede
 
 ---
 
-**N-620** Graham Allen
+**N-619** Graham Allen
 
 Graham Allen; an influencer the host says was invited to the courthouse.
 
@@ -1031,7 +1031,7 @@ Ben Shapiro; his security's live updates and Los Angeles meeting are the subject
 
 ---
 
-**N-789** Caitlyn Oliver
+**N-788** Caitlyn Oliver
 
 First named by the host at 00:30:07 in episode 124. ATF forensic biologist who testified on DNA at the preliminary hearing.
 
@@ -1039,7 +1039,7 @@ First named by the host at 00:30:07 in episode 124. ATF forensic biologist who t
 
 ---
 
-**N-790** Samantha Carner
+**N-789** Samantha Carner
 
 First named by the host at 00:37:36 in episode 124. ATF ballistics expert who testified on day four about bullet fragment 6A.
 
@@ -1047,7 +1047,7 @@ First named by the host at 00:37:36 in episode 124. ATF ballistics expert who te
 
 ---
 
-**N-791** Matt Robinson
+**N-790** Matt Robinson
 
 First named by the host at 00:06:50 in episode 124. Tyler Robinson's father, whose prints the host says were on the gun. Aliases: Matt Robinson.
 
@@ -1389,7 +1389,7 @@ Claim: The host says Erika Kirk extended an invitation to influencers including 
 Transcript Snippet: did not choose to invite to Charlie's private funeral mass, but extended an invitation for them to come to the courthouse.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-89, N-620, N-228, N-1
+Mentions: N-3, N-2, N-89, N-619, N-228, N-1
 Related Nodes: N-11065
 Tags: relevance:core
 Investigative Direction: Obtain the hearing attendance and seating list and any invitation messages from Erika Kirk's office to the named influencers.
@@ -1875,7 +1875,7 @@ Claim: The host says her view is that the influencers claimed to have seen 4K HD
 Transcript Snippet: I believe that the reason they did it, the reason why they went insane was to overcome the testimony of Caitlyn Oliver.
 
 Anchored Artifacts: A-2124.1
-Mentions: N-3, N-789, N-40
+Mentions: N-3, N-788, N-40
 Related Nodes: N-10975
 Tags: relevance:core
 Investigative Direction: Compare the dates of the influencer videos with Oliver's testimony and the court's rulings on release of video.
@@ -1891,7 +1891,7 @@ Claim: The host says Tyler Robinson's lawyer explained at length why, since 1996
 Transcript Snippet: since 1996 they actually don't rely on mixed samples for that very reason because it confuses matters.
 
 Anchored Artifacts: A-2124.2
-Mentions: N-3, N-40, N-789
+Mentions: N-3, N-40, N-788
 Related Nodes: N-10975
 Tags: relevance:core
 Investigative Direction: Read the cross-examination transcript and the ATF DNA report to see whether this statement was made and what it applied to.
@@ -1907,7 +1907,7 @@ Claim: The host says Oliver confirmed there was a minimum of five sets of DNA on
 Transcript Snippet: which of course included Lance Twigs. Uh it also included Matt Robinson, Tyler's father.
 
 Anchored Artifacts: A-2124.2
-Mentions: N-3, N-789, N-54, N-791, N-40
+Mentions: N-3, N-788, N-54, N-790, N-40
 Related Nodes: N-10975
 Tags: relevance:core
 Investigative Direction: Obtain the DNA report listing contributor counts and any reference samples compared, including the father's.
@@ -1923,7 +1923,7 @@ Claim: In the audio played, ATF biologist Caitlyn Oliver testifies that the trig
 Transcript Snippet: So, they were swabbed together. So, I wouldn't be able to say um where the DNA came from.
 
 Anchored Artifacts: A-2124.3
-Mentions: N-789, N-40
+Mentions: N-788, N-40
 Related Nodes: N-10975, N-10711
 Tags: relevance:core
 Investigative Direction: Obtain the evidence photographs, collection notes and the identity of who performed the swabs.
@@ -1939,7 +1939,7 @@ Claim: The host says the media kept saying Robinson's DNA was on the trigger, wh
 Transcript Snippet: because they kept saying that his DNA was on the trigger. And she's admitting it could be the trigger guard.
 
 Anchored Artifacts: A-2124.3
-Mentions: N-3, N-789, N-40
+Mentions: N-3, N-788, N-40
 Related Nodes: N-10711
 Tags: relevance:core
 Investigative Direction: Collect the original media and official statements about DNA on the trigger and compare with the laboratory report wording.
@@ -1972,7 +1972,7 @@ Claim: The host says it was weird that seven bullet fragments were reportedly ta
 Transcript Snippet: it was weird off the bat that they said they took seven bullet uh seven fragments from Charlie's body. She testifies that she only received four of them in an envelope
 
 Anchored Artifacts: A-2125.1
-Mentions: N-3, N-790, N-1
+Mentions: N-3, N-789, N-1
 Related Nodes: N-11135, N-10975, N-10710
 Tags: relevance:core
 Investigative Direction: Obtain the medical examiner's evidence log and the ATF receipt for fragments to reconcile seven recovered with four received.
@@ -1988,7 +1988,7 @@ Claim: The host says the 6A fragment range of .286 to .301 is too small for Tyle
 Transcript Snippet: The reason why that matters is because it's too small for Tyler's 306.
 
 Anchored Artifacts: A-2125.1
-Mentions: N-3, N-790, N-40
+Mentions: N-3, N-789, N-40
 Related Nodes: N-10710, N-10572
 Supports: C-3013
 Tags: relevance:core
