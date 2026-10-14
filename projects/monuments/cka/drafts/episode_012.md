@@ -1945,7 +1945,7 @@ Investigative Direction: Personal statement; no record needed beyond the host's 
 
 **C-9319** Host Relays a Viewer's Correction on Keyholing Versus Pinball Bullets
 
-Claim Timestamp: 00:45:10
+Claim Timestamp: 00:46:31
 
 Claim: The host relays a viewer's correction that keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage.
 

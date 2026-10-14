@@ -49,7 +49,7 @@
 
 This episode centers on a Vanity Fair article about DuPont chemical heir Robert Richards IV, who was convicted in 2009 of raping his three-year-old daughter yet received no prison time under Judge Jan Jordan's sentencing order for "treatment." The article is read aloud in detail, with the host drawing a connection between the Richards Layton & Finger law firm (founded by a DuPont family partner) and the firm filing paperwork in her own pending lawsuit. The episode also surfaces several Turning Point USA insider tips, the most prominent being a rumor that COO Justin Streiff placed an immediate call to a French-American donor prospect named "Pierre" on the day of Charlie Kirk's assassination, which two TPUSA sources subsequently identified as Pierre Dupont.
 
-Additional artifact-anchored material includes Charlie Kirk's April 13, 2018 text predicting war, a text exchange about a date outfit, a federal-source claim that TPUSA attempted to suppress the Egyptian plane story, a written tip from an Andrew Kolvet family friend asserting Charlie "lost millions" by declining "BB's" offer, and viewer comments read aloud. The episode structurally links the DuPont family pattern of crimes to the broader French/American institutional narrative and raises investigative questions about Pierre Dupont's identity, the Strife post-assassination call, TPUSA's reported real-estate pivot, and the Richards Layton & Finger connection.
+Additional artifact-anchored material includes Charlie Kirk's April 13, 2018 text predicting war, a text exchange about a date outfit, a federal-source claim that TPUSA attempted to suppress the Egyptian plane story, a written tip from an Andrew Kolvet family friend asserting Charlie "lost millions" by declining "BB's" offer, and viewer comments read aloud. The episode structurally links the DuPont family pattern of crimes to the broader French/American institutional narrative and raises investigative questions about Pierre Dupont's identity, the Streiff post-assassination call, TPUSA's reported real-estate pivot, and the Richards Layton & Finger connection.
 
 ---
 
@@ -438,7 +438,7 @@ Investigative Pressure: Medium
 
 **N-10300** Justin Streiff Post-Assassination Phone Call
 
-Six TPUSA sources reported rumor that Strife placed immediate call to donor prospect on the day of Charlie's killing; donor described as holding a billion-dollar IPO-related piece.
+Six TPUSA sources reported rumor that Streiff placed immediate call to donor prospect on the day of Charlie's killing; donor described as holding a billion-dollar IPO-related piece.
 
 Evidence Count: 1
 Claim Count: 1
@@ -1407,7 +1407,7 @@ Investigative Direction: Ask the host which source or document revealed the alle
 
 **C-10963** Host Says the FBI Suite Is in a Building Owned by the Wilmington Trust at 500 Delaware Avenue
 
-Claim Timestamp: 00:10:39
+Claim Timestamp: 00:11:52
 
 Claim: The host says, pointing to her map, that the FBI suite is in a building owned by the Wilmington Trust at 500 Delaware Avenue.
 
@@ -1424,7 +1424,7 @@ Investigative Direction: Check New Castle County property records and GSA lease 
 
 **C-10964** Host Places Brigitte's Lawyers and Stacy Sheridan's Registered Agent at 919 North Market Street
 
-Claim Timestamp: 00:10:39
+Claim Timestamp: 00:12:04
 
 Claim: The host says that Brigitte Lawyers are at 919 North Market Street and that Stacy Sheridan of Turning Point USA also has her registered agent in that building.
 
@@ -1537,7 +1537,7 @@ Investigative Direction: Identify the photographer of the widely shared casket f
 
 **C-10971** Host Says Sheridan Eulogized Charlie, Photographed the Casket and Cried at the White House
 
-Claim Timestamp: 00:13:23
+Claim Timestamp: 00:14:35
 
 Claim: The host says Sheridan eulogized Charlie Kirk on stage, captured intimate photos of his casket, and then appeared at the White House shedding tears over a holiday the host calls fake.
 
@@ -1670,7 +1670,7 @@ Investigative Direction: File a Nebraska public-records request for the meeting 
 
 **C-10979** Host Says the Egyptian Plane Left Nebraska for Wilmington and Then Returned to Cairo
 
-Claim Timestamp: 00:17:14
+Claim Timestamp: 00:18:36
 
 Claim: The host says the Egyptian yellow plane departed Nebraska, headed to Wilmington, and then went back to Cairo.
 
@@ -1802,7 +1802,7 @@ Investigative Direction: Collect accounts from attendees and any messages from K
 
 **C-10987** Host Says the Influencers at the Hamptons Retreat Were Paid for by Bill Ackman
 
-Claim Timestamp: 00:20:36
+Claim Timestamp: 00:21:51
 
 Claim: The host says that the influencers at the Hamptons retreat were paid for by Bill Ackman, which she does not consider a big deal.
 
@@ -1932,7 +1932,7 @@ Investigative Direction: Check CENTCOM and Egyptian Armed Forces statements for 
 
 ---
 
-**C-10995** Host Says Charlie's September 2 Email Asked for a DOGE Audit and Named Strife COO in Place of Bowyer
+**C-10995** Host Says Charlie's September 2 Email Asked for a DOGE Audit and Named Streiff COO in Place of Bowyer
 
 Claim Timestamp: 00:24:50
 
@@ -2030,7 +2030,7 @@ Investigative Direction: Review the host's tip box submissions and corroborate w
 
 ---
 
-**C-11001** Host Asks Viewers to Help Identify the Donor Strife Called
+**C-11001** Host Asks Viewers to Help Identify the Donor Streiff Called
 
 Claim Timestamp: 00:27:14
 
@@ -2226,7 +2226,7 @@ Investigative Direction: Check the April 13 and 14, 2018 US, UK and French strik
 
 **C-11013** Host Says Assad Denied the Chemical Attack and the West May Have Been Implicated in a False Flag
 
-Claim Timestamp: 00:42:09
+Claim Timestamp: 00:43:32
 
 Claim: The host says Assad strenuously denied gassing his citizens and that, if he was telling the truth, which she believes, the West was implicated in part in a false flag attack to justify a larger military action.
 
@@ -2434,7 +2434,7 @@ Investigative Direction: Ask TPUSA and Erika Kirk whether the post-assassination
 
 **C-11026** Host Says the Federal Government Is Trying to Bankrupt Her a Thousand Ways
 
-Claim Timestamp: 00:54:38
+Claim Timestamp: 00:55:52
 
 Claim: The host says she thinks the federal government is trying to bankrupt her in a thousand different ways, with legal warfare one of the strategies.
 
@@ -2534,7 +2534,7 @@ Confidence: high
 Video Timestamp: 00:27:14
 Speaker: N-3
 Quote: Can everybody try to figure out what donor that was?
-Context: Host asks her audience and sources to help identify the donor Strife called.
+Context: Host asks her audience and sources to help identify the donor Streiff called.
 Tags: tips, crowd sourcing
 Confidence: high
 
@@ -2617,7 +2617,7 @@ Confidence: high
 Video Timestamp: 00:27:14
 Speaker: N-3
 Quote: This is alleged.
-Context: Host hedges the rumor about Strife's immediate call.
+Context: Host hedges the rumor about Streiff's immediate call.
 Tags: allegedly, hedge
 Confidence: high
 

@@ -1762,7 +1762,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:37",
-      "investigative_direction": "Obtain the original signed memo directly from TPUSA or insider sources; verify Strife's actual scope of authority and the composition of the assembled team.",
+      "investigative_direction": "Obtain the original signed memo directly from TPUSA or insider sources; verify Streiff's actual scope of authority and the composition of the assembled team.",
       "transcript_snippet": "In this role, I have empowered Justin… to engage in an organizationalwide Doge effort.",
       "confidence": "high",
       "mentions_person_refs": [
@@ -1939,7 +1939,7 @@
       "@id": "C-3737",
       "ref": "C-3737",
       "label": "Xaviaer DuRousseau is the speaker C-1292 spells 'Xavier Deruso' (revises C-1292)",
-      "claim": "C-1292 spells the speaker's name 'Xavier Deruso'. The speaker is Xaviaer DuRousseau (N-116). He states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.",
+      "claim": "C-1292 spells the speaker's name 'Xavier Deruso'; the speaker is Xaviaer DuRousseau. The host says he made a video saying Charlie Kirk used the phrase 'moral blackmail' about the weekend, but in a workshop setting, like a debate club strengthening their arguments on Israel.",
       "anchored_artifacts": [
         "A-1165.1"
       ],
@@ -1948,7 +1948,7 @@
         "N-10134"
       ],
       "tags": [],
-      "claim_timestamp": "00:04:28",
+      "claim_timestamp": "00:03:59",
       "investigative_direction": "Read with C-1292; match DuRousseau's video and channel records under the corrected spelling.",
       "transcript_snippet": "Charlie spoke about feeling morally blackmailed.",
       "confidence": "medium",

@@ -1175,11 +1175,12 @@ Investigative Direction: Obtain the full Ripberger clip and surrounding podcast 
 
 ---
 
-**C-2435** Charlie Kirk Show Appearance from Home Studio at 10:00 AM AZ on September 8
+**C-2435** Host Says Charlie Kirk Appeared Live From His Home Studio at 10:00 AM on September 8
 
 Claim Timestamp: 00:38:58
 
-Claim: Charlie Kirk appeared on the Charlie Kirk Show from his home studio at 10:00 AM Arizona time on September 8, 2025 (separate appearance from A-1818.2).
+Claim: The host says that on September 8, 2025, at 10:00 a.m. Arizona time, Charlie Kirk appeared live on The Charlie Kirk Show from his home studio, an appearance separate from A-1818.2.
+Transcript Snippet: At 10:00 a. m. Charlie appears from his home studio live on Charlie Kirk.
 
 Anchored Artifacts: A-1818.1
 Mentions: N-1

@@ -1786,7 +1786,7 @@ Investigative Direction: Compare the Shawn Ryan audio with the Flood and Long me
 
 **C-10381** Host Says the Lawsuit Misstates That She Confirmed Mitch's Identification of Harpole
 
-Claim Timestamp: 00:27:39
+Claim Timestamp: 00:28:54
 
 Claim: The host says the lawsuit's lawyer claims she asserted over and over that Mitch Snow was telling the truth about Harpole, when she repeatedly said publicly that she could not confirm Mitch saw Harpole.
 

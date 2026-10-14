@@ -1982,7 +1982,7 @@ Investigative Direction: Obtain the recovered rifle's make and caliber from the 
 
 **C-8988** Host Says Her Investigation Suggests Robinson Was on Campus for Decoys, Not Killing Charlie
 
-Claim Timestamp: 00:43:22
+Claim Timestamp: 00:44:34
 
 Claim: The host says there is no evidence Tyler Robinson had anything to do with Charlie's assassination, that she is not saying he was not involved, and that she believes he was on campus for decoys.
 

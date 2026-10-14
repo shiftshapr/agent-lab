@@ -1336,14 +1336,14 @@ Investigative Direction: Cross-check against DOJ/FBI official statements on what
 
 ---
 
-**C-2263** Naftali Bennett Categorically Denies Mossad Operated Epstein Blackmail Ring
+**C-2263** In a Clip the Host Plays, Ben Shapiro Quotes Naftali Bennett Denying Mossad Ran an Epstein Blackmail Ring
 
-Claim Timestamp: 00:20:38
+Claim Timestamp: 00:19:45
 
-Claim: Per host-read Bennett statement, former Israeli PM Naftali Bennett stated with "100% certainty" that the accusation Mossad ran an Epstein blackmail ring is "categorically and totally false."
+Claim: In a clip the host plays, Ben Shapiro quotes former Israeli PM Naftali Bennett as saying with "100% certainty" that the accusation that Epstein worked for Mossad running a blackmail ring is "categorically and totally false."
 
 Anchored Artifacts: A-1718.1
-Mentions: N-9, N-530
+Mentions: N-97, N-530, N-9
 
 
 Investigative Direction: Obtain the full Bennett interview recording.
@@ -1669,7 +1669,7 @@ Investigative Direction: Check Robert Fliess's published psychoanalytic writings
 
 **C-14240** Host says the Freud Archives director concluded Freud knew children were abused
 
-Claim Timestamp: 00:03:44
+Claim Timestamp: 00:05:01
 
 Claim: The host says the book's author, a former director of the Freud Archives, read Freud's unpublished works and determined that Freud knew children were being abused in Vienna and created a psychology to gaslight them. She names the author at 00:05:31 as 'Jeffrey Moussaieff Masson'.
 
@@ -2276,7 +2276,7 @@ Investigative Direction: Search the WikiLeaks Clinton emails for 'Gilgamesh'; th
 
 **C-14278** Host says the Star of David did not appear as a Jewish symbol until the 17th century
 
-Claim Timestamp: 00:33:57
+Claim Timestamp: 00:35:43
 
 Claim: The host says the Kiddush cup is the traditional symbol of Judaism and that, per Wikipedia, the Star of David did not emerge until the 17th century, when a mystic who declared himself Messiah in 1666 adopted it from Solomon's seal.
 

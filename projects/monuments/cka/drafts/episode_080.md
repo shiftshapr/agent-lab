@@ -945,11 +945,11 @@ Investigative Direction: Verify against an official TPUSA statement (or silence)
 
 ---
 
-**C-2508** Chapter to Rebrand as Young American Revival
+**C-2508** Local News Clip Reports the University of Arkansas Chapter Will Rebrand as Young American Revival
 
-Claim Timestamp: 00:31:39
+Claim Timestamp: 00:31:15
 
-Claim: The disaffiliating chapter announced it will rebrand to "Young American Revival," focused on advocating for Christian conservative values.
+Claim: In a local news clip the host plays, the University of Arkansas TPUSA chapter is reported to be disaffiliating and rebranding as "Young American Revival," focused on advocating for Christian conservative values.
 
 Anchored Artifacts: A-1869.1
 
@@ -1019,7 +1019,7 @@ Investigative Direction: Confirm against full interview video; identify the orig
 
 **C-2513** Bessent States President in "Great Spirits"
 
-Claim Timestamp: 00:48:30
+Claim Timestamp: 00:47:40
 
 Claim: Upon return from the Situation Room, Bessent publicly stated the president was in "great spirits" and that the Iranian mission was "proceeding well ahead of schedule."
 

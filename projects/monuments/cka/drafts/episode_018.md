@@ -1418,7 +1418,7 @@ Investigative Direction: Locate the original Kolvet tweet and compare it with th
 
 **C-13874** Host Says She Has Sat on the Bullet Finding for a Little Over a Week
 
-Claim Timestamp: 00:03:37
+Claim Timestamp: 00:04:50
 
 Claim: The host says she fact-checked the front-shot and no-exit finding with multiple sources and had been sitting on it for a little over a week before airing it.
 
@@ -1690,7 +1690,7 @@ Investigative Direction: Map audience positions at the moment of the shot agains
 
 **C-13891** Host Says of Many Cameras the One Behind Charlie Was Grabbed First
 
-Claim Timestamp: 00:19:26
+Claim Timestamp: 00:20:46
 
 Claim: The host says that of the many cameras at the event, the one behind Charlie was the one grabbed first.
 
@@ -1706,7 +1706,7 @@ Investigative Direction: Establish the sequence in which each camera was removed
 
 **C-13892** Host Says Tyler Bowyer Lied About Law Enforcement Instructing the Camera Removal
 
-Claim Timestamp: 00:19:26
+Claim Timestamp: 00:20:56
 
 Claim: The host says Tyler Bowyer lied, and that the person who took the cameras down was not instructed to do so by law enforcement.
 
@@ -1772,7 +1772,7 @@ Investigative Direction: Ask Chaffetz or his office what contact he had with Cha
 
 **C-13896** Host Says Chaffetz Rebutted the Idea the Shot Came From Far Away
 
-Claim Timestamp: 00:21:12
+Claim Timestamp: 00:22:36
 
 Claim: The host says Chaffetz, appearing on a couple of Fox shows, rebutted the idea that the shot was fired from far away.
 

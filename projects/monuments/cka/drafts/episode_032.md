@@ -1162,7 +1162,7 @@ Investigative Direction: Verify timestamp/date of original recording; confirm vi
 
 **C-10837** Host Says Macron Side Raised MK Ultra 18 Times in Lawsuit Against Her
 
-Claim Timestamp: 00:00:44
+Claim Timestamp: 00:02:06
 
 Claim: The host says Brigitte Macron and Emmanuel Macron reacted badly when she discussed MK Ultra and that their side brought it up 18 times in the lawsuit against her.
 
@@ -1226,7 +1226,7 @@ Investigative Direction: Obtain the viewer emails and conservatorship filings sh
 
 **C-10841** Host Says Lou Taylor Pushed for Britney's Conservatorship, as Alleged and Insinuated by Britney
 
-Claim Timestamp: 00:04:16
+Claim Timestamp: 00:05:41
 
 Claim: The host says it has been alleged, and heavily insinuated even by Britney Spears herself, that Lou Taylor was very much involved in and pushed for the conservatorship.
 
@@ -1643,7 +1643,7 @@ Investigative Direction: Identify which Calvary Chapel leaders the host means an
 
 **C-10867** Host Says Rob McCoy Is Trying to Launder the Reputation of a Man Imprisoned for Child Abuse
 
-Claim Timestamp: 00:30:33
+Claim Timestamp: 00:31:48
 
 Claim: The host says Rob McCoy is trying to launder the reputation of somebody who spent years in prison for abusing children. She does not name the person in this passage.
 
@@ -1945,7 +1945,7 @@ Investigative Direction: Not independently checkable without the email.
 
 **C-10886** Host Says Many TPUSA Lies Centered on Faith, Including That Kirk Could Not Be Catholic
 
-Claim Timestamp: 00:54:30
+Claim Timestamp: 00:55:50
 
 Claim: The host says many Turning Point USA lies she debunked concern faith, such as that he was not allowed to be Catholic or interested in Catholicism.
 

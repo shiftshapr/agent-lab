@@ -1841,7 +1841,7 @@ Investigative Direction: Verify call-sign usage rules with Air Mobility Command 
 
 **C-5235** Respondent in Clip Says Venus Is a Designator for an Empty Flight Except the Pilots
 
-Claim Timestamp: 00:39:24
+Claim Timestamp: 00:40:40
 
 Claim: In the clip, a respondent apparently Coleman says another call sign they have seen is Venus, which designates an empty flight except for the pilots.
 
@@ -1993,7 +1993,7 @@ Investigative Direction: Compare with the 1990 to May 2025 NDA period reported e
 
 **C-5245** Host Says the Eyewitness Agreed to Come on the Show to Tell His Story
 
-Claim Timestamp: 00:45:12
+Claim Timestamp: 00:46:25
 
 Claim: The host says she asked the eyewitness whether he would come on and tell his story and that he said yes, and that she finds him credible and sincere.
 
@@ -2008,7 +2008,7 @@ Investigative Direction: Check the next episode for the interview and compare it
 
 **C-5246** Host Says Harpole Landed in Los Angeles from Tokyo at 6:45 p.m. on the 7th Before Flying to Dallas
 
-Claim Timestamp: 00:45:12
+Claim Timestamp: 00:46:53
 
 Claim: The host says she now knows Brian Harpole's flight back from Tokyo, a direct flight landing in Los Angeles at 6:45 p.m. on the 7th, before continuing to Dallas early on the 8th, and that she had it wrong earlier.
 

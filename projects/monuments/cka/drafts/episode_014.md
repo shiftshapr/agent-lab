@@ -1644,7 +1644,7 @@ Investigative Direction: Confirm the witness's identity and employment at Domo t
 
 **C-7870** Host Says Gauer Is an Austrian Software Engineer Tied to Lyman's Relative and Shainer's Instagram
 
-Claim Timestamp: 00:22:48
+Claim Timestamp: 00:24:01
 
 Claim: The host says Gauer was with Phil Lyman's nephew or cousin, is a software engineer from Austria, and was featured in Shainer's Instagram.
 
@@ -1660,7 +1660,7 @@ Investigative Direction: Match the Gauer name to the previously identified Gerno
 
 **C-7871** Host Says Scott Robbins Ran for Utah Governor in 2024
 
-Claim Timestamp: 00:22:48
+Claim Timestamp: 00:24:12
 
 Claim: The host says Scott Robbins, who appears in the USA Today clip looking like a college kid, was a gubernatorial candidate who ran for governor of Utah in 2024.
 
@@ -1676,7 +1676,7 @@ Investigative Direction: Check Utah 2024 gubernatorial filings for Scott Robbins
 
 **C-7872** Host Says Nobody Asked the Witnesses Who They Were or If They Were Students
 
-Claim Timestamp: 00:22:48
+Claim Timestamp: 00:24:18
 
 Claim: The host says USA Today and AP did not ask the witnesses who they were or whether they were college students.
 

@@ -1257,7 +1257,7 @@ Investigative Direction: Compare the host's account with the public statements a
 
 **C-13937** Host Says Kirk Knew She Alone Would Step Up to Defend Him
 
-Claim Timestamp: 00:00:00
+Claim Timestamp: 00:01:18
 
 Claim: The host says Charlie Kirk knew she was the only person who would step up to defend him after he was gone, and says she has proof.
 
@@ -1724,7 +1724,7 @@ Investigative Direction: Compare with Erika Kirk's and the FBI's statements abou
 
 **C-13966** Host Says the Camera Man Said He Secured the Footage to Spare Erika
 
-Claim Timestamp: 00:17:08
+Claim Timestamp: 00:18:21
 
 Claim: The host says the camera man told her he secured the footage because he wanted to prevent Erika from having to relive the moment.
 
@@ -1870,7 +1870,7 @@ Investigative Direction: Ask TPUSA social staff whether a live-clip desk operate
 
 **C-13975** Host Says She Knew Bowyer Lied That Police Ordered the Cameras Down
 
-Claim Timestamp: 00:21:27
+Claim Timestamp: 00:22:51
 
 Claim: The host says she knew Tyler Bowyer was lying when he tweeted that the camera man was commanded by police to take down the cameras, because she holds the camera man's own footage.
 

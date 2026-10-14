@@ -291,7 +291,7 @@ Her alleged Fort Huachuca presence, the Kolvet-relayed alibis, her Jesse Watters
 
 **N-3** Candace Owens
 
-Host; defendant in the Harpole suit. Relays her contacts with Bednarz, her messages to Harpole, Strife, Kolvet and Flood, and her denials about her husband.
+Host; defendant in the Harpole suit. Relays her contacts with Bednarz, her messages to Harpole, Streiff, Kolvet and Flood, and her denials about her husband.
 
 *Related: C-3884, C-3885, C-3886, C-3888, C-3889, C-3895, C-3896, C-3897, C-3898, C-3899, C-3900, C-3901, C-3902, C-3903, C-3905, C-3907, C-3911, C-3913, C-3914, C-3915, C-3917, C-3920, C-3921, C-3922, C-3926, C-3929, C-3931, C-3935, C-3940, C-3942, C-3945, C-3948, A-2544.1, A-2547.1, A-2549.1*
 
@@ -512,7 +512,7 @@ Pendragon's cost and Boreing's leave to shoot it in Hungary.
 
 **N-10450** Fort Huachuca PR Response Coordination Question
 
-The host's group text to Strife and Kolvet about back-channel messaging through YouTubers.
+The host's group text to Streiff and Kolvet about back-channel messaging through YouTubers.
 
 *Related: C-3907, A-2549.2*
 
@@ -970,7 +970,7 @@ Investigative Direction: Obtain the original image file and its metadata, and co
 
 ---
 
-**C-3907** Host's December 27 group text to Strife and Kolvet on Mitch Snow's Harpole sighting
+**C-3907** Host's December 27 group text to Streiff and Kolvet on Mitch Snow's Harpole sighting
 
 Claim Timestamp: 00:19:59
 

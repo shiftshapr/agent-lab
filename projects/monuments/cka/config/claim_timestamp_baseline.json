@@ -1,4 +1,16 @@
 {
- "_doc": "Claims whose timestamp falls outside the transcript block of its snippet, recorded when the check was introduced. Fix and remove; never add.",
- "claims": []
+ "_doc": "Claims whose timestamp is off their snippet's spoken time. Only ep11 remains: its transcript has gaps and no markers after 00:49:16, so these wait for the ROADMAP 2 re-fetch. Fix and remove; never add.",
+ "claims": [
+  "C-13860",
+  "C-13861",
+  "C-13862",
+  "C-13863",
+  "C-13864",
+  "C-13865",
+  "C-13866",
+  "C-13867",
+  "C-13868",
+  "C-13869",
+  "C-13870"
+ ]
 }

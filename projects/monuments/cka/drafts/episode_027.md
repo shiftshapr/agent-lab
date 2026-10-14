@@ -1320,7 +1320,7 @@ Investigative Direction: Compare Podscribe ranking data for the date with any ad
 
 **C-9585** Host Says Daily Wire Leaders Fired Her
 
-Claim Timestamp: 00:02:10
+Claim Timestamp: 00:03:29
 
 Claim: The host says Ben Shapiro and Jeremy Boreing fired her, thanking them sarcastically for the firing and its publicity.
 
@@ -1698,7 +1698,7 @@ Investigative Direction: Collect dated interviews and posts from TPUSA staff on 
 
 **C-9609** Host Says Charlie Went to Mass Sometimes Daily and Died With the Pendant
 
-Claim Timestamp: 00:30:15
+Claim Timestamp: 00:31:41
 
 Claim: The host says she would have told Allie Beth Stuckey privately that Charlie was going to Mass sometimes daily, was going on Sundays, and died with the pendant.
 
@@ -2065,7 +2065,7 @@ Investigative Direction: Check the tribute episode's monetization status in YouT
 
 **C-9632** Host Says Alex Clark Merely Postponed Ads and Made Them Up Later
 
-Claim Timestamp: 00:48:47
+Claim Timestamp: 00:50:01
 
 Claim: The host says Alex Clark did not decline the ads but postponed reading them and said she made them up later.
 

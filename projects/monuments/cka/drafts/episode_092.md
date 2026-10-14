@@ -839,7 +839,7 @@ Co-owner of the 888 plane per the host and runs a charity she lists.
 
 **N-204** Shirlene Maxfield
 
-Transcribed Chellain; co-owner of the 888 plane and charity per the host.
+Transcribed Shirlene; co-owner of the 888 plane and charity per the host.
 
 *Related: C-11416*
 
@@ -2046,7 +2046,7 @@ Claim Timestamp: 00:46:09
 
 Claim: The host says the Maxfields, whose plane left for Page, Arizona that day, run a child abuse and trafficking charity, which she lists in her connecting-themes spreadsheet.
 
-Transcript Snippet: Derek and Chellain Maxfield, that was that plane that left and went to Paige, Arizona that day. They run a child abuse charity um a trafficking charity uh Sapria
+Transcript Snippet: Derek and Shirlene Maxfield, that was that plane that left and went to Paige, Arizona that day. They run a child abuse charity um a trafficking charity uh Sapria
 
 Anchored Artifacts: A-3132.1
 Mentions: N-94, N-204, N-3
@@ -2075,7 +2075,7 @@ Investigative Direction: Obtain Army and court records for the charge against Bu
 
 **C-11418** Host Says Greg Laurie's Harvest Church Is Accused of Trafficking Children From Romania
 
-Claim Timestamp: 00:46:09
+Claim Timestamp: 00:47:24
 
 Claim: The host says Greg Laurie, with whom Erika Kirk went on tour, leads Harvest Church, which she says is currently accused of trafficking children from Romania.
 
@@ -2091,7 +2091,7 @@ Investigative Direction: Review the lawsuit filings against Harvest Christian Fe
 
 **C-11419** Host Says George Zinn Was Arrested With Pornographic Images of Children
 
-Claim Timestamp: 00:46:09
+Claim Timestamp: 00:47:35
 
 Claim: The host says George Zinn, whom she calls the decoy boy, was arrested for having pornographic images of children on his phone.
 
@@ -2108,7 +2108,7 @@ Investigative Direction: Obtain the Zinn charging documents and booking records.
 
 **C-11420** Host Says Andrew Piscatello Raises Alarms on Military Ukrainian Sex Trafficking
 
-Claim Timestamp: 00:46:09
+Claim Timestamp: 00:47:41
 
 Claim: The host says Andrew Piscatello, who was detained that day, works to raise the alarm on military Ukrainian sex trafficking in the United States.
 
@@ -2125,7 +2125,7 @@ Investigative Direction: Obtain Piscatello's public statements on the subject an
 
 **C-11421** Host Says Calvary Chapel Is Riddled With Pastor Abuse Stories
 
-Claim Timestamp: 00:46:09
+Claim Timestamp: 00:47:51
 
 Claim: The host says Calvary Chapel Church is riddled with pastor abuse stories, and puts Rob McCoy aside from that list.
 
@@ -2142,7 +2142,7 @@ Investigative Direction: Compile court and press records on Calvary Chapel pasto
 
 **C-11422** Host Says Tim Ballard's Name Came Up Early as Someone Being Met That Day
 
-Claim Timestamp: 00:46:09
+Claim Timestamp: 00:47:57
 
 Claim: The host says Glenn Beck and Tim Ballard are connected through Operation Underground Railroad, and that Ballard's name came up early as someone who was being met that day.
 
@@ -2291,7 +2291,7 @@ Investigative Direction: Review the court filings and forensic evidence for any 
 
 **C-11431** Host Says Erika Declined Burial Details Because People Would Come Destroy the Grave
 
-Claim Timestamp: 00:54:46
+Claim Timestamp: 00:56:35
 
 Claim: The host says Erika Kirk cannot or will not share where Charlie Kirk is buried because she says people would come and try to destroy the site.
 
@@ -2307,7 +2307,7 @@ Investigative Direction: Find Erika Kirk's own public statements on the burial s
 
 **C-11432** Host Says She Wonders Whether Charlie Was Cremated
 
-Claim Timestamp: 00:54:46
+Claim Timestamp: 00:56:28
 
 Claim: The host says she occasionally asks herself whether Charlie Kirk was cremated and that it is starting to make sense to her that they would have.
 

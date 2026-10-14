@@ -1968,7 +1968,7 @@ Investigative Direction: Obtain call logs for Mikey McCoy and Erika Kirk coverin
 
 **C-9558** Host Says Mikey Made Three Calls Including One to His Wife Who Screamed at the Office
 
-Claim Timestamp: 00:41:08
+Claim Timestamp: 00:42:27
 
 Claim: The host says she knows for a fact that Mikey McCoy made three early calls, not two, including one to his wife Elizabeth McCoy, who screamed at the office.
 

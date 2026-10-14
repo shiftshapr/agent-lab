@@ -76,7 +76,7 @@ A CKA PR is green when all of these pass. This is what `.github/workflows/cka-ga
 - `hostile_hard_gates.py --monument cka` with 0 P0 and 0 P1
 - `dia_preflight.py --monument bride_of_charlie` PASS
 - `pytest projects/monuments/scripts`
-- `check_claim_timestamps.py`: every claim's timestamp lies within 60s of the transcript block holding its snippet (nearest occurrence), so its `?t=` link lands on the words. Known drift goes in `config/claim_timestamp_baseline.json` (empty; never add to it)
+- `check_claim_timestamps.py`: every claim's timestamp is at most 20s after and 75s before the estimated spoken time of its snippet (interpolated inside transcript blocks; nearest occurrence), so its `?t=` link lands on the words. Set new timestamps about 5s before the words. Known drift is in `config/claim_timestamp_baseline.json` (ep11 only, pending re-fetch; never add to it)
 - **Derived files are fresh.** Rerunning `apply_name_corrections.py`, `sync_claim_tags.py` and the companion generator changes nothing (`generated_at` aside).
 
 Stacked PRs are retargeted to `main` before merging, so no commit is stranded on a merged branch. Use merge commits. `main` is protected: the "CKA gates" check is required, and admins may bypass only in an emergency.

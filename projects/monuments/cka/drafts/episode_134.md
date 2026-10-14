@@ -1138,7 +1138,7 @@ Investigative Direction: Identify the show and speakers, and obtain the court ex
 
 **C-7418** Host Says Courtroom Influencers Earlier Claimed the Footage Was 4K and Tyler
 
-Claim Timestamp: 00:12:19
+Claim Timestamp: 00:13:36
 
 Claim: The host says the same courtroom influencers whom the show platformed earlier said the footage was in 4K and that the person was Tyler Robinson.
 
@@ -1767,7 +1767,7 @@ Investigative Direction: Review the hospital records and treatment timeline.
 
 **C-7457** Host Says She Believes the Microphone Exploded on Charlie
 
-Claim Timestamp: 00:35:25
+Claim Timestamp: 00:37:12
 
 Claim: The host says she believes the microphone exploded on Charlie, and that hemorrhaging could come from blunt force trauma to the heart.
 
@@ -1783,7 +1783,7 @@ Investigative Direction: Examine the microphone, shirt and chest injuries for bl
 
 **C-7458** Host Says Chest Bruising Would Tell More of the Story
 
-Claim Timestamp: 00:35:25
+Claim Timestamp: 00:37:04
 
 Claim: The host says it would be informative to know whether Charlie had bruising on his chest.
 
@@ -1799,7 +1799,7 @@ Investigative Direction: Review autopsy photographs and external examination not
 
 **C-7459** Host Says She Has Ruled Out the Lozi Rooftop Person Having Shot Charlie
 
-Claim Timestamp: 00:35:25
+Claim Timestamp: 00:37:16
 
 Claim: The host says she has fully ruled out any chance that the person on the Lozi roof shot Charlie in the neck.
 
@@ -1816,7 +1816,7 @@ Investigative Direction: Reconstruct the shot geometry and compare with the roof
 
 **C-7460** Host Says the Rooftop Man Was a Military Decoy Tasked With Running
 
-Claim Timestamp: 00:35:25
+Claim Timestamp: 00:37:50
 
 Claim: The host says she thinks the person on the roof was a military man tasked with being an acrobat, one of several decoys tasked with running.
 

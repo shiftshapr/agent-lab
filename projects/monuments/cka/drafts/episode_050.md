@@ -1249,7 +1249,7 @@ Investigative Direction: Retrieve the Rubin and host exchange on X from November
 
 **C-5369** Boreing says the host liked a post calling Netanyahu a war criminal within 24 hours
 
-Claim Timestamp: 00:12:45
+Claim Timestamp: 00:14:15
 
 Claim: In the replayed town hall video, Jeremy Boreing says that within 24 hours the host liked a post calling Israeli Prime Minister Benjamin Netanyahu a war criminal.
 
@@ -1578,7 +1578,7 @@ Investigative Direction: Obtain the incident report and any Army or Fort Huachuc
 
 **C-5391** Host says only the identifications and the hotel couple remain open to debunking
 
-Claim Timestamp: 00:31:28
+Claim Timestamp: 00:32:56
 
 Claim: The host says everything else about Mitch's account is verified and that she is looking only for someone to debunk the identification of the congressman and the couple seen at the Candlewood Inn and Suites.
 
@@ -1686,7 +1686,7 @@ Investigative Direction: Verify Amodei's whereabouts the night of September 8 an
 
 **C-5398** Host says she messaged Brian Harpole twice and got no response
 
-Claim Timestamp: 00:36:36
+Claim Timestamp: 00:37:52
 
 Claim: The host says she reached out to Brian Harpole twice by iMessage, knows the message was received, and got no response.
 

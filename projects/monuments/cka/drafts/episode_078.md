@@ -2554,7 +2554,7 @@ Investigative Direction: Locate the interview in which Buckman describes her mot
 
 **C-12743** Host Says the Buckman Family Has Factories in Tennessee
 
-Claim Timestamp: 00:56:21
+Claim Timestamp: 00:57:42
 
 Claim: The host says the Buckman family has factories in Tennessee, though not the specific one that blew up.
 

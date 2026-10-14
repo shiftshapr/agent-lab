@@ -1405,7 +1405,7 @@ Investigative Direction: Compare the prosecution's evidence list at the prelimin
 
 **C-9226** Host says the left and right sensed something off with the widow, the administration and the fireworks
 
-Claim Timestamp: 00:17:59
+Claim Timestamp: 00:19:47
 
 Claim: The host says people on both left and right sensed almost immediately that something was off with the widow, the administration and the fireworks, based on gut instinct and without knowing anything about Erika Kirk.
 
@@ -1421,7 +1421,7 @@ Investigative Direction: Collect early public reaction posts from the days after
 
 **C-9227** Host says the internet push follows the Pentagon's failure to cover its tracks on the assassination
 
-Claim Timestamp: 00:17:59
+Claim Timestamp: 00:19:23
 
 Claim: The host gives her opinion that officials will seek to regulate the internet because of the Pentagon's astonishing failure to cover its own tracks regarding the assassination of Charlie Kirk, and that women are blamed because they did not accept Erika Kirk's performance.
 

@@ -2185,7 +2185,7 @@ Investigative Direction: Locate the 2018 tweet in Kirk's archive and compare its
 
 **C-10493** Host Says Blake Neff Offered to Throw Money Toward a Wilson-Candace Debate
 
-Claim Timestamp: 00:50:30
+Claim Timestamp: 00:51:53
 
 Claim: The host says Blake Neff instantly said he would love to throw money towards Wilson debating Candace, which she takes as a co-sign from Turning Point USA.
 

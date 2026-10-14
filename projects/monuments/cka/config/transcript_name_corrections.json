@@ -1317,6 +1317,50 @@
     [
       "\\bWed (?:Makmoud|Machmood|Makmood)\\b",
       "Wed Mahmoud"
+    ],
+    [
+      "\\bStrife\\b",
+      "Streiff",
+      [
+        10,
+        39,
+        51,
+        68,
+        86,
+        100,
+        104,
+        112
+      ]
+    ],
+    [
+      "\\bKuchta\\b",
+      "Cuccia",
+      [
+        109
+      ]
+    ],
+    [
+      "\\bRo[bn]kea\\b",
+      "Rob Skiba",
+      [
+        68,
+        69
+      ]
+    ],
+    [
+      "\\bSteve Quail\\b",
+      "Steve Quayle",
+      [
+        69
+      ]
+    ],
+    [
+      "\\bChellain\\b",
+      "Shirlene",
+      [
+        92,
+        155
+      ]
     ]
   ]
 }

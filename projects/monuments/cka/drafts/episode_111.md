@@ -817,7 +817,7 @@ Investigative Direction: Archive the original Loomer post with its timestamp and
 
 **C-4330** American security staffer collapsed on the second day in Russia
 
-Claim Timestamp: 00:07:43
+Claim Timestamp: 00:09:29
 
 Claim: The host says that on their second day in Russia the family's American former-military security member collapsed at breakfast, and that their European security member suspected a stroke and urged them to call paramedics.
 
@@ -889,7 +889,7 @@ Investigative Direction: Confirm the staffer's current status through his family
 
 **C-4335** Headline says Congress is moving to merge the US military closer to Israel's
 
-Claim Timestamp: 00:14:26
+Claim Timestamp: 00:16:13
 
 Claim: The host says a trending headline reported that Congress was discreetly moving to merge the US military even closer to Israel's.
 
@@ -904,7 +904,7 @@ Investigative Direction: Locate the article and the legislative provision it des
 
 **C-4336** Thomas Massie announced an honor for USS Liberty survivors
 
-Claim Timestamp: 00:14:26
+Claim Timestamp: 00:16:22
 
 Claim: The host says Thomas Massie announced that he was doing something to honor the survivors of the USS Liberty, and that her interview with survivor Phil Tourney went viral.
 

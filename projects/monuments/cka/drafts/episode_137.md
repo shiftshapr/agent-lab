@@ -1130,7 +1130,7 @@ Investigative Direction: Ask Senator Lee's office and TPUSA for the event invita
 
 **C-7489** Host Says Lee Cancelled Early That Week Because of NDAA Votes
 
-Claim Timestamp: 00:09:13
+Claim Timestamp: 00:10:25
 
 Claim: The host says that, as the DC story goes, Senator Lee cancelled early in the week because votes on the National Defense Authorization Act were taking place in Washington, and that TPUSA knew he was coming.
 
@@ -1161,7 +1161,7 @@ Investigative Direction: Check Lee's official biography for his birthplace and h
 
 **C-7491** Host Says Her UVU Source Says Lee Was Contacted After the Assassination About Something Unusual the Day Before
 
-Claim Timestamp: 00:09:13
+Claim Timestamp: 00:10:37
 
 Claim: The host says a source who talked to UVU told her that after the assassination Mike Lee was contacted because of something unusual that took place on campus the day before the shooting, after he had already cancelled.
 
@@ -1209,7 +1209,7 @@ Investigative Direction: Ask Lee's Senate office whether any staff or security a
 
 **C-7494** Host Says the Scoper Knew Enough to Offer a Plausible Cover Story and That Few People Had the Attendee List
 
-Claim Timestamp: 00:10:58
+Claim Timestamp: 00:12:11
 
 Claim: The host says the person on campus had enough information to give a legitimate-sounding excuse, and that only a small group would have known the attendee list, a group she argues would not include Tyler Robinson.
 
@@ -1338,7 +1338,7 @@ Investigative Direction: Retrieve the September 15, 2025 Patel and Bongino state
 
 **C-7502** Host Says Bagley's Body Cam Died Without the Expected Warning Beeps or Red Flashing
 
-Claim Timestamp: 00:17:01
+Claim Timestamp: 00:18:22
 
 Claim: The host says Officer Bagley's body cam died seemingly without warning at the right time, and that there should have been beeping or flashing red before it shut off.
 
@@ -1438,7 +1438,7 @@ Investigative Direction: Obtain Robertson's San Bernardino employment separation
 
 **C-7508** Host Says Robertson and His Partner Were at UVU on a Threat Assessment for a USU Event 10 Days Later
 
-Claim Timestamp: 00:23:21
+Claim Timestamp: 00:24:54
 
 Claim: The host says Allan Robertson and his partner from Utah State University police were on the Losee rooftop area because they were doing a threat assessment for a Charlie Kirk event planned at USU 10 days later, not in coordination with Charlie's security or UVU police.
 
@@ -1455,7 +1455,7 @@ Investigative Direction: Obtain the USU police event-planning records and reques
 
 **C-7509** Host Says Robertson's Presence Required Police Reports and Bagley Could Have Identified Them
 
-Claim Timestamp: 00:23:21
+Claim Timestamp: 00:25:47
 
 Claim: The host says that because of their presence the USU officers would have had to file police reports and were in communication with Bagley's chief on video, so it makes no sense that Bagley pretends he could not find out who they were.
 
@@ -1472,7 +1472,7 @@ Investigative Direction: Request the USU and UVU police reports from September 1
 
 **C-7510** Host Says No Email Defended Bagley and Her Gut Says He Could Have Answered More
 
-Claim Timestamp: 00:23:21
+Claim Timestamp: 00:26:23
 
 Claim: The host says that among the many emails about Christopher Bagley and his history none defended him, and her gut tells her he could have answered more questions on the stand if he had wanted to.
 
@@ -1603,7 +1603,7 @@ Investigative Direction: Obtain hotel registration or invoice records for the TP
 
 **C-7518** Host Says Internet Sleuths Located the Hotel From Kolvet's Background and Tied Tyler Bowyer Too
 
-Claim Timestamp: 00:32:57
+Claim Timestamp: 00:34:17
 
 Claim: The host says internet sleuths tracked the hotel from the background of Andrew Kolvet's September 11 Benny Johnson hit and also tied Tyler Bowyer to it, comparing the process to the documentary Don't F with Cats.
 
@@ -1732,7 +1732,7 @@ Investigative Direction: Treat as the host's stated religious belief; no records
 
 **C-7526** Host Says Government That Lied About the School Could Cover Up Charlie Kirk's Murder
 
-Claim Timestamp: 00:40:35
+Claim Timestamp: 00:42:07
 
 Claim: The host says that if people who lie like this about the school strike would be incapable of hiding up the murder of Charlie Kirk, they just killed 150 kids and did not blink when they lied.
 
@@ -1748,7 +1748,7 @@ Investigative Direction: Treat as the host's analogy; compare government denials
 
 **C-7527** Host Says the US Has Struck Iranian Bridges and Water Supplies
 
-Claim Timestamp: 00:40:35
+Claim Timestamp: 00:41:46
 
 Claim: The host says the United States has been bombing Iran's bridges and striking its water so people cannot drink, and that this is uniting Iranians rather than producing protesters to arm.
 
@@ -1828,7 +1828,7 @@ Investigative Direction: Obtain burial or cremation records and funeral home sta
 
 **C-7532** Host Says TPUSA's First Response to the Rooftop Footage Was to Debunk It
 
-Claim Timestamp: 00:49:05
+Claim Timestamp: 00:50:19
 
 Claim: The host says that instead of thanking her for releasing the rooftop footage, TPUSA-side responders tried to debunk it with remarks like 'a baby could do that crawl', and that a normal person would see the man as experienced.
 

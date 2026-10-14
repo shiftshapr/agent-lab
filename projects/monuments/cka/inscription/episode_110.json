@@ -1876,9 +1876,10 @@
         "N-10669"
       ],
       "tags": [],
-      "claim_timestamp": "00:16:40",
+      "claim_timestamp": "00:16:20",
       "investigative_direction": "Confirm $4M figure against leaked internal documents referenced by Financial Times.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "transcript_snippet": "Over 7 months, the project evolved into a fully build consulting contract reportedly worth $4 million."
     },
     {
       "@type": "Claim",

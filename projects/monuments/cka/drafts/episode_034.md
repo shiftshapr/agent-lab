@@ -1879,7 +1879,7 @@ Investigative Direction: Check the site for unsigned copies and the listing.
 
 **C-4974** Host Previews a Picture Explaining Why SU-BND May Have Transponded Without Moving at Duncan Aviation
 
-Claim Timestamp: 00:52:52
+Claim Timestamp: 00:54:21
 
 Claim: The host says in the coming episode she will show a picture bearing on why the SU-BND jet might have been transponding without moving at Duncan Aviation.
 

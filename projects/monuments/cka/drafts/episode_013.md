@@ -1354,7 +1354,7 @@ Investigative Direction: Obtain independent attendee statements; compare against
 
 **C-3754** Host says old photos show a younger Tyler Robinson visiting his uncle Mikey, whom she links to a Ukrainian battalion
 
-Claim Timestamp: 00:17:50
+Claim Timestamp: 00:19:27
 
 Claim: The host says it is a fact that there are old photos of a younger Tyler Robinson visiting his "uncle Mikey", who she says works with a Ukrainian battalion and is a military man; she adds that she cannot confirm the uncle is Mike Mitchell and that this is still theory territory.
 
@@ -1671,7 +1671,7 @@ Investigative Direction: Verify the Robbie Hild identity through school, social 
 
 **C-10790** Host passes on a viewer saying the UVU president majored in Soviet studies
 
-Claim Timestamp: 00:17:50
+Claim Timestamp: 00:19:15
 
 Claim: The host says one viewer wrote that UVU has an unusual dedication and that its president majored in Soviet studies, which the host calls a direct pipeline from Russia to America.
 
@@ -1687,7 +1687,7 @@ Investigative Direction: Check the UVU president's published biography and degre
 
 **C-10791** Host says she has a hunch the shooting was a military operation by people from overseas
 
-Claim Timestamp: 00:17:50
+Claim Timestamp: 00:19:55
 
 Claim: The host says she has a stronger-than-theory hunch that the killing was a military operation and that the people who executed it are from overseas, while saying she is still in theory territory.
 
@@ -1703,7 +1703,7 @@ Investigative Direction: Identify any documentary evidence for foreign operative
 
 **C-10792** Host cites New York Times reporting on Russian and Ukrainian spies with new IDs
 
-Claim Timestamp: 00:17:50
+Claim Timestamp: 00:20:32
 
 Claim: The host says the New York Times has reported on Russian and Ukrainian spies building new lives with new IDs in America and in Brazil.
 
@@ -1719,7 +1719,7 @@ Investigative Direction: Locate the New York Times article the host refers to.
 
 **C-10793** Host says UVU has strong ties to the CIA
 
-Claim Timestamp: 00:17:50
+Claim Timestamp: 00:20:13
 
 Claim: The host says that UVU has strong ties to the CIA.
 
@@ -2004,7 +2004,7 @@ Investigative Direction: Obtain the text message and compare it with the Kisin p
 
 **C-10811** Host says Dave Rubin and others reacted to her Blumenthal retweet
 
-Claim Timestamp: 00:35:51
+Claim Timestamp: 00:37:04
 
 Claim: The host says that when she retweeted Max Blumenthal, agents such as Dave Rubin told her she did not see what she had done.
 
@@ -2318,7 +2318,7 @@ Investigative Direction: Authenticate the letter and trace its release.
 
 **C-10831** Host says she knows who had access to Charlie's laptop
 
-Claim Timestamp: 00:47:19
+Claim Timestamp: 00:48:31
 
 Claim: The host says she knows who had access to Charlie's laptop, has questions about that and will wait for a financial report.
 
@@ -2334,7 +2334,7 @@ Investigative Direction: Identify the laptop custodian and access logs.
 
 **C-10832** Host says she has question marks about people at TPUSA
 
-Claim Timestamp: 00:47:19
+Claim Timestamp: 00:48:40
 
 Claim: The host says she has question marks about a couple of people at Turning Point USA.
 
@@ -2350,7 +2350,7 @@ Investigative Direction: Ask which people.
 
 **C-10833** Host says pastors take money from an agent of Israel such as IFCJ
 
-Claim Timestamp: 00:47:19
+Claim Timestamp: 00:48:55
 
 Claim: The host says pastors who say they take no money from Israel take money from an agent of Israel or an organization like the International Fellowship of Christians and Jews.
 
@@ -2366,7 +2366,7 @@ Investigative Direction: Review IFCJ grants and donor filings.
 
 **C-10834** Host says IFCJ gathers pastors and pays off people
 
-Claim Timestamp: 00:47:19
+Claim Timestamp: 00:49:17
 
 Claim: The host says IFCJ has people gathering pastors and paying off people.
 

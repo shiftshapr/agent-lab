@@ -59,13 +59,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1739",
       "family_ref": "A-1739",
-      "bundle_name": "Robkea Babylon Rising Lecture Clip Bundle",
+      "bundle_name": "Rob Skiba Babylon Rising Lecture Clip Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1739.1",
           "ref": "A-1739.1",
-          "description": "Robkea segment on Mount Hermon / Book of Enoch / 33.33° coordinates",
+          "description": "Rob Skiba segment on Mount Hermon / Book of Enoch / 33.33° coordinates",
           "related_claims": [
             "C-2300",
             "C-2311"
@@ -82,7 +82,7 @@
           "@type": "Artifact",
           "@id": "A-1739.2",
           "ref": "A-1739.2",
-          "description": "Robkea segment on Gilgamesh / CERN / 666",
+          "description": "Rob Skiba segment on Gilgamesh / CERN / 666",
           "related_claims": [
             "C-2301",
             "C-2311"
@@ -107,7 +107,7 @@
           "@type": "Artifact",
           "@id": "A-1740.1",
           "ref": "A-1740.1",
-          "description": "Tom Horn and Steve Quail segment on Gilgamesh remains extraction",
+          "description": "Tom Horn and Steve Quayle segment on Gilgamesh remains extraction",
           "related_claims": [
             "C-2302",
             "C-2303"
@@ -371,7 +371,7 @@
       "@type": "Person",
       "@id": "N-547",
       "ref": "N-547",
-      "name": "Robkea",
+      "name": "Rob Skiba",
       "type": "person",
       "description": "Lecturer whose \"Babylon Rising\" speech is played at length in this episode; posits Tower of Babel as technology, Mount Hermon at 33.33°N 33.33°E as fallen-angel landing site, Gilgamesh/Nimrod identification, and CERN/666 symbolism. Host reports an email from the lecturer's son thanking her.",
       "related_artifacts": [
@@ -420,7 +420,7 @@
       "@type": "Person",
       "@id": "N-553",
       "ref": "N-553",
-      "name": "Steve Quail",
+      "name": "Steve Quayle",
       "type": "person",
       "description": "Radio co-host cited via Omega Man Radio clip; asserts human genome project was oriented toward genetic markers for disembodied spirits reanimating Nimrod/Gilgamesh.",
       "related_artifacts": [
@@ -444,7 +444,7 @@
       "ref": "N-554",
       "name": "David Flynn",
       "type": "person",
-      "description": "Researcher cited by Robkea as having identified the Mount Hermon coordinate (33.33°N 33.33°E from Paris prime meridian) and the \"devil's line.\" Reported by Robkea as recently deceased.",
+      "description": "Researcher cited by Rob Skiba as having identified the Mount Hermon coordinate (33.33°N 33.33°E from Paris prime meridian) and the \"devil's line.\" Reported by Rob Skiba as recently deceased.",
       "related_artifacts": [
         "A-1739.1"
       ],
@@ -635,7 +635,7 @@
       "ref": "N-10489",
       "name": "Mount Hermon 33.33° Coordinate Investigation",
       "type": "investigation_target",
-      "description": "Persistent target. Robkea's lecture posits fallen-angel landing coordinate of 33.33°N 33.33°E from Paris prime meridian, citing David Flynn.",
+      "description": "Persistent target. Rob Skiba's lecture posits fallen-angel landing coordinate of 33.33°N 33.33°E from Paris prime meridian, citing David Flynn.",
       "related_artifacts": [
         "A-1739.1"
       ],
@@ -652,7 +652,7 @@
       "ref": "N-10490",
       "name": "Gilgamesh Remains DNA Extraction Claim",
       "type": "investigation_target",
-      "description": "Persistent target. Tom Horn / Steve Quail assert U.S. military recovered Gilgamesh remains in \"remarkable preservation\" and that human genome project aimed to \"reanimate\" via genetic markers.",
+      "description": "Persistent target. Tom Horn / Steve Quayle assert U.S. military recovered Gilgamesh remains in \"remarkable preservation\" and that human genome project aimed to \"reanimate\" via genetic markers.",
       "related_artifacts": [
         "A-1740.1"
       ],
@@ -1435,8 +1435,8 @@
       "@type": "Claim",
       "@id": "C-2300",
       "ref": "C-2300",
-      "label": "Robkea posits Mount Hermon as the 33.33°N × 33.33°E landing site of 200 fallen angels",
-      "claim": "In a lecture clip, Robkea states that the Book of Enoch identifies 200 Watchers / fallen angels as landing at Mount Hermon in southern Lebanon, and that David Flynn identified this location as 33.33°N by 33.33°E from the Paris prime meridian.",
+      "label": "Rob Skiba posits Mount Hermon as the 33.33°N × 33.33°E landing site of 200 fallen angels",
+      "claim": "In a lecture clip, Rob Skiba states that the Book of Enoch identifies 200 Watchers / fallen angels as landing at Mount Hermon in southern Lebanon, and that David Flynn identified this location as 33.33°N by 33.33°E from the Paris prime meridian.",
       "anchored_artifacts": [
         "A-1739.1"
       ],
@@ -1455,8 +1455,8 @@
       "@type": "Claim",
       "@id": "C-2301",
       "ref": "C-2301",
-      "label": "Robkea posits Gilgamesh as 2/3 God and 1/3 man and links CERN's logo to 666",
-      "claim": "Robkea states that Gilgamesh was described as two-thirds God and one-third man, that the carbon molecule's 6/6/6 structure equates to the number of man, and that CERN's logo resembles three stacked 6s.",
+      "label": "Rob Skiba posits Gilgamesh as 2/3 God and 1/3 man and links CERN's logo to 666",
+      "claim": "Rob Skiba states that Gilgamesh was described as two-thirds God and one-third man, that the carbon molecule's 6/6/6 structure equates to the number of man, and that CERN's logo resembles three stacked 6s.",
       "anchored_artifacts": [
         "A-1739.2"
       ],
@@ -1494,8 +1494,8 @@
       "@type": "Claim",
       "@id": "C-2303",
       "ref": "C-2303",
-      "label": "Steve Quail asserts human genome project aimed at genetic markers to \"reanimate\" Nimrod/Gilgamesh",
-      "claim": "Steve Quail states on Omega Man Radio that \"the whole point\" of the Iraq dig and the human genome project was to locate genetic markers that would allow disembodied spirits to \"reanimate\" Nimrod/Gilgamesh's host body.",
+      "label": "Steve Quayle asserts human genome project aimed at genetic markers to \"reanimate\" Nimrod/Gilgamesh",
+      "claim": "Steve Quayle says on Omega Man Radio that the point of the Gilgamesh dig was to extract the DNA, and that he has also been told the human genome project aims to locate genetic markers that would let disembodied spirits reanimate their host body.",
       "anchored_artifacts": [
         "A-1740.1"
       ],
@@ -1621,8 +1621,8 @@
       "@type": "Claim",
       "@id": "C-2310",
       "ref": "C-2310",
-      "label": "Angie comment addresses \"Ben\" / \"Benjamin\" as a member of \"team Candace for Life\"",
-      "claim": "A viewer comment (Angie) greets \"Ben\" as part of \"team Candace for Life.\" Host addresses the recipient as \"Benjamin\" and states he watches every episode.",
+      "label": "Host Taunts Ben Shapiro as \"Benjamin\" While Reading a Viewer Comment",
+      "claim": "After reading Angie's comment (\"Hi Ben, team Candace for Life\"), the host addresses Ben Shapiro as \"Benjamin\", saying he watches every episode and produces clips from it.",
       "anchored_artifacts": [
         "A-1743.4"
       ],
@@ -1631,7 +1631,7 @@
       "claim_timestamp": "00:39:16",
       "investigative_direction": "Identify the production-staff role, if any, of \"Benjamin\" referenced by host; resolve the Ben / Benjamin discrepancy.",
       "mentions_person_refs": [
-        "N-556"
+        "N-97"
       ]
     },
     {
@@ -1674,15 +1674,15 @@
       "@type": "Claim",
       "@id": "C-2313",
       "ref": "C-2313",
-      "label": "American Jetet comment endorses Robkea's work and frames the conflict as \"Babylonian ascension\"",
-      "claim": "A viewer comment (American Jetet) endorses Robkea's work and frames the underlying conflict as a millennia-long battle over \"Babylonian ascension.\"",
+      "label": "American Jetet comment endorses Rob Skiba's work and frames the conflict as \"Babylonian ascension\"",
+      "claim": "A viewer comment (American Jetet) endorses Rob Skiba's work and frames the underlying conflict as a millennia-long battle over \"Babylonian ascension.\"",
       "anchored_artifacts": [
         "A-1743.7"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:23",
-      "investigative_direction": "Document the convergence of host and viewer framing; assess whether \"Babylonian ascension\" originates with Robkea, Flynn, or earlier esoteric sources.",
+      "investigative_direction": "Document the convergence of host and viewer framing; assess whether \"Babylonian ascension\" originates with Rob Skiba, Flynn, or earlier esoteric sources.",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-547"
@@ -1788,7 +1788,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:01:00",
+      "claim_timestamp": "00:02:54",
       "investigative_direction": "Check 23andMe's founding and launch dates and its bankruptcy filing; the host's causal framing is her own inference.",
       "transcript_snippet": "in 2005, the now bankrupt company 23 andMe came together where people began sending in those DNA kits to figure out their ancestry.",
       "mentions_person_refs": [
@@ -1808,7 +1808,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:01:00",
+      "claim_timestamp": "00:02:46",
       "investigative_direction": "Identify any record of an extraction by US forces; the German geophysicist survey cited in earlier episodes (C-2291) reported a location, not an extraction.",
       "transcript_snippet": "we invaded, as I mentioned yesterday, mid 2003 and we extracted Gilgamesh, Gilgamesh's tomb roughly two years later.",
       "mentions_person_refs": [
@@ -1819,16 +1819,16 @@
       "@type": "Claim",
       "@id": "C-12593",
       "ref": "C-12593",
-      "label": "Host Says Robkea Wrote Babylon Rising and the Material Reached Her by Email Tip",
-      "claim": "The host says Robkea wrote a book entitled Babylon Rising and that the material came to her from an email tip.",
+      "label": "Host Says Rob Skiba Wrote Babylon Rising and the Material Reached Her by Email Tip",
+      "claim": "The host says Rob Skiba wrote a book entitled Babylon Rising and that the material came to her from an email tip.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
         "relevance:tangential"
       ],
       "claim_timestamp": "00:03:10",
-      "investigative_direction": "Confirm the author's real name and the book's publication details; the transcript spelling 'Robkea' is probably a mis-transcription.",
-      "transcript_snippet": "I mentioned to you guys this man named Robkea yesterday. He wrote a book entitled Babylon Rising.",
+      "investigative_direction": "Confirm the author's real name and the book's publication details; the transcript spelling 'Rob Skiba' is probably a mis-transcription.",
+      "transcript_snippet": "I mentioned to you guys this man named Rob Skiba yesterday. He wrote a book entitled Babylon Rising.",
       "mentions_person_refs": [
         "N-547",
         "N-3"
@@ -1838,8 +1838,8 @@
       "@type": "Claim",
       "@id": "C-12594",
       "ref": "C-12594",
-      "label": "Host Says It Is Alleged Robkea Was Murdered for His Research",
-      "claim": "The host says it is alleged that Robkea was murdered for the research he was putting together, because he was perhaps getting too close to the elites' ultimate project.",
+      "label": "Host Says It Is Alleged Rob Skiba Was Murdered for His Research",
+      "claim": "The host says it is alleged that Rob Skiba was murdered for the research he was putting together, because he was perhaps getting too close to the elites' ultimate project.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1856,8 +1856,8 @@
       "@type": "Claim",
       "@id": "C-12595",
       "ref": "C-12595",
-      "label": "Host Says Robkea's Son Emailed Her to Thank Her",
-      "claim": "The host says Robkea's son emailed her the previous day thanking her for bringing up his father and for his father's work continuing.",
+      "label": "Host Says Rob Skiba's Son Emailed Her to Thank Her",
+      "claim": "The host says Rob Skiba's son emailed her the previous day thanking her for bringing up his father and for his father's work continuing.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1893,15 +1893,15 @@
       "@type": "Claim",
       "@id": "C-12597",
       "ref": "C-12597",
-      "label": "Host Says Robkea Posits the Tower of Babel Was a Technology to Reach the Heavenly Realm",
-      "claim": "The host says Robkea theorises that the Tower of Babel was a technology built to get back into the heavenly realm rather than a problem of height.",
+      "label": "Host Says Rob Skiba Posits the Tower of Babel Was a Technology to Reach the Heavenly Realm",
+      "claim": "The host says Rob Skiba theorises that the Tower of Babel was a technology built to get back into the heavenly realm rather than a problem of height.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
         "relevance:tangential"
       ],
       "claim_timestamp": "00:04:38",
-      "investigative_direction": "Locate the lecture and book passage; this is Robkea's theory, presented by the host as what the elites believe.",
+      "investigative_direction": "Locate the lecture and book passage; this is Rob Skiba's theory, presented by the host as what the elites believe.",
       "transcript_snippet": "this tower that was being built was a technology because they wanted to get back into the heavenly realm.",
       "mentions_person_refs": [
         "N-547"
@@ -1911,8 +1911,8 @@
       "@type": "Claim",
       "@id": "C-12598",
       "ref": "C-12598",
-      "label": "Robkea Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Aazil to the Scapegoat",
-      "claim": "In the played clip, Robkea says Mount Hermon's outline forms the shape of a goat and that the fallen angel Aazil is associated with the goat and with the scapegoat of Leviticus chapter 16.",
+      "label": "Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Aazil to the Scapegoat",
+      "claim": "In the played clip, Rob Skiba says Mount Hermon's outline forms the shape of a goat and that the fallen angel Aazil is associated with the goat and with the scapegoat of Leviticus chapter 16.",
       "anchored_artifacts": [
         "A-1739.1"
       ],
@@ -1933,8 +1933,8 @@
       "@type": "Claim",
       "@id": "C-12599",
       "ref": "C-12599",
-      "label": "Robkea Says David Flynn Recently Passed Away",
-      "claim": "In the played clip, Robkea says David Flynn, who identified the Mount Hermon coordinates, recently passed away.",
+      "label": "Rob Skiba Says David Flynn Recently Passed Away",
+      "claim": "In the played clip, Rob Skiba says David Flynn, who identified the Mount Hermon coordinates, recently passed away.",
       "anchored_artifacts": [
         "A-1739.1"
       ],
@@ -1956,8 +1956,8 @@
       "@type": "Claim",
       "@id": "C-12600",
       "ref": "C-12600",
-      "label": "Robkea Says a Line From Mount Hermon to the Paris Meridian Is Called the Devil's Line",
-      "claim": "In the played clip, Robkea says that drawing a line from the Hermon marker to the Paris prime meridian produces what the occult calls the devil's line, and that he checked this himself on Google Earth.",
+      "label": "Rob Skiba Says a Line From Mount Hermon to the Paris Meridian Is Called the Devil's Line",
+      "claim": "In the played clip, Rob Skiba says that drawing a line from the Hermon marker to the Paris prime meridian produces what the occult calls the devil's line, and that he checked this himself on Google Earth.",
       "anchored_artifacts": [
         "A-1739.1"
       ],
@@ -2093,8 +2093,8 @@
       "@type": "Claim",
       "@id": "C-12607",
       "ref": "C-12607",
-      "label": "Host Says Robkea Theorises Nimrod Became Known as Other Names Including Gilgamesh",
-      "claim": "The host says that, in Robkea's theory, once languages were confused Nimrod became known under different names including Baal, Tammuz and Gilgamesh.",
+      "label": "Host Says Rob Skiba Theorises Nimrod Became Known as Other Names Including Gilgamesh",
+      "claim": "The host says that, in Rob Skiba's theory, once languages were confused Nimrod became known under different names including Baal, Tammuz and Gilgamesh.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10480"
@@ -2116,8 +2116,8 @@
       "@type": "Claim",
       "@id": "C-12608",
       "ref": "C-12608",
-      "label": "Host Says Robkea Believes the Elites Are Working to Resurrect Nimrod or Gilgamesh as the Antichrist",
-      "claim": "The host says Robkea believes the elites view Nimrod or Gilgamesh as the Antichrist and are working to resurrect him.",
+      "label": "Host Says Rob Skiba Believes the Elites Are Working to Resurrect Nimrod or Gilgamesh as the Antichrist",
+      "claim": "The host says Rob Skiba believes the elites view Nimrod or Gilgamesh as the Antichrist and are working to resurrect him.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10480"
@@ -2136,8 +2136,8 @@
       "@type": "Claim",
       "@id": "C-12609",
       "ref": "C-12609",
-      "label": "Robkea Says CERN's Stated Objective Is to Recreate the Big Bang",
-      "claim": "In the played clip, Robkea says CERN's stated objective is to recreate the Big Bang and find the God particle.",
+      "label": "Rob Skiba Says CERN's Stated Objective Is to Recreate the Big Bang",
+      "claim": "In the played clip, Rob Skiba says CERN's stated objective is to recreate the Big Bang and find the God particle.",
       "anchored_artifacts": [
         "A-1739.2"
       ],
@@ -2159,7 +2159,7 @@
       "@id": "C-12610",
       "ref": "C-12610",
       "label": "Host Says CERN Has a Shiva Structure",
-      "claim": "The host says it is a fact that CERN has a Shiva statue, which Robkea says stands outside the front door.",
+      "claim": "The host says it is a fact that CERN has a Shiva statue, which Rob Skiba says stands outside the front door.",
       "anchored_artifacts": [
         "A-1739.2"
       ],
@@ -2284,8 +2284,8 @@
       "@type": "Claim",
       "@id": "C-12616",
       "ref": "C-12616",
-      "label": "Host Says the US Began Its Iraq Occupation Phase One Month After the Find",
-      "claim": "The host says the US military started the occupation phase of Iraq one month after the 2003 find of Gilgamesh's body.",
+      "label": "In a Clip the Host Plays, Rob Skiba Says the US Began Its Iraq Occupation Phase One Month After the Find",
+      "claim": "In a clip the host plays, Rob Skiba says the US military started the occupation phase of Iraq one month after the 2003 find of Gilgamesh's body.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10480"
@@ -2297,7 +2297,7 @@
       "investigative_direction": "The transcript does not give a date for the alleged find; compare against the invasion and occupation timeline.",
       "transcript_snippet": "Interesting that the US military started its military occupation phase of Iraq one month later.",
       "mentions_person_refs": [
-        "N-3"
+        "N-547"
       ]
     },
     {
@@ -2391,7 +2391,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:17:40",
+      "claim_timestamp": "00:17:09",
       "investigative_direction": "The source is unnamed; no record cited.",
       "transcript_snippet": "Actually, I I've heard that even that could be uh ancient in terms of what they are trying to get and what they are trying to find.",
       "mentions_person_refs": [

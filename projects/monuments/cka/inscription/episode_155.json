@@ -531,7 +531,7 @@
       "ref": "N-10849",
       "name": "Woodbury Building / Baugh Family / N88 Plane Connection Question",
       "type": "investigation_target",
-      "description": "Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Chellain and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.",
+      "description": "Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Shirlene and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -954,7 +954,7 @@
       "ref": "N-204",
       "name": "Shirlene Maxfield",
       "type": "person",
-      "description": "Co-owner of the N88 plane ('Chellain' in the transcript); Saprea figure.",
+      "description": "Co-owner of the N88 plane ('Shirlene' in the transcript); Saprea figure.",
       "related_artifacts": [],
       "related_claims": [
         "C-11893",
@@ -1882,7 +1882,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:03:41",
+      "claim_timestamp": "00:05:04",
       "investigative_direction": "Request the full UVU campus camera archive for 8:30 to 10:00 a.m. covering both vehicles and their occupants.",
       "transcript_snippet": "we have actually no idea what either of these two people did for an approximate hour and a half on campus",
       "mentions_person_refs": [
@@ -1903,7 +1903,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:03:41",
+      "claim_timestamp": "00:05:11",
       "investigative_direction": "Read the preliminary hearing transcript for Hull's testimony on the TPUSA representative exchange and identify the employee asked.",
       "transcript_snippet": "All we got from the pre preliminary hearing is that Maroon Boy parked went up to a Turning Point USA employee and asked her if this is where the event was going to be held.",
       "mentions_person_refs": [
@@ -1976,7 +1976,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:05:41",
+      "claim_timestamp": "00:07:13",
       "investigative_direction": "Check the hearing transcript for any testimony on tracking the Challenger after 9:33 a.m. and for any off-campus license-plate-reader hits.",
       "transcript_snippet": "Agent Hull doesn't even so much as try to suggest that they tracked Maroon Boy Dodge Challenger off campus.",
       "mentions_person_refs": [
@@ -2018,7 +2018,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:07:25",
+      "claim_timestamp": "00:08:42",
       "investigative_direction": "Request Goforth's bodycam and dispatch records for the after-midnight contact and confirm whether any recording exists.",
       "transcript_snippet": "They've never indicated that he had on body cam footage.",
       "mentions_person_refs": [
@@ -2088,7 +2088,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:13:00",
+      "claim_timestamp": "00:14:20",
       "investigative_direction": "Check the preliminary hearing exhibit list and Hull's testimony for any use of the TMZ 8:07 a.m. footage.",
       "transcript_snippet": "The TMZ footage, which they, for some reason, omitted, actually shows him earlier.",
       "supports_claim_refs": [
@@ -2292,7 +2292,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:16:38",
+      "claim_timestamp": "00:17:54",
       "investigative_direction": "Obtain UVU room reservations, access logs and calendars for the morning of September 10 to see whether any meeting occurred.",
       "transcript_snippet": "I think there could have been a morning meeting that happened at UVU ahead of what was in my opinion a very carefully planned assassination.",
       "mentions_person_refs": [
@@ -2312,7 +2312,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:16:38",
+      "claim_timestamp": "00:18:03",
       "investigative_direction": "Obtain Miss Noble's statement, 911 or tip-line record and the neighborhood surveillance referenced in the warrants.",
       "transcript_snippet": "I think Miss Noble, uh, the neighbor and her husband were telling the truth when she said that she saw a bald man and two other people in a Dodge Challenger",
       "supports_claim_refs": [
@@ -2432,7 +2432,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:19:42",
+      "claim_timestamp": "00:20:53",
       "investigative_direction": "Compare the 11:28 message metadata and device location against the claimed off-campus timeline.",
       "transcript_snippet": "He plays Wordle off campus, sends that score to his friends at 11:28 and then he changes back into his clothes.",
       "supports_claim_refs": [
@@ -2562,7 +2562,7 @@
       "@id": "C-11893",
       "ref": "C-11893",
       "label": "Host Recalls the Maxfields Had to Issue a Statement About the N88 Plane",
-      "claim": "The host says that in the early hours people noticed a plane that used to be owned in Romania, the N88 plane owned by Derek Maxfield and Chellain Maxfield, and that they had to come out and give a statement.",
+      "claim": "The host says that in the early hours people noticed a plane that used to be owned in Romania, the N88 plane owned by Derek Maxfield and Shirlene Maxfield, and that they had to come out and give a statement.",
       "anchored_artifacts": [
         "A-3173.1"
       ],
@@ -2703,7 +2703,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:29:12",
+      "claim_timestamp": "00:30:31",
       "investigative_direction": "Tabulate Boreing's show topics and guests against the host's show dates for a quantitative comparison.",
       "transcript_snippet": "He will then host someone to talk about the topic I'm covering and u take a position on it that is opposite of mine and call me a demon.",
       "mentions_person_refs": [
@@ -2727,7 +2727,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:29:12",
+      "claim_timestamp": "00:31:06",
       "investigative_direction": "Locate Boreing's original post and the live-show clip it references to confirm the connection.",
       "transcript_snippet": "apparently it sounded like I said selfesteem as opposed to self esteem. And so he pulls this second on the show and creates a diagnosis for me.",
       "supports_claim_refs": [
@@ -2775,7 +2775,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:34:27",
+      "claim_timestamp": "00:35:43",
       "investigative_direction": "Seek any contract, sponsorship or payment record between Boreing's company and Turning Point USA.",
       "transcript_snippet": "Germs wants to get paid by Turning Point.",
       "mentions_person_refs": [
@@ -3004,7 +3004,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:40:52",
+      "claim_timestamp": "00:42:21",
       "investigative_direction": "Find Levin's and the second named person's statements calling for state action or lawsuits against the host.",
       "transcript_snippet": "Uh speech censorship that's being platformed, demanded by people like Mark Levin, Andrew Type, people that are asking for the state to get involved um in lawsuits.",
       "mentions_person_refs": [
@@ -3046,7 +3046,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:42:43",
+      "claim_timestamp": "00:44:13",
       "investigative_direction": "Locate the original Loomer post using the post archive and confirm wording and date.",
       "transcript_snippet": "like um Laura Loomer referring to me as a ghetto black",
       "mentions_person_refs": [

@@ -99,7 +99,7 @@
           "@type": "Artifact",
           "@id": "A-1729.1",
           "ref": "A-1729.1",
-          "description": "Viewer email (read in full on air) describing Robkea's research on Gilgamesh/Nimrod tomb discovery, museum raid at first U.S. base in Iraq, and missing tablets concerning Nephilim/resurrection",
+          "description": "Viewer email (read in full on air) describing Rob Skiba's research on Gilgamesh/Nimrod tomb discovery, museum raid at first U.S. base in Iraq, and missing tablets concerning Nephilim/resurrection",
           "related_claims": [
             "C-2286"
           ],
@@ -732,7 +732,7 @@
       "@type": "Person",
       "@id": "N-547",
       "ref": "N-547",
-      "name": "Robkea",
+      "name": "Rob Skiba",
       "type": "person",
       "description": "Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets.",
       "related_artifacts": [
@@ -1626,8 +1626,8 @@
       "@type": "Claim",
       "@id": "C-2286",
       "ref": "C-2286",
-      "label": "Viewer Email Asserted Robkea Documents Gilgamesh Tomb, Tablet Disappearance",
-      "claim": "A viewer email read on air asserted that Robkea's research documented: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was \"raided\"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.",
+      "label": "Viewer Email Asserted Rob Skiba Documents Gilgamesh Tomb, Tablet Disappearance",
+      "claim": "A viewer email read on air asserted that Rob Skiba's research documented: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was \"raided\"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.",
       "anchored_artifacts": [
         "A-1729.1"
       ],
@@ -1637,7 +1637,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:05:54",
-      "investigative_direction": "Locate Robkea's published work (\"Babylon Rising\" et al.) and verify each factual component independently.",
+      "investigative_direction": "Locate Rob Skiba's published work (\"Babylon Rising\" et al.) and verify each factual component independently.",
       "mentions_person_refs": [
         "N-547"
       ]
@@ -2187,7 +2187,7 @@
       "@type": "Claim",
       "@id": "C-10028",
       "ref": "C-10028",
-      "label": "Host says Strife delayed her Sept 8 alibi request",
+      "label": "Host says Streiff delayed her Sept 8 alibi request",
       "claim": "The host says she contacted Justin Streiff trying to learn what Erika was doing on September 8 and that his answer kept being delayed, with the mother's illness given as the reason.",
       "anchored_artifacts": [
         "A-1735.1"
@@ -2199,7 +2199,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:25:21",
-      "investigative_direction": "Obtain the full Strife thread with timestamps.",
+      "investigative_direction": "Obtain the full Streiff thread with timestamps.",
       "transcript_snippet": "when I was contacting Justin Streiff trying to figure out what Erika was doing on September 8th just wanting some sort of an alibi and it kept getting delayed",
       "supports_claim_refs": [
         "C-2295"
@@ -2214,8 +2214,8 @@
       "@type": "Claim",
       "@id": "C-10029",
       "ref": "C-10029",
-      "label": "Host says lighting in Strife's messages does not look like a hospital",
-      "claim": "The host says the messages Strife sent her show lighting that does not look like a hospital and looks like Erika's apartment building.",
+      "label": "Host says lighting in Streiff's messages does not look like a hospital",
+      "claim": "The host says the messages Streiff sent her show lighting that does not look like a hospital and looks like Erika's apartment building.",
       "anchored_artifacts": [
         "A-1735.1"
       ],
@@ -2226,7 +2226,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:25:21",
-      "investigative_direction": "Examine any images in the Strife messages and their metadata.",
+      "investigative_direction": "Examine any images in the Streiff messages and their metadata.",
       "transcript_snippet": "I can confirm at the messages that he sent me certainly the lighting does not look like she is in a hospital.",
       "mentions_person_refs": [
         "N-15",
@@ -2315,7 +2315,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:28:00",
+      "claim_timestamp": "00:29:13",
       "investigative_direction": "Obtain flight and landing records for the return from Asia.",
       "transcript_snippet": "Charlie came back from Korea and Tokyo, his trip very late, almost early morning on September 8th, very late on the 7th.",
       "mentions_person_refs": [
@@ -2454,8 +2454,8 @@
       "@type": "Claim",
       "@id": "C-10040",
       "ref": "C-10040",
-      "label": "Host says Strife switched basketball game to football game",
-      "claim": "The host says that after she told Strife a fan had seen Erika at a basketball game, the reply was it was a football game, after earlier saying Erika was unavailable with her mother in the hospital.",
+      "label": "Host says Streiff switched basketball game to football game",
+      "claim": "The host says that after she told Streiff a fan had seen Erika at a basketball game, the reply was it was a football game, after earlier saying Erika was unavailable with her mother in the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10477"
@@ -2486,7 +2486,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:30:53",
+      "claim_timestamp": "00:32:06",
       "investigative_direction": "Obtain the letter, its sender and its date.",
       "transcript_snippet": "a couple of days later they send me a cease and desist and they they mention Fort Huachuca.",
       "mentions_person_refs": [

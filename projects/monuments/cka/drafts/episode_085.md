@@ -2258,7 +2258,7 @@ Investigative Direction: Check the probable-cause statement and docket for any r
 
 **C-14502** Host Says Her Source Close to the Robinson Family Says Tyler Repeatedly Denied Guilt
 
-Claim Timestamp: 00:29:40
+Claim Timestamp: 00:30:52
 
 Claim: The host says a source very close to Tyler Robinson's family told her that Robinson repeatedly said he was not guilty and was surprised when confronted by the family friend, Mike Mitchell.
 
@@ -2275,7 +2275,7 @@ Investigative Direction: Seek the source and any corroborating witnesses; compar
 
 **C-14503** Host Says Mike Mitchell Is a Former Sheriff's Department Employee and Robinson's Boy Scouts Leader
 
-Claim Timestamp: 00:29:40
+Claim Timestamp: 00:31:01
 
 Claim: The host says Mike Mitchell used to work for the Sheriff's Department and that Tyler Robinson knows him as his Boy Scouts leader.
 
@@ -2292,7 +2292,7 @@ Investigative Direction: Check Scouting leadership rosters and Mitchell's retire
 
 **C-14504** Host Says Mitchell Told Robinson His Options Were a SWAT Raid or Surrendering Peacefully
 
-Claim Timestamp: 00:29:40
+Claim Timestamp: 00:31:21
 
 Claim: The host says her source told her that Mitchell went to Robinson's house and told him they have his prints on a gun and gave two options: a SWAT team through the door with guns in the faces of him and his parents, or going in peacefully.
 

@@ -1237,7 +1237,7 @@ Investigative Direction: Obtain Farnsworth's self-recorded announcement and its 
 
 **C-9157** Host Says She Has Known Farnsworth for Years and Was Not Initially Suspicious
 
-Claim Timestamp: 00:01:28
+Claim Timestamp: 00:02:45
 
 Claim: The host says she had known Farnsworth for years, reached out to him after the event, and at first assumed there was a reasonable explanation for the camera removal.
 
@@ -1502,7 +1502,7 @@ Investigative Direction: Obtain the 1102 and the four source files; compare dura
 
 **C-9173** Host Says It Is Unclear Whether Farnsworth or SBI Made the 80704 Clip, but Farnsworth Touched the Footage First
 
-Claim Timestamp: 00:17:08
+Claim Timestamp: 00:18:41
 
 Claim: The host says it is not clear whether Farnsworth or SBI clipped the footage behind Charlie, but that Farnsworth was the first to touch it and the footage ended up clipped.
 
@@ -1519,7 +1519,7 @@ Investigative Direction: Obtain the metadata and creation log for clip 80704 and
 
 **C-9174** Host Says Zoomed Footage Was Admitted as a True Representation in the Courtroom Exhibit Dispute
 
-Claim Timestamp: 00:17:08
+Claim Timestamp: 00:19:15
 
 Claim: The host says that during the courtroom back-and-forth over exhibits 12.1 and 12.4 the court saw zoomed-in footage and the parties still called it a true representation, which she uses to read the 1102 wording.
 
@@ -1534,7 +1534,7 @@ Investigative Direction: Obtain the preliminary-hearing transcript for exhibits 
 
 **C-9175** Host Speculates the 80704 Clip Exists Because the Footage Was Zoomed
 
-Claim Timestamp: 00:17:08
+Claim Timestamp: 00:19:36
 
 Claim: The host says it is plausible that the only reason to cut a separate clip from the rear camera is that the footage was zoomed in, since zooming would require creating a new clip. She says she is speculating.
 
@@ -1551,7 +1551,7 @@ Investigative Direction: Compare the 80704 clip frame by frame against the full 
 
 **C-9176** Host Says Farnsworth Grabbed Only the One SD Card and Did So Nervously
 
-Claim Timestamp: 00:17:08
+Claim Timestamp: 00:20:19
 
 Claim: The host says Farnsworth did not instantly grab all the SD cards but only the one from the camera behind Charlie, and that he did it nervously while looking around to see who was watching.
 
@@ -1800,7 +1800,7 @@ Investigative Direction: Compile TPUSA public statements about Kent and Patel an
 
 **C-9191** Host Says TPUSA Intentionally Tried to Trip Her Into a Lawsuit
 
-Claim Timestamp: 00:32:49
+Claim Timestamp: 00:34:05
 
 Claim: The host says that, as she said before, they were intentionally trying to trip her into a lawsuit, and that people on the other side are eager for her to be sued.
 

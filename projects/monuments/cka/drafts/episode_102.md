@@ -2167,7 +2167,7 @@ Investigative Direction: Obtain the threatening messages, the call record with I
 
 **C-13027** Host Says She Was Threatened With a Lawsuit Before Interviewing Mitch
 
-Claim Timestamp: 00:47:28
+Claim Timestamp: 00:48:43
 
 Claim: The host says she was threatened with a lawsuit before she had even interviewed Mitch.
 

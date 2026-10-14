@@ -1034,7 +1034,7 @@ Investigative Direction: Check the Utah Governmental Immunity Act notice require
 
 **C-14981** Host Says Charlie's Parents Urged Erika to Sue Utah Since About December
 
-Claim Timestamp: 00:01:29
+Claim Timestamp: 00:03:07
 
 Claim: The host says she has known since approximately last December that it was Charlie Kirk's parents who were encouraging Erika Kirk to file a wrongful death lawsuit against the state of Utah.
 
@@ -1050,7 +1050,7 @@ Investigative Direction: This rests on the host's source; ask the Kirk family or
 
 **C-14982** Host Says Erika Was Not Keen to Sue When She Was Told in December
 
-Claim Timestamp: 00:01:29
+Claim Timestamp: 00:03:18
 
 Claim: The host says she was told at that time that suing was not something Erika herself was keen to do.
 
@@ -1066,7 +1066,7 @@ Investigative Direction: Compare with Erika's public statements on legal action 
 
 **C-14983** Host Says TPUSA Pulled in a Quarter Billion Last Year
 
-Claim Timestamp: 00:01:29
+Claim Timestamp: 00:03:40
 
 Claim: The host says Charlie Kirk was CEO and chairman of an organization that pulled in a quarter billion last year.
 
@@ -1082,7 +1082,7 @@ Investigative Direction: Check TPUSA's latest Form 990 revenue against the quart
 
 **C-14984** Host Says the Independent Review Will Be Devastating to TPUSA's Security Apparatus
 
-Claim Timestamp: 00:04:55
+Claim Timestamp: 00:06:07
 
 Claim: The host says she was told the independent review's findings would be devastating to Turning Point USA and its security apparatus because the reviewers would have gathered communications.
 
@@ -1133,7 +1133,7 @@ Investigative Direction: Compare with security staffing at earlier tour stops.
 
 **C-14987** Host Says Charlie's Security Were Not Police but Former SEALs, Marines, Army Snipers and SWAT Commanders
 
-Claim Timestamp: 00:06:24
+Claim Timestamp: 00:07:35
 
 Claim: The host says the security team members were not police officers but highly trained military: former Navy SEALs, Marines, Army snipers and SWAT commanders who worked at the highest levels of government.
 
@@ -1150,7 +1150,7 @@ Investigative Direction: Verify the team roster and service records against the 
 
 **C-14988** Host Says She Brought Her Own Security Team to Every Tour Event After Working for TPUSA
 
-Claim Timestamp: 00:08:00
+Claim Timestamp: 00:09:33
 
 Claim: The host says she worked for Turning Point USA and, on every tour she went on thereafter, brought her own security team to each event.
 
@@ -1166,7 +1166,7 @@ Investigative Direction: Ask the host for her tour security arrangements; compar
 
 **C-14989** Host Says She Requested Bomb Dogs at a Recent Event
 
-Claim Timestamp: 00:08:00
+Claim Timestamp: 00:10:05
 
 Claim: The host says that at a recent event she asked the local police to supply bomb dogs, as an example of security liaising with local police.
 
@@ -1214,7 +1214,7 @@ Investigative Direction: Obtain the security team's travel and site-visit record
 
 **C-14992** Notice Says TPUSA Planned Its Largest Ever Campus Tour
 
-Claim Timestamp: 00:10:55
+Claim Timestamp: 00:12:17
 
 Claim: The host reads that the eight-page notice, in section B on page three, says Turning Point USA planned its largest ever campus tour in 2025, and she notes it avoids giving a precise date.
 
@@ -1700,7 +1700,7 @@ Investigative Direction: Compare the review's findings and release date with the
 
 **C-15021** Host Says She Hopes the Review Explains Why No Ambulance Was on Standby
 
-Claim Timestamp: 00:34:25
+Claim Timestamp: 00:35:36
 
 Claim: The host says the review may answer why there was no ambulance on standby and may show fuller communications with the team.
 
@@ -1763,7 +1763,7 @@ Investigative Direction: Watch Costello's video and compare the two clips.
 
 **C-15025** Host Says Costello Saw the Same Finger Posture in the 2022 Footage
 
-Claim Timestamp: 00:40:52
+Claim Timestamp: 00:42:15
 
 Claim: The host says Costello thought it reminiscent of the 2022 footage of Robinson, who also had his fingers in his pocket that way.
 
@@ -2005,7 +2005,7 @@ Investigative Direction: Check UT Austin's announcement of the Buckman Center.
 
 **C-15040** Host Suggests Jim Spencer's UT Austin Role and Buckman's Donation Are a Lead on the Footage
 
-Claim Timestamp: 00:48:11
+Claim Timestamp: 00:49:25
 
 Claim: The host suggests the UT Austin link, through Scripps founder Jim Spencer and donor Buckman, is a side lead to explore on how Scripps obtained the video, and asks that donor resources be used to ask Spencer.
 
@@ -2197,7 +2197,7 @@ Investigative Direction: Confirm receipt with the Utah Attorney General.
 
 **C-15052** Host Says Baron Coleman Will Host Her Principal Show During Maternity Leave
 
-Claim Timestamp: 00:56:52
+Claim Timestamp: 00:58:44
 
 Claim: The host says Baron Coleman will take over her principal show while she is on maternity leave.
 
@@ -2213,7 +2213,7 @@ Investigative Direction: Check the show schedule for Coleman's episodes.
 
 **C-15053** Host Says Coleman's Show Runs Monday Through Wednesday While She Is Off Air
 
-Claim Timestamp: 00:56:52
+Claim Timestamp: 00:59:32
 
 Claim: The host says the show will run Monday through Wednesday while she is off air.
 
@@ -2229,7 +2229,7 @@ Investigative Direction: Check the show schedule.
 
 **C-15054** Host Plans a Joint Episode With Coleman Reviewing the State's Evidence
 
-Claim Timestamp: 00:56:52
+Claim Timestamp: 00:59:36
 
 Claim: The host says before leaving she and Coleman will do a joint episode going back through the case, including the state's evidence which she says Andrew Wilson insincerely missed.
 
@@ -2245,7 +2245,7 @@ Investigative Direction: Watch for the joint episode.
 
 **C-15055** Host Says Her Baby Is a Few Weeks Away
 
-Claim Timestamp: 00:56:52
+Claim Timestamp: 01:00:12
 
 Claim: The host says it is a few more weeks until her baby comes.
 
@@ -2261,7 +2261,7 @@ Investigative Direction: Context only.
 
 **C-15056** Host Says She Went on Ana Kasparian's Show to Explain What Is Wrong With the Case
 
-Claim Timestamp: 00:56:52
+Claim Timestamp: 01:01:05
 
 Claim: The host says she went on Ana Kasparian's show and explained many things wrong with the case, to a different audience.
 

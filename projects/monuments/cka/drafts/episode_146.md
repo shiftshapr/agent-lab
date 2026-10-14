@@ -1018,7 +1018,7 @@ Investigative Direction: Cross-reference courthouse visitor logs; reconcile with
 
 **C-7599** Host Reads Mathematician Email Putting Baldoni Iceland Meeting at One in 80 Million
 
-Claim Timestamp: 00:01:01
+Claim Timestamp: 00:00:18
 
 Claim: The host reads an email from a self-described mathematician who estimates about a one in 80 million chance that she would have met Justin Baldoni and his wife, the odds question she says she posed the day before about running into him in Iceland.
 
@@ -1243,7 +1243,7 @@ Investigative Direction: Compare Strait's own public biography and interviews fo
 
 **C-7613** Host Says the Wilks Brothers Fund Construction of Calvary Chapel Churches Including Rob McCoy's
 
-Claim Timestamp: 00:06:01
+Claim Timestamp: 00:07:17
 
 Claim: The host says the billionaire Wilks brothers fund construction of some Calvary Chapel churches, including Rob McCoy's church in Thousand Oaks.
 
@@ -1259,7 +1259,7 @@ Investigative Direction: Check Wilks family foundation grants and church buildin
 
 **C-7614** Host Says the Wilks Brothers Are Not Evangelical Christians
 
-Claim Timestamp: 00:06:01
+Claim Timestamp: 00:07:28
 
 Claim: The host says the Wilks brothers are not in any way evangelical Christians, which she finds strange given that they fund churches.
 
@@ -1454,7 +1454,7 @@ Investigative Direction: Identify the rabbis and obtain Charlie Kirk's call logs
 
 **C-7626** Host Relays That the Official Story Is Charlie Sought Debate Tips From Josh Hammer and Israel-Based Rabbis
 
-Claim Timestamp: 00:11:51
+Claim Timestamp: 00:13:03
 
 Claim: The host says the stated explanation is that Charlie Kirk needed to learn how to debate and was asking for debate tips from people like Josh Hammer and rabbis based in Israel.
 
@@ -1471,7 +1471,7 @@ Investigative Direction: Compare Josh Hammer's own account of the September 9 ca
 
 **C-7627** Host Says Butch Hibbs Is Heavily Involved in Calvary Chapel in Utah
 
-Claim Timestamp: 00:11:51
+Claim Timestamp: 00:13:20
 
 Claim: The host says Butch Hibbs is very much involved in Calvary Chapel in Utah.
 
@@ -1636,7 +1636,7 @@ Investigative Direction: Check Mikey McCoy's call log for any call to a Hibbs nu
 
 **C-7637** Host Says the Only Way Mikey Called Before 12:30 Is a Calvary Chapel Conference Call
 
-Claim Timestamp: 00:18:43
+Claim Timestamp: 00:19:57
 
 Claim: The host says the only way Mikey could have called Jack Hibbs before 12:30 would be if there was a Calvary Chapel conference call, which might fit when he called Rob McCoy.
 
@@ -1996,7 +1996,7 @@ Investigative Direction: Review the video testimony to see whether the questioni
 
 **C-7659** Host Says Officers Baggley and Hull Could Relay What They Were Told About Robinson's Vehicle and Plates
 
-Claim Timestamp: 00:31:24
+Claim Timestamp: 00:32:38
 
 Claim: The host says officers can testify at this stage to what they were told, such as an account that Tyler Robinson's vehicle pulled to the side of the road and a witness remembered the plates.
 
@@ -2045,7 +2045,7 @@ Investigative Direction: Search Utah appellate decisions on the aggravated murde
 
 **C-7662** Host Says Aggravating Factors Usually Involve Bombs or Sprayed Gunfire Showing Intent to Murder En Masse
 
-Claim Timestamp: 00:32:55
+Claim Timestamp: 00:34:08
 
 Claim: The host says aggravated murder typically involves an aggravating circumstance such as plotting a bomb or spraying multiple bullets into a crowd, showing an intent to murder en masse.
 
@@ -2061,7 +2061,7 @@ Investigative Direction: Review the jurisprudence listed in the defense and pros
 
 **C-7663** Host Says Prosecutors Argue Robinson Fired Only One Bullet Despite Having More Rounds
 
-Claim Timestamp: 00:32:55
+Claim Timestamp: 00:34:39
 
 Claim: The host says the prosecution argues Tyler Robinson is the shooter but also that he chose to fire only one bullet despite having more rounds in the chamber.
 
@@ -2077,7 +2077,7 @@ Investigative Direction: Read the prosecution's response to the motion to dismis
 
 **C-7664** Host Says Alleged Texts Show a Single Target, Charlie Kirk
 
-Claim Timestamp: 00:32:55
+Claim Timestamp: 00:34:58
 
 Claim: The host says the prosecution alleges text messages where Robinson says he is going to see Charlie Kirk and has to do it because his hate is too much to negotiate, which she says suggests a single target.
 
@@ -2253,7 +2253,7 @@ Investigative Direction: Read the defense motion to dismiss and the Utah witness
 
 **C-7675** Host Says Count Seven Is a Violent Offense in the Presence of a Child and the Defense Cites the Campus Setting
 
-Claim Timestamp: 00:37:51
+Claim Timestamp: 00:39:07
 
 Claim: The host says the seventh charge is a violent offense in the presence of a child, and the defense argues the presumption on a college campus is that no minor children were present.
 
@@ -2269,7 +2269,7 @@ Investigative Direction: Read the defense brief on count seven and check whether
 
 **C-7676** Host Says the Defense Moved to Dismiss Counts One, Six and Seven
 
-Claim Timestamp: 00:37:51
+Claim Timestamp: 00:39:13
 
 Claim: The host says the defense filed to dismiss counts one, six and seven on their face, without litigating the evidence, and that the ruling was awaited.
 
@@ -2335,7 +2335,7 @@ Investigative Direction: Look for Department of War contracts or disclosure form
 
 **C-7680** Host Says Trump Called Charlie in July to Tell Him to Stop Speaking About the Epstein Files
 
-Claim Timestamp: 00:41:34
+Claim Timestamp: 00:43:05
 
 Claim: The host says Donald Trump phoned Charlie Kirk in July telling him to stop speaking about the Epstein files.
 
@@ -2352,7 +2352,7 @@ Investigative Direction: Obtain call records or White House logs for Trump and K
 
 **C-7681** Host Says She Believes the Case Will Be Tied to the Epstein Network
 
-Claim Timestamp: 00:41:34
+Claim Timestamp: 00:42:56
 
 Claim: The host says she thinks the case will somehow be tied to the Epstein network, pointing to human trafficking themes she believes she has shown early seeds of.
 
@@ -2479,7 +2479,7 @@ Investigative Direction: Collect public statements and incidents between Kirk an
 
 **C-7689** Host Says Justin Told Her He Does Not Drink Kombucha All That Much
 
-Claim Timestamp: 00:46:27
+Claim Timestamp: 00:47:48
 
 Claim: The host says Justin told her he does not actually drink kombucha all that much, which she rejects as unacceptable and a now-folkloric detail.
 

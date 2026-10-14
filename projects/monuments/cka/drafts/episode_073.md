@@ -966,7 +966,7 @@ Investigative Direction: Determine whether Charlie Kirk's phone was ever in law 
 
 **C-8433** Host Says Charlie Went Into the Office on September 9
 
-Claim Timestamp: 00:01:40
+Claim Timestamp: 00:03:39
 
 Claim: The host says that on September 9, 2025 Charlie Kirk went into the office, and that by about midday on September 10 he had been assassinated.
 
@@ -2076,7 +2076,7 @@ Investigative Direction: Obtain the Charis Bible College event contract, securit
 
 **C-8503** Host Says Not a Shred of Evidence Has Been Produced Tying Tyler Robinson to the Crime
 
-Claim Timestamp: 00:51:13
+Claim Timestamp: 00:52:34
 
 Claim: The host says that not a shred of evidence has been produced to tie the assassination to Tyler Robinson.
 
@@ -2092,7 +2092,7 @@ Investigative Direction: Compare against the exhibits and testimony from the pre
 
 **C-8504** Host Says Erika's Side Had Nothing More Than the Public Account When They Met
 
-Claim Timestamp: 00:51:13
+Claim Timestamp: 00:52:39
 
 Claim: The host says that when she sat down with Erika Kirk she learned they had nothing more than what was told to the public and were not hiding anything.
 

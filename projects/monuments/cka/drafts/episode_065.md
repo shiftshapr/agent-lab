@@ -1407,7 +1407,7 @@ Investigative Direction: Ask the host or her producers for when she first saw th
 
 **C-5576** Host says Daily Wire producer told her Youssef could not be booked because he hurt Ben Shapiro's feelings
 
-Claim Timestamp: 00:01:42
+Claim Timestamp: 00:02:59
 
 Claim: The host says that after she asked her producer to book Youssef, the answer from Daily Wire was that he was not allowed on because he had hurt Ben Shapiro's feelings.
 
@@ -1482,7 +1482,7 @@ Investigative Direction: Locate the morning-show episode and the following day's
 
 **C-5581** Youssef says Shapiro showed a Hamas water-pipe video whose Arabic narration said the opposite
 
-Claim Timestamp: 00:05:56
+Claim Timestamp: 00:07:27
 
 Claim: Youssef says Ben Shapiro showed a video of pipes being dug out in Gaza as proof that Hamas turns European Union aid into weapons, while the Arabic narration said the pipes were found running from inside Israel to take its water.
 
@@ -1602,7 +1602,7 @@ Investigative Direction: Compile public reporting and documents on Kushner's Gaz
 
 **C-5589** Youssef says the King David Hotel bombing killed 92 British soldiers and was carried out by Hagana members dressed as Palestinians
 
-Claim Timestamp: 00:10:55
+Claim Timestamp: 00:13:03
 
 Claim: Youssef says the bombing of the King David Hotel killed 92 British soldiers and that the Hagana members who did it were dressed as Palestinians.
 
@@ -1632,7 +1632,7 @@ Investigative Direction: Review historical scholarship and records on the 1950-5
 
 **C-5591** Youssef says Israel acknowledged the Lavon affair in 2005 with participation certificates
 
-Claim Timestamp: 00:13:17
+Claim Timestamp: 00:14:43
 
 Claim: Youssef says Israel denied the 1954 Lavon affair for 51 years and in 2005 acknowledged it by giving the participants certificates.
 
@@ -2434,7 +2434,7 @@ Investigative Direction: Review Breaking the Silence's published testimonies.
 
 **C-5644** Youssef says New York Times editorial staff are full of former IDF and Mossad people
 
-Claim Timestamp: 01:21:47
+Claim Timestamp: 01:23:10
 
 Claim: Youssef says the New York Times editorial team is full of people from the IDF and ex-Mossad.
 

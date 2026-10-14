@@ -1166,7 +1166,7 @@ Claim Timestamp: 00:16:37
 Claim: Jennifer Faumuina is presented on Season 2 Episode 1 of Netflix's *Worst Roommate Ever* stating she had been with the Utah State Bureau of Investigation for 8 years and was assigned full-time to the FBI's Joint Terrorism Task Force.
 
 Anchored Artifacts: A-2156.1
-Mentions: N-513, N-511, N-515, N-514
+Mentions: N-511
 
 Related Nodes: N-10738
 

@@ -1190,7 +1190,7 @@ Investigative Direction: The FBI FOIA denial letter and request number.
 
 **C-4766** Host considers an explosive under Charlie Kirk's chest a viable theory
 
-Claim Timestamp: 00:43:47
+Claim Timestamp: 00:45:07
 
 Claim: The host says she now considers it a very viable theory that an explosive went off under Charlie Kirk's chest. She says this fits the way his body moved, which first made her think he was shot from below.
 

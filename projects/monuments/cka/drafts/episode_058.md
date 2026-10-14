@@ -1215,7 +1215,7 @@ Investigative Direction: Obtain the direct message or email text from Justin Str
 
 **C-3742** Justin Streiff is the Turning Point executive C-2113 spells 'Justin Streiff' (revises C-2113)
 
-Claim Timestamp: 00:18:47
+Claim Timestamp: 00:18:18
 
 Claim: C-2113 spells the executive's name 'Justin Streiff' (auto-caption form). The executive is Justin Streiff (N-15). He replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.
 
@@ -1567,7 +1567,7 @@ Investigative Direction: Check Frye's published biography for the Sierra Vista s
 
 **C-9841** Host Says Payton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick
 
-Claim Timestamp: 00:06:05
+Claim Timestamp: 00:05:39
 
 Claim: The host says cast member Payton McCormick's grandfather is Colonel Pete McCormick and her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
 
@@ -1583,7 +1583,7 @@ Investigative Direction: Confirm the family relationships and Allan McCormick's 
 
 **C-9842** Host Says Payton McCormick Was Miss Teen USA in 2006
 
-Claim Timestamp: 00:06:20
+Claim Timestamp: 00:05:45
 
 Claim: The host says Payton McCormick was also Miss Teen USA in 2006; the sentence runs into a name the transcript renders as Priscilla Ann Nu'ul.
 
@@ -1615,7 +1615,7 @@ Investigative Direction: Identify Thuy's father and verify the IBM employment cl
 
 **C-9844** Host Says Price Mitchum Was Placed on a Psychiatric 5150 Hold
 
-Claim Timestamp: 00:06:50
+Claim Timestamp: 00:06:22
 
 Claim: The host says cast member Price Mitchum was put in a psych 5150 hold.
 
@@ -1631,7 +1631,7 @@ Investigative Direction: Public 5150 holds are confidential medical events; look
 
 **C-9845** Host Says the Poster Proves Erika Knew Fort Huachuca and Faults Kolvet's Contrary Claim
 
-Claim Timestamp: 00:07:20
+Claim Timestamp: 00:06:37
 
 Claim: The host says her sources told her there is no way Erika is not familiar with Fort Huachuca, that the poster proves it, and that she does not know why Andrew Kolvet said otherwise.
 
@@ -1942,7 +1942,7 @@ Investigative Direction: Treat the plane movements as unproven wrongdoing; the o
 
 **C-9864** Nelda Buckman Is Quoted Saying She and Erika Talked About Womanhood
 
-Claim Timestamp: 00:22:20
+Claim Timestamp: 00:21:17
 
 Claim: The host reads from Daily Wire Plus that Nelda Buckman said she and Erika talked about womanhood and what our culture has been teaching young women and what they want to teach them.
 
@@ -1958,7 +1958,7 @@ Investigative Direction: Retrieve the Daily Wire Plus interview text to confirm 
 
 **C-9865** Host Says Shapiro Was Upset She Called Him Out and That Charlie Had Her Back
 
-Claim Timestamp: 00:22:45
+Claim Timestamp: 00:22:01
 
 Claim: The host says Ben Shapiro was really upset that she called him out on stage and that Charlie Kirk publicly said he had her back on the day she was fired.
 
@@ -1974,7 +1974,7 @@ Investigative Direction: Find Charlie Kirk's public post of support on the day o
 
 **C-9866** Host Says Charlie Told Her Ben Pressured His Donors Over Her AmFest Slot
 
-Claim Timestamp: 00:23:05
+Claim Timestamp: 00:22:23
 
 Claim: The host says Charlie told her that Ben Shapiro started putting pressure on Charlie's donors to try to get him not to let her speak at AmFest.
 
@@ -1991,7 +1991,7 @@ Investigative Direction: Obtain the text messages or the donor's identity the ho
 
 **C-9867** Host Says Donors Were Also Feeding Information to Bari Weiss
 
-Claim Timestamp: 00:23:20
+Claim Timestamp: 00:22:51
 
 Claim: The host says she did not know who the donor was but knew they were also feeding information to Bari Weiss.
 
@@ -2007,7 +2007,7 @@ Investigative Direction: Ask the host for the source of the Weiss information fl
 
 **C-9868** Host Says Kolvet Called to Say Ben Would Be Allowed to Buy a Place at AmFest
 
-Claim Timestamp: 00:23:30
+Claim Timestamp: 00:22:59
 
 Claim: The host says Andrew Kolvet phoned her to say they would allow Ben Shapiro to effectively buy a place at AmFest and to buy up the documentary they were doing, and asked if she was okay with it.
 

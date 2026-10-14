@@ -1216,7 +1216,7 @@ Investigative Direction: Compare the date of the host's first plane post with th
 
 **C-12353** Host Says She Tweeted on October 11 About the Egyptian Plane Leaving Provo and Got the Time Zone Wrong
 
-Claim Timestamp: 00:04:21
+Claim Timestamp: 00:05:40
 
 Claim: The host says that on October 11 she tweeted about an Egyptian military plane that left Provo on the morning of Charlie Kirk's assassination and that she got the time zone wrong by a couple of hours.
 
@@ -1356,7 +1356,7 @@ Investigative Direction: Retrieve the earlier plane document the host refers to 
 
 **C-12362** Host Says Terrell Farnsworth Does Not Normally Work College Campus Events
 
-Claim Timestamp: 00:10:59
+Claim Timestamp: 00:12:10
 
 Claim: The host says Terrell Farnsworth, who takes out the SD cards, does not do college campus events, only the big events such as SAS and AmFest, so his presence at the UVU event was one of her earliest alarms.
 
@@ -1372,7 +1372,7 @@ Investigative Direction: Compare Farnsworth's event assignments across other 202
 
 **C-12363** Host Says Farnsworth Told Her TPUSA Was Trying Something New and He Was Absent at the Next Event
 
-Claim Timestamp: 00:10:59
+Claim Timestamp: 00:12:21
 
 Claim: The host says Farnsworth told her they were trying something new that day, and that he was not at the next event after Charlie died.
 
@@ -1388,7 +1388,7 @@ Investigative Direction: Ask Farnsworth or TPUSA for the staffing roster of the 
 
 **C-12364** Host Says Farnsworth Was at the Event and Secured the SD Cards
 
-Claim Timestamp: 00:10:59
+Claim Timestamp: 00:12:31
 
 Claim: The host says Farnsworth was 'out of the blue' at the UVU event and that he secured the SD cards.
 
@@ -1437,7 +1437,7 @@ Investigative Direction: Seek corroboration of Charlie's interest in aircraft fr
 
 **C-12367** Host Says Charlie Had a Photographic Memory for Donors
 
-Claim Timestamp: 00:13:12
+Claim Timestamp: 00:14:32
 
 Claim: The host says Charlie Kirk had a photographic memory for donor names, emails and numbers and could say who worked for whom and what each had given.
 
@@ -1468,7 +1468,7 @@ Investigative Direction: Check FAA/ADS-B records for the Kirk charter's arrival 
 
 **C-12369** Host Says the Mommy Sleuth Found After 15 Hours of Research That the Planes Tracked Erika, Not Charlie
 
-Claim Timestamp: 00:14:51
+Claim Timestamp: 00:16:22
 
 Claim: The host says a pregnant 'mommy sleuth' emailed that the host was only partially right about the planes tracking Charlie and that after 15 more hours of research the person the planes tracked for years was Erika, which the host says turned out to be correct.
 
@@ -1872,7 +1872,7 @@ Investigative Direction: Identify the host's basis (conversations with Charlie, 
 
 **C-12394** Host Says the Extension Deadline Was October 15 and TPUSA Missed Both Deadlines
 
-Claim Timestamp: 00:35:11
+Claim Timestamp: 00:36:52
 
 Claim: The host says that the tax extension deadline was probably October 15, that big companies normally file for an extension, but TPUSA missed both the regular and the extension deadline, which she calls completely abnormal.
 
@@ -1888,7 +1888,7 @@ Investigative Direction: Confirm TPUSA's fiscal year end and the corresponding F
 
 **C-12395** Host Says TPUSA Previously Filed All Its Returns at the Same Time
 
-Claim Timestamp: 00:35:11
+Claim Timestamp: 00:37:00
 
 Claim: The host says that in TPUSA's earlier filings they always filed all of them at the same time, so leaving off three is unusual.
 
@@ -2082,7 +2082,7 @@ Investigative Direction: Utah was on Mountain Daylight Time on September 10, 202
 
 **C-12407** Host Says Military Bots Are Running an Operation on X
 
-Claim Timestamp: 00:48:53
+Claim Timestamp: 00:50:09
 
 Claim: The host says that people are definitely running an operation on X and that it is obviously military bots that make her mistakes trend for days.
 
@@ -2097,7 +2097,7 @@ Investigative Direction: Seek platform or third-party bot analysis of the accoun
 
 **C-12408** Host Says Her Opponents Tried to Deny She Had a Relationship With Charlie During Her Grief
 
-Claim Timestamp: 00:50:42
+Claim Timestamp: 00:52:00
 
 Claim: The host says the first thing her opponents did during her grief stage was to pretend that she and Charlie did not even have a relationship, because they knew she would be the one to defend him.
 
@@ -2112,7 +2112,7 @@ Investigative Direction: Identify the specific public statements in September 20
 
 **C-12409** Host Says Others Tried to Incentivize Her Before
 
-Claim Timestamp: 00:50:42
+Claim Timestamp: 00:52:17
 
 Claim: The host says her opponents had tried to incentivize her with money and reputation before, but she had already said she did not care about the money, the reputation or the headlines.
 
@@ -2173,7 +2173,7 @@ Investigative Direction: Decentralized Intelligence Agency tip call: log submiss
 
 **C-12413** Host Says She Has Not Seen the Shawn Ryan Episode With Charlie's Security Detail and Will Give Feedback This Week
 
-Claim Timestamp: 00:52:35
+Claim Timestamp: 00:54:33
 
 Claim: A viewer asks whether the host has seen the new Shawn Ryan interview with the security detail that took care of Charlie, and the host says she has not seen it yet but will watch it and give feedback this week.
 
@@ -2188,7 +2188,7 @@ Investigative Direction: Identify the Shawn Ryan episode and guests, and track t
 
 **C-12414** Viewer Comment Says Baker Tilly Also Prepares the 990s and Its Audits Are Not Considered Valid
 
-Claim Timestamp: 00:52:35
+Claim Timestamp: 00:54:44
 
 Claim: A viewer who says she runs operations for a nonprofit comments that Baker Tilly is also the company listed as preparing the 990s on the first page and that its audits are not considered valid because a separate company has to do an independent audit.
 
@@ -2219,7 +2219,7 @@ Investigative Direction: Search court dockets for suits naming Baker Tilly US, L
 
 **C-12416** Host Says Charlie Told Her in a Dream That He Was Betrayed
 
-Claim Timestamp: 00:55:00
+Claim Timestamp: 00:56:18
 
 Claim: The host says she felt it spiritually and that Charlie told her in a dream that he was betrayed.
 

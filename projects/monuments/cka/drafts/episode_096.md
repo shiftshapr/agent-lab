@@ -1892,7 +1892,7 @@ Investigative Direction: Identify which statements the host says were lies and t
 
 **C-8798** Host says donors tell her the Charlie audio shown was AI
 
-Claim Timestamp: 00:53:58
+Claim Timestamp: 00:55:14
 
 Claim: The host says donors are telling her that the audio or video of Charlie Kirk presented by Erika's side was AI.
 

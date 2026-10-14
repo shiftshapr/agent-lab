@@ -993,7 +993,7 @@ Investigative Direction: Compare against the full Vanity Fair text to confirm th
 
 **C-6290** Profile Says Writer First Met Erika at the Waldorf Astoria on White House Correspondents Dinner Morning
 
-Claim Timestamp: 00:10:44
+Claim Timestamp: 00:12:25
 
 Claim: The host reads the profile as saying the writer first met Erika in the lobby of the Waldorf Astoria in Washington on the morning of the White House Correspondents Dinner, where Erika wore a black silk set, a freedom cap and glittery Golden Goose sneakers.
 
@@ -1008,7 +1008,7 @@ Investigative Direction: Check the published profile for the meeting date and th
 
 **C-6291** Erika Tells Writer She Is Built Different and the World Will Not Break Her
 
-Claim Timestamp: 00:10:44
+Claim Timestamp: 00:12:14
 
 Claim: The host reads the profile as quoting Erika that she knows she does not make sense to most people, is built different, and that this world will not break her.
 
@@ -1023,7 +1023,7 @@ Investigative Direction: Verify the quotation and its attribution in the publish
 
 **C-6292** Profile Says Erika Answered a Compliment on Her Rings With They Are Real Like My Hair
 
-Claim Timestamp: 00:10:44
+Claim Timestamp: 00:13:14
 
 Claim: The host reads the profile as saying that when a Turning Point high school member complimented her rings, Erika replied that they were real, like her hair.
 
@@ -1038,7 +1038,7 @@ Investigative Direction: Check the profile text for the exchange and its date.
 
 **C-6293** Profile Says Erika Works on the Couch in Charlie's Preserved Office and Only Mac May Sit in His Chair
 
-Claim Timestamp: 00:13:22
+Claim Timestamp: 00:15:00
 
 Claim: The host reads the profile as saying Erika has no office of her own, works on the couch in Charlie's office near his desk, which is preserved as a shrine, that only Mac may sit in Charlie's chair, and that the floor above remains a demolished construction zone.
 
@@ -1329,7 +1329,7 @@ Investigative Direction: Verify the quotation and context in the published profi
 
 **C-6312** Host Says Kolvet Told Her Erika Would Be CEO Within the First 48 Hours
 
-Claim Timestamp: 00:28:36
+Claim Timestamp: 00:30:49
 
 Claim: The host says Andrew Kolvet told her within the first 48 hours that Erika would be CEO, although she says he now denies some of this.
 
@@ -1345,7 +1345,7 @@ Investigative Direction: Obtain the host's dated message or call record with Kol
 
 **C-6313** DeGroot Says Erika Saved TPUSA Two or Three Years of Searching for a New CEO
 
-Claim Timestamp: 00:28:36
+Claim Timestamp: 00:31:32
 
 Claim: The host reads the profile as quoting Doug DeGroot that Erika saved Turning Point two or three years of searching for and training a new CEO from outside the organization.
 
@@ -1360,7 +1360,7 @@ Investigative Direction: Confirm the quote in the published profile and request 
 
 **C-6314** Host Alleges DeGroot Was Behind the Scenes Wanting Her Crushed in the Media
 
-Claim Timestamp: 00:28:36
+Claim Timestamp: 00:31:18
 
 Claim: The host alleges that Doug DeGroot, whom she says does a lot of PR for Turning Point, was early on one of the people behind the scenes wanting her crushed in the media.
 
@@ -1374,7 +1374,7 @@ Investigative Direction: Identify the earlier episode where the host first said 
 
 **C-6315** Writer Clara Molot Says Charlie Would Have Answered Every Political Question Quickly and Succinctly
 
-Claim Timestamp: 00:32:00
+Claim Timestamp: 00:33:14
 
 Claim: In an audio clip, Clara Molot says Charlie was a political animal who would have answered every one of her political questions quickly and succinctly, whereas Erika did what she could to avoid those topics.
 
@@ -1543,7 +1543,7 @@ Investigative Direction: Identify the Discord channels and any payment records; 
 
 **C-6326** Smear Package Says George Speaks Hebrew as Proof He Is a Secret Zionist
 
-Claim Timestamp: 00:40:02
+Claim Timestamp: 00:41:37
 
 Claim: The host says the smear package's proof that her husband is a secret Zionist is that George speaks Hebrew.
 
@@ -1801,7 +1801,7 @@ Investigative Direction: Await the next episode and check whether the contracts 
 
 **C-6343** Host Says Department of War Attacks on Her Double When Erika Is in DC
 
-Claim Timestamp: 00:57:49
+Claim Timestamp: 00:59:45
 
 Claim: The host says her source says Erika is in DC now and that when Erika is in DC the Department of War attacks on the host start doubling.
 
@@ -1832,7 +1832,7 @@ Investigative Direction: View the video linked in the description to confirm its
 
 **C-6345** Host Says the Smear Included a Video of a Woman Whose Profile Says She Is Indian
 
-Claim Timestamp: 00:57:49
+Claim Timestamp: 01:00:16
 
 Claim: The host says the smear package included a video of a woman whose profile says she is Indian, which she and her husband laughed at.
 
@@ -1862,7 +1862,7 @@ Investigative Direction: Compare the images with the host's past podcast descrip
 
 **C-6347** Host Predicts the Black Robe Mafia of Judges and Lawyers Will Be Exposed
 
-Claim Timestamp: 01:00:26
+Claim Timestamp: 01:01:55
 
 Claim: The host says she believes the black robe mafia, meaning judges and lawyers working on behalf of the state, will be exposed, and points to efforts to bankrupt her.
 

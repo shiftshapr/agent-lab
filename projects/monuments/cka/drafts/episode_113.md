@@ -840,7 +840,7 @@ Investigative Direction: Obtain the Department of War transcript of Hegseth's Ta
 
 **C-4453** Hegseth credits CENTCOM with Epic Fury and the Iran blockade
 
-Claim Timestamp: 00:15:42
+Claim Timestamp: 00:17:01
 
 Claim: Hegseth says Admiral Cooper and CENTCOM have done "a phenomenal job from the beginning on Epic Fury and through this blockade," with the end state that Iran never has a nuclear weapon.
 

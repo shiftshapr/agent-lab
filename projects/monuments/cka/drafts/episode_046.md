@@ -1809,7 +1809,7 @@ Investigative Direction: Review the courtroom video and reporters' descriptions 
 
 **C-6722** Host Says Media Organizations Are Requesting the Transcript of the Hearing
 
-Claim Timestamp: 00:34:27
+Claim Timestamp: 00:35:42
 
 Claim: The host says media organizations are requesting the transcript of the hearing and hopes the case allows transparency and access.
 

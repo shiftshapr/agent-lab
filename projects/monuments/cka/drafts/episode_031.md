@@ -1771,7 +1771,7 @@ Investigative Direction: Locate Minnesota task force press releases and court re
 
 **C-6625** Host Says a Post Falls, Idaho Lawsuit Alleges Calvary Chapel Concealed a Known Predator
 
-Claim Timestamp: 00:19:19
+Claim Timestamp: 00:21:00
 
 Claim: The host says the North County Chapel in Post Falls, Idaho is being sued by victims alleging it concealed a known predator, Anthony Eglacius, now serving time in an Idaho prison, and that the lawsuit alleges Reverend Robert Davis told the parents they knew his history and had pulled him out of Thailand, an orphanage program.
 
@@ -1897,7 +1897,7 @@ Investigative Direction: Retrieve Montana nonprofit filings and Form 990s for Po
 
 **C-6633** Host Says Potter's Fields Came Under a 2019 Scandal Over Where Donor Money Went
 
-Claim Timestamp: 00:23:32
+Claim Timestamp: 00:24:54
 
 Claim: The host says that in 2019 Potter's Fields Ministries came under a scandal with reports of financial and psychological abuse, and that Calvary Chapel members were funding it believing the money fed and clothed children in Uganda, Cambodia, Costa Rica and Guatemala.
 
@@ -2119,7 +2119,7 @@ Investigative Direction: Pull Kirk's posts and show segments on Ukraine and TPUS
 
 **C-6647** Host Says a September 30 Article Accused Sean Feucht of Mismanaging Funds
 
-Claim Timestamp: 00:31:08
+Claim Timestamp: 00:32:31
 
 Claim: The host says that among Turning Point Faith figures with shady backgrounds is Sean Fo (apparently Sean Feucht), and that a September 30 article accuses him of mismanagement of funds.
 
@@ -2134,7 +2134,7 @@ Investigative Direction: Identify the September 30 article, confirm the person i
 
 **C-6648** Host Says the Churches Involved Have Too Many Military Men from Powerful Military Families
 
-Claim Timestamp: 00:31:08
+Claim Timestamp: 00:33:06
 
 Claim: The host says the churches she is questioning have way too many military men who come from a long line of powerful military families.
 

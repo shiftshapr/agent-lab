@@ -381,7 +381,7 @@ TPUSA spokesman; subject of the PR chat, the plane account and the Kent texts.
 ---
 
 **N-15** Justin Streiff
-TPUSA COO (transcribed Streiff, Strieff, Strife, Stripe); booked the planes and appears in the PR chat.
+TPUSA COO; booked the planes and appears in the PR chat.
 
 *Related: C-11323, C-11329, C-11330, C-11331, C-11335, C-11339, C-11351, C-11356*
 

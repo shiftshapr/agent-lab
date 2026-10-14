@@ -355,7 +355,7 @@ Andrew Kolvet (transcribed Kolvats, Kolb); TPUSA spokesperson whose surgeon acco
 ---
 
 **N-15** Justin Streiff
-Justin Streiff (transcribed Strife); TPUSA COO, said by the host to have asked her husband about the FaceTime recording.
+Justin Streiff; TPUSA COO, said by the host to have asked her husband about the FaceTime recording.
 
 *Related: C-10309, C-10310, C-10311*
 
@@ -1116,7 +1116,7 @@ Investigative Direction: Obtain the husband's account and the message thread wit
 
 ---
 
-**C-10311** Host says the FBI was on the phone with Strife and Frank Carney about the back footage
+**C-10311** Host says the FBI was on the phone with Streiff and Frank Carney about the back footage
 
 Claim Timestamp: 00:08:17
 

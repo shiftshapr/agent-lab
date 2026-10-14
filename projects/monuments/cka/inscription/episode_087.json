@@ -2660,8 +2660,8 @@
       "@type": "Claim",
       "@id": "C-2636",
       "ref": "C-2636",
-      "label": "FBI Is Reviving CBLA in Robinson Case",
-      "claim": "The FBI is bringing the previously abandoned comparative bullet lead analysis technique back into use in an effort to connect Tyler Robinson's weapon to the alleged crime scene bullet.",
+      "label": "Host Says the FBI Is Reviving CBLA in the Robinson Case",
+      "claim": "The host says the FBI is bringing the previously abandoned comparative bullet lead analysis technique back into use in a bid to connect Tyler Robinson's weapon to the alleged bullet.",
       "anchored_artifacts": [
         "A-1922.1"
       ],
@@ -2952,8 +2952,8 @@
       "@type": "Claim",
       "@id": "C-2652",
       "ref": "C-2652",
-      "label": "Dr. Steven Jones (BYU Physicist) Published 2009 Thermite Study on WTC Dust",
-      "claim": "BYU physicist Dr. Steven Jones published a 2009 study demonstrating advanced thermite-based explosives in WTC dust.",
+      "label": "Viewer Comment Read by the Host Says a 2009 BYU Study Found Thermite in WTC Dust",
+      "claim": "A viewer comment the host reads says BYU physicist Dr. Steven Jones published a 2009 study proving advanced thermite-based explosives in the dust from ground zero.",
       "anchored_artifacts": [
         "A-1926.3"
       ],
@@ -2961,7 +2961,7 @@
         "N-10575"
       ],
       "tags": [],
-      "claim_timestamp": "00:48:01",
+      "claim_timestamp": "00:47:08",
       "investigative_direction": "Retrieve the actual 2009 paper and verify the journal of publication and peer review status.",
       "mentions_person_refs": []
     },

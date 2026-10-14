@@ -988,7 +988,7 @@ Investigative Direction: Obtain the Panguitch receipt and its time stamp and com
 
 **C-7787** Host Offers Clock Drift at a Small Franchise as One Explanation for the 6:38 Timestamp
 
-Claim Timestamp: 00:07:47
+Claim Timestamp: 00:09:00
 
 Claim: The host offers as one speculative option that the Dairy Queen camera clock simply drifted, for example after a power outage or daylight saving change, in a small franchised restaurant.
 
@@ -1051,7 +1051,7 @@ Investigative Direction: Locate any footage or records that place Tyler Robinson
 
 **C-7791** Host Says Critics Deny the Quad Exhaust and She Holds More Unreleased Footage
 
-Claim Timestamp: 00:10:34
+Claim Timestamp: 00:12:13
 
 Claim: The host says critics now claim her released footage does not show a quad exhaust, that she has more of that footage, and that her team checked it on every floor of the garage.
 
@@ -1085,7 +1085,7 @@ Investigative Direction: Ask for service or modification records for the Challen
 
 **C-7793** Host Asks for Dairy Queen Police Report, Footage or Text Chain via Tip Email
 
-Claim Timestamp: 00:13:31
+Claim Timestamp: 00:14:59
 
 Claim: The host asks anyone with the Dairy Queen police report, footage or the related text chain to email her tip address, promising to protect their identity.
 
@@ -1101,7 +1101,7 @@ Investigative Direction: Obtain the Dairy Queen police report, the footage and t
 
 **C-7794** Host Says Tyler's Vehicle Was Spotted at Mountain Shadows Shopping Center at 12:44 Per Warrants
 
-Claim Timestamp: 00:13:31
+Claim Timestamp: 00:15:59
 
 Claim: The host says that, per the search warrants, Tyler Robinson's vehicle is spotted at the Mountain Shadows Shopping Center at 12:44 p.m., a stop she says needs revisiting.
 
@@ -1117,7 +1117,7 @@ Investigative Direction: Obtain the warrant text and the shopping-center camera 
 
 **C-7795** Host Says She Phoned Ryan Mata About How the Shopping Center Sighting Surfaced
 
-Claim Timestamp: 00:13:31
+Claim Timestamp: 00:16:09
 
 Claim: The host says she called Ryan Mata that day to ask how he came by the Mountain Shadows information, wondering whether it was fed to the public.
 
@@ -1166,7 +1166,7 @@ Investigative Direction: Obtain the shopping center surveillance footage cited i
 
 **C-7798** Host Says Probable Cause Hearing Material Was Unclear With the Aspect Ratio Adjusted
 
-Claim Timestamp: 00:18:05
+Claim Timestamp: 00:19:40
 
 Claim: The host says the probable cause hearing gave the public nothing clear, with everything blurry and the aspect ratio adjusted.
 
@@ -1294,7 +1294,7 @@ Investigative Direction: Pull criminal and school records for both men to compar
 
 **C-7806** Host Says the Warrant Does Not Say Tyler Actually Got a Car Wash
 
-Claim Timestamp: 00:23:06
+Claim Timestamp: 00:25:08
 
 Claim: The host says the search warrant that mentions the Quick Quack stop does not say he actually got a car wash, only that he went to the car wash and that investigators obtained the surveillance footage.
 
@@ -1311,7 +1311,7 @@ Investigative Direction: Obtain the full warrant and the Quick Quack transaction
 
 **C-7807** Host Recounts the Official Towel Story and Says It Makes No Sense
 
-Claim Timestamp: 00:23:06
+Claim Timestamp: 00:24:47
 
 Claim: The host says the official account has Tyler Robinson using a towel from his own home to wipe his DNA off, along with a screwdriver from home, and says that does not make sense.
 
@@ -1327,7 +1327,7 @@ Investigative Direction: Check the charging documents and lab reports for the to
 
 **C-7808** Host Says the Shopping Center Tip Reached Ryan Mata Through a Chain of Contacts
 
-Claim Timestamp: 00:23:06
+Claim Timestamp: 00:25:37
 
 Claim: The host says Ryan Mata was reached by someone who was reached by someone else, and that she is making phone calls to trace the information.
 
@@ -1343,7 +1343,7 @@ Investigative Direction: Reconstruct the chain of contacts from the original sho
 
 **C-7809** Host Asks for Car Wash and Shopping Center Information via the Tip Email
 
-Claim Timestamp: 00:23:06
+Claim Timestamp: 00:25:54
 
 Claim: The host says that she is back at the beginning of the investigation and asks anyone who knows about the Quick Quack car wash or the shopping center to email her tips address.
 
@@ -1638,7 +1638,7 @@ Investigative Direction: Check whether the Wilson video was offered as evidence 
 
 **C-7828** Host Says She First Believed TPUSA Were Charlie's True Friends Who Would Fight for Justice
 
-Claim Timestamp: 00:48:00
+Claim Timestamp: 00:49:27
 
 Claim: The host says that at the start she thought the people at TPUSA were Charlie's true friends who would help fight for justice, and that it was a rude awakening.
 
@@ -1670,7 +1670,7 @@ Investigative Direction: Watch for any filed suit by TPUSA against the host.
 
 **C-7830** Host Says Charlie's Favorite Proverb Was Iron Sharpens Iron and He Texted It
 
-Claim Timestamp: 00:49:38
+Claim Timestamp: 00:51:08
 
 Claim: The host says Charlie Kirk's favorite biblical proverb was iron sharpens iron and that he texted her about it all the time.
 
@@ -1685,7 +1685,7 @@ Investigative Direction: Locate the texts with that proverb if the host publishe
 
 **C-7831** Host Invites Viewers to Email Tips and Join a Decentralized Independent Unit
 
-Claim Timestamp: 00:49:38
+Claim Timestamp: 00:51:41
 
 Claim: The host invites viewers to email tips to be part of a story about a decentralized independent unit of people worldwide solving the Charlie Kirk case, and says the team is revisiting Dairy Queen, the shopping center and the car wash.
 
@@ -1701,7 +1701,7 @@ Investigative Direction: Collect and triage tips on Dairy Queen, the shopping ce
 
 **C-7832** Producer Note Says Carlson Recounts Trump Dismissed Iran War Concerns
 
-Claim Timestamp: 00:49:38
+Claim Timestamp: 00:52:06
 
 Claim: The host reads a producer's note quoting NPR that Tucker Carlson recounts a meeting in which Trump dismissed his Iran war concerns by saying everyone is going to die anyway.
 
@@ -1734,7 +1734,7 @@ Investigative Direction: Review the hearing testimony for each reference to part
 
 **C-7834** Host Says She Has No Footage Confirming the Garage Challenger's Plate Matches
 
-Claim Timestamp: 00:52:24
+Claim Timestamp: 00:53:39
 
 Claim: The host says she cannot confirm the plates match and has no footage that confirms it, which she suggests may be because it is not Tyler Robinson's car.
 
@@ -1750,7 +1750,7 @@ Investigative Direction: Obtain any garage footage showing the Challenger's plat
 
 **C-7835** Host Posits That a Plate Match With a Different Exhaust Would Mean Fake Plates
 
-Claim Timestamp: 00:52:24
+Claim Timestamp: 00:53:51
 
 Claim: The host says that if the plates match but the exhausts differ, it would mean the feds are printing fake plates or matching plates and putting them on vehicles to tag potential patsies.
 

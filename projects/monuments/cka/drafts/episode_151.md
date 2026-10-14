@@ -1074,11 +1074,11 @@ Investigative Direction: Identify the source of the footage; confirm provenance;
 
 ---
 
-**C-3441** Suspect texted on phone at position for ~1.5 minutes
+**C-3441** Host Says the Figure in the Footage Was Texting Before Walking Down the Stairs
 
 Claim Timestamp: 00:17:56
 
-Claim: In the displayed footage, the figure stands at a position and operates a phone in a texting posture for an extended period before descending.
+Claim: The host says the footage shows the figure standing in one spot for a long time, apparently texting on his phone, before walking down the stairs.
 
 Anchored Artifacts: A-2371.1
 Related Nodes:
@@ -1317,7 +1317,7 @@ Investigative Direction: Pull each clip in the collage to its source episode and
 
 **C-11768** Host says Boreing plans to tour with TPUSA Faith
 
-Claim Timestamp: 00:07:25
+Claim Timestamp: 00:08:45
 
 Claim: The host says Jeremy Boreing is now talking about touring with Turning Point USA Faith.
 
@@ -1333,7 +1333,7 @@ Investigative Direction: Find Boreing's statement and any TPUSA Faith tour annou
 
 **C-11769** Host says Boreing was never friends with Charlie Kirk
 
-Claim Timestamp: 00:07:25
+Claim Timestamp: 00:08:40
 
 Claim: The host says Jeremy Boreing was never friends with Charlie Kirk and did not know him, and keeps inserting himself in the Charlie Kirk narrative.
 
@@ -1445,7 +1445,7 @@ Investigative Direction: Pull Bagley's preliminary hearing testimony on how he l
 
 **C-11776** Host says police warrants date the footage to about 11:53 AM, thirty minutes before the blast
 
-Claim Timestamp: 00:14:40
+Claim Timestamp: 00:16:12
 
 Claim: The host says that according to the police warrants the shown footage is from about 11:53 AM, roughly 30 minutes before the sound of the explosive.
 
@@ -1591,7 +1591,7 @@ Investigative Direction: Check the release time of the Clark trailer and any Cla
 
 **C-11785** Host says the FBI has never gone five years without being up to no good
 
-Claim Timestamp: 00:32:02
+Claim Timestamp: 00:33:59
 
 Claim: The host says there has never been a period of even five years since the FBI's founding when it was not up to no good.
 
@@ -1670,7 +1670,7 @@ Investigative Direction: Ask TPUSA or Arizona police whether campus cameras capt
 
 **C-11790** Host says TPUSA has given no description of the vandals or sought public help
 
-Claim Timestamp: 00:37:35
+Claim Timestamp: 00:39:10
 
 Claim: The host says TPUSA has released no information on who vandalized the statue, no footage or description, and is not asking the public for help, directing people to Turning Point Action instead.
 
@@ -1685,7 +1685,7 @@ Investigative Direction: Check for any police bulletin or TPUSA footage release 
 
 **C-11791** Host says Turning Point Action is the 501(c)(4), not the charitable arm
 
-Claim Timestamp: 00:37:35
+Claim Timestamp: 00:39:25
 
 Claim: The host says Turning Point Action, where TPUSA is directing supporters, is not the 501(c)(3) charitable arm but the 501(c)(4).
 
@@ -1766,7 +1766,7 @@ Investigative Direction: Look for reporting or TPUSA board statements on a chang
 
 **C-11796** Host asks for tips by email on the footage shown and any footage viewers hold
 
-Claim Timestamp: 00:48:25
+Claim Timestamp: 00:49:47
 
 Claim: The host asks viewers to email tips about any of the footage shown that day, or any further footage they hold, to the moretips address.
 
@@ -1781,7 +1781,7 @@ Investigative Direction: Count and triage tips received at the moretips address.
 
 **C-11797** Host seeks a second source for an unnamed doctor who recused himself after something in the room
 
-Claim Timestamp: 00:48:25
+Claim Timestamp: 00:50:06
 
 Claim: The host says she is still looking for a second person to confirm that an unnamed doctor, who she is told was in the room during Charlie's surgery at Timpanogos, recused himself from all files due to something that took place in the room.
 

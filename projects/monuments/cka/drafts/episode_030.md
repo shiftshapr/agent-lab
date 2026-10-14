@@ -1092,11 +1092,11 @@ Investigative Direction: Obtain the original Schaefer post and timestamp via arc
 
 ---
 
-**C-1680** Kash Patel publicly defended Alexis Wilkins on social media
+**C-1680** Host Says Kash Patel Publicly Defended Alexis Wilkins on Social Media
 
-Claim Timestamp: 00:37:38
+Claim Timestamp: 00:36:39
 
-Claim: Kash Patel publicly defended Alexis Wilkins on social media, describing her as his "life partner" and demanding content creators leave her alone.
+Claim: The host says Kash Patel tweeted that people should leave his girlfriend alone and called Alexis Wilkins his "life partner".
 
 Anchored Artifacts: A-1386.1
 Mentions: N-69, N-216
@@ -1137,7 +1137,7 @@ Investigative Direction: Check each listed statement against its original source
 
 **C-9698** Host Says Shapiro Did Not Recant or Correct His Claim After the Tour Appearance
 
-Claim Timestamp: 00:01:51
+Claim Timestamp: 00:03:14
 
 Claim: The host says Ben Shapiro never recanted, modified or corrected his claim that she accused Erika Kirk of murder in the days after the Megyn Kelly tour appearance, which she calls a premeditated and postmeditated lie meant to pressure Kelly.
 
@@ -1188,7 +1188,7 @@ Investigative Direction: Obtain the full tour Q&A recording to verify Kelly's wo
 
 **C-9701** Megyn Kelly Says Owens Is Under Pressure to Comment on Erika and Has Not
 
-Claim Timestamp: 00:04:04
+Claim Timestamp: 00:05:30
 
 Claim: Megyn Kelly says that if one reads Candace Owens's comments she is under pressure to make comments about Erika Kirk, and that so far Kelly has seen that she has not.
 
@@ -1268,7 +1268,7 @@ Investigative Direction: Collect Kirk's own statements, texts and donor communic
 
 **C-9706** Tucker Says Kirk Told Him to Go All the Way After Tucker Said He Would Not Speak on Israel Because of Donors
 
-Claim Timestamp: 00:09:38
+Claim Timestamp: 00:11:12
 
 Claim: In the clip, Tucker Carlson says he told Charlie Kirk backstage in July that he would not discuss Israeli intelligence and Epstein so as not to anger Kirk's donors, and that Kirk looked at him and said "Go all the way. Do it. Go all the way."
 
@@ -1463,7 +1463,7 @@ Investigative Direction: Obtain TPUSA audited financial statements and Form 990s
 
 **C-9718** Host Says Mikey McCoy Made Quick Phone Calls That Did Not Include 911
 
-Claim Timestamp: 00:16:32
+Claim Timestamp: 00:18:01
 
 Claim: The host says Mikey McCoy's actions were limited to quick phone calls that, in her telling, did not include 911, and she therefore lists calling him a hero as a lie.
 
@@ -1709,7 +1709,7 @@ Investigative Direction: Not independently testable beyond the host's sources; l
 
 **C-9733** Host Says Tech People Found TPUSA May Use Software to Make Each Staffer's Email Wording Unique
 
-Claim Timestamp: 00:23:35
+Claim Timestamp: 00:24:59
 
 Claim: The host says tech people alerted her that Turning Point USA appears to have implemented software that makes each employee's copy of an email differ by one word so that a leaked image of the email identifies the source, and she advises leaking content but not the actual email.
 
@@ -1967,7 +1967,7 @@ Investigative Direction: Compare each defendant's alleged conduct in the complai
 
 **C-9749** Host Says the Lawsuit Was Filed With Kash Patel's Knowledge and Blessing
 
-Claim Timestamp: 00:37:38
+Claim Timestamp: 00:39:54
 
 Claim: The host says that because Alexis Wilkins filed the lawsuit she did so with the blessing of her life partner Kash Patel, who knew it was happening and did not stop her.
 

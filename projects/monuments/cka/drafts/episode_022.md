@@ -1063,7 +1063,7 @@ Investigative Direction: FAA aircraft registration and ownership records for the
 
 **C-9402** Casey Baugh's name is on an institute at UVU's Woodbury Building
 
-Claim Timestamp: 00:03:53
+Claim Timestamp: 00:05:14
 
 Claim: The host says Casey Baugh has his name on the Baugh Entrepreneurship Institute at Utah Valley University, which operates out of the Woodbury Business Building.
 
@@ -1079,7 +1079,7 @@ Investigative Direction: UVU website and records for the Baugh Entrepreneurship 
 
 **C-9403** Host says Tyler Robinson was not on the Woodbury building or campus
 
-Claim Timestamp: 00:03:53
+Claim Timestamp: 00:05:29
 
 Claim: The host says that, as is now known, Tyler Robinson was not on the Woodbury building or on campus at all, so she does not treat Casey Baugh as a suspect for providing access.
 
@@ -1658,7 +1658,7 @@ Investigative Direction: The statements by those she names later, compared again
 
 **C-9438** Host says she knows some of the rats for certain but not everyone
 
-Claim Timestamp: 00:53:47
+Claim Timestamp: 00:55:00
 
 Claim: The host says she knows for certain that there are rats on the ship and knows some of them, but does not know everybody who has betrayed Charlie, and will not out them yet so the others cannot protect themselves.
 

@@ -408,7 +408,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2838",
       "family_ref": "A-2838",
-      "bundle_name": "Strife-Relayed Erika Alibi Message Bundle",
+      "bundle_name": "Streiff-Relayed Erika Alibi Message Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -2049,7 +2049,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:10:15",
+      "claim_timestamp": "00:11:31",
       "investigative_direction": "Identify the TPUSA insiders the host messaged and obtain the exchange; ask TPUSA and Elizabeth McCoy who approved displaying the tent at AmFest.",
       "transcript_snippet": "the answer that I got, you're not going to believe this or you will believe this, that the person who approved this tent was the amazing Elizabeth McCoy.",
       "mentions_person_refs": [
@@ -3120,7 +3120,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:56:35",
-      "investigative_direction": "Ask Strife and TPUSA to confirm the call and the existence of a ceasefire.",
+      "investigative_direction": "Ask Streiff and TPUSA to confirm the call and the existence of a ceasefire.",
       "transcript_snippet": "and I explained to him that I was now pissed off. Um that I viewed this to be a violation of our ceasefire, okay?",
       "mentions_person_refs": [
         "N-15",
@@ -3132,8 +3132,8 @@
       "@type": "Claim",
       "@id": "C-6790",
       "ref": "C-6790",
-      "label": "Host Says Strife Offered Erika's Alibi as a Message About Making Dinner on the 8th",
-      "claim": "The host says Strife told her he would send a message from Erika as her alibi, a conversation between Erika and Charlie about making dinner in the time frame Mitch says he saw her at Fort Huachuca, and that she had not demanded an alibi.",
+      "label": "Host Says Streiff Offered Erika's Alibi as a Message About Making Dinner on the 8th",
+      "claim": "The host says Streiff told her he would send a message from Erika as her alibi, a conversation between Erika and Charlie about making dinner in the time frame Mitch says he saw her at Fort Huachuca, and that she had not demanded an alibi.",
       "anchored_artifacts": [
         "A-2838.1"
       ],
@@ -3159,7 +3159,7 @@
       "@id": "C-6791",
       "ref": "C-6791",
       "label": "Host Says the Message She Received Had the Contact Name Blacked Out",
-      "claim": "The host says Strife sent the message but the contact name was blacked out, and that she asked for an unblocked version or a quick video of Erika opening it.",
+      "claim": "The host says Streiff sent the message but the contact name was blacked out, and that she asked for an unblocked version or a quick video of Erika opening it.",
       "anchored_artifacts": [
         "A-2838.1"
       ],

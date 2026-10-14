@@ -1371,7 +1371,7 @@ Investigative Direction: Check LHC specifications on the CERN website: circumfer
 
 **C-5455** Mark says in 2012 CERN observed a reaction consistent with the Higgs boson called the God particle
 
-Claim Timestamp: 00:32:57
+Claim Timestamp: 00:34:09
 
 Claim: Mark says that in 2012 CERN observed a reaction consistent with the particle theorized in 1964, which some people called the God particle, and says it was an attempt to erase God from the story of creation.
 
@@ -1773,7 +1773,7 @@ Investigative Direction: The claim is second-hand from an unnamed cousin; no doc
 
 **C-5481** Commenter says Nick Fuentes called Epstein's 13 and 14 year old victims barely legal
 
-Claim Timestamp: 00:53:21
+Claim Timestamp: 00:54:39
 
 Claim: Read-aloud commenter Benny says that on his show the previous night Nick Fuentes said people should stop talking about pedophilia in relation to Epstein and called teen girls, some 13 and 14, barely legal.
 
@@ -1788,7 +1788,7 @@ Investigative Direction: Locate the Fuentes show episode and timestamp and compa
 
 **C-5482** Host says Nick Fuentes flipped as if given instructions and is a federal informant
 
-Claim Timestamp: 00:53:21
+Claim Timestamp: 00:54:59
 
 Claim: The host says that as soon as she had Nick Fuentes on her show he flipped as if somebody gave him instructions, and that on looking into him it was obvious he is a federal informant.
 

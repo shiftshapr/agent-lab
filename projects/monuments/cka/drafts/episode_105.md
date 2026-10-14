@@ -589,7 +589,7 @@ Investigative Direction: Obtain the appointment notice and membership roster of 
 
 **C-4113** Erika Kirk visited the West Wing just before the WHCD shooting
 
-Claim Timestamp: 00:05:04
+Claim Timestamp: 00:06:26
 
 Claim: The host says she can confirm that Erika Kirk visited the West Wing just ahead of the WHCD shooting. She assumes, but cannot yet confirm, that Andrew Kolvet and Mikey McCoy went with her.
 
@@ -681,7 +681,7 @@ Investigative Direction: Seek authentication of the email text from a second sou
 
 **C-4119** Email said the Erika Kirk clip was driving the highest engagement
 
-Claim Timestamp: 00:06:45
+Claim Timestamp: 00:08:00
 
 Claim: According to the host's retyping, the email's addendum said the clip of Erika Kirk saying "I just want to go home" was driving the highest engagement of all incident-related content and was the "strongest emotional response asset" associated with the incident.
 
@@ -696,7 +696,7 @@ Investigative Direction: Obtain the original email and any social-listening repo
 
 **C-4120** Email recommended amplifying the clip through digital partners and approved surrogates
 
-Claim Timestamp: 00:06:45
+Claim Timestamp: 00:08:31
 
 Claim: According to the host's retyping, the email recommended that all communications channels amplify the clip and coordinate with "digital partners" and "approved surrogates" for dominant overnight placement.
 
@@ -1162,7 +1162,7 @@ Investigative Direction: Review sponsor contract terms, if disclosed, for exclus
 
 **C-4151** The boycott led to the show's biggest day of merch sales
 
-Claim Timestamp: 00:35:20
+Claim Timestamp: 00:36:36
 
 Claim: The host says the campaign led to the biggest day of merch sales on her website ever.
 

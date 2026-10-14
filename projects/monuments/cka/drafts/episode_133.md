@@ -948,7 +948,7 @@ Investigative Direction: Compare the still released during the manhunt with the 
 
 **C-7356** Host Says Zachariah Karashy Was Arrested, Interrogated and Released
 
-Claim Timestamp: 00:02:41
+Claim Timestamp: 00:03:53
 
 Claim: The host says local police went to Zachariah Karashy's apartment in Provo, he was brought in and interrogated by the feds, and then released, and she asks what evidence led to his arrest and why he was let go.
 
@@ -1272,7 +1272,7 @@ Investigative Direction: Verify Foster Curtis's NCIS and Inspector General caree
 
 **C-7376** Host Describes NCIS Reach and Jurisdiction
 
-Claim Timestamp: 00:21:00
+Claim Timestamp: 00:22:28
 
 Claim: The host says NCIS has a presence in more than 41 countries and on US Navy vessels, that half its personnel are civilians, and that it investigates major criminal activity involving the Navy and Marine Corps, which she says would include an assassination planned by the military.
 
@@ -1320,7 +1320,7 @@ Investigative Direction: Find the June 2025 Richmond local news reports and city
 
 **C-7379** Host Adds Mitch and Foster Curtis to Her Tree of Brand-New Utah Personnel
 
-Claim Timestamp: 00:22:40
+Claim Timestamp: 00:23:56
 
 Claim: The host says Foster Curtis's job change came a couple of months before his son found the gun, and adds the two to her spreadsheet of brand-new people in Utah.
 
@@ -1352,7 +1352,7 @@ Investigative Direction: Check Phelan's official biography and the NCIS organiza
 
 **C-7381** Host Says Phelan Hosted a Private Trump Fundraiser in Aspen
 
-Claim Timestamp: 00:27:47
+Claim Timestamp: 00:28:58
 
 Claim: The host says Phelan helped Trump raise money before his second term by hosting a private fundraiser in Aspen with billionaire guests such as Steve Wynn.
 

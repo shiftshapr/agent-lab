@@ -1141,7 +1141,7 @@ Investigative Direction: Track the request's status and any later determination 
 
 **C-4577** Blake Neff posted on X mocking the FOIA request
 
-Claim Timestamp: 00:30:50
+Claim Timestamp: 00:32:03
 
 Claim: The host says Blake Neff, now representing The Charlie Kirk Show, posted on X that the request was the latest thing she would fixate on for two weeks as an excuse to harass people.
 
@@ -1156,7 +1156,7 @@ Investigative Direction: Archive Blake Neff's X post and its date.
 
 **C-4578** Kolvet implied the "emotional asset" email was made up; host filed a FOIA request
 
-Claim Timestamp: 00:30:50
+Claim Timestamp: 00:32:37
 
 Claim: The host says Andrew Kolvet implied her team made up the email calling Erika Kirk an "emotional asset," and that they filed and followed up on a FOIA request about it.
 

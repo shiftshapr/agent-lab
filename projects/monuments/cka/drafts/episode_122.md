@@ -1515,7 +1515,7 @@ Investigative Direction: Search court and sex-offender registries for any matchi
 
 **C-8835** Host Could Not Find Any Registered Record of the Father's Alleged Crime
 
-Claim Timestamp: 00:07:09
+Claim Timestamp: 00:08:30
 
 Claim: The host says she thought it odd that she could not find, if Rawlinson's father had committed a crime, any registered record of it.
 
@@ -1793,7 +1793,7 @@ Investigative Direction: Locate the specific unsealed Giuffre v. Maxwell filing 
 
 **C-8852** Host Says Brunel Flew 12-Year-Old Triplets to Epstein for His Birthday
 
-Claim Timestamp: 00:17:46
+Claim Timestamp: 00:19:01
 
 Claim: The host says that for Jeffrey Epstein's birthday, Jean-Luc Brunel flew out 12-year-old triplets from Paris to Epstein.
 
@@ -2917,7 +2917,7 @@ Investigative Direction: Read the autopsy report for chest findings and ask the 
 
 **C-8921** Host Says the Military Had Everything to Do With What Happened on September 10
 
-Claim Timestamp: 00:55:38
+Claim Timestamp: 00:55:10
 
 Claim: The host says she thinks the United States military had everything to do with what happened on September 10th and urges viewers not to enlist to honor Charlie.
 

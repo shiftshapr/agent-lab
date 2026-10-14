@@ -803,7 +803,7 @@ Investigative Direction: Archive Mikhaila Peterson's post with its date.
 
 **C-3961** Ian Miles Cheong posted that the host's attacks on Erika Kirk "led to this"
 
-Claim Timestamp: 00:07:24
+Claim Timestamp: 00:08:38
 
 Claim: The host reads a post by Ian Miles Cheong saying that "the endless conspiracy theorizing and attacks on Erika Kirk by Candace Owens led to this."
 

@@ -896,7 +896,7 @@ Investigative Direction: Independently verify against academic and government so
 
 **C-6552** Host Says She Knows Mikey McCoy Did Not Kill Charlie
 
-Claim Timestamp: 00:02:42
+Claim Timestamp: 00:04:18
 
 Claim: The host says she does not merely think but knows that Mikey McCoy did not kill Charlie Kirk, because viewers watched him in those moments.
 
@@ -912,7 +912,7 @@ Investigative Direction: Compare the shooting-day footage of Mikey McCoy's locat
 
 **C-6553** Host Says the Stage Was Being Set for Mikey to Become the New Charlie
 
-Claim Timestamp: 00:02:42
+Claim Timestamp: 00:04:25
 
 Claim: The host says the stage was being set for Mikey McCoy to become the new Charlie, and that speakers at the memorial and elsewhere tried to prime the public for that plausibility, which she compares to a psychological operation nodding to Rob McCoy's family lineage.
 
@@ -946,7 +946,7 @@ Investigative Direction: Obtain the full Faith Forward Show recording and check 
 
 **C-6555** Host Says Insiders Saw Extra Spring in Mikey McCoy's Step
 
-Claim Timestamp: 00:07:16
+Claim Timestamp: 00:08:42
 
 Claim: The host says the number one sentiment from Turning Point USA insiders after the assassination was that Mikey McCoy appeared to have an extra spring in his step that made them uncomfortable and that he seemed happy to assume Charlie's position.
 
@@ -962,7 +962,7 @@ Investigative Direction: Identify the insiders through the host's sources and as
 
 **C-6556** Host Says Mikey McCoy Is Already Speaking at Liberty University
 
-Claim Timestamp: 00:07:16
+Claim Timestamp: 00:08:55
 
 Claim: The host says Mikey McCoy is already speaking at Liberty University and that he got there because he made some phone calls.
 
@@ -1029,7 +1029,7 @@ Investigative Direction: Identify who filmed the viral clip through its first po
 
 **C-6560** Host Places the McCoy Family Footage in Mid-July to Early August
 
-Claim Timestamp: 00:11:45
+Claim Timestamp: 00:12:58
 
 Claim: The host says that according to her sources the McCoys were on hand to capture the family footage in what looks like mid July to early August, and that her team will nail down the specific dates.
 
@@ -1045,7 +1045,7 @@ Investigative Direction: Obtain the original upload date and file metadata of th
 
 **C-6561** Host Says Rob McCoy's Church Was Funded by the Wilks Brothers
 
-Claim Timestamp: 00:11:45
+Claim Timestamp: 00:13:48
 
 Claim: The host says Rob McCoy's church was funded by the Wilks brothers in Texas, which she says she had not known.
 
@@ -1061,7 +1061,7 @@ Investigative Direction: Check church filings and public giving records for Wilk
 
 **C-6562** Host Says the Wilks Brothers Fund Daily Wire and PragerU
 
-Claim Timestamp: 00:11:45
+Claim Timestamp: 00:13:52
 
 Claim: The host says the Wilks brothers fund the Daily Wire and were its initial seed money, and that they majorly fund Prager University as well, which she calls an interesting web.
 
@@ -1077,7 +1077,7 @@ Investigative Direction: Check Daily Wire and PragerU donor disclosures and pres
 
 **C-6563** Host Says the Wilks-Funded Church Is Described Online as a Cult
 
-Claim Timestamp: 00:11:45
+Claim Timestamp: 00:14:13
 
 Claim: The host says the church is, in her words, part of what is described online as a cult and that she cannot explain it herself.
 
@@ -1093,7 +1093,7 @@ Investigative Direction: Identify who describes the church as a cult online and 
 
 **C-6564** Rob McCoy's Step Down Was Announced Publicly in January After 17 Years
 
-Claim Timestamp: 00:11:45
+Claim Timestamp: 00:14:28
 
 Claim: The host says that after 17 years as head pastor, Rob McCoy's stepping down to the honorific role of pastor emeritus was publicly announced in January of this year, with the transition taking effect in mid-July.
 
@@ -1143,7 +1143,7 @@ Investigative Direction: Review the video of Tucker Carlson's July 11, 2025 TPUS
 
 **C-6567** Host Says TPUSA Received UVU's Request on July 18 and Instantly Accepted It as Stop One
 
-Claim Timestamp: 00:15:47
+Claim Timestamp: 00:17:11
 
 Claim: The host says that on July 18 Turning Point USA received a request from UVU for Charlie to hold an event, that TPUSA instantly accepted it and made it his first stop, and she credits Sam Parker with the find.
 
@@ -1193,7 +1193,7 @@ Investigative Direction: Compare the UVU form with University of Utah event appl
 
 **C-6570** Host Says a Request This Late Becoming Stop Number One Has Never Happened
 
-Claim Timestamp: 00:17:57
+Claim Timestamp: 00:19:12
 
 Claim: The host says that, having done many events with Charlie and universities across all 50 states asking them to speak, a request going in that late and becoming stop number one within a couple of weeks has never happened.
 
@@ -1209,7 +1209,7 @@ Investigative Direction: Compare typical lead times between request and event ac
 
 **C-6571** Host Says There Was No Ambulance on Standby, Against Utah Law
 
-Claim Timestamp: 00:17:57
+Claim Timestamp: 00:19:29
 
 Claim: The host says that, as everybody has noticed, there was no ambulance on standby at the event and that this is against Utah law.
 
@@ -1225,7 +1225,7 @@ Investigative Direction: Check the Utah statute or UVU policy on standby medical
 
 **C-6572** Host Suspects There Was No Security Plan at All
 
-Claim Timestamp: 00:17:57
+Claim Timestamp: 00:19:40
 
 Claim: The host says that because UVU will not release the security plan, she is pretty sure the event was an extraordinary first-time situation in which there was no security plan.
 
@@ -1241,7 +1241,7 @@ Investigative Direction: Pursue the Fox 13 appeal and any court-ordered release 
 
 **C-6573** Host Says a Tip Claims the Event Was Initially Slated to Be Inside
 
-Claim Timestamp: 00:17:57
+Claim Timestamp: 00:19:46
 
 Claim: The host says she received a tip that the event had initially been slated to be inside but was moved, and that she is not confirming it and has to look into it.
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Review Patel's posts defending his girlfriend and the c
 
 **C-6578** Host Says Village Crazy Lady Reported the Israeli Phones Early
 
-Claim Timestamp: 00:20:12
+Claim Timestamp: 00:21:34
 
 Claim: The host says the account she follows, Village Crazy Lady, was very early with the reporting on the Israeli cell phones and that the host had heard rumors and rumblings but waited for verifiable proof.
 
@@ -1356,7 +1356,7 @@ Investigative Direction: Ask the FBI, NSA and White House press office whether t
 
 **C-6580** Host Says a .30-06 Did Not Get Stopped by Charlie's Neck
 
-Claim Timestamp: 00:28:29
+Claim Timestamp: 00:29:49
 
 Claim: The host says that the official story that a .30-06 was stopped by Charlie Kirk's neck is complete BS, and that something that could take down a moose somehow did not take down Charlie Kirk.
 
@@ -1420,7 +1420,7 @@ Investigative Direction: Check UN and health-ministry casualty counts for childr
 
 **C-6584** Tucker Says He Once Hated Glenn Greenwald and Now Counts Him a Favorite
 
-Claim Timestamp: 00:35:17
+Claim Timestamp: 00:36:49
 
 Claim: In the clip played, Tucker Carlson says he hated Glenn Greenwald and now thinks he is one of his favorite people in the world, as an example of people changing.
 
@@ -1469,7 +1469,7 @@ Investigative Direction: Obtain hospital intake records and arrest and booking p
 
 **C-6587** Host Says Records Showing Jews Came From the Holy Land Are Outweighed by Contrary Proof
 
-Claim Timestamp: 00:41:52
+Claim Timestamp: 00:44:02
 
 Claim: The host says there is more proof against the idea that these people are the original people of the Holy Land, and that textbooks pointing to Turkey, the Ashkenaz tribe and Yiddish have stopped being printed.
 
@@ -1595,7 +1595,7 @@ Investigative Direction: Identify the videographer and the vantage point of the 
 
 **C-6595** Host Says TikTok Is Hitting Her Videos About the Egyptian Planes
 
-Claim Timestamp: 00:48:35
+Claim Timestamp: 00:49:56
 
 Claim: The host says TikTok is hitting her with penalties for videos talking about the Egyptian planes, which she calls very strange.
 
@@ -1611,7 +1611,7 @@ Investigative Direction: Request the TikTok enforcement notices and moderation r
 
 **C-6596** Host Says TikTok's Moderator Served in the IDF and Netanyahu Wants TikTok Secured
 
-Claim Timestamp: 00:48:35
+Claim Timestamp: 00:50:01
 
 Claim: The host says TikTok's moderator served in the IDF and that Netanyahu wants TikTok secured for Israel's future, and asks why they care about the Egyptian planes.
 

@@ -1020,7 +1020,7 @@ Investigative Direction: Collect the upload timestamps of the named videos to te
 
 **C-8079** Host Says Charlie Kirk Built TPUSA Without a College Degree
 
-Claim Timestamp: 00:16:23
+Claim Timestamp: 00:18:25
 
 Claim: The host says Charlie Kirk built the company without going to college and had been doing so for over a decade.
 
@@ -1248,7 +1248,7 @@ Investigative Direction: Check the host's earlier episodes on the planes to conf
 
 **C-8093** Host Says Erika Kirk Answered Bari Weiss's Conspiracy Question With Stop
 
-Claim Timestamp: 00:35:40
+Claim Timestamp: 00:36:58
 
 Claim: The host says that when Bari Weiss asked about the conspiracies and what Erika would say to those voicing them, Erika Kirk answered "Stop."
 
@@ -1264,7 +1264,7 @@ Investigative Direction: Obtain the town hall footage and exact wording of Weiss
 
 **C-8094** Host Says Erika Kirk Spoke Well of Jews and Said TPUSA Is Having Shabbat Dinner
 
-Claim Timestamp: 00:35:40
+Claim Timestamp: 00:37:01
 
 Claim: The host says Erika Kirk, not speaking about the host, talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.
 
@@ -1297,7 +1297,7 @@ Investigative Direction: Identify the source messages or communications behind e
 
 **C-8096** Host Says Her Earlier E4 and E3 Rank Was Her Transcription Error and Harry Said O-6
 
-Claim Timestamp: 00:37:59
+Claim Timestamp: 00:39:11
 
 Claim: The host says she misspoke the day before when she said E4 and E3, that her notes show the witness said O-6, and that she introduced the error when transferring notes after Googling and editing what she thought she heard.
 
@@ -1314,7 +1314,7 @@ Investigative Direction: Compare the host's raw call notes with the published ac
 
 **C-8097** Host Says the Call With Harry Lasted Over an Hour
 
-Claim Timestamp: 00:37:59
+Claim Timestamp: 00:39:21
 
 Claim: The host says her phone conversation with the Fort Huachuca witness lasted more than one hour.
 
@@ -1414,7 +1414,7 @@ Investigative Direction: Have an independent party review the documentation and 
 
 **C-8103** Host Says Harry Found a Cartel Tunnel at 20 and Is Now 56
 
-Claim Timestamp: 00:40:52
+Claim Timestamp: 00:42:16
 
 Claim: The host says the witness found a cartel tunnel when he was 20 and is now 56.
 
@@ -1431,7 +1431,7 @@ Investigative Direction: Check military records for the witness's 1990 assignmen
 
 **C-8104** Host Says the Group Panicked When Harry Walked Into the Building
 
-Claim Timestamp: 00:40:52
+Claim Timestamp: 00:42:34
 
 Claim: The host says the group panicked when the witness walked in, because he should not have known the building was there, and did not buy his excuse.
 
@@ -1447,7 +1447,7 @@ Investigative Direction: Obtain the military police incident report and ask Capt
 
 **C-8105** Host Says Harry Was Allowed to Leave After Seven Hours
 
-Claim Timestamp: 00:40:52
+Claim Timestamp: 00:42:47
 
 Claim: The host says that about seven hours later the witness was allowed to leave, or Captain Nef allowed him to leave.
 
@@ -1464,7 +1464,7 @@ Investigative Direction: Request the military police incident record for the det
 
 **C-8106** Host Says Harry Said That Many Senior Officers Implied a High-Ranking Congressional Member or Executive
 
-Claim Timestamp: 00:40:52
+Claim Timestamp: 00:43:08
 
 Claim: The host says the witness told her seeing that many senior officers is not common unless a high-ranking congressional member or someone close to the president or vice president was involved.
 
@@ -1779,7 +1779,7 @@ Investigative Direction: Ask the witness whom he believes he saw in the truck.
 
 **C-8125** Host Asks for Tips Be Sent to More Tips at Candace Owens dot com
 
-Claim Timestamp: 00:59:22
+Claim Timestamp: 01:01:09
 
 Claim: The host asks viewers who know about the Candlewood Suites footage to send tips to More Tips at candaceowens.com.
 

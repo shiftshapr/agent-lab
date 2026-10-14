@@ -1355,9 +1355,9 @@ Investigative Direction: Identify the person under the correct spelling and pull
 
 **C-10503** Host Says Erika Put Pastor Greg Laurie on the Headlining Paperwork of the First Post-Charlie Tour
 
-Claim Timestamp: 00:03:34
+Claim Timestamp: 00:04:52
 
-Claim: The host says that immediately after Charlie died, Erika had Pastor Greg Laurie (transcribed Greg Laurie) on the headlining paperwork for the first tour, the Make Heaven Crowded tour.
+Claim: The host says that immediately after Charlie died, Erika had Pastor Greg Laurie on the headlining paperwork for the first tour, the Make Heaven Crowded tour.
 
 Transcript Snippet: Pastor Greg Laurie immediately after Charlie passed, the first tour that they did, Make Heaven Crowded tour kind of sounds like a threat, but Erika had him on on the headlining paperwork, right?
 
@@ -1371,7 +1371,7 @@ Investigative Direction: Obtain the Make Heaven Crowded tour lineup and event pa
 
 **C-10504** Host Says Harvest Church Is in Court Over Accusations of Trafficking Children From Romania and Denies the Charges
 
-Claim Timestamp: 00:03:34
+Claim Timestamp: 00:05:08
 
 Claim: The host says the church linked to that tour is currently going through the court system accused of trafficking children from Romania, that it denies the charges, and that it does not deny people may have been trafficked.
 
@@ -1387,7 +1387,7 @@ Investigative Direction: Pull the docket and complaints in the Harvest Christian
 
 **C-10505** Host Says Andrew Pascado Was Questioned by the Feds on September 10 and Warns of Ukrainian Military Sex Trafficking
 
-Claim Timestamp: 00:03:34
+Claim Timestamp: 00:05:40
 
 Claim: The host says Andrew Pascado was one of the people the feds questioned on September 10 and that in his own capacity he works to ring the alarm on military Ukrainian sex trafficking into the United States.
 
@@ -1402,7 +1402,7 @@ Investigative Direction: Identify Pascado under his correct spelling and find th
 
 **C-10506** Host Says Calvary Chapel Is Riddled With Pastor Abuse Stories and Looks Systemic
 
-Claim Timestamp: 00:03:34
+Claim Timestamp: 00:05:53
 
 Claim: The host says Calvary Chapel is riddled with pastor abuse stories and that it seems systemic, as if shady characters are found and made pastors, perhaps as a mechanism to control people.
 
@@ -1796,7 +1796,7 @@ Investigative Direction: Obtain the hospital footage warrant and affidavit ratio
 
 **C-10531** Host Says Carl Signed Warrants to Search Matt and Amber Robinson's House
 
-Claim Timestamp: 00:15:26
+Claim Timestamp: 00:16:39
 
 Claim: The host says the warrants Carl signed also included searches of Matt and Amber Robinson's house.
 
@@ -1826,7 +1826,7 @@ Investigative Direction: Obtain the diagram source and verify each person's list
 
 **C-10533** Host Says the Clip Shows Mikey McCoy on the Phone With Three Officers Walking Behind Him
 
-Claim Timestamp: 00:16:49
+Claim Timestamp: 00:18:04
 
 Claim: The host says the never-before-seen September 10 clip shows Mikey McCoy on the phone with three officers walking behind him who soon walk with him.
 
@@ -1975,7 +1975,7 @@ Investigative Direction: No documentary test exists yet; trace tasking orders fo
 
 **C-10542** Host Says Epstein's Network Reemerged in the Nonprofit World in 2018 and Is a Plausible Motive for the Murder
 
-Claim Timestamp: 00:22:24
+Claim Timestamp: 00:23:38
 
 Claim: The host says, in her belief and allegedly according to her research, that Epstein's network reemerged in the not-for-profit world in 2018, and that this is a plausible big reason Charlie was murdered.
 
@@ -1990,7 +1990,7 @@ Investigative Direction: Define what the reemergence refers to and trace the non
 
 **C-10543** Host Says Trump Yelled at Charlie by Phone for Speaking About the Epstein Case
 
-Claim Timestamp: 00:22:24
+Claim Timestamp: 00:23:52
 
 Claim: The host cites a phone call in which Trump yelled at Charlie Kirk for speaking about the Epstein case as part of the evidence for her theory.
 
@@ -2208,7 +2208,7 @@ Investigative Direction: Verify the agency's founding history, Kates's role and 
 
 **C-10557** Host Says Cases Involving the Same Topic Exist Among People Working for TPUSA That Day, Which She Is Withholding
 
-Claim Timestamp: 00:29:26
+Claim Timestamp: 00:31:12
 
 Claim: The host says that among the people working for TPUSA that day, her team has found background cases involving this same topic and is holding the material for other reasons.
 
@@ -2315,7 +2315,7 @@ Investigative Direction: Check Tardio's service record, noting the host calls hi
 
 **C-10564** Show Host Says the Video Could Be Exhibit 11 Which the Judge Did Not Allow the News Media to See
 
-Claim Timestamp: 00:37:19
+Claim Timestamp: 00:38:36
 
 Claim: In the clip, the show host says the video the host released may be connected to exhibit 11, which the judge did not allow the news media to see at the preliminary hearing but which was shown privately in court.
 
@@ -2344,7 +2344,7 @@ Investigative Direction: Have independent video forensics experts assess the fil
 
 **C-10566** Host Says Tardio's Alleged Victim Said He Tried to Take a Fan to His Hotel Room and Carried Her Down an Alley
 
-Claim Timestamp: 00:38:56
+Claim Timestamp: 00:40:11
 
 Claim: The host says police and Tardio's alleged victim reported that Tardio tried to take one of his fans at the Portland protest back to his hotel room, grew forceful when she refused, and carried her down an alley before she escaped.
 
@@ -2361,7 +2361,7 @@ Investigative Direction: Obtain the Bulwark report, the Portland police report a
 
 **C-10567** Host Says Tardio Told a Portland Detective Antifa Activists Had Plotted to Get Him Stoned
 
-Claim Timestamp: 00:38:56
+Claim Timestamp: 00:40:45
 
 Claim: The host says that when interviewed by a Portland detective, Tardio's explanation was that left-wing Antifa activists had plotted to get him stoned.
 
@@ -2424,7 +2424,7 @@ Investigative Direction: Obtain the full concert recording.
 
 **C-10571** Macklemore Calls ICE a Terrorist Organization on Stage
 
-Claim Timestamp: 00:44:05
+Claim Timestamp: 00:45:20
 
 Claim: In the clip, Macklemore calls for freeing all people in America living in fear over what he calls this terrorist organization ICE.
 
@@ -2652,7 +2652,7 @@ Investigative Direction: Locate the Piers Morgan Uncensored episode and its air 
 
 **C-10586** Host Says She Was Fishing in Iceland With Mappin and Her Husband When She Spoke to Tatum by Phone
 
-Claim Timestamp: 01:00:00
+Claim Timestamp: 00:59:33
 
 Claim: The host says John Mappin was with her when she spoke to Brandon Tatum while she was in Iceland, fishing with Mappin and her husband, and that the call lasted about an hour and a half.
 

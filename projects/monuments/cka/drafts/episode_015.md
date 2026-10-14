@@ -1416,7 +1416,7 @@ Investigative Direction: Identify the staffer and role at TPUSA; the host later 
 
 **C-6478** Kolvet Says Staffer Wanted 4K Footage Protected
 
-Claim Timestamp: 00:21:03
+Claim Timestamp: 00:22:24
 
 Claim: In the clip, Andrew Kolvet quotes the staffer as saying he knew he had to protect the footage because it was being recorded in 4K.
 
@@ -1432,7 +1432,7 @@ Investigative Direction: Compare with Bowyer's and the staffer's own stated moti
 
 **C-6479** Tucker Carlson Says Public Distrust of Authorities Is Justified
 
-Claim Timestamp: 00:21:03
+Claim Timestamp: 00:22:48
 
 Claim: In the clip, Tucker Carlson says people trying to make sense of the case are motivated mostly by pure intent, do not trust the authorities, and have every reason to feel that way because of lying that has corroded trust.
 

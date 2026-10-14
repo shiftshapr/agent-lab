@@ -1634,8 +1634,8 @@ Investigative Direction: Obtain the full 1997 Washington Post article, identify 
 
 **C-2031** Women's Federation made a $3.5 million grant to Christian Heritage Foundation in 1995 that helped bail out Liberty University
 
-Claim Timestamp: 01:06:32
-Claim: Per the 1997 Washington Post article, the Women's Federation made a $3.5 million grant to the Christian Heritage Foundation in 1995, which later brought a portion of Liberty University's debt.
+Claim Timestamp: 01:06:00
+Claim: Per the 1997 Washington Post article the host reads, the Women's Federation made a $3.5 million grant to the Christian Heritage Foundation in 1995, which later bought a portion of Liberty University's debt.
 Anchored Artifacts: A-1599.3
 Mentions: N-404, N-405
 Related Nodes: N-10393
@@ -3538,7 +3538,7 @@ Investigative Direction: Find who invited Kirk to Build Up Korea and any corresp
 
 **C-8233** Host Says Kirk Was in Korea September 4 and 5 and Pastor Yoon Was Arrested September 9
 
-Claim Timestamp: 01:07:31
+Claim Timestamp: 01:08:44
 
 Claim: The host says Pastor Yoon was arrested on September 9 and that Charlie Kirk was in Korea on September 4 and 5 for the Build Up Korea conference, so the arrest came days later.
 

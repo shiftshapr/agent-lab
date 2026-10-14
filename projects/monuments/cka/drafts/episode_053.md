@@ -1099,7 +1099,7 @@ Investigative Direction: Identify the accounts or outlets attacking Kelly and an
 
 **C-6913** Host Says Shapiro Paid for a Prime Amfest Slot Right After Erika Kirk
 
-Claim Timestamp: 00:04:43
+Claim Timestamp: 00:05:59
 
 Claim: The host says Shapiro paid money for a prime speaking slot at Amfest, taking the stage just after Erika Kirk opened, and used it to attack her, Tucker Carlson and Megyn Kelly.
 
@@ -1728,7 +1728,7 @@ Investigative Direction: Ask Horowitz Freedom Center and Babylon Bee principals 
 
 **C-6952** Kanye Told the Host He Felt Finally Free After Burning Everything Down
 
-Claim Timestamp: 00:29:19
+Claim Timestamp: 00:30:37
 
 Claim: The host says Kanye West, after he burned everything to the ground, told her he felt like he was finally free, which she compares to leaving a gang.
 

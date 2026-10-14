@@ -699,7 +699,7 @@ Investigative Direction: Retrieve archived versions of Victor Marx's website via
 
 **C-3708** Victor Marx website claimed rescue of 45,000 women and children
 
-Claim Timestamp: 01:14:27
+Claim Timestamp: 01:13:44
 Claim: Episode displays victor2026.com website text stating Victor Marx 'rescued more than 45,000 women and children.'
 Transcript Snippet: a high-risk humanitarian who has rescued more than 45,000 women and children
 Anchored Artifacts: A-2509.2
@@ -722,7 +722,7 @@ Investigative Direction: Cross-reference with statements from family members and
 
 **C-3710** Victor Marx asserts 3-year Marine Corps service on DD-214
 
-Claim Timestamp: 00:23:58
+Claim Timestamp: 00:23:40
 Claim: Victor Marx states he served 3 years in the Marine Corps, correcting prior '2 years' framing, citing his DD-214.
 Transcript Snippet: it was three years and it was on the DD-214
 Anchored Artifacts: A-2510.1, A-2512.1
@@ -1249,7 +1249,7 @@ Investigative Direction: Identify the board and obtain the letter; ask the board
 
 **C-5695** Marx's CEO allegedly offered his daughter $55,000 as quiet money
 
-Claim Timestamp: 00:11:03
+Claim Timestamp: 00:12:37
 
 Claim: Reading the daughter's post, the host reports that Marx's CEO offered her $55,000 after the request to retract the letter, which she described as essentially quiet money, and that she declined.
 
@@ -1264,7 +1264,7 @@ Investigative Direction: Obtain the original post and ask the organization wheth
 
 **C-5696** Daughter's post says parents demanded the board letter be retracted or there would be consequences
 
-Claim Timestamp: 00:11:03
+Claim Timestamp: 00:12:23
 
 Claim: Reading the daughter's post, the host reports that a letter was sent to her father's board on April 26 and that her parents immediately requested the letter be retracted or there would be 'consequences'.
 
@@ -1554,7 +1554,7 @@ Investigative Direction: Identify Charmaine and ask whether she has spoken publi
 
 **C-5715** Marx says law enforcement train at his center and he has MOUs with them
 
-Claim Timestamp: 00:31:45
+Claim Timestamp: 00:33:03
 
 Claim: Victor Marx says members of ICAC, attorney general staff, investigators, analysts and detectives come to his training center for retreats, that he works with law enforcement, and that he has MOUs with them.
 
@@ -1983,7 +1983,7 @@ Investigative Direction: Check Marx's DD-214 for his unit and assignment; the tr
 
 **C-5743** Marx says Dave Eubank invited him to Burma
 
-Claim Timestamp: 00:51:20
+Claim Timestamp: 00:52:40
 
 Claim: Victor Marx says he was invited to go to Burma by Dave Eubank, whom he calls the godfather of high-risk missions work.
 
@@ -2135,7 +2135,7 @@ Investigative Direction: Ask Marx for the documentation and the safe-house photo
 
 **C-5753** Marx says some organizations posing as counter-trafficking are actually traffickers
 
-Claim Timestamp: 00:58:47
+Claim Timestamp: 01:00:07
 
 Claim: Victor Marx says there is no doubt in his mind that there are organizations that are actually traffickers posing as counter-trafficking.
 
