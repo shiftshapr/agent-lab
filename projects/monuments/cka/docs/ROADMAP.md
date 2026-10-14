@@ -22,11 +22,11 @@ The full execution plan from here to a verified, published and promoted archive.
 | 0.4 | Make the inscription builder copy claim `Tags:` itself | `sync_claim_tags.py` reports 0 on a fresh build |
 | 0.5 | **Timestamp verifier.** Every claim's timestamp falls inside the transcript block that contains its snippet, so the `?t=` link lands on the sentence | it runs as a CI step and fails on any drift |
 | 0.6 | **Spot-check QA harness.** Opus re-checks a random 2–3% of each batch's claims against the transcript and HappyScribe, scoring attribution, accuracy, person, timestamp and relevance | it reports a material-error rate per batch to `audits/<batch>/qa.md`; target < 2% |
-| 0.7 | **Source-of-truth decision.** Today drafts (Markdown) are primary and JSON is derived. Write up the options and the cost of each | Daveed rules, before Phase 3 |
+| 0.7 | **Source of truth (ruled: JSON primary from Wave 4).** Until then, keep Markdown primary but route every parse through one tested parser module | one parser module used by integrator, builder and gates |
 | 0.8 | Privacy rules in POLICY §10 | merged (this PR) |
 
 ## Phase 1 — Finish ingest and automate staying current
-**Owner:** Claude · **Gate:** Daveed approves the daily pipeline's first week of auto-merged PRs
+**Owner:** Claude · **Gate:** first week reviewed (every daily PR waits); then auto-merge when green except privacy or sensitive-allegation hits (POLICY §9)
 
 | # | Task | Done when |
 |---|---|---|
@@ -48,21 +48,23 @@ The full execution plan from here to a verified, published and promoted archive.
 | 2.4 | **Privacy scrub** under POLICY §10: home addresses, minors' details, and private individuals' personal details | 0 hits by the privacy linter, which runs in CI |
 
 ## Phase 3 — Wave 4: events and things (after all ingest)
-**Owner:** Claude · **Gate:** Daveed approves the event and topic model
+**Owner:** Claude · **Ruled:** typed model aligned with schema.org and Wikidata, and the switch to JSON as source of truth happens here
 
 | # | Task | Done when |
 |---|---|---|
-| 3.1 | Event and thing nodes with `event_time`. For example, a Sept 10 event absorbs N-10002 Death and Memorial | each core event has a node with a time |
+| 3.0 | **Migrate to JSON as source of truth.** The JSON is the master copy, Markdown is rendered from it, and agents write structured output; all with schema validation in CI | drafts regenerate byte-stable from JSON |
+| 3.1 | Typed nodes: Event (with `event_time` and place), Thing (rifle, SD card, plane), Organization, Place, Person, and Investigation question; each mapped to a schema.org type and a Wikidata class. For example, a Sept 10 event absorbs N-10002 Death and Memorial, and the "… Question" topics become Investigation questions | each core event has a node with a time; every node has a type |
 | 3.2 | Consolidate the topics: about 1,300 now, including more than ten Fort Huachuca topics. Apply the approved splits | topic count reduced with a merge map; no near-duplicate topic pairs |
 | 3.3 | Fix the companion's corroboration mapping: a same-host `Supports` must not become `isCorroboratedBy` | fixed |
 
 ## Phase 4 — Primary sources and the verification layer
 4.1–4.3 can start in parallel with Phase 1. Linking (4.5) waits for Wave 4.
-**Owner:** Claude · **Gate:** Daveed approves the source list and the verification taxonomy
+**Owner:** Claude · **Ruled:** Tier 1 primary records and Tier 2 reputable reporting as evidence; commentators ingested as speakers, never as evidence; the five-value status (POLICY §11)
 
 | # | Task | Done when |
 |---|---|---|
-| 4.1 | **Source streams** as separate monuments or sources, each with provenance: Utah v. Robinson docket filings and preliminary-hearing transcripts, public warrants, FOIA responses, ADS-B and FAA flight data, TPUSA, Kolvet and Charlie Kirk Show statements, Erika Kirk interviews, and major news reporting | each stream has an ingest script and a manifest |
+| 4.1 | **Source streams** with provenance and a tier. Tier 1: Utah v. Robinson docket and preliminary-hearing transcripts, public warrants, FOIA responses, ADS-B and FAA flight data, and official statements. Tier 2: reputable reporting | each stream has an ingest script, a manifest and a tier |
+| 4.1b | **Commentator speakers.** The Charlie Kirk Show (Kolvet, Neff), Erika Kirk interviews, Baron Coleman and other creators on either side, ingested like the host, as claims | their claims can be linked by Supports, Contradicts and Qualifies; never used as evidence |
 | 4.2 | **External monitors**: alerts on the court docket and on news for the key names, feeding the daily pipeline | alerts land as items in the pipeline |
 | 4.3 | **Open-questions register.** Promote each Investigative Direction into a tracked question: what's known, what would settle it, status, and linked tips | every core claim has its questions registered |
 | 4.4 | **Verification status on claims** (POLICY §11): `unverified`, `corroborated`, `disputed`, `contradicted-by-record`, `revised-by-host`, each with cited evidence | schema in the drafts, inscriptions and companion; CI validates it |
@@ -74,16 +76,17 @@ The full execution plan from here to a verified, published and promoted archive.
 | # | Task | Done when |
 |---|---|---|
 | 5.1 | For each person and topic, walk the claims in airing order and link real `Revises`, `Contradicts` and `Qualifies` across episodes (the host vs. herself) | each pair is in the ledger with both clips |
-| 5.2 | Cross-source contradictions: the host vs. the court record, TPUSA statements and the flight data (from Phase 4) | linked, with `contradicted-by-record` statuses |
-| 5.3 | "Then vs. now" ledger export: a reviewable list of pairs with both clips, dates and the delta | Daveed signs off on a sample |
+| 5.2 | Cross-source contradictions: the host vs. the court record and the flight data (Tier 1), and the host vs. other speakers (commentators, speaker-to-speaker) | linked; record conflicts set `contradicted-by-record` |
+| 5.3 | "Then vs. now" ledger export: a reviewable list of pairs with both clips, dates and the delta | Daveed reviews the top pairs that promotion will lead with, plus a random sample |
 
 ## Phase 6 — Adversarial re-audit
 **Owner:** Bill D and Transit · **Gate:** Daveed rules on the findings
 
 | # | Task | Done when |
 |---|---|---|
-| 6.1 | A full-archive adversarial pass on the verified, linked data, using the QA rubric from 0.6 and the policy | the findings are filed as PRs or rulings |
+| 6.1 | **Risk-weighted adversarial pass:** every allegation about a named person, every then-vs-now pair and every verification status, plus a random sample of the rest, using the QA rubric from 0.6 and the policy | the findings are filed as PRs or rulings |
 | 6.2 | Claude fixes the findings; CI and QA are rerun | merged |
+| 6.3 | **Decide on a second pass:** rerun the affected strata if any stratum's error rate is above the QA target, or if the findings show a systematic problem | Daveed decides from the 6.1 report |
 
 ## Phase 7 — Interop
 | # | Task | Done when |
@@ -98,10 +101,11 @@ The full execution plan from here to a verified, published and promoted archive.
 | 8.1 | **Versioned data releases** (semver), each with a changelog, a public errata log (from POLICY §12) and its hash inscribed (BRC-222); every page shows "as of release X" | release v1.0.0 is cut |
 | 8.2 | **Open data**: JSON and CSV downloads and a read API, with a license | published with the release |
 | 8.3 | **Right-of-reply** and correction-request channel; requests are logged and answered within a set time | live before launch |
-| 8.4 | **Legal review** of the display rules (POLICY §6), the privacy rules (§10) and the clip policy (embed from YouTube at the timestamp; never rehost) | signed off |
+| 8.4 | **Legal review** of the ruled display rules (POLICY §6: role-by-default for private individuals, tangential hidden, YouTube embeds), the privacy rules (§10) and the private audio preservation copy | signed off by counsel |
+| 8.5 | **Private preservation copy** of the audio of every episode, for takedown resilience; never published | stored with hashes |
 
 ## Phase 9 — Site and app (decentralizedintel.agency, Gov Hub campaign)
-**Owner:** Claude · **Gate:** go-public approval
+**Owner:** Claude · **Open decision:** the launch approach (see Rulings, item 9)
 
 | # | Task | Done when |
 |---|---|---|
@@ -111,30 +115,33 @@ The full execution plan from here to a verified, published and promoted archive.
 | 9.4 | **Go-public gate**: freeze ids, publish redirects built from the id maps, add share cards for every claim and pair, and Daveed approves the deploy | live |
 
 ## Phase 10 — Promotion (starts at launch; the digest can start earlier internally)
-**Owner:** Claude drafts, Daveed approves · **Gate:** Daveed sets the voice and the accounts
+**Owner:** Claude drafts, Daveed approves · **Ruled:** a dedicated DIA/CKA account posts in a strictly neutral voice; Daveed amplifies with commentary from his own account
 
 | # | Task | Done when |
 |---|---|---|
 | 10.1 | **Positioning**: "what was alleged, and what the record shows", stated on the site and in every post | messaging doc approved |
 | 10.2 | **"Then vs. now" cards**: two clips, two dates and one link each, auto-generated from the Phase 5 ledger | a card set exists for the top pairs |
-| 10.3 | **Weekly digest**: new claims, revisions, verification changes and open questions; posted from Daveed's account with deep links | runs weekly |
+| 10.0 | Create the dedicated DIA/CKA account; Daveed holds the credentials | account live |
+| 10.3 | **Weekly digest**: new claims, revisions, verification changes and open questions; posted from the DIA/CKA account with deep links, and amplified by Daveed | runs weekly |
 | 10.4 | **Open-questions call-outs**: invite evidence on specific open questions (crowdsourced verification with citations) | the tip flow is live |
 | 10.5 | **Partnerships**: cross-links with whokilledck.com; researcher and journalist access to the API | at least one partner is live |
 | 10.6 | **Search visibility**: a crawlable page per node, claim and episode, with structured data | indexed |
 
 ---
 
-## Decision points for Daveed (in order)
-1. Branch protection on `main` (Phase 0).
-2. The source-of-truth model, Markdown-primary vs. JSON-primary (0.7, before Wave 4).
-3. The first week of the daily pipeline (Phase 1).
-4. The event and topic model (Phase 3).
-5. The source list and the verification taxonomy (Phase 4).
-6. A sign-off sample of the then-vs-now ledger (Phase 5).
-7. The adversarial findings (Phase 6).
-8. Display, privacy and clip rules with counsel (Phase 8).
-9. Go-public (Phase 9).
-10. Voice, accounts and partners (Phase 10).
+## Rulings (Daveed, 2026-10-14)
+| # | Decision | Ruling |
+|---|---|---|
+| 1 | Branch protection | Require the "CKA gates" check on `main`; admins may bypass only in an emergency (Daveed enables it in GitHub settings) |
+| 2 | Source of truth | JSON primary, migrated at the start of Wave 4 (3.0); until then, one tested Markdown parser (0.7) |
+| 3 | Daily pipeline | Auto-merge when green, except privacy or sensitive-allegation hits, which wait; every PR waits in week one |
+| 4 | Event and topic model | Typed model aligned with schema.org and Wikidata |
+| 5 | Sources | Tier 1 primary records and Tier 2 reputable reporting as evidence; commentators ingested as speakers, never as evidence; five-value status |
+| 6 | Then-vs-now sign-off | Top pairs that promotion will lead with, plus a random sample |
+| 7 | Adversarial scope | Risk-weighted first pass; then decide whether a second pass is warranted (6.3) |
+| 8 | Display, privacy, clips | Private individuals by role by default, with names once they are public figures in the case; tangential hidden by default; YouTube embeds; a private preservation copy; counsel reviews |
+| 9 | Go-public | **Open.** There is no established community of trusted Candace researchers; the engaged audience is X and YouTube creators and commenters on both sides. Options to weigh when the time comes: a beta with a few creators from each side (pressure-tests neutrality, but they may leak or spin it), a soft public launch of one slice (for example the then-vs-now ledger), or a full launch. Decide after Phase 6 |
+| 10 | Voice and accounts | A dedicated DIA/CKA account in a strictly neutral voice; Daveed amplifies with commentary |
 
 ## Metrics we track
 - **Coverage:** claims per minute, per episode; target about 0.9 or more.

@@ -5,7 +5,7 @@ The rules for building and changing the Candace Kirk Archive. These are Daveed's
 ## 1. Roles
 - **Daveed** makes the rulings. Anything not covered here, or anything that conflicts with this document, goes to him.
 - **Claude Code** builds the archive. It runs ingest and supplements, integrates the results, makes corrections, and opens PRs. It merges its own PRs to `main` when the gates are green (section 9), without asking (2026-10-14).
-- **Bill D and Transit** run one adversarial re-audit of the whole archive. It happens after everything is ingested and corrected, not per PR (2026-10-14).
+- **Bill D and Transit** run the adversarial re-audit after everything is ingested, corrected and verified, not per PR (2026-10-14). It is **risk-weighted**: every allegation about a named person, every then-vs-now pair and every verification status, plus a random sample of the rest. After the first pass, a second pass is run if the findings warrant it, for example when the error rate in any stratum is above the QA target.
 - **Locks.** No Neo4j production writes, inscription packs, promotes or deploys without Daveed. Never use the main X account's cookies for scraping.
 
 ## 2. Episodes
@@ -45,10 +45,12 @@ The rules for building and changing the Candace Kirk Archive. These are Daveed's
   - An extraction error (our mistake, not the host's) is corrected in place. Examples: conflating two people (C-2193), a wrong speaker, a wrong name. The erratum is recorded in that PR's audit README.
 - **Supplements are add-only.** They add claims, artifacts, nodes and meme occurrences to an episode. They never rewrite existing items, except for the extraction-error corrections above.
 
-## 6. Display (for the public site; rules to settle with legal before launch)
+## 6. Display (ruled 2026-10-14; counsel reviews before launch)
 - An allegation is shown as **"The host alleges…"**, not "claims", and always next to its clip, played from the snippet's timestamp.
-- Tangential claims are hidden by default.
-- Private individuals: whether to show them by role rather than by name is to be decided.
+- **Tangential claims are hidden by default**, and can be shown with a toggle.
+- **Private individuals are shown by role by default** ("the medical examiner's wife"). Their name stays in the data but is not displayed. A person's name is shown once they become a public figure in the case (for example, testifying, named in filings, or speaking publicly).
+- **Clips are embedded from YouTube at the timestamp, never rehosted.** A private preservation copy of the audio is kept in case videos are taken down, and is not published.
+- **Voice.** The archive's own pages and its account are strictly neutral: "what was alleged, and what the record shows". Commentary belongs to Daveed's personal account.
 - Search and AI answer only from the archive and cite claim ids with timestamped clips. They decline to answer when they cannot cite.
 
 ## 7. Batch integration checklist (supplements and new episodes)
@@ -74,7 +76,9 @@ A CKA PR is green when all of these pass. This is what `.github/workflows/cka-ga
 - `pytest projects/monuments/scripts`
 - **Derived files are fresh.** Rerunning `apply_name_corrections.py`, `sync_claim_tags.py` and the companion generator changes nothing (`generated_at` aside).
 
-Stacked PRs are retargeted to `main` before merging, so no commit is stranded on a merged branch. Use merge commits.
+Stacked PRs are retargeted to `main` before merging, so no commit is stranded on a merged branch. Use merge commits. `main` is protected: the "CKA gates" check is required, and admins may bypass only in an emergency.
+
+**Daily pipeline merges (ruled 2026-10-14).** A daily-ingest PR auto-merges when green, **unless** its new claims trip the privacy linter or the sensitive-allegation triggers; those PRs wait for review. For the first week every daily PR waits, to calibrate.
 
 ## 10. Privacy
 These rules apply to drafts, inscriptions and anything published. The privacy linter (ROADMAP 2.4) enforces them in CI.
@@ -91,6 +95,11 @@ Every claim carries a verification status, set by evidence, never by opinion. Th
 - `revised-by-host`: the host later revised or rejected it; the claim is linked by `Revises` or `Contradicts`.
 
 The host's own repetition is never corroboration. A same-host `Supports` is consistency, not evidence.
+
+**Sources (ruled 2026-10-14).** Each source carries a reliability tier:
+- **Tier 1, primary records:** court filings and testimony, warrants, FOIA responses, flight data (ADS-B, FAA), official documents and statements.
+- **Tier 2, reputable reporting:** wire services, major and local papers, and broadcast news with editorial standards.
+- **Commentators** (Kolvet and the Charlie Kirk Show, Baron Coleman, other podcasters and creators) are ingested as **speakers**. Their claims can support, contradict or be contradicted, exactly like the host's, but they are **never evidence** for a verification status. Only Tier 1 and Tier 2 sources can move a claim to `corroborated`, `disputed` or `contradicted-by-record`.
 
 ## 12. Errata and right of reply
 - Every correction made after a claim is merged is logged in that PR's audit README. The release changelog compiles these into a public errata log.
