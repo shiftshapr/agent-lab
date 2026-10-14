@@ -1869,7 +1869,7 @@ Investigative Direction: Find TikTok's policy notice or the reporting about the 
 
 **C-6506** Host Says Book Club Starts David Bakan's Freud and the Jewish Mystical Tradition
 
-Claim Timestamp: 00:57:20
+Claim Timestamp: 00:58:55
 
 Claim: The host says the book club starts the next day with David Bakan's Sigmund Freud and the Jewish Mystical Tradition, after finishing The Assault on Truth.
 

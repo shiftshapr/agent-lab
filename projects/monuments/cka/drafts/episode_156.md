@@ -1575,7 +1575,7 @@ Investigative Direction: Locate the Where Forbidden video and the Blake Neff int
 
 **C-7824** Host Says Erika Gave Andrew Wilson What Was Presented as Charlie's Last Video With His Kids
 
-Claim Timestamp: 00:44:10
+Claim Timestamp: 00:45:44
 
 Claim: The host says Erika Kirk gave Andrew Wilson a video presented as the last video of her husband with his kids.
 

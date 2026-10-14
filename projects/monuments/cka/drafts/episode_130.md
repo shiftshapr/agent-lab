@@ -1835,7 +1835,7 @@ Investigative Direction: Locate Erika Kirk's public response to the Blake Wynn a
 
 **C-5976** Host compares Charlie's inner circle reversing his positions to Hughes's lieutenants
 
-Claim Timestamp: 00:29:13
+Claim Timestamp: 00:29:59
 
 Claim: The host says Charlie Kirk, like Howard Hughes, lived one way relying on lieutenants, asked questions, and the organization he left now does a 180 on almost everything he believed.
 

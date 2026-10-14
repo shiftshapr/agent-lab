@@ -832,7 +832,7 @@ Investigative Direction: Obtain the forensic report on the rifle's firing status
 
 **C-4602** Contractor was called on a Sunday to install pavers at the scene
 
-Claim Timestamp: 00:14:50
+Claim Timestamp: 00:15:38
 
 Claim: In a clip the host plays, a contractor says he was called on the Sunday after the shooting and told there was a "paver emergency" at the spot where Charlie Kirk was killed. He says the work had to be in by Monday and he assembled a crew within about an hour and a half.
 

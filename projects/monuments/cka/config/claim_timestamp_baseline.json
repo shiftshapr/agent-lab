@@ -1,0 +1,4 @@
+{
+ "_doc": "Claims whose timestamp falls outside the transcript block of its snippet, recorded when the check was introduced. Fix and remove; never add.",
+ "claims": []
+}

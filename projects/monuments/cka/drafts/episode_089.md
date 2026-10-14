@@ -1114,7 +1114,7 @@ Investigative Direction: Compile Trump's 2024 campaign statements on new wars an
 
 **C-8659** Carlson Letter Lists Dark Money, Extortion, Physical Threats and Assassination
 
-Claim Timestamp: 00:26:31
+Claim Timestamp: 00:27:13
 
 Claim: The Tucker Carlson letter read by the host says Israel uses dark money, campaign contributions, extortion, physical threats and even assassination.
 

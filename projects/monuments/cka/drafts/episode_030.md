@@ -1546,7 +1546,7 @@ Investigative Direction: Obtain UVU event-services emails and site-visit notes l
 
 **C-9723** Host Asks for Tips Identifying the TPUSA Employees Who Picked the Outdoor Venue
 
-Claim Timestamp: 00:20:57
+Claim Timestamp: 00:21:38
 
 Claim: The host says she wants to know which specific Turning Point employees picked the outdoor venue and asks viewers who know to email more tips at candacewowens.com.
 

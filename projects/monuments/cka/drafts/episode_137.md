@@ -1620,7 +1620,7 @@ Investigative Direction: Review the original sleuth post that matched the room b
 
 **C-7519** Host Says the US Bombed an Elementary School in Iran Killing 156 Including 120 Students and 26 Teachers
 
-Claim Timestamp: 00:34:45
+Claim Timestamp: 00:35:32
 
 Claim: The host says that at the start of the Iran war the United States, at Israel's instruction in her view, bombed an elementary school in Iran, killing 156 people including 120 students and 26 teachers.
 

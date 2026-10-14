@@ -2292,7 +2292,7 @@ Investigative Direction: Check FAA registration for N888KG and Saprea's nonprofi
 
 **C-8156** Host Says Maxfields Wore Operation Underground Shirts in Their Profile Pictures
 
-Claim Timestamp: 00:14:53
+Claim Timestamp: 00:17:45
 
 Claim: The host says Derek and Shailene Maxfield wore Operation Underground shirts in their profile pictures.
 

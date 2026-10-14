@@ -2094,7 +2094,7 @@ Investigative Direction: Identify the Rogan and Theo Von episode and timestamp.
 
 **C-8038** Clip Says the Government Cites National Security Over the Epstein Files
 
-Claim Timestamp: 00:37:12
+Claim Timestamp: 00:37:53
 
 Claim: In the Rogan and Von clip, a speaker says officials claim it would compromise national security to release the Jeffrey Epstein files and that the world is run by pedophiles.
 

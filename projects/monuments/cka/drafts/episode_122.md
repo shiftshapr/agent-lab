@@ -1905,7 +1905,7 @@ Investigative Direction: Identify the docket, court and filing date of the class
 
 **C-8859** Host Says Models Allege They Were Charged for Apartments Through Deducted Pay
 
-Claim Timestamp: 00:21:31
+Claim Timestamp: 00:22:19
 
 Claim: The host says the models in the class action allege they were effectively charged for the model apartments by having their pay deducted, with paychecks cut by up to 70 percent.
 
