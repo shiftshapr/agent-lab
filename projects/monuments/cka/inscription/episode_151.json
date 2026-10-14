@@ -362,13 +362,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-3158",
       "family_ref": "A-3158",
-      "bundle_name": "Hariff Hospital Scrubs Footage Bundle",
+      "bundle_name": "Harreff Hospital Scrubs Footage Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-3158.1",
           "ref": "A-3158.1",
-          "description": "Host verbal reference to last Wednesday's footage of Blake Hariff in what she presumes are Timpanogos Hospital scrubs by nighttime (not shown in this episode)",
+          "description": "Host verbal reference to last Wednesday's footage of Blake Harreff in what she presumes are Timpanogos Hospital scrubs by nighttime (not shown in this episode)",
           "related_claims": [
             "C-11758"
           ],
@@ -610,7 +610,7 @@
       "ref": "N-10830",
       "name": "Security Detail Electrical Hazard Footwear Question",
       "type": "investigation_target",
-      "description": "Investigation target: viewer emails (per host) claim the matching light-brown shoes worn by Blake Harif/Hariff, Butch Hibs, and other security personnel are models sold for electrical-hazard/labor-trade protection. Host surfaces this without confirmation.",
+      "description": "Investigation target: viewer emails (per host) claim the matching light-brown shoes worn by Blake Harreff, Butch Hibs, and other security personnel are models sold for electrical-hazard/labor-trade protection. Host surfaces this without confirmation.",
       "related_artifacts": [
         "A-2521.1"
       ],
@@ -1423,9 +1423,9 @@
       "@type": "Person",
       "@id": "N-906",
       "ref": "N-906",
-      "name": "Blake Hariff",
+      "name": "Blake Harreff",
       "type": "person",
-      "description": "First named by the host at 00:01:49 in episode 151 (spelled Harif, Hariff and Heriff in the transcript). Member of Charlie Kirk's security detail on September 10.",
+      "description": "First named by the host at 00:01:49 in episode 151. Member of Charlie Kirk's security detail on September 10.",
       "related_artifacts": [],
       "related_claims": [
         "C-11758",
@@ -1462,7 +1462,7 @@
       "ref": "N-11310",
       "name": "Security Team Timpanogos Scrubs Question",
       "type": "topic",
-      "description": "The host's questions over why Blake Hariff and others from the security team were wearing hospital scrubs on returning to UVU on the evening of September 10.",
+      "description": "The host's questions over why Blake Harreff and others from the security team were wearing hospital scrubs on returning to UVU on the evening of September 10.",
       "related_artifacts": [],
       "related_claims": [
         "C-11758",
@@ -1874,8 +1874,8 @@
       "@type": "Claim",
       "@id": "C-11758",
       "ref": "C-11758",
-      "label": "Host says Blake Hariff was in Timpanogos scrubs by nighttime despite no blood",
-      "claim": "The host says Blake Hariff, a member of Charlie Kirk's security detail on September 10, had no blood on him and did not help carry or transport Charlie, yet was later seen wearing what she presumes are Timpanogos Hospital scrubs.",
+      "label": "Host says Blake Harreff was in Timpanogos scrubs by nighttime despite no blood",
+      "claim": "The host says Blake Harreff, a member of Charlie Kirk's security detail on September 10, had no blood on him and did not help carry or transport Charlie, yet was later seen wearing what she presumes are Timpanogos Hospital scrubs.",
       "anchored_artifacts": [
         "A-3158.1"
       ],
@@ -1886,7 +1886,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:01:49",
-      "investigative_direction": "Obtain the UVU-return footage, hospital visitor and scrub-issue records, and any statement from Hariff on when and why he changed.",
+      "investigative_direction": "Obtain the UVU-return footage, hospital visitor and scrub-issue records, and any statement from Harreff on when and why he changed.",
       "transcript_snippet": "we discovered that rather mysteriously uh he's wearing scrubs from Temponogus Hospital. Presumably by nighttime he's wearing hospital scrubs.",
       "supports_claim_refs": [
         "C-3552",
@@ -1904,7 +1904,7 @@
       "@id": "C-11759",
       "ref": "C-11759",
       "label": "Host says Turek's account is that hospital staff were handing out scrubs",
-      "claim": "The host says that, per stories shared by Frank Turek, everybody was being handed scrubs at the hospital, and that she cannot think of a reason Hariff in particular would wear them.",
+      "claim": "The host says that, per stories shared by Frank Turek, everybody was being handed scrubs at the hospital, and that she cannot think of a reason Harreff in particular would wear them.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11310"
@@ -1925,7 +1925,7 @@
       "@id": "C-11760",
       "ref": "C-11760",
       "label": "Host says feds did not collect Kirk's bloodied necklace and microphone",
-      "claim": "The host argues the feds would not have taken Blake Hariff's blood-free shirt while leaving Charlie Kirk's bloodied necklace and bloodied microphone uncollected.",
+      "claim": "The host argues the feds would not have taken Blake Harreff's blood-free shirt while leaving Charlie Kirk's bloodied necklace and bloodied microphone uncollected.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10537",
@@ -1937,7 +1937,7 @@
       ],
       "claim_timestamp": "00:03:52",
       "investigative_direction": "Obtain the FBI evidence inventory for the necklace, the microphone and clothing items collected on September 10.",
-      "transcript_snippet": "why would the feds collect Blake Hariff's shirt, which had no blood in it, but not collect Charlie Kirk's bloodied necklace and the bloodied microphone.",
+      "transcript_snippet": "why would the feds collect Blake Harreff's shirt, which had no blood in it, but not collect Charlie Kirk's bloodied necklace and the bloodied microphone.",
       "mentions_person_refs": [
         "N-1",
         "N-906"
@@ -1967,8 +1967,8 @@
       "@type": "Claim",
       "@id": "C-11762",
       "ref": "C-11762",
-      "label": "Host relays a theory that Hariff's clothing was taken over explosive residue",
-      "claim": "The host relays viewers' suggestion that Hariff's clothing was taken out of caution because he slid across the table and may have picked up explosive residue, and says that would fit the soil removal and emergency pavers if an explosive took Charlie out.",
+      "label": "Host relays a theory that Harreff's clothing was taken over explosive residue",
+      "claim": "The host relays viewers' suggestion that Harreff's clothing was taken out of caution because he slid across the table and may have picked up explosive residue, and says that would fit the soil removal and emergency pavers if an explosive took Charlie out.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10107",

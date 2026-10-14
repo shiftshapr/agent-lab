@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-14T21:46:54Z",
+  "generated_at": "2026-10-14T22:25:27Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -13902,7 +13902,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11758",
-      "label": "Host says Blake Hariff was in Timpanogos scrubs by nighttime despite no blood",
+      "label": "Host says Blake Harreff was in Timpanogos scrubs by nighttime despite no blood",
       "node_kind": "claim",
       "episode": 151
     },
@@ -13937,7 +13937,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11762",
-      "label": "Host relays a theory that Hariff's clothing was taken over explosive residue",
+      "label": "Host relays a theory that Harreff's clothing was taken over explosive residue",
       "node_kind": "claim",
       "episode": 151
     },
@@ -38038,7 +38038,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14893",
-      "label": "Host Says Justin Davis Drove the SUV to the Hospital While Hariff Stayed Behind",
+      "label": "Host Says Justin Davis Drove the SUV to the Hospital While Harreff Stayed Behind",
       "node_kind": "claim",
       "episode": 149
     },
@@ -38059,7 +38059,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14896",
-      "label": "Host Says Hariff and Davis Did Not Touch Charlie While He Was Loaded",
+      "label": "Host Says Harreff and Davis Did Not Touch Charlie While He Was Loaded",
       "node_kind": "claim",
       "episode": 149
     },
@@ -38094,7 +38094,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14900",
-      "label": "Host Names a Man in Surgical Scrubs at the Top of the Frame as Blake Gibson",
+      "label": "Host Names Blake Gibson of the Security Detail as the Man in Surgical Scrubs at the Top of the Frame",
       "node_kind": "claim",
       "episode": 149
     },
@@ -38423,14 +38423,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14943",
-      "label": "Host Asks for Tips on Blake Hariff Changing Into Surgical Scrubs",
+      "label": "Host Asks for Tips on Blake Harreff Changing Into Surgical Scrubs",
       "node_kind": "claim",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14944",
-      "label": "Host Offers to Protect Hariff and Cutler as Sources",
+      "label": "Host Offers to Protect Harreff and Cutler as Sources",
       "node_kind": "claim",
       "episode": 149
     },
@@ -53438,21 +53438,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3550",
-      "label": "Blake Hariff's shirt was visibly free of blood after the SUV departed the scene",
+      "label": "Blake Harreff's shirt was visibly free of blood after the SUV departed the scene",
       "node_kind": "claim",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3551",
-      "label": "Blake Hariff did not help carry Charlie to the car and did not travel to the hospital in the initial SUV",
+      "label": "Blake Harreff did not help carry Charlie to the car and did not travel to the hospital in the initial SUV",
       "node_kind": "claim",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3552",
-      "label": "Blake Hariff was wearing Timpanogos surgical scrubs at the UVU return ~8:30 PM",
+      "label": "Blake Harreff was wearing Timpanogos surgical scrubs at the UVU return ~8:30 PM",
       "node_kind": "claim",
       "episode": 149
     },
@@ -122367,21 +122367,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2432.1",
-      "label": "Still image of Blake Hariff sliding across the table at the scene",
+      "label": "Still image of Blake Harreff sliding across the table at the scene",
       "node_kind": "artifact",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2432.2",
-      "label": "Footage of Blake Hariff running to the car with a visibly clean (no blood) shirt after the SUV departed",
+      "label": "Footage of Blake Harreff running to the car with a visibly clean (no blood) shirt after the SUV departed",
       "node_kind": "artifact",
       "episode": 149
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2432.3",
-      "label": "Footage of team returning to UVU at ~8:30 PM showing Blake Hariff, Rick Cutler, Justin Davis, and Dan Flood wearing Timpanogos surgical scrubs; Brian Harpole holding a jacket and brown bag",
+      "label": "Footage of team returning to UVU at ~8:30 PM showing Blake Harreff, Rick Cutler, Justin Davis, and Dan Flood wearing Timpanogos surgical scrubs; Brian Harpole holding a jacket and brown bag",
       "node_kind": "artifact",
       "episode": 149
     },
@@ -134834,14 +134834,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3158",
-      "label": "Hariff Hospital Scrubs Footage Bundle",
+      "label": "Harreff Hospital Scrubs Footage Bundle",
       "node_kind": "artifact",
       "episode": 151
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3158.1",
-      "label": "Host verbal reference to last Wednesday's footage of Blake Hariff in what she presumes are Timpanogos Hospital scrubs by nighttime (not shown in this episode)",
+      "label": "Host verbal reference to last Wednesday's footage of Blake Harreff in what she presumes are Timpanogos Hospital scrubs by nighttime (not shown in this episode)",
       "node_kind": "artifact",
       "episode": 151
     },
@@ -137837,7 +137837,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3352.2",
-      "label": "Host verbal call to email more tips about Blake Hariff, with an offer to protect sources",
+      "label": "Host verbal call to email more tips about Blake Harreff, with an offer to protect sources",
       "node_kind": "artifact",
       "episode": 149
     },

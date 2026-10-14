@@ -16,7 +16,7 @@ Scoped rules added to `config/transcript_name_corrections.json`: Strife→Streif
 Corrected as the reviewers proposed, after checking the transcript: C-3737, C-1680, C-2031, C-2083, C-2189 (N-14 removed), C-2263 (a Ben Shapiro clip, not the host), C-2303, C-2310 (Ben Shapiro, not N-556), C-12616 (a Rob Skiba clip), C-2435 (snippet added), C-2508, C-2513, C-2636, C-2652 (a viewer comment), C-8588 (addressed to Blake Neff; N-2 removed), C-2772, C-3710, C-2915 (snippet added), C-3063 (Mentions N-511 only), C-3225, C-3441, C-6162, C-3504, C-10503.
 
 ## Review item
-- **C-14900 (ep149): who is "Blake Gibson"?** The transcript at 25:29 reads: "There's Brian there holding jacket. That's Alex Fria who he just hugged. That there in the corner in the white hat is Rick Cutler. **Blake Gibson and surgical scrubs. That's who you see up in the top there.**" A minute earlier the host asks, "Did Blake feel left out? Did Blake just want to put on surgical scrubs?" So this is most likely Blake Neff ("Blake [is in] surgical scrubs"), but the name isn't certain. HappyScribe has no transcript of this episode. Link: https://youtu.be/bpXkPHpz9po?t=1529
+- **C-14900 (ep149): resolved by Daveed, 2026-10-14.** Blake Gibson is a real person, part of the security detail; the transcript is right. The claim now says so. He has no person node yet: minting one at ep149 would break the airing-order id rule, so he gets one in the next ingest batch.
 
 ## Timestamp corrections
 

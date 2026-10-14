@@ -75,7 +75,7 @@ Confidence: high
 Video Timestamp: 00:52:16
 Speaker: N-3
 Quote: Email us more tips canoners. com.
-Context: Host repeats the tip request aimed at Hariff-related information and offers source protection.
+Context: Host repeats the tip request aimed at Harreff-related information and offers source protection.
 Tags: tips_network, dia
 Confidence: high
 
@@ -164,7 +164,7 @@ Confidence: high
 Video Timestamp: 00:52:16
 Speaker: N-3
 Quote: I got to shoot my shot.
-Context: Host admits her offer to Hariff and Cutler is a long shot.
+Context: Host admits her offer to Harreff and Cutler is a long shot.
 Tags: long_shot, sources
 Confidence: high
 
@@ -174,7 +174,7 @@ Confidence: high
 
 Episode 149 presents three principal investigative threads within a single broadcast. First, a correction is issued regarding a TPUSA security team member previously identified as "Chester Barnes," who is re-identified as Derek "Pepper" Williams, a former Navy SEAL later employed by PGL (Perimeter Global Logistics). This is connected to a broader claim that four September 10 TPUSA team members had families in the global freight/shipping industry.
 
-Second, the episode presents new visual evidence (footage and stills) plus audio clip artifacts to challenge Frank Turek's CPR narrative. Brian Harpole's Paramount interview is read aloud/displayed in which he denies performing CPR; Frank Turek's own statement claiming 20–30 seconds of CPR in the last portion of the ride is displayed/read; and Frank's FaceTime with Jack Hibbs (where Frank references blood on himself) is presented. The host additionally displays footage of security team members (Blake Hariff, Justin Davis, Rick Cutler, Dan Flood) wearing Timpanogos Hospital surgical scrubs at the UVU return ~8:30 PM, with the host emphasizing that Blake Hariff's shirt was visibly free of blood at the scene and that he did not travel to the hospital in the initial SUV.
+Second, the episode presents new visual evidence (footage and stills) plus audio clip artifacts to challenge Frank Turek's CPR narrative. Brian Harpole's Paramount interview is read aloud/displayed in which he denies performing CPR; Frank Turek's own statement claiming 20–30 seconds of CPR in the last portion of the ride is displayed/read; and Frank's FaceTime with Jack Hibbs (where Frank references blood on himself) is presented. The host additionally displays footage of security team members (Blake Harreff, Justin Davis, Rick Cutler, Dan Flood) wearing Timpanogos Hospital surgical scrubs at the UVU return ~8:30 PM, with the host emphasizing that Blake Harreff's shirt was visibly free of blood at the scene and that he did not travel to the hospital in the initial SUV.
 
 Third, the Panguitch (UT) Cowboy Smokehouse receipt is presented and discussed, alongside New York Post and Fox News coverage. The host elevates her personal confidence in the receipt belonging to Tyler Robinson from ~60% to 95% and presents the timeline implications: if the receipt is genuine, Tyler Robinson's text messages placing him on UVU campus at ~9:00 PM become impossible, and he could not have been in Orem before ~1:47 AM. Structural importance: the episode consolidates prior narrative threads (CPR discrepancy, scrubs distribution, Panguitch receipt) and introduces a new security team identification correction.
 
@@ -280,7 +280,7 @@ Confidence Level: High
 
 ### A-2432 September 10 Security Team Footage Bundle
 
-**A-2432.1** Still image of Blake Hariff sliding across the table at the scene
+**A-2432.1** Still image of Blake Harreff sliding across the table at the scene
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -288,7 +288,7 @@ Video Timestamp: 00:18:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-**A-2432.2** Footage of Blake Hariff running to the car with a visibly clean (no blood) shirt after the SUV departed
+**A-2432.2** Footage of Blake Harreff running to the car with a visibly clean (no blood) shirt after the SUV departed
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -296,7 +296,7 @@ Video Timestamp: 00:20:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-**A-2432.3** Footage of team returning to UVU at ~8:30 PM showing Blake Hariff, Rick Cutler, Justin Davis, and Dan Flood wearing Timpanogos surgical scrubs; Brian Harpole holding a jacket and brown bag
+**A-2432.3** Footage of team returning to UVU at ~8:30 PM showing Blake Harreff, Rick Cutler, Justin Davis, and Dan Flood wearing Timpanogos surgical scrubs; Brian Harpole holding a jacket and brown bag
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -509,7 +509,7 @@ Confidence Level: High
 
 ---
 
-**A-3352.2** Host verbal call to email more tips about Blake Hariff, with an offer to protect sources
+**A-3352.2** Host verbal call to email more tips about Blake Harreff, with an offer to protect sources
 
 Quoted text: "Email us more tips canoners. com."
 
@@ -769,7 +769,7 @@ Security team member; the host says he drove the SUV and wore scrubs.
 
 ---
 
-**N-906** Blake Hariff
+**N-906** Blake Harreff
 
 Security team member; the host says he stayed behind, was clean and later wore scrubs.
 
@@ -1052,20 +1052,20 @@ Investigative Direction: Locate the original witness video/post; cross-reference
 
 ---
 
-**C-3550** Blake Hariff's shirt was visibly free of blood after the SUV departed the scene
+**C-3550** Blake Harreff's shirt was visibly free of blood after the SUV departed the scene
 
 Claim Timestamp: 00:20:42
-Claim: Footage shows Blake Hariff running after the SUV departed with no visible blood on his shirt.
+Claim: Footage shows Blake Harreff running after the SUV departed with no visible blood on his shirt.
 Anchored Artifacts: A-2432.2
 Mentions:
 Investigative Direction: Obtain higher-resolution frame stills; cross-check with independent footage sources.
 
 ---
 
-**C-3551** Blake Hariff did not help carry Charlie to the car and did not travel to the hospital in the initial SUV
+**C-3551** Blake Harreff did not help carry Charlie to the car and did not travel to the hospital in the initial SUV
 
 Claim Timestamp: 00:18:51
-Claim: Blake Hariff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle; he did not travel in the SUV to the hospital.
+Claim: Blake Harreff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle; he did not travel in the SUV to the hospital.
 Anchored Artifacts: A-2432.1, A-2432.2
 Mentions: N-498
 Related Nodes:
@@ -1073,10 +1073,10 @@ Investigative Direction: Cross-reference with security team testimony and hospit
 
 ---
 
-**C-3552** Blake Hariff was wearing Timpanogos surgical scrubs at the UVU return ~8:30 PM
+**C-3552** Blake Harreff was wearing Timpanogos surgical scrubs at the UVU return ~8:30 PM
 
 Claim Timestamp: 00:20:42
-Claim: Footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Hariff wearing a Timpanogos surgical scrub top.
+Claim: Footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Harreff wearing a Timpanogos surgical scrub top.
 Anchored Artifacts: A-2432.3
 Mentions:
 Related Nodes:
@@ -1922,13 +1922,13 @@ Investigative Direction: Ask the host for the provenance and chain of custody of
 
 ---
 
-**C-14893** Host Says Justin Davis Drove the SUV to the Hospital While Hariff Stayed Behind
+**C-14893** Host Says Justin Davis Drove the SUV to the Hospital While Harreff Stayed Behind
 
 Claim Timestamp: 00:18:51
 
-Claim: The host says Justin Davis drove to the hospital but Blake Hariff stayed behind, so he could not have gotten Charlie's blood on him in the vehicle.
+Claim: The host says Justin Davis drove to the hospital but Blake Harreff stayed behind, so he could not have gotten Charlie's blood on him in the vehicle.
 
-Transcript Snippet: Justin drives to the hospital, but Blake Hariff stays behind.
+Transcript Snippet: Justin drives to the hospital, but Blake Harreff stays behind.
 
 Anchored Artifacts: A-2432.2
 Mentions: N-498, N-906
@@ -1943,7 +1943,7 @@ Investigative Direction: Confirm the driver and passenger list for the first SUV
 
 Claim Timestamp: 00:19:48
 
-Claim: The host says that after Hariff and Davis opened the car door the footage shows Frank Turek come around and get into the boot.
+Claim: The host says that after Harreff and Davis opened the car door the footage shows Frank Turek come around and get into the boot.
 
 Transcript Snippet: Thereafter, he comes around. He gets into the boot. Frank Turek.
 
@@ -1960,7 +1960,7 @@ Investigative Direction: Review the original footage frame by frame to confirm w
 
 Claim Timestamp: 00:22:13
 
-Claim: The host says Dan Flood carried Charlie and Rick Cutler certainly carried Charlie and was in the vehicle, so scrubs on them are less puzzling than on Hariff.
+Claim: The host says Dan Flood carried Charlie and Rick Cutler certainly carried Charlie and was in the vehicle, so scrubs on them are less puzzling than on Harreff.
 
 Transcript Snippet: Dan Flood is also wearing surgical scrubs, but we know he carried Charlie. Rick Cutler certainly carried Charlie and was in the vehicle.
 
@@ -1972,11 +1972,11 @@ Investigative Direction: Review footage of Charlie being carried to the SUV to e
 
 ---
 
-**C-14896** Host Says Hariff and Davis Did Not Touch Charlie While He Was Loaded
+**C-14896** Host Says Harreff and Davis Did Not Touch Charlie While He Was Loaded
 
 Claim Timestamp: 00:22:13
 
-Claim: The host says Blake Hariff did not touch Charlie while getting into the vehicle, and neither did Justin Davis, though she gives Davis the benefit of the doubt that he touched Charlie at the hospital.
+Claim: The host says Blake Harreff did not touch Charlie while getting into the vehicle, and neither did Justin Davis, though she gives Davis the benefit of the doubt that he touched Charlie at the hospital.
 
 Transcript Snippet: He didn't touch Charlie while getting into the vehicle. Neither Justin Davis, by the way.
 
@@ -2036,11 +2036,11 @@ Investigative Direction: Confirm the correct spelling and identity of the man hu
 
 ---
 
-**C-14900** Host Names a Man in Surgical Scrubs at the Top of the Frame as Blake Gibson
+**C-14900** Host Names Blake Gibson of the Security Detail as the Man in Surgical Scrubs at the Top of the Frame
 
 Claim Timestamp: 00:25:29
 
-Claim: The host names a man in surgical scrubs at the top of the frame as Blake Gibson, with the name as transcribed.
+Claim: The host names the man in surgical scrubs at the top of the frame as Blake Gibson, a member of the security detail.
 
 Transcript Snippet: Blake Gibson and surgical scrubs. That's who you see up in the top there.
 
@@ -2048,7 +2048,7 @@ Anchored Artifacts: A-2432.3
 Mentions: 
 Related Nodes: 
 Tags: relevance:context
-Investigative Direction: Confirm the correct name from the footage; it may be a different name for Blake Hariff or another team member.
+Investigative Direction: Confirm the correct name from the footage; it may be a different name for Blake Harreff or another team member.
 
 ---
 
@@ -2733,13 +2733,13 @@ Investigative Direction: Confirm the tip address is moretips@candaceowens.com an
 
 ---
 
-**C-14943** Host Asks for Tips on Blake Hariff Changing Into Surgical Scrubs
+**C-14943** Host Asks for Tips on Blake Harreff Changing Into Surgical Scrubs
 
 Claim Timestamp: 00:52:16
 
-Claim: The host asks viewers who might have seen Blake Hariff take his shirt off and put on surgical scrubs to email more tips, noting he is not a doctor.
+Claim: The host asks viewers who might have seen Blake Harreff take his shirt off and put on surgical scrubs to email more tips, noting he is not a doctor.
 
-Transcript Snippet: Email us more tips canoners. com. Maybe you are Blake Hariff and you just want to talk.
+Transcript Snippet: Email us more tips canoners. com. Maybe you are Blake Harreff and you just want to talk.
 
 Anchored Artifacts: A-3352.2
 Mentions: N-906, N-3
@@ -2749,11 +2749,11 @@ Investigative Direction: Review incoming tips about scrub changes at the hospita
 
 ---
 
-**C-14944** Host Offers to Protect Hariff and Cutler as Sources
+**C-14944** Host Offers to Protect Harreff and Cutler as Sources
 
 Claim Timestamp: 00:52:16
 
-Claim: The host says that if Blake Hariff or Rick Cutler want to talk she will protect them as sources, while saying the chance of that is virtually zero.
+Claim: The host says that if Blake Harreff or Rick Cutler want to talk she will protect them as sources, while saying the chance of that is virtually zero.
 
 Transcript Snippet: Maybe you're Rick Cutler and you want to talk. I'll protect you guys as sources.
 
@@ -2761,7 +2761,7 @@ Anchored Artifacts: A-3352.2
 Mentions: N-906, N-493, N-3
 Related Nodes: 
 Tags: relevance:core, dia
-Investigative Direction: Check for any response from Hariff or Cutler to the standing offer.
+Investigative Direction: Check for any response from Harreff or Cutler to the standing offer.
 
 ---
 
