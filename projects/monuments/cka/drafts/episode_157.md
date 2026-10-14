@@ -12,12 +12,12 @@
 - **Model Version**: grok-manual-extract-seq157
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-766, N-768, N-769, N-11074, N-11075, N-11076, N-11077, N-11078, N-11079, N-11080, N-11081
+  - Tip-minted Nodes (supplement_2026-10): N-766, N-768, N-769, N-11074, N-11075, N-11076, N-11077, N-11078, N-11079, N-11081
   - Hole-minted Nodes (reintro-ep157): N-231
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-6171–C-6285
   - New Nodes Introduced: N-10859, N-10861
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-277, N-229, N-272, N-7, N-276, N-162, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12, N-10862, N-10863, N-5, N-9, N-19, N-22, N-36, N-37, N-40, N-46, N-59, N-69, N-85, N-194, N-221, N-232, N-338, N-369, N-388, N-500, N-518, N-547, N-680, N-10012, N-10018, N-10027, N-10074, N-10117, N-10122, N-10129, N-10219, N-10253, N-10264, N-10276, N-10324, N-10342, N-10347, N-10356, N-10366, N-10388, N-10412, N-10446, N-10456, N-10539, N-10651, N-10673, N-10674, N-10687, N-10699, N-10700, N-10725, N-10784, N-10841, N-10870, N-10871, N-10888, N-10925, N-767, N-10860
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-277, N-229, N-272, N-7, N-276, N-162, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12, N-10862, N-10863, N-5, N-9, N-19, N-22, N-36, N-37, N-40, N-46, N-59, N-69, N-85, N-194, N-221, N-232, N-338, N-369, N-388, N-500, N-518, N-547, N-680, N-10012, N-10018, N-10027, N-10074, N-10117, N-10122, N-10129, N-10219, N-10253, N-10264, N-10276, N-10324, N-10342, N-10347, N-10356, N-10366, N-10388, N-10412, N-10446, N-10456, N-10539, N-10651, N-10673, N-10674, N-10687, N-10699, N-10700, N-10725, N-10784, N-10841, N-10870, N-10871, N-10888, N-10925, N-767, N-10860, N-11080
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
 

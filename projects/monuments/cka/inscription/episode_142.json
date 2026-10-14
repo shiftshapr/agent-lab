@@ -427,6 +427,84 @@
           "discovery_timestamp": "00:00:00–00:00:01"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2992",
+      "family_ref": "A-2992",
+      "bundle_name": "Camera Diagram Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2992.1",
+          "ref": "A-2992.1",
+          "description": "Host's diagram of the three static camera positions with colored circles and operators named",
+          "related_claims": [
+            "C-9163",
+            "C-9164",
+            "C-9165"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:46",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2993",
+      "family_ref": "A-2993",
+      "bundle_name": "Farnsworth SD Card Removal Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2993.1",
+          "ref": "A-2993.1",
+          "description": "Footage of Farnsworth taking the rear camera apart, removing the SD card and looking around, played again by the host",
+          "related_claims": [
+            "C-9177",
+            "C-9178"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:20:41",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2994",
+      "family_ref": "A-2994",
+      "bundle_name": "Crucible Post Community Note Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2994.1",
+          "ref": "A-2994.1",
+          "description": "Screen of the Crucible X post about the probable cause warrant with the attached community note",
+          "related_claims": [
+            "C-9204"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:47:11",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -438,7 +516,14 @@
       "type": "investigation_target",
       "description": "Persistent inconsistency between three artifact-anchored accounts: (1) Kolvet's theft-prevention rationale, (2) Bowyer's law-enforcement-instruction rationale, (3) host's phone-conversation rationale (no artifact – flagged).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9168",
+        "C-9170",
+        "C-9171",
+        "C-9176",
+        "C-9177",
+        "C-9181"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -674,7 +759,18 @@
       "type": "person",
       "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9158",
+        "C-9184",
+        "C-9186",
+        "C-9192",
+        "C-9194",
+        "C-9195",
+        "C-9196",
+        "C-9205",
+        "C-9209",
+        "C-9210"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -690,7 +786,10 @@
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9169",
+        "C-9170"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -706,7 +805,10 @@
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9192",
+        "C-9207"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -722,7 +824,30 @@
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9155",
+        "C-9156",
+        "C-9157",
+        "C-9158",
+        "C-9159",
+        "C-9160",
+        "C-9161",
+        "C-9162",
+        "C-9166",
+        "C-9167",
+        "C-9168",
+        "C-9172",
+        "C-9173",
+        "C-9175",
+        "C-9176",
+        "C-9177",
+        "C-9178",
+        "C-9180",
+        "C-9181",
+        "C-9182",
+        "C-9184",
+        "C-9185"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -738,7 +863,11 @@
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9192",
+        "C-9193",
+        "C-9194"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -771,13 +900,771 @@
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9169",
+        "C-9170",
+        "C-9171",
+        "C-9186",
+        "C-9201",
+        "C-9205",
+        "C-9210"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Charlie Kirk; subject of the footage, texts and sleep claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9155",
+        "C-9156",
+        "C-9158",
+        "C-9164",
+        "C-9165",
+        "C-9195",
+        "C-9196",
+        "C-9197",
+        "C-9208"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Candace Owens; host and speaker of her own claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9154",
+        "C-9157",
+        "C-9158",
+        "C-9159",
+        "C-9166",
+        "C-9179",
+        "C-9183",
+        "C-9184",
+        "C-9186",
+        "C-9191",
+        "C-9193",
+        "C-9195",
+        "C-9197",
+        "C-9198",
+        "C-9199",
+        "C-9200",
+        "C-9201",
+        "C-9202",
+        "C-9203",
+        "C-9205"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 20,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "George, the host's husband; ordered the bug sweep.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9203"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Kash Patel; FBI director whose role and statements are questioned.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9187",
+        "C-9188",
+        "C-9189",
+        "C-9190"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-131",
+      "ref": "N-131",
+      "name": "Ian Carol",
+      "type": "person",
+      "description": "Ian Carol; named among independent investigators.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9198"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Blake Neff; named with Kolvet and Erika in the host's comments on TPUSA strategy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9205"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-213",
+      "ref": "N-213",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "Joe Kent; whose halted foreign-ties inquiry and message handover are discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9189",
+        "C-9190",
+        "C-9208"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-229",
+      "ref": "N-229",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Shawn Ryan; podcast where the host says the case was discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9192"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-242",
+      "ref": "N-242",
+      "name": "Glenn Beck",
+      "type": "person",
+      "description": "Glenn Beck; interviewer in Erika's night-before denial per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9209"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-265",
+      "ref": "N-265",
+      "name": "Steven Crowder",
+      "type": "person",
+      "description": "Steven Crowder; named in the playroom and bug-sweep claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9154",
+        "C-9203"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Brian Harpole; plaintiff the host says is suing her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9183"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-337",
+      "ref": "N-337",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Baron Coleman; named among independent investigators.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9198"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-715",
+      "ref": "N-715",
+      "name": "Robert Golow",
+      "type": "person",
+      "description": "Robert Golow; operator of the front-left camera per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9163",
+        "C-9164"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; organization at issue across the new claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9179",
+        "C-9186",
+        "C-9190",
+        "C-9191"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Utah Valley University; site of the event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9161"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "Federal Bureau of Investigation; its custody and jurisdiction are questioned.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9185"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10100",
+      "ref": "N-10100",
+      "name": "TPUSA SD Card Removal",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9155",
+        "C-9156",
+        "C-9176",
+        "C-9177",
+        "C-9178"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10202",
+      "ref": "N-10202",
+      "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9169",
+        "C-9187",
+        "C-9188"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10340",
+      "ref": "N-10340",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9195",
+        "C-9208",
+        "C-9209",
+        "C-9210"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10346",
+      "ref": "N-10346",
+      "name": "Terrell Farnsworth Camera Removal Justification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9155",
+        "C-9157",
+        "C-9158",
+        "C-9181",
+        "C-9184"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10355",
+      "ref": "N-10355",
+      "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9189",
+        "C-9190"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10611",
+      "ref": "N-10611",
+      "name": "Erika Kirk Fearlessness vs. Threat Claim Inconsistency",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9195",
+        "C-9196",
+        "C-9197",
+        "C-9209"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10625",
+      "ref": "N-10625",
+      "name": "Probable Cause Hearing Exhibit Count (35 Exhibits)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9174"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10651",
+      "ref": "N-10651",
+      "name": "Brian Harpole Lawsuit Coordination Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9183"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10795",
+      "ref": "N-10795",
+      "name": "Wilson's Promised Release of \"Never-Before-Seen Messages\"",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9201",
+        "C-9202"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10796",
+      "ref": "N-10796",
+      "name": "Turning Point USA Organizational State (Post-Debate)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9199",
+        "C-9205"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10808",
+      "ref": "N-10808",
+      "name": "Terrell SD Card-to-Laptop Transfer Sequence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9167"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10810",
+      "ref": "N-10810",
+      "name": "SD Card Chain-of-Custody Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9161",
+        "C-9162",
+        "C-9167",
+        "C-9169",
+        "C-9172",
+        "C-9182",
+        "C-9183"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10991",
+      "ref": "N-10991",
+      "name": "Visual Impulse",
+      "type": "investigation_target",
+      "description": "Visual Impulse; Farnsworth's audio-visual company.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9155",
+        "C-9160",
+        "C-9163",
+        "C-9164"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10998",
+      "ref": "N-10998",
+      "name": "Robert Golow Identification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9163"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11066",
+      "ref": "N-11066",
+      "name": "Wilson Debate Crucible Team Anonymity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9191",
+        "C-9199",
+        "C-9200",
+        "C-9204"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-843",
+      "ref": "N-843",
+      "name": "Jordan Wilson",
+      "type": "person",
+      "description": "First named by the host at 00:08:20 in episode 142. Camera operator the host says ran the blue-circled camera at the UVU event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9164"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-844",
+      "ref": "N-844",
+      "name": "Kathy Nester",
+      "type": "person",
+      "description": "First named in this episode by the host at 00:24:49 (transcribed Kathy Netor). Defense attorney in the Tyler Robinson case, as recorded in episode 94.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9182"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-845",
+      "ref": "N-845",
+      "name": "John Kiriakou",
+      "type": "person",
+      "description": "First named by the host at 00:31:29 in episode 142 (transcribed Kirao, Kuraku). Former CIA officer and whistleblower shown on the Danny Jones podcast.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9187",
+        "C-9188"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-846",
+      "ref": "N-846",
+      "name": "Danny Jones",
+      "type": "person",
+      "description": "First named by the host at 00:31:29 in episode 142. Podcast host on whose show Kirraou questions the FBI role.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9187"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-847",
+      "ref": "N-847",
+      "name": "Mark Normand",
+      "type": "person",
+      "description": "First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9192"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-848",
+      "ref": "N-848",
+      "name": "Shane Gillis",
+      "type": "person",
+      "description": "First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9192"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-849",
+      "ref": "N-849",
+      "name": "Ari Shaffir",
+      "type": "person",
+      "description": "First named by the host at 00:34:33 in episode 142 (spelled Ari Schaefer in the transcript). Comedian the host names as a Rogan guest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9192"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11211",
+      "ref": "N-11211",
+      "name": "Farnsworth Told Host He Discussed the Footage With Erika",
+      "type": "topic",
+      "description": "The host's account that Farnsworth said on the September 18 call that he spoke with Erika Kirk about the rear-camera footage specifically.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9184"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11212",
+      "ref": "N-11212",
+      "name": "Host Home Access and Bug Sweep",
+      "type": "topic",
+      "description": "The host's account that a Crowder-linked guest joined a show from her children's playroom without consent and that her husband had the house swept for bugs afterward.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9154",
+        "C-9203"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1015,7 +1902,1470 @@
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "No investigative direction; commentary-concurrence claim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9154",
+      "ref": "C-9154",
+      "label": "Host Alleges Crowder Brought a CEO Into Her Home to Join His Show From the Playroom",
+      "claim": "The host says Steven Crowder had his CEO join his show from her children's playroom inside her home without her consent or knowledge. The transcript says only \"his CEO\" without naming the person.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11212"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Identify the CEO and the show episode in question; obtain the broadcast and any statement from the host's household or Crowder's team on how access was arranged.",
+      "transcript_snippet": "having the permanent creep Steven Crowder sneak his CEO into my home to join uh Steven's show from my children's playroom without my consent, without my knowledge.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-265"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9155",
+      "ref": "C-9155",
+      "label": "Farnsworth Began Removing the Camera Less Than Four Minutes After Charlie Was Hit",
+      "claim": "The host says Terrell Farnsworth, TPUSA's audio and visual lead who runs Visual Impulse, began taking down the camera behind Charlie Kirk less than four minutes after Charlie was hit.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10100",
+        "N-10346",
+        "N-10991"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:28",
+      "investigative_direction": "Compare the timestamp of the first shot with the timestamps of Farnsworth's own recording and of the camera-removal footage.",
+      "transcript_snippet": "And this turned out was less than four minutes after Charlie was hit. We know he went up uh and he recorded himself.",
+      "supports_claim_refs": [
+        "C-6475"
+      ],
+      "mentions_person_refs": [
+        "N-267",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9156",
+      "ref": "C-9156",
+      "label": "Farnsworth Went Up and Recorded Himself Announcing Charlie Was Dead Before Removing the Camera",
+      "claim": "The host says Farnsworth went up on stage, recorded himself announcing that Charlie was dead, then went down and began removing the camera behind Charlie in particular.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10100"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:28",
+      "investigative_direction": "Obtain Farnsworth's self-recorded announcement and its metadata; sequence it against the camera-removal video.",
+      "transcript_snippet": "We know he went up uh and he recorded himself. He announced that Charlie was dead. He went down and he began removing that camera in particular.",
+      "mentions_person_refs": [
+        "N-267",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9157",
+      "ref": "C-9157",
+      "label": "Host Says She Has Known Farnsworth for Years and Was Not Initially Suspicious",
+      "claim": "The host says she had known Farnsworth for years, reached out to him after the event, and at first assumed there was a reasonable explanation for the camera removal.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10346"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:28",
+      "investigative_direction": "Confirm the host's prior relationship with Farnsworth and the date of first contact after September 10, 2025.",
+      "transcript_snippet": "I knew Terl. You'll recall this, right? I reached out to him. I've known him for years",
+      "mentions_person_refs": [
+        "N-3",
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9158",
+      "ref": "C-9158",
+      "label": "Farnsworth Told the Host He Did Not Want Erika to See Charlie Get Hit in 4K",
+      "claim": "The host says that on the September 18 call Farnsworth said he did not want to share the back footage because he did not want Erika to see Charlie get hit in 4K, and offered increasingly bizarre reasons for not showing it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10346"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:05",
+      "investigative_direction": "Obtain the host's September 18 call recording or notes, and ask Farnsworth to confirm this stated reason.",
+      "transcript_snippet": "and he said he didn't want to share it because he didn't want Erika to see Charlie get hit in 4K.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-267",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9159",
+      "ref": "C-9159",
+      "label": "Farnsworth First Said He Could Not Send the File, Then Admitted He Could",
+      "claim": "The host says Farnsworth first said he did not know how to send the file, then admitted he knew how but did not want to for fear that Google might hack him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10797"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:03",
+      "investigative_direction": "Obtain the September 18 call recording; compare Farnsworth's two stated reasons for withholding the file.",
+      "transcript_snippet": "And then he admitted that he did know how to send a file, but he didn't want to do it for fear that Google might hack him.",
+      "supports_claim_refs": [
+        "C-6845",
+        "C-3291"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9160",
+      "ref": "C-9160",
+      "label": "Farnsworth's 1102 Statement Describes a Three-Camera Setup Including a Wider Angle Behind Charlie",
+      "claim": "The host reads Farnsworth's 1102 statement as saying his camera setup consisted of three angles: one on Charlie, one on the person asking questions, and a wider angle behind Charlie showing the audience and crowd reaction.",
+      "anchored_artifacts": [
+        "A-2284.1"
+      ],
+      "related_nodes": [
+        "N-10799",
+        "N-10991"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:47",
+      "investigative_direction": "Obtain the authenticated 1102 statement and TPUSA's camera plot for the UVU event.",
+      "transcript_snippet": "Our camera setup consisted of three angles. An angle directly on Charlie, an angle on the individual asking questions and a wider angle behind Charlie that showed the audience and the crowd reaction.",
+      "supports_claim_refs": [
+        "C-3293"
+      ],
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9161",
+      "ref": "C-9161",
+      "label": "1102 Statement Says the Videos Provided to SBI Are a True and Correct Representation of UVU",
+      "claim": "The host reads Farnsworth's statement as saying the videos as provided to SBI are a true and correct representation of what took place at UVU.",
+      "anchored_artifacts": [
+        "A-2284.1"
+      ],
+      "related_nodes": [
+        "N-10012",
+        "N-10810"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:46",
+      "investigative_direction": "Obtain the 1102 and ask SBI which version of each video it received and how authenticity was assessed.",
+      "transcript_snippet": "These videos as they were provided to SBI are a true and correct representation of what took place at UVU.",
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9162",
+      "ref": "C-9162",
+      "label": "Host Notes the Statement Cites Three Cameras but Four Videos and Floats a Fourth Moving Camera",
+      "claim": "The host says Farnsworth's statement describes three cameras but four videos, and suggests a fourth moving camera operated by a person moving side to side, possibly a contractor whose footage Farnsworth obtained. She calls this an assumption.",
+      "anchored_artifacts": [
+        "A-2284.1"
+      ],
+      "related_nodes": [
+        "N-10810"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:46",
+      "investigative_direction": "Identify the source of each of the four videos and the operator of any moving camera at the event.",
+      "transcript_snippet": "Now, let's understand that first portion first. He says that there are four videos that he sent to them. He says that there are three cameras.",
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9163",
+      "ref": "C-9163",
+      "label": "Robert Golow Operated the Front-Left Camera Facing the Questioner",
+      "claim": "The host, pointing to a diagram of the three static cameras, says the camera to the front left of Charlie, facing the person asking questions, was operated by Robert Golow (transcribed Golo).",
+      "anchored_artifacts": [
+        "A-2992.1"
+      ],
+      "related_nodes": [
+        "N-10991",
+        "N-10998"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:46",
+      "investigative_direction": "Confirm camera operator assignments with Visual Impulse crew records or with Golow directly.",
+      "transcript_snippet": "Now, we have one to the front left side of Charlie that is being operated by Robert Golo.",
+      "mentions_person_refs": [
+        "N-715"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9164",
+      "ref": "C-9164",
+      "label": "Jordan Wilson Operated the Camera the Host Calls Most Critical",
+      "claim": "The host says the camera circled in blue on her diagram, which she judges would carry the most critical graphic evidence of Charlie being shot, was operated by Jordan Wilson.",
+      "anchored_artifacts": [
+        "A-2992.1"
+      ],
+      "related_nodes": [
+        "N-10991",
+        "N-10799"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:20",
+      "investigative_direction": "Confirm Jordan Wilson's role and camera position, and whether that camera's footage was among the four videos sent to SBI.",
+      "transcript_snippet": "Right? That's the one that was being operated by uh Jordan Wilson. In other words, if I were trying to gather evidence very quickly within minutes of Charlie Kirk being shot, I'd go blue.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-843"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9165",
+      "ref": "C-9165",
+      "label": "Host Says the Rear Camera Faced Downward and Traditionally Showed Only the Area Around Charlie's Feet",
+      "claim": "The host says the third camera was behind Charlie and facing downward, and that traditionally it showed only what was happening below and around Charlie's feet plus some audience.",
+      "anchored_artifacts": [
+        "A-2992.1"
+      ],
+      "related_nodes": [
+        "N-10799"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:20",
+      "investigative_direction": "Review rear-camera frames from earlier American Comeback Tour stops to establish the usual framing.",
+      "transcript_snippet": "A, it's facing downward. B, it's behind Charlie. And traditionally, in case you're wondering or need reminding, all it showed was a view of what was happening below and around Charlie's feet",
+      "supports_claim_refs": [
+        "C-3293"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9166",
+      "ref": "C-9166",
+      "label": "Farnsworth Eventually Showed the Host Non-Graphic Back-Camera Footage That Looked Zoomed In",
+      "claim": "The host says Farnsworth finally showed her non-graphic footage from the camera behind Charlie's head, and that it appeared to YouTuber Nissi to be a zoomed-in shot from that camera.",
+      "anchored_artifacts": [
+        "A-2286.1"
+      ],
+      "related_nodes": [
+        "N-10799"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:44",
+      "investigative_direction": "Establish when and in what form Farnsworth showed the host the footage; obtain the file shown to her and its metadata.",
+      "transcript_snippet": "Terl Farnsworth when he finally did show me the completely non-graphic footage from behind Charlie's head presented to me what appeared to her to be a zoomedin shot from that camera",
+      "supports_claim_refs": [
+        "C-3293"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9167",
+      "ref": "C-9167",
+      "label": "Host Infers Farnsworth Copied the SD Card to a Flash Drive and Created Google Links",
+      "claim": "The host infers from Agent Hull's testimony that Farnsworth inserted the SD card into a computer, copied the footage onto a flash drive, and similarly created Google links, rather than handing over the card on September 10.",
+      "anchored_artifacts": [
+        "A-2285.1"
+      ],
+      "related_nodes": [
+        "N-10808",
+        "N-10810"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:31",
+      "investigative_direction": "Obtain the preliminary-hearing transcript and forensic metadata of the flash-drive and Google-link copies to show how they were created.",
+      "transcript_snippet": "This means that Terl inserted that SD card into a computer and then copied the footage onto a flash drive and similarly created Google links.",
+      "supports_claim_refs": [
+        "C-3292"
+      ],
+      "mentions_person_refs": [
+        "N-267",
+        "N-581"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9168",
+      "ref": "C-9168",
+      "label": "Host Says the Public Was Told There Was Nothing Unique About the Rear Camera Footage",
+      "claim": "The host says that when the clip of Farnsworth taking down that camera went viral, people were told there was nothing unique about that camera or its footage, which she calls gaslighting.",
+      "anchored_artifacts": [
+        "A-2284.2"
+      ],
+      "related_nodes": [
+        "N-10162"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:25",
+      "investigative_direction": "Collect TPUSA statements on the significance of the rear camera and compare them with the 1102 account of the 80704 clip.",
+      "transcript_snippet": "And then people were gas lit. We were told no, there was nothing unique about that camera. There was nothing unique about that footage in particular.",
+      "supports_claim_refs": [
+        "C-5079"
+      ],
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9169",
+      "ref": "C-9169",
+      "label": "Kolvet Says the SD Cards Are in the Possession of the FBI",
+      "claim": "In the Tucker Carlson clip, Andrew Kolvet says the SD cards Farnsworth grabbed are in the possession of the FBI and that Farnsworth did not run off with them.",
+      "anchored_artifacts": [
+        "A-2287.1"
+      ],
+      "related_nodes": [
+        "N-10810",
+        "N-10202"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:25",
+      "investigative_direction": "Ask the FBI and SBI whether and when they took custody of any original SD card; compare with Agent Hull's testimony that the 1102 was collected, not the SD card.",
+      "transcript_snippet": "Well, first of all, they're in the possession of the FBI.",
+      "supports_claim_refs": [
+        "C-1369"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9170",
+      "ref": "C-9170",
+      "label": "Kolvet Says He Personally Asked Farnsworth Why He Took the SD Cards",
+      "claim": "In the Tucker Carlson clip, Kolvet says he personally asked the staffer why he grabbed the SD cards and that the answer was that he knew people can be evil.",
+      "anchored_artifacts": [
+        "A-2287.1"
+      ],
+      "related_nodes": [
+        "N-10162"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:25",
+      "investigative_direction": "Obtain the full Tucker Carlson segment; ask Kolvet and Farnsworth when and where the exchange took place.",
+      "transcript_snippet": "I asked him personally. I said, \"Why did you do that?\" And he looked at me and this was his answer.",
+      "supports_claim_refs": [
+        "C-6477"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9171",
+      "ref": "C-9171",
+      "label": "Host Notes Kolvet Said Cards, Plural, While the Video Shows One Card Taken",
+      "claim": "The host says Kolvet said Farnsworth took the SD cards, plural, whereas what viewers observed was a single card from that one camera first, which struck her and others as odd.",
+      "anchored_artifacts": [
+        "A-2287.1"
+      ],
+      "related_nodes": [
+        "N-10162"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:54",
+      "investigative_direction": "Review Sept 10 footage of all camera positions to count how many cards Farnsworth removed and when.",
+      "transcript_snippet": "But you said cards. And what we noticed was that it was card. It was that one first.",
+      "supports_claim_refs": [
+        "C-3294"
+      ],
+      "mentions_person_refs": [
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9172",
+      "ref": "C-9172",
+      "label": "1102 Lists Four Videos of 26, 26, 26 and 23 Minutes",
+      "claim": "The host reads the lengths of the four videos from Farnsworth's statement as 26, 26, 26 and 23 minutes.",
+      "anchored_artifacts": [
+        "A-2284.1"
+      ],
+      "related_nodes": [
+        "N-10800",
+        "N-10810"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "Obtain the 1102 and the four source files; compare durations and metadata with the 80704 clip.",
+      "transcript_snippet": "One is 26 minutes, another one is 26 minutes, another is 26 minutes, and a fourth one is 23 minutes.",
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9173",
+      "ref": "C-9173",
+      "label": "Host Says It Is Unclear Whether Farnsworth or SBI Made the 80704 Clip, but Farnsworth Touched the Footage First",
+      "claim": "The host says it is not clear whether Farnsworth or SBI clipped the footage behind Charlie, but that Farnsworth was the first to touch it and the footage ended up clipped.",
+      "anchored_artifacts": [
+        "A-2284.2"
+      ],
+      "related_nodes": [
+        "N-10800"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "Obtain the metadata and creation log for clip 80704 and the identity of whoever produced it.",
+      "transcript_snippet": "Like I said, we're not sure if Terl clipped it or if it was SBI that clipped it. We do know that Terrell was the first to touch that footage",
+      "supports_claim_refs": [
+        "C-3295"
+      ],
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9174",
+      "ref": "C-9174",
+      "label": "Host Says Zoomed Footage Was Admitted as a True Representation in the Courtroom Exhibit Dispute",
+      "claim": "The host says that during the courtroom back-and-forth over exhibits 12.1 and 12.4 the court saw zoomed-in footage and the parties still called it a true representation, which she uses to read the 1102 wording.",
+      "anchored_artifacts": [
+        "A-2284.2"
+      ],
+      "related_nodes": [
+        "N-10799",
+        "N-10625"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "Obtain the preliminary-hearing transcript for exhibits 12.1 and 12.4 and the objections raised about zoom and cropping.",
+      "transcript_snippet": "We learned that during the whole back and forth regarding 12.1 and 12.4 before um in the courtroom when they were debating."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9175",
+      "ref": "C-9175",
+      "label": "Host Speculates the 80704 Clip Exists Because the Footage Was Zoomed",
+      "claim": "The host says it is plausible that the only reason to cut a separate clip from the rear camera is that the footage was zoomed in, since zooming would require creating a new clip. She says she is speculating.",
+      "anchored_artifacts": [
+        "A-2284.2"
+      ],
+      "related_nodes": [
+        "N-10800",
+        "N-10799"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "Compare the 80704 clip frame by frame against the full rear-camera file to test for cropping or digital zoom.",
+      "transcript_snippet": "It's plausible that the only reason they would have to clip that out is because it was zoomed in.",
+      "supports_claim_refs": [
+        "C-3295"
+      ],
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9176",
+      "ref": "C-9176",
+      "label": "Host Says Farnsworth Grabbed Only the One SD Card and Did So Nervously",
+      "claim": "The host says Farnsworth did not instantly grab all the SD cards but only the one from the camera behind Charlie, and that he did it nervously while looking around to see who was watching.",
+      "anchored_artifacts": [
+        "A-2284.2"
+      ],
+      "related_nodes": [
+        "N-10100",
+        "N-10162"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "Review footage of the other camera positions for any removal of cards from other cameras.",
+      "transcript_snippet": "because he did not instantly grab all of the SD cards. He grabbed that one and he did it nervously.",
+      "supports_claim_refs": [
+        "C-6475"
+      ],
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9177",
+      "ref": "C-9177",
+      "label": "Footage Shows Farnsworth Taking the Camera Apart and Removing Only the SD Card",
+      "claim": "The host plays footage in which Farnsworth takes the rear camera apart and removes the SD card rather than taking the whole camera, and argues someone worried about theft would take the whole camera.",
+      "anchored_artifacts": [
+        "A-2993.1"
+      ],
+      "related_nodes": [
+        "N-10100",
+        "N-10162"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:54",
+      "investigative_direction": "Obtain the original unedited video and the timestamp of the removal.",
+      "transcript_snippet": "If you're worried about theft, take the whole camera. It's pretty small. It's in your hand. He doesn't do that. He takes it apart and he takes the SD card out.",
+      "supports_claim_refs": [
+        "C-6480"
+      ],
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9178",
+      "ref": "C-9178",
+      "label": "Footage Shows Farnsworth Looking Around After Removing the Card",
+      "claim": "The host says the footage shows Farnsworth looking around, which she reads as wanting to see who was looking at him, before he looks down at the card and walks around.",
+      "anchored_artifacts": [
+        "A-2993.1"
+      ],
+      "related_nodes": [
+        "N-10100"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:11",
+      "investigative_direction": "Review the video frame by frame to document where Farnsworth looks and what is in his sight line.",
+      "transcript_snippet": "And he looks around. He wants to see who's looking at him.",
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9179",
+      "ref": "C-9179",
+      "label": "Host Says a Network of Government Employees Was Trying to Get the Truth Out",
+      "claim": "The host says that as she wondered whom she could trust at TPUSA, there was a network of government employees fighting to get the truth out who were wondering whom they could trust as well, and that this is how she has known what Farnsworth did since October.",
+      "anchored_artifacts": [
+        "A-2288.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:20",
+      "investigative_direction": "The host would need to say how many sources, which agencies and how the exclusive footage reached her; the claim itself is unverifiable without her sources.",
+      "transcript_snippet": "there was a network of government employees that were fighting to get the truth out and wondering who they could trust as well.",
+      "supports_claim_refs": [
+        "C-3300"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9180",
+      "ref": "C-9180",
+      "label": "Footage Shows Farnsworth Not Going to the Other Cameras Before Texting",
+      "claim": "The host says that in the newly released footage Farnsworth did not run to the other cameras to grab their SD cards but instead took out his phone and began texting someone.",
+      "anchored_artifacts": [
+        "A-2288.1"
+      ],
+      "related_nodes": [
+        "N-10801"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:26",
+      "investigative_direction": "Review the complete Sept 10 footage from all angles to confirm no other camera was touched in that period.",
+      "transcript_snippet": "He doesn't run to the other cameras and try to grab the SD card. Instead, what he does is he whips out his phone and he begins texting with someone.",
+      "supports_claim_refs": [
+        "C-3296"
+      ],
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9181",
+      "ref": "C-9181",
+      "label": "Host Says She Was Told No Police Officer Told Farnsworth to Take the Footage",
+      "claim": "The host says she is told that no police officer instructed Farnsworth to take that footage in particular. This stands against the Bowyer account that a law enforcement instruction prompted the removal.",
+      "anchored_artifacts": [
+        "A-2288.1"
+      ],
+      "related_nodes": [
+        "N-10346",
+        "N-10162"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:34",
+      "investigative_direction": "Ask UVU police, SBI and FBI whether any officer instructed Farnsworth to remove a card, and ask Bowyer for the source of his account.",
+      "transcript_snippet": "Maybe there was some police officer who told him to take that footage in particular. I'm told that didn't happen.",
+      "contradicts_claim_refs": [
+        "C-1366"
+      ],
+      "supports_claim_refs": [
+        "C-6692"
+      ],
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9182",
+      "ref": "C-9182",
+      "label": "Host Says Kathy Nester Asked Whether the Footage Was Edited",
+      "claim": "The host says defense attorney Kathy Nester (transcribed Netor) asked questions and asserted that the defense does not know whether the footage was edited.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10810"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:49",
+      "investigative_direction": "Obtain the preliminary-hearing transcript for Nester's questions about editing of the Visual Impulse footage.",
+      "transcript_snippet": "The questions that Kathy Netor asked thereafter um things that she asserted about they don't know whether or not that footage was edited.",
+      "mentions_person_refs": [
+        "N-267",
+        "N-844"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9183",
+      "ref": "C-9183",
+      "label": "Host Says She Is Being Sued by Brian Harpole and Needs the Footage",
+      "claim": "The host says she is being sued by Brian Harpole, needs the rear-camera footage, and will try to trace its custody and whether it was edited before being given to the FBI by Google link or flash drive.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10651",
+        "N-10810"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:45",
+      "investigative_direction": "Check the docket for the Harpole suit and any discovery requests covering Visual Impulse footage.",
+      "transcript_snippet": "But I need that footage. I'm being sued by Brian Harpole.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9184",
+      "ref": "C-9184",
+      "label": "Host Says Farnsworth Told Her He Spoke With Erika About That Footage Specifically",
+      "claim": "The host says Farnsworth told her on the call that he spoke with Erika about that footage specifically, and that she has proof that this is what he told her, though she says he was lying a lot on the call.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11211",
+        "N-10346"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:45",
+      "investigative_direction": "Obtain the host's call recording; ask Erika Kirk and Farnsworth whether and when they discussed the rear-camera footage.",
+      "transcript_snippet": "why did Terl tell me that he spoke with Erika about that footage specifically?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-267",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9185",
+      "ref": "C-9185",
+      "label": "Host Says the FBI May Assist but Has No Jurisdiction Over a State Crime",
+      "claim": "The host says the FBI is allowed to assist under the law but does not have jurisdiction over a state crime, and that SBI should have kept the SD card and could have handed the flash drive copy to the FBI.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10802",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:02",
+      "investigative_direction": "Obtain the written agreement or request under which the FBI assumed evidence custody and the legal basis cited.",
+      "transcript_snippet": "The FBI under the law is allowed to assist, but they don't have jurisdiction over the crime over the state.",
+      "supports_claim_refs": [
+        "C-3297"
+      ],
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9186",
+      "ref": "C-9186",
+      "label": "Host Says TPUSA Partners Have Published Details of Her Children's Cars",
+      "claim": "The host says people partnering with TPUSA have been publishing things about her children's cars and the vehicles they travel in, and asks TPUSA to stop.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:05",
+      "investigative_direction": "Identify the posts publishing the vehicle details and any link between their authors and TPUSA.",
+      "transcript_snippet": "torment us, publishing things about my children's cars and the vehicles that they travel in.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9187",
+      "ref": "C-9187",
+      "label": "Kirraou Says Patel Described the FBI Role as Offering Expertise to Utah State Police",
+      "claim": "In the Danny Jones podcast clip, John Kirraou (transcribed Kirao, Kuraku) says Kash Patel was asked early on and said the FBI was just offering its expertise to the Utah State Police.",
+      "anchored_artifacts": [
+        "A-2289.1"
+      ],
+      "related_nodes": [
+        "N-10802",
+        "N-10202"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:29",
+      "investigative_direction": "Locate Patel's original statement on the FBI's role and compare it with the FBI's actual deployment.",
+      "transcript_snippet": "So, Kash Patel was asked this early on and he said, \"We're just offering the FBI's expertise to the Utah State Police.\"",
+      "supports_claim_refs": [
+        "C-3297"
+      ],
+      "mentions_person_refs": [
+        "N-845",
+        "N-846",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9188",
+      "ref": "C-9188",
+      "label": "Kirraou Says the FBI Director Should Not Fly Out With a Planeload of Agents for a State Case",
+      "claim": "In the clip, Kirraou says offering expertise would mean sending items by FedEx or lending a lab person, and that an FBI director flying out with a planeload of agents is not what you do for a state case that is not federal.",
+      "anchored_artifacts": [
+        "A-2289.1"
+      ],
+      "related_nodes": [
+        "N-10802",
+        "N-10202"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:49",
+      "investigative_direction": "Obtain Patel's travel records and the number of FBI personnel deployed to Utah in September 2025.",
+      "transcript_snippet": "You don't have the FBI director fly out there with a with a plane load of FBI agents. It's not a federal case.",
+      "mentions_person_refs": [
+        "N-845",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9189",
+      "ref": "C-9189",
+      "label": "Host Says Kash Patel Apparently Shut Down Joe Kent's Inquiry Into Foreign Ties",
+      "claim": "The host says it is very strange that Kash Patel apparently shut down Joe Kent, who wanted to investigate whether there were foreign ties.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10355"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:49",
+      "investigative_direction": "Seek Joe Kent's on-record account and documents on the halted NCTC inquiry.",
+      "transcript_snippet": "it's very strange that Kash Patel apparently shut down um Joe Kent who wanted to investigate whether or not there are foreign ties.",
+      "supports_claim_refs": [
+        "C-2525",
+        "C-1519"
+      ],
+      "mentions_person_refs": [
+        "N-69",
+        "N-213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9190",
+      "ref": "C-9190",
+      "label": "Host Says TPUSA Is Upset With Joe Kent but Not With Kash Patel",
+      "claim": "The host says Turning Point USA is upset with the person who wanted to investigate foreign ties but not with Kash Patel, and that TPUSA attends events with Patel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10355"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:49",
+      "investigative_direction": "Compile TPUSA public statements about Kent and Patel and a list of joint appearances.",
+      "transcript_snippet": "And then we had Turning Point USA who's upset with the person who wanted to investigate those ties but not upset with Kash Patel going to events with Kash Patel.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9191",
+      "ref": "C-9191",
+      "label": "Host Says TPUSA Intentionally Tried to Trip Her Into a Lawsuit",
+      "claim": "The host says that, as she said before, they were intentionally trying to trip her into a lawsuit, and that people on the other side are eager for her to be sued.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11066"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:49",
+      "investigative_direction": "Review the debate agreement, the questions put to her and any legal communications around the debate for evidence of an intent to provoke a suit.",
+      "transcript_snippet": "Uh but as I said as um they were intentionally trying to trip me into a lawsuit. You can see they're all salivating for me to be sued.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9192",
+      "ref": "C-9192",
+      "label": "Host Says the Case Has Been Discussed on Shawn Ryan and Joe Rogan",
+      "claim": "The host says the case has gone mainstream and been discussed on Shawn Ryan and more recently on Joe Rogan, where guests Mark Normand, Shane Gillis and Ari Schaefer discussed the Tyler Robinson case and the PR campaign around Erika Kirk.",
+      "anchored_artifacts": [
+        "A-2290.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:33",
+      "investigative_direction": "Identify the Rogan episode number and date and verify its guest list.",
+      "transcript_snippet": "whether that's Shawn Ryan or more recently Joe Rogan who had a laugh alongside his guests Mark Normand, Shane Gillis and Ari Schaefer",
+      "mentions_person_refs": [
+        "N-229",
+        "N-274",
+        "N-847",
+        "N-848",
+        "N-849",
+        "N-40",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9193",
+      "ref": "C-9193",
+      "label": "A Rogan Panelist Says He Is Leaning More Toward Candace Owens as Time Goes On",
+      "claim": "In the Rogan clip a speaker, not identified in the transcript, says the more time goes on, the more he is leaning towards Candace Owens.",
+      "anchored_artifacts": [
+        "A-2290.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:31",
+      "investigative_direction": "Identify the speaker from the Rogan episode audio.",
+      "transcript_snippet": "The more the more time goes on, the more I'm leaning towards Candace Owens.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-274"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9194",
+      "ref": "C-9194",
+      "label": "Rogan Panel Remarks on Erika Kirk Coming Out With Sparklers Behind Her",
+      "claim": "In the Rogan clip a panelist asks whether it is weird that a woman comes out with sparklers behind her, in a discussion the host introduced as being about the PR campaign around Erika Kirk.",
+      "anchored_artifacts": [
+        "A-2290.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:48",
+      "investigative_direction": "Match the remark to a specific Erika Kirk appearance with pyrotechnics and its date.",
+      "transcript_snippet": "You don't think it's weird the lady comes out to sparkers behind her?",
+      "supports_claim_refs": [
+        "C-7098"
+      ],
+      "mentions_person_refs": [
+        "N-274",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9195",
+      "ref": "C-9195",
+      "label": "Host Says She Began Commenting in December After Erika Denied Charlie Sent Fear Messages the Night Before",
+      "claim": "The host says she only weighed in beginning in December, when Erika Kirk went on a press tour and explicitly shared something untrue: that the night before, Charlie was not sending messages saying he feared for his life.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10340",
+        "N-10611"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:16",
+      "investigative_direction": "Find Erika Kirk's December 2025 press-tour statements on the night before and compare them with the text messages TPUSA later confirmed.",
+      "transcript_snippet": "I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue that the night before Charlie was not sending messages saying that he feared for his life.",
+      "supports_claim_refs": [
+        "C-6825"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9196",
+      "ref": "C-9196",
+      "label": "Host Says Erika Kirk Described Charlie as So Excited About UVU That He Could Not Sleep",
+      "claim": "The host says Erika Kirk described Charlie as so excited to do what he always does, so excited to go to UVU, that he couldn't sleep.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10611"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:16",
+      "investigative_direction": "Locate the Erika Kirk interview in which she says this and its date.",
+      "transcript_snippet": "When she says he was just so excited to do what he's always done, so excited to go to UVU, he couldn't sleep.",
+      "supports_claim_refs": [
+        "C-3760"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9197",
+      "ref": "C-9197",
+      "label": "Host Disputes That Charlie Lost Sleep From Excitement About an Already-Visited Stop",
+      "claim": "The host says she has never known Charlie not to sleep over a tour stop at a place he had already been, and says it makes more sense that he could not sleep because he thought he would be killed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10611"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:22",
+      "investigative_direction": "Collect accounts from people who traveled with Charlie about his sleep habits before tour stops.",
+      "transcript_snippet": "Never known Charlie to to not sleep over a tour stop of a place that he's already been.",
+      "supports_claim_refs": [
+        "C-3760"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9198",
+      "ref": "C-9198",
+      "label": "Host Says the Independent Investigators May Have Made Errors but Not Knowingly",
+      "claim": "The host says that when she says we she means independent investigators including Nissi, Baron Coleman, Ian Carol and Coach Colin, and that they have likely made some errors but not knowingly, and wish to correct them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10807"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:11",
+      "investigative_direction": "Track the specific corrections the group has issued and which claims remain disputed.",
+      "transcript_snippet": "Sure, I'm sure we have made some errors, but we did not make them knowingly.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-337",
+        "N-131"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9199",
+      "ref": "C-9199",
+      "label": "Host Says Wilson Came to Believe She Received Texts on Her Phone During the Debate",
+      "claim": "The host says that by the end of the debate Andrew Wilson had become a conspiracy theorist who thought she was receiving text messages on her phone to remind her of the charges, and then thought she was receiving them through Signal or Telegram.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11066",
+        "N-10796"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:11",
+      "investigative_direction": "Review the debate recording for Wilson's remarks about texts, Signal or Telegram.",
+      "transcript_snippet": "Andrew Wilson by the end of it into a conspiracy theorist who thought that I was receiving text messages on my phone uh to remind me of what the charges were",
+      "mentions_person_refs": [
+        "N-3",
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9200",
+      "ref": "C-9200",
+      "label": "Host Says She Offered to Hand Over Her Phone During the Debate",
+      "claim": "The host says that in response to Wilson's suspicion she offered her phone to show there was no hidden messaging, as a demonstration that transparency debunks conspiracy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11066"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:11",
+      "investigative_direction": "Confirm from the debate recording the exchange about the phone.",
+      "transcript_snippet": "What did I do? At first, I said I said, \"Here's my phone.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9201",
+      "ref": "C-9201",
+      "label": "Host Says TPUSA Gave Wilson a Never-Before-Seen Text Message",
+      "claim": "The host says that when TPUSA finally shared some daylight, it chose Andrew Wilson and gave him a text message that has not been seen before.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10795"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:58",
+      "investigative_direction": "Ask Wilson and TPUSA to release the text message and state its source and date.",
+      "transcript_snippet": "you pick Andrew Wilson and you give him a text message. Never before seen, by the way.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-18",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9202",
+      "ref": "C-9202",
+      "label": "Host Says the Wilson Text Message Is Still Unseen and Only Teased",
+      "claim": "The host says the message is still never before seen because it has not been released, that Wilson is teasing it, and that knowing it exists and was in his hand is already helpful to her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10795"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:40",
+      "investigative_direction": "Watch for release of the message and compare it with the night-before messages TPUSA has acknowledged.",
+      "transcript_snippet": "It's still never before seen because we haven't seen it. He's teasing it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9203",
+      "ref": "C-9203",
+      "label": "Host Says Her Husband Already Had the House Swept for Bugs",
+      "claim": "The host says her husband George already had the house swept for bugs, as the first thing he did after they learned the Crowder crew had been in the house.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11212"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:51",
+      "investigative_direction": "Not independently checkable without a sweep report; the claim is the host's own statement.",
+      "transcript_snippet": "of course, George has already had the house swept for bugs. That was like the first thing he did",
+      "mentions_person_refs": [
+        "N-3",
+        "N-30",
+        "N-265"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9204",
+      "ref": "C-9204",
+      "label": "Crucible Account Corrected by a Community Note on a Probable Cause Warrant Quote",
+      "claim": "The host says the Crucible account posted that the warrant said officers spoke to the mom, and that a community note on X explained this is not a direct quotation from the mother but an officer's statement in a probable cause warrant.",
+      "anchored_artifacts": [
+        "A-2994.1"
+      ],
+      "related_nodes": [
+        "N-11066"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:11",
+      "investigative_direction": "Find the Crucible post and the attached community note and compare against the probable cause affidavit text.",
+      "transcript_snippet": "Twitter just had to come in and explain to him, no, this this is not a direct quotation from the mom.",
+      "mentions_person_refs": [
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9205",
+      "ref": "C-9205",
+      "label": "Host Says Wilson Was Turning Point's Horse Despite TPUSA Saying It Had Nothing to Do With Him",
+      "claim": "The host says she knew Wilson was Turning Point's horse, citing TPUSA's statement that it had nothing to do with him and then his opening statement. She says no brain cell was split between Erika, Kolvet and Neff.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10804",
+        "N-10796"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:27",
+      "investigative_direction": "Collect TPUSA statements disclaiming Wilson and any communications or payments between TPUSA and Wilson or Crucible.",
+      "transcript_snippet": "I knew that it was Turning Point's horse. Even just them saying we we have nothing to do with him and then his opening statement, it just is incredible.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-18",
+        "N-2",
+        "N-14",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9206",
+      "ref": "C-9206",
+      "label": "Host Says Wilson's Opening Statement Turned to Israel",
+      "claim": "The host says Andrew Wilson's debate opening statement started talking about Israel, which she finds strange.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10805"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Review the debate transcript for the length and content of the Israel passage in Wilson's opening.",
+      "transcript_snippet": "His opening statement, he starts talking about Israel. Why?",
+      "mentions_person_refs": [
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9207",
+      "ref": "C-9207",
+      "label": "Host Says Wilson Wanted to Absolve Israel Without Proving His Debate Claim",
+      "claim": "The host says that if Wilson had proven his claim of overwhelming evidence that Tyler Robinson did it, that would naturally absolve Israel, but he instead wanted to absolve Israel without proving the claim.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10805"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:55",
+      "investigative_direction": "Compare the debate resolution as agreed with Wilson's actual arguments.",
+      "transcript_snippet": "He wanted to absolve Israel from any guilt without having to prove his statement. Weird focus.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9208",
+      "ref": "C-9208",
+      "label": "Host Says the Night-Before Text Would Have Been the First Message Handed Over to Joe Kent",
+      "claim": "Responding to a viewer comment, the host says that if the messages being handed over were of people Charlie felt threatened by or anything significant, the text that he feared the left would kill him would have been the first one handed over.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:43",
+      "investigative_direction": "Ask Joe Kent and Kolvet exactly which messages were provided to Kent and when.",
+      "transcript_snippet": "Of course, if he was handing messages that hand messages over as he was uh of people that Charlie felt threatened by or anything that could be significant, that would have been the first message that was handed over.",
+      "supports_claim_refs": [
+        "C-2531"
+      ],
+      "mentions_person_refs": [
+        "N-213",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9209",
+      "ref": "C-9209",
+      "label": "Host Says TPUSA Denied the Messages for Four Months Then Had Erika Deny It on Glenn Beck",
+      "claim": "The host says TPUSA denied or stayed silent for four months and then had Erika deny the night-before messages on the Glenn Beck show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10340",
+        "N-10611"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:38",
+      "investigative_direction": "Locate the Glenn Beck interview segment and any earlier TPUSA statements on the messages.",
+      "transcript_snippet": "Instead, they denied it for four months and then had Erika deny it on Glenn Beck or rather stayed mum on it for four months",
+      "supports_claim_refs": [
+        "C-5550",
+        "C-6778"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-242"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9210",
+      "ref": "C-9210",
+      "label": "Host Says TPUSA Later Admitted Messages Exist but Said They Mention the Left",
+      "claim": "The host says that when the denial backfired, TPUSA said there were messages but that they say the left, and she calls the timeline suspicious in her opinion.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:38",
+      "investigative_direction": "Obtain the full text of the night-before messages and the dates TPUSA first acknowledged them.",
+      "transcript_snippet": "And then when it backfired, they were like, \"Oh, no, there's messages, but like it says the left.\"",
+      "supports_claim_refs": [
+        "C-1927"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-14"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-43",
+      "ref": "M-43",
+      "canonical_term": "Community Notes for the Win",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 142,
+          "video_timestamp": "00:47:11",
+          "speaker_node_ref": "N-3",
+          "quote": "the Crucible account is now um, getting fact checks. What do you call community notes on X? Because they're like, right here it says that they spok...",
+          "context": "Later reuse of Community Notes for the Win in CKA seq 142.",
+          "confidence": "high",
+          "tags": [
+            "x",
+            "factcheck",
+            "comedy",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-151",
+      "ref": "M-151",
+      "canonical_term": "Positive Evidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 142,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "think that we need positive evidence to share our opinions",
+          "context": "Host opens by mocking the demand for positive evidence.",
+          "confidence": "high",
+          "tags": [
+            "positive evidence",
+            "opener"
+          ]
+        },
+        {
+          "episode": 142,
+          "video_timestamp": "00:40:10",
+          "quote": "Positive evidence. >> Oh, you've got to be kidding me.",
+          "context": "Parody video repeats the refrain.",
+          "confidence": "high",
+          "tags": [
+            "positive evidence",
+            "parody"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-153",
+      "ref": "M-153",
+      "canonical_term": "Sentencing TPUSA to More Truth",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 142,
+          "video_timestamp": "00:01:00",
+          "speaker_node_ref": "N-3",
+          "quote": "they have been sentenced to what they hate the most. More truth.",
+          "context": "Host frames the episode as the sentence in the Court of Candace.",
+          "confidence": "high",
+          "tags": [
+            "sentence",
+            "more truth"
+          ]
+        },
+        {
+          "episode": 142,
+          "video_timestamp": "00:50:43",
+          "speaker_node_ref": "N-3",
+          "quote": "sentencing people to more truth",
+          "context": "Host repeats the sentencing bit from her court.",
+          "confidence": "high",
+          "tags": [
+            "sentence",
+            "more truth"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-154",
+      "ref": "M-154",
+      "canonical_term": "Second Favorite Shirt",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 142,
+          "video_timestamp": "00:46:18",
+          "speaker_node_ref": "N-3",
+          "quote": "if you are going to commit a crime, please wear your second favorite shirt",
+          "context": "Host plugs the shirt with the crime joke.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "shirt"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-150",
+      "ref": "M-150",
+      "canonical_term": "I Can Explain It to You, But I Cannot Understand It for You",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 142,
+          "video_timestamp": "00:47:11",
+          "speaker_node_ref": "N-3",
+          "quote": "I can explain it to you, but I can't understand it for you.",
+          "context": "Host repeats the line about Wilson and promotes the merch.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "wilson"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-152",
+      "ref": "M-152",
+      "canonical_term": "Pickle Boy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 142,
+          "video_timestamp": "00:40:10",
+          "quote": "I CHOOSE YOU. PICKLE PUP.",
+          "context": "Parody video recasts Erika as choosing Pickle Pup.",
+          "confidence": "high",
+          "tags": [
+            "pickle",
+            "parody"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-144",
+      "ref": "M-144",
+      "canonical_term": "The Preggo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 142,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "I think granola is delicious when I'm pregnant",
+          "context": "Host jokes about pregnancy cravings in the opener.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy",
+            "opener"
+          ]
+        },
+        {
+          "episode": 142,
+          "video_timestamp": "00:30:05",
+          "speaker_node_ref": "N-3",
+          "quote": "Especially when I am pregnant with a boy.",
+          "context": "Host cites her pregnancy while objecting to the slob at her house.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 142,
+          "video_timestamp": "00:13:25",
+          "speaker_node_ref": "N-3",
+          "quote": "And then people were gas lit.",
+          "context": "Host says the public was gaslit about the rear camera footage.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "camera"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 142,
+          "video_timestamp": "00:52:30",
+          "speaker_node_ref": "N-3",
+          "quote": "Yeah, go Max. Organize.",
+          "context": "Host riffs on the phrase while talking about organizing her fridge.",
+          "confidence": "high",
+          "tags": [
+            "go max",
+            "comedy"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 448a8189da2e8602111e8248d8480ad1e223b659b46e8eae9f2d0987ad1dd63b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-789, N-790, N-791, N-11135, N-11136, N-11137
+  - Tip-minted Nodes (supplement_2026-10b): N-789, N-790, N-791, N-11136, N-11137
   - Hole-minted Nodes (reintro-ep124): N-228, N-10748
   - Tip-minted Nodes (reintro-ep124): N-11065
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7203–C-7279
-  - New Nodes Introduced: N-10709, N-10710, N-10711, N-10712, N-10713
-  - Reused Nodes Appearing: N-498, N-3, N-273, N-374, N-97, N-1, N-40, N-7, N-14, N-36, N-126, N-162, N-166, N-272, N-276, N-284, N-373, N-620, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10051, N-10077, N-10381, N-10386, N-10389, N-10495, N-10572, N-10598, N-10679, N-10692, N-10703, N-10729, N-10900, N-10975, N-11017
+  - New Nodes Introduced: N-10709, N-10712, N-10713
+  - Reused Nodes Appearing: N-498, N-3, N-273, N-374, N-97, N-1, N-40, N-7, N-14, N-36, N-126, N-162, N-166, N-272, N-276, N-284, N-373, N-620, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10051, N-10077, N-10381, N-10386, N-10389, N-10495, N-10572, N-10598, N-10679, N-10692, N-10703, N-10729, N-10900, N-10975, N-11017, N-10710, N-10711, N-11135
   - Hole-minted Nodes (wave3): N-503
   - (see registers)
 

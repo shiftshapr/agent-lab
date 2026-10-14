@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (reintro-ep097): N-800
-  - Reused Nodes Appearing: N-10643, N-10645, N-10646
- - New Nodes Introduced: N-10644, N-10647, N-10648, N-10649, N-10650
+  - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649
+ - New Nodes Introduced: N-10644, N-10648, N-10650
  - Hole-minted Nodes (wave3): N-437, N-438
  - Reused Nodes Appearing: N-2, N-389, N-3, N-272
  - (see registers)

@@ -11,8 +11,13 @@
 - **Transcript SHA-256**: a688ac8130f98ab72ed00abef6c15223a147808ac45c1eeb54514a119ae0d0de
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-408, N-409, N-410, N-411, N-412, N-413, N-414, N-415, N-416, N-417, N-445, N-446, N-10392, N-10394, N-10395, N-10396, N-10397, N-10399, N-10400, N-10401
-  - Reused Nodes Appearing: N-10393, N-10398
+  - Tip-minted Nodes (supplement_2026-10c): N-815, N-816, N-817, N-11163, N-11164, N-11165, N-11166, N-11167, N-11168, N-11169, N-11170, N-11172, N-11173, N-11174, N-11175
+  - Hole-minted Nodes (reintro-ep054): N-447, N-449, N-460, N-461, N-498, N-10411, N-10670, N-10681, N-10730, N-10739
+  - Tip-minted Nodes (reintro-ep054): N-696, N-697, N-702, N-703, N-10988
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10c): C-8126–C-8251
+  - New Nodes Introduced: N-408, N-409, N-410, N-411, N-412, N-413, N-414, N-415, N-416, N-417, N-445, N-446, N-10392, N-10394, N-10395, N-10396, N-10397, N-10399, N-10400
+  - Reused Nodes Appearing: N-10393, N-10398, N-7, N-9, N-14, N-17, N-36, N-42, N-61, N-66, N-94, N-118, N-179, N-194, N-199, N-200, N-204, N-209, N-212, N-229, N-242, N-251, N-276, N-290, N-332, N-372, N-500, N-767, N-10000, N-10012, N-10023, N-10097, N-10131, N-10144, N-10183, N-10203, N-10209, N-10223, N-10242, N-10246, N-10253, N-10267, N-10342, N-10417, N-10436, N-10645, N-11102, N-11104, N-10401, N-11171
   - (see registers), N-11
 
 # Meta-Data
@@ -47,6 +52,115 @@ Tags: dismissal, official_line, sarcasm, reuse
 Confidence: high
 
 ---
+
+---
+
+**M-77** (meme) Operation Mocking Pastor
+
+### Occurrence 1
+
+Video Timestamp: 00:39:04
+Speaker: N-3
+Quote: Operation Mocking Pastor we turned we termed it
+Context: Host recalls her coinage for the veneer of Christianity ratcheted up after the assassination.
+Tags: mocking pastor, influence op
+Confidence: high
+
+---
+
+**M-35** (meme) Rabbit Hole
+
+### Occurrence 1
+
+Video Timestamp: 01:18:26
+Speaker: N-3
+Quote: there are so many rabbit holes to go under
+Context: Host says the investigation holds many rabbit holes about the how.
+Tags: rabbit hole
+Confidence: high
+
+---
+
+**M-81** (meme) Bibi Net and Yahoo
+
+### Occurrence 1
+
+Video Timestamp: 01:17:37
+Speaker: N-3
+Quote: the offer from BB net Yahoo
+Context: Host lists the offer from Netanyahu among elements that explain the why.
+Tags: netanyahu, pun
+Confidence: high
+
+---
+
+**M-13** (meme) Fake and Gay
+
+### Occurrence 1
+
+Video Timestamp: 01:18:26
+Speaker: N-3
+Quote: But Ben is still fake and gay.
+Context: Host aside about Ben Shapiro while answering a viewer comment.
+Tags: fake and gay, shapiro
+Confidence: high
+
+---
+
+**M-47** (meme) Megachurches Look Funny
+
+### Occurrence 1
+
+Video Timestamp: 01:02:19
+Speaker: N-3
+Quote: it's just so megachurch vibes
+Context: Host jokes about money found behind a sink while reading about Moon's cash.
+Tags: megachurch, money
+Confidence: high
+
+---
+
+**M-211** (meme) Moon Inc.
+
+### Occurrence 1
+
+Video Timestamp: 01:04:00
+Speaker: N-3
+Quote: Man, who took Moon Inc. to the next level?
+Context: Host uses Moon Inc. as shorthand for Kirk's alleged offer and mocks Netanyahu's next-level language.
+Tags: moon inc, next level
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:16:48
+Speaker: N-3
+Quote: we are not receiving money from Moon Inc.
+Context: Host plugs merch and jokes about funding.
+Tags: moon inc, merch
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 01:18:26
+Speaker: N-3
+Quote: I feel like Moon Inc. passed his prologue on that one.
+Context: Host riffs on the episode title in her closing answer.
+Tags: moon inc, prologue
+Confidence: high
+
+---
+
+**M-212** (meme) Glitch Glitch
+
+### Occurrence 1
+
+Video Timestamp: 00:42:24
+Speaker: N-3
+Quote: Glitch glitch. Oh, Josh Hammer's lying.
+Context: Host mimics Christian influencers she says are glitching when the topic is Kirk or Israel.
+Tags: glitch, christian influencers
+Confidence: high
 
 ---
 
@@ -300,8 +414,857 @@ Confidence Level: Medium (cited but article not read in full)
 
 ---
 
+**A-2920** Host Recurring Themes Excel Sheet Bundle
+
+**A-2920.1** Excel spreadsheet the host shows listing recurring themes (Liberty University, Eastern Europe, trafficking and child sex abuse, military) with names under each
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:05:53
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8133, C-8134, C-8135, C-8136, C-8139, N-1, N-10000, N-11, N-11104*
+
+---
+
+**A-2921** South Korea Holocaust Museum Article Bundle
+
+**A-2921.1** Article headline the host shows reading that South Korean Christian Zionists open the country's first Holocaust Museum
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:56:52
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-8220, N-10397, N-3*
+
+---
+
+**A-2922** Washington Post 1997 Unification Church Additional Excerpts Bundle
+
+**A-2922.1** Excerpt read aloud: Moon holdings include The Washington Times, a video production firm and a former Mormon church on 16th Street Northwest
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:52:37
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8211, N-10399, N-409, N-11169*
+
+---
+
+**A-2922.2** Excerpt read aloud: vast multinational that could be called Moon Inc., a sprawling collection of churches, nonprofits and holding companies
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:52:37
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8212, N-10399, N-409*
+
+---
+
+**A-2922.3** Excerpt read aloud: church-linked Washington-area property worth more than $200 million
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:53:46
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8213, N-10399, N-409*
+
+---
+
+**A-2922.4** Excerpt read aloud: self-declared Messiah and Richard Rubenstein quote that ideas without money are just dreams
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:54:28
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8215, N-10399, N-409*
+
+---
+
+**A-2922.5** Excerpt read aloud: interlocking directorships, endless flow of cash from the Far East, and executives acknowledging Japan and Korea money
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:55:11
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8216, C-8217, N-10399, N-409, N-11169*
+
+---
+
+**A-2922.6** Excerpt read aloud: sources of payments have eluded investigators on three continents over three decades
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:56:01
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8218, N-10399, N-409*
+
+---
+
+**A-2922.7** Excerpt read aloud: Moon-sponsored conferences for opinion shapers with expenses paid, and former priest Bordelon on credibility
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:57:47
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8221, C-8223, N-10398, N-10399, N-409*
+
+---
+
+**A-2922.8** Excerpt read aloud: International Coalition for Religious Freedom sharing a suite with the Martial Arts Federation and Washington Times Aviation
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:00:49
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8226, N-10399, N-409, N-11169*
+
+---
+
+**A-2922.9** Excerpt read aloud: Paquette says virtually none of Unification's US operations is profitable
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:01:41
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8227, N-10399, N-409*
+
+---
+
+**A-2922.10** Excerpt read aloud: SEC filings tracing Nostalgia cash to Unification Church International
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:02:19
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8229, N-10399, N-409*
+
+---
+
+**A-2922.11** Excerpt read aloud: Paquette on bags of cash from Korea and Japan to the Manhattan Center
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:03:13
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8230, N-10399, N-409*
+
+---
+
+**A-2923** Viewer Comments Read On Air Bundle
+
+**A-2923.1** Viewer comment from Vera Black Designs about Dan Flood's hand signals and a man in the front row pulling his sleeves
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:17:37
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8238, C-8239, N-1, N-276, N-498*
+
+---
+
+**A-2923.2** Viewer comment from Jennifer K8033 asking about John Bray's work
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:18:26
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8241, C-8242, C-8243, C-8244, N-1, N-10253, N-10398, N-3*
+
+---
+
+**A-2923.3** Viewer comment urging the host to look into Paul Vallely
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:20:03
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8245, C-8246, C-8247, N-10000, N-10739, N-3, N-460*
+
+---
+
+**A-2924** Charis Bible College Event Tip Bundle
+
+**A-2924.1** Host verbal reference to a tip from someone involved in planning the September 11, 2025 Charis Bible College event in Woodland Park, Colorado (nothing shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:03:00
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-8129, C-8130, C-8131, C-8132, N-1, N-10396, N-3*
+
+---
+
 # Node Register
 
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host gives her best guess at why he was killed and discusses his Korea and Japan trip.
+
+*Related: C-8129, C-8130, C-8135, C-8138, C-8139, C-8141, C-8142, C-8165, C-8206, C-8210, C-8219, C-8228, C-8231, C-8232, C-8233, C-8234, C-8236, C-8237, C-8238, C-8240, C-8244, C-8251*
+
+---
+
+**N-2** Erika Kirk
+
+TPUSA CEO; the host discusses her Falkirk fellowship, Romanian Angels history and family DOD ties.
+
+*Related: C-8133, C-8141, C-8144, C-8145, C-8147, C-8149, C-8169, C-8170, C-8190*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-8127, C-8128, C-8129, C-8131, C-8132, C-8137, C-8143, C-8146, C-8150, C-8151, C-8154, C-8163, C-8171, C-8174, C-8178, C-8188, C-8189, C-8190, C-8191, C-8192, C-8200, C-8201, C-8206, C-8207, C-8209, C-8214, C-8219, C-8220, C-8222, C-8224, C-8225, C-8228, C-8231, C-8232, C-8236, C-8237, C-8240, C-8241, C-8242, C-8243, C-8244, C-8247, C-8248, C-8249, C-8250, C-8251*
+
+---
+
+**N-7** Frank Turek
+
+Host lists his and his sons' military backgrounds.
+
+*Related: C-8172, C-8173*
+
+---
+
+**N-9** Jeffrey Epstein
+
+Cited in the host's Iran-Contra and pageant remarks.
+
+*Related: C-8191, C-8207*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson; the host discusses his Kairos PR background and family military ties (transcribed Kolwitz).
+
+*Related: C-8136, C-8138, C-8152, C-8167*
+
+---
+
+**N-17** Rob McCoy
+
+Pastor; the host cites his Falkirk Center, Calvary Chapel and TPUSA Faith roles.
+
+*Related: C-8135, C-8139, C-8154, C-8162, C-8168, C-8222, C-8250*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Subject of the Turning Point offer the host restates.
+
+*Related: C-8206*
+
+---
+
+**N-42** George Zinn
+
+The decoy suspect; the host repeats the images and payment claims.
+
+*Related: C-8158, C-8159*
+
+---
+
+**N-61** Phil Lyman
+
+The host says he visited Tim Ballard after the assassination.
+
+*Related: C-8166*
+
+---
+
+**N-66** Village Crazy Lady
+
+Mel; messaged the host about the Seven Mountain Mandate and Wilks brothers.
+
+*Related: C-8248*
+
+---
+
+**N-94** Derek Maxfield
+
+Said by the host to own the 888 plane and run Saprea.
+
+*Related: C-8155, C-8156*
+
+---
+
+**N-118** Marissa Strait
+
+PragerU CEO who introduced the host to Operation Underground.
+
+*Related: C-8163*
+
+---
+
+**N-179** Deidra Weiss Amaro
+
+Utah medical examiner described as a major.
+
+*Related: C-8176*
+
+---
+
+**N-194** Mikey McCoy
+
+Accepted to Liberty but joined TPUSA instead, per the host.
+
+*Related: C-8134*
+
+---
+
+**N-199** Lee Trotter
+
+Doctor whose residency on an Air Force base and pilot's license the host notes.
+
+*Related: C-8175*
+
+---
+
+**N-200** Roy Edgar McCoy
+
+Rob McCoy's father, said to have run naval intelligence psychological operations.
+
+*Related: C-8168*
+
+---
+
+**N-204** Shirlene Maxfield
+
+Said by the host to co-own the 888 plane and run Saprea (spelled Shailene in the transcript).
+
+*Related: C-8155, C-8156*
+
+---
+
+**N-209** Sean Feucht
+
+Said to be leading the TPUSA Faith pastor summit.
+
+*Related: C-8222*
+
+---
+
+**N-212** Jack Hibbs
+
+Pastor whose father's military background the host notes.
+
+*Related: C-8177*
+
+---
+
+**N-229** Shawn Ryan
+
+Podcast host who interviewed Brian Herpolsheimer; the clip is replayed (spelled Sean Ryan in the transcript).
+
+*Related: C-8126, C-8127*
+
+---
+
+**N-242** Glenn Beck
+
+The host says he funded Operation Underground and his children were at UVU.
+
+*Related: C-8164, C-8165*
+
+---
+
+**N-251** Butch Hibbs
+
+The host suspects military involvement.
+
+*Related: C-8177*
+
+---
+
+**N-276** Dan Flood
+
+Named in a viewer's question about hand signals during the shooting.
+
+*Related: C-8238*
+
+---
+
+**N-290** Xavier Poussard
+
+Cited for Epstein's pump-money-into-organizations mechanism.
+
+*Related: C-8191*
+
+---
+
+**N-332** Tim Ballard
+
+Operation Underground founder whom the host says Phil Lyman visited.
+
+*Related: C-8163, C-8164, C-8166*
+
+---
+
+**N-372** Cabot Phillips
+
+Listed by the host as a Liberty University graduate.
+
+*Related: C-8133*
+
+---
+
+**N-447** Johnny Moore
+
+Former Liberty pastor and Kairos Company head; the host discusses his Gaza Humanitarian Fund role.
+
+*Related: C-8136, C-8137*
+
+---
+
+**N-449** Jerry Falwell Jr.
+
+Former Liberty University president; the host says he co-founded the Falkirk Center with Kirk.
+
+*Related: C-8135, C-8139, C-8140*
+
+---
+
+**N-460** Michael Aquino
+
+Co-author of Mind War with Paul Vallely, per the host.
+
+*Related: C-8246*
+
+---
+
+**N-461** Greg Laurie
+
+Pastor of Harvest Church; the host says TPUSA works with him despite trafficking accusations.
+
+*Related: C-8151*
+
+---
+
+**N-498** Rick Cutler
+
+Man in brown in the front row whom the host identifies.
+
+*Related: C-8238, C-8239*
+
+---
+
+**N-500** Lori Frantzve
+
+Erika Kirk's mother; the host says she founded the Everyday Heroes Foundation.
+
+*Related: C-8145, C-8149*
+
+---
+
+**N-696** Jon Bray
+
+Researcher whose work the host finds compelling (transcribed John Bray).
+
+*Related: C-8241*
+
+---
+
+**N-697** Spencer (Frank Turek's son)
+
+Said to be an Air Force veteran.
+
+*Related: C-8173*
+
+---
+
+**N-702** Otto Busher
+
+Colonel the host says Romanian Angels worked with and who was accused of running a brothel.
+
+*Related: C-8147, C-8148, C-8149*
+
+---
+
+**N-703** Curtis Kolvet
+
+Andrew Kolvet's brother, described as stationed in Romania.
+
+*Related: C-8152, C-8167*
+
+---
+
+**N-767** Astrid Tuminez
+
+UVU president; the host notes her Russian studies degree.
+
+*Related: C-8153*
+
+---
+
+**N-10000** Turning Point USA
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8134, C-8138, C-8151, C-8160, C-8214, C-8228, C-8236, C-8245*
+
+---
+
+**N-10012** Utah Valley University
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8165, C-8174*
+
+---
+
+**N-10023** Epstein Israeli Intelligence Asset Allegation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8191, C-8207*
+
+---
+
+**N-10097** George Zinn Arrest Location/Timing
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8158*
+
+---
+
+**N-10131** PragerU
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8163, C-8249*
+
+---
+
+**N-10144** Phil Lyman Proximity and Behavior Investigation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8166*
+
+---
+
+**N-10183** Medical Examiner Inquiry – Weiss Amaro
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8176*
+
+---
+
+**N-10203** Provo Airport Flight Anomaly Cluster
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8143*
+
+---
+
+**N-10209** TPUSA Faith / Christian Zionist Infiltration Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8222*
+
+---
+
+**N-10223** George Zinn Hospital Payment Claim
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8159*
+
+---
+
+**N-10242** Seven Mountain Mandate / NAR Influence on TPUSA Faith
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8248*
+
+---
+
+**N-10246** Calvary Chapel Institutional Abuse Pattern
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8162*
+
+---
+
+**N-10253** Egyptian Military Plane Tracking Investigation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8209, C-8243*
+
+---
+
+**N-10267** TPUSA Drone Disclosure Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8128*
+
+---
+
+**N-10342** Bibi Netanyahu TPUSA Funding Offer
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8206, C-8236*
+
+---
+
+**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8151*
+
+---
+
+**N-10417** Fort Huachuca Erika Presence Investigation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8169, C-8170*
+
+---
+
+**N-10436** TPUSA Faith Military Infiltration Claim
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8168*
+
+---
+
+**N-10645** UVU Drone Authorization Records
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8128*
+
+---
+
+**N-10670** Gaza Humanitarian Foundation Leadership/Operational Pipeline
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8137*
+
+---
+
+**N-10681** Sean Ryan Show Interview Clip Bundle
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8126, C-8127*
+
+---
+
+**N-10730** Frank Turek FaceTime Story Inconsistency
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8173*
+
+---
+
+**N-10739** Fort Huachuca Connection Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8157, C-8208, C-8247*
+
+---
+
+**N-10988** Miss Universe Organization
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8190, C-8192*
+
+---
+
+**N-11102** Wilks Brothers Funding Network
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8248, C-8249, C-8250*
+
+---
+
+**N-11104** Liberty University
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-8133, C-8134, C-8135, C-8136, C-8140, C-8178, C-8188, C-8200, C-8204, C-8208*
+
+---
+
+**N-815** Paul Vallely
+
+First named by the host at 01:20:03 in episode 54. Retired Army intelligence officer; the host says he is on the TPUSA advisory board and co-wrote Mind War. Spelled Vallely and Vallely in the transcript.
+
+*Related: C-8245, C-8246, C-8247*
+
+---
+
+**N-816** Andrew Piscatello
+
+First named by the host at 00:15:55 in episode 54. Photographer early mistaken for the shooter.
+
+*Related: C-8160, C-8161*
+
+---
+
+**N-817** David Frodsham
+
+First named by the host at 00:14:53 in episode 54 (spelled Frodshem). Civilian commander at Fort Huachuca charged in a child sex abuse case.
+
+*Related: C-8157*
+
+---
+
+**N-11163** Falkirk Center
+
+Node Type: Organization
+Liberty University and TPUSA joint venture the host says Falwell Jr. and Kirk established, with Erika as a fellow.
+
+*Related: C-8139, C-8140, C-8141, C-8142*
+
+---
+
+**N-11164** Kairos Company
+
+Node Type: Organization
+PR firm led by Johnny Moore where the host says Andrew Kolvet worked.
+
+*Related: C-8136, C-8138*
+
+---
+
+**N-11165** Romanian Angels Project
+
+Node Type: Organization
+Charity project the host says Erika Kirk began in late 2012 and that worked with the military in Romania.
+
+*Related: C-8144, C-8145, C-8146, C-8147, C-8149*
+
+---
+
+**N-11166** Everyday Heroes Foundation
+
+Node Type: Organization
+Arizona charity the host says Lori Frantzve established, from which Romanian Angels spun out.
+
+*Related: C-8145*
+
+---
+
+**N-11167** Operation Underground
+
+Node Type: Organization
+Anti-trafficking charity founded by Tim Ballard, linked by the host to Glenn Beck and the Maxfields.
+
+*Related: C-8156, C-8163, C-8164*
+
+---
+
+**N-11168** Saprea
+
+Node Type: Organization
+Child abuse charity the host says Derek and Shailene Maxfield run.
+
+*Related: C-8155*
+
+---
+
+**N-11169** The Washington Times
+
+Node Type: Organization
+Newspaper owned by Moon-linked entities, per the Washington Post excerpts.
+
+*Related: C-8211, C-8216, C-8226*
+
+---
+
+**N-11170** International Fellowship of Christians and Jews
+
+Node Type: Organization
+Group whose ad reads the host says she declined at the Daily Wire.
+
+*Related: C-8224, C-8225*
+
+---
+
+**N-11171** Kirk "Internet DOGE" Money-Tracing Effort
+
+Node Type: Topic
+The host says Charlie Kirk established DOGE (transcribed "DOVE"; the "internet DOGE" of C-1563) to determine where money was coming from and going.
+
+*Related: C-8228*
+
+---
+
+**N-11172** Host Recurring Themes Matrix
+
+Node Type: Topic
+The host's working Excel sheet tracking Liberty University, Eastern Europe, trafficking and military connections.
+
+*Related: C-8133, C-8134, C-8135, C-8136, C-8153, C-8154*
+
+---
+
+**N-11173** Godparent Caller Trump Pageant Invitation
+
+Node Type: Topic
+The caller's account of receiving a Trump Pageant World invitation two years after leaving the home.
+
+*Related: C-8190*
+
+---
+
+**N-11174** Romania-Registered Provo-Arizona Plane
+
+Node Type: Topic
+The host's finding that the Provo to Arizona plane was once registered in Romania as YR-NVY.
+
+*Related: C-8143*
+
+---
+
+**N-11175** Kirk Declined Moon Inc.-Style Expansion Offer Theory
+
+Node Type: Topic
+The host's best guess that Kirk was killed after refusing an offer to expand TPUSA like Moon Inc.
+
+*Related: C-8236, C-8237*
+
+---
 
 ## People Nodes
 
@@ -843,6 +1806,2036 @@ Anchored Artifacts: A-1603.1
 Mentions: N-412, N-446
 Related Nodes: N-10397
 Investigative Direction: Verify the exact quote and context against the primary Korean-language reporting and any video of the protest.
+
+---
+
+**C-8126** Herpolsheimer Describes Decentralized Command Model With Shared App Timeline
+
+Claim Timestamp: 00:01:46
+
+Claim: According to the clip the host plays, Brian Herpolsheimer says his company puts event intelligence on a shared app timeline that every team member can see, and calls it a decentralized command model.
+
+Transcript Snippet: It's a decentralized command model for the company.
+
+Anchored Artifacts: A-1596.1
+Mentions: N-272, N-229
+Related Nodes: N-10681
+Tags: relevance:core
+Investigative Direction: Obtain the full Shawn Ryan interview and the security company's operating procedures to confirm the app-based, decentralized command description.
+
+---
+
+**C-8127** Host Says Herpolsheimer Described Chief of Police Conversation Over Rooftop Coverage
+
+Claim Timestamp: 00:03:00
+
+Claim: The host says that elsewhere in the interview Herpolsheimer describes a conversation with the chief of police and is upset the chief was not covering the rooftops, because he feels his team was on it.
+
+Transcript Snippet: he describes this conversation that he had with the chief of police. He's upset about the chief of police not covering the rooftops because he feels that his team was on it.
+
+Anchored Artifacts: A-1596.1
+Mentions: N-272, N-229, N-3
+Related Nodes: N-10681
+Tags: relevance:core
+Investigative Direction: Review the Shawn Ryan interview transcript for the rooftop remark and compare with UVU police operational plans for the September 10 event.
+
+---
+
+**C-8128** Host Says Herpolsheimer Said Drones Were Not Allowed
+
+Claim Timestamp: 00:03:00
+
+Claim: The host says Herpolsheimer's account involved coordinating with whole police departments and discussing drones, and that drones were not allowed so they had to let that go.
+
+Transcript Snippet: You're discussing drones. Drones were not allowed. And so they just had to let that go.
+
+Anchored Artifacts: A-1596.1
+Mentions: N-272, N-3
+Related Nodes: N-10645, N-10267
+Tags: relevance:core
+Investigative Direction: Check the Shawn Ryan interview for the drone remark and compare with UVU drone authorization records and TPUSA's later statements on drones.
+
+---
+
+**C-8129** Host Says Tipster Involved in Planning Charis Bible College Event Reached Her
+
+Claim Timestamp: 00:03:00
+
+Claim: The host says she received a tip from someone directly involved in planning the event Charlie Kirk was due to attend on September 11 at Charis Bible College in Woodland Park, Colorado.
+
+Transcript Snippet: I received a tip from someone that was directly involved with the planning of an event that Charlie Kirk was supposed to attend the following day on September 11th.
+
+Anchored Artifacts: A-2924.1
+Mentions: N-1, N-3
+Related Nodes: N-10396
+Tags: relevance:core
+Investigative Direction: Identify the tipster through the host and obtain the Charis Bible College event booking and security planning records for September 11, 2025.
+
+---
+
+**C-8130** Tipster Says Chief of Police Led Panicked Meeting After the Assassination
+
+Claim Timestamp: 00:04:13
+
+Claim: According to the host's tipster, after Charlie Kirk was killed a panicked meeting headed by the chief of police took place and the Charis Bible College event was converted into a vigil.
+
+Transcript Snippet: according to this person after Charlie got assassinated, there was a bit of a panicked meeting that took place, which was headed by the chief of police.
+
+Anchored Artifacts: A-2924.1
+Mentions: N-1
+Related Nodes: N-10396
+Tags: relevance:core
+Investigative Direction: Request Woodland Park police and Charis Bible College records or announcements about the September 11 vigil and who convened the meeting.
+
+---
+
+**C-8131** Tipster Says Charis Event Had No Security Plan in Place
+
+Claim Timestamp: 00:04:13
+
+Claim: According to the host's tipster, the organizers panicked because they had absolutely no security plan in place for the September 11 Charis Bible College event.
+
+Transcript Snippet: they were panicked because, believe it or not, they had absolutely no security plan in place.
+
+Anchored Artifacts: A-2924.1
+Mentions: N-3
+Related Nodes: N-10396
+Tags: relevance:core
+Investigative Direction: Obtain the event security plan, any permits, and police liaison correspondence for the Woodland Park event from the venue or city.
+
+---
+
+**C-8132** Host Says Police Chief Took Measures Himself to Run the Vigil
+
+Claim Timestamp: 00:05:10
+
+Claim: The host says the tipster told her the police chief decided to take measures himself to make sure the vigil went off without a hitch, and that no police involvement had been scheduled for the event.
+
+Transcript Snippet: So, the police chief apparently uh decided to take measures himself to make sure that the vigil went off without a hitch.
+
+Anchored Artifacts: A-2924.1
+Mentions: N-3
+Related Nodes: N-10396
+Tags: relevance:core
+Investigative Direction: Ask the Woodland Park police department for a record of resources deployed to the September 11 vigil and when the request was made.
+
+---
+
+**C-8133** Host Says Bowyer, Erika Kirk and Cabot Phillips Graduated From Liberty University
+
+Claim Timestamp: 00:06:39
+
+Claim: In her working spreadsheet the host lists Tyler Bowyer, Erika Kirk and Cabot Phillips as Liberty University attendees who graduated.
+
+Transcript Snippet: Tyler Bowyer attended and he graduated. Erika Kirk attended and she graduated. Cabot Phillips attended and he graduated.
+
+Anchored Artifacts: A-2920.1
+Mentions: N-11, N-2, N-372
+Related Nodes: N-11104, N-11172
+Tags: relevance:context
+Investigative Direction: Verify graduation records or alumni listings for each person with Liberty University or their public biographies.
+
+---
+
+**C-8134** Host Says Mikey McCoy Was Accepted to Liberty but Joined TPUSA Instead
+
+Claim Timestamp: 00:06:39
+
+Claim: The host says Mikey McCoy was accepted into Liberty University but chose not to attend because he took a job at Turning Point USA directly after high school.
+
+Transcript Snippet: Mikey McCoy was accepted into Liberty University, but then he chose not to attend because he got the job at Turning Point USA instead
+
+Anchored Artifacts: A-2920.1
+Mentions: N-194
+Related Nodes: N-11104, N-10000, N-11172
+Tags: relevance:context
+Investigative Direction: Check Mikey McCoy's public biography or interviews for his admission to Liberty and his hire date at TPUSA.
+
+---
+
+**C-8135** Host Says Rob McCoy Met Charlie Kirk Through Jerry Falwell Jr.
+
+Claim Timestamp: 00:06:39
+
+Claim: The host says Rob McCoy met Charlie Kirk via Jerry Falwell Jr., who was president of Liberty University until a sex scandal.
+
+Transcript Snippet: his father, Rob McCoy, met Charlie Kirk via Jerry Falwell Jr.
+
+Anchored Artifacts: A-2920.1
+Mentions: N-17, N-1, N-449
+Related Nodes: N-11104, N-11172
+Tags: relevance:context
+Investigative Direction: Find interviews or biographies in which Rob McCoy or Kirk describe how they first met and Falwell Jr.'s role.
+
+---
+
+**C-8136** Host Says Kolvet Did PR for the Kairos Company Under Johnny Moore
+
+Claim Timestamp: 00:06:39
+
+Claim: The host says Andrew Kolvet worked in PR for the Kairos Company under Johnny Moore, who she says had been lead pastor at Liberty University before leaving to start the PR firm.
+
+Transcript Snippet: Andrew Kolvet was working PR for the Kairos Company under Johnny Moore.
+
+Anchored Artifacts: A-2920.1
+Mentions: N-14, N-447
+Related Nodes: N-11164, N-11104, N-11172
+Tags: relevance:context
+Investigative Direction: Check Kolvet's and Johnny Moore's public biographies and Kairos Company staff listings for dates of employment.
+
+---
+
+**C-8137** Host Says Johnny Moore Was Put in Charge of Gaza Humanitarian Fund Food Distribution
+
+Claim Timestamp: 00:07:47
+
+Claim: The host says Johnny Moore was made head of the Gaza Humanitarian Fund and given the job of distributing food to Palestinian children and families, and that she has no idea why he got the position.
+
+Transcript Snippet: He was somehow equipped to lead the Gaza Humanitarian Fund and he gets this role essentially
+
+Anchored Artifacts: 
+Mentions: N-447, N-3
+Related Nodes: N-10670
+Tags: relevance:context
+Investigative Direction: Confirm Johnny Moore's role with the Gaza Humanitarian Foundation through GHF announcements and press reports.
+
+---
+
+**C-8138** Host Says Kolvet Left Kairos for His Own PR Firm With Kirk as Only Client
+
+Claim Timestamp: 00:07:47
+
+Claim: The host says Andrew Kolvet left Kairos to start his own PR firm built around Charlie Kirk, and she believes Turning Point USA was his only client.
+
+Transcript Snippet: Andrew Kolvet leaves Kairos and decides to mint his own PR firm that's really just around Charlie Kirk, really, as his only client.
+
+Anchored Artifacts: 
+Mentions: N-14, N-1
+Related Nodes: N-11164, N-10000
+Tags: relevance:context
+Investigative Direction: Find the incorporation record and client list of Kolvet's PR firm.
+
+---
+
+**C-8139** Host Says Falwell Jr. and Kirk Established the Falkirk Center
+
+Claim Timestamp: 00:08:34
+
+Claim: The host says Jerry Falwell Jr. and Charlie Kirk came together to establish the Falkirk Center, after Kirk met Rob McCoy and they discussed the project.
+
+Transcript Snippet: Jerry Falwell Jr. and Charlie Kirk decided to come together to establish the Falkirk Center.
+
+Anchored Artifacts: A-2920.1
+Mentions: N-449, N-1, N-17
+Related Nodes: N-11163
+Tags: relevance:context
+Investigative Direction: Review Liberty University and TPUSA announcements of the Falkirk Center's founding in 2019 and its closure.
+
+---
+
+**C-8140** Host Says Falwell Jr. Was Forced Out Over a Sex Scandal, Stalling the Falkirk Center
+
+Claim Timestamp: 00:08:34
+
+Claim: The host says Jerry Falwell Jr. had a huge sex scandal and was forced to step down from Liberty University, after which the Falkirk Center project could not go forward because it was embarrassing to the university.
+
+Transcript Snippet: Jerry Falwell has this huge sex scandal. He's forced to step down.
+
+Anchored Artifacts: 
+Mentions: N-449
+Related Nodes: N-11163, N-11104
+Tags: relevance:context
+Investigative Direction: Confirm the timing of Falwell Jr.'s 2020 resignation and Liberty's decision to end the Falkirk Center arrangement.
+
+---
+
+**C-8141** Host Says Erika Became a Falkirk Fellow While Dating Charlie
+
+Claim Timestamp: 00:09:14
+
+Claim: The host says that when she and Charlie were dating but not yet married, Erika Frandsen became a Falkirk fellow and they hit the road together working on the Falkirk Center.
+
+Transcript Snippet: Erika Frandsen, because her and Charlie were not yet married, they were dating, she became a Falkirk fellow.
+
+Anchored Artifacts: 
+Mentions: N-2, N-1
+Related Nodes: N-11163
+Tags: relevance:context
+Investigative Direction: Find Falkirk Center fellow listings or contemporaneous posts naming Erika Frantzve as a fellow.
+
+---
+
+**C-8142** Host Says Turning Point Faith Was Created After the Falkirk Center Fell Apart
+
+Claim Timestamp: 00:09:14
+
+Claim: The host says that after the Falkirk Center fell apart, the partners decided instead to create Turning Point Faith, so that Turning Point Faith has its origin in Liberty University.
+
+Transcript Snippet: what happened after it fell apart was that they decided to instead create Turning Point Faith.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-11163, N-10398
+Tags: relevance:context
+Investigative Direction: Compare TPUSA Faith's launch announcement date and founders with the Falkirk Center's wind-down.
+
+---
+
+**C-8143** Host Says the Provo Plane Was Registered in Romania From 2013 to 2015
+
+Claim Timestamp: 00:09:59
+
+Claim: The host says that, in researching the plane that supposedly turned off its transponder on a flight from Provo into Arizona, she found it was formerly registered in Romania with a tail number she gives as YR-NVY, from 2013 to 2015.
+
+Transcript Snippet: that plane, pardon me, was formerly registered in Romania back in 2013.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11174, N-10203
+Tags: relevance:core
+Investigative Direction: Pull the aircraft's registration history from the FAA and Romanian civil aviation registries and match the tail number to the Provo flight.
+
+---
+
+**C-8144** Host Says Erika Kirk Began the Romanian Angels Project in Late 2012
+
+Claim Timestamp: 00:09:59
+
+Claim: The host says Erika Kirk began the Romanian Angels project in late 2012 or early 2013 and ran it through 2015.
+
+Transcript Snippet: Obviously we know that Erika Kirk began the Romanian Angels project in late 2012 uh early 2013 through to 2015.
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-11165, N-10401
+Tags: relevance:core
+Investigative Direction: Locate the Romanian Angels project's own announcements and registration documents to confirm its start and end dates.
+
+---
+
+**C-8145** Host Says Lori Frantzve Established the Everyday Heroes Foundation in Arizona
+
+Claim Timestamp: 00:10:40
+
+Claim: The host says Lori Frantzve (spelled Francev in the transcript), Erika's mother, established the Everyday Heroes Foundation in Arizona to help children in need, and that the Romanian Angels project spun out of it.
+
+Transcript Snippet: Lori Francev uh established the Everyday Heroes Foundation which was supposed to help children in need.
+
+Anchored Artifacts: 
+Mentions: N-500, N-2
+Related Nodes: N-11166, N-11165
+Tags: relevance:core
+Investigative Direction: Obtain Arizona Corporation Commission and IRS filings for the Everyday Heroes Foundation naming its founder and officers.
+
+---
+
+**C-8146** Host Says Romanian Angels Worked With the Military in Romania to Help Orphans
+
+Claim Timestamp: 00:11:09
+
+Claim: The host says Romanian Angels got a deal to work with the military in Romania to help orphans.
+
+Transcript Snippet: They worked with the military in Romania uh to help orphans, okay?
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11165, N-10401
+Tags: relevance:core
+Investigative Direction: Find press releases or photographs documenting the Romanian Angels arrangement with the military in Romania.
+
+---
+
+**C-8147** Host Says Romanian Angels Worked With Colonel Otto Buscher
+
+Claim Timestamp: 00:11:09
+
+Claim: The host says it is a fact that Romanian Angels worked with Colonel Otto Buscher at the time.
+
+Transcript Snippet: Now, it is a fact that they worked with at that time Colonel Otto Buscher.
+
+Anchored Artifacts: 
+Mentions: N-702, N-2
+Related Nodes: N-11165
+Tags: relevance:core
+Investigative Direction: Locate Romanian Angels thank-you posts or news coverage naming Colonel Buscher and the dates of cooperation.
+
+---
+
+**C-8148** Host Says Colonel Buscher Was Accused of Running a Brothel With Young Children
+
+Claim Timestamp: 00:11:09
+
+Claim: The host says Colonel Otto Buscher was accused of running a brothel with young children, taking them onto a military base, and that a woman filed a complaint in Romania alleging children were prostituted to military men.
+
+Transcript Snippet: Colonel Otto Buscher was then accused of running a brothel with young children.
+
+Anchored Artifacts: 
+Mentions: N-702
+Related Nodes: N-10401
+Tags: relevance:core
+Investigative Direction: Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Buscher and its outcome.
+
+---
+
+**C-8149** Host Says No Article Names Erika or Lori in the Buscher Allegation
+
+Claim Timestamp: 00:11:09
+
+Claim: The host says there are no articles saying Erika Frantzve or Lori Frantzve were involved in the brothel allegation, only that they worked on the Romanian project with Colonel Buscher.
+
+Transcript Snippet: there is no articles that say Erika Francev or Lori were involved in this
+
+Anchored Artifacts: 
+Mentions: N-2, N-500, N-702
+Related Nodes: N-11165
+Qualifies: C-8148
+Tags: relevance:core
+Investigative Direction: Search news archives for the Buscher allegation for any mention of Romanian Angels, Erika Frantzve or Lori Frantzve.
+
+---
+
+**C-8150** Host Says Tyler Bowyer Went to Romania in 2011 to Work With the Romanian Government
+
+Claim Timestamp: 00:12:10
+
+Claim: The host says Tyler Bowyer went to Romania in 2011 to work with the Romanian government and that she is still trying to determine what he did there.
+
+Transcript Snippet: In 2011, Tyler Bowyer also went to Romania to work with the Romanian government.
+
+Anchored Artifacts: 
+Mentions: N-11, N-3
+Related Nodes: N-10395, N-10401
+Tags: relevance:core
+Investigative Direction: Find Bowyer's own biography, mission trip records or Romanian government statements describing the 2011 visit.
+
+---
+
+**C-8151** Host Says TPUSA Works With Greg Laurie Despite Harvest Church Trafficking Accusations
+
+Claim Timestamp: 00:12:58
+
+Claim: The host says Turning Point USA works with Pastor Greg Laurie even though Harvest Church has been accused of trafficking children from Romania, which he denies, and that there is no verdict because the matter is ongoing.
+
+Transcript Snippet: Turning Point USA obviously working with Pastor Greg Laurie despite Harvest Church being accused of trafficking children from Romania.
+
+Anchored Artifacts: 
+Mentions: N-461, N-3
+Related Nodes: N-10411, N-10000
+Tags: relevance:core
+Investigative Direction: Review the court docket for the Harvest Christian Fellowship Romanian abuse lawsuit and TPUSA event listings featuring Laurie.
+
+---
+
+**C-8152** Host Says Andrew Kolvet's Brother Curtis Is a Lieutenant Colonel Stationed in Romania
+
+Claim Timestamp: 00:12:58
+
+Claim: The host says Andrew Kolvet's brother Curtis is currently stationed in Romania as a lieutenant colonel.
+
+Transcript Snippet: Uh Andrew Kolwitz's brother Curtis is currently stationed in Romania as a lieutenant colonel.
+
+Anchored Artifacts: 
+Mentions: N-14, N-703
+Related Nodes: N-10401
+Tags: relevance:core
+Investigative Direction: Check Army public affairs releases or promotion lists for Curtis Kolvet's rank and posting.
+
+---
+
+**C-8153** Host Says Tyler Bowyer Has a Russian Studies Degree and Is Fluent in Russian
+
+Claim Timestamp: 00:14:00
+
+Claim: The host says Tyler Bowyer holds a degree in Russian studies and is fluent in Russian, and notes Astrid Tuminez also has a Russian studies degree and is an orphan.
+
+Transcript Snippet: We have Tyler Bowyer who holds a degree in Russian studies and is fluent in Russian
+
+Anchored Artifacts: 
+Mentions: N-11, N-767
+Related Nodes: N-11172
+Tags: relevance:context
+Investigative Direction: Confirm Bowyer's degree and language skills from university records or his public biography.
+
+---
+
+**C-8154** Host Says Rob McCoy Adopted a 12-Year-Old Russian Girl Named Natalia Around 2006
+
+Claim Timestamp: 00:14:00
+
+Claim: The host says Rob McCoy adopted a 12-year-old girl named Natalia, who now goes by Natasha, from Russia around 2006.
+
+Transcript Snippet: Rob McCoy, I don't know if you know this, but he adopted a 12-year-old girl named Natalia.
+
+Anchored Artifacts: 
+Mentions: N-17, N-3
+Related Nodes: N-11172
+Tags: relevance:context
+Investigative Direction: Find McCoy's own accounts or church bulletins about the adoption and its date and country.
+
+---
+
+**C-8155** Host Says the 888 Plane Is Now Owned by Derek and Shailene Maxfield of Saprea
+
+Claim Timestamp: 00:14:00
+
+Claim: The host says the aircraft with the registration she reads as N888KG is currently owned by Derek and Shailene Maxfield, who run Saprea, a child abuse charity.
+
+Transcript Snippet: which is now currently owned by Derek and Shailene Maxfield, they run Saprea which is a child abuse charity.
+
+Anchored Artifacts: 
+Mentions: N-94, N-204
+Related Nodes: N-11168
+Supports: C-6874
+Tags: relevance:core
+Investigative Direction: Check FAA registration for N888KG and Saprea's nonprofit filings naming Derek and Shirlene Maxfield.
+
+---
+
+**C-8156** Host Says Maxfields Wore Operation Underground Shirts in Their Profile Pictures
+
+Claim Timestamp: 00:14:53
+
+Claim: The host says Derek and Shailene Maxfield wore Operation Underground shirts in their profile pictures.
+
+Transcript Snippet: in their profile pictures they were wearing an Operation Underground shirt.
+
+Anchored Artifacts: 
+Mentions: N-94, N-204
+Related Nodes: N-11167
+Supports: C-6874
+Tags: relevance:core
+Investigative Direction: Archive the Maxfields' social media profile photos and compare with Operation Underground merchandise.
+
+---
+
+**C-8157** Host Says Fort Huachuca Civilian Commander David Frodsham Was Charged With Running a Child Sex Abuse Ring
+
+Claim Timestamp: 00:14:53
+
+Claim: The host says a civilian commander stationed at Fort Huachuca, David Frodsham (spelled Frodshem in the transcript), was charged with running a child sex abuse ring, and calls it true.
+
+Transcript Snippet: was charged with running a child sex abuse ring. That is true.
+
+Anchored Artifacts: 
+Mentions: N-817
+Related Nodes: N-10739
+Tags: relevance:core
+Investigative Direction: Pull the federal or Arizona charging documents against David Frodsham and the associated news coverage.
+
+---
+
+**C-8158** Host Says Zinn Had Pornographic Images of Children on His Phone
+
+Claim Timestamp: 00:14:53
+
+Claim: The host says George Zinn was arrested and it was then determined he had pornographic images of children on his phone, and she refers to him as the decoy.
+
+Transcript Snippet: George Zinn was arrested and then it was determined that he had pornographic images, that's our decoy boy, of children on his phone.
+
+Anchored Artifacts: 
+Mentions: N-42
+Related Nodes: N-10097
+Supports: C-1158
+Tags: relevance:core
+Investigative Direction: Obtain the Zinn charging documents and probable cause statement describing the images charge.
+
+---
+
+**C-8159** Host Says Zinn Did Not Know the Source of the Money to Say It Was Him
+
+Claim Timestamp: 00:15:55
+
+Claim: The host says Zinn told hospital staff he would be paid, did not know where the money was coming from, and only had to jump up and down and say it was him.
+
+Transcript Snippet: Now, he didn't know where the money was coming from, but all he had to do was jump up and down and say it was me, it was me.
+
+Anchored Artifacts: 
+Mentions: N-42
+Related Nodes: N-10223
+Supports: C-1402
+Tags: relevance:core
+Investigative Direction: Obtain Utah Valley Hospital staff statements or police reports recording what Zinn said about payment.
+
+---
+
+**C-8160** Host Says Andrew Piscatello Was a Photographer Not Hired by TPUSA
+
+Claim Timestamp: 00:15:55
+
+Claim: The host says early pictures of Andrew Piscatello wearing a suit and carrying a bag led people to think he could be the shooter, but he was photographing and was a photographer not hired by Turning Point USA.
+
+Transcript Snippet: It ended up being that he was photographing that he was taking pictures, he was a photographer not hired by Turning Point USA.
+
+Anchored Artifacts: 
+Mentions: N-816
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Identify Piscatello's credentials and who authorized his access to the UVU event.
+
+---
+
+**C-8161** Host Says Piscatello Has Raised Alarms About Military Ukrainian Sex Trafficking
+
+Claim Timestamp: 00:15:55
+
+Claim: The host says Andrew Piscatello has publicly raised the alarm on military-linked Ukrainian sex trafficking in the United States and that his Instagram says children are being trafficked from Ukraine.
+
+Transcript Snippet: Uh but he has rang the alarm before on military Ukrainian sex trafficking that is happening in the United States.
+
+Anchored Artifacts: 
+Mentions: N-816
+Related Nodes: N-10401
+Tags: relevance:context
+Investigative Direction: Review Piscatello's Instagram posts on Ukrainian trafficking for dates and claims.
+
+---
+
+**C-8162** Host Says Rob McCoy Tried to Rehabilitate a Convicted Offender Into Homes With Children
+
+Claim Timestamp: 00:16:42
+
+Claim: The host says Rob McCoy tried to rehabilitate a man who had gone to prison, who said he found the Lord, and placed him into homes with children via Calvary Chapel.
+
+Transcript Snippet: Rob McCoy who was trying to rehabilitate somebody who actually went to prison uh who said he found the Lord and decided to put him in into homes with children via Calvary Chapel.
+
+Anchored Artifacts: 
+Mentions: N-17
+Related Nodes: N-10246
+Tags: relevance:core
+Investigative Direction: Identify the individual and any court or church records on his placement in homes through Calvary Chapel.
+
+---
+
+**C-8163** Host Says Marissa Streit Introduced Her to Operation Underground and Tim Ballard
+
+Claim Timestamp: 00:16:42
+
+Claim: The host says she learned of Operation Underground through Marissa Streit at PragerU, who asked her to interview Tim Ballard before he stepped down from the charity.
+
+Transcript Snippet: that was introduced to me by Marissa Streit over at PragerU.
+
+Anchored Artifacts: 
+Mentions: N-118, N-332, N-3
+Related Nodes: N-11167, N-10131
+Tags: relevance:context
+Investigative Direction: Find the PragerU interview with Tim Ballard and its date relative to his departure from Operation Underground.
+
+---
+
+**C-8164** Host Says Glenn Beck Was the Initial Investment in Operation Underground
+
+Claim Timestamp: 00:16:42
+
+Claim: The host says that, as the story was told to her at PragerU, Glenn Beck was the initial investment in Operation Underground.
+
+Transcript Snippet: Glenn Beck was the initial investment as the story was told to me when I was at PragerU when I interviewed him.
+
+Anchored Artifacts: 
+Mentions: N-242, N-332
+Related Nodes: N-11167
+Supports: C-6876
+Tags: relevance:context
+Investigative Direction: Check Operation Underground's founding history and Beck's public statements on funding it.
+
+---
+
+**C-8165** Host Says Glenn Beck's Children Were at UVU and He Spoke Out First on September 10
+
+Claim Timestamp: 00:17:45
+
+Claim: The host says Glenn Beck's children were at UVU when Charlie Kirk was assassinated and that Beck was among the first to speak out on the news on September 10.
+
+Transcript Snippet: Glenn Beck also his children were there um at UVU when Charlie Kirk was assassinated.
+
+Anchored Artifacts: 
+Mentions: N-242, N-1
+Related Nodes: N-10012
+Tags: relevance:core
+Investigative Direction: Review Beck's September 10 broadcasts and any statement about his family's presence at UVU.
+
+---
+
+**C-8166** Host Says Phil Lyman Visited Tim Ballard After the Assassination
+
+Claim Timestamp: 00:17:45
+
+Claim: The host says Phil Lyman paid Tim Ballard a visit in the days following the assassination.
+
+Transcript Snippet: we learned that he paid Tim Ballard a visit in the days following the assassination
+
+Anchored Artifacts: 
+Mentions: N-61, N-332
+Related Nodes: N-10144
+Supports: C-6875
+Tags: relevance:core
+Investigative Direction: Seek Lyman's or Ballard's public posts or schedules for the days after September 10, 2025.
+
+---
+
+**C-8167** Host Says Kolvet's Brother and Cousin Are Military Captains
+
+Claim Timestamp: 00:18:32
+
+Claim: The host says Andrew Kolvet's brother and cousin, Curtis Kolvet and Robert Kolvet, are captains in the military, which differs from her earlier statement that Curtis is a lieutenant colonel.
+
+Transcript Snippet: Andrew Kolwitz's brother and cousin are captains in the military, Curtis Kolwitz and Robert Kolwitz.
+
+Anchored Artifacts: 
+Mentions: N-14, N-703
+Tags: relevance:context
+Investigative Direction: Reconcile Curtis Kolvet's rank (captain versus lieutenant colonel) through Army records.
+
+---
+
+**C-8168** Host Says Rob McCoy's Father Ran Psychological Operations for Naval Intelligence
+
+Claim Timestamp: 00:18:32
+
+Claim: The host says Rob McCoy's father, Roy Edgar McCoy, ran psychological operations for naval intelligence to shape public perception.
+
+Transcript Snippet: Rob McCoy's father Roy Edgar McCoy ran psychological operations for naval intelligence to shape public perception.
+
+Anchored Artifacts: 
+Mentions: N-17, N-200
+Related Nodes: N-10436
+Supports: C-1505
+Tags: relevance:context
+Investigative Direction: Locate Navy service records or obituaries for Roy Edgar McCoy describing his naval intelligence role.
+
+---
+
+**C-8169** Host Says Erika Kirk's Family Moved to Arizona for DOD Contracts
+
+Claim Timestamp: 00:18:32
+
+Claim: The host says Erika Kirk has been open that her mother and father do defense-related military work and that she moved to Arizona because they had contracts with the Department of Defense.
+
+Transcript Snippet: It's why she moved to Arizona in the first place because they had contracts with the DOD.
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10417
+Tags: relevance:core
+Investigative Direction: Find Erika Kirk's own statements on her parents' work and federal contract records for the parents' companies.
+
+---
+
+**C-8170** Host Says Erika Kirk's Father Worked With Raytheon
+
+Claim Timestamp: 00:18:32
+
+Claim: The host says Erika Kirk's father has worked with Raytheon.
+
+Transcript Snippet: And we know that her father has worked with Raytheon.
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10417
+Tags: relevance:core
+Investigative Direction: Identify Erika Kirk's father's employment history through public filings or Raytheon contractor listings.
+
+---
+
+**C-8171** Host Says the Farnsworth Family Has Extensive Military Connections
+
+Claim Timestamp: 00:19:32
+
+Claim: The host says the Farnsworth family has extensive military connections that she will cover later and that the family is important to the story.
+
+Transcript Snippet: The Farnsworth family has extensive military connections.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:core
+Investigative Direction: Compile service records and defense contracts for members of the Farnsworth family.
+
+---
+
+**C-8172** Host Says Frank Turek Was a Naval Flight Officer for Eight Years
+
+Claim Timestamp: 00:19:32
+
+Claim: The host says Dr. Frank Turek was a naval flight officer for eight years.
+
+Transcript Snippet: Dr. Frank Turek was a naval flight officer for eight years.
+
+Anchored Artifacts: 
+Mentions: N-7
+Tags: relevance:core
+Investigative Direction: Check Turek's published biography for his Navy service dates and role.
+
+---
+
+**C-8173** Host Says Turek's Sons Hold Military Posts Including Joint Chiefs and Air Force
+
+Claim Timestamp: 00:19:32
+
+Claim: The host says Frank Turek's son Frank Turek III is a deputy division chief at the Joint Chiefs of Staff in Washington and his other son Spencer is an Air Force veteran.
+
+Transcript Snippet: His other son, Spencer, is an Air Force vet.
+
+Anchored Artifacts: 
+Mentions: N-7, N-697
+Related Nodes: N-10730
+Tags: relevance:core
+Investigative Direction: Verify Frank Turek III's Joint Staff position and Spencer Turek's service through public directories or records.
+
+---
+
+**C-8174** Host Says a Military Plane Flew a Route Around UVU Just Before and After the Shooting
+
+Claim Timestamp: 00:19:32
+
+Claim: The host says a military plane, rendered as Haiti's in the transcript, flew a route around UVU on the day of the assassination just before and just after, and that the plane has a lot to do with drones.
+
+Transcript Snippet: inexplicably flew uh this route around UVU on the day of the assassination, just before and just after
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10012
+Tags: relevance:core
+Investigative Direction: Identify the aircraft from the transcript's garbled name and pull its ADS-B track for September 10, 2025.
+
+---
+
+**C-8175** Host Says Dr. Lee Trotter Did His Residency on an Air Force Base and Has a Pilot's License
+
+Claim Timestamp: 00:20:26
+
+Claim: The host says Dr. Lee Trotter did his residency on an Air Force base and also holds a pilot's license.
+
+Transcript Snippet: Dr. Lee Trotter did his residency on an Air Force base and he also has his pilot's license.
+
+Anchored Artifacts: 
+Mentions: N-199
+Tags: relevance:core
+Investigative Direction: Check Trotter's published biography and FAA airman records.
+
+---
+
+**C-8176** Host Says Utah Medical Examiner Dr. Deidra Amaro Is a Major
+
+Claim Timestamp: 00:20:26
+
+Claim: The host says the Utah medical examiner, Dr. Deidra Amaro, is a major.
+
+Transcript Snippet: The Utah medical examiner, Dr. Deidra Amaro, is a major.
+
+Anchored Artifacts: 
+Mentions: N-179
+Related Nodes: N-10183
+Tags: relevance:core
+Investigative Direction: Look for Amaro's military service record or Utah Office of the Medical Examiner biography.
+
+---
+
+**C-8177** Host Says Butch Hibbs' Father Had a Military Background and She Suspects Butch Is Military
+
+Claim Timestamp: 00:20:26
+
+Claim: The host says Jack Hibbs and Butch Hibbs' father, Butch Sr., had a military background and that she suspects Butch Hibbs may himself be involved in the military, but is looking for something concrete.
+
+Transcript Snippet: their father, Butch Sr., military background, and I suspect Butch Hibbs also perhaps is involved in the military himself.
+
+Anchored Artifacts: 
+Mentions: N-212, N-251
+Tags: relevance:core
+Investigative Direction: Seek public records of Butch Hibbs' and Butch Sr.'s military service.
+
+---
+
+**C-8178** Host Says a Caller's Probation Officer Offered Her Liberty's Program Instead of Juvenile Detention
+
+Claim Timestamp: 00:22:03
+
+Claim: The host says the woman who called her was 13 and pregnant when a probation officer gave her an ultimatum: juvenile detention or a Liberty University-run program for troubled teens.
+
+Transcript Snippet: We could send you to juvie or you could go away and we'll give you an opportunity here.
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417, N-3
+Related Nodes: N-10392, N-11104
+Tags: relevance:context
+Investigative Direction: Seek the caller's juvenile court and probation records, which only she can authorize, to confirm the referral to the Godparent program.
+
+---
+
+**C-8179** Caller Says Jerry Falwell Sr. Took Pictures of the Residents
+
+Claim Timestamp: 00:24:36
+
+Claim: In the recorded call, the former resident says Jerry Falwell Sr. took weird pictures of the girls at the Godparent Home, which the host presses by asking whether Falwell Sr. himself took the photos.
+
+Transcript Snippet: But like Jerry Falwell Sr. was the one actually taking the photos? Yeah,
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417, N-408
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Interview other Godparent Home residents from the 1990s about photographs taken at the home and by whom.
+
+---
+
+**C-8180** Caller Says She Was Moved to a Room Alone After a Normal Ultrasound
+
+Claim Timestamp: 00:26:30
+
+Claim: The caller says that the night before she delivered, the house mothers checked the heartbeat and ultrasound and everything was fine, then she was moved to another room by herself.
+
+Transcript Snippet: everything was fine that night and then they moved me, which was weird.
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Obtain any hospital or home records of prenatal checks and room assignments from the caller's stay.
+
+---
+
+**C-8181** Caller Says the Home Held 12 to 15 Girls Aged 12 to 21, Some Not Speaking English
+
+Claim Timestamp: 00:27:25
+
+Claim: The caller says that in the mid-1990s about 12 to 15 girls lived in one house, ranging from age 12 to about 21, and some did not speak English.
+
+Transcript Snippet: there was about like between 12 and 15 in one house, but you're talking anywhere from age 12 to like 21 years old
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Compare with state licensing records for the Liberty Godparent Home's capacity and resident ages in the 1990s.
+
+---
+
+**C-8182** Caller Says Residents Were Not Allowed to Talk to Each Other and Used Pay Phones
+
+Claim Timestamp: 00:27:25
+
+Claim: The caller says residents were not allowed to talk to other girls, were kept on separate sides of the hallway, and had to call collect or use quarters on the pay phone rather than the regular phones.
+
+Transcript Snippet: We weren't allowed to like talk to the other girls.
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417
+Related Nodes: N-10392
+Supports: C-2042
+Tags: relevance:context
+Investigative Direction: Interview other former residents and request the home's 1990s house rules for contact and phone access.
+
+---
+
+**C-8183** Caller Says the Next Morning She Had No Heartbeat
+
+Claim Timestamp: 00:27:25
+
+Claim: The caller says that the morning after she was moved to a room alone, she suddenly did not have a heartbeat and had to go in.
+
+Transcript Snippet: the next morning I all of a sudden didn't have a heartbeat and I had to go in
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Request hospital records of the delivery from Lynchburg hospitals, which only the caller can authorize.
+
+---
+
+**C-8184** Caller Says a House Mother's Daughter Was a Doctor at a Lynchburg Hospital
+
+Claim Timestamp: 00:28:45
+
+Claim: The caller says the house mothers' daughter is a doctor at a Lynchburg hospital, was possibly one of the house mothers back then, and may have been her nurse.
+
+Transcript Snippet: Their daughter is a high uh doctor at the Liberty or at some university, some um hospital in Lynchburg, Virginia.
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Identify the house mother and her daughter through Godparent Home staff lists and Lynchburg hospital staffing.
+
+---
+
+**C-8185** Caller Says Staff Told Her to Hurry Her Adoption Decision and Showed Her Folders
+
+Claim Timestamp: 00:29:47
+
+Claim: The caller says staff kept telling her to hurry up and decide whether to place the baby for adoption and showed her folders of prospective parents' faces.
+
+Transcript Snippet: They kept showing me folders of people's faces.
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417
+Related Nodes: N-10392
+Supports: C-2043
+Tags: relevance:context
+Investigative Direction: Interview other residents about adoption-folder presentations and review Family Life Services intake procedures.
+
+---
+
+**C-8186** Caller Says She Cannot Find Herself in the Home's System
+
+Claim Timestamp: 00:29:47
+
+Claim: The caller says she has called the Godparent Home to find her dates and cannot find herself in their system.
+
+Transcript Snippet: I can't even find myself actually in their system.
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Submit a records request, with the caller's consent, to the Liberty Godparent Home and Family Life Services.
+
+---
+
+**C-8187** Caller Says Labor Was Induced and She Was More Than Three or Four Months Along
+
+Claim Timestamp: 00:30:38
+
+Claim: The caller says staff had to induce labor and she was over three or four months pregnant, without knowing how far along she was.
+
+Transcript Snippet: They had to induce the labor. Okay. They I had to deliver.
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Obtain medical records establishing gestational age and the delivery, with the caller's consent.
+
+---
+
+**C-8188** Host Says Liberty Told the Caller It Could Not Find Her Records
+
+Claim Timestamp: 00:31:29
+
+Claim: The host says that although the caller can pull her court records, Liberty says its 1990s records are electronic and it cannot find her, despite her having had a baby in a house at age 13.
+
+Transcript Snippet: We can't find you. We had You had a baby in a house when you were 13 years old and we can't find you.
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417, N-3
+Related Nodes: N-10392, N-11104
+Tags: relevance:context
+Investigative Direction: Ask Liberty University and the Godparent Home for a written statement on their 1990s resident records.
+
+---
+
+**C-8189** Host Says the Caller Was Told to Be Picked Up ASAP So Other Girls Were Not Traumatized
+
+Claim Timestamp: 00:31:29
+
+Claim: The host says the caller told her staff called her mother to pick her up as soon as possible after the loss because they did not want the other young women traumatized, and that the caller never saw her baby.
+
+Transcript Snippet: They tell your mom she's got to pick you up ASAP.
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417, N-3
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Interview the caller's mother if willing, and seek the home's discharge records.
+
+---
+
+**C-8190** Host Says the Caller Received a Trump Pageant World Invitation Two Years Later
+
+Claim Timestamp: 00:32:54
+
+Claim: The host says the caller went home, and two years later received an invitation to join Trump Pageant World without knowing how they got her picture, which the host links to the pictures taken at the Godparent Home.
+
+Transcript Snippet: and 2 years later she gets an invite to join Trump Pageant World.
+
+Anchored Artifacts: A-1604.1
+Mentions: N-417, N-2, N-3
+Related Nodes: N-11173, N-10988, N-10392
+Tags: relevance:context
+Investigative Direction: Ask the caller for the invitation and mailing details and compare with Miss Universe organization outreach practices in the 1990s.
+
+---
+
+**C-8191** Host Says Poussard Showed Epstein Pumped Money Into Organizations Full of Young Women
+
+Claim Timestamp: 00:32:54
+
+Claim: The host says Xavier Poussard showed that Jeffrey Epstein's mechanism was to find organizations with many young women passing through and pump money into them, like Victoria's Secret.
+
+Transcript Snippet: Xavier Poussard showed that this was one of his mechanisms.
+
+Anchored Artifacts: 
+Mentions: N-290, N-9, N-3
+Related Nodes: N-10023
+Tags: relevance:tangential
+Investigative Direction: Locate the Poussard episode of the host's Epstein series and the sources he cites for the mechanism.
+
+---
+
+**C-8192** Host Says the History of Pageantry Is Child Sex Trafficking
+
+Claim Timestamp: 00:34:18
+
+Claim: The host says the history of pageantry is child sex trafficking and ties it to carnies and P. T. Barnum.
+
+Transcript Snippet: By the way, the history of pageantry for those of you that don't know, it's child sex trafficking.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10988
+Tags: relevance:tangential
+Investigative Direction: Seek historical scholarship on the pageant industry and its origins in carnival and sideshow circuits.
+
+---
+
+**C-8193** ABC 13 Report Says Liberty Lost Podcast Alleges Residents Felt Pressured to Place Children
+
+Claim Timestamp: 00:35:05
+
+Claim: An ABC 13 report the host plays says the podcast Liberty Lost alleges some of the young women felt pressured to place their children for adoption, and that the Godparent Home is defending itself against allegations of coercion and manipulation.
+
+Transcript Snippet: The Liberty Godparent Home, a place for young, single, pregnant women, is defending itself against allegations of coercion and manipulation.
+
+Anchored Artifacts: A-1598.1
+Mentions: N-416
+Related Nodes: N-10392
+Supports: C-2043
+Tags: relevance:context
+Investigative Direction: Obtain the ABC 13 segment and the Liberty Lost podcast episodes and their listed sources.
+
+---
+
+**C-8194** Liberty Lost Producer Says She Interviewed Residents From the 1990s and 2008
+
+Claim Timestamp: 00:35:05
+
+Claim: In the ABC clip, a Liberty Lost investigator says she has spent two years investigating the maternity home after connecting with residents who went through it as pregnant teenagers in the 1990s and in 2008.
+
+Transcript Snippet: For the last 2 years I've been investigating the maternity home after connecting with several residents who went through the home as pregnant teenage girls both in the 1990s and in 2008.
+
+Anchored Artifacts: A-1598.1
+Mentions: N-415
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Contact the Liberty Lost podcast team for the number and dates of resident accounts.
+
+---
+
+**C-8195** Abby Johnson Says Her Parents Sent Her to the Home With a Liberty Scholarship Promise
+
+Claim Timestamp: 00:35:05
+
+Claim: In the ABC clip, Abby Johnson says that at 16 she got pregnant and her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.
+
+Transcript Snippet: Her parents sent her across the country to Liberty Godparent Home with the promise of a scholarship to Liberty University after all was said and done.
+
+Anchored Artifacts: A-1598.1
+Mentions: N-415, N-416
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Seek Johnson's account on the Liberty Lost podcast and any scholarship documentation.
+
+---
+
+**C-8196** Abby Johnson Says the Home Had Already Decided on Adoption
+
+Claim Timestamp: 00:36:34
+
+Claim: In the ABC clip, Johnson says she wanted to keep her son but felt the home had already decided on the adoption route.
+
+Transcript Snippet: Johnson says she wanted to keep her son. However, she felt the home already made the decision to go the adoption route.
+
+Anchored Artifacts: A-1598.1
+Mentions: N-415
+Related Nodes: N-10392
+Supports: C-2043
+Tags: relevance:context
+Investigative Direction: Compare with accounts from other Liberty Lost residents and Family Life Services adoption statistics.
+
+---
+
+**C-8197** Godparent Home Declined ABC Interview and Sent a Statement
+
+Claim Timestamp: 00:36:34
+
+Claim: In the ABC clip, the reporter says the Godparent Home declined her request for an interview and sent a statement saying staff and volunteers have treated every individual with compassion and integrity.
+
+Transcript Snippet: The Godparent Home declined my request for an interview but sent a statement saying in part quote,
+
+Anchored Artifacts: A-1598.1
+Mentions: N-416
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Obtain the full written statement from the Godparent Home.
+
+---
+
+**C-8198** ABC Report Says Thomas Road Baptist Church Founded Family Life Services
+
+Claim Timestamp: 00:36:34
+
+Claim: In the ABC clip, a reporter says Thomas Road Baptist Church founded the Family Life Services adoption agency according to its website.
+
+Transcript Snippet: Thomas Road Baptist Church founded Family Life Services according to their website.
+
+Anchored Artifacts: A-1598.1
+Mentions: N-416
+Related Nodes: N-10392
+Supports: C-2029
+Tags: relevance:context
+Investigative Direction: Retrieve Family Life Services' website history and its Virginia licensing records.
+
+---
+
+**C-8199** ABC Reporter Says Family Life Services and the Home Did Not Reply to Requests
+
+Claim Timestamp: 00:37:54
+
+Claim: In the ABC clip, the reporter says she reached out multiple times to Family Life Services without a response, and asked the Godparent Home to connect her with residents who had positive experiences but had not heard back.
+
+Transcript Snippet: I reached out to them multiple times for comment about the allegations in the podcast.
+
+Anchored Artifacts: A-1598.1
+Mentions: N-416
+Related Nodes: N-10392
+Tags: relevance:context
+Investigative Direction: Ask Family Life Services and the Godparent Home whether they later responded to ABC 13.
+
+---
+
+**C-8200** Host Says She Has Spoken at Liberty University Multiple Times
+
+Claim Timestamp: 00:42:24
+
+Claim: The host says she has spoken at Liberty University multiple times and never looked up its origin story.
+
+Transcript Snippet: I have spoken at Liberty University multiple times and I promise you, I never thought once to look up their origin story.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11104
+Tags: relevance:context
+Investigative Direction: Check Liberty convocation archives for the host's appearances.
+
+---
+
+**C-8201** Host Says Carey Hezekiah Used Fuel Trucks to Smuggle Bootleg Whiskey
+
+Claim Timestamp: 00:44:18
+
+Claim: The host says Carey Hezekiah Falwell posed as a gas station operator but used his fuel trucks to smuggle bootleg whiskey during Prohibition, making him a smuggler and trafficker as well as a bootlegger.
+
+Transcript Snippet: in reality, he was using his fuel trucks to smuggle bootleg whiskey into America during the time of prohibition.
+
+Anchored Artifacts: A-1605.1
+Mentions: N-411, N-3
+Related Nodes: N-10400
+Supports: C-2044
+Tags: relevance:tangential
+Investigative Direction: Consult the Washington Post and Rolling Stone profiles of Falwell Sr.'s family and Lynchburg county records on Carey Falwell's businesses.
+
+---
+
+**C-8202** Host Says, Citing Rolling Stone, Carey Falwell Killed and Cooked an Employee's Cat
+
+Claim Timestamp: 00:45:40
+
+Claim: The host says Rolling Stone documented that Carey Hezekiah Falwell, angry that an employee stayed home sick, killed the man's cat, cooked it and delivered the remains to the employee's house for lunch.
+
+Transcript Snippet: and he killed the cat and then he cooked the cat and then he delivered the remains of the cat to the employee's house for lunch.
+
+Anchored Artifacts: A-1605.1
+Mentions: N-411
+Related Nodes: N-10400
+Tags: relevance:tangential
+Investigative Direction: Locate the Rolling Stone passage and its sourcing for the cat anecdote.
+
+---
+
+**C-8203** Host Says Carey Falwell Died in 1948 and His Son Converted the Same Year
+
+Claim Timestamp: 00:46:39
+
+Claim: The host says Carey Hezekiah died of cirrhosis in 1948, the year Israel became a nation, and his son Jerry Falwell Sr. immediately had a radical conversion to Christianity.
+
+Transcript Snippet: In 1948, the very year that Israel became a nation, Carey Hezekiah died from cirrhosis of the liver
+
+Anchored Artifacts: A-1605.1
+Mentions: N-411, N-408
+Related Nodes: N-10400
+Tags: relevance:tangential
+Investigative Direction: Check Falwell Sr.'s biographies for the year of his conversion and his father's death.
+
+---
+
+**C-8204** Host Says Falwell Sr. Founded Lynchburg College in 1971, Later Liberty University
+
+Claim Timestamp: 00:46:39
+
+Claim: The host says Jerry Falwell Sr. became a televangelist and established Lynchburg College in 1971, which later became Liberty University.
+
+Transcript Snippet: He became a televangelist and he established Lynchburg College in 1971, which would eventually change its name to Liberty University
+
+Anchored Artifacts: 
+Mentions: N-408
+Related Nodes: N-11104
+Tags: relevance:context
+Investigative Direction: Verify Liberty's founding date and original name from university history and Virginia charter records.
+
+---
+
+**C-8205** Host Says Menachem Begin Gifted Falwell Sr. a Learjet in 1979
+
+Claim Timestamp: 00:46:39
+
+Claim: The host says Jerry Falwell Sr. was gifted a Learjet in 1979 by Menachem Begin, then Prime Minister of Israel and founder of the Likud Party, and wonders what Israel wanted in exchange.
+
+Transcript Snippet: in 1979, Jerry Falwell Sr. was gifted a Learjet from the founder of the Likud Party, then Prime Minister of Israel, Menachem Begin.
+
+Anchored Artifacts: A-1601.1
+Mentions: N-408, N-410
+Related Nodes: N-10393
+Supports: C-2038
+Tags: relevance:context
+Investigative Direction: Check contemporaneous 1979 press reports and Falwell biographies on the Learjet gift.
+
+---
+
+**C-8206** Host Restates That Netanyahu Offered to Take TPUSA to the Next Level and Kirk Said No
+
+Claim Timestamp: 00:47:28
+
+Claim: The host says Benjamin Netanyahu offered to take Turning Point USA to the next level and that Charlie Kirk said no.
+
+Transcript Snippet: He offered to take Turning Point USA to the next level. Charlie Kirk said, "No."
+
+Anchored Artifacts: 
+Mentions: N-36, N-1, N-3
+Related Nodes: N-10342
+Supports: C-5012
+Tags: relevance:core
+Investigative Direction: Identify the host's sources for the offer and any documents, messages or witnesses confirming its terms.
+
+---
+
+**C-8207** Host Says Epstein Was Involved in the Iran-Contra Scandal
+
+Claim Timestamp: 00:48:22
+
+Claim: The host says that Jeffrey Epstein was involved in the Iran-Contra scandal and that, if the Mossad is to be believed, this is how they first brought him in, running weapons through South America.
+
+Transcript Snippet: Jeffrey Epstein was involved in the Iran-Contra scandal.
+
+Anchored Artifacts: 
+Mentions: N-9, N-3
+Related Nodes: N-10023
+Tags: relevance:tangential
+Investigative Direction: Compare with documented histories of Iran-Contra and with any record placing Epstein in the affair.
+
+---
+
+**C-8208** Emailer Links Liberty University to the Fort Huachuca Drug-Smuggling Base
+
+Claim Timestamp: 00:49:44
+
+Claim: The host says the Iran-Contra email tipster's reason for writing was to ask how Liberty University might be connected to Fort Huachuca, which he describes as a drug smuggling military base.
+
+Transcript Snippet: And how Liberty University might be connected to the drug smuggling military base he's referring to Fort Huachuca
+
+Anchored Artifacts: A-1602.1
+Mentions: N-409
+Related Nodes: N-10739, N-11104
+Supports: C-5388
+Tags: relevance:context
+Investigative Direction: Ask the host for the full email and its sources on a Liberty to Fort Huachuca link.
+
+---
+
+**C-8209** Host Says the Egyptian Planes Were Tracking TPUSA Faith Pastors
+
+Claim Timestamp: 00:50:37
+
+Claim: The host says she will show that the Egyptian planes she has shown were tracking Turning Point USA Faith pastors.
+
+Transcript Snippet: I'm going to show you that these Egyptian planes I showed you in part were tracking Turning Point USA Faith, these pastors.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10253, N-10398
+Supports: C-6702
+Tags: relevance:core
+Investigative Direction: Compare the Egyptian aircraft tracking data with TPUSA Faith event calendars and pastor travel.
+
+---
+
+**C-8210** Host Says Moon Declared Himself a Messiah and Compares It to Kirk's Treatment at AmFest
+
+Claim Timestamp: 00:51:36
+
+Claim: The host says Sun Myung Moon declared himself a Messiah and compares that to what she describes as efforts to establish Charlie Kirk as a messianic figure.
+
+Transcript Snippet: he declared himself, just so you know, a Messiah.
+
+Anchored Artifacts: 
+Mentions: N-409, N-1
+Related Nodes: N-10399
+Tags: relevance:context
+Investigative Direction: Verify Moon's messianic claims in the Washington Post article and the AmFest program for messianic framing.
+
+---
+
+**C-8211** Washington Post Says Moon-Linked Holdings Include The Washington Times and a Former Mormon Church
+
+Claim Timestamp: 00:52:37
+
+Claim: Reading the 1997 Washington Post article, the host says Moon's Washington holdings include The Washington Times newspaper, a video production firm and a stately old church once the pride of the Mormons on 16th Street Northwest.
+
+Transcript Snippet: Those include The Washington Times Washington Times newspaper a video production firm, a stately old church once the pride of the Mormons along 16th Street Northwest.
+
+Anchored Artifacts: A-2922.1
+Mentions: N-409
+Related Nodes: N-11169, N-10399
+Tags: relevance:context
+Investigative Direction: Retrieve the original 1997 Washington Post article and corporate property records for the cited holdings.
+
+---
+
+**C-8212** Washington Post Says Moon Inc. Is a Sprawling Collection of Churches and Holding Companies
+
+Claim Timestamp: 00:52:37
+
+Claim: Reading the 1997 Washington Post article, the host says the vast multinational could be called Moon Inc., a sprawling collection of churches, nonprofit foundations and for-profit holding companies.
+
+Transcript Snippet: This vast and bewildering multinational could be called Moon Inc.
+
+Anchored Artifacts: A-2922.2
+Mentions: N-409
+Related Nodes: N-10399
+Tags: relevance:context
+Investigative Direction: Retrieve the Washington Post article and compare with Unification Church corporate filings.
+
+---
+
+**C-8213** Washington Post Says Church-Linked Washington Property Is Worth Over $200 Million
+
+Claim Timestamp: 00:53:46
+
+Claim: Reading the 1997 Washington Post article, the host says Washington-area property owned by the church, its affiliated companies or senior church officials is worth more than $200 million according to property and corporate records.
+
+Transcript Snippet: Washington area property owned by the church, its affiliated companies or senior church officials is worth more than 200 million dollars, according to property and corporate records.
+
+Anchored Artifacts: A-2922.3
+Mentions: N-409
+Related Nodes: N-10399
+Tags: relevance:context
+Investigative Direction: Pull Washington-area property assessments for church-linked entities from 1997 records.
+
+---
+
+**C-8214** Host Says TPUSA Is Getting Into Real Estate to Teach Young Conservatives to Buy Houses
+
+Claim Timestamp: 00:53:46
+
+Claim: The host says, according to a tip she has, Turning Point USA is getting into real estate because it is going to teach young conservatives how to buy houses, with Tyler Bowyer leading the charge.
+
+Transcript Snippet: They're getting into real estate according to tip that I have because they're going to teach young conservatives how to buy houses
+
+Anchored Artifacts: 
+Mentions: N-11, N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Look for TPUSA real estate programs, entities or announcements and the host's tip source.
+
+---
+
+**C-8215** Washington Post Quotes Richard Rubenstein That Ideas Without Money Are Dreams
+
+Claim Timestamp: 00:54:28
+
+Claim: Reading the 1997 Washington Post article, the host quotes University of Bridgeport president Richard Rubenstein as saying, 'Ideas without the money to back them up are just dreams,' and that the corporate side is the engine that funds the church's mission.
+
+Transcript Snippet: Ideas without the money to back them up are just dreams
+
+Anchored Artifacts: A-2922.4
+Mentions: N-409
+Related Nodes: N-10399
+Tags: relevance:context
+Investigative Direction: Retrieve the Washington Post article and the Rubenstein quotation in context.
+
+---
+
+**C-8216** Washington Post Says Moon-Linked Entities Rely on Cash Flow From the Far East
+
+Claim Timestamp: 00:55:11
+
+Claim: Reading the 1997 Washington Post article, the host says Moon-affiliated entities are linked by interlocking directorships and nurtured by a seemingly endless flow of cash from the Far East, and that The Washington Times has a circulation of 100,000.
+
+Transcript Snippet: Beyond The Times, Moon affiliated entities are linked by a complex web of interlocking directorships and nurtured by a seemingly endless flow of cash from the Far East.
+
+Anchored Artifacts: A-2922.5
+Mentions: N-409
+Related Nodes: N-11169, N-10399
+Supports: C-2030
+Tags: relevance:context
+Investigative Direction: Retrieve the Washington Post article and compare with Washington Times circulation audits.
+
+---
+
+**C-8217** Washington Post Says Unification Executives Acknowledged Japanese and Korean Money Funds US Operations
+
+Claim Timestamp: 00:55:11
+
+Claim: Reading the 1997 Washington Post article, the host says executives of Unification-related entities acknowledged that money from Japan and Korea is fueling their US operations.
+
+Transcript Snippet: Executives of Unification-related entities have acknowledged that money from Japan and Korea are fueling their US operations.
+
+Anchored Artifacts: A-2922.5
+Mentions: N-409
+Related Nodes: N-10399
+Supports: C-2037
+Tags: relevance:context
+Investigative Direction: Retrieve the Washington Post article and the executives' original statements.
+
+---
+
+**C-8218** Washington Post Says Source of Moon Payments Eluded Investigators on Three Continents
+
+Claim Timestamp: 00:56:01
+
+Claim: Reading the 1997 Washington Post article, the host says the magnitude, mechanism and exact sources of the payments have eluded investigators on three continents over three decades.
+
+Transcript Snippet: have eluded investigators on three continents over the past three decades.
+
+Anchored Artifacts: A-2922.6
+Mentions: N-409
+Related Nodes: N-10399
+Tags: relevance:context
+Investigative Direction: Retrieve the Washington Post article for the full sentence and cited investigators.
+
+---
+
+**C-8219** Host Says Kirk's Last Trip Went From Korea to Japan
+
+Claim Timestamp: 00:56:01
+
+Claim: The host says that after Charlie Kirk went to Korea and met a pastor who was then arrested, he went to Japan, and she asks what Kirk had to do with Korea.
+
+Transcript Snippet: And then after he went to Korea, he went to Japan.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10397
+Tags: relevance:core
+Investigative Direction: Obtain Kirk's travel itinerary and event schedule for the Korea and Japan trip in September 2025.
+
+---
+
+**C-8220** Host Cites Article on South Korean Christian Zionists Opening a Holocaust Museum
+
+Claim Timestamp: 00:56:52
+
+Claim: The host shows an article headline reading that South Korean Christian Zionists open the country's first Holocaust Museum and says she should add it to her timeline.
+
+Transcript Snippet: Yeah, South Korean Christian Zionists open the country's first Holocaust Museum.
+
+Anchored Artifacts: A-2921.1
+Mentions: N-3
+Related Nodes: N-10397
+Tags: relevance:tangential
+Investigative Direction: Retrieve the article, its date and the sponsors of the museum.
+
+---
+
+**C-8221** Washington Post Says Moon Sponsors Conferences for Opinion Shapers With Expenses Paid
+
+Claim Timestamp: 00:57:47
+
+Claim: Reading the 1997 Washington Post article, the host says Moon-sponsored groups stage conferences inviting professors, clergy and media executives with all expenses paid, which she compares to Turning Point USA Faith.
+
+Transcript Snippet: inviting professors, clergy, media executives and other opinion shapers to meetings all expenses paid.
+
+Anchored Artifacts: A-2922.7
+Mentions: N-409
+Related Nodes: N-10399, N-10398
+Tags: relevance:context
+Investigative Direction: Retrieve the Washington Post article and compare with TPUSA Faith pastor summit funding.
+
+---
+
+**C-8222** Host Says TPUSA Faith Planned a Pastor Summit Led by Rob McCoy and Sean Feucht
+
+Claim Timestamp: 00:57:47
+
+Claim: The host says Turning Point USA Faith was embarking on a pastor summit, with Rob McCoy and Sean Feucht set to lead it, bringing in Christian Zionist influencers for training.
+
+Transcript Snippet: They had a pastor summit um Rob McCoy, as I showed you that. Sean Feucht, they were going to lead this up.
+
+Anchored Artifacts: 
+Mentions: N-17, N-209, N-3
+Related Nodes: N-10398, N-10209
+Tags: relevance:core
+Investigative Direction: Find the TPUSA Faith pastor summit schedule, speaker list and funding sources.
+
+---
+
+**C-8223** Washington Post Quotes Ex-Priest Bordelon That Moon Buys Credibility With Academics
+
+Claim Timestamp: 00:58:39
+
+Claim: Reading the 1997 Washington Post article, the host quotes a former Catholic priest, rendered Borderlin, as saying Moon holds conferences on religious founders like Buddha, Jesus and then Moon and gets credibility from academics who attend.
+
+Transcript Snippet: They'll have a conference on the essence of religious founders like Buddha, Jesus and then Moon who gets a room full of academics to sit there.
+
+Anchored Artifacts: A-2922.7
+Mentions: N-409
+Related Nodes: N-10399
+Tags: relevance:context
+Investigative Direction: Retrieve the Washington Post article and identify the former priest by name.
+
+---
+
+**C-8224** Host Says the Daily Wire Offered Her International Fellowship of Christians and Jews Ad Reads
+
+Claim Timestamp: 00:59:25
+
+Claim: The host says that when she worked at the Daily Wire, the company brought her ad reads including the International Fellowship of Christians and Jews, which she was allowed to decline.
+
+Transcript Snippet: when I worked for the Daily Wire, they used to bring me companies like ad reads and they brought me the International Fellowship of Christian and Jews to read ads for.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11170
+Tags: relevance:context
+Investigative Direction: Ask former Daily Wire staff or review sponsor lists for IFCJ ad placements during the host's tenure.
+
+---
+
+**C-8225** Host Says She Declined the IFCJ Ad Read Because It Did Not Feel Like a Fellowship
+
+Claim Timestamp: 01:00:07
+
+Claim: The host says she looked at the IFCJ website, found it was basically what Christians can do for Jews, said it did not feel like a fellowship, and declined the ad read.
+
+Transcript Snippet: This doesn't feel like a fellowship. So, no.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11170
+Tags: relevance:context
+Investigative Direction: Review the IFCJ's website and Form 990 for its stated programs and donors.
+
+---
+
+**C-8226** Washington Post Says Moon Group Shares a Suite With Martial Arts Federation and Washington Times Aviation
+
+Claim Timestamp: 01:00:49
+
+Claim: Reading the 1997 Washington Post article, the host says the International Coalition for Religious Freedom, which a former employee said signs his checks, shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.
+
+Transcript Snippet: shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.
+
+Anchored Artifacts: A-2922.8
+Mentions: N-409
+Related Nodes: N-11169, N-10399
+Tags: relevance:context
+Investigative Direction: Retrieve the Washington Post article and corporate registrations for the three entities.
+
+---
+
+**C-8227** Washington Post Quotes Paquette That Virtually None of Unification's US Operations Is Profitable
+
+Claim Timestamp: 01:01:41
+
+Claim: Reading the 1997 Washington Post article, the host says Paquette, who had access to financial information about church-related businesses, believed virtually none of the Unification Church's US operations is profitable.
+
+Transcript Snippet: said he believed that virtually none of the uni- Unification's US operations is profitable.
+
+Anchored Artifacts: A-2922.9
+Mentions: N-409
+Related Nodes: N-10399
+Tags: relevance:context
+Investigative Direction: Retrieve the Washington Post article and identify Paquette's role.
+
+---
+
+**C-8228** Host Says Kirk Established DOGE to Find Where the Money Was Coming From
+
+Claim Timestamp: 01:01:41
+
+Claim: The host says that where the money is coming from and where it is going was one of Charlie Kirk's last questions before his death, and that he established DOGE (transcribed "DOVE") to determine the answer.
+
+Transcript Snippet: He established DOVE to determine that answer.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11171, N-10000
+Tags: relevance:core
+Investigative Direction: Find the internal TPUSA document or announcement of the "internet DOGE" effort (see C-1563) and what it examined.
+
+---
+
+**C-8229** Washington Post Says SEC Filings Trace Nostalgia Cash to Unification Church International
+
+Claim Timestamp: 01:02:19
+
+Claim: Reading the 1997 Washington Post article, the host says SEC filings show the cash for Nostalgia, one of the church's companies, comes through a chain of companies leading to the Unification Church International.
+
+Transcript Snippet: SEC filings show that the cash uh for Nostalgia, that's one of their companies, comes through a chain of companies that lead to the Unification Church International.
+
+Anchored Artifacts: A-2922.10
+Mentions: N-409
+Related Nodes: N-10399
+Supports: C-2033
+Tags: relevance:context
+Investigative Direction: Pull the SEC filings referenced in the article for Nostalgia.
+
+---
+
+**C-8230** Washington Post Quotes Paquette on Bags of Cash From Korea and Japan
+
+Claim Timestamp: 01:03:13
+
+Claim: Reading the 1997 Washington Post article, the host says Paquette said Reverend Moon sent bags of cash, stacks of hundreds, from Korea and Japan to the Manhattan Center in New York, and that the answer to where it came from was the father.
+
+Transcript Snippet: Rev Moon sent bags of cash, big fat bags, stacks and stacks of hundreds from Korea and Japan to Manhattan Center.
+
+Anchored Artifacts: A-2922.11
+Mentions: N-409
+Related Nodes: N-10399
+Tags: relevance:context
+Investigative Direction: Retrieve the Washington Post article and the Paquette statement in full.
+
+---
+
+**C-8231** Host Says Kirk Was Told He Was in Japan Because Christian Faith Was Suppressed
+
+Claim Timestamp: 01:04:00
+
+Claim: The host says Charlie Kirk was told he was in Japan for reasons having to do with the Christian faith being suppressed and that she does not think that is why he was sent to Korea and Tokyo.
+
+Transcript Snippet: And he's being told that he's there for reasons that have to do with the Christian faith being suppressed.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10397
+Tags: relevance:core
+Investigative Direction: Obtain the Japan itinerary, host organizations and stated purpose of Kirk's Tokyo stop.
+
+---
+
+**C-8232** Host Says the McCoys Pushed Kirk to Go to Korea
+
+Claim Timestamp: 01:07:31
+
+Claim: The host says the way the Korea trip was pitched to Kirk was that Christians were suffering there, and that she does not think that is why the McCoys were pushing him to go.
+
+Transcript Snippet: But again, I don't think that's why the McCoys were pushing for Charlie to go to Korea because you know, they just got a Holocaust Museum.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10397
+Tags: relevance:core
+Investigative Direction: Find who invited Kirk to Build Up Korea and any correspondence between the McCoys and the organizers.
+
+---
+
+**C-8233** Host Says Kirk Was in Korea September 4 and 5 and Pastor Yoon Was Arrested September 9
+
+Claim Timestamp: 01:07:31
+
+Claim: The host says Pastor Yoon was arrested on September 9 and that Charlie Kirk was in Korea on September 4 and 5 for the Build Up Korea conference, so the arrest came days later.
+
+Transcript Snippet: He was arrested on September 9th. Now, to remind you, Charlie um was there on the 4th and the 5th for the Build Up Korea conference.
+
+Anchored Artifacts: A-1603.1
+Mentions: N-1, N-412
+Related Nodes: N-10397
+Supports: C-2040
+Tags: relevance:core
+Investigative Direction: Obtain the Build Up Korea program and Kirk's flight records and compare with the Korean court record for Yoon's arrest.
+
+---
+
+**C-8234** Chan Yoon Says Kirk Pledged to Use His Platform for the Pastor's Case
+
+Claim Timestamp: 01:10:00
+
+Claim: In the CBN clip, Chan Yoon says Charlie Kirk made sure he would use his platform and voice to let the world and America know what was happening in South Korea, as an example of what happens if you do not speak for biblical truth.
+
+Transcript Snippet: Charlie made sure that he will use his platform and his voice to let the whole world and America know that this is happening in South Korea
+
+Anchored Artifacts: A-1600.1
+Mentions: N-413, N-1, N-412
+Related Nodes: N-10397
+Supports: C-2041
+Tags: relevance:core
+Investigative Direction: Find Kirk's posts or shows after the Seoul trip in which he discussed Pastor Yoon.
+
+---
+
+**C-8235** CBN Says Advocates for Faith and Freedom Launched a Petition for Pastor Yoon
+
+Claim Timestamp: 01:10:00
+
+Claim: In the CBN clip, the reporter says the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Yoon's case.
+
+Transcript Snippet: the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son's case.
+
+Anchored Artifacts: A-1600.1
+Mentions: N-412
+Related Nodes: N-10397
+Tags: relevance:context
+Investigative Direction: Locate the petition and the organization's registration and funding.
+
+---
+
+**C-8236** Host Gives Her Best Guess That Kirk Was Killed After an Offer to Become the Next Moon
+
+Claim Timestamp: 01:12:10
+
+Claim: The host says her best guess today as to why Charlie Kirk was assassinated is that an offer came to him to become the next Moon, growing Turning Point from a hundred-million-dollar organization into a multi-billion-dollar one in real estate and business, working with the military and top politicians.
+
+Transcript Snippet: it's because an offer came to him uh to become the next Moon, to turn Turning Point, which is already a hundred million dollar organization into a multi-billion dollar um organization
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11175, N-10342, N-10000
+Supports: C-5012
+Tags: relevance:core
+Investigative Direction: Identify any documented offer, term sheet or donor proposal presented to Kirk and any witness to it.
+
+---
+
+**C-8237** Host Says Kirk Turned the Offer Down and His Lieutenants Might Have Betrayed Him
+
+Claim Timestamp: 01:13:08
+
+Claim: The host says her best guess is that this is what Charlie Kirk said no to, and that his lieutenants, seeing a big payday, might betray him for it.
+
+Transcript Snippet: I would imagine that if you're his lieutenants and you're thinking this is a lot of money, a big payday uh you might betray him.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11175
+Tags: relevance:core
+Investigative Direction: Identify who was told of any such offer and whether any financial gain accrued to TPUSA leaders after Kirk's death.
+
+---
+
+**C-8238** Host Says the Hand Signals and Sleeve Pull Were Not a Coincidence
+
+Claim Timestamp: 01:17:37
+
+Claim: Answering a viewer's question about Dan Flood's hand signals and a man in brown in the front row pulling his sleeves at the moment Kirk was shot, the host says she does not believe it was a coincidence and identifies the man as Rick Cutler.
+
+Transcript Snippet: I don't believe it was a coincidence.
+
+Anchored Artifacts: A-2923.1
+Mentions: N-276, N-498, N-1
+Tags: relevance:core
+Investigative Direction: Review UVU footage timestamps of Flood's gestures and Cutler's movements relative to the shot.
+
+---
+
+**C-8239** Host Says Rick Cutler Has a Complicated History Including DOD Ties
+
+Claim Timestamp: 01:17:37
+
+Claim: The host says Rick Cutler has a very complicated history, including a DOD history and a family history, that she has not yet gone into.
+
+Transcript Snippet: he has a very complicated history. We haven't even gone into him, uh his history of the DOD, his family's history.
+
+Anchored Artifacts: A-2923.1
+Mentions: N-498
+Tags: relevance:core
+Investigative Direction: Compile Cutler's employment, military and family background from public records.
+
+---
+
+**C-8240** Host Says an Operation to Assassinate Kirk Took Place and People Are Implicated
+
+Claim Timestamp: 01:17:37
+
+Claim: The host says she feels strongly that an operation to assassinate Charlie Kirk took place that day, that people are implicated, and that she believes she has discovered the why while the how remains under investigation.
+
+Transcript Snippet: I feel strongly that an operation to assassinate Charlie Kirk took place on that day and people are implicated.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:core
+Investigative Direction: Seek the evidentiary record she relies on for coordination and the people implicated.
+
+---
+
+**C-8241** Host Says She Has Been Communicating With John Bray Behind the Scenes
+
+Claim Timestamp: 01:18:26
+
+Claim: Responding to a viewer comment, the host says she has seen John Bray's work, finds it compelling, and has been communicating with him behind the scenes.
+
+Transcript Snippet: and I have been communicating with him behind the scenes.
+
+Anchored Artifacts: A-2923.2
+Mentions: N-696, N-3
+Tags: relevance:context
+Investigative Direction: Review Bray's published work and his own account of any contact with the host.
+
+---
+
+**C-8242** Host Says She Will Not Produce a Theory of the How Until She Is Certain
+
+Claim Timestamp: 01:18:26
+
+Claim: The host says that until she feels totally certain about how the assassination was accomplished she does not want to produce a theory, because she is under scrutiny, though she feels certain about the why.
+
+Transcript Snippet: until I feel totally certain about how it was accomplished, I don't want to produce a theory
+
+Anchored Artifacts: A-2923.2
+Mentions: N-3
+Tags: relevance:core
+Investigative Direction: Track whether the host later advances a specific method theory.
+
+---
+
+**C-8243** Host Says She Suggested Trafficking From the Route of the Egyptian Planes
+
+Claim Timestamp: 01:18:26
+
+Claim: The host says she suggested the motive was trafficking when she looked at the route of the Egyptian planes tracking Turning Point USA Faith and pastors for years.
+
+Transcript Snippet: I suggested uh that it was trafficking when I started looking at the route of the Egyptian planes
+
+Anchored Artifacts: A-2923.2
+Mentions: N-3
+Related Nodes: N-10253, N-10398
+Tags: relevance:core
+Investigative Direction: Compare her earlier episodes on the Egyptian planes with the trafficking suggestion.
+
+---
+
+**C-8244** Host Says the TPUSA Faith Push Came on Suddenly
+
+Claim Timestamp: 01:18:26
+
+Claim: The host says the faith push at Turning Point USA came on very suddenly and was not what she and Charlie were doing when they talked about free markets and capitalism.
+
+Transcript Snippet: this faith faith just came on very suddenly
+
+Anchored Artifacts: A-2923.2
+Mentions: N-1, N-3
+Related Nodes: N-10398
+Tags: relevance:core
+Investigative Direction: Compare TPUSA Faith's launch date with the organization's earlier messaging.
+
+---
+
+**C-8245** Host Says Paul Vallely Is on the Turning Point USA Advisory Board
+
+Claim Timestamp: 01:20:03
+
+Claim: Responding to a viewer comment, the host says Paul Vallely is on the advisory board of Turning Point USA and that she has looked into it and it is true.
+
+Transcript Snippet: Cuz Paul Vallely is also on the advisory board of Turning Point USA.
+
+Anchored Artifacts: A-2923.3
+Mentions: N-815, N-10000
+Tags: relevance:context
+Investigative Direction: Check TPUSA's website and archived board listings for Vallely.
+
+---
+
+**C-8246** Host Says Vallely Co-Wrote Mind War With Michael Aquino, an Avowed Satanist
+
+Claim Timestamp: 01:20:03
+
+Claim: Reading a viewer comment, the host says retired Army intelligence officer Paul Vallely co-wrote the book Mind War with Michael Aquino, an Army psychological operations officer and avowed Satanist.
+
+Transcript Snippet: He co-wrote the book Mind War with Michael Aquino Aquino who was an army intel psychological operations officer and an avowed Satanist.
+
+Anchored Artifacts: A-2923.3
+Mentions: N-815, N-460
+Tags: relevance:tangential
+Investigative Direction: Verify the authorship of Mind War and Vallely's and Aquino's military service.
+
+---
+
+**C-8247** Host Believes Vallely Has a Fort Huachuca Connection
+
+Claim Timestamp: 01:20:03
+
+Claim: The host says she believes Paul Vallely has some connection to Fort Huachuca and will add him to her military connections list.
+
+Transcript Snippet: I do believe that he has some connection to Fort Huachuca as well.
+
+Anchored Artifacts: A-2923.3
+Mentions: N-815, N-3
+Related Nodes: N-10739
+Supports: C-5388
+Tags: relevance:context
+Investigative Direction: Check Vallely's biography for Fort Huachuca assignments or affiliations.
+
+---
+
+**C-8248** Host Says a Dream at 4 A.M. Told Her to Look Into the Wilks Brothers
+
+Claim Timestamp: 01:22:28
+
+Claim: The host says she woke at 4 a.m. after a vivid dream and told her husband they had to look into the Wilks brothers, and that Village Crazy Lady then messaged her about the Seven Mountain Mandate and the Wilks brothers.
+
+Transcript Snippet: woke up at woke up at 4:00 a. m. in the morning and I said I just had a dream that we have to look into the Wilkes brothers.
+
+Anchored Artifacts: 
+Mentions: N-66, N-3
+Related Nodes: N-11102, N-10242
+Tags: relevance:tangential
+Investigative Direction: Ask Village Crazy Lady for the timing of the message she says she sent.
+
+---
+
+**C-8249** Host Says the Wilks Brothers Fund PragerU and the Daily Wire
+
+Claim Timestamp: 01:23:09
+
+Claim: The host says the Wilks brothers fund PragerU and the Daily Wire, and fund megachurches.
+
+Transcript Snippet: They do fund PragerU and they do fund the Daily Wire
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11102, N-10131
+Supports: C-6562
+Tags: relevance:context
+Investigative Direction: Review Wilks family giving records and Form 990 disclosures for PragerU and Daily Wire.
+
+---
+
+**C-8250** Host Says the Wilks Brothers Funded the Start of Rob McCoy's Church
+
+Claim Timestamp: 01:23:09
+
+Claim: The host says the Wilks brothers started Rob McCoy's church by funding it, and that she looked into it and found it true.
+
+Transcript Snippet: They started Rob McCoy's church actually. They funded it.
+
+Anchored Artifacts: 
+Mentions: N-17, N-3
+Related Nodes: N-11102
+Supports: C-6561
+Tags: relevance:context
+Investigative Direction: Find Godspeak Calvary Chapel's founding documents and donor disclosures.
+
+---
+
+**C-8251** Host Says Kirk Had Visions in 2018 That He Was Going to Die
+
+Claim Timestamp: 01:23:51
+
+Claim: The host says she imagines this is what Charlie was going through in 2018 when he was having visions that he was going to die, comparing it to the vivid dreams she has had since his death.
+
+Transcript Snippet: I imagine this is exactly what Charlie was going through in 2018 when when he was having visions that he was going to die.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:core
+Investigative Direction: Find Kirk's own public statements about visions or premonitions in 2018.
 
 ---
 

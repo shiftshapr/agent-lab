@@ -11,6 +11,11 @@
 - **Transcript SHA-256**: 33f8430dc8f4892645295e48cc30c6fac74bf7345b2f004f77e9048a964d135e
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10c): N-814, N-11162
+  - Hole-minted Nodes (reintro-ep045): N-368, N-10334, N-10367, N-10373, N-10540
+  - Tip-minted Nodes (reintro-ep045): N-10968
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10c): C-8066–C-8125
   - (see registers)
 
 # Episode 45 – Analysis Record
@@ -35,7 +40,7 @@
 - Artifact Families Introduced: A-1525, A-1526, A-1527, A-1528, A-1529, A-1530, A-1531, A-1532
 - Claim Range: C-1897–C-1911
   - New Nodes Introduced: N-10332, N-10333
-  - Reused Nodes Appearing: N-2, N-16, N-67
+  - Reused Nodes Appearing: N-2, N-16, N-67, N-17, N-46, N-55, N-162, N-194, N-224, N-272, N-273, N-284, N-10000, N-10006, N-10014, N-10025, N-10026, N-10197, N-10201, N-10253, N-10290, N-10326, N-11097
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Nef, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
 ---
@@ -215,6 +220,61 @@ Confidence Level: High
 
 ---
 
+**A-2918** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-2918.1** Host verbal reference to the tip email moretips at candaceowens.com in connection with the Candlewood Suites footage (verbal call for tips)
+
+Quoted text: "More tips at candace Owens. com is who you can send that tip to."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:59:22
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8125, N-3*
+
+---
+
+**A-2919** Tucker Carlson Theo Von Additional Clips Bundle
+
+**A-2919.1** Audio Clip: Tucker Carlson says he does not understand the official story at all and wants a rigorous, honest federal investigation
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:23:34
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8083, N-22, N-149*
+
+**A-2919.2** Audio Clip: Tucker Carlson questions that the suspect acted alone
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:27:27
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8088, N-22*
+
+**A-2919.3** Audio Clip: Tucker Carlson says he wants an explanation of the suspect's radicalization and of the claimed confession
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:29:23
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8089, N-22*
+
+**A-2919.4** Audio Clip: Tucker Carlson says he likes the host and invites critics to offer a more plausible explanation
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:30:08
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-8090, N-22, N-3*
+
+---
+
 ## IV. Node Register
 
 **N-1** Charlie Kirk
@@ -289,6 +349,263 @@ Node Type: Person
 Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.
 
 *Related: C-1900*
+
+---
+
+**N-3** Candace Owens
+
+Host, speaks for herself.
+
+*Related: C-8066, C-8078, C-8080, C-8081, C-8084, C-8087, C-8090, C-8092, C-8096, C-8097, C-8098, C-8099, C-8101, C-8102, C-8106, C-8107, C-8108, C-8109, C-8110, C-8111, C-8112, C-8114, C-8118, C-8120, C-8121, C-8123, C-8125*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO whose Fox interview, town hall remarks and public appearances are discussed.
+
+*Related: C-8066, C-8067, C-8069, C-8070, C-8071, C-8072, C-8073, C-8074, C-8077, C-8078, C-8079, C-8082, C-8084, C-8091, C-8092, C-8093, C-8094, C-8121, C-8122*
+
+---
+
+**N-814** Harris Faulkner
+
+First named by the host at 00:00:00 in episode 45 (transcript spells it Harris Falner and Harris Faulner). Fox News anchor who interviewed Erika Kirk.
+
+*Related: C-8066, C-8068*
+
+---
+
+**N-224** Milo Yiannopoulos
+
+Named as asserting Charlie Kirk has not been buried.
+
+*Related: C-8068*
+
+---
+
+**N-46** Megyn Kelly
+
+One of the shows Erika Kirk appeared on.
+
+*Related: C-8072*
+
+---
+
+**N-284** Bari Weiss
+
+CBS interviewer for Erika Kirk's town hall.
+
+*Related: C-8073, C-8091, C-8093, C-8094*
+
+---
+
+**N-17** Rob McCoy
+
+Pastor named in the host's remarks on a clip and Charlie Kirk's favorite pastor.
+
+*Related: C-8076, C-8095*
+
+---
+
+**N-273** Tim Pool
+
+Host says he told critics they are evil.
+
+*Related: C-8081*
+
+---
+
+**N-22** Tucker Carlson
+
+His Theo Von remarks on the FBI and the Egyptian planes.
+
+*Related: C-8082, C-8083, C-8084, C-8085, C-8086, C-8087, C-8088, C-8089, C-8090*
+
+---
+
+**N-149** Theo Von
+
+Interviewer in the Tucker Carlson podcast clips.
+
+*Related: C-8083, C-8088*
+
+---
+
+**N-194** Mikey McCoy
+
+Named in the host's account of Charlie Kirk's last messages.
+
+*Related: C-8095*
+
+---
+
+**N-55** Josh Hammer
+
+His book is cited in the host's account of Charlie Kirk's last messages.
+
+*Related: C-8095*
+
+---
+
+**N-162** Blake Neff
+
+Host says she is interested in his military connections.
+
+*Related: C-8119*
+
+---
+
+**N-368** Harry
+
+The Fort Huachuca witness whose account, documentation and identification of Captain Nef are discussed.
+
+*Related: C-8096, C-8097, C-8098, C-8099, C-8102, C-8103, C-8104, C-8105, C-8106, C-8109, C-8110, C-8111, C-8114, C-8123, C-8124*
+
+---
+
+**N-272** Brian Harpole
+
+The person Harry says he saw at the Fort Huachuca meeting.
+
+*Related: C-8123*
+
+---
+
+**N-10000** Turning Point USA
+
+Organization whose fundraising, staff and statements are discussed.
+
+*Related: C-8070, C-8071, C-8074, C-8075, C-8076, C-8077, C-8079, C-8080*
+
+---
+
+**N-10006** Fox News
+
+Network of Erika Kirk's interview and other appearances.
+
+*Related: C-8066, C-8067, C-8072, C-8119*
+
+---
+
+**N-10968** The New York Times
+
+Outlet where Erika Kirk sat for an interview.
+
+*Related: C-8072*
+
+---
+
+**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy
+
+Existing topic reused for the burial-location claims.
+
+*Related: C-8068, C-8069*
+
+---
+
+**N-10253** Egyptian Military Plane Tracking Investigation
+
+Existing topic reused for new claims.
+
+*Related: C-8084, C-8087, C-8091, C-8092, C-8122*
+
+---
+
+**N-10334** CBS Bari Weiss Town Hall Production Integrity
+
+Existing topic reused for town hall claims.
+
+*Related: C-8073, C-8091, C-8093, C-8094*
+
+---
+
+**N-11097** TPUSA Post-Assassination Fundraising Claim
+
+Existing topic reused for the host's fundraising figures.
+
+*Related: C-8074, C-8075*
+
+---
+
+**N-10026** Israel
+
+Place/topic referenced in Erika Kirk's town hall remarks.
+
+*Related: C-8094*
+
+---
+
+**N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+
+Existing topic reused for new claims.
+
+*Related: C-8096, C-8097, C-8099, C-8100, C-8101, C-8104, C-8105, C-8106, C-8109, C-8110, C-8111, C-8114*
+
+---
+
+**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+
+Existing topic reused for new claims.
+
+*Related: C-8098, C-8102, C-8103*
+
+---
+
+**N-10014** Federal Bureau of Investigation
+
+Subject of Tucker Carlson's remarks.
+
+*Related: C-8082, C-8083, C-8085, C-8088, C-8089*
+
+---
+
+**N-10540** Tucker Carlson CIA Investigation
+
+Existing topic reused for the host's remark on his father.
+
+*Related: C-8086*
+
+---
+
+**N-10197** TPUSA Military-Personnel Network
+
+Existing topic reused for the host's interest in Neff's military ties.
+
+*Related: C-8119*
+
+---
+
+**N-10290** French Foreign Legion US Training August 2025
+
+Existing topic reused for the host's Foreign Legion information.
+
+*Related: C-8121*
+
+---
+
+**N-10025** Israel Lobby Pressure on Conservative Figures
+
+Existing topic reused for the host's pressure remark.
+
+*Related: C-8117*
+
+---
+
+**N-10373** Brian Harpole Fort Huachuca Presence Verification
+
+Existing topic reused for new claims.
+
+*Related: C-8123*
+
+---
+
+**N-11162** Erika Kirk Egyptian Plane Pregnancy Response
+
+Node Type: Topic
+Erika Kirk's statement at the Bari Weiss town hall, as reported by the host, that she was pregnant while the Egyptian planes were flying and has photo proof she was not aboard, and the host's reply that she never said Erika was aboard.
+
+*Related: C-8091, C-8092*
 
 ---
 
@@ -492,6 +809,990 @@ Investigative Direction: Track pattern of Erika Kirk's public appearances to det
 
 ---
 
+**C-8066** Host Says Erika Kirk Gave Live Fox News Interview With Harris Faulkner on the Conspiracies
+
+Claim Timestamp: 00:00:00
+
+Claim: The host says Erika Kirk gave a live interview with Harris Faulkner on Fox News in which she addressed what the host calls the "conspiracy theories."
+
+Transcript Snippet: she just gave an interview live with Harris Falner on Fox News where she finally addressed the quote unquote conspiracy theories.
+
+Anchored Artifacts: 
+Mentions: N-814, N-2, N-3
+Related Nodes: N-10006
+Tags: relevance:core
+Investigative Direction: Obtain the Fox News broadcast date, transcript and video of the Faulkner interview.
+
+---
+
+**C-8067** Host Says Charlie Kirk's Posthumous Book About the Sabbath Is Coming Out
+
+Claim Timestamp: 00:01:54
+
+Claim: The host says Charlie Kirk's posthumous book, which she describes as being about the Sabbath, is about to be released and that Erika Kirk is sitting down with news anchors as it comes out.
+
+Transcript Snippet: because Charlie's book, this posthom humus book is coming out about the Sabbath
+
+Anchored Artifacts: 
+Mentions: N-1, N-2
+Related Nodes: N-10006
+Tags: relevance:context
+Investigative Direction: Check the publisher's announcement for the book title, subject and release date.
+
+---
+
+**C-8068** Host Says Milo Yiannopoulos and Others Assert Charlie Has Not Been Buried
+
+Claim Timestamp: 00:02:46
+
+Claim: The host says Milo Yiannopoulos and a few others have asserted with absolute certainty that Charlie Kirk has not yet been buried and say they have proof, and that this prompted Harris Faulkner's question about where he is buried.
+
+Transcript Snippet: Milo Yiannopoulos and a few others have asserted with absolute certainty that Charlie has not yet been buried.
+
+Anchored Artifacts: 
+Mentions: N-224, N-1, N-814
+Related Nodes: N-10201
+Tags: relevance:context
+Investigative Direction: Obtain Yiannopoulos's posts and any claimed proof, and compare with cemetery or funeral records.
+
+---
+
+**C-8069** Erika Kirk Says She Fears a Secular Revolutionary Destroying the Grave
+
+Claim Timestamp: 00:03:31
+
+Claim: In the Fox clip Erika Kirk says she does not want to worry about "some secular revolutionary" coming to destroy her husband's grave while her daughter prays there.
+
+Transcript Snippet: where I don't have to be worried about some secular revolutionary coming and destroying my husband's grave while my daughter is sitting there praying
+
+Anchored Artifacts: A-1525.1
+Mentions: N-2, N-1
+Related Nodes: N-10201
+Tags: relevance:core
+Investigative Direction: Review the full Fox News clip and any reported threats or vandalism against Kirk-related sites.
+
+---
+
+**C-8070** Erika Kirk Says TPUSA Sends Every Lead to the Authorities
+
+Claim Timestamp: 00:08:26
+
+Claim: In the Fox clip Erika Kirk says that whenever she and TPUSA hear a lead or anything, they send it to the authorities.
+
+Transcript Snippet: Anytime we hear a lead or anytime we hear anything, we send it to the authorities.
+
+Anchored Artifacts: A-1525.2
+Mentions: N-2
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Ask TPUSA or Erika Kirk's office for a log of leads forwarded to law enforcement and the agencies that received them.
+
+---
+
+**C-8071** Erika Kirk Says Critics Make Hundreds and Thousands of Dollars Per Episode
+
+Claim Timestamp: 00:09:11
+
+Claim: In the Fox clip Erika Kirk says people going after those she loves are making hundreds and thousands of dollars every single episode.
+
+Transcript Snippet: you're making hundreds and thousands of dollars every single episode going after the people that I love because somehow they're in on this.
+
+Anchored Artifacts: A-1525.2
+Mentions: N-2
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Review the full clip; revenue claims about named creators could be checked against platform payout disclosures.
+
+---
+
+**C-8072** Host Lists Erika Kirk's Post-Assassination Media Appearances
+
+Claim Timestamp: 00:09:11
+
+Claim: The host says Erika Kirk has appeared on Hannity, The Five, Fox and Friends, Outnumbered and Megyn Kelly Live and sat down with the New York Times, and uses this to argue she has time to respond.
+
+Transcript Snippet: she's done Hannity. She's done The Five. She's done Fox and Friends. She's done Outnumbered. She's done Megan Kelly Live. She sat down with the New York Times.
+
+Anchored Artifacts: 
+Mentions: N-2, N-46
+Related Nodes: N-10006, N-10968
+Tags: relevance:core
+Investigative Direction: Compile air dates of each appearance from network schedules and published transcripts.
+
+---
+
+**C-8073** Host Says Erika Kirk's Bari Weiss CBS Town Hall Was Filmed Today
+
+Claim Timestamp: 00:11:40
+
+Claim: The host says Erika Kirk's upcoming CBS News town hall with Bari Weiss was filmed on the day of this episode.
+
+Transcript Snippet: She has also made time for an upcoming CBS News town hall sit down with Barry Weiss which was filmed today.
+
+Anchored Artifacts: 
+Mentions: N-2, N-284
+Related Nodes: N-10334
+Tags: relevance:core
+Investigative Direction: Check CBS for the taping date and air date of the town hall.
+
+---
+
+**C-8074** Host Says TPUSA Raised $40 Million at Mar-a-Lago Two Nights Earlier
+
+Claim Timestamp: 00:12:39
+
+Claim: The host says Turning Point USA made about $40 million at Mar-a-Lago two nights before this episode.
+
+Transcript Snippet: you know they made 40 40 million like two nights ago at Mara Lago
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10000, N-11097
+Tags: relevance:core
+Investigative Direction: Obtain event ticketing, pledge records or TPUSA statements on the Mar-a-Lago event proceeds.
+
+---
+
+**C-8075** Host Says TPUSA Took In More Than $100 Million Beyond Mar-a-Lago, About $140 Million Total
+
+Claim Timestamp: 00:12:39
+
+Claim: The host says that since Charlie Kirk's death TPUSA has made more than $100 million separate from the $40 million at Mar-a-Lago, so about $140 million in total.
+
+Transcript Snippet: has made more than $100 million that is separate from the $40 million they made at Marago the other night.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10000, N-11097
+Tags: relevance:core
+Investigative Direction: Compare with TPUSA's Form 990 filings, donor disclosures and public fundraising statements.
+
+---
+
+**C-8076** Host Says a Clip Shows Rob McCoy Defending a Pedophile
+
+Claim Timestamp: 00:14:30
+
+Claim: The host says TPUSA is shielding people she calls "fam" and refers to a clip of Rob McCoy defending a pedophile or trying to launder a reputation.
+
+Transcript Snippet: showing a clip of of Rob McCoy defending a pedophile or trying to like launder reputation
+
+Anchored Artifacts: 
+Mentions: N-17
+Related Nodes: N-10000
+Supports: C-5071
+Tags: relevance:context
+Investigative Direction: Identify the clip and the individual involved, and review McCoy's public statements about that person.
+
+---
+
+**C-8077** Host Says Erika Kirk Did Not Respond to Any of the Conspiracy Claims
+
+Claim Timestamp: 00:15:19
+
+Claim: The host says that in the Fox interview Erika Kirk did not respond to even one of the conspiracy claims and instead offered emotion.
+
+Transcript Snippet: No, she didn't even respond to one of the conspiracies. She gave us emotion.
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Review the full Fox interview transcript and list any specific allegations Erika addressed.
+
+---
+
+**C-8078** Host Says Critics Posted Matching Videos Within Four Seconds of Each Other
+
+Claim Timestamp: 00:15:19
+
+Claim: The host says every person telling viewers to stop asking questions made the same video, titled along the lines of "Erika Kirk shuts down" the conspiracies, within four seconds of each other, which she calls an obvious PR campaign.
+
+Transcript Snippet: having every single person that has been telling us to stop asking questions all make the exact same video within 4 seconds of each other
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Collect the upload timestamps of the named videos to test the four-second claim.
+
+---
+
+**C-8079** Host Says Charlie Kirk Built TPUSA Without a College Degree
+
+Claim Timestamp: 00:16:23
+
+Claim: The host says Charlie Kirk built the company without going to college and had been doing so for over a decade.
+
+Transcript Snippet: I didn't even go to college and I've been doing this for over a decade as Charlie Kirk did.
+
+Anchored Artifacts: 
+Mentions: N-1, N-2
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Confirm Charlie Kirk's education history and TPUSA founding date from biographies and filings.
+
+---
+
+**C-8080** Host Says Her Team Compiled 20 Verifiable TPUSA Lies
+
+Claim Timestamp: 00:20:59
+
+Claim: The host says her team put together a list of 20 verifiable lies told in the weeks after Charlie Kirk's death.
+
+Transcript Snippet: We put together a list of 20 verifiable lies. that have been told in the weeks following this sudden death event.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000
+Supports: C-6601
+Tags: relevance:core
+Investigative Direction: Obtain the list of 20 lies and test each against primary records.
+
+---
+
+**C-8081** Host Says Tim Pool Went on Air Telling Her Critics They Are Evil
+
+Claim Timestamp: 00:20:59
+
+Claim: The host says Tim Pool went on the airwaves telling the host and her audience they are evil for pursuing their questions.
+
+Transcript Snippet: Tim Pool jumping on the airwaves with big estrogen energy telling us we're evil
+
+Anchored Artifacts: 
+Mentions: N-273, N-3
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Locate the Tim Pool broadcast and check what he said about the host's coverage.
+
+---
+
+**C-8082** Host Says Tucker Carlson Is Friends With Erika Kirk
+
+Claim Timestamp: 00:22:27
+
+Claim: The host says Tucker Carlson is friends with Erika Kirk but is nonetheless challenging what the FBI has said about the case.
+
+Transcript Snippet: He is friends with Erika, but just the nonsense of what the FBI is saying.
+
+Anchored Artifacts: 
+Mentions: N-22, N-2
+Related Nodes: N-10014
+Tags: relevance:context
+Investigative Direction: Check public statements by Carlson or Erika Kirk describing their relationship.
+
+---
+
+**C-8083** Tucker Carlson Says He Does Not Understand the Official Story
+
+Claim Timestamp: 00:23:34
+
+Claim: In the Theo Von clip Tucker Carlson says he does not understand the official story at all and wants a rigorous, honest federal investigation.
+
+Transcript Snippet: I don't understand the official story at all. Uh, I assure that there is a like a truly rigorous and honest federal investigation of it.
+
+Anchored Artifacts: A-2919.1
+Mentions: N-22, N-149
+Related Nodes: N-10014
+Tags: relevance:core
+Investigative Direction: Review the Theo Von episode for the full exchange and its release date.
+
+---
+
+**C-8084** Tucker Carlson Says He Has No Idea What the Egyptian Aircraft Facts Mean
+
+Claim Timestamp: 00:24:32
+
+Claim: In the Theo Von clip Tucker Carlson says that although the Egyptian-aircraft claim is true, he has "literally no idea" what it means and cannot guess.
+
+Transcript Snippet: I have literally no idea. I can't even guess but that's very very strange.
+
+Anchored Artifacts: A-1528.1
+Mentions: N-22, N-2, N-3
+Related Nodes: N-10253
+Qualifies: C-1901
+Tags: relevance:core
+Investigative Direction: Ask Carlson what basis he has for calling the Egyptian-registration claim true and whether he saw flight records.
+
+---
+
+**C-8085** Tucker Carlson Says the FBI Has a Moral and Legal Obligation to Look in Every Direction
+
+Claim Timestamp: 00:24:32
+
+Claim: In the Theo Von clip Tucker Carlson says the FBI has a moral and legal obligation to look in every direction and be open-minded, as in any investigation, journalism or science.
+
+Transcript Snippet: the FBI has a moral and legal obligation to to look in every direction and to be open-minded as you would in any investigation
+
+Anchored Artifacts: A-1528.2
+Mentions: N-22
+Related Nodes: N-10014
+Tags: relevance:context
+Investigative Direction: Compare with FBI public statements on lines of inquiry pursued.
+
+---
+
+**C-8086** Host Says Tucker Carlson's Father Was on the CIA Payroll
+
+Claim Timestamp: 00:25:45
+
+Claim: The host says Tucker Carlson learned after his father died that his father was on the CIA payroll, and that Carlson grew up around CIA agents.
+
+Transcript Snippet: His father, he learns after his father died, he thought he was just working with the CIA. No, his father was on the payroll of the CIA.
+
+Anchored Artifacts: 
+Mentions: N-22
+Related Nodes: N-10540
+Tags: relevance:tangential
+Investigative Direction: Check Carlson's own public statements and published biographies about his father's work.
+
+---
+
+**C-8087** Host Says Carlson's Confirmation Means NSA and CIA Sources Confirm the Egyptian Planes
+
+Claim Timestamp: 00:26:30
+
+Claim: The host says that because Tucker Carlson's friends are in the state, his confirmation means people in the NSA and CIA are confirming the Egyptian-plane facts are real.
+
+Transcript Snippet: And that means people in the NSA, the CIA are confirming that that is real.
+
+Anchored Artifacts: 
+Mentions: N-22, N-3
+Related Nodes: N-10253
+Supports: C-1901
+Tags: relevance:core
+Investigative Direction: Ask Carlson whether his confirmation came from government sources or from the host's published flight data.
+
+---
+
+**C-8088** Tucker Carlson Questions That the Suspect Acted Alone
+
+Claim Timestamp: 00:27:27
+
+Claim: In the Theo Von clip Tucker Carlson says he does not accept as a default that the suspect acted alone and says that has to be proven.
+
+Transcript Snippet: One, he acted alone. Tell me how that worked.
+
+Anchored Artifacts: A-2919.2
+Mentions: N-22, N-149
+Related Nodes: N-10014
+Tags: relevance:core
+Investigative Direction: Compare with the charging documents on whether any accomplice is alleged.
+
+---
+
+**C-8089** Tucker Carlson Says He Wants an Explanation of How the Suspect Was Radicalized
+
+Claim Timestamp: 00:29:23
+
+Claim: In the Theo Von clip Tucker Carlson says he is not claiming the shooting did not happen but wants an explanation for how the suspect became radicalized enough to murder a stranger.
+
+Transcript Snippet: I'm not saying it didn't happen. I'm saying I want an explanation for how it happened.
+
+Anchored Artifacts: A-2919.3
+Mentions: N-22
+Related Nodes: N-10014
+Tags: relevance:core
+Investigative Direction: Review prosecution filings for any evidence of the suspect's radicalization path.
+
+---
+
+**C-8090** Tucker Carlson Says He Likes the Host and Does Not Think She Is Bad
+
+Claim Timestamp: 00:30:08
+
+Claim: In the Theo Von clip Tucker Carlson says he likes the host a lot and does not think she is bad, though he does not agree with some of the rabbit hole she goes down.
+
+Transcript Snippet: I mean, I like her a lot. I don't think she's bad, but I love her actually
+
+Anchored Artifacts: A-2919.4
+Mentions: N-22, N-3
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Review the full Theo Von exchange for Carlson's stated disagreements.
+
+---
+
+**C-8091** Host Says Erika Kirk Told the Bari Weiss Town Hall She Was Pregnant and Not on the Egyptian Planes
+
+Claim Timestamp: 00:35:40
+
+Claim: The host says Erika Kirk said at the Bari Weiss town hall that she was pregnant when the Egyptian planes were flying and following her, so she was not on them, and that she has photo proof.
+
+Transcript Snippet: One, Erika said she was pregnant when the Egyptian planes were flying and following her, so she wasn't on them. She said she has photo proof.
+
+Anchored Artifacts: 
+Mentions: N-2, N-284
+Related Nodes: N-11162, N-10253, N-10334
+Tags: relevance:core
+Investigative Direction: Obtain the CBS town hall footage and the photos Erika Kirk says prove she was pregnant and elsewhere.
+
+---
+
+**C-8092** Host Says She Never Claimed Erika Was On the Egyptian Planes
+
+Claim Timestamp: 00:35:40
+
+Claim: The host says she never said Erika Kirk was aboard the Egyptian planes and that she first feared the planes were following Charlie, then learned they had also been following Erika.
+
+Transcript Snippet: I never said you were on the planes. Why would I think you were on the Egyptian planes?
+
+Anchored Artifacts: 
+Mentions: N-2, N-3, N-1
+Related Nodes: N-11162, N-10253
+Supports: C-5075
+Tags: relevance:core
+Investigative Direction: Check the host's earlier episodes on the planes to confirm she framed them as following, not carrying, Erika.
+
+---
+
+**C-8093** Host Says Erika Kirk Answered Bari Weiss's Conspiracy Question With Stop
+
+Claim Timestamp: 00:35:40
+
+Claim: The host says that when Bari Weiss asked about the conspiracies and what Erika would say to those voicing them, Erika Kirk answered "Stop."
+
+Transcript Snippet: Erika said, "Stop." No.
+
+Anchored Artifacts: 
+Mentions: N-2, N-284
+Related Nodes: N-10334
+Tags: relevance:core
+Investigative Direction: Obtain the town hall footage and exact wording of Weiss's question and Erika's answer.
+
+---
+
+**C-8094** Host Says Erika Kirk Spoke Well of Jews and Said TPUSA Is Having Shabbat Dinner
+
+Claim Timestamp: 00:35:40
+
+Claim: The host says Erika Kirk, not speaking about the host, talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.
+
+Transcript Snippet: she talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.
+
+Anchored Artifacts: 
+Mentions: N-2, N-284
+Related Nodes: N-10026, N-10334
+Tags: relevance:context
+Investigative Direction: Obtain the town hall footage and the passage about Israel, Jews and Shabbat dinner.
+
+---
+
+**C-8095** Host Characterizes Charlie Kirk's Final Messages as Praising Mikey McCoy and Rob McCoy, Plugging Hammer's Book and Urging Him to Be a Jew
+
+Claim Timestamp: 00:37:12
+
+Claim: The host says, sarcastically, that in his last days Charlie Kirk wanted people to know Mikey McCoy is fantastic, Rob McCoy was his favorite pastor, to buy Josh Hammer's book, and to just be a Jew, and calls these his last words.
+
+Transcript Snippet: that Rob McCoy was his favorite pastor. Um, and that you should buy Josh Hammer's book. He also wants you to know to just be a Jew.
+
+Anchored Artifacts: 
+Mentions: N-1, N-194, N-17, N-55
+Related Nodes: 
+Supports: C-1412
+Tags: relevance:core
+Investigative Direction: Identify the source messages or communications behind each of these reported last statements.
+
+---
+
+**C-8096** Host Says Her Earlier E4 and E3 Rank Was Her Transcription Error and Harry Said O-6
+
+Claim Timestamp: 00:37:59
+
+Claim: The host says she misspoke the day before when she said E4 and E3, that her notes show the witness said O-6, and that she introduced the error when transferring notes after Googling and editing what she thought she heard.
+
+Transcript Snippet: I think I made the mistake when I transferred my notes because he said uh colonels or captains.
+
+Anchored Artifacts: 
+Mentions: N-3, N-368
+Related Nodes: N-10326
+Qualifies: C-1886
+Tags: relevance:core
+Investigative Direction: Compare the host's raw call notes with the published account to confirm the rank given.
+
+---
+
+**C-8097** Host Says the Call With Harry Lasted Over an Hour
+
+Claim Timestamp: 00:37:59
+
+Claim: The host says her phone conversation with the Fort Huachuca witness lasted more than one hour.
+
+Transcript Snippet: it was over a 1-hour phone call
+
+Anchored Artifacts: 
+Mentions: N-3, N-368
+Related Nodes: N-10326
+Tags: relevance:context
+Investigative Direction: Request the call log or recording metadata from the host's team.
+
+---
+
+**C-8098** Host Says Harry Gave Her the Card He Swiped to Enter the Base and Her Team Confirmed His Account
+
+Claim Timestamp: 00:39:36
+
+Claim: The host says her team confirmed everything the witness said was real and that he gave her the card he swiped to enter the base.
+
+Transcript Snippet: we were able to confirm everything he said was real. He gave us his card that he swiped on to the base
+
+Anchored Artifacts: 
+Mentions: N-3, N-368
+Related Nodes: N-10367
+Supports: C-1885
+Tags: relevance:core
+Investigative Direction: Request base access-control or visitor records for September 8-9, 2025.
+
+---
+
+**C-8099** Host Says Viewer Emails Led to the Adam Nef Photo Identification
+
+Claim Timestamp: 00:39:36
+
+Claim: The host says the witness did not know Captain Nef's first name; as viewers' emails came in she sent him picture options, and when someone supplied the name Adam Nef he confirmed it was the correct person.
+
+Transcript Snippet: I sent picture options to him as your emails were coming in
+
+Anchored Artifacts: 
+Mentions: N-326, N-368, N-3
+Related Nodes: N-10326
+Qualifies: C-1907
+Tags: relevance:core
+Investigative Direction: Independently verify Adam Nef's identity and assignment through Army records.
+
+---
+
+**C-8100** Host Says the 10th Mountain Division Is the New York Division and Fits Nef Leading the Interrogation
+
+Claim Timestamp: 00:39:36
+
+Claim: The host says Adam Nef led the interrogation and that the identification checks out because the 10th Mountain Division is the division from New York.
+
+Transcript Snippet: it checks out because that is the division from New York.
+
+Anchored Artifacts: 
+Mentions: N-326
+Related Nodes: N-10326
+Supports: C-1907
+Tags: relevance:core
+Investigative Direction: Check Army records for Captain Adam Nef's unit and whether any 10th Mountain element was at Fort Huachuca on September 9, 2025.
+
+---
+
+**C-8101** Host Says She Knows the Exact SCIF Building but Is Withholding It
+
+Claim Timestamp: 00:40:52
+
+Claim: The host says she knows the exact building JTF is using at Fort Huachuca and is not naming it to avoid violating national security, and that it is effectively unmarked because JTF is borrowing it.
+
+Transcript Snippet: I'm not going to name the building. I know the exact one because I don't want to uh I don't accidentally violate national security
+
+Anchored Artifacts: A-1532.1
+Mentions: N-3
+Related Nodes: N-10326
+Supports: C-1908
+Tags: relevance:core
+Investigative Direction: Ask the host's sources to confirm the building through a trusted intermediary or public base maps.
+
+---
+
+**C-8102** Host Says Harry Sent Passports, Military ID, Hotel Records, Texts and Call Logs
+
+Claim Timestamp: 00:40:52
+
+Claim: The host says the witness sent her extensive documentation, including his old and new passport, military ID card, hotels, books, times, text messages and phone call logs with his wife.
+
+Transcript Snippet: his old passport, his new passport, his military ID card, hotels, books, times, text messages, phone call logs with his wife
+
+Anchored Artifacts: 
+Mentions: N-3, N-368
+Related Nodes: N-10367
+Tags: relevance:core
+Investigative Direction: Have an independent party review the documentation and verify the hotel and time records.
+
+---
+
+**C-8103** Host Says Harry Found a Cartel Tunnel at 20 and Is Now 56
+
+Claim Timestamp: 00:40:52
+
+Claim: The host says the witness found a cartel tunnel when he was 20 and is now 56.
+
+Transcript Snippet: First, he finds this this cartel tunnel when he's 20. Now, we fast forward, he's 56
+
+Anchored Artifacts: 
+Mentions: N-368
+Related Nodes: N-10367
+Supports: C-1880
+Tags: relevance:context
+Investigative Direction: Check military records for the witness's 1990 assignment and his date of birth.
+
+---
+
+**C-8104** Host Says the Group Panicked When Harry Walked Into the Building
+
+Claim Timestamp: 00:40:52
+
+Claim: The host says the group panicked when the witness walked in, because he should not have known the building was there, and did not buy his excuse.
+
+Transcript Snippet: It also, by the way, does provide an explanation for why they panicked when he just walked in there
+
+Anchored Artifacts: 
+Mentions: N-368
+Related Nodes: N-10326
+Tags: relevance:core
+Investigative Direction: Obtain the military police incident report and ask Captain Nef about the stated reason for detaining him.
+
+---
+
+**C-8105** Host Says Harry Was Allowed to Leave After Seven Hours
+
+Claim Timestamp: 00:40:52
+
+Claim: The host says that about seven hours later the witness was allowed to leave, or Captain Nef allowed him to leave.
+
+Transcript Snippet: It's, you know, 7 hours later, they allowed him to leave or or Captain Nef allowed him to leave.
+
+Anchored Artifacts: 
+Mentions: N-368, N-326
+Related Nodes: N-10326
+Supports: C-1888
+Tags: relevance:core
+Investigative Direction: Request the military police incident record for the detention start and end times.
+
+---
+
+**C-8106** Host Says Harry Said That Many Senior Officers Implied a High-Ranking Congressional Member or Executive
+
+Claim Timestamp: 00:40:52
+
+Claim: The host says the witness told her seeing that many senior officers is not common unless a high-ranking congressional member or someone close to the president or vice president was involved.
+
+Transcript Snippet: he specifically said there were some high ranking congressional member or someone close to like you the president like a via the vice president
+
+Anchored Artifacts: 
+Mentions: N-368, N-3
+Related Nodes: N-10326
+Supports: C-1886
+Tags: relevance:core
+Investigative Direction: Ask the witness on the record what he saw and why he drew that inference.
+
+---
+
+**C-8107** Host Says She Fact-Checked the Plane Tip Email and It Is True
+
+Claim Timestamp: 00:43:18
+
+Claim: The host says her team fact-checked the tip email about the Gulfstream flight and found it true, and that they do not simply accept tips.
+
+Transcript Snippet: we have fact checked it is true trust us to fact check stuff.
+
+Anchored Artifacts: A-1529.1
+Mentions: N-3
+Related Nodes: N-10332
+Supports: C-1905
+Tags: relevance:core
+Investigative Direction: Obtain the ADS-B or flight-history records the team used to verify the tail number and dates.
+
+---
+
+**C-8108** Host Says El Paso Was the Origin of Weird Flights on the Day of the Assassination
+
+Claim Timestamp: 00:44:18
+
+Claim: The host says El Paso, Texas is where all the weird flights were coming from on the day of Charlie Kirk's assassination, so the plane's stop there is compelling.
+
+Transcript Snippet: El Paso, Texas is where all those weird flights were coming from on the day of Charlie Cook's assassination.
+
+Anchored Artifacts: A-1529.1
+Mentions: N-1, N-3
+Related Nodes: N-10332
+Tags: relevance:core
+Investigative Direction: Pull flight-tracking history for El Paso departures on September 10, 2025.
+
+---
+
+**C-8109** Host Says the Plane Tip Matches Harry's Timeline Exactly
+
+Claim Timestamp: 00:44:18
+
+Claim: The host says the plane's movements mean the timeline the witness gave is exactly right, with the meeting early in the morning at about 7:37.
+
+Transcript Snippet: the timeline that he gave us is exactly right.
+
+Anchored Artifacts: A-1529.1
+Mentions: N-368, N-3
+Related Nodes: N-10326, N-10332
+Supports: C-1885
+Tags: relevance:core
+Investigative Direction: Compare the tip's flight times against the witness's reported 7:37 AM entry and later detention.
+
+---
+
+**C-8110** Host Says Harry Plans to Go Public and She Is Helping Him Find a Show
+
+Claim Timestamp: 00:44:18
+
+Claim: The host says the witness is planning to come out on podcasts and that she will help him this weekend choose whose show to go on.
+
+Transcript Snippet: having spoken to this individual who is planning to come out and do podcasts and speak about that.
+
+Anchored Artifacts: 
+Mentions: N-368, N-3
+Related Nodes: N-10326
+Tags: relevance:context
+Investigative Direction: Follow later episodes and podcasts for the witness's public appearances.
+
+---
+
+**C-8111** Host Says Harry Rose From 60 to 65 Percent Certainty to 100 Percent on Nef
+
+Claim Timestamp: 00:45:37
+
+Claim: The host says the witness first put the chance a name was the interrogator at about 60 to 65 percent and became 100 percent certain once she gave him the correct Nef.
+
+Transcript Snippet: I would put that at about maybe 65 60 to 65% that it could be this person until I gave him the correct nef and he was like 100% that's the guy um that questioned me.
+
+Anchored Artifacts: 
+Mentions: N-326, N-368, N-3
+Related Nodes: N-10326
+Qualifies: C-1907
+Tags: relevance:core
+Investigative Direction: Have the witness identify the captain from an unlabeled photo array in a documented process.
+
+---
+
+**C-8112** Tipster Email Says the Plane Left Fort Huachuca at 11:43 AM on September 9
+
+Claim Timestamp: 00:47:10
+
+Claim: According to the tipster email read by the host, the aircraft left at 11:43 a.m. on the 9th, which the tipster says could line up with the witness's morning sighting; the earlier reading of the email gave a 12:31 p.m. departure.
+
+Transcript Snippet: it could line up well with what this air that with this aircraft leaving at 11:43 a. m. on the 9th.
+
+Anchored Artifacts: A-1529.1
+Mentions: N-3
+Related Nodes: N-10332
+Qualifies: C-1905
+Tags: relevance:core
+Investigative Direction: Reconcile the 11:43 a.m. and 12:31 p.m. times against ADS-B and FAA records.
+
+---
+
+**C-8113** Tipster Email Says It Is the Only Time the Plane Was Noticed at Fort Huachuca
+
+Claim Timestamp: 00:47:10
+
+Claim: According to the tipster email, this is the only time the writer has noticed the C-37A at Fort Huachuca.
+
+Transcript Snippet: This is the only time that I have noticed that this plane was in Fort Wuka.
+
+Anchored Artifacts: A-1529.1
+Mentions: 
+Related Nodes: N-10332
+Tags: relevance:core
+Investigative Direction: Search historical flight data for other visits of tail 99-044 to Fort Huachuca.
+
+---
+
+**C-8114** Host Says Harry Described the Meeting as a Finalization of the Operation
+
+Claim Timestamp: 00:47:10
+
+Claim: The host says the witness described the meeting as one in which the operation was being finalized, a finalization meeting.
+
+Transcript Snippet: he described it uh as a meeting that when the operation is being finalized a finalization meeting
+
+Anchored Artifacts: 
+Mentions: N-368, N-3
+Related Nodes: N-10326
+Tags: relevance:core
+Investigative Direction: Ask the witness what words and documents led him to call it a finalization meeting.
+
+---
+
+**C-8115** Mark Says Call Signs Were Standard RCH From Tucson Through Fort Huachuca
+
+Claim Timestamp: 00:48:38
+
+Claim: Mark says the call sign from Tucson to Fort Huachuca was the standard RCH, as it was before, and changed to SAM only after takeoff from Fort Huachuca.
+
+Transcript Snippet: the call sign from Tucson to Fort Wuka is a standard reach. Everything before that is as well.
+
+Anchored Artifacts: A-1530.1
+Mentions: N-67
+Related Nodes: N-10332
+Supports: C-1906
+Tags: relevance:core
+Investigative Direction: Obtain the full call-sign column from the flight log shown on screen.
+
+---
+
+**C-8116** Mark Says the Venus Call Sign Is Used When the Plane Is Empty
+
+Claim Timestamp: 00:48:38
+
+Claim: Mark says the Venus call sign is used just when the plane is empty and has no one on it.
+
+Transcript Snippet: the Venus call sign is just when the plane is empty. It doesn't have anyone on it.
+
+Anchored Artifacts: A-1530.1
+Mentions: N-67
+Related Nodes: N-10332
+Tags: relevance:core
+Investigative Direction: Verify Venus call-sign usage against military flight-operations references.
+
+---
+
+**C-8117** Host Says She Feels Charlie Was Under Pressure From Jewish Friends
+
+Claim Timestamp: 00:53:23
+
+Claim: The host says she feels Charlie Kirk was under pressure from many of his Jewish so-called friends and that Turning Point USA has offered no honesty about it.
+
+Transcript Snippet: I just I feel like he was under pressure actually from a lot of his Jewish quote unquote friends
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10025
+Supports: C-6547
+Tags: relevance:context
+Investigative Direction: Identify the specific individuals, messages or donor communications the host is relying on.
+
+---
+
+**C-8118** Host Says Her Book Is Now Shipping to Canada
+
+Claim Timestamp: 00:54:34
+
+Claim: The host says her book is now shipping to Canada through makehimasandwich.com.
+
+Transcript Snippet: we are now also shipping to Canada
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Supports: C-5137
+Tags: relevance:tangential
+Investigative Direction: Check the book site for shipping terms.
+
+---
+
+**C-8119** Host Says She Is Interested in Blake Neff's Military Connections
+
+Claim Timestamp: 00:55:36
+
+Claim: The host says she did not look into why Blake Neff left Fox News, because she is more interested in his military connections.
+
+Transcript Snippet: I didn't look into the Blake Nef thing or why he left uh Fox News. Uh because I'm just more interested in his military connections
+
+Anchored Artifacts: 
+Mentions: N-162
+Related Nodes: N-10006, N-10197
+Tags: relevance:context
+Investigative Direction: Review Neff's career history and any publicly stated military ties.
+
+---
+
+**C-8120** Host Thanks the Commenter Laughing Cats Music World for a Massive Donation
+
+Claim Timestamp: 00:55:36
+
+Claim: The host says the commenter Laughing Cats Music World made a massive donation.
+
+Transcript Snippet: And thank you, by the way. That's a massive donation.
+
+Anchored Artifacts: A-1531.2
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Confirm the donation with the platform's super chat or membership records.
+
+---
+
+**C-8121** Host Says the Feds Have Not Contacted Her About the French Foreign Legion Information
+
+Claim Timestamp: 00:56:56
+
+Claim: The host says she said she had information about the French Foreign Legion being on the ground on the day of the assassination and that federal authorities have not reached out to her.
+
+Transcript Snippet: the feds have not reached out to me.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10290
+Supports: C-5125
+Tags: relevance:core
+Investigative Direction: Ask the FBI whether it has contacted the host about her information.
+
+---
+
+**C-8122** Host Says TPUSA Responds to the Egyptian Planes With Jokes
+
+Claim Timestamp: 00:56:56
+
+Claim: The host says people around Turning Point USA are making jokes that there is something not right about the Egyptian planes rather than showing concern.
+
+Transcript Snippet: They're just making jokes that that there's something not right with that.
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10253
+Supports: C-5157
+Tags: relevance:core
+Investigative Direction: Review public TPUSA and Charlie Kirk Show statements on the Egyptian planes.
+
+---
+
+**C-8123** Host Says She Can Confirm the Meeting Happened as Harry Described but Not Who He Saw
+
+Claim Timestamp: 00:59:22
+
+Claim: The host says she can confirm the witness was factually there and that the meeting happened as he said at the time he said, but cannot confirm his memory of who he believes he saw, including Brian Harpole.
+
+Transcript Snippet: I cannot confirm his own eyes. I can't confirm his memory of who he believes he saw.
+
+Anchored Artifacts: 
+Mentions: N-368, N-272, N-3
+Related Nodes: N-10373
+Qualifies: C-1887
+Tags: relevance:core
+Investigative Direction: Seek independent corroboration of Harpole's presence at Fort Huachuca on September 9, 2025.
+
+---
+
+**C-8124** Host Says Harry Thinks He Has an Idea Who the Woman in the Pickup Was
+
+Claim Timestamp: 00:59:22
+
+Claim: Responding to a viewer asking who the woman in the pickup was, the host says Harry thinks he has an idea and should share his story.
+
+Transcript Snippet: Harry thinks he has an idea and he should come out and he should share his story.
+
+Anchored Artifacts: A-1531.5
+Mentions: N-368
+Related Nodes: N-10333
+Tags: relevance:core
+Investigative Direction: Ask the witness whom he believes he saw in the truck.
+
+---
+
+**C-8125** Host Asks for Tips Be Sent to More Tips at Candace Owens dot com
+
+Claim Timestamp: 00:59:22
+
+Claim: The host asks viewers who know about the Candlewood Suites footage to send tips to More Tips at candaceowens.com.
+
+Transcript Snippet: More tips at candace Owens. com is who you can send that tip to.
+
+Anchored Artifacts: A-2918.1
+Mentions: N-3
+Related Nodes: N-10333
+Tags: relevance:core
+Investigative Direction: Check the tip inbox for submissions on Candlewood Suites footage.
+
+---
+
 ## 6. Meme Register
 
 **M-74** (meme) Believe Your Own Eyes
@@ -515,6 +1816,149 @@ Speaker: N-3
 Quote: The more I watch, the more fake and gay things are
 Context: Viewer Lulu Mallerie comment elevated on air.
 Tags: viewer_refrain
+Confidence: high
+
+---
+
+**M-206** (meme) Megan Markle Syndrome
+
+### Occurrence 1
+
+Video Timestamp: 00:04:36
+Speaker: N-3
+Quote: this is going to be read as Megan Markle syndrome
+Context: Host says wanting privacy when convenient but publicity otherwise will read as Megan Markle syndrome in Erika Kirk's burial-privacy request.
+Tags: privacy, erika
+Confidence: high
+
+---
+
+**M-189** (meme) Mockingbirds
+
+### Occurrence 1
+
+Video Timestamp: 00:19:15
+Speaker: N-3
+Quote: a lot of these mockingb bird influencers
+Context: Host labels influencers who say inquiry is wrong as mockingbird influencers.
+Tags: mockingbird, influencers
+Confidence: high
+
+---
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:15:19
+Speaker: N-3
+Quote: It's never been more obvious of a psychological operation.
+Context: Host calls the PR response to Erika Kirk's interview a psychological operation.
+Tags: psyop, pr
+Confidence: high
+
+---
+
+**M-207** (meme) Can't Critique the Fam
+
+### Occurrence 1
+
+Video Timestamp: 00:14:30
+Speaker: N-3
+Quote: But you can't you can't critique you can't critique the fam.
+Context: Host mocks the idea that TPUSA employees are family and thus beyond critique.
+Tags: fam, tpusa
+Confidence: high
+
+---
+
+**M-208** (meme) Nosy Neighbors
+
+### Occurrence 1
+
+Video Timestamp: 00:20:59
+Speaker: N-3
+Quote: Yeah, we're the nosy neighbors.
+Context: Host casts herself and her audience as nosy neighbors in a sudden-death analogy.
+Tags: analogy, nosy neighbors
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:30:08
+Speaker: N-3
+Quote: with the Fed slop narrative
+Context: Host rejects the official narrative as fed slop.
+Tags: fed slop
+Confidence: high
+
+---
+
+**M-209** (meme) Candace 19
+
+### Occurrence 1
+
+Video Timestamp: 00:30:08
+Speaker: N-3
+Quote: It's like it's like Candace 19.
+Context: Host likens social-distancing from her to COVID messaging and coins Candace 19.
+Tags: candace 19, covid
+Confidence: high
+
+---
+
+**M-210** (meme) Common Sense Virus
+
+### Occurrence 1
+
+Video Timestamp: 00:31:07
+Speaker: N-3
+Quote: I'm the common sense virus.
+Context: Host extends the Candace 19 bit by calling common sense the virus.
+Tags: common sense, candace 19
+Confidence: high
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 00:54:34
+Speaker: N-3
+Quote: make him a sandwich. com if you'd like to buy it from us directly
+Context: Host plugs her book and its website.
+Tags: book, merch
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:54:34
+Speaker: N-3
+Quote: we will tell you not to go Max and to instead get the vax
+Context: Host jokes about telling people not to go Max in the Candace 19 bit.
+Tags: go max
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:59:22
+Speaker: N-3
+Quote: More tips at candace Owens. com is who you can send that tip to.
+Context: Host asks for tips on the Candlewood Suites footage.
+Tags: dia, tips, tip line
 Confidence: high
 
 ---

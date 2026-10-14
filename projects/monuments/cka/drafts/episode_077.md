@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 6d12956e2b1ba335a573654b47ea8373fc4b2a908e37366ed670b52d16491c48
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-586, N-588, N-589, N-590, N-591, N-10525, N-10526, N-10527, N-10528, N-10529, N-10530
-  - Reused Nodes Appearing: N-2, N-11, N-3, N-587
+  - New Nodes Introduced: N-586, N-588, N-589, N-590, N-591, N-10525, N-10526, N-10527, N-10528, N-10529
+  - Reused Nodes Appearing: N-2, N-11, N-3, N-587, N-10530
   - (see registers)
 
 ---

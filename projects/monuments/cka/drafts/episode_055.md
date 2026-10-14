@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: a5bff101f5406cc545238101be4cd19cc555a0c068fccc2dca23c05ae7f6ae04
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-447, N-448, N-449, N-450, N-451, N-452, N-453, N-454, N-10402, N-10403, N-10404, N-10405, N-10407, N-10408
-  - Reused Nodes Appearing: N-10406
+  - New Nodes Introduced: N-448, N-450, N-451, N-452, N-453, N-454, N-10402, N-10403, N-10404, N-10405, N-10407, N-10408
+  - Reused Nodes Appearing: N-10406, N-447, N-449
   - (see registers)
 
 # Episode 55 – Analysis Record

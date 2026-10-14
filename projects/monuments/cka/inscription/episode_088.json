@@ -447,6 +447,212 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2945",
+      "family_ref": "A-2945",
+      "bundle_name": "Printed Take-Over Transcript Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2945.1",
+          "ref": "A-2945.1",
+          "description": "Host verbal reference to a printed transcript of Charlie Kirk's take-over statement that Erika's side pulled out at the December 15 meeting (not shown)",
+          "related_claims": [
+            "C-8572"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:19",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2946",
+      "family_ref": "A-2946",
+      "bundle_name": "NYT Trip Plan Passage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2946.1",
+          "ref": "A-2946.1",
+          "description": "Verbatim New York Times passage read on air saying Erika Kirk planned to accompany Charlie to Utah but her mother had medical treatment in the Phoenix area that day",
+          "related_claims": [
+            "C-8592"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2947",
+      "family_ref": "A-2947",
+      "bundle_name": "Records of Sept 8 Treatment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2947.1",
+          "ref": "A-2947.1",
+          "description": "Host verbal reference to records people sent her showing Erika's mother received a treatment at the facility on September 8 (not shown)",
+          "related_claims": [
+            "C-8598"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:39:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2948",
+      "family_ref": "A-2948",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2948.1",
+          "ref": "A-2948.1",
+          "description": "Host verbal call for tips on the parking lot collapse, naming the address more tips at candaceowens.com",
+          "related_claims": [
+            "C-8599"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:39:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2949",
+      "family_ref": "A-2949",
+      "bundle_name": "Nurse Text Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2949.1",
+          "ref": "A-2949.1",
+          "description": "Host verbal reference to a flurry of text messages from nurses and friends and family of nurses about Erika Kirk's whereabouts on September 10 (not shown)",
+          "related_claims": [
+            "C-8600",
+            "C-8601",
+            "C-8602",
+            "C-8603",
+            "C-8604"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:39:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2950",
+      "family_ref": "A-2950",
+      "bundle_name": "Moretips Email Call Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2950.1",
+          "ref": "A-2950.1",
+          "description": "Host verbal call for any further information on Erika's whereabouts, naming moretips@candaceowens.com",
+          "related_claims": [
+            "C-8609"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2951",
+      "family_ref": "A-2951",
+      "bundle_name": "Trump Speech Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2951.1",
+          "ref": "A-2951.1",
+          "description": "Host verbal reference to a circulating clip of Trump reading a speech line that Charlie loved Erika very much (not shown)",
+          "related_claims": [
+            "C-8625",
+            "C-8626",
+            "C-8627"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:06",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2952",
+      "family_ref": "A-2952",
+      "bundle_name": "Closing Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2952.1",
+          "ref": "A-2952.1",
+          "description": "Host verbal call for information on Erika's and Lori's whereabouts on September 10, naming More tips at CandaceOwens.com",
+          "related_claims": [
+            "C-8633"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:59:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -587,7 +793,32 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8567",
+        "C-8568",
+        "C-8570",
+        "C-8571",
+        "C-8572",
+        "C-8573",
+        "C-8574",
+        "C-8576",
+        "C-8577",
+        "C-8578",
+        "C-8579",
+        "C-8585",
+        "C-8586",
+        "C-8587",
+        "C-8592",
+        "C-8620",
+        "C-8621",
+        "C-8625",
+        "C-8626",
+        "C-8627",
+        "C-8628",
+        "C-8629",
+        "C-8630",
+        "C-8631"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -603,7 +834,46 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8569",
+        "C-8570",
+        "C-8571",
+        "C-8572",
+        "C-8573",
+        "C-8574",
+        "C-8575",
+        "C-8576",
+        "C-8577",
+        "C-8578",
+        "C-8579",
+        "C-8587",
+        "C-8588",
+        "C-8589",
+        "C-8590",
+        "C-8591",
+        "C-8592",
+        "C-8593",
+        "C-8594",
+        "C-8595",
+        "C-8596",
+        "C-8597",
+        "C-8598",
+        "C-8599",
+        "C-8600",
+        "C-8601",
+        "C-8602",
+        "C-8603",
+        "C-8604",
+        "C-8605",
+        "C-8607",
+        "C-8608",
+        "C-8609",
+        "C-8623",
+        "C-8626",
+        "C-8627",
+        "C-8632",
+        "C-8633"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -619,7 +889,77 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8563",
+        "C-8564",
+        "C-8565",
+        "C-8566",
+        "C-8567",
+        "C-8568",
+        "C-8569",
+        "C-8570",
+        "C-8571",
+        "C-8572",
+        "C-8573",
+        "C-8574",
+        "C-8575",
+        "C-8576",
+        "C-8577",
+        "C-8578",
+        "C-8579",
+        "C-8580",
+        "C-8581",
+        "C-8582",
+        "C-8583",
+        "C-8584",
+        "C-8585",
+        "C-8586",
+        "C-8587",
+        "C-8588",
+        "C-8589",
+        "C-8590",
+        "C-8591",
+        "C-8592",
+        "C-8593",
+        "C-8595",
+        "C-8596",
+        "C-8597",
+        "C-8598",
+        "C-8599",
+        "C-8600",
+        "C-8601",
+        "C-8602",
+        "C-8603",
+        "C-8604",
+        "C-8605",
+        "C-8606",
+        "C-8607",
+        "C-8608",
+        "C-8609",
+        "C-8612",
+        "C-8613",
+        "C-8614",
+        "C-8615",
+        "C-8616",
+        "C-8617",
+        "C-8618",
+        "C-8619",
+        "C-8620",
+        "C-8621",
+        "C-8622",
+        "C-8623",
+        "C-8624",
+        "C-8625",
+        "C-8626",
+        "C-8627",
+        "C-8628",
+        "C-8629",
+        "C-8630",
+        "C-8631",
+        "C-8632",
+        "C-8633",
+        "C-8634"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -635,7 +975,14 @@
       "type": "person",
       "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8610",
+        "C-8611",
+        "C-8612",
+        "C-8617",
+        "C-8625",
+        "C-8626"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -667,7 +1014,12 @@
       "type": "person",
       "description": "Host cites Bondi saying Epstein-file release would cause global economic catastrophe.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8610",
+        "C-8611",
+        "C-8612",
+        "C-8617"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -683,7 +1035,12 @@
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8579",
+        "C-8580",
+        "C-8581",
+        "C-8588"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -699,7 +1056,11 @@
       "type": "person",
       "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8594",
+        "C-8595",
+        "C-8596"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -748,13 +1109,973 @@
       "type": "person",
       "description": "First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Karashi, Akhmed Karashi.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-8564",
+        "C-8566"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein; the host discusses the December 23 release, the deepfake video and her claim that he is alive.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8612",
+        "C-8613",
+        "C-8614",
+        "C-8615"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Justin Strife",
+      "type": "person",
+      "description": "Justin Streiff, TPUSA COO; the host says she expected him to run things behind the scenes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8571"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu; the host mocks his first-to-tweet and Fox denial.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8567",
+        "C-8568"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Tyler Robinson; accused; the host disputes DNA and firing claims about the rifle.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8581",
+        "C-8583",
+        "C-8584"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-47",
+      "ref": "N-47",
+      "name": "Ghislaine Maxwell",
+      "type": "person",
+      "description": "Ghislaine Maxwell; named in the host's New York Post remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8616"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Kash Patel; FBI director; named for the detention pause, number 33 and the Epstein files.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8563",
+        "C-8582",
+        "C-8612",
+        "C-8613"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-190",
+      "ref": "N-190",
+      "name": "Stacy Sheridan",
+      "type": "person",
+      "description": "Stacy Sheridan; the host speculates she or someone asked for the Charlie loved Erika line.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8627"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Mikey McCoy (Michael McCoy); Charlie's aide whose calls on September 10 the host and Erika describe.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8588",
+        "C-8593",
+        "C-8594",
+        "C-8623",
+        "C-8624"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-221",
+      "ref": "N-221",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Elizabeth McCoy; Mikey McCoy's wife, whom he called first per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8623",
+        "C-8624"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-242",
+      "ref": "N-242",
+      "name": "Glenn Beck",
+      "type": "person",
+      "description": "Glenn Beck; interviewer to whom Erika said she had Charlie's phone.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8570"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-337",
+      "ref": "N-337",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Baron Coleman; credited by the host for the O-6 reveal.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8564"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-369",
+      "ref": "N-369",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Mitch Snow; eyewitness who saw a meeting end at Fort Huachuca.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8565"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-420",
+      "ref": "N-420",
+      "name": "Zachariah Karashy",
+      "type": "person",
+      "description": "Zachariah Karashi (Karashy); detained decoy boy number two.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8563",
+        "C-8564"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-495",
+      "ref": "N-495",
+      "name": "Blake Lively",
+      "type": "person",
+      "description": "Blake Lively; party in the lawsuit against Justin Baldoni.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8634"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-496",
+      "ref": "N-496",
+      "name": "Justin Baldoni",
+      "type": "person",
+      "description": "Justin Baldoni; defendant in the Lively lawsuit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8634"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-500",
+      "ref": "N-500",
+      "name": "Lori Frantzve",
+      "type": "person",
+      "description": "Lori Frantzve, Erika Kirk's mother; subject of the host's whereabouts investigation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8598",
+        "C-8603",
+        "C-8605",
+        "C-8607",
+        "C-8632"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8585",
+        "C-8606"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10006",
+      "ref": "N-10006",
+      "name": "Fox News",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8568"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10015",
+      "ref": "N-10015",
+      "name": "Mossad",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8616"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10023",
+      "ref": "N-10023",
+      "name": "Epstein Israeli Intelligence Asset Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8615"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8612",
+        "C-8613",
+        "C-8614"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10338",
+      "ref": "N-10338",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8594",
+        "C-8623"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10339",
+      "ref": "N-10339",
+      "name": "Elizabeth McCoy Disappearance From Public Narrative",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8624"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10340",
+      "ref": "N-10340",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8570",
+        "C-8629"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10365",
+      "ref": "N-10365",
+      "name": "Sept 9 Fort Huachuca Meeting Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8565"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10431",
+      "ref": "N-10431",
+      "name": "Aspen Donor Retreat \"What Happens When You Die\" Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8576",
+        "C-8586"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10437",
+      "ref": "N-10437",
+      "name": "Aspen Donor Recall Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8630",
+        "C-8631"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10471",
+      "ref": "N-10471",
+      "name": "Erica Kirk Sept 10 Alibi Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8595",
+        "C-8607"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10478",
+      "ref": "N-10478",
+      "name": "Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8597"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10479",
+      "ref": "N-10479",
+      "name": "Sept 7, 2025 Erika Instagram Post – Manipulation Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8591"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10483",
+      "ref": "N-10483",
+      "name": "Erika's Mother Medical Narrative",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8589",
+        "C-8591",
+        "C-8598"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10516",
+      "ref": "N-10516",
+      "name": "Erika Kirk Ohio Childhood Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8575"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10539",
+      "ref": "N-10539",
+      "name": "Charlie Kirk Iran War Opposition (June 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8585"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10573",
+      "ref": "N-10573",
+      "name": "Timpanogos Hospital Evidence Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8566"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10578",
+      "ref": "N-10578",
+      "name": "Decoy Subject Investigation (Karashy/Qureshi)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8563"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10594",
+      "ref": "N-10594",
+      "name": "Aspen Donor Inconsistency",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8586"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10620",
+      "ref": "N-10620",
+      "name": "ATF Bullet Comparison Methodology",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8584",
+        "C-8619",
+        "C-8620"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10649",
+      "ref": "N-10649",
+      "name": "Candace-Erika December 15 Private Meeting Revelations",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8569"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10661",
+      "ref": "N-10661",
+      "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8634"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10664",
+      "ref": "N-10664",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8573",
+        "C-8577"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10710",
+      "ref": "N-10710",
+      "name": "Bullet Jacket Fragment Diameter Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8621"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10711",
+      "ref": "N-10711",
+      "name": "Tyler Robinson DNA Most Degraded Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8581",
+        "C-8583"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10729",
+      "ref": "N-10729",
+      "name": "911 Call Identification Gap",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8588"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10898",
+      "ref": "N-10898",
+      "name": "New York Post",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8616"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10905",
+      "ref": "N-10905",
+      "name": "New York Times Erika Kirk Interview Account Discrepancies",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8592",
+        "C-8593"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10936",
+      "ref": "N-10936",
+      "name": "Aspen CEO-Appointment Video Non-Release",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8572",
+        "C-8573",
+        "C-8579",
+        "C-8580"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10968",
+      "ref": "N-10968",
+      "name": "The New York Times",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8592",
+        "C-8593"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10975",
+      "ref": "N-10975",
+      "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8622"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11092",
+      "ref": "N-11092",
+      "name": "Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8587"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11129",
+      "ref": "N-11129",
+      "name": "Freemasonry",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8582"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11135",
+      "ref": "N-11135",
+      "name": "Bullet Fragment Chain-of-Custody Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8621"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11142",
+      "ref": "N-11142",
+      "name": "Zachariah Karashy Detention and Release Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8563"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-825",
+      "ref": "N-825",
+      "name": "Eric Swalwell",
+      "type": "person",
+      "description": "First named by the host at 00:46:55 in episode 88. Congressman the host says Trump believed Bondi tipped off about an FBI inquiry into his relationship with Christine Fang.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8617",
+        "C-8618"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-826",
+      "ref": "N-826",
+      "name": "Christine Fang",
+      "type": "person",
+      "description": "First named by the host at 00:46:55 in episode 88. Woman the host calls the Chinese spy girl in her account of Swalwell's relationship and the FBI documents.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8618"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1049,7 +2370,1754 @@
         "N-2",
         "N-1"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8563",
+      "ref": "C-8563",
+      "label": "Host Says Zachariah Karashi Was Detained and Kash Patel Halted the Investigation for 90 Minutes",
+      "claim": "The host says Zachariah Karashi (decoy boy number two) was detained, that Kash Patel shut down the investigation for an hour and a half, and that he was then released with little more explained.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11142",
+        "N-10578"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:20",
+      "investigative_direction": "Obtain the detention report, any release paperwork and the agency that held him; ask the FBI to confirm the length of the pause and who ordered it.",
+      "transcript_snippet": "he was detained. Kash Patel shut down the investigation for an hour and a half, and then he was released, and we weren't told much more.",
+      "mentions_person_refs": [
+        "N-420",
+        "N-69",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8564",
+      "ref": "C-8564",
+      "label": "Host Says Baron Coleman Revealed Karashi's Father Is a Navy O-6 in the Reserves",
+      "claim": "The host says it was revealed, with credit to Baron Coleman, that the father of Zachariah Karashi is an O-6 in the Navy, apparently a part-time reservist.",
+      "anchored_artifacts": [
+        "A-1927.2"
+      ],
+      "related_nodes": [
+        "N-10585"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:20",
+      "investigative_direction": "Check Navy Reserve officer listings and any public biography of Akhmed Karashi for rank and unit.",
+      "transcript_snippet": "that his dad is an O-6 in the Navy. Um I guess he's in the Navy reserves part-time.",
+      "mentions_person_refs": [
+        "N-337",
+        "N-421",
+        "N-420",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8565",
+      "ref": "C-8565",
+      "label": "Host Says Mitch Snow Saw a Meeting End at Fort Huachuca the Day Before With Many O-6s",
+      "claim": "The host says Mitch Snow saw a meeting concluding at Fort Huachuca the day before the event and reported that a lot of O-6s were there.",
+      "anchored_artifacts": [
+        "A-1927.3"
+      ],
+      "related_nodes": [
+        "N-10585",
+        "N-10365"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:20",
+      "investigative_direction": "Obtain Mitch Snow's account in his own words and any base visitor or lodging records for September 9, 2025.",
+      "transcript_snippet": "Mitch Snow saw a meeting concluding in Fort Huachuca the day before, and he said there were a lot of O-6s",
+      "mentions_person_refs": [
+        "N-369",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8566",
+      "ref": "C-8566",
+      "label": "Host Says the Built App Could Show Which Hospital Door to Use but She Cannot Say It Was Used That Way",
+      "claim": "The host says the Built app could let a user see in advance where Charlie would sit and which door at Timpanogos Hospital he would be taken through, but states she cannot say that is what it was used for.",
+      "anchored_artifacts": [
+        "A-1927.4"
+      ],
+      "related_nodes": [
+        "N-10585",
+        "N-10573"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:20",
+      "investigative_direction": "Verify the app's feature set from product documentation and whether any Utah venue or hospital layouts were ever built in it.",
+      "transcript_snippet": "which door you were going to go through at Timpanogos if you were prepping for a mission.",
+      "mentions_person_refs": [
+        "N-421",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8567",
+      "ref": "C-8567",
+      "label": "Host Says Netanyahu Tweeted That He Was Praying for Charlie Before the US President",
+      "claim": "In a satirical retelling, the host says Benjamin Netanyahu tweeted that he was praying for Charlie even before the president of the United States, and that people found the tweet remarkably suspicious.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:52",
+      "investigative_direction": "Compare the timestamps of Netanyahu's post and the president's post using archived copies.",
+      "transcript_snippet": "As soon as he gets shot, you should tweet, even before the president of the United States, that you're praying for Charlie.",
+      "supports_claim_refs": [
+        "C-1296"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8568",
+      "ref": "C-8568",
+      "label": "Host Says Netanyahu Went on Fox the Next Day to Deny Killing Charlie",
+      "claim": "In the same satirical retelling, the host says Netanyahu appeared on Fox the day after the shooting to passionately deny that he killed Charlie, and that it did not remove suspicion.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:52",
+      "investigative_direction": "Identify the Fox appearance and its date and verify what Netanyahu said about the Kirk assassination.",
+      "transcript_snippet": "Uh then the very next day, we'll get you on Fox um where you should passionately deny that you killed him.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8569",
+      "ref": "C-8569",
+      "label": "Host Says in December She Did Not Think Erika Was Part of Any Plot",
+      "claim": "The host says that on December 15, when she sat down with Erika Kirk, she did not think Erika was part of any plot to assassinate her husband, though she thought some of her actions and movements were strange.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10649"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:47",
+      "investigative_direction": "Compare the host's December episodes with this statement to see how her position changed.",
+      "transcript_snippet": "I did not, you'll recall, uh back in December think that Erika was a part of any plot to assassinate her husband.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8570",
+      "ref": "C-8570",
+      "label": "Host Says Erika's First Verifiable Public Lie Was the Glenn Beck Phone and Texts Claim",
+      "claim": "The host says Erika Kirk told no verifiable lies publicly until right before their meeting, when she told Glenn Beck she had Charlie's phone and that he did not text people the night before that he feared for his life.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:47",
+      "investigative_direction": "Review the Glenn Beck interview and compare Erika's phone and texts statements with the texts the host says exist.",
+      "transcript_snippet": "she publicly told Glenn Beck that she had Charlie's phone, and he did not text people the night before uh saying that he was fearful of his life.",
+      "supports_claim_refs": [
+        "C-2377"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-242",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8571",
+      "ref": "C-8571",
+      "label": "Host Says She Never Doubted Charlie Wanted Erika as CEO and Expected Streiff to Run Things",
+      "claim": "The host says that before the December meeting she never questioned whether Charlie wanted Erika to become CEO, and assumed the role was for the public while Justin Streiff would run things behind the scenes.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:30",
+      "investigative_direction": "Check the host's earlier episodes for any statement about the CEO appointment before December 15.",
+      "transcript_snippet": "nor did I ever question whether or not Charlie wanted her to become the CEO, okay?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1",
+        "N-15"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8572",
+      "ref": "C-8572",
+      "label": "Host Says Erika's Side Produced a Printed Transcript of Charlie Naming Her Successor",
+      "claim": "The host says that during the meeting Erika's side pulled out a printed transcript of what Charlie supposedly said naming Erika to take over if he died, that she declined it, and that she had never asked for proof.",
+      "anchored_artifacts": [
+        "A-2945.1"
+      ],
+      "related_nodes": [
+        "N-10936"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:19",
+      "investigative_direction": "Ask the participants in the December 15 meeting what was printed and whether a copy exists.",
+      "transcript_snippet": "they pulled out a piece of paper, which they had printed out",
+      "supports_claim_refs": [
+        "C-5540"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8573",
+      "ref": "C-8573",
+      "label": "Host Says Erika Confirmed Before the Meeting That a Video Exists of Charlie Naming Her",
+      "claim": "The host says Erika had previously confirmed, before they sat down, that there was a video of Charlie weeks before he died saying he wanted her to take over the company.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10936",
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:00",
+      "investigative_direction": "Find where and when Erika or TPUSA first said the video existed and compare with later statements about audio only.",
+      "transcript_snippet": "Erika had previously, before I sat down with her, confirmed that there was a video of this moment",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8574",
+      "ref": "C-8574",
+      "label": "Host Says Charlie Repeatedly Told Audiences Women Should Not Aspire to Be CEOs",
+      "claim": "The host says Charlie Kirk, on every stage, repeatedly said women should not aspire to climb the corporate ladder and become CEOs, including beside Erika.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:00",
+      "investigative_direction": "Compile dated clips of Charlie making this argument, including any with Erika present.",
+      "transcript_snippet": "Charlie Kirk, on every stage that he was ever on, repeatedly said that women should not aspire to climb the corporate ladder and to become CEOs",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8575",
+      "ref": "C-8575",
+      "label": "Host Says Erika Had a Stepfather and Her Father Was Present, Not a Single-Mother Home",
+      "claim": "The host says Erika's mother did not raise her as a single mother, that Erika had a stepfather in the home after her parents divorced, and that her father was always in her life.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10516"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:21",
+      "investigative_direction": "Document Erika's childhood household through records and earlier interviews.",
+      "transcript_snippet": "She never did. I told you Erika had a bonus parent. She always had a stepfather in the home when her parents divorced and her father was always in her life.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8576",
+      "ref": "C-8576",
+      "label": "Host Says the Aspen Investor Meeting Ran August 15 to 17, Three Weeks Before Charlie Died",
+      "claim": "The host says the investor meeting Erika refers to took place August 15 to 17 in Aspen, about three weeks before Charlie died.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10431"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:21",
+      "investigative_direction": "Obtain the attendee list, agenda and venue records for the August 15 to 17 Aspen event.",
+      "transcript_snippet": "took place from August 15th to the 17th in Aspen. So this was a mere 3 weeks before Charlie died.",
+      "supports_claim_refs": [
+        "C-5548"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8577",
+      "ref": "C-8577",
+      "label": "Played Audio Has a Voice Saying It Appoints Its Wife to Run Turning Point USA",
+      "claim": "The audio the host plays features a voice presented as Charlie's saying that he appoints his wife to run Turning Point USA if something happens to him and that Erika would do a great job.",
+      "anchored_artifacts": [
+        "A-1928.1"
+      ],
+      "related_nodes": [
+        "N-10583",
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:54",
+      "investigative_direction": "Obtain the full original recording with metadata and have an independent audio examiner compare the passage with the surrounding speech.",
+      "transcript_snippet": "I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8578",
+      "ref": "C-8578",
+      "label": "Host Says the Aspen Audio Is Clearly Edited",
+      "claim": "The host says the audio ends oddly after a board answer and that it can at least be determined to be clearly edited audio.",
+      "anchored_artifacts": [
+        "A-1928.1"
+      ],
+      "related_nodes": [
+        "N-10583"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:38",
+      "investigative_direction": "Commission forensic audio analysis of the clip for splices, room tone changes and level shifts.",
+      "transcript_snippet": "At the very least we can determine that that is clearly an edited audio.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8579",
+      "ref": "C-8579",
+      "label": "Host Says She Publicly Asked Blake Neff to Release the Aspen Video",
+      "claim": "The host says she replied beneath Blake Neff's shared video on X asking him to release the video he shot in Aspen of Charlie naming Erika as successor.",
+      "anchored_artifacts": [
+        "A-1932.1"
+      ],
+      "related_nodes": [
+        "N-10936"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:40",
+      "investigative_direction": "Preserve the host's X reply and Neff's reply with timestamps.",
+      "transcript_snippet": "Can you please release the video that you shot in Aspen of him naming her as his successor a couple of weeks before he died.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-162",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8580",
+      "ref": "C-8580",
+      "label": "Neff's Reply Says TPUSA Has Not Bothered Playing the Video and the AmFest Audio Was Not Enough",
+      "claim": "In Blake Neff's X reply as read by the host, he says TPUSA has not bothered playing it because the host does not care what is true, and that playing the audio at AmFest was already not enough.",
+      "anchored_artifacts": [
+        "A-1932.1"
+      ],
+      "related_nodes": [
+        "N-10936",
+        "N-10583"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Preserve Neff's original post and ask TPUSA whether the video exists and why it has not been released.",
+      "transcript_snippet": "we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8581",
+      "ref": "C-8581",
+      "label": "Neff's Reply Cites DNA on a Rifle and Tyler Robinson's Family Turning Him In",
+      "claim": "Blake Neff's X reply as read by the host says the host ignores evidence like DNA on a rifle or Tyler Robinson's own family members turning him in.",
+      "anchored_artifacts": [
+        "A-1932.1"
+      ],
+      "related_nodes": [
+        "N-10711"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Check the charging documents and court record for what Robinson's family reported and for the DNA findings on the rifle.",
+      "transcript_snippet": "ignores evidence like DNA on a rifle or Tyler Robinson's own family members turning him in.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8582",
+      "ref": "C-8582",
+      "label": "Host Says 33 Is a Freemason Degree and Kash Patel Kept Saying It",
+      "claim": "The host says 33 is a Freemason degree and that Kash Patel kept saying it, possibly signaling to Freemasons.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11129"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:45",
+      "investigative_direction": "Collect Patel's public uses of the number 33 with dates.",
+      "transcript_snippet": "33 is in fact a Freemason degree.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8583",
+      "ref": "C-8583",
+      "label": "Host Says Five Other Sets of DNA Were Found on the Rifle and TPUSA Does Not Tell the Public",
+      "claim": "The host says that in addition to Tyler Robinson's DNA there were five other sets of DNA found on the rifle, which she says TPUSA refuses to tell the public.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10711"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:45",
+      "investigative_direction": "Obtain the lab reports from the court record listing every DNA profile found on the rifle.",
+      "transcript_snippet": "there were also five other sets of DNA found on the rifle.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8584",
+      "ref": "C-8584",
+      "label": "Host Says There Is No Evidence the Rifle Was Fired",
+      "claim": "The host says it is not debated that it is Tyler Robinson's rifle but that there is no evidence that the rifle was fired.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10620"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:45",
+      "investigative_direction": "Obtain firearms examiner reports on whether the barrel and cartridge cases link to this rifle.",
+      "transcript_snippet": "there is no evidence that that particular rifle was fired.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8585",
+      "ref": "C-8585",
+      "label": "Host Says TPUSA Shares Outdated Charlie Videos Misrepresenting His Iran War Views",
+      "claim": "The host says TPUSA shares outdated videos of Charlie and is being fact-checked on X for misrepresenting his actual beliefs about the Iranian war.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10539",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:45",
+      "investigative_direction": "Collect the posts and their community notes with dates and source clips.",
+      "transcript_snippet": "They even share outdated videos and try to pretend that he's supporting the Iranian war.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8586",
+      "ref": "C-8586",
+      "label": "Host Says She Has Done Many Aspen Donor Events and Never Heard the Succession Question",
+      "claim": "The host says she has done a ton of donor events with Charlie, including in Aspen, and never heard a donor ask what happens if he dies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10431",
+        "N-10594"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:33",
+      "investigative_direction": "Ask other donors and TPUSA event staff how often succession questions arose at Aspen events.",
+      "transcript_snippet": "Done a ton of ton of donor events with Charlie including ones in Aspen. Never heard this question ever",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8587",
+      "ref": "C-8587",
+      "label": "Host Theorizes TPUSA Prepared Audio So Erika's Appointment Would Not Look Planned",
+      "claim": "The host says she personally thinks someone at TPUSA decided the group needed audio of Charlie saying he wanted Erika to take over so that her appointment 48 hours later would not look like her plan all along.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10583",
+        "N-11092"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:31",
+      "investigative_direction": "This is the host's theory; test it by establishing when the audio was first mentioned and who had it.",
+      "transcript_snippet": "We need to have like audio prepared of Charlie saying he wanted her to take over.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8588",
+      "ref": "C-8588",
+      "label": "Host Says No One Called 911 After Charlie Was Shot",
+      "claim": "The host says that after the shooting Mikey ran to the back and called his wife, Erika called her mom, and no one called 911.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10729"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:46",
+      "investigative_direction": "Obtain the 911 call records for the UVU address and compare with the host's phone sequence reporting.",
+      "transcript_snippet": "Mikey calls his wife and you call your mom and no one calls 911.",
+      "supports_claim_refs": [
+        "C-1932"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-2",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8589",
+      "ref": "C-8589",
+      "label": "Host Says Erika Has Herself Talked About Her Mother's Lyme Disease",
+      "claim": "The host says she is not questioning that Erika's mother is ill and notes Erika has herself talked about her mother's Lyme disease in different settings.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10483"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:34",
+      "investigative_direction": "Find Erika's own public statements about her mother's Lyme disease and their dates.",
+      "transcript_snippet": "I think Erika's even herself talked about her mother's Lyme disease in different settings.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8590",
+      "ref": "C-8590",
+      "label": "Host Says the Chief Fundraiser Recorded Erika Grieving",
+      "claim": "The host says someone had the chief fundraiser record Erika grieving over her husband, and cites it as an example of using emotion to manipulate people.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:32:34",
+      "investigative_direction": "Identify the recording, who made it and where it was published.",
+      "transcript_snippet": "have the chief fundraiser uh record you grieving over your husband",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8591",
+      "ref": "C-8591",
+      "label": "Host Says Erika Had Not Posted Her Mother in Years Before the September 8 Video",
+      "claim": "The host says Erika posted a video of her mother looking frail on September 8 despite not having posted her mother in years.",
+      "anchored_artifacts": [
+        "A-1934.1"
+      ],
+      "related_nodes": [
+        "N-10479",
+        "N-10483"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:02",
+      "investigative_direction": "Review Erika's Instagram archive for earlier posts featuring her mother.",
+      "transcript_snippet": "Despite the fact that she had not posted her mother in years.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8592",
+      "ref": "C-8592",
+      "label": "NYT Wrote That Erika Planned to Go to Utah but Her Mother Had Treatment in Phoenix",
+      "claim": "The host reads the New York Times saying Erika planned to go to Utah, but her mother would undergo medical treatment in the Phoenix area that day and Charlie told her home needed her, so she would join the Colorado State leg instead.",
+      "anchored_artifacts": [
+        "A-2946.1"
+      ],
+      "related_nodes": [
+        "N-10968",
+        "N-10905"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:00",
+      "investigative_direction": "Retrieve the original New York Times article and verify the wording.",
+      "transcript_snippet": "her mother would be undergoing medical treatment in Phoenix area that same day.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8593",
+      "ref": "C-8593",
+      "label": "NYT Quoted Erika Saying She Knew the Words Before McCoy Screamed Them",
+      "claim": "The host reads the New York Times saying Erika saw Michael McCoy's number appear and that, in retrospect, she said she knew the words before he screamed them.",
+      "anchored_artifacts": [
+        "A-1930.1"
+      ],
+      "related_nodes": [
+        "N-10968",
+        "N-10905"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:50",
+      "investigative_direction": "Retrieve the original article and compare with the Watters account of the call.",
+      "transcript_snippet": "In retrospect, she said she knew the words,",
+      "mentions_person_refs": [
+        "N-2",
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8594",
+      "ref": "C-8594",
+      "label": "Erika Told Watters Mikey Called Within Seconds and She Sprinted Out of the Treatment Center",
+      "claim": "In the Jesse Watters clip played, Erika Kirk says Mikey called within seconds after she put her phone down and that she sprinted out of her treatment center.",
+      "anchored_artifacts": [
+        "A-1931.1"
+      ],
+      "related_nodes": [
+        "N-10338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:46",
+      "investigative_direction": "Compare with Mikey McCoy's call log and the 834 ms style phone timing material.",
+      "transcript_snippet": "He called me within seconds.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-194",
+        "N-215"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8595",
+      "ref": "C-8595",
+      "label": "Erika Told Watters She Collapsed in the Parking Lot",
+      "claim": "In the Jesse Watters clip, Erika Kirk says she collapsed in the middle of the parking lot after the call and the host's comments follow on that.",
+      "anchored_artifacts": [
+        "A-1931.1"
+      ],
+      "related_nodes": [
+        "N-10471"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:30",
+      "investigative_direction": "Look for witnesses, security cameras and staff accounts for the parking lot on September 10.",
+      "transcript_snippet": "I just collapsed in the middle of the parking lot.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-215",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8596",
+      "ref": "C-8596",
+      "label": "Host Says the Watters Interview Contains Many Jump Cuts",
+      "claim": "The host says there were many bizarre jump cuts in the Watters interview and that clearly a lot of editing went into it.",
+      "anchored_artifacts": [
+        "A-1931.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:30",
+      "investigative_direction": "Obtain the full unedited recording of the interview for comparison.",
+      "transcript_snippet": "there was so much bizarre jump cuts in this interview.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-215"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8597",
+      "ref": "C-8597",
+      "label": "Host Says the Facility Is an IV Therapy and Holistic Clinic, Not a Hospital",
+      "claim": "The host says she determined the place in question is not a hospital and would be more appropriately described as an IV therapy place and holistic clinic.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10478"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:22",
+      "investigative_direction": "Identify the facility, its licence type and services through state records.",
+      "transcript_snippet": "It would be more appropriately described as an IV therapy place.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8598",
+      "ref": "C-8598",
+      "label": "Host Says Records Show Erika's Mother Was Treated at the Facility on September 8",
+      "claim": "The host says Erika's mother has received treatments at the facility in the past and that on September 8 she went in for a treatment, per records people sent the host.",
+      "anchored_artifacts": [
+        "A-2947.1"
+      ],
+      "related_nodes": [
+        "N-10483"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:53",
+      "investigative_direction": "Authenticate the records through lawful channels; compare with earlier claims about her whereabouts Sept 8 to 10.",
+      "transcript_snippet": "she went in for a treatment 2 days earlier on September 8th because people sent me records of that.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-500"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8599",
+      "ref": "C-8599",
+      "label": "Host Asks for Tips on the Parking Lot Collapse via moretips Address",
+      "claim": "The host says she put out an APB for anyone in the parking lot or working there and asked listeners to send tips to more tips at candaceowens.com.",
+      "anchored_artifacts": [
+        "A-2948.1"
+      ],
+      "related_nodes": [
+        "N-10582"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:53",
+      "investigative_direction": "Count and verify the tips received against named sources.",
+      "transcript_snippet": "Please tell us, send us in tips, more tips at candaceowens. com.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8600",
+      "ref": "C-8600",
+      "label": "Host Says Nurses and Their Contacts Texted That Erika Was at the Facility and Collapsed",
+      "claim": "The host says she received a flurry of texts from nurses and their friends and family initially alleging Erika was at the facility when she got the news and had collapsed in the parking lot.",
+      "anchored_artifacts": [
+        "A-2949.1"
+      ],
+      "related_nodes": [
+        "N-10582"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:53",
+      "investigative_direction": "Obtain the texts and sender identities with consent.",
+      "transcript_snippet": "what we received was a flurry of text messages from various nurses and people who are friends and family of nurses",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8601",
+      "ref": "C-8601",
+      "label": "Host Says Some Texts Said Nurses Had to Carry Erika Inside",
+      "claim": "The host says some of the messages said the nurses had to carry Erika inside.",
+      "anchored_artifacts": [
+        "A-2949.1"
+      ],
+      "related_nodes": [
+        "N-10582"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:53",
+      "investigative_direction": "Ask the facility and the original senders whether any staff physically assisted Erika.",
+      "transcript_snippet": "they said the nurses had to carry her inside",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8602",
+      "ref": "C-8602",
+      "label": "Host Says Every Nurse Account Traced Back to Someone Else",
+      "claim": "The host says that when she pushed the tips further the story fell through the cracks because everyone involved had heard it from someone else and no first-person witness emerged.",
+      "anchored_artifacts": [
+        "A-2949.1"
+      ],
+      "related_nodes": [
+        "N-10582"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:55",
+      "investigative_direction": "Map the chain of who told whom to find any first-hand witness or the origin of the story.",
+      "transcript_snippet": "we kept finding that the story fell through the cracks. Meaning that everyone involved had heard it from someone.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8603",
+      "ref": "C-8603",
+      "label": "Host Says the Final Version Had Erika in a Meeting With the Lead Doctor, Not Her Mother",
+      "claim": "The host says the more solid version of the story was that Erika was there but in a meeting with the lead doctor in his office, with her mother removed from the story and Lori unconfirmed by anyone.",
+      "anchored_artifacts": [
+        "A-2949.1"
+      ],
+      "related_nodes": [
+        "N-10582"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:37",
+      "investigative_direction": "Identify the doctor and obtain his or his office's account and appointment records.",
+      "transcript_snippet": "Erika was there, but she was in a meeting with the lead doctor in his office.",
+      "supports_claim_refs": [
+        "C-2667"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-500"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8604",
+      "ref": "C-8604",
+      "label": "Host Says the Doctor and His Wife Told Friends Erika Was in Their Office With a Friend",
+      "claim": "The host says the doctor and his wife told friends that Erika was in their office with a friend, not with her mother.",
+      "anchored_artifacts": [
+        "A-2949.1"
+      ],
+      "related_nodes": [
+        "N-10582"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:15",
+      "investigative_direction": "Interview the friends who heard this and document the dates.",
+      "transcript_snippet": "told friends that Erika was in their office with a friend.",
+      "supports_claim_refs": [
+        "C-2667"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8605",
+      "ref": "C-8605",
+      "label": "Host Says a Dassel, Minnesota Woman Claims She Was With Lori When the News Arrived",
+      "claim": "The host says she was given the name of a woman from Dassel, Minnesota, who claims that she, not Erika, was with Lori when Lori got the news.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10582"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:15",
+      "investigative_direction": "Seek the woman's response to the host's request for comment and any corroboration.",
+      "transcript_snippet": "a woman from Dassel, Minnesota, who has claimed that she, and not Erika, was with Lori",
+      "supports_claim_refs": [
+        "C-2667"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-500",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8606",
+      "ref": "C-8606",
+      "label": "Host Says She Can Establish Connections Between TPUSA and the Doctor's Wife",
+      "claim": "The host says she can definitely establish some connections between Turning Point USA and the doctor's wife.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:04",
+      "investigative_direction": "Publish or document the connection if the host can support it; check donor and employment records.",
+      "transcript_snippet": "I definitely can establish some connections between Turning Point USA and his wife",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8607",
+      "ref": "C-8607",
+      "label": "Host Says She Does Not Believe Erika Was With Her Mother and Calls the Story Pre-Sold",
+      "claim": "The host says that based on her team's legwork she does not believe Erika was with her mother that day and believes the narrative was pre-sold beginning September 8 with the post of her mother in a frail state.",
+      "anchored_artifacts": [
+        "A-1934.1"
+      ],
+      "related_nodes": [
+        "N-10582",
+        "N-10471"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:53",
+      "investigative_direction": "Seek written statements from witnesses and facility records about Erika and her mother on September 10.",
+      "transcript_snippet": "I do not believe Erika was with her mother on that day.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-500"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8608",
+      "ref": "C-8608",
+      "label": "Host Says No Eyewitness to a Woman Collapsing in the Parking Lot Has Come Forward",
+      "claim": "The host cites the lack of eyewitness to a woman collapsing in a parking lot on such a day as a basis for her view.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10582"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:53",
+      "investigative_direction": "Canvass the parking lot's users and businesses and request any security camera footage.",
+      "transcript_snippet": "the lack of eyewitness to a woman collapsing in a parking lot on such a day",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8609",
+      "ref": "C-8609",
+      "label": "Host Asks for Information at the moretips Address",
+      "claim": "The host asks anyone with more information on Erika's whereabouts to email moretips@candaceowens.com.",
+      "anchored_artifacts": [
+        "A-2950.1"
+      ],
+      "related_nodes": [
+        "N-10582"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:53",
+      "investigative_direction": "Track what arrives through the tip line.",
+      "transcript_snippet": "please email us at moretips@candaceowens. com.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8610",
+      "ref": "C-8610",
+      "label": "Trump Statement Says Murders Fell to Their Lowest Level Since 1900",
+      "claim": "The statement read by the host says Pam Bondi oversaw a crackdown on crime with murders plummeting to their lowest levels since 1900.",
+      "anchored_artifacts": [
+        "A-1935.1"
+      ],
+      "related_nodes": [
+        "N-10586"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:55",
+      "investigative_direction": "Compare with FBI and CDC homicide data for 2025.",
+      "transcript_snippet": "murders plummeting to their lowest levels since 1900",
+      "mentions_person_refs": [
+        "N-5",
+        "N-85"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8611",
+      "ref": "C-8611",
+      "label": "Trump Statement Says Bondi Will Move to a Private-Sector Job to Be Announced",
+      "claim": "The statement says Bondi will be transitioning to a much needed and important new job in the private sector to be announced at a later date.",
+      "anchored_artifacts": [
+        "A-1935.1"
+      ],
+      "related_nodes": [
+        "N-10586"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:55",
+      "investigative_direction": "Track whether and when the new job is announced.",
+      "transcript_snippet": "she will be transitioning to a much needed and important new job in the private sector",
+      "mentions_person_refs": [
+        "N-5",
+        "N-85"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8612",
+      "ref": "C-8612",
+      "label": "Host Says Bondi Was Not Fired Over Epstein Because She and Trump Protected the Files Together",
+      "claim": "The host says Bondi was doing as Trump and his orbit instructed on the Epstein files, so that is not the reason she was fired, and says that otherwise Kash Patel would be gone too.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324",
+        "N-10586"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:55",
+      "investigative_direction": "Compare the stated reasons for the dismissal with reporting on the Epstein files release.",
+      "transcript_snippet": "Pam Bondi was doing as she was instructed to do by Trump, by Trump's orbit of friends who are all in the Epstein files.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-85",
+        "N-5",
+        "N-69",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8613",
+      "ref": "C-8613",
+      "label": "Host Says the December 23 Epstein Release Included a Deepfake Video of His Cell",
+      "claim": "The host says that during the Epstein files release on December 23 they released a deepfake video of Jeffrey Epstein committing suicide in his cell.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:02",
+      "investigative_direction": "Identify the video in the release and any analysis that found it manipulated.",
+      "transcript_snippet": "they even released a fake a deep fake video of Jeffrey Epstein in his cell committing suicide.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8614",
+      "ref": "C-8614",
+      "label": "Host Says They Removed the Fake Video and Refused to Comment",
+      "claim": "The host says the authorities were clocked on the fake video, removed it and refused to comment.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:02",
+      "investigative_direction": "Find the DOJ statement or the removal record.",
+      "transcript_snippet": "And they got clocked on the fake video and then they removed the fake video and refused to comment on it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8615",
+      "ref": "C-8615",
+      "label": "Host Asserts Epstein Is Alive in an Israeli Operation",
+      "claim": "The host asserts that Jeffrey Epstein is clearly alive and says there is an Israeli operation to get him out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10023"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:02",
+      "investigative_direction": "Unsupported on air; the host offers the New York Post photo stories as basis.",
+      "transcript_snippet": "because Jeffrey Epstein is clearly alive, okay?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8616",
+      "ref": "C-8616",
+      "label": "Host Calls the New York Post a Mossad Outfit",
+      "claim": "The host says the New York Post, for all intents and purposes, is a Mossad outfit working on behalf of Israel, citing its exclusives on Ghislaine Maxwell.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10898",
+        "N-10015"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:02",
+      "investigative_direction": "Unsupported on air; no ownership or sourcing evidence is offered.",
+      "transcript_snippet": "This New York Post, for all intents and purposes, just a Mossad outfit, okay?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-47"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8617",
+      "ref": "C-8617",
+      "label": "Host Says Trump Fired Bondi Because He Believes She Tipped Off Swalwell",
+      "claim": "The host says reports indicate Trump fired Bondi because he believes she tipped off Eric Swalwell about an investigation into his relationship.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10586"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:55",
+      "investigative_direction": "Locate the articles the host says contain this account and verify who sourced it.",
+      "transcript_snippet": "he believes that she is the one that tipped off Eric Swalwell",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5",
+        "N-85",
+        "N-825"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8618",
+      "ref": "C-8618",
+      "label": "Host Says the FBI Was Preparing Documents on Swalwell's Relationship With Christine Fang",
+      "claim": "The host says the FBI was apparently preparing documents on Swalwell's relationship with Christine Fang, whom she calls the Chinese spy girl he was dating.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10586"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:55",
+      "investigative_direction": "Check public reporting on the FBI's handling of the Fang file.",
+      "transcript_snippet": "the FBI was sort of preparing um, a bunch of documents relating to his relationship with Christine Fang",
+      "mentions_person_refs": [
+        "N-3",
+        "N-825",
+        "N-826"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8619",
+      "ref": "C-8619",
+      "label": "Commenter Says the JFK Model Was Run Again With Bullet Comparison Analysis",
+      "claim": "The host reads the top comment from Chewing the Void saying they ran the JFK model one more time, bringing back comparative bullet analysis once discontinued, and the host adds her own agreement.",
+      "anchored_artifacts": [
+        "A-1938.2"
+      ],
+      "related_nodes": [
+        "N-10620"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:14",
+      "investigative_direction": "Review the history of bullet comparative analysis (CBLA) use and discontinuation by the FBI.",
+      "transcript_snippet": "run the JFK model one more time and expected nobody to notice",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8620",
+      "ref": "C-8620",
+      "label": "Host Says There Is No Evidence Charlie Was Even Shot",
+      "claim": "The host says, in agreement with the comment, that there is no evidence Charlie was even shot.",
+      "anchored_artifacts": [
+        "A-1938.2"
+      ],
+      "related_nodes": [
+        "N-10620"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:14",
+      "investigative_direction": "Obtain the autopsy report and trauma records to test the statement.",
+      "transcript_snippet": "There's no evidence Charlie was even shot. There's no evidence Charlie was even shot.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8621",
+      "ref": "C-8621",
+      "label": "Host Says the Account of What Was Found in Charlie's Body Keeps Changing",
+      "claim": "The host says the story of what was found in Charlie's body keeps shifting between one little fragment in the stomach, the thorax, and under his skin.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10710",
+        "N-11135"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:52",
+      "investigative_direction": "Obtain the autopsy and ATF reports describing the fragments with location and chain of custody.",
+      "transcript_snippet": "Or it was his thorax and then it was under his skin.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8622",
+      "ref": "C-8622",
+      "label": "Host Says the Defense Has Requested the ATF Files",
+      "claim": "The host says she looks forward to the defense getting the actual files, not just a summary, that they are requesting from the ATF.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10975"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:52",
+      "investigative_direction": "Check the docket for the defense's ATF discovery request and any court response.",
+      "transcript_snippet": "I am looking forward to the defense getting the files from the ATF that they are requesting.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8623",
+      "ref": "C-8623",
+      "label": "Host Says Mikey Called His Wife First and Three-Wayed Erika Minutes Later",
+      "claim": "The host says Mikey called his wife, that they seemed already on the phone, and that he conferenced Erika in minutes later, rather than calling her within seconds.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:27",
+      "investigative_direction": "Obtain the call detail records for the relevant numbers.",
+      "transcript_snippet": "Mikey called his wife. It seems like it like they were kind of already on the phone.",
+      "supports_claim_refs": [
+        "C-1932",
+        "C-5266"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-2",
+        "N-221"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8624",
+      "ref": "C-8624",
+      "label": "Host Says Elizabeth McCoy Was Left Out of the Initial Narrative",
+      "claim": "The host says the first narrative left Elizabeth McCoy out of the story and that the call to his wife was added later.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10339"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:27",
+      "investigative_direction": "Compare the earliest accounts of the call sequence with later ones.",
+      "transcript_snippet": "Kind of like left Elizabeth McCoy out of the story.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-221",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8625",
+      "ref": "C-8625",
+      "label": "Host Says Charlie Used to Ask Trump's Speechwriter to Save a Sentence",
+      "claim": "The host says Charlie had an in with Trump's speechwriter and would ask him to save a sentence, for example when promoting Blexit.",
+      "anchored_artifacts": [
+        "A-2951.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:06",
+      "investigative_direction": "Ask former speechwriters about this practice.",
+      "transcript_snippet": "he always would had an in with Trump's speechwriter.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8626",
+      "ref": "C-8626",
+      "label": "Host Says Trump Did Not Write the Line That Charlie Loved Erika",
+      "claim": "The host says Trump did not write the line in the clip that Charlie loved Erika very much but that the speechwriter did, which means somebody replaced Charlie as the one placing such lines.",
+      "anchored_artifacts": [
+        "A-2951.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:06",
+      "investigative_direction": "Identify the speech and the drafting process.",
+      "transcript_snippet": "And so Trump did not write that, obviously. The speechwriter did, which means somebody replaced Charlie.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8627",
+      "ref": "C-8627",
+      "label": "Host Speculates Stacy Sheridan Asked for the Charlie Loved Erika Line",
+      "claim": "The host speculates that Stacy Sheridan or somebody asked for the line that Charlie loved Erika to be put in the speech.",
+      "anchored_artifacts": [
+        "A-2951.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:53:08",
+      "investigative_direction": "This is a guess; ask the White House speechwriting office.",
+      "transcript_snippet": "Maybe it was Stacy Sheridan or somebody",
+      "mentions_person_refs": [
+        "N-3",
+        "N-190",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8628",
+      "ref": "C-8628",
+      "label": "Host Reads That Charlie Said on the Iced Coffee Hour He Wanted to Be Remembered for Courage and Faith",
+      "claim": "The host reads her producers' note that on the Iced Coffee Hour Charlie said he wanted to be remembered for courage and faith.",
+      "anchored_artifacts": [
+        "A-1937.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:57:05",
+      "investigative_direction": "Locate the episode and timestamp of the Iced Coffee Hour interview.",
+      "transcript_snippet": "I want to be remembered for courage, for my faith.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8629",
+      "ref": "C-8629",
+      "label": "Host Says Charlie Said the Night Before That They Were Going to Kill Him",
+      "claim": "The host says that the night before Charlie said they were going to kill him, while TPUSA people now say he never had that thought.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:45",
+      "investigative_direction": "Obtain the texts the host references.",
+      "transcript_snippet": "And then like when he actually the night before said they're going to kill me",
+      "supports_claim_refs": [
+        "C-6825"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8630",
+      "ref": "C-8630",
+      "label": "Host Says Attendees Recalled a North Carolina Donor Asking How He Would Do It All",
+      "claim": "The host says attendees she spoke to recalled that after Charlie's presentation a woman donor from North Carolina asked how he would do it all as one person.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10437",
+        "N-10584"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:45",
+      "investigative_direction": "Identify the donor and obtain her recollection.",
+      "transcript_snippet": "after Charlie gave his presentation, uh, a donor, woman from North Carolina, asked him like",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8631",
+      "ref": "C-8631",
+      "label": "Host Says Charlie Answered With Steve Jobs and Hiring Lieutenants",
+      "claim": "The host says attendees recalled Charlie answering by saying something about Steve Jobs and hiring lieutenants he trusts to run departments, not about who would succeed him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10437",
+        "N-10584"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:45",
+      "investigative_direction": "Compare to the audio and to Erika's account.",
+      "transcript_snippet": "To which he then said something about Steve Jobs and how these people hire lieutenants who they trust.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8632",
+      "ref": "C-8632",
+      "label": "Host Says She Thinks They Are Close to Pinning Down Lori's Whereabouts",
+      "claim": "The host says that as to Lori's whereabouts on September 10 her team thinks it is pretty close to nailing her down.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10582"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:25",
+      "investigative_direction": "Await publication of the findings.",
+      "transcript_snippet": "we think we're pretty close to nailing her down",
+      "mentions_person_refs": [
+        "N-3",
+        "N-500",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8633",
+      "ref": "C-8633",
+      "label": "Host Asks for Tips on Erika's Whereabouts at the moretips Address Again",
+      "claim": "The host says anyone with knowledge of Erika's whereabouts on September 10 should send tips to the show email.",
+      "anchored_artifacts": [
+        "A-2952.1"
+      ],
+      "related_nodes": [
+        "N-10582"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:25",
+      "investigative_direction": "Track what arrives through the tip line.",
+      "transcript_snippet": "if you know anything about um Erika's whereabouts on September 10th, we want to hear from you More tips at CandaceOwens. com.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-8634",
+      "ref": "C-8634",
+      "label": "Host Says Judge Liman Threw Out a Portion of the Lively Case Against Baldoni",
+      "claim": "The host says she heard Judge Leeman threw out an entire portion of Blake Lively's case against Justin Baldoni for sexual harassment.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10661"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:25",
+      "investigative_direction": "Check the court docket and ruling.",
+      "transcript_snippet": "I heard about Judge Leeman throwing out an entire portion of a Justin Baldoni's case",
+      "mentions_person_refs": [
+        "N-3",
+        "N-496",
+        "N-495"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-195",
+      "ref": "M-195",
+      "canonical_term": "Shady Bunch",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 88,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "he is my favorite of the shady bunch over at Turning Point USA",
+          "context": "Host opens by naming Blake Neff her favorite of the shady bunch.",
+          "confidence": "high",
+          "tags": [
+            "shady bunch",
+            "blake neff"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-224",
+      "ref": "M-224",
+      "canonical_term": "Blake's Got to Blake",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 88,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "Tom's got to Tom. Blake's got to Blake, you know?",
+          "context": "Host compares Blake Neff's predictable self-sabotage to Tom and Jerry reruns.",
+          "confidence": "high",
+          "tags": [
+            "blake neff",
+            "tom and jerry"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-225",
+      "ref": "M-225",
+      "canonical_term": "Mythomania",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 88,
+          "video_timestamp": "00:03:03",
+          "speaker_node_ref": "N-3",
+          "quote": "That's our vocab word of the day. Mythomania.",
+          "context": "Host introduces mythomania as the vocab word of the day before applying it to Netanyahu and TPUSA.",
+          "confidence": "high",
+          "tags": [
+            "vocab word",
+            "mythomania"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-226",
+      "ref": "M-226",
+      "canonical_term": "Subway Knife Psycho",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 88,
+          "video_timestamp": "00:17:45",
+          "speaker_node_ref": "N-3",
+          "quote": "I've never been compared to a maniac brandishing a weapon on a subway, okay?",
+          "context": "Host reacts to Neff's knife-on-the-subway comparison.",
+          "confidence": "high",
+          "tags": [
+            "subway",
+            "blake neff"
+          ]
+        },
+        {
+          "episode": 88,
+          "video_timestamp": "00:21:33",
+          "speaker_node_ref": "N-3",
+          "quote": "If a maniac was brandishing a knife and screaming at people on the subway",
+          "context": "Host reads Sean's X reply mocking Neff's analogy.",
+          "confidence": "high",
+          "tags": [
+            "subway",
+            "viewer comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-227",
+      "ref": "M-227",
+      "canonical_term": "DC Dip and Twirl",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 88,
+          "video_timestamp": "00:28:12",
+          "speaker_node_ref": "N-3",
+          "quote": "what's referred to as the DC dip and twirl",
+          "context": "Host describes Erika's NYT Book Summit answer as dodging the question.",
+          "confidence": "high",
+          "tags": [
+            "dodge",
+            "erika"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 88,
+          "video_timestamp": "00:47:48",
+          "speaker_node_ref": "N-3",
+          "quote": "everything is still tremendously fake and gay",
+          "context": "Host sums up the Bondi dismissal and the ruling elites.",
+          "confidence": "high",
+          "tags": [
+            "fake and gay",
+            "elites"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 88,
+          "video_timestamp": "00:54:34",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king. He wins.",
+          "context": "Host replies to Jen's Hands Easter comment.",
+          "confidence": "high",
+          "tags": [
+            "christ is king",
+            "easter"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 88,
+          "video_timestamp": "00:39:53",
+          "speaker_node_ref": "N-3",
+          "quote": "Please tell us, send us in tips, more tips at candaceowens. com.",
+          "context": "Host puts out an APB for witnesses to the parking lot collapse.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        },
+        {
+          "episode": 88,
+          "video_timestamp": "00:43:53",
+          "speaker_node_ref": "N-3",
+          "quote": "please email us at moretips@candaceowens. com.",
+          "context": "Host asks for more information on Erika's whereabouts.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        },
+        {
+          "episode": 88,
+          "video_timestamp": "00:44:53",
+          "speaker_node_ref": "N-3",
+          "quote": "Moretips@candaceowens. com.",
+          "context": "Host repeats the tip address.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        },
+        {
+          "episode": 88,
+          "video_timestamp": "00:59:25",
+          "speaker_node_ref": "N-3",
+          "quote": "More tips at CandaceOwens. com.",
+          "context": "Host asks again for information on Erika's whereabouts on September 10.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 88,
+          "video_timestamp": "01:00:49",
+          "speaker_node_ref": "N-3",
+          "quote": "Why wouldn't you be drinking out of a mug that says CIA?",
+          "context": "Host plugs the CIA merch sweatshirt and mug.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "cia"
+          ]
+        }
+      ]
+    }
+  ]
 }

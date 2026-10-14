@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq106
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton): N-645, N-646, N-647, N-648, N-10936, N-10937, N-10938, N-10939, N-10940, N-10941
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-33, N-34, N-46, N-69, N-97, N-162, N-163, N-272, N-284, N-383, N-620, N-628, N-634, N-639, N-10000, N-10070, N-10075, N-10577, N-10578, N-10637, N-10643, N-10664, N-10888, N-10899, N-10923
+  - Tip-minted Nodes (skeleton): N-645, N-646, N-647, N-648, N-10937, N-10938, N-10939, N-10940, N-10941
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-33, N-34, N-46, N-69, N-97, N-162, N-163, N-272, N-284, N-383, N-620, N-628, N-634, N-639, N-10000, N-10070, N-10075, N-10577, N-10578, N-10637, N-10643, N-10664, N-10888, N-10899, N-10923, N-10936
   - Claim Range: C-4163–C-4212
   - (see registers)
 

@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: ee5af5b0f78b7603290afbdc0a52db7cee4a8308f326d1886be1cf5da8aee5e5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-801, N-802, N-803, N-11146, N-11147
+  - Tip-minted Nodes (supplement_2026-10b): N-801, N-802, N-803, N-11146
   - Tip-minted Nodes (reintro-ep143): N-11091
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7535–C-7598
   - New Nodes Introduced: N-10809
-  - Reused Nodes Appearing: N-2, N-162, N-126, N-267, N-10808, N-4, N-9, N-14, N-18, N-36, N-39, N-69, N-82, N-229, N-242, N-272, N-278, N-495, N-496, N-791, N-10000, N-10022, N-10100, N-10151, N-10270, N-10324, N-10340, N-10544, N-10651, N-10661, N-10741, N-10795, N-10799, N-10810, N-10862, N-11065, N-11068, N-800
+  - Reused Nodes Appearing: N-2, N-162, N-126, N-267, N-10808, N-4, N-9, N-14, N-18, N-36, N-39, N-69, N-82, N-229, N-242, N-272, N-278, N-495, N-496, N-791, N-10000, N-10022, N-10100, N-10151, N-10270, N-10324, N-10340, N-10544, N-10651, N-10661, N-10741, N-10795, N-10799, N-10810, N-10862, N-11065, N-11068, N-800, N-11147
   - (see registers)
 
 # Episode 143 Analysis – Bride of Charlie

@@ -12,10 +12,10 @@
 - **Model Version**: grok-manual-extract-seq158
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-11082, N-11083, N-11084, N-11085, N-11086, N-11087, N-11088, N-11089, N-11090
+  - Tip-minted Nodes (supplement_2026-10): N-11082, N-11083, N-11085, N-11087, N-11088, N-11089, N-11090
   - Claim Range (supplement_2026-10): C-6286–C-6350
-  - New Nodes Introduced: N-10864, N-10866, N-10867, N-10868
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-194, N-242, N-284, N-221, N-272, N-7, N-508, N-162, N-10056, N-10198, N-10218, N-10839, N-10859, N-10860, N-10863, N-10, N-8, N-13, N-16, N-18, N-10865, N-215, N-229, N-337, N-534, N-10027, N-10063, N-10070, N-10103, N-10342, N-10862, N-10888, N-11091
+  - New Nodes Introduced: N-10864, N-10867, N-10868
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-194, N-242, N-284, N-221, N-272, N-7, N-508, N-162, N-10056, N-10198, N-10218, N-10839, N-10859, N-10860, N-10863, N-10, N-8, N-13, N-16, N-18, N-10865, N-215, N-229, N-337, N-534, N-10027, N-10063, N-10070, N-10103, N-10342, N-10862, N-10888, N-11091, N-10866, N-11084, N-11086
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dylan not minted. Leah Thomas not minted.
 
